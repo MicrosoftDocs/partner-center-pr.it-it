@@ -1,24 +1,28 @@
 ---
 title: Aggiornare le info degli account dei clienti | Centro per i partner
-description: Nel Centro per i Partner puoi aggiornare le informazioni di fatturazione del cliente e altri dettagli dell&quot;azienda.
+description: Nel Centro per i partner puoi aggiornare le informazioni di fatturazione del cliente e altri dettagli dell&quot;azienda.
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 7fa9220ee66fc207f34dbcc4782247ba88701232
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 7150ff922dd87b50dc67d8c00ebc6db1c4036b6d
 
 ---
 
 # Aggiornare le info degli account dei clienti
 
+**Si applica a**
 
-Nel Centro per i Partner puoi aggiornare le informazioni di fatturazione del cliente e altri dettagli dell'azienda.
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
+
+Nel Centro per i partner puoi aggiornare le informazioni di fatturazione del cliente e altri dettagli dell'azienda.
 
 **Aggiornare i dettagli dei clienti**
 
 1.  Nel menu **Dashboard** seleziona **Clienti**. Scegli quindi un cliente nell'elenco.
-2.  Nel menu del cliente seleziona **Account** e quindi **Modifica**.
-3.  Dopo aver apportato le modifiche seleziona **Invia**.
+2.  Nel menu del cliente seleziona **Account**, quindi **Modifica**.
+3.  Dopo aver apportato le modifiche, seleziona **Invia**.
 
  
 
@@ -29,6 +33,6 @@ Nel Centro per i Partner puoi aggiornare le informazioni di fatturazione del cli
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

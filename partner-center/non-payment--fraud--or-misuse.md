@@ -1,18 +1,22 @@
 ---
 title: Insoluti, frodi o uso improprio | Centro per i partner
-description: Sei responsabile dal punto di vista finanziario di acquisti fraudolenti effettuati dai tuoi clienti e/o del mancato pagamento dei servizi acquistati.
+description: Sei responsabile dal punto di vista finanziario di acquisti fraudolenti effettuati dai tuoi clienti e/o del mancato pagamento dei servizi acquistati. Ti consigliamo pertanto di implementare controlli per la mitigazione dei rischi tramite il rilevamento e la prevenzione delle frodi.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: f54d9f51b8aa61ebc2207d43857143eb42d54eb6
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
 
 ---
 
 # Insoluti, frodi o uso improprio
 
+**Si applica a**
 
-Sei responsabile dal punto di vista finanziario di acquisti fraudolenti effettuati dai tuoi clienti e/o del mancato pagamento dei servizi acquistati da parte del cliente. Ti consigliamo pertanto di implementare controlli per la mitigazione dei rischi tramite il rilevamento e la prevenzione delle frodi. Sei responsabile di decidere se estendere il credito a un cliente.
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
+
+Sei responsabile dal punto di vista finanziario di acquisti fraudolenti effettuati dai tuoi clienti e/o del mancato pagamento dei servizi acquistati. Ti consigliamo pertanto di implementare controlli per la mitigazione dei rischi tramite il rilevamento e la prevenzione delle frodi. Sei responsabile di decidere se estendere il credito a un cliente.
 
 ## Contenuto della sezione
 
@@ -62,6 +66,6 @@ Se Microsoft rileva attività di partner o clienti che violano o potrebbero viol
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

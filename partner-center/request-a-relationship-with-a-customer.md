@@ -4,13 +4,17 @@ description: "La richiesta di una relazione viene usata per gli scenari multipar
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: c438e5ba3589ce93e46f6bab688a9e2a634dcabe
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
 
 ---
 
 # Richiedere una relazione con un cliente
 
+**Si applica a**
+
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
 La richiesta di una relazione viene usata per gli scenari [multipartner](multipartner.md) e [multicanale](multichannel.md). È anche utile se un cliente rimuove i tuoi privilegi di amministratore delegato e devi ripristinarli per effettuare il provisioning o fornire supporto.
 
@@ -41,6 +45,6 @@ Per ristabilire i privilegi di amministratore delegato rimossi dal cliente, puoi
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

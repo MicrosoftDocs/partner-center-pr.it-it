@@ -1,16 +1,19 @@
 ---
 title: Migrazione delle sottoscrizioni Dynamics AX a Dynamics 365 | Centro
-description: Microsoft introduce Dynamics 365, la nuova generazione di applicazioni aziendali intelligenti per espansione, evoluzione e trasformazione delle organizzazioni.
+description: "Microsoft introduce Dynamics 365, la nuova generazione di applicazioni aziendali intelligenti che consentono l&quot;espansione, evoluzione e trasformazione della tua organizzazione per soddisfare le esigenze dei clienti esistenti e acquisire nuove opportunità."
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 1d17213d3b591056d6af2dd1855d6c52a17801f5
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
 
 ---
 
 # Migrazione delle sottoscrizioni Dynamics AX a Dynamics 365
 
+**Si applica a**
+
+-  Centro per i partner
 
 Microsoft introduce Dynamics 365, la nuova generazione di applicazioni aziendali intelligenti che consentono l'espansione, evoluzione e trasformazione della tua organizzazione per soddisfare le esigenze dei clienti esistenti e acquisire nuove opportunità. Nell'ambito del nuovo prodotto, Microsoft ha introdotto nuovi piani di sottoscrizione per Microsoft Dynamics per i clienti dal 1 novembre 2016, simili ma non identici ai piani correnti.
 
@@ -118,6 +121,6 @@ Dopo che il cliente ti accetta come provider indiretto, la procedura per il prov
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

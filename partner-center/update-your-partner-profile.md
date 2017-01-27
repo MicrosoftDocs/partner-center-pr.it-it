@@ -1,18 +1,22 @@
 ---
 title: Aggiornare il profilo del partner | Centro per i partner
-description: Al primo accesso al Centro per i partner come amministratore, controlla i dettagli, registra le esenzioni fiscali e controlla le info di contatto nei profili.
+description: La prima volta che accedi al Centro per i partner come amministratore, assicurati che i dettagli per il supporto siano corretti, registra le esenzioni fiscali se appropriato e controlla le informazioni sul contatto nei tuoi profili.
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 87dcec53f175eb554cb69823a2c0056454ec808a
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
 
 ---
 
 # Aggiornare il profilo del partner
 
+**Si applica a**
 
-La prima volta che accedi al Centro per i partner come amministratore, assicurati che i dettagli per il supporto siano corretti, registra le esenzioni fiscali se appropriato e controlla le informazioni di contatto nei tuoi profili.
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
+
+La prima volta che accedi al Centro per i partner come amministratore, assicurati che i dettagli per il supporto siano corretti, registra le esenzioni fiscali se appropriato e controlla le informazioni sul contatto nei tuoi profili.
 
 **Aggiornare i dettagli per il supporto**
 
@@ -38,6 +42,6 @@ La prima volta che accedi al Centro per i partner come amministratore, assicurat
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

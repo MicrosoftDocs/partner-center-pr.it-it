@@ -4,13 +4,16 @@ description: "I nostri partner usano molte metriche per valutare la crescita del
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: b1c82f315a00ac275af576d084fca1b43e666716
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
 ---
 
 # Migliorare i tassi di adozione e soddisfazione
 
+**Si applica a**
+
+-  Centro per i partner
 
 I nostri partner usano molte metriche per valutare la crescita delle loro attività e decidere dove concentrare gli investimenti. Il Centro per i partner può essere di aiuto fornendo dati che indicano se e come i clienti usano le licenze acquistate. Queste informazioni sono disponibili per i prodotti Office, incluso OneDrive for Business conteggiato insieme a SharePoint.
 
@@ -83,6 +86,6 @@ Se ricevi molte richieste di assistenza e domande relative alle procedure, il nu
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

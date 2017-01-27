@@ -1,16 +1,20 @@
 ---
 title: Usare i file di riconciliazione | Centro per i partner
-description: Per un elenco dettagliato delle voci per ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal dashboard del Centro per i partner.
+description: Per una visualizzazione delle voci relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal dashboard del Centro per i partner.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 8024efe9149ff224a8b2c7d76f46b664df328a3a
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 
 ---
 
 # Usare i file di riconciliazione
 
+**Si applica a**
+
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
 Per una visualizzazione delle voci relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal dashboard del Centro per i partner. I dettagli includono gli addebiti per le sottoscrizioni di ogni singolo cliente e gli eventi dettagliati, ad esempio un'aggiunta di postazioni a una sottoscrizione in corso.
 
@@ -503,6 +507,6 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

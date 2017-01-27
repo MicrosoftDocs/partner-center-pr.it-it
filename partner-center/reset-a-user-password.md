@@ -4,15 +4,20 @@ description: Se gli utenti dimenticano la password, puoi assegnare loro una nuov
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 6b62003ef9ca7c8d40141a3adaaca5f704eb7fa6
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
 
 ---
 
 # Reimpostare una password utente
 
+**Si applica a**
 
-Se gli utenti dimenticano la password, puoi assegnare loro una nuova password temporanea, che possono usare per l'accesso successivo al Centro per i partner.
+-  Centro per i partner
+   
+>**Nota** se sei iscritto al programma CSP (Cloud Solution Provider) in Microsoft Cloud Germania, vedi la pagina relativa alla [gestione utenti nel Centro per i partner per Microsoft Cloud Germania](user-management-in-partner-center-for-microsoft-cloud-germany.md) per informazioni sulla reimpostazione della password di un utente.
+
+Se gli utenti dimenticano la password, puoi assegnare loro una password temporanea, che possono usare per l'accesso successivo al Centro per i partner.
 
 **Reimpostare una password utente come amministratore**
 
@@ -26,7 +31,8 @@ Se gli utenti dimenticano la password, puoi assegnare loro una nuova password te
 **Reimpostare la tua password**
 
 1.  Accedi al Centro per i partner. Seleziona quindi il tuo nome nella parte superiore dello schermo e scegli **Profilo personale**.
-2.  Puoi vedere i tuoi ruoli e istruzioni per la modifica della password.
+
+2.  Puoi vedere i tuoi ruoli e le istruzioni per la modifica della password.
 
  
 
@@ -37,6 +43,6 @@ Se gli utenti dimenticano la password, puoi assegnare loro una nuova password te
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

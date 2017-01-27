@@ -1,16 +1,20 @@
 ---
 title: Leggere la fattura | Centro per i partner
 description: "La fattura è un riepilogo di tutti gli addebiti (per il programma, i prodotti e i clienti) per il periodo mensile corrente. È disponibile nel dashboard del Centro per i partner."
-ms.assetid: 
+ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 472bdfc06bc531d70c97e5192658fb6fd41990e3
-ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
 ---
 
 # Leggere la fattura
 
+**Si applica a**
+
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
 La fattura è un riepilogo di tutti gli addebiti (per il programma, i prodotti e i clienti) per il periodo mensile corrente. È disponibile nel dashboard del Centro per i partner.
 
@@ -35,11 +39,11 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 </tr>
 <tr class="odd">
 <td>Numero cliente</td>
-<td>Codice del cliente</td>
+<td>Codice del cliente.</td>
 </tr>
 <tr class="even">
-<td>Fatturazione</td>
-<td>Indirizzo a cui inviare la fattura. (Questo è l'indirizzo legale della società associato alla verifica della società e non può essere modificato.)</td>
+<td>Indirizzo fatturazione</td>
+<td>Indirizzo a cui inviare la fattura. Per cambiare questo indirizzo, modifica il tuo profilo dell'account del Centro per i partner.</td>
 </tr>
 <tr class="odd">
 <td>Addebiti periodici</td>
@@ -98,8 +102,8 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 <td>Indirizzo del sito Web per accedere al servizio clienti.</td>
 </tr>
 <tr class="even">
-<td>Indirizzo destinatario del servizio</td>
-<td>Indirizzo in cui viene usato il servizio. Per cambiare questo indirizzo, modifica il tuo profilo dell'account del Centro per i partner.</td>
+<td>Destinatario del servizio</td>
+<td>Indirizzo in cui viene usato il servizio. (Questo è l'indirizzo legale della società associato alla verifica della società e non può essere modificato.)</td>
 </tr>
 </tbody>
 </table>
@@ -115,6 +119,6 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

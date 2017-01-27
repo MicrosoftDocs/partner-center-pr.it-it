@@ -4,13 +4,17 @@ description: Prima di poter vendere sottoscrizioni, gestire la fatturazione o fo
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bae4e34ebed7511c13848826a3059b308abe0388
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
 
 ---
 
 # Aggiungere un nuovo cliente
 
+**Si applica a**
+
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
 Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto, devi creare un record per il tuo cliente nel Centro per i partner. Il record include le informazioni di contatto e un dominio di Azure AD.
 
@@ -35,6 +39,6 @@ Per visualizzare i dati del cliente in seguito, inclusa l'aggiunta di licenze pe
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

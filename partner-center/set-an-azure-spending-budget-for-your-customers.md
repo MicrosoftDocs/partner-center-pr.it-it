@@ -4,25 +4,31 @@ description: "Nel Centro per i partner puoi impostare un budget mensile per ogni
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 8e4eac4ff8db03d1a47c4eef6c1d037a62e3a923
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: a4afd889720acdfcb280486a3c05195aa7778674
 
 ---
 
 # Impostare un budget di spesa di Azure per i clienti
 
+**Si applica a**
 
-Nel Centro per i partner puoi impostare un budget mensile per ogni cliente, così le fatture di Azure non saranno una sorpresa alla fine del mese. Tieni traccia della spesa per Azure dei tuoi clienti rispetto al budget, in modo che, se lo superano, tu possa intervenire:
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
--   Ricevi una notifica tramite e-mail se i clienti si stanno avvicinando al limite del loro budget.
--   Controlla i costi di Azure dei tuoi clienti stimati per il mese, incluse le visualizzazioni dettagliate per ogni servizio.
--   Individua eventuali servizi configurati in modo non corretto oppure tendenze di uso insolite che possono lasciar pensare a una frode.
+Per aiutare i clienti a gestire la loro spesa di Azure, puoi impostare un budget mensile di spesa per ogni cliente, in modo che la loro fattura di Azure non sia superiore alla previsione. Impostare un budget di spesa per Azure ti consente di confrontare la spesa per Azure dei tuoi clienti durante il mese rispetto al budget. Con questa funzionalità, puoi: 
+
+-   Essere informato via e-mail se la spesa di un cliente sta raggiungendo il limite del budget.
+-   Controllare i costi di Azure stimati dei clienti per mese.
+-   Individuare eventuali servizi configurati in modo non corretto oppure tendenze di uso insolite che possono lasciar pensare a una frode.
 -   Collabora con il cliente per individuare la causa alla radice del problema e gestire i costi.
--   Imposta un importo più alto per il budget se tu e il tuo cliente siete d'accordo.
+-   Impostare un importo più alto per il budget se tu e il tuo cliente siete d'accordo.
 
-Tieni presente che il tuo cliente continuerà a usare le risorse e i servizi Azure (e a pagarli) a meno che tu non cambi le impostazioni del suo account nel portale di Azure.
+I dati sulla spesa per Azure rappresentano una stima, gli importi di fatturazione effettivi possono variare e il valore non tiene conto di imposte, crediti, rettifiche o altri costi applicabili. I dati sulla spesa vengono aggiornati una volta al giorno. I clienti continueranno a usare le risorse e i servizi Azure (e a pagarli) a meno che tu non cambi le impostazioni del loro account nel portale di Azure. 
 
-**Ricevere notifiche tramite e-mail**
+>**Note**   Questa funzionalità non è disponibile in account sandbox o Test in Production (TIP).
+
+**Abilitare le notifiche e-mail**
 
 1.  Nel menu Dashboard seleziona **Spesa per Microsoft Azure**.
 2.  Fai clic sul pulsante **Ricevi e-mail** per ricevere notifica se i tuoi clienti usano l'80% o più del loro budget. In questo modo potrai essere sempre aggiornato sulla fattura per Azure. Puoi modificare l'indirizzo e-mail predefinito e specificare un indirizzo personale o qualsiasi altro indirizzo e-mail per ricevere le notifiche.
@@ -50,7 +56,6 @@ Tieni presente che il tuo cliente continuerà a usare le risorse e i servizi Azu
 2.  Seleziona un cliente nell'elenco dei clienti.
 3.  In **Sottoscrizioni in base all'uso** nella pagina di gestione dei clienti scegli una sottoscrizione. Visualizza il relativo uso stimato corrente e un elenco dei costi dettagliati in base al servizio.
 
-I dati sulla spesa per Azure rappresentano una stima, gli importi di fatturazione effettivi possono variare e il valore non tiene conto di imposte, crediti, rettifiche o altri costi applicabili. I dati sulla spesa vengono aggiornati una volta al giorno.
 
  
 
@@ -61,6 +66,6 @@ I dati sulla spesa per Azure rappresentano una stima, gli importi di fatturazion
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

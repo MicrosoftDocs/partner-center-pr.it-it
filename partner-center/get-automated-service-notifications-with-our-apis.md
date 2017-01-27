@@ -1,16 +1,19 @@
 ---
 title: Ottenere notifiche automatizzate per i servizi con le API Microsoft
-description: "Office 365 e Microsoft Azure offrono API per recuperare stato di integrità del servizio, comunicazioni dal centro messaggi, eventi di manutenzione pianificata."
+description: "Office 365 e Microsoft Azure forniscono un&quot;API che i partner possono usare per recuperare lo stato di integrità del servizio in tempo reale, comunicazioni dal centro messaggi ed eventi di manutenzione pianificata."
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 3e61c181c450cb31e167ce3cb8063886ce521aa7
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: 42b29f9cf8c450560284fea39efd0638672f32b1
 
 ---
 
 # Ottenere notifiche automatizzate per i servizi con le API Microsoft
 
+**Si applica a**
+
+-  Centro per i partner
 
 Office 365 e Microsoft Azure forniscono un'API che i partner possono usare per recuperare lo stato di integrità del servizio in tempo reale, comunicazioni dal centro messaggi ed eventi di manutenzione pianificata. Queste API sono pubbliche e i partner possono usarle per conto dei propri clienti grazie ai privilegi di amministratore delegato.
 
@@ -29,6 +32,6 @@ API REST di Azure Application Insights: [codice](http://go.microsoft.com/fwlink/
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

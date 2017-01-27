@@ -4,13 +4,16 @@ description: Dopo aver acquistato una nuova sottoscrizione per un cliente, puoi 
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 71b89bc6ee19183cb311f2a4d434397e1e41ad5f
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
 
 ---
 
 # Attività di gestione degli utenti per gli account dei clienti
 
+**Si applica a**
+
+-  Centro per i partner
 
 Questo argomento include istruzioni per le attività di gestione degli account dei clienti:
 
@@ -87,6 +90,6 @@ Se devi ripristinare questo account entro 30 giorni, puoi trovarlo nella scheda 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,17 @@ description: Dopo aver creato un record del cliente nel Centro per i partner, pu
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 57f9cd6572f656cd43594a606d39942b5fdc724e
-ms.openlocfilehash: 97e37370a2b9fa32121761a06e9aef1441334f2c
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: e23594a9bb9371cb1af1a2ff9047ef559050def0
 
 ---
 
 # Creare una nuova sottoscrizione
 
+**Si applica a**
+
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
 Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo.
 
@@ -22,13 +26,15 @@ Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere lo
 4.  Dopo aver aggiunto la sottoscrizione, aprila facendo clic sul nome della sottoscrizione nell'elenco delle sottoscrizioni. In questa pagina di modifica puoi selezionare licenze aggiuntive, se disponibili.
 5.  Nella pagina di modifica puoi anche modificare la quantità di licenze o sospendere la sottoscrizione.
 
-**Abilitare il cliente per la gestione della sottoscrizione di Azure**
+**Abilitare i clienti per la gestione delle sottoscrizioni di Azure**
 
-1.  Come amministratore CSP, puoi creare una sottoscrizione di Azure per il cliente (vedi **Creare una nuova sottoscrizione** sopra).
-2.  L'opzione per l'amministrazione per conto di altri (AOBO, Admin On Behalf Of) è disponibile nel portale di Azure del cliente dalla pagina **Gestione servizi** o dall'elenco dei clienti. (Nell'ambito di AOBO, l'URL contiene un tenant di destinazione, in modo che il portale di Azure sappia che l'utente appartiene al tenant del CSP ma accede al cliente.)
-3.  Nell'elenco delle sottoscrizioni seleziona la sottoscrizione di Azure del cliente.
-4.  Assegna un ruolo a uno qualsiasi degli utenti del cliente in modo che possano creare e gestire le risorse nella sottoscrizione. (Anche se gli utenti del cliente sono in grado di gestire le risorse nella loro sottoscrizione, il partner è ancora responsabile dal punto di vista finanziario).
+Dopo aver creato una sottoscrizione di Microsoft Azure per un cliente, puoi consentirgli di gestire la sottoscrizione. Per farlo, devi accedere al Portale di gestione di Microsoft Azure del cliente. 
 
+1.  Per aprire il Portale Azure del cliente, espandi la presentazione del cliente nell'elenco dei clienti o seleziona il nome del cliente e quindi seleziona **Portale di gestione di Microsoft Azure**.
+    
+    **Note** Se ti viene chiesto di effettuare l'accesso al Portale Azure, potresti non avere privilegi amministrativi delegati. Seleziona **Richiedi una relazione** per invitare il cliente a identificarti come suo Partner of Record. Quando il cliente accetta l'invio, ti sono automaticamente concessi i privilegi amministrativi delegati. 
+2.  Nel Portale Azure, apri l'elenco delle sottoscrizioni del cliente e seleziona la sottoscrizione di Azure del cliente.
+3.  Assegna un ruolo a uno qualsiasi degli utenti del cliente in modo che possano creare e gestire le risorse nella sottoscrizione.
 
  
 
@@ -37,6 +43,6 @@ Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere lo
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

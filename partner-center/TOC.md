@@ -1,13 +1,12 @@
-
 # [Iscriversi al programma CSP (Cloud Solution Provider)](enrolling-in-the-csp-program.md)
-## [Transizione da Pinpoint al Centro per i partner](importing-pinpoint-profiles-into-partner-center.md)
 ## [Contratti, listini prezzi e offerte per CSP](csp-documents-and-learning-resources.md)
 # [Gestire l'account per il Centro per i partner](partner-center-account-setup.md)
 ## [Aggiornare il profilo del partner](update-your-partner-profile.md)
+## [Transizione da Pinpoint al Centro per i partner](importing-pinpoint-profiles-into-partner-center.md)
+## [Creare un profilo di marketing](create-a-marketing-profile.md)
 ## [Creare account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md)
 ## [Ripristinare un account sospeso per il Centro per i partner](suspended-partner-center-account.md)
 ## [Reimpostare una password utente](reset-a-user-password.md)
-## [Creare un profilo di marketing](create-a-marketing-profile.md)
 ## [Vedere offerte e prezzi](see-offers-and-pricing.md)
 ## [Personalizzare il catalogo](customize-the-catalog.md)
 # [Fatturazione](billing.md)
@@ -49,9 +48,13 @@
 ## [Comunicazioni con i clienti da Microsoft](customer-communication-from-microsoft.md)
 ## [Supporto in autonomia dei clienti](customer-self-support.md)
 ## [Inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md)
-# [Modello di contratto per il cliente](agreements.md)
+# [Modelli di contratto per il cliente](agreements.md)
+# [Centro per i partner per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md)
+## [Iscriversi al Centro per i partner per Microsoft Cloud Germania](enroll-in-csp-for-microsoft-cloud-germany.md)
+## [Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud Germania](user-management-in-partner-center-for-microsoft-cloud-germany.md)
 
 
-<!--HONumber=Nov16_HO4-->
+
+<!--HONumber=Jan17_HO2-->
 
 

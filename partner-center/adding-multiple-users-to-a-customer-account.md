@@ -1,16 +1,19 @@
 ---
 title: "Creare più utenti per l&quot;account di un cliente | Centro per i partner"
-description: "Puoi aggiungere più utenti contemporaneamente all&quot;account di un cliente caricando un file con valori delimitati da virgole (CSV) nel Centro per i partner."
+description: "Puoi aggiungere più utenti contemporaneamente all&quot;account di un cliente caricando un file di dati con valori delimitati da virgole (CSV) nel Centro per i partner."
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d8aa280363bc654170c10ea0497a77bcd1e09e11
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
 
 ---
 
-# Creare più utenti per l'account di un cliente
+# Aggiungere più utenti all'account di un cliente
 
+**Si applica a**
+
+-  Centro per i partner
 
 Puoi aggiungere più utenti contemporaneamente all'account di un cliente caricando un file di dati con valori delimitati da virgole (CSV) nel Centro per i partner. Puoi scaricare un file di dati di esempio dal Centro per i partner e quindi modificarlo per i tuoi scopi oppure puoi creare un nuovo file di dati usando il modello di dati definito di seguito.
 
@@ -69,6 +72,6 @@ Il Centro per i partner assegna automaticamente le autorizzazioni **può usare l
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

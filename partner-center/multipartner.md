@@ -4,13 +4,17 @@ description: "Un cliente può scegliere di collaborare con più partner nel prog
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: ec77054e39c7cc1868deb502e041784539c5da2f
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 9680b98863cd10d314e05941572ca46a8388ef3d
 
 ---
 
 # Multipartner
 
+**Si applica a**
+
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
 Un cliente può scegliere di collaborare con più partner nel programma Cloud Solution Provider specializzati in servizi diversi. Ad esempio, un partner per Office 365 e un altro partner per Microsoft Azure. Oppure, all'interno di un singolo abbonamento a Office 365, un partner per Exchange Online e uno per SharePoint Online.
 
@@ -35,6 +39,6 @@ La funzionalità multipartner non consente di:
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

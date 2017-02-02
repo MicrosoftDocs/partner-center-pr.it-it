@@ -1,16 +1,20 @@
 ---
 title: Offrire supporto per la fatturazione | Centro per i partner
-description: Sei tu il responsabile del rapporto di fatturazione con i tuoi clienti e devi rispondere a tutte le domande relative alla fatturazione inviate dai clienti.
+description: Sei tu il responsabile del rapporto di fatturazione con i tuoi clienti e devi rispondere a tutte le domande relative alla fatturazione che i clienti ti invieranno.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a442cb3b47303fd5a03999b9a22f4ab33aa8a15b
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 3806b7b4934c0af85573936dc6d978bf09bdbf18
 
 ---
 
 # Offrire supporto per la fatturazione
 
+**Si applica a**
+
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
 Sei tu il responsabile del rapporto di fatturazione con i tuoi clienti e devi rispondere a tutte le domande relative alla fatturazione che i clienti ti invieranno.
 
@@ -49,6 +53,6 @@ Sei tu il responsabile del rapporto di fatturazione con i tuoi clienti e devi ri
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

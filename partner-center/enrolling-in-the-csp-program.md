@@ -1,18 +1,24 @@
 ---
 title: Iscriversi al programma CSP | Centro per i partner
-description: Prima di iscriverti al programma Cloud Solution Provider, vedi queste informazioni sui requisiti del programma CSP.
+description: Prima di iscriverti al programma Cloud Solution Provider, consulta queste informazioni sui requisiti del programma CSP.
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bc49a7d800839a02bee99c99d67068d6f7ceb403
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 
 ---
 
-# Iscriversi al programma CSP (Cloud Solution Provider)
+# Iscriversi al programma Cloud Solution Provider
 
+**Si applica a**
 
-Prima di iscriverti al programma Cloud Solution Provider, vedi queste informazioni sui [requisiti del programma CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
+-  Centro per i partner
+
+>**Nota**<br>
+Per informazioni sulla registrazione al programma Cloud Solution Provider per Microsoft Cloud Germania, vedere [Iscriversi al programma Cloud Solution Provider per Microsoft Cloud Germania](enroll-in-csp-for-microsoft-cloud-germany.md) e [Centro per i Partner per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md).
+
+Prima di iscriverti al programma Cloud Solution Provider (CSP), vedi queste informazioni sui [requisiti del programma CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
 
 Per altre informazioni sul contratto per il partner e sugli altri requisiti del programma, vedi [Contratti, listini prezzi e offerte per CSP](csp-documents-and-learning-resources.md).
 
@@ -59,6 +65,6 @@ Tieni presente che il tuo indirizzo e-mail con autenticazione di Azure AD esiste
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

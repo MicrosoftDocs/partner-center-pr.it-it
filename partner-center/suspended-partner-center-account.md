@@ -4,40 +4,50 @@ description: "Scopri come ripristinare un account del Centro per i partner sospe
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: baafd51417845f4edd627a5fd71aceb6456ce3f5
+ms.sourcegitcommit: 7e12c613050af1c76caa3fd87a5098ee501c0d9c
+ms.openlocfilehash: e749e49fe70d4f20d1d428d9c0ad9ede5751ae1d
 
 ---
 
 # Ripristinare un account sospeso per il Centro per i partner
 
+Questo articolo spiega come procedere se l'account del Centro per i partner viene sospeso.
 
-Scopri come ripristinare un account del Centro per i partner sospeso, perché si verifica la sospensione e come puoi usare il tuo account durante la sospensione.
+**Si applica a**
 
-## <a href="" id="suspendedpartnercenteraccounts"></a>Motivi delle sospensioni dell'account del Centro per i partner
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
+
+>**Importante**<br>
+Mentre il tuo account del Centro per i partner è sospeso, puoi continuare a gestire le distribuzioni, le licenze e i servizi esistenti. Tuttavia, non sarai in grado di autorizzare o rivendere nuove licenze o servizi fino a quando il tuo account non viene ripristinato.
+
+## Perché gli account del Centro per i partner vengono sospesi
+
+Microsoft sospenderà un account del Centro per i partner per uno dei motivi seguenti:
+
+- Quando l'importo della fatturazione corrente è scaduto da oltre 60 giorni 
+- Quando vengono rilevati usi impropri significativi per l'account
+- Quando si verificano problemi sulle operazioni dei provider indiretti che influiscono negativamente sul tuo account (solo i rivenditori indiretti)
+
+## Cosa fare se il tuo account viene sospeso
+
+Se sai che l'account è attuale, invia una richiesta di supporto al Supporto per il Centro per i partner, per scoprire perché il tuo account è stato sospeso. 
+
+Se non sei sicuro che l'account sia attuale, seleziona **Fatturazione** da **Dashboard** per controllare la fattura. La pagina della fatturazione mostra la cronologia e le tendenze della fatturazione, il saldo esigibile del mese corrente, link ai file di fatturazione e di riconciliazione e informazioni sull'ultimo pagamento.
+
+Se l'account è scaduto, segui le istruzioni sulla fattura per predisporre il pagamento, quindi invia una richiesta di supporto per richiedere che il tuo account sia reinstallato. 
+
+**Per inviare una richiesta di supporto**
+
+1.  Nel menu **Dashboard** seleziona **Richieste di supporto > Richieste Centro per i partner**.
+2.  Seleziona **Nuova richiesta**. 
+3.  Compila il modulo e quindi seleziona **Invia**. Un rappresentante del Supporto del Centro per i partner ti contatterà per spiegare perché l'account è stato sospeso e come ripristinarlo.
 
 
-Microsoft può sospendere un account del Centro per i partner per i motivi seguenti:
-
--   Quando l'importo per la fatturazione corrente è scaduto da 60 giorni
--   Quando vengono rilevati usi impropri significativi per l'account
--   Eventi esterni che possono influire sull'operatività dell'account, come disastri naturali
-
-**Se il tuo account del Centro per i partner viene sospeso**
-
--   Registra immediatamente una richiesta di supporto e controlla i record dei pagamenti. Quando viene sospeso il tuo account del Centro per i partner, puoi continuare a gestire le distribuzioni, le licenze e i servizi esistenti. Durante la sospensione non puoi attivare nuove licenze o servizi fino al saldo dell'intero importo insoluto oppure fino alla risoluzione degli eventi tramite una richiesta di supporto.
-
-    Nel caso sia necessario risolvere il problema della sospensione tramite un pagamento, usa i normali metodi per effettuare il pagamento e quindi contatta il Centro per i partner tramite una richiesta di supporto per richiedere la riattivazione. Dopo la verifica del pagamento da parte di Microsoft, questa richiesta viene usata come la notifica per riattivare l'account del Centro per i partner.
-
- 
-
- 
 
 
 
 
-
-
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

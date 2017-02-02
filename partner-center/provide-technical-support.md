@@ -4,13 +4,17 @@ description: "In qualità di partner Cloud Solution Provider, disponi di privile
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 07af266cb0433d57edc4dd0f2b757b8ed80f006e
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
 
 ---
 
 # Offrire supporto tecnico
 
+**Si applica a**
+
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
 In qualità di partner Cloud Solution Provider, disponi di privilegi di amministratore delegato che ti consentono l'accesso agli ambienti dei tuoi clienti. Questi privilegi ti permettono di fornire supporto diretto, configurare e gestire le sottoscrizioni dei tuoi clienti.
 
@@ -43,6 +47,6 @@ Nel Centro per i partner puoi:
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

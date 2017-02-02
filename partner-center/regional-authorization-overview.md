@@ -4,8 +4,8 @@ description: "Con l&quot;autorizzazione regionale, i partner con aziende interna
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 4e069db47de242d8aa3807bc238c5f213c26a1fd
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
 ---
 
@@ -18,8 +18,9 @@ Con l'autorizzazione regionale, i partner con aziende internazionali possono ora
 
 In passato, ad eccezione di Unione europea/EFTA, i partner dovevano avere un'entità fisica in ogni paese in cui che volevano gestire delle transazioni. Per i partner, questo significava dover configurare più tenant nel Centro per i partner, con più date di fatturazione e altre impostazioni. In aree geografiche, come l'America latina, i partner non avevano la possibilità di lavorare agevolmente con clienti in un paese o un'area geografica adiacente e in alcuni casi, non potevano del tutto.
 
-## Pianificazione
+>**Nota**<br> Se sei registrato a [CSP per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md) ed effettui vendite ai clienti nei paesi e nelle aree geografiche UE ed EFTA, non puoi consolidare il tenant per il Centro per i partner per Microsoft Cloud Germania con gli altri tenant di cui disponi.  
 
+## Pianificazione
 
 I partner hanno più opzioni per consolidare i tenant regionali, come descritto di seguito.
 
@@ -141,11 +142,8 @@ Se vuoi consolidare i tenant, ti consigliamo quanto segue:
 
 -   **Più aree geografiche/paesi ma un solo tenant per le transazioni**. Se gestisci transazioni in un solo paese/area geografica, ma hai configurato vari altri tenant, usa il tenant per le transazioni come nuovo tenant centralizzato per l'area geografica in questione e annulla gli altri tenant.
 
--   **Più paesi/aree geografiche ma un solo tenant per le transazioni.** Se gestisci transazioni in diversi paesi/aree geografiche, ti consigliamo di centralizzare le operazioni sul tenant con il maggior numero di postazioni. È consigliabile annullare le sottoscrizioni nei paesi/aree geografiche con quantità di postazioni più ridotte.
+-   **Più paesi/aree geografiche ma un solo tenant per le transazioni.** Se gestisci transazioni in diversi paesi/aree geografiche, ti consigliamo di centralizzare le operazioni sul tenant con il maggior numero di postazioni. È consigliabile annullare le sottoscrizioni nei paesi/aree geografiche con quantità di postazioni ridotte.
 
-    **Nota** Controlla le linee guida per l'annullamento della sottoscrizione in [Consolidamento dei tenant per l'autorizzazione regionale per CSP](csp-regional-authorization-tenant-consolidation.md) prima di annullare le sottoscrizioni.
-
-     
 
 ## Informazioni su paesi/aree geografiche
 
@@ -161,6 +159,9 @@ Prima di consolidare i tenant, tieni conto delle considerazioni seguenti:
 -   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Argentina, Bahamas, Barbados, Belize, Bermuda, Bolivia, Isole Cayman, Cile, Colombia, Costa Rica, Curacao, Repubblica dominicana, Ecuador, El Salvador, Guatemala, Honduras, Giamaica, Messico, Nicaragua, Panama, Paraguay, Perù, Portorico, Saint Kitts e Nevis, Trinidad e Tobago, Uruguay, Venezuela, Isole Vergini.
 
 -   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Austria, Belgio, Bulgaria, Croazia, Cipro, Danimarca, Estonia, Fær Øer, Finlandia, Francia, Germania, Grecia, Irlanda, Islanda, Italia, Lettonia, Liechtenstein, Lituania, Lussemburgo, Malta, Monaco, Norvegia, Paesi Bassi, Polonia, Portogallo, Regno Unito, Repubblica Ceca, Romania, Slovacchia, Slovenia, Spagna, Svezia, Svizzera, Ungheria.
+
+    >**Nota**<br> Se sei registrato a [CSP per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md) ed effettui vendite ai clienti nei paesi e nelle aree geografiche UE ed EFTA, non puoi consolidare il tenant per il Centro per i partner per Microsoft Cloud Germania con gli altri tenant di cui disponi.  
+
 
 -   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Afghanistan, Albania, Algeria, Arabia Saudita, Armenia, Azerbaigian, Bahrein, Belarus, Bosnia ed Erzegovina, Egitto, Emirati Arabi Uniti, Ex Repubblica Jugoslava di Macedonia, Georgia, Giordania, Iraq, Israele, Kazakistan, Kuwait, Kirghizistan, Libano, Libia, Moldova, Mongolia, Montenegro, Marocco, Oman, Pakistan, Autorità Palestinese, Qatar, Serbia, Sudafrica, Tagikistan, Tunisia, Turchia, Turkmenistan, Ucraina, Uzbekistan, Yemen, Zimbabwe
 
@@ -191,6 +192,6 @@ Prima di consolidare i tenant, tieni conto delle considerazioni seguenti:
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

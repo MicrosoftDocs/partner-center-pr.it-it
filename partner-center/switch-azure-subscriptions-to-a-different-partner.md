@@ -4,17 +4,20 @@ description: "Un cliente può cambiare il partner del programma Cloud Solution P
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 29ced9a3a7256f86f0f8708a4c72ac75b9269ffc
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
 
 ---
 
 # Passare le sottoscrizioni Azure a un altro partner
 
+**Si applica a**
+
+-  Centro per i partner
 
 Un cliente può cambiare il partner del programma Cloud Solution Provider (CSP) scelto per i servizi di Microsoft Azure. Tuttavia, questo è un processo manuale che richiede l'intervento sia del partner che del cliente.
 
-**Nota** Non esiste attualmente un processo automatico che consenta ai clienti di Azure di passare al programma CSP da EA, Open o altri programmi di licenza. Questo è un processo manuale che richiede l'intervento sia del partner che del cliente. Inoltre, attualmente non è possibile cambiare partner per le sottoscrizioni Cloud Solution Provider per Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
+**Nota**  Non esiste attualmente un processo automatico che consenta ai clienti di Azure di passare al programma CSP da EA, Open o altri programmi di licenza. Questo è un processo manuale che richiede l'intervento sia del partner che del cliente. Inoltre, attualmente non è possibile cambiare partner per le sottoscrizioni Cloud Solution Provider per Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
 
  
 
@@ -79,6 +82,6 @@ Un cliente può cambiare il partner del programma Cloud Solution Provider (CSP) 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

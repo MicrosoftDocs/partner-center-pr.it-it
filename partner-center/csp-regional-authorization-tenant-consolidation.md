@@ -4,13 +4,17 @@ description: Usa queste istruzioni per consolidare i tenant per paesi/aree geogr
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 5d4b1acaa23f37df8fe66166f932956526e75271
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
 ---
 
 # Consolidamento dei tenant per l'autorizzazione regionale per CSP
 
+**Si applica a**
+
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
 \[Alcune informazioni sono relative a un prodotto non definitivo che potrebbe subire modifiche sostanziali prima del rilascio sul mercato. Microsoft non riconosce alcuna garanzia, espressa o implicita, in merito alle informazioni qui fornite.\]
 
@@ -114,7 +118,7 @@ Nota che non è necessario eseguire manualmente la migrazione delle sottoscrizio
 
 -   Non esiste attualmente alcun modo per rimuovere completamente un cliente dall'elenco Clienti.
 
--   **Nota** I partner devono sospendere le sottoscrizioni nell'account del tenant partner di **origine della transizione** nel Centro per i partner lo stesso giorno in cui viene eseguita la transizione e la configurazione di queste sottoscrizioni nell'account del tenant partner di **destinazione della transizione** nel Centro per i partner per assicurarsi di evitare doppie fatturazioni Microsoft non supporterà le richieste di accrediti causate da eventuali sovrapposizioni nella fatturazione dovute alla mancata sospensione delle sottoscrizioni nell'**origine della transizione**.
+-   **Nota** I partner devono sospendere le sottoscrizioni nell'account del tenant partner di **origine della transizione** nel Centro per i partner lo stesso giorno in cui viene eseguita la transizione e la configurazione di queste sottoscrizioni nell'account del tenant partner di **destinazione della transizione** nel Centro per i partner per assicurarsi di evitare doppie fatturazioni. Microsoft non supporterà le richieste di accrediti causate da eventuali sovrapposizioni nella fatturazione dovute alla mancata sospensione delle sottoscrizioni nell'**origine della transizione**.
 
      
 
@@ -159,6 +163,6 @@ Con il log attività i partner possono visualizzare un record di tutte le modifi
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

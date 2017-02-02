@@ -1,16 +1,19 @@
 ---
 title: Aggiungere licenze o servizi a una sottoscrizione esistente | Centro
-description: "Puoi aggiornare la sottoscrizione se al cliente servono più postazioni di quelle fornite dalla sottoscrizione corrente o una versione diversa con altri servizi."
+description: "Se il cliente necessita di più postazioni rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione."
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d1aabc63e68b01f997345b13f2cb615904a027be
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
 
 ---
 
 # Aggiungere licenze o servizi a una sottoscrizione esistente
 
+**Si applica a**
+
+-  Centro per i partner
 
 Se il cliente necessita di più postazioni rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione. Per altri dettagli, vedi [Passare a un piano di Office 365 per le aziende diverso](http://go.microsoft.com/fwlink/p/?LinkId=723577).
 
@@ -95,6 +98,6 @@ Per altre informazioni sull'impatto di queste operazioni sulla fatturazione, ved
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

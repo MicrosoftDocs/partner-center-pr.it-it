@@ -4,15 +4,19 @@ Description: Se il cliente ha un problema che tu non puoi risolvere e che soddis
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 9182649a217783303f743fdca96789d6e0f0d8ae
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
 
 ---
 
 # Segnalare problemi per conto di un cliente
 
+**Si applica a**
 
-Se il cliente ha un problema con il servizio che tu non puoi risolvere e che soddisfa i criteri descritti in [Inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md), crea un ticket di supporto per conto del cliente. Questo processo è utile anche per inoltrare problemi o controversie correlati alla fatturazione e segnalare possibili frodi.
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
+
+Se il cliente ha un problema con il servizio che tu non puoi risolvere e che soddisfa i criteri descritti in [Inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md), crea un ticket di supporto. Questo processo è utile anche per inoltrare problemi o controversie correlati alla fatturazione e segnalare possibili frodi.
 
 **Inviare una richiesta di servizio per un cliente**
 
@@ -35,7 +39,7 @@ Se il cliente ha un problema con il servizio che tu non puoi risolvere e che sod
 
     1.  Nella sezione **Crea una richiesta di servizio** scegli la categoria dell'argomento di supporto appropriata. Potrebbe essere necessario selezionare **Altro** per visualizzare altri argomenti.
     2.  Compila il modulo della richiesta di servizio e seleziona **Invia**.
-        **Nota** Assicurati di includere le tue informazioni di contatto e non quelle del cliente.
+        **Nota**  Assicurati di includere le tue informazioni di contatto e non quelle del cliente.
 
          
 
@@ -88,6 +92,6 @@ Se accedi direttamente all'interfaccia di amministrazione di Office 365, visuali
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

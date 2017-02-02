@@ -1,16 +1,20 @@
 ---
 title: Fatturazione | Centro per i partner
-Description: Come partner CSP, pagherai Microsoft per le sottoscrizioni in base alla licenza e in base all&quot;uso dei tuoi clienti in via posticipata, dopo 60 giorni.
+Description: Come partner CSP (Cloud Solution Provider), pagherai Microsoft per le sottoscrizioni in base alla licenza e in base all&quot;uso dei tuoi clienti in via posticipata, dopo 60 giorni.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a13018b21665f0dccb88bc462d535d4f4547c978
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
 ---
 
 # Fatturazione
 
+**Si applica a**
+
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
 Come partner CSP (Cloud Solution Provider), pagherai Microsoft per le sottoscrizioni in base alla licenza e in base all'uso dei tuoi clienti in via posticipata, dopo 60 giorni.
 
@@ -195,6 +199,6 @@ Azure funziona con un modello di "pagamento a consumo", in base al quale vengono
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

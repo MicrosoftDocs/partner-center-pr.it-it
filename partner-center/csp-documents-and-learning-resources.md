@@ -1,16 +1,20 @@
 ---
 title: Contratti, listini prezzi e offerte per CSP | Centro per i partner
-description: Microsoft pubblica molti documenti utili per iscriversi al programma, iscrivere nuovi clienti, vendere prodotti e servizi Microsoft e riconciliare le fatture.
+description: Microsoft pubblica molti documenti di cui i partner CSP hanno bisogno per decidere se iscriversi al programma, iscrivere nuovi clienti, vendere prodotti e servizi Microsoft ai clienti e riconciliare le fatture.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 739f93ca5b2752196247554d7a0b593e895a6f89
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 ---
 
 # Contratti, listini prezzi e offerte per CSP
 
+**Si applica a**
+
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
 Microsoft pubblica molti documenti di cui i partner CSP hanno bisogno per decidere se iscriversi al programma, iscrivere nuovi clienti, vendere prodotti e servizi Microsoft ai clienti e riconciliare le fatture.
 
@@ -51,12 +55,14 @@ Microsoft richiede ai partner di sottoscrivere questo contratto per partecipare 
 
 [Contratto per i rivenditori Microsoft Cloud - Taiwan](http://go.microsoft.com/fwlink/p/?LinkId=617099)
 
+[Contratto per i rivenditori Microsoft Cloud - Microsoft Cloud Germania](https://go.microsoft.com/fwlink/p/?linkid=831385)
+
 ## <a href="" id="customeragreementtemplate"></a>Modello di contratto per il cliente
 
 
 I partner hanno la responsabilità di assicurarsi che i clienti comprendano e accettino i termini e le condizioni di Microsoft, incluso l'uso accettabile dei prodotti e servizi Microsoft. Offriamo ai partner un modello per il materiale di cui occorre occuparsi al momento della registrazione di un nuovo cliente.
 
-[Modello di contratto per il cliente](http://go.microsoft.com/fwlink/p/?LinkId=617101)
+[Modello di contratto per il cliente](agreements.md)
 
 ## Prezzi
 
@@ -83,6 +89,6 @@ Per i partner CSP che usano l'API CREST per i record di utilizzo, Microsoft pubb
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

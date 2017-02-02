@@ -4,13 +4,17 @@ description: "Questo argomento descrive ciò che compare sulla fattura dopo l&qu
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 877f2d0e773fc7a42ddb8f62fa320be94b5921a8
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
 
 ---
 
 # Scenari di fatturazione comuni
 
+**Si applica a**
+
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
 Questo argomento descrive ciò che compare sulla fattura dopo l'aggiunta di nuove sottoscrizioni, la modifica del numero di postazioni in una sottoscrizione o l'annullamento di una sottoscrizione. Le sottoscrizioni in base alle licenze vengono gestite diversamente rispetto a quelle in base all'uso.
 
@@ -139,6 +143,6 @@ Storno dell'anticipo per il periodo mensile completo dal 15 luglio al 14 agosto 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

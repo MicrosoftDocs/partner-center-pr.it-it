@@ -4,13 +4,17 @@ description: "I record dei clienti sono tra le informazioni più importanti nel 
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a947ffb17f490a3ec195cb33000c84c1e1070459
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
 
 ---
 
 # Gestire l'elenco dei clienti
 
+**Si applica a**
+
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
 
 I record dei clienti sono tra le informazioni più importanti nel Centro per i partner. Puoi eseguire una ricerca nel database degli account dei clienti, esportare l'intero database dei clienti o esportarne un sottoinsieme, in un formato di file con valori delimitati da virgole (CSV) compatibile con Excel. Puoi anche esportare le informazioni sulle sottoscrizioni del cliente in un file CSV.
 
@@ -72,6 +76,6 @@ Per altre informazioni, vedi le sezioni seguenti:
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

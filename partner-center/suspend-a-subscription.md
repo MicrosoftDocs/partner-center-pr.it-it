@@ -1,18 +1,22 @@
 ---
 title: Sospendere una sottoscrizione | Centro per i partner
-description: I partner possono sospendere o annullare una sottoscrizione se richiesto dal cliente o in caso di insolvenza o frodi.
+description: I partner possono sospendere o annullare una sottoscrizione se richiesto dal cliente o in caso di insolvenza o frode.
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a8987c51c4abff165a5fd7fb529fb9066ce48bdd
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: c77f1fb97f3951182e3bf50fd9b037603e6106b8
 
 ---
 
 # Sospendere una sottoscrizione
 
+**Si applica a**
 
-I partner possono sospendere o annullare una sottoscrizione se richiesto dal cliente o in caso di insolvenza o frodi.
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud Germania
+
+I partner possono sospendere o annullare una sottoscrizione se richiesto dal cliente o in caso di insolvenza o frode.
 
 Quando cambi lo stato di una sottoscrizione in **Sospesa**, gli utenti non possono accedere alla sottoscrizione o ai servizi. Gli amministratori possono comunque eseguire l'accesso e accedere ai dati.
 
@@ -25,6 +29,6 @@ Quando cambi lo stato di una sottoscrizione in **Sospesa**, gli utenti non posso
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

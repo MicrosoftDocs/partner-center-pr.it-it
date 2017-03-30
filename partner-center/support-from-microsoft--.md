@@ -3,13 +3,11 @@ title: Supporto da Microsoft | Centro per i partner
 description: Quando si verificano problemi con un servizio Microsoft o con il Centro per i partner, puoi inoltrare la richiesta di assistenza a Microsoft e tenere traccia del problema fino a quando non viene risolto.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Supporto da Microsoft
+# <a name="support-from-microsoft"></a>Supporto da Microsoft
 
 **Si applica a**
 
@@ -30,11 +28,5 @@ Quando si verificano problemi con un servizio Microsoft o con il Centro per i pa
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

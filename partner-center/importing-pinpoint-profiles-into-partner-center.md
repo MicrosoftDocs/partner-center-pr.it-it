@@ -3,13 +3,11 @@ title: Transizione da Pinpoint al Centro per i partner | Centro per i partner
 Description: Le informazioni in questa pagina descrivono come eseguire la transizione da Pinpoint al Centro per i partner.
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: c604ab4f027119d10c4903431455c97c484eb831
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Transizione da Pinpoint al Centro per i partner
+# <a name="transition-from-pinpoint-to-partner-center"></a>Transizione da Pinpoint al Centro per i partner
 
 **Si applica a**
 
@@ -46,7 +44,7 @@ Potrai solo usare i comandi **Modifica** o **Elimina** per gli elementi importat
 
 Per altre informazioni sui profili di marketing del Centro per i partner e per visualizzare i risultati dell'importazione dei profili di Pinpoint [vai alla pagina dei profili principale del Centro per i partner](https://partnercenter.microsoft.com/pcv/publishing). Per altre informazioni sulla creazione di profili di marketing in Pinpoint, vedi [Creare un profilo di marketing aziendale](create-a-marketing-profile.md).
 
-## Argomenti correlati
+## <a name="related-topics"></a>Argomenti correlati
 
 
 [Crea un profilo di marketing aziendale](create-a-marketing-profile.md)
@@ -57,11 +55,5 @@ Per altre informazioni sui profili di marketing del Centro per i partner e per v
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

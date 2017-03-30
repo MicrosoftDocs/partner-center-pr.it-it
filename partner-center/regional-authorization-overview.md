@@ -3,13 +3,11 @@ title: Autorizzazione regionale per CSP | Centro per i partner
 description: "Con l&quot;autorizzazione regionale, i partner con aziende internazionali possono ora gestire più facilmente i clienti in aree geografiche e paesi diversi."
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Autorizzazione regionale per CSP
+# <a name="csp-regional-authorization"></a>Autorizzazione regionale per CSP
 
 
 \[Alcune informazioni sono relative a un prodotto non definitivo che potrebbe subire modifiche sostanziali prima del rilascio sul mercato. Microsoft non riconosce alcuna garanzia, espressa o implicita, in merito alle informazioni qui fornite.\]
@@ -20,11 +18,11 @@ In passato, ad eccezione di Unione europea/EFTA, i partner dovevano avere un'ent
 
 >**Nota**<br> Se sei registrato a [CSP per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md) ed effettui vendite ai clienti nei paesi e nelle aree geografiche UE ed EFTA, non puoi consolidare il tenant per il Centro per i partner per Microsoft Cloud Germania con gli altri tenant di cui disponi.  
 
-## Pianificazione
+## <a name="planning"></a>Pianificazione
 
 I partner hanno più opzioni per consolidare i tenant regionali, come descritto di seguito.
 
-### Tenant separati per singoli paesi o aree geografiche
+### <a name="separate-tenants-for-single-regions-or-countries"></a>Tenant separati per singoli paesi o aree geografiche
 
 Il consolidamento dei tenant è facoltativo. I partner possono continuare a gestire i loro clienti internazionali con tenant separati, come illustrato nella tabella seguente.
 
@@ -67,7 +65,7 @@ Il consolidamento dei tenant è facoltativo. I partner possono continuare a gest
 
  
 
-## Un solo tenant per più aree geografiche o paesi
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>Un solo tenant per più aree geografiche o paesi
 
 
 I partner possono scegliere di consolidare le attività da più tenant CSP in un singolo tenant CSP.
@@ -99,7 +97,7 @@ I partner possono scegliere di consolidare le attività da più tenant CSP in un
 
  
 
-## Alcuni tenant per alcune aree geografiche o paesi
+## <a name="some-tenants-for-some-regions-or-countries"></a>Alcuni tenant per alcune aree geografiche o paesi
 
 
 I partner possono scegliere di consolidare le attività da più tenant CSP in meno tenant CSP.
@@ -135,7 +133,7 @@ I partner possono scegliere di consolidare le attività da più tenant CSP in me
 
  
 
-## Consolidamento dei tenant
+## <a name="consolidating-tenants"></a>Consolidamento dei tenant
 
 
 Se vuoi consolidare i tenant, ti consigliamo quanto segue:
@@ -145,7 +143,7 @@ Se vuoi consolidare i tenant, ti consigliamo quanto segue:
 -   **Più paesi/aree geografiche ma un solo tenant per le transazioni.** Se gestisci transazioni in diversi paesi/aree geografiche, ti consigliamo di centralizzare le operazioni sul tenant con il maggior numero di postazioni. È consigliabile annullare le sottoscrizioni nei paesi/aree geografiche con quantità di postazioni ridotte.
 
 
-## Informazioni su paesi/aree geografiche
+## <a name="countryregion-information"></a>Informazioni su paesi/aree geografiche
 
 
 Prima di consolidare i tenant, tieni conto delle considerazioni seguenti:
@@ -187,11 +185,5 @@ Prima di consolidare i tenant, tieni conto delle considerazioni seguenti:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

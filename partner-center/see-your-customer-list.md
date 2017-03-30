@@ -3,13 +3,11 @@ title: Gestire l&quot;elenco dei clienti | Centro per i partner
 description: "I record dei clienti sono tra le informazioni più importanti nel Centro per i partner."
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
-
+ms.openlocfilehash: 0a6ed78cb9b04160e7e220074c5aa3c682ba81ec
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Gestire l'elenco dei clienti
+# <a name="manage-your-customer-list"></a>Gestire l'elenco dei clienti
 
 **Si applica a**
 
@@ -18,23 +16,17 @@ ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
 
 I record dei clienti sono tra le informazioni più importanti nel Centro per i partner. Puoi eseguire una ricerca nel database degli account dei clienti, esportare l'intero database dei clienti o esportarne un sottoinsieme, in un formato di file con valori delimitati da virgole (CSV) compatibile con Excel. Puoi anche esportare le informazioni sulle sottoscrizioni del cliente in un file CSV.
 
-Anche i log attività offrono dati esportabili sulle transazioni e le operazioni di gestione per i clienti. Per altre informazioni, vedi [Visualizzare i log attività dei clienti](#pc-cloud-sltn-provider-activity-logs).
+Anche i log attività offrono dati esportabili sulle transazioni e le operazioni di gestione per i clienti. Per altre informazioni, vedi [Visualizzare i log attività dei clienti](activity-logs.md).
 
-Per altre informazioni, vedi le sezioni seguenti:
 
--   [Cercare un cliente](#see-your-customer-list-viewcustomerlist)
--   [Esportare l'elenco dei clienti](#see-your-customer-list-exportcustomerlist)
--   [Esportare l'elenco delle sottoscrizioni di un cliente](#see-your-customer-list-exportsubscriptions)
-
-<a href="" id="viewcustomerlist"></a>
-**Cercare un cliente**
+## <a name="search-for-a-customer"></a>Cercare un cliente
 
 1.  Nel menu **Dashboard** seleziona **Clienti**.
 2.  Per cercare un cliente, immetti il nome del cliente o il nome del dominio nella casella di ricerca.
 3.  Seleziona la **freccia in giù** alla fine della riga di un cliente per visualizzare l'ID Microsoft oltre ai link rapidi per le sottoscrizioni e i servizi associati.
 
-<a href="" id="exportcustomerlist"></a>
-**Esportare l'elenco dei clienti**
+
+## <a name="export-your-customer-list"></a>Esportare l'elenco dei clienti
 
 1.  Nel menu **Dashboard** seleziona **Clienti**.
 2.  Seleziona **Esporta clienti**.
@@ -48,10 +40,10 @@ Per altre informazioni, vedi le sezioni seguenti:
 
     Per impostazione predefinita, il Centro per i partner esporta l'intero elenco dei clienti, indipendentemente dalla lunghezza. Puoi anche eseguire una ricerca nell'elenco dei clienti in base al nome dell'azienda o del dominio e quindi esportare il sottoinsieme di dati corrispondente.
 
-3.  I provider indiretti possono filtrare l'elenco dei clienti in base a Rivenditore indiretto. Seleziona l'elenco a discesa **Filtra per rivenditore indiretto** e scegli il rivenditore nell'elenco.
+3.  I provider indiretti possono filtrare l'elenco dei clienti per rivenditore indiretto. Seleziona **Filtra per rivenditore indiretto** dall'elenco e scegli un rivenditore.
 
-<a href="" id="exportsubscriptions"></a>
-**Esportare le sottoscrizioni di un cliente**
+
+## <a name="export-customer-subscription-information"></a>Esportare le informazioni sulle sottoscrizioni dei clienti
 
 1.  Nel menu **Dashboard** seleziona **Clienti**.
 2.  Seleziona **Nome azienda** per qualsiasi cliente. Viene aperta la pagina **Sottoscrizioni** del cliente con l'elenco completo delle sottoscrizioni di prodotti.
@@ -62,8 +54,8 @@ Per altre informazioni, vedi le sezioni seguenti:
     -   **Stato**;
     -   **Rivenditore** - ID del rivenditore che possiede e gestisce la sottoscrizione.
 
-    **Nota**  
-    Per altre informazioni sulla gestione delle sottoscrizioni, vedi [Gestire le sottoscrizioni dei clienti](#pc-cloud-sltn-provider-adding-and-managing-customers--subscriptions).
+>**Nota**<br>
+Per altre informazioni sulla gestione delle sottoscrizioni, vedi [Sottoscrizioni dei clienti](customer-subscriptions.md).
 
      
 
@@ -71,11 +63,5 @@ Per altre informazioni, vedi le sezioni seguenti:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

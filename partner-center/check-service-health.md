@@ -3,13 +3,11 @@ title: "Controllare l&quot;integrità del servizio | Centro per i partner"
 description: "Una delle prime cose che è possibile fare quando un cliente segnala problemi con un servizio è controllare l&quot;integrità del servizio."
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 0db8a0954aae1a590dbad2c948ad9209792249aa
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Controllare l'integrità del servizio
+# <a name="check-service-health"></a>Controllare l'integrità del servizio
 
 **Si applica a**
 
@@ -33,11 +31,5 @@ Se il problema persiste dopo la fine dell'interruzione del servizio, invia una r
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

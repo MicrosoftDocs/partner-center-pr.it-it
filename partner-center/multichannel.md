@@ -3,28 +3,27 @@ title: Multicanale | Centro per i partner
 description: 'Un&quot;opzione nel programma Cloud Solution Provider consente di gestire l&quot;intero ciclo di vita della sottoscrizione: vendite, provisioning, supporto e rinnovo.'
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 6f0444d2df562453e21ff973549262782b31ef22
-
+ms.openlocfilehash: fb3df0b095fb04552bcf5492467e319be943dd0d
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Multicanale
+# <a name="multichannel-support"></a>Supporto multicanale
 
 **Si applica a**
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud Germania
 
-Un'opzione nel programma Cloud Solution Provider consente a un partner di gestire l'intero ciclo di vita della sottoscrizione di un cliente: vendite, provisioning, supporto e rinnovo. In molti casi, però, i clienti hanno già sottoscrizioni che richiedono provisioning o supporto da parte tua, acquistati in precedenza da un diverso canale.
+In alcuni casi i clienti potrebbero volere che tu ti occupi del provisioning e del supporto di una sottoscrizione acquistata altrove. Il supporto multicanale è applicabile quando il cliente:
 
-Il supporto multicanale è applicabile quando il cliente:
+-   Ha già acquistato sottoscrizioni direttamente da Microsoft o tramite i programmi Advisor, Open o EA.
 
--   ha già acquistato sottoscrizioni direttamente da Microsoft o tramite i programmi Advisor, Open o EA.
+-   Ha acquistato la sottoscrizione da te quando partecipavi al programma Advisor, mentre adesso sei un rivenditore indiretto nel programma Cloud Solution Provider.
 
--   ha acquistato le sottoscrizioni da te quando partecipavi al programma Advisor, mentre adesso partecipi al programma Cloud Solution Provider.
+-   Ha acquistato le sottoscrizioni da terze parti non aderenti al programma Cloud Solution Provider né Microsoft Syndication Partner. I clienti non possono passare le sottoscrizioni basate su licenza a un altro partner nel programma Cloud Solution Provider, ma devono attendere la fine del loro periodo di sottoscrizione o annullare la sottoscrizione prima di poter eseguire il passaggio.
 
--   ha acquistato le sottoscrizioni da terze parti che non partecipano al programma Cloud Solution Provider o che non sono Microsoft Syndication Partner. I clienti non possono passare le sottoscrizioni CSP in base alle licenze a un altro partner nel programma Cloud Solution Provider, ma devono attendere la fine del loro periodo di sottoscrizione o annullare la sottoscrizione prima di poter eseguire il passaggio.
+>**Importante**<br>
+Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Tutti gli annunci sui rilasci di funzionalità saranno effettuati tramite i canali di comunicazione normali, tra cui il Centro per i partner. 
 
 <table>
 <colgroup>
@@ -44,11 +43,13 @@ Il supporto multicanale è applicabile quando il cliente:
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Partner indiretti</strong></p></td>
+<td><p><strong>Rivenditori indiretti in CSP</strong></p></td>
 <td><ul>
-<li><p>Il partner indiretto crea l'invito CSP in base al link presente nel Centro per i partner e può inviarlo direttamente al cliente finale o ai tuoi rivenditori, che lo inviano a loro volta ai clienti finali.</p></li>
-<li><p>I rivenditori che lavorano per un partner indiretto nel programma CSP non possono creare i propri inviti CSP. Devono invece usare l'invito fornito dal partner indiretto.</p></li>
-<li><p>Il partner indiretto sarà proprietario della relazione, ma può assegnare a uno specifico rivenditore i privilegi di amministratore delegato necessari per gestire il provisioning e/o il supporto.</p></li>
+<li><p>I rivenditori indiretti che lavorano per un partner diretto nel programma CSP non possono creare i propri inviti CSP. Devono invece usare l'invito fornito dal partner diretto.</p></li>
+
+<li><p>Il partner diretto crea un invito per il cliente finale e può inviarlo a te, in modo che tu lo invii al cliente, o direttamente al cliente finale.</p></li>
+
+<li><p>Il partner diretto è il titolare della relazione con il cliente, ma può richiedere che il cliente conceda privilegi amministrativi delegati a un rivenditore indiretto.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -60,11 +61,5 @@ Il supporto multicanale è applicabile quando il cliente:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

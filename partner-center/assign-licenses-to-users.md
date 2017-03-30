@@ -3,13 +3,11 @@ title: "Attività di gestione degli utenti per gli account dei clienti | Centro"
 description: Dopo aver acquistato una nuova sottoscrizione per un cliente, puoi assegnare licenze a utenti specifici.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Attività di gestione degli utenti per gli account dei clienti
+# <a name="user-management-tasks-for-customer-accounts"></a>Attività di gestione degli utenti per gli account dei clienti
 
 **Si applica a**
 
@@ -74,7 +72,7 @@ Se devi ripristinare questo account entro 30 giorni, puoi trovarlo nella scheda 
 
     Tutti gli account utente selezionati verranno nuovamente visualizzati nella pagina **Utenti e licenze**.
 
-## Argomenti correlati
+## <a name="related-topics"></a>Argomenti correlati
 
 
 [Assegnare o revocare licenze a più utenti](bulk-license-provisioning-for-multiple-users.md)
@@ -85,11 +83,5 @@ Se devi ripristinare questo account entro 30 giorni, puoi trovarlo nella scheda 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

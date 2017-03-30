@@ -3,13 +3,11 @@ title: Imposte ed esenzioni fiscali | Centro per i partner
 description: "Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da parte dei partner, Microsoft non è sempre tenuta all&quot;imposizione dell&quot;IVA nelle fatture per i partner."
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Imposte ed esenzioni fiscali
+# <a name="tax-and-tax-exemptions"></a>Imposte ed esenzioni fiscali
 
 **Si applica a**
 
@@ -26,7 +24,7 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 4.  Compila il modulo. In **Tipo di problema** scegli **Non è possibile gestire il profilo personale**. Includi il tuo ID MPN e ID Microsoft nella descrizione.
 5.  Dopo aver inviato il ticket, Microsoft ti invierà un'e-mail per ottenere altre informazioni. Allega la documentazione di supporto appropriata nella risposta per i certificati di esenzione IVA.
 
-## Informazioni dettagliate per specifici paesi o aree geografiche
+## <a name="details-by-countryregion"></a>Informazioni dettagliate per specifici paesi o aree geografiche
 
 
 <table>
@@ -74,11 +72,5 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

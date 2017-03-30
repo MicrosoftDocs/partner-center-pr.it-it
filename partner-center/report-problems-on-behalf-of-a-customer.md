@@ -3,13 +3,11 @@ title: Segnalare problemi per conto di un cliente | Centro per i partner
 Description: Se il cliente ha un problema che tu non puoi risolvere e che soddisfa i criteri descritti in Inoltrare i problemi a Microsoft, crea un ticket di supporto.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Segnalare problemi per conto di un cliente
+# <a name="report-problems-on-behalf-of-a-customer"></a>Segnalare problemi per conto di un cliente
 
 **Si applica a**
 
@@ -45,7 +43,7 @@ Se il cliente ha un problema con il servizio che tu non puoi risolvere e che sod
 
     3.  In seguito, esamina le richieste di servizio del cliente passando all'interfaccia di amministrazione di Office 365 e selezionando **Visualizza tutti i ticket di supporto**.
 
-## Domande frequenti
+## <a name="faq"></a>Domande frequenti
 
 
 **Cosa include il diritto al supporto?**
@@ -87,11 +85,5 @@ Se accedi direttamente all'interfaccia di amministrazione di Office 365, visuali
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: Creare account utente e impostare le autorizzazioni | Centro partner
 description: L&quot;amministratore crea un account utente per ogni dipendente del partner che deve accedere al Centro per i partner.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: a755c9375c7bd5e61345d7d7e1ab27e00af3fe4d
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Creare account utente e impostare le autorizzazioni
+# <a name="create-user-accounts-and-set-permissions"></a>Creare account utente e impostare le autorizzazioni
 
 **Si applica a**
 
@@ -148,11 +146,5 @@ La tabella seguente illustra tutte le attività che ogni ruolo può eseguire nel
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

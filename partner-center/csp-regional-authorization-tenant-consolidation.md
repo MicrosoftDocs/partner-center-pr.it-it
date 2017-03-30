@@ -3,13 +3,11 @@ title: Consolidamento dei tenant per l&quot;autorizzazione regionale per CSP
 description: Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche diversi.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Consolidamento dei tenant per l'autorizzazione regionale per CSP
+# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidamento dei tenant per l'autorizzazione regionale per CSP
 
 **Si applica a**
 
@@ -24,14 +22,14 @@ Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche divers
 
  
 
-## Prepararsi per la migrazione
+## <a name="prepare-for-migration"></a>Prepararsi per la migrazione
 
 
 -   Accedi a <https://partnercenter.microsoft.com> con l'account per la transizione (esistente) e prendi nota di tutti i clienti e di tutti i servizi di cui è stato eseguito il provisioning per tali clienti.
 
 ![elenco dei clienti regionali](images/regionalcustomer1.png)
 
-## Eseguire la migrazione degli account dei clienti
+## <a name="migrate-customer-accounts"></a>Eseguire la migrazione degli account dei clienti
 
 
 1.  Accedi a <https://partnercenter.microsoft.com> con l'account per la transizione (nuovo) e passa all'elenco Clienti dal dashboard del Centro per i partner.
@@ -46,7 +44,7 @@ Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche divers
 
 I clienti verranno visualizzati nell'elenco dei clienti del partner dopo l'invio del contratto, uno alla volta.
 
-## Migrazione di sottoscrizioni in base all'uso di Office 365 e non Azure
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migrazione di sottoscrizioni in base all'uso di Office 365 e non Azure
 
 
 1.  Quando il cliente ha accettato il contratto, puoi ricreare le sue sottoscrizioni nel tuo tenant partner centralizzato.
@@ -73,7 +71,7 @@ Prima di procedere alla sezione successiva, verifica che sia stato eseguito di n
 
  
 
-## Disabilitazione delle sottoscrizioni di Office 365 nell'account partner di origine della transizione
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Disabilitazione delle sottoscrizioni di Office 365 nell'account partner di origine della transizione
 
 
 La disabilitazione della sottoscrizione CSP negli account partner di **origine della transizione** interrompe eventuali fatturazioni future. Non devi disabilitare manualmente le sottoscrizioni di Azure, perché le sottoscrizioni di Azure vengono disabilitate automaticamente durante il processo di migrazione.
@@ -93,7 +91,7 @@ La disabilitazione della sottoscrizione CSP negli account partner di **origine d
 
 5.  Seleziona il cliente successivo nell'elenco e ripeti il processo di disabilitazione di tutte le sottoscrizioni.
 
-## Migrazione di sottoscrizioni in base all'uso di Azure
+## <a name="migrating-azure-usage-based-subscriptions"></a>Migrazione di sottoscrizioni in base all'uso di Azure
 
 
 Nota che non è necessario eseguire manualmente la migrazione delle sottoscrizioni CSP in base all'uso di Azure come nel caso delle sottoscrizioni CSP di Office 365. Il supporto tecnico di Microsoft Azure può eseguire la migrazione delle sottoscrizioni di Azure e di tutti i servizi o le risorse distribuiti dagli account rivenditore CSP di **origine della transizione** all'account rivenditore CSP di **destinazione della transizione**. Non ci saranno interruzioni del servizio per il cliente durante la transizione.
@@ -110,7 +108,7 @@ Nota che non è necessario eseguire manualmente la migrazione delle sottoscrizio
 
 6.  Ripeti questi passaggi per tutte le sottoscrizioni di tutti i clienti per evitare addebiti futuri per gli account di **origini della transizione**. Il partner riceverà una sola fattura finale con un accredito per il numero di giorni inutilizzati tra il giorno di annullamento e l'ultimo giorno del periodo di fatturazione. Non verrà generata alcuna ulteriore fattura dopo questo periodo di fatturazione finale.
 
-### Note
+### <a name="notes"></a>Note
 
 -   Disabilitare la sottoscrizione dall'account CSP di **origine della transizione** non influisce sul servizio del cliente finale, a condizione che il provisioning del servizio sia stato eseguito dall'account CSP di **destinazione della transizione** prima della disabilitazione.
 
@@ -122,7 +120,7 @@ Nota che non è necessario eseguire manualmente la migrazione delle sottoscrizio
 
      
 
-### Semplificare la migrazione con l'esportazione
+### <a name="simplify-migration-using-export"></a>Semplificare la migrazione con l'esportazione
 
 La **funzione di esportazione** consente di recuperare le sottoscrizioni che devi usare nella nuova struttura consolidata:
 
@@ -134,11 +132,11 @@ La **funzione di esportazione** consente di recuperare le sottoscrizioni che dev
 
 4.  Usa questo elenco per ricreare le sottoscrizioni nel nuovo tenant consolidato.
 
-### Registrazione dell'API
+### <a name="api-registration"></a>Registrazione dell'API
 
 Per altre informazioni sulla registrazione dell'API, [vedi questa pagina](https://msdn.microsoft.com/en-us/library/partnercenter/mt267552.aspx).
 
-## Log attività del Centro per i partner
+## <a name="partner-center-activity-log"></a>Log attività del Centro per i partner
 
 
 Con il log attività i partner possono visualizzare un record di tutte le modifiche effettuate nel loro tenant con effetti sui clienti. Queste informazioni sono utili per tenere traccia delle modifiche apportate nel tenant di un cliente.
@@ -158,11 +156,5 @@ Con il log attività i partner possono visualizzare un record di tutte le modifi
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

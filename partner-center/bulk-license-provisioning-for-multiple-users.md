@@ -3,13 +3,11 @@ title: "Assegnare o revocare licenze a più utenti | Centro per i partner"
 description: "Puoi assegnare licenze e servizi a un utente o a più utenti contemporaneamente nell&quot;account di un cliente e revocare le assegnazioni di licenze per gli utenti."
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Assegnare o revocare licenze a più utenti
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Assegnare o revocare licenze a più utenti
 
 **Si applica a**
 
@@ -19,7 +17,7 @@ Puoi assegnare licenze e servizi a un utente o a più utenti contemporaneamente 
 
 Il Centro per i partner tiene traccia e mostra tutti i diritti di licenza di proprietà dei clienti.
 
-## Contenuto della sezione
+## <a name="in-this-section"></a>Contenuto della sezione
 
 
 -   [Assegnare licenze a più utenti](#assign-licenses-to-groups)
@@ -74,7 +72,7 @@ Il Centro per i partner tiene traccia e mostra tutti i diritti di licenza di pro
 6.  In **Assegna e revoca licenze** deseleziona le caselle di controllo per i prodotti assegnati agli utenti. Ad esempio, deseleziona la casella di controllo se tutti gli utenti selezionati hanno licenze per Office 365 Enterprise e vuoi revocarle.
 7.  Seleziona **Salva**.
 
-## Argomenti correlati
+## <a name="related-topics"></a>Argomenti correlati
 
 
 [Assegnare licenze a un utente](assign-licenses-to-users.md)
@@ -83,11 +81,5 @@ Il Centro per i partner tiene traccia e mostra tutti i diritti di licenza di pro
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

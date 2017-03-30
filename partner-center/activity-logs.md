@@ -3,13 +3,11 @@ title: "Visualizzare i log attività dei clienti | Centro per i partner"
 description: "I log attività offrono informazioni sulle transazioni e le operazioni di gestione dei partner per i clienti."
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
-ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
-
+ms.openlocfilehash: 5f6c4eb0574bbe73a41a38a1312f0da4240d531e
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Visualizzare i log attività dei clienti
+# <a name="view-customer-activity-logs"></a>Visualizzare i log attività dei clienti
 
 **Si applica a**
 
@@ -18,7 +16,6 @@ ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
 
 I log attività offrono informazioni sulle transazioni e le operazioni di gestione dei partner per i clienti. I log per le transazioni offrono informazioni dettagliate sulla transazione, incluse le sottoscrizioni acquistate. Puoi anche esportare i log attività in file con valori delimitati da virgole (CSV) compatibile con Excel.
 
-<a href="" id="activitylogs"></a>
 I log attività includono record relativi alle azioni dei partner sugli account dei clienti e le transazioni per i prodotti. Puoi anche esportare i log attività in un file CSV.
 
 **Visualizzare ed esportare i log attività**
@@ -41,11 +38,5 @@ I log attività includono record relativi alle azioni dei partner sugli account 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

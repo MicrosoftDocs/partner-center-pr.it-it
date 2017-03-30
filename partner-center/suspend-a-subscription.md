@@ -3,13 +3,11 @@ title: Sospendere una sottoscrizione | Centro per i partner
 description: I partner possono sospendere o annullare una sottoscrizione se richiesto dal cliente o in caso di insolvenza o frode.
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: c77f1fb97f3951182e3bf50fd9b037603e6106b8
-
+ms.openlocfilehash: e0911a3dbc43cf7797e1626e6924a2fedbddb3f0
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Sospendere una sottoscrizione
+# <a name="suspend-a-subscription"></a>Sospendere una sottoscrizione
 
 **Si applica a**
 
@@ -25,10 +23,4 @@ Quando cambi lo stato di una sottoscrizione in **Sospesa**, gli utenti non posso
 1.  Nel menu **Dashboard** seleziona **Clienti** e quindi scegli un cliente nell'elenco.
 2.  Scegli la sottoscrizione che vuoi gestire.
 3.  Nella sezione **Stato** scegli **Sospeso**. Fai quindi clic su **Invia** per inviare le modifiche.
-4.  Tutti i dati vengono eliminati se la sottoscrizione non viene riattivata entro sessanta giorni.
-
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+4.  Verranno eliminati tutti i dati, a meno che la sottoscrizione venga riattivata entro 90 giorni, o 90 giorni più il numero di giorni tra il momento in cui che l'account è stato aperto e il primo periodo di fatturazione (massimo 120 giorni).

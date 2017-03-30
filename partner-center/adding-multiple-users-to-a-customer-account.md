@@ -3,13 +3,11 @@ title: "Creare più utenti per l&quot;account di un cliente | Centro per i partn
 description: "Puoi aggiungere più utenti contemporaneamente all&quot;account di un cliente caricando un file di dati con valori delimitati da virgole (CSV) nel Centro per i partner."
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Aggiungere più utenti all'account di un cliente
+# <a name="add-multiple-users-to-a-customer-account"></a>Aggiungere più utenti all'account di un cliente
 
 **Si applica a**
 
@@ -67,11 +65,5 @@ Il Centro per i partner assegna automaticamente le autorizzazioni **può usare l
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

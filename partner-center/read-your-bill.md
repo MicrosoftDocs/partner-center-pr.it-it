@@ -3,13 +3,11 @@ title: Leggere la fattura | Centro per i partner
 description: "La fattura è un riepilogo di tutti gli addebiti (per il programma, i prodotti e i clienti) per il periodo mensile corrente. È disponibile nel dashboard del Centro per i partner."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Leggere la fattura
+# <a name="read-your-bill"></a>Leggere la fattura
 
 **Si applica a**
 
@@ -20,7 +18,7 @@ La fattura è un riepilogo di tutti gli addebiti (per il programma, i prodotti e
 
 Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I file di riconciliazione includono gli ID dei clienti e gli ID delle sottoscrizioni che userai per creare le fatture per i clienti. Per altre informazioni, vedi [Come usare i file di riconciliazione](use-the-reconciliation-files.md).
 
-## Definizioni del file di fatturazione
+## <a name="invoice-file-definitions"></a>Definizioni del file di fatturazione
 
 
 <table>
@@ -114,11 +112,5 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

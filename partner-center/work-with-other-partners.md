@@ -1,15 +1,13 @@
 ---
 title: Collaborare con altri partner | Centro per i partner
-description: "Uno dei vantaggi del programma Cloud Solution Provider è che consente ai partner di gestire tutti gli aspetti della relazione con il cliente."
+description: Collabora con altri partner in CSP per soddisfare le esigenze dei clienti condivisi.
 ms.assetid: 28AA1E57-5A1E-445C-9D5D-762428CDC8E5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: c98b3a723f0bb43607902c40b1af1ee2360202b6
-
+ms.openlocfilehash: 680698062b9b53ff02d1076f964236c8d319d58f
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Collaborare con altri partner
+# <a name="work-with-other-partners"></a>Collaborare con altri partner
 
 **Si applica a**
 
@@ -17,6 +15,9 @@ ms.openlocfilehash: c98b3a723f0bb43607902c40b1af1ee2360202b6
 -  Centro per i partner per Microsoft Cloud Germania
 
 Uno dei vantaggi del programma Cloud Solution Provider è che consente ai partner di gestire tutti gli aspetti della relazione con il cliente. Tuttavia, molti clienti hanno già sottoscrizioni per i prodotti Microsoft. Altri collaborano con più partner specializzati in servizi o prodotti diversi. In qualità di partner del programma CSP, puoi comunque collaborare con questi clienti grazie al supporto multicanale e multipartner del Centro per i partner.
+
+>**Importante**<br>
+Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Tutti gli annunci sui rilasci di funzionalità saranno effettuati tramite i canali di comunicazione normali, tra cui il Centro per i partner. 
 
 [Multipartner](multipartner.md)
 
@@ -28,11 +29,5 @@ Uno dei vantaggi del programma Cloud Solution Provider è che consente ai partne
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

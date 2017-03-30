@@ -3,13 +3,11 @@ title: Usare i file di riconciliazione | Centro per i partner
 description: Per una visualizzazione delle voci relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal dashboard del Centro per i partner.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
-
+ms.openlocfilehash: 851230d50a7fd9805964a287104c55f13ad28cd2
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Usare i file di riconciliazione
+# <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
 **Si applica a**
 
@@ -17,13 +15,6 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 -  Centro per i partner per Microsoft Cloud Germania
 
 Per una visualizzazione delle voci relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal dashboard del Centro per i partner. I dettagli includono gli addebiti per le sottoscrizioni di ogni singolo cliente e gli eventi dettagliati, ad esempio un'aggiunta di postazioni a una sottoscrizione in corso.
-
-## Contenuto della sezione
-
-
--   [Eseguire la scomposizione dei dati in base al partner](#itemizebypartner)
--   [File di riconciliazione in base alle licenze](#licencebasedfiles)
--   [File di riconciliazione in base all'uso](#usagebasedfiles)
 
 ## <a href="" id="itemizebypartner"></a>Eseguire la scomposizione dei dati in base al partner
 
@@ -44,7 +35,7 @@ I partner nel modello indiretto possono usare questi campi aggiuntivi sia nei fi
 <tbody>
 <tr class="odd">
 <td>ID MPN</td>
-<td><p>ID MPN del partner CSP (diretto o indiretto).</p></td>
+<td><p>ID Microsoft Partner Network (MPN) del partner CSP (diretto o indiretto).</p></td>
 </tr>
 <tr class="even">
 <td>ID MPN rivenditore</td>
@@ -83,9 +74,9 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
-<td>CustomerNumber</td>
-<td><p>Identificatore univoco del cliente nella piattaforma di fatturazione Microsoft. Può essere utile per identificare il cliente quando viene contattato il supporto tecnico, ma non per la riconciliazione.</p></td>
-<td>123456789</td>
+<td>CustomerID</td>
+<td><p>ID Microsoft univoco, in formato GUID, usato per identificare il cliente.</p></td>
+<td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
@@ -106,12 +97,14 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="odd">
 <td>OfferID</td>
-<td><p>ID univoco dell'offerta. ID dell'offerta standard in base al listino prezzi.</p></td>
-<td>306855</td>
+<td><p>ID univoco dell'offerta. ID dell'offerta standard in base al listino prezzi.</p>
+<p><b>Nota</b>: questo valore non corrisponde all'ID dell'offerta dal listino prezzi. Vedi DurableOfferID di seguito.</p></td>
+<td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>ID dell'offerta durevole univoco, come definito nel listino prezzi.</p></td>
+<td><p>ID dell'offerta durevole univoco, come definito nel listino prezzi.</p>
+<p><b>Nota</b>: questo valore corrisponde all'ID offerta dal listino prezzi.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,70 +141,8 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>Tipo di addebito o rettifica.</p>
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Charges:</td>
-<td><ul>
-<li>PURCHASE_FEE: addebito iniziale per una sottoscrizione</li>
-<li>CYCLE_FEE: addebiti periodici per una sottoscrizione</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>ConvertResources</td>
-<td><ul>
-<li>CANCEL_USAGEFEE: commissione di utilizzo per l'accesso all'annullamento per utilizzo non pagato durante il periodo di fatturazione corrente</li>
-<li>CYCLE_USAGEFEE: commissione di utilizzo per l'accesso per il periodo di fatturazione corrente</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Prorations:</td>
-<td><ul>
-<li>PURCHASE_PRORATE: commissioni rateizzate all'acquisto</li>
-<li>CANCEL_PRORATE: rimborso rateizzato per servizio parzialmente inutilizzato all'annullamento</li>
-<li>ACTIVATION_PRORATE: commissioni rateizzate dall'attivazione fino alla fine del periodo di fatturazione</li>
-<li>RENEW_PRORATE: commissioni rateizzate al rinnovo della sottoscrizione</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>InstanceProrates:</td>
-<td><ul>
-<li>CANCEL_INSTANCEPRORATE: commissioni rateizzate rimborsate al cliente in caso di modifica delle postazioni associate</li>
-<li>CYCLE_INSTANCEPRORATE: commissioni rateizzate calcolate dal cliente in caso di modifica delle postazioni associate</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Credits:</td>
-<td><ul>
-<li>CREDIT: credito applicato a uno strumento di pagamento</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Offsets:</td>
-<td><ul>
-<li>OFFSET_LINEITEM: rimborso parziale o complessivo per un articolo</li>
-<li>ONE_TIME_REFUND: rimborso singolo elaborato per il cliente</li>
-<li>TAX_REFUND: rimborso dovuto alla convalida del certificato di esenzione fiscale</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Discounts:</td>
-<td><ul>
-<li>ACTIVATION_DISCOUNT: sconto applicato all'attivazione della sottoscrizione</li>
-<li>CYCLE_DISCOUNT: sconto applicato ad addebiti periodici</li>
-<li>RENEW_DISCOUNT: sconto applicato al rinnovo della sottoscrizione</li>
-<li>CANCEL_DISCOUNT: addebiti applicati all'annullamento degli sconti</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-<p> </p></td>
-<td></td>
+<td><p>Tipo di addebito o rettifica. Vedi <a href="#charge_types">Mapping degli addebiti tra una fattura e il file di riconciliazione</a></p></td>
+<td><p>Vedi <a href="#charge_types">Mapping degli addebiti tra una fattura e il file di riconciliazione</a></p></td>
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
@@ -268,10 +199,24 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 <td><p>ID MPN del rivenditore nel record per la sottoscrizione. Vedi [Eseguire la scomposizione dei dati in base al partner](#itemizebypartner).</p></td>
 <td>4390934</td>
 </tr>
+<tr class="even">
+<td>DomainName</td>
+<td><p>Nome di dominio del cliente, usato per identificare il cliente.</p></td>
+<td>example.onmicrosoft.com</td>
+</tr>
+<tr class="odd">
+<td>SubscriptionName</td>
+<td><p>Nome alternativo della sottoscrizione. Se non viene specificato alcun nome alternativo, il Centro per i partner usa l'OfferName.</p></td>
+<td>PROGETTO ONLINE</td>
+</tr>
+<tr class="even">
+<td>SubscriptionDescription</td>
+<td><p>Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. Questo è un campo identico a Nome offerta.</p></td>
+<td>PROGETTO PREMIUM ONLINE SENZA CLIENTE PROGETTO</td>
+</tr>
 </tbody>
 </table>
 
- 
 
 ## <a href="" id="usagebasedfiles"></a>Campi dei file in base all'uso
 
@@ -347,7 +292,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>Nome dell'offerta di servizio</p></td>
+<td><p>Nome alternativo dell'offerta di servizio.</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
@@ -455,8 +400,8 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>Descrizione del tipo di articolo</p></td>
-<td>COMMISSIONE DI UTILIZZO PER L'ACCESSO PER IL CICLO CORRENTE</td>
+<td><p>Tipo di addebito o rettifica. Vedi <a href="#charge_types">Mapping degli addebiti tra una fattura e il file di riconciliazione</a></p></td>
+<td><p>Vedi <a href="#charge_types">Mapping degli addebiti tra una fattura e il file di riconciliazione</a></p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
@@ -493,20 +438,235 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td><p>Numero di connessioni ServiceBus di cui è stato eseguito il provisioning e usate in un determinato giorno.</p></td>
 <td>Ad esempio, con una connessione fornita a livello singolo per un periodo di un mese di 30 giorni, Service Info 1 è "1.000000 Connections / 30 days". Se hai un pacchetto da 25 connessioni ServiceBus e ne hai utilizzata 1 per quel giorno, l'uso giornaliero registrato sarà "25 Connections / 30 Days – Used: 1.000000".</td>
 </tr>
+<tr class="even">
+<td>CustomerID</td>
+<td><p>ID Microsoft univoco, in formato GUID, usato per identificare il cliente.</p></td>
+<td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
+</tr>
+<tr class="odd">
+<td>DomainName</td>
+<td><p>Nome di dominio del cliente, usato per identificare il cliente.</p></td>
+<td>example.onmicrosoft.com</td></tr>
 </tbody>
 </table>
 
- 
-
- 
-
- 
 
 
+## <a href="" id="charge_types"></a>Mapping degli addebiti tra una fattura e il file di riconciliazione
+
+La fattura fornisce un riepilogo degli addebiti, mentre il file di riconciliazione fornisce una descrizione dettagliata delle transazioni di voce, inclusi i tipi di addebito.
+
+Per effettuare il riferimento incrociato degli importi di addebito tra la fattura e il file di riconciliazione, puoi utilizzare le opzioni di filtro di Microsoft Excel per filtrare per tipi di addebito nel file di riconciliazione per eseguire il mapping degli addebiti in fattura a un set di suddivisioni dettagliate nel file di riconciliazione.
+
+Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e i tipi di addebito associati che possono apparire nei file di riconciliazione. 
+
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Descrizione dell'addebito in fattura</strong></p>
+</td>
+<td>
+<p><strong>Descrizione dell'addebito nel file di riconciliazione (colonna ChargeType)</strong></p>
+</td>
+<td>
+<p><strong>Descrizione dell'addebito</strong></p>
+</td>
+<td>
+<p><strong>Modalità di mapping di questi tipi di addebito alla fattura</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p><strong>Addebiti periodici</strong></p>
+</td>
+<td>
+<p>Istanza di annullamento rateizzata</p>
+</td>
+<td>
+<p>Addebiti rateizzati rimborsati al cliente in caso di modifica delle postazioni associate</p>
+</td>
+<td rowspan="8">
+<p>Dal file in base alle licenze, somma la colonna <strong>Amount</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tariffa periodica</p>
+</td>
+<td>
+<p>Addebiti periodici per una sottoscrizione</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Istanza del ciclo rateizzata</p>
+</td>
+<td>
+<p>Tariffe rateizzate calcolate dal cliente in caso di modifica delle postazioni associate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rateizza le tariffe in caso di annullamento</p>
+</td>
+<td>
+<p>Rimborso rateizzato per servizio parzialmente inutilizzato all'annullamento</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rateizza le tariffe all'acquisto</p>
+</td>
+<td>
+<p>Tariffe rateizzate all'acquisto</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tariffa di acquisto</p>
+</td>
+<td>
+<p>Addebito iniziale per una sottoscrizione</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rateizza la tariffa al rinnovo</p>
+</td>
+<td>
+<p>Tariffe rateizzate al rinnovo della sottoscrizione</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tariffa di rinnovo</p>
+</td>
+<td>
+<p>Addebito per il rinnovo di una sottoscrizione</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Altri prodotti e servizi</strong></p>
+</td>
+<td>
+<p>Rateizza le tariffe all'attivazione</p>
+</td>
+<td>
+<p>Tariffe rateizzate dall'attivazione fino alla fine del periodo di fatturazione</p>
+</td>
+<td>
+<p>Dal file in base alle licenze, somma la colonna <strong>Amount</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><strong>Costi di utilizzo</strong></p>
+</td>
+<td>
+<p>Valuta la tariffa di utilizzo all'annullamento</p>
+</td>
+<td>
+<p>Tariffa di utilizzo per l'accesso all'annullamento per utilizzo non pagato durante il periodo di fatturazione corrente</p>
+</td>
+<td rowspan="2">
+<p>Dal file in base all'uso, somma la colonna <strong>PretaxCharges</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Valuta la tariffa di utilizzo per il ciclo corrente</p>
+</td>
+<td>
+<p>Tariffa di utilizzo per l'accesso per il periodo di fatturazione corrente</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Crediti e rettifiche</strong></p>
+</td>
+<td>
+<p>Compensa una voce</p>
+</td>
+<td>
+<p>Rimborso parziale o totale per una voce, comprese le imposte</p>
+</td>
+<td>
+<p>Dal file in base alle licenze, somma la colonna <strong>TotalForCustomer</strong></p>
+<p>Dal file in base all'uso, somma la colonna <strong>PostTaxTotal</strong></p>
+</td>
+</tr>
 
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+<tr>
+<td rowspan="4">
+<p><strong>Altri sconti</strong></br>
+<em>(in base all'uso)</em></p>
+</td>
+<td>
+<p>Sconto attivazione</p>
+</td>
+<td>
+<p>Sconto applicato all'attivazione della sottoscrizione</p>
+</td>
+<td rowspan="4">
+<p>Dal file in base all'uso, somma la colonna <strong>PretaxCharges</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sconto ciclo</p>
+</td>
+<td>
+<p>Sconto applicato su addebiti periodici</p>
+</td>
+</tr><tr>
+<td>
+<p>Sconto rinnovo</p>
+</td>
+<td>
+<p>Sconto applicato al rinnovo della sottoscrizione</p>
+</td>
+</tr><tr>
+<td>
+<p>Annulla sconto</p>
+</td>
+<td>
+<p>Addebiti applicati all'annullamento degli sconti</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Altri sconti</strong></br>
+<em>(in base alle licenze)</em></p>
+</td>
+<td>
+<p><em>Possono essere applicati a più tipi di addebito</em></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>Dal file in base alle licenze, somma la colonna <strong>TotalOtherDiscount</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Imposte</strong>&nbsp;o&nbsp;<strong>IVA</strong></p>
+</td>
+<td>
+<p><em>Possono essere applicate a più tipi di addebito</em></p>
+<p><em>Eccezione: "Compensa una voce" include già le imposte. Vedi Crediti e rettifiche, sopra.</em></p>
+</td>
+<td>
+<p>Imposte o imposte sul valore aggiunto (IVA)</p>
+</td>
+<td>
+<p>Dal file in base alle licenze, somma la colonna <strong>Tax</strong></p>
+<p>Dal file in base all'uso, somma la colonna <strong>TaxAmount</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

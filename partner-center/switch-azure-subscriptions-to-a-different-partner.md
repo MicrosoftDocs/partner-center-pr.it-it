@@ -3,13 +3,11 @@ title: Passare le sottoscrizioni Azure a un altro partner | Centro partner
 description: "Un cliente può cambiare il partner del programma Cloud Solution Provider (CSP) scelto per i servizi di Microsoft Azure. Tuttavia, questo è un processo manuale che richiede l&quot;intervento sia del partner che del cliente."
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Passare le sottoscrizioni Azure a un altro partner
+# <a name="switch-azure-subscriptions-to-a-different-partner"></a>Passare le sottoscrizioni Azure a un altro partner
 
 **Si applica a**
 
@@ -77,11 +75,5 @@ Un cliente può cambiare il partner del programma Cloud Solution Provider (CSP) 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

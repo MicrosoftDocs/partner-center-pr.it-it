@@ -3,13 +3,11 @@ title: Gestire l&quot;account per il Centro per i partner | Centro partner
 description: "Quando vieni accettato per il programma Cloud Solution Provider, tu o il tuo amministratore dovete configurare l&quot;account della società nel Centro per i partner."
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 04f7b861800653c0a8948432a9e1323a1acb169a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Gestire l'account per il Centro per i partner
+# <a name="manage-your-partner-center-account"></a>Gestire l'account per il Centro per i partner
 
 **Si applica a**
 
@@ -35,11 +33,5 @@ Quando vieni accettato per il programma Cloud Solution Provider, tu o il tuo amm
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

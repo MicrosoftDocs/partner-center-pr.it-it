@@ -3,13 +3,11 @@ title: Migliorare i tassi di adozione e soddisfazione | Centro per i partner
 description: "I nostri partner usano molte metriche per valutare la crescita delle loro attività e decidere dove concentrare gli investimenti. Il Centro per i partner può essere di aiuto fornendo dati che indicano se e come i clienti usano le licenze acquistate."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Migliorare i tassi di adozione e soddisfazione
+# <a name="increase-adoption-and-satisfaction"></a>Migliorare i tassi di adozione e soddisfazione
 
 **Si applica a**
 
@@ -19,7 +17,7 @@ I nostri partner usano molte metriche per valutare la crescita delle loro attivi
 
 Puoi vedere i dati per tutti i tuoi clienti tramite il programma Cloud Solution Provider. Tieni presente che alcuni clienti possono acquistare licenze da altri partner o direttamente da Microsoft. In questi casi, vedrai il numero totale di licenze per tutti i partner. Per vedere solo le tue licenze, vai alle sottoscrizioni del cliente.
 
-## Trovare dati sulle licenze e gli utenti
+## <a name="find-license-and-user-data"></a>Trovare dati sulle licenze e gli utenti
 
 
 **Per un singolo cliente**
@@ -51,7 +49,7 @@ Terminologia:
 
     -   Se alcuni clienti usano Yammer molto di più di quanto autorizzato dalla loro licenza, i dati possono essere notevolmente distorti.
 
-## Passaggi successivi
+## <a name="next-steps"></a>Passaggi successivi
 
 
 Se ricevi molte richieste di assistenza e domande relative alle procedure, il numero di adozioni per il tuo account sono poche o cerchi opportunità di upsell, puoi considerare l'idea di offrire dei corsi di formazione. Insegnando ai tuoi clienti come usare al meglio il software per soluzioni cloud acquistato, probabilmente riscontrerai un aumento dei livelli di produttività e soddisfazione e una riduzione delle richieste di assistenza.
@@ -63,11 +61,11 @@ Se ricevi molte richieste di assistenza e domande relative alle procedure, il nu
 <tbody>
 <tr class="odd">
 <td><p><strong>Problema:</strong> il tasso di adozione da parte degli utenti è basso e molte licenze non vengono usate.</p>
-<p><strong>Aspetti da considerare:</strong> è possibile che i clienti non comprendano il valore offerto dal software. Devi aiutarli a capire i modi in cui possono usarlo durante le loro giornate per semplificare attività che già svolgono o per promuovere nuovi modi per essere produttivi.</p>
+<p><strong>Aspetti da considerare</strong>: è possibile che i clienti non comprendano il valore offerto dal software. Devi aiutarli a capire i modi in cui possono usarlo durante le loro giornate per semplificare attività che già svolgono o per promuovere nuovi modi per essere produttivi.</p>
 <p><strong>Cosa provare:</strong> case study, testimonianze degli utenti su scenari specifici, blog esplicativi o video.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Problema:</strong> il volume delle richieste di assistenza e delle domande relative alle procedure è elevato.</p>
+<td><p><strong>Problema</strong>: il volume delle richieste di assistenza e delle domande relative alle procedure è elevato.</p>
 <p><strong>Aspetti da considerare:</strong> è possibile che i clienti non conoscano il software, la versione del prodotto oppure le attività da svolgere.</p>
 <p><strong>Cosa provare:</strong> puoi adottare la doppia strategia di offrire formazione (di persona o online) per aumentare le competenze generali del cliente, promuovendo al tempo stesso alcune delle opzioni self-service disponibili.</p>
 <p>È consigliabile riprogettare il tuo sito di supporto in modo da includere anche le opzioni self-service descritte nell'argomento [Supporto in autonomia dei clienti](customer-self-support.md), oltre alle tue informazioni di contatto del supporto tecnico.</p></td>
@@ -81,11 +79,5 @@ Se ricevi molte richieste di assistenza e domande relative alle procedure, il nu
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

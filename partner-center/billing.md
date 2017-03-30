@@ -3,13 +3,11 @@ title: Fatturazione | Centro per i partner
 Description: Come partner CSP (Cloud Solution Provider), pagherai Microsoft per le sottoscrizioni in base alla licenza e in base all&quot;uso dei tuoi clienti in via posticipata, dopo 60 giorni.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Fatturazione
+# <a name="billing"></a>Fatturazione
 
 **Si applica a**
 
@@ -25,7 +23,7 @@ Per la fattura, vai al menu **Dashboard** e quindi seleziona **Fatturazione**. Q
 -   Aggiungi le tue tariffe e i tuoi addebiti per i servizi e i prodotti che fornisci.
 -   Invia una sola fattura per tutti gli addebiti al cliente.
 
-## Fatturazione
+## <a name="billing"></a>Fatturazione
 
 
 [Leggere la fattura](read-your-bill.md)
@@ -42,7 +40,7 @@ Per la fattura, vai al menu **Dashboard** e quindi seleziona **Fatturazione**. Q
 
 [Servizi PSTN](o365-e5-in-csp-advisory.md)
 
-## Contenuto della sezione
+## <a name="in-this-section"></a>Contenuto della sezione
 
 
 -   [Nozioni di base sulla fatturazione](#billingbasics)
@@ -194,11 +192,5 @@ Azure funziona con un modello di "pagamento a consumo", in base al quale vengono
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

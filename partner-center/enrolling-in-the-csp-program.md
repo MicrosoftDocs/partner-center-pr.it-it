@@ -3,13 +3,11 @@ title: Iscriversi al programma CSP | Centro per i partner
 description: Prima di iscriverti al programma Cloud Solution Provider, consulta queste informazioni sui requisiti del programma CSP.
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
-ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
-
+ms.openlocfilehash: 88fd35cea2e44d905bec63a7963c886dbd27c07f
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Iscriversi al programma Cloud Solution Provider
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
 **Si applica a**
 
@@ -18,11 +16,12 @@ ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 >**Nota**<br>
 Per informazioni sulla registrazione al programma Cloud Solution Provider per Microsoft Cloud Germania, vedere [Iscriversi al programma Cloud Solution Provider per Microsoft Cloud Germania](enroll-in-csp-for-microsoft-cloud-germany.md) e [Centro per i Partner per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md).
 
-Prima di iscriverti al programma Cloud Solution Provider (CSP), vedi queste informazioni sui [requisiti del programma CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
+Prima di iscriverti al programma Cloud Solution Provider (CSP), vedi queste informazioni sui [requisiti del programma CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116). Per altre informazioni sul contratto per il partner e sugli altri requisiti del programma, vedi [Contratti, listini prezzi e offerte per CSP](csp-documents-and-learning-resources.md). 
 
-Per altre informazioni sul contratto per il partner e sugli altri requisiti del programma, vedi [Contratti, listini prezzi e offerte per CSP](csp-documents-and-learning-resources.md).
+>**Importante**<br>
+Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Tutti gli annunci sui rilasci di funzionalità saranno effettuati tramite i canali di comunicazione normali, tra cui il Centro per i partner.  
 
-Informazioni su come soddisfare i requisiti per gli incentivi del programma CSP, eseguire l'onboarding nella piattaforma degli incentivi e ottenere i fondi degli incentivi. Vedi [Dettagli programma](https://go.microsoft.com/fwlink/?linkid=831533).
+Scopri come soddisfare i requisiti per gli incentivi del programma CSP, eseguire l'onboarding nella piattaforma degli incentivi e ottenere i fondi degli incentivi. Vedi [Dettagli programma](https://go.microsoft.com/fwlink/?linkid=831533).
 
 ## <a href="" id="markets"></a>Disponibilità
 
@@ -49,7 +48,7 @@ Il programma Cloud Solution Provider è disponibile per le aziende con uffici ne
 
  
 
-## Account del Centro per i partner
+## <a name="partner-center-account"></a>Account del Centro per i partner
 
 
 Per il Centro per i partner è richiesto che l'amministratore per la tua azienda abbia un indirizzo e-mail autenticato da Azure AD. L'amministratore può usare uno qualsiasi degli account di posta elettronica esistenti da un servizio cloud Microsoft, tra cui Office 365, Azure AD, Microsoft Intune, Enterprise Mobility Services e così via. La procedura per diventare un rivenditore convertirà questo indirizzo e-mail nell'indirizzo dell'amministratore per un account rivenditore.
@@ -60,11 +59,5 @@ Tieni presente che il tuo indirizzo e-mail con autenticazione di Azure AD esiste
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

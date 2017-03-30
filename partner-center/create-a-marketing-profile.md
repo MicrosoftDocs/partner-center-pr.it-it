@@ -3,13 +3,11 @@ title: Creare un profilo di marketing | Centro per i partner
 description: "Ogni anno, Microsoft attrae milioni di prospect qualificati nelle sue proprietà Web."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Creare un profilo di marketing
+# <a name="create-a-marketing-profile"></a>Creare un profilo di marketing
 
 **Si applica a**
 
@@ -37,7 +35,7 @@ Grazie per la tua pazienza mentre completiamo questo entusiasmante aggiornamento
 2.  Nella scheda **Profili** seleziona **Aggiungi un profilo di marketing**.
 3.  Aggiorna le informazioni sulla tua azienda, tra cui le informazioni di contatto, gli attributi che mettono in evidenza le tue competenze aziendali e una descrizione che soddisfi le *linee guida per il profilo* indicate di seguito.
 
-## Linee guida per il profilo
+## <a name="profile-guidelines"></a>Linee guida per il profilo
 
 
 -   Il tuo profilo può essere composto da un massimo di 2500 caratteri, ma i profili sintetici sono spesso i più efficaci.
@@ -54,7 +52,7 @@ Grazie per la tua pazienza mentre completiamo questo entusiasmante aggiornamento
 
 -   Le parole chiave immesse dai clienti per la ricerca hanno il maggior peso. Includi parole chiave che descrivono in modo accurato la tua offerta aziendale, nonché la terminologia del settore che i clienti potrebbero usare per la ricerca delle soluzioni.
 
-## Dieci suggerimenti per un profilo efficace
+## <a name="ten-tips-for-a-great-profile"></a>Dieci suggerimenti per un profilo efficace
 
 
 1.  **Rivolgiti al tuo pubblico** Scrivi come se stessi parlando al cliente e non per il team interno o per Microsoft.
@@ -77,7 +75,7 @@ Grazie per la tua pazienza mentre completiamo questo entusiasmante aggiornamento
 
 10. **Profilo sempre aggiornato** Mantieni il profilo sincronizzato con la presenza Web della tua azienda. Aggiorna il profilo e il sito per ogni rilascio di software o servizi, garantendo un'esperienza coerente per i clienti.
 
-## Argomenti correlati
+## <a name="related-topics"></a>Argomenti correlati
 
 
 [Transizione da Pinpoint al Centro per i partner](importing-pinpoint-profiles-into-partner-center.md)
@@ -86,11 +84,5 @@ Grazie per la tua pazienza mentre completiamo questo entusiasmante aggiornamento
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

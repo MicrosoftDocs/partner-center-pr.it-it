@@ -3,13 +3,11 @@ title: Personalizzare il catalogo | Centro per i partner
 description: Nel catalogo sono elencati tutti i prodotti e i componenti aggiuntivi Microsoft disponibili per la vendita per i partner.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: c4e1f1813add283f67669cc8ea0cc88fb0bb4610
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Personalizzare il catalogo
+# <a name="customize-the-catalog"></a>Personalizzare il catalogo
 
 **Si applica a**
 
@@ -27,11 +25,5 @@ Nel catalogo sono elencati i prodotti Microsoft e i componenti aggiuntivi dispon
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

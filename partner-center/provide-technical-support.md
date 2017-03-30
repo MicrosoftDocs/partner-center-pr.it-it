@@ -3,13 +3,11 @@ title: Offrire supporto tecnico | Centro per i partner
 description: "In qualità di partner Cloud Solution Provider, disponi di privilegi di amministratore delegato che ti consentono l&quot;accesso agli ambienti dei tuoi clienti."
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Offrire supporto tecnico
+# <a name="provide-technical-support"></a>Offrire supporto tecnico
 
 **Si applica a**
 
@@ -42,11 +40,5 @@ Nel Centro per i partner puoi:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

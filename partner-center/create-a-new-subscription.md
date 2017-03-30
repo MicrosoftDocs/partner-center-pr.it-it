@@ -3,13 +3,11 @@ title: Creare una nuova sottoscrizione | Centro per i partner
 description: Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: e23594a9bb9371cb1af1a2ff9047ef559050def0
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Creare una nuova sottoscrizione
+# <a name="create-a-new-subscription"></a>Creare una nuova sottoscrizione
 
 **Si applica a**
 
@@ -38,11 +36,5 @@ Dopo aver creato una sottoscrizione di Microsoft Azure per un cliente, puoi cons
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

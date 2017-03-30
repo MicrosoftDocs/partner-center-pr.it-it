@@ -3,13 +3,11 @@ title: Contratti, listini prezzi e offerte per CSP | Centro per i partner
 description: Microsoft pubblica molti documenti di cui i partner CSP hanno bisogno per decidere se iscriversi al programma, iscrivere nuovi clienti, vendere prodotti e servizi Microsoft ai clienti e riconciliare le fatture.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Contratti, listini prezzi e offerte per CSP
+# <a name="csp-agreements-price-lists-and-offers"></a>Contratti, listini prezzi e offerte per CSP
 
 **Si applica a**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 Microsoft pubblica molti documenti di cui i partner CSP hanno bisogno per decidere se iscriversi al programma, iscrivere nuovi clienti, vendere prodotti e servizi Microsoft ai clienti e riconciliare le fatture.
 
-## Contenuto della sezione
+## <a name="in-this-section"></a>Contenuto della sezione
 
 
 -   [Guida al programma](#programguide)
@@ -64,7 +62,7 @@ I partner hanno la responsabilità di assicurarsi che i clienti comprendano e ac
 
 [Modello di contratto per il cliente](agreements.md)
 
-## Prezzi
+## <a name="pricing"></a>Prezzi
 
 
 Puoi scaricare informazioni dettagliate sui prezzi per i partner nella pagina **Vendite**. Esistono due listini prezzi separati, uno per i servizi basati su licenza, tra cui Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM e uno per i servizi basati sull'utilizzo, tra cui Microsoft Azure.
@@ -73,7 +71,7 @@ Il listino prezzi basato su licenza viene aggiornato mensilmente e Microsoft pub
 
 I prezzi basati sull'utilizzo sono dinamici e cambiano continuamente.
 
-## Offerte
+## <a name="offers"></a>Offerte
 
 
 I partner CPS possono vendere Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM e Microsoft Azure. Per altre informazioni sugli SKU e le aggregazioni di prodotti disponibili per la vendita all'interno di queste famiglie di prodotti, Microsoft pubblica la matrice dell'offerta per i rivenditori cloud nella pagina **Vendite**. Questo documento viene aggiornato mensilmente.
@@ -84,11 +82,5 @@ Per i partner CSP che usano l'API CREST per i record di utilizzo, Microsoft pubb
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

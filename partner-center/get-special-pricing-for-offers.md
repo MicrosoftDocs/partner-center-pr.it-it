@@ -3,13 +3,11 @@ title: Ottenere prezzi speciali per le offerte | Centro per i partner
 Description: Microsoft offre prezzi ridotti speciali per gruppi selezionati di utenti, ad esempio gli istituti di istruzioni, le organizzazioni no profit e gli enti pubblici oppure per set di clienti di dimensioni molto grandi.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: f5fcec2df909ef089846cd7b443a890c7ac2f067
 ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Ottenere prezzi speciali per le offerte
+# <a name="get-special-pricing-for-offers"></a>Ottenere prezzi speciali per le offerte
 
 **Si applica a**
 
@@ -54,11 +52,5 @@ Microsoft offre prezzi ridotti speciali per gruppi selezionati di utenti, ad ese
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

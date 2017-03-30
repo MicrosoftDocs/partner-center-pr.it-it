@@ -3,13 +3,11 @@ title: Richiedere una relazione con un cliente| Centro per i partner
 description: "La richiesta di una relazione viene usata per gli scenari multipartner e multicanale. È anche utile se un cliente rimuove i tuoi privilegi di amministratore delegato e devi ripristinarli per effettuare il provisioning o fornire supporto."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
-
+ms.openlocfilehash: 11c855af950c58423aaf9155d4fe64ceacf1ce6e
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Richiedere una relazione con un cliente
+# <a name="request-a-relationship-with-a-customer"></a>Richiedere una relazione con un cliente
 
 **Si applica a**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
 
 La richiesta di una relazione viene usata per gli scenari [multipartner](multipartner.md) e [multicanale](multichannel.md). È anche utile se un cliente rimuove i tuoi privilegi di amministratore delegato e devi ripristinarli per effettuare il provisioning o fornire supporto.
 
-Tieni presente che questo processo consente solo di aggiungere privilegi di amministratore delegato. A meno che il partner non fosse il rivenditore CSP originale per la sottoscrizione, non riceverà una fattura per le sottoscrizioni, né potrà aggiungere o rimuovere postazioni, ordinare componenti aggiuntivi, eseguire la transizione o la migrazione delle sottoscrizioni o modificare il Partner of Record.
+Tieni presente che questo processo consente solo di aggiungere privilegi di amministratore delegato. A meno che il partner non fosse il rivenditore Cloud Solution Provider (CSP) originale per la sottoscrizione, non riceverà una fattura per le sottoscrizioni, né potrà aggiungere o rimuovere postazioni, ordinare componenti aggiuntivi, eseguire la transizione o la migrazione delle sottoscrizioni o modificare il Partner of Record.
 
 <a href="" id="requestarelationship"></a>
 **Richiedere una relazione**
@@ -40,11 +38,5 @@ Per ristabilire i privilegi di amministratore delegato rimossi dal cliente, puoi
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

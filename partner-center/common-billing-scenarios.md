@@ -3,13 +3,11 @@ title: Scenari di fatturazione comuni | Centro per i partner
 description: "Questo argomento descrive ciò che compare sulla fattura dopo l&quot;aggiunta di nuove sottoscrizioni, la modifica del numero di postazioni in una sottoscrizione o l&quot;annullamento di una sottoscrizione. Le sottoscrizioni in base alle licenze vengono gestite diversamente rispetto a quelle in base all&quot;uso."
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Scenari di fatturazione comuni
+# <a name="common-billing-scenarios"></a>Scenari di fatturazione comuni
 
 **Si applica a**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
 
 Questo argomento descrive ciò che compare sulla fattura dopo l'aggiunta di nuove sottoscrizioni, la modifica del numero di postazioni in una sottoscrizione o l'annullamento di una sottoscrizione. Le sottoscrizioni in base alle licenze vengono gestite diversamente rispetto a quelle in base all'uso.
 
-## Contenuto della sezione
+## <a name="in-this-section"></a>Contenuto della sezione
 
 
 -   [Fatturazione in base all'uso](#usagebased)
@@ -138,11 +136,5 @@ Storno dell'anticipo per il periodo mensile completo dal 15 luglio al 14 agosto 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

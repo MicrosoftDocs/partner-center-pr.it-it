@@ -3,13 +3,11 @@ title: Migrazione delle sottoscrizioni Dynamics AX a Dynamics 365 | Centro
 description: "Microsoft introduce Dynamics 365, la nuova generazione di applicazioni aziendali intelligenti che consentono l&quot;espansione, evoluzione e trasformazione della tua organizzazione per soddisfare le esigenze dei clienti esistenti e acquisire nuove opportunità."
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Migrazione delle sottoscrizioni Dynamics AX a Dynamics 365
+# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrazione delle sottoscrizioni Dynamics AX a Dynamics 365
 
 **Si applica a**
 
@@ -59,7 +57,7 @@ La linea di prodotti Microsoft Dynamics AX è stata ritirata a partire dal 1 nov
 
 Il piano corrente Microsoft Dynamics CRM Online è stato ritirato a partire dal 1 novembre 2016. Vedi le [informazioni importanti per i clienti di CRM Online](https://go.microsoft.com/fwlink/?linkid=831667) per scoprire di più sulle nuove opzioni per le licenze.
 
-## Transizione dei clienti ai nuovi piani per i prodotti
+## <a name="transition-customers-to-new-product-plans"></a>Transizione dei clienti ai nuovi piani per i prodotti
 
 
 Microsoft offre continuamente nuovi prodotti e servizi a rivenditori e provider. In questi casi, un rivenditore potrebbe avere la necessità di aggiornare i clienti ai nuovi servizi o di eseguire la migrazione delle loro sottoscrizioni da SKU destinati a essere ritirati. La migrazione dei clienti da SKU precedenti a quelli più recenti richiede la sequenza seguente:
@@ -70,8 +68,7 @@ Microsoft offre continuamente nuovi prodotti e servizi a rivenditori e provider.
 
 Le procedure seguenti illustrano come eseguire la migrazione di un cliente da Dynamics AX7 Enterprise a Dynamics 365 for Operations.
 
-<a href="" id="purchasenewsubsc"></a>
-Il rivenditore deve eseguire la migrazione di un cliente con una sottoscrizione esistente per Dynamics AX Enterprise a Dynamics 365 for Operations. Il primo passaggio consiste nell'acquistare Dynamics 365 for Operations.
+<a href="" id="purchasenewsubsc"></a>Il rivenditore deve eseguire la migrazione di un cliente con una sottoscrizione esistente per Dynamics AX Enterprise a Dynamics 365 for Operations. Il primo passaggio consiste nell'acquistare Dynamics 365 for Operations.
 
 **Acquistare la nuova sottoscrizione**
 
@@ -80,8 +77,7 @@ Il rivenditore deve eseguire la migrazione di un cliente con una sottoscrizione 
 
     Il cliente a questo punto dovrebbe avere sia la sottoscrizione nuova che quella precedente, in questo esempio la vecchia sottoscrizione Dynamics AX Enterprise e la nuova sottoscrizione di destinazione, Dynamics 365 for Operations, Enterprise Edition.
 
-<a href="" id="reassignlicenses"></a>
-Il passaggio successivo consiste nel riassegnare tutte le licenze utente esistenti alla nuova sottoscrizione.
+<a href="" id="reassignlicenses"></a> Il passaggio successivo consiste nel riassegnare tutte le licenze utente esistenti alla nuova sottoscrizione.
 
 **Riassegnare le licenze utente**
 
@@ -91,8 +87,7 @@ Il passaggio successivo consiste nel riassegnare tutte le licenze utente esisten
 4.  Seleziona **Invia**. Le nuove assegnazioni di licenza vengono visualizzate in una pagina di conferma.
 5.  Ripeti la stessa procedura per tutti gli utenti del cliente per cui è necessaria la riassegnazione della licenza.
 
-<a href="" id="cancelsubscriptions"></a>
-Dopo aver spostato le licenze utente al nuovo servizio, puoi tranquillamente annullare la sottoscrizione precedente al livello principale del cliente.
+<a href="" id="cancelsubscriptions"></a> Dopo aver spostato le licenze utente al nuovo servizio, puoi tranquillamente annullare la sottoscrizione precedente al livello principale del cliente.
 
 **Annullare la sottoscrizione precedente**
 
@@ -102,7 +97,7 @@ Dopo aver spostato le licenze utente al nuovo servizio, puoi tranquillamente ann
 
 La sottoscrizione precedente viene sospesa e la nuova sottoscrizione diventa attiva. Per la sottoscrizione sospesa verrà eseguito automaticamente l'annullamento del provisioning dopo 120 giorni. Il cliente non dovrà sostenere alcun costo aggiuntivo per la sottoscrizione precedente.
 
-## Considerazioni aggiuntive
+## <a name="additional-considerations"></a>Considerazioni aggiuntive
 
 
 Se il cliente passa dal canale Open al programma per i servizi cloud per il provisioning di altre sottoscrizioni, dovrai eseguire anche la migrazione delle sottoscrizioni esistenti:
@@ -116,11 +111,5 @@ Dopo che il cliente ti accetta come provider indiretto, la procedura per il prov
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

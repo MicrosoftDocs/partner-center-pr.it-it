@@ -39,7 +39,7 @@ Puoi visualizzare in anteprima le informazioni di diagnostica e salvarle in un f
 
 1.    Esaminare le informazioni nel file prima di inviarlo perché può contenere informazioni personali che puoi decidere di rimuovere. 
 
-    >**Nota**<br>
+    >**Nota**<br />
     In alcuni browser, la sezione **di visualizzazione della pagina** nella parte inferiore della pagina di **anteprima** può sembrare vuota. Non si tratta di un errore.
 
 2.    Per salvare il file, segui le istruzioni visualizzate sullo schermo.

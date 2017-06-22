@@ -3,20 +3,24 @@ title: Aggiungere un nuovo cliente | Centro per i partner
 description: Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto, devi creare un record per il tuo cliente nel Centro per i partner. Il record include le informazioni di contatto e un dominio di Azure AD.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
-ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: c6bb20cdc2dbb7bc6c3a04bb8c01b5cfe685dfe4
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 06/09/2017
 ---
 # <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente
 
 **Si applica a**
 
 -  Centro per i partner
+-  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
+
 
 Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto, devi creare un record per il tuo cliente nel Centro per i partner. Il record include le informazioni di contatto e un dominio di Azure AD.
 
-Per i clienti che dispongono già di account dei clienti e sottoscrizioni tramite uno scenario [multicanale](multichannel.md) o [multipartner](multipartner.md), puoi [richiedere una relazione con un cliente](request-a-relationship-with-a-customer.md), invece di seguire questa procedura.
+Per i clienti che dispongono già di account e sottoscrizioni di clienti tramite uno scenario [multicanale](multichannel.md) o [multipartner](multipartner.md), puoi [richiedere una relazione con un cliente](request-a-relationship-with-a-customer.md), invece di seguire questa procedura.
 
 **Aggiungere un nuovo cliente**
 

@@ -3,15 +3,17 @@ title: Offrire supporto tecnico | Centro per i partner
 description: "In qualità di partner Cloud Solution Provider, disponi di privilegi di amministratore delegato che ti consentono l&quot;accesso agli ambienti dei tuoi clienti."
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f9252b0cde71b1265458f374eec1470f29ddb433
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: it-IT
 ---
 # <a name="provide-technical-support"></a>Offrire supporto tecnico
 
 **Si applica a**
 
 -  Centro per i partner
+-  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
 In qualità di partner Cloud Solution Provider, disponi di privilegi di amministratore delegato che ti consentono l'accesso agli ambienti dei tuoi clienti. Questi privilegi ti permettono di fornire supporto diretto, configurare e gestire le sottoscrizioni dei tuoi clienti.

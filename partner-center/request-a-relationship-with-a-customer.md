@@ -3,36 +3,46 @@ title: Richiedere una relazione con un cliente| Centro per i partner
 description: "La richiesta di una relazione viene usata per gli scenari multipartner e multicanale. È anche utile se un cliente rimuove i tuoi privilegi di amministratore delegato e devi ripristinarli per effettuare il provisioning o fornire supporto."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 11c855af950c58423aaf9155d4fe64ceacf1ce6e
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 4497163d59cce019936ce054eb3e3911ea44ce96
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 06/09/2017
 ---
-# <a name="request-a-relationship-with-a-customer"></a>Richiedere una relazione con un cliente
+# <a name="connect-with-customers-in-partner-center"></a>Entrare in contatto con i clienti nel Centro per i partner
 
 **Si applica a**
 
 -  Centro per i partner
+-  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
-La richiesta di una relazione viene usata per gli scenari [multipartner](multipartner.md) e [multicanale](multichannel.md). È anche utile se un cliente rimuove i tuoi privilegi di amministratore delegato e devi ripristinarli per effettuare il provisioning o fornire supporto.
+Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ultimo dovrà concederti le autorizzazioni di amministratore per tale servizio. Per ottenere le autorizzazioni di amministratore, invia al cliente una richiesta di relazione come rivenditore. Dopo che il cliente ha approvato la richiesta, potrai accedere al portale di amministrazione del servizio e gestire il servizio per conto del cliente. 
 
-Tieni presente che questo processo consente solo di aggiungere privilegi di amministratore delegato. A meno che il partner non fosse il rivenditore Cloud Solution Provider (CSP) originale per la sottoscrizione, non riceverà una fattura per le sottoscrizioni, né potrà aggiungere o rimuovere postazioni, ordinare componenti aggiuntivi, eseguire la transizione o la migrazione delle sottoscrizioni o modificare il Partner of Record.
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire una relazione come rivenditore con te
 
-<a href="" id="requestarelationship"></a>
-**Richiedere una relazione**
+1.  Seleziona **Clienti** dal menu **Dashboard** e quindi seleziona **Richiedi una relazione come rivenditore**.
 
-1.  Nel Centro per i partner vai al menu Dashboard &gt; **Clienti** &gt; **Richiedi una relazione come rivenditore**.
-2.  Copia il testo del messaggio e-mail. Puoi modificare o eliminare i primi due paragrafi, ma non devi modificare il link. L'URL del link si applica in modo specifico al tuo account rivenditore e non include informazioni sul cliente di alcun tipo. Puoi riutilizzare lo stesso link ogni volta che richiedi una relazione.
-3.  Invia il messaggio al cliente. Per accettare, il cliente può fare clic sul link dell'invito e accedere usando un account di amministratore.
-4.  Successivamente, il cliente può esaminare i diversi servizi di tutti i partner nella pagina **Relazioni con i partner**, con informazioni su quali partner hanno privilegi di amministratore delegato per ogni servizio.
+2.  Nella pagina successiva controlla la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
 
-    Tieni presente che nel modello multicanale i clienti possono avere solo un partner di transazioni CSP con privilegi di amministratore delegato per ogni servizio. Possono anche aver concesso autorizzazioni ad altri partner che non fanno parte del programma CSP.
+    Il testo nel messaggio di posta elettronica può essere modificato, ma assicurati di includere il collegamento poiché è personalizzato per collegare il cliente direttamente al tuo account. Al termine di questo passaggio, seleziona **Fatto**.
 
-5.  Il partner saprà che il cliente ha accettato l'invito quando quest'ultimo viene visualizzato nell'elenco dei clienti del partner nel Centro per i partner. Il partner può quindi effettuare il provisioning e gestire le sottoscrizioni CSP per il cliente.
+3.  Invia il messaggio di posta elettronica al cliente.
 
-I clienti possono rimuovere i privilegi di amministratore delegato di tutti i partner (inclusi quelli nel programma CSP) o di uno di essi. Questa operazione può essere eseguita nel portale di amministrazione. L'account del cliente e la relazione commerciale rimangono validi, a meno che non vengano rinegoziati dal cliente e dal partner. Il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni per il contratto per rivenditori cloud, anche dopo che un cliente ha rimosso le autorizzazioni di amministratore delegato del partner. In questo caso, se il cliente ha bisogno di aiuto, il partner deve contattare il supporto Microsoft per aprire una richiesta di servizio per conto del cliente.
+4.  Dopo aver accettato l'invito, il cliente verrà visualizzato nella pagina **Clienti** e tu potrai effettuare il provisioning e gestire il servizio per il cliente da questa pagina.
 
-Per ristabilire i privilegi di amministratore delegato rimossi dal cliente, puoi ripetere il processo di richiesta di una relazione.
+ >**Nota**<br>
+    In uno scenario multicanale, un solo partner può avere le autorizzazioni di amministratore per gestire un servizio per conto del cliente. 
+
+5.  Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome.
+
+
+>**Importante**<br>
+I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questo caso, se il cliente ha bisogno di aiuto, potrai contattare il supporto Microsoft per aprire una richiesta di assistenza per conto del cliente.
+
+
+
+
 
  
 

@@ -3,15 +3,17 @@ title: Impostare un budget di spesa di Azure per i clienti | Centro partner
 description: "Nel Centro per i partner puoi impostare un budget mensile per ogni cliente, così le fatture di Azure non saranno una sorpresa alla fine del mese."
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
-ms.openlocfilehash: a4afd889720acdfcb280486a3c05195aa7778674
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 873190885d83f70f6ff68e277f288d58cc74ca00
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: it-IT
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Impostare un budget di spesa di Azure per i clienti
 
 **Si applica a**
 
 -  Centro per i partner
+-  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
 Per aiutare i clienti a gestire la loro spesa di Azure, puoi impostare un budget mensile di spesa per ogni cliente, in modo che la loro fattura di Azure non sia superiore alla previsione. Impostare un budget di spesa per Azure ti consente di confrontare la spesa per Azure dei tuoi clienti durante il mese rispetto al budget. Con questa funzionalità, puoi: 

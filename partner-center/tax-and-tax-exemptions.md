@@ -3,15 +3,17 @@ title: Imposte ed esenzioni fiscali | Centro per i partner
 description: "Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da parte dei partner, Microsoft non è sempre tenuta all&quot;imposizione dell&quot;IVA nelle fatture per i partner."
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 91a25481aa3074166a2010ef3e309767183829f0
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: it-IT
 ---
 # <a name="tax-and-tax-exemptions"></a>Imposte ed esenzioni fiscali
 
 **Si applica a**
 
 -  Centro per i partner
+-  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
 Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da parte dei partner, Microsoft non è sempre tenuta all'imposizione dell'IVA nelle fatture per i partner. Le regole variano in base a paese e/o area geografica. I partner sono invitati a rivolgersi al proprio consulente fiscale per registrare le esenzioni fiscali appropriate in base alla loro sede e a quella dei rispettivi clienti. Per contrassegnare il proprio account rivenditore Microsoft come esente da imposte, il partner deve inviare i certificati di esenzione a Microsoft.

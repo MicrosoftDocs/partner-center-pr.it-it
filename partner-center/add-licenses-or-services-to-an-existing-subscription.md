@@ -3,9 +3,11 @@ title: Aggiungere licenze o servizi a una sottoscrizione esistente | Centro
 description: "Se il cliente necessita di più postazioni rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione."
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f33841361b10a4fb2358aafc13342689ec0780ef
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 06/09/2017
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Aggiungere licenze o servizi a una sottoscrizione esistente
 
@@ -76,7 +78,7 @@ Le sottoscrizioni possono essere aggiornate se sono soddisfatte queste condizion
 
 -   Il cliente non può avere già le sottoscrizioni a cui stai cercando di eseguire l'aggiornamento.
 
-È possibile, negli ultimi due casi, che il cliente abbia acquistato le sottoscrizioni o i servizi da un altro partner o un altro canale e non potrà acquistarli da te, a meno che prima non annulli quelli esistenti. Per altre informazioni, vedi [Multicanale](multichannel.md).
+È possibile, negli ultimi due casi, che il cliente abbia acquistato le sottoscrizioni o i servizi da un altro partner o un altro canale e non potrà acquistarli da te, a meno che prima non annulli quelli esistenti. Per altre informazioni, vedi [multicanale](multichannel.md).
 
 Per altre informazioni sull'impatto di queste operazioni sulla fatturazione, vedi i dettagli relativi all'annullamento di una sottoscrizione e all'aggiunta di una nuova sottoscrizione in [Scenari di fatturazione comuni](common-billing-scenarios.md).
 

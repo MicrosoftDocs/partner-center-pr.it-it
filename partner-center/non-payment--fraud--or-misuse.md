@@ -3,15 +3,17 @@ title: Insoluti, frodi o uso improprio | Centro per i partner
 description: Sei responsabile dal punto di vista finanziario di acquisti fraudolenti effettuati dai tuoi clienti e/o del mancato pagamento dei servizi acquistati. Ti consigliamo pertanto di implementare controlli per la mitigazione dei rischi tramite il rilevamento e la prevenzione delle frodi.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 author: MaggiePucciEvans
-ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d4b4703901b157324a3a1b9205f9bc2570dd9cb8
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: it-IT
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Insoluti, frodi o uso improprio
 
 **Si applica a**
 
 -  Centro per i partner
+-  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
 Sei responsabile dal punto di vista finanziario di acquisti fraudolenti effettuati dai tuoi clienti e/o del mancato pagamento dei servizi acquistati. Ti consigliamo pertanto di implementare controlli per la mitigazione dei rischi tramite il rilevamento e la prevenzione delle frodi. Sei responsabile di decidere se estendere il credito a un cliente.

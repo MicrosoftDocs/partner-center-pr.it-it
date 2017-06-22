@@ -3,20 +3,22 @@ title: Fatturazione | Centro per i partner
 Description: Come partner CSP (Cloud Solution Provider), pagherai Microsoft per le sottoscrizioni in base alla licenza e in base all&quot;uso dei tuoi clienti in via posticipata, dopo 60 giorni.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 85a187589eebf1724f98f16f15ae58e5ea105baf
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: it-IT
 ---
 # <a name="billing"></a>Fatturazione
 
 **Si applica a**
 
 -  Centro per i partner
+-  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
 Come partner CSP (Cloud Solution Provider), pagherai Microsoft per le sottoscrizioni in base alla licenza e in base all'uso dei tuoi clienti in via posticipata, dopo 60 giorni.
 
-Per la fattura, vai al menu **Dashboard** e quindi seleziona **Fatturazione**. Questa pagina mostra la cronologia e la tendenza della fatturazione, il saldo esigibile del mese corrente, link ai file di fatturazione e di riconciliazione e informazioni sull'ultimo pagamento.
+Per la fattura, vai al menu **Dashboard** e quindi seleziona **Fatturazione**. La pagina della fatturazione mostra la cronologia e la tendenza della fatturazione, il saldo esigibile del mese corrente (o dell'anno se la fatturazione è annuale), i collegamenti ai file di fatturazione e di riconciliazione e le informazioni sull'ultimo pagamento.
 
 -   Non ci sono requisiti o condizioni sulla modalità di gestione della fatturazione.
 -   Per determinare l'utilizzo da parte dei clienti, usa l'ID o il nome del cliente e altri campi pertinenti dei file di riconciliazione.
@@ -76,7 +78,7 @@ Per la fattura, vai al menu **Dashboard** e quindi seleziona **Fatturazione**. Q
 <tr class="odd">
 <td>Regole per la fatturazione</td>
 <td><ul>
-<li>Riceverai una fattura al mese per il programma CSP.</li>
+<li>Riceverai una fattura ogni mese (o all'anno se la fatturazione è annuale) per il programma CSP.</li>
 <li>La fatturazione delle sottoscrizioni in base alle licenze avviene in base alle licenze acquistate e non alle licenze usate.</li>
 <li>Le sottoscrizioni di Azure (in base all'uso) vengono fatturate in base a tariffe a consumo.</li>
 <li>Il prezzo è garantito per l'intera durata della sottoscrizione. I prezzi possono subire variazioni al momento del rinnovo della sottoscrizione.</li>
@@ -92,7 +94,7 @@ Per la fattura, vai al menu **Dashboard** e quindi seleziona **Fatturazione**. Q
 <td>Rettifiche/crediti/annullamenti</td>
 <td><ul>
 <li>Non sono autorizzati crediti per gli account di test e il testing di integrazione. Per evitare addebiti per la sottoscrizione o per la risoluzione anticipata durante l'esecuzione del testing, puoi annullare la sottoscrizione durante il "periodo gratuito". Tutti gli addebiti per l'uso a consumo di servizi di Azure sono tua responsabilità.</li>
-<li>Vedrai rettifiche e crediti posticipatamente nella fattura mensile successiva, dopo l'applicazione del credito o della rettifica.</li>
+<li>Vedrai rettifiche e crediti posticipatamente nella fattura mensile (o annuale) successiva, dopo l'applicazione del credito o della rettifica.</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -103,6 +105,18 @@ Per la fattura, vai al menu **Dashboard** e quindi seleziona **Fatturazione**. Q
 <li>Per richiedere l'<strong>esenzione dalla ritenuta alla fonte e dall'imposta di vendita</strong>, è necessario inoltrare la documentazione fiscale appropriata tramite una richiesta di servizio. Le modifiche e i rimborsi appropriati saranno visibili nel ciclo di fatturazione successivo.</li>
 <li>Per l'<strong>esenzione IVA (imposta sul valore aggiunto)</strong>, devi inviare il numero di partita IVA (convalidato da Microsoft) tramite una richiesta di servizio. Le modifiche e i rimborsi appropriati saranno visibili nel ciclo di fatturazione successivo.</li>
 <li>Per ulteriori dettagli sugli obblighi fiscali, rivolgiti all'ufficio imposte locale o al tuo consulente fiscale di fiducia.</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Frequenza</td>
+<td>
+La fatturazione in base alle licenze può essere mensile o annuale. Per selezionare un tipo di fatturazione, segui questa procedura:
+<ol>
+<li>Seleziona il cliente.</li>
+<li>Fai clic su Aggiungi sottoscrizione.</li>
+<li>In Frequenza fatturazione seleziona Mensile o Annuale. Nota: una volta effettuata questa selezione non puoi modificarla.</li>
+<li>Seleziona la sottoscrizione dal catalogo.</li>
+</ol>
 </ul></td>
 </tr>
 </tbody>
@@ -132,7 +146,7 @@ Per la fattura, vai al menu **Dashboard** e quindi seleziona **Fatturazione**. Q
 <td>Regole per la fatturazione</td>
 <td><ul>
 <li>Le sottoscrizioni sono annuali e rinnovate automaticamente.</li>
-<li>La fatturazione avviene in 12 rate mensili per ogni sottoscrizione annuale.</li>
+<li>La fatturazione avviene in 12 rate mensili o con un pagamento annuo per ogni sottoscrizione annuale.</li>
 <li>La fatturazione avviene in anticipo per il periodo di fatturazione successivo per i servizi in base alle licenze, in base al numero di licenze alla fine del periodo di fatturazione precedente.</li>
 <li>Eventuali modifiche del numero di licenze verranno addebitate/accreditate posticipatamente (con un calcolo proporzionale basato su licenza/giorni). Per il calcolo proporzionale viene usata la formula seguente: [ARROTONDA((ARROTONDA(Prezzo unitario * Quantità / Numero di giorni nel mese della ripartizione, 2) * Numero di giorni per la ripartizione) / Quantità, 2) * Quantità]</li>
 <li>Gli addebiti sono riferiti alle postazioni vendute e non alle postazioni sottoposte a provisioning.</li>
@@ -143,6 +157,18 @@ Per la fattura, vai al menu **Dashboard** e quindi seleziona **Fatturazione**. Q
 <td><ul>
 <li>Non sono attualmente previsti costi di risoluzione anticipata per l'annullamento dei servizi in base alle licenze.</li>
 <li>I crediti per l'annullamento dei servizi in base alle licenze vengono calcolati in modo proporzionale per i giorni inutilizzati nel caso di annullamenti precedenti alla data di scadenza (così come le riduzioni di licenze in base alla formula precedente).</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Frequenza</td>
+<td>
+La fatturazione in base alle licenze può essere mensile o annuale. Per selezionare un tipo di fatturazione, segui questa procedura:
+<ol>
+<li>Seleziona il cliente.</li>
+<li>Fai clic su Aggiungi sottoscrizione.</li>
+<li>In Frequenza fatturazione seleziona Mensile o Annuale. Nota: una volta effettuata questa selezione non puoi modificarla.</li>
+<li>Seleziona la sottoscrizione dal catalogo.</li>
+</ol>
 </ul></td>
 </tr>
 </tbody>

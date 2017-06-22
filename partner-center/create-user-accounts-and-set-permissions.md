@@ -3,40 +3,51 @@ title: Creare account utente e impostare le autorizzazioni | Centro partner
 description: L&quot;amministratore crea un account utente per ogni dipendente del partner che deve accedere al Centro per i partner.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: a755c9375c7bd5e61345d7d7e1ab27e00af3fe4d
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 920f4590f94fbcc382286b206b532fcb204166be
+ms.sourcegitcommit: b8146a4a959ef26efc09ead1788ff5e264ae121e
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 05/25/2017
 ---
-# <a name="create-user-accounts-and-set-permissions"></a>Creare account utente e impostare le autorizzazioni
+# <a name="create-user-accounts-and-assign-permissions"></a>Creare account utente e assegnare le autorizzazioni
 
 **Si applica a**
 
 -  Centro per i partner
 
-L'amministratore crea un account utente per ogni dipendente del partner che deve accedere al Centro per i partner. Queste attività devono essere eseguite da un amministratore con le autorizzazioni **Amministratore globale** o **Amministratore gestione utenti**. In **Impostazioni account** &gt; **Gestione utenti** puoi aggiungere account e impostare o aggiornare le autorizzazioni.
+Creare gli account utente per i dipendenti che richiedono l'accesso al Centro per i partner. Queste attività devono essere eseguite da un amministratore con autorizzazioni di amministratore per la gestione degli utenti. 
 
-**Aggiungere un nuovo utente**
+## <a name="add-a-new-user"></a>Aggiungere un nuovo utente
 
-1.  Nel Centro per i partner vai al menu Dashboard &gt; **Impostazioni account** &gt; **Gestione utenti**.
-2.  Scegli **Aggiungi utente**.
+1. Dal menu **Dashboard** seleziona **Impostazioni account > Gestione degli utenti**.
 
-3.  Digita il nome completo dell'utente e crea un indirizzo e-mail univoco.
+2.  Seleziona **Aggiungi utente**.
 
-4.  Seleziona il tipo di agente e il tipo di amministratore. L'accesso al Centro per i partner è basato sui ruoli, pertanto le selezioni effettuate in questo passaggio consentono di personalizzare la visualizzazione dell'utente affinché visualizzi solo le funzionalità necessarie. Per altre informazioni sulle operazioni possibili con ciascun ruolo, vedi [Impostare le autorizzazioni utente](#setuserpermissions).
+3.  Immetti il nome completo e l'indirizzo di posta elettronica univoco dell'utente.
 
-5.  Aggiungi l'utente. Verrà visualizzata una schermata di conferma con una password temporanea per il nuovo account di accesso. Copialo e invialo al nuovo utente perché non sarà più accessibile quando lascerai la schermata. In fase di accesso, all'utente verrà richiesto di aggiornare la password.
+4.  Seleziona il tipo di agente e il tipo di amministratore. L'accesso al Centro per i partner è basato sui ruoli, pertanto puoi assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche. Per altre informazioni sulle operazioni possibili con ciascun ruolo, vedi [Assegnare le autorizzazioni utente](#assignuserpermissions).
 
-### <a href="" id="setuserpermissions"></a>Impostare le autorizzazioni utente
+5.  Seleziona **Aggiungi** per creare l'account utente. Verifica i dettagli dell'utente nella pagina successiva.
 
-L'accesso al Centro per i partner è basato su ruoli. Ciò significa che puoi personalizzare la visualizzazione utente in modo che includa solo le funzionalità che serviranno all'utente per il proprio lavoro. Per ogni utente devi selezionare sue impostazioni:
+>**Importante**<br>
+Prendi nota delle informazioni di accesso del nuovo utente visualizzate in questa pagina. Copiale e inviale al nuovo utente perché dopo non potrai più accedervi. <br>
 
--   L'impostazione **agente** controlla il tipo di dati del cliente e le informazioni Microsoft che l'utente può visualizzare.
+>L'utente dovrà accedere al Centro per i partner con il nome utente e la password temporanea. Quando l'utente accede al Centro per i partner per la prima volta, gli viene chiesto di modificare la password.    
 
--   L'impostazione **amministratore** determina il livello di controllo che l'utente avrà sull'ambiente del Centro per i partner e su tutti gli altri servizi Microsoft (account, profili e ticket di supporto). Questa impostazione ha un impatto al di fuori del Centro per i partner, in quanto un amministratore della fatturazione può accedere a tutte le fatture per tutti i servizi Microsoft (anche quelle che non riguardano CSP) e un amministratore globale può accedere agli account utente e dei clienti, anche a quelli per servizi diversi da CSP.
 
-    L'impostazione predefinita deve sempre essere **Non amministratore**, a meno che il ruolo dell'utente non richieda accesso aggiuntivo per completare attività e supportare i clienti.
+### <a href="" id="assignuserpermissions"></a>Assegnare le autorizzazioni utente
 
-La tabella seguente illustra tutte le attività che ogni ruolo può eseguire nel Centro per i partner.
+L'accesso al Centro per i partner è basato sui ruoli, pertanto puoi assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche. 
+
+Per ogni utente devi selezionare due livelli di autorizzazione:
+
+-   Le autorizzazioni dell'agente controllano il tipo di dati dei clienti e le informazioni sull'account che l'utente può visualizzare e modificare.
+
+-   Le autorizzazioni di amministratore controllano il livello di accesso che l'utente ha alle funzionalità del Centro per i partner. Questa impostazione ha un impatto al di fuori del Centro per i partner, in quanto un amministratore della fatturazione può accedere alle fatture per tutti i servizi Microsoft (anche quelle che non riguardano CSP) e un amministratore globale può accedere agli account utente e dei clienti, anche a quelli per servizi diversi da CSP.
+
+>**Importante** L'impostazione predefinita deve sempre essere **Non amministratore**, a meno che il ruolo dell'utente non richieda un accesso aggiuntivo per completare attività e supportare i clienti.
+
+La tabella seguente illustra le operazioni che ogni ruolo può eseguire nel Centro per i partner.
 
 <table>
 <colgroup>
@@ -55,11 +66,11 @@ La tabella seguente illustra tutte le attività che ogni ruolo può eseguire nel
 <td><ul>
 <li><p>Gestione dei clienti</p></li>
 <li><p>Gestione degli abbonamenti</p></li>
-<li><p>Integrità del servizio e richieste di servizio per i clienti</p></li>
-<li><p>Richiesta di privilegi di amministrazione delegati</p></li>
-<li><p>Visualizzazione di prezzi e offerte</p></li>
+<li><p>Assistenza alle richieste di integrità e di servizio per i clienti</p></li>
+<li><p>Richiesta dei privilegi di amministrazione delegati</p></li>
+<li><p>Visualizzazione dei prezzi e delle offerte</p></li>
 <li><p>Fatturazione</p></li>
-<li><p>Amministrazione per conto di un utente</p></li>
+<li><p>Amministrazione per conto di un cliente</p></li>
 <li><p>Registrazione di un rivenditore a valore aggiunto</p></li>
 </ul></td>
 <td><ul>
@@ -73,18 +84,18 @@ La tabella seguente illustra tutte le attività che ogni ruolo può eseguire nel
 <li><p>Gestione dei clienti</p></li>
 <li><p>Gestione degli abbonamenti</p></li>
 <li><p>Visualizzazione dei ticket di supporto</p></li>
-<li><p>Richiesta di una relazione</p></li>
+<li><p>Richiesta di una relazione con un cliente</p></li>
 <li><p>Gestione dei lead dei clienti</p></li>
 <li><p>Visualizzazione del contratto per il cliente</p></li>
 <li><p>Registrazione di un rivenditore a valore aggiunto</p></li>
 </ul></td>
 <td><ul>
-<li><p>Creazione di ticket di supporto per i servizi o il Centro per i partner</p></li>
+<li><p>Creazione di richieste di assistenza per problemi con il Centro per i partner</p></li>
 <li><p>Risoluzione dei ticket di supporto</p></li>
 <li><p>Visualizzazione dell'integrità del servizio</p></li>
 <li><p>Visualizzazione di prezzi e offerte</p></li>
 <li><p>Fatturazione</p></li>
-<li><p>Amministrazione per conto di un utente</p></li>
+<li><p>Amministrazione per conto di un cliente</p></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -92,16 +103,16 @@ La tabella seguente illustra tutte le attività che ogni ruolo può eseguire nel
 <td><ul>
 <li><p>Ricerca e visualizzazione di un cliente</p></li>
 <li><p>Modifica dei dettagli dei clienti</p></li>
-<li><p>Servizio integrità</p></li>
-<li><p>Creazione di ticket di supporto per i clienti</p></li>
-<li><p>Gestione dei servizi per conto dei clienti</p></li>
+<li><p>Integrità servizio</p></li>
+<li><p>Richiesta di supporto per conto dei clienti (Nota: è necessario essere un agente amministratore per completare questa attività per gli abbonamenti a Office 365)</p></li>
+<li><p>Gestione delle sottoscrizioni e dei servizi per conto dei clienti (Nota: è necessario essere un agente amministratore per completare questa attività per gli abbonamenti di Office 365)</p></li>
 </ul></td>
 <td><ul>
 <li><p>Visualizzazione dei profili dei partner</p></li>
-<li><p>Creazione di un nuovo elenco clienti</p></li>
+<li><p>Creazione di un nuovo account cliente</p></li>
 <li><p>Modifica delle info di fatturazione dei clienti</p></li>
-<li><p>Gestione degli abbonamenti</p></li>
-<li><p>Richiesta di una relazione</p></li>
+<li><p>Gestione delle sottoscrizioni</p></li>
+<li><p>Richiesta di una relazione con un cliente</p></li>
 <li><p>Gestione dei lead dei clienti</p></li>
 <li><p>Visualizzazione di prezzi e offerte</p></li>
 <li><p>Visualizzazione del contratto per il cliente</p></li>

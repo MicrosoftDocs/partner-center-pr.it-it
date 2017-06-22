@@ -3,15 +3,18 @@ title: Segnalare i problemi relativi al Centro per i partner | Centro per i part
 description: Come segnalare i problemi relativi al Centro per i partner e raccogliere informazioni di diagnostica per il nostro team di supporto.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
-ms.openlocfilehash: 33e8c3191f433b7b414cb682e93cc10ce57c2447
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d7f6bc00f7936560acbe92386e1cb587107f584d
+ms.sourcegitcommit: 9701da2050a391b6ac2f6301691127e9665c9635
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 05/26/2017
 ---
 # <a name="report-problems-with-partner-center"></a>Segnalare i problemi relativi al Centro per i partner
 
 **Si applica a**
 
 -  Centro per i partner
+-  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
 Contatta Supporto per il Centro per i partner se rilevi problemi con il Centro per i partner, tra cui bug o interruzioni del servizio.
@@ -28,7 +31,8 @@ Contatta Supporto per il Centro per i partner se rilevi problemi con il Centro p
 
 Se si verifica un errore mentre ti trovi in una pagina del Centro per i partner, ti potrebbe essere richiesto di raccogliere informazioni di registro. Seleziona **Raccogli altre informazioni** dal collegamento nell'elenco a discesa della pagina per aprire lo strumento di diagnostica client di Centro per i partner. Questo strumento raccoglie le informazioni necessarie al team di supporto del Centro per i partner per determinare la causa dell'errore. 
 
->**Nota**<br>
+**Nota**
+
 Nelle pagine di Centro per i partner che includono **/pcv/** nell'URL, è possibile aprire manualmente lo strumento per raccogliere queste informazioni.
 
 1.    Vai alla pagina con il problema.
@@ -39,7 +43,7 @@ Puoi visualizzare in anteprima le informazioni di diagnostica e salvarle in un f
 
 1.    Esaminare le informazioni nel file prima di inviarlo perché può contenere informazioni personali che puoi decidere di rimuovere. 
 
-    >**Nota**<br />
+    >**Nota**<br>
     In alcuni browser, la sezione **di visualizzazione della pagina** nella parte inferiore della pagina di **anteprima** può sembrare vuota. Non si tratta di un errore.
 
 2.    Per salvare il file, segui le istruzioni visualizzate sullo schermo.

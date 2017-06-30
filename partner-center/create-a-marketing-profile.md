@@ -3,11 +3,11 @@ title: Creare un profilo di marketing | Centro per i partner
 description: Conquistare altri clienti potenziali creando un profilo di marketing nel Centro per i partner.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 04e436d61636b0f47683f3ac9644484bb8bfe3d7
-ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
+ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2017
+ms.lasthandoff: 06/12/2017
 ---
 # <a name="create-a-marketing-profile"></a>Creare un profilo di marketing
 
@@ -22,7 +22,7 @@ Microsoft attira milioni di clienti ogni anno attraverso attività di marketing,
 Il primo passaggio per raggiungere questi lead consiste nel creare un profilo di marketing. Microsoft mostrerà il tuo profilo ai clienti che cercano partner in grado di aiutarli a implementare le soluzioni e i prodotti Microsoft tramite:
 
 *  **L'esperienza della ricerca [Trova un partner](https://partnercenter.microsoft.com/pcv/search)**. I clienti potenziali possono eseguire personalmente una ricerca negli elenchi di partner per individuare i partner che soddisfano i criteri di ricerca. 
-*  **Segnalazioni da dipendenti di servizi e vendite Microsoft**. I clienti potenziali interessati all'implementazione di soluzioni tecnologiche basate sul cloud contattano Microsoft per informazioni sui professionisti in grado di aiutarli a soddisfare le esigenze aziendali. Questi professionisti Microsoft possono quindi rimandare i clienti potenziali alla tua azienda.
+*  **Segnalazioni da dipendenti di servizi e vendite Microsoft**. I clienti potenziali interessati alla distribuzione di soluzioni tecnologiche basate sul cloud contattano Microsoft per informazioni sui professionisti in grado di aiutarli a soddisfare le esigenze aziendali. Questi professionisti Microsoft possono quindi rimandare i clienti potenziali alla tua azienda.
 
 ## <a name="create-a-profile"></a>Creare un profilo
 
@@ -30,7 +30,7 @@ Crea un profilo per ogni paese in cui sei autorizzato a svolgere la tua attivit�
 
 1.  Nel [Centro per i partner](http://go.microsoft.com/fwlink/p/?LinkId=808956), dal menu **Dashboard** seleziona **Segnalazioni** &gt; **Profili di marketing** &gt; **[Aggiungere un profilo di marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-2.    Nella pagina **Crea un profilo di marketing** seleziona un'area geografica, quindi immetti le informazioni del profilo, compilando anche le sezioni delle informazioni e delle competenze di partner.
+2.  Nella pagina **Crea un profilo di marketing** seleziona un'area geografica, quindi immetti le informazioni del profilo, compilando anche le sezioni delle informazioni e delle competenze di partner.
 
     In seguito, dopo aver completato il primo profilo, potrai crearne altri basati su questo selezionando **Copia da un profilo esistente**.
 
@@ -83,11 +83,9 @@ Ti consigliamo di lasciare selezionata questa impostazione. Se tuttavia esistono
 
 #### <a href="" id="#target_size"></a>Dimensioni target
 
-Per aiutarti a perfezionare i tipi di segnalazioni che ricevi, puoi aggiungere una preferenza per lavorare solo con le aziende di determinate dimensioni. Aggiungendo queste preferenze, rifiuterai in modo esplicito segnalazioni da aziende di altre dimensioni.
+È possibile rifiutare esplicitamente le segnalazioni da parte di aziende che non soddisfano le dimensioni target dei clienti .
 
-I risultati della ricerca dei clienti si basano tra le altre cose sulla velocità di risposta della tua azienda. Per aiutarti a migliorare la visibilità nelle ricerche future, rispondi rapidamente alle richieste che ti arrivano dai clienti.
-
-Il rifiuto esplicito di segnalazioni da aziende che non soddisfano le dimensioni target dei clienti ti aiuterà a essere più reattivo nel complesso.
+In tal caso, avrai a disposizione più tempo da dedicare per le aziende che rappresentano una corrispondenza per le aziende con cui si preferisce lavorare.
 
 ### <a href="" id="#locations"></a> Posizioni
 

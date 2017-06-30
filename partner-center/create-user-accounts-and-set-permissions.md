@@ -1,13 +1,13 @@
 ---
 title: Creare account utente e impostare le autorizzazioni | Centro partner
-description: L&quot;amministratore crea un account utente per ogni dipendente del partner che deve accedere al Centro per i partner.
+description: L'amministratore crea un account utente per ogni dipendente del partner che deve accedere al Centro per i partner.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 920f4590f94fbcc382286b206b532fcb204166be
-ms.sourcegitcommit: b8146a4a959ef26efc09ead1788ff5e264ae121e
+ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
+ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/25/2017
+ms.lasthandoff: 06/19/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Creare account utente e assegnare le autorizzazioni
 
@@ -65,7 +65,9 @@ La tabella seguente illustra le operazioni che ogni ruolo può eseguire nel Cent
 <td><p><strong>Agente amministratore</strong></p></td>
 <td><ul>
 <li><p>Gestione dei clienti</p></li>
-<li><p>Gestione degli abbonamenti</p></li>
+<li><p>Aggiunta dell'elenco dei dispositivi al Centro per i partner</p></li>
+<p><li>Creazione e applicazione di profili ai dispositivi</p></li>
+<li><p>Gestione delle sottoscrizioni</p></li>
 <li><p>Assistenza alle richieste di integrità e di servizio per i clienti</p></li>
 <li><p>Richiesta dei privilegi di amministrazione delegati</p></li>
 <li><p>Visualizzazione dei prezzi e delle offerte</p></li>
@@ -82,7 +84,8 @@ La tabella seguente illustra le operazioni che ogni ruolo può eseguire nel Cent
 <td><p><strong>Agente di vendita</strong></p></td>
 <td><ul>
 <li><p>Gestione dei clienti</p></li>
-<li><p>Gestione degli abbonamenti</p></li>
+<li><p>Aggiunta dell'elenco dei dispositivi al Centro per i partner</p></li>
+<li><p>Gestione delle sottoscrizioni</p></li>
 <li><p>Visualizzazione dei ticket di supporto</p></li>
 <li><p>Richiesta di una relazione con un cliente</p></li>
 <li><p>Gestione dei lead dei clienti</p></li>

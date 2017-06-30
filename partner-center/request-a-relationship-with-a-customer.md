@@ -3,11 +3,11 @@ title: Richiedere una relazione con un cliente| Centro per i partner
 description: "La richiesta di una relazione viene usata per gli scenari multipartner e multicanale. È anche utile se un cliente rimuove i tuoi privilegi di amministratore delegato e devi ripristinarli per effettuare il provisioning o fornire supporto."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 4497163d59cce019936ce054eb3e3911ea44ce96
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 06/14/2017
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Entrare in contatto con i clienti nel Centro per i partner
 
@@ -40,13 +40,6 @@ Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ulti
 >**Importante**<br>
 I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questo caso, se il cliente ha bisogno di aiuto, potrai contattare il supporto Microsoft per aprire una richiesta di assistenza per conto del cliente.
 
+## <a name="related-topics"></a>Argomenti correlati
 
-
-
-
- 
-
- 
-
-
-
+[Rimuovere una relazione](remove-a-relationship.md)

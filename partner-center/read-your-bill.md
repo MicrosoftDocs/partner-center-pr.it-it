@@ -3,10 +3,11 @@ title: Leggere la fattura | Centro per i partner
 description: "La fattura è un riepilogo di tutti gli addebiti (per il programma, i prodotti e i clienti) per il periodo mensile corrente. È disponibile nel dashboard del Centro per i partner."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: d51bb3d8cf637e50e47c211c00d90b14e55a1c6d
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 65c3777c0bd35933f2622fc0de105c051001974e
+ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
 ms.translationtype: HT
 ms.contentlocale: it-IT
+ms.lasthandoff: 07/01/2017
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
@@ -83,7 +84,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 </tr>
 <tr class="odd">
 <td>Periodo di fatturazione</td>
-<td>I partner CSP ricevono una fattura mensile.</td>
+<td>I partner CSP ricevono una fattura mensile o annuale.</td>
 </tr>
 <tr class="even">
 <td>Data fattura</td>

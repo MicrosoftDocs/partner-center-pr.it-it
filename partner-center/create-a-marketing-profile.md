@@ -3,12 +3,21 @@ title: Creare un profilo di marketing | Centro per i partner
 description: Conquistare altri clienti potenziali creando un profilo di marketing nel Centro per i partner.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
-ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
+ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
+ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/12/2017
+ms.lasthandoff: 07/01/2017
 ---
+<!--
+FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
+FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
+FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
+FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
+FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
+ -->
+
+
 # <a name="create-a-marketing-profile"></a>Creare un profilo di marketing
 
 **Si applica a**
@@ -24,15 +33,19 @@ Il primo passaggio per raggiungere questi lead consiste nel creare un profilo di
 *  **L'esperienza della ricerca [Trova un partner](https://partnercenter.microsoft.com/pcv/search)**. I clienti potenziali possono eseguire personalmente una ricerca negli elenchi di partner per individuare i partner che soddisfano i criteri di ricerca. 
 *  **Segnalazioni da dipendenti di servizi e vendite Microsoft**. I clienti potenziali interessati alla distribuzione di soluzioni tecnologiche basate sul cloud contattano Microsoft per informazioni sui professionisti in grado di aiutarli a soddisfare le esigenze aziendali. Questi professionisti Microsoft possono quindi rimandare i clienti potenziali alla tua azienda.
 
-## <a name="create-a-profile"></a>Creare un profilo
+**Gli utenti di Pinpoint, C2PC e di connessione delle vendite**: stiamo unendo questi strumenti nel Centro per i partner. Se hai usato questi strumenti in passato, crea un nuovo profilo di marketing nel Centro per i partner per continuare a generare e gestire i lead di vendita. Nota: attualmente non supportiamo l'importazione di profili dai siti precedenti. 
 
-Crea un profilo per ogni paese in cui sei autorizzato a svolgere la tua attività.
+## <a name="create-a-profile"></a>Crea un profilo
 
-1.  Nel [Centro per i partner](http://go.microsoft.com/fwlink/p/?LinkId=808956), dal menu **Dashboard** seleziona **Segnalazioni** &gt; **Profili di marketing** &gt; **[Aggiungere un profilo di marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
+Crea profili per ogni area geografica in cui sei autorizzato a svolgere la tua attività. 
 
-2.  Nella pagina **Crea un profilo di marketing** seleziona un'area geografica, quindi immetti le informazioni del profilo, compilando anche le sezioni delle informazioni e delle competenze di partner.
+1.  Accedi a [Centro per i partner](http://go.microsoft.com/fwlink/p/?LinkId=808956) utilizzando un [account di amministratore globale o agente amministratore](create-user-accounts-and-set-permissions.md).
 
-    In seguito, dopo aver completato il primo profilo, potrai crearne altri basati su questo selezionando **Copia da un profilo esistente**.
+2.  Nel menu **Dashboard** seleziona **Segnalazioni** &gt; **Profili di marketing** &gt; **[Aggiungi un profilo di marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
+
+3.  Nella pagina **Crea un profilo di marketing** seleziona un'area geografica, quindi immetti le informazioni del profilo, compilando anche le sezioni delle informazioni e delle competenze di partner.
+    
+    Nota: mentre il Centro per i partner supporta più lingue, per alcuni elementi, ad esempio la descrizione e i tag in formato libero potrebbe essere necessario includere il testo da lingue diverse, come indicato in questo argomento.
 
 ### <a href="" id="partner_info"></a>Informazioni sul partner
 
@@ -49,6 +62,7 @@ La descrizione può contenere fino a 1000 caratteri. Suggerimenti per una descri
 *  **Non preoccuparti di inserire parole chiave di ricerca nella descrizione**. Gli strumenti di ricerca che utilizzano i clienti cercano le parole chiave generate nella sezione Esperienza partner, non nella descrizione.
 *  **Aggiorna sempre il tuo profilo**. Ad ogni versione di software o servizio che esce, aggiorna il tuo profilo, mantienilo sincronizzato con il sito Web della tua azienda.
 *  **Non fare riferimento a un'altra azienda partner di Microsoft usando il nome**, a meno che non sia una filiale o affiliata della tua azienda oppure che non esista un accordo in vigore con tale azienda partner per agire in collaborazione e/o promuovere le attività reciproche nell'ottica di sfruttare opportunità commerciali condivise.
+*  **Per le aree geografiche con più lingue**, prendi in considerazione l'inclusione del testo da più lingue nella descrizione.
 
 #### <a href="" id="linkedin"></a> Pagina aziendale su LinkedIn: altri modi per connettersi
 
@@ -70,7 +84,7 @@ Inizia aggiungendo tag personalizzati nella sezione Esperienza partner. Puoi agg
 *  **Soluzioni, competenze e capacità**. Questi tag sono in formato libero e permettono di aggiungere parole chiave di ricerca specifiche delle tue capacità.
 
 Altri tag utilizzati nella ricerca:
-*  I **[Tag di competenza](https://partner.microsoft.com/membership/competencies)** sono una designazione acquisita che mostra le capacità della tua azienda.
+*  I**tag di competenza** sono una designazione acquisita che mostra le capacità della tua azienda.
 *  I **Tag di approvazione** vengono acquisiti quando Microsoft o i clienti che hanno lavorato con te approvano il tuo lavoro.
 
 #### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Allow Microsoft to endorse my areas of expertise
@@ -93,11 +107,17 @@ Puoi aggiungere fino a 5 posizioni per ogni area geografica. Queste posizioni ve
 
 Indica posizioni che siano ubicazioni ufficiali dell'azienda e che possano essere confermate. Seleziona posizioni centrali nei mercati che servi e che rappresentano al meglio la capacità della tua azienda di soddisfare le esigenze dei clienti.
 
+Ogni posizione che aggiungi diventa una pagina del profilo separata. Durante l'aggiornamento delle pagine del profilo, assicurati che vengano aggiornate per ogni localizzazione.
+
+## <a name="review-your-profile"></a>Controlla il tuo profilo
+
+Dopo la pubblicazione del profilo, gli aggiornamenti vengono visualizzati nelle ricerche di [Trova un partner](https://partnercenter.microsoft.com/pcv/search) entro 24 ore. 
+
 ## <a name="improve-the-visibility-of-your-profile"></a>Migliora la visibilità del tuo profilo 
 
 *  **[Rispondi rapidamente alle richieste](responding-to-referrals.md)**. Quando ricevi una segnalazione di cliente, una risposta più veloce può produrre risultati migliori nelle pagine di ricerca per i clienti futuri.
 *  **Seleziona i tag**.  È preferibile avere un numero minore tag che rappresentano al meglio offerte, soluzioni, proposte di valore e posizione univoca dell'azienda con cui dimostrare in modo coerente il successo della tua azienda.  Questa scelta darà i suoi frutti nei risultati delle future ricerche.
-*  **Acquisisci i [tag di competenza](https://partner.microsoft.com/membership/competencies)** tramite Microsoft per illustrare la tua conoscenza dei prodotti Microsoft.
+*  **Acquisisci i tag di competenza** tramite Microsoft per dimostrare la competenza nei prodotti Microsoft.
 *  **Acquisisci i tag di approvazione** dai clienti che apprezzano il tuo lavoro.
 
 ## <a name="related-topics"></a>Argomenti correlati

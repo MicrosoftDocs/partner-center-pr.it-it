@@ -3,11 +3,11 @@ title: Creare account utente e impostare le autorizzazioni | Centro partner
 description: L'amministratore crea un account utente per ogni dipendente del partner che deve accedere al Centro per i partner.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
+ms.openlocfilehash: bc699214c7919c7cff9788144d472063ba60ad10
+ms.sourcegitcommit: 4a1cd51e5986f47badcde9412a7c7b22718500f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 06/26/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Creare account utente e assegnare le autorizzazioni
 
@@ -45,7 +45,10 @@ Per ogni utente devi selezionare due livelli di autorizzazione:
 
 -   Le autorizzazioni di amministratore controllano il livello di accesso che l'utente ha alle funzionalità del Centro per i partner. Questa impostazione ha un impatto al di fuori del Centro per i partner, in quanto un amministratore della fatturazione può accedere alle fatture per tutti i servizi Microsoft (anche quelle che non riguardano CSP) e un amministratore globale può accedere agli account utente e dei clienti, anche a quelli per servizi diversi da CSP.
 
->**Importante** L'impostazione predefinita deve sempre essere **Non amministratore**, a meno che il ruolo dell'utente non richieda un accesso aggiuntivo per completare attività e supportare i clienti.
+##<a name="assign-permissions-for-incentives-users"></a>Assegna le autorizzazioni per gli utenti di incentivi
+Quando configuri gli utenti di incentivi, puoi assegnare loro il ruolo di amministratore di incentivi oppure quello di utente legato a incentivo.  L'amministratore di incentivi può modificare le informazioni bancarie e fiscali, effettuare richieste a Microsoft per il pagamento, oltre a gestire gli utenti di incentivi. Gli utenti di incentivi possono esaminare i programmi, le informazioni bancarie e fiscali, ma non possono modificarli. Offrono spesso i programmi di incentivi effettivi ai clienti. Gli amministratori e utenti di incentivi possono disporre di altri ruoli nel Centro per i partner per l'organizzazione, ma per lavorare sui programmi di incentivi un utente deve essere amministratore o utente di incentivi.
+
+>**Importante**: l'impostazione predefinita deve essere sempre**Non amministratore**, a meno che il ruolo dell'utente non richieda un accesso aggiuntivo per completare attività e supportare i clienti.
 
 La tabella seguente illustra le operazioni che ogni ruolo può eseguire nel Centro per i partner.
 
@@ -148,6 +151,23 @@ La tabella seguente illustra le operazioni che ogni ruolo può eseguire nel Cent
 <td><ul>
 <li><p>Visualizzazione, creazione e gestione di utenti</p></li>
 <li><p>Visualizzazione di tutti i profili dei partner</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>Amministratore di incentivi</strong></p></td>
+<td><ul>
+<li><p>Visualizza e gestisci tutti i programmi di incentivi</p></li>
+<li><p>Modifica i profili bancari e fiscali per i programmi di incentivi</p></li>
+<LI><p>Gestisci gli utenti di incentivi</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Utente di incentivi</strong></p></td>
+<td><ul>
+<li><p>Visualizza i programmi di incentivi</p></li>
+<li><p>Visualizza i profili bancari e fiscali</p></li>
 </ul></td>
 <td></td>
 </tr>

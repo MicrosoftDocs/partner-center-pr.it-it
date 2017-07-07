@@ -37,7 +37,6 @@
 ## [Assegnare licenze agli utenti](assign-licenses-to-users.md)
 ## [Assegnare o revocare licenze a più utenti](bulk-license-provisioning-for-multiple-users.md)
 ## [Sospendere una sottoscrizione](suspend-a-subscription.md)
-## [Rimuovere una relazione con un rivenditore o un cliente](remove-a-relationship.md)
 ## [Aggiungere licenze o servizi a una sottoscrizione esistente](add-licenses-or-services-to-an-existing-subscription.md)
 ## [Migrazione delle sottoscrizioni Dynamics AX a Dynamics 365](manual-subscription-migration.md)
 ## [Migrazione degli abbonamenti Office 365 Enterprise E4 alle nuove versioni di Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)

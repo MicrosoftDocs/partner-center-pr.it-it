@@ -1,13 +1,13 @@
 ---
 title: Autorizzazione regionale per CSP | Centro per i partner
-description: "Con l&quot;autorizzazione regionale, i partner con aziende internazionali possono ora gestire più facilmente i clienti in aree geografiche e paesi diversi."
+description: "Con l'autorizzazione regionale, i partner con aziende internazionali possono ora gestire più facilmente i clienti in aree geografiche e paesi diversi."
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-ms.openlocfilehash: f79c2f0a56f88faf554543fa2bb0a0ab504e0614
-ms.sourcegitcommit: a905afc18ffc20e3469933fa005336f1e9b520f4
+ms.openlocfilehash: 71beef8899e292bec99fc803ad8aa2cd0ac4b4dc
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2017
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="csp-regional-authorization"></a>Autorizzazione regionale per CSP
 
@@ -189,7 +189,7 @@ La posizione geografica determina la valuta di fatturazione, come illustrato nel
 
 | Valuta | Paese |
 | ---- | ---- |
-| USD | Albania, Anguilla, Antigua e Barbuda, Argentina, Armenia, Azerbaigian, Aruba, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolivia, Bonaire, Brasile, Brunei, Burundi, Camerun, Isole Cayman, Cile, Colombia, Comore, Costa Rica, Curaçao, Repubblica dominicana, Ecuador, Egitto, El Salvador, Figi, Guyana francese, Polinesia francese, Georgia, Ghana, Guatemala, Honduras, RAS di Hong Kong  , Indonesia, Iraq, Israele, Giamaica, Kazakistan, Kenya, Kuwait, Kirghizistan, Libano, Macao-R.A.S., Madagascar, Malawi, Malaysia, Mali, Mauritius, Mayotte, Messico, Marocco, Namibia, Nuova Caledonia, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Perù, Filippine, Portorico, Qatar, Riunione, Ruanda, Saint Lucia, Saint-Martin, Saint Vincent e Grenadine, Arabia Saudita, Serbia, Seychelles, Singapore, Sint Maarten, Sudafrica, Sri Lanka, Suriname, Tanzania, Thailandia, Timor-Leste, Togo, Trinidad e Tobago, Tunisia, Turchia, Isole Turks e Caicos, Isole Vergini americane, Ucraina, Emirati Arabi Uniti, Stati Uniti, Uruguay, Venezuela, Vietnam  | 
+| USD | Albania, Anguilla, Antigua e Barbuda, Argentina, Armenia, Aruba, Azerbaigian, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolivia, Bonaire, Brasile, Brunei, Burundi, Camerun, Isole Cayman, Cile, Colombia, Comore, Costa Rica, Curaçao, Repubblica dominicana, Ecuador, Egitto, El Salvador, Guyana francese, Polinesia francese, Georgia, Ghana, Guatemala, Honduras, RAS di Hong Kong , Indonesia, Iraq, Israele, Giamaica, Kazakistan, Kenya, Kuwait, Kirghizistan, Libano, Macao-R.A.S., Madagascar, Malawi, Malaysia, Mali, Mauritius, Mayotte, Messico, Marocco, Namibia, Nuova Caledonia, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Perù, Filippine, Portorico, Qatar, Riunione, Ruanda, Saint Lucia, Saint-Martin, Saint Vincent e Grenadine, Arabia Saudita, Serbia, Seychelles, Singapore, Sint Maarten, Sudafrica, Sri Lanka, Suriname, Tanzania, Thailandia, Timor-Leste, Togo, Trinidad e Tobago, Tunisia, Turchia, Isole Turks e Caicos, Isole Vergini americane, Ucraina, Emirati Arabi Uniti, Stati Uniti, Uruguay, Venezuela, Vietnam  | 
 | TWD | Taiwan |
 | SEK | Svezia |
 | INR | India |
@@ -203,7 +203,7 @@ La posizione geografica determina la valuta di fatturazione, come illustrato nel
 | DKK | Danimarca |
 | CHF | Svizzera |
 | CAD | Canada |
-| AUD | Australia, Marshall, Papua Nuova Guinea, Tonga |
+| AUD | Australia, Figi, Isole Marshall, Papua Nuova Guinea, Tonga |
 
 
  

@@ -2,11 +2,11 @@
 title: Modelli di contratto per i clienti del Centro per i partner | Centro per i partner
 description: Scaricare i modelli di contratto per i clienti specifici del mercato dal Centro per i partner
 author: Maggie Evans
-ms.openlocfilehash: f366505ef884239d5f646a469f4d95b63222b391
-ms.sourcegitcommit: a905afc18ffc20e3469933fa005336f1e9b520f4
+ms.openlocfilehash: 73f98ff6b039cff5bb702afe691ad9556d09fcf0
+ms.sourcegitcommit: 5885eacfcd3374baec768f7b24a8df893aee57a5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2017
+ms.lasthandoff: 06/29/2017
 ---
 # <a name="partner-center-customer-agreement-templates"></a>Modelli di contratto per i clienti del Centro per i partner
 Benvenuto nel repository dei modelli di controllo per i clienti del Centro per i Partner. Qui trovi tutti i contratti per i clienti applicabili, elencati in base all'area geografica e al paese per semplificare la consultazione. Ricorda che è importante fornire al cliente il contratto corretto in base al paese in cui si trova. Per alcuni paesi sono disponibili versioni in più lingue del contratto per andare incontro alle preferenze linguistiche del cliente.
@@ -164,19 +164,22 @@ Benvenuto nel repository dei modelli di controllo per i clienti del Centro per i
 ## <a name="asia-and-pacific"></a>Asia e Pacifico
 - Australia: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
 - Bangladesh: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
-- Brunei: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [Bahasa malese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_MSL_Jul2016_CR_.pdf)  
+- Brunei: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), 
 - Bhutan: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
 - Cambogia: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
 - Figi: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
 - RAS di Hong Kong  : [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [cinese tradizionale](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_CHT_Jul2016_CR_.pdf)     
 - India: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [hindi](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_HIN_Jul2016_CR_.pdf)    
 - Indonesia: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [indonesiano](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_IND_Jul2016_CR_.pdf)  
-- Giappone: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_JPN_ENG_Jul2016_CR_.pdf), [giapponese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_JPN_JPN_Jul2016_CR_.pdf)    
+- Giappone: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_JPN_ENG_Sep2017_CR.pdf), [giapponese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_JPN_JPN_Sep2017_CR_.pdf)    
 - Kazakistan: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [kazaco](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_KAZ_Jul2016_CR_.pdf)  
 - Kirghizistan: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [russo](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_RUS_Jul2016_CR_.pdf)  
 - Laos: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
 - Macao - R.A.S.: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [cinese tradizionale](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_CHT_Jul2016_CR_.pdf)  
-- Malaysia: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [Bahasa malese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_MSL_Jul2016_CR_.pdf) 
+- Malaysia: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [Bahasa malese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_MSL_Jul2016_CR_.pdf)  
+- Maldive: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
+- Isole Marshall: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
+- Myanmar: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
 - Isole Marshall: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
 - Maldive: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
 - Myanmar: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)

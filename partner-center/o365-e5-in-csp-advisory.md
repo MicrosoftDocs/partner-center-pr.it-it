@@ -3,9 +3,11 @@ title: "Disponibilità di Office 365 E5 Single SKU in CSP | Centro partner"
 description: "Office 365 Enterprise E5 Single SKU è disponibile in CSP e include i Servizi di conferenza PSTN."
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
-ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 76ca9b8599862c0b17a1281aa3e420ecb3c26ea2
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Avviso per i partner Office 365: Disponibilità di Office 365 E5 Single SKU in CSP
 
@@ -30,12 +32,12 @@ Rivolgersi ai consulenti fiscali e legali per informazioni sulle responsabilità
 ## <a name="details"></a>Dettagli
 
 
-Negli Stati Uniti e a Portorico, i servizi PST di Skype for Business sono soggetti a requisiti speciali per imposte e normative. I prezzi Microsoft per i servizi PSTN includono le imposte. Esistono implicazioni specifiche a livello di imposte e normative per i partner Office 365 che gestiscono transazioni che includono la nuova offerta unificata di Office 365 E5. Se un partner applica ricarichi al prezzo di un servizio PSTN Microsoft, potrebbe avere la responsabilità di calcolare e versare imposte e tariffe specifiche per i servizi PSTN.
+Negli Stati Uniti, a Portorico e in Canada, i servizi PSTN di Skype for Business sono soggetti a requisiti speciali per imposte e normative. I prezzi Microsoft per i servizi PSTN includono le imposte. Esistono implicazioni specifiche a livello di imposte e normative per i partner Office 365 che gestiscono transazioni che includono la nuova offerta unificata di Office 365 E5. Se un partner applica ricarichi al prezzo di un servizio PSTN Microsoft, potrebbe avere la responsabilità di calcolare e versare imposte e tariffe specifiche per i servizi PSTN.
 
 ## <a name="price-list-and-catalog-availability"></a>Disponibilità di listino prezzi e catalogo
 
 
-Per molti partner CSP sono necessari tempi lunghi per l'integrazione della piattaforma Microsoft Commerce nei loro sistemi di gestione degli ordini tramite le API. Per consentire ai partner di concludere eventuali opportunità di vendita del piano E5 prima che i loro sistemi siano pronti per gestire le transazioni relative a Office 365 Enterprise E5 Single SKU, gli SKU seguenti rimarranno nel listino prezzi CSP fino al 1 luglio 2017:
+Per molti partner CSP sono necessari tempi lunghi per l'integrazione della piattaforma Microsoft Commerce nei loro sistemi di gestione degli ordini tramite le API. Per consentire ai partner di concludere eventuali opportunità di vendita del piano E5 prima che i loro sistemi siano pronti per gestire le transazioni relative a Office 365 Enterprise E5 Single SKU, gli SKU seguenti rimarranno nel listino prezzi CSP fino al 1 luglio 2017: 
 
 -   Office 365 Enterprise E5 senza Servizi di conferenza PSTN
 -   SKU del componente aggiuntivo per i Servizi di conferenza PSTN (nei mercati abilitati per PSTN)
@@ -53,6 +55,7 @@ In seguito al lancio del 5 ottobre, per alcuni SKU saranno indicati lo stesso no
 **ID offerta**
 
 **Prezzo unitario**
+
 
 **ERP**
 

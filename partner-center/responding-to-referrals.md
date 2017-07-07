@@ -3,11 +3,11 @@ title: Rispondere alle segnalazioni | Centro per i partner
 description: Valutare, negoziare e rispondere alle segnalazioni tramite il Centro per i partner.
 author: KPacquer
 keywords: segnalazione, richiesta di informazioni, Trova un partner
-ms.openlocfilehash: ec859a9cac94b3e4b3571ba95e2acc0de9a842b1
-ms.sourcegitcommit: 5216c9d8a5aa1cbe825cefe27d35e3f380fa90b4
+ms.openlocfilehash: 4172cc60825d445aa9b119780d22002c6c2ea189
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2017
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Rispondere alle segnalazioni nel Centro per i partner
 
@@ -23,7 +23,7 @@ Inizia impostando un [profilo di marketing](create-a-marketing-profile.md) per o
 
 *  Attività di marketing Microsoft
 *  Agenti di servizio e di vendita Microsoft interni
-*  Ricerche dei clienti effettuate tramite lo strumento **Trova un partner**.
+*  Ricerche dei clienti effettuate tramite lo strumento **[Trova un partner](https://partnercenter.microsoft.com/pcv/search)**.
 
 Quando un cliente è interessato a contattarti, invierà una richiesta di informazioni. 
 

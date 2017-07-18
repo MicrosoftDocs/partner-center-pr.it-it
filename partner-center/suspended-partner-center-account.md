@@ -3,51 +3,45 @@ title: Ripristinare un account sospeso per il Centro per i partner | Centro
 description: "Scopri come ripristinare un account del Centro per i partner sospeso, perché si verifica la sospensione e come puoi usare il tuo account durante la sospensione."
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 7e12c613050af1c76caa3fd87a5098ee501c0d9c
-ms.openlocfilehash: e749e49fe70d4f20d1d428d9c0ad9ede5751ae1d
-
+ms.openlocfilehash: b3eecda15bc4dc6363a288a768463acec86aa29f
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: it-IT
 ---
+# <a name="restore-a-suspended-partner-center-account"></a><span data-ttu-id="83a3b-103">Ripristinare un account sospeso per il Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="83a3b-103">Restore a suspended Partner Center account</span></span>
 
-# Ripristinare un account sospeso per il Centro per i partner
+<span data-ttu-id="83a3b-104">Questo articolo spiega come procedere se l'account del Centro per i partner viene sospeso.</span><span class="sxs-lookup"><span data-stu-id="83a3b-104">This article explains what to do if your Partner Center account is suspended.</span></span>
 
-Questo articolo spiega come procedere se l'account del Centro per i partner viene sospeso.
+**<span data-ttu-id="83a3b-105">Si applica a</span><span class="sxs-lookup"><span data-stu-id="83a3b-105">Applies to</span></span>**
 
-**Si applica a**
+-  <span data-ttu-id="83a3b-106">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="83a3b-106">Partner Center</span></span>
+-  <span data-ttu-id="83a3b-107">Centro per i partner per Microsoft Cloud per il governo statunitense</span><span class="sxs-lookup"><span data-stu-id="83a3b-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="83a3b-108">Centro per i partner per Microsoft Cloud Germania</span><span class="sxs-lookup"><span data-stu-id="83a3b-108">Partner Center for Microsoft Cloud Germany</span></span>
 
--  Centro per i partner
--  Centro per i partner per Microsoft Cloud Germania
+>**<span data-ttu-id="83a3b-109">Importante</span><span class="sxs-lookup"><span data-stu-id="83a3b-109">Important</span></span>**<br>
+<span data-ttu-id="83a3b-110">Mentre il tuo account del Centro per i partner è sospeso, puoi continuare a gestire le distribuzioni, le licenze e i servizi esistenti.</span><span class="sxs-lookup"><span data-stu-id="83a3b-110">While your Partner Center account is suspended, you can continue to manage your existing deployments, licenses, and services.</span></span> <span data-ttu-id="83a3b-111">Tuttavia, non sarai in grado di autorizzare o rivendere nuove licenze o servizi fino a quando il tuo account non viene ripristinato.</span><span class="sxs-lookup"><span data-stu-id="83a3b-111">However, you won’t be able to authorize or resell new licenses or services until your account is in good standing again.</span></span>
 
->**Importante**<br>
-Mentre il tuo account del Centro per i partner è sospeso, puoi continuare a gestire le distribuzioni, le licenze e i servizi esistenti. Tuttavia, non sarai in grado di autorizzare o rivendere nuove licenze o servizi fino a quando il tuo account non viene ripristinato.
+## <a name="why-partner-center-accounts-are-suspended"></a><span data-ttu-id="83a3b-112">Perché gli account del Centro per i partner vengono sospesi</span><span class="sxs-lookup"><span data-stu-id="83a3b-112">Why Partner Center accounts are suspended</span></span>
 
-## Perché gli account del Centro per i partner vengono sospesi
+<span data-ttu-id="83a3b-113">Microsoft sospenderà un account del Centro per i partner per uno dei motivi seguenti:</span><span class="sxs-lookup"><span data-stu-id="83a3b-113">Microsoft will suspend a Partner Center account for one of the following reasons:</span></span>
 
-Microsoft sospenderà un account del Centro per i partner per uno dei motivi seguenti:
+- <span data-ttu-id="83a3b-114">Quando l'importo della fatturazione corrente è scaduto da oltre 60 giorni</span><span class="sxs-lookup"><span data-stu-id="83a3b-114">When the current billing amount is more than 60 days overdue</span></span> 
+- <span data-ttu-id="83a3b-115">Quando vengono rilevati usi impropri significativi per l'account</span><span class="sxs-lookup"><span data-stu-id="83a3b-115">When significant account abuse is detected</span></span>
+- <span data-ttu-id="83a3b-116">Quando si verificano problemi sulle operazioni dei provider indiretti che influiscono negativamente sul tuo account (solo i rivenditori indiretti)</span><span class="sxs-lookup"><span data-stu-id="83a3b-116">When issues affect Indirect Provider operations and negatively impact your account (Indirect Resellers only)</span></span>
 
-- Quando l'importo della fatturazione corrente è scaduto da oltre 60 giorni 
-- Quando vengono rilevati usi impropri significativi per l'account
-- Quando si verificano problemi sulle operazioni dei provider indiretti che influiscono negativamente sul tuo account (solo i rivenditori indiretti)
+## <a name="what-to-do-if-your-account-is-suspended"></a><span data-ttu-id="83a3b-117">Cosa fare se il tuo account viene sospeso</span><span class="sxs-lookup"><span data-stu-id="83a3b-117">What to do if your account is suspended</span></span>
 
-## Cosa fare se il tuo account viene sospeso
+<span data-ttu-id="83a3b-118">Se sai che l'account è attuale, invia una richiesta di supporto al Supporto per il Centro per i partner, per scoprire perché il tuo account è stato sospeso.</span><span class="sxs-lookup"><span data-stu-id="83a3b-118">If you know that your account is current, submit a support request with Partner Center Support to find out why your account was suspended.</span></span> 
 
-Se sai che l'account è attuale, invia una richiesta di supporto al Supporto per il Centro per i partner, per scoprire perché il tuo account è stato sospeso. 
+<span data-ttu-id="83a3b-119">Se non sei sicuro che l'account sia attuale, seleziona **Fatturazione** da **Dashboard** per controllare la fattura.</span><span class="sxs-lookup"><span data-stu-id="83a3b-119">If you’re not sure whether your account is current, select **Billing** from the **Dashboard** menu to check your bill.</span></span> <span data-ttu-id="83a3b-120">La pagina della fatturazione mostra la cronologia e le tendenze della fatturazione, il saldo esigibile del mese corrente, link ai file di fatturazione e di riconciliazione e informazioni sull'ultimo pagamento.</span><span class="sxs-lookup"><span data-stu-id="83a3b-120">The billing page shows your billing history and trends, the balance due for the current month, links to your invoice and reconciliation files, and your most recent payment.</span></span>
 
-Se non sei sicuro che l'account sia attuale, seleziona **Fatturazione** da **Dashboard** per controllare la fattura. La pagina della fatturazione mostra la cronologia e le tendenze della fatturazione, il saldo esigibile del mese corrente, link ai file di fatturazione e di riconciliazione e informazioni sull'ultimo pagamento.
+<span data-ttu-id="83a3b-121">Se l'account è scaduto, segui le istruzioni sulla fattura per predisporre il pagamento, quindi invia una richiesta di supporto per richiedere che il tuo account sia reinstallato.</span><span class="sxs-lookup"><span data-stu-id="83a3b-121">If your account is overdue, follow the instructions on your bill to arrange payment and then submit a support request to ask that your account be reinstated.</span></span> 
 
-Se l'account è scaduto, segui le istruzioni sulla fattura per predisporre il pagamento, quindi invia una richiesta di supporto per richiedere che il tuo account sia reinstallato. 
+**<span data-ttu-id="83a3b-122">Per inviare una richiesta di supporto</span><span class="sxs-lookup"><span data-stu-id="83a3b-122">To Submit a support request</span></span>**
 
-**Per inviare una richiesta di supporto**
+1.    <span data-ttu-id="83a3b-123">Nel menu **Dashboard** seleziona **Richieste di supporto > Richieste Centro per i partner**.</span><span class="sxs-lookup"><span data-stu-id="83a3b-123">From the **Dashboard** menu, select **Support requests > Partner Center requests**.</span></span>
+2.    <span data-ttu-id="83a3b-124">Seleziona **Nuova richiesta**.</span><span class="sxs-lookup"><span data-stu-id="83a3b-124">Select **New request**.</span></span> 
+3.    <span data-ttu-id="83a3b-125">Compila il modulo e quindi seleziona **Invia**.</span><span class="sxs-lookup"><span data-stu-id="83a3b-125">Complete the form and then select **Submit**.</span></span> <span data-ttu-id="83a3b-126">Un rappresentante del Supporto del Centro per i partner ti contatterà per spiegare perché l'account è stato sospeso e come ripristinarlo.</span><span class="sxs-lookup"><span data-stu-id="83a3b-126">A Partner Center Support representative will contact you to explain why your account was suspended and how to reinstate it.</span></span>
 
-1.  Nel menu **Dashboard** seleziona **Richieste di supporto > Richieste Centro per i partner**.
-2.  Seleziona **Nuova richiesta**. 
-3.  Compila il modulo e quindi seleziona **Invia**. Un rappresentante del Supporto del Centro per i partner ti contatterà per spiegare perché l'account è stato sospeso e come ripristinarlo.
-
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -2,33 +2,27 @@
 title: Usare i file di riconciliazione | Centro per i partner
 description: Per una visualizzazione delle voci relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal dashboard del Centro per i partner.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
-author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
-
+author: KPacquer
+ms.openlocfilehash: 61e71d4207d9e8ac68ee4fcfc1f0d04282474032
+ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 06/19/2017
 ---
+# <a name="use-the-reconciliation-files"></a><span data-ttu-id="e7dbd-103">Usare i file di riconciliazione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-103">Use the reconciliation files</span></span>
 
-# Usare i file di riconciliazione
+**<span data-ttu-id="e7dbd-104">Si applica a</span><span class="sxs-lookup"><span data-stu-id="e7dbd-104">Applies to</span></span>**
 
-**Si applica a**
+-  <span data-ttu-id="e7dbd-105">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="e7dbd-105">Partner Center</span></span>
+-  <span data-ttu-id="e7dbd-106">Centro per i partner per Microsoft Cloud per il governo statunitense</span><span class="sxs-lookup"><span data-stu-id="e7dbd-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="e7dbd-107">Centro per i partner per Microsoft Cloud Germania</span><span class="sxs-lookup"><span data-stu-id="e7dbd-107">Partner Center for Microsoft Cloud Germany</span></span>
 
--  Centro per i partner
--  Centro per i partner per Microsoft Cloud Germania
+<span data-ttu-id="e7dbd-108">Per una visualizzazione delle voci relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal dashboard del Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-108">For a detailed line-item view of each charge in a billing cycle, download the reconciliation files from the Partner Center dashboard.</span></span> <span data-ttu-id="e7dbd-109">I dettagli includono gli addebiti per le sottoscrizioni di ogni singolo cliente e gli eventi dettagliati, ad esempio un'aggiunta di postazioni a una sottoscrizione in corso.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-109">The details include charges for each customer's subscriptions, and detailed events (such as a mid-term addition of seats to a subscription).</span></span>
 
-Per una visualizzazione delle voci relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal dashboard del Centro per i partner. I dettagli includono gli addebiti per le sottoscrizioni di ogni singolo cliente e gli eventi dettagliati, ad esempio un'aggiunta di postazioni a una sottoscrizione in corso.
-
-## Contenuto della sezione
-
-
--   [Eseguire la scomposizione dei dati in base al partner](#itemizebypartner)
--   [File di riconciliazione in base alle licenze](#licencebasedfiles)
--   [File di riconciliazione in base all'uso](#usagebasedfiles)
-
-## <a href="" id="itemizebypartner"></a>Eseguire la scomposizione dei dati in base al partner
+## <span data-ttu-id="e7dbd-110"><a href="" id="itemizebypartner"></a>Eseguire la scomposizione dei dati in base al partner</span><span class="sxs-lookup"><span data-stu-id="e7dbd-110"><a href="" id="itemizebypartner"></a>Itemize by partner</span></span>
 
 
-I partner nel modello indiretto possono usare questi campi aggiuntivi sia nei file di riconciliazione in base alle licenze che nei file di riconciliazione in base all'uso per eseguire la scomposizione dei dati per ogni rivenditore.
+<span data-ttu-id="e7dbd-111">I partner nel modello indiretto possono usare questi campi aggiuntivi sia nei file di riconciliazione in base alle licenze che nei file di riconciliazione in base all'uso per eseguire la scomposizione dei dati per ogni rivenditore.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-111">Partners in the indirect model can use these additional fields in both license-based and usage-based reconciliation files to itemize by reseller.</span></span>
 
 <table>
 <colgroup>
@@ -37,33 +31,33 @@ I partner nel modello indiretto possono usare questi campi aggiuntivi sia nei fi
 </colgroup>
 <thead>
 <tr class="header">
-<th>ID MPN</th>
-<th>Descrizione</th>
+<th><span data-ttu-id="e7dbd-112">ID MPN</span><span class="sxs-lookup"><span data-stu-id="e7dbd-112">MPN ID</span></span></th>
+<th><span data-ttu-id="e7dbd-113">Descrizione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-113">Description</span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>ID MPN</td>
-<td><p>ID MPN del partner CSP (diretto o indiretto).</p></td>
+<td><span data-ttu-id="e7dbd-114">ID MPN</span><span class="sxs-lookup"><span data-stu-id="e7dbd-114">MPN ID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-115">ID Microsoft Partner Network (MPN) del partner CSP (diretto o indiretto).</span><span class="sxs-lookup"><span data-stu-id="e7dbd-115">The Microsoft Partner Network (MPN) ID of the CSP partner (direct or indirect).</span></span></p></td>
 </tr>
 <tr class="even">
-<td>ID MPN rivenditore</td>
-<td><p>Viene visualizzato solo nei file di riconciliazione per i partner nel modello indiretto.</p>
-<p>ID MPN del rivenditore nel record per la sottoscrizione. Corrisponde all'ID rivenditore elencato per la sottoscrizione specifica nel Centro per i partner.</p>
-<p>Per visualizzare o aggiornare il rivenditore, nel menu del Centro per i partner seleziona <strong>Clienti</strong> e quindi scegli il cliente nell'elenco. Nel menu del cliente seleziona <strong>Sottoscrizioni</strong> e quindi scegli la sottoscrizione nell'elenco. Seleziona <strong>Aggiorna</strong> per modificare il valore <strong>Rivenditore (ID MPN)</strong>.</p>
-<p>Se un partner CSP ha venduto la sottoscrizione direttamente al cliente, il relativo ID MPN è elencato due volte, sia come ID MPN che come ID MPN del rivenditore.</p>
-<p>Se per un partner CSP è presente un rivenditore senza ID MPN, il valore viene impostato sull'ID MPN del partner.</p>
-<p>Se il partner CSP rimuove un ID rivenditore, il valore verrà impostato su -1.</p></td>
+<td><span data-ttu-id="e7dbd-116">ID MPN rivenditore</span><span class="sxs-lookup"><span data-stu-id="e7dbd-116">Reseller MPN ID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-117">Viene visualizzato solo nei file di riconciliazione per i partner nel modello indiretto.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-117">Only appears on reconciliation files for partners in the indirect model.</span></span></p>
+<p><span data-ttu-id="e7dbd-118">ID MPN del rivenditore nel record per la sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-118">The MPN ID of the reseller of record for the subscription.</span></span> <span data-ttu-id="e7dbd-119">Corrisponde all'ID rivenditore elencato per la sottoscrizione specifica nel Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-119">This corresponds to the reseller ID listed for the specific subscription in Partner Center.</span></span></p>
+<p><span data-ttu-id="e7dbd-120">Per visualizzare o aggiornare il rivenditore, nel menu del Centro per i partner seleziona <strong>Clienti</strong> e quindi scegli il cliente nell'elenco.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-120">eTo view or update the reseller, in the Partner Center menu, select <strong>Customers</strong>, then choose the customer from the list.</span></span> <span data-ttu-id="e7dbd-121">Nel menu del cliente seleziona <strong>Sottoscrizioni</strong> e quindi scegli la sottoscrizione nell'elenco.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-121">In the customer menu, select <strong>Subscriptions</strong>, choose the subscription from the list.</span></span> <span data-ttu-id="e7dbd-122">Seleziona <strong>Aggiorna</strong> per modificare il valore <strong>Rivenditore (ID MPN)</strong>.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-122">Select <strong>update</strong> to change the <strong>Reseller (MPN ID)</strong>.</span></span></p>
+<p><span data-ttu-id="e7dbd-123">Se un partner CSP ha venduto la sottoscrizione direttamente al cliente, il relativo ID MPN è elencato due volte, sia come ID MPN che come ID MPN del rivenditore.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-123">If a CSP partner sold the subscription directly to the customer, their MPN ID is listed twice, as both the MPN ID and the Reseller MPN ID.</span></span></p>
+<p><span data-ttu-id="e7dbd-124">Se per un partner CSP è presente un rivenditore senza ID MPN, il valore viene impostato sull'ID MPN del partner.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-124">If a CSP partner has a reseller with no MPN ID, this value is set to the partner’s MPN ID instead.</span></span></p>
+<p><span data-ttu-id="e7dbd-125">Se il partner CSP rimuove un ID rivenditore, il valore verrà impostato su -1.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-125">If the CSP partner removes a reseller ID, this value will be set to -1.</span></span></p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a href="" id="licencebasedfiles"></a> Campi dei file in base alle licenze
+## <span data-ttu-id="e7dbd-126"><a href="" id="licencebasedfiles"></a> Campi dei file in base alle licenze</span><span class="sxs-lookup"><span data-stu-id="e7dbd-126"><a href="" id="licencebasedfiles"></a> License-based file fields</span></span>
 
 
-Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la voce Syndication\_Partner\_Subscription\_Number del file di riconciliazione con l'ID sottoscrizione del Centro per i partner.
+<span data-ttu-id="e7dbd-127">Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la voce Syndication\_Partner\_Subscription\_Number del file di riconciliazione con l'ID sottoscrizione del Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-127">To reconcile your charges against your customer's orders, compare the Syndication\_Partner\_Subscription\_Number from the reconciliation file against the Subscription ID from Partner Center.</span></span>
 
 <table>
 <colgroup>
@@ -73,212 +67,166 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Colonna</strong></td>
-<td><strong>Descrizione</strong></td>
-<td><strong>Valore di esempio</strong></td>
+<td><strong><span data-ttu-id="e7dbd-128">Colonna</span><span class="sxs-lookup"><span data-stu-id="e7dbd-128">Column</span></span></strong></td>
+<td><strong><span data-ttu-id="e7dbd-129">Descrizione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-129">Description</span></span></strong></td>
+<td><strong><span data-ttu-id="e7dbd-130">Valore di esempio</span><span class="sxs-lookup"><span data-stu-id="e7dbd-130">Sample Value</span></span></strong></td>
 </tr>
 <tr class="even">
-<td>OperatingUnit</td>
-<td><p>Identificatore univoco per un'entità di fatturazione specifica, in formato GUID. Non è necessario per la riconciliazione, ma può risultare utile. È lo stesso per tutte le righe.</p></td>
-<td>8ddd03642-test-test-test-46b58d356b4e</td>
+<td><span data-ttu-id="e7dbd-131">OperatingUnit</span><span class="sxs-lookup"><span data-stu-id="e7dbd-131">OperatingUnit</span></span></td>
+<td><p><span data-ttu-id="e7dbd-132">Identificatore univoco per un'entità di fatturazione specifica, in formato GUID.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-132">Unique identifier for a specific billing entity, in GUID format.</span></span> <span data-ttu-id="e7dbd-133">Non è necessario per la riconciliazione, ma può risultare utile.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-133">Not required for reconciliation, however may be useful information.</span></span> <span data-ttu-id="e7dbd-134">È lo stesso per tutte le righe.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-134">Same in all rows.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-135">8ddd03642-test-test-test-46b58d356b4e</span><span class="sxs-lookup"><span data-stu-id="e7dbd-135">8ddd03642-test-test-test-46b58d356b4e</span></span></td>
 </tr>
 <tr class="odd">
-<td>CustomerNumber</td>
-<td><p>Identificatore univoco del cliente nella piattaforma di fatturazione Microsoft. Può essere utile per identificare il cliente quando viene contattato il supporto tecnico, ma non per la riconciliazione.</p></td>
-<td>123456789</td>
+<td><span data-ttu-id="e7dbd-136">CustomerID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-136">CustomerID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-137">ID Microsoft univoco, in formato GUID, usato per identificare il cliente.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-137">Unique Microsoft ID, in GUID format, used to identify the customer.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-138">12ABCD34-001A-BCD2-987C-3210ABCD5678</span><span class="sxs-lookup"><span data-stu-id="e7dbd-138">12ABCD34-001A-BCD2-987C-3210ABCD5678</span></span></td>
 </tr>
 <tr class="even">
-<td>OrderID</td>
-<td><p>Identificatore univoco di un ordine nella piattaforma di fatturazione Microsoft. Può essere utile per identificare l'ordine quando viene contattato il supporto tecnico, ma non per la riconciliazione.</p></td>
-<td>566890604832738111</td>
+<td><span data-ttu-id="e7dbd-139">OrderID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-139">OrderID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-140">Identificatore univoco di un ordine nella piattaforma di fatturazione Microsoft.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-140">Unique identifier for an order in the Microsoft billing platform.</span></span> <span data-ttu-id="e7dbd-141">Può essere utile per identificare l'ordine quando viene contattato il supporto tecnico, ma non per la riconciliazione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-141">May be useful to identify the order when contacting support but not for reconciliation.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-142">566890604832738111</span><span class="sxs-lookup"><span data-stu-id="e7dbd-142">566890604832738111</span></span></td>
 </tr>
 <tr class="odd">
-<td>SubscriptionID</td>
-<td><p>Identificatore univoco di una sottoscrizione nella piattaforma di fatturazione Microsoft. Può essere utile per identificare la sottoscrizione quando viene contattato il supporto tecnico, ma non per la riconciliazione.</p>
-<p>Non corrisponde all'ID sottoscrizione nella console di amministrazione dei partner. Vedi Syndication_Partner_Subscription_Number.</p></td>
-<td>usCBMgAAAAAAAAIA</td>
+<td><span data-ttu-id="e7dbd-143">SubscriptionID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-143">SubscriptionID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-144">Identificatore univoco di una sottoscrizione nella piattaforma di fatturazione Microsoft.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-144">Unique identifier for a subscription in the Microsoft billing platform.</span></span> <span data-ttu-id="e7dbd-145">Può essere utile per identificare la sottoscrizione quando viene contattato il supporto tecnico, ma non per la riconciliazione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-145">May be useful to identify the subscription when contacting support but not for reconciliation.</span></span></p>
+<p><span data-ttu-id="e7dbd-146">Non corrisponde all'ID sottoscrizione nella console di amministrazione dei partner.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-146">This is not the same as the Subscription ID on the Partner Admin Console.</span></span> <span data-ttu-id="e7dbd-147">Vedi Syndication_Partner_Subscription_Number.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-147">Please see Syndication_Partner_Subscription_Number.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-148">usCBMgAAAAAAAAIA</span><span class="sxs-lookup"><span data-stu-id="e7dbd-148">usCBMgAAAAAAAAIA</span></span></td>
 </tr>
 <tr class="even">
-<td>SyndicationPartnerSubscriptionNumber</td>
-<td><p>Identificatore univoco per le sottoscrizioni. Un cliente può avere più sottoscrizioni per lo stesso piano, quindi questa informazione è importante per l'analisi di un file di riconciliazione.</p>
-<p>Questo campo è associato all'ID sottoscrizione nella console di amministrazione dei partner.</p></td>
-<td>fb977ab5-test-test-test-24c8d9591708</td>
+<td><span data-ttu-id="e7dbd-149">SyndicationPartnerSubscriptionNumber</span><span class="sxs-lookup"><span data-stu-id="e7dbd-149">SyndicationPartnerSubscriptionNumber</span></span></td>
+<td><p><span data-ttu-id="e7dbd-150">Identificatore univoco per le sottoscrizioni.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-150">Unique identifier for subscriptions.</span></span> <span data-ttu-id="e7dbd-151">Un cliente può avere più sottoscrizioni per lo stesso piano, quindi questa informazione è importante per l'analisi di un file di riconciliazione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-151">A customer can have multiple subscriptions for the same plan, so this is important for reconciliation file analysis.</span></span></p>
+<p><span data-ttu-id="e7dbd-152">Questo campo è associato all'ID sottoscrizione nella console di amministrazione dei partner.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-152">This field maps to the Subscription ID in the Partner Admin Console.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-153">fb977ab5-test-test-test-24c8d9591708</span><span class="sxs-lookup"><span data-stu-id="e7dbd-153">fb977ab5-test-test-test-24c8d9591708</span></span></td>
 </tr>
 <tr class="odd">
-<td>OfferID</td>
-<td><p>ID univoco dell'offerta. ID dell'offerta standard in base al listino prezzi.</p></td>
-<td>306855</td>
+<td><span data-ttu-id="e7dbd-154">OfferID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-154">OfferID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-155">ID univoco dell'offerta.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-155">Unique offer ID.</span></span> <span data-ttu-id="e7dbd-156">ID dell'offerta standard in base al listino prezzi.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-156">Standard offer ID as per price list.</span></span></p>
+<p><span data-ttu-id="e7dbd-157"><b>Nota</b>: questo valore non corrisponde all'ID dell'offerta dal listino prezzi.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-157"><b>Note</b>: This value does not match Offer ID from the price list.</span></span> <span data-ttu-id="e7dbd-158">Vedi DurableOfferID di seguito.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-158">See DurableOfferID below.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-159">FE616D64-E9A8-40EF-843F-152E9BBEF3D1</span><span class="sxs-lookup"><span data-stu-id="e7dbd-159">FE616D64-E9A8-40EF-843F-152E9BBEF3D1</span></span></td>
 </tr>
 <tr class="even">
-<td>DurableOfferID</td>
-<td><p>ID dell'offerta durevole univoco, come definito nel listino prezzi.</p></td>
-<td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
+<td><span data-ttu-id="e7dbd-160">DurableOfferID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-160">DurableOfferID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-161">ID dell'offerta durevole univoco, come definito nel listino prezzi.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-161">Unique durable offer ID, as defined in the price list.</span></span></p>
+<p><span data-ttu-id="e7dbd-162"><b>Nota</b>: questo valore corrisponde all'ID offerta dal listino prezzi.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-162"><b>Note</b>: This value matches the Offer ID from the price list.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-163">1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</span><span class="sxs-lookup"><span data-stu-id="e7dbd-163">1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</span></span></td>
 </tr>
 <tr class="odd">
-<td>OfferName</td>
-<td><p>Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi.</p></td>
-<td>Microsoft Office 365 (Piano E3)</td>
+<td><span data-ttu-id="e7dbd-164">OfferName</span><span class="sxs-lookup"><span data-stu-id="e7dbd-164">OfferName</span></span></td>
+<td><p><span data-ttu-id="e7dbd-165">Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-165">The name of the service offering purchased by the customer, as defined in the price list.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-166">Microsoft Office 365 (Piano E3)</span><span class="sxs-lookup"><span data-stu-id="e7dbd-166">Microsoft Office 365 (Plan E3)</span></span></td>
 </tr>
 <tr class="even">
-<td>SubscriptionStartDate</td>
-<td><p>Data di inizio della sottoscrizione, impostata sul giorno successivo a quello in cui è stato inviato l'ordine. Verificando la data di inizio della sottoscrizione insieme alla data di fine, puoi determinare se il cliente è ancora nel primo anno della sottoscrizione o se la sottoscrizione è stata rinnovata per l'anno successivo.</p>
-<p>L'ora indicata è sempre l'inizio della giornata, le 0:00.</p></td>
-<td>2/1/2015 0:00</td>
+<td><span data-ttu-id="e7dbd-167">SubscriptionStartDate</span><span class="sxs-lookup"><span data-stu-id="e7dbd-167">SubscriptionStartDate</span></span></td>
+<td><p><span data-ttu-id="e7dbd-168">Data di inizio della sottoscrizione, impostata sul giorno successivo a quello in cui è stato inviato l'ordine.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-168">The subscription start date, set to the day after the order is submitted.</span></span> <span data-ttu-id="e7dbd-169">Verificando la data di inizio della sottoscrizione insieme alla data di fine, puoi determinare se il cliente è ancora nel primo anno della sottoscrizione o se la sottoscrizione è stata rinnovata per l'anno successivo.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-169">By looking at the subscription start date in conjunction with the end date, you can determine if the customer is still within the first year of the subscription or if the subscription has been renewed for the following year.</span></span></p>
+<p><span data-ttu-id="e7dbd-170">L'ora indicata è sempre l'inizio della giornata, le 0:00.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-170">The time is always the beginning of the day, 0:00.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-171">2/1/2015 0:00</span><span class="sxs-lookup"><span data-stu-id="e7dbd-171">2/1/2015 0:00</span></span></td>
 </tr>
 <tr class="odd">
-<td>SubscriptionEndDate</td>
-<td><p>Data di fine della sottoscrizione: 12 mesi + x giorni dopo la data di inizio (per allineare con la data di fatturazione del partner) o 12 mesi dalla data di rinnovo.</p>
-<p>In fase di rinnovo, i prezzi vengono aggiornati rispetto al listino prezzi corrente. È possibile che venga richiesta una comunicazione con il cliente prima del rinnovo automatico.</p>
-<p>L'ora indicata è sempre l'inizio della giornata, le 0:00.</p></td>
-<td>2/1/2015 0:00</td>
+<td><span data-ttu-id="e7dbd-172">SubscriptionEndDate</span><span class="sxs-lookup"><span data-stu-id="e7dbd-172">SubscriptionEndDate</span></span></td>
+<td><p><span data-ttu-id="e7dbd-173">Data di fine della sottoscrizione: 12 mesi + x giorni dopo la data di inizio (per allineare con la data di fatturazione del partner) o 12 mesi dalla data di rinnovo.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-173">The subscription end date: 12 months + x days after start date (to align with partner billing date) or 12 months from renewal date.</span></span></p>
+<p><span data-ttu-id="e7dbd-174">In fase di rinnovo, i prezzi vengono aggiornati rispetto al listino prezzi corrente.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-174">At renewal, prices are updated to the current price list.</span></span> <span data-ttu-id="e7dbd-175">È possibile che venga richiesta una comunicazione con il cliente prima del rinnovo automatico.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-175">Customer communication may be required in advance of automated renewal.</span></span></p>
+<p><span data-ttu-id="e7dbd-176">L'ora indicata è sempre l'inizio della giornata, le 0:00.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-176">The time is always the beginning of the day, 0:00.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-177">2/1/2015 0:00</span><span class="sxs-lookup"><span data-stu-id="e7dbd-177">2/1/2015 0:00</span></span></td>
 </tr>
 <tr class="even">
-<td>ChargeStartDate</td>
-<td><p>Giorno di inizio degli addebiti.</p>
-<p>Quando un cliente cambia il numero di postazioni, questo valore viene usato per calcolare gli addebiti per giorno (calcolo proporzionale).</p>
-<p>L'ora indicata è sempre l'inizio della giornata, le 0:00.</p></td>
-<td>2/1/2015 0:00</td>
+<td><span data-ttu-id="e7dbd-178">ChargeStartDate</span><span class="sxs-lookup"><span data-stu-id="e7dbd-178">ChargeStartDate</span></span></td>
+<td><p><span data-ttu-id="e7dbd-179">Giorno di inizio degli addebiti.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-179">Start day of the charges.</span></span></p>
+<p><span data-ttu-id="e7dbd-180">Quando un cliente cambia il numero di postazioni, questo valore viene usato per calcolare gli addebiti per giorno (calcolo proporzionale).</span><span class="sxs-lookup"><span data-stu-id="e7dbd-180">When a customer changes seat numbers, this number is used to calculate per-day (pro-rata) charges.</span></span></p>
+<p><span data-ttu-id="e7dbd-181">L'ora indicata è sempre l'inizio della giornata, le 0:00.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-181">The time is always the beginning of the day, 0:00.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-182">2/1/2015 0:00</span><span class="sxs-lookup"><span data-stu-id="e7dbd-182">2/1/2015 0:00</span></span></td>
 </tr>
 <tr class="odd">
-<td>ChargeEndDate</td>
-<td><p>Giorno di fine degli addebiti.</p>
-<p>Quando un cliente cambia il numero di postazioni, questo valore viene usato per calcolare gli addebiti per giorno (calcolo proporzionale).</p>
-<p>L'ora indicata è sempre la fine della giornata, le 23:59.</p></td>
-<td>2/28/2015 23:59</td>
+<td><span data-ttu-id="e7dbd-183">ChargeEndDate</span><span class="sxs-lookup"><span data-stu-id="e7dbd-183">ChargeEndDate</span></span></td>
+<td><p><span data-ttu-id="e7dbd-184">Giorno di fine degli addebiti.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-184">End day of the charges.</span></span></p>
+<p><span data-ttu-id="e7dbd-185">Quando un cliente cambia il numero di postazioni, questo valore viene usato per calcolare gli addebiti per giorno (calcolo proporzionale).</span><span class="sxs-lookup"><span data-stu-id="e7dbd-185">When a customer changes seat numbers, this number is used to calculate per-day (pro-rata) charges.</span></span></p>
+<p><span data-ttu-id="e7dbd-186">L'ora indicata è sempre la fine della giornata, le 23:59.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-186">The time is always the end of the day, 23:59.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-187">2/28/2015 23:59</span><span class="sxs-lookup"><span data-stu-id="e7dbd-187">2/28/2015 23:59</span></span></td>
 </tr>
 <tr class="even">
-<td>ChargeType</td>
-<td><p>Tipo di addebito o rettifica.</p>
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
+<td><span data-ttu-id="e7dbd-188">ChargeType</span><span class="sxs-lookup"><span data-stu-id="e7dbd-188">ChargeType</span></span></td>
+<td><p><span data-ttu-id="e7dbd-189">Tipo di addebito o rettifica.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-189">The type of charge or adjustment.</span></span> <span data-ttu-id="e7dbd-190">Vedi <a href="#charge_types">Mapping degli addebiti tra una fattura e il file di riconciliazione</a></span><span class="sxs-lookup"><span data-stu-id="e7dbd-190">See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></span></span></p></td>
+<td><p><span data-ttu-id="e7dbd-191">Vedi <a href="#charge_types">Mapping degli addebiti tra una fattura e il file di riconciliazione</a></span><span class="sxs-lookup"><span data-stu-id="e7dbd-191">See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></span></span></p></td>
+</tr>
 <tr class="odd">
-<td>Charges:</td>
-<td><ul>
-<li>PURCHASE_FEE: addebito iniziale per una sottoscrizione</li>
-<li>CYCLE_FEE: addebiti periodici per una sottoscrizione</li>
-</ul></td>
+<td><span data-ttu-id="e7dbd-192">UnitPrice</span><span class="sxs-lookup"><span data-stu-id="e7dbd-192">UnitPrice</span></span></td>
+<td><p><span data-ttu-id="e7dbd-193">Prezzo per postazione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-193">Price per seat.</span></span> <span data-ttu-id="e7dbd-194">Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-194">Ensure this matches the information stored in your billing system during reconciliation.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-195">6.82</span><span class="sxs-lookup"><span data-stu-id="e7dbd-195">6.82</span></span></td>
 </tr>
 <tr class="even">
-<td>ConvertResources</td>
-<td><ul>
-<li>CANCEL_USAGEFEE: commissione di utilizzo per l'accesso all'annullamento per utilizzo non pagato durante il periodo di fatturazione corrente</li>
-<li>CYCLE_USAGEFEE: commissione di utilizzo per l'accesso per il periodo di fatturazione corrente</li>
-</ul></td>
+<td><span data-ttu-id="e7dbd-196">Quantity</span><span class="sxs-lookup"><span data-stu-id="e7dbd-196">Quantity</span></span></td>
+<td><p><span data-ttu-id="e7dbd-197">Numero di postazioni.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-197">Number of seats.</span></span> <span data-ttu-id="e7dbd-198">Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-198">Ensure this matches the information stored in your billing system during reconciliation.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-199">2</span><span class="sxs-lookup"><span data-stu-id="e7dbd-199">2</span></span></td>
 </tr>
 <tr class="odd">
-<td>Prorations:</td>
-<td><ul>
-<li>PURCHASE_PRORATE: commissioni rateizzate all'acquisto</li>
-<li>CANCEL_PRORATE: rimborso rateizzato per servizio parzialmente inutilizzato all'annullamento</li>
-<li>ACTIVATION_PRORATE: commissioni rateizzate dall'attivazione fino alla fine del periodo di fatturazione</li>
-<li>RENEW_PRORATE: commissioni rateizzate al rinnovo della sottoscrizione</li>
-</ul></td>
+<td><span data-ttu-id="e7dbd-200">Amount</span><span class="sxs-lookup"><span data-stu-id="e7dbd-200">Amount</span></span></td>
+<td><p><span data-ttu-id="e7dbd-201">Prezzo totale per la quantità.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-201">Total of price for quantity.</span></span> <span data-ttu-id="e7dbd-202">Utile per verificare che il calcolo dell'importo corrisponda al calcolo del prezzo per i clienti.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-202">Useful to check that the amount calculation matches how you calculate this for your customers.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-203">13.32</span><span class="sxs-lookup"><span data-stu-id="e7dbd-203">13.32</span></span></td>
 </tr>
 <tr class="even">
-<td>InstanceProrates:</td>
-<td><ul>
-<li>CANCEL_INSTANCEPRORATE: commissioni rateizzate rimborsate al cliente in caso di modifica delle postazioni associate</li>
-<li>CYCLE_INSTANCEPRORATE: commissioni rateizzate calcolate dal cliente in caso di modifica delle postazioni associate</li>
-</ul></td>
+<td><span data-ttu-id="e7dbd-204">TotalOtherDiscount</span><span class="sxs-lookup"><span data-stu-id="e7dbd-204">TotalOtherDiscount</span></span></td>
+<td><p><span data-ttu-id="e7dbd-205">Importo dello sconto applicato a questi addebiti.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-205">Amount of discount applied to these charges.</span></span> <span data-ttu-id="e7dbd-206">IUR o le nuove sottoscrizioni idonee per un incentivo contengono anche un importo di sconto in questa colonna.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-206">IUR or new subscriptions eligible for an incentive will also contain a discount amount in this column.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-207">2.32</span><span class="sxs-lookup"><span data-stu-id="e7dbd-207">2.32</span></span></td>
 </tr>
 <tr class="odd">
-<td>Credits:</td>
-<td><ul>
-<li>CREDIT: credito applicato a uno strumento di pagamento</li>
-</ul></td>
+<td><span data-ttu-id="e7dbd-208">Subtotal</span><span class="sxs-lookup"><span data-stu-id="e7dbd-208">Subtotal</span></span></td>
+<td><p><span data-ttu-id="e7dbd-209">Totale al lordo delle imposte.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-209">Total before tax.</span></span> <span data-ttu-id="e7dbd-210">Verifica che il subtotale corrisponda al totale previsto, in caso di sconto.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-210">Checks that your subtotal matches your expected total, in case of a discount.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-211">11</span><span class="sxs-lookup"><span data-stu-id="e7dbd-211">11</span></span></td>
 </tr>
 <tr class="even">
-<td>Offsets:</td>
-<td><ul>
-<li>OFFSET_LINEITEM: rimborso parziale o complessivo per un articolo</li>
-<li>ONE_TIME_REFUND: rimborso singolo elaborato per il cliente</li>
-<li>TAX_REFUND: rimborso dovuto alla convalida del certificato di esenzione fiscale</li>
-</ul></td>
+<td><span data-ttu-id="e7dbd-212">Tax</span><span class="sxs-lookup"><span data-stu-id="e7dbd-212">Tax</span></span></td>
+<td><p><span data-ttu-id="e7dbd-213">Importo totale delle imposte, in base alle leggi vigenti a livello locale e alle circostanze specifiche.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-213">Tax amount charge, based on your market's tax rules and specific circumstances.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-214">0</span><span class="sxs-lookup"><span data-stu-id="e7dbd-214">0</span></span></td>
 </tr>
 <tr class="odd">
-<td>Discounts:</td>
-<td><ul>
-<li>ACTIVATION_DISCOUNT: sconto applicato all'attivazione della sottoscrizione</li>
-<li>CYCLE_DISCOUNT: sconto applicato ad addebiti periodici</li>
-<li>RENEW_DISCOUNT: sconto applicato al rinnovo della sottoscrizione</li>
-<li>CANCEL_DISCOUNT: addebiti applicati all'annullamento degli sconti</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-<p> </p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>UnitPrice</td>
-<td><p>Prezzo per postazione. Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</p></td>
-<td>6.82</td>
+<td><span data-ttu-id="e7dbd-215">TotalForCustomer</span><span class="sxs-lookup"><span data-stu-id="e7dbd-215">TotalForCustomer</span></span></td>
+<td><p><span data-ttu-id="e7dbd-216">Totale al netto delle imposte.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-216">Total after tax.</span></span> <span data-ttu-id="e7dbd-217">Verifica se nella fattura sono addebitate imposte.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-217">Checks if you are charged tax in the invoice.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-218">11</span><span class="sxs-lookup"><span data-stu-id="e7dbd-218">11</span></span></td>
 </tr>
 <tr class="even">
-<td>Quantity</td>
-<td><p>Numero di postazioni. Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</p></td>
-<td>2</td>
+<td><span data-ttu-id="e7dbd-219">Currency</span><span class="sxs-lookup"><span data-stu-id="e7dbd-219">Currency</span></span></td>
+<td><p><span data-ttu-id="e7dbd-220">Tipo di valuta.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-220">Currency type.</span></span> <span data-ttu-id="e7dbd-221">Ogni entità di fatturazione ha una sola valuta.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-221">Each billing entity has only one currency.</span></span> <span data-ttu-id="e7dbd-222">Verifica quando viene emessa la prima fattura e dopo qualsiasi aggiornamento importante della piattaforma di fatturazione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-222">Check that it matches your first invoice and then after any major billing platform update.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-223">EUR</span><span class="sxs-lookup"><span data-stu-id="e7dbd-223">EUR</span></span></td>
 </tr>
 <tr class="odd">
-<td>Amount</td>
-<td><p>Prezzo totale per la quantità. Utile per verificare che il calcolo dell'importo corrisponda al calcolo del prezzo per i clienti.</p></td>
-<td>13.32</td>
+<td><span data-ttu-id="e7dbd-224">CustomerName</span><span class="sxs-lookup"><span data-stu-id="e7dbd-224">CustomerName</span></span></td>
+<td><p><span data-ttu-id="e7dbd-225">Nome dell'organizzazione del cliente registrato nel Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-225">Customer's organization name as reported in Partner Center.</span></span> <span data-ttu-id="e7dbd-226">Molto importante per la riconciliazione della fattura con le informazioni di sistema.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-226">This is very important for reconciling the invoice with your system information.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-227">Cliente di prova A</span><span class="sxs-lookup"><span data-stu-id="e7dbd-227">Test Customer A</span></span></td>
 </tr>
 <tr class="even">
-<td>TotalOtherDiscount</td>
-<td><p>Importo dello sconto applicato a questi addebiti. IUR o le nuove sottoscrizioni idonee per un incentivo contengono anche un importo di sconto in questa colonna.</p></td>
-<td>2.32</td>
+<td><span data-ttu-id="e7dbd-228">MPNID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-228">MPNID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-229">ID MPN del partner CSP</span><span class="sxs-lookup"><span data-stu-id="e7dbd-229">MPN ID of the CSP partner</span></span></p></td>
+<td><span data-ttu-id="e7dbd-230">4390934</span><span class="sxs-lookup"><span data-stu-id="e7dbd-230">4390934</span></span></td>
 </tr>
 <tr class="odd">
-<td>Subtotal</td>
-<td><p>Totale al lordo delle imposte. Verifica che il subtotale corrisponda al totale previsto, in caso di sconto.</p></td>
-<td>11</td>
+<td><span data-ttu-id="e7dbd-231">ResellerMPNID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-231">ResellerMPNID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-232">ID MPN del rivenditore nel record per la sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-232">MPN ID of the reseller of record for the subscription.</span></span> <span data-ttu-id="e7dbd-233">Vedi [Eseguire la scomposizione dei dati in base al partner](#itemizebypartner).</span><span class="sxs-lookup"><span data-stu-id="e7dbd-233">See [Itemize by partner](#itemizebypartner).</span></span></p></td>
+<td><span data-ttu-id="e7dbd-234">4390934</span><span class="sxs-lookup"><span data-stu-id="e7dbd-234">4390934</span></span></td>
 </tr>
 <tr class="even">
-<td>Tax</td>
-<td><p>Importo totale delle imposte, in base alle leggi vigenti a livello locale e alle circostanze specifiche.</p></td>
-<td>0</td>
+<td><span data-ttu-id="e7dbd-235">DomainName</span><span class="sxs-lookup"><span data-stu-id="e7dbd-235">DomainName</span></span></td>
+<td><p><span data-ttu-id="e7dbd-236">Nome di dominio del cliente, usato per identificare il cliente.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-236">Customer's domain name, used to help identify the customer.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-237">example.onmicrosoft.com</span><span class="sxs-lookup"><span data-stu-id="e7dbd-237">example.onmicrosoft.com</span></span></td>
 </tr>
 <tr class="odd">
-<td>TotalForCustomer</td>
-<td><p>Totale al netto delle imposte. Verifica se nella fattura sono addebitate imposte.</p></td>
-<td>11</td>
+<td><span data-ttu-id="e7dbd-238">SubscriptionName</span><span class="sxs-lookup"><span data-stu-id="e7dbd-238">SubscriptionName</span></span></td>
+<td><p><span data-ttu-id="e7dbd-239">Nome alternativo della sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-239">Subscription nickname.</span></span> <span data-ttu-id="e7dbd-240">Se non viene specificato alcun nome alternativo, il Centro per i partner usa l'OfferName.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-240">If no nickname is specified, Partner Center uses the OfferName.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-241">PROGETTO ONLINE</span><span class="sxs-lookup"><span data-stu-id="e7dbd-241">PROJECT ONLINE</span></span></td>
 </tr>
 <tr class="even">
-<td>Currency</td>
-<td><p>Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Verifica quando viene emessa la prima fattura e dopo qualsiasi aggiornamento importante della piattaforma di fatturazione.</p></td>
-<td>EUR</td>
-</tr>
-<tr class="odd">
-<td>CustomerName</td>
-<td><p>Nome dell'organizzazione del cliente registrato nel Centro per i partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
-<td>Cliente di prova A</td>
-</tr>
-<tr class="even">
-<td>MPNID</td>
-<td><p>ID MPN del partner CSP</p></td>
-<td>4390934</td>
-</tr>
-<tr class="odd">
-<td>ResellerMPNID</td>
-<td><p>ID MPN del rivenditore nel record per la sottoscrizione. Vedi [Eseguire la scomposizione dei dati in base al partner](#itemizebypartner).</p></td>
-<td>4390934</td>
+<td><span data-ttu-id="e7dbd-242">SubscriptionDescription</span><span class="sxs-lookup"><span data-stu-id="e7dbd-242">SubscriptionDescription</span></span></td>
+<td><p><span data-ttu-id="e7dbd-243">Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-243">The name of the service offering purchased by the customer, as defined in the price list.</span></span> <span data-ttu-id="e7dbd-244">Questo è un campo identico a Nome offerta.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-244">(This is an identical field to Offer name).</span></span></p></td>
+<td><span data-ttu-id="e7dbd-245">PROGETTO PREMIUM ONLINE SENZA CLIENTE PROGETTO</span><span class="sxs-lookup"><span data-stu-id="e7dbd-245">PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT</span></span></td>
 </tr>
 </tbody>
 </table>
 
- 
 
-## <a href="" id="usagebasedfiles"></a>Campi dei file in base all'uso
+## <span data-ttu-id="e7dbd-246"><a href="" id="usagebasedfiles"></a>Campi dei file in base all'uso</span><span class="sxs-lookup"><span data-stu-id="e7dbd-246"><a href="" id="usagebasedfiles"></a>Usage-based file fields</span></span>
 
 
-Per riconciliare i tuoi addebiti in base all'uso da parte dei clienti, confronta i campi ResellerID/ResellerName/ResellerBillableAccount del file di riconciliazione con il nome del cliente e l'ID sottoscrizione del Centro per i partner.
+<span data-ttu-id="e7dbd-247">Per riconciliare i tuoi addebiti in base all'uso da parte dei clienti, confronta i campi ResellerID/ResellerName/ResellerBillableAccount del file di riconciliazione con il nome del cliente e l'ID sottoscrizione del Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-247">To reconcile your charges against your customer's usage, compare the ResellerID/ResellerName/ResellerBillableAccount from the reconciliation file, the customer name, and the Subscription ID from Partner Center.</span></span>
 
-I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
+<span data-ttu-id="e7dbd-248">I campi seguenti illustrano quali servizi sono stati usati e la tariffa.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-248">The following fields explain which services were used and the rate.</span></span>
 
 <table>
 <colgroup>
@@ -288,225 +236,440 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Colonna</strong></td>
-<td><strong>Descrizione</strong></td>
-<td><strong>Valore di esempio</strong></td>
+<td><strong><span data-ttu-id="e7dbd-249">Colonna</span><span class="sxs-lookup"><span data-stu-id="e7dbd-249">Column</span></span></strong></td>
+<td><strong><span data-ttu-id="e7dbd-250">Descrizione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-250">Description</span></span></strong></td>
+<td><strong><span data-ttu-id="e7dbd-251">Valore di esempio</span><span class="sxs-lookup"><span data-stu-id="e7dbd-251">Sample value</span></span></strong></td>
 </tr>
 <tr class="even">
-<td>PartnerID</td>
-<td><p>ID del partner, in formato GUID.</p></td>
-<td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
+<td><span data-ttu-id="e7dbd-252">PartnerID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-252">PartnerID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-253">ID del partner, in formato GUID.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-253">Partner ID, in GUID format.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-254">DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</span><span class="sxs-lookup"><span data-stu-id="e7dbd-254">DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</span></span></td>
 </tr>
 <tr class="odd">
-<td>PartnerName</td>
-<td><p>Nome partner.</p></td>
-<td>Acme Incorporated</td>
+<td><span data-ttu-id="e7dbd-255">PartnerName</span><span class="sxs-lookup"><span data-stu-id="e7dbd-255">PartnerName</span></span></td>
+<td><p><span data-ttu-id="e7dbd-256">Nome partner.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-256">Partner Name.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-257">Acme Incorporated</span><span class="sxs-lookup"><span data-stu-id="e7dbd-257">Acme Incorporated</span></span></td>
 </tr>
 <tr class="even">
-<td>PartnerBillableAccountID</td>
-<td><p>ID account partner.</p></td>
-<td>1010578050</td>
+<td><span data-ttu-id="e7dbd-258">PartnerBillableAccountID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-258">PartnerBillableAccountID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-259">ID account partner.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-259">Partner Account ID.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-260">1010578050</span><span class="sxs-lookup"><span data-stu-id="e7dbd-260">1010578050</span></span></td>
 </tr>
 <tr class="odd">
-<td>CustomerName</td>
-<td><p>Nome dell'organizzazione del cliente registrato nel Centro per i partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
-<td>Cliente di prova A</td>
+<td><span data-ttu-id="e7dbd-261">CustomerName</span><span class="sxs-lookup"><span data-stu-id="e7dbd-261">CustomerName</span></span></td>
+<td><p><span data-ttu-id="e7dbd-262">Nome dell'organizzazione del cliente registrato nel Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-262">Customer's organization name as reported in Partner Center.</span></span> <span data-ttu-id="e7dbd-263">Molto importante per la riconciliazione della fattura con le informazioni di sistema.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-263">This is very important for reconciling the invoice with your system information.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-264">Cliente di prova A</span><span class="sxs-lookup"><span data-stu-id="e7dbd-264">Test Customer A</span></span></td>
 </tr>
 <tr class="even">
-<td>MPNID</td>
-<td><p>ID MPN del partner CSP.</p></td>
-<td>4390934</td>
+<td><span data-ttu-id="e7dbd-265">MPNID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-265">MPNID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-266">ID MPN del partner CSP.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-266">MPN ID of the CSP partner.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-267">4390934</span><span class="sxs-lookup"><span data-stu-id="e7dbd-267">4390934</span></span></td>
 </tr>
 <tr class="odd">
-<td>ResellerMPNID</td>
-<td><p>ID MPN del rivenditore nel record per la sottoscrizione. Vedi [Eseguire la scomposizione dei dati in base al partner](#itemizebypartner).</p></td>
-<td>4390934</td>
+<td><span data-ttu-id="e7dbd-268">ResellerMPNID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-268">ResellerMPNID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-269">ID MPN del rivenditore nel record per la sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-269">MPN ID of the reseller of record for the subscription.</span></span> <span data-ttu-id="e7dbd-270">Vedi [Eseguire la scomposizione dei dati in base al partner](#itemizebypartner).</span><span class="sxs-lookup"><span data-stu-id="e7dbd-270">See [Itemize by partner](#itemizebypartner).</span></span></p></td>
+<td><span data-ttu-id="e7dbd-271">4390934</span><span class="sxs-lookup"><span data-stu-id="e7dbd-271">4390934</span></span></td>
 </tr>
 <tr class="even">
-<td>InvoiceNumber</td>
-<td><p>Numero di fattura in cui viene visualizzata la transazione specificata.</p></td>
-<td>D020001IVK</td>
+<td><span data-ttu-id="e7dbd-272">InvoiceNumber</span><span class="sxs-lookup"><span data-stu-id="e7dbd-272">InvoiceNumber</span></span></td>
+<td><p><span data-ttu-id="e7dbd-273">Numero di fattura in cui viene visualizzata la transazione specificata.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-273">Invoice number where the specified transaction appears.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-274">D020001IVK</span><span class="sxs-lookup"><span data-stu-id="e7dbd-274">D020001IVK</span></span></td>
 </tr>
 <tr class="odd">
-<td>ChargeStartDate</td>
-<td><p>Data di inizio del ciclo di fatturazione, ad eccezione di quando sono presenti date riferite a dati di utilizzo latenti non addebitati in precedenza (dal ciclo di fatturazione precedente).</p>
-<p>L'ora indicata è sempre l'inizio della giornata, le 0:00.</p></td>
-<td>2/1/2014 0:00</td>
+<td><span data-ttu-id="e7dbd-275">ChargeStartDate</span><span class="sxs-lookup"><span data-stu-id="e7dbd-275">ChargeStartDate</span></span></td>
+<td><p><span data-ttu-id="e7dbd-276">Data di inizio del ciclo di fatturazione, ad eccezione di quando sono presenti date riferite a dati di utilizzo latenti non addebitati in precedenza (dal ciclo di fatturazione precedente).</span><span class="sxs-lookup"><span data-stu-id="e7dbd-276">Start date of billing cycle except when presenting dates of previously uncharged latent usage data (from previous bill cycle).</span></span></p>
+<p><span data-ttu-id="e7dbd-277">L'ora indicata è sempre l'inizio della giornata, le 0:00.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-277">The time is always the beginning of the day, 0:00.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-278">2/1/2014 0:00</span><span class="sxs-lookup"><span data-stu-id="e7dbd-278">2/1/2014 0:00</span></span></td>
 </tr>
 <tr class="even">
-<td>ChargeEndDate</td>
-<td><p>Data di fine del ciclo di fatturazione, ad eccezione di quando sono presenti date riferite a dati di utilizzo latenti non addebitati in precedenza (dal ciclo di fatturazione precedente).</p>
-<p>L'ora indicata è sempre la fine della giornata, le 23:59.</p></td>
-<td>2/28/2014 23:59</td>
+<td><span data-ttu-id="e7dbd-279">ChargeEndDate</span><span class="sxs-lookup"><span data-stu-id="e7dbd-279">ChargeEndDate</span></span></td>
+<td><p><span data-ttu-id="e7dbd-280">Data di fine del ciclo di fatturazione, ad eccezione di quando sono presenti date riferite a dati di utilizzo latenti non addebitati in precedenza (dal ciclo di fatturazione precedente).</span><span class="sxs-lookup"><span data-stu-id="e7dbd-280">End date of billing cycle except when presenting dates of previously uncharged latent usage data (from previous bill cycle).</span></span></p>
+<p><span data-ttu-id="e7dbd-281">L'ora indicata è sempre la fine della giornata, le 23:59.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-281">The time is always the end of the day, 23:59.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-282">2/28/2014 23:59</span><span class="sxs-lookup"><span data-stu-id="e7dbd-282">2/28/2014 23:59</span></span></td>
 </tr>
 <tr class="odd">
-<td>SubscriptionID</td>
-<td><p>Identificatore univoco di una sottoscrizione nella piattaforma di fatturazione Microsoft. Può essere utile per identificare la sottoscrizione quando viene contattato il supporto tecnico, ma non per la riconciliazione.</p>
-<p>Non corrisponde all'ID sottoscrizione nella console di amministrazione dei partner.</p></td>
-<td>usCBMgAAAAAAAAIA</td>
+<td><span data-ttu-id="e7dbd-283">SubscriptionID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-283">SubscriptionID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-284">Identificatore univoco di una sottoscrizione nella piattaforma di fatturazione Microsoft.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-284">Unique identifier for a subscription in the Microsoft billing platform.</span></span> <span data-ttu-id="e7dbd-285">Può essere utile per identificare la sottoscrizione quando viene contattato il supporto tecnico, ma non per la riconciliazione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-285">May be useful to identify the subscription when contacting support but not for reconciliation.</span></span></p>
+<p><span data-ttu-id="e7dbd-286">Non corrisponde all'ID sottoscrizione nella console di amministrazione dei partner.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-286">This is not the same as the Subscription ID on the Partner Admin Console.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-287">usCBMgAAAAAAAAIA</span><span class="sxs-lookup"><span data-stu-id="e7dbd-287">usCBMgAAAAAAAAIA</span></span></td>
 </tr>
 <tr class="even">
-<td>SubscriptionName</td>
-<td><p>Nome dell'offerta di servizio</p></td>
-<td>Microsoft Azure</td>
+<td><span data-ttu-id="e7dbd-288">SubscriptionName</span><span class="sxs-lookup"><span data-stu-id="e7dbd-288">SubscriptionName</span></span></td>
+<td><p><span data-ttu-id="e7dbd-289">Nome alternativo dell'offerta di servizio.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-289">Nickname of the service offering.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-290">Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="e7dbd-290">Microsoft Azure</span></span></td>
 </tr>
 <tr class="odd">
-<td>SubscriptionDescription</td>
-<td><p>Line-of-business dell'offerta di servizio</p></td>
-<td>Microsoft Azure</td>
+<td><span data-ttu-id="e7dbd-291">SubscriptionDescription</span><span class="sxs-lookup"><span data-stu-id="e7dbd-291">SubscriptionDescription</span></span></td>
+<td><p><span data-ttu-id="e7dbd-292">Line-of-business dell'offerta di servizio</span><span class="sxs-lookup"><span data-stu-id="e7dbd-292">Line of business of the service offering</span></span></p></td>
+<td><span data-ttu-id="e7dbd-293">Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="e7dbd-293">Microsoft Azure</span></span></td>
 </tr>
 <tr class="even">
-<td>OrderID</td>
-<td><p>Identificatore univoco di un ordine nella piattaforma di fatturazione Microsoft. Può essere utile per identificare la sottoscrizione quando viene contattato il supporto tecnico, ma non per la riconciliazione.</p></td>
-<td>566890604832738111</td>
+<td><span data-ttu-id="e7dbd-294">OrderID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-294">OrderID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-295">Identificatore univoco di un ordine nella piattaforma di fatturazione Microsoft.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-295">Unique identifier for an order in the Microsoft billing platform.</span></span> <span data-ttu-id="e7dbd-296">Può essere utile per identificare la sottoscrizione quando viene contattato il supporto tecnico, ma non per la riconciliazione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-296">May be useful to identify the subscription when contacting support but not for reconciliation.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-297">566890604832738111</span><span class="sxs-lookup"><span data-stu-id="e7dbd-297">566890604832738111</span></span></td>
 </tr>
 <tr class="odd">
-<td>ServiceName</td>
-<td><p>Nome del servizio di Azure in questione.</p></td>
-<td>MACCHINE VIRTUALI</td>
+<td><span data-ttu-id="e7dbd-298">ServiceName</span><span class="sxs-lookup"><span data-stu-id="e7dbd-298">ServiceName</span></span></td>
+<td><p><span data-ttu-id="e7dbd-299">Nome del servizio di Azure in questione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-299">The name of the Azure service in question.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-300">MACCHINE VIRTUALI</span><span class="sxs-lookup"><span data-stu-id="e7dbd-300">VIRTUAL MACHINES</span></span></td>
 </tr>
 <tr class="even">
-<td>ServiceType</td>
-<td><p>Tipo specifico di servizio di Microsoft Azure.</p></td>
+<td><span data-ttu-id="e7dbd-301">ServiceType</span><span class="sxs-lookup"><span data-stu-id="e7dbd-301">ServiceType</span></span></td>
+<td><p><span data-ttu-id="e7dbd-302">Tipo specifico di servizio di Microsoft Azure.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-302">The specific type of Windows Azure service.</span></span></p></td>
 <td><ul>
-<li>Service Bus – Individual o Pack</li>
-<li>SQL Azure database – Business o Web Edition</li>
+<li><span data-ttu-id="e7dbd-303">Service Bus – Individual o Pack</span><span class="sxs-lookup"><span data-stu-id="e7dbd-303">Service Bus – Individual or Pack</span></span></li>
+<li><span data-ttu-id="e7dbd-304">SQL Azure database – Business o Web Edition</span><span class="sxs-lookup"><span data-stu-id="e7dbd-304">SQL Azure database – Business or Web Edition</span></span></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>ResourceGUID</td>
-<td><p>Identificatore univoco specifico per l'intera struttura di prezzi e dati di servizio.</p></td>
-<td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
+<td><span data-ttu-id="e7dbd-305">ResourceGUID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-305">ResourceGUID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-306">Identificatore univoco specifico per l'intera struttura di prezzi e dati di servizio.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-306">Specific unique identifier for all the service data and pricing structure.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-307">DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</span><span class="sxs-lookup"><span data-stu-id="e7dbd-307">DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</span></span></td>
 </tr>
 <tr class="even">
-<td>Resource Name</td>
-<td><p>Nome della risorsa Azure.</p></td>
+<td><span data-ttu-id="e7dbd-308">Resource Name</span><span class="sxs-lookup"><span data-stu-id="e7dbd-308">Resource Name</span></span></td>
+<td><p><span data-ttu-id="e7dbd-309">Nome della risorsa Azure.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-309">The name of the Azure resource.</span></span></p></td>
 <td><ul>
-<li>Data Transfer In (GB)</li>
-<li>Data Transfer Out (GB)</li>
+<li><span data-ttu-id="e7dbd-310">Data Transfer In (GB)</span><span class="sxs-lookup"><span data-stu-id="e7dbd-310">Data Transfer In (GB)</span></span></li>
+<li><span data-ttu-id="e7dbd-311">Data Transfer Out (GB)</span><span class="sxs-lookup"><span data-stu-id="e7dbd-311">Data Transfer Out (GB)</span></span></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Region</td>
-<td><p>Area geografica a cui si applica l'uso. Usata principalmente per assegnare le tariffe ai trasferimenti di dati, che variano in base all'area geografica.</p></td>
-<td>Asia Pacifico, Europa, America Latina, America del Nord</td>
+<td><span data-ttu-id="e7dbd-312">Region</span><span class="sxs-lookup"><span data-stu-id="e7dbd-312">Region</span></span></td>
+<td><p><span data-ttu-id="e7dbd-313">Area geografica a cui si applica l'uso.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-313">The region the usage applies to.</span></span> <span data-ttu-id="e7dbd-314">Usata principalmente per assegnare le tariffe ai trasferimenti di dati, che variano in base all'area geografica.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-314">Primarily used to assign rates to data transfers, as rates vary by region.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-315">Asia Pacifico, Europa, America Latina, America del Nord</span><span class="sxs-lookup"><span data-stu-id="e7dbd-315">Asia Pacific, Europe, Latin America, North America</span></span></td>
 </tr>
 <tr class="even">
-<td>SKU</td>
-<td><p>Identificatore univoco MSFT per l'offerta</p></td>
-<td>7UD-00001</td>
+<td><span data-ttu-id="e7dbd-316">SKU</span><span class="sxs-lookup"><span data-stu-id="e7dbd-316">SKU</span></span></td>
+<td><p><span data-ttu-id="e7dbd-317">Identificatore univoco MSFT per l'offerta</span><span class="sxs-lookup"><span data-stu-id="e7dbd-317">MSFT unique identifier for offer</span></span></p></td>
+<td><span data-ttu-id="e7dbd-318">7UD-00001</span><span class="sxs-lookup"><span data-stu-id="e7dbd-318">7UD-00001</span></span></td>
 </tr>
 <tr class="odd">
-<td><p>DetailLineItemId</p></td>
-<td><p>ID e quantità per specificare nel dettaglio le diverse tariffe relative a un servizio o una risorsa in un determinato periodo di fatturazione. Per le tariffe suddivise in livelli di Azure, potrebbe essere applicata una tariffa fino a una determinata quantità di unità fatturabili e una tariffa diversa da lì in poi.</p></td>
-<td>1</td>
+<td><p><span data-ttu-id="e7dbd-319">DetailLineItemId</span><span class="sxs-lookup"><span data-stu-id="e7dbd-319">DetailLineItemId</span></span></p></td>
+<td><p><span data-ttu-id="e7dbd-320">ID e quantità per specificare nel dettaglio le diverse tariffe relative a un servizio o una risorsa in un determinato periodo di fatturazione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-320">An ID and quantity for itemizing the different rates for a service or resource in a given billing period.</span></span> <span data-ttu-id="e7dbd-321">Per le tariffe suddivise in livelli di Azure, potrebbe essere applicata una tariffa fino a una determinata quantità di unità fatturabili e una tariffa diversa da lì in poi.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-321">For Azure tiered rating, there may be one rate up to a certain quantity of billable units, then a different rate after that.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-322">1</span><span class="sxs-lookup"><span data-stu-id="e7dbd-322">1</span></span></td>
 </tr>
 <tr class="even">
-<td>ConsumedQuantity</td>
-<td><p>La quantità di servizio usata (ore, GB e così via) durante il periodo di reporting.</p>
-<p>Include anche gli utilizzi non fatturati relativi a periodi di reporting precedenti.</p></td>
-<td>11</td>
+<td><span data-ttu-id="e7dbd-323">ConsumedQuantity</span><span class="sxs-lookup"><span data-stu-id="e7dbd-323">ConsumedQuantity</span></span></td>
+<td><p><span data-ttu-id="e7dbd-324">La quantità di servizio usata (ore, GB e così via) durante il periodo di reporting.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-324">The amount of service consumed (hours, GB, etc.) during the reporting period.</span></span></p>
+<p><span data-ttu-id="e7dbd-325">Include anche gli utilizzi non fatturati relativi a periodi di reporting precedenti.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-325">Also includes any unbilled usage from previous reporting periods.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-326">11</span><span class="sxs-lookup"><span data-stu-id="e7dbd-326">11</span></span></td>
 </tr>
 <tr class="odd">
-<td>IncludedQuantity</td>
-<td><p>Unità incluse nell'ambito dell'offerta. In genere non presente in CSP.</p></td>
-<td>0</td>
+<td><span data-ttu-id="e7dbd-327">IncludedQuantity</span><span class="sxs-lookup"><span data-stu-id="e7dbd-327">IncludedQuantity</span></span></td>
+<td><p><span data-ttu-id="e7dbd-328">Unità incluse nell'ambito dell'offerta.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-328">Units included as part of the offer.</span></span> <span data-ttu-id="e7dbd-329">In genere non presente in CSP.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-329">Not typically present in CSP.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-330">0</span><span class="sxs-lookup"><span data-stu-id="e7dbd-330">0</span></span></td>
 </tr>
 <tr class="even">
-<td><p>OverageQuantity</p></td>
-<td><p>Unità non incluse nell'ambito dell'offerta, che devono essere corrisposte dal partner.</p>
-<p>Uguale a ConsumedQuantity - IncludedQuantity.</p></td>
-<td>11</td>
+<td><p><span data-ttu-id="e7dbd-331">OverageQuantity</span><span class="sxs-lookup"><span data-stu-id="e7dbd-331">OverageQuantity</span></span></p></td>
+<td><p><span data-ttu-id="e7dbd-332">Unità non incluse nell'ambito dell'offerta, che devono essere corrisposte dal partner.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-332">Units not included as part of the offer, that must be paid for by the partner.</span></span></p>
+<p><span data-ttu-id="e7dbd-333">Uguale a ConsumedQuantity - IncludedQuantity.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-333">Equal to the ConsumedQuantity - IncludedQuantity.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-334">11</span><span class="sxs-lookup"><span data-stu-id="e7dbd-334">11</span></span></td>
 </tr>
 <tr class="odd">
-<td>ListPrice</td>
-<td><p>Prezzo di offerta in vigore alla data di inizio della sottoscrizione.</p></td>
-<td>$0.0808</td>
+<td><span data-ttu-id="e7dbd-335">ListPrice</span><span class="sxs-lookup"><span data-stu-id="e7dbd-335">ListPrice</span></span></td>
+<td><p><span data-ttu-id="e7dbd-336">Prezzo di offerta in vigore alla data di inizio della sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-336">Offer price in effect at subscription start date.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-337">$0.0808</span><span class="sxs-lookup"><span data-stu-id="e7dbd-337">$0.0808</span></span></td>
 </tr>
 <tr class="even">
-<td>PretaxCharges</td>
-<td><p>ListPrice moltiplicato per OverageQuantity, arrotondato al centesimo più vicino.</p></td>
-<td>$0.085</td>
+<td><span data-ttu-id="e7dbd-338">PretaxCharges</span><span class="sxs-lookup"><span data-stu-id="e7dbd-338">PretaxCharges</span></span></td>
+<td><p><span data-ttu-id="e7dbd-339">ListPrice moltiplicato per OverageQuantity, arrotondato al centesimo più vicino.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-339">ListPrist times OverageQuantity, rounded to the nearest cent.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-340">$0.085</span><span class="sxs-lookup"><span data-stu-id="e7dbd-340">$0.085</span></span></td>
 </tr>
 <tr class="odd">
-<td>TaxAmount</td>
-<td><p>Importo totale delle imposte, in base alle leggi vigenti a livello locale e alle circostanze specifiche.</p></td>
-<td>$0.08</td>
+<td><span data-ttu-id="e7dbd-341">TaxAmount</span><span class="sxs-lookup"><span data-stu-id="e7dbd-341">TaxAmount</span></span></td>
+<td><p><span data-ttu-id="e7dbd-342">Importo totale delle imposte, in base alle leggi vigenti a livello locale e alle circostanze specifiche.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-342">Tax amount charge, based on your market's tax rules and specific circumstances.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-343">$0.08</span><span class="sxs-lookup"><span data-stu-id="e7dbd-343">$0.08</span></span></td>
 </tr>
 <tr class="even">
-<td>PostTaxTotal</td>
-<td><p>Totale al netto delle imposte, se le imposte sono applicabili.</p></td>
-<td>$0.93</td>
+<td><span data-ttu-id="e7dbd-344">PostTaxTotal</span><span class="sxs-lookup"><span data-stu-id="e7dbd-344">PostTaxTotal</span></span></td>
+<td><p><span data-ttu-id="e7dbd-345">Totale al netto delle imposte, se le imposte sono applicabili.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-345">Total after tax, when tax is applicable.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-346">$0.93</span><span class="sxs-lookup"><span data-stu-id="e7dbd-346">$0.93</span></span></td>
 </tr>
 <tr class="odd">
-<td>Currency</td>
-<td><p>Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Verifica quando viene emessa la prima fattura e dopo qualsiasi aggiornamento importante della piattaforma di fatturazione.</p></td>
-<td>EUR</td>
+<td><span data-ttu-id="e7dbd-347">Currency</span><span class="sxs-lookup"><span data-stu-id="e7dbd-347">Currency</span></span></td>
+<td><p><span data-ttu-id="e7dbd-348">Tipo di valuta.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-348">Currency type.</span></span> <span data-ttu-id="e7dbd-349">Ogni entità di fatturazione ha una sola valuta.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-349">Each billing entity has only one currency.</span></span> <span data-ttu-id="e7dbd-350">Verifica quando viene emessa la prima fattura e dopo qualsiasi aggiornamento importante della piattaforma di fatturazione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-350">Check that it matches your first invoice and then after any major billing platform update.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-351">EUR</span><span class="sxs-lookup"><span data-stu-id="e7dbd-351">EUR</span></span></td>
 </tr>
 <tr class="even">
-<td>PretaxEffectiveRate</td>
-<td><p>Prezzo unitario prima dell'applicazione delle imposte. Uguale a PretaxCharges / OverageQuantity, arrotondato al centesimo successivo.</p></td>
-<td>$0.08</td>
+<td><span data-ttu-id="e7dbd-352">PretaxEffectiveRate</span><span class="sxs-lookup"><span data-stu-id="e7dbd-352">PretaxEffectiveRate</span></span></td>
+<td><p><span data-ttu-id="e7dbd-353">Prezzo unitario prima dell'applicazione delle imposte.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-353">Pretax price per unit.</span></span> <span data-ttu-id="e7dbd-354">Uguale a PretaxCharges / OverageQuantity, arrotondato al centesimo successivo.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-354">Equal to PretaxCharges / OverageQuantity, rounded to the nearest cent.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-355">$0.08</span><span class="sxs-lookup"><span data-stu-id="e7dbd-355">$0.08</span></span></td>
 </tr>
 <tr class="odd">
-<td>PostTaxEffectiveRate</td>
-<td><p>Prezzo unitario dopo l'applicazione delle imposte. Uguale a PostTaxTotal / OverageQuantity o PretaxEffectiveRate + aliquota d’imposta per unità, arrotondato al centesimo successivo.</p></td>
-<td>$0.08</td>
+<td><span data-ttu-id="e7dbd-356">PostTaxEffectiveRate</span><span class="sxs-lookup"><span data-stu-id="e7dbd-356">PostTaxEffectiveRate</span></span></td>
+<td><p><span data-ttu-id="e7dbd-357">Prezzo unitario dopo l'applicazione delle imposte.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-357">Post tax price per unit.</span></span> <span data-ttu-id="e7dbd-358">Uguale a PostTaxTotal / OverageQuantity o PretaxEffectiveRate + aliquota d’imposta per unità, arrotondato al centesimo successivo.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-358">Equal to PostTaxTotal / OverageQuantity, or PretaxEffectiveRate + tax rate per unit amoun, rounded to the nearest cent.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-359">$0.08</span><span class="sxs-lookup"><span data-stu-id="e7dbd-359">$0.08</span></span></td>
 </tr>
 <tr class="even">
-<td>ChargeType</td>
-<td><p>Descrizione del tipo di articolo</p></td>
-<td>COMMISSIONE DI UTILIZZO PER L'ACCESSO PER IL CICLO CORRENTE</td>
+<td><span data-ttu-id="e7dbd-360">ChargeType</span><span class="sxs-lookup"><span data-stu-id="e7dbd-360">ChargeType</span></span></td>
+<td><p><span data-ttu-id="e7dbd-361">Tipo di addebito o rettifica.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-361">The type of charge or adjustment.</span></span> <span data-ttu-id="e7dbd-362">Vedi <a href="#charge_types">Mapping degli addebiti tra una fattura e il file di riconciliazione</a></span><span class="sxs-lookup"><span data-stu-id="e7dbd-362">See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></span></span></p></td>
+<td><p><span data-ttu-id="e7dbd-363">Vedi <a href="#charge_types">Mapping degli addebiti tra una fattura e il file di riconciliazione</a></span><span class="sxs-lookup"><span data-stu-id="e7dbd-363">See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></span></span></p></td>
 </tr>
 <tr class="odd">
-<td>CustomerBillableAccount</td>
-<td><p>ID account univoco nella piattaforma di fatturazione MSFT.</p></td>
-<td>1280018095</td>
+<td><span data-ttu-id="e7dbd-364">CustomerBillableAccount</span><span class="sxs-lookup"><span data-stu-id="e7dbd-364">CustomerBillableAccount</span></span></td>
+<td><p><span data-ttu-id="e7dbd-365">ID account univoco nella piattaforma di fatturazione MSFT.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-365">Unique account ID in the MSFT billing platform.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-366">1280018095</span><span class="sxs-lookup"><span data-stu-id="e7dbd-366">1280018095</span></span></td>
 </tr>
 <tr class="even">
-<td>UsageDate</td>
-<td><p>Data di distribuzione del servizio.</p></td>
-<td>2/1/2014 0:00</td>
+<td><span data-ttu-id="e7dbd-367">UsageDate</span><span class="sxs-lookup"><span data-stu-id="e7dbd-367">UsageDate</span></span></td>
+<td><p><span data-ttu-id="e7dbd-368">Data di distribuzione del servizio.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-368">Date of service deployment.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-369">2/1/2014 0:00</span><span class="sxs-lookup"><span data-stu-id="e7dbd-369">2/1/2014 0:00</span></span></td>
 </tr>
 <tr class="odd">
-<td>MeteredRegion</td>
-<td><p>Questa colonna identifica la posizione del data center nell'area geografica dei servizi dove applicabile e popolato.</p></td>
-<td>East Asia, South East Asia, North Europe, West Europe, North Central US, South Central US</td>
+<td><span data-ttu-id="e7dbd-370">MeteredRegion</span><span class="sxs-lookup"><span data-stu-id="e7dbd-370">MeteredRegion</span></span></td>
+<td><p><span data-ttu-id="e7dbd-371">Questa colonna identifica la posizione del data center nell'area geografica dei servizi dove applicabile e popolato.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-371">This column identifies the location of a data center within the region for services where this is applicable and populated.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-372">East Asia, South East Asia, North Europe, West Europe, North Central US, South Central US</span><span class="sxs-lookup"><span data-stu-id="e7dbd-372">East Asia, South East Asia, North Europe, West Europe, North Central US, South Central US</span></span></td>
 </tr>
 <tr class="even">
-<td>MeteredService</td>
-<td><p>Questa colonna viene usata per tenere traccia del servizio Microsoft Azure singolo che può non essere identificato in modo specifico nella colonna Service Name. I trasferimenti di dati sono ad esempio indicati come &quot;Microsoft Azure - All Services&quot; nella colonna Service Name. La colonna MeteredService indica a quale servizio specifico si riferisce l'utilizzo.</p></td>
-<td>AccessControl, CDN, Compute, Database, ServiceBus, Storage</td>
+<td><span data-ttu-id="e7dbd-373">MeteredService</span><span class="sxs-lookup"><span data-stu-id="e7dbd-373">MeteredService</span></span></td>
+<td><p><span data-ttu-id="e7dbd-374">Questa colonna viene usata per tenere traccia del servizio Microsoft Azure singolo che può non essere identificato in modo specifico nella colonna Service Name.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-374">This column is utilized to track the individual Microsoft Azure service that may not be specifically identified in the Service Name column.</span></span> <span data-ttu-id="e7dbd-375">I trasferimenti di dati sono ad esempio indicati come &quot;Microsoft Azure - All Services&quot; nella colonna Service Name.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-375">For example, data transfers are reported as &quot;Microsoft Azure - All Services&quot; in the Service Name column.</span></span> <span data-ttu-id="e7dbd-376">La colonna MeteredService indica a quale servizio specifico si riferisce l'utilizzo.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-376">This MeteredService column will indicate to which specific service the usage pertains.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-377">AccessControl, CDN, Compute, Database, ServiceBus, Storage</span><span class="sxs-lookup"><span data-stu-id="e7dbd-377">AccessControl, CDN, Compute, Database, ServiceBus, Storage</span></span></td>
 </tr>
 <tr class="odd">
-<td>MeteredServiceType</td>
-<td><p>Un sottotitolo che definisce ulteriormente il singolo servizio Microsoft Azure oltre il livello specificato dal campo MeteredService.</p></td>
-<td>EXTERNAL</td>
+<td><span data-ttu-id="e7dbd-378">MeteredServiceType</span><span class="sxs-lookup"><span data-stu-id="e7dbd-378">MeteredServiceType</span></span></td>
+<td><p><span data-ttu-id="e7dbd-379">Un sottotitolo che definisce ulteriormente il singolo servizio Microsoft Azure oltre il livello specificato dal campo MeteredService.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-379">A subheading that further clarifies the individual Microsoft Azure service beyond the level provided by the MeteredService field.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-380">EXTERNAL</span><span class="sxs-lookup"><span data-stu-id="e7dbd-380">EXTERNAL</span></span></td>
 </tr>
 <tr class="even">
-<td>Project</td>
-<td><p>Nome definito dal cliente per l'istanza del servizio</p></td>
-<td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
+<td><span data-ttu-id="e7dbd-381">Project</span><span class="sxs-lookup"><span data-stu-id="e7dbd-381">Project</span></span></td>
+<td><p><span data-ttu-id="e7dbd-382">Nome definito dal cliente per l'istanza del servizio</span><span class="sxs-lookup"><span data-stu-id="e7dbd-382">Customer-defined name for their service instance</span></span></p></td>
+<td><span data-ttu-id="e7dbd-383">ORDDC52E52FDEF405786F0642DD0108BE4</span><span class="sxs-lookup"><span data-stu-id="e7dbd-383">ORDDC52E52FDEF405786F0642DD0108BE4</span></span></td>
 </tr>
 <tr class="odd">
-<td>ServiceInfo</td>
-<td><p>Numero di connessioni ServiceBus di cui è stato eseguito il provisioning e usate in un determinato giorno.</p></td>
-<td>Ad esempio, con una connessione fornita a livello singolo per un periodo di un mese di 30 giorni, Service Info 1 è "1.000000 Connections / 30 days". Se hai un pacchetto da 25 connessioni ServiceBus e ne hai utilizzata 1 per quel giorno, l'uso giornaliero registrato sarà "25 Connections / 30 Days – Used: 1.000000".</td>
+<td><span data-ttu-id="e7dbd-384">ServiceInfo</span><span class="sxs-lookup"><span data-stu-id="e7dbd-384">ServiceInfo</span></span></td>
+<td><p><span data-ttu-id="e7dbd-385">Numero di connessioni ServiceBus di cui è stato eseguito il provisioning e usate in un determinato giorno.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-385">The number of ServiceBus connections that were provisioned and utilized on a given day.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-386">Ad esempio, con una connessione fornita a livello singolo per un periodo di un mese di 30 giorni, Service Info 1 è "1.000000 Connections / 30 days".</span><span class="sxs-lookup"><span data-stu-id="e7dbd-386">For example: if you had an individually provisioned connection during a 30 day month, Service Info 1 would read “1.000000 Connections / 30 days”.</span></span> <span data-ttu-id="e7dbd-387">Se hai un pacchetto da 25 connessioni ServiceBus e ne hai utilizzata 1 per quel giorno, l'uso giornaliero registrato sarà "25 Connections / 30 Days – Used: 1.000000".</span><span class="sxs-lookup"><span data-stu-id="e7dbd-387">If you had a 25 pack of ServiceBus connections provisioned and you had utilized 1 during that day, your daily usage statement for that day would indicate “25 Connections / 30 Days – Used: 1.000000”.</span></span></td>
 </tr>
+<tr class="even">
+<td><span data-ttu-id="e7dbd-388">CustomerID</span><span class="sxs-lookup"><span data-stu-id="e7dbd-388">CustomerID</span></span></td>
+<td><p><span data-ttu-id="e7dbd-389">ID Microsoft univoco, in formato GUID, usato per identificare il cliente.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-389">Unique Microsoft ID, in GUID format, used to identify the customer.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-390">ORDDC52E52FDEF405786F0642DD0108BE4</span><span class="sxs-lookup"><span data-stu-id="e7dbd-390">ORDDC52E52FDEF405786F0642DD0108BE4</span></span></td>
+</tr>
+<tr class="odd">
+<td><span data-ttu-id="e7dbd-391">DomainName</span><span class="sxs-lookup"><span data-stu-id="e7dbd-391">DomainName</span></span></td>
+<td><p><span data-ttu-id="e7dbd-392">Nome di dominio del cliente, usato per identificare il cliente.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-392">Customer's domain name, used to help identify the customer.</span></span></p></td>
+<td><span data-ttu-id="e7dbd-393">example.onmicrosoft.com</span><span class="sxs-lookup"><span data-stu-id="e7dbd-393">example.onmicrosoft.com</span></span></td></tr>
 </tbody>
 </table>
 
- 
-
- 
-
- 
 
 
+## <span data-ttu-id="e7dbd-394"><a href="" id="charge_types"></a>Mapping degli addebiti tra una fattura e il file di riconciliazione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-394"><a href="" id="charge_types"></a>Mapping charges between an invoice and the reconciliation file</span></span>
+
+<span data-ttu-id="e7dbd-395">La fattura fornisce un riepilogo degli addebiti, mentre il file di riconciliazione fornisce una descrizione dettagliata delle transazioni di voce, inclusi i tipi di addebito.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-395">Your invoice provides a summary of charges, while your reconciliation file provides a detailed breakdown of line-item transactions, including charge types.</span></span>
+
+<span data-ttu-id="e7dbd-396">Per effettuare il riferimento incrociato degli importi di addebito tra la fattura e il file di riconciliazione, puoi utilizzare le opzioni di filtro di Microsoft Excel per filtrare per tipi di addebito nel file di riconciliazione per eseguire il mapping degli addebiti in fattura a un set di suddivisioni dettagliate nel file di riconciliazione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-396">To cross-reference charge amounts between the invoice and reconciliation file, you can use Microsoft Excel's filter options to filter by charge types on the reconciliation file to map the invoice charges to a set of charge breakdowns on reconciliation file.</span></span>
+
+<span data-ttu-id="e7dbd-397">Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e i tipi di addebito associati che possono apparire nei file di riconciliazione.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-397">The table below shows the mappings between an invoice section and associated charge types that might show up on the reconciliation files.</span></span> 
+
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong><span data-ttu-id="e7dbd-398">Descrizione dell'addebito in fattura</span><span class="sxs-lookup"><span data-stu-id="e7dbd-398">Invoice charge description</span></span></strong></p>
+</td>
+<td>
+<p><strong><span data-ttu-id="e7dbd-399">Descrizione dell'addebito nel file di riconciliazione (colonna ChargeType)</span><span class="sxs-lookup"><span data-stu-id="e7dbd-399">Reconciliation file charge description (ChargeType column)</span></span></strong></p>
+</td>
+<td>
+<p><strong><span data-ttu-id="e7dbd-400">Descrizione dell'addebito</span><span class="sxs-lookup"><span data-stu-id="e7dbd-400">What is this charge?</span></span></strong></p>
+</td>
+<td>
+<p><strong><span data-ttu-id="e7dbd-401">Modalità di mapping di questi tipi di addebito alla fattura</span><span class="sxs-lookup"><span data-stu-id="e7dbd-401">How do I map these ChargeTypes to the invoice?</span></span></strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p><strong><span data-ttu-id="e7dbd-402">Addebiti periodici</span><span class="sxs-lookup"><span data-stu-id="e7dbd-402">Recurring Charges</span></span></strong></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-403">Istanza di annullamento rateizzata</span><span class="sxs-lookup"><span data-stu-id="e7dbd-403">Cancel instance prorate</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-404">Addebiti rateizzati rimborsati al cliente in caso di modifica delle postazioni associate</span><span class="sxs-lookup"><span data-stu-id="e7dbd-404">Prorated charges refunded to the customer when associated seats are changed</span></span></p>
+</td>
+<td rowspan="8">
+<p><span data-ttu-id="e7dbd-405">Dal file in base alle licenze, somma la colonna <strong>Amount</strong></span><span class="sxs-lookup"><span data-stu-id="e7dbd-405">From license-based file, sum the <strong>Amount</strong> column</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="e7dbd-406">Tariffa periodica</span><span class="sxs-lookup"><span data-stu-id="e7dbd-406">Cycle fee</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-407">Addebiti periodici per una sottoscrizione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-407">Periodic charges for a subscription</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="e7dbd-408">Istanza del ciclo rateizzata</span><span class="sxs-lookup"><span data-stu-id="e7dbd-408">Cycle instance prorate</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-409">Tariffe rateizzate calcolate dal cliente in caso di modifica delle postazioni associate</span><span class="sxs-lookup"><span data-stu-id="e7dbd-409">Prorated charges assessed from the customer when associated seats are changed</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="e7dbd-410">Rateizza le tariffe in caso di annullamento</span><span class="sxs-lookup"><span data-stu-id="e7dbd-410">Prorate fees when cancel</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-411">Rimborso rateizzato per servizio parzialmente inutilizzato all'annullamento</span><span class="sxs-lookup"><span data-stu-id="e7dbd-411">Prorated refund for unused portion of service upon cancellation</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="e7dbd-412">Rateizza le tariffe all'acquisto</span><span class="sxs-lookup"><span data-stu-id="e7dbd-412">Prorate fees when purchase</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-413">Tariffe rateizzate all'acquisto</span><span class="sxs-lookup"><span data-stu-id="e7dbd-413">Prorated fees upon purchase</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="e7dbd-414">Tariffa di acquisto</span><span class="sxs-lookup"><span data-stu-id="e7dbd-414">Purchase fee</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-415">Addebito iniziale per una sottoscrizione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-415">Initial charge for a subscription</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="e7dbd-416">Rateizza la tariffa al rinnovo</span><span class="sxs-lookup"><span data-stu-id="e7dbd-416">Prorate fee when renew</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-417">Tariffe rateizzate al rinnovo della sottoscrizione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-417">Prorated fees upon subscription renewal</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="e7dbd-418">Tariffa di rinnovo</span><span class="sxs-lookup"><span data-stu-id="e7dbd-418">Renew fee</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-419">Addebito per il rinnovo di una sottoscrizione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-419">Charge for renewing a subscription</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><span data-ttu-id="e7dbd-420">Altri prodotti e servizi</span><span class="sxs-lookup"><span data-stu-id="e7dbd-420">Other Products and Services</span></span></strong></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-421">Rateizza le tariffe all'attivazione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-421">Prorate fees when activate</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-422">Tariffe rateizzate dall'attivazione fino alla fine del periodo di fatturazione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-422">Prorated fees from activation until end of billing period</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-423">Dal file in base alle licenze, somma la colonna <strong>Amount</strong></span><span class="sxs-lookup"><span data-stu-id="e7dbd-423">From license-based file, sum the <strong>Amount</strong> column</span></span></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><strong><span data-ttu-id="e7dbd-424">Costi di utilizzo</span><span class="sxs-lookup"><span data-stu-id="e7dbd-424">Usage Charges</span></span></strong></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-425">Valuta la tariffa di utilizzo all'annullamento</span><span class="sxs-lookup"><span data-stu-id="e7dbd-425">Assess usage fee when cancel</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-426">Tariffa di utilizzo per l'accesso all'annullamento per utilizzo non pagato durante il periodo di fatturazione corrente</span><span class="sxs-lookup"><span data-stu-id="e7dbd-426">Access usage fee upon cancellation for unpaid usage during the current billing period</span></span></p>
+</td>
+<td rowspan="2">
+<p><span data-ttu-id="e7dbd-427">Dal file in base all'uso, somma la colonna <strong>PretaxCharges</strong></span><span class="sxs-lookup"><span data-stu-id="e7dbd-427">From usage-based file, sum the <strong>PretaxCharges</strong> column</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="e7dbd-428">Valuta la tariffa di utilizzo per il ciclo corrente</span><span class="sxs-lookup"><span data-stu-id="e7dbd-428">Assess usage fee for current cycle</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-429">Tariffa di utilizzo per l'accesso per il periodo di fatturazione corrente</span><span class="sxs-lookup"><span data-stu-id="e7dbd-429">Access usage fee for the current billing period</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><span data-ttu-id="e7dbd-430">Crediti e rettifiche</span><span class="sxs-lookup"><span data-stu-id="e7dbd-430">Credits &amp; Adjustments</span></span></strong></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-431">Compensa una voce</span><span class="sxs-lookup"><span data-stu-id="e7dbd-431">Offset a line item</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-432">Rimborso parziale o totale per una voce, comprese le imposte</span><span class="sxs-lookup"><span data-stu-id="e7dbd-432">Partial or whole refund to a line item, including taxes</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-433">Dal file in base alle licenze, somma la colonna <strong>TotalForCustomer</strong></span><span class="sxs-lookup"><span data-stu-id="e7dbd-433">From license-based file, sum the <strong>TotalForCustomer</strong> column</span></span></p>
+<p><span data-ttu-id="e7dbd-434">Dal file in base all'uso, somma la colonna <strong>PostTaxTotal</strong></span><span class="sxs-lookup"><span data-stu-id="e7dbd-434">From usage-based file, sum the <strong>PostTaxTotal</strong> column</span></span></p>
+</td>
+</tr>
 
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+<tr>
+<td rowspan="4">
+<p><strong><span data-ttu-id="e7dbd-435">Altri sconti</span><span class="sxs-lookup"><span data-stu-id="e7dbd-435">Other Discounts</span></span></strong></br>
+<em><span data-ttu-id="e7dbd-436">(in base all'uso)</span><span class="sxs-lookup"><span data-stu-id="e7dbd-436">(usage-based)</span></span></em></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-437">Sconto attivazione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-437">Activation discount</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-438">Sconto applicato all'attivazione della sottoscrizione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-438">Discount applied when subscription activated</span></span></p>
+</td>
+<td rowspan="4">
+<p><span data-ttu-id="e7dbd-439">Dal file in base all'uso, somma la colonna <strong>PretaxCharges</strong></span><span class="sxs-lookup"><span data-stu-id="e7dbd-439">From usage-based file, sum the <strong>PretaxCharges</strong> column</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="e7dbd-440">Sconto ciclo</span><span class="sxs-lookup"><span data-stu-id="e7dbd-440">Cycle discount</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-441">Sconto applicato su addebiti periodici</span><span class="sxs-lookup"><span data-stu-id="e7dbd-441">Discount applied on periodic charges</span></span></p>
+</td>
+</tr><tr>
+<td>
+<p><span data-ttu-id="e7dbd-442">Sconto rinnovo</span><span class="sxs-lookup"><span data-stu-id="e7dbd-442">Renew discount</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-443">Sconto applicato al rinnovo della sottoscrizione</span><span class="sxs-lookup"><span data-stu-id="e7dbd-443">Discount applied when subscription renewed</span></span></p>
+</td>
+</tr><tr>
+<td>
+<p><span data-ttu-id="e7dbd-444">Annulla sconto</span><span class="sxs-lookup"><span data-stu-id="e7dbd-444">Cancel discount</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-445">Addebiti applicati all'annullamento degli sconti</span><span class="sxs-lookup"><span data-stu-id="e7dbd-445">Charges applied when discounts cancelled</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><span data-ttu-id="e7dbd-446">Altri sconti</span><span class="sxs-lookup"><span data-stu-id="e7dbd-446">Other Discounts</span></span></strong></br>
+<em><span data-ttu-id="e7dbd-447">(in base alle licenze)</span><span class="sxs-lookup"><span data-stu-id="e7dbd-447">(license-based)</span></span></em></p>
+</td>
+<td>
+<p><em><span data-ttu-id="e7dbd-448">Possono essere applicati a più tipi di addebito</span><span class="sxs-lookup"><span data-stu-id="e7dbd-448">May be applied to multiple charge types</span></span></em></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-449">Dal file in base alle licenze, somma la colonna <strong>TotalOtherDiscount</strong></span><span class="sxs-lookup"><span data-stu-id="e7dbd-449">From license-based file, sum the <strong>TotalOtherDiscount</strong> column</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="e7dbd-450"><strong>Imposte</strong>&nbsp;o&nbsp;<strong>IVA</strong></span><span class="sxs-lookup"><span data-stu-id="e7dbd-450"><strong>Taxes</strong>&nbsp;or&nbsp;<strong>VAT</strong></span></span></p>
+</td>
+<td>
+<p><em><span data-ttu-id="e7dbd-451">Possono essere applicate a più tipi di addebito</span><span class="sxs-lookup"><span data-stu-id="e7dbd-451">May be applied to multiple charge types</span></span></em></p>
+<p><em><span data-ttu-id="e7dbd-452">Eccezione: "Compensa una voce" include già le imposte.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-452">Exception: "Offset a line item" already includes taxes.</span></span> <span data-ttu-id="e7dbd-453">Vedi Crediti e rettifiche, sopra.</span><span class="sxs-lookup"><span data-stu-id="e7dbd-453">See Credits &amp; Adjustments, above.</span></span></em></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-454">Imposte o imposte sul valore aggiunto (IVA)</span><span class="sxs-lookup"><span data-stu-id="e7dbd-454">Taxes or value-added taxes (VAT)</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="e7dbd-455">Dal file in base alle licenze, somma la colonna <strong>Tax</strong></span><span class="sxs-lookup"><span data-stu-id="e7dbd-455">From license-based file, sum the <strong>Tax</strong> column</span></span></p>
+<p><span data-ttu-id="e7dbd-456">Dal file in base all'uso, somma la colonna <strong>TaxAmount</strong></span><span class="sxs-lookup"><span data-stu-id="e7dbd-456">From usage-based file, sum the <strong>TaxAmount</strong> column</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

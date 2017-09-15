@@ -1,113 +1,99 @@
 ---
-title: Gestire i vantaggi del Microsoft Partner Network | Centro per i partner
-description: "In qualità di membro del Microsoft Partner Network, hai diritto ad alcuni vantaggi. Illustra come attivare e gestire i vantaggi dell&quot;adesione nel Centro per i partner."
+title: Manage your Microsoft Partner Network benefits | Partner Center
+description: As a Microsoft Partner Network member, you're entitled to certain membership benefits. Explains how to activate and manage your membership benefits on Partner Center.
 author: MaggiePucciEvans
-ms.openlocfilehash: b462d5326d22a403ba250b34097679280d7f67cb
-ms.sourcegitcommit: e402720a8b5f734e9f7ffd16f17983157c78e16f
+ms.openlocfilehash: c74c00c06c02be98cd07ea639d38526f534f629c
+ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
 ms.translationtype: HT
 ms.contentlocale: it-IT
+ms.lasthandoff: 07/08/2017
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gestire i vantaggi dell'adesione al Microsoft Partner Network
+# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Manage your Microsoft Partner Network membership benefits
 
-**Si applica a**
+**Applies to**
 
--  Centro per i partner
+-  Partner Center
 
 L'adesione al Microsoft Partner Network dà diritto ad alcuni vantaggi. Prima di poter acquistare e attivare i vantaggi, l'organizzazione deve entrare a far parte del Microsoft Partner Network. Se non sei un membro della rete, puoi iscriverti all'indirizzo [https://partner.microsoft.com](https://partner.microsoft.com).
 
->**Nota** Questo collegamento ti condurrà a un altro sito Web. Torna a questo sito, il Centro per i partner, per rinnovare e aggiornare l'adesione alla rete.
+>**Nota** Questo collegamento ti condurrà a un altro sito Web. Return to this site, Partner Center, to renew and upgrade your network membership.
 
-Dopo l'adesione o il rinnovo dell'adesione al Microsoft Partner Network, puoi aggiornarla e acquistare vantaggi, tra cui Microsoft Action Pack.
-
-
-## <a name="manage-your-microsoft-action-pack-subscription-benefits"></a>Gestire i vantaggi dell'abbonamento a Microsoft Action Pack
-
-Action Pack è un conveniente abbonamento annuale a servizi, software e supporto per le aziende che desiderano incrementare la vendita delle soluzioni Microsoft in un mondo sempre più incentrato sui dispositivi mobili e sul cloud.
-
-Dopo avere acquistato un abbonamento ad Action Pack, attivalo e inizia a usare i componenti del vantaggio, tra cui:
-
-- Strumenti di sviluppo di prim'ordine per creare applicazioni e soluzioni per i tuoi clienti su iOS, Android, Linux e Windows
-
-- Dieci licenze Windows 10 Enterprise (aggiornamento), tre licenze Visual Studio Professional e un account di Visual Studio Team Services gratuito 
-
-- Fino a dieci postazioni di Office 365 (E3) e cinque postazioni di Enterprise Mobility Suite e Microsoft Dynamics CRM Online Professional2 
-
-- 100 dollari di crediti Microsoft Azure al mese
-
-Visita [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack) per altre informazioni su Microsoft Action Pack.
-
->**Nota** Questo collegamento ti condurrà a un altro sito Web. Torna a questo sito, il Centro per i partner, per attivare i vantaggi dell'abbonamento ad Action Pack. 
+Dopo l'adesione o il rinnovo dell'adesione al Microsoft Partner Network, puoi acquistare le offerte relative ai vantaggi.
 
 
-### <a name="activate-your-action-pack-subscription-benefits"></a>Attivare i vantaggi dell'abbonamento ad Action Pack
+## <a name="manage-your-membership-benefits"></a>Gestire i vantaggi dell'adesione
 
-L'abbonamento ad Action Pack include le allocazioni delle licenze software con diritti di uso interno, i servizi cloud, le sottoscrizioni di Visual Studio e il supporto. Vedi le Condizioni relative ai diritti di uso interno concessi dal Microsoft Partner Network.
+Dopo avere acquistato un pacchetto di vantaggi, assegna licenze, sottoscrizioni e altri vantaggi ai dipendenti per iniziare a usarli. 
 
+I pacchetti di vantaggi includono le allocazioni delle licenze software con diritti di uso interno, i servizi cloud, le sottoscrizioni di Visual Studio e il supporto. 
+
+Per visualizzare e gestire tutti i vantaggi dell'adesione che hai ricevuto, vai al menu **Dashboard**, quindi seleziona **Partnership > Vantaggi**. Verrà visualizzata la pagina **Vantaggi**. 
 
 #### <a name="manage-software-benefits"></a>Gestire i vantaggi software
 
-1. Seleziona **Partnership > Benefits** dal menu **Dashboard**.
+1.  Seleziona **Software** per visualizzare l'elenco dei vantaggi software. 
 
-2. Seleziona **Software** per visualizzare l'elenco dei vantaggi software inclusi in Action Pack e quindi seleziona il prodotto da installare. 
+2.  Individua il prodotto che desideri iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli del prodotto. 
 
 3. Per ogni prodotto software che intendi iniziare a usare:
 
     a. Seleziona **Get keys** per visualizzare i codici di licenza del prodotto. Assicurati di seguire eventuali istruzioni speciali.
 
-    b. Seleziona la lingua in cui verrà visualizzato il prodotto.
+    b. Select the language you want the product to be displayed in.
 
-    c. Seleziona il tipo di sistema operativo (SO) dei computer in cui verrà installato il software.
+    c. Select the operating system (OS) type of the computers you plan to install the software on.
 
-    d. Segui i collegamenti per scaricare e installare i pacchetti di installazione del software.
+    d. Follow the links to download and install the software installation packages.
 
-   
+
 #### <a name="manage-cloud-services-benefits"></a>Gestire i vantaggi dei servizi cloud
 
-1. Seleziona **Partnership > Benefits** dal menu **Dashboard**.
+1. Seleziona **Cloud** per visualizzare l'elenco delle sottoscrizioni ai servizi basati sul cloud.
 
-2. Seleziona **Cloud** per visualizzare l'elenco delle sottoscrizioni ai servizi basati sul cloud inclusi in Action Pack.
+2. Individua la sottoscrizione o il prodotto che desideri iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli del prodotto o della sottoscrizione. 
 
-3. Seleziona la sottoscrizione da attivare. 
-
-    Per attivare la sottoscrizione in base all'uso di Microsoft Azure, assegna te stesso come utente. Vai al portale di Microsoft Azure per gestire la sottoscrizione.
+3. Per attivare le sottoscrizioni in base all'uso di Microsoft Azure, assegna te stesso come utente. Vai al portale di Microsoft Azure per gestire la sottoscrizione.
 
     Per attivare le sottoscrizioni in base alle licenze, seleziona **Get keys** per copiare i codici di licenza del prodotto, quindi segui le eventuali istruzioni speciali per attivare la sottoscrizione.  
 
 
 #### <a name="manage-visual-studio-subscriptions"></a>Gestire le sottoscrizioni di Visual Studio
 
-1. Seleziona **Partnership > Benefits** dal menu **Dashboard**.
+1. Seleziona **Sottoscrizioni di Visual Studio** per visualizzare l'elenco delle sottoscrizioni di Visual Studio. 
 
-2. Seleziona **Sottoscrizioni di Visual Studio**. Per attivare una sottoscrizione di Visual Studio, seleziona un utente dall'elenco e quindi seleziona **Assegna utente**. 
+2. Individua la sottoscrizione che desideri iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli della sottoscrizione. 
+
+3. Per attivare una sottoscrizione di Visual Studio, seleziona un utente dall'elenco e quindi seleziona **Assegna utente**. 
 
     >**Importante**<br>
 Se l'utente da assegnare non è nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
 
-3. Ripeti questa procedura per ogni sottoscrizione da assegnare. Gli utenti possono gestire le proprie sottoscrizioni nel portale di Visual Studio. 
+3. Ripeti questa procedura per ogni sottoscrizione da assegnare. Users can manage their subscriptions in the Visual Studio portal. 
 
-    Le sottoscrizioni possono essere riassegnate in qualsiasi momento rimuovendo un utente assegnato e assegnando un altro utente. 
+    You can reassign subscriptions any time by removing an assigned user and then assigning a different user. 
 
 
 #### <a name="manage-support-benefits"></a>Gestire i vantaggi del supporto
 
-1. Seleziona **Partnership > Benefits** dal menu **Dashboard**.
+1. Seleziona **Supporto** per visualizzare l'elenco dei vantaggi relativi al supporto tecnico Microsoft. 
 
-2. Seleziona **Supporto**. Per attivare il vantaggio del supporto, assegna un utente a tale vantaggio. 
+2. Individua il vantaggio relativo al supporto che desideri iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli del vantaggio. 
+
+3. Per attivare il vantaggio del supporto, assegna un utente a tale vantaggio. 
    
     a.  Seleziona un utente dall'elenco. Se l'utente da assegnare non è nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
 
     b.  Fornisci un indirizzo di posta elettronica dell'utente diverso da quello associato all'account del Centro per i partner. 
     
-    Come misura di sicurezza, invieremo le istruzioni per accedere al Supporto Tecnico Clienti Microsoft a questo indirizzo di posta elettronica oltre che a quello dell'account del Centro per i partner dell'utente. Tieni presente che l'attivazione di questo vantaggio e l'invio delle istruzioni tramite posta elettronica all'utente assegnato possono richiedere diversi giorni.    
+    As a safeguard, we'll email instructions for accessing Microsoft Product Support to this email address in addition to the user's Partner Center account email. Note that it can take several days to activate this benefit and email instructions to the assigned user.    
     
     c.  Dopo avere immesso l'indirizzo di posta elettronica alternativo, seleziona **Assegna utente**. 
 
 
-#### <a name="related-topics"></a>Argomenti correlati
-
-[Gestire l'adesione alla rete di partner](manage-your-partner-network-membership.md)
-
-[Acquistare i vantaggi dell'adesione](upgrade-your-partner-network-membership.md)
+#### <a name="see-also"></a>Vedi anche
 
 [Aggiungere utenti e assegnare le autorizzazioni](create-user-accounts-and-set-permissions.md)
+
+[Acquistare o rinnovare una sottoscrizione di Microsoft Action Pack](mpn-get-action-pack.md)
+
 

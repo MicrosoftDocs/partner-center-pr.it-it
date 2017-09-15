@@ -1,62 +1,64 @@
 ---
-title: "Competenza di produttività cloud"
-description: "La competenza di produttività cloud è per i partner specializzati nelle distribuzioni aziendali di Office 365. Differenzia l'azienda con questa competenza come Cloud Solution Provider comprovato per i clienti alla ricerca di partner di soluzioni cloud qualificate."
+title: Cloud Productivity Competency
+description: The Cloud Productivity competency is for partners who specialize in enterprise deployments of Office 365. Differentiate your company with this competency as a proven cloud solution provider for customers searching for qualified cloud solution partners.
 author: Daniel Simpson
-keywords: "competenza, competenze, produttività cloud"
-robots: noindex,nofollow
-ms.openlocfilehash: 2b52e2814f2f382a24428b13694e6be72c9ec618
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency, competencies, Cloud Productivity
+ms.openlocfilehash: b9616b455fae524af82ce0880b99bcdde5816fa7
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="cloud-productivity-competency"></a>Competenza di produttività cloud
+# <a name="cloud-productivity-competency"></a>Cloud Productivity competency
 
-La competenza di produttività cloud è per i partner specializzati nelle distribuzioni aziendali di Office 365. Differenzia l'azienda con questa competenza come Cloud Solution Provider comprovato per i clienti alla ricerca di partner di soluzioni cloud qualificate.
+The Cloud Productivity competency is for partners who specialize in enterprise deployments of Office 365. Differentiate your company with this competency as a proven cloud solution provider for customers searching for qualified cloud solution partners.
 
-## <a name="managed-service-partner-option"></a>Opzione di partner dei servizi gestiti
-L'opzione di partner dei servizi gestiti è ideale per i partner che gestiscono gli ambienti di Office 365 per i loro clienti, oltre a fornire servizi di distribuzione. Completa tutti i passaggi all'interno dell'opzione per raggiungere la competenza di produttività cloud.
+## <a name="managed-service-partner-option"></a>Managed Service Partner option
+The Managed Service Partner option is ideal for partners who manage Office 365 environments for their customer as well as provide deployment services. Complete all the steps within the option to attain the Cloud Productivity competency.
 ### <a name="silver"></a>Silver
-1.  L'organizzazione deve soddisfare le soglie delle prestazioni:
-    - **Mercati sviluppati**: i partner devono aver distribuito 2.000 diritti attivi (utenti attivi)
-    - **Mercati in sviluppo**: i partner devono aver distribuito 1.000 diritti attivi (utenti attivi)
-    - Le distribuzioni possono essere qualsiasi carico di lavoro di Microsoft Office 365 (Exchange Online, SharePoint Online, Skype for Business o Yammer) oppure ProPlus. Le SKU di prova non sono incluse.     
+1.  Your organization must meet the performance thresholds:
+    - **Mercati sviluppati** 
+        - I partner devono aver distribuito 2.000 diritti attivi (utenti attivi)
+    - **Mercati in sviluppo**
+        -  I partner devono aver distribuito 1.000 diritti attivi (utenti attivi)
+    
+    - Le distribuzioni possono essere qualsiasi carico di lavoro di Microsoft Office 365 (Exchange Online, SharePoint Online, Skype for Business o Yammer) oppure ProPlus. Trial SKUs are not included.     
     - Nota: i diritti attivi misurano il numero di utenti attivi su un carico di lavoro specifico 
     - Per questi clienti, devi essere associato come amministratore delegato di Office 365 o Transacting Partner oppure Digital Partner of Record.
     - [Altre informazioni](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) su queste associazioni.
 
-2. L'organizzazione deve disporre di **1** utente che superi i requisiti di esame.
+2. Your organization must have **1** individual pass the exam requirements.
 
-    - **1** utente deve superare tutti i seguenti esami:
+    - **1** individual must pass all the following exams:
 
-        - [Esame 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): gestione delle identità e requisiti di Office 365  
-        - [Esame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): abilitazione dei servizi di Office 365
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
     
-    **OPPURE**
+    **OR**
 
-    - **1** utente deve ottenere la seguente certificazione:  
+    - **1** individual must obtain the following certification:  
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
 
 ### <a name="gold"></a>Gold
 
-1.  L'organizzazione deve soddisfare le soglie delle prestazioni. 
+1.  Your organization must meet the performance thresholds. 
 
-    - I partner devono aver distribuito 4.000 diritti attivi (utenti attivi).
-    - Le distribuzioni possono essere qualsiasi carico di lavoro di Microsoft Office 365 (Exchange Online, SharePoint Online, Skype for Business o Yammer) oppure ProPlus. Le SKU di prova non sono incluse.
+    - Partners must have deployed 4,000 active entitlements (active users).
+    - The deployments can be any Microsoft Office 365 workload (Exchange Online, SharePoint Online, Skype for Business, or Yammer) or ProPlus. Trial SKUs are not included.
     - Nota: i diritti attivi misurano il numero di utenti attivi su un carico di lavoro specifico
     - Per questi clienti, devi essere associato come amministratore delegato di Office 365 o Transacting Partner oppure Digital Partner of Record.
     - [Altre informazioni](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) su queste associazioni.
 
-2.  L'organizzazione deve disporre di **2** utenti che superino i requisiti di esame.
+2.  Your organization must have **2** individuals pass the exam requirements.
 
-    - **2** utenti devono superare tutti i seguenti esami:
+    - **2** individuals must pass all the following exams:
 
-        - [Esame 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): gestione delle identità e requisiti di Office 365  
-        - [Esame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): abilitazione dei servizi di Office 365
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
         
-    **OPPURE**
+    **OR**
     
-    - **2** utenti devono ottenere la seguente certificazione:
+    - **2** individuals must obtain the following certification:
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
 
 

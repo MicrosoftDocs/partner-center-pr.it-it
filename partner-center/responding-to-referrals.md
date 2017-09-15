@@ -1,72 +1,72 @@
 ---
-title: Rispondere alle segnalazioni | Centro per i partner
-description: Valutare, negoziare e rispondere alle segnalazioni tramite il Centro per i partner.
+title: Responding to referrals | Partner Center
+description: Evaluate, negotiate, and respond to referrals through Partner Center.
 author: KPacquer
-keywords: segnalazione, richiesta di informazioni, Trova un partner
-ms.openlocfilehash: 4172cc60825d445aa9b119780d22002c6c2ea189
-ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+keywords: referral, RFI, Find a Partner
+ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="responding-to-referrals-in-partner-center"></a>Rispondere alle segnalazioni nel Centro per i partner
+# <a name="responding-to-referrals-in-partner-center"></a>Responding to referrals in Partner Center
 
-**Si applica a**
+**Applies to**
 
--  Centro per i partner
+-  Partner Center
 
-In qualità di partner Microsoft qualificato, puoi ricevere nuovi lead tramite le segnalazioni del Centro per i partner. Gestisci i lead in arrivo, rispondi velocemente a quelli validi e ignora o rifiuta quelli che non lo sono. Esamina i tipi di lead in arrivo. 
+As a qualified Microsoft partner, you can receive potential business leads through Partner Center referrals. Manage your incoming leads, respond quickly to those that are a good fit, and skip or decline those that aren’t. Review the types of leads that come in. 
 
-## <a name="referral-management"></a>Gestione delle segnalazioni
+## <a name="referral-management"></a>Referral management
 
-Inizia impostando un [profilo di marketing](create-a-marketing-profile.md) per ogni area geografica in cui operi. Quando il tuo profilo sarà attivo, potremo indirizzare i clienti verso la tua azienda, tramite:
+Start by setting up a [marketing profile](create-a-marketing-profile.md) for each region where you do business. Once your profile is active, we’ll be able to direct customers to your business, through:
 
-*  Attività di marketing Microsoft
-*  Agenti di servizio e di vendita Microsoft interni
-*  Ricerche dei clienti effettuate tramite lo strumento **[Trova un partner](https://partnercenter.microsoft.com/pcv/search)**.
+*  Microsoft marketing activities
+*  Internal Microsoft sales and service agents
+*  Customer searches, using the **[Find a partner](https://partnercenter.microsoft.com/pcv/search)** tool.
 
-Quando un cliente è interessato a contattarti, invierà una richiesta di informazioni. 
+When a customer is interested in contacting you, they’ll submit a request for information (RFI). 
 
-In questo caso, invieremo un messaggio di posta elettronica al contatto indicato nel [profilo di marketing](create-a-marketing-profile.md) specifico dell'area geografica e della sede selezionata. Le richieste di informazioni in arrivo possono anche essere visualizzate nel Centro per i partner in **Dashboard > Segnalazioni > Customer referrals**.
+When that happens, we’ll send email to the contact listed in your [marketing profile](create-a-marketing-profile.md) specific to the region and location selected. You can also see incoming RFIs in Partner Center: go to **Dashboard > Referrals > Customer referrals**.
 
-I clienti spesso scelgono di inviare la stessa richiesta di informazioni a più aziende contemporaneamente. Per aumentare le probabilità di successo, è consigliabile rispondere e accettare o rifiutare le nuove segnalazioni entro 24 ore o meno.
+Customers often choose to send the same RFI to multiple companies at the same time. To increase your chance of success, we recommend responding to and accepting or declining new referrals within 24 hours or less.
 
-### <a name="new-referrals"></a>Nuove segnalazioni
+### <a name="new-referrals"></a>New referrals
 
-Ecco una panoramica della richiesta di informazioni. Da qui puoi decidere se sei interessato a saperne di più sulla segnalazione. 
+We’ll show you an overview of the RFI. From here, you can decide whether you’re interested in learning more about the referral. 
 
-*  **I’m interested**: la segnalazione verrà spostata in **Evaluating** e potrai vedere i dettagli completi del cliente e l'offerta. 
-*  **No, grazie**: verrà archiviata come **Ignorata**. Il cliente riceverà una notifica con l'invito a scegliere un altro partner.
-*  Se non rispondi entro 72 ore, la segnalazione verrà archiviata come **Missed**. Il cliente riceverà una notifica con l'invito a scegliere un altro partner.
+*  **I’m interested**: We’ll move the referral to **Evaluating**, and you’ll see the full details about the customer and the offer. 
+*  **No thanks**: We’ll archive it as **Skipped**. We’ll notify the customer to choose a different partner.
+*  If you don’t respond within 72 hours, we’ll archive it as **Missed**. We’ll notify the customer to choose a different partner.
 
-### <a name="evaluating-referrals"></a>Valutazione delle segnalazioni
+### <a name="evaluating-referrals"></a>Evaluating referrals
 
-Esamina i dettagli e contatta il cliente. Avvia una discussione sulle sue esigenze aziendali e valuta la possibilità di proporre un'offerta adatta. Accetta o rifiuta la segnalazione: 
+Review the details, and contact the customer. Talk to them about their business needs, and determine if you have an offer that can help them. Accept or decline the referral: 
 
-*  **Accetta**: immetti il valore stimato della trattativa, la data di chiusura prevista e seleziona **Accetta**. Useremo queste informazione per aiutarti a trovare trattative simili. La segnalazione passerà a **Negotiating**. Ciò indica che intendi interagire attivamente con il cliente per soddisfarne le esigenze.
-*  **Rifiuta**: verrà archiviata come **Rifiutata**. Il cliente riceverà una notifica con l'invito a scegliere un altro partner.
-*  Se non rispondi entro 7 giorni, la segnalazione verrà archiviata come **Scaduta**. Il cliente riceverà una notifica con l'invito a scegliere un altro partner.
+*  **Accept**: Enter the estimated deal value, the estimated closing date, and select **Accept**. We’ll use this information to help you find similar deals. We’ll move the referral to **Negotiating**. This tells us that you plan to actively engage with the customer to address their need.
+*  **Decline**: We’ll archive it as **Declined**. We’ll notify the customer to choose a different partner.
+*  If you don’t respond within 7 days, we’ll archive it as **Expired**. We’ll notify the customer to choose a different partner.
 
-### <a name="negotiating-referrals"></a>Negoziazione delle segnalazioni
+### <a name="negotiating-referrals"></a>Negotiating referrals
 
-Lavora per concludere la trattativa con il cliente. Informaci sull'esito positivo o negativo della trattativa e archiviala come **Vinta** o **Persa**. 
+Work to close the deal with the customer. Let us know if you won or lost the deal, and archive it as **Won** or **Lost**. 
 
-### <a name="archived-referrals"></a>Segnalazioni archiviate
+### <a name="archived-referrals"></a>Archived referrals
 
-Esamina le segnalazioni passate (**vinta, persa, ignorata, missed, rifiutata** o **scaduta**) in qualsiasi momento. 
+Review your past referrals (**won, lost, skipped, missed, declined** or **expired**) at any time. 
 
-## <a name="getting-more-referrals"></a>Ottenere altre segnalazioni
+## <a name="getting-more-referrals"></a>Getting more referrals
 
-Ecco alcuni suggerimenti per assicurarti di ricevere un maggior numero di segnalazioni appropriate per la tua azienda:
+Here’s some tips to help make sure you’re getting more referrals that are appropriate to your business:
 
-*  **Verifica le informazioni di contatto nel tuo [profilo di marketing](create-a-marketing-profile.md)** per ogni sede per assicurarti che il tuo team riceva gli avvisi in arrivo.
+*  **Review your contact information in your [marketing profile](create-a-marketing-profile.md)** for each location to make sure that your team gets incoming alerts.
 
-*  **Scegli le parole chiave e le preferenze che rappresentano la tua esperienza e il tuo modello di business esclusivi** nel [profilo di marketing](create-a-marketing-profile.md). Rimuovi le parole chiave che generano segnalazioni a cui non sei interessato. Se non sei interessato a trattare con aziende di una determinata dimensione, aggiorna questa preferenza.
+*  **Choose keywords and preferences that represent your unique expertise and business model** in your [marketing profile](create-a-marketing-profile.md). Remove keywords that would generate referrals for you’re not interested in. If you’re not interested in dealing with businesses of a certain size, update this preference.
 
-*  **Rispondi velocemente alle segnalazioni**. Se rispondi tempestivamente alle richieste in arrivo, aumenteremo la tua visibilità nei risultati delle future ricerche dei clienti. Assicurati che il team risponda velocemente indicando le intenzioni.
+*  **Respond quickly to referrals**. When you respond in a timely fashion to incoming requests, we’ll increase your visibility in future customer search results. Make sure your team responds quickly with your intent.
 
-*  **Sii selettivo nelle trattative che decidi di accettare**. I tipi di trattative che accetti e rifiuti vengono monitorati e queste informazioni vengono usate per individuare trattative simili. 
+*  **Be choosy with the deals you accept**. We monitor the types of deals that you accept and decline, and use this information to help find you similar deals. 
 
-   La decisione di accettare trattative non adatte non consentirà di migliorerà i risultati della ricerca e potrebbe influire sulla qualità dei lead che ricevi.
+   Accepting deals that aren’t a good fit won’t improve your search results and could impact the quality of the leads you receive.
 
-*  **Comunicaci il volume della trattativa stimato, le date di chiusura e lo stato finale delle trattative** (vinte o perse). Useremo queste informazioni per continuare a fornirti segnalazioni di qualità.
+*  **Report back the estimated deal sizes, closing dates, and the final status of your deals** (won or lost). We’ll use this info to continue to provide you with quality referrals.

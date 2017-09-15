@@ -1,53 +1,53 @@
 ---
-title: Promozioni di vendite in CSP | Centro per i partner
-description: Come provider indiretto idoneo, puoi sfruttare i vantaggi delle offerte di sottoscrizioni scontate e offrire gli sconti ai tuoi clienti.
+title: Utilizzare le promozioni per attirare nuovi clienti | Centro per i partner
+description: In quanto partner di Microsoft nel programma Cloud Solutions Provider, puoi acquistare sottoscrizioni a prezzi promozionali e offrire sconti ai tuoi clienti.
 author: MaggiePucciEvans
-robots: noindex,nofollow
-ms.openlocfilehash: a78c93d9d6c25ea138bb9d18541c324fb44d22b6
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+ms.openlocfilehash: ee86b07deee9fa62ce40d9926b98d7c80f48c7a6
+ms.sourcegitcommit: d4a055eb0a910911f6cf1618cf6f20ff3405a41c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 08/24/2017
 ---
-# <a name="subscription-sales-promotions-for-indirect-providers-in-csp"></a>Promozioni per le vendite di sottoscrizioni per i provider indiretti in CSP
+# <a name="use-promotions-to-attract-new-customers"></a>Utilizzare le promozioni per attirare nuovi clienti  
 
-**Si applica a: Centro per i partner**
+**Applies to: Partner Center**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
-Occasionalmente Microsoft offre prezzi scontati per le sottoscrizioni basate sulle licenze per rendere idonei ***i provider indiretti***, consentendo di attirare nuovi clienti e far crescere la propria attività CSP. 
+Occasionalmente Microsoft offre promozioni per le sottoscrizioni basate sulle licenze per consentirti di offrire sconti ai clienti e far crescere la tua attività. 
 
-Gli sconti vengono applicati automaticamente al prezzo netto quando acquisti nuove sottoscrizioni con la tariffa scontata. Inoltre, tutte le licenze aggiunte a una sottoscrizione scontata vengono aggiunte con la tariffa scontata. 
+Microsoft offre due tipi di promozioni; quelle disponibili per tutti i partner idonei nel programma Cloud Solution Provider (CSP) e quelle disponibili solo per i partner in una determinata area geografica.
 
->**Nota**<br>
-Microsoft offre due tipi di promozioni; quelle disponibili per tutti i provider indiretti idonei e quelle disponibili solo per i provider indiretti in una determinata area geografica.
+I prezzi promozionali vengono applicati automaticamente al prezzo netto quando acquisti nuove sottoscrizioni con il prezzo promozionale. Inoltre, tutte le licenze aggiunte a una sottoscrizione acquistata alla tariffa promozionale vengono aggiunte al prezzo promozionale. 
 
 Fermati un istante ed esamina questi importanti aspetti sulle promozioni:
 
 -   Il prezzo scontato di una sottoscrizione si applica solo per la durata della sottoscrizione. Quando una sottoscrizione scontata scade, il prezzo di rinnovo della sottoscrizione viene ripristinato a quello di listino. Ciò significa che tutte le sottoscrizioni configurate per il rinnovo automatico verranno rinnovate al prezzo attuale. Puoi trovare il listino prezzi nella pagina **Prezzi e offerte**. 
 
--   Se una sottoscrizione è idonea per più sconti, viene applicato automaticamente lo sconto maggiore
+-   Se una sottoscrizione è idonea per più promozioni, viene applicata automaticamente la promozione con la percentuale di sconto più alta.
 
--   Gli annullamenti seguono lo stesso processo e criteri come sottoscrizioni con prezzi regolari
+-   Gli annullamenti delle sottoscrizioni acquistate a prezzo promozionale seguono lo stesso processo e gli stessi criteri delle sottoscrizioni acquistate a prezzo normale.
 
 ## <a name="see-available-promotions"></a>Vedi le promozioni disponibili
 
-Puoi visualizzare per quali promozioni sei idoneo, se presenti, nella tua pagina**Promozioni**. Seleziona **Promozioni** nel menu **Dashboard** per visualizzare un elenco di promozioni correnti insieme a sconto, tipo di promozione, date di inizio e fine per la sottoscrizione. 
+Puoi visualizzare per quali promozioni sei idoneo, se presenti, nella tua pagina**Promozioni**. Seleziona **Promozioni** nel menu **Dashboard** per visualizzare un elenco di promozioni correnti insieme a sconto, tipo di promozione, date di inizio e fine per la sottoscrizione. Se non sono disponibili promozioni, viene visualizzato un messaggio che ti informa di tale situazione. 
 
->**Nota**<br>
-Inoltre puoi visualizzare le promozioni quando effettui un acquisto. Quando selezioni una sottoscrizione, viene visualizzata la percentuale di sconto nella pagina **Revisione**.
+>**Note**<br>
+You can also see promotions when making a purchase. Quando selezioni una sottoscrizione, il prezzo promozionale appare nella pagina **Revisione**.
 
-## <a name="purchase-subscriptions-at-discounted-prices"></a>Acquisto di sottoscrizioni a prezzi scontati
+## <a name="purchase-subscriptions-at-promotion-prices"></a>Acquisto di sottoscrizioni a prezzi scontati
 
-1. Nel menu **Dashboard** seleziona **Clienti**, quindi seleziona il cliente che acquista la sottoscrizione. 
+1. On your **Dashboard** menu, select **Customers** and then select the customer who’s buying the subscription. 
 
-2. Seleziona **Aggiungi sottoscrizione**.
+2. Select **Add subscription**.
 
-3. Nella pagina **Nuova sottoscrizione** seleziona la sottoscrizione scontata.
+3. Nella pagina **Nuova sottoscrizione** seleziona la sottoscrizione a cui si applica la promozione.
 
-4. Immetti il numero di licenze di cui ha bisogno il cliente. 
+4. Enter the number of licenses the customer needs. 
 
-5. Esamina l'ordine, quindi seleziona **Invia** per acquistare la nuova sottoscrizione scontata. Nella fattura successiva, il cliente vedrà il prezzo scontato.  
+5. Esamina l'ordine. Vedrai il prezzo promozionale che verrà applicato nella colonna **Sconto**.  
+
+6.  Seleziona **Invia** per completare l'acquisto. Nella fattura successiva, il cliente vedrà il prezzo scontato.  
 
 
 

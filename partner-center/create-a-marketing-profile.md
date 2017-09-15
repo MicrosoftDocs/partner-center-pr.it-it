@@ -1,13 +1,13 @@
 ---
-title: Creare un profilo di marketing | Centro per i partner
-description: Conquistare altri clienti potenziali creando un profilo di marketing nel Centro per i partner.
+title: Create a marketing profile | Partner Center
+description: Attract more prospective customers by creating a marketing profile in Partner Center.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
-ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
+ms.openlocfilehash: b4ff498f7c44e4f2fcb49cb5e4c1d659175ac60a
+ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 09/01/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -18,107 +18,115 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
  -->
 
 
-# <a name="create-a-marketing-profile"></a>Creare un profilo di marketing
+# <a name="create-a-marketing-profile"></a>Create a marketing profile
 
-**Si applica a**
+**Applies to**
 
--  Centro per i partner
+-  Partner Center
 
-In qualità di partner Microsoft qualificato, puoi creare un profilo di marketing per presentare la tua azienda ai clienti che cercano soluzioni ed esperienza uniche che soddisfino le loro esigenze aziendali.
+As a qualified Microsoft partner, you can create a marketing profile to showcase your business to customers who are looking for your unique solutions and expertise to address their business needs.
 
-Microsoft attira milioni di clienti ogni anno attraverso attività di marketing, vendita e servizi. La maggior parte di queste attività permette a Microsoft di offrire ai suoi partner delle segnalazioni in termini di clienti potenziali. 
+Microsoft engages millions of customers every year through marketing, sales and service efforts. Most of these engagements create opportunities for us to provide referrals to our partners in the form of sales leads. 
 
-Il primo passaggio per raggiungere questi lead consiste nel creare un profilo di marketing. Microsoft mostrerà il tuo profilo ai clienti che cercano partner in grado di aiutarli a implementare le soluzioni e i prodotti Microsoft tramite:
+As the first step to getting these leads, create a marketing profile. We'll show your profile to customers who are searching for partners who can help them implement Microsoft products and solutions, through:
 
-*  **L'esperienza della ricerca [Trova un partner](https://partnercenter.microsoft.com/pcv/search)**. I clienti potenziali possono eseguire personalmente una ricerca negli elenchi di partner per individuare i partner che soddisfano i criteri di ricerca. 
-*  **Segnalazioni da dipendenti di servizi e vendite Microsoft**. I clienti potenziali interessati alla distribuzione di soluzioni tecnologiche basate sul cloud contattano Microsoft per informazioni sui professionisti in grado di aiutarli a soddisfare le esigenze aziendali. Questi professionisti Microsoft possono quindi rimandare i clienti potenziali alla tua azienda.
+*  **The [Find a partner](https://partnercenter.microsoft.com/pcv/search) search experience**. Potential customers can search partner listings on their own to locate partners who meet their search criteria. 
+*  **Referrals from Microsoft sales and service employees**. Potential customers interested in deploying cloud-based technology solutions contact Microsoft for help finding professionals who can meet their business needs. These Microsoft professionals can then refer potential customers to your company.
 
-**Gli utenti di Pinpoint, C2PC e di connessione delle vendite**: stiamo unendo questi strumenti nel Centro per i partner. Se hai usato questi strumenti in passato, crea un nuovo profilo di marketing nel Centro per i partner per continuare a generare e gestire i lead di vendita. Nota: attualmente non supportiamo l'importazione di profili dai siti precedenti. 
+**Pinpoint e C2PC**: stiamo unendo questi strumenti nel Centro per i partner. If you’ve used these tools in the past, create a new marketing profile in Partner Center to continue to generate and manage your sales leads. Note, we don’t currently support importing profiles from the previous sites. 
 
-## <a name="create-a-profile"></a>Crea un profilo
+## <a name="create-a-profile"></a>Create a profile
 
-Crea profili per ogni area geografica in cui sei autorizzato a svolgere la tua attività. 
+Create profiles for each region you are authorized to do business in. 
 
-1.  Accedi a [Centro per i partner](http://go.microsoft.com/fwlink/p/?LinkId=808956) utilizzando un [account di amministratore globale o agente amministratore](create-user-accounts-and-set-permissions.md).
+1.  Log into [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) using a [global admin or admin agent account](create-user-accounts-and-set-permissions.md).
 
-2.  Nel menu **Dashboard** seleziona **Segnalazioni** &gt; **Profili di marketing** &gt; **[Aggiungi un profilo di marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
+2.  Nel menu **Dashboard** seleziona **Segnalazioni** &gt; **Visualizza profili marketing** &gt; seleziona un paese/un'area geografica > **[Creare un profilo di marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-3.  Nella pagina **Crea un profilo di marketing** seleziona un'area geografica, quindi immetti le informazioni del profilo, compilando anche le sezioni delle informazioni e delle competenze di partner.
+3.  Nella pagina **Creare un profilo di marketing** seleziona un'area geografica, quindi immetti le informazioni del profilo.
     
-    Nota: mentre il Centro per i partner supporta più lingue, per alcuni elementi, ad esempio la descrizione e i tag in formato libero potrebbe essere necessario includere il testo da lingue diverse, come indicato in questo argomento.
+    Note, while Partner Center supports multiple languages, some elements such as the description and free-form tags may need to include text from different languages, as noted in this topic.
 
-### <a href="" id="partner_info"></a>Informazioni sul partner
+### <a href="" id="partner_info"></a>Partner information
 
-Presenta la tua azienda, aggiungendo un logo, una breve descrizione e un collegamento al tuo sito Web. 
+Introduce your company, adding a logo and a brief description, and a link to your website. 
 
-Il logo può essere un file GIF, JPG o PNG con una larghezza massima di 300 pixel. Ti consigliamo di usare proporzioni quadrate o in orizzontale. Non è consigliabile usare le proporzioni in verticale.
+The logo can be a GIF, JPG, or PNG file, with a maximum width of 300 pixels. We recommend using square or long aspect ratios. Tall aspect ratios are not recommended.
 
-La descrizione può contenere fino a 1000 caratteri. Suggerimenti per una descrizione efficace: 
+Your description can be up to 1000 characters. Tips for a great description: 
 
-*  **Deve essere breve**, le informazioni importanti devono essere presenti nelle prime due frasi. Questa descrizione deve rappresentare l'intestazione che cattura l'attenzione dei clienti. Nell'esperienza di ricerca Trova un partner mostriamo le prime due righe nell'anteprima dei risultati della ricerca.
-*  **Concentrati sulle esperienze dell'azienda con le offerte specifiche di Microsoft**. I clienti alla ricerca di riferimenti in genere cercano partner con esperienza specifica nei prodotti e servizi Microsoft.
-*  **Usa gli elenchi puntati**. Suddividi le informazioni in elenchi puntati per rendere la comprensione più immediata.
-*  **Niente tecnicismi**. Usa il linguaggio semplice di tutti i giorni e parla dei vantaggi effettivi delle offerte: le esigenze aziendali a cui sono mirate o le attività o gli obiettivi per cui sono progettate.
-*  **Non preoccuparti di inserire parole chiave di ricerca nella descrizione**. Gli strumenti di ricerca che utilizzano i clienti cercano le parole chiave generate nella sezione Esperienza partner, non nella descrizione.
-*  **Aggiorna sempre il tuo profilo**. Ad ogni versione di software o servizio che esce, aggiorna il tuo profilo, mantienilo sincronizzato con il sito Web della tua azienda.
-*  **Non fare riferimento a un'altra azienda partner di Microsoft usando il nome**, a meno che non sia una filiale o affiliata della tua azienda oppure che non esista un accordo in vigore con tale azienda partner per agire in collaborazione e/o promuovere le attività reciproche nell'ottica di sfruttare opportunità commerciali condivise.
-*  **Per le aree geografiche con più lingue**, prendi in considerazione l'inclusione del testo da più lingue nella descrizione.
+*  **Be brief**, leading with what’s important in the first sentence or two. This should be the headline that catches customers’ attention. In the Find a partner search experience, we show the first line or two in the search results preview.
+*  **Focus on your company’s experiences with Microsoft-specific offerings**. Customers searching for referrals are generally looking for partners with Microsoft-specific experience.
+*  **Use bullets**. Break up information into bulleted lists to make it easier to scan.
+*  **Avoid jargon**. Use simple, everyday language, naming your offerings for what they do: the business needs they address, or task or objective they help customers accomplish.
+*  **Don’t worry about filling the description with search keywords**. The customer search tools search for keywords generated in the Partner Expertise section, not the description.
+*  **Keep your profile current**. With each software or service release, update your profile, keeping it in sync with your company's website.
+*  **Do not refer to another Microsoft partner company by name**, unless it is a subsidiary or is otherwise affiliated with your company, or you have a current agreement with that partner company to act in partnership and/or promote each other for shared work opportunities.
+*  **For regions with multiple languages**, consider including text from multiple languages in the description.
 
-#### <a href="" id="linkedin"></a> Pagina aziendale su LinkedIn: altri modi per connettersi
+#### <a href="" id="linkedin"></a> LinkedIn company page: more ways to connect
 
-Aggiungi la pagina di LinkedIn della tua azienda per potenziare le connessioni con i clienti potenziali. 
+Add your LinkedIn company page to strengthen your connections to potential customers. 
 
-Quando includi il collegamento, i clienti potranno visualizzare rapidamente le informazioni sulla tua organizzazione tramite la piattaforma LinkedIn.
+When you include this link, customers will be able to quickly view more about your organization through the LinkedIn platform.
 
-Se non disponi già di una pagina di LinkedIn dell'azienda, puoi [crearne una ora](https://www.linkedin.com/company-beta/setup/new/).
+If you don't already have a LinkedIn company page, you can [create one now](https://www.linkedin.com/company-beta/setup/new/).
 
-### <a name="partner-expertise"></a>Esperienza di partner
+### <a name="partner-expertise"></a>Partner expertise
 
-Gli strumenti di ricerca che utilizzano i clienti cerca i tag relativi all'esperienza. Quando ottimizzi il tuo profilo per acquisire visibilità, vale la pena dedicare del tempo a ottimizzare questi tag.
+Gli strumenti di ricerca di Trova un partner eseguono la ricerca di tag relativi all'esperienza. Ottimizza i tag per consentire al tuo profilo di ottenere visibilità.
 
-Inizia aggiungendo tag personalizzati nella sezione Esperienza partner. Puoi aggiungere i tag seguenti: 
+Start by adding your own tags into the Partner Expertise section. Tags you can add: 
 
-*  **Tag mirati al settore**. Fino a 5 settori
-*  **Prodotti**. Limitato ai prodotti Microsoft
-*  **Tipo di servizio** 
-*  **Soluzioni, competenze e capacità**. Questi tag sono in formato libero e permettono di aggiungere parole chiave di ricerca specifiche delle tue capacità.
+*  **Industry focus tags**. Up to 5 industries
+*  **Products**. Limited to Microsoft products
+*  **Service type** 
+*  **Solutions, skills, and capabilities**. These tags are free-form, and provide you the ability to add search keywords that are unique to your capabilities.
 
-Altri tag utilizzati nella ricerca:
-*  I**tag di competenza** sono una designazione acquisita che mostra le capacità della tua azienda.
-*  I **Tag di approvazione** vengono acquisiti quando Microsoft o i clienti che hanno lavorato con te approvano il tuo lavoro.
+Other tags used in search:
+*  **Competency tags** are an earned designation showcasing your company’s capabilities.
+*  **Endorsement tags** are earned when Microsoft or your customers who have worked with you endorse your work.
 
 #### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Allow Microsoft to endorse my areas of expertise
 
+Ti consigliamo di lasciare selezionata questa impostazione. 
+
 Man mano che dimostri i tuoi successi con i clienti attraverso il Centro per i partner o partecipando ad altri programmi o certificazioni Microsoft, aggiungeremo automaticamente delle approvazioni ai tuoi prodotti, servizi e settori specifici che hanno contribuito ai tuoi successi. Le approvazioni sono un fattore importante nei risultati della ricerca.
 
-Ti consigliamo di lasciare selezionata questa impostazione. Se tuttavia esistono dei prodotti per cui fornisci dei servizi che preferiresti che non venissero visualizzati nel tuo profilo, puoi deselezionare la casella e gestire il profilo manualmente. Queste approvazioni risulteranno nascoste alla vista dei clienti, ma potrai aggiungerle nuovamente al profilo in qualsiasi momento.
+Se tuttavia esistono dei prodotti per cui fornisci dei servizi che preferiresti che non venissero visualizzati nel tuo profilo, puoi deselezionare la casella e gestire il profilo manualmente. These endorsements will be hidden from your customers view, but you can add them back to your profile later at any time.
 
-### <a name="customer-preferences"></a>Preferenze clienti
+### <a name="customer-preferences"></a>Customer preferences
 
-#### <a href="" id="#target_size"></a>Dimensioni target
+#### <a href="" id="#target_size"></a>Target size
 
-È possibile rifiutare esplicitamente le segnalazioni da parte di aziende che non soddisfano le dimensioni target dei clienti .
+You can opt out of referrals from businesses that don’t meet your target customer size.
 
-In tal caso, avrai a disposizione più tempo da dedicare per le aziende che rappresentano una corrispondenza per le aziende con cui si preferisce lavorare.
+By opting out, you’ll have more time to spend on businesses that are a match for the businesses that you prefer to work with.
 
-### <a href="" id="#locations"></a> Posizioni
+### <a href="" id="#locations"></a> Locations
 
-Puoi aggiungere fino a 5 posizioni per ogni area geografica. Queste posizioni vengono visualizzate quando i clienti cercano partner che si trovano nelle vicinanze. 
+Puoi aggiungere fino a 5 posizioni per ogni area geografica. These locations appear when customers search for partners by proximity. 
 
-Indica posizioni che siano ubicazioni ufficiali dell'azienda e che possano essere confermate. Seleziona posizioni centrali nei mercati che servi e che rappresentano al meglio la capacità della tua azienda di soddisfare le esigenze dei clienti.
+Indicate locations that are official company locations and can be validated. Pick locations that are central to the markets you serve, and best represent your company’s ability to fulfill.
 
-Ogni posizione che aggiungi diventa una pagina del profilo separata. Durante l'aggiornamento delle pagine del profilo, assicurati che vengano aggiornate per ogni localizzazione.
+Quando hai finito di aggiornare le informazioni sulla posizione, seleziona **Salva questa posizione** o **Salva questa posizione e aggiungine un'altra** (anche se si aggiunge solo una posizione).
+
+Ogni posizione che aggiungi diventa una pagina del profilo separata. Durante l'aggiornamento delle pagine del profilo, assicurati che vengano aggiornate per ogni posizione.
+
+Per aggiornare l'indirizzo di una posizione, dovrai in primo luogo **eliminare** la posizione quindi aggiungerla nuovamente.
+
+Se rientri tra le 5 posizioni principali e desideri modificarne una, **elimina** in primo luogo una posizione esistente, quindi aggiungi la nuova.
 
 ## <a name="review-your-profile"></a>Controlla il tuo profilo
 
-Dopo la pubblicazione del profilo, gli aggiornamenti vengono visualizzati nelle ricerche di [Trova un partner](https://partnercenter.microsoft.com/pcv/search) entro 24 ore. 
+After you publish your profile, updates appear in the [Find a partner](https://partnercenter.microsoft.com/pcv/search) searches within 24 hours. 
 
-## <a name="improve-the-visibility-of-your-profile"></a>Migliora la visibilità del tuo profilo 
+## <a name="improve-the-visibility-of-your-profile"></a>Improve the visibility of your profile 
 
-*  **[Rispondi rapidamente alle richieste](responding-to-referrals.md)**. Quando ricevi una segnalazione di cliente, una risposta più veloce può produrre risultati migliori nelle pagine di ricerca per i clienti futuri.
-*  **Seleziona i tag**.  È preferibile avere un numero minore tag che rappresentano al meglio offerte, soluzioni, proposte di valore e posizione univoca dell'azienda con cui dimostrare in modo coerente il successo della tua azienda.  Questa scelta darà i suoi frutti nei risultati delle future ricerche.
-*  **Acquisisci i tag di competenza** tramite Microsoft per dimostrare la competenza nei prodotti Microsoft.
-*  **Acquisisci i tag di approvazione** dai clienti che apprezzano il tuo lavoro.
+*  **[Respond quickly to requests](responding-to-referrals.md)**. When you receive a customer referral, a faster response can lead to better results on the search pages for future customers.
+*  **Be selective with your tags**.  It’s better to have fewer tags that best represent your company’s offers, solutions, value propositions, and unique position where you can consistently demonstrate success.  That will pay dividends in future search results.
+*  **Earn competency tags** through Microsoft to demonstrate your proficiency in our products.
+*  **Earn endorsement tags** from customers who appreciate your work.
 
-## <a name="related-topics"></a>Argomenti correlati
-[Risposta alle segnalazioni](responding-to-referrals.md)
+## <a name="related-topics"></a>Related topics
+[Responding to referrals](responding-to-referrals.md)

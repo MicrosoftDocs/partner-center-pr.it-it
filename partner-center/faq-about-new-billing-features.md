@@ -3,18 +3,18 @@ title: "Domande frequenti sulle nuove funzionalità di fatturazione | Centro per
 Description: "Di seguito sono riportate le domande frequenti su fatturazione annuale del Centro per i partner, versione di valutazione gratuita e funzionalità di allineamento della fatturazione."
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: a0ed40409cfb7ea92713e89a3fea39c4b3f836b6
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+ms.openlocfilehash: ce871392c529cdfc7b11eddcad92f04b7e3054c2
+ms.sourcegitcommit: bf2476ae1163f5b486d7ba12e784904e47e0b85a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 09/29/2017
 ---
 # <a name="faq-about-new-billing-features"></a>Domande frequenti sulle nuove funzionalità di fatturazione
 
 **Si applica a**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
 Di seguito sono riportate le domande frequenti su fatturazione annuale del Centro per i partner, versione di valutazione gratuita e funzionalità di allineamento della fatturazione. 
@@ -247,11 +247,11 @@ Codice di esempio: https://msdn.microsoft.com/it-it/library/partnercenter/mt6346
 
 **D:** Quando sarà disponibile?
 
-**R:** Prevediamo di renderla disponibile a settembre 2018.
+**R:** Prevediamo di renderla disponibile il 17 ottobre 2017.
 
 **D:** Chi può partecipare?
 
-**R:** Possono partecipare tutti i partner, anche se in Cina la versione di valutazione gratuita non sarà disponibile per molti altri mesi. 
+**R:** Possono partecipare tutti i partner, anche se in Cina la versione di valutazione gratuita non sarà disponibile ancora per diversi mesi. 
 
 **D:** Cosa devo fare per prepararmi?
 

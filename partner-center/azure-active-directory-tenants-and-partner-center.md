@@ -1,52 +1,51 @@
 ---
-title: Azure Active Directory tenants and Partner Center | Partner Center
-description: "To create a Partner Center account, your company must have an Azure Active Directory (Azure AD) tenant. Azure AD is Microsoft’s cloud-based directory and identity management service."
+title: Account aziendali e Centro per i partner | Centro per i partner
+description: Per creare un account del Centro per i partner, la tua azienda deve disporre di un account aziendale.
 author: labrenne
 robots: 
-ms.openlocfilehash: ab16d167fc978d76c96fc6ef7c1b8eabe26a1ad5
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+ms.openlocfilehash: 503d8af5d299a6dd9098fb5f7aafcf998159fb72
+ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 09/29/2017
 ---
-# <a name="azure-active-directory-tenants-and-partner-center"></a>Azure Active Directory tenants and Partner Center  
+# <a name="your-work-account-and-partner-center"></a>Account aziendale e Centro per i partner  
 
-**Applies to**
+**Si applica a**
 
--  Partner Center
+-  Centro per i partner
 
-#<a name="why-you-need-an-azure-ad-tenant"></a>Why you need an Azure AD tenant
+# <a name="why-you-need-a-work-account"></a>Perché è necessario un account aziendale
 
-We need to link your organization’s Azure AD tenant to your new Partner Center account, so your tenant users can sign in to Partner Center with their Azure AD (Microsoft account) user names and passwords.
+Dobbiamo collegare l'account aziendale della tua organizzazione al nuovo account del Centro per i Partner, in modo che gli utenti tenant possano accedere al Centro per i partner con i propri nomi utente e le password di Azure AD (account aziendale).
 
-If your company already has an Azure AD tenant, you can link it to your Partner Center account. 
+Se la tua azienda dispone già di un account aziendale, puoi collegarlo all'account del Centro per i partner. 
 
-**Nota** Prima di decidere di usare un tenant di Azure AD esistente, valuta il numero di utenti nel tenant che dovranno lavorare nel Centro per i partner. If you have users in the tenant who won’t need to work in Partner Center, consider creating a new tenant for only those users who will need to work in Partner Center.
+**Nota** Prima di decidere di usare un account utente esistente, valuta il numero di utenti nell'account che dovranno lavorare nel Centro per i partner. Se nell'account sono presenti utenti che non dovranno lavorare nel Centro per i partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno lavorare nel Centro per i partner.
 
-If your company doesn’t already have an Azure AD tenant, you can create one for free during the enrollment process. Select **Create new tenant** on the **Sign in to Azure Active Directory** page. 
+Se l'azienda dispone già di un account aziendale, puoi crearne uno senza costi aggiuntivi durante il processo di registrazione. Seleziona **Crea nuovo tenant** nella pagina **Accedi ad Azure Active Directory**. Quando crei un nuovo tenant di Azure Active Directory, crei un nuovo account aziendale. Azure Active Directory è una soluzione di gestione delle identità Single Sign-On di Microsoft.
 
+## <a name="not-sure-if-your-company-already-has-an-azure-work-account"></a>Non sei sicuro che l'azienda disponga già di un account aziendale Azure?
 
-## <a name="not-sure-if-your-company-already-has-an-azure-ad-tenant"></a>Not sure if your company already has an Azure AD tenant?
+Se non sei sicuro che l'azienda disponga di un account aziendale Azure, attieniti ai seguenti passaggi per controllare. Tieni presente che se disponi di un abbonamento attivo per Microsoft Azure o Office 365, disponi già di un account aziendale.
+1.  Accedi al portale di amministrazione di Azure all'indirizzo https://ms.portal.azure.com
+2.  Seleziona Azure Active Directory dal menu, quindi seleziona i nomi di dominio.
+3.  Se disponi già di un account aziendale, il tuo nome di dominio verrà elencato.
 
-If you’re not sure whether your company has an Azure AD tenant, follow these steps to check. Note that If you have an active subscription to Microsoft Azure or Office 365, you already have an Azure AD tenant.
-1.  Sign in to the Azure admin portal at https://ms.portal.azure.com
-2.  Select Azure Active Directory from the menu and then select Domain Names.
-3.  Se disponi già di un tenant, il nome di dominio verrà elencato.
+## <a name="using-an-existing-work-account"></a>Uso di un account aziendale esistente
 
-##<a name="using-an-existing-tenant"></a>Uso di un tenant esistente
+Se desideri utilizzare un account aziendale esistente, ma si verificano problemi durante l'accesso, trova nel diagramma seguente lo scenario che meglio corrisponde alla tua situazione specifica e segui i passaggi consigliati. 
 
-If you want to use an existing Azure AD tenant but you’re having trouble signing in, find the scenario on the diagram below that best matches your situation and follow the recommended steps. 
+![Disponi di un account aziendale Azure oppure devi crearne uno?](images/onboardingAADFlow.png)
 
-![Do you have an Azure AD tenant or do you need to create one?](images/onboardingAADFlow.png)
+Per ulteriori informazioni sull'aggiunta di domini in Azure AD, consulta [Aggiungi o associa un dominio in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 
-For more information about adding domains in Azure AD, see [Add or associate a domain in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
+# <a name="about-microsoft-azure"></a>Informazioni su Microsoft Azure
 
-# <a name="about-microsoft-azure"></a>About Microsoft Azure
+Microsoft Azure è una piattaforma cloud pubblica che le società possono utilizzare per creare, distribuire e gestire le applicazioni in una rete globale di data center gestiti da Microsoft. Le aziende usano Azure per creare un'infrastruttura IT virtuale con funzioni virtuali o servizi, invece di computer fisici. 
 
-Microsoft Azure is a public cloud platform that companies can use to build, deploy, and manage applications across a global network of Microsoft-managed datacenters. Companies use Azure to build a virtual IT infrastructure with virtual functions, or services, instead of physical machines. 
+Quando acquisti una sottoscrizione di Azure, essenzialmente stai noleggiando uno spazio dedicato e sicuro in un cloud pubblico di Azure, non è molto diverso dal prendere in affitto un piano in un edificio per ospitare le attività letteralmente fisiche dell'azienda. Per il proprietario dell'edificio, l'azienda è un tenant. 
 
-When you purchase an Azure subscription, you’re essentially renting a dedicated, secure space in the Azure public cloud, not too different from renting a floor in an office building to house your company’s physical business. To the office building’s owner, your company is a tenant. 
+Un account aziendale Azure è una rappresentazione virtuale dedicata e isolata della società nel cloud pubblico di Azure e viene creato quando sottoscrivi un servizio cloud Microsoft, ad esempio Azure, Microsoft Intune o Office 365. 
 
-An Azure AD tenant is a dedicated and isolated virtual representation of your company in the Azure public cloud, created for you when you subscribe to a Microsoft cloud service such as Azure, Microsoft Intune, or Office 365. 
-
-Il tenant ospita gli utenti di Azure AD e le informazioni su di essi: password, dati del profilo, autorizzazioni e così via. Il tenant contiene anche gruppi, applicazioni e altre informazioni relative a un'azienda e alla sua sicurezza. 
+L'account aziendale ospita gli utenti di Azure AD e le informazioni su di essi: password, dati del profilo, autorizzazioni e così via. L'account aziendale contiene anche gruppi, applicazioni e altre informazioni relative a un'azienda e alla sua sicurezza. 

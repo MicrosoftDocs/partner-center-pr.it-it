@@ -3,11 +3,11 @@ title: Scenari di fatturazione comuni | Centro per i partner
 description: "Questo argomento descrive ciò che compare sulla fattura dopo l'aggiunta di nuove sottoscrizioni, la modifica del numero di licenze in una sottoscrizione o l'annullamento di una sottoscrizione. Le sottoscrizioni in base alle licenze vengono gestite diversamente rispetto a quelle in base all'uso."
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-ms.openlocfilehash: 92805672975e319b53c2cd89063442df2feb1267
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+ms.openlocfilehash: 2ed2dded5f96c5f3887cd40db04cd21e548efe5f
+ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 10/17/2017
 ---
 # <a name="common-billing-scenarios"></a>Scenari di fatturazione comuni
 
@@ -21,13 +21,11 @@ Questo argomento descrive ciò che compare sulla fattura dopo l'aggiunta di nuov
 
 ## <a name="in-this-section"></a>Contenuto della sezione
 
-
 -   [Fatturazione in base all'uso](#usagebased)
 
 -   [Fatturazione in base alle licenze](#licensebased)
 
 ## <a href="" id="usagebased"></a>Fatturazione in base all'uso
-
 
 Vengono fatturati solo i servizi usati nel periodo di fatturazione precedente. Nella fattura comparirà qualsiasi applicazione o servizio di Azure abilitato e usato durante il periodo di fatturazione.
 
@@ -40,101 +38,199 @@ Vengono fatturati solo i servizi usati nel periodo di fatturazione precedente. N
 
 ## <a href="" id="licensebased"></a>Fatturazione in base alle licenze
 
-Per i mesi senza modifiche alle sottoscrizioni in base alle licenze, nella fattura vedrai una sola voce per ogni sottoscrizione. Corrisponde all'anticipo per il mese successivo.
+**Fatturazione:** le sottoscrizioni basate su licenza vengono fatturate in anticipo nel giorno dell'anniversario della sottoscrizione.
 
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Scenario</td>
-<td>Descrizione</td>
-<td>Esempio</td>
-</tr>
-<tr class="even">
-<td>Nuova sottoscrizione aggiunta</td>
-<td><p>Il periodo tra la data di inizio della sottoscrizione e la prima data di fatturazione è SENZA COSTI AGGIUNTIVI.</p>
-<p>Il file di riconciliazione conterrà una sola voce:</p>
-<ul>
-<li>addebito dell'anticipo per il mese successivo</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Nuova sottoscrizione con annullamento prima della scadenza di fatturazione</td>
-<td>Non verrà effettuato alcun addebito sull'account. La sottoscrizione non comparirà nel file di riconciliazione. Questa opzione è utile se desideri eseguire test senza sostenere le spese della sottoscrizione.</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Nuova sottoscrizione con rettifiche della quantità di licenze durante il periodo gratuito</td>
-<td><p>Il file di riconciliazione conterrà più voci:</p>
-<ul>
-<li>modifiche alla quantità di licenze, con prezzo unitario 0 (per le modifiche di licenze apportate durante il periodo gratuito non vengono effettuati addebiti).</li>
-<li>addebito dell'anticipo per il mese successivo, in base alla nuova quantità.</li>
-</ul></td>
-<td>Uso ripartito:
-<ul>
-<li>Dal 3 giugno al 7 giugno per 10 licenze = addebito ZERO</li>
-<li>Dall'8 giugno all'11 giugno per 20 licenze = addebito ZERO</li>
-<li>Dal 12 giugno al 14 giugno per 15 licenze = addebito ZERO</li>
-</ul>
-<p>Scadenza di fatturazione: anticipo per il periodo mensile completo dal 15 giugno al 14 luglio per 15 licenze. Supponendo che l'addebito mensile per la sottoscrizione sia di 10 USD, l'addebito sarebbe 10 USD x 15 licenze = 150 USD.</p></td>
-</tr>
-<tr class="odd">
-<td>Sottoscrizioni esistenti: aumento o riduzione della quantità di licenze</td>
-<td><p>Il file di riconciliazione conterrà più voci:</p>
-<ul>
-<li>lo storno dell'anticipo</li>
-<li>l'addebito per l'uso ripartito</li>
-<li>l'addebito dell'anticipo per il mese successivo</li>
-</ul></td>
-<td><p>Uso ripartito:</p>
-<ul>
-<li>Dal 15 luglio al 19 luglio per 15 licenze = 26,61 USD</li>
-<li>Dal 20 luglio al 30 luglio per 12 licenze = 46,84 USD</li>
-<li>Dal 31 luglio al 9 agosto per 18 licenze = 63,87 USD</li>
-<li>Dal 10 agosto al 14 agosto per 10 licenze = 17,74 USD</li>
-</ul>
-Storno dell'anticipo per il periodo mensile completo dal 15 luglio al 14 agosto = 165 USD.
-<p>Scadenza di fatturazione: anticipo per il periodo mensile completo dal 15 agosto al 14 settembre per 10 licenze = 110 USD.</p></td>
-</tr>
-<tr class="even">
-<td>Annullamento senza modifiche precedenti delle licenze</td>
-<td><p>Il file di riconciliazione conterrà una sola voce:</p>
-<ul>
-<li>Un credito per i giorni inutilizzati, poiché l'intero periodo è stato addebitato in anticipo nell'ultima distinta di fatturazione. Viene calcolato in base alla data di fine della sottoscrizione.</li>
-</ul></td>
-<td>Anticipo fatturato in precedenza: dal 15 agosto al 14 settembre per 10 licenze = 100 USD.
-<p>Parte usata dell'anticipo dal 15 agosto al 24 agosto.</p>
-<p>Credito per i giorni inutilizzati: dal 25 agosto al 14 settembre per 10 licenze = -74,51 USD.</p></td>
-</tr>
-<tr class="odd">
-<td>Annullamento con modifiche precedenti delle licenze</td>
-<td><p>Il file di riconciliazione conterrà più voci:</p>
-<ul>
-<li>lo storno dell'anticipo</li>
-<li>l'addebito per l'uso ripartito</li>
-<li>un credito per eventuali giorni inutilizzati</li>
-</ul></td>
-<td>Anticipo fatturato in precedenza: dal 15 agosto al 14 settembre per 10 licenze = 100 USD.
-<p>Uso ripartito:</p>
-<ul>
-<li>Dal 15 agosto al 24 agosto per 10 licenze</li>
-<li>Dal 25 agosto al 14 settembre per 5 licenze</li>
-</ul>
-<p>Credito per i giorni inutilizzati: dall'1 settembre al 14 settembre per 5 licenze.</p>
-<p>Storno dell'anticipo per il periodo mensile completo dal 15 agosto al 14 settembre = -100 USD.</p></td>
-</tr>
-</tbody>
-</table>
+**Giorno dell'anniversario:** le sottoscrizioni con fatturazione mensile sono allineate alla data di fatturazione del partner e le sottoscrizioni con fatturazione annuale sono allineate alla data di acquisto.
 
+**Periodo gratuito:** alle sottoscrizioni con fatturazione mensile viene assegnato un periodo gratuito a partire dalla data di acquisto fino alla successiva data di fatturazione del partner.
 
+**Termine:** tutte le sottoscrizioni basate su licenza hanno un termine di pagamento di 12 mesi. Il termine di pagamento inizia dalla data di acquisto per le sottoscrizioni con fatturazione annuale e alla data di fatturazione successiva alla data di acquisto per le sottoscrizioni con fatturazione mensile.
 
+**Annullamento:**le sottoscrizioni annullate entro i primi 30 giorni del termine di pagamento verranno accreditate al 100%. Le sottoscrizioni annullate dopo i 30 giorni verranno accreditate proporzionalmente.
 
- 
+**Rinnovo:** tutte le sottoscrizioni basate su licenza si rinnovano automaticamente per 12 mesi dopo l'inizio del termine di pagamento.
 
+## <a href="" id="licensebasedmonthly"></a>Scenari di fatturazione mensile
 
+**Scenario 1: nuova sottoscrizione**
+
+La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione mensile. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo le seguenti righe di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+|13/1/2018         | 14/1/2018   |Tariffa di acquisto   |0,00       |1       |0,00    
+|15/1/2018         |14/2/2018    |Tariffa periodica   |4,00       |1        |4,00    
+
+Il 15 febbraio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+|15/2/2018         |14/3/2018    |Tariffa periodica   |4,00       |1        |4,00    
+Si continuerà l'addebito il giorno 15 di ogni mese fino a quando la sottoscrizione viene sospesa.
+
+**Scenario 2: modificare la quantità di licenze**
+
+La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione mensile. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo le seguenti righe di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+|13/1/2018         |14/1/2018    |Tariffa di acquisto   |0,00       |1        |0,00    
+|15/1/2018         |14/2/2018    |Tariffa periodica   |4,00       |1        |4,00    
+
+Il 1° febbraio aumenti la quantità di licenze da una a due. Il 15 febbraio il file di riconciliazione basata su licenza conterrà solo le seguenti righe di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+| 15/1/2018        |14/2/2018    |Ripartizione dell'istanza del ciclo   |-4,00       |1        |4,00    
+|15/1/2018         |31/1/2018    | Ripartizione dell'istanza del ciclo   |2,21       |1        |2,21    
+|1/2/2018         |14/2/2018    | Ripartizione dell'istanza del ciclo   |1,82       |2        |3,64    
+|15/2/2018         |14/3/2018    | Ripartizione dell'istanza del ciclo   |4,00       |2        |8,00    
+
+**Formule per il prezzo unitario:**
+
+Il prezzo mensile è di 4,00 e sono presenti 31 giorni nel periodo del servizio 15/1/2018-14/2/2018. Ciò equivale a un prezzo giornaliero di 0,13 (31/4).
+
+Ci sono 17 giorni nel periodo di ripartizione proporzionale 15/1/2018 – 31/1/2018.
+
+Prezzo unitario ripartito = 2,21 = 17 x 0,13
+
+Ci sono 14 giorni nel periodo di ripartizione proporzionale 1/2/2018 – 14/2/2018.
+
+Prezzo unitario ripartito = 1,82 = 14 x 0,13
+
+**Scenario 3: sospendere prima di 30 giorni**
+
+La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione mensile. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo le seguenti righe di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+|13/1/2018         |14/1/2018    |Tariffa di acquisto   |0,00       |1        |0,00    
+|15/1/2018         |14/2/2018    |Tariffa periodica   |4,00       |1        |4,00    
+
+Il 1° febbraio sospendi la sottoscrizione. Il 15 febbraio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+15/1/2018|14/2/2018|Commissione di annullamento|-4,00|1|4,00
+
+**Scenario 4: sospendere dopo di 30 giorni**
+
+La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione mensile. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo le seguenti righe di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/1/2018|14/1/2018|Tariffa di acquisto|0,00|1|0,00
+15/1/2018|14/2/2018|Tariffa periodica|4,00|1|4,00
+
+Il 15 febbraio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+15/2/2018|14/3/2018|Tariffa periodica|4,00|1|4,00
+
+Il 1° marzo sospendi la sottoscrizione. Il 15 marzo il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+1/3/2018|14/3/2018|Commissione di annullamento|-1,96|1|-1,96
+
+**Formule per il prezzo unitario:**
+
+Il prezzo mensile è di 4,00 e sono presenti 28 giorni nel periodo del servizio 15/2/2018-14/3/2018. Ciò equivale a un prezzo giornaliero di 0,14 (28/4).
+
+Prezzo unitario = giorni nel periodo di servizio x prezzo giornaliero x numero di licenze.
+
+Ci sono 14 giorni nel periodo di annullamento 1/3/2018 – 14/3/2018. 
+
+Di conseguenza, il prezzo unitario = -1,96 (14x0,14 x(-1)).
+
+## <a name="annual-billing-scenarios"></a>Scenario di fatturazione annuale
+
+**Scenario 1: nuova sottoscrizione**
+
+La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione annuale. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/1/2018|12/1/2019|Rateizza le tariffe all'acquisto|48,00|1|48,00
+
+**Scenario 2: modificare la quantità di licenze**
+
+La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione annuale. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/1/2018|12/1/2019|Rateizza le tariffe all'acquisto|48,00|1|48,00
+
+Il 1° febbraio aumenti la quantità di licenze da una a due. Il 15 febbraio il file di riconciliazione basata su licenza conterrà solo le seguenti righe di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  | 
+13/1/2018|12/1/2019|Ripartizione dell'istanza del ciclo|-48,00|1|-48,00
+13/1/2018|31/1/2018|Ripartizione dell'istanza del ciclo|2,47|1|2,47
+1/2/2018|12/1/2019|Ripartizione dell'istanza del ciclo|44,98|2|89,96
+
+**Formule per il prezzo unitario:**
+
+Il prezzo annuale è di 48,00 che equivale al prezzo giornaliero di 0,13 (48,00/365).
+
+Prezzo unitario = giorni nel periodo di servizio x prezzo giornaliero x numero di licenze.
+
+Ci sono 19 giorni nel periodo di servizio 13/1/2018 – 31/1/2018. 
+
+Di conseguenza, il prezzo unitario = 2,47 (19x0,13x1)
+
+Ci sono 346 giorni nel periodo di servizio 1/2/2018 – 12/1/2019. 
+
+Di conseguenza, il prezzo unitario = 44,98 (346x0,13x2)
+
+**Scenario 3: sospendere prima di 30 giorni**
+
+La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione annuale. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/1/2018|12/1/2019|Rateizza le tariffe all'acquisto|48,00|1|48,00
+
+Il 1° febbraio sospendi la tua sottoscrizione. Il 15 febbraio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/1/2018|12/1/2019|Commissione di annullamento|-48,00|1|-48,00
+
+**Scenario 4: sospendere dopo di 30 giorni**
+
+La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione annuale. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/1/2018|12/1/2019|Rateizza le tariffe all'acquisto|48,00|1|48,00
+
+Il 15 febbraio il file di riconciliazione basata su licenza non conterrà righe di fatturazione per questa sottoscrizione.
+Il 1° marzo sospendi la tua sottoscrizione. Il 15 marzo il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+1/3/2018|12/1/2019|Commissione di annullamento|-41,34|1|-41,34
+
+**Formule per il prezzo unitario:**
+
+Il prezzo annuale è di 48,00 che equivale al prezzo giornaliero di 0,13 (48,00/365).
+
+Prezzo unitario = giorni nel periodo di servizio x prezzo giornaliero x numero di licenze.
+
+Ci sono 318 giorni nel periodo di servizio 1/3/2018 – 12/1/2019. 
+
+Di conseguenza, il prezzo unitario = 41,34 (318x0,13x1). Poiché si tratta di un credito il prezzo unitario è -41,34.
+
+**Scenario 5: sospendere e riattivare**
+
+La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione annuale. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/1/2018|12/1/2019|Rateizza le tariffe all'acquisto|48,00|1|48,00
+
+Il 1° febbraio sospendi la tua sottoscrizione. Il 15 febbraio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13/1/2018|12/1/2019|Commissione di annullamento|-48,00|1|-48,00
+
+Il 1° marzo riattivi la tua sottoscrizione. Il 15 marzo il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+|Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+1/3/2018|12/1/2019|Rateizza le tariffe all'acquisto|41,34|1|41,34
+
+**Formule per il prezzo unitario:**
+
+Il prezzo annuale è di 48,00 che equivale al prezzo giornaliero di 0,13 (48,00/365).
+
+Prezzo unitario = giorni nel periodo di servizio x prezzo giornaliero x numero di licenze.
+
+Ci sono 318 giorni nel periodo di servizio 1/3/2018 – 12/1/2019. 
+
+Di conseguenza, il prezzo unitario = 41,34 (318x0,13x1).
 

@@ -1,59 +1,59 @@
 ---
-title: Billing | Partner Center
-Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
+title: Fatturazione | Centro per i partner
+Description: Come partner CSP (Cloud Solution Provider), pagherai Microsoft per le sottoscrizioni in base alla licenza e in base all'uso dei tuoi clienti in via posticipata, dopo 60 giorni.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: 367df00f26c3336b206cbc06c3d2f09138d7ca1e
-ms.sourcegitcommit: 4c29498e3d6d4038044b4cb2cb19a19e6a586823
+ms.openlocfilehash: 971416c2fc4ac5fdc88cc6f64878bacf0e5b69ad
+ms.sourcegitcommit: c65facdf2eea370598bf9a10880239676e047c04
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2017
+ms.lasthandoff: 10/18/2017
 ---
-# <a name="billing"></a>Billing
+# <a name="billing"></a>Fatturazione
 
-**Applies to**
+**Si applica a**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+-  Centro per i partner
+-  Centro per i partner per Microsoft Cloud per il governo statunitense
+-  Centro per i partner per Microsoft Cloud Germania
 
-As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
+Come partner CSP (Cloud Solution Provider), pagherai Microsoft per le sottoscrizioni in base alla licenza e in base all'uso dei tuoi clienti in via posticipata, dopo 60 giorni.
 
-For your bill, go to the **Dashboard** menu, then select **Billing**. This billing page shows your billing history and trend, the balance due for the current month, links to your invoice and reconciliation files, and your most recent payment.
+Per la fattura, vai al menu **Dashboard** e quindi seleziona **Fatturazione**. Questa pagina mostra la cronologia e la tendenza della fatturazione, i link dei file di fatturazione e di riconciliazione e le informazioni sull'ultimo pagamento.
 
--   Microsoft doesn't have any requirements or conditions about how you handle your own invoicing.
--   To determine customers' usage, use the customer ID/name and other relevant fields within the reconciliation files.
--   Add your own fees and charges for services and products that you provide.
--   Send a single bill for all charges to your customer.
+-   Non ci sono requisiti o condizioni sulla modalità di gestione della fatturazione.
+-   Per determinare l'utilizzo da parte dei clienti, usa l'ID o il nome del cliente e altri campi pertinenti dei file di riconciliazione.
+-   Aggiungi le tue tariffe e i tuoi addebiti per i servizi e i prodotti che fornisci.
+-   Invia una sola fattura per tutti gli addebiti al cliente.
 
-## <a name="billing"></a>Billing
+## <a name="billing"></a>Fatturazione
 
 [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md)
 
 [Leggere la fattura](read-your-bill.md)
 
-[Use the reconciliation files](use-the-reconciliation-files.md)
+[Usare i file di riconciliazione](use-the-reconciliation-files.md)
 
-[Tax and tax exemptions](tax-and-tax-exemptions.md)
+[Imposte ed esenzioni fiscali](tax-and-tax-exemptions.md)
 
-[Set an Azure spending budget for your customers](set-an-azure-spending-budget-for-your-customers.md)
+[Impostare un budget di spesa di Azure per i clienti](set-an-azure-spending-budget-for-your-customers.md)
 
-[Common billing scenarios](common-billing-scenarios.md)
+[Scenari di fatturazione comuni](common-billing-scenarios.md)
 
-[Non-payment, fraud, or misuse](non-payment--fraud--or-misuse.md)
+[Insoluti, frodi o uso improprio](non-payment--fraud--or-misuse.md)
 
-[PSTN services](o365-e5-in-csp-advisory.md)
+[Servizi PSTN](o365-e5-in-csp-advisory.md)
 
-## <a name="in-this-section"></a>In this section
+## <a name="in-this-section"></a>Contenuto della sezione
 
 
--   [Billing basics](#billingbasics)
+-   [Nozioni di base sulla fatturazione](#billingbasics)
 
--   [License-based billing](#licensebasedbilling)
+-   [Fatturazione in base alle licenze](#licensebasedbilling)
 
--   [Usage-based billing](#usagebasedbilling)
+-   [Fatturazione in base all'uso](#usagebasedbilling)
 
-## <a href="" id="billingbasics"></a>Billing basics
+## <a href="" id="billingbasics"></a>Nozioni di base sulla fatturazione
 
 
 <table>
@@ -63,50 +63,50 @@ For your bill, go to the **Dashboard** menu, then select **Billing**. This billi
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Dates</td>
+<td>Date</td>
 <td><ul>
-<li>Your monthly billing date is the day of the month you selected during enrollment. Microsoft will send a confirmation email that includes your billing date.</li>
-<li>You can find price lists 1 month in advance, as they're updated monthly. License-based prices are guaranteed for the term of the subscription, usually 12 months from the purchase date. Usage-based prices can change on a monthly basis. We will provide 30 days’ notice for any price change through the publication of our Partner Price List.</li>
+<li>La data di fatturazione mensile è il giorno del mese selezionato durante la registrazione. Microsoft invierà un'e-mail di conferma che include la data di fatturazione.</li>
+<li>I listini prezzi sono disponibili con 1 mese di anticipo, dato che vengono aggiornati mensilmente. I prezzi in base alle licenze sono garantiti per l'intera durata della sottoscrizione, in genere 12 mesi dalla data di acquisto. I prezzi in base all'uso possono variare di mese in mese. Per qualsiasi variazione dei prezzi verrà fornito un preavviso di 30 giorni tramite la pubblicazione del listino prezzi per i partner.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Payment terms</td>
+<td>Condizioni di pagamento</td>
 <td><ul>
-<li>Payment terms - net 60 days.</li>
-<li>Payments must be made by the invoice due date (60 days after the billing date), or the account will be delinquent.</li>
-<li>Delinquent accounts are subject to suspension and/or termination from the Cloud Solution Provider program. Suspended accounts can't create a new customer or order, request a reseller relationship, increase or decrease quantities of subscriptions, order add-on subscriptions, convert or transition a subscription and will be limited to managing existing customers, subscriptions and resources until the account is brought current. Partners can regain full functionality of their suspended accounts when they pay their outstanding bills.</li>
+<li>Le condizioni di pagamento sono a 60 giorni dalla data della fattura.</li>
+<li>I pagamenti devono essere effettuati entro la data di scadenza della fattura (60 giorni dopo la data di fatturazione) o l'account sarà considerato insolvente.</li>
+<li>Gli account insolventi sono soggetti alla sospensione e/o all'esclusione dal programma Cloud Solution Provider. Gli account sospesi non possono creare un nuovo cliente o un ordine, richiedere una relazione come rivenditore, aumentare o diminuire le quantità di sottoscrizioni, ordinare sottoscrizioni aggiuntive, convertire una sottoscrizione o eseguirne la transizione e saranno limitati alla gestione dei clienti, delle sottoscrizioni e delle risorse esistenti fino alla riattivazione dell'account. I partner possono ottenere di nuovo l'accesso alle funzionalità complete per gli account sospesi quando saldano le fatture arretrate.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Billing rules</td>
+<td>Regole per la fatturazione</td>
 <td><ul>
-<li>You will receive one invoice each month for the CSP program.</li>
-<li>License-based subscriptions are billed based on licenses purchased, not licenses used.</li>
-<li>Azure (usage-based subscriptions) are billed according to metered rates, based on consumption.</li>
-<li>Price is guaranteed through the term of the subscription. Prices may change at subscription renewal.</li>
+<li>Riceverai una fattura al mese per il programma CSP.</li>
+<li>La fatturazione delle sottoscrizioni in base alle licenze avviene in base alle licenze acquistate e non alle licenze usate.</li>
+<li>Le sottoscrizioni di Azure (in base all'uso) vengono fatturate in base a tariffe a consumo.</li>
+<li>Il prezzo è garantito per l'intera durata della sottoscrizione. I prezzi possono subire variazioni al momento del rinnovo della sottoscrizione.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Invoice availability</td>
+<td>Disponibilità delle fatture</td>
 <td><ul>
-<li>You can view and download your invoices and reconciliation files from the Billing page in the Partner Center.</li>
+<li>Puoi visualizzare e scaricare le fatture e i file riconciliazione dalla pagina Fatturazione nel Centro per i partner.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Adjustments/Credits/Cancellations</td>
+<td>Rettifiche/crediti/annullamenti</td>
 <td><ul>
-<li>Credits for test accounts and integration testing are not authorized. To avoid subscription charges or early termination fee charges when you are performing testing, you can cancel the subscription during the “free period”. All consumption usage charges for Azure services are your responsibility.</li>
-<li>You'll see adjustments and credits in arrears on your next monthly billing invoice after the credit or adjustment is applied.</li>
+<li>Non sono autorizzati crediti per gli account di test e il testing di integrazione. Per evitare addebiti per la sottoscrizione o per la risoluzione anticipata durante l'esecuzione del testing, puoi annullare la sottoscrizione durante il "periodo gratuito". Tutti gli addebiti per l'uso a consumo di servizi di Azure sono tua responsabilità.</li>
+<li>Vedrai le rettifiche e i crediti posticipati nella fattura successiva, dopo l'applicazione del credito o della rettifica.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Tax</td>
+<td>Imposte</td>
 <td><ul>
-<li>You will be taxed based on your details, (not your customers') as the billing relationship is between Microsoft and you.</li>
-<li>You can submit your tax ID during onboarding or via a service request. You'll see the changes reflected on your next billing cycle.</li>
-<li>For <strong>withholding and sales tax exemption</strong>, you must submit tax documentation via a service request. You'll see the changes and appropriate refunds on your next billing cycle.</li>
-<li>For <strong>value added tax (VAT) exemption</strong>, you must submit your VAT ID (validated by Microsoft) via a service request. You'll see the changes and appropriate refunds on your next billing cycle.</li>
-<li>Find further tax details from your local tax office or tax advisor.</li>
+<li>Le imposte verranno applicate in base ai dettagli da te forniti (non quelli dei clienti), perché la relazione di fatturazione esiste tra te e Microsoft.</li>
+<li>Puoi inviare il tuo ID fiscale al momento dell'adesione o tramite una richiesta di servizio. Le modifiche saranno riportate nel ciclo di fatturazione successivo.</li>
+<li>Per richiedere l'<strong>esenzione dalla ritenuta alla fonte e dall'imposta di vendita</strong>, è necessario inoltrare la documentazione fiscale appropriata tramite una richiesta di servizio. Le modifiche e i rimborsi appropriati saranno visibili nel ciclo di fatturazione successivo.</li>
+<li>Per l'<strong>esenzione IVA (imposta sul valore aggiunto)</strong>, devi inviare il numero di partita IVA (convalidato da Microsoft) tramite una richiesta di servizio. Le modifiche e i rimborsi appropriati saranno visibili nel ciclo di fatturazione successivo.</li>
+<li>Per ulteriori dettagli sugli obblighi fiscali, rivolgiti all'ufficio imposte locale o al tuo consulente fiscale di fiducia.</li>
 </ul></td>
 </tr>
 </tbody>
@@ -114,7 +114,7 @@ For your bill, go to the **Dashboard** menu, then select **Billing**. This billi
 
  
 
-## <a href="" id="licensebasedbilling"></a>License-based billing
+## <a href="" id="licensebasedbilling"></a>Fatturazione in base alle licenze
 
 
 <table>
@@ -124,29 +124,29 @@ For your bill, go to the **Dashboard** menu, then select **Billing**. This billi
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Up to one free month incentive</td>
+<td>Fino a un mese gratuito come incentivo</td>
 <td><ul>
-<li>You are not billed for any charges during the initial period from the subscription start date to the date of your next consolidate bill (up to one full month), regardless of the seat count.</li>
-<li>This results in simpler billing reconciliation.</li>
-<li>All subscriptions auto-renew for a new 12 month period with 12 monthly advanced charges if the subscription is not cancelled in line with the appropriate agreements.</li>
-<li>The free period does not apply to usage-based services.</li>
+<li>Non riceverai alcun addebito durante il periodo iniziale dalla data di inizio sottoscrizione fino alla data del successivo riepilogo consolidato per la fatturazione (per un periodo massimo di un mese), indipendentemente dal numero delle postazioni.</li>
+<li>Ciò semplifica la riconciliazione di fatturazione.</li>
+<li>Per tutte le sottoscrizioni è previsto il rinnovo automatico per ulteriori 12 mesi con addebito anticipato delle 12 mensilità, se la sottoscrizione non viene annullata conformemente ai contratti appropriati.</li>
+<li>Il periodo gratuito non si applica ai servizi in base all'uso.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Billing rules</td>
+<td>Regole per la fatturazione</td>
 <td><ul>
-<li>Subscriptions are annual and auto-renewed.</li>
-<li>Billing is in 12 monthly payments per annual subscription.</li>
-<li>You are billed in advance for the next billing period for license-based services, based on number of licenses at the end of the prior billing period.</li>
-<li>You are billed/credited in arrears for any changes in the number of licenses(pro-rata calculation based on license-days). Pro-rata calculation uses the following formula: [ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]</li>
-<li>Payments are billed for seats sold (not seats provisioned).</li>
+<li>Le sottoscrizioni sono annuali e rinnovate automaticamente.</li>
+<li>La fatturazione avviene in 12 rate mensili per ogni sottoscrizione annuale.</li>
+<li>La fatturazione avviene in anticipo per il periodo di fatturazione successivo per i servizi in base alle licenze, in base al numero di licenze alla fine del periodo di fatturazione precedente.</li>
+<li>Eventuali modifiche del numero di licenze verranno addebitate/accreditate posticipatamente (con un calcolo proporzionale basato su licenza/giorni). Per il calcolo proporzionale viene usata la formula seguente: [ARROTONDA((ARROTONDA(Prezzo unitario * Quantità / Numero di giorni nel mese della ripartizione, 2) * Numero di giorni per la ripartizione) / Quantità, 2) * Quantità]</li>
+<li>Gli addebiti sono riferiti alle postazioni vendute e non alle postazioni sottoposte a provisioning.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Adjustments/Credits/Cancellations</td>
+<td>Rettifiche/crediti/annullamenti</td>
 <td><ul>
-<li>Early termination fees are currently not charged for the cancellation of license-based services.</li>
-<li>Cancellation credits for licensed based services are pro-rated for unused days for mid-cycle cancellations (as well as license decreases per the formula above).</li>
+<li>Non sono attualmente previsti costi di risoluzione anticipata per l'annullamento dei servizi in base alle licenze.</li>
+<li>I crediti per l'annullamento dei servizi in base alle licenze vengono calcolati in modo proporzionale per i giorni inutilizzati nel caso di annullamenti precedenti alla data di scadenza (così come le riduzioni di licenze in base alla formula precedente).</li>
 </ul></td>
 </tr>
 </tbody>
@@ -154,10 +154,10 @@ For your bill, go to the **Dashboard** menu, then select **Billing**. This billi
 
  
 
-## <a href="" id="usagebasedbilling"></a>Usage-based billing
+## <a href="" id="usagebasedbilling"></a>Fatturazione in base all'uso
 
 
-Azure operates in the "pay as you go" model, in which you are only billed for Azure services used.
+Azure funziona con un modello di "pagamento a consumo", in base al quale vengono addebitati solo i servizi di Azure effettivamente usati.
 
 <table>
 <colgroup>
@@ -166,25 +166,25 @@ Azure operates in the "pay as you go" model, in which you are only billed for Az
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Billing rules</td>
+<td>Regole per la fatturazione</td>
 <td><ul>
-<li>Billing starts on the subscription start date. There is no “free period” for usage-based billing.</li>
-<li>Subscriptions are month-to-month and auto-renew at the new metered service rates. Billing is monthly in arrears, based on usage.</li>
-<li>Metered service rates can change within the invoice cycle.
+<li>La fatturazione inizia in concomitanza con la data di inizio della sottoscrizione. Per la fatturazione in base all'uso non è previsto un "periodo gratuito".</li>
+<li>Le sottoscrizioni sono mensili e rinnovate automaticamente in base alle nuove tariffe del servizio a consumo. La fatturazione è mensile in via posticipata, in base all'uso.</li>
+<li>Le tariffe per i servizi a consumo possono variare all'interno del ciclo di fatturazione.
 <ul>
-<li>Price increases: 30 days notice is provided.</li>
-<li>Price decreases: reflected day of change.</li>
-<li>Existing subscriptions use the rate in effect at the beginning of the bill cycle.</li>
-<li>New subscriptions (created within bill cycle) use the rate in effect at the create date.</li>
+<li>Aumenti di prezzo: è previsto un preavviso di 30 giorni</li>
+<li>Riduzioni del prezzo: attive dal giorno della modifica.</li>
+<li>Per le sottoscrizioni esistenti verranno usate le tariffe in vigore all'inizio del ciclo di fatturazione.</li>
+<li>Le nuove sottoscrizioni (create all'interno del ciclo di fatturazione) usano le tariffe in vigore alla data di creazione.</li>
 </ul></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Adjustments/Credits/Cancellations</td>
+<td>Rettifiche/crediti/annullamenti</td>
 <td><ul>
-<li>You'll see payments with adjustments on your next monthly billing invoice.</li>
-<li>Early termination fees are currently not charged for the cancellation of usage-based services.</li>
-<li>You'll see credits of any type, including SLA credits, on your next monthly billing invoice.</li>
+<li>I pagamenti con rettifiche compariranno nella fattura mensile successiva.</li>
+<li>Non sono attualmente previsti costi di risoluzione anticipata per l'annullamento dei servizi in base all'uso.</li>
+<li>I crediti di qualsiasi tipo, inclusi quelli per il contratto di servizio, compariranno nella fattura mensile successiva.</li>
 </ul></td>
 </tr>
 </tbody>

@@ -4,11 +4,11 @@ description: "Condividi il nostro obiettivo di avere Windows 10 su 1 miliardo di
 author: Daniel Simpson
 robots: noindex,nofollow
 keywords: competenza, competenze, Windows e dispositivi
-ms.openlocfilehash: cb41a30e8a578471fd0866cfe343a9b8dd11978b
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: f10523cb7b16ac0122198c372ea95ff62c160866
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 #<a name="windows-and-devices"></a>Windows e dispositivi 
 Condividi il nostro obiettivo di avere Windows 10 su 1 miliardo di dispositivi. La possibilità si estende su servizi, applicazioni e dispositivi. Questa competenza offre strumenti, contenuto e risorse che consentono di creare e far crescere la propria procedura redditizia di Windows 10.
@@ -87,7 +87,7 @@ L'opzione di partner dei dispositivi è ideale se preferisci dimostrare le compe
 
         - Area di interesse di **Produttore di sistema**
 
-            - [Esame 70-734](https://www.microsoft.com/en-us/learning/exam-70-734.aspx): preinstallazione OEM per Windows 10
+            - [Esame 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): produzione OEM e distribuzione per Windows 10
 
     **OPPURE**
 

@@ -3,11 +3,11 @@ title: Account aziendali e Centro per i partner | Centro per i partner
 description: Per creare un account del Centro per i partner, la tua azienda deve disporre di un account aziendale.
 author: labrenne
 robots: 
-ms.openlocfilehash: 503d8af5d299a6dd9098fb5f7aafcf998159fb72
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 # <a name="your-work-account-and-partner-center"></a>Account aziendale e Centro per i partner  
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 09/29/2017
 
 # <a name="why-you-need-a-work-account"></a>Perché è necessario un account aziendale
 
-Dobbiamo collegare l'account aziendale della tua organizzazione al nuovo account del Centro per i Partner, in modo che gli utenti tenant possano accedere al Centro per i partner con i propri nomi utente e le password di Azure AD (account aziendale).
+Dobbiamo collegare l'account aziendale della tua organizzazione al nuovo account del Centro per i Partner, in modo che gli utenti account possano accedere al Centro per i partner con i propri nomi utente e le password dell'account aziendale.
 
 Se la tua azienda dispone già di un account aziendale, puoi collegarlo all'account del Centro per i partner. 
 
@@ -25,9 +25,9 @@ Se la tua azienda dispone già di un account aziendale, puoi collegarlo all'acco
 
 Se l'azienda dispone già di un account aziendale, puoi crearne uno senza costi aggiuntivi durante il processo di registrazione. Seleziona **Crea nuovo tenant** nella pagina **Accedi ad Azure Active Directory**. Quando crei un nuovo tenant di Azure Active Directory, crei un nuovo account aziendale. Azure Active Directory è una soluzione di gestione delle identità Single Sign-On di Microsoft.
 
-## <a name="not-sure-if-your-company-already-has-an-azure-work-account"></a>Non sei sicuro che l'azienda disponga già di un account aziendale Azure?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Non sei sicuro che l'azienda disponga già di un account aziendale?
 
-Se non sei sicuro che l'azienda disponga di un account aziendale Azure, attieniti ai seguenti passaggi per controllare. Tieni presente che se disponi di un abbonamento attivo per Microsoft Azure o Office 365, disponi già di un account aziendale.
+Se non sei sicuro che l'azienda disponga di un account aziendale, attieniti ai seguenti passaggi per controllare. Tieni presente che se disponi di un abbonamento attivo per Microsoft Azure o Office 365, disponi già di un account aziendale.
 1.  Accedi al portale di amministrazione di Azure all'indirizzo https://ms.portal.azure.com
 2.  Seleziona Azure Active Directory dal menu, quindi seleziona i nomi di dominio.
 3.  Se disponi già di un account aziendale, il tuo nome di dominio verrà elencato.
@@ -36,7 +36,7 @@ Se non sei sicuro che l'azienda disponga di un account aziendale Azure, attienit
 
 Se desideri utilizzare un account aziendale esistente, ma si verificano problemi durante l'accesso, trova nel diagramma seguente lo scenario che meglio corrisponde alla tua situazione specifica e segui i passaggi consigliati. 
 
-![Disponi di un account aziendale Azure oppure devi crearne uno?](images/onboardingAADFlow.png)
+![Disponi di un account aziendale oppure devi crearne uno?](images/onboardingAADFlow.png)
 
 Per ulteriori informazioni sull'aggiunta di domini in Azure AD, consulta [Aggiungi o associa un dominio in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 

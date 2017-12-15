@@ -3,11 +3,11 @@ title: Rispondere alle segnalazioni | Centro per i partner
 description: Valutare, negoziare e rispondere alle segnalazioni tramite il Centro per i partner.
 author: KPacquer
 keywords: segnalazione, richiesta di informazioni, Trova un partner
-ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Rispondere alle segnalazioni nel Centro per i partner
 
@@ -19,7 +19,7 @@ In qualità di partner Microsoft qualificato, puoi ricevere nuovi lead tramite l
 
 ## <a name="referral-management"></a>Gestione delle segnalazioni
 
-Inizia impostando un [profilo di marketing](create-a-marketing-profile.md) per ogni area geografica in cui operi. Quando il tuo profilo sarà attivo, potremo indirizzare i clienti verso la tua azienda, tramite:
+Inizia configurando un [profilo di lavoro](create-a-marketing-profile.md) per ogni area geografica in cui operi. Quando il tuo profilo sarà attivo, potremo indirizzare i clienti verso la tua azienda, tramite:
 
 *  Attività di marketing Microsoft
 *  Agenti di servizio e di vendita Microsoft interni
@@ -27,7 +27,7 @@ Inizia impostando un [profilo di marketing](create-a-marketing-profile.md) per o
 
 Quando un cliente è interessato a contattarti, invierà una richiesta di informazioni. 
 
-In questo caso, invieremo un messaggio di posta elettronica al contatto indicato nel [profilo di marketing](create-a-marketing-profile.md) specifico dell'area geografica e della sede selezionata. Le richieste di informazioni in arrivo possono anche essere visualizzate nel Centro per i partner in **Dashboard > Segnalazioni > Customer referrals**.
+In questo caso, invieremo un'e-mail al contatto indicato nel [profilo di lavoro](create-a-marketing-profile.md) specifico dell'area geografica e della località selezionata. Le richieste di informazioni in arrivo possono anche essere visualizzate nel Centro per i partner in **Dashboard > Segnalazioni > Customer referrals**.
 
 I clienti spesso scelgono di inviare la stessa richiesta di informazioni a più aziende contemporaneamente. Per aumentare le probabilità di successo, è consigliabile rispondere e accettare o rifiutare le nuove segnalazioni entro 24 ore o meno.
 
@@ -59,9 +59,9 @@ Esamina le segnalazioni passate (**vinta, persa, ignorata, missed, rifiutata** o
 
 Ecco alcuni suggerimenti per assicurarti di ricevere un maggior numero di segnalazioni appropriate per la tua azienda:
 
-*  **Verifica le informazioni di contatto nel tuo [profilo di marketing](create-a-marketing-profile.md)** per ogni sede per assicurarti che il tuo team riceva gli avvisi in arrivo.
+*  **Verifica le informazioni di contatto nel tuo [profilo di lavoro](create-a-marketing-profile.md)** per ogni località per assicurarti che il tuo team riceva gli avvisi in arrivo.
 
-*  **Scegli le parole chiave e le preferenze che rappresentano la tua esperienza e il tuo modello di business esclusivi** nel [profilo di marketing](create-a-marketing-profile.md). Rimuovi le parole chiave che generano segnalazioni a cui non sei interessato. Se non sei interessato a trattare con aziende di una determinata dimensione, aggiorna questa preferenza.
+*  **Scegli le parole chiave e le preferenze che rappresentano la tua esperienza e il tuo modello di business specifici** nel [profilo di lavoro](create-a-marketing-profile.md). Rimuovi le parole chiave che generano segnalazioni a cui non sei interessato. Se non sei interessato a trattare con aziende di una determinata dimensione, aggiorna questa preferenza.
 
 *  **Rispondi velocemente alle segnalazioni**. Se rispondi tempestivamente alle richieste in arrivo, aumenteremo la tua visibilità nei risultati delle future ricerche dei clienti. Assicurati che il team risponda velocemente indicando le intenzioni.
 

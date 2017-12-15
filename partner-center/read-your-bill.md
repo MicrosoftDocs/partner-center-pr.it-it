@@ -3,11 +3,12 @@ title: Leggere la fattura | Centro per i partner
 description: "La fattura è un riepilogo di tutti gli addebiti (per il programma, i prodotti e i clienti) per il periodo mensile corrente. È disponibile nel dashboard del Centro per i partner."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: 65c3777c0bd35933f2622fc0de105c051001974e
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+keywords: "fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?"
+ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
@@ -17,7 +18,13 @@ ms.lasthandoff: 07/01/2017
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
-La fattura è un riepilogo di tutti gli addebiti (per il programma, i prodotti e i clienti) per il periodo mensile corrente. È disponibile nel dashboard del Centro per i partner.
+Per la fatturazione, accedi al menu **Dashboard** e seleziona **Fatturazione** per visualizzare la cronologia e le tendenze della fatturazione, link al file di fatturazione e di riconciliazione e informazioni sull'ultimo pagamento.
+
+I partner del programma Cloud Solution Provider che hanno scelto la fatturazione mensile pagheranno Microsoft per gli abbonamenti dei clienti (sia in base a licenza che in base all'uso) in via posticipata, dopo 60 giorni.
+
+>**Nota**<br>
+La fattura è un riepilogo di tutti gli addebiti relativi a programma, prodotti e clienti per il periodo di fatturazione corrente ed è disponibile entro quattro (4) giorni dalla data di fatturazione selezionata.
+
 
 Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I file di riconciliazione includono gli ID dei clienti e gli ID delle sottoscrizioni che userai per creare le fatture per i clienti. Per altre informazioni, vedi [Come usare i file di riconciliazione](use-the-reconciliation-files.md).
 
@@ -44,7 +51,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 </tr>
 <tr class="even">
 <td>Indirizzo fatturazione</td>
-<td>Indirizzo a cui inviare la fattura. Per cambiare questo indirizzo, modifica il tuo profilo dell'account del Centro per i partner.</td>
+<td>Indirizzo a cui inviare la fattura. Per modificare questo indirizzo, vai a Impostazioni account > Profilo di fatturazione partner. </td>
 </tr>
 <tr class="odd">
 <td>Addebiti periodici</td>

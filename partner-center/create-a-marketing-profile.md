@@ -1,13 +1,13 @@
 ---
-title: Creare un profilo di marketing | Centro per i partner
-description: Conquistare altri clienti potenziali creando un profilo di marketing nel Centro per i partner.
+title: Creare un profilo di lavoro | Centro per i partner
+description: Attrai un numero maggiore di clienti potenziali creando un profilo di lavoro nel Centro per i partner.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: b4ff498f7c44e4f2fcb49cb5e4c1d659175ac60a
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+ms.openlocfilehash: edcecf3372453e17d85017a93a258919e29d6608
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/22/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -18,32 +18,33 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
  -->
 
 
-# <a name="create-a-marketing-profile"></a>Creare un profilo di marketing
+# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Creare un profilo di lavoro per ottenere lead di vendita da Microsoft
 
 **Si applica a**
 
 -  Centro per i partner
 
-In qualità di partner Microsoft qualificato, puoi creare un profilo di marketing per presentare la tua azienda ai clienti che cercano soluzioni ed esperienza uniche che soddisfino le loro esigenze aziendali.
+In qualità di partner Microsoft qualificato, puoi creare un profilo di lavoro per presentare la tua azienda ai clienti che cercano soluzioni e competenze specifiche per soddisfare le loro esigenze.
 
 Microsoft attira milioni di clienti ogni anno attraverso attività di marketing, vendita e servizi. La maggior parte di queste attività permette a Microsoft di offrire ai suoi partner delle segnalazioni in termini di clienti potenziali. 
 
-Il primo passaggio per raggiungere questi lead consiste nel creare un profilo di marketing. Microsoft mostrerà il tuo profilo ai clienti che cercano partner in grado di aiutarli a implementare le soluzioni e i prodotti Microsoft tramite:
+Il primo passaggio per raggiungere questi lead consiste nel creare un profilo di lavoro. Microsoft mostrerà il tuo profilo ai clienti che cercano partner in grado di aiutarli a implementare le soluzioni e i prodotti Microsoft tramite:
 
-*  **L'esperienza della ricerca [Trova un partner](https://partnercenter.microsoft.com/pcv/search)**. I clienti potenziali possono eseguire personalmente una ricerca negli elenchi di partner per individuare i partner che soddisfano i criteri di ricerca. 
+*  **L'esperienza della ricerca [Trova un partner](https://partnercenter.microsoft.com/pcv/search)**. I clienti potenziali possono eseguire personalmente una ricerca negli elenchi di partner per individuare i partner che soddisfano i criteri di ricerca.
+
 *  **Segnalazioni da dipendenti di servizi e vendite Microsoft**. I clienti potenziali interessati alla distribuzione di soluzioni tecnologiche basate sul cloud contattano Microsoft per informazioni sui professionisti in grado di aiutarli a soddisfare le esigenze aziendali. Questi professionisti Microsoft possono quindi rimandare i clienti potenziali alla tua azienda.
 
-**Pinpoint e C2PC**: stiamo unendo questi strumenti nel Centro per i partner. Se hai usato questi strumenti in passato, crea un nuovo profilo di marketing nel Centro per i partner per continuare a generare e gestire i lead di vendita. Nota: attualmente non supportiamo l'importazione di profili dai siti precedenti. 
+**Pinpoint e C2PC**: stiamo unendo questi strumenti nel Centro per i partner. Se hai usato questi strumenti in passato, crea un nuovo profilo di lavoro nel Centro per i partner per continuare a generare e gestire i lead di vendita. Nota: attualmente non supportiamo l'importazione di profili dai siti precedenti. 
 
 ## <a name="create-a-profile"></a>Crea un profilo
 
 Crea profili per ogni area geografica in cui sei autorizzato a svolgere la tua attività. 
 
-1.  Accedi a [Centro per i partner](http://go.microsoft.com/fwlink/p/?LinkId=808956) utilizzando un [account di amministratore globale o agente amministratore](create-user-accounts-and-set-permissions.md).
+1.  Accedi al [Centro per i partner](http://go.microsoft.com/fwlink/p/?LinkId=808956) utilizzando un [account di amministratore globale o agente amministratore](create-user-accounts-and-set-permissions.md).
 
-2.  Nel menu **Dashboard** seleziona **Segnalazioni** &gt; **Visualizza profili marketing** &gt; seleziona un paese/un'area geografica > **[Creare un profilo di marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
+2.  Nel menu **Dashboard** seleziona **Segnalazioni** &gt; **Visualizza profili di lavoro** &gt;, seleziona un paese/un'area geografica > **[Crea un profilo di lavoro](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-3.  Nella pagina **Creare un profilo di marketing** seleziona un'area geografica, quindi immetti le informazioni del profilo.
+3.  Nella pagina **Crea un profilo di lavoro** seleziona un'area geografica, quindi immetti le informazioni del profilo.
     
     Nota: mentre il Centro per i partner supporta più lingue, per alcuni elementi, ad esempio la descrizione e i tag in formato libero potrebbe essere necessario includere il testo da lingue diverse, come indicato in questo argomento.
 

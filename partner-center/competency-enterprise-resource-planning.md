@@ -1,93 +1,32 @@
 ---
-title: Enterprise Resource Planning Competency
-description: "Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs."
+title: Competenza di pianificazione delle risorse aziendali
+description: Diventa un partner Microsoft dimostrando il calibro dell'organizzazione nello sviluppo e distribuzione di soluzioni Dynamics per le esigenze di pianificazione delle risorse aziendali.
 author: Daniel Simpson
-keywords: competency,competencies,Enterprise Resource Planning
-ms.openlocfilehash: 7608e8bb44134fde6ff05db360db9fd2ccb04d7d
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+keywords: competenza, competenze, pianificazione delle risorse aziendali
+ms.openlocfilehash: f9aa424e4bbc6e0cce3e9abdd4a284183675c6cf
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/16/2017
 ---
-#<a name="enterprise-resource-planning"></a>Enterprise Resource Planning 
-Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs.
+#<a name="enterprise-resource-planning"></a>Pianificazione delle risorse aziendali 
+Diventa un partner Microsoft dimostrando il calibro dell'organizzazione nello sviluppo e distribuzione di soluzioni Dynamics per le esigenze di pianificazione delle risorse aziendali.
 
-##<a name="erp-reseller-option"></a>ERP Reseller option
-The Enterprise Resource Planning (ERP) Reseller option is ideal for partners who want to prove their capability by meeting revenue thresholds and exam requirements. Complete all the steps within the option to attain the Enterprise Resource Planning competency.
-
-###<a name="silver"></a>Silver
-
-1. Your organization must meet the performance thresholds.
-
-    - **Developed Markets**
-        - Partner must have earned a total annual gross license revenue of US$75,000
-       
-    - **Mercati in sviluppo**
-        - I partner devono aver guadagnato un ricavo totale annuo lordo dalle licenze di $ 40.000
- 
-    - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan 2.  
-
-2. Your organization must have **5** individuals pass the exam requirements.
-
-    - **1** individual must pass the following exam:
-        - Exam [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction
-
-    **AND**
-
-    - Another individual must pass the following exam:
-        - [Exam MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade
-
-    **AND**
-
-    - Another individual must pass the following exam:
-        - [Exam MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials
-
-    **AND**
-
-    - Another individual must pass the following exam:
-        - [Exam MB6-705](https://www.microsoft.com/en-us/learning/exam-mb6-705.aspx): Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration
-
-    **AND**
-
-    - Another individual must pass the following exam:
-        - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+##<a name="erp-reseller-option"></a>Opzione di rivenditore ERP
+L'opzione di rivenditore Enterprise Resource Planning (ERP) è ideale per i partner che desiderano dimostrare le proprie competenze soddisfacendo le soglie dei ricavi. Completa tutti i passaggi all'interno dell'opzione per ottenere la competenza di pianificazione delle risorse aziendali.
 
 ###<a name="gold"></a>Gold
 
-1. Your organization must meet the performance thresholds.
+L'organizzazione deve soddisfare le soglie delle prestazioni.
 
-    - **Developed Markets**
+    - **Mercati sviluppati**
     -   I partner devono aver guadagnato un ricavo totale annuo lordo dalle licenze di $ 175.000
   
     - **Mercati in sviluppo**
         - I partner devono aver guadagnato un ricavo totale annuo lordo dalle licenze di $ 75.000 
 
-    - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan 2.  
+        - Soddisfa i requisiti dei ricavi per Microsoft Dynamics AX locale e Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV e/o Dynamics 365 Plan o Unified Operations Plan.  
 
-2. Your organization must have **5** individuals pass the exam requirements.
-
-    - **1** individual must pass the following exam:
-        - [Exam MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction
-
-    **AND**
-
-    - Another individual must pass the following exam:
-        - [Exam MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade
-
-    **AND**
-
-    - Another individual must pass the following exam:
-        - [Exam MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials
-
-    **AND**
-
-    - Another individual must pass the following exam:
-        - [Exam MB6-705](https://www.microsoft.com/en-us/learning/exam-mb6-705.aspx): Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration
-
-    **AND**
-
-    - Another individual must pass the following exam:
-        - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
 
 
 

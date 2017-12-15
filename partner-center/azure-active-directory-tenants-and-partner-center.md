@@ -3,13 +3,13 @@ title: Account aziendali e Centro per i partner | Centro per i partner
 description: Per creare un account del Centro per i partner, la tua azienda deve disporre di un account aziendale.
 author: labrenne
 robots: 
-ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
+ms.openlocfilehash: 8885f20d2f5975da8e4585e1bc314697fa04ad6d
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 11/22/2017
 ---
-# <a name="your-work-account-and-partner-center"></a>Account aziendale e Centro per i partner  
+# <a name="your-company-work-account-and-partner-center"></a>Account aziendale e Centro per i partner  
 
 **Si applica a**
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 10/03/2017
 
 # <a name="why-you-need-a-work-account"></a>Perché è necessario un account aziendale
 
-Dobbiamo collegare l'account aziendale della tua organizzazione al nuovo account del Centro per i Partner, in modo che gli utenti account possano accedere al Centro per i partner con i propri nomi utente e le password dell'account aziendale.
+Dobbiamo collegare l'account aziendale della tua società al nuovo account del Centro per i Partner, in modo che gli utenti dell'account possano accedere al Centro per i partner con i propri nomi utente e le password dell'account aziendale.
 
 Se la tua azienda dispone già di un account aziendale, puoi collegarlo all'account del Centro per i partner. 
 

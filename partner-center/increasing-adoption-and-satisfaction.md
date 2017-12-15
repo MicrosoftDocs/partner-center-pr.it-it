@@ -3,9 +3,11 @@ title: Migliorare i tassi di adozione e soddisfazione | Centro per i partner
 description: "I nostri partner usano molte metriche per valutare la crescita delle loro attività e decidere dove concentrare gli investimenti. Il Centro per i partner può essere di aiuto fornendo dati che indicano se e come i clienti usano le licenze acquistate."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 8d02f753307991cd740c78db9e751a44358597f6
+ms.sourcegitcommit: a8c51a2aade51c6fd7f134613fad121e89ffd719
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 11/21/2017
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Migliorare i tassi di adozione e soddisfazione
 
@@ -16,6 +18,8 @@ translationtype: HT
 I nostri partner usano molte metriche per valutare la crescita delle loro attività e decidere dove concentrare gli investimenti. Il Centro per i partner può essere di aiuto fornendo dati che indicano se e come i clienti usano le licenze acquistate. Queste informazioni sono disponibili per i prodotti Office, incluso OneDrive for Business conteggiato insieme a SharePoint.
 
 Puoi vedere i dati per tutti i tuoi clienti tramite il programma Cloud Solution Provider. Tieni presente che alcuni clienti possono acquistare licenze da altri partner o direttamente da Microsoft. In questi casi, vedrai il numero totale di licenze per tutti i partner. Per vedere solo le tue licenze, vai alle sottoscrizioni del cliente.
+
+>**Nota**<br> Attualmente, mostriamo solo i dati per Office 365 e Dynamics 365. Abiliteremo i dati per prodotti aggiuntivi in futuro.
 
 ## <a name="find-license-and-user-data"></a>Trovare dati sulle licenze e gli utenti
 

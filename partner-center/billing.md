@@ -1,13 +1,13 @@
 ---
 title: Fatturazione | Centro per i partner
-Description: Come partner CSP (Cloud Solution Provider), pagherai Microsoft per le sottoscrizioni in base alla licenza e in base all'uso dei tuoi clienti in via posticipata, dopo 60 giorni.
+Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: 971416c2fc4ac5fdc88cc6f64878bacf0e5b69ad
-ms.sourcegitcommit: c65facdf2eea370598bf9a10880239676e047c04
+ms.openlocfilehash: 1147875ebe6ed9a7cdb95c4d044833c2f9d1ece0
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="billing"></a>Fatturazione
 
@@ -17,12 +17,17 @@ ms.lasthandoff: 10/18/2017
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
-Come partner CSP (Cloud Solution Provider), pagherai Microsoft per le sottoscrizioni in base alla licenza e in base all'uso dei tuoi clienti in via posticipata, dopo 60 giorni.
+Per la fatturazione, accedi al menu **Dashboard** e seleziona **Fatturazione** per visualizzare la cronologia e le tendenze della fatturazione, link al file di fatturazione e di riconciliazione e informazioni sull'ultimo pagamento.
 
-Per la fattura, vai al menu **Dashboard** e quindi seleziona **Fatturazione**. Questa pagina mostra la cronologia e la tendenza della fatturazione, i link dei file di fatturazione e di riconciliazione e le informazioni sull'ultimo pagamento.
+I partner del programma Cloud Solution Provider che hanno scelto la fatturazione mensile pagheranno Microsoft per gli abbonamenti dei clienti (sia in base a licenza che in base all'uso) in via posticipata, dopo 60 giorni.
 
--   Non ci sono requisiti o condizioni sulla modalità di gestione della fatturazione.
--   Per determinare l'utilizzo da parte dei clienti, usa l'ID o il nome del cliente e altri campi pertinenti dei file di riconciliazione.
+>**Nota**<br>
+La fattura è un riepilogo di tutti gli addebiti relativi a programma, prodotti e clienti per il periodo di fatturazione corrente ed è disponibile entro quattro (4) giorni dalla data di fatturazione selezionata.
+
+Informazioni fondamentali da conoscere sulla fatturazione ai clienti:
+
+-   Microsoft non prevede requisiti o condizioni sul modo in cui gestisci la tua fatturazione.
+-   Per determinare l'utilizzo da parte di un cliente, usa l'ID o il nome del cliente e altri campi pertinenti dei file di riconciliazione.
 -   Aggiungi le tue tariffe e i tuoi addebiti per i servizi e i prodotti che fornisci.
 -   Invia una sola fattura per tutti gli addebiti al cliente.
 
@@ -66,7 +71,7 @@ Per la fattura, vai al menu **Dashboard** e quindi seleziona **Fatturazione**. Q
 <td>Date</td>
 <td><ul>
 <li>La data di fatturazione mensile è il giorno del mese selezionato durante la registrazione. Microsoft invierà un'e-mail di conferma che include la data di fatturazione.</li>
-<li>I listini prezzi sono disponibili con 1 mese di anticipo, dato che vengono aggiornati mensilmente. I prezzi in base alle licenze sono garantiti per l'intera durata della sottoscrizione, in genere 12 mesi dalla data di acquisto. I prezzi in base all'uso possono variare di mese in mese. Per qualsiasi variazione dei prezzi verrà fornito un preavviso di 30 giorni tramite la pubblicazione del listino prezzi per i partner.</li>
+<li>I listini prezzi sono disponibili con un (1) mese di anticipo, dato che vengono aggiornati mensilmente. I prezzi in base alle licenze sono garantiti per l'intera durata dell'abbonamento, in genere 12 mesi dalla data di acquisto. I prezzi in base all'uso possono variare di mese in mese. Per qualsiasi variazione dei prezzi verrà fornito un preavviso di 30 giorni tramite la pubblicazione del listino prezzi per i partner.</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -89,7 +94,7 @@ Per la fattura, vai al menu **Dashboard** e quindi seleziona **Fatturazione**. Q
 <tr class="even">
 <td>Disponibilità delle fatture</td>
 <td><ul>
-<li>Puoi visualizzare e scaricare le fatture e i file riconciliazione dalla pagina Fatturazione nel Centro per i partner.</li>
+<li>Puoi visualizzare e scaricare le fatture e i file riconciliazione dalla pagina Fatturazione nel Centro per i partner. Nota che le fatture mensili sono disponibili nel Centro per i partner entro quattro (4) giorni dalla data di fatturazione selezionata.</li>
 </ul></td>
 </tr>
 <tr class="odd">

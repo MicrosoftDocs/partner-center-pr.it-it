@@ -2,36 +2,51 @@
 title: Adesione a Microsoft Partner Network | Centro per i partner
 description: Scopri i vantaggi dell'adesione a Microsoft Partner Network.
 author: MaggiePucciEvans
-ms.openlocfilehash: c265251cfc7ba49032aea16e46a687cb34670a38
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+keywords: partner, partnership, MPN, Microsoft Partner Network, action pack, MAPS, abbonamento action pack, vantaggi, vantaggi MPN, adesione
+ms.openlocfilehash: f429908c69f154e9a25af3c2688011491d7b4125
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/22/2017
 ---
-# <a name="manage-your-microsoft-partner-network-membership-on-partner-center"></a>Gestire l'adesione a Microsoft Partner Network nel Centro per i partner
+# <a name="partner-with-microsoft"></a>Diventare partner Microsoft
 
-## <a name="three-paths-to-partnership"></a>Tre percorsi per l'adesione
+## <a name="join-the-microsoft-partner-network"></a>Aderire a Microsoft Partner Network
 
-Microsoft Partner Network offre tre tipi di adesione. Ciascun tipo di adesione ti consente di ricevere una serie di vantaggi per far crescere la tua azienda. Al conseguimento degli obiettivi, partecipa al livello che soddisfa le esigenze specifiche della tua azienda per accedere ai vantaggi e sviluppare la relazione con noi e gli altri partner della rete.
+Microsoft Partner Network offre tre tipi di adesione. Ciascun tipo di adesione ti consente di ricevere una serie di vantaggi per far crescere la tua azienda. Man mano che consegui i tuoi obiettivi, partecipa al programma al livello che soddisfa le esigenze specifiche della tua azienda per accedere a maggiori vantaggi e sviluppare la relazione con noi e gli altri partner della rete.
 
--   **Membro della rete**. Questo livello di base gratuito ti consente di ricevere una serie di [vantaggi di base in termini di diritti di uso interno]( https://partner.microsoft.com/membership/core-benefits) per aiutarti a gestire l'azienda e compiere il passaggio successivo.
+-   **Membro della rete** Con l'adesione a questo livello di base gratuito riceverai un set di [vantaggi di base in termini di diritti di uso interno](https://partner.microsoft.com/membership/core-benefits) che ti aiuteranno a risparmiare tempo e denaro, sviluppando allo stesso tempo le tue capacità di servire meglio i clienti e creare relazioni che consentiranno alla tua azienda di esprimere tutto il suo potenziale.
 
--   **Action Pack.** Acquista [Action Pack](mpn-get-action-pack.md), una sottoscrizione annua conveniente e ottieni vantaggi aggiuntivi, incluso l'accesso a strumenti per gli sviluppatori, supporto, formazione e software.
+    [Altre informazioni su Microsoft Partner Network](https://partner.microsoft.com/membership/how-it-works)
 
--   **Competenza.** Dimostra la comprovata esperienza nella fornitura di soluzioni di qualità in uno o più settori specifici di business. Le competenze Microsoft sono progettate per prepararti a soddisfare le esigenze dei tuoi clienti e aiutarti ad attirare nuovi clienti in cerca di provider di soluzioni certificate Microsoft. 
+    [Aderisci subito a Microsoft Partner Network](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
 
-    -   Ottieni un livello di adesione Silver per dimostrare capacità, competenza e impegno coerenti
+-   **Action Pack** Acquista Action Pack, un conveniente abbonamento annuo, per ottenere vantaggi aggiuntivi dal Network, incluso l'accesso a strumenti per gli sviluppatori, supporto, formazione e software. A questo livello puoi migliorare la tua competenza e sviluppare nuove capacità.
 
-    -   Ottieni un livello di adesione Gold per dimostrare la tua massima competenza in una specifica area di soluzioni Microsoft
+    [Altre informazioni su Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
 
-    [Altre informazioni](learn-about-competencies.md) sui requisiti di competenza per le adesioni Silver e Gold.
+    [Abbonati subito ad Action Pack](mpn-get-action-pack.md)
 
+-   **Competenza** Dimostra la comprovata esperienza nella fornitura di soluzioni di qualità in uno o più settori specifici di business. Le competenze Microsoft sono studiate per prepararti a soddisfare le esigenze dei tuoi clienti ed essere riconoscibile presso i clienti potenziali. Entra nell'elite dei partner Microsoft e distinguiti dal gruppo.
 
-## <a name="next-steps"></a>Passaggi successivi
+    -   Ottieni competenze Silver per dimostrare capacità, competenza e impegno coerenti
 
-[Creare un account nel Centro per i partner](mpn-create-a-partner-center-account.md)
+    -   Ottieni competenze Gold per dimostrare la tua eccellente competenza in una specifica area di soluzioni Microsoft
 
-[Acquistare o rinnovare Action Pack](mpn-get-action-pack.md)
+    [Altre informazioni sul conseguimento delle competenze Silver e Gold](https://partner.microsoft.com/membership/competencies)
 
-[Altre informazioni sul programma Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider)
+   
+## <a name="get-started-with-partner-center"></a>Introduzione al Centro per i partner
+
+Per rendere più semplice la tua collaborazione con Microsoft e aiutarti a risparmiare tempo e denaro, stiamo lavorando dietro le quinte per spostare funzionalità, caratteristiche e flussi di lavoro attualmente distribuiti in più siti Web, oltre a vari strumenti, nel Centro per i partner, questo sito. 
+
+Man mano che funzionalità specifiche passano nel Centro per i partner, i siti legacy che le ospitavano vengono ritirati. Per continuare a usufruire di queste funzionalità, dovrai creare un account in questo sito, il Centro per i partner. 
+
+Ad esempio, se ottenevi e gestivi segnalazioni in Pinpoint, tale sito è stato ritirato e tutte le funzionalità correlate alle segnalazioni sono ora nel Centro per i partner. Per iniziare a usare il Centro per i partner, procedi come segue:   
+
+-   [Crea un account nel Centro per i partner](mpn-create-a-partner-center-account.md)
+
+-   [Crea un profilo di lavoro per ottenere le segnalazioni di clienti](create-a-marketing-profile.md)
+
+-   [Gestisci i vantaggi dell'adesione al Microsoft Partner Network](manage-your-partner-network-benefits.md)
 

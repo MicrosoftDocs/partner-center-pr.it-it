@@ -2,12 +2,13 @@
 title: Account aziendali e Centro per i partner | Centro per i partner
 description: Per creare un account del Centro per i partner, la tua azienda deve disporre di un account aziendale.
 author: labrenne
+Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: 
-ms.openlocfilehash: 8885f20d2f5975da8e4585e1bc314697fa04ad6d
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 91ee16676e6525180c5ed4351ca502914d98b65b
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Account aziendale e Centro per i partner  
 
@@ -15,15 +16,15 @@ ms.lasthandoff: 11/22/2017
 
 -  Centro per i partner
 
-# <a name="why-you-need-a-work-account"></a>Perché è necessario un account aziendale
+## <a name="why-you-need-a-work-account"></a>Perché è necessario un account aziendale
 
 Dobbiamo collegare l'account aziendale della tua società al nuovo account del Centro per i Partner, in modo che gli utenti dell'account possano accedere al Centro per i partner con i propri nomi utente e le password dell'account aziendale.
 
 Se la tua azienda dispone già di un account aziendale, puoi collegarlo all'account del Centro per i partner. 
 
-**Nota** Prima di decidere di usare un account utente esistente, valuta il numero di utenti nell'account che dovranno lavorare nel Centro per i partner. Se nell'account sono presenti utenti che non dovranno lavorare nel Centro per i partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno lavorare nel Centro per i partner.
+>**Nota** Prima di decidere di usare un account utente esistente, valuta il numero di utenti nell'account che dovranno lavorare nel Centro per i partner. Se nell'account sono presenti utenti che non dovranno lavorare nel Centro per i partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno lavorare nel Centro per i partner.
 
-Se l'azienda dispone già di un account aziendale, puoi crearne uno senza costi aggiuntivi durante il processo di registrazione. Seleziona **Crea nuovo tenant** nella pagina **Accedi ad Azure Active Directory**. Quando crei un nuovo tenant di Azure Active Directory, crei un nuovo account aziendale. Azure Active Directory è una soluzione di gestione delle identità Single Sign-On di Microsoft.
+Se l'azienda non dispone di un account aziendale, puoi crearne uno durante il processo di registrazione. 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Non sei sicuro che l'azienda disponga già di un account aziendale?
 

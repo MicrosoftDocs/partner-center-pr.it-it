@@ -1,13 +1,14 @@
 ---
 title: Aggiungere licenze o servizi a una sottoscrizione esistente | Centro
-description: "Se il cliente necessita di più postazioni rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione."
+description: "Se il cliente necessita di più licenze rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione."
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-ms.openlocfilehash: f33841361b10a4fb2358aafc13342689ec0780ef
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+keywords: aggiungere licenze a una sottoscrizione esistente, aggiungere postazioni a una sottoscrizione esistente, modificare una sottoscrizione, cambiare una sottoscrizione, acquistare ulteriori licenze per un cliente
+ms.openlocfilehash: c5d5a2e57385a46b6f64d7632593735e026f0dcb
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 12/08/2017
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Aggiungere licenze o servizi a una sottoscrizione esistente
 

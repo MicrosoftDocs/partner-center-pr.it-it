@@ -3,11 +3,12 @@ title: Aggiungere un nuovo cliente | Centro per i partner
 description: Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto, devi creare un record per il tuo cliente nel Centro per i partner. Il record include le informazioni di contatto e un dominio di Azure AD.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
-ms.openlocfilehash: c6bb20cdc2dbb7bc6c3a04bb8c01b5cfe685dfe4
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+keywords: cliente, aggiungere un cliente, account del cliente, account del cliente nel Centro per i partner, clienti, aggiungere i clienti, creare un account del cliente
+ms.openlocfilehash: 222fe2acb5abd09061b83a8ee67540666413d04d
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 12/08/2017
 ---
 # <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente
 

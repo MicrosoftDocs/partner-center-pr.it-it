@@ -3,10 +3,12 @@ title: "Visualizzare i log attività dei clienti | Centro per i partner"
 description: "I log attività offrono informazioni sulle transazioni e le operazioni di gestione dei partner per i clienti."
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
-ms.openlocfilehash: 6033b58f52889f8656b3827a0aaef5525abd3c9d
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
+ms.openlocfilehash: b877143abdc07dc0f6e23ef33ee64cd72afda11e
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: it-IT
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="view-customer-activity-logs"></a>Visualizzare i log attività dei clienti
 

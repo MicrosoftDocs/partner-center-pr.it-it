@@ -3,11 +3,11 @@ title: Usare i file di riconciliazione | Centro per i partner
 description: Per una visualizzazione delle voci relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal dashboard del Centro per i partner.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892204ebcdfe1e1318985f2d50df8af2238bd4c1
-ms.sourcegitcommit: 2436cb77fbefc41cc9cb3e62e8a616b6326c557f
+ms.openlocfilehash: bcb5677d2b1309df0e33e093a3908d55e5792580
+ms.sourcegitcommit: ac370f5d2d5b74e1e4752eaeec6fde73e5328225
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/04/2017
+ms.lasthandoff: 12/15/2017
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -149,7 +149,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>Prezzo per postazione. Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</p></td>
+<td><p>Prezzo per postazione, come pubblicato nel listino prezzi al momento dell'acquisto. Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</p></td>
 <td>6.82</td>
 </tr>
 <tr class="even">
@@ -492,13 +492,21 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p><strong>Addebiti periodici</strong></p>
 </td>
 <td>
-<p>Istanza di annullamento rateizzata</p>
+<p>Commessione di attivazione</p>
 </td>
 <td>
-<p>Addebiti rateizzati rimborsati al cliente in caso di modifica delle postazioni associate</p>
+<p>L'importo addebitato al cliente quando utilizza la sottoscrizione dopo l'acquisto</p>
 </td>
 <td rowspan="8">
 <p>Dal file in base alle licenze, somma la colonna <strong>Amount</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Istanza di annullamento ripartita proporzionalmente</p>
+</td>
+<td>
+<p>Addebiti ripartiti proporzionalmente rimborsati al cliente in caso di modifica delle postazioni associate</p>
 </td>
 </tr>
 <tr>

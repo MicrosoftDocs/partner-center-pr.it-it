@@ -3,11 +3,11 @@ title: Adesione a Microsoft Partner Network | Centro per i partner
 description: Scopri i vantaggi dell'adesione a Microsoft Partner Network.
 author: MaggiePucciEvans
 keywords: partner, partnership, MPN, Microsoft Partner Network, action pack, MAPS, abbonamento action pack, vantaggi, vantaggi MPN, adesione
-ms.openlocfilehash: f429908c69f154e9a25af3c2688011491d7b4125
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
+ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/07/2017
 ---
 # <a name="partner-with-microsoft"></a>Diventare partner Microsoft
 
@@ -17,15 +17,15 @@ Microsoft Partner Network offre tre tipi di adesione. Ciascun tipo di adesione t
 
 -   **Membro della rete** Con l'adesione a questo livello di base gratuito riceverai un set di [vantaggi di base in termini di diritti di uso interno](https://partner.microsoft.com/membership/core-benefits) che ti aiuteranno a risparmiare tempo e denaro, sviluppando allo stesso tempo le tue capacità di servire meglio i clienti e creare relazioni che consentiranno alla tua azienda di esprimere tutto il suo potenziale.
 
-    [Altre informazioni su Microsoft Partner Network](https://partner.microsoft.com/membership/how-it-works)
+    -   [Altre informazioni su Microsoft Partner Network](https://partner.microsoft.com/membership/how-it-works)
 
-    [Aderisci subito a Microsoft Partner Network](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
+    -   [Aderisci subito a Microsoft Partner Network](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
 
 -   **Action Pack** Acquista Action Pack, un conveniente abbonamento annuo, per ottenere vantaggi aggiuntivi dal Network, incluso l'accesso a strumenti per gli sviluppatori, supporto, formazione e software. A questo livello puoi migliorare la tua competenza e sviluppare nuove capacità.
 
-    [Altre informazioni su Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
+    -   [Altre informazioni su Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
 
-    [Abbonati subito ad Action Pack](mpn-get-action-pack.md)
+    -   [Abbonati subito ad Action Pack](mpn-get-action-pack.md)
 
 -   **Competenza** Dimostra la comprovata esperienza nella fornitura di soluzioni di qualità in uno o più settori specifici di business. Le competenze Microsoft sono studiate per prepararti a soddisfare le esigenze dei tuoi clienti ed essere riconoscibile presso i clienti potenziali. Entra nell'elite dei partner Microsoft e distinguiti dal gruppo.
 

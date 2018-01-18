@@ -3,11 +3,12 @@ title: Creare una nuova sottoscrizione | Centro per i partner
 description: Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-ms.openlocfilehash: 4bb9bfe2d620ba6a82d1f4960b8bdc497c6fdf16
-ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
+Keywords: subscription, create new, add subscription,
+ms.openlocfilehash: 19bc20920cc2bfcdf3f39f8c1b8fcf207d51004d
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/17/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="create-a-new-subscription"></a>Creare una nuova sottoscrizione
 
@@ -19,7 +20,7 @@ ms.lasthandoff: 10/17/2017
 
 Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo.
 
-Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elenco delle offerte limitate, visita la pagina Offerte e prezzi del Centro per i partner, apri la Matrice dell'offerta e seleziona la scheda Office_Dynamics_Windows_Intune, colonna I. 
+Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elenco delle offerte limitate, visita la pagina Prezzi e offerte del Centro per i partner. 
 
 
 **Creare una nuova sottoscrizione**

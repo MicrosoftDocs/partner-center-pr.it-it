@@ -1,13 +1,14 @@
 ---
 title: Creare un profilo di lavoro | Centro per i partner
-description: Attrai un numero maggiore di clienti potenziali creando un profilo di lavoro nel Centro per i partner.
+description: Crea un profilo di lavoro nel Centro per i partner per ricevere i lead di vendita da Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: edcecf3372453e17d85017a93a258919e29d6608
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+keywords: "pinpoint, riferimenti, lead di vendita, C2PC, profilo della società, commercializzare la tua azienda, trovare un partner, trovare un provider di soluzioni, profilo di lavoro, profilo di marketing"
+ms.openlocfilehash: e4e663d5c148f72f7ad352e21c4178a95e044c5f
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 11/28/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -23,20 +24,25 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 **Si applica a**
 
 -  Centro per i partner
+-  Partner di Microsoft Partner Network
+-  Partner del programma Cloud Solution Provider
 
 In qualità di partner Microsoft qualificato, puoi creare un profilo di lavoro per presentare la tua azienda ai clienti che cercano soluzioni e competenze specifiche per soddisfare le loro esigenze.
 
-Microsoft attira milioni di clienti ogni anno attraverso attività di marketing, vendita e servizi. La maggior parte di queste attività permette a Microsoft di offrire ai suoi partner delle segnalazioni in termini di clienti potenziali. 
+Microsoft attira milioni di clienti ogni anno attraverso attività di marketing, vendita e servizi. La maggior parte di queste attività permette a Microsoft di offrire ai suoi partner delle segnalazioni in termini di lead di vendita. 
 
 Il primo passaggio per raggiungere questi lead consiste nel creare un profilo di lavoro. Microsoft mostrerà il tuo profilo ai clienti che cercano partner in grado di aiutarli a implementare le soluzioni e i prodotti Microsoft tramite:
 
-*  **L'esperienza della ricerca [Trova un partner](https://partnercenter.microsoft.com/pcv/search)**. I clienti potenziali possono eseguire personalmente una ricerca negli elenchi di partner per individuare i partner che soddisfano i criteri di ricerca.
+*  **L'esperienza della ricerca [Trova un provider di soluzioni](https://partnercenter.microsoft.com/pcv/search)**. I clienti potenziali possono eseguire personalmente una ricerca negli elenchi di partner per individuare i partner che soddisfano i loro criteri di ricerca.
 
 *  **Segnalazioni da dipendenti di servizi e vendite Microsoft**. I clienti potenziali interessati alla distribuzione di soluzioni tecnologiche basate sul cloud contattano Microsoft per informazioni sui professionisti in grado di aiutarli a soddisfare le esigenze aziendali. Questi professionisti Microsoft possono quindi rimandare i clienti potenziali alla tua azienda.
 
-**Pinpoint e C2PC**: stiamo unendo questi strumenti nel Centro per i partner. Se hai usato questi strumenti in passato, crea un nuovo profilo di lavoro nel Centro per i partner per continuare a generare e gestire i lead di vendita. Nota: attualmente non supportiamo l'importazione di profili dai siti precedenti. 
+>**Importante**<br>
+Per aiutare i nostri partner a semplificare le operazioni aziendali, stiamo raggruppando in questo sito del Centro per i partner le funzionalità e le capacità che prima erano distribuite in diversi strumenti e siti Web. Come parte di questo impegno, abbiamo spostato tutte le funzionalità relative ai riferimenti nel Centro per i partner e abbiamo ritirato i siti Pinpoint e C2PC. Se hai usato Pinpoint o C2PC in passato per ottenere e gestire i riferimenti di Microsoft, dovrai creare un nuovo profilo di lavoro nel Centro per i partner per continuare a ottenere i riferimenti. Non è più supportata l'importazione dei profili da questi siti. 
 
-## <a name="create-a-profile"></a>Crea un profilo
+## <a name="create-a-profile"></a>Creare un profilo
+
+>**Nota** per poter creare un profilo di lavoro devi avere un account del Centro per i partner. Se non hai già un account del Centro per i partner, vedi [Creare un account del Centro per i partner](mpn-create-a-partner-center-account.md) per informazioni su come crearne uno. 
 
 Crea profili per ogni area geografica in cui sei autorizzato a svolgere la tua attività. 
 
@@ -46,7 +52,7 @@ Crea profili per ogni area geografica in cui sei autorizzato a svolgere la tua a
 
 3.  Nella pagina **Crea un profilo di lavoro** seleziona un'area geografica, quindi immetti le informazioni del profilo.
     
-    Nota: mentre il Centro per i partner supporta più lingue, per alcuni elementi, ad esempio la descrizione e i tag in formato libero potrebbe essere necessario includere il testo da lingue diverse, come indicato in questo argomento.
+    >**Nota**: mentre il Centro per i partner supporta più lingue, per alcuni elementi, ad esempio la descrizione e i tag in formato libero potrebbe essere necessario includere il testo da lingue diverse, come indicato in questo argomento.
 
 ### <a href="" id="partner_info"></a>Informazioni sul partner
 

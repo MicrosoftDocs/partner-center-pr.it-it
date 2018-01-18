@@ -3,11 +3,12 @@ title: Collaborare con i provider indiretti in CSP | Centro per i partner
 description: "I rivenditori indiretti in CSP collaborano con i provider indiretti (anche noti come distributori) che hanno una relazione diretta con Microsoft e possono fornire supporto e fatturazione ai clienti. Ciò significa che non dovrai iniziare da solo, ma potrai collaborare con un provider di tecnologia esperto che ti aiuterà a raggiungere il successo. Nel modello provider-rivenditore (a due livelli), il provider acquista da Microsoft soluzioni e servizi cloud che tu rivenderai ai clienti."
 ms.prod: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 1ee00b2fae46c49eaf7df2b0f2d6329231f2e4ab
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: rivenditori indiretti, rivenditori, provider indiretti, provider, relazione, VAR, livello2, livello 2
+ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 11/28/2017
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Collaborare con i provider indiretti nel programma Cloud Solution Provider
 
@@ -184,9 +185,9 @@ Qualora un provider indiretto desiderasse entrare in contatto con te nel Centro 
 
 3.  Per confermare la partnership con il provider, seleziona la casella e quindi seleziona **Authorize indirect provider**. Il provider è ora incluso nella tua pagina **Indirect providers** e la tua azienda è inclusa nella pagina **Indirect resellers** del provider.
 
-    >**Nota**  Quando stabilisci una partnership con un provider indiretto, lo autorizzi a inviare ordini e aggiungere sottoscrizioni per conto dei tuoi clienti e gli concedi l'accesso di tipo Amministratore al tenant di Azure AD.
+    >**Nota** Quando stabilisci una partnership con un provider indiretto, lo autorizzi a inviare ordini e aggiungere sottoscrizioni per conto dei tuoi clienti e gli concedi l'accesso di tipo Amministratore all'account aziendale della società. Una volta stabilita la relazione con il provider, puoi rimuovere l'accesso come amministratore del provider all'account aziendale nel portale di Office 365. 
 
-4.  Seleziona **Indirect providers** dal menu **Dashboard** per visualizzare un elenco di provider con i quali hai stabilito una partnership. 
+4.  Seleziona **Provider indiretti** dal menu **Dashboard** per visualizzare un elenco di provider con i quali hai stabilito una partnership. 
 
 5.  Seleziona **Visualizza clienti** per visualizzare l'elenco dei clienti condivisi con il provider.
 

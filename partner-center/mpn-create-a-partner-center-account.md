@@ -1,37 +1,38 @@
 ---
 title: Creare un account del Centro per i partner | Centro per i partner
-description: Scopri come gestire l'adesione a Microsoft Partner Network, le offerte e i vantaggi nel Centro per i partner.
+description: I membri del programma Microsoft Partner Network devono creare gli account del Centro per i partner per gestire i vantaggi e le competenze di rete e creare un profilo aziendale.
 author: MaggiePucciEvans
-ms.openlocfilehash: 819570228cb86157915bfc00c67e45615bd44ca7
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
+ms.openlocfilehash: 3020524ba6f41af31001a808af1d7a1aa394592a
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 11/28/2017
 ---
 # <a name="create-a-partner-center-account"></a>Creare un account nel Centro per i partner
 
 **Si applica a**
 
 -   Centro per i partner
+-   Membri del programma Microsoft Partner Network
 
 
 Questo articolo spiega come creare un account nel Centro per i Partner ed è progettato per i partner che spostano le proprie informazioni relative all'adesione alla rete di partner dal Partner Membership Center al Centro per i partner. 
 
 Prima di poter creare un account nel Centro per i partner o iscriverti a un programma per i partner, la tua organizzazione deve entrare a far parte di Microsoft Partner Network. Se non sei un membro della rete, puoi [iscriverti ora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx). [Ulteriori informazioni](https://partner.microsoft.com/membership) sull'adesione a Microsoft Partner Network.  
 
->**Nota**<br> Attraverso questi collegamenti arriverai al sito Web Microsoft Partner Network. Torna al sito del [Centro per i partner](https://partnercenter.microsoft.com/partner/home) se desideri rinnovare la sottoscrizione ad Action Pack.
-
 Dopo aver creato un account nel Centro per i partner potrai:
 
--   Acquistare le offerte relative ai vantaggi dell'adesione, tra cui Microsoft Action Pack 
+-   [Acquistare o rinnovare un abbonamento a Microsoft Action Pack](mpn-get-action-pack.md)
 
--   Attivare e gestire i vantaggi dell'adesione alla rete
+-   [Creare un profilo di lavoro per ottenere lead di vendita da Microsoft](create-a-marketing-profile.md)
+
+-   [Ottenere e gestire lead di vendita da Microsoft](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
 Per creare un account nel Centro per i partner e rinnovare l'adesione a Microsoft Partner Network occorrono le informazioni seguenti. Prima di iniziare, è consigliabile dedicare qualche minuto alla raccolta di questi elementi:
 
--   E-mail aziendale dell'amministratore globale. Se non sei sicuro di quale sia l'account aziendale della tua società, vedi [Tenant di Azure Active Directory e Centro per i partner](azure-active-directory-tenants-and-partner-center.md).
+-   E-mail aziendale dell'amministratore globale. Se non sei sicuro di quale sia l'account aziendale della tua società, vedi [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md).
 
     Se la società non dispone di un account aziendale, puoi crearne uno durante il processo di registrazione. 
 
@@ -47,11 +48,11 @@ Queste informazioni verranno verificate durante il processo di creazione dell'ac
 
 1.  Verifica le informazione nella pagina di **benvenuto** e quindi seleziona **Avanti**.
 
-2.  Accedi con l'indirizzo e-mail aziendale come amministratore globale. Se non sei sicuro di quale sia l'account aziendale della tua società, vedi [Tenant di Azure Active Directory e Centro per i partner](azure-active-directory-tenants-and-partner-center.md).
+2.  Accedi in qualità di amministratore globale all'account aziendale della società. Se non sei sicuro di quale sia l'account aziendale della tua società, vedi [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md).
 
-    Se la società dispone di un account e-mail aziendale, seleziona **Accedi ad Azure AD**. Nella pagina successiva, immetti le credenziali di amministratore globale per il tenant. 
+    Se la società dispone di un account e-mail aziendale, seleziona **Accedi**. Nella pagina successiva, immetti le credenziali di amministratore globale per l'account aziendale della società. 
 
-    Se la società non dispone di un account aziendale, seleziona **Crea un nuovo tenant** per configurarne uno ora. Dopo aver configurato un tenant di Azure AD (account aziendale), accedi usando le credenziali di amministratore globale per il nuovo account e-mail aziendale.
+    Se la società non dispone di un account aziendale, seleziona **Creane uno** per configurarne uno ora. Dopo aver creato un account aziendale, accedi usando le credenziali di amministratore globale per l'account appena creato.
 
 3.  Fornisci o aggiorna il profilo legale dell'organizzazione e le informazioni del contatto principale, quindi seleziona **Registrati ora**. 
 
@@ -69,12 +70,12 @@ Queste informazioni verranno verificate durante il processo di creazione dell'ac
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-[Aggiungere utenti e assegnare le autorizzazioni](create-user-accounts-and-set-permissions.md)
+-   [Aggiungere utenti e assegnare le autorizzazioni](create-user-accounts-and-set-permissions.md)
 
-[Acquistare o rinnovare una sottoscrizione di Microsoft Action Pack](mpn-get-action-pack.md)
+-   [Acquistare o rinnovare una sottoscrizione di Microsoft Action Pack](mpn-get-action-pack.md)
 
-[Gestire i vantaggi dell'adesione](manage-your-partner-network-benefits.md)
+-   [Gestire i vantaggi dell'adesione](manage-your-partner-network-benefits.md)
 
-[Scoprire i requisiti di competenza per l'adesione Gold e Silver](learn-about-competencies.md)
+-   [Scoprire i requisiti di competenza per l'adesione Gold e Silver](learn-about-competencies.md)
 
-[Creare un profilo di marketing per ottenere i clienti potenziali da Microsoft](create-a-marketing-profile.md)
+-   [Creare un profilo di lavoro per ottenere lead di vendita da Microsoft](create-a-marketing-profile.md)

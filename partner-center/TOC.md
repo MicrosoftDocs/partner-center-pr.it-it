@@ -18,13 +18,15 @@
 ## [Account aziendali e Centro per i partner](azure-active-directory-tenants-and-partner-center.md)
 ## [Aggiornare il profilo del partner](update-your-partner-profile.md)
 ## [Ripristinare un account sospeso per il Centro per i partner](suspended-partner-center-account.md)
-## [Reimpostare una password utente](reset-a-user-password.md)
 ## [Creare account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md)
+## [Reimpostare una password utente](reset-a-user-password.md)
 ## [Aggiungere Azure Partner Shared Services](shared-services.md)
 ## [Prezzi e offerte](pricing-and-offers.md)
 ## [Personalizzare il catalogo](customize-the-catalog.md)
 
-# [Segnalazioni](referrals.md)
+# [Espandere le attività](grow-your-business.md)
+
+# [Riferimenti](referrals.md)
 ## [Creare un profilo di lavoro](create-a-marketing-profile.md)
 ## [Rispondere alle segnalazioni](responding-to-referrals.md)
 
@@ -76,13 +78,13 @@
 ## [Multicanale](multichannel.md)
 ## [Multipartner](multipartner.md)
 
-# [Supporto da Microsoft](support-from-microsoft.md)
-## [Controllare l'integrità del servizio](check-service-health.md)
+# [Ottenere supporto da Microsoft](support-from-microsoft.md)
 ## [Segnalare i problemi relativi al Centro per i partner](report-problems-with-partner-center.md)
 ## [Segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md)
 ## [Ottenere notifiche automatizzate per i servizi con le API Microsoft](get-automated-service-notifications-with-our-apis.md)
 
-# [Supporto per i clienti](customer-support.md)
+# [Fornire supporto ai clienti](customer-support.md)
+## [Controllare l'integrità del servizio](check-service-health.md)
 ## [Offrire supporto per la fatturazione](provide-billing-support.md)
 ## [Offrire supporto tecnico](provide-technical-support.md)
 ## [Comunicazioni con i clienti da Microsoft](customer-communication-from-microsoft.md)

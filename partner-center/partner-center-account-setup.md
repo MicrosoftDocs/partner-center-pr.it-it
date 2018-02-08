@@ -3,11 +3,11 @@ title: Gestire l'account per il Centro per i partner | Centro partner
 description: "Quando vieni accettato per il programma Cloud Solution Provider, tu o il tuo amministratore dovete configurare l'account della società nel Centro per i partner."
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
-ms.openlocfilehash: 28740a44a3ad61244e135122ebb603d2495fbb21
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 3935f3a0727e7215d66b3e9403d200bc3c470573
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="manage-your-partner-center-account"></a>Gestire l'account per il Centro per i partner
 
@@ -15,21 +15,33 @@ ms.lasthandoff: 11/22/2017
 
 -  Centro per i partner
 
-Dopo aver creato un account nel Centro per i partner, tu o il tuo amministratore dovrete completare la configurazione dell'account dell'azienda. L'amministratore deve inoltre creare account utente per tutti gli utenti che useranno il Centro per i partner per l'aggiunta o la gestione dei clienti, la vendita di sottoscrizioni, la gestione della fatturazione e i servizi di supporto.
+L'account che crei nel Centro per i partner quando esegui la registrazione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account nel Centro per i partner, è necessario che la configurazione del profilo completo della società venga completata da te o dal tuo amministratore, inclusi i dettagli sul supporto, le esenzioni fiscali se appropriato e le informazioni del contatto principale. 
 
-[Aggiornare il profilo del partner](update-your-partner-profile.md)
+L'amministratore deve inoltre creare un account utente per tutti gli utenti che useranno il Centro per i partner per l'aggiunta o la gestione dei clienti, la vendita di sottoscrizioni, la gestione della fatturazione, la creazione dei profili aziendali, la gestione dei riferimenti e i servizi di supporto.
 
-[Creare account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md)
 
-[Ripristinare un account sospeso per il Centro per i partner](suspended-partner-center-account.md)
+## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Risorse che ti consentono di gestire l'account del Centro per i partner
 
-[Reimpostare una password utente](reset-a-user-password.md)
+|**Per eseguire questa operazione**   |**Leggi**   |
+|-----------------------|:-----------------------|
+|Essere certo che il profilo della società sia aggiornato   |[Aggiornare il profilo del partner](update-your-partner-profile.md)|
+|A tutti gli utenti dell'azienda che devono lavorare nel Centro per i partner deve essere assegnato un ruolo. Ogni ruolo ha autorizzazioni specifiche e attività disponibili.|[Creare account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md)|
+|Se un dipendente dimentica la password ed è necessario ripristinarla  |[Reimpostare una password utente](reset-a-user-password.md)|
+|Essere certo di commercializzare la tua azienda in modo che i clienti possono trovarla   |[Creare un profilo di lavoro](create-a-marketing-profile.md)|
+|Organizzare il catalogo in modo che i prodotti più importanti siano all'inizio dell'elenco   |[Personalizzare il catalogo](customize-the-catalog.md)|
+|Rimanere aggiornato sui prezzi e sulle offerte correnti   |[Prezzi e offerte](pricing-and-offers.md)|
 
-[Creare un profilo di lavoro](create-a-marketing-profile.md)
 
-[Prezzi e offerte](pricing-and-offers.md)
 
-[Personalizzare il catalogo](customize-the-catalog.md)
+
+
+
+
+
+
+
+
+
 
  
 

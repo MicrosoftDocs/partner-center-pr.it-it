@@ -3,11 +3,12 @@ title: Consolidamento dei tenant per l'autorizzazione regionale per CSP
 description: Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche diversi.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-ms.openlocfilehash: 655bcee32824f0a2a8859951edea35b2d56922a8
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
+keywords: migrazione dei clienti, provisioning, account tenant, consolidamento dei tenant
+ms.openlocfilehash: e895fd049211a3dfcb4db930b75d94906563b700
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidamento dei tenant per l'autorizzazione regionale per CSP
 

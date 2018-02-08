@@ -4,11 +4,11 @@ description: L'amministratore crea un account utente per ogni dipendente del par
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
-ms.openlocfilehash: 4345db8cf8e383edbb58c269a3b0a948eade9d65
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 809641e488595e59beb63b0867b4758f3912106e
+ms.sourcegitcommit: fc49a5e334ed37db4ff4c594ecf89a1527a3bd1d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 01/18/2018
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Creare account utente e assegnare le autorizzazioni
 
@@ -38,7 +38,7 @@ Prendi nota delle informazioni di accesso del nuovo utente visualizzate in quest
 
 L'utente dovrà accedere al Centro per i partner con il nome utente e la password temporanea. Quando l'utente accede al Centro per i partner per la prima volta, gli viene chiesto di modificare la password. 
 
-
+>**Nota**<br> Se l'amministratore globale ha lasciato l'organizzazione o ha un altro ruolo ed è necessario aggiungere un nuovo amministratore globale, devi registrare una richiesta di assistenza nel [portale MPN](https://partner.microsoft.com/support). Se il richiedente è in grado di fornire le informazioni di identità personale richieste e altre informazioni sull'organizzazione, l'agente del supporto può richiedere l'elevazione dei privilegi di un utente ad amministratore globale.
 
 ## <a name="assign-user-permissions"></a>Assegnare le autorizzazioni utente
 
@@ -61,7 +61,7 @@ All'interno di ognuna di queste categorie generali, un utente può avere un solo
 
 >**Importante** Se per un utente non è necessario un ruolo specifico, lascia la designazione sull'impostazione predefinita **Gestisce l'account dell'organizzazione come**. Gli utenti devono essere assegnati ad almeno un ruolo per lavorare nel Centro per i partner.
 
-La tabella seguente illustra le operazioni che ogni ruolo può eseguire nel Centro per i partner. Quando devi assegnare i ruoli, prendi in considerazione il lavoro eseguito dall'utente all'interno dell'organizzazione. Potrebbe ad esempio essere opportuno che l'amministratore globale sia l'agente amministratore. La persona che gestisce l'attività di marketing potrebbe anche gestire il profilo di lavoro.
+La tabella seguente illustra le operazioni che ogni ruolo può eseguire nel Centro per i partner. Quando devi assegnare i ruoli, prendi in considerazione il lavoro eseguito dall'utente all'interno dell'organizzazione. Potrebbe ad esempio essere opportuno che l'amministratore globale sia anche l'agente amministratore. La persona che gestisce l'attività di marketing potrebbe anche gestire il profilo di lavoro.
 
 <table>
 <colgroup>
@@ -122,13 +122,6 @@ La tabella seguente illustra le operazioni che ogni ruolo può eseguire nel Cent
 <li><p>Visualizzazione e gestione dei benefit</p></li>
 <li><p>Visualizzazione e acquisto di offerte MPN</p></li>
 <li><p>Visualizzazione di fatture e cronologia degli ordini di offerte MPN </p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Amministratore gestione utenti</strong></p></td>
-<td><ul>
-<li><p>Visualizzazione, creazione e gestione di utenti</p></li>
-<li><p>Visualizzazione di tutti i profili dei partner</p></li>
 </ul></td>
 </tr>
 <tr class="even">

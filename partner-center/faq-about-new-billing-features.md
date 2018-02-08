@@ -3,11 +3,11 @@ title: "Domande frequenti sulle nuove funzionalità di fatturazione | Centro per
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: ddd10efe487effdd2571869f2a4231118f946b8b
-ms.sourcegitcommit: 4b697e2e18426edc95b9165f380b784bb10937ed
+ms.openlocfilehash: 0c468df2176160ca5a1fdf8b90ce5b6f9b669cc2
+ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/20/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="faq-about-new-billing-features"></a>Domande frequenti sulle nuove funzionalità di fatturazione
 
@@ -312,7 +312,7 @@ Sezioni:
 
 **D:** Verrà visualizzata la versione di valutazione gratuita nel file di fattura e riconciliazione?
 
--   **R:** No, le versioni di valutazione gratuite non sono visualizzate nel file di riconciliazione basato su licenza o fattura. Verrà visualizzata nel file di riconciliazione basato su licenza e fattura dopo aver convertito una versione di valutazione gratuita in una sottoscrizione a pagamento. La sottoscrizione convertita verrà visualizzata nel file di riconciliazione basato su licenza e fattura come qualsiasi altra nuova sottoscrizione. 
+-   **R:** No, le versioni di valutazione gratuite non sono visualizzate nel file di riconciliazione basato su licenza o fattura. Verrà visualizzata nel file di riconciliazione basato su licenza e fattura dopo aver convertito una versione di valutazione gratuita in una sottoscrizione a pagamento. La sottoscrizione convertita verrà visualizzata nel file di riconciliazione basato su licenza e fattura come qualsiasi altra nuova sottoscrizione.
 
 **D:** Le versioni di valutazione gratuite hanno impatto sugli incentivi?
 
@@ -526,7 +526,7 @@ Il partner sospende la sottoscrizione il 5 luglio, ma la riattiva il 15 luglio. 
 |-----------------|:-------------|:----------------|:------------|:------|
 |1/7/2018   |31/7/2018   |$30  |1   |$30   |
 |5/7/2018   |31/7/2018   |   -$26,19   |1   |-$26,19|
-|10/7/2018   |31/7/2018   |-$21,34   |1   |$21,34|
+|10/7/2018   |31/7/2018   |-$21,37   |1   |$21,37|
 
 ### <a name="scenario-change-license-quantity"></a>Scenario: modificare la quantità di licenze 
 
@@ -564,7 +564,7 @@ Il file di riconciliazione del 15 giugno conterrà le seguenti righe:
 |**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |
 |-----------------|:-------------|:----------------|:------------|:------|
 |1/6/2018   |30/6/2018   |$30   |1   |$30   |
-|10/6/2018   |30/6/2018   |$5   |1   |$5   |
+|10/6/2018   |30/6/2018   |$3,50   |1   |$3,50   |
 
 Il file di riconciliazione del 15 luglio conterrà le seguenti righe:
 
@@ -578,7 +578,7 @@ Il file di riconciliazione del 15 luglio conterrà le seguenti righe:
 
 ### <a name="scenario-new-purchase-on-the-29th-30th-or-31st"></a>Scenario: nuovo acquisto il 29, il 30 o il 31 
 
-La data di fatturazione del partner è il 15 del mese. Il 31 maggio il partner acquista una nuova sottoscrizione per $30 al mese. Le sottoscrizioni acquistate il 29, il 30 o il 31 riceveranno un periodo gratuito fino all'inizio del mese successivo. In questo esempio, il cliente riceve un periodo gratuito di un giorno e il termine di pagamento di 12 mesi inizia il 1 giugno. 
+La data di fatturazione del partner è il 15 del mese. Il 29 maggio il partner acquista una nuova sottoscrizione (1 licenza a $30/mese) con la frequenza di fatturazione mensile. La data dell'anniversario per le sottoscrizioni acquistate il giorno 29, 30 o 31 sarà il valore predefinito ossia il 1° del mese. In questo scenario, la sottoscrizione riceverà un periodo gratuito dal 29 maggio al 31 maggio e la riga di fatturazione verrà visualizzata il 1 giugno con l'addebito anticipato di un mese.
 
 Il file di riconciliazione del 15 giugno conterrà le seguenti righe:
 

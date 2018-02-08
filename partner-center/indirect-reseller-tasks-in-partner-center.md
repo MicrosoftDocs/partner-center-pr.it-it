@@ -4,11 +4,11 @@ description: "I rivenditori indiretti in CSP collaborano con i provider indirett
 ms.prod: 
 author: MaggiePucciEvans
 keywords: rivenditori indiretti, rivenditori, provider indiretti, provider, relazione, VAR, livello2, livello 2
-ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: d3d41a15fc8836a84ba86acc26642a4c49c2e290
+ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Collaborare con i provider indiretti nel programma Cloud Solution Provider
 
@@ -102,74 +102,8 @@ Prendi nota delle informazioni di accesso del nuovo utente visualizzate in quest
 
 ## <a name="assign-user-permissions"></a>Assegnare le autorizzazioni utente
 
-L'accesso al Centro per i partner è basato sui ruoli, pertanto puoi assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche. 
+L'accesso al Centro per i partner è basato sui ruoli, pertanto puoi assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche. Per trovare il modo migliore per assegnare i ruoli, vedi [Creare account utente e impostare le autorizzazioni](Create-user-accounts-and-set-permissions.md)
 
-Per ogni utente, dovrai selezionare due livelli di autorizzazione oppure dovrai selezionare **Non amministratore** o **Non agente**:
-
--   Le autorizzazioni dell'agente controllano il tipo di dati dei clienti e le informazioni sull'account che l'utente può visualizzare e modificare.
-
--   Le autorizzazioni di amministratore controllano il livello di accesso che l'utente ha alle funzionalità del Centro per i partner. Questa impostazione ha un impatto al di fuori del Centro per i partner, in quanto un amministratore della fatturazione può accedere alle fatture per tutti i servizi Microsoft (anche quelle che non riguardano CSP) e un amministratore globale può accedere agli account utente e dei clienti, anche a quelli per servizi diversi da CSP.
-
-La tabella seguente illustra le operazioni che ogni ruolo può eseguire nel Centro per i partner.
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Ruolo del Centro per i partner</strong></p></td>
-<td><p><strong>Operazioni consentite</strong></p></td>
-<td><p><strong>Operazioni non consentite</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Agente amministratore</strong></p></td>
-<td><ul>
-<li><p>Integrità del servizio e richieste di servizio per i clienti</p></li>
-<li><p>Richiesta dei privilegi di amministrazione delegati</p></li>
-<li><p>Amministrazione per conto di un cliente</p></li>
-</ul></td>
-<td><ul>
-<li><p>Gestione degli utenti</p></li>
-<li><p>Richieste di servizio per il Centro per i partner</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Agente help desk</strong></p></td>
-<td><ul>
-<li><p>Ricerca e visualizzazione di un cliente</p></li>
-<li><p>Integrità del servizio</p></li>
-<li><p>Richiesta di supporto per conto dei clienti (Nota: è necessario essere un agente amministratore per completare questa attività per gli abbonamenti a Office 365)</p></li>
-<li><p>Gestione delle sottoscrizioni e dei servizi per conto dei clienti (Nota: è necessario essere un agente amministratore per completare questa attività per gli abbonamenti di Office 365)</p></li>
-</ul></td>
-<td><ul>
-<li><p>Visualizzazione dei profili dei partner</p></li>
-<li><p>Richiesta di una relazione con un cliente</p></li>
-<li><p>Gestione dei lead dei clienti</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>Amministratore globale</strong></p></td>
-<td><ul>
-<li><p>Accesso a tutti gli account/servizi Microsoft con privilegi completi</p></li>
-<li><p>Creazione di ticket di supporto per il Centro per i partner</p></li>
-<li><p>Visualizzazione, creazione e gestione di utenti partner</p></li>
-<li><p>Accettazione di una di richiesta di partnership da un provider indiretto</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Amministratore gestione utenti</strong></p></td>
-<td><ul>
-<li><p>Visualizzazione, creazione e gestione di utenti</p></li>
-<li><p>Visualizzazione di tutti i profili dei partner</p></li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ## <a name="connect-with-an-indirect-provider"></a>Connettersi con un provider indiretto
 
@@ -197,13 +131,13 @@ Qualora un provider indiretto desiderasse entrare in contatto con te nel Centro 
  
 ## <a name="connect-with-customers"></a>Entrare in contatto con i clienti
 
-Affinché sia possibile eseguire transazioni con i clienti nel Centro per i partner, i clienti devono disporre di account del Centro per i partner ed è necessario stabilire con essi relazioni come rivenditori. Per consentire al provider indiretto di acquistare sottoscrizioni e servizi per conto del cliente, anche il provider deve avere relazioni come rivenditore con i clienti. 
+ Affinché sia possibile eseguire transazioni con i clienti nel Centro per i partner, i clienti devono disporre di account del Centro per i partner ed è necessario stabilire con essi relazioni come rivenditori. Per consentire al provider indiretto di acquistare sottoscrizioni e servizi per conto del cliente, anche il provider deve avere relazioni come rivenditore con i clienti. 
 
 ### <a name="connect-with-existing-customers"></a>Entrare in contatto con i clienti
 
 I clienti con cui già esegui transazioni tramite altri portali, ad esempio l'interfaccia di amministrazione partner di Office 365 o il portale di amministrazione di Microsoft Azure, verranno visualizzati nell'elenco dei clienti nel Centro per i partner dopo che avrai eseguito la registrazione come un rivenditore indiretto. Seleziona **Dashboard** e quindi **Clienti** per visualizzare l'elenco dei clienti. 
 
-Se alcuni dei tuoi clienti esistenti non sono presenti nell'elenco dei clienti, potrebbe essere necessario stabilire relazioni come rivenditori con essi. A tale scopo, invia loro tramite posta elettronica un invito a connettersi al Centro per i partner, come descritto di seguito.
+Quando ti connetti a un provider indiretto, non ottieni automaticamente i clienti del provider indiretto. Analogamente, i clienti con cui lavori direttamente o tramite il provider indiretto, ma non tramite Centro per i partner, non compariranno automaticamente nell'elenco dei clienti quando ti registri nel Centro per i partner. Dovrai stabilire una relazione come rivenditore con i clienti per eseguire transazioni nel Centro per i partner.  A tale scopo, invia loro tramite posta elettronica un invito a connettersi al Centro per i partner, come descritto di seguito.
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire una relazione come rivenditore con te
 

@@ -3,10 +3,11 @@ title: Impostare un budget di spesa di Azure per i clienti | Centro partner
 description: "Nel Centro per i partner puoi impostare un budget mensile per ogni cliente, così le fatture di Azure non saranno una sorpresa alla fine del mese."
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
-ms.openlocfilehash: 873190885d83f70f6ff68e277f288d58cc74ca00
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 5e6b34031f9bdd5a3532a7f1a8b862a4f0618ad7
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: it-IT
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Impostare un budget di spesa di Azure per i clienti
 
@@ -18,40 +19,33 @@ ms.contentlocale: it-IT
 
 Per aiutare i clienti a gestire la loro spesa di Azure, puoi impostare un budget mensile di spesa per ogni cliente, in modo che la loro fattura di Azure non sia superiore alla previsione. Impostare un budget di spesa per Azure ti consente di confrontare la spesa per Azure dei tuoi clienti durante il mese rispetto al budget. Con questa funzionalità, puoi: 
 
--   Essere informato via e-mail se la spesa di un cliente sta raggiungendo il limite del budget.
--   Controllare i costi di Azure stimati dei clienti per mese.
--   Individuare eventuali servizi configurati in modo non corretto oppure tendenze di uso insolite che possono lasciar pensare a una frode.
--   Collabora con il cliente per individuare la causa alla radice del problema e gestire i costi.
--   Impostare un importo più alto per il budget se tu e il tuo cliente siete d'accordo.
+-   Essere informato via e-mail se la spesa di un cliente sta raggiungendo il limite del budget
+-   Controllare i costi di Azure stimati dei clienti per mese
+-   Individuare eventuali servizi configurati in modo non corretto oppure tendenze di uso insolite che possono lasciar pensare a una frode
+-   Collabora con il cliente per individuare la causa alla radice del problema e gestire i costi
+-   Impostare un importo più alto per il budget se tu e il tuo cliente siete d'accordo
 
 I dati sulla spesa per Azure rappresentano una stima, gli importi di fatturazione effettivi possono variare e il valore non tiene conto di imposte, crediti, rettifiche o altri costi applicabili. I dati sulla spesa vengono aggiornati una volta al giorno. I clienti continueranno a usare le risorse e i servizi Azure (e a pagarli) a meno che tu non cambi le impostazioni del loro account nel portale di Azure. 
 
 >**Note**   Questa funzionalità non è disponibile in account sandbox o Test in Production (TIP).
 
 **Abilitare le notifiche e-mail**
+1.  Nel menu Dashboard seleziona **Spesa per Azure**.
+2.  Attiva/disattiva l'opzione **Ricevi e-mail** per ricevere notifica quando i tuoi clienti usano l'80% o più del loro budget. In questo modo potrai essere sempre aggiornato sulla fattura per Azure. Puoi modificare l'indirizzo e-mail predefinito e specificare un indirizzo personale o qualsiasi altro indirizzo e-mail per ricevere le notifiche.
 
-1.  Nel menu Dashboard seleziona **Spesa per Microsoft Azure**.
-2.  Fai clic sul pulsante **Ricevi e-mail** per ricevere notifica se i tuoi clienti usano l'80% o più del loro budget. In questo modo potrai essere sempre aggiornato sulla fattura per Azure. Puoi modificare l'indirizzo e-mail predefinito e specificare un indirizzo personale o qualsiasi altro indirizzo e-mail per ricevere le notifiche.
-
-<a href="" id="setabudget"></a>
 **Impostare un budget**
-
-1.  Nel menu Dashboard seleziona **Spesa per Microsoft Azure**.
-2.  Seleziona i clienti nell'elenco.
-3.  Immetti un valore nel campo **Budget mensile** e seleziona **Applica**.
+1.  Nel menu Dashboard seleziona **Spesa per Azure**.
+2.  Seleziona i clienti di cui desideri impostare un budget. 
+3. Immetti un valore nella casella **Budget mensile** e seleziona **Applica**.
 4.  Per controllare la spesa corrente, torna a questa pagina.
 5.  In **Sottoscrizioni in base all'uso** possono anche essere impostati budget individuali in una pagina di gestione dei clienti.
 
-<a href="" id="removeabudget"></a>
 **Rimuovere un budget**
-
-1.  Nel menu Dashboard seleziona **Spesa per Microsoft Azure**.
+1.  Nel menu Dashboard seleziona **Spesa per Azure**.
 2.  Seleziona i clienti nell'elenco.
 3.  Seleziona **Rimuovi budget**.
 
-<a href="" id="seeitemizedcosts"></a>
 **Visualizzare i costi dettagliati**
-
 1.  Nel menu Dashboard seleziona **Clienti**.
 2.  Seleziona un cliente nell'elenco dei clienti.
 3.  In **Sottoscrizioni in base all'uso** nella pagina di gestione dei clienti scegli una sottoscrizione. Visualizza il relativo uso stimato corrente e un elenco dei costi dettagliati in base al servizio.

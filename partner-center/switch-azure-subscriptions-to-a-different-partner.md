@@ -1,13 +1,16 @@
 ---
 title: Passare le sottoscrizioni Azure a un altro partner | Centro partner
-description: "Un cliente può cambiare il partner del programma Cloud Solution Provider (CSP) scelto per i servizi di Microsoft Azure. Tuttavia, questo è un processo manuale che richiede l&quot;intervento sia del partner che del cliente."
+description: "Un cliente può cambiare il partner del programma Cloud Solution Provider (CSP) scelto per i servizi di Microsoft Azure. Tuttavia, questo è un processo manuale che richiede l'intervento sia del partner che del cliente."
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+keywords: sottoscrizione di azure, cambiare partner, sostituire partner, ottenere nuovo partner, partner diverso
+ms.openlocfilehash: 5bc29e78cb94068a5d7675f6f030bc31e78f40a4
+ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/24/2018
 ---
-# <a name="switch-azure-subscriptions-to-a-different-partner"></a>Passare le sottoscrizioni Azure a un altro partner
+# <a name="switch-azure-subscriptions-to-a-different-partner"></a>Passare le sottoscrizioni di Azure a un altro partner
 
 **Si applica a**
 
@@ -17,13 +20,16 @@ Un cliente può cambiare il partner del programma Cloud Solution Provider (CSP) 
 
 **Nota**  Non esiste attualmente un processo automatico che consenta ai clienti di Azure di passare al programma CSP da EA, Open o altri programmi di licenza. Questo è un processo manuale che richiede l'intervento sia del partner che del cliente. Inoltre, attualmente non è possibile cambiare partner per le sottoscrizioni Cloud Solution Provider per Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
 
+
  
 
 **Cambiare partner per le sottoscrizioni Azure**
 
-1.  Per trasferire una sottoscrizione Azure a un nuovo partner, il cliente deve avviare il processo e contattare il partner CSP Partner of Record corrente in forma scritta.
+1.  Per trasferire una sottoscrizione Azure a un nuovo partner, il cliente deve avviare il processo e contattare il partner CSP Partner of Record corrente in forma scritta. 
 
-2.  Il CSP per la sottoscrizione deve eseguire le attività seguenti:
+    >**Nota**<br> È responsabilità del partner attuale creare il ticket di servizio che avvia il processo di trasferimento. Microsoft non può intervenire per conto del cliente o del nuovo partner. Il cliente deve pianificare di lavorare a stretto contatto con il partner attuale per facilitare la transizione.
+
+2.  Il partner CSP per la sottoscrizione deve eseguire le attività seguenti:
 
     Creare un ticket di servizio Azure dal Centro per i partner per richiedere un trasferimento della sottoscrizione:
 
@@ -69,7 +75,12 @@ Un cliente può cambiare il partner del programma Cloud Solution Provider (CSP) 
 
         **PS C:\\&gt; Get-AzureRMRoleAssignment**
 
-    Rimuovi le risorse e le autorizzazioni di accesso obsolete per la sottoscrizione gestendo la sottoscrizione nel portale di Azure. Nel menu del Centro per i partner scegli **Clienti**. Espandi l'elenco dei clienti e seleziona **Visualizza sottoscrizioni**. Nel menu del cliente scegli **Gestione servizi**. In **Microsoft Azure** fai clic sul link per passare al **Portale di gestione di Microsoft Azure**.
+7. Rimuovi le autorizzazioni di accesso obsolete
+
+    -  Nel menu del Centro per i partner scegli **Clienti**. 
+    -  Espandi l'elenco dei clienti e seleziona **Visualizza sottoscrizioni**. 
+    -  Nel menu del cliente scegli **Gestione servizi**. 
+    -  In **Microsoft Azure** fai clic sul link per passare al **Portale di gestione di Microsoft Azure**.
 
  
 

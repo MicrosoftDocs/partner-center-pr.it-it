@@ -2,11 +2,11 @@
 title: Iscriversi al programma Cloud Solution Provider | Centro per i partner
 description: "Comprendi i diversi modelli per la vendita in CSP e determina qual è il più adatto alla tua attività"
 author: labrenne
-ms.openlocfilehash: 648be8e9df0c72096278c3b8881cf986721293ab
-ms.sourcegitcommit: 9952a3abf59a561a650d56ee23aed1ef1b94a50c
+ms.openlocfilehash: 198e2189d7346849be67f4a93515a9da8a4deb4f
+ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2017
+ms.lasthandoff: 01/24/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
@@ -38,6 +38,8 @@ Potrebbero essere necessari diversi giorni per esaminare e verificare le informa
 4. Il dipendente con il ruolo di amministratore del profilo di lavoro deve configurare il profilo di lavoro in modo che sia possibile ricevere segnalazioni dei clienti.
 
 ### <a name="enroll-as-a-direct-partner"></a>Iscriversi come partner diretto
+
+>**Nota**<br> Stiamo aggiornando i requisiti di registrazione dei partner diretti e al momento non accettiamo nuove domande. Prevediamo di riaprire il processo di applicazione a partire dal secondo trimestre CY18. Ti consigliamo di prendere in considerazione la registrazione come rivenditore indiretto.
 
 Come partner diretto, sei titolare della relazione completa con il cliente e con Microsoft.
 

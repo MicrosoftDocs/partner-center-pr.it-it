@@ -3,11 +3,11 @@ title: Competenza Cloud Business Applications
 description: "La competenza di applicazioni aziendali cloud è destinata ai partner specializzati nella distribuzione e gestione di Microsoft Dynamics 365 per i loro clienti."
 author: Daniel Simpson
 keywords: competenza, competenze, applicazioni aziendali cloud
-ms.openlocfilehash: 073e31972c8abcfdb176d6ceec65bbda67e8a5f0
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
+ms.openlocfilehash: 89459db489bce42c7b91ac1b76bebe6e34c5a705
+ms.sourcegitcommit: 201493cd49b1b65206aa46442677ec1979287358
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="cloud-business-applications"></a>Applicazioni aziendali cloud 
 
@@ -51,7 +51,7 @@ L'opzione di coinvolgimento dei clienti aziendali è ideale per i partner che in
     
     **E**
     
-    - Le stesse **5** persone devono superare uno dei seguenti esami funzionali:
+    - Gli stessi o altri **5** utenti devono superare uno dei seguenti esami funzionali:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
         - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service *Nuovo esame disponibile da dicembre 2017

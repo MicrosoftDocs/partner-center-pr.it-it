@@ -1,12 +1,14 @@
 ---
 title: Insoluti, frodi o uso improprio | Centro per i partner
-description: Sei responsabile dal punto di vista finanziario di acquisti fraudolenti effettuati dai tuoi clienti e/o del mancato pagamento dei servizi acquistati. Ti consigliamo pertanto di implementare controlli per la mitigazione dei rischi tramite il rilevamento e la prevenzione delle frodi.
+description: "Strategie per la gestione dei rischi delle transazioni online, compreso il mancato pagamento da parte del cliente per beni e servizi e l'attività fraudolenta o l'uso improprio."
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
+keywords: "frode, uso improprio, uso accettabile, criteri di uso accettabile, mancato pagamento, il cliente non pagherà la fattura, rischio online, furto di servizio, abuso di servizio, sospensione di una sottoscrizione,"
 author: MaggiePucciEvans
-ms.openlocfilehash: d4b4703901b157324a3a1b9205f9bc2570dd9cb8
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 9513347d1a7d176a074877dc60d164695484c314
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: it-IT
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Insoluti, frodi o uso improprio
 
@@ -16,45 +18,61 @@ ms.contentlocale: it-IT
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
-Sei responsabile dal punto di vista finanziario di acquisti fraudolenti effettuati dai tuoi clienti e/o del mancato pagamento dei servizi acquistati. Ti consigliamo pertanto di implementare controlli per la mitigazione dei rischi tramite il rilevamento e la prevenzione delle frodi. Sei responsabile di decidere se estendere il credito a un cliente.
+Sei finanziariamente responsabile per acquisti fraudolenti da parte dei tuoi clienti e/o per il mancato pagamento da parte dei clienti dei servizi acquistati. Pertanto, ti consigliamo vivamente di mettere in atto i controlli antifrode e di attenuazione dei rischi di individuazione.
 
-## <a name="in-this-section"></a>Contenuto della sezione
+## <a name="types-of-online-risk"></a>Tipi di rischi online
 
+Per evitare e/o affrontare attività fraudolente o l'uso improprio, è importante comprendere i potenziali rischi e sviluppare criteri e pratiche che possano ridurre la tua esposizione.
 
--   [Mancato pagamento](#nonpayment)
+#### <a name="risk-exposure-to-be-mitigated"></a>Esposizione ai rischi da ridurre
 
--   [Prevenzione di frodi o uso improprio](#fraudmisusemitigation)
+- **Furto del servizio** I clienti che non hanno intenzione di pagare per i servizi consumati utilizzando strumenti di pagamento rubati, fornendo informazioni di fatturazione false e/o inadempienti sui saldi in sospeso
 
-## <a href="" id="nonpayment"></a>Mancato pagamento
+- **Uso improprio del servizio** I clienti che utilizzano i servizi cloud in violazione dei criteri di utilizzo accettabile di Microsoft
 
+#### <a name="examples-of-possible-fraud-or-service-abuse"></a>Esempi di possibili frodi o uso improprio di servizio
+- Spamming
+- Violazioni
+- Attacchi DDOS
+- Data mining Bitcoin
+- Distribuzione del malware
+- Rivendita di sottoscrizioni contraffatte 
 
--   Ti consigliamo di stabilire criteri di incasso chiari con i clienti, che definiscano in dettaglio i processi di pagamento e in quali situazioni viene bloccato l'accesso alla sottoscrizione.
--   Puoi disabilitare l'accesso oppure annullare immediatamente le sottoscrizioni del cliente in caso di insolvenza.
+#### <a name="examples-of-online-transaction-risk"></a>Esempi di rischio di transazioni online
+- Transazioni di tipo "carta di credito non presente", ad esempio le transazioni non effettuate di persona
+- Identità false
+- Vengono ricevuti servizi sottoposti a provisioning e utilizzati prima del pagamento iniziale
+- Mercati emergenti o aree ad elevato rischio di frodi online
+- La possibilità per attori non validi di automatizzare la creazione di account e l'acquisto
 
-## <a href="" id="fraudmisusemitigation"></a>Prevenzione di frodi o uso improprio
+## <a name="strategies-for-managing-online-risk"></a>Strategie per la gestione dei rischi online
 
+Queste raccomandazioni possono aiutare a sviluppare criteri e procedure che possono ridurre l'esposizione al rischio delle transazioni online durante il ciclo di vita delle relazioni con i clienti.  
 
-Per risolvere problemi di attività fraudolente o uso improprio, hai a disposizione le opzioni seguenti:
+#### <a name="when-onboarding-new-customers"></a>Al momento dell'onboarding di nuovi clienti
+- Stabilisci relazioni personali con i clienti quando possibile, ad esempio contattandoli per telefono
+- Cerca i modi migliori per verificare le credenziali dei clienti (agenzie report commerciali/agenzie di credito) 
+- Usa la verifica tramite SMS durante l'iscrizione per ridurre al minimo l'esposizione alla creazione e all'acquisto di account robotici
+- Gestione delle identità e monitoraggio tramite servizi quali i servizi di identità digitale
+- Sistemi rigorosi di rilevamento delle frodi con carta di credito per valutare la solidità finanziaria del cliente
+- Stabilisci chiari criteri di raccolta che dettagliano il processo di raccolta e quando l'accesso alle sottoscrizioni sarà influenzato (è possibile disabilitare l'accesso o [sospendere le sottoscrizioni del cliente](suspend-a-subscription.md) per mancato pagamento)
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Sospendere le sottoscrizioni</td>
-<td><p>Puoi sospendere sottoscrizioni personalmente dal Centro per i partner mentre fai ricerche per il problema. Vedi [Sospendere una sottoscrizione](suspend-a-subscription.md).</p></td>
-</tr>
-<tr class="even">
-<td>Creare un ticket di servizio</td>
-<td><p>Crea una richiesta di servizio nel Centro per i partner se hai altre domande o dubbi sulle attività sospette. Vedi [Segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).</p></td>
-</tr>
-</tbody>
-</table>
+#### <a name="post-purchase-customer-account-management"></a>Gestione dell'account del cliente successiva all'acquisto
+- Collabora con i clienti per comprendere le esigenze aziendali relative all'utilizzo del cloud e imposta soglie di monitoraggio appropriate
+    >**Nota** Puoi [impostare un budget di spesa mensile di Azure](set-an-azure-spending-budget-for-your-customers.md) nel Centro per i partner per monitorare l'utilizzo del cliente durante il mese e ricevere una notifica quando i clienti sono vicini al loro budget.
+- Monitora i [log attività dei clienti](activity-logs.md) regolarmente per rilevare preventivamente eventuali frodi
+- Agisci rapidamente quando vengono rilevate attività sospette
+- Evita di offrire ai clienti pieno accesso amministrativo alle sottoscrizioni senza prima implementare i controlli di riduzione del rischio
+- Implementa un processo per ricevere, esaminare, agire e rispondere rapidamente alle notifiche di Microsoft
 
- 
+#### <a name="post-purchase-customer-billing-management"></a>Gestione della fatturazione del cliente successiva all'acquisto
+- Richiedi i pagamenti anticipati prima delle transazioni iniziali e della fatturazione 
+- Non accettare strumenti di pagamento ad alto rischio, ad esempio carte prepagate
+- Monitora i pagamenti dei clienti e i crediti scaduti dei clienti e applica in modo aggressivo i processi di sollecito standardizzati per ritardato o mancato pagamento
 
+Per strategie più dettagliate per l'attenuazione del rischio online, consulta la [Guida alla gestione dei rischi delle transazioni online.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
+
+>**Importante**<br>
 Se Microsoft rileva attività di partner o clienti che violano o potrebbero violare i criteri di utilizzo, verranno adottate misure adeguate. Il cliente potrebbe essere sospeso immediatamente. In tal caso, riceverai una notifica indicante le azioni intraprese o informazioni sulla tua richiesta da parte di Microsoft.
 
  

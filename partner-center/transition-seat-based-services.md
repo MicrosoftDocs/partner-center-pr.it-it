@@ -1,14 +1,14 @@
 ---
-title: Spostare clienti e servizi basati sulle licenze sul Cloud Service Program nel Centro per i partner  | Partner Center
+title: Spostare clienti e servizi basati sulle licenze sul programma Cloud Solution Provider nel Centro per i partner | Centro per i partner
 description: "I clienti e le sottoscrizioni non vengono automaticamente spostati nel Centro per i partner, ma è possibile spostarli manualmente."
 author: labrenne
-ms.openlocfilehash: bc115ad57614dc48ca8d75e4347f1cd2dbcd9d50
-ms.sourcegitcommit: db945c0cf04f675c4cb71ae3dd1d1737d086e7e2
+ms.openlocfilehash: 43494cb92655dca4c4ed74753ac1c82cf61f73e2
+ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 02/09/2018
 ---
-# <a name="moving-license-based-services-customers-to-the-cloud-service-program-on-partner-center"></a>Spostare clienti e servizi basati sulle licenze sul Cloud Service Program nel Centro per i partner
+# <a name="moving-license-based-services-customers-to-the-cloud-solution-provider-program-on-partner-center"></a>Spostare clienti e servizi basati sulle licenze sul programma Cloud Solution Provider nel Centro per i partner
 
 **Si applica a**
 
@@ -16,7 +16,7 @@ ms.lasthandoff: 08/23/2017
 
 Attualmente non è possibile spostare automaticamente i clienti e le sottoscrizioni da un programma di licenza a un altro nel Centro per i partner. È possibile, tuttavia, spostare singoli clienti manualmente utilizzando le funzionalità multicanale e multipartner nel Centro per i partner. Ulteriori informazioni sulle [funzionalità multicanale e multipartner CSP](https://microsoft.sharepoint.com/sites/infopedia/pages/layouts/KCDoc.aspx?k=G03KC-1-5871). 
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-service-program-csp"></a>Spostare le sottoscrizioni basate su licenze del cliente in Cloud Service Program (CSP)
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Spostare le sottoscrizioni basate su licenze del cliente nel programma Cloud Solution Provider (CSP)
 
 1. Seleziona Clienti dal menu **Dashboard** del Centro per i partner e quindi seleziona **Richiedi una relazione come rivenditore**.
 

@@ -1,12 +1,13 @@
 ---
 title: "Domande frequenti sulle nuove funzionalità di fatturazione | Centro per i partner"
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
+ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 503a1fac539b2cd40e8b95ab458143801c5d0134
-ms.sourcegitcommit: 4964383ea9dcd51d27256a2969a453d67c5ebf0c
+ms.openlocfilehash: cd6e267dd691529998cf43e7a21a3abac066e2d7
+ms.sourcegitcommit: 6eec754e269e8744d4e09df64a690d0c74525dbb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/03/2018
+ms.lasthandoff: 02/14/2018
 ---
 # <a name="faq-about-new-billing-features"></a>Domande frequenti sulle nuove funzionalità di fatturazione
 
@@ -397,192 +398,271 @@ Prima di implementare l'allineamento della data di fatturazione, abbiamo fattura
 
 Le sottoscrizioni che sono nel periodo gratuito il 20 febbraio, non riceveranno l'addebito tra la data di acquisto e la data di fatturazione del partner. Inoltre, non riceveranno l'addebito per il primo mese del termine di pagamento di 12 mesi. Se usi un file di riconciliazione per la verifica, tieni presente che questo addebito del primo mese non sarà più visibile nel file di riconciliazione.  
 
+Non ci sono modifiche alle API, alla fatturazione o agli incentivi a seguito di questa modifica della logica di fatturazione. Informa i team di vendita e contabilità di questa nuova logica di fatturazione e assicurati che adeguino le operazioni di conseguenza. Consulta le domande frequenti riportate di seguito con gli scenari di fatturazione dettagliati.  
 
-**D:** Quali sono i cambiamenti?
 
--   **R:** Le sottoscrizioni basate su licenza non ottengono più un periodo gratuito dalla data di acquisto alla data di fatturazione del partner.
+**D1:** Cosa cambia per la data di fatturazione?
 
-**D:** Quando verrà rimosso il periodo gratuito?
+-   **R:** Le sottoscrizioni basate su licenza non avranno più un periodo gratuito. Attualmente, il periodo gratuito decorre dalla data di acquisto alla data di fatturazione del partner.
+
+**D2:** Quando verrà rimosso il periodo gratuito?
 
 - **R:** A partire dal 20 febbraio 2018, le nuove sottoscrizioni non avranno un periodo gratuito.
 
-**D:** Saranno interessate le sottoscrizioni nel periodo gratuito il 20 febbraio 2018?
+**D3:** Quale sarà l'impatto sulle sottoscrizioni nel periodo gratuito il 20 febbraio 2018?
 
-- **R:** Il periodo gratuito continuerà fino alla data di fatturazione del partner per le sottoscrizioni che sono già nel periodo gratuito il 20 febbraio 2018. Inoltre, non riceveranno l'addebito per il primo mese del termine di pagamento di 12 mesi. Se usi il file di riconciliazione per la verifica, tieni presente che questo addebito del primo mese potrebbe non essere presente nel file di riconciliazione. Vedi gli scenari seguenti per una spiegazione più dettagliata.
+- **R:** Le sottoscrizioni che si trovano nel periodo gratuito il 20 febbraio 2018 riceveranno comunque un periodo gratuito dalla data di acquisto alla data di fatturazione del partner. Queste licenze riceveranno anche un "periodo gratuito esteso" e non verrà addebitato il primo mese del termine di pagamento di 12 mesi. Il "periodo gratuito esteso" non sarà applicabili alle licenze aggiunte nel primo mese. Se aumenti la quantità di licenze nel primo mese, ti verranno addebitate le licenze aggiunte alla successiva fattura/riconciliazione. Se il file di riconciliazione viene utilizzato per la verifica, tieni presente che l'addebito del primo mese potrebbe non essere presente nel file di riconciliazione. Vedi gli scenari seguenti per una spiegazione più dettagliata.
 
-**D:** Quando inizierà il periodo a pagamento di 12 mesi?
+**D4:** Quando inizierà il periodo a pagamento di 12 mesi per una nuova sottoscrizione?
 
-- **R:** Attualmente, il periodo a pagamento decorre dalla data di fatturazione del partner dopo la data di acquisto. Quando viene eliminato il periodo gratuito, il periodo a pagamento per le nuove sottoscrizioni inizierà alla data di acquisto.
+- **R:** Attualmente, il periodo a pagamento decorre dalla data di fatturazione del partner dopo la data di acquisto. Dal 20 febbraio 2018 il periodo a pagamento per le nuove sottoscrizioni inizierà alla data di acquisto.
 
-**D:** Quando vengono rinnovate automaticamente le sottoscrizioni?
+**D5:** Quando vengono rinnovate automaticamente le sottoscrizioni?
 
-- **R:** Attualmente, le sottoscrizioni si rinnovano automaticamente 12 mesi dopo la data di fatturazione del partner dopo la data di acquisto. Quando viene eliminato il periodo gratuito, le sottoscrizioni verranno rinnovate automaticamente 12 mesi dopo la data di acquisto.
+- **R:** Le sottoscrizioni vengono rinnovate automaticamente 12 mesi dopo la prima data di fatturazione. Attualmente, le sottoscrizioni si rinnovano automaticamente 12 mesi dopo la prima data di fatturazione del partner dopo la data di acquisto. Dal 20 febbraio 2018 le nuove sottoscrizioni vengono rinnovate automaticamente 12 mesi dopo la data di acquisto.
 
-**D:** Cosa succede se acquisto la sottoscrizione il 29, il 30 o il 31?
+**D6:** Cosa succede se acquisto la sottoscrizione nei giorni 29, 30 o 31 di un mese?
 
-- **R:** Verrà eseguito il provisioning della sottoscrizione alla data di acquisto, ma il termine a pagamento di 12 mesi non inizia fino alla prima data del mese successivo.
+- **R:** La sottoscrizione sarà disponibile dalla data di acquisto, ma il termine a pagamento di 12 mesi non inizia fino al primo giorno del mese successivo.
 
-**D:** Quali offerte sono interessate da questa modifica?
+**D7:** Quali offerte sono interessate?
 
-- **R:** Tutte le sottoscrizioni basate su licenza CSP sono interessate.
+- **R:** La rimozione del periodo gratuito si applica a tutte le sottoscrizioni basate su licenza CSP.
 
-**D:** In che modo questa modifica interessa il file di fatturazione e riconciliazione?
+**D8:** In che modo è interessato il file di fatturazione e riconciliazione? 
 
-- **R:** Non vedrai più la "riga di fatturazione a $0" che rappresenta il periodo gratuito.
+- **R:** Non vedrai più la "riga di fatturazione a $0" nella fattura o nel file di riconciliazione. Attualmente, la riga di fatturazione a 0$ rappresenta il periodo gratuito.
 
-**D:** La data di fatturazione cambia?
+**D9:** La data di fatturazione cambia?
 
 - **R:** No, continuerai a ricevere il file di fatturazione e riconciliazione alla data di fatturazione esistente.
 
-**D:** Le date di inizio e fine addebito mensile cambiano per le sottoscrizioni esistenti?
+**D10 :** Le date di inizio e fine addebito mensile cambiano per le sottoscrizioni esistenti?
 
 - **R:** No, le date di inizio e fine addebito mensile di una sottoscrizione esistente continueranno a essere allineate alla data di fatturazione. Tuttavia, le nuove sottoscrizioni saranno allineate alla data di acquisto. Vedi l'esempio seguente.
 
-**D:** Il calcolo degli incentivi cambia?
+**D11:** Il calcolo degli incentivi cambia?
 
-- **R:** No.
+- **R:** No, non è stata apportata alcuna modifica al calcolo degli incentivi.
 
-**D:** Le API cambiano?
+**D12:** Le API subiranno cambiamenti?
 
-- **R:** No.
+- **R:** No, non è stata apportata alcuna modifica alle API.
 
 ### <a name="common-scenarios"></a>Scenari comuni
 
 
 |**Scenari**   |**Scenario 1: il periodo gratuito della sottoscrizione termina prima del 20 febbraio 2018**   |**Scenario 2: la sottoscrizione è nel periodo gratuito il 20 febbraio 2018**  | **Scenario 3: la sottoscrizione è stata acquistata il o dopo il 20 febbraio 2018**   |
 |----------|:------------|:--------------------|:------------|
-|Data di acquisto |1 febbraio    | 1 febbraio    | 1 giugno     |
-|Data del provisioning | 1 febbraio   |1 febbraio   |1 giugno   |
-|Data di fatturazione   | 15   |25   | 15|
-|Periodo gratuito   | 1 febbraio - 15 febbraio|1 febbraio - 24 febbraio   |Nessun periodo gratuito|
-|Addebito di 1 mese   | 15 febbraio - 14 marzo | 25 febbraio 2018 - 24 marzo 2018. Nessun addebito verrà visualizzato nel file di riconciliazione|1 giugno - 30 giugno   |
-|Addebito di 2 mesi   | 15 marzo - 14 aprile|25 marzo - 24 aprile   |1 luglio - 31 luglio|
-|Inizia il periodo a pagamento   | 15 febbraio 2018 | 25 marzo 2018| 1 giugno 2018| 
+|Data di acquisto |1 febbraio 2018    | 1 febbraio 2018    | 1 giugno 2018     |
+|Data del provisioning | 1 febbraio 2018   |1 febbraio 2018   |1 giugno 2018   |
+|Data di fatturazione   | 15 di ogni mese   |25 di ogni mese   | 15 di ogni mese|
+|Periodo gratuito   | 1 febbraio 2018 - 14 febbraio 2018|1 febbraio 2018 - 24 febbraio 2018   |Nessun periodo gratuito|
+|Addebito di 1 mese   | 15 febbraio 2018 - 14 marzo 2018 | La quantità di licenze il 24 febbraio 2018 riceverà un periodo gratuito esteso fino al 24 marzo 2018. Le licenze aggiunte dopo 24 febbraio 2018 verranno addebitate. |1 giugno 2018 - 30 giugno 2018   |
+|Addebito di 2 mesi   | 15 marzo 2018 - 14 aprile 2018|25 marzo 2018 - 24 aprile 2018   |1 luglio 2018 - 31 luglio 2018|
+|Inizia il periodo a pagamento   | 15 febbraio 2018 | 25 febbraio 2018| 1 giugno 2018| 
 |Finisce il periodo a pagamento | 14 febbraio 2019   |24 febbraio 2019   | 31 maggio 2019  |
 |Data del rinnovo | 15 febbraio 2019 |25 febbraio 2019   |1 giugno 2019|
 
-### <a name="scenario---new-purchase"></a>Scenario: nuovo acquisto
+### <a name="scenario-4---new-purchase"></a>Scenario 4: nuovo acquisto
 
-La data di fatturazione del partner è il 15 del mese. Il 1 giugno il partner acquista una nuova sottoscrizione per $30 al mese. Il file di riconciliazione del 15 giugno conterrà le seguenti righe:
+La data di fatturazione del partner è il 15 del mese. Il 1 giugno 2018 il partner acquista una nuova sottoscrizione. La sottoscrizione ha il prezzo di $30 per licenza al mese. 
 
-- Addebito di $30 per il primo mese (1 giugno - 30 giugno)
+Il 15 giugno il file di riconciliazione conterrà solo le seguenti righe di fatturazione:
 
-|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1/6/2018   |30/6/2018   |$30   |1   |$30   |
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno
 
-### <a name="scenario-suspend-and-reactivate-a-subscription-in-less-than-30-days-after-purchase"></a>Scenario: sospendere e riattivare una sottoscrizione entro 30 giorni dall'acquisto
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|--------------|
+|1/6/2018   |30/6/2018   |$30   |1   |$30   |Rateizza le tariffe all'acquisto |
 
-La data di fatturazione del partner è il 15 del mese. Il 1 giugno il partner acquista una nuova sottoscrizione per $30 al mese. Il 5 giugno, il partner sospende la sottoscrizione. Il 10 giugno, il partner riattiva la sottoscrizione. Il file di riconciliazione del 15 giugno conterrà le seguenti righe:
+### <a name="scenario-5a-suspend-and-reactivate-before-billing-date"></a>Scenario 5a: sospendere e riattivare prima della data di fatturazione
 
-- Addebito di $30 per il primo mese (1 giugno - 30 giugno) 
-- Credito per annullamento -$30. La data di inizio dell'addebito del 5 giugno è la data in cui il partner ha sospeso la sottoscrizione. Il credito non viene ripartito proporzionalmente. Il partner riceve il credito del 100% perché la sottoscrizione è stata sospesa nei primi 30 giorni.
-- L'addebito di riattivazione è di $30. La data di inizio dell'addebito del 10 giugno è la data in cui il partner ha riattivato la sottoscrizione. L'importo non viene ripartito proporzionalmente. Tutti gli annullamenti e le riattivazioni entro 30 giorni dalla data di acquisto non vengono ripartiti proporzionalmente.
+La data di fatturazione del partner è il 15 del mese. Il 1 giugno 2018 il partner acquista una nuova sottoscrizione. La sottoscrizione ha il prezzo di $30 per licenza al mese. Il 5 giugno 2018, il partner sospende la sottoscrizione. Il 10 giugno 2018, il partner riattiva la sottoscrizione. Il 15 giugno il file di riconciliazione conterrà le seguenti righe di fatturazione:
 
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno. 
+- Credito per annullamento -$30 per periodo di servizio 5 giugno - 30 giugno. Il credito non è suddiviso proporzionalmente perché la sottoscrizione è stata sospesa nei primi 30 giorni. 
+- Addebito di $30 per periodo di servizio 10 giugno - 30 giugno. L'addebito non è suddiviso proporzionalmente perché la sottoscrizione è stata riattivata nei primi 30 giorni. 
 
-|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1/6/2018   |30/6/2018   |$30   |1   |$30   |
-|5/6/2018   |30/6/2018   |-$30   |1   |$30   |
-|10/6/2018   |30/6/2018   |$30   |1   |$30   |
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|1/6/2018   |30/6/2018   |$30   |1   |$30   |Rateizza le tariffe all'acquisto |
+|5/6/2018   |30/6/2018   |-$30   |1   |$30   |Commissione di annullamento |
+|10/6/2018   |30/6/2018   |$30   |1   |$30   |Commessione di attivazione |
 
+Quando una sottoscrizione viene sospesa e riattivata, la data di rinnovo automatico rimarrà 12 mesi dopo la data di acquisto originale.
 
-### <a name="scenario-suspend-a-subscription-in-less-than-30-days-after-purchase-and-reactivate-after-30-days"></a>Scenario: sospendere una sottoscrizione entro 30 giorni dall'acquisto e riattivarla dopo 30 giorni
+### <a name="scenario-5b-suspend-and-reactivate-after-billing-date-but-less-than-30-days-from-purchase-date"></a>Scenario 5b: sospendere e riattivare dopo la data di fatturazione ma prima di 30 giorni dalla data di acquisto
 
-La data di fatturazione del partner è il 15 del mese. Il 1 giugno il partner acquista una nuova sottoscrizione per $30 al mese. Il 5 giugno, il partner sospende la sottoscrizione. Il file di riconciliazione del 15 giugno conterrà le seguenti righe:
+La data di fatturazione del partner è il 15 del mese. Il 1 giugno 2018 il partner acquista una nuova sottoscrizione. La sottoscrizione ha il prezzo di $30 per licenza al mese. Il 20 giugno 2018, il partner sospende la sottoscrizione. Il 25 giugno 2018, il partner riattiva la sottoscrizione. Il 15 giugno il file di riconciliazione conterrà le seguenti righe di fatturazione:
 
-|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1/6/2018   |30/6/2018   |$30   |1   |$30   |
-|5/6/2018   |30/6/2018   |-$30   |1   |$30   |
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno. 
 
-Il 10 luglio, il partner riattiva la sottoscrizione. Il file di riconciliazione del 15 luglio conterrà il seguente addebito:
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|1/6/2018   |30/6/2018   |$30   |1   |$30   |Rateizza le tariffe all'acquisto |
 
-- L'addebito di riattivazione è di $21,29. La data di inizio dell'addebito del 10 luglio è la data in cui il partner ha riattivato la sottoscrizione e l'importo ripartito proporzionalmente è pari a $21,29. Tutti gli annullamenti e le riattivazioni dopo 30 giorni dalla data di acquisto vengono ripartiti proporzionalmente. 
+Il 15 luglio il file di riconciliazione conterrà le seguenti righe di fatturazione:
+- Credito per annullamento -$30 per periodo di servizio 20 giugno - 30 giugno. Il credito non è suddiviso proporzionalmente perché la sottoscrizione è stata sospesa nei primi 30 giorni.
+- Addebito di $30 per periodo di servizio 25 giugno - 30 giugno. L'addebito non è suddiviso proporzionalmente perché la sottoscrizione è stata riattivata nei primi 30 giorni.
+- Addebito di $30 per periodo di servizio 1 luglio - 31 luglio.
 
-|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|10/7/2018   |31/7/2018   |$21,29   |1   |$21,29   |
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|20/6/2018   |30/6/2018   |-$30   |1   |-$30   |Commissione di annullamento |
+|25/6/2018   |30/6/2018   |$30   |1   |$30   |Commessione di attivazione |
+|1/7/2018   |31/7/2018   |$30   |1   |$30   |Tariffa periodica |
 
-La data di rinnovo dell'abbonamento rimane il 1 giugno dell'anno successivo, ovvero 12 mesi dopo la data di acquisto originale.
+### <a name="scenario-5c-suspend-and-reactivate-different-license-quantity-after-billing-date-but-less-than-30-days-from-purchase-date"></a>Scenario 5c: sospendere e riattivare (differente quantità di licenze) dopo la data di fatturazione ma prima di 30 giorni dalla data di acquisto
 
-### <a name="scenario-subscription-suspension-and-reactivation-more-than-30-days-after-purchase"></a>Scenario: sospendere e riattivare una sottoscrizione dopo 30 giorni dall'acquisto 
-La data di fatturazione del partner è il 15 del mese. Il 1 giugno il partner acquista una nuova sottoscrizione di una licenza per $30 al mese. Il file di riconciliazione del 15 giugno conterrà solo le operazioni seguenti: addebito di $30 per il primo mese (1 giugno - 30 giugno).
+La data di fatturazione del partner è il 15 del mese. Il 1 giugno 2018 il partner acquista una nuova sottoscrizione. La sottoscrizione ha il prezzo di $30 per licenza al mese. Il 20 giugno 2018, il partner sospende la sottoscrizione. Il 25 giugno 2018, il partner riattiva la sottoscrizione con due licenze. Il 15 giugno il file di riconciliazione conterrà le seguenti righe di fatturazione:
 
-|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1/6/2018   |30/6/2018   |$30   |1   |$30   |
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno. 
 
-Il partner sospende la sottoscrizione il 5 luglio, ma la riattiva il 15 luglio. Il file di riconciliazione del 15 luglio conterrà le seguenti righe:
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|1/6/2018   |30/6/2018   |$30   |1   |$30   |Rateizza le tariffe all'acquisto |
 
-- Addebito di $30 per il secondo mese (1 luglio - 31 luglio)
+Il 15 luglio il file di riconciliazione conterrà le seguenti righe di fatturazione:
+- Credito per annullamento -$30 per periodo di servizio 20 giugno - 30 giugno. Il credito non è suddiviso proporzionalmente perché la sottoscrizione è stata sospesa nei primi 30 giorni.
+- Addebito di $30 per periodo di servizio 25 giugno - 30 giugno. L'addebito non è suddiviso proporzionalmente perché la sottoscrizione è stata sospesa nei primi 30 giorni.
+- Credito -$30 per periodo di servizio 1 giugno - 30 giugno. Il partner ha riattivato la sottoscrizione con una quantità di licenze diversa che comporta un credito e una nuova fattura ripartita proporzionalmente.
+- Nuova fattura ripartita proporzionalmente $24 per periodo di servizio 1 giugno - 24 giugno. Il partner aveva 1 licenza durante questo periodo di servizio. Anche se la sottoscrizione è stata sospesa dal 20 giugno al 24 giugno, al cliente viene ancora addebitato il costo di questi giorni. Il prezzo unitario viene calcolato come segue: (mensile prezzo/numero di giorni del periodo totale di servizio)*numero di giorni del periodo di servizio ripartito*numero di licenze = (30/30)*24*1 = $24.
+- Nuova fattura ripartita proporzionalmente $12 per periodo di servizio 25 giugno - 30 giugno. Il partner aveva 2 licenze durante questo periodo di servizio. Il prezzo unitario viene calcolato come (30/30)*6*2 = $12.
+- Addebito di $60 per periodo di servizio 1 luglio - 31 luglio.
 
-- Credito di annullamento -$26,19. La data di inizio dell'addebito del 5 luglio è la data in cui il partner ha sospeso la sottoscrizione e il credito viene ripartito proporzionalmente. Tutti gli annullamenti e le riattivazioni dopo 30 giorni dalla data di acquisto vengono ripartiti proporzionalmente.
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|20/6/2018   |30/6/2018   |-$30   |1   |-$30   |Commissione di annullamento |
+|25/6/2018   |30/6/2018   |$30   |1   |$30   |Commessione di attivazione |
+|1/6/2018   |30/6/2018   |-$30   |1   |-$30   |Istanza del ciclo rateizzata |
+|1/6/2018   |24/6/2018   |$24   |1   |$24   |Istanza del ciclo rateizzata |
+|25/6/2018   |30/6/2018   |$6   |2   |$12   |Istanza del ciclo rateizzata |
+|1/7/2018   |31/7/2018   |$30   |2   |$60   |Tariffa periodica |
 
-- L'addebito di riattivazione è di $21,37. La data di inizio dell'addebito del 10 luglio è la data in cui il partner ha riattivato la sottoscrizione e l'addebito viene ripartito proporzionalmente.
+### <a name="scenario-6-subscription-suspension-less-than-30-days-after-purchase-and-reactivation-more-than-30-days-after-purchase"></a>Scenario 6: sospendere una sottoscrizione entro 30 giorni dall'acquisto e riattivarla oltre 30 giorni dopo l'acquisto 
 
-|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1/7/2018   |31/7/2018   |$30  |1   |$30   |
-|5/7/2018   |31/7/2018   |   -$26,19   |1   |-$26,19|
-|10/7/2018   |31/7/2018   |-$21,37   |1   |$21,37|
+La data di fatturazione del partner è il 15 del mese. Il 1 giugno il partner acquista una nuova sottoscrizione di una licenza per $30 al mese. Il 5 giugno, il partner sospende la sottoscrizione. Il 15 giugno il file di riconciliazione conterrà le seguenti righe di fatturazione:
 
-### <a name="scenario-change-license-quantity"></a>Scenario: modificare la quantità di licenze 
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno
+- Credito per annullamento -$30 per periodo di servizio 5 giugno - 30 giugno. Il credito non è suddiviso proporzionalmente perché la sottoscrizione è stata sospesa nei primi 30 giorni.
 
-La data di fatturazione del partner è il 15 del mese. Il 1 giugno il partner acquista una nuova sottoscrizione per $30 al mese. Il 10 giugno il partner aumenta la quantità di licenze da 1 a 2 licenze. Il file di riconciliazione del 15 giugno conterrà le seguenti righe:
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|---------|
+|1/6/2018   |30/6/2018   |$30   |1   |$30   |Rateizza le tariffe all'acquisto
+|5/6/2018   |30/6/2018   |-$30   |1   |-$30   |Commissione di annullamento
 
-- Addebito di $30 per il primo mese (1 giugno - 30 giugno) Anche se il partner ha aumentato la quantità di licenze prima della data di fatturazione del 15 giugno, la modifica non verrà riconosciuta nel sistema di fatturazione Microsoft fino al giorno dell'anniversario della sottoscrizione del 1 luglio.
+Il 10 luglio, il partner riattiva la sottoscrizione. Il 15 luglio il file di riconciliazione conterrà le seguenti righe di fatturazione:
 
-|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1/6/2018   |30/6/2018   |$30   |1   |$30   |
+- Addebito per riattivazione di $21,30 per periodo di servizio 10 luglio - 31 luglio. Le riattivazioni dopo 30 giorni dalla data di acquisto generano un addebito ripartito proporzionalmente. 
 
-Il 1 luglio, giorno dell'anniversario della sottoscrizione, il sistema di fatturazione Microsoft riconoscerà che il 10 giugno la quantità di licenze è stata modificata da 1 a 2. Il sistema di fatturazione genererà un credito e gli addebiti ripartiti proporzionalmente per il primo mese e un addebito per il secondo mese. Il file di riconciliazione del 15 luglio conterrà le seguenti righe:
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|10/7/2018   |31/7/2018   |$21,30   |1   |$21,30   |Commessione di attivazione |
 
-- Credito di -$30 per il primo mese.
-- Addebito ripartito proporzionalmente di $9 per il primo mese (1 giugno - 9 giugno) per 1 licenza.
-- Addebito ripartito proporzionalmente di $42 per il primo mese (10 giugno - 30 giugno) per 2 licenze.
-- Addebito di $60 per il secondo mese (1 luglio – 31 luglio) per 2 licenze.
+Il 15 agosto il file di riconciliazione conterrà le seguenti righe di fatturazione:
+- Addebito di $30 per il periodo di servizio 1 agosto - 31 agosto.
 
-|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1/6/2018   |30/6/2018   |-$30   |1   |-$30|
-|1/6/2018   |9/6/2018   |$9   |1   |$9|
-|10/6/2018   |30/6/2018   |$21   |2   |$42|
-|1/7/2018   |31/7/2018   |$30   |2   |$60   |
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|1/8/2018   |31/8/2018   |$30   |1   |$30   |Tariffa periodica |
 
-### <a name="scenario-add-on-subscriptions"></a>Scenario: sottoscrizioni di componenti aggiuntivi
+Quando una sottoscrizione viene sospesa e riattivata, la data di rinnovo automatico rimarrà 12 mesi dopo la data di acquisto originale. 
 
-La data di fatturazione del partner è il 15 del mese. Il 1 giugno il partner acquista una nuova sottoscrizione per $30 al mese. Il 10 giugno il partner acquista una nuova sottoscrizione per componente aggiuntivo per $5 al mese. La data di rinnovo della sottoscrizione per componente aggiuntivo si allinea alla data di rinnovo della sottoscrizione di base che è il 1 giugno. 
+### <a name="scenario-7-subscription-suspension-and-reactivation-more-than-30-days-after-purchase"></a>Scenario 7: sospendere e riattivare una sottoscrizione dopo 30 giorni dall'acquisto 
+La data di fatturazione del partner è il 15 del mese. Il 1 giugno il partner acquista una nuova sottoscrizione di una licenza per $30 al mese. 
 
-Il file di riconciliazione del 15 giugno conterrà le seguenti righe:
+Il 15 giugno il file di riconciliazione conterrà solo le seguenti righe di fatturazione:
 
-- Addebito di $30 per il primo mese (1 giugno - 30 giugno) È per la sottoscrizione di base.
-- Addebito ripartito proporzionalmente di $3,50 per il primo mese (10 giugno - 30 giugno) per la sottoscrizione per componente aggiuntivo. La data di inizio dell'addebito del 10 giugno è la data in cui la sottoscrizione per componente aggiuntivo è stata acquistata e l'importo è stato ripartito proporzionalmente.
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno.
 
-|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1/6/2018   |30/6/2018   |$30   |1   |$30   |
-|10/6/2018   |30/6/2018   |$3,50   |1   |$3,50   |
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|---------|
+|1/6/2018   |30/6/2018   |$30   |1   |$30   |Rateizza le tariffe all'acquisto |
+
+Il partner sospende la sottoscrizione il 5 luglio, ma la riattiva il 15 luglio. Il 15 luglio il file di riconciliazione conterrà le seguenti righe di fatturazione:
+
+- Addebito di $30 per periodo di servizio 1 luglio - 31 luglio.
+- Credito per annullamento -$26,14 per periodo di servizio 5 luglio - 31 luglio. Gli annullamenti dopo 30 giorni dalla data di acquisto generano un credito ripartito proporzionalmente. Calcolo = (prezzo mensile/giorni nel periodo totale di servizio) x giorni nel periodo di servizio ripartito x quantità di licenze x (-1) (30/31) x 27 x 1 x (-1) = -26,14.
+- Addebito per riattivazione di $21,30 per periodo di servizio 10 luglio - 31 luglio. Le riattivazioni dopo 30 giorni dalla data di acquisto generano un addebito ripartito proporzionalmente. Calcolo = (30/31) x 22 x 1 = 21,30.
+
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|1/7/2018   |31/7/2018   |$30  |1   |$30   |Tariffa periodica |
+|5/7/2018   |31/7/2018   |   -$26,14   |1   |-$26,14|Commissione di annullamento |
+|10/7/2018   |31/7/2018   |-$21,30   |1   |$21,30|Commessione di attivazione |
+
+Il file di riconciliazione del 15 agosto conterrà le seguenti righe:
+- Addebito di $30 per il periodo di servizio 1 agosto - 31 agosto.
+
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|1/8/2018   |31/8/2018   |$30  |1   |$30   |Tariffa periodica |
+
+### <a name="scenario-8-change-of-license-quantity"></a>Scenario 8: modificare la quantità di licenze 
+
+La data di fatturazione del partner è il 15 del mese. Il 1 giugno il partner acquista una nuova sottoscrizione per $30 al mese. Il 10 giugno il partner aumenta la quantità di licenze da 1 a 2 licenze. Il 15 giugno il file di riconciliazione conterrà le seguenti righe di fatturazione:
+
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno. Anche se il partner ha aumentato la quantità di licenze prima della data di fatturazione del 15 giugno, la modifica non verrà riconosciuta nel sistema di fatturazione Microsoft fino al giorno dell'anniversario della sottoscrizione del 1 luglio.
+
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|1/6/2018   |30/6/2018   |$30   |1   |$30   |Rateizza le tariffe all'acquisto |
+
+Il 1 luglio, giorno dell'anniversario della sottoscrizione, il sistema di fatturazione Microsoft riconoscerà che il 10 giugno la quantità di licenze è stata modificata da 1 a 2. Il sistema di fatturazione genererà un credito e una nuova fattura ripartita proporzionalmente per il periodo di servizio 1 giugno - 9 giugno e 10 giugno - 30 giugno. 
 
 Il file di riconciliazione del 15 luglio conterrà le seguenti righe:
 
-- Addebito di $30 per il secondo mese (1 luglio - 31 luglio) È per la sottoscrizione di base.
-- Addebito di $5 per il secondo mese (1 luglio - 31 luglio) È per la sottoscrizione per componente aggiuntivo.
+- Credito -$30 per periodo di servizio 1 giugno - 30 giugno.
+- Nuova fattura ripartita proporzionalmente $9 per periodo di servizio 1 giugno - 9 giugno. Questo è il periodo quando il cliente aveva 1 licenza. Calcolo = (prezzo mensile/giorni totali nel periodo di servizio) x giorni nel periodo di servizio ripartito x numero di licenze = (30/30) x 9 x 1 = 9.
+- Nuova fattura ripartita proporzionalmente $42 per periodo di servizio 10 giugno - 30 giugno. Questo è il periodo quando il cliente aveva 2 licenze. Calcolo = (30/30) x 21 x 2 = 42.
+- Addebito di $60 per periodo di servizio 1 luglio - 31 luglio.
 
-|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1/7/2018   |31/7/2018   |$30   |1   |$30   |
-|1/7/2018   |31/7/2018   |$5   |1   |$5   |
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|1/6/2018   |30/6/2018   |-$30   |1   |-$30|Istanza del ciclo rateizzata |
+|1/6/2018   |9/6/2018   |$9   |1   |$9|Istanza del ciclo rateizzata |
+|10/6/2018   |30/6/2018   |$21   |2   |$42|Istanza del ciclo rateizzata |
+|1/7/2018   |31/7/2018   |$30   |2   |$60   |Tariffa periodica |
 
-### <a name="scenario-new-purchase-on-the-29th-30th-or-31st"></a>Scenario: nuovo acquisto il 29, il 30 o il 31 
+### <a name="scenario-9-add-on-subscriptions"></a>Scenario 9: sottoscrizioni di componenti aggiuntivi
 
-La data di fatturazione del partner è il 15 del mese. Il 29 maggio il partner acquista una nuova sottoscrizione (1 licenza a $30/mese) con la frequenza di fatturazione mensile. La data dell'anniversario per le sottoscrizioni acquistate il giorno 29, 30 o 31 sarà il valore predefinito ossia il 1° del mese. In questo scenario, la sottoscrizione riceverà un periodo gratuito dal 29 maggio al 31 maggio e la riga di fatturazione verrà visualizzata il 1 giugno con l'addebito anticipato di un mese.
+La data di fatturazione del partner è il 15 del mese. Il 1 giugno il partner acquista una nuova sottoscrizione di una licenza per $30 al mese. Il 10 giugno il partner acquista una nuova sottoscrizione per componente aggiuntivo per $5 al mese. La data di rinnovo della sottoscrizione per componente aggiuntivo si allinea alla data di rinnovo della sottoscrizione di base che è il 1 giugno. 
 
-Il file di riconciliazione del 15 giugno conterrà le seguenti righe:
+Il 10 giugno il partner acquista una sottoscrizione per componente aggiuntivo di una licenza per $5 al mese. 
 
-- Addebito di $30 per il primo mese (1 giugno - 30 giugno)
+Il 15 giugno il file di riconciliazione conterrà le seguenti righe di fatturazione:
 
-|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1/6/2018   | 30/6/2018   |$30   |1   |$30  |
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno. È per la sottoscrizione di base.
+- Addebito ripartito proporzionalmente $3,50 per periodo di servizio 10 giugno - 30 giugno. È per la sottoscrizione per componente aggiuntivo. 
+
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|1/6/2018   |30/6/2018   |$30   |1   |$30   |Rateizza le tariffe all'acquisto |
+|10/6/2018   |30/6/2018   |$3,50   |1   |$3,50   |Rateizza le tariffe all'acquisto |
+
+Il 15 luglio il file di riconciliazione conterrà le seguenti righe di fatturazione:
+
+- Addebito di $30 per periodo di servizio 1 luglio - 31 luglio. È per la sottoscrizione di base.
+- Addebito di $5 per periodo di servizio 1 luglio - 31 luglio. È per la sottoscrizione per componente aggiuntivo.
+
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|-------|
+|1/7/2018   |31/7/2018   |$30   |1   |$30   |Tariffa periodica |
+|1/7/2018   |31/7/2018   |$5   |1   |$5   |Tariffa periodica |
+
+La data di rinnovo automatico della sottoscrizione per componente aggiuntivo sarà il 1 giugno 2019, allineata alla sottoscrizione di base.
+
+### <a name="scenario-10-new-purchase-on-the-29th-30th-or-31st"></a>Scenario 10: nuovo acquisto il 29, il 30 o il 31 
+
+La data di fatturazione del partner è il 15 del mese. Il 29 maggio il partner acquista una nuova sottoscrizione di una licenza per $30 al mese. Le sottoscrizioni acquistate il 29, il 30 o il 31 avranno un periodo gratuito dalla data dell'acquisto fino al 1 del mese successivo. Il giorno di anniversario della sottoscrizione sarà il giorno 1 per impostazione predefinita. In questo scenario, la sottoscrizione riceverà un periodo gratuito dal 29 maggio al 31 maggio e il periodo a pagamento di 12 mesi inizierà il 1 giugno. 
+
+Il 15 giugno il file di riconciliazione conterrà le seguenti righe di fatturazione:
+
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno.
+
+|**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
+|-----------------|:-------------|:----------------|:------------|:------|------|
+|1/6/2018   | 30/6/2018   |$30   |1   |$30  |Rateizza le tariffe all'acquisto |
+
+Il rinnovo automatico della sottoscrizione avverrà il 1 giugno 2019.

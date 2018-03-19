@@ -1,5 +1,5 @@
 ---
-title: Understand your incentive payouts | Partner Center
+title: Comprendere i propri proventi derivanti dagli incentivi | Centro per i partner
 description: Visualizzare gli utili e i proventi per i programmi di incentivi.
 author: labrenne
 ms.openlocfilehash: 2169f0b57f29b04cda61914a4b3dde1f6b52f43a
@@ -10,13 +10,13 @@ ms.lasthandoff: 07/10/2017
 ---
 #<a name="understand-your-incentive-payouts"></a>Comprendere i proventi derivanti dagli incentivi
 
-**Applies to**
+**Si applica a**
 
 -  Centro per i partner
 
 Gli amministratori e gli utenti di incentivi ottengono una panoramica degli utili e dei pagamenti che hanno ricevuto o stanno per ricevere dai loro programmi di incentivi.   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Summary information on earnings and payout
+##<a name="summary-information-on-earnings-and-payout"></a>Informazioni di riepilogo sugli utili e sui proventi
 
 I partner CSP che sono utenti e amministratori di incentivi possono vedere la propria posizione finanziaria nei programmi di incentivi ai quali aderiscono nel **Riepilogo proventi**. Puoi eseguire il drill-down in ogni area delle informazioni di riepilogo, in base alle necessità. 
 
@@ -49,7 +49,7 @@ La tabella di profitti e pagamenti di prodotto/ programma mostra una suddivision
 
 ## <a name="analyze-incentives-earnings"></a>Analizzare gli utili degli incentivi
 
-Scopri dove l'organizzazione dispone di spazio per guadagni maggiori tramite i programmi di incentivi e dove sei già stato pagato. This data makes it clear where you have earned but have not yet been paid.  Understand which programs and activities have been most successful as well as find out which of your locations is earning. By program you can see what the total earnings potential is, the time during which you can participate in the program and when it expires. Ciascun programma e tipo di utili avrà requisiti e date di inizio e fine diverse. 
+Scopri dove l'organizzazione dispone di spazio per guadagni maggiori tramite i programmi di incentivi e dove sei già stato pagato. Questi dati rendono evidente dove hai guadagnato ma non sei stato ancora pagato.  Comprendi quali programmi e attività hanno avuto un esito più positivo, oltre a scoprire quale delle localizzazioni ottiene utili. Mediante il programma puoi visualizzare qual è il potenziale degli utili totale, il tempo in cui puoi partecipare al programma e quando scade. Ciascun programma e tipo di utili avrà requisiti e date di inizio e fine diverse. 
 
 ## <a name="earning-trends"></a>Tendenze degli utili 
 
@@ -96,12 +96,12 @@ Le seguenti tabelle descrivono i campi disponibili nei file .csv della distinta.
 
 ## <a name="downloading-earnings-transactions"></a>Download delle transazioni degli utili 
 
-|**Campo**        |**Definition**     |
+|**Campo**        |**Definizione**     |
 |--------------------|:-------------------------------------------------|                                                 
 |EarningID      |Identificatore univoco creato per ogni voce di utile |               
 |Nome partner   | Nome registrato del partner nel Centro per i partner                    |
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | Paese/Area geografica di ID organizzazione-MPN V del partner|
+|MPN/PCN        |ID MPN (ID di Microsoft Partner Network del partner)/Numero di cliente pubblico|
+|Localizzazione       | Paese/Area geografica di ID organizzazione-MPN V del partner|
 |Nome programma   |Nome del programma di incentivi |
 |Nome cliente  |   Nome del cliente che ha acquistato la sottoscrizione |
 |Localizzazione del cliente  | Paese in cui si trova il cliente  |
@@ -113,11 +113,11 @@ Le seguenti tabelle descrivono i campi disponibili nei file .csv della distinta.
 |Data di fine contratto |Data di fine del contratto di licenza, inclusi i rinnovi e le estensioni |
 |Data di inizio della sottoscrizione    |Data di inizio di una sottoscrizione|
 |Data di fine sottoscrizione  |Data di fine di una sottoscrizione|
-|Product SKU    |Numero SKU per un prodotto|
+|SKU del prodotto    |Numero SKU per un prodotto|
 |Nome del prodotto   |Nome del prodotto Microsoft|
 |Data transazione   |Data e ora di esecuzione della transazione (UTC).|
 |Conteggio licenze  |Numero di licenze vendute |
-|Quantity   |Numero di unità vendute| 
+|Quantità   |Numero di unità vendute| 
 |Quantità precedente |Quantità di unità dall'ultimo periodo di reddito |
 |Prezzo unitario |Prezzo per ogni unità venduta| 
 |Importo transazione |Il tasso di calcolo viene moltiplicato con questo importo per calcolare gli utili degli incentivi|
@@ -128,7 +128,7 @@ Le seguenti tabelle descrivono i campi disponibili nei file .csv della distinta.
 |Periodo degli utili     |Periodo degli utili basato sul programma |
 |Inizio del periodo degli utili   |Inizio di un periodo degli utili per un programma (UTC) |
 |Fine del periodo degli utili |Fine di un periodo degli utili per un programma (UTC)|
-|Calculation Date   |Quando vengono calcolati gli utili (UTC)|
+|Data di calcolo   |Quando vengono calcolati gli utili (UTC)|
 |Valuta degli utili   |Valuta dell'importo degli utili |
 |Tasso di cambio degli utili|Tasso di cambio usato per convertire la valuta della transazione nella valuta degli utili.|
 |Valuta report|Valuta utilizzata per i report|
@@ -145,8 +145,8 @@ Le seguenti tabelle descrivono i campi disponibili nei file .csv della distinta.
 |**Nome colonna**   |**Descrizione**   |
 |-------------------|:--------------------|
 |Nome partner|Nome registrato del partner nel Centro per i partner|
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | Country/Region of Partner's MPN V-Org ID|
+|MPN/PCN        |ID MPN (ID di Microsoft Partner Network del partner)/Numero di cliente pubblico|
+|Localizzazione       | Paese/Area geografica di ID organizzazione-MPN V del partner|
 |Nome programma   |Nome del programma di incentivi |
 |Tipo di utili   |Tipo di utile (rimborso, rettifica) |
 |Valuta importo di pagamento.|   Il tipo di valuta utilizzato per il pagamento|

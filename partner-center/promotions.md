@@ -10,7 +10,7 @@ ms.lasthandoff: 08/24/2017
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Utilizzare le promozioni per attirare nuovi clienti  
 
-**Applies to: Partner Center**
+**Si applica a: Centro per i partner**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
@@ -32,18 +32,18 @@ Fermati un istante ed esamina questi importanti aspetti sulle promozioni:
 
 Puoi visualizzare per quali promozioni sei idoneo, se presenti, nella tua pagina**Promozioni**. Seleziona **Promozioni** nel menu **Dashboard** per visualizzare un elenco di promozioni correnti insieme a sconto, tipo di promozione, date di inizio e fine per la sottoscrizione. Se non sono disponibili promozioni, viene visualizzato un messaggio che ti informa di tale situazione. 
 
->**Note**<br>
-You can also see promotions when making a purchase. Quando selezioni una sottoscrizione, il prezzo promozionale appare nella pagina **Revisione**.
+>**Nota**<br>
+Inoltre puoi visualizzare le promozioni quando effettui un acquisto. Quando selezioni una sottoscrizione, il prezzo promozionale appare nella pagina **Revisione**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Acquisto di sottoscrizioni a prezzi scontati
 
-1. On your **Dashboard** menu, select **Customers** and then select the customer who’s buying the subscription. 
+1. Nel menu **Dashboard** seleziona **Clienti**, quindi seleziona il cliente che acquista la sottoscrizione. 
 
-2. Select **Add subscription**.
+2. Seleziona **Aggiungi sottoscrizione**.
 
 3. Nella pagina **Nuova sottoscrizione** seleziona la sottoscrizione a cui si applica la promozione.
 
-4. Enter the number of licenses the customer needs. 
+4. Immetti il numero di licenze di cui ha bisogno il cliente. 
 
 5. Esamina l'ordine. Vedrai il prezzo promozionale che verrà applicato nella colonna **Sconto**.  
 

@@ -1,42 +1,42 @@
 ---
-title: Messaging Competency
-description: The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.
+title: Competenza dei messaggi
+description: "La competenza dei messaggi riconosce i partner che ottengono un vantaggio competitivo, abbreviano i cicli di vendita e fanno crescere le proprie aziende mostrando le capacità come provider di soluzioni di Microsoft Exchange qualificati."
 author: Daniel Simpson
-keywords: competency,competencies,Messaging
+keywords: competenza, competenze, messaggi
 ms.openlocfilehash: 41a8bd44f5a0dacf49554907dd381e1ec7140a21
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 07/07/2017
 ---
-#<a name="messaging"></a>Messaging
-The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.
+#<a name="messaging"></a>Messaggi
+La competenza dei messaggi riconosce i partner che ottengono un vantaggio competitivo, abbreviano i cicli di vendita e fanno crescere le proprie aziende mostrando le capacità come provider di soluzioni di Microsoft Exchange qualificati.
 
-##<a name="hybrid-services-partner-option"></a>Hybrid Services Partner option
-Put your product knowledge to the test by passing exams or certifications.
+##<a name="hybrid-services-partner-option"></a>Opzione di partner di servizi ibridi
+Metti alla prova la conoscenza del prodotto superando esami o certificazioni.
 
 ###<a name="silver"></a>Silver
-1. Your organization must have **2** individuals pass the exam or certification requirements.
+1. L'organizzazione deve disporre di **2** utenti che superino l'esame oppure i requisiti di certificazione.
     
-    - **2** individuals must each pass all the following exams:
-        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
-        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
+    - I**2** utenti devono superare ciascuno tutti i seguenti esami:
+        - [Esame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): abilitazione dei servizi per Microsoft Office 365
+        - [Esame 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): progettazione e distribuzione di Microsoft Exchange Server 2016
 
-    **OR**
+    **OPPURE**
 
-     - **2** individuals must pass the following certification:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+     - I**2** utenti devono superare la seguente certificazione:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Produttività
 
 ###<a name="gold"></a>Gold
-1. Your organization must have **4** individuals pass the exam or certification requirements.
+1. L'organizzazione deve disporre di **4** utenti che superino l'esame oppure i requisiti di certificazione.
 
-    - **4** individuals must each pass all the following exams:
-        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
-        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
+    - I**4** utenti devono superare ciascuno tutti i seguenti esami:
+        - [Esame 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): abilitazione dei servizi per Microsoft Office 365
+        - [Esame 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): progettazione e distribuzione di Microsoft Exchange Server 2016
 
-    **OR**
+    **OPPURE**
 
-    - **4** individuals must pass the following certification:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+    - I**4** utenti devono superare la seguente certificazione:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Produttività
 
 

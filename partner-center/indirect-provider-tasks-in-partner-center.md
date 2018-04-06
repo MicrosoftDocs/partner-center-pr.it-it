@@ -1,12 +1,12 @@
 ---
 title: Collaborare con i rivenditori indiretti in CSP | Centro per i partner
-description: "In qualità di provider indiretto, o distributore, puoi collaborare con rivenditori indiretti per ampliare il tuo mercato."
+description: In qualità di provider indiretto, o distributore, puoi collaborare con rivenditori indiretti per ampliare il tuo mercato.
 author: MaggiePucciEvans
-ms.openlocfilehash: a06ba13e11ce640ca7985090125270b4b62fb447
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: cc39be08953c88be2e55f6c53c41c1528f0c7493
+ms.sourcegitcommit: c51de6e6cbb71d11d31af21943583e9e17d66502
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 03/12/2018
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 
@@ -72,6 +72,7 @@ A seconda del livello di accesso e di coinvolgimento che desideri assegnare al r
 | **Per** | **Effettuare quanto segue** | **Dove** |
 |   ------------------   |   -------   |   -----   |
 | Consentire al rivenditore di gestire l'account di un cliente e di disporre delle autorizzazioni di amministratore per gestire le sottoscrizioni | Associare un rivenditore a un account cliente quando si aggiunge un nuovo cliente | Nella pagina **Nuovo cliente** |
+|Abilitare il rivenditore alla gestione dell'account di un cliente di Azure|Associare un rivenditore a un account cliente di Azure quando si aggiunge un nuovo cliente|Nel **portale di servizio di Azure** seleziona [Impostazioni utente](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) per assegnare al rivenditore indiretto le autorizzazioni per il **proprietario tenant**|
 | Assegnare al rivenditore il credito per gli incentivi | Associare il rivenditore alla sottoscrizione (nuova o esistente) | Nella pagina **Nuova sottoscrizione** |
 | Delegare il supporto cliente per sottoscrizioni specifiche al rivenditore | Selezionare il rivenditore dall'elenco **Designated support contact** | Nella pagina dei dettagli della sottoscrizione: seleziona il cliente dalla tua pagina **Clienti**, quindi seleziona la sottoscrizione dalla pagina **Sottoscrizioni** del cliente |
 

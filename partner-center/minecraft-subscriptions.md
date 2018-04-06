@@ -3,11 +3,11 @@ title: 'Vendere le sottoscrizioni di Minecraft: Education Edition ai clienti del
 description: 'Vendere le sottoscrizioni di Minecraft: Education Edition ai clienti del settore istruzione'
 author: KPacquer
 keywords: Authorized Education Partner
-ms.openlocfilehash: b719fb858abe5e171e4bf785fc2c4b3e4500d7c5
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
+ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 02/21/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendere le sottoscrizioni di Minecraft: Education Edition ai clienti del settore istruzione
 
@@ -29,6 +29,37 @@ Acquista Minecraft: Education Edition per i clienti del settore istruzione trami
       b. L'amministratore va alla [pagina dei dettagli di Minecraft](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) per scaricare l'app e distribuirla agli utenti. Per istruzioni dettagliate, vedi [Per gli amministratori IT: ottenere Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft).
     
   Se l'amministratore IT dell'istituto non ha familiarità con Microsoft Store per le aziende, invitalo a consultare la pagina [Panoramica di Microsoft Store per le aziende e Microsoft Store per la formazione](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview). 
+
+## <a name="special-pricing-for-education-offers"></a>Prezzi speciali per le offerte per il settore dell'istruzione
+
+Microsoft offre prezzi ridotti speciali per gruppi selezionati di utenti, ad esempio gli istituti di istruzioni, le organizzazioni no profit e gli enti pubblici oppure per set di clienti di dimensioni molto grandi. I rivenditori devono essere certificati prima di poter accedere a questi prezzi. È inoltre necessario che il cliente sia qualificato per avere diritto al prezzo speciale.
+
+**Controllare le tue qualificazioni come rivenditore**
+
+1.  Nel menu **Dashboard** seleziona **Impostazioni account**.
+2.  Nel tuo **Profilo partner**, nella sezione **Info sul programma CSP** cerca **Qualificazioni rivenditore**.
+3.  Se non vedi l'opzione **Qualificazioni rivenditore** significa che non sei ancora stato autorizzato all'acquisto di offerte speciali.
+
+**Controllare le qualificazioni dei clienti**
+
+1.  Nel menu **Dashboard** seleziona **Clienti**. Scegli il cliente nell'elenco.
+2.  Nel menu del cliente seleziona **Account**. Nella sezione **Informazioni azienda** cerca **Qualificazioni speciali**.
+3.  Se l'opzione **Qualificazioni speciali** è impostata su **Nessuna**, ma il cliente soddisfa in effetti i requisiti di qualificazione, puoi **aggiornare** i dettagli per includerle.
+
+## <a name="access-education-offers"></a>Accedere alle offerte per il settore dell'istruzione 
+
+Per ottenere accesso alle offerte per il settore dell'istruzione nel programma CSP, [diventa un Authorized Education Partner](http://go.microsoft.com/fwlink/p/?LinkId=808781) (AEP).
+
+### <a name="purchase-offers-at-education-pricing"></a>Acquistare offerte con prezzi per il settore dell'istruzione
+
+1. Devi essere un [Authorized Education Partner](http://go.microsoft.com/fwlink/p/?LinkId=808781).
+Il cliente deve soddisfare la definizione per il tuo mercato di [Qualified Educational User](http://go.microsoft.com/fwlink/p/?LinkId=808795).
+2. Segui la procedura standard per [creare una nuova sottoscrizione](create-a-new-subscription.md). Quando selezioni l'offerta dal catalogo, tuttavia, sceglila nella scheda Istruzione.
+
+
+
+
+
 
 <!-- ## Purchase through Partner Center API 
 

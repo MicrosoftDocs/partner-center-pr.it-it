@@ -1,16 +1,16 @@
 ---
-title: Creare una nuova sottoscrizione | Centro per i partner
+title: Creare, sospendere o annullare le sottoscrizioni dei clienti | Centro per i partner
 description: Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
-Keywords: subscription, create new, add subscription,
-ms.openlocfilehash: 22c19d5f8530f4c79bda522e8087379b488f6474
-ms.sourcegitcommit: 86b5aa793bc453219246c667f82dbebc3a37c3eb
+Keywords: subscription, create new, add subscription, suspend, cancel,
+ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
+ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/03/2018
+ms.lasthandoff: 03/01/2018
 ---
-# <a name="create-a-new-subscription"></a>Creare una nuova sottoscrizione
+# <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
 **Si applica a**
 
@@ -42,18 +42,23 @@ Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elen
 
 7.  Nella pagina di modifica puoi anche modificare la quantità di licenze o sospendere la sottoscrizione.
 
+## <a name="suspend-or-cancel-a-subscription"></a>Sospendere o annullare una sottoscrizione
 
-**Abilitare i clienti per la gestione delle sottoscrizioni di Azure**
+I partner possono sospendere o annullare una sottoscrizione se richiesto dal cliente o in caso di insolvenza o frode.
 
-Dopo aver creato una sottoscrizione di Microsoft Azure per un cliente, puoi consentirgli di gestire la sottoscrizione. Per farlo, devi accedere al Portale di gestione di Microsoft Azure del cliente. 
+Quando cambi lo stato di una sottoscrizione in **Sospesa**, gli utenti non possono accedere alla sottoscrizione o ai servizi. Gli amministratori possono comunque eseguire l'accesso e accedere ai dati.
 
-1.  Per aprire il Portale Azure del cliente, espandi la presentazione del cliente nell'elenco dei clienti o seleziona il nome del cliente e quindi seleziona **Portale di gestione di Microsoft Azure**.
-    
- >**Nota** <br> Se ti viene chiesto di effettuare l'accesso al portale di Azure, potresti non avere privilegi amministrativi delegati. Seleziona **Richiedi una relazione** per invitare il cliente a identificarti come suo Partner of Record. Quando il cliente accetta l'invio, ti sono automaticamente concessi i privilegi amministrativi delegati. 
+**Sospendere una sottoscrizione**
 
-2.  Nel Portale Azure, apri l'elenco delle sottoscrizioni del cliente e seleziona la sottoscrizione di Azure del cliente.
+1.  Nel menu **Dashboard** seleziona **Clienti** e quindi scegli un cliente nell'elenco.
+2.  Scegli la sottoscrizione che vuoi gestire.
+3.  Nella sezione **Stato** scegli **Sospeso**. Fai quindi clic su **Invia** per inviare le modifiche.
+4.  Verranno eliminati tutti i dati, a meno che la sottoscrizione venga riattivata entro 90 giorni, o 90 giorni più il numero di giorni tra il momento in cui che l'account è stato aperto e il primo periodo di fatturazione (massimo 120 giorni).
 
-3.  Assegna un ruolo a uno qualsiasi degli utenti del cliente in modo che possano creare e gestire le risorse nella sottoscrizione.
+Quando sospendi una sottoscrizione, la data visualizzata sotto il pulsante **Sospesa** indica quando la sottoscrizione scadrà automaticamente se non viene riattivata. 
+
+
+
 
  
 

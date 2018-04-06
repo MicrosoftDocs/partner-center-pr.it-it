@@ -1,13 +1,13 @@
 ---
-title: "Domande frequenti sulle nuove funzionalità di fatturazione | Centro per i partner"
+title: Domande frequenti sulle nuove funzionalità di fatturazione | Centro per i partner
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
-ms.assetid: 
+ms.assetid: ''
 author: MaggiePucciEvans
-ms.openlocfilehash: cd6e267dd691529998cf43e7a21a3abac066e2d7
-ms.sourcegitcommit: 6eec754e269e8744d4e09df64a690d0c74525dbb
+ms.openlocfilehash: 31c6625226fa24d56861739865c5988c9da260d0
+ms.sourcegitcommit: 770e46901be73dd18f0a95f1f813cbb102b4fd2e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/14/2018
+ms.lasthandoff: 03/15/2018
 ---
 # <a name="faq-about-new-billing-features"></a>Domande frequenti sulle nuove funzionalità di fatturazione
 
@@ -87,11 +87,11 @@ Sezioni:
 
 -   **R:** Per utilizzare la fatturazione annuale ci sono alcune modifiche necessarie per le API. Puoi trovare informazioni più dettagliate negli articoli seguenti:
 
-    - https://partnercenter.microsoft.com/it-it/partner/developer
+    - https://partnercenter.microsoft.com/en-us/partner/developer
 
-    - https://msdn.microsoft.com/it-it/library/partnercenter/microsoft.store.partnercenter.models.orders.order.billingcycle.aspx 
+    - https://msdn.microsoft.com/en-us/library/partnercenter/microsoft.store.partnercenter.models.orders.order.billingcycle.aspx 
 
-    - Codice di esempio: https://msdn.microsoft.com/it-it/library/partnercenter/mt634667.aspx 
+    - Codice di esempio: https://msdn.microsoft.com/en-us/library/partnercenter/mt634667.aspx 
 
 <a href="" id="placingyourorder"></a>**Effettuare l'ordine e scenari di fatturazione**
 
@@ -105,7 +105,7 @@ Sezioni:
 
 **D:** Come avverrà la fatturazione se si sceglie la fatturazione annuale?    
 
--   **R:** La fattura verrà emessa alla data di fatturazione successiva. Ad esempio, se la data di fatturazione è il 1 febbraio, riceverai sempre la fattura il 1 febbraio. Pertanto, se acquisti una sottoscrizione con fatturazione annuale il 29 ottobre 2017 o il 15 gennaio 2018, riceverai la fattura per la sottoscrizione annuale il 1 febbraio 2018 in entrambi i casi. 
+-   **R:** La fattura verrà emessa alla data di fatturazione successiva. Ad esempio, se la data di fatturazione è il 1° del mese e tu acquisti una sottoscrizione con fatturazione annuale il 29 ottobre 2017, la fattura verrà emessa il 1° novembre 2017. Supponendo che non apporti alcuna modifica alla licenza, la fattura verrà emessa il 1° novembre 2018. Se apporti una modifica alla licenza, riceverai un credito e una nuova fattura alla data di fatturazione successiva. 
 
 **D:** Posso suddividere una sottoscrizione in modo che una parte viene fatturata mensilmente e l'altra annualmente?  
 
@@ -270,136 +270,129 @@ Sezioni:
 
 ## <a href="" id="freetrialsfaq"></a>Domande frequenti sulle versioni di valutazione gratuite
 
-**D:** Cosa sono le versioni di valutazione gratuite?
+**D1:** Cosa sono le versioni di valutazione gratuite?
 
 -   **R:** Puoi offrire ai tuoi clienti una versione di valutazione gratuita di 30 giorni di alcuni prodotti che consente ai clienti di valutare il prodotto prima di acquistarlo. Le versioni di valutazione gratuite sono disponibili per i seguenti prodotti: 
 
-    - Office 365 Business Premium  
-    - Office 365 E3  
-    - Office 365 E5 con PSTN  
-    - Office 365 E5 senza PSTN  
-    - Enterprise Mobility & Security E5  
-    - Dynamics 365 Customer Engagement Piano 1  
-    - Dynamics 365 for Financials  
+    - Office 365 Business Premium (a partire dal 17 ottobre 2017)
+    - Office 365 E3 (a partire dal 17 ottobre 2017)
+    - Office 365 E5 con PSTN (a partire dal 17 ottobre 2017)
+    - Office 365 E5 senza PSTN (a partire dal 17 ottobre 2017)
+    - Enterprise Mobility & Security E5 (a partire dal 17 ottobre 2017)
+    - Dynamics 365 Customer Engagement Piano 1 (a partire dal 17 ottobre 2017)
+    - Dynamics 365 for Financials (a partire dal 17 ottobre 2017)
+    - Microsoft 365 Business (a partire dal 1° marzo 2018)
     
-**D:** Il periodo gratuito viene eliminato con il recapito delle versioni di prova gratuite?
-
--   **R:** No, le sottoscrizioni con fatturazione mensile continueranno ad avere un periodo gratuito. Tuttavia, non ci sarà alcun periodo gratuito per la fatturazione annuale.
-
-**D:** L'allineamento di fatturazione è stato rimandato al primo trimestre di CY18. Come influisce sul periodo gratuito e sulla fatturazione in generale?
-
--   **R:** Le nuove sottoscrizioni con fatturazione mensile continueranno a ricevere un periodo gratuito e ad allinearsi alla data di fatturazione del partner. Le sottoscrizioni con fatturazione annuale non offrono un periodo gratuito e si allineano alla data di acquisto. I partner continueranno a ricevere i file di fatturazione e riconciliazione alla data di fatturazione mensile, con l'attività di fatturazione per le sottoscrizioni mensili e annuali.
-
-**D:** Quando viene rimosso il periodo gratuito per le sottoscrizioni con la frequenza di fatturazione mensile?
-
--   **R:** Il primo trimestre CY18.
-
-**D:** La fatturazione annuale e le versioni di prova gratuite sono diverse nel cloud di sovranità rispetto al cloud pubblico?
+**D2:** La fatturazione annuale e le versioni di valutazione gratuite sono diverse nel cloud di sovranità rispetto al cloud pubblico?
 
 -   **R:** No. Sono uguali. L'unica differenza saranno le SKU della versione di valutazione disponibili al momento del lancio.
 
-**D:** Quando sarà disponibile per le SKU elencate in precedenza?
+**D3:** Chi può partecipare?
 
--   **R:** Il 17 ottobre 2017.
+-   **R:** Tutti i partner. Tuttavia, questa opzione non è attualmente disponibile in Cina. 
 
-**D:** Chi può partecipare?
-
--   **R:** Tutti i partner possono partecipare, ma non è attualmente disponibile in Cina. Le versioni di valutazione gratuite saranno disponibili per i partner e i clienti cinesi prima della fine di 2017. 
-
-**D:** Quali azioni devo intraprendere per essere idoneo e utilizzare queste versioni di valutazione gratuite?
+**D4:** Quali azioni devo intraprendere per essere idoneo e utilizzare queste versioni di valutazione gratuite?
 
 -   **R:** Valuta in quale modo la versione di valutazione gratuita può essere incorporata nei movimenti di vendita e l'impatto nei tuoi processi interni. Potresti anche dovere modificare le API che usi per supportare la conversione di una versione di valutazione gratuita in una sottoscrizione a pagamento. Le specifiche tecniche dettagliate di queste modifiche API vengono pubblicate nella visualizzazione Annunci del Centro per i partner.
 
-**D:** Verrà visualizzata la versione di valutazione gratuita nel file di fattura e riconciliazione?
+**D5:** Verrà visualizzata la versione di valutazione gratuita nel file di fattura e riconciliazione?
 
 -   **R:** No, le versioni di valutazione gratuite non sono visualizzate nel file di riconciliazione basato su licenza o fattura. Verrà visualizzata nel file di riconciliazione basato su licenza e fattura dopo aver convertito una versione di valutazione gratuita in una sottoscrizione a pagamento. La sottoscrizione convertita verrà visualizzata nel file di riconciliazione basato su licenza e fattura come qualsiasi altra nuova sottoscrizione.
 
-**D:** Le versioni di valutazione gratuite hanno impatto sugli incentivi?
+**D6:** Le versioni di valutazione gratuite hanno impatto sugli incentivi?
 
 -   **R:** No. La versione di valutazione gratuita non ha alcun impatto sugli incentivi.
 
-**D:** Le versioni di valutazione gratuite saranno disponibili per prodotti Office e CSP aggiuntivi in futuro?
+**D7:** Le versioni di valutazione gratuite saranno disponibili per prodotti Office aggiuntivi in futuro?
 
--   **R:** Ancora non si sa. Offriamo le versioni di valutazione gratuite per questi prodotti perché sono le offerte aziendali più complete e popolari. È possibile che in futuro vengano aggiunte altre offerte di versioni di valutazione gratuite.
+-   **R:** Offriamo le versioni di valutazione gratuite per questi prodotti perché sono le offerte aziendali più complete e popolari. È possibile che in futuro vengano aggiunte altre offerte di versioni di valutazione gratuite.
 
-**D:** Può un cliente avere più di una versione di valutazione gratuita?
+**D8:** Può un cliente avere più di una versione di valutazione gratuita?
 
--   **R:** Ogni cliente ottiene ha diritto a una versione di valutazione gratuita per ogni offerta disponibile.
+-   **R:** Ogni cliente ha diritto a una versione di valutazione gratuita per ogni offerta disponibile.
 
-**D:** Sono previsti limiti per la versione di valutazione gratuita?
+**D9:** Sono previsti limiti per la versione di valutazione gratuita?
 
 -   **R:** Sì. La versione di valutazione è per un massimo di 25 licenze. Il numero di licenze non può essere modificato durante il periodo di valutazione. Quando la versione di valutazione viene convertita in una sottoscrizione a pagamento, puoi aggiungere altre licenze alla sottoscrizione.
 
-**D:** La versione di valutazione gratuita viene automaticamente convertita in una sottoscrizione a pagamento?
+**D10:** La versione di valutazione gratuita viene automaticamente convertita in una sottoscrizione a pagamento?
 
 -   **R:** No. Dovrai effettuare la conversione manuale della sottoscrizione, direttamente nel Centro per i partner o mediante l'API.
 
-**D:** È possibile utilizzare le versioni di valutazione gratuite per le sottoscrizioni fatturate mensilmente e annualmente?
+**D11:** È possibile utilizzare le versioni di valutazione gratuite per le sottoscrizioni fatturate mensilmente e annualmente?
 
 -   **R:** Sì. Puoi scegliere la frequenza di fatturazione al momento della conversione della versione di valutazione in sottoscrizione a pagamento.
 
-**D:** La data di inizio della sottoscrizione si basa sulla data di inizio della versione di valutazione gratuita o sulla data di conversione in una sottoscrizione a pagamento? 
+**D12:** La data di inizio della sottoscrizione si basa sulla data di inizio della versione di valutazione gratuita o sulla data di conversione in una sottoscrizione a pagamento? 
 
 -   **R:** La data di inizio si basa sulla data della conversione. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione annuale, la data di rinnovo della sottoscrizione cade 12 mesi dopo la data di conversione. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione mensile, la data di rinnovo della sottoscrizione cade 12 mesi dopo la data di fatturazione successiva alla data di conversione.
 
-**D:** Possiamo aggiungere o rimuovere postazioni nella versione di valutazione gratuita?
+**D13:** Possiamo aggiungere o rimuovere postazioni nella versione di valutazione gratuita?
 
 -   **R:** No. Le versioni di valutazione gratuite avranno una quantità predefinita di 25 licenze e non possono essere aggiornate.
 
-**D:** Sono disponibili versioni di valutazione per le offerte di componenti aggiuntivi come ATP e PSTN?
+**D14:** Sono disponibili versioni di valutazione per le offerte di componenti aggiuntivi come ATP e PSTN?
 
--   **R:** Non esistono versioni di valutazione gratuite per le offerte di componenti aggiuntivi.
+-   **R:** Al momento non esistono versioni di valutazione gratuite per le offerte di componenti aggiuntivi.
 
-**D:** Posso fornire una versione di valutazione gratuita per un'offerta che il cliente già possiede?
+**D15:** Posso fornire una versione di valutazione gratuita per un'offerta che il cliente già possiede?
 
 -   **R:** No. Se l'offerta è già di proprietà del cliente non può essere utilizzata per una versione di valutazione gratuita.
 
-**D:** Potrò vedere tutte le offerte di versione di valutazione in sospeso?
+**D16:** Potrò vedere tutte le offerte di versione di valutazione in sospeso?
 
 -   **R:** Sì. Nella pagina dei clienti sono elencate tutte le sottoscrizioni. Sono incluse le sottoscrizioni delle versioni di valutazione gratuite e le sottoscrizioni a pagamento.
 
-**D:** L'utente riceverà la notifica di scadenza delle versioni di valutazione gratuite?
+**D17:** L'utente riceverà la notifica di scadenza delle versioni di valutazione gratuite?
 
 -   **R:** No. È possibile tenere traccia delle date di scadenza imminenti utilizzando la visualizzazione dei clienti nel Centro per i partner o eseguendo una query sull'API. È consigliabile monitorare le date di frequente in modo da poter intraprendere le azioni appropriate in relazione alla decisione dei clienti.
 
-**D:** Se un cliente ha ricevuto una versione di valutazione gratuita per un'offerta, può utilizzare un'altra versione di valutazione per un'offerta diversa? 
+**D18:** Se un cliente ha ricevuto una versione di valutazione gratuita per un'offerta, può utilizzare un'altra versione di valutazione per un'offerta diversa? 
 
 -   **R:** Sì. I clienti possono iscriversi a una versione di valutazione per ogni offerta. Ad esempio, possono ottenere una versione di valutazione gratuita per Office 365 Business Premium e una versione di valutazione gratuita per Office 365 E3.
 
-**D:** Cosa accade quando termina il periodo di valutazione? Io o il mio cliente riceveremo una notifica? Quali notifiche vengono visualizzate quando tento di accedere a una versione di valutazione scaduta?
+**D19:** Cosa accade quando termina il periodo di valutazione? Io o il mio cliente riceveremo una notifica? Quali notifiche vengono visualizzate quando tento di accedere a una versione di valutazione scaduta?
 
 -   **R:** Se un cliente tenta di accedere a una versione di valutazione scaduta verrà visualizzato un messaggio indicante che la versione di valutazione è scaduta. Non ci saranno notifiche per segnalare che una versione di valutazione sta per scadere, ma i partner possono tenere traccia della validità nella visualizzazione dei clienti o tramite le query all'API.
 
-**D:** È possibile estendere una versione di valutazione?
+**D20:** È possibile estendere una versione di valutazione?
 
 -   **R:** No. Dopo 30 giorni la versione di valutazione deve essere convertita o scadrà.
 
-**D:** Quando una versione di valutazione scade, le informazioni contenute nella versione di valutazione restano accessibili?
+**D21:** Quando una versione di valutazione scade, le informazioni contenute nella versione di valutazione restano accessibili?
 
--   **R:** Sì. I dati vengono archiviati conformemente agli standard di conservazione dei dati. Dopo aver acquistato una nuova sottoscrizione con gli stessi piani di servizio, i dati sono accessibili dalla sottoscrizione appena attivata.
+-   **R:** Sì. I dati vengono archiviati conformemente agli standard di conservazione dei dati. Dopo aver acquistato una nuova sottoscrizione con gli stessi piani di servizio, i dati del cliente sono accessibili dalla sottoscrizione appena attivata.
 
-**D:** Sono disponibili versioni di valutazione gratuite per offerte per enti pubblici e istituti di istruzione?
+**D22:** Sono disponibili versioni di valutazione gratuite per offerte per enti pubblici e istituti di istruzione?
 
 -   **R:** Non sono disponibili versioni di valutazione gratuite per offerte per enti pubblici e istituti di istruzione in questo momento.
 
-**D:** Le versioni di valutazione gratuite del cliente per il programma Cloud Solution Provider (CSP) possono essere convertite in altri tenant di programma, ad esempio EA, Open o MOSP? 
+**D23:** Le versioni di valutazione gratuite del cliente per il programma Cloud Solution Provider (CSP) possono essere convertite in altri tenant di programma, ad esempio EA, Open o MOSP? 
 
 -   **R:** No. Le sottoscrizioni non possono essere trasferite da CSP a un altro programma.
 
-**D:** Come posso richiedere supporto per le versioni di valutazione gratuite? 
+**D24:** Come posso richiedere supporto per le versioni di valutazione gratuite? 
 
 -   **R:** Invia una richiesta di servizio tramite il Centro per i partner.
 
 ## <a href="" id="billingalignmentfaq"></a>Allineamento della fatturazione - fine del periodo gratuito
 
-Il 20 febbraio il programma CSP implementerà "l'allineamento della data di fatturazione" per i nuovi abbonamenti con la frequenza di fatturazione mensile. Questo "allineamento della data di fatturazione" fornirà ai partner maggiore flessibilità e la prevedibilità per le vendite e la fatturazione e per il provisioning e la gestione degli abbonamenti dei clienti. Gli abbonamenti acquistati prima del 20 febbraio ottengono un periodo gratuito dalla data di acquisto alla data di fatturazione del partner. Gli abbonamenti acquistati dopo il 20 febbraio non riceveranno più il periodo gratuito. Il periodo di 12 mesi a pagamento inizia (viene allineato) alla data di acquisto rispetto alla fatturazione del partner. I partner non vedranno più la "riga di fatturazione a $0" che rappresenta il periodo gratuito nel file di riconciliazione. Non sono state apportate modifiche alle API, alla fatturazione o agli incentivi.  I partner devono informare i team di vendita e contabilità di questa nuova logica di fatturazione e assicurarsi che le operazioni vengano modificate di conseguenza.  
+A partire dal 21 febbraio 2018, il programma Cloud Solution Provider (CSP) inizierà l'implementazione dell'"allineamento della data di fatturazione" per le nuove sottoscrizioni con la frequenza di fatturazione mensile. Questo "allineamento della data di fatturazione" fornirà ai partner maggiore flessibilità e la prevedibilità per le vendite e la fatturazione e per il provisioning e la gestione degli abbonamenti dei clienti. 
 
-Prima di implementare l'allineamento della data di fatturazione, abbiamo fatturato e addebitato alla data dell'anniversario della fatturazione del partner, ossia la data in cui il partner si è registrato al programma CSP, e non alla data dell'anniversario della sottoscrizione del cliente, ossia la data in cui il cliente ha acquistato la sottoscrizione. Dopo il 20 febbraio, i partner riceveranno l'addebito alla data dell'anniversario della sottoscrizione, eliminando questo periodo gratuito.  I partner continueranno a ricevere le fatture alla data dell'anniversario di fatturazione, ma la data di validità della fattura sarà data dell'anniversario della sottoscrizione del cliente. 
+**AGGIORNAMENTO DEL 23 FEBBRAIO:** in precedenza avevamo annunciato la data di implementazione del 20 febbraio, ma la nostra implementazione effettiva è stata leggermente ritardata e scaglionata per categoria di prodotto.  Per la data di implementazione per categoria di prodotto, vedere la seguente tabella. 
 
-Le sottoscrizioni che sono nel periodo gratuito il 20 febbraio, non riceveranno l'addebito tra la data di acquisto e la data di fatturazione del partner. Inoltre, non riceveranno l'addebito per il primo mese del termine di pagamento di 12 mesi. Se usi un file di riconciliazione per la verifica, tieni presente che questo addebito del primo mese non sarà più visibile nel file di riconciliazione.  
+|**Categoria di prodotti**   |**Giorno di implementazione**   |
+|-----------------|:-------------|
+|Office  |21 febbraio   |
+|Windows, Minecraft   |22 febbraio   |
+|Office 365 (Cina)   |23 febbraio   |
+|Dynamics/Intune   |23 febbraio   |
 
-Non ci sono modifiche alle API, alla fatturazione o agli incentivi a seguito di questa modifica della logica di fatturazione. Informa i team di vendita e contabilità di questa nuova logica di fatturazione e assicurati che adeguino le operazioni di conseguenza. Consulta le domande frequenti riportate di seguito con gli scenari di fatturazione dettagliati.  
+Le sottoscrizioni acquistate prima della data di implementazione (vedi la tabella sopra) ottengono un periodo gratuito dalla data di acquisto alla data di fatturazione del partner. Gli abbonamenti acquistati dopo la data di implementazione non riceveranno più il periodo gratuito. Il periodo di 12 mesi a pagamento inizia (viene allineato) alla data di acquisto rispetto alla fatturazione del partner. I partner non vedranno più la "riga di fatturazione a $0" che rappresenta il periodo gratuito nel file di riconciliazione. Non sono state apportate modifiche alle API, alla fatturazione o agli incentivi.  I partner devono informare i team di vendita e contabilità di questa nuova logica di fatturazione e assicurarsi che le operazioni vengano modificate di conseguenza.  
 
+Prima di implementare l'allineamento della data di fatturazione, abbiamo fatturato e addebitato alla data dell'anniversario della fatturazione del partner, ossia la data in cui il partner si è registrato al programma CSP, e non alla data dell'anniversario della sottoscrizione del cliente, ossia la data in cui il cliente ha acquistato la sottoscrizione. Dopo la data di implementazione, i partner riceveranno l'addebito alla data dell'anniversario della sottoscrizione, eliminando questo periodo gratuito.  I partner continueranno a ricevere le fatture alla data dell'anniversario di fatturazione, ma la data di validità della fattura sarà data dell'anniversario della sottoscrizione del cliente. 
+
+Le sottoscrizioni che sono nel periodo gratuito alla data di implementazione, non riceveranno l'addebito tra la data di acquisto e la data di fatturazione del partner. Inoltre, non riceveranno l'addebito per il primo mese del termine di pagamento di 12 mesi. Se usi un file di riconciliazione per la verifica, tieni presente che questo addebito del primo mese non sarà più visibile nel file di riconciliazione.  
 
 **D1:** Cosa cambia per la data di fatturazione?
 
@@ -407,19 +400,26 @@ Non ci sono modifiche alle API, alla fatturazione o agli incentivi a seguito di 
 
 **D2:** Quando verrà rimosso il periodo gratuito?
 
-- **R:** A partire dal 20 febbraio 2018, le nuove sottoscrizioni non avranno un periodo gratuito.
+- **R:** A partire dalle date di implementazione elencate nella tabella seguente, le nuove sottoscrizioni non riceveranno un periodo gratuito.
 
-**D3:** Quale sarà l'impatto sulle sottoscrizioni nel periodo gratuito il 20 febbraio 2018?
+|**Categoria di prodotti**   |**Giorno di implementazione**   |
+|-----------------|:-------------|
+|Office  |21 febbraio   |
+|Windows, Minecraft   |22 febbraio   |
+|Office 365 (Cina)   |23 febbraio   |
+|Dynamics/Intune   |23 febbraio   |
 
-- **R:** Le sottoscrizioni che si trovano nel periodo gratuito il 20 febbraio 2018 riceveranno comunque un periodo gratuito dalla data di acquisto alla data di fatturazione del partner. Queste licenze riceveranno anche un "periodo gratuito esteso" e non verrà addebitato il primo mese del termine di pagamento di 12 mesi. Il "periodo gratuito esteso" non sarà applicabili alle licenze aggiunte nel primo mese. Se aumenti la quantità di licenze nel primo mese, ti verranno addebitate le licenze aggiunte alla successiva fattura/riconciliazione. Se il file di riconciliazione viene utilizzato per la verifica, tieni presente che l'addebito del primo mese potrebbe non essere presente nel file di riconciliazione. Vedi gli scenari seguenti per una spiegazione più dettagliata.
+**D3:** Quale sarà l'impatto sulle sottoscrizioni nel periodo gratuito alla data di implementazione?
+
+- **R:** Le sottoscrizioni che si trovano nel periodo gratuito alla data di implementazione riceveranno comunque un periodo gratuito dalla data di acquisto alla data di fatturazione del partner. Queste licenze riceveranno anche un "periodo gratuito esteso" e non verrà addebitato il primo mese del termine di pagamento di 12 mesi. Il "periodo gratuito esteso" non sarà applicabili alle licenze aggiunte nel primo mese. Se aumenti la quantità di licenze nel primo mese, ti verranno addebitate le licenze aggiunte alla successiva fattura/riconciliazione. Se il file di riconciliazione viene utilizzato per la verifica, tieni presente che l'addebito del primo mese potrebbe non essere presente nel file di riconciliazione. Vedi gli scenari seguenti per una spiegazione più dettagliata.
 
 **D4:** Quando inizierà il periodo a pagamento di 12 mesi per una nuova sottoscrizione?
 
-- **R:** Attualmente, il periodo a pagamento decorre dalla data di fatturazione del partner dopo la data di acquisto. Dal 20 febbraio 2018 il periodo a pagamento per le nuove sottoscrizioni inizierà alla data di acquisto.
+- **R:** Attualmente, il periodo a pagamento decorre dalla data di fatturazione del partner dopo la data di acquisto. Dalla data di implementazione il periodo a pagamento per le nuove sottoscrizioni inizierà alla data di acquisto.
 
 **D5:** Quando vengono rinnovate automaticamente le sottoscrizioni?
 
-- **R:** Le sottoscrizioni vengono rinnovate automaticamente 12 mesi dopo la prima data di fatturazione. Attualmente, le sottoscrizioni si rinnovano automaticamente 12 mesi dopo la prima data di fatturazione del partner dopo la data di acquisto. Dal 20 febbraio 2018 le nuove sottoscrizioni vengono rinnovate automaticamente 12 mesi dopo la data di acquisto.
+- **R:** Le sottoscrizioni vengono rinnovate automaticamente 12 mesi dopo la prima data di fatturazione. Attualmente, le sottoscrizioni si rinnovano automaticamente 12 mesi dopo la prima data di fatturazione del partner dopo la data di acquisto. Dalla data di implementazione le nuove sottoscrizioni vengono rinnovate automaticamente 12 mesi dopo la data di acquisto.
 
 **D6:** Cosa succede se acquisto la sottoscrizione nei giorni 29, 30 o 31 di un mese?
 
@@ -452,7 +452,7 @@ Non ci sono modifiche alle API, alla fatturazione o agli incentivi a seguito di 
 ### <a name="common-scenarios"></a>Scenari comuni
 
 
-|**Scenari**   |**Scenario 1: il periodo gratuito della sottoscrizione termina prima del 20 febbraio 2018**   |**Scenario 2: la sottoscrizione è nel periodo gratuito il 20 febbraio 2018**  | **Scenario 3: la sottoscrizione è stata acquistata il o dopo il 20 febbraio 2018**   |
+|**Scenari**   |**Scenario 1: il periodo di sottoscrizione gratuito termina prima della data di implementazione**   |**Scenario 2: la sottoscrizione si trova nel periodo gratuito alla data di implementazione**  | **Scenario 3: la sottoscrizione è stata acquistata in corrispondenza o dopo la data di implementazione**   |
 |----------|:------------|:--------------------|:------------|
 |Data di acquisto |1 febbraio 2018    | 1 febbraio 2018    | 1 giugno 2018     |
 |Data del provisioning | 1 febbraio 2018   |1 febbraio 2018   |1 giugno 2018   |
@@ -525,18 +525,16 @@ La data di fatturazione del partner è il 15 del mese. Il 1 giugno 2018 il partn
 
 Il 15 luglio il file di riconciliazione conterrà le seguenti righe di fatturazione:
 - Credito per annullamento -$30 per periodo di servizio 20 giugno - 30 giugno. Il credito non è suddiviso proporzionalmente perché la sottoscrizione è stata sospesa nei primi 30 giorni.
-- Addebito di $30 per periodo di servizio 25 giugno - 30 giugno. L'addebito non è suddiviso proporzionalmente perché la sottoscrizione è stata sospesa nei primi 30 giorni.
-- Credito -$30 per periodo di servizio 1 giugno - 30 giugno. Il partner ha riattivato la sottoscrizione con una quantità di licenze diversa che comporta un credito e una nuova fattura ripartita proporzionalmente.
-- Nuova fattura ripartita proporzionalmente $24 per periodo di servizio 1 giugno - 24 giugno. Il partner aveva 1 licenza durante questo periodo di servizio. Anche se la sottoscrizione è stata sospesa dal 20 giugno al 24 giugno, al cliente viene ancora addebitato il costo di questi giorni. Il prezzo unitario viene calcolato come segue: (mensile prezzo/numero di giorni del periodo totale di servizio)*numero di giorni del periodo di servizio ripartito*numero di licenze = (30/30)*24*1 = $24.
-- Nuova fattura ripartita proporzionalmente $12 per periodo di servizio 25 giugno - 30 giugno. Il partner aveva 2 licenze durante questo periodo di servizio. Il prezzo unitario viene calcolato come (30/30)*6*2 = $12.
+- Addebito di $30 per periodo di servizio 25 giugno - 30 giugno. L'addebito di riattivazione non è suddiviso proporzionalmente perché la sottoscrizione è stata riattivata nei primi 30 giorni. L'addebito è anche in base alla quantità di licenze originali, ovvero 1.
+- Credito -$6 per periodo di servizio 25 giugno - 30 giugno. L'addebito di riattivazione è stato effettuato solo per 1 licenza durante il periodo di servizio 25 giugno - 30 giugno, quando si disponeva di 2 licenze. Il credito di $6 annulla l'addebito non corretto per il servizio di servizio 25 giugno - 30 giugno.
+- Nuova fattura di $12 ripartita proporzionalmente per periodo di servizio 25 giugno - 30 giugno. Il partner aveva 2 licenze durante questo periodo di servizio. Il prezzo unitario viene calcolato come (30/30)*6*2 = $12.
 - Addebito di $60 per periodo di servizio 1 luglio - 31 luglio.
 
 |**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |20/6/2018   |30/6/2018   |-$30   |1   |-$30   |Commissione di annullamento |
-|25/6/2018   |30/6/2018   |$30   |1   |$30   |Commessione di attivazione |
-|1/6/2018   |30/6/2018   |-$30   |1   |-$30   |Istanza del ciclo rateizzata |
-|1/6/2018   |24/6/2018   |$24   |1   |$24   |Istanza del ciclo rateizzata |
+|25/6/2018   |30/6/2018   |$30   |1   |$30   |Commissione di attivazione |
+|25/6/2018   |30/6/2018   |-$6   |1   |-$6   |Istanza del ciclo rateizzata |
 |25/6/2018   |30/6/2018   |$6   |2   |$12   |Istanza del ciclo rateizzata |
 |1/7/2018   |31/7/2018   |$30   |2   |$60   |Tariffa periodica |
 

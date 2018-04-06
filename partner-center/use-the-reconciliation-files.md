@@ -3,11 +3,11 @@ title: Usare i file di riconciliazione | Centro per i partner
 description: Per una visualizzazione delle voci relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal dashboard del Centro per i partner.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: bcb5677d2b1309df0e33e093a3908d55e5792580
-ms.sourcegitcommit: ac370f5d2d5b74e1e4752eaeec6fde73e5328225
+ms.openlocfilehash: 51716e8abedf83237050cb51bc76e54a954cd28b
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2017
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -503,7 +503,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 </tr>
 <tr>
 <td>
-<p>Istanza di annullamento ripartita proporzionalmente</p>
+<p>Commissione di annullamento</p>
 </td>
 <td>
 <p>Addebiti ripartiti proporzionalmente rimborsati al cliente in caso di modifica delle postazioni associate</p>

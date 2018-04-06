@@ -1,14 +1,14 @@
 ---
 title: Scenari di fatturazione comuni | Centro per i partner
-description: "Questo argomento descrive ciò che compare sulla fattura dopo l'aggiunta di nuove sottoscrizioni, la modifica del numero di licenze in una sottoscrizione o l'annullamento di una sottoscrizione. Le sottoscrizioni in base alle licenze vengono gestite diversamente rispetto a quelle in base all'uso."
+description: Questo argomento descrive ciò che compare sulla fattura dopo l'aggiunta di nuove sottoscrizioni, la modifica del numero di licenze in una sottoscrizione o l'annullamento di una sottoscrizione. Le sottoscrizioni in base alle licenze vengono gestite diversamente rispetto a quelle in base all'uso.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, free period, term, cancellation, renewal, price formula,reconciliation file, recon file
-ms.openlocfilehash: 0bfdf6e5f5a9617413981f0a0758f25e0a0eca54
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
+Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+ms.openlocfilehash: 92c253bb7d73a48eb9b6acc36f54d7f33482c1ad
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="common-billing-scenarios"></a>Scenari di fatturazione comuni
 
@@ -42,8 +42,6 @@ Vengono fatturati solo i servizi usati nel periodo di fatturazione precedente. N
 **Fatturazione:** le sottoscrizioni basate su licenza vengono fatturate in anticipo nel giorno dell'anniversario della sottoscrizione.
 
 **Giorno dell'anniversario:** le sottoscrizioni con fatturazione mensile sono allineate alla data di fatturazione del partner e le sottoscrizioni con fatturazione annuale sono allineate alla data di acquisto.
-
-**Periodo gratuito:** alle sottoscrizioni con fatturazione mensile viene assegnato un periodo gratuito a partire dalla data di acquisto fino alla successiva data di fatturazione del partner.
 
 **Termine:** tutte le sottoscrizioni basate su licenza hanno un termine di pagamento di 12 mesi. Il termine di pagamento inizia dalla data di acquisto per le sottoscrizioni con fatturazione annuale e alla data di fatturazione successiva alla data di acquisto per le sottoscrizioni con fatturazione mensile.
 

@@ -2,11 +2,11 @@
 title: Acquistare o rinnovare Action Pack | Centro per i partner
 description: Ulteriori informazioni su come acquistare o rinnovare la sottoscrizione a Microsoft Action Pack.
 author: MaggiePucciEvans
-ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 9213901def90384076102655a2df1c0605455d7a
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 03/09/2018
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>Acquistare o rinnovare una sottoscrizione a Microsoft Action Pack
 
@@ -96,6 +96,14 @@ Per annullare l'abbonamento a Microsoft Action Pack, contatta il supporto del Ce
 
 Per controllare lo stato della tua richiesta di assistenza, seleziona **Richieste di assistenza > Richieste Centro per i partner** e quindi seleziona **Aperte**. Scegli dall'elenco la richiesta di assistenza appropriata.  
 
+## <a name="how-to-get-your-maps-invoice"></a>Come ottenere la fattura della sottoscrizione Microsoft Action Pack
+
+Per scaricare una copia della fattura della sottoscrizione Microsoft Action Pack, è necessario seguire i passaggi indicati di seguito.
+
+1. Accedi a [partnercenter.microsoft.com](https://partnercenter.microsoft.com) 
+2. Fai cli su Relazione. 
+3. Scegli Offerte, quindi fai clic su Acquistato. 
+4. Fai clic su Scarica fattura
  
 ## <a name="next-steps"></a>Passaggi successivi
 

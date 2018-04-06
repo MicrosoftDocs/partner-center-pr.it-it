@@ -3,11 +3,11 @@ title: Nozioni di base sulla fatturazione | Centro per i partner
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
-ms.openlocfilehash: 59cdd6a3b0024356479ef0da87a87ac79148d316
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="billing-basics"></a>Nozioni di base sulla fatturazione
 
@@ -59,7 +59,6 @@ Ora oltre all'opzione mensile è disponibile l'opzione di fatturazione annuale. 
 <tr class="odd">
 <td>Rettifiche/crediti/annullamenti</td>
 <td><ul>
-<li>Non sono autorizzati crediti per gli account di test e il testing di integrazione. Per evitare addebiti per la sottoscrizione o per la risoluzione anticipata durante l'esecuzione del testing, puoi annullare la sottoscrizione durante il "periodo gratuito". Tutti gli addebiti per l'uso a consumo di servizi di Azure sono tua responsabilità.</li>
 <li>Vedrai le rettifiche e i crediti posticipati nella fattura successiva, dopo l'applicazione del credito o della rettifica.</li>
 </ul></td>
 </tr>
@@ -89,15 +88,6 @@ Ora oltre all'opzione mensile è disponibile l'opzione di fatturazione annuale. 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Fino a un mese gratuito come incentivo</td>
-<td><ul>
-<li>Le nuove sottoscrizioni con fatturazione mensile continueranno a ricevere un periodo gratuito e ad allinearsi alla data di fatturazione del partner.</li>
-<LI> Le sottoscrizioni con fatturazione annuale non offrono un periodo gratuito e si allineano alla data di acquisto. I partner continueranno a ricevere i file di fatturazione e riconciliazione alla data di fatturazione mensile, con l'attività di fatturazione per le sottoscrizioni mensili e annuali.
-<li>Per tutte le sottoscrizioni è previsto il rinnovo automatico per ulteriori 12 mesi con addebito anticipato delle 12 mensilità, se la sottoscrizione non viene annullata conformemente ai contratti appropriati.</li>
-<li>Il periodo gratuito non si applica ai servizi in base all'uso.</li>
-</ul></td>
-</tr>
-<tr class="even">
 <td>Regole per la fatturazione</td>
 <td><ul>
 <li>Le sottoscrizioni sono annuali e rinnovate automaticamente.</li>
@@ -107,7 +97,7 @@ Ora oltre all'opzione mensile è disponibile l'opzione di fatturazione annuale. 
 <li>Gli addebiti sono riferiti alle postazioni vendute e non alle postazioni sottoposte a provisioning.</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Rettifiche/crediti/annullamenti</td>
 <td><ul>
 <li>Non sono attualmente previsti costi di risoluzione anticipata per l'annullamento dei servizi in base alle licenze.</li>
@@ -133,7 +123,6 @@ Azure funziona con un modello di "pagamento a consumo", in base al quale vengono
 <tr class="odd">
 <td>Regole per la fatturazione</td>
 <td><ul>
-<li>La fatturazione inizia in concomitanza con la data di inizio della sottoscrizione. Per la fatturazione in base all'uso non è previsto un "periodo gratuito".</li>
 <li>Le sottoscrizioni sono mensili e rinnovate automaticamente in base alle nuove tariffe del servizio a consumo. La fatturazione è mensile in via posticipata, in base all'uso.</li>
 <li>Le tariffe per i servizi a consumo possono variare all'interno del ciclo di fatturazione.
 <ul>

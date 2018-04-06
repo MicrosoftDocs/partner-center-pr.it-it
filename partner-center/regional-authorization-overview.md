@@ -1,31 +1,31 @@
 ---
 title: Autorizzazione regionale per CSP | Centro per i partner
-description: "Con l'autorizzazione regionale, i partner con aziende internazionali possono ora gestire più facilmente i clienti in aree geografiche e paesi diversi."
+description: Con l'autorizzazione regionale, i partner con aziende internazionali possono ora gestire più facilmente i clienti in paesi/aree geografiche diversi.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-keywords: "Tenant di Azure AD, consolidare i tenant, strategia dei tenant, tenant in CSP, account partner in CSP, mercati e territori CSP, dove è possibile vendere tramite CSP?"
-ms.openlocfilehash: 096f8421a9ccb95c00c79929124ed3c9adaf6933
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+keywords: Tenant di Azure AD, consolidare i tenant, strategia dei tenant, tenant in CSP, account partner in CSP, mercati e territori CSP, dove è possibile vendere tramite CSP?
+ms.openlocfilehash: 45d9c6730cf3274d68915a453b1a33ed5239f68d
+ms.sourcegitcommit: e56f07feb1c6748efda48a8d2cd00185331f904a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 02/19/2018
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>Strategie di consolidamento dei tenant in CSP
 
 
 \[Alcune informazioni sono relative a un prodotto non definitivo che potrebbe subire modifiche sostanziali prima del rilascio sul mercato. Microsoft non riconosce alcuna garanzia, espressa o implicita, in merito alle informazioni qui fornite.\]
 
-Con l'autorizzazione regionale, i partner con aziende internazionali possono ora gestire più facilmente i clienti in aree geografiche e paesi diversi. Questo riduce il numero di tenant che i partner devono gestire, riduce le date di fatturazione che i partner devono gestire e consente ai partner di ottenere una visualizzazione più consolidata delle loro vendite.
+Con l'autorizzazione regionale, i partner con aziende internazionali possono ora gestire più facilmente i clienti in paesi/aree geografiche diversi. Questo riduce il numero di tenant che i partner devono gestire, riduce le date di fatturazione che i partner devono gestire e consente ai partner di ottenere una visualizzazione più consolidata delle loro vendite.
 
-In passato, ad eccezione di Unione europea/EFTA, i partner dovevano avere un'entità fisica in ogni paese in cui che volevano gestire delle transazioni. Per i partner, questo significava dover configurare più tenant nel Centro per i partner, con più date di fatturazione e altre impostazioni. In aree geografiche, come l'America latina, i partner non avevano la possibilità di lavorare agevolmente con clienti in un paese o un'area geografica adiacente e in alcuni casi, non potevano del tutto.
+In passato, ad eccezione di Unione europea/EFTA, i partner dovevano avere un'entità fisica in ogni paese in cui che volevano gestire delle transazioni. Per i partner, questo significava dover configurare più tenant nel Centro per i partner, con più date di fatturazione e altre impostazioni. In aree geografiche, come l'America latina, i partner non avevano la possibilità di lavorare agevolmente con clienti in un paese/area geografica adiacente e in alcuni casi, non potevano del tutto.
 
->**Nota**<br> Se sei registrato a [CSP per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md) ed effettui vendite ai clienti nei paesi e nelle aree geografiche UE ed EFTA, non puoi consolidare il tenant per il Centro per i partner per Microsoft Cloud Germania con gli altri tenant di cui disponi.  
+>**Nota**<br> Se sei registrato a [CSP per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md) ed effettui vendite ai clienti in paesi/aree geografiche UE ed EFTA, non puoi consolidare il tenant per il Centro per i partner per Microsoft Cloud Germania con gli altri tenant di cui disponi.  
 
 ## <a name="planning"></a>Pianificazione
 
 I partner hanno più opzioni per consolidare i tenant regionali, come descritto di seguito.
 
-### <a name="separate-tenants-for-single-regions-or-countries"></a>Tenant separati per singoli paesi o aree geografiche
+### <a name="separate-tenants-for-single-regions-or-countries"></a>Tenant separati per singoli paesi/aree geografiche
 
 Il consolidamento dei tenant è facoltativo. I partner possono continuare a gestire i loro clienti internazionali con tenant separati, come illustrato nella tabella seguente.
 
@@ -68,7 +68,7 @@ Il consolidamento dei tenant è facoltativo. I partner possono continuare a gest
 
  
 
-## <a name="one-tenant-for-multiple-regions-or-countries"></a>Un solo tenant per più aree geografiche o paesi
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>Un solo tenant per più paesi/aree geografiche
 
 
 I partner possono scegliere di consolidare le attività da più tenant CSP in un singolo tenant CSP.
@@ -100,7 +100,7 @@ I partner possono scegliere di consolidare le attività da più tenant CSP in un
 
  
 
-## <a name="some-tenants-for-some-regions-or-countries"></a>Alcuni tenant per alcune aree geografiche o paesi
+## <a name="some-tenants-for-some-regions-or-countries"></a>Alcuni tenant per alcuni paesi/aree geografiche
 
 
 I partner possono scegliere di consolidare le attività da più tenant CSP in meno tenant CSP.
@@ -141,7 +141,7 @@ I partner possono scegliere di consolidare le attività da più tenant CSP in me
 
 Se vuoi consolidare i tenant, ti consigliamo quanto segue:
 
--   **Più aree geografiche/paesi ma un solo tenant per le transazioni**. Se gestisci transazioni in un solo paese/area geografica, ma hai configurato vari altri tenant, usa il tenant per le transazioni come nuovo tenant centralizzato per l'area geografica in questione e annulla gli altri tenant.
+-   **Più paesi/aree geografiche ma un solo tenant per le transazioni**. Se gestisci transazioni in un solo paese/area geografica, ma hai configurato vari altri tenant, usa il tenant per le transazioni come nuovo tenant centralizzato per l'area geografica in questione e annulla gli altri tenant.
 
 -   **Più paesi/aree geografiche ma un solo tenant per le transazioni.** Se gestisci transazioni in diversi paesi/aree geografiche, ti consigliamo di centralizzare le operazioni sul tenant con il maggior numero di postazioni. È consigliabile annullare le sottoscrizioni nei paesi/aree geografiche con quantità di postazioni ridotte.
 
@@ -157,22 +157,22 @@ Prima di consolidare i tenant, tieni conto delle considerazioni seguenti:
 
 -   **Se la destinazione di vendita Microsoft è il Brasile**, il territorio include i clienti residenti in Brasile.
 
--   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Anguilla, Antigua e Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Cile, Colombia, Costa Rica, Curacao, Ecuador, El Salvador, Giamaica, Guadalupa, Guatemala, Guyana francese, Honduras, Isole Cayman, Isole Turks e Caicos, Isole Vergini Americane, Martinica, Messico, Nicaragua, Panama, Paraguay, Perù, Portorico, Saba e Sint Eustatius, Saint Kitts e Nevis, Saint Lucia, Saint-Martin, Saint Vincent e Grenadine, Sint Maarten, Suriname, Trinidad e Tobago, Uruguay, Venezuela.
+-   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Anguilla, Antigua e Barbuda, Antartide, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Isole Vergini britanniche, Isole Cayman, Cile, Colombia, Costa Rica, Curacao, Dominica, Repubblica Dominicana, Ecuador, El Salvador, Isole Falkland, Guyana Francese, Grenada, Guadalupa, Guatemala, Guyana, Haiti, Honduras, Giamaica, Martinica, Messico, Montserrat, Nicaragua, Panama, Paraguay, Perù, Portorico, Saba, Saint Barthélemy, Saint Kitts e Nevis, Saint Lucia, Saint Martin, Saint Vincent e Grenadine, Sint Eustatius, Sint Maarten, Georgia del Sud e Sandwich Australi, Suriname, Trinidad e Tobago, Turks e Caicos, Isole, Uruguay, Venezuela, Isole Vergini. 
 
--   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Andorra, Austria, Belgio, Bulgaria, Croazia, Cipro, Repubblica Ceca, Danimarca, Estonia, Fær Øer, Finlandia, Francia, Germania, Grecia, Groenlandia, Ungheria, Islanda, Irlanda, Isola di Man, Italia, Jersey, Lettonia, Liechtenstein, Lituania, Lussemburgo, Madagascar, Malawi, Mali, Malta, Mayotte, Monaco, Paesi Bassi, Nuova Caledonia, Norvegia, Polonia, Portogallo, Romania, San Marino, Slovacchia, Slovenia, Spagna, Svezia, Svizzera, Regno Unito, Città del Vaticano.
+-   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Isole Åland, Andorra, Austria, Belgio, Isola Bouvet, Bulgaria, Croazia, Cipro, Repubblica Ceca, Danimarca, Estonia, Fær Øer, Finlandia, Francia, Germania, Grecia, Gibilterra, Groenlandia, Guernsey, Ungheria, Islanda, Irlanda, Isola di Man, Italia, Jersey, Jan Mayen Lettonia, Liechtenstein, Lituania, Lussemburgo, Malta, Monaco, Paesi Bassi, Norvegia, Polonia, Portogallo, Romania, San Marino, Slovacchia, Slovenia, Spagna, Svalbard, Svezia, Svizzera, Regno Unito, Città del Vaticano. 
 
-    >**Nota**<br> Se sei registrato a [CSP per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md) ed effettui vendite ai clienti nei paesi e nelle aree geografiche UE ed EFTA, non puoi consolidare il tenant per il Centro per i partner per Microsoft Cloud Germania con gli altri tenant di cui disponi.  
+    >**Nota**<br> Se sei registrato a [CSP per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md) ed effettui vendite ai clienti in paesi/aree geografiche UE ed EFTA, non puoi consolidare il tenant per il Centro per i partner per Microsoft Cloud Germania con gli altri tenant di cui disponi.  
 
 
--   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Afghanistan, Albania, Algeria, Armenia, Azerbaigian, Bahrain, Belarus, Benin, Bosnia ed Erzegovina, Burundi, Comore, Egitto, Polinesia francese, Georgia, Iraq, Israele, Giordania, Kazakhstan, Kuwait, Kirghizistan, Libano, Libia, Repubblica di Macedonia, Moldova, Mongolia, Montenegro, Marocco, Mozambico, Oman, Pakistan, Autorità Palestinese, Qatar, Riunione, Arabia Saudita, Serbia, Seychelles, Sudafrica, Tagikistan, Togo, Tunisia, Turchia, Turkmenistan, Ucraina, Emirati Arabi Uniti, Uzbekistan, Yemen, Zimbabwe.
+-   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Afghanistan, Albania, Algeria, Armenia, Azerbaigian, Bahrain, Belarus, Benin, Bosnia ed Erzegovina, Burkina Faso Burundi, Repubblica Centrafricana, Ciad, Comore, Repubblica democratica del Congo, Congo, Gibuti, Egitto, Guinea Equatoriale, Eritrea, Polinesia francese, Gabon, Georgia,Guinea, Guinea-Bissau, Iraq, Israele, Giordania, Kazakhstan, Kuwait, Kirghizistan, Libano, Liberia, Libia, Madagascar, Malawi, Mali, Mayotte, Moldova, Mongolia, Montenegro, Marocco, Nuova Caledonia, Niger, Oman, Pakistan, Autorità Palestinese, Qatar, Repubblica di Macedonia (Ex Repubblica Jugoslava di Macedonia), Riunione, Arabia Saudita, Serbia, Seychelles, Sierra Leone, Somalia, Sudafrica, Tagikistan, Togo, Tunisia, Turchia, Turkmenistan, Ucraina, Emirati Arabi Uniti, Uzbekistan, Yemen, Zimbabwe. 
 
--   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Angola, Botswana, Camerun, Cabo Verde, Côte d'Ivoire (Costa d'Avorio), Etiopia, Ghana, Kenya, Mauritius, Namibia, Nigeria, Ruanda, Senegal, Tanzania, Uganda, Zambia.
+-   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Angola, Botswana, Territorio britannico dell'Oceano Indiano, Cabo Verde, Camerun, Côte d'Ivoire (Costa d'Avorio), Etiopia, Ghana, Kenya, Kosovo, Lesoto, Mauritania, Mauritius, Mozambico, Namibia, Nigeria, Ruanda, Senegal, Swaziland, Tanzania, Uganda, Yemen, Zambia. 
 
 -   **Se la destinazione di vendita Microsoft è la Russia**, il territorio include i clienti residenti in Russia.
 
--   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Bangladesh, Bhutan, Brunei Darussalam, Cambogia, RAS di Hong Kong  , Indonesia, Laos, Macao - R.A.S., Malaysia, Maldive, Isole Marshall, Myanmar, Nepal, Papua Nuova Guinea, Filippine, Singapore, Sri Lanka, Thailandia, Timor-Leste, Tonga, Vietnam.
+-   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Samoa americane, Bangladesh, Bhutan, Brunei, Darussalam, Cambogia, RAS di Hong Kong, Indonesia, Laos, RAS di Macao, Malaysia, Maldive, Myanmar, Nepal, Filippine, Saint Pierre e Miquelon, Samoa, Singapore, Sri Lanka, Thailandia, Timor-Leste, Vanuatu, Vietnam. 
 
--   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Australia or Figi.
+-   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Australia, Figi, Isola Christmas, Isole Cocos (Keeling), Isole Cook, Guam, Heard e McDonald, Kiribati, Isole Marshall, Micronesia, Nauru, Niue, Norfolk, Isole Marianne Settentrionali, Palau, Papua Nuova Guinea, Isole Pitcairn, Isole Salomone, Tokelau, Tonga, Tuvalu, Wallis e Futuna. 
 
 -   **Se la destinazione di vendita Microsoft è la Nuova Zelanda**, il territorio include i clienti residenti in Nuova Zelanda.
 
@@ -190,21 +190,21 @@ La posizione geografica determina la valuta di fatturazione, come illustrato nel
 
 | Valuta | Paese |
 | ---- | ---- |
-| USD | Albania, Anguilla, Antigua e Barbuda, Arabia Saudita, Argentina, Armenia, Azerbaigian, Aruba, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolivia, Bonaire, Brasile, Brunei, Burundi, Camerun, Cile, Colombia, Comore, Costa Rica, Curaçao, Ecuador, Egitto, El Salvador, Emirati Arabi Uniti, Filippine, Guyana francese, Isole Cayman, Isole Turks e Caicos, Isole Vergini americane, Georgia, Ghana, Giamaica, Guatemala, Honduras, RAS di Hong Kong, Indonesia, Iraq, Israele, Kazakistan, Kenya, Kuwait, Kirghizistan, Libano, Macao - R.A.S., Madagascar, Malawi, Malaysia, Mali, Mauritius, Mayotte, Messico, Marocco, Namibia, Nuova Caledonia, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Perù, Polinesia francese, Portorico, Qatar, Repubblica dominicana, Riunione, Ruanda, Saint Lucia, Saint-Martin, Saint Vincent e Grenadine, Saba e Sint Eustatius, Serbia, Seychelles, Singapore, Sint Maarten, Sri Lanka, Sudafrica, Suriname, Tanzania, Thailandia, Timor-Leste, Togo, Trinidad e Tobago, Tunisia, Turchia, Ucraina, Stati Uniti, Uruguay, Venezuela, Vietnam  | 
+| USD | Albania e Sint Eustatius, Anguilla, Antartide, Antigua e Barbuda, Argentina, Armenia, Aruba, Azerbaigian, Bahamas, Bahrein, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolivia, Bonaire, Brasile, Territorio britannico dell'Oceano Indiano, Brunei, Burundi, Camerun, Isole Cayman, Repubblica Centrafricana, Cile, Colombia, Comore, Costa Rica, Curaçao, Repubblica Dominicana, Ecuador, Egitto, El Salvador, Guinea Equatoriale, Eritrea, Guayana Francese, Polinesia Francese, Georgia, Ghana, Guatemala, Guinea-Bissau, Honduras, RAS di Hong Kong, Indonesia, Iraq, Israele, Giamaica, Kazakhstan, Kenya, Kuwait, Kirghizistan, Libano, Lesoto, RAS di Macao, Madagascar, Malawi, Malaysia, Mali, Mauritania, Mauritius, Mayotte, Messico, Marocco, Namibia, Nuova Caledonia, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Perù, Filippine, Portorico, Qatar, Riunione, Ruanda, Saba, Saint Lucia, Saint Martin, Saint Vincent e Grenadine, Arabia Saudita, Serbia, Seychelles, Sierra Leone, Singapore, Sint Maarten, Somalia, Sudafrica, Sud Sudan, Sri Lanka, Suriname, Swaziland, Tanzania, Thailandia, Timor-Leste, Togo, Trinidad e Tobago, Tunisia, Turchia, Turks e Caicos, Isole, Isole Vergini Americane, Ucraina, Emirati Arabi Uniti, Stati Uniti, Uruguay, Venezuela, Vietnam, Yemen.| 
 | TWD | Taiwan |
 | SEK | Svezia |
 | INR | India |
 | RUB | Russia |
-| NZD | Nuova Zelanda |
-| NOK | Norvegia |
+| NZD | Nuova Zelanda, Vanuatu |
+| NOK | Jan Mayen, Norvegia, Svalbard |
 | KRW | Corea |
 | JPY | Giappone |
 | GBP | Isola di Man, Jersey, Regno Unito |
-| EUR | Andorra, Austria, Belgio, Croazia, Repubblica Ceca, Estonia, Fær Øer, Finlandia, Francia, Germania, Grecia, Ungheria, Islanda, Irlanda, Italia, Lettonia, Liechtenstein, Lituania, Lussemburgo/Belgio, Paesi Bassi, Polonia, Portogallo, Romania, San Marino, Slovacchia, Slovenia, Spagna |
+| EUR | Andorra, Austria, Belgio, Isola Bouvet, Croazia, Repubblica Ceca, Estonia, Fær Øer, Finlandia, Francia, Germania, Grecia, Ungheria, Islanda, Irlanda, Italia, Lettonia, Liechtenstein, Lituania, Lussemburgo/Belgio, Paesi Bassi, Polonia, Portogallo, Romania, San Marino, Slovacchia, Slovenia, Spagna |
 | DKK | Danimarca |
 | CHF | Svizzera |
 | CAD | Canada |
-| AUD | Australia, Figi, Isole Marshall, Papua Nuova Guinea, Tonga |
+| AUD | Australia, Isola Christmas, Isole Cocos (Keeling), Isole Cook, Figi, Heard e McDonald, Kiribati, Isole Marshall, Nauru, Niue, Norfolk, Isole Marianne Settentrionali, Palau, Papua Nuova Guinea, Isole Pitcairn, Isole Salomone, Tokelau, Tonga, Tuvalu, Wallis e Futuna. |
 
 
  

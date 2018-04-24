@@ -1,12 +1,12 @@
 ---
 title: Gestire i vantaggi del Microsoft Partner Network | Centro per i partner
-description: "In qualità di membro del Microsoft Partner Network, hai diritto ad alcuni vantaggi. Illustra come attivare e gestire i vantaggi dell'adesione nel Centro per i partner."
+description: In qualità di membro del Microsoft Partner Network, hai diritto ad alcuni vantaggi. Illustra come attivare e gestire i vantaggi dell'adesione nel Centro per i partner.
 author: MaggiePucciEvans
-ms.openlocfilehash: 2e21313612acc7383cde0333b57b3b6068a7723c
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gestire i vantaggi dell'adesione al Microsoft Partner Network
 
@@ -14,7 +14,7 @@ ms.lasthandoff: 11/03/2017
 
 -  Centro per i partner
 
-L'adesione al Microsoft Partner Network dà diritto ad alcuni vantaggi. Prima di poter acquistare e attivare i vantaggi, l'organizzazione deve entrare a far parte del Microsoft Partner Network. Se non sei un membro della rete, puoi iscriverti all'indirizzo [https://partner.microsoft.com](https://partner.microsoft.com).
+L'adesione al Microsoft Partner Network dà diritto ad alcuni vantaggi. Prima di poter acquistare e attivare i vantaggi, l'organizzazione deve entrare a far parte del Microsoft Partner Network. Se non sei un membro della rete, puoi iscriverti ora all'indirizzo [https://partner.microsoft.com](https://partner.microsoft.com).
 
 >**Nota** Questo collegamento ti condurrà a un altro sito Web. Torna a questo sito, il Centro per i partner, per rinnovare e aggiornare l'adesione alla rete.
 
@@ -23,11 +23,11 @@ Dopo l'adesione o il rinnovo dell'adesione al Microsoft Partner Network, puoi ac
 
 ## <a name="manage-your-membership-benefits"></a>Gestire i vantaggi dell'adesione
 
-Dopo avere acquistato un pacchetto di vantaggi, assegna licenze, sottoscrizioni e altri vantaggi ai dipendenti per iniziare a usarli. 
+Dopo avere acquistato un pacchetto di vantaggi, dovrai assegnare licenze, sottoscrizioni e altri vantaggi ai dipendenti per iniziare a usarli. 
 
 I pacchetti di vantaggi includono le allocazioni delle licenze software con diritti di uso interno, i servizi cloud, le sottoscrizioni di Visual Studio e il supporto. 
 
-Per visualizzare e gestire tutti i vantaggi dell'adesione che hai ricevuto, vai al menu **Dashboard**, quindi seleziona **Partnership > Vantaggi**. Verrà visualizzata la pagina **Vantaggi**. 
+Per visualizzare e gestire i vantaggi dell'adesione, seleziona **Vantaggi** dal menu **Dashboard**. Verrà visualizzata la pagina **Vantaggi**. 
 
 #### <a name="manage-software-benefits"></a>Gestire i vantaggi software
 

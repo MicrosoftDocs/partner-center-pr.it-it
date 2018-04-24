@@ -1,14 +1,14 @@
 ---
-title: "Visualizzare i log attività dei clienti | Centro per i partner"
-description: "I log attività offrono informazioni sulle transazioni e le operazioni di gestione dei partner per i clienti."
+title: Visualizzare i log attività dei clienti | Centro per i partner
+description: I log attività offrono informazioni sulle transazioni e le operazioni di gestione dei partner per i clienti.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
-ms.openlocfilehash: b877143abdc07dc0f6e23ef33ee64cd72afda11e
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: ae5ac419d505984f5f955ddaad62acbf19d16dfa
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="view-customer-activity-logs"></a>Visualizzare i log attività dei clienti
 
@@ -32,7 +32,7 @@ I log attività includono record relativi alle azioni dei partner sugli account 
 
     Seleziona la freccia in giù per qualsiasi log attività per visualizzare informazioni dettagliate su un'azione registrata. Un singolo log attività può mostrare una notevole quantità di dati, ad esempio l'ordine di più prodotti.
 
-3.  Seleziona **Esporta log**. Il Centro per i partner converte i dati relativi alle sottoscrizioni del cliente in un file CSV e lo carica nella cartella di download predefinita nel tuo computer. Le colonne di dati includono:
+3.  Seleziona **Esporta log** per copiare i dati relativi alle sottoscrizioni del cliente in un file CSV e scaricali nella cartella di download predefinita nel tuo computer. Le colonne di dati includono:
     -   **Cliente interessato** - nome dell'azienda del cliente.
     -   **Azione** - nome del prodotto per la sottoscrizione.
     -   **Utente partner** - partner associato all'attività.

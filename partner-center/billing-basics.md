@@ -3,11 +3,11 @@ title: Nozioni di base sulla fatturazione | Centro per i partner
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
-ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="billing-basics"></a>Nozioni di base sulla fatturazione
 
@@ -53,7 +53,7 @@ Ora oltre all'opzione mensile è disponibile l'opzione di fatturazione annuale. 
 <tr class="even">
 <td>Disponibilità delle fatture</td>
 <td><ul>
-<li>Puoi visualizzare e scaricare le fatture e i file riconciliazione dalla pagina Fatturazione nel Centro per i partner. Nota che le fatture mensili sono disponibili nel Centro per i partner entro quattro (4) giorni dalla data di fatturazione selezionata.</li>
+<li>Puoi visualizzare e scaricare le fatture e i file di riconciliazione dalla pagina Fatturazione del dashboard del partner. Nota che le fatture mensili sono disponibili nel dashboard del partner entro quattro (4) giorni dalla data di fatturazione selezionata.</li>
 </ul></td>
 </tr>
 <tr class="odd">

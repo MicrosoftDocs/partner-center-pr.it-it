@@ -1,13 +1,13 @@
 ---
 title: Programma Cloud Solution Provider - vendita di soluzioni cloud popolari | Centro per i partner
-description: "Il programma Cloud Solution Provider può aiutare la tua azienda ad acquisire nuovi clienti e nuove competenze."
+description: Il programma Cloud Solution Provider può aiutare la tua azienda ad acquisire nuovi clienti e nuove competenze.
 author: labrenne
 keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, partner diretto, partner CSP diretto, rivenditore CSP indiretto, CSP diretto, CSP indiretto, modello diretto, modello indiretto, rivenditore indiretto, provider indiretto, provider, server di distribuzione, programma cloud solution provider
-ms.openlocfilehash: 1096e07df5f60c25a0e7b52ba1a2ded5cf8a4a56
-ms.sourcegitcommit: 083ac574b9e30a7b28c86a261f33d7976a4afea5
+ms.openlocfilehash: 1e23de4014e9d3dd85134c17e60dfeacc8acf9d7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programma Cloud Solution Provider - Vendita di soluzioni cloud popolari 
 
@@ -24,9 +24,9 @@ Il programma Cloud Solution Provider (CSP) non consiste semplicemente nella rive
 
 ## <a name="which-csp-model-is-best-for-me"></a>Quale modello CSP è ideale per me?
 
-### <a name="direct-model"></a>Modello diretto
+### <a name="direct-bill-model"></a>Modello di addebito diretto
 
- Nel modello diretto i partner acquistano prodotti e abbonamenti Microsoft direttamente da Microsoft e li vendono direttamente ai propri clienti tramite il personale di vendita interno. I partner che già dispongono dell'adeguata infrastruttura di vendita, fatturazione e supporto, o sono intenzionati a svilupparla, possono scegliere il modello CSP diretto. I partner più adatti per il modello CSP diretto devono soddisfare questi prerequisiti:
+ Nel modello di addebito diretto i partner acquistano prodotti e abbonamenti Microsoft direttamente da Microsoft e li vendono direttamente ai propri clienti tramite il personale di vendita interno. I partner che già dispongono dell'adeguata infrastruttura di vendita, fatturazione e supporto, o sono intenzionati a svilupparla, possono scegliere il modello CSP diretto. I partner più adatti per il modello CSP diretto devono soddisfare questi prerequisiti:
 - Un ID Microsoft Partner Network (MPN) attivo per la località in cui desiderano vendere
 - Infrastruttura esistente di supporto clienti
 - Infrastruttura esistente di fatturazione ai clienti
@@ -48,7 +48,7 @@ Il programma Cloud Solution Provider è disponibile nelle aree geografiche e pae
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>Cosa posso vendere tramite il programma CSP?
 
-Puoi vendere la gamma completa di [servizi cloud Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), nonché una varietà di offerte aggiuntive che cambiano frequentemente. Per visualizzare le offerte CSP del mese corrente, accedi al Centro per i partner e quindi alla pagina [**Prezzi e offerte**](https://partnercenter.microsoft.com/pcv/sales).
+Puoi vendere la gamma completa di [servizi cloud Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), nonché una varietà di offerte aggiuntive che cambiano frequentemente. Per visualizzare le offerte CSP del mese corrente, accedi al dashboard del partner e quindi alla pagina [**Prezzi e offerte**](https://partnercenter.microsoft.com/pcv/sales).
 
 ## <a name="see-also"></a>Vedi anche 
 
@@ -59,5 +59,5 @@ Puoi vendere la gamma completa di [servizi cloud Microsoft](https://partner.micr
 |Vendita nei cloud nazionali Microsoft   | [Richiedere di vendere nei cloud nazionali Microsoft](csp-national-clouds-overview.md)|
 |Dove e cosa puoi vendere   |[Mercati e contratti per i clienti Microsoft Cloud Solution Provider](agreements.md)|
 |  | [Strategie dei tenant in CSP](regional-authorization-overview.md)
-|Attività dei provider indiretti nel Centro per i partner  |[Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider](indirect-provider-tasks-in-partner-center.md)|
-|Attività dei rivenditori indiretti nel Centro per i partner   |[Collaborare con i provider indiretti nel programma Cloud Solution Provider](indirect-reseller-tasks-in-partner-center.md)|
+|Attività dei provider indiretti nel dashboard del partner  |[Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider](indirect-provider-tasks-in-partner-center.md)|
+|Attività dei rivenditori indiretti nel dashboard del partner   |[Collaborare con i provider indiretti nel programma Cloud Solution Provider](indirect-reseller-tasks-in-partner-center.md)|

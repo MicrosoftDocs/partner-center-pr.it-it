@@ -3,11 +3,11 @@ title: Multicanale | Centro per i partner
 description: In alcuni casi i clienti potrebbero chiederti di occuparti del provisioning e del supporto di una sottoscrizione acquistata altrove.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-ms.openlocfilehash: 2f0354c8e8e0f80bd42af363dc86b829b96b9bbf
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: bbba14ec95a99ad2f36cf9173d43fb244d3ca677
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="multi-channel-support"></a>Supporto multicanale
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 06/09/2017
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
-La funzionalità multicanale del Centro per i partner supporta gli scenari in cui un cliente desidera incaricare un partner di gestire e supportare una sottoscrizione acquistata altrove. Il supporto multicanale è applicabile quando il cliente:
+La funzionalità multicanale del dashboard del partner supporta gli scenari in cui un cliente desidera incaricare un partner di gestire e supportare una sottoscrizione acquistata altrove. Il supporto multicanale è applicabile quando il cliente:
 
 -   Ha già acquistato sottoscrizioni direttamente da Microsoft o tramite i programmi Advisor, Open o EA.
 
@@ -45,7 +45,7 @@ La funzionalità multicanale del Centro per i partner supporta gli scenari in cu
 </table>
 
 >**Importante**<br>
-Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Tutti gli annunci sui rilasci di funzionalità saranno effettuati tramite i canali di comunicazione normali, tra cui il Centro per i partner. 
+Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Tutti gli annunci sui rilasci di funzionalità saranno effettuati tramite i canali di comunicazione normali, tra cui il dashboard del partner. 
 
 ## <a name="see-also"></a>Vedi anche
 

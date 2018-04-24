@@ -3,11 +3,11 @@ title: Segnalare i problemi relativi al Centro per i partner | Centro per i part
 description: Come segnalare i problemi relativi al Centro per i partner e raccogliere informazioni di diagnostica per il nostro team di supporto.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
-ms.openlocfilehash: d7f6bc00f7936560acbe92386e1cb587107f584d
-ms.sourcegitcommit: 9701da2050a391b6ac2f6301691127e9665c9635
+ms.openlocfilehash: 8599068356be93468a98645f5b25771a521709dd
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/26/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="report-problems-with-partner-center"></a>Segnalare i problemi relativi al Centro per i partner
 
@@ -17,38 +17,38 @@ ms.lasthandoff: 05/26/2017
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
-Contatta Supporto per il Centro per i partner se rilevi problemi con il Centro per i partner, tra cui bug o interruzioni del servizio.
+Contatta il supporto del dashboard del partner se rilevi problemi con il dashboard del partner, tra cui bug o interruzioni del servizio.
 
-**Segnalare un problema con il Centro per i partner**
+**Segnalare un problema con il dashboard del partner**
 
-1.  Nel menu **Dashboard** seleziona **Richieste di supporto** &gt; **Richieste Centro per i partner**.
+1.  Nel **dashboard del partner** seleziona l'icona **Supporto** e quindi seleziona **Richieste Centro per i partner**.
 
 2.  Seleziona **Nuova richiesta**.
 
-3.  Compila il modulo e quindi seleziona **Invia**. Un rappresentante del Supporto Centro per i partner ti contatterà.
+3.  Compila il modulo e quindi seleziona **Invia**. Un rappresentante del supporto del dashboard del partner ti contatterà.
 
 **Inviare la diagnostica**
 
-Se si verifica un errore mentre ti trovi in una pagina del Centro per i partner, ti potrebbe essere richiesto di raccogliere informazioni di registro. Seleziona **Raccogli altre informazioni** dal collegamento nell'elenco a discesa della pagina per aprire lo strumento di diagnostica client di Centro per i partner. Questo strumento raccoglie le informazioni necessarie al team di supporto del Centro per i partner per determinare la causa dell'errore. 
+Se si verifica un errore mentre ti trovi in una pagina del dashboard del partner, ti potrebbe essere richiesto di raccogliere informazioni di log. Seleziona **Raccogli altre informazioni** dal collegamento nell'elenco a discesa nella parte superiore della pagina per aprire lo strumento di diagnostica client del dashboard del partner. Questo strumento raccoglie le informazioni necessarie al team di supporto del dashboard del partner per determinare la causa dell'errore. 
 
 **Nota**
 
-Nelle pagine di Centro per i partner che includono **/pcv/** nell'URL, è possibile aprire manualmente lo strumento per raccogliere queste informazioni.
+Nelle pagine del dashboard del partner che includono **/pcv/** nell'URL, è possibile aprire manualmente lo strumento per raccogliere queste informazioni.
 
-1.    Vai alla pagina con il problema.
+1.  Vai alla pagina con il problema.
 
-2.    Premi **Ctrl + Alt + D** per aprire lo strumento di diagnostica client del Centro per i partner.
+2.  Premi **CTRL+ALT+D** per aprire lo strumento di diagnostica client del dashboard del partner.
 
 Puoi visualizzare in anteprima le informazioni di diagnostica e salvarle in un file che è possibile allegare alla richiesta di supporto. Per inviare le informazioni:
 
-1.    Esaminare le informazioni nel file prima di inviarlo perché può contenere informazioni personali che puoi decidere di rimuovere. 
+1.  Esaminare le informazioni nel file prima di inviarlo perché può contenere informazioni personali che puoi decidere di rimuovere. 
 
     >**Nota**<br>
     In alcuni browser, la sezione **di visualizzazione della pagina** nella parte inferiore della pagina di **anteprima** può sembrare vuota. Non si tratta di un errore.
 
-2.    Per salvare il file, segui le istruzioni visualizzate sullo schermo.
+2.  Per salvare il file, segui le istruzioni visualizzate sullo schermo.
 
-3.    Allegare il file alla richiesta di supporto del Centro per i partner.
+3.  Allega il file alla richiesta di supporto del dashboard del partner.
 
-Il Supporto del Centro per i partner potrebbe richiedere di eseguire lo strumento più volte per ottenere le informazioni più aggiornate.
+Il supporto del dashboard del partner potrebbe richiedere di eseguire lo strumento più volte per ottenere le informazioni più aggiornate.
 

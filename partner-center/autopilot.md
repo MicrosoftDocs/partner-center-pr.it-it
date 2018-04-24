@@ -3,11 +3,11 @@ title: Semplificare la configurazione del dispositivo con Windows Autopilot | Ce
 description: Aggiungi un profilo di distribuzione di Windows Autopilot nel Centro per i partner per semplificare la configurazione del dispositivo con Windows Autopilot
 author: KPacquer
 keywords: autopilot, windows autopilot, autopilot microsoft, distribuzione automatica, configurazione guidata, schermate di accesso
-ms.openlocfilehash: 061ee1cedbd3bc849419044bad022ccb12ef9b9f
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: b106577ef60dba6535f89d2ef4bce4a5d19bedd9
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Semplifica la configurazione del dispositivo con Windows Autopilot 
 
@@ -23,7 +23,7 @@ Windows Autopilot semplifica e protegge la configurazione per i nuovi dispositiv
 ## <a name="requirements"></a>Requisiti
 
 *  Dispositivi pre-installati con Windows 10 Pro Creators Update (versione 1703 o versione successiva) o Windows 10 Pro per i PC avanzati.
-*  Identificatore dispositivo noto come hash hardware (128 HWH o 4K HWH), che in genere viene fornito da un OEM. Gli identificatori verranno usati per assegnare i profili dell'organizzazione nel Centro per i partner. Dopo settembre 2017, non sarà più necessario l'hash hardware. 
+*  Identificatore dispositivo noto come hash hardware (128 HWH o 4K HWH), che in genere viene fornito da un OEM. Gli identificatori verranno usati per assegnare i profili dell'organizzazione nel dashboard del partner. 
 *  I dispositivi devono avere accesso a Internet. Se il dispositivo non è in grado di connettersi, vengono mostrate le schermate della Configurazione guidata di Windows predefinite.
 *  Per registrare un dispositivo in un'istanza di MDM è necessario Azure Active Directory Premium.
 
@@ -34,7 +34,7 @@ Per aggiungere pagine specifiche dell'organizzazione, aggiungi i dispositivi nel
 
 ## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Rimuovi le pagine di Windows dalla Configurazione guidata con un profilo di distribuzione di Windows Autopilot
 
-### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Esempi di impostazioni in un profilo di distribuzione di Windows Autopilot
+**Esempi di impostazioni in un profilo di distribuzione di Windows Autopilot**
 *  Ignora le impostazioni della privacy durante la configurazione
 *  Disabilitare l'account amministratore locale durante la configurazione
 *  Ignorare automaticamente le pagine durante la configurazione
@@ -43,19 +43,19 @@ Per aggiungere pagine specifiche dell'organizzazione, aggiungi i dispositivi nel
 
 ### <a name="add-devices-and-apply-a-profile"></a>Aggiungi i dispositivi e applica un profilo
 
-Nel Centro per i partner puoi creare un profilo di distribuzione di Windows Autopilot e applicarlo a un elenco di dispositivi.
+Nel dashboard puoi creare un profilo Windows AutoPilot Deployment e applicarlo a un elenco di dispositivi.
 
-Per configurare i dispositivi, carica un elenco dei dispositivi nel Centro per i partner, crea un profilo valido per i dispositivi e applicalo.
+Per configurare i dispositivi, caricane l'elenco, crea un profilo valido per i dispositivi e applicalo.
 
-1.  Aggiungi l'elenco dei dispositivi nel Centro per i partner.
+1.  Aggiungi l'elenco dei dispositivi.
 
-    Agenti di vendita e agenti amministratore dispongono dell'accesso per aggiungere l'elenco dei dispositivi nel Centro per i partner.
+    Gli agenti di vendita e gli agenti amministratore dispongono dell'accesso per aggiungere l'elenco dei dispositivi nel dashboard del partner.
     
     I rivenditori indiretti possono collaborare con il provider indiretto per aggiungere l'elenco.
 
     a.  Crea un file CSV utilizzando lo script di PowerShell dall'argomento: [Panoramica di Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). Il file CSV contiene informazioni sul dispositivo, inclusi il numero di serie, il nome dell'OEM, il nome del modello, l'ID prodotto e l'identificatore del dispositivo. 
 
-    b.  Dal dashboard Centro per i partner, vai a **Clienti** > seleziona il cliente che riceve i dispositivi > **Dispositivi > Aggiungi dispositivi**.
+    b.  Dal dashboard vai a **Clienti** > seleziona il cliente che riceve i dispositivi > **Dispositivi > Aggiungi dispositivi**.
 
     c.  Assegna un nome al batch di dispositivi, ad esempio, "PC reparto vendite Contoso, ordine aprile 2017". 
 
@@ -63,7 +63,7 @@ Per configurare i dispositivi, carica un elenco dei dispositivi nel Centro per i
 
     **Nota:** Se ricevi un messaggio di errore dopo aver tentato di caricare il file CSV, controlla il formato del file. Dopo agosto, puoi usare solo l'hash hardware o il nome dell'OEM, il numero di serie e il modello in tale ordine colonna oppure l'ID prodotto Windows. Puoi anche utilizzare il file CSV di esempio fornito dal collegamento accanto a **Aggiungi dispositivi**.
 
-2.  Crea un profilo che è possibile applicare ai dispositivi. Solo gli agenti amministratore dispongono dell'accesso per creare e applicare i profili nel Centro per i partner.
+2.  Crea un profilo che è possibile applicare ai dispositivi. Solo gli agenti amministratore dispongono dell'accesso per creare e applicare i profili nel dashboard del partner.
 
     a.  Da **Dispositivi** fai clic su **Aggiungi nuovo profilo**.
 

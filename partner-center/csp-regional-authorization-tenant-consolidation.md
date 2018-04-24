@@ -4,11 +4,11 @@ description: Usa queste istruzioni per consolidare i tenant per paesi/aree geogr
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: migrazione dei clienti, provisioning, account tenant, consolidamento dei tenant
-ms.openlocfilehash: e895fd049211a3dfcb4db930b75d94906563b700
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+ms.openlocfilehash: 4a8d1e993c11d379819ef9628db1f2399c6e6b49
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidamento dei tenant per l'autorizzazione regionale per CSP
 
@@ -29,14 +29,14 @@ Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche divers
 ## <a name="prepare-for-migration"></a>Prepararsi per la migrazione
 
 
--   Accedi a <https://partnercenter.microsoft.com> con l'account per la transizione (esistente) e prendi nota di tutti i clienti e di tutti i servizi di cui è stato eseguito il provisioning per tali clienti.
+-   Accedi al **dashboard del partner** con l'account di **transizione** esistente (l'account da cui esegui la migrazione) e prendi nota di tutti i clienti e di tutti i servizi di cui è stato effettuato il provisioning per tali clienti.
 
 ![elenco dei clienti regionali](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>Eseguire la migrazione degli account dei clienti
 
 
-1.  Accedi a <https://partnercenter.microsoft.com> con l'account per la transizione (nuovo) e passa all'elenco Clienti dal dashboard del Centro per i partner.
+1.  Accedi al **dashboard del partner** con il nuovo account di **transizione** (l'account verso cui esegui la migrazione) e passa all'elenco dei clienti da **Clienti**.
 
 2.  Seleziona Clienti.
 
@@ -53,7 +53,7 @@ I clienti verranno visualizzati nell'elenco dei clienti del partner dopo l'invio
 
 1.  Quando il cliente ha accettato il contratto, puoi ricreare le sue sottoscrizioni nel tuo tenant partner centralizzato.
 
-2.  Nel dashboard del Centro per i partner fai clic su **Clienti** nel menu di spostamento a sinistra.
+2.  Seleziona **Clienti** dal menu **Dashboard**.
 
 3.  Apri il nome dell'azienda per il cliente di cui vuoi eseguire la migrazione.
 
@@ -80,7 +80,7 @@ Prima di procedere alla sezione successiva, verifica che sia stato eseguito di n
 
 La disabilitazione della sottoscrizione CSP negli account partner di **origine della transizione** interrompe eventuali fatturazioni future. Non devi disabilitare manualmente le sottoscrizioni di Azure, perché le sottoscrizioni di Azure vengono disabilitate automaticamente durante il processo di migrazione.
 
-1.  Accedi a <https://partnercenter.microsoft.com> con l'account CSP di **origine della transizione** e passa all'elenco dei clienti.
+1.  Accedi al **dashboard** con l'account CSP di **origine della transizione** e passa all'elenco dei clienti.
 
 2.  Apri il cliente con le sottoscrizioni da disabilitare e quindi seleziona la prima offerta da disabilitare.
 3.  Imposta la sottoscrizione come **sospesa** e quindi fai clic su **Invia**.
@@ -140,21 +140,6 @@ La **funzione di esportazione** consente di recuperare le sottoscrizioni che dev
 
 Per altre informazioni sulla registrazione dell'API, [vedi questa pagina](https://go.microsoft.com/fwlink/?linkid=847990).
 
-## <a name="partner-center-activity-log"></a>Log attività del Centro per i partner
-
-
-Con il log attività i partner possono visualizzare un record di tutte le modifiche effettuate nel loro tenant con effetti sui clienti. Queste informazioni sono utili per tenere traccia delle modifiche apportate nel tenant di un cliente.
-
-**Visualizzare il log attività**
-
-1.  Dal dashboard del Centro per i partner fai clic su link **Log attività**.
-2.  Nella pagina **Log attività** visualizza le modifiche apportate agli account dei clienti. Per filtrare il log attività in base alla data, seleziona l'intervallo desiderato in **da** e **a** per limitare i record selezionati nel log. Per filtrare in base al cliente, usa la casella di ricerca nella pagina **Log attività**.
-
-**Esportare il log attività**
-
--   Fai clic su **Esporta log** per esportare i dati del log attività in un file CSV.
-
-    Puoi anche esportare l'elenco dei clienti e l'elenco delle sottoscrizioni di un singolo cliente (dalla pagina delle sottoscrizioni del cliente).
 
  
 

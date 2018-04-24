@@ -2,12 +2,12 @@
 title: Aggiungere Azure Partner Shared Services | Centro per i partner
 description: I partner CSP possono ora acquistare sottoscrizioni di Azure per uso proprio.
 author: labrenne
-Keywords: Azure, servizi condivisi, tenant
-ms.openlocfilehash: 0329f2ae97444a8a8c3799b2dfcb42378c4f2f80
-ms.sourcegitcommit: aa846217ee4158d835ec3c8f776d1fb299594994
+Keywords: Azure, shared services, tenant
+ms.openlocfilehash: 2cff9cb607618dbee7734bdbce109d729e9646ba
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/04/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="add-azure-partner-shared-services"></a>Aggiungere Azure Partner Shared Services
 
@@ -19,7 +19,7 @@ Azure Partner Shared Services è un nuovo tipo di offerta per i partner aderenti
 
 ## <a name="create-the-shared-services-tenant"></a>Creare il tenant per servizi condivisi
 
-1. Nel Centro per i partner vai al menu **Dashboard** > **Impostazioni account ** > **Servizi condivisi**.
+1. Vai a **Impostazioni** > **Tutte le impostazioni** > **Servizi condivisi**.
 
     ![**Impostazioni account** > **Servizi condivisi**](images/sharedservices2.png)
 
@@ -41,7 +41,7 @@ Azure Partner Shared Services è un nuovo tipo di offerta per i partner aderenti
 
 - L'uso principale della sottoscrizione Azure - Servizi condivisi/Carico di lavoro interno consiste nell'uso di Azure per proprie esigenze di sviluppo. Il tenant condiviso che utilizzi per eseguire il provisioning di questa offerta non può essere utilizzato per altri servizi, ad esempio le postazioni Dynamics o Office 365. 
 
-- È possibile annullare la sottoscrizione come qualsiasi altra sottoscrizione. Vai al menu **Dashboard** > **Impostazioni account ** > **Servizi condivisi**. Seleziona la sottoscrizione Azure - Servizi condivisi/Carico di lavoro interno e annullarla.
+- È possibile annullare la sottoscrizione come qualsiasi altra sottoscrizione. Vai a **Impostazioni** > **Tutte le impostazioni** > **Servizi condivisi**. Seleziona la sottoscrizione Azure - Servizi condivisi/Carico di lavoro interno e annullala.
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Accesso ai dettagli del consumo di Azure Partner Shared Services
 
@@ -49,6 +49,6 @@ Troverai il consumo di Azure nella fattura CSP e nel file di riconciliazione. Ve
 
 ## <a name="azure-partner-shared-services-pricing"></a>Prezzi di Azure Partner Shared Services
 
-Per vedere il nuovo file dei prezzi per Azure Partner Shared Services vai a **Servizi basati sull'utilizzo > Prezzi e offerte** e seleziona il listino prezzi del mese corrente. Nelle settimane successive, verrà rilasciata un'API della scheda della tariffa specifica.
+Per vedere il nuovo file dei prezzi per Azure Partner Shared Services vai a **Vendi** > **Prezzi e offerte** e seleziona il listino prezzi del mese corrente. Nelle settimane successive, verrà rilasciata un'API della scheda della tariffa specifica.
 
 

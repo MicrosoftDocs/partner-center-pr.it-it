@@ -3,11 +3,11 @@ title: Vendere in settori specifici | Centro per i partner
 Description: Microsoft provides special, reduced pricing for select groups of customers, such as for education, non-profit, and government uses, or for very large customer sets.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-ms.openlocfilehash: 02eb734789fa27e08c5e2a42cc0f5b57428f7c06
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.openlocfilehash: ba11aba6b0d687a8e8fd9680595004769a75ad01
+ms.sourcegitcommit: 83e71b6146e66689cc833090836cf9f4e47341ab
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 04/04/2018
 ---
 # <a name="sell-to-specialized-industries"></a>Vendere in settori specifici
 
@@ -20,9 +20,9 @@ Microsoft offre prezzi ridotti speciali per gruppi selezionati di utenti, ad ese
 |**Prezzi speciali**   |**Qualificazioni richieste al rivenditore**   |**Qualificazioni richieste al cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Formazione   |Diventa un [venditore autorizzato per il settore dell'istruzione](https://www.mepn.com/MEPN/AEPHome.aspx)   | Deve essere un [Qualified Education User](https://www.microsoft.com/Licensing/licensing-programs/licensing-for-industries.aspx#tab=2)   |
-|Governo   |Esegui la registrazione con il [modulo di convalida per Microsoft Government Cloud](http://azuregov.microsoft.com/csp)|   nessuna|
-|No profit  |Nessuna   |Registrati tramite il [programma no profit Microsoft](https://nonprofit.microsoft.com/#/register) per essere idoneo   |
-
+|Governo   |Per vendere Azure, iscriviti tramite il [modulo di convalida per Microsoft Azure Government Cloud](http://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenza a enti pubblici, non è richiesta alcuna qualificazione.|   Nessuna|
+|No profit  |Nessuna   |Iscriviti tramite il [programma no profit Microsoft](https://nonprofit.microsoft.com/#/register) per essere idoneo   |
+Per altre informazioni, vedi il documento sulle [offerte speciali per le organizzazioni no profit](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)
 
 **Controllare le tue qualificazioni come rivenditore**
 

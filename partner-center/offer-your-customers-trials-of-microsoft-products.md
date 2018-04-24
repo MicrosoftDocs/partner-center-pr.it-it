@@ -2,11 +2,11 @@
 title: Offrire ai clienti le versioni di valutazione dei prodotti Microsoft | Centro per i partner
 description: I tuoi clienti possono testare i prodotti a sottoscrizione Microsoft per 30 giorni.
 author: labrenne
-ms.openlocfilehash: a35a4e1c1aca22df6b262bd2f7d64a4d234d33ed
-ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
+ms.openlocfilehash: 238681a6b19fa4f021ef9882aa477a1a8937d462
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/17/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Offri ai tuoi clienti le versioni di valutazione dei prodotti Microsoft
 
@@ -18,7 +18,7 @@ Un buon metodo per presentare ai clienti i nuovi prodotti Microsoft è offrire v
 
 ## <a name="sign-your-customer-up-for-a-trial"></a>Registra il tuo cliente per una versione di valutazione
 
-1.  Da **Impostazioni account** vai a **Catalogo**. 
+1.  Seleziona **Vendi** dal menu Dashboard, quindi seleziona **Catalogo**. 
 2.  Nel catalogo fai clic su **Trial offer** in **Frequenza fatturazione**. Questa operazione consente di abilitare solo le versioni di valutazione gratuite e disabilitare altre offerte non gratuite. Le versioni di valutazione verranno visualizzate nella scheda **Versioni di valutazione** del catalogo.
 3.  Seleziona la versione di valutazione gratuita che desideri offrire, quindi seleziona **Invia**. Tutte le versioni di valutazione sono valide per 30 giorni e durante questo periodo non ti verrà addebitato alcun costo. Inoltre puoi convertirla in una sottoscrizione a pagamento in qualsiasi momento durante il periodo della versione di valutazione.
 

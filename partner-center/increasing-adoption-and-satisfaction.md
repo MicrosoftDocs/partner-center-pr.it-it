@@ -1,13 +1,13 @@
 ---
 title: Migliorare i tassi di adozione e soddisfazione | Centro per i partner
-description: "I nostri partner usano molte metriche per valutare la crescita delle loro attività e decidere dove concentrare gli investimenti. Il Centro per i partner può essere di aiuto fornendo dati che indicano se e come i clienti usano le licenze acquistate."
+description: I nostri partner usano molte metriche per valutare la crescita delle loro attività e decidere dove concentrare gli investimenti. Il Centro per i partner può essere di aiuto fornendo dati che indicano se e come i clienti usano le licenze acquistate.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: cecf3c02ea52e61eb33bb39014b746dc89aa6ca7
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+ms.openlocfilehash: 1273572052afb076cf34a090f32ba7aca72d6d85
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Migliorare i tassi di adozione e soddisfazione
 
@@ -26,11 +26,11 @@ Puoi vedere i dati per tutti i tuoi clienti tramite il programma Cloud Solution 
 
 **Per un singolo cliente**
 
--   Seleziona **Clienti** nel menu del Centro per i partner, scegli un cliente e quindi seleziona **Informazioni sui clienti**.
+-   Seleziona **Clienti** dal menu **Dashboard**, scegli un cliente e quindi seleziona **Informazioni sui clienti**.
 
 **Per tutto il tuo portfolio**
 
-1.  Nel **Dashboard** del Centro per i partner scorri verso il basso fino alla sezione **Analisi licenze Office**.
+1.  Seleziona **Analizza** dal menu **Dashboard**.
 2.  Scarica i dati di distribuzione e utilizzo per l'intero set dei tuoi clienti selezionando le opzioni per l'**esportazione**.
 
 Terminologia:

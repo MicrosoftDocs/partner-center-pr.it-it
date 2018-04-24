@@ -3,11 +3,11 @@ title: 'Vendere le sottoscrizioni di Minecraft: Education Edition ai clienti del
 description: 'Vendere le sottoscrizioni di Minecraft: Education Edition ai clienti del settore istruzione'
 author: KPacquer
 keywords: Authorized Education Partner
-ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 276e5365eec99468becf9522284c6048f3750011
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendere le sottoscrizioni di Minecraft: Education Edition ai clienti del settore istruzione
 
@@ -36,7 +36,7 @@ Microsoft offre prezzi ridotti speciali per gruppi selezionati di utenti, ad ese
 
 **Controllare le tue qualificazioni come rivenditore**
 
-1.  Nel menu **Dashboard** seleziona **Impostazioni account**.
+1.  In alto a destra nel **dashboard** seleziona **Impostazioni** e quindi seleziona **Tutte le impostazioni**.
 2.  Nel tuo **Profilo partner**, nella sezione **Info sul programma CSP** cerca **Qualificazioni rivenditore**.
 3.  Se non vedi l'opzione **Qualificazioni rivenditore** significa che non sei ancora stato autorizzato all'acquisto di offerte speciali.
 

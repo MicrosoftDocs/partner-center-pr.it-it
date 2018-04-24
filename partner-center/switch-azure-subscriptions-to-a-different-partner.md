@@ -4,11 +4,11 @@ description: Un cliente può cambiare il partner del programma Cloud Solution Pr
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: sottoscrizione di azure, cambiare partner, sostituire partner, ottenere nuovo partner, partner diverso
-ms.openlocfilehash: fa4e7128a052c291f26f9ff47101c85bcd764bc1
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 5aa7bdd710268e6fe251e153c0a83999497f35dd
+ms.sourcegitcommit: d249bea4296f862112e8974706d1dc81c0a20580
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 03/30/2018
 ---
 # <a name="transfer-azure-subscriptions"></a>Trasferire le sottoscrizioni Azure 
 
@@ -32,7 +32,7 @@ Un cliente può decidere di passare a un partner Cloud Solution Provider o a un 
 
     Creare un ticket di servizio Azure dal Centro per i partner per richiedere un trasferimento della sottoscrizione:
 
-    -   Nel menu Dashboard del Centro per i partner seleziona **Clienti**, seleziona il cliente nell'elenco e quindi seleziona **Gestione servizi**. Nella sezione **Ticket di supporto** seleziona l'elenco a discesa **Nuovo ticket** e scegli **Microsoft Azure**.
+    -   Nel menu Dashboard seleziona **Clienti**, seleziona il cliente nell'elenco e quindi seleziona **Gestione servizi**. Nella sezione **Ticket di supporto** seleziona l'elenco a discesa **Nuovo ticket** e scegli **Microsoft Azure**.
 
     -   Nel portale di Azure seleziona **Nuova richiesta di supporto**.
 
@@ -57,7 +57,7 @@ Un cliente può decidere di passare a un partner Cloud Solution Provider o a un 
 
     Esamina il modulo, compila le informazioni sul nuovo partner e firmalo. Verifica che per il nuovo cliente sia in vigore un contratto. Invia il modulo al Partner of Record corrente.
 
-    *Importante*: se il nuovo partner CSP non ha una relazione come rivenditore con il cliente, deve stabilirne una prima del trasferimento della sottoscrizione. [Puoi trovare informazioni sulla procedura qui](https://int.msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx).
+    *Importante*: se il nuovo partner CSP non ha una relazione come rivenditore con il cliente, deve stabilirne una prima del trasferimento della sottoscrizione. [Puoi trovare informazioni sulla procedura qui](request-a-relationship-with-a-customer.md).
 
 5.  Partner corrente:
 

@@ -1,14 +1,14 @@
 ---
 title: Aggiungere licenze o servizi a una sottoscrizione esistente | Centro
-description: "Se il cliente necessita di più licenze rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione."
+description: Se il cliente necessita di più licenze rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 keywords: aggiungere licenze a una sottoscrizione esistente, aggiungere postazioni a una sottoscrizione esistente, modificare una sottoscrizione, cambiare una sottoscrizione, acquistare ulteriori licenze per un cliente
-ms.openlocfilehash: c5d5a2e57385a46b6f64d7632593735e026f0dcb
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+ms.openlocfilehash: 1f23892efab9e00fa492eb96d894763276bf673a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Aggiungere licenze o servizi a una sottoscrizione esistente
 
@@ -88,7 +88,7 @@ Per altre informazioni sull'impatto di queste operazioni sulla fatturazione, ved
 1.  Per verificare se una sottoscrizione è idonea per l'aggiornamento, scegli il cliente e quindi apri l'elenco delle sottoscrizioni.
 2.  Se la sottoscrizione può essere aggiornata, vedrai un'icona delle informazioni subito dopo il nome della sottoscrizione. Passa il puntatore su questa icona e quindi seleziona **Aggiorna ora**.
 3.  Seleziona la nuova offerta e quindi scegli **Invia**.
-4.  Potrebbero essere necessarie altre operazioni per la transizione di alcuni account utente per determinati servizi. In tal caso, nel Centro per i partner viene fornito un elenco di account e servizi interessati. Per informazioni, vedi l'articolo della Knowledge Base relativo ai [problemi di riassegnazione delle licenze quando si modifica il piano di Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Potrebbero essere necessarie altre operazioni per la transizione di alcuni account utente per determinati servizi. In tal caso, nel dashboard del partner viene fornito un elenco degli account e dei servizi interessati. Per informazioni, vedi l'articolo della Knowledge Base relativo ai [problemi di riassegnazione delle licenze quando si modifica il piano di Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

@@ -3,22 +3,22 @@ title: Spostamento dall'interfaccia di amministrazione partner al Centro per i p
 description: Trova nel Centro per i partner le funzionalità che hai usato nell'interfaccia di amministrazione partner
 author: labrenne
 keywords: PAC, amministratore di Office 365, funzionalità PAC
-ms.openlocfilehash: 5ead4e1461050ff093b91ffc836984f77f59400f
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.openlocfilehash: 7bcb12a918cf007a474287183c2aa0956c161431
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="moving-from-partner-admin-center-pac-to-partner-center"></a>Spostamento dall'interfaccia di amministrazione partner (PAC) al Centro per i partner
+# <a name="moving-from-partner-admin-center-pac-to-the-partner-dashboard"></a>Passare dall'interfaccia di amministrazione partner (PAC) al dashboard del partner
 
 Ambito di applicazione
 - Centro per i partner
 - Interfaccia di amministrazione partner
 
-Benvenuto/a nel Centro per i partner! Il Centro per i partner sta diventando l'unica posizione in cui gestirai la partnership con Microsoft e con i tuoi clienti. Nel Centro per i partner puoi gestire l'adesione, i riferimenti dei clienti, gli incentivi e tutti gli altri aspetti del programma Cloud Solution Provider (CSP). Inoltre, potrai eseguire la maggior parte delle operazioni effettuate in PAC anche se alcune funzionalità o azioni funzioneranno in modo diverso. 
+Benvenuto nel dashboard del partner Il dashboard del partner sta diventando l'unica posizione in cui gestirai la partnership con Microsoft e con i tuoi clienti. Nel dashboard del partner puoi gestire l'adesione, le segnalazioni di clienti, gli incentivi e tutti gli altri aspetti del programma Cloud Solution Provider (CSP). Inoltre, potrai eseguire la maggior parte delle operazioni effettuate in PAC, anche se alcune funzionalità o azioni funzioneranno in modo diverso. 
 
 
-|**Operazione**   |**PAC**   |**Centro per i partner**   |
+|**Operazione**   |**PAC**   |**Dashboard del partner**   |
 |--------------|:--------------|:---------------|
 |La panoramica generale delle attività dell'account e dei clienti|Schermata Home|Dashboard|
 |Acquisire nuovi clienti e fornire le offerte per i servizi a pagamento e versioni di valutazione|Sviluppo dell'attività -> Invia offerta|Le offerte a pagamento non sono disponibili. Le versioni di valutazione CSP sono disponibili se il partner di Advisor viene convertito in un rivenditore indiretto CSP e associato a un provider indiretto CSP che supporta le versioni di prova. |
@@ -31,4 +31,4 @@ Benvenuto/a nel Centro per i partner! Il Centro per i partner sta diventando l'u
 |Visualizzare lo stato di integrità di Microsoft Online Services che gestisci|Integrità del servizio -> Integrità aggregata|Dashboard -> Integrità del servizio|
 
 >Importante<br>
-Non potrai inviare offerte a pagamento e di versioni di valutazione ai clienti tramite il Centro per i partner. Inoltre, per effettuare la ricerca dei clienti nel Centro per i partner, utilizza il nome del cliente o i domini del cliente disponibili quando hai stabilito la relazione di partner con il cliente.
+Non puoi inviare offerte a pagamento e di versioni di valutazione ai clienti tramite il dashboard del partner. Inoltre, per effettuare la ricerca dei clienti nel dashboard del partner, utilizza il nome del cliente o i domini del cliente disponibili quando hai stabilito la relazione di partner con il cliente.

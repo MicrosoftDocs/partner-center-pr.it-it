@@ -3,11 +3,11 @@ title: Adesione a Microsoft Partner Network | Centro per i partner
 description: Scopri i vantaggi dell'adesione a Microsoft Partner Network.
 author: MaggiePucciEvans
 keywords: partner, partnership, MPN, Microsoft Partner Network, action pack, MAPS, abbonamento action pack, vantaggi, vantaggi MPN, adesione
-ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
-ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
+ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="partner-with-microsoft"></a>Diventare partner Microsoft
 
@@ -36,15 +36,15 @@ Microsoft Partner Network offre tre tipi di adesione. Ciascun tipo di adesione t
     [Altre informazioni sul conseguimento delle competenze Silver e Gold](https://partner.microsoft.com/membership/competencies)
 
    
-## <a name="get-started-with-partner-center"></a>Introduzione al Centro per i partner
+## <a name="get-started-with-the-partner-dashboard"></a>Informazioni di base sul dashboard del partner
 
-Per rendere più semplice la tua collaborazione con Microsoft e aiutarti a risparmiare tempo e denaro, stiamo lavorando dietro le quinte per spostare funzionalità, caratteristiche e flussi di lavoro attualmente distribuiti in più siti Web, oltre a vari strumenti, nel Centro per i partner, questo sito. 
+Per rendere più semplice la tua collaborazione con Microsoft e aiutarti a risparmiare tempo e denaro, stiamo lavorando dietro le quinte per spostare funzionalità, caratteristiche e flussi di lavoro attualmente distribuiti in più siti Web, oltre a vari strumenti, nel dashboard del partner, questo sito. 
 
-Man mano che funzionalità specifiche passano nel Centro per i partner, i siti legacy che le ospitavano vengono ritirati. Per continuare a usufruire di queste funzionalità, dovrai creare un account in questo sito, il Centro per i partner. 
+Man mano che funzionalità specifiche passano nel dashboard del partner, i siti legacy che le ospitavano vengono ritirati. Per continuare a usufruire di queste funzionalità, dovrai creare un account in questo sito, il dashboard del partner. 
 
-Ad esempio, se ottenevi e gestivi segnalazioni in Pinpoint, tale sito è stato ritirato e tutte le funzionalità correlate alle segnalazioni sono ora nel Centro per i partner. Per iniziare a usare il Centro per i partner, procedi come segue:   
+Ad esempio, se ottenevi e gestivi segnalazioni in Pinpoint, tale sito è stato ritirato e tutte le funzionalità correlate alle segnalazioni sono ora nel dashboard del partner. Per iniziare a usare il dashboard del partner, procedi come segue:   
 
--   [Crea un account nel Centro per i partner](mpn-create-a-partner-center-account.md)
+-   [Crea un account del dashboard del partner](mpn-create-a-partner-center-account.md)
 
 -   [Crea un profilo di lavoro per ottenere le segnalazioni di clienti](create-a-marketing-profile.md)
 

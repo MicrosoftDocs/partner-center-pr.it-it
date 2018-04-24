@@ -1,14 +1,14 @@
 ---
-title: "Controllare l'integrità del servizio | Centro per i partner"
-description: "Una delle prime cose che è possibile fare quando un cliente segnala problemi con un servizio è controllare l'integrità del servizio."
+title: Controllare l'integrità del servizio | Centro per i partner
+description: Una delle prime cose che è possibile fare quando un cliente segnala problemi con un servizio è controllare l'integrità del servizio.
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
 Keywords: health, service health,service problems
-ms.openlocfilehash: e61b9bb40273dc1b8f8ef536b2e7e32afc4bfe89
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: bd55232bb1b7326613114d53e8b75ade353a676b
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="check-service-health"></a>Controllare l'integrità del servizio
 
@@ -20,13 +20,11 @@ Una delle prime cose che è possibile fare quando un cliente segnala problemi co
 
 **Controllare l'integrità del servizio**
 
-1.  Nel menu **Dashboard** seleziona **Clienti**. Scegli un cliente nell'elenco.
+1.  Seleziona **Integrità del servizio** dal menu **Dashboard**. 
 
-2.  Nel menu del cliente seleziona **Gestione servizi**.
+2.  Vedrai visualizzati tutti i tuoi servizi, accompagnati da indicazioni specifiche in caso di problemi di integrità. 
 
-3.  Per ogni servizio dell'account del cliente, puoi scegliere **Visualizza integrità servizio** per visualizzare le metriche che indicano se il servizio funziona correttamente, gli annunci sugli aggiornamenti o sulle interruzioni previsti e i dati della cronologia.
-
-Durante un'interruzione del servizio, Microsoft fornisce aggiornamenti periodici man mano che lavora per risolvere il problema. Il modo migliore per visualizzare questi aggiornamenti consiste nell'usare il **Centro notifiche** nel dashboard del Centro per i partner. Queste notifiche vengono visualizzate anche nel portale di Microsoft Azure o nell'interfaccia di amministrazione di Office 365.
+Durante un'interruzione del servizio, Microsoft fornisce aggiornamenti periodici man mano che lavora per risolvere il problema. Il modo migliore per visualizzare questi aggiornamenti consiste nell'usare il **Centro notifiche** nel dashboard del partner. Queste notifiche vengono visualizzate anche nel portale di Microsoft Azure o nell'interfaccia di amministrazione di Office 365.
 
 Se il problema persiste dopo la fine dell'interruzione del servizio, invia una richiesta di servizio. Vedi [Segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).
 

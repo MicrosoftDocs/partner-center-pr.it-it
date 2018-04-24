@@ -4,11 +4,11 @@ description: Dopo aver creato un record del cliente nel Centro per i partner, pu
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
-ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
-ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
+ms.openlocfilehash: 5bb34d1b98cf8890bcc092c4fe6c8dbe502ed4a1
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/01/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
@@ -18,9 +18,9 @@ ms.lasthandoff: 03/01/2018
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
-Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo.
+Dopo aver creato un record del cliente nel dashboard del partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo.
 
-Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elenco delle offerte limitate, visita la pagina Prezzi e offerte del Centro per i partner. 
+Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elenco delle offerte limitate, visita la pagina Prezzi e offerte del dashboard del partner. 
 
 
 **Creare una nuova sottoscrizione**

@@ -1,12 +1,12 @@
 ---
 title: Prezzi e offerte | Centro per i partner
-description: 
+description: ''
 author: labrenne
-ms.openlocfilehash: 64a7b6c3f23a2597bd04398fb553f6049e038925
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
+ms.openlocfilehash: 6ab870da8008d72751956c2f2a103c638ed393f7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="pricing-and-offers"></a>Prezzi e offerte
 
@@ -14,15 +14,15 @@ ms.lasthandoff: 11/01/2017
 
 -  Centro per i partner
 
-Per vedere i più recenti listini prezzi e le offerte del programma Cloud Solution Provider, vai a **Dashboard > Prezzi e offerte**. Troverai listini prezzi separati per i servizi basati su licenza, come Office 365, Microsoft Dynamics CRM ed Enterprise Mobility Suite, e per i servizi basati sull'uso, come Azure. 
+Per vedere i listini prezzi e le offerte più recenti del programma Cloud Solution Provider, vai a **Vendi > Prezzi e offerte**. Troverai listini prezzi separati per i servizi basati su licenza, come Office 365, Microsoft Dynamics CRM ed Enterprise Mobility Suite, e per i servizi basati sull'uso, come Azure. 
 
-L'elenco di offerte include le diverse famiglie di prodotti che possono essere acquistate tramite il Centro per i partner. Queste includono attualmente Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM e Microsoft Azure. L'elenco è destinato ad aumentare.
+L'elenco di offerte include le diverse famiglie di prodotti che possono essere acquistate tramite il dashboard del partner. Queste includono attualmente Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM e Microsoft Azure. L'elenco è destinato ad aumentare.
 
 All'interno di ciascuna di queste famiglie di prodotti sono disponibili per la vendita SKU e aggregazioni di prodotti differenti, a seconda della tua attività. Puoi sempre accedere ai dettagli più recenti su ognuna di queste utilizzando la matrice delle offerte per i rivenditori cloud, disponibile nella pagina Prezzi e offerte.
 
 ## <a name="pricelist-preview-and-change-frequency"></a>Anteprima e frequenza di modifica dei listini prezzi 
 
-I servizi basati su licenza includono un'anteprima del listino prezzi, fornita 30 giorni prima delle modifiche. Per visualizzare l'anteprima del listino prezzi, vai a **Dashboard > Prezzi e offerte**. Non esiste alcuna anteprima di prezzo per i servizi basati sull'utilizzo, poiché questi servizi sono dinamici. Nella tabella seguente viene illustrato come leggere la tabella dei listini prezzi.
+I servizi basati su licenza includono un'anteprima del listino prezzi, fornita 30 giorni prima delle modifiche. Per visualizzare l'anteprima del listino prezzi, vai a **Vendi > Prezzi e offerte**. Non esiste alcuna anteprima di prezzo per i servizi basati sull'utilizzo, poiché questi servizi sono dinamici. Nella tabella seguente viene illustrato come leggere la tabella dei listini prezzi.
 
 |**Componente**        |**Definizione**      |
 |:-----------   |:-----------   |
@@ -45,8 +45,8 @@ I servizi basati su licenza includono un'anteprima del listino prezzi, fornita 3
 
 Consulta la matrice delle offerte per i rivenditori cloud nella pagina Prezzi e offerte per visualizzare le differenti SKU e aggregazioni di prodotti disponibili per le tue attività di vendita. La matrice delle offerte include le offerte disponibili per ognuna delle impostazioni locali. Se un elemento si trova nel listino prezzi ma non ancora nella matrice, significa che i prodotti non possono ancora essere ordinati. Non appena sono disponibili per essere ordinati, la matrice delle offerte viene aggiornata.
 
-Per i partner CSP che utilizzano i kit di sviluppo software (SDK) del Centro per i partner. Inoltre, Microsoft pubblica un elenco dei servizi di Azure in CSP nella pagina Prezzi e offerte.
+Per i partner CSP che utilizzano i kit di sviluppo software (SDK) del dashboard del partner. Inoltre, Microsoft pubblica un elenco dei servizi di Azure in CSP nella pagina Prezzi e offerte.
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>Domande relative alla matrice delle offerte e al listino prezzi
 
-Se hai domande sulla matrice delle offerte o sul listino prezzi, invia una richiesta di assistenza tramite il Centro per i partner.
+Se hai domande sulla matrice delle offerte o sul listino prezzi, invia una richiesta di assistenza tramite il dashboard del partner.

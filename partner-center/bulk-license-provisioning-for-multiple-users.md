@@ -1,14 +1,14 @@
 ---
-title: "Assegnare o revocare licenze a più utenti | Centro per i partner"
-description: "Puoi assegnare licenze e servizi a un utente o a più utenti contemporaneamente nell'account di un cliente e revocare le assegnazioni di licenze per gli utenti."
+title: Assegnare o revocare licenze a più utenti | Centro per i partner
+description: Puoi assegnare licenze e servizi a un utente o a più utenti contemporaneamente nell'account di un cliente e revocare le assegnazioni di licenze per gli utenti.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 Keywords: assign license, revoke license, assign to multiple users,
-ms.openlocfilehash: 513e2336d831095fcabc408db5fc467d8e909e36
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: e8116e5955fee38b628d72740ffc3d376115aad8
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Assegnare o revocare licenze a più utenti
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 12/21/2017
 
 Puoi assegnare licenze e servizi a un utente o a più utenti contemporaneamente nell'account di un cliente e revocare le assegnazioni di licenze per gli utenti.
 
-Il Centro per i partner tiene traccia e mostra tutti i diritti di licenza di proprietà dei clienti.
+Il dashboard del partner tiene traccia e mostra tutti i diritti di licenza di proprietà dei clienti.
 
 ## <a name="in-this-section"></a>Contenuto della sezione
 
@@ -55,7 +55,7 @@ Il Centro per i partner tiene traccia e mostra tutti i diritti di licenza di pro
 7.  Puoi selezionare più di un prodotto per gli utenti selezionando la casella di controllo per ogni prodotto.
     -   Seleziona **Visualizza piani di servizio** per qualsiasi prodotto, per visualizzare e selezionare i piani di servizio di cui hanno bisogno gli utenti.
 
-8.  Seleziona **Salva**. Il Centro per i partner apre pagina di conferma **Licenze aggiornate** in cui sono elencati gli utenti e le nuove licenze.
+8.  Seleziona **Salva**. Nel dashboard del partner viene aperta la pagina di conferma **Licenze aggiornate**, in cui sono elencati gli utenti e le nuove licenze.
 
 **Nota** Alcuni prodotti Microsoft potrebbero non essere disponibili in determinate aree geografiche. Altri prodotti dipendono da altri prodotti o servizi o non possono essere assegnati insieme allo stesso utente. Dopo aver salvato, la pagina di conferma elenca i risultati per tutti gli utenti per le assegnazioni di licenze corrette e gli eventuali errori d assegnazione.
 

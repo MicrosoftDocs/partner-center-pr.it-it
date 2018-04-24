@@ -3,12 +3,12 @@ title: Creare un profilo di lavoro | Centro per i partner
 description: Crea un profilo di lavoro nel Centro per i partner per ricevere i lead di vendita da Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-keywords: "pinpoint, riferimenti, lead di vendita, C2PC, profilo della società, commercializzare la tua azienda, trovare un partner, trovare un provider di soluzioni, profilo di lavoro, profilo di marketing"
-ms.openlocfilehash: e4e663d5c148f72f7ad352e21c4178a95e044c5f
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+keywords: pinpoint, riferimenti, lead di vendita, C2PC, profilo della società, commercializzare la tua azienda, trovare un partner, trovare un provider di soluzioni, profilo di lavoro, profilo di marketing
+ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 04/08/2018
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -38,21 +38,19 @@ Il primo passaggio per raggiungere questi lead consiste nel creare un profilo di
 *  **Segnalazioni da dipendenti di servizi e vendite Microsoft**. I clienti potenziali interessati alla distribuzione di soluzioni tecnologiche basate sul cloud contattano Microsoft per informazioni sui professionisti in grado di aiutarli a soddisfare le esigenze aziendali. Questi professionisti Microsoft possono quindi rimandare i clienti potenziali alla tua azienda.
 
 >**Importante**<br>
-Per aiutare i nostri partner a semplificare le operazioni aziendali, stiamo raggruppando in questo sito del Centro per i partner le funzionalità e le capacità che prima erano distribuite in diversi strumenti e siti Web. Come parte di questo impegno, abbiamo spostato tutte le funzionalità relative ai riferimenti nel Centro per i partner e abbiamo ritirato i siti Pinpoint e C2PC. Se hai usato Pinpoint o C2PC in passato per ottenere e gestire i riferimenti di Microsoft, dovrai creare un nuovo profilo di lavoro nel Centro per i partner per continuare a ottenere i riferimenti. Non è più supportata l'importazione dei profili da questi siti. 
+Per aiutare i nostri partner a semplificare le operazioni aziendali, stiamo raggruppando in questo sito, ossia nel dashboard del partner, le funzionalità e le capacità che prima erano distribuite in diversi strumenti e siti Web. Come parte di questo impegno, abbiamo spostato tutte le funzionalità relative alle segnalazioni nel dashboard del partner e abbiamo ritirato i siti Pinpoint e C2PC. Se hai usato Pinpoint o C2PC in passato per ottenere e gestire le segnalazioni di Microsoft, dovrai creare un nuovo profilo di lavoro nel dashboard del partner per continuare a ottenere le segnalazioni. Non è più supportata l'importazione dei profili da questi siti. 
 
 ## <a name="create-a-profile"></a>Creare un profilo
 
->**Nota** per poter creare un profilo di lavoro devi avere un account del Centro per i partner. Se non hai già un account del Centro per i partner, vedi [Creare un account del Centro per i partner](mpn-create-a-partner-center-account.md) per informazioni su come crearne uno. 
+>**Nota** per poter creare un profilo di lavoro devi avere un account del dashboard del partner. Se non hai già un account del dashboard del partner, vedi [Creare un account del dashboard del partner](mpn-create-a-partner-center-account.md) per informazioni su come crearne uno. 
 
 Crea profili per ogni area geografica in cui sei autorizzato a svolgere la tua attività. 
 
-1.  Accedi al [Centro per i partner](http://go.microsoft.com/fwlink/p/?LinkId=808956) utilizzando un [account di amministratore globale o agente amministratore](create-user-accounts-and-set-permissions.md).
+1.  Nel menu **Dashboard** seleziona **Segnalazioni** &gt; **Profili di lavoro** &gt; seleziona un paese/un'area geografica > **[Crea un profilo di lavoro](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-2.  Nel menu **Dashboard** seleziona **Segnalazioni** &gt; **Visualizza profili di lavoro** &gt;, seleziona un paese/un'area geografica > **[Crea un profilo di lavoro](https://partnercenter.microsoft.com/pcv/publishing)**.
-
-3.  Nella pagina **Crea un profilo di lavoro** seleziona un'area geografica, quindi immetti le informazioni del profilo.
+2.  Nella pagina **Crea un profilo di lavoro** seleziona un'area geografica, quindi immetti le informazioni del profilo.
     
-    >**Nota**: mentre il Centro per i partner supporta più lingue, per alcuni elementi, ad esempio la descrizione e i tag in formato libero potrebbe essere necessario includere il testo da lingue diverse, come indicato in questo argomento.
+    >**Nota**: anche se il dashboard del partner supporta più lingue, per alcuni elementi, ad esempio la descrizione e i tag in formato libero, potrebbe essere necessario includere testo di lingue diverse, come indicato in questo argomento.
 
 ### <a href="" id="partner_info"></a>Informazioni sul partner
 
@@ -98,7 +96,7 @@ Altri tag utilizzati nella ricerca:
 
 Ti consigliamo di lasciare selezionata questa impostazione. 
 
-Man mano che dimostri i tuoi successi con i clienti attraverso il Centro per i partner o partecipando ad altri programmi o certificazioni Microsoft, aggiungeremo automaticamente delle approvazioni ai tuoi prodotti, servizi e settori specifici che hanno contribuito ai tuoi successi. Le approvazioni sono un fattore importante nei risultati della ricerca.
+Man mano che dimostri i tuoi successi con i clienti attraverso il dashboard del partner o partecipando ad altri programmi o certificazioni Microsoft, aggiungeremo automaticamente delle approvazioni ai tuoi prodotti, servizi e settori specifici che hanno contribuito a tali successi. Le approvazioni sono un fattore importante nei risultati della ricerca.
 
 Se tuttavia esistono dei prodotti per cui fornisci dei servizi che preferiresti che non venissero visualizzati nel tuo profilo, puoi deselezionare la casella e gestire il profilo manualmente. Queste approvazioni risulteranno nascoste alla vista dei clienti, ma potrai aggiungerle nuovamente al profilo in qualsiasi momento.
 

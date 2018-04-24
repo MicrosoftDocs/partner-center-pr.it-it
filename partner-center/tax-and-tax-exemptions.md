@@ -1,13 +1,13 @@
 ---
 title: Imposte ed esenzioni fiscali | Centro per i partner
-description: "Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da parte dei partner, Microsoft non è sempre tenuta all'imposizione dell'IVA nelle fatture per i partner."
+description: Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da parte dei partner, Microsoft non è sempre tenuta all'imposizione dell'IVA nelle fatture per i partner.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-ms.openlocfilehash: 91a25481aa3074166a2010ef3e309767183829f0
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
+ms.openlocfilehash: bc1bee6104c5eb7f540e9379305764d9b040fb6b
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="tax-and-tax-exemptions"></a>Imposte ed esenzioni fiscali
 
@@ -23,7 +23,7 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 
 1.  Cerca il tuo **ID Microsoft** nel menu Dashboard &gt; **Impostazioni account** &gt; **Profilo organizzazione**.
 2.  Cerca il tuo **ID MPN** nel menu Dashboard &gt; **Impostazioni account** &gt; **Profilo partner**.
-3.  Crea un nuovo ticket di supporto. Nel menu Dashboard seleziona **Ticket di supporto** &gt; **Ticket Centro per i partner** &gt; **Nuovo ticket**.
+3.  Crea un nuovo ticket di supporto. Nel menu Dashboard seleziona **Richieste di servizio** &gt; **Richieste Centro per i partner** &gt; **Nuova richiesta**.
 4.  Compila il modulo. In **Tipo di problema** scegli **Non è possibile gestire il profilo personale**. Includi il tuo ID MPN e ID Microsoft nella descrizione.
 5.  Dopo aver inviato il ticket, Microsoft ti invierà un'e-mail per ottenere altre informazioni. Allega la documentazione di supporto appropriata nella risposta per i certificati di esenzione IVA.
 

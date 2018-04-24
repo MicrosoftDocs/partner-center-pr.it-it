@@ -2,11 +2,11 @@
 title: Creare un account del Centro per i partner | Centro per i partner
 description: I membri del programma Microsoft Partner Network devono creare gli account del Centro per i partner per gestire i vantaggi e le competenze di rete e creare un profilo aziendale.
 author: MaggiePucciEvans
-ms.openlocfilehash: 3020524ba6f41af31001a808af1d7a1aa394592a
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: 3b1d54e3d95a7ea1bcad0643e685d9313c6ed978
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-a-partner-center-account"></a>Creare un account nel Centro per i partner
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 11/28/2017
 
 Questo articolo spiega come creare un account nel Centro per i Partner ed è progettato per i partner che spostano le proprie informazioni relative all'adesione alla rete di partner dal Partner Membership Center al Centro per i partner. 
 
-Prima di poter creare un account nel Centro per i partner o iscriverti a un programma per i partner, la tua organizzazione deve entrare a far parte di Microsoft Partner Network. Se non sei un membro della rete, puoi [iscriverti ora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx). [Ulteriori informazioni](https://partner.microsoft.com/membership) sull'adesione a Microsoft Partner Network.  
+Prima di poter creare un account nel Centro per i partner o iscriverti a un programma per i partner, la tua organizzazione deve entrare a far parte di Microsoft Partner Network. Se non sei un membro della rete, puoi [iscriverti ora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [Ulteriori informazioni](https://partner.microsoft.com/membership) sull'adesione a Microsoft Partner Network.  
 
 Dopo aver creato un account nel Centro per i partner potrai:
 
@@ -64,9 +64,9 @@ Queste informazioni verranno verificate durante il processo di creazione dell'ac
 
 5.  Verifica di essere stato aggiunto al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, devi disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attieniti alla procedura seguente:
 
-    a. Seleziona **Impostazioni account > Gestione utenti** dal menu **Dashboard** e quindi seleziona il tuo nome dall'elenco degli utenti. 
+    a. Nel **dashboard** seleziona l'icona **Impostazioni** e quindi seleziona **Gestione utenti**.  
 
-    b. Seleziona **Agente amministratore** se non è già selezionato e quindi seleziona **Aggiorna**. 
+    b. Seleziona il tuo nome nell'elenco degli utenti, quindi **Agente amministratore** se non è già selezionato. Seleziona **Aggiorna**.  
 
 ## <a name="next-steps"></a>Passaggi successivi
 

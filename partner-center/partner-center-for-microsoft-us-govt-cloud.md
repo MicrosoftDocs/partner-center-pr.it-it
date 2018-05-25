@@ -1,12 +1,12 @@
 ---
 title: Centro per i partner per Microsoft Cloud per il governo statunitense | Centro per i partner per Microsoft Cloud per il governo statunitense
-description: "Il Centro per i partner per Microsoft Cloud per il governo statunitense è il portale aziendale per i partner Microsoft che desiderano offrire soluzioni cloud Microsoft ai clienti che lavorano con agenzie governative degli Stati Uniti."
+description: Il Centro per i partner per Microsoft Cloud per il governo statunitense è il portale aziendale per i partner Microsoft che desiderano offrire soluzioni cloud Microsoft ai clienti che lavorano con agenzie governative degli Stati Uniti.
 author: MaggiePucciEvans
-ms.openlocfilehash: 829c1cdc6568c1bde2e2fff594632acd90a4ee16
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+ms.openlocfilehash: 4f2fb444b3d0fe47b53b58429f5afb14bf00ed3b
+ms.sourcegitcommit: 089bdaa35976caf347bece5b890c32dcd074d85a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 04/18/2018
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Centro per i partner per Microsoft Cloud per il governo statunitense
 
@@ -51,3 +51,5 @@ Le seguenti attività del Centro per i partner sono gestite tramite il portale d
 Per informazioni sulla gestione di utenti e licenze, vedi la pagina sulla [gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud per il governo statunitense](user-management-in-partner-center-for-microsoft-us-govt-cloud.md).
 
 Per informazioni sull'iscrizione a CSP per Microsoft Cloud per il governo statunitense, vedi [Iscrizione a CSP per Microsoft Cloud per il governo statunitense](enroll-in-csp-for-microsoft-us-govt-cloud.md).
+
+Per le domande frequenti, vedi [Domande frequenti sul programma CSP per Microsoft Cloud for US Government](faq-for-us-govt-cloud.md).

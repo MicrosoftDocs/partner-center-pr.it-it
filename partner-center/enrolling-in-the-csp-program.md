@@ -2,11 +2,11 @@
 title: Iscriversi al programma Cloud Solution Provider | Centro per i partner
 description: Comprendi i diversi modelli per la vendita in CSP e determina qual è il più adatto alla tua attività
 author: labrenne
-ms.openlocfilehash: f1f5fcdda8c162ae42fb5d619c8ee04e420b4c8c
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 3fb617c78ac0120c2f1588022441469fa0345708
+ms.sourcegitcommit: f6681a0bd9f09242b3544448573d30f5a0aa1f3c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 04/26/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
@@ -29,6 +29,7 @@ Potrebbero essere necessari diversi giorni per esaminare e verificare le informa
 
 ### <a name="enroll-as-an-indirect-reseller"></a>Iscriversi come rivenditore indiretto
 
+
 1. Una volta iscritto come rivenditore indiretto, devi [trovare un provider indiretto](https://partnercenter.microsoft.com/partner/find-a-provider) con cui collaborare. Il provider con cui collabori ti indirizzerà clienti, gestirà gli acquisti di software che puoi vendere e si occuperà della fatturazione e del supporto ai clienti, consentendoti di concentrarti sulla creazione del tuo business di rivenditore.
 
 2. Il tuo amministratore globale deve configurare il tuo account nel dashboard del partner. L'amministratore globale può aggiungere i dipendenti dell'organizzazione che utilizzeranno il dashboard del partner, assegnare loro ruoli e autorizzazioni a seconda delle loro attività e configurare il profilo dell'organizzazione.
@@ -39,7 +40,7 @@ Potrebbero essere necessari diversi giorni per esaminare e verificare le informa
 
 ### <a name="enroll-as-a-direct-partner"></a>Iscriversi come partner diretto
 
->**Nota**<br> Stiamo aggiornando i requisiti di registrazione dei partner diretti e al momento non accettiamo nuove domande. Prevediamo di riaprire il processo di applicazione a partire dal secondo trimestre CY18. Ti consigliamo di prendere in considerazione la registrazione come rivenditore indiretto.
+>**Nota**<br> Stiamo aggiornando i requisiti di registrazione dei partner diretti e al momento non accettiamo nuove domande. Prevediamo di iniziare ad accettare nuove domande a partire dal 31 agosto. Ti consigliamo di prendere in considerazione la registrazione come rivenditore indiretto. 
 
 Come partner diretto, sei titolare della relazione completa con il cliente e con Microsoft.
 

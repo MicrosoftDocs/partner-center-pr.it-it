@@ -3,11 +3,11 @@ title: Usare i file di riconciliazione | Centro per i partner
 description: Per una visualizzazione delle voci relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal dashboard del Centro per i partner.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 51716e8abedf83237050cb51bc76e54a954cd28b
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -204,7 +204,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Nome di dominio del cliente, usato per identificare il cliente.</p></td>
+<td><p>Nome di dominio del cliente, usato per identificare il cliente. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -448,7 +448,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Nome di dominio del cliente, usato per identificare il cliente.</p></td>
+<td><p>Nome di dominio del cliente, usato per identificare il cliente. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -458,6 +458,34 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 </tbody>
 </table>
+
+## <a href="" id="onetimefiles"></a>Campi dei file acquisto una tantum
+
+|**Campo** |**Definizione**|
+|:----------------|:-----------------------------|
+|PartnerId |ID del partner, in formato GUID. |
+|CustomerId |ID Microsoft univoco, in formato GUID, usato per identificare il cliente. |
+|CustomerName |Nome dell'organizzazione del cliente registrato nel Centro per i partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema. |
+|CustomerDomainName |Nome di dominio del cliente. |
+|CustomerCountry |Paese in cui si trova il cliente. |
+|InvoiceNumber |Numero di fattura in cui viene visualizzata la transazione specificata. |
+|MpnId |ID MPN del partner CSP (diretto o indiretto). |
+|ID MPN rivenditore |Viene visualizzato solo nei file di riconciliazione per i partner nel modello indiretto. ID MPN del rivenditore nel record per la prenotazione. Corrisponde all'ID rivenditore elencato per la prenotazione specifica nel Centro per i partner. Se un partner CSP ha venduto la prenotazione direttamente al cliente, il relativo ID MPN è elencato due volte, sia come ID MPN che come ID MPN del rivenditore. Se per un partner CSP è presente un rivenditore senza ID MPN, il valore viene impostato sull'ID MPN del partner. Se il partner CSP rimuove un ID rivenditore, il valore verrà impostato su -1. |
+|OrderId |Identificatore univoco di un ordine nella piattaforma di fatturazione Microsoft. Può essere utile per identificare la prenotazione di Azure quando viene contattato il supporto tecnico, ma non per la riconciliazione. |
+|OrderDate |Data di effettuazione dell'ordine. |
+|ProductId |ID del prodotto. |
+|SkuId  |ID di una SKU particolare. |
+|AvailabilityId |ID di una disponibilità particolare. "Disponibilità" indica se una determinata SKU è disponibile per l'acquisto per il paese, la valuta, il segmento specificato e così via. |
+|SkuName  |Titolo di una particolare SKU. |
+|ProductName |Nome del prodotto. |
+|ChargeType |Tipo di addebito o rettifica. |
+|UnitPrice |Prezzo per prodotto ordinato. |
+|Quantity |Numero di prodotti ordinati. |
+|Subtotal |Totale al lordo delle imposte. Verifica che il subtotale corrisponda al totale previsto, in caso di sconto. |
+|TaxTotal |Totale di tutte le imposte applicabili. |
+|Total |Importo totale di questo acquisto. |
+|Currency |Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Verifica quando viene emessa la prima fattura e dopo qualsiasi aggiornamento importante della piattaforma di fatturazione. |
+|DiscountDetails |Elenco dettagliato di eventuali sconti pertinenti. |
 
 
 

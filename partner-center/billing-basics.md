@@ -3,11 +3,11 @@ title: Nozioni di base sulla fatturazione | Centro per i partner
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
-ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="billing-basics"></a>Nozioni di base sulla fatturazione
 
@@ -144,3 +144,32 @@ Azure funziona con un modello di "pagamento a consumo", in base al quale vengono
 </tbody>
 </table>
 
+## <a name="one-time-billing"></a>Fatturazione una tantum
+
+I partner del programma Cloud Solution Provider (CSP) possono offrire istanze prenotate ai clienti sulle macchine virtuali di Microsoft Azure. I clienti possono prenotare le macchine virtuali in anticipo, per uno o tre anni termini, e ottenere risparmi significativi sull'uso di Azure.   
+
+I clienti pagano anticipatamente le istanze di macchina virtuale riservate di Azure. Quando acquisti istanze di macchina virtuale riservate di Azure per conto di un cliente, riceverai le fatture e file di riconciliazione per questi addebiti una tantum. 
+
+>[!IMPORTANT]
+>Se acquisti istanze di macchina virtuale riservate di Azure per un cliente in un mercato con valuta diversa dalla tua, la valuta di fatturazione predefinita si basa sul mercato del cliente, non sulla tua sede. Se disponi di clienti in più mercati, riceverai fatture separate e file di riconciliazione per ogni valuta in cui i clienti necessitano della fatturazione, consentendoti di fatturare nella valuta appropriata. 
+
+Per accedere a file di riconciliazione e fatture con addebito una tantum, seleziona **Fatturazione** dal dashboard del partner, quindi seleziona **Una volta**. 
+
+### <a name="manage-your-one-time-billing"></a>Gestire la fatturazione una tantum
+
+#### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Visualizzare lo stato della fatturazione corrente, le fatture e i file di riconoscimento
+
+1.  Nel dashboard del partner, seleziona **Fatturazione** e **Una volta** per visualizzare lo stato di fatturazione. 
+2.  Seleziona una fattura o un file di riconoscimento per visualizzare informazioni più dettagliate. 
+
+#### <a name="view-a-customers-order-history"></a>Visualizzare la cronologia degli ordini di un cliente
+
+1.  Seleziona **Clienti** dal menu Dashboard.
+2.  Nella pagina **Clienti** trova il cliente di cui desideri visualizzare la cronologia ordini e seleziona la freccia giù per espandere il record del cliente. 
+3.  Seleziona **Visualizza ordini** per visualizzare la cronologia degli ordini.
+
+#### <a name="create-a-credit-or-void-note"></a>Creare un accredito o annullare una fattura
+
+In determinate situazioni, potresti avere l'esigenza di annullare una fattura ed emetterne una nuova. Ad esempio, un cliente può cambiare il nome della propria attività e ricevere una fattura in cui figura il vecchio nome. 
+
+Per annullare una fattura ed emetterne una nuova, scarica il modulo dalla pagina di fatturazione in Rettifiche.

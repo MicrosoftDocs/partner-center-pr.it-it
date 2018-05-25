@@ -1,14 +1,14 @@
 ---
 title: Leggere la fattura | Centro per i partner
-description: "La fattura è un riepilogo di tutti gli addebiti (per il programma, i prodotti e i clienti) per il periodo mensile corrente. È disponibile nel dashboard del Centro per i partner."
+description: La fattura è un riepilogo di tutti gli addebiti (per il programma, i prodotti e i clienti) per il periodo mensile corrente. È disponibile nel dashboard del Centro per i partner.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-keywords: "fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?"
-ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
+ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
@@ -97,29 +97,44 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 <td>Data fattura</td>
 <td>Data in cui ricevi la fattura.</td>
 </tr>
+
 <tr class="odd">
+<td>Condizioni di pagamento</td>
+<td>Per gli acquisti una tantum sarà sempre 60 giorni.</td>
+</tr>
+
+
+<tr class="even">
 <td>Data scadenza pagamento</td>
 <td>Data entro cui effettuare il pagamento.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Ordine d'acquisto del cliente</td>
 <td>Il numero del tuo ordine di acquisto.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Servizio clienti</td>
 <td>Indirizzo del sito Web per accedere al servizio clienti.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Destinatario del servizio</td>
-<td>Indirizzo in cui viene usato il servizio. (Questo è l'indirizzo legale della società associato alla verifica della società e non può essere modificato.)</td>
+<td>Indirizzo in cui viene usato il servizio. Questo è l'indirizzo legale della società associato alla verifica della società e non può essere modificato.</td>
 </tr>
 </tbody>
 </table>
 
- 
+## <a name="itemized-list-of-one-time-charges"></a>Elenco dettagliato dei costi una tantum
 
- 
-
+|**Campo** |**Definizione**|
+|:----------------|:-----------------------------|
+|Data |Data di acquisto. |
+|Descrizione |Nome del prodotto. |
+|Quantità |Il numero di prodotti (prenotazioni, ad esempio) acquistati. |
+|Prezzo unitario |Prezzo per prodotto (prenotazione, ad esempio). |
+|Sconti |Eventuali sconti applicabili. |
+|Importo pre-imposta |Totale parziale degli acquisti prima delle imposte. |
+|Imposta sulle vendite |Importo dell'imposta. |
+|Totale |Totale da pagare. |
  
 
 

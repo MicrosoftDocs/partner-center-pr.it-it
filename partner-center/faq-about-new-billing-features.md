@@ -3,11 +3,12 @@ title: Domande frequenti sulle nuove funzionalità di fatturazione | Centro per 
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: ''
 author: MaggiePucciEvans
-ms.openlocfilehash: 31c6625226fa24d56861739865c5988c9da260d0
-ms.sourcegitcommit: 770e46901be73dd18f0a95f1f813cbb102b4fd2e
+ms.openlocfilehash: 9cb79ba60c06d273bcf2d6435d9146c4920b3ace
+ms.sourcegitcommit: f1abc58390563a61a3a2678a7420cd54dfbe2d38
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/15/2018
+ms.lasthandoff: 06/01/2018
+ms.locfileid: "1936230"
 ---
 # <a name="faq-about-new-billing-features"></a>Domande frequenti sulle nuove funzionalità di fatturazione
 
@@ -661,6 +662,6 @@ Il 15 giugno il file di riconciliazione conterrà le seguenti righe di fatturazi
 
 |**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
 |-----------------|:-------------|:----------------|:------------|:------|------|
-|1/6/2018   | 30/6/2018   |$30   |1   |$30  |Rateizza le tariffe all'acquisto |
+|29/05/2018   | 30/06/2018   |$30   |1   |$30  |Rateizza le tariffe all'acquisto |
 
 Il rinnovo automatico della sottoscrizione avverrà il 1 giugno 2019.

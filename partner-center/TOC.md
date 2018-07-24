@@ -4,7 +4,7 @@
 ## [Ottenere Microsoft Action Pack](mpn-get-action-pack.md)
 ## [Ottenere l'adesione Silver o Gold](learn-about-competencies.md)
 ## [Ottenere i vantaggi dell'adesione](manage-your-partner-network-benefits.md)
-## [Rinnovare le offerte MPN](renew-mpn-offers.md)
+
 
 
 # [Cloud Solution Provider](csp-overview.md)
@@ -15,8 +15,8 @@
 ## [Modelli di contratto per il cliente](agreements.md)
 
 ## [Richiesta per la vendita nei cloud nazionali](csp-national-clouds-overview.md)
-### [Dashboard del partner per Microsoft Cloud per il governo statunitense](partner-center-for-microsoft-us-govt-cloud.md)
-### [Dashboard del partner per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md)
+### [Dashboard per i partner per Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
+### [Dashboard per i partner per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md)
 
 # [Gestire l'account del dashboard del partner](partner-center-account-setup.md)
 ## [Account aziendali e dashboard del partner](azure-active-directory-tenants-and-partner-center.md)
@@ -71,14 +71,17 @@
 ### [Spostare i clienti di servizi basati su licenza nel programma Cloud Service Provider nel dashboard del partner](transition-seat-based-services.md)
 ### [Aggiornare gli abbonamenti Dynamics AX a Dynamics 365](manual-subscription-migration.md)
 ### [Migrazione degli abbonamenti Office 365 Enterprise E4 alle nuove versioni di Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
+### [Migrare Skype for Business online piano 1 verso versioni più nuove di Office 365](skype-retiring.md)
 ### [Trasferire le sottoscrizioni Azure](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Vendere abbonamenti di Minecraft: Education Edition](minecraft-subscriptions.md)
+### [Vendere in settori specifici](Get-special-pricing-for-offers.md)
 ### [Migliorare i tassi di adozione e soddisfazione](increasing-adoption-and-satisfaction.md)
 ### [Semplificare la configurazione dei dispositivi con Windows Autopilot](autopilot.md)
 
 # Dati e analisi nel dashboard del partner
 ## [Acquisire dati e analizzare i dati aziendali](data-analysis-lp.md)
 ## [App Analisi del Centro per i Partner per Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Confrontare la tua azienda CSP con altri partner](partner-contributions.md)
 
 # [Collaborare con altri partner](work-with-other-partners.md)
 ## [Attività dei provider indiretti nel dashboard del partner](indirect-provider-tasks-in-partner-center.md)

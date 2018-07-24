@@ -4,11 +4,12 @@ description: Un cliente può cambiare il partner del programma Cloud Solution Pr
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: sottoscrizione di azure, cambiare partner, sostituire partner, ottenere nuovo partner, partner diverso
-ms.openlocfilehash: 5aa7bdd710268e6fe251e153c0a83999497f35dd
-ms.sourcegitcommit: d249bea4296f862112e8974706d1dc81c0a20580
+ms.openlocfilehash: a4b9c0a320808f1d8a4a630a035660813a3f9c74
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2018
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "2088958"
 ---
 # <a name="transfer-azure-subscriptions"></a>Trasferire le sottoscrizioni Azure 
 
@@ -50,8 +51,8 @@ Un cliente può decidere di passare a un partner Cloud Solution Provider o a un 
 
     -   ID sottoscrizione da trasferire. Nell'elenco dei clienti espanso seleziona **Visualizza sottoscrizioni**, quindi espandi la sottoscrizione scelta per vedere l'**ID sottoscrizione**.
 
-    >**Nota**<br> Il trasferimento di una sottoscrizione comporta la generazione di due ID sottoscrizione che verranno visualizzati nella pagina **Modifica sottoscrizione** della sottoscrizione trasferita: **1**- L'ID sottoscrizione del Centro per i partner viene utilizzato per scopi di fatturazione. Questo ID verrà visualizzato nel file di riconoscimento. 
-    **2**- L'ID sottoscrizione di Azure originale viene mantenuto e sarà visualizzato nel Centro per i partner e nel portale di gestione di Azure. **Durante la registrazione per i ticket di supporto, è necessario utilizzare entrambi gli ID.**
+    >**Nota**<br> Il trasferimento di una sottoscrizione comporta la generazione di due ID sottoscrizione che verranno visualizzati nella pagina **Modifica sottoscrizione** della sottoscrizione trasferita: **1**- L'ID sottoscrizione del Centro per i partner viene utilizzato per scopi di fatturazione. 
+    **2**- L'ID sottoscrizione di Azure originale viene mantenuto e sarà visualizzato nel Centro per i partner e nel portale di gestione di Azure. Questo ID verrà visualizzato nel file di riconoscimento.  **Durante la registrazione per i ticket di supporto è necessario utilizzare entrambi gli ID.**
 
 4.  Il cliente e nuovo partner per la sottoscrizione:
 

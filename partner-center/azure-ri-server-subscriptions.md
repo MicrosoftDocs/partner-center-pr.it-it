@@ -3,11 +3,12 @@ title: Istanze di macchina virtuale riservate di Azure (RI) + sottoscrizioni ser
 description: Attraverso l'introduzione di istanze riservate di Azure e sottoscrizioni server nel programma CSP, consentiamo ai nostri partner di far fronte alla richiesta in rapida crescita dei clienti di soluzioni più convenienti in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. Il programma CSP consente ai partner di acquisire, fornire e gestire sottoscrizioni server e istanze riservate di Azure per conto dei clienti commerciali tramite il Centro per i partner Microsoft e il portale di Azure.
 author: v-petand
 keywords: Azure, sottoscrizioni, VM, prenotazione, istanza riservata
-ms.openlocfilehash: 92b9bc437f383574527a9357239ee2460ebe4f46
-ms.sourcegitcommit: 933caff79bc4bf8855de4347f0bfde11662840f2
+ms.openlocfilehash: a86274f22c2c2cc8c24105e3b8937e6e297bae9d
+ms.sourcegitcommit: 2ce27f09e77eb1f6d7a33e7b154fec3b80ae36d1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 06/19/2018
+ms.locfileid: "2076041"
 ---
 # <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Istanze di macchina virtuale riservate di Azure (RI) + sottoscrizioni server per Azure
 
@@ -74,7 +75,8 @@ Di seguito è riportato un elenco completo delle risorse che ti consentiranno di
 -   [Webinar della panoramica sulle prenotazioni di Azure](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
 -   [Guida operativa all'e-commerce moderno](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx): guida completa che illustra aspetti operativi e criteri chiave come accordi, ordini tramite il Centro per i partner, fatturazione, dettagli del listino prezzi, incentivi, file di riconciliazione, API/SDK, Sandbox e servizi condivisi per i partner di Azure.
 -   [Foglio illustrativo sulla vendita](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
--   [Modulo per la concessione di licenze di Azure su University Partner](https://aka.ms/azure_partner_licensing)
+-   [Disponibilità nel paese di offerte moderne e matrice di valuta cliente](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
+-   [Modulo per la concessione di licenze di Azure per University Partner](https://aka.ms/azure_partner_licensing)
 -   [Domande frequenti sulle istanze riservate di Azure](https://www.yammer.com/cloudpartnercommunity/#/files/133462302)
 -   [Panoramica sui prezzi di Azure](https://azure.microsoft.com/en-us/pricing/#explore-cost)
 -   [Calcolatrice dei prezzi di Azure](https://azure.microsoft.com/en-us/pricing/calculator/)
@@ -90,7 +92,7 @@ Di seguito è riportato un elenco completo delle risorse che ti consentiranno di
 [Vantaggio Azure Hybrid](https://azure.microsoft.com/en-us/pricing/hybrid-benefit) ti consente di ottenere più valore dalle licenze di Windows Server e risparmiare fino al 40%* sulle macchine virtuali. Puoi utilizzare il vantaggio con Windows Server Datacenter e licenze Standard Edition con copertura Software Assurance. A seconda dell'edizione, puoi convertire o riutilizzare le tue licenze per eseguire macchine virtuali di Windows Server in Azure e pagare un costo di calcolo di base inferiore (i costi delle macchine virtuali Linux).
 
 Vantaggio Azure Hybrid - Il cloud più conveniente per la tua migrazione di Windows Server o SQL Server:
--   Risparmia fino all'82% su Windows Server con il vantaggio Azure Hybrid e le istanze riservate
+-   Risparmia fino all'80% su Windows Server con il vantaggio Azure Hybrid e le istanze riservate
 -   Risparmia fino al 30%* sulle migrazioni al database SQL di Azure2 con Vantaggio Azure Hybrid
 -   Procedi secondo i tuoi ritmi - Sposta solo alcuni carichi di lavoro o interi data center
 -   Massimizza i tuoi investimenti correnti in Software Assurance

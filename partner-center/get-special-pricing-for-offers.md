@@ -1,13 +1,14 @@
 ---
 title: Vendere in settori specifici | Centro per i partner
-Description: Microsoft provides special, reduced pricing for select groups of customers, such as for education, non-profit, and government uses, or for very large customer sets.
+Description: Microsoft provides special, reduced pricing for select groups of customers, including education customers, non-profit customers, and government users.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-ms.openlocfilehash: ba11aba6b0d687a8e8fd9680595004769a75ad01
-ms.sourcegitcommit: 83e71b6146e66689cc833090836cf9f4e47341ab
+ms.openlocfilehash: a45a362d4d2f6fbd9853ac03c8b034ed1937b99a
+ms.sourcegitcommit: 665f7e1363368ae6f986a252a3aa6e3f0997425e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/04/2018
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "2087641"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendere in settori specifici
 
@@ -15,30 +16,36 @@ ms.lasthandoff: 04/04/2018
 
 -  Centro per i partner
 
-Microsoft offre prezzi ridotti speciali per gruppi selezionati di utenti, ad esempio gli istituti di istruzioni, le organizzazioni no profit e gli enti pubblici oppure per set di clienti di dimensioni molto grandi. I rivenditori devono essere certificati prima di poter offrire questi prezzi. È inoltre necessario che il cliente sia qualificato per avere diritto al prezzo speciale.
+Microsoft offre prezzi ridotti speciali per gruppi selezionati di clienti, tra cui gli istituti didattici, le organizzazioni no profit, le aziende di piccole dimensioni e gli enti pubblici. Sia tu che il tuo cliente dovete essere qualificati prima di offrire loro speciali prezzi. 
+
+## <a name="requirements-to-sell-to-specialized-industries"></a>Requisiti per vendere a settori specifici
 
 |**Prezzi speciali**   |**Qualificazioni richieste al rivenditore**   |**Qualificazioni richieste al cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Formazione   |Diventa un [venditore autorizzato per il settore dell'istruzione](https://www.mepn.com/MEPN/AEPHome.aspx)   | Deve essere un [Qualified Education User](https://www.microsoft.com/Licensing/licensing-programs/licensing-for-industries.aspx#tab=2)   |
-|Governo   |Per vendere Azure, iscriviti tramite il [modulo di convalida per Microsoft Azure Government Cloud](http://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenza a enti pubblici, non è richiesta alcuna qualificazione.|   Nessuna|
-|No profit  |Nessuna   |Iscriviti tramite il [programma no profit Microsoft](https://nonprofit.microsoft.com/#/register) per essere idoneo   |
-Per altre informazioni, vedi il documento sulle [offerte speciali per le organizzazioni no profit](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)
+|Formazione   |Diventare un [venditore autorizzato per il settore della formazione](https://www.mepn.com).   | Essere un [Qualified Education User](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Ente pubblico   |Per vendere Azure, iscriviti tramite il [modulo di convalida per Microsoft Azure Government Cloud](http://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenza a enti pubblici, non è richiesta alcuna qualificazione.|   Nessuna|
+|No profit  |Nessuna<br>Devi avere un tenant di Azure Active Directory no profit.<br>Scopri di più sulle [offerte speciali per le organizzazioni no profit](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf).   |Iscriviti tramite il [programma no profit Microsoft](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
 
-**Controllare le tue qualificazioni come rivenditore**
 
-1.  Nel menu **Dashboard** seleziona **Impostazioni account**.
-2.  Nel tuo **Profilo partner**, nella sezione **Info sul programma CSP** cerca **Qualificazioni rivenditore**.
+## <a name="check-your-reseller-qualifications"></a>Controllare le tue qualificazioni come rivenditore
+
+1.  Nel dashboard per i partner seleziona l'icona a forma di ingranaggio nell'angolo superiore destro della finestra per aprire **Impostazioni account**.
+2.  Nella sezione **Info sul programma** del tuo **Profilo partner** cerca **Qualificazioni rivenditore**.
 3.  Se non vedi l'opzione **Qualificazioni rivenditore** significa che non sei ancora stato autorizzato all'acquisto di offerte speciali.
 
-**Controllare le qualificazioni dei clienti**
+## <a name="check-the-customer-qualifications"></a>Controllare le qualificazioni dei clienti
 
 1.  Nel menu **Dashboard** seleziona **Clienti**. Scegli il cliente nell'elenco.
 2.  Nel menu del cliente seleziona **Account**. Nella sezione **Informazioni azienda** cerca **Qualificazioni speciali**.
 3.  Se l'opzione **Qualificazioni speciali** è impostata su **Nessuna**, ma il cliente soddisfa in effetti i requisiti di qualificazione, puoi **aggiornare** i dettagli per includerle.
 
-**Dove trovare offerte speciali**
+## <a name="where-to-find-special-offers"></a>Dove trovare offerte speciali
 
-Una volta che tu e il tuo cliente siete qualificati per un programma di offerte speciali, segui la normale procedura per [creare una nuova sottoscrizione](create-a-new-subscription.md). Nel catalogo saranno disponibili le schede per le offerte speciali che puoi vendere come **Formazione**. 
+Una volta che tu e il tuo cliente siete qualificati per un programma di offerte speciali, seguite la normale procedura per [creare una nuova sottoscrizione](create-a-new-subscription.md). Nella sezione **Catalogo** della pagina **Nuova sottoscrizione** seleziona un settore specializzato per vedere le offerte speciali che puoi vendere.
+
+## <a name="see-also"></a>Vedi anche
+
+[Vendere le sottoscrizioni di Minecraft: Education Edition ai clienti del settore istruzione](minecraft-subscriptions.md)
 
 
  

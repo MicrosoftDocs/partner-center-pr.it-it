@@ -1,12 +1,14 @@
 ---
 title: Gestire i vantaggi del Microsoft Partner Network | Centro per i partner
-description: In qualità di membro del Microsoft Partner Network, hai diritto ad alcuni vantaggi. Illustra come attivare e gestire i vantaggi dell'adesione nel Centro per i partner.
+description: In qualità di membro del Microsoft Partner Network, hai il diritto di acquistare alcuni vantaggi. Illustra come attivare e gestire i vantaggi dell'adesione nel dashboard per i partner.
 author: MaggiePucciEvans
-ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: MPN, vantaggi dell'adesione, adesione
+ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207281"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gestire i vantaggi dell'adesione al Microsoft Partner Network
 
@@ -14,20 +16,19 @@ ms.lasthandoff: 04/08/2018
 
 -  Centro per i partner
 
-L'adesione al Microsoft Partner Network dà diritto ad alcuni vantaggi. Prima di poter acquistare e attivare i vantaggi, l'organizzazione deve entrare a far parte del Microsoft Partner Network. Se non sei un membro della rete, puoi iscriverti ora all'indirizzo [https://partner.microsoft.com](https://partner.microsoft.com).
+>[!IMPORTANT]
+>Questo articolo spiega come iniziare a usare Microsoft Partner Network (MPN) nel dashboard per i partner (in precedenza noto come Centro per i partner): questo sito. Se non hai ancora ricevuto un invito per spostare le informazioni sulla tua società dal Partner Membership Center (PMC) al dashboard per i partner, devi continuare a gestire i vantaggi per la tua adesione a MPN in PMC. [Accedi](https://partner.microsoft.com/_login?authType=OpenIdConnect) a PMC ora.   
 
->**Nota** Questo collegamento ti condurrà a un altro sito Web. Torna a questo sito, il Centro per i partner, per rinnovare e aggiornare l'adesione alla rete.
-
-Dopo l'adesione o il rinnovo dell'adesione al Microsoft Partner Network, puoi acquistare le offerte relative ai vantaggi.
+Quando partecipi a Microsoft Partner Network (MPN), ottieni tutti i vantaggi dell'adesione che consentono di creare e incrementare la tua attività. Se non sei un membro della rete di MPN, puoi iscriverti ora [al sito MPN](https://partner.microsoft.com/membership).
 
 
-## <a name="manage-your-membership-benefits"></a>Gestire i vantaggi dell'adesione
+## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Gestire i vantaggi dell'adesione nel dashboard
 
-Dopo avere acquistato un pacchetto di vantaggi, dovrai assegnare licenze, sottoscrizioni e altri vantaggi ai dipendenti per iniziare a usarli. 
+Dopo avere acquistato un pacchetto di vantaggi dell'adesione, dovrai ottenere le chiavi software e cedere licenze, sottoscrizioni e altri vantaggi ai dipendenti per iniziare a usarli. 
 
-I pacchetti di vantaggi includono le allocazioni delle licenze software con diritti di uso interno, i servizi cloud, le sottoscrizioni di Visual Studio e il supporto. 
+I pacchetti di vantaggi includono le allocazioni delle licenze software con diritti di uso interno, i servizi cloud, le sottoscrizioni di Visual Studio e il supporto. Puoi ottenere i dettagli delle sottoscrizioni di Action Pack sul sito [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Per visualizzare e gestire i vantaggi dell'adesione, seleziona **Vantaggi** dal menu **Dashboard**. Verrà visualizzata la pagina **Vantaggi**. 
+Per visualizzare e gestire i vantaggi dell'adesione, vai alla tua pagina [**Vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso).
 
 #### <a name="manage-software-benefits"></a>Gestire i vantaggi software
 
@@ -72,10 +73,11 @@ Se l'utente da assegnare non è nell'elenco, puoi [aggiungere nuovi utenti](crea
 
     Le sottoscrizioni possono essere riassegnate in qualsiasi momento rimuovendo un utente assegnato e assegnando un altro utente. 
 
+#### <a name="manage-technical-benefits"></a>Gestire i vantaggi tecnici
 
-#### <a name="manage-support-benefits"></a>Gestire i vantaggi del supporto
+1. Seleziona **Vantaggi tecnici** per visualizzare l'elenco dei vantaggi tecnici di Microsoft.
 
-1. Seleziona **Supporto** per visualizzare l'elenco dei vantaggi relativi al supporto tecnico Microsoft. 
+    I vantaggi tecnici possono includere gli interventi di supporto per i prodotti Microsoft, le ore di consulenza partner e i servizi di distribuzione e pre-vendita di prodotti tecnici.   
 
 2. Individua il vantaggio relativo al supporto che desideri iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli del vantaggio. 
 
@@ -83,11 +85,14 @@ Se l'utente da assegnare non è nell'elenco, puoi [aggiungere nuovi utenti](crea
    
     a.  Seleziona un utente dall'elenco. Se l'utente da assegnare non è nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
 
-    b.  Fornisci un indirizzo di posta elettronica dell'utente diverso da quello associato all'account del Centro per i partner. 
+    b.  Fornisci un indirizzo di posta elettronica dell'utente diverso da quello associato all'account del dashboard della tua società. 
     
-    Come misura di sicurezza, invieremo le istruzioni per accedere al Supporto Tecnico Clienti Microsoft a questo indirizzo di posta elettronica oltre che a quello dell'account del Centro per i partner dell'utente. Tieni presente che l'attivazione di questo vantaggio e l'invio delle istruzioni tramite posta elettronica all'utente assegnato possono richiedere diversi giorni.    
+    Come misura di sicurezza, invieremo le istruzioni per accedere al Supporto Tecnico Clienti Microsoft a questo indirizzo di posta elettronica oltre che a quello dell'account del dashboard dell'utente. Tieni presente che l'attivazione di questo vantaggio e l'invio delle istruzioni tramite posta elettronica all'utente assegnato possono richiedere diversi giorni.    
     
     c.  Dopo avere immesso l'indirizzo di posta elettronica alternativo, seleziona **Assegna utente**. 
+
+4. Puoi utilizzare il tuo vantaggio relativo all'assistenza tecnica di pre-vendita o alle ore di consulenza per richiedere assistenza tecnica durante le fasi di pre-vendita, progettazione, distribuzione e sviluppo di app di soluzioni cloud e ibride. Per richiedere assistenza, compila il [modulo di richiesta](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
+), quindi seleziona **Invia richiesta**.
 
 
 #### <a name="see-also"></a>Vedi anche

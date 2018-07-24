@@ -3,12 +3,12 @@ title: Individuare le offerte di terze parti da vendere | Centro per i partner
 description: Cerca e trova i tipi di offerte di terze parti più adatte per il tuo portafoglio.
 author: labrenne
 keywords: offerte di terze parti, software da acquistare, cercare terze parti
-ms.openlocfilehash: d328ec6594d7cd71b373f7cbec3620951c6858df
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
+ms.openlocfilehash: f924bc4d38c764ca571148943d287318edb46987
+ms.sourcegitcommit: 393cb5a8c9b71a737dc1a7aa8d1639937470be3d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991705"
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2204955"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Individuare le offerte di terze parti da vendere
 
@@ -31,7 +31,7 @@ Cerca e trova i tipi di offerte di terze parti più adatte per il tuo portafogli
 
 Per ottenere ulteriori dettagli, seleziona un prodotto. In tal modo viene visualizzata la pagina dei dettagli che fornisce informazioni dettagliate sul prodotto inclusi cosa fa e come funziona con i prodotti Microsoft, come preparare i venditori alla vendita e i suggerimenti su come commercializzarlo efficacemente. 
 
-Troverai il collegamento del sito Web dell'ISV, le informazioni sul contatto e spesso una dimostrazione video del prodotto. 
+Troverai anche il collegamento del sito Web dell'ISV, le informazioni sul contatto e spesso una dimostrazione video del prodotto. 
 
 ## <a name="add-the-product-to-your-portfolio"></a>Aggiungere il prodotto al tuo portafoglio
 

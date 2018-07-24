@@ -3,12 +3,12 @@ title: Rinnovare le offerte MPN | Centro per i partner
 description: Rinnovare le offerte MPN dal dashboard per i partner
 author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, rinnovo competenze, data rinnovo
-ms.openlocfilehash: ed037f6445d18a57033da51bc87d8f61d58370c3
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
+ms.openlocfilehash: 5b5009006ec6e4052e564e0c23deb2511485025e
+ms.sourcegitcommit: e84af3f0fd7683b83d0e15ad880aa92ee5efb0c7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991704"
+ms.lasthandoff: 06/11/2018
+ms.locfileid: "2018222"
 ---
 # <a name="renew-your-mpn-offers"></a>Rinnovare le offerte MPN
 
@@ -31,7 +31,7 @@ Nella scheda **Acquistato**, per ognuna delle offerte acquistate puoi vedere:
 
 Hai 30 giorni di tempo per il rinnovo a partire dalla data dell'anniversario. I vantaggi continuano durante tale intervallo di tempo. 15 giorni prima della data dell'anniversario, Microsoft ti ricorderà dell'imminente anniversario. Riceverai un altro promemoria 23 giorni dopo la data dell'anniversario. Se rinnovi entro i 30 giorni successivi alla data dell'anniversario, i tuoi vantaggi rimangono invariati. Se non rinnovi entro il periodo specificato, perderai vantaggi e competenze.
 
-Quando rinnovi nel periodo valido, la nuova data dell'anniversario viene fissata a 365 giorni dopo la data di rinnovo.
+Quando rinnovi nel periodo valido, la nuova data dell'anniversario viene fissata 365 giorni dopo l'attuale data di anniversario.
 
 ## <a name="manage-auto-renewal"></a>Gestire il rinnovo automatico
 

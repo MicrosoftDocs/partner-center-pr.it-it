@@ -3,11 +3,12 @@ title: Ridimensionamento della macchina virtuale Microsoft Azure per un utilizzo
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: azure, prenotazioni, vm, gestire, utilizzo, ridimensionamento
-ms.openlocfilehash: 4050780f9d3dc3ad7d3c4ece0d363845ec1efe9c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
+ms.openlocfilehash: 9ddf74d209f9174b4192a9d89b65a41e371f37ae
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1883102"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Ridimensionamento della macchina virtuale Microsoft Azure per un utilizzo ottimale delle prenotazioni 
 
@@ -119,7 +120,7 @@ Puoi ottenere i dati di utilizzo della prenotazione con l'API di utilizzo di Azu
 -   consumptionMeter è il MeterId per la macchina virtuale a cui è applicato lo sconto della prenotazione.
 -   ReservationMeter mostra un costo di $ 0 perché è stato applicato lo sconto prenotazione. 
 
-Per ulteriori informazioni, vedi [Ottenere i record di utilizzo di un cliente per Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) nell'[API del dashboard del partner](https://docs.microsoft.com/partner-center/develop/).
+Per ulteriori informazioni, vedi [Ottenere i record di utilizzo di un cliente per Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) nell'[API del Centro per i partner](https://docs.microsoft.com/partner-center/develop/).
 
 >[!IMPORTANT]
 >I costi relativi al software, ad esempio Microsoft Windows Server, non sono attualmente inclusi nel prezzo di una prenotazione di macchina virtuale e verranno visualizzati come voci separate nel record dell'ordine e nella fattura. Tuttavia, se un cliente ha il vantaggio Azure Hybrid Use, i costi del software non verranno applicati. Per ulteriori informazioni, vedi [I costi del software Windows non sono inclusi nelle istanze riservate](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs).  
@@ -133,7 +134,7 @@ Per ulteriori informazioni, vedi [Ottenere i record di utilizzo di un cliente pe
 | Gestione delle prenotazioni di Azure nel dashboard del partner | [Gestione delle prenotazioni di Azure nel dashboard del partner](azure-reservations-manage.md)
 |Acquisto di prenotazioni di Azure nel portale di Azure | [Pagare in anticipo per macchine virtuali con istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) nella Guida di Azure |
 |Gestione di prenotazioni di Azure nel portale di Azure   |[Gestire le istanze di macchina virtuale riservate](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) nella Guida di Azure  |
-|Acquisto di prenotazioni di Azure mediante l'API del Centro per i partner | [Acquistare istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances) nella documentazione per sviluppatori del Centro per i partner
+|Acquisto di prenotazioni di Azure mediante l'API del Centro per i partner | [Acquisto di istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances) nella documentazione per sviluppatori del Centro per i partner
 
 
 

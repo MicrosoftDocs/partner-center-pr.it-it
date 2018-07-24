@@ -1,12 +1,13 @@
 ---
 title: Spostare clienti e servizi basati sulle licenze sul programma Cloud Solution Provider nel Centro per i partner | Centro per i partner
-description: "I clienti e le sottoscrizioni non vengono automaticamente spostati nel Centro per i partner, ma è possibile spostarli manualmente."
+description: I clienti e le sottoscrizioni non vengono automaticamente spostati nel Centro per i partner, ma è possibile spostarli manualmente.
 author: labrenne
-ms.openlocfilehash: 43494cb92655dca4c4ed74753ac1c82cf61f73e2
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
+ms.openlocfilehash: 1ba04bf90b03dd3b900caa1a3bf92a32c0dc8b54
+ms.sourcegitcommit: 8863a4d62d4523bcd16ab3c010b24e97656081e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "2093458"
 ---
 # <a name="moving-license-based-services-customers-to-the-cloud-solution-provider-program-on-partner-center"></a>Spostare clienti e servizi basati sulle licenze sul programma Cloud Solution Provider nel Centro per i partner
 
@@ -14,7 +15,7 @@ ms.lasthandoff: 02/09/2018
 
 -  Centro per i partner
 
-Attualmente non è possibile spostare automaticamente i clienti e le sottoscrizioni da un programma di licenza a un altro nel Centro per i partner. È possibile, tuttavia, spostare singoli clienti manualmente utilizzando le funzionalità multicanale e multipartner nel Centro per i partner. Ulteriori informazioni sulle [funzionalità multicanale e multipartner CSP](https://microsoft.sharepoint.com/sites/infopedia/pages/layouts/KCDoc.aspx?k=G03KC-1-5871). 
+Se il tuo cliente desidera assumere più partner, trasferire le loro sottoscrizioni a un altro partner o gestire le loro sottoscrizioni acquistate altrove, puoi spostarle manualmente.
 
 ## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Spostare le sottoscrizioni basate su licenze del cliente nel programma Cloud Solution Provider (CSP)
 
@@ -27,4 +28,6 @@ Attualmente non è possibile spostare automaticamente i clienti e le sottoscrizi
 4. Il cliente continuerà quindi con le sottoscrizioni per cui è stato effettuato il provisioning senza interruzioni.
 
 Se si esegue il provisioning delle stesse offerte già utilizzate dal cliente, non è necessario riassegnare le licenze e non ci saranno interruzioni per gli utenti finali. Se si sposta il cliente su un'altra offerta, è necessario aggiornare la loro assegnazione della licenza.
+
+## <a name="multi-channel-support"></a>Supporto multicanale
 

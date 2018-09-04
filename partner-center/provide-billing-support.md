@@ -3,49 +3,50 @@ title: Offrire supporto per la fatturazione | Centro per i partner
 description: Sei tu il responsabile del rapporto di fatturazione con i tuoi clienti e devi rispondere a tutte le domande relative alla fatturazione che i clienti ti invieranno.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: 60a8fa1271d73e07f31b7172da31a66f702ce342
-ms.sourcegitcommit: b1cfc52b956a25bd81a449bdce21fe94f4823482
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4108d46428c4b64c98ab87064e20b6d0c2626840
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/25/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874521"
 ---
-# <a name="provide-billing-support"></a><span data-ttu-id="12182-103">Offrire supporto per la fatturazione</span><span class="sxs-lookup"><span data-stu-id="12182-103">Provide billing support</span></span>
+# <a name="provide-billing-support"></a><span data-ttu-id="844ac-103">Offrire supporto per la fatturazione</span><span class="sxs-lookup"><span data-stu-id="844ac-103">Provide billing support</span></span>
 
-**<span data-ttu-id="12182-104">Si applica a</span><span class="sxs-lookup"><span data-stu-id="12182-104">Applies to</span></span>**
+**<span data-ttu-id="844ac-104">Si applica a</span><span class="sxs-lookup"><span data-stu-id="844ac-104">Applies to</span></span>**
 
--  <span data-ttu-id="12182-105">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="12182-105">Partner Center</span></span>
--  <span data-ttu-id="12182-106">Centro per i partner per Microsoft Cloud per il governo statunitense</span><span class="sxs-lookup"><span data-stu-id="12182-106">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="12182-107">Centro per i partner per Microsoft Cloud Germania</span><span class="sxs-lookup"><span data-stu-id="12182-107">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="844ac-105">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="844ac-105">Partner Center</span></span>
+-  <span data-ttu-id="844ac-106">Centro per i partner per Microsoft Cloud per il governo statunitense</span><span class="sxs-lookup"><span data-stu-id="844ac-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="844ac-107">Centro per i partner per Microsoft Cloud Germania</span><span class="sxs-lookup"><span data-stu-id="844ac-107">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="12182-108">Sei tu il responsabile del rapporto di fatturazione con i tuoi clienti e devi rispondere a tutte le domande relative alla fatturazione che i clienti ti invieranno.</span><span class="sxs-lookup"><span data-stu-id="12182-108">You own the billing relationship with your customers and fully support any billing-related questions from your customers.</span></span>
+<span data-ttu-id="844ac-108">Proprio la relazione di fatturazione con i clienti e ti sei responsabile per risposte alle domande relative alla fatturazione dei clienti.</span><span class="sxs-lookup"><span data-stu-id="844ac-108">You own the billing relationship with your customers and you're responsible for answering billing-related questions from your customers.</span></span>
 
-## <a href="" id="microsoftresources"></a><span data-ttu-id="12182-109">Risorse Microsoft</span><span class="sxs-lookup"><span data-stu-id="12182-109">Microsoft resources</span></span>
+-   <span data-ttu-id="844ac-109">Sei responsabile per il pagamento nel tempo a Microsoft.</span><span class="sxs-lookup"><span data-stu-id="844ac-109">You are responsible for on-time payment to Microsoft.</span></span>
+-   <span data-ttu-id="844ac-110">Ti consigliamo di stabilire criteri di incasso chiari con i clienti che dettagliano il processo e quando l'accesso alle sottoscrizioni del cliente, servizi o software saranno influenzato.</span><span class="sxs-lookup"><span data-stu-id="844ac-110">We recommend establishing a clear collections policy with customers that details your collections process and when access to the customer's subscriptions, services, or software will be impacted.</span></span>
+-   <span data-ttu-id="844ac-111">Se necessario, puoi disabilitare l'accesso del cliente per un prodotto per insolvenza.</span><span class="sxs-lookup"><span data-stu-id="844ac-111">If necessary, you can disable your customer's access to a product for non-payment.</span></span>
 
+## <a name="microsoft-partner-support-guidance"></a><span data-ttu-id="844ac-112">Linee guida di supporto per i partner Microsoft</span><span class="sxs-lookup"><span data-stu-id="844ac-112">Microsoft partner support guidance</span></span>
 
--   <span data-ttu-id="12182-110">Segui la formazione sul prodotto e sulla risoluzione dei problemi in MPN e accedi alla formazione pratica Customer Immersion Experience (CIE).</span><span class="sxs-lookup"><span data-stu-id="12182-110">Get product training and troubleshooting training via MPN, including access to Customer Immersion Experience (CIE) hands-on training.</span></span>
--   <span data-ttu-id="12182-111">Accedi alla documentazione tramite la knowledge base virtuale (vKB).</span><span class="sxs-lookup"><span data-stu-id="12182-111">Access documentation via the virtual knowledge base (vKB).</span></span>
--   <span data-ttu-id="12182-112">Trova le soluzioni tecniche pubblicate su TechNet e accedi al supporto per i partner fornito ai membri di MPN.</span><span class="sxs-lookup"><span data-stu-id="12182-112">Find published technical solutions on TechNet and access to partner specific support as part of your MPN membership.</span></span>
--   <span data-ttu-id="12182-113">Acquista il supporto tecnico Premier per ottenere vantaggi di assistenza incrementali.</span><span class="sxs-lookup"><span data-stu-id="12182-113">Purchase Premier Support for incremental support benefits.</span></span>
+<span data-ttu-id="844ac-113">I partner transazioni il modello CSP sono i consulenti fidati ai propri clienti e proprietari la relazione end-to-end, incluso il supporto quando il cliente ha una domanda o un problema.</span><span class="sxs-lookup"><span data-stu-id="844ac-113">Partners transacting in the CSP model are the trusted advisor to their customers and own the relationship end-to-end, including support when their customer has a question or issue.</span></span> <span data-ttu-id="844ac-114">Tramite il tocco di supporto ai partner di punti possono altre informazioni del cliente e le loro attività, per identificare i nuovi servizi e soluzioni che gestiscono valore.</span><span class="sxs-lookup"><span data-stu-id="844ac-114">Through support touch points partners can learn more about the customer, and their business, to identify new services and solutions that drive value.</span></span>
 
-## <a href="" id="delinquentcustomeraccounts"></a><span data-ttu-id="12182-114">Account dei clienti insolventi</span><span class="sxs-lookup"><span data-stu-id="12182-114">Delinquent customer accounts</span></span>
+<span data-ttu-id="844ac-115">Per soddisfare il requisito di supporto, il partner può rivendere supporto da un'altra entità, affidare tutto o parte della relativa struttura di supporto e/o si può impostare una struttura di fornire direttamente il supporto.</span><span class="sxs-lookup"><span data-stu-id="844ac-115">To fulfill the support requirement, the partner may resell support from another entity, they may outsource all or part of their support structure and/or they may set up a structure to provide support directly.</span></span>  <span data-ttu-id="844ac-116">Il partner può effettuare l'addebito per tutto o parte del supporto fornito ai clienti.</span><span class="sxs-lookup"><span data-stu-id="844ac-116">The partner may charge for all or part of the support provided to customers.</span></span> <span data-ttu-id="844ac-117">Il partner deve articolare ai propri clienti il supporto verrà offrono, le ore di assistenza e contatta il metodo, nonché i prezzi (se per il supporto di ricarica).</span><span class="sxs-lookup"><span data-stu-id="844ac-117">The partner should articulate to their customers the support they will provide, the service hours and contact method, as well as the pricing (if charging for support).</span></span> 
 
+<span data-ttu-id="844ac-118">I partner sono necessari per ricevere supporto richieste dei clienti, diagnosticare i problemi con la migliore della possibilità del partner e quindi risolvere i problemi che si trovano all'interno di ambito dei limiti del supporto di base.</span><span class="sxs-lookup"><span data-stu-id="844ac-118">Partners are required to receive incoming support requests from customers, diagnose issues to the best of the partner’s ability and then resolve issues that are within scope of the baseline support boundaries.</span></span> <span data-ttu-id="844ac-119">Se il partner non è in grado di risolvere il problema, si possono ottenere problemi a Microsoft tramite veicoli supporto seguenti:</span><span class="sxs-lookup"><span data-stu-id="844ac-119">If the partner is unable to resolve an issue, they can escalate issues to Microsoft via the following support vehicles:</span></span>
 
--   <span data-ttu-id="12182-115">Sei tu il responsabile dei pagamenti a Microsoft.</span><span class="sxs-lookup"><span data-stu-id="12182-115">You are responsible for payment to Microsoft.</span></span>
--   <span data-ttu-id="12182-116">Ti consigliamo di stabilire criteri di incasso chiari con i clienti, che definiscano in dettaglio i processi di pagamento e in quali situazioni viene bloccato l'accesso alla sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="12182-116">We recommend establishing a clear collections policy with customers that details your collections process and when access to the subscription will be impacted.</span></span>
--   <span data-ttu-id="12182-117">Se necessario, puoi disabilitare l'accesso del cliente alla sottoscrizione per insolvenza.</span><span class="sxs-lookup"><span data-stu-id="12182-117">If necessary, you can disable your customer's access to the subscription for non-payment.</span></span>
+- <span data-ttu-id="844ac-120">Supporto di problema **Commercial** è disponibile per tutti i partner nel programma CSP</span><span class="sxs-lookup"><span data-stu-id="844ac-120">**Commercial** issue support is available to all partners in the CSP program</span></span>
+-   <span data-ttu-id="844ac-121">Supporto **tecnico** di problema è disponibile tramite:</span><span class="sxs-lookup"><span data-stu-id="844ac-121">**Technical** issue support is available through:</span></span>
+    -   <span data-ttu-id="844ac-122">Supporto tecnico Premier per i partner (Commissione di base)</span><span class="sxs-lookup"><span data-stu-id="844ac-122">Premier Support for Partners (fee base)</span></span>
+    -   <span data-ttu-id="844ac-123">Supporto avanzato per i partner (Commissione di base)</span><span class="sxs-lookup"><span data-stu-id="844ac-123">Advanced Support for Partners (fee base)</span></span>
+    -   <span data-ttu-id="844ac-124">Signature Cloud Support (incluso competenza Silver o Gold)</span><span class="sxs-lookup"><span data-stu-id="844ac-124">Signature Cloud Support (included with Gold/Silver competency)</span></span>
 
-## <a href="" id="billingdisputes"></a><span data-ttu-id="12182-118">Controversie relative alla fatturazione</span><span class="sxs-lookup"><span data-stu-id="12182-118">Billing disputes</span></span>
+### <a name="providing-billing-subscription-management-and-technical-support"></a><span data-ttu-id="844ac-125">Fornire la fatturazione, gestione delle sottoscrizioni e supporto tecnico</span><span class="sxs-lookup"><span data-stu-id="844ac-125">Providing billing, subscription management, and technical support</span></span> 
 
+<span data-ttu-id="844ac-126">Ogni servizio online ha requisiti specifici e dettagliati per fornire supporto tecnico, gestione delle sottoscrizioni e fatturazione ai clienti.</span><span class="sxs-lookup"><span data-stu-id="844ac-126">Each online service has specific and detailed requirements for providing billing, subscription management, and technical support to customers.</span></span> <span data-ttu-id="844ac-127">Consultare i documenti seguenti per altre informazioni.</span><span class="sxs-lookup"><span data-stu-id="844ac-127">Refer to the following documents for more information.</span></span>
 
--   <span data-ttu-id="12182-119">[Segnala i problemi](report-problems-with-partner-center.md) per eventuali domande o controversie relative alla fatturazione.</span><span class="sxs-lookup"><span data-stu-id="12182-119">[Report problems](report-problems-with-partner-center.md) to raise any billing questions or disputes.</span></span>
+-   [<span data-ttu-id="844ac-128">Le sottoscrizioni Dynamics 365 venduto tramite CSP</span><span class="sxs-lookup"><span data-stu-id="844ac-128">Dynamics 365 subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
-## <a href="" id="escalatingissues"></a><span data-ttu-id="12182-120">Inoltro dei problemi</span><span class="sxs-lookup"><span data-stu-id="12182-120">Escalating issues</span></span>
+-   [<span data-ttu-id="844ac-129">Sottoscrizioni Azure vendute tramite CSP</span><span class="sxs-lookup"><span data-stu-id="844ac-129">Azure subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-
--   <span data-ttu-id="12182-121">[Inoltra i problemi a Microsoft](escalate-problems-to-microsoft.md) tramite il canale di supporto per i partner per conto del cliente nel caso in cui fosse necessaria l'assistenza di Microsoft.</span><span class="sxs-lookup"><span data-stu-id="12182-121">[Escalate problems to Microsoft](escalate-problems-to-microsoft.md) through the Partner Support channel on the customer's behalf if you need our assistance.</span></span>
--   <span data-ttu-id="12182-122">Una volta risolto il problema, dovrai comunicarlo al cliente</span><span class="sxs-lookup"><span data-stu-id="12182-122">You must communicate and close the loop with the customer once the issue is resolved</span></span> 
-
+-   [<span data-ttu-id="844ac-130">Sottoscrizioni di Office 365 vendute tramite CSP</span><span class="sxs-lookup"><span data-stu-id="844ac-130">Office 365 subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
-<span data-ttu-id="12182-123">Controversie di fatturazione Segnala problemi (https://msdn.microsoft.com/en-us/partner-center/report-problems-with-partner-center) per sollevare eventuali domande o controversie sulla fatturazione.</span><span class="sxs-lookup"><span data-stu-id="12182-123">Billing disputes Report problems (https://msdn.microsoft.com/en-us/partner-center/report-problems-with-partner-center) to raise any billing questions or disputes.</span></span>
-
 

@@ -3,83 +3,91 @@ title: Competenza di integrazione di applicazioni
 description: La competenza di integrazione di applicazioni riconosce i partner e gli sviluppatori che integrano applicazioni univoche e soluzioni in diversi prodotti nell'ecosistema Microsoft.
 author: Daniel Simpson
 keywords: competenza, competenze, integrazione di applicazioni
-ms.openlocfilehash: 968cf5bdbe4e6c78ad330d94ad618a821927483a
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: a5c69706898ff791f56a86a4c0f2f32dfb2199d4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876691"
 ---
-# <a name="application-integration"></a>Integrazione di applicazioni 
-La competenza di integrazione di applicazioni riconosce i partner e gli sviluppatori che integrano applicazioni univoche e soluzioni in diversi prodotti nell'ecosistema Microsoft. 
+>[!IMPORTANT]
+>Per informazioni sui requisiti per conseguire questa competenza, visita il [portale di Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-## <a name="application-integrator-option"></a>Opzione integratore di applicazioni
+<!--
 
-L'opzione integratore di applicazioni è ideale se preferisci dimostrare le tue competenze superando gli esami o certificazioni. Scegli gli esami dall'area di interesse di tua scelta. Completa tutti i passaggi all'interno per ottenere le competenze di integrazione di applicazioni.
+# Application Integration 
+The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem. 
 
-###<a name="silver"></a>Silver
-1. L'organizzazione deve disporre di **2** utenti che superino sia gli esami, sia le valutazioni.
+## Application Integrator option
 
-    - **2** utenti devono superare uno qualsiasi dei seguenti esami:
+The Application Integrator option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice. Complete all the steps within to attain the Application Integration competency.
 
-        - Area di interesse di**Windows Server**
-            - [Esame 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): configurazione dei servizi avanzati di Windows Server 2012
-            - [Esame 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): installazione, archiviazione e calcolo con Windows Server 2016
-            - [Esame 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): rete con Windows Server 2016
-            - [Esame 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): identità con Windows Server 2016
+###Silver
+1. Your organization must have **2** individuals pass both exams and assessments.
 
-        - Area di interesse di**SQL Server**
+    - **2** individuals must pass any one of the following exams:
 
-            - [Esame 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): amministrazione dei database Microsoft SQL Server 2012
-            - [Esame 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): sviluppo dei database di Microsoft SQL Server 2012
-            - [Esame 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): sviluppo dei database SQL
-            - [Esame 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): amministrazione di un'infrastruttura del database SQL
+        - **Windows Server** focus area
+            - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+            - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage and Compute with Windows Server 2016
+            - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+            - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
 
-        - Area di interesse di**C#** 
+        - **SQL Server** focus area
 
-            - [Esame 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): programmazione in C#
+            - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+            - [Exam 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Developing Microsoft SQL Server 2012 Databases
+            - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+            - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure
 
-        - Area di interesse di**Azure**
+        - **C#** focus area 
 
-            - [Esame 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): sviluppo di Windows Azure e servizi Web
-            - [Esame 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): sviluppo di soluzioni di Microsoft Azure
+            - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C#
 
-        **E**
+        - **Azure** focus area
 
-    - **2** utenti devono superare la seguente valutazione:
+            - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+            - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-        - [Valutazione delle competenze tecniche di BizTalk per l'integrazione di applicazioni (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+        **AND**
 
-###<a name="gold"></a>Gold
-1. L'organizzazione deve disporre di **4** utenti che superino sia gli esami, sia le valutazioni.
+    - **2** individuals must pass the following assessment:
 
-    - **4** utenti devono superare uno qualsiasi dei seguenti esami:
+        - [BizTalk Technical Competency Assessment for Application Integration (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
 
-        - Area di interesse di**Windows Server**
+###Gold
+1. Your organization must have **4** individuals pass both exams and assessments.
 
-            - [Esame 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): configurazione dei servizi avanzati di Windows Server 2012
-            - [Esame 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): installazione, archiviazione e calcolo con Windows Server 2016
-            - [Esame 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): rete con Windows Server 2016
-            - [Esame 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): identità con Windows Server 2016
+    - **4** individuals must pass any one of the following exams:
 
-        - Area di interesse di**SQL Server**
+        - **Windows Server** focus area
 
-            - [Esame 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): amministrazione dei database Microsoft SQL Server 2012
-            - [Esame 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): sviluppo dei database di Microsoft SQL Server 2012
-            - [Esame 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): sviluppo dei database SQL
-            - [Esame 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): amministrazione di un'infrastruttura del database SQL
+            - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+            - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage and Compute with Windows Server 2016
+            - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+            - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
 
-        - Area di interesse di**C#** 
+        - **SQL Server** focus area
 
-            - [Esame 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): programmazione in C#
+            - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+            - [Exam 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Developing Microsoft SQL Server 2012 Databases
+            - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+            - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure
 
-        - Area di interesse di**Azure**
+        - **C#** focus area 
 
-            - [Esame 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): sviluppo di Windows Azure e servizi Web
-            - [Esame 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): sviluppo di soluzioni di Microsoft Azure
+            - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C#
 
-        **E**
+        - **Azure** focus area
 
-    - **4** utenti devono superare la seguente valutazione: Tale valutazione può essere completata dagli stessi 4 utenti che hanno superato l'esame precedente. :
+            - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+            - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-        - [Valutazione delle competenze tecniche di BizTalk per l'integrazione di applicazioni (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+        **AND**
 
+    - **4** individuals must pass the following assessment. This may be completed by the same 4 individuals who passed the exam above. :
+
+        - [BizTalk Technical Competency Assessment for Application Integration (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+-->

@@ -4,11 +4,13 @@ description: La fattura è un riepilogo di tutti gli addebiti (per il programma,
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
-ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875181"
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
@@ -25,6 +27,7 @@ I partner del programma Cloud Solution Provider che hanno scelto la fatturazione
 >**Nota**<br>
 La fattura è un riepilogo di tutti gli addebiti relativi a programma, prodotti e clienti per il periodo di fatturazione corrente ed è disponibile entro quattro (4) giorni dalla data di fatturazione selezionata.
 
+Riceverai una fattura per basato su licenza (Office 365) e gli addebiti (Azure) basati sull'utilizzo e una fattura separata per una tantum (istanze riservate di Azure macchina virtuale) addebiti.
 
 Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I file di riconciliazione includono gli ID dei clienti e gli ID delle sottoscrizioni che userai per creare le fatture per i clienti. Per altre informazioni, vedi [Come usare i file di riconciliazione](use-the-reconciliation-files.md).
 
@@ -54,28 +57,36 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 <td>Indirizzo a cui inviare la fattura. Per modificare questo indirizzo, vai a Impostazioni account > Profilo di fatturazione partner. </td>
 </tr>
 <tr class="odd">
-<td>Addebiti periodici</td>
+<td>Addebiti in base alle licenze</td>
 <td>Gli addebiti fissi mensili o annuali per le licenze in base all'uso acquistate, fatturati prima del servizio. Questo numero è la somma di tutti gli addebiti nella colonna &quot;Subtotal&quot; del file di riconciliazione in base alle licenze (colonna T).</td>
 </tr>
 <tr class="even">
-<td>Costi di utilizzo</td>
+<td>Addebiti in base all'uso</td>
 <td>Utilizzo di Azure, inclusi le nuove applicazioni e i nuovi servizi abilitati e usati durante il periodo di fatturazione. Questo numero è la somma di tutti gli addebiti nella colonna &quot;PretaxCharges&quot; del file di riconciliazione in base all'uso (colonna Z).</td>
 </tr>
 <tr class="odd">
-<td>Crediti e rettifiche</td>
-<td>Crediti o rettifiche per modifiche apportate alle sottoscrizioni, ad esempio aumento o riduzione delle postazioni.</td>
-</tr>
-<tr class="even">
-<td>Altri sconti</td>
+<td>Sconti</td>
 <td>Ad esempio lo sconto che il cliente riceve sul prezzo normale della sottoscrizione. Lo sconto viene indicato come importo unico, non come prezzo per unità o licenza.</td>
 </tr>
 <tr class="odd">
-<td>Imposte</td>
+<td>Crediti</td>
+<td>Crediti o rettifiche per modifiche apportate alle sottoscrizioni, ad esempio aumento o riduzione delle postazioni.</td>
+</tr>
+<tr class="even">
+<tr class="even">
+<td>Subtotal</td>
+<td>Totale prima delle imposte e addebiti esclusivo fiscali e crediti.</td>
+</tr>
+<td>Tax</td>
 <td>Imposta totale per gli addebiti correnti come calcolata complessivamente nella sezione dei dettagli che inizia a pagina 2 della fattura. Questo numero è la somma di tutti gli addebiti che fanno riferimento a:
 <ul>
 <li>la colonna &quot;TaxAmount&quot; del file di riconciliazione in base all'uso (colonna AA) e</li>
 <li>la colonna &quot;Tax&quot; del file in base alle licenze (colonna U).</li>
 </ul></td>
+</tr>
+<tr class="odd">
+<td>Altri crediti</td>
+<td>Crediti fiscali esclusive.</td>
 </tr>
 <tr class="even">
 <td>Costi attuali totali</td>
@@ -97,13 +108,10 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 <td>Data fattura</td>
 <td>Data in cui ricevi la fattura.</td>
 </tr>
-
 <tr class="odd">
 <td>Condizioni di pagamento</td>
 <td>Per gli acquisti una tantum sarà sempre 60 giorni.</td>
 </tr>
-
-
 <tr class="even">
 <td>Data scadenza pagamento</td>
 <td>Data entro cui effettuare il pagamento.</td>
@@ -129,7 +137,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 |:----------------|:-----------------------------|
 |Data |Data di acquisto. |
 |Descrizione |Nome del prodotto. |
-|Quantità |Il numero di prodotti (prenotazioni, ad esempio) acquistati. |
+|Quantità |Numero di prodotti (prenotazioni, ad esempio) acquistati. |
 |Prezzo unitario |Prezzo per prodotto (prenotazione, ad esempio). |
 |Sconti |Eventuali sconti applicabili. |
 |Importo pre-imposta |Totale parziale degli acquisti prima delle imposte. |

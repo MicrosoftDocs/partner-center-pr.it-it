@@ -3,12 +3,13 @@ title: Vantaggi della sottoscrizione di Microsoft Action Pack | Centro per i par
 description: Le informazioni contenute in questa pagina sono state spostate in https://partner.microsoft.com/membership/internal-use-software.
 author: MaggiePucciEvans
 robots: noindex,nofollow
-ms.openlocfilehash: 1a8b654ef72aa6114cb05ace6d6f99171a684dd2
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8967965341981161e6818b870198465913b9d3ab
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207211"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876831"
 ---
 # <a name="get-action-pack-subscription-details-on-the-microsoft-partner-networkhttpspartnermicrosoftcommembershipinternal-use-software-site"></a>Ottieni i dettagli delle sottoscrizioni di Action Pack sul sito [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software). 
 

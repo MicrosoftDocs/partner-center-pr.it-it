@@ -3,11 +3,13 @@ title: Offrire supporto per la fatturazione | Centro per i partner
 description: Sei tu il responsabile del rapporto di fatturazione con i tuoi clienti e devi rispondere a tutte le domande relative alla fatturazione che i clienti ti invieranno.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: 60a8fa1271d73e07f31b7172da31a66f702ce342
-ms.sourcegitcommit: b1cfc52b956a25bd81a449bdce21fe94f4823482
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4108d46428c4b64c98ab87064e20b6d0c2626840
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/25/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874521"
 ---
 # <a name="provide-billing-support"></a>Offrire supporto per la fatturazione
 
@@ -17,35 +19,34 @@ ms.lasthandoff: 01/25/2018
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
-Sei tu il responsabile del rapporto di fatturazione con i tuoi clienti e devi rispondere a tutte le domande relative alla fatturazione che i clienti ti invieranno.
+Proprio la relazione di fatturazione con i clienti e ti sei responsabile per risposte alle domande relative alla fatturazione dei clienti.
 
-## <a href="" id="microsoftresources"></a>Risorse Microsoft
+-   Sei responsabile per il pagamento nel tempo a Microsoft.
+-   Ti consigliamo di stabilire criteri di incasso chiari con i clienti che dettagliano il processo e quando l'accesso alle sottoscrizioni del cliente, servizi o software saranno influenzato.
+-   Se necessario, puoi disabilitare l'accesso del cliente per un prodotto per insolvenza.
 
+## <a name="microsoft-partner-support-guidance"></a>Linee guida di supporto per i partner Microsoft
 
--   Segui la formazione sul prodotto e sulla risoluzione dei problemi in MPN e accedi alla formazione pratica Customer Immersion Experience (CIE).
--   Accedi alla documentazione tramite la knowledge base virtuale (vKB).
--   Trova le soluzioni tecniche pubblicate su TechNet e accedi al supporto per i partner fornito ai membri di MPN.
--   Acquista il supporto tecnico Premier per ottenere vantaggi di assistenza incrementali.
+I partner transazioni il modello CSP sono i consulenti fidati ai propri clienti e proprietari la relazione end-to-end, incluso il supporto quando il cliente ha una domanda o un problema. Tramite il tocco di supporto ai partner di punti possono altre informazioni del cliente e le loro attività, per identificare i nuovi servizi e soluzioni che gestiscono valore.
 
-## <a href="" id="delinquentcustomeraccounts"></a>Account dei clienti insolventi
+Per soddisfare il requisito di supporto, il partner può rivendere supporto da un'altra entità, affidare tutto o parte della relativa struttura di supporto e/o si può impostare una struttura di fornire direttamente il supporto.  Il partner può effettuare l'addebito per tutto o parte del supporto fornito ai clienti. Il partner deve articolare ai propri clienti il supporto verrà offrono, le ore di assistenza e contatta il metodo, nonché i prezzi (se per il supporto di ricarica). 
 
+I partner sono necessari per ricevere supporto richieste dei clienti, diagnosticare i problemi con la migliore della possibilità del partner e quindi risolvere i problemi che si trovano all'interno di ambito dei limiti del supporto di base. Se il partner non è in grado di risolvere il problema, si possono ottenere problemi a Microsoft tramite veicoli supporto seguenti:
 
--   Sei tu il responsabile dei pagamenti a Microsoft.
--   Ti consigliamo di stabilire criteri di incasso chiari con i clienti, che definiscano in dettaglio i processi di pagamento e in quali situazioni viene bloccato l'accesso alla sottoscrizione.
--   Se necessario, puoi disabilitare l'accesso del cliente alla sottoscrizione per insolvenza.
+- Supporto di problema **Commercial** è disponibile per tutti i partner nel programma CSP
+-   Supporto **tecnico** di problema è disponibile tramite:
+    -   Supporto tecnico Premier per i partner (Commissione di base)
+    -   Supporto avanzato per i partner (Commissione di base)
+    -   Signature Cloud Support (incluso competenza Silver o Gold)
 
-## <a href="" id="billingdisputes"></a>Controversie relative alla fatturazione
+### <a name="providing-billing-subscription-management-and-technical-support"></a>Fornire la fatturazione, gestione delle sottoscrizioni e supporto tecnico 
 
+Ogni servizio online ha requisiti specifici e dettagliati per fornire supporto tecnico, gestione delle sottoscrizioni e fatturazione ai clienti. Consultare i documenti seguenti per altre informazioni.
 
--   [Segnala i problemi](report-problems-with-partner-center.md) per eventuali domande o controversie relative alla fatturazione.
+-   [Le sottoscrizioni Dynamics 365 venduto tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
-## <a href="" id="escalatingissues"></a>Inoltro dei problemi
+-   [Sottoscrizioni Azure vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-
--   [Inoltra i problemi a Microsoft](escalate-problems-to-microsoft.md) tramite il canale di supporto per i partner per conto del cliente nel caso in cui fosse necessaria l'assistenza di Microsoft.
--   Una volta risolto il problema, dovrai comunicarlo al cliente 
-
+-   [Sottoscrizioni di Office 365 vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
-Controversie di fatturazione Segnala problemi (https://msdn.microsoft.com/en-us/partner-center/report-problems-with-partner-center) per sollevare eventuali domande o controversie sulla fatturazione.
-
 

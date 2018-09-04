@@ -1,12 +1,14 @@
 ---
 title: Gestire gli incentivi nel Centro per i partner | Centro per i partner
-description: "I programmi Microsoft Partner Incentives supportano la redditività e la crescita del partner"
+description: I programmi Microsoft Partner Incentives supportano la redditività e la crescita del partner
 author: labrenne
-ms.openlocfilehash: 7a924526d90843b44aeb192fed3c2c994be89133
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8141d3cf0796885ff911b75c3898af7065612f06
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875881"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Gestire gli incentivi nel Centro per i partner 
 
@@ -50,3 +52,4 @@ Quando l'amministratore degli incentivi riceve le credenziali, può completare l
 
 [Comprendi i proventi derivanti dagli incentivi](understand-incentive-payouts.md)
 
+Per altre informazioni, vedi [Manuale il co-op di incentivi per i Partner](https://assets.microsoft.com/coop-guidebook.pdf)

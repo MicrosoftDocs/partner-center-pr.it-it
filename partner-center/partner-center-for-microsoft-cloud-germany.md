@@ -2,11 +2,13 @@
 title: Centro per i partner per Microsoft Cloud Germania | Centro per i partner per Microsoft Cloud Germania
 description: Centro per i partner per Microsoft Cloud Germania è il portale aziendale per i partner Microsoft che desiderano offrire soluzioni cloud Microsoft ai clienti nei paesi appartenenti alle aree UE ed EFTA. Microsoft Cloud Germania assicura che i dati cliente si trovano in Germania e un trustee tedesco designato ne controlla l'accesso. I clienti commerciali nelle aree UE ed EFTA possono archiviare e gestire i dati dei clienti in conformità alle leggi e alle normative tedesche nonché ai principali standard internazionali. Microsoft non può accedere a dati dei clienti senza l'approvazione e la supervisione da parte del trustee dei dati tedesco o del cliente.
 author: MaggiePucciEvans
-ms.openlocfilehash: 6d659b325ed205642398499bd882c510d482e25c
-ms.sourcegitcommit: 089bdaa35976caf347bece5b890c32dcd074d85a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7f1640281ee3f14c266d33da54a17aa1968d3fbc
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/18/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876341"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Centro per i partner per Microsoft Cloud Germania
 

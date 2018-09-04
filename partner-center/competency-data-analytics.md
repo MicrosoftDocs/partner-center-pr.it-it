@@ -1,112 +1,119 @@
 ---
 title: Competenza di analisi dei dati
-description: "Se l'organizzazione si occupa di esaminare i dati che consentono ai clienti di individuare informazioni più approfondite, elaborare previsioni o generare consigli, quindi la competenza di analisi dei dati offre una piattaforma per creare e dimostrare le proprie capacità."
+description: Se l'organizzazione si occupa di esaminare i dati che consentono ai clienti di individuare informazioni più approfondite, elaborare previsioni o generare consigli, quindi la competenza di analisi dei dati offre una piattaforma per creare e dimostrare le proprie capacità.
 author: Daniel Simpson
 keywords: competenza, competenze, analisi dei dati
-ms.openlocfilehash: 369bf2e35270a5c7eeb7b1db2c50bac4922580aa
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 392efa7ef4fc6626d076c8419e68c9b510e7f0cd
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875301"
 ---
-#<a name="data-analytics"></a>Analisi dei dati
-Se l'organizzazione si occupa di esaminare i dati che consentono ai clienti di individuare informazioni più approfondite, elaborare previsioni o generare consigli, quindi la competenza di analisi dei dati offre una piattaforma per creare e dimostrare le proprie capacità.
+>[!IMPORTANT]
+>Per informazioni sui requisiti per conseguire questa competenza, visita il [portale di Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-- [Opzione di specialista di analisi dei dati](#data-analytics-specialist-option)
-- [Opzione di principiante di analisi dei dati](#data-analytics-beginners-option)
-- [Opzione di Power BI](#power-bi-option)
+<!--
+#Data Analytics
+If your organization is into the business of examining the data that helps customers to discover deeper insights, make predictions, or generate recommendations, then the Data Analytics competency gives you a platform to build and prove your capabilities.
 
-##<a name="data-analytics-specialist-option"></a>Opzione di specialista di analisi dei dati
-L'opzione di specialista di analisi dei dati è ideale se preferisci dimostrare le tue competenze superando gli esami all'interno di una determinata area di specializzazione. Completa tutti i passaggi all'interno dell'opzione per raggiungere la competenza di analisi dei dati.
+- [Data Analytics Specialist option](#data-analytics-specialist-option)
+- [Data Analytics Beginners option](#data-analytics-beginners-option)
+- [Power BI option](#power-bi-option)
 
-###<a name="silver"></a>Silver
-1. L'organizzazione deve disporre di **1** utente che superi tutti gli esami in una qualsiasi delle tre aree di interesse: **Business Intelligence**, **Analisi avanzata**, OPPURE **Big Data** e l'utente deve superare una valutazione.
+##Data Analytics Specialist option
+The Data Analytics Specialist option is ideal if you prefer to prove your skills by passing exams within a particular Area of Specialization. Complete all the steps within the option to attain the Data Analytics competency.
 
-    - Area di interesse di**Business Intelligence**
-        - [Esame 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): implementazione di un SQL data warehouse 
-        - [Esame 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): sviluppo di modelli di dati SQL (Beta)
+###Silver
+1. Your organization must have **1** individual pass all of the exams in any one of the three focus areas: **Business Intelligence**, **Advanced Analytics**, OR **Big Data**, and the individual must pass an assessment.
 
-    - Area di interesse di **Analisi avanzata**
-        - [Esame 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): analisi dei Big Data con Microsoft R
-        - [Esame 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): esecuzione di Cloud Data Science con Azure Machine Learning
+    - **Business Intelligence** focus area
+        - [Exam 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): Implementing a SQL Data Warehouse 
+        - [Exam 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): Developing SQL Data Models (Beta)
 
-    - Area di interesse di **Big Data**
-        - [Esame 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): progettazione e implementazione di soluzioni di analisi dei Big Data
-        - [Esame 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): esecuzione di progettazione dei dati in Microsoft HDInsight
+    - **Advanced Analytics** focus area
+        - [Exam 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Analyzing Big Data with Microsoft R
+        - [Exam 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Perform Cloud Data Science with Azure Machine Learning
 
-    **E**
+    - **Big Data** focus area
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [Exam 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Perform Data Engineering on Microsoft HD Insight
 
-    - Lo stesso utente deve superare la seguente valutazione:
-        - [Valutazione tecnica per l'analisi dei dati di base](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+    **AND**
 
-###<a name="gold"></a>Gold
-1. L'organizzazione deve disporre di **2** utenti che superino tutti gli esami in una qualsiasi delle tre aree di interesse: **Business Intelligence**, **Analisi avanzata**, OPPURE **Big Data** e gli utenti devono superare una valutazione.
+    - The same individual must pass the following assessment:
+        - [Technical Assessment Data Analytics Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-    - Area di interesse di**Business Intelligence**
-        - [Esame 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): implementazione di un SQL data warehouse 
-        - [Esame 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): sviluppo di modelli di dati SQL (Beta)
+###Gold
+1. Your organization must have **2** individuals pass all of the exams in any one of the three focus areas: **Business Intelligence**, **Advanced Analytics**, OR **Big Data**, and the individuals must pass an assessment.
 
-    - Area di interesse di **Analisi avanzata**
-        - [Esame 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): analisi dei Big Data con Microsoft R
-        - [Esame 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): esecuzione di Cloud Data Science con Azure Machine Learning
+    - **Business Intelligence** focus area
+        - [Exam 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): Implementing a SQL Data Warehouse 
+        - [Exam 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): Developing SQL Data Models (Beta)
 
-    - Area di interesse di **Big Data**
-        - [Esame 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): progettazione e implementazione di soluzioni di analisi dei Big Data
-        - [Esame 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): esecuzione di progettazione dei dati in Microsoft HDInsight
+    - **Advanced Analytics** focus area
+        - [Exam 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Analyzing Big Data with Microsoft R
+        - [Exam 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Perform Cloud Data Science with Azure Machine Learning
 
-    **E**
+    - **Big Data** focus area
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [Exam 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Perform Data Engineering on Microsoft HD Insight
 
-    - Entrambi gli utenti devono superare la seguente valutazione: 
-        - [Valutazione tecnica per l'analisi dei dati di base](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+    **AND**
 
-##<a name="data-analytics-beginners-option"></a>Opzione di principiante di analisi dei dati
-L'opzione di principiante di analisi dei dati è ideale se preferisci dimostrare le tue competenze superando le valutazioni. Completa tutti i passaggi all'interno per raggiungere la competenza di analisi dei dati.
+    - Both the individuals must pass the following assessment: 
+        - [Technical Assessment Data Analytics Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-###<a name="silver"></a>Silver
-1. L'organizzazione deve disporre di **2** utenti che superino le valutazioni richieste.
+##Data Analytics Beginners option
+The Data Analytics Beginners option is ideal if you prefer to prove your skills by passing assessments. Complete all the steps within to attain the Data Analytics competency.
 
-    - **2** utenti devono superare la seguente valutazione:
-        - [Valutazione tecnica per l'analisi dei dati di base](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+###Silver
+1. Your organization must have **2** individuals pass the required assessments.
 
-    **E**
+    - **2** individuals must pass the following assessment:
+        - [Technical Assessment Data Analytics Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-    - Gli stessi **2** utenti devono superare una delle seguenti valutazioni:
-        - [Valutazione tecnica di Business Intelligence per analisi dei dati](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
-        - [Valutazione tecnica di Analisi avanzata per analisi dei dati](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
-        - [Valutazione tecnica di Big Data per analisi di base](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
+    **AND**
 
-###<a name="gold"></a>Gold
-1. L'organizzazione deve disporre di **4** utenti che superino le valutazioni richieste.
+    - The same **2** individuals must pass one of the following assessments:
+        - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+        - [Technical Assessment Advanced Analytics for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
+        - [Technical Assessment Big Data for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
 
-    - **4** utenti devono superare la seguente valutazione:
-        - [Valutazione tecnica per l'analisi dei dati di base ](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+###Gold
+1. Your organization must have **4** individuals pass the required assessments.
 
-    **E**
+    - **4** individuals must pass the following assessment:
+        - [Technical Assessment Data Analytics Foundational ](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-    - Gli stessi **4** utenti devono superare una delle seguenti valutazioni:
-        - [Valutazione tecnica di Business Intelligence per analisi dei dati](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
-        - [Valutazione tecnica di Analisi avanzata per analisi dei dati](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
-        - [Valutazione tecnica di Big Data per di analisi di base](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
+    **AND**
 
-##<a name="power-bi-option"></a>Opzione di Power BI
-L'opzione di Power BI è ideale se preferisci dimostrare le tue competenze distribuendo le postazioni di Power BI, oltre che superando una valutazione. Completa tutti i passaggi all'interno per raggiungere la competenza di analisi dei dati.
+    - The same **4** individuals must pass one of the following assessments:
+        - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+        - [Technical Assessment Advanced Analytics for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
+        - [Technical Assessment Big Data for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
 
-###<a name="silver"></a>Silver
+##Power BI option
+The Power BI option is ideal for you if you prefer to prove your skills by deploying Power BI seats as well as passing an assessment. Complete all the steps within to attain the Data Analytics competency.
 
-1. L'organizzazione deve disporre di **1** utente che superi la valutazione richiesta.
+###Silver
 
-    - [Valutazione tecnica di Business Intelligence per analisi dei dati](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+1. Your organization must have **1** individual pass the required assessment.
+
+    - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
   
-2. L'organizzazione deve soddisfare le soglie delle prestazioni.
+2. Your organization must meet the performance thresholds.
 
-    - Distribuisci 250 postazioni di Power BI e collegati come Partner of Record per le sottoscrizioni di Power BI per essere idoneo.
-    - [Altre informazioni](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) su queste associazioni.
+    - Deploy 250 seats of Power BI and be attached as Partner of Record for Power BI subscriptions to qualify.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-###<a name="gold"></a>Gold
-1. L'organizzazione deve disporre di **2** utenti che superino la valutazione richiesta.
-    - [Valutazione tecnica di Business Intelligence per analisi dei dati](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+###Gold
+1. Your organization must have **2** individuals pass the required assessment.
+    - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
   
-2. L'organizzazione deve soddisfare le soglie delle prestazioni.
-    - Distribuisci 1.000 postazioni di Power BI e collegati come Partner of Record per le sottoscrizioni di Power BI per essere idoneo.
-    - [Altre informazioni](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) su queste associazioni.
-
+2. Your organization must meet the performance thresholds.
+    - Deploy 1,000 seats of Power BI and be attached as Partner of Record for Power BI subscriptions to qualify.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
+-->

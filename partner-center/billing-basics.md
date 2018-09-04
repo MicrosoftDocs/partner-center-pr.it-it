@@ -3,11 +3,13 @@ title: Nozioni di base sulla fatturazione | Centro per i partner
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
-ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 98b4edcbc7c10e73b59f89b74494ae363a306745
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876391"
 ---
 # <a name="billing-basics"></a>Nozioni di base sulla fatturazione
 
@@ -146,12 +148,12 @@ Azure funziona con un modello di "pagamento a consumo", in base al quale vengono
 
 ## <a name="one-time-billing"></a>Fatturazione una tantum
 
-I partner del programma Cloud Solution Provider (CSP) possono offrire istanze prenotate ai clienti sulle macchine virtuali di Microsoft Azure. I clienti possono prenotare le macchine virtuali in anticipo, per uno o tre anni termini, e ottenere risparmi significativi sull'uso di Azure.   
+I partner del programma Cloud Solution Provider (CSP) possono offrire istanze prenotate ai clienti sulle macchine virtuali di Microsoft Azure. I clienti possono prenotare le macchine virtuali in anticipo, per uno o tre anni, e ottenere risparmi significativi sull'uso di Azure.   
 
-I clienti pagano anticipatamente le istanze di macchina virtuale riservate di Azure. Quando acquisti istanze di macchina virtuale riservate di Azure per conto di un cliente, riceverai le fatture e file di riconciliazione per questi addebiti una tantum. 
+I clienti pagano anticipatamente le istanze di macchina virtuale riservate di Azure. Quando acquisti istanze di macchina virtuale riservate di Azure per conto di un cliente, riceverai le fatture e i file di riconciliazione per questi addebiti una tantum. 
 
 >[!IMPORTANT]
->Se acquisti istanze di macchina virtuale riservate di Azure per un cliente in un mercato con valuta diversa dalla tua, la valuta di fatturazione predefinita si basa sul mercato del cliente, non sulla tua sede. Se disponi di clienti in più mercati, riceverai fatture separate e file di riconciliazione per ogni valuta in cui i clienti necessitano della fatturazione, consentendoti di fatturare nella valuta appropriata. 
+>Se acquisti istanze di macchina virtuale riservate di Azure per un cliente in un mercato con una valuta diversa dalla tua, la valuta di fatturazione predefinita corrisponderà a quella del mercato del cliente e non del tuo. Se disponi di clienti in più mercati, riceverai fatture e file di riconciliazione separati per ogni valuta in cui i clienti necessitano della fatturazione, consentendoti così di fatturare nella valuta appropriata. 
 
 Per accedere a file di riconciliazione e fatture con addebito una tantum, seleziona **Fatturazione** dal dashboard del partner, quindi seleziona **Una volta**. 
 
@@ -168,8 +170,8 @@ Per accedere a file di riconciliazione e fatture con addebito una tantum, selezi
 2.  Nella pagina **Clienti** trova il cliente di cui desideri visualizzare la cronologia ordini e seleziona la freccia giù per espandere il record del cliente. 
 3.  Seleziona **Visualizza ordini** per visualizzare la cronologia degli ordini.
 
-#### <a name="create-a-credit-or-void-note"></a>Creare un accredito o annullare una fattura
+#### <a name="download-a-credit-note"></a>Scaricare una nota di credito
 
-In determinate situazioni, potresti avere l'esigenza di annullare una fattura ed emetterne una nuova. Ad esempio, un cliente può cambiare il nome della propria attività e ricevere una fattura in cui figura il vecchio nome. 
-
-Per annullare una fattura ed emetterne una nuova, scarica il modulo dalla pagina di fatturazione in Rettifiche.
+Nel caso in cui esercitare un credito completo (Void fattura) e una nuova fattura ripartita, forniremo un accredito per annullare la fattura originale e anche un documento nuovo completo. È possibile richiedere una credito e una nuova fattura ripartita per i motivi seguenti:
+-   Correzioni di ordine di acquisto o l'indirizzo
+-   Fattura generata e quindi è stato applicato un rimborso fiscale. Puoi richiedere una credito e una nuova fattura ripartita per ottenere la restituzione di imposte trascinata indietro nella fattura originale. Ciò vale anche per rimborsi, come è possibile richiedere una credito e una nuova fattura ripartita della fattura originale e quindi eseguire il pull in un rimborso.

@@ -3,11 +3,13 @@ title: Programma Cloud Solution Provider - vendita di soluzioni cloud popolari |
 description: Il programma Cloud Solution Provider può aiutare la tua azienda ad acquisire nuovi clienti e nuove competenze.
 author: labrenne
 keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, partner diretto, partner CSP diretto, rivenditore CSP indiretto, CSP diretto, CSP indiretto, modello diretto, modello indiretto, rivenditore indiretto, provider indiretto, provider, server di distribuzione, programma cloud solution provider
-ms.openlocfilehash: 1e23de4014e9d3dd85134c17e60dfeacc8acf9d7
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7075949392621c73d8c5d45f2971c759b1114f9e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875751"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programma Cloud Solution Provider - Vendita di soluzioni cloud popolari 
 
@@ -26,11 +28,22 @@ Il programma Cloud Solution Provider (CSP) non consiste semplicemente nella rive
 
 ### <a name="direct-bill-model"></a>Modello di addebito diretto
 
- Nel modello di addebito diretto i partner acquistano prodotti e abbonamenti Microsoft direttamente da Microsoft e li vendono direttamente ai propri clienti tramite il personale di vendita interno. I partner che già dispongono dell'adeguata infrastruttura di vendita, fatturazione e supporto, o sono intenzionati a svilupparla, possono scegliere il modello CSP diretto. I partner più adatti per il modello CSP diretto devono soddisfare questi prerequisiti:
+ Nel modello di addebito diretto i partner acquistano prodotti e abbonamenti Microsoft direttamente da Microsoft e li vendono direttamente ai propri clienti tramite il personale di vendita interno. I partner che già dispongono dell'adeguata infrastruttura di vendita, fatturazione e supporto, o sono intenzionati a svilupparla, possono scegliere il modello CSP diretto. I requisiti per diventare un partner diretto di recente sono stati modificati e verranno applicate a partire dal 31 agosto 2018. I partner diretti deve soddisfare i requisiti di nuovo a partire da loro successivo periodo di registrazione dopo il 31 agosto 2018.
+
+
+#### <a name="new-expanded-requirements"></a>Nuovi requisiti espansi:
+
+Supporto
+- Espandere le funzionalità di supporto tramite acquisto di supporto per il cloud personale e priorità con un Microsoft supporto avanzato per il pacchetto di partner. In alternativa, scegliere un supporto tecnico Microsoft Premier per il pacchetto di partner per accedere al catalogo completo dei servizi proattivi, con privilegi elevati 24/7 interruzione/correzione supporto e gestione degli account tecnici in cloud, ibrido e locale. 
+
+Servizi
+
+- Dimostrare che fornire almeno un servizio gestito, servizio IP o applicazione soluzione dei clienti. Altre informazioni sull'aggiunta dei servizi gestiti
+
+- Soddisfa le funzionalità di infrastruttura minima, ad esempio la fatturazione e di provisioning.
+Ci stiamo il monitoraggio delle prestazioni annuale per verificare che i partner di addebito diretto che soddisfano questi requisiti siano dimostrando crescita costante. Non esistono alcun obiettivi di prestazioni specifici posto in questo momento, ma Microsoft può implementare un prestazioni barra in futuro. 
+
 - Un ID Microsoft Partner Network (MPN) attivo per la località in cui desiderano vendere
-- Infrastruttura esistente di supporto clienti
-- Infrastruttura esistente di fatturazione ai clienti
-- Fondi da investire nell'integrazione tecnica e nella preparazione al supporto
 
 
 ### <a name="indirect-model"></a>Modello indiretto

@@ -1,10 +1,14 @@
 ---
-title: "Eseguire il test drive delle nuove funzionalità del Centro per i partner"
-description: "Prova le nuove funzionalità del Centro per i partner prima che vengano rilasciate e facci sapere cosa ne pensi. Aiutarci a dare forma al futuro del Centro per i partner!"
+title: Eseguire il test drive delle nuove funzionalità del Centro per i partner
+description: Prova le nuove funzionalità del Centro per i partner prima che vengano rilasciate e facci sapere cosa ne pensi. Aiutarci a dare forma al futuro del Centro per i partner!
 author: MaggiePucciEvans
-ms.openlocfilehash: 61c8188ec08ed8fb22c4e3eade24e7273e2dd6ed
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2860e3c2fbcce28030a8b5441b542db9e98cf119
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876661"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Eseguire il test drive delle nuove funzionalità del Centro per i partner
 

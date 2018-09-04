@@ -3,11 +3,13 @@ title: Spostamento dall'interfaccia di amministrazione partner al Centro per i p
 description: Trova nel Centro per i partner le funzionalità che hai usato nell'interfaccia di amministrazione partner
 author: labrenne
 keywords: PAC, amministratore di Office 365, funzionalità PAC
-ms.openlocfilehash: 7bcb12a918cf007a474287183c2aa0956c161431
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f2982e1e517c02a78d01b68f21122eebcabf3bf9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876251"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-dashboard"></a>Passare dall'interfaccia di amministrazione partner (PAC) al dashboard del partner
 

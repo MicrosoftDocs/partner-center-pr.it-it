@@ -2,12 +2,13 @@
 title: Offerte di terze parti | Centro per i partner
 description: Man mano che la tua attività cresce, puoi sviluppare e incrementare il tuo portafoglio aggiungendo offerte di terze parti nei tuoi pacchetti di prodotti.
 author: labrenne
-ms.openlocfilehash: 70945db54e006e99760112ca71884b5b0a6f4197
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8972c59781276e9c1c839e02f3dd0d196bed7f71
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1931092"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874591"
 ---
 # <a name="third-party-offers"></a>Offerte di terze parti 
 

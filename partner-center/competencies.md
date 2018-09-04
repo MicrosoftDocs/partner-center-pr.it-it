@@ -4,11 +4,13 @@ description: Acquisisci le competenze Silver e Gold Microsoft per dimostrare la 
 author: KPacquer
 keywords: competenze, adesione silver, adesione gold, mpn, MAPS, idoneità, vantaggi, obiettivi di prestazioni, obiettivi di competenze
 robots: noindex,nofollow
-ms.openlocfilehash: 0e1fc6639888c67f6ce420106e9a0e41a267ac36
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1702a5ebca4ee33a32d2a30bb55c9a4b6520b8e2
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876651"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page

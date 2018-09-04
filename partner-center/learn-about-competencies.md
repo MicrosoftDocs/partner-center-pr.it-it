@@ -3,11 +3,13 @@ title: Requisiti di competenza Microsoft per l'adesione Gold e Silver | Centro p
 description: Scopri i requisiti di competenza per conseguire i livelli di adesione Gold e Silver.
 author: Maggiepuccievans
 keywords: competenze, adesione silver, adesione gold, mpn, MAPS, competenza, Microsoft Partner Network, adesione alla rete
-ms.openlocfilehash: a922e579706b1c859ee6e645f814feaa7dd0d2e3
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 705a9037282a77d33dd356e8d49fe855b5521a9a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875731"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Requisiti di competenza Microsoft per l'adesione Gold e Silver
 

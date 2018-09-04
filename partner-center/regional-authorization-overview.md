@@ -4,11 +4,13 @@ description: Con l'autorizzazione regionale, i partner con aziende internazional
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 keywords: Tenant di Azure AD, consolidare i tenant, strategia dei tenant, tenant in CSP, account partner in CSP, mercati e territori CSP, dove è possibile vendere tramite CSP?
-ms.openlocfilehash: 45d9c6730cf3274d68915a453b1a33ed5239f68d
-ms.sourcegitcommit: e56f07feb1c6748efda48a8d2cd00185331f904a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 59c9e17d3238afd775c08513f9ef39cb3fd6d7d7
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/19/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876381"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>Strategie di consolidamento dei tenant in CSP
 
@@ -204,7 +206,7 @@ La posizione geografica determina la valuta di fatturazione, come illustrato nel
 | DKK | Danimarca |
 | CHF | Svizzera |
 | CAD | Canada |
-| AUD | Australia, Isola Christmas, Isole Cocos (Keeling), Isole Cook, Figi, Heard e McDonald, Kiribati, Isole Marshall, Nauru, Niue, Norfolk, Isole Marianne Settentrionali, Palau, Papua Nuova Guinea, Isole Pitcairn, Isole Salomone, Tokelau, Tonga, Tuvalu, Wallis e Futuna. |
+| AUD | Australia, Isola Christmas, Isole Cocos (Keeling), Isole Cook, Figi, Heard e McDonald, Kiribati, Isole Marshall, Nauru, Nauru,Niue, Norfolk, Isole Marianne Settentrionali, Palau, Papua Nuova Guinea, Isole Pitcairn, Isole Salomone, Tokelau, Tonga, Tuvalu, Wallis e Futuna. |
 
 
  

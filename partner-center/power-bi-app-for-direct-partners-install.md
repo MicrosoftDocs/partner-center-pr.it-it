@@ -3,11 +3,13 @@ title: Installare e visualizzare in anteprima l'app Analisi del Centro per i Par
 description: Attenersi alla procedura seguente per visualizzare in anteprima l'app Analisi del Centro per i Partner per Power BI (per i partner diretti in CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
-ms.openlocfilehash: 6888cfe815b4e3235442d9a1ce242c37d44a62ad
-ms.sourcegitcommit: 9183f596e81595496ae49375c116ea0f772babac
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 0164a650fb92e4a445b195f3e7b34f1359759a8c
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874761"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installare e visualizzare in anteprima l'app Analisi del Centro per i Partner per Microsoft Power BI
 

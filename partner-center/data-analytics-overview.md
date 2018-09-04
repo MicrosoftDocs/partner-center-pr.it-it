@@ -1,13 +1,15 @@
 ---
 title: Dati e analisi nel Centro per i partner | Centro per i partner
-description: "L'uso delle funzionalità dei dati del Centro per i partner ti consente di comprendere meglio le esigenze dei clienti"
+description: L'uso delle funzionalità dei dati del Centro per i partner ti consente di comprendere meglio le esigenze dei clienti
 author: labrenne
 Keywords: data, analytics, usage, skills
-ms.openlocfilehash: 290b7c97e35672cd6175471cfd78a1c32376d7e1
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 031afa51f0ca3f3c6d9de34f55e58af1e96e229f
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874531"
 ---
 # <a name="data-and-analytics-in-partner-center"></a>Dati e analisi nel Centro per i partner
 

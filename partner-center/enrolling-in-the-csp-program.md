@@ -2,15 +2,17 @@
 title: Iscriversi al programma Cloud Solution Provider | Centro per i partner
 description: Comprendi i diversi modelli per la vendita in CSP e determina qual è il più adatto alla tua attività
 author: labrenne
-ms.openlocfilehash: 3fb617c78ac0120c2f1588022441469fa0345708
-ms.sourcegitcommit: f6681a0bd9f09242b3544448573d30f5a0aa1f3c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 609ef0bd1e280e41cd74088b8a42ffe7771d5ef9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/26/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876401"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
-**Ambito di applicazione**---
+**Si applica a**
 
 -  Centro per i partner
 
@@ -21,7 +23,7 @@ Per iscriverti al programma Cloud Solution Provider hai innanzi tutto bisogno di
 
 Per compilare la domanda di partecipazione al programma CSP, ti servirà l'ID MPN, l'indirizzo completo della tua azienda, le coordinate bancarie e l'indirizzo e-mail aziendale del dipendente che fungerà da amministratore per il dashboard del partner.
 
-Decidi quale [modello CSP funziona](http://partner-l1.microsoft.com/cloud-solution-provider-direct-or-indirect.html?ocid=cx-pcprograms-cspprogram-tellusmorebusiness) per te e completa la domanda. 
+Decidi quale [modello CSP funziona](https://partnercenter.microsoft.com/en-us/cloud-solution-provider/csp-enrollment) per te e completa la domanda. 
 
 Potrebbero essere necessari diversi giorni per esaminare e verificare le informazioni fornite. Ti invieremo un'e-mail al termine della revisione.
 
@@ -40,15 +42,29 @@ Potrebbero essere necessari diversi giorni per esaminare e verificare le informa
 
 ### <a name="enroll-as-a-direct-partner"></a>Iscriversi come partner diretto
 
->**Nota**<br> Stiamo aggiornando i requisiti di registrazione dei partner diretti e al momento non accettiamo nuove domande. Prevediamo di iniziare ad accettare nuove domande a partire dal 31 agosto. Ti consigliamo di prendere in considerazione la registrazione come rivenditore indiretto. 
-
 Come partner diretto, sei titolare della relazione completa con il cliente e con Microsoft.
 
 - Dopo esserti iscritto e avere soddisfatto i criteri di accettazione come partner diretto, l'amministratore globale può configurare il tuo account, aggiungere i dipendenti, assegnare loro ruoli e autorizzazioni in base alla loro attività e configurare il profilo dell'organizzazione. 
 
 - Se lavori con clienti con cui desideri continuare la relazione tramite il dashboard del partner, dovrai [associarli](request-a-relationship-with-a-customer.md) al tuo account nel dashboard del partner.  Microsoft può quindi connettere la tua fatturazione ai clienti. 
 
-| Disponibilità per mercato |
+>**Nota**<br> I requisiti per diventare un partner diretto di recente sono stati modificati e verranno applicate a partire dal 31 agosto 2018. I partner diretti deve soddisfare i requisiti di nuovo a partire da loro successivo periodo di registrazione dopo il 31 agosto 2018.
+
+#### <a name="new-expanded-requirements"></a>Nuovi requisiti espansi:
+
+Supporto
+- Espandere le funzionalità di supporto tramite acquisto di supporto per il cloud personale e priorità con un Microsoft supporto avanzato per il pacchetto di partner. In alternativa, scegliere un supporto tecnico Microsoft Premier per il pacchetto di partner per accedere al catalogo completo dei servizi proattivi, con privilegi elevati 24/7 interruzione/correzione supporto e gestione degli account tecnici in cloud, ibrido e locale. 
+
+Servizi
+
+- Dimostrare che fornire almeno un servizio gestito, servizio IP o applicazione soluzione dei clienti. Altre informazioni sull'aggiunta dei servizi gestiti
+
+- Soddisfa le funzionalità di infrastruttura minima, ad esempio la fatturazione e di provisioning.
+Ci stiamo il monitoraggio delle prestazioni annuale per verificare che i partner di addebito diretto che soddisfano questi requisiti siano dimostrando crescita costante. Non esistono alcun obiettivi di prestazioni specifici posto in questo momento, ma Microsoft può implementare un prestazioni barra in futuro. 
+
+- Un ID Microsoft Partner Network (MPN) attivo per la località in cui desiderano vendere
+
+|**Disponibilità per mercato**|
 |----------------------------------------------------------------------------------------------|
 | Brasile  |
 | Canada  |
@@ -70,7 +86,7 @@ Come partner diretto, sei titolare della relazione completa con il cliente e con
 
 La posizione geografica determina la valuta di fatturazione, come illustrato nella tabella seguente. Tieni presente che a causa di implicazioni fiscali e legali, per usare una valuta di fatturazione diversa, sarà necessario creare un nuovo tenant e specificare quella valuta. 
 
-| Valuta | Paese |
+| **Valuta** | **Paese** |
 | ---- | ---- |
 | USD | Albania e Sint Eustatius, Anguilla, Antartide, Antigua e Barbuda, Argentina, Armenia, Aruba, Azerbaigian, Bahamas, Bahrein, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolivia, Bonaire, Brasile, Territorio britannico dell'Oceano Indiano, Brunei, Burundi, Camerun, Isole Cayman, Repubblica Centrafricana, Cile, Colombia, Comore, Costa Rica, Curaçao, Repubblica Dominicana, Ecuador, Egitto, El Salvador, Guinea Equatoriale, Eritrea, Guayana Francese, Polinesia Francese, Georgia, Ghana, Guatemala, Guinea-Bissau, Honduras, RAS di Hong Kong, Indonesia, Iraq, Israele, Giamaica, Kazakhstan, Kenya, Kuwait, Kirghizistan, Libano, Lesoto, RAS di Macao, Madagascar, Malawi, Malaysia, Mali, Mauritania, Mauritius, Mayotte, Messico, Marocco, Namibia, Nuova Caledonia, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Perù, Filippine, Portorico, Qatar, Riunione, Ruanda, Saba, Saint Lucia, Saint Martin, Saint Vincent e Grenadine, Arabia Saudita, Serbia, Seychelles, Sierra Leone, Singapore, Sint Maarten, Somalia, Sudafrica, Sri Lanka, Suriname, Swaziland, Tanzania, Thailandia, Timor-Leste, Togo, Trinidad e Tobago, Tunisia, Turchia, Turks e Caicos, Isole, Isole Vergini Americane, Ucraina, Emirati Arabi Uniti, Stati Uniti, Uruguay, Venezuela, Vietnam, Yemen. | 
 | TWD | Taiwan |

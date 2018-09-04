@@ -1,10 +1,14 @@
 ---
 title: Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud Germania | Centro per i partner per Microsoft Cloud Germania
-description: "Per soddisfare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l&quot;utilizzo dei dati dei singoli utenti, le funzionalità di gestione degli utenti non sono disponibili nel Centro per i partner per Microsoft Cloud Germania. Al contrario, aggiungere e gestire gli utenti nel portale di Azure per Microsoft Cloud Germania."
+description: Per soddisfare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'utilizzo dei dati dei singoli utenti, le funzionalità di gestione degli utenti non sono disponibili nel Centro per i partner per Microsoft Cloud Germania. Al contrario, aggiungere e gestire gli utenti nel portale di Azure per Microsoft Cloud Germania.
 author: MaggiePucciEvans
-ms.openlocfilehash: 94e8caf84dc0ba52f231f03c7e4a9475fce075a6
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4e354fd3f5bf20ef10600a454a94704fe2db0700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875771"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud Germania
 
@@ -26,12 +30,11 @@ Al momento della pubblicazione di questo articolo, la documentazione relativa al
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Come gestire gli utenti nel portale di Azure per Microsoft Cloud Germania 
 
-Se si è connessi al Centro per i partner per Microsoft Cloud Germania, è possibile aprire il portale di Azure per Microsoft Cloud Germania senza dover accedere di nuovo. Tuttavia, se è necessario accedere direttamente al portale di Azure per Microsoft Cloud Germania, andare a [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
+Se si è connessi al Centro per i partner per Microsoft Cloud Germania, è possibile aprire il portale di Azure per Microsoft Cloud Germania senza dover accedere di nuovo. Tuttavia, se hai bisogno di accedere direttamente al portale di Azure per Microsoft Cloud Germania, Vai a [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
 
 Dopo aver eseguito l'accesso al portale di Azure per Microsoft Cloud Germania, aprire la pagina della panoramica di Azure Active Directory (Azure AD) e quindi segui le istruzioni in questi argomenti:
 
->**Nota**
- selezionando i collegamenti di seguito si verrà indirizzati a un altro sito Web. 
+>**Nota** selezionando i collegamenti di seguito si verrà indirizzati a un altro sito Web. 
 
 -  [**Aggiungere nuovi utenti ad Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

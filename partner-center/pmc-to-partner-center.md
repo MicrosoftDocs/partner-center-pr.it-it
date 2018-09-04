@@ -1,16 +1,18 @@
 ---
 title: Eseguire la transizione dell'appartenenza a MPN dal Partner Membership Center al Centro per i partner
-description: 'Per gli utenti PMC: adesso stiamo gestendo l''appartenenza a MPN mediante il Centro per i partner. Ecco le operazioni che puoi effettuare.'
+description: "Per gli utenti PMC: adesso stiamo gestendo l'appartenenza a MPN mediante il Centro per i partner. Ecco le operazioni che puoi effettuare."
 author: KPacquer
 keywords: appartenenza a mpn, competenze, dal pmc al centro per i partner
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
-ms.openlocfilehash: 2349ee30aa54a756e7fdc49c24917807a7443425
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875861"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Eseguire la transizione dell'appartenenza a MPN dal Partner Membership Center al Centro per i partner
 
@@ -43,7 +45,7 @@ L'amministratore dell'organizzazione aggiunge i dipendenti nel Centro per i part
 
 ## <a href="" id="nonadmin_tasks"></a> Le attività dei dipendenti: aggiornare gli account
 
-1.  Ottieni le tue informazioni di accesso da Centro per i partner Microsoft o dal tuo amministratore. Se non ricevi le informazioni di accesso, contatta l'amministratore dell'organizzazione per chiedere di inviartele direttamente. 
+1.  Ottenere le informazioni di accesso, dal Microsoft Partner Center o dal tuo amministratore. Se non ricevi le informazioni di accesso, contatta l'amministratore dell'organizzazione per chiedere di inviartele direttamente. 
 
 2.  Collega il tuo account di Microsoft Partner University. Nel dashboard del Centro per i partner seleziona **Aggiorna il profilo** > **Ottieni l'accesso a Partner University**.  Dopo aver connesso questo account, potrai accedere di nuovo a Partner University.
 

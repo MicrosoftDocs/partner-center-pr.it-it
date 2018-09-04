@@ -3,10 +3,13 @@ title: Inoltrare i problemi a Microsoft | Centro per i partner
 description: Sei tu a dover risolvere i problemi per conto dei tuoi clienti.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
-ms.openlocfilehash: 1875758bbaeb1b19efe0132d7b4157586479a81d
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2ffb4a63384a4ee51b485d832ba847315573b633
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876461"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Inoltrare i problemi a Microsoft
 
@@ -30,7 +33,21 @@ Esistono però alcune categorie di problemi che è necessario inoltrare a Micros
 
 -   Problemi locali con impatto su più tenant
 
-Per richiedere l'assistenza di Microsoft, invia una richiesta di supporto nel Centro per i partner. Alla risoluzione del problema, dovrai comunicare e chiudere il ciclo con il cliente. Vedi [Segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).
+## <a name="submit-a-support-request"></a>Invia una richiesta di supporto
+
+1. Nel dashboard, seleziona **i clienti**.
+2. Seleziona il cliente che richiede il supporto.
+3. Seleziona **la gestione dei servizi** e **le richieste di servizio**.
+4. Seleziona **nuova richiesta** e quindi seleziona **Microsoft Office 365**.
+5. Vieni indirizzato al portale di Office 365 in cui è necessario accedere con le credenziali del Dashboard del Partner.
+6. Seleziona il **supporto**, **nuova richiesta di servizio** dal menu a sinistra.
+7. Seleziona l'argomento di supporto.
+
+>[!NOTE]
+>È importante avviare il dashboard in modo che venga mantenuta la relazione tra per i partner e clienti. 
+
+
+Per informazioni sulla creazione di report i problemi per conto del cliente, vedi [segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).
 
  
 

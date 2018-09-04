@@ -3,11 +3,13 @@ title: Rispondere alle segnalazioni | Centro per i partner
 description: Valutare, negoziare e rispondere alle segnalazioni tramite il Centro per i partner.
 author: KPacquer
 keywords: segnalazione, richiesta di informazioni, Trova un partner
-ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875421"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Rispondere alle segnalazioni nel Centro per i partner
 

@@ -3,11 +3,13 @@ title: Aggiornare l'adesione al Microsoft Partner Network | Centro per i partner
 description: Quando aggiorni la tua adesione al Microsoft Partner Network, hai diritto ai relativi vantaggi esclusivi. Scopri come trovare e acquistare le offerte disponibili.
 author: MaggiePucciEvans
 robots: noindex,nofollow
-ms.openlocfilehash: 9503ce2188adf77122a1eb48efe748abddaabcb6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875711"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Aggiornare l'adesione al Microsoft Partner Network
 
@@ -27,7 +29,7 @@ Il programma per i partner Microsoft offre le tre opzioni di adesione indicate d
 
   - Competenza Gold: massima competenza in una specifica area di soluzioni Microsoft
 
-Dopo aver aderito al Microsoft Partner Network, potrai aggiornare la tua adesione e acquistare offerte di vantaggi esclusivi. Per altre informazioni sull'adesione al Microsoft Partner Network, visita [https://partner.microsoft.com](https://partner.microsoft.com).
+Dopo aver aderito al Microsoft Partner Network, potrai aggiornare la tua adesione e acquistare offerte di vantaggi esclusivi. Per altre informazioni sull'adesione al Microsoft Partner Network, Vai a [https://partner.microsoft.com](https://partner.microsoft.com).
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Acquistare una sottoscrizione di Microsoft Action Pack
@@ -42,7 +44,7 @@ Action Pack è un conveniente abbonamento annuale a servizi, software e supporto
 
 - Ricevere 100 dollari di crediti Microsoft Azure al mese
 
-Per altre informazioni su Microsoft Action Pack, visita [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
+Per ulteriori informazioni su Microsoft Action Pack, Vai a [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 >**Nota** Questo collegamento ti condurrà a un altro sito Web. Torna a questo sito, il Centro per i partner, per abbonarti ad Action Pack.
 
@@ -104,9 +106,9 @@ Se disattivi il rinnovo automatico dell'abbonamento, potrai riattivarlo solo al 
 
 Per annullare l'abbonamento a Microsoft Action Pack, contatta il supporto del Centro per i partner.
 
-1. Visita https://partnercenter.microsoft.com/partner/support.
+1. Vai a https://partnercenter.microsoft.com/partner/support.
 
-2. Seleziona **Segnala i problemi relativi al Centro per i partner** e quindi seleziona **Nuova richiesta** nella pagina successiva.
+2. Seleziona **Segnala i problemi relativi al Centro per i partner**, quindi **Nuova richiesta** nella pagina successiva.
 
 3. Espandi l'elenco **Tipo di problema** e seleziona **Help with partner invoice, payment, or reconciliation file**. 
 

@@ -2,20 +2,21 @@
 layout: LandingPage
 hide_bc: true
 title: Iniziare da qui per ottenere assistenza con il dashboard per i partner
-description: Hai bisogno di assistenza per configurare il tuo account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack? Trova le risposte nella raccolta Guida del dashboard per i partner.
+description: Hai bisogno di assistenza per configurare il tuo account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack? Trova le risposte in questa raccolta Guida del dashboard creata in modo specifico per i partner nei programmi CSP e MPN.
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
-ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1919901"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876371"
 ---
-# <a name="start-here-for-help-with-partner-center-dashboard"></a>Iniziare da qui per ottenere assistenza con il dashboard Centro per i partner
+# <a name="start-here-for-help-with-partner-dashboard"></a>Iniziare da qui per ottenere assistenza con il dashboard per i partner
 
-Hai bisogno di assistenza per configurare il tuo account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack? Trova le risposte nella raccolta Guida del dashboard Centro per i partner.
+Hai bisogno di assistenza per configurare il tuo account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack? Trova le risposte in questa raccolta Guida del dashboard creata in modo specifico per i partner nei programmi CSP e MPN.
 
 Se si ha già familiarità con il dashboard, vedi le [novità](/partner-center/whats-new-in-pc).
 

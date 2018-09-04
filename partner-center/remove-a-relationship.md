@@ -2,12 +2,13 @@
 title: Rimuovere una relazione con un rivenditore o un cliente | Centro per i partner
 description: La rimozione di una relazione consente di rimuovere tutte le relazioni di business chiuse dalla vista nel Centro per i partner.
 author: KPacquer
-ms.openlocfilehash: eb48bb660fbd6acac91426eff5c0b9f4c8c45729
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 37b4866a4bdb0d2785581c71a329c236ab9a4d81
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/22/2018
-ms.locfileid: "2088968"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875511"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Rimuovere una relazione con un rivenditore o un cliente
 

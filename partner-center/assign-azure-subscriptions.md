@@ -3,11 +3,13 @@ title: Assegnare le sottoscrizioni Azure nel Centro per i partner | Centro per i
 description: Puoi ora assegnare sottoscrizioni Azure ai clienti nel Centro per i partner. Puoi anche abilitarli alla gestione autonoma delle sottoscrizioni
 author: Labrenne
 keywords: Azure, sottoscrizione Azure, sottoscrizione, sottoscrizioni, assegnare la sottoscrizione, gestire la sottoscrizione azure
-ms.openlocfilehash: 756e5499bacf600397ce78e130645897ffa8acf1
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: cc847b9a0cab253c911141c26c4ab457ad0d98cc
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875011"
 ---
 # <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>Assegnare le sottoscrizioni di Azure nel dashboard del partner
 

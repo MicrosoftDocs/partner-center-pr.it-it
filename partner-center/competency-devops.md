@@ -1,51 +1,59 @@
 ---
 title: Competenza di DevOps
-description: "Se hai un'esperienza profonda di lavoro con le aziende per consentire loro di gestire i cicli di vita del software sfruttando le funzionalità di DevOps della piattaforma di sviluppo di Microsoft, quindi la competenza di DevOps è la scelta giusta per definire la propria organizzazione come partner di Microsoft."
+description: Se hai un'esperienza profonda di lavoro con le aziende per consentire loro di gestire i cicli di vita del software sfruttando le funzionalità di DevOps della piattaforma di sviluppo di Microsoft, quindi la competenza di DevOps è la scelta giusta per definire la propria organizzazione come partner di Microsoft.
 author: Daniel Simpson
 keywords: competenza, competenze, devops
-ms.openlocfilehash: a50b05f815f9eacfb52600b923dc53ff7c1fb8f6
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 575027d70b033085db21a30b7e703df53790f996
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875721"
 ---
-# <a name="devops"></a>DevOps
- Se hai un'esperienza profonda di lavoro con le aziende per consentire loro di gestire i cicli di vita del software sfruttando le funzionalità di DevOps della piattaforma di sviluppo di Microsoft, quindi la competenza di DevOps è la scelta giusta per definire la propria organizzazione come partner di Microsoft.
+>[!IMPORTANT]
+>Per informazioni sui requisiti per conseguire questa competenza, visita il [portale di Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-## <a name="devops-partner-option"></a>Opzione partner di DevOps
-L'opzione partner di DevOps è ideale per i partner che utilizzano Microsoft Visual Studio per fornire la gestione del ciclo di vita del software ai propri clienti. Completa tutti i passaggi all'interno dell'opzione per raggiungere la competenza di DevOps.
+<!--
 
-###<a name="silver"></a>Silver
-1. L'organizzazione deve disporre di **2** utenti che superino i requisiti di esame.
+# DevOps
+ If you have deep experience working with businesses helping them manage software lifecycles by leveraging the DevOps features of Microsoft’s development platform, then DevOps competency is the right choice to establish your organization as Microsoft's partner.
 
-    - I**2** utenti devono superare ciascuno tutti i seguenti esami:
+## DevOps Partner option
+The DevOps Partner option is ideal for partners who use Microsoft Visual Studio to deliver software lifecycle management for their customers. Complete all the steps within the option to attain the DevOps competency.
 
-        - [Esame 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): amministrazione di Visual Studio Team Foundation Server 2012
-        - [Esame 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): capacità di fornire valore continuo con la gestione del ciclo di vita di Visual Studio Application
+###Silver
+1. Your organization must have **2** individuals pass the exam requirements.
 
-    **E**
+    - **2** individuals must each pass all the following exams:
 
-    - **1** degli stessi **2** utenti deve superare uno dei seguenti esami:
+        - [Exam 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
+        - [Exam 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
 
-        * [Esame 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): test del software con Visual Studio 2012
-        * [PMI Agile Certified Practitioner (PMI ACP)](http://www.pmi.org/certifications/types/agile-acp)
+    **AND**
+
+    - **1** of the same **2** individuals must pass one of the following exams:
+
+        * [Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
+        * [PMI Agile Certified Practitioner (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
         * [Professional Scrum Master level 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
         * [Scrum Alliance Certified Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
     
-###<a name="gold"></a>Gold
-1. L'organizzazione deve disporre di **4** utenti che superino i requisiti di esame.
+###Gold
+1. Your organization must have **4** individuals pass the exam requirements.
 
-    - I**4** utenti devono superare ciascuno tutti i seguenti esami:
+    - **4** individuals must each pass all the following exams:
 
-        - [Esame 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): amministrazione di Visual Studio Team Foundation Server 2012
-        - [Esame 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): capacità di fornire valore continuo con la gestione del ciclo di vita di Visual Studio Application
+        - [Exam 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
+        - [Exam 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
 
-    **E**
+    **AND**
 
-    - **2** degli stessi **4** utenti devono superare uno dei seguenti esami:
+    - **2** of the same **4** individuals must pass one of the following exams:
 
-        * [Esame 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): test del software con Visual Studio 2012
-        * [PMI Agile Certified Practitioner (PMI ACP)](http://www.pmi.org/certifications/types/agile-acp)
+        * [Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
+        * [PMI Agile Certified Practitioner (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
         * [Professional Scrum Master level 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
         * [Scrum Alliance Certified Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
-        
+-->        

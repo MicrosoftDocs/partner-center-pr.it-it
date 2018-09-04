@@ -3,11 +3,13 @@ title: Segnalare i problemi relativi al Centro per i partner | Centro per i part
 description: Come segnalare i problemi relativi al Centro per i partner e raccogliere informazioni di diagnostica per il nostro team di supporto.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
-ms.openlocfilehash: 8599068356be93468a98645f5b25771a521709dd
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 373b233fda147f0d282a70322e04ce81e0b8d8a2
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875291"
 ---
 # <a name="report-problems-with-partner-center"></a>Segnalare i problemi relativi al Centro per i partner
 
@@ -25,30 +27,29 @@ Contatta il supporto del dashboard del partner se rilevi problemi con il dashboa
 
 2.  Seleziona **Nuova richiesta**.
 
-3.  Compila il modulo e quindi seleziona **Invia**. Un rappresentante del supporto del dashboard del partner ti contatterà.
+3.  Compila il modulo e quindi seleziona **Invia**. Un rappresentante del supporto per i Partner verrà contattati con te.
 
 **Inviare la diagnostica**
 
-Se si verifica un errore mentre ti trovi in una pagina del dashboard del partner, ti potrebbe essere richiesto di raccogliere informazioni di log. Seleziona **Raccogli altre informazioni** dal collegamento nell'elenco a discesa nella parte superiore della pagina per aprire lo strumento di diagnostica client del dashboard del partner. Questo strumento raccoglie le informazioni necessarie al team di supporto del dashboard del partner per determinare la causa dell'errore. 
+Se si verifica un errore mentre ti trovi in una pagina del dashboard del partner, ti potrebbe essere richiesto di raccogliere informazioni di log. Seleziona **Raccogli altre informazioni** sul collegamento nell'elenco a discesa dalla parte superiore della pagina per aprire lo strumento di diagnostica Client. Questo strumento raccoglie le informazioni che il team di supporto per i Partner deve determinare la causa dell'errore. 
 
-**Nota**
-
-Nelle pagine del dashboard del partner che includono **/pcv/** nell'URL, è possibile aprire manualmente lo strumento per raccogliere queste informazioni.
+>[!NOTE]
+>Nelle pagine del dashboard del partner che includono **/pcv/** nell'URL, è possibile aprire manualmente lo strumento per raccogliere queste informazioni.
 
 1.  Vai alla pagina con il problema.
 
-2.  Premi **CTRL+ALT+D** per aprire lo strumento di diagnostica client del dashboard del partner.
+2.  Premi **Ctrl + Alt + D** per aprire lo strumento di diagnostica Client.
 
 Puoi visualizzare in anteprima le informazioni di diagnostica e salvarle in un file che è possibile allegare alla richiesta di supporto. Per inviare le informazioni:
 
-1.  Esaminare le informazioni nel file prima di inviarlo perché può contenere informazioni personali che puoi decidere di rimuovere. 
+3.  Esaminare le informazioni nel file prima di inviarlo perché può contenere informazioni personali che puoi decidere di rimuovere. 
 
-    >**Nota**<br>
-    In alcuni browser, la sezione **di visualizzazione della pagina** nella parte inferiore della pagina di **anteprima** può sembrare vuota. Non si tratta di un errore.
+    >[!NOTE]
+    >In alcuni browser, la sezione **di visualizzazione della pagina** nella parte inferiore della pagina di **anteprima** può sembrare vuota. Non si tratta di un errore.
 
-2.  Per salvare il file, segui le istruzioni visualizzate sullo schermo.
+4.  Per salvare il file, segui le istruzioni visualizzate sullo schermo.
 
-3.  Allega il file alla richiesta di supporto del dashboard del partner.
+5.  Allega il file alla tua richiesta di supporto.
 
-Il supporto del dashboard del partner potrebbe richiedere di eseguire lo strumento più volte per ottenere le informazioni più aggiornate.
+Supporto per i partner potrebbe essere richiesto di eseguire lo strumento più volte per ottenere le informazioni più aggiornate.
 

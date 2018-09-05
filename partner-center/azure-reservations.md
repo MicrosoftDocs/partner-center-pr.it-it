@@ -1,16 +1,17 @@
 ---
-title: Panoramica delle prenotazioni di macchine virtuali di Microsoft Azure | Centro per i partner
-Description: Overview of selling Microsoft Azure Reserved VM Instances in CSP.
+title: Panoramica delle prenotazioni di Microsoft Azure | Centro per i partner
+Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
-keywords: azure, prenotazioni, vm, gestire, fatturazione, acquisto, Azure RI, istanze di macchina virtuale riservate di Azure
-ms.openlocfilehash: 65306d265c88769c83a948a192bc96b2a0a76294
-ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
-ms.translationtype: HT
+keywords: Azure, prenotazioni, gestire, fatturazione, acquisto, Azure RI, istanze riservate di Azure
+ms.localizationpriority: medium
+ms.openlocfilehash: 3f5073bfd82d16485e3f0d5f4c9f79b1d5b5e7c7
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2018
-ms.locfileid: "1978568"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876961"
 ---
-# <a name="sell-microsoft-azure-reserved-vm-instances"></a>Vendere istanze di macchina virtuale riservate di Microsoft Azure 
+# <a name="sell-microsoft-azure-reserved-instances"></a>Vendere istanze prenotate Microsoft Azure 
 
 **Ambito di applicazione:**
 
@@ -18,32 +19,40 @@ ms.locfileid: "1978568"
 -  Portale di Microsoft Azure
 -  Partner di CSP
 
-Adesso, i partner del programma Cloud Solution Provider (CSP) possono offrire ai clienti istanze riservate sulle macchine virtuali di Microsoft Azure. I clienti possono ottenere un risparmio significativo prenotando anticipatamente spazio su macchine virtuali di Azure. Istanze di macchina virtuale riservate di Azure offrono ai clienti flessibilità e semplicità grazie alle caratteristiche seguenti:
+I partner nel programma Cloud Solution Provider (CSP) possono offrire ai clienti riservato istanze di Microsoft Azure. I clienti possono ottenere un risparmio significativo prenotando anticipatamente. Istanze riservate di Azure offrono ai clienti flessibilità e semplicità nei modi seguenti:
 
 -   Condizioni di prenotazione di uno o tre anni 
--   Configurazione semplice in pochi secondi 
+-   Facile da iniziare a; Installazione completata in pochi secondi 
 -   Annullamento o modifica di istanze riservate in qualsiasi momento per un rimborso rettificato 
 -   Gestire l'utilizzo di istanze riservate a livello di organizzazione o di singolo reparto 
 
-Per ulteriori informazioni sulle istanze di macchina virtuale riservate di Azure, vedi [Offerta di istanze di macchina virtuale riservate di Azure](https://azure.microsoft.com/pricing/reserved-vm-instances/) sul sito Web di Microsoft Azure e [Meglio insieme: istanze di macchina virtuale riservate di Azure e sottoscrizioni server](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/).
-
 > [!NOTE]  
-> Le istanze di macchina virtuale riservate di Azure non sono disponibili nei mercati seguenti:  
-> * Brasile  
-> * Cina  
-> * India  
-> * Russia  
-> * Corea del Sud  
-> * Taiwan  
+> Istanze riservate di Azure non sono disponibili nei mercati seguenti:  
+> * Argentina
+> * Azerbaigian
+> * Belarus
+> * Brasile
+> * Cina
+> * India
+> * Indonesia
+> * Kazakhstan
+> * Liechtenstein
+> * Malaysia
+> * Messico
+> * Russia
+> * Arabia Saudita
+> * Sudafrica
+> * Corea del Sud
+> * Taiwan
+> * Turchia
+> * Ucraina
 
-La disponibilità di istanze di macchina virtuale riservate di Azure interesserà ai clienti per i motivi seguenti:
+La disponibilità di istanze riservate di Azure interesserà ai clienti nei modi seguenti:
 
 -   Risparmi significativi rispetto alle tariffe con pagamento in base al consumo grazie all'uso di istanze riservate
 -   Budget e previsioni semplificati in seguito al pagamento anticipato per uno o tre anni 
 -   Priorità della capacità di elaborazione nell'area di Azure più vicina agli uffici  
--   Le prenotazioni di Azure gettano le basi per soluzioni di infrastruttura end-to-end se combinate con software come Microsoft Windows Server e database SQL di Azure (presto disponibile per il dashboard del partner).   
-
-Per ulteriori informazioni su come i clienti possono trarre vantaggio dall'acquisto anticipato di istanze su macchine virtuali di Azure, vedi come [risparmiare sulle macchine virtuali con istanze di macchina virtuale riservate](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations) nella Guida di Azure.
+-   Prenotazioni di Azure costituiscono la base per le soluzioni end-to-end dell'infrastruttura in combinazione con il software, come Microsoft Windows Server e Database SQL di Azure.   
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
@@ -57,18 +66,15 @@ Prima di acquistare prenotazioni di Azure per conto dei clienti, assicurati di l
 -   Se un cliente desidera trasferire una sottoscrizione di Azure da diretta o EA a CSP, le prenotazioni non vengono trasferite. 
 
 >[!NOTE]
-> Puoi acquistare, vendere e gestire le istanze riservate di Azure nel dashboard del partner e nel portale di Azure e tramite l'API del dashboard del partner. Segui i collegamenti qui sotto per informazioni. 
+> Puoi acquistare, vendere e gestire le prenotazioni di Azure nel dashboard del Partner e il portale di Azure e tramite l'API del centro per i Partner. Segui i collegamenti qui sotto per informazioni. 
 
 ## <a name="azure-reservations-resources"></a>Risorse sulle prenotazioni di Azure
 |**Per informazioni su**   |**Leggi**    |
 |:-----------------------------|:-----------------|
 |Acquisto di prenotazioni di Azure per i clienti nel dashboard del partner   |[Acquistare prenotazioni di Azure](azure-reservations-buying.md)
-|Fatturazione per le prenotazioni di Azure   |[Fatturazione per le prenotazioni di Azure](azure-reservations-billing.md)   |
 |Gestione delle prenotazioni di Azure nel dashboard del partner | [Gestione delle prenotazioni di Azure nel dashboard del partner](azure-reservations-manage.md)
 |Determinare le dimensioni corrette della macchina virtuale e verificare l'utilizzo di macchine virtuali da parte dei clienti   |[Ridimensionamento della macchina virtuale per un utilizzo ottimale delle prenotazioni di Azure](azure-usage.md)   |
-|Acquisto di prenotazioni di Azure nel portale di Azure | [Pagare in anticipo per macchine virtuali con istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) nella Guida di Azure |
-|Gestione di prenotazioni di Azure nel portale di Azure   |[Gestire le istanze di macchina virtuale riservate](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) nella Guida di Azure  |
-|Acquisto di prenotazioni di Azure mediante l'API del Centro per i partner | [Acquisto di istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances) nella documentazione per sviluppatori del Centro per i partner
+|Acquisto di prenotazioni di Azure mediante l'API del Centro per i partner | [Acquisto di istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) nella documentazione per sviluppatori del Centro per i partner
 
  
 

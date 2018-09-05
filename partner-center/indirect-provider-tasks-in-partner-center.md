@@ -2,12 +2,13 @@
 title: Collaborare con i rivenditori indiretti in CSP | Centro per i partner
 description: In qualità di provider indiretto, o distributore, puoi collaborare con rivenditori indiretti per ampliare il tuo mercato.
 author: MaggiePucciEvans
-ms.openlocfilehash: 295dfa22feb6864697d8ffd94708f0868479b52a
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: bdb60386eda7c9b46f7616662cec6775b111ca1d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1919891"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876771"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 

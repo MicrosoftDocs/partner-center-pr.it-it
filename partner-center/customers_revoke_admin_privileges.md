@@ -3,12 +3,13 @@ title: I clienti delegano i privilegi amministrativi ai partner | Centro per i p
 description: Come partner rivenditore, il cliente può delegarti a essere suo amministratore. Può anche rimuovere i privilegi.
 author: labrenne
 keywords: privilegi di amministratore delegato, amministrazione per conto di, rimuovere i privilegi
-ms.openlocfilehash: 7f1bd81f40892f851e1582a7a842a64c55e4ff63
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7209917a92eb2cd9ae86c31f3126bdbac402a04e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1913949"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877171"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>I clienti delegano i privilegi amministrativi ai partner
 

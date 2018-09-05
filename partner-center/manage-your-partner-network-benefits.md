@@ -3,12 +3,13 @@ title: Gestire i vantaggi del Microsoft Partner Network | Centro per i partner
 description: In qualità di membro del Microsoft Partner Network, hai il diritto di acquistare alcuni vantaggi. Illustra come attivare e gestire i vantaggi dell'adesione nel dashboard per i partner.
 author: MaggiePucciEvans
 keywords: MPN, vantaggi dell'adesione, adesione
-ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2518cc915b658a74372cd34b02e96bbbc1991aa0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207281"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876911"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gestire i vantaggi dell'adesione al Microsoft Partner Network
 
@@ -25,6 +26,9 @@ Quando partecipi a Microsoft Partner Network (MPN), ottieni tutti i vantaggi del
 ## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Gestire i vantaggi dell'adesione nel dashboard
 
 Dopo avere acquistato un pacchetto di vantaggi dell'adesione, dovrai ottenere le chiavi software e cedere licenze, sottoscrizioni e altri vantaggi ai dipendenti per iniziare a usarli. 
+
+>[!IMPORTANT]
+>Mentre non è necessario essere un amministratore globale nell'organizzazione per acquistare vantaggi, è necessario essere amministratore globale per assegnare vantaggi ai dipendenti.  Se si desidera, è possibile acquisire un amministratore globale seguendo le istruzioni nella [pagina di **vantaggi** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). Inoltre, l'organizzazione disponga già di un amministratore globale pertanto assicurati di controllare con il tuo team.
 
 I pacchetti di vantaggi includono le allocazioni delle licenze software con diritti di uso interno, i servizi cloud, le sottoscrizioni di Visual Studio e il supporto. Puoi ottenere i dettagli delle sottoscrizioni di Action Pack sul sito [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 

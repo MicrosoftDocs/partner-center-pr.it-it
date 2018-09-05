@@ -2,11 +2,13 @@
 title: Iscriversi al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense | Centro per i partner per Microsoft Cloud per il governo statunitense
 description: Prima di iscriverti al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense, consulta queste informazioni sui requisiti del programma CSP.
 author: MaggiePucciEvans
-ms.openlocfilehash: 69e50e7b16c7b39eef68b0e841f21414c1923f14
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877201"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Iscriversi al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense
 
@@ -64,7 +66,7 @@ Microsoft Cloud per il governo statunitense fornisce un'istanza separata di Micr
 >**Nota**<br>
 Dopo che avrai assegnato agli utenti il ruolo di Agente amministratore, essi saranno in grado di accedere all'elenco dei clienti nella pagina **Clienti** e [aggiungere nuovi clienti](add-a-new-customer.md).   
 
-1.  Accedi al portale di amministrazione di Microsoft Azure all'indirizzo https://portal.azure.us/.
+1.  Accedi al portale di amministrazione di Microsoft Azure in https://portal.azure.us/.
 
 2.  Assegna il ruolo di Agente amministratore agli utenti appropriati nell'organizzazione. A tale scopo, è necessario aggiungere questi utenti al gruppo **AdminAgent** predefinito. Vedi [Gestire i membri di un gruppo in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) per informazioni su come eseguire questa operazione.
  

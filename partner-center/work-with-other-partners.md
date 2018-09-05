@@ -2,11 +2,13 @@
 title: Collaborare con altri partner | Centro per i partner
 description: Collabora con altri partner in CSP per soddisfare le esigenze dei clienti condivisi.
 author: MaggiePucciEvans
-ms.openlocfilehash: 04c5c4c9c9add663865add92bbcc527169ec44a8
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: bab729b1a9021d095566395048a4eb7fa3c8d7f8
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877101"
 ---
 # <a name="work-with-other-partners"></a>Collaborare con altri partner
 

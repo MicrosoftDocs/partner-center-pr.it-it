@@ -1,13 +1,15 @@
 ---
 title: Richiedere una relazione con un cliente| Centro per i partner
-description: "La richiesta di una relazione viene usata per gli scenari multipartner e multicanale. È anche utile se un cliente rimuove i tuoi privilegi di amministratore delegato e devi ripristinarli per effettuare il provisioning o fornire supporto."
+description: La richiesta di una relazione viene usata per gli scenari multipartner e multicanale. È anche utile se un cliente rimuove i tuoi privilegi di amministratore delegato e devi ripristinarli per effettuare il provisioning o fornire supporto.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 65909045a8b3b7fe7d47cf7a44e767a5b93dfdf2
-ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a1c0bb93becbc3290c24a4530aa33fda38fa8942
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877221"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Entrare in contatto con i clienti nel Centro per i partner
 
@@ -31,9 +33,7 @@ Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ulti
 
 4.  Dopo aver accettato l'invito, il cliente verrà visualizzato nella pagina **Clienti** e tu potrai effettuare il provisioning e gestire il servizio per il cliente da questa pagina.
 
- >**Nota**<br>
-    In uno scenario multicanale, un solo partner può avere le autorizzazioni di amministratore per gestire un servizio per conto del cliente. 
-
+ 
 5.  Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome.
 
 

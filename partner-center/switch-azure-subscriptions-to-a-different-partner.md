@@ -4,12 +4,13 @@ description: Un cliente può cambiare il partner del programma Cloud Solution Pr
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: sottoscrizione di azure, cambiare partner, sostituire partner, ottenere nuovo partner, partner diverso
-ms.openlocfilehash: a4b9c0a320808f1d8a4a630a035660813a3f9c74
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/22/2018
-ms.locfileid: "2088958"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877561"
 ---
 # <a name="transfer-azure-subscriptions"></a>Trasferire le sottoscrizioni Azure 
 
@@ -18,6 +19,8 @@ ms.locfileid: "2088958"
 -  Centro per i partner
 
 Un cliente può decidere di passare a un partner Cloud Solution Provider o a un altro partner per i servizi di Microsoft Azure. Si tratta, tuttavia, di un processo manuale che richiede l'intervento sia del partner che del cliente.
+
+**Nota**  In questo momento solo diretto o indiretto i provider sono in grado di trasferire le sottoscrizioni.
 
 **Nota**  Attualmente non è possibile cambiare partner per le sottoscrizioni Cloud Solution Provider per Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
 

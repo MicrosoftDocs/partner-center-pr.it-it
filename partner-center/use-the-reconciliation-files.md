@@ -3,11 +3,13 @@ title: Usare i file di riconciliazione | Centro per i partner
 description: Per una visualizzazione delle voci relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal dashboard del Centro per i partner.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877551"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -516,8 +518,8 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 </td>
 </tr>
 <tr>
-<td rowspan="8">
-<p><strong>Addebiti periodici</strong></p>
+<td rowspan="10">
+<p><strong>Addebiti in base alle licenze</strong></p>
 </td>
 <td>
 <p>Commessione di attivazione</p>
@@ -525,7 +527,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <td>
 <p>L'importo addebitato al cliente quando utilizza la sottoscrizione dopo l'acquisto</p>
 </td>
-<td rowspan="8">
+<td rowspan="10">
 <p>Dal file in base alle licenze, somma la colonna <strong>Amount</strong></p>
 </td>
 </tr>
@@ -586,6 +588,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 </td>
 </tr>
 <tr>
+
 <td>
 <p>Tariffa di rinnovo</p>
 </td>
@@ -595,16 +598,10 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 </tr>
 <tr>
 <td>
-<p><strong>Altri prodotti e servizi</strong></p>
-</td>
-<td>
 <p>Rateizza le tariffe all'attivazione</p>
 </td>
 <td>
 <p>Tariffe rateizzate dall'attivazione fino alla fine del periodo di fatturazione</p>
-</td>
-<td>
-<p>Dal file in base alle licenze, somma la colonna <strong>Amount</strong></p>
 </td>
 </tr>
 <tr>
@@ -631,7 +628,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 </tr>
 <tr>
 <td>
-<p><strong>Crediti e rettifiche</strong></p>
+<p><strong>Crediti</strong></p>
 </td>
 <td>
 <p>Compensa una voce</p>
@@ -644,12 +641,9 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p>Dal file in base all'uso, somma la colonna <strong>PostTaxTotal</strong></p>
 </td>
 </tr>
-
-
 <tr>
 <td rowspan="4">
-<p><strong>Altri sconti</strong></br>
-<em>(in base all'uso)</em></p>
+<p><strong>Sconti basati sull'utilizzo</strong></p>
 </td>
 <td>
 <p>Sconto attivazione</p>
@@ -657,6 +651,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <td>
 <p>Sconto applicato all'attivazione della sottoscrizione</p>
 </td>
+
 <td rowspan="4">
 <p>Dal file in base all'uso, somma la colonna <strong>PretaxCharges</strong></p>
 </td>
@@ -668,14 +663,16 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <td>
 <p>Sconto applicato su addebiti periodici</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>Sconto rinnovo</p>
 </td>
 <td>
 <p>Sconto applicato al rinnovo della sottoscrizione</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>Annulla sconto</p>
 </td>
@@ -683,16 +680,17 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p>Addebiti applicati all'annullamento degli sconti</p>
 </td>
 </tr>
+
+
 <tr>
 <td>
-<p><strong>Altri sconti</strong></br>
-<em>(in base alle licenze)</em></p>
+<p><strong>Basato su licenza sconti</strong></p>
 </td>
 <td>
 <p><em>Possono essere applicate a più tipi di addebito</em></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td>
 <p>Dal file in base alle licenze, somma la colonna <strong>TotalOtherDiscount</strong></p>
@@ -704,7 +702,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 </td>
 <td>
 <p><em>Possono essere applicate a più tipi di addebito</em></p>
-<p><em>Eccezione: "Compensa una voce" include già le imposte. Vedi Crediti e rettifiche, sopra.</em></p>
+<p><em>Eccezione: "Compensa una voce" include già le imposte. Vedi crediti, sopra.</em></p>
 </td>
 <td>
 <p>Imposte o imposte sul valore aggiunto (IVA)</p>

@@ -2,10 +2,13 @@
 title: Iscriversi al programma Cloud Solution Provider per Microsoft Cloud Germania | Centro per i partner per Microsoft Cloud Germania
 description: Prima di iscriverti al programma Cloud Solution Provider per Microsoft Cloud Germania, consulta queste informazioni sui requisiti del programma CSP.
 author: MaggiePucciEvans
-ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
-ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877501"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Iscriversi al programma Cloud Solution Provider per Microsoft Cloud Germania
 
@@ -33,7 +36,7 @@ Per creare un account del Centro per i partner e iscriverti al CSP per Microsoft
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>Passaggio 1: creare un account per il Centro per i Partner per Microsoft Cloud Germania 
 
-1.  Per iscriverti al programma CSP per Microsoft Cloud Germania, vai alla pagina [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) e seleziona **Accedi**. 
+1.  Per iscriverti al CSP per Microsoft Cloud Germania, Vai a [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) e seleziona **Accedi**. 
 
 2.  Accedere con le credenziali di amministratore globale per l'account Microsoft Cloud Germania aziendale per Office 365, Microsoft Azure o Microsoft Dynamics. Se l'organizzazione non dispone di un account per questi portali, seleziona **Creane uno** per iscriverti.
 
@@ -69,7 +72,7 @@ Microsoft Cloud Germania fornisce un'istanza separata di Microsoft Azure, distri
 >**Nota**<br>
 Una volta assegnato il ruolo Agente amministratore agli utenti, il menu **Clienti** verrà visualizzato nel menu Dashboard e sarai in grado di accedere all'elenco dei clienti e [aggiungere nuovi clienti](add-a-new-customer.md).   
 
-1.  Accedi al portale di Azure Germania all'indirizzo https://portal.microsoftazure.de/.
+1.  Accedi al portale di Azure Germania al https://portal.microsoftazure.de/.
 
 2.  Assegna il ruolo di Agente amministratore agli utenti appropriati nell'organizzazione. A tale scopo, è necessario aggiungere questi utenti al gruppo **AdminAgent** predefinito. Vedi [Gestire i membri di un gruppo in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) per informazioni su come eseguire questa operazione.
  

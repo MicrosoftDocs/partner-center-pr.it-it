@@ -2,12 +2,14 @@
 title: Gestire le prenotazioni di Azure per conto del cliente | Centro per i partner
 Description: Purchasing and managing Azure reservations on behalf of your customers.
 author: v-petand
-keywords: azure, prenotazioni, vm, gestire, fatturazione, acquisto
-ms.openlocfilehash: ae27024ba10184b6f704f5ceef9d90af61186321
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
-ms.translationtype: HT
+keywords: Azure, prenotazioni, gestire, fatturazione, acquisto
+ms.localizationpriority: medium
+ms.openlocfilehash: 5025c32da86944f65c548a7e3ef6e61f7275522e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877401"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gestire le prenotazioni di Microsoft Azure per conto del cliente
 
@@ -17,21 +19,21 @@ ms.lasthandoff: 05/11/2018
 -  Portale di Microsoft Azure
 -  Partner di CSP
 
-Per gestire le prenotazioni di Azure dei tuoi clienti dopo l'acquisto, dovrai selezionare il cliente e la prenotazione che desideri gestire nel dashboard del partner e apportare le modifiche alla prenotazione nel portale di Azure. 
+Per la gestione prenotazioni di Azure dopo l'acquisto dei tuoi clienti, dovrai selezionare il cliente e la prenotazione che desideri gestire nel dashboard del partner e quindi apportare le modifiche alla prenotazione nel portale di Azure. 
 
 1. Per iniziare, seleziona **Clienti** dal menu Dashboard, quindi seleziona il cliente di cui desideri gestire le prenotazioni. 
 
-2. Nella pagina dei dettagli del cliente, seleziona **Prenotazioni di Azure**, quindi seleziona la prenotazione specifica che desideri gestire.  
+2. Dal menu della pagina dei dettagli del cliente seleziona **prenotazioni di Azure** e quindi seleziona la prenotazione specifica che desideri gestire.  
 
 3. In **Azioni** seleziona **Gestisci** per passare al record della prenotazione del cliente nel portale di Azure. Nella pagina dei dettagli della prenotazione segui i passaggi qui sotto per completare le attività.  
 
-|**Seleziona**   |**Per**    |
+| **Seleziona**   | **Per**    |
 |:-----------------------------|:-----------------|
-|**Panoramica**   |Visualizzare i dettagli della prenotazione di un cliente, inclusi i dati di utilizzo, l'ambito e la data di scadenza. **NOTA:** seleziona **Rimborsa** per creare una richiesta di supporto per un rimborso proporzionale. Selezionare **Cambio** per creare una richiesta di supporto in vista del cambio del periodo di prenotazione non utilizzato.  
-|**Controllo di accesso (IAM)**   |Gestire l'accesso alle informazioni sulla prenotazione del cliente.|
-|**Configurazione**   |Modificare l'ambito della prenotazione e/o la sottoscrizione di Azure a cui è associata la prenotazione.    |
-|**Proprietà**   |Visualizzare le proprietà della prenotazione e copiare negli Appunti l'ID della prenotazione e l'ID dell'ordine di prenotazione. **NOTA:** quando chiedi supporto per conto di un cliente, ti potrebbero essere richiesti l'ID della prenotazione e l'ID dell'ordine di prenotazione.    |
-|**Nuova richiesta di supporto**    |Richiedere assistenza al Supporto tecnico Microsoft.   |
+| **Panoramica**   | Visualizzare i dettagli della prenotazione di un cliente, inclusi i dati di utilizzo, l'ambito e la data di scadenza. **NOTA:** seleziona **Rimborsa** per creare una richiesta di supporto per un rimborso proporzionale. Selezionare **Cambio** per creare una richiesta di supporto in vista del cambio del periodo di prenotazione non utilizzato.  
+| **Controllo di accesso (IAM)**   | Gestire l'accesso alle informazioni sulla prenotazione del cliente.|
+| **Configurazione**   | Modificare l'ambito della prenotazione e/o la sottoscrizione di Azure a cui è associata la prenotazione.    |
+| **Proprietà**   | Visualizzare le proprietà della prenotazione e copiare negli Appunti l'ID della prenotazione e l'ID dell'ordine di prenotazione. **NOTA:** quando chiedi supporto per conto di un cliente, ti potrebbero essere richiesti l'ID della prenotazione e l'ID dell'ordine di prenotazione.    |
+| **Nuova richiesta di supporto**    | Richiedere assistenza al Supporto tecnico Microsoft.   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Annullare o cambiare una prenotazione 
 In seguito al cambiamento delle esigenze aziendali, i tuoi clienti potrebbero voler annullare una prenotazione o modificare l'importo del rimborso proporzionale per pagare una nuova prenotazione. 
@@ -55,7 +57,7 @@ Per archiviare una richiesta di supporto in merito a un rimborso o un cambio per
 
 2. Nella pagina dei dettagli del cliente, seleziona **Prenotazioni di Azure**, quindi seleziona la prenotazione specifica che il cliente desidera farsi rimborsare.  
 
-3. In **Azioni**seleziona **Rimborso** per passare al record della prenotazione del cliente nel portale di Azure e avviare automaticamente una richiesta di supporto.  
+3. In **Azioni**, selezionare **rimborso** per passare al record della prenotazione del cliente nel portale di Azure e avviare una richiesta di supporto.  
 
 4. Nella pagina **Nuova richiesta di supporto** attieniti alla procedura seguente per richiedere un rimborso. Seleziona **Avanti** dopo ogni passaggio. 
 
@@ -68,11 +70,8 @@ Per archiviare una richiesta di supporto in merito a un rimborso o un cambio per
 ## <a name="azure-reservations-resources"></a>Risorse sulle prenotazioni di Azure
 |**Per informazioni su**   |**Leggi**    |
 |:-----------------------------|:-----------------|
-|Panoramica delle prenotazioni di Azure in CSP  | [Vendere istanze di macchina virtuale riservate di Microsoft Azure](azure-reservations.md) |
+|Panoramica delle prenotazioni di Azure in CSP  | [Vendere istanze prenotate Microsoft Azure](azure-reservations.md) |
 |Acquisto di prenotazioni di Azure per i clienti nel dashboard del partner   |[Acquistare prenotazioni di Azure](azure-reservations-buying.md) |
-|Fatturazione per le prenotazioni di Azure   |[Fatturazione per le prenotazioni di Azure](azure-reservations-billing.md)   |
-|Determinare le dimensioni corrette della macchina virtuale e verificare l'utilizzo delle macchine virtuali dei clienti   |[Ridimensionamento della macchina virtuale per un utilizzo ottimale delle prenotazioni di Azure](azure-usage.md)   |
-|Acquisto di prenotazioni di Azure nel portale di Azure | [Pagare in anticipo per macchine virtuali con istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) nella Guida di Azure |
-|Gestione di prenotazioni di Azure nel portale di Azure   |[Gestire le istanze di macchina virtuale riservate](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) nella Guida di Azure  |
-|Acquisto di prenotazioni di Azure mediante l'API del Centro per i partner | [Acquistare istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances) nella documentazione per sviluppatori del Centro per i partner
+|Determinare le dimensioni corrette della macchina virtuale e verificare l'utilizzo di macchine virtuali da parte dei clienti   |[Ridimensionamento della macchina virtuale per un utilizzo ottimale delle prenotazioni di Azure](azure-usage.md)   |
+|Acquisto di prenotazioni di Azure mediante l'API del Centro per i partner | [Acquisto di istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) nella documentazione per sviluppatori del Centro per i partner
 

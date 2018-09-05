@@ -4,11 +4,13 @@ description: Puoi aggiungere più utenti contemporaneamente all'account di un cl
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 keywords: caricamento in blocco, aggiungere più utenti all'account di un cliente, aggiungere gli utenti di un cliente, caricamento in blocco degli utenti di un cliente, account del cliente, utenti del cliente, utenti
-ms.openlocfilehash: 2c695cd6c6e3b302d91730638358616ca3465188
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e7a5e7f9c0cebf81373c500dd3a552710fcf845a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876971"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Aggiungere più utenti all'account di un cliente
 
@@ -54,15 +56,13 @@ Immetti i dati seguenti nel file di dati:
 
     **Nota** La maggior parte degli errori di creazione di account sono causati da problemi del file di dati, tra cui informazioni mancanti, indirizzi e-mail non validi o duplicati o troppi record nel file.
 
-     
-
 7.  Una volta convalidato il file nel dashboard del partner, seleziona la **Posizione** geografica per i nuovi utenti.
 8.  Seleziona **Salva**.
 9.  Scarica le informazioni sulle password temporanee per gli utenti.
 
 **IMPORTANTE:** assicurati di scaricare il file con le password temporanee in questo momento, perché non potrai farlo in seguito. I nuovi utenti devono accedere all'account nuovo usando la password temporanea per i nuovi account.
 
-Il dashboard del partner assegna automaticamente le autorizzazioni **può usare licenze e servizi** ai nuovi utenti.
+10. Nuovi utenti vengono assegnati automaticamente le autorizzazioni di **può usare licenze e servizi** . 
 
  
 

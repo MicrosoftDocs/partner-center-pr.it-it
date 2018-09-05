@@ -4,11 +4,13 @@ description: Crea un profilo di lavoro nel Centro per i partner per ricevere i l
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, riferimenti, lead di vendita, C2PC, profilo della società, commercializzare la tua azienda, trovare un partner, trovare un provider di soluzioni, profilo di lavoro, profilo di marketing
-ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877626"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -16,7 +18,7 @@ FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
 FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
 FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
 FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
- -->
+-->
 
 
 # <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Creare un profilo di lavoro per ottenere lead di vendita da Microsoft
@@ -58,7 +60,7 @@ Presenta la tua azienda, aggiungendo un logo, una breve descrizione e un collega
 
 Il logo può essere un file GIF, JPG o PNG con una larghezza massima di 300 pixel. Ti consigliamo di usare proporzioni quadrate o in orizzontale. Non è consigliabile usare le proporzioni in verticale.
 
-La descrizione può contenere fino a 1000 caratteri. Suggerimenti per una descrizione efficace: 
+La descrizione può contenere fino a 2500 caratteri. Suggerimenti per una descrizione efficace: 
 
 *  **Deve essere breve**, le informazioni importanti devono essere presenti nelle prime due frasi. Questa descrizione deve rappresentare l'intestazione che cattura l'attenzione dei clienti. Nell'esperienza di ricerca Trova un partner mostriamo le prime due righe nell'anteprima dei risultati della ricerca.
 *  **Concentrati sulle esperienze dell'azienda con le offerte specifiche di Microsoft**. I clienti alla ricerca di riferimenti in genere cercano partner con esperienza specifica nei prodotti e servizi Microsoft.

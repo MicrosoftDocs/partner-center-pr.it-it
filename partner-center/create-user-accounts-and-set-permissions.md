@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c5735a61a867c06268bb2257f3295d49bbe83f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 402920613cb5b45608f9099d250d79809a8d9f5a
+ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874571"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "3405433"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Creare account utente e assegnare le autorizzazioni
 
@@ -61,6 +61,12 @@ All'interno di ognuna di queste categorie generali, un utente può avere un solo
 
 >[!Important]
 >Gli utenti devono essere assegnati ad almeno un ruolo per utilizzare il dashboard del partner.
+
+
+### <a name="find-your-global-admin"></a>Trova il tuo amministratore globale
+
+A volte un utente potrebbe essere necessario disporre del ruolo modificato o un nuovo utente potrebbe voler un'assegnazione di ruolo specifiche.  
+Per trovare un amministratore globale può apportare modifiche ai ruoli o Assegna ruoli a un nuovo utente, dall' **icona Impostazioni** nella parte superiore destro del dashboard, seleziona **Gestione utenti** e filtrare amministratore globale. 
 
 Per informazioni specifiche sui ruoli e le operazioni che ogni ruolo può eseguire, vedi [assegnare le autorizzazioni utente](permissions-overview.md).
 

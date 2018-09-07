@@ -4,12 +4,12 @@ description: Tutti i dipendenti che devono lavorare nel Dashboard del Partner de
 author: labrenne
 keywords: ruoli, autorizzazioni, amministratore, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6e32b5e65d2d1dc52a5703fc405a14f9d5bc3e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
+ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875991"
+ms.lasthandoff: 09/07/2018
+ms.locfileid: "3630612"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Assegnare le autorizzazioni e ruoli degli utenti
 
@@ -62,6 +62,7 @@ La tabella seguente illustra le operazioni che ogni ruolo può eseguire nel dash
 <td><ul>
 <li><p>Visualizzazione, creazione e gestione di utenti</p></li>
 <li><p>Visualizzazione di tutti i profili dei partner</p></li>
+<li><p>Visualizzazione, creazione e gestione di utenti partner</p></li>
 </ul></td>
 </tr>
 <tr class="even">

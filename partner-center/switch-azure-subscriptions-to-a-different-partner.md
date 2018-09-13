@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: sottoscrizione di azure, cambiare partner, sostituire partner, ottenere nuovo partner, partner diverso
 ms.localizationpriority: medium
-ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
+ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877561"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "3966158"
 ---
 # <a name="transfer-azure-subscriptions"></a>Trasferire le sottoscrizioni Azure 
 
@@ -20,9 +20,11 @@ ms.locfileid: "2877561"
 
 Un cliente può decidere di passare a un partner Cloud Solution Provider o a un altro partner per i servizi di Microsoft Azure. Si tratta, tuttavia, di un processo manuale che richiede l'intervento sia del partner che del cliente.
 
-**Nota**  In questo momento solo diretto o indiretto i provider sono in grado di trasferire le sottoscrizioni.
+>[!Note]  
+>In questo momento solo diretto o indiretto i provider sono in grado di trasferire le sottoscrizioni.
 
-**Nota**  Attualmente non è possibile cambiare partner per le sottoscrizioni Cloud Solution Provider per Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
+>[!Note] 
+>Non è attualmente possibile cambiare partner per le sottoscrizioni Cloud Solution Provider per Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
 
 
 
@@ -30,7 +32,8 @@ Un cliente può decidere di passare a un partner Cloud Solution Provider o a un 
 
 1.  Per trasferire una sottoscrizione Azure a un nuovo partner, il cliente deve avviare il processo e contattare il Partner of Record corrente in forma scritta. 
 
-    >**Nota**<br> È responsabilità del partner attuale creare il ticket di servizio che avvia il processo di trasferimento. Microsoft non può intervenire per conto del cliente o del nuovo partner. Il cliente deve pianificare di lavorare a stretto contatto con il partner attuale per facilitare la transizione.
+    >[!Note]
+    >È responsabilità del partner attuale creare il ticket di servizio che avvia il processo di trasferimento. Microsoft non può intervenire per conto del cliente o del nuovo partner. Il cliente deve pianificare di lavorare a stretto contatto con il partner attuale per facilitare la transizione.
 
 2.  Il partner per la sottoscrizione deve effettuare le attività seguenti:
 
@@ -54,7 +57,8 @@ Un cliente può decidere di passare a un partner Cloud Solution Provider o a un 
 
     -   ID sottoscrizione da trasferire. Nell'elenco dei clienti espanso seleziona **Visualizza sottoscrizioni**, quindi espandi la sottoscrizione scelta per vedere l'**ID sottoscrizione**.
 
-    >**Nota**<br> Il trasferimento di una sottoscrizione comporta la generazione di due ID sottoscrizione che verranno visualizzati nella pagina **Modifica sottoscrizione** della sottoscrizione trasferita: **1**- L'ID sottoscrizione del Centro per i partner viene utilizzato per scopi di fatturazione. 
+     >[!Note]
+     >Il trasferimento di una sottoscrizione comporta la generazione di due ID sottoscrizione che verranno visualizzati nella pagina **Modifica sottoscrizione** della sottoscrizione trasferita: **1**- L'ID sottoscrizione del Centro per i partner viene utilizzato per scopi di fatturazione. 
     **2**- L'ID sottoscrizione di Azure originale viene mantenuto e sarà visualizzato nel Centro per i partner e nel portale di gestione di Azure. Questo ID verrà visualizzato nel file di riconoscimento.  **Durante la registrazione per i ticket di supporto è necessario utilizzare entrambi gli ID.**
 
 4.  Il cliente e nuovo partner per la sottoscrizione:
@@ -62,6 +66,9 @@ Un cliente può decidere di passare a un partner Cloud Solution Provider o a un 
     Esamina il modulo, compila le informazioni sul nuovo partner e firmalo. Verifica che per il nuovo cliente sia in vigore un contratto. Invia il modulo al Partner of Record corrente.
 
     *Importante*: se il nuovo partner CSP non ha una relazione come rivenditore con il cliente, deve stabilirne una prima del trasferimento della sottoscrizione. [Puoi trovare informazioni sulla procedura qui](request-a-relationship-with-a-customer.md).
+
+    >[!Note]
+    >Il nuovo partner CSP e tenant del cliente deve essere nella stessa area. 
 
 5.  Partner corrente:
 

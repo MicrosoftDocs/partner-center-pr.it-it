@@ -4,12 +4,12 @@ description: Acquistare software di terze parti che funziona con i prodotti Micr
 author: labrenne
 keywords: offerte di terze parti, software da acquistare
 ms.localizationpriority: medium
-ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
+ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875521"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "4062163"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Aggiungere software di terze parti al tuo portafoglio
 
@@ -21,7 +21,7 @@ Ora puoi acquistare offerte di software di terze parti nel Centro per i partner 
 
 Il Centro per i partner attualmente dispone di offerte di software di terze parti che si integrano con Azure, Office 365 e Dynamics. 
 
-## <a name="connecting-with-third-party-partners"></a>Contatto con i partner di terze parti
+## <a name="connect-with-third-party-partners"></a>Entrare in contatto con i partner di terze parti
  
 In qualità di partner CSP, puoi cercare tra le offerte software di terze parti. Puoi entrare in contatto con partner ISV e creare il tuo catalogo di prodotti. Anche i partner ISV possono cercare partner CSP con cui collaborare. Possono eseguire la ricerca in base ai tipi di prodotti Microsoft che vendi, oltre a esaminare il tuo profilo di business. È importante mantenere aggiornato il profilo di business. Puoi indicare a un partner ISV il tuo interesse nel loro prodotto facendo clic sull'apposito pulsante situato sull'identificatore di prodotto e compilando il modulo visualizzato. Microsoft lo invierà al partner ISV. La risposta viene mantenuta nel Centro per i partner. Analogamente, quando un partner ISV esprime interesse in una collaborazione con te, riceverai una notifica attraverso il Centro per i partner. Cerca di rispondere entro 48 ore.
 

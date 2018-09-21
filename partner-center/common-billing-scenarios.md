@@ -5,20 +5,18 @@ ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: ff329480cec68e45c809016da64f6604c9837bb6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9757b3c4cc03ea26744f995e4931c94952de2a10
+ms.sourcegitcommit: 082795279b2beb9cecee3072cbabe584cfda1b9c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876591"
+ms.lasthandoff: 09/21/2018
+ms.locfileid: "4121116"
 ---
 # <a name="common-billing-scenarios"></a>Scenari di fatturazione comuni
 
 **Si applica a**
 
--  Centro per i partner
--  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
+-   Fatturazione di programma cloud Solution Provider
 
 Questo argomento descrive ciò che compare sulla fattura dopo l'aggiunta di nuove sottoscrizioni, la modifica del numero di licenze per una sottoscrizione o l'annullamento di una sottoscrizione. Le sottoscrizioni in base alle licenze vengono gestite diversamente rispetto a quelle in base all'uso.
 
@@ -74,7 +72,7 @@ La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova 
 Il 1° febbraio aumenti la quantità di licenze da una a due. Il 15 febbraio il file di riconciliazione basata su licenza conterrà solo le seguenti righe di fatturazione:
 |Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-| 13/1/2018        |12/2/2018    |Ripartizione dell'istanza del ciclo   |-4,00       |1        |4,00    
+| 13/1/2018        |12/2/2018    |Ripartizione dell'istanza del ciclo   |-4,00       |1        |-4,00    
 |13/1/2018         |31/1/2018    | Ripartizione dell'istanza del ciclo   |2,45       |1        |2,45    
 |1/2/2018         |12/2/2018    | Ripartizione dell'istanza del ciclo   |1,55       |2        |3,10    
 |13/2/2018         |12/3/2018    | Ripartizione dell'istanza del ciclo   |4,00       |2        |8,00    
@@ -98,10 +96,10 @@ La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova 
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/1/2018         |12/2/2018    |Tariffa periodica   |4,00       |1        |4,00    
 
-Il 1° febbraio sospendi la sottoscrizione. Il 15 febbraio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+Il 1 ° febbraio Sospendi una sottoscrizione. Il 15 febbraio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
 |Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/1/2018|12/2/2018|Commissione di annullamento|-4,00|1|4,00
+13/1/2018|12/2/2018|Commissione di annullamento|-4,00|1|-4,00
 
 **Scenario 4: sospendere dopo di 30 giorni**
 
@@ -128,7 +126,7 @@ Prezzo unitario = giorni nel periodo di servizio x prezzo giornaliero x numero d
 
 Il periodo di annullamento ha una durata di 12 giorni 1/3/2018 - 12/3/2018. 
 
-Di conseguenza, il prezzo unitario = -1,716 (14 x 0,14 x(-1)).
+Di conseguenza, il prezzo unitario = -1,716 (12 x 0,143 x (-1)).
 
 ## <a name="annual-billing-scenarios"></a>Scenari di fatturazione annuale
 

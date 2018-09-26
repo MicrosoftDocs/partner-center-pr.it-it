@@ -5,12 +5,12 @@ ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 25f57a2ddc16ebb1f98d6f2f083fca870b74fdff
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dadd034214edabcea3d96c7e86f9c1de609dd3d3
+ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876271"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "4197689"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Segnalare problemi per conto di un cliente
 
@@ -32,7 +32,11 @@ Se il cliente ha un problema con il servizio che tu non puoi risolvere e che sod
 
 **Microsoft Azure**
 
-**Nota** Per poter creare richieste di assistenza per il cliente in Azure, il provider indiretto deve concederti l'accesso all'account Azure del cliente. Questa operazione è diversa dall'amministrazione per conto dei clienti per Office 365.   
+**Nota** Quando è necessario creare una richiesta di servizio per il cliente in Azure, tieni presente quanto segue:
+
+- Nell'ordine per poter creare richieste di servizio per il cliente in Azure, il provider indiretto deve concederti il che accesso all'account Azure del cliente. Questa operazione è diversa dall'amministrazione per conto dei clienti per Office 365. 
+
+- Anche se l'amministratore help desk nel centro per i Partner non può creare richieste di servizio nel portale di servizio di Azure, ciò che potranno fare è creare un gruppo di supporto nel portale di servizio di Azure e concedere le autorizzazioni di gruppo per registrare le richieste di assistenza.
 
 1.  Seleziona **Nuova richiesta di supporto**.
 2.  Compila la richiesta di supporto con le informazioni appropriate e quindi seleziona **Crea**:

@@ -4,12 +4,12 @@ description: Tutti i dipendenti che devono lavorare nel Dashboard del Partner de
 author: labrenne
 keywords: ruoli, autorizzazioni, amministratore, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
-ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
+ms.openlocfilehash: b020c7b57874859d54c2b9c638302ab74a21b93a
+ms.sourcegitcommit: 6de78bec6b51b3b30052dfd0ad3f9fbdec31abae
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/07/2018
-ms.locfileid: "3630612"
+ms.lasthandoff: 09/26/2018
+ms.locfileid: "4227445"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Assegnare le autorizzazioni e ruoli degli utenti
 
@@ -19,15 +19,17 @@ ms.locfileid: "3630612"
 
 Ogni ruolo nel dashboard include alcune autorizzazioni se un utente è autorizzato a eseguire attività specifiche. Tutti gli utenti che funziona nel dashboard di deve essere assegnato un ruolo.
 
-A seconda delle dimensioni dell'organizzazione alcuni utenti potrebbero funzionare in sedi o solo per un'unica posizione. 
+A seconda delle dimensioni dell'organizzazione alcuni utenti potrebbero funzionare in sedi o solo per una posizione. 
 
 Ad esempio:
 
 - L'amministratore globale può essere amministratore per il legale dell'azienda e una posizione specifica; o l'amministratore globale può essere amministratore per solo uno dei percorsi di un'azienda. 
-- Gli amministratori di incentivi possono amministrare per uno o più posizioni, ma devono essere specificati tali posizioni.
+- Amministratori di incentivi possono amministrare per uno o più posizioni, ma queste ubicazioni devono essere specificati.
 
 
 La tabella seguente illustra le operazioni che ogni ruolo può eseguire nel dashboard del partner. Quando devi assegnare i ruoli, prendi in considerazione il lavoro eseguito dall'utente all'interno dell'organizzazione. Potrebbe ad esempio essere opportuno che l'amministratore globale sia anche l'agente amministratore. La persona che gestisce l'attività di marketing potrebbe anche gestire il profilo di lavoro.
+
+Per una panoramica dei ruoli e autorizzazioni, Leggi [creare gli account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md).
 
 <table>
 <colgroup>

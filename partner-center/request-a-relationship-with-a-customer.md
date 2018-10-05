@@ -4,12 +4,12 @@ description: La richiesta di una relazione viene usata per gli scenari multipart
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: a1c0bb93becbc3290c24a4530aa33fda38fa8942
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 49e24f50fef7715634f749f7f95c066c37e55976
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877221"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377533"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Entrare in contatto con i clienti nel Centro per i partner
 
@@ -37,8 +37,8 @@ Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ulti
 5.  Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome.
 
 
->**Importante**<br>
-I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questo caso, se il cliente ha bisogno di aiuto, potrai contattare il supporto Microsoft per aprire una richiesta di assistenza per conto del cliente.
+> [!IMPORTANT]  
+> I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questo caso, se il cliente ha bisogno di aiuto, potrai contattare il supporto Microsoft per aprire una richiesta di assistenza per conto del cliente.
 
 ## <a name="related-topics"></a>Argomenti correlati
 

@@ -4,12 +4,12 @@ description: Quando aggiorni la tua adesione al Microsoft Partner Network, hai d
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875711"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377783"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Aggiornare l'adesione al Microsoft Partner Network
 
@@ -46,7 +46,8 @@ Action Pack è un conveniente abbonamento annuale a servizi, software e supporto
 
 Per ulteriori informazioni su Microsoft Action Pack, Vai a [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
->**Nota** Questo collegamento ti condurrà a un altro sito Web. Torna a questo sito, il Centro per i partner, per abbonarti ad Action Pack.
+> [!NOTE]  
+> Questo collegamento ti condurrà è a un altro sito Web. Torna a questo sito, il Centro per i partner, per abbonarti ad Action Pack.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Sottoscrizione a Microsoft Action Pack
@@ -73,10 +74,10 @@ L'abbonamento ad Action Pack verrà rinnovato automaticamente ogni anno in tale 
 
 2. Seleziona **Abbonamento a Microsoft Action Pack** per visualizzare i dettagli dell'abbonamento. 
 
-3. Seleziona **Turn off automatic renewal** se non vuoi che l'abbonamento ad Action Pack venga rinnovato automaticamente ogni anno. 
+3. Seleziona **Turn off automatic renewal** se non vuoi che la sottoscrizione di Action Pack venga rinnovata automaticamente ogni anno. 
 
-    >**Nota**<br>
-Se disattivi il rinnovo automatico dell'abbonamento, potrai riattivarlo solo al prossimo rinnovo dell'abbonamento. Prima della scadenza dell'abbonamento, riceverai un promemoria per il rinnovo.
+   > [!NOTE]  
+> Se disattivi il rinnovo automatico della sottoscrizione, potrai riattivarlo solo al successivo rinnovo. Prima della scadenza dell'abbonamento, riceverai un promemoria per il rinnovo.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Rinnovare l'abbonamento ad Action Pack

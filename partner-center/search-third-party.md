@@ -4,12 +4,12 @@ description: Cerca e trova i tipi di offerte di terze parti più adatte per il t
 author: labrenne
 keywords: offerte di terze parti, software da acquistare, cercare terze parti
 ms.localizationpriority: medium
-ms.openlocfilehash: dc7d7c8a0d24f184c2e6a21406a1d5d26c961902
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876721"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377503"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Individuare le offerte di terze parti da vendere
 
@@ -51,7 +51,8 @@ L'acquisto di software di terze parti viene eseguito come l'acquisto di software
 7.  Dopo aver aggiunto la sottoscrizione, aprila facendo clic sul nome della sottoscrizione nell'elenco delle sottoscrizioni. 
 8.  Nella pagina di **modifica della sottoscrizione** puoi modificare la quantità di licenze o sospendere la sottoscrizione.
 
->**Nota**<br> La tua assegnazione della licenza al cliente avviene sul sito di amministrazione delle terze parti.
+> [!NOTE]  
+>  La tua assegnazione della licenza al cliente avviene sul sito di amministrazione delle terze parti.
 
     
 

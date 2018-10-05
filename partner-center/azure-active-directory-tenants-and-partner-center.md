@@ -5,12 +5,12 @@ author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ebc5490d724b49836b0051802038c4ba4c86e20
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f559d6c670a289c46d1e990a55113152ec83d37b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876081"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377493"
 ---
 # <a name="your-company-work-account-and-the-partner-dashboard"></a>Account aziendale e dashboard del partner  
 
@@ -24,7 +24,8 @@ Dobbiamo collegare l'account aziendale della tua società al nuovo account del d
 
 Se la tua azienda dispone già di un account aziendale, puoi collegarlo all'account del dashboard del partner. 
 
->**Nota** Prima di decidere di usare un account aziendale esistente, valuta il numero di utenti nell'account che dovranno utilizzare il dashboard del partner. Se nell'account sono presenti utenti per i quali non sarà necessario utilizzare il dashboard del partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno utilizzare il dashboard del partner.
+> [!NOTE]  
+>  Prima di decidere di usare un account aziendale esistente, valuta il numero di utenti nell'account che dovranno lavorare nel Dashboard del Partner. Se nell'account sono presenti utenti per i quali non sarà necessario utilizzare il dashboard del partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno utilizzare il dashboard del partner.
 
 Se l'azienda non dispone di un account aziendale, puoi crearne uno durante il processo di registrazione. 
 

@@ -4,12 +4,12 @@ description: Un cliente può scegliere di collaborare con più partner nel progr
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 60a925536bd377c010aeca2b8f2f8bbeb6b7f0a6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f145d4334a2b83c3e0939dc3d9d0acfe77d8edba
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874831"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377453"
 ---
 # <a name="multi-partner-support"></a>Supporto multipartner
 
@@ -33,8 +33,8 @@ La funzionalità multipartner non consente di:
 
 -   Modificare il Partner of Record per una sottoscrizione
 
->**Importante**<br>
-Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Tutti gli annunci sui rilasci di funzionalità saranno effettuati tramite i canali di comunicazione normali, tra cui il dashboard del partner.  
+> [!IMPORTANT]  
+> Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Tutti gli annunci sui rilasci di funzionalità saranno effettuati tramite i canali di comunicazione normali, tra cui il dashboard del partner.  
 
  
 

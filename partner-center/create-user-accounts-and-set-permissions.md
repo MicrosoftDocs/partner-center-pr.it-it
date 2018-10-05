@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: 402920613cb5b45608f9099d250d79809a8d9f5a
-ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
+ms.openlocfilehash: 038c8b200e7f2bb5731297b8ad8c51986bdfdc44
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "3405433"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377603"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Creare account utente e assegnare le autorizzazioni
 
@@ -29,16 +29,17 @@ Creare account utente per i dipendenti che richiedono l'accesso al dashboard. Qu
 
 3.  Immetti il nome completo e l'indirizzo di posta elettronica univoco dell'utente.
 
-4.  Seleziona il tipo di agente e/o il tipo di amministratore da assegnare all'utente. L'accesso al dashboard del partner è basato sui ruoli, pertanto puoi assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche.  Se gli utenti desiderano un'assegnazione di ruolo, è possibile trovare gli amministratori di account contattare passando alla **gestione degli utenti** e il filtro su account amministratore.
+4.  Seleziona il tipo di agente e/o il tipo di amministratore da assegnare all'utente. L'accesso al dashboard del partner è basato sui ruoli, pertanto puoi assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche.  Se gli utenti desiderano un'assegnazione di ruolo, è possibile trovare gli amministratori di account per contattarti passando alla **gestione degli utenti** e il filtro su account amministratore.
 
 5.  Seleziona **Aggiungi** per creare l'account utente. Verifica i dettagli dell'utente nella pagina successiva.
 
->**Importante**<br>
-Prendi nota delle informazioni di accesso del nuovo utente visualizzate in questa pagina. Copiale e inviale al nuovo utente perché dopo non potrai più accedervi. 
+> [!IMPORTANT]  
+> Prendi nota delle informazioni di accesso del nuovo utente visualizzate in questa pagina. Copiale e inviale al nuovo utente perché dopo non potrai più accedervi. 
 
 L'utente dovrà accedere al dashboard del partner con il nome utente e la password temporanea. Quando l'utente accede al dashboard del partner per la prima volta, gli viene chiesto di modificare la password. 
 
->**Nota**<br> Se l'amministratore globale ha lasciato l'organizzazione o ha un altro ruolo ed è necessario aggiungere un nuovo amministratore globale, devi registrare una richiesta di assistenza nel [portale MPN](https://partner.microsoft.com/support). Se il richiedente è in grado di fornire le informazioni di identità personale richieste e altre informazioni sull'organizzazione, l'agente del supporto può richiedere l'elevazione dei privilegi di un utente ad amministratore globale.
+> [!NOTE]  
+>  Se l'amministratore globale ha lasciato l'organizzazione o ha un altro ruolo ed è necessario aggiungere un nuovo amministratore globale, devi registrare una richiesta di assistenza nel [portale MPN](https://partner.microsoft.com/support). Se il richiedente è in grado di fornire le informazioni di identità personale richieste e altre informazioni sull'organizzazione, l'agente del supporto può richiedere l'elevazione dei privilegi di un utente ad amministratore globale.
 
 ## <a name="assign-user-permissions"></a>Assegnare le autorizzazioni utente
 
@@ -65,8 +66,8 @@ All'interno di ognuna di queste categorie generali, un utente può avere un solo
 
 ### <a name="find-your-global-admin"></a>Trova il tuo amministratore globale
 
-A volte un utente potrebbe essere necessario disporre del ruolo modificato o un nuovo utente potrebbe voler un'assegnazione di ruolo specifiche.  
-Per trovare un amministratore globale può apportare modifiche ai ruoli o Assegna ruoli a un nuovo utente, dall' **icona Impostazioni** nella parte superiore destro del dashboard, seleziona **Gestione utenti** e filtrare amministratore globale. 
+A volte un utente potrebbe essere necessario disporre del ruolo modificato o un nuovo utente potrebbe voler un'assegnazione di ruolo specifico.  
+Per trovare un amministratore globale può apportare modifiche ai ruoli o Assegna ruoli a un nuovo utente, dall' **icona Impostazioni** nella parte superiore destro del dashboard, seleziona **gestione degli utenti** e filtrare amministratore globale. 
 
 Per informazioni specifiche sui ruoli e le operazioni che ogni ruolo può eseguire, vedi [assegnare le autorizzazioni utente](permissions-overview.md).
 

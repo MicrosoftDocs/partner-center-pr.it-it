@@ -5,12 +5,12 @@ ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, riferimenti, lead di vendita, C2PC, profilo della società, commercializzare la tua azienda, trovare un partner, trovare un provider di soluzioni, profilo di lavoro, profilo di marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 61a38d6d0f4f56a980bf6bb8ef44be5f6ee6cd46
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877626"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377623"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -39,20 +39,21 @@ Il primo passaggio per raggiungere questi lead consiste nel creare un profilo di
 
 *  **Segnalazioni da dipendenti di servizi e vendite Microsoft**. I clienti potenziali interessati alla distribuzione di soluzioni tecnologiche basate sul cloud contattano Microsoft per informazioni sui professionisti in grado di aiutarli a soddisfare le esigenze aziendali. Questi professionisti Microsoft possono quindi rimandare i clienti potenziali alla tua azienda.
 
->**Importante**<br>
-Per aiutare i nostri partner a semplificare le operazioni aziendali, stiamo raggruppando in questo sito, ossia nel dashboard del partner, le funzionalità e le capacità che prima erano distribuite in diversi strumenti e siti Web. Come parte di questo impegno, abbiamo spostato tutte le funzionalità relative alle segnalazioni nel dashboard del partner e abbiamo ritirato i siti Pinpoint e C2PC. Se hai usato Pinpoint o C2PC in passato per ottenere e gestire le segnalazioni di Microsoft, dovrai creare un nuovo profilo di lavoro nel dashboard del partner per continuare a ottenere le segnalazioni. Non è più supportata l'importazione dei profili da questi siti. 
+> [!IMPORTANT]  
+> Per aiutare i nostri partner a semplificare le operazioni aziendali, stiamo raggruppando in questo sito, ossia nel dashboard del partner, le funzionalità e le capacità che prima erano distribuite in diversi strumenti e siti Web. Come parte di questo impegno, abbiamo spostato tutte le funzionalità relative alle segnalazioni nel dashboard del partner e abbiamo ritirato i siti Pinpoint e C2PC. Se hai usato Pinpoint o C2PC in passato per ottenere e gestire le segnalazioni di Microsoft, dovrai creare un nuovo profilo di lavoro nel dashboard del partner per continuare a ottenere le segnalazioni. Non è più supportata l'importazione dei profili da questi siti. 
 
 ## <a name="create-a-profile"></a>Creare un profilo
 
->**Nota** per poter creare un profilo di lavoro devi avere un account del dashboard del partner. Se non hai già un account del dashboard del partner, vedi [Creare un account del dashboard del partner](mpn-create-a-partner-center-account.md) per informazioni su come crearne uno. 
+> [!NOTE]  
+>  Prima di poter creare un profilo di lavoro, devi avere un account del Dashboard del Partner. Se non hai già un account del dashboard del partner, vedi [Creare un account del dashboard del partner](mpn-create-a-partner-center-account.md) per informazioni su come crearne uno. 
 
 Crea profili per ogni area geografica in cui sei autorizzato a svolgere la tua attività. 
 
 1.  Nel menu **Dashboard** seleziona **Segnalazioni** &gt; **Profili di lavoro** &gt; seleziona un paese/un'area geografica > **[Crea un profilo di lavoro](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  Nella pagina **Crea un profilo di lavoro** seleziona un'area geografica, quindi immetti le informazioni del profilo.
-    
-    >**Nota**: anche se il dashboard del partner supporta più lingue, per alcuni elementi, ad esempio la descrizione e i tag in formato libero, potrebbe essere necessario includere testo di lingue diverse, come indicato in questo argomento.
+    > [!NOTE]  
+    >  Anche se il Dashboard del Partner supporta più lingue, alcuni elementi, ad esempio la descrizione e i tag in formato libero, potrebbe essere necessario includere il testo da lingue diverse, come indicato in questo argomento.
 
 ### <a href="" id="partner_info"></a>Informazioni sul partner
 

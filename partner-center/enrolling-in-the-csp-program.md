@@ -3,12 +3,12 @@ title: Iscriversi al programma Cloud Solution Provider | Centro per i partner
 description: Comprendi i diversi modelli per la vendita in CSP e determina qual è il più adatto alla tua attività
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 609ef0bd1e280e41cd74088b8a42ffe7771d5ef9
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dac0ea001011ad4a3b3ee11bb465e793ca6ef323
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876401"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377673"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
@@ -27,7 +27,8 @@ Decidi quale [modello CSP funziona](https://partnercenter.microsoft.com/en-us/cl
 
 Potrebbero essere necessari diversi giorni per esaminare e verificare le informazioni fornite. Ti invieremo un'e-mail al termine della revisione.
 
->**Importante**<br> Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Questa limitazione si applica solo al tenant utilizzato per condurre transazioni CSP. I partner CSP che utilizzano un tenant non CSP per uso aziendale possono acquistare servizi online da un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Tutte le novità sui rilasci di funzionalità saranno annunciate tramite i canali di comunicazione normali, incluso il dashboard del partner.
+> [!IMPORTANT]  
+> Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Questa limitazione si applica solo al tenant utilizzato per condurre transazioni CSP. I partner CSP che utilizzano un tenant non CSP per uso aziendale possono acquistare servizi online da un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Tutte le novità sui rilasci di funzionalità saranno annunciate tramite i canali di comunicazione normali, incluso il dashboard del partner.
 
 ### <a name="enroll-as-an-indirect-reseller"></a>Iscriversi come rivenditore indiretto
 
@@ -48,19 +49,20 @@ Come partner diretto, sei titolare della relazione completa con il cliente e con
 
 - Se lavori con clienti con cui desideri continuare la relazione tramite il dashboard del partner, dovrai [associarli](request-a-relationship-with-a-customer.md) al tuo account nel dashboard del partner.  Microsoft può quindi connettere la tua fatturazione ai clienti. 
 
->**Nota**<br> I requisiti per diventare un partner diretto di recente sono stati modificati e verranno applicate a partire dal 31 agosto 2018. I partner diretti deve soddisfare i requisiti di nuovo a partire da loro successivo periodo di registrazione dopo il 31 agosto 2018.
+> [!NOTE]  
+>  I requisiti per diventare un partner diretto di recente sono stati modificati e verranno applicate a partire dal 31 agosto 2018. I partner diretti deve soddisfare i requisiti di nuovo a partire da loro successivo periodo di registrazione dopo il 31 agosto 2018.
 
 #### <a name="new-expanded-requirements"></a>Nuovi requisiti espansi:
 
 Supporto
-- Espandere le funzionalità di supporto tramite acquisto di supporto per il cloud personale e priorità con un Microsoft supporto avanzato per il pacchetto di partner. In alternativa, scegliere un supporto tecnico Microsoft Premier per il pacchetto di partner per accedere al catalogo completo dei servizi proattivi, con privilegi elevati 24/7 interruzione/correzione supporto e gestione degli account tecnici in cloud, ibrido e locale. 
+- Espandere le funzionalità di supporto tramite acquisto di supporto cloud personale e priorità con un avanzata supporto Microsoft per il pacchetto ai partner. In alternativa, scegliere un supporto tecnico Microsoft Premier per pacchetto i partner per accedere al catalogo completo dei servizi proattivi, con privilegi elevati 24/7 interruzione/correzione il supporto e la gestione degli account tecnica per cloud, ibrido e locale. 
 
 Servizi
 
 - Dimostrare che fornire almeno un servizio gestito, servizio IP o applicazione soluzione dei clienti. Altre informazioni sull'aggiunta dei servizi gestiti
 
 - Soddisfa le funzionalità di infrastruttura minima, ad esempio la fatturazione e di provisioning.
-Ci stiamo il monitoraggio delle prestazioni annuale per verificare che i partner di addebito diretto che soddisfano questi requisiti siano dimostrando crescita costante. Non esistono alcun obiettivi di prestazioni specifici posto in questo momento, ma Microsoft può implementare un prestazioni barra in futuro. 
+Abbiamo stiamo il monitoraggio delle prestazioni annuale per verificare che i partner di addebito diretto che soddisfano questi requisiti siano dimostrando crescita costante. Non esistono alcun obiettivi di prestazioni specifici posto in questo momento, ma Microsoft può implementare una prestazioni della barra in futuro. 
 
 - Un ID Microsoft Partner Network (MPN) attivo per la località in cui desiderano vendere
 

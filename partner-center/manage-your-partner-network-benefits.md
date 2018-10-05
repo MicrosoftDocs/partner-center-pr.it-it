@@ -4,12 +4,12 @@ description: In qualità di membro del Microsoft Partner Network, hai il diritto
 author: MaggiePucciEvans
 keywords: MPN, vantaggi dell'adesione, adesione
 ms.localizationpriority: medium
-ms.openlocfilehash: 2518cc915b658a74372cd34b02e96bbbc1991aa0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5b79073435715c91a6c77da266ec3420c139d8e3
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876911"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377723"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gestire i vantaggi dell'adesione al Microsoft Partner Network
 
@@ -28,7 +28,7 @@ Quando partecipi a Microsoft Partner Network (MPN), ottieni tutti i vantaggi del
 Dopo avere acquistato un pacchetto di vantaggi dell'adesione, dovrai ottenere le chiavi software e cedere licenze, sottoscrizioni e altri vantaggi ai dipendenti per iniziare a usarli. 
 
 >[!IMPORTANT]
->Mentre non è necessario essere un amministratore globale nell'organizzazione per acquistare vantaggi, è necessario essere amministratore globale per assegnare vantaggi ai dipendenti.  Se si desidera, è possibile acquisire un amministratore globale seguendo le istruzioni nella [pagina di **vantaggi** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). Inoltre, l'organizzazione disponga già di un amministratore globale pertanto assicurati di controllare con il tuo team.
+>Anche se non è necessario essere un amministratore globale nell'organizzazione per acquistare vantaggi, è necessario essere amministratore globale per assegnare vantaggi ai dipendenti.  Se si desidera, è possibile acquisire un amministratore globale seguendo le istruzioni nella [pagina **vantaggi** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). Inoltre, l'organizzazione disponga già di un amministratore globale pertanto assicurati di controllare con il tuo team.
 
 I pacchetti di vantaggi includono le allocazioni delle licenze software con diritti di uso interno, i servizi cloud, le sottoscrizioni di Visual Studio e il supporto. Puoi ottenere i dettagli delle sottoscrizioni di Action Pack sul sito [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
@@ -70,8 +70,8 @@ Per visualizzare e gestire i vantaggi dell'adesione, vai alla tua pagina [**Vant
 
 3. Per attivare una sottoscrizione di Visual Studio, seleziona un utente dall'elenco e quindi seleziona **Assegna utente**. 
 
-    >**Importante**<br>
-Se l'utente da assegnare non è nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
+> [!IMPORTANT]  
+> Se l'utente da assegnare non è nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
 
 3. Ripeti questa procedura per ogni sottoscrizione da assegnare. Gli utenti possono gestire le proprie sottoscrizioni nel portale di Visual Studio. 
 

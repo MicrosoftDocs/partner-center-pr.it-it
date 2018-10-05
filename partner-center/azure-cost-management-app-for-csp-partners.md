@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ab388f9a178a0bfd3b3d3133da855bcddee9d4f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877451"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377803"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>App Azure Cost Management per i partner CSP Azure  
 
@@ -41,8 +41,9 @@ Registrando un'app Web di Azure Active Directory nel Centro per i partner, abili
 ## <a name="add-a-secret-key-to-your-app"></a>Aggiungi una chiave privata alla tua app.
 1.  Nell'elenco a discesa accanto al pulsante **Add key** seleziona una durata di 1 o 2 anni.
 2.  Fai clic su **Add key**. 
-3.  Copia e salva il valore della chiave privata. Questo valore ti servirà per la versione di valutazione gratuita di 30 giorni.
-<br>**Nota**: le chiavi private dell'applicazione sono simili alle password, ma con date di scadenza più estese. Salva il valore della chiave in un luogo sicuro per l'utilizzo futuro.
+3.  Copia e salva il valore della chiave privata. Questo valore ti servirà per la versione di valutazione gratuita di 30 giorni.<br>
+> [!NOTE]  
+> Le chiavi private dell'applicazione sono simili alle password con più date di scadenza. Salva il valore della chiave in un luogo sicuro per l'utilizzo futuro.
 
 ## <a name="next-steps"></a>Passaggi successivi
 Avvia una [versione di valutazione gratuita di 30 giorni](https://go.microsoft.com/fwlink/?linkid=857895).

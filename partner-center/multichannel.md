@@ -4,12 +4,12 @@ description: In alcuni casi i clienti potrebbero chiederti di occuparti del prov
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fcb572f7afc9d7f75b8330a23b45eb5696c30e3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0a10d766f9b9f92a26e0c247b3a20dfab1fb50fe
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875841"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377483"
 ---
 # <a name="multi-channel-support"></a>Supporto multicanale
 
@@ -46,8 +46,8 @@ La funzionalità multicanale del dashboard del partner supporta gli scenari in c
 </tbody>
 </table>
 
->**Importante**<br>
-Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Tutti gli annunci sui rilasci di funzionalità saranno effettuati tramite i canali di comunicazione normali, tra cui il dashboard del partner. 
+> [!IMPORTANT]  
+> Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Tutti gli annunci sui rilasci di funzionalità saranno effettuati tramite i canali di comunicazione normali, tra cui il dashboard del partner. 
 
 ## <a name="see-also"></a>Vedi anche
 

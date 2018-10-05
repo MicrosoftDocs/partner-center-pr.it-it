@@ -5,12 +5,12 @@ ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: frode, uso improprio, uso accettabile, criteri di uso accettabile, mancato pagamento, il cliente non pagherà la fattura, rischio online, furto di servizio, abuso di servizio, sospensione di una sottoscrizione,
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e9184a47c5f12900f9a7acb0d33d5d5c9f1f4fa
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876281"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377703"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Insoluti, frodi o uso improprio
 
@@ -61,7 +61,8 @@ Queste raccomandazioni possono aiutare a sviluppare criteri e procedure che poss
 
 #### <a name="post-purchase-customer-account-management"></a>Gestione dell'account del cliente successiva all'acquisto
 - Collabora con i clienti per comprendere le esigenze aziendali relative all'utilizzo del cloud e imposta soglie di monitoraggio appropriate
-    >**Nota** Puoi [impostare un budget di spesa mensile di Azure](set-an-azure-spending-budget-for-your-customers.md) nel Centro per i partner per monitorare l'utilizzo del cliente durante il mese e ricevere una notifica quando i clienti sono vicini al loro budget.
+    > [!NOTE]  
+    >  È possibile [impostare un budget di spesa per Azure mensile](set-an-azure-spending-budget-for-your-customers.md) nel centro per i Partner per monitorare l'utilizzo dei clienti durante il mese e ricevere una notifica quando i clienti sono vicini al loro budget.
 - Monitora i [log attività dei clienti](activity-logs.md) regolarmente per rilevare preventivamente eventuali frodi
 - Agisci rapidamente quando vengono rilevate attività sospette
 - Evita di offrire ai clienti pieno accesso amministrativo alle sottoscrizioni senza prima implementare i controlli di riduzione del rischio
@@ -74,8 +75,8 @@ Queste raccomandazioni possono aiutare a sviluppare criteri e procedure che poss
 
 Per strategie più dettagliate per l'attenuazione del rischio online, consulta la [Guida alla gestione dei rischi delle transazioni online.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
 
->**Importante**<br>
-Se Microsoft rileva attività di partner o clienti che violano o potrebbero violare i criteri di utilizzo, verranno adottate misure adeguate. Il cliente potrebbe essere sospeso immediatamente. In tal caso, riceverai una notifica indicante le azioni intraprese o informazioni sulla tua richiesta da parte di Microsoft.
+> [!IMPORTANT]  
+> Se Microsoft rileva attività di partner o clienti che violano o potrebbero violare i criteri di utilizzo, verranno adottate misure adeguate. Il cliente potrebbe essere sospeso immediatamente. In tal caso, riceverai una notifica indicante le azioni intraprese o informazioni sulla tua richiesta da parte di Microsoft.
 
  
 

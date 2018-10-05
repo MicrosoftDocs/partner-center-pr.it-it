@@ -3,12 +3,12 @@ title: Iscriversi al programma Cloud Solution Provider per Microsoft Cloud per i
 description: Prima di iscriverti al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense, consulta queste informazioni sui requisiti del programma CSP.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2b4aff04574a4c16fbfe0ba28e1e7603857d3796
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877201"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377663"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Iscriversi al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense
 
@@ -30,8 +30,8 @@ Per creare un account del Centro per i partner e iscriverti al CSP per Microsoft
 -  ID Microsoft Partner Network (MPN) della tua organizzazione 
 -  Un indirizzo aziendale negli Stati Uniti
 
->**Importante**<br>
-Se hai già un account nel Centro per i partner e desideri iscriverti a CSP per Microsoft Cloud per il governo statunitense, devi creare un nuovo account separato specifico per il mercato del governo statunitense.
+> [!IMPORTANT]  
+> Se hai già un account nel Centro per i partner e desideri iscriverti a CSP per Microsoft Cloud per il governo statunitense, devi creare un nuovo account separato specifico per il mercato del governo statunitense.
 
 ## <a name="how-to-enroll"></a>Come effettuare la registrazione 
 
@@ -48,8 +48,8 @@ Se hai già un account nel Centro per i partner e desideri iscriverti a CSP per 
 
 2.  Seleziona **Accetta e continua**. Potrebbero essere necessari diversi giorni per rivedere la tua richiesta. Ti invieremo un'e-mail al termine della revisione.
 
-    >**Importante**<br>
-    Selezionando **Accetta e continua**, confermi di essere autorizzato ad agire per conto dell'organizzazione e accetti di consentire a Microsoft di eseguire una verifica del credito prima di esaminare la richiesta Cloud Solution Provider inviata dalla tua organizzazione.
+    > [!IMPORTANT]  
+    > Selezionando **Accetta e continua**, confermi di essere autorizzato ad agire per conto dell'organizzazione e accetti di consentire a Microsoft di eseguire una verifica del credito prima di esaminare la richiesta Cloud Solution Provider inviata dalla tua organizzazione.
 
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>Passaggio 3: firmare il contratto per i rivenditori per Microsoft Cloud per il governo statunitense
@@ -63,8 +63,8 @@ Se hai già un account nel Centro per i partner e desideri iscriverti a CSP per 
 
 Microsoft Cloud per il governo statunitense fornisce un'istanza separata di Microsoft Azure che soddisfa gli standard di privacy, sicurezza e conformità degli enti pubblici. Per consentire agli amministratori di gestire utenti e licenze nel portale di Microsoft Azure, dovrai assegnare loro manualmente il ruolo di Agente amministratore.
 
->**Nota**<br>
-Dopo che avrai assegnato agli utenti il ruolo di Agente amministratore, essi saranno in grado di accedere all'elenco dei clienti nella pagina **Clienti** e [aggiungere nuovi clienti](add-a-new-customer.md).   
+> [!NOTE]  
+> Dopo che avrai assegnato agli utenti il ruolo di Agente amministratore, essi saranno in grado di accedere all'elenco dei clienti nella pagina **Clienti** e [aggiungere nuovi clienti](add-a-new-customer.md).   
 
 1.  Accedi al portale di amministrazione di Microsoft Azure in https://portal.azure.us/.
 

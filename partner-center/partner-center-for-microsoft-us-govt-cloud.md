@@ -3,12 +3,12 @@ title: Centro per i partner per Microsoft Cloud per il governo statunitense | Ce
 description: Il Centro per i partner per Microsoft Cloud per il governo statunitense è il portale aziendale per i partner Microsoft che desiderano offrire soluzioni cloud Microsoft ai clienti che lavorano con agenzie governative degli Stati Uniti.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e17f2211e72501fdc72fe077b53d855fc2119759
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: efbcf0ee2c6a7f60d50c07320894c908168a10f2
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875641"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377523"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Centro per i partner per Microsoft Cloud per il governo statunitense
 
@@ -30,8 +30,8 @@ Per ulteriori informazioni, vedi [la scheda tecnica di Microsoft Cloud per il go
 
 Dopo l'iscrizione al programma Cloud Solution Provider (CSP) per Microsoft Cloud per il governo statunitense, utilizzerai il Centro per i partner per vendere soluzioni e servizi specifici per il cloud ai clienti appartenenti al settore pubblico statunitense. 
 
->**Nota**<br>
-Al momento della pubblicazione di questo articolo, le seguenti funzionalità di Centro per i partner non erano ancora disponibili nel Centro per i partner di Microsoft Cloud per il governo statunitense (dal momento della pubblicazione, è possibile che siano state aggiunte alcune funzionalità, per cui questo elenco potrebbe non essere aggiornato):
+> [!NOTE]  
+> Al momento della pubblicazione di questo articolo, le seguenti funzionalità di Centro per i partner non erano ancora disponibili nel Centro per i partner di Microsoft Cloud per il governo statunitense (dal momento della pubblicazione, è possibile che siano state aggiunte alcune funzionalità, per cui questo elenco potrebbe non essere aggiornato):
 
 - Trova un partner
 - Profili di lavoro

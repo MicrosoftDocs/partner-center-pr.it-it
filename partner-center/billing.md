@@ -5,12 +5,12 @@ ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: medium
-ms.openlocfilehash: 2bf56f90a6a49184ea2992adf534fde3d2043e7b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9e66f9c4060a155f4099f28ef29559d5a6f628ba
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876361"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377743"
 ---
 # <a name="billing"></a>Fatturazione
 
@@ -24,8 +24,8 @@ Per la fatturazione, accedi al menu **Dashboard** e seleziona **Fatturazione** p
 
 I partner del programma Cloud Solution Provider che scelgono la fatturazione mensile pagheranno Microsoft per gli abbonamenti dei clienti (sia in base a licenza che in base all'uso) in via posticipata, dopo 60 giorni.
 
->**Nota**<br>
-La fattura è un riepilogo di tutti gli addebiti relativi a programma, prodotti e clienti per il periodo di fatturazione corrente ed è disponibile entro quattro (4) giorni dalla data di fatturazione selezionata.
+> [!NOTE]  
+> La fattura è un riepilogo di tutti gli addebiti relativi a programma, prodotti e clienti per il periodo di fatturazione corrente ed è disponibile entro quattro (4) giorni dalla data di fatturazione selezionata.
 
 Informazioni fondamentali da conoscere sulla fatturazione ai clienti:
 

@@ -5,12 +5,12 @@ ms.prod: ''
 author: MaggiePucciEvans
 keywords: rivenditori indiretti, rivenditori, provider indiretti, provider, relazione, VAR, livello2, livello 2
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f148d04b9e65624332bba8a2e687209856aa676
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9d2c9953244eda43be5af02f5324087df571047a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877211"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377753"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Collaborare con i provider indiretti nel programma Cloud Solution Provider
 
@@ -32,7 +32,8 @@ Per altre informazioni su ciò che è necessario per la vendita nel programma CS
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Registrarsi come nuovo rivenditore indiretto nel programma Cloud Solution Provider
 
->**Nota** Se sei già iscritto al programma CSP, potrebbe essere sufficiente fornire le informazioni di contatto del supporto clienti per creare un account rivenditore nel dashboard del partner. 
+> [!NOTE]  
+> Se sei già registrato nel programma CSP, potrebbe essere necessario fornire supporto tecnico solo le informazioni per creare un account rivenditore nel Dashboard del Partner di contatto. 
 
 ### <a name="before-you-begin"></a>Prima di iniziare
 
@@ -69,14 +70,14 @@ Tieni presente che potrebbero essere necessari diversi giorni per esaminare e ve
 7.  Seleziona il profilo dell'organizzazione con l'ID MPN associato a incentivi, vantaggi e competenze in modo da consentirci di trasferire queste informazioni al tuo account del dashboard del partner. Seleziona **Continua**.
 
     Se l'ID MPN che vuoi usare non è presente in questa pagina, seleziona **Annulla** e accedi di nuovo con il nome utente e la password del profilo dell'organizzazione che vuoi usare. 
-
-    >**Importante**  Seleziona l'ID MPN associato a un profilo attivo dell'organizzazione che si trovi nello stesso paese/area geografica del tenant di Azure AD.
+    > [!IMPORTANT]  
+    > Seleziona l'ID MPN associato a un profilo dell'organizzazione active che si trova nella stessa paese/area come tenant di Azure AD.
 
 8.  Fornisci o aggiorna il profilo legale dell'organizzazione, le informazioni sul contatto principale e le informazioni di supporto per i clienti. Seleziona **Registrati ora**.
 
     Il contatto principale deve essere la persona all'interno dell'organizzazione da contattare relativamente alla richiesta (può trattarsi di te o di un'altra persona all'interno dell'organizzazione). Tieni presente che non sono accettati indirizzi di posta elettronica di servizi di posta elettronica basato sul Web, ad esempio Gmail, Yahoo! Mail, iCloud Mail, AOL Mail o Posta di Outlook. 
-
-    >**Importante** Per garantire la sicurezza e la privacy dell'organizzazione, invieremo un'e-mail al contatto principale per verificare (1) che abbia effettuato l'iscrizione per ottenere un account del dashboard del partner e (2) che l'indirizzo di posta elettronica appartenga all'organizzazione. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueremo le verifiche delle informazioni fornite. Gli aggiornamenti sullo stato della registrazione verranno inviati al contatto principale.
+    > [!IMPORTANT]  
+    > Per garantire sicurezza e la privacy dell'organizzazione, invieremo un'e-mail al contatto principale per verificare che (1) che potrà effettuato la registrazione per ottenere un account del Dashboard del Partner e (2) che questo indirizzo di posta elettronica appartenga all'organizzazione. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueremo le verifiche delle informazioni fornite. Gli aggiornamenti sullo stato della registrazione verranno inviati al contatto principale.
 
 9.  Quando l'account del dashboard del partner sarà pronto per l'uso, verifica di essere stato aggiunto al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, devi disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attieniti alla procedura seguente:
 
@@ -97,8 +98,8 @@ Tieni presente che potrebbero essere necessari diversi giorni per esaminare e ve
 5. Seleziona **Aggiungi** per creare l'account utente. Verifica i dettagli dell'utente nella pagina successiva.
 
 
->**Importante**<br>
-Prendi nota delle informazioni di accesso del nuovo utente visualizzate in questa pagina. Copiale e inviale al nuovo utente perché dopo non potrai più accedervi. <br>
+> [!IMPORTANT]  
+> Prendi nota delle informazioni di accesso del nuovo utente visualizzate in questa pagina. Copiale e inviale al nuovo utente perché dopo non potrai più accedervi. <br>
 
 >L'utente dovrà accedere al dashboard del partner con il nome utente e la password temporanea. Quando l'utente accede al dashboard del partner per la prima volta, gli viene chiesto di modificare la password.        
 
@@ -121,15 +122,16 @@ Qualora un provider indiretto desiderasse connettersi con te nel dashboard del p
 
 3.  Per confermare la partnership con il provider, seleziona la casella e quindi seleziona **Autorizza provider indiretto**. Il provider è ora incluso nella tua pagina **Indirect providers** e la tua azienda è inclusa nella pagina **Indirect resellers** del provider.
 
-    >**Nota** Quando stabilisci una partnership con un provider indiretto, lo autorizzi a inviare ordini e aggiungere sottoscrizioni per conto dei tuoi clienti e gli concedi l'accesso di tipo Amministratore all'account aziendale della società. Una volta stabilita la relazione con il provider, puoi rimuovere l'accesso come amministratore del provider all'account aziendale nel portale di Office 365. 
+    > [!NOTE]  
+    > Quando si stabilisce una relazione con un provider indiretto, autorizzi a inviare ordini e aggiungere sottoscrizioni per conto dei clienti e Concedi l'accesso come amministratore all'account aziendale della tua azienda. Una volta stabilita la relazione con il provider, puoi rimuovere l'accesso come amministratore del provider all'account aziendale nel portale di Office 365. 
 
 4.  Seleziona **Provider indiretti** dal menu **Dashboard** per visualizzare un elenco di provider con i quali hai stabilito una partnership. 
 
 5.  Seleziona **Visualizza clienti** per visualizzare l'elenco dei clienti condivisi con il provider.
 
 6.  Seleziona **Invite new customers** per chiedere a un nuovo cliente di autorizzare le relazioni come rivenditore con te e con il provider indiretto. Assicurati di avere a portata di mano l'indirizzo di posta elettronica del cliente in modo da poter inviare l'invito tramite posta elettronica.  
-
-    >**Importante**  Per inviare ordini per conto dei clienti, il provider indiretto deve avere con loro una relazione come rivenditore. 
+    > [!IMPORTANT]  
+    > Il provider indiretto deve avere una relazione come rivenditore con i clienti a inviare ordini per conto del cliente. 
  
 ## <a name="connect-with-customers"></a>Entrare in contatto con i clienti
 

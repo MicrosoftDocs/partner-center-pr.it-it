@@ -4,12 +4,12 @@ description: I record dei clienti sono tra le informazioni più importanti nel C
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8242a5b00af5517aa9b480077201b32bae7b251e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8eeaff75547426440a0a303423cf62444362035a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876821"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377463"
 ---
 # <a name="manage-your-customer-list"></a>Gestire l'elenco dei clienti
 
@@ -35,7 +35,7 @@ Anche i log attività offrono dati esportabili sulle transazioni e le operazioni
 Nel menu **Dashboard** seleziona **Clienti**.
 2.  Per cercare un cliente, immetti il nome del cliente o il nome del dominio nella casella di ricerca.
 3.  Seleziona la **freccia in giù** alla fine della riga di un cliente per visualizzare l'ID Microsoft oltre ai link rapidi per le sottoscrizioni e i servizi associati.
-4.  Sotto le informazioni del cliente **a cui fatturare** , aggiorna il nome della società. Quando salvi il nuovo valore, lo si rifletteranno nell'elenco dei clienti. Questo cambierà solo il nome della società a cui fattura e il valore di elenco dei clienti. Non si verrà applicato in un punto qualsiasi altro.
+4.  Sotto le informazioni del cliente **a cui fatturare** , aggiorna il nome della società. Quando salvi il nuovo valore, lo si rifletteranno nell'elenco dei clienti. Questo modo verrà modificata solo il nome della società a cui fatturare e il valore di elenco dei clienti. Non verrà applicato in un punto qualsiasi altro.
 
 ## <a name="export-your-customer-list"></a>Esportare l'elenco dei clienti
 
@@ -65,8 +65,8 @@ Nel menu **Dashboard** seleziona **Clienti**.
     -   **Stato**;
     -   **Rivenditore** - ID del rivenditore che possiede e gestisce la sottoscrizione.
 
->**Nota**<br>
-Per altre informazioni sulla gestione delle sottoscrizioni, vedi [Sottoscrizioni dei clienti](customer-subscriptions.md).
+> [!NOTE]  
+> Per altre informazioni sulla gestione delle sottoscrizioni, vedi [Sottoscrizioni dei clienti](customer-subscriptions.md).
 
      
 

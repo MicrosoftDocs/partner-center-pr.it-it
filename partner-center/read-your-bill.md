@@ -5,12 +5,12 @@ ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875181"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377543"
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
@@ -24,10 +24,10 @@ Per la fatturazione, accedi al menu **Dashboard** e seleziona **Fatturazione** p
 
 I partner del programma Cloud Solution Provider che hanno scelto la fatturazione mensile pagheranno Microsoft per gli abbonamenti dei clienti (sia in base a licenza che in base all'uso) in via posticipata, dopo 60 giorni.
 
->**Nota**<br>
-La fattura è un riepilogo di tutti gli addebiti relativi a programma, prodotti e clienti per il periodo di fatturazione corrente ed è disponibile entro quattro (4) giorni dalla data di fatturazione selezionata.
+> [!NOTE]  
+> La fattura è un riepilogo di tutti gli addebiti relativi a programma, prodotti e clienti per il periodo di fatturazione corrente ed è disponibile entro quattro (4) giorni dalla data di fatturazione selezionata.
 
-Riceverai una fattura per basato su licenza (Office 365) e gli addebiti (Azure) basati sull'utilizzo e una fattura separata per una tantum (istanze riservate di Azure macchina virtuale) addebiti.
+Riceverai una fattura per basate su licenza (Office 365) e gli addebiti (Azure) basati sull'utilizzo e una fattura separata per una tantum (istanze riservate di Azure della macchina virtuale) addebiti.
 
 Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I file di riconciliazione includono gli ID dei clienti e gli ID delle sottoscrizioni che userai per creare le fatture per i clienti. Per altre informazioni, vedi [Come usare i file di riconciliazione](use-the-reconciliation-files.md).
 
@@ -61,7 +61,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 <td>Gli addebiti fissi mensili o annuali per le licenze in base all'uso acquistate, fatturati prima del servizio. Questo numero è la somma di tutti gli addebiti nella colonna &quot;Subtotal&quot; del file di riconciliazione in base alle licenze (colonna T).</td>
 </tr>
 <tr class="even">
-<td>Addebiti in base all'uso</td>
+<td>Addebiti basati sull'utilizzo</td>
 <td>Utilizzo di Azure, inclusi le nuove applicazioni e i nuovi servizi abilitati e usati durante il periodo di fatturazione. Questo numero è la somma di tutti gli addebiti nella colonna &quot;PretaxCharges&quot; del file di riconciliazione in base all'uso (colonna Z).</td>
 </tr>
 <tr class="odd">
@@ -75,7 +75,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 <tr class="even">
 <tr class="even">
 <td>Subtotal</td>
-<td>Totale prima delle imposte e addebiti esclusivo fiscali e crediti.</td>
+<td>Totale al lordo imposte e addebiti esclusiva fiscali e crediti.</td>
 </tr>
 <td>Tax</td>
 <td>Imposta totale per gli addebiti correnti come calcolata complessivamente nella sezione dei dettagli che inizia a pagina 2 della fattura. Questo numero è la somma di tutti gli addebiti che fanno riferimento a:

@@ -4,12 +4,12 @@ description: Scaricare i modelli di contratto per i clienti specifici del mercat
 author: Maggie Evans
 keywords: contratti cloud Microsoft, modelli di contratto cliente, contratti cliente CSP, MCA, MCA, CSP, dove posso vendere con CSP?, paesi/aree geografiche CSP, MCA CSP in più lingue, CSP per America del Nord, CSP per America centrale, CSP per America del Sud, CSP per Caraibi, Microsoft Cloud CSP per governo degli Stati Uniti, Microsoft Cloud CSP per Germania, CSP per Asia orientale, CSP per Africa, Europa per CSP, CSP per Asia, CSP per Pacifico, MCA CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cd5615693a7cea51dfc11f1b6039c3a333e979b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877511"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377813"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Mercati e contratti per i clienti Microsoft Cloud Solution Provider
 
@@ -17,8 +17,8 @@ Questo articolo elenca i mercati attualmente disponibili per il canale di vendit
 
 Per alcune posizioni sono disponibili versioni in più lingue del contratto per andare incontro alle preferenze linguistiche del cliente. Fornisci al cliente la versione nella lingua preferita.
 
->**Nota**<br>
-I modelli di contratto Microsoft Cloud per i clienti elencati di seguito sono validi a partire dal 1° settembre 2017 per tutte le aree geografiche e tutte le lingue.
+> [!NOTE]  
+> I modelli di contratto Microsoft Cloud per i clienti elencati di seguito sono validi a partire dal 1° settembre 2017 per tutte le aree geografiche e tutte le lingue.
 
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>America del Nord, America centrale, America del Sud e Caraibi

@@ -4,12 +4,12 @@ description: Attenersi alla procedura seguente per visualizzare in anteprima l'a
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0164a650fb92e4a445b195f3e7b34f1359759a8c
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dd91d16ffe5e49271dd3c5fe50e8910299f1a1c
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874761"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377513"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installare e visualizzare in anteprima l'app Analisi del Centro per i Partner per Microsoft Power BI
 
@@ -39,7 +39,8 @@ Prima di installare la versione di anteprima dell'app Analisi del Centro per i p
 
 4.  Nella finestra a comparsa **Connect to Partner Center Analytics**, verifica che **Metodo di autenticazione** sia impostato su **oAuth2** oppure, in caso contrario, seleziona **oAuth2** dall'elenco. 
 
-    >**Nota**<br> La visualizzazione di questa finestra potrebbe richiedere qualche minuto.
+    > [!NOTE]  
+>  La visualizzazione di questa finestra potrebbe richiedere qualche minuto.
 
 5.  Nella pagina **Partner Center Analytics Connector**, esegui l'accesso con le credenziali da amministratore globale, agente amministratore o amministratore della fatturazione del tenant Azure AD aziendale, quindi seleziona **Accedi**.
  

@@ -4,12 +4,12 @@ description: Puoi ora assegnare sottoscrizioni Azure ai clienti nel Centro per i
 author: Labrenne
 keywords: Azure, sottoscrizione Azure, sottoscrizione, sottoscrizioni, assegnare la sottoscrizione, gestire la sottoscrizione azure
 ms.localizationpriority: medium
-ms.openlocfilehash: cc847b9a0cab253c911141c26c4ab457ad0d98cc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875011"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377563"
 ---
 # <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>Assegnare le sottoscrizioni di Azure nel dashboard del partner
 
@@ -37,7 +37,8 @@ Dopo aver creato una sottoscrizione di Microsoft Azure per un cliente, puoi cons
 
 1.  Per aprire il portale di Azure del cliente, espandi la voce del cliente nell'elenco dei clienti o seleziona il nome del cliente e quindi seleziona **Portale di gestione di Microsoft Azure**.
     
- >**Nota** <br> Se ti viene chiesto di effettuare l'accesso al portale di Azure, potresti non avere privilegi amministrativi delegati. Seleziona **Richiedi una relazione** per invitare il cliente a identificarti come suo Partner of Record. Quando il cliente accetta l'invito, ti sono automaticamente concessi i privilegi amministrativi delegati. 
+> [!NOTE]  
+> Se ti viene chiesto di effettuare l'accesso al portale di Azure, potresti non avere privilegi amministrativi delegati. Seleziona **Richiedi una relazione** per invitare il cliente a identificarti come suo Partner of Record. Quando il cliente accetta l'invito, ti sono automaticamente concessi i privilegi amministrativi delegati. 
 
 2.  Nel portale di Azure, apri l'elenco delle sottoscrizioni del cliente e seleziona la sottoscrizione di Azure del cliente.
 

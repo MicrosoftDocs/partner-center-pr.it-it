@@ -3,12 +3,12 @@ title: Aderire a Microsoft Partner Network| Centro per i partner
 description: Acquistare Microsoft Action Pack e ottenere competenze nel Centro per i partner
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0983b5f9b62e29495d98248e88a2820721d3e828
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6d38a3bce720d4accca4387d279f222181e337ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877111"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377793"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Aderire a Microsoft Partner Network (MPN)
 
@@ -37,7 +37,8 @@ Per svolgere attività commerciali in qualità di partner Microsoft, hai bisogno
 
 4.  Se ti iscrivi attraverso un'organizzazione esistente, ti verrà chiesto il nome e l'indirizzo dell'organizzazione.
 
->**Nota**<br> Sarà necessario fornire l'indirizzo della sede centrale dell'organizzazione per ogni località in cui vendi.
+> [!NOTE]  
+>  Sarà necessario fornire l'indirizzo della sede centrale dell'organizzazione per ogni località in cui vendi.
 
 Come membro del Network a questo livello di base gratuito, ricevi una serie di [vantaggi di base in termini di diritti di uso interno](https://partner.microsoft.com/membership/core-benefits) per aiutarti a sviluppare il business e compiere il passaggio successivo. 
 

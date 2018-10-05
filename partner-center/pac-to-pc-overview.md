@@ -4,12 +4,12 @@ description: La funzionalità Interfaccia di amministrazione partner di Office 3
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d60be7349754a7200a0b8d9762a37a940e0eebb
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dd0b3e73939f9992e32aa64571ef3fd99a61ef37
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875591"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377593"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>L'interfaccia di amministrazione partner si sposta nel dashboard del partner
 
@@ -17,7 +17,8 @@ ms.locfileid: "2875591"
 
 -  Centro per i partner
 
->**Nota** Tutte le date sono state aggiornate dalla pubblicazione iniziale di questo articolo.
+> [!NOTE]  
+>  Tutte le date sono state aggiornate pubblicazione iniziale di questo articolo.
 
 L'interfaccia di amministrazione partner (PAC) di Office 365 si sposta nel dashboard del partner Microsoft.
 
@@ -36,7 +37,8 @@ Ad aprile 2018, il PAC verrà ritirato e i partner CSP verranno indirizzati auto
 
 Inizia a usare il [dashboard del partner Microsoft](https://partnercenter.microsoft.com/) ora per essere pronto a migrare dal PAC.  Accederai al dashboard del partner con le stesse credenziali che usi per il PAC. 
 
->**IMPORTANTE** Alcune funzionalità e funzioni presenti nel PAC non saranno disponibili nel dashboard del partner.
+> [!IMPORTANT]  
+> Alcune funzionalità e funzioni che erano disponibili nel PAC non saranno disponibili nel Dashboard del Partner.
 
  Leggi il [confronto affiancato](moving-from-pac-to-pc.md) per comprendere e acquisire familiarità con queste modifiche.  Troverai ulteriori informazioni sulla gestione degli account, sulla gestione dei clienti, sulle licenze e sulle sottoscrizioni, sui prezzi e sulle offerte e altro in [Guida del dashboard del partner Microsoft](https://partnercenter.microsoft.com/partner/help).
 

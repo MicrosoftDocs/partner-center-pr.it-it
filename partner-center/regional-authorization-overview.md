@@ -5,12 +5,12 @@ ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 keywords: Tenant di Azure AD, consolidare i tenant, strategia dei tenant, tenant in CSP, account partner in CSP, mercati e territori CSP, dove è possibile vendere tramite CSP?
 ms.localizationpriority: medium
-ms.openlocfilehash: 59c9e17d3238afd775c08513f9ef39cb3fd6d7d7
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876381"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377633"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>Strategie di consolidamento dei tenant in CSP
 
@@ -21,7 +21,8 @@ Con l'autorizzazione regionale, i partner con aziende internazionali possono ora
 
 In passato, ad eccezione di Unione europea/EFTA, i partner dovevano avere un'entità fisica in ogni paese in cui che volevano gestire delle transazioni. Per i partner, questo significava dover configurare più tenant nel Centro per i partner, con più date di fatturazione e altre impostazioni. In aree geografiche, come l'America latina, i partner non avevano la possibilità di lavorare agevolmente con clienti in un paese/area geografica adiacente e in alcuni casi, non potevano del tutto.
 
->**Nota**<br> Se sei registrato a [CSP per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md) ed effettui vendite ai clienti in paesi/aree geografiche UE ed EFTA, non puoi consolidare il tenant per il Centro per i partner per Microsoft Cloud Germania con gli altri tenant di cui disponi.  
+> [!NOTE]  
+>  Se sei registrato a [CSP per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md) ed effettui vendite ai clienti in paesi/aree geografiche UE ed EFTA, non puoi consolidare il tenant per il Centro per i partner per Microsoft Cloud Germania con gli altri tenant di cui disponi.  
 
 ## <a name="planning"></a>Pianificazione
 
@@ -163,10 +164,11 @@ Prima di consolidare i tenant, tieni conto delle considerazioni seguenti:
 
 -   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Isole Åland, Andorra, Austria, Belgio, Isola Bouvet, Bulgaria, Croazia, Cipro, Repubblica Ceca, Danimarca, Estonia, Fær Øer, Finlandia, Francia, Germania, Grecia, Gibilterra, Groenlandia, Guernsey, Ungheria, Islanda, Irlanda, Isola di Man, Italia, Jersey, Jan Mayen Lettonia, Liechtenstein, Lituania, Lussemburgo, Malta, Monaco, Paesi Bassi, Norvegia, Polonia, Portogallo, Romania, San Marino, Slovacchia, Slovenia, Spagna, Svalbard, Svezia, Svizzera, Regno Unito, Città del Vaticano. 
 
-    >**Nota**<br> Se sei registrato a [CSP per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md) ed effettui vendite ai clienti in paesi/aree geografiche UE ed EFTA, non puoi consolidare il tenant per il Centro per i partner per Microsoft Cloud Germania con gli altri tenant di cui disponi.  
+    > [!NOTE]  
+>  Se sei registrato a [CSP per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md) ed effettui vendite ai clienti in paesi/aree geografiche UE ed EFTA, non puoi consolidare il tenant per il Centro per i partner per Microsoft Cloud Germania con gli altri tenant di cui disponi.  
 
 
--   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Afghanistan, Albania, Algeria, Armenia, Azerbaijan, Bahrain, Belarus, Benin, Bosnia and Herzegovina, Burkina Faso, Burundi, Central African Republic, Chad, Comoros, Congo (DRC), Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, French Polynesia, Gabon, Gambia, Georgia, Guinea, Guinea-Bissau, Iraq, Israel, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Liberia, Libya, Madagascar, Malawi, Mali, Mayotte, Moldova, Mongolia, Montenegro, Morocco, New Caledonia, Niger, Oman, Pakistan, Palestinian Authority, Qatar, Republic of Macedonia (FYROM), Réunion, Saudi Arabia, Serbia, Seychelles, Sierra Leone, Somalia, South Africa, Tajikistan, Togo, Tunisia, Turkey, Turkmenistan, Ukraine, United Arab Emirates, Uzbekistan, Yemen, Zimbabwe. 
+-   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Afghanistan, Albania, Algeria, Armenia, Azerbaigian, Bahrain, Belarus, Benin, Bosnia ed Erzegovina, Burkina Faso Burundi, Repubblica Centrafricana, Ciad, Comore, Repubblica democratica del Congo, Congo, Gibuti, Egitto, Guinea Equatoriale, Eritrea, Polinesia francese, Gabon, Georgia,Guinea, Guinea-Bissau, Iraq, Israele, Giordania, Kazakhstan, Kuwait, Kirghizistan, Libano, Liberia, Libia, Madagascar, Malawi, Mali, Mayotte, Moldova, Mongolia, Montenegro, Marocco, Nuova Caledonia, Niger, Oman, Pakistan, Autorità Palestinese, Qatar, Repubblica di Macedonia (Ex Repubblica Jugoslava di Macedonia), Riunione, Arabia Saudita, Serbia, Seychelles, Sierra Leone, Somalia, Sudafrica, Tagikistan, Togo, Tunisia, Turchia, Turkmenistan, Ucraina, Emirati Arabi Uniti, Uzbekistan, Yemen, Zimbabwe. 
 
 -   **Se la destinazione di vendita Microsoft è un paese/area geografica nell'elenco seguente**, il territorio include i clienti residenti in qualsiasi paese/area geografica nell'elenco seguente: Angola, Botswana, Territorio britannico dell'Oceano Indiano, Cabo Verde, Camerun, Côte d'Ivoire (Costa d'Avorio), Etiopia, Ghana, Kenya, Kosovo, Lesoto, Mauritania, Mauritius, Mozambico, Namibia, Nigeria, Ruanda, Senegal, Swaziland, Tanzania, Uganda, Yemen, Zambia. 
 

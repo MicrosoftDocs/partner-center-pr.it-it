@@ -3,12 +3,12 @@ title: Utilizzare le promozioni per attirare nuovi clienti | Centro per i partne
 description: In quanto partner di Microsoft nel programma Cloud Solutions Provider, puoi acquistare sottoscrizioni a prezzi promozionali e offrire sconti ai tuoi clienti.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 36d48757940aa3659d3513133afe2c0d98bbd3bb
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 17317d8d458601bc8b148f5a13ea3e317b77af47
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875381"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377683"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Utilizzare le promozioni per attirare nuovi clienti  
 
@@ -34,8 +34,8 @@ Fermati un istante ed esamina questi importanti aspetti sulle promozioni:
 
 Puoi visualizzare per quali promozioni sei idoneo, se presenti, nella tua pagina**Promozioni**. Seleziona **Promozioni** nel menu **Dashboard** per visualizzare un elenco di promozioni correnti insieme a sconto, tipo di promozione, date di inizio e fine per la sottoscrizione. Se non sono disponibili promozioni, viene visualizzato un messaggio che ti informa di tale situazione. 
 
->**Nota**<br>
-Inoltre puoi visualizzare le promozioni quando effettui un acquisto. Quando selezioni una sottoscrizione, il prezzo promozionale appare nella pagina **Revisione**.
+> [!NOTE]  
+> Inoltre puoi visualizzare le promozioni quando effettui un acquisto. Quando selezioni una sottoscrizione, il prezzo promozionale appare nella pagina **Revisione**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Acquisto di sottoscrizioni a prezzi scontati
 

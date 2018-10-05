@@ -3,12 +3,12 @@ title: Migrazione degli abbonamenti Office 365 E4 alle nuove versioni di Office 
 description: L'edizione Microsoft Office 365 Enterprise E4 è stata ritirata il 7 aprile 2017. Scopri come eseguire la migrazione degli abbonamenti del cliente alle nuove versioni di Office 365.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 545cfa5c635c9093cd0261bf35e01ba2823571ef
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e6efcc3227f426a9b83c7579534e0b6ad68188da
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876931"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377713"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrazione degli abbonamenti Office 365 E4 alle nuove versioni di Office 365
 
@@ -20,7 +20,8 @@ Il piano Office 365 Enterprise E4 è stato ritirato il 7 aprile 2017. Dopo tale 
 
 Gli abbonamenti E4 verranno annullati alla scadenza. Per garantire la continuità, è opportuno trasferire i clienti con abbonamenti E4 in scadenza a una delle opzioni SKU supportate indicate di seguito. Si consiglia di trasferire i clienti ai nuovi abbonamenti prima della data di scadenza annuale dell'abbonamento al fine di evitare eventuali interruzioni del servizio. 
 
->**Nota** Entrambi gli SKU di Office 365 Enterprise E4, commerciale e per enti pubblici, sono stati ritirati.
+> [!NOTE]  
+>  Vengono ritirate sia Office 365 Enterprise E4, commerciale e SKU per enti pubblici.
  
 Nella pagina dei dettagli dell'abbonamento, lo stato dell'abbonamento E4 è passato a "Data di scadenza [data]" da "Rinnovo automatico il [data]". 
 

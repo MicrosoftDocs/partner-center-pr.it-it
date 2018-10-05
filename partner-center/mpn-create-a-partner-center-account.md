@@ -3,12 +3,12 @@ title: Creare un account del Centro per i partner | Centro per i partner
 description: I membri del programma Microsoft Partner Network devono creare gli account del Centro per i partner per gestire i vantaggi e le competenze di rete e creare un profilo aziendale.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 5687b933923da3e554924e14cfd0dca88a64243e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876781"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377773"
 ---
 # <a name="create-a-partner-center-account"></a>Creare un account nel Centro per i partner
 
@@ -60,7 +60,8 @@ Queste informazioni verranno verificate durante il processo di creazione dell'ac
 
     Il contatto principale deve essere la persona all'interno dell'organizzazione da contattare relativamente alla richiesta (può trattarsi di te o di un'altra persona all'interno dell'organizzazione). Useremo queste informazioni anche per verificare che questa persona lavori presso l'organizzazione e che abbia effettuato la registrazione per ottenere un account del Centro per i partner.
 
-    >**Importante**<br> Per garantire la sicurezza e la privacy dell'organizzazione, invieremo un'e-mail al contatto principale per verificare che (1) abbia effettuato la registrazione per ottenere un account del Centro per i partner e (2) che l'indirizzo di posta elettronica appartenga all'organizzazione. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueremo le verifiche delle informazioni fornite.
+    > [!IMPORTANT]  
+    > Per garantire la sicurezza e la privacy dell'organizzazione, invieremo un'e-mail al contatto principale per verificare che (1) abbia effettuato la registrazione per ottenere un account del Centro per i partner e (2) che l'indirizzo di posta elettronica appartenga all'organizzazione. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueremo le verifiche delle informazioni fornite.
 
 4.  Leggi e accetta le condizioni del contratto del Microsoft Partner Network. 
 

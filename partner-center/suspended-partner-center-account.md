@@ -4,12 +4,12 @@ description: Scopri come ripristinare un account del Centro per i partner sospes
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e24b176e5973512afc755d684a08615c6ff06289
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: da54c5bdbf9b28eb54d459b0b383b067478b0b6f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877031"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377553"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Ripristinare un account sospeso per il Centro per i partner
 
@@ -21,8 +21,8 @@ Questo articolo spiega come procedere se l'account del Centro per i partner vien
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
->**Importante**<br>
-Mentre il tuo account del Centro per i partner è sospeso, puoi continuare a gestire le distribuzioni, le licenze e i servizi esistenti. Tuttavia, non sarai in grado di autorizzare o rivendere nuove licenze o servizi fino a quando il tuo account non viene ripristinato.
+> [!IMPORTANT]  
+> Mentre il tuo account del Centro per i partner è sospeso, puoi continuare a gestire le distribuzioni, le licenze e i servizi esistenti. Tuttavia, non sarai in grado di autorizzare o rivendere nuove licenze o servizi fino a quando il tuo account non viene ripristinato.
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>Perché gli account del Centro per i partner vengono sospesi
 

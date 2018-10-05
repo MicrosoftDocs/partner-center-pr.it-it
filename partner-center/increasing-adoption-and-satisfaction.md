@@ -4,12 +4,12 @@ description: I nostri partner usano molte metriche per valutare la crescita dell
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 3b08e68a9c158d024a885521dbac8beaab5323d4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 07061b8223001922b91e7d94b33340f7cd4a6aa1
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875611"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377613"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Migliorare i tassi di adozione e soddisfazione
 
@@ -21,7 +21,8 @@ I nostri partner usano molte metriche per valutare la crescita delle loro attivi
 
 Puoi vedere i dati per tutti i tuoi clienti tramite il programma Cloud Solution Provider. Tieni presente che alcuni clienti possono acquistare licenze da altri partner o direttamente da Microsoft. In questi casi, vedrai il numero totale di licenze per tutti i partner. Per vedere solo le tue licenze, vai alle sottoscrizioni del cliente.
 
->**Nota**<br> Attualmente, mostriamo solo i dati per Office 365 e Dynamics 365. Abiliteremo i dati per prodotti aggiuntivi in futuro.
+> [!NOTE]  
+>  Attualmente, mostriamo solo i dati per Office 365 e Dynamics 365. Abiliteremo i dati per prodotti aggiuntivi in futuro.
 
 ## <a name="find-license-and-user-data"></a>Trovare dati sulle licenze e gli utenti
 

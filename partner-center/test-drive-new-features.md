@@ -3,12 +3,12 @@ title: Eseguire il test drive delle nuove funzionalità del Centro per i partner
 description: Prova le nuove funzionalità del Centro per i partner prima che vengano rilasciate e facci sapere cosa ne pensi. Aiutarci a dare forma al futuro del Centro per i partner!
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 2860e3c2fbcce28030a8b5441b542db9e98cf119
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876661"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377573"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Eseguire il test drive delle nuove funzionalità del Centro per i partner
 
@@ -22,7 +22,8 @@ Rilasciamo regolarmente nuove funzionalità per il Centro per i partner e voglia
 
 Siamo lieti di invitarti a provare le nuove funzionalità prima che vengano rilasciate alla community globale del Centro per i partner e a condividere le tue opinioni al riguardo. Visita la [pagina degli annunci del Centro per i partner](https://partnercenter.microsoft.com/pcv/announcements) per informazioni sulla funzionalità future, così da iniziare a pianificare come usarle per incrementare le tue attività. In un dato momento, potrebbero essere disponibili diverse funzionalità da valutare.
 
->**Importante**<br> Continuiamo a correggere gli errori e migliorare le prestazioni delle funzionalità durante la fase di anteprima del rilascio di funzionalità e ciò potrebbe determinare modifiche al funzionamento della funzionalità finale. Per questi e altri motivi, le versioni di anteprima potrebbero comportarsi in maniera imprevista e non assicurano una garanzia effettiva o implicita da parte di Microsoft.
+> [!IMPORTANT]  
+> Continuiamo a correggere gli errori e migliorare le prestazioni delle funzionalità durante la fase di anteprima del rilascio di funzionalità e ciò potrebbe determinare modifiche al funzionamento della funzionalità finale. Per questi e altri motivi, le versioni di anteprima potrebbero comportarsi in maniera imprevista e non assicurano una garanzia effettiva o implicita da parte di Microsoft.
 
 Per ogni funzionalità futura, puoi:
 
@@ -32,11 +33,13 @@ Per ogni funzionalità futura, puoi:
 
 -   Vedere la data in cui prevediamo di rendere la funzionalità disponibile per l'anteprima e la data prevista di pubblicazione della funzionalità per la community globale del Centro per i partner 
 
-    >**Nota**<br> Per *data prevista di pubblicazione* intendiamo la data in cui pianifichiamo di rendere la funzionalità disponibile per gli utenti del Centro per i partner di tutto il mondo. Tuttavia, numerosi fattori operazioni potrebbero influire sulla data prevista di pubblicazione, compresa la decisione di incorporare il feedback per migliorare la funzionalità, e potremmo decidere di ripianificare la data di pubblicazione o di non rilasciare una versione commerciale della funzionalità.  
+    > [!NOTE]  
+>  Per *data prevista di pubblicazione* intendiamo la data in cui pianifichiamo di rendere la funzionalità disponibile per gli utenti del Centro per i partner di tutto il mondo. Tuttavia, numerosi fattori operazioni potrebbero influire sulla data prevista di pubblicazione, compresa la decisione di incorporare il feedback per migliorare la funzionalità, e potremmo decidere di ripianificare la data di pubblicazione o di non rilasciare una versione commerciale della funzionalità.  
 
 -   Attivare l'anteprima della funzionalità spostando l'interruttore su **Attiva**
 
->**Nota**<br> Solo gli amministratori globali e gli agenti amministrativi possono abilitare il rilascio delle versioni di anteprima delle funzionalità. Tuttavia, uno qualsiasi dei tuoi utenti del Centro per i partner può vedere e usare le funzionalità di anteprima se hanno le autorizzazioni applicabili.
+> [!NOTE]  
+>  Solo gli amministratori globali e gli agenti amministrativi possono abilitare il rilascio delle versioni di anteprima delle funzionalità. Tuttavia, uno qualsiasi dei tuoi utenti del Centro per i partner può vedere e usare le funzionalità di anteprima se hanno le autorizzazioni applicabili.
  
 ## <a name="tell-us-what-you-think"></a>Facci sapere cosa pensi
 

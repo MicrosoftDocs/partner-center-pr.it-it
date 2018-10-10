@@ -1,24 +1,24 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: Iniziare da qui per ottenere assistenza con il dashboard per i partner
-description: Hai bisogno di assistenza per configurare il tuo account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack? Trova le risposte in questa raccolta Guida del dashboard creata in modo specifico per i partner nei programmi CSP e MPN.
+title: Inizia da qui per ottenere assistenza con il centro per i Partner
+description: Hai bisogno di assistenza per configurare il tuo account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack? Trova che le risposte il centro per i Partner consentono di libreria creata in modo specifico per i partner nei programmi CSP e MPN.
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e36908da6d71b9f10b2fe80af21a22b4c9083cd5
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876371"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489677"
 ---
-# <a name="start-here-for-help-with-partner-dashboard"></a>Iniziare da qui per ottenere assistenza con il dashboard per i partner
+# <a name="start-here-for-help-with-partner-center"></a>Inizia da qui per ottenere assistenza con il centro per i Partner
 
-Hai bisogno di assistenza per configurare il tuo account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack? Trova le risposte in questa raccolta Guida del dashboard creata in modo specifico per i partner nei programmi CSP e MPN.
+Hai bisogno di assistenza per configurare il tuo account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack? Trova che le risposte il centro per i Partner consentono di libreria creata in modo specifico per i partner nei programmi CSP e MPN.
 
-Se si ha già familiarità con il dashboard, vedi le [novità](/partner-center/whats-new-in-pc).
+Se sei già familiarità con il centro per i Partner, vedere [quali sono le novità](/partner-center/whats-new-in-pc).
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -85,7 +85,7 @@ Se si ha già familiarità con il dashboard, vedi le [novità](/partner-center/w
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">Presentazione del dashboard per i partner</a> (è richiesto l'accesso)</h3>
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">Presentazione del centro per i Partner</a> (è richiesto l'accesso)</h3>
                     </div>
                 </div>
             </div>

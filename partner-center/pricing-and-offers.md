@@ -3,12 +3,12 @@ title: Prezzi e offerte | Centro per i partner
 description: ''
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f64114cfcce49bac9958cddb8e0f3663a1e49203
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2a971f5d4ac812ff6067be2dcab9f533282d4ebf
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875081"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490197"
 ---
 # <a name="pricing-and-offers"></a>Prezzi e offerte
 
@@ -18,7 +18,7 @@ ms.locfileid: "2875081"
 
 Per vedere i listini prezzi e le offerte più recenti del programma Cloud Solution Provider, vai a **Vendi > Prezzi e offerte**. Troverai listini prezzi separati per i servizi basati su licenza, come Office 365, Microsoft Dynamics CRM ed Enterprise Mobility Suite, e per i servizi basati sull'uso, come Azure. 
 
-L'elenco di offerte include le diverse famiglie di prodotti che possono essere acquistate tramite il dashboard del partner. Queste includono attualmente Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM e Microsoft Azure. L'elenco è destinato ad aumentare.
+L'elenco di offerte include le diverse famiglie di prodotti che possono essere acquistate tramite il centro per i Partner. Queste includono attualmente Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM e Microsoft Azure. L'elenco è destinato ad aumentare.
 
 All'interno di ciascuna di queste famiglie di prodotti sono disponibili per la vendita SKU e aggregazioni di prodotti differenti, a seconda della tua attività. Puoi sempre accedere ai dettagli più recenti su ognuna di queste utilizzando la matrice delle offerte per i rivenditori cloud, disponibile nella pagina Prezzi e offerte.
 
@@ -47,8 +47,8 @@ I servizi basati su licenza includono un'anteprima del listino prezzi, fornita 3
 
 Consulta la matrice delle offerte per i rivenditori cloud nella pagina Prezzi e offerte per visualizzare le differenti SKU e aggregazioni di prodotti disponibili per le tue attività di vendita. La matrice delle offerte include le offerte disponibili per ognuna delle impostazioni locali. Se un elemento si trova nel listino prezzi ma non ancora nella matrice, significa che i prodotti non possono ancora essere ordinati. Non appena sono disponibili per essere ordinati, la matrice delle offerte viene aggiornata.
 
-Per i partner CSP che utilizzano i kit di sviluppo software (SDK) del dashboard del partner. Inoltre, Microsoft pubblica un elenco dei servizi di Azure in CSP nella pagina Prezzi e offerte.
+Per i partner CSP che utilizzano il Partner Center Software Development Kit (SDK). Inoltre, Microsoft pubblica un elenco dei servizi di Azure in CSP nella pagina Prezzi e offerte.
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>Domande relative alla matrice delle offerte e al listino prezzi
 
-Se hai domande sulla matrice delle offerte o sul listino prezzi, invia una richiesta di assistenza tramite il dashboard del partner.
+Se hai domande sulla matrice delle offerte o listino prezzi, invia una richiesta di servizio tramite il centro per i Partner.

@@ -7,12 +7,12 @@ robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875861"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490077"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Eseguire la transizione dell'appartenenza a MPN dal Partner Membership Center al Centro per i partner
 
@@ -31,7 +31,7 @@ Avvia la configurazione degli utenti immediatamente in modo che possano continua
 
 L'amministratore dell'organizzazione aggiunge i dipendenti nel Centro per i partner, aggiungendoli singolarmente o utilizzando i dati PMC per creare più utenti contemporaneamente:
 
-1.  Nel dashboard del Centro per i partner, seleziona **Aggiungi nuovo utente** per aggiungere un utente o **Configura il team** (o aggiungi utenti utilizzando i dati PMC) per aggiungere più utenti contemporaneamente.
+1.  Nel centro per i Partner, seleziona **Aggiungi nuovo utente** di aggiungere una persona o **impostare il team** (o Aggiungi utenti che utilizzano dati PMC) per aggiungere più utenti contemporaneamente.
     
     Per completare l'installazione, segui le istruzioni visualizzate sullo schermo.
 
@@ -45,16 +45,16 @@ L'amministratore dell'organizzazione aggiunge i dipendenti nel Centro per i part
 
 ## <a href="" id="nonadmin_tasks"></a> Le attività dei dipendenti: aggiornare gli account
 
-1.  Ottenere le informazioni di accesso, dal Microsoft Partner Center o dal tuo amministratore. Se non ricevi le informazioni di accesso, contatta l'amministratore dell'organizzazione per chiedere di inviartele direttamente. 
+1.  Ottenere le informazioni di accesso, Microsoft Partner Center o dal tuo amministratore. Se non ricevi le informazioni di accesso, contatta l'amministratore dell'organizzazione per chiedere di inviartele direttamente. 
 
-2.  Collega il tuo account di Microsoft Partner University. Nel dashboard del Centro per i partner seleziona **Aggiorna il profilo** > **Ottieni l'accesso a Partner University**.  Dopo aver connesso questo account, potrai accedere di nuovo a Partner University.
+2.  Collega il tuo account di Microsoft Partner University. Nel centro per i Partner, seleziona **Aggiorna il profilo** > **accesso a Partner University Get**.  Dopo aver connesso questo account, potrai accedere di nuovo a Partner University.
 
-3.  Associa gli esami tecnici e le certificazioni di Microsoft. Nel dashboard del Centro per i partner seleziona **Aggiorna il profilo** > **Associa esami e certificazioni**. 
+3.  Associa gli esami tecnici e le certificazioni di Microsoft. Nel centro per i Partner, seleziona **Aggiorna il profilo** > **Associa esami e certificazioni**. 
 
 4.  Facoltativo: [Impostare la reimpostazione autonoma della password](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password).
 
 ## <a name="checking-team-status-and-receiving-competency-achievements"></a>Verifica lo stato del team e la ricezione delle competenze acquisite
 
-1.  Vedi quali dipendenti dall'organizzazione si sono connessi con i loro account Microsoft Partner University e hanno associato gli esami e certificazioni: nel dashboard del Centro per i partner, seleziona **Controlla lo stato del team**.
+1.  Vedi quali dipendenti dall'organizzazione sono connessi con i loro account Microsoft Partner University e hanno associato gli esami e certificazioni: nel centro per i Partner, seleziona **Controlla lo stato del team**.
 
 2.  **Attendi 24 ore** dopo che un dipendente abbia associato il proprio account o completato un obiettivo basato sulle competenze. Dopo questo periodo, viene visualizzato l'avanzamento nella sezione **Partnership > Competenze**.

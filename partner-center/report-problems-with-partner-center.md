@@ -4,12 +4,12 @@ description: Come segnalare i problemi relativi al Centro per i partner e raccog
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 373b233fda147f0d282a70322e04ce81e0b8d8a2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: c7010f70ae6af549aab1a8f1affb926cf261d534
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875291"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489277"
 ---
 # <a name="report-problems-with-partner-center"></a>Segnalare i problemi relativi al Centro per i partner
 
@@ -19,11 +19,11 @@ ms.locfileid: "2875291"
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
-Contatta il supporto del dashboard del partner se rilevi problemi con il dashboard del partner, tra cui bug o interruzioni del servizio.
+Supporto del centro di contatto per i Partner Se rilevi problemi con il centro per i Partner, tra cui bug o interruzioni del servizio.
 
-**Segnalare un problema con il dashboard del partner**
+**Segnalare un problema con il centro per i Partner**
 
-1.  Nel **dashboard del partner** seleziona l'icona **Supporto** e quindi seleziona **Richieste Centro per i partner**.
+1.  Nel **Centro per i Partner**, seleziona l'icona del **supporto** e quindi seleziona **le richieste Centro per i Partner**.
 
 2.  Seleziona **Nuova richiesta**.
 
@@ -31,10 +31,10 @@ Contatta il supporto del dashboard del partner se rilevi problemi con il dashboa
 
 **Inviare la diagnostica**
 
-Se si verifica un errore mentre ti trovi in una pagina del dashboard del partner, ti potrebbe essere richiesto di raccogliere informazioni di log. Seleziona **Raccogli altre informazioni** sul collegamento nell'elenco a discesa dalla parte superiore della pagina per aprire lo strumento di diagnostica Client. Questo strumento raccoglie le informazioni che il team di supporto per i Partner deve determinare la causa dell'errore. 
+Se si verifica un errore mentre ti trovi in una pagina del Centro per i partner, ti potrebbe essere richiesto di raccogliere informazioni di registro. Seleziona **Raccogli altre informazioni** sul collegamento nell'elenco a discesa dalla parte superiore della pagina per aprire lo strumento di diagnostica Client. Questo strumento raccoglie le informazioni che il team di supporto per i Partner deve determinare la causa dell'errore. 
 
 >[!NOTE]
->Nelle pagine del dashboard del partner che includono **/pcv/** nell'URL, è possibile aprire manualmente lo strumento per raccogliere queste informazioni.
+>Nelle pagine di Centro per i partner che includono **/pcv/** nell'URL, è possibile aprire manualmente lo strumento per raccogliere queste informazioni.
 
 1.  Vai alla pagina con il problema.
 

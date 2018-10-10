@@ -1,15 +1,15 @@
 ---
 title: Gestire i vantaggi del Microsoft Partner Network | Centro per i partner
-description: In qualità di membro del Microsoft Partner Network, hai il diritto di acquistare alcuni vantaggi. Illustra come attivare e gestire i vantaggi dell'adesione nel dashboard per i partner.
+description: In qualità di membro del Microsoft Partner Network, hai il diritto di acquistare alcuni vantaggi. Spiega come attivare e gestire i vantaggi dell'adesione nel centro per i Partner.
 author: MaggiePucciEvans
 keywords: MPN, vantaggi dell'adesione, adesione
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b79073435715c91a6c77da266ec3420c139d8e3
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a7cd65f2f846357ed9ae98def154bf8e8db94314
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377723"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489797"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gestire i vantaggi dell'adesione al Microsoft Partner Network
 
@@ -18,12 +18,12 @@ ms.locfileid: "4377723"
 -  Centro per i partner
 
 >[!IMPORTANT]
->Questo articolo spiega come iniziare a usare Microsoft Partner Network (MPN) nel dashboard per i partner (in precedenza noto come Centro per i partner): questo sito. Se non hai ancora ricevuto un invito per spostare le informazioni sulla tua società dal Partner Membership Center (PMC) al dashboard per i partner, devi continuare a gestire i vantaggi per la tua adesione a MPN in PMC. [Accedi](https://partner.microsoft.com/_login?authType=OpenIdConnect) a PMC ora.   
+>Questo articolo spiega come iniziare a usare il Microsoft Partner Network (MPN) vantaggi dell'adesione nel centro per i Partner (in precedenza noto come centro per i Partner): questo sito. Se non hai ricevuto un invito per spostare le informazioni sulla tua società dal Partner Membership Center (PMC) al centro per i Partner, devi continuare a gestire i vantaggi dell'adesione MPN in PMC. [Accedi](https://partner.microsoft.com/_login?authType=OpenIdConnect) a PMC ora.   
 
 Quando partecipi a Microsoft Partner Network (MPN), ottieni tutti i vantaggi dell'adesione che consentono di creare e incrementare la tua attività. Se non sei un membro della rete di MPN, puoi iscriverti ora [al sito MPN](https://partner.microsoft.com/membership).
 
 
-## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Gestire i vantaggi dell'adesione nel dashboard
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Gestire i vantaggi dell'adesione nel centro per i Partner
 
 Dopo avere acquistato un pacchetto di vantaggi dell'adesione, dovrai ottenere le chiavi software e cedere licenze, sottoscrizioni e altri vantaggi ai dipendenti per iniziare a usarli. 
 
@@ -89,9 +89,9 @@ Per visualizzare e gestire i vantaggi dell'adesione, vai alla tua pagina [**Vant
    
     a.  Seleziona un utente dall'elenco. Se l'utente da assegnare non è nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
 
-    b.  Fornisci un indirizzo di posta elettronica dell'utente diverso da quello associato all'account del dashboard della tua società. 
+    b.  Fornisci un indirizzo di posta elettronica dell'utente diverso da quello associato all'account del Centro per i partner. 
     
-    Come misura di sicurezza, invieremo le istruzioni per accedere al Supporto Tecnico Clienti Microsoft a questo indirizzo di posta elettronica oltre che a quello dell'account del dashboard dell'utente. Tieni presente che l'attivazione di questo vantaggio e l'invio delle istruzioni tramite posta elettronica all'utente assegnato possono richiedere diversi giorni.    
+    Come misura di sicurezza, invieremo le istruzioni per accedere al Supporto Tecnico Clienti Microsoft a questo indirizzo di posta elettronica oltre che a quello dell'account del Centro per i partner dell'utente. Tieni presente che l'attivazione di questo vantaggio e l'invio delle istruzioni tramite posta elettronica all'utente assegnato possono richiedere diversi giorni.    
     
     c.  Dopo avere immesso l'indirizzo di posta elettronica alternativo, seleziona **Assegna utente**. 
 

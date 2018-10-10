@@ -3,12 +3,12 @@ title: Iscriversi al programma Cloud Solution Provider | Centro per i partner
 description: Comprendi i diversi modelli per la vendita in CSP e determina qual è il più adatto alla tua attività
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dac0ea001011ad4a3b3ee11bb465e793ca6ef323
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: dee2136344959b3a22816f9db7ee26d9743eb54a
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377673"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489927"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
@@ -21,23 +21,23 @@ ms.locfileid: "4377673"
 
 Per iscriverti al programma Cloud Solution Provider hai innanzi tutto bisogno di un ID MPN. Non ne hai già uno? Acquisiscilo [qui](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=).
 
-Per compilare la domanda di partecipazione al programma CSP, ti servirà l'ID MPN, l'indirizzo completo della tua azienda, le coordinate bancarie e l'indirizzo e-mail aziendale del dipendente che fungerà da amministratore per il dashboard del partner.
+Quando compili la partecipazione al programma CSP, ti servirà l'ID MPN, l'indirizzo completo azienda, le informazioni bancarie e l'indirizzo e-mail aziendale del dipendente che fungerà da amministratore per il centro per i Partner.
 
 Decidi quale [modello CSP funziona](https://partnercenter.microsoft.com/en-us/cloud-solution-provider/csp-enrollment) per te e completa la domanda. 
 
 Potrebbero essere necessari diversi giorni per esaminare e verificare le informazioni fornite. Ti invieremo un'e-mail al termine della revisione.
 
 > [!IMPORTANT]  
-> Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Questa limitazione si applica solo al tenant utilizzato per condurre transazioni CSP. I partner CSP che utilizzano un tenant non CSP per uso aziendale possono acquistare servizi online da un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Tutte le novità sui rilasci di funzionalità saranno annunciate tramite i canali di comunicazione normali, incluso il dashboard del partner.
+> Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Questa limitazione si applica solo al tenant utilizzato per condurre transazioni CSP. I partner CSP che utilizzano un tenant non CSP per uso aziendale possono acquistare servizi online da un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Tutte le novità sui rilasci di funzionalità saranno effettuate tramite i canali di comunicazione normali, tra cui il centro per i Partner.
 
 ### <a name="enroll-as-an-indirect-reseller"></a>Iscriversi come rivenditore indiretto
 
 
 1. Una volta iscritto come rivenditore indiretto, devi [trovare un provider indiretto](https://partnercenter.microsoft.com/partner/find-a-provider) con cui collaborare. Il provider con cui collabori ti indirizzerà clienti, gestirà gli acquisti di software che puoi vendere e si occuperà della fatturazione e del supporto ai clienti, consentendoti di concentrarti sulla creazione del tuo business di rivenditore.
 
-2. Il tuo amministratore globale deve configurare il tuo account nel dashboard del partner. L'amministratore globale può aggiungere i dipendenti dell'organizzazione che utilizzeranno il dashboard del partner, assegnare loro ruoli e autorizzazioni a seconda delle loro attività e configurare il profilo dell'organizzazione.
+2. L'amministratore globale deve configurare l'account nel centro per i Partner. L'amministratore globale può aggiungere dell'organizzazione i dipendenti che lavoreranno nel centro per i Partner, assegnare loro ruoli e autorizzazioni a seconda delle loro attività e configurare il profilo dell'organizzazione.
 
-3. I dipendenti riceveranno un'e-mail con le relative password provvisorie. Dovranno accedere al dashboard del partner e modificare la propria password. Potranno quindi iniziare a utilizzarlo.
+3. I dipendenti riceveranno un'e-mail con le relative password provvisorie. Dovranno accedere al centro per i Partner e modificare la propria password. Potranno quindi iniziare a utilizzarlo.
 
 4. Il dipendente con il ruolo di amministratore del profilo di lavoro deve configurare il profilo di lavoro in modo che sia possibile ricevere segnalazioni dei clienti.
 
@@ -47,7 +47,7 @@ Come partner diretto, sei titolare della relazione completa con il cliente e con
 
 - Dopo esserti iscritto e avere soddisfatto i criteri di accettazione come partner diretto, l'amministratore globale può configurare il tuo account, aggiungere i dipendenti, assegnare loro ruoli e autorizzazioni in base alla loro attività e configurare il profilo dell'organizzazione. 
 
-- Se lavori con clienti con cui desideri continuare la relazione tramite il dashboard del partner, dovrai [associarli](request-a-relationship-with-a-customer.md) al tuo account nel dashboard del partner.  Microsoft può quindi connettere la tua fatturazione ai clienti. 
+- Se lavori con clienti che si desiderano continuare la relazione tramite il centro per i Partner, dovrai [associarle](request-a-relationship-with-a-customer.md) al tuo account nel centro per i Partner.  Microsoft può quindi connettere la tua fatturazione ai clienti. 
 
 > [!NOTE]  
 >  I requisiti per diventare un partner diretto di recente sono stati modificati e verranno applicate a partire dal 31 agosto 2018. I partner diretti deve soddisfare i requisiti di nuovo a partire da loro successivo periodo di registrazione dopo il 31 agosto 2018.

@@ -3,12 +3,12 @@ title: Collaborare con i rivenditori indiretti in CSP | Centro per i partner
 description: In qualità di provider indiretto, o distributore, puoi collaborare con rivenditori indiretti per ampliare il tuo mercato.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: f5c5a745ba3ea8f57353529a90d09ee4fae17ccd
-ms.sourcegitcommit: 4175a0670df8c52ae5214fd0672c3fe33071210b
+ms.openlocfilehash: 1ac9099cc1b0805c3af9c77af9df1e8f0bfcc7aa
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/08/2018
-ms.locfileid: "4445463"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490137"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 
@@ -18,7 +18,7 @@ Nuovi rivenditori stanno entrando nel mercato e cercando modi per offrire le pro
 
 Nel modello provider-rivenditore indiretto (a due livelli) collabori con rivenditori indiretti per offrire ai clienti soluzioni cloud Microsoft. Acquisti i prodotti e le sottoscrizioni direttamente da Microsoft e offri queste soluzioni ai clienti tramite i tuoi rivenditori. 
 
-In qualità di provider indiretto puoi usare il dashboard del partner per:
+In qualità di provider indiretto usare il centro per i Partner per:
 
 -   Entrare in contatto con rivenditori indiretti che possono aiutarti a espandere il tuo mercato e la tua base di clienti
 -   Stabilire relazioni con rivenditori indiretti che consentono a entrambi di servire clienti in comune
@@ -27,7 +27,7 @@ In qualità di provider indiretto puoi usare il dashboard del partner per:
 
 Per ulteriori informazioni sul modello indiretto in CSP, vedi [Esplora il modello indiretto](https://partner.microsoft.com/cloud-solution-provider/indirect) nel [sito Web Microsoft Partner Network]( https://partner.microsoft.com). 
 
-## <a name="indirect-provider-tasks-in-the-partner-dashboard"></a>Attività dei provider indiretti nel dashboard del partner
+## <a name="indirect-provider-tasks-in-the-partner-center"></a>Attività dei provider indiretti nel centro per i Partner
 
 Completa i passaggi seguenti per stabilire e gestire la tua partnership con i rivenditori indiretti e i clienti nel dashboard del partner. I passaggi due e tre sono descritti in dettaglio più avanti.
 
@@ -37,31 +37,31 @@ Completa i passaggi seguenti per stabilire e gestire la tua partnership con i ri
 
 2.  Entrare in contatto con i rivenditori indiretti
 
-    - Prima di poter interagire e avviare transazioni con i rivenditori, devi stabilire con loro delle relazioni di partnership nel dashboard del partner. <br>
+    - Prima di poter interagire e avviare transazioni con i rivenditori, devi stabilire delle relazioni di partnership con loro nel centro per i Partner. <br>
 
 3.  Entrare in contatto con i clienti
 
     - Associare nuovi clienti e sottoscrizioni ai rivenditori
     - Stabilire relazioni tra i rivenditori e i clienti esistenti <br>
 
-Dopo aver completato questi passaggi, puoi gestire le partnership con i rivenditori nella pagina **Indirect resellers** dal menu **Dashboard**.
+Dopo aver completato questi passaggi, puoi gestire le partnership con i rivenditori nella pagina di **rivenditori indiretti** nel menu del **Centro per i Partner** .
 
 > [!IMPORTANT]   
-> Prima di poter collaborare con i rivenditori, è necessario che questi si iscrivano come rivenditori indiretti al programma CSP e dispongano di un account del dashboard del partner. Per informazioni sull'iscrizione al programma CSP, indirizza i tuoi rivenditori su [Collaborare con i provider indiretti in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md). 
+> Prima di poter collaborare con i rivenditori, deve essere registrati come rivenditori indiretti nel programma CSP e dispongano di un account di Centro per i Partner. Per informazioni sull'iscrizione al programma CSP, indirizza i tuoi rivenditori su [Collaborare con i provider indiretti in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md). 
 
 ## <a name="connect-with-indirect-resellers"></a>Entrare in contatto con i rivenditori indiretti
 
-Per interagire e avviare transazioni con i rivenditori indiretti nel dashboard del partner, devi stabilire una partnership con loro. La partnership con un rivenditore indiretto consente a te e al rivenditore di servire entrambi i clienti che avete in comune.
+Per interagire e avviare transazioni con i rivenditori indiretti nel centro per i Partner, devi stabilire una partnership con loro. La partnership con un rivenditore indiretto consente a te e al rivenditore di servire entrambi i clienti che avete in comune.
 
 Per stabilire una partnership, invia una richiesta di partnership al rivenditore per posta elettronica. Assicurati innanzitutto di avere l'indirizzo di posta elettronica del rivenditore a portata di mano. 
 
-1. Seleziona **Indirect resellers** dal menu **Dashboard**. 
+1. Seleziona il menu del **Centro per i Partner** per **i rivenditori indiretti** . 
 
 2. Nella pagina **Indirect resellers** seleziona **Request a partnership**. Viene visualizzata una bozza di messaggio di posta elettronica.
 
 3. Seleziona **Apri in messaggio di posta elettronica** per aprire il messaggio nell'applicazione di posta elettronica predefinita oppure seleziona **Copia negli Appunti** per copiare e incollare il messaggio in un messaggio di posta elettronica. Al termine seleziona **Fatto**.
     > [!IMPORTANT]  
-    >  Puoi modificare il testo nel messaggio di posta elettronica, ma assicurati di includere il collegamento poiché è personalizzato per il tuo account del Dashboard del Partner.
+    >  Puoi modificare il testo nel messaggio di posta elettronica, ma assicurati di includere il collegamento poiché è personalizzato per l'account del centro per i Partner.
 
 4. Dopo che il rivenditore ha accettato la tua richiesta di partnership, verrà visualizzato nell'elenco dei rivenditori indiretti e tu potrai eseguire le operazioni indicate di seguito: 
 
@@ -82,13 +82,13 @@ A seconda del livello di accesso e di coinvolgimento che desideri assegnare al r
 
 ## <a name="connect-with-customers"></a>Entrare in contatto con i clienti
 
-Quando acquisisci nuovi clienti, devi creare i relativi account nel dashboard del partner. Quando aggiungi un nuovo account cliente, puoi designare un rivenditore specifico che gestisca l'account e l'amministrazione delle sottoscrizioni e dei servizi del cliente per conto del cliente. 
+Quando acquisisci nuovi clienti, devi creare i relativi account nel Centro per i partner. Quando aggiungi un nuovo account cliente, puoi designare un rivenditore specifico che gestisca l'account e l'amministrazione delle sottoscrizioni e dei servizi del cliente per conto del cliente. 
 
 Quando associ un rivenditore a un nuovo account cliente, deleghi la gestione dell'account e della sottoscrizione al rivenditore. Ciò significa che il rivenditore dispone dell'accesso come amministratore alle sottoscrizioni e ai servizi del cliente e può gestirli per conto del cliente.
 
 ### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Aggiungere nuovi clienti e associarli a rivenditori indiretti
 
-1.  Seleziona **Indirect resellers** dal menu **Dashboard**. 
+1.  Seleziona il menu del **Centro per i Partner** per **i rivenditori indiretti** . 
 
 2.  Individua il rivenditore indiretto a cui desideri assegnare nuovi clienti, quindi seleziona **Aggiungi nuovo cliente**. Nota che il rivenditore indiretto risulta già selezionato nel modulo dei dettagli del cliente. Immetti i dettagli del cliente e seleziona **Successivo: Sottoscrizioni** . 
 3.  Nella pagina **Nuova sottoscrizione** seleziona una o più sottoscrizioni che desideri far acquistare dal cliente e immetti il numero di licenze richiesto dal cliente. 
@@ -107,7 +107,7 @@ Quando associ un rivenditore a un nuovo account cliente, deleghi la gestione del
 
 Quando un cliente vuole acquistare nuove sottoscrizioni, aggiornare quelle esistenti o acquistare licenze aggiuntive, apporti queste modifiche nell'account del cliente. 
 
-1.  Seleziona **Clienti** dal menu **Dashboard**. 
+1.  Seleziona **clienti** dal menu del **Centro per i Partner** . 
 
 2.  Individua il cliente di cui desideri modificare l'account. Puoi filtrare l'elenco in base al rivenditore indiretto per restringere la ricerca. Espandi il record del cliente facendo clic sulla freccia verso il basso e quindi seleziona **Aggiungi sottoscrizione**.
 

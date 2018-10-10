@@ -4,12 +4,12 @@ description: Scopri i vantaggi di diventare partner di Microsoft.
 author: MaggiePucciEvans
 keywords: partner, partnership, MPN, Microsoft Partner Network, action pack, sottoscrizione di action pack, vantaggi, vantaggi MPN, adesione, silver, gold, competenze
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ca936849762aca54787481a68acb79fda4025dc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 43302afc456f810a310ed0751eccb44fcb9a64b5
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875631"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489647"
 ---
 # <a name="partner-with-microsoft"></a>Diventare partner Microsoft
 
@@ -22,7 +22,7 @@ Per ulteriori informazioni sulla rete partner, vedi la [panoramica dell'adesione
 Leggi in merito ai livelli di adesione e ai [vantaggi del software con diritti di uso interno](https://partner.microsoft.com/membership/internal-use-software) sul [sito della rete di partner](https://partner.microsoft.com). 
 
 >[!IMPORTANT]
->Solare la gestione delle sottoscrizioni di Action Pack dal Partner Membership Center (PMC) al dashboard del partner. Questo movimento avrà luogo nei prossimi mesi diversi. Leggi le informazioni contenute in [ottenere Microsoft Action Pack](mpn-get-action-pack.md) con attenzione, in modo da sapere come e dove per il rinnovo.  
+>Solare la gestione delle sottoscrizioni di Action Pack dal Partner Membership Center (PMC) al centro per i Partner. Questo movimento avrà luogo nei prossimi mesi diversi. Leggi le informazioni contenute in [ottenere Microsoft Action Pack](mpn-get-action-pack.md) con attenzione, in modo che sai come e dove per il rinnovo.  
 
 |**A tale scopo:**   |**Leggi**   |
 |-----------------|:---------------------------|

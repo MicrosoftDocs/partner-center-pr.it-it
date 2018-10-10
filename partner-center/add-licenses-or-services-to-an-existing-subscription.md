@@ -5,12 +5,12 @@ ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 keywords: aggiungere licenze a una sottoscrizione esistente, aggiungere postazioni a una sottoscrizione esistente, modificare una sottoscrizione, cambiare una sottoscrizione, acquistare ulteriori licenze per un cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 089baed41e278dff269c622641fa685d684ea4fe
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874871"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489727"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Aggiungere licenze o servizi a una sottoscrizione esistente
 
@@ -90,7 +90,7 @@ Per altre informazioni sull'impatto di queste operazioni sulla fatturazione, ved
 1.  Per verificare se una sottoscrizione è idonea per l'aggiornamento, scegli il cliente e quindi apri l'elenco delle sottoscrizioni.
 2.  Se la sottoscrizione può essere aggiornata, vedrai un'icona delle informazioni subito dopo il nome della sottoscrizione. Passa il puntatore su questa icona e quindi seleziona **Aggiorna ora**.
 3.  Seleziona la nuova offerta e quindi scegli **Invia**.
-4.  Potrebbero essere necessarie altre operazioni per la transizione di alcuni account utente per determinati servizi. In tal caso, nel dashboard del partner viene fornito un elenco degli account e dei servizi interessati. Per informazioni, vedi l'articolo della Knowledge Base relativo ai [problemi di riassegnazione delle licenze quando si modifica il piano di Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Potrebbero essere necessarie altre operazioni per la transizione di alcuni account utente per determinati servizi. In caso affermativo, il centro per i Partner viene fornito un elenco degli account e dei servizi interessati. Per informazioni, vedi l'articolo della Knowledge Base relativo ai [problemi di riassegnazione delle licenze quando si modifica il piano di Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

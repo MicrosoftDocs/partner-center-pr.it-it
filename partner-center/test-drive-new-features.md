@@ -3,12 +3,12 @@ title: Eseguire il test drive delle nuove funzionalità del Centro per i partner
 description: Prova le nuove funzionalità del Centro per i partner prima che vengano rilasciate e facci sapere cosa ne pensi. Aiutarci a dare forma al futuro del Centro per i partner!
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 38b6652275106dd7258e264f84a9d45259ffab5d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377573"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489467"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Eseguire il test drive delle nuove funzionalità del Centro per i partner
 
@@ -49,7 +49,7 @@ Ti invitiamo a condividere le tue idee e opinioni su una specifica versione di a
 
 -   Utilizzare il modulo di feedback nell'angolo inferiore destro della finestra del Centro per i partner per inviare il feedback direttamente a noi. 
 
--   Richiedere supporto se si verificano problemi con una funzionalità di anteprima. Per creare una richiesta di supporto, seleziona **Richieste di supporto > Richieste Centro per i Partner** dal menu **Dashboard** e quindi seleziona **Nuova richiesta** nella pagina **Richieste Centro per i partner**.
+-   Richiedere supporto se si verificano problemi con una funzionalità di anteprima. Per creare una richiesta di supporto, seleziona **richieste di supporto > richieste Centro per i Partner** dal menu del **Centro per i Partner** e quindi seleziona **richiesta di nuovo** nella pagina **richieste Centro per i Partner** .
 
 Aiutaci a fornirti gli strumenti per migliorare i tuoi risultati!
 

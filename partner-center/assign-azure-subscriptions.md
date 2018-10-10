@@ -4,22 +4,22 @@ description: Puoi ora assegnare sottoscrizioni Azure ai clienti nel Centro per i
 author: Labrenne
 keywords: Azure, sottoscrizione Azure, sottoscrizione, sottoscrizioni, assegnare la sottoscrizione, gestire la sottoscrizione azure
 ms.localizationpriority: medium
-ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 3c0c82d60ec5032357ab21421b89c5f578d5fe1d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377563"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489027"
 ---
-# <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>Assegnare le sottoscrizioni di Azure nel dashboard del partner
+# <a name="assign-azure-subscriptions-in-partner-center"></a>Assegnare le sottoscrizioni Azure nel Centro per i partner
 
 **Ambito di applicazione**
 
 -  Centro per i partner
  
-## <a name="assign-azure-subcriptions-to-your-customers-in-the-partner-dashboard"></a>Assegna le sottoscrizioni di Azure ai tuoi clienti nel dashboard del partner
+## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Assegna le sottoscrizioni Azure ai tuoi clienti nel Centro per i partner
 
-1. Seleziona **Clienti** dal menu **Dashboard** e individua il cliente che desideri gestire.
+1. Seleziona **clienti** dal menu del **Centro per i Partner** e individua il cliente che desideri gestire.
 
 2.  Seleziona la freccia a discesa alla fine della riga per espandere il record del cliente e quindi seleziona **Portale di gestione di Microsoft Azure**. Verrai reindirizzato al portale di Azure in cui potrai gestire le sottoscrizioni del cliente. 
 

@@ -4,12 +4,12 @@ description: Nel Centro per i partner puoi impostare un budget mensile per ogni 
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6f6e0e733aed13174dcf4d318b522723bb425b30
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377473"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488957"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Impostare un budget di spesa di Azure per i clienti
 
@@ -33,23 +33,23 @@ I dati sulla spesa per Azure rappresentano una stima, gli importi di fatturazion
 > Questa funzionalità non è disponibile in sandbox o Test in Production (TIP) gli account.
 
 **Abilitare le notifiche e-mail**
-1.  Nel menu Dashboard seleziona **Spesa per Azure**.
+1.  Il menu del centro per i Partner seleziona **spesa per Azure**.
 2.  Attiva/disattiva l'opzione **Ricevi e-mail** per ricevere notifica quando i tuoi clienti usano l'80% o più del loro budget. In questo modo potrai essere sempre aggiornato sulla fattura per Azure. Puoi modificare l'indirizzo e-mail predefinito e specificare un indirizzo personale o qualsiasi altro indirizzo e-mail per ricevere le notifiche.
 
 **Impostare un budget**
-1.  Nel menu Dashboard seleziona **Spesa per Azure**.
+1.  Il menu del centro per i Partner seleziona **spesa per Azure**.
 2.  Seleziona i clienti di cui desideri impostare un budget. 
 3. Immetti un valore nella casella **Budget mensile** e seleziona **Applica**.
 4.  Per controllare la spesa corrente, torna a questa pagina.
 5.  In **Sottoscrizioni in base all'uso** possono anche essere impostati budget individuali in una pagina di gestione dei clienti.
 
 **Rimuovere un budget**
-1.  Nel menu Dashboard seleziona **Spesa per Azure**.
+1.  Il menu del centro per i Partner seleziona **spesa per Azure**.
 2.  Seleziona i clienti nell'elenco.
 3.  Seleziona **Rimuovi budget**.
 
 **Visualizzare i costi dettagliati**
-1.  Nel menu Dashboard seleziona **Clienti**.
+1.  Dal menu di Centro per i Partner, seleziona **i clienti**.
 2.  Seleziona un cliente nell'elenco dei clienti.
 3.  In **Sottoscrizioni in base all'uso** nella pagina di gestione dei clienti scegli una sottoscrizione. Visualizza il relativo uso stimato corrente e un elenco dei costi dettagliati in base al servizio.
 

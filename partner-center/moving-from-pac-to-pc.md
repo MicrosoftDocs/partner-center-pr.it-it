@@ -4,33 +4,33 @@ description: Trova nel Centro per i partner le funzionalità che hai usato nell'
 author: labrenne
 keywords: PAC, amministratore di Office 365, funzionalità PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: f2982e1e517c02a78d01b68f21122eebcabf3bf9
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9d154a0196d61116a0e478d92140c8cf7b2ff6da
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876251"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490097"
 ---
-# <a name="moving-from-partner-admin-center-pac-to-the-partner-dashboard"></a>Passare dall'interfaccia di amministrazione partner (PAC) al dashboard del partner
+# <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Spostamento dall'interfaccia di amministrazione Partner (PAC) al centro per i Partner
 
 Ambito di applicazione
 - Centro per i partner
 - Interfaccia di amministrazione partner
 
-Benvenuto nel dashboard del partner Il dashboard del partner sta diventando l'unica posizione in cui gestirai la partnership con Microsoft e con i tuoi clienti. Nel dashboard del partner puoi gestire l'adesione, le segnalazioni di clienti, gli incentivi e tutti gli altri aspetti del programma Cloud Solution Provider (CSP). Inoltre, potrai eseguire la maggior parte delle operazioni effettuate in PAC, anche se alcune funzionalità o azioni funzioneranno in modo diverso. 
+Benvenuto nel centro per i Partner per! Centro per i Partner sta diventando l'unica posizione in cui gestirai la partnership con Microsoft e con i tuoi clienti. Nel centro per i Partner puoi gestire appartenenza, segnalazioni di clienti, gli incentivi e tutti gli altri aspetti del programma Cloud Solution Provider (CSP). Sarai in grado di eseguire la maggior parte delle operazioni effettuate in PAC nel centro per i Partner anche se alcune funzionalità o azioni funzioneranno in modo diverso. 
 
 
-|**Operazione**   |**PAC**   |**Dashboard del partner**   |
+|**Azione**   |**PAC**   |**Centro per i partner**   |
 |--------------|:--------------|:---------------|
-|La panoramica generale delle attività dell'account e dei clienti|Schermata Home|Dashboard|
+|La panoramica generale delle attività dell'account e dei clienti|Schermata Home|Centro per i partner|
 |Acquisire nuovi clienti e fornire le offerte per i servizi a pagamento e versioni di valutazione|Sviluppo dell'attività -> Invia offerta|Le offerte a pagamento non sono disponibili. Le versioni di valutazione CSP sono disponibili se il partner di Advisor viene convertito in un rivenditore indiretto CSP e associato a un provider indiretto CSP che supporta le versioni di prova. |
 |Richiedere relazioni|(Rivenditori e consulenti) Sviluppo dell'attività -> Invia richiesta DAP|(Rivenditori e consulenti) Clienti -> Richiedi una relazione come rivenditore (vedi la nota seguente)|
-|Gestire i clienti|Gestione clienti -> Elenco clienti|Dashboard -> Clienti|
-|Gestire le sottoscrizioni dei clienti|Gestione clienti -> Elenco clienti -> Seleziona cliente|Dashboard -> Clienti -> Seleziona il cliente o aggiungi il cliente all'elenco **Preferiti** usando la stella nell'elenco dei clienti, quindi seleziona lo slideout **Preferiti** e passa direttamente a **Gestisci sottoscrizioni** per il cliente.|
-|Amministrare per conto di un cliente|Gestione clienti -> Seleziona cliente -> Seleziona pulsante Amministra|Dashboard -> Clienti -> Seleziona Amministra servizi dall'elenco a discesa-> Seleziona il servizio o aggiungi il cliente all'elenco **Preferiti** usando la stella nell'elenco dei clienti, quindi seleziona lo slideout **Preferiti** e passa direttamente ad **Amministra servizi** per il servizio richiesto.|
-|Creare richieste di servizio per il cliente|Richieste di servizio -> Seleziona cliente -> Seleziona pulsante + | Dashboard -> Richieste di servizio -> Richieste cliente -> Seleziona cliente -> Nuova richiesta|
-|Gestire le richieste di servizio dei clienti| Richieste di servizio -> Seleziona cliente|Dashboard -> Richieste di servizio -> Richieste clienti -> Seleziona il cliente o aggiungi la richiesta di servizio all'elenco **Preferiti** usando la stella nella vista Richieste clienti per il cliente, quindi seleziona lo slideout **Preferiti**, seleziona la scheda **Richieste di supporto** e passa direttamente alla richiesta di supporto o visualizza gli aggiornamenti direttamente da **Preferiti**.|
-|Visualizzare lo stato di integrità di Microsoft Online Services che gestisci|Integrità del servizio -> Integrità aggregata|Dashboard -> Integrità del servizio|
+|Gestire i clienti|Gestione clienti -> Elenco clienti|Centro per i partner -> clienti|
+|Gestire le sottoscrizioni dei clienti|Gestione clienti -> Elenco clienti -> Seleziona cliente|Centro per i partner -> clienti -> Seleziona cliente o Aggiungi il cliente all'elenco di **Preferiti** usando la stella nell'elenco dei clienti, quindi seleziona il slideout **Preferiti** e passare direttamente a **Gestisci sottoscrizioni** per il cliente.|
+|Amministrare per conto di un cliente|Gestione clienti -> Seleziona cliente -> Seleziona pulsante Amministra|Centro per i partner -> clienti -> Seleziona Amministra servizi dall'elenco a discesa-> Seleziona servizio o Aggiungi il cliente all'elenco di **Preferiti** usando la stella nell'elenco dei clienti, quindi seleziona il slideout **Preferiti** e passare direttamente a **Amministra servizi** per il servizio richiesto.|
+|Creare richieste di servizio per il cliente|Richieste di servizio -> Seleziona cliente -> Seleziona pulsante + | Centro per i partner-& gt; servizio clienti -> richieste richieste -> Seleziona cliente -> nuova richiesta|
+|Gestire le richieste di servizio dei clienti| Richieste di servizio -> Seleziona cliente|Centro per i partner-& gt; servizio richieste -> richieste -> Seleziona cliente o Aggiungi la richiesta di servizio all'elenco di **Preferiti** usando la stella nella vista richieste clienti per il cliente, quindi seleziona il slideout **Preferiti** , seleziona il cliente la scheda di **richieste di supporto** e passare direttamente alla richiesta di servizio- o Visualizza gli aggiornamenti direttamente da **Preferiti**.|
+|Visualizzare lo stato di integrità di Microsoft Online Services che gestisci|Integrità del servizio -> Integrità aggregata|Centro per i partner -> integrità del servizio|
 
 >Importante<br>
-Non puoi inviare offerte a pagamento e di versioni di valutazione ai clienti tramite il dashboard del partner. Inoltre, per effettuare la ricerca dei clienti nel dashboard del partner, utilizza il nome del cliente o i domini del cliente disponibili quando hai stabilito la relazione di partner con il cliente.
+Non sarà in grado di inviare offerte a pagamento e versioni di valutazione ai clienti tramite il centro per i Partner. Inoltre, per effettuare la ricerca dei clienti nel centro per i Partner, utilizza il nome del cliente o il cliente dominio disponibili quando hai stabilito la relazione di partner con il cliente.

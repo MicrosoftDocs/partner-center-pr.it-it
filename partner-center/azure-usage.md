@@ -1,21 +1,21 @@
 ---
-title: Ridimensionamento della macchina virtuale di Microsoft Azure per utilizzo della prenotazione massima | Dashboard del partner
+title: Ridimensionamento della macchina virtuale di Microsoft Azure per utilizzo ottimale delle prenotazioni massima | Centro per i partner
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: azure, prenotazioni, vm, gestire, utilizzo, ridimensionamento
 ms.localizationpriority: medium
-ms.openlocfilehash: bb7d022ba45462db313a9f4e16cc47e4550dbef6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6279ff9e6ecd66af9eb320b2d72a1cdfaad4ccb4
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875781"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489617"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Ridimensionamento della macchina virtuale Microsoft Azure per un utilizzo ottimale delle prenotazioni 
 
 **Ambito di applicazione:**
 
--  Dashboard del partner
+-  Centro per i partner
 -  Portale di Azure
 -  Partner di CSP
 
@@ -41,11 +41,11 @@ Le istruzioni per l'uso di ciascuno dei seguenti metodi sono riportate di seguit
 
 1.  Utilizza il valore dell'attributo ServiceType da additionalInfo nella risposta dell'API per identificare le dimensioni della macchina virtuale da acquistare. 
 
-2.  Per altre informazioni, vedi [ottenere i record di utilizzo di un cliente per Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) nel [dashboard del Partner API](https://docs.microsoft.com/partner-center/develop/). 
+2.  Per ulteriori informazioni, vedi [Ottenere i record di utilizzo di un cliente per Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) nell'[API del Centro per i partner](https://docs.microsoft.com/partner-center/develop/). 
 
 **Ottenere informazioni sul dimensionamento di una macchina virtuale mediante il portale di Microsoft Azure**
 
-1.  Nel dashboard del Partner, Vai alla pagina **i clienti** .
+1.  Nel centro per i Partner, Vai alla pagina **i clienti** .
 
 2.  Trova il cliente che desidera acquistare prenotazioni della macchina virtuale di Azure, quindi seleziona la freccia giù per espandere le informazioni del cliente. Seleziona **Portale di gestione di Microsoft Azure** per aprire il record del cliente nel portale di Azure. 
 
@@ -89,7 +89,7 @@ Le istruzioni per l'uso di ciascuno di questi metodi sono riportate di seguito.
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Verificare l'utilizzo della prenotazione del cliente nel portale di Microsoft Azure
 
-1.  Nel dashboard del Partner, Vai alla pagina **i clienti** .
+1.  Nel centro per i Partner, Vai alla pagina **i clienti** .
 
 2.  Trova il cliente di cui desideri verificare lo sconto e l'utilizzo della prenotazione, quindi seleziona la freccia giù per espandere le informazioni del cliente. Seleziona **Portale di gestione di Microsoft Azure** per aprire il record del cliente nel portale di Azure. 
 
@@ -130,8 +130,8 @@ Per ulteriori informazioni, vedi [Ottenere i record di utilizzo di un cliente pe
 |**Per informazioni su**   |**Leggi**    |
 |:-----------------------------|:-----------------|
 |Panoramica delle prenotazioni di Azure in CSP  | [Vendere istanze di macchina virtuale riservate di Microsoft Azure](azure-reservations.md)
-|Acquisto di prenotazioni di Azure per i clienti nel dashboard del Partner   |[Acquistare prenotazioni di Azure](azure-reservations-buying.md)
-| La gestione di prenotazioni di Azure nel dashboard del Partner | [La gestione di prenotazioni di Azure nel dashboard del Partner](azure-reservations-manage.md)
+|Acquisto di prenotazioni di Azure per i clienti nel centro per i Partner   |[Acquistare prenotazioni di Azure](azure-reservations-buying.md)
+| La gestione di prenotazioni di Azure nel centro per i Partner | [La gestione di prenotazioni di Azure nel centro per i Partner](azure-reservations-manage.md)
 |Acquisto di prenotazioni di Azure nel portale di Azure | [Pagare in anticipo per macchine virtuali con istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) nella Guida di Azure |
 |Gestione di prenotazioni di Azure nel portale di Azure   |[Gestire le istanze di macchina virtuale riservate](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) nella Guida di Azure  |
 |Acquisto di prenotazioni di Azure mediante l'API del Centro per i partner | [Acquisto di istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) nella documentazione per sviluppatori del Centro per i partner

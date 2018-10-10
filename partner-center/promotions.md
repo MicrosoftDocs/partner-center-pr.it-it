@@ -3,12 +3,12 @@ title: Utilizzare le promozioni per attirare nuovi clienti | Centro per i partne
 description: In quanto partner di Microsoft nel programma Cloud Solutions Provider, puoi acquistare sottoscrizioni a prezzi promozionali e offrire sconti ai tuoi clienti.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 17317d8d458601bc8b148f5a13ea3e317b77af47
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: fa719f0824e525a2c63b58970b3385c63056a135
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377683"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488987"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Utilizzare le promozioni per attirare nuovi clienti  
 
@@ -32,14 +32,14 @@ Fermati un istante ed esamina questi importanti aspetti sulle promozioni:
 
 ## <a name="see-available-promotions"></a>Vedi le promozioni disponibili
 
-Puoi visualizzare per quali promozioni sei idoneo, se presenti, nella tua pagina**Promozioni**. Seleziona **Promozioni** nel menu **Dashboard** per visualizzare un elenco di promozioni correnti insieme a sconto, tipo di promozione, date di inizio e fine per la sottoscrizione. Se non sono disponibili promozioni, viene visualizzato un messaggio che ti informa di tale situazione. 
+Puoi visualizzare per quali promozioni sei idoneo, se presenti, nella tua pagina**Promozioni**. Seleziona **promozioni** il menu del **Centro per i Partner** per visualizzare un elenco di promozioni correnti insieme a sconto, tipo di promozione, date di inizio e fine per la sottoscrizione. Se non sono disponibili promozioni, viene visualizzato un messaggio che ti informa di tale situazione. 
 
 > [!NOTE]  
 > Inoltre puoi visualizzare le promozioni quando effettui un acquisto. Quando selezioni una sottoscrizione, il prezzo promozionale appare nella pagina **Revisione**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Acquisto di sottoscrizioni a prezzi scontati
 
-1. Nel menu **Dashboard** seleziona **Clienti**, quindi seleziona il cliente che acquista la sottoscrizione. 
+1. Nel menu del **Centro per i Partner** , seleziona **i clienti** e quindi seleziona il cliente che acquista la sottoscrizione. 
 
 2. Seleziona **Aggiungi sottoscrizione**.
 

@@ -5,27 +5,27 @@ author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: f559d6c670a289c46d1e990a55113152ec83d37b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6a9187e62d29409ad44dcc58c2da7f54a3c0fc69
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377493"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489747"
 ---
-# <a name="your-company-work-account-and-the-partner-dashboard"></a>Account aziendale e dashboard del partner  
+# <a name="your-company-work-account-and-the-partner-center"></a>L'account aziendale e Centro per i Partner  
 
-**Si applica a**
+**Ambito di applicazione**
 
 -  Centro per i partner
 
 ## <a name="why-you-need-a-work-account"></a>Perché è necessario un account aziendale
 
-Dobbiamo collegare l'account aziendale della tua società al nuovo account del dashboard del partner, in modo che gli utenti dell'account possano accedere al dashboard del partner con i propri nomi utente e password dell'account aziendale.
+Dobbiamo collegare l'account aziendale della tua società al nuovo account del centro per i Partner, in modo che gli utenti dell'account possono accedere al centro per i Partner con i propri nomi di lavoro account utente e password.
 
-Se la tua azienda dispone già di un account aziendale, puoi collegarlo all'account del dashboard del partner. 
+Se la tua azienda dispone già di un account aziendale, puoi collegarlo all'account del Centro per i partner. 
 
 > [!NOTE]  
->  Prima di decidere di usare un account aziendale esistente, valuta il numero di utenti nell'account che dovranno lavorare nel Dashboard del Partner. Se nell'account sono presenti utenti per i quali non sarà necessario utilizzare il dashboard del partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno utilizzare il dashboard del partner.
+>  Prima di decidere di usare un account aziendale esistente, valuta il numero di utenti nell'account che dovranno lavorare nel centro per i Partner. Se sono presenti utenti nell'account che non dovranno lavorare nel centro per i Partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno lavorare nel centro per i Partner.
 
 Se l'azienda non dispone di un account aziendale, puoi crearne uno durante il processo di registrazione. 
 

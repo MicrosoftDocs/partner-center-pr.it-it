@@ -4,12 +4,12 @@ description: I record dei clienti sono tra le informazioni più importanti nel C
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8eeaff75547426440a0a303423cf62444362035a
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f0ab5159f36212ea73effea59bfba98e68023372
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377463"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490167"
 ---
 # <a name="manage-your-customer-list"></a>Gestire l'elenco dei clienti
 
@@ -26,20 +26,20 @@ Anche i log attività offrono dati esportabili sulle transazioni e le operazioni
 
 ## <a name="search-for-a-customer"></a>Cercare un cliente
 
-1.  Nel menu **Dashboard** seleziona **Clienti**.
+1.  Dal menu di **Centro per i Partner** , seleziona **i clienti**.
 2.  Per cercare un cliente, immetti il nome del cliente o il nome del dominio nella casella di ricerca.
 3.  Seleziona la **freccia in giù** alla fine della riga di un cliente per visualizzare l'ID Microsoft oltre ai link rapidi per le sottoscrizioni e i servizi associati.
 
 ## <a name="update-a-customers-company-name"></a>Aggiornare il nome della società del cliente
 
-Nel menu **Dashboard** seleziona **Clienti**.
+Dal menu di **Centro per i Partner** , seleziona **i clienti**.
 2.  Per cercare un cliente, immetti il nome del cliente o il nome del dominio nella casella di ricerca.
 3.  Seleziona la **freccia in giù** alla fine della riga di un cliente per visualizzare l'ID Microsoft oltre ai link rapidi per le sottoscrizioni e i servizi associati.
 4.  Sotto le informazioni del cliente **a cui fatturare** , aggiorna il nome della società. Quando salvi il nuovo valore, lo si rifletteranno nell'elenco dei clienti. Questo modo verrà modificata solo il nome della società a cui fatturare e il valore di elenco dei clienti. Non verrà applicato in un punto qualsiasi altro.
 
 ## <a name="export-your-customer-list"></a>Esportare l'elenco dei clienti
 
-1.  Nel menu **Dashboard** seleziona **Clienti**.
+1.  Dal menu di **Centro per i Partner** , seleziona **i clienti**.
 2.  Seleziona **Esporta clienti**.
 
     Il Centro per i partner converte l'elenco completo dei clienti in un file CSV e lo carica nella cartella di download predefinita nel tuo computer. Puoi anche esportare sottoinsiemi dei dati dei clienti. Le colonne di dati includono:
@@ -56,7 +56,7 @@ Nel menu **Dashboard** seleziona **Clienti**.
 
 ## <a name="export-customer-subscription-information"></a>Esportare le informazioni sulle sottoscrizioni dei clienti
 
-1.  Nel menu **Dashboard** seleziona **Clienti**.
+1.  Dal menu di **Centro per i Partner** , seleziona **i clienti**.
 2.  Seleziona **Nome azienda** per qualsiasi cliente. Viene aperta la pagina **Sottoscrizioni** del cliente con l'elenco completo delle sottoscrizioni di prodotti.
 3.  Seleziona **Esporta sottoscrizioni**. Il Centro per i partner converte i dati relativi alle sottoscrizioni del cliente in un file CSV e lo carica nella cartella di download predefinita nel tuo computer. Le colonne di dati includono:
     -   **ID sottoscrizione**;

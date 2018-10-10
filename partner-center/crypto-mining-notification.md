@@ -1,25 +1,25 @@
 ---
-title: Notifica del dashboard del partner per attività di cryptomining | Dashboard del partner
+title: Notifica di Centro per i partner per attività di cryptomining | Centro per i partner
 description: Notifica di potenziali attività di cryptomining in corso.
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8dec91ae62b27c031739e59848118395ab52f7f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 93f4031d8e084c206ee21ff96b6c16a4c0d2ea0e
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876231"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488927"
 ---
-# <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>Notifica del dashboard del partner per attività di cryptomining
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notifica di Centro per i partner per attività di cryptomining
 
 **Ambito di applicazione:**
 
--  Dashboard del partner
+-  Centro per i partner
 -  Partner CSP
 
-Potresti aver ricevuto la seguente notifica del dashboard del partner sul mining di criptovaluta:
+Potresti aver ricevuto la seguente notifica Centro per i Partner sul mining di criptovaluta:
  
 ![](images/crypto1.png)
 
@@ -42,13 +42,13 @@ Se l'attività è imprevista, prendi in considerazione quanto segue:
 
 2.  Scopri come sono state create le risorse. Per farlo, potrebbe essere necessario esaminare i log di gestione delle risorse di Azure alla ricerca di attività di provisioning delle risorse.
 
-3.  Se è necessario scoprire chi ha creato la sottoscrizione, esamina i log attività del dashboard del partner.
+3.  Se è necessario scoprire chi ha creato la sottoscrizione, esamina i log attività Centro per i Partner.
 
 Il rilevamento delle attività di mining di criptovaluta si basa sull'euristica e potrebbe non essere accurato al 100%. Assicurati di disporre di sistemi di governance e monitoraggio per la protezione contro attività fraudolente o altre attività non consentite. Per ulteriori informazioni, vedi [Insoluti, frodi o uso improprio](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
 
 Se hai domande o dubbi sulla notifica, puoi utilizzare la seguente procedura per aprire una richiesta di supporto.
 
-1.  Nel dashboard seleziona **Supporto**, quindi **Richieste Centro per i partner**.
+1.  Nel centro per i Partner, seleziona **il supporto** e quindi seleziona **le richieste Centro per i Partner**.
 3.  Seleziona **Nuova richiesta**. 
 4.  Nel menu a discesa **Tipo di problemi** seleziona la voce per l'**aggiunta o gestione dei clienti**.
 5.  Nel menu a discesa **Impatto** seleziona **Moderato**.

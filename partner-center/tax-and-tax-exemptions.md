@@ -4,12 +4,12 @@ description: Dato che Cloud Solution Provider è un canale per la rivendita di p
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: ae366ba7275eb9192aee1afc44acdf4e8351b55e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 13bacb79b210050b2392d40c6fa77cb0fe22235d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874891"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489607"
 ---
 # <a name="tax-and-tax-exemptions"></a>Imposte ed esenzioni fiscali
 
@@ -23,9 +23,9 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 
 **Registrare un'esenzione fiscale**
 
-1.  Cerca il tuo **ID Microsoft** nel menu Dashboard &gt; **Impostazioni account** &gt; **Profilo organizzazione**.
-2.  Cerca il tuo **ID MPN** nel menu Dashboard &gt; **Impostazioni account** &gt; **Profilo partner**.
-3.  Crea un nuovo ticket di supporto. Nel menu Dashboard seleziona **Richieste di servizio** &gt; **Richieste Centro per i partner** &gt; **Nuova richiesta**.
+1.  Cercare l' **ID di Microsoft** nel centro per i Partner &gt; **Impostazioni Account** &gt; **profilo dell'organizzazione**.
+2.  Cercare l' **ID MPN** nel centro per i Partner &gt; **Impostazioni Account** &gt; **profilo del Partner**.
+3.  Crea un nuovo ticket di supporto. Dal menu di Centro per i Partner, seleziona **le richieste di servizio** &gt; **richieste Centro per i Partner** &gt; **nuova richiesta**.
 4.  Compila il modulo. In **Tipo di problema** scegli **Non è possibile gestire il profilo personale**. Includi il tuo ID MPN e ID Microsoft nella descrizione.
 5.  Dopo aver inviato il ticket, Microsoft ti invierà un'e-mail per ottenere altre informazioni. Allega la documentazione di supporto appropriata nella risposta per i certificati di esenzione IVA.
 
@@ -49,7 +49,7 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 <p>Microsoft non supporta crediti e rifatturazione, quindi prima di vendere qualsiasi sottoscrizione devi registrare il tuo numero di partita IVA nel Centro per i partner.</p>
 <p>Inviare il tuo numero di partita IVA a Microsoft</strong></p>
 <ol>
-<li>Nel Centro per i partner vai al menu Dashboard &gt; <strong>Impostazioni account</strong> &gt; <strong>Profilo di fatturazione partner</strong>.</li>
+<li>Nel centro per i Partner, Vai al menu del centro per i Partner &gt; <strong>Impostazioni Account</strong> &gt; <strong>profilo di fatturazione del Partner</strong>.</li>
 <li>Nella sezione <strong>Dati finanziari</strong> seleziona <strong>Aggiorna</strong>.</li>
 <li>In <strong>Partita IVA azienda</strong> specifica il numero di partita IVA.</li>
 </ol></td>

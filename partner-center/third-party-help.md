@@ -4,12 +4,12 @@ description: Ora puoi individuare e acquistare software di terze parti da aggiun
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
 ms.localizationpriority: medium
-ms.openlocfilehash: 8076104d1707ed4441340f82c34ff7d587938778
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5b98707f1d14ea689f718f386c09e0f3ebbc558c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877441"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489997"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Aggiungere il software di terze parti al tuo portafoglio
 
@@ -46,9 +46,9 @@ Se sei interessato ad acquistare, ma hai altre domande o vuoi parlare con l'ISV,
 
 ## <a name="purchase-the-third-party-software"></a>Acquistare il software di terze parti
 
-L'acquisto di software di terze parti viene eseguito come l'acquisto dei software di prima entità. 
+L'acquisto di software di terze parti viene eseguito come l'acquisto di software di prima entità. 
 
-1.  Nel **Dashboard** seleziona **Clienti**.
+1.  Il **Centro per i Partner**, seleziona **i clienti**.
 2.  Seleziona **Nuova sottoscrizione**.
 3.  Seleziona la fatturazione mensile per il software di terze parti. La fatturazione annuale e le versioni di prova non sono attualmente disponibili per le terze parti.
 4.  Nella scheda **Terze parti** seleziona il prodotto che vuoi acquistare.

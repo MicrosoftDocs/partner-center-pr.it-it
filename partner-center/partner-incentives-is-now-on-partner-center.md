@@ -3,12 +3,12 @@ title: Incentivi per i partner ora disponibili nel Centro per i partner | Centro
 description: I programmi di incentivi incoraggiano i partner a sviluppare nuove tecniche di marketing, offrire formazione e altro
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 086f81a07aa4f12f40c7f7d1ca47dc6051cd4e59
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: ef254f1630cdfb90d16971d31e4688b50c82b614
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875671"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488737"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Incentivi per i partner disponibili nel Centro per i partner 
 
@@ -32,11 +32,11 @@ La partecipazione al programma ti renderà idoneo a ricevere sconti e utili in c
 
 ## <a name="one-site-one-log-on"></a>Un sito, un accesso
 
-Ora che il programma di incentivi per i partner Microsoft è passato al Centro per i partner, sarai in grado di occuparti di tutte le attività amministrative, tra cui la gestione degli utenti, l'esecuzione di attività per conto dei clienti, l'iscrizione per certificazioni e incentivi, la segnalazione di utili di incentivi e il ricevimento di pagamenti. Tutti i dati degli incentivi sono disponibili nel tuo **Dashboard** degli incentivi. I dati relativi agli incentivi vengono aggiornati ogni giorno.
+Ora che il programma di incentivi per i partner Microsoft è passato al Centro per i partner, sarai in grado di occuparti di tutte le attività amministrative, tra cui la gestione degli utenti, l'esecuzione di attività per conto dei clienti, l'iscrizione per certificazioni e incentivi, la segnalazione di utili di incentivi e il ricevimento di pagamenti. Tutti i dati di incentivi sono disponibili nel **Centro per i Partner**gli incentivi. I dati relativi agli incentivi vengono aggiornati ogni giorno.
  
 ## <a name="set-your-users-up-in-partner-center"></a>Configurare gli utenti nel Centro per i partner
  
-Il primo passaggio consiste nel completare il tuo account per gli incentivi del Centro per i partner mediante la configurazione di utenti di incentivi nel Centro per i partner. Hai ricevuto un messaggio e-mail con un elenco di utenti di incentivi dell'organizzazione. Quando l'amministratore di incentivi per l'organizzazione ha completato la configurazione utente, tutti i dati relativi agli incentivi verranno visualizzati nel **Dashboard** degli incentivi.
+Il primo passaggio consiste nel completare il tuo account per gli incentivi del Centro per i partner mediante la configurazione di utenti di incentivi nel Centro per i partner. Hai ricevuto un messaggio e-mail con un elenco di utenti di incentivi dell'organizzazione. Quando l'amministratore di incentivi per la tua organizzazione ha completato la configurazione dell'utente, verranno visualizzati tutti i dati di incentivi nel **Centro per i Partner**degli incentivi.
 
 **Vedi anche**
 

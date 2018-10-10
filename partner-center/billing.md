@@ -5,12 +5,12 @@ ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e66f9c4060a155f4099f28ef29559d5a6f628ba
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 0407d176dcf7b7cc7f33403c4575a8a59b15b02d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377743"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489297"
 ---
 # <a name="billing"></a>Fatturazione
 
@@ -20,7 +20,7 @@ ms.locfileid: "4377743"
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
-Per la fatturazione, accedi al menu **Dashboard** e seleziona **Fatturazione** per visualizzare la cronologia e le tendenze della fatturazione, link al file di fatturazione e di riconciliazione e informazioni sull'ultimo pagamento.
+Per la fattura, Vai al menu **Centro per i Partner** e quindi seleziona **la fatturazione** per visualizzare la cronologia di fatturazione e tendenze, i collegamenti per la fattura e il file di riconciliazione e il pagamento più recente.
 
 I partner del programma Cloud Solution Provider che scelgono la fatturazione mensile pagheranno Microsoft per gli abbonamenti dei clienti (sia in base a licenza che in base all'uso) in via posticipata, dopo 60 giorni.
 

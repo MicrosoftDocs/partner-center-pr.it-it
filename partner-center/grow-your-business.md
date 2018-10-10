@@ -4,12 +4,12 @@ description: Risorse per aumentare il tuo business con i partner Microsoft. Incl
 keywords: riferimenti, rispondere ai riferimenti, lead, lead di vendita, profilo di marketing, profilo aziendale, aumentare il business, opportunità commerciali, competenze, appartenenza silver, appartenenza gold, offerte di versioni di valutazione, espansione del mercato, cloud nazionale
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e84d24f398fb63e6fe8749ff4112866c4cf75b26
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 19a518e32ed352adf4363fc6a7ae84fb5a00e5ca
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377443"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489657"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Aumenta il tuo business con i partner Microsoft 
 
@@ -36,7 +36,7 @@ Usa il Centro per i partner per:
 | Offrire i prezzi promozionali dei clienti per le sottoscrizioni Microsoft  | Occasionalmente Microsoft offre promozioni per le sottoscrizioni basate sulle licenze per consentirti di offrire sconti ai clienti e far crescere la tua attività. Leggi [Offrire i prezzi promozionali dei clienti per le sottoscrizioni Microsoft](promotions.md) per sapere come fare. | Partner CSP |
 | Vendere in altri mercati | Il canale di vendita Cloud Solution Provider è disponibile in molte aree geografiche e paesi/regioni. Vedi [Mercati Cloud Solution Provider](agreements.md) per esaminare l'elenco. Per un'introduzione al canale Cloud Solution Provider, vedi [Panoramica di Cloud Solution Provider](csp-overview.md).  | Partner CSP |
 Vendere in settori specifici, come orgs no profit e gli istituti di istruzione|[Vendere in settori specifici](get-special-pricing-for-offers.md)|Partner CSP|
-|Aumenta il tuo business tramite l'attività di molti disponibili nel programma di incentivi il co-op. Attestazioni di file per le attività tramite il dashboard.| [Creare e gestire gli incentivi attestazioni](create-incentives-claims.md)|Partner CSP|
+|Aumenta il tuo business tramite l'attività di molti disponibili nel programma di incentivi il co-op. Attestazioni di file per le attività tramite il centro per i Partner.| [Creare e gestire gli incentivi attestazioni](create-incentives-claims.md)|Partner CSP|
 |Creare nuovi bundle di software, includendo offerte di terze parti che funzionano con il software Microsoft che vendi già|[Individuare le offerte di terze parti](third-party-offers.md)|Partner CSP|
 
 ## <a name="see-also"></a>Vedi anche

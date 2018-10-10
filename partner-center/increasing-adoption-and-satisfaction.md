@@ -4,12 +4,12 @@ description: I nostri partner usano molte metriche per valutare la crescita dell
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 07061b8223001922b91e7d94b33340f7cd4a6aa1
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 8159d203a64632ff8802af5acdd1cb35a194a2ae
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377613"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489597"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Migliorare i tassi di adozione e soddisfazione
 
@@ -29,11 +29,11 @@ Puoi vedere i dati per tutti i tuoi clienti tramite il programma Cloud Solution 
 
 **Per un singolo cliente**
 
--   Seleziona **Clienti** dal menu **Dashboard**, scegli un cliente e quindi seleziona **Informazioni sui clienti**.
+-   Seleziona **clienti** nel **Centro per i Partner**, scegli un cliente, quindi seleziona **informazioni sui clienti**.
 
 **Per tutto il tuo portfolio**
 
-1.  Seleziona **Analizza** dal menu **Dashboard**.
+1.  Il **Centro per i Partner**, seleziona **Analizza**.
 2.  Scarica i dati di distribuzione e utilizzo per l'intero set dei tuoi clienti selezionando le opzioni per l'**esportazione**.
 
 Terminologia:

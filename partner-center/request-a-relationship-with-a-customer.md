@@ -4,12 +4,12 @@ description: La richiesta di una relazione viene usata per gli scenari multipart
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 49e24f50fef7715634f749f7f95c066c37e55976
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 28dc6bddd50b52d06652e731545fddf15156c738
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377533"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489507"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Entrare in contatto con i clienti nel Centro per i partner
 
@@ -23,7 +23,7 @@ Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ulti
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire una relazione come rivenditore con te
 
-1.  Seleziona **Clienti** dal menu **Dashboard** e quindi seleziona **Richiedi una relazione come rivenditore**.
+1.  Seleziona **clienti** dal menu del **Centro per i Partner** e quindi seleziona **richiedere una relazione come rivenditore**.
 
 2.  Nella pagina successiva controlla la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
 

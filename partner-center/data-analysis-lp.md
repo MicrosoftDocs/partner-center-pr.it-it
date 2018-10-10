@@ -4,12 +4,12 @@ description: Usa le funzionalità dei dati del Centro per i partner per comprend
 author: labrenne
 keywords: dati, analisi, analisi dei dati, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: e76fc54712628808599d63a799d009821c81343b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 472fea265a29b457bb29ac0545a69e5dd87c160d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877161"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489697"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Acquisisci dati e analizza le tue attività 
 
@@ -25,7 +25,7 @@ La pianificazione dei modi per sviluppare le attività CSP include le informazio
 
 |**Per recuperare i dati su**   |**Scarica**   |**Leggi**   | **Ambito di applicazione**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|Come i clienti usano le licenze acquistate   |Dati di utilizzo e distribuzione dal dashboard = > analisi del prodotto   |[Migliorare i tassi di adozione e soddisfazione](increasing-adoption-and-satisfaction.md)|Partner CSP|
+|Come i clienti usano le licenze acquistate   |Dati sull'utilizzo e distribuzione dal centro per i Partner = > analitica prodotto   |[Migliorare i tassi di adozione e soddisfazione](increasing-adoption-and-satisfaction.md)|Partner CSP|
 |Attività dei clienti relative alle sottoscrizioni   |Log attività   |[Visualizzare i log attività dei clienti](activity-logs.md)|Partner CSP   |
 |Aumento della base di clienti, dell'utilizzo, del consumo di Azure e altro ancora   |App Centro per i partner per Power BI   |[App Analisi del Centro per i Partner per Power BI (partner diretti in CSP)](power-bi-app-for-direct-partners.md)|Partner diretti in CSP|
 

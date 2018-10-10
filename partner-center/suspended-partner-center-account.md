@@ -4,12 +4,12 @@ description: Scopri come ripristinare un account del Centro per i partner sospes
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: da54c5bdbf9b28eb54d459b0b383b067478b0b6f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a15745ea4cc789049251fc08077b420cb094a596
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377553"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489477"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Ripristinare un account sospeso per il Centro per i partner
 
@@ -36,13 +36,13 @@ Microsoft sospenderà un account del Centro per i partner per uno dei motivi seg
 
 Se sai che l'account è attuale, invia una richiesta di supporto al Supporto per il Centro per i partner, per scoprire perché il tuo account è stato sospeso. 
 
-Se non sei sicuro che l'account sia attuale, seleziona **Fatturazione** da **Dashboard** per controllare la fattura. La pagina della fatturazione mostra la cronologia e le tendenze della fatturazione, il saldo esigibile del mese corrente, link ai file di fatturazione e di riconciliazione e informazioni sull'ultimo pagamento.
+Se non sei sicuro che l'account sia attuale, seleziona **la fatturazione** dal menu del **Centro per i Partner** per controllare la fattura. La pagina della fatturazione mostra la cronologia e le tendenze della fatturazione, il saldo esigibile del mese corrente, link ai file di fatturazione e di riconciliazione e informazioni sull'ultimo pagamento.
 
 Se l'account è scaduto, segui le istruzioni sulla fattura per predisporre il pagamento, quindi invia una richiesta di supporto per richiedere che il tuo account sia reinstallato. 
 
 **Per inviare una richiesta di supporto**
 
-1.  Nel menu **Dashboard** seleziona **Richieste di supporto > Richieste Centro per i partner**.
+1.  Dal menu di **Centro per i Partner** , seleziona **richieste di supporto > richieste Centro per i Partner**.
 2.  Seleziona **Nuova richiesta**. 
 3.  Compila il modulo e quindi seleziona **Invia**. Un rappresentante del Supporto del Centro per i partner ti contatterà per spiegare perché l'account è stato sospeso e come ripristinarlo.
 

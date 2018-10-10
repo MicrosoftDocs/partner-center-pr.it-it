@@ -1,16 +1,16 @@
 ---
 title: Leggere la fattura | Centro per i partner
-description: La fattura è un riepilogo di tutti gli addebiti (per il programma, i prodotti e i clienti) per il periodo mensile corrente. È disponibile nel dashboard del Centro per i partner.
+description: La fattura è un riepilogo di tutti gli addebiti (per il programma, i prodotti e i clienti) per il periodo mensile corrente. È disponibile nel centro per i Partner.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377543"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489407"
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
@@ -20,7 +20,7 @@ ms.locfileid: "4377543"
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
-Per la fatturazione, accedi al menu **Dashboard** e seleziona **Fatturazione** per visualizzare la cronologia e le tendenze della fatturazione, link al file di fatturazione e di riconciliazione e informazioni sull'ultimo pagamento.
+Per la fattura, Vai al menu **Centro per i Partner** e quindi seleziona **la fatturazione** per visualizzare la cronologia di fatturazione e tendenze, i collegamenti per la fattura e il file di riconciliazione e il pagamento più recente.
 
 I partner del programma Cloud Solution Provider che hanno scelto la fatturazione mensile pagheranno Microsoft per gli abbonamenti dei clienti (sia in base a licenza che in base all'uso) in via posticipata, dopo 60 giorni.
 

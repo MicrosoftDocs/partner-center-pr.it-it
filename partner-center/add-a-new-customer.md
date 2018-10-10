@@ -5,12 +5,12 @@ ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 keywords: cliente, aggiungere un cliente, account del cliente, account del cliente nel Centro per i partner, clienti, aggiungere i clienti, creare un account del cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c157074bc2d64a1f25f27455e0d362c8050d5fe
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: abe2e5f39718ddebb69d875febe3d06637b7ebc2
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876861"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490207"
 ---
 # <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente
 
@@ -21,13 +21,13 @@ ms.locfileid: "2876861"
 -  Centro per i partner per Microsoft Cloud Germania
 
 
-Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto, devi creare un account per il tuo cliente nel dashboard del partner. Il record include le informazioni di contatto e un dominio di Azure AD.
+Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire il supporto, devi creare un account per il cliente nel centro per i Partner. Il record include le informazioni di contatto e un dominio di Azure AD.
 
 Per i clienti che dispongono già di account e sottoscrizioni di clienti tramite uno scenario [multicanale](multichannel.md) o [multipartner](multipartner.md), puoi [richiedere una relazione con un cliente](request-a-relationship-with-a-customer.md), invece di seguire questa procedura.
 
 **Aggiungere un nuovo cliente**
 
-1.  Nel menu **Dashboard** seleziona **Clienti**. Seleziona quindi **Aggiungi cliente**.
+1.  Dal menu di **Centro per i Partner** , seleziona **i clienti**. Seleziona quindi **Aggiungi cliente**.
 
 2.  Nella pagina **Informazioni account** compila i dettagli dell'azienda e le informazioni di contatto principali, quindi seleziona **Successivo: Sottoscrizioni**.
 

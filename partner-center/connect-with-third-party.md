@@ -4,12 +4,12 @@ description: Acquistare software di terze parti che funziona con i prodotti Micr
 author: labrenne
 keywords: offerte di terze parti, software da acquistare
 ms.localizationpriority: medium
-ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
-ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
+ms.openlocfilehash: 7ea21f8799faaf34703e51f9620f8169364569dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "4062163"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489847"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Aggiungere software di terze parti al tuo portafoglio
 
@@ -53,7 +53,7 @@ Nella pagina dei dettagli troverai un collegamento al sito Web dell'ISV, le info
 
 L'acquisto di software di terze parti viene eseguito come l'acquisto di software di prima entità. 
 
-1. Seleziona **Clienti** dal menu **Dashboard**.
+1. Il **Centro per i Partner**, seleziona **i clienti**
 2. Seleziona **Nuova sottoscrizione**.
 3. Seleziona la fatturazione mensile per il software di terze parti. La fatturazione annuale e le versioni di prova non sono attualmente disponibili per il software di terze parti.
 4. Nella scheda dedicata al software di terze parti seleziona il prodotto che vuoi acquistare.

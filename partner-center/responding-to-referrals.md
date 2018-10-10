@@ -4,12 +4,12 @@ description: Valutare, negoziare e rispondere alle segnalazioni tramite il Centr
 author: KPacquer
 keywords: segnalazione, richiesta di informazioni, Trova un partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4467a6404718a21d206980e77a9a84d7f77432dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875421"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489457"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Rispondere alle segnalazioni nel Centro per i partner
 
@@ -29,7 +29,7 @@ Inizia configurando un [profilo di lavoro](create-a-marketing-profile.md) per og
 
 Quando un cliente è interessato a contattarti, invierà una richiesta di informazioni. 
 
-In questo caso, invieremo un'e-mail al contatto indicato nel [profilo di lavoro](create-a-marketing-profile.md) specifico dell'area geografica e della località selezionata. Le richieste di informazioni in arrivo possono anche essere visualizzate nel Centro per i partner in **Dashboard > Segnalazioni > Customer referrals**.
+In questo caso, invieremo un'e-mail al contatto indicato nel [profilo di lavoro](create-a-marketing-profile.md) specifico dell'area geografica e della località selezionata. Puoi anche visualizzare richieste in ingresso nel centro per i Partner: Vai a **Centro per i Partner > segnalazioni > segnalazioni di clienti**.
 
 I clienti spesso scelgono di inviare la stessa richiesta di informazioni a più aziende contemporaneamente. Per aumentare le probabilità di successo, è consigliabile rispondere e accettare o rifiutare le nuove segnalazioni entro 24 ore o meno.
 

@@ -5,12 +5,12 @@ ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
 ms.localizationpriority: medium
-ms.openlocfilehash: 4ae156f50adf64ebb18b7cddb79ff6415e9c2714
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 153ed656ff217241079439e8b48c46c8d18ba144
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877001"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489817"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Attività di gestione degli utenti per gli account dei clienti
 
@@ -29,7 +29,7 @@ Puoi [assegnare le sottoscrizioni a più utenti](bulk-license-provisioning-for-m
 <a href="" id="createuseraccounts"></a>
 **Creare account utente per un cliente**
 
-1.  Nel menu **Dashboard** seleziona **Clienti**. Scegli un cliente nell'elenco.
+1.  Dal menu di **Centro per i Partner** , seleziona **i clienti**. Scegli un cliente nell'elenco.
 
 2.  Nel menu del cliente seleziona **Utenti e licenze**.
 
@@ -44,7 +44,7 @@ Puoi [assegnare le sottoscrizioni a più utenti](bulk-license-provisioning-for-m
 <a href="" id="userlicensing"></a>
 **Aggiungere o rimuovere licenze utente per un cliente**
 
-1.  Nel menu **Dashboard** seleziona **Clienti**. Scegli il cliente nell'elenco.
+1.  Dal menu di **Centro per i Partner** , seleziona **i clienti**. Scegli il cliente nell'elenco.
 
 2.  Nel menu del cliente seleziona **Utenti e licenze**.
 
@@ -55,7 +55,7 @@ Puoi [assegnare le sottoscrizioni a più utenti](bulk-license-provisioning-for-m
 <a href="" id="resetpassword"></a>
 **Reimpostare la password di un utente per un cliente**
 
-1.  Nel menu **Dashboard** seleziona **Clienti**. Scegli il cliente nell'elenco.
+1.  Dal menu di **Centro per i Partner** , seleziona **i clienti**. Scegli il cliente nell'elenco.
 
 2.  Nel menu del cliente seleziona **Utenti e licenze**. Scegli l'utente nell'elenco.
 
@@ -66,7 +66,7 @@ Puoi [assegnare le sottoscrizioni a più utenti](bulk-license-provisioning-for-m
 <a href="" id="deleteuseraccounts"></a>
 **Eliminare account utente per un cliente**
 
-1.  Nel menu **Dashboard** seleziona **Clienti**. Scegli il cliente nell'elenco.
+1.  Dal menu di **Centro per i Partner** , seleziona **i clienti**. Scegli il cliente nell'elenco.
 
 2.  Nel menu del cliente seleziona **Utenti e licenze**. Scegli l'utente nell'elenco.
 
@@ -77,7 +77,7 @@ Se devi ripristinare questo account, puoi trovarlo nella scheda **Utenti elimina
 <a href="" id="restoreuseraccounts"></a>
 **Ripristinare account utente eliminati**
 
-1.  Nel menu **Dashboard** seleziona **Clienti** e quindi scegli il cliente nell'elenco.
+1.  Il menu del **Centro per i Partner** seleziona **i clienti**, quindi scegli il cliente nell'elenco.
 
 2.  Seleziona **Utenti e licenze**.
 

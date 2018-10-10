@@ -1,23 +1,23 @@
 ---
 title: Assegnare ruoli agli utenti e le autorizzazioni | Centro per i partner
-description: Tutti i dipendenti che devono lavorare nel Dashboard del Partner devono essere assegnato un ruolo.
+description: Ogni dipendente che dovrà lavorare nel centro per i Partner deve essere assegnato un ruolo.
 author: labrenne
 keywords: ruoli, autorizzazioni, amministratore, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: b020c7b57874859d54c2b9c638302ab74a21b93a
-ms.sourcegitcommit: 6de78bec6b51b3b30052dfd0ad3f9fbdec31abae
+ms.openlocfilehash: 31ee676b9025edb82b155f64b9b2f44a3873c38c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/26/2018
-ms.locfileid: "4227445"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489487"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Assegnare le autorizzazioni e ruoli degli utenti
 
-**Si applica a:**
+**Ambito di applicazione**
 
-- Dashboard del partner
+- Centro per i partner
 
-Ogni ruolo nel dashboard include alcune autorizzazioni se un utente è autorizzato a eseguire attività specifiche. Tutti gli utenti che funziona nel dashboard di deve essere assegnato un ruolo.
+Ogni ruolo nel centro per i Partner viene fornito con alcune autorizzazioni se un utente è autorizzato a eseguire attività specifiche. Tutti gli utenti che funziona nel centro per i Partner deve essere assegnato un ruolo.
 
 A seconda delle dimensioni dell'organizzazione alcuni utenti potrebbero funzionare in sedi o solo per una posizione. 
 
@@ -27,9 +27,9 @@ Ad esempio:
 - Amministratori di incentivi possono amministrare per uno o più posizioni, ma queste ubicazioni devono essere specificati.
 
 
-La tabella seguente illustra le operazioni che ogni ruolo può eseguire nel dashboard del partner. Quando devi assegnare i ruoli, prendi in considerazione il lavoro eseguito dall'utente all'interno dell'organizzazione. Potrebbe ad esempio essere opportuno che l'amministratore globale sia anche l'agente amministratore. La persona che gestisce l'attività di marketing potrebbe anche gestire il profilo di lavoro.
+La tabella seguente descrive ciò che ogni ruolo può eseguire nel centro per i Partner. Quando devi assegnare i ruoli, prendi in considerazione il lavoro eseguito dall'utente all'interno dell'organizzazione. Potrebbe ad esempio essere opportuno che l'amministratore globale sia anche l'agente amministratore. La persona che gestisce l'attività di marketing potrebbe anche gestire il profilo di lavoro.
 
-Per una panoramica dei ruoli e autorizzazioni, Leggi [creare gli account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md).
+Per una panoramica dei ruoli e autorizzazioni, leggere [creare gli account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md).
 
 <table>
 <colgroup>
@@ -38,14 +38,14 @@ Per una panoramica dei ruoli e autorizzazioni, Leggi [creare gli account utente 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Ruolo nel dashboard del partner</strong></p></td>
+<td><p><strong>Ruolo nel centro per i Partner</strong></p></td>
 <td><p><strong>Operazioni consentite</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Amministratore globale</strong></p></td>
 <td><ul>
 <li><p>Accesso a tutti gli account/servizi Microsoft con privilegi completi</p></li>
-<li><p>Creazione di ticket di supporto per il dashboard del partner</p></li>
+<li><p>Creazione di ticket di supporto per il centro per i Partner</p></li>
 <li><p>Visualizzazione di contratti, listini prezzi e offerte</p></li>
 <li><p>Fatturazione</p></li>
 <li><p>Visualizzazione, creazione e gestione di utenti partner</p></li>
@@ -97,7 +97,7 @@ Per una panoramica dei ruoli e autorizzazioni, Leggi [creare gli account utente 
 <td><p><strong>Account amministratore</strong></p></td>
 <td><ul>
 <li><p>Creare nuove posizioni</p></li>
-<li><p>Registrare i percorsi in programmi (eccezioni sono CSP e programmi per i rivenditori indiretti)</p></li>
+<li><p>Registrare posizioni in programmi (eccezioni sono CSP e programmi di rivenditore indiretto)</p></li>
 <li><p>Gestire i profili correlati agli account posizione che amministrano</p></li>
 <li><p>Assegna agli utenti: amministratore MPN, amministratore del profilo di lavoro, amministratore dei riferimenti, amministratore di incentivi, ruoli utente legato a incentivo</p></li>
 </ul></td>
@@ -130,7 +130,7 @@ Per una panoramica dei ruoli e autorizzazioni, Leggi [creare gli account utente 
 <td><p><strong>Agente amministratore</strong></p></td>
 <td><ul>
 <li><p>Gestione dei clienti</p></li>
-<li><p>Aggiungere l'elenco dei dispositivi al Dashboard del Partner <</p></li>
+<li><p>Aggiunta dell'elenco dei dispositivi nel centro per i Partner per <</p></li>
 <p><li>Creazione e applicazione di profili ai dispositivi</p></li>
 <li><p>Gestione delle sottoscrizioni</p></li>
 <li><p>Assistenza alle richieste di integrità e di servizio per i clienti</p></li>
@@ -145,7 +145,7 @@ Per una panoramica dei ruoli e autorizzazioni, Leggi [creare gli account utente 
 <td><p><strong>Agente di vendita</strong></p></td>
 <td><ul>
 <li><p>Gestione dei clienti</p></li>
-<li><p>Aggiunta dell'elenco dei dispositivi al dashboard del partner</p></li>
+<li><p>Aggiunta dell'elenco dei dispositivi al centro per i Partner</p></li>
 <li><p>Gestione delle sottoscrizioni</p></li>
 <li><p>Visualizzazione dei ticket di supporto</p></li>
 <li><p>Richiesta di una relazione con un cliente</p></li>

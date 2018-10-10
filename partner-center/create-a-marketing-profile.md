@@ -5,12 +5,12 @@ ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, riferimenti, lead di vendita, C2PC, profilo della società, commercializzare la tua azienda, trovare un partner, trovare un provider di soluzioni, profilo di lavoro, profilo di marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 61a38d6d0f4f56a980bf6bb8ef44be5f6ee6cd46
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 516e898ba6c18458bd85db9517031ca58fcfef8a
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377623"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489767"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -40,20 +40,20 @@ Il primo passaggio per raggiungere questi lead consiste nel creare un profilo di
 *  **Segnalazioni da dipendenti di servizi e vendite Microsoft**. I clienti potenziali interessati alla distribuzione di soluzioni tecnologiche basate sul cloud contattano Microsoft per informazioni sui professionisti in grado di aiutarli a soddisfare le esigenze aziendali. Questi professionisti Microsoft possono quindi rimandare i clienti potenziali alla tua azienda.
 
 > [!IMPORTANT]  
-> Per aiutare i nostri partner a semplificare le operazioni aziendali, stiamo raggruppando in questo sito, ossia nel dashboard del partner, le funzionalità e le capacità che prima erano distribuite in diversi strumenti e siti Web. Come parte di questo impegno, abbiamo spostato tutte le funzionalità relative alle segnalazioni nel dashboard del partner e abbiamo ritirato i siti Pinpoint e C2PC. Se hai usato Pinpoint o C2PC in passato per ottenere e gestire le segnalazioni di Microsoft, dovrai creare un nuovo profilo di lavoro nel dashboard del partner per continuare a ottenere le segnalazioni. Non è più supportata l'importazione dei profili da questi siti. 
+> Per aiutare i nostri partner a semplificare le operazioni aziendali, stiamo consolidando caratteristiche e funzionalità che erano distribuite in diversi strumenti e siti Web nel centro per i Partner, questo sito. Come parte di questo impegno, abbiamo abbiamo spostato tutte le funzionalità relative ai riferimenti al centro per i Partner e abbiamo ritirato i siti Pinpoint e C2PC. Se hai usato Pinpoint o C2PC in passato per ottenere e gestire le segnalazioni di Microsoft, dovrai creare un nuovo profilo di lavoro nel centro per i Partner per continuare a ottenere le segnalazioni. Non è più supportata l'importazione dei profili da questi siti. 
 
 ## <a name="create-a-profile"></a>Creare un profilo
 
 > [!NOTE]  
->  Prima di poter creare un profilo di lavoro, devi avere un account del Dashboard del Partner. Se non hai già un account del dashboard del partner, vedi [Creare un account del dashboard del partner](mpn-create-a-partner-center-account.md) per informazioni su come crearne uno. 
+>  Prima di poter creare un profilo di lavoro, è necessario disporre di un account del centro per i Partner. Se non hai già un account del Centro per i partner, vedi [Creare un account del Centro per i partner](mpn-create-a-partner-center-account.md) per informazioni su come crearne uno. 
 
 Crea profili per ogni area geografica in cui sei autorizzato a svolgere la tua attività. 
 
-1.  Nel menu **Dashboard** seleziona **Segnalazioni** &gt; **Profili di lavoro** &gt; seleziona un paese/un'area geografica > **[Crea un profilo di lavoro](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  Il menu del **Centro per i Partner** seleziona **segnalazioni** &gt; **profili di lavoro** &gt; seleziona un paese/area geografica > **[Crea un profilo di lavoro](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  Nella pagina **Crea un profilo di lavoro** seleziona un'area geografica, quindi immetti le informazioni del profilo.
     > [!NOTE]  
-    >  Anche se il Dashboard del Partner supporta più lingue, alcuni elementi, ad esempio la descrizione e i tag in formato libero, potrebbe essere necessario includere il testo da lingue diverse, come indicato in questo argomento.
+    >  Mentre il centro per i Partner supporta più lingue, alcuni elementi, ad esempio la descrizione e i tag in formato libero, potrebbe essere necessario includere il testo da lingue diverse, come indicato in questo argomento.
 
 ### <a href="" id="partner_info"></a>Informazioni sul partner
 
@@ -99,7 +99,7 @@ Altri tag utilizzati nella ricerca:
 
 Ti consigliamo di lasciare selezionata questa impostazione. 
 
-Man mano che dimostri i tuoi successi con i clienti attraverso il dashboard del partner o partecipando ad altri programmi o certificazioni Microsoft, aggiungeremo automaticamente delle approvazioni ai tuoi prodotti, servizi e settori specifici che hanno contribuito a tali successi. Le approvazioni sono un fattore importante nei risultati della ricerca.
+Come dimostrare il successo con i clienti attraverso il centro per i Partner o partecipando ad altri programmi o certificazioni Microsoft, aggiungeremo automaticamente delle approvazioni ai tuoi prodotti, servizi e settori contribuito a tali successi specifici. Le approvazioni sono un fattore importante nei risultati della ricerca.
 
 Se tuttavia esistono dei prodotti per cui fornisci dei servizi che preferiresti che non venissero visualizzati nel tuo profilo, puoi deselezionare la casella e gestire il profilo manualmente. Queste approvazioni risulteranno nascoste alla vista dei clienti, ma potrai aggiungerle nuovamente al profilo in qualsiasi momento.
 

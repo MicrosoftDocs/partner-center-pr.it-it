@@ -4,18 +4,18 @@ description: Come partner rivenditore, il cliente può puoi essere delegato loro
 author: labrenne
 keywords: privilegi di amministratore delegato, amministrazione per conto di, rimuovere i privilegi, DAP, of AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 77613468d03d62d1eb8a42e8bc9288458461166d
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 224ed2ea2485420761c7a5f85db5a7a37fd245af
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377433"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489877"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>I clienti delegano i privilegi amministrativi ai partner
 
 **Ambito di applicazione:**
 
--  Dashboard del partner
+-  Centro per i partner
 
 Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ultimo dovrà concederti le autorizzazioni di amministratore per tale servizio. Per ottenere le autorizzazioni di amministratore, invia al cliente una richiesta di relazione come rivenditore. Dopo che il cliente ha approvato la richiesta, potrai accedere al portale di amministrazione del servizio e gestire il servizio per conto del cliente. 
 
@@ -89,7 +89,7 @@ Ogni sottoscrizione di Azure ha un proprio gruppo di ruoli di gestione delle ris
 
 ## <a name="windows-autopilot"></a>Windows Autopilot 
 
-Il dashboard del Partner, i partner CSP possono gestire i profili Autopilot per i loro clienti senza privilegi di amministratore. Scopri come [Semplificare la configurazione dei dispositivi con Windows Autopilot.](https://docs.microsoft.com/partner-center/autopilot)
+Centro per i Partner, i partner CSP possono gestire i profili Autopilot per i loro clienti senza privilegi di amministratore. Scopri come [Semplificare la configurazione dei dispositivi con Windows Autopilot.](https://docs.microsoft.com/partner-center/autopilot)
 
 Cosa puoi fare dipende dal modo in quale modello CSP sei iscritto.
 
@@ -110,7 +110,7 @@ Cosa puoi fare dipende dal modo in quale modello CSP sei iscritto.
 - Non puoi gestire i dispositivi che il cliente ha aggiunto tramite il Microsoft Store per le aziende, Microsoft Store per gli istituti di istruzione o portale di Microsoft Intune.
 
 > [!IMPORTANT]  
-> L'esperienza di gestione corrente di Autopilot nel dashboard di potrebbe continuare a modificare. Al momento della che pubblicazione di questo articolo, vengono considerate le modifiche seguenti:
+> L'esperienza di gestione corrente di Autopilot nel centro per i Partner possa continuare a modificare. Al momento della che pubblicazione di questo articolo, vengono considerate le modifiche seguenti:
 
   - Al partner devono essere concessi privilegi di amministratore delegato dal cliente prima che possa aggiungere/aggiornare/rimuovere profili dai dispositivi nel tenant del cliente.
 

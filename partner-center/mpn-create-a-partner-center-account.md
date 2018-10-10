@@ -3,12 +3,12 @@ title: Creare un account del Centro per i partner | Centro per i partner
 description: I membri del programma Microsoft Partner Network devono creare gli account del Centro per i partner per gestire i vantaggi e le competenze di rete e creare un profilo aziendale.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a12b65369d1d82fdf94a4312feb8acd8892f29bb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377773"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488947"
 ---
 # <a name="create-a-partner-center-account"></a>Creare un account nel Centro per i partner
 
@@ -67,7 +67,7 @@ Queste informazioni verranno verificate durante il processo di creazione dell'ac
 
 5.  Verifica di essere stato aggiunto al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, devi disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attieniti alla procedura seguente:
 
-    a. Nel **dashboard** seleziona l'icona **Impostazioni** e quindi seleziona **Gestione utenti**.  
+    a. Nel **Centro per i Partner**, seleziona l'icona **delle impostazioni** e quindi seleziona **gestione degli utenti**.  
 
     b. Seleziona il tuo nome nell'elenco degli utenti, quindi **Agente amministratore** se non è già selezionato. Seleziona **Aggiorna**.  
 

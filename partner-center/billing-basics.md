@@ -4,12 +4,12 @@ Description: Information on basic billing scenarios and the differences between 
 author: labrenne
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b4edcbc7c10e73b59f89b74494ae363a306745
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876391"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490067"
 ---
 # <a name="billing-basics"></a>Nozioni di base sulla fatturazione
 
@@ -55,7 +55,7 @@ Ora oltre all'opzione mensile è disponibile l'opzione di fatturazione annuale. 
 <tr class="even">
 <td>Disponibilità delle fatture</td>
 <td><ul>
-<li>Puoi visualizzare e scaricare le fatture e i file di riconciliazione dalla pagina Fatturazione del dashboard del partner. Nota che le fatture mensili sono disponibili nel dashboard del partner entro quattro (4) giorni dalla data di fatturazione selezionata.</li>
+<li>Puoi visualizzare e scaricare le fatture e i file riconciliazione dalla pagina Fatturazione nel Centro per i partner. Nota che le fatture mensili sono disponibili nel Centro per i partner entro quattro (4) giorni dalla data di fatturazione selezionata.</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -155,18 +155,18 @@ I clienti pagano anticipatamente le istanze di macchina virtuale riservate di Az
 >[!IMPORTANT]
 >Se acquisti istanze di macchina virtuale riservate di Azure per un cliente in un mercato con una valuta diversa dalla tua, la valuta di fatturazione predefinita corrisponderà a quella del mercato del cliente e non del tuo. Se disponi di clienti in più mercati, riceverai fatture e file di riconciliazione separati per ogni valuta in cui i clienti necessitano della fatturazione, consentendoti così di fatturare nella valuta appropriata. 
 
-Per accedere a file di riconciliazione e fatture con addebito una tantum, seleziona **Fatturazione** dal dashboard del partner, quindi seleziona **Una volta**. 
+Per accedere ai file di riconciliazione e fatture con addebito una tantum, seleziona **la fatturazione** dal centro per i Partner e quindi seleziona **una sola volta**. 
 
 ### <a name="manage-your-one-time-billing"></a>Gestire la fatturazione una tantum
 
 #### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Visualizzare lo stato della fatturazione corrente, le fatture e i file di riconoscimento
 
-1.  Nel dashboard del partner, seleziona **Fatturazione** e **Una volta** per visualizzare lo stato di fatturazione. 
+1.  Nel centro per i Partner, seleziona **la fatturazione** e quindi **una sola volta** per visualizzare lo stato di fatturazione. 
 2.  Seleziona una fattura o un file di riconoscimento per visualizzare informazioni più dettagliate. 
 
 #### <a name="view-a-customers-order-history"></a>Visualizzare la cronologia degli ordini di un cliente
 
-1.  Seleziona **Clienti** dal menu Dashboard.
+1.  Seleziona **clienti** dal menu di Centro per i Partner.
 2.  Nella pagina **Clienti** trova il cliente di cui desideri visualizzare la cronologia ordini e seleziona la freccia giù per espandere il record del cliente. 
 3.  Seleziona **Visualizza ordini** per visualizzare la cronologia degli ordini.
 
@@ -174,4 +174,4 @@ Per accedere a file di riconciliazione e fatture con addebito una tantum, selezi
 
 Nel caso in cui esercitare un credito completo (Void fattura) e una nuova fattura ripartita, forniremo un accredito per annullare la fattura originale e anche un documento nuovo completo. È possibile richiedere una credito e una nuova fattura ripartita per i motivi seguenti:
 -   Correzioni di ordine di acquisto o l'indirizzo
--   Fattura generata e quindi è stato applicato un rimborso fiscale. Puoi richiedere una credito e una nuova fattura ripartita per ottenere la restituzione di imposte trascinata indietro nella fattura originale. Ciò vale anche per rimborsi, come è possibile richiedere una credito e una nuova fattura ripartita della fattura originale e quindi eseguire il pull in un rimborso.
+-   Fattura generata e quindi un rimborso fiscale è stato applicato. Puoi richiedere una credito e una nuova fattura ripartita per ottenere la restituzione di imposte trascinata indietro nella fattura originale. Ciò vale anche per rimborsi, come è possibile richiedere una credito e una nuova fattura ripartita della fattura originale e quindi eseguire il pull in un rimborso.

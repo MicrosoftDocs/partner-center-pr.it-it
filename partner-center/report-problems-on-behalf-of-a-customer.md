@@ -5,12 +5,12 @@ ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: dadd034214edabcea3d96c7e86f9c1de609dd3d3
-ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
+ms.openlocfilehash: 1f4de4c9159d451c39ffa2b71cc000fda3c82acf
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "4197689"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490047"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Segnalare problemi per conto di un cliente
 
@@ -24,7 +24,7 @@ Se il cliente ha un problema con il servizio che tu non puoi risolvere e che sod
 
 **Inviare una richiesta di servizio per un cliente**
 
-1.  Dal menu **Dashboard** seleziona **Richieste di servizio** e quindi **Richieste clienti**. 
+1.  Il menu del **Centro per i Partner** seleziona **richieste di servizio** e quindi **richiesta del cliente**. 
 
 2.  Nella pagina Richieste clienti, cerca il cliente desiderato.
 
@@ -98,7 +98,7 @@ Se accedi direttamente all'interfaccia di amministrazione di Office 365, visuali
  
 Contatta il [supporto di Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 
-Leggere [il supporto di Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
+Leggere [il supporto Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
 
 

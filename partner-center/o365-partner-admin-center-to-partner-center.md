@@ -3,12 +3,12 @@ title: "Clienti dell'interfaccia di amministrazione partner di Office 365: le op
 description: Considerazioni importanti per i clienti dell'interfaccia di amministrazione partner di Office 365 in relazione alla migrazione al Centro per i partner
 author: KPacquer
 ms.localizationpriority: medium
-ms.openlocfilehash: ebed2c963a85edad05440a4d5adb61eb25ceb097
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6c482565f51ae42b0735832f0c305fc55150032b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876891"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489327"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clienti dell'interfaccia di amministrazione partner di Office 365: le operazioni aziendali si spostano al Centro per i partner
 
@@ -36,10 +36,10 @@ Il completamento delle attività nel Centro per i partner viene eseguito in modo
 | Funzionalità dell'interfaccia di amministrazione partner di Office 365                       | Dove si trova nel Centro per i partner? | 
 |   -----------------------------------------------  | -------------- |
 | Sviluppa l'attività: crea un'offerta di acquisto | Collabora con il tuo provider per vendere offerte ai tuoi clienti |
-| Sviluppa l'attività. richiedi autorizzazioni da amministratore delegato | Dashboard: Clienti > Richiedi una relazione come rivenditore |
+| Sviluppa l'attività. richiedi autorizzazioni da amministratore delegato | Centro per i partner: Clienti > Richiedi una relazione come rivenditore |
 | Sviluppa l'attività: crea inviti di prova | Non disponibile. È ancora possibile utilizzare l'interfaccia di amministrazione partner di Office 365 per questa operazione |
-| Richieste di servizio: elenco clienti: interfaccia di amministrazione di Office 365 | Dashboard: Clienti > Amministra servizi |
-| Richieste di servizio: elenco di clienti: richieste di servizio | Dashboard: Richiesta di servizio > Richieste clienti |
+| Richieste di servizio: elenco clienti: interfaccia di amministrazione di Office 365 | Centro per i partner: Clienti > Amministra servizi |
+| Richieste di servizio: elenco di clienti: richieste di servizio | Centro per i partner: Richiesta di servizio > richieste clienti |
 | Richieste di servizio: Contrassegnate | Dasbhoard: Clienti: seleziona la stella accanto al nome della società |
-| Richiesta di servizio > Amministrazione clienti > Admin on behalf of (AOBO) | Dashboard: Clienti > seleziona un cliente > seleziona una sottoscrizione > seleziona il rivenditore del prodotto designato |
+| Richiesta di servizio > Amministrazione clienti > Admin on behalf of (AOBO) | Centro per i partner: Clienti > Seleziona un cliente > Seleziona una sottoscrizione > Seleziona il rivenditore di prodotti designato |
 

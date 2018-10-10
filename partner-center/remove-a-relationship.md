@@ -3,12 +3,12 @@ title: Rimuovere una relazione con un rivenditore o un cliente | Centro per i pa
 description: La rimozione di una relazione consente di rimuovere tutte le relazioni di business chiuse dalla vista nel Centro per i partner.
 author: KPacquer
 ms.localizationpriority: medium
-ms.openlocfilehash: 37b4866a4bdb0d2785581c71a329c236ab9a4d81
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: a647178ae75b52930cc8eab5258179ed27696912
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875511"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489737"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Rimuovere una relazione con un rivenditore o un cliente
 
@@ -26,11 +26,11 @@ Questa funzionalità:
 
 Per rimuovere la relazione, dovrai annullare le prenotazioni delle istanze riservate di Azure, annullare gli acquisti di software e sospendere in primo luogo qualsiasi sottoscrizione attiva rimanente:
 
-1.  Sospendi tutte le sottoscrizioni attive. Nel dashboard, vai a **Clienti** > seleziona un cliente > **Sottoscrizioni** > seleziona una sottoscrizione > **Sospesa**. 
+1.  Sospendi tutte le sottoscrizioni attive. Dal centro per i Partner, Vai a **clienti** > Seleziona un cliente > **sottoscrizioni** > Seleziona una sottoscrizione > **sospeso**. 
 
    Ripeti questo passaggio per ogni sottoscrizione.
 
-2.  Rimuovi la relazione nel Centro per i partner: nel dashboard, vai a **Clienti** > seleziona un cliente > **Account** > **Remove reseller relationship**.
+2.  Rimuovere la relazione nel centro per i Partner: dal centro per i Partner, Vai a **clienti** > Seleziona un cliente > **Account** > **rimuovere una relazione come rivenditore**.
 
     Se eventuali sottoscrizioni sono ancora attive, il collegamento **Remove reseller relationship** sarà inattivo. 
 

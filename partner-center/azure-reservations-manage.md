@@ -4,24 +4,24 @@ Description: Purchasing and managing Azure reservations on behalf of your custom
 author: v-petand
 keywords: Azure, prenotazioni, gestire, fatturazione, acquisto
 ms.localizationpriority: medium
-ms.openlocfilehash: 5025c32da86944f65c548a7e3ef6e61f7275522e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d2ade5ff37d98a5667df7016cff2044d5001c036
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877401"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489777"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gestire le prenotazioni di Microsoft Azure per conto del cliente
 
 **Ambito di applicazione:**
 
--  Dashboard del partner
+-  Centro per i partner
 -  Portale di Microsoft Azure
 -  Partner di CSP
 
-Per la gestione prenotazioni di Azure dopo l'acquisto dei tuoi clienti, dovrai selezionare il cliente e la prenotazione che desideri gestire nel dashboard del partner e quindi apportare le modifiche alla prenotazione nel portale di Azure. 
+Per gestire gli post-acquisti di prenotazioni di Azure dei tuoi clienti, verrà seleziona il cliente e la prenotazione che desideri gestire nel centro per i Partner e quindi apportare le modifiche alla prenotazione nel portale di Azure. 
 
-1. Per iniziare, seleziona **Clienti** dal menu Dashboard, quindi seleziona il cliente di cui desideri gestire le prenotazioni. 
+1. Per iniziare, seleziona **i clienti** dal menu del centro per i Partner e quindi seleziona il cliente di cui si desidera gestire le prenotazioni. 
 
 2. Dal menu della pagina dei dettagli del cliente seleziona **prenotazioni di Azure** e quindi seleziona la prenotazione specifica che desideri gestire.  
 
@@ -48,12 +48,12 @@ Uno scambio consente al cliente di ricevere un rimborso proporzionale sulla base
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Richiedere un rimborso o un cambio per conto di un cliente 
 
-Per archiviare una richiesta di supporto in merito a un rimborso o un cambio per conto di un cliente, dovrai selezionare il cliente e la prenotazione nel dashboard del partner e creare la richiesta di supporto nel portale di Azure. 
+Per archiviare una richiesta di supporto per un rimborso o un cambio per conto dei clienti, scoprirai seleziona il cliente e la prenotazione nel centro per i Partner e quindi creare la richiesta di supporto nel portale di Azure. 
 
 >[!NOTE]
 >Gli agenti del Supporto tecnico Microsoft potrebbero richiedere l'ID della prenotazione e l'ID dell'ordine di prenotazione. Puoi trovare queste informazioni nella pagina **Proprietà** della prenotazione nel portale di Azure. 
 
-1. Per iniziare, seleziona **Clienti** dal menu Dashboard, quindi seleziona il cliente che desidera un rimborso. 
+1. Per iniziare, seleziona **i clienti** dal il l'il menu del centro per i Partner e quindi seleziona il cliente che desidera un rimborso. 
 
 2. Nella pagina dei dettagli del cliente, seleziona **Prenotazioni di Azure**, quindi seleziona la prenotazione specifica che il cliente desidera farsi rimborsare.  
 
@@ -71,7 +71,7 @@ Per archiviare una richiesta di supporto in merito a un rimborso o un cambio per
 |**Per informazioni su**   |**Leggi**    |
 |:-----------------------------|:-----------------|
 |Panoramica delle prenotazioni di Azure in CSP  | [Vendere istanze prenotate Microsoft Azure](azure-reservations.md) |
-|Acquisto di prenotazioni di Azure per i clienti nel dashboard del partner   |[Acquistare prenotazioni di Azure](azure-reservations-buying.md) |
+|Acquisto di prenotazioni di Azure per i clienti nel centro per i Partner   |[Acquistare prenotazioni di Azure](azure-reservations-buying.md) |
 |Determinare le dimensioni corrette della macchina virtuale e verificare l'utilizzo di macchine virtuali da parte dei clienti   |[Ridimensionamento della macchina virtuale per un utilizzo ottimale delle prenotazioni di Azure](azure-usage.md)   |
 |Acquisto di prenotazioni di Azure mediante l'API del Centro per i partner | [Acquisto di istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) nella documentazione per sviluppatori del Centro per i partner
 

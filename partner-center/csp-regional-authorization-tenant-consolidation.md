@@ -5,12 +5,12 @@ ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: migrazione dei clienti, provisioning, account tenant, consolidamento dei tenant
 ms.localizationpriority: medium
-ms.openlocfilehash: 7301786b62169da72f52cf26dd4ad8c755367ff4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b5506927a8786665c55e6e68b2f81bdc6cdf73c1
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875981"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489667"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidamento dei tenant per l'autorizzazione regionale per CSP
 
@@ -31,14 +31,14 @@ Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche divers
 ## <a name="prepare-for-migration"></a>Prepararsi per la migrazione
 
 
--   Accedi al **dashboard del partner** con l'account di **transizione** esistente (l'account da cui esegui la migrazione) e prendi nota di tutti i clienti e di tutti i servizi di cui è stato effettuato il provisioning per tali clienti.
+-   Accedi al tuo **Centro per i Partner** con la **transizione** (esistente) (l'account è trasferiscono) e Prendi nota di tutti i clienti e tutti i servizi effettuato il provisioning per tali clienti.
 
 ![elenco dei clienti regionali](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>Eseguire la migrazione degli account dei clienti
 
 
-1.  Accedi al **dashboard del partner** con il nuovo account di **transizione** (l'account verso cui esegui la migrazione) e passa all'elenco dei clienti da **Clienti**.
+1.  Accedi al tuo **Centro per i Partner** con la **transizione** (nuovo) (l'account durante la transizione in) e passa all'elenco dei clienti dei **clienti**.
 
 2.  Seleziona Clienti.
 
@@ -55,7 +55,7 @@ I clienti verranno visualizzati nell'elenco dei clienti del partner dopo l'invio
 
 1.  Quando il cliente ha accettato il contratto, puoi ricreare le sue sottoscrizioni nel tuo tenant partner centralizzato.
 
-2.  Seleziona **Clienti** dal menu **Dashboard**.
+2.  Seleziona **i clienti**nel **Centro per i Partner** .
 
 3.  Apri il nome dell'azienda per il cliente di cui vuoi eseguire la migrazione.
 
@@ -82,7 +82,7 @@ Prima di procedere alla sezione successiva, verifica che sia stato eseguito di n
 
 La disabilitazione della sottoscrizione CSP negli account partner di **origine della transizione** interrompe eventuali fatturazioni future. Non devi disabilitare manualmente le sottoscrizioni di Azure, perché le sottoscrizioni di Azure vengono disabilitate automaticamente durante il processo di migrazione.
 
-1.  Accedi al **dashboard** con l'account CSP di **origine della transizione** e passa all'elenco dei clienti.
+1.  Accedi al **Centro per i Partner** con l'account CSP **Transizione** e passa all'elenco dei clienti.
 
 2.  Apri il cliente con le sottoscrizioni da disabilitare e quindi seleziona la prima offerta da disabilitare.
 3.  Imposta la sottoscrizione come **sospesa** e quindi fai clic su **Invia**.
@@ -130,7 +130,7 @@ Nota che non è necessario eseguire manualmente la migrazione delle sottoscrizio
 
 La **funzione di esportazione** consente di recuperare le sottoscrizioni che devi usare nella nuova struttura consolidata:
 
-1.  Fai clic su **Clienti** nel tuo dashboard per visualizzare l'elenco dei clienti nella struttura esistente.
+1.  Fai clic su **i clienti** nel centro per i Partner per visualizzare l'elenco dei clienti nella struttura esistente.
 
 2.  Apri il nome del cliente desiderato.
 

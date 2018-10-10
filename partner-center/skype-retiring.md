@@ -4,12 +4,12 @@ Description: Skype for Business Online Plan 1 subscriptions is retiring.
 Author: labrenne
 keywords: Piani di Skype for Business, ritiro di Skype, Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 82bafe918ba56fd834b1b468d6b787d52d2b90cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875461"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489807"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrare le sottoscrizioni di Skype for Business online piano 1 verso versioni più nuove di Office 365
 
@@ -51,13 +51,13 @@ Microsoft offre continuamente nuovi prodotti e servizi ai suoi partner. In quest
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Eseguire la migrazione dei clienti verso nuovi piani
 
-1. Per acquistare la nuova sottoscrizione, nel **menu Dashboard** seleziona **Clienti**, quindi il cliente di cui desideri eseguire la migrazione e infine **Aggiungi sottoscrizioni**.
+1. Per acquistare la nuova sottoscrizione, nel **menu del centro per i Partner**, seleziona **i clienti**, seleziona il cliente che si desidera spostare e quindi seleziona **Aggiungi sottoscrizioni**.
 
 2. Seleziona l'abbonamento che vuoi acquistare dal catalogo (in questo caso, una delle opzioni precedenti), immetti il numero di licenze e quindi seleziona **Invia**. 
 
 Il cliente dovrebbe disporre ora di sottoscrizioni sia nuove che precedenti, della precedente sottoscrizione Skype for Business online piano 1 e della nuova sottoscrizione "di destinazione", ad esempio Opzione 1: Office 365 Enterprise F1.
 
-3. Per riassegnare le licenze degli utenti del cliente, dal menu **Dashboard** seleziona **Clienti**, quindi il cliente che desideri spostare e infine **Utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
+3. Per riassegnare le licenze degli utenti del cliente, il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente si spostano e quindi seleziona **gli utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
 
 4. Per riassegnare la licenza utente, seleziona l'utente da riassegnare e quindi seleziona **Gestisci licenze**.
 
@@ -67,7 +67,7 @@ Il cliente dovrebbe disporre ora di sottoscrizioni sia nuove che precedenti, del
 
 Dopo aver spostato le licenze utente al nuovo servizio, puoi tranquillamente annullare la sottoscrizione ritirata al livello del cliente.
 
-7. Nel menu **Dashboard** seleziona **Clienti**. Seleziona il cliente di cui stai annullando la sottoscrizione.
+7. Dal menu di **Centro per i Partner** , seleziona **i clienti**. Seleziona il cliente di cui stai annullando la sottoscrizione.
 
 8. Nella pagina dei dettagli della sottoscrizione imposta lo stato su **Sospeso**.
 

@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: sottoscrizione di azure, cambiare partner, sostituire partner, ottenere nuovo partner, partner diverso
 ms.localizationpriority: medium
-ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
-ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
+ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "3966158"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488967"
 ---
 # <a name="transfer-azure-subscriptions"></a>Trasferire le sottoscrizioni Azure 
 
@@ -21,7 +21,7 @@ ms.locfileid: "3966158"
 Un cliente può decidere di passare a un partner Cloud Solution Provider o a un altro partner per i servizi di Microsoft Azure. Si tratta, tuttavia, di un processo manuale che richiede l'intervento sia del partner che del cliente.
 
 >[!Note]  
->In questo momento solo diretto o indiretto i provider sono in grado di trasferire le sottoscrizioni.
+>In questo momento solo Direct o i provider indiretti sono in grado di trasferire le sottoscrizioni.
 
 >[!Note] 
 >Non è attualmente possibile cambiare partner per le sottoscrizioni Cloud Solution Provider per Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
@@ -39,7 +39,7 @@ Un cliente può decidere di passare a un partner Cloud Solution Provider o a un 
 
     Creare un ticket di servizio Azure dal Centro per i partner per richiedere un trasferimento della sottoscrizione:
 
-    -   Nel menu Dashboard seleziona **Clienti**, seleziona il cliente nell'elenco e quindi seleziona **Gestione servizi**. Nella sezione **Ticket di supporto** seleziona l'elenco a discesa **Nuovo ticket** e scegli **Microsoft Azure**.
+    -   Il menu del centro per i Partner seleziona **i clienti**, seleziona il cliente nell'elenco e quindi seleziona **la gestione dei servizi**. Nella sezione **Ticket di supporto** seleziona l'elenco a discesa **Nuovo ticket** e scegli **Microsoft Azure**.
 
     -   Nel portale di Azure seleziona **Nuova richiesta di supporto**.
 

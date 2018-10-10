@@ -4,12 +4,12 @@ description: Valutare, negoziare e rispondere alle segnalazioni tramite il Centr
 author: KPacquer
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: def007588180904b929cd568b43a04548e574cd6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2eae340cdd0b2418b8498f69ea4fd17d76a30b58
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875361"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489337"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analizzare l'efficacia del profilo di lavoro
 <!-- 
@@ -26,7 +26,7 @@ Dopo avere registrato il [profilo di lavoro](create-a-marketing-profile.md) dell
 
 Quando inizi a [rispondere a queste segnalazioni](responding-to-referrals.md), inizierai a ricevere i dati che indicano quante di tali richieste di informazioni stanno diventando opportunità aziendali di successo.
 
-Utilizza questi report quando perfezioni i profili di lavoro per generare più lead e aumentare il numero di lead rilevanti. I dati mostrano le prestazioni del profilo, analizzano le tendenze e identificano le aree che richiedono un'azione. Nel dashboard del partner passa a **Segnalazioni > Marketing**.
+Utilizza questi report quando perfezioni i profili di lavoro per generare più lead e aumentare il numero di lead rilevanti. I dati mostrano le prestazioni del profilo, analizzano le tendenze e identificano le aree che richiedono un'azione. Dal menu di Centro per i Partner, Vai a **segnalazioni > Marketing pagine**.
 
 Questi report mostrano le prestazioni dei profili di lavoro per tutte le aree geografiche. I report mostrano i dati degli ultimi 90 giorni, raggruppati per settimane.
 

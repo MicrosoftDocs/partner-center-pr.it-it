@@ -5,12 +5,12 @@ ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 103fb80729c82287136dd3f006cc514d795a91be
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: effdae8468e30be689acc265d9ae64b5d93c93ef
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874851"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489107"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
@@ -21,21 +21,21 @@ ms.locfileid: "2874851"
 -  Centro per i partner per Microsoft Cloud Germania
 -  Partner CSP
 
-Dopo aver creato un record del cliente nel dashboard del partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo.
+Dopo aver creato un record del cliente nel centro per i Partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo.
 
-Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elenco delle offerte limitate, visita la pagina Prezzi e offerte del dashboard del partner. 
+Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elenco delle offerte limitate, visita la pagina Prezzi e offerte del Centro per i partner. 
 
 
 **Creare una nuova sottoscrizione**
 
-1.  Nel menu **Dashboard** seleziona **Clienti** e quindi scegli un cliente nell'elenco.
+1.  Il menu del **Centro per i Partner** seleziona **i clienti**, quindi scegli un cliente nell'elenco.
 
 2.  Seleziona **Nuova sottoscrizione**.
 
 3.  Seleziona il tipo di fatturazione della sottoscrizione che vuoi usare.  Vedi [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md) per le informazioni che ti aiutano a decidere tra la frequenza di fatturazione mensile e annuale.
  
  >[!Note]
- >Offrire ai clienti le sottoscrizioni di valutazione. I prodotti disponibili per la versione di valutazione sono sotto la scheda della versione di valutazione nel catalogo. Vedi [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+ >È possibile offrire ai clienti le sottoscrizioni di valutazione. I prodotti disponibili per la versione di valutazione sono sotto la scheda della versione di valutazione nel catalogo. Vedi [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
  
 4. Dopo aver selezionato la frequenza di fatturazione, seleziona i prodotti per che cui vuoi le sottoscrizioni nel catalogo. La disponibilità dei prodotti dipende dal tipo di cliente (formazione, enti pubblici e così via) e dalla frequenza di fatturazione che è stata selezionata. Se un prodotto non è disponibile, è possibile che il cliente dispone già di una sottoscrizione per il prodotto ed è consentita una sola opzione. In alternativa, è possibile che hai sospeso la sottoscrizione e nel qual caso puoi riattivarla invece di acquistarne una nuova.
@@ -54,7 +54,7 @@ Quando cambi lo stato di una sottoscrizione in **Sospesa**, gli utenti non posso
 
 **Sospendere una sottoscrizione**
 
-1.  Nel menu **Dashboard** seleziona **Clienti** e quindi scegli un cliente nell'elenco.
+1.  Il menu del **Centro per i Partner** seleziona **i clienti**, quindi scegli un cliente nell'elenco.
 2.  Scegli la sottoscrizione che vuoi gestire.
 3.  Nella sezione **Stato** scegli **Sospeso**. Fai quindi clic su **Invia** per inviare le modifiche.
 4.  Verranno eliminati tutti i dati, a meno che la sottoscrizione venga riattivata entro 90 giorni, o 90 giorni più il numero di giorni tra il momento in cui che l'account è stato aperto e il primo periodo di fatturazione (massimo 120 giorni).

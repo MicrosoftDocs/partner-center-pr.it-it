@@ -4,12 +4,12 @@ description: Microsoft introduce Dynamics 365, la nuova generazione di applicazi
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a8aaf2591b6a67114da7d2226dde7bf94dd06b0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876301"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489787"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrazione delle sottoscrizioni Dynamics AX a Dynamics 365
 
@@ -78,7 +78,7 @@ In questo esempio, il rivenditore deve trasferire un cliente con una sottoscrizi
 
 **Acquista la nuova sottoscrizione**
 
-1.  Nel menu **Dashboard** seleziona **Clienti**, seleziona il cliente di cui eseguire la migrazione e quindi scegli **Aggiungi sottoscrizioni**.
+1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente che si desidera spostare e scegli **Aggiungi sottoscrizioni**.
 2.  Seleziona la sottoscrizione che vuoi acquistare dal catalogo (in questo caso Dynamics 365 for Operations, Enterprise Edition), immetti il numero di licenze e scegli **Invia**.
 
     Il cliente a questo punto dovrebbe avere sia la sottoscrizione nuova che quella precedente, in questo esempio la vecchia sottoscrizione Dynamics AX Enterprise e la nuova sottoscrizione di destinazione, Dynamics 365 for Operations, Enterprise Edition.
@@ -87,7 +87,7 @@ In questo esempio, il rivenditore deve trasferire un cliente con una sottoscrizi
 
 **Riassegnare le licenze utente**
 
-1.  Nel menu **Dashboard** seleziona **Clienti**, seleziona il cliente di cui eseguire la migrazione e quindi scegli **Utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
+1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente che si desidera spostare e scegliere **gli utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
 2.  Per riassegnare le licenze utente, seleziona l'utente da riassegnare e quindi seleziona **Gestisci licenze**.
 3.  Nella pagina **Gestisci licenze** deseleziona la casella di controllo della licenza **Dynamics AX Enterprise** e seleziona la licenza **Dynamics 365 for Operations**.
 4.  Seleziona **Invia**. Le nuove assegnazioni di licenza vengono visualizzate in una pagina di conferma.
@@ -97,7 +97,7 @@ In questo esempio, il rivenditore deve trasferire un cliente con una sottoscrizi
 
 **Annullare la sottoscrizione precedente**
 
-1.  Nel menu **Dashboard** seleziona **Clienti**, seleziona il cliente di cui eseguire la migrazione e quindi seleziona la sottoscrizione che vuoi annullare.
+1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente che si desidera spostare e seleziona la sottoscrizione che vuoi annullare.
 2.  Nella pagina dei dettagli della sottoscrizione imposta lo **Stato** della sottoscrizione su **Sospeso**.
 3.  Seleziona **Invia**.
 

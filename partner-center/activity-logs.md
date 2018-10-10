@@ -5,12 +5,12 @@ ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: c441e8c78886fa53152b85bcfff98a1c6765862a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875901"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488647"
 ---
 # <a name="view-customer-activity-logs"></a>Visualizzare i log attività dei clienti
 
@@ -27,7 +27,7 @@ I log attività includono record relativi alle azioni dei partner sugli account 
 
 **Visualizzare ed esportare i log attività**
 
-1.  Nel menu **Dashboard** seleziona **Log attività**.
+1.  Il menu del **Centro per i Partner** seleziona **Log attività**.
 2.  Seleziona il periodo del log attività nei campi **Da** e **a**. Per impostazione predefinita, l'esportazione del log attività include l'ultimo mese.
 
     Ogni log attività include un link alla pagina **Sottoscrizioni** del cliente elencato.

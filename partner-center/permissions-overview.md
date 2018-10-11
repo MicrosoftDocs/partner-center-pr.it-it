@@ -1,15 +1,15 @@
 ---
 title: Assegnare ruoli agli utenti e le autorizzazioni | Centro per i partner
-description: Ogni dipendente che dovrà lavorare nel centro per i Partner deve essere assegnato un ruolo.
+description: Tutti i dipendenti che devono lavorare nel centro per i Partner devono essere assegnato un ruolo.
 author: labrenne
-keywords: ruoli, autorizzazioni, amministratore, agente
+keywords: ruoli, autorizzazioni, amministratore, l'agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 31ee676b9025edb82b155f64b9b2f44a3873c38c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: be506932a445c427bc3d4249bcab3f07ee1b14ff
+ms.sourcegitcommit: 820ec1ca260b185980ad53f103b95d79eb2c21c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489487"
+ms.lasthandoff: 10/11/2018
+ms.locfileid: "4528368"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Assegnare le autorizzazioni e ruoli degli utenti
 
@@ -19,7 +19,7 @@ ms.locfileid: "4489487"
 
 Ogni ruolo nel centro per i Partner viene fornito con alcune autorizzazioni se un utente è autorizzato a eseguire attività specifiche. Tutti gli utenti che funziona nel centro per i Partner deve essere assegnato un ruolo.
 
-A seconda delle dimensioni dell'organizzazione alcuni utenti potrebbero funzionare in sedi o solo per una posizione. 
+A seconda delle dimensioni dell'organizzazione alcuni utenti potrebbero funzionare in sedi o solo per un'unica posizione. 
 
 Ad esempio:
 
@@ -97,18 +97,18 @@ Per una panoramica dei ruoli e autorizzazioni, leggere [creare gli account utent
 <td><p><strong>Account amministratore</strong></p></td>
 <td><ul>
 <li><p>Creare nuove posizioni</p></li>
-<li><p>Registrare posizioni in programmi (eccezioni sono CSP e programmi di rivenditore indiretto)</p></li>
+<li><p>Eseguire la registrazione posizioni in programmi (eccezioni sono CSP e programmi per i rivenditori indiretti)</p></li>
 <li><p>Gestire i profili correlati agli account posizione che amministrano</p></li>
-<li><p>Assegna agli utenti: amministratore MPN, amministratore del profilo di lavoro, amministratore dei riferimenti, amministratore di incentivi, ruoli utente legato a incentivo</p></li>
+<li><p>Assegna a utenti: amministratore MPN, amministratore del profilo di lavoro, amministratore dei riferimenti, amministratore di incentivi, ruoli utente legato a incentivo</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Amministratore di incentivi</strong></p></td>
 <td><ul>
 <li><p>Assegnare ruoli di incentivi</p></li>
-<li><p>Avvia e gestisce attestazioni di incentivi</p></li>
+<li><p>Avvia e gestisce le attestazioni di incentivi</p></li>
 <li><p>Può visualizzare e modificare tutti gli aspetti di programmi di incentivi</p></li>
-<li><p>Visualizzare i dettagli bancari e fiscali</p></li>
+<li><p>Può visualizzare e modificare i dettagli bancari e fiscali</p></li>
 <LI><p>Visualizzazione sconti e utili in collaborazione</p></li>
 <LI><p>Supporto per l'accesso</p></li>
 <LI><p>Pagamenti degli incentivi controversie</p></li>

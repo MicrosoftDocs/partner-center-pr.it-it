@@ -4,12 +4,12 @@ Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
 keywords: Azure, prenotazioni, gestire, fatturazione, acquisto, Azure RI, istanze riservate di Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: c580553aa484611790b2c83bab968025c0bb1379
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
+ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489757"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4658117"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>Vendere istanze prenotate Microsoft Azure 
 
@@ -19,15 +19,16 @@ ms.locfileid: "4489757"
 -  Portale di Microsoft Azure
 -  Partner di CSP
 
-I partner nel programma Cloud Solution Provider (CSP) possono offrire ai clienti riservato istanze di Microsoft Azure. I clienti possono ottenere un risparmio significativo prenotando anticipatamente. Istanze riservate di Azure offrono ai clienti flessibilità e semplicità nei modi seguenti:
+I partner nel programma Cloud Solution Provider (CSP) possono offrire ai clienti istanze di Microsoft Azure prenotate. I clienti possono ottenere un risparmio significativo prenotando anticipatamente. Istanze riservate di Azure offrono ai clienti flessibilità e semplicità nei modi seguenti:
 
 -   Condizioni di prenotazione di uno o tre anni 
--   Semplice iniziare a; Installazione completata in pochi secondi 
+-   Facile da iniziare a; Installazione completata in pochi secondi 
 -   Annullamento o modifica di istanze riservate in qualsiasi momento per un rimborso rettificato 
 -   Gestire l'utilizzo di istanze riservate a livello di organizzazione o di singolo reparto 
 
 > [!NOTE]  
-> Istanze riservate di Azure non sono disponibili nei mercati seguenti:  
+> Prenotazioni di Azure non sono attualmente disponibili nei mercati seguenti:
+  
 > * Argentina
 > * Azerbaigian
 > * Belarus

@@ -4,20 +4,22 @@ description: Attraverso l'introduzione di istanze riservate di Azure e sottoscri
 author: v-petand
 keywords: Azure, sottoscrizioni, VM, prenotazione, istanza riservata
 ms.localizationpriority: medium
-ms.openlocfilehash: e600102f4323cfe84538633ce07224f4331f0512
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 53a6276b1979df3655b946c979d3ee354a827abb
+ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875921"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4658127"
 ---
+<!-- Mike Aasen wrote and owns this topic -->
+
 # <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Istanze di macchina virtuale riservate di Azure (RI) + sottoscrizioni server per Azure
 
 **Ambito di applicazione:**
 
 -  Centro per i partner
  
-Sono disponibili tramite il programma Cloud Solution Provider (CSP) di Microsoft Azure istanze di macchina virtuale riservate (RI) e ora di Windows Server e SQL Server sottoscrizioni (vedi [annuncio](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/?ln=en-us)). 
+Sono disponibili tramite il programma Cloud Solution Provider (CSP) di Microsoft Azure istanze di macchina virtuale riservate (RI) e ora Windows sottoscrizioni Server e SQL Server (vedere [annuncio](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/?ln=en-us)). 
 
 Con l'introduzione delle istanze riservate di Azure e delle sottoscrizioni server nel programma CSP, Microsoft consente ai propri partner di far fronte alla richiesta in rapida crescita dei clienti di soluzioni più convenienti, in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. Il programma CSP consente ai partner di acquisire, fornire e gestire sottoscrizioni server e istanze riservate di Azure per conto dei clienti commerciali tramite il Centro per i partner Microsoft e il portale di Azure.  
  
@@ -45,7 +47,7 @@ Grazie ai prezzi interessanti e a una flessibilità di distribuzione ineguagliab
  
 ### <a name="why-is-this-announcement-good-news-for-microsoft-partners"></a>Perché questo annuncio rappresenta una buona notizia per i partner Microsoft? 
 
-Introducendo istanze di macchina virtuale riservate di Azure e sottoscrizioni Server con il vantaggio Azure Hybrid in CSP, Microsoft consente ai partner di incrementare le soluzioni cloud mediante l'utilizzo a basso costo macchine virtuali di Azure e software server di destinazione e win più persistenti carichi di lavoro cloud. Fino a ora, i partner CSP sono stati in grado di vendere solo macchine virtuali di Azure con pagamento in base al consumo e dovevano utilizzare altri programmi di licenza per acquisire sottoscrizioni software per Windows Server e SQL Server.  
+Introducendo istanze di macchina virtuale riservate di Azure e sottoscrizioni Server con il vantaggio Azure Hybrid in CSP, Microsoft consente ai partner di incrementare le soluzioni cloud mediante l'utilizzo a basso costo macchine virtuali di Azure e software server di destinazione e win più persistenti cloud carichi di lavoro. Fino a ora, i partner CSP sono stati in grado di vendere solo macchine virtuali di Azure con pagamento in base al consumo e dovevano utilizzare altri programmi di licenza per acquisire sottoscrizioni software per Windows Server e SQL Server.  
 
 Il modello aziendale per i partner, su cui si basa la gestione delle licenze per istanze di macchina virtuale riservate di Azure e sottoscrizioni server al livello del cliente, fornisce la prevedibilità dei costi e migliora la scalabilità che semplifica il processo di vendita. I partner non dovranno distribuire ai clienti processi e strumenti complessi per l'acquisizione, la gestione e la determinazione del prezzo delle istanze riservate. Questo consentirà loro di dedicare più tempo ai clienti e di espandere il loro portafoglio di soluzioni cloud a valore aggiunto per la gestione IT. 
 
@@ -71,7 +73,7 @@ Di seguito è riportato un elenco completo delle risorse che ti consentiranno di
 -   [Prenotazioni di Azure + sottoscrizioni server con presentazione della panoramica del vantaggio Azure Hybrid](https://www.yammer.com/cloudpartnercommunity/#/files/133462305)
 -   [Sottoscrizioni server con presentazione della panoramica del vantaggio Azure Hybrid](https://www.yammer.com/cloudpartnercommunity/#/files/141644181)
 -   [Webinar della panoramica sulle prenotazioni di Azure](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
--   [Le sottoscrizioni server nel CSP (parte 2) Webinar](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July) – parte 2 di webinar della panoramica sulle prenotazioni di Azure, questa sessione di esecuzione più approfondita nei vantaggi della vendita di sottoscrizioni Server nel programma CSP.  È incluso un riepilogo dei vantaggi dei clienti di istanze riservate, informazioni sulle sottoscrizioni Server disponibili, utilizzare i diritti di sottoscrizioni Server e sottoscrizioni Server transazioni in CSP.
+-   [Le sottoscrizioni server in CSP (parte 2) Webinar](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July) -parte 2 di webinar della panoramica sulle prenotazioni di Azure, questa sessione di esecuzione più approfondita nei vantaggi della vendita di sottoscrizioni Server nel programma CSP.  È incluso un riepilogo dei vantaggi dei clienti di istanze riservate, informazioni sulle sottoscrizioni Server disponibili, utilizzare i diritti di sottoscrizioni Server e transazioni sottoscrizioni Server nel programma CSP.
 -   (Aggiornato) [Guida operativa di e-Commerce moderno](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx): Guida completa che e criteri chiave aspetti operativi come accordi, ordini tramite il centro per i Partner, fatturazione, prezzo i dettagli dell'elenco, gli incentivi, file di riconciliazione, API/SDK, Sandbox e Azure Servizi condivisi per i partner.
 -   (Aggiornato) [Foglio illustrativo sulla vendita](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
 -   [Disponibilità nel paese di offerte moderne e matrice di valuta cliente](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)

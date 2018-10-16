@@ -4,14 +4,14 @@ Description: Buy Azure reservations on behalf of customers in Partner Center.
 author: v-petand
 keywords: Azure, prenotazioni, gestire, fatturazione, acquisto
 ms.localizationpriority: medium
-ms.openlocfilehash: e318331f779052dedb9fe7ee25351dc66b14b463
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 79c6fcfea47787165e958096f23bc14a97b9b85c
+ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488767"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4658107"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-the-partner-center"></a>Acquistare le prenotazioni di Microsoft Azure per conto dei clienti nel centro per i Partner 
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare le prenotazioni di Microsoft Azure per conto dei clienti nel centro per i Partner 
 
 **Ambito di applicazione**
 
@@ -26,29 +26,38 @@ Segui i passaggi qui sotto per acquistare le prenotazioni di Microsoft Azure per
 2. Nella pagina **Clienti** trova il cliente che desidera acquistare prenotazioni di Azure, quindi seleziona la freccia giù per espandere la riga del cliente.  
 
 3. Seleziona **Aggiungi prodotti** e quindi seleziona **Azure**. 
-    
-4. Le prenotazioni di Azure devono essere associate a una sottoscrizione di Azure attiva. Seleziona la sottoscrizione del cliente a cui desideri aggiungere prenotazioni di Azure. Viene visualizzato un elenco delle istanze riservate di Azure disponibili. 
+
+    a. Scegli il segmento di mercato del cliente nell'elenco di **segmento** .
+
+    b. Scegli **le prenotazioni** nell'elenco di **tipo di** prodotto.
+
+    c. Scegli il tipo di prenotazione che il cliente desidera nell'elenco di **tipo prenotazioni** .
+
+4. Le prenotazioni di Azure devono essere associate a una sottoscrizione di Azure attiva. Scegli la sottoscrizione del cliente che vuoi aggiungere prenotazioni di Azure dall'elenco delle **sottoscrizioni dei clienti** . 
 
     >[!IMPORTANT] 
-    >Se il cliente non dispone già di una sottoscrizione di Azure, seleziona **servizi Online** per aggiungerne una. 
+    >Se il cliente non dispone già di una sottoscrizione di Azure attiva, selezionare i **servizi Online** per aggiungerne una. 
 
 5. Utilizzare i filtri per trovare le istanze riservate che soddisfano i requisiti del cliente.  
 
-6. Dopo aver individuato le istanze riservate che si desiderano acquistare, Immetti il numero di istanze riservate il cliente sarà necessario nella **quantità** e quindi seleziona **Aggiungi al carrello**.  
+6. Dopo aver individuato il prenotazioni che vuoi acquistare, Immetti il numero di istanze riservate il cliente sarà necessario nella **quantità** e quindi seleziona **Aggiungi al carrello**.  
 
 7. Ripeti i passaggi da 5 a 6 finché non vengono aggiunti tutti gli elementi necessari per l'ordine. Seleziona **Rivedi** per verificare che il tuo ordine sia corretto.  
 
-8. Nella pagina **Rivedi i tuoi ordini** , è possibile: 
+8. Nella pagina **Rivedi i tuoi ordini** , puoi: 
 
     a. Verificare o modificare la quantità di istanze riservate.
 
-    b. Seleziona l'ambito della prenotazione. L'ambito della prenotazione è sufficiente a coprire una o più sottoscrizioni (ambito condiviso). Se selezioni una singola sottoscrizione, lo sconto prenotazione viene applicato a solo la sottoscrizione. Se selezioni condiviso, lo sconto prenotazione viene applicato a qualsiasi sottoscrizione nel contesto di fatturazione del cliente. 
+    b. Seleziona l'ambito della prenotazione. L'ambito della prenotazione è sufficiente a coprire una o più sottoscrizioni (ambito condiviso). Se definire l'ambito la prenotazione a una singola sottoscrizione, lo sconto prenotazione viene applicato a solo la sottoscrizione. Se selezioni condiviso, lo sconto prenotazione viene applicato a qualsiasi sottoscrizione nel contesto di fatturazione del cliente. 
+
+     >[!NOTE]
+    >Se scegli di limitare l'ambito della prenotazione a una singola sottoscrizione Azure, potresti dover aumentare la quota vCPU della sottoscrizione. Per aumentare la quota vCPU della sottoscrizione, dovrai creare una richiesta di supporto nel portale di Azure. Segui le istruzioni [in questo argomento](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) per creare la richiesta.    
 
     c. Se sei un partner provider, seleziona il rivenditore che vuoi associare il prodotto.
 
-9. Seleziona **Acquista** per acquistare l'ordine. 
-
-    I dettagli dell'ordine, incluso il numero d'ordine, vengono visualizzati nella pagina successiva. Seleziona **Fatto** per passare alla pagina **Cronologia ordini**. 
+9. Seleziona **Acquista** per acquistare l'ordine. I dettagli dell'ordine, incluso il numero d'ordine, vengono visualizzati nella pagina di **Conferma** .    
+     
+     Seleziona **Fatto** per passare alla pagina **Cronologia ordini**. 
 
 >[!IMPORTANT]
 >Se non lo hai già fatto, trova il cliente nella pagina **clienti** e quindi seleziona la freccia giù per espandere la riga del cliente. Seleziona **Portale di gestione di Microsoft Azure** per aprire il record del cliente nel portale di Azure.

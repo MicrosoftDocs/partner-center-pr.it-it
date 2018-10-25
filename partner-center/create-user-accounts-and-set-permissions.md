@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b05a46f7dd9cb4cd2c5621610d55264c4ff3701
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 6308391b632ea61679a23fb56be2e351681e6e59
+ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489837"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5541473"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Creare account utente e assegnare le autorizzazioni
 
@@ -29,7 +29,7 @@ Creare account utente per i dipendenti che richiedono l'accesso al centro per i 
 
 3.  Immetti il nome completo e l'indirizzo di posta elettronica univoco dell'utente.
 
-4.  Seleziona il tipo di agente e/o il tipo di amministratore da assegnare all'utente. L'accesso al Centro per i partner è basato sui ruoli, pertanto puoi assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche.  Se gli utenti desiderano un'assegnazione di ruolo, è possibile trovare gli amministratori di account per contattarti passando alla **gestione degli utenti** e il filtro su account amministratore.
+4.  Seleziona il tipo di agente e/o il tipo di amministratore da assegnare all'utente. L'accesso al Centro per i partner è basato sui ruoli, pertanto puoi assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche.  Se gli utenti desiderano un'assegnazione di ruolo, è possibile trovare gli amministratori account contattare passando alla **gestione degli utenti** e il filtro su account amministratore.
 
 5.  Seleziona **Aggiungi** per creare l'account utente. Verifica i dettagli dell'utente nella pagina successiva.
 
@@ -47,7 +47,7 @@ L'accesso al Centro per i partner è basato sui ruoli. Pertanto le autorizzazion
 
 Per lavorare nel centro per i Partner, è necessario disporre di un ruolo assegnato.  Esistono due tipi generali dei ruoli: gli amministratori e gli agenti.
 
-- Autorizzazioni di amministratore controllano il livello di accesso che l'utente ha alle funzionalità di Centro per i Partner. Questa impostazione ha un impatto di fuori di Centro per i Partner, in quanto un amministratore della fatturazione può accedere alle fatture per tutti i servizi Microsoft (anche quelli non correlato ai CSP) e un amministratore globale può accedere agli account utente e dei clienti oltre CSP anche.
+- Le autorizzazioni di amministratore controllano il livello di accesso che l'utente ha alle funzionalità di Centro per i Partner. Questa impostazione ha un impatto di fuori di Centro per i Partner, in quanto un amministratore della fatturazione può accedere alle fatture per tutti i servizi Microsoft (anche quelli non correlato ai CSP) e un amministratore globale può accedere agli account utente e dei clienti oltre CSP anche.
 
 - Le autorizzazioni dell'agente controllano il tipo di dati dei clienti e le informazioni sull'account che l'utente può visualizzare e modificare.
     
@@ -61,13 +61,13 @@ Le categorie generali dei ruoli sono:
 All'interno di ognuna di queste categorie generali, un utente può avere un solo ruolo, ma lo stesso utente può avere ruoli nelle altre categorie generali. 
 
 >[!Important]
->Gli utenti devono essere assegnati ad almeno un ruolo per lavorare nel centro per i Partner.
+>Gli utenti devono essere elencati nel tuo tenant per accedere al centro per i Partner. Le assegnazioni di ruolo consentono l'accesso aggiuntivo.
 
 
 ### <a name="find-your-global-admin"></a>Trova il tuo amministratore globale
 
 A volte un utente potrebbe essere necessario disporre del ruolo modificato o un nuovo utente potrebbe voler un'assegnazione di ruolo specifico.  
-Per trovare un amministratore globale può apportare modifiche ai ruoli o Assegna ruoli a un nuovo utente, **icona Impostazioni** nella parte superiore a destra del centro per i Partner, seleziona **gestione degli utenti** e filtrare amministratore globale. 
+Per trovare un amministratore globale può apportare modifiche ai ruoli o Assegna ruoli a un nuovo utente, dall' **icona Impostazioni** nella parte superiore a destra del centro per i Partner, seleziona **gestione degli utenti** e filtrare amministratore globale. 
 
 Per informazioni specifiche sui ruoli e le operazioni che ogni ruolo può eseguire, vedi [assegnare le autorizzazioni utente](permissions-overview.md).
 

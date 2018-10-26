@@ -4,12 +4,12 @@ description: Attraverso l'introduzione di istanze riservate di Azure e sottoscri
 author: v-petand
 keywords: Azure, sottoscrizioni, VM, prenotazione, riservato istanza
 ms.localizationpriority: medium
-ms.openlocfilehash: a29e9b5b6de186f44a9e4c79baf8bfab4e47018a
-ms.sourcegitcommit: 8a189ccdbdaf5a75bab67c77c6a5a5338e63ca89
+ms.openlocfilehash: 4880e74519be2d334b3782c089790bcc89f18462
+ms.sourcegitcommit: c702328f342401e7baed501a14cd7c85077da7d1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "5460086"
+ms.lasthandoff: 10/26/2018
+ms.locfileid: "5591917"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -65,12 +65,10 @@ Di seguito è riportato un elenco completo delle risorse che ti consentiranno di
 
 **Preparazione vendita**
 
-- [Sottoscrizioni server con panoramica del vantaggio Azure Hybrid](https://www.yammer.com/cloudpartnercommunity/#/files/141644181) Aggiornato
-- [Foglio illustrativo sulla vendita](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Azure istanze di macchina virtuale riservate + domande frequenti sulle sottoscrizioni Server (aggiornato)](https://www.yammer.com/cloudpartnercommunity/)
-- [Per i partner domande frequenti per prenotazioni di Azure e database di SQL](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Prenotazioni di Azure e sottoscrizioni Server con panoramica del vantaggio Azure Hybrid (aggiornato)](http://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Foglio illustrativo sulla vendita](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
 - [Per i partner domande frequenti sulle prenotazioni di Azure (aggiornato)](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Per i partner domande frequenti per prenotazioni di Azure e database di SQL](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Database di SQL in Azure Panoramica (novità)](http://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Panoramica sui prezzi di Azure](https://azure.microsoft.com/pricing/#explore-cost)
 - [Calcolatrice dei prezzi di Azure](https://azure.microsoft.com/pricing/calculator/)

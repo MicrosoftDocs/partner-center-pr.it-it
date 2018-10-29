@@ -1,15 +1,18 @@
 ---
 title: Assegnare ruoli agli utenti e le autorizzazioni | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Ogni dipendente che dovrà lavorare nel centro per i Partner deve essere assegnato un ruolo.
 author: labrenne
+ms.author: labrenne
 keywords: ruoli, autorizzazioni, amministratore, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 71dfdb260fe6baac83c01fbf79e260470f875539
-ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
+ms.openlocfilehash: ad20423242868751665ddb40d204edd17eb8bc1e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2018
-ms.locfileid: "5541474"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795104"
 ---
 # <a name="assign-users-roles-and-permissions"></a><span data-ttu-id="18eb2-104">Assegnare autorizzazioni e ruoli utente</span><span class="sxs-lookup"><span data-stu-id="18eb2-104">Assign users roles and permissions</span></span>
 

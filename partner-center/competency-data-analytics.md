@@ -1,19 +1,22 @@
 ---
 title: Competenza di analisi dei dati
+ms.topic: article
+ms.date: 10/29/2018
 description: Se l'organizzazione si occupa di esaminare i dati che consentono ai clienti di individuare informazioni più approfondite, elaborare previsioni o generare consigli, quindi la competenza di analisi dei dati offre una piattaforma per creare e dimostrare le proprie capacità.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competenza, competenze, analisi dei dati
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 392efa7ef4fc6626d076c8419e68c9b510e7f0cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0adaa5e091614abadf0eebccd3b46459be1a4fdf
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875301"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796224"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="08d06-104">Per informazioni sui requisiti per conseguire questa competenza, visita il [portale di Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="08d06-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="758ca-104">Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="758ca-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Data Analytics

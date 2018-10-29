@@ -2,17 +2,18 @@
 layout: LandingPage
 hide_bc: true
 title: Inizia da qui per ottenere assistenza con il centro per i Partner
-description: Hai bisogno di assistenza per configurare il tuo account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack? Trova che le risposte il centro per i Partner consentono di libreria creata in modo specifico per i partner nei programmi CSP e MPN.
-author: v-chmccl
 ms.topic: landing-page
+ms.date: 10/29/2018
+description: Hai bisogno di assistenza per configurare il tuo account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack? Trova che le risposte il centro per i Partner consentono di libreria creata in modo specifico per i partner nei programmi CSP e MPN. 
+author: v-chmccl
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: e36908da6d71b9f10b2fe80af21a22b4c9083cd5
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5677ad5ea93cef313aa2b7373e75c9621d0a4e48
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489677"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795914"
 ---
 # <a name="start-here-for-help-with-partner-center"></a>Inizia da qui per ottenere assistenza con il centro per i Partner
 

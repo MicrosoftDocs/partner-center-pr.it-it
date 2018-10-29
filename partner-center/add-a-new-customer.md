@@ -1,16 +1,19 @@
 ---
 title: Aggiungere un nuovo cliente | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto, devi creare un record per il tuo cliente nel Centro per i partner. Il record include le informazioni di contatto e un dominio di Azure AD.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: cliente, aggiungere un cliente, account del cliente, account del cliente nel Centro per i partner, clienti, aggiungere i clienti, creare un account del cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: abe2e5f39718ddebb69d875febe3d06637b7ebc2
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 8b28c2b1200b03747ad9560434c2e69555c16580
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490207"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794844"
 ---
 # <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente
 
@@ -21,7 +24,7 @@ ms.locfileid: "4490207"
 -  Centro per i partner per Microsoft Cloud Germania
 
 
-Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire il supporto, devi creare un account per il cliente nel centro per i Partner. Il record include le informazioni di contatto e un dominio di Azure AD.
+Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto, devi creare un account per il cliente nel centro per i Partner. Il record include le informazioni di contatto e un dominio di Azure AD.
 
 Per i clienti che dispongono già di account e sottoscrizioni di clienti tramite uno scenario [multicanale](multichannel.md) o [multipartner](multipartner.md), puoi [richiedere una relazione con un cliente](request-a-relationship-with-a-customer.md), invece di seguire questa procedura.
 
@@ -39,9 +42,9 @@ Per i clienti che dispongono già di account e sottoscrizioni di clienti tramite
 
 Per visualizzare i dati del cliente in seguito, inclusa l'aggiunta di licenze per componenti aggiuntivi alle sottoscrizioni, vedi i dettagli in [Creare una nuova sottoscrizione](create-a-new-subscription.md).
 
- 
+ 
 
- 
+ 
 
 
 

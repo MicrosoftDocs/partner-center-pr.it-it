@@ -1,15 +1,18 @@
 ---
 title: Multicanale | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: In alcuni casi i clienti potrebbero chiederti di occuparti del provisioning e del supporto di una sottoscrizione acquistata altrove.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9d8f5b58e539d214f0b9b11ff6ba06c447ac81d0
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489417"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795744"
 ---
 # <a name="multi-channel-support"></a>Supporto multicanale
 
@@ -55,11 +58,11 @@ La funzionalità multicanale del centro per i Partner supporta scenari in cui un
 
 Se sei un rivenditore indiretto, vedi [Collaborare con i provider indiretti](indirect-reseller-tasks-in-partner-center.md)
 
-Se sei un provider indiretto, vedi [Collaborare con i rivenditori indiretti](indirect-provider-tasks-in-partner-center.md) 
+Se sei un provider indiretto, vedi [Collaborare con i rivenditori indiretti](indirect-provider-tasks-in-partner-center.md) 
 
- 
+ 
 
- 
+ 
 
 
 

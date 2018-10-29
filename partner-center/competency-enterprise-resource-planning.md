@@ -1,19 +1,22 @@
 ---
 title: Competenza di pianificazione delle risorse aziendali
+ms.topic: article
+ms.date: 10/29/2018
 description: Diventa un partner Microsoft dimostrando il calibro dell'organizzazione nello sviluppo e distribuzione di soluzioni Dynamics per le esigenze di pianificazione delle risorse aziendali.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competenza, competenze, pianificazione delle risorse aziendali
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 581dbe631117776c9f437a1d23d70f1a983c1a3d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f0c69dafa24a61923fbc69521cdc87a89ad87c70
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875661"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795544"
 ---
 >[!IMPORTANT]
->Per informazioni sui requisiti per conseguire questa competenza, visita il [portale di Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Enterprise Resource Planning 

@@ -1,16 +1,19 @@
 ---
 title: Acquisire le competenze Microsoft | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Acquisisci le competenze Silver e Gold Microsoft per dimostrare la tua comprovata esperienza nell'offerta di soluzioni di qualità in un'area di business specializzata
 author: KPacquer
+ms.author: kenpacq
 keywords: competenze, adesione silver, adesione gold, mpn, MAPS, idoneità, vantaggi, obiettivi di prestazioni, obiettivi di competenze
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 858321809e311cc8be83967ceebd5c71fe82c48c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 98b8c837001ee8b24288f658d6fe0355fc91fc40
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490157"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796894"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page

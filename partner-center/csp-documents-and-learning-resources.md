@@ -1,20 +1,23 @@
 ---
 title: Contratti, listini prezzi e offerte per CSP | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Questo articolo include i collegamenti alle guide al programma Cloud Solution Provider, ai contratti per i partner, ai contratti per i clienti, ai listini prezzi e alle offerte.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: guide al programma CSP, guida al programma, contratti partner, contratto cliente, listini prezzi, offerte
 ms.localizationpriority: medium
-ms.openlocfilehash: e4a60b05a1f7c3341e51e83c6f34bf2081c72de5
-ms.sourcegitcommit: 011fb13f8b595f16d8be4a2948da60a8f3971e0a
+ms.openlocfilehash: a03d8b1a5cdf734831278984a6127951e7d664de
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4657311"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796064"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guida al programma cloud Solution Provider, ai contratti, listini prezzi e offerte
 
-**Ambito di applicazione**
+**Si applica a**
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
@@ -59,9 +62,9 @@ Microsoft Cloud per i [modelli di clienti](agreements.md)
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Amendment segreto per il contratto Microsoft Cloud (Germania)
 
-In Germania, il codice criminali (sezione 203) e i codici ai professionisti IT, di comportamento richiedono che sono determinate relazioni client mantenere riservati, ad esempio, la relazione tra loro medici e pazienti e la relazione tra i client e legali. Questi gruppi professionali hanno garantire segreto. Per questi e altri professioni acquistare servizi basati su cloud dal provider di soluzioni cloud, il provider di servizi cloud deve stipulare un contratto scritto con il cliente che garantisce segreto. 
+In Germania, il codice criminali (sezione 203) e i codici ai professionisti IT, di condotta richiedono che sono determinate relazioni client mantenere riservati, ad esempio, la relazione tra loro medici e pazienti e la relazione tra i client e legali. Questi gruppi professionali hanno garantire segreto. Per questi e altri professioni acquistare servizi basati su cloud dal provider di soluzioni cloud, il provider di servizi cloud deve stipulare un contratto scritto con il cliente che garantisce segreto. 
 
-Se operi in Germania, dovrai fornire questa modifica segreto ai clienti ci oltre il contratto Microsoft Cloud.
+Se operi in Germania, devi fornire questa modifica segreto ai tuoi clienti oltre il contratto Microsoft Cloud.
 
 [Amendment segreto di contratto Microsoft Cloud per Germania (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
@@ -77,7 +80,7 @@ Il listino prezzi in base alle licenze viene aggiornato mensilmente e Microsoft 
 
 I prezzi in base all'uso sono dinamici e cambiano di frequente. Un esempio di servizio basato sull'utilizzo è Microsoft Azure.
 
-È anche dinamico acquisto una tantum prezzi. Sono esempi di una tantum acquisti prenotazioni di Microsoft Azure e sottoscrizioni corrispondenti a Windows Server e SQL software. 
+È anche dinamico prezzi acquisto una tantum. Sono esempi di una tantum acquisti prenotazioni di Microsoft Azure e sottoscrizioni corrispondenti a Windows Server e SQL software. 
 
 
 ## <a name="offers"></a>Offerte

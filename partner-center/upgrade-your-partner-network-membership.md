@@ -1,15 +1,18 @@
 ---
 title: Aggiornare l'adesione al Microsoft Partner Network | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Quando aggiorni la tua adesione al Microsoft Partner Network, hai diritto ai relativi vantaggi esclusivi. Scopri come trovare e acquistare le offerte disponibili.
 author: MaggiePucciEvans
+ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ff177cf0c4f424892d664e1d089a32ca04b385b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489707"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795714"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Aggiornare l'adesione al Microsoft Partner Network
 
@@ -44,7 +47,7 @@ Action Pack è un conveniente abbonamento annuale a servizi, software e supporto
 
 - Ricevere 100 dollari di crediti Microsoft Azure al mese
 
-Per ulteriori informazioni su Microsoft Action Pack, Vai a [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
+Per altre informazioni su Microsoft Action Pack, Vai a [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 > [!NOTE]  
 > Questo collegamento ti condurrà è a un altro sito Web. Torna a questo sito, il centro per i Partner, la sottoscrizione di Action Pack.

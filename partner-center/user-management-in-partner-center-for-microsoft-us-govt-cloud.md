@@ -1,14 +1,17 @@
 ---
 title: Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud per il governo statunitense | Centro per i partner per Microsoft Cloud per il governo statunitense
+ms.topic: article
+ms.date: 10/29/2018
 description: Per soddisfare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'utilizzo dei dati dei singoli utenti, le funzionalità di gestione degli utenti non sono disponibili nel Centro per i partner per Microsoft Cloud per il governo statunitense. Al contrario, puoi aggiungere e gestire gli utenti nel portale di Azure per Microsoft Cloud per il governo statunitense.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 02cd7b05cfd4e977f2bc8d9b8c83bf72b54d9aa3
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 0450e1596eae3c1d064ac3ccbf484f391feae4c1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489937"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797214"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud per il governo statunitense
 
@@ -32,7 +35,7 @@ Se hai effettuato l'accesso al Centro per i partner per Microsoft Cloud per il g
 Dopo aver eseguito l'accesso al portale di Azure per Microsoft Cloud per il governo statunitense, apri la pagina della panoramica di Azure Active Directory (Azure AD) e quindi segui le istruzioni in questi argomenti:
 
 > [!NOTE]  
-> Selezionando i collegamenti seguenti verrà visualizzato a un altro sito Web. 
+> Selezionando i collegamenti seguenti verrà visualizzato un altro sito Web. 
 
 -  [**Aggiungere nuovi utenti ad Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

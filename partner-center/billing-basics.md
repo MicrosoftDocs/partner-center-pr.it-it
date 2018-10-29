@@ -1,15 +1,18 @@
 ---
 title: Nozioni di base sulla fatturazione | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
+ms.author: labrenne
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: medium
-ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ebab84673a5651cb40223ef9d1483eb1d0322e51
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490067"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797104"
 ---
 # <a name="billing-basics"></a>Nozioni di base sulla fatturazione
 
@@ -77,7 +80,7 @@ Ora oltre all'opzione mensile è disponibile l'opzione di fatturazione annuale. 
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="license-based-billing"></a>Fatturazione in base alle licenze
 
@@ -109,7 +112,7 @@ Ora oltre all'opzione mensile è disponibile l'opzione di fatturazione annuale. 
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="usage-based-billing"></a>Fatturazione in base all'uso
 
@@ -170,8 +173,8 @@ Per accedere ai file di riconciliazione e fatture con addebito una tantum, selez
 2.  Nella pagina **Clienti** trova il cliente di cui desideri visualizzare la cronologia ordini e seleziona la freccia giù per espandere il record del cliente. 
 3.  Seleziona **Visualizza ordini** per visualizzare la cronologia degli ordini.
 
-#### <a name="download-a-credit-note"></a>Scaricare una nota di credito
+#### <a name="download-a-credit-note"></a>Scarica una nota di credito
 
-Nel caso in cui esercitare un credito completo (Void fattura) e una nuova fattura ripartita, forniremo un accredito per annullare la fattura originale e anche un documento nuovo completo. È possibile richiedere una credito e una nuova fattura ripartita per i motivi seguenti:
+Nel caso in cui esercitare un credito completo (Void fattura) e una nuova fattura ripartita, forniremo un accredito per annullare la fattura originale e anche un documento nuovo completo. Puoi richiedere un credito/nuove fatture per i motivi seguenti:
 -   Correzioni di ordine di acquisto o l'indirizzo
--   Fattura generata e quindi un rimborso fiscale è stato applicato. Puoi richiedere una credito e una nuova fattura ripartita per ottenere la restituzione di imposte trascinata indietro nella fattura originale. Ciò vale anche per rimborsi, come è possibile richiedere una credito e una nuova fattura ripartita della fattura originale e quindi eseguire il pull in un rimborso.
+-   Fattura generata e quindi un rimborso fiscale è stato applicato. Puoi richiedere una credito/una nuova fattura ripartita per ottenere la restituzione di imposte trascinata indietro nella fattura originale. Ciò vale anche per i rimborsi, come è possibile richiedere una credito/una nuova fattura ripartita della fattura originale e quindi eseguire il pull in un rimborso.

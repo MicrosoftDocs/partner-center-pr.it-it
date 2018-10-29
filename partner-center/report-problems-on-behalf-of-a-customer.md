@@ -1,16 +1,19 @@
 ---
 title: Segnalare problemi per conto di un cliente | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f4de4c9159d451c39ffa2b71cc000fda3c82acf
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490047"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795614"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Segnalare problemi per conto di un cliente
 
@@ -36,7 +39,7 @@ Se il cliente ha un problema con il servizio che tu non puoi risolvere e che sod
 
 - Nell'ordine per poter creare richieste di servizio per il cliente in Azure, il provider indiretto deve concederti il che accesso all'account Azure del cliente. Questa operazione è diversa dall'amministrazione per conto dei clienti per Office 365. 
 
-- Anche se l'amministratore help desk nel centro per i Partner non può creare richieste di servizio nel portale di servizio di Azure, ciò che potranno fare è creare un gruppo di supporto nel portale di servizio di Azure e concedere le autorizzazioni di gruppo per registrare le richieste di assistenza.
+- Anche se l'amministratore help desk nel centro per i Partner non può creare richieste di servizio nel portale di servizio di Azure, cosa può fare è creare un gruppo di supporto nel portale di servizio di Azure e concedere le autorizzazioni di gruppo per registrare le richieste di assistenza.
 
 1.  Seleziona **Nuova richiesta di supporto**.
 2.  Compila la richiesta di supporto con le informazioni appropriate e quindi seleziona **Crea**:
@@ -94,11 +97,11 @@ Se accedi direttamente all'interfaccia di amministrazione di Office 365, visuali
 
 **Come posso ottenere supporto aggiuntivo Dynamics 365?**
 
- Se si verificano problemi relativi a: Dynamics 365 Plan sottoscrizioni, licenze, fatturazione, finanziamento e le operazioni, IURs o richiedono ulteriore supporto tecnico:
+ Se si verificano problemi relativi a: Dynamics 365 Plan sottoscrizioni, licenze, fatturazione, finanziamento e le operazioni, IURs o richiedono ulteriore supporto tecnico:
  
 Contatta il [supporto di Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 
-Leggere [il supporto Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
+Leggere [il supporto di Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
 
 

@@ -1,14 +1,17 @@
 ---
 title: Utilizzare le promozioni per attirare nuovi clienti | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: In quanto partner di Microsoft nel programma Cloud Solutions Provider, puoi acquistare sottoscrizioni a prezzi promozionali e offrire sconti ai tuoi clienti.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fa719f0824e525a2c63b58970b3385c63056a135
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488987"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795054"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Utilizzare le promozioni per attirare nuovi clienti  
 
@@ -32,7 +35,7 @@ Fermati un istante ed esamina questi importanti aspetti sulle promozioni:
 
 ## <a name="see-available-promotions"></a>Vedi le promozioni disponibili
 
-Puoi visualizzare per quali promozioni sei idoneo, se presenti, nella tua pagina**Promozioni**. Seleziona **promozioni** il menu del **Centro per i Partner** per visualizzare un elenco di promozioni correnti insieme a sconto, tipo di promozione, date di inizio e fine per la sottoscrizione. Se non sono disponibili promozioni, viene visualizzato un messaggio che ti informa di tale situazione. 
+Puoi visualizzare per quali promozioni sei idoneo, se presenti, nella tua pagina**Promozioni**. Seleziona **le promozioni** il menu del **Centro per i Partner** per visualizzare un elenco di promozioni correnti insieme a sconto, tipo di promozione, date di inizio e fine per la sottoscrizione. Se non sono disponibili promozioni, viene visualizzato un messaggio che ti informa di tale situazione. 
 
 > [!NOTE]  
 > Inoltre puoi visualizzare le promozioni quando effettui un acquisto. Quando selezioni una sottoscrizione, il prezzo promozionale appare nella pagina **Revisione**.

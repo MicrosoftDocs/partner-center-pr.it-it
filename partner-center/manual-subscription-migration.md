@@ -1,15 +1,18 @@
 ---
 title: Migrazione delle sottoscrizioni Dynamics AX a Dynamics 365 | Centro
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft introduce Dynamics 365, la nuova generazione di applicazioni aziendali intelligenti che consentono l'espansione, evoluzione e trasformazione della tua organizzazione per soddisfare le esigenze dei clienti esistenti e acquisire nuove opportunità.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489787"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797134"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrazione delle sottoscrizioni Dynamics AX a Dynamics 365
 
@@ -42,7 +45,7 @@ La linea di prodotti Microsoft Dynamics AX è stata ritirata a partire dal 1 nov
 |Attività/Servizio autonomo|Microsoft Dynamics 365 for Team Members|
 |Dispositivo|Dispositivo Microsoft Dynamics 365 for Operations|
 
-## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Modifiche delle licenze per Microsoft Dynamics CRM Online 
+## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Modifiche delle licenze per Microsoft Dynamics CRM Online 
 
 **Microsoft Dynamics CRM Online**
 
@@ -78,7 +81,7 @@ In questo esempio, il rivenditore deve trasferire un cliente con una sottoscrizi
 
 **Acquista la nuova sottoscrizione**
 
-1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente che si desidera spostare e scegli **Aggiungi sottoscrizioni**.
+1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente di cui che eseguire la migrazione e scegli **Aggiungi sottoscrizioni**.
 2.  Seleziona la sottoscrizione che vuoi acquistare dal catalogo (in questo caso Dynamics 365 for Operations, Enterprise Edition), immetti il numero di licenze e scegli **Invia**.
 
     Il cliente a questo punto dovrebbe avere sia la sottoscrizione nuova che quella precedente, in questo esempio la vecchia sottoscrizione Dynamics AX Enterprise e la nuova sottoscrizione di destinazione, Dynamics 365 for Operations, Enterprise Edition.
@@ -87,7 +90,7 @@ In questo esempio, il rivenditore deve trasferire un cliente con una sottoscrizi
 
 **Riassegnare le licenze utente**
 
-1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente che si desidera spostare e scegliere **gli utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
+1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente di cui che eseguire la migrazione e scegliere **gli utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
 2.  Per riassegnare le licenze utente, seleziona l'utente da riassegnare e quindi seleziona **Gestisci licenze**.
 3.  Nella pagina **Gestisci licenze** deseleziona la casella di controllo della licenza **Dynamics AX Enterprise** e seleziona la licenza **Dynamics 365 for Operations**.
 4.  Seleziona **Invia**. Le nuove assegnazioni di licenza vengono visualizzate in una pagina di conferma.
@@ -97,7 +100,7 @@ In questo esempio, il rivenditore deve trasferire un cliente con una sottoscrizi
 
 **Annullare la sottoscrizione precedente**
 
-1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente che si desidera spostare e seleziona la sottoscrizione che vuoi annullare.
+1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente di cui che eseguire la migrazione e seleziona la sottoscrizione che vuoi annullare.
 2.  Nella pagina dei dettagli della sottoscrizione imposta lo **Stato** della sottoscrizione su **Sospeso**.
 3.  Seleziona **Invia**.
 
@@ -113,9 +116,9 @@ Se il cliente passa dal canale Open al programma per i servizi cloud per il prov
 
 Dopo che il cliente ti accetta come provider indiretto, la procedura per il provisioning è fondamentalmente la stessa descritta in precedenza, ovvero devi acquistare la nuova sottoscrizione e quindi assegnare le licenze utente. L'unica differenza riguarda l'annullamento delle sottoscrizioni precedenti. Un nuovo provider non può annullare/sospendere sottoscrizioni acquisite tramite altri canali. Se il cliente ha acquisito le sottoscrizioni precedenti tramite un altro canale di vendita, come il canale Open, il cliente dovrà annullare autonomamente tali sottoscrizioni tramite il canale originale.
 
- 
+ 
 
- 
+ 
 
 
 

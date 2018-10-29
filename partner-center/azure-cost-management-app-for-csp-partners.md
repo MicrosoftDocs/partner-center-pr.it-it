@@ -1,16 +1,19 @@
 ---
 title: Azure Cost Management di Cloudyn per i partner CSP | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Azure Cost Management di Cloudyn richiede l'accesso tramite provisioning dell'API Centro per i partner.
 author: Janet
+ms.author: janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f5439f47dbc99421e493c9f84f8ea2469ba6525
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 32112dd8ba23d371eda554d86cf166562779a1d1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489387"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796094"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>App Azure Cost Management per i partner CSP Azure  
 
@@ -43,7 +46,7 @@ Registrando un'app Web di Azure Active Directory nel Centro per i partner, abili
 2.  Fai clic su **Add key**. 
 3.  Copia e salva il valore della chiave privata. Questo valore ti servirà per la versione di valutazione gratuita di 30 giorni.<br>
 > [!NOTE]  
-> Le chiavi private dell'applicazione sono simili alle password con più date di scadenza. Salva il valore della chiave in un luogo sicuro per l'utilizzo futuro.
+> Le chiavi private dell'applicazione sono simili alle password con date di scadenza più. Salva il valore della chiave in un luogo sicuro per l'utilizzo futuro.
 
 ## <a name="next-steps"></a>Passaggi successivi
 Avvia una [versione di valutazione gratuita di 30 giorni](https://go.microsoft.com/fwlink/?linkid=857895).

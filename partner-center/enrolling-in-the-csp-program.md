@@ -1,14 +1,17 @@
 ---
 title: Iscriversi al programma Cloud Solution Provider | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Comprendi i diversi modelli per la vendita in CSP e determina qual è il più adatto alla tua attività
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dee2136344959b3a22816f9db7ee26d9743eb54a
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 35a23762cb187eb9277a88c8ac54abf694a823b5
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489927"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796594"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
@@ -21,7 +24,7 @@ ms.locfileid: "4489927"
 
 Per iscriverti al programma Cloud Solution Provider hai innanzi tutto bisogno di un ID MPN. Non ne hai già uno? Acquisiscilo [qui](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=).
 
-Quando compili la partecipazione al programma CSP, ti servirà l'ID MPN, l'indirizzo completo azienda, le informazioni bancarie e l'indirizzo e-mail aziendale del dipendente che fungerà da amministratore per il centro per i Partner.
+Per compilare la partecipazione al programma CSP, ti servirà l'ID MPN, l'indirizzo completo azienda, le informazioni bancarie e l'indirizzo e-mail aziendale del dipendente che fungerà da amministratore per il centro per i Partner.
 
 Decidi quale [modello CSP funziona](https://partnercenter.microsoft.com/en-us/cloud-solution-provider/csp-enrollment) per te e completa la domanda. 
 
@@ -35,7 +38,7 @@ Potrebbero essere necessari diversi giorni per esaminare e verificare le informa
 
 1. Una volta iscritto come rivenditore indiretto, devi [trovare un provider indiretto](https://partnercenter.microsoft.com/partner/find-a-provider) con cui collaborare. Il provider con cui collabori ti indirizzerà clienti, gestirà gli acquisti di software che puoi vendere e si occuperà della fatturazione e del supporto ai clienti, consentendoti di concentrarti sulla creazione del tuo business di rivenditore.
 
-2. L'amministratore globale deve configurare l'account nel centro per i Partner. L'amministratore globale può aggiungere dell'organizzazione i dipendenti che lavoreranno nel centro per i Partner, assegnare loro ruoli e autorizzazioni a seconda delle loro attività e configurare il profilo dell'organizzazione.
+2. L'amministratore globale deve configurare il tuo account nel centro per i Partner. L'amministratore globale può aggiungere dell'organizzazione i dipendenti che lavoreranno nel centro per i Partner, assegnare loro ruoli e autorizzazioni a seconda delle loro verrà attività e configurare il profilo dell'organizzazione.
 
 3. I dipendenti riceveranno un'e-mail con le relative password provvisorie. Dovranno accedere al centro per i Partner e modificare la propria password. Potranno quindi iniziare a utilizzarlo.
 
@@ -55,14 +58,14 @@ Come partner diretto, sei titolare della relazione completa con il cliente e con
 #### <a name="new-expanded-requirements"></a>Nuovi requisiti espansi:
 
 Supporto
-- Espandere le funzionalità di supporto tramite acquisto di supporto cloud personale e priorità con un avanzata supporto Microsoft per il pacchetto ai partner. In alternativa, scegliere un supporto tecnico Microsoft Premier per pacchetto i partner per accedere al catalogo completo dei servizi proattivi, con privilegi elevati 24/7 interruzione/correzione il supporto e la gestione degli account tecnica per cloud, ibrido e locale. 
+- Espandere le funzionalità di supporto tramite acquisto di supporto per il cloud personale e priorità con un avanzata supporto Microsoft per il pacchetto ai partner. In alternativa, scegliere un supporto tecnico Microsoft Premier per pacchetto i partner per accedere al catalogo completo dei servizi proattivi, con privilegi elevati 24/7 interruzione/correzione supporto e la gestione degli account tecnici in cloud, ibrido e locale. 
 
 Servizi
 
-- Dimostrare che fornire almeno un servizio gestito, servizio IP o applicazione soluzione dei clienti. Altre informazioni sull'aggiunta dei servizi gestiti
+- Dimostrare che fornire almeno un servizio gestito, servizio IP o applicazione soluzione dei clienti. Altre informazioni sull'aggiunta di servizi gestiti
 
 - Soddisfa le funzionalità di infrastruttura minima, ad esempio la fatturazione e di provisioning.
-Abbiamo stiamo il monitoraggio delle prestazioni annuale per verificare che i partner di addebito diretto che soddisfano questi requisiti siano dimostrando crescita costante. Non esistono alcun obiettivi di prestazioni specifici posto in questo momento, ma Microsoft può implementare una prestazioni della barra in futuro. 
+Ci stiamo il monitoraggio delle prestazioni annuale per verificare che i partner di addebito diretto che soddisfano questi requisiti siano dimostrando crescita costante. Non esistono alcun obiettivi di prestazioni specifici posto in questo momento, ma Microsoft può implementare una prestazioni della barra in futuro. 
 
 - Un ID Microsoft Partner Network (MPN) attivo per la località in cui desiderano vendere
 

@@ -1,34 +1,34 @@
 ---
 title: Analizzare l'utilizzo di Azure | Centro per i partner
+ms.date: 07/12/2018
 Description: Get data about the usage of your customers' Azure subscriptions.
 Author: Xansky
 ms.author: mhopkins
-ms.date: 07/12/2018
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: dati aziendali
 ms.localizationpriority: medium
-ms.openlocfilehash: 08ff3c7b4e00c46365713df4ea927ba716a41c0e
-ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
+ms.openlocfilehash: e5ed6ce99a8319ce2e86b8522f1bdf40ccf5b2f9
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "3405413"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795664"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Ottenere i dati sull'utilizzo delle sottoscrizioni di Azure dei tuoi clienti 
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Ottenere i dati sull'utilizzo delle sottoscrizioni di Azure dei clienti 
 
 **Si applica a**
 - Centro per i partner
 
-I dati guidano le decisioni aziendali. Utilizza le metriche nella pagina di **utilizzo di Azure** per identificare le aree che richiedono maggiore attenzione successi. Utilizza queste informazioni per pianificare nuovi obiettivi aziendali.
+I dati guidano le decisioni aziendali. Utilizza le metriche nella pagina di **utilizzo di Azure** per identificare il con esiti positivi e le aree che richiedono maggiore attenzione. Utilizza queste informazioni per pianificare nuovi obiettivi aziendali.
 
 > [!NOTE]
-> Analitica di utilizzo di Azure è disponibile solo per i partner del programma Cloud Solution Provider.
+> Analitica utilizzo di Azure è disponibile solo per i partner del programma Cloud Solution Provider.
 
 Ci stiamo occupando delle seguenti metriche:
 
 **Riepilogo**  
- - **Le sottoscrizioni di Azure totale vendute**: numero di sottoscrizioni venduti nel periodo di tempo specificato  
+ - **Le sottoscrizioni Azure totale vendute**: numero di sottoscrizioni venduti nel periodo di tempo specificato  
  - **I clienti con utilizzo**: numero di clienti con utilizzo di Azure nel periodo di tempo specificato  
  - **I clienti senza utilizzo**: numero di clienti senza l'utilizzo di Azure nel periodo di tempo specificato  
 
@@ -45,6 +45,6 @@ Ci stiamo occupando delle seguenti metriche:
 **Conteggio clienti**
  - Nuovi clienti acquisiti durante il periodo di tempo specificato  
 
-**Conservazione di sottoscrizione di Azure**  
+**Conservazione sottoscrizione di Azure**  
  - Il numero di sottoscrizioni che sono stati rinnovato.   
   

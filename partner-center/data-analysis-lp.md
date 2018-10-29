@@ -1,15 +1,18 @@
 ---
 title: Dati e analisi nel Centro per i partner | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Usa le funzionalità dei dati del Centro per i partner per comprendere meglio le esigenze dei clienti.
 author: labrenne
+ms.author: labrenne
 keywords: dati, analisi, analisi dei dati, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: 472fea265a29b457bb29ac0545a69e5dd87c160d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 59dcad4e1cf2d3dadf2bdc037d3404f0aa8e2863
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489697"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795904"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Acquisisci dati e analizza le tue attività 
 

@@ -1,19 +1,22 @@
 ---
 title: Competenza di comunicazione
+ms.topic: article
+ms.date: 10/29/2018
 description: La competenza di comunicazione riconosce i partner che offrono soluzioni innovative e personalizzate per Skype for Business.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competenza, competenze, comunicazione
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b202d8a1f134748f18b66edae1bae4b44e00aaef
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0b52e39fee9abfe8e869d48c073ac42cb69637c1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877231"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794634"
 ---
 >[!IMPORTANT]
->Per informazioni sui requisiti per conseguire questa competenza, visita il [portale di Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Communications

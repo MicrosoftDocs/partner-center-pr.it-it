@@ -1,14 +1,17 @@
 ---
 title: Collaborare con i rivenditori indiretti in CSP | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: In qualità di provider indiretto, o distributore, puoi collaborare con rivenditori indiretti per ampliare il tuo mercato.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ac9099cc1b0805c3af9c77af9df1e8f0bfcc7aa
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4bbab6f297f96ee12edc032b7f55f7f749933ecc
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490137"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795194"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 
@@ -44,7 +47,7 @@ Completa i passaggi seguenti per stabilire e gestire la tua partnership con i ri
     - Associare nuovi clienti e sottoscrizioni ai rivenditori
     - Stabilire relazioni tra i rivenditori e i clienti esistenti <br>
 
-Dopo aver completato questi passaggi, puoi gestire le partnership con i rivenditori nella pagina di **rivenditori indiretti** nel menu del **Centro per i Partner** .
+Dopo aver completato questi passaggi, puoi gestire le partnership con i rivenditori nella pagina di **rivenditori indiretti** dal menu del **Centro per i Partner** .
 
 > [!IMPORTANT]   
 > Prima di poter collaborare con i rivenditori, deve essere registrati come rivenditori indiretti nel programma CSP e dispongano di un account di Centro per i Partner. Per informazioni sull'iscrizione al programma CSP, indirizza i tuoi rivenditori su [Collaborare con i provider indiretti in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md). 
@@ -61,7 +64,7 @@ Per stabilire una partnership, invia una richiesta di partnership al rivenditore
 
 3. Seleziona **Apri in messaggio di posta elettronica** per aprire il messaggio nell'applicazione di posta elettronica predefinita oppure seleziona **Copia negli Appunti** per copiare e incollare il messaggio in un messaggio di posta elettronica. Al termine seleziona **Fatto**.
     > [!IMPORTANT]  
-    >  Puoi modificare il testo nel messaggio di posta elettronica, ma assicurati di includere il collegamento poiché è personalizzato per l'account del centro per i Partner.
+    >  Puoi modificare il testo nel messaggio di posta elettronica, ma assicurati di includere il collegamento poiché è personalizzato per il tuo account del centro per i Partner.
 
 4. Dopo che il rivenditore ha accettato la tua richiesta di partnership, verrà visualizzato nell'elenco dei rivenditori indiretti e tu potrai eseguire le operazioni indicate di seguito: 
 

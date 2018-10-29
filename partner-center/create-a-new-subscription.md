@@ -1,16 +1,19 @@
 ---
 title: Creare, sospendere o annullare le sottoscrizioni dei clienti | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
-author: Labrenne
+author: labrenne
+ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: effdae8468e30be689acc265d9ae64b5d93c93ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489107"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796404"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
@@ -21,7 +24,7 @@ ms.locfileid: "4489107"
 -  Centro per i partner per Microsoft Cloud Germania
 -  Partner CSP
 
-Dopo aver creato un record del cliente nel centro per i Partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo.
+Dopo aver creato un record del cliente nel centro per i Partner, vendere loro sottoscrizioni per i prodotti nel catalogo.
 
 Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elenco delle offerte limitate, visita la pagina Prezzi e offerte del Centro per i partner. 
 
@@ -35,10 +38,10 @@ Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elen
 3.  Seleziona il tipo di fatturazione della sottoscrizione che vuoi usare.  Vedi [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md) per le informazioni che ti aiutano a decidere tra la frequenza di fatturazione mensile e annuale.
  
  >[!Note]
- >È possibile offrire ai clienti le sottoscrizioni di valutazione. I prodotti disponibili per la versione di valutazione sono sotto la scheda della versione di valutazione nel catalogo. Vedi [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+ >Offrire ai clienti le sottoscrizioni di valutazione. I prodotti disponibili per la versione di valutazione sono sotto la scheda della versione di valutazione nel catalogo. Vedi [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
  
-4. Dopo aver selezionato la frequenza di fatturazione, seleziona i prodotti per che cui vuoi le sottoscrizioni nel catalogo. La disponibilità dei prodotti dipende dal tipo di cliente (formazione, enti pubblici e così via) e dalla frequenza di fatturazione che è stata selezionata. Se un prodotto non è disponibile, è possibile che il cliente dispone già di una sottoscrizione per il prodotto ed è consentita una sola opzione. In alternativa, è possibile che hai sospeso la sottoscrizione e nel qual caso puoi riattivarla invece di acquistarne una nuova.
+4. Dopo aver selezionato la frequenza di fatturazione, seleziona i prodotti che vuoi le sottoscrizioni nel catalogo. La disponibilità dei prodotti dipende dal tipo di cliente (formazione, enti pubblici e così via) e dalla frequenza di fatturazione che è stata selezionata. Se un prodotto non è disponibile, è possibile che il cliente dispone già di una sottoscrizione per il prodotto ed è consentita una sola opzione. In alternativa, è possibile che hai sospeso la sottoscrizione e nel qual caso puoi riattivarla invece di acquistarne una nuova.
 
 5. Controlla la sottoscrizione che vuoi aggiungere e immetti il numero di licenze. **Invia** quindi l'ordine.
 
@@ -64,7 +67,7 @@ Quando sospendi una sottoscrizione, la data visualizzata sotto il pulsante **Sos
 
 
 
- 
+ 
 
 
 

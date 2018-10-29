@@ -1,15 +1,18 @@
 ---
 title: Gestire l'elenco dei clienti | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: I record dei clienti sono tra le informazioni più importanti nel Centro per i partner.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f0ab5159f36212ea73effea59bfba98e68023372
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 430fe97ffac1f517e9086afb077b0f126e98ae3c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490167"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796114"
 ---
 # <a name="manage-your-customer-list"></a>Gestire l'elenco dei clienti
 
@@ -35,7 +38,7 @@ Anche i log attività offrono dati esportabili sulle transazioni e le operazioni
 Dal menu di **Centro per i Partner** , seleziona **i clienti**.
 2.  Per cercare un cliente, immetti il nome del cliente o il nome del dominio nella casella di ricerca.
 3.  Seleziona la **freccia in giù** alla fine della riga di un cliente per visualizzare l'ID Microsoft oltre ai link rapidi per le sottoscrizioni e i servizi associati.
-4.  Sotto le informazioni del cliente **a cui fatturare** , aggiorna il nome della società. Quando salvi il nuovo valore, lo si rifletteranno nell'elenco dei clienti. Questo modo verrà modificata solo il nome della società a cui fatturare e il valore di elenco dei clienti. Non verrà applicato in un punto qualsiasi altro.
+4.  Sotto le informazioni del cliente **a cui fatturare** , aggiorna il nome della società. Quando salvi il nuovo valore, lo si rifletteranno nell'elenco dei clienti. Questo modo verrà modificata solo il nome della società a cui fatturare e il valore di elenco dei clienti. Non si verrà applicato in un punto qualsiasi altro.
 
 ## <a name="export-your-customer-list"></a>Esportare l'elenco dei clienti
 
@@ -68,11 +71,11 @@ Dal menu di **Centro per i Partner** , seleziona **i clienti**.
 > [!NOTE]  
 > Per altre informazioni sulla gestione delle sottoscrizioni, vedi [Sottoscrizioni dei clienti](customer-subscriptions.md).
 
-     
+     
 
- 
+ 
 
- 
+ 
 
 
 

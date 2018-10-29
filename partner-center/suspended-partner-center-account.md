@@ -1,15 +1,18 @@
 ---
 title: Ripristinare un account sospeso per il Centro per i partner | Centro
+ms.topic: article
+ms.date: 10/29/2018
 description: Scopri come ripristinare un account del Centro per i partner sospeso, perché si verifica la sospensione e come puoi usare il tuo account durante la sospensione.
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a15745ea4cc789049251fc08077b420cb094a596
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: c0d55c0b8400c011b77c2be030e12686a0eadd6b
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489477"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796194"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Ripristinare un account sospeso per il Centro per i partner
 
@@ -42,7 +45,7 @@ Se l'account è scaduto, segui le istruzioni sulla fattura per predisporre il pa
 
 **Per inviare una richiesta di supporto**
 
-1.  Dal menu di **Centro per i Partner** , seleziona **richieste di supporto > richieste Centro per i Partner**.
+1.  Il menu del **Centro per i Partner** seleziona **richieste di supporto > richieste Centro per i Partner**.
 2.  Seleziona **Nuova richiesta**. 
 3.  Compila il modulo e quindi seleziona **Invia**. Un rappresentante del Supporto del Centro per i partner ti contatterà per spiegare perché l'account è stato sospeso e come ripristinarlo.
 

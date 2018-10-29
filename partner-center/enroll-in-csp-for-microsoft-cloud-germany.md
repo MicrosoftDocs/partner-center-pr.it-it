@@ -1,14 +1,17 @@
 ---
 title: Iscriversi al programma Cloud Solution Provider per Microsoft Cloud Germania | Centro per i partner per Microsoft Cloud Germania
+ms.topic: article
+ms.date: 10/29/2018
 description: Prima di iscriverti al programma Cloud Solution Provider per Microsoft Cloud Germania, consulta queste informazioni sui requisiti del programma CSP.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ff6e0c0ecbf6ef67ae22f21dca25a0026ae0b59
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7ed0b90395e3a15dd03963891dbadc9b1feebeec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489627"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796974"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Iscriversi al programma Cloud Solution Provider per Microsoft Cloud Germania
 
@@ -70,7 +73,7 @@ Per creare un account del Centro per i partner e iscriverti al CSP per Microsoft
 Microsoft Cloud Germania fornisce un'istanza separata di Microsoft Azure, distribuita da data center tedeschi con una rete dedicata operante in Germania. Per consentire agli amministratori di gestire utenti e licenze nel portale di Azure Germania, dovrai assegnare loro manualmente il ruolo di Agente amministratore.
 
 > [!NOTE]  
-> Dopo che avrai assegnato agli utenti il ruolo di agente amministratore, verrà visualizzato il menu di **clienti** nel menu di Centro per i Partner e sarà in grado di accedere l'elenco dei clienti e [aggiungere nuovi clienti](add-a-new-customer.md).   
+> Dopo che avrai assegnato agli utenti il ruolo di agente amministratore, verrà visualizzato il menu di **clienti** nel menu di Centro per i Partner e puoi saranno in grado di accedere l'elenco dei clienti e [aggiungere nuovi clienti](add-a-new-customer.md).   
 
 1.  Accedi al portale di Azure Germania al https://portal.microsoftazure.de/.
 

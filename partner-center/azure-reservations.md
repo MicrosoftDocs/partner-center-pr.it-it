@@ -1,15 +1,18 @@
 ---
 title: Panoramica delle prenotazioni di Microsoft Azure | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
+ms.author: v-petand
 keywords: Azure, prenotazioni, gestire, fatturazione, acquisto, Azure RI, istanze riservate di Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
-ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
+ms.openlocfilehash: abf8b1aa01168786ff95cd91fe4853e3f7e34e9d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4658117"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797234"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>Vendere istanze prenotate Microsoft Azure 
 
@@ -19,7 +22,7 @@ ms.locfileid: "4658117"
 -  Portale di Microsoft Azure
 -  Partner di CSP
 
-I partner nel programma Cloud Solution Provider (CSP) possono offrire ai clienti istanze di Microsoft Azure prenotate. I clienti possono ottenere un risparmio significativo prenotando anticipatamente. Istanze riservate di Azure offrono ai clienti flessibilità e semplicità nei modi seguenti:
+I partner nel programma Cloud Solution Provider (CSP) possono offrire ai clienti di Microsoft Azure istanze prenotate. I clienti possono ottenere un risparmio significativo prenotando anticipatamente. Istanze riservate di Azure offrono ai clienti flessibilità e semplicità nei modi seguenti:
 
 -   Condizioni di prenotazione di uno o tre anni 
 -   Facile da iniziare a; Installazione completata in pochi secondi 
@@ -53,7 +56,7 @@ La disponibilità di istanze riservate di Azure interesserà ai clienti nei modi
 -   Risparmi significativi rispetto alle tariffe con pagamento in base al consumo grazie all'uso di istanze riservate
 -   Budget e previsioni semplificati in seguito al pagamento anticipato per uno o tre anni 
 -   Priorità della capacità di elaborazione nell'area di Azure più vicina agli uffici  
--   Prenotazioni di Azure costituiscono la base di soluzioni end-to-end dell'infrastruttura in combinazione con il software, come Microsoft Windows Server e Database SQL di Azure.   
+-   Prenotazioni di Azure forniscono la base per le soluzioni end-to-end dell'infrastruttura in combinazione con il software, come Microsoft Windows Server e Database SQL di Azure.   
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 

@@ -1,15 +1,18 @@
 ---
 title: Imposte ed esenzioni fiscali | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da parte dei partner, Microsoft non è sempre tenuta all'imposizione dell'IVA nelle fatture per i partner.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 13bacb79b210050b2392d40c6fa77cb0fe22235d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 609a70503eb0418a04cf345d4d1d0a176e39445a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489607"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796006"
 ---
 # <a name="tax-and-tax-exemptions"></a>Imposte ed esenzioni fiscali
 
@@ -24,7 +27,7 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 **Registrare un'esenzione fiscale**
 
 1.  Cercare l' **ID di Microsoft** nel centro per i Partner &gt; **Impostazioni Account** &gt; **profilo dell'organizzazione**.
-2.  Cercare l' **ID MPN** nel centro per i Partner &gt; **Impostazioni Account** &gt; **profilo del Partner**.
+2.  Cerca il tuo **ID MPN** nel centro per i Partner &gt; **Impostazioni Account** &gt; **profilo del Partner**.
 3.  Crea un nuovo ticket di supporto. Dal menu di Centro per i Partner, seleziona **le richieste di servizio** &gt; **richieste Centro per i Partner** &gt; **nuova richiesta**.
 4.  Compila il modulo. In **Tipo di problema** scegli **Non è possibile gestire il profilo personale**. Includi il tuo ID MPN e ID Microsoft nella descrizione.
 5.  Dopo aver inviato il ticket, Microsoft ti invierà un'e-mail per ottenere altre informazioni. Allega la documentazione di supporto appropriata nella risposta per i certificati di esenzione IVA.
@@ -71,11 +74,11 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

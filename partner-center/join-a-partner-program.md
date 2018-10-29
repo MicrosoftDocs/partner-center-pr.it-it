@@ -1,14 +1,17 @@
 ---
 title: Aderire a Microsoft Partner Network| Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Acquistare Microsoft Action Pack e ottenere competenze nel Centro per i partner
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 23f6b0d0f8bcc680a4bfc3ae63ea0297186942ed
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4fa391339dcf3660dc283a7478fbcb11654756b2
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489717"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796994"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Aderire a Microsoft Partner Network (MPN)
 
@@ -21,7 +24,7 @@ ms.locfileid: "4489717"
 
  Una partnership con Microsoft ti dà accesso a nuove opportunità di trasformare il tuo business. Nel centro per i Partner puoi acquistare e rinnovare il Microsoft Action Pack e accedere facilmente a informazioni sulle competenze e su come conseguirle.
 
- Invitiamo gradualmente i partner a gestire l'adesione nel centro per i Partner a MAPS o della competenza data dell'anniversario, nonché quando le funzionalità chiave del centro per i Partner sono disponibili e sono state testate per soddisfare le esigenze dell'azienda.  Per il momento, pianifica il rinnovo e gestisci la tua adesione nel Partner Membership Center (PMC) fino a quando non ricevi un invito per lo spostamento.
+ Invitiamo gradualmente i partner a gestire l'adesione nel centro per i Partner a MAPS o della competenza data dell'anniversario, nonché quando le funzionalità chiave del centro per i Partner sono disponibili e sono state testate per soddisfare le esigenze delle attività.  Per il momento, pianifica il rinnovo e gestisci la tua adesione nel Partner Membership Center (PMC) fino a quando non ricevi un invito per lo spostamento.
 
 ## <a name="get-your-mpn-id"></a>Ottenere l'ID MPN
 

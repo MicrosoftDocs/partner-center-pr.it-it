@@ -1,15 +1,18 @@
 ---
 title: Aggiungere software di terze parti al tuo portafoglio  | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Acquistare software di terze parti che funziona con i prodotti Microsoft
 author: labrenne
+ms.author: labrenne
 keywords: offerte di terze parti, software da acquistare
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ea21f8799faaf34703e51f9620f8169364569dc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 42aacee4f5d9612f3b55bd1774f9c96b71be8eda
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489847"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795764"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Aggiungere software di terze parti al tuo portafoglio
 
@@ -53,7 +56,7 @@ Nella pagina dei dettagli troverai un collegamento al sito Web dell'ISV, le info
 
 L'acquisto di software di terze parti viene eseguito come l'acquisto di software di prima entità. 
 
-1. Il **Centro per i Partner**, seleziona **i clienti**
+1. Nel **Centro per i Partner**, seleziona **i clienti**
 2. Seleziona **Nuova sottoscrizione**.
 3. Seleziona la fatturazione mensile per il software di terze parti. La fatturazione annuale e le versioni di prova non sono attualmente disponibili per il software di terze parti.
 4. Nella scheda dedicata al software di terze parti seleziona il prodotto che vuoi acquistare.

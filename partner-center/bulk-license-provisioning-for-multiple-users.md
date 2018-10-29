@@ -1,16 +1,19 @@
 ---
 title: Assegnare o revocare licenze a più utenti | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Puoi assegnare licenze e servizi a un utente o a più utenti contemporaneamente nell'account di un cliente e revocare le assegnazioni di licenze per gli utenti.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490007"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795354"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Assegnare o revocare licenze a più utenti
 
@@ -59,9 +62,9 @@ Centro per i Partner tiene traccia e Mostra tutti i diritti di licenza di propri
 
 8.  Seleziona **Salva**. Centro per i Partner apre una pagina di conferma **licenze aggiornate** elencati gli utenti e le nuove licenze.
 
-**Nota** Alcuni prodotti Microsoft potrebbero non essere disponibili in determinate aree geografiche. Altri prodotti dipendono da altri prodotti o servizi o non possono essere assegnati insieme allo stesso utente. Dopo aver salvato, la pagina di conferma elenca i risultati per tutti gli utenti per le assegnazioni di licenze corrette e gli eventuali errori d assegnazione.
+**Nota**alcuni prodotti Microsoft potrebbero non essere disponibili in determinate aree geografiche. Altri prodotti dipendono da altri prodotti o servizi o non possono essere assegnati insieme allo stesso utente. Dopo aver salvato, la pagina di conferma elenca i risultati per tutti gli utenti per le assegnazioni di licenze corrette e gli eventuali errori d assegnazione.
 
- 
+ 
 
 <a href="" id="revoking-licenses"></a>
 **Revocare le assegnazioni di licenze degli utenti**
@@ -82,9 +85,9 @@ Centro per i Partner tiene traccia e Mostra tutti i diritti di licenza di propri
 
 [Assegnare licenze a un utente](assign-licenses-to-users.md)
 
- 
+ 
 
- 
+ 
 
 
 

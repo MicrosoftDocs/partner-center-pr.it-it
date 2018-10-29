@@ -1,15 +1,18 @@
 ---
 title: Analizzare l'efficacia del profilo di lavoro | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Valutare, negoziare e rispondere alle segnalazioni tramite il Centro per i partner.
 author: KPacquer
+ms.author: kenpacq
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 2eae340cdd0b2418b8498f69ea4fd17d76a30b58
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: afd718f98cdd7f54b7a2ea0731ece90c7e338f30
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489337"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796774"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analizzare l'efficacia del profilo di lavoro
 <!-- 

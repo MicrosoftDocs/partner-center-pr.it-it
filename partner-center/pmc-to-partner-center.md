@@ -1,18 +1,21 @@
 ---
 title: Eseguire la transizione dell'appartenenza a MPN dal Partner Membership Center al Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: "Per gli utenti PMC: adesso stiamo gestendo l'appartenenza a MPN mediante il Centro per i partner. Ecco le operazioni che puoi effettuare."
 author: KPacquer
+ms.author: kenpacq
 keywords: appartenenza a mpn, competenze, dal pmc al centro per i partner
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490077"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794954"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Eseguire la transizione dell'appartenenza a MPN dal Partner Membership Center al Centro per i partner
 
@@ -31,7 +34,7 @@ Avvia la configurazione degli utenti immediatamente in modo che possano continua
 
 L'amministratore dell'organizzazione aggiunge i dipendenti nel Centro per i partner, aggiungendoli singolarmente o utilizzando i dati PMC per creare più utenti contemporaneamente:
 
-1.  Nel centro per i Partner, seleziona **Aggiungi nuovo utente** di aggiungere una persona o **impostare il team** (o Aggiungi utenti che utilizzano dati PMC) per aggiungere più utenti contemporaneamente.
+1.  Nel centro per i Partner, seleziona **Aggiungi nuovo utente** di aggiungere un singolo utente o **impostare il team** (o Aggiungi utenti che utilizzano dati PMC) per aggiungere più utenti contemporaneamente.
     
     Per completare l'installazione, segui le istruzioni visualizzate sullo schermo.
 
@@ -45,7 +48,7 @@ L'amministratore dell'organizzazione aggiunge i dipendenti nel Centro per i part
 
 ## <a href="" id="nonadmin_tasks"></a> Le attività dei dipendenti: aggiornare gli account
 
-1.  Ottenere le informazioni di accesso, Microsoft Partner Center o dal tuo amministratore. Se non ricevi le informazioni di accesso, contatta l'amministratore dell'organizzazione per chiedere di inviartele direttamente. 
+1.  Ottenere le informazioni di accesso, dal Microsoft Partner Center o dal tuo amministratore. Se non ricevi le informazioni di accesso, contatta l'amministratore dell'organizzazione per chiedere di inviartele direttamente. 
 
 2.  Collega il tuo account di Microsoft Partner University. Nel centro per i Partner, seleziona **Aggiorna il profilo** > **accesso a Partner University Get**.  Dopo aver connesso questo account, potrai accedere di nuovo a Partner University.
 

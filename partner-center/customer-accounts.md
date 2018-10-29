@@ -1,15 +1,18 @@
 ---
 title: Account dei clienti | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 Description: As a reseller partner, you should make an account for each of your customers in Partner Center. The customer account will be your starting point for selling subscriptions, billing, and providing support.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7a754b170923f90fed6ca05e6f005c05e8f52917
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9c50791c224834dffd0b113e5f3d4a5bca3aad9a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489497"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796884"
 ---
 # <a name="customer-accounts"></a>Account dei clienti
 
@@ -26,5 +29,5 @@ Come partner rivenditore, devi creare un account per ognuno dei tuoi clienti nel
 |**A tale scopo:**   |**Leggi questo contenuto per sapere come**   |**Ambito di applicazione**|
 |-----------------|:----------------------------|:--------------|
 |Ottenere nuovi clienti|I rivenditori indiretti entrano in contatto con i [provider indiretti](indirect-reseller-tasks-in-partner-center.md) che ti segnaleranno ai clienti. Devi assicurarti anche che il tuo [profilo di lavoro](create-a-marketing-profile.md) sia aggiornato. Quando tu e un cliente avete concordato di [collaborare](responding-to-referrals.md), [aggiungilo](add-a-new-customer.md) al tuo account. I partner diretti dovrebbero essere [richiedere una relazione con un cliente](request-a-relationship-with-a-customer.md).|Partner CSP|
-|Aggiungere clienti esistenti al tuo account   | Clienti che con cui intrattieni relazioni commerciali su altri portali, ad esempio Office 365, verranno visualizzati nell' [elenco dei clienti](see-your-customer-list.md) nel centro per i Partner. Dovrai [stabilire relazioni di rivenditore](indirect-reseller-tasks-in-partner-center.md) con altri clienti esistenti. A tale scopo, invia un [invito a connettersi](responding-to-referrals.md) con te nel centro per i Partner.   | Partner CSP   |
+|Aggiungere clienti esistenti al tuo account   | I clienti con cui intrattieni relazioni commerciali su altri portali, ad esempio Office 365, verranno visualizzati nell' [elenco dei clienti](see-your-customer-list.md) nel centro per i Partner. Dovrai [stabilire relazioni di rivenditore](indirect-reseller-tasks-in-partner-center.md) con altri clienti esistenti. A tale scopo, invia un [invito a connettersi](responding-to-referrals.md) con te nel centro per i Partner.   | Partner CSP   |
 |Gestire tutte le informazioni dei clienti   | Aggiungere o rimuovere i clienti o [terminare la relazione con un cliente](remove-a-relationship.md)|   Partner CSP |

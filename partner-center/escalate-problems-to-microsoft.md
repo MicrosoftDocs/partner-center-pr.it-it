@@ -1,15 +1,18 @@
 ---
 title: Inoltrare i problemi a Microsoft | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Sei tu a dover risolvere i problemi per conto dei tuoi clienti.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7edd9d68e1bf144f9e05d4e5d1243f77a73d721f
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e1573615252cf40b34297be8666aa56d3b2b1f94
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489377"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797224"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Inoltrare i problemi a Microsoft
 
@@ -33,14 +36,14 @@ Esistono però alcune categorie di problemi che è necessario inoltrare a Micros
 
 -   Problemi locali con impatto su più tenant
 
-## <a name="submit-a-support-request"></a>Inviare una richiesta di supporto
+## <a name="submit-a-support-request"></a>Invia una richiesta di supporto
 
 1. Nel centro per i Partner, seleziona **i clienti**.
 2. Seleziona il cliente che richiede il supporto.
-3. Seleziona **la gestione dei servizi** e **richieste di servizio**.
+3. Seleziona **la gestione dei servizi** e **le richieste di servizio**.
 4. Seleziona **nuova richiesta** e quindi seleziona **Microsoft Office 365**.
 5. Vieni indirizzato al portale di Office 365 in cui è necessario accedere con le credenziali di Centro per i Partner.
-6. Seleziona **il supporto**, **nuova richiesta di servizio** dal menu a sinistra.
+6. Seleziona il **supporto**, **nuova richiesta di servizio** dal menu a sinistra.
 7. Seleziona l'argomento di supporto.
 
 >[!NOTE]
@@ -49,9 +52,9 @@ Esistono però alcune categorie di problemi che è necessario inoltrare a Micros
 
 Per informazioni sulla creazione di report i problemi per conto del cliente, vedi [segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).
 
- 
+ 
 
- 
+ 
 
 
 

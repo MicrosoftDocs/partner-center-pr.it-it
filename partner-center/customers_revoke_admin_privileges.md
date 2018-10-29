@@ -1,15 +1,18 @@
 ---
 title: I clienti delegano i privilegi amministrativi ai partner | Centro per i partner
-description: Come partner rivenditore, il cliente può puoi essere delegato loro come amministratore. È possibile anche rimuovere i privilegi.
+ms.topic: article
+ms.date: 10/29/2018
+description: Come partner rivenditore, il cliente può puoi essere delegato loro come amministratore. Si può anche rimuovere i privilegi.
 author: labrenne
+ms.author: labrenne
 keywords: privilegi di amministratore delegato, amministrazione per conto di, rimuovere i privilegi, DAP, of AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 224ed2ea2485420761c7a5f85db5a7a37fd245af
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: cb53cf35eafd40e929c30ee74b2f7e98b3e4332a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489877"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795734"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>I clienti delegano i privilegi amministrativi ai partner
 
@@ -34,7 +37,7 @@ Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ulti
 
 5.  Dopo aver accettato l'invito, il cliente verrà visualizzato nella pagina **Clienti** e tu potrai effettuare il provisioning e gestire il servizio per il cliente da questa pagina.
 
-6.  Per la gestione di account, servizi, gli utenti e licenze del cliente, Espandi il record del cliente selezionando la freccia giù accanto al nome e quindi seleziona il portale di amministrazione per il servizio che desideri gestire.
+6.  Per gestire account, i servizi, gli utenti e licenze del cliente, Espandi il record del cliente selezionando la freccia giù accanto al nome e quindi seleziona il portale di amministrazione del servizio che desideri gestire.
 
 
 > [!IMPORTANT]  
@@ -91,9 +94,9 @@ Ogni sottoscrizione di Azure ha un proprio gruppo di ruoli di gestione delle ris
 
 Centro per i Partner, i partner CSP possono gestire i profili Autopilot per i loro clienti senza privilegi di amministratore. Scopri come [Semplificare la configurazione dei dispositivi con Windows Autopilot.](https://docs.microsoft.com/partner-center/autopilot)
 
-Cosa puoi fare dipende dal modo in quale modello CSP sei iscritto.
+Cosa puoi fare dipende dal modello CSP sei iscritto.
 
-|**Operazione**   |**Per i partner di addebito diretto e provider indiretto**   |**Rivenditore indiretto**   |
+|**Operazione**   |**Partner di addebito diretto e provider indiretto**   |**Rivenditore indiretto**   |
 |-----------------|-----------------------------------| -----------------------------|
 |Aggiungere dispositivi (tramite file csv)  |Sì      |No|
 |Rimuovere dispositivi   |Sì   |No|

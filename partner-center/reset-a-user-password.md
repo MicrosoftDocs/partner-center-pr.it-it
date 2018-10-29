@@ -1,15 +1,18 @@
 ---
 title: Reimpostare una password utente | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Se gli utenti dimenticano la password, puoi assegnare loro una nuova password temporanea, che possono usare per l'accesso successivo al Centro per i partner.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 02c45caba9b1a3c5452626d728359eaa300f93b8
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a7643907f809fdb1fcfe58199ae98c32272416dd
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377423"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794894"
 ---
 # <a name="reset-a-user-password"></a>Reimpostare una password utente
 
@@ -18,7 +21,7 @@ ms.locfileid: "4377423"
 -  Centro per i partner
    
 > [!NOTE]  
->  Per ulteriori informazioni sulla reimpostazione password di un utente, se sei iscritto al programma Cloud Solution Provider (CSP) in Microsoft Cloud Germania, vedere [gestione degli utenti nel centro per i Partner per Microsoft Cloud Germania](user-management-in-partner-center-for-microsoft-cloud-germany.md) .
+>  Se sei iscritto al programma Cloud Solution Provider (CSP) in Microsoft Cloud Germania, vedi [Gestione utenti nel centro per i Partner per Microsoft Cloud Germania](user-management-in-partner-center-for-microsoft-cloud-germany.md) per informazioni sulla reimpostazione della password dell'utente.
 
 Se gli utenti dimenticano la password, puoi assegnare loro una password temporanea, che possono usare per l'accesso successivo al Centro per i partner.
 
@@ -37,9 +40,9 @@ Se gli utenti dimenticano la password, puoi assegnare loro una password temporan
 
 2.  Puoi vedere i tuoi ruoli e le istruzioni per la modifica della password.
 
- 
+ 
 
- 
+ 
 
 
 

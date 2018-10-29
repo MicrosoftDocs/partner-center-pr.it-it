@@ -1,16 +1,19 @@
 ---
 title: Aggiungere licenze o servizi a una sottoscrizione esistente | Centro
+ms.topic: article
+ms.date: 10/29/2018
 description: Se il cliente necessita di più licenze rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: aggiungere licenze a una sottoscrizione esistente, aggiungere postazioni a una sottoscrizione esistente, modificare una sottoscrizione, cambiare una sottoscrizione, acquistare ulteriori licenze per un cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7e16cbd466ccb8f46982ef8c7e38f644737afcdd
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489727"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795974"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Aggiungere licenze o servizi a una sottoscrizione esistente
 
@@ -38,7 +41,7 @@ In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 Business</td>
+<td>Office365Business</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 ProPlus</li>
@@ -47,14 +50,14 @@ In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 Business Premium</td>
+<td>Office365BusinessPremium</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 Business Essentials</td>
+<td>Office365BusinessEssentials</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 Enterprise E1</li>
@@ -64,12 +67,12 @@ In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 Business India e Office 365 Business Essentials India possono essere aggiornati a Office 365 Business Premium India, non a Office 365 Business Premium.</p></td>
+<td><p>¹ Office365BusinessIndia e Office365BusinessEssentialsIndia possono essere aggiornati a Office365BusinessPremiumIndia, non a Office365BusinessPremium.</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
 Le sottoscrizioni possono essere aggiornate se sono soddisfatte queste condizioni:
 
@@ -92,9 +95,9 @@ Per altre informazioni sull'impatto di queste operazioni sulla fatturazione, ved
 3.  Seleziona la nuova offerta e quindi scegli **Invia**.
 4.  Potrebbero essere necessarie altre operazioni per la transizione di alcuni account utente per determinati servizi. In caso affermativo, il centro per i Partner viene fornito un elenco degli account e dei servizi interessati. Per informazioni, vedi l'articolo della Knowledge Base relativo ai [problemi di riassegnazione delle licenze quando si modifica il piano di Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
 
- 
+ 
 
- 
+ 
 
 
 

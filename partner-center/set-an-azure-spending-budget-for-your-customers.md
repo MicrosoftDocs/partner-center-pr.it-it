@@ -1,15 +1,18 @@
 ---
 title: Impostare un budget di spesa di Azure per i clienti | Centro partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Nel Centro per i partner puoi impostare un budget mensile per ogni cliente, così le fatture di Azure non saranno una sorpresa alla fine del mese.
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f6e0e733aed13174dcf4d318b522723bb425b30
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 98b6a4839b599a43ba6c10506468be7dbd064d43
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488957"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794984"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Impostare un budget di spesa di Azure per i clienti
 
@@ -30,7 +33,7 @@ Per aiutare i clienti a gestire la loro spesa di Azure, puoi impostare un budget
 I dati sulla spesa per Azure rappresentano una stima, gli importi di fatturazione effettivi possono variare e il valore non tiene conto di imposte, crediti, rettifiche o altri costi applicabili. I dati sulla spesa vengono aggiornati una volta al giorno. I clienti continueranno a usare le risorse e i servizi Azure (e a pagarli) a meno che tu non cambi le impostazioni del loro account nel portale di Azure. 
 
 > [!NOTE]  
-> Questa funzionalità non è disponibile in sandbox o Test in Production (TIP) gli account.
+> Questa funzionalità non è disponibile nella sandbox o Test in Production (TIP) gli account.
 
 **Abilitare le notifiche e-mail**
 1.  Il menu del centro per i Partner seleziona **spesa per Azure**.
@@ -54,9 +57,9 @@ I dati sulla spesa per Azure rappresentano una stima, gli importi di fatturazion
 3.  In **Sottoscrizioni in base all'uso** nella pagina di gestione dei clienti scegli una sottoscrizione. Visualizza il relativo uso stimato corrente e un elenco dei costi dettagliati in base al servizio.
 
 
- 
+ 
 
- 
+ 
 
 
 

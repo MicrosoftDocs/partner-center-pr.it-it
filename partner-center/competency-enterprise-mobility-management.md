@@ -1,19 +1,22 @@
 ---
 title: Competenza di gestione della mobilità aziendale
+ms.topic: article
+ms.date: 10/29/2018
 description: La competenza di gestione della mobilità aziendale è per i partner che risaltano come esperti nelle soluzioni di gestione della mobilità potenti e sicure per le aziende di grandi dimensioni.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competenza, competenze, gestione della mobilità aziendale
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e6c5fd30a82992d41a22b4892d27ec4709b4b931
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e41399862cc725b15853f365e96c2f8f715c88b
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876071"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796244"
 ---
 >[!IMPORTANT]
->Per informazioni sui requisiti per conseguire questa competenza, visita il [portale di Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

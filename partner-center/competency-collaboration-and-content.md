@@ -1,19 +1,22 @@
 ---
 title: Competenza di collaborazione e contenuto
+ms.topic: article
+ms.date: 10/29/2018
 description: La competenza di collaborazione e contenuto riconosce i partner che offrono soluzioni di SharePoint per agevolare la condivisione, collaborazione e miglioramento della produttività per le aziende.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competenza, competenze, collaborazione e contenuto
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: efe413c3aec78d0f1b01f22e3db73cdb1122b2e9
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 70250f8c8be14a0d6de91ddf32f26fd51424b0e1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877071"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795964"
 ---
 >[!IMPORTANT]
->Per informazioni sui requisiti per conseguire questa competenza, visita il [portale di Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

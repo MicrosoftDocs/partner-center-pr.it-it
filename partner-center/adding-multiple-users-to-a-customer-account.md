@@ -1,16 +1,19 @@
 ---
 title: Creare più utenti per l'account di un cliente | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Puoi aggiungere più utenti contemporaneamente all'account di un cliente caricando un file di dati con valori delimitati da virgole (CSV) nel Centro per i partner.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: caricamento in blocco, aggiungere più utenti all'account di un cliente, aggiungere gli utenti di un cliente, caricamento in blocco degli utenti di un cliente, account del cliente, utenti del cliente, utenti
 ms.localizationpriority: medium
-ms.openlocfilehash: 123c2c7b80398a860aa894449052502d41409c85
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 12bb42d4e1dcf5003ac8790be777c483f216fd6f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488817"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795674"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Aggiungere più utenti all'account di un cliente
 
@@ -18,7 +21,7 @@ ms.locfileid: "4488817"
 
 -  Centro per i partner
 
-È possibile aggiungere più utenti all'account del cliente in una sola volta, caricando un file di dati nel formato di file delimitato da virgole (CSV) nel centro per i Partner. Puoi scaricare un file di dati di esempio dal centro per i Partner e quindi modificarlo per i tuoi scopi oppure puoi creare un nuovo file di dati usando il modello di dati definito di seguito.
+Puoi aggiungere più utenti all'account del cliente in una sola volta, caricando un file di dati nel formato di file delimitato da virgole (CSV) nel centro per i Partner. Puoi scaricare un file di dati di esempio dal centro per i Partner e quindi modificarlo per i tuoi scopi oppure puoi creare un nuovo file di dati usando il modello di dati definito di seguito.
 
 ## <a href="" id="creatingtheimportcsvfile"></a>Requisiti per i file di dati
 
@@ -42,7 +45,7 @@ Immetti i dati seguenti nel file di dati:
 | E-mail           | Indirizzo e-mail aziendale dell'utente presso l'azienda del cliente (campo obbligatorio)           | Ogni utente deve avere un indirizzo e-mail univoco |
 | Aggiornamento stato   | Usato per indicare se il nuovo record utente è stato o meno creato correttamente | \*\*Lasciare vuoto\*\*                        |
 
- 
+ 
 
 ### <a href="" id="createmultipleuseraccounts"></a>Per creare più account utente
 
@@ -54,9 +57,9 @@ Immetti i dati seguenti nel file di dati:
 5.  Nel selettore di file seleziona il file di dati e quindi seleziona **Apri**.
 6.  Seleziona **Convalida**.
 
-    **Nota** La maggior parte degli errori di creazione di account sono causati da problemi del file di dati, tra cui informazioni mancanti, indirizzi e-mail non validi o duplicati o troppi record nel file.
+    **Nota**la maggior parte degli errori di creazione di account sono causati da problemi del file di dati, tra cui informazioni mancanti, indirizzi e-mail non validi o duplicati o troppi record nel file.
 
-7.  Dopo il centro per i Partner convalidato il file, selezionare la **posizione** geografica per i nuovi utenti.
+7.  Dopo che il file viene convalidato il centro per i Partner, seleziona la **posizione** geografica per i nuovi utenti.
 8.  Seleziona **Salva**.
 9.  Scarica le informazioni sulle password temporanee per gli utenti.
 
@@ -64,9 +67,9 @@ Immetti i dati seguenti nel file di dati:
 
 10. Nuovi utenti vengono assegnati automaticamente le autorizzazioni di **può usare licenze e servizi** . 
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,16 +1,19 @@
 ---
 title: Leggere la fattura | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: La fattura è un riepilogo di tutti gli addebiti (per il programma, i prodotti e i clienti) per il periodo mensile corrente. È disponibile nel centro per i Partner.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 8505e0cc42bd294f6c6645ed02c1c5529cffff54
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489407"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795694"
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
@@ -61,7 +64,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 <td>Gli addebiti fissi mensili o annuali per le licenze in base all'uso acquistate, fatturati prima del servizio. Questo numero è la somma di tutti gli addebiti nella colonna &quot;Subtotal&quot; del file di riconciliazione in base alle licenze (colonna T).</td>
 </tr>
 <tr class="even">
-<td>Addebiti basati sull'utilizzo</td>
+<td>Addebiti in base all'uso</td>
 <td>Utilizzo di Azure, inclusi le nuove applicazioni e i nuovi servizi abilitati e usati durante il periodo di fatturazione. Questo numero è la somma di tutti gli addebiti nella colonna &quot;PretaxCharges&quot; del file di riconciliazione in base all'uso (colonna Z).</td>
 </tr>
 <tr class="odd">
@@ -75,7 +78,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 <tr class="even">
 <tr class="even">
 <td>Subtotal</td>
-<td>Totale al lordo imposte e addebiti esclusiva fiscali e crediti.</td>
+<td>Totale al lordo imposte e addebiti esclusivo fiscali e crediti.</td>
 </tr>
 <td>Tax</td>
 <td>Imposta totale per gli addebiti correnti come calcolata complessivamente nella sezione dei dettagli che inizia a pagina 2 della fattura. Questo numero è la somma di tutti gli addebiti che fanno riferimento a:
@@ -143,7 +146,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 |Importo pre-imposta |Totale parziale degli acquisti prima delle imposte. |
 |Imposta sulle vendite |Importo dell'imposta. |
 |Totale |Totale da pagare. |
- 
+ 
 
 
 

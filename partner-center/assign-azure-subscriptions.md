@@ -1,22 +1,25 @@
 ---
 title: Assegnare le sottoscrizioni Azure nel Centro per i partner | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Puoi ora assegnare sottoscrizioni Azure ai clienti nel Centro per i partner. Puoi anche abilitarli alla gestione autonoma delle sottoscrizioni
-author: Labrenne
+author: labrenne
+ms.author: labrenne
 keywords: Azure, sottoscrizione Azure, sottoscrizione, sottoscrizioni, assegnare la sottoscrizione, gestire la sottoscrizione azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c0c82d60ec5032357ab21421b89c5f578d5fe1d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5438803bf25fb40267cbecbdcbe25ed6e6a44cfa
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489027"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796044"
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>Assegnare le sottoscrizioni Azure nel Centro per i partner
 
 **Ambito di applicazione**
 
 -  Centro per i partner
- 
+ 
 ## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Assegna le sottoscrizioni Azure ai tuoi clienti nel Centro per i partner
 
 1. Seleziona **clienti** dal menu del **Centro per i Partner** e individua il cliente che desideri gestire.

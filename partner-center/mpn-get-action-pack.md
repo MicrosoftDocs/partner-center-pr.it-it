@@ -1,15 +1,18 @@
 ---
 title: Acquistare o rinnovare Microsoft Action Pack | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Scopri come ottenere Microsoft Action Pack, se acquistando per la prima volta o rinnovando.
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: action pack, sottoscrizione di Microsoft Action Pack, rinnovare la sottoscrizione di Microsoft Action Pack, rinnovare action pack, ottenere action pack
 ms.localizationpriority: medium
-ms.openlocfilehash: 585fa5f61339f07282b4caab5f678eb4bce9db65
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490127"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795044"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Acquistare per la prima volta o rinnovare una sottoscrizione di Microsoft Action Pack
 
@@ -49,7 +52,7 @@ Dopo l'adesione alla rete dei partner segui le [istruzioni sul sito della rete d
     - Ottenere un messaggio di invito a rinnovare la sottoscrizione nel centro per i Partner: questo sito
 
 >[!IMPORTANT]
->Se ricevi l'invito a rinnovare la sottoscrizione nel centro per i Partner, tieni presente che abbiamo modificato i criteri della finestra di rinnovo e solo dopo la scadenza, è possibile rinnovare la sottoscrizione. Ad esempio, se la sottoscrizione scade il 22 giugno, puoi rinnovarla a partire dal 23 giugno e per i successivi 30 giorni.       
+>Se ricevi l'invito a rinnovare la sottoscrizione nel centro per i Partner, tieni presente che abbiamo modificato i criteri della finestra di rinnovo e solo dopo la scadenza può rinnovare la sottoscrizione. Ad esempio, se la sottoscrizione scade il 22 giugno, puoi rinnovarla a partire dal 23 giugno e per i successivi 30 giorni.       
 >Puoi trovare la data di scadenza della sottoscrizione nella tua pagina [**Offerte per i membri**](https://partnercenter.microsoft.com/pcv/partnership/offers) (è richiesto l'accesso). Se o quando sei idoneo per il rinnovo nel centro per i Partner, attieniti alla procedura seguente.  
 
 

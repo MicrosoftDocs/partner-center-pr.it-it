@@ -1,14 +1,17 @@
 ---
 title: Migrazione degli abbonamenti Office 365 E4 alle nuove versioni di Office 365 | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: L'edizione Microsoft Office 365 Enterprise E4 è stata ritirata il 7 aprile 2017. Scopri come eseguire la migrazione degli abbonamenti del cliente alle nuove versioni di Office 365.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 75999aa004ae03d4ec871fc706d757a192105320
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1dc3957d6abe4069f3868d49e92a458d20e7fbec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490177"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796104"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrazione degli abbonamenti Office 365 E4 alle nuove versioni di Office 365
 
@@ -65,7 +68,7 @@ Attieniti a questa procedura per eseguire la migrazione dell'abbonamento a Offic
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Passaggio 1: Acquistare il nuovo abbonamento
 
-1. Il menu del **Centro per i Partner** seleziona **clienti**, seleziona il cliente che si desidera spostare e quindi seleziona **Aggiungi sottoscrizioni**.
+1. Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente di cui che eseguire la migrazione e quindi seleziona **Aggiungi sottoscrizioni**.
 
 2. Seleziona l'abbonamento che vuoi acquistare dal catalogo (in questo caso, una delle opzioni precedenti), immetti il numero di licenze e quindi seleziona **Invia**.
 
@@ -73,7 +76,7 @@ Attieniti a questa procedura per eseguire la migrazione dell'abbonamento a Offic
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>Passaggio 2: Riassegnare le licenze utente del cliente
 
-1. Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente che si desidera spostare e quindi seleziona **gli utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
+1. Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente di cui che eseguire la migrazione e quindi seleziona **gli utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
 
 2. Per riassegnare le licenze utente, seleziona l'utente da riassegnare e quindi seleziona **Gestisci licenze**.
 
@@ -97,7 +100,7 @@ L'abbonamento precedente viene sospeso e quello nuovo diventa attivo. Per l'abbo
 
 
 
- 
+ 
 
 
 

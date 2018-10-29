@@ -1,15 +1,18 @@
 ---
 title: Disponibilità di Office 365 E5 Single SKU in CSP | Centro partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Office 365 Enterprise E5 Single SKU è disponibile in CSP e include i Servizi di conferenza PSTN.
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cce364069f6710d81435f8d973cd187c98543f96
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876291"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795654"
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Avviso per i partner Office 365: Disponibilità di Office 365 E5 Single SKU in CSP
 
@@ -89,7 +92,7 @@ Clienti servizi di conferenza
 
 Componente aggiuntivo PSTN
 
- 
+ 
 
 **Dopo il rilascio di Office 365 Enterprise E5 Single SKU**
 
@@ -143,7 +146,7 @@ Clienti Servizi di conferenza PSTN Skype for Business per E5 senza Servizi di co
 
 Componente aggiuntivo PSTN
 
- 
+ 
 
 ## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Fatture e file di riconciliazione per i partner
 
@@ -197,7 +200,7 @@ Esempio di riconciliazione per i partner:
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="additional-resources"></a>Risorse aggiuntive
 
@@ -210,9 +213,9 @@ Per altre informazioni, visita il sito [Drumbeat](https://drumbeat.office.com/Pa
 
 -   **Domande frequenti sulle licenze di Office 365 E5 e Skype for Business**
 
- 
+ 
 
- 
+ 
 
 
 

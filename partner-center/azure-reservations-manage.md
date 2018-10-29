@@ -1,15 +1,18 @@
 ---
 title: Gestire le prenotazioni di Azure per conto del cliente | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 Description: Purchasing and managing Azure reservations on behalf of your customers.
 author: v-petand
+ms.author: v-petand
 keywords: Azure, prenotazioni, gestire, fatturazione, acquisto
 ms.localizationpriority: medium
-ms.openlocfilehash: 6b3fb1aed57b39976556851c007590743a805671
-ms.sourcegitcommit: 1321f23b1a5be48a0a5dae6d52fd123ec9bacee2
+ms.openlocfilehash: 20286d269a3074f89ca1368c26992feb03f9d182
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "4562273"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795454"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gestire le prenotazioni di Microsoft Azure per conto del cliente
 
@@ -19,9 +22,9 @@ ms.locfileid: "4562273"
 -  Portale di Microsoft Azure
 -  Partner di CSP
 
-Per gestire gli post-acquisti di prenotazioni di Azure dei tuoi clienti, verrà seleziona il cliente e la prenotazione che desideri gestire nel centro per i Partner e quindi apportare le modifiche alla prenotazione nel portale di Azure. 
+Per gestire prenotazioni di Azure dopo l'acquisto i clienti, dovrai selezionare il cliente e la prenotazione che desideri gestire nel centro per i Partner e quindi apportare le modifiche alla prenotazione nel portale di Azure. 
 
-1. Per iniziare, seleziona **clienti** dal menu del centro per i Partner e quindi seleziona il cliente di cui si desidera gestire le prenotazioni. 
+1. Per iniziare, seleziona **clienti** dal menu del centro per i Partner e quindi seleziona il cliente di cui desideri gestire le prenotazioni. 
 
 2. Dal menu della pagina dei dettagli del cliente seleziona **prenotazioni di Azure** e quindi seleziona la prenotazione specifica che desideri gestire.  
 
@@ -44,7 +47,7 @@ I clienti possono annullare una prenotazione in qualsiasi momento (fino a $ 50.0
 
 Vedi di seguito per tariffe e i dettagli di annullamento.
 
-|**Data annullamento**<br> (giorni)   |**Usage**    |**Credito**  |**Prematuramente.**<br> aziendale    |**Rimborsa terminazione** | 
+|**Data annullamento**<br> (giorni)   |**Usage**    |**Credito**  |**Prematuramente.**<br> aziendale    |**Richiedere il rimborso di limite** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |Meno di 5                       | No          | 100%       | No                              | $50.000 USD   |
 |Meno di 5                       | Sì         | Ripartizione  | No                              | $50.000 USD   |
@@ -67,7 +70,7 @@ Per archiviare una richiesta di supporto per un rimborso o un cambio per conto d
 
 2. Nella pagina dei dettagli del cliente, seleziona **Prenotazioni di Azure**, quindi seleziona la prenotazione specifica che il cliente desidera farsi rimborsare.  
 
-3. Nel riquadro **Azioni**seleziona **rimborso** per passare al record della prenotazione del cliente nel portale di Azure e avviare una richiesta di supporto.  
+3. In **Azioni**, selezionare **rimborso** per passare al record della prenotazione del cliente nel portale di Azure e avviare una richiesta di supporto.  
 
 4. Nella pagina **Nuova richiesta di supporto** attieniti alla procedura seguente per richiedere un rimborso. Seleziona **Avanti** dopo ogni passaggio. 
 

@@ -1,15 +1,18 @@
 ---
 title: Migrare le sottoscrizioni di Skype for Business online piano 1 verso versioni più nuove di Office 365 | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 Description: Skype for Business Online Plan 1 subscriptions is retiring.
-Author: labrenne
+author: labrenne
+ms.author: labrenne
 keywords: Piani di Skype for Business, ritiro di Skype, Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489807"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797164"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrare le sottoscrizioni di Skype for Business online piano 1 verso versioni più nuove di Office 365
 
@@ -57,7 +60,7 @@ Microsoft offre continuamente nuovi prodotti e servizi ai suoi partner. In quest
 
 Il cliente dovrebbe disporre ora di sottoscrizioni sia nuove che precedenti, della precedente sottoscrizione Skype for Business online piano 1 e della nuova sottoscrizione "di destinazione", ad esempio Opzione 1: Office 365 Enterprise F1.
 
-3. Per riassegnare le licenze degli utenti del cliente, il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente si spostano e quindi seleziona **gli utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
+3. Per riassegnare le licenze degli utenti del cliente, il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente che si stanno muovendo e quindi seleziona **gli utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
 
 4. Per riassegnare la licenza utente, seleziona l'utente da riassegnare e quindi seleziona **Gestisci licenze**.
 

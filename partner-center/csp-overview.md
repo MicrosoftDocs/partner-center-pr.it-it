@@ -1,15 +1,18 @@
 ---
 title: Programma Cloud Solution Provider - vendita di soluzioni cloud popolari | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Il programma Cloud Solution Provider può aiutare la tua azienda ad acquisire nuovi clienti e nuove competenze.
 author: labrenne
+ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, partner diretto, partner CSP diretto, rivenditore CSP indiretto, CSP diretto, CSP indiretto, modello diretto, modello indiretto, rivenditore indiretto, provider indiretto, provider, server di distribuzione, programma cloud solution provider
 ms.localizationpriority: medium
-ms.openlocfilehash: 62cfa7e131f22ed5d7c3ac0e26ff14f71ac047f3
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 0e8f55bc76d8bda8494b83794184f928d680f68f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488747"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795214"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programma Cloud Solution Provider - Vendita di soluzioni cloud popolari 
 
@@ -18,7 +21,7 @@ ms.locfileid: "4488747"
 -  Centro per i partner
 
 Il programma Cloud Solution Provider (CSP) non consiste semplicemente nella rivendita di licenze, ma ti aiuta a stabilire un maggiore coinvolgimento nell'attività dei tuoi clienti.
- 
+ 
 - Maggiore coinvolgimento: avere incontri regolari con i clienti significa sviluppare una migliore comprensione del loro business e delle loro esigenze.
 - Aumento dei profitti: offrire servizi più ampi di supporto e fatturazione, in modo diretto o attraverso un provider indiretto, apre la strada a nuovi flussi di ricavi.  
 - Valore aggiunto: potrai fornire ai clienti soluzioni specifiche del settore che includono prodotti Microsoft.
@@ -34,14 +37,14 @@ Il programma Cloud Solution Provider (CSP) non consiste semplicemente nella rive
 #### <a name="new-expanded-requirements"></a>Nuovi requisiti espansi:
 
 Supporto
-- Espandere le funzionalità di supporto tramite acquisto di supporto cloud personale e priorità con un avanzata supporto Microsoft per il pacchetto ai partner. In alternativa, scegliere un supporto tecnico Microsoft Premier per pacchetto i partner per accedere al catalogo completo dei servizi proattivi, con privilegi elevati 24/7 interruzione/correzione il supporto e la gestione degli account tecnica per cloud, ibrido e locale. 
+- Espandere le funzionalità di supporto tramite acquisto di supporto per il cloud personale e priorità con un avanzata supporto Microsoft per il pacchetto ai partner. In alternativa, scegliere un supporto tecnico Microsoft Premier per pacchetto i partner per accedere al catalogo completo dei servizi proattivi, con privilegi elevati 24/7 interruzione/correzione supporto e la gestione degli account tecnici in cloud, ibrido e locale. 
 
 Servizi
 
-- Dimostrare che fornire almeno un servizio gestito, servizio IP o applicazione soluzione dei clienti. Altre informazioni sull'aggiunta dei servizi gestiti
+- Dimostrare che fornire almeno un servizio gestito, servizio IP o applicazione soluzione dei clienti. Altre informazioni sull'aggiunta di servizi gestiti
 
 - Soddisfa le funzionalità di infrastruttura minima, ad esempio la fatturazione e di provisioning.
-Abbiamo stiamo il monitoraggio delle prestazioni annuale per verificare che i partner di addebito diretto che soddisfano questi requisiti siano dimostrando crescita costante. Non esistono alcun obiettivi di prestazioni specifici posto in questo momento, ma Microsoft può implementare una prestazioni della barra in futuro. 
+Ci stiamo il monitoraggio delle prestazioni annuale per verificare che i partner di addebito diretto che soddisfano questi requisiti siano dimostrando crescita costante. Non esistono alcun obiettivi di prestazioni specifici posto in questo momento, ma Microsoft può implementare una prestazioni della barra in futuro. 
 
 - Un ID Microsoft Partner Network (MPN) attivo per la località in cui desiderano vendere
 

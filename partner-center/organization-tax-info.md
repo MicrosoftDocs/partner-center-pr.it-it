@@ -1,14 +1,17 @@
 ---
 title: Informazioni fiscali per l'organizzazione | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Se appropriato, il numero di partita IVA deve essere aggiunto alle informazioni dell'organizzazione
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 84e85e54f9098c7cae57e1bd7f5415b0389b409d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 94cee559de16e10c23cc1d85aff7f661859373be
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488657"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797144"
 ---
 # <a name="organization-tax-information"></a>Informazioni fiscali per l'organizzazione
 
@@ -28,7 +31,7 @@ Le imposte per gli acquisti nel Centro per i partner sono determinate dal tuo in
 
 
 
- 
+ 
 
 
 

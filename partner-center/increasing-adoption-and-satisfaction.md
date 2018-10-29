@@ -1,15 +1,18 @@
 ---
 title: Migliorare i tassi di adozione e soddisfazione | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: I nostri partner usano molte metriche per valutare la crescita delle loro attività e decidere dove concentrare gli investimenti. Il Centro per i partner può essere di aiuto fornendo dati che indicano se e come i clienti usano le licenze acquistate.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8159d203a64632ff8802af5acdd1cb35a194a2ae
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b18ebfc5e376478ebdadab51993af78ea92fe97e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489597"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795254"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Migliorare i tassi di adozione e soddisfazione
 
@@ -33,7 +36,7 @@ Puoi vedere i dati per tutti i tuoi clienti tramite il programma Cloud Solution 
 
 **Per tutto il tuo portfolio**
 
-1.  Il **Centro per i Partner**, seleziona **Analizza**.
+1.  Nel **Centro per i Partner**, seleziona **Analizza**.
 2.  Scarica i dati di distribuzione e utilizzo per l'intero set dei tuoi clienti selezionando le opzioni per l'**esportazione**.
 
 Terminologia:
@@ -80,11 +83,11 @@ Se ricevi molte richieste di assistenza e domande relative alle procedure, il nu
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

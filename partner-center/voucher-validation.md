@@ -1,15 +1,18 @@
 ---
 title: Usare lo strumento di convalida giustificativo nel centro per i Partner per la formazione voucher | Centro per i partner
+ms.topic: article
+ms.date: 10/29/2018
 description: Convalidare e riserva voucher di formazione nel centro per i Partner
 author: labrenne
+ms.author: labrenne
 keywords: voucher di formazione, software assurance per la formazione, convalidare voucher, riserva giustificativo
 ms.localizationpriority: medium
-ms.openlocfilehash: 7c9c2d7cda9d61510cb277074589e798762528f6
-ms.sourcegitcommit: 8a189ccdbdaf5a75bab67c77c6a5a5338e63ca89
+ms.openlocfilehash: 73f488a63e5089dec9462125cb4de79ba6bc5fc9
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "5460099"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797094"
 ---
 # <a name="use-the-voucher-validation-tool-in-partner-center-for-training-vouchers"></a>Utilizzare lo strumento di convalida giustificativo nel centro per i Partner per voucher di formazione
 

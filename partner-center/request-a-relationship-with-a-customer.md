@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1d2d8bc96d33a182227cfda65e8095c20ffb3c44
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 118094c56549306b6ec659c6827362c07d6bd750
+ms.sourcegitcommit: 917e4b1ff2f8ae0d12e581dc2d098151eda7b8c0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795954"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "5917981"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Entrare in contatto con i clienti nel Centro per i partner
 
@@ -22,26 +22,43 @@ ms.locfileid: "5795954"
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
-Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ultimo dovrà concederti le autorizzazioni di amministratore per tale servizio. Per ottenere le autorizzazioni di amministratore, invia al cliente una richiesta di relazione come rivenditore. Dopo che il cliente ha approvato la richiesta, potrai accedere al portale di amministrazione del servizio e gestire il servizio per conto del cliente. 
+Se vuoi gestire un servizio o sottoscrizione per loro conto del cliente, il cliente dovrà concederti le autorizzazioni di amministratore per tale servizio o una sottoscrizione. La procedura seguente mostra come richiedere questa autorizzazione tramite e-mail. Una volta che il cliente ha approvato la richiesta, sarai in grado di accedere al portale di amministrazione del servizio e gestire il servizio per conto del cliente. 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire una relazione come rivenditore con te
+Se vuoi solo stabilire una relazione come rivenditore con un cliente e gestire le sottoscrizioni di Azure CSP che effettuare il provisioning, non è necessaria per ottenere le autorizzazioni di amministratore.
+
+Tieni presente che l'opzione per non richiedere le autorizzazioni non è disponibile per i partner operare in Microsoft Cloud per il governo statunitense o Microsoft Cloud Germania. Per ulteriori informazioni, vedi [i clienti delegano i privilegi amministrativi ai partner](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges).
+
+
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire con te una relazione come rivenditore
 
 1.  Seleziona **clienti** dal menu del **Centro per i Partner** e quindi seleziona **richiedere una relazione come rivenditore**.
 
-2.  Nella pagina successiva controlla la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
+2.  Per richiedere le autorizzazioni di amministratore dal cliente, seleziona **Includi privilegi di amministrazione di Office 365 e Azure Active Directory**. Per stabilire la relazione senza richiedere le autorizzazioni di amministratore, deseleziona questa opzione. 
+
+3.  Nella pagina successiva controlla la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
 
     Il testo nel messaggio di posta elettronica può essere modificato, ma assicurati di includere il collegamento poiché è personalizzato per collegare il cliente direttamente al tuo account. Al termine di questo passaggio, seleziona **Fatto**.
 
 3.  Invia il messaggio di posta elettronica al cliente.
 
-4.  Dopo aver accettato l'invito, il cliente verrà visualizzato nella pagina **Clienti** e tu potrai effettuare il provisioning e gestire il servizio per il cliente da questa pagina.
+5.  Dopo aver accettato l'invito, il cliente verrà visualizzato nella pagina **Clienti** e tu potrai effettuare il provisioning e gestire il servizio per il cliente da questa pagina.
 
  
-5.  Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome.
+6.  Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome.
 
 
 > [!IMPORTANT]  
 > I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questo caso, se il cliente ha bisogno di aiuto, potrai contattare il supporto Microsoft per aprire una richiesta di assistenza per conto del cliente.
+
+## <a name="changes-to-the-customer-invitation-experience"></a>Modifiche all'esperienza di invito dei clienti
+L'esperienza dei clienti per accettare un invito di relazione come rivenditore da un partner Cloud Solution Provider è diverso dal 1 novembre 2018. Per dettagli sulle modifiche, vedi la tabella seguente. Per informazioni dettagliate sulla nuova esperienza in Microsoft Store per le aziende, vedi [uso di provider di soluzioni Microsoft Store per le aziende](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business).
+
+|  | In cui un cliente accettare un invito per i rivenditori creato prima di 1 ° novembre 2018 | In cui un cliente accettare un invito per i rivenditori creato prima di 1 ° novembre 2018 |
+|---------|---------|---------
+| Clienti nel Cloud pubblico | Portale di amministrazione di Microsoft Office | Microsoft Store per le aziende |
+| I clienti nel centro per i Partner per Microsoft Cloud Germania | Portale di amministrazione di Microsoft Office | Portale di amministrazione di Microsoft Office |
+| Clienti nel centro per i Partner per Microsoft Cloud per il governo statunitense | Portale di amministrazione di Microsoft Office | Portale di amministrazione di Microsoft Office |
+
 
 ## <a name="related-topics"></a>Argomenti correlati
 

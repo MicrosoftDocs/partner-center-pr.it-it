@@ -2,17 +2,17 @@
 title: Usare i file di riconciliazione | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: Per una visualizzazione voci di ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal centro per i Partner.
+description: Per una visualizzazione di voci delle relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal centro per i Partner.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 021b968f6dad4a47db712f0f0090edb082770000
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4b5fbab84c30743e4d91b32bf4cbd2bb8b950992
+ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797294"
+ms.lasthandoff: 11/04/2018
+ms.locfileid: "6022244"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -22,7 +22,7 @@ ms.locfileid: "5797294"
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 -  Centro per i partner per Microsoft Cloud Germania
 
-Per una visualizzazione voci di ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal centro per i Partner. I dettagli includono gli addebiti per le sottoscrizioni di ogni singolo cliente e gli eventi dettagliati, ad esempio un'aggiunta di postazioni a una sottoscrizione in corso.
+Per una visualizzazione di voci delle relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal centro per i Partner. I dettagli includono gli addebiti per le sottoscrizioni di ogni singolo cliente e gli eventi dettagliati, ad esempio un'aggiunta di postazioni a una sottoscrizione in corso.
 
 ## <a href="" id="itemizebypartner"></a>Eseguire la scomposizione dei dati in base al partner
 
@@ -209,7 +209,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Nome di dominio del cliente, usato per identificare il cliente. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
+<td><p>Nome di dominio del cliente, usato per identificare il cliente. Questo non deve essere usato per identificare in modo univoco il cliente quando il cliente/partner può aggiornare il dominio di reindirizzamento a microsito/predefinito tramite il portale di Office 365. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">

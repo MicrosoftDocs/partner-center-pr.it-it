@@ -1,20 +1,20 @@
 ---
 title: Panoramica delle prenotazioni di Microsoft Azure | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
-Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
+ms.date: 11/05/2018
+Description: Overview of selling Microsoft Azure Reservations through CSP.
 author: v-petand
 ms.author: v-petand
 keywords: Azure, prenotazioni, gestire, fatturazione, acquisto, Azure RI, istanze riservate di Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: abf8b1aa01168786ff95cd91fe4853e3f7e34e9d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 34b5460ca97b03d05758202912882c313c042427
+ms.sourcegitcommit: 282861f9063fe525bc54f8bbab96656563491b26
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797234"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "6075272"
 ---
-# <a name="sell-microsoft-azure-reserved-instances"></a>Vendere istanze prenotate Microsoft Azure 
+# <a name="sell-microsoft-azure-reservations"></a>Vendita delle prenotazioni di Microsoft Azure
 
 **Ambito di applicazione:**
 
@@ -22,63 +22,34 @@ ms.locfileid: "5797234"
 -  Portale di Microsoft Azure
 -  Partner di CSP
 
-I partner nel programma Cloud Solution Provider (CSP) possono offrire ai clienti di Microsoft Azure istanze prenotate. I clienti possono ottenere un risparmio significativo prenotando anticipatamente. Istanze riservate di Azure offrono ai clienti flessibilità e semplicità nei modi seguenti:
+I partner nel programma Cloud Solution Provider (CSP) possono offrire ai clienti prenotazioni di Microsoft Azure. I clienti possono ottenere un risparmio significativo prenotando anticipatamente. Prenotazioni di Azure offrono ai clienti flessibilità e semplicità nei modi seguenti:
 
--   Condizioni di prenotazione di uno o tre anni 
+-   Condizioni di prenotazione di uno o tre anni
+ 
 -   Facile da iniziare a; Installazione completata in pochi secondi 
+
 -   Annullamento o modifica di istanze riservate in qualsiasi momento per un rimborso rettificato 
+
 -   Gestire l'utilizzo di istanze riservate a livello di organizzazione o di singolo reparto 
 
-> [!NOTE]  
-> Prenotazioni di Azure non sono attualmente disponibili nei mercati seguenti:
-  
-> * Argentina
-> * Azerbaigian
-> * Belarus
-> * Brasile
-> * Cina
-> * India
-> * Indonesia
-> * Kazakhstan
-> * Liechtenstein
-> * Malaysia
-> * Messico
-> * Russia
-> * Arabia Saudita
-> * Sudafrica
-> * Corea del Sud
-> * Taiwan
-> * Turchia
-> * Ucraina
+Prenotazioni di Azure possono rivederla ai clienti nei modi seguenti:
 
-La disponibilità di istanze riservate di Azure interesserà ai clienti nei modi seguenti:
+-   Prenotazioni risparmi significativi rispetto tariffe (grazie all'uso)
 
--   Risparmi significativi rispetto alle tariffe con pagamento in base al consumo grazie all'uso di istanze riservate
 -   Budget e previsioni semplificati in seguito al pagamento anticipato per uno o tre anni 
+
 -   Priorità della capacità di elaborazione nell'area di Azure più vicina agli uffici  
--   Prenotazioni di Azure forniscono la base per le soluzioni end-to-end dell'infrastruttura in combinazione con il software, come Microsoft Windows Server e Database SQL di Azure.   
 
-## <a name="before-you-begin"></a>Prima di iniziare
-
-Prima di acquistare prenotazioni di Azure per conto dei clienti, assicurati di leggere attentamente le informazioni riportate di seguito. Alcune cose da sapere in questo momento...
-
--   I clienti devono disporre già di una sottoscrizione di Azure attiva prima che tu possa acquistare prenotazioni per loro conto  
--   I costi del software non sono inclusi nei prezzi delle prenotazioni di Azure 
--   Gli agenti di vendita e dell'help desk necessitano di accesso esplicito alla sottoscrizione di Azure in modo da poterla acquistare o gestire nel portale di Azure e archiviare richieste di supporto, incluse quelle per gli scambi e i rimborsi, per conto del cliente  
--   Se sei un provider indiretto e acquisti prenotazioni di Azure tramite il portale di Azure, il Partner on record (rivenditore indiretto) viene ereditato dalla sottoscrizione CSP di Azure selezionata. 
--   Il Partner nel record per le prenotazioni di Azure non può essere modificato dopo l'acquisto. Puoi annullare la prenotazione esistente e acquistarne una nuova con il nuovo Partner on record. 
--   Se un cliente desidera trasferire una sottoscrizione di Azure da diretta o EA a CSP, le prenotazioni non vengono trasferite. 
+-   Prenotazioni di Azure costituiscono la base di soluzioni end-to-end dell'infrastruttura in combinazione con il software, come Microsoft Windows Server e Database SQL di Azure   
 
 >[!NOTE]
-> Puoi acquistare, vendere e gestire le prenotazioni di Azure nel centro per i Partner e il portale di Azure e tramite l'API del centro per i Partner. Segui i collegamenti qui sotto per informazioni. 
+> Puoi acquistare, vendere e gestire le prenotazioni di Azure nel centro per i Partner e il portale di Azure e tramite l'API del centro per i Partner. Segui i collegamenti qui sotto per informazioni.
 
 ## <a name="azure-reservations-resources"></a>Risorse sulle prenotazioni di Azure
 |**Per informazioni su**   |**Leggi**    |
 |:-----------------------------|:-----------------|
+| Documentazione di prenotazioni di Azure per i tuoi clienti | [Quali sono le prenotazioni di Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |Acquisto di prenotazioni di Azure per i clienti nel centro per i Partner   |[Acquistare prenotazioni di Azure](azure-reservations-buying.md)
 |La gestione di prenotazioni di Azure nel centro per i Partner | [La gestione di prenotazioni di Azure nel centro per i Partner](azure-reservations-manage.md)
-|Determinare le dimensioni corrette della macchina virtuale e verificare l'utilizzo di macchine virtuali da parte dei clienti   |[Ridimensionamento della macchina virtuale per un utilizzo ottimale delle prenotazioni di Azure](azure-usage.md)   |
+|Determinare le dimensioni corrette della macchina virtuale e verifica l'utilizzo della macchina virtuale cliente   |[Ridimensionamento della macchina virtuale per un utilizzo ottimale delle prenotazioni di Azure](azure-usage.md)   |
 |Acquisto di prenotazioni di Azure mediante l'API del Centro per i partner | [Acquisto di istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) nella documentazione per sviluppatori del Centro per i partner
-
- 
-

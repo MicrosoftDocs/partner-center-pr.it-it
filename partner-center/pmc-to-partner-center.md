@@ -1,63 +1,76 @@
 ---
-title: Eseguire la transizione dell'appartenenza a MPN dal Partner Membership Center al Centro per i partner
+title: Eseguire la transizione l'adesione alla rete dal Partner Membership Center al centro per i Partner
 ms.topic: article
-ms.date: 10/29/2018
-description: "Per gli utenti PMC: adesso stiamo gestendo l'appartenenza a MPN mediante il Centro per i partner. Ecco le operazioni che puoi effettuare."
-author: KPacquer
-ms.author: kenpacq
+ms.date: 11/14/2018
+description: Come eseguire la transizione tuo account di adesione dal Partner Membership Center al centro per i Partner.
+author: maggiepuccievans
+ms.author: maggiepuccievans
 keywords: appartenenza a mpn, competenze, dal pmc al centro per i partner
-robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
+ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794954"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "7011401"
 ---
-# <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Eseguire la transizione dell'appartenenza a MPN dal Partner Membership Center al Centro per i partner
+# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>Eseguire la transizione dell'account di appartenenza per i partner dal Partner Membership Center al centro per i Partner
 
 **Si applica a**
--  Centro per i partner
 
-Per gli utenti del Microsoft Partner Network: adesso stiamo gestendo le nuove appartenenze e i rinnovi del Microsoft Partner Network mediante il Centro per i partner.  
+- Centro per i partner
+- Partner MPN
 
-Se hai sottoscritto MPN mediante il Partner Membership Center, potrai esaminare gli attuali vantaggi nel PMC finché non scade l'appartenenza dell'anno corrente, anche se è già stato rinnovato. 
+## <a name="partner-membership-center-being-retired"></a>Per i partner Membership Center viene ritirato
 
-Quando esegui una nuova registrazione nel MPN, la nuova appartenenza inizierà immediatamente, ma la data di scadenza dell'appartenenza a MPN verrà posticipata di un anno dallo scadere dell'attuale appartenenza a MPN. In questo modo potrai godere di un periodo di sovrapposizione in cui potrai accedere a entrambi i sistemi.
+Durante i prossimi mesi, ti verrà invitante ai partner di spostare gli account di appartenenza per i partner dal Partner Membership Center (PMC) a una nuova piattaforma, il centro per i Partner. Centro per i partner è la destinazione singola per gestire la relazione di business con Microsoft. Sul [sito Web per i Partner](https://partner.microsoft.com/commercial) per altre informazioni, vedere [Preparazione di gestione di adesione](https://partner.microsoft.com/support/partner-center-help) .
 
-Avvia la configurazione degli utenti immediatamente in modo che possano continuare ad accedere a Partner University, in modo che l'organizzazione possa ricevere credito per gli esami tecnici e le certificazioni per [acquisire gli obiettivi di Competenza Microsoft](competencies.md). 
+Dopo che viene eseguito correttamente la transizione il tuo account di appartenenza, in cui gestirai i dettagli dell'account, tra cui (se applicabile) vantaggi, competenze, gli incentivi, offerte e programmi nel centro per i Partner. Inoltre, sarai in grado di ottenere e gestire i lead di vendita da Microsoft e iscriverti al programma Cloud Solution Provider nel centro per i Partner.
 
-## <a name="admin-tasks-add-employee-accounts"></a>Le attività dell'amministratore: aggiungere gli account dei dipendenti
+## <a name="prepare-now-for-a-smooth-transition"></a>Preparare ora per una transizione senza problemi
 
-L'amministratore dell'organizzazione aggiunge i dipendenti nel Centro per i partner, aggiungendoli singolarmente o utilizzando i dati PMC per creare più utenti contemporaneamente:
+I partner verranno chiesto di passare al centro per i Partner quando abbiamo a disposizione le funzionalità necessarie e funzionalità pronte per garantire una transizione senza problemi. Si consiglia di adottare un ora per esaminare le informazioni della tua azienda in PMC e segui la procedura consigliata per garantire una transizione uniforme account.
 
-1.  Nel centro per i Partner, seleziona **Aggiungi nuovo utente** di aggiungere un singolo utente o **impostare il team** (o Aggiungi utenti che utilizzano dati PMC) per aggiungere più utenti contemporaneamente.
-    
-    Per completare l'installazione, segui le istruzioni visualizzate sullo schermo.
+### <a name="pmc-to-partner-center-step-by-step-guide"></a>PMC per la Guida dettagliata di Centro per i Partner
 
-2.  Se stai creando un account individuale, invia le informazioni di accesso (nome utente e password temporanea) direttamente all'utente.
+Abbiamo preparato globale e dettagliati [dal PMC al centro per i Partner Guida di transizione](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf) per illustra in dettaglio ogni passaggio del modo in cui a una transizione account ha esito positivo.
 
-    Se stai configurando più account in base ai dati derivanti da PMC, automaticamente invieremo a ogni utente un messaggio e-mail che include le informazioni di accesso. Potrai anche scaricare un file che contiene queste stesse informazioni da utilizzare nel caso in cui uno dei dipendenti abbia bisogno di nuovo di queste informazioni.
+>[!IMPORTANT]
+>Esistono diversi prerequisiti chiavi inclusi in questa guida richiede molto tempo per completare. Ti invitiamo a comunque esaminarli e avviare le operazioni per completarle appena possibile.
 
-    La password temporanea è valida per 90 giorni. Se l'utente non accede, rimuovi l'account e aggiungilo nuovamente.
+### <a name="video-resources"></a>Risorse video
 
-3.  Facoltativo: configura gli account individuali per [abilitare l'impostazione autonoma della password](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started), tra cui la scelta di quali tipi di domande di sicurezza gli utenti devono rispondere. 
+Oltre a [PMC alla Guida di transizione di Centro per i Partner](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf), abbiamo creato questi brevi video sulle varie fasi di destinazione della transizione il tuo account. 
 
-## <a href="" id="nonadmin_tasks"></a> Le attività dei dipendenti: aggiornare gli account
+- [Individuare il dashboard del centro per i Partner](https://partner.microsoft.com/support/partner-center-help)
+ 
+  Scopri le risorse e gli strumenti disponibili nel centro per i Partner per sfruttare al meglio la partnership.
 
-1.  Ottenere le informazioni di accesso, dal Microsoft Partner Center o dal tuo amministratore. Se non ricevi le informazioni di accesso, contatta l'amministratore dell'organizzazione per chiedere di inviartele direttamente. 
+- [Account più località semplificati](https://partner.microsoft.com/support/partner-center-help)
+ 
+  Se si gestiscono uffici in più aree geografiche, ecco come impostare l'account più località e controllare tutti gli elementi da un sito di facile da usare.
 
-2.  Collega il tuo account di Microsoft Partner University. Nel centro per i Partner, seleziona **Aggiorna il profilo** > **accesso a Partner University Get**.  Dopo aver connesso questo account, potrai accedere di nuovo a Partner University.
+- [Effettuare il conteggio gli esami e la formazione](https://partner.microsoft.com/support/partner-center-help)
 
-3.  Associa gli esami tecnici e le certificazioni di Microsoft. Nel centro per i Partner, seleziona **Aggiorna il profilo** > **Associa esami e certificazioni**. 
+  Connettere il profilo di lavoro per assicurarti di continuare a usufruire di accesso a Partner University e soddisfare i requisiti per le competenze le credenziali di apprendimento dei dipendenti.
 
-4.  Facoltativo: [Impostare la reimpostazione autonoma della password](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password).
+## <a name="see-also"></a>Vedi anche
 
-## <a name="checking-team-status-and-receiving-competency-achievements"></a>Verifica lo stato del team e la ricezione delle competenze acquisite
+Dopo che hai eseguito correttamente la transizione l'account da PMC, esaminare questi articoli per ottenere maggiore familiarità con il centro per i Partner.
 
-1.  Vedi quali dipendenti dall'organizzazione sono connessi con i loro account Microsoft Partner University e hanno associato gli esami e certificazioni: nel centro per i Partner, seleziona **Controlla lo stato del team**.
+-   [Creare un profilo di lavoro per ottenere lead di vendita da Microsoft](create-a-marketing-profile.md)
 
-2.  **Attendi 24 ore** dopo che un dipendente abbia associato il proprio account o completato un obiettivo basato sulle competenze. Dopo questo periodo, viene visualizzato l'avanzamento nella sezione **Partnership > Competenze**.
+-   [Aggiungere nuovi utenti dell'account e assegnare le autorizzazioni su di essi](create-user-accounts-and-set-permissions.md)
+
+-   [Acquistare o rinnovare una sottoscrizione di Microsoft Action Pack](mpn-get-action-pack.md)
+
+-   [Gestire i vantaggi dell'adesione](manage-your-partner-network-benefits.md)
+
+-   [Scoprire i requisiti di competenza per l'adesione Gold e Silver](https://partner.microsoft.com/membership/competencies)
+
+
+
+
+

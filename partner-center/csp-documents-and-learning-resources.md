@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guide al programma CSP, guida al programma, contratti partner, contratto cliente, listini prezzi, offerte
 ms.localizationpriority: medium
-ms.openlocfilehash: a03d8b1a5cdf734831278984a6127951e7d664de
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: be48f5c91d146b0906b3c5927f74531b84bfc14c
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796064"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460958"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guida al programma cloud Solution Provider, ai contratti, listini prezzi e offerte
 
@@ -49,8 +49,6 @@ Microsoft richiede ai partner di sottoscrivere questo contratto per partecipare 
 
 [Contratto per i rivenditori Microsoft Cloud - Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Contratto per i rivenditori Microsoft Cloud - Microsoft Cloud Germania](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_GER_ENG_Sep2018_GermanCloud_CR.pdf)
-
 [Contratto per i rivenditori Microsoft Cloud - Microsoft Cloud per il governo statunitense](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
 
@@ -58,13 +56,13 @@ Microsoft richiede ai partner di sottoscrivere questo contratto per partecipare 
 
 In qualità di partner nel programma CSP, hai la responsabilità di esaminare insieme ai tuoi clienti i termini e le condizioni di Microsoft, incluso l'uso accettabile dei prodotti e dei servizi Microsoft. Fai clic sul collegamento sottostante per trovare il contratto Microsoft Cloud che dovrai esaminare con i nuovi clienti. 
 
-Microsoft Cloud per i [modelli di clienti](agreements.md)
+Contratto Microsoft Cloud per i [modelli di clienti](agreements.md)
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Amendment segreto per il contratto Microsoft Cloud (Germania)
 
-In Germania, il codice criminali (sezione 203) e i codici ai professionisti IT, di condotta richiedono che sono determinate relazioni client mantenere riservati, ad esempio, la relazione tra loro medici e pazienti e la relazione tra i client e legali. Questi gruppi professionali hanno garantire segreto. Per questi e altri professioni acquistare servizi basati su cloud dal provider di soluzioni cloud, il provider di servizi cloud deve stipulare un contratto scritto con il cliente che garantisce segreto. 
+In Germania, il codice criminali (sezione 203) e i codici di condotta ai professionisti IT, richiedono che sono determinate relazioni client mantenere riservati, ad esempio la relazione tra pazienti e loro medici e la relazione tra i client e legali. Questi gruppi professionali dispongono garantire segreto. Per questi e altri professioni acquistare servizi basati su cloud dal provider di soluzioni cloud, il provider di servizi cloud deve stipulare un contratto scritto con il cliente che garantisce segreto. 
 
-Se operi in Germania, devi fornire questa modifica segreto ai tuoi clienti oltre il contratto Microsoft Cloud.
+Se operi in Germania, dovrai fornire questa modifica segreto ai tuoi clienti oltre il contratto Microsoft Cloud.
 
 [Amendment segreto di contratto Microsoft Cloud per Germania (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
@@ -86,7 +84,7 @@ I prezzi in base all'uso sono dinamici e cambiano di frequente. Un esempio di se
 ## <a name="offers"></a>Offerte
 
 
-In qualità di partner CSP, puoi vendere un'ampia gamma di prodotti Microsoft, servizi e soluzioni, tra cui Office 365, Enterprise Mobility Suite, Microsoft Dynamics e Microsoft Azure. Per altre informazioni su quali offerte sono disponibili per la vendita all'interno di queste famiglie di prodotti, vedi la matrice dell'offerta CSP nella pagina **prezzi e offerte** , disponibile dal menu del **Centro per i Partner** . Questo documento viene aggiornato mensilmente.
+In qualità di partner CSP, puoi vendere un'ampia gamma di prodotti Microsoft, servizi e soluzioni, tra cui Office 365, Enterprise Mobility Suite, Microsoft Dynamics e Microsoft Azure. Per ulteriori informazioni su quali offerte sono disponibili per la vendita all'interno di queste famiglie di prodotti, vedi la matrice dell'offerta CSP nella pagina **prezzi e offerte** , disponibile dal menu del **Centro per i Partner** . Questo documento viene aggiornato mensilmente.
 
 Per i partner CSP che usano l'API CREST per i record di utilizzo, Microsoft pubblica anche un elenco dei servizi di Azure in CSP nella pagina **Prezzi e offerte**.
 

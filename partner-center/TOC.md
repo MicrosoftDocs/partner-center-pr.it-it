@@ -1,4 +1,4 @@
-# [Informazioni sul Centro per i partner Microsoft](index.md)
+# [Scopri Centro per i partner Microsoft](index.md)
 
 # [Adesione a Partner Network](mpn-overview.md)
 ## [Creare un account nel Centro per i partner](mpn-create-a-partner-center-account.md)
@@ -13,11 +13,10 @@
 ## [Iscriversi al programma Cloud Solution Provider](enrolling-in-the-csp-program.md)
 ## [Nuovi requisiti dei partner diretti in CSP](direct-partner-new-requirements.md) 
 ## [Contratti, listini prezzi e offerte per CSP](csp-documents-and-learning-resources.md)
-## [Panoramica dell'autorizzazione regionale per CSP](regional-authorization-overview.md)
-## [Consolidamento dei tenant per l'autorizzazione regionale per CSP](csp-regional-authorization-tenant-consolidation.md)
-## [Modelli di contratto per il cliente](agreements.md)
+## [Valute e mercati regionali CSP](regional-authorization-overview.md)
+## [Contratti Microsoft Cloud per area geografica e lingua](agreements.md)
 
-## [Richiesta per la vendita nei cloud nazionali](csp-national-clouds-overview.md)
+## [Cloud nazionali](csp-national-clouds-overview.md)
 ### [Centro per i partner per Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Centro per i partner per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md)
 
@@ -44,6 +43,7 @@
 
 
 # [Fatturazione e imposte](billing.md)
+## [Panoramica di fatturazione CSP](billing-basics.md)
 ## [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md)
 ## [Leggere la fattura](read-your-bill.md)
 ## [Usare i file di riconciliazione](use-the-reconciliation-files.md)
@@ -80,7 +80,8 @@
 ### [Spostare i clienti di servizi basati su licenza nel programma Cloud Service Provider nel dashboard del partner](transition-seat-based-services.md)
 ### [Vendere abbonamenti di Minecraft: Education Edition](minecraft-subscriptions.md)
 ### [Vendere in settori specifici](Get-special-pricing-for-offers.md)
-### [Migliorare i tassi di adozione e soddisfazione](increasing-adoption-and-satisfaction.md)
+### [Vendere Office 365 Government GCC a clienti enti pubblici qualificati](csp-gcc-overview.md)
+### [Migliorare adozione e soddisfazione](increasing-adoption-and-satisfaction.md)
 ### [Semplificare la configurazione dei dispositivi con Windows Autopilot](autopilot.md)
 ##  Aggiornare o trasferire offre alle versioni più recenti
 ### [Aggiornare gli abbonamenti Dynamics AX a Dynamics 365](manual-subscription-migration.md)

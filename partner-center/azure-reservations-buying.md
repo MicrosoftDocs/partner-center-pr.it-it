@@ -7,16 +7,16 @@ author: v-petand
 ms.author: v-petand
 keywords: Azure, prenotazioni, gestire, fatturazione, acquisto
 ms.localizationpriority: medium
-ms.openlocfilehash: 2022018629bd54140a3d9aeca93a4523102c366e
-ms.sourcegitcommit: 282861f9063fe525bc54f8bbab96656563491b26
+ms.openlocfilehash: 75e1afefbd2b411e5e1778e04e01781ac7bbe080
+ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "6075262"
+ms.lasthandoff: 12/01/2018
+ms.locfileid: "8382947"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare le prenotazioni di Microsoft Azure per conto dei clienti nel centro per i Partner 
 
-**Si applica a**
+**Ambito di applicazione**
 
 -  Centro per i partner
 -  Portale di Microsoft Azure
@@ -30,7 +30,7 @@ Esamina le informazioni importanti seguenti prima di acquistare prenotazioni di 
   
 -   I costi di sottoscrizione di software, ad esempio Database SQL o SUSE Linux software non sono inclusi nei prezzi delle prenotazioni di Azure
 
--   Prezzi commerciali di Microsoft per gli utenti non include le imposte, a meno che il percorso è Australia o Brasile. Se la posizione è Australia o Brasile, il prezzo per gli utenti commerciale include le imposte appropriate 
+-   Prezzi commerciali di Microsoft per gli utenti non include le imposte, a meno che il percorso è il Brasile. Se il tuo percorso è il Brasile, il prezzo per gli utenti commerciale include le imposte appropriate 
  
 -   Gli agenti di vendita e dell'help desk necessitano di accesso esplicito alla sottoscrizione di Azure in modo da poterla acquistare o gestire nel portale di Azure e archiviare richieste di supporto, incluse quelle per gli scambi e i rimborsi, per conto del cliente  
 

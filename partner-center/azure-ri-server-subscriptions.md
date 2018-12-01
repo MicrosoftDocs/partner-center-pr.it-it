@@ -1,18 +1,18 @@
 ---
 title: Istanze di macchina virtuale riservate di Azure (RI) + sottoscrizioni server per Azure | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 11/30/2018
 description: Attraverso l'introduzione di istanze riservate di Azure e sottoscrizioni server nel programma CSP, consentiamo ai nostri partner di far fronte alla richiesta in rapida crescita dei clienti di soluzioni più convenienti in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. Il programma CSP consente ai partner di acquisire, fornire e gestire sottoscrizioni server e istanze riservate di Azure per conto dei clienti commerciali tramite il Centro per i partner Microsoft e il portale di Azure.
 author: v-petand
 ms.author: v-petand
 keywords: Azure, sottoscrizioni, VM, prenotazione, istanza di riservati
 ms.localizationpriority: medium
-ms.openlocfilehash: 40df0686cc0a7227360d8f77f09a30d9d6520d45
-ms.sourcegitcommit: ecee11d731f3d47f2513839a4b2b98011eb95f55
+ms.openlocfilehash: e17fc04ad5428229af7c2b61368cf03890612822
+ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/19/2018
-ms.locfileid: "7331033"
+ms.lasthandoff: 12/01/2018
+ms.locfileid: "8382937"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -20,11 +20,11 @@ ms.locfileid: "7331033"
 
 **Ambito di applicazione:**
 
--  Centro per i partner
+- Centro per i partner
  
 ## <a name="what-are-azure-reservations"></a>Quali sono le prenotazioni di Azure?
 
-Prenotazioni di Azure ti consente di risparmiare pre-pagare per un anno o tre anni di macchina virtuale, della capacità di calcolo Database SQL, Azure Cosmos DB velocità effettiva o altre risorse di Azure. Pre-paghi ti permette di ottenere uno sconto in risorse usate. Prenotazioni possono ridurre notevolmente la macchina virtuale, calcolo di database SQL, Azure Cosmos DB, e altre risorse costa fino al 72% rispetto alle tariffe prezzi. Prenotazioni di forniscono un sconto fatturazione e non influiscono sullo stato di runtime delle risorse. Per altre informazioni, vedi [quali sono le prenotazioni di Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+Prenotazioni di Azure consentono di risparmiare pre-pagare per un anno o tre anni di macchina virtuale, Database SQL di calcolo della capacità, velocità effettiva di Azure Cosmos DB o altre risorse di Azure. Pre-paghi ti permette di ottenere uno sconto in risorse usate. Prenotazioni possono ridurre notevolmente la macchina virtuale, calcolo di database SQL, Azure Cosmos DB, e altre risorse costa fino al 72% rispetto alle tariffe prezzi. Prenotazioni di forniscono un sconto fatturazione e non influiscono sullo stato di runtime delle risorse. Per altre informazioni, vedi [quali sono le prenotazioni di Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>Perché i clienti devono acquistare una prenotazione?
 
@@ -33,7 +33,7 @@ Se i clienti dispongono di macchine virtuali, Azure Cosmos DB o database SQL che
  
 ### <a name="compelling-new-azure-offer-in-csp"></a>Nuova straordinaria offerta di Azure in CSP 
 
-Introducendo prenotazioni di Azure e sottoscrizioni Server nel programma CSP, Microsoft è consente propri partner di far fronte alla richiesta dei clienti in rapida crescita soluzioni più convenienti in grado di supportare carichi di lavoro cloud altamente prevedibili e persistenti. Il programma CSP consente ai partner di acquisire, fornire e gestire le prenotazioni di Azure e sottoscrizioni Server per conto dei clienti commerciali tramite Microsoft Partner Center e il portale di Azure. Prenotazioni di Azure ti offre tutta la flessibilità della virtualizzazione per un'ampia gamma di soluzioni di calcolo, tra cui lo sviluppo e test, esecuzione di applicazioni ed estensione del Data Center. 
+Introducendo prenotazioni di Azure e sottoscrizioni Server nel programma CSP, Microsoft è consente propri partner di far fronte alla richiesta dei clienti in rapida crescita soluzioni più convenienti in grado di supportare carichi di lavoro cloud altamente prevedibili e persistenti. Il programma CSP consente ai partner di acquisire, fornire e gestire le prenotazioni di Azure e sottoscrizioni Server per conto dei clienti commerciali tramite Microsoft Partner Center e il portale di Azure. Prenotazioni di Azure ti offre tutta la flessibilità della virtualizzazione per un'ampia gamma di soluzioni di calcolo, tra cui lo sviluppo e test, esecuzione di applicazioni ed estensione del centro dati. 
 
 Con [Istanze di macchina virtuale riservate di Azure](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/) ad esempio, i clienti commerciali possono risparmiare ora fino al 72% rispetto alle tariffe macchina virtuale di Azure facendo semplicemente acquistando, o "prenotando", la macchina virtuale per un periodo di 1 o 3 anni. I clienti di Windows Server con vantaggio Azure Hybrid, incluso con Software Assurance, saranno in grado di risparmiare fino all'80% rispetto alle tariffe. 
 
@@ -41,14 +41,11 @@ Con una combinazione non corrispondente di prezzi e la flessibilità di distribu
 
 - [Istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 - [Sottoscrizioni server](https://www.microsoft.com/en-us/Licensing/news/windows-sql-server-through-csp) 
-- [Licenze CAL Servizi Desktop remoto (RDS)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/) – presto!
+- [Licenze CAL Servizi Desktop remoto (RDS)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/) – disponibile prima della fine dell'anno solare 2018
 - [Prenotazioni di database SQL](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
 - [SUSE Linux](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
 - [Istanza di SQL Server gestito](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
-
-
-
 
 ## <a name="getting-started"></a>Attività iniziali
 
@@ -97,54 +94,10 @@ Di seguito è riportato un elenco completo delle risorse che ti consentiranno di
 - [Ridimensionamento della macchina virtuale per un utilizzo ottimale delle prenotazioni](https://go.microsoft.com/fwlink/?linkid=872810)
 - [API del centro per i partner (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## <a name="azure-hybrid-benefit"></a>Vantaggio Azure Hybrid
+
 Il [Vantaggio Azure Hybrid](https://azure.microsoft.com/pricing/hybrid-benefit) consente di ottenere più valore dalle licenze di Windows Server e risparmiare fino a * 47% sulle macchine virtuali. Puoi utilizzare il vantaggio con Windows Server Datacenter e licenze Standard Edition con copertura Software Assurance. A seconda dell'edizione, puoi convertire o riutilizzare le tue licenze per eseguire macchine virtuali di Windows Server in Azure e pagare un costo di calcolo di base inferiore (i costi delle macchine virtuali Linux).
 
 Vedi anche [Domande frequenti sul vantaggio Azure Hybrid](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
 
 * Il risparmio effettivo può variare in base all'area geografica, al tipo di istanza o all'uso.
-

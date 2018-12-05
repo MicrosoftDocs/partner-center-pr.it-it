@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 40bcbde087fda68428c50d1f840a44a87bdebbc3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794854"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683760"
 ---
 # <a name="view-customer-activity-logs"></a>Visualizzare i log attività dei clienti
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794854"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
+-  
 
 
 I log attività offrono informazioni sulle transazioni e le operazioni di gestione dei partner per i clienti. I log per le transazioni offrono informazioni dettagliate sulla transazione, incluse le sottoscrizioni acquistate. Puoi anche esportare i log attività in file con valori delimitati da virgole (CSV) compatibile con Excel.

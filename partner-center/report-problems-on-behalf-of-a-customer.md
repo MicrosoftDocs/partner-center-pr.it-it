@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795614"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683770"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Segnalare problemi per conto di un cliente
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795614"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
+
 
 Se il cliente ha un problema con il servizio che tu non puoi risolvere e che soddisfa i criteri descritti in [Inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md), crea un ticket di supporto. Questo processo è utile anche per inoltrare problemi o controversie correlati alla fatturazione e segnalare possibili frodi.
 
@@ -39,7 +39,7 @@ Se il cliente ha un problema con il servizio che tu non puoi risolvere e che sod
 
 - Nell'ordine per poter creare richieste di servizio per il cliente in Azure, il provider indiretto deve concederti il che accesso all'account Azure del cliente. Questa operazione è diversa dall'amministrazione per conto dei clienti per Office 365. 
 
-- Anche se l'amministratore help desk nel centro per i Partner non può creare richieste di servizio nel portale di servizio di Azure, cosa può fare è creare un gruppo di supporto nel portale di servizio di Azure e concedere le autorizzazioni di gruppo per registrare le richieste di assistenza.
+- Anche se l'amministratore help desk nel centro per i Partner non può creare richieste di servizio nel portale di servizio di Azure, ciò che potranno fare è creare un gruppo di supporto nel portale di servizio di Azure e concedere le autorizzazioni di gruppo per registrare le richieste di assistenza.
 
 1.  Seleziona **Nuova richiesta di supporto**.
 2.  Compila la richiesta di supporto con le informazioni appropriate e quindi seleziona **Crea**:

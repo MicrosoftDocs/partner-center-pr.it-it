@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
-ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
+ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/16/2018
-ms.locfileid: "7012604"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683810"
 ---
 # <a name="faq-about-new-billing-features"></a>Domande frequenti sulle nuove funzionalità di fatturazione
 
@@ -20,7 +20,7 @@ ms.locfileid: "7012604"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
+
 
 Di seguito sono riportate le domande frequenti su fatturazione annuale del Centro per i partner e funzionalità della versione di valutazione gratuita. 
 

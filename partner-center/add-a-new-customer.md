@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, aggiungere un cliente, account del cliente, account del cliente nel Centro per i partner, clienti, aggiungere i clienti, creare un account del cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b28c2b1200b03747ad9560434c2e69555c16580
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 72b02ad430bc0ce434e3de25380ef043e59ac08d
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794844"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683690"
 ---
 # <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794844"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
+
 
 
 Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto, devi creare un account per il cliente nel centro per i Partner. Il record include le informazioni di contatto e un dominio di Azure AD.

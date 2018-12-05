@@ -7,12 +7,12 @@ ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 54dda52acddff804c2bd3b4017d6041aa0a34720
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 5ba40901453620d98fad2195fad3bb8f6dd4773c
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795084"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683660"
 ---
 # <a name="update-customer-account-info"></a>Aggiornare le info degli account dei clienti
 
@@ -20,7 +20,7 @@ ms.locfileid: "5795084"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
+
 
 Nel Centro per i partner puoi aggiornare le informazioni di fatturazione del cliente e altri dettagli dell'azienda.
 

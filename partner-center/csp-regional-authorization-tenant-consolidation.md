@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: migrazione dei clienti, provisioning, account tenant, consolidamento dei tenant
 ms.localizationpriority: medium
-ms.openlocfilehash: 6285b9dfe88052939a50d6675a190f3e5419cdbb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 83b5040f1562ef44c5cb17b5a2676387237b2794
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797284"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683800"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidamento dei tenant per l'autorizzazione regionale per CSP
 
@@ -21,7 +21,7 @@ ms.locfileid: "5797284"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
+
 
 \[Alcune informazioni sono relative a un prodotto non definitivo che potrebbe subire modifiche sostanziali prima del rilascio sul mercato. Microsoft non riconosce alcuna garanzia, espressa o implicita, in merito alle informazioni qui fornite.\]
 
@@ -41,7 +41,7 @@ Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche divers
 ## <a name="migrate-customer-accounts"></a>Eseguire la migrazione degli account dei clienti
 
 
-1.  Accedi al proprio **Centro per i Partner** con la **transizione** (nuovo) (l'account durante la transizione in) e passa all'elenco dei clienti dei **clienti**.
+1.  Accedi al proprio **Centro per i Partner** con la **transizione** (nuovo) (l'account durante la transizione in) e passa all'elenco dei clienti dai **clienti**.
 
 2.  Seleziona Clienti.
 
@@ -76,7 +76,7 @@ Ripeti questi passaggi per eseguire la migrazione delle sottoscrizioni per tutti
 
 Prima di procedere alla sezione successiva, verifica che sia stato eseguito di nuovo il provisioning di tutte le sottoscrizioni dei clienti esistenti negli account partner di **origine della transizione** nell'account partner di **destinazione della transizione**.
 
-**Nota**i partner devono sospendere le sottoscrizioni nell'account del Tenant Partner **Transizione** nel centro per i Partner lo stesso giorno in cui viene eseguite e configurate con l'account del Tenant Partner **Destinazione della transizione** in queste sottoscrizioni non si verifica il centro per i Partner per assicurarsi di evitare doppie fatturazioni. Le richieste di assistenza verranno negate per gli accrediti causati da eventuali sovrapposizioni nella fatturazione dovute alla mancata disabilitazione delle sottoscrizioni nell'**origine della transizione**.
+**Nota**i partner devono sospendere le sottoscrizioni nell'account del Tenant Partner **Transizione** nel centro per i Partner lo stesso giorno in cui viene eseguite e configurate con l'account del Tenant Partner **Destinazione della transizione** nella tali sottoscrizioni non si verifica il centro per i Partner per assicurarsi di evitare doppie fatturazioni. Le richieste di assistenza verranno negate per gli accrediti causati da eventuali sovrapposizioni nella fatturazione dovute alla mancata disabilitazione delle sottoscrizioni nell'**origine della transizione**.
 
  
 
@@ -125,7 +125,7 @@ Nota che non è necessario eseguire manualmente la migrazione delle sottoscrizio
 
 -   Non esiste attualmente alcun modo per rimuovere completamente un cliente dall'elenco Clienti.
 
--   **Nota**i partner devono sospendere le sottoscrizioni nell'account del Tenant Partner **Transizione** nel centro per i Partner lo stesso giorno in cui queste sottoscrizioni sono eseguite la transizione e configurare l'account di **Destinazione della transizione** Tenant Partner nel centro per i Partner per garantire doppie fatturazioni. Microsoft non supporterà le richieste di accrediti causate da eventuali sovrapposizioni nella fatturazione dovute alla mancata sospensione delle sottoscrizioni nell'**origine della transizione**.
+-   **Nota**i partner devono sospendere le sottoscrizioni nell'account del Tenant Partner **Transizione** nel centro per i Partner lo stesso giorno in cui queste sottoscrizioni sono eseguite la transizione e configurate con l'account di **Destinazione della transizione** Tenant Partner nel centro per i Partner per garantire evitare doppie fatturazioni. Microsoft non supporterà le richieste di accrediti causate da eventuali sovrapposizioni nella fatturazione dovute alla mancata sospensione delle sottoscrizioni nell'**origine della transizione**.
 
      
 

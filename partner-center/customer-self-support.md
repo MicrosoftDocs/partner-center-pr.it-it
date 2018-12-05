@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: supporto in autonomia dei clienti, supporto autonomo
 ms.localizationpriority: medium
-ms.openlocfilehash: 46525d10888ec910ac86421dc018b6d8ff1f68ab
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ac6e78057dc8499ad2e46713afe6ade4b4c8ca1e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794774"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683480"
 ---
 # <a name="customer-self-support"></a>Supporto in autonomia dei clienti
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794774"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
+
 
 I clienti possono accedere alla propria interfaccia di amministrazione di Microsoft Office 365 o al portale di gestione di Azure per gestire i loro account:
 

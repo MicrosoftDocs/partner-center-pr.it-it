@@ -7,12 +7,12 @@ ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 430fe97ffac1f517e9086afb077b0f126e98ae3c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 949536273e4b07778f4a9fac4f4779858573fc1f
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796114"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683700"
 ---
 # <a name="manage-your-customer-list"></a>Gestire l'elenco dei clienti
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796114"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
+
 
 I record dei clienti sono tra le informazioni più importanti nel Centro per i partner. Puoi eseguire una ricerca nel database degli account dei clienti, esportare l'intero database dei clienti o esportarne un sottoinsieme, in un formato di file con valori delimitati da virgole (CSV) compatibile con Excel. Puoi anche esportare le informazioni sulle sottoscrizioni del cliente in un file CSV.
 
@@ -38,7 +38,7 @@ Anche i log attività offrono dati esportabili sulle transazioni e le operazioni
 Dal menu di **Centro per i Partner** , seleziona **i clienti**.
 2.  Per cercare un cliente, immetti il nome del cliente o il nome del dominio nella casella di ricerca.
 3.  Seleziona la **freccia in giù** alla fine della riga di un cliente per visualizzare l'ID Microsoft oltre ai link rapidi per le sottoscrizioni e i servizi associati.
-4.  Sotto le informazioni del cliente **a cui fatturare** , aggiorna il nome della società. Quando salvi il nuovo valore, lo si rifletteranno nell'elenco dei clienti. Questo modo verrà modificata solo il nome della società a cui fatturare e il valore di elenco dei clienti. Non si verrà applicato in un punto qualsiasi altro.
+4.  Sotto le informazioni del cliente **a cui fatturare** , aggiorna il nome della società. Quando salvi il nuovo valore, lo sarà visibili nell'elenco dei clienti. Questo modo verrà modificata solo il nome della società a cui fatturare e il valore di elenco dei clienti. Non si verrà applicato in un punto qualsiasi altro.
 
 ## <a name="export-your-customer-list"></a>Esportare l'elenco dei clienti
 

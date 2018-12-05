@@ -8,20 +8,19 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guide al programma CSP, guida al programma, contratti partner, contratto cliente, listini prezzi, offerte
 ms.localizationpriority: medium
-ms.openlocfilehash: be48f5c91d146b0906b3c5927f74531b84bfc14c
-ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
+ms.openlocfilehash: 9318834c508629285265a4c2267e8ada10896db8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/21/2018
-ms.locfileid: "7460958"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683780"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guida al programma cloud Solution Provider, ai contratti, listini prezzi e offerte
 
-**Si applica a**
+**Ambito di applicazione**
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
 
 
 Esamina le informazioni contenute in questo articolo per informazioni sui requisiti per partecipare al programma Cloud Solution Provider (CSP) di Microsoft. 

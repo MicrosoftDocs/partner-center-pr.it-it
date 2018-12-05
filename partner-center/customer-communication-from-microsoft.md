@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: comunicazione, comunicazioni con i clienti, parlare con Microsoft
 ms.localizationpriority: medium
-ms.openlocfilehash: b0e9dde7596ea980a44c3df6d6291c4db248240f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fbb5e9fab5ae9a92218988f0ff1465443d9a4eac
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797204"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683460"
 ---
 # <a name="customer-communication-from-microsoft"></a>Comunicazioni con i clienti da Microsoft
 
@@ -21,7 +21,7 @@ ms.locfileid: "5797204"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
+
 
 In generale, il partner Cloud Solution Provider deve occuparsi di tutte le comunicazioni con il cliente. Poiché sei tu il responsabile del rapporto di fatturazione con il cliente, Microsoft non invierà comunicazioni direttamente ai tuoi clienti relative alle sottoscrizioni.
 

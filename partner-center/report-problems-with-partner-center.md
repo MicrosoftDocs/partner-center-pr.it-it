@@ -7,12 +7,12 @@ ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 85e7f076cbb9b3a1b082edb020cf8134a844a733
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 46ac1cd60496338bbcdac7cf0258a2d4adfc9754
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795324"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683680"
 ---
 # <a name="report-problems-with-partner-center"></a>Segnalare i problemi relativi al Centro per i partner
 
@@ -20,13 +20,13 @@ ms.locfileid: "5795324"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
+
 
 Supporto del centro di contatto per i Partner Se rilevi problemi con il centro per i Partner, tra cui bug o interruzioni del servizio.
 
 **Segnalare un problema con il centro per i Partner**
 
-1.  Nel **Centro per i Partner**, seleziona l'icona del **supporto** e quindi seleziona **le richieste Centro per i Partner**.
+1.  Nel **Centro per i Partner**, seleziona l'icona di **supporto** e quindi seleziona **le richieste Centro per i Partner**.
 
 2.  Seleziona **Nuova richiesta**.
 
@@ -41,7 +41,7 @@ Se si verifica un errore mentre ti trovi in una pagina del Centro per i partner,
 
 1.  Vai alla pagina con il problema.
 
-2.  Premi **Ctrl + Alt + D** per aprire lo strumento di diagnostica Client.
+2.  Premere **Ctrl + Alt + D** per aprire lo strumento di diagnostica Client.
 
 Puoi visualizzare in anteprima le informazioni di diagnostica e salvarle in un file che è possibile allegare alla richiesta di supporto. Per inviare le informazioni:
 

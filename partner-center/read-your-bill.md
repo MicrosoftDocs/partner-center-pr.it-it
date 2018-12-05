@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: 8505e0cc42bd294f6c6645ed02c1c5529cffff54
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795694"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683790"
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
@@ -21,9 +21,9 @@ ms.locfileid: "5795694"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
 
-Per la fattura, Vai al menu **Centro per i Partner** e quindi seleziona **la fatturazione** per visualizzare la cronologia di fatturazione e tendenze, i collegamenti per la fattura e il file di riconciliazione e il pagamento più recente.
+
+Per la fattura, Vai al menu del **Centro per i Partner** e quindi seleziona **la fatturazione** per visualizzare la cronologia di fatturazione e tendenze, i link la fattura e il file di riconciliazione e il pagamento più recente.
 
 I partner del programma Cloud Solution Provider che hanno scelto la fatturazione mensile pagheranno Microsoft per gli abbonamenti dei clienti (sia in base a licenza che in base all'uso) in via posticipata, dopo 60 giorni.
 
@@ -64,7 +64,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 <td>Gli addebiti fissi mensili o annuali per le licenze in base all'uso acquistate, fatturati prima del servizio. Questo numero è la somma di tutti gli addebiti nella colonna &quot;Subtotal&quot; del file di riconciliazione in base alle licenze (colonna T).</td>
 </tr>
 <tr class="even">
-<td>Addebiti in base all'uso</td>
+<td>Addebiti basati sull'utilizzo</td>
 <td>Utilizzo di Azure, inclusi le nuove applicazioni e i nuovi servizi abilitati e usati durante il periodo di fatturazione. Questo numero è la somma di tutti gli addebiti nella colonna &quot;PretaxCharges&quot; del file di riconciliazione in base all'uso (colonna Z).</td>
 </tr>
 <tr class="odd">
@@ -78,7 +78,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 <tr class="even">
 <tr class="even">
 <td>Subtotal</td>
-<td>Totale al lordo imposte e addebiti esclusivo fiscali e crediti.</td>
+<td>Totale al lordo imposte e addebiti esclusiva fiscali e crediti.</td>
 </tr>
 <td>Tax</td>
 <td>Imposta totale per gli addebiti correnti come calcolata complessivamente nella sezione dei dettagli che inizia a pagina 2 della fattura. Questo numero è la somma di tutti gli addebiti che fanno riferimento a:

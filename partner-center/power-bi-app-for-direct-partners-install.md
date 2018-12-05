@@ -7,30 +7,37 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f176b71072a67043df2ffe59b004b0ae8411dd4a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
+ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795534"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "6131700"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installare e visualizzare in anteprima l'app Analisi del Centro per i Partner per Microsoft Power BI
 
 **Si applica a**
 
--   Centro per i partner
+- Centro per i partner
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
+Seleziona l'applicazione che è più rilevante per la tua azienda dall'elenco delle App Power BI disponibili seguente:
+- [Partner diretto](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+
+- [Partner indiretti](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+
+- [Rivenditore indiretto](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+
 Prima di installare la versione di anteprima dell'app Analisi del Centro per i partner, assicurarsi che siano soddisfatti i requisiti seguenti.
 
--   Sei un partner diretto nel programma Cloud Solution Provider e nel Centro per i Partner. Sei un partner diretto se collabori direttamente con Microsoft e con i clienti.
+- Selezionare l'app Power BI corretto per la tua azienda.
 
--   Hai una sottoscrizione Microsoft Power BI Professional o Microsoft Power BI Premium attivo.
+- Hai una sottoscrizione Microsoft Power BI Professional o Microsoft Power BI Premium attivo.
 
--   Puoi accedere a Power BI.
+- Puoi accedere a Power BI.
 
--   Puoi accedere come amministratore globale, agente amministratore o amministratore della fatturazione del [tenant di Azure Active Directory (Azure AD) della tua azienda](azure-active-directory-tenants-and-partner-center.md).
+- Puoi accedere come amministratore globale, agente amministratore o amministratore della fatturazione del [tenant di Azure Active Directory (Azure AD) della tua azienda](azure-active-directory-tenants-and-partner-center.md).
 
 ## <a name="to-install-the-app"></a>Per installare l'app
 

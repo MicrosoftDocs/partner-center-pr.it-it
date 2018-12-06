@@ -2,31 +2,32 @@
 title: Modelli di contratto Microsoft Cloud per i clienti | Centro per i partner
 ms.topic: article
 ms.date: 11/03/2018
-description: Trovare e scaricare le versioni di area geografica e lingua specifiche del contratto Microsoft Cloud per esaminare con i tuoi clienti.
+description: Trovare e scaricare le versioni specifiche all'area geografica e lingua del contratto Microsoft Cloud per esaminare con i tuoi clienti.
 author: Maggie Evans
+ms.author: evensma
 keywords: contratti cloud Microsoft, modelli di contratto cliente, contratti cliente CSP, MCA, MCA, CSP, dove posso vendere con CSP?, paesi/aree geografiche CSP, MCA CSP in più lingue, CSP per America del Nord, CSP per America centrale, CSP per America del Sud, CSP per Caraibi, Microsoft Cloud CSP per governo degli Stati Uniti, Microsoft Cloud CSP per Germania, CSP per Asia orientale, CSP per Africa, Europa per CSP, CSP per Asia, CSP per Pacifico, MCA CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 670c3657b3865eac97eff4b07b1a333d119b382e
-ms.sourcegitcommit: deea6667687f1c15b1f56ae71c0600533ad63c77
+ms.openlocfilehash: a664c2bd9486f2f3b32dc09a7d47d32eb9913ed0
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2018
-ms.locfileid: "6715282"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776535"
 ---
-# <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratti Cloud Microsoft per area geografica e lingua
+# <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratti Microsoft Cloud per area geografica e lingua
 
-**Si applica a**
+**Ambito di applicazione**
 
 - Partner CSP
 
-Prima di poter effettuare un ordine per conto del cliente, il cliente deve accettare e firmare il contratto Microsoft Cloud.
+Prima che sia possibile inserire un ordine per conto del cliente, il cliente deve accettare e firmare il contratto Microsoft Cloud.
 
 >[!IMPORTANT]
-> A partire da 7 novembre 2018, dovrai verificare che un cliente ha accettato il contratto Microsoft Cloud, fornendo informazioni sulla persona che ha firmato. Per ulteriori dettagli, vedere [Conferma l'accettazione del cliente il contratto Microsoft Cloud](confirm-consent.md) .
+> A partire da 7 novembre 2018, dovrai verificare che un cliente ha accettato il contratto Microsoft Cloud, fornendo informazioni sulla persona che ha firmato. Per ulteriori informazioni, vedi [Conferma l'accettazione del cliente il contratto Microsoft Cloud](confirm-consent.md) .
 
 Contratti Cloud Microsoft sono disponibili in più lingue e area geografica specifica. Trova il cliente località e lingua preferita in uno degli elenchi di seguito per scaricare il contratto corretto.
 
-Se non sei sicuro che le aree geografiche e mercati puoi vendere, trovare la posizione della tua azienda in questo elenco: [mercati internazionali programma Cloud Solution Provider e valute](regional-authorization-overview.md).
+Se non sei sicuro che quali aree geografiche e i mercati che puoi vendere, trovare la posizione della tua azienda in questo elenco: [valute e nei mercati internazionali di programma Cloud Solution Provider](regional-authorization-overview.md).
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
@@ -119,9 +120,9 @@ Se non sei sicuro che le aree geografiche e mercati puoi vendere, trovare la pos
 - Georgia: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Germania: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [tedesco](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_Sep20172_CR.pdf)
     
-    In Germania, il codice criminali (sezione 203) e i codici ai professionisti IT, di condotta richiedono che sono determinate relazioni client mantenere riservati, ad esempio, la relazione tra loro medici e pazienti e la relazione tra i client e legali. Questi gruppi professionali hanno garantire segreto. Per questi e altri professioni acquistare servizi basati su cloud dal provider di soluzioni cloud, il provider di servizi cloud deve stipulare un contratto scritto con il cliente che garantisce segreto.
+    In Germania, il codice criminali (sezione 203) e i codici di condotta ai professionisti IT, richiedono che sono determinate relazioni client mantenere riservati, ad esempio la relazione tra pazienti e loro medici e la relazione tra i client e legali. Questi gruppi professionali dispongono garantire segreto. Per questi e altri professioni acquistare servizi basati su cloud dal provider di soluzioni cloud, il provider di servizi cloud deve stipulare un contratto scritto con il cliente che garantisce segreto.
 
-    Se operi in Germania, devi fornire questa modifica segreto ai tuoi clienti oltre il contratto Microsoft Cloud.
+    Se operi in Germania, dovrai fornire questa modifica segreto ai tuoi clienti oltre il contratto Microsoft Cloud.
 
     - [Amendment segreto di contratto Microsoft Cloud per Germania (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 

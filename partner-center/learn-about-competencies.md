@@ -1,24 +1,24 @@
 ---
 title: Requisiti di competenza Microsoft per l'adesione Gold e Silver | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/5/2018
 description: Scopri i requisiti di competenza per conseguire i livelli di adesione Gold e Silver.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: competenze, adesione silver, adesione gold, mpn, MAPS, competenza, Microsoft Partner Network, adesione alla rete
 ms.localizationpriority: medium
-ms.openlocfilehash: 7c739e3e7142eee7dcc0ec4906e2dbc89fc671d4
-ms.sourcegitcommit: bf952686358864cb268f71d039c682ee2a50ba68
+ms.openlocfilehash: 152f5186471572a3dafbf3a273867e1d64aafa69
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797389"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776455"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Requisiti di competenza Microsoft per l'adesione Gold e Silver
 
 **Si applica a**
 
--  Centro per i partner
+- Centro per i partner
 
 Dimostra la comprovata esperienza nella fornitura di soluzioni di qualità in uno o più settori specifici di business. Le competenze Microsoft sono progettate per prepararti a soddisfare le esigenze dei tuoi clienti e aiutarti a attirare nuovi clienti in cerca di provider di soluzioni Microsoft Certified. Entra nell'elite dei partner Microsoft e distinguiti dal gruppo.
 
@@ -26,8 +26,13 @@ Dimostra la comprovata esperienza nella fornitura di soluzioni di qualità in un
 
 - Consegui un livello di **adesione Gold** per dimostrare la tua massima competenza in una specifica area di soluzioni Microsoft
 
-Scopri i requisiti per conseguire un livello di adesione Silver e Gold nelle aree di competenza seguenti:
+Scopri cosa requisiti per conseguire adesione Silver e Gold nelle aree di competenza seguenti:
 
+<!-- Removed the ISV competency row as per Sarah Hodge on 12/5/18 
+
+[ISV competency](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SQL Server 2016,  Dynamics 365, Office 365, Windows Server 2019, System Center 2016|
+
+-->
 
 | Competenze  | Tecnologie |
 |   ------------------   |   -------   |
@@ -45,8 +50,8 @@ Scopri i requisiti per conseguire un livello di adesione Silver e Gold nelle are
 | [Competenza di DevOps](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio, Visual Studio Team Foundation Server (TFS) 2012, ciclo di vita del software, certificazioni Scrum |
 | [Competenza di gestione della mobilità aziendale](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Enterprise Mobility + Security (EMS), Microsoft Intune, Azure Information Protection, Azure Active Directory Premium (AADP), Gestione dispositivi mobili, gestione delle identità e degli accessi, protezione informazioni, Cloud App Security |
 | [Competenza di pianificazione delle risorse aziendali](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365, Enterprise Resource Planning (ERP), database SQL Server 2012  |
-|[Competenza ISV](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SQL Server 2016, Dynamics 365, Office 365, Windows Server 2019, System Center 2016| 
 | [Competenza dei messaggi](https://partner.microsoft.com/membership/messaging-competency)| Office 365, Exchange Server 2016 |
 | [Competenza di gestione del progetto e portfolio](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project, Project and Portfolio Management (PPM), SharePoint Server 2016|
 | [Competenza di soluzioni cloud per piccole e medie aziende](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
 | [Competenza di Windows e dispositivi](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10, Windows 10 IoT, Universal Windows Platform, Surface Hub, Office 365, Skype for Business 2015, distribuzione aziendale |
+|

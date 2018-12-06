@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 800e816ad882b11721f26f7c219997de7a33e416
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795714"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776475"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Aggiornare l'adesione al Microsoft Partner Network
 
@@ -47,10 +47,10 @@ Action Pack è un conveniente abbonamento annuale a servizi, software e supporto
 
 - Ricevere 100 dollari di crediti Microsoft Azure al mese
 
-Per altre informazioni su Microsoft Action Pack, Vai a [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
+Per ulteriori informazioni su Microsoft Action Pack, Vai a [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 > [!NOTE]  
-> Questo collegamento ti condurrà è a un altro sito Web. Torna a questo sito, il centro per i Partner, la sottoscrizione di Action Pack.
+> Questo collegamento ti condurrà è a un altro sito Web. Torna a questo sito, il sito del centro per i Partner, la sottoscrizione di Action Pack.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Sottoscrizione a Microsoft Action Pack
@@ -79,7 +79,7 @@ L'abbonamento ad Action Pack verrà rinnovato automaticamente ogni anno in tale 
 
 3. Seleziona **Turn off automatic renewal** se non vuoi che la sottoscrizione di Action Pack venga rinnovata automaticamente ogni anno. 
 
-   > [!NOTE]  
+> [!NOTE]  
 > Se disattivi il rinnovo automatico della sottoscrizione, potrai riattivarlo solo al successivo rinnovo. Prima della scadenza dell'abbonamento, riceverai un promemoria per il rinnovo.
 
 

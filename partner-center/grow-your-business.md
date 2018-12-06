@@ -7,27 +7,27 @@ keywords: riferimenti, rispondere ai riferimenti, lead, lead di vendita, profilo
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1fa537dbb170412385080b17cf3a52e8a7a784ea
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796424"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776485"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Aumenta il tuo business con i partner Microsoft 
 
-Microsoft offre numerose risorse che consentono di incrementare le attività con i partner. Scopri come le funzionalità in questo sito, il Centro per i partner Microsoft, possono aiutarti ad attirare nuovi clienti e ottenere ulteriori profitti. 
+Microsoft offre numerose risorse che consentono di incrementare le attività con i partner. Scopri come le funzionalità in questo sito, il Partner Center Microsoft, possono aiutarti a attirare nuovi clienti e di ampliare la redditività altre.
 
 Usa il Centro per i partner per:
 
--   Ottenere lead di vendita (tutti i partner)
--   Separare l'azienda con stato di partner Silver o Gold (tutti i partner)
--   Offrire sottoscrizioni di versioni di valutazione per prodotti Microsoft (partner CSP)
--   Offrire prezzi promozionali per prodotti Microsoft (partner CSP)
--   Vendere in altri mercati (partner CSP)
+- Ottenere lead di vendita (tutti i partner)
+- Separare l'azienda con stato di partner Silver o Gold (tutti i partner)
+- Offrire sottoscrizioni di versioni di valutazione per prodotti Microsoft (partner CSP)
+- Offrire prezzi promozionali per prodotti Microsoft (partner CSP)
+- Vendere in altri mercati (partner CSP)
 
 > [!NOTE]  
->  L'azienda deve essere registrato in Microsoft Partner Network e disporre di un account del centro per i Partner per sfruttare queste funzionalità. Vedi [Aderire a Microsoft Partner Network](mpn-overview.md) per informazioni sul come aderire alla rete. Per alcune funzionalità, è inoltre necessario essere un rivenditore che partecipa al programma Cloud Solution Provider (CSP). Vedi [Panoramica Cloud Solution Provider](csp-overview.md) per informazioni sulla vendita tramite questo programma.
+> L'azienda deve essere registrato in Microsoft Partner Network e disporre di un account del centro per i Partner per sfruttare queste funzionalità. Vedi [Aderire a Microsoft Partner Network](mpn-overview.md) per informazioni sul come aderire alla rete. Per alcune funzionalità, è inoltre necessario essere un rivenditore che partecipa al programma Cloud Solution Provider (CSP). Vedi [Panoramica Cloud Solution Provider](csp-overview.md) per informazioni sulla vendita tramite questo programma.
 
 ## <a name="resources-to-help-your-business-grow"></a>Risorse per aiutare le aziende a crescere
 
@@ -39,10 +39,6 @@ Usa il Centro per i partner per:
 | Offrire i prezzi promozionali dei clienti per le sottoscrizioni Microsoft  | Occasionalmente Microsoft offre promozioni per le sottoscrizioni basate sulle licenze per consentirti di offrire sconti ai clienti e far crescere la tua attività. Leggi [Offrire i prezzi promozionali dei clienti per le sottoscrizioni Microsoft](promotions.md) per sapere come fare. | Partner CSP |
 | Vendere in altri mercati | Il canale di vendita Cloud Solution Provider è disponibile in molte aree geografiche e paesi/regioni. Vedi [Mercati Cloud Solution Provider](agreements.md) per esaminare l'elenco. Per un'introduzione al canale Cloud Solution Provider, vedi [Panoramica di Cloud Solution Provider](csp-overview.md).  | Partner CSP |
 Vendere in settori specifici, come orgs no profit e gli istituti di istruzione|[Vendere in settori specifici](get-special-pricing-for-offers.md)|Partner CSP|
-|Aumenta il tuo business tramite l'attività di molti disponibili nel programma di incentivi il co-op. Attestazioni di file per le attività tramite il centro per i Partner.| [Creare e gestire attestazioni di incentivi](create-incentives-claims.md)|Partner CSP|
-|Creare nuovi bundle di software aggiungendo offerte di terze parti che funzionano con il software Microsoft che già vuoi vendere|[Individuare le offerte di terze parti](third-party-offers.md)|Partner CSP|
-
-## <a name="see-also"></a>Vedi anche
-
-Il sito [Microsoft Partner Network](https://partner.microsoft.com) e la [home page del Centro per i partner](https://partnercenter.microsoft.com/partner/home) se sei un nuovo partner Microsoft oppure se non hai familiarità con i termini indicati in questo articolo.
-
+|Incrementa la produttività tramite i molte attività disponibili nel programma il co-op incentivi. Attestazioni di file per le attività tramite il centro per i Partner.| [Creare e gestire attestazioni di incentivi](create-incentives-claims.md)|Partner CSP|
+|Creare nuovi bundle di software, includendo le offerte di terze parti che funzionano con il software Microsoft che vendi già|[Individuare le offerte di terze parti](third-party-offers.md)|Partner CSP|
+|

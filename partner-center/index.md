@@ -5,21 +5,22 @@ title: Inizia da qui per ottenere assistenza con il centro per i Partner
 ms.topic: landing-page
 ms.date: 10/29/2018
 description: Hai bisogno di assistenza per configurare il tuo account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack? Trova che le risposte il centro per i Partner consentono di libreria creata in modo specifico per i partner nei programmi CSP e MPN. 
-author: v-chmccl
+author: labrenne
+ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 5677ad5ea93cef313aa2b7373e75c9621d0a4e48
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: afd4421e000081864394995d75e4671d711825ef
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795914"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776525"
 ---
 # <a name="start-here-for-help-with-partner-center"></a>Inizia da qui per ottenere assistenza con il centro per i Partner
 
 Hai bisogno di assistenza per configurare il tuo account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack? Trova che le risposte il centro per i Partner consentono di libreria creata in modo specifico per i partner nei programmi CSP e MPN.
 
-Se sei già familiarità con il centro per i Partner, vedere [quali sono le novità](/partner-center/whats-new-in-pc).
+Se hai già familiarità con il centro per i Partner, vedere [quali sono le novità](/partner-center/whats-new-in-pc).
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>

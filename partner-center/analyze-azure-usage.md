@@ -1,29 +1,30 @@
 ---
 title: Analizzare l'utilizzo di Azure | Centro per i partner
 ms.date: 07/12/2018
-Description: Get data about the usage of your customers' Azure subscriptions.
+Description: Use Partner Center to get data about the usage of your customers' Azure subscriptions.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: dati aziendali
 ms.localizationpriority: medium
-ms.openlocfilehash: e5ed6ce99a8319ce2e86b8522f1bdf40ccf5b2f9
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 2a1311cb163d5e7f12e7649b56e74e240f0caca1
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795664"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917413"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Ottenere i dati sull'utilizzo delle sottoscrizioni di Azure dei clienti 
 
-**Si applica a**
+**Ambito di applicazione**
 - Centro per i partner
 
 I dati guidano le decisioni aziendali. Utilizza le metriche nella pagina di **utilizzo di Azure** per identificare il con esiti positivi e le aree che richiedono maggiore attenzione. Utilizza queste informazioni per pianificare nuovi obiettivi aziendali.
 
 > [!NOTE]
-> Analitica utilizzo di Azure è disponibile solo per i partner del programma Cloud Solution Provider.
+> Analitica di utilizzo di Azure è disponibile solo per i partner del programma Cloud Solution Provider.
 
 Ci stiamo occupando delle seguenti metriche:
 
@@ -45,6 +46,6 @@ Ci stiamo occupando delle seguenti metriche:
 **Conteggio clienti**
  - Nuovi clienti acquisiti durante il periodo di tempo specificato  
 
-**Conservazione sottoscrizione di Azure**  
+**Conservazione di sottoscrizione di Azure**  
  - Il numero di sottoscrizioni che sono stati rinnovato.   
   

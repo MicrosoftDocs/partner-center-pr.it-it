@@ -1,18 +1,18 @@
 ---
 title: I clienti delegano i privilegi amministrativi ai partner | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
-description: Come partner rivenditore, il cliente può puoi essere delegato loro come amministratore. Si può anche rimuovere i privilegi.
+ms.date: 12/7/2018
+description: Come partner rivenditore, il cliente può puoi essere delegato loro come amministratore. Possono anche rimuovere privilegi.
 author: labrenne
 ms.author: labrenne
 keywords: privilegi di amministratore delegato, amministrazione per conto di, rimuovere i privilegi, DAP, of AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: cb53cf35eafd40e929c30ee74b2f7e98b3e4332a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bb92bca26c3b6c73750a5bc02f2833172006d0ff
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795734"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917503"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>I clienti delegano i privilegi amministrativi ai partner
 
@@ -28,7 +28,7 @@ Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ulti
 
 2.  Nella pagina successiva controlla la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
 
-    >! IMPORTANTE<br>
+    >[!IMPORTANT]
     >Il testo nel messaggio di posta elettronica può essere modificato, ma assicurati di includere il collegamento poiché è personalizzato per collegare il cliente direttamente al tuo account. 
     
 3.  Al termine di questo passaggio, seleziona **Fatto**.
@@ -39,9 +39,8 @@ Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ulti
 
 6.  Per gestire account, i servizi, gli utenti e licenze del cliente, Espandi il record del cliente selezionando la freccia giù accanto al nome e quindi seleziona il portale di amministrazione del servizio che desideri gestire.
 
-
-> [!IMPORTANT]  
-> I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questo caso, se il cliente ha bisogno di assistenza, contattare il supporto Microsoft per aprire una richiesta di servizio per conto del cliente.
+>[!IMPORTANT]  
+>I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questo caso, se il cliente ha bisogno di assistenza, contattare il supporto Microsoft per aprire una richiesta di servizio per conto del cliente.
 
 I clienti possono scoprire quali i partner hanno privilegi di amministratore per i propri tenant all'interno del portale di amministrazione di Office 365. A tale scopo, effettua le seguenti operazioni:
 
@@ -65,8 +64,8 @@ Per rimuovere i privilegi di amministratore delegato di un partner:
 2. Nel riquadro dei dettagli seleziona **Rimuovi amministratore delegato**.
 3. Nel riquadro di conferma seleziona **Rimuovi**.
 
-> [!IMPORTANT]  
-> Le assegnazioni dei ruoli di Azure AD al partner sono implicite. Se tenti di elencare i membri dei ruoli di Azure AD tramite il portale di Azure AD/PowerShell/Graph, non verrà restituito il partner. Per scoprire se i partner vengono assegnati ai ruoli di Azure AD, devi consultare la pagina Relazioni con i partner nel portale di amministrazione di Office 365 e vedere se i privilegi di amministratore delegato sono stati concessi al partner.
+>[!IMPORTANT]  
+>Le assegnazioni dei ruoli di Azure AD al partner sono implicite. Se tenti di elencare i membri dei ruoli di Azure AD tramite il portale di Azure AD/PowerShell/Graph, non verrà restituito il partner. Per scoprire se i partner vengono assegnati ai ruoli di Azure AD, devi consultare la pagina Relazioni con i partner nel portale di amministrazione di Office 365 e vedere se i privilegi di amministratore delegato sono stati concessi al partner.
 
 ## <a name="delegated-admin-privileges-in-azure-ad"></a>Privilegi di amministratore delegato in Azure AD 
 
@@ -90,31 +89,23 @@ Ogni sottoscrizione di Azure ha un proprio gruppo di ruoli di gestione delle ris
 
 - Quando un cliente rimuove i privilegi di amministratore delegato da un partner tramite il portale di Office 365, il partner può comunque gestire la sottoscrizione di Azure del cliente, purché sia ancora assegnato a uno o più ruoli nella sottoscrizione. Perché il partner interrompa la gestione della sottoscrizione di Azure, il cliente deve rimuovere l'assegnazione del ruolo.
 
-## <a name="windows-autopilot"></a>Windows Autopilot 
+## <a name="windows-autopilot"></a>Windows Autopilot
 
-Centro per i Partner, i partner CSP possono gestire i profili Autopilot per i loro clienti senza privilegi di amministratore. Scopri come [Semplificare la configurazione dei dispositivi con Windows Autopilot.](https://docs.microsoft.com/partner-center/autopilot)
+<!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
-Cosa puoi fare dipende dal modello CSP sei iscritto.
+Centro per i Partner, i partner CSP possono gestire i profili Autopilot per i loro clienti senza privilegi di amministratore delegato nelle seguenti circostanze: 
 
-|**Operazione**   |**Partner di addebito diretto e provider indiretto**   |**Rivenditore indiretto**   |
-|-----------------|-----------------------------------| -----------------------------|
-|Aggiungere dispositivi (tramite file csv)  |Sì      |No|
-|Rimuovere dispositivi   |Sì   |No|
-|Aggiungere profilo   |Sì   | Sì   |
-|Aggiornare profilo   |Sì    |Sì   |
-|Rimuovere profilo   |Sì   |Sì   |
-|Applicare profilo a dispositivi   |Sì   |Sì   |
-|Rimuovere profilo da dispositivi   |Sì   |Sì   | 
-
-- Se un cliente rimuove i privilegi aministration privilegi di amministratore delegato, ma mantiene una relazione come rivenditore con te, puoi continuare a gestire i profili Autopilot per loro.
+- Se un cliente rimuove i privilegi di amministratore delegato, ma mantiene una relazione come rivenditore con te, puoi continuare a gestire i profili Autopilot per loro.
 
 - È possibile gestire i dispositivi dei clienti che hanno aggiunto puoi o un altro partner. 
 
 - Non puoi gestire i dispositivi che il cliente ha aggiunto tramite il Microsoft Store per le aziende, Microsoft Store per gli istituti di istruzione o portale di Microsoft Intune.
 
-> [!IMPORTANT]  
-> L'esperienza di gestione corrente di Autopilot nel centro per i Partner possa continuare a modificare. Al momento della che pubblicazione di questo articolo, vengono considerate le modifiche seguenti:
+Per ulteriori informazioni su Autopilot, vedi [configurazione dei dispositivi semplificata con Windows Autopilot](https://docs.microsoft.com/partner-center/autopilot).
 
-  - Al partner devono essere concessi privilegi di amministratore delegato dal cliente prima che possa aggiungere/aggiornare/rimuovere profili dai dispositivi nel tenant del cliente.
+>[!IMPORTANT]  
+>L'esperienza di gestione corrente di Autopilot nel centro per i Partner possa continuare a modificare. Al momento della che pubblicazione di questo articolo, vengono considerate le modifiche seguenti:
+
+- Al partner devono essere concessi privilegi di amministratore delegato dal cliente prima che possa aggiungere/aggiornare/rimuovere profili dai dispositivi nel tenant del cliente.
 
 - Per i partner devono essere concessi privilegi di amministratore delegato dal cliente prima che il partner può rimuovere i dispositivi aggiunti da altri partner o dal cliente nel tenant del cliente. In caso contrario, il partner può rimuovere solo i dispositivi aggiunti in precedenza dallo stesso partner.

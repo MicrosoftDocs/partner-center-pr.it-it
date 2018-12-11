@@ -2,18 +2,19 @@
 title: Supporto in autonomia dei clienti | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: Supporto in autonomia dei clienti
+description: I clienti possono accedere alla propria interfaccia di amministrazione Microsoft Office 365 o portale di gestione di Azure e gestire i propri account. Per acquistare altre sottoscrizioni o annullare quelle esistenti, i clienti devono contattare il proprio partner Cloud Solution Provider.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: supporto in autonomia dei clienti, supporto autonomo
 ms.localizationpriority: medium
-ms.openlocfilehash: ac6e78057dc8499ad2e46713afe6ade4b4c8ca1e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.custom: seodec18
+ms.openlocfilehash: 62a4486419183544ba6720c6e23a096fe4dd3841
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683480"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917583"
 ---
 # <a name="customer-self-support"></a>Supporto in autonomia dei clienti
 

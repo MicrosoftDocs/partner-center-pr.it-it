@@ -2,20 +2,21 @@
 title: Account aziendali e Centro per i partner | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: Per creare un account del Centro per i partner, la tua azienda deve disporre di un account aziendale.
+description: Per creare un account del Centro per i partner, la tua azienda deve disporre di un account aziendale. Se hai un abbonamento attivo per Microsoft Azure o Office 365, disponi già di un account aziendale.
 author: labrenne
 ms.author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: aa256ad84b598d011ca25b7470342381148ecf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 529d6f3930c74e75043c87f13b21aa69461c26ad
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796394"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917523"
 ---
-# <a name="your-company-work-account-and-the-partner-center"></a>L'account aziendale e Centro per i Partner  
+# <a name="your-company-work-account-and-partner-center"></a>Account aziendale e Centro per i partner  
 
 **Si applica a**
 
@@ -23,12 +24,12 @@ ms.locfileid: "5796394"
 
 ## <a name="why-you-need-a-work-account"></a>Perché è necessario un account aziendale
 
-Dobbiamo collegare l'account aziendale della tua società al nuovo account del centro per i Partner, in modo che gli utenti dell'account possono accedere al centro per i Partner con i propri nomi utente account aziendale e le password.
+Dobbiamo collegare l'account aziendale della tua società al nuovo account del Centro per i Partner, in modo che gli utenti dell'account possano accedere al Centro per i partner con i propri nomi utente e le password dell'account aziendale.
 
 Se la tua azienda dispone già di un account aziendale, puoi collegarlo all'account del Centro per i partner. 
 
 > [!NOTE]  
->  Prima di decidere di usare un account aziendale esistente, valuta il numero di utenti nell'account che dovranno lavorare nel centro per i Partner. Se hai gli utenti nell'account che non dovranno lavorare nel centro per i Partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno lavorare nel centro per i Partner.
+>  Prima di decidere di usare un account aziendale esistente, valuta il numero di utenti nell'account che dovranno lavorare nel centro per i Partner. Se sono presenti utenti nell'account che non dovranno lavorare nel centro per i Partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno lavorare nel centro per i Partner.
 
 Se l'azienda non dispone di un account aziendale, puoi crearne uno durante il processo di registrazione. 
 
@@ -47,7 +48,7 @@ Se desideri utilizzare un account aziendale esistente, ma si verificano problemi
 
 Per ulteriori informazioni sull'aggiunta di domini in Azure AD, consulta [Aggiungi o associa un dominio in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 
-# <a name="about-microsoft-azure"></a>Informazioni su Microsoft Azure
+## <a name="about-microsoft-azure"></a>Informazioni su Microsoft Azure
 
 Microsoft Azure è una piattaforma cloud pubblica che le società possono utilizzare per creare, distribuire e gestire le applicazioni in una rete globale di data center gestiti da Microsoft. Le aziende usano Azure per creare un'infrastruttura IT virtuale con funzioni virtuali o servizi, invece di computer fisici. 
 

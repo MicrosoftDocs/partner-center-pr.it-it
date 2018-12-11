@@ -2,17 +2,18 @@
 title: Acquistare le prenotazioni di Microsoft Azure per conto del cliente | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-Description: Buy Azure reservations on behalf of customers in Partner Center.
+Description: You can buy Azure reservations on behalf of your customers in Partner Center.
 author: v-petand
 ms.author: v-petand
 keywords: Azure, prenotazioni, gestire, fatturazione, acquisto
 ms.localizationpriority: medium
-ms.openlocfilehash: 75e1afefbd2b411e5e1778e04e01781ac7bbe080
-ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
+ms.custom: seodec18
+ms.openlocfilehash: 6ce50f5269c95ba923b81a062c6f43a94bbff945
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2018
-ms.locfileid: "8382947"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917553"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare le prenotazioni di Microsoft Azure per conto dei clienti nel centro per i Partner 
 
@@ -30,7 +31,7 @@ Esamina le informazioni importanti seguenti prima di acquistare prenotazioni di 
   
 -   I costi di sottoscrizione di software, ad esempio Database SQL o SUSE Linux software non sono inclusi nei prezzi delle prenotazioni di Azure
 
--   Prezzi commerciali di Microsoft per gli utenti non include le imposte, a meno che il percorso è il Brasile. Se il tuo percorso è il Brasile, il prezzo per gli utenti commerciale include le imposte appropriate 
+-   Prezzi commerciali di Microsoft per gli utenti non include le imposte, a meno che il percorso è il Brasile. Se il percorso è il Brasile, il prezzo per gli utenti commerciale include le imposte appropriate 
  
 -   Gli agenti di vendita e dell'help desk necessitano di accesso esplicito alla sottoscrizione di Azure in modo da poterla acquistare o gestire nel portale di Azure e archiviare richieste di supporto, incluse quelle per gli scambi e i rimborsi, per conto del cliente  
 
@@ -102,7 +103,7 @@ Segui i passaggi qui sotto per acquistare le prenotazioni di Microsoft Azure per
 
     b. Scegli **le prenotazioni** nell'elenco di **tipo di** prodotto.
 
-    c. Scegli il tipo di prenotazione che il cliente desidera dall'elenco **prenotazioni tipo** .
+    c. Scegli il tipo di prenotazione che il cliente desidera nell'elenco di **tipo prenotazioni** .
 
 4. Le prenotazioni di Azure devono essere associate a una sottoscrizione di Azure attiva. Scegli la sottoscrizione del cliente che vuoi aggiungere prenotazioni di Azure dall'elenco delle **sottoscrizioni dei clienti** . 
 
@@ -111,11 +112,11 @@ Segui i passaggi qui sotto per acquistare le prenotazioni di Microsoft Azure per
 
 5. Utilizzare i filtri per trovare prenotazioni di Azure in macchine virtuali che soddisfano i requisiti del cliente.  
 
-6. Dopo aver individuato il prenotazioni che vuoi acquistare, Immetti il numero di istanze riservate al cliente sarà necessario nella **quantità** e quindi seleziona **Aggiungi al carrello**.  
+6. Dopo aver individuato il prenotazioni che vuoi acquistare, Immetti il numero di istanze riservate il cliente sarà necessario nella **quantità** e quindi seleziona **Aggiungi al carrello**.  
 
 7. Ripeti i passaggi da 5 a 6 finché non vengono aggiunti tutti gli elementi necessari per l'ordine. Seleziona **Rivedi** per verificare che il tuo ordine sia corretto.  
 
-8. Nella pagina **Rivedi i tuoi ordini** , è possibile: 
+8. Nella pagina **esaminare gli ordini** , puoi: 
 
     - Verificare o modificare la quantità di istanze riservate.
 
@@ -124,7 +125,7 @@ Segui i passaggi qui sotto per acquistare le prenotazioni di Microsoft Azure per
       >[!NOTE] 
       >Se scegli di limitare l'ambito della prenotazione a una singola sottoscrizione Azure, potresti dover aumentare la quota vCPU della sottoscrizione. Per aumentare la quota vCPU della sottoscrizione, dovrai creare una richiesta di supporto nel portale di Azure. Segui le istruzioni [in questo argomento](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) per creare la richiesta.    
 
-    - Se sei un partner provider, seleziona il rivenditore che vuoi associare il prodotto.
+    - Se sei un partner di provider, seleziona il rivenditore che vuoi associare il prodotto.
 
 9. Seleziona **Acquista** per acquistare l'ordine. I dettagli dell'ordine, incluso il numero d'ordine, vengono visualizzati nella pagina di **Conferma** . Seleziona **Fatto** per passare alla pagina **Cronologia ordini**. 
 

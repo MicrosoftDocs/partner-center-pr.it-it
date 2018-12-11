@@ -1,23 +1,24 @@
 ---
 title: Analizzare le prestazioni di rivenditori indiretti | Centro per i partner
 ms.date: 07/12/2018
-Description: Get data about the performance of your indirect resellers.
+Description: Get data about the performance of your indirect resellers to identify successes as well as areas that may need more attention.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
 ms.topic: article
 keywords: dati aziendali
 ms.localizationpriority: medium
-ms.openlocfilehash: bc0e38a516e77fbbbaf75d07f4f6344001bf1229
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: ddf55ceef4ec9d47e53d4697b8d54799ba70f6fd
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795844"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917653"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analizzare le prestazioni dei rivenditori indiretti 
 
-**Si applica a**
+**Ambito di applicazione**
 - Centro per i partner
 
 I dati guidano le decisioni aziendali. Utilizza le metriche nella pagina **analitica rivenditore** per identificare il successi, dei rivenditori indiretti e le aree che richiedono maggiore attenzione. Utilizza queste informazioni per pianificare nuovi obiettivi aziendali.

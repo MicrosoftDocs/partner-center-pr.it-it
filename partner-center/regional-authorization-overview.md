@@ -2,29 +2,30 @@
 title: Mercati globali CSP | Centro per i partner
 ms.topic: article
 ms.date: 11/03/2018
-description: Scopri dove puoi vendere offerte CSP, in base alla posizione della tua azienda.
+description: Vedi i paesi e aree geografiche in cui puoi vendere offerte CSP, in base alla posizione della tua azienda.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: CSP mercati, territori CSP, dove i vendere tramite CSP, offerte CSP, aree geografiche, vendono soluzioni cloud, CSP globale
+keywords: CSP mercati, territori CSP, dove i vendere tramite CSP, CSP offerte, aree geografiche, vendono soluzioni cloud, CSP globale
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e561b68a083d7a5839aaebe6aa9f03f4f7e9c93
-ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
+ms.custom: seodec18
+ms.openlocfilehash: 19a48a5ffc0ab9a3d2555c47cbf67c0376d771bf
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/04/2018
-ms.locfileid: "6022225"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917673"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Cloud Solution Provider programma regionali mercati e valute
 
 Posizione della tua azienda determina il mercato. Tuo mercato include le aree geografiche e/o i paesi in cui puoi vendere offerte CSP.
 
-Ad esempio, se l'azienda è residenti negli Stati Uniti, puoi vendere offerte CSP per i clienti negli Stati Uniti e in altre isole americane degli Stati Uniti. Se la società si trova in Brasile, puoi vendere offerte CSP per i clienti solo in Brasile. Se la società si trova nell'area geografica Africa, puoi vendere ai clienti in tutti i 18 paesi nell'area geografica Africa offerte CSP.
+Ad esempio, se l'azienda è residenti negli Stati Uniti, puoi vendere offerte CSP per i clienti negli Stati Uniti e in altre isole americane degli Stati Uniti. Se la società si trova in Brasile, puoi vendere offerte CSP per i clienti solo in Brasile. Se la società si trova nell'area geografica Africa, puoi vendere offerte CSP per i clienti in tutti i 18 paesi nell'area geografica Africa.
 
 Prima di ordinare che offerte CSP per conto di un cliente, il cliente deve firmare il contratto Microsoft Cloud. Puoi trovare il contratto Microsoft Cloud applicabili per paese/area geografica [qui](agreements.md).
 
 >[!IMPORTANT]
-> A partire dal 7 novembre 2018, dovrai verificare che un cliente ha accettato il contratto Microsoft Cloud, fornendo informazioni sulla persona che ha firmato. Per ulteriori informazioni, vedi [Conferma l'accettazione del cliente il contratto Microsoft Cloud](confirm-consent.md) .
+> A partire dal 7 novembre 2018, dovrai verificare che un cliente ha accettato il contratto Microsoft Cloud, fornendo informazioni sulla persona che ha firmato. Per ulteriori informazioni, vedere [Conferma l'accettazione del cliente il contratto Microsoft Cloud](confirm-consent.md) .
 
 Per determinare dove puoi vendere offerte CSP, trovare la posizione della tua azienda in uno degli elenchi di seguito.
 
@@ -142,7 +143,7 @@ Se la posizione della tua azienda è nell'elenco seguente, puoi vendere offerte 
 
 ## <a name="brazil-region-and-market"></a>Mercato e all'area geografica Brasile
 
-Se il percorso della tua azienda Brasile, puoi vendere offerte CSP per i clienti in Brasile.
+Se della tua azienda è il Brasile, puoi vendere offerte CSP per i clienti in Brasile.
 
 |  Paese/Area geografica | Currency |
 |  -------------- |:--------:|
@@ -214,7 +215,7 @@ Se la posizione della tua azienda è nell'elenco seguente, puoi vendere offerte 
 
 ## <a name="india-region-and-market"></a>Mercato e all'area geografica India
 
-Se il percorso della tua azienda India, puoi vendere offerte CSP per i clienti in India.
+Se della tua società è l'India, puoi vendere offerte CSP per i clienti in India.
 
 |  Paese/Area geografica | Currency |
 |  -------------- |:--------:|
@@ -223,7 +224,7 @@ Se il percorso della tua azienda India, puoi vendere offerte CSP per i clienti i
 
 ## <a name="japan-region-and-market"></a>Mercato e all'area geografica Giappone
 
-Se il percorso della tua azienda Giappone, puoi vendere offerte CSP per i clienti in Giappone.
+Se della tua azienda è il Giappone, puoi vendere offerte CSP per i clienti in Giappone.
 
 |  Paese/Area geografica | Currency |
 |  -------------- |:--------:|
@@ -336,7 +337,7 @@ Se la posizione della tua azienda è nell'elenco seguente, puoi vendere offerte 
 |  Mozambico     |          |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  Territorio Palestinese, occupato |        |
 |  Qatar          |   USD    |
 |  Arabia Saudita   |   USD    |
 |  Serbia         |   USD    |
@@ -374,9 +375,9 @@ Se della tua azienda è la Russia, puoi vendere offerte CSP per i clienti in Rus
 |  Russia         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>Mercato e all'area geografica Taiwan
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+Se la posizione della tua azienda è Taiwan, puoi vendere offerte CSP per i clienti a Taiwan.
 
 |  Paese/Area geografica | Currency |
 |  -------------- |:--------:|

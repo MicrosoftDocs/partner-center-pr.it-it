@@ -2,17 +2,18 @@
 title: Adesione a Microsoft Partner Network | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: Scopri i vantaggi di diventare partner di Microsoft.
+description: Scopri i vantaggi di diventare partner di Microsoft. il fornisce Microsoft Partner Network è più vasta gamma di prodotti nel settore, nonché programma opzioni per distinguere la tua azienda, Vai al mercato e vendere soluzioni.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: partner, partnership, MPN, Microsoft Partner Network, action pack, sottoscrizione di action pack, vantaggi, vantaggi MPN, adesione, silver, gold, competenze
 ms.localizationpriority: medium
-ms.openlocfilehash: 06a8460e2703bffccd4a214fdd3256e859c31937
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.custom: seodec18
+ms.openlocfilehash: 8c07ad4d91e74599e65ab2478de481ef6ca212d6
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776465"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917573"
 ---
 # <a name="partner-with-microsoft"></a>Diventare partner Microsoft
 
@@ -24,7 +25,7 @@ Vedi [Perché Microsoft?](https://partner.microsoft.com/business-opportunities/w
 
 <!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
-Fornisce il Microsoft Partner Network è più vasta gamma di prodotti nel settore, nonché programma opzioni per distinguere la tua azienda, Vai al mercato e vendere soluzioni. Unire senza alcun costo, quindi scegliere la modalità a investire nella partnership con Microsoft ad action pack, starter kit per o competenza.
+il fornisce Microsoft Partner Network è più vasta gamma di prodotti nel settore, nonché programma opzioni per distinguere la tua azienda, Vai al mercato e vendere soluzioni. Unire senza alcun costo, quindi scegliere la modalità a investire nella partnership con Microsoft ad action pack, starter kit per o competenza.
 
 Un'azione pack o starter kit offre software e supporto per compilare soluzioni basate su Microsoft e una competenza dimostra la comprovata esperienza per i clienti e gli altri partner.
 
@@ -42,7 +43,7 @@ Microsoft Partner Network offre tre tipi di appartenenza, come descritto di segu
 
 ### <a name="action-pack"></a>Action Pack
 
-Action Pack offre software, supporto e vantaggi per le aziende che desiderano innanzitutto, creare e incrementare la Microsoft in un ambiente cloud-first, incentrato sui dispositivi mobili. 
+Action Pack offre software, supporto e vantaggi per le aziende che desiderano innanzitutto, creare e incrementare la Microsoft in un mondo mobile-first, cloud-first. 
 
 Esaminare le risorse seguenti per ulteriori informazioni su Action Pack:
 
@@ -56,7 +57,7 @@ Esaminare le risorse seguenti per ulteriori informazioni su Action Pack:
 
 ### <a name="competencies"></a>Competenze
 
-Dimostra la comprovata esperienza nella fornitura di soluzioni di qualità in un'area di business specializzata. Competenze Microsoft sono studiate per soddisfare le esigenze dei tuoi clienti correnti ed essere riconosciute da quelli potenziali. Entra nell'elite dei partner Microsoft e distinguiti dal gruppo.
+Dimostra la comprovata esperienza nella fornitura di soluzioni di qualità in un'area di business specializzata. Competenze Microsoft sono studiate per soddisfare le esigenze dei clienti correnti ed essere riconosciute da quelli potenziali. Entra nell'elite dei partner Microsoft e distinguiti dal gruppo.
 
 Esaminare le risorse seguenti per ulteriori informazioni sulle competenze:
 

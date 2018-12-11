@@ -2,17 +2,18 @@
 title: Gestire le prenotazioni di Azure per conto del cliente | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-Description: Managing Azure reservations on behalf of your customers.
+Description: To manage your customers’ Azure reservations post-purchase, you’ll select the customer and reservation you want to manage in Partner Center, and then make changes to the reservation in the Azure portal.
 author: v-petand
 ms.author: v-petand
 keywords: Azure, prenotazioni, gestire, fatturazione, acquisto, annullamento, exchange, risoluzione anticipata
 ms.localizationpriority: medium
-ms.openlocfilehash: fde21951dacab70a9f9b03d853647aabcc40d9af
-ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
+ms.custom: seodec18
+ms.openlocfilehash: 7096efb34f8c72d3c8dc724332dd031a180d0636
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "7011411"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917713"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gestire le prenotazioni di Microsoft Azure per conto del cliente
 
@@ -22,7 +23,7 @@ ms.locfileid: "7011411"
 -  Portale di Microsoft Azure
 -  Partner di CSP
 
-Per la gestione prenotazioni di Azure dopo l'acquisto dei tuoi clienti, dovrai selezionare il cliente e la prenotazione che desideri gestire nel centro per i Partner e quindi apportare le modifiche alla prenotazione nel portale di Azure. 
+Per gestire prenotazioni di Azure dopo l'acquisto i clienti, dovrai selezionare il cliente e la prenotazione che desideri gestire nel centro per i Partner e quindi apportare le modifiche alla prenotazione nel portale di Azure. 
 
 1. Per iniziare, seleziona **i clienti** nel menu del centro per i Partner e quindi seleziona il cliente di cui desideri gestire le prenotazioni. 
 
@@ -40,14 +41,14 @@ Per la gestione prenotazioni di Azure dopo l'acquisto dei tuoi clienti, dovrai s
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Annullare o cambiare una prenotazione 
 
-Se in un punto qualsiasi modifica le esigenze aziendali del cliente, vengono potresti voler annullare una prenotazione e ottengono un rimborso o importo della prenotazione è un rimborso proporzionale il prezzo di una nuova prenotazione.
+Se in un punto qualsiasi modifica le esigenze aziendali del cliente, desiderano annullare una prenotazione e ottengono un rimborso o importo della prenotazione rimborso proporzionale il prezzo di una nuova prenotazione.
 
-In entrambi questi scenari, la quantità di Microsoft rimborsi per gli utenti in modo che tu possa gestire quindi le transazioni di tipo finanziarie risultante con i tuoi clienti. Microsoft non contatto con clienti direttamente sulla fatturazione, gli annullamenti o i rimborsi.   
+In entrambi questi scenari, la quantità di Microsoft rimborsi per gli utenti in modo che sarà quindi possibile gestire le transazioni di tipo finanziarie risultante con i tuoi clienti. Microsoft non contatto con clienti direttamente sulla fatturazione, gli annullamenti o rimborsi.   
  
 
 **Come funzionano gli annullamenti**
 
-I clienti possono richiedere di annullare una prenotazione in qualsiasi momento (Importo rimborso limitata a $50.000 all'anno). L'annullamento di una prenotazione consente al cliente di restituire la quantità dei mesi rimanenti di una prenotazione di Azure per una risoluzione anticipata. Il saldo proporzionale rimanente, meno la risoluzione anticipata, viene rimborsato al tuo account, in modo che si può richiedere il rimborso di account del cliente. 
+I clienti possono richiedere di annullare una prenotazione in qualsiasi momento (Importo rimborso limitata a $50.000 all'anno). L'annullamento di una prenotazione consente al cliente di restituire la quantità dei mesi rimanenti di una prenotazione di Azure per una risoluzione anticipata. Il saldo proporzionale rimanente, alla risoluzione anticipata, verrà rimborsato al tuo account in modo che si può richiedere il rimborso di account del cliente. 
 
 Vedi di seguito per tariffe e i dettagli di annullamento.
 
@@ -62,9 +63,9 @@ Vedi di seguito per tariffe e i dettagli di annullamento.
 
 **Come funzionano gli scambi** 
 
-Se un cliente vuole acquistare una prenotazione diversa rispetto a quello che è stato originariamente acquistati da te, può richiedere un di exchange. Lo scambio di una prenotazione può essere un'alternativa interessante per annullare una prenotazione perché consente al cliente di utilizzare l'importo del rimborso proporzionale verso il prezzo della nuova prenotazione. 
+Se un cliente desidera acquistare una prenotazione diversa rispetto a quello che è stato originariamente acquistati da te, può richiedere un exchange. Lo scambio di una prenotazione può essere un'alternativa interessante per annullare una prenotazione perché consente al cliente di utilizzare l'importo del rimborso proporzionale verso il prezzo della nuova prenotazione. 
 
-L'importo del rimborso proporzionale è accreditata al tuo account, in modo che si possa offrire ai clienti un di exchange.
+L'importo del rimborso proporzionale è accreditata al tuo account, in modo che si possa offrire ai clienti un'exchange.
 
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Richiedere un rimborso o un cambio per conto di un cliente 
@@ -78,7 +79,7 @@ Per archiviare una richiesta di supporto per un rimborso o un cambio per conto d
 
 2. Nella pagina dei dettagli del cliente, seleziona **Prenotazioni di Azure**, quindi seleziona la prenotazione specifica che il cliente desidera farsi rimborsare.  
 
-3. Selezionare **le azioni**, **richiedere il rimborso** per passare al record della prenotazione del cliente nel portale di Azure e avviare una richiesta di supporto.  
+3. Nel riquadro **Azioni**seleziona **rimborso** per passare al record della prenotazione del cliente nel portale di Azure e avviare una richiesta di supporto.  
 
 4. Nella pagina **Nuova richiesta di supporto** attieniti alla procedura seguente per richiedere un rimborso. Seleziona **Avanti** dopo ogni passaggio. 
 

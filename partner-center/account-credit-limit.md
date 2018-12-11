@@ -2,17 +2,19 @@
 title: Limiti di credito dell'account Cloud Solution Provider (CSP) | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: ''
+description: Quando diventi un partner del programma CSP, alla tua organizzazione viene assegnato un limite di credito che ti consente di acquistare software per la vendita ai clienti, nell'attesa di ricevere da questi i pagamenti per i loro acquisti.
 ms.assetid: ''
-author: ''
-Keywords: ''
+author: labrenne
+ms.author: labrenne
+keywords: limite di credito, l'acquisto, aumento limite, linea di credito
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e6e3f562cc9a8f6f1e8ad78f1fa0c7103b962a3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 29ea91d24e141deb843f7ba00e438f882a092fff
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795136"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917393"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>Limiti di credito dell'account Cloud Solution Provider (CSP)
 

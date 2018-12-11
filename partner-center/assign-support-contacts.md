@@ -2,18 +2,19 @@
 title: Assegnare i contatti di supporto | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: In qualità di partner rivenditore, puoi designare un rivenditore come contatto di supporto.
+description: Quando configuri le sottoscrizioni per i servizi Microsoft per i clienti, puoi scegliere di assegnare il supporto tecnico di questi prodotti a un rivenditore designato, anziché fornirlo tu direttamente.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
 ms.author: kenpacq
 keywords: agente per il supporto, supporto, assegnare il contatto del supporto tecnico, contatto del supporto tecnico designato
 ms.localizationpriority: medium
-ms.openlocfilehash: aba162f1a1fa0a5fc7f4337ac6eb0e513d680b74
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c1bcb937a6020e1e6508c6f53e2790680b625051
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795294"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917253"
 ---
 # <a name="assign-support-contacts"></a>Assegnare i contatti del supporto tecnico
 

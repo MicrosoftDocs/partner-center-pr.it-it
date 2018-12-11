@@ -2,17 +2,18 @@
 title: Migrare le sottoscrizioni di Skype for Business online piano 1 verso versioni più nuove di Office 365 | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-Description: Skype for Business Online Plan 1 subscriptions is retiring.
+Description: Transition customers with expiring Skype for Business Online Plan 1 subscriptions to a supported SKU option. We recommend moving customers to new subscriptions before the subscription’s yearly end date.
 author: labrenne
 ms.author: labrenne
 keywords: Piani di Skype for Business, ritiro di Skype, Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c1e4f4611c6fe3c317339af1a036194031f3d095
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797164"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917623"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrare le sottoscrizioni di Skype for Business online piano 1 verso versioni più nuove di Office 365
 
@@ -60,7 +61,7 @@ Microsoft offre continuamente nuovi prodotti e servizi ai suoi partner. In quest
 
 Il cliente dovrebbe disporre ora di sottoscrizioni sia nuove che precedenti, della precedente sottoscrizione Skype for Business online piano 1 e della nuova sottoscrizione "di destinazione", ad esempio Opzione 1: Office 365 Enterprise F1.
 
-3. Per riassegnare le licenze degli utenti del cliente, il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente che si stanno muovendo e quindi seleziona **gli utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
+3. Per riassegnare le licenze degli utenti del cliente, il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente che si stanno muovendo e quindi seleziona **utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
 
 4. Per riassegnare la licenza utente, seleziona l'utente da riassegnare e quindi seleziona **Gestisci licenze**.
 

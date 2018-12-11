@@ -2,18 +2,19 @@
 title: Collaborare con i provider indiretti in CSP | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: I rivenditori indiretti in CSP collaborano con i provider indiretti (anche noti come distributori) che hanno una relazione diretta con Microsoft e possono fornire supporto e fatturazione ai clienti. Ciò significa che non dovrai iniziare da solo, ma potrai collaborare con un provider di tecnologia esperto che ti aiuterà a raggiungere il successo. Nel modello provider-rivenditore (a due livelli), il provider acquista da Microsoft soluzioni e servizi cloud che tu rivenderai ai clienti.
+description: I rivenditori indiretti in CSP collaborano con i provider indiretti (anche noti come distributori) che hanno una relazione diretta con Microsoft e possono fornire supporto e fatturazione ai clienti.
 ms.prod: ''
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: rivenditori indiretti, rivenditori, provider indiretti, provider, relazione, VAR, livello2, livello 2
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c17ab635ac95cc53d8900c12335823fcabd75eb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c82e2dffbed0807894c8bd161281bc8e7da23a24
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795494"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917493"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Collaborare con i provider indiretti nel programma Cloud Solution Provider
 
@@ -36,7 +37,7 @@ Per altre informazioni su ciò che è necessario per la vendita nel programma CS
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Registrarsi come nuovo rivenditore indiretto nel programma Cloud Solution Provider
 
 > [!NOTE]  
-> Se sei già registrato nel programma CSP, devi fornire supporto clienti per creare un account rivenditore nel centro per i Partner informazioni di contatto. 
+> Se sei già registrato nel programma CSP, potresti dover fornire supporto tecnico solo le informazioni per creare un account rivenditore nel centro per i Partner di contatto. 
 
 ### <a name="before-you-begin"></a>Prima di iniziare
 
@@ -47,7 +48,7 @@ Dovrai fornire il nome utente e password che usi per accedere a Office 365, Micr
 
 
 -   **Il nome utente e la password usati per accedere al sito Partner Membership Center**<br>
-Usiamo queste informazioni per il collegamento ID dell'organizzazione Microsoft Partner Network (ID MPN) al nuovo account di Centro per i Partner, in modo che hai possono gestire i vantaggi dell'adesione e i dati nel centro per i Partner.
+Usiamo queste informazioni per il collegamento ID dell'organizzazione Microsoft Partner Network (ID MPN) al nuovo account di Centro per i Partner, in modo che hai possono gestire i vantaggi dell'adesione e dati nel centro per i Partner.
 
 -   **Ragione sociale dell'organizzazione, indirizzo, contatto principale e dettagli del supporto**<br>
 Queste informazioni sono necessarie per verificare che l'organizzazione abbia un profilo solido con Microsoft e che tu sia autorizzato ad agire per suo conto.
@@ -64,7 +65,7 @@ Tieni presente che potrebbero essere necessari diversi giorni per esaminare e ve
 
     Se non disponi di un account aziendale, seleziona **Crearne uno** per configurarne uno ora. Dopo aver creato un account aziendale, accedi usando le credenziali di amministratore globale per il nuovo account.
 
-4.  Leggi le informazioni su come associare l'ID del Microsoft Partner Network (ID MPN) al nuovo account del Centro per i partner. Dobbiamo collegare l'ID MPN dell'organizzazione con al nuovo account del centro per i Partner, in modo che hai possono gestire i vantaggi dell'adesione e gli incentivi nel centro per i Partner. Seleziona **Accedi**.
+4.  Leggi le informazioni su come associare l'ID del Microsoft Partner Network (ID MPN) al nuovo account del Centro per i partner. Dobbiamo collegare l'ID MPN dell'organizzazione al nuovo account di Centro per i Partner, in modo che tu possa gestire il vantaggi e gli incentivi nel centro per i Partner. Seleziona **Accedi**.
 
 5.  Immetti il nome utente che usi per accedere al sito Partner Membership Center (PMC). Il sito Partner Membership Center è quello in cui attualmente gestisci il tuo account di partner Microsoft. L'accesso al Partner Membership Center ti consente di recuperare il tuo ID MPN e di associarlo al nuovo account del Centro per i partner. Seleziona **Avanti**. 
 
@@ -96,7 +97,7 @@ Tieni presente che potrebbero essere necessari diversi giorni per esaminare e ve
 
 3. Immetti il nome completo e l'indirizzo di posta elettronica univoco dell'utente.
 
-4. Seleziona il tipo di agente e il tipo di amministratore. L'accesso al Centro per i partner è basato sui ruoli, pertanto puoi assegnare autorizzazioni per personalizzare la visualizzazione in modo da mostrare solo le funzionalità utili all'utente per completare attività specifiche. Per altre informazioni sulle operazioni possibili con ciascun ruolo, vedi [Assegnare le autorizzazioni utente](#assignuserpermissions).
+4. Seleziona il tipo di agente e il tipo di amministratore. L'accesso al Centro per i partner è basato sui ruoli, pertanto puoi assegnare autorizzazioni per personalizzare la visualizzazione in modo da mostrare solo le funzionalità utili all'utente per completare attività specifiche. Per altre informazioni sulle operazioni possibili con ciascun ruolo, vedi [Assegnare le autorizzazioni utente](#assign-user-permissions).
 
 5. Seleziona **Aggiungi** per creare l'account utente. Verifica i dettagli dell'utente nella pagina successiva.
 
@@ -121,7 +122,7 @@ Qualora un provider indiretto desiderasse connettersi con te nel centro per i Pa
 
 1.  Il provider indiretto ti invierà tramite posta elettronica un invito ad autorizzarlo a diventare il tuo provider indiretto. Il messaggio includerà un collegamento al centro per i Partner e assocerà il tuo account a quello del provider.
 
-2.  Per accettare l'invito, fai clic sul collegamento incluso nel messaggio di posta elettronica del provider. Potresti dover accedere nuovamente al centro per i Partner.
+2.  Per accettare l'invito, fai clic sul collegamento incluso nel messaggio di posta elettronica del provider. Potrebbe essere necessario accedere nuovamente al centro per i Partner.
 
 3.  Per confermare la partnership con il provider, seleziona la casella e quindi seleziona **Autorizza provider indiretto**. Il provider è ora incluso nella tua pagina **Indirect providers** e la tua azienda è inclusa nella pagina **Indirect resellers** del provider.
 
@@ -142,7 +143,7 @@ Qualora un provider indiretto desiderasse connettersi con te nel centro per i Pa
 
 ### <a name="connect-with-existing-customers"></a>Entrare in contatto con i clienti
 
-I clienti che già Esegui transazioni tramite altri portali, ad esempio amministrazione partner di Office 365 o portale di amministrazione di Microsoft Azure, verranno visualizzati nell'elenco dei clienti nel centro per i Partner dopo che avrai eseguito la registrazione come rivenditore indiretto. Seleziona **clienti** dal menu del **Centro per i Partner** per visualizzare l'elenco dei clienti. 
+I clienti che già Esegui transazioni tramite altri portali, ad esempio centro di amministrazione partner di Office 365 o portale di amministrazione di Microsoft Azure, verranno visualizzati nell'elenco dei clienti nel centro per i Partner dopo che avrai eseguito la registrazione come rivenditore indiretto. Seleziona **clienti** dal menu del **Centro per i Partner** per visualizzare l'elenco dei clienti. 
 
 Quando ti connetti a un provider indiretto, non ottieni automaticamente i clienti del provider indiretto. Analogamente, i clienti con il tuo o tramite il provider indiretto, ma non tramite Centro per i Partner, non compariranno automaticamente nell'elenco dei clienti quando ti registri nel centro per i Partner. Dovrai stabilire una relazione come rivenditore con i clienti per eseguire transazioni nel centro per i Partner.  A tale scopo, invia un invito a connettersi con te nel centro per i Partner, come descritto di seguito.
 

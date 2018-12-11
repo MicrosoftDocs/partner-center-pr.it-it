@@ -7,12 +7,13 @@ ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 276fe6a9b560df49fa255c7d2c6ff698152162c2
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797134"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917293"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrazione delle sottoscrizioni Dynamics AX a Dynamics 365
 
@@ -69,9 +70,9 @@ Fai riferimento alla tabella seguente per altri dettagli sul mapping delle licen
 
 Microsoft offre continuamente nuovi prodotti e servizi a rivenditori e provider. In questi casi, un rivenditore potrebbe avere la necessità di aggiornare i clienti ai nuovi servizi o di eseguire la migrazione delle loro sottoscrizioni da SKU destinati a essere ritirati. La migrazione dei clienti da SKU precedenti a quelli più recenti richiede la sequenza seguente:
 
--   [Acquistare la nuova sottoscrizione](#manual-subscription-migration-purchasenewsubsc);
--   [Riassegnare le licenze utente correnti](#manual-subscription-migration-reassignlicenses);
--   [Annullare la sottoscrizione precedente](#manual-subscription-migration-cancelsubscriptions).
+-   [Acquistare la nuova sottoscrizione](#purchase-the-new-subscription);
+-   [Riassegnare le licenze utente correnti](#reassign-user-license);
+-   [Annullare la sottoscrizione precedente](#cancel-the-old-subscription).
 
 Le procedure seguenti illustrano come trasferire un cliente da Microsoft Dynamics AX o CRM Online a Dynamics 365.
 
@@ -79,18 +80,18 @@ In questo esempio, il rivenditore deve trasferire un cliente con una sottoscrizi
 
 <a href="" id="purchasenewsubsc"></a>
 
-**Acquista la nuova sottoscrizione**
+### <a name="purchase-the-new-subscription"></a>Acquista la nuova sottoscrizione
 
-1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente di cui che eseguire la migrazione e scegli **Aggiungi sottoscrizioni**.
+1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente che desideri spostare e scegli **Aggiungi sottoscrizioni**.
 2.  Seleziona la sottoscrizione che vuoi acquistare dal catalogo (in questo caso Dynamics 365 for Operations, Enterprise Edition), immetti il numero di licenze e scegli **Invia**.
 
     Il cliente a questo punto dovrebbe avere sia la sottoscrizione nuova che quella precedente, in questo esempio la vecchia sottoscrizione Dynamics AX Enterprise e la nuova sottoscrizione di destinazione, Dynamics 365 for Operations, Enterprise Edition.
 
 <a href="" id="reassignlicenses"></a> Il passaggio successivo consiste nel riassegnare tutte le licenze utente esistenti alla nuova sottoscrizione.
 
-**Riassegnare le licenze utente**
+### <a name="reassign-user-licenses"></a>Riassegnare le licenze utente
 
-1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente di cui che eseguire la migrazione e scegliere **gli utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
+1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente che desideri spostare e scegliere **gli utenti e licenze**. Viene aperta la pagina Utenti e licenze del cliente.
 2.  Per riassegnare le licenze utente, seleziona l'utente da riassegnare e quindi seleziona **Gestisci licenze**.
 3.  Nella pagina **Gestisci licenze** deseleziona la casella di controllo della licenza **Dynamics AX Enterprise** e seleziona la licenza **Dynamics 365 for Operations**.
 4.  Seleziona **Invia**. Le nuove assegnazioni di licenza vengono visualizzate in una pagina di conferma.
@@ -98,9 +99,9 @@ In questo esempio, il rivenditore deve trasferire un cliente con una sottoscrizi
 
 <a href="" id="cancelsubscriptions"></a> Dopo aver spostato le licenze utente al nuovo servizio, puoi tranquillamente annullare la sottoscrizione precedente al livello principale del cliente.
 
-**Annullare la sottoscrizione precedente**
+### <a name="cancel-the-old-subscription"></a>Annullare la sottoscrizione precedente
 
-1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente di cui che eseguire la migrazione e seleziona la sottoscrizione che vuoi annullare.
+1.  Il menu del **Centro per i Partner** seleziona **i clienti**, seleziona il cliente che desideri spostare e seleziona la sottoscrizione che vuoi annullare.
 2.  Nella pagina dei dettagli della sottoscrizione imposta lo **Stato** della sottoscrizione su **Sospeso**.
 3.  Seleziona **Invia**.
 

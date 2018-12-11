@@ -8,12 +8,13 @@ keywords: frode, uso improprio, uso accettabile, criteri di uso accettabile, man
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ccfcae0f6a31078e1c298ea6ee0293801c0f6b66
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795424"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917593"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Insoluti, frodi o uso improprio
 
@@ -21,7 +22,8 @@ ms.locfileid: "5795424"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
--  Centro per i partner per Microsoft Cloud Germania
+
+
 
 Sei finanziariamente responsabile per acquisti fraudolenti da parte dei tuoi clienti e/o per il mancato pagamento da parte dei clienti dei servizi acquistati. Pertanto, ti consigliamo vivamente di mettere in atto i controlli antifrode e di attenuazione dei rischi di individuazione.
 

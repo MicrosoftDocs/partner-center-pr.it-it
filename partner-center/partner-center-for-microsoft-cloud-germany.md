@@ -2,16 +2,17 @@
 title: Centro per i partner per Microsoft Cloud Germania | Centro per i partner per Microsoft Cloud Germania
 ms.topic: article
 ms.date: 10/29/2018
-description: Centro per i partner per Microsoft Cloud Germania è il portale aziendale per i partner Microsoft che desiderano offrire soluzioni cloud Microsoft ai clienti nei paesi appartenenti alle aree UE ed EFTA. Microsoft Cloud Germania assicura che i dati cliente si trovano in Germania e un trustee tedesco designato ne controlla l'accesso. I clienti commerciali nelle aree UE ed EFTA possono archiviare e gestire i dati dei clienti in conformità alle leggi e alle normative tedesche nonché ai principali standard internazionali. Microsoft non può accedere a dati dei clienti senza l'approvazione e la supervisione da parte del trustee dei dati tedesco o del cliente.
+description: Centro per i partner per Microsoft Cloud Germania è il portale aziendale per i partner Microsoft che desiderano offrire soluzioni cloud Microsoft ai clienti nei paesi appartenenti alle aree UE ed EFTA.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 76d3a2eda1278ac609ffa6fcfce2f5f17fcfd7b7
-ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
+ms.custom: seodec18
+ms.openlocfilehash: 42cd7aa9f152557e98e1d62a7114b62364d71c4a
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/21/2018
-ms.locfileid: "7460938"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917383"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Centro per i partner per Microsoft Cloud Germania
 
@@ -24,9 +25,9 @@ Microsoft Cloud Germania è progettata per soddisfare i rigidi requisiti tedesch
 Microsoft Cloud Germania fornisce un'istanza separata di [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), fornita dai centri dati in Germania. Di conseguenza, i clienti commerciali nelle aree UE ed EFTA possono archiviare e gestire i dati dei clienti in conformità alle leggi e alle normative tedesche nonché ai principali standard internazionali. Il personale Microsoft non può accedere a dati dei clienti senza l'approvazione e la supervisione da parte del trustee dei dati tedesco o del cliente.
 
 >[!IMPORTANT]
->In base all'andamento le esigenze dei clienti, la nostra strategia cloud per Germania è incentrata su recapito delle nuove aree cloud in Germania coerenti con il cloud globale rendendo disponibile. Con questa stato attivo, ti verranno non è più accetta nuovi clienti o distribuzione di eventuali nuovi servizi da di Microsoft Cloud Germania attualmente disponibile. I clienti esistenti possono continuare a usare i corrente servizi cloud attualmente disponibili che ti verrà gestiscono con gli aggiornamenti di sicurezza necessarie. 
+>In base all'andamento le esigenze dei clienti, la nostra strategia cloud per Germania è incentrata su recapito delle nuove aree cloud in Germania coerenti con il cloud globale rendendo disponibile. Con questa stato attivo, ti verranno non è più accetta nuovi clienti o distribuzione di eventuali nuovi servizi da di Microsoft Cloud Germania attualmente disponibile. I clienti esistenti possono continuare a usare i corrente servizi cloud attualmente disponibili che ti verrà Gestisci con gli aggiornamenti di sicurezza necessarie. 
 
->In futuro, nuovi clienti hanno la possibilità di usare le aree geografiche europei attualmente disponibili o le aree di nuovo in Germania quando vengono resi disponibili. Per altre informazioni, vedere [Microsoft di fornire i servizi cloud da nuovi centri dati in Germania](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/). 
+>In futuro, nuovi clienti hanno la possibilità di usare le aree geografiche europei attualmente disponibili o le aree di nuovo in Germania quando vengono resi disponibili. Per altre informazioni, vedi [Microsoft di fornire i servizi cloud da nuovi centri dati in Germania](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/). 
 
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Centro per i partner per Microsoft Cloud Germania: vendita di soluzioni cloud tedesche nelle aree UE ed EFTA

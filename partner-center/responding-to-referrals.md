@@ -2,17 +2,18 @@
 title: Rispondere alle segnalazioni | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: Valutare, negoziare e rispondere alle segnalazioni tramite il Centro per i partner.
+description: Partner Microsoft qualificato, puoi valutare, negoziare e rispondere alle segnalazioni tramite il centro per i Partner.
 author: KPacquer
 ms.author: kenpacq
 keywords: segnalazione, richiesta di informazioni, Trova un partner
 ms.localizationpriority: medium
-ms.openlocfilehash: d8305212477fab01e96cc966d404d5fa427e1faa
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: cc209f965f4a18d41baedaa993aeb3e21fcfc41e
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796174"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917613"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Rispondere alle segnalazioni nel Centro per i partner
 

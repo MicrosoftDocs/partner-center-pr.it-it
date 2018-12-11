@@ -2,17 +2,18 @@
 title: Inoltrare i problemi a Microsoft | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: Sei tu a dover risolvere i problemi per conto dei tuoi clienti.
+description: Sei tu a dover risolvere i problemi per conto dei tuoi clienti. Tuttavia, sono disponibili varie categorie di problemi che è necessario inoltrare a Microsoft di risolvere.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: d759001b2cbaf8cab5f5b6e501dd0635b7adb11b
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.custom: seodec18
+ms.openlocfilehash: 0c1fc091212d70bf18337a9e17cc8f83cb61d4ae
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683550"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917353"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Inoltrare i problemi a Microsoft
 
@@ -40,7 +41,7 @@ Esistono però alcune categorie di problemi che è necessario inoltrare a Micros
 
 1. Nel centro per i Partner, seleziona **i clienti**.
 2. Seleziona il cliente che richiede il supporto.
-3. Seleziona **la gestione dei servizi** e **richieste di servizio**.
+3. Seleziona **la gestione dei servizi** e **le richieste di servizio**.
 4. Seleziona **nuova richiesta** e quindi seleziona **Microsoft Office 365**.
 5. Vieni indirizzato al portale di Office 365 in cui è necessario accedere con le credenziali di Centro per i Partner.
 6. Seleziona il **supporto**, **nuova richiesta di servizio** dal menu a sinistra.
@@ -50,7 +51,7 @@ Esistono però alcune categorie di problemi che è necessario inoltrare a Micros
 >È importante iniziare dal centro per i Partner, in modo che venga mantenuta la relazione tra per i partner e clienti. 
 
 
-Per informazioni sulla segnalazione di problemi per conto del cliente, vedi [segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).
+Per informazioni sulla creazione di report i problemi per conto del cliente, vedi [segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).
 
  
 

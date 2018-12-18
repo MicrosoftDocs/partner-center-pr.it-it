@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: d128075199f30399641019e37740a8d9a34207f1
+ms.sourcegitcommit: e26f8fa7d88f0ae10d4ef62f7a853114cc565cda
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683770"
+ms.lasthandoff: 12/18/2018
+ms.locfileid: "8973901"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Segnalare problemi per conto di un cliente
 
@@ -27,7 +27,7 @@ Se il cliente ha un problema con il servizio che tu non puoi risolvere e che sod
 
 **Inviare una richiesta di servizio per un cliente**
 
-1.  Il menu del **Centro per i Partner** seleziona **richieste di servizio** e quindi **richiesta del cliente**. 
+1.  Il menu del **Centro per i Partner** seleziona **le richieste di servizio** e quindi **richiesta del cliente**. 
 
 2.  Nella pagina Richieste clienti, cerca il cliente desiderato.
 
@@ -37,7 +37,7 @@ Se il cliente ha un problema con il servizio che tu non puoi risolvere e che sod
 
 **Nota** Quando è necessario creare una richiesta di servizio per il cliente in Azure, tieni presente quanto segue:
 
-- Nell'ordine per poter creare richieste di servizio per il cliente in Azure, il provider indiretto deve concederti il che accesso all'account Azure del cliente. Questa operazione è diversa dall'amministrazione per conto dei clienti per Office 365. 
+- Per poter creare richieste di servizio per il cliente in Azure, il provider indiretto deve concederti che accesso all'account Azure del cliente. Questa operazione è diversa dall'amministrazione per conto dei clienti per Office 365. 
 
 - Anche se l'amministratore help desk nel centro per i Partner non può creare richieste di servizio nel portale di servizio di Azure, ciò che potranno fare è creare un gruppo di supporto nel portale di servizio di Azure e concedere le autorizzazioni di gruppo per registrare le richieste di assistenza.
 
@@ -48,8 +48,22 @@ Se il cliente ha un problema con il servizio che tu non puoi risolvere e che sod
 
 3.  Puoi in seguito controllare le richieste di servizio del cliente all'interno del portale di Microsoft Azure selezionando **Gestisci richieste di supporto**.
 
+Potresti dover creare una richiesta di supporto per un cliente quando non hai le autorizzazioni di amministratore per tale cliente. Ciò può accadere in uno di questi due scenari: 
+ 
+-   Non è stato richiesto privilegi di amministratore quando è stata stabilita la relazione.
+-   Puoi gestire le sottoscrizioni di Azure del cliente e no altri utenti, che non richiede di disporre delle autorizzazioni amministrative.
+ 
+In entrambi i casi, è possibile utilizzare la procedura seguente per creare una richiesta di supporto. 
 
+1.  Copia il nome di dominio del cliente dalla pagina loro account nel centro per i Partner.
 
+2.  Vai a https://portal.azure.com/[nomedominiocliente]. 
+
+3.  Seleziona la sottoscrizione di Azure che richiede il supporto.
+
+4.  Seleziona **nuova richiesta di supporto**e quindi segui le istruzioni per creare la richiesta. 
+
+ 
 **Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
 1. Nella sezione **Crea una richiesta di servizio** scegli la categoria dell'argomento di supporto appropriata. Potrebbe essere necessario selezionare **Altro** per visualizzare altri argomenti.    

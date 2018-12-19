@@ -1,18 +1,18 @@
 ---
 title: I clienti delegano i privilegi amministrativi ai partner | Centro per i partner
 ms.topic: article
-ms.date: 12/7/2018
+ms.date: 12/18/2018
 description: Come partner rivenditore, il cliente può puoi essere delegato loro come amministratore. Possono anche rimuovere privilegi.
 author: labrenne
 ms.author: labrenne
 keywords: privilegi di amministratore delegato, amministrazione per conto di, rimuovere i privilegi, DAP, of AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: bb92bca26c3b6c73750a5bc02f2833172006d0ff
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 92b23c15285db651abab326c18f5b25feaffdb6c
+ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917503"
+ms.lasthandoff: 12/19/2018
+ms.locfileid: "8976818"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a><span data-ttu-id="cb18d-104">I clienti delegano i privilegi amministrativi ai partner</span><span class="sxs-lookup"><span data-stu-id="cb18d-104">Customers delegate administration privileges to partners</span></span>
 

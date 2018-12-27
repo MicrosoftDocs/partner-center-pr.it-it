@@ -13,6 +13,7 @@
 # [Cloud Solution Provider](csp-overview.md)
 ## [Iscriversi al programma Cloud Solution Provider](enrolling-in-the-csp-program.md)
 ## [Nuovi requisiti dei partner diretti in CSP](direct-partner-new-requirements.md) 
+## [La registrazione come un fornitore di Pannello di controllo](enroll-as-cpv.md)
 ## [Contratti, listini prezzi e offerte per CSP](csp-documents-and-learning-resources.md)
 ## [Valute e mercati regionali CSP](regional-authorization-overview.md)
 ## [Contratti Microsoft Cloud per area geografica e lingua](agreements.md)
@@ -85,7 +86,8 @@
 ### [Migliorare adozione e soddisfazione](increasing-adoption-and-satisfaction.md)
 ### [Semplificare la configurazione dei dispositivi con Windows Autopilot](autopilot.md)
 ##  Aggiornare o trasferire offre alle versioni più recenti
-### [Aggiornare gli abbonamenti Dynamics AX a Dynamics 365](manual-subscription-migration.md)
+### [Eseguire la migrazione di Dynamics 365 ed Enterprise Plan da Basic (qualificate offerte) alle versioni più recenti](manual-subscription-migration.md)
+### [Eseguire la migrazione edizione di Dynamics 365 Business offre alle versioni più recenti](migrate-dynamics-365-to-new.md)
 ### [Migrazione degli abbonamenti Office 365 Enterprise E4 alle nuove versioni di Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Migrare Skype for Business online piano 1 verso versioni più nuove di Office 365](skype-retiring.md)
 ### [Trasferire le sottoscrizioni Azure](switch-azure-subscriptions-to-a-different-partner.md)

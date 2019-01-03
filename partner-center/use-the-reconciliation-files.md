@@ -2,17 +2,17 @@
 title: Usare i file di riconciliazione | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: Per una visualizzazione di voci delle relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal centro per i Partner.
+description: Per una visualizzazione di voci di ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal centro per i Partner.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 188f6fe28277cfab624d407bb47157f2dce7e854
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683820"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990993"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -22,7 +22,7 @@ ms.locfileid: "8683820"
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 
 
-Per una visualizzazione di voci delle relative a ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal centro per i Partner. I dettagli includono gli addebiti per le sottoscrizioni di ogni singolo cliente e gli eventi dettagliati, ad esempio un'aggiunta di postazioni a una sottoscrizione in corso.
+Per una visualizzazione di voci di ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal centro per i Partner. I dettagli includono gli addebiti per le sottoscrizioni di ogni singolo cliente e gli eventi dettagliati, ad esempio un'aggiunta di postazioni a una sottoscrizione in corso.
 
 ## <a href="" id="itemizebypartner"></a>Eseguire la scomposizione dei dati in base al partner
 
@@ -209,7 +209,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Nome di dominio del cliente, usato per identificare il cliente. Questo non deve essere usato per identificare in modo univoco il cliente quando il cliente/partner può aggiornare il dominio di reindirizzamento a microsito/predefinito tramite il portale di Office 365. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
+<td><p>Nome di dominio del cliente, usato per identificare il cliente. Questo non deve essere usato per identificare in modo univoco il cliente, il cliente/partner può aggiornare il dominio di reindirizzamento a microsito/predefinito tramite il portale di Office 365. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -571,7 +571,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p>Rateizza le tariffe all'acquisto</p>
 </td>
 <td>
-<p>Tariffe rateizzate all'acquisto</p>
+<p>Il tipo di addebito per una sottoscrizione quando si utilizza la fatturazione annuale</p>
 </td>
 </tr>
 <tr>
@@ -579,7 +579,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p>Tariffa di acquisto</p>
 </td>
 <td>
-<p>Addebito iniziale per una sottoscrizione</p>
+<p>Il tipo di addebito per una sottoscrizione quando si utilizza la fatturazione mensile</p>
 </td>
 </tr>
 <tr>

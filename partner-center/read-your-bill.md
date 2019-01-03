@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683790"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990933"
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
@@ -23,14 +23,14 @@ ms.locfileid: "8683790"
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
 
 
-Per la fattura, Vai al menu del **Centro per i Partner** e quindi seleziona **la fatturazione** per visualizzare la cronologia di fatturazione e tendenze, i link la fattura e il file di riconciliazione e il pagamento più recente.
+Per la fattura, Vai al menu del **Centro per i Partner** e quindi seleziona **la fatturazione** per visualizzare la cronologia di fatturazione e tendenze, i collegamenti per la fattura e il file di riconciliazione e il pagamento più recente.
 
 I partner del programma Cloud Solution Provider che hanno scelto la fatturazione mensile pagheranno Microsoft per gli abbonamenti dei clienti (sia in base a licenza che in base all'uso) in via posticipata, dopo 60 giorni.
 
 > [!NOTE]  
 > La fattura è un riepilogo di tutti gli addebiti relativi a programma, prodotti e clienti per il periodo di fatturazione corrente ed è disponibile entro quattro (4) giorni dalla data di fatturazione selezionata.
 
-Riceverai una fattura per basate su licenza (Office 365) e gli addebiti (Azure) basati sull'utilizzo e una fattura separata per una tantum (istanze riservate di Azure della macchina virtuale) addebiti.
+Riceverai una fattura per basate su licenza (Office 365) e gli addebiti (Azure) basati sull'utilizzo e una fattura separata per una tantum (istanze riservate di Azure macchina virtuale) addebiti.
 
 Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I file di riconciliazione includono gli ID dei clienti e gli ID delle sottoscrizioni che userai per creare le fatture per i clienti. Per altre informazioni, vedi [Come usare i file di riconciliazione](use-the-reconciliation-files.md).
 
@@ -57,7 +57,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 </tr>
 <tr class="even">
 <td>Indirizzo fatturazione</td>
-<td>Indirizzo a cui inviare la fattura. Per modificare questo indirizzo, vai a Impostazioni account > Profilo di fatturazione partner. </td>
+<td>Indirizzo a cui inviare la fattura. Per cambiare il nome della società o l'indirizzo, Modifica profilo di fatturazione del centro per i Partner. </td>
 </tr>
 <tr class="odd">
 <td>Addebiti in base alle licenze</td>
@@ -78,7 +78,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 <tr class="even">
 <tr class="even">
 <td>Subtotal</td>
-<td>Totale al lordo imposte e addebiti esclusiva fiscali e crediti.</td>
+<td>Totale al lordo imposte e addebiti esclusive fiscali e crediti.</td>
 </tr>
 <td>Tax</td>
 <td>Imposta totale per gli addebiti correnti come calcolata complessivamente nella sezione dei dettagli che inizia a pagina 2 della fattura. Questo numero è la somma di tutti gli addebiti che fanno riferimento a:
@@ -105,11 +105,11 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 </tr>
 <tr class="odd">
 <td>Periodo di fatturazione</td>
-<td>I partner CSP ricevono una fattura mensile o annuale.</td>
+<td>Il periodo mensile che hanno contribuito alla data di fatturazione. Questo è il periodo durante il quale vengono utilizzati i servizi basati sull'utilizzo e servizi basati su licenza sono risolte per qualsiasi rettifiche di credito o le modifiche nel numero di licenze.</td>
 </tr>
 <tr class="even">
 <td>Data fattura</td>
-<td>Data in cui ricevi la fattura.</td>
+<td>La data di fatturazione o data dell'anniversario, in cui la fattura viene generata ogni mese.</td>
 </tr>
 <tr class="odd">
 <td>Condizioni di pagamento</td>
@@ -129,7 +129,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 </tr>
 <tr class="odd">
 <td>Destinatario del servizio</td>
-<td>Indirizzo in cui viene usato il servizio. Questo è l'indirizzo legale della società associato alla verifica della società e non può essere modificato.</td>
+<td>Indirizzo in cui viene usato il servizio. (Questo è l'indirizzo legale della società associato alla verifica della società).</td>
 </tr>
 </tbody>
 </table>

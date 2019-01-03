@@ -8,16 +8,16 @@ ms.author: labrenne
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 96a859fda2ba8641c701888c4a865b1a1278c268
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: eebf3573cdb6724497bb7933d7edc08879dc8e5e
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917603"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990943"
 ---
 # <a name="billing-overview"></a>Panoramica di fatturazione
 
-**Ambito di applicazione**
+**Si applica a**
 
 -  Centro per i partner
 -  Partner nel programma CSP
@@ -25,7 +25,7 @@ ms.locfileid: "8917603"
 A seconda di prodotti, soluzioni e servizi che acquistare per conto dei clienti, la fattura verrà per questi acquisti in uno o più dei modi seguenti:
 -   [Fatturazione in base alle licenze](#licensebasedbilling)
 
-    Quando si acquista prodotti o servizi online che richiedono licenze, verrà emessa la fattura per ogni licenza che hai acquistato (non in uso licenza). Puoi scegliere se essere fatturate annualmente o una volta al mese. Se la tua azienda deve cambia, puoi passare da uno a altro e nuovamente. 
+    Quando si acquista prodotti o servizi online che richiedono licenze, verrà emessa la fattura per ogni licenza che hai acquistato (non in uso licenza). Puoi scegliere se essere fatturate annualmente o una volta al mese. Se la tua azienda deve modifica, puoi passare da uno a altro e viceversa. 
     
     Per altre informazioni su ogni mese e la fatturazione annuale, vedi le [domande frequenti su](https://docs.microsoft.com/en-us/partner-center/faq-about-new-billing-features)fatturazione.
 
@@ -35,14 +35,14 @@ A seconda di prodotti, soluzioni e servizi che acquistare per conto dei clienti,
 
 -   [Fatturazione una tantum](#onetimebilling)
 
-    Quando acquisti prenotazioni di Azure o altre sottoscrizioni software, pagare in anticipo per un periodo di validità pre-imposta. Poiché stai pagare in anticipo, verrà emessa la fattura in un'unica soluzione. 
+    Quando acquisti prenotazioni di Azure o altre sottoscrizioni di software, pagare in anticipo per un periodo di validità pre-imposta. Poiché stai pagare in anticipo, verrà emessa la fattura in un'unica soluzione. 
     
-Se si è scelto di fatturazione mensile o se hai acquistato prodotti basati sull'utilizzo vengono fatturati mensilmente, alla data di fatturazione mensile è il giorno del mese selezionato quando hai creato l'account CSP nel centro per i Partner. Dopo aver creato correttamente il tuo account CSP, Microsoft invierà un'e-mail di conferma che include la data di fatturazione.
+Se si è scelto di fatturazione mensile o se hai acquistato prodotti basati sull'utilizzo vengono fatturati mensilmente, alla data di fatturazione mensile è il giorno del mese selezionato quando hai creato l'account CSP nel centro per i Partner. Dopo aver creato correttamente il tuo account CSP, Microsoft invierà un'e-mail di conferma che include la data di fatturazione. Una volta creato, questa data non possa essere modificati. 
 
 ## <a name="pricing-and-invoicing"></a>Prezzi e fatturazione
 I listini prezzi sono disponibili con un (1) mese di anticipo, dato che vengono aggiornati mensilmente. I prezzi in base alle licenze sono garantiti per l'intera durata dell'abbonamento, in genere 12 mesi dalla data di acquisto. I prezzi in base all'uso possono variare di mese in mese. 
 
-I prezzi per i prodotti, servizi e le sottoscrizioni software sono garantiti tramite la durata della sottoscrizione, ma prezzi possono subire variazioni al momento del rinnovo.
+I prezzi per i prodotti, servizi e le sottoscrizioni di software sono garantiti tramite la durata della sottoscrizione, tuttavia i prezzi possono subire variazioni al momento del rinnovo.
 
 Vedrai le rettifiche e i crediti posticipati nella fattura successiva, dopo l'applicazione del credito o della rettifica.
 
@@ -50,7 +50,7 @@ Puoi visualizzare e scaricare le fatture e i file riconciliazione dalla pagina F
 
 ## <a name="payment-terms"></a>Condizioni di pagamento
 
-Condizioni di pagamento sono netti 60 giorni. Le fatture devono essere a pagamento per la fattura data di scadenza (60 giorni dopo la data di fatturazione) o il tuo account sarà considerato insolvente, che potrebbero influire negativamente sulla registrazione in CSP. È possibile ricominciare a funzionalità complete per gli account sospesi quando si paga passato importo dovuto.
+Condizioni di pagamento sono net 60 giorni. Le fatture devono essere a pagamento per la fattura data di scadenza (60 giorni dopo la data di fatturazione) o il tuo account sarà considerato insolvente, che potrebbero influire negativamente sulla registrazione in CSP. È possibile ripristinare le funzionalità complete l'account sospesi quando si paga passato importo dovuto.
 
 ### <a name="tax"></a>Tax
 
@@ -60,7 +60,7 @@ Vengono tassati in base ai dettagli (non dei tuoi clienti) perché la relazione 
 
 -   Per l'esenzione IVA (imposta sul valore aggiunto), devi inviare il numero di partita IVA (convalidato da Microsoft) tramite una richiesta di servizio. Le modifiche e i rimborsi appropriati saranno visibili nel ciclo di fatturazione successivo.
 
-È possibile trovare ulteriori informazioni fiscali all'ufficio imposte locale o consulente fiscale.
+È possibile trovare ulteriori dettagli fiscali all'ufficio imposte locale o consulente fiscale.
 
 ## <a href="" id="licensebasedbilling"></a>Fatturazione in base alle licenze
 
@@ -68,9 +68,9 @@ Quando si acquista un prodotto basato su licenza per conto di un cliente, puoi s
 
 Il passaggio da fatturazione mensile per la fatturazione annuale è utile se hai numerosi le sottoscrizioni che vengono fatturate mensilmente e si desidera farle a una data di fatturazione comune. Il passaggio dalla fatturazione annuale per la fatturazione mensile è utile per personalizzare le date di fatturazione a quelle di clienti individuali. 
 
-Quando modifichi la frequenza di fatturazione, il termine annuo viene aggiornato per riflettere che la data che è stata modificata la frequenza di fatturazione e una nuova data di rinnovo viene stabilite. 
+Quando modifichi la frequenza di fatturazione, il termine annuo viene aggiornato per riflettere che la data in cui che è stata modificata la frequenza di fatturazione e una nuova data di rinnovo viene stabilite. 
 
-Ogni volta che l'azienda richiede cambiamento, è possibile modificare la frequenza di fatturazione. 
+Ogni volta che variano le esigenze aziendali, è possibile modificare la frequenza di fatturazione. 
 
 ### <a name="billing-rules-for-annual-billing"></a>Regole per la fatturazione per la fatturazione annuale
 
@@ -90,9 +90,9 @@ Ogni volta che l'azienda richiede cambiamento, è possibile modificare la freque
 
 2.  Nella pagina delle sottoscrizioni del cliente, seleziona la sottoscrizione che vuoi modificare. 
 
-3.  Nella pagina dei dettagli, in **frequenza di fatturazione**, seleziona **mensile** o **annuale**. Vedrai una pagina di conferma con informazioni importanti sugli modificando la frequenza di fatturazione, nonché un elenco delle sottoscrizioni sta per essere modificato. 
+3.  Nella pagina dei dettagli, in **frequenza di fatturazione**, seleziona **mensile** o **annuale**. Vedrai una pagina di conferma con importanti informazioni sulla modifica la frequenza di fatturazione, nonché un elenco delle sottoscrizioni per essere modificato. 
 
-4.  Seleziona **OK** per apportare la modifica o **annullamento** per annullare l'operazione. 
+4.  Seleziona **OK** per apportare le modifiche o **annullare** per annullare l'operazione. 
 
 ### <a name="adjustmentscreditscancellations"></a>Rettifiche/crediti/annullamenti
 
@@ -105,7 +105,7 @@ I crediti per l'annullamento dei servizi in base alle licenze vengono calcolati 
 Alcuni prodotti e servizi Microsoft usano un modello di fatturazione "pay in base all'uso", in cui vengono fatturati solo i servizi usati. Ad esempio, Microsoft Azure utilizza questo modello. 
 
 ### <a name="billing-rules"></a>Regole per la fatturazione
--   Le sottoscrizioni sono mese in mese e rinnovo automatico alle nuove tariffe del servizio a consumo. Verrà emessa la fattura ogni mese per l'uso del mese precedente.
+-   Le sottoscrizioni sono al mese e rinnovo automatico alle nuove tariffe del servizio a consumo. Verrà emessa la fattura ogni mese per l'uso del mese precedente.
 
 -   Le tariffe per i servizi a consumo possono variare all'interno del ciclo di fatturazione. 
 
@@ -115,7 +115,7 @@ Alcuni prodotti e servizi Microsoft usano un modello di fatturazione "pay in bas
 
     -   Per le sottoscrizioni esistenti verranno usate le tariffe in vigore all'inizio del ciclo di fatturazione.
 
-    -   Le nuove sottoscrizioni, quando creata all'interno del ciclo di fatturazione stesso, usano le tariffe in vigore alla data di creazione. 
+    -   Le nuove sottoscrizioni, quando creata all'interno del ciclo di fatturazione stesso, usano le tariffe in vigore alla data che crearli. 
 
 ### <a name="adjustmentscreditscancellations"></a>Rettifiche/crediti/annullamenti
 
@@ -127,10 +127,10 @@ I crediti di qualsiasi tipo, inclusi quelli per il contratto di servizio, compar
 
 ## <a href="" id="onetimebilling"></a>Fatturazione una tantum
 
-Puoi acquistare prenotazioni di Azure e sottoscrizioni software in anticipo, per i termini di uno o tre anni. Quando acquisti in anticipo, verrà emessa la fattura per il costo intero in un uno attuale. Questo tipo di fatturazione è chiamato fatturazione una tantum.
+Puoi acquistare prenotazioni di Azure e sottoscrizioni di software di anticipo, per i termini di uno o tre anni. Quando acquisti in anticipo, verrà emessa la fattura per il costo intero in un uno attuale. Questo tipo di fatturazione è chiamato fatturazione una tantum.
 
 >[!IMPORTANT]
->Se acquisti prenotazioni di Azure e/o le sottoscrizioni software per un cliente in una posizione con valuta diversa dalla tua, la valuta di fatturazione predefinita si basa sulla posizione del cliente, non sulla tua sede. Se disponi di clienti in più posizioni, riceverai fatture separate e file di riconciliazione per i clienti ogni valuta bisogno di fatturazione, consentendoti di fatturare nella valuta appropriata. 
+>Se acquisti prenotazioni di Azure e/o le sottoscrizioni di software per un cliente in una posizione con valuta diversa dalla tua, la valuta di fatturazione predefinita si basa sul percorso del cliente, non sulla tua sede. Se disponi di clienti in più posizioni, riceverai fatture separate e file di riconciliazione per i clienti ogni valuta bisogno di fatturazione, consentendoti di fatturare nella valuta appropriata. 
 
 ### <a name="manage-your-one-time-billing"></a>Gestire la fatturazione una tantum
 
@@ -148,10 +148,10 @@ Puoi acquistare prenotazioni di Azure e sottoscrizioni software in anticipo, per
 
 3.  Seleziona **Visualizza ordini** per visualizzare la cronologia degli ordini.
 
-**Scarica una nota di credito**
+**Scaricare una nota di credito**
 
-Se hai bisogno richiedere un credito o una nuova fattura ripartita, forniremo un accredito per annullare la fattura originale. Si potrebbe richiedere una credito/una nuova fattura ripartita per i motivi seguenti:
+Se hai bisogno richiedere un credito o una nuova fattura ripartita, forniremo una nota di credito per annullare la fattura originale. Si potrebbe richiedere una credito/una nuova fattura ripartita per i motivi seguenti:
 
 -   Correzioni di ordine di acquisto o l'indirizzo
 
--   Fattura generata e quindi un rimborso fiscale è stato applicato. Puoi richiedere una credito/una nuova fattura ripartita per ottenere la restituzione di imposte trascinata indietro nella fattura originale. Ciò vale anche per i rimborsi, come è possibile richiedere una credito/una nuova fattura ripartita della fattura originale e quindi eseguire il pull in un rimborso.
+-   Fattura generata e quindi è stato applicato un rimborso fiscale. Puoi richiedere una credito/una nuova fattura ripartita per ottenere la restituzione di imposte trascinata indietro nella fattura originale. Ciò vale anche per i rimborsi, come è possibile richiedere una credito/una nuova fattura ripartita della fattura originale e quindi eseguire il pull in un rimborso.

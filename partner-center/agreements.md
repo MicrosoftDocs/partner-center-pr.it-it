@@ -2,32 +2,32 @@
 title: Modelli di contratto Microsoft Cloud per i clienti | Centro per i partner
 ms.topic: article
 ms.date: 11/03/2018
-description: Trovare e scaricare le versioni specifiche all'area geografica e lingua del contratto Microsoft Cloud per esaminare con i tuoi clienti.
+description: Trovare e scaricare le versioni di area geografica e lingua specifici del contratto Microsoft Cloud per esaminare con i tuoi clienti.
 author: Maggie Evans
 ms.author: evensma
 keywords: contratti cloud Microsoft, modelli di contratto cliente, contratti cliente CSP, MCA, MCA, CSP, dove posso vendere con CSP?, paesi/aree geografiche CSP, MCA CSP in più lingue, CSP per America del Nord, CSP per America centrale, CSP per America del Sud, CSP per Caraibi, Microsoft Cloud CSP per governo degli Stati Uniti, Microsoft Cloud CSP per Germania, CSP per Asia orientale, CSP per Africa, Europa per CSP, CSP per Asia, CSP per Pacifico, MCA CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: a664c2bd9486f2f3b32dc09a7d47d32eb9913ed0
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: c3afd36ff14f40ec293ff8dcbda1833d56265c0b
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776535"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990983"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratti Microsoft Cloud per area geografica e lingua
 
-**Ambito di applicazione**
+**Si applica a**
 
 - Partner CSP
 
-Prima che sia possibile inserire un ordine per conto del cliente, il cliente deve accettare e firmare il contratto Microsoft Cloud.
+Prima di poter effettuare un ordine per conto del cliente, il cliente deve accettare e firmare il contratto Microsoft Cloud.
 
 >[!IMPORTANT]
-> A partire da 7 novembre 2018, dovrai verificare che un cliente ha accettato il contratto Microsoft Cloud, fornendo informazioni sulla persona che ha firmato. Per ulteriori informazioni, vedi [Conferma l'accettazione del cliente il contratto Microsoft Cloud](confirm-consent.md) .
+> A partire da 7 novembre 2018, dovrai verificare che un cliente ha accettato il contratto Microsoft Cloud, fornendo informazioni sulla persona che ha firmato. Per altri dettagli, vedi [Conferma l'accettazione del cliente il contratto Microsoft Cloud](confirm-consent.md) .
 
 Contratti Cloud Microsoft sono disponibili in più lingue e area geografica specifica. Trova il cliente località e lingua preferita in uno degli elenchi di seguito per scaricare il contratto corretto.
 
-Se non sei sicuro che quali aree geografiche e i mercati che puoi vendere, trovare la posizione della tua azienda in questo elenco: [valute e nei mercati internazionali di programma Cloud Solution Provider](regional-authorization-overview.md).
+Se non sei sicuro che le aree geografiche e mercati puoi vendere, trovare la posizione della tua azienda in questo elenco: [valute e mercati regionali programma Cloud Solution Provider](regional-authorization-overview.md).
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
@@ -120,7 +120,7 @@ Se non sei sicuro che quali aree geografiche e i mercati che puoi vendere, trova
 - Georgia: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Germania: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [tedesco](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_Sep20172_CR.pdf)
     
-    In Germania, il codice criminali (sezione 203) e i codici di condotta ai professionisti IT, richiedono che sono determinate relazioni client mantenere riservati, ad esempio la relazione tra pazienti e loro medici e la relazione tra i client e legali. Questi gruppi professionali dispongono garantire segreto. Per questi e altri professioni acquistare servizi basati su cloud dal provider di soluzioni cloud, il provider di servizi cloud deve stipulare un contratto scritto con il cliente che garantisce segreto.
+    In Germania, il codice criminali (sezione 203) e i codici ai professionisti IT, di condotta richiedono che determinate relazioni client sono mantenere riservati, ad esempio la relazione tra pazienti e loro medici e la relazione tra legali e i rispettivi client. Questi gruppi professionali dispongono garantire segreto. Per questi e altri professioni acquistare servizi basati su cloud dal provider di soluzioni cloud, il provider di servizi cloud deve stipulare un contratto scritto con il cliente che garantisce segreto.
 
     Se operi in Germania, dovrai fornire questa modifica segreto ai tuoi clienti oltre il contratto Microsoft Cloud.
 
@@ -205,7 +205,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - Guinea: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [francese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf)    
 - Guinea-Bissau: [portoghese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_PTE_Sep20172_CR.pdf)
 - Iraq: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep2017_CR.pdf), [arabo](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
-- Israele: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [ebraico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_HEB_Sep20172_CR.pdf)  
+- Israele: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)  
 - Giordania: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [arabo](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - Kenya: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)     
 - Kosovo: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)

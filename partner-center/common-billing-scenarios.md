@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b4dbfe0b325f4ab9741ae4510fa8e651d7216ac9
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795634"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990963"
 ---
 # <a name="common-billing-scenarios"></a>Scenari di fatturazione comuni
 
@@ -33,7 +33,9 @@ Questo argomento descrive ciò che compare sulla fattura dopo l'aggiunta di nuov
 
 Le sottoscrizioni basate sull'utilizzo vengono fatturate mensilmente in via posticipata, nel giorno dell'anniversario della sottoscrizione. Ad esempio, se la data dell'anniversario della sottoscrizione è di 15 del mese, riceverai l'addebito il 15 gennaio per il periodo di servizio 15 dicembre-14 gennaio. Riceverai l'addebito nuovamente il 15 febbraio per il periodo di servizio 15 gennaio - 14 febbraio e così via. Gli addebiti generati il giorno dell'anniversario della sottoscrizione verranno visualizzati nel file di riconciliazione e nella fattura seguente.
 
-La sottoscrizione basata sull'utilizzo può essere sospesa in qualsiasi momento. 
+Potrebbe succedere che alcuni costi di utilizzo che risultano mancanti la fattura o che l'utilizzo di un mese precedente è l'addebito in fattura del mese corrente. Non si tratta di un errore. significa semplicemente che il servizio non timestamp dopo che si sono verificati i servizi. Utilizzo segnalato entro 24 ore di fine del ciclo di fatturazione verrà visualizzata in fattura del mese successivo. 
+
+Le sottoscrizioni basate su utilizzo potrebbero essere sospesa in qualsiasi momento. 
 
 Il listino prezzi CSP di Azure viene pubblicato mensilmente e si trova nella pagina Prezzi e offerte di vendita del Centro per i partner. Tieni presente che i prezzi possono cambiare ogni giorno e vengono riportati nella scheda Cronologia modifiche del listino prezzi.
 

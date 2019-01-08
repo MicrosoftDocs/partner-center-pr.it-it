@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990933"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995875"
 ---
 # <a name="read-your-bill"></a><span data-ttu-id="dfa96-105">Leggere la fattura</span><span class="sxs-lookup"><span data-stu-id="dfa96-105">Read your bill</span></span>
 
@@ -146,7 +146,7 @@ ms.locfileid: "8990933"
 |<span data-ttu-id="dfa96-182">Importo pre-imposta</span><span class="sxs-lookup"><span data-stu-id="dfa96-182">Pre-tax amount</span></span> |<span data-ttu-id="dfa96-183">Totale parziale degli acquisti prima delle imposte.</span><span class="sxs-lookup"><span data-stu-id="dfa96-183">Sub-total of the purchases before taxes.</span></span> |
 |<span data-ttu-id="dfa96-184">Imposta sulle vendite</span><span class="sxs-lookup"><span data-stu-id="dfa96-184">Sales tax</span></span> |<span data-ttu-id="dfa96-185">Importo dell'imposta.</span><span class="sxs-lookup"><span data-stu-id="dfa96-185">Tax amount.</span></span> |
 |<span data-ttu-id="dfa96-186">Totale</span><span class="sxs-lookup"><span data-stu-id="dfa96-186">Total</span></span> |<span data-ttu-id="dfa96-187">Totale da pagare.</span><span class="sxs-lookup"><span data-stu-id="dfa96-187">Total to be paid.</span></span> |
- 
+ 
 
 
 

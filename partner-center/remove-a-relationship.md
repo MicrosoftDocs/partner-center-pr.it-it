@@ -6,35 +6,34 @@ description: La rimozione di una relazione consente di rimuovere tutte le relazi
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 61f2435d7e310623338444524ae5382c6e69fa00
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 2134a8ba118960dabe235d07675b3e340cc2ba16
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797074"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995675"
 ---
-# <a name="remove-a-reseller-relationship-with-a-customer"></a><span data-ttu-id="67f94-103">Rimuovere una relazione con un rivenditore o un cliente</span><span class="sxs-lookup"><span data-stu-id="67f94-103">Remove a reseller relationship with a customer</span></span>
+# <a name="remove-a-reseller-relationship-with-a-customer"></a><span data-ttu-id="67299-103">Rimuovere una relazione con un rivenditore o un cliente</span><span class="sxs-lookup"><span data-stu-id="67299-103">Remove a reseller relationship with a customer</span></span>
 
-**<span data-ttu-id="67f94-104">Si applica a</span><span class="sxs-lookup"><span data-stu-id="67f94-104">Applies to</span></span>**
+**<span data-ttu-id="67299-104">Si applica a</span><span class="sxs-lookup"><span data-stu-id="67299-104">Applies to</span></span>**
 
--   <span data-ttu-id="67f94-105">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="67f94-105">Partner Center</span></span>
+-   <span data-ttu-id="67299-105">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="67299-105">Partner Center</span></span>
 
-<span data-ttu-id="67f94-106">Partner diretti: se non si effettuano più transazioni con un cliente, è possibile rimuovere la relazione nel Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="67f94-106">Direct partners: if you're no longer transacting with a customer, you can remove the relationship in Partner Center.</span></span> 
+<span data-ttu-id="67299-106">Partner diretti: se non si effettuano più transazioni con un cliente, è possibile rimuovere la relazione nel Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="67299-106">Direct partners: if you're no longer transacting with a customer, you can remove the relationship in Partner Center.</span></span> 
 
-<span data-ttu-id="67f94-107">Questa funzionalità:</span><span class="sxs-lookup"><span data-stu-id="67f94-107">This feature:</span></span>
-*  <span data-ttu-id="67f94-108">Rimuove il cliente dall'elenco dei clienti nel Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="67f94-108">Removes the customer from your list of customers in Partner Center</span></span>
-*  <span data-ttu-id="67f94-109">Rimuove te dall'[elenco dei contatti per il supporto tecnico disponibili](assign-support-contacts.md) per un cliente</span><span class="sxs-lookup"><span data-stu-id="67f94-109">Removes you from the [list of available support contacts](assign-support-contacts.md) for your customer</span></span>
-*  <span data-ttu-id="67f94-110">Rimuove i tuoi privilegi di amministratore con delega per il cliente</span><span class="sxs-lookup"><span data-stu-id="67f94-110">Removes your delegation admin privileges for the customer</span></span>
-*  <span data-ttu-id="67f94-111">Elimina la possibilità di effettuare acquisti per conto del cliente</span><span class="sxs-lookup"><span data-stu-id="67f94-111">Removes the ability for you to make purchases on behalf of the customer</span></span>
+<span data-ttu-id="67299-107">Questa funzionalità:</span><span class="sxs-lookup"><span data-stu-id="67299-107">This feature:</span></span>
+*  <span data-ttu-id="67299-108">Rimuove il cliente dall'elenco dei clienti nel Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="67299-108">Removes the customer from your list of customers in Partner Center</span></span>
+*  <span data-ttu-id="67299-109">Rimuove te dall'[elenco dei contatti per il supporto tecnico disponibili](assign-support-contacts.md) per un cliente</span><span class="sxs-lookup"><span data-stu-id="67299-109">Removes you from the [list of available support contacts](assign-support-contacts.md) for your customer</span></span>
+*  <span data-ttu-id="67299-110">Rimuove i tuoi privilegi di amministratore con delega per il cliente</span><span class="sxs-lookup"><span data-stu-id="67299-110">Removes your delegation admin privileges for the customer</span></span>
+*  <span data-ttu-id="67299-111">Elimina la possibilità di effettuare acquisti per conto del cliente</span><span class="sxs-lookup"><span data-stu-id="67299-111">Removes the ability for you to make purchases on behalf of the customer</span></span>
 
-<span data-ttu-id="67f94-112">Per rimuovere la relazione, dovrai annullare le prenotazioni delle istanze riservate di Azure, annullare gli acquisti di software e sospendere in primo luogo qualsiasi sottoscrizione attiva rimanente:</span><span class="sxs-lookup"><span data-stu-id="67f94-112">To remove the relationship, you'll need to cancel Azure RI reservations, cancel software purchases, and suspend any remaining active subscriptions first:</span></span>
+<span data-ttu-id="67299-112">Per rimuovere la relazione, dovrai annullare le prenotazioni delle istanze riservate di Azure, annullare gli acquisti di software e sospendere in primo luogo qualsiasi sottoscrizione attiva rimanente:</span><span class="sxs-lookup"><span data-stu-id="67299-112">To remove the relationship, you'll need to cancel Azure RI reservations, cancel software purchases, and suspend any remaining active subscriptions first:</span></span>
+1. <span data-ttu-id="67299-113">Sospendi tutte le sottoscrizioni attive.</span><span class="sxs-lookup"><span data-stu-id="67299-113">Suspend any active subscriptions.</span></span> <span data-ttu-id="67299-114">Dal centro per i Partner, Vai a **clienti** > Seleziona un cliente > **sottoscrizioni** > Seleziona una sottoscrizione > **sospeso**.</span><span class="sxs-lookup"><span data-stu-id="67299-114">From the Partner Center, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**.</span></span> 
 
-1.  <span data-ttu-id="67f94-113">Sospendi tutte le sottoscrizioni attive.</span><span class="sxs-lookup"><span data-stu-id="67f94-113">Suspend any active subscriptions.</span></span> <span data-ttu-id="67f94-114">Dal centro per i Partner, Vai a **clienti** > Seleziona un cliente > **sottoscrizioni** > Seleziona una sottoscrizione > **sospeso**.</span><span class="sxs-lookup"><span data-stu-id="67f94-114">From the Partner Center, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**.</span></span> 
+   <span data-ttu-id="67299-115">Ripeti questo passaggio per ogni sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="67299-115">Repeat this for each active subscription.</span></span>
 
-   <span data-ttu-id="67f94-115">Ripeti questo passaggio per ogni sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="67f94-115">Repeat this for each active subscription.</span></span>
+2. <span data-ttu-id="67299-116">Rimuovere la relazione nel centro per i Partner: dal centro per i Partner, Vai a **clienti** > Seleziona un cliente > **Account** > **rimuovere una relazione come rivenditore**.</span><span class="sxs-lookup"><span data-stu-id="67299-116">Remove the relationship in Partner Center: From the Partner Center, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.</span></span>
 
-2.  <span data-ttu-id="67f94-116">Rimuovere la relazione nel centro per i Partner: dal centro per i Partner, Vai a **clienti** > Seleziona un cliente > **Account** > **rimuovere una relazione come rivenditore**.</span><span class="sxs-lookup"><span data-stu-id="67f94-116">Remove the relationship in Partner Center: From the Partner Center, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.</span></span>
+   <span data-ttu-id="67299-117">Se eventuali sottoscrizioni sono ancora attive, il collegamento **Remove reseller relationship** sarà inattivo.</span><span class="sxs-lookup"><span data-stu-id="67299-117">Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive.</span></span> 
 
-    <span data-ttu-id="67f94-117">Se eventuali sottoscrizioni sono ancora attive, il collegamento **Remove reseller relationship** sarà inattivo.</span><span class="sxs-lookup"><span data-stu-id="67f94-117">Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive.</span></span> 
-
-<span data-ttu-id="67f94-118">Per ristabilire la relazione, ripetere il processo di [richiesta di una relazione](request-a-relationship-with-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="67f94-118">To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).</span></span>
+<span data-ttu-id="67299-118">Per ristabilire la relazione, ripetere il processo di [richiesta di una relazione](request-a-relationship-with-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="67299-118">To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).</span></span>

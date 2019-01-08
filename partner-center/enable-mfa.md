@@ -8,23 +8,22 @@ author: labrenne
 ms.author: labrenne
 Keywords: health, service health,service problems
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f309cb7aecd9dc9acb09b9fe9f2eaead05f2fea
-ms.sourcegitcommit: 62145037d37cc5e55b3af9c348f4ec41b7c82d48
+ms.openlocfilehash: 2789e333655d27b7009aaa020b461d70086c8ef2
+ms.sourcegitcommit: 365f51b1df6752ab0f6bcf2b26329d354fa36653
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/21/2018
-ms.locfileid: "8981610"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995022"
 ---
 # <a name="you-must-enable-multi-factor-authentication-mfa-on-your-tenant-to-gain-access-to-partner-center"></a>È necessario abilitare multi-Factor Authentication (MFA) nel tuo tenant per accedere al centro per i Partner
 
-**Si applica a**
+**Ambito di applicazione**
 
 - Centro per i partner
-- CPVs
+
 
 Microsoft Partner Center ora è necessario abilitare l'autenticazione a più fattori (MFA) per accedere al centro per i Partner.  
-I partner possono abilitare l'autenticazione a più fattori con [soluzioni di Microsoft Azure MFA](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks) o adottare soluzioni di MFA dei fornitori di terze parti. Nota: la soluzione di terze parti selezionata deve essere supportata da Microsoft Azure Active Directory. Consultare la documentazione del provider di soluzioni MFA per confermare. 
+I partner possono abilitare l'autenticazione a più fattori con [soluzioni di Microsoft Azure MFA](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks) o adottare soluzioni MFA dei fornitori di terze parti. Nota: la soluzione di terze parti selezionata deve essere supportata da Microsoft Azure Active Directory. Consultare la documentazione del provider di soluzioni MFA per confermare. 
 
 Altre informazioni sulla [distribuzione di Azure MFA](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted). 
  
-Adottare e abilitare MFA riabilitare l'accesso a Microsoft Partner Center. 

@@ -6,12 +6,12 @@ description: La rimozione di una relazione consente di rimuovere tutte le relazi
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 61f2435d7e310623338444524ae5382c6e69fa00
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 2134a8ba118960dabe235d07675b3e340cc2ba16
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797074"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995675"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Rimuovere una relazione con un rivenditore o un cliente
 
@@ -28,13 +28,12 @@ Questa funzionalità:
 *  Elimina la possibilità di effettuare acquisti per conto del cliente
 
 Per rimuovere la relazione, dovrai annullare le prenotazioni delle istanze riservate di Azure, annullare gli acquisti di software e sospendere in primo luogo qualsiasi sottoscrizione attiva rimanente:
-
-1.  Sospendi tutte le sottoscrizioni attive. Dal centro per i Partner, Vai a **clienti** > Seleziona un cliente > **sottoscrizioni** > Seleziona una sottoscrizione > **sospeso**. 
+1. Sospendi tutte le sottoscrizioni attive. Dal centro per i Partner, Vai a **clienti** > Seleziona un cliente > **sottoscrizioni** > Seleziona una sottoscrizione > **sospeso**. 
 
    Ripeti questo passaggio per ogni sottoscrizione.
 
-2.  Rimuovere la relazione nel centro per i Partner: dal centro per i Partner, Vai a **clienti** > Seleziona un cliente > **Account** > **rimuovere una relazione come rivenditore**.
+2. Rimuovere la relazione nel centro per i Partner: dal centro per i Partner, Vai a **clienti** > Seleziona un cliente > **Account** > **rimuovere una relazione come rivenditore**.
 
-    Se eventuali sottoscrizioni sono ancora attive, il collegamento **Remove reseller relationship** sarà inattivo. 
+   Se eventuali sottoscrizioni sono ancora attive, il collegamento **Remove reseller relationship** sarà inattivo. 
 
 Per ristabilire la relazione, ripetere il processo di [richiesta di una relazione](request-a-relationship-with-a-customer.md).

@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990933"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995875"
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
@@ -146,7 +146,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 |Importo pre-imposta |Totale parziale degli acquisti prima delle imposte. |
 |Imposta sulle vendite |Importo dell'imposta. |
 |Totale |Totale da pagare. |
- 
+ 
 
 
 

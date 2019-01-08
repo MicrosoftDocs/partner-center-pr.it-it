@@ -7,12 +7,12 @@ ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 949536273e4b07778f4a9fac4f4779858573fc1f
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a7f334b95f148ca13659a5101293c1e5e9bd9622
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683700"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995775"
 ---
 # <a name="manage-your-customer-list"></a>Gestire l'elenco dei clienti
 
@@ -38,7 +38,7 @@ Anche i log attività offrono dati esportabili sulle transazioni e le operazioni
 Dal menu di **Centro per i Partner** , seleziona **i clienti**.
 2.  Per cercare un cliente, immetti il nome del cliente o il nome del dominio nella casella di ricerca.
 3.  Seleziona la **freccia in giù** alla fine della riga di un cliente per visualizzare l'ID Microsoft oltre ai link rapidi per le sottoscrizioni e i servizi associati.
-4.  Sotto le informazioni del cliente **a cui fatturare** , aggiorna il nome della società. Quando salvi il nuovo valore, lo sarà visibili nell'elenco dei clienti. Questo modo verrà modificata solo il nome della società a cui fatturare e il valore di elenco dei clienti. Non si verrà applicato in un punto qualsiasi altro.
+4.  Sotto le informazioni del cliente **a cui fatturare** , aggiorna il nome della società. Quando salvi il nuovo valore, lo si rifletteranno nell'elenco dei clienti. Questo cambierà solo il nome della società a cui fatturare e il valore di elenco dei clienti. Non verrà applicato in un punto qualsiasi in caso contrario.
 
 ## <a name="export-your-customer-list"></a>Esportare l'elenco dei clienti
 
@@ -71,11 +71,11 @@ Dal menu di **Centro per i Partner** , seleziona **i clienti**.
 > [!NOTE]  
 > Per altre informazioni sulla gestione delle sottoscrizioni, vedi [Sottoscrizioni dei clienti](customer-subscriptions.md).
 
-     
+     
 
- 
+ 
 
- 
+ 
 
 
 

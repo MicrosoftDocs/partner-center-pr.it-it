@@ -2,17 +2,17 @@
 title: Assegnare ruoli agli utenti e le autorizzazioni | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: Ogni dipendente che dovrà lavorare nel centro per i Partner deve essere assegnato un ruolo.
+description: Tutti i dipendenti che devono lavorare nel centro per i Partner devono essere assegnato un ruolo.
 author: labrenne
 ms.author: labrenne
 keywords: ruoli, autorizzazioni, amministratore, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: ad20423242868751665ddb40d204edd17eb8bc1e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d05656a219cda8a68ded396a7f19b7bb4e5f9cdc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795104"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995915"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Assegnare autorizzazioni e ruoli utente
 
@@ -20,19 +20,19 @@ ms.locfileid: "5795104"
 
 - Centro per i partner
 
-Ogni ruolo nel centro per i Partner include alcune autorizzazioni se un utente è autorizzato a eseguire attività specifiche. Tutti gli utenti che funziona nel centro per i Partner deve essere assegnato un ruolo.
+Ogni ruolo nel centro per i Partner viene fornito con alcune autorizzazioni se un utente è autorizzato a eseguire attività specifiche. Tutti gli utenti che funziona nel centro per i Partner deve essere assegnato un ruolo.
 
 A seconda delle dimensioni dell'organizzazione alcuni utenti potrebbero funzionare in sedi o solo per un'unica posizione. 
 
 Ad esempio:
 
 - L'amministratore globale può essere amministratore per il legale dell'azienda e una posizione specifica; o l'amministratore globale può essere amministratore per solo uno dei percorsi di un'azienda. 
-- Amministratori di incentivi possono amministrare per uno o più posizioni, ma queste ubicazioni devono essere specificati.
+- Amministratori di incentivi possono amministrare per uno o più posizioni, ma devono essere specificati tali posizioni.
 
 
 La tabella seguente illustra cosa ogni ruolo può eseguire nel centro per i Partner. Quando devi assegnare i ruoli, prendi in considerazione il lavoro eseguito dall'utente all'interno dell'organizzazione. Potrebbe ad esempio essere opportuno che l'amministratore globale sia anche l'agente amministratore. La persona che gestisce l'attività di marketing potrebbe anche gestire il profilo di lavoro.
 
-Per una panoramica dei ruoli e autorizzazioni, Leggi [creare gli account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md).
+Per una panoramica dei ruoli e autorizzazioni, leggere [creare gli account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md).
 
 <table>
 <colgroup>
@@ -100,20 +100,20 @@ Per una panoramica dei ruoli e autorizzazioni, Leggi [creare gli account utente 
 <td><p><strong>Account amministratore</strong></p></td>
 <td><ul>
 <li><p>Creare nuove posizioni</p></li>
-<li><p>Registrare posizioni in programmi (eccezioni sono CSP e programmi per i rivenditori indiretti)</p></li>
+<li><p>Registrare i percorsi in programmi (eccezioni sono CSP e programmi per i rivenditori indiretti)</p></li>
 <li><p>Gestire i profili correlati agli account posizione che amministrano</p></li>
-<li><p>Assegnare agli utenti altri amministratori degli Account, amministratore MPN, amministratore del profilo di lavoro, amministratore dei riferimenti, amministratore degli incentivi e ruoli utente degli incentivi</p></li>
+<li><p>Assegnare agli utenti altri amministratori degli Account amministratore MPN, amministratore del profilo di lavoro, amministratore dei riferimenti, amministratore degli incentivi e ruoli utente di incentivi</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Amministratore di incentivi</strong></p></td>
 <td><ul>
-<li><p>Avvia e gestisce le attestazioni di incentivi</p></li>
+<li><p>Avvia e gestisce attestazioni di incentivi</p></li>
 <li><p>Può visualizzare e modificare tutti gli aspetti di programmi di incentivi</p></li>
 <li><p>Può visualizzare e modificare i dettagli bancari e fiscali</p></li>
 <LI><p>Visualizzazione sconti e utili in collaborazione</p></li>
 <LI><p>Supporto per l'accesso</p></li>
-<LI><p>Pagamenti degli incentivi controversie</p></li>
+<LI><p>Controversie pagamenti di incentivi</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -125,14 +125,14 @@ Per una panoramica dei ruoli e autorizzazioni, Leggi [creare gli account utente 
 <li><p>Visualizzazione sconti e utili in collaborazione</p></li>
 <LI><p>Visualizzazione sconti e utili in collaborazione</p></li>
 <LI><p>Supporto per l'accesso</p></li>
-<LI><p>Pagamenti degli incentivi controversie</p></li>
+<LI><p>Controversie pagamenti di incentivi</p></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p><strong>Agente amministratore</strong></p></td>
 <td><ul>
 <li><p>Gestione dei clienti</p></li>
-<li><p>Aggiungere l'elenco dei dispositivi nel centro per i Partner per <</p></li>
+<li><p>Aggiungere l'elenco dei dispositivi al centro per i Partner&lt;</p></li>
 <p><li>Creazione e applicazione di profili ai dispositivi</p></li>
 <li><p>Gestione delle sottoscrizioni</p></li>
 <li><p>Assistenza alle richieste di integrità e di servizio per i clienti</p></li>

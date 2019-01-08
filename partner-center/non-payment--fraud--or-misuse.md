@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917593"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995905"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Insoluti, frodi o uso improprio
 
@@ -83,9 +83,9 @@ Per strategie più dettagliate per l'attenuazione del rischio online, consulta l
 > [!IMPORTANT]  
 > Se Microsoft rileva attività di partner o clienti che violano o potrebbero violare i criteri di utilizzo, verranno adottate misure adeguate. Il cliente potrebbe essere sospeso immediatamente. In tal caso, riceverai una notifica indicante le azioni intraprese o informazioni sulla tua richiesta da parte di Microsoft.
 
- 
+ 
 
- 
+ 
 
 
 

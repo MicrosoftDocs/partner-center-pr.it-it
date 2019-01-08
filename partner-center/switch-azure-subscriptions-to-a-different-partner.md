@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: sottoscrizione di azure, cambiare partner, sostituire partner, ottenere nuovo partner, partner diverso
 ms.localizationpriority: medium
-ms.openlocfilehash: f91716aa6ebf2c2b8f2867f1bad61947ad3776e0
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d66e24d831aa3ea9d84138d1ca06e5e9be51742b
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796694"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995895"
 ---
 # <a name="transfer-azure-subscriptions"></a>Trasferire le sottoscrizioni Azure 
 
@@ -24,7 +24,7 @@ ms.locfileid: "5796694"
 Un cliente può decidere di passare a un partner Cloud Solution Provider o a un altro partner per i servizi di Microsoft Azure. Si tratta, tuttavia, di un processo manuale che richiede l'intervento sia del partner che del cliente.
 
 >[!Note]  
->In questo momento solo diretto o indiretto i provider sono in grado di trasferire le sottoscrizioni.
+>In questo momento solo Direct o i provider indiretti sono in grado di trasferire le sottoscrizioni.
 
 >[!Note]Non è attualmente possibile cambiare partner per le sottoscrizioni Cloud Solution Provider per Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
 
@@ -32,74 +32,72 @@ Un cliente può decidere di passare a un partner Cloud Solution Provider o a un 
 
 **Cambiare partner per le sottoscrizioni Azure**
 
-1.  Per trasferire una sottoscrizione Azure a un nuovo partner, il cliente deve avviare il processo e contattare il Partner of Record corrente in forma scritta. 
+1. Per trasferire una sottoscrizione Azure a un nuovo partner, il cliente deve avviare il processo e contattare il Partner of Record corrente in forma scritta. 
+>[!Note]
+>È responsabilità del partner attuale creare il ticket di servizio che avvia il processo di trasferimento. Microsoft non può intervenire per conto del cliente o del nuovo partner. Il cliente deve pianificare di lavorare a stretto contatto con il partner attuale per facilitare la transizione.
 
-    >[!Note]
-    >È responsabilità del partner attuale creare il ticket di servizio che avvia il processo di trasferimento. Microsoft non può intervenire per conto del cliente o del nuovo partner. Il cliente deve pianificare di lavorare a stretto contatto con il partner attuale per facilitare la transizione.
+2. Il partner per la sottoscrizione deve effettuare le attività seguenti:
 
-2.  Il partner per la sottoscrizione deve effettuare le attività seguenti:
+Creare un ticket di servizio Azure dal Centro per i partner per richiedere un trasferimento della sottoscrizione:
+-   Il menu del centro per i Partner seleziona **i clienti**, seleziona il cliente nell'elenco e quindi seleziona **la gestione dei servizi**. Nella sezione **Ticket di supporto** seleziona l'elenco a discesa **Nuovo ticket** e scegli **Microsoft Azure**.
 
-    Creare un ticket di servizio Azure dal Centro per i partner per richiedere un trasferimento della sottoscrizione:
+-   Nel portale di Azure seleziona **Nuova richiesta di supporto**.
 
-    -   Il menu del centro per i Partner seleziona **i clienti**, seleziona il cliente nell'elenco e quindi seleziona **la gestione dei servizi**. Nella sezione **Ticket di supporto** seleziona l'elenco a discesa **Nuovo ticket** e scegli **Microsoft Azure**.
+Nel passaggio 1 scegli **Gestione della sottoscrizione** come tipo di problema, specifica l'ID sottoscrizione che vuoi trasferire e scegli **Cloud Solution Provider** come piano di supporto.
 
-    -   Nel portale di Azure seleziona **Nuova richiesta di supporto**.
+Nel passaggio 2 seleziona **C–Impatto minimo** e scegli **Domande generali** come tipo di problema.
 
-        Nel passaggio 1 scegli **Gestione della sottoscrizione** come tipo di problema, specifica l'ID sottoscrizione che vuoi trasferire e scegli **Cloud Solution Provider** come piano di supporto.
+Scarica il [modulo per il trasferimento della sottoscrizione CSP](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip).
 
-        Nel passaggio 2 seleziona **C–Impatto minimo** e scegli **Domande generali** come tipo di problema.
+3. Il partner corrente per la sottoscrizione: compila il [modulo per il trasferimento della sottoscrizione CSP](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip), firmalo e quindi invialo al cliente. Per compilare il modulo, sono necessarie le informazioni seguenti:
 
-        Scarica il [modulo per il trasferimento della sottoscrizione CSP](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip).
+- ID Microsoft e informazioni di contatto del partner corrente. Nel menu del Centro per i partner seleziona **Impostazioni account** &gt; **Profilo organizzazione** e usa i valori indicati per **ID Microsoft**, **Nome organizzazione** e **Indirizzo**.
 
-3.  Il partner corrente per la sottoscrizione: compila il [modulo per il trasferimento della sottoscrizione CSP](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip), firmalo e quindi invialo al cliente. Per compilare il modulo, sono necessarie le informazioni seguenti:
+- ID Microsoft del cliente. Nel menu del Centro per i partner seleziona **Clienti** e quindi espandi l'elenco dei clienti per visualizzare il relativo **ID Microsoft**.
 
-    -   ID Microsoft e informazioni di contatto del partner corrente. Nel menu del Centro per i partner seleziona **Impostazioni account** &gt; **Profilo organizzazione** e usa i valori indicati per **ID Microsoft**, **Nome organizzazione** e **Indirizzo**.
+- ID sottoscrizione da trasferire. Nell'elenco dei clienti espanso seleziona **Visualizza sottoscrizioni**, quindi espandi la sottoscrizione scelta per vedere l'**ID sottoscrizione**.
 
-    -   ID Microsoft del cliente. Nel menu del Centro per i partner seleziona **Clienti** e quindi espandi l'elenco dei clienti per visualizzare il relativo **ID Microsoft**.
+>[!Note]
+>Il trasferimento di una sottoscrizione comporta la generazione di due ID sottoscrizione che verranno visualizzati nella pagina **Modifica sottoscrizione** della sottoscrizione trasferita: **1**- L'ID sottoscrizione del Centro per i partner viene utilizzato per scopi di fatturazione. 
+**2**- L'ID sottoscrizione di Azure originale viene mantenuto e sarà visualizzato nel Centro per i partner e nel portale di gestione di Azure. Questo ID verrà visualizzato nel file di riconoscimento.  **Durante la registrazione per i ticket di supporto è necessario utilizzare entrambi gli ID.**
 
-    -   ID sottoscrizione da trasferire. Nell'elenco dei clienti espanso seleziona **Visualizza sottoscrizioni**, quindi espandi la sottoscrizione scelta per vedere l'**ID sottoscrizione**.
+4. Il cliente e nuovo partner per la sottoscrizione:
 
-     >[!Note]
-     >Il trasferimento di una sottoscrizione comporta la generazione di due ID sottoscrizione che verranno visualizzati nella pagina **Modifica sottoscrizione** della sottoscrizione trasferita: **1**- L'ID sottoscrizione del Centro per i partner viene utilizzato per scopi di fatturazione. 
-    **2**- L'ID sottoscrizione di Azure originale viene mantenuto e sarà visualizzato nel Centro per i partner e nel portale di gestione di Azure. Questo ID verrà visualizzato nel file di riconoscimento.  **Durante la registrazione per i ticket di supporto è necessario utilizzare entrambi gli ID.**
+Esamina il modulo, compila le informazioni sul nuovo partner e firmalo. Verifica che per il nuovo cliente sia in vigore un contratto. Invia il modulo al Partner of Record corrente.
 
-4.  Il cliente e nuovo partner per la sottoscrizione:
+*Importante*: se il nuovo partner CSP non ha una relazione come rivenditore con il cliente, deve stabilirne una prima del trasferimento della sottoscrizione. [Puoi trovare informazioni sulla procedura qui](request-a-relationship-with-a-customer.md).
 
-    Esamina il modulo, compila le informazioni sul nuovo partner e firmalo. Verifica che per il nuovo cliente sia in vigore un contratto. Invia il modulo al Partner of Record corrente.
+>[!Note]
+>Il nuovo partner CSP e tenant del cliente devono essere nello stesso paese. 
 
-    *Importante*: se il nuovo partner CSP non ha una relazione come rivenditore con il cliente, deve stabilirne una prima del trasferimento della sottoscrizione. [Puoi trovare informazioni sulla procedura qui](request-a-relationship-with-a-customer.md).
+5. Partner corrente:
 
-    >[!Note]
-    >Il nuovo partner CSP e tenant del cliente devono essere nello stesso paese. 
+Verifica che il modulo includa le informazioni di contatto per entrambi gli amministratori del partner: il personale del servizio di supporto tecnico Microsoft contatterà entrambi gli amministratori per verificare il trasferimento. Verifica che siano presenti tutte e tre le firme e quindi allega il modulo completo alla richiesta di servizio esistente usando l'opzione **Caricamento file**. Un tecnico del supporto Microsoft ti contatterà entro 8 ore lavorative per confermare la ricezione e il completamento.
 
-5.  Partner corrente:
+6. Nuovo partner:
 
-    Verifica che il modulo includa le informazioni di contatto per entrambi gli amministratori del partner: il personale del servizio di supporto tecnico Microsoft contatterà entrambi gli amministratori per verificare il trasferimento. Verifica che siano presenti tutte e tre le firme e quindi allega il modulo completo alla richiesta di servizio esistente usando l'opzione **Caricamento file**. Un tecnico del supporto Microsoft ti contatterà entro 8 ore lavorative per confermare la ricezione e il completamento.
+Aggiorna le impostazioni della sottoscrizione di Azure per rimuovere il partner precedente dall'account. Per vedere le assegnazioni di ruolo di cui è stato effettuato il provisioning, esegui due cmdlet di PowerShell.
 
-6.  Nuovo partner:
+-   Aggiungi il nuovo partner come rivenditore nell'account:
 
-    Aggiorna le impostazioni della sottoscrizione di Azure per rimuovere il partner precedente dall'account. Per vedere le assegnazioni di ruolo di cui è stato effettuato il provisioning, esegui due cmdlet di PowerShell.
+**PS C:\\&gt; Add-AzureRMAccount -tenant "NomeDominioCliente"**
 
-    -   Aggiungi il nuovo partner come rivenditore nell'account:
+Per trovare il nome di dominio del cliente: nel menu del Centro per i partner scegli **Clienti**. Seleziona il cliente nell'elenco dei clienti. Nel menu del cliente scegli **Account** e usa le informazioni in **Nome di dominio**.
 
-        **PS C:\\&gt; Add-AzureRMAccount -tenant "NomeDominioCliente"**
+-   Visualizza i ruoli dell'account, inclusi i partner CSP precedenti:
 
-        Per trovare il nome di dominio del cliente: nel menu del Centro per i partner scegli **Clienti**. Seleziona il cliente nell'elenco dei clienti. Nel menu del cliente scegli **Account** e usa le informazioni in **Nome di dominio**.
-
-    -   Visualizza i ruoli dell'account, inclusi i partner CSP precedenti:
-
-        **PS C:\\&gt; Get-AzureRMRoleAssignment**
+**PS C:\\&gt; Get-AzureRMRoleAssignment**
 
 7. Rimuovi le autorizzazioni di accesso obsolete
 
-    -  Nel menu del Centro per i partner scegli **Clienti**. 
-    -  Espandi l'elenco dei clienti e seleziona **Visualizza sottoscrizioni**. 
-    -  Nel menu del cliente scegli **Gestione servizi**. 
-    -  In **Microsoft Azure** fai clic sul link per passare al **Portale di gestione di Microsoft Azure**.
+-  Nel menu del Centro per i partner scegli **Clienti**. 
+-  Espandi l'elenco dei clienti e seleziona **Visualizza sottoscrizioni**. 
+-  Nel menu del cliente scegli **Gestione servizi**. 
+-  In **Microsoft Azure** fai clic sul link per passare al **Portale di gestione di Microsoft Azure**.
 
- 
+ 
 
- 
+ 
 
 
 

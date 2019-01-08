@@ -7,12 +7,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6dce06b0c65c3ac85318b1c04b5a8b490d620e55
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683670"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995605"
 ---
 # <a name="multi-channel-support"></a>Supporto multicanale
 
@@ -37,13 +37,13 @@ La funzionalità multicanale del centro per i Partner supporta scenari in cui un
 <tbody>
 <tr class="odd">
 <td><p><strong>Servizi in base alle licenze</strong></p></td>
-<td><p>Per garantire il supporto per gli account multicanale, devi richiedere al cliente le autorizzazioni per poter gestire le sottoscrizioni corrispondenti. Vedi [Richiedere una relazione come rivenditore con un cliente](request-a-relationship-with-a-customer.md) per informazioni su come eseguire questa operazione.</p></td>
+<td><p>Per garantire il supporto per gli account multicanale, devi richiedere al cliente le autorizzazioni per poter gestire le sottoscrizioni corrispondenti. Vedi <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Richiedere una relazione come rivenditore con un cliente</a> per informazioni su come eseguire questa operazione.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Servizi in base all'uso</strong></p></td>
 <td>
-<p>Per un cliente che ha già acquistato una sottoscrizione a Microsoft Azure tramite un altro canale, ad esempio Advisor, Open o EA, dovrai creare una nuova sottoscrizione ad Azure nel Centro per i partner, immettere manualmente i dettagli della sottoscrizione e quindi annullare i singoli servizi o l'intera sottoscrizione.</p>
-<p>Per un cliente che ha già acquistato una sottoscrizione a Microsoft Azure presso un altro partner, ad esempio, è possibile passare i servizi Azure all'altro partner. Per altre informazioni, vedi [Passare le sottoscrizioni Azure a un altro partner](switch-azure-subscriptions-to-a-different-partner.md)</p>
+<p>Per un cliente che ha già acquistato una sottoscrizione a Microsoft Azure da un altro canale, ad esempio Advisor, Open, o EA, puoi & #39; ll devi creare una nuova sottoscrizione di Azure nel centro per i Partner, immettere manualmente i dettagli della sottoscrizione e quindi annullare i singoli servizi o l'intera sottoscrizione.</p>
+<p>Per un cliente che ha già acquistato una sottoscrizione a Microsoft Azure presso un altro partner, ad esempio, è possibile passare i servizi Azure all'altro partner. Per altre informazioni, vedi <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Passare le sottoscrizioni Azure a un altro partner</a></p>
 </td>
 </tr>
 </tbody>
@@ -60,9 +60,9 @@ Se sei un rivenditore indiretto, vedi [Collaborare con i provider indiretti](ind
 
 Se sei un provider indiretto, vedi [Collaborare con i rivenditori indiretti](indirect-provider-tasks-in-partner-center.md) 
 
- 
+ 
 
- 
+ 
 
 
 

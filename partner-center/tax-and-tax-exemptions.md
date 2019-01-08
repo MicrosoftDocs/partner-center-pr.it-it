@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dc017fdf17950187694bff1cb3e9ce389a50009d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: bf0145b9e82d14d51486f7063329b971451c2fcd
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683740"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995805"
 ---
 # <a name="tax-and-tax-exemptions"></a>Imposte ed esenzioni fiscali
 
@@ -28,7 +28,7 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 
 1.  Cercare l' **ID di Microsoft** nel centro per i Partner &gt; **Impostazioni Account** &gt; **profilo dell'organizzazione**.
 2.  Cerca il tuo **ID MPN** nel centro per i Partner &gt; **Impostazioni Account** &gt; **profilo del Partner**.
-3.  Crea un nuovo ticket di supporto. Dal menu Centro per i Partner, seleziona **le richieste di servizio** &gt; **richieste Centro per i Partner** &gt; **nuova richiesta**.
+3.  Crea un nuovo ticket di supporto. Dal menu di Centro per i Partner, seleziona **le richieste di servizio** &gt; **richieste Centro per i Partner** &gt; **nuova richiesta**.
 4.  Compila il modulo. In **Tipo di problema** scegli **Non è possibile gestire il profilo personale**. Includi il tuo ID MPN e ID Microsoft nella descrizione.
 5.  Dopo aver inviato il ticket, Microsoft ti invierà un'e-mail per ottenere altre informazioni. Allega la documentazione di supporto appropriata nella risposta per i certificati di esenzione IVA.
 
@@ -48,7 +48,7 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 </tr>
 <tr class="even">
 <td>Unione europea</td>
-<td><p>Negli stati membri dell'Unione europea i partner devono fornire il numero di partita IVA valido per l'inversione contabile e la fatturazione appropriata. Il numero di partita IVA deve essere [accettato come valido](http://go.microsoft.com/fwlink/p/?LinkId=808160).</p>
+<td><p>Negli stati membri dell'Unione europea i partner devono fornire il numero di partita IVA valido per l'inversione contabile e la fatturazione appropriata. Il numero di partita IVA deve essere <a href="http://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](http://go.microsoft.com/fwlink/p/?LinkId=808160)">accettato come valido</a>.</p>
 <p>Microsoft non supporta crediti e rifatturazione, quindi prima di vendere qualsiasi sottoscrizione devi registrare il tuo numero di partita IVA nel Centro per i partner.</p>
 <p>Inviare il tuo numero di partita IVA a Microsoft</strong></p>
 <ol>
@@ -74,11 +74,11 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990993"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995945"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -57,7 +57,7 @@ I partner nel modello indiretto possono usare questi campi aggiuntivi sia nei fi
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a> Campi dei file in base alle licenze
 
@@ -179,7 +179,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>Importo totale delle imposte, in base alle leggi vigenti a livello locale e alle circostanze specifiche.</p></td>
+<td><p>Importo totale delle imposte, in base al mercato & #39; regole imposte s e alle circostanze specifiche.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Nome dell'organizzazione del cliente registrato nel Centro per i partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
+<td><p>Cliente & #39; nome dell'organizzazione s registrato nel centro per i Partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
 <td>Cliente di prova A</td>
 </tr>
 <tr class="even">
@@ -204,12 +204,12 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>ID MPN del rivenditore nel record per la sottoscrizione. Vedi [Eseguire la scomposizione dei dati in base al partner](#itemizebypartner).</p></td>
+<td><p>ID MPN del rivenditore nel record per la sottoscrizione. Vedi <a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">Eseguire la scomposizione dei dati in base al partner</a>.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Nome di dominio del cliente, usato per identificare il cliente. Questo non deve essere usato per identificare in modo univoco il cliente, il cliente/partner può aggiornare il dominio di reindirizzamento a microsito/predefinito tramite il portale di Office 365. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
+<td><p>Cliente & #39; nome di dominio s, usato per identificare il cliente. Questo non deve essere usato per identificare in modo univoco il cliente, il cliente/partner può aggiornare il dominio di reindirizzamento a microsito/predefinito tramite il portale di Office 365. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Nome dell'organizzazione del cliente registrato nel Centro per i partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
+<td><p>Cliente & #39; nome dell'organizzazione s registrato nel centro per i Partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
 <td>Cliente di prova A</td>
 </tr>
 <tr class="even">
@@ -272,7 +272,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>ID MPN del rivenditore nel record per la sottoscrizione. Vedi [Eseguire la scomposizione dei dati in base al partner](#itemizebypartner).</p></td>
+<td><p>ID MPN del rivenditore nel record per la sottoscrizione. Vedi <a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">Eseguire la scomposizione dei dati in base al partner</a>.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Importo totale delle imposte, in base alle leggi vigenti a livello locale e alle circostanze specifiche.</p></td>
+<td><p>Importo totale delle imposte, in base al mercato & #39; regole imposte s e alle circostanze specifiche.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Nome di dominio del cliente, usato per identificare il cliente. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
+<td><p>Cliente & #39; nome di dominio s, usato per identificare il cliente. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -705,7 +705,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 </td>
 <td>
 <p><em>Possono essere applicate a più tipi di addebito</em></p>
-<p><em>Eccezione: "Compensa una voce" include già le imposte. Vedi crediti, sopra.</em></p>
+<p><em>Eccezione: &quot;compensa una voce&quot; include già le imposte. Vedi crediti, sopra.</em></p>
 </td>
 <td>
 <p>Imposte o imposte sul valore aggiunto (IVA)</p>

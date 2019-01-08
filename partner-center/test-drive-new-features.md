@@ -6,12 +6,12 @@ description: Prova le nuove funzionalità del Centro per i partner prima che ven
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 96fe21302e2d4e5a06f7b6c970b95b8739673ac7
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cd09ce1c9896d730f78f6c983e756fc8e8437af6
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797124"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995735"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Eseguire il test drive delle nuove funzionalità del Centro per i partner
 
@@ -30,16 +30,16 @@ Siamo lieti di invitarti a provare le nuove funzionalità prima che vengano rila
 
 Per ogni funzionalità futura, puoi:
 
--   Leggere della funzionalità e decidere se vuoi provarla selezionando **Altre informazioni** nella descrizione della funzionalità 
+- Leggere della funzionalità e decidere se vuoi provarla selezionando **Altre informazioni** nella descrizione della funzionalità 
 
--   Trovare istruzioni su come eseguire il test drive della funzionalità
+- Trovare istruzioni su come eseguire il test drive della funzionalità
 
--   Vedere la data in cui prevediamo di rendere la funzionalità disponibile per l'anteprima e la data prevista di pubblicazione della funzionalità per la community globale del Centro per i partner 
+- Vedere la data per rendere disponibili per l'anteprima e la destinazione data per una funzionalità quando la funzionalità alla community globale del centro per i Partner.
 
-    > [!NOTE]  
+> [!NOTE]  
 >  Per *data prevista di pubblicazione* intendiamo la data in cui pianifichiamo di rendere la funzionalità disponibile per gli utenti del Centro per i partner di tutto il mondo. Tuttavia, numerosi fattori operazioni potrebbero influire sulla data prevista di pubblicazione, compresa la decisione di incorporare il feedback per migliorare la funzionalità, e potremmo decidere di ripianificare la data di pubblicazione o di non rilasciare una versione commerciale della funzionalità.  
 
--   Attivare l'anteprima della funzionalità spostando l'interruttore su **Attiva**
+- Attivare l'anteprima della funzionalità spostando l'interruttore su **Attiva**
 
 > [!NOTE]  
 >  Solo gli amministratori globali e gli agenti amministrativi possono abilitare il rilascio delle versioni di anteprima delle funzionalità. Tuttavia, uno qualsiasi dei tuoi utenti del Centro per i partner può vedere e usare le funzionalità di anteprima se hanno le autorizzazioni applicabili.
@@ -52,7 +52,7 @@ Ti invitiamo a condividere le tue idee e opinioni su una specifica versione di a
 
 -   Utilizzare il modulo di feedback nell'angolo inferiore destro della finestra del Centro per i partner per inviare il feedback direttamente a noi. 
 
--   Richiedere supporto se si verificano problemi con una funzionalità di anteprima. Per creare una richiesta di supporto, seleziona **richieste di supporto > richieste Centro per i Partner** dal menu del **Centro per i Partner** e quindi seleziona **richiesta di nuovo** nella pagina **richieste Centro per i Partner** .
+-   Richiedere supporto se si verificano problemi con una funzionalità di anteprima. Per creare una richiesta di supporto, seleziona **richieste di supporto > richieste Centro per i Partner** dal menu del **Centro per i Partner** e quindi seleziona **la richiesta di nuovo** nella pagina **richieste Centro per i Partner** .
 
 Aiutaci a fornirti gli strumenti per migliorare i tuoi risultati!
 

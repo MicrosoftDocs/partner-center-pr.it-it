@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: migrazione dei clienti, provisioning, account tenant, consolidamento dei tenant
 ms.localizationpriority: medium
-ms.openlocfilehash: 83b5040f1562ef44c5cb17b5a2676387237b2794
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 695f8298e13680532b63ec24a27d56984bd59c89
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683800"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995885"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidamento dei tenant per l'autorizzazione regionale per CSP
 
@@ -27,21 +27,21 @@ ms.locfileid: "8683800"
 
 Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche diversi.
 
-**Nota**devi conoscere tutte le sottoscrizioni e postazioni per i clienti con provisioning dagli account per la transizione. Nell'ambito del processo di migrazione, dovrai eseguire nuovamente il provisioning degli stessi esatti abbonamenti con lo stesso numero di postazioni nel nuovo account CSP centralizzato. Usa la funzionalità di esportazione di elenchi per creare un elenco di clienti da trasferire al tenant centralizzato. Il consolidamento dei tenant è una scelta del partner. Una volta completato il consolidamento, non sarà possibile ripristinare lo stato precedente. Tieni presente che potrebbe essere richiesto anche l'intervento dei clienti.
+**Nota** Devi conoscere tutte le sottoscrizioni e il numero di postazioni per i tuoi clienti di cui è stato eseguito il provisioning dagli account per la transizione. Nell'ambito del processo di migrazione, dovrai eseguire nuovamente il provisioning degli stessi esatti abbonamenti con lo stesso numero di postazioni nel nuovo account CSP centralizzato. Usa la funzionalità di esportazione di elenchi per creare un elenco di clienti da trasferire al tenant centralizzato. Il consolidamento dei tenant è una scelta del partner. Una volta completato il consolidamento, non sarà possibile ripristinare lo stato precedente. Tieni presente che potrebbe essere richiesto anche l'intervento dei clienti.
 
- 
+
 
 ## <a name="prepare-for-migration"></a>Prepararsi per la migrazione
 
 
--   Accedi al tuo **Centro per i Partner** con la **transizione** (esistente) (l'account è trasferiscono) e Prendi nota di tutti i clienti e tutti i servizi effettuato il provisioning per tali clienti.
+-   Accedi al proprio **Centro per i Partner** con la **transizione** (esistente) (l'account è trasferiscono) e Prendi nota di tutti i clienti e tutti i servizi effettuato il provisioning per tali clienti.
 
 ![elenco dei clienti regionali](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>Eseguire la migrazione degli account dei clienti
 
 
-1.  Accedi al proprio **Centro per i Partner** con la **transizione** (nuovo) (l'account durante la transizione in) e passa all'elenco dei clienti dai **clienti**.
+1.  Accedi al proprio **Centro per i Partner** con la **transizione** (nuovo) (l'account durante la transizione in) e passa all'elenco dei clienti dei **clienti**.
 
 2.  Seleziona Clienti.
 
@@ -66,7 +66,7 @@ I clienti verranno visualizzati nell'elenco dei clienti del partner dopo l'invio
 
 5.  Aggiungi le sottoscrizioni e il numero di postazioni corretti dal catalogo. Controlla in base alle informazioni fornite per gli account partner di **origine della transizione**.
 
-    ![screenshot dell'elenco clienti](images/regionalcustomer2.png)
+![elenco dei clienti](images/regionalcustomer2.png)
 
 6.  Fai clic su **Invia**.
 
@@ -76,9 +76,9 @@ Ripeti questi passaggi per eseguire la migrazione delle sottoscrizioni per tutti
 
 Prima di procedere alla sezione successiva, verifica che sia stato eseguito di nuovo il provisioning di tutte le sottoscrizioni dei clienti esistenti negli account partner di **origine della transizione** nell'account partner di **destinazione della transizione**.
 
-**Nota**i partner devono sospendere le sottoscrizioni nell'account del Tenant Partner **Transizione** nel centro per i Partner lo stesso giorno in cui viene eseguite e configurate con l'account del Tenant Partner **Destinazione della transizione** nella tali sottoscrizioni non si verifica il centro per i Partner per assicurarsi di evitare doppie fatturazioni. Le richieste di assistenza verranno negate per gli accrediti causati da eventuali sovrapposizioni nella fatturazione dovute alla mancata disabilitazione delle sottoscrizioni nell'**origine della transizione**.
+**Nota** I partner devono sospendere le sottoscrizioni nell'account del tenant partner di **origine della transizione** nel Centro per i partner lo stesso giorno in cui viene eseguita la transizione e la configurazione di queste sottoscrizioni nell'account del tenant partner di **destinazione della transizione** nel Centro per i partner per assicurarsi di evitare doppie fatturazioni. Le richieste di assistenza verranno negate per gli accrediti causati da eventuali sovrapposizioni nella fatturazione dovute alla mancata disabilitazione delle sottoscrizioni nell'**origine della transizione**.
 
- 
+
 
 ## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Disabilitazione delle sottoscrizioni di Office 365 nell'account partner di origine della transizione
 
@@ -90,11 +90,13 @@ La disabilitazione della sottoscrizione CSP negli account partner di **origine d
 2.  Apri il cliente con le sottoscrizioni da disabilitare e quindi seleziona la prima offerta da disabilitare.
 3.  Imposta la sottoscrizione come **sospesa** e quindi fai clic su **Invia**.
 
-    **Nota**sospensione della sottoscrizione consente di evitare doppie fatturazioni.
+ >[! **Nota**] Sospensione della sottoscrizione consente di evitare doppie fatturazioni.
 
-     
 
-    La sottoscrizione è indicata con lo stato **Sospeso** nell'elenco delle sottoscrizioni.
+
+~~~
+The Subscription shows **suspended** on the subscriptions list.
+~~~
 
 4.  Ripeti questi passaggi per tutte le sottoscrizioni per il cliente. Verifica che per tutte sia indicato lo stato **Sospeso**.
 
@@ -111,9 +113,9 @@ Nota che non è necessario eseguire manualmente la migrazione delle sottoscrizio
 4.  Il partner verifica che la sottoscrizione di Azure per gli account rivenditore CSP di **origine della transazione** risulti ora sospesa nel Centro per i partner nella sezione delle sottoscrizioni del cliente.
 5.  Il partner verifica che la sottoscrizione di Azure per l'account rivenditore CSP di **destinazione della transazione** abbia ora lo stato **Attiva** nel Centro per i partner nella sezione delle sottoscrizioni del cliente.
 
-    **Nota**la disabilitazione delle sottoscrizioni del cliente non cambia l'aspetto del cliente nell'elenco clienti. Attualmente non è disponibile alcuna opzione per rimuovere i clienti dall'elenco. I partner devono evitare di aggiungere di nuovo sottoscrizioni per questi clienti dall'account di **origine della transizione** in futuro.
+>[! **Nota**] La disabilitazione delle sottoscrizioni del cliente non cambia l'aspetto del cliente nell'elenco clienti. Attualmente non è disponibile alcuna opzione per rimuovere i clienti dall'elenco. I partner devono evitare di aggiungere di nuovo sottoscrizioni per questi clienti dall'account di **origine della transizione** in futuro.
 
-     
+
 
 6.  Ripeti questi passaggi per tutte le sottoscrizioni di tutti i clienti per evitare addebiti futuri per gli account di **origini della transizione**. Il partner riceverà una sola fattura finale con un accredito per il numero di giorni inutilizzati tra il giorno di annullamento e l'ultimo giorno del periodo di fatturazione. Non verrà generata alcuna ulteriore fattura dopo questo periodo di fatturazione finale.
 
@@ -125,9 +127,9 @@ Nota che non è necessario eseguire manualmente la migrazione delle sottoscrizio
 
 -   Non esiste attualmente alcun modo per rimuovere completamente un cliente dall'elenco Clienti.
 
--   **Nota**i partner devono sospendere le sottoscrizioni nell'account del Tenant Partner **Transizione** nel centro per i Partner lo stesso giorno in cui queste sottoscrizioni sono eseguite la transizione e configurate con l'account di **Destinazione della transizione** Tenant Partner nel centro per i Partner per garantire evitare doppie fatturazioni. Microsoft non supporterà le richieste di accrediti causate da eventuali sovrapposizioni nella fatturazione dovute alla mancata sospensione delle sottoscrizioni nell'**origine della transizione**.
+-   **Nota** I partner devono sospendere le sottoscrizioni nell'account del tenant partner di **origine della transizione** nel Centro per i partner lo stesso giorno in cui viene eseguita la transizione e la configurazione di queste sottoscrizioni nell'account del tenant partner di **destinazione della transizione** nel Centro per i partner per assicurarsi di evitare doppie fatturazioni. Microsoft non supporterà le richieste di accrediti causate da eventuali sovrapposizioni nella fatturazione dovute alla mancata sospensione delle sottoscrizioni nell'**origine della transizione**.
 
-     
+
 
 ### <a name="simplify-migration-using-export"></a>Semplificare la migrazione con l'esportazione
 
@@ -146,9 +148,9 @@ La **funzione di esportazione** consente di recuperare le sottoscrizioni che dev
 Per altre informazioni sulla registrazione dell'API, [vedi questa pagina](https://go.microsoft.com/fwlink/?linkid=847990).
 
 
- 
 
- 
+
+
 
 
 

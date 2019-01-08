@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: fe930a85f59420548863831a6e4fd311de09c6bc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683810"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8996015"
 ---
 # <a name="faq-about-new-billing-features"></a>Domande frequenti sulle nuove funzionalità di fatturazione
 
@@ -138,7 +138,7 @@ Sezioni:
 
 -   **R:** Sì. Puoi modificare la quantità di licenze per le sottoscrizioni in qualsiasi momento. L'aggiunta di ulteriori licenze non influirà sulla frequenza di fatturazione. 
 
-**D:** Posso aggiungere licenze che hanno la fatturazione mensile a una sottoscrizione che ha la fatturazione annuale? 
+**Q:** Posso aggiungere licenze che hanno la fatturazione mensile a una sottoscrizione con fatturazione annuale? 
 
 -   **R:** Quando acquisti una sottoscrizione con fatturazione annuale, eventuali licenze aggiuntive seguiranno la stessa frequenza di fatturazione. Se quindi devi acquistare licenze con fatturazione mensile, devi acquistare una nuova sottoscrizione.
 
@@ -242,17 +242,17 @@ Sezioni:
 
 **D:** Chi posso contattare per chiarimenti sugli incentivi?
 
--   **R:** È necessario contattare il team di supporto per gli incentivi regionali appropriati:
+- **R:** È necessario contattare il team di supporto per gli incentivi regionali appropriati:
 
-    - America del Nord: ocina@microsoft.com
+  - America del Nord: ocina@microsoft.com
 
-    - America latina e Brasile: ocilatam@microsoft.com
+  - America latina e Brasile: ocilatam@microsoft.com
 
-    - EMEA: ociemea@microsoft.com
+  - EMEA: ociemea@microsoft.com
 
-    - APOAC (escluso Giappone): ociapgc@microsoft.com
+  - APOAC (escluso Giappone): ociapgc@microsoft.com
 
-    - Giappone: ocijp@microsoft.com
+  - Giappone: ocijp@microsoft.com
 
 
 **D:** Cosa accade se sospendo la mia sottoscrizione? 

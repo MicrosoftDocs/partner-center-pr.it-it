@@ -6,22 +6,22 @@ description: Visualizzare gli utili e i proventi per i programmi di incentivi.
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3905fd1841426cd70416599a48be1a9660bae2
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795944"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995955"
 ---
-#<a name="incentive-payouts-overview"></a>Panoramica dei proventi degli incentivi
+# <a name="incentive-payouts-overview"></a>Panoramica dei proventi degli incentivi
 
-**Si applica a**
+**Ambito di applicazione**
 
 -  Centro per i partner
 
 Gli amministratori e gli utenti di incentivi ottengono una panoramica degli utili e dei pagamenti che hanno ricevuto o stanno per ricevere dai loro programmi di incentivi.   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Informazioni di riepilogo sugli utili e sui proventi
+## <a name="summary-information-on-earnings-and-payout"></a>Informazioni di riepilogo sugli utili e sui proventi
 
 I partner CSP che sono utenti e amministratori di incentivi possono vedere la propria posizione finanziaria nei programmi di incentivi ai quali aderiscono nel **Riepilogo proventi**. Puoi eseguire il drill-down in ogni area delle informazioni di riepilogo, in base alle necessità. 
 

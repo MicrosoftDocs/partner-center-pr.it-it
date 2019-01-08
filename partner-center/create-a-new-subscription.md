@@ -8,12 +8,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 4503508ccd5efbd3c983726170bf126088b77a3c
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 4494517f295dde1439fe2e5831cf91d5012424ed
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683720"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995865"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
@@ -30,23 +30,23 @@ Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elen
 
 **Creare una nuova sottoscrizione**
 
-1.  Il menu del **Centro per i Partner** seleziona **i clienti**, quindi scegli un cliente nell'elenco.
+1. Il menu del **Centro per i Partner** seleziona **i clienti**, quindi scegli un cliente nell'elenco.
 
-2.  Seleziona **Nuova sottoscrizione**.
+2. Seleziona **Nuova sottoscrizione**.
 
-3.  Seleziona il tipo di fatturazione della sottoscrizione che vuoi usare.  Vedi [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md) per le informazioni che ti aiutano a decidere tra la frequenza di fatturazione mensile e annuale.
+3. Seleziona il tipo di fatturazione della sottoscrizione che vuoi usare.  Vedi [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md) per le informazioni che ti aiutano a decidere tra la frequenza di fatturazione mensile e annuale.
  
- >[!Note]
- >È possibile offrire ai clienti le sottoscrizioni di valutazione. I prodotti disponibili per la versione di valutazione sono sotto la scheda della versione di valutazione nel catalogo. Vedi [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+>[!Note]
+>Offrire ai clienti le sottoscrizioni di valutazione. I prodotti disponibili per la versione di valutazione sono sotto la scheda della versione di valutazione nel catalogo. Vedi [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
  
-4. Dopo aver selezionato la frequenza di fatturazione, seleziona i prodotti che vuoi le sottoscrizioni nel catalogo. La disponibilità dei prodotti dipende dal tipo di cliente (formazione, enti pubblici e così via) e dalla frequenza di fatturazione che è stata selezionata. Se un prodotto non è disponibile, è possibile che il cliente dispone già di una sottoscrizione per il prodotto ed è consentita una sola opzione. In alternativa, è possibile che hai sospeso la sottoscrizione e nel qual caso puoi riattivarla invece di acquistarne una nuova.
+4. Dopo aver selezionato la frequenza di fatturazione, seleziona i prodotti per che cui vuoi le sottoscrizioni nel catalogo. La disponibilità dei prodotti dipende dal tipo di cliente (formazione, enti pubblici e così via) e dalla frequenza di fatturazione che è stata selezionata. Se un prodotto non è disponibile, è possibile che il cliente dispone già di una sottoscrizione per il prodotto ed è consentita una sola opzione. In alternativa, è possibile che hai sospeso la sottoscrizione e nel qual caso puoi riattivarla invece di acquistarne una nuova.
 
 5. Controlla la sottoscrizione che vuoi aggiungere e immetti il numero di licenze. **Invia** quindi l'ordine.
 
-6.  Dopo aver aggiunto la sottoscrizione, aprila facendo clic sul nome della sottoscrizione nell'elenco delle sottoscrizioni. In questa pagina di modifica puoi selezionare licenze aggiuntive, se disponibili.
+6. Dopo aver aggiunto la sottoscrizione, aprila facendo clic sul nome della sottoscrizione nell'elenco delle sottoscrizioni. In questa pagina di modifica puoi selezionare licenze aggiuntive, se disponibili.
 
-7.  Nella pagina di modifica puoi anche modificare la quantità di licenze o sospendere la sottoscrizione.
+7. Nella pagina di modifica puoi anche modificare la quantità di licenze o sospendere la sottoscrizione.
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Sospendere o annullare una sottoscrizione
 
@@ -66,7 +66,7 @@ Quando sospendi una sottoscrizione, la data visualizzata sotto il pulsante **Sos
 
 
 
- 
+ 
 
 
 

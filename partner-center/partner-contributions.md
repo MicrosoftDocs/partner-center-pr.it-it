@@ -1,5 +1,5 @@
 ---
-title: Il contributo dei partner - Mantieniti sopra gli indicatori di prestazioni | Centro per i partner
+title: Il contributo dei partner - Mantieniti con gli indicatori di prestazioni | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
 Description: Use partner contributions data to understand how your business is growing and succeeding
@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: dati aziendali
 ms.localizationpriority: medium
-ms.openlocfilehash: be46ca6cb4efa54bcb29874465e79ca89f7799e8
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 704b7123a8eceea9e16692d9e5413875d9f6d92d
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796864"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995825"
 ---
 # <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contributo dei partner: resta aggiornato con gli indicatori di prestazioni
 
@@ -47,8 +47,8 @@ Ci stiamo occupando delle seguenti metriche:
 
 Ciascuna metrica viene visualizzata da una barra (da 1 a 4) che rappresenta la scala in cui ti posizioni rispetto ad altri partner che usano i filtri selezionati (prodotto, carico di lavoro, sede del cliente). I valori al di sotto di queste barre sono gli intervalli di valore minimo e massimo (min e max). Ogni intervallo min e max della barra appare quando passi sopra la barra con il puntatore.  
 
-8. **I dati refresh mese**: le metriche vengono calcolate per ultimi 12 mesi fino a del mese selezionato.
-9. **Tendenza metriche**: tendenza mensile gli ultimi 12 rispetto al mese precedente. Le frecce indicano tendenza direzione. Se non vedi una freccia, la tendenza non è cambiato.
+8. **Dati aggiornano mese**: le metriche vengono calcolate per ultimi 12 mesi fino al mese selezionato.
+9. **Tendenza metriche**: tendenza degli ultimi 12 mesi rispetto al mese precedente. Le frecce indicano tendenza direzione. Se non vedi una freccia, la tendenza non è cambiato.
 
 >[!NOTE] 
 >- Le metriche vengono distribuite tra tutti i clienti negli ultimi 12 mesi (TTM), ad eccezione degli "utenti con certificazione"        
@@ -59,20 +59,19 @@ Invitiamo i feedback da te per il contributo dei partner. Invia a PCPCI@microsof
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
-1. Perché non si vedono la pagina di contributo per i Partner?
+1. Perché non si vedono la pagina di contributo dei Partner?
     - Il contributo dei partner è attualmente disponibile solo per i partner che vendono Dynamics 365 con un account MPN o CSP. Questa funzionalità non è ancora abilitata per la Cina e Germania.
 2. Sono un partner di Dynamics 365, perché non riesco a vedere i dati di contributo per i Partner?
-      - Potrebbe non hai un ruolo di account MPN o CSP. Ad esempio: Advisor e DAP sono ancora abilitati.  
-    - Non si dispone ruolo utente appropriata nella tua organizzazione per visualizzare questa pagina. Contatta l'amministratore globale.
-
+    - Non si dispone di un ruolo di account MPN o CSP. Ad esempio: Advisor e DAP sono ancora abilitati.  
+    - Non si dispone del ruolo appropriato all'interno dell'organizzazione per visualizzare questa pagina. Contatta l'amministratore globale.
     - L'organizzazione si trova in Cina o Germania.
 
-3. Il mio: ricavi nuovi netti > 0, ma non sono dati per Monthly Active Users (MAU)?
-    - Per contratto Multilicenza o canale Open la maggior parte dei clienti, fatturazione viene visualizzato prima che vengono effettuato il provisioning in modo che non possiamo vedere MAU ancora postazioni.
+3. Il mio: ricavi nuovi netti > 0, ma non contengono dati per Monthly Active Users (MAU)?
+    - Per contratto Multilicenza o canale aperto per la maggior parte dei clienti, fatturazione viene visualizzato prima che vengono effettuato il provisioning in modo che non possiamo vedere MAU ancora postazioni.
 
-4.  Perché si trova il mio MAU > 0, ma non sono dati per: ricavi nuovi netti?
-    - Per Web Direct o rivenditore, postazioni vengono effettuato il provisioning prima di avviare il ciclo di fatturazione. La fatturazione può verificarsi un mese, trimestre o anno in un secondo momento in base ai termini della sottoscrizione. Ciò si verifica anche con le sottoscrizioni della versione di valutazione, diritti di uso interno ed enti pubblici.
-5.  I dati personali dei ricavi non corrispondano?
-    - Questo è probabilmente dovuto associazione POR partner, le differenze di temporizzazione o dati non cloud.
-6.  Perché è basso certificati singoli dati?
-    - Mostriamo solo quelle che si trova in un'area di tenant cliente specifico e che hanno superato 1 o più di 5 esami necessari per la competenza applicazioni aziendali Cloud, coinvolgimento dei clienti o al percorso Finance & Operations.   
+4. Perché si trova il mio MAU > 0, ma non contengono dati per: ricavi nuovi netti?
+   - Per Web Direct o rivenditore, postazioni vengono effettuato il provisioning prima di avviare il ciclo di fatturazione. Fatturazione può verificarsi un mese, trimestre o anno in un secondo momento in base ai termini della sottoscrizione. Ciò si verifica anche con le sottoscrizioni della versione di valutazione, con diritti di uso interno e i clienti enti pubblici.
+5. I dati personali dei ricavi non corrispondano?
+   - Questo è probabilmente dovuto associazione POR partner, le differenze di temporizzazione o dati non cloud.
+6. Perché i miei dati singoli certificati è basso?
+   - Mostriamo solo quelle che si trova in un'area di tenant cliente specifico e che hanno superato 1 o più di 5 esami necessari per la competenza applicazioni aziendali Cloud, coinvolgimento dei clienti o al percorso Finance & Operations.   

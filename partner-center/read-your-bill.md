@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
+ms.sourcegitcommit: 9eadb7ff6c38a08c694710a8c14b899d0f48059a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995875"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "8997340"
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
@@ -28,7 +28,7 @@ Per la fattura, Vai al menu del **Centro per i Partner** e quindi seleziona **la
 I partner del programma Cloud Solution Provider che hanno scelto la fatturazione mensile pagheranno Microsoft per gli abbonamenti dei clienti (sia in base a licenza che in base all'uso) in via posticipata, dopo 60 giorni.
 
 > [!NOTE]  
-> La fattura è un riepilogo di tutti gli addebiti relativi a programma, prodotti e clienti per il periodo di fatturazione corrente ed è disponibile entro quattro (4) giorni dalla data di fatturazione selezionata.
+> La fattura è un riepilogo di tutti gli addebiti - per il programma, i prodotti e i clienti, per il periodo di fatturazione corrente ed è disponibile entro due (2) giorni dalla data di fatturazione selezionata in formato UTC. Se hai un 12 settembre data di fatturazione, ad esempio, il processo di generazione della fattura sarà abbia inizio in UTC 12:00 AM sul 13 e completerà da UTC 12:00 AM su 14. Se non vedi la fattura da UTC 11:59 PM il giorno 15, stai esplicitamente il contratto di servizio e deve essere file una richiesta di servizio. 
 
 Riceverai una fattura per basate su licenza (Office 365) e gli addebiti (Azure) basati sull'utilizzo e una fattura separata per una tantum (istanze riservate di Azure macchina virtuale) addebiti.
 

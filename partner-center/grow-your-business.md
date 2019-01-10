@@ -7,16 +7,16 @@ keywords: riferimenti, rispondere ai riferimenti, lead, lead di vendita, profilo
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 0a654ac3a549d420d1684abe2174a5951026e242
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776485"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000041"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Aumenta il tuo business con i partner Microsoft 
 
-Microsoft offre numerose risorse che consentono di incrementare le attività con i partner. Scopri come le funzionalità in questo sito, il Partner Center Microsoft, possono aiutarti a attirare nuovi clienti e di ampliare la redditività altre.
+Microsoft offre numerose risorse che consentono di incrementare le attività con i partner. Scopri come le funzionalità in questo sito, del Microsoft Partner Center, possono aiutarti a attirare nuovi clienti e di ampliare la redditività altre.
 
 Usa il Centro per i partner per:
 
@@ -39,6 +39,6 @@ Usa il Centro per i partner per:
 | Offrire i prezzi promozionali dei clienti per le sottoscrizioni Microsoft  | Occasionalmente Microsoft offre promozioni per le sottoscrizioni basate sulle licenze per consentirti di offrire sconti ai clienti e far crescere la tua attività. Leggi [Offrire i prezzi promozionali dei clienti per le sottoscrizioni Microsoft](promotions.md) per sapere come fare. | Partner CSP |
 | Vendere in altri mercati | Il canale di vendita Cloud Solution Provider è disponibile in molte aree geografiche e paesi/regioni. Vedi [Mercati Cloud Solution Provider](agreements.md) per esaminare l'elenco. Per un'introduzione al canale Cloud Solution Provider, vedi [Panoramica di Cloud Solution Provider](csp-overview.md).  | Partner CSP |
 Vendere in settori specifici, come orgs no profit e gli istituti di istruzione|[Vendere in settori specifici](get-special-pricing-for-offers.md)|Partner CSP|
-|Incrementa la produttività tramite i molte attività disponibili nel programma il co-op incentivi. Attestazioni di file per le attività tramite il centro per i Partner.| [Creare e gestire attestazioni di incentivi](create-incentives-claims.md)|Partner CSP|
-|Creare nuovi bundle di software, includendo le offerte di terze parti che funzionano con il software Microsoft che vendi già|[Individuare le offerte di terze parti](third-party-offers.md)|Partner CSP|
-|
+|Aumenta il tuo business tramite l'attività di molti disponibili nel programma il co-op incentivi. Attestazioni di file per le attività tramite il centro per i Partner.| [Creare e gestire attestazioni di incentivi](create-incentives-claims.md)|Partner CSP|
+|Creare nuovi bundle di software aggiungendo offerte di terze parti che funzionano con il software Microsoft che vendi già|[Individuare le offerte di terze parti](third-party-offers.md)|Partner CSP|
+|La tua società una celebrità alla vendita e la gestione di Azure? Richiedere di iscriversi al programma di Provider di servizi di Azure esperti Microsoft|[Programma esperto Provider di servizi di Microsoft Azure](azure-expert-msp.md)|Partner CSP|

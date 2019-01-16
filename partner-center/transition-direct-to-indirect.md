@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: addebito diretto, rivenditore indiretto la transizione
-ms.openlocfilehash: a4a09a4302775fb34cf45f37aed152a765e75ff8
-ms.sourcegitcommit: fe4e7cb7effea3343aec1be96a64323022822e84
+ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/14/2019
-ms.locfileid: "9004627"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011108"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Eseguire la transizione dal partner diretto Cloud Solution Provider (CSP) per rivenditore indiretto CSP 
 
@@ -156,3 +156,5 @@ Gestire i clienti di addebito diretto e i clienti di rivenditore indiretto in mo
 Dopo aver correttamente iscritto come rivenditore indiretto nel tuo tenant addebito diretto per i partner, riceverai un invito eseguire la registrazione di incentivo rivenditore indiretto entro 30 giorni. L'invito è basata su partner account MPN che è attualmente associato al tenant di partner CSP. Verrà inviata l'invito per l'indirizzo e-mail associato all'account MPN del partner. 
 
 Anche sono idonei per la registrazione per i programmi di incentivi addebito diretto con tale stesso tenant per i partner. È necessario gestire i programmi separatamente.
+
+Vedi anche [altre informazioni su come diventare un rivenditore indiretto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e la [addebito diretto, rivenditore indiretto domande frequenti su](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

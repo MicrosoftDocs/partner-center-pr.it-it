@@ -1,5 +1,5 @@
 ---
-title: Ridimensionamento della macchina virtuale di Microsoft Azure per utilizzo ottimale delle prenotazioni massima | Centro per i partner
+title: Ridimensionamento della macchina virtuale di Microsoft Azure per utilizzo della prenotazione massima | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
 Description: When buying Microsoft Azure reservations on behalf of your customers, you’ll need to choose a virtual machine (VM) sized to meet the customer’s computing needs.
@@ -8,12 +8,12 @@ ms.author: v-petand
 keywords: azure, prenotazioni, vm, gestire, utilizzo, ridimensionamento
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 04a027bf50739434f9a6d155eb8a31f4074185a7
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 344eb01f363c7a79ca27082e3eeb1531889f134b
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917543"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014818"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Ridimensionamento della macchina virtuale Microsoft Azure per un utilizzo ottimale delle prenotazioni 
 
@@ -119,7 +119,7 @@ Le istruzioni per l'uso di ciascuno di questi metodi sono riportate di seguito.
 
 Puoi ottenere i dati di utilizzo della prenotazione con l'API di utilizzo di Azure per verificare che il cliente riceva lo sconto prenotazione e per vedere a quali macchine virtuali è applicato lo sconto. Confronta l'esempio A con l'esempio B per scoprire come verificare l'utilizzo della prenotazione di un cliente. 
 
-![Esempi di utilizzo della prenotazione](images\usage5.png)
+![Esempi di utilizzo della prenotazione](images/usage5.png)
 
 -   reservationId identifica la prenotazione di Azure utilizzata per applicare lo sconto alla macchina virtuale.
 -   consumptionMeter è il MeterId per la macchina virtuale a cui è applicato lo sconto della prenotazione.

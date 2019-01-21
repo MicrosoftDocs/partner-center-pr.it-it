@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: addebito diretto, rivenditore indiretto la transizione
-ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
-ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
+ms.openlocfilehash: da130f87825c9e5c81bf87de6e8cde49e5148577
+ms.sourcegitcommit: ebba5c5d0fb1603f787a40003995e168f80ff797
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "9011108"
+ms.lasthandoff: 01/21/2019
+ms.locfileid: "9015727"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Eseguire la transizione dal partner diretto Cloud Solution Provider (CSP) per rivenditore indiretto CSP 
 
@@ -39,7 +39,7 @@ Sarai in grado di iscriversi al programma come rivenditore indiretto usando il t
 4. Seleziona Registrati ora. Tuo business di rivenditore indiretto userà dello stesso tenant AAD, che usare per la tua azienda diretta.
 
 >[!Note]
->La possibilità di eseguire la registrazione come rivenditore indiretto con l'addebito diretto tenant AAD è disponibile solo per indirizzare i partner di fatturazione che sono identificati di addebito diretto offboarding. 
+>Inizialmente, questa nuova funzionalità di transizione sarà disponibile per i partner con settembre alla data dell'anniversario dicembre. Se non è "t avere una data tra settembre e dicembre, non vedrai la funzionalità in questo momento. I partner con data dell'anniversario posteriore dicembre 2018 riceverà una notifica in un secondo momento dopo aver abilitata la funzionalità per i partner.
 
 
 5. Quando la registrazione viene approvata, accedi al centro per i Partner nuovamente.
@@ -54,7 +54,7 @@ Dopo aver accettato il contratto per i rivenditori indiretti, nota che il profil
 ![Contratto per i rivenditori indiretti](images/direct/direct3.png)
 
 >[!Important] 
->Una volta completata iscritto come rivenditore indiretto usando tenant esistenti di addebito diretto per i partner, non esiste alcuna opzione di ripristino dello stato precedente per rimuovere le funzionalità di rivenditore indiretto. Prima di procedere con la registrazione, assicurati che si desidera eseguire la transizione a un rivenditore indiretto.
+>Una volta che la registrazione come rivenditore indiretto utilizzando la nuova funzionalità, non è possibile eseguire il rollback a un tenant unica fattura - diretta. Assicurati che valutare completamente le esigenze aziendali prima registrazione come rivenditore indiretto.
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Anche se eseguire la transizione da diretta rivenditore indiretto
 

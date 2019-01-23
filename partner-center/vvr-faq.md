@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: voucher di formazione, software assurance per la formazione, convalidare voucher, riserva giustificativo
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ca745281ed0e37ee6ec2e72df4ede4def17bcc7
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 457f2c7e0e43f03bac0f861ae3f4ec87a1173d0f
+ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015366"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "9024873"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Domande frequenti: Usando lo strumento di riscatto e la convalida giustificativo 
 
@@ -33,12 +33,12 @@ A partire dal 31 marzo 2019, tutti i partner gestirà loro voucher nel centro pe
 
 **La mia azienda è stata eseguita la migrazione da PMC, ma i programmi DP/SATV abbiamo non abbiamo usato negli ultimi 18 mesi.**
 
-- Contatta il [team di supporto PMC](proghelp@microsoft.com). 
+- Contatta il [team di supporto PMC](mailto:proghelp@microsoft.com). 
 
 
 **La mia azienda ha la migrazione da PMC a Centro per i Partner. Sarà necessario fare niente specifico di lavorare nel VVR?** 
 
-- Sarai in grado di usare VVR nel centro per i Partner.  Per usare VVR, l'amministratore dei partner MPN possa accedere al centro per i Partner con loro indirizzo di posta elettronica aziendale. Se vuoi aggiungere nuovi utenti, l'amministratore globale o l'amministratore MPN possa eseguire questa operazione. Se si ha accesso al centro per i Partner, Vai alla **gestione dell'accesso**, seleziona **gli utenti**e applicare filtri **: amministratore MPN**. In questo modo otterrai un elenco di amministratori MPN della tua azienda.  
+- Sarai in grado di usare VVR nel centro per i Partner.  Per usare VVR, l'amministratore dei partner MPN possa accedere al centro per i Partner con loro indirizzo di posta elettronica aziendale. Se vuoi aggiungere nuovi utenti, l'amministratore globale può eseguire questa operazione. Se si ha accesso al centro per i Partner, Vai alla **gestione dell'accesso**, seleziona **gli utenti**e applicare filtri **: amministratore MPN** di **amministratore globale**. In questo modo otterrai un elenco di MPN e gli amministratori globali della tua azienda.  
 
 **È possibile solo alcuni utenti siano in grado di accedere VVR**
 
@@ -49,5 +49,5 @@ A partire dal 31 marzo 2019, tutti i partner gestirà loro voucher nel centro pe
 - Centro per i partner è necessario per l'accesso con un account aziendale (AAD).  CHIP attualmente utilizza account personale per l'accesso (account Microsoft o Live ID).  Durante lo spostamento da VVR nel centro per i Partner chip, sarà necessario accedere al CHIP utilizzando l'account Microsoft o Live ID registrata con CHIP.
 
 Per informazioni su come iscriversi SATV, Leggi [programma Software Assurance formazione giustificativo (SATV) nel centro per i Partner](software-assurance-satv.md).
-
-Per informazioni su come eseguire la registrazione in programmi di Software Assurance DP, Leggi [programmi Software Assurance nel centro per i Partner](software-assurance-dps.md).
+ <!--
+For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

@@ -13,6 +13,7 @@
 # [Cloud Solution Provider](csp-overview.md)
 ## [Iscriversi al programma Cloud Solution Provider](enrolling-in-the-csp-program.md)
 ## [Nuovi requisiti dei partner diretti in CSP](direct-partner-new-requirements.md) 
+## [Eseguire la transizione dal partner diretto Cloud Solution Provider (CSP) per rivenditore indiretto CSP](transition-direct-to-indirect.md)
 ## [La registrazione come un fornitore di Pannello di controllo](enroll-as-cpv.md)
 ###[È necessario abilitare Multi-Factor Authentication (MFA) nel tuo tenant per ottenere l'accesso a questa pagina](enable-mfa.md)
 ## [Contratti, listini prezzi e offerte per CSP](csp-documents-and-learning-resources.md)
@@ -43,7 +44,7 @@
 ### [Creare e gestire attestazioni di incentivi](create-incentives-claims.md)
 ### [Requisiti di base per le attestazioni di incentivi](core-requirements.md)
 ### [Panoramica dei pagamenti delle attestazioni di incentivi](incentives-payouts.md)
-
+## [Programma esperto Provider di servizi di Microsoft Azure](azure-expert-msp.md)
 
 # [Fatturazione e imposte](billing.md)
 ## [Panoramica di fatturazione CSP](billing-basics.md)

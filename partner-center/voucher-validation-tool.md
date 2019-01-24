@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: e1c8f12b2e3683aff69383d58e265d5ed895c2ed
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
+ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015371"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "9025335"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Usare lo strumento di convalida giustificativo e rimborso nel centro per i Partner per convalidare e riservare riscattare voucher 
 
@@ -47,11 +47,13 @@ Quando è riservato un giustificativo dall'elenco giustificativo, puoi aggiornar
 ## <a name="redeem-a-voucher"></a>Riscattare un giustificativo
 
 Una volta che hai riservato un giustificativo, si possono riscattare si. 
+
 1. Nel tuo elenco di voucher riservate, seleziona i giustificativo/i che vuoi riscattare. 
-2. Aggiornare l'elenco dei partecipanti, se necessario e seleziona **l'aggiornamento**.
-3. Ora, vedrai un elenco di voucher **Redeemed** .
+2. Ora, vedrai un elenco di voucher **Redeemed** .
+
 4. Per creare una richiesta, selezionare **Crea una richiesta**o, nella pagina dei dettagli giustificativo selezionare **Crea una richiesta**.
-5. **Crea una richiesta** di selezione verrai indirizzato allo strumento di pagamento Online di Software Assurance giustificativo vantaggio (SAVB) per la fatturazione Microsoft.
+
+5. **Crea una richiesta** di selezione verrai indirizzato allo [Strumento di pagamento Online Software Assurance giustificativo vantaggio (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) per la fatturazione Microsoft.
 
 
 ### <a name="cancel-a-voucher"></a>Annullare un giustificativo

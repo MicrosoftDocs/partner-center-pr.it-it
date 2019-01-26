@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: ede912569436c159b2dcc1661298e712f9b2065e
+ms.sourcegitcommit: daa8de3e6a269b28e77e097792ac35d70fa26461
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9025335"
+ms.lasthandoff: 01/26/2019
+ms.locfileid: "9030071"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Usare lo strumento di convalida giustificativo e rimborso nel centro per i Partner per convalidare e riservare riscattare voucher 
 
@@ -60,7 +60,7 @@ Una volta che hai riservato un giustificativo, si possono riscattare si.
 
 Esistono diversi motivi, che potresti dover annullare la prenotazione giustificativo:
 
-- L'offerta o programma è cambiato da quando il boucher era originariamente riservati.
+- L'offerta o programma è passato da quando è stato originariamente riservato il giustificativo.
 
 - L'attivazione non è più avrà luogo.
 

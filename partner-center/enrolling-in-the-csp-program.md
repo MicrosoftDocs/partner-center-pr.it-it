@@ -6,12 +6,12 @@ description: Comprendi i diversi modelli per la vendita in CSP e determina qual 
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60604fd121c3cf47e85e57bb903e2b4dd2fac96c
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
+ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001701"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "9042585"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
@@ -20,7 +20,7 @@ ms.locfileid: "9001701"
 - Programma Cloud Solution Provider  
 
 
-## <a name="get-started"></a>Inizia
+## <a name="get-started"></a>Informazioni di base
 
 La domanda in rapida crescita di soluzioni e servizi basati sul cloud offre ai partner Microsoft di tutte le dimensioni numerose opportunità per sviluppare attività redditizie basate sulle soluzioni cloud. I partner che sono pronti a entrare nel mercato, ma che non desiderano gestire più fornitori o potrebbero non avere predisposto un'infrastruttura di gestione delle relazioni con i clienti (CRM, Customer Relationship Management) end-to-end, possono iscriversi al programma Cloud Solution Provider di Microsoft in qualità di rivenditori indiretti.
 
@@ -66,11 +66,20 @@ Come partner diretto, sei titolare della relazione completa con il cliente e con
 |--------------------------------|--------------------------------------------------------------|
 |**ID MPN**   |ID Microsoft Partner Network (MPN) attivo per il percorso di business.   |
 |**Verifica dell'autenticità**   |L'autorità per accettare e firmare contratti legali per conto dell'organizzazione.|
-|**Supporto**   |La possibilità di primo livello di prodotto cloud di fornire supporto ai clienti.|
+|**Supporto tecnico**   |La possibilità di primo livello di prodotto cloud di fornire supporto ai clienti.|
 |**Servizi gestiti**   |Almeno un servizio gestito, servizio IP o applicazione soluzione dei clienti. Altre informazioni sull'aggiunta di [servizi gestiti](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
 |**Crediti** |L'infrastruttura dell'organizzazione per la gestione dei clienti di fatturazione e di provisioning. 
 
 
+Dopo aver esaminato i requisiti minimi, è necessario completare un questionario convalida rapido per verificare l'idoneità. 
+
+[Valutazione di cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider/assessment)
+
+- Dopo esserti iscritto e avere soddisfatto i criteri di accettazione come partner diretto, l'amministratore globale può configurare il tuo account, aggiungere i dipendenti, assegnare loro ruoli e autorizzazioni in base alla loro attività e configurare il profilo dell'organizzazione.
+
+- Se lavori con clienti che si desiderano continuare la relazione tramite il centro per i Partner, dovrai [associarle](request-a-relationship-with-a-customer.md) al tuo account nel centro per i Partner. Microsoft può quindi connettere la tua fatturazione ai clienti. 
+
+Per informazioni sulla transizione da un partner di addebito diretto a un rivenditore indiretto, Leggi [transizione da partner di addebito diretto Cloud Solution Provider (CSP) per rivenditore indiretto CSP](transition-direct-to-indirect.md)
 
 ## <a name="csp-regional-markets-and-currencies"></a>Valute e mercati regionali CSP
 

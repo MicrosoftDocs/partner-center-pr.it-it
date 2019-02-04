@@ -7,14 +7,14 @@ author: labrenne
 ms.author: labrenne
 keywords: voucher di formazione, software assurance per la formazione, iscriversi SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0183f63272c06a9b2bcfeffd89b319258c657bfb
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 305ee8fad4de9f9928dd07ee49dd4f4703d0bcc1
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015363"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043588"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programma di Software Assurance formazione giustificativo (SATV) nel centro per i Partner
+# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programma SATV (Programma per i voucher di formazione Software Assurance) nel centro per i Partner
 
 Aumenta il tuo business la registrazione dei programmi di Software Assurance per i partner. Microsoft compensa i partner per il recapito dei corsi di formazione, pianificazione e altri servizi per i clienti aziendali che dispongono di Software Assurance. 
 
@@ -22,7 +22,7 @@ Un partner di formazione approvati software assurance, Microsoft compensa puoi o
 
 Se non hai familiarità con i servizi di formazione di Software Assurance, vedi [Voucher di Software Assurance per la formazione](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx)
 
-## <a name="get-started"></a>Inizia
+## <a name="get-started"></a>Informazioni di base
 
 Se hai familiarità con i servizi di formazione Software Assurance, segui i passaggi seguenti. Se hai già attivo nel programma giustificativo di formazione e le informazioni sull'account per i partner è stati spostati al centro per i Partner, partono passaggio quattro (4) seguente. 
 
@@ -72,7 +72,7 @@ Devono fino a 24 ore prima che i nostri sistemi in modo da riflettere che ti sta
 
 ## <a name="reserve-and-redeem-training-vouchers"></a>Riservare e riscattare voucher per la formazione
 
-Ora sono in grado di riservare e riscattare voucher e iniziare a formazione per i clienti. Amministratore MPN della tua azienda dispone dell'accesso per lo strumento di convalida giustificativo e rimborso (VVR) nel centro per i Partner e può aggiungere utenti che dovranno lavorare nello strumento. Per altre informazioni su VVR, Leggi [voucher Gestisci nello strumento di riscatto e di convalida giustificativo](voucher-validation-tool).
+Ora sono in grado di riservare e riscattare voucher e iniziare a formazione per i clienti. Amministratore MPN della tua azienda dispone dell'accesso per lo strumento di convalida giustificativo e rimborso (VVR) nel centro per i Partner e può aggiungere utenti che dovranno lavorare nello strumento. Per altre informazioni su VVR, Leggi [voucher Gestisci nello strumento di riscatto e di convalida giustificativo](voucher-validation-tool.md).
 
 >[!Note]
 >Lo strumento VVR è passato al centro per i Partner. A partire da marzo 2019, verrà ritirato il sito strumento VVR precedente.

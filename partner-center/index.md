@@ -4,21 +4,21 @@ hide_bc: true
 title: Inizia da qui per ottenere assistenza con il centro per i Partner
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: Guida di Centro per i partner per sviluppare la propria attività nel programma Microsoft Cloud Solution Provider. Impostare l'account, entrare in contatto con i clienti, acquistare una sottoscrizione di Action Pack e trovare altre informazioni per i partner nei programmi CSP e MPN. 
+description: Centro per i partner possono aiutarti a incrementare le tue attività nel programma Microsoft Cloud Solution Provider (CSP). Impostare l'account, entrare in contatto con i clienti, acquistare una sottoscrizione di Action Pack e trovare altre informazioni per i partner nei programmi CSP e MPN. 
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f15360e6d1c8f03a856fc97e78e854d2496a4e9
-ms.sourcegitcommit: c937b024b2151c8ed5a69a354b731fd2db44a570
+ms.openlocfilehash: d2070ff75dfa1197349b2cfdf55e5b06aeb4d8ea
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/29/2019
-ms.locfileid: "9035471"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043568"
 ---
-# <a name="partner-center-help"></a>Guida di Centro per i partner
+# <a name="welcome-to-partner-center"></a>Benvenuto nel centro per i Partner
 
-Hai domande su procedure consigliate per la gestione dell'account, collegarti ai clienti, l'acquisto di una sottoscrizione di Action Pack, registrazione in un programma di incentivi? Trova che le risposte nel centro per i Partner raccolta di Guide.
+Microsoft Partner Center è il punto di partenza importante per la gestione la relazione end-to-end con Microsoft. Include gli strumenti e risorse che consentono di eseguire transazioni e incrementare le tue attività, tra cui opzioni di adesione, segnalazioni di clienti e il programma Cloud Solution Provider (CSP). Ottenere informazioni sulle procedure consigliate per la gestione dell'account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack e registrazione in un programma di incentivi nel centro per i Partner di raccolta di Guide.
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -27,7 +27,7 @@ Hai domande su procedure consigliate per la gestione dell'account, collegarti ai
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
@@ -45,7 +45,7 @@ Hai domande su procedure consigliate per la gestione dell'account, collegarti ai
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>

@@ -1,52 +1,50 @@
 ---
 title: Aggiornare il profilo del partner | Centro per i partner
-ms.topic: article
-ms.date: 10/29/2018
 description: La prima volta che accedi come amministratore, assicurati che i dettagli per il supporto siano corretti, registra le esenzioni fiscali se appropriato e controlla le informazioni sul contatto nei tuoi profili.
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-ms.author: evansma
-ms.localizationpriority: medium
-ms.openlocfilehash: da548343254a5b4b4bbf3a8226fc50c9c545756d
-ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
+ms.openlocfilehash: 5fb7852cfb393793dee00127d5397bd1dc55ef11
+ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2018
-ms.locfileid: "8382927"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043500"
 ---
 # <a name="update-your-partner-profile"></a>Aggiornare il profilo del partner
 
-**Si applica a**
 
-- Centro per i partner
+La prima volta che accedi al Centro per i partner come amministratore, assicurati che i dettagli per il supporto siano corretti, registra le esenzioni fiscali se appropriato e controlla le informazioni sul contatto nei tuoi profili. Se l'organizzazione dispone di più di una posizione, esamina i dati di posizione per la precisione.
 
-La prima volta che accedi al centro per i Partner come amministratore, assicurati che il supporto del tuo dettagli siano corretti, esenzioni fiscali se appropriato e controlla le informazioni sul contatti nei tuoi profili.
+**Aggiornare i dettagli per il supporto**
 
-## <a name="associate-your-mpn-id-to-your-partner-center-account"></a>Associare l'ID MPN al tuo account del centro per i Partner
+1.  Vai a **Impostazioni** &gt; **Tutte le impostazioni** &gt;**Profilo partner**.
+2.  Nella sezione **Supporto** seleziona **Aggiorna**.
+3.  Se uno qualsiasi dei tuoi clienti chiama Microsoft per richiedere supporto, Microsoft lo reindirizzerà al sito Web, all'indirizzo e-mail e alle info di contatto telefonico elencati nel tuo profilo per il supporto.
 
-Per poter gestire incentivi, vantaggi e competenze e gestire gli utenti, la posizione di MPN deve essere associato al tuo account del centro per i Partner.
+**Registrare le esenzioni fiscali**
 
-Come eseguire la registrazione nel centro per i Partner, nella schermata di **associare l'ID MPN al tuo account del centro per i Partner**, immettere un ID MPN nella casella di ricerca. In questo modo sarà possibile connettersi tale ID MPN al tuo percorso.
+-   Decidi se esistono esenzioni fiscali applicabili per la tua azienda e in tal caso registrale prima di aggiungere qualsiasi cliente o sottoscrizione. Vedi [Imposte ed esenzioni fiscali](tax-and-tax-exemptions.md).
 
-1. Puoi anche accedere al centro per i Partner, Vai a **icona Impostazioni** e selezionare **le impostazioni per i Partner**.
+**Verificare le informazioni del tuo profilo**
 
-2. Nell'elenco delle posizioni nel tuo profilo per i partner, seleziona la posizione che vuoi associare a tale ID MPN o immetti l'ID MPN nella casella di ricerca.
+1.  Vai a **Impostazioni** &gt;**Tutte le impostazioni**. 
+2.  Controlla le informazioni in **Profilo partner**, **Profilo di fatturazione partner** e **Profilo organizzazione**.
 
->[!IMPORTANT]
->La posizione di MPN deve trovarsi nello stesso paese come tenant di Azure AD.
+## <a name="manage-your-partner-profile"></a>Gestire il profilo del Partner 
 
-## <a name="update-your-support-details"></a>Aggiornare i dettagli per il supporto
+È ora possibile aggiornare l'indirizzo legale nel centro per i Partner.
 
-1. Vai all' **icona Impostazioni** e selezionare **le impostazioni per i Partner**.
-2. Nella sezione di **supporto** della pagina, selezionare **l'aggiornamento**.
-3. Se uno qualsiasi dei tuoi clienti chiama Microsoft per il supporto, Microsoft lo reindirizzerà al sito Web, il messaggio di posta elettronica e info di contatto telefonico elencati nel tuo profilo di supporto.
+1. Vai a **Impostazioni** &gt; **Tutte le impostazioni** &gt;**Profilo partner**.
+2. Selezionare **Aggiorna** uno accanto all'indirizzo legale. 
 
-## <a name="file-tax-exemptions"></a>Registrare le esenzioni fiscali
+>[!Important]
+>Non puoi modificare il paese associato l'indirizzo legale. Paese indirizzo legale è legata al tuo tenant e servizi. Per ulteriori informazioni, Leggi [Modifica l'indirizzo legale](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).
 
-- Decidi se esenzioni fiscali applicano al Licenziatario e, in caso affermativo, registrale prima di aggiungere qualsiasi cliente o sottoscrizione. Per ulteriori informazioni, vedere [imposte ed esenzioni fiscali](tax-and-tax-exemptions.md) .
+3. Quando selezioni **Invia**, la tua identità legale sarà nuovamente valutata e riceverai un altro messaggio e-mail che è necessaria per accettare.
 
-## <a name="verify-and-update-your-profile-information"></a>Verificare e aggiornare le informazioni del profilo
 
-1. Vai all' **icona Impostazioni** e selezionare **le impostazioni per i Partner**.
-1. Controlla le informazioni in **Profilo partner**, **Profilo di fatturazione partner** e **Profilo organizzazione**.
-1. Se devi modificare i dettagli del tuo indirizzo legale, l'azienda può contattare per la verifica. Modificare i dettagli del legali possono influire sulle informazioni fiscali. Assicurati che le informazioni fiscali rimangono accurate. Contatta il [supporto](https://partner.microsoft.com/support/contact-support) con le domande.
+
+ 
+
+
+

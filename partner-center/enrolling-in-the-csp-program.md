@@ -6,12 +6,12 @@ description: Comprendi i diversi modelli per la vendita in CSP e determina qual 
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
-ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
+ms.openlocfilehash: 56a67d5843394e05007f54683ad4baec93033eb7
+ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "9042585"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043510"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
@@ -56,28 +56,26 @@ Per altre informazioni su ciò che è necessario per la vendita nel programma CS
 
 
 
-### <a name="enroll-as-a-direct-partner"></a>Iscriversi come partner diretto
+### <a name="enroll-as-a-direct-bill-partner"></a>Iscriversi come partner addebito diretto
 
-Come partner diretto, sei titolare della relazione completa con il cliente e con Microsoft. Abbiamo aggiornato i requisiti di registrazione per i partner di addebito diretto a partire dal 31 agosto 2018. Questi nuovi requisiti consentirà di accelerare la crescita del tuo business con il modello di registrazione CSP a destra e rafforzare relazioni con i clienti con servizi a valore aggiunto e supporto. 
+Come partner diretto, sei titolare della relazione end-to-end con il cliente e con Microsoft. Abbiamo aggiornato i requisiti di registrazione per i partner di addebito diretto a partire dal 31 agosto 2018. Questi nuovi requisiti consentirà di accelerare la crescita del tuo business con il modello di registrazione CSP a destra e rafforzare relazioni con i clienti con servizi a valore aggiunto e supporto. 
 
 ### <a name="minimum-requirements"></a>Requisiti minimi
 
 |**Requisito**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**ID MPN**   |ID Microsoft Partner Network (MPN) attivo per il percorso di business.   |
+|**ID MPN**   |ID Microsoft Partner Network (MPN) attivo per il percorso di business.    |
 |**Verifica dell'autenticità**   |L'autorità per accettare e firmare contratti legali per conto dell'organizzazione.|
-|**Supporto tecnico**   |La possibilità di primo livello di prodotto cloud di fornire supporto ai clienti.|
+|**Supporto tecnico**   |La possibilità di primo livello di prodotto cloud di fornire supporto ai clienti. Un piano di supporto Microsoft, entrambi avanzata supporto per i partner (ASfP) o il supporto tecnico Premier per i partner (PSfP), a seconda delle tue esigenze. [Piani di confronto di supporto](https://partner.microsoft.com/en-US/support/partnersupport). |
 |**Servizi gestiti**   |Almeno un servizio gestito, servizio IP o applicazione soluzione dei clienti. Altre informazioni sull'aggiunta di [servizi gestiti](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
 |**Crediti** |L'infrastruttura dell'organizzazione per la gestione dei clienti di fatturazione e di provisioning. 
 
 
-Dopo aver esaminato i requisiti minimi, è necessario completare un questionario convalida rapido per verificare l'idoneità. 
+Dopo aver esaminato i requisiti minimi precedenti, è necessario completare un questionario convalida rapido per verificare l'idoneità. 
 
-[Valutazione di cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider/assessment)
+[Questionario di cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider/assessment)
 
-- Dopo esserti iscritto e avere soddisfatto i criteri di accettazione come partner diretto, l'amministratore globale può configurare il tuo account, aggiungere i dipendenti, assegnare loro ruoli e autorizzazioni in base alla loro attività e configurare il profilo dell'organizzazione.
-
-- Se lavori con clienti che si desiderano continuare la relazione tramite il centro per i Partner, dovrai [associarle](request-a-relationship-with-a-customer.md) al tuo account nel centro per i Partner. Microsoft può quindi connettere la tua fatturazione ai clienti. 
+Valutazione del questionario determina l'idoneità per iscriversi al programma di addebito diretto CSP. Dopo avere verificato tramite il questionario che soddisfano i criteri di addebito diretto e inviate del modulo di registrazione, eseguiamo una recensione business della tua azienda, tra cui una verifica del credito. Se sei credito approvato, dovrai confermare l'acquisto del piano di un ASfP o PSfP e, infine, accettare il contratto di condizioni di addebito diretto per avviare transazioni con i clienti in qualità di partner di addebito diretto.
 
 Per informazioni sulla transizione da un partner di addebito diretto a un rivenditore indiretto, Leggi [transizione da partner di addebito diretto Cloud Solution Provider (CSP) per rivenditore indiretto CSP](transition-direct-to-indirect.md)
 

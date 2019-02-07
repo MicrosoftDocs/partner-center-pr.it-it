@@ -3,16 +3,16 @@ title: 'Vendere le sottoscrizioni di Minecraft: Education Edition ai clienti del
 ms.topic: article
 ms.date: 10/29/2018
 description: 'Vendi le sottoscrizioni di Minecraft: Education Edition ai clienti qualificati del settore istruzione.'
-author: KPacquer
-ms.author: kenpacq
-keywords: Authorized Education Partner
+author: labrenne
+ms.author: labrenne
+keywords: I partner autorizzati gli istituti di istruzione, formazione, vendere a education, gli istituti di istruzione
 ms.localizationpriority: medium
-ms.openlocfilehash: aa86e62d19d3f83ad828afbc8cd1c9880a6c93c3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796584"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062329"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendere le sottoscrizioni di Minecraft: Education Edition ai clienti del settore istruzione
 

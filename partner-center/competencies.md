@@ -3,17 +3,17 @@ title: Acquisire le competenze Microsoft | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
 description: Acquisisci le competenze Silver e Gold Microsoft per dimostrare la tua comprovata esperienza nell'offerta di soluzioni di qualità in un'area di business specializzata
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: competenze, adesione silver, adesione gold, mpn, MAPS, idoneità, vantaggi, obiettivi di prestazioni, obiettivi di competenze
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b8c837001ee8b24288f658d6fe0355fc91fc40
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 10b0b28e3df005df7503c410f98166bd166d9523
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796894"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062339"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -58,11 +58,11 @@ Dopo aver [aggiunto Microsoft Partner Network](mpn-overview.md), puoi soddisfare
 
 Alcune competenze prevedono più modi per ottenere il livello Silver o Gold.
 
-Per controllare l'avanzamento in una competenza, dal centro per i Partner Center per i Partner, Vai ai **Partnership > competenze**. 
+Per controllare l'avanzamento in una competenza, dal centro per i Partner Center per i Partner, Vai alla **relazione gt _ competenze**. 
 
 ### <a href="" id="associating_achievements"></a>Fai in modo che i dipendenti si colleghino per completare gli obiettivi basati sulle competenze
 
-1.  Aggiungi gli account utente per i dipendenti nell'organizzazione. Dal [Centro per i Partner](http://partnercenter.microsoft.com), Vai a **Impostazioni Account > Aggiungi utente**. (gli utenti PMC possono aggiungere più utenti alla volta selezionando **Aggiungi utenti che utilizzano dati PMC**).
+1.  Aggiungi gli account utente per i dipendenti nell'organizzazione. Dal [Centro per i Partner](http://partnercenter.microsoft.com), Vai a **Account settings gt _ Aggiungi utente**. (gli utenti PMC possono aggiungere più utenti alla volta selezionando **Aggiungi utenti che utilizzano dati PMC**).
 
     Dopo aver creato gli account utente, ti invieremo un nuovo nome utente e password e ti verrà richiesto di scaricare un file di registro che contenga informazioni per reimpostare il nome utente e password a seconda delle necessità. Puoi anche [configurare gli account utente in modo che possano reimpostare le password da soli](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 

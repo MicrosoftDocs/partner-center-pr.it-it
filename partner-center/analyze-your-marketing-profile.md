@@ -3,16 +3,16 @@ title: Analizzare l'efficacia del profilo di lavoro | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
 description: Valutare, negoziare e rispondere alle segnalazioni tramite il Centro per i partner.
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: afd718f98cdd7f54b7a2ea0731ece90c7e338f30
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e621ecb2c57b150b35aa363a19a35747a88a3931
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796774"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062259"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analizzare l'efficacia del profilo di lavoro
 <!-- 
@@ -29,7 +29,7 @@ Dopo avere registrato il [profilo di lavoro](create-a-marketing-profile.md) dell
 
 Quando inizi a [rispondere a queste segnalazioni](responding-to-referrals.md), inizierai a ricevere i dati che indicano quante di tali richieste di informazioni stanno diventando opportunità aziendali di successo.
 
-Utilizza questi report quando perfezioni i profili di lavoro per generare più lead e aumentare il numero di lead rilevanti. I dati mostrano le prestazioni del profilo, analizzano le tendenze e identificano le aree che richiedono un'azione. Dal menu di Centro per i Partner, Vai a **segnalazioni > Marketing pagine**.
+Utilizza questi report quando perfezioni i profili di lavoro per generare più lead e aumentare il numero di lead rilevanti. I dati mostrano le prestazioni del profilo, analizzano le tendenze e identificano le aree che richiedono un'azione. Dal menu Centro per i Partner, Vai alle **pagine di Marketing gt _ segnalazioni**.
 
 Questi report mostrano le prestazioni dei profili di lavoro per tutte le aree geografiche. I report mostrano i dati degli ultimi 90 giorni, raggruppati per settimane.
 

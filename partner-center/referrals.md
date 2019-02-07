@@ -3,16 +3,16 @@ title: Aumenta il tuo business con le segnalazioni Microsoft | Centro per i part
 ms.topic: article
 ms.date: 10/29/2018
 description: Genera nuovi lead ed entra in contatto con i clienti che hanno bisogno di aiuto per implementare i prodotti e le soluzioni Microsoft.
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: segnalazioni, profilo di lavoro, trova un partner
 ms.localizationpriority: medium
-ms.openlocfilehash: c4241c70591d6747f9e5994c43119740d6819791
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 914439dbd6d0f75299931569af2e9d4dec0fbb55
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794824"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062319"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 

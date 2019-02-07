@@ -3,15 +3,15 @@ title: Rimuovere una relazione con un rivenditore o un cliente | Centro per i pa
 ms.topic: article
 ms.date: 10/29/2018
 description: La rimozione di una relazione consente di rimuovere tutte le relazioni di business chiuse dalla vista nel Centro per i partner.
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2134a8ba118960dabe235d07675b3e340cc2ba16
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 3697d32af38e0f9cd496a84d442fb05390f63101
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995675"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062269"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Rimuovere una relazione con un rivenditore o un cliente
 
@@ -28,11 +28,11 @@ Questa funzionalità:
 *  Elimina la possibilità di effettuare acquisti per conto del cliente
 
 Per rimuovere la relazione, dovrai annullare le prenotazioni delle istanze riservate di Azure, annullare gli acquisti di software e sospendere in primo luogo qualsiasi sottoscrizione attiva rimanente:
-1. Sospendi tutte le sottoscrizioni attive. Dal centro per i Partner, Vai a **clienti** > Seleziona un cliente > **sottoscrizioni** > Seleziona una sottoscrizione > **sospeso**. 
+1. Sospendi tutte le sottoscrizioni attive. Dal centro per i Partner, Vai a **clienti** gt _ seleziona un gt _ cliente **sottoscrizioni** gt _ seleziona un gt _ sottoscrizione **sospesa**. 
 
    Ripeti questo passaggio per ogni sottoscrizione.
 
-2. Rimuovere la relazione nel centro per i Partner: dal centro per i Partner, Vai a **clienti** > Seleziona un cliente > **Account** > **rimuovere una relazione come rivenditore**.
+2. Rimuovere la relazione nel centro per i Partner: dal centro per i Partner, Vai a **clienti** gt _ seleziona un **Account**cliente gt di _ > **rimuovere una relazione come rivenditore**.
 
    Se eventuali sottoscrizioni sono ancora attive, il collegamento **Remove reseller relationship** sarà inattivo. 
 

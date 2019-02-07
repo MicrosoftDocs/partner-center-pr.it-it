@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Crea un profilo di lavoro nel Centro per i partner per ricevere i lead di vendita da Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: pinpoint, riferimenti, lead di vendita, C2PC, profilo della società, commercializzare la tua azienda, trovare un partner, trovare un provider di soluzioni, profilo di lavoro, profilo di marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 174fe0a530fd72a17541d5b2a0bdffc9e16d53d6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 2e6357bcbecf32ef312b6efbdaa8082d29a48d87
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797254"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062359"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -52,7 +52,7 @@ Il primo passaggio per raggiungere questi lead consiste nel creare un profilo di
 
 Crea profili per ogni area geografica in cui sei autorizzato a svolgere la tua attività. 
 
-1.  Il menu del **Centro per i Partner** seleziona **segnalazioni** &gt; **profili di lavoro** &gt; seleziona un paese/area geografica > **[Crea un profilo di lavoro](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  Il menu del **Centro per i Partner** seleziona **segnalazioni** &gt; **profili di lavoro** &gt; seleziona un gt _ paese/area geografica, **[Crea un profilo di lavoro](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  Nella pagina **Crea un profilo di lavoro** seleziona un'area geografica, quindi immetti le informazioni del profilo.
     > [!NOTE]  

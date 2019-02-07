@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Per una visualizzazione di voci di ogni addebito in un ciclo di fatturazione, scarica i file di riconciliazione dal centro per i Partner.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995945"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062379"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -179,7 +179,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>Importo totale delle imposte, in base al mercato & #39; regole imposte s e alle circostanze specifiche.</p></td>
+<td><p>Importo totale delle imposte, in base alla tua market& #39; regole imposte s e alle circostanze specifiche.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Cliente & #39; nome dell'organizzazione s registrato nel centro per i Partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
+<td><p>Customer& #39; nome dell'organizzazione s registrato nel centro per i Partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
 <td>Cliente di prova A</td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Cliente & #39; nome di dominio s, usato per identificare il cliente. Questo non deve essere usato per identificare in modo univoco il cliente, il cliente/partner può aggiornare il dominio di reindirizzamento a microsito/predefinito tramite il portale di Office 365. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
+<td><p>Customer& #39; nome di dominio s, usato per identificare il cliente. Questo non deve essere usato per identificare in modo univoco il cliente, il cliente/partner può aggiornare il dominio di reindirizzamento a microsito/predefinito tramite il portale di Office 365. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Cliente & #39; nome dell'organizzazione s registrato nel centro per i Partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
+<td><p>Customer& #39; nome dell'organizzazione s registrato nel centro per i Partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
 <td>Cliente di prova A</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Importo totale delle imposte, in base al mercato & #39; regole imposte s e alle circostanze specifiche.</p></td>
+<td><p>Importo totale delle imposte, in base alla tua market& #39; regole imposte s e alle circostanze specifiche.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Cliente & #39; nome di dominio s, usato per identificare il cliente. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
+<td><p>Customer& #39; nome di dominio s, usato per identificare il cliente. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">

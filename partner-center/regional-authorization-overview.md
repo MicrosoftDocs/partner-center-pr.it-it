@@ -6,28 +6,36 @@ description: Vedi i paesi e aree geografiche in cui puoi vendere offerte CSP, in
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: CSP mercati, territori CSP, dove i vendere tramite CSP, CSP offerte, aree geografiche, vendono soluzioni cloud, CSP globale
+keywords: CSP mercati, territori CSP, dove i vendere tramite CSP, offerte CSP, le aree geografiche, vendono soluzioni cloud, CSP globale
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 456a37e965d7594e29df47437dedb587bff46db3
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
+ms.sourcegitcommit: 004edfd8633620e6b0e0558d818e0dbf32be9e88
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980625"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9065608"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Cloud Solution Provider programma regionali mercati e valute
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercati regionali cloud Solution Provider programma e valute
 
 Posizione della tua azienda determina il mercato. Tuo mercato include le aree geografiche e/o i paesi in cui puoi vendere offerte CSP.
 
-Ad esempio, se l'azienda è residenti negli Stati Uniti, puoi vendere offerte CSP per i clienti negli Stati Uniti e in altre isole americane degli Stati Uniti. Se la società si trova in Brasile, puoi vendere offerte CSP per i clienti solo in Brasile. Se la società si trova nell'area geografica Africa, puoi vendere offerte CSP per i clienti in tutti i 18 paesi nell'area geografica Africa.
+Ad esempio, se la società si trova negli Stati Uniti, puoi vendere offerte CSP per i clienti negli Stati Uniti e in altre isole americane degli Stati Uniti. Se la società si trova in Brasile, puoi vendere offerte CSP per i clienti solo in Brasile. Se la società si trova nell'area geografica Africa, puoi vendere ai clienti in tutti i 18 paesi nell'area geografica Africa offerte CSP.
 
 Prima di ordinare che offerte CSP per conto di un cliente, il cliente deve firmare il contratto Microsoft Cloud. Puoi trovare il contratto Microsoft Cloud applicabili per paese/area geografica [qui](agreements.md).
 
 >[!IMPORTANT]
-> A partire dal 7 novembre 2018, dovrai verificare che un cliente ha accettato il contratto Microsoft Cloud, fornendo informazioni sulla persona che ha firmato. Per ulteriori informazioni, vedere [Conferma l'accettazione del cliente il contratto Microsoft Cloud](confirm-consent.md) .
+> A partire dal 7 novembre 2018, dovrai verificare che un cliente ha accettato il contratto Microsoft Cloud, fornendo informazioni sulla persona che ha firmato. Per altri dettagli, vedi [Conferma l'accettazione del cliente il contratto Microsoft Cloud](confirm-consent.md) .
 
-Per determinare dove puoi vendere offerte CSP, trovare la posizione della tua azienda in uno degli elenchi di seguito. Devi disporre di un ID Microsoft Partner Network (MPN) attivo per la posizione che desideri vendere.  
+Per determinare dove puoi vendere offerte CSP, trovare la posizione della tua azienda in uno degli elenchi di seguito. Devi disporre di un ID Microsoft Partner Network (MPN) attivo per la posizione che vuoi vendere.  
+
+## <a name="for-unsupported-countries"></a>Per i paesi non supportati
+
+Se il tuo paese non è supportato, stabilire il cliente relazione CSP con l'URL di amministrazione di Office. 
+
+- I partner di addebito diretto utilizzare l'url seguente: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0. Sostituire **partnertenantguid** con l'ID tenant. 
+
+- L'URL per i rivenditori indiretti è: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Andrà a sostituire **IRtenantguid** con l'ID tenant. Sostituire **IRMPNID** con l'ID MPN e sostituire **IPtenantguid** con l'id tenant di provider indiretto.
 
 ## <a name="africa-region-and-market"></a>Mercato e Africa
 
@@ -224,7 +232,7 @@ Se della tua società è l'India, puoi vendere offerte CSP per i clienti in Indi
 
 ## <a name="japan-region-and-market"></a>Mercato e all'area geografica Giappone
 
-Se della tua azienda è il Giappone, puoi vendere offerte CSP per i clienti in Giappone.
+Se la posizione della tua azienda è il Giappone, puoi vendere offerte CSP per i clienti in Giappone.
 
 |  Paese/Area geografica | Currency |
 |  -------------- |:--------:|
@@ -233,7 +241,7 @@ Se della tua azienda è il Giappone, puoi vendere offerte CSP per i clienti in G
 
 ## <a name="korea-republic-of-region-and-market"></a>Corea, Repubblica di area geografica e i mercati
 
-Se della tua azienda è la Corea, Repubblica popolare, puoi vendere ai clienti in Corea, Repubblica popolare le offerte CSP.
+Se della tua azienda è la Corea, Repubblica popolare, puoi vendere ai clienti in Corea, Repubblica di offerte CSP.
 
 |  Paese/Area geografica    | Currency |
 |  --------------    |:--------:|
@@ -337,7 +345,7 @@ Se la posizione della tua azienda è nell'elenco seguente, puoi vendere offerte 
 |  Mozambico     |          |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  Territorio Palestinese, occupato |        |
 |  Qatar          |   USD    |
 |  Arabia Saudita   |   USD    |
 |  Serbia         |   USD    |
@@ -375,9 +383,9 @@ Se della tua azienda è la Russia, puoi vendere offerte CSP per i clienti in Rus
 |  Russia         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>Mercato e all'area geografica Taiwan
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+Se la posizione della tua azienda è Taiwan, puoi vendere offerte CSP per i clienti a Taiwan.
 
 |  Paese/Area geografica | Currency |
 |  -------------- |:--------:|

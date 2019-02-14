@@ -8,16 +8,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guide al programma CSP, guida al programma, contratti partner, contratto cliente, listini prezzi, offerte
 ms.localizationpriority: medium
-ms.openlocfilehash: a58edd5c7643c5c72f12672d1e289d4266b2af23
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 56d18f008237b7d9959afc545f28e67f9b4f72b2
+ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000051"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "9075184"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guida al programma cloud Solution Provider, ai contratti, listini prezzi e offerte
 
-**Ambito di applicazione**
+**Si applica a**
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
@@ -41,7 +41,7 @@ Microsoft richiede ai partner di sottoscrivere questo contratto per partecipare 
 
 [Contratto per i rivenditori Microsoft Cloud - America del Nord, America centrale, America del Sud e Caraibi](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Contratto per i rivenditori Microsoft Cloud - Asia, Australia e Pacifico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Sep2018_CR.pdf)
+[Contratto per i rivenditori Microsoft Cloud - Asia, Australia e Pacifico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
 [Contratto per i rivenditori Microsoft Cloud - Europa, Medio Oriente e Africa](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -51,7 +51,7 @@ Microsoft richiede ai partner di sottoscrivere questo contratto per partecipare 
 
 [Contratto per i rivenditori Microsoft Cloud - Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Contratto per i rivenditori Microsoft Cloud - Microsoft Cloud per il governo statunitense](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
+[Contratto per i rivenditori Microsoft Cloud - Microsoft Cloud per il governo statunitense](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Modelli di contratto Microsoft Cloud

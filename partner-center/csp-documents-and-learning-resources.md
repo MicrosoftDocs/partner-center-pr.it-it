@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guide al programma CSP, guida al programma, contratti partner, contratto cliente, listini prezzi, offerte
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
-ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
+ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
+ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079259"
+ms.locfileid: "9079730"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guida al programma cloud Solution Provider, ai contratti, listini prezzi e offerte
 
@@ -43,6 +43,8 @@ Microsoft richiede ai partner di sottoscrivere questo contratto per partecipare 
 
 [Contratto per i rivenditori Microsoft Cloud - Asia, Australia e Pacifico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
+
+
 [Contratto per i rivenditori Microsoft Cloud - Europa, Medio Oriente e Africa](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
 [Contratto per i rivenditori Microsoft Cloud - Giappone](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
@@ -56,7 +58,8 @@ Microsoft richiede ai partner di sottoscrivere questo contratto per partecipare 
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Modelli di contratto Microsoft Cloud
 
-In qualità di partner nel programma CSP, hai la responsabilità di esaminare insieme ai tuoi clienti i termini e le condizioni di Microsoft, incluso l'uso accettabile dei prodotti e dei servizi Microsoft. Vai a Microsoft Cloud per [i modelli dei clienti](agreements.md) per trovare il contratto Microsoft Cloud che dovrai esaminare con i nuovi clienti. 
+In qualità di partner nel programma CSP, hai la responsabilità di esaminare insieme ai tuoi clienti i termini e le condizioni di Microsoft, incluso l'uso accettabile dei prodotti e dei servizi Microsoft. Vai a Microsoft Cloud per [i modelli dei clienti](agreements.md) per trovare il contratto Microsoft Cloud, dovrai esaminare con i nuovi clienti. 
+
 
 
 

@@ -6,12 +6,12 @@ description: In qualità di provider indiretto, o distributore, puoi collaborare
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bbab6f297f96ee12edc032b7f55f7f749933ecc
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
+ms.sourcegitcommit: 48684194c75e5ca9df225745b2263a18f2c18943
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795194"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "9081355"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 
@@ -47,7 +47,7 @@ Completa i passaggi seguenti per stabilire e gestire la tua partnership con i ri
     - Associare nuovi clienti e sottoscrizioni ai rivenditori
     - Stabilire relazioni tra i rivenditori e i clienti esistenti <br>
 
-Dopo aver completato questi passaggi, puoi gestire le partnership con i rivenditori nella pagina di **rivenditori indiretti** dal menu del **Centro per i Partner** .
+Dopo aver completato questi passaggi, il menu del **Centro per i Partner** puoi gestire le partnership con i rivenditori nella pagina di **rivenditori indiretti** .
 
 > [!IMPORTANT]   
 > Prima di poter collaborare con i rivenditori, deve essere registrati come rivenditori indiretti nel programma CSP e dispongano di un account di Centro per i Partner. Per informazioni sull'iscrizione al programma CSP, indirizza i tuoi rivenditori su [Collaborare con i provider indiretti in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md). 
@@ -75,12 +75,65 @@ Per stabilire una partnership, invia una richiesta di partnership al rivenditore
 
 A seconda del livello di accesso e di coinvolgimento che desideri assegnare al rivenditore, puoi scegliere di eseguire una o più delle operazioni descritte di seguito.
 
+Per le sottoscrizioni esistenti, se decidi di collaborare con un rivenditore indiretto, è possibile aggiornare i dettagli della sottoscrizione di includere il rivenditore indiretto.
+
+- Nella pagina dei dettagli della sottoscrizione nel campo di **rivenditore (ID MPN)** , Aggiungi il rivenditore che vuoi usare. Ciò garantisce che il rivenditore riceveranno gli incentivi appropriati.
+
 | **Per** | **Effettuare quanto segue** | **Dove** |
 |   ------------------   |   -------   |   -----   |
 | Consentire al rivenditore di gestire l'account di un cliente e di disporre delle autorizzazioni di amministratore per gestire le sottoscrizioni | Associare un rivenditore a un account cliente quando si aggiunge un nuovo cliente | Nella pagina **Nuovo cliente** |
 |Abilitare il rivenditore alla gestione dell'account di un cliente di Azure|Associare un rivenditore a un account cliente di Azure quando si aggiunge un nuovo cliente|Nel **portale di servizio di Azure** seleziona [Impostazioni utente](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) per assegnare al rivenditore indiretto le autorizzazioni per il **proprietario tenant**|
 | Assegnare al rivenditore il credito per gli incentivi | Associare il rivenditore alla sottoscrizione (nuova o esistente) | Nella pagina **Nuova sottoscrizione** |
 | Delegare il supporto cliente per sottoscrizioni specifiche al rivenditore | Selezionare il rivenditore dall'elenco **Designated support contact** | Nella pagina dei dettagli della sottoscrizione: seleziona il cliente dalla tua pagina **Clienti**, quindi seleziona la sottoscrizione dalla pagina **Sottoscrizioni** del cliente |
+
+Oggi, i provider indiretti possono utilizzare dashboard Centro per i Partner per ordine e selezionare facoltativamente un rivenditore indiretto come il PartnerOnRecord. Se si non selezioni un rivenditore indiretto, abbiamo considerarlo come una transazione di livello 1 e accattivarsi il provider indiretto di conseguenza. Se si seleziona uno, l'ordine trattiamo come transazione di livello 2 e il provider indiretto e il rivenditore indiretto ti accattivarsi conseguenza:
+
+ 
+
+Esiste anche un'esperienza in cui un provider indiretto anche aggiornare la PartnerOnRecord per le sottoscrizioni esistenti:
+
+ 
+
+Sapere se hai già documentazione esistente in modo indiretto i provider devono gestire il PartnerOnRecord impostazione Tieni?
+Il motivo per cui che visualizzare questo è perché ci sembra essere piuttosto una serie significativa di transazioni di livello 2 che non sono state configurate correttamente dai provider indiretto, generando non corretto per i proventi degli incentivi. Come ha superato la fase, i partner realizzati in questo e avviato uscita a Microsoft per ottenere un backpay degli incentivi. Se non hai già una copertura di documentazione in quest'area, vorrei ottenere l'assistenza di inserire un insieme.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## <a name="connect-with-customers"></a>Entrare in contatto con i clienti
@@ -102,7 +155,7 @@ Quando associ un rivenditore a un nuovo account cliente, deleghi la gestione del
 
 6.  Dopo aver inviato l'ordine, viene visualizzata la pagina di **conferma**. In **Informazioni di configurazione** vengono visualizzati il nome account dell'utente amministratore e la password temporanea. Prendi nota del nome account e della password dell'utente in modo da poterli inviare al nuovo cliente. 
     > [!IMPORTANT]  
-    > Assicurati di prendere nota del nome dell'account utente e della password perché non sarai in grado di accedere nuovamente queste informazioni dopo aver chiuso questa pagina.
+    > Assicurati di prendere nota del nome dell'account utente e password, non sarai in grado di accedere di nuovo di queste informazioni dopo aver chiuso questa pagina.
 
 7.  Seleziona **Fatto**. Il nuovo cliente verrà visualizzato nell'elenco clienti, associato al rivenditore indiretto. A questo punto il rivenditore dispone dell'accesso come amministratore alle informazioni sull'account e sulle sottoscrizioni del cliente e può gestire le sottoscrizioni per conto del cliente.
 

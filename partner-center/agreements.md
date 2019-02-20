@@ -5,14 +5,14 @@ ms.date: 11/03/2018
 description: Trovare e scaricare le versioni di area geografica e lingua specifici del contratto Microsoft Cloud per esaminare con i tuoi clienti.
 author: Maggie Evans
 ms.author: evensma
-keywords: contratti cloud Microsoft, modelli di contratto cliente, contratti cliente CSP, MCA, MCA, CSP, dove posso vendere con CSP?, paesi/aree geografiche CSP, MCA CSP in più lingue, CSP per America del Nord, CSP per America centrale, CSP per America del Sud, CSP per Caraibi, Microsoft Cloud CSP per governo degli Stati Uniti, Microsoft Cloud CSP per Germania, CSP per Asia orientale, CSP per Africa, Europa per CSP, CSP per Asia, CSP per Pacifico, MCA CSP
+keywords: Contratti cloud Microsoft, modelli di contratto cliente, contratti cliente CSP, il contratto Microsoft Cloud, MCA, CSP, dove posso vendere tramite CSP?, CSP paesi e aree geografiche, degli I.c.m CSP in più lingue, CSP per America del Nord, America centrale CSP, CSP sud America latina, Caraibi CSP, CSP Microsoft Cloud per il governo statunitense, CSP Microsoft Cloud Germania, CSP Medio Oriente, CSP Africa, Europa CSP, CSP Asia, CSP Pacifico, degli I.c.m CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 3fb51af0561a0a33ef618e4e748f584daeed551c
-ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
+ms.openlocfilehash: a9434756a5c35c84da4d316a9d5fe8a242864440
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "9075204"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083204"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratti Microsoft Cloud per area geografica e lingua
 
@@ -25,7 +25,7 @@ Prima di poter effettuare un ordine per conto del cliente, il cliente deve accet
 >[!IMPORTANT]
 > A partire da 7 novembre 2018, dovrai verificare che un cliente ha accettato il contratto Microsoft Cloud, fornendo informazioni sulla persona che ha firmato. Per altri dettagli, vedi [Conferma l'accettazione del cliente il contratto Microsoft Cloud](confirm-consent.md) .
 
-Contratti Cloud Microsoft sono disponibili in più lingue e area geografica specifica. Trova il cliente località e lingua preferita in uno degli elenchi di seguito per scaricare il contratto corretto.
+I contratti Cloud Microsoft sono disponibili in più lingue e area geografica specifica. Trova il cliente località e lingua preferita in uno degli elenchi di seguito per scaricare il contratto corretto.
 
 Se non sei sicuro che le aree geografiche e mercati puoi vendere, trovare la posizione della tua azienda in questo elenco: [valute e mercati regionali programma Cloud Solution Provider](regional-authorization-overview.md).
 
@@ -38,6 +38,7 @@ Se non sei sicuro che le aree geografiche e mercati puoi vendere, trovare la pos
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>America del Nord, America centrale, America del Sud e Caraibi
 
 - Samoa americane: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
+
 - Anguilla: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Antartide: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Antigua e Barbuda: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
@@ -178,8 +179,8 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 -->
 
 ## <a name="middle-east-and-africa"></a>Medio Oriente e Africa
-- Algeria: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [francese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf), [arabo](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
-
+- Algeria: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [francese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf), [arabo](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
+ 
 - Angola: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [portoghese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_PTE_Sep20172_CR.pdf)     
 - Bahrein: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [arabo](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - Benin: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
@@ -208,7 +209,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - Israele: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)  
 - Giordania: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [arabo](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - Kenya: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)     
-- Kosovo: [English](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
+- Kosovo: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
 - Kuwait: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [arabo](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - Libano: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [arabo](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - Lesoto: [inglese](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf) 

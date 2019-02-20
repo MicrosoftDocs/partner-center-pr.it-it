@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guide al programma CSP, guida al programma, contratti partner, contratto cliente, listini prezzi, offerte
 ms.localizationpriority: medium
-ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
-ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
+ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079730"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083144"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guida al programma cloud Solution Provider, ai contratti, listini prezzi e offerte
 
@@ -27,13 +27,12 @@ Esamina le informazioni contenute in questo articolo per informazioni sui requis
 
 ## <a name="cloud-solution-provider-program-guide"></a>Guida al programma Cloud Solution Provider
 
-
 Esamina i requisiti per diventare un partner nel programma Cloud Solution Provider.
 
 [Guida al programma per i partner Cloud Solution Provider](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->Se è necessaria una lettera di stato della certificazione o la conferma, puoi richiedere contattando il [supporto](https://partner.microsoft.com/pcv/servicerequests/create).
+>Se è necessaria una lettera di business confermare o certificare lo stato di un partner Microsoft approvato nel programma Cloud Solution Provider, [contatta il supporto tecnico](https://partner.microsoft.com/pcv/servicerequests/create) alla richiesta di uno.
 
 ## <a name="cloud-solution-provider-partner-agreement"></a>Cloud Solution Provider - Contratto per i partner
 
@@ -42,8 +41,6 @@ Microsoft richiede ai partner di sottoscrivere questo contratto per partecipare 
 [Contratto per i rivenditori Microsoft Cloud - America del Nord, America centrale, America del Sud e Caraibi](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
 [Contratto per i rivenditori Microsoft Cloud - Asia, Australia e Pacifico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
-
-
 
 [Contratto per i rivenditori Microsoft Cloud - Europa, Medio Oriente e Africa](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -55,13 +52,12 @@ Microsoft richiede ai partner di sottoscrivere questo contratto per partecipare 
 
 [Contratto per i rivenditori Microsoft Cloud - Microsoft Cloud per il governo statunitense](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
+## <a name="microsoft-cloud-agreement-customer-templates"></a>Modelli di contratto Microsoft Cloud per i clienti
 
-## <a name="microsoft-cloud-agreement-templates"></a>Modelli di contratto Microsoft Cloud
+Prima di poter effettuare un ordine per conto del cliente, il cliente deve accettare e firmare il contratto Microsoft Cloud applicabile. Contratti Cloud Microsoft sono disponibili in più lingue e area geografica specifica. Vai a Microsoft Cloud per [i modelli dei clienti](agreements.md) per trovare il contratto Microsoft Cloud, dovrai esaminare con i nuovi clienti.
 
-In qualità di partner nel programma CSP, hai la responsabilità di esaminare insieme ai tuoi clienti i termini e le condizioni di Microsoft, incluso l'uso accettabile dei prodotti e dei servizi Microsoft. Vai a Microsoft Cloud per [i modelli dei clienti](agreements.md) per trovare il contratto Microsoft Cloud, dovrai esaminare con i nuovi clienti. 
-
-
-
+>[!IMPORTANT]
+>È necessario verificare che un cliente ha accettato il contratto Microsoft Cloud, fornendo informazioni sulla persona che ha firmato. Per ulteriori informazioni, vedere la [conferma di accettazione cliente il contratto Microsoft Cloud domande frequenti](confirm-consent-faq.md) e [Conferma l'accettazione del cliente il contratto Microsoft Cloud](confirm-consent.md) .
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Amendment segreto per il contratto Microsoft Cloud (Germania)
 

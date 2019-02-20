@@ -6,12 +6,12 @@ description: Utilizza queste domande frequenti per ottenere ulteriori informazio
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e51866d5207335ed9391fea08b1f5df2780b05c4
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 8da6afb92a42f04463a34ecb3506fcf9146e15cd
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797184"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083214"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Domande frequenti per il centro per i Partner per Microsoft Cloud per il governo statunitense
 
@@ -24,9 +24,10 @@ ms.locfileid: "5797184"
 Utilizza queste domande frequenti per ottenere ulteriori informazioni sul programma Cloud Solution Provider (CSP) per Microsoft Cloud for US Government. Per ulteriori informazioni, puoi inoltre contattare il tuo account manager. 
 
 ### <a name="common"></a>Comune
+
 **Cos'è Microsoft Cloud per il governo statunitense?**
 
-Progettato per il governo statunitense dalla base pensando, Microsoft Cloud per il governo statunitense consente ai clienti del settore pubblico negli Stati Uniti, dalle grandi agenzie federali ai piccoli enti municipali, ovvero per selezionare da un intervallo di cloud computing servizi. Per rispondere in modo ottimale alle esigenze specifiche dei clienti, Microsoft ha notevolmente investito nei data center ed è dedicata al rispetto della conformità ai criteri, obblighi e requisiti nazionali e federali statunitensi. 
+Progettato per il governo statunitense dalla base pensando, Microsoft Cloud per il governo statunitense consente ai clienti del settore pubblico negli Stati Uniti, dalle grandi agenzie federali ai piccoli enti municipali, di selezionare da un intervallo di cloud computing servizi. Per rispondere in modo ottimale alle esigenze specifiche dei clienti, Microsoft ha notevolmente investito nei data center ed è dedicata al rispetto della conformità ai criteri, obblighi e requisiti nazionali e federali statunitensi. 
 
 **Chi è idoneo al programma CSP per Microsoft Cloud per il governo statunitense?**
 
@@ -48,7 +49,7 @@ Il programma CSP per il cloud Microsoft per enti pubblici è diverso da CSP Comm
 
 -   Onboarding: i partner devono eseguire l'onboarding al programma CSP per Microsoft Cloud per il governo statunitense separatamente da CSP Commercial.
 
--   La disponibilità dei prodotti: sia Azure per enti pubblici e i servizi basati su postazioni come Office 365, Enterprise Mobility + Security e Dynamics 365 sono disponibili nel programma CSP per Microsoft Government Cloud. 
+-   La disponibilità dei prodotti: sia Azure per enti pubblici e servizi basati su postazioni come Office 365, Enterprise Mobility + Security e Dynamics 365 sono disponibili nel programma CSP per Microsoft Cloud per enti pubblici. 
 
 -   Contratti: il Contratto per i rivenditori Microsoft Cloud (MCRA, Microsoft Cloud Reseller Agreement) è stato aggiornato e ora include le condizioni specifiche per gli enti pubblici.
 
@@ -68,9 +69,9 @@ Il contratto MCRA per Microsoft Cloud per il governo statunitense è diverso dal
 
 -   L'Addendum relativo al cloud per il governo statunitense contiene una responsabilità aggiuntiva dei partner relativamente alle transazioni di servizi cloud per il governo statunitense.
 
--   L'Allegato A contiene il Contratto Microsoft Cloud (MCA) che deve essere incorporato in ogni contratto per i servizi cloud per il governo statunitense stipulato tra il CSP e il cliente.
+-   L'allegato A contiene il contratto di Microsoft Cloud (il contratto Microsoft Cloud) che deve essere incorporato in ogni contratto per i servizi governo stipulato tra il CSP e il cliente.
 
-*Contratto Microsoft Cloud (MCA) presentato come Allegato A nel contratto MCRA*
+*Contratto Microsoft Cloud (il contratto Microsoft Cloud) presentato come allegato A nel contratto MCRA*
 
 I CSP sono tenuti a incorporare l'Allegato A nel contratto con un ente pubblico che viene stipulato tra i CSP e i clienti che acquistano Microsoft Cloud per il governo statunitense. Il contratto è pubblicato nel Centro per i partner ed è disponibile in lingua inglese.
 
@@ -78,7 +79,7 @@ Il Contratto Microsoft Cloud per il cloud per il governo statunitense è diverso
 
 -   Deve essere incorporato nel contratto del CSP con il cliente.
 
--   È stata espressamente per soddisfare le leggi e normative federali, statali e locali.
+-   È stato espressamente per soddisfare le leggi e normative federali, statali e locali.
 
 *Contratto per i distributori Microsoft Cloud (MCDA)*
 
@@ -88,7 +89,7 @@ Il contratto MCDA per Microsoft Cloud per il governo statunitense è diverso dal
 
 -   L'Addendum relativo a Microsoft Cloud per il governo statunitense contiene una responsabilità aggiuntiva dei partner relativamente alle transazioni di servizi cloud per il governo statunitense.
 
--   L'Allegato A contiene il Contratto Microsoft Cloud (MCA) che deve essere incorporato in ogni contratto per i servizi cloud per il governo statunitense stipulato tra il CSP e i clienti.
+-   L'allegato A contiene contratto Microsoft Cloud (il contratto Microsoft Cloud) che deve essere incorporato in ogni contratto per i servizi governo stipulato tra il CSP e i suoi clienti.
 
 **Quali sono i requisiti per la vendita di Microsoft Cloud per il governo statunitense?**
 
@@ -119,7 +120,7 @@ Il cloud Azure per enti pubblici offre una piattaforma cloud basata sui principi
 
 **Il programma CSP per Microsoft Cloud per il governo statunitense offre tutti i servizi Azure?**
 
-Al momento sono disponibili Infrastructure as a service (IaaS) e le offerte di base relative alla piattaforma e ai dati. Il piano viene aggiornato regolarmente e forniamo documentazione simile a quella fornita per CSP Commercial nel centro per i Partner (autenticazione richiesta). Qui puoi vedere i servizi di Azure per enti pubblici attualmente disponibili, ma tieni presente che alcuni servizi, ad esempio i servizi di calcolo classico, rete, archiviazione e cloud, non sono stati progettati per CSP e non funzionano in questo programma.
+Al momento sono disponibili Infrastructure as a service (IaaS) e le offerte di base relative alla piattaforma e ai dati. Il piano viene aggiornato regolarmente e forniamo documentazione simile a quelli per CSP Commercial nel centro per i Partner (autenticazione richiesta). Qui puoi vedere i servizi di Azure per enti pubblici attualmente disponibili, ma tieni presente che alcuni servizi, ad esempio i servizi di calcolo classico, rete, archiviazione e cloud, non sono stati progettati per CSP e non funzionano in questo programma.
 
 **Cosa devo fare per sviluppare con il programma CSP per Microsoft Cloud per il governo statunitense?**
 
@@ -130,7 +131,7 @@ Per altre informazioni sullo sviluppo con il Centro per i partner per Microsoft 
 I requisiti relativi alle API e di integrazione per il programma CSP per Microsoft Cloud per il governo statunitense sono identici a quelli per CSP Commercial. Per altre informazioni sugli endpoint in Microsoft Cloud per il governo statunitense, vedi [URL REST Centro per i partner](https://msdn.microsoft.com/library/partnercenter/mt490977.aspx).
 
 >[!NOTE]
->Le API CREST non saranno disponibili per il programma CSP per Microsoft Cloud per il governo statunitense. Queste API sono in fase di eliminazione in CSP e pertanto non sono disponibili per Microsoft Cloud per il governo statunitense. Per soddisfare i requisiti normativi e di conformità, le API seguenti non saranno disponibili nel programma CSP per Microsoft Cloud per il governo statunitense.
+>Le API CREST non sarà disponibile per il programma CSP per Microsoft Cloud per il governo statunitense. Queste API sono in fase di eliminazione in CSP e pertanto non sono disponibili per Microsoft Cloud per il governo statunitense. Per soddisfare i requisiti normativi e di conformità, le API seguenti non saranno disponibili nel programma CSP per Microsoft Cloud per il governo statunitense.
 
 **Gestione account utente** 
 

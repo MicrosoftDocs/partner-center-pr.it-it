@@ -2,17 +2,17 @@
 title: Personalizzare l'esperienza out-of-box di un dispositivo con i profili di Windows Autopilot | Centro per i partner
 description: Preconfigurare esperienza out-of-box di un dispositivo con i profili Autopilot.
 ms.topic: article
-ms.date: 2/6/19
+ms.date: 02/06/19
 author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, autopilot windows, autopilot microsoft, distribuzione automatica, configurazione guidata, schermate di accesso, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 62e83c63bb10c041549f5a09bc32bdae979d462d
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: d563ad09d1fa3b67b01835480a348a524455efbc
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062279"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083404"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a><span data-ttu-id="009f3-104">Personalizzare l'esperienza out-of-box di un dispositivo con i profili di Windows Autopilot</span><span class="sxs-lookup"><span data-stu-id="009f3-104">Customize a device's out-of-box experience with Windows Autopilot profiles</span></span>
 

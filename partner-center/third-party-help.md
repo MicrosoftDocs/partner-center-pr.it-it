@@ -7,16 +7,16 @@ author: labrenne
 ms.author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
 ms.localizationpriority: medium
-ms.openlocfilehash: 07009b774d0cbd8e8a5a857fd23ad7bad1bd83f1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4ae09cf4edc73eb57e729e7937dde5d1e07b2db5
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797044"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083394"
 ---
-# <a name="add-third-party-software-to-your-portfolio"></a>Aggiungere il software di terze parti al tuo portafoglio
+# <a name="purchase-third-party-software-for-your-customers"></a>Acquistare software di terze parti per i clienti
 
-**Ambito di applicazione** 
+**Si applica a** 
 
 - Centro per i partner
 
@@ -51,7 +51,7 @@ Se sei interessato ad acquistare, ma hai altre domande o vuoi parlare con l'ISV,
 
 L'acquisto di software di terze parti viene eseguito come l'acquisto di software di prima entità. 
 
-1.  Nel **Centro per i Partner**, seleziona **i clienti**.
+1.  Il **Centro per i Partner**, seleziona **i clienti**.
 2.  Seleziona **Nuova sottoscrizione**.
 3.  Seleziona la fatturazione mensile per il software di terze parti. La fatturazione annuale e le versioni di prova non sono attualmente disponibili per le terze parti.
 4.  Nella scheda **Terze parti** seleziona il prodotto che vuoi acquistare.

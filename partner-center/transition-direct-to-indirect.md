@@ -7,24 +7,24 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: addebito diretto, rivenditore indiretto la transizione
-ms.openlocfilehash: 8a114829c5460bf169938e69de65a69996dc4010
-ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
+ms.openlocfilehash: b8e7f4f13f3c3ef3bf0525f22ea74f80df8ed0d7
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "9024913"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083374"
 ---
-## <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da Cloud Solution Provider (CSP) diretta per i partner fatturazione rivenditore indiretto CSP 
-
 **Si applica a:**
  - Partner CSP
+
+# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto 
 
 >[!Note] 
 >Questo articolo è progettato per i partner di addebito diretto che hanno deciso di eseguire la transizione a rivenditori indiretti. 
 
 Sarai in grado di iscriversi al programma come rivenditore indiretto usando il tenant esistenti di addebito diretto. 
 
-## <a name="get-started"></a>Inizia
+## <a name="get-started"></a>Informazioni di base
 
 1. Assicurati che il profilo del partner nel centro per i Partner e ID MPN siano aggiornati.
 

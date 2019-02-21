@@ -4,18 +4,13 @@ hide_bc: true
 title: Inizia da qui per ottenere assistenza con il centro per i Partner
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: Centro per i partner possono aiutarti a incrementare le tue attività nel programma Microsoft Cloud Solution Provider (CSP). Impostare l'account, entrare in contatto con i clienti, acquistare una sottoscrizione di Action Pack e trovare altre informazioni per i partner nei programmi CSP e MPN. 
+description: "Centro per i partner possono aiutarti a incrementare le tue attività nel programma Microsoft Cloud Solution Provider (CSP). Impostare l'account, entrare in contatto con i clienti, acquistare una sottoscrizione di Action Pack e trovare altre informazioni per i partner nei programmi CSP e MPN.\_"
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
-ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
-ms.translationtype: MT
-ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066051"
 ---
+
 # <a name="welcome-to-partner-center"></a>Benvenuto nel centro per i Partner
 
 Microsoft Partner Center è il punto di partenza importante per la gestione la relazione end-to-end con Microsoft. Include gli strumenti e risorse che consentono di eseguire transazioni e incrementare le tue attività, tra cui opzioni di adesione, segnalazioni di clienti e il programma Cloud Solution Provider (CSP). Ottenere informazioni sulle procedure consigliate per la gestione dell'account, collegarti ai clienti o acquistare una sottoscrizione di Action Pack e registrazione in un programma di incentivi nel centro per i Partner di raccolta di Guide.
@@ -28,7 +23,7 @@ Microsoft Partner Center è il punto di partenza importante per la gestione la r
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/message-icon.png" data-linktype="external">
+                            <img alt="Message icon" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -46,7 +41,7 @@ Microsoft Partner Center è il punto di partenza importante per la gestione la r
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/yammer-logo.png" data-linktype="external">
+                            <img alt="Yammer logo" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -64,7 +59,7 @@ Microsoft Partner Center è il punto di partenza importante per la gestione la r
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/i_api.png" data-linktype="external">
+                            <img alt="API icon" src="images/i_api.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -129,7 +124,7 @@ Microsoft Partner Center è il punto di partenza importante per la gestione la r
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -146,7 +141,7 @@ Microsoft Partner Center è il punto di partenza importante per la gestione la r
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                            <img alt="Connection icon" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -163,7 +158,7 @@ Microsoft Partner Center è il punto di partenza importante per la gestione la r
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                            <img alt="Scenario icon" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -186,7 +181,7 @@ Microsoft Partner Center è il punto di partenza importante per la gestione la r
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -202,7 +197,7 @@ Microsoft Partner Center è il punto di partenza importante per la gestione la r
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
+                            <img alt="API icon" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
                         </div>
                     </div>                
                     <div class="cardText">
@@ -218,7 +213,7 @@ Microsoft Partner Center è il punto di partenza importante per la gestione la r
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
+                            <img alt="Benefits icon" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">

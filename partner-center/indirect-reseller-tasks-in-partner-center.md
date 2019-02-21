@@ -9,16 +9,16 @@ ms.author: evansma
 keywords: rivenditori indiretti, rivenditori, provider indiretti, provider, relazione, VAR, livello2, livello 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cc76d93cb0cdc581943e1785967c7b489bdd5ef9
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: f544b5d97cf1f828a4f7dbdddd1cb1947ab28f34
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995995"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086749"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Collaborare con i provider indiretti nel programma Cloud Solution Provider
 
-La domanda in rapida crescita di soluzioni e servizi basati sul cloud offre ai partner Microsoft di tutte le dimensioni numerose opportunità per sviluppare attività redditizie basate sulle soluzioni cloud. I partner che sono pronti a entrare nel mercato, ma che non desiderano gestire più fornitori o potrebbero non avere predisposto un'infrastruttura di gestione delle relazioni con i clienti (CRM, Customer Relationship Management) end-to-end, possono iscriversi al programma Cloud Solution Provider di Microsoft in qualità di rivenditori indiretti.
+La domanda in rapida crescita di soluzioni e servizi basati sul cloud offre ai partner Microsoft di tutte le dimensioni numerose opportunità per sviluppare attività redditizie basate sulle soluzioni cloud. I partner che sono pronti a entrare egli mercato, ma che non desiderano gestire più fornitori o potrebbero non avere un'infrastruttura di gestione dei clienti end-to-end relazione predisposto, possono iscriversi al programma Cloud Solution Provider (CSP) di Microsoft come indiretto rivenditori.
 
 I rivenditori indiretti in CSP collaborano con i provider indiretti (anche noti come distributori) che hanno una relazione diretta con Microsoft e possono fornire supporto e fatturazione ai clienti. Ciò significa che non dovrai iniziare da solo, ma potrai collaborare con un provider di tecnologia esperto che ti aiuterà a raggiungere il successo. Nel modello provider-rivenditore (a due livelli), il provider acquista da Microsoft soluzioni e servizi cloud che tu rivenderai ai clienti.
 

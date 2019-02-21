@@ -8,12 +8,12 @@ ms.author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: cfc9dd5592b9b4da631f316f8b5d56ee965e6e51
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4cd56641a44cab84796ae051584e1e1cca63d3ff
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796164"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086719"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notifica di Centro per i partner per attività di cryptomining
 
@@ -22,9 +22,9 @@ ms.locfileid: "5796164"
 -  Centro per i partner
 -  Partner CSP
 
-Potresti aver ricevuto la seguente notifica Centro per i Partner sul mining di criptovaluta:
+Potresti aver ricevuto la notifica seguente Centro per i Partner sul mining di criptovaluta:
  
-![](images/crypto1.png)
+![Immagine della notifica di sicurezza nel centro per i Partner](images/crypto1.png)
 
 Lo scopo di questa notifica è informarti che abbiamo rilevato attività di mining di criptovaluta su una o più delle tue sottoscrizioni di Azure la scorsa settimana. Il mining di criptovaluta non equivale necessariamente a un'attività fraudolenta. Tuttavia, è insolito perché il costo del mining di criptovaluta in Azure tende a essere superiore a qualsiasi potenziale riconoscimento finanziario. Per evitare frodi finanziarie che potrebbero avere un impatto sul cliente, prendi in considerazione le seguenti operazioni:
 
@@ -37,7 +37,7 @@ Lo scopo di questa notifica è informarti che abbiamo rilevato attività di mini
 Se l'attività è prevista, torna alla pagina dei dettagli della sottoscrizione di Azure del cliente e verifica che il mining di criptovaluta sia legittimo. 
 
 
-![](images/crypto2.png)
+![Immagine della pagina dei dettagli di sottoscrizione di Azure del cliente](images/crypto2.png)
 
 Se l'attività è imprevista, prendi in considerazione quanto segue:
 

@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bf0145b9e82d14d51486f7063329b971451c2fcd
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 58c11c47a5d3e069fcbcea1a234cf6cf548a8006
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995805"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098808"
 ---
 # <a name="tax-and-tax-exemptions"></a>Imposte ed esenzioni fiscali
 
@@ -48,7 +48,7 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 </tr>
 <tr class="even">
 <td>Unione europea</td>
-<td><p>Negli stati membri dell'Unione europea i partner devono fornire il numero di partita IVA valido per l'inversione contabile e la fatturazione appropriata. Il numero di partita IVA deve essere <a href="http://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](http://go.microsoft.com/fwlink/p/?LinkId=808160)">accettato come valido</a>.</p>
+<td><p>Negli stati membri dell'Unione europea i partner devono fornire il numero di partita IVA valido per l'inversione contabile e la fatturazione appropriata. Il numero di partita IVA deve essere <a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">accettato come valido</a>.</p>
 <p>Microsoft non supporta crediti e rifatturazione, quindi prima di vendere qualsiasi sottoscrizione devi registrare il tuo numero di partita IVA nel Centro per i partner.</p>
 <p>Inviare il tuo numero di partita IVA a Microsoft</strong></p>
 <ol>

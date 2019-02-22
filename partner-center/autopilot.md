@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, autopilot windows, autopilot microsoft, distribuzione automatica, configurazione guidata, schermate di accesso, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: d563ad09d1fa3b67b01835480a348a524455efbc
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 46b8a74383585c630864079efa42b6e34412b91e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083404"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098828"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizzare l'esperienza out-of-box di un dispositivo con i profili di Windows Autopilot
 
@@ -25,7 +25,7 @@ Se si gestiscono i dispositivi dei clienti, devi personalizzare l'esperienza di 
 Se non sei già familiarità con Autopilot, controlla le informazioni in questi articoli:
 
 - [Panoramica di Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
-- [Guida di riferimento di distribuzione AutoPilot](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
+- [Guida di riferimento di distribuzione AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Panoramica
 

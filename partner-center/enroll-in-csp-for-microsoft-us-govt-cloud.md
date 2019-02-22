@@ -6,18 +6,18 @@ description: Prima di iscriverti al programma Cloud Solution Provider per Micros
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 557eaa97a65acb7fff2698625acb95ab5c3717f6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9e6aa5187dc52ddd753681a4e14bbaec32ce2420
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796334"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098818"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Iscriversi al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense
 
 **Si applica a**
 
--  Centro per i partner per Microsoft Cloud per il governo statunitense
+-  Centro per i partner per Microsoft Cloud for US Government
 
 I partner Microsoft possono ora vendere soluzioni e servizi cloud Microsoft a persone giuridiche tribali, locali, statali e federali degli Stati Uniti tramite il programma Cloud Solution Provider (CSP) di Microsoft Cloud per il governo statunitense. 
 
@@ -25,7 +25,7 @@ Microsoft Cloud per il governo statunitense fornisce un'istanza privata, dedicat
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
-Prima di poter effettuare la registrazione per il programma CSP per Microsoft Cloud per il governo statunitense, è necessario verificare che l'azienda soddisfi i requisiti per la vendita agli enti pubblici degli Stati Uniti. Prima di avviare il processo di registrazione, completa il [modulo di convalida per Microsoft Government Cloud](http://azuregov.microsoft.com/csp) per consentire a Microsoft di verificare l'idoneità dell'azienda. Dopo la verifica dell'idoneità dell'azienda, verrà fornito un tenant di Azure Active Directory (Azure AD) specifico di Microsoft Cloud per il governo statunitense.  
+Prima di poter effettuare la registrazione per il programma CSP per Microsoft Cloud per il governo statunitense, è necessario verificare che l'azienda soddisfi i requisiti per la vendita agli enti pubblici degli Stati Uniti. Prima di avviare il processo di registrazione, completa il [modulo di convalida per Microsoft Government Cloud](https://azuregov.microsoft.com/csp) per consentire a Microsoft di verificare l'idoneità dell'azienda. Dopo la verifica dell'idoneità dell'azienda, verrà fornito un tenant di Azure Active Directory (Azure AD) specifico di Microsoft Cloud per il governo statunitense.  
 
 Per creare un account del Centro per i partner e iscriverti al CSP per Microsoft Cloud per il governo statunitense, dovrai fornire le informazioni seguenti (ti consigliamo di raccogliere queste informazioni prima di iniziare il processo di registrazione):
 
@@ -42,7 +42,7 @@ Per creare un account del Centro per i partner e iscriverti al CSP per Microsoft
 
 1.  Avvia il processo di registrazione [qui](https://partnercenter.microsoft.com/register/resellerusgjoinnow). 
 
-2.  Accedi con le credenziali di amministratore globale per il tenant di Azure AD per Microsoft Cloud per il governo statunitense. Se l'organizzazione non ha un account per questo portale, puoi richiederne uno completando il [modulo di convalida per Microsoft Government Cloud](http://azuregov.microsoft.com/csp).
+2.  Accedi con le credenziali di amministratore globale per il tenant di Azure AD per Microsoft Cloud per il governo statunitense. Se l'organizzazione non ha un account per questo portale, puoi richiederne uno completando il [modulo di convalida per Microsoft Government Cloud](https://azuregov.microsoft.com/csp).
 
 
 ### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Passaggio 2: richiedere di partecipare al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense

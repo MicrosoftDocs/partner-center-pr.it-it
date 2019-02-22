@@ -7,12 +7,12 @@ ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c7315e875af8c161e725f5eebba1cb2517490795
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fb0dcdf12a59842ebf1400f4a5e917ad64fbb14f
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796954"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098728"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>Ottenere notifiche automatizzate per i servizi con le API Microsoft
 
@@ -24,9 +24,9 @@ Office 365 e Microsoft Azure forniscono un'API che i partner possono usare per r
 
 Queste API sono disponibili per i tuoi sviluppatori:
 
-[API per le comunicazioni di servizio di Office 365](http://go.microsoft.com/fwlink/p/?LinkId=616899)
+[API per le comunicazioni di servizio di Office 365](https://go.microsoft.com/fwlink/p/?LinkId=616899)
 
-API REST di Azure Application Insights: [codice](http://go.microsoft.com/fwlink/p/?LinkId=617299) e [Informazioni di riferimento sulle API](http://go.microsoft.com/fwlink/p/?LinkId=617300)
+API REST di Azure Application Insights: [codice](https://go.microsoft.com/fwlink/p/?LinkId=617299) e [Informazioni di riferimento sulle API](https://go.microsoft.com/fwlink/p/?LinkId=617300)
 
  
 

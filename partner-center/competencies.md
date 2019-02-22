@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: competenze, adesione silver, adesione gold, mpn, MAPS, idoneità, vantaggi, obiettivi di prestazioni, obiettivi di competenze
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 10b0b28e3df005df7503c410f98166bd166d9523
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 23abe1e491eab6eb4811bf7d87095b2a525e65bc
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062339"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098788"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -62,11 +62,11 @@ Per controllare l'avanzamento in una competenza, dal centro per i Partner Center
 
 ### <a href="" id="associating_achievements"></a>Fai in modo che i dipendenti si colleghino per completare gli obiettivi basati sulle competenze
 
-1.  Aggiungi gli account utente per i dipendenti nell'organizzazione. Dal [Centro per i Partner](http://partnercenter.microsoft.com), Vai a **Account settings gt _ Aggiungi utente**. (gli utenti PMC possono aggiungere più utenti alla volta selezionando **Aggiungi utenti che utilizzano dati PMC**).
+1.  Aggiungi gli account utente per i dipendenti nell'organizzazione. Dal [Centro per i Partner](https://partnercenter.microsoft.com), Vai a **Account settings gt _ Aggiungi utente**. (gli utenti PMC possono aggiungere più utenti alla volta selezionando **Aggiungi utenti che utilizzano dati PMC**).
 
     Dopo aver creato gli account utente, ti invieremo un nuovo nome utente e password e ti verrà richiesto di scaricare un file di registro che contenga informazioni per reimpostare il nome utente e password a seconda delle necessità. Puoi anche [configurare gli account utente in modo che possano reimpostare le password da soli](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 
-2. Chiedi ai dipendenti nell'organizzazione di accedere e associare il proprio account Microsoft (MSA) all'account utente. (Dal [Centro per i Partner](http://partnercenter.microsoft.com), Vai a **Impostazioni Account**). I dipendenti possono usare gli stessi o differenti account MSA per associarli agli esami tecnici e le certificazioni loro account mediante Microsoft Partner University.
+2. Chiedi ai dipendenti nell'organizzazione di accedere e associare il proprio account Microsoft (MSA) all'account utente. (Dal [Centro per i Partner](https://partnercenter.microsoft.com), Vai a **Impostazioni Account**). I dipendenti possono usare gli stessi o differenti account MSA per associarli agli esami tecnici e le certificazioni loro account mediante Microsoft Partner University.
 
 3.  **Attendi 24 ore** dopo che un dipendente abbia associato il proprio account o completato un obiettivo basato sulle competenze. Dopo questo periodo, viene visualizzato l'avanzamento nella sezione **Competenze**.
 

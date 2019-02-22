@@ -6,12 +6,12 @@ description: Man mano che la tua attività cresce, puoi sviluppare e incrementar
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cc92120866502244f73efd8de6874b5d3d8428a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 69a94d5c4bfbfd704bad3189dd72410e5466eb70
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796944"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098708"
 ---
 # <a name="third-party-offers"></a>Offerte di terze parti 
 
@@ -23,11 +23,11 @@ Offerte di terze parti è una funzionalità di Centro per i Partner che fornisce
 
 Con Offerte di terze parti i partner CSP non solo possono acquistare soluzioni di prima parte o Microsoft, ma anche di terze parti o soluzioni per i Partner ISV... il tutto tramite una piattaforma di e-commerce singola e con un'unica fattura.  Man mano che la tua attività cresce, puoi sviluppare e incrementare il tuo portafoglio aggiungendo Offerte di terze parti nei tuoi pacchetti di prodotti. 
 
-Puoi trovare diversi tipi di offerte di terze parti nel centro per i Partner che funzionano con i prodotti Microsoft. I clienti trarre vantaggio da una maggiore scelta di soluzioni differenziate che vengono individuate, vendute e gestite facilmente in un'unica posizione da te, il loro partner Microsoft di fiducia. Centro per i partner facilita a individuare, transazione e la gestione dei servizi in modo che può fornire soluzioni e vantaggi più rapidamente.
+È possibile trovare i diversi tipi di offerte di terze parti nel centro per i Partner che funzionano con i prodotti Microsoft. I clienti trarre vantaggio da una maggiore scelta di soluzioni differenziate che vengono individuate, vendute e gestite facilmente in un'unica posizione da te, il loro partner Microsoft di fiducia. Centro per i partner facilita a individuare, transazione e la gestione dei servizi in modo che può fornire soluzioni e vantaggi più rapidamente.
 
 ## <a name="microsoft-partners-in-the-cloud-solution-provider-program"></a>Partner Microsoft partecipanti al programma Cloud Solution Provider
 
-Offerte di terze parti sono ideate per essere di facile gestione e transazione. Per garantire la migliore esperienza per te e con i clienti, ti consigliamo di usare l'elenco di controllo riportato di seguito per iniziare con offerte di terze parti:
+Offerte di terze parti sono ideate per essere di facile gestione e transazione. Per garantire la migliore esperienza per te e con i clienti, ti consigliamo di usare l'elenco di controllo che segue per iniziare a utilizzare offerte di terze parti:
 
 1. Esaminare tutti i materiali indicati sotto, a partire dall'onboarding Webinar e dalle domande frequenti
 2. Acquisire familiarità con le offerte di terze parti nel catalogo del centro per i Partner
@@ -42,9 +42,9 @@ Offerte di terze parti sono ideate per essere di facile gestione e transazione. 
 
 |**A tale scopo:**   |**Leggi**   |
 |------------------|:--------------------|
-|Ottenere una panoramica del programma di terze parti per CSP  |[Panoramica degli asset di terze parti]( http://assetsprod.microsoft.com/mpn/third-party-offers-overview.pptx)|
+|Ottenere una panoramica del programma di terze parti per CSP  |[Panoramica degli asset di terze parti](https://assetsprod.microsoft.com/mpn/third-party-offers-overview.pptx)|
 |Cercare prodotti di terze parti, connettersi con gli ISV, comprendere le transazioni e la fatturazione e altro ancora| [Informazioni su Offerte di terze parti nel Centro per i partner](third-party-help.md) |
-|Ricevere la risposta alle tue domande| [Domande frequenti su Offerte di terze parti](http://assetsprod.microsoft.com/mpn/third-party-offers-faq.docx) |
-|Guardare un video sulle offerte di terze parti (10 minuti, 16 secondi)   |[Demo su Offerte di terze parti](http://assetsprod.microsoft.com/mpn/third-party-offers-demo.wma)|
+|Ricevere la risposta alle tue domande| [Domande frequenti su Offerte di terze parti](https://assetsprod.microsoft.com/mpn/third-party-offers-faq.docx) |
+|Guardare un video sulle offerte di terze parti (10 minuti, 16 secondi)   |[Demo su Offerte di terze parti](https://assetsprod.microsoft.com/mpn/third-party-offers-demo.wma)|
 
 

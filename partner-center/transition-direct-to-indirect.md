@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: addebito diretto, rivenditore indiretto la transizione
-ms.openlocfilehash: b8e7f4f13f3c3ef3bf0525f22ea74f80df8ed0d7
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 54fa20acfd84cf1a2fadba9aa323b94d3ab356a3
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083374"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098798"
 ---
 **Si applica a:**
  - Partner CSP
@@ -157,4 +157,4 @@ Dopo aver correttamente iscritto come rivenditore indiretto nel tuo tenant addeb
 
 Anche sono idonei per la registrazione per i programmi di incentivi addebito diretto con tale stesso tenant per i partner. È necessario gestire i programmi separatamente.
 
-Vedi anche [altre informazioni su come diventare un rivenditore indiretto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e la [addebito diretto, rivenditore indiretto domande frequenti su](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+Vedi anche [altre informazioni su come diventare un rivenditore indiretto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e la [addebito diretto, rivenditore indiretto domande frequenti su](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

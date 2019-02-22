@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: aggiungere licenze a una sottoscrizione esistente, aggiungere postazioni a una sottoscrizione esistente, modificare una sottoscrizione, cambiare una sottoscrizione, acquistare ulteriori licenze per un cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e16cbd466ccb8f46982ef8c7e38f644737afcdd
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795974"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098778"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Aggiungere licenze o servizi a una sottoscrizione esistente
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795974"
 
 -  Centro per i partner
 
-Se il cliente necessita di più postazioni rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione. Per altri dettagli, vedi [Passare a un piano di Office 365 per le aziende diverso](http://go.microsoft.com/fwlink/p/?LinkId=723577).
+Se il cliente necessita di più postazioni rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione. Per altri dettagli, vedi [Passare a un piano di Office 365 per le aziende diverso](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -93,7 +93,7 @@ Per altre informazioni sull'impatto di queste operazioni sulla fatturazione, ved
 1.  Per verificare se una sottoscrizione è idonea per l'aggiornamento, scegli il cliente e quindi apri l'elenco delle sottoscrizioni.
 2.  Se la sottoscrizione può essere aggiornata, vedrai un'icona delle informazioni subito dopo il nome della sottoscrizione. Passa il puntatore su questa icona e quindi seleziona **Aggiorna ora**.
 3.  Seleziona la nuova offerta e quindi scegli **Invia**.
-4.  Potrebbero essere necessarie altre operazioni per la transizione di alcuni account utente per determinati servizi. In caso affermativo, il centro per i Partner viene fornito un elenco degli account e dei servizi interessati. Per informazioni, vedi l'articolo della Knowledge Base relativo ai [problemi di riassegnazione delle licenze quando si modifica il piano di Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Potrebbero essere necessarie altre operazioni per la transizione di alcuni account utente per determinati servizi. In caso affermativo, il centro per i Partner viene fornito un elenco degli account e dei servizi interessati. Per informazioni, vedi l'articolo della Knowledge Base relativo ai [problemi di riassegnazione delle licenze quando si modifica il piano di Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

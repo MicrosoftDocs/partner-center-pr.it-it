@@ -6,12 +6,12 @@ description: Per i programmi di incentivi per la vendita OSA e l'uso di servizi 
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796184"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098718"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>I report di dati dinamici sostituiscono i report mensili per alcuni programmi di incentivi
 
@@ -35,7 +35,7 @@ Attualmente, ciò ha impatto sui programmi di incentivi per la vendita OSA e l'u
  
 ## <a name="start-using-the-new-reporting-functionality"></a>Inizia a usare le nuove funzionalità di creazione di report: 
 
-1. Scarica e consulta le risorse per la valutazione del livello di preparazione in MPN [Report di incentivi per i partner in Partner Incentives Experience](http://aka.ms/osareadiness ).
+1. Scarica e consulta le risorse per la valutazione del livello di preparazione in MPN [Report di incentivi per i partner in Partner Incentives Experience](https://aka.ms/osareadiness ).
 
 2. Vai a [PIE](https://partnerincentives.microsoft.com/)
 

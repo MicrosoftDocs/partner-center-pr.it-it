@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: CSP, partner diretto, addebito diretto, requisiti
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 80b3f5353c2fab8e0b4049c886407414eeba4771
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 9eaa4eae326bda4ed37fa750d588df961b573822
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083359"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098698"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Nuovi requisiti dei partner diretti in CSP
 
@@ -45,4 +45,4 @@ Valutazione del questionario determina l'idoneità per iscriversi al programma d
 
 Se decidi di passare da un'azienda di addebito diretto a business di rivenditore indiretto, esistono vari passaggi da eseguire. Per altre informazioni sulla transizione, leggere [transizione da Cloud Solution Provider (CSP) dei partner diretti rivenditore indiretto CSP](transition-direct-to-indirect.md). 
 
-Vedi anche [altre informazioni su come diventare un rivenditore indiretto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e la [addebito diretto, rivenditore indiretto domande frequenti su](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+Vedi anche [altre informazioni su come diventare un rivenditore indiretto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e la [addebito diretto, rivenditore indiretto domande frequenti su](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

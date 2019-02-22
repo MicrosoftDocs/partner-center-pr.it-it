@@ -7,12 +7,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: d252af955ea82d42ebd8196ad020088edee43dfb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795014"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098738"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendere in settori specifici
 
@@ -26,8 +26,8 @@ Microsoft offre prezzi ridotti speciali per gruppi selezionati di clienti, tra c
 
 |**Prezzi speciali**   |**Qualificazioni richieste al rivenditore**   |**Qualificazioni richieste al cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Formazione   |Diventare un [venditore autorizzato per il settore della formazione](https://www.mepn.com).   | Essere un [Qualified Education User](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Ente pubblico   |Per vendere Azure, iscriviti tramite il [modulo di convalida per Microsoft Azure Government Cloud](http://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenza a enti pubblici, non è richiesta alcuna qualificazione.|   Nessuna|
+|Formazione   |Diventare un [venditore autorizzato per il settore della formazione](https://www.mepn.com).   | Essere un [Qualified Education User](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Ente pubblico   |Per vendere Azure, iscriviti tramite il [modulo di convalida per Microsoft Azure Government Cloud](https://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenza a enti pubblici, non è richiesta alcuna qualificazione.|   Nessuna|
 |No profit  |Nessuna<br>Devi avere un tenant di Azure Active Directory no profit.<br>Scopri di più sulle [offerte speciali per le organizzazioni no profit](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf).   |Iscriviti tramite il [programma no profit Microsoft](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
 
 

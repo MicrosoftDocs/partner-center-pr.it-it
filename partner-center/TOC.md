@@ -15,12 +15,12 @@
 
 # [Cloud Solution Provider](csp-overview.md)
 ## [Iscriversi al programma Cloud Solution Provider](enrolling-in-the-csp-program.md)
-## [Nuovi requisiti dei partner diretti in CSP](direct-partner-new-requirements.md) 
+## [Nuovi requisiti dei partner diretti in CSP](direct-partner-new-requirements.md)
+## [Contratti Microsoft Cloud per area geografica e lingua](agreements.md)
 ##[Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto](transition-direct-to-indirect.md)
 ## [Contratti, listini prezzi e offerte per CSP](csp-documents-and-learning-resources.md)
 ## [Panoramica dell'autorizzazione regionale per CSP](regional-authorization-overview.md)
 ## [Consolidamento dei tenant per l'autorizzazione regionale per CSP](csp-regional-authorization-tenant-consolidation.md)
-## [Modelli di contratto per il cliente](agreements.md)
 
 ## [Richiesta per la vendita nei cloud nazionali](csp-national-clouds-overview.md)
 ### [Centro per i partner per Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: ruoli, autorizzazioni, amministratore, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: d811cb76b03b1784eaf926052e6a00151b2fc347
-ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
+ms.openlocfilehash: cc0e37601b16033bf31faaf5056ca0389d6f5cf6
+ms.sourcegitcommit: 7961476a8fed7cd56a09c6edc8dd1e2dd7f46465
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "9086729"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "9117214"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Assegnare autorizzazioni e ruoli utente
 
@@ -74,7 +74,7 @@ CPVs sviluppare App per l'uso da parte dei partner Cloud Solution Provider (CSP)
 
 |**Ruolo** | **Cosa puoi fare**|
 |----------------------------|:----------------------------|
-|Amministratore MPN|•CAN aggiungere gli utenti non tenant
+|Amministratore dei partner MPN|•CAN aggiungere gli utenti non tenant
 ||• Visualizzazione, creazione e gestione delle richieste di servizio per i partner
 ||• Visualizzazione legali, l'organizzazione, le aziende e dei profili MPN
 ||• Visualizzare i dettagli utente e i relativi dati delle competenze
@@ -82,8 +82,9 @@ CPVs sviluppare App per l'uso da parte dei partner Cloud Solution Provider (CSP)
 ||• Consente di visualizzare e gestire i vantaggi
 ||Acquisto e la visualizzazione • alle offerte MPN
 ||• Visualizzazione MPN fatture e cronologia degli ordini di offerte
-||• Visualizzare i dati di contributo per i partner
+||Dati di contributo • visualizzazione per i partner
 ||• Possono utilizzare lo strumento di convalida giustificativo|
+||-Visualizzare analitica i dati dei clienti
 |Account amministratore| • Aggiungere gli utenti non tenant
 ||• Aggiungere o eliminare i percorsi
 ||-Gestire i profili correlati agli account che sei amministratore 

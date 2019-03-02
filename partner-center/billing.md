@@ -2,18 +2,18 @@
 title: Fatturazione | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
+Description: Come partner CSP (Cloud Solution Provider), pagherai Microsoft per le sottoscrizioni in base alla licenza e in base all'uso dei tuoi clienti in via posticipata, dopo 60 giorni.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: medium
-ms.openlocfilehash: b8041b6fb5ae913786bf7e755d11e727e636f518
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 1d742b014e531539eaf89cffcbbe08b0232a2161
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683450"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122178"
 ---
 # <a name="billing"></a>Fatturazione
 
@@ -23,7 +23,7 @@ ms.locfileid: "8683450"
 -  Centro per i partner per Microsoft Cloud per il governo statunitense
  
  
-Per la fattura, Vai al menu del **Centro per i Partner** e quindi seleziona **la fatturazione** per visualizzare la cronologia di fatturazione e tendenze, i link la fattura e il file di riconciliazione e il pagamento più recente.
+Per la fattura, Vai al menu del **Centro per i Partner** e quindi seleziona **la fatturazione** per visualizzare la cronologia di fatturazione e tendenze, i collegamenti per la fattura e il file di riconciliazione e il pagamento più recente.
 
 I partner del programma Cloud Solution Provider che scelgono la fatturazione mensile pagheranno Microsoft per gli abbonamenti dei clienti (sia in base a licenza che in base all'uso) in via posticipata, dopo 60 giorni.
 
@@ -42,6 +42,7 @@ Informazioni fondamentali da conoscere sulla fatturazione ai clienti:
 |:-----------------------------|:-----------------|
 |Concetti di base di fatturazione, pagamenti, fatture e altro   |[Nozioni di base sulla fatturazione](billing-basics.md)
 |Molte nuove funzionalità di fatturazione, ad esempio la fatturazione annuale   |[Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md)|
+|Tipi di fatturazione   |[Informazioni sui tipi di fatturazione nel centro per i Partner](billing-different-types.md)   |
 |La chiave di lettura della fattura   |[Leggere la fattura](read-your-bill.md)   |
 |Come leggere e utilizzare il file di riconciliazione   |[Usare i file di riconciliazione](use-the-reconciliation-files.md)|
 |Scenari di fatturazione comuni (altri scenari di fatturazione sono disponibili in [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md))|[Scenari di fatturazione comuni](common-billing-scenarios.md)|

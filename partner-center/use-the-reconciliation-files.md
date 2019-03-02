@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 081afc547a0ff86010e06fcb5224a615a0075e34
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062379"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122278"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -464,34 +464,428 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tbody>
 </table>
 
-## <a href="" id="onetimefiles"></a>Campi dei file acquisto una tantum
+## <a href="" id="marketplacefilefields"></a>Campi dei file temporanei e ricorrenti
 
-|**Campo** |**Definizione**|
-|:----------------|:-----------------------------|
-|PartnerId |ID del partner, in formato GUID. |
-|CustomerId |ID Microsoft univoco, in formato GUID, usato per identificare il cliente. |
-|CustomerName |Nome dell'organizzazione del cliente registrato nel Centro per i partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema. |
-|CustomerDomainName |Nome di dominio del cliente. |
-|CustomerCountry |Paese in cui si trova il cliente. |
-|InvoiceNumber |Numero di fattura in cui viene visualizzata la transazione specificata. |
-|MpnId |ID MPN del partner CSP (diretto o indiretto). |
-|ID MPN rivenditore |Viene visualizzato solo nei file di riconciliazione per i partner nel modello indiretto. ID MPN del rivenditore nel record per la prenotazione. Corrisponde all'ID rivenditore elencato per la prenotazione specifica nel Centro per i partner. Se un partner CSP ha venduto la prenotazione direttamente al cliente, il relativo ID MPN è elencato due volte, sia come ID MPN che come ID MPN del rivenditore. Se per un partner CSP è presente un rivenditore senza ID MPN, il valore viene impostato sull'ID MPN del partner. Se il partner CSP rimuove un ID rivenditore, il valore verrà impostato su -1. |
-|OrderId |Identificatore univoco di un ordine nella piattaforma di fatturazione Microsoft. Può essere utile per identificare la prenotazione di Azure quando viene contattato il supporto tecnico, ma non per la riconciliazione. |
-|OrderDate |Data di effettuazione dell'ordine. |
-|ProductId |ID del prodotto. |
-|SkuId  |ID di una SKU particolare. |
-|AvailabilityId |ID di una disponibilità particolare. "Disponibilità" indica se una determinata SKU è disponibile per l'acquisto per il paese, la valuta, il segmento specificato e così via. |
-|SkuName  |Titolo di una particolare SKU. |
-|ProductName |Nome del prodotto. |
-|ChargeType |Tipo di addebito o rettifica. |
-|UnitPrice |Prezzo per prodotto ordinato. |
-|Quantity |Numero di prodotti ordinati. |
-|Subtotal |Totale al lordo delle imposte. Verifica che il subtotale corrisponda al totale previsto, in caso di sconto. |
-|TaxTotal |Totale di tutte le imposte applicabili. |
-|Total |Importo totale di questo acquisto. |
-|Currency |Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Verifica quando viene emessa la prima fattura e dopo qualsiasi aggiornamento importante della piattaforma di fatturazione. |
-|DiscountDetails |Elenco dettagliato di eventuali sconti pertinenti. |
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Colonna</th>
+<th>Descrizione</th>
+</tr>
+</thead>
+<tbody>
 
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>Identificatore univoco tenant di Microsoft Azure Active Directory per un'entità di fatturazione specifica, in formato GUID. Non è necessario per la riconciliazione, ma può risultare utile. È lo stesso per tutte le righe.</p></td>
+</tr>
+
+<tr class="even">
+<td>Id del cliente</td>
+<td><p>Microsoft Azure Active Directory tenant ID univoco, in formato GUID, usato per identificare il cliente.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Nome cliente</td>
+<td><p>Nome dell'organizzazione del cliente registrato nel Centro per i partner.</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerDomainName</td>
+<td><p>Nome di dominio del cliente, usato per identificare il cliente. Questo non deve essere usato per identificare in modo univoco il cliente, il cliente/partner può aggiornare il dominio di reindirizzamento a microsito/predefinito tramite il portale di Office 365. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Paese cliente</td>
+<td><p>Paese in cui si trova il cliente.</p></td>
+</tr>
+
+<tr class="even">
+<td>Numero fattura</td>
+<td><p>Numero di fattura in cui viene visualizzata la transazione specificata.</p></td>
+</tr>
+
+<tr class="odd">
+<td>MpnId</td>
+<td><p>ID MPN del partner CSP.</p></td>
+</tr>
+
+<tr class="even">
+<td>MpnId rivenditore</td>
+<td><p>ID MPN del rivenditore nel record per la sottoscrizione.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ID ordine</td>
+<td><p>Identificatore univoco di un ordine nella piattaforma di e-commerce di Microsoft. Può essere utile per identificare l'ordine quando viene contattato il supporto tecnico, ma non per la riconciliazione.</p></td>
+</tr>
+
+<tr class="even">
+<td>Data ordine</td>
+<td><p>Data di effettuazione dell'ordine.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ProductId</td>
+<td><p>ID del prodotto.</p></td>
+</tr>
+
+<tr class="even">
+<td>SkuId</td>
+<td><p>ID di una SKU particolare.</p></td>
+</tr>
+
+<tr class="odd">
+<td>AvailabilityId</td>
+<td><p>ID di una disponibilità particolare. "Disponibilità" indica se una determinata SKU è disponibile per l'acquisto per il paese, la valuta, il segmento specificato e così via.</p></td>
+</tr>
+
+<tr class="even">
+<td>Nome SKU</td>
+<td><p>Titolo di una particolare SKU.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Nome prodotto</td>
+<td><p>Nome del prodotto.</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>Nome dell'autore del prodotto.</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>ID univoco per il server di pubblicazione.</p></td>
+</tr>
+
+<tr class="even">
+<td>Descrizione di sottoscrizione</td>
+<td><p>Nome descrittivo di una sottoscrizione.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ID sottoscrizione</td>
+<td><p>Identificatore univoco per una sottoscrizione nella piattaforma di e-commerce di Microsoft. Può essere utile per identificare la sottoscrizione quando viene contattato il supporto tecnico, ma non per la riconciliazione. Non corrisponde all'ID sottoscrizione nella console di amministrazione dei partner.</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>Giorno di inizio degli addebiti. L'ora indicata è sempre l'inizio della giornata, le 0:00.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>Giorno di fine degli addebiti. L'ora indicata è sempre la fine della giornata, le 23:59.</p></td>
+</tr>
+
+<tr class="even">
+<td>Termine e Billingcycle</td>
+<td><p>La lunghezza del termine e ciclo di fatturazione per l'acquisto. Ad esempio, "1 anno, mensilmente."</p></td>
+</tr>
+
+<tr class="odd">
+<td>Tipo di addebito</td>
+<td><p>Tipo di addebito o rettifica.</p></td>
+</tr>
+
+<tr class="even">
+<td>Prezzo unitario</td>
+<td><p>Il prezzo come pubblicato nel listino prezzi al momento dell'acquisto. Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Prezzo unitario effettivi</td>
+<td><p>Il prezzo unitario dopo che sono state apportate modifiche.</p></td>
+</tr>
+
+<tr class="even">
+<td>Quantità</td>
+<td><p>Numero di unità. Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Tipo di unità</td>
+<td><p>Il tipo di unità da acquistare.</p></td>
+</tr>
+
+<tr class="even">
+<td>DiscountDetails</td>
+<td><p>Una spiegazione di eventuali sconti.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Totale parziale</td>
+<td><p>Totale al lordo delle imposte. Verifica che il subtotale corrisponda al totale previsto, in caso di sconto.</p></td>
+</tr>
+
+<tr class="even">
+<td>Totale delle imposte</td>
+<td><p>Importo totale delle imposte, in base alle leggi vigenti a livello locale e alle circostanze specifiche.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Total</td>
+<td><p>Totale al netto delle imposte. Verifica se nella fattura sono addebitate imposte.</p></td>
+</tr>
+
+<tr class="even">
+<td>Currency</td>
+<td><p>Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Verifica quando viene emessa la prima fattura e dopo qualsiasi aggiornamento importante della piattaforma di fatturazione.</p></td>
+</tr>
+
+<tr class="odd">
+<td>AlternateID</td>
+<td><p>Un identificatore alternativo a un ID.</p></td>
+</tr>
+</tbody>
+</table>
+
+
+## <a href="" id="dailyratedusagefields"></a>Campi dei file di utilizzo in modo proporzionale giornaliera
+
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Colonna</th>
+<th>Descrizione</th>
+</tr>
+</thead>
+<tbody>
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>ID del partner, in formato GUID.</p></td>
+</tr>
+
+<tr class="even">
+<td>PartnerName</td>
+<td><p>Nome partner.</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerId</td>
+<td><p>ID Microsoft univoco, in formato GUID, usato per identificare il cliente.</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerCompanyName</td>
+<td><p>Nome dell'organizzazione del cliente registrato nel Centro per i partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerDomainName</td>
+<td><p>Nome di dominio del cliente. Non è disponibile per l'attività corrente.</p></td>
+</tr>
+
+<tr class="even">
+<td>Paese cliente</td>
+<td><p>Paese in cui si trova il cliente.</p></td>
+</tr>
+
+<tr class="odd">
+<td>MPNID</td>
+<td><p>ID MPN del partner CSP.</p></td>
+</tr>
+
+<tr class="even">
+<td>Rivenditore MPNID</td>
+<td><p>ID MPN del rivenditore nel record per la sottoscrizione. Non è disponibile per l'attività corrente.</p></td>
+</tr>
+
+<tr class="odd">
+<td>InvoiceNumber</td>
+<td><p>Numero di fattura in cui viene visualizzata la transazione specificata. Non è disponibile per l'attività corrente.</p></td>
+</tr>
+
+<tr class="even">
+<td>ProductId</td>
+<td><p>ID del prodotto.</p></td>
+</tr>
+
+<tr class="odd">
+<td>SkuId</td>
+<td><p>ID di una SKU particolare.</p></td>
+</tr>
+
+<tr class="even">
+<td>AvailabilityId</td>
+<td><p>ID di una disponibilità particolare. "Disponibilità" indica se una determinata SKU è disponibile per l'acquisto per il paese, la valuta, il segmento specificato e così via.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Nome SKU</td>
+<td><p>Titolo di una particolare SKU.</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>Il nome dell'autore.</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>ID dell'editore, in formato GUID. Non è disponibile per l'attività corrente.</p></td>
+</tr>
+
+<tr class=”even">
+<td>Descrizione di sottoscrizione</td>
+<td><p>Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. Questo è un campo identico a Nome offerta.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ID sottoscrizione</td>
+<td><p>Identificatore univoco di una sottoscrizione nella piattaforma di fatturazione Microsoft. Può essere utile per identificare la sottoscrizione quando viene contattato il supporto tecnico, ma non per la riconciliazione. Non corrisponde all'ID sottoscrizione nella console di amministrazione dei partner.</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>Data di inizio del ciclo di fatturazione, ad eccezione di quando sono presenti date riferite a dati di utilizzo latenti non addebitati in precedenza (dal ciclo di fatturazione precedente). L'ora indicata è sempre l'inizio della giornata, le 0:00.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>Data di fine del ciclo di fatturazione, ad eccezione di quando sono presenti date riferite a dati di utilizzo latenti non addebitati in precedenza (dal ciclo di fatturazione precedente). L'ora indicata è sempre la fine della giornata, le 23:59.</p></td>
+</tr>
+
+<tr class="even">
+<td>Data di utilizzo</td>
+<td><p>Data di utilizzo del servizio.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Tipo di misuratore</td>
+<td><p>Tipo di misuratore.</p></td>
+</tr>
+
+<tr class="even">
+<td>Categoria misuratore</td>
+<td><p>Il servizio di primo livello per l'utilizzo.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Id misuratore</td>
+<td><p>L'ID per il misuratore in uso.</p></td>
+</tr>
+
+<tr class="even">
+<td>Misuratore sottocategoria</td>
+<td><p>Tipo di servizio di Azure che possa influenzare il tasso di.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Nome misuratore</td>
+<td><p>L'unità di misura per il misuratore consumato.</p></td>
+</tr>
+
+<tr class="even">
+<td>Area geografica misuratore</td>
+<td><p>Questa colonna identifica la posizione del data center nell'area geografica dei servizi dove applicabile e popolato.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Unit</td>
+<td><p>L'unità della risorsa di nome.</p></td>
+</tr>
+
+<tr class="even">
+<td>Quantità consumata</td>
+<td><p>La quantità di servizio usata (ore, GB e così via) durante il periodo di reporting. Include anche gli utilizzi non fatturati relativi a periodi di reporting precedenti.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Percorso della risorsa</td>
+<td><p>La Data Center in cui è in esecuzione il misuratore.</p></td>
+</tr>
+
+<tr class="even">
+<td>Servizio consumato</td>
+<td><p>Il servizio di piattaforma Azure che hai usato.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Gruppo di risorse</td>
+<td><p>Il gruppo di risorse in cui è in esecuzione il misuratore distribuito.</p></td>
+</tr>
+
+<tr class="even">
+<td>URI di risorsa</td>
+<td><p>L'URI della risorsa in uso.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Tipo di addebito</td>
+<td><p>Tipo di addebito o rettifica. Non è disponibile per l'attività corrente.</p></td>
+</tr>
+
+<tr class="even">
+<td>Prezzo unitario</td>
+<td><p>Prezzo per licenza, come pubblicato nel listino prezzi al momento dell'acquisto. Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Quantità</td>
+<td><p>Numero di licenze. Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</p></td>
+</tr>
+
+<tr class="even">
+<td>Tipo di unità</td>
+<td><p>Il tipo di unità il misuratore viene addebitato. Non è disponibile per l'attività corrente.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Fatturazione mettono fiscali</td>
+<td><p>Importo totale prima delle imposte.</p></td>
+</tr>
+
+<tr class="even">
+<td>Valuta di fatturazione</td>
+<td><p>Valuta nell'area geografica del cliente</p></td>
+</tr>
+
+<tr class="odd">
+<td>Prezzo totale al lordo di imposte</td>
+<td><p>Il prezzo prima dell'aggiunta delle imposte.</p></td>
+</tr>
+
+<tr class="even">
+<td>Valuta i prezzi</td>
+<td><p>Valuta nel listino prezzi.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Informazioni di servizio 1</td>
+<td><p>Numero di connessioni ServiceBus di cui è stato eseguito il provisioning e usate in un determinato giorno.</p></td>
+</tr>
+
+<tr class="even">
+<td>Servizio Info 2</td>
+<td><p>Un campo legacy che acquisisce metadati specifici del servizio facoltativi.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Tag</td>
+<td><p>Tag che assegnare al misuratore nell'ordine per raggruppare i record di fatturazione. Ad esempio, è possibile utilizzare i tag per distribuire i costi dal reparto che usa il misuratore.</p></td>
+</tr>
+
+<tr class="even">
+<td>Informazioni aggiuntive</td>
+<td><p>Informazioni aggiuntive non trattate in altre colonne.</p></td>
+</tr>
+
+</tbody>
+</table>
 
 
 ## <a href="" id="charge_types"></a>Mapping degli addebiti tra una fattura e il file di riconciliazione

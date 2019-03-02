@@ -49,7 +49,9 @@
 
 
 # [Fatturazione e imposte](billing.md)
-## [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md)
+## [Domande frequenti su fatturazione](faq-about-new-billing-features.md)
+## [Nozioni di base sulla fatturazione](billing-basics.md)
+## [Informazioni sui tipi di fatturazione nel centro per i Partner](billing-different-types.md)
 ## [Leggere la fattura](read-your-bill.md)
 ## [Usare i file di riconciliazione](use-the-reconciliation-files.md)
 ## [Imposte ed esenzioni fiscali](tax-and-tax-exemptions.md)
@@ -78,6 +80,7 @@
 ## [Servizi online (Sottoscrizioni)](customer-subscriptions.md)
 ### [Creare, sospendere o annullare le sottoscrizioni dei clienti](create-a-new-subscription.md)
 ### [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md)
+### [Vendere le sottoscrizioni per i prodotti di Azure Marketplace](sell-marketplace-products.md)
 ### [Assegnare abbonamenti Azure nel Centro per i partner](assign-azure-subscriptions.md)
 ### [Assegnare licenze agli utenti](assign-licenses-to-users.md)
 ### [Aggiungere licenze o servizi a una sottoscrizione esistente](add-licenses-or-services-to-an-existing-subscription.md)

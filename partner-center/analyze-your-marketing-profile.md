@@ -3,16 +3,16 @@ title: Analizzare l'efficacia del profilo di lavoro | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
 description: Valutare, negoziare e rispondere alle segnalazioni tramite il Centro per i partner.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e621ecb2c57b150b35aa363a19a35747a88a3931
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 1bc4282bb4864a7b3a009ab367d384ced519a5b8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062259"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584514"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analizzare l'efficacia del profilo di lavoro
 <!-- 
@@ -29,25 +29,25 @@ Dopo avere registrato il [profilo di lavoro](create-a-marketing-profile.md) dell
 
 Quando inizi a [rispondere a queste segnalazioni](responding-to-referrals.md), inizierai a ricevere i dati che indicano quante di tali richieste di informazioni stanno diventando opportunità aziendali di successo.
 
-Utilizza questi report quando perfezioni i profili di lavoro per generare più lead e aumentare il numero di lead rilevanti. I dati mostrano le prestazioni del profilo, analizzano le tendenze e identificano le aree che richiedono un'azione. Dal menu Centro per i Partner, Vai alle **pagine di Marketing gt _ segnalazioni**.
+Utilizza questi report quando perfezioni i profili di lavoro per generare più lead e aumentare il numero di lead rilevanti. I dati mostrano le prestazioni del profilo, analizzano le tendenze e identificano le aree che richiedono un'azione. Dal menu di Centro per i Partner, passare a **dei riferimenti > Marketing pagine**.
 
 Questi report mostrano le prestazioni dei profili di lavoro per tutte le aree geografiche. I report mostrano i dati degli ultimi 90 giorni, raggruppati per settimane.
 
-*  **Tendenze**: mostra gli ultimi 90 giorni, raggruppati per settimane. dati settimanali degli ultimi 90 giorni e % di modifica rispetto al periodo precedente delle metriche seguenti:
+*  **Tendenze**: Mostra ultimi 90 giorni, raggruppati per settimane. dati settimanali degli ultimi 90 giorni e % di modifica rispetto al periodo precedente delle metriche seguenti:
 
-   * **Visualizzazioni pagine di marketing**: viene indicato quante volte il tuo profilo di lavoro è stato visualizzato dagli utenti
-   * **Clic su pulsanti di contatto**: viene indicato quante volte gli utenti hanno selezionato il tuo profilo di lavoro dalla pagina **Trova un partner**. Potrebbe non riflettere il numero delle volte in cui gli utenti hanno visitato il profilo per creare una richiesta di informazioni.
-   * **Richiesta di informazioni accettata**: viene indicato quante volte hai [accettato le segnalazioni di clienti](responding-to-referrals.md) dopo che hanno inviato a una richiesta di informazioni.
+   * **Visualizzazioni di pagina di marketing**: Quante volte le persone visualizzato il profilo di business
+   * **Contattare il clic sui pulsanti**: Numero di volte in cui le persone selezionato il profilo di business dal **trova un Partner** pagina. Potrebbe non riflettere il numero delle volte in cui gli utenti hanno visitato il profilo per creare una richiesta di informazioni.
+   * **Viene accettata RFI**: Numero di volte in cui si [accettati riferimenti cliente](responding-to-referrals.md) dopo che ha inviato una richiesta di informazioni (RFI).
 
 
-*  **Visualizzazioni pagine**: mostra i dati di tendenza settimanali per gli ultimi 90 giorni.
-   *  **Visualizzazioni pagine di marketing per i clienti**
-   *  **Richieste di informazioni inviate dai clienti**
+*  **Visualizzazioni pagina**: Mostra i dati di tendenza settimanale negli ultimi 90 giorni.
+   *  **Visualizzazioni di pagina di marketing da parte dei clienti**
+   *  **RFIs bug inviati dai clienti**
 
 Vedi i termini di ricerca usati dai clienti per trovare il tuo profilo. Questi report mostrano i dati settimanali degli ultimi 90 giorni.
 
 *  **Parole chiave** (principali parole chiave per la ricerca) 
-*  **Settore**
+*  **Industry**
 *  **Prodotto**
 *  **Tipo di servizio**
 

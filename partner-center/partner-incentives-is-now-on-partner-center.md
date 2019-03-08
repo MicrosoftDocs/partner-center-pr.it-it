@@ -3,15 +3,15 @@ title: Incentivi per i partner ora disponibili nel Centro per i partner | Centro
 ms.topic: article
 ms.date: 10/29/2018
 description: I programmi di incentivi incoraggiano i partner a sviluppare nuove tecniche di marketing, offrire formazione e altro
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 61138645f20a24ba7eacd17546983715a0045669
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 8387fd08a6826b0984e491d34ceba76266af59ab
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995635"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587514"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Incentivi per i partner disponibili nel Centro per i partner 
 
@@ -31,19 +31,19 @@ La partecipazione al programma ti renderà idoneo a ricevere sconti e utili in c
 - I provider indiretti devono disporre di un contratto per i distributori cloud valido.
 - I rivenditori diretti devono disporre di un contratto per rivenditori.
 - Se sei un partner rivenditore indiretto, devi essere membro di MPN. I rivenditori indiretti riceveranno un invito al programma di incentivi dopo che avranno completato la prima transazione. 
-- Disporre di almeno una delle competenze Microsoft. Visualizzare un elenco delle [competenze Microsoft](competencies.md)corrente.
+- Disporre di almeno una delle competenze Microsoft. Visualizzare un elenco dell'oggetto corrente [competenze Microsoft](competencies.md).
 
 ## <a name="one-site-one-log-on"></a>Un sito, un accesso
 
-Ora che il programma di incentivi per i Partner Microsoft è passato al centro per i Partner, sarai in grado di occuparti di tutte le operazioni di amministratore tra cui la gestione gli utenti, attività per conto dei clienti, iscrizione per certificazioni e incentivi, segnalazione di utili di incentivi e ricevimento di pagamenti. Tutti i dati di incentivi sono disponibili nel **Centro per i Partner**gli incentivi. I dati relativi agli incentivi vengono aggiornati ogni giorno.
+Ora che il programma di incentivi per i Partner Microsoft è stato spostato in Centro per i Partner, sarà in grado di eseguire tutto il lavoro amministratore tra cui gestire gli utenti, di lavoro per conto dei clienti, effettuare l'iscrizione per le certificazioni e incentivi, gli utili di incentivi per i report e ottenere proventi. Tutti i dati di incentivi è disponibile nella finestra di incentivi **Partner Center**. I dati relativi agli incentivi vengono aggiornati ogni giorno.
  
 ## <a name="set-your-users-up-in-partner-center"></a>Configurare gli utenti nel Centro per i partner
  
-Il primo passaggio consiste nel completare il tuo account per gli incentivi del Centro per i partner mediante la configurazione di utenti di incentivi nel Centro per i partner. Hai ricevuto un messaggio e-mail con un elenco di utenti di incentivi dell'organizzazione. Quando l'amministratore di incentivi per la tua organizzazione ha completato la configurazione dell'utente, verranno visualizzata tutti i dati di incentivi nel **Centro per i Partner**di incentivi.
+Il primo passaggio consiste nel completare il tuo account per gli incentivi del Centro per i partner mediante la configurazione di utenti di incentivi nel Centro per i partner. Hai ricevuto un messaggio e-mail con un elenco di utenti di incentivi dell'organizzazione. Quando l'amministratore di incentivi per l'organizzazione è stata completata la configurazione di utenti, tutti i dati di incentivi apparirà sugli incentivi **Partner Center**.
 
-**Vedi anche**
+**Vedere anche**
 
 [Creare account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md)
 
-[Modificare la password temporanea](change-your-temporary-password.md)
+[Cambiare la password provvisoria](change-your-temporary-password.md)
 

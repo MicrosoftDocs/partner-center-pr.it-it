@@ -8,18 +8,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 3158679d8a435a8252ad7dfb60d5cccc5cfa2f1f
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683440"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587584"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Impostare un budget di spesa di Azure per i clienti
 
 **Si applica a**
 
 -  Centro per i partner
--  Centro per i partner per Microsoft Cloud per il governo statunitense
+-  Centro per i partner per Microsoft Cloud for US Government
 
 Per aiutare i clienti a gestire la loro spesa di Azure, puoi impostare un budget mensile di spesa per ogni cliente, in modo che la loro fattura di Azure non sia superiore alla previsione. Impostare un budget di spesa per Azure ti consente di confrontare la spesa per Azure dei tuoi clienti durante il mese rispetto al budget. Con questa funzionalità, puoi: 
 
@@ -32,26 +32,26 @@ Per aiutare i clienti a gestire la loro spesa di Azure, puoi impostare un budget
 I dati sulla spesa per Azure rappresentano una stima, gli importi di fatturazione effettivi possono variare e il valore non tiene conto di imposte, crediti, rettifiche o altri costi applicabili. I dati sulla spesa vengono aggiornati una volta al giorno. I clienti continueranno a usare le risorse e i servizi Azure (e a pagarli) a meno che tu non cambi le impostazioni del loro account nel portale di Azure. 
 
 > [!NOTE]  
-> Questa funzionalità non è disponibile nella sandbox o Test in Production (TIP) gli account.
+> Questa funzionalità non è disponibile nel Test o sandbox negli account di produzione (TIP).
 
-**Abilitare le notifiche e-mail**
-1.  Il menu del centro per i Partner seleziona **spesa per Azure**.
+**Abilitazione delle notifiche di posta elettronica**
+1.  Nel menu del centro per i Partner, selezionare **spesa di Azure**.
 2.  Attiva/disattiva l'opzione **Ricevi e-mail** per ricevere notifica quando i tuoi clienti usano l'80% o più del loro budget. In questo modo potrai essere sempre aggiornato sulla fattura per Azure. Puoi modificare l'indirizzo e-mail predefinito e specificare un indirizzo personale o qualsiasi altro indirizzo e-mail per ricevere le notifiche.
 
 **Impostare un budget**
-1.  Il menu del centro per i Partner seleziona **spesa per Azure**.
+1.  Nel menu del centro per i Partner, selezionare **spesa di Azure**.
 2.  Seleziona i clienti di cui desideri impostare un budget. 
 3. Immetti un valore nella casella **Budget mensile** e seleziona **Applica**.
 4.  Per controllare la spesa corrente, torna a questa pagina.
 5.  In **Sottoscrizioni in base all'uso** possono anche essere impostati budget individuali in una pagina di gestione dei clienti.
 
 **Rimuovere un budget**
-1.  Il menu del centro per i Partner seleziona **spesa per Azure**.
+1.  Nel menu del centro per i Partner, selezionare **spesa di Azure**.
 2.  Seleziona i clienti nell'elenco.
 3.  Seleziona **Rimuovi budget**.
 
-**Visualizzare i costi dettagliati**
-1.  Dal menu di Centro per i Partner, seleziona **i clienti**.
+**Vedere i dettagli dei costi**
+1.  Nel menu del centro per i Partner, selezionare **clienti**.
 2.  Seleziona un cliente nell'elenco dei clienti.
 3.  In **Sottoscrizioni in base all'uso** nella pagina di gestione dei clienti scegli una sottoscrizione. Visualizza il relativo uso stimato corrente e un elenco dei costi dettagliati in base al servizio.
 

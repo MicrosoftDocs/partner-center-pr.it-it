@@ -3,15 +3,15 @@ title: Gestire gli incentivi nel Centro per i partner | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
 description: I programmi Microsoft Partner Incentives supportano la redditività e la crescita del partner
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3232f52f3c04d61fb57fdada40a98612341972fc
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 644ac2020551e199ff20f520a8ac3c68ddbece54
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995645"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586994"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Gestire gli incentivi nel Centro per i partner 
 
@@ -49,10 +49,10 @@ Per gli amministratori, se avete ricevuto il messaggio e-mail, seguite questi tr
 Quando l'amministratore degli incentivi riceve le credenziali, può completare la migrazione dell'organizzazione in modo da consentire all'organizzazione di gestire gli incentivi qui: nel Centro per i partner.
 
 
-[Crea gli account utente e assegna le autorizzazioni](create-user-accounts-and-set-permissions.md)
+[Creare account utente e assegnare le autorizzazioni](create-user-accounts-and-set-permissions.md)
 
-[Reimposta una password utente](reset-a-user-password.md)
+[Reimpostare una password utente](reset-a-user-password.md)
 
-[Comprendi i proventi derivanti dagli incentivi](understand-incentive-payouts.md)
+[Comprendere i proventi incentivi](understand-incentive-payouts.md)
 
-Per altre informazioni, vedi [Manuale il co-op di incentivi per i Partner](https://assets.microsoft.com/coop-guidebook.pdf)
+Per ulteriori informazioni, vedi [Manuale co-op per gli incentivi per i partner](https://assets.microsoft.com/coop-guidebook.pdf)

@@ -3,20 +3,20 @@ title: Competenze di sviluppo di applicazioni
 ms.topic: article
 ms.date: 10/29/2018
 description: Abilita la distribuzione del software più rapida e il miglioramento continuo. Unisciti ai nostri oltre 60.000 partner creatori di applicazioni per distinguere l'azienda e stabilirsi come partner Microsoft per ottenere le competenze di sviluppo di applicazioni.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competenza, competenze, applicazioni aziendali cloud, sviluppo di applicazioni
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: c367960a24cdf278991cc74cd5354c8886d67694
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 5a0123f1ec9052f409ad9964cf9c1761f9df7bb2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795034"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583894"
 ---
 >[!IMPORTANT]
->Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Per ulteriori informazioni sui requisiti per ottenere questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

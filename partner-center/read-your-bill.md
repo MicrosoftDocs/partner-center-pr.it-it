@@ -9,28 +9,28 @@ ms.author: evansma
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
 ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
-ms.sourcegitcommit: 9eadb7ff6c38a08c694710a8c14b899d0f48059a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "8997340"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584544"
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
 **Si applica a**
 
 -  Centro per i partner
--  Centro per i partner per Microsoft Cloud per il governo statunitense
+-  Centro per i partner per Microsoft Cloud for US Government
 
 
-Per la fattura, Vai al menu del **Centro per i Partner** e quindi seleziona **la fatturazione** per visualizzare la cronologia di fatturazione e tendenze, i collegamenti per la fattura e il file di riconciliazione e il pagamento più recente.
+Per la fattura, visitare il **Centro per i Partner** menu e quindi selezionare **fatturazione** per visualizzare la cronologia di fatturazione e le tendenze, collegamenti a file di riconciliazione e fatturazione e il pagamento più recente.
 
 I partner del programma Cloud Solution Provider che hanno scelto la fatturazione mensile pagheranno Microsoft per gli abbonamenti dei clienti (sia in base a licenza che in base all'uso) in via posticipata, dopo 60 giorni.
 
 > [!NOTE]  
-> La fattura è un riepilogo di tutti gli addebiti - per il programma, i prodotti e i clienti, per il periodo di fatturazione corrente ed è disponibile entro due (2) giorni dalla data di fatturazione selezionata in formato UTC. Se hai un 12 settembre data di fatturazione, ad esempio, il processo di generazione della fattura sarà abbia inizio in UTC 12:00 AM sul 13 e completerà da UTC 12:00 AM su 14. Se non vedi la fattura da UTC 11:59 PM il giorno 15, stai esplicitamente il contratto di servizio e deve essere file una richiesta di servizio. 
+> La fattura è riportato un riepilogo di tutti gli addebiti, attraverso il programma, i prodotti e clienti, per il periodo di fatturazione corrente ed è disponibile entro due (2) della data di fatturazione selezionata in formato UTC. Ad esempio, se hai il 12 settembre data di fatturazione, il processo di generazione della fattura verrà iniziano alle 12:00 AM UTC nel 13 e completare da 12:00 AM UTC su 14. Se non è possibile visualizzare la fattura da 11 alle 23.59.59 UTC il giorno 15, vengono all'esterno del contratto di servizio, che deve inviare una richiesta di servizio. 
 
-Riceverai una fattura per basate su licenza (Office 365) e gli addebiti (Azure) basati sull'utilizzo e una fattura separata per una tantum (istanze riservate di Azure macchina virtuale) addebiti.
+Riceverai una fattura per gli addebiti basati sulla licenza (Office365) e basati sull'utilizzo (Azure) e una fattura separata per addebiti una tantum (istanze di macchina virtuale riservate di Azure).
 
 Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I file di riconciliazione includono gli ID dei clienti e gli ID delle sottoscrizioni che userai per creare le fatture per i clienti. Per altre informazioni, vedi [Come usare i file di riconciliazione](use-the-reconciliation-files.md).
 
@@ -57,7 +57,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 </tr>
 <tr class="even">
 <td>Indirizzo fatturazione</td>
-<td>Indirizzo a cui inviare la fattura. Per cambiare il nome della società o l'indirizzo, Modifica profilo di fatturazione del centro per i Partner. </td>
+<td>Indirizzo a cui inviare la fattura. Per modificare il nome della società o l'indirizzo, modificare il centro per i Partner del profilo di fatturazione. </td>
 </tr>
 <tr class="odd">
 <td>Addebiti in base alle licenze</td>
@@ -78,9 +78,9 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 <tr class="even">
 <tr class="even">
 <td>Subtotal</td>
-<td>Totale al lordo imposte e addebiti esclusive fiscali e crediti.</td>
+<td>Totale al lordo delle imposte e crediti e addebiti netti.</td>
 </tr>
-<td>Tax</td>
+<td>Imposta</td>
 <td>Imposta totale per gli addebiti correnti come calcolata complessivamente nella sezione dei dettagli che inizia a pagina 2 della fattura. Questo numero è la somma di tutti gli addebiti che fanno riferimento a:
 <ul>
 <li>la colonna &quot;TaxAmount&quot; del file di riconciliazione in base all'uso (colonna AA) e</li>
@@ -89,7 +89,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 </tr>
 <tr class="odd">
 <td>Altri crediti</td>
-<td>Crediti fiscali esclusive.</td>
+<td>Crediti netti.</td>
 </tr>
 <tr class="even">
 <td>Costi attuali totali</td>
@@ -105,11 +105,11 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 </tr>
 <tr class="odd">
 <td>Periodo di fatturazione</td>
-<td>Il periodo mensile che hanno contribuito alla data di fatturazione. Questo è il periodo durante il quale vengono utilizzati i servizi basati sull'utilizzo e servizi basati su licenza sono risolte per qualsiasi rettifiche di credito o le modifiche nel numero di licenze.</td>
+<td>Il periodo mensile conducono alla data di fatturazione. Questo è il periodo durante il quale vengono utilizzati i servizi basati sull'utilizzo e servizi basati su licenza vengono riconciliati le regolazioni di carta di credito o la modifica di nel conteggio delle licenze.</td>
 </tr>
 <tr class="even">
 <td>Data fattura</td>
-<td>La data di fatturazione o data dell'anniversario, in cui la fattura viene generata ogni mese.</td>
+<td>La data di fatturazione o data di ricorrenza in cui la fattura viene generata ogni mese.</td>
 </tr>
 <tr class="odd">
 <td>Condizioni di pagamento</td>
@@ -129,7 +129,7 @@ Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I f
 </tr>
 <tr class="odd">
 <td>Destinatario del servizio</td>
-<td>Indirizzo in cui viene usato il servizio. (Questo è l'indirizzo legale della società associato alla verifica della società).</td>
+<td>Indirizzo in cui viene usato il servizio. (Questo è l'indirizzo ragione sociale della società associato all'azienda consultazione).</td>
 </tr>
 </tbody>
 </table>

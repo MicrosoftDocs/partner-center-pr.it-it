@@ -10,18 +10,18 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995905"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584384"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Insoluti, frodi o uso improprio
 
 **Si applica a**
 
 -  Centro per i partner
--  Centro per i partner per Microsoft Cloud per il governo statunitense
+-  Centro per i partner per Microsoft Cloud for US Government
 
 
 
@@ -67,7 +67,7 @@ Queste raccomandazioni possono aiutare a sviluppare criteri e procedure che poss
 #### <a name="post-purchase-customer-account-management"></a>Gestione dell'account del cliente successiva all'acquisto
 - Collabora con i clienti per comprendere le esigenze aziendali relative all'utilizzo del cloud e imposta soglie di monitoraggio appropriate
     > [!NOTE]  
-    >  È possibile [impostare un budget di spesa per Azure mensile](set-an-azure-spending-budget-for-your-customers.md) nel centro per i Partner per monitorare l'utilizzo dei clienti durante il mese e ricevere una notifica quando i clienti sono vicini al loro budget.
+    >  È possibile [impostare un budget di spesa mensile di Azure](set-an-azure-spending-budget-for-your-customers.md) nel centro per i Partner per monitorare l'utilizzo del cliente durante il mese e ricevere una notifica quando i clienti sono vicino al proprio budget.
 - Monitora i [log attività dei clienti](activity-logs.md) regolarmente per rilevare preventivamente eventuali frodi
 - Agisci rapidamente quando vengono rilevate attività sospette
 - Evita di offrire ai clienti pieno accesso amministrativo alle sottoscrizioni senza prima implementare i controlli di riduzione del rischio

@@ -1,42 +1,42 @@
 ---
-title: Iscriversi al centro per i Partner come un fornitore di Pannello di controllo | Centro per i partner
+title: Registrare nel centro per i Partner come un fornitore di Pannello di controllo | Centro per i partner
 ms.topic: article
 ms.date: 12/11/2018
-Description: How to enroll in Partner Center as a Control Panel Vendor
-author: labrenne
+Description: Come eseguire la registrazione nel centro per i Partner come un fornitore di Pannello di controllo
+author: LauraBrenner
 ms.author: labrenne
-keywords: Fornitore del Pannello di controllo, registrare CPV App, gestire le app CPV
+keywords: Fornitore di Pannello di controllo, registrare le app CPV, gestire le app CPV
 ms.localizationpriority: medium
-ms.openlocfilehash: 1404b74f63c8c78f3a9c7b2f1fefa9967d8f1518
-ms.sourcegitcommit: 365f51b1df6752ab0f6bcf2b26329d354fa36653
+ms.openlocfilehash: 7d00cfc7addf120a3b42597cda3758597533dd5e
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995012"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586054"
 ---
-# <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Iscriversi al centro per i Partner come un fornitore di Pannello di controllo
+# <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Registrati nel centro per i Partner come un fornitore di Pannello di controllo
 
-**Ambito di applicazione**
+**Si applica a**
 
 - Centro per i partner
 
-Un fornitore di Pannello di controllo (CPV) è un fornitore di software indipendente per lo sviluppo di applicazioni per l'uso da parte dei partner Cloud Solution Provider (CSP) per consentire loro di integrare i sistemi con API del centro per i Partner. Un fornitore di Pannello di controllo non è un Partner CSP con accesso diretto al dashboard del centro per i Partner o API del centro per i Partner.
+Un fornitore di Pannello di controllo (CPV) è un fornitore di software indipendenti che sviluppa applicazioni per l'uso da partner Cloud Solution Provider (CSP) per consentire loro di integrare i sistemi con Partner Center API. Un fornitore di Pannello di controllo non è un Partner CSP con accesso diretto al dashboard del centro per i Partner o Partner Center API.
 
-Se sei un fornitore di Pannello di controllo (CPV) corrente o un nuovo CPV chi desidera collaborare con i partner Microsoft, Microsoft ora è necessario eseguire la registrazione nel centro per i Partner per poter registrare le applicazioni e supportare i partner Cloud Solution Provider. Per creare un account, un partner CPV possibile utilizzare un tenant di partner CSP esistente o un tenant esistente CPV o crea un nuovo tenant come parte del processo di onboarding. Se il partner CPV sceglie di usare il tenant CSP esistente, è necessario creare applicazioni multi-tenant separate e registrarli nel centro per i Partner per attività CPV. Un'applicazione non può essere registrata come applicazione CPV sia un CSP. Dopo aver registrato nel centro per i Partner e registrato delle applicazioni, avrai accesso alle API Centro per i Partner.  Microsoft ti contatterà tramite una notifica di Centro per i Partner con le informazioni sandbox. Se, tuttavia, hai già un account sandbox, continuare a usarla. Non devi una sandbox di nuovo.   
+Se sei un fornitore di Pannello di controllo (CPV) correnti o un nuovo CPV che vogliono lavorare con i partner Microsoft, Microsoft a questo punto è necessario effettuare l'iscrizione a Centro per i Partner per registrare le applicazioni e supportare i partner Cloud Solution Provider. Per creare un account, un partner CPV possibile usare un tenant del partner CSP esistente, o tenant CPV esistente o può creare un nuovo tenant come parte del processo di onboarding. Se il partner CPV sceglie di usare il CSP del tenant esistente, sarà necessario creare le diverse applicazioni multi-tenant e registrarli nel centro per i Partner per le attività CPV. Un'applicazione non può essere registrata come applicazione CPV sia un CSP. Dopo aver registrato nel centro per i Partner e registrazione delle applicazioni, si avrà accesso alle Partner Center API.  Microsoft si verrà contattati tramite una notifica del centro per i Partner con le informazioni di sandbox. Se, tuttavia, hai già un account di sandbox, continuare a usarlo. Non è necessario una nuova sandbox.   
 
-Esamina il [Contratto Microsoft fornitore del Pannello di controllo](https://go.microsoft.com/fwlink/?linkid=2055198)
+Esaminare il [contratto fornitore del Pannello di controllo di Microsoft](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
-## <a name="working-in-partner-center"></a>Lavorare nel centro per i Partner
-Dopo aver registrato nell'esperienza di Partner Center CPV e accettato il contratto CPV che è possibile:
+## <a name="working-in-partner-center"></a>Utilizzo di Centro per i Partner
+Dopo aver registrato nell'esperienza di Partner Center CPV e accettazione del contratto CPV che è possibile:
 
-- Gestire le applicazioni multi-tenant (aggiungere applicazioni al portale di Azure, registrare e annullare la registrazione delle applicazioni nel centro per i Partner).
+- Gestire le applicazioni multi-tenant (aggiungere alle applicazioni di portale di Azure, registrare e annullare la registrazione delle applicazioni nel centro per i Partner).
 
 >[!Note] 
->CPVs deve registrare le applicazioni nel centro per i Partner per poter ottenere autorizzata per l'API del centro per i Partner. Aggiunta di applicazioni per il portale di Azure da soli non autorizza applicazioni CPV per API del centro per i Partner. 
+>CPVs deve registrare le proprie applicazioni nel centro per i Partner per ottenere l'autorizzazione per Partner Center API. Aggiunta di applicazioni nel portale di Azure da solo non autorizzare applicazioni CPV per Partner Center API. 
 
 - Visualizzare e gestire il profilo CPV 
 
-- Visualizzare e gestire gli utenti che necessitano dell'accesso a funzionalità CPV. Il ruolo solo che può avere un CPV è amministratore globale.
+- Visualizzare e gestire gli utenti che devono accedere alle funzionalità CPV. L'unico ruolo che può avere un CPV è amministratore globale.
 
 

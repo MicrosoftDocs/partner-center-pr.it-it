@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Attenersi alla procedura seguente per visualizzare in anteprima l'app Analisi del Centro per i Partner per Power BI (per i partner diretti in CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: d51c7afa2ebe69218aeb926c46425bcbd4245cb0
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995555"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585864"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installare e visualizzare in anteprima l'app Analisi del Centro per i Partner per Microsoft Power BI
 
@@ -22,16 +22,16 @@ ms.locfileid: "8995555"
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
-Seleziona l'applicazione che è più rilevante per la tua azienda nell'elenco delle App Power BI disponibili seguenti:
+Selezionare l'applicazione più importanti per l'azienda nell'elenco delle app di Power BI disponibili seguenti:
 - [Partner diretto](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
-- [Partner indiretti](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+- [Partner indiretta](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
 
-- [Rivenditore indiretto](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+- [Rivenditori indiretti](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
 
 Prima di installare la versione di anteprima dell'app Analisi del Centro per i partner, assicurarsi che siano soddisfatti i requisiti seguenti.
 
-- Selezionare l'app Power BI corretto per la tua azienda.
+- È scegliere l'app Power BI corretto per la tua azienda.
 
 - Hai una sottoscrizione Microsoft Power BI Professional o Microsoft Power BI Premium attivo.
 
@@ -62,4 +62,4 @@ Al termine del caricamento, è possibile iniziare ad utilizzare la dashboard del
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-[Visualizzare i dati aziendali con l'app Analisi del Centro per i Partner per Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Visualizzare i dati aziendali con l'app Partner Center Analitica per Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

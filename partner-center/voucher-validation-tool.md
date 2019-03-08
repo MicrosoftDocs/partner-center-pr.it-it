@@ -1,84 +1,84 @@
 ---
-title: Utilizzare lo strumento di convalida giustificativo nel centro per i Partner per voucher di formazione e altri | Centro per i partner
+title: Usare lo strumento di convalida Voucher nel centro per i Partner per i voucher di formazione e altro | Centro per i partner
 ms.topic: article
 ms.date: 12/20/2018
-description: Ora puoi richiedere voucher di formazione e software assurance programmi nel centro per i Partner
-author: labrenne
+description: È ora possibile richiedere i voucher per il training e programmi di software assurance nel centro per i Partner
+author: LauraBrenner
 ms.author: labrenne
-Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
+Keywords: per la formazione, lo strumento di giustificativo, convalidare voucher, attestazioni di garanzia di software, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: ede912569436c159b2dcc1661298e712f9b2065e
-ms.sourcegitcommit: daa8de3e6a269b28e77e097792ac35d70fa26461
+ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/26/2019
-ms.locfileid: "9030071"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587834"
 ---
-# <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Usare lo strumento di convalida giustificativo e rimborso nel centro per i Partner per convalidare e riservare riscattare voucher 
+# <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Usare lo strumento di convalida e rimborso voucher nel centro per i Partner per convalidare, riservare e riscattare i voucher 
 
-**Ambito di applicazione**
+**Si applica a:**
 
 - Centro per i partner
 
-Partner Software Assurance qualificato, sia per la formazione o servizi di pianificazione della distribuzione, Microsoft compensa puoi fornire questi servizi per i clienti aziendali in cambio di voucher che dispongono con Software Assurance.
+I partner Software Assurance completi per la formazione o pianificazione della distribuzione di servizi, Microsoft si compensa per erogare questi servizi ai clienti aziendali in cambio di voucher che ricevono con Software Assurance.
 
-Quando il cliente riceve un giustificativo, dovrai convalidare riservandone il. Avere eseguito questo lavoro dello strumento di convalida giustificativo e rimborso (VVR) in passato. Oggi abbiamo stiamo introducendo insieme in un sito: centro per i Partner: tutti gli strumenti e siti, tra cui lo strumento VVR, utilizzati per disporre di visitare i partner per le aziende con Microsoft con l'obiettivo di rendere il lavoro semplificata ed efficiente di eseguire.
+Quando il cliente riceve un voucher, è necessario convalidare e utilizzarlo. È possibile ancora questo lavoro nello strumento Voucher convalida e riscatto (VVR) in precedenza. Oggi stiamo riunendo in un sito: centro per i Partner – tutti gli strumenti e i siti, compresi lo strumento VVR, i partner dispongono di visitare per intrattenere attività commerciali con Microsoft al fine di rendere il proprio lavoro più efficiente e semplificato.
 
-## <a name="validate-and-reserve-a-voucher"></a>Convalidare e riserva un giustificativo
+## <a name="validate-and-reserve-a-voucher"></a>Convalidare e riserva un voucher
 
-L'amministratore giustificativo cliente verrà visualizzato un giustificativo di formazione. Riservare il giustificativo per fornire servizi per il cliente.
+L'amministratore di voucher clienti fornirà un voucher di formazione. È possibile riservare il voucher per fornire servizi per il cliente.
 
-1. Nella pagina della panoramica giustificativo, seleziona l'azione di elenco a discesa nella parte superiore della pagina **convalidare e riserva** . Verrà visualizzato il modulo di **Convalida giustificativo** .
-2. Nel modulo immettere questo numero e la posta elettronica dell'amministratore giustificativo.
-3. Selezionare **giustificativo di convalida** per garantire che questo numero è ancora valido.
-4. Selezionare **giustificativo riserva** e accettare le condizioni programma. Il cliente riceve una notifica tramite posta elettronica che hai riservato il giustificativo.
+1. Nella pagina di panoramica del voucher, selezionare **Validate e riserva** dall'azione di elenco a discesa nella parte superiore della pagina. Verrà visualizzata la **voucher Validate** form.
+2. Nel modulo, immettere il numero di voucher e indirizzo di posta elettronica dell'amministratore voucher.
+3. Selezionare **voucher Validate** per assicurarsi che il giustificativo numero sia ancora valido.
+4. Selezionare **voucher riserva** e accettare automaticamente termini e condizioni. Il cliente riceve una notifica tramite posta elettronica che è riservato il voucher.
 
-Seleziona **Esporta in Excel** azione elenco a discesa, per esportare l'elenco di tutti voucher disponibili e/o riservati.
+Selezionare **Esporta in Excel** dall'azione di elenco a discesa per esportare un elenco di tutti i voucher disponibili e/o riservate.
 
-### <a name="voucher-details-page"></a>Nella pagina dei dettagli giustificativo
+### <a name="voucher-details-page"></a>Pagina dei dettagli del voucher
 
-Dopo avere convalidato un giustificativo, vedrai la pagina dei dettagli della prenotazione. Seleziona il servizio, ad esempio, per la formazione, il cliente vuole **dall'elenco dei corsi di visualizzazione**.
-Le date corso devono essere compreso l'intervallo di tempo del giustificativo. Voucher scadono 180 giorni dopo che sono riservati.
+Dopo aver convalidato un voucher, si verrà visualizzata la pagina dei dettagli di prenotazione. Selezionare il servizio, ad esempio, set di training, l'esperto di clienti dal **elenco dei corsi visualizzazione**.
+Le date del corso devono rientrare nell'intervallo di tempo del giustificativo. I voucher scadono 180 giorni dopo che sono riservati.
 
-### <a name="modify-a-voucher"></a>Modificare un giustificativo
+### <a name="modify-a-voucher"></a>Modificare un voucher
 
-Quando è riservato un giustificativo dall'elenco giustificativo, puoi aggiornare il messaggio di posta elettronica partecipante e riscattare il giustificativo. Per aggiornare l'elenco dei partecipanti, ad esempio, per aggiungere i partecipanti o modificare gli indirizzi di posta elettronica per una linea, selezionare **Aggiorna e-mail partecipante**. Seleziona l'azione a discesa per informare il cliente che avere aggiornato l'elenco dei partecipanti **notifica di posta elettronica** .
+Quando è stata riservata voucher dall'elenco dei voucher, è possibile aggiornare l'indirizzo di posta elettronica dei partecipanti e riscattare il voucher. Per aggiornare l'elenco dei partecipanti, ad esempio, per aggiungere partecipanti o modificare gli indirizzi di posta elettronica per un corso, selezionare **aggiornare l'indirizzo di posta elettronica dei partecipanti**. Selezionare **notifica tramite posta elettronica** dall'elenco a discesa azione per informare il cliente è stato aggiornato l'elenco dei partecipanti.
 
-## <a name="redeem-a-voucher"></a>Riscattare un giustificativo
+## <a name="redeem-a-voucher"></a>Riscatta voucher
 
-Una volta che hai riservato un giustificativo, si possono riscattare si. 
+Una volta che hai riservato un voucher, è possibile riscattarlo. 
 
-1. Nel tuo elenco di voucher riservate, seleziona i giustificativo/i che vuoi riscattare. 
-2. Ora, vedrai un elenco di voucher **Redeemed** .
+1. Nell'elenco di voucher riservato, selezionare i giustificativo/i che si desidera riscattare. 
+2. È ora verrà visualizzato un elenco delle **Redeemed** voucher.
 
-4. Per creare una richiesta, selezionare **Crea una richiesta**o, nella pagina dei dettagli giustificativo selezionare **Crea una richiesta**.
+4. Per creare un'attestazione, selezionare **creare un'attestazione**, in alternativa, nella pagina dei dettagli voucher, selezionare **creare un'attestazione**.
 
-5. **Crea una richiesta** di selezione verrai indirizzato allo [Strumento di pagamento Online Software Assurance giustificativo vantaggio (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) per la fatturazione Microsoft.
+5. Selezionando **creare un'attestazione** necessaria per il [strumento di pagamento Online Software Assurance Voucher vantaggio (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) per fatturare Microsoft.
 
 
-### <a name="cancel-a-voucher"></a>Annullare un giustificativo
+### <a name="cancel-a-voucher"></a>Annulla un voucher
 
-Esistono diversi motivi, che potresti dover annullare la prenotazione giustificativo:
+Esistono diversi motivi, che potrebbe essere necessario annullare la prenotazione di voucher:
 
-- L'offerta o programma è passato da quando è stato originariamente riservato il giustificativo.
+- L'offerta o il programma è stato modificato da quando è stato originariamente riservato il voucher.
 
-- L'attivazione non è più avrà luogo.
+- La procedura di engagement non avrà luogo.
 
-- Il cliente vuole usare un altro partner per il coinvolgimento giustificativo.
+- Il cliente vuole usare un altro partner per la loro attività voucher.
 
 **Per annullare la prenotazione di un giustificativo**:
 
-1. Selezionare il giustificativo che vuoi annullare dall'elenco di voucher riservati.
+1. Selezionare il giustificativo di cui che si desidera annullare dall'elenco di voucher riservato.
 
-2. Puoi anche aggiungere questo numero nella casella di ricerca per individuarla rapidamente. 
+2. È anche possibile aggiungere il numero di voucher nella casella di ricerca per individuarlo rapidamente. 
 
-3. Seleziona **annullare una prenotazione**. La prenotazione giustificativo verranno eliminati da VVR, inserendo il giustificativo nuovamente in uno stato **assegnato** e rendendolo idoneo per la prenotazione in futuro.
+3. Selezionare **annullare la prenotazione**. Questa operazione eliminerà la prenotazione di voucher da VVR, posizionare il giustificativo di back-un' **Assigned** lo stato e renderlo idoneo per la prenotazione future.
 
->[! Nota:] Se annulli una prenotazione giustificativo e Software Assurance del cliente copertura scade, il giustificativo continueranno a essere valide fino alla relativa data di scadenza. Voucher scadono 180 giorni dopo la loro creazione.
+>[! Nota:] Se si annulla una prenotazione di voucher e Software Assurance del cliente alla scadenza di code coverage, il voucher continueranno a essere validi fino alla data di scadenza. I voucher scadono 180 giorni dopo la loro creazione.
 
-Per ulteriori informazioni sullo strumento VVR, leggi le [domande frequenti](vvr-faq.md).
+Per altre informazioni sullo strumento VVR, leggere il [domande frequenti su](vvr-faq.md).
 
-Per informazioni su come iscriversi SATV, Leggi [programma Software Assurance formazione giustificativo (SATV) nel centro per i Partner](software-assurance-satv.md).
+Per informazioni su come effettuare l'iscrizione a SATV, leggere [programma Software Assurance Training Voucher (SATV) nel centro per i Partner](software-assurance-satv.md).
 
-Per informazioni su come eseguire la registrazione in programmi di Software Assurance DP, Leggi [programmi Software Assurance nel centro per i Partner](software-assurance-dps.md)
+Per informazioni su come effettuare l'iscrizione a programmi di punti di distribuzione di Software Assurance, leggere [programmi Software Assurance nel centro per i Partner](software-assurance-dps.md)
 

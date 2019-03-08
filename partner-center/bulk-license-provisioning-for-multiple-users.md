@@ -6,14 +6,14 @@ description: Puoi assegnare licenze e servizi a un utente o a più utenti contem
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: assign license, revoke license, assign to multiple users,
+Keywords: assegnare una licenza, revocare la licenza assegnata, assegnare a più utenti,
 ms.localizationpriority: medium
 ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795354"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584254"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Assegnare o revocare licenze a più utenti
 
@@ -23,18 +23,18 @@ ms.locfileid: "5795354"
 
 Puoi assegnare licenze e servizi a un utente o a più utenti contemporaneamente nell'account di un cliente e revocare le assegnazioni di licenze per gli utenti.
 
-Centro per i Partner tiene traccia e Mostra tutti i diritti di licenza di proprietà dei clienti.
+Centro per i Partner tiene traccia e Mostra tutti i diritti di licenza di proprietà del cliente.
 
 ## <a name="in-this-section"></a>Contenuto della sezione
 
 
--   [Assegnare licenze a più utenti](#assign-licenses-to-groups)
--   [Revocare le assegnazioni di licenze degli utenti](#revoking-licenses)
+-   [Assegnare licenze agli utenti più](#assign-licenses-to-groups)
+-   [Revoca delle assegnazioni delle licenze degli utenti](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
-**Assegnare licenze a più utenti**
+**Assegnare licenze agli utenti più**
 
-1.  Il menu del **Centro per i Partner** seleziona **i clienti**e quindi scegli un cliente nell'elenco.
+1.  Dal **Centro per i Partner** dal menu **clienti**e quindi scegliere un cliente dall'elenco.
 2.  Seleziona **Utenti e licenze**.
 3.  Seleziona la casella di controllo per due o più utenti nell'elenco. (Per selezionare tutti gli utenti nella pagina corrente, seleziona la casella di controllo nella parte superiore della colonna **Utenti**.)
 
@@ -60,16 +60,16 @@ Centro per i Partner tiene traccia e Mostra tutti i diritti di licenza di propri
 7.  Puoi selezionare più di un prodotto per gli utenti selezionando la casella di controllo per ogni prodotto.
     -   Seleziona **Visualizza piani di servizio** per qualsiasi prodotto, per visualizzare e selezionare i piani di servizio di cui hanno bisogno gli utenti.
 
-8.  Seleziona **Salva**. Centro per i Partner apre una pagina di conferma **licenze aggiornate** elencati gli utenti e le nuove licenze.
+8.  Seleziona **Salva**. Centro per i Partner consente di aprire una **licenze aggiornate** pagina Conferma che elenca gli utenti e le nuove licenze.
 
-**Nota**alcuni prodotti Microsoft potrebbero non essere disponibili in determinate aree geografiche. Altri prodotti dipendono da altri prodotti o servizi o non possono essere assegnati insieme allo stesso utente. Dopo aver salvato, la pagina di conferma elenca i risultati per tutti gli utenti per le assegnazioni di licenze corrette e gli eventuali errori d assegnazione.
+**Nota**  alcuni prodotti Microsoft potrebbero non essere disponibili in determinati percorsi. Altri prodotti dipendono da altri prodotti o servizi o non possono essere assegnati insieme allo stesso utente. Dopo aver salvato, la pagina di conferma elenca i risultati per tutti gli utenti per le assegnazioni di licenze corrette e gli eventuali errori d assegnazione.
 
  
 
 <a href="" id="revoking-licenses"></a>
-**Revocare le assegnazioni di licenze degli utenti**
+**Revoca delle assegnazioni delle licenze degli utenti**
 
-1.  Il menu del **Centro per i Partner** seleziona **i clienti**e quindi scegli un cliente nell'elenco.
+1.  Dal **Centro per i Partner** dal menu **clienti**e quindi scegliere un cliente dall'elenco.
 2.  Seleziona **Utenti e licenze**.
 3.  Seleziona la casella di controllo per due o più utenti nell'elenco. (Per selezionare tutti gli utenti nella pagina corrente, seleziona la casella di controllo nella parte superiore della colonna **Utenti**.)
 

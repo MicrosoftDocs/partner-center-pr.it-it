@@ -3,19 +3,19 @@ title: "Clienti dell'interfaccia di amministrazione partner di Office 365: le op
 ms.topic: article
 ms.date: 10/29/2018
 description: Considerazioni importanti per i clienti dell'interfaccia di amministrazione partner di Office 365 in relazione alla migrazione al Centro per i partner
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 73c92447cf7f27a6266d6802c3b42526fc9669bc
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 1e2a63828c7fd875c737a650633439a43ab325ed
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062309"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587374"
 ---
-# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clienti dell'interfaccia di amministrazione partner di Office 365: le operazioni aziendali si spostano al Centro per i partner
+# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clienti centro di amministrazione partner di Office 365: Prepararsi a spostare le operazioni di business al centro per i Partner
 
-**Ambito di applicazione** 
+**Si applica a** 
 
 - Centro per i partner
 - Interfaccia di amministrazione partner di Office 365
@@ -38,11 +38,11 @@ Il completamento delle attività nel Centro per i partner viene eseguito in modo
 
 | Funzionalità dell'interfaccia di amministrazione partner di Office 365                       | Dove si trova nel Centro per i partner? | 
 |   -----------------------------------------------  | -------------- |
-| Sviluppa l'attività: crea un'offerta di acquisto | Collabora con il tuo provider per vendere offerte ai tuoi clienti |
-| Sviluppa l'attività. richiedi autorizzazioni da amministratore delegato | Centro per i partner: I clienti gt _ richiedere una relazione come rivenditore |
-| Sviluppa l'attività: crea inviti di prova | Non disponibile. È ancora possibile utilizzare l'interfaccia di amministrazione partner di Office 365 per questa operazione |
-| Richieste di servizio: elenco clienti: interfaccia di amministrazione di Office 365 | Centro per i partner: REC0 gt _ Amministra servizi i clienti |
-| Richieste di servizio: elenco di clienti: richieste di servizio | Centro per i partner: Le richieste gt _ richiesta di servizio dei clienti |
-| Richieste di servizio: Contrassegnate | Dasbhoard: Clienti: seleziona la stella accanto al nome della società |
-| Richiesta di servizio > Amministrazione clienti > Admin on behalf of (AOBO) | Centro per i partner: I clienti gt _ gt _ un cliente selezionare select gt _ sottoscrizione al rivenditore di prodotti designato |
+| Crea la tua azienda: Crea offerta di acquisto | Collabora con il tuo provider per vendere offerte ai tuoi clienti |
+| Crea la tua azienda: Richiedere le autorizzazioni di amministratore con delega | Centro per i partner: I clienti > richiedere una relazione di rivendita |
+| Crea la tua azienda: Creare inviti alla versione di valutazione | Non disponibile. È ancora possibile utilizzare l'interfaccia di amministrazione partner di Office 365 per questa operazione |
+| Richieste di servizio: Elenco di client: interfaccia di amministrazione di Office 365 | Centro per i partner: I clienti > amministrazione dei servizi |
+| Richieste di servizio: Elenco di client: Richieste di servizio | Centro per i partner: Richiesta di servizio > le richieste dei clienti |
+| Richieste di servizio: Con flag | Dasbhoard: I clienti: selezionare la stella accanto al nome della società |
+| Richiesta di servizio > Amministrazione clienti > Admin on behalf of (AOBO) | Centro per i partner: I clienti > selezionare un cliente > selezionare una sottoscrizione > selezionare il rivenditore del prodotto designata |
 

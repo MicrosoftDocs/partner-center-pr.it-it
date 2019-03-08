@@ -6,12 +6,12 @@ description: Prova le nuove funzionalità del Centro per i partner prima che ven
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cd09ce1c9896d730f78f6c983e756fc8e8437af6
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 9bcf606a18d93acd532a9a3225ab01f1ba2f23ef
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995735"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585884"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Eseguire il test drive delle nuove funzionalità del Centro per i partner
 
@@ -34,7 +34,7 @@ Per ogni funzionalità futura, puoi:
 
 - Trovare istruzioni su come eseguire il test drive della funzionalità
 
-- Vedere la data per rendere disponibili per l'anteprima e la destinazione data per una funzionalità quando la funzionalità alla community globale del centro per i Partner.
+- Visualizzare la data di destinazione per rendere una funzionalità disponibile per l'anteprima e la data go-live per quando saranno rilasciate le funzionalità per la community di Partner Center in tutto il mondo.
 
 > [!NOTE]  
 >  Per *data prevista di pubblicazione* intendiamo la data in cui pianifichiamo di rendere la funzionalità disponibile per gli utenti del Centro per i partner di tutto il mondo. Tuttavia, numerosi fattori operazioni potrebbero influire sulla data prevista di pubblicazione, compresa la decisione di incorporare il feedback per migliorare la funzionalità, e potremmo decidere di ripianificare la data di pubblicazione o di non rilasciare una versione commerciale della funzionalità.  
@@ -52,7 +52,7 @@ Ti invitiamo a condividere le tue idee e opinioni su una specifica versione di a
 
 -   Utilizzare il modulo di feedback nell'angolo inferiore destro della finestra del Centro per i partner per inviare il feedback direttamente a noi. 
 
--   Richiedere supporto se si verificano problemi con una funzionalità di anteprima. Per creare una richiesta di supporto, seleziona **richieste di supporto > richieste Centro per i Partner** dal menu del **Centro per i Partner** e quindi seleziona **la richiesta di nuovo** nella pagina **richieste Centro per i Partner** .
+-   Richiedere supporto se si verificano problemi con una funzionalità di anteprima. Per creare una richiesta di supporto, selezionare **le richieste di supporto > Partner Center richiede** dal **Partner Center** menu e quindi selezionare **nuova richiesta** sul **Centro per i partner richiede** pagina.
 
 Aiutaci a fornirti gli strumenti per migliorare i tuoi risultati!
 

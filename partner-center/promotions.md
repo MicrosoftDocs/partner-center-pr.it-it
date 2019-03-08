@@ -7,15 +7,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795054"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587434"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Utilizzare le promozioni per attirare nuovi clienti  
 
-**Si applica a: Centro per i partner**
+**Si applica a: Partner Center**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
@@ -35,14 +35,14 @@ Fermati un istante ed esamina questi importanti aspetti sulle promozioni:
 
 ## <a name="see-available-promotions"></a>Vedi le promozioni disponibili
 
-Puoi visualizzare per quali promozioni sei idoneo, se presenti, nella tua pagina**Promozioni**. Seleziona **le promozioni** il menu del **Centro per i Partner** per visualizzare un elenco di promozioni correnti insieme a sconto, tipo di promozione, date di inizio e fine per la sottoscrizione. Se non sono disponibili promozioni, viene visualizzato un messaggio che ti informa di tale situazione. 
+Puoi visualizzare per quali promozioni sei idoneo, se presenti, nella tua pagina**Promozioni**. Selezionare **promozioni** dalle **Partner Center** menu per visualizzare un elenco di promozioni corrente, nonché lo sconto, tipo di innalzamento di livello e le date di inizio e fine per la sottoscrizione. Se non sono disponibili promozioni, viene visualizzato un messaggio che ti informa di tale situazione. 
 
 > [!NOTE]  
 > Inoltre puoi visualizzare le promozioni quando effettui un acquisto. Quando selezioni una sottoscrizione, il prezzo promozionale appare nella pagina **Revisione**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Acquisto di sottoscrizioni a prezzi scontati
 
-1. Nel menu del **Centro per i Partner** , seleziona **i clienti** e quindi seleziona il cliente che acquista la sottoscrizione. 
+1. Nel **Centro per i Partner** dal menu **clienti** e quindi selezionare il cliente è come acquistare la sottoscrizione. 
 
 2. Seleziona **Aggiungi sottoscrizione**.
 

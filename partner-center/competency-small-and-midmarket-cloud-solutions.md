@@ -3,20 +3,20 @@ title: Competenza di soluzioni cloud per piccole e medie aziende
 ms.topic: article
 ms.date: 10/29/2018
 description: La competenza di soluzioni cloud per piccole e medie aziende consente di creare il proprio marchio come partner specializzato nella vendita e distribuzione di soluzioni di Office 365 ad aziende di piccole e medie dimensioni.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competenza, competenze, soluzioni cloud per piccole e medie aziende
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f7533c113f1daa8a088b2d0c74402f16f661b48
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1d273e9011871edc9f65c41ae234264a28360c42
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796854"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583924"
 ---
 >[!IMPORTANT]
->Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Per ulteriori informazioni sui requisiti per ottenere questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 # Small and Midmarket Cloud Solutions 

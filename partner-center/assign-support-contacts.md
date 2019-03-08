@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Quando configuri le sottoscrizioni per i servizi Microsoft per i clienti, puoi scegliere di assegnare il supporto tecnico di questi prodotti a un rivenditore designato, anziché fornirlo tu direttamente.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: agente per il supporto, supporto, assegnare il contatto del supporto tecnico, contatto del supporto tecnico designato
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 89b5d6bc493e1de970425bb35bbabb90cc963510
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 5dbfe3ef49840983b037a6716fad0674e28df4e9
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062349"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584394"
 ---
-# <a name="assign-support-contacts"></a>Assegnare i contatti del supporto tecnico
+# <a name="assign-support-contacts"></a>Assegnare contatti di supporto
 
 **Si applica a**
 
@@ -33,7 +33,7 @@ Questa funzionalità può essere utilizzata per gli scenari [multipartner](multi
 
 1.  Per iniziare, [richiedi una relazione](request-a-relationship-with-a-customer.md) con il rivenditore di prodotti designato. Negozia un contratto di supporto per la gestione del supporto tecnico.
 
-2.  Il menu del **Centro per i Partner** seleziona **i clienti**, quindi seleziona un cliente e quindi seleziona una sottoscrizione, ad esempio, Office 365 Business Premium.
+2.  Dal **Centro per i Partner** dal menu **clienti**, quindi selezionare un cliente, quindi selezionare una sottoscrizione, ad esempio, Office 365 Business Premium.
 
 3.  In **Designated support contact** seleziona il rivenditore di prodotti designato e quindi fai clic su **Invia**. 
 

@@ -3,20 +3,20 @@ title: Competenza di piattaforma cloud
 ms.topic: article
 ms.date: 10/29/2018
 description: La competenza di piattaforma cloud è progettata per i partner che desiderano sfruttare al meglio la crescente domanda di soluzioni dell'infrastruttura e del software come un servizio (SaaS) basate su Microsoft Azure.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competenza, competenze, piattaforma cloud
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: ae31be9420e3fdc0c09e6747bd73c38a955e79d3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 362e829a1d408d7bc63c1e776077d28442eb75c2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795754"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586234"
 ---
 >[!IMPORTANT]
->Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Per ulteriori informazioni sui requisiti per ottenere questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Cloud Platform

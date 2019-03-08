@@ -2,21 +2,21 @@
 title: Vendere in settori specifici | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-Description: Microsoft provides special, reduced pricing for select groups of customers, including education customers, non-profit customers, and government users.
+Description: Microsoft fornisce ai prezzi speciali e ridotto per selezionare i gruppi di clienti, tra cui i clienti education, clienti No profii e gli utenti per enti pubblici.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098738"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585754"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendere in settori specifici
 
-**Ambito di applicazione**
+**Si applica a**
 
 -  Centro per i partner
 
@@ -24,11 +24,11 @@ Microsoft offre prezzi ridotti speciali per gruppi selezionati di clienti, tra c
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Requisiti per vendere a settori specifici
 
-|**Prezzi speciali**   |**Qualificazioni richieste al rivenditore**   |**Qualificazioni richieste al cliente**   |
+|**Prezzo speciale**   |**Qualifiche necessarie rivenditore**   |**Qualifiche necessaria del cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Formazione   |Diventare un [venditore autorizzato per il settore della formazione](https://www.mepn.com).   | Essere un [Qualified Education User](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Ente pubblico   |Per vendere Azure, iscriviti tramite il [modulo di convalida per Microsoft Azure Government Cloud](https://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenza a enti pubblici, non è richiesta alcuna qualificazione.|   Nessuna|
-|No profit  |Nessuna<br>Devi avere un tenant di Azure Active Directory no profit.<br>Scopri di più sulle [offerte speciali per le organizzazioni no profit](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf).   |Iscriviti tramite il [programma no profit Microsoft](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
+|Governo   |Per vendere Azure, iscriviti tramite il [modulo di convalida per Microsoft Azure Government Cloud](https://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenza a enti pubblici, non è richiesta alcuna qualificazione.|   Nessuno|
+|No profit  |Nessuno<br>Devi avere un tenant di Azure Active Directory no profit.<br>Scopri di più sulle [offerte speciali per le organizzazioni no profit](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf).   |Iscriviti tramite il [programma no profit Microsoft](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>Controllare le tue qualificazioni come rivenditore
@@ -39,7 +39,7 @@ Microsoft offre prezzi ridotti speciali per gruppi selezionati di clienti, tra c
 
 ## <a name="check-the-customer-qualifications"></a>Controllare le qualificazioni dei clienti
 
-1.  Dal menu di **Centro per i Partner** , seleziona **i clienti**. Scegli il cliente nell'elenco.
+1.  Dal **Centro per i Partner** dal menu **clienti**. Scegli il cliente nell'elenco.
 2.  Nel menu del cliente seleziona **Account**. Nella sezione **Informazioni azienda** cerca **Qualificazioni speciali**.
 3.  Se l'opzione **Qualificazioni speciali** è impostata su **Nessuna**, ma il cliente soddisfa in effetti i requisiti di qualificazione, puoi **aggiornare** i dettagli per includerle.
 
@@ -47,9 +47,9 @@ Microsoft offre prezzi ridotti speciali per gruppi selezionati di clienti, tra c
 
 Una volta che tu e il tuo cliente siete qualificati per un programma di offerte speciali, seguite la normale procedura per [creare una nuova sottoscrizione](create-a-new-subscription.md). Nella sezione **Catalogo** della pagina **Nuova sottoscrizione** seleziona un settore specializzato per vedere le offerte speciali che puoi vendere.
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
-[Vendere le sottoscrizioni di Minecraft: Education Edition ai clienti del settore istruzione](minecraft-subscriptions.md)
+[Vendi Minecraft: Sottoscrizioni di edizione relative alla formazione per i clienti education](minecraft-subscriptions.md)
 
 
  

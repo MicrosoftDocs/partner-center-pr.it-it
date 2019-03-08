@@ -2,31 +2,31 @@
 title: I clienti delegano i privilegi amministrativi ai partner | Centro per i partner
 ms.topic: article
 ms.date: 12/18/2018
-description: Come partner rivenditore, il cliente può puoi essere delegato loro come amministratore. Possono anche rimuovere privilegi.
-author: labrenne
+description: I partner rivenditori può delegare il cliente è necessario essere l'amministratore. Inoltre, possono rimuovere i privilegi.
+author: LauraBrenner
 ms.author: labrenne
-keywords: privilegi di amministratore delegato, amministrazione per conto di, rimuovere i privilegi, DAP, of AOBO
+keywords: privilegi di amministratore delegato, amministratore per conto di, rimuovere i privilegi, delegato, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 92b23c15285db651abab326c18f5b25feaffdb6c
-ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
+ms.openlocfilehash: 9253bcca2d93d9f0d62d6d7241132f0c0c9bf5ec
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/19/2018
-ms.locfileid: "8976818"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586154"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>I clienti delegano i privilegi amministrativi ai partner
 
-**Ambito di applicazione:**
+**Si applica a**
 
 -  Centro per i partner
 
 Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ultimo dovrà concederti le autorizzazioni di amministratore per tale servizio. Per ottenere le autorizzazioni di amministratore, invia al cliente una richiesta di relazione come rivenditore. Dopo che il cliente ha approvato la richiesta, potrai accedere al portale di amministrazione del servizio e gestire il servizio per conto del cliente. 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire una relazione come rivenditore con te
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire con te una relazione come rivenditore
 
-1.  Seleziona **i clienti** e quindi seleziona **richiedere una relazione come rivenditore**.
+1.  Selezionare **clienti** e quindi selezionare **richiedere una relazione di rivendita**.
 
-2.  Nella pagina successiva controlla la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
+2.  Nella pagina successiva esamina la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
 
     >[!IMPORTANT]
     >Il testo nel messaggio di posta elettronica può essere modificato, ma assicurati di includere il collegamento poiché è personalizzato per collegare il cliente direttamente al tuo account. 
@@ -37,22 +37,22 @@ Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ulti
 
 5.  Dopo aver accettato l'invito, il cliente verrà visualizzato nella pagina **Clienti** e tu potrai effettuare il provisioning e gestire il servizio per il cliente da questa pagina.
 
-6.  Per gestire account, i servizi, gli utenti e licenze del cliente, Espandi il record del cliente selezionando la freccia giù accanto al nome e quindi seleziona il portale di amministrazione del servizio che desideri gestire.
+6.  Per gestire l'account del cliente, servizi, gli utenti e licenze, espandere il record del cliente, selezionando la freccia verso il basso accanto al nome e quindi selezionare il portale di amministrazione per il servizio che si desidera gestire.
 
 >[!IMPORTANT]  
->I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questo caso, se il cliente ha bisogno di assistenza, contattare il supporto Microsoft per aprire una richiesta di servizio per conto del cliente.
+>I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione di un servizio. Tuttavia, fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questo caso, se il cliente richiede assistenza, contattare il supporto Microsoft per aprire una richiesta di servizio per conto del cliente.
 
-I clienti possono scoprire quali i partner hanno privilegi di amministratore per i propri tenant all'interno del portale di amministrazione di Office 365. A tale scopo, effettua le seguenti operazioni:
+I clienti possono scoprire quali i rispettivi partner hanno privilegi di amministratore per il tenant all'interno del portale di amministrazione di Office 365. A tale scopo, effettuare le seguenti operazioni:
 
-1. Il cliente necessita di accedere al portale di amministrazione di Office 365 come un amministratore globale.
+1. Il cliente deve eseguire l'accesso al portale di amministrazione di Office 365 come amministratore globale.
 
 2. Seleziona **Impostazioni** → **Relazioni con i partner**.
 
-3. Nella pagina **relazioni con i Partner** , il cliente verrà visualizzato un elenco dei partner con cui funzionano e quelli che sono stati concessi privilegi di amministrazione per i propri tenant.
+3. Nel **relazioni di Partner** pagina, il cliente verrà visualizzato un elenco dei partner con cui lavorano e quelli che sono stati concessi delegare i privilegi di amministrazione a loro tenant.
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>I clienti possono gestire i privilegi di amministratore delegato di un partner. 
 
-Il cliente può decidere di rimuovere i privilegi di amministratore delegato dal proprio tenant, ma di mantenere la relazione con te ai fini del rinnovo della licenza e della sottoscrizione. I clienti gestiscono i diritti e le autorizzazioni per i loro account di Office 365 nella pagina **Relazioni con i partner** nell'interfaccia di amministrazione di Office 365. In questa pagina i clienti possono:
+Il cliente può decidere di rimuovere i privilegi di amministratore delegato dal tenant, ma conserva la relazione con l'utente per la sottoscrizione e i rinnovi di licenza. I clienti gestiscono i diritti e le autorizzazioni per i loro account di Office 365 nella pagina **Relazioni con i partner** nell'interfaccia di amministrazione di Office 365. In questa pagina i clienti possono:
 
 - Vedere con quali partner hanno una relazione e quali partner hanno privilegi di amministratore delegato
 
@@ -93,19 +93,19 @@ Ogni sottoscrizione di Azure ha un proprio gruppo di ruoli di gestione delle ris
 
 <!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
-Centro per i Partner, i partner CSP possono gestire i profili Autopilot per i loro clienti senza privilegi di amministratore delegato nelle seguenti circostanze: 
+Dal centro per i Partner, i partner CSP possono gestire i profili di Autopilot per i clienti senza privilegi di amministratore con delega in queste circostanze: 
 
-- Se un cliente rimuove i privilegi di amministratore delegato, ma mantiene una relazione come rivenditore con te, puoi continuare a gestire i profili Autopilot per loro.
+- Se un cliente rimuove i privilegi di amministrazione delegata, ma mantiene una relazione di rivendita con l'utente, è possibile continuare a gestire i profili di Autopilot per loro.
 
-- È possibile gestire i dispositivi dei clienti che hanno aggiunto puoi o un altro partner. 
+- È possibile gestire i dispositivi dei clienti che hanno aggiunto si o un altro partner. 
 
-- Non puoi gestire i dispositivi che il cliente ha aggiunto tramite il Microsoft Store per le aziende, Microsoft Store per gli istituti di istruzione o portale di Microsoft Intune.
+- Non è possibile gestire i dispositivi che del cliente ha aggiunto tramite il Microsoft Store per le aziende, Microsoft Store per la formazione o il portale di Microsoft Intune.
 
-Per ulteriori informazioni su Autopilot, vedi [configurazione dei dispositivi semplificata con Windows Autopilot](https://docs.microsoft.com/partner-center/autopilot).
+Per altre informazioni sulle Autopilot, vedere [semplificare l'installazione del dispositivo con Windows Autopilot](https://docs.microsoft.com/partner-center/autopilot).
 
 >[!IMPORTANT]  
->L'esperienza di gestione corrente di Autopilot nel centro per i Partner possa continuare a modificare. Al momento della che pubblicazione di questo articolo, vengono considerate le modifiche seguenti:
+>L'esperienza di gestione di Autopilot corrente nel centro per i Partner potrà continuare a modificare. Al momento che della pubblicazione dell'articolo, vengono considerate le modifiche seguenti:
 
 - Al partner devono essere concessi privilegi di amministratore delegato dal cliente prima che possa aggiungere/aggiornare/rimuovere profili dai dispositivi nel tenant del cliente.
 
-- Per i partner devono essere concessi privilegi di amministratore delegato dal cliente prima che il partner può rimuovere i dispositivi aggiunti da altri partner o dal cliente nel tenant del cliente. In caso contrario, il partner può rimuovere solo i dispositivi aggiunti in precedenza dallo stesso partner.
+- Partner è necessario concedere i privilegi di amministrazione delegata dal cliente prima che il partner può rimuovere i dispositivi aggiunti da altri partner o dal cliente nel tenant del cliente. In caso contrario, il partner può rimuovere solo i dispositivi aggiunti in precedenza dal partner stesso.

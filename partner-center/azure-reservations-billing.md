@@ -2,50 +2,50 @@
 title: Fatturazione di prenotazioni di Azure | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-Description: Information about billing for Azure reservations.
-author: v-petand
+Description: Informazioni sulla fatturazione per le prenotazioni di Azure.
+author: LauraBrenner
 ms.author: v-petand
 keywords: istanze riservate azure, istanze prenotate azure, prenotazioni, vm, gestire, fatturazione, acquisto
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 7aec5102d2ff76d321474e6e580acde6a854a9b5
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b32c0da58cefea764f7f0cb3adb6d3a13faa46b5
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796724"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586904"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Fatturazione di istanze di macchina virtuale riservate di Microsoft Azure
 
-**Ambito di applicazione:**
+**Si applica a**
 
 -  Centro per i partner
 -  Portale di Microsoft Azure
 -  Partner di CSP
 
-I partner del programma Cloud Solution Provider (CSP) possono offrire ai clienti istanze prenotate sulle macchine virtuali di Microsoft Azure. I clienti possono prenotare le macchine virtuali in anticipo, per uno o tre anni, e ottenere risparmi significativi sull'uso di Azure.   
+I partner del programma Cloud Solution Provider (CSP) possono offrire istanze prenotate ai clienti sulle macchine virtuali di Microsoft Azure. I clienti possono prenotare le macchine virtuali in anticipo, per uno o tre anni, e ottenere risparmi significativi sull'uso di Azure.   
 
 I clienti pagano anticipatamente le istanze di macchina virtuale riservate di Azure. Quando acquisti istanze di macchina virtuale riservate di Azure per conto di un cliente, riceverai le fatture e i file di riconciliazione per questi addebiti una tantum. 
 
 >[!IMPORTANT]
 >Se acquisti istanze di macchina virtuale riservate di Azure per un cliente in un mercato con una valuta diversa dalla tua, la valuta di fatturazione predefinita corrisponderà a quella del mercato del cliente e non del tuo. Se disponi di clienti in più mercati, riceverai fatture e file di riconciliazione separati per ogni valuta in cui i clienti necessitano della fatturazione, consentendoti così di fatturare nella valuta appropriata. 
 
-Per accedere ai file di riconciliazione e fatture con addebito una tantum, seleziona **la fatturazione** dal centro per i Partner e quindi seleziona **una sola volta**. 
+Per accedere a un costo una tantum fatture e i file di riconciliazione, selezionare **fatturazione** dal centro per i Partner e quindi selezionare **una volta**. 
 
 Per ulteriori informazioni generali sulla fatturazione in merito al programma Cloud Solution Provider, vedi [Nozioni di base sulla fatturazione](billing-basics.md).
 
 ## <a name="azure-reserved-vm-instance-invoice-file-definitions"></a>Definizioni dei file di fatturazione per le istanze di macchina virtuale riservate di Azure
 
-**Informazioni di fatturazione generali**
+**Informazioni di fatturazione generale**
 
 |**Campo** |**Definizione**|
 |:----------------|:-----------------------------|
-|US FEIN |Numero ID fiscale federale. |
+|US FEIN |ID fiscale federale. |
 |Indirizzo fatturazione |Indirizzo legale dell'azienda utilizzato per scopi fiscali. Per modificare questo indirizzo, vai a Impostazioni account > Profilo di fatturazione partner. |
 |Addebiti |Tutti gli addebiti correnti. |
 |Crediti |Crediti per attività di rimborso dall'acquisto iniziale. |
 |Sconti |Sconti applicabili a prenotazioni di Azure o ad altri elementi nell'ordine del cliente. |
-|Imposte |Imposta totale per gli addebiti correnti calcolata complessivamente nella sezione dei dettagli che inizia a pagina 2 della fattura. |
+|Imposte |Imposta totale per gli addebiti correnti come calcolata complessivamente nella sezione dei dettagli che inizia a pagina 2 della fattura. |
 |Costi attuali totali |L'importo dovuto nella valuta della fattura per il periodo fatturato, da pagare entro la data di scadenza. |
 |Istruzioni per il pagamento |Descrive quando e come pagare la fattura, in base all'area geografica. Includi sempre il numero di fattura quando effettui un pagamento. |
 |N. fattura |Numero della fattura. |
@@ -54,7 +54,7 @@ Per ulteriori informazioni generali sulla fatturazione in merito al programma Cl
 |Data scadenza pagamento |Data entro cui effettuare il pagamento. |
 
 
-**Elenco dettagliato dei costi una tantum**
+**Elenco dettagliato delle spese una tantum**
 
 |**Campo** |**Definizione**|
 |:----------------|:-----------------------------|
@@ -89,24 +89,24 @@ Per ulteriori informazioni generali sulla fatturazione in merito al programma Cl
 |ProductName |Nome del prodotto. |
 |ChargeType |Tipo di addebito o rettifica. |
 |UnitPrice |Prezzo per prodotto ordinato. |
-|Quantity |Numero di prodotti ordinati. |
+|Quantità |Numero di prodotti ordinati. |
 |Subtotal |Totale al lordo delle imposte. Verifica che il subtotale corrisponda al totale previsto, in caso di sconto. |
 |TaxTotal |Totale di tutte le imposte applicabili. |
-|Total |Importo totale di questo acquisto. |
-|Currency |Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Verifica quando viene emessa la prima fattura e dopo qualsiasi aggiornamento importante della piattaforma di fatturazione. |
+|Totale |Importo totale di questo acquisto. |
+|Valuta |Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Verifica quando viene emessa la prima fattura e dopo qualsiasi aggiornamento importante della piattaforma di fatturazione. |
 |DiscountDetails |Elenco dettagliato di eventuali sconti pertinenti. |
 
 
 ## <a name="manage-your-billing"></a>Gestire la fatturazione
 
-### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Visualizzare lo stato attuale della fatturazione, le fatture e i file di riconoscimento
+### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Visualizzare lo stato della fatturazione corrente, le fatture e i file di riconoscimento
 
-1.  Nel centro per i Partner, seleziona **la fatturazione** e quindi **una sola volta** per visualizzare lo stato di fatturazione. 
+1.  Nel centro per i Partner, selezionare **fatturazione** e quindi **una volta** per visualizzare il tuo stato di fatturazione. 
 2.  Seleziona una fattura o un file di riconoscimento per visualizzare informazioni più dettagliate. 
 
 ### <a name="view-a-customers-order-history"></a>Visualizzare la cronologia degli ordini di un cliente
 
-1.  Seleziona **clienti** dal menu di Centro per i Partner.
+1.  Selezionare **clienti** dal menu di scelta Centro per i Partner.
 2.  Nella pagina **Clienti** trova il cliente di cui desideri visualizzare la cronologia ordini e seleziona la freccia giù per espandere il record del cliente. 
 3.  Seleziona **Visualizza ordini** per visualizzare la cronologia degli ordini.
 
@@ -117,11 +117,11 @@ In determinate situazioni, potresti avere l'esigenza di annullare una fattura ed
 Per annullare una fattura ed emetterne una nuova, scarica il modulo dalla pagina di fatturazione in Rettifiche.
 
 ## <a name="azure-reservations-resources"></a>Risorse sulle prenotazioni di Azure
-|**Per informazioni su**   |**Leggi**    |
+|**Per informazioni su**   |**Leggere questo**    |
 |:-----------------------------|:-----------------|
-|Panoramica delle prenotazioni di Azure in CSP  | [Vendere istanze di macchina virtuale riservate di Microsoft Azure](azure-reservations.md)
-|Acquisto di prenotazioni di Azure per i clienti nel centro per i Partner   |[Acquistare prenotazioni di Azure](azure-reservations-buying.md)
-| La gestione di prenotazioni di Azure nel centro per i Partner | [La gestione di prenotazioni di Azure nel centro per i Partner](azure-reservations-manage.md)
+|Panoramica delle prenotazioni di Azure in CSP  | [Vendi le istanze di macchina virtuale riservate di Azure di Microsoft](azure-reservations.md)
+|Acquisto di istanze riservate di Azure per i clienti nel centro per i Partner   |[Acquisto di prenotazioni di Azure](azure-reservations-buying.md)
+| La gestione delle prenotazioni di Azure nel centro per i Partner | [La gestione delle prenotazioni di Azure nel centro per i Partner](azure-reservations-manage.md)
 |Acquisto di prenotazioni di Azure nel portale di Azure | [Pagare in anticipo per macchine virtuali con istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) nella Guida di Azure |
 |Gestione di prenotazioni di Azure nel portale di Azure   |[Gestire le istanze di macchina virtuale riservate](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) nella Guida di Azure  |
 |Acquisto di prenotazioni di Azure mediante l'API del Centro per i partner | [Acquisto di istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) nella documentazione per sviluppatori del Centro per i partner

@@ -9,87 +9,87 @@ ms.author: evansma
 keywords: guide al programma CSP, guida al programma, contratti partner, contratto cliente, listini prezzi, offerte
 ms.localizationpriority: medium
 ms.openlocfilehash: edb36fa2764f4853d1d99653859a716be1c958d1
-ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2019
-ms.locfileid: "9122238"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585814"
 ---
-# <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guida al programma cloud Solution Provider, ai contratti, listini prezzi e offerte
+# <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guida di programma cloud Solution Provider, contratti, gli elenchi prezzi e offerte
 
 **Si applica a**
 
 -  Centro per i partner
--  Centro per i partner per Microsoft Cloud per il governo statunitense
+-  Centro per i partner per Microsoft Cloud for US Government
 
 
 Esamina le informazioni contenute in questo articolo per informazioni sui requisiti per partecipare al programma Cloud Solution Provider (CSP) di Microsoft. 
 
-## <a name="cloud-solution-provider-program-guide"></a>Guida al programma Cloud Solution Provider
+## <a name="cloud-solution-provider-program-guide"></a>Guida di programma cloud Solution Provider
 
 Esamina i requisiti per diventare un partner nel programma Cloud Solution Provider.
 
-[Guida al programma per i partner Cloud Solution Provider](https://go.microsoft.com/fwlink/p/?LinkId=617100)
+[Guida al programma per partner Cloud Solution Provider](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->Se è necessaria una lettera di business confermare o certificare lo stato di un partner Microsoft approvato nel programma Cloud Solution Provider, [contatta il supporto tecnico](https://partner.microsoft.com/pcv/servicerequests/create) alla richiesta di uno.
+>Se sono necessarie una conferma lettera business o certificazione il tuo stato approvato partner Microsoft nel programma Cloud Solution Provider [contattare il supporto tecnico](https://partner.microsoft.com/pcv/servicerequests/create) richiederne uno.
 
-## <a name="cloud-solution-provider-partner-agreement"></a>Cloud Solution Provider - Contratto per i partner
+## <a name="cloud-solution-provider-partner-agreement"></a>Accordo tra partner cloud Solution Provider
 
 Microsoft richiede ai partner di sottoscrivere questo contratto per partecipare al programma Cloud Solution Provider. Esamina la guida per il cloud di mercato o nazionale in cui intendi operare.
 
-[Contratto per i rivenditori Microsoft Cloud - America del Nord, America centrale, America del Sud e Caraibi](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[Contratto del rivenditore Cloud Microsoft – America del Nord, America centrale, Sud America e dei Caraibi](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Contratto per i rivenditori Microsoft Cloud - Asia, Australia e Pacifico](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[Contratto del rivenditore Cloud Microsoft – Asia orientale, Australia e Pacifico](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
-[Contratto per i rivenditori Microsoft Cloud - Europa, Medio Oriente e Africa](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[Contratto del rivenditore Cloud Microsoft – Europa, Medio Oriente e Africa](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[Contratto per i rivenditori Microsoft Cloud - Giappone](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[Contratto del rivenditore Cloud Microsoft – Giappone](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[Contratto per i rivenditori Microsoft Cloud - Corea](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[Contratto del rivenditore Cloud Microsoft – Corea](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Contratto per i rivenditori Microsoft Cloud - Taiwan](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Contratto del rivenditore Cloud Microsoft – Taiwan](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Contratto per i rivenditori Microsoft Cloud - Microsoft Cloud per il governo statunitense](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[Contratto del rivenditore Cloud Microsoft - Microsoft Cloud per governo degli Stati Uniti](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
-## <a name="microsoft-cloud-agreement-customer-templates"></a>Modelli di contratto Microsoft Cloud per i clienti
+## <a name="microsoft-cloud-agreement-customer-templates"></a>Modelli dei clienti di contratto di Microsoft Cloud
 
-Prima di poter effettuare un ordine per conto del cliente, il cliente deve accettare e firmare il contratto Microsoft Cloud applicabile. Contratti Cloud Microsoft sono disponibili in più lingue e area geografica specifica. Vai a Microsoft Cloud per [i modelli dei clienti](agreements.md) per trovare il contratto Microsoft Cloud, dovrai esaminare con i nuovi clienti.
+Prima di poter effettuare un ordine per conto del cliente, il cliente deve accettare e firmare il contratto applicabile al Cloud Microsoft. Contratti di Cloud di Microsoft sono disponibili in più lingue e aree specifiche. Passare a Microsoft Cloud accordo [modelli dei clienti](agreements.md) per trovare il contratto di Microsoft Cloud è necessario esaminare con i nuovi clienti.
 
 >[!IMPORTANT]
->È necessario verificare che un cliente ha accettato il contratto Microsoft Cloud, fornendo informazioni sulla persona che ha firmato. Per ulteriori informazioni, vedere la [conferma di accettazione cliente il contratto Microsoft Cloud domande frequenti](confirm-consent-faq.md) e [Conferma l'accettazione del cliente il contratto Microsoft Cloud](confirm-consent.md) .
+>È necessario confermare che un cliente ha accettato il contratto di Microsoft Cloud, fornendo informazioni su chi ha apposto la firma. Visualizzare [confermare l'accettazione del cliente del contratto di Microsoft Cloud](confirm-consent.md) e [conferma di accettazione dei clienti di contratto di Microsoft Cloud Frequently Asked Questions](confirm-consent-faq.md) per altri dettagli.
 
-### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Amendment segreto per il contratto Microsoft Cloud (Germania)
+### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Rettifica delle condizioni di segreto per il contratto di Microsoft Cloud (Germania)
 
-In Germania, il codice criminali (sezione 203) e i codici ai professionisti IT, di condotta richiedono che determinate relazioni client sono mantenere riservati, ad esempio la relazione tra pazienti e loro medici e la relazione tra legali e i rispettivi client. Questi gruppi professionali dispongono garantire segreto. Per questi e altri professioni acquistare servizi basati su cloud dal provider di soluzioni cloud, il provider di servizi cloud deve stipulare un contratto scritto con il cliente che garantisce segreto. 
+In Germania, il codice di questioni di diritto penale (sezione 203) e i codici professionali di condotta richiedono che devono essere mantenuto riservato, ad esempio, la relazione tra i medici e pazienti e la relazione tra alcune relazioni client le spese legali e dei relativi client. Questi gruppi professionali devono garantire segreto. Per queste e altre professioni acquistare servizi basati su cloud, dei cloud solution provider, provider di servizi cloud deve concludere un contratto scritto con il cliente che garantisce segreto. 
 
-Se operi in Germania, dovrai fornire questa modifica segreto ai tuoi clienti oltre il contratto Microsoft Cloud.
+Se si lavora in Germania, devi fornire questa rettifica segreto professionale ai clienti presenti oltre il contratto di Microsoft Cloud.
 
-[Amendment segreto di contratto Microsoft Cloud per Germania (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+[Rettifica delle condizioni segreto di contratto di Microsoft Cloud per la Germania (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-[Amendment segreto di contratto Microsoft Cloud per Germania (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[Rettifica delle condizioni segreto di contratto di Microsoft Cloud per la Germania (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 
 ## <a name="pricing"></a>Prezzi
 
 
-Scarica i prezzi i dettagli per gli acquisti di base alle licenze, basati sull'utilizzo e una tantum dalla pagina **prezzi e offerte** , disponibile dal menu del **Centro per i Partner** . 
+Scarica dettagli sui prezzi per gli acquisti basati su licenza basata sull'utilizzo e monouso dal **prezzi e offerte** pagina, disponibili dalle **Partner Center** menu. 
 
-Il listino prezzi in base alle licenze viene aggiornato mensilmente e Microsoft pubblica i nuovi prezzi 30 giorni prima dell'entrata in vigore. Alcuni esempi di servizi basati su licenza sono Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM. 
+Il listino prezzi basato su licenza viene aggiornato mensilmente e Microsoft pubblica i nuovi prezzi 30 giorni prima dell'entrata in vigore. Alcuni esempi di servizi basati su licenza sono Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM. 
 
 I prezzi in base all'uso sono dinamici e cambiano di frequente. Un esempio di servizio basato sull'utilizzo è Microsoft Azure.
 
-È anche dinamico prezzi acquisto una tantum. Sono esempi di una tantum acquisti prenotazioni di Microsoft Azure e sottoscrizioni corrispondenti a Windows Server e SQL software. 
+I prezzi degli acquisti una tantum sono anche dinamici. Le prenotazioni di Microsoft Azure e le sottoscrizioni corrispondenti a Windows Server e il software di SQL sono esempi di acquisti una tantum. 
 
-Per informazioni su offerte di Azure Marketplace sui prezzi, Vai a **Marketplace** nel menu di spostamento a sinistra di Centro per i Partner. Seleziona un prodotto per visualizzare informazioni sull'editore, SKU e sui prezzi. I prezzi per questi prodotti Azure Marketplace possono cambiare frequentemente. Molto presto, verrà fornita un'opzione per esportare l'elenco di tutti i dati sui prezzi, aggiornate ogni giorno. Ti verrà anche abilitare l'accesso ai dati di prezzo tramite le API corrente. Una volta che queste opzioni sono disponibili, aggiorniamo questa pagina con altre info su come usarle.
+Per informazioni sulle offerte del Marketplace di Azure sui prezzi, visitare **Marketplace** nel menu di spostamento a sinistra di Centro per i Partner. Selezionare un prodotto per visualizzare informazioni sull'editore, SKU e sui prezzi. I prezzi per questi prodotti di Azure Marketplace possono cambiare di frequente. Sarà disponibile molto presto, forniremo un'opzione per esportare un elenco di tutti i dati sui prezzi, aggiornato ogni giorno. Si verrà inoltre abilitare l'accesso corrente per i dati sui prezzi tramite le API. Dopo che queste opzioni sono disponibili, questa pagina verrà aggiornata con altre informazioni su come usarli.
 
 ## <a name="offers"></a>Offerte
 
 
-In qualità di partner CSP, puoi vendere un'ampia gamma di soluzioni, tra cui Office 365, Enterprise Mobility Suite, Microsoft Dynamics e Microsoft Azure, servizi e i prodotti Microsoft. Per altre informazioni su quali offerte sono disponibili per la vendita all'interno di queste famiglie di prodotti, vedi la matrice dell'offerta CSP nella pagina **prezzi e offerte** , disponibile dal menu del **Centro per i Partner** . Questo documento viene aggiornato mensilmente.
+I partner CSP è possibile vendere un'ampia gamma di prodotti Microsoft, servizi e soluzioni, tra cui Office 365, Enterprise Mobility Suite, Microsoft Dynamics e Microsoft Azure. Per altre informazioni sulle offerte sono disponibili per la vendita all'interno di queste famiglie di prodotti, visualizzare la matrice di offerta CSP nel **prezzi e offerte** pagina, disponibili dalle **Partner Center** menu. Questo documento viene aggiornato mensilmente.
 
 Per i partner CSP che usano l'API CREST per i record di utilizzo, Microsoft pubblica anche un elenco dei servizi di Azure in CSP nella pagina **Prezzi e offerte**.
 
-Per altre informazioni sulle offerte di Azure Marketplace pubblicate da fornitori di Software indipendenti (ISV), visita la pagina **Marketplace** nel menu di spostamento a sinistra. Attualmente, solo i tipi di prodotti SaaS (software come servizio) possono essere acquistati nel centro per i Partner. Dovrai visitare il portale di Azure per l'acquisizione di altri tipi di offerte di Azure Marketplace.
+Per altre informazioni sulle offerte di Azure Marketplace pubblicate da fornitori di Software indipendenti (ISV), visitare il **Marketplace** pagina nel menu di spostamento a sinistra. Attualmente, solo i tipi di prodotti SaaS (software come servizio) possono essere acquistati in Partner Center. È necessario visitare il portale di Azure per acquisire altri tipi di offerte di Azure Marketplace.
 
 

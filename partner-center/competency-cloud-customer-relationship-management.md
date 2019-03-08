@@ -3,20 +3,20 @@ title: Competenze di Cloud Customer Relationship Management
 ms.topic: article
 ms.date: 10/29/2018
 description: Essere noto come provider premium di Microsoft Dynamics CRM Online o Dynamics 365 mediante l'ottenimento delle competenze di Cloud Customer Relationship Management.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competenza, competenze, cloud customer relationship management
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8eec85b1be8b16ec161733d956b90d6c11e9531e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 97213ea35a0188819c7d4d1132a98582b9e18fc7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796284"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586354"
 ---
 >[!IMPORTANT]
->Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Per ulteriori informazioni sui requisiti per ottenere questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Cloud Customer Relationship Management

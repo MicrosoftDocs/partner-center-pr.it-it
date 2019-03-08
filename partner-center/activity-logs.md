@@ -6,21 +6,21 @@ description: I log attività offrono informazioni sulle transazioni e le operazi
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
+Keywords: i log attività, sottoscrizione, le sottoscrizioni, i pagamenti, la fatturazione, le transazioni
 ms.localizationpriority: medium
 ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683760"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586064"
 ---
 # <a name="view-customer-activity-logs"></a>Visualizzare i log attività dei clienti
 
 **Si applica a**
 
 -  Centro per i partner
--  Centro per i partner per Microsoft Cloud per il governo statunitense
+-  Centro per i partner per Microsoft Cloud for US Government
 -  
 
 
@@ -30,7 +30,7 @@ I log attività includono record relativi alle azioni dei partner sugli account 
 
 **Visualizzare ed esportare i log attività**
 
-1.  Il menu del **Centro per i Partner** seleziona **Log attività**.
+1.  Dal **Centro per i Partner** dal menu **Log attività**.
 2.  Seleziona il periodo del log attività nei campi **Da** e **a**. Per impostazione predefinita, l'esportazione del log attività include l'ultimo mese.
 
     Ogni log attività include un link alla pagina **Sottoscrizioni** del cliente elencato.

@@ -3,27 +3,27 @@ title: Rinnovare le offerte MPN | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
 description: Il tuo periodo di rinnovo della sottoscrizione alle offerte MPN inizia in corrispondenza dell'anniversario della data di acquisto più un giorno.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, rinnovo competenze, data rinnovo
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3fb82e65d6ae4d3caa3f4574015f6ee980bc309a
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: e3008352b141625a974c78c11615161b29334eb1
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917403"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586894"
 ---
 # <a name="renew-your-mpn-offers"></a>Rinnovare le offerte MPN
 
-**Ambito di applicazione**
+**Si applica a**
 
 - Centro per i partner
 
 Il tuo periodo di rinnovo della sottoscrizione alle offerte MPN inizia in corrispondenza dell'anniversario della data di acquisto più un giorno. Ad esempio, se hai acquistato Microsoft Action Pack il 1° settembre 2018, il periodo di rinnovo inizia il 2 settembre 2019. È possibile rinnovare la sottoscrizione nel centro per i Partner.
 
-Nel **Centro per i Partner**, seleziona **offerte per i membri**.
+Dal **Centro per i Partner**, selezionare **appartenenza offre**.
 Nella scheda **Acquistato**, per ognuna delle offerte acquistate puoi vedere:
 
 - Data di scadenza

@@ -2,52 +2,52 @@
 title: Domande frequenti su strumento di convalida di giustificativo | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: Convalidare e riserva voucher nel centro per i Partner
-author: labrenne
+description: Convalidare e riservare i voucher nel centro per i Partner
+author: LauraBrenner
 ms.author: labrenne
-keywords: voucher di formazione, software assurance per la formazione, convalidare voucher, riserva giustificativo
+keywords: voucher corsi, verifica del software, formazione e convalidare i voucher, riserva voucher
 ms.localizationpriority: medium
-ms.openlocfilehash: 457f2c7e0e43f03bac0f861ae3f4ec87a1173d0f
-ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
+ms.openlocfilehash: 98ca652900afd38ed022801a9cb7ec4c2b917180
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "9024873"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584454"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Domande frequenti: Usando lo strumento di riscatto e la convalida giustificativo 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ: Lo strumento Voucher convalida e riscatto 
 
-**Ambito di applicazione:**
+**Si applica a**
 
 - Centro per i partner
 
-Lo strumento di convalida giustificativo e rimborso è passato al [Centro per i Partner](https://partner.microsoft.com/en-us/pcv/dashboard/overview). Di seguito sono che alcuni dei partner domande più comuni hanno. 
+Lo strumento Voucher convalida e riscatto è stato spostato in [Partner Center](https://partner.microsoft.com/en-us/pcv/dashboard/overview). Di seguito sono che alcuni dei partner alle domande più comuni sono. 
 
-**Per i partner che hanno la migrazione al centro per i Partner**
+**Per i partner che hanno eseguito la migrazione al centro per i Partner**
 
- Tutti i partner a partire dal 31 marzo 2019, saranno necessario gestire i loro voucher nel centro per i Partner. Solo l'amministratore MPN possa accedere VVR. Per usare VVR, l'amministratore dei partner MPN possa accedere al centro per i Partner con loro indirizzo di posta elettronica aziendale. Se non sai: amministratore MPN della tua azienda, chiedi il contatto principale VVR programma della tua azienda.  Se si ha accesso al centro per i Partner, Vai alla **gestione dell'accesso**, seleziona **gli utenti**e applicare filtri **: amministratore MPN** . In questo modo otterrai un elenco di amministratori MPN della tua azienda.  
+ A partire dal 31 marzo 2019, tutti i partner saranno necessario gestire i voucher nel centro per i Partner. Solo l'amministratore MPN possa accedere VVR. Per usare VVR, l'amministratore di partner MPN possa accedere al centro per i Partner tramite posta elettronica di account aziendale. Se non si conosce l'amministrazione della società MPN, porre il contatto principale VVR programma dell'azienda.  Se si ha accesso al centro per i Partner, andare al **gestione degli accessi**, selezionare **gli utenti**e filtrare **admin MPN** . Questo fornirà un elenco degli amministratori MPN dell'azienda.  
 
-**Per i partner ancora nel [Partner Membership Center](https://partner.microsoft.com/)**
+**Per i partner sempre nel [Partner Membership Center](https://partner.microsoft.com/)**
 
-A partire dal 31 marzo 2019, tutti i partner gestirà loro voucher nel centro per i Partner. Solo l'amministratore MPN possa accedere VVR. Per usare lo strumento VVR nel centro per i Partner, l'azienda dovrà completare la migrazione da PMC a Centro per i Partner. Una volta completata, usare VVR migrazione, l'amministratore dei partner MPN possa accedere al centro per i Partner, con l'indirizzo email relativo account aziendale. Se non sai amministratore della tua azienda, contatta il contatto di programma VVR principale per la tua azienda.  
-
-
-**La mia azienda è stata eseguita la migrazione da PMC, ma i programmi DP/SATV abbiamo non abbiamo usato negli ultimi 18 mesi.**
-
-- Contatta il [team di supporto PMC](mailto:proghelp@microsoft.com). 
+A partire dal 31 marzo 2019, tutti i partner gestiranno i voucher nel centro per i Partner. Solo l'amministratore MPN possa accedere VVR. Per usare lo strumento VVR nel centro per i Partner, l'azienda dovrà completare la migrazione dalla console di gestione pacchetti al centro per i Partner. Al termine della migrazione, usare VVR, l'amministratore di partner MPN può accedere al centro per i Partner, tramite posta elettronica di account aziendale. Se non si conosce l'amministratore della società, rivolgersi al contatto di programma VVR principale per la propria azienda.  
 
 
-**La mia azienda ha la migrazione da PMC a Centro per i Partner. Sarà necessario fare niente specifico di lavorare nel VVR?** 
+**La mia azienda è eseguita la migrazione dalla console di gestione pacchetti, ma è ancora stato utilizzato i programmi di punti di distribuzione/SATV negli ultimi 18 mesi.**
 
-- Sarai in grado di usare VVR nel centro per i Partner.  Per usare VVR, l'amministratore dei partner MPN possa accedere al centro per i Partner con loro indirizzo di posta elettronica aziendale. Se vuoi aggiungere nuovi utenti, l'amministratore globale può eseguire questa operazione. Se si ha accesso al centro per i Partner, Vai alla **gestione dell'accesso**, seleziona **gli utenti**e applicare filtri **: amministratore MPN** di **amministratore globale**. In questo modo otterrai un elenco di MPN e gli amministratori globali della tua azienda.  
+- Contattare il [team di supporto di console di gestione pacchetti](mailto:proghelp@microsoft.com). 
 
-**È possibile solo alcuni utenti siano in grado di accedere VVR**
 
-- Solo l'amministratore MPN possa accedere VVR. L'accesso al centro per i partner è determinato dal ruoli e autorizzazioni. L'amministratore MPN o l'amministratore globale può determinare gli utenti che utilizzano VVR offrendo le autorizzazioni per gli utenti che dovranno lavorare nello strumento.
+**La mia azienda è eseguita la migrazione dalla console di gestione pacchetti per Partner Center. Sarà necessario eseguire alcuna operazione specifici di lavorare in VVR?** 
 
-**È possibile accedere al portale CHIP dalla VVR**
+- È possibile usare VVR nel centro per i Partner.  Per usare VVR, l'amministratore di partner MPN possa accedere al centro per i Partner tramite posta elettronica di account aziendale. Se si desidera aggiungere nuovi utenti, l'amministratore globale può eseguire questa operazione. Se si ha accesso al centro per i Partner, andare al **gestione degli accessi**, selezionare **utenti**e filtrare in base **MPN admin** del **amministratore globale**. Questo fornirà un elenco di MPN e gli amministratori globali dell'azienda.  
 
-- Centro per i partner è necessario per l'accesso con un account aziendale (AAD).  CHIP attualmente utilizza account personale per l'accesso (account Microsoft o Live ID).  Durante lo spostamento da VVR nel centro per i Partner chip, sarà necessario accedere al CHIP utilizzando l'account Microsoft o Live ID registrata con CHIP.
+**Voglio solo pochi gli utenti siano in grado di accedere VVR**
 
-Per informazioni su come iscriversi SATV, Leggi [programma Software Assurance formazione giustificativo (SATV) nel centro per i Partner](software-assurance-satv.md).
+- Solo l'amministratore MPN possa accedere VVR. Centro per i partner l'accesso dipende da ruoli e autorizzazioni. L'amministratore MPN o amministratore globale può determinare chi usa VVR assegnando le autorizzazioni per gli utenti che devono usare lo strumento.
+
+**Desidera accedere al portale di CHIP da VVR**
+
+- Centro per i partner è necessario per l'accesso con un account aziendale (AAD).  CHIP attualmente Usa account personale per account di accesso (account Microsoft o Live ID).  Quando si passa da VVR nel centro per i Partner a CHIP, dovrai accedere a CHIP usando il tuo account Microsoft o Live ID che viene registrato con CHIP.
+
+Per informazioni su come effettuare l'iscrizione a SATV, leggere [programma Software Assurance Training Voucher (SATV) nel centro per i Partner](software-assurance-satv.md).
  <!--
 For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

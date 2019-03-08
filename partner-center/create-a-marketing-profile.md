@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Crea un profilo di lavoro nel Centro per i partner per ricevere i lead di vendita da Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, riferimenti, lead di vendita, C2PC, profilo della società, commercializzare la tua azienda, trovare un partner, trovare un provider di soluzioni, profilo di lavoro, profilo di marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6357bcbecf32ef312b6efbdaa8082d29a48d87
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 26497b52702a1be6797a4d2e3b77d9ab0f73d47a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062359"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587334"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -43,20 +43,20 @@ Il primo passaggio per raggiungere questi lead consiste nel creare un profilo di
 *  **Segnalazioni da dipendenti di servizi e vendite Microsoft**. I clienti potenziali interessati alla distribuzione di soluzioni tecnologiche basate sul cloud contattano Microsoft per informazioni sui professionisti in grado di aiutarli a soddisfare le esigenze aziendali. Questi professionisti Microsoft possono quindi rimandare i clienti potenziali alla tua azienda.
 
 > [!IMPORTANT]  
-> Per aiutare i nostri partner a semplificare le operazioni aziendali, stiamo consolidando caratteristiche e funzionalità che erano distribuite in diversi strumenti e siti Web nel centro per i Partner, questo sito. Come parte di questo impegno, abbiamo abbiamo spostato tutte le funzionalità relative ai riferimenti al centro per i Partner e abbiamo ritirato i siti Pinpoint e C2PC. Se hai usato Pinpoint o C2PC in passato per ottenere e gestire le segnalazioni di Microsoft, dovrai creare un nuovo profilo di lavoro nel centro per i Partner per continuare a ottenere le segnalazioni. Non è più supportata l'importazione dei profili da questi siti. 
+> Per semplificare i nostri partner operazioni aziendali, abbiamo stiamo consolidando le funzionalità che consente di essere distribuiti in diversi strumenti e i siti Web nel centro per i Partner, questo sito. Come parte di queste attività, abbiamo spostato tutte le funzionalità relative ai riferimenti al centro per i Partner e i siti Pinpoint e C2PC ritirato. Se si usa Pinpoint o C2PC in precedenza per ottenere e gestire le segnalazioni di Microsoft, è necessario creare un nuovo profilo di business nel centro per i Partner per continuare a ottenere i riferimenti. Non è più supportata l'importazione dei profili da questi siti. 
 
 ## <a name="create-a-profile"></a>Creare un profilo
 
 > [!NOTE]  
->  Prima di poter creare un profilo di lavoro, è necessario disporre di un account del centro per i Partner. Se non hai già un account del Centro per i partner, vedi [Creare un account del Centro per i partner](mpn-create-a-partner-center-account.md) per informazioni su come crearne uno. 
+>  Prima di creare un profilo business, è necessario un account Partner Center. Se non hai già un account del Centro per i partner, vedi [Creare un account del Centro per i partner](mpn-create-a-partner-center-account.md) per informazioni su come crearne uno. 
 
 Crea profili per ogni area geografica in cui sei autorizzato a svolgere la tua attività. 
 
-1.  Il menu del **Centro per i Partner** seleziona **segnalazioni** &gt; **profili di lavoro** &gt; seleziona un gt _ paese/area geografica, **[Crea un profilo di lavoro](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  Dal **Centro per i Partner** dal menu **i riferimenti** &gt; **profili Business** &gt; selezionare un paese/regione >  **[ Creare un profilo di business](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  Nella pagina **Crea un profilo di lavoro** seleziona un'area geografica, quindi immetti le informazioni del profilo.
     > [!NOTE]  
-    >  Mentre il centro per i Partner supporta più lingue, alcuni elementi, ad esempio la descrizione e i tag in formato libero, potrebbe essere necessario includere il testo da lingue diverse, come indicato in questo argomento.
+    >  Centro per i Partner supporta più lingue, alcuni elementi, ad esempio la descrizione e i tag Freeform, potrebbe essere necessario includere il testo da diversi linguaggi, come indicato in questo argomento.
 
 ### <a href="" id="partner_info"></a>Informazioni sul partner
 
@@ -75,7 +75,7 @@ La descrizione può contenere fino a 2500 caratteri. Suggerimenti per una descri
 *  **Non fare riferimento a un'altra azienda partner di Microsoft usando il nome**, a meno che non sia una filiale o affiliata della tua azienda oppure che non esista un accordo in vigore con tale azienda partner per agire in collaborazione e/o promuovere le attività reciproche nell'ottica di sfruttare opportunità commerciali condivise.
 *  **Per le aree geografiche con più lingue**, prendi in considerazione l'inclusione del testo da più lingue nella descrizione.
 
-#### <a href="" id="linkedin"></a> Pagina aziendale su LinkedIn: altri modi per connettersi
+#### <a href="" id="linkedin"></a> Pagina di LinkedIn dell'azienda: altri modi per connettersi
 
 Aggiungi la pagina di LinkedIn della tua azienda per potenziare le connessioni con i clienti potenziali. 
 
@@ -98,23 +98,23 @@ Altri tag utilizzati nella ricerca:
 *  I**tag di competenza** sono una designazione acquisita che mostra le capacità della tua azienda.
 *  I **Tag di approvazione** vengono acquisiti quando Microsoft o i clienti che hanno lavorato con te approvano il tuo lavoro.
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Allow Microsoft to endorse my areas of expertise
+#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Consentire a Microsoft sostenere la mia le competenze di
 
 Ti consigliamo di lasciare selezionata questa impostazione. 
 
-Come dimostrare il successo con i clienti attraverso il centro per i Partner o partecipando ad altri programmi o certificazioni Microsoft, aggiungeremo automaticamente delle approvazioni ai tuoi prodotti, servizi e settori contribuito a tali successi specifici. Le approvazioni sono un fattore importante nei risultati della ricerca.
+Durante la dimostrazione di successo con i propri clienti attraverso il centro per i Partner o far parte di altri programmi o le certificazioni Microsoft, si aggiungerà automaticamente le convalide per i prodotti specifici, servizi e settori che contribuiscono a tale esito positivo. Le approvazioni sono un fattore importante nei risultati della ricerca.
 
 Se tuttavia esistono dei prodotti per cui fornisci dei servizi che preferiresti che non venissero visualizzati nel tuo profilo, puoi deselezionare la casella e gestire il profilo manualmente. Queste approvazioni risulteranno nascoste alla vista dei clienti, ma potrai aggiungerle nuovamente al profilo in qualsiasi momento.
 
 ### <a name="customer-preferences"></a>Preferenze clienti
 
-#### <a href="" id="#target_size"></a>Dimensioni target
+#### <a href="" id="#target_size"></a>Dimensioni di destinazione
 
 È possibile rifiutare esplicitamente le segnalazioni da parte di aziende che non soddisfano le dimensioni target dei clienti .
 
 In tal caso, avrai a disposizione più tempo da dedicare per le aziende che rappresentano una corrispondenza per le aziende con cui si preferisce lavorare.
 
-### <a href="" id="#locations"></a> Posizioni
+### <a href="" id="#locations"></a> Percorsi
 
 Puoi aggiungere fino a 5 posizioni per ogni area geografica. Queste posizioni vengono visualizzate quando i clienti cercano partner che si trovano nelle vicinanze. 
 
@@ -134,10 +134,10 @@ Dopo la pubblicazione del profilo, gli aggiornamenti vengono visualizzati nelle 
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Migliora la visibilità del tuo profilo 
 
-*  **[Rispondi rapidamente alle richieste](responding-to-referrals.md)**. Quando ricevi una segnalazione di cliente, una risposta più veloce può produrre risultati migliori nelle pagine di ricerca per i clienti futuri.
+*  **[Rispondere rapidamente alle richieste](responding-to-referrals.md)**. Quando ricevi una segnalazione di cliente, una risposta più veloce può produrre risultati migliori nelle pagine di ricerca per i clienti futuri.
 *  **Seleziona i tag**.  È preferibile avere un numero minore tag che rappresentano al meglio offerte, soluzioni, proposte di valore e posizione univoca dell'azienda con cui dimostrare in modo coerente il successo della tua azienda.  Questa scelta darà i suoi frutti nei risultati delle future ricerche.
 *  **Acquisisci i tag di competenza** tramite Microsoft per dimostrare la competenza nei prodotti Microsoft.
 *  **Acquisisci i tag di approvazione** dai clienti che apprezzano il tuo lavoro.
 
 ## <a name="related-topics"></a>Argomenti correlati
-[Risposta alle segnalazioni](responding-to-referrals.md)
+[Risponde a riferimenti](responding-to-referrals.md)

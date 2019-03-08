@@ -8,15 +8,15 @@ ms.author: evansma
 keywords: action pack, sottoscrizione di Microsoft Action Pack, rinnovare la sottoscrizione di Microsoft Action Pack, rinnovare action pack, ottenere action pack
 ms.localizationpriority: medium
 ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795044"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587884"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Acquistare per la prima volta o rinnovare una sottoscrizione di Microsoft Action Pack
 
-**Ambito di applicazione:**
+**Si applica a**
 
 -  Centro per i partner
 -  Partner Membership Center
@@ -39,7 +39,7 @@ Dopo l'adesione alla rete dei partner segui le [istruzioni sul sito della rete d
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Rinnovare una sottoscrizione di Microsoft Action Pack
 
 >[!IMPORTANT]
->Tra ora e la fine dell'anno, solare la gestione delle sottoscrizioni di Action Pack dal Partner Membership Center (PMC) al centro per i Partner: questo sito. Il rinnovo della sottoscrizione di Action Pack potrà variare da qui ad allora, pertanto leggi con attenzione le informazioni riportate di seguito.  
+>Da ora e la fine dell'anno di calendario, passiamo ora gestione delle sottoscrizioni Action Pack dal Partner Membership Center (PMC) al centro per i Partner - questo sito. Il rinnovo della sottoscrizione di Action Pack potrà variare da qui ad allora, pertanto leggi con attenzione le informazioni riportate di seguito.  
 
 ### <a name="check-your-renewal-eligibility"></a>Verificare l'idoneità al rinnovo
 
@@ -49,17 +49,17 @@ Dopo l'adesione alla rete dei partner segui le [istruzioni sul sito della rete d
 
     - Essere in grado di eseguire la procedura per rinnovare la sottoscrizione in PMC o
 
-    - Ottenere un messaggio di invito a rinnovare la sottoscrizione nel centro per i Partner: questo sito
+    - Ottenere un messaggio che invita a rinnovare la sottoscrizione nel centro per i Partner - questo sito
 
 >[!IMPORTANT]
->Se ricevi l'invito a rinnovare la sottoscrizione nel centro per i Partner, tieni presente che abbiamo modificato i criteri della finestra di rinnovo e solo dopo la scadenza può rinnovare la sottoscrizione. Ad esempio, se la sottoscrizione scade il 22 giugno, puoi rinnovarla a partire dal 23 giugno e per i successivi 30 giorni.       
->Puoi trovare la data di scadenza della sottoscrizione nella tua pagina [**Offerte per i membri**](https://partnercenter.microsoft.com/pcv/partnership/offers) (è richiesto l'accesso). Se o quando sei idoneo per il rinnovo nel centro per i Partner, attieniti alla procedura seguente.  
+>Se sono invitati a rinnovare la sottoscrizione nel centro per i Partner, tenere presente che è stato modificato il criterio di finestra di rinnovo e che è possibile rinnovare l'abbonamento solo dopo la scadenza. Ad esempio, se la sottoscrizione scade il 22 giugno, puoi rinnovarla a partire dal 23 giugno e per i successivi 30 giorni.       
+>Puoi trovare la data di scadenza della sottoscrizione nella tua pagina [**Offerte per i membri**](https://partnercenter.microsoft.com/pcv/partnership/offers) (è richiesto l'accesso). Se o quando si è idonei per il rinnovo nel centro per i Partner, attenersi alla procedura seguente.  
 
 
 
-### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Per rinnovare una sottoscrizione Microsoft Action Pack nel centro per i Partner
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Per rinnovare un abbonamento Microsoft Action Pack nel centro per i Partner
 
-1. Vai alla tua pagina [**Offerte per i membri**](https://partnercenter.microsoft.com/pcv/partnership/offers) e seleziona **Acquistato**. Individua il riquadro di **Abbonamento a Microsoft Action Pack** .  
+1. Vai alla tua pagina [**Offerte per i membri**](https://partnercenter.microsoft.com/pcv/partnership/offers) e seleziona **Acquistato**. Individua il riquadro **Abbonamento a Microsoft Action Pack**.  
 
 2. Seleziona **Rinnova l'abbonamento**, quindi il metodo di pagamento. Puoi pagare tramite carta di credito o bonifico bancario.
 
@@ -82,10 +82,10 @@ La sottoscrizione di Action Pack verrà rinnovata automaticamente ogni anno in t
 2. Seleziona **Turn off automatic renewal** se non vuoi che la sottoscrizione di Action Pack venga rinnovata automaticamente ogni anno. 
 
     >[!NOTE]
-    >Se disattivi il rinnovo automatico della sottoscrizione, potrai riattivarlo solo al successivo rinnovo. Prima della scadenza della sottoscrizione, riceverai un promemoria per il rinnovo.
+    >Se disattivi il rinnovo automatico della sottoscrizione, potrai riattivarlo solo al successivo rinnovo. Prima della scadenza dell'abbonamento, riceverai un promemoria per il rinnovo.
 
 
-## <a name="cancel-your-action-pack-subscription"></a>Annullare l'abbonamento a Action Pack
+## <a name="cancel-your-action-pack-subscription"></a>Annullare la sottoscrizione ad Action Pack
 
 Per annullare la sottoscrizione di Microsoft Action Pack, può essere necessario contattare il supporto per i partner.
 
@@ -111,13 +111,13 @@ Per controllare lo stato della tua richiesta di assistenza, seleziona **Richiest
  
 ## <a name="next-steps"></a>Passaggi successivi
 
--   [Cominciare a utilizzare i vantaggi della sottoscrizione di Action Pack](manage-your-partner-network-benefits.md)
+-   [Iniziare a usare i vantaggi di Action Pack](manage-your-partner-network-benefits.md)
 
--   [Scoprire i livelli di adesione alle competenze Silver e Gold](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
+-   [Informazioni sui livelli di appartenenza di competenza Silver e Gold](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
--   [Aggiungere utenti e assegnare le autorizzazioni](create-user-accounts-and-set-permissions.md)
+-   [Aggiungere utenti e assegnare loro le autorizzazioni](create-user-accounts-and-set-permissions.md)
 
--   [Creare un profilo di lavoro per ottenere lead di vendita da Microsoft](create-a-marketing-profile.md)
+-   [Creare un profilo business per ottenere i lead di vendita da parte di Microsoft](create-a-marketing-profile.md)
 
 
 

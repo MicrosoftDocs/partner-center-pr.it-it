@@ -5,15 +5,15 @@ ms.date: 10/29/2018
 description: Azure Cost Management di Cloudyn richiede l'accesso tramite provisioning dell'API Centro per i partner.
 author: Janet
 ms.author: janet
-Keywords: Azure cost management app, manage costs, web apps
+Keywords: App di gestione costi di Azure, gestione dei costi, le app web
 robots: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: 586ec2936b8491e91b4f2a56cbc392e4dee350b3
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995795"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586084"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>App Azure Cost Management per i partner CSP Azure  
 
@@ -21,7 +21,7 @@ ms.locfileid: "8995795"
 
 -  Centro per i partner
 
-[Ottieni ulteriori informazioni su Azure Cost Management](https://go.microsoft.com/fwlink/p/?linkid=857893)
+[Ottenere altre informazioni su gestione costi di Azure](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 Prima di poter utilizzare Azure Cost Management, assicurati che siano soddisfatti i requisiti seguenti:
@@ -36,9 +36,9 @@ Azure Cost Management di Cloudyn è un'app Web che consente di tenere traccia e 
 ## <a name="register-your-web-app-in-the-partner-center"></a>Registra la tua app Web nel Centro per i Partner
 Registrando un'app Web di Azure Active Directory nel Centro per i partner, abiliti l'accesso all'API del Centro per i partner. 
 1.  Accedi al [Centro per i partner](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview) utilizzando un [account di amministratore globale o agente amministratore](create-user-accounts-and-set-permissions.md).
-2.  Il **Centro per i Partner**, seleziona **le impostazioni Account** &gt; **[Gestione App](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**.
+2.  Dal **Centro per i Partner**, selezionare **impostazioni Account** &gt;  **[gestione delle App](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**.
 3.  Nella sezione **Web App** fai clic su **Add new web app**.
-<br> **Nota**: se in precedenza hai creato un'app Web, puoi ignorare il passaggio 3.
+<br> **Nota**: Se è stato creato in precedenza un'app web, è possibile ignorare il passaggio 3.
 4.  Copia e salva i GUID **Commerce ID** e **App ID** per la tua app Web. Entrambi gli ID ti serviranno per utilizzare la versione di valutazione gratuita di 30 giorni dell'app di gestione dei costi di Azure.
 
 ## <a name="add-a-secret-key-to-your-app"></a>Aggiungi una chiave privata alla tua app.
@@ -46,7 +46,7 @@ Registrando un'app Web di Azure Active Directory nel Centro per i partner, abili
 2. Fai clic su **Add key**. 
 3. Copia e salva il valore della chiave privata. Questo valore ti servirà per la versione di valutazione gratuita di 30 giorni.<br>
    > [!NOTE]  
-   > Le chiavi private dell'applicazione sono simili alle password con più date di scadenza. Salva il valore della chiave in un luogo sicuro per l'utilizzo futuro.
+   > Le chiavi private dell'applicazione sono come le password con date di scadenza più lunghe. Salva il valore della chiave in un luogo sicuro per l'utilizzo futuro.
 
 ## <a name="next-steps"></a>Passaggi successivi
 Avvia una [versione di valutazione gratuita di 30 giorni](https://go.microsoft.com/fwlink/?linkid=857895).

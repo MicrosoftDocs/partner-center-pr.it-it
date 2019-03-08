@@ -3,17 +3,17 @@ title: Rimuovere una relazione con un rivenditore o un cliente | Centro per i pa
 ms.topic: article
 ms.date: 10/29/2018
 description: La rimozione di una relazione consente di rimuovere tutte le relazioni di business chiuse dalla vista nel Centro per i partner.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3697d32af38e0f9cd496a84d442fb05390f63101
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 02ce021614081caf088358513c4a7b5c7fe26a10
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062269"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587904"
 ---
-# <a name="remove-a-reseller-relationship-with-a-customer"></a>Rimuovere una relazione con un rivenditore o un cliente
+# <a name="remove-a-reseller-relationship-with-a-customer"></a>Rimuovere una relazione come rivenditore con un cliente
 
 **Si applica a**
 
@@ -28,11 +28,11 @@ Questa funzionalità:
 *  Elimina la possibilità di effettuare acquisti per conto del cliente
 
 Per rimuovere la relazione, dovrai annullare le prenotazioni delle istanze riservate di Azure, annullare gli acquisti di software e sospendere in primo luogo qualsiasi sottoscrizione attiva rimanente:
-1. Sospendi tutte le sottoscrizioni attive. Dal centro per i Partner, Vai a **clienti** gt _ seleziona un gt _ cliente **sottoscrizioni** gt _ seleziona un gt _ sottoscrizione **sospesa**. 
+1. Sospendi tutte le sottoscrizioni attive. Dal centro per i Partner, passare a **clienti** > selezionare un cliente > **sottoscrizioni** > selezionare una sottoscrizione > **Suspended**. 
 
    Ripeti questo passaggio per ogni sottoscrizione.
 
-2. Rimuovere la relazione nel centro per i Partner: dal centro per i Partner, Vai a **clienti** gt _ seleziona un **Account**cliente gt di _ > **rimuovere una relazione come rivenditore**.
+2. Rimuovere la relazione in Partner Center: Dal centro per i Partner, passare a **clienti** > selezionare un cliente > **Account** > **Rimuovi relazione di rivendita**.
 
    Se eventuali sottoscrizioni sono ancora attive, il collegamento **Remove reseller relationship** sarà inattivo. 
 

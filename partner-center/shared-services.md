@@ -2,26 +2,26 @@
 title: Aggiungere Azure Partner Shared Services | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: Azure Partner Shared Services è un nuovo tipo di offerta per i partner aderenti al programma CSP che consente di acquistare sottoscrizioni di Azure per uso proprio.
-author: labrenne
+description: Azure - Servizi condivisi/Carico di lavoro interno è un nuovo tipo di offerta per i partner aderenti al programma CSP che consente di acquistare sottoscrizioni di Azure per uso proprio.
+author: LauraBrenner
 ms.author: labrenne
-Keywords: Azure, shared services, tenant
+Keywords: Azure, servizi condivisi, tenant
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 51f235cfc840ab60e90fbbce44cb239b82273ce1
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917633"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586984"
 ---
 # <a name="add-azure-partner-shared-services"></a>Aggiungere Azure Partner Shared Services
 
-**Ambito di applicazione**
+**Si applica a**
 
 -  Centro per i partner
 
-Azure Partner Shared Services è un nuovo tipo di offerta per i partner aderenti al programma CSP che consente di acquistare sottoscrizioni di Azure per uso proprio. In questo modo i partner hanno l'opportunità di utilizzare un metodo uniforme per l'acquisto, la traccia e la gestione di Azure, oltre alla possibilità di consolidare i contratti di licenza e rivendita di Azure con Microsoft. Con Azure Partner Shared Services i partner possono ora utilizzare le sottoscrizioni di Azure in CSP con la stessa flessibilità di cui dispongono nei programmi Microsoft Enterprise Agreement e Web Direct, sfruttando scenari quali la creazione di ambienti di sviluppo e test, la distribuzione di carichi di lavoro interni e l'hosting di servizi condivisi o applicazioni multi-tenant.  
+Azure - Servizi condivisi/Carico di lavoro interno è un nuovo tipo di offerta per i partner aderenti al programma CSP che consente di acquistare sottoscrizioni di Azure per uso proprio.  Crea l'opportunità per i partner di usare un metodo uniforme per l'acquisto, di rilevamento e la gestione di Azure oltre alla possibilità di consolidare i Azure rivendita dei contratti Microsoft e licenze. Con Azure Partner Shared Services i partner possono ora utilizzare le sottoscrizioni di Azure in CSP con la stessa flessibilità di cui dispongono nei programmi Microsoft Enterprise Agreement e Web Direct, sfruttando scenari quali la creazione di ambienti di sviluppo e test, la distribuzione di carichi di lavoro interni e l'hosting di servizi condivisi o applicazioni multi-tenant.  
 
 ## <a name="create-the-shared-services-tenant"></a>Creare il tenant per servizi condivisi
 

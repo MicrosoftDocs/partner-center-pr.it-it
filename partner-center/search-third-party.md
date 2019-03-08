@@ -3,20 +3,20 @@ title: Individuare le offerte di terze parti da vendere | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
 description: Cerca e trova i tipi di offerte di terze parti più adatte per il tuo portafoglio.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: offerte di terze parti, software da acquistare, cercare terze parti
 ms.localizationpriority: medium
-ms.openlocfilehash: abf30139174d44f385b49219420ddcffcba6cf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cde02b44d728e7c5d32295ce730ee71bfc41d1e4
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796964"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585454"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Individuare le offerte di terze parti da vendere
 
-**Ambito di applicazione**
+**Si applica a**
 
 -  Centro per i partner
 
@@ -45,7 +45,7 @@ Se ti interessa acquistare il software, ma hai altre domande o vuoi parlare con 
 
 L'acquisto di software di terze parti viene eseguito come l'acquisto di software di prima entità. 
 
-1. Nel **Centro per i Partner**, seleziona **i clienti**
+1. Dal **Centro per i Partner**, selezionare **clienti**
 2. Seleziona **Nuova sottoscrizione**.
 3. Per istruzioni dettagliate, vedi [Creare, sospendere o annullare le sottoscrizioni dei clienti](create-a-new-subscription.md).
 4.  Seleziona la fatturazione mensile per il software di terze parti. La fatturazione annuale e le versioni di prova non sono attualmente disponibili per le terze parti.

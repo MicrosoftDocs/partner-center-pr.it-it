@@ -1,30 +1,30 @@
 ---
-title: Vendere le sottoscrizioni software tramite CSP | Centro per i partner
+title: Vendere sottoscrizioni di software tramite CSP | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: Ora è possibile acquisire, effettuare il provisioning e gestire sottoscrizioni Server per conto dei clienti commerciali tramite Microsoft Partner Center e il portale di Azure e istanze riservate di Azure che possono sfruttare il vantaggio Azure Hybrid.
+description: Adesso puoi acquisire, fornire e gestire istanze riservate di Azure e sottoscrizioni server per conto dei clienti commerciali tramite il Centro per i partner Microsoft e il portale di Azure sfruttando Vantaggio Azure Hybrid.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Cloud Solution Provider, CSP, servizi basati su Cloud, Azure, istanze riservate di Azure, Windows Server, SQL Server, le sottoscrizioni software
+keywords: Cloud Solution Provider, CSP, servizi basati sul cloud, Azure, istanze riservate di Azure, Windows Server, SQL Server, sottoscrizioni di software
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 508a442b9a4e33e0ce5941733141164add306a1c
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917473"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586214"
 ---
-# <a name="sell-software-subscriptions-through-csp"></a>Vendere le sottoscrizioni software tramite CSP
+# <a name="sell-software-subscriptions-through-csp"></a>Vendere sottoscrizioni di software tramite CSP
 
-Introducendo istanze riservate di Azure e Windows Server e SQL Server sottoscrizioni per il programma CSP Microsoft, è preferibile abilitazione propri partner di far fronte alla richiesta dei clienti in rapida crescita altre soluzioni convenienti in grado di supportare altamente prevedibili Microsoft e i carichi di lavoro cloud persistenti. 
+Con l'introduzione delle istanze riservate di Azure e delle sottoscrizioni per Windows Server e SQL Server nel programma Microsoft CSP, Microsoft consente ai propri partner di far fronte alla richiesta in rapida crescita dei clienti di soluzioni più convenienti, in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. 
 
-Ora è possibile acquisire, effettuare il provisioning e gestire sottoscrizioni Server per conto dei clienti commerciali tramite Microsoft Partner Center e il portale di Azure e istanze riservate di Azure che possono sfruttare il vantaggio Azure Hybrid. 
+Adesso puoi acquisire, fornire e gestire istanze riservate di Azure e sottoscrizioni server per conto dei clienti commerciali tramite il Centro per i partner Microsoft e il portale di Azure sfruttando Vantaggio Azure Hybrid. 
 
-Il vantaggio Azure Hybrid consente di ottenere più valore dalle licenze di Windows Server e risparmiare fino al 40% sulle macchine virtuali. Puoi utilizzare il vantaggio con Windows Server Datacenter e licenze Standard Edition con copertura Software Assurance. A seconda dell'edizione, puoi convertire o riutilizzare le tue licenze per eseguire macchine virtuali di Windows Server in Azure e pagare un costo di calcolo di base inferiore (i costi delle macchine virtuali Linux).
+Vantaggio Azure Hybrid ti consente di ottenere più valore dalle licenze di Windows Server e risparmiare fino al 40% sulle macchine virtuali. Puoi utilizzare il vantaggio con Windows Server Datacenter e licenze Standard Edition con copertura Software Assurance. A seconda dell'edizione, puoi convertire o riutilizzare le tue licenze per eseguire macchine virtuali di Windows Server in Azure e pagare un costo di calcolo di base inferiore (i costi delle macchine virtuali Linux).
 
 > [!NOTE]  
-> Istanze riservate di Azure non sono disponibili nei mercati seguenti:  
+> Le istanze riservate di Azure non sono disponibili nei mercati seguenti:  
 > * Argentina
 > * Azerbaigian
 > * Belarus
@@ -32,7 +32,7 @@ Il vantaggio Azure Hybrid consente di ottenere più valore dalle licenze di Wind
 > * Cina
 > * India
 > * Indonesia
-> * Kazakhstan
+> * Kazakistan
 > * Liechtenstein
 > * Malaysia
 > * Messico
@@ -44,59 +44,59 @@ Il vantaggio Azure Hybrid consente di ottenere più valore dalle licenze di Wind
 > * Turchia
 > * Ucraina
 
-## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Acquistare software sottoscrizioni per conto dei clienti
+## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Acquistare sottoscrizioni di software per conto dei clienti
 
-Per acquistare sottoscrizioni software per conto di un cliente, Vai alla pagina dei dettagli del cliente, seleziona **Aggiungi prodotti**e quindi seguire le istruzioni istruzioni per creare e pagare per l'ordine. Tutti i prezzi commercial esclude fiscali ad eccezione Australia e Brasile. Per l'Australia e Brasile, il prezzo include fiscali.
+Per acquistare sottoscrizioni di software per conto di un cliente, Vai alla pagina dei dettagli del cliente, seleziona **aggiungere prodotti**e quindi seguire sullo schermo le istruzioni per creare e pagare per il tuo ordine. Tutti i prezzi sono commerciale esclude tax fatta eccezione per Australia e Brasile. Per l'Australia e Brasile, il prezzo comprende l'imposta.
 
 
-## <a name="activate-and-manage-software-subscriptions"></a>Attivare e gestire le sottoscrizioni software
+## <a name="activate-and-manage-software-subscriptions"></a>Attivare e gestire sottoscrizioni di software
 
-Una volta che hai acquistato il software, è necessario eseguirne il download e clienti. Usa la procedura seguente per eseguire questa operazione. 
+Una volta acquistato il software, tu e i tuoi clienti dovrete scaricarlo. Utilizzare la procedura seguente per eseguire questa operazione. 
 
 >[!NOTE]
->È necessario essere un agente amministratore per ottenere le chiavi e i download. 
+>Per ottenere chiavi e download, devi essere un agente amministratore. 
 
-1. Vai alla pagina dei dettagli del cliente e quindi seleziona **Software**. Vedrai un elenco di tutto il software che hai acquistato per conto del cliente. 
-2.  Espandere il prodotto da scaricare. Nel campo **Seleziona prodotto** , selezionare la **versione**, **lingua**e **Tipo di File o del sistema operativo** che desideri. 
+1. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Vedrai un elenco di tutti i software che hai acquistato per conto del cliente. 
+2.  Espandi il prodotto che desideri scaricare. Nel campo **Selezionare prodotto** seleziona la **versione**, la **lingua** e il **tipo di file/sistema operativo** che desideri. 
 3.  Seleziona **Invia** per visualizzare i prodotti specifici. 
-4.  Seleziona **ottenere le chiavi e i download**. 
-5.  Seleziona **il Download** per iniziare il download oppure seleziona **Copia collegamento** per copiare il collegamento e invialo al cliente. 
+4.  Seleziona **Scarica chiavi e download**. 
+5.  Seleziona **Download** per avviare il download o selezionare **Copia collegamento** per copiare il collegamento e inviarlo al cliente. 
 
 >[!NOTE]
->Questo collegamento scadrà dopo due settimane o scarica 50, qualunque si verifichi per prima. Quando scade, il collegamento tornare a questa pagina e selezionare **ottenere le chiavi e i download** nuovamente per abilitare un'altra due settimane o 50 download. Puoi farlo quante volte è necessario. 
+>Questo collegamento scadrà dopo due settimane o download 50, a seconda dell'evento che si verificherà per primo. Una volta scaduto il collegamento, torna a questa pagina e seleziona **Scarica chiavi e download** nuovamente per consentire altre due settimane o 50 download. Puoi eseguire questa operazione ogni volta che ne avrai bisogno. 
 
 
-## <a name="cancel-a-purchase"></a>Annullare l'acquisto
-Usa la procedura seguente per annullare l'acquisto. Una volta completata l'annullamento, la chiave software verrà revocata. 
-
->[!NOTE]
->È necessario essere un agente amministratore per annullare l'acquisto. 
+## <a name="cancel-a-purchase"></a>Annullare un acquisto
+Usa la procedura seguente per annullare un acquisto. Una volta completato l'annullamento, la chiave software verrà revocata. 
 
 >[!NOTE]
->È possibile annullare un acquisto entro 60 giorni di effettuare l'acquisto. Non esiste alcuna tariffa di chiusura. Non è possibile annullare dopo 60 giorni. 
+>Gli acquisti possono essere annullati solo dagli agenti amministratori. 
 
-1.  Prima di iniziare il processo, assicurati di che disporre di quanto segue: 
-    -   Nome di dominio o GUID tenant del cliente
+>[!NOTE]
+>Puoi annullare un acquisto entro i 60 giorni successivi. Non esiste alcuna penale per la risoluzione. Non è possibile annullare l'acquisto una volta trascorsi 60 giorni. 
+
+1.  Prima di iniziare la procedura, assicurati di disporre dei dati seguenti: 
+    -   GUID del tenant o nome di dominio del cliente
     -   ID ordine o ID sottoscrizione
-    -   Motivo rimborso
+    -   Motivo del rimborso
     -   Importo richiesto
 
-2.  Nella pagina dei dettagli del cliente, seleziona **Software**. Vedrai un elenco di tutto il software che hai acquistato. 
+2.  Nella pagina dei dettagli del cliente seleziona **Software**. Vedrai l'elenco di tutti i software che hai acquistato. 
 
-3.  Individuare il software che vuoi annullare e seleziona **annullare**. Si apre la pagina di **segnalare un problema con il centro per i Partner** . 
+3.  Individua il software che desideri annullare e seleziona **Annulla**. Viene visualizzata la pagina **Segnalare un problema con il Centro per i partner**. 
 
-4.  **Informazioni dettagliate**, l'elenco di **tipo di problema** , selezionare **CSP acquisto o dei rimborsi per conto dei clienti**.
+4.  In **Dettagli**, nell'elenco **Tipo di problema**, seleziona **CSP Purchase/Refund on behalf of customers**.
 
-5.  Compila i campi **impatto** e **titolo** . 
+5.  Compila i campi **Impatto** e **Titolo**. 
 
-6.  Nel campo della **Descrizione** , forniscono le informazioni seguenti: 
-    -   Nome di dominio o GUID tenant del cliente
+6.  Nel campo **Descrizione** specifica quanto segue: 
+    -   GUID del tenant o nome di dominio del cliente
     -   ID ordine o ID sottoscrizione
-    -   Motivo rimborso
+    -   Motivo del rimborso
     -   Importo richiesto
 
-7.  Nel campo di **contatto** , Immetti il nome, indirizzo di posta elettronica e numero di telefono. 
+7.  Nel campo **Contatto** immetti il tuo nome, l'indirizzo e-mail e il numero di telefono. 
 
-8.  Se hai bisogno di allegare un file per qualsiasi motivo, selezionare **Aggiungi file**. Si tratta di un elemento opzionale. 
+8.  Se devi allegare un file per qualsiasi motivo, seleziona **Aggiungi file**. Questo passaggio è facoltativo. 
 
-9.  Quando hai finito, selezionare **Invia**.
+9.  Al termine, seleziona **Invia**.

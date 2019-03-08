@@ -1,19 +1,19 @@
 ---
-title: Comprendi i proventi di incentivi | Centro per i partner
+title: Comprendere i proventi incentivi | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
 description: Gli utili di incentivi e la pianificazione dei proventi aiuterà la pianificazione futura.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 535181676cc03c8e696c613e8a907705c40a8fd5
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: bcac1e3fbeefc2186881ba9403263daa2832f618
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995701"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587354"
 ---
-# <a name="understand-your-incentive-payouts"></a>Comprendere i proventi derivanti dagli incentivi
+# <a name="understand-your-incentive-payouts"></a>Informazioni sui proventi derivanti dagli incentivi
 
 **Si applica a**
 
@@ -29,7 +29,7 @@ I dati relativi agli incentivi verranno aggiornati ogni giorno. I grafici e le t
 Puoi eseguire il drill-down negli utili e nei proventi per ognuno dei programmi di incentivi. Il monitoraggio della sequenza temporale tra gli utili e i proventi sarà utile per la pianificazione delle esigenze delle risorse future e altro ancora. Puoi anche scoprire quali localizzazioni sono più efficaci e attive nei programmi di incentivi. 
 
 ## <a name="drill-down-on-incentives-earnings"></a>Esegui il drill-down negli utili di incentivi
-Scopri dove l'organizzazione dispone di spazio per guadagni maggiori tramite i programmi di incentivi e dove sei già stato pagato. Questi dati rendono evidente dove hai guadagnato ma non sei stato ancora pagato.  Comprendi quali programmi e attività hanno avuto un esito più positivo, oltre a scoprire quale delle localizzazioni ottiene utili. Mediante il programma puoi visualizzare qual è il potenziale degli utili totale, il tempo in cui puoi partecipare al programma e quando scade. Ciascun programma e tipo di utili avrà requisiti diversi, le date e soglie massime degli utili. 
+Scopri dove l'organizzazione dispone di spazio per guadagni maggiori tramite i programmi di incentivi e dove sei già stato pagato. Questi dati rendono evidente dove hai guadagnato ma non sei stato ancora pagato.  Comprendi quali programmi e attività hanno avuto un esito più positivo, oltre a scoprire quale delle localizzazioni ottiene utili. Mediante il programma puoi visualizzare qual è il potenziale degli utili totale, il tempo in cui puoi partecipare al programma e quando scade. Ogni programma e il tipo di guadagnare avrà requisiti diversi, date e valori di soglia massimo utili. 
 
 ## <a name="drill-down-on-incentive-payouts"></a>Esegui analisi in dettaglio dei proventi degli incentivi
 Per acquisire un'altra prospettiva sul reddito di incentivi, i proventi mostrano per che cosa sei stato pagato e i dettagli dei prossimi pagamenti. Puoi ottenere istruzioni per ciascuno dei programmi per cui sei stato pagato così che tu possa visualizzare i dettagli della transazione, ad esempio le imposte che sono state trattenute. Puoi approfondire i pagamenti annuali e mensili per ogni transazione.

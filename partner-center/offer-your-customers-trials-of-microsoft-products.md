@@ -2,19 +2,19 @@
 title: Offrire ai clienti le versioni di valutazione dei prodotti Microsoft | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: I tuoi clienti possono testare i prodotti a sottoscrizione Microsoft per 30 giorni. Puoi registrarti per queste versioni di valutazione nel catalogo esattamente come per molti altri servizi online.
-author: labrenne
+description: I tuoi clienti possono testare i prodotti a sottoscrizione Microsoft per 30 giorni. È possibile effettuare l'iscrizione per queste versioni di valutazione nel catalogo come molti altri servizi online.
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c9a005c185ab6abc466495fe1b61b6230a4c9955
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ed6b4b4b0a6bcbcbebfd5ac0f93a2d1fc9cb69d4
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917443"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585064"
 ---
-# <a name="offer-your-customers-trials-of-microsoft-products"></a>Offri ai tuoi clienti le versioni di valutazione dei prodotti Microsoft
+# <a name="offer-your-customers-trials-of-microsoft-products"></a>Offrire ai clienti le versioni di valutazione dei prodotti Microsoft
 
 **Si applica a**
 
@@ -24,7 +24,7 @@ Un buon metodo per presentare ai clienti i nuovi prodotti Microsoft è offrire v
 
 ## <a name="sign-your-customer-up-for-a-trial"></a>Registra il tuo cliente per una versione di valutazione
 
-1.  Dalla **vendita** nel centro per i Partner, Vai al **catalogo**. 
+1.  Dal **vendere** nel centro per i Partner, andare a **catalogo**. 
 2.  Nel catalogo fai clic su **Trial offer** in **Frequenza fatturazione**. Questa operazione consente di abilitare solo le versioni di valutazione gratuite e disabilitare altre offerte non gratuite. Le versioni di valutazione verranno visualizzate nella scheda **Versioni di valutazione** del catalogo.
 3.  Seleziona la versione di valutazione gratuita che desideri offrire, quindi seleziona **Invia**. Tutte le versioni di valutazione sono valide per 30 giorni e durante questo periodo non ti verrà addebitato alcun costo. Inoltre puoi convertirla in una sottoscrizione a pagamento in qualsiasi momento durante il periodo della versione di valutazione.
 

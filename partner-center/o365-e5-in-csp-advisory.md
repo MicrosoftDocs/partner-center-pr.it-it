@@ -8,13 +8,13 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795654"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585334"
 ---
-# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Avviso per i partner Office 365: Disponibilità di Office 365 E5 Single SKU in CSP
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Consulenze Partner di Office 365: Disponibilità di singolo SKU di Office 365 E5 CSP
 
 **Si applica a**
 
@@ -53,9 +53,9 @@ In seguito al lancio del 5 ottobre, per alcuni SKU saranno indicati lo stesso no
 
 ### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>SKU visualizzati nel listino prezzi CSP in base a data e disponibilità di PSTN
 
-**Prima del lancio di Office 365 Enterprise E5 Single SKU**
+**Prima di Ent singolo Office 365. E5 Avvio singolo SKU**
 
-**Nome visualizzato offerta**
+**Nome visualizzato dell'offerta**
 
 **ID offerta**
 
@@ -94,9 +94,9 @@ Componente aggiuntivo PSTN
 
  
 
-**Dopo il rilascio di Office 365 Enterprise E5 Single SKU**
+**Dopo il rilascio di Ent singolo Office 365. E5 Avvio singolo SKU**
 
-**Nome visualizzato offerta**
+**Nome visualizzato dell'offerta**
 
 **ID offerta**
 
@@ -110,21 +110,21 @@ Componente aggiuntivo PSTN
 
 **a044b16a-1861-4308-8086-a3a3b506fac2**
 
-**28,40**
+**28.40**
 
-**35,00**
+**35.00**
 
 **Nuovo SKU singolo**
 
-**Office 365 Enterprise E5 senza Servizi di conferenza PSTN**
+**Office 365 Enterprise E5 senza conferenza PSTN**
 
 **02c07b64-2cd3-4667-b014-561192fc5d1a**
 
-**28,40**
+**28.40**
 
-**35,00**
+**35.00**
 
-**Nuovo SKU singolo per membri non PSTN**
+**Nuovo SKU solo per i membri non-PSTN**
 
 Office 365 Enterprise E5 senza Servizi di conferenza PSTN
 
@@ -148,7 +148,7 @@ Componente aggiuntivo PSTN
 
  
 
-## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Fatture e file di riconciliazione per i partner
+## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Le fatture e i file di riconciliazione di Partner
 
 
 Il file di riconciliazione CSP e le fatture CSP forniscono voci separate per i componenti PSTN e non PSTN di Office 365 Enterprise E5 Single SKU. Le due voci hanno nomi e ID identici, ma ogni voce ha un prezzo unitario univoco (esempio: $ 28,40 e $ 2,00). Questo separa il componente Servizi di conferenza PST Skype for Business dell'offerta Office 365, in modo da poter applicare correttamente le imposte.
@@ -207,11 +207,11 @@ Esempio di riconciliazione per i partner:
 
 Per altre informazioni, visita il sito [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx). Le risorse specifiche per Office 365 Enterprise E5 sono disponibili nella [pagina di Office 365 E5](https://drumbeat.office.com/partner/pages/e5.aspx) nella scheda **Market and Sell**:
 
--   **Gestione delle licenze per Office 365 Enterprise E5**
+-   **Office 365 Enterprise E5 Licensing**
 
--   **Panoramica della licenza dei servizi PSTN per Skype for Business**
+-   **Panoramica sulle licenze di servizi di Skype for Business PSTN**
 
--   **Domande frequenti sulle licenze di Office 365 E5 e Skype for Business**
+-   **Office 365 E5 e Skype for Business domande frequenti sulle licenze**
 
  
 

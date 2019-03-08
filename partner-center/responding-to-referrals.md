@@ -2,18 +2,18 @@
 title: Rispondere alle segnalazioni | Centro per i partner
 ms.topic: article
 ms.date: 01/17/2019
-description: Come partner Microsoft qualificato, puoi valutare, negoziare e rispondere alle segnalazioni tramite il centro per i Partner.
-author: labrenne
+description: Come partner Microsoft completo, è possibile valutare, negotiate e rispondere a riferimenti tramite Centro per i Partner.
+author: LauraBrenner
 ms.author: labrenne
 keywords: segnalazione, richiesta di informazioni, Trova un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c9f2a1e9451d64dd51b469b62c7a0bb07f955631
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 43b3245d7877156012ee9f1998a3049fe246d387
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062299"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585854"
 ---
 # <a name="responding-to-referrals"></a>Risposta alle segnalazioni
 
@@ -21,10 +21,10 @@ ms.locfileid: "9062299"
 
 -  Centro per i partner
 
-Un partner Microsoft qualificato, puoi ricevere nuovi lead tramite le segnalazioni. Nel centro per i Partner, puoi gestire i lead in arrivo, rispondere rapidamente a quelle più adatte, e ignora o rifiuta quelli che non. 
+Come partner Microsoft completo, è possibile ricevere potenziali clienti potenziali attraverso i riferimenti. Nel centro per i Partner, è possibile gestire i lead in ingresso, rispondere rapidamente a quelli che sono la soluzione ideale, e ignorare o quelle che non lo rifiuta. 
 
 > [!IMPORTANT]
-> Abbiamo reso alcuni aggiornamenti per l'esperienza della gestione delle segnalazioni e stanno per implementare a tutti i partner. Fino a quando il tuo account è impostato per utilizzare la nuova esperienza, alcuni aspetti potrebbero funzionare in modo leggermente diverso. Queste differenze sono indicate di seguito. 
+> Sono stati apportati alcuni aggiornamenti per la gestione dei riferimenti esperienza e sono corso il rollout a tutti i partner. Fino a quando non viene impostato l'account per usare la nuova esperienza, è possibile che alcuni aspetti potrebbero funzionare in modo leggermente diverso. Queste differenze sono indicate di seguito. 
 
 ## <a name="referral-management"></a>Gestione delle segnalazioni
 
@@ -32,37 +32,37 @@ Inizia configurando un [profilo di lavoro](create-a-marketing-profile.md) per og
 
 *  Attività di marketing Microsoft
 *  Agenti di servizio e di vendita Microsoft interni
-*  Ricerca dei clienti, con lo strumento di ricerca di **[provider di soluzioni](https://www.microsoft.com/solution-providers/home)** .
+*  Cliente di ricerca, usando il **[provider di soluzioni](https://www.microsoft.com/solution-providers/home)** uno strumento di ricerca.
 
-Quando un cliente è interessato a ulteriori informazioni sulle tue soluzioni e servizi, essi verranno contatterà inviando una richiesta di informazioni. Al contatto indicato nel tuo [profilo di lavoro](create-a-marketing-profile.md) specifici l'area geografica e della località selezionata verrà visualizzato un messaggio di posta elettronica generati dal sistema. Puoi anche visualizzare richieste in ingresso nel centro per i Partner, Vai a **segnalazioni di clienti gt _ segnalazioni**.
+Quando un cliente è interessato a conoscere le soluzioni e i servizi meglio, essi contatteremo inviando una richiesta di informazioni (RFI). Il contatto elencato nel [profilo di business](create-a-marketing-profile.md) specifiche per l'area e percorso selezionato verrà visualizzato un messaggio di posta elettronica generato dal sistema. È inoltre possibile visualizzare in ingresso RFIs in Partner Center visitando **dei riferimenti > dei riferimenti dei clienti**.
 
-I clienti spesso scelgono di inviare la stessa richiesta di informazioni a più aziende contemporaneamente. Per aumentare le probabilità di successo, è consigliabile accettare o rifiutare le nuove segnalazioni entro 24 ore o meno.
+I clienti spesso scelgono di inviare la stessa richiesta di informazioni a più aziende contemporaneamente. Per aumentare la probabilità di successo, è consigliabile accettare o rifiutare i riferimenti di nuovo entro 24 ore o meno.
 
 ### <a name="new-referrals"></a>Nuove segnalazioni
 
-Nella tua **posta in arrivo**, ti mostreremo una panoramica della richiesta di informazioni. Da qui puoi decidere se sei interessato alla segnalazione. 
+Nel **posta in arrivo**, mostreremo una panoramica del RFI. A questo punto, è possibile decidere se si è interessati nel riferimento. 
 
-Esaminare i dettagli e non esitare a contatta il cliente se vuoi altre informazioni sulle sue esigenze aziendali. Quindi accetta o rifiuta la segnalazione: 
+Esaminare i dettagli ed esitare a contattare il cliente se si desidera approfondire le proprie esigenze aziendali. Quindi accettare o rifiutare il riferimento: 
 
-*  **Accetta**: immetti il valore stimato della trattativa, la data di chiusura prevista e seleziona **Accetta**. La segnalazione verrà spostata allo stato **attivo**, che significa che intendi interagire attivamente con il cliente per soddisfarne le esigenze. Useremo anche queste informazioni per aiutarti a trovare offerte simili in futuro.
-*  **Rifiuto**: verrà archiviata come **rifiutata** e inviare una notifica al cliente di scegliere un altro partner.
+*  **Accettare**: Immettere il valore stimato offerta, la data di chiusura prevista e selezionare **Accept**. Spostiamo il riferimento a **Active**, che significa che si prevede di coinvolgere attivamente con i clienti a soddisfare le esigenze. Si userà anche queste informazioni per aiutarti a capire riguarda simili in futuro.
+*  **Rifiuto**: È possibile archiviarlo come **rifiutato** e invia una notifica al cliente di scegliere un altro partner.
 
-Se non Rispondi entro il periodo di tempo prestabilito (attualmente 14 giorni), verrà archiviata come **scaduti** e inviare una notifica al cliente di scegliere un altro partner.
+Se non risponde entro il periodo di tempo stabilito (attualmente 14 giorni), si sarà archiviarla come **scaduta** e invia una notifica al cliente di scegliere un altro partner.
 
 > [!NOTE]
-> Il processo descritto in precedenza riflette l'esperienza di nuovo. Se il tuo account non usa questa esperienza ancora, vedrai una sezione di **Nuovo** invece **della posta in arrivo**. Per nuove segnalazioni, avrai a disposizione 72 ore di scegliere **m'apposito** (che si sposta il riferimento in una sezione separata **Evaluating** e Mostra ulteriori dettagli) o **No, grazie** (che archivia la segnalazione). Se selezioni **sono interessato**, avrai a disposizione 7 giorni per accettare la segnalazione.
+> Il processo descritto in precedenza riflette la nuova esperienza. Se l'account non utilizza questa esperienza, si noterà una **New** sezione anziché **posta in arrivo**. Per i nuovi riferimenti, sarà necessario 72 ore scegliendo **che mi interessano** (che consente di spostare il riferimento a un oggetto separato **valutazione** sezione e Mostra i dettagli più) o **No grazie**(che archivia il riferimento). Se si seleziona **che mi interessano**, sarà necessario 7 giorni per accettare il riferimento.
 
-### <a name="active-referrals"></a>Segnalazioni attivi
+### <a name="active-referrals"></a>Riferimenti attivi
 
-Lavora per concludere la trattativa con il cliente. Quando hai finito, seleziona **vinta** o **persa** per segnalare il risultato, in modo che possiamo archiviala di conseguenza.
+Lavora per concludere la trattativa con il cliente. Al termine, selezionare **vinto** oppure **Lost** per segnalare il risultato in modo che è possibile archiviarlo conseguenza.
 
 ### <a name="archived-referrals"></a>Segnalazioni archiviate
 
-Esamina le segnalazioni passate (**vinta, persa, rifiutata** o **scaduto**) in qualsiasi momento. 
+Rivedere i precedenti riferimenti (**vinto, perdita, rifiutati** oppure **scaduto**) in qualsiasi momento. 
 
 ## <a name="getting-more-referrals"></a>Ottenere altre segnalazioni
 
-Ecco alcuni suggerimenti per aiutarti a ottenere più segnalazioni appropriate per la tua azienda:
+Di seguito sono riportati alcuni suggerimenti per ottenere ulteriori riferimenti che sono appropriati per l'azienda:
 
 *  **Scegli le parole chiave e le preferenze che rappresentano la tua esperienza e il tuo modello di business specifici** nel [profilo di lavoro](create-a-marketing-profile.md). Rimuovi le parole chiave che generano segnalazioni a cui non sei interessato. Se non sei interessato a trattare con aziende di una determinata dimensione, aggiorna questa preferenza.
 

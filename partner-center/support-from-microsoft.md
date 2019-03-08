@@ -7,32 +7,32 @@ ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ba8d2d81e8e618b27b1ca8703d24d7b67a9698d5
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: fbaa42dd79b18f4db0188e9fa44c82104e0934b3
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683610"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583914"
 ---
 # <a name="support-from-microsoft"></a>Supporto da Microsoft
 
 **Si applica a**
 
 -  Centro per i partner
--  Centro per i partner per Microsoft Cloud per il governo statunitense
+-  Centro per i partner per Microsoft Cloud for US Government
 
 
 Se si verificano problemi con un servizio Microsoft o con il Centro per i partner, puoi inoltrare la richiesta di assistenza a Microsoft e tenere traccia del problema fino a quando non viene risolto.
 
-[Controllare l'integrità del servizio](check-service-health.md)
+[Controllo servizio integrità](check-service-health.md)
 
-[Segnalare i problemi relativi al Centro per i partner](report-problems-with-partner-center.md)
+[Segnala i problemi relativi al Centro per i partner](report-problems-with-partner-center.md)
 
-[Segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md)
+[Segnala problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md)
 
-[Ottenere notifiche automatizzate per i servizi con le API Microsoft](get-automated-service-notifications-with-our-apis.md)
+[Ottenere notifiche di servizio automatica con le nostre API](get-automated-service-notifications-with-our-apis.md)
 
-[Supporto di vantaggi di Microsoft](https://partner.microsoft.com/support/contact-support)
+[Supporto per i vantaggi di Microsoft](https://partner.microsoft.com/support/contact-support)
 
  
 

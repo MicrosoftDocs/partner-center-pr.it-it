@@ -6,12 +6,12 @@ description: Prima di iscriverti al programma Cloud Solution Provider per Micros
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e6aa5187dc52ddd753681a4e14bbaec32ce2420
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 0df1f72cdb0b062774accfd15299f046dac19031
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098818"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585644"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Iscriversi al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense
 
@@ -69,7 +69,7 @@ Microsoft Cloud per il governo statunitense fornisce un'istanza separata di Micr
 > [!NOTE]  
 > Dopo che avrai assegnato agli utenti il ruolo di Agente amministratore, essi saranno in grado di accedere all'elenco dei clienti nella pagina **Clienti** e [aggiungere nuovi clienti](add-a-new-customer.md).   
 
-1.  Accedi al portale di amministrazione di Microsoft Azure in https://portal.azure.us/.
+1.  Accedi al portale di amministrazione di Microsoft Azure all'indirizzo https://portal.azure.us/.
 
 2.  Assegna il ruolo di Agente amministratore agli utenti appropriati nell'organizzazione. A tale scopo, è necessario aggiungere questi utenti al gruppo **AdminAgent** predefinito. Vedi [Gestire i membri di un gruppo in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) per informazioni su come eseguire questa operazione.
  
@@ -81,8 +81,8 @@ Microsoft Cloud per il governo statunitense fornisce un'istanza separata di Micr
 
 ## <a name="related-topics"></a>Argomenti correlati
 
--  [Centro per i partner per Microsoft Cloud per il governo statunitense](partner-center-for-microsoft-us-govt-cloud.md)
+-  [Centro per i partner per Microsoft Cloud per enti pubblici degli Stati Uniti](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud per il governo statunitense](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
+-  [Gestione di utenti e licenze nel centro per i Partner per il Cloud Microsoft per governo degli Stati Uniti](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 
 

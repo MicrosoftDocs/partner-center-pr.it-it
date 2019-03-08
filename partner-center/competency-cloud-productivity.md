@@ -3,20 +3,20 @@ title: Competenza di produttività cloud
 ms.topic: article
 ms.date: 10/29/2018
 description: La competenza di produttività cloud è per i partner specializzati nelle distribuzioni aziendali di Office 365. Differenzia l'azienda con questa competenza come Cloud Solution Provider comprovato per i clienti alla ricerca di partner di soluzioni cloud qualificate.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competenza, competenze, produttività cloud
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 86a423236440dbcf25b7974c1d24ba7f0a14fa2f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0aabf09435dbb1f08ddd79f6fac5075860c3033
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794644"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585494"
 ---
 >[!IMPORTANT]
->Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Per ulteriori informazioni sui requisiti per ottenere questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 # Cloud Productivity competency

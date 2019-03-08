@@ -8,22 +8,22 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: migrazione dei clienti, provisioning, account tenant, consolidamento dei tenant
 ms.localizationpriority: medium
-ms.openlocfilehash: 695f8298e13680532b63ec24a27d56984bd59c89
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 183b5f518a57fdaf27badce5927a2ea09a5ec89c
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995885"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587554"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidamento dei tenant per l'autorizzazione regionale per CSP
 
 **Si applica a**
 
 -  Centro per i partner
--  Centro per i partner per Microsoft Cloud per il governo statunitense
+-  Centro per i partner per Microsoft Cloud for US Government
 
 
-\[Alcune informazioni sono relative a un prodotto non definitivo che potrebbe subire modifiche sostanziali prima del rilascio sul mercato. Microsoft non riconosce alcuna garanzia, espressa o implicita, in merito alle informazioni qui fornite.\]
+\[Alcune informazioni si riferiscono al prodotto non definitivo che può essere modificato sostanzialmente prima del rilascio in commercio. Microsoft non rilascia alcuna garanzia, espressa o implicita, relativamente alle informazioni fornite di seguito.\]
 
 Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche diversi.
 
@@ -34,20 +34,20 @@ Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche divers
 ## <a name="prepare-for-migration"></a>Prepararsi per la migrazione
 
 
--   Accedi al proprio **Centro per i Partner** con la **transizione** (esistente) (l'account è trasferiscono) e Prendi nota di tutti i clienti e tutti i servizi effettuato il provisioning per tali clienti.
+-   Accedi per i **Centro per i Partner** con il **dedicata alla transizione** account (esistente) (quello passerà) e prendere nota di tutti i clienti e tutti i servizi di provisioning per i clienti.
 
 ![elenco dei clienti regionali](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>Eseguire la migrazione degli account dei clienti
 
 
-1.  Accedi al proprio **Centro per i Partner** con la **transizione** (nuovo) (l'account durante la transizione in) e passa all'elenco dei clienti dei **clienti**.
+1.  Accedi per i **Centro per i Partner** con il **dedicata alla transizione** (nuovo) dell'account (quello che stanno passando a) e passare all'elenco di clienti dal **clienti**.
 
 2.  Seleziona Clienti.
 
 3.  Fai cli su **Richiedi una relazione come rivenditore**. Viene visualizzato un messaggio e-mail predefinito per presentarti ai clienti. Questo messaggio contiene un URL con l'ID organizzazione univoco per il tuo nuovo account del Centro per i partner.
 
-4.  **Azione del cliente:** assicurati che ogni cliente attivo di cui vuoi eseguire la migrazione visiti questo URL. All'apertura dell'URL, al cliente viene richiesto di accedere al portale di Office 365. Il cliente effettua l'accesso con lo stesso ID organizzazione usato per accedere ai portali di amministrazione di Azure e Office 365.
+4.  **Azione del cliente:** Assicurarsi che ogni cliente active che si vuole eseguire la migrazione visita questo URL. All'apertura dell'URL, al cliente viene richiesto di accedere al portale di Office 365. Il cliente effettua l'accesso con lo stesso ID organizzazione usato per accedere ai portali di amministrazione di Azure e Office 365.
 
 5.  Dopo l'accesso, all'amministratore globale per l'account del cliente viene richiesto di inviare un contratto per attribuire privilegi di amministratore delegato al nuovo account CSP. Se è d'accordo, il cliente seleziona la casella di controllo e accetta di autorizzare la relazione.
 
@@ -58,7 +58,7 @@ I clienti verranno visualizzati nell'elenco dei clienti del partner dopo l'invio
 
 1.  Quando il cliente ha accettato il contratto, puoi ricreare le sue sottoscrizioni nel tuo tenant partner centralizzato.
 
-2.  Seleziona **i clienti**nel **Centro per i Partner** .
+2.  Dal **Centro per i Partner** selezionate **clienti**.
 
 3.  Apri il nome dell'azienda per il cliente di cui vuoi eseguire la migrazione.
 
@@ -66,7 +66,7 @@ I clienti verranno visualizzati nell'elenco dei clienti del partner dopo l'invio
 
 5.  Aggiungi le sottoscrizioni e il numero di postazioni corretti dal catalogo. Controlla in base alle informazioni fornite per gli account partner di **origine della transizione**.
 
-![elenco dei clienti](images/regionalcustomer2.png)
+![elenco di clienti](images/regionalcustomer2.png)
 
 6.  Fai clic su **Invia**.
 
@@ -85,12 +85,12 @@ Prima di procedere alla sezione successiva, verifica che sia stato eseguito di n
 
 La disabilitazione della sottoscrizione CSP negli account partner di **origine della transizione** interrompe eventuali fatturazioni future. Non devi disabilitare manualmente le sottoscrizioni di Azure, perché le sottoscrizioni di Azure vengono disabilitate automaticamente durante il processo di migrazione.
 
-1.  Accedi al **Centro per i Partner** con l'account CSP **Transizione** e passa all'elenco dei clienti.
+1.  Accedi per il **Centro per i Partner** con il **in fase di transizione da** CSP di account e passare all'elenco di clienti.
 
 2.  Apri il cliente con le sottoscrizioni da disabilitare e quindi seleziona la prima offerta da disabilitare.
 3.  Imposta la sottoscrizione come **sospesa** e quindi fai clic su **Invia**.
 
- >[! **Nota**] Sospensione della sottoscrizione consente di evitare doppie fatturazioni.
+ >[! **Nota**] sospensione della sottoscrizione assicura provochi una fatturazione non si verifica.
 
 
 
@@ -113,7 +113,7 @@ Nota che non è necessario eseguire manualmente la migrazione delle sottoscrizio
 4.  Il partner verifica che la sottoscrizione di Azure per gli account rivenditore CSP di **origine della transazione** risulti ora sospesa nel Centro per i partner nella sezione delle sottoscrizioni del cliente.
 5.  Il partner verifica che la sottoscrizione di Azure per l'account rivenditore CSP di **destinazione della transazione** abbia ora lo stato **Attiva** nel Centro per i partner nella sezione delle sottoscrizioni del cliente.
 
->[! **Nota**] La disabilitazione delle sottoscrizioni del cliente non cambia l'aspetto del cliente nell'elenco clienti. Attualmente non è disponibile alcuna opzione per rimuovere i clienti dall'elenco. I partner devono evitare di aggiungere di nuovo sottoscrizioni per questi clienti dall'account di **origine della transizione** in futuro.
+>[! **Nota**] la disabilitazione di sottoscrizioni per il cliente non modifica l'aspetto del cliente nell'elenco di clienti. Attualmente non è disponibile alcuna opzione per rimuovere i clienti dall'elenco. I partner devono evitare di aggiungere di nuovo sottoscrizioni per questi clienti dall'account di **origine della transizione** in futuro.
 
 
 
@@ -135,7 +135,7 @@ Nota che non è necessario eseguire manualmente la migrazione delle sottoscrizio
 
 La **funzione di esportazione** consente di recuperare le sottoscrizioni che devi usare nella nuova struttura consolidata:
 
-1.  Fai clic su **i clienti** nel centro per i Partner per visualizzare l'elenco dei clienti nella struttura esistente.
+1.  Fare clic su **clienti** nel centro per i Partner per visualizzare l'elenco di clienti in una struttura esistente.
 
 2.  Apri il nome del cliente desiderato.
 

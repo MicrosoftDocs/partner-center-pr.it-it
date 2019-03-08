@@ -3,20 +3,20 @@ title: Competenza di integrazione di applicazioni
 ms.topic: article
 ms.date: 10/29/2018
 description: La competenza di integrazione di applicazioni riconosce i partner e gli sviluppatori che integrano applicazioni univoche e soluzioni in diversi prodotti nell'ecosistema Microsoft.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competenza, competenze, integrazione di applicazioni
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5acf238ddb323e7031253e5b9176b8ac6841c0ec
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 988274508a65bafdf3789e71fa2bd3ad278c7065
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797314"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584064"
 ---
 >[!IMPORTANT]
->Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Per ulteriori informazioni sui requisiti per ottenere questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

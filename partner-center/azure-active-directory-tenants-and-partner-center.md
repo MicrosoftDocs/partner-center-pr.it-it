@@ -2,19 +2,19 @@
 title: Account aziendali e Centro per i partner | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
-description: Per creare un account del Centro per i partner, la tua azienda deve disporre di un account aziendale. Se hai un abbonamento attivo per Microsoft Azure o Office 365, disponi già di un account aziendale.
-author: labrenne
+description: Per creare un account del Centro per i partner, la tua azienda deve disporre di un account aziendale. Se hai una sottoscrizione attiva a Microsoft Azure o Office 365, hai già un account aziendale.
+author: LauraBrenner
 ms.author: labrenne
-Keywords: work account, email, tenant, Azure tenant, create account, domain name
+Keywords: account, posta elettronica, tenant, tenant di Azure, creare account, il nome di dominio
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 529d6f3930c74e75043c87f13b21aa69461c26ad
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ef953d161fe15d8a950bdbbe70bac72ac9318ec3
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917523"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584684"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Account aziendale e Centro per i partner  
 
@@ -29,7 +29,7 @@ Dobbiamo collegare l'account aziendale della tua società al nuovo account del C
 Se la tua azienda dispone già di un account aziendale, puoi collegarlo all'account del Centro per i partner. 
 
 > [!NOTE]  
->  Prima di decidere di usare un account aziendale esistente, valuta il numero di utenti nell'account che dovranno lavorare nel centro per i Partner. Se sono presenti utenti nell'account che non dovranno lavorare nel centro per i Partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno lavorare nel centro per i Partner.
+>  Prima di decidere di usare un account di lavoro esistente, pensare su quanti gli utenti dell'account da utilizzare nel centro per i Partner. Se sono presenti utenti nell'account che non utilizzano nel centro per i Partner, è consigliabile creare un nuovo account per solo gli utenti che dovranno essere eseguiti nel centro per i Partner.
 
 Se l'azienda non dispone di un account aziendale, puoi crearne uno durante il processo di registrazione. 
 

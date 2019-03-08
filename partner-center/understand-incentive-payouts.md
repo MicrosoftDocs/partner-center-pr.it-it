@@ -3,19 +3,19 @@ title: Comprendere i propri proventi derivanti dagli incentivi | Centro per i pa
 ms.topic: article
 ms.date: 10/29/2018
 description: Visualizzare gli utili e i proventi per i programmi di incentivi.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995955"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585384"
 ---
-# <a name="incentive-payouts-overview"></a>Panoramica dei proventi degli incentivi
+# <a name="incentive-payouts-overview"></a>Panoramica di incentivi proventi
 
-**Ambito di applicazione**
+**Si applica a**
 
 -  Centro per i partner
 
@@ -106,7 +106,7 @@ Le seguenti tabelle descrivono i campi disponibili nei file .csv della distinta.
 |EarningID      |Identificatore univoco creato per ogni voce di utile |               
 |Nome partner   | Nome registrato del partner nel Centro per i partner                    |
 |MPN/PCN        |ID MPN (ID di Microsoft Partner Network del partner)/Numero di cliente pubblico|
-|Localizzazione       | Paese/Area geografica di ID organizzazione-MPN V del partner|
+|Location       | Paese/Area geografica di ID organizzazione-MPN V del partner|
 |Nome programma   |Nome del programma di incentivi |
 |Nome cliente  |   Nome del cliente che ha acquistato la sottoscrizione |
 |Localizzazione del cliente  | Paese in cui si trova il cliente  |
@@ -119,7 +119,7 @@ Le seguenti tabelle descrivono i campi disponibili nei file .csv della distinta.
 |Data di inizio della sottoscrizione    |Data di inizio di una sottoscrizione|
 |Data di fine sottoscrizione  |Data di fine di una sottoscrizione|
 |SKU del prodotto    |Numero SKU per un prodotto|
-|Nome del prodotto   |Nome del prodotto Microsoft|
+|Nome prodotto   |Nome del prodotto Microsoft|
 |Data transazione   |Data e ora di esecuzione della transazione (UTC).|
 |Conteggio licenze  |Numero di licenze vendute |
 |Quantità   |Numero di unità vendute| 
@@ -147,11 +147,11 @@ Le seguenti tabelle descrivono i campi disponibili nei file .csv della distinta.
 
 ## <a name="downloading-payment-details"></a>Download dei dettagli di pagamento 
 
-|**Nome colonna**   |**Descrizione**   |
+|**Nome della colonna**   |**Descrizione**   |
 |-------------------|:--------------------|
 |Nome partner|Nome registrato del partner nel Centro per i partner|
 |MPN/PCN        |ID MPN (ID di Microsoft Partner Network del partner)/Numero di cliente pubblico|
-|Localizzazione       | Paese/Area geografica di ID organizzazione-MPN V del partner|
+|Location       | Paese/Area geografica di ID organizzazione-MPN V del partner|
 |Nome programma   |Nome del programma di incentivi |
 |Tipo di utili   |Tipo di utile (rimborso, rettifica) |
 |Valuta importo di pagamento.|   Il tipo di valuta utilizzato per il pagamento|
@@ -161,9 +161,9 @@ Le seguenti tabelle descrivono i campi disponibili nei file .csv della distinta.
 |Riferimento di pagamento |Identificatore univoco per ciascun pagamento, che include l'ID di pagamento, che Microsoft offre alla tua banca. |
 |Descrizione pagamento|Descrive il tipo di pagamento.| 
 |Data pagamento|  Data in cui è stato effettuato il pagamento |
-|Mese fiscale pagamento|  Mese fiscale del pagamento|
-|Anno fiscale pagamento|   Anno fiscale del pagamento|
-|Metodo di pagamento |Modalità di pagamento, ad esempio, nota di credito/bonifico/assegno e così via. |
+|Mese fiscale pagamento|  Mese fiscale pagamento|
+|Anno fiscale pagamento|   Anno fiscale pagamento|
+|Modalità di pagamento |Modalità di pagamento, ad esempio, nota di credito/bonifico/assegno e così via. |
 |Stato del pagamento|    Lo stato del pagamento nel processo di pagamento| 
 |Data del tasso di cambio|    Data del tasso di cambio usato per la conversione di valuta|
 |Conversione del pagamento nella valuta USD |Conversione dalla valuta del pagamento a USD |

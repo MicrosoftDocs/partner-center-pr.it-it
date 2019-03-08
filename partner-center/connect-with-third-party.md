@@ -3,20 +3,20 @@ title: Aggiungere software di terze parti al tuo portafoglio  | Centro per i par
 ms.topic: article
 ms.date: 10/29/2018
 description: Acquistare software di terze parti che funziona con i prodotti Microsoft
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: offerte di terze parti, software da acquistare
 ms.localizationpriority: medium
-ms.openlocfilehash: 42aacee4f5d9612f3b55bd1774f9c96b71be8eda
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fb378c5fded17bd7f8f7c35d375278097fc32098
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795764"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586814"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Aggiungere software di terze parti al tuo portafoglio
 
-Ambito di applicazione
+Si applica a:
 
 -Centro per i partner
 
@@ -24,7 +24,7 @@ Ora puoi acquistare offerte di software di terze parti nel Centro per i partner 
 
 Il Centro per i partner attualmente dispone di offerte di software di terze parti che si integrano con Azure, Office 365 e Dynamics. 
 
-## <a name="connect-with-third-party-partners"></a>Entrare in contatto con i partner di terze parti
+## <a name="connect-with-third-party-partners"></a>Connettiti con partner di terze parti
  
 In qualità di partner CSP, puoi cercare tra le offerte software di terze parti. Puoi entrare in contatto con partner ISV e creare il tuo catalogo di prodotti. Anche i partner ISV possono cercare partner CSP con cui collaborare. Possono eseguire la ricerca in base ai tipi di prodotti Microsoft che vendi, oltre a esaminare il tuo profilo di business. È importante mantenere aggiornato il profilo di business. Puoi indicare a un partner ISV il tuo interesse nel loro prodotto facendo clic sull'apposito pulsante situato sull'identificatore di prodotto e compilando il modulo visualizzato. Microsoft lo invierà al partner ISV. La risposta viene mantenuta nel Centro per i partner. Analogamente, quando un partner ISV esprime interesse in una collaborazione con te, riceverai una notifica attraverso il Centro per i partner. Cerca di rispondere entro 48 ore.
 
@@ -56,11 +56,11 @@ Nella pagina dei dettagli troverai un collegamento al sito Web dell'ISV, le info
 
 L'acquisto di software di terze parti viene eseguito come l'acquisto di software di prima entità. 
 
-1. Nel **Centro per i Partner**, seleziona **i clienti**
+1. Dal **Centro per i Partner**, selezionare **clienti**
 2. Seleziona **Nuova sottoscrizione**.
-3. Seleziona la fatturazione mensile per il software di terze parti. La fatturazione annuale e le versioni di prova non sono attualmente disponibili per il software di terze parti.
+3. Seleziona la fatturazione mensile per il software di terze parti. La fatturazione annuale e le versioni di prova non sono attualmente disponibili per le terze parti.
 4. Nella scheda dedicata al software di terze parti seleziona il prodotto che vuoi acquistare.
-5. Seleziona la sottoscrizione che vuoi aggiungere e immetti il numero di licenze. **Invia** quindi l'ordine.
+5. Controlla la sottoscrizione che vuoi aggiungere e immetti il numero di licenze. **Invia** quindi l'ordine.
 6. Dopo aver aggiunto la sottoscrizione, aprila selezionando il nome della sottoscrizione nell'elenco delle sottoscrizioni.
 7. Nella pagina di modifica puoi modificare la quantità di licenze o sospendere la sottoscrizione.
 

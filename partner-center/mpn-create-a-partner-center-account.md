@@ -7,13 +7,13 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 93b8eb679731025cd7ded38abf6e071c5b797893
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796204"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587594"
 ---
-# <a name="create-a-partner-center-account"></a>Creare un account nel Centro per i partner
+# <a name="create-a-partner-center-account"></a>Creare un account Centro per i partner
 
 **Si applica a**
 
@@ -27,11 +27,11 @@ Prima di poter creare un account nel Centro per i partner o iscriverti a un prog
 
 Dopo aver creato un account nel Centro per i partner potrai:
 
--   [Acquistare o rinnovare un abbonamento a Microsoft Action Pack](mpn-get-action-pack.md)
+-   [Acquistato o rinnovato un abbonamento Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Creare un profilo di lavoro per ottenere lead di vendita da Microsoft](create-a-marketing-profile.md)
+-   [Creare un profilo business per ottenere i lead di vendita da parte di Microsoft](create-a-marketing-profile.md)
 
--   [Ottenere e gestire lead di vendita da Microsoft](responding-to-referrals.md)
+-   [Ottenere e gestire i lead di vendita da parte di Microsoft](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
@@ -49,7 +49,7 @@ Per creare un account nel Centro per i partner e rinnovare l'adesione a Microsof
 
 Queste informazioni verranno verificate durante il processo di creazione dell'account. 
  
-## <a name="create-a-partner-center-account"></a>Creare un account nel Centro per i partner
+## <a name="create-a-partner-center-account"></a>Creare un account Centro per i partner
 
 1.  Verifica le informazione nella pagina di **benvenuto** e quindi seleziona **Avanti**.
 
@@ -70,18 +70,18 @@ Queste informazioni verranno verificate durante il processo di creazione dell'ac
 
 5.  Verifica di essere stato aggiunto al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, devi disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attieniti alla procedura seguente:
 
-    a. Nel **Centro per i Partner**, seleziona l'icona **delle impostazioni** e quindi seleziona **gestione degli utenti**.  
+    a. Nel **Centro per i Partner**, selezionare la **impostazioni** icona e quindi selezionare **Gestione utenti**.  
 
     b. Seleziona il tuo nome nell'elenco degli utenti, quindi **Agente amministratore** se non è già selezionato. Seleziona **Aggiorna**.  
 
 ## <a name="next-steps"></a>Passaggi successivi
 
--   [Aggiungere utenti e assegnare le autorizzazioni](create-user-accounts-and-set-permissions.md)
+-   [Aggiungere gli utenti con account e assegnare loro le autorizzazioni](create-user-accounts-and-set-permissions.md)
 
--   [Acquistare o rinnovare una sottoscrizione di Microsoft Action Pack](mpn-get-action-pack.md)
+-   [Acquistato o rinnovato un abbonamento a Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Gestire i vantaggi dell'adesione](manage-your-partner-network-benefits.md)
+-   [Gestire i vantaggi dell'iscrizione](manage-your-partner-network-benefits.md)
 
--   [Scoprire i requisiti di competenza per l'adesione Gold e Silver](https://partner.microsoft.com/membership/competencies)
+-   [Altre informazioni sui requisiti di competenze Gold e Silver l'appartenenza](https://partner.microsoft.com/membership/competencies)
 
--   [Creare un profilo di lavoro per ottenere lead di vendita da Microsoft](create-a-marketing-profile.md)
+-   [Creare un profilo business per ottenere i lead di vendita da parte di Microsoft](create-a-marketing-profile.md)

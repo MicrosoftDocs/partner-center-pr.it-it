@@ -1,7 +1,7 @@
 ---
-title: Analizzare le licenze e sottoscrizioni | Centro per i partner
+title: Analizzare abbonamenti e licenze | Centro per i partner
 ms.date: 07/12/2018
-Description: Use the metrics in the Subscription and license analytics page to identify your successes and areas that need more attention.
+Description: Usare le metriche nella pagina di analitica di sottoscrizione e licenze per identificare i successi e le aree che richiedono maggiore attenzione.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
@@ -9,63 +9,63 @@ ms.topic: article
 keywords: dati aziendali
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 60ab45e6c50e7e3b6ab312c4c64dfeb3aacb53d9
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: d1db5bd56c172a36afa6cb90f0ab5c798e6ba95b
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917463"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584534"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analizzare abbonamenti e licenze 
 
-**Ambito di applicazione**
+**Si applica a**
 
 - Centro per i partner
 
-I dati guidano le decisioni aziendali. Utilizza le metriche nella pagina di **sottoscrizione e analitica licenza** per identificare il con esiti positivi e le aree che richiedono maggiore attenzione. Utilizza queste informazioni per pianificare nuovi obiettivi aziendali.
+I dati guidano le decisioni aziendali. Utilizza le metriche nella pagina **Analisi di abbonamenti e licenze** per identificare i tuoi successi e le aree che richiedono maggiore attenzione. Utilizza queste informazioni per pianificare nuovi obiettivi aziendali.
 
 > [!NOTE]
-> Analitica di licenza di sottoscrizione è disponibile solo per i partner del programma Cloud Solution Provider.
+> L'analisi delle licenze di abbonamento è disponibile solo per i partner del programma Cloud Solution Provider.
 
 
-Questo report può pivot in base ai prodotti seguenti:
+Questo report può essere creato in base ai seguenti prodotti:
 
- - **Dynamics 365**: i dati di Dynamics 365  
- - **EMS**: i dati di servizi di gestione aziendale  
- - **Microsoft 365**: i dati di Microsoft 365  
- - **Office 365**: i dati di Office 365  
+ - **Dynamics 365**: Dynamics 365 data  
+ - **EMS**: Dati di servizi di gestione aziendale  
+ - **Microsoft 365**: Microsoft 365 data  
+ - **Office 365**: Dati di Office 365  
 
 
 Ci stiamo occupando delle seguenti metriche:
 
 **Riepilogo**  
- - **Le sottoscrizioni venduto**: conteggio delle sottoscrizioni creata per il periodo di tempo specificato  
- - **Le licenze vendute**: numero di licenze vendute per il periodo di tempo specificato   
- - **Le sottoscrizioni di rinnovo entro 30 giorni**: numero di sottoscrizioni in cui lo stato è attivo per l'ora specificata periodo e in cui **Autorenew** è true
- - **Le sottoscrizioni attive**: sottoscrizioni in cui lo stato è **attivo**  
- - **Le sottoscrizioni suspended**: conteggio delle sottoscrizioni sospese, non esiste alcun filtro data  
+ - **Abbonamenti venduti**: Numero di sottoscrizioni creato per il periodo di tempo specificato  
+ - **Le licenze vendute**: Conteggio delle licenze venduta per il periodo di tempo specificato   
+ - **Le sottoscrizioni di rinnovo entro 30 giorni**: Numero di sottoscrizioni in cui lo stato sia attivo per il tempo specificato periodo e in cui **rinnovo automatico** è true
+ - **Le sottoscrizioni attive**: Le sottoscrizioni in cui lo stato è **Active**  
+ - **Sospeso sottoscrizioni**: Numero di sottoscrizioni sospese, non sono presenti filtri data  
 
 **Suddivisione del prodotto**  
- - **Sottoscrizioni attive**: primi 5 prodotti ordinati per le sottoscrizioni vendute  
- - **Numero di licenze**: primi 5 prodotti da ordinato licenze vendute
+ - **Conteggio sottoscrizioni**: Primi 5 prodotti ordinati per abbonamenti venduti  
+ - **Conteggio licenze**: Primi 5 prodotti per le licenze ordinate venduto
 
 **Conservazione di sottoscrizione**
- - **Le sottoscrizioni Renewed**: sottoscrizioni che rinnovato negli ultimi 30 giorni  
+ - **Rinnovare le sottoscrizioni**: Sottoscrizioni che rinnovati negli ultimi 30 giorni  
 
-**Varianza sottoscrizione**  
- - **Le nuove sottoscrizioni**: numero di nuove sottoscrizioni per il periodo di tempo, ad eccezione della versione di valutazione offerte  
- - **Le sottoscrizioni Deprovisioned**: conteggio delle sottoscrizioni senza provisioning o sospesa da data  
+**Varianza di sottoscrizione**  
+ - **Nuovi abbonamenti**: numero di nuovi abbonamenti per il periodo di tempo, escluse le offerte di versioni di valutazione  
+ - **Sottoposta a deprovisioning le sottoscrizioni**: Numero di sottoscrizioni sottoposta a deprovisioning o sospesa dal data  
 
 **Sottoscrizioni sospese**  
- - Elenco di tutte le sottoscrizioni con lo stato di **sospeso**, escludendo le offerte di prova  
+ - Elenco di tutti gli abbonamenti con lo stato **Sospeso**, escluse le offerte di versioni di valutazione  
   
 **Sottoscrizioni attive**
- - Elenco di tutte le sottoscrizioni attive  
+ - Elenco di tutti gli abbonamenti attivi  
 
 **Conversioni di sottoscrizione di valutazione**  
- - **Conversione della versione di valutazione**: numero di tutte le sottoscrizioni **attive** in cui i pagamenti per la conversione della versione di valutazione si è verificate durante il periodo di tempo specificato  
+ - **Versione di valutazione conversione**: Conteggio di tutti i **Active** sottoscrizioni in cui versione di valutazione pagata per conversione si sono verificati durante il periodo di tempo specificato  
 
-**Sottoscrizioni di valutazione scade in 30 giorni**  
- - Elenco di versioni di prova che sono stati avviati, in cui la data di fine è entro 30 giorni e non esiste nessuna data di inizio a pagamento associata alla sottoscrizione  
+**Sottoscrizioni di valutazione che terminano con 30 giorni**  
+ - Elenco delle versioni di valutazione avviate la cui data di fine è entro 30 giorni e per cui nessuna data di inizio della versione a pagamento è stata associata all'abbonamento  
 
   

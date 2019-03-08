@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995835"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586724"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Migliorare i tassi di adozione e soddisfazione
 
@@ -32,11 +32,11 @@ Puoi vedere i dati per tutti i tuoi clienti tramite il programma Cloud Solution 
 
 **Per un singolo cliente**
 
--   Seleziona **clienti** nel **Centro per i Partner**, scegli un cliente, quindi seleziona **informazioni sui clienti**.
+-   Selezionare **clienti** dalle **Partner Center**, scegliere un cliente, quindi selezionare **Customer insights**.
 
-**Per tutto il tuo portfolio**
+**Nella raccolta dei progetti**
 
-1.  Il **Centro per i Partner**, seleziona **Analizza**.
+1.  Nel **Centro per i Partner**, selezionare **Analizza**.
 2.  Scarica i dati di distribuzione e utilizzo per l'intero set dei tuoi clienti selezionando le opzioni per l'**esportazione**.
 
 Terminologia:
@@ -70,14 +70,14 @@ Se ricevi molte richieste di assistenza e domande relative alle procedure, il nu
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problema:</strong> Il tasso di adozione di utenti è basso e molte licenze & #39; t in uso.</p>
-<p><strong>Aspetti da considerare</strong>: è possibile che i clienti non comprendano il valore offerto dal software. Devi aiutarli a capire i modi in cui possono usarlo durante le loro giornate per semplificare attività che già svolgono o per promuovere nuovi modi per essere produttivi.</p>
-<p><strong>Cosa provare:</strong> case study, testimonianze degli utenti su scenari specifici, blog esplicativi o video.</p></td>
+<td><p><strong>Problema:</strong> La frequenza di adozione di utente è bassa e molte sono le licenze&#39;t in uso.</p>
+<p><strong>Aspetti da considerare:</strong> I clienti potrebbero non riconoscere il valore che può fornire il software. Devi aiutarli a capire i modi in cui possono usarlo durante le loro giornate per semplificare attività che già svolgono o per promuovere nuovi modi per essere produttivi.</p>
+<p><strong>Operazioni da provare:</strong> Case study, testimonianze su scenari specifici, esercitazione blog o video.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Problema</strong>: il volume delle richieste di assistenza e delle domande relative alle procedure è elevato.</p>
-<p><strong>Aspetti da considerare:</strong> è possibile che i clienti non conoscano il software, la versione del prodotto oppure le attività da svolgere.</p>
-<p><strong>Cosa provare:</strong> È possibile utilizzare una doppia strategia di offrire formazione (di persona o online) per aumentare cliente & #39; s competenze generali, promuovendo alcune delle opzioni self-service disponibili per i clienti.</p>
+<td><p><strong>Problema:</strong> È un volume elevato di chiamate al supporto per domande di Guida e procedure.</p>
+<p><strong>Aspetti da considerare:</strong> I clienti potrebbero essere nuovi per il software, alla versione del prodotto o per la propria attività.</p>
+<p><strong>Operazioni da provare:</strong> È possibile usare una strategia di doppia di offrire formazione su (di persona oppure online) per aumentare cliente&#39;s esperienza complessiva, migliorando anche alcune delle opzioni self-service disponibile per i clienti.</p>
 <p>È consigliabile riprogettare il tuo sito di supporto in modo da includere anche le opzioni self-service descritte nell'argomento <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Supporto in autonomia dei clienti</a>, oltre alle tue informazioni di contatto del supporto tecnico.</p></td>
 </tr>
 </tbody>

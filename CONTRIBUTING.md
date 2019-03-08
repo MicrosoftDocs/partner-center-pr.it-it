@@ -1,0 +1,1 @@
+# <a name="contributing-to-partner-center-documentation"></a><span data-ttu-id="ab919-101">Aggiunta come contributo alla documentazione di Centro per i Partner</span><span class="sxs-lookup"><span data-stu-id="ab919-101">Contributing to Partner Center documentation</span></span>

@@ -3,20 +3,20 @@ title: Competenza di data center
 ms.topic: article
 ms.date: 10/29/2018
 description: La competenza di data center riconosce i partner che trasformano i data center in soluzioni più flessibili, scalabili e convenienti.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competenza, competenze, data center
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 803b3c384985564c1504d377bdcee065eff5bfd1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 356d94a49a43e24d11e0c7adf49fa36178559876
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795564"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584274"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="fe2dc-104">Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="fe2dc-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="0523e-104">Per ulteriori informazioni sui requisiti per ottenere questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="0523e-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Datacenter

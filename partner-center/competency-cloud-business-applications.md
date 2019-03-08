@@ -1,22 +1,22 @@
 ---
-title: Competenza Cloud Business Applications
+title: Competenza di applicazioni aziendali cloud
 ms.topic: article
 ms.date: 10/29/2018
 description: La competenza di applicazioni aziendali cloud è destinata ai partner specializzati nella distribuzione e gestione di Microsoft Dynamics 365 per i loro clienti.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competenza, competenze, applicazioni aziendali cloud
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e48aa911f554757f75c53c0ebd1301709f06f36
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 6b962539a106f2b18d116bf3ca2f4b30084076a1
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794574"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583944"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="c54c2-104">Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="c54c2-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="ce39e-104">Per ulteriori informazioni sui requisiti per ottenere questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="ce39e-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

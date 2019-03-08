@@ -3,20 +3,20 @@ title: Competenza di Windows e dispositivi
 ms.topic: article
 ms.date: 10/29/2018
 description: Condividi il nostro obiettivo di avere Windows 10 su 1 miliardo di dispositivi. La possibilità si estende su servizi, applicazioni e dispositivi. Questa competenza offre strumenti, contenuto e risorse che consentono di creare e far crescere la propria procedura redditizia di Windows 10.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 robots: noindex,nofollow
 keywords: competenza, competenze, Windows e dispositivi
 ms.localizationpriority: medium
-ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 634aedeafc118cd661f11cb927944499feda46af
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795584"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584614"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="945ff-106">Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="945ff-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="19b44-106">Per ulteriori informazioni sui requisiti per ottenere questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="19b44-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

@@ -3,20 +3,20 @@ title: Competenze di piattaforma di dati
 ms.topic: article
 ms.date: 10/29/2018
 description: La competenza di piattaforma di dati riconosce i partner che hanno intenzione di progettare e sviluppare piattaforme database potenti e versatili per gestire la propria azienda.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competenza, competenze, piattaforma di dati
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 90b655a6844a69b537b9fabb44adb120b4f961ad
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b2c85185910c859ed69706fb7ab2778ab0e47cbb
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797274"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586444"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="5b636-104">Per ulteriori informazioni sui requisiti per conseguire questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="5b636-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="87cd4-104">Per ulteriori informazioni sui requisiti per ottenere questa competenza, visita il [portale Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="87cd4-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

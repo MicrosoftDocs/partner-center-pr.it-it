@@ -1,30 +1,30 @@
 ---
-title: Notifica di Centro per i partner per attività di cryptomining | Centro per i partner
+title: Notifica di Centro per i partner per l'attività di data mining di crypto | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2018
 description: Notifica di potenziali attività di cryptomining in corso.
-author: v-petand
+author: LauraBrenner
 ms.author: v-petand
-Keywords: crypto-mining, cryptocurrency mining, security
+Keywords: data mining di crittografia-data mining, di criptovalute, sicurezza
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4cd56641a44cab84796ae051584e1e1cca63d3ff
-ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
+ms.openlocfilehash: cac28b394ee0593e5f1e313cb14e7b6dfa45520a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "9086719"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587494"
 ---
-# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notifica di Centro per i partner per attività di cryptomining
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notifica di Centro per i partner per l'attività di data mining criptovalute
 
-**Ambito di applicazione:**
+**Si applica a**
 
 -  Centro per i partner
 -  Partner CSP
 
-Potresti aver ricevuto la notifica seguente Centro per i Partner sul mining di criptovaluta:
+Potresti aver ricevuto la notifica di Centro per i Partner seguente sul data mining criptovalute:
  
-![Immagine della notifica di sicurezza nel centro per i Partner](images/crypto1.png)
+![Immagine di notifica di sicurezza nel centro per i Partner](images/crypto1.png)
 
 Lo scopo di questa notifica è informarti che abbiamo rilevato attività di mining di criptovaluta su una o più delle tue sottoscrizioni di Azure la scorsa settimana. Il mining di criptovaluta non equivale necessariamente a un'attività fraudolenta. Tuttavia, è insolito perché il costo del mining di criptovaluta in Azure tende a essere superiore a qualsiasi potenziale riconoscimento finanziario. Per evitare frodi finanziarie che potrebbero avere un impatto sul cliente, prendi in considerazione le seguenti operazioni:
 
@@ -37,7 +37,7 @@ Lo scopo di questa notifica è informarti che abbiamo rilevato attività di mini
 Se l'attività è prevista, torna alla pagina dei dettagli della sottoscrizione di Azure del cliente e verifica che il mining di criptovaluta sia legittimo. 
 
 
-![Immagine della pagina dei dettagli di sottoscrizione di Azure del cliente](images/crypto2.png)
+![Immagine della pagina dei dettagli sottoscrizione di Azure del cliente](images/crypto2.png)
 
 Se l'attività è imprevista, prendi in considerazione quanto segue:
 
@@ -45,13 +45,13 @@ Se l'attività è imprevista, prendi in considerazione quanto segue:
 
 2.  Scopri come sono state create le risorse. Per farlo, potrebbe essere necessario esaminare i log di gestione delle risorse di Azure alla ricerca di attività di provisioning delle risorse.
 
-3.  Se è necessario scoprire chi ha creato la sottoscrizione, esamina i log attività Centro per i Partner.
+3.  Se è necessario scoprire chi ha creato la sottoscrizione, esaminare i log attività di Centro per i Partner.
 
 Il rilevamento delle attività di mining di criptovaluta si basa sull'euristica e potrebbe non essere accurato al 100%. Assicurati di disporre di sistemi di governance e monitoraggio per la protezione contro attività fraudolente o altre attività non consentite. Per ulteriori informazioni, vedi [Insoluti, frodi o uso improprio](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
 
 Se hai domande o dubbi sulla notifica, puoi utilizzare la seguente procedura per aprire una richiesta di supporto.
 
-1.  Nel centro per i Partner, seleziona **il supporto** e quindi seleziona **le richieste Centro per i Partner**.
+1.  Nel centro per i Partner, selezionare **supporto tecnico** e quindi selezionare **Partner Center richiede**.
 3.  Seleziona **Nuova richiesta**. 
 4.  Nel menu a discesa **Tipo di problemi** seleziona la voce per l'**aggiunta o gestione dei clienti**.
 5.  Nel menu a discesa **Impatto** seleziona **Moderato**.

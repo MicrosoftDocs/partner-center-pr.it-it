@@ -1,22 +1,19 @@
 ---
 layout: HubPage
 hide_bc: true
-title: Documentazione sui servizi dashboard per sviluppatori e partner
-description: Se accedi al dashboard per pubblicare app, ottenere dati sulle tue applicazioni desktop, ottenere certificazione hardware, pubblicare driver in Windows Update o eseguire transazioni come rivenditore, leggi questa documentazione.
-author: v-chmccl
+title: Documentazione per sviluppatori e sui servizi del Centro per i partner
+ms.date: 10/29/2018
+description: 'Se accedi al Centro per i partner per pubblicare app, recuperare dati sulle tue applicazioni desktop, ottenere la certificazione hardware, pubblicare driver in Windows Update o eseguire transazioni come rivenditore, leggi questa documentazione.'
+author: LauraBrenner
+ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
-ms.openlocfilehash: 28b65a154611020de02ceb15145fcf6271d34df3
-ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
-ms.translationtype: HT
-ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2018
-ms.locfileid: "1978558"
 ---
+
 <div id="main" class="v2">
     <div class="container">
-        <h1>Documentazione sui servizi dashboard</h1>
-        <p>Se utilizzi il dashboard per pubblicare app e giochi, ottenere dati sulle tue applicazioni desktop, ottenere certificazione hardware, pubblicare driver in Windows Update o eseguire transazioni come rivenditore, leggi questa documentazione.</p>
+        <h1>Documentazione sui servizi del Centro per i partner</h1>
+        <p>Se usi il Centro per i partner per pubblicare app e giochi, recuperare dati sulle tue applicazioni desktop, ottenere la certificazione hardware, pubblicare driver in Windows Update o eseguire transazioni come rivenditore, leggi questa documentazione.</p>
         <ul class="pivots" style="list-style:none;margin:0;">
             <li>
                 <a href="#products"></a>
@@ -36,7 +33,7 @@ ms.locfileid: "1978558"
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>Sviluppatori di app e giochi di Windows</h3>
-                                                    <p>Pubblica app e giochi in Microsoft Store. Trova modi per ampliare il bacino dei clienti, migliorare la produttività e promuovere e monetizzare i tuoi prodotti.</p>
+                                                    <p>Pubblica app e giochi in Microsoft Store. Scopri come ampliare il bacino dei clienti, migliorare la produttività e promuovere e monetizzare i tuoi prodotti.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -74,7 +71,7 @@ ms.locfileid: "1978558"
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>Partner hardware</h3>
-                                                    <p>Utilizza il dashboard per inviare richieste di certificazione per sistemi hardware e driver, eseguire test di versioni di anteprima e distribuirle tramite Windows Update.</p>
+                                                    <p>Usa il dashboard per inviare richieste di certificazione per sistemi hardware e driver, eseguire versioni di anteprima di test e distribuirle tramite Windows Update.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -93,7 +90,7 @@ ms.locfileid: "1978558"
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>Partner CSP e MPN</h3>
-                                                    <p>Scopri come utilizzare il dashboard per creare, gestire ed espandere il tuo business di rivenditore e la relazione con Microsoft.</p>
+                                                    <p>Scopri come usare il Centro per i partner per creare, gestire ed espandere il tuo business di rivenditore e la relazione con Microsoft.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -111,8 +108,8 @@ ms.locfileid: "1978558"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>API e SDK di sviluppo</h3>
-                                                    <p>Utilizza le API per integrare i tuoi sistemi per la gestione di clienti, ordini, fatturazione e assistenza con il dashboard per i partner di Microsoft.</p>
+                                                    <h3>API e SDK per sviluppatori</h3>
+                                                    <p>Usa le API per integrare i tuoi sistemi per la gestione di clienti, ordini, fatturazione e assistenza con il Centro per i partner Microsoft.</p>
                                                 </div>
                                             </div>
                                         </div>

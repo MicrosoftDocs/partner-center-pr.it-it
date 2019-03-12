@@ -1,18 +1,18 @@
 ---
-title: Transizione da Cloud Solution Provider (CSP) diretta per i partner fatturazione rivenditore indiretto CSP | Centro per i partner
+title: Transizione dal Cloud Solution Provider (CSP) indirizzare i partner di fatturazione a rivenditori indiretti CSP | Centro per i partner
 ms.topic: article
-ms.date: 12/18/2018
-description: Comprendere come passerà da partner di addebito diretto rivenditore indiretto
-author: labrenne
+ms.date: 03/04/2019
+description: Comprendere come passa da partner di fatturazione diretta per i rivenditori indiretti
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-keywords: addebito diretto, rivenditore indiretto la transizione
-ms.openlocfilehash: 54fa20acfd84cf1a2fadba9aa323b94d3ab356a3
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
-ms.translationtype: MT
+keywords: bill diretto, transizione, i rivenditori indiretti
+ms.openlocfilehash: 52995c301dba6a5ce347cbd9153f8c6ccaf88873
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098798"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587684"
 ---
 **Si applica a:**
  - Partner CSP
@@ -20,141 +20,180 @@ ms.locfileid: "9098798"
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto 
 
 >[!Note] 
->Questo articolo è progettato per i partner di addebito diretto che hanno deciso di eseguire la transizione a rivenditori indiretti. 
+>Questo articolo è destinato ai partner di fatturazione diretta che hanno deciso di eseguire la transizione per i rivenditori indiretti. 
 
-Sarai in grado di iscriversi al programma come rivenditore indiretto usando il tenant esistenti di addebito diretto. 
+Sarà in grado di registrarsi al programma di rivenditori indiretti con il tenant di fattura diretto esistente. 
 
 ## <a name="get-started"></a>Informazioni di base
 
-1. Assicurati che il profilo del partner nel centro per i Partner e ID MPN siano aggiornati.
+1. Assicurarsi che il profilo di partner nel centro per i Partner e ID MPN sono aggiornati.
 
-2. Accedi al centro per i Partner come amministratore globale per il tenant di addebito diretto che durante la transizione rivenditore indiretto.
+2. Accedere al centro per i Partner come amministratore globale per il tenant di fattura diretta che stanno passando a rivenditori indiretti.
 
 ![Panoramica](images/direct/direct1.png) 
 
-3. Verifica i dettagli per i partner del modulo di registrazione.
+3. Esaminare i dettagli del partner nel form di registrazione.
 
-![Registrati ora](images/direct/direct2a.png) 
+![Iscriviti subito](images/direct/direct2a.png) 
 
-4. Seleziona Registrati ora. Tuo business di rivenditore indiretto userà dello stesso tenant AAD, che usare per la tua azienda diretta.
-
->[!Note]
->Inizialmente, questa nuova funzionalità di transizione sarà disponibile per i partner con settembre alla data dell'anniversario dicembre. Se non è "t avere una data tra settembre e dicembre, non vedrai la funzionalità in questo momento. I partner con data dell'anniversario posteriore dicembre 2018 riceverà una notifica in un secondo momento dopo aver abilitata la funzionalità per i partner.
-
-
-5. Quando la registrazione viene approvata, accedi al centro per i Partner nuovamente.
+4. Selezionare registrati subito. L'azienda rivenditori indiretti userà lo stesso tenant AAD che è utilizzare per la tua azienda diretto.
 
 >[!Note]
-> Mentre è in genere immediata l'approvazione, può richiedere fino a cinque giorni lavorativi. Dopo l'approvazione, riceverai una notifica all'indirizzo di posta elettronica che è stato specificato in contatto principale del modulo di registrazione. Puoi anche verificare lo stato di registrazione in Info sul programma → di **Impostazioni** → **Le impostazioni per i Partner** → **Profilo del Partner** . 
+>Inizialmente, questa nuova funzionalità di transizione saranno disponibili per i partner con settembre a data dell'anniversario di dicembre. Se non si "t hanno una data di ricorrenza annuale tra i mesi di settembre e dicembre, non verrà visualizzata la funzionalità in questo momento. I partner con le date dell'anniversario dopo dicembre 2018 riceverà una notifica in un secondo momento dopo aver abilitata la funzionalità per i partner.
 
-6. Nella pagina di **Panoramica** , vedrai il contratto per i rivenditori indiretti. Seleziona **Accetta e continua**. In questo modo le funzionalità di rivenditore indiretto.
 
-Dopo aver accettato il contratto per i rivenditori indiretti, nota che il profilo del Partner identifica l'utente come **sia** un addebito diretto e un rivenditore indiretto.
+5. Quando viene approvata la registrazione, accedi al centro per i Partner nuovamente.
 
-![Contratto per i rivenditori indiretti](images/direct/direct3.png)
+>[!Note]
+> Mentre è in genere immediato approvazione, può richiedere fino a cinque giorni lavorativi. Una volta approvata, si riceverà una notifica all'indirizzo di posta elettronica che è stato specificato in contatto principale del modulo di registrazione. È anche possibile verificare il tuo stato di registrazione sotto **le impostazioni** → **impostazioni relative al Partner** → **profilo Partner** informazioni programma →. 
+
+6. Nel **Panoramica** pagina, verrà visualizzato il contratto del rivenditore indiretta. Seleziona **Accetta e continua**. In questo modo le funzionalità di rivenditori indiretti.
+
+Dopo aver accettato il contratto del rivenditore indiretta, si noti che il profilo Partner identificato come **entrambi** una fattura diretto e indiretto rivenditore.
+
+![Contratto del rivenditore indiretta](images/direct/direct3.png)
 
 >[!Important] 
->Una volta che la registrazione come rivenditore indiretto utilizzando la nuova funzionalità, non è possibile eseguire il rollback a un tenant unica fattura - diretta. Assicurati che valutare completamente le esigenze aziendali prima registrazione come rivenditore indiretto.
+>Dopo la registrazione come un rivenditore indiretto utilizzando la nuova funzionalità, non è possibile eseguire il rollback a un fattura diretto - unico tenant. Assicurarsi di valutare completamente le esigenze aziendali prima della registrazione come un rivenditore indiretto.
 
-## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Anche se eseguire la transizione da diretta rivenditore indiretto
+## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Mentre si passa dal diretta per i rivenditori indiretti
 
-Durante questa fase che si continuerà a gestire la sottoscrizione dei tuoi clienti diretti deve tra cui il processo di fatturazione. È anche possibile iniziare accettare i clienti dal provider indiretto e opera come rivenditore indiretto.
+Durante questa fase che si continuerà a gestire la sottoscrizione dei clienti diretti deve incluso il processo di fatturazione. È anche possibile iniziare ad accettare clienti dal provider indiretto e fungono da un rivenditore indiretto.
 
-![Sei un addebito diretto e un rivenditore indiretto](images/direct/direct4.png)
+![Si è un bill diretto e indiretto reseller](images/direct/direct4.png)
 
 ## <a name="find-an-indirect-provider"></a>Trovare un provider indiretto
 
-Dopo aver registrato, verrà visualizzato un collegamento per i provider indiretti nel tuo barra di spostamento a sinistra. Come rivenditore indiretto si stabilirà una relazione con un provider indiretto, che quindi possa gestire la fatturazione, acquisto dei prodotti per i tuoi clienti e supportare l'infrastruttura.
+Dopo la registrazione, verrà visualizzato un collegamento per i provider indiretti in di spostamento a sinistra Come un rivenditore indiretto è verrà stabilita una relazione con un provider indiretto che quindi può gestire la fatturazione, acquistare i prodotti per i clienti e supporta l'infrastruttura.
 
 Il supporto e i servizi offerti variano a seconda del provider indiretto scelto. Valuta pertanto i provider presenti nella tua zona per individuare quelli che soddisfano meglio le tue esigenze. In genere, la maggior parte dei provider: 
 
 - Fornisce al rivenditore assistenza tecnica
 - Aiuta il rivenditore a commercializzare prodotti e servizi 
-- Gestire le condizioni di finanziamento e credito 
+- Gestire preferito carta di credito e finanziari 
 
-Eseguire una ricerca nell'elenco dei [provider indiretti Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider)di ufficiale.
+Cercare l'elenco di ufficiale [i provider indiretti Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
 
-Altre informazioni, Leggi [per i Partner con i provider indiretti](indirect-reseller-tasks-in-partner-center.md)
+Per altre informazioni, leggere [collaborare con i provider indiretti](indirect-reseller-tasks-in-partner-center.md)
 
-## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Accettare un invito partnership del tuo provider indiretto
+## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Accettare un invito di collaborazione dal proprio provider indiretti
 
-Quando si trova a collaborare con i provider indiretti, Stabilisci una partnership con i provider indiretti nel centro per i Partner.
+Quando si trova un provider indiretto a collaborare con, stabilire una collaborazione con il provider indiretto nel centro per i Partner.
 
-Il provider indiretto che selezionare ti invierà tramite posta elettronica un collegamento di invito partnership che verrà visualizzato l'invito nel centro per i Partner. Assicurati che il tuo amministratore globale accede al centro per i Partner e segue link dell'invito. Quando si accetta l'invito, il nome del provider verrà visualizzati nell'elenco dei provider indiretto.
+Il provider indiretto selezionato invierà tramite posta elettronica un collegamento di invito di collaborazione che verrà visualizzata l'invito nel centro per i Partner. Assicurarsi che l'amministratore globale accede al centro per i Partner e segue il collegamento di invito. Quando si accetta l'invito, il nome del provider verrà visualizzato nell'elenco di provider indiretto.
 
 ## <a name="acquire-new-customers-as-indirect-reseller"></a>Acquisire nuovi clienti in qualità di rivenditori indiretti
 
-Puoi sia il provider indiretto devono avere relazioni come rivenditore con i clienti. In questo modo è possibile gestire sottoscrizioni e servizi per conto del cliente. Per l'acquisizione di un nuovo cliente che ha un tenant di Azure AD esistente, puoi invitare il cliente a stabilire una relazione come rivenditore con te e con il provider nello stesso momento. 
+È sia il provider indiretto devono avere relazioni rivenditore con i clienti. In questo modo è possibile gestire le sottoscrizioni e i servizi per conto del cliente. Per acquisire un nuovo cliente che ha un tenant di Azure AD esistente, è possibile invitare il cliente per stabilire una relazione rivenditore tra te e i provider nello stesso momento. 
 
-Per creare un invito per i rivenditori indiretti:
+Per creare un invito per rivenditori indiretti:
 
-1. Seleziona **i provider indiretti** il centro per i Partner a sinistra barra di spostamento. 
+1. Selezionare **i provider indiretti** from il centro per i Partner sinistra NAV. 
 
-2. Seleziona **Invite new customers** per invitare il cliente a stabilire contemporaneamente una relazione come rivenditore con te e il provider indiretto. Il provider deve avere una relazione come rivenditore con il cliente, inviare ordini per conto del cliente quando il cliente vuole acquistare nuove sottoscrizioni o aggiungere nuove licenze alle sottoscrizioni esistenti.
+2. Seleziona **Invite new customers** per invitare il cliente a stabilire contemporaneamente una relazione come rivenditore con te e il provider indiretto. Il provider deve avere una relazione di rivendita con il cliente, in modo che gli ordini per conto del cliente possono inviarla quando dal cliente acquistare sottoscrizioni nuove o aggiungere nuove licenze per le sottoscrizioni esistenti.
 
-3. Nella pagina successiva esamina la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nella posta elettronica oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio e-mail.
+3. Nella pagina successiva esamina la bozza del messaggio di posta elettronica. È possibile aprire la bozza di messaggio di posta elettronica oppure è possibile copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica.
 
-4. Modificare il testo nel messaggio e-mail da dire che cosa è necessario ma assicurati di includere il collegamento poiché è personalizzato per collegare il cliente direttamente al tuo account e all'account del provider. Seleziona quindi **eseguita**.
+4. Modificare il testo nel messaggio di posta elettronica che cosa è necessario, ma assicurarsi di includere il collegamento come personalizzati per connettersi al cliente direttamente all'account di e account del provider. Seleziona quindi **Fine**.
 
 5. Dopo che il cliente ha autorizzato te e il provider a diventare i suoi Reseller of Record, avrai le autorizzazioni di amministratore necessarie per gestire sottoscrizioni, licenze e utenti per conto del cliente e il provider indiretto potrà inviare ordini per conto del cliente.
 6. Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome. 
 
-A differenza dei partner di addebito diretto, i rivenditori indiretti non creare tenant di Azure AD per i nuovi clienti nel centro per i Partner. Il provider creerà il tenant e verrà puoi specificare come rivenditore indiretto per il cliente. Ciò garantisce che il cliente verrà visualizzato nell'elenco dei clienti nel centro per i Partner.
+A differenza dei partner di fatturazione diretta, i rivenditori indiretti non è possibile creare il tenant di Azure Active Directory per i nuovi clienti nel centro per i Partner. Il provider verrà creato il tenant e si specificherà come il rivenditore indiretto per il cliente. Ciò garantisce che il cliente verrà visualizzato nell'elenco dei clienti nel centro per i Partner.
 
 >[!Note]
->Non sarà in grado di usare le funzionalità di addebito diretto per creare gli acquisti per i clienti, che acquisire come rivenditore indiretto.
+>Non sarà possibile usare la capacità di bill diretto per creare gli acquisti per i clienti che acquisire come un rivenditore indiretto.
 
-## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Spostare i clienti di addebito diretto per il provider indiretto
+## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Spostare i clienti diretti fattura per il provider indiretto
 
-Il provider indiretto non può inviare ordini per i clienti di addebito diretto esistenti fino a quando non hanno una relazione come rivenditore con loro. Per stabilire una relazione come rivenditore tra i clienti esistenti e il provider indiretto, invita il cliente con un invito per i rivenditori indiretti. 
+Il provider indiretto non è possibile inviare gli ordini per i clienti diretti bill esistenti fino a quando non hanno una relazione di rivendita con essi. Per stabilire la relazione di rivendita tra i clienti esistenti e i provider indiretti, invitare il cliente con un invito per rivenditori indiretti. 
 
-1. Seleziona **i provider indiretti** il centro per i Partner a sinistra barra di spostamento.
+1. Selezionare **i provider indiretti** from il centro per i Partner sinistra NAV.
 
-2. Seleziona **invitare i nuovi clienti** per invitare il cliente a stabilire una relazione come rivenditore con te e il provider indiretto nello stesso momento. Il provider deve avere una relazione come rivenditore con il cliente, inviare ordini per conto del cliente quando il cliente vuole acquistare nuove sottoscrizioni o aggiungere nuove licenze alle sottoscrizioni esistenti.
+2. Selezionare **invitare nuovi clienti** invitare un cliente per stabilire una relazione di rivendita tra te e il provider indiretto nello stesso momento. Il provider deve avere una relazione di rivendita con il cliente, in modo che gli ordini per conto del cliente possono inviarla quando dal cliente acquistare sottoscrizioni nuove o aggiungere nuove licenze per le sottoscrizioni esistenti.
 
-3. Nella pagina successiva esamina la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nella posta elettronica oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio e-mail. 
+3. Nella pagina successiva esamina la bozza del messaggio di posta elettronica. È possibile aprire la bozza di messaggio di posta elettronica oppure è possibile copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
 
-4. Modificare il testo nel messaggio e-mail da dire che cosa è necessario ma assicurati di includere il collegamento poiché è personalizzato per collegare il cliente direttamente al tuo account e all'account del provider. Seleziona quindi **eseguita**.  
+4. Modificare il testo nel messaggio di posta elettronica che cosa è necessario, ma assicurarsi di includere il collegamento come personalizzati per connettersi al cliente direttamente all'account di e account del provider. Seleziona quindi **Fine**.  
 
 5. Dopo che il cliente ha autorizzato te e il provider a diventare i suoi Reseller of Record, avrai le autorizzazioni di amministratore necessarie per gestire sottoscrizioni, licenze e utenti per conto del cliente e il provider indiretto potrà inviare ordini per conto del cliente.
 
 6. Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome.
 
 >[!Note]
->Attualmente, Microsoft Store per le aziende non consentirà di un cliente accettare un invito rivenditore indiretto da un partner di addebito diretto esistente. Microsoft Store per le aziende supporta questo in futuro. Nel frattempo, continuare a inviare ordini per i clienti di addebito diretto esistente usando la funzionalità di addebito diretto.
+>Attualmente, Microsoft Store per le aziende non consente un cliente di accettare un invito per rivenditori indiretti da un partner di fatturazione diretta esistente. Microsoft Store per le aziende supporta questo nel prossimo futuro. Fino ad allora, continua per inviare gli ordini per i clienti esistenti di bill diretta usando le funzionalità di bill diretto.
 
-## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>La gestione dei tuoi clienti di addebito diretto e i clienti di rivenditore indiretto
+## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Gestire i clienti diretti fattura e i clienti indiretti rivenditore
 
-Gestire i clienti di addebito diretto e i clienti di rivenditore indiretto in modo diverso. 
+Si gestiscono i clienti diretti fattura e i clienti indiretti rivenditore in modi diversi. 
 
-**Indirizzare i clienti fattura (operazioni che non eseguire come rivenditore indiretto)**
+**Indirizzare i clienti di fatturazione (non come un rivenditore indiretto things)**
 
-- Creare gli ordini per i prodotti
+- Creazione di ordini per i prodotti
 - Gestire le prenotazioni di Azure
 - Gestire la cronologia degli ordini
-- Acquistare software
-- Clienti di fattura direttamente
+- Acquisto di software
+- Clienti, addebitando loro direttamente
 
-**Clienti di rivenditore indiretto**
+**Clienti indiretti rivenditore**
 
-- Il provider indiretto Ordina i prodotti per i clienti
+- Il provider indiretto ordini di prodotti per i clienti
 - Gestire le licenze dei clienti e utenti
-- Gestire i rinnovi sottoscrizione
+- Rinnovi degli abbonamenti di handle
 
-**Per identificare i clienti che hai acquistato in qualità di partner di addebito diretto**
+**Per identificare i clienti che è stato acquistato come partner di fatturazione diretta**
 
-1. Seleziona **clienti**
+1. Selezionare **clienti**
 
-2. Seleziona un cliente per visualizzare i dettagli
+2. Selezionare un cliente per visualizzare i relativi dettagli
 
-3. Se il cliente è quello acquisito in qualità di partner di addebito diretto, vedrai le opzioni per **aggiungere** o **visualizzare i prodotti** e vedrai le sottoscrizioni.
+3. Se il cliente è stato acquistato come partner di fatturazione diretta, si visualizzeranno le opzioni per **aggiungere** oppure **Visualizza prodotti** e si visualizzeranno le sottoscrizioni.
 
-4. Se il cliente ha una relazione come rivenditore indiretto con te, tali opzioni non saranno disponibili.
+4. Se il cliente ha una relazione indiretta rivenditore con l'utente, tali opzioni non sarà disponibile.
 
-## <a name="enroll-for-indirect-reseller-incentives"></a>Eseguire la registrazione per gli incentivi rivenditore indiretto 
+## <a name="what-happens-when-your-direct-bill-capabilities-have-been-restricted"></a>Cosa accade quando le funzionalità di fatturazione diretta sono state limitate
 
-Dopo aver correttamente iscritto come rivenditore indiretto nel tuo tenant addebito diretto per i partner, riceverai un invito eseguire la registrazione di incentivo rivenditore indiretto entro 30 giorni. L'invito è basata su partner account MPN che è attualmente associato al tenant di partner CSP. Verrà inviata l'invito per l'indirizzo e-mail associato all'account MPN del partner. 
+Se si è deciso di eseguire la transizione a rivenditori indiretti e registrazione di una doppia come entrambi direct fattura e i rivenditori indiretti oppure non sono state apportate una decisione esplicita ancora da registrare come un rivenditore indiretto, indirizzare i partner di fattura che non soddisfano i nuovi requisiti per i CSP programma per partner di fatturazione diretta verrà informato da Microsoft quando le relative funzionalità direct fattura saranno limitate. 
 
-Anche sono idonei per la registrazione per i programmi di incentivi addebito diretto con tale stesso tenant per i partner. È necessario gestire i programmi separatamente.
+Nel **profili Partner** sotto **programmare info** si noterà che il tuo stato di Microsoft Cloud Solution Provider è cambiata in **limitato**.
 
-Vedi anche [altre informazioni su come diventare un rivenditore indiretto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e la [addebito diretto, rivenditore indiretto domande frequenti su](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+## <a name="affected-direct-bill-capabilities"></a>Le funzionalità di fatturazione diretta interessate
+
+Quando le funzionalità di fatturazione diretta sono state limitate, è non possibile rendere non sono più nuovi acquisti per i clienti nel centro per i Partner. È possibile creare, ad esempio: 
+
+- Sottoscrizioni di Azure
+- Sottoscrizioni basate su licenza
+- Aggiunta di nuovi componenti aggiuntivi a sottoscrizioni esistenti basati su licenza
+- Effettuare acquisti una tantum dei prodotti software e prenotazione, ad esempio le sottoscrizioni di software, completa del software e le istanze di macchina virtuale riservate di Azure.
+
+È anche possibile acquistare nuove sottoscrizioni di Azure per uso personale tramite l'offerta di servizi condivisi di partner di Azure con il programma CSP. 
+
+Oltre a nuovi acquisti, è Impossibile accedere le seguenti funzionalità di fatturazione diretta in Partner Center: 
+- Non è possibile creare nuovi tenant dei clienti. Il **Crea cliente** l'opzione nella **clienti** nel centro per i Partner non saranno disponibili. 
+
+- Non è possibile generare gli inviti per gli utenti che richiedono una relazione diretta rivenditore. Il **richiedere una relazione di rivendita** l'opzione nella **clienti** nel centro per i Partner non saranno disponibili. 
+
+Le sottoscrizioni esistenti di bill diretti non sono interessate. Che rimangono validi e sono rinnovato automaticamente. Si continuerà a essere fatturati direttamente da Microsoft fino a quando non sono vengono annullate. È comunque possibile gestire le sottoscrizioni esistenti nei modi seguenti: 
+
+- Sospendere le sottoscrizioni esistenti 
+
+- Modificare il numero di postazioni di sottoscrizioni esistenti basati su licenza 
+
+- Regolare il numero di postazioni di componenti aggiuntivi esistente a una sottoscrizione. Nota: Si ccan't aggiungere nuovi componenti aggiuntivi a sottoscrizioni esistenti come vengono considerate come nuovi acquisti. 
+
+- Distribuire nuove risorse di Azure e gestire le risorse di Azure esistenti in sottoscrizioni di Azure esistenti. Sono inclusi i prodotti disponibili tramite Azure marketplace e le sottoscrizioni di Visual Studio. 
+
+>[!Note] 
+>Se il tenant di partner diretto fattura in qualità di rivenditori indiretti sono già state registrate, si è in grado di inviare gli inviti per gli utenti che richiedono una relazione di rivenditori indiretti anziché diretto. 
+
+- È possibile creare un nuovo tenant di sandbox. Ogni tenant di partner diretto fattura è possibile creare un tenant di sandbox allo scopo di bill diretta integrazione delle API. Se è stata creata una in precedenza, non si potrà essere eseguire questa operazione dopo che è indirizzare bill partner funzionalità è stata limitata. 
+
+## <a name="enroll-for-indirect-reseller-incentives"></a>Eseguire la registrazione di incentivi per i rivenditori indiretti 
+
+Dopo che sono stati registrati correttamente come un rivenditore indiretto nel tenant di partner diretto bill esistente, si riceverà un invito a eseguire la registrazione di "incentivi rivenditore indiretto" entro 30 giorni. L'invito si basa sul partner account MPN che è attualmente associato al tenant di partner CSP. L'invito verrà inviato all'indirizzo di posta elettronica associato al partner account MPN. 
+
+Sei anche idoneo a eseguire la registrazione di programmi incentivi bill diretto con lo stesso tenant partner. È necessario gestire separatamente i programmi.
+
+Vedere anche [ulteriori informazioni su come partecipare a un rivenditore indiretto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) e il [bill diretta per i rivenditori indiretti domande frequenti su](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+
+

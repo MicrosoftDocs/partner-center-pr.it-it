@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: bill diretto, transizione, i rivenditori indiretti
-ms.openlocfilehash: 52995c301dba6a5ce347cbd9153f8c6ccaf88873
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: HT
+ms.openlocfilehash: c8173bbb8878448271a35178fd3f77016a6ba129
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587684"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682479"
 ---
 **Si applica a:**
  - Partner CSP
@@ -94,7 +94,7 @@ Per creare un invito per rivenditori indiretti:
 
 3. Nella pagina successiva esamina la bozza del messaggio di posta elettronica. È possibile aprire la bozza di messaggio di posta elettronica oppure è possibile copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica.
 
-4. Modificare il testo nel messaggio di posta elettronica che cosa è necessario, ma assicurarsi di includere il collegamento come personalizzati per connettersi al cliente direttamente all'account di e account del provider. Seleziona quindi **Fine**.
+4. Modificare il testo nel messaggio di posta elettronica che cosa è necessario, ma assicurarsi di includere il collegamento come personalizzati per connettersi al cliente direttamente all'account di e account del provider. Quindi selezionare ****.
 
 5. Dopo che il cliente ha autorizzato te e il provider a diventare i suoi Reseller of Record, avrai le autorizzazioni di amministratore necessarie per gestire sottoscrizioni, licenze e utenti per conto del cliente e il provider indiretto potrà inviare ordini per conto del cliente.
 6. Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome. 
@@ -114,14 +114,12 @@ Il provider indiretto non è possibile inviare gli ordini per i clienti diretti 
 
 3. Nella pagina successiva esamina la bozza del messaggio di posta elettronica. È possibile aprire la bozza di messaggio di posta elettronica oppure è possibile copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
 
-4. Modificare il testo nel messaggio di posta elettronica che cosa è necessario, ma assicurarsi di includere il collegamento come personalizzati per connettersi al cliente direttamente all'account di e account del provider. Seleziona quindi **Fine**.  
+4. Modificare il testo nel messaggio di posta elettronica che cosa è necessario, ma assicurarsi di includere il collegamento come personalizzati per connettersi al cliente direttamente all'account di e account del provider. Quindi selezionare ****.  
 
 5. Dopo che il cliente ha autorizzato te e il provider a diventare i suoi Reseller of Record, avrai le autorizzazioni di amministratore necessarie per gestire sottoscrizioni, licenze e utenti per conto del cliente e il provider indiretto potrà inviare ordini per conto del cliente.
 
 6. Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome.
 
->[!Note]
->Attualmente, Microsoft Store per le aziende non consente un cliente di accettare un invito per rivenditori indiretti da un partner di fatturazione diretta esistente. Microsoft Store per le aziende supporta questo nel prossimo futuro. Fino ad allora, continua per inviare gli ordini per i clienti esistenti di bill diretta usando le funzionalità di bill diretto.
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Gestire i clienti diretti fattura e i clienti indiretti rivenditore
 
@@ -173,20 +171,24 @@ Oltre a nuovi acquisti, è Impossibile accedere le seguenti funzionalità di fat
 
 - Non è possibile generare gli inviti per gli utenti che richiedono una relazione diretta rivenditore. Il **richiedere una relazione di rivendita** l'opzione nella **clienti** nel centro per i Partner non saranno disponibili. 
 
-Le sottoscrizioni esistenti di bill diretti non sono interessate. Che rimangono validi e sono rinnovato automaticamente. Si continuerà a essere fatturati direttamente da Microsoft fino a quando non sono vengono annullate. È comunque possibile gestire le sottoscrizioni esistenti nei modi seguenti: 
+>[!Note] 
+>Se il tenant di partner diretto fattura in qualità di rivenditori indiretti sono già state registrate, si è in grado di inviare gli inviti per gli utenti che richiedono una relazione di rivenditori indiretti anziché diretto. 
+
+- È possibile creare un nuovo tenant di sandbox. Ogni tenant di partner diretto fattura è possibile creare un tenant di sandbox allo scopo di bill diretta integrazione delle API. Se è stata creata una in precedenza, non si potrà essere eseguire questa operazione dopo che è indirizzare bill partner funzionalità è stata limitata. 
+
+## <a name="whats-not-affected"></a>Che cosa non è interessata
+
+Le sottoscrizioni esistenti di bill diretti non sono interessate. Che rimangono validi e sono rinnovato automaticamente. Si continuerà a essere fatturati direttamente da Microsoft fino a quando non si annullarle. 
+
+Continuare a gestire le sottoscrizioni esistenti nei modi seguenti: 
 
 - Sospendere le sottoscrizioni esistenti 
 
 - Modificare il numero di postazioni di sottoscrizioni esistenti basati su licenza 
 
-- Regolare il numero di postazioni di componenti aggiuntivi esistente a una sottoscrizione. Nota: Si ccan't aggiungere nuovi componenti aggiuntivi a sottoscrizioni esistenti come vengono considerate come nuovi acquisti. 
+- Regolare il numero di postazioni di componenti aggiuntivi esistente a una sottoscrizione. Nota: Poiché i componenti aggiuntivi vengono trattati come nuovi acquisti, è possibile aggiungere nuovi componenti aggiuntivi a sottoscrizioni esistenti. 
 
 - Distribuire nuove risorse di Azure e gestire le risorse di Azure esistenti in sottoscrizioni di Azure esistenti. Sono inclusi i prodotti disponibili tramite Azure marketplace e le sottoscrizioni di Visual Studio. 
-
->[!Note] 
->Se il tenant di partner diretto fattura in qualità di rivenditori indiretti sono già state registrate, si è in grado di inviare gli inviti per gli utenti che richiedono una relazione di rivenditori indiretti anziché diretto. 
-
-- È possibile creare un nuovo tenant di sandbox. Ogni tenant di partner diretto fattura è possibile creare un tenant di sandbox allo scopo di bill diretta integrazione delle API. Se è stata creata una in precedenza, non si potrà essere eseguire questa operazione dopo che è indirizzare bill partner funzionalità è stata limitata. 
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Eseguire la registrazione di incentivi per i rivenditori indiretti 
 

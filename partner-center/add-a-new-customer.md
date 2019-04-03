@@ -1,19 +1,19 @@
 ---
 title: Aggiungere un nuovo cliente | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
-description: Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto, devi creare un record per il tuo cliente nel Centro per i partner. Il record include le informazioni di contatto e un dominio di Azure AD.
+ms.date: 03/21/2019
+description: Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto, devi creare un record per il tuo cliente nel Centro per i partner.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, aggiungere un cliente, account del cliente, account del cliente nel Centro per i partner, clienti, aggiungere i clienti, creare un account del cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 72b02ad430bc0ce434e3de25380ef043e59ac08d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: b086796f6907b4ff4705b7c2fe1965b7d2adceff
+ms.sourcegitcommit: 3441bb8085f14f4242d5c640d45eab00f751bf23
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586244"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "58343402"
 ---
 # <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente
 
@@ -22,29 +22,35 @@ ms.locfileid: "57586244"
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud for US Government
 
+Prima di poter vendere le sottoscrizioni, gestire la fatturazione o fornire supporto per un cliente, è necessario aggiungerli all'elenco dei clienti nel centro per i Partner.
 
+>[!NOTE]
+>Per i clienti esistenti, tra cui coloro che hanno già cliente di record nel centro per i Partner tramite un [multicanale](multichannel.md) oppure [Multipartner](multipartner.md) scenario, è possibile [richiedere una relazione con li](request-a-relationship-with-a-customer.md), anziché seguire i passaggi indicati qui.
 
-Prima di poter vendere le sottoscrizioni, gestire la fatturazione o fornire il supporto, è necessario creare un account per il cliente nel centro per i Partner. Il record include le informazioni di contatto e un dominio di Azure AD.
+### <a name="to-add-a-new-customer-in-partner-center"></a>Per aggiungere un nuovo cliente nel centro per i Partner
 
-Per i clienti che dispongono già di account e sottoscrizioni di clienti tramite uno scenario [multicanale](multichannel.md) o [multipartner](multipartner.md), puoi [richiedere una relazione con un cliente](request-a-relationship-with-a-customer.md), invece di seguire questa procedura.
+1. Selezionare **clienti** dal menu di Centro per i Partner e quindi selezionare **Aggiungi cliente**.
 
-**Aggiungi un nuovo cliente**
+2. Nel **Info sull'Account** pagina, immettere i dettagli del cliente e informazioni di contatto primarie e verificare che il cliente abbia accettato e firma la versione più recente [contratto di Microsoft Cloud](agreements.md).
 
-1.  Dal **Centro per i Partner** dal menu **clienti**. Seleziona quindi **Aggiungi cliente**.
+    >[!IMPORTANT]
+      > A partire dal 7 novembre 2018, è necessario confermare che un cliente ha accettato il contratto di Microsoft Cloud, fornendo informazioni su chi ha apposto la firma. Visualizzare [confermare l'accettazione del cliente del contratto di Microsoft Cloud](confirm-consent.md) per altri dettagli.
 
-2.  Nel **Info sull'Account** pagina, completare i dettagli relativi all'azienda e informazioni di contatto primarie e quindi selezionare **successiva: Le sottoscrizioni**.
+3. Se sei un provider indiretto, selezionare il rivenditore indiretto che si desidera associare le sottoscrizioni dello specifico cliente dall'elenco.
 
-3.  Nel **abbonamenti** pagina, scegliere il corretto delle offerte, immettere il numero di licenze e quindi selezionare **successiva: Revisione**.
+4. Selezionare **successiva: Le sottoscrizioni** dopo aver immesso tutte le informazioni necessarie.
 
-4.  Nella pagina **Revisione** controlla che le informazioni immesse siano corrette, fai clic su **Modifica** se devi apportare modifiche all'account o alle offerte e quindi fai clic su **Invia**.
+5. Nel **abbonamenti** pagina, selezionare la si allineano il cliente desidera acquistare da parte dell'utente, immettere il numero di licenze e quindi selezionare **successiva: Revisione**.
 
-5.  Dopo aver verificato la conferma e copiato l'account utente amministratore e la password, seleziona **Fine**.
+6. Nel **revisione** pagina, verificare le voci per verificarne l'accuratezza e quindi selezionare **Submit** se le informazioni siano corrette.
 
-Per visualizzare i dati del cliente in seguito, inclusa l'aggiunta di licenze per componenti aggiuntivi alle sottoscrizioni, vedi i dettagli in [Creare una nuova sottoscrizione](create-a-new-subscription.md).
+    >[!NOTE]
+    >Se è necessario modificare i dettagli del cliente, selezionare **Update** nel **Info sull'Account** sezione. Se è necessario modificare le offerte è stata selezionata, selezionare **Update** nel **sottoscrizioni** sezione.
 
- 
+7. Selezionare **** dopo aver completato l'aggiunta di informazioni dei clienti ed acquistato le sottoscrizioni necessarie.
 
- 
+## <a name="see-also"></a>Vedere anche
 
+- Visualizzare [offerte dei Partner del programma Cloud Solution Provider](csp-offers.md) per ulteriori informazioni su ciò che è possibile vendere ai clienti tramite il programma Cloud Solution Provider.
 
-
+- Visualizzare [Connect con i clienti](customer-accounts.md) per altre informazioni sull'associazione di un nuovo cliente all'account partner nel centro per i Partner.

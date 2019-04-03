@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce9b7cd9ead08b7709c68a0e967d64e9f2a32bd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585134"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682509"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -642,7 +642,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="odd">
 <td>AlternateID</td>
-<td><p>Un identificatore alternativo per un ID.</p></td>
+<td><p>Un identificatore alternativo per un ID dell'ordine.</p></td>
 </tr>
 </tbody>
 </table>

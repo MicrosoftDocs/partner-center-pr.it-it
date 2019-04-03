@@ -1,30 +1,27 @@
 ---
-title: Rispondere alle segnalazioni | Centro per i partner
+title: Rispondere ai riferimenti | Centro per i partner
 ms.topic: article
-ms.date: 01/17/2019
+ms.date: 03/11/2019
 description: Come partner Microsoft completo, è possibile valutare, negotiate e rispondere a riferimenti tramite Centro per i Partner.
 author: LauraBrenner
 ms.author: labrenne
 keywords: segnalazione, richiesta di informazioni, Trova un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 43b3245d7877156012ee9f1998a3049fe246d387
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a9cabe4772fa60a3b56433998da81030916279f8
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585854"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756898"
 ---
-# <a name="responding-to-referrals"></a>Risposta alle segnalazioni
+# <a name="respond-to-referrals"></a>Rispondere alle segnalazioni
 
 **Si applica a**
 
 -  Centro per i partner
 
 Come partner Microsoft completo, è possibile ricevere potenziali clienti potenziali attraverso i riferimenti. Nel centro per i Partner, è possibile gestire i lead in ingresso, rispondere rapidamente a quelli che sono la soluzione ideale, e ignorare o quelle che non lo rifiuta. 
-
-> [!IMPORTANT]
-> Sono stati apportati alcuni aggiornamenti per la gestione dei riferimenti esperienza e sono corso il rollout a tutti i partner. Fino a quando non viene impostato l'account per usare la nuova esperienza, è possibile che alcuni aspetti potrebbero funzionare in modo leggermente diverso. Queste differenze sono indicate di seguito. 
 
 ## <a name="referral-management"></a>Gestione delle segnalazioni
 
@@ -48,9 +45,6 @@ Esaminare i dettagli ed esitare a contattare il cliente se si desidera approfond
 *  **Rifiuto**: È possibile archiviarlo come **rifiutato** e invia una notifica al cliente di scegliere un altro partner.
 
 Se non risponde entro il periodo di tempo stabilito (attualmente 14 giorni), si sarà archiviarla come **scaduta** e invia una notifica al cliente di scegliere un altro partner.
-
-> [!NOTE]
-> Il processo descritto in precedenza riflette la nuova esperienza. Se l'account non utilizza questa esperienza, si noterà una **New** sezione anziché **posta in arrivo**. Per i nuovi riferimenti, sarà necessario 72 ore scegliendo **che mi interessano** (che consente di spostare il riferimento a un oggetto separato **valutazione** sezione e Mostra i dettagli più) o **No grazie**(che archivia il riferimento). Se si seleziona **che mi interessano**, sarà necessario 7 giorni per accettare il riferimento.
 
 ### <a name="active-referrals"></a>Riferimenti attivi
 

@@ -2,17 +2,17 @@
 title: Personalizzare l'esperienza out-of-box del dispositivo con i profili di Autopilot di Windows | Centro per i partner
 description: Preconfigurare esperienza out-of-box del dispositivo con i profili di Autopilot.
 ms.topic: article
-ms.date: 02/06/19
+ms.date: 03/18/19
 author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, autopilot di windows, autopilot microsoft, distribuzione zero touch, la configurazione guidata, le schermate di accesso, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 00c4bc3717b5f40984f60dd2c04ee7fec10b80da
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: e940a7ccf79f6b43d3712a2f3ae2f9b150e1473e
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586914"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "58162221"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizzare l'esperienza out-of-box del dispositivo con i profili Windows Autopilot
 
@@ -45,7 +45,7 @@ Si applicano le autorizzazioni di gestione profilo e dispositivo e le limitazion
 
 - I partner CSP possono continuare a gestire i profili di Autopilot per i clienti esistenti con cui hanno relazioni reseller, anche se i clienti hanno rimosso i privilegi di amministrazione delegata del partner.
 
-- È possibile gestire i dispositivi esistenti per i clienti che sono state aggiunte dall'utente o da un altro partner CSP.
+- È possibile gestire i dispositivi esistenti per i clienti che sono stati aggiunti.
 
 - Non è possibile gestire i dispositivi che del cliente è caricata in Microsoft Store per le aziende o il portale di Microsoft Intune.
 

@@ -8,18 +8,14 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: i ruoli, autorizzazioni, aggiungono l'utente, assegnare ruoli, amministratore, dell'agente,
 ms.localizationpriority: medium
-ms.openlocfilehash: dcdf7d11d90acffd4a9302ce37bd56de3a242d60
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a314a3c551b360eb777bd0db180388aa85f2e7f8
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583814"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682459"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Crea gli account utente e assegna le autorizzazioni
-
-**Si applica a**
-
--  Centro per i partner
 
 Creare account utente per i dipendenti che richiedono l'accesso al centro per i Partner. Queste attività devono essere eseguite da un amministratore per la gestione degli utenti, un amministratore di account o l'amministratore globale. 
 
@@ -44,27 +40,38 @@ L'utente dovrà accedere al centro per i Partner con il nome utente e la passwor
 > [!NOTE]  
 >  Se l'amministratore globale ha lasciato l'organizzazione o ha un altro ruolo ed è necessario aggiungere un nuovo amministratore globale, devi registrare una richiesta di assistenza nel [portale MPN](https://partner.microsoft.com/support). Se il richiedente è in grado di fornire le informazioni di identità personale richieste e altre informazioni sull'organizzazione, l'agente del supporto può richiedere l'elevazione dei privilegi di un utente ad amministratore globale.
 
-## <a name="assign-user-permissions"></a>Assegnare le autorizzazioni utente
+## <a name="assign-user-roles"></a>Assegnare i ruoli utente
 
-L'accesso al Centro per i partner è basato sui ruoli. Pertanto le autorizzazioni che assegni a un utente personalizzano la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le sue attività specifiche. 
-
-Per usare il centro per i Partner, è necessario disporre di un ruolo assegnato.  Esistono due tipi generali di ruoli: Gli amministratori e gli agenti.
-
-- Autorizzazioni di amministratore di controllano il livello di accesso dell'utente alle funzionalità del centro per i Partner. Questa impostazione non ha impatto di fuori del Partner Center, ovvero un amministratore fatturazione può accedere alle fatture per tutti i servizi Microsoft, anche quelli non correlati all'offerta CSP, e un amministratore globale possa accedere gli account utente e gli account dei clienti di là CSP anche.
-
-- Le autorizzazioni dell'agente controllano il tipo di dati dei clienti e le informazioni sull'account che l'utente può visualizzare e modificare.
-    
-Le categorie generali dei ruoli sono: 
-- Ruoli di amministratore
-- Ruoli di agente
-- Ruoli di incentivi
-- Ruoli di riferimento e marketing
-
-
-All'interno di ognuna di queste categorie generali, un utente può avere un solo ruolo, ma lo stesso utente può avere ruoli nelle altre categorie generali. 
+Per usare il centro per i Partner, è necessario disporre di un ruolo assegnato.  Attualmente, i ruoli includono ruoli tenant di Azure Active Directory, i ruoli Cloud Solution Provider (CSP) e ruoli aziendali non-AAD. Una società di singoli può avere necessità di tutti questi ruoli.
 
 >[!Important]
 >Singoli utenti devono essere elencati nel tenant di accedere a Centro per i Partner. Le assegnazioni di ruolo forniscono accesso aggiuntivo.
+
+
+**I ruoli tenant AAD includono**:
+- Amministratore globale
+- Amministratore utenti
+
+**I ruoli CSP includono**:
+- Agente amministratore
+- Amministratore fatturazione
+- Agente di vendita
+- Agente help desk
+
+**Ruoli che gestiscono l'appartenenza MPN e la società (Non-AAD)**
+- Amministratore dei partner MPN
+- Amministratore account
+- Amministratore dei riferimenti
+- Amministratore profilo di lavoro
+- Utenti e amministratori di incentivi
+
+**Fornitore del Pannello di controllo è un ruolo con contratti CSP e non-AAD**.
+- Amministratore globale
+
+**Utente guest** deve far parte del tenant AAD e può avere qualsiasi ruolo non-AAD.
+
+Per informazioni specifiche sui ruoli e sulle operazioni possibili con ciascun ruolo, vedi [Assegnare le autorizzazioni utente](permissions-overview.md).
+
 
 
 ### <a name="find-your-global-admin"></a>Trovare l'amministratore globale
@@ -72,7 +79,7 @@ All'interno di ognuna di queste categorie generali, un utente può avere un solo
 In alcuni casi un utente potrebbe essere necessario rendere il proprio ruolo modificato o un nuovo utente potrebbe essere necessario un'assegnazione di ruolo specifico.  
 Per trovare un amministratore globale che può apportare modifiche ai ruoli o assegnare ruoli a un nuovo utente, dal **sull'icona impostazioni** nella parte superiore destra del centro per i Partner, selezionare **gestione degli utenti** e filtro su amministratore globale. 
 
-Per informazioni specifiche sui ruoli e sulle operazioni possibili con ciascun ruolo, vedi [Assegnare le autorizzazioni utente](permissions-overview.md).
+
 
 
 

@@ -1,18 +1,18 @@
 ---
 title: Assegnare autorizzazioni e ruoli utente | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 3/5/19
 description: Tutti i dipendenti che hanno necessità di lavorare in Partner Center devono essere assegnato un ruolo.
 author: LauraBrenner
 ms.author: labrenne
 keywords: ruoli, autorizzazioni, amministratore, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 038a2d6f4d58bbd9a71a2b241ee68982e0e7ef0a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587744"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682489"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Assegnare autorizzazioni e ruoli utente
 
@@ -37,6 +37,7 @@ Determinare i tipi di accesso che al centro per i Partner gli utenti dispongono 
 |Amministratore utenti   | • Visualizzare, creare e gestire gli utenti
 ||• Visualizzare tutti i profili partner
 ||• Visualizzare, creare e gestire gli utenti partner  |
+|Amministratore fatturazione | -Visualizzare, creare e gestire la fatturazione, fatture e i file di riconoscimento|
 |Utente predefinito|  Visualizza profilo personale   |
 |Agente amministratore | • Gestione con i clienti
 ||• Aggiungere l'elenco dei dispositivi al centro per i Partner <
@@ -61,7 +62,7 @@ Determinare i tipi di accesso che al centro per i Partner gli utenti dispongono 
 ||• Guida risolvere cliente i problemi con la gestione di fatturazione o alla sottoscrizione
 ||• Richiedere il supporto per conto dei clienti (Nota: È necessario essere un agente di amministratore per completare questa attività per le sottoscrizioni di Office 365)
 ||• Gestire le sottoscrizioni e fatturazione problemi per conto dei clienti (Nota: È necessario essere un agente di amministratore per completare questa attività per le sottoscrizioni di Office 365)|
-|
+
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Fornitore del Pannello di controllo (CPV). (Non-AAD ruolo e ruolo CSP)
 CPVs lo sviluppo di App per l'uso da partner Cloud Solution Provider (CSP) per consentire loro di integrare i sistemi con Partner Center API. 
 
@@ -90,6 +91,17 @@ CPVs lo sviluppo di App per l'uso da partner Cloud Solution Provider (CSP) per c
 ||-Gestire i profili relativi agli account di per che amministratore 
 ||• Assegnare ruoli per gli utenti nel tenant per i ruoli AAD non 
 ||• Percorsi nei programmi di registrazione
+
+## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Utente guest (devono essere aggiunti al tenant di AAD)
+
+|**Utente Guest**   | **Ruoli**|
+|---------------------------|:--------------------|
+||Amministratore dei partner MPN|
+||Gli account amministratore|
+||Amministratore di incentivi|
+||Amministratore profilo di lavoro|
+||Amministratore dei riferimenti|
+
 
 ## <a name="manage-referrals-non-aad-roles"></a>Gestire i riferimenti (ruoli non-AAD)
 

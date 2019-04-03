@@ -1,19 +1,19 @@
 ---
 title: Contratti, listini prezzi e offerte per CSP | Centro per i partner
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: Questo articolo include i collegamenti alle guide al programma Cloud Solution Provider, ai contratti per i partner, ai contratti per i clienti, ai listini prezzi e alle offerte.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guide al programma CSP, guida al programma, contratti partner, contratto cliente, listini prezzi, offerte
 ms.localizationpriority: medium
-ms.openlocfilehash: edb36fa2764f4853d1d99653859a716be1c958d1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: c6ea36d5fb807f10364d28f8ae014b80c91b6013
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585814"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508968"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guida di programma cloud Solution Provider, contratti, gli elenchi prezzi e offerte
 
@@ -23,7 +23,7 @@ ms.locfileid: "57585814"
 -  Centro per i partner per Microsoft Cloud for US Government
 
 
-Esamina le informazioni contenute in questo articolo per informazioni sui requisiti per partecipare al programma Cloud Solution Provider (CSP) di Microsoft. 
+Esamina le informazioni contenute in questo articolo per informazioni sui requisiti per partecipare al programma Cloud Solution Provider (CSP) di Microsoft.
 
 ## <a name="cloud-solution-provider-program-guide"></a>Guida di programma cloud Solution Provider
 
@@ -61,7 +61,7 @@ Prima di poter effettuare un ordine per conto del cliente, il cliente deve accet
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Rettifica delle condizioni di segreto per il contratto di Microsoft Cloud (Germania)
 
-In Germania, il codice di questioni di diritto penale (sezione 203) e i codici professionali di condotta richiedono che devono essere mantenuto riservato, ad esempio, la relazione tra i medici e pazienti e la relazione tra alcune relazioni client le spese legali e dei relativi client. Questi gruppi professionali devono garantire segreto. Per queste e altre professioni acquistare servizi basati su cloud, dei cloud solution provider, provider di servizi cloud deve concludere un contratto scritto con il cliente che garantisce segreto. 
+In Germania, il codice di questioni di diritto penale (sezione 203) e i codici professionali di condotta richiedono che devono essere mantenuto riservato, ad esempio, la relazione tra i medici e pazienti e la relazione tra alcune relazioni client le spese legali e dei relativi client. Questi gruppi professionali devono garantire segreto. Per queste e altre professioni acquistare servizi basati su cloud, dei cloud solution provider, provider di servizi cloud deve concludere un contratto scritto con il cliente che garantisce segreto.
 
 Se si lavora in Germania, devi fornire questa rettifica segreto professionale ai clienti presenti oltre il contratto di Microsoft Cloud.
 
@@ -69,27 +69,22 @@ Se si lavora in Germania, devi fornire questa rettifica segreto professionale ai
 
 [Rettifica delle condizioni segreto di contratto di Microsoft Cloud per la Germania (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
-
 ## <a name="pricing"></a>Prezzi
 
-
-Scarica dettagli sui prezzi per gli acquisti basati su licenza basata sull'utilizzo e monouso dal **prezzi e offerte** pagina, disponibili dalle **Partner Center** menu. 
+Scarica dettagli sui prezzi per gli acquisti basati su licenza basata sull'utilizzo e monouso dal **prezzi e offerte** pagina, disponibili dalle **Partner Center** menu.
 
 Il listino prezzi basato su licenza viene aggiornato mensilmente e Microsoft pubblica i nuovi prezzi 30 giorni prima dell'entrata in vigore. Alcuni esempi di servizi basati su licenza sono Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM. 
 
 I prezzi in base all'uso sono dinamici e cambiano di frequente. Un esempio di servizio basato sull'utilizzo è Microsoft Azure.
 
-I prezzi degli acquisti una tantum sono anche dinamici. Le prenotazioni di Microsoft Azure e le sottoscrizioni corrispondenti a Windows Server e il software di SQL sono esempi di acquisti una tantum. 
+I prezzi degli acquisti una tantum sono anche dinamici. Le prenotazioni di Microsoft Azure e le sottoscrizioni corrispondenti a Windows Server e il software di SQL sono esempi di acquisti una tantum.
 
-Per informazioni sulle offerte del Marketplace di Azure sui prezzi, visitare **Marketplace** nel menu di spostamento a sinistra di Centro per i Partner. Selezionare un prodotto per visualizzare informazioni sull'editore, SKU e sui prezzi. I prezzi per questi prodotti di Azure Marketplace possono cambiare di frequente. Sarà disponibile molto presto, forniremo un'opzione per esportare un elenco di tutti i dati sui prezzi, aggiornato ogni giorno. Si verrà inoltre abilitare l'accesso corrente per i dati sui prezzi tramite le API. Dopo che queste opzioni sono disponibili, questa pagina verrà aggiornata con altre informazioni su come usarli.
+Per informazioni sulle offerte del Marketplace di Azure sui prezzi, visitare **Marketplace** nel menu di spostamento a sinistra di Centro per i Partner. Selezionare un prodotto per visualizzare informazioni sull'editore, SKU e sui prezzi. I prezzi per questi prodotti di Azure Marketplace possono cambiare di frequente. Per ottenere le informazioni sui prezzi corrente per tutti i prodotti di Marketplace, selezionare **listino prezzi esportazione** per generare un foglio di calcolo con tutti i dati sui prezzi. Queste informazioni viene aggiornata ogni giorno, in modo che sia possibile archiviarla numero illimitato di volte desiderato.
 
 ## <a name="offers"></a>Offerte
-
 
 I partner CSP è possibile vendere un'ampia gamma di prodotti Microsoft, servizi e soluzioni, tra cui Office 365, Enterprise Mobility Suite, Microsoft Dynamics e Microsoft Azure. Per altre informazioni sulle offerte sono disponibili per la vendita all'interno di queste famiglie di prodotti, visualizzare la matrice di offerta CSP nel **prezzi e offerte** pagina, disponibili dalle **Partner Center** menu. Questo documento viene aggiornato mensilmente.
 
 Per i partner CSP che usano l'API CREST per i record di utilizzo, Microsoft pubblica anche un elenco dei servizi di Azure in CSP nella pagina **Prezzi e offerte**.
 
 Per altre informazioni sulle offerte di Azure Marketplace pubblicate da fornitori di Software indipendenti (ISV), visitare il **Marketplace** pagina nel menu di spostamento a sinistra. Attualmente, solo i tipi di prodotti SaaS (software come servizio) possono essere acquistati in Partner Center. È necessario visitare il portale di Azure per acquisire altri tipi di offerte di Azure Marketplace.
-
-

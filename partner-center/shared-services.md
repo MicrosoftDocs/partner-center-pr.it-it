@@ -8,12 +8,12 @@ ms.author: labrenne
 Keywords: Azure, servizi condivisi, tenant
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: ff1e169f54c71e634d07ade9981ecb11009fa9de
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586984"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682469"
 ---
 # <a name="add-azure-partner-shared-services"></a>Aggiungere Azure Partner Shared Services
 
@@ -57,4 +57,19 @@ Troverai il consumo di Azure nella fattura CSP e nel file di riconciliazione. Ve
 
 Per vedere il nuovo file dei prezzi per Azure Partner Shared Services vai a **Vendi** > **Prezzi e offerte** e seleziona il listino prezzi del mese corrente. Nelle settimane successive, verrà rilasciata un'API della scheda della tariffa specifica.
 
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Offerte del Marketplace e i servizi condivisi Partner di Azure
+
+A partire dal 1 ° marzo 2019, Azure Partner Shared Services (questi servizi avanzati) non supporta più offerte del Marketplace.   
+
+|**Supporto per il Marketplace**   |**Servizi avanzati supportati nelle versioni precedenti il 1 marzo 2019**|**Dopo il 1 marzo 2019**|
+|---------------------------|:----------------------------|:-------------------|
+|Portare il proprio license (BYOL) e servizi gratuiti   | Yes   | No|
+|Altre offerte del marketplace di terze parti   | No   |No|
+
+
+I partner che hanno BYOL o liberano servizi distribuiti utilizzando questi servizi avanzati non subiranno; Tuttavia dopo il 1 marzo 2019 non saranno in grado di acquistare nuovo BYOL o servizi gratuiti. 
+
+Per poter sfruttare il catalogo completo delle offerte del Marketplace disponibili (non solo per i servizi gratuiti e BYOL) è consigliabile i partner CSP distribuiscono servizi condivisi usando sottoscrizioni Azure web dirette.  I partner CSP che hanno distribuito 3rd party BYOL e libero le risorse da Marketplace del servizio in precedenza e continuare a usarle e distribuire più 3rd party offerte sono invitate a eseguire la migrazione della sottoscrizione di questi servizi avanzati per web diretto [migrazione Sottoscrizioni di Azure esistenti](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
+
+I partner, che prevede di continuare a usare la sottoscrizione di questi servizi avanzati dopo il 1 ° marzo 2019 e si desidera distribuire nuove parti 3rd [services BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) o i servizi gratuiti, seguire le istruzioni da parte degli ISV per distribuirle nei loro abbonamenti di questi servizi avanzati.
 

@@ -9,12 +9,12 @@ ms.author: labrenne
 keywords: limite di credito, acquistare, aumento del limite, carta di credito riga
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5183e3787f3573b0d7f2bd2f318fa48ef68c3922
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: eea3640ca69d97d3355fec98d700268f7433fb99
+ms.sourcegitcommit: 21be97e18e9d0f9aa007f3324bedd41d0af5fbab
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586184"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "58220801"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>Limiti di credito dell'account Cloud Solution Provider (CSP)
 
@@ -22,14 +22,16 @@ ms.locfileid: "57586184"
 
 - Centro per i partner
 
-Quando diventi un partner del programma CSP, alla tua organizzazione viene assegnato un limite di credito che ti consente di acquistare software per la vendita ai clienti, nell'attesa di ricevere da questi i pagamenti per i loro acquisti. Per conoscere il tuo limite di credito, esamina la comunicazione recente in cui viene indicata la tua disponibilità in relazione al limite di credito.  
+Diventare un partner del programma CSP, viene automaticamente offrire alla tua azienda una linea di credito. Carta di credito consente di acquistare un software per la vendita ai clienti durante l'attesa per i clienti di effettuare il pagamento. 
 
-## <a name="what-you-need-to-know-about-your-credit-limit"></a>Cosa sapere sul limite di credito
+## <a name="monitoring-your-credit-use"></a>Monitoraggio dell'utilizzo del credito
 
-Una volta utilizzato il 70% del limite, Microsoft invierà al contatto principale della tua organizzazione un'e-mail informativa in merito. Nell'e-mail verrà fornito un riepilogo della fattura che includerà l'importo da pagare per mantenere il servizio. Inoltre, riceverai un avviso quando raggiungi l'85%. Se utilizzi il 100% del limite di credito, Microsoft ti informerà 24 ore prima sulla necessità di effettuare un pagamento, altrimenti l'account verrà sospeso. 
+Se è stato usato il 70% del limite di credito, ti invieremo una notifica di contatto principale dell'azienda tramite posta elettronica. Questo messaggio di posta elettronica includerà il saldo del credito corrente, un riepilogo della fattura e linee guida per la gestione del servizio. Quando è stato usato dall'85% del limite di credito, ti invieremo un altro indirizzo e-mail. Si deve raggiungere il 100% del limite di, si riceverà un avviso è necessario effettuare il pagamento entro 24 ore per evitare la sospensione del proprio account. 
 
-Se l'account CSP viene sospeso, non potrai creare nuovi clienti, acquistare nuove sottoscrizioni né apportare modifiche alle sottoscrizioni esistenti.
+Se l'account è sospeso, non sarà possibile creare nuovi clienti, acquisto di sottoscrizioni nuove o apportare modifiche a sottoscrizioni esistenti. I clienti esistenti rimangono invariati. 
 
 ## <a name="automatic-credit-limit-increase"></a>Aumento automatico del limite di credito
 
-Come previsto per i partner CSP, Microsoft esamina periodicamente il tuo account e, se è stata mantenuta l'osservanza delle condizioni associate, sei idoneo per aumenti automatici della linea di credito. Microsoft ti informerà di eventuali modifiche all'account. 
+Microsoft esamina periodicamente gli account di tutti i partner CSP. Se l'account è buona reputazione, è possibile usufruire di un aumento della riga di carta di credito. Ti invieremo una notifica eventuali modifiche di account. 
+
+Per altre informazioni sui limiti di credito, contattare il Team di rischio di credito Microsoft a ucmwrcsp@microsoft.com. 

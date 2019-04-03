@@ -1,18 +1,18 @@
 ---
 title: Sospendere una sottoscrizione | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/11/2018
 description: I partner possono sospendere o annullare una sottoscrizione se richiesto dal cliente o in caso di insolvenza o frode.
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: acf9a30f10f5d0608843cd2e3e088ac9f6bb1559
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585314"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756888"
 ---
 # <a name="suspend-a-subscription"></a>Sospendere una sottoscrizione
 
@@ -24,7 +24,7 @@ ms.locfileid: "57585314"
 
 I partner possono sospendere o annullare una sottoscrizione se richiesto dal cliente o in caso di insolvenza o frode.
 
-Quando cambi lo stato di una sottoscrizione in **Sospesa**, gli utenti non possono accedere alla sottoscrizione o ai servizi. Gli amministratori possono comunque eseguire l'accesso e accedere ai dati.
+Quando cambi lo stato di una sottoscrizione in **Sospesa**, gli utenti non possono accedere alla sottoscrizione o ai servizi.
 
 **Sospendere una sottoscrizione**
 

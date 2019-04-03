@@ -1,17 +1,17 @@
 ---
 title: Collaborare con i rivenditori indiretti in CSP | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/29/2019
 description: In qualità di provider indiretto, o distributore, puoi collaborare con rivenditori indiretti per ampliare il tuo mercato.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 0eb5afdf04655e52fe493d9039d4aa11fbca5a4b
+ms.sourcegitcommit: 29dd7a49981f998800279ee9f8c489a0e41fb371
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584374"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "58656392"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 
@@ -62,7 +62,7 @@ Per stabilire una partnership, invia una richiesta di partnership al rivenditore
 
 2. Nella pagina **Indirect resellers** seleziona **Request a partnership**. Viene visualizzata una bozza di messaggio di posta elettronica.
 
-3. Seleziona **Apri in messaggio di posta elettronica** per aprire il messaggio nell'applicazione di posta elettronica predefinita oppure seleziona **Copia negli Appunti** per copiare e incollare il messaggio in un messaggio di posta elettronica. Al termine seleziona **Fatto**.
+3. Seleziona **Apri in messaggio di posta elettronica** per aprire il messaggio nell'applicazione di posta elettronica predefinita oppure seleziona **Copia negli Appunti** per copiare e incollare il messaggio in un messaggio di posta elettronica. Selezionare **al termine**.
     > [!IMPORTANT]  
     >  È possibile modificare il testo del messaggio di posta elettronica, ma assicurarsi di includere il collegamento perché si è personalizzato per l'account Partner Center.
 
@@ -86,16 +86,7 @@ Per le sottoscrizioni esistenti, se si decide di lavorare con un rivenditore ind
 | Assegnare al rivenditore il credito per gli incentivi | Associare il rivenditore alla sottoscrizione (nuova o esistente) | Nella pagina **Nuova sottoscrizione** |
 | Delegare il supporto cliente per sottoscrizioni specifiche al rivenditore | Selezionare il rivenditore dall'elenco **Designated support contact** | Nella pagina dei dettagli della sottoscrizione: Seleziona il cliente dalle **clienti** pagina, quindi selezionare la sottoscrizione del cliente **sottoscrizioni** pagina |
 
-Oggi, i provider indiretti possono usare dashboard Centro per i Partner per ordine e, facoltativamente, selezionare un rivenditore indiretto come il PartnerOnRecord. Se si non ricevono un rivenditore indiretto, abbiamo trattarlo come una transazione di livello 1 e incentivize di conseguenza il provider indiretto. Se si seleziona uno, si considera l'ordine come transazione di livello 2 e abbiamo incentivize rivenditori indiretti sia il provider indiretto conseguenza:
 
- 
-
-È inoltre disponibile un'esperienza in cui un provider indiretto può anche aggiornare il PartnerOnRecord per le sottoscrizioni esistenti:
-
- 
-
-È possibile sapere se è disponibile documentazione esistente in modo indiretto provider devono gestire il PartnerOnRecord l'impostazione?
-Il motivo che visualizzare questo è quanto sembra essere piuttosto una serie significativa di transazioni di livello 2 che non sono state configurate correttamente dai provider indiretti, conseguente proventi incentivi non corretto. Come passare del tempo, i partner realizzato questo e avviato rivolgersi a Microsoft per ottenere un backpay su incentivi. Se non si dispone di code coverage documentazione in questa area, vorrei ottenere l'assistenza per mettere insieme una.
 
 
 

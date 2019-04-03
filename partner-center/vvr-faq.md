@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: voucher corsi, verifica del software, formazione e convalidare i voucher, riserva voucher
 ms.localizationpriority: medium
-ms.openlocfilehash: 98ca652900afd38ed022801a9cb7ec4c2b917180
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
+ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584454"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "58863989"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ: Lo strumento Voucher convalida e riscatto 
 
@@ -48,6 +48,9 @@ A partire dal 31 marzo 2019, tutti i partner gestiranno i voucher nel centro per
 
 - Centro per i partner è necessario per l'accesso con un account aziendale (AAD).  CHIP attualmente Usa account personale per account di accesso (account Microsoft o Live ID).  Quando si passa da VVR nel centro per i Partner a CHIP, dovrai accedere a CHIP usando il tuo account Microsoft o Live ID che viene registrato con CHIP.
 
+**Come la mia azienda può accedere lo strumento VVR?**
+
+- Per accedere allo strumento VVR, la società deve registrarsi per il programma SATV o il programma di servizio Device Provisioning dell'amministratore di sistema.
 Per informazioni su come effettuare l'iscrizione a SATV, leggere [programma Software Assurance Training Voucher (SATV) nel centro per i Partner](software-assurance-satv.md).
  <!--
 For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

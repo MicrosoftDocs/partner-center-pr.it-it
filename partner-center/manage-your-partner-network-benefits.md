@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, vantaggi dell'adesione, adesione
 ms.localizationpriority: medium
-ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 60af091fdfe47d51d5e7b669f66cb8d0610286bb
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584704"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "57988215"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gestire i vantaggi dell'adesione al Microsoft Partner Network
 
@@ -21,7 +21,7 @@ ms.locfileid: "57584704"
 -  Centro per i partner
 
 >[!IMPORTANT]
->Questo articolo illustra come iniziare a utilizzare il Microsoft Partner Network (MPN) l'appartenenza dei vantaggi del Partner Center (precedentemente noto come centro per i Partner) - questo sito. Se non è stato ricevuto un invito per spostare le informazioni sulla società dal Partner Membership Center (PMC) al centro per i Partner, è necessario continuare a gestire i benefici di appartenenza MPN nella console di gestione pacchetti. [Accedi](https://partner.microsoft.com/_login?authType=OpenIdConnect) a PMC ora.   
+>Questo articolo illustra come iniziare a usare i vantaggi dell'iscrizione di Microsoft Partner Network (MPN) nel centro per i Partner - questo sito. Se non è stato ricevuto un invito per spostare le informazioni sulla società dal Partner Membership Center (PMC) al centro per i Partner, è necessario continuare a gestire i benefici di appartenenza MPN nella console di gestione pacchetti. [Accedi](https://partner.microsoft.com/_login?authType=OpenIdConnect) a PMC ora.   
 
 Quando partecipi a Microsoft Partner Network (MPN), ottieni tutti i vantaggi dell'adesione che consentono di creare e incrementare la tua attività. Se non sei un membro della rete di MPN, puoi iscriverti ora [al sito MPN](https://partner.microsoft.com/membership).
 

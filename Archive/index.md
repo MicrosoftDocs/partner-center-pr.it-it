@@ -3,8 +3,13 @@ title: Centro per i partner gestito da 21Vianet
 ms.topic: article
 ms.date: 10/29/2018
 description: Usa il Centro per i partner gestito da 21Vianet per rivendere servizi CSP in Cina.
+ms.openlocfilehash: 236f425c9e49ca7683b3c337f0258b7a86f76ca9
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588264"
 ---
-   
 # <a name="partner-center-operated-by-21vianet"></a><span data-ttu-id="74023-103">Centro per i partner gestito da 21Vianet</span><span class="sxs-lookup"><span data-stu-id="74023-103">Partner Center operated by 21Vianet</span></span>
 
 <span data-ttu-id="74023-104">Il Centro per i partner gestito da 21Vianet è il portale aziendale per i rivenditori di servizi CSP (Cloud Solution Provider) di 21Vianet in Cina.</span><span class="sxs-lookup"><span data-stu-id="74023-104">Welcome to Partner Center operated by 21Vianet, the business portal for resellers of 21Vianet's Cloud Solution Provider (CSP) services in China.</span></span> 

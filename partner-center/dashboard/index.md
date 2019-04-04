@@ -3,13 +3,18 @@ layout: HubPage
 hide_bc: true
 title: Documentazione per sviluppatori e sui servizi del Centro per i partner
 ms.date: 10/29/2018
-description: 'Se accedi al Centro per i partner per pubblicare app, recuperare dati sulle tue applicazioni desktop, ottenere la certificazione hardware, pubblicare driver in Windows Update o eseguire transazioni come rivenditore, leggi questa documentazione.'
+description: Se accedi al Centro per i partner per pubblicare app, recuperare dati sulle tue applicazioni desktop, ottenere la certificazione hardware, pubblicare driver in Windows Update o eseguire transazioni come rivenditore, leggi questa documentazione.
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
+ms.openlocfilehash: 47e8208ec2609e6591d617f2431a635e81112767
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588294"
 ---
-
 <div id="main" class="v2">
     <div class="container">
         <h1>Documentazione sui servizi del Centro per i partner</h1>

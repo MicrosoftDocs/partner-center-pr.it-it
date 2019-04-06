@@ -1,18 +1,18 @@
 ---
 title: Requisiti di base di attestazioni cooperativa incentivi | Centro per i partner
 ms.topic: article
-ms.date: 4/3/19
+ms.date: 4/4/2019
 description: Ogni tipo di attività all'interno del programma cooperativo di incentivi avrà i propri requisiti di base
 author: LauraBrenner
 ms.author: labrenne
 keywords: attestazioni incentivi, attestazioni cooperative, fondi cooperativi, requisiti cooperativi
 ms.localizationpriority: medium
-ms.openlocfilehash: f3fb1a30f08d4d27c766ec4f922b0434c89367ea
-ms.sourcegitcommit: 272b2448180294b36bee4dea38b94559bbcde26c
+ms.openlocfilehash: c5a48d7624baf3fd4b0a2100625c7b463f2f2413
+ms.sourcegitcommit: 6e30c3fd5445d805c88fbdd2c2cebce989114091
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "58897977"
+ms.lasthandoff: 04/04/2019
+ms.locfileid: "59019434"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Requisiti di base delle attestazioni cooperative per gli incentivi
 
@@ -20,9 +20,9 @@ ms.locfileid: "58897977"
 
 - Centro per i partner
 
-Ogni tipo di attività per cui invii un'attestazione incentivi include requisiti di base che devi soddisfare e dimostrare nei documenti della prova di esecuzione. In alcuni casi, sono richiesti anche tipi di comunicazioni definiti.
+Ogni tipo di attività per cui invii un'attestazione incentivi include requisiti di base che devi soddisfare e dimostrare nei documenti della prova di esecuzione. In alcuni casi, esistono tipi di comunicazioni definite e le metriche che sono anche necessari.
 
-Nelle tabelle seguenti sono riportati i requisiti di base e di comunicazione per ciascuna delle attività accettate. 
+Le tabelle seguenti illustrano i requisiti di base per ogni attività accettate. 
 
 ## <a name="demand-generation"></a>Generazione delle richieste
  Le attività includono la pubblicità digitale e tradizionale con ampia copertura che estende la commercializzazione e alla promozione delle offerte Microsoft. Numero di destinatari e risultati deve essere misurabile.
@@ -33,7 +33,7 @@ Nelle tabelle seguenti sono riportati i requisiti di base e di comunicazione per
         |
 |Annunci stampati |Marchio e informazioni di contatto della società, contenuto Microsoft |Copia dell'elemento di comunicazione finale (basato sugli annunci) che mostra i requisiti di base specifici del programma|Raggiungere stimato dei clienti (o partner)|Posizione media di terze parti; materiale stampato; Servizi tariffa agenzia marketing e creativi, incluse le agenzia|
 |Annunci digitali|            |Schermata dell'annuncio digitale E URL della pagina di destinazione, che illustra i requisiti di base specifici del programma|Riepilogo dei risultati (ad esempio, i report click-through)|Posizione media di terze parti; Tariffa – Agenzia: Servizi di marketing e creativi, incluse le agenzia|  
-|Posta diretta, messaggi e-mail e SMS|             |1) Copia dell'elemento di comunicazione finale che mostra i requisiti di base specifici del programma 2) La prova di distribuzione può includere una busta per spedizione con timbro postale o altra prova di spedizione postale (direct mail), messaggio e-mail finale con un'intestazione datata o altra prova di invio di messaggi e-mail (messaggio di posta elettronica) o foto del messaggio telefonico (SMS)|   Raggiungere stimato dei clienti (o partner)   |• Acquisizione •database • materiale stampato spese postali è ragionevole; Tariffa – Agenzia: Servizi di marketing e creativi, incluse le agenzia|
+|Posta diretta, messaggi e-mail e SMS|             |1) copia della parte finale di comunicazione che illustra i requisiti specifici del programma core 2) modello di distribuzione può includere shipping timbro busta o altri la prova di posta (posta diretta), posta elettronica finale che Mostra intestazione con data di validità o altre prove dell'invio (posta elettronica), o foto del messaggio di telefono (SMS)|   Raggiungere stimato dei clienti (o partner)   |• Acquisizione •database • materiale stampato spese postali è ragionevole; Tariffa – Agenzia: Servizi di marketing e creativi, incluse le agenzia|
 |Motore di ricerca e il sito Web del partner||URL e/o schermate delle pagine del sito che mostra URL; istruzione del contratto di lavoro o del servizio per il progetto SEO (solo attività SEO)|Riepilogo dei risultati (ad esempio click-through report)|Tariffa – Agenzia: Servizi di marketing, incluse le agenzia; Programmazione/sviluppo: La programmazione e costi di sviluppo; Tariffa – motore di ricerca: Tariffe di manutenzione e ottimizzazione|
 |Contenuto diffuso su diversi canali di Microsoft||URL e/o schermate delle pagine del sito che mostra URL|Riepilogo dei risultati (ad esempio, i report click-through)|I costi effettivi fino a USD18, 750 per ogni periodo di utilizzo per: tariffa - agenzia marketing servicews, incluse le agenzia; la programmazione e costi di sviluppo; posizionamento di supporti|
 |Campagna digitale multi-touch|     |La prova di esecuzione integrale come descritta in dettaglio nella pagina delle attività applicabili è obbligatoria.  -Annunci digitali - Posta elettronica diretta - Ottimizzazione motore di ricerca e sito Web del partner - Telemarketing||• Posizionamento di terze parti supporti tariffa – Agenzia: Servizi di marketing e creativi, incluse le agenzia; Acquisizione del database; •Programming/sviluppo: La programmazione e costi di sviluppo; Tariffa – motore di ricerca: Ottimizzazione e le tariffe di manutenzione; Tariffa, addebiti di terze parti chiamata center

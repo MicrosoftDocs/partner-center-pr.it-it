@@ -134,7 +134,7 @@ Il Centro per i partner Microsoft è una risorsa completa per gestire tutti gli 
                     </div>
                     <div class="cardText">
                         <h3>Registrazione</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Creazione di un account</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Gestione di tenant e posizioni</a></p>
+                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Crea un account</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Gestione di tenant e posizioni</a></p>
                     </div>
                 </div>
             </div>
@@ -167,7 +167,7 @@ Il Centro per i partner Microsoft è una risorsa completa per gestire tutti gli 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Espandi il tuo business</h3>
+                        <h3>Espandere le attività</h3>
                         <p><a href="/partner-center/referrals">Profili aziendali e segnalazioni</a><br /><a href="/partner-center/promotions">Promozioni</a><br /><a href="/partner-center/get-special-pricing-for-offers">Vendita in settori specializzati</a></p>
                     </div>
                 </div>

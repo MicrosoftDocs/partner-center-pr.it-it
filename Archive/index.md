@@ -22,7 +22,7 @@ Per rivendere servizi CSP di 21Vianet in Cina, è necessario iscriversi al progr
 
 Dopo aver completato l'iscrizione al programma CSP Cina, accedi al Centro per i partner e consulta gli articoli seguenti per iniziare a espandere il tuo business.  
    
--   [Gestire l'account per il Centro per i partner](partner-center-account-setup.md)
+-   [Gestisci il tuo account per il Centro per i partner](partner-center-account-setup.md)
 -   [Prezzi e offerte](see-offers-and-pricing.md)
 -   [Fatturazione](billing.md)
 -   [Account dei clienti](customer-accounts.md)

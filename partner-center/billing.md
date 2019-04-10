@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: medium
-ms.openlocfilehash: 1d742b014e531539eaf89cffcbbe08b0232a2161
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586384"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430120"
 ---
 # <a name="billing"></a>Fatturazione
 
@@ -28,7 +28,7 @@ Per la fattura, visitare il **Centro per i Partner** menu e quindi selezionare *
 I partner del programma Cloud Solution Provider che scelgono la fatturazione mensile pagheranno Microsoft per gli abbonamenti dei clienti (sia in base a licenza che in base all'uso) in via posticipata, dopo 60 giorni.
 
 > [!NOTE]  
-> La fattura è un riepilogo di tutti gli addebiti relativi a programma, prodotti e clienti per il periodo di fatturazione corrente ed è disponibile entro quattro (4) giorni dalla data di fatturazione selezionata.
+> La fattura è un riepilogo di tutti gli addebiti, attraverso il programma, i prodotti e clienti, per il periodo di fatturazione corrente ed è disponibile entro due (2) della data di fatturazione selezionata in formato UTC. Ad esempio, se hai il 12 settembre data di fatturazione, il processo di generazione della fattura verrà iniziano alle 12:00 AM UTC nel 13 e completare da 12:00 AM UTC su 14. Se non è possibile visualizzare la fattura da 11 alle 23.59.59 UTC il giorno 15, vengono all'esterno del contratto di servizio, che deve inviare una richiesta di servizio. 
 
 Informazioni fondamentali da conoscere sulla fatturazione ai clienti:
 
@@ -38,17 +38,17 @@ Informazioni fondamentali da conoscere sulla fatturazione ai clienti:
 -   Invia una sola fattura per tutti gli addebiti al cliente.
 
 ## <a name="billing-resources"></a>Analisi della fatturazione
-|**Per informazioni su**   |**Leggere questo**    |
+|**Per informazioni su**   |**Leggi**    |
 |:-----------------------------|:-----------------|
-|Concetti di base di fatturazione, pagamenti, fatture e altro   |[Nozioni fondamentali sulla fatturazione](billing-basics.md)
+|Concetti di base di fatturazione, pagamenti, fatture e altro   |[Nozioni di base sulla fatturazione](billing-basics.md)
 |Molte nuove funzionalità di fatturazione, ad esempio la fatturazione annuale   |[Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md)|
 |Tipi di fatturazione   |[Informazioni sui tipi di fatturazione nel centro per i Partner](billing-different-types.md)   |
 |La chiave di lettura della fattura   |[Leggere la fattura](read-your-bill.md)   |
 |Come leggere e utilizzare il file di riconciliazione   |[Usare i file di riconciliazione](use-the-reconciliation-files.md)|
-|Scenari di fatturazione comuni (altri scenari di fatturazione sono disponibili in [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md))|[Scenari comuni di fatturazione](common-billing-scenarios.md)|
-|La tua responsabilità fiscale   | [Tasse e imposte esenzioni](tax-and-tax-exemptions.md)|
-|Budget in base all'uso    |[Impostare un budget di spesa per i clienti di Azure](set-an-azure-spending-budget-for-your-customers.md)|
-|Cosa fare in caso di insolvenza, frodi o uso improprio   |[Mancato pagamento, frodi o utilizzo improprio](non-payment--fraud--or-misuse.md)|
+|Scenari di fatturazione comuni (altri scenari di fatturazione sono disponibili in [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md))|[Scenari di fatturazione comuni](common-billing-scenarios.md)|
+|La tua responsabilità fiscale   | [Imposte ed esenzioni fiscali](tax-and-tax-exemptions.md)|
+|Budget in base all'uso    |[Impostare un budget di spesa di Azure per i clienti](set-an-azure-spending-budget-for-your-customers.md)|
+|Cosa fare in caso di insolvenza, frodi o uso improprio   |[Insoluti, frodi o uso improprio](non-payment--fraud--or-misuse.md)|
 
 
 

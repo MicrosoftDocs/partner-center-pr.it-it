@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
+ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682509"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430200"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -23,6 +23,22 @@ ms.locfileid: "57682509"
 
 
 Per una visualizzazione dettagliata voce ogni gratuitamente in un ciclo di fatturazione, scaricare i file di riconciliazione dal centro per i Partner. I dettagli includono gli addebiti per le sottoscrizioni di ogni singolo cliente e gli eventi dettagliati, ad esempio un'aggiunta di postazioni a una sottoscrizione in corso.
+
+## <a name="formatting-issues"></a>Problemi di formattazione
+
+In alcuni casi il file di riconoscimento potrà avere problemi di formattazione. (Questa situazione può verificarsi, ad esempio, se non viene utilizzata le impostazioni locali EN-US.) Attenersi alla procedura seguente per risolvere questi problemi. 
+
+<ol>
+<li>Aprire il file con estensione csv in Excel e selezionare la prima colonna. Sulla barra multifunzione, selezionare <strong>dati</strong>, quindi selezionare <strong>testo alle colonne</strong>.</li>
+
+<li>La conversione guidata testo in colonne, selezionare <strong>tipo di file delimitati</strong>e quindi selezionare <strong>successivo</strong>.</li> 
+
+<li>Nel campo Delimeters, selezionare <strong>virgole</strong>. Se <strong>scheda</strong> è già selezionata, è possibile lasciarla. Selezionare <strong>Avanti</strong>.</li>
+
+<li>Nel campo formato dei dati di colonna, selezionare <strong>data: MDY</strong>, quindi selezionare <strong>successivo</strong>.</li> 
+
+<li>Nel campo formato dei dati di colonna, selezionare <strong>testo</strong> per tutte le colonne e quindi selezionare l'importo <strong>fine</strong>.</li>
+</ol>
 
 ## <a href="" id="itemizebypartner"></a>Specificare i dettagli da partner
 
@@ -72,7 +88,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Colonna</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>Descrizione</strong></td>
 <td><strong>Valore di esempio</strong></td>
 </tr>
@@ -241,7 +257,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Colonna</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>Descrizione</strong></td>
 <td><strong>Valore di esempio</strong></td>
 </tr>
@@ -902,21 +918,21 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <tbody>
 <tr>
 <td>
-<p><strong>Descrizione di addebito della fattura</strong></p>
+<p><strong>Descrizione dell'addebito in fattura</strong></p>
 </td>
 <td>
-<p><strong>Descrizione di addebito file di riconciliazione (ChargeType colonna)</strong></p>
+<p><strong>Descrizione dell'addebito nel file di riconciliazione (colonna ChargeType)</strong></p>
 </td>
 <td>
-<p><strong>Che cos'è l'addebito?</strong></p>
+<p><strong>Descrizione dell'addebito</strong></p>
 </td>
 <td>
-<p><strong>Come è possibile associare queste ChargeTypes nella fattura?</strong></p>
+<p><strong>Come posso eseguire il mapping di questi tipi di addebito alla fattura?</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>Addebiti basati su licenza</strong></p>
+<p><strong>Addebiti in base alle licenze</strong></p>
 </td>
 <td>
 <p>Commissione di attivazione</p>
@@ -1040,7 +1056,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>Sconti basati sull'utilizzo</strong></p>
+<p><strong>Sconti in base all'uso</strong></p>
 </td>
 <td>
 <p>Sconto attivazione</p>
@@ -1081,10 +1097,10 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 
 <tr>
 <td>
-<p><strong>Sconti basati su licenza</strong></p>
+<p><strong>Sconti in base alle licenze</strong></p>
 </td>
 <td>
-<p><em>Può essere applicato a più tipi di costo</em></p>
+<p><em>Possono essere applicati a più tipi di addebito</em></p>
 </td>
 <td>
 <p></p>
@@ -1098,8 +1114,8 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p><strong>Imposte</strong>&nbsp;o&nbsp;<strong>IVA</strong></p>
 </td>
 <td>
-<p><em>Può essere applicato a più tipi di costo</em></p>
-<p><em>Eccezione: &quot;Offset di una voce&quot; include già le imposte. Vedere i crediti, sopra.</em></p>
+<p><em>Possono essere applicati a più tipi di addebito</em></p>
+<p><em>Eccezione: &quot;Offset di una voce&quot; include già le imposte. Vedere Crediti qui sopra.</em></p>
 </td>
 <td>
 <p>Imposte o imposte sul valore aggiunto (IVA)</p>

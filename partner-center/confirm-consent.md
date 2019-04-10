@@ -1,18 +1,18 @@
 ---
 title: Conferma di accettazione da parte del cliente del contratto di Microsoft Cloud | Centro per i partner
 ms.topic: article
-ms.date: 02/22/2019
+ms.date: 04/5/2019
 Description: Come partner, devi ottenere l'accettazione da parte del cliente del contratto di Microsoft Cloud prima di poter ordinare prodotti e servizi Microsoft per tale cliente. Per aiutare i partner soddisfano i requisiti di conformità, Microsoft richieda i partner per confermare l'accettazione, fornendo alcune particolarità, la persona che ha accettato il contratto.
 author: LauraBrenner
 ms.author: v-petand
 keywords: cliente, i clienti, fornire il consenso, MCA, contratto di Microsoft Cloud, i modelli di contratto dei clienti
 ms.localizationpriority: medium
-ms.openlocfilehash: e8c4b66027eeb9e285bd09a4b77aaf9bb6574188
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587564"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430130"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Conferma dell'accettazione del cliente del contratto di Microsoft Cloud
 
@@ -25,7 +25,7 @@ Come partner, devi ottenere l'accettazione da parte del cliente del contratto di
 
 -   Cognome
 
--   Indirizzo e-mail
+-   Indirizzo di posta elettronica
 
 -   Numero di telefono
 
@@ -33,58 +33,26 @@ Come partner, devi ottenere l'accettazione da parte del cliente del contratto di
 
 Per altre informazioni, vedere la conferma dell'accettazione di contratto di Microsoft Cloud cliente [Frequently Asked Questions](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
 
-## <a name="schedule"></a>Pianificazione
+Partner diretto fattura e i provider indiretti necessario confermare l'accettazione del cliente del contratto di Microsoft Cloud quando vincolante tramite Centro per i Partner o Partner Center API. La conferma è *obbligatoria*.
 
-**7 agosto 2018**
+Se non viene fornita la conferma per un determinato cliente:
 
--   I partner con fatturazione diretta e i provider indiretti possono confermare l'accettazione da parte del cliente del contratto di Microsoft Cloud. La conferma è *facoltativa*.
+-   Non sarai in grado di creare nuovi ordini per il cliente.
 
--   Conferma dell'accettazione del cliente può essere eseguita tramite Centro per i Partner o Partner Center API.
+-   Non sarai in grado di modificare il numero di postazioni degli abbonamenti basati su postazioni esistenti per il cliente.
 
--   La conferma dell'accettazione da parte del cliente è supportata solo il cloud pubblico di Microsoft.
+Conferma dell'accettazione del cliente può essere eseguita tramite Centro per i Partner o Partner Center API. A questo scopo attraverso la Partner Center API, vedere gli argomenti seguenti: 
 
+-   [Ottenere la conferma del consenso dei clienti](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent)
 
-**7 novembre 2018**
+-   [Ottenere i metadati di contratto](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
 
--   Indirizzare i partner di fattura e i provider indiretti **necessario** confermare l'accettazione del cliente del contratto di Microsoft Cloud quando vincolante tramite dashboard del centro per i Partner. La conferma è *obbligatoria*.
-
--   Se non viene fornita la conferma per un determinato cliente:
-
-    -   Non sarai in grado di creare nuovi ordini per il cliente.
-
-    -   Non sarai in grado di modificare il numero di postazioni degli abbonamenti basati su postazioni esistenti per il cliente.
-
--   Conferma dell'accettazione del cliente può essere eseguita tramite Centro per i Partner o Partner Center API.
-
--   La conferma dell'accettazione da parte del cliente è supportata solo il cloud pubblico di Microsoft.
-
--   Questo vale per gli ambienti sandbox sia di produzione.
-
-**11 marzo 2018**
-
-- Partner bill diretto e indiretto Providersmust confermare l'accettazione del cliente del contratto Microsoft Cloud nell'ambiente sandbox CSP quando vincolante tramite Partner Center API.
-- Se non viene fornita la conferma per un determinato cliente:
-
-    - Sarà in grado di creare nuovi ordini per il cliente tramite Partner Center API.
- 
-    - Sarà possibile modificare il numero di postazioni di sottoscrizioni esistenti basati sulle postazioni per il cliente tramite Partner Center API.
-- La conferma dell'accettazione da parte del cliente è supportata solo il cloud pubblico di Microsoft. 
-
-**22 marzo 12018**
-
-- Partner bill diretto e indiretto Providersmust confermare l'accettazione del cliente del contratto Microsoft Cloud nell'ambiente di produzione CSP quando vincolante tramite Partner Center API.
-
-- Se non viene fornita la conferma per un determinato cliente:
-  - Sarà in grado di creare nuovi ordini per il cliente tramite Partner Center API.
-
-  - Sarà possibile modificare il numero di postazioni di sottoscrizioni esistenti basati sulle postazioni per il cliente tramite Partner Center API.
--  La conferma dell'accettazione da parte del cliente è supportata solo il cloud pubblico di Microsoft.
+-   [Confermare il consenso dei clienti](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
 
+La conferma dell'accettazione da parte del cliente è supportata solo il cloud pubblico di Microsoft.
 
-
-
-
+Questo vale per gli ambienti sandbox sia di produzione.
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>Per confermare l'accettazione del cliente nel centro per i Partner
 

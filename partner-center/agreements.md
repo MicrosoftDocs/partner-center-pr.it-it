@@ -1,18 +1,18 @@
 ---
 title: Modelli dei clienti di Microsoft Cloud contratto | Centro per i partner
 ms.topic: article
-ms.date: 11/03/2018
+ms.date: 03/11/2019
 description: Trovare e scaricare le versioni specifiche di area e lingua del contratto di Cloud di Microsoft per esaminare con i tuoi clienti.
 author: MaggiePucciEvans
 ms.author: evensma
 keywords: Contratti di cloud di Microsoft, modelli di contratto dei clienti, i contratti CSP dei clienti, contratto di Microsoft Cloud, MCA, CSP, in cui è possibile vendere tramite CSP?, CSP paesi e aree geografiche, MCAs CSP in più lingue, CSP North America, America centrale CSP, CSP meridionale America, Caraibi CSP, Cloud di Microsoft CSP per il governo degli Stati Uniti, CSP Microsoft Cloud Germany, CSP Medio Oriente, Africa CSP, CSP Europa, Asia CSP, Pacifico CSP, MCAs CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 5a7e0156136a52f9bfbaccbb76fc1316cb327c55
-ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
+ms.openlocfilehash: b2a65feac1f9f873512913ec2e4f26dc42efe865
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58320754"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430220"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratti Microsoft Cloud per area geografica e lingua
 

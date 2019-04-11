@@ -336,7 +336,7 @@ Se il percorso della società nell'elenco seguente, è possibile vendere CSP off
 |  Libano        |   USD    |
 |  Lesotho        |   USD    |
 |  Libia          |          |
-|  Macedonia, Repubblica di|   |
+|  Macedonia del Nord|   |
 |  Mauritania     |   USD    |
 |  Moldova        |          |
 |  Mongolia       |          |

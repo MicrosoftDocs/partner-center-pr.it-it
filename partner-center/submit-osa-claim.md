@@ -7,14 +7,14 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: attestazioni incentivi, le attestazioni di co-op, cooperativa fondi, OSA, ISV, associazione di ricavi
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d043d59c5ef96e42587d36e128e7d1f556c9c5b
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
+ms.sourcegitcommit: 1dccb3fd6b1ea08cabc8251b8a0eb7fe68c39f51
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430643"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "59619307"
 ---
-#<a name="submit-your-osa-claims-in-partner-center"></a>Invio di attestazioni OSA nel centro per i Partner
+# <a name="submit-your-osa-claims-in-partner-center"></a>Inviare le richieste OSA nel Centro per i partner
 
 **Si applica a**
 
@@ -28,17 +28,17 @@ Prima di poter creare e inviare un'attestazione, è necessario soddisfare i requ
 -   **Dispone di informazioni bancarie e fiscali** immesso nel centro per i Partner. 
 -   **Soddisfare i requisiti di certificazione e dei ricavi idoneità OSA Selling**. (Per informazioni dettagliate, vedere la Guida di vendere OSA, che si trova sotto la sezione OSA aka.ms/partnerincentives). Ciò non vale per gli ISV la ricerca solo l'associazione dei ricavi. 
 
-##<a name="submitting-your-claim"></a>Invio della richiesta di rimborso
+## <a name="submitting-your-claim"></a>Invio della richiesta di rimborso
 
 Hai 90 giorni dalla data della transazione per inviare la richiesta di rimborso. Se si invia la richiesta di rimborso più di 90 giorni dopo una transazione, non verrà ottenuto l'incentivo per vendere di vendita. 
 
 Se sei un partner ISV e le soluzioni ha contribuito a influenzare al cliente di scegliere una soluzione Microsoft Dynamics 365, sei anche idoneo per la richiesta di associazione di ricavi.   
 
-##<a name="payment-schedule"></a>Pianificazione del pagamento
+## <a name="payment-schedule"></a>Pianificazione del pagamento
 
 Si riceverà il pagamento per le attestazioni incentivi approvata entro 45 giorni dopo la fine del periodo di ottenendo. Hai 90 giorni dopo la fine del periodo di ottenendo a controversia un pagamento. Per informazioni sui metodi e i calcoli di pagamento, vedere la Guida di origine della vendita OSA, che si trova sotto la sezione OSA aka.ms/partnerincentives.
 
-##<a name="maintaining-your-program-eligibility"></a>Mantenere l'idoneità di programma
+## <a name="maintaining-your-program-eligibility"></a>Mantenere l'idoneità di programma
 
 Microsoft valuta l'idoneità mensile per gli Online Services Advisor vendere incentivi per l'acquisizione, calcolo e pagamento. È necessario soddisfare criteri specifici di idoneità prima che Microsoft può approvare e rilasciare i pagamenti di incentivi. Per informazioni dettagliate, vedere la Guida di origine della vendita OSA, che si trova sotto la sezione OSA aka.ms/partnerincentives.
 
@@ -60,7 +60,9 @@ Completare la procedura seguente per inviare un'attestazione incentivo in Partne
 
 5.  Selezionare la sottoscrizione da associare a questa attestazione e quindi selezionare **continuazione**.
 
->[! NOTE] verificare che il nome e l'area geografica siano corrette prima di selezionare una sottoscrizione. 
+>[! NOTE SULLA]
+
+>Verificare che il nome e l'area geografica siano corrette prima di selezionare una sottoscrizione. 
 
 >Le sottoscrizioni che sono associate gli Advisor servizio online vengono contrassegnate con un triangolo giallo. È comunque possibile scegliere di associare a esse. 
 
@@ -76,7 +78,7 @@ Completare la procedura seguente per inviare un'attestazione incentivo in Partne
 
 Per visualizzare i dati utili e pagamenti, vedere proventi e creazione di report. 
  
-#<a name="submit-an-isv-revenue-association-claim"></a>Inviare un'attestazione di associazione dei ricavi di ISV
+# <a name="submit-an-isv-revenue-association-claim"></a>Inviare un'attestazione di associazione dei ricavi di ISV
 
 1.  Nella pagina Panoramica, sotto **tutti i programmi incentivi**, selezionare **OSA**.
 
@@ -86,7 +88,9 @@ Per visualizzare i dati utili e pagamenti, vedere proventi e creazione di report
 
 4.  Selezionare le sottoscrizioni di cui si desidera associare a questa attestazione e quindi selezionare **continuazione**.
 
->[! NOTE] verificare che il nome e l'area geografica siano corrette prima di selezionare una sottoscrizione. 
+>[! NOTE SULLA]
+
+>Verificare che il nome e l'area geografica siano corrette prima di selezionare una sottoscrizione. 
 
 >Non sono possibile associare nuovamente le sottoscrizioni già associate con l'azienda.  
 

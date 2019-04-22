@@ -8,10 +8,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430200"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
@@ -88,7 +88,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
+<td><strong>Colonna</strong></td>
 <td><strong>Descrizione</strong></td>
 <td><strong>Valore di esempio</strong></td>
 </tr>
@@ -257,7 +257,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
+<td><strong>Colonna</strong></td>
 <td><strong>Descrizione</strong></td>
 <td><strong>Valore di esempio</strong></td>
 </tr>
@@ -918,21 +918,21 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <tbody>
 <tr>
 <td>
-<p><strong>Descrizione dell'addebito in fattura</strong></p>
+<p><strong>Descrizione di addebito della fattura</strong></p>
 </td>
 <td>
-<p><strong>Descrizione dell'addebito nel file di riconciliazione (colonna ChargeType)</strong></p>
+<p><strong>Descrizione di addebito file di riconciliazione (ChargeType colonna)</strong></p>
 </td>
 <td>
-<p><strong>Descrizione dell'addebito</strong></p>
+<p><strong>Che cos'è l'addebito?</strong></p>
 </td>
 <td>
-<p><strong>Come posso eseguire il mapping di questi tipi di addebito alla fattura?</strong></p>
+<p><strong>Come è possibile associare queste ChargeTypes nella fattura?</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>Addebiti in base alle licenze</strong></p>
+<p><strong>Addebiti basati su licenza</strong></p>
 </td>
 <td>
 <p>Commissione di attivazione</p>
@@ -1056,7 +1056,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>Sconti in base all'uso</strong></p>
+<p><strong>Sconti basati sull'utilizzo</strong></p>
 </td>
 <td>
 <p>Sconto attivazione</p>
@@ -1097,10 +1097,10 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 
 <tr>
 <td>
-<p><strong>Sconti in base alle licenze</strong></p>
+<p><strong>Sconti basati su licenza</strong></p>
 </td>
 <td>
-<p><em>Possono essere applicati a più tipi di addebito</em></p>
+<p><em>Può essere applicato a più tipi di costo</em></p>
 </td>
 <td>
 <p></p>
@@ -1114,8 +1114,8 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p><strong>Imposte</strong>&nbsp;o&nbsp;<strong>IVA</strong></p>
 </td>
 <td>
-<p><em>Possono essere applicati a più tipi di addebito</em></p>
-<p><em>Eccezione: &quot;Offset di una voce&quot; include già le imposte. Vedere Crediti qui sopra.</em></p>
+<p><em>Può essere applicato a più tipi di costo</em></p>
+<p><em>Eccezione: &quot;Offset di una voce&quot; include già le imposte. Vedere i crediti, sopra.</em></p>
 </td>
 <td>
 <p>Imposte o imposte sul valore aggiunto (IVA)</p>

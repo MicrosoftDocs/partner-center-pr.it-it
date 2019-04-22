@@ -8,13 +8,13 @@ ms.author: labrenne
 keywords: voucher corsi, verifica del software, formazione e convalidare i voucher, riserva voucher
 ms.localizationpriority: medium
 ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58863989"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ: Lo strumento Voucher convalida e riscatto 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Domande frequenti: uso dello strumento per la convalida e il riscatto dei voucher 
 
 **Si applica a**
 

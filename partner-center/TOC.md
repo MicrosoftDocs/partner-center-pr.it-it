@@ -1,7 +1,7 @@
 # [Informazioni sul Centro per i partner Microsoft](index.md)
 
 # [Adesione alla rete per i partner](mpn-overview.md)
-## [Creare un account nel Centro per i partner](mpn-create-a-partner-center-account.md)
+## [Crea un account nel Centro per i partner](mpn-create-a-partner-center-account.md)
 ## Offerte per i membri
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Rinnovare le offerte](renew-mpn-offers.md)
@@ -11,7 +11,7 @@
 ### [Programma SATV (Software Assurance Training Voucher) nel Centro per i partner](software-assurance-satv.md)
 ### [Usare lo strumento per la convalida e il riscatto dei voucher nel Centro per i partner per convalidare, riservare e riscattare i voucher](voucher-validation-tool.md)
 ### [Domande frequenti: uso dello strumento per la convalida e il riscatto dei voucher](vvr-faq.md)
-### [Servizi di pianificazione Software Assurance nel Centro per i partner ](software-assurance-dps.md)
+### [Servizi di pianificazione Software Assurance nel Centro per i partner](software-assurance-dps.md)
 
 # [Cloud Solution Provider](csp-overview.md)
 ## [Iscriversi al programma Cloud Solution Provider](enrolling-in-the-csp-program.md)
@@ -19,7 +19,7 @@
 ## [Contratti Microsoft Cloud per area geografica e lingua](agreements.md)
 ## [Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto](transition-direct-to-indirect.md)
 ## [Contratti, listini prezzi e offerte per CSP](csp-documents-and-learning-resources.md)
-## [Valute e mercati locali per CSP](regional-authorization-overview.md)
+## [Valute e mercati regionali CSP](regional-authorization-overview.md)
 
 
 ## [Richiesta per la vendita nei cloud nazionali](csp-national-clouds-overview.md)
@@ -28,20 +28,20 @@
 
 # [Gestisci il tuo account per il Centro per i partner](partner-center-account-setup.md)
 ## [Account aziendali e Centro per i partner](azure-active-directory-tenants-and-partner-center.md)
-## [Aggiornare il profilo del partner](update-your-partner-profile.md)
-## [Percorsi](manage-locations.md)
+## [Aggiornare il profilo di partner](update-your-partner-profile.md)
+## [Località](manage-locations.md)
 ## [Ripristinare un account sospeso per il Centro per i partner](suspended-partner-center-account.md)
 ## [Creare account utente](create-user-accounts-and-set-permissions.md)
 ## [Assegnare autorizzazioni e ruoli utente](permissions-overview.md)
 ## [Verificare la proprietà del dominio](become-global-admin.md)
 ## [Reimpostare una password utente](reset-a-user-password.md)
-## [Aggiungere Servizi condivisi per partner di Azure](shared-services.md)
+## [Aggiungere Azure Partner Shared Services](shared-services.md)
 ## [Prezzi e offerte](pricing-and-offers.md)
-## [Personalizzare il catalogo](customize-the-catalog.md)
+## [Personalizza il catalogo](customize-the-catalog.md)
 
-# [Espandere le attività](grow-your-business.md)
+# [Espandere il business](grow-your-business.md)
 ## [Segnalazioni](referrals.md)
-### [Creare un profilo di business](create-a-marketing-profile.md)
+### [Crea un profilo di business](create-a-marketing-profile.md)
 ### [Rispondere alle segnalazioni](responding-to-referrals.md)
 ## [Richieste di incentivi](claims-overview.md)
 ### [Creare e gestire richieste di incentivi](create-incentives-claims.md)
@@ -51,7 +51,7 @@
 
 
 # [Fatturazione e imposte](billing.md)
-## [Domande frequenti sulla fatturazione](faq-about-new-billing-features.md)
+## [Domande frequenti sulla fatturazione ](faq-about-new-billing-features.md)
 ## [Nozioni di base sulla fatturazione](billing-basics.md)
 ## [Informazioni sui tipi di fatturazione nel Centro per i partner](billing-different-types.md)
 ## [Leggere la fattura](read-your-bill.md)
@@ -64,18 +64,18 @@
 ## [Insoluti, frodi o uso improprio](non-payment--fraud--or-misuse.md)
 ## [Servizi PSTN](o365-e5-in-csp-advisory.md)
 
-# [Entra in contatto con i clienti](customer-accounts.md)
-## [Aggiungere un nuovo cliente](add-a-new-customer.md)
-## [Richiedere una relazione come rivenditore con un cliente](request-a-relationship-with-a-customer.md)
+# [Entrare in contatto con i clienti](customer-accounts.md)
+## [Aggiungi un nuovo cliente](add-a-new-customer.md)
+## [Richiedi una relazione come rivenditore con un cliente](request-a-relationship-with-a-customer.md)
 ## [Rimuovere una relazione come rivenditore con un cliente](remove-a-relationship.md)
 ## [Visualizzare l'elenco dei clienti](see-your-customer-list.md)
-## [Aggiornare le info degli account dei clienti](update-customer-account-info.md)
-## [Creare più utenti per un cliente](adding-multiple-users-to-a-customer-account.md)
+## [Aggiornare le informazioni degli account dei clienti](update-customer-account-info.md)
+## [Crea più utenti per un cliente](adding-multiple-users-to-a-customer-account.md)
 ## [Assegnare contatti di supporto](assign-support-contacts.md)
 
 # [Offerte CSP](csp-offers.md)
 ## [Prenotazioni di Azure](azure-reservations.md)
-### [Ridimensionamento di VM per l'utilizzo massimo delle prenotazioni](azure-usage.md)
+### [Ridimensionamento della macchina virtuale per l'utilizzo massimo delle prenotazioni](azure-usage.md)
 ### [Acquistare prenotazioni di Microsoft Azure per conto dei clienti](azure-reservations-buying.md)
 ### [Gestire le prenotazioni di Microsoft Azure per conto dei clienti](azure-reservations-manage.md)
 ## [Sottoscrizioni del software](csp-software-subscriptions.md)
@@ -84,14 +84,14 @@
 ### [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md)
 ### [Vendere sottoscrizioni di prodotti di Azure Marketplace](sell-marketplace-products.md)
 ### [Assegnare sottoscrizioni di Azure nel Centro per i partner](assign-azure-subscriptions.md)
-### [Assegnare licenze agli utenti](assign-licenses-to-users.md)
+### [Assegna licenze agli utenti](assign-licenses-to-users.md)
 ### [Aggiungere licenze o servizi a una sottoscrizione esistente](add-licenses-or-services-to-an-existing-subscription.md)
 ### [Assegnare o revocare licenze a più utenti](bulk-license-provisioning-for-multiple-users.md)
-### [Spostare i clienti di servizi basati su licenza nel programma Cloud Solution Provider](transition-seat-based-services.md)
-### [Vendere sottoscrizioni di Minecraft: Education Edition](minecraft-subscriptions.md)
+### [Spostare i clienti di servizi basati su licenza nel programma Cloud Service Provider](transition-seat-based-services.md)
+### [Vendere sottoscrizioni di MineCraft: Education Edition](minecraft-subscriptions.md)
 ### [Vendere in settori specializzati](Get-special-pricing-for-offers.md)
 ### [Migliorare i tassi di adozione e soddisfazione](increasing-adoption-and-satisfaction.md)
-### [Semplificare la configurazione dei dispositivi con Windows Autopilot](autopilot.md)
+### [Semplifica la configurazione dei dispositivi con Windows Autopilot](autopilot.md)
 ##  Aggiornare o trasferire offerte alle versioni più recenti
 ### [Aggiornare le sottoscrizioni di Dynamics AX a Dynamics 365](manual-subscription-migration.md)
 ### [Eseguire la migrazione di sottoscrizioni di Office 365 Enterprise E4 alle nuove versioni di Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
@@ -99,7 +99,7 @@
 ### [Trasferire le sottoscrizioni di Azure](switch-azure-subscriptions-to-a-different-partner.md)
 
 # Dati e analisi nel Centro per i partner
-## [Acquisire e analizzare i dati aziendali](data-analysis-lp.md)
+## [Acquisire dati e analizzare i dati aziendali](data-analysis-lp.md)
 ## [App Analisi del Centro per i Partner per Microsoft Power BI](power-bi-app-for-direct-partners.md)
 ## [Contributo dei partner: tenere sotto controllo gli indicatori di prestazioni](partner-contributions.md)
 ## [Ottenere i dati sull'utilizzo delle sottoscrizioni di Azure dei clienti](analyze-azure-usage.md)
@@ -111,16 +111,16 @@
 ## [Attività dei rivenditori indiretti nel Centro per i partner](indirect-reseller-tasks-in-partner-center.md)
 
 
-# [Ottieni supporto da Microsoft](support-from-microsoft.md)
-## [Segnalare i problemi relativi al Centro per i partner](report-problems-with-partner-center.md)
-## [Segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md)
+# [Ottenere supporto da Microsoft](support-from-microsoft.md)
+## [Segnala i problemi relativi al Centro per i partner](report-problems-with-partner-center.md)
+## [Segnala problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md)
 ## [Ottenere notifiche automatizzate per i servizi con le API Microsoft](get-automated-service-notifications-with-our-apis.md)
 
 # [Fornire supporto ai clienti](customer-support.md)
 ## [Controllare l'integrità del servizio](check-service-health.md)
 ## [Offrire supporto per la fatturazione](provide-billing-support.md)
 ## [Offrire supporto tecnico](provide-technical-support.md)
-## [Comunicazioni con i clienti da Microsoft](customer-communication-from-microsoft.md)
+## [Comunicazioni di Microsoft con i clienti](customer-communication-from-microsoft.md)
 ## [Supporto in autonomia dei clienti](customer-self-support.md)
 ## [Inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md)
 

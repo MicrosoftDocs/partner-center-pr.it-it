@@ -9,10 +9,10 @@ ms.author: evansma
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: medium
 ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430120"
 ---
 # <a name="billing"></a>Fatturazione
@@ -38,11 +38,11 @@ Informazioni fondamentali da conoscere sulla fatturazione ai clienti:
 -   Invia una sola fattura per tutti gli addebiti al cliente.
 
 ## <a name="billing-resources"></a>Analisi della fatturazione
-|**Per informazioni su**   |**Leggi**    |
+|**Per informazioni su**   |**Leggere questo**    |
 |:-----------------------------|:-----------------|
 |Concetti di base di fatturazione, pagamenti, fatture e altro   |[Nozioni di base sulla fatturazione](billing-basics.md)
 |Molte nuove funzionalità di fatturazione, ad esempio la fatturazione annuale   |[Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md)|
-|Tipi di fatturazione   |[Informazioni sui tipi di fatturazione nel centro per i Partner](billing-different-types.md)   |
+|Tipi di fatturazione   |[Informazioni sui tipi di fatturazione nel Centro per i partner](billing-different-types.md)   |
 |La chiave di lettura della fattura   |[Leggere la fattura](read-your-bill.md)   |
 |Come leggere e utilizzare il file di riconciliazione   |[Usare i file di riconciliazione](use-the-reconciliation-files.md)|
 |Scenari di fatturazione comuni (altri scenari di fatturazione sono disponibili in [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md))|[Scenari di fatturazione comuni](common-billing-scenarios.md)|

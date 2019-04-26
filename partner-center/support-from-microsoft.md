@@ -1,18 +1,18 @@
 ---
 title: Supporto da Microsoft | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Quando si verificano problemi con un servizio Microsoft o con il Centro per i partner, puoi inoltrare la richiesta di assistenza a Microsoft e tenere traccia del problema fino a quando non viene risolto.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fbaa42dd79b18f4db0188e9fa44c82104e0934b3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 3e2c191b974347aed5716629e53b7d6f99700b7c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583914"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133870"
 ---
 # <a name="support-from-microsoft"></a>Supporto da Microsoft
 
@@ -24,13 +24,13 @@ ms.locfileid: "57583914"
 
 Se si verificano problemi con un servizio Microsoft o con il Centro per i partner, puoi inoltrare la richiesta di assistenza a Microsoft e tenere traccia del problema fino a quando non viene risolto.
 
-[Controllo servizio integrità](check-service-health.md)
+[Controllare l'integrità del servizio](check-service-health.md)
 
 [Segnala i problemi relativi al Centro per i partner](report-problems-with-partner-center.md)
 
 [Segnala problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md)
 
-[Ottenere notifiche di servizio automatica con le nostre API](get-automated-service-notifications-with-our-apis.md)
+[Ottenere notifiche automatizzate per i servizi con le API Microsoft](get-automated-service-notifications-with-our-apis.md)
 
 [Supporto per i vantaggi di Microsoft](https://partner.microsoft.com/support/contact-support)
 

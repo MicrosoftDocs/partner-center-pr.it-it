@@ -6,11 +6,11 @@ description: È possibile sospendere o annullare una sottoscrizione, se richiest
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 389d92017aaca0e6cf4cce73e6a71e9aa90ac6bd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584344"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132111"
 ---
 # <a name="suspend-a-subscription"></a>Sospendere una sottoscrizione
 
@@ -31,6 +31,6 @@ Quando si sospende una sottoscrizione del cliente, gli utenti del cliente non so
 
 **Vedere anche**
 
--   [Mancato pagamento, frodi o utilizzo improprio](non-payment-fraud-or-misuse.md)
--   [Fornire supporto per la fatturazione](provide-billing-support.md)
--   [Supporto tecnico](customer-support.md)
+-   [Insoluti, frodi o uso improprio](non-payment-fraud-or-misuse.md)
+-   [Offrire supporto per la fatturazione](provide-billing-support.md)
+-   [Supporto per i clienti](customer-support.md)

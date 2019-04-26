@@ -1,18 +1,18 @@
 ---
 title: Aumenta il tuo business con i partner Microsoft | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Risorse per aumentare il tuo business con i partner Microsoft. Include come ottenere i lead di vendita (riferimenti) da Microsoft.
 keywords: riferimenti, rispondere ai riferimenti, lead, lead di vendita, profilo di marketing, profilo aziendale, aumentare il business, opportunità commerciali, competenze, appartenenza silver, appartenenza gold, offerte di versioni di valutazione, espansione del mercato, cloud nazionale
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 896d2214f9d036919298a847ce3f31f53f7a21ee
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 77146f87bb46a4d86ffd9966ed5c5ec860e0cdda
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586804"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135631"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Aumenta il tuo business con i partner Microsoft 
 
@@ -38,7 +38,7 @@ Usa il Centro per i partner per:
 | Offrire le sottoscrizioni di versioni di valutazione dei clienti per prodotti Microsoft | Leggi [Offrire le versioni di valutazione dei clienti dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md) per imparare a usare le sottoscrizioni delle versioni di valutazione per vendere a una base di clienti più ampia.| Partner CSP |
 | Offrire i prezzi promozionali dei clienti per le sottoscrizioni Microsoft  | Occasionalmente Microsoft offre promozioni per le sottoscrizioni basate sulle licenze per consentirti di offrire sconti ai clienti e far crescere la tua attività. Leggi [Offrire i prezzi promozionali dei clienti per le sottoscrizioni Microsoft](promotions.md) per sapere come fare. | Partner CSP |
 | Vendere in altri mercati | Il canale di vendita Cloud Solution Provider è disponibile in molte aree geografiche e paesi/regioni. Vedi [Mercati Cloud Solution Provider](agreements.md) per esaminare l'elenco. Per un'introduzione al canale Cloud Solution Provider, vedi [Panoramica di Cloud Solution Provider](csp-overview.md).  | Partner CSP |
-Vendere in settori specifici come organizzazioni no profit e istruzione|[Vendi settori specializzata](get-special-pricing-for-offers.md)|Partner CSP|
-|Incrementare le proprie attività tramite le numerose attività disponibili nel programma co-op di incentivi. File delle attestazioni per le attività tramite il centro per i Partner.| [Creare e gestire le attestazioni di incentivi](create-incentives-claims.md)|Partner CSP|
-|Vendi le sottoscrizioni a prodotti di Azure Marketplace|[Vendi le sottoscrizioni a prodotti di Azure Marketplace](sell-marketplace-products.md)|Partner CSP|
+Vendere in settori specifici come organizzazioni no profit e istruzione|[Vendere in settori specializzati](get-special-pricing-for-offers.md)|Partner CSP|
+|Incrementare le proprie attività tramite le numerose attività disponibili nel programma co-op di incentivi. File delle attestazioni per le attività tramite il centro per i Partner.| [Creare e gestire richieste di incentivi](create-incentives-claims.md)|Partner CSP|
+|Vendere sottoscrizioni di prodotti di Azure Marketplace|[Vendere sottoscrizioni di prodotti di Azure Marketplace](sell-marketplace-products.md)|Partner CSP|
 |È l'azienda una celebrità alla vendita e la gestione di Azure? Si applicano per registrarsi al programma di Provider di servizi di Azure esperto Microsoft|[Programma di Provider di servizi di esperti Microsoft Azure](azure-expert-msp.md)|Partner CSP|

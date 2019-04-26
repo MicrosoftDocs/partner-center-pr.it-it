@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: Fornitore di Pannello di controllo, registrare le app CPV, gestire le app CPV
 ms.localizationpriority: medium
 ms.openlocfilehash: 7d00cfc7addf120a3b42597cda3758597533dd5e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586054"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135561"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Registrati nel centro per i Partner come un fornitore di Pannello di controllo
 
@@ -27,7 +27,7 @@ Se sei un fornitore di Pannello di controllo (CPV) correnti o un nuovo CPV che v
 Esaminare il [contratto fornitore del Pannello di controllo di Microsoft](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
-## <a name="working-in-partner-center"></a>Utilizzo di Centro per i Partner
+## <a name="working-in-partner-center"></a>Lavorare nel Centro per i partner
 Dopo aver registrato nell'esperienza di Partner Center CPV e accettazione del contratto CPV che è possibile:
 
 - Gestire le applicazioni multi-tenant (aggiungere alle applicazioni di portale di Azure, registrare e annullare la registrazione delle applicazioni nel centro per i Partner).

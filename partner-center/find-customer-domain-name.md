@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: attestazioni incentives, le attestazioni di co-op, cooperativa fondi, OSA, ISV, associazione dei ricavi, il nome del dominio ID directory
 ms.localizationpriority: medium
 ms.openlocfilehash: 1a267de71c050ede872feaf6e1b24588fba74792
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430648"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135651"
 ---
 #<a name="find-your-customers-domain-name-and-directory-id"></a>Trovare il nome di dominio del cliente e l'ID directory
 

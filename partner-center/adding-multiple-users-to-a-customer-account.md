@@ -1,19 +1,19 @@
 ---
 title: Creare più utenti per l'account di un cliente | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Puoi aggiungere più utenti contemporaneamente all'account di un cliente caricando un file di dati con valori delimitati da virgole (CSV) nel Centro per i partner.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: caricamento in blocco, aggiungere più utenti all'account di un cliente, aggiungere gli utenti di un cliente, caricamento in blocco degli utenti di un cliente, account del cliente, utenti del cliente, utenti
 ms.localizationpriority: medium
-ms.openlocfilehash: 12bb42d4e1dcf5003ac8790be777c483f216fd6f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b113736330b201ed6a4d1c6b8915e844b80fe5d5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584244"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134531"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Aggiungere più utenti all'account di un cliente
 
@@ -60,7 +60,7 @@ Immetti i dati seguenti nel file di dati:
     **Nota**  la maggior parte degli errori di creazione di account sono causati da problemi di file di dati, tra cui mancano informazioni, indirizzi di posta elettronica in formato non valido o duplicato o troppi record nel file.
 
 7.  Dopo che il Partner Center ha convalidato il file, selezionare geografici **posizione** per i nuovi utenti.
-8.  Seleziona **Salva**.
+8.  Selezionare **Salva**.
 9.  Scarica le informazioni sulle password temporanee per gli utenti.
 
 **IMPORTANTE:** Assicurarsi di scaricare il file con le password temporanee ora sarà possibile eseguire questa operazione in un secondo momento. I nuovi utenti devono accedere all'account nuovo usando la password temporanea per i nuovi account.

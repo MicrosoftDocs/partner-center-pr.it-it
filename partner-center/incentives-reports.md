@@ -1,17 +1,17 @@
 ---
 title: I report di dati dinamici sostituiscono i report mensili per alcuni programmi di incentivi | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Per i programmi di incentivi per la vendita OSA e l'uso di servizi online sono ora disponibili report di dati dinamici.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 37458d9c6343fc27d3745a478c24c581eb06c03c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 13e904e229ccaadd11e13a278f23ea1aa5088f71
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583844"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134471"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>I report di dati dinamici sostituiscono i report mensili per alcuni programmi di incentivi
 

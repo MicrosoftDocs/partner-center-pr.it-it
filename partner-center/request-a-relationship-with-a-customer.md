@@ -1,18 +1,18 @@
 ---
 title: Richiedere una relazione con un cliente| Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: La richiesta di una relazione viene usata per gli scenari multipartner e multicanale. È anche utile se un cliente rimuove i tuoi privilegi di amministratore delegato e devi ripristinarli per effettuare il provisioning o fornire supporto.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5441f38621dc4f498dc869789f416c4910518690
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 4fbd6e5e14c12e81cff4297b60b542ab0ccd5277
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585194"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133981"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Entrare in contatto con i clienti nel Centro per i partner
 
@@ -63,5 +63,5 @@ L'esperienza del cliente per accettare un invito di relazione reseller da un par
 
 ## <a name="see-also"></a>Vedere anche
 
-- [Assegnare i contatti di supporto](assign-support-contacts.md)
+- [Assegnare contatti di supporto](assign-support-contacts.md)
 - [Rimuovere una relazione con un cliente](remove-a-relationship.md)

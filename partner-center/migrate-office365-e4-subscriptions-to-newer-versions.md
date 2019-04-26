@@ -1,17 +1,17 @@
 ---
 title: Migrazione degli abbonamenti Office 365 E4 alle nuove versioni di Office 365 | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: L'edizione Microsoft Office 365 Enterprise E4 è stata ritirata il 7 aprile 2017. Scopri come eseguire la migrazione degli abbonamenti del cliente alle nuove versioni di Office 365.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 381b4c5dda7486737ef010d7fa22e65710b5e5bf
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e14ffbfaeaec64e8ccf3612cba9ed0f27aa31968
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587794"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134381"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrazione degli abbonamenti Office 365 E4 alle nuove versioni di Office 365
 
@@ -47,14 +47,14 @@ Puoi scegliere di mantenere le stesse funzionalità di E4 oppure proporre ai cli
 
 | Funzionalità | Opzione 1 | Opzione 2 | Opzione 3 | Opzione 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Offre tutte le funzionalità incluse in Office 365 Enterprise E4? | Sì | Sì | Sì | No |
-| Numeri di telefono gestiti in Office 365? | Sì | Sì | No | No |
-| Numeri di telefono gestiti in locale e in Office 365 (distribuzione ibrida)? | Sì | Sì | No | No |
-| Opzione per aggiungere un piano per le chiamate vocali PSTN? | Sì | Sì | No | No |
-| Servizi di conferenza PSTN? | Sì | No | No | No |
-| Strumenti avanzati per collaborazione, analisi e sicurezza? | Sì | No | No | No |
-| Report interattivi, dashboard ed effetti di visualizzazione dei dati? | Sì | No | No | No | 
-| Maggiore controllo sulla sicurezza e sulla conformità dei dati con controlli avanzati integrati per la privacy, la trasparenza e gli utenti? | Sì | No | No | No | 
+| Offre tutte le funzionalità incluse in Office 365 Enterprise E4? | Yes | Yes | Yes | No |
+| Numeri di telefono gestiti in Office 365? | Yes | Yes | No | No |
+| Numeri di telefono gestiti in locale e in Office 365 (distribuzione ibrida)? | Yes | Yes | No | No |
+| Opzione per aggiungere un piano per le chiamate vocali PSTN? | Yes | Yes | No | No |
+| Servizi di conferenza PSTN? | Yes | No | No | No |
+| Strumenti avanzati per collaborazione, analisi e sicurezza? | Yes | No | No | No |
+| Report interattivi, dashboard ed effetti di visualizzazione dei dati? | Yes | No | No | No | 
+| Maggiore controllo sulla sicurezza e sulla conformità dei dati con controlli avanzati integrati per la privacy, la trasparenza e gli utenti? | Yes | No | No | No | 
 
 ## <a name="transition-customers-to-new-product-plans"></a>Transizione dei clienti ai nuovi piani per i prodotti
 

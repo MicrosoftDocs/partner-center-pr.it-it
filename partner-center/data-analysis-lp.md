@@ -1,18 +1,18 @@
 ---
 title: Dati e analisi nel Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Usa le funzionalità dei dati del Centro per i partner per comprendere meglio le esigenze dei clienti.
 author: LauraBrenner
 ms.author: labrenne
 keywords: dati, analisi, analisi dei dati, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bc863943e968bb66ec1090751d1e2a38e3f5d66
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9c706ce831b6f47a939c6cf958a91abcfad2afd5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587074"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135601"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Acquisire dati e analizzare le tue attività 
 
@@ -36,7 +36,7 @@ Nel centro per i Partner, solo l'amministratore di partner MPN ha accesso a anal
 
 |**Per recuperare i dati**   |**Scaricare questa App**   |**Leggere questo**   | **Si applica a**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|Come i clienti usano le licenze acquistate   |Dati di distribuzione e di utilizzo dal centro per i Partner = > analitica di prodotto   |[Aumentare l'adozione e la soddisfazione](increasing-adoption-and-satisfaction.md)|Partner CSP|
+|Come i clienti usano le licenze acquistate   |Dati di distribuzione e di utilizzo dal centro per i Partner = > analitica di prodotto   |[Migliorare i tassi di adozione e soddisfazione](increasing-adoption-and-satisfaction.md)|Partner CSP|
 |Attività dei clienti relative alle sottoscrizioni   |Log attività   |[Visualizzare i log di attività dei clienti](activity-logs.md)|Partner CSP   |
 |Aumento della base di clienti, dell'utilizzo, del consumo di Azure e altro ancora   |App Centro per i partner per Power BI   |[Centro per i partner Analitica app Power BI (i partner diretti CSP)](power-bi-app-for-direct-partners.md)|Partner diretti in CSP|
 

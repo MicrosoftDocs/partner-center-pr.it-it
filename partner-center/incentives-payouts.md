@@ -1,17 +1,17 @@
 ---
 title: Comprendere i proventi incentivi | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Gli utili di incentivi e la pianificazione dei proventi aiuterà la pianificazione futura.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bcac1e3fbeefc2186881ba9403263daa2832f618
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 097ffb702526ee64192ba604af3c847f9496bf6f
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587354"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134521"
 ---
 # <a name="understand-your-incentive-payouts"></a>Informazioni sui proventi derivanti dagli incentivi
 

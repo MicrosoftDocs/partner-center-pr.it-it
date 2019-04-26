@@ -1,19 +1,19 @@
 ---
 title: Adesione a Microsoft Partner Network | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Scopri i vantaggi di diventare partner di Microsoft. Fornisce il Microsoft Partner Network è opzioni per differenziare il business, la tipologia più ampia di prodotti nel settore, nonché di programma go-to-market e vendi le tue soluzioni.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: partner, partnership, MPN, Microsoft Partner Network, action pack, sottoscrizione di action pack, vantaggi, vantaggi MPN, adesione, silver, gold, competenze
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8c07ad4d91e74599e65ab2478de481ef6ca212d6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e40835faf14b010cf8f8e448293e0d25cb687e11
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584104"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134341"
 ---
 # <a name="partner-with-microsoft"></a>Diventa partner di Microsoft
 

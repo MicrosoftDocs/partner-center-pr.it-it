@@ -1,18 +1,18 @@
 ---
 title: Domande frequenti sulle nuove funzionalità di fatturazione | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Di seguito sono riportate le domande frequenti su fatturazione annuale del Centro per i partner e funzionalità della versione di valutazione gratuita.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: de8b450edace9aea1fbf5321159f41bf26420488
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: fd95787a87a1b70a0b2f31114b22dde7ca0f837c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587224"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135691"
 ---
 # <a name="faq-about-new-billing-features"></a>Domande frequenti sulle nuove funzionalità di fatturazione
 

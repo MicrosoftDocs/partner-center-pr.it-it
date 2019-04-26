@@ -6,11 +6,11 @@ description: Sei responsabile dal punto di vista finanziario di acquisti fraudol
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d63f909e8728296eed88543988f595b62e8dc3a7
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583854"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132551"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Insoluti, frodi o uso improprio
 
@@ -46,8 +46,8 @@ Per risolvere attività illecite o uso improprio, sono disponibili le opzioni se
 
 **Vedere anche**
 
--   [Fornire supporto per la fatturazione](provide-billing-support.md)
--   [Supporto tecnico](customer-support.md) 
+-   [Offrire supporto per la fatturazione](provide-billing-support.md)
+-   [Supporto per i clienti](customer-support.md) 
 
  
 

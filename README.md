@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 94eb23f854a85fa08ed01a0ccdaff8e546911d78
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132941"
+---
 # <a name="youve-added-your-first-readme-file"></a>Aver aggiunto il primo file Leggimi.
 Un file README.md serve a comprendere rapidamente ai lettori di operazioni che è possibile eseguire il progetto.  Familiarità con il Markdown? [Altre informazioni](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
 
@@ -19,7 +27,7 @@ Dopo aver completato l'aggiunta dei dettagli, fare clic su "Create Pull request"
 
 Prima volta che crea una richiesta pull?  [Altre informazioni](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
 
-### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>A questo punto, È stata completata la visita dell'hub codice.
+### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>La procedura è stata completata. È stata completata la visita dell'hub codice.
 
 # <a name="next-steps"></a>Passaggi successivi
 

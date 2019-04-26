@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: per la formazione, lo strumento di giustificativo, convalidare voucher, attestazioni di garanzia di software, DPS, SATV
 ms.localizationpriority: medium
 ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587834"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132651"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Usare lo strumento di convalida e rimborso voucher nel centro per i Partner per convalidare, riservare e riscattare i voucher 
 

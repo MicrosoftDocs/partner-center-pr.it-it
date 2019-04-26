@@ -6,11 +6,11 @@ description: Collabora con altri i rivenditori CSP per fornire servizi al client
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 751dee92243e5956849cf07dcdc680566660c5f3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583864"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132046"
 ---
 # <a name="work-with-other-partners"></a>Collaborare con altri partner
 
@@ -24,5 +24,5 @@ Diversi rivenditori Cloud Solution Provider possono offrire servizi diversi per 
 È comunque possibile vendere le soluzioni e servizi per il cliente tramite il supporto per multicanale e multipartner nel centro per i Partner.
 
 -   [Multipartner](multipartner.md)
--   [Multichannel](multichannel.md)
+-   [Multicanale](multichannel.md)
 -   [Richiedi una relazione come rivenditore con un cliente](request-a-relationship-with-a-customer.md)

@@ -1,18 +1,18 @@
 ---
 title: Richiedere di vendere nei cloud nazionali Microsoft | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: I partner Microsoft partecipanti al programma Cloud Solution Provider possono vendere ai clienti registrati nei cloud nazionali supportati.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cloud nazionali, Microsoft Cloud Germania, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud Cina
 ms.localizationpriority: medium
-ms.openlocfilehash: 851b8695b6cb409ef9f70f8b2acf2504bc7b16f5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: ea4461e187490565172733207dc16c5328ee5ee7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584234"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134821"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Richiedere di vendere nei cloud nazionali Microsoft
 

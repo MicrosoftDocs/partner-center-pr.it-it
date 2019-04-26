@@ -1,18 +1,18 @@
 ---
 title: 'Contributo dei partner: resta aggiornato con gli indicatori di prestazioni | Centro per i partner'
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Usare i dati dei tuoi contributi di partner per comprendere come l'azienda è in crescita e successiva
 author: LauraBrenner
 ms.author: labrenne
 keywords: dati aziendali
 ms.localizationpriority: medium
-ms.openlocfilehash: 765f37a031098d65460e2cc603eb3d4efb8e4ea3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e6281e31e0049cb865e212485b6f5cf030516135
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587364"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134177"
 ---
 # <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contributo dei partner: resta aggiornato con gli indicatori di prestazioni
 
@@ -62,7 +62,7 @@ Siamo interessati a ricevere il tuo feedback sul contributo partner Invialo a PC
 1. Perché non riesco a vedere la pagina Contributo dei partner?
     - Il contributo dei partner è attualmente disponibile solo per i partner che vendono Dynamics 365 con account MPN o CSP. Questa funzionalità non è ancora abilitata per la Cina e la Germania.
 2. Sono un partner Dynamics 365. Perché non riesco a vedere i dati relativi al contributo dei partner?
-    - Potresti non disporre di un ruolo di account MPN o CSP. Ad esempio: Advisor e del delegato non sono ancora abilitate.  
+    - Potresti non disporre di un ruolo di account MPN o CSP. Ad esempio:  Advisor e del delegato non sono ancora abilitate.  
     - Potresti non disporre del ruolo utente appropriato nell'organizzazione per visualizzare questa pagina. Contatta l'amministratore globale.
     - La tua organizzazione si trova in Cina o in Germania.
 

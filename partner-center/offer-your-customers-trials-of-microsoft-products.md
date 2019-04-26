@@ -1,18 +1,18 @@
 ---
 title: Offrire ai clienti le versioni di valutazione dei prodotti Microsoft | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: I tuoi clienti possono testare i prodotti a sottoscrizione Microsoft per 30 giorni. È possibile effettuare l'iscrizione per queste versioni di valutazione nel catalogo come molti altri servizi online.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ed6b4b4b0a6bcbcbebfd5ac0f93a2d1fc9cb69d4
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 15f799bcee811f5d349fc302b4e589636dfde408
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585064"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134251"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Offrire ai clienti le versioni di valutazione dei prodotti Microsoft
 

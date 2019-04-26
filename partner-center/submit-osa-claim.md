@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: attestazioni incentivi, le attestazioni di co-op, cooperativa fondi, OSA, ISV, associazione di ricavi
 ms.localizationpriority: medium
 ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
-ms.sourcegitcommit: 1dccb3fd6b1ea08cabc8251b8a0eb7fe68c39f51
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/16/2019
-ms.locfileid: "59619307"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133929"
 ---
 # <a name="submit-your-osa-claims-in-partner-center"></a>Inviare le richieste OSA nel Centro per i partner
 

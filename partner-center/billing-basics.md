@@ -1,19 +1,19 @@
 ---
 title: Panoramica della fatturazione | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Informazioni su scenari di fatturazione di base e le differenze tra la fatturazione basati su licenza e basata sull'utilizzo
 author: LauraBrenner
 ms.author: labrenne
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 917b04e9aba40aaf8dbfa27960e7baed7f39819d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: cd1488fbe107363ca924823cdd526005f5a3f21c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584674"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135391"
 ---
 # <a name="billing-overview"></a>Panoramica della fatturazione
 

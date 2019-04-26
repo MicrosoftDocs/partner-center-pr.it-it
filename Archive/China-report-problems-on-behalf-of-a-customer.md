@@ -6,11 +6,11 @@ description: Se il cliente ha riscontrato un problema del servizio che non è po
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d5c4703423360d228a810ee739dc1916ca056a58
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585804"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132621"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Segnalare problemi per conto di un cliente
 
@@ -34,7 +34,7 @@ Se un cliente si verificano problemi di servizio che non si risolvono autonomame
 **Vedere anche**
 
 -   [Supporto in autonomia dei clienti](customer-self-support.md)
--   [Fornisce supporto tecnico](provide-technical-support.md)
--   [Controllo servizio integrità](check-service-health.md)
--   [Fornire supporto per la fatturazione](provide-billing-support.md)
--   [Supporto tecnico](customer-support.md)
+-   [Offrire supporto tecnico](provide-technical-support.md)
+-   [Controllare l'integrità del servizio](check-service-health.md)
+-   [Offrire supporto per la fatturazione](provide-billing-support.md)
+-   [Supporto per i clienti](customer-support.md)

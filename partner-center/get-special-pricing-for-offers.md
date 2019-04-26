@@ -1,18 +1,18 @@
 ---
 title: Vendere in settori specifici | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Microsoft fornisce ai prezzi speciali e ridotto per selezionare i gruppi di clienti, tra cui i clienti education, clienti No profii e gli utenti per enti pubblici.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585754"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135661"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendere in settori specifici
 
@@ -49,7 +49,7 @@ Una volta che tu e il tuo cliente siete qualificati per un programma di offerte 
 
 ## <a name="see-also"></a>Vedere anche
 
-[Vendi Minecraft: Sottoscrizioni di edizione relative alla formazione per i clienti education](minecraft-subscriptions.md)
+[Vendere sottoscrizioni di MineCraft: Sottoscrizioni di edizione relative alla formazione per i clienti education](minecraft-subscriptions.md)
 
 
  

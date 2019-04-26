@@ -1,19 +1,19 @@
 ---
 title: Gestire le prenotazioni di Azure per conto del cliente | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Per gestire i Azure prenotazioni dopo l'acquisto tuoi clienti, si verrà seleziona il cliente e si desidera gestire nel centro per i Partner di prenotazione e quindi apportare le modifiche apportate alla prenotazione nel portale di Azure.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, le prenotazioni, gestire, fatturazione, all'acquisto, annullamento, exchange, costo per la risoluzione
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: de1846b6259764b40059ece1d311e5f63587a525
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bdd79c7c88f6ad553f1a8733e17d434dfbaf2a99
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584504"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134791"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gestire le prenotazioni di Microsoft Azure per conto del cliente
 
@@ -56,9 +56,9 @@ Per le spese e i dettagli di annullamento, vedere di seguito.
 |**Data di annullamento**<br> (giorni)   |**Utilizzo**    |**Carta di credito**  |**Interruzione anticipata**<br> individuale    |**Limite di utilizzo di rimborso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |un massimo di 5                         | No          | 100%       | No                              | $50.000 USD   |
-|un massimo di 5                         | Sì         | Calcolata  | No                              | $50.000 USD   |
+|un massimo di 5                         | Yes         | Calcolata  | No                              | $50.000 USD   |
 |Più di 5                        | No          | Calcolata  | 12%                             | $50.000 USD   |
-|Più di 5                        | Sì         | Calcolata  | 12%                             | $50.000 USD   |
+|Più di 5                        | Yes         | Calcolata  | 12%                             | $50.000 USD   |
 
 
 **Come funzionano gli scambi** 

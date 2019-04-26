@@ -1,17 +1,17 @@
 ---
 title: Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud per il governo statunitense | Centro per i partner per Microsoft Cloud per il governo statunitense
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Per soddisfare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'utilizzo dei dati dei singoli utenti, le funzionalità di gestione degli utenti non sono disponibili nel Centro per i partner per Microsoft Cloud per il governo statunitense. Al contrario, puoi aggiungere e gestire gli utenti nel portale di Azure per Microsoft Cloud per il governo statunitense.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f92b466f20c894be8c1cd6768409edb9aa80103f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: a1ab4524d5a5d13f5f704a4f4760ef9c163f9a02
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584154"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132931"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud per il governo statunitense
 

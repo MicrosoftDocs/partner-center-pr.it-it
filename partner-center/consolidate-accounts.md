@@ -8,12 +8,12 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b3b3f5fe29830e786206e31927d015acc0ec7a7d
-ms.sourcegitcommit: 319b6f8850d95e2b10e6367312f9365e079a1c88
-ms.translationtype: MT
+ms.openlocfilehash: f1bbc53a1fa923e67c370e908fc209147a3eb69c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "59533854"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135087"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolidare gli account aziendali
 
@@ -35,4 +35,4 @@ Nella console di gestione pacchetti è stato possibile per ogni posizione avere 
 
 Nel centro per i Partner, poiché tutti gli account di percorso verranno consolidati in un unico account, i vantaggi e le competenze vengono consolidate anche. 
 
-Per informazioni sulle differenze tra una console di gestione pacchetti e Centro per i Partner leggere [spostarsi dalla console di gestione pacchetti in Partner Center](pmc-pc-map.md)
+Per informazioni sulle differenze tra una console di gestione pacchetti e Centro per i Partner leggere [spostarsi dalla console di gestione pacchetti in Partner Center](pmc-to-partner-center.md)

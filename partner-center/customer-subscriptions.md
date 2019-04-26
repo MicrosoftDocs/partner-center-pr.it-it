@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: le sottoscrizioni, assegnare licenze, licenza, la soddisfazione dei clienti, le sottoscrizioni di Azure
 ms.localizationpriority: medium
 ms.openlocfilehash: 7de59a66ab53d6e0e6e051ff30460154c19bbea3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584474"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135461"
 ---
 # <a name="customer-subscriptions"></a>Sottoscrizioni dei clienti
 
@@ -26,12 +26,12 @@ Come partner CSP, una delle tue principali attività è offrire ai clienti le so
 |----------------------|:----------------------|
 |Creare e gestire sottoscrizioni per i clienti esistenti nel centro per i Partner|[Crea una nuova sottoscrizione](create-a-new-subscription.md)|
 |Assegnare le licenze ai dipendenti del cliente dopo aver aggiunto la sottoscrizione.  |[Assegna licenze agli utenti](assign-licenses-to-users.md)|
-|Gestire gli aggiornamenti di licenza anche in blocco   |[Assegnare o revocare le licenze agli utenti più](bulk-license-provisioning-for-multiple-users.md)|
-|Aggiungere ulteriori licenze alle sottoscrizioni esistenti quando il tuo cliente aggiunge i nuovi dipendenti   |[Aggiunta di licenze o i servizi a una sottoscrizione esistente](add-licenses-or-services-to-an-existing-subscription.md)|
-|Offrire le sottoscrizioni di valutazione se il cliente vuole provare un software prima di acquistarlo    |[Offri ai tuoi clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md)|
+|Gestire gli aggiornamenti di licenza anche in blocco   |[Assegnare o revocare licenze a più utenti](bulk-license-provisioning-for-multiple-users.md)|
+|Aggiungere ulteriori licenze alle sottoscrizioni esistenti quando il tuo cliente aggiunge i nuovi dipendenti   |[Aggiungere licenze o servizi a una sottoscrizione esistente](add-licenses-or-services-to-an-existing-subscription.md)|
+|Offrire le sottoscrizioni di valutazione se il cliente vuole provare un software prima di acquistarlo    |[Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md)|
 |È possibile avviare il processo di sottoscrizione di Azure nel centro per i Partner   |[Assegnare le sottoscrizioni di Azure nel centro per i Partner](assign-azure-subscriptions.md)|
 |Scoprire prezzi speciali per le offerte   |[Ottenere prezzi speciali per le offerte](get-special-pricing-for-offers.md)|
-|Scoprire come i clienti usano il software per aiutarli a essere più efficaci.   | [Aumentare l'adozione e la soddisfazione](increasing-adoption-and-satisfaction.md)   | 
+|Scoprire come i clienti usano il software per aiutarli a essere più efficaci.   | [Migliorare i tassi di adozione e soddisfazione](increasing-adoption-and-satisfaction.md)   | 
 
 
 

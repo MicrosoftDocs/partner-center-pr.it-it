@@ -1,17 +1,17 @@
 ---
 title: Incentivi per i partner ora disponibili nel Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: I programmi di incentivi incoraggiano i partner a sviluppare nuove tecniche di marketing, offrire formazione e altro
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8387fd08a6826b0984e491d34ceba76266af59ab
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eb1e6dcfb32970a634a393d8ce33c1a6128458e5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587514"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134174"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Incentivi per i partner disponibili nel Centro per i partner 
 
@@ -43,7 +43,7 @@ Il primo passaggio consiste nel completare il tuo account per gli incentivi del 
 
 **Vedere anche**
 
-[Creare account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md)
+[Aggiornare gli account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md)
 
 [Cambiare la password provvisoria](change-your-temporary-password.md)
 

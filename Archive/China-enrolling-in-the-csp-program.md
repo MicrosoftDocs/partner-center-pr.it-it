@@ -6,11 +6,11 @@ description: Cosa aspettarsi quando si registra il programma di Provider di solu
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 915db47a21e2fd4f3f484c7bfc82eb3fb35ae1f0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584424"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132181"
 ---
 # <a name="enroll-in-the-21vianet-china-csp-reseller-program"></a>Registrarsi al programma di rivenditore CSP Cina 21Vianet
 
@@ -37,7 +37,7 @@ Durante il processo di registrazione, è necessario fornire le informazioni segu
 
 2. Accedere con credenziali di amministratore globale dell'account dell'istituto di istruzione o dell'organizzazione o selezionare **crearne uno** per creare un nuovo account aziendale o dell'istituto di istruzione.
 
-3. Nel **creare un account Partner Center** pagina immettere i dettagli dell'organizzazione e quindi immettere i dettagli per la persona dell'organizzazione che si desidera disporre delle autorizzazioni di amministratore globale e l'accesso al centro per i Partner. Seleziona **Continua**.
+3. Nel **creare un account Partner Center** pagina immettere i dettagli dell'organizzazione e quindi immettere i dettagli per la persona dell'organizzazione che si desidera disporre delle autorizzazioni di amministratore globale e l'accesso al centro per i Partner. Selezionare **continuare**.
 
     >**Nota**<br>Il primo Partner Center account creato dall'utente sarà un account di amministratore globale. Gli amministratori globali hanno accesso a tutte le funzionalità amministrative in Partner Center e sono gli unici amministratori che possono assegnare altri ruoli di amministratore. Anche se è possibile avere più di un amministratore globale dell'organizzazione, è consigliabile che solo alcuni utenti dell'azienda dispongono di questo ruolo per ridurre il rischio per la tua azienda.
     

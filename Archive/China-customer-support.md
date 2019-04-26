@@ -6,11 +6,11 @@ description: Procedure consigliate e i requisiti per fornire supporto ai clienti
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: adce46be7073164bd285146bf8058bfa41a32709
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585784"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132541"
 ---
 # <a name="customer-support"></a>Supporto per i clienti
 
@@ -48,8 +48,8 @@ Supporta i requisiti per le informazioni più aggiornate, vedere la [Guida al pr
 
 **Vedere anche**
 
--   [Fornisce supporto tecnico](provide-technical-support.md)
--   [Fornire supporto per la fatturazione](provide-billing-support.md)
+-   [Offrire supporto tecnico](provide-technical-support.md)
+-   [Offrire supporto per la fatturazione](provide-billing-support.md)
 -   [Supporto in autonomia dei clienti](customer-self-support.md)
 
  

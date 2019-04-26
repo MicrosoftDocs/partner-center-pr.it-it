@@ -1,18 +1,18 @@
 ---
 title: Spostamento dall'interfaccia di amministrazione partner al Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Trova nel Centro per i partner le funzionalità che hai usato nell'interfaccia di amministrazione partner
 author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, amministratore di Office 365, funzionalità PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: 7200f93a25f74903805d095bbd821e07758873ab
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2c6131dec100f438895cfa7d4f8fea5f6d66dacb
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584134"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134313"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Lo spostamento dall'interfaccia di amministrazione Partner (PAC) al centro per i Partner
 
@@ -23,7 +23,7 @@ Si applica a:
 Benvenuti in Partner Center! Centro per i Partner si sta evolvendo l'unica posizione in cui si gestiranno la partnership con Microsoft e con i tuoi clienti. Nel centro per i Partner è possibile gestire l'appartenenza, i riferimenti dei clienti, incentivi e tutti gli altri aspetti del programma Cloud Solution Provider (CSP). Sarà in grado di eseguire la maggior parte del lavoro che è stato eseguito nel certificato attributi privilegi nel centro per i Partner anche se alcune delle funzioni o azioni funzionerà in modo diverso. 
 
 
-|**Azione**   |**PAC**   |**Partner Center**   |
+|**Azione**   |**PAC**   |**Centro per i partner**   |
 |--------------|:--------------|:---------------|
 |La panoramica generale delle attività dell'account e dei clienti|Schermata Home|Centro per i partner|
 |Acquisire nuovi clienti e fornire le offerte per i servizi a pagamento e versioni di valutazione|Sviluppo dell'attività -> Invia offerta|Le offerte a pagamento non sono disponibili. Le versioni di valutazione CSP sono disponibili se il partner di Advisor viene convertito in un rivenditore indiretto CSP e associato a un provider indiretto CSP che supporta le versioni di prova. |

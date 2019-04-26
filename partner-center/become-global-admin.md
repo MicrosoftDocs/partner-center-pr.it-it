@@ -1,17 +1,17 @@
 ---
 title: Diventare un amministratore globale dell'azienda | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Per eseguire molte delle attività nel centro per i Partner, è necessario innanzitutto verificare la proprietà del dominio. Molte attività nel centro per i Partner richiedono un amministratore globale. Se l'azienda non dispone ancora di uno, è possibile acquisire uno.
 author: LauraBrenner
 ms.author: labrenne
 keywords: dominio, verifica del dominio, verificare dominio, l'amministratore globale, i ruoli utente, autorizzazioni
-ms.openlocfilehash: bfce394c6ea098bb55a698efb3a2ac33816bd1e0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 55f69cb82789fa3b97bfe122b460ba9a129c37b7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584114"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135411"
 ---
 # <a name="verify-your-domain-ownership"></a>Verificare la proprietà del dominio
 

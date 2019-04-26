@@ -1,18 +1,18 @@
 ---
 title: Domande frequenti sulla conferma di accettazione da parte del cliente del contratto di Microsoft Cloud | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Domande frequenti sulla conferma l'accettazione dei clienti
 author: LauraBrenner
 ms.author: v-petand
 keywords: clienti, i clienti, il consenso, domande frequenti, MCA, contratto di Microsoft Cloud
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f95de539e056c086e921d7b4eda62f3cbffa30e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587404"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135011"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Domande frequenti sulla conferma di accettazione da parte del cliente del contratto di Microsoft Cloud
 
@@ -57,7 +57,7 @@ Non vi è alcun processo di notifica.
 
 **Il motivo per cui Microsoft richiede di confermare che i clienti hanno accettato il contratto di Microsoft Cloud partner?** 
 
-Consente di proteggere il contratto di Microsoft Cloud partner, clienti e Microsoft, fornendo diritti di utilizzo del cliente, termini e condizioni concesse per gli ordini di prodotti e servizi Cloud Microsoft. 
+Il Contratto Microsoft Cloud protegge i partner, i clienti e Microsoft specificando i diritti e le condizioni di utilizzo concessi al cliente per le richieste di assistenza e gli ordini dei prodotti Microsoft Cloud. 
 
 Esecuzione corretta del contratto di Microsoft Cloud protegge i partner, clienti e Microsoft, garantendo l'allineamento reciproca su molti argomenti importanti tra cui ma non limitato alla sicurezza, privacy e protezione dei dati. Il processo di conferma assicura trasparenza e allineamento e consente a Microsoft supportare meglio i clienti che necessitano di rispondere tempestivamente alle richieste normative.
 
@@ -65,7 +65,7 @@ Esecuzione corretta del contratto di Microsoft Cloud protegge i partner, clienti
 Sono necessarie le seguenti informazioni sull'utente che ha accettato il contratto:
 -   Data di accettazione del contratto
 -   Nome e cognome
--   Indirizzo e-mail
+-   Indirizzo di posta elettronica
 -   Numero di telefono (facoltativo) 
 
 **NEW | Cosa accade se non si soddisfano la data di scadenza?**

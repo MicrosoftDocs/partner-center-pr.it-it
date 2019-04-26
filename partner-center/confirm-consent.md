@@ -8,11 +8,11 @@ ms.author: v-petand
 keywords: cliente, i clienti, fornire il consenso, MCA, contratto di Microsoft Cloud, i modelli di contratto dei clienti
 ms.localizationpriority: medium
 ms.openlocfilehash: 9dad303b419f3dadd33f4937933638c60c45994b
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "59652253"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135144"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Conferma dell'accettazione del cliente del contratto di Microsoft Cloud
 

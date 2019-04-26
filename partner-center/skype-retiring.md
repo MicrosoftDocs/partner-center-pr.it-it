@@ -1,19 +1,19 @@
 ---
 title: Migrare le sottoscrizioni di Skype for Business online piano 1 verso versioni più nuove di Office 365 | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Clienti di transizione con Skype in scadenza per le sottoscrizioni aziendali Online piano 1 di un'opzione supportata dello SKU. È consigliabile spostare i clienti per i nuovi abbonamenti prima data di fine annuali della sottoscrizione.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Piani di Skype for Business, ritiro di Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 74df419f8cbd416da494bd87d873f5315d6a9b70
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e71e6b05b5ea489b2b6b486f388f5c575dfd02c5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586104"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133918"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrare le sottoscrizioni di Skype for Business online piano 1 verso versioni più nuove di Office 365
 
@@ -40,10 +40,10 @@ Con i nuovi piani i clienti possono sfruttare le funzioni e le funzionalità pi�
 
 |**Funzionalità**    |**Opzione 1**   |**Opzione 2**   |**Opzione 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Ottenere tutte le funzionalità incluse in Skype for Business online piano 1|Sì   |Sì   |Sì   |
-|Messaggistica immediata e presenza |Sì   |Sì   |Sì   |
-|Audio peer-to-peer e Video over IP|Sì   |Sì   |Sì   
-|Partecipare alle riunioni come utente autenticato| Sì   |Sì   |Sì   |
+|Ottenere tutte le funzionalità incluse in Skype for Business online piano 1|Yes   |Yes   |Yes   |
+|Messaggistica immediata e presenza |Yes   |Yes   |Yes   |
+|Audio peer-to-peer e Video over IP|Yes   |Yes   |Yes   
+|Partecipare alle riunioni come utente autenticato| Yes   |Yes   |Yes   |
 
 ## <a name="transition-customers-to-new-product-plans"></a>Transizione dei clienti ai nuovi piani per i prodotti
 

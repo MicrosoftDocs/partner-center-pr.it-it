@@ -1,19 +1,19 @@
 ---
 title: Acquistare le prenotazioni di Microsoft Azure per conto del cliente | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: È possibile acquistare prenotazioni di Azure per conto dei clienti nel centro per i Partner.
 author: LauraBrenner
 ms.author: v-petand
 keywords: azure, prenotazioni, gestire, fatturazione, acquisto
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8ee2fcf44d66001d3c8a7323467bda22bc5b2b6b
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bf9d3bf1869a151172931f100cf10b28a7d75f27
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584714"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134681"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquisto di prenotazioni di Microsoft Azure per conto dei clienti nel centro per i Partner 
 

@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587614"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133855"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Partecipare ai programmi Software Assurance
 
@@ -20,7 +20,7 @@ Partecipazione a programmi Software Assurance, compresi Software Assurance Train
 |**Per informazioni su**   |**Leggere questo**   |
 |--------------------------|:------------------|
 |La registrazione nel programma Software Assurance Training voucher (SATV)|[Programma di Software Assurance Training voucher (SATV) nel centro per i Partner](software-assurance-satv.md)|
-|Lo strumento Voucher convalida e riscatto|[Utilizzare lo strumento Voucher convalida e riscatto nel centro per i Partner per convalidare, di riservarlo e riscattare i voucher](voucher-validation-tool.md)|
+|uso dello strumento per la convalida e il riscatto dei voucher|[Usare lo strumento per la convalida e il riscatto dei voucher nel Centro per i partner per convalidare, riservare e riscattare i voucher](voucher-validation-tool.md)|
 |La registrazione di un contratto Software Assurance Planning Services|[Software Assurance Planning Services nel centro per i Partner](software-assurance-dps.md) 
 
 

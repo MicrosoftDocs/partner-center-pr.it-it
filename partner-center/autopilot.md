@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: AutoPilot, autopilot di windows, autopilot microsoft, distribuzione zero touch, la configurazione guidata, le schermate di accesso, out-of-box
 ms.localizationpriority: medium
 ms.openlocfilehash: e940a7ccf79f6b43d3712a2f3ae2f9b150e1473e
-ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "58162221"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134711"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizzare l'esperienza out-of-box del dispositivo con i profili Windows Autopilot
 

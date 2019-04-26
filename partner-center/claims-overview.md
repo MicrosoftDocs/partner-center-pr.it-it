@@ -1,18 +1,18 @@
 ---
 title: Le attestazioni cooperativa incentivi | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Invia le attestazioni incentivi senza la necessità di rivedere prima il tuo piano di attività.
 author: LauraBrenner
 ms.author: labrenne
 keywords: attestazioni incentivi, attestazioni cooperative, fondi cooperativi
 ms.localizationpriority: medium
-ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: c1ba6ca1fcc624958355761b5d36ffafb9dface2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430110"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135351"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Panoramica delle attestazioni cooperative per gli incentivi
 
@@ -38,6 +38,6 @@ Un'attestazione con esito positivo include:
 |Dopo aver inviato la richiesta, gestire le richieste di documentazione aggiuntiva|[Creare e gestire un'attestazione basata su attività programma di incentivi](create-incentives-claims.md)  |
 |Assicurarsi di conoscere i requisiti di base per l'attestazione di attività|[Conoscere i requisiti di base di attestazioni di incentivi](core-requirements.md)   |
 |Scoprire i dettagli del programma completo di incentivi|[Frasario cooperativa di incentivi per i partner](https://assets.microsoft.com/coop-guidebook.pdf)
-|Inviare un'attestazione di tariffa Selling OSA o attestazione di associazione dei ricavi di ISV |[Invio di attestazioni OSA nel centro per i Partner](submit-osa-claim.md)|
+|Inviare un'attestazione di tariffa Selling OSA o attestazione di associazione dei ricavi di ISV |[Inviare le richieste OSA nel Centro per i partner](submit-osa-claim.md)|
                                                                                  
                                    

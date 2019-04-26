@@ -1,19 +1,19 @@
 ---
 title: Attività di gestione degli utenti per gli account dei clienti | Centro
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Dopo aver acquistato una nuova sottoscrizione per un cliente, puoi assegnare licenze a utenti specifici.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: gestione dei clienti, account, creare account, le licenze, assegnare una licenza, la gestione utente e password, reimpostazione della password, modificare la password
 ms.localizationpriority: medium
-ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: a66c1fe8965ecbc2d432efaf0a3e732b6ecd792b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586754"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134871"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Attività di gestione degli utenti per gli account dei clienti
 
@@ -93,7 +93,7 @@ Se devi ripristinare questo account, puoi trovarlo nella scheda **Utenti elimina
 ## <a name="related-topics"></a>Argomenti correlati
 
 
-[Assegnare o revocare le licenze agli utenti più](bulk-license-provisioning-for-multiple-users.md)
+[Assegnare o revocare licenze a più utenti](bulk-license-provisioning-for-multiple-users.md)
 
 [Creare più utenti per un account del cliente](adding-multiple-users-to-a-customer-account.md)
 

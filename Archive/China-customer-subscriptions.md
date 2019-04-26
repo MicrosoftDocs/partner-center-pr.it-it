@@ -6,11 +6,11 @@ description: I partner possono vendere le sottoscrizioni ai clienti e gestirle t
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 3f4a346d38e9823b46c48ec900f34473434e2be9
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586664"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132432"
 ---
 # <a name="customer-subscriptions"></a>Sottoscrizioni dei clienti
 
@@ -24,14 +24,14 @@ Aggiungere, aggiornare, sospendere e gestire le sottoscrizioni dei clienti nel c
 -   [Crea una nuova sottoscrizione](create-a-new-subscription.md)
 -   [Assegna licenze agli utenti](assign-licenses-to-users.md)
 -   [Sospendere una sottoscrizione](suspend-a-subscription.md)
--   [Aggiornare un abbonamento esistente](add-licenses-or-services-to-an-existing-subscription.md)
+-   [Aggiornare una sottoscrizione esistente](add-licenses-or-services-to-an-existing-subscription.md)
 
 >**Importante**<br>Usare Partner Center gestito da 21Vianet per la gestione dei clienti *sottoscrizioni*. Usare l'interfaccia di amministrazione per Office 365 è gestito da 21Vianet per la gestione dei clienti *utenti*. 
  
  **Vedere anche**
 
 -   [Account dei clienti](customer-accounts.md)
--   [Supporto tecnico](customer-support.md)
+-   [Supporto per i clienti](customer-support.md)
 
 
 

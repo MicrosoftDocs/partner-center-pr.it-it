@@ -1,7 +1,7 @@
 ---
 title: Collaborare con i provider indiretti in CSP | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: I rivenditori indiretti in CSP collaborano con i provider indiretti (anche noti come distributori) che hanno una relazione diretta con Microsoft e possono fornire supporto e fatturazione ai clienti.
 ms.prod: ''
 author: MaggiePucciEvans
@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: rivenditori indiretti, rivenditori, provider indiretti, provider, relazione, VAR, livello2, livello 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f544b5d97cf1f828a4f7dbdddd1cb1947ab28f34
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 88b3bbccc6716696e3ad26034ca794459839b975
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587784"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134447"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Collaborare con i provider indiretti nel programma Cloud Solution Provider
 
@@ -67,11 +67,11 @@ Se non disponi di un account aziendale, seleziona **Crearne uno** per configurar
 
 4.  Leggi le informazioni su come associare l'ID del Microsoft Partner Network (ID MPN) al nuovo account del Centro per i partner. È necessario collegare l'ID MPN della tua organizzazione con il nuovo account del centro per i Partner in modo che è possibile gestire i vantaggi dell'iscrizione e incentivi in Partner Center. Seleziona **Accedi**.
 
-5.  Immetti il nome utente che usi per accedere al sito Partner Membership Center (PMC). Il sito Partner Membership Center è quello in cui attualmente gestisci il tuo account di partner Microsoft. L'accesso al Partner Membership Center ti consente di recuperare il tuo ID MPN e di associarlo al nuovo account del Centro per i partner. Seleziona **Avanti**. 
+5.  Immetti il nome utente che usi per accedere al sito Partner Membership Center (PMC). Il sito Partner Membership Center è quello in cui attualmente gestisci il tuo account di partner Microsoft. L'accesso al Partner Membership Center ti consente di recuperare il tuo ID MPN e di associarlo al nuovo account del Centro per i partner. Selezionare **Avanti**. 
 
 6.  Immetti la password del tuo account Partner Membership Center e quindi seleziona **Accedi**.
 
-7.  Seleziona il profilo dell'organizzazione con l'ID MPN associato a incentivi, vantaggi e competenze in modo da consentirci di trasferire queste informazioni all'account del Centro per i partner. Seleziona **Continua**.
+7.  Seleziona il profilo dell'organizzazione con l'ID MPN associato a incentivi, vantaggi e competenze in modo da consentirci di trasferire queste informazioni all'account del Centro per i partner. Selezionare **continuare**.
 
 Se l'ID MPN che vuoi usare non è presente in questa pagina, seleziona **Annulla** e accedi di nuovo con il nome utente e la password del profilo dell'organizzazione che vuoi usare. 
 > [!IMPORTANT]  

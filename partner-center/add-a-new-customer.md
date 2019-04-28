@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: cliente, aggiungere un cliente, account del cliente, account del cliente nel Centro per i partner, clienti, aggiungere i clienti, creare un account del cliente
 ms.localizationpriority: medium
 ms.openlocfilehash: b086796f6907b4ff4705b7c2fe1965b7d2adceff
-ms.sourcegitcommit: 3441bb8085f14f4242d5c640d45eab00f751bf23
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "58343402"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134481"
 ---
 # <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente
 
@@ -47,7 +47,7 @@ Prima di poter vendere le sottoscrizioni, gestire la fatturazione o fornire supp
     >[!NOTE]
     >Se è necessario modificare i dettagli del cliente, selezionare **Update** nel **Info sull'Account** sezione. Se è necessario modificare le offerte è stata selezionata, selezionare **Update** nel **sottoscrizioni** sezione.
 
-7. Selezionare **** dopo aver completato l'aggiunta di informazioni dei clienti ed acquistato le sottoscrizioni necessarie.
+7. Selezionare dopo aver completato l'aggiunta di informazioni dei clienti ed acquistato le sottoscrizioni necessarie **.**
 
 ## <a name="see-also"></a>Vedere anche
 

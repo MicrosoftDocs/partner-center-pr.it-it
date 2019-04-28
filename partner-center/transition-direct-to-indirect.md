@@ -8,11 +8,11 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: bill diretto, transizione, i rivenditori indiretti
 ms.openlocfilehash: c8173bbb8878448271a35178fd3f77016a6ba129
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682479"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134144"
 ---
 **Si applica a:**
  - Partner CSP
@@ -94,7 +94,7 @@ Per creare un invito per rivenditori indiretti:
 
 3. Nella pagina successiva esamina la bozza del messaggio di posta elettronica. È possibile aprire la bozza di messaggio di posta elettronica oppure è possibile copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica.
 
-4. Modificare il testo nel messaggio di posta elettronica che cosa è necessario, ma assicurarsi di includere il collegamento come personalizzati per connettersi al cliente direttamente all'account di e account del provider. Quindi selezionare ****.
+4. Modificare il testo nel messaggio di posta elettronica che cosa è necessario, ma assicurarsi di includere il collegamento come personalizzati per connettersi al cliente direttamente all'account di e account del provider. Quindi selezionare **.**
 
 5. Dopo che il cliente ha autorizzato te e il provider a diventare i suoi Reseller of Record, avrai le autorizzazioni di amministratore necessarie per gestire sottoscrizioni, licenze e utenti per conto del cliente e il provider indiretto potrà inviare ordini per conto del cliente.
 6. Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome. 
@@ -114,7 +114,7 @@ Il provider indiretto non è possibile inviare gli ordini per i clienti diretti 
 
 3. Nella pagina successiva esamina la bozza del messaggio di posta elettronica. È possibile aprire la bozza di messaggio di posta elettronica oppure è possibile copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
 
-4. Modificare il testo nel messaggio di posta elettronica che cosa è necessario, ma assicurarsi di includere il collegamento come personalizzati per connettersi al cliente direttamente all'account di e account del provider. Quindi selezionare ****.  
+4. Modificare il testo nel messaggio di posta elettronica che cosa è necessario, ma assicurarsi di includere il collegamento come personalizzati per connettersi al cliente direttamente all'account di e account del provider. Quindi selezionare **.**  
 
 5. Dopo che il cliente ha autorizzato te e il provider a diventare i suoi Reseller of Record, avrai le autorizzazioni di amministratore necessarie per gestire sottoscrizioni, licenze e utenti per conto del cliente e il provider indiretto potrà inviare ordini per conto del cliente.
 

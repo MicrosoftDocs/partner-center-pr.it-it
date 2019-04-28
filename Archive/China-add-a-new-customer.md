@@ -6,11 +6,11 @@ description: Viene illustrato come aggiungere un nuovo cliente nel centro per i 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: fbe381a3307c4e0e9eb4d53267550bbf8047f498
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584364"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132057"
 ---
 # <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente
 
@@ -28,6 +28,6 @@ Mentre si compila la base clienti nel proprio mercato, aggiungere i nuovi client
 2.  Nel **Info sull'Account** pagina, completare i dettagli relativi all'azienda e informazioni di contatto primarie e quindi selezionare **successiva: Le sottoscrizioni**.
 3.  Nel **abbonamenti** pagina, scegliere il corretto delle offerte, immettere il numero di licenze e quindi selezionare **successiva: Revisione**.
 4.  Nel **revisione** pagina, verificare le voci per verificarne l'accuratezza. Selezionare **Update** se è necessario apportare modifiche all'account o di offerte e quindi selezionare **Submit**.
-5.  Dopo aver esaminato la conferma e copiare l'account utente amministratore e la password, selezionare **Fine**.
+5.  Dopo aver esaminato la conferma e copiare l'account utente amministratore e la password, selezionare **.**
 
 Per aggiungere una nuova sottoscrizione a un account del cliente, vedere [creare una nuova sottoscrizione](create-a-new-subscription.md).

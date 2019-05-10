@@ -9,16 +9,16 @@ author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
+ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134604"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "65035522"
 ---
 # <a name="welcome-to-partner-center"></a>Benvenuto nel Centro per i partner
 
-Il Centro per i partner Microsoft è una risorsa completa per gestire tutti gli aspetti dalla tua relazione con Microsoft. Include strumenti e risorse per fare affari ed espandere il tuo business, tra cui opzioni di abbonamento, segnalazioni dei clienti e il programma Cloud Solution Provider (CSP). Scopri le procedure consigliate per gestire il tuo account, entrare in contatto con i clienti, acquistare una sottoscrizione di Action Pack e iscriverti a programmi di incentivi nella raccolta di guide del Centro per i partner.
+Il Centro per i partner Microsoft è una risorsa completa per gestire tutti gli aspetti dalla tua relazione con Microsoft. Include gli strumenti e le risorse per facilitare le transazioni ed espandere il business, con opzioni di abbonamento, segnalazioni dei clienti e il programma Cloud Solution Provider (CSP). Scopri le procedure consigliate per gestire il tuo account, entrare in contatto con i clienti, acquistare una sottoscrizione di Action Pack e iscriverti a programmi di incentivi nella raccolta di guide del Centro per i partner.
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -85,9 +85,9 @@ Il Centro per i partner Microsoft è una risorsa completa per gestire tutti gli 
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>Programmi di Software Assurance</h3>
-                        <p>Ora puoi iscriverti al training di Software Assurance e ai servizi di sviluppo nel Centro per i partner.</p></a>
+                    <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
+                        <h3>Passaggio dal Partner Membership Center al Centro per i partner</h3>
+                        <p>Scopri come preparare l'organizzazione per il passaggio al Centro per i partner</p></a>
                     </div>
                 </div>
             </div>
@@ -97,9 +97,9 @@ Il Centro per i partner Microsoft è una risorsa completa per gestire tutti gli 
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>Strumento per la convalida e il riscatto dei voucher</h3>
-                        <p>Richiedi e riscatta i voucher che supportano le esigenze aziendali e professionali dei tuoi clienti.</p></a>
+                    <div class="cardText"><a href="/partner-center/Azure-expert-msp">
+                        <h3>Programma Azure Expert Managed Services Provider</h3>
+                        <p>La tua organizzazione è impegnata con successo nella vendita e nel supporto di Azure? Scopri come iscriverti al programma Azure Expert MSP</p></a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@ Il Centro per i partner Microsoft è una risorsa completa per gestire tutti gli 
                     </div>
                     <div class="cardText">
                         <h3>Registrazione</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Crea un account</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Gestione di tenant e posizioni</a></p>
+                        <p><a href="/partner-center/manage-locations">Gestione delle sedi</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Gestione del tenant</a></p>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ Il Centro per i partner Microsoft è una risorsa completa per gestire tutti gli 
                     </div>
                     <div class="cardText">
                         <h3>Entra in contatto con i clienti</h3>
-                        <p><a href="/partner-center/customer-accounts">Account dei clienti</a><br /><a href="/partner-center/customer-subscriptions">Vendita di sottoscrizioni</a><br /><a href="/partner-center/assign-licenses-to-users">Gestione delle licenze</a><br /><a href="/partner-center/billing">Fatturazione</a></p>
+                        <p><a href="/partner-center/csp-offers">Acquisto di prodotti per i clienti</a><br /><a href="/partner-center/customer-subscriptions">Vendita di sottoscrizioni</a><br /><a href="/partner-center/assign-licenses-to-users">Gestione delle licenze</a><br /><a href="/partner-center/billing">Fatturazione</a></p>
                     </div>
                 </div>
             </div>

@@ -2,6 +2,11 @@
 
 # [Adesione alla rete per i partner](mpn-overview.md)
 ## [Crea un account nel Centro per i partner](mpn-create-a-partner-center-account.md)
+## Passaggio dal Partner Membership Center al Centro per i partner
+### [Guida al passaggio dal Partner Membership Center al Centro per i partner](guide-to-migration.md)
+### [Tabella delle differenze tra Partner Membership Center e Centro per i partner](move-pmc-pc-map.md)
+### [Guida al passaggio di più aziende al Centro per i partner](move-multiple-companies.md)
+### [Consolidamento delle aziende](consolidate-accounts.md)
 ## Offerte per i membri
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Rinnovare le offerte](renew-mpn-offers.md)
@@ -58,7 +63,6 @@
 ## [Usare i file di riconciliazione](use-the-reconciliation-files.md)
 ## [Imposte ed esenzioni fiscali](tax-and-tax-exemptions.md)
 ## [Informazioni sull'IVA dell'organizzazione](organization-tax-info.md)
-## [Limiti di credito dell'account Cloud Solution Provider](account-credit-limit.md)
 ## [Impostare un budget di spesa di Azure per i clienti](set-an-azure-spending-budget-for-your-customers.md)
 ## [Scenari di fatturazione comuni](common-billing-scenarios.md)
 ## [Insoluti, frodi o uso improprio](non-payment--fraud--or-misuse.md)

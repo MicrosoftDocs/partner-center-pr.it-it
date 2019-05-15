@@ -40,7 +40,7 @@ Acquisto di sottoscrizioni per i prodotti di Azure Marketplace SaaS segue lo ste
 > [!IMPORTANT]
 > È possibile acquistare solo Software sotto forma di sottoscrizioni di prodotto un servizio (SaaS) nel centro per i Partner. Altri tipi di offerta (ad esempio, le applicazioni Azure, contenitori o le macchine virtuali) vengono gestiti tramite il portale di Azure e fatturati in base al consumo. Per abilitare soluzioni con pagamento a consumo tramite il portale di Azure è necessaria una sottoscrizione di Azure esistente.
 
-Si noti che alcune offerte che presenti il **Marketplace** pagina potrebbe non essere disponibile a un cliente specifico. Disponibilità potrebbe essere interessata da numerosi fattori, ad esempio se gli ISV supporta la fatturazione paese/regione del cliente.
+Si noti che alcune offerte che presenti il **Marketplace** pagina potrebbe non essere disponibile a un cliente specifico. Disponibilità potrebbe essere interessata da numerosi fattori, ad esempio se gli ISV supporta la fatturazione paese/area geografica del cliente.
 
 > [!TIP]
 > È anche possibile usare [Partner Center API](https://docs.microsoft.com/partner-center/develop/) creare sottoscrizioni di Azure Marketplace per i clienti. Per altre informazioni, vedi [creare una sottoscrizione per i prodotti di Azure Marketplace](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).

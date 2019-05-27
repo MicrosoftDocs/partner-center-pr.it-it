@@ -17,6 +17,9 @@
 ### [Usare lo strumento per la convalida e il riscatto dei voucher nel Centro per i partner per convalidare, riservare e riscattare i voucher](voucher-validation-tool.md)
 ### [Domande frequenti: uso dello strumento per la convalida e il riscatto dei voucher](vvr-faq.md)
 ### [Servizi di pianificazione Software Assurance nel Centro per i partner](software-assurance-dps.md)
+## Fatture e imposte
+### [Fatture e imposte in Microsoft Partner Network](mpn-view-print-maps-invoice.md)
+
 
 # [Cloud Solution Provider](csp-overview.md)
 ## [Iscriversi al programma Cloud Solution Provider](enrolling-in-the-csp-program.md)

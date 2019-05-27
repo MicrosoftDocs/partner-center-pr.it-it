@@ -1,18 +1,18 @@
 ---
 title: Vendere in settori specifici | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/14/2019
 Description: Microsoft fornisce ai prezzi speciali e ridotto per selezionare i gruppi di clienti, tra cui i clienti education, clienti No profii e gli utenti per enti pubblici.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c7a6ae484ee250b6f1afa67ab7ac2703874b35bf
+ms.sourcegitcommit: d73afa31cc486b11e22314faa254aa50ed4f8d3b
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135661"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "65623805"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendere in settori specifici
 
@@ -32,6 +32,8 @@ Microsoft offre prezzi ridotti speciali per gruppi selezionati di clienti, tra c
 
 
 ## <a name="check-your-reseller-qualifications"></a>Controllare le tue qualificazioni come rivenditore
+
+I passaggi seguenti sono applicabili solo per i provider indiretti e indirizzare i partner di fatturazione. I rivenditori indiretti devono connettersi con un provider indiretto per fornire offerte a prezzo Education agli utenti di formazione completo. 
 
 1.  Nel dashboard per i partner seleziona l'icona a forma di ingranaggio nell'angolo superiore destro della finestra per aprire **Impostazioni account**.
 2.  Nella sezione **Info sul programma** del tuo **Profilo partner** cerca **Qualificazioni rivenditore**.

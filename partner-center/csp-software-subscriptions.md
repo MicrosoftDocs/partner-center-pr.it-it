@@ -1,25 +1,25 @@
 ---
 title: Vendere sottoscrizioni di software tramite CSP | Centro per i partner
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 05/13/2019
 description: Adesso puoi acquisire, fornire e gestire istanze riservate di Azure e sottoscrizioni server per conto dei clienti commerciali tramite il Centro per i partner Microsoft e il portale di Azure sfruttando Vantaggio Azure Hybrid.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Cloud Solution Provider, CSP, servizi basati sul cloud, Azure, istanze riservate di Azure, Windows Server, SQL Server, sottoscrizioni di software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5454fe66de5f91406bf97185796dcc5bbbcaee08
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2a38ace2eb565ca0264d9d4154b4a9876f434494
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134741"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176193"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendere sottoscrizioni di software tramite CSP
 
-Unendo le prenotazioni di Azure e Windows Server e SQL Server le sottoscrizioni per il programma CSP di Microsoft, Microsoft agli meglio i suoi partner al risolvere in rapida crescita delle esigenze dei clienti per le soluzioni più conveniente supportare estremamente prevedibile e carichi di lavoro cloud permanente. 
+Con le prenotazioni di Azure e le sottoscrizioni Server (Windows Server e le sottoscrizioni SQL Server), i partner, è possibile programma CSP migliore indirizzi le richieste dei clienti in rapida crescita più conveniente per soluzioni relative ai supportano estremamente prevedibile e persistenti cloud i carichi di lavoro. 
 
-È ora possibile acquisire, eseguire il provisioning e gestire le prenotazioni di Azure e le sottoscrizioni Server per conto dei clienti commerciali tramite Microsoft Partner Center e il portale di Azure sfruttando il vantaggio Azure Hybrid. 
+È ora possibile acquisire, effettuare il provisioning e gestire le prenotazioni di Azure e le sottoscrizioni Server per conto dei clienti commerciali tramite Centro per i Partner e il portale di Azure sfruttando il vantaggio Azure Hybrid. 
 
 Vantaggio Azure Hybrid ti consente di ottenere più valore dalle licenze di Windows Server e risparmiare fino al 40% sulle macchine virtuali. Puoi utilizzare il vantaggio con Windows Server Datacenter e licenze Standard Edition con copertura Software Assurance. A seconda dell'edizione, è possibile convertire o riutilizzare le tue licenze per eseguire macchine virtuali Windows Server in Azure e pagare una tariffa di calcolo di base inferiore (macchina virtuale Linux di classificazione, ad esempio).
 
@@ -59,6 +59,16 @@ Dopo aver acquistato la sottoscrizione di software, seguire i passaggi seguenti 
 
 >[!NOTE]
 >Questo collegamento scadrà dopo due settimane o download 50, a seconda dell'evento che si verificherà per primo. Una volta scaduto il collegamento, torna a questa pagina e seleziona **Scarica chiavi e download** nuovamente per consentire altre due settimane o 50 download. Puoi eseguire questa operazione ogni volta che ne avrai bisogno. 
+
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visualizza attività per l'accesso alla chiave software e di download del software
+Per motivi di controllo o conformità, potrebbe essere necessario controllare un elenco di utenti che sono accessibili le chiavi del software di sottoscrizione Server o scaricato il software di sottoscrizione Server. Usare la procedura seguente per accedere a queste informazioni. 
+
+>[!NOTE]
+>È necessario essere un amministratore globale, amministratore dell'Account, riferimento amministratore o amministratore contenuto Marketing per visualizzare questi log attività. 
+
+1.  Nel centro per i Partner, selezionare l'icona a forma di ingranaggio nell'angolo in alto a destra. 
+2.  Nel menu, selezionare **log attività**.
+3.  Immettere l'intervallo di date per l'attività di cui che si desidera visualizzare. Il log attività verrà visualizzato un elenco di utenti che sono accessibili le chiavi del software o scaricata software durante il periodo specificato. 
 
 ## <a name="cancel-a-purchase"></a>Annullare un acquisto
 

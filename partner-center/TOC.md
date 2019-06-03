@@ -7,6 +7,7 @@
 ### [Tabella delle differenze tra Partner Membership Center e Centro per i partner](move-pmc-pc-map.md)
 ### [Guida al passaggio di più aziende al Centro per i partner](move-multiple-companies.md)
 ### [Consolidamento delle aziende](consolidate-accounts.md)
+
 ## Offerte per i membri
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Rinnovare le offerte](renew-mpn-offers.md)
@@ -36,6 +37,7 @@
 
 # [Gestisci il tuo account per il Centro per i partner](partner-center-account-setup.md)
 ## [Account aziendali e Centro per i partner](azure-active-directory-tenants-and-partner-center.md)
+## [Struttura degli account nel Centro per i partner](account-structure.md)
 ## [Aggiornare il profilo di partner](update-your-partner-profile.md)
 ## [Località](manage-locations.md)
 ## [Ripristinare un account sospeso per il Centro per i partner](suspended-partner-center-account.md)

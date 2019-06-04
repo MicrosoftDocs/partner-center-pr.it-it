@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3dff4e418b65475a5919cafc58783858f6db320a
-ms.sourcegitcommit: 499ea19037fab7bfd8c284761ddcdf1df45ea796
+ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
+ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "66447953"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "66458889"
 ---
 # <a name="the-account-structure-in-partner-center"></a>La struttura dei conti nel centro per i Partner
 
@@ -34,6 +34,8 @@ Il PGA abbia sedi aziendali aggiuntivi sotto di esso. Ogni posizione ha il propr
 - Visualizza l'elenco degli account di percorso di Partner dal Partner Impostazioni -> posizioni.
 - Tutti gli account di posizione sono allo stesso livello e con l'Account primario globale.
 - Gli amministratori degli account possono aggiungere o rimuovere percorsi.
+
+![Struttura dei conti](images/accountstructure.png)
 
 Per altre informazioni sulla gestione dei percorsi, leggere [gestire il proprio account partner: Percorsi](manage-locations.md). 
 

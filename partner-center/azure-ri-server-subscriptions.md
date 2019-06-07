@@ -1,18 +1,18 @@
 ---
 title: Istanze di macchina virtuale riservate di Azure (RI) + sottoscrizioni server per Azure | Centro per i partner
 ms.topic: article
-ms.date: 11/30/2018
+ms.date: 6/5/2019
 description: Attraverso l'introduzione di istanze riservate di Azure e sottoscrizioni server nel programma CSP, consentiamo ai nostri partner di far fronte alla richiesta in rapida crescita dei clienti di soluzioni più convenienti in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. Il programma CSP consente ai partner di acquisire, fornire e gestire sottoscrizioni server e istanze riservate di Azure per conto dei clienti commerciali tramite il Centro per i partner Microsoft e il portale di Azure.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, le sottoscrizioni, macchina virtuale, la prenotazione, istanze riservate
 ms.localizationpriority: medium
-ms.openlocfilehash: 15de1f8ce78eca7eec34113eaf1115fa8c441edf
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: aa9fbdad29b79a65a7542d283ea08b47c7c092f3
+ms.sourcegitcommit: 97418ed4882400155099b73bde4b69075434933a
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135401"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "66736059"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -37,15 +37,23 @@ Unendo le prenotazioni di Azure e le sottoscrizioni Server per il programma CSP,
 
 Con [istanze di VM riservate di Azure](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/) , ad esempio, i clienti commerciali ora possono salvare fino al 72% rispetto a prezzi di macchine Virtuali di Azure con pagamento a consumo semplicemente da richiedere l'acquisto, o "prenotazione": la macchina virtuale per un periodo di 1 o 3 anni. I clienti di Windows Server con il Vantaggio Azure Hybrid, incluso con Software Assurance, saranno in grado di risparmiare fino all'80% rispetto ai prezzi con pagamento in base al consumo. 
 
-Con una combinazione non corrispondente di prezzi accattivanti e flessibilità di distribuzione non corrispondenti, i clienti visualizzeranno il miglior valore globale quando si scelgono le prenotazioni di Azure: 
+Con una combinazione non corrispondente di prezzi accattivanti e flessibilità di distribuzione non corrispondenti, i clienti visualizzeranno il miglior valore globale quando si scelgono le prenotazioni di Azure:
 
-- [Istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [Sottoscrizioni server](https://www.microsoft.com/en-us/Licensing/news/windows-sql-server-through-csp) 
-- [Le licenze CAL di Remote Desktop Services (RDS)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/) – disponibile prima della fine dell'anno di calendario 2018
-- [SQL DB prenotazioni](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
-- [SUSE Linux](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
-- [Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [Istanza gestita di SQL](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+#### <a name="azure-reservations"></a>Prenotazioni di Azure
+-   Istanze di macchina virtuale riservate di Azure
+-   SQL DB prenotazioni
+-   Istanza gestita di SQL
+-   Azure Cosmos DB
+-   Azure SQL Data Warehouse
+
+#### <a name="server-subscriptions"></a>Sottoscrizioni server
+-   Windows Server
+-   CAL Servizi Desktop remoto (RDS) di Servizi Desktop remoto
+-   SQL Server
+
+#### <a name="linux-isv-annual-subscriptions"></a>Sottoscrizioni annuali ISV di Linux
+-   SUSE Linux
+-   Red Hat Enterprise Linux
 
 ## <a name="getting-started"></a>Attività iniziali
 
@@ -65,15 +73,25 @@ Di seguito è riportato un elenco completo delle risorse che ti consentiranno di
 
 **Vendite dello stato di preparazione**
 
-- [Prenotazioni di Azure e sottoscrizioni server con presentazione della panoramica del Vantaggio Azure Hybrid (aggiornato)](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Le prenotazioni di Azure e le sottoscrizioni Server con cenni preliminari sul vantaggio Azure Hybrid](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
 - [Foglio illustrativo sulla vendita](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Domande frequenti di partner per le prenotazioni Azure (aggiornato)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Partner domande frequenti per le prenotazioni di Azure](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
 - [Domande frequenti di partner per le prenotazioni Azure e SQL DB](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [Panoramica di SQL DB in Azure (nuovo)](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [Panoramica sui prezzi di Azure](https://azure.microsoft.com/pricing/#explore-cost)
-- [Calcolatrice dei prezzi di Azure](https://azure.microsoft.com/pricing/calculator/)
-- Prenotazioni Azure price elenco, vedere l'elenco prezzi istanze riservate di Microsoft Azure nel centro per i Partner [prezzi e offerte](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) pagina.
-- Le sottoscrizioni server prezzo elenco, vedere l'elenco prezzi delle sottoscrizioni di Software nel centro per i Partner [prezzi e offerte](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) pagina.
+- [Remote Desktop Services (RDS) CAL Servizi Desktop remoto (annuncio)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
+- [Istanze di macchina virtuale riservate di Azure (portale di Azure)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Sottoscrizioni server](https://docs.microsoft.com/en-us/partner-center/csp-software-subscriptions)
+- [Database SQL in panoramica di Azure](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [Prenotazioni di database SQL (portale di Azure)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-reserved-capacity)
+- [Azure Cosmos DB (portale di Azure)](https://docs.microsoft.com/en-us/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Istanza gestita di SQL (portale di Azure)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance)
+- [SUSE e Red Hat Enterprise Linux (portale di Azure)](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [Red Hat Linux in Azure](https://azure.com/redhat)
+- [SUSE Linux in Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/suse/)
+- [Linux in Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/)
+- [Panoramica sui prezzi di Azure](https://azure.microsoft.com/en-us/pricing/)
+- [Calcolatrice dei prezzi di Azure](https://azure.microsoft.com/en-us/pricing/calculator/)
+- Elenchi prezzi CSP:  Il **istanze riservate di Microsoft Azure** e **Software sottoscrizioni** listini prezzi sono disponibili nel centro per i Partner [prezzi e offerte](https://partner.microsoft.com/en-us/pcv/sales) pagina.
+
 
 **Corsi di formazione**
 
@@ -93,6 +111,7 @@ Di seguito è riportato un elenco completo delle risorse che ti consentiranno di
 - [Fatturazione per le prenotazioni di Azure](https://go.microsoft.com/fwlink/?linkid=872809)
 - [Ridimensionamento della macchina virtuale per l'utilizzo massimo delle prenotazioni](https://go.microsoft.com/fwlink/?linkid=872810)
 - [Partner Center API (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
+- [Servizi Desktop remoto](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Vantaggio Azure Hybrid
 

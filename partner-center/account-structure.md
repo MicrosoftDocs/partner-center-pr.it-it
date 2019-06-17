@@ -1,18 +1,18 @@
 ---
 title: La struttura dei conti nel centro per i Partner | Centro per i partner
 ms.topic: article
-ms.date: 05/31/2019
+ms.date: 06/13/2019
 description: La società ha due livelli degli account nel centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
-ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
+ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "66458889"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131712"
 ---
 # <a name="the-account-structure-in-partner-center"></a>La struttura dei conti nel centro per i Partner
 
@@ -28,7 +28,7 @@ La società ha due livelli degli account nel centro per i Partner.
 
 ### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>Il secondo account di livello è l'account di località denominata Partner percorso Account (PIA).
 
-Il PGA abbia sedi aziendali aggiuntivi sotto di esso. Ogni posizione ha il proprio ID MPN.  Si usa il percorso ID MPN per aziendali transazionali, ad esempio il programma Cloud Solution Provider, effettuare l'iscrizione a programmi incentivi, aggiungere un partner DPOR e pagato. 
+Il PGA abbia sedi aziendali aggiuntivi sotto di esso. Ogni posizione ha il proprio ID MPN o Partner percorso Account (PIA). Usare il percorso ID MPN per aziendali transazionali e registrazione nei programmi incentivi.
 
 - Ogni Account Location Partner può avere il proprio indirizzo legale e il contatto principale. Percorsi anche possono condividere l'indirizzo legale con l'account globale o altre posizioni.
 - Visualizza l'elenco degli account di percorso di Partner dal Partner Impostazioni -> posizioni.

@@ -6,12 +6,12 @@ description: Visualizzare gli utili e i proventi per i programmi di incentivi.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ee731d2d137eef4ecf97dcbc77d36c121090d9a
-ms.sourcegitcommit: 5e67a2540b0ff9eb248e5dc41b9d9ad1fc900b36
+ms.openlocfilehash: 15afa996f96d53e35a08806a6c1c6a0e67613c4b
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "66819954"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145384"
 ---
 # <a name="view-your-incentives-payments-information"></a>Visualizzare le informazioni relative a pagamenti incentivi
 
@@ -33,9 +33,7 @@ Per aprire una delle pagine incentivi:
 ## <a name="payments-page"></a>Pagina dei pagamenti
 I totali in questa pagina rappresentano tutti gli ID MPN è utilizzare. È possibile filtrare per ID partecipante, programma, ID di pagamento ed Earning tipo. Quantità sono espressi in dollari americani. Il valore a pagamento viene visualizzato anche nella con pagamento su currency. 
 
-Per esportare i dati in questa pagina, selezionare **esportare** e quindi seguire istruzioni nella pagina di dati di esportazione. 
-
-|**Campo**  |**Descrizione**    |
+|**Area**   |**Descrizione**    |
 |------------------|:-------------------------------------|
 |Totale pagato quest'anno        |Il totale combinato pagati all'utente in dollari americani, quest'anno per tutti i tuoi ID MPN.                                      |
 |Prossimo pagamento stimato      |Il prossimo pagamento organizzative a singolo (anche se sono presenti altri utenti sarà presto disponibile), in dollari americani.                                     |
@@ -43,21 +41,14 @@ Per esportare i dati in questa pagina, selezionare **esportare** e quindi seguir
 |Pagamenti da origine       |Quantità di pagamenti, in dollari americani, rappresentato dal programma negli ultimi 12 mesi.                                      |
 |Pagamenti                       |Selezionare **Paid** oppure **in sospeso** ed eseguire l'ordinamento nel modo desiderato. Per selezionare altri dettagli di un pagamento specifico **vista**. Per scaricare una copia dell'istruzione rimessa pagamento, selezionare **scaricare**. Si noti che i dati della cronologia delle transazioni potrebbero richiedere fino a 24 ore viene visualizzato, in modo non sarà possibile visualizzare immediatamente i profitti associati.  |
 
+Per esportare i dati in questa pagina, selezionare **esportare** e quindi seguire istruzioni nella pagina di dati di esportazione. 
+
 ## <a name="transaction-history-page"></a>Pagina della cronologia delle transazioni
 Questa pagina consente di visualizzare tutti i singoli earnings, inclusa la data di tipo e a guadagnare per ognuno. È possibile selezionare un periodo di tempo per visualizzare ed è anche possibile filtrare per ID di registrazione, programma, ID di pagamento, tipo Earning, levetta e stato. I dati sono disponibili per l'anno fiscale corrente (1 luglio-30 giugno) e di due anni fiscali precedenti. 
 
 Per visualizzare altri dettagli su un ricavo, selezionare la freccia verso il basso sul lato destro della pagina. Verrà visualizzata la levetta, importo dei ricavi, prodotto e cliente. Se per qualche ragione uno qualsiasi di questi dati non sono disponibili, ma è necessario ad accedervi, contattare il supporto tecnico. Se l'acquisizione di è il risultato di un intervento di regolazione e non è una transazione, i campi di prodotto e cliente non essere visualizzati. 
 
 Per esportare i dati delle transazioni in questa pagina, selezionare **esportare** e quindi seguire istruzioni nella pagina di dati di esportazione. File esportati dalla pagina cronologia delle transazioni mostrano i dati in valuta della transazione, gli utili nella valuta transazione sia dollari statunitensi, e pagare il valore a pagamento nella valuta. 
-
-## <a name="export-data-page"></a>Pagina di dati di esportazione
-Seguire le istruzioni in questa pagina per esportare i dati desiderati. 
-
-**Note:**
--   Verranno visualizzati solo dati per gli ID MPN e programmi in cui è associato. Se si desidera accedere ai dati aggiuntivi, rivolgersi all'amministratore di incentivi. 
--   Quando si accede a questa pagina da entrambi i pagamenti o una pagina della cronologia delle transazioni, i filtri non estesa. È necessario eseguire il rollforward li nella pagina di dati di esportazione. 
--   La pagina di dati di esportazione non viene aggiornato in modo autonomo. Si potrebbe essere necessario aggiornare la pagina manualmente per visualizzare i dati più recenti. 
--   Il filtro può comportare un **non sono disponibili dati** errore. Probabilmente si tratterà aver lasciato il valore predefinito il periodo di tempo selezionato in tre mesi e quindi seleziona un ID di pagamento da una a guadagnare di fuori di tale periodo. Espandere il periodo di tempo e riprovare. 
 
 ## <a name="payment-status"></a>Stato del pagamento
 
@@ -77,6 +68,14 @@ Seguire le istruzioni in questa pagina per esportare i dati desiderati.
 |Fattura imposta in fase di revisione        |Verrà esaminata la fattura di imposte. Il pagamento verrà rilasciato quando la fattura imposta è stata approvata.           |No        |
 |Rifiutato        |Il pagamento è stato rifiutato dalla banca.           |Per altre informazioni, contattare la banca.  |
 
+## <a name="export-data-page"></a>Pagina di dati di esportazione
+Seguire le istruzioni in questa pagina per esportare i dati desiderati. 
+
+**Note:**
+-   Verranno visualizzati solo dati per gli ID MPN e programmi in cui è associato. Se si desidera accedere ai dati aggiuntivi, rivolgersi all'amministratore di incentivi. 
+-   Quando si accede a questa pagina da entrambi i pagamenti o una pagina della cronologia delle transazioni, i filtri non estesa. È necessario eseguire il rollforward li nella pagina di dati di esportazione. 
+-   La pagina di dati di esportazione non viene aggiornato in modo autonomo. Si potrebbe essere necessario aggiornare la pagina manualmente per visualizzare i dati più recenti. 
+-   Il filtro può comportare un **non sono disponibili dati** errore. Probabilmente si tratterà aver lasciato il valore predefinito il periodo di tempo selezionato in tre mesi e quindi seleziona un ID di pagamento da una a guadagnare di fuori di tale periodo. Espandere il periodo di tempo e riprovare. 
 
 ## <a name="payment-download-export"></a>Esportazione di download di pagamento
 Questa opzione offre un download dei pagamenti è ricevuto in banca per una determinata applicazione, la tassa associata e ottenendo quantità aggregata.
@@ -117,7 +116,7 @@ Questa opzione offre un download di ogni elemento riga ottenendo visualizzato ne
 |transactionAmountUSD   |Importo in dollari della transazione   |
 |Leva   |Indica la regola business per l'acquisizione   |
 |earningRate   |Incentivo tariffa applicata per quantità di transazioni per generare un ricavo   |
-|Quantità |Questo campo varia dal programma. Per programmi transazionali che indica fatturato quantity. |
+|quantity |Questo campo varia dal programma. Per programmi transazionali che indica fatturato quantity. |
 |earningType   |Indica se si tratta di una tariffa di sconto, coop, vendere, e così via.   |
 |earningAmount   |Quando si ottiene importo in valuta della transazione originale   |
 |earningAmountUSD   |Quando si ottiene importo in dollari USA   |
@@ -149,6 +148,6 @@ Oltre alla tabella precedente, saranno disponibili come applicabili per il progr
 |AgreementNumber   |Numero contratto   |
 |agreementStartDate   |Data di inizio contratto   |
 |agreementEndDate   |Data di fine contratto   |
-|Carico di lavoro   |Carico di lavoro   |
+|carico di lavoro   |Carico di lavoro   |
   
 

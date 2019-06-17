@@ -9,12 +9,12 @@ Keywords: account, posta elettronica, tenant, tenant di Azure, creare account, i
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 079f927c3acd8f773680bfa9f4e47592f68a24f9
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f668ea5ebdb97d2cf02febb94584b6cf707e3bca
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134727"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131700"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Account aziendale e Centro per i partner  
 
@@ -26,23 +26,32 @@ ms.locfileid: "62134727"
 
 Dobbiamo collegare l'account aziendale della tua società al nuovo account del Centro per i Partner, in modo che gli utenti dell'account possano accedere al Centro per i partner con i propri nomi utente e le password dell'account aziendale.
 
-Se la tua azienda dispone già di un account aziendale, puoi collegarlo all'account del Centro per i partner. 
+## <a name="the-work-account-email-address"></a>L'indirizzo di posta elettronica di account di lavoro
+
+L'account aziendale o posta elettronica di lavoro è l'indirizzo di posta elettronica fornito dall'azienda. Un messaggio di posta elettronica account di lavoro è in genere nel formato you@yourcompany.com. Indirizzi di posta elettronica personale, ad esempio Hotmail, Gmail e così via non sono posta elettronica aziendale e non può essere usato per l'account Partner Center. 
+
+Se si dispone di più di un indirizzo di posta elettronica di lavoro valido, usare quello che è associata la sede centrale aziendale anziché il reparto a livello di area, ad esempio, usare la posta elettronica contoso.com anziché all'indirizzo contoso.uk.
 
 > [!NOTE]  
 >  Prima di decidere di usare un account di lavoro esistente, pensare su quanti gli utenti dell'account da utilizzare nel centro per i Partner. Se sono presenti utenti nell'account che non utilizzano nel centro per i Partner, è consigliabile creare un nuovo account per solo gli utenti che dovranno essere eseguiti nel centro per i Partner.
 
-Se l'azienda non dispone di un account aziendale, puoi crearne uno durante il processo di registrazione. 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Non sei sicuro che l'azienda disponga già di un account aziendale?
 
 Se non sei sicuro che l'azienda disponga di un account aziendale, attieniti ai seguenti passaggi per controllare. Tieni presente che se disponi di un abbonamento attivo per Microsoft Azure o Office 365, disponi già di un account aziendale.
+
 1.  Accedi al portale di amministrazione di Azure all'indirizzo https://ms.portal.azure.com
 2.  Seleziona Azure Active Directory dal menu, quindi seleziona i nomi di dominio.
 3.  Se disponi già di un account aziendale, il tuo nome di dominio verrà elencato.
 
-## <a name="using-an-existing-work-account"></a>Uso di un account aziendale esistente
+Se l'azienda non dispone di un account aziendale, puoi crearne uno durante il processo di registrazione.
 
-Se desideri utilizzare un account aziendale esistente, ma si verificano problemi durante l'accesso, trova nel diagramma seguente lo scenario che meglio corrisponde alla tua situazione specifica e segui i passaggi consigliati. 
+Il diagramma seguente fornisce passaggi per diversi scenari tipici:
+
+- determinare se si dispone di un account aziendale 
+- determinare come accedere all'account di lavoro 
+- determinare se è necessario creare un nuovo account di lavoro
+
 
 ![Disponi di un account aziendale oppure devi crearne uno?](images/onboardingAADFlow.png)
 

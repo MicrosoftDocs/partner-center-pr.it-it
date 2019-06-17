@@ -1,18 +1,18 @@
 ---
 title: Vendi le sottoscrizioni a prodotti di Azure Marketplace | Centro per i partner
 ms.topic: article
-ms.date: 04/04/2019
+ms.date: 06/10/2019
 description: È possibile usare Partner Center per vendere i clienti di sottoscrizioni per il Software come servizio (SaaS) prodotti pubblicati in Azure Marketplace da fornitori di Software indipendenti (ISV).
 author: JnHs
 ms.author: jenhayes
 keywords: le sottoscrizioni, Marketplace, terze parti, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: a086ab3a58e926d33c118690e7b171ba4f0fd18b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: d870bfef7d967e8f5b890fadfe86f527e558cda5
+ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133831"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67045078"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Vendere sottoscrizioni di prodotti di Azure Marketplace
 
@@ -40,12 +40,15 @@ Acquisto di sottoscrizioni per i prodotti di Azure Marketplace SaaS segue lo ste
 > [!IMPORTANT]
 > È possibile acquistare solo Software sotto forma di sottoscrizioni di prodotto un servizio (SaaS) nel centro per i Partner. Altri tipi di offerta (ad esempio, le applicazioni Azure, contenitori o le macchine virtuali) vengono gestiti tramite il portale di Azure e fatturati in base al consumo. Per abilitare soluzioni con pagamento a consumo tramite il portale di Azure è necessaria una sottoscrizione di Azure esistente.
 
-Si noti che alcune offerte che presenti il **Marketplace** pagina potrebbe non essere disponibile a un cliente specifico. Disponibilità potrebbe essere interessata da numerosi fattori, ad esempio se gli ISV supporta la fatturazione paese/area geografica del cliente.
+Si noti che alcune offerte che presenti il **Marketplace** pagina potrebbe non essere disponibile a un cliente specifico. Disponibilità potrebbe essere interessata da numerosi fattori, ad esempio se gli ISV supporta la fatturazione paese/regione del cliente.
 
 > [!TIP]
 > È anche possibile usare [Partner Center API](https://docs.microsoft.com/partner-center/develop/) creare sottoscrizioni di Azure Marketplace per i clienti. Per altre informazioni, vedi [creare una sottoscrizione per i prodotti di Azure Marketplace](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
 
 Con le sottoscrizioni a prodotti di Azure Marketplace, si ha la possibilità [annullare la sottoscrizione](https://docs.microsoft.com/partner-center/create-a-new-subscription#cancel-a-subscription) entro il periodo di annullamento (24 ore per le sottoscrizioni mensili o 14 giorni per le sottoscrizioni annuali). È anche possibile [scegliere se visualizzare o meno rinnovare automaticamente la sottoscrizione](https://docs.microsoft.com/partner-center/create-a-new-subscription#choose-whether-to-automatically-renew-an-azure-marketplace-subscription).
+
+> [!NOTE]
+> Per la [prodotti di Azure Marketplace](sell-marketplace-products.md), l'assegnazione delle licenze e attivazione viene gestita tramite Independent Software Vendor (ISV) che ha pubblicato il prodotto.
 
 ## <a name="access-billing-info-for-marketplace-products"></a>Accedere alle info di fatturazione per i prodotti di Marketplace
 

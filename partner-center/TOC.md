@@ -4,6 +4,7 @@
 ## [Crea un account nel Centro per i partner](mpn-create-a-partner-center-account.md)
 ## [Struttura degli account nel Centro per i partner](account-structure.md)
 ## Passaggio dal Partner Membership Center al Centro per i partner
+### [Preparazione per il passaggio dal Partner Membership Center al Centro per i partner](prepare-pmc-pc-migration.md)
 ### [Guida al passaggio dal Partner Membership Center al Centro per i partner](guide-to-migration.md)
 ### [Tabella delle differenze tra Partner Membership Center e Centro per i partner](move-pmc-pc-map.md)
 ### [Guida al passaggio di più aziende al Centro per i partner](move-multiple-companies.md)

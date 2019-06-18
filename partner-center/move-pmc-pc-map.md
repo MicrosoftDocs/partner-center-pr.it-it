@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Console di gestione pacchetti, la migrazione, lo spostamento di Centro per i Partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b300f2d5251fb22b903444324c037c5f03e554c
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.openlocfilehash: 1712587f834958a2dd3450d940e8778a2f16d12d
+ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67145366"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "67157343"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Spostarsi dalla console di gestione pacchetti in Partner Center
 
@@ -64,7 +64,7 @@ Questa tabella presenta alcune delle differenze tra una console di gestione pacc
 |-----------------|:-----------------|
 |Allocazione dei vantaggi di Visual Studio per l'account del servizio gestito|I vantaggi di Visual Studio allocati a MSAs verranno rispettati e conservati.|
 ||Le allocazioni di account del servizio gestito di Visual Studio verranno mantenute dopo il rinnovo nel centro per i Partner.|
-||Solo l'amministratore MPN è possibile aggiungere le allocazioni di vantaggio di Visual Studio per usare gli account nel tenant di Azure AD della società. Se sono presenti più tenant AAD associato allo stesso account Partner Center, l'amministratore globale può aggiungere utenti su tutti i tenant in vantaggi di Visual Studio e le allocazioni basate sull'utilizzo di Azure. |
+||Nel centro per i Partner, è possibile aggiungere un partner account aziendali e gli account utente guest che sono account del servizio gestito dello stesso tenant in cui il partner è MPN amministratore nel tenant di Azure AD. Se il partner è un amministratore globale in più tenant di Azure AD e che tutti questi tenant siano associati allo stesso account Partner Center, il partner è consentito aggiungere gli utenti su tutti i tenant nei vantaggi di Visual Studio e le allocazioni basate sull'utilizzo di Azure. Anche se gli utenti guest possono essere assegnati basata sull'utilizzo delle sottoscrizioni di Visual Studio tramite il MPN amministratore o amministratore globale, gli utenti guest non possono accedere al centro per i Partner usando i loro account del servizio gestito. Gli utenti guest possono, tuttavia, accedere ad Azure e Visual Studio per convalidare e usare i vantaggi assegnati. |
 
 ## <a name="programs-now-located-and-managed-in-partner-center"></a>Programmi che si trovino ora e gestita nel centro per i Partner 
 
@@ -77,3 +77,8 @@ Questa tabella presenta alcune delle differenze tra una console di gestione pacc
 |Strumento per la convalida e il riscatto dei voucher| VVR |
 |           |Programmi di cloud Solution Provider|
 
+Sì. I vantaggi di Visual Studio allocati a MSAs verranno rispettati e conservati. Verranno inoltre mantenuti dopo il rinnovo nel centro per i Partner. Tuttavia, se si rimuove un'allocazione di account del servizio gestito di una volta eseguita la migrazione nel centro per i Partner, non può essere aggiunto nuovamente al Partner Center.
+
+Nel centro per i Partner, è possibile aggiungere un partner account di lavoro e gli account utente Guest che sono account del servizio gestito dello stesso tenant in cui il partner è MPN amministratore nel tenant di Azure AD. Se il partner è un amministratore globale in più tenant di Azure AD e che tutti questi tenant siano associati allo stesso account Partner Center, il partner è consentito aggiungere gli utenti su tutti i tenant nei vantaggi di Visual Studio e le allocazioni basate sull'utilizzo di Azure.
+
+Anche se gli utenti guest possono essere assegnati basata sull'utilizzo delle sottoscrizioni di Visual Studio tramite il MPN amministratore o amministratore globale, gli utenti guest non possono accedere al centro per i Partner usando i loro account del servizio gestito. Gli utenti guest possono, tuttavia, accedere ad Azure e Visual Studio per convalidare e usare i vantaggi assegnati.

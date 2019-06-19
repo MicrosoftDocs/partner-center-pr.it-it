@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, vantaggi dell'adesione, adesione
 ms.localizationpriority: medium
-ms.openlocfilehash: fd97db7d1bdd56567c5fc52bb3d8a878ea73ede2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: fe70af06cf6cea16f5d1f934733a588db9b7546e
+ms.sourcegitcommit: 2ab34b5d432b427f2fc2dba04019255122502eba
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134391"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67198312"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gestire i vantaggi dell'adesione al Microsoft Partner Network
 
@@ -90,7 +90,7 @@ Per visualizzare e gestire i vantaggi dell'adesione, vai alla tua pagina [**Vant
 
 3. Per attivare il vantaggio del supporto, assegna un utente a tale vantaggio. 
    
-    a.  Selezionare un utente dall'elenco. Se l'utente da assegnare non è nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
+    a.  Seleziona un utente dall'elenco. Se l'utente da assegnare non è nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
 
     b.  Fornisci un indirizzo di posta elettronica dell'utente diverso da quello associato all'account del Centro per i partner. 
     
@@ -100,6 +100,10 @@ Per visualizzare e gestire i vantaggi dell'adesione, vai alla tua pagina [**Vant
 
 4. Puoi utilizzare il tuo vantaggio relativo all'assistenza tecnica di pre-vendita o alle ore di consulenza per richiedere assistenza tecnica durante le fasi di pre-vendita, progettazione, distribuzione e sviluppo di app di soluzioni cloud e ibride. Per richiedere assistenza, compila il [modulo di richiesta](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
 ), quindi seleziona **Invia richiesta**.
+
+## <a name="cancel-a-membership-benefit"></a>Annulla un vantaggio di appartenenza
+
+Per annullare un vantaggio e ricevere un rimborso, è necessario effettuare la richiesta entro 30 giorni dall'acquisto e non hanno attivato i vantaggi di software. Richiedere l'annullamento tramite una richiesta di servizio.
 
 
 #### <a name="see-also"></a>Vedere anche

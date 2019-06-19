@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: credito ritenute, crediti di imposte, modulo carta di credito tedesco, credito di modulo d'imposta
 ms.localizationpriority: medium
-ms.openlocfilehash: 35ed5d1a5da2699df9660bcce1806772fd75a6a0
-ms.sourcegitcommit: ece130080e67ce92bfc86b3892e33320cb13e49b
+ms.openlocfilehash: ace9d1cca5db0a6aba83a0eb9856374b39d56b62
+ms.sourcegitcommit: f55f9389bc1feacb1a3acc1725ab5edabadf090a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "66410973"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67207572"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assicurarsi che sono accreditato ritenuta
 
@@ -49,7 +49,8 @@ Compilare questo [form](https://query.prod.cms.rt.microsoft.com/cms/api/am/binar
 2. Selezionare **richieste di supporto Partner**.
 3. Selezionare **nuova richiesta** e quindi in **dettagli**, selezionare **Guida in linea con i file di fatturazione, pagamento o riconciliazione di Partner.**
 4. Quando si invia la richiesta di servizio assicurarsi di collegare il modulo d'imposta carta di credito e copie digitale dei certificati imposte.
-5. Ti contatteremo direttamente tramite posta elettronica o telefono.
+5. Se si invia un certificato IVA lingua diversa dall'inglese tramite una richiesta di servizio in lingua inglese, è necessaria una traduzione del certificato IVA.
+6. Ti contatteremo direttamente tramite posta elettronica o telefono.
 
 Usando il **-il pagamento con fattura pagamento** metodo, una volta certificati fiscali vengono ricevuti e convalidati correttamente, il saldo rimanente per la tua fattura verrà cancellato tra circa una settimana. 
 

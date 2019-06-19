@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e7b17cb39f266c404d7873dc17e471741d52b32
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
+ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132781"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67193418"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -39,6 +39,10 @@ In alcuni casi il file di riconoscimento potrà avere problemi di formattazione.
 
 <li>Nel campo formato dei dati di colonna, selezionare <strong>testo</strong> per tutte le colonne e quindi selezionare l'importo <strong>fine</strong>.</li>
 </ol>
+
+## <a name="downloading-a-large-recon-file"></a>Download di un file di riconoscimento di grandi dimensioni
+
+File di riconoscimento possono raggiungere dimensioni molto grandi e sono talvolta difficili da scaricare. Per uno script di PowerShell scaricare i file di grandi dimensioni riconoscimento, vedere [voci della fattura Get](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items).
 
 ## <a href="" id="itemizebypartner"></a>Specificare i dettagli da partner
 
@@ -204,7 +208,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 <td>11</td>
 </tr>
 <tr class="even">
-<td>Valuta</td>
+<td>Currency</td>
 <td><p>Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Verifica quando viene emessa la prima fattura e dopo qualsiasi aggiornamento importante della piattaforma di fatturazione.</p></td>
 <td>EUR</td>
 </tr>
@@ -348,7 +352,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="even">
-<td>Resource Name</td>
+<td>Nome della risorsa</td>
 <td><p>Nome della risorsa Azure.</p></td>
 <td><ul>
 <li>Data Transfer In (GB)</li>
@@ -356,7 +360,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Region</td>
+<td>Area geografica</td>
 <td><p>Area geografica a cui si applica l'uso. Usata principalmente per assegnare le tariffe ai trasferimenti di dati, che variano in base all'area geografica.</p></td>
 <td>Asia Pacifico, Europa, America Latina, America del Nord</td>
 </tr>
@@ -408,7 +412,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td>$0.93</td>
 </tr>
 <tr class="odd">
-<td>Valuta</td>
+<td>Currency</td>
 <td><p>Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Verifica quando viene emessa la prima fattura e dopo qualsiasi aggiornamento importante della piattaforma di fatturazione.</p></td>
 <td>EUR</td>
 </tr>
@@ -489,7 +493,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </colgroup>
 <thead>
 <tr class="header">
-<th>Column</th>
+<th>Colonna</th>
 <th>Descrizione</th>
 </tr>
 </thead>
@@ -567,7 +571,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 
 <tr class="odd">
-<td>Nome prodotto</td>
+<td>Nome del prodotto</td>
 <td><p>Nome del prodotto.</p></td>
 </tr>
 
@@ -652,7 +656,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 
 <tr class="even">
-<td>Valuta</td>
+<td>Currency</td>
 <td><p>Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Verifica quando viene emessa la prima fattura e dopo qualsiasi aggiornamento importante della piattaforma di fatturazione.</p></td>
 </tr>
 
@@ -674,7 +678,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </colgroup>
 <thead>
 <tr class="header">
-<th>Column</th>
+<th>Colonna</th>
 <th>Descrizione</th>
 </tr>
 </thead>
@@ -891,7 +895,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 
 <tr class="odd">
-<td>Tag</td>
+<td>`Tags`</td>
 <td><p>Tag che è assegnare a misuratore in ordine per raggruppare i record di fatturazione. Ad esempio, è possibile usare tag per distribuire i costi in base al reparto che utilizza il contatore.</p></td>
 </tr>
 
@@ -1017,6 +1021,8 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p>Tariffe rateizzate dall'attivazione fino alla fine del periodo di fatturazione</p>
 </td>
 </tr>
+
+
 <tr>
 <td rowspan="2">
 <p><strong>Costi di utilizzo</strong></p>
@@ -1039,6 +1045,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p>Tariffa di utilizzo per l'accesso per il periodo di fatturazione corrente</p>
 </td>
 </tr>
+
 <tr>
 <td>
 <p><strong>Crediti</strong></p>

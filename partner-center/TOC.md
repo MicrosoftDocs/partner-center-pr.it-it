@@ -2,7 +2,7 @@
 
 # [Adesione alla rete per i partner](mpn-overview.md)
 ## [Crea un account nel Centro per i partner](mpn-create-a-partner-center-account.md)
-## [Struttura degli account nel Centro per i partner](account-structure.md)
+## [Come ottenere un indirizzo di posta elettronica aziendale](buy-email-domain.md)
 ## Passaggio dal Partner Membership Center al Centro per i partner
 ### [Preparazione per il passaggio dal Partner Membership Center al Centro per i partner](prepare-pmc-pc-migration.md)
 ### [Guida al passaggio dal Partner Membership Center al Centro per i partner](guide-to-migration.md)
@@ -40,6 +40,7 @@
 # [Gestisci il tuo account per il Centro per i partner](partner-center-account-setup.md)
 ## [Account aziendali e Centro per i partner](azure-active-directory-tenants-and-partner-center.md)
 ## [Struttura degli account nel Centro per i partner](account-structure.md)
+## [Verificare le informazioni dell'account](verification-responses.md)
 ## [Aggiornare il profilo di partner](update-your-partner-profile.md)
 ## [Località](manage-locations.md)
 ## [Ripristinare un account sospeso per il Centro per i partner](suspended-partner-center-account.md)

@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f6822568301576d1643346c21c56798bdb7c225
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 5d0e998a53c6c1b4ab61b18c077b35bb888dd8c0
+ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134071"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "67262975"
 ---
 # <a name="tax-and-tax-exemptions"></a>Imposte ed esenzioni fiscali
 
@@ -34,7 +34,6 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 
 ## <a name="details-by-countryregion"></a>Informazioni dettagliate per specifici paesi o aree geografiche
 
-
 <table>
 <colgroup>
 <col width="50%" />
@@ -46,7 +45,6 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 <td><p>La maggior parte dei rivenditori non è esente da GST/HST/QST. Per determinare se hai diritto all'esenzione e, in caso affermativo, quale documentazione devi fornire a Microsoft, rivolgiti al tuo consulente fiscale.</p>
 <p>Per un esenzione BC PST, registra un'esenzione fiscale come descritto sopra. Fornisci il numero di BC PST oppure un <em>Certificate of Exemption General</em> completo e firmato.</p></td>
 </tr>
-
 <tr class="even">
 <td>Unione europea</td>
 <td><p>Negli stati membri dell'Unione europea i partner devono fornire il numero di partita IVA valido per l'inversione contabile e la fatturazione appropriata. Il numero di partita IVA deve essere <a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">accettato come valido</a>.</p>
@@ -58,10 +56,11 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 <li>In <strong>Partita IVA azienda</strong> specifica il numero di partita IVA.</li>
 </ol></td>
 </tr>
-
 <tr class="odd">
-<td>Turchia</td>
-<td><p>Microsoft applica ora il standard IVA () su contenuti digitali e dei servizi acquistati dai partner in Turchia.  Verranno visualizzati in tutte le fatture efficace da 1 ottobre 2018. Per impedire le fatture l'IVA turca e gestirla manualmente, usare la procedura seguente per aggiornare il partner del profilo di fatturazione.</p>
+<td>Sudafrica</td>
+<td><p>
+Microsoft applica ora il standard IVA () su contenuti digitali e dei servizi acquistati dai partner in Sud Africa. Per impedire le fatture l'IVA e gestirla manualmente, usare la procedura seguente per aggiornare il partner del profilo di fatturazione.
+</p>
 <p>Inviare il tuo numero di partita IVA a Microsoft</strong></p>
 <ol>
 <li>Nel centro per i Partner, andare al menu Centro per i Partner &gt; <strong>impostazioni Account</strong> &gt; <strong>profilo di fatturazione del Partner</strong>.</li>
@@ -69,29 +68,35 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 <li>In <strong>Partita IVA azienda</strong> specifica il numero di partita IVA.</li>
 </ol></td>
 </tr>
-
-
 <tr class="even">
+<td>Turchia</td>
+<td>
+<p>
+Microsoft applica ora il standard IVA () su contenuti digitali e dei servizi acquistati dai partner in Turchia. Per impedire le fatture l'IVA e gestirla manualmente, usare la procedura seguente per aggiornare il partner del profilo di fatturazione.
+</p>
+<p>Inviare il tuo numero di partita IVA a Microsoft</strong></p>
+<ol>
+<li>Nel centro per i Partner, andare al menu Centro per i Partner &gt; <strong>impostazioni Account</strong> &gt; <strong>profilo di fatturazione del Partner</strong>.</li>
+<li>Nella sezione <strong>Dati finanziari</strong> seleziona <strong>Aggiorna</strong>.</li>
+<li>In <strong>Partita IVA azienda</strong> specifica il numero di partita IVA.</li>
+</ol></td>
+</tr>
+<tr class="odd">
 <td>Stati Uniti</td>
 <td><p>Tutti i rivenditori negli Stati Uniti devono fornire la documentazione di esenzione IVA entro 30 giorni dall'accettazione del contratto per i rivenditori Microsoft. Ogni stato ha certificati di esenzione diversi per la rivendita. Rivolgiti al tuo consulente fiscale per determinare la documentazione rilevante per la tua sede legale e gli stati registrati.</p>
 <p>Tale documentazione può includere certificati di esenzione per la rivendita validi in più stati, ad esempio <em>Streamline Sales and Use Tax Agreement Certificate of Exemption</em> o <em>MTC Uniform Sales &amp; Use Tax Exemption Certificate</em>.</p></td>
 </tr>
-
-
-<tr class="odd">
+<tr class="even">
 <td>Altri paesi/aree geografiche con imposizione fiscale</td>
 <td><p>Per altre domande sul supporto delle esenzioni o dei rimborsi fiscali, richiedi supporto nel Centro per i partner. Microsoft ti contatterà per risolvere il problema nel giro di due settimane.</p></td>
 </tr>
-
-<tr class="even">
+<tr class="odd">
 <td>Altra documentazione fiscale</td>
 <td><p>Il tempo di elaborazione dopo la generazione della fattura per le ricevute fiscali (per Taiwan o Corea) o DAF è in genere di due settimane.</p>
 <p>Per altre esigenze di documentazione fiscale, richiedi assistenza al Centro per i partner.</p></td>
 </tr>
-
 </tbody>
 </table>
-
  
 
  

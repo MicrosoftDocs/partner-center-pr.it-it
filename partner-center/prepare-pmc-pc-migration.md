@@ -6,12 +6,12 @@ description: Aspetti da considerare prima di passare l'azienda dalla console di 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe65ad021538cf9c6fd267476bf410208abbe746
-ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
+ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
+ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "67157331"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "67279879"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparazione per lo spostamento da Partner Membership Center (PMC) al centro per i Partner
 
@@ -136,17 +136,22 @@ Anche se gli utenti guest possono essere assegnati basata sull'utilizzo delle so
 
  Sì, non è disponibile alcuna modifica al Partner of Record. Altre informazioni sulle [il collegamento all'ID partner ai tuoi clienti](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
 
-**È previsto un impatto sull'incentivi?**
+**È previsto un impatto sull'incentivi a causa di passare al centro per i Partner?**
 
-Non vi è alcun impatto sugli incentivi. Inoltre, se l'azienda dispone di più account nella console di gestione pacchetti e, quando si sposta in Partner Center tali account sono consolidati in un account globale, non sarà alcun impatto per i partner di incentivi in base al record.
+No, non è alcun impatto sugli incentivi se sono stati spostati all'account senza posizioni consolidamento. Se l'azienda dispone di più account nella console di gestione pacchetti e, quando si sposta al centro per i Partner si decide di consolidare in un account globale, non ci sarà alcuna perdita di incentivi ma potrebbe esserci un ritardo nelle relative ai proventi incentivi. Se si non spostano tutti gli account console di gestione pacchetti che essere state coinvolte in programmi incentivi, si potrebbe arrestare a guadagnare incentivi associate agli account.
+
 
 **Quali sono i ruoli utente incentivi nel centro per i Partner?** 
 
 Incentivi ruoli nel centro per i Partner sono basati sulla posizione e includono amministratore di incentivi e incentivi utente. Per altre informazioni sulle funzionalità di questi ruoli, vedere [assegnare ruoli agli utenti e autorizzazioni](permissions-overview.md).
 
-**Incentivi possono essere gestiti a livello di globale e la posizione?**
+**Possono essere assegnati agli utenti di incentivi di livello globale e la posizione?**
 
  Sì. È possibile assegnare un amministratore di incentivi per essere l'amministratore di incentivi per tutte le posizioni oppure ogni percorso può avere un proprio amministratore di incentivi.
+
+ **Possono pagare incentivi livello globale o percorso?**
+
+ Solo a livello di posizione sono a pagamento di incentivi.
 
 **Riguardanti i riferimenti, quanti profili business possiamo creare?**
 

@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
-ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
+ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67193418"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "67343464"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -352,7 +352,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="even">
-<td>Nome della risorsa</td>
+<td>Resource Name</td>
 <td><p>Nome della risorsa Azure.</p></td>
 <td><ul>
 <li>Data Transfer In (GB)</li>
@@ -360,7 +360,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Area geografica</td>
+<td>Region</td>
 <td><p>Area geografica a cui si applica l'uso. Usata principalmente per assegnare le tariffe ai trasferimenti di dati, che variano in base all'area geografica.</p></td>
 <td>Asia Pacifico, Europa, America Latina, America del Nord</td>
 </tr>
@@ -493,7 +493,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </colgroup>
 <thead>
 <tr class="header">
-<th>Colonna</th>
+<th>Column</th>
 <th>Descrizione</th>
 </tr>
 </thead>
@@ -571,7 +571,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 
 <tr class="odd">
-<td>Nome del prodotto</td>
+<td>Nome prodotto</td>
 <td><p>Nome del prodotto.</p></td>
 </tr>
 
@@ -678,7 +678,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </colgroup>
 <thead>
 <tr class="header">
-<th>Colonna</th>
+<th>Column</th>
 <th>Descrizione</th>
 </tr>
 </thead>
@@ -1022,6 +1022,61 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 </td>
 </tr>
 
+
+
+<tr>
+<td rowspan="5">
+<p><strong>Spese una tantum</strong></p>
+
+</td>
+<td>
+<p>Nuova</p>
+</td>
+<td>
+<p>Utilizzato quando viene creato un nuovo acquisto</p>
+</td>
+
+<p></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>addQuantity</p>
+</td>
+<td>
+<p>Usato in entrambi il rimborso dell'acquisto originale e la nuova quantità dopo l'aumento</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>removeQuantity</p>
+</td>
+<td>
+<p>Usato in entrambi il rimborso dell'acquisto originale e la nuova quantità dopo la diminuzione</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Cancel</p>
+</td>
+<td>
+<p>Utilizzato quando viene annullata una sottoscrizione</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Convertire</p>
+</td>
+<td>
+<p>Utilizzato quando viene aggiornata una licenza, ma rimane invariato il numero di postazioni</p>
+</td>
+</tr>
 
 <tr>
 <td rowspan="2">

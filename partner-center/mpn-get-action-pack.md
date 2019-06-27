@@ -1,25 +1,27 @@
 ---
-title: Acquistare o rinnovare Microsoft Action Pack | Centro per i partner
+title: Acquisto o rinnovo le offerte di vantaggi | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 04/25/2019
 description: Scopri come ottenere Microsoft Action Pack, se acquistando per la prima volta o rinnovando.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, sottoscrizione di Microsoft Action Pack, rinnovare la sottoscrizione di Microsoft Action Pack, rinnovare action pack, ottenere action pack
 ms.localizationpriority: medium
-ms.openlocfilehash: 552e288bb983b940d8211328553e6b33be242cb8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: cb30847f6ce5697bfd545c6b13cd0641aab66fba
+ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134301"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "67407875"
 ---
-# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Acquistare per la prima volta o rinnovare una sottoscrizione di Microsoft Action Pack
+# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Acquista per la prima volta o rinnovare una sottoscrizione di Microsoft Action Pack o le competenze silver o gold
 
 **Si applica a**
 
 -  Centro per i partner
 -  Partner Membership Center
+
+A questo punto, nel dashboard del centro per i Partner, è possibile acquistare o rinnovare le offerte di vantaggi tra cui le competenze di sottoscrizione e silver e gold di Microsoft Action Pack. 
 
 Action Pack offre software, supporto e vantaggi per le aziende che desiderano realizzare e incrementare la vendita delle soluzioni Microsoft in un mondo sempre più incentrato sui dispositivi mobili e sul cloud. Quando acquisti Action Pack, ottieni un solido set di software che offre: 
 
@@ -30,6 +32,8 @@ Action Pack offre software, supporto e vantaggi per le aziende che desiderano re
 
 Puoi ottenere ulteriori dettagli su Action Pack sul sito [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3).
 
+Diventare un [partner competenze per](https://partner.microsoft.com/membership/competencies). 
+
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Acquistare Microsoft Action Pack per la prima volta
 
 Se è la prima volta che collabori con Microsoft, il passaggio iniziale consiste nell'aggiungere Microsoft Partner Network. Se non sei ancora un membro della rete partner, vai alla [pagina di adesione](https://partner.microsoft.com/membership) sul sito della rete dei partner e seleziona **Iscriviti subito** quando sei pronto per la registrazione. 
@@ -39,7 +43,7 @@ Dopo l'adesione alla rete dei partner segui le [istruzioni sul sito della rete d
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Rinnovare una sottoscrizione di Microsoft Action Pack
 
 >[!IMPORTANT]
->Da ora e la fine dell'anno di calendario, passiamo ora gestione delle sottoscrizioni Action Pack dal Partner Membership Center (PMC) al centro per i Partner - questo sito. Il rinnovo della sottoscrizione di Action Pack potrà variare da qui ad allora, pertanto leggi con attenzione le informazioni riportate di seguito.  
+>È ora possibile gestire l'abbonamento di Action Pack nel centro per i Partner - questo sito. 
 
 ### <a name="check-your-renewal-eligibility"></a>Verificare l'idoneità al rinnovo
 
@@ -59,7 +63,7 @@ Dopo l'adesione alla rete dei partner segui le [istruzioni sul sito della rete d
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Per rinnovare un abbonamento Microsoft Action Pack nel centro per i Partner
 
-1. Vai alla tua pagina [**Offerte per i membri**](https://partnercenter.microsoft.com/pcv/partnership/offers) e seleziona **Acquistato**. Individua il riquadro **Abbonamento a Microsoft Action Pack**.  
+1. Andare alla [ **appartenenza offre** ](https://partnercenter.microsoft.com/pcv/partnership/offers) pagina. Individua il riquadro **Abbonamento a Microsoft Action Pack**.  
 
 2. Seleziona **Rinnova l'abbonamento**, quindi il metodo di pagamento. Puoi pagare tramite carta di credito o bonifico bancario.
 
@@ -77,7 +81,7 @@ La sottoscrizione di Action Pack verrà rinnovata automaticamente ogni anno in t
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Disattivare il rinnovo automatico della sottoscrizione di Action Pack
 
-1. Vai alla tua pagina [**Offerte per i membri**](https://partnercenter.microsoft.com/pcv/partnership/offers) e seleziona **Acquistato**. Seleziona **Abbonamento a Microsoft Action Pack** per visualizzare i dettagli della tua sottoscrizione. 
+1. Andare alla [ **appartenenza offre** ](https://partnercenter.microsoft.com/pcv/partnership/offers) pagina.  Seleziona **Abbonamento a Microsoft Action Pack** per visualizzare i dettagli della tua sottoscrizione. 
 
 2. Seleziona **Turn off automatic renewal** se non vuoi che la sottoscrizione di Action Pack venga rinnovata automaticamente ogni anno. 
 
@@ -89,7 +93,7 @@ La sottoscrizione di Action Pack verrà rinnovata automaticamente ogni anno in t
 
 Per annullare la sottoscrizione di Microsoft Action Pack, può essere necessario contattare il supporto per i partner.
 
-1. Vai alla tua pagina [**Offerte per i membri**](https://partnercenter.microsoft.com/pcv/partnership/offers) e seleziona **Acquistato**. Seleziona **Abbonamento a Microsoft Action Pack** per visualizzare i dettagli della tua sottoscrizione. 
+1. Andare alla [ **appartenenza offre** ](https://partnercenter.microsoft.com/pcv/partnership/offers) pagina. Seleziona **Abbonamento a Microsoft Action Pack** per visualizzare i dettagli della tua sottoscrizione. 
 
 3. Seleziona **Annulla l'abbonamento**. Segui le istruzioni per creare una richiesta di supporto. 
 
@@ -105,7 +109,7 @@ Per controllare lo stato della tua richiesta di assistenza, seleziona **Richiest
 
 ## <a name="download-your-action-pack-invoice"></a>Scaricare la fattura di Action Pack
 
-1. Vai alla tua pagina [**Offerte per i membri**](https://partnercenter.microsoft.com/pcv/partnership/offers) e seleziona **Acquistato**. Seleziona **Abbonamento a Microsoft Action Pack** per visualizzare i dettagli della tua sottoscrizione. 
+1. Andare alla [ **appartenenza offre** ](https://partnercenter.microsoft.com/pcv/partnership/offers) pagina. Seleziona **Abbonamento a Microsoft Action Pack** per visualizzare i dettagli della tua sottoscrizione. 
 
 3. Seleziona **Scarica fattura**.
  

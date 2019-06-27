@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ruoli, autorizzazioni, amministratore, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 65a2f7f373fc57f86cfffa73aafd3b7095fe2c04
+ms.sourcegitcommit: be8086534ec73937f2be9bcc495c2627423c50f6
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133901"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "67396732"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Assegnare autorizzazioni e ruoli utente
 
@@ -24,7 +24,7 @@ ms.locfileid: "62133901"
 Determinare i tipi di accesso che al centro per i Partner gli utenti dispongono per i ruoli e autorizzazioni che finti. I ruoli sono correlati per le applicazioni che è interessata dalla propria azienda. Ad esempio, se l'azienda è un'azienda di Cloud Solution Provider (CSP), non solo è il standard di Azure AD i ruoli di gestione, ad esempio amministratore globale del tenant, ma sarà necessario ruoli specifici per il programma CSP. Ogni programma svolge ruoli specifici a esso.
 
 >[!Note]
-> I ruoli tenant di Azure Active Directory (AAD) includono amministratore globale, Amministratore utenti e ruoli CSP. Ruoli AAD-non includono MPN amministratore, amministratore profilo business, amministrazione di referral, admin incentivi e incentivi utente. 
+> I ruoli tenant di Azure Active Directory (AAD) includono amministratore globale, Amministratore utenti e ruoli CSP. Non-AAD ruoli sono tali che non si gestisce il tenant e includono amministratore MPN, admin profilo business, amministrazione di referral, admin incentivi e incentivi utente. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gestire le transazioni commerciali nel centro per i Partner (Azure AD e i ruoli CSP)
 
@@ -52,6 +52,7 @@ Determinare i tipi di accesso che al centro per i Partner gli utenti dispongono 
 |Agente di vendita | • Gestione con i clienti
 ||• Aggiungere l'elenco dei dispositivi al centro per i Partner
 ||• Gestione delle sottoscrizioni
+||• Visualizzare prezzi sono elencati e offre
 ||Ticket di supporto di visualizzazione •
 ||• Richiesta una relazione con un cliente
 ||• Gestire i lead dei clienti
@@ -71,7 +72,18 @@ CPVs lo sviluppo di App per l'uso da partner Cloud Solution Provider (CSP) per c
 |Amministratore globale| Visualizzare e gestire il profilo CPV|
 ||Visualizzare e gestire gli utenti che devono accedere alle funzionalità CPV|
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles"></a>Gestire l'appartenenza MPN e la propria azienda (ruoli non-AAD)
+### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Utente guest (devono essere aggiunti al tenant di AAD)
+
+|**Utente Guest**   | **Ruoli**|
+|---------------------------|:--------------------|
+||Amministratore dei partner MPN|
+||Gli account amministratore|
+||Amministratore di incentivi|
+||Amministratore profilo di lavoro|
+||Amministratore dei riferimenti|
+
+
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Gestire l'appartenenza MPN e la propria azienda (ruoli non AAD: questi ruoli di gestire attività aziendale anziché il tenant)
 
 |**Ruolo** | **Operazioni possibili**|
 |----------------------------|:----------------------------|
@@ -92,28 +104,19 @@ CPVs lo sviluppo di App per l'uso da partner Cloud Solution Provider (CSP) per c
 ||• Assegnare ruoli per gli utenti nel tenant per i ruoli AAD non 
 ||• Percorsi nei programmi di registrazione
 
-## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Utente guest (devono essere aggiunti al tenant di AAD)
 
-|**Utente Guest**   | **Ruoli**|
-|---------------------------|:--------------------|
-||Amministratore dei partner MPN|
-||Gli account amministratore|
-||Amministratore di incentivi|
-||Amministratore profilo di lavoro|
-||Amministratore dei riferimenti|
-
-
-## <a name="manage-referrals-non-aad-roles"></a>Gestire i riferimenti (ruoli non-AAD)
+## <a name="manage-referrals"></a>Gestire i riferimenti 
 
 |**Ruolo**|**Operazioni possibili**|
 |-----------------------------|:------------------------|
 |Amministratore dei riferimenti       |• Visualizzare, creare e gestire i profili di business
 ||• Ricevere e gestire i riferimenti
-||• Visualizzare, creare e gestire le richieste di servizio partner|
+||• Visualizzare, creare e gestire le segnalazioni di CO-Selling|
+||• Visualizzare, creare e gestire le richieste di servizio partner
 |Amministratore profilo di lavoro   |• Visualizzare, creare e gestire il profilo di business 
 ||• Visualizzare, creare e gestire le richieste di servizio partner|
 
-## <a name="manage-incentives--non-aad-roles"></a>Gestire gli incentivi (ruoli non-AAD)
+## <a name="manage-incentives"></a>Gestire gli incentivi 
 
 |**Ruolo** | **Operazioni possibili**|
 |------------------------------|:-------------------------|

@@ -7,12 +7,12 @@ ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 97b8120be91bbeb058597854a7114e98d2e3d0ae
-ms.sourcegitcommit: fa077891067952b3039383897ea53ce7cde03939
+ms.openlocfilehash: 72ded8ab9aa9546a4407e7729c16770fae893832
+ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67333986"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "67407865"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Richiedere un credito del contratto di servizio da Microsoft 
 
@@ -34,7 +34,7 @@ Per richiedere un credito del contratto di servizio, è necessario fornire le in
 
 - Le sottoscrizioni interessate sono state acquistate tramite CSP? Sì/No
 
-L'ID evento imprevisto di interruzione del servizio (ad esempio EX25194) si trova nella pagina di integrità del servizio nel centro di amministrazione di Microsoft 365. I numeri degli eventi imprevisti sono preceduti da un'abbreviazione di 2 lettere che indica il servizio interessato, ad esempio:
+L'ID evento imprevisto di interruzione del servizio (ad esempio EX25194) è stato trovato nella pagina dell'integrità del servizio nel centro di amministrazione di Microsoft 365. I numeri degli eventi imprevisti sono preceduti da un'abbreviazione di 2 lettere che indica il servizio interessato, ad esempio:
 
 EX - Exchange Online
 
@@ -51,6 +51,17 @@ SP - SharePoint Online
 YA - Yammer Enterprise
 
 MO - errore del portale
+
+## <a name="submit-a-request"></a>Inviare una richiesta
+
+Inviare la richiesta di credito nel centro per i Partner.
+
+1. Dal dashboard del centro per i Partner, selezionare **supporto** dal riquadro di spostamento a sinistra.
+
+2. Selezionare **richieste di supporto Partner** e quindi selezionare **CSP, i clienti, ordini e le sottoscrizioni/cliente soddisfa le richieste di credito**.
+
+3. Inviare la richiesta di credito del contratto di servizio.
+
 
 
 

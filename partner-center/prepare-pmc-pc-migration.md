@@ -6,12 +6,12 @@ description: Aspetti da considerare prima di passare l'azienda dalla console di 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
-ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
+ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
+ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "67279879"
+ms.lasthandoff: 06/29/2019
+ms.locfileid: "67468029"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparazione per lo spostamento da Partner Membership Center (PMC) al centro per i Partner
 
@@ -58,9 +58,11 @@ Il ruolo di amministratore globale di MPN nella console di gestione pacchetti è
 
 Quando l'amministratore globale di MPN si sposta al centro per i Partner il ruolo viene chiamato l'amministratore di partner MPN con autorizzazioni diverse e attività che l'amministratore globale di Partner Center. Per altre informazioni sui ruoli e autorizzazioni nel centro per i Partner, Leggi [assegnare ruoli agli utenti e autorizzazioni](permissions-overview.md)
 
-**Ruoli utente in Partner Center**
+**Ruoli utente, inclusi ruoli di utente guest nel centro per i Partner**
 
 Centro per i partner dispone di diversi tipi di ruoli a seconda dei tipi di lavoro da eseguire. Sono disponibili ruoli, ad esempio amministratore globale che sono ruoli di Azure AD. Alcuni dei ruoli sono specifici per i programmi, ad esempio il programma di Provider di servizi Cloud o incentivi e sono disponibili ruoli specifici di MPN. Per scoprire quali sono tutti i ruoli del centro per i Partner, leggere [assegnare ruoli agli utenti e autorizzazioni](permissions-overview.md).
+
+
 
 **Cosa accade ai ruoli degli utenti quando si spostano dalla console di gestione pacchetti in Partner Center?**
 
@@ -84,6 +86,9 @@ Si potrebbe comunque decidere di eseguire la migrazione al centro per i Partner 
 Sì, nel centro per i Partner è possibile collegare più tenant di Azure AD per singolo account Partner Center.
 Altre informazioni sono disponibili qui. 
 
+**Sono previste restrizioni all'aggiunta di più tenant di Azure AD a un unico account Partner Center?**
+
+Se il tenant di Azure AD è già associato a un account del centro per i Partner, non può essere associato ai nuovi account Centro per i Partner usando la funzionalità multi-tenancy. Un altro modo per essere considerato è un tenant di Azure AD può essere associato a un unico account Partner Center, ma un account Partner Center può avere più tenant a cui è associato.
 
 ## <a name="microsoft-partner-network-mpn-membership-migration"></a>Migrazione di appartenenza Microsoft Partner Network (MPN) 
 

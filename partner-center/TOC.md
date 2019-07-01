@@ -48,6 +48,7 @@
 ## [Assegnare autorizzazioni e ruoli utente](permissions-overview.md)
 ## [Verificare la proprietà del dominio](become-global-admin.md)
 ## [Reimpostare una password utente](reset-a-user-password.md)
+## [Reimpostare la password personale](reset-my-pasword.md)
 ## [Aggiungere Azure Partner Shared Services](shared-services.md)
 ## [Prezzi e offerte](pricing-and-offers.md)
 ## [Personalizza il catalogo](customize-the-catalog.md)
@@ -71,6 +72,7 @@
 ## [Usare i file di riconciliazione](use-the-reconciliation-files.md)
 ## [Imposte ed esenzioni fiscali](tax-and-tax-exemptions.md)
 ## [Assicurarsi che la ritenuta d'acconto venga accreditata](withholding-tax-credit-form.md)
+## [Richiedere crediti del contratto di servizio a Microsoft](request-credit.md)
 ## [Informazioni sull'IVA dell'organizzazione](organization-tax-info.md)
 ## [Impostare un budget di spesa di Azure per i clienti](set-an-azure-spending-budget-for-your-customers.md)
 ## [Scenari di fatturazione comuni](common-billing-scenarios.md)
@@ -137,4 +139,8 @@
 ## [Supporto in autonomia dei clienti](customer-self-support.md)
 ## [Inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md)
 
+# Sicurezza
+## [Requisiti di sicurezza per i partner](partner-security-requirements.md)
 
+# Esercitazioni
+## [Implementazione dei requisiti di sicurezza per i partner](tutorials/partner-security-requirements.yml)

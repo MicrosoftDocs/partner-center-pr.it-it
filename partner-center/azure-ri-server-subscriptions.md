@@ -1,18 +1,18 @@
 ---
 title: Istanze di macchina virtuale riservate di Azure (RI) + sottoscrizioni server per Azure | Centro per i partner
 ms.topic: article
-ms.date: 6/5/2019
+ms.date: 7/2/2019
 description: Attraverso l'introduzione di istanze riservate di Azure e sottoscrizioni server nel programma CSP, consentiamo ai nostri partner di far fronte alla richiesta in rapida crescita dei clienti di soluzioni più convenienti in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. Il programma CSP consente ai partner di acquisire, fornire e gestire sottoscrizioni server e istanze riservate di Azure per conto dei clienti commerciali tramite il Centro per i partner Microsoft e il portale di Azure.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, le sottoscrizioni, macchina virtuale, la prenotazione, istanze riservate
 ms.localizationpriority: medium
-ms.openlocfilehash: aa9fbdad29b79a65a7542d283ea08b47c7c092f3
-ms.sourcegitcommit: 97418ed4882400155099b73bde4b69075434933a
+ms.openlocfilehash: 17455913cbe6aef75cbea61ca26a979682a61147
+ms.sourcegitcommit: 1d5f3fbf9bb53bc7f42cefbbedb2d7f3f3bc66eb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "66736059"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "67509953"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -45,6 +45,7 @@ Con una combinazione non corrispondente di prezzi accattivanti e flessibilità d
 -   Istanza gestita di SQL
 -   Azure Cosmos DB
 -   Azure SQL Data Warehouse
+-   Servizi App
 
 #### <a name="server-subscriptions"></a>Sottoscrizioni server
 -   Windows Server
@@ -54,6 +55,10 @@ Con una combinazione non corrispondente di prezzi accattivanti e flessibilità d
 #### <a name="linux-isv-annual-subscriptions"></a>Sottoscrizioni annuali ISV di Linux
 -   SUSE Linux
 -   Red Hat Enterprise Linux
+-   Azure Red Hat OpenShift
+
+#### <a name="isv-annual-subscriptions"></a>Sottoscrizioni annuali ISV
+-   Soluzione Azure di VMware da CloudSimple
 
 ## <a name="getting-started"></a>Attività iniziali
 
@@ -119,4 +124,4 @@ Di seguito è riportato un elenco completo delle risorse che ti consentiranno di
 
 Vedi anche [Domande frequenti sul Vantaggio Azure Hybrid](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
 
-* I risparmi effettivi possono variare in base su utilizzo, tipo di istanza o area geografica.
+\* I risparmi effettivi possono variare in base su utilizzo, tipo di istanza o area geografica.

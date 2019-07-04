@@ -7,12 +7,12 @@ ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fdc7bdf8dc79bba7e3328fb19a4bdbd9a78d904b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8fee297df2e768609cf9480370d56e59af5b249a
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133971"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549510"
 ---
 # <a name="provide-billing-support"></a>Offrire supporto per la fatturazione
 
@@ -33,6 +33,9 @@ ms.locfileid: "62133971"
 I partner che gestiscono transazioni nel modello CSP sono i consulenti di fiducia dei propri clienti e sono responsabili di gestire la relazione end-to-end, incluso il supporto ogni volta che il cliente ha una domanda o un problema. Tramite i punti di tocco di supporto i partner possono ottenere ulteriori informazioni sul cliente e la sua attività, per identificare nuovi servizi e soluzioni in grado di fornire valore.
 
 Per soddisfare il requisito di supporto, il partner può rivendere supporto da un'altra entità, affidare in outsourcing, in toto o in parte, la struttura di supporto e/o impostare una struttura per fornire il supporto direttamente.  Il partner può addebitare in toto o in parte il supporto fornito ai clienti. Il partner deve descrivere ai propri clienti il supporto fornito, gli orari di assistenza e il metodo di contatto, nonché i prezzi (se il supporto viene fornito a pagamento). 
+
+>[!Note]
+>Se non si è un provider CSP e domande sulla fatturazione per i clienti, vedere il portale per i prodotti appropriati o servizi specifico.
 
 I partner devono ricevere le richieste di supporto in arrivo dai clienti, diagnosticare i problemi al meglio delle proprie capacità e risolvere i problemi che rientrano nei limiti del supporto di base. Se il partner non è in grado di risolvere il problema, può inoltrarlo a Microsoft tramite i mezzi di supporto seguenti:
 

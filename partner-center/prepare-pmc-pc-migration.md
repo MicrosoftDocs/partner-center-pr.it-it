@@ -6,12 +6,12 @@ description: Aspetti da considerare prima di passare l'azienda dalla console di 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
-ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.openlocfilehash: 5dbdf09b00cf4f188cc82542182ebff39a4d7e39
+ms.sourcegitcommit: 2e41cd8c74e806f52f9250788d63473160b10e62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/29/2019
-ms.locfileid: "67468029"
+ms.lasthandoff: 07/04/2019
+ms.locfileid: "67563038"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparazione per lo spostamento da Partner Membership Center (PMC) al centro per i Partner
 
@@ -132,6 +132,11 @@ Anche se gli utenti guest possono essere assegnati basata sull'utilizzo delle so
  **Come dovremmo vengono gestiti gli associazioni MCP e l'accesso Partner University?**
 
  Sono state apportate modifiche alle associazioni MCP che si spostano dalla console di gestione pacchetti. Tuttavia, eventuali nuovi dipendenti di nuovo dopo aver spostato al centro per i Partner dovrà essere associato nel centro per i Partner. Tutte le autorizzazioni di Partner University per gli utenti esistenti verranno mantenuti, ma eventuali nuovi dipendenti devono accedere al [centro di formazione](https://partner.microsoft.com/training) per informazioni su come effettuare l'accesso in Partner University.
+
+ **Come si visualizzano informazioni MCP quando sposta al centro per i Partner?**
+
+Selezionare **competenze** nel riquadro di spostamento a sinistra nel dashboard. Dal **competenze** pagina si è in grado di scaricare il report di competenze. Il report di competenze elencherà gli utenti che hanno acquisito competenze rilevanti per le competenze e i programmi nel centro per i Partner. Se gli utenti hanno acquisito competenze, ma queste competenze non sono rilevanti per le competenze che si sta verso, questi verranno non elencati nel report.
+
 
  **Riferimenti al cliente vengono usati nel centro per i Partner?**
 

@@ -120,6 +120,7 @@
 ## [Ottenere i dati sull'utilizzo delle sottoscrizioni di Azure dei clienti](analyze-azure-usage.md)
 ## [Analizzare le prestazioni dei rivenditori indiretti](analyze-indirect-resellers.md)
 ## [Analizzare sottoscrizioni e licenze](analyze-subscriptions-licenses.md)
+## [Analisi di Microsoft Learn](ms-learn-analytics.md)
 
 # [Collaborare con altri partner](work-with-other-partners.md)
 ## [Attività dei provider indiretti nel Centro per i partner](indirect-provider-tasks-in-partner-center.md)

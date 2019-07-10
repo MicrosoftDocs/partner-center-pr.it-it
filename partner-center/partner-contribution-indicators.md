@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f6064b31744ff432dc97887eec22dce142c223f7
-ms.sourcegitcommit: bd83621eb29fafbda341ad41814a9ae5c1e78b00
+ms.openlocfilehash: 579676ccd7331011a0613825028dee070539d414
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/08/2019
-ms.locfileid: "67622559"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674272"
 ---
 ## <a name="partner-contribution-indicators"></a>Indicatori di contributi di partner
 
@@ -56,9 +56,9 @@ I partner possono guadagnare punti di massimo per una determinata metrica, se si
 |Nuovo deploments di grandi dimensioni|20|Per la **Customer Engagement**, se una sottoscrizione a pagamento supera i 250 mensile soglia utenti attivi negli ultimi 12 mesi, il partner associato ottiene carta di credito per tutte le istanze di produzione (organizzazioni) di coinvolgimento dei clienti in tale tenant. Per la **Finance and Operations**, se presente sottoscrizione a pagamento supera la soglia di utenti attivi mensili 100 negli ultimi 12 mesi, il partner associato ottiene carta di credito per tutte le note e istanze di produzione di operazioni (organizzazioni) in tale tenant. Utenti attivi mensili vengono conteggiati a livello di sottoscrizione e vengono considerate solo le sottoscrizioni a pagamento. Utenti attivi mensili vengono calcolati alla fine di ogni mese. Una sottoscrizione viene considerata hanno superato la soglia di utenti attivi mensili se è di sotto la soglia specificata: 13 mesi e ha superato la soglia di almeno una volta negli ultimi 12 mesi. Quando un tenant ha più sottoscrizioni, ognuna associata a partner diversi, tutti i partner di ottengono credito per tutte le istanze di produzione nel tenant, della categoria di prodotto applicabili, a condizione che a loro associate sottoscrizioni a pagamento tra i necessari Soglia di utenti attivi mensili.|Finali 12 mesi|
 |Incremento degli utenti attivi mensili|25|Confronto tra corrente conteggio di Visual Studio di utenti attivi mensili il conteggio degli utenti attivi mensili 13 mesi fa. Utenti attivi mensili vengono conteggiati a livello di sottoscrizione e vengono considerate solo le sottoscrizioni a pagamento. Utenti attivi mensili vengono calcolati alla fine di ogni mese. Per la **Customer Engagement**, un partner del mercato sviluppate deve avere una linea di base di utenti attivi mensili almeno 250 nell'ambiente di produzione ed emergenti mercato dei partner disponibili almeno 150 utenti attivi mensili, tra loro base clienti intero 13 mesi fa per essere idoneo per tutti i punti. Per la **Finance and Operations**, un partner del mercato sviluppate deve avere una linea di base di almeno 100 utenti attivi mensili nell'ambiente di produzione ed emergenti mercato partner almeno 50 utenti attivi mensili tra loro base clienti intero 13 mesi fa per essere idoneo per tutti i punti.|Finali 12 mesi|
 
-## <a name="customer-to-partner-association"></a>Ai clienti di associazione di partner
+## <a name="customer-to-partner-association"></a>Associazione di Customer-partner
 
-Viene visualizzato il credito per nuovi ricavi netti, aggiunge Net cliente, le nuove distribuzioni di grandi dimensioni e incremento degli utenti attivi mensili per un determinato cliente, all'interno di definizioni delle metriche, se e solo se si esegue il richiesti Partner del Record (CPOR) o Digital Partner of Record ( DPOR) per una sottoscrizione a pagamento che appartengono al tenant del cliente.
+Viene visualizzato il credito per nuovi ricavi netti, aggiunge Net dei clienti, le nuove distribuzioni di grandi dimensioni e crescita di utenti attivi mensili per un determinato cliente, entro i limiti della definizione di metrica, solo se si esegue la richiesta Partner del Record (CPOR) o Digital Partner of Record (DPOR) per una sottoscrizione a pagamento che appartengono al tenant del cliente.
 
 Un partner diventa il CPOR se hanno impostato l'associazione con un cliente a livello di sottoscrizione tramite l'incentivo per Dynamics 365 soluzione Advisor OSA (Online).
 

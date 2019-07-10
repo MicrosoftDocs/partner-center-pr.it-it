@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: per la formazione, lo strumento di giustificativo, convalidare voucher, attestazioni di garanzia di software, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ab74a3264ebf7461919072b7fd367f7619252b10
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132651"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674259"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Usare lo strumento di convalida e rimborso voucher nel centro per i Partner per convalidare, riservare e riscattare i voucher 
 
@@ -23,6 +23,15 @@ ms.locfileid: "62132651"
 I partner Software Assurance completi per la formazione o pianificazione della distribuzione di servizi, Microsoft si compensa per erogare questi servizi ai clienti aziendali in cambio di voucher che ricevono con Software Assurance.
 
 Quando il cliente riceve un voucher, è necessario convalidare e utilizzarlo. È possibile ancora questo lavoro nello strumento Voucher convalida e riscatto (VVR) in precedenza. Oggi stiamo riunendo in un sito: centro per i Partner – tutti gli strumenti e i siti, compresi lo strumento VVR, i partner dispongono di visitare per intrattenere attività commerciali con Microsoft al fine di rendere il proprio lavoro più efficiente e semplificato.
+
+Questo documento viene fornita una panoramica delle modalità di convalida e riservare un voucher. Per informazioni dettagliate sul flusso di lavoro di Voucher convalida completa e i criteri, leggere: 
+
+- [Flusso di lavoro di software assurance training voucher](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
+
+- [Risorse di formazione di software assurance giustificativo domande frequenti](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) 
+
+- [Criteri di voucher corsi di formazione di software assurance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP) 
+
 
 ## <a name="validate-and-reserve-a-voucher"></a>Convalidare e riserva un voucher
 

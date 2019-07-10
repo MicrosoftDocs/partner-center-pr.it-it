@@ -1,19 +1,19 @@
 ---
 title: Creare account utente e impostare le autorizzazioni | Centro partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 07/08/2019
 description: L'amministratore crea un account utente per ogni dipendente del partner che deve accedere al Centro per i partner.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: i ruoli, autorizzazioni, aggiungono l'utente, assegnare ruoli, amministratore, dell'agente,
 ms.localizationpriority: medium
-ms.openlocfilehash: 3829a18a78cb50797b7ca2bfd862c82d93d92248
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: de8b4e793f50d00a1d528d44b8dece7b9f7c9263
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134981"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674227"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Crea gli account utente e assegna le autorizzazioni
 
@@ -28,7 +28,7 @@ Creare account utente per i dipendenti che richiedono l'accesso al centro per i 
 
 3.  Immetti il nome completo e l'indirizzo di posta elettronica univoco dell'utente.
 
-4.  Seleziona il tipo di agente e/o il tipo di amministratore da assegnare all'utente. L'accesso al Centro per i partner è basato sui ruoli, pertanto puoi assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche.  Se gli utenti desiderano l'assegnazione di un ruolo, possono trovare gli amministratori degli account da contattare accedendo a **Gestione utenti** e filtrando per gli amministratori di account.
+4.  Seleziona il tipo di agente e/o il tipo di amministratore da assegnare all'utente. L'accesso al Centro per i partner è basato sui ruoli, pertanto puoi assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche.  Se gli utenti desiderano un'assegnazione di ruolo, sono disponibili gli amministratori globali per contattare visitando **gestione degli utenti** e applicare filtri a amministratore globale.
 
 5.  Seleziona **Aggiungi** per creare l'account utente. Verifica i dettagli dell'utente nella pagina successiva.
 
@@ -39,6 +39,11 @@ L'utente dovrà accedere al centro per i Partner con il nome utente e la passwor
 
 > [!NOTE]  
 >  Se l'amministratore globale ha lasciato l'organizzazione o ha un altro ruolo ed è necessario aggiungere un nuovo amministratore globale, devi registrare una richiesta di assistenza nel [portale MPN](https://partner.microsoft.com/support). Se il richiedente è in grado di fornire le informazioni di identità personale richieste e altre informazioni sull'organizzazione, l'agente del supporto può richiedere l'elevazione dei privilegi di un utente ad amministratore globale.
+
+### <a name="find-your-global-admin"></a>Trovare l'amministratore globale
+
+In alcuni casi un utente potrebbe essere necessario rendere il proprio ruolo modificato o un nuovo utente potrebbe essere necessario un'assegnazione di ruolo specifico.  
+Per trovare un amministratore globale che può apportare modifiche ai ruoli o assegnare ruoli a un nuovo utente, dal **sull'icona impostazioni** nella parte superiore destra del centro per i Partner, selezionare **gestione degli utenti** e filtro su amministratore globale. 
 
 ## <a name="assign-user-roles"></a>Assegnare i ruoli utente
 
@@ -72,12 +77,16 @@ Per usare il centro per i Partner, è necessario disporre di un ruolo assegnato.
 
 Per informazioni specifiche sui ruoli e sulle operazioni possibili con ciascun ruolo, vedi [Assegnare le autorizzazioni utente](permissions-overview.md).
 
+## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a>Associare un Learn Microsoft account utente in Partner Center
 
+Affinché sia possibile visualizzare i corsi di formazione e i percorsi che accettano gli utenti verso le competenze di apprendimento, è necessario associare il relativo ID MCP al proprio account Partner Center. Come amministratore globale, quando si aggiungono nuovi utenti, assicurarsi di ricordare ai componenti per associare il relativo ID MCP al proprio account. 
 
-### <a name="find-your-global-admin"></a>Trovare l'amministratore globale
+### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Come associare il proprio ID MCP all'account del centro per i Partner
 
-In alcuni casi un utente potrebbe essere necessario rendere il proprio ruolo modificato o un nuovo utente potrebbe essere necessario un'assegnazione di ruolo specifico.  
-Per trovare un amministratore globale che può apportare modifiche ai ruoli o assegnare ruoli a un nuovo utente, dal **sull'icona impostazioni** nella parte superiore destra del centro per i Partner, selezionare **gestione degli utenti** e filtro su amministratore globale. 
+1. Nel dashboard del centro per i Partner, selezionare la **all'account** icona nell'angolo a destra del dashboard e quindi selezionare **profilo personale**.
+
+2. Sotto **il percorso di apprendimento** sarà in grado di associare il proprio account di Microsoft Learning e anche connettere l'account Microsoft in Partner University.
+
 
 
 

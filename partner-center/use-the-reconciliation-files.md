@@ -1,18 +1,18 @@
 ---
 title: Usare i file di riconciliazione | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 07/08/2019
 description: Per una visualizzazione dettagliata voce ogni gratuitamente in un ciclo di fatturazione, scaricare i file di riconciliazione dal centro per i Partner.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
-ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
+ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
+ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67343464"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67694932"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -834,10 +834,6 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td><p>Il servizio della piattaforma Azure che è stato usato.</p></td>
 </tr>
 
-<tr class="odd">
-<td>Gruppo di risorse</td>
-<td><p>Il gruppo di risorse in cui è in esecuzione il contatore distribuito.</p></td>
-</tr>
 
 <tr class="even">
 <td>URI della risorsa</td>
@@ -892,11 +888,6 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <tr class="even">
 <td>Informazioni servizio 2</td>
 <td><p>Campo legacy che acquisisce i metadati specifici del servizio facoltativo.</p></td>
-</tr>
-
-<tr class="odd">
-<td>`Tags`</td>
-<td><p>Tag che è assegnare a misuratore in ordine per raggruppare i record di fatturazione. Ad esempio, è possibile usare tag per distribuire i costi in base al reparto che utilizza il contatore.</p></td>
 </tr>
 
 <tr class="even">

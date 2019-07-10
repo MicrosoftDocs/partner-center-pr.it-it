@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: voucher corsi, verifica del software, formazione e convalidare i voucher, riserva voucher
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 210218d027af2cb0e02556593e3a6212124e28f6
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132585"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674222"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Domande frequenti: uso dello strumento per la convalida e il riscatto dei voucher 
 
@@ -51,6 +51,9 @@ A partire dal 31 marzo 2019, tutti i partner gestiranno i voucher nel centro per
 **Come la mia azienda può accedere lo strumento VVR?**
 
 - Per accedere allo strumento VVR, la società deve registrarsi per il programma SATV o il programma di servizio Device Provisioning dell'amministratore di sistema.
+
+Continuare a leggere le domande frequenti più dettagliata i [lavoro dello strumento di convalida Voucher](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o).
+
 Per informazioni su come effettuare l'iscrizione a SATV, leggere [programma Software Assurance Training Voucher (SATV) nel centro per i Partner](software-assurance-satv.md).
- <!--
-For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->
+
+Per informazioni su come effettuare l'iscrizione a programmi di punti di distribuzione di Software Assurance, leggere [programmi Software Assurance in Partner Center](software-assurance-dps.md).

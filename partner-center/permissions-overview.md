@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ruoli, autorizzazioni, amministratore, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 65a2f7f373fc57f86cfffa73aafd3b7095fe2c04
-ms.sourcegitcommit: be8086534ec73937f2be9bcc495c2627423c50f6
+ms.openlocfilehash: 658106548596a5fa7d02d29c0065a23caeacb83d
+ms.sourcegitcommit: 59825cb626e12dfe5eb2d28e836b4573368d705e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "67396732"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67690845"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Assegnare autorizzazioni e ruoli utente
 
@@ -34,13 +34,14 @@ Determinare i tipi di accesso che al centro per i Partner gli utenti dispongono 
 |      |• Creare ticket di supporto per il centro per i Partner
 ||• Visualizzare gli accordi sui listini prezzi e offerte
 ||• Visualizzare, creare e gestire gli utenti partner|
-|Amministratore utenti   | • Visualizzare, creare e gestire gli utenti
+||  Visualizzare, creare e gestire la fatturazione, fatture e i file di riconoscimento
+|Amministratore gestione utenti   | • Visualizzare, creare e gestire gli utenti
 ||• Visualizzare tutti i profili partner
 ||• Visualizzare, creare e gestire gli utenti partner  |
 |Amministratore fatturazione | -Visualizzare, creare e gestire la fatturazione, fatture e i file di riconoscimento|
 |Utente predefinito|  Visualizza profilo personale   |
 |Agente amministratore | • Gestione con i clienti
-||• Aggiungere l'elenco dei dispositivi al centro per i Partner <
+||• Aggiungere l'elenco dei dispositivi al centro per i Partner
 ||• Creare e applicare i profili nei dispositivi
 ||• Gestione delle sottoscrizioni
 ||• Servizio integrità e soddisfare richieste per i clienti
@@ -87,20 +88,19 @@ CPVs lo sviluppo di App per l'uso da partner Cloud Solution Provider (CSP) per c
 
 |**Ruolo** | **Operazioni possibili**|
 |----------------------------|:----------------------------|
-|Amministratore dei partner MPN|•CAN aggiungere gli utenti non tenant
-||• Visualizzare, creare e gestire le richieste di servizio partner
-||• Vista legale, l'organizzazione, business e i profili MPN
+|Amministratore dei partner MPN|• Visualizzare, creare e gestire le richieste di servizio partner||
+||• Vista legale, aziendale, business e i profili MPN
 ||• Visualizzare i dettagli di utente e i relativi dati di competenze
 ||• Visualizza competenze
 ||• Visualizzare e gestire i vantaggi
 ||Acquisto e la visualizzazione • ottenuta MPN
 ||• Visualizzare MPN offre le fatture e cronologia degli ordini
-||• Visualizza dati contributi di partner
+||• Visualizza partner contributo indicatori dati
 ||• Possono utilizzare lo strumento di convalida Voucher|
 ||-Visualizzare analitica dei dati dei clienti
-|Amministratore account| • È possibile aggiungere gli utenti non tenant
-||• Aggiunta o eliminazione di percorsi
-||-Gestire i profili relativi agli account di per che amministratore 
+|| Visualizzare altri ruoli utente all'interno della società, ma non è possibile assegnare ruoli
+|Amministratore account| Aggiungere percorsi
+|| Gestire i profili relativi agli account di per che amministratore 
 ||• Assegnare ruoli per gli utenti nel tenant per i ruoli AAD non 
 ||• Percorsi nei programmi di registrazione
 
@@ -128,7 +128,6 @@ CPVs lo sviluppo di App per l'uso da partner Cloud Solution Provider (CSP) per c
 ||Pagamenti di incentivi controversia •|
 |Utente di incentivi|• Consente di visualizzare i programmi di incentivi
 ||• È possibile visualizzare e avviare le attestazioni di incentivi
-||Utili sugli sconti e cooperativa visualizzazione •
 ||Utili sugli sconti e cooperativa visualizzazione •
 ||• Supporto dell'accesso
 

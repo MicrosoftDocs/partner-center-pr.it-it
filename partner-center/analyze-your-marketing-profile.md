@@ -1,53 +1,41 @@
 ---
-title: Analizzare l'efficacia del profilo di lavoro | Centro per i partner
+title: Analizzare il profilo business | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
-description: Valutare, negoziare e rispondere alle segnalazioni tramite il Centro per i partner.
-author: LauraBrenner
-ms.author: labrenne
-robots: noindex,nofollow
+ms.date: 07/12/2019
+description: Scopri in che modo stai acquisendo l'attenzione dei tuoi clienti di destinazione e generando riferimenti.
+author: JnHs
+ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: bb2a628991e608ff26424b534b626cef7b2581cf
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8f53c002ea3d1fd1a670031a18c58d93bf259c21
+ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134911"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "67854493"
 ---
-# <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analizzare l'efficacia del profilo di lavoro
+# <a name="analyze-your-business-profile"></a>Analizzare il profilo di business
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
 **Si applica a**
 
--  Centro per i partner
+- Centro per i partner
 
-Ottenere report che indicano l'efficacia con cui si cattura l'attenzione dei clienti target e si generano segnalazioni.
+La pagina Insights di **Business profile** nel centro per i partner ti permette di scoprire in che modo stai acquisendo l'attenzione dei clienti di destinazione e generando riferimenti.
 
-Dopo avere registrato il [profilo di lavoro](create-a-marketing-profile.md) della tua società, inizierai a ottenere i dati sul numero di clienti che hanno trovato il tuo profilo, sulla frequenza con cui fanno clic per ottenere altre informazioni e sulla frequenza con cui ti inviano richieste di informazioni. 
+Per visualizzare i dati di referral Insights, dal menu centro per i partner passare a **riferimenti > business profile Insights**. I dati mostrano le prestazioni del profilo, analizzano le tendenze e identificano le aree che richiedono un'azione.
 
-Quando inizi a [rispondere a queste segnalazioni](responding-to-referrals.md), inizierai a ricevere i dati che indicano quante di tali richieste di informazioni stanno diventando opportunità aziendali di successo.
+Nella parte superiore della pagina **Insights di business profile** è possibile selezionare il periodo di tempo per cui si desidera visualizzare i dati. La selezione predefinita è **30D** (30 giorni), ma è invece possibile scegliere di visualizzare i dati per un periodo di 3 o 6 mesi. Sono inclusi i dati per tutte le aree.
 
-Utilizza questi report quando perfezioni i profili di lavoro per generare più lead e aumentare il numero di lead rilevanti. I dati mostrano le prestazioni del profilo, analizzano le tendenze e identificano le aree che richiedono un'azione. Dal menu di Centro per i Partner, passare a **dei riferimenti > Marketing pagine**.
+Dopo aver pubblicato il [profilo business](create-a-marketing-profile.md)della società, si inizieranno a visualizzare i dati relativi al numero di clienti che trovano il profilo, alla frequenza con cui fanno clic per saperne di più e alla frequenza con cui inviano richieste di informazioni (RFI). Usare questi dati quando si ridefiniscono i profili business per generare più lead e lead più rilevanti.
 
-Questi report mostrano le prestazioni dei profili di lavoro per tutte le aree geografiche. I report mostrano i dati degli ultimi 90 giorni, raggruppati per settimane.
+Il grafico di **Riepilogo delle prestazioni del profilo** include le informazioni seguenti per il periodo di tempo selezionato:
 
-*  **Tendenze**: Mostra ultimi 90 giorni, raggruppati per settimane. dati settimanali degli ultimi 90 giorni e % di modifica rispetto al periodo precedente delle metriche seguenti:
+- **Risultati della ricerca**: Informazioni sui termini di ricerca che i clienti utilizzano per trovare il profilo business.
+- **Visualizzazioni pagina**: Numero totale di volte in cui i clienti hanno visualizzato il profilo business.
+- **Clic contatto**: Il numero totale di volte in cui i clienti hanno selezionato il profilo business dalla pagina [trova un provider di soluzioni](https://www.microsoft.com/solution-providers/home) .
+- **Riferimenti generati**: Il numero totale di riferimenti inviati al cliente dopo aver selezionato il profilo business.
 
-   * **Visualizzazioni di pagina di marketing**: Quante volte le persone visualizzato il profilo di business
-   * **Contattare il clic sui pulsanti**: Numero di volte in cui le persone selezionato il profilo di business dal **trova un Partner** pagina. Potrebbe non riflettere il numero delle volte in cui gli utenti hanno visitato il profilo per creare una richiesta di informazioni.
-   * **Viene accettata RFI**: Numero di volte in cui si [accettati riferimenti cliente](responding-to-referrals.md) dopo che ha inviato una richiesta di informazioni (RFI).
-
-
-*  **Visualizzazioni pagina**: Mostra i dati di tendenza settimanale negli ultimi 90 giorni.
-   *  **Visualizzazioni di pagina di marketing da parte dei clienti**
-   *  **RFIs bug inviati dai clienti**
-
-Vedi i termini di ricerca usati dai clienti per trovare il tuo profilo. Questi report mostrano i dati settimanali degli ultimi 90 giorni.
-
-*  **Parole chiave** (principali parole chiave per la ricerca) 
-*  **Industry**
-*  **Prodotto**
-*  **Tipo di servizio**
-
+> [!TIP]
+> Quando si inizia a [rispondere a questi riferimenti](responding-to-referrals.md), assicurarsi di consultare la pagina relativa alle informazioni di [riferimento](referral-insights.md) per visualizzare altri dettagli sulla modalità di esecuzione dei riferimenti.

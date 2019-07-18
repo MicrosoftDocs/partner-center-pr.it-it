@@ -1,72 +1,76 @@
 ---
-title: Gli indicatori di contributi di partner | Centro per i partner
+title: Indicatori di contributo partner | Centro per i partner
 ms.topic: article
 ms.date: 07/05/2019
-description: Dati illustrano come opera la società con Dynamics 365 Customer Engagement o Dynamics 365 Finance and Operations
+description: Dati che illustrano come la tua azienda sta facendo con Dynamics 365 Customer Engagement o Dynamics 365 Finance and Operation
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: PCI, prestazioni, il successo dei clienti, le misurazioni, Dynamics 365
+keywords: PCI, prestazioni, successo dei clienti, misurazioni, Dynamics 365
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 579676ccd7331011a0613825028dee070539d414
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: MT
+ms.openlocfilehash: bc79d52af6a799d28b2ac6a0ba2fd12a92676215
+ms.sourcegitcommit: 70841fe3b239deb0901495166e3c027ac1385ac2
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67674272"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "68272901"
 ---
-## <a name="partner-contribution-indicators"></a>Indicatori di contributi di partner
+## <a name="partner-contribution-indicators"></a>Indicatori di contributo partner
 
-Gli indicatori di contributi di partner (PCI) sono un set di misure olistiche per le prestazioni, funzionalità e soddisfazione dei clienti con Dynamics 365.
+Gli indicatori di contributo partner (PCI) sono un set di misure olistiche delle prestazioni, della funzionalità e del successo dei clienti con Dynamics 365.
 
-## <a name="scoring"></a>Assegnazione dei punteggi
+## <a name="scoring"></a>Punteggio
 
-PCI Usa una scala 100 punti per fornire un'indicazione finale di 12 mesi il successo con il coinvolgimento dei clienti di Dynamics 365 o Dynamics 365 finanza e operazioni. Di seguito sono i punti massimi che puoi guadagnare per ognuno dei sette misure PCI.
+PCI usa una scala a 100 punti per fornire un'indicazione finale di 12 mesi del successo con le attività di Dynamics 365 Customer Engagement o Dynamics 365 Finance and Operation. Di seguito sono riportati i punti massimi che è possibile ottenere per ognuna delle sette misure in PCI.
 
-![Assegnazione dei punteggi](images/pci1.png)
+![Punteggio](images/pci1.png)
 
 ### <a name="thresholds"></a>Soglie
 
-Ogni metrica PCI è Microsoft-impostare soglie che è possono usufruire di azienda numero massimo di punti. Queste soglie variano per Customer Engagement, finanza e operazioni. Le soglie variano anche per i partner operanti in Visual Studio sviluppati mercati quelli che operano esclusivamente nei mercati emergenti.
+Ogni metrica PCI ha soglie impostate da Microsoft che possono guadagnare i punti massimi dell'azienda. Queste soglie sono diverse per le operazioni di Customer Engagement e Finance &. Le soglie variano anche per i partner che operano in mercati sviluppati rispetto a quelli che operano esclusivamente nei mercati emergenti. Se un partner ha uno o più clienti in un mercato sviluppato, le soglie di mercato sviluppate si applicano. Per applicare le soglie di mercato emergenti, il partner deve avere tutti i clienti in base ai mercati emergenti. (La categorizzazione del mercato sviluppata o emergente di un paese si basa sulle definizioni Microsoft Partner Network qui).
 
-I partner possono guadagnare punti di massimo per una determinata metrica, se si raggiungono o superano le soglie indicate di seguito. Possono essere guadagnati punti parziali per tutte le metriche, ad eccezione di crescita consulente funzionali, ad esempio, un partner di mercato sviluppate con 150.000 in ricavi netti del nuovo realizzerà metà (150.000 / $300.000) del massimo 10 punti.
+I partner possono ottenere i punti massimi per una determinata metrica se soddisfano o superano le soglie indicate di seguito. I punti parziali possono essere ottenuti per tutte le metriche ad eccezione della crescita del consulente funzionale. ad esempio, un partner di mercato sviluppato con $150.000 in netto nuovi ricavi guadagnerà metà ($ 150000/$ 300.000) del numero massimo di 10 pts.
 
-### <a name="customer-engagement-thresholds"></a>Soglie di engagement dei clienti
+### <a name="customer-engagement-thresholds"></a>Soglie di coinvolgimento dei clienti
 
-![soglie di Engagement](images/pci3.png)
+![soglie di engagement](images/pci3.png)
 
-### <a name="finance-and-operations-thresholds"></a>Soglie finanza e operazioni
+### <a name="finance-and-operations-thresholds"></a>Soglie finanziarie e operative
 
 ![Finanza e operazioni](images/pci4.png)
 
-### <a name="developed-and-emerging-markets-functional-consultant-growth"></a>Sviluppato ed emergenti mercati crescita consulente funzionale 
+### <a name="developed-and-emerging-markets-functional-consultant-growth"></a>Crescita del consulente funzionale per i mercati sviluppati ed emergenti 
 
-![Mercati sviluppati ed emergenti](images/pci5.png)
+![Mercati sviluppati ed emergenti](images/pci6.png)
+![sviluppati ed emergenti](images/pci7.png)
 
-## <a name="detailed-definitions-for-each-of-the-pci-metrics"></a>Definizioni dettagliate per ciascuna delle metriche PCI
+## <a name="detailed-definitions-for-each-of-the-pci-metrics"></a>Definizioni dettagliate per ogni metrica PCI
 
-|**Metrica**   |**Punti**   |**Definizione**   |**Intervallo di tempo di valutazione**|
+
+|**Metrica**   |**Punti**   |**Definizione**   |**Intervallo di valutazione**|
 |---------------|:--------------------------|:-------------------|:----------|
-|Ricavi netti del nuovo|10|NET nuovo fatturati i ricavi in tutti i canali di vendita di prodotti specificati. Calcolato come fatturazioni meno crediti e aggregati per 12 mesi. **Il coinvolgimento dei clienti** prodotti includono Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, talento e membro del Team dell'organizzazione. **Finanza e operazioni** prodotti include finanza e operazioni, delle vendite al dettaglio, talento ed Enterprise Team Member.Sales canali includono, ad esempio Enterprise Agreement (EA), Cloud Solution Provider (CSP) e accesso Web diretto. Ricavi contratto Enterprise Agreement includono solo i ricavi dal primo anno del contratto. I ricavi ricorrenti dal secondo e terzo anno non sono incluso.|Finali 12 mesi|
-|NET cliente aggiunge|10|Clienti netti aggiunti in tutti i canali di vendita. Calcolate ogni mese meno clienti persi e aggregati per 12 mesi i clienti. Aggiunta di un cliente quando un cliente non dispone di alcuna unità avviata a pagamento nel mese precedente, ma non nel mese corrente. Un cliente perdito è quando un cliente ha pagato avviata unità al mese precedente, ma non nel mese corrente. Canali di vendita includono, ad esempio Enterprise Agreement (EA), Cloud Solution Provider (CSP) e accesso Web diretto. Quando un altro partner è associato a un cliente in una varianza out e nuova acquisizione case, il partner più recente, si riceverà di carta di credito.|Finali 12 mesi|
-|Consulenti funzionali|15 |Numero di persone che contiene una certificazione consulente funzionale attualmente attiva. **Customer Engagement** certificazione consulente funzionale richiede un singolo passare MB200 e MB210 o MB220 o MB230 o MB240 o MB6-898. **Finanza e operazioni** certificazione consulente funzionale richiede un singolo passare MB300 e MB310 o MB320 o MB330 o MB6897 o MB6-898.|Snapshot corrente|
-|Crescita di consulente funzionale|15|Confronto tra il numero di persone contenente il numero di persone che contiene una certificazione consulente funzionale attiva un attualmente attivo o certificazione funzionale consulente **31 dicembre 2019**. **Nessun parziali punti assegnati**. Aumento delle dimensioni deve soddisfare o superare le soglie indicate nella tabella 3 per i partner di immissione sul mercato di sviluppo e nella tabella 4 per i partner mercati emergenti.|Snapshot di Visual Studio il 31 dicembre 2019 snapshot corrente|
-|Sviluppatori|5|Per la **Customer Engagement**, questo è il numero di persone che contiene una certificazione attualmente attiva per MB2 716. Per la **Finance and Operations**, questo è il numero di persone che contiene una certificazione attualmente attiva per MB6 894.|Snapshot corrente|
-|Nuovo deploments di grandi dimensioni|20|Per la **Customer Engagement**, se una sottoscrizione a pagamento supera i 250 mensile soglia utenti attivi negli ultimi 12 mesi, il partner associato ottiene carta di credito per tutte le istanze di produzione (organizzazioni) di coinvolgimento dei clienti in tale tenant. Per la **Finance and Operations**, se presente sottoscrizione a pagamento supera la soglia di utenti attivi mensili 100 negli ultimi 12 mesi, il partner associato ottiene carta di credito per tutte le note e istanze di produzione di operazioni (organizzazioni) in tale tenant. Utenti attivi mensili vengono conteggiati a livello di sottoscrizione e vengono considerate solo le sottoscrizioni a pagamento. Utenti attivi mensili vengono calcolati alla fine di ogni mese. Una sottoscrizione viene considerata hanno superato la soglia di utenti attivi mensili se è di sotto la soglia specificata: 13 mesi e ha superato la soglia di almeno una volta negli ultimi 12 mesi. Quando un tenant ha più sottoscrizioni, ognuna associata a partner diversi, tutti i partner di ottengono credito per tutte le istanze di produzione nel tenant, della categoria di prodotto applicabili, a condizione che a loro associate sottoscrizioni a pagamento tra i necessari Soglia di utenti attivi mensili.|Finali 12 mesi|
-|Incremento degli utenti attivi mensili|25|Confronto tra corrente conteggio di Visual Studio di utenti attivi mensili il conteggio degli utenti attivi mensili 13 mesi fa. Utenti attivi mensili vengono conteggiati a livello di sottoscrizione e vengono considerate solo le sottoscrizioni a pagamento. Utenti attivi mensili vengono calcolati alla fine di ogni mese. Per la **Customer Engagement**, un partner del mercato sviluppate deve avere una linea di base di utenti attivi mensili almeno 250 nell'ambiente di produzione ed emergenti mercato dei partner disponibili almeno 150 utenti attivi mensili, tra loro base clienti intero 13 mesi fa per essere idoneo per tutti i punti. Per la **Finance and Operations**, un partner del mercato sviluppate deve avere una linea di base di almeno 100 utenti attivi mensili nell'ambiente di produzione ed emergenti mercato partner almeno 50 utenti attivi mensili tra loro base clienti intero 13 mesi fa per essere idoneo per tutti i punti.|Finali 12 mesi|
+|Nuovi ricavi NET|10|NET New fatturato ricavi in tutti i canali di vendita per i prodotti specificati. Calcolato come fatturazione meno crediti e aggregato per 12 mesi.
+||| - I prodotti di interesse **clienti** includono vendite, servizio clienti, servizio campo, automazione del servizio progetto, marketing, vendite di relazioni Microsoft, talento e membro del team aziendale. -
+||| I prodotti **Finance e Operations** includono finanza e operazioni, vendite al dettaglio, talento e membri del team aziendale. i canali di vendita includono ad esempio Enterprise Agreement (EA), Cloud Solution Provider (CSP) e Web Direct. Enterprise Agreement ricavi include solo i ricavi del primo anno del contratto. I ricavi ricorrenti del secondo e del terzo anno non sono inclusi.|12 mesi finali|
+|NET Customer aggiunto|10|Clienti NET aggiunti a tutti i canali di vendita. Calcolato mensilmente quando i clienti hanno aggiunto meno clienti persi e aggregati per 12 mesi. L'aggiunta di un cliente si verifica quando un cliente non dispone di unità avviate a pagamento nel mese precedente ma nel mese corrente. Un cliente si è perso quando un cliente ha pagato unità avviate nel mese precedente ma non nel mese corrente. I canali di vendita includono ad esempio Enterprise Agreement (EA), Cloud Solution Provider (CSP) e Web Direct. Quando un partner diverso è associato a un cliente in un caso di varianza e di riacquisizione, il partner più attuale riceverà un credito.|12 mesi finali|
+|Consulenti funzionali|15 |Numero di utenti che dispongono di una certificazione del consulente funzionale attualmente attiva. **Coinvolgimento dei clienti** Per la certificazione del consulente funzionale è necessario che un utente passi MB200 e MB210 o MB220 o MB230 o MB240 o MB6-898. **Finanza e operazioni** Per la certificazione del consulente funzionale è necessario che un utente passi MB300 e MB310 o MB320 o MB330 o MB6897 o MB6-898.|Snapshot corrente|
+|Crescita del consulente funzionale|15|Confronto tra il numero di utenti che dispongono di una certificazione del consulente funzionale attualmente attiva rispetto al numero di persone che dispongono di una certificazione del consulente funzionale attivo il **31 dicembre 2019**. **Non sono stati assegnati punti parziali**. La crescita deve soddisfare o superare le soglie indicate nella tabella 3 per i partner di mercato sviluppati e la tabella 4 per i partner di mercato emergenti.|Snapshot corrente rispetto al 31 dicembre 2019|
+|Sviluppatori|5|Per il **coinvolgimento dei clienti**, questo è il numero di utenti che dispongono di una certificazione attualmente attiva per trasformandolo in MB2-716. Per **finanza e operazioni**, questo è il numero di utenti che dispongono di una certificazione attualmente attiva per MB6-894.|Snapshot corrente|
+|Nuove distribuzioni di grandi dimensioni|20|Per il **coinvolgimento dei clienti**, se una sottoscrizione a pagamento supera la soglia utente attiva di 250 mensili negli ultimi 12 mesi, il partner associato ottiene il credito per tutte le istanze di produzione di Customer Engagement (organizzazioni) in tale tenant. Per **finanza e operazioni**, se una sottoscrizione a pagamento supera la soglia utente attiva mensile 100 negli ultimi 12 mesi, il partner associato ottiene il credito per tutte le istanze di produzione Finance e Operations (progetti CS) in tale tenant. Gli utenti attivi mensili vengono conteggiati a livello di sottoscrizione e vengono considerate solo le sottoscrizioni a pagamento. Gli utenti attivi mensili vengono calcolati alla fine di ogni mese. Viene considerata una sottoscrizione che ha superato la soglia di utenti attivi mensili se è al di sotto della soglia specificata 13 mesi fa e ha superato la soglia almeno una volta nei 12 mesi finali. Quando un tenant ha più sottoscrizioni, ognuna associata a partner diversi, tutti i partner ottengono il credito per tutte le istanze di produzione nel tenant, nella categoria di prodotto applicabile, purché le sottoscrizioni a pagamento associate superino il necessario Soglia utente attiva mensile.|12 mesi finali|
+|Crescita mensile utenti attivi|25|Confronto tra il numero corrente di utenti attivi mensili rispetto al numero di utenti attivi mensili 13 mesi fa. Gli utenti attivi mensili vengono conteggiati a livello di sottoscrizione e vengono considerate solo le sottoscrizioni a pagamento. Gli utenti attivi mensili vengono calcolati alla fine di ogni mese. Per il **coinvolgimento dei clienti**, un partner di mercato sviluppato deve avere una linea di base di almeno 250 utenti attivi mensili nell'ambiente di produzione e un partner di mercato emergente con almeno 150 utenti attivi mensili per l'intera base del cliente 13 mesi fa per essere idonei per qualsiasi punti. Per **finanza e operazioni**, un partner di mercato sviluppato deve avere una linea di base di almeno 100 utenti attivi mensili nell'ambiente di produzione e un partner di mercato emergente con almeno 50 utenti attivi mensili nell'intera base dei clienti 13 mesi fa per essere idonei per qualsiasi punti.|12 mesi finali|
 
-## <a name="customer-to-partner-association"></a>Associazione di Customer-partner
+## <a name="customer-to-partner-association"></a>Associazione da cliente a partner
 
-Viene visualizzato il credito per nuovi ricavi netti, aggiunge Net dei clienti, le nuove distribuzioni di grandi dimensioni e crescita di utenti attivi mensili per un determinato cliente, entro i limiti della definizione di metrica, solo se si esegue la richiesta Partner del Record (CPOR) o Digital Partner of Record (DPOR) per una sottoscrizione a pagamento che appartengono al tenant del cliente.
+Si riceve un credito per i ricavi netti nuovi, le aggiunte al cliente netto, le nuove distribuzioni di grandi dimensioni e la crescita mensile di utenti attivi per un determinato cliente, entro i limiti della definizione della metrica, solo se si è il provider di soluzioni cloud (CSP), il partner di attestazione di record (CPOR), o Digital Partner of record (DPOR (DPOR) per una sottoscrizione a pagamento appartenente al tenant del cliente.
 
-Un partner diventa il CPOR se hanno impostato l'associazione con un cliente a livello di sottoscrizione tramite l'incentivo per Dynamics 365 soluzione Advisor OSA (Online).
+Un partner diventa il CPOR se ha stabilito l'associazione con un cliente a livello di sottoscrizione tramite l'incentivo di Dynamics 365 online Solution Advisor (OSA).
 
-Un partner diventa DPOR se hanno impostato l'associazione con un cliente a livello di sottoscrizione all'interno del prodotto.
+Un partner diventa il DPOR se ha stabilito l'associazione con un cliente a livello di sottoscrizione all'interno del prodotto.
 
-Quando sia CPOR DPOR esiste per una determinata sottoscrizione, il CPOR riceve tutto tuo credito per le metriche PCI associate alla sottoscrizione.
+Quando sono presenti sia CPOR che DPOR per una determinata sottoscrizione, CPOR riceve tutti i crediti per le metriche PCI associate alla sottoscrizione.
 
-## <a name="how-to-read-the-chart"></a>Come leggere il grafico
+## <a name="how-to-read-the-charts"></a>Come leggere i grafici
 
 ![Come leggere il grafico](images/pci2.png)
 

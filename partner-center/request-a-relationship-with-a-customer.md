@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fbd6e5e14c12e81cff4297b60b542ab0ccd5277
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 7777b281948f560666be154e4618b788782a474f
+ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133981"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "68376435"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Entrare in contatto con i clienti nel Centro per i partner
 
@@ -20,20 +20,20 @@ ms.locfileid: "62133981"
 
 -  Centro per i partner
 
-Se si desidera gestire servizio o una sottoscrizione per conto del cliente, il cliente deve concedere autorizzazioni di amministratore per tale servizio o una sottoscrizione. La procedura riportata di seguito viene illustrato come richiedere l'autorizzazione tramite posta elettronica. Dopo che il cliente ha approvato la richiesta, potrai accedere al portale di amministrazione del servizio e gestire il servizio per conto del cliente.
+Se si desidera gestire il servizio o la sottoscrizione di un cliente per loro conto, il cliente deve concedere le autorizzazioni di amministratore per tale servizio o sottoscrizione. La procedura seguente illustra come richiedere questa autorizzazione tramite posta elettronica. Dopo che il cliente ha approvato la richiesta, potrai accedere al portale di amministrazione del servizio e gestire il servizio per conto del cliente.
 
-Se si desidera stabilire una relazione di rivendita con un cliente e gestire solo le sottoscrizioni di Azure che si esegue il provisioning, non è necessario ottenere le autorizzazioni di amministratore.
+Se si desidera stabilire una relazione del rivenditore con un cliente e gestire solo le sottoscrizioni di Azure di cui si esegue il provisioning, non è necessario ottenere le autorizzazioni di amministratore.
 
-Si noti che l'opzione per non richiedere le autorizzazioni non è disponibile per i partner che opera nel Cloud Microsoft per governo degli Stati Uniti o Microsoft Cloud Germany. Per altre informazioni, vedere [clienti delegare i privilegi di amministrazione per i partner](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges).
+Si noti che l'opzione per non richiedere autorizzazioni non è disponibile per i partner che operano in Microsoft Cloud per il governo degli Stati Uniti o Microsoft Cloud Germania. Per altre informazioni, vedere [i clienti che delegano i privilegi di amministrazione ai partner](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges).
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire con te una relazione come rivenditore
 
-Si noti che è possibile richiedere una relazione di rivendita con un cliente dal proprio paese o la stessa area.
+Si noti che è possibile richiedere una relazione del rivenditore con un cliente all'interno del proprio paese o della stessa area.
 
-1.  Selezionare **clienti** dalle **Centro per i Partner** dal menu e quindi selezionare **richiedere una relazione di rivendita**.
+1.  Selezionare **Customers** dal menu **centro** per i partner e quindi selezionare **Richiedi una relazione Reseller**.
 
-2.  Per richiedere le autorizzazioni di amministratore da parte di questo cliente, seleziona **inclusione delegati i privilegi di amministrazione per Azure Active Directory e Office 365**. Per stabilire la relazione senza che richiede le autorizzazioni di amministratore, deselezionare questa opzione. 
+2.  Per richiedere le autorizzazioni di amministratore da questo cliente, selezionare **Includi privilegi di amministrazione delegata per Azure Active Directory e Office 365**. Per stabilire la relazione senza richiedere autorizzazioni di amministratore, deselezionare questa opzione. 
 
 3.  Nella pagina successiva esamina la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
 
@@ -48,17 +48,17 @@ Si noti che è possibile richiedere una relazione di rivendita con un cliente da
 
 
 > [!IMPORTANT]  
-> I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione di un servizio. Tuttavia, fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questo caso, se il cliente ha bisogno di aiuto, potrai contattare il supporto Microsoft per aprire una richiesta di assistenza per conto del cliente.
+> I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questo caso, se il cliente ha bisogno di aiuto, potrai contattare il supporto Microsoft per aprire una richiesta di assistenza per conto del cliente.
 
-## <a name="changes-to-the-customer-invitation-experience"></a>Modifiche all'esperienza dei clienti di invito
+## <a name="changes-to-the-customer-invitation-experience"></a>Modifiche all'esperienza di invito dei clienti
 
-L'esperienza del cliente per accettare un invito di relazione reseller da un partner Cloud Solution Provider sta cambiando il 1 novembre 2018. Per informazioni dettagliate sulle modifiche, vedere la tabella seguente. Per informazioni dettagliate sulla nuova esperienza in Microsoft Store for Business, vedere [funziona con provider di soluzioni in Microsoft Store per le aziende](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business).
+L'esperienza del cliente per l'accettazione di un invito alle relazioni rivenditore da un partner Cloud Solution Provider è ospitata da portali diversi per i clienti. Il percorso del portale dipende dal fatto che un cliente si trovi in un cloud pubblico Microsoft o in un cloud nazionale: 
 
-|  | In cui un cliente accetta un invito rivenditore inviato fino all'1 novembre 2018? | In cui un cliente accetta un invito rivenditore inviato dopo il 1 novembre 2018? |
-|---------|---------|---------
-| Clienti nel Cloud pubblico | Portale di amministrazione di Microsoft Office | Microsoft Store per le aziende |
-| I clienti nel centro per i Partner per Microsoft Cloud Germania | Portale di amministrazione di Microsoft Office | Portale di amministrazione di Microsoft Office |
-| Clienti nel centro per i Partner per Microsoft Cloud per enti pubblici degli Stati Uniti | Portale di amministrazione di Microsoft Office | Portale di amministrazione di Microsoft Office |
+|  | Dove un cliente accetta un invito alla relazione Reseller? |
+|---------|---------
+| Clienti nel cloud pubblico | Microsoft Store per le aziende |
+| Clienti nel centro per i partner per Microsoft Cloud Germania | Portale di amministrazione di Microsoft Office |
+| Clienti nel centro per i partner per Microsoft Cloud per il governo degli Stati Uniti | Portale di amministrazione di Microsoft Office |
 |
 
 ## <a name="see-also"></a>Vedere anche

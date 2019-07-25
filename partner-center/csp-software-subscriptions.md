@@ -8,28 +8,29 @@ ms.author: evansma
 keywords: Cloud Solution Provider, CSP, servizi basati sul cloud, Azure, istanze riservate di Azure, Windows Server, SQL Server, sottoscrizioni di software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a38ace2eb565ca0264d9d4154b4a9876f434494
-ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.openlocfilehash: 60ea2b3b5d497e60b243112748780c2f20c59735
+ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "66176193"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "68376420"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendere sottoscrizioni di software tramite CSP
 
-Con le prenotazioni di Azure e le sottoscrizioni Server (Windows Server e le sottoscrizioni SQL Server), i partner, è possibile programma CSP migliore indirizzi le richieste dei clienti in rapida crescita più conveniente per soluzioni relative ai supportano estremamente prevedibile e persistenti cloud i carichi di lavoro. 
+Con le prenotazioni di Azure e le sottoscrizioni di server (Windows Server e sottoscrizioni SQL Server), i partner del programma CSP possono risolvere meglio la richiesta dei clienti in rapida crescita per soluzioni più convenienti per supportare il supporto estremamente prevedibile e persistente carichi di lavoro cloud. 
 
-È ora possibile acquisire, effettuare il provisioning e gestire le prenotazioni di Azure e le sottoscrizioni Server per conto dei clienti commerciali tramite Centro per i Partner e il portale di Azure sfruttando il vantaggio Azure Hybrid. 
+È ora possibile acquisire, effettuare il provisioning e gestire le prenotazioni di Azure e le sottoscrizioni server per conto dei clienti commerciali tramite il centro per i partner e il portale di Azure sfruttando il Vantaggio Azure Hybrid. 
 
-Vantaggio Azure Hybrid ti consente di ottenere più valore dalle licenze di Windows Server e risparmiare fino al 40% sulle macchine virtuali. Puoi utilizzare il vantaggio con Windows Server Datacenter e licenze Standard Edition con copertura Software Assurance. A seconda dell'edizione, è possibile convertire o riutilizzare le tue licenze per eseguire macchine virtuali Windows Server in Azure e pagare una tariffa di calcolo di base inferiore (macchina virtuale Linux di classificazione, ad esempio).
+Vantaggio Azure Hybrid ti consente di ottenere più valore dalle licenze di Windows Server e risparmiare fino al 40% sulle macchine virtuali. Puoi utilizzare il vantaggio con Windows Server Datacenter e licenze Standard Edition con copertura Software Assurance. A seconda dell'edizione, è possibile convertire o riutilizzare le licenze per eseguire macchine virtuali Windows Server in Azure e pagare una tariffa di calcolo di base inferiore (tariffe delle macchine virtuali Linux, ad esempio).
 
 > [!NOTE]  
-> Le prenotazioni di Azure non sono disponibili nei mercati di seguenti:  
+> Le prenotazioni di Azure non sono disponibili nei mercati seguenti:  
 > * Argentina
 > * Brasile
 > * Cina
 > * Indonesia
 > * Liechtenstein
+> * Jersey
 > * Malaysia
 > * Messico
 > * Russia
@@ -42,14 +43,14 @@ Vantaggio Azure Hybrid ti consente di ottenere più valore dalle licenze di Wind
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Acquistare sottoscrizioni di software per conto dei clienti
 
-Per acquistare sottoscrizioni di software per conto di un cliente, Vai alla pagina dei dettagli del cliente, seleziona **aggiungere prodotti**e quindi seguire sullo schermo le istruzioni per creare e pagare per il tuo ordine. Tutti i prezzi sono commerciale esclude tax fatta eccezione per Australia e Brasile. Per l'Australia e Brasile, il prezzo comprende l'imposta.
+Per acquistare sottoscrizioni software per conto di un cliente, passare alla pagina dei dettagli del cliente, selezionare **Aggiungi prodotti**e quindi seguire le istruzioni visualizzate per creare e pagare l'ordine. Tutti i prezzi commerciali escludono le imposte ad eccezione dell'Australia e del Brasile. Per l'Australia e il Brasile, il prezzo include le imposte.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Attivare e gestire sottoscrizioni di software
 
-Dopo aver acquistato la sottoscrizione di software, seguire i passaggi seguenti per scaricarlo.
+Dopo aver acquistato l'abbonamento software, attenersi alla procedura seguente per scaricarlo.
 
 >[!NOTE]
->È necessario essere un agente di amministrazione per scaricare software e ottenere le chiavi di attivazione.
+>È necessario essere un agente di amministrazione per scaricare il software e ottenere le chiavi di attivazione.
 
 1. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Vedrai un elenco di tutti i software che hai acquistato per conto del cliente. 
 2.  Espandi il prodotto che desideri scaricare. Nel campo **Selezionare prodotto** seleziona la **versione**, la **lingua** e il **tipo di file/sistema operativo** che desideri. 
@@ -60,23 +61,23 @@ Dopo aver acquistato la sottoscrizione di software, seguire i passaggi seguenti 
 >[!NOTE]
 >Questo collegamento scadrà dopo due settimane o download 50, a seconda dell'evento che si verificherà per primo. Una volta scaduto il collegamento, torna a questa pagina e seleziona **Scarica chiavi e download** nuovamente per consentire altre due settimane o 50 download. Puoi eseguire questa operazione ogni volta che ne avrai bisogno. 
 
-## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visualizza attività per l'accesso alla chiave software e di download del software
-Per motivi di controllo o conformità, potrebbe essere necessario controllare un elenco di utenti che sono accessibili le chiavi del software di sottoscrizione Server o scaricato il software di sottoscrizione Server. Usare la procedura seguente per accedere a queste informazioni. 
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visualizzare l'attività per l'accesso alla chiave software e i download del software
+A scopo di controllo o di conformità, potrebbe essere necessario controllare un elenco di utenti che hanno eseguito l'accesso alle chiavi software di sottoscrizione server o al software di sottoscrizione server scaricato. Per accedere a queste informazioni, attenersi alla procedura riportata di seguito. 
 
 >[!NOTE]
->È necessario essere un amministratore globale, amministratore dell'Account, riferimento amministratore o amministratore contenuto Marketing per visualizzare questi log attività. 
+>Per visualizzare questi log attività, è necessario essere un amministratore globale, un amministratore dell'account, un amministratore di riferimento o un amministratore di contenuti di marketing. 
 
-1.  Nel centro per i Partner, selezionare l'icona a forma di ingranaggio nell'angolo in alto a destra. 
-2.  Nel menu, selezionare **log attività**.
-3.  Immettere l'intervallo di date per l'attività di cui che si desidera visualizzare. Il log attività verrà visualizzato un elenco di utenti che sono accessibili le chiavi del software o scaricata software durante il periodo specificato. 
+1.  In centro per i partner selezionare l'icona dell'ingranaggio nell'angolo superiore destro. 
+2.  Nel menu selezionare **log attività**.
+3.  Immettere l'intervallo di date per l'attività che si desidera visualizzare. Nel log attività viene visualizzato un elenco di utenti che hanno eseguito l'accesso alle chiavi software o hanno scaricato il software nel periodo specificato. 
 
 ## <a name="cancel-a-purchase"></a>Annullare un acquisto
 
-È possibile annullare un acquisto di software entro 60 giorni dalla data di acquisto. Microsoft non prevede un addebito un costo per la risoluzione, tuttavia, non è possibile annullare un acquisto dopo 60 giorni dalla data di acquisto.
+È possibile annullare l'acquisto di un software entro 60 giorni dalla data di acquisto. Microsoft non addebita un costo di terminazione anticipato, tuttavia, non è possibile annullare l'acquisto dopo 60 giorni dalla data di acquisto.
 
-Dopo aver annullato l'acquisto, verrà revocata la chiave software. 
+Dopo aver annullato l'acquisto, la chiave software verrà revocata. 
 
-Attenersi alla procedura seguente per annullare l'acquisto:
+Per annullare un acquisto, attenersi alla procedura seguente:
 
 >[!NOTE]
 >Gli acquisti possono essere annullati solo dagli agenti amministratori. 
@@ -87,9 +88,9 @@ Attenersi alla procedura seguente per annullare l'acquisto:
     -   Motivo del rimborso
     -   Importo richiesto
 
-2.  Nella pagina dei dettagli del cliente, selezionare **Software** per visualizzare l'elenco di tutto il software è stata acquistata per il cliente. 
+2.  Nella pagina dei dettagli del cliente selezionare **software** per visualizzare l'elenco di tutto il software acquistato per il cliente. 
 
-3.  Individuare il software che si desidera annullare e quindi selezionare **annullare**. Viene visualizzata la pagina **Segnalare un problema con il Centro per i partner**. 
+3.  Individuare il software che si desidera annullare e quindi selezionare **Annulla**. Viene visualizzata la pagina **Segnalare un problema con il Centro per i partner**. 
 
 4.  In **Dettagli**, nell'elenco **Tipo di problema**, seleziona **CSP Purchase/Refund on behalf of customers**.
 

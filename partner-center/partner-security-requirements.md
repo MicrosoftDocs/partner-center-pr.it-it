@@ -1,138 +1,161 @@
 ---
 title: Requisiti di sicurezza dei partner | Centro per i partner
 ms.topic: article
-ms.date: 06/25/2019
-description: Informazioni sui requisiti di sicurezza per i consulenti e partner la partecipazione al programma Cloud Solution Provider.
+ms.date: 07/18/2019
+description: Informazioni sui requisiti di sicurezza per gli Advisor e i partner che partecipano al programma Cloud Solution Provider.
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, Cloud Solution Provider, Provider di soluzioni Cloud di programma, CSP, fornitore del Pannello di controllo, CPV, multi-factor authentication, MFA, proteggere il modello di applicazione, modello di app protette, sicurezza
+keywords: Azure Active Directory, provider di soluzioni cloud, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, multi-factor authentication, autenticazione a più fattori, modello di applicazione sicura, modello di applicazione sicura, sicurezza
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f513b96619819cd6ba892625e47731170d22130
-ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.openlocfilehash: 0ce8a8dd5a58d1647c8d9e53dec0d0bbf7fe6592
+ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "67549531"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "68313929"
 ---
-# <a name="partner-security-requirements"></a>Requisiti di sicurezza di partner
+# <a name="partner-security-requirements"></a>Requisiti di sicurezza dei partner
 
 **Si applica a**
 
-- Tutti i partner del programma Cloud Solution Provider
-  - Bill diretto
-  - Provider indiretti
+- Tutti i partner nel programma Cloud Solution Provider
+  - Fatturazione diretta
+  - Provider indiretto
   - Rivenditore indiretto
-- Tutti i fornitori di Pannello di controllo
-- Tutti i consulenti
+- Tutti i fornitori del pannello di controllo
+- Tutti gli Advisor
 
-Sicurezza e privacy dei clienti e partner sono le attività più importanti per Microsoft. Si continua a visualizzare un numero crescente di più sofisticati attacchi alla sicurezza, riguardanti principalmente le identità compromesse. Come controlli preventivi svolgono un ruolo fondamentale in una strategia globale di difesa per contrastare attacchi alla sicurezza, si inizierà l'applicazione di un set di requisiti di sicurezza obbligatori per proteggere i clienti e partner.
+Sono tra le priorità più importanti le misure di sicurezza e la protezione della privacy. Sappiamo che la migliore difesa è la prevenzione e che siamo soliti come il nostro collegamento più debole. Questo è il motivo per cui è necessario che tutti gli utenti nell'ecosistema agiscano e garantiscano che siano disponibili protezioni di sicurezza appropriate. Per contribuire alla protezione di partner e clienti, viene introdotto un set di requisiti di sicurezza obbligatori per gli Advisor, i fornitori del pannello di controllo e i partner che partecipano al programma Cloud Solution Provider.
+
+A partire dal 1 ° agosto 2019 tutti i partner devono applicare l'autenticazione a più fattori per tutti gli utenti, inclusi gli account del servizio, nel tenant partner.
 
 > [!NOTE]
-> È consigliabile che tutti i partner vincolante tramite (21Vianet, US Government e Germania) con cloud sovrano agiscano e adottano immediatamente questi nuovi requisiti di sicurezza. Tuttavia, questi partner non sono richiesti per soddisfare i nuovi requisiti di sicurezza efficaci 1 agosto 2019. Microsoft invierà altri dettagli riguardanti l'imposizione di questi requisiti di sicurezza per cloud sovrani in futuro.
+> Si consiglia vivamente che tutti i partner che trasformano attraverso un cloud sovrano (21Vianet, US Government e Germania) agiscano e adottino immediatamente questi nuovi requisiti di sicurezza. Tuttavia, questi partner non devono soddisfare i nuovi requisiti di sicurezza a partire dall'1 agosto 2019. Microsoft fornirà ulteriori dettagli sull'applicazione di questi requisiti di sicurezza per i cloud sovrani in futuro.
 
-## <a name="overview-of-the-requirements"></a>Panoramica dei requisiti
+I termini associati ai requisiti di sicurezza dei partner sono stati aggiunti alla [Guida del programma Cloud Solution Provider](https://go.microsoft.com/fwlink/p/?LinkId=617100). A partire dal 1 ° agosto 2019 tutti i partner che partecipano al programma Cloud Solution Provider devono essere conformi alle condizioni. In relazione agli Advisor, saranno presenti gli stessi requisiti contrattuali.
 
-Tutti i partner che fanno parte il programma Cloud Solution Provider, i fornitori di Pannello di controllo e partner di Advisor sono necessari per applicare multi-Factor Authentication (MFA) per ogni utente, inclusi gli account del servizio, i tenant del partner. Questa operazione può essere eseguita abilitando due [i criteri di base di Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). I criteri di base sono un set di criteri predefiniti che consentono di proteggere da attacchi comuni molte organizzazioni. Questi attacchi comuni possono includere phishing, riproduzione e spray password. I criteri di base sono disponibili in tutte le edizioni di Azure Active Directory. Microsoft sta rendendo questi criteri di protezione della linea di base disponibili per tutti gli utenti per consentire ai clienti e partner di implementare procedure di sicurezza di alto livello in.
+I partner che non implementano i requisiti di sicurezza obbligatori non saranno in grado di eseguire transazioni nel programma Cloud Solution Provider o gestire i tenant dei clienti sfruttando i diritti di amministratore delegato, una volta applicati tali requisiti. È in corso il processo di creazione di una data di applicazione tecnica per i requisiti e invierà una notifica ai partner della data con informazioni dettagliate.
 
-I criteri di due della linea di base che devono essere abilitati sono descritti nella tabella seguente.
+## <a name="what-actions-do-i-need-to-take"></a>Quali azioni è necessario eseguire?
 
-|**Criterio**| |
-|-----|-----|
-|**Richiedere l'autenticazione MFA per gli amministratori**|Abilita autenticazione a più fattori richiedono per criteri di gruppo admins, verrà richiesto agli utenti nei ruoli di amministratore di effettuare la registrazione per MFA usando l'App Authenticator. Dopo aver completata la registrazione MFA, gli amministratori dovranno eseguire l'autenticazione a più fattori ogni volta Accedi.|
-|**Protezione dell'utente finale**|Protezione dell'utente finale è un criterio della linea di base MFA basato sul rischio che protegge tutti gli utenti in una directory. Abilita questo criterio richiede tutti gli utenti di effettuare la registrazione per MFA usando l'App Authenticator. Gli utenti possono ignorare la richiesta di registrazione MFA per 14 giorni, dopodiché verranno bloccati dall'accesso fino a quando non si registrano per MFA. Una volta registrato per MFA, verranno richiesto agli utenti per MFA solo durante i tentativi di accesso rischiosi. Account utente compromessi vengono bloccate finché non viene reimpostata la password e gli eventi di rischio sono stati ignorati.|
+Data la natura altamente privilegiata di essere un partner, dobbiamo garantire che ogni utente abbia una richiesta di autenticazione a più fattori per ogni singola autenticazione. Questa operazione può essere eseguita in uno dei modi seguenti:
 
-Quando questi criteri sono abilitati, ogni utente sarà in grado di usare Azure MFA senza costi aggiuntivi. Se si usa una soluzione di terze parti, quindi è necessario imporre l'autenticazione MFA per ogni utente quando si accede a servizi cloud commerciale Microsoft.
+- Implementazione di Azure AD Premium e assicurare che l'autenticazione a più fattori venga applicata per ogni utente
+- Implementazione dei [criteri di protezione di base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)
+- Implementazione di una soluzione di terze parti e assicurare l'applicazione dell'autenticazione a più fattori per ogni utente
 
 > [!IMPORTANT]
-> Poiché l'autenticazione a più fattori verranno applicati a tutti gli utenti della directory dei partner, ci sarà un impatto per qualsiasi automazione o l'integrazione che utilizza le credenziali dell'utente. Per risolvere tale impatto, dovrai modificare il modo in cui che l'automazione o l'integrazione si connette a servizi cloud commerciali di Microsoft. Se il servizio si è connessi supporta l'autenticazione basata su token, quindi è consigliabile implementare il [framework di modello di applicazione Secure](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).
-
-## <a name="what-actions-do-i-need-to-take"></a>Quali azioni è necessario eseguire? 
-
-Per garantire che gli utenti nel tenant del partner sono protette, è necessario imporre l'autenticazione MFA per ogni utente (inclusi gli account del servizio). Questa operazione può essere eseguita abilitando il [Richiedi autenticazione a più fattori per gli amministratori](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) e [protezione degli utenti finali](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) i criteri di base. Prima di abilitare questi criteri, è importante comprendere le attività e le modalità in cui questi influiscono qualsiasi componente di automazione o l'integrazione e gli utenti.
-
-> [!NOTE]
-> [I criteri di base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) continuerà a evolversi nel tempo. È consigliabile rivedere periodicamente la documentazione per ulteriori informazioni sull'evoluzione dei criteri.
+> Una volta che questi requisiti vengono applicati tecnicamente ogni singola autenticazione deve avere una richiesta di autenticazione a più fattori. Non sarà possibile usare alcuna funzionalità di accesso condizionale per evitare l'autenticazione con l'autenticazione a più fattori quando si accede ai servizi cloud commerciali Microsoft.
 
 ### <a name="considerations"></a>Considerazioni
 
-Poiché i requisiti di sicurezza si applicano a tutti gli utenti in una directory dei partner, è necessario apportare per garantire una regolare distribuzione diverse considerazioni. Queste considerazioni includono l'identificazione degli utenti in Azure Active Directory che non è possibile o non devono eseguire MFA, nonché applicazioni e client usati dall'organizzazione che non supportano l'autenticazione moderna.
+Poiché questi requisiti si applicano a tutti gli utenti, inclusi gli account del servizio, nel tenant partner, è necessario tenere presenti diverse considerazioni per garantire una distribuzione uniforme. Queste considerazioni includono l'identificazione degli utenti in Azure AD che non possono eseguire l'autenticazione a più fattori, nonché le applicazioni e i dispositivi usati dall'organizzazione che non supportano l'autenticazione moderna.
 
-#### <a name="self-service-password-reset"></a>Reimpostazione autonoma della password
+Prima di eseguire qualsiasi azione, è consigliabile identificare gli elementi seguenti
 
-La reimpostazione della password self-service (SSPR) è una funzionalità di Azure Active Directory che consente ai dipendenti di reimpostare le password senza dover contattare il personale IT. I dipendenti devono registrare per o essere registrati per la prima di usare il servizio di reimpostazione della password self-service. Durante la registrazione, il dipendente sceglie uno o più metodi di autenticazione abilitati dall'organizzazione.
+#### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-mfa-when-authenticating"></a>Si dispone di un'applicazione o di un dispositivo che non supporta l'utilizzo dell'autenticazione a più fattori durante l'autenticazione?
 
-SSPR consente ai dipendenti di essere sbloccati rapidamente e continuare a funzionare indipendentemente dalla loro posizione o l'ora del giorno. Consentendo agli utenti di sbloccare autonomamente, l'organizzazione può ridurre il tempo non produttivo ed elevati costi di assistenza per problemi più comuni correlati alle password.
+Quando si applica l'autenticazione legacy a più fattori, usare protocolli quali IMAP, POP3, SMTP e così via verranno bloccati perché questi protocolli non supportano l'autenticazione a più fattori. Per risolvere questa limitazione, è possibile usare una funzionalità nota come [password di app](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) per assicurarsi che l'applicazione o il dispositivo possa ancora eseguire l'autenticazione. Esaminare le considerazioni per l'uso delle password di app documentate [qui](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) per determinare se è possibile usarle nell'ambiente in uso.
 
-Quando la [protezione degli utenti finali](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) della linea di base i criteri sono abilitati tutti gli account utente compromessi verranno bloccati fino a quando non viene reimpostata la password e gli eventi di rischio sono stati ignorati. Considerando questo è consigliabile che ogni utente, che è un amministratore globale, seguire questa procedura per registrare per SSPR
+#### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Esistono criteri che impediscono agli utenti di usare i propri dispositivi mobili durante il lavoro?
 
-1. Individuare il [pagina di installazione di SSPR](https://aka.ms/ssprsetup)
-2. Immettere il nome utente e password
-3. Configurare almeno una delle opzioni verifiche che verranno usate per verificare l'identità dell'utente durante la reimpostazione della password.  
+È importante identificare qualsiasi criterio aziendale che impedisce ai dipendenti di usare i dispositivi mobili mentre funziona perché influenzerà la soluzione multi-factor authentication implementata. Sono disponibili soluzioni di autenticazione a più fattori, ad esempio quella fornita tramite l'implementazione dei [criteri di base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection), che consentono solo l'uso di un'app di autenticazione per la verifica. Nel caso in cui l'organizzazione abbia un criterio che impedisca l'uso dei dispositivi mobili, è necessario esaminare l'acquisto [Azure ad Premium](https://azure.microsoft.com/pricing/details/active-directory/) per gli utenti interessati oppure è possibile implementare una soluzione di terze parti che fornisca la verifica più appropriata opzione.
 
-Quando è stato compromesso un account amministratore dovrà intervenire per ripristinare l'accesso per l'utente interessato. Vedere le [passaggi per sbloccare un utente](#recovering-compromised-accounts) per informazioni dettagliate sul processo per sbloccare l'utente.
+#### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>Quale automazione o integrazione si ha per sfruttare le credenziali utente per l'autenticazione?
 
-#### <a name="legacy-protocols"></a>Protocolli legacy
+Poiché il requisito è quello di applicare l'autenticazione a più fattori per ogni utente, inclusi gli account del servizio, nella directory del partner, l'automazione o l'integrazione che sfrutta le credenziali utente per l'autenticazione avrà un effetto. È quindi importante identificare gli account usati in queste situazioni. Di seguito è riportato un elenco di esempi di applicazioni o servizi che devono essere considerati
 
-Protocolli di autenticazione legacy (IMAP, SMTP, POP3, e così via) usati dai client di posta elettronica per effettuare richieste di autenticazione. Questi protocolli non supportano l'autenticazione a più fattori. La maggior parte dei rischi di compromissione di account sono causata da cattivi attori esegue gli attacchi contro i protocolli legacy, il tentativo di ignorare MFA. Per garantire che è richiesta la MFA quando accedono a un account in una directory di partner e cattivi attori non sono in grado di ignorare MFA, questi requisiti di sicurezza blocca tutte le richieste di autenticazione per i protocolli legacy.
+- Pannello di controllo usato per il provisioning delle risorse per conto dei clienti
+- Integrazione con qualsiasi piattaforma utilizzata per la fatturazione (in relazione al programma CSP) e supporto dei clienti
+- Script di PowerShell che utilizzano i moduli AZ, AzureRM, Azure AD, MS online e così via
 
-### <a name="enabling-the-baseline-policies"></a>Abilitare i criteri di base
+L'elenco precedente non è completo. Pertanto, è importante eseguire una valutazione completa di qualsiasi applicazione o servizio nel proprio ambiente che sfrutti le credenziali utente per l'autenticazione. Per quanto riguarda il requisito per l'autenticazione a più fattori, è necessario implementare le linee guida nel [Framework del modello applicativo sicuro](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) laddove possibile. Di seguito sono riportate risorse aggiuntive che consentono di comprendere in che modo è possibile implementare il Framework del modello applicativo sicuro
 
-Vedere le [che implementa l'esercitazione di requisiti di sicurezza partner](tutorials/partner-security-requirements.yml) per un'esperienza guidata riguardanti l'implementazione di criteri di base.  
+- [Esempi .NET del centro](https://github.com/microsoft/partner-center-dotnet-samples) per i partner: questo repository GitHub contiene esempi, sviluppati con .NET, che dimostreranno come implementare il Framework del modello applicazione protetta.
+- [Esempi di Java](https://github.com/microsoft/partner-center-java-samples) per il centro per i partner: questo repository GitHub contiene esempi, sviluppati con Java, che dimostreranno come è possibile implementare il Framework del modello applicativo protetto.
+- [Centro per i partner PowerShell-modello di applicazione sicura](https://docs.microsoft.com/powershell/partnercenter/secure-app-model) : questo è un articolo che fornisce informazioni dettagliate su come implementare il Framework del modello di applicazione protetta usando PowerShell.
+- [Community del gruppo di linee guida sulla sicurezza del centro](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) per i partner: si tratta di una community online in cui è possibile ottenere informazioni sugli eventi imminenti e porre qualsiasi domanda.
 
-#### <a name="require-mfa-for-admins"></a>Richiedere l'autenticazione MFA per gli amministratori
+### <a name="enforcing-mfa-for-all-users"></a>Applicazione dell'autenticazione a più fattori per tutti gli utenti
 
-Il *Richiedi autenticazione a più fattori per l'amministrazione* criterio di base richiede MFA per i seguenti ruoli di directory, considerati i ruoli di Azure Active Directory con più privilegi:
+Questa sezione illustra come è possibile usare i [criteri di protezione di base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) per applicare l'autenticazione a più fattori per ogni utente, inclusi gli account del servizio, nel tenant partner. Se si prevede di usare Azure AD Premium, seguire i passaggi descritti [qui](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted).
+
+> [!NOTE]
+> Una soluzione di terze parti, compatibile con Azure AD, può essere usata per applicare l'autenticazione a più fattori per tutti gli utenti, inclusi gli account del servizio. Per informazioni dettagliate sulla modalità di implementazione della soluzione, vedere la documentazione del fornitore.
+
+I criteri di protezione di base sono un set di criteri predefiniti che consentono di proteggere le organizzazioni da molti attacchi comuni. Questi attacchi comuni possono includere spray, riproduzione e phishing delle password. I criteri di protezione di base sono disponibili in tutte le edizioni di Azure Active Directory. Microsoft sta rendendo disponibili i criteri di protezione di base a tutti per consentire a clienti e partner di implementare procedure di sicurezza ottimali.
+
+I due criteri di protezione di base che devono essere abilitati sono descritti nella tabella seguente.
+
+|**Criterio**| |
+|-----|-----|
+|**Richiedi autenticazione a più fattori per gli amministratori**|Se si Abilita il criterio Richiedi autenticazione a più fattori per gli amministratori, gli utenti nei ruoli di amministratore dovranno eseguire la registrazione per l'autenticazione a più fattori usando l'app Authenticator. Al termine della registrazione dell'autenticazione a più fattori, gli amministratori dovranno eseguire l'autenticazione a più fattori ogni volta che accedono.|
+|**Protezione dell'utente finale**|La protezione degli utenti finali è un criterio di protezione dell'autenticazione a più fattori basato sul rischio che protegge tutti gli utenti di una directory. Per abilitare questo criterio è necessario che tutti gli utenti eseguano la registrazione per l'autenticazione a più fattori usando l'app Authenticator Gli utenti possono ignorare la richiesta di registrazione dell'autenticazione a più fattori per 14 giorni, dopo i quali verrà impedito l'accesso fino alla registrazione per l'autenticazione a più fattori. Una volta registrati per l'autenticazione a più fattori, agli utenti verrà richiesto di eseguire l'autenticazione a più fattori solo durante i tentativi di accesso rischioso. Gli account utente compromessi vengono bloccati finché la password non viene reimpostata e gli eventi di rischio sono stati rilasciati.|
+
+Quando questi criteri sono abilitati, ogni utente sarà in grado di usare l'autenticazione a più fattori di Azure con l'app Authenticator per la verifica senza costi aggiuntivi.
+
+#### <a name="configure-self-service-password-reset"></a>Configurare la reimpostazione della password self-service
+
+La reimpostazione della password self-service (SSPR) è una funzionalità Azure Active Directory che consente agli utenti di reimpostare le password senza dover contattare il team di supporto. Prima di usare il servizio, gli utenti devono registrarsi per la reimpostazione della password self-service o essere registrati. Durante la registrazione, l'utente sceglie uno o più metodi di autenticazione abilitati dall'organizzazione.
+
+Quando il criterio di protezione della linea di base per la [protezione dell'utente finale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) è abilitato, gli account utente compromessi vengono bloccati finché la password non viene reimpostata e gli eventi di rischio sono stati rilasciati. Considerato questo, è consigliabile che ogni utente, che è un amministratore globale, esegua le operazioni seguenti per eseguire la registrazione per SSPR, in modo che non vengano bloccati.
+
+1. Passare alla [pagina di installazione di SSPR](https://aka.ms/ssprsetup)
+2. Immettere il nome utente e la password
+3. Configurare almeno una delle opzioni di verifica che verranno usate per verificare chi si sta reimpostando la password.  
+
+Quando un account è stato compromesso, un amministratore deve intervenire per ripristinare l'accesso per l'utente interessato. Per informazioni dettagliate sul processo di sblocco dell'utente, vedere la [procedura per sbloccare un utente](#recovering-compromised-accounts) .
+
+#### <a name="require-mfa-for-admins"></a>Richiedi autenticazione a più fattori per gli amministratori
+
+Per i criteri di base Richiedi autenticazione a più fattori *per gli amministratori* è necessaria l'autenticazione a più fattori per i ruoli della directory seguenti, considerati come i ruoli Azure Active Directory più privilegiati:
 
 - Amministratore globale
 - Amministratore di SharePoint
 - Amministratore di Exchange
 - Amministratore di accesso condizionale
 - Amministratore della sicurezza
-- Amministratore supporto tecnico o amministratore Password
+- Amministratore helpdesk/amministratore password
 - Amministratore fatturazione
 - Amministratore utenti
 
-Con l'abilitazione dell'autenticazione a più fattori richiedono per criteri di gruppo admins, i ruoli di nove amministratore precedente saranno necessario effettuare la registrazione per MFA usando l'App Authenticator. Dopo aver completata la registrazione MFA, gli amministratori dovranno eseguire autenticazione a più fattori ogni volta che accedi.
+Quando si Abilita il criterio Richiedi autenticazione a più fattori per gli amministratori, verranno richiesti i nove ruoli di amministratore precedenti per la registrazione per l'autenticazione a più fattori tramite l'app Authenticator. Una volta completata la registrazione dell'autenticazione a più fattori, gli amministratori dovranno eseguire l'autenticazione a più fattori ogni volta che accedono.
 
-Se l'organizzazione dispone di questi account in uso nel codice o gli script, è consigliabile sostituirli con [gestito identità](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
+Se l'organizzazione dispone di questi account in uso negli script o nel codice, è consigliabile sostituirli con [identità gestite](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
 
 Per abilitare questo criterio e proteggere gli amministratori:
 
-1. Accedi per il **portale di Azure** come un amministratore globale, amministratore della sicurezza o amministratore di accesso condizionale.
+1. Accedere al **portale di Azure** come amministratore globale, amministratore della sicurezza o amministratore dell'accesso condizionale.
 2. Passare a **Azure Active Directory** > **accesso condizionale**.
-3. Nell'elenco dei criteri, selezionare **criterio di base: Richiedere l'autenticazione MFA per gli amministratori**.
-4. Impostare **abilitare i criteri** al **Usa i criteri immediatamente**.
-5. Fare clic su **salvare**.
-
-    ![Richiedere l'autenticazione MFA per gli amministratori](images/security/baseline-policy-require-mfa-for-admins.png)
+3. Nell'elenco dei criteri selezionare **criteri di base: Richiedere l'autenticazione a più**fattori per gli amministratori.
+4. Impostare **Abilita criterio** per **usare immediatamente i criteri**.
+5. Fare clic su **Salva**.
 
 > [!WARNING]
-> Prima di abilitare questo criterio, assicurarsi che gli utenti non usano protocolli di autenticazione legacy. Vedere l'articolo [come: L'autenticazione legacy di blocco con Azure Active Directory con accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) per altre informazioni.
+> Prima di abilitare questo criterio, verificare che gli utenti non utilizzino protocolli di autenticazione legacy. Tramite l'implementazione di questa autenticazione legacy del criterio verrà bloccato.
 
 > [!IMPORTANT]
-> È presente un problema noto, che influisce sulla possibilità di connettersi a Exchange Online PowerShell con privilegi di amministratore delegati. Vedere le [Exchange Online PowerShell](#exchange-online-powershell) noto problema prima di abilitare questo criterio se si usa questo modulo di PowerShell.
+> Si è verificato un problema noto che influisca sulla possibilità di connettersi a Exchange Online PowerShell usando i privilegi amministrativi delegati. Vedere il problema noto di [Exchange Online PowerShell](#exchange-online-powershell) prima di abilitare questo criterio se si usa questo modulo di PowerShell.
 
 #### <a name="end-user-protection"></a>Protezione dell'utente finale
 
-Il criterio di base di protezione degli utenti finali protegge tutti gli utenti in una directory. Abilita questo criterio richiede tutti gli utenti di registrarsi per Azure MFA entro 14 giorni. Una volta registrato, verranno richiesto agli utenti per MFA solo durante i tentativi di accesso rischiosi. Account utente compromessi vengono bloccate finché non reimpostare e rischio licenziamento password.
+I criteri di base per la protezione dell'utente finale proteggono tutti gli utenti di una directory. Per abilitare questo criterio, tutti gli utenti possono registrarsi per l'autenticazione a più fattori di Azure entro 14 giorni. Una volta effettuata la registrazione, agli utenti verrà richiesto di eseguire l'autenticazione a più fattori solo durante i tentativi di accesso rischioso. Gli account utente compromessi vengono bloccati fino alla reimpostazione della password e al rischio.
 
-I criteri **criterio di base: Protezione dell'utente finale** è preconfigurata e verrà visualizzata nella parte superiore quando si passa al pannello di accesso condizionale nel portale di Azure.
+Criteri di **base dei criteri: La protezione** dell'utente finale è preconfigurata e verrà visualizzata nella parte superiore quando si passa al pannello accesso condizionale in portale di Azure.
 
 Per abilitare questo criterio e proteggere gli utenti:
 
-1. Accedi per il **portale di Azure** come un amministratore globale, amministratore della sicurezza o amministratore di accesso condizionale.
+1. Accedere al **portale di Azure** come amministratore globale, amministratore della sicurezza o amministratore dell'accesso condizionale.
 2. Passare a **Azure Active Directory** > **accesso condizionale**.
-3. Nell'elenco dei criteri, selezionare **criterio di base: Protezione dell'utente finale (anteprima)** .
-4. Impostare **abilitare i criteri** al **Usa i criteri immediatamente**.
-5. Fare clic su **salvare**.
-
-    ![Protezione dell'utente finale](images/security/baseline-policy-end-user-protection.png)
+3. Nell'elenco dei criteri selezionare **criteri di base: Protezione dell'utente finale (anteprima**).
+4. Impostare **Abilita criterio** per **usare immediatamente i criteri**.
+5. Fare clic su **Salva**.
 
 > [!WARNING]
-> Prima di abilitare questo criterio, assicurarsi che gli utenti non usano protocolli di autenticazione legacy. Vedere l'articolo [come: L'autenticazione legacy di blocco con Azure Active Directory con accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) per altre informazioni.
+> Prima di abilitare questo criterio, verificare che gli utenti non utilizzino protocolli di autenticazione legacy. Tramite l'implementazione di questa autenticazione legacy del criterio verrà bloccato.
 
 > [!IMPORTANT]
-> È presente un problemi noti, che influisce sulla possibilità di connettersi a Exchange Online PowerShell con privilegi di amministratore delegati. Vedere le [Exchange Online PowerShell](#exchange-online-powershell) noto problema prima di abilitare questo criterio se si usa questo modulo di PowerShell.
+> Si sono verificati problemi noti che influiscano sulla possibilità di connettersi a Exchange Online PowerShell usando privilegi amministrativi delegati. Vedere il problema noto di [Exchange Online PowerShell](#exchange-online-powershell) prima di abilitare questo criterio se si usa questo modulo di PowerShell.
 
 ## <a name="common-issues"></a>Problemi comuni
 
@@ -140,56 +163,49 @@ Per abilitare questo criterio e proteggere gli utenti:
 
 #### <a name="aadsts50076"></a>AADSTS50076
 
-Dopo aver abilitato i criteri di base, si noterà che l'automazione o l'integrazione sta riscontrando un'eccezione simile alla seguente
+Dopo aver abilitato i criteri di base, è possibile che l'automazione o l'integrazione stia riscontrando un'eccezione simile alla seguente:
 
     AADSTS50076: Due to a configuration change made by your administrator, or because you moved to a new location, you must use multi-factor authentication to access 'MyApp'.
 
-Il motivo di questa eccezione è che si esegue l'autenticazione usando le credenziali dell'utente e autenticazione a più fattori è ora obbligatorio. Per risolvere questa eccezione, è necessario usare un token di accesso per l'autenticazione. Vedere le [Guida per proteggere modello applicativo](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) per altre informazioni.
+Il motivo di questa eccezione è che si esegue l'autenticazione usando le credenziali utente ed è ora necessaria l'autenticazione a più fattori. Per risolvere questa eccezione, sarà necessario usare un token di accesso per l'autenticazione. Per ulteriori informazioni, vedere la [Guida del modello di applicazione protetta](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) .
 
 >[!IMPORTANT]
->I moduli di PowerShell e API più recenti supportano la possibilità di usare un token di accesso per l'autenticazione. Tuttavia, esistono alcune che attualmente non supportano questa funzionalità. Se è necessario determinare se il modulo di PowerShell o API che si desidera sfruttare supporta l'utilizzo di un token di accesso per l'autenticazione, quindi inviare un messaggio sul [gruppo di Partner Center sicurezza indicazioni](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) della community.
+>La maggior parte delle API moderne e dei moduli di PowerShell supporta la possibilità di usare un token di accesso per l'autenticazione. Tuttavia, esistono alcuni che attualmente non supportano questa funzionalità. Se è necessario contribuire a determinare se l'API o il modulo di PowerShell che si sta tentando di utilizzare supporta l'utilizzo di un token di accesso per l'autenticazione, pubblicare un messaggio nella community del [gruppo di linee guida sulla sicurezza del centro](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) per i partner.
 
 #### <a name="aadsts700082"></a>AADSTS700082
 
-Dopo aver implementato il framework Secure modello applicativo è probabile si riceverà l'eccezione seguente 90 giorni dopo la generazione del token di aggiornamento iniziale
+Una volta implementato il Framework del modello applicazione protetta, è possibile che venga visualizzata l'eccezione seguente 90 giorni dopo la generazione del token di aggiornamento iniziale.
 
     The refresh token has expired due to inactivity. The token was issued on 2019-01-02T09:19:53.5422744Z and was inactive for 90.00:00:00
 
-Per quanto riguarda Azure Active Directory la durata massima per un aggiornamento di token è 90 giorni. Per risolvere questo errore, è necessario generare e archiviare in modo sicuro un nuovo token di aggiornamento. Si noti che è possibile aggiornare il token di aggiornamento a livello di codice perché, con ogni richiesta per Azure Active Directory per un token di accesso viene restituito un nuovo token di aggiornamento. È possibile implementare la logica appropriata per aggiornare il token di aggiornamento archiviato in modalità protetta prima della scadenza.
+Per quanto riguarda Azure Active Directory la durata massima di un token di aggiornamento è di 90 giorni. Per risolvere questo errore, è necessario generare e archiviare in modo sicuro un nuovo token di aggiornamento. Si noti che è possibile aggiornare il token di aggiornamento a livello di codice perché, a ogni richiesta Azure Active Directory per un token di accesso, viene restituito un nuovo token di aggiornamento. È possibile implementare la logica appropriata per aggiornare il token di aggiornamento archiviato in modo sicuro prima della scadenza.
 
-Visualizzare [durata dei token configurabili in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) per altre informazioni.
+Per ulteriori informazioni, vedere la [durata dei token configurabile in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) .
 
-### <a name="recovering-compromised-accounts"></a>Il ripristino di account compromessi
+### <a name="recovering-compromised-accounts"></a>Ripristino di account compromessi
 
-Per proteggere i clienti, il servizio credenziali perse di Microsoft consente di trovare coppie di nome utente/password disponibile pubblicamente. Se uno dei nostri utenti corrispondono, contribuiamo alla protezione immediatamente tale account. Gli utenti identificati come avente una credenziale persa vengono confermati compromesso. Questi utenti non potranno accedere fino a quando non viene reimpostato la propria password.
+Per garantire la protezione dei clienti, il servizio di credenziali perse trova le coppie nome utente/password disponibili pubblicamente. Se corrispondono a uno degli utenti, Microsoft contribuisce a proteggere immediatamente l'account. Gli utenti identificati con una credenziale persa vengono confermati compromessi. A questi utenti verrà impedito l'accesso fino alla reimpostazione della password.
 
-Gli utenti assegnati una licenza di Azure AD Premium possono ripristinare l'accesso tramite la reimpostazione della password self-service (SSPR) se è abilitata la funzionalità nella propria directory. Gli utenti senza licenza premium che diventano bloccati devono contattare un amministratore per eseguire una reimpostazione manuale della password e chiudere l'evento di rischio utente contrassegnato.
+Gli utenti assegnati a una licenza Azure AD Premium possono ripristinare l'accesso tramite la reimpostazione della password self-service (SSPR) se la funzionalità è abilitata nella propria directory. Gli utenti senza una licenza Premium che viene bloccata devono contattare un amministratore per eseguire una reimpostazione manuale della password e ignorare l'evento di rischio utente contrassegnato.
 
-#### <a name="steps-to-unblock-a-user"></a>Procedura per sbloccare un utente
+#### <a name="steps-to-unblock-a-user"></a>Passaggi per sbloccare un utente
 
-Verificare che l'utente è stata bloccata dai criteri, esaminare i log di accesso dell'utente.
+Verificare che l'utente sia stato bloccato dal criterio esaminando i log di accesso dell'utente.
 
-1. Un amministratore deve eseguire l'accesso per il **portale di Azure** e passare alla **Azure Active Directory** > **utenti** > fare clic sul nome dell'utente e passare agli accessi.
-2. Per avviare la reimpostazione su un utente bloccato della password, un amministratore deve passare a **Azure Active Directory** > **utenti contrassegnati per il rischio**
-3. Fare clic sull'utente il cui account viene bloccato per visualizzare informazioni sull'attività dell'utente recente accesso.
-4. Fare clic su Reimposta Password per assegnare una password temporanea che deve essere modificata dall'account di accesso successivo.
-5. Fare clic su Elimina tutti gli eventi per reimpostare il punteggio di rischio dell'utente.
+1. Un amministratore deve accedere al **portale di Azure** e passare a **Azure Active Directory** > **utenti** > fare clic sul nome dell'utente e passare ad accessi.
+2. Per avviare la reimpostazione della password per un utente bloccato, un amministratore deve passare a **Azure Active Directory** > **utenti contrassegnati per il rischio**
+3. Fare clic sull'utente il cui account è bloccato per visualizzare le informazioni sull'attività di accesso recente dell'utente.
+4. Fare clic su Reimposta password per assegnare una password temporanea che deve essere modificata al successivo accesso.
+5. Fare clic su Ignora tutti gli eventi per reimpostare il Punteggio di rischio dell'utente.
 
-L'utente può accedere a questo punto, reimpostare la password e accedere all'applicazione.
+L'utente può ora accedere, reimpostare la password e accedere all'applicazione.
 
 ## <a name="known-issues"></a>Problemi noti
 
-### <a name="exchange-online-powershell"></a>Exchange Online PowerShell
+### <a name="exchange-online-powershell"></a>PowerShell per Exchange Online
 
-Quando è abilitata MFA partner non sarà in grado di utilizzare i privilegi di amministratore delegati con Exchange Online PowerShell per eseguire azioni su ai clienti. Visualizzare [connettersi a Exchange Online PowerShell multi-factor Authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) per altre informazioni su questa limitazione.
+Quando l'autenticazione a più fattori è abilitata, i partner non saranno in grado di usare i propri privilegi amministrativi delegati con Exchange Online PowerShell per eseguire azioni contro i clienti. Per altre informazioni su questa limitazione, vedere [connettersi a Exchange Online PowerShell usando l'autenticazione a più fattori](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) .
 
 ## <a name="resources-and-support"></a>Risorse e supporto
 
-Tramite il [community di Partner Center sicurezza indicazioni gruppo](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) puoi verrà trovare risorse aggiuntive e informazioni sugli eventi imminenti, ad esempio orario di ufficio tecnici. Vedere le [domande frequenti](http://assetsprod.microsoft.com/security-requirements-faq.pdf) per altre informazioni sui requisiti.
-
-### <a name="developers"></a>Sviluppatori
-
-- [Abilitazione del modello applicativo sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [Esempi di .NET Centro per i partner](https://github.com/microsoft/partner-center-dotnet-samples)
-- [Esempi di Java Centro per i partner](https://github.com/microsoft/partner-center-java-samples)
-- [PowerShell di Centro per i partner che implementa il modello di applicazione Secure](https://docs.microsoft.com/powershell/partnercenter/secure-app-model)
+Attraverso la [community del gruppo di linee guida per la sicurezza di partner Center](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) è possibile trovare risorse aggiuntive e ottenere informazioni sugli eventi imminenti, ad esempio le ore di ufficio tecnico. Per ulteriori informazioni sui requisiti, vedere il documento [domande frequenti](http://assetsprod.microsoft.com/security-requirements-faq.pdf) .

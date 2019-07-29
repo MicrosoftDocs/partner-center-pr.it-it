@@ -3,6 +3,7 @@
 # [Adesione alla rete per i partner](mpn-overview.md)
 ## [Crea un account nel Centro per i partner](mpn-create-a-partner-center-account.md)
 ## [Come ottenere un indirizzo di posta elettronica aziendale](buy-email-domain.md)
+## [L'interfaccia di amministrazione partner si sposta nel Centro per i partner](pac-to-pc-overview.md)
 ## Passaggio dal Partner Membership Center al Centro per i partner
 ### [Preparazione per il passaggio dal Partner Membership Center al Centro per i partner](prepare-pmc-pc-migration.md)
 ### [Guida al passaggio dal Partner Membership Center al Centro per i partner](guide-to-migration.md)
@@ -123,6 +124,7 @@
 ### [Semplifica la configurazione dei dispositivi con Windows Autopilot](autopilot.md)
 ##  Aggiornare o trasferire offerte alle versioni più recenti
 ### [Aggiornare le sottoscrizioni di Dynamics AX a Dynamics 365](manual-subscription-migration.md)
+### [Eseguire la migrazione delle offerte di Dynamics 365 Business Edition a versioni più recenti](migrate-dynamics-365-to-new.md)
 ### [Eseguire la migrazione di sottoscrizioni di Office 365 Enterprise E4 alle nuove versioni di Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Eseguire la migrazione di Skype for Business Online piano 1 alle nuove versioni di Office 365](skype-retiring.md)
 ### [Trasferire le sottoscrizioni di Azure](switch-azure-subscriptions-to-a-different-partner.md)

@@ -107,6 +107,7 @@
 ### [Ridimensionamento della macchina virtuale per l'utilizzo massimo delle prenotazioni](azure-usage.md)
 ### [Acquistare prenotazioni di Microsoft Azure per conto dei clienti](azure-reservations-buying.md)
 ### [Gestire le prenotazioni di Microsoft Azure per conto dei clienti](azure-reservations-manage.md)
+### [Istanze di VM riservate di Azure e sottoscrizioni server](azure-ri-server-subscriptions.md)
 ## [Sottoscrizioni del software](csp-software-subscriptions.md)
 ## [Servizi online (sottoscrizioni)](customer-subscriptions.md)
 ### [Creare, sospendere o annullare le sottoscrizioni dei clienti](create-a-new-subscription.md)

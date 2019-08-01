@@ -1,18 +1,18 @@
 ---
 title: Istanze di macchina virtuale riservate di Azure (RI) + sottoscrizioni server per Azure | Centro per i partner
 ms.topic: article
-ms.date: 7/2/2019
+ms.date: 7/30/2019
 description: Attraverso l'introduzione di istanze riservate di Azure e sottoscrizioni server nel programma CSP, consentiamo ai nostri partner di far fronte alla richiesta in rapida crescita dei clienti di soluzioni più convenienti in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. Il programma CSP consente ai partner di acquisire, fornire e gestire sottoscrizioni server e istanze riservate di Azure per conto dei clienti commerciali tramite il Centro per i partner Microsoft e il portale di Azure.
 author: LauraBrenner
 ms.author: v-petand
-keywords: Azure, le sottoscrizioni, macchina virtuale, la prenotazione, istanze riservate
+keywords: Azure, sottoscrizioni, VM, prenotazione, istanza riservata
 ms.localizationpriority: medium
-ms.openlocfilehash: 17455913cbe6aef75cbea61ca26a979682a61147
-ms.sourcegitcommit: 1d5f3fbf9bb53bc7f42cefbbedb2d7f3f3bc66eb
+ms.openlocfilehash: 410762c5edbd05c2f6195421f225b17aeece4192
+ms.sourcegitcommit: c6090d5d4f99a33053079f683d07c969ac193c17
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "67509953"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "68670122"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -22,45 +22,46 @@ ms.locfileid: "67509953"
 
 - Centro per i partner
  
-## <a name="what-are-azure-reservations"></a>Quali sono le prenotazioni di Azure?
+## <a name="what-are-azure-reservations"></a>Che cosa sono le prenotazioni di Azure?
 
-Le prenotazioni di Azure consentono di risparmiare sui costi grazie al pagamento anticipato per un anno o tre anni e pertanto di macchina virtuale, Database SQL di calcolo della capacità, velocità effettiva di Azure Cosmos DB o altre risorse di Azure. Il pre-pagamento consente di ottenere uno sconto sulle risorse utilizzate. Le prenotazioni possono ridurre notevolmente i costi per macchina virtuale, calcolo del database SQL, Azure Cosmos DB e altre risorse fino al 72% rispetto ai prezzi del pagamento a consumo. Le prenotazioni forniscono un sconto sulla fatturazione e non interessano con lo stato di runtime delle risorse. Per altre informazioni vedere [quali sono le prenotazioni di Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+Le prenotazioni di Azure ti aiutano a risparmiare denaro pagando in anticipo per un anno o tre anni di macchine virtuali, capacità di calcolo del database SQL, velocità effettiva Azure Cosmos DB o altre risorse di Azure. Il pre-pagamento consente di ottenere uno sconto sulle risorse utilizzate. Le prenotazioni possono ridurre notevolmente i costi per macchina virtuale, calcolo del database SQL, Azure Cosmos DB e altre risorse fino al 72% rispetto ai prezzi del pagamento a consumo. Le prenotazioni forniscono uno sconto per la fatturazione e non influiscono sullo stato di runtime delle risorse. Per altre informazioni, vedere [che cosa sono le prenotazioni di Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>Perché i clienti devono acquistare una prenotazione?
 
-Se i clienti hanno macchine virtuali, Azure Cosmos DB o database SQL eseguiti per lunghi periodi di tempo, acquisto di una prenotazione concede l'opzione più conveniente. Ad esempio, se un cliente viene eseguito in modo continuo quattro istanze di un servizio senza una prenotazione, essi vengono addebitati in base alle tariffe con pagamento a consumo. Se si acquista una prenotazione per tali risorse, vengono immediatamente visualizzati lo sconto di prenotazione. Le risorse non verranno più addebitate le tariffe con pagamento a consumo.
+Se i clienti hanno macchine virtuali, Azure Cosmos DB o database SQL in esecuzione per lunghi periodi di tempo, l'acquisto di una prenotazione offre loro l'opzione più conveniente. Se, ad esempio, un cliente esegue continuamente quattro istanze di un servizio senza prenotazione, viene addebitata una tariffa con pagamento in base al consumo. Se acquistano una prenotazione per tali risorse, ricevono immediatamente lo sconto relativo alla prenotazione. Le risorse non vengono più addebitate in base alle tariffe con pagamento in base al consumo.
 
  
 ### <a name="compelling-new-azure-offer-in-csp"></a>Nuova straordinaria offerta di Azure in CSP 
 
-Unendo le prenotazioni di Azure e le sottoscrizioni Server per il programma CSP, Microsoft consente agli meglio i suoi partner al risolvere in rapida crescita delle esigenze dei clienti per le soluzioni più conveniente supportare carichi di lavoro cloud estremamente prevedibile e persistente. Il programma CSP consente ai partner di acquisire, effettuare il provisioning e gestire le sottoscrizioni Server e le prenotazioni di Azure per conto dei clienti commerciali tramite Microsoft Partner Center e portale di Azure. Le prenotazioni di Azure è offrire ai clienti la flessibilità della virtualizzazione per un'ampia gamma di soluzioni di calcolo, incluso lo sviluppo e test, esecuzione di applicazioni e l'estensione del data center. 
+Con le prenotazioni di Azure e le sottoscrizioni server al suo programma CSP, Microsoft è in grado di consentire ai partner di affrontare in modo più rapido la richiesta dei clienti per soluzioni più convenienti per supportare carichi di lavoro cloud persistenti e altamente prevedibili. Il programma CSP consente ai partner di acquisire, effettuare il provisioning e gestire le prenotazioni e le sottoscrizioni server per conto dei clienti commerciali tramite il centro per i partner Microsoft e il portale di Azure. Le prenotazioni di Azure offrono ai clienti la flessibilità della virtualizzazione per un'ampia gamma di soluzioni di calcolo, tra cui sviluppo e test, esecuzione di applicazioni ed estensione del data center. 
 
-Con [istanze di VM riservate di Azure](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/) , ad esempio, i clienti commerciali ora possono salvare fino al 72% rispetto a prezzi di macchine Virtuali di Azure con pagamento a consumo semplicemente da richiedere l'acquisto, o "prenotazione": la macchina virtuale per un periodo di 1 o 3 anni. I clienti di Windows Server con il Vantaggio Azure Hybrid, incluso con Software Assurance, saranno in grado di risparmiare fino all'80% rispetto ai prezzi con pagamento in base al consumo. 
+Con le [istanze di VM riservate di Azure](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/) , ad esempio, i clienti commerciali possono ora risparmiare fino al 72% rispetto ai prezzi di VM di Azure con pagamento in base al consumo semplicemente acquistando, o "riservando", la macchina virtuale per un periodo di 1 o 3 anni. I clienti di Windows Server con il Vantaggio Azure Hybrid, incluso con Software Assurance, saranno in grado di risparmiare fino all'80% rispetto ai prezzi con pagamento in base al consumo. 
 
-Con una combinazione non corrispondente di prezzi accattivanti e flessibilità di distribuzione non corrispondenti, i clienti visualizzeranno il miglior valore globale quando si scelgono le prenotazioni di Azure:
+Con una combinazione non corrispondente di prezzi interessanti e flessibilità di distribuzione non corrispondente, i clienti visualizzeranno il valore complessivo migliore quando scelgono prenotazioni di Azure:
 
 #### <a name="azure-reservations"></a>Prenotazioni di Azure
--   Istanze di macchina virtuale riservate di Azure
--   SQL DB prenotazioni
--   Istanza gestita di SQL
+-   Istanze di VM riservate di Azure
+-   Prenotazioni database SQL
+-   Istanza gestita SQL
 -   Azure Cosmos DB
 -   Azure SQL Data Warehouse
--   Servizi App
+-   Servizi app
+-   Prenotazioni unità Azure Databricks
 
 #### <a name="server-subscriptions"></a>Sottoscrizioni server
 -   Windows Server
--   CAL Servizi Desktop remoto (RDS) di Servizi Desktop remoto
+-   Licenze CAL Servizi Desktop remoto (RDS)
 -   SQL Server
 
-#### <a name="linux-isv-annual-subscriptions"></a>Sottoscrizioni annuali ISV di Linux
+#### <a name="linux-isv-annual-subscriptions"></a>Sottoscrizioni annuali per ISV Linux
 -   SUSE Linux
--   Red Hat Enterprise Linux
+-   Red Hat Enterprise Linux.
 -   Azure Red Hat OpenShift
 
 #### <a name="isv-annual-subscriptions"></a>Sottoscrizioni annuali ISV
--   Soluzione Azure di VMware da CloudSimple
+-   Soluzione VMware di Azure di CloudSimple
 
-## <a name="getting-started"></a>Attività iniziali
+## <a name="getting-started"></a>Introduzione
 
 Per comprendere come presentare le prenotazioni di Azure ai tuoi clienti e renderli operativi quanto prima, ti consigliamo di attenerti alle istruzioni seguenti:
 
@@ -76,46 +77,47 @@ Per comprendere come presentare le prenotazioni di Azure ai tuoi clienti e rende
 
 Di seguito è riportato un elenco completo delle risorse che ti consentiranno di prepararti rapidamente alla vendita di prenotazioni di Azure tramite il Centro per i partner: 
 
-**Vendite dello stato di preparazione**
+**Conformità vendite**
 
-- [Le prenotazioni di Azure e le sottoscrizioni Server con cenni preliminari sul vantaggio Azure Hybrid](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Prenotazioni di Azure e sottoscrizioni server con Vantaggio Azure Hybrid Panoramica](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
 - [Foglio illustrativo sulla vendita](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Partner domande frequenti per le prenotazioni di Azure](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Domande frequenti sui partner per le prenotazioni di Azure](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
 - [Domande frequenti di partner per le prenotazioni Azure e SQL DB](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [Remote Desktop Services (RDS) CAL Servizi Desktop remoto (annuncio)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
-- [Istanze di macchina virtuale riservate di Azure (portale di Azure)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [CAL Servizi Desktop remoto (RDS) (annuncio)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
+- [Istanze di VM riservate di Azure (portale di Azure)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 - [Sottoscrizioni server](https://docs.microsoft.com/en-us/partner-center/csp-software-subscriptions)
-- [Database SQL in panoramica di Azure](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [Prenotazioni di database SQL (portale di Azure)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-reserved-capacity)
+- [Panoramica di database SQL in Azure](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [Prenotazioni del database SQL (portale di Azure)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-reserved-capacity)
 - [Azure Cosmos DB (portale di Azure)](https://docs.microsoft.com/en-us/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [Istanza gestita di SQL (portale di Azure)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance)
+- [Istanza gestita SQL (portale di Azure)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance)
 - [SUSE e Red Hat Enterprise Linux (portale di Azure)](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Red Hat Linux in Azure](https://azure.com/redhat)
 - [SUSE Linux in Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/suse/)
 - [Linux in Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/)
 - [Panoramica sui prezzi di Azure](https://azure.microsoft.com/en-us/pricing/)
-- [Calcolatrice dei prezzi di Azure](https://azure.microsoft.com/en-us/pricing/calculator/)
-- Elenchi prezzi CSP:  Il **istanze riservate di Microsoft Azure** e **Software sottoscrizioni** listini prezzi sono disponibili nel centro per i Partner [prezzi e offerte](https://partner.microsoft.com/en-us/pcv/sales) pagina.
+- [Calcolatrice dei prezzi di Azure](https://azure.microsoft.com/en-us/pricing/calculator)
+- [Prenotazioni unità Azure Databricks](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- Elenchi prezzi CSP:  Le **istanze riservate Microsoft Azure** e i prezzi degli **abbonamenti software** sono entrambi disponibili nella pagina relativa ai [Prezzi &](https://partner.microsoft.com/en-us/pcv/sales) per il centro per i partner.
 
 
-**Corsi di formazione**
+**Training**
 
-- [Novembre 2018 commerciale licenze Readiness webinar](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcommercial-licensing.eventbuilder.com%2F%3Flandingpageid%3DV0Bx6L&data=02%7C01%7Cv-oumaki%40microsoft.com%7C96e24687952242e1ff0c08d62ada13f3%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636743513471330495&sdata=DjPAKnW%2BpVekRS3Zngy2uwAkTpU4z1O%2Fh56NuTOmCzM%3D&reserved=0) riguardante CSP Online Services, Azure CSP e un aggiornamento di gestione delle licenze generale (tra cui Azure)
-- [Database SQL di agosto riservata capacità e la flessibilità di dimensioni di istanza - Licensing Webinar](https://commercial-licensing.eventbuilder.com/view?eventid=d0t9g4)
-- [Sottoscrizioni Server luglio 2018 in CSP Webinar](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July)
-- [Webinar di panoramica di maggio 2018 le prenotazioni di Azure](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
-- [Modulo in Partner University della licenza di Azure](https://aka.ms/azure_partner_licensing)
+- [Novembre 2018 webinar sulla conformità per le licenze commerciali](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcommercial-licensing.eventbuilder.com%2F%3Flandingpageid%3DV0Bx6L&data=02%7C01%7Cv-oumaki%40microsoft.com%7C96e24687952242e1ff0c08d62ada13f3%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636743513471330495&sdata=DjPAKnW%2BpVekRS3Zngy2uwAkTpU4z1O%2Fh56NuTOmCzM%3D&reserved=0) che coprono i servizi online CSP, CSP Azure e un aggiornamento generale delle licenze (incluso Azure)
+- [Capacità riservata del database SQL di agosto & flessibilità delle dimensioni dell'istanza-webinar sulle licenze](https://commercial-licensing.eventbuilder.com/view?eventid=d0t9g4)
+- [Sottoscrizioni server di luglio 2018 nel webinar CSP](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July)
+- [Webinar sulla panoramica delle prenotazioni di Azure del 2018 maggio](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
+- [Modulo licenze di Azure nell'Università partner](https://aka.ms/azure_partner_licensing)
 
 **Operazioni**
 
-- [Guida operativa di e-Commerce moderne](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (aggiornato):  Una guida completa che copre gli aspetti operativi, ad esempio contratti e criteri di chiave di ordinamento tramite Centro per i Partner, fattura, i dettagli dell'elenco prezzi, incentivi, file di riconciliazione, API o il SDK, Sandbox e servizi condivisi Partner di Azure.
+- [Guida operativa moderna di Commerce](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (aggiornato):  Guida completa che illustra i criteri chiave e gli aspetti operativi, ad esempio i contratti, l'ordinamento tramite il centro per i partner, la fattura, i dettagli dell'elenco prezzi, gli incentivi, il file di riconciliazione, l'API/SDK, sandbox e i servizi condivisi del partner Azure.
 - [Disponibilità nel paese di offerte moderne e matrice di valuta cliente](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
-- [Vendi istanze riservate di Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=872806)
+- [Vendere Microsoft Azure istanze riservate](https://go.microsoft.com/fwlink/?linkid=872806)
 - [Acquistare prenotazioni di Microsoft Azure per conto dei clienti](https://go.microsoft.com/fwlink/?linkid=872807)
-- [Gestire le prenotazioni di Azure per conto dei clienti](https://go.microsoft.com/fwlink/?linkid=872808)
+- [Gestisci prenotazioni di Azure per conto dei tuoi clienti](https://go.microsoft.com/fwlink/?linkid=872808)
 - [Fatturazione per le prenotazioni di Azure](https://go.microsoft.com/fwlink/?linkid=872809)
 - [Ridimensionamento della macchina virtuale per l'utilizzo massimo delle prenotazioni](https://go.microsoft.com/fwlink/?linkid=872810)
-- [Partner Center API (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
+- [API del centro per i partner (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
 - [Servizi Desktop remoto](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Vantaggio Azure Hybrid
@@ -124,4 +126,4 @@ Di seguito è riportato un elenco completo delle risorse che ti consentiranno di
 
 Vedi anche [Domande frequenti sul Vantaggio Azure Hybrid](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
 
-\* I risparmi effettivi possono variare in base su utilizzo, tipo di istanza o area geografica.
+\* I risparmi effettivi possono variare in base all'area, al tipo di istanza o all'utilizzo.

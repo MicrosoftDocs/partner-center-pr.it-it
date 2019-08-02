@@ -33,6 +33,8 @@
 ## [Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto](transition-direct-to-indirect.md)
 ## [Contratti, listini prezzi e offerte per CSP](csp-documents-and-learning-resources.md)
 ## [Valute e mercati regionali CSP](regional-authorization-overview.md)
+## [Conferma dell'accettazione del cliente del contratto Microsoft Cloud](confirm-consent.md)
+## [Conferma dell'accettazione del cliente del contratto del cliente Microsoft (anteprima)](confirm-customer-agreement.md)
 
 
 ## [Richiesta per la vendita nei cloud nazionali](csp-national-clouds-overview.md)

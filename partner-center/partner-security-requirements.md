@@ -1,18 +1,18 @@
 ---
 title: Requisiti di sicurezza dei partner | Centro per i partner
 ms.topic: article
-ms.date: 07/18/2019
+ms.date: 08/05/2019
 description: Informazioni sui requisiti di sicurezza per gli Advisor e i partner che partecipano al programma Cloud Solution Provider.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, provider di soluzioni cloud, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, multi-factor authentication, autenticazione a più fattori, modello di applicazione sicura, modello di applicazione sicura, sicurezza
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ce8a8dd5a58d1647c8d9e53dec0d0bbf7fe6592
-ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+ms.openlocfilehash: 39081f42c326665bdc30bf25df302d9ae00d9723
+ms.sourcegitcommit: fe21430f96e203d279714623888224662d2782a2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "68313929"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68787253"
 ---
 # <a name="partner-security-requirements"></a>Requisiti di sicurezza dei partner
 
@@ -57,9 +57,22 @@ Prima di eseguire qualsiasi azione, è consigliabile identificare gli elementi s
 
 Quando si applica l'autenticazione legacy a più fattori, usare protocolli quali IMAP, POP3, SMTP e così via verranno bloccati perché questi protocolli non supportano l'autenticazione a più fattori. Per risolvere questa limitazione, è possibile usare una funzionalità nota come [password di app](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) per assicurarsi che l'applicazione o il dispositivo possa ancora eseguire l'autenticazione. Esaminare le considerazioni per l'uso delle password di app documentate [qui](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) per determinare se è possibile usarle nell'ambiente in uso.
 
+#### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Sono presenti utenti che usano Office 365 fornito dalle licenze associate al tenant partner?
+
+Prima di implementare qualsiasi soluzione, è consigliabile determinare perché la versione di Microsoft Office viene utilizzata dagli utenti nel tenant partner. Esaminare il [piano di autenticazione a più fattori per le distribuzioni di Office 365 prima di](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa) intraprendere qualsiasi azione. È possibile che gli utenti riscontrino problemi di connettività con applicazioni come Outlook. Prima di applicare l'autenticazione a più fattori, è importante assicurarsi che sia in uso Outlook 2013 SP1 o versione successiva e che nell'organizzazione sia abilitata l'autenticazione moderna. Per altre informazioni, vedere [abilitare l'autenticazione moderna in Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) .
+
+Per abilitare l'autenticazione moderna per tutti i dispositivi che eseguono Windows, in cui è installato Microsoft Office 2013, sarà necessario creare due chiavi del registro di sistema. Vedere [abilitare l'autenticazione moderna per Office 2013 nei dispositivi Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).
+
+> [!IMPORTANT]
+> Se gli utenti sono stati abilitati per Azure AD autenticazione a più fattori e hanno tutti i dispositivi che eseguono Office 2013 che non sono abilitati per l'autenticazione moderna, dovranno usare le password dell'app in tali dispositivi. Per altre informazioni sulle password dell'app e su quando, dove/come usarle, vedere: [Password di app con Azure Multifactor Authentication](https://go.microsoft.com/fwlink/p/?LinkId=528178).
+
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Esistono criteri che impediscono agli utenti di usare i propri dispositivi mobili durante il lavoro?
 
-È importante identificare qualsiasi criterio aziendale che impedisce ai dipendenti di usare i dispositivi mobili mentre funziona perché influenzerà la soluzione multi-factor authentication implementata. Sono disponibili soluzioni di autenticazione a più fattori, ad esempio quella fornita tramite l'implementazione dei [criteri di base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection), che consentono solo l'uso di un'app di autenticazione per la verifica. Nel caso in cui l'organizzazione abbia un criterio che impedisca l'uso dei dispositivi mobili, è necessario esaminare l'acquisto [Azure ad Premium](https://azure.microsoft.com/pricing/details/active-directory/) per gli utenti interessati oppure è possibile implementare una soluzione di terze parti che fornisca la verifica più appropriata opzione.
+È importante identificare qualsiasi criterio aziendale che impedisce ai dipendenti di usare i dispositivi mobili mentre funziona perché influenzerà la soluzione multi-factor authentication implementata. Sono disponibili soluzioni di autenticazione a più fattori, ad esempio quella fornita tramite l'implementazione dei [criteri di protezione di base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection), che consentono solo l'uso di un'app di autenticazione per la verifica. Nel caso in cui l'organizzazione abbia un criterio che impedisca l'uso dei dispositivi mobili, è necessario prendere in considerazione una delle opzioni seguenti
+
+- Distribuire un dispositivo Android virtualizzato in cui è possibile installare un'app Authenticator
+- Implementare una soluzione di terze parti che impone l'autenticazione a più fattori per ogni utente nel tenant partner che fornisce l'opzione di verifica più appropriata
+- Acquisto di licenze [Azure ad Premium](https://azure.microsoft.com/pricing/details/active-directory/) per gli utenti interessati
 
 #### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>Quale automazione o integrazione si ha per sfruttare le credenziali utente per l'autenticazione?
 
@@ -204,8 +217,31 @@ L'utente può ora accedere, reimpostare la password e accedere all'applicazione.
 
 ### <a name="exchange-online-powershell"></a>PowerShell per Exchange Online
 
-Quando l'autenticazione a più fattori è abilitata, i partner non saranno in grado di usare i propri privilegi amministrativi delegati con Exchange Online PowerShell per eseguire azioni contro i clienti. Per altre informazioni su questa limitazione, vedere [connettersi a Exchange Online PowerShell usando l'autenticazione a più fattori](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) .
+Quando l'autenticazione a più fattori è applicata ai partner, non sarà in grado di usare i propri privilegi amministrativi delegati con Exchange Online PowerShell per eseguire azioni contro i clienti. Per altre informazioni su questa limitazione, vedere [connettersi a Exchange Online PowerShell usando l'autenticazione a più fattori](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) .
+
+Per ovviare a questa limitazione, è possibile creare un nuovo account e non utilizzarlo mai per eseguire un'autenticazione interattiva. Si consiglia di utilizzare [Azure ad PowerShell](https://docs.microsoft.com/powershell/module/azuread/) per creare il nuovo account ed eseguire la configurazione iniziale. Il PowerShell seguente può essere usato per creare e configurare l'account
+
+```powershell
+Import-Module AzureAD
+Connect-AzureAD
+
+$PasswordProfile = New-Object -TypeName Microsoft.Open.AzureAD.Model.PasswordProfile
+
+$PasswordProfile.Password = "Password"
+$PasswordProfile.ForceChangePasswordNextLogin = $false
+
+$user = New-AzureADUser -DisplayName "New User" -PasswordProfile $PasswordProfile -UserPrincipalName "NewUser@contoso.com" -AccountEnabled $true
+
+# Uncomment the following two lines if you want the account to have Admin Agent privileges
+# $adminAgentsGroup = Get-AzureADGroup -Filter "DisplayName eq 'AdminAgents'"
+# Add-AzureADGroupMember -ObjectId $adminAgentsGroup.ObjectId -RefObjectId $user.ObjectId
+```
+
+Alla successiva connessione a Exchange Online tramite PowerShell usare questo account, che funzionerà come previsto.
+
+> [!IMPORTANT]
+> La possibilità per i partner di usare i propri privilegi amministrativi delegati con Exchange Online PowerShell per eseguire azioni ai clienti, quando l'autenticazione a più fattori viene applicata, sarà disponibile in futuro. Fino a quel momento, è consigliabile utilizzare questa soluzione.
 
 ## <a name="resources-and-support"></a>Risorse e supporto
 
-Attraverso la [community del gruppo di linee guida per la sicurezza di partner Center](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) è possibile trovare risorse aggiuntive e ottenere informazioni sugli eventi imminenti, ad esempio le ore di ufficio tecnico. Per ulteriori informazioni sui requisiti, vedere il documento [domande frequenti](http://assetsprod.microsoft.com/security-requirements-faq.pdf) .
+Attraverso la [community del gruppo di linee guida per la sicurezza di partner Center](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) è possibile trovare risorse aggiuntive e ottenere informazioni sugli eventi imminenti, ad esempio le ore di ufficio tecnico. Per ulteriori informazioni sui requisiti, vedere il documento [domande frequenti](partner-security-requirements-faq.md) .

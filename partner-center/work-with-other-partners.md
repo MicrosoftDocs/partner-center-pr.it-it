@@ -6,12 +6,12 @@ description: Collabora con altri partner in CSP per soddisfare le esigenze dei c
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c8fbd890ff6fe048ab2f9d7ca49bfd27946540f
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132961"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820539"
 ---
 # <a name="work-with-other-partners"></a>Collaborare con altri partner
 
@@ -52,4 +52,4 @@ La funzionalità multicanale del Centro per i partner supporta gli scenari in cu
 Il supporto multicanale è disponibile anche nelle offerte di cloud nazionali Microsoft.
 
 > [!IMPORTANT]  
-> Un partner del programma CSP non possa attualmente rivendi servizi di online a un altro partner del programma CSP. Microsoft esamina in modo continuativo i criteri e le funzionalità di tutti i programmi. Le novità sulle versioni delle funzionalità o modifiche ai criteri verranno annunciate tramite i canali di comunicazioni normali, tra cui [annunci Partner Center](https://partner.microsoft.com/en-us/pcv/announcements).
+> Un partner del programma CSP non è attualmente in grado di rivendere Servizi online a un altro partner del programma CSP. Microsoft esamina costantemente i criteri e le funzionalità di tutti i programmi. Eventuali notizie sulle versioni delle funzionalità o le modifiche ai criteri verranno annunciate tramite i normali canali di comunicazione, inclusi gli [annunci del centro](https://partner.microsoft.com/pcv/announcements)per i partner.

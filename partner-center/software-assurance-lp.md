@@ -1,26 +1,26 @@
 ---
-title: I programmi software Assurance | Centro per i partner
+title: Programmi Software Assurance | Centro per i partner
 ms.topic: article
-ms.date: 01/14/19
-description: Iscrivere e gestire applicazioni di Software Assurance nel centro per i Partner
+ms.date: 01/14/2019
+description: Registrare e gestire i programmi software assurance nel centro per i partner
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ad6ac1d360e958ae75b3c14467928d77ec1b547d
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133855"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708859"
 ---
-# <a name="participate-in-software-assurance-programs"></a>Partecipare ai programmi Software Assurance
+# <a name="participate-in-software-assurance-programs"></a>Partecipa ai programmi software Assurance
 
-Partecipazione a programmi Software Assurance, compresi Software Assurance Training voucher (SATV) e i servizi di pianificazione, offre l'opportunità di crescita del tuo business con i clienti aziendali Microsoft. Come partner i voucher di formazione di Software Assurance, Microsoft compenserà per offrire una formazione in aula istruttore, tecnici sviluppata da esperti Microsoft. I partner Planning Services compenserà Microsoft si impegni di pianificazione dell'implementazione predefiniti dei lead. Tramite entrambi i programmi, è possibile ottenere l'opportunità di impostare l'azienda rispetto alla concorrenza, diventa un consulente e offrire servizi successivi al cliente. Registrazione di programmi e la gestione della voucher di Software Assurance correlati viene eseguita tramite il centro per i Partner.
+La partecipazione ai programmi software Assurance, inclusi i voucher di formazione per Software Assurance (SATV) e i servizi di pianificazione, offre la possibilità di far crescere la propria azienda con i clienti aziendali Microsoft. In qualità di partner per i voucher di formazione Software Assurance, Microsoft compenserà l'utente a fornire corsi di formazione di classe tecnica guidati dagli insegnanti sviluppati da esperti Microsoft. In qualità di partner per la pianificazione dei servizi, Microsoft comporterà la creazione di impegni predefiniti per la pianificazione dell'implementazione. Grazie a entrambi i programmi, avrai la possibilità di impostare la tua azienda oltre alla concorrenza, diventare un consulente attendibile e offrire ai tuoi clienti i servizi seguenti. La registrazione nei programmi e la gestione dei voucher Software Assurance correlati viene eseguita tramite il centro per i partner.
 
-|**Per informazioni su**   |**Leggere questo**   |
+|**Per informazioni su**   |**Leggi questo**   |
 |--------------------------|:------------------|
-|La registrazione nel programma Software Assurance Training voucher (SATV)|[Programma di Software Assurance Training voucher (SATV) nel centro per i Partner](software-assurance-satv.md)|
+|Iscrizione al programma Software Assurance Training vouchers (SATV)|[Programma Software Assurance training voucher (SATV) nel centro per i partner](software-assurance-satv.md)|
 |uso dello strumento per la convalida e il riscatto dei voucher|[Usare lo strumento per la convalida e il riscatto dei voucher nel Centro per i partner per convalidare, riservare e riscattare i voucher](voucher-validation-tool.md)|
-|La registrazione di un contratto Software Assurance Planning Services|[Software Assurance Planning Services nel centro per i Partner](software-assurance-dps.md) 
+|Registrazione in Software Assurance Planning Services|[Software Assurance Planning Services nel centro per i partner](software-assurance-dps.md) 
 
 

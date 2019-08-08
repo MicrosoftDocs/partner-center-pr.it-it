@@ -6,12 +6,12 @@ description: Per soddisfare i requisiti nazionali, regionali e specifici del set
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: edd1bf143b591d375b2d911459629110799a1426
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 884146657aa84fa1d5f28801d5ad2a4d83c1359a
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132691"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820535"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud Germania
 
@@ -40,9 +40,9 @@ Se si è connessi al Centro per i partner per Microsoft Cloud Germania, è possi
 Dopo aver eseguito l'accesso al portale di Azure per Microsoft Cloud Germania, aprire la pagina della panoramica di Azure Active Directory (Azure AD) e quindi segui le istruzioni in questi argomenti:
 
 > [!NOTE]  
-> Selezionando i collegamenti riportati di seguito, verrà visualizzato a un altro sito Web. 
+> Se si selezionano i collegamenti seguenti, verrà visualizzata un'altra pagina Web. 
 
--  [Aggiungere nuovi utenti ad Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Aggiungere nuovi utenti a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
 -  [Assegnare un utente ai ruoli di amministratore in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
@@ -50,7 +50,7 @@ Dopo aver eseguito l'accesso al portale di Azure per Microsoft Cloud Germania, a
 
 **Argomenti correlati**
 
--  [Microsoft Azure Germania](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
+-  [Microsoft Azure Germania](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Centro per i partner per Microsoft Cloud Germania](partner-center-for-microsoft-cloud-germany.md)
 

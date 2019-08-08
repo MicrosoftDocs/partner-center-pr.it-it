@@ -1,20 +1,20 @@
 ---
 title: Analizzare le prestazioni dei rivenditori indiretti | Centro per i partner
-ms.date: 07/12/2018
-Description: Ottenere dati sulle prestazioni dei rivenditori indiretti per identificare i successi nonché le aree che potrebbero richiedere maggiore attenzione.
-Author: Xansky
-ms.author: mhopkins
+ms.date: 08/02/2019
+Description: Ottenere i dati sulle prestazioni dei rivenditori indiretti per identificare i successi e le aree che potrebbero richiedere maggiore attenzione.
+author: LauraBrenner
+ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
 ms.topic: article
 keywords: dati aziendali
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c86640d0334063b8daaffd3c447597a57b9662dd
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c46a155b99087f6d6019db4ed81247c269883ae2
+ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134901"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68781988"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analizzare le prestazioni dei rivenditori indiretti 
 
@@ -29,34 +29,34 @@ I dati guidano le decisioni aziendali. Utilizza le metriche nella pagina **Anali
 Ci stiamo occupando delle seguenti metriche:
 
 **Riepilogo**  
- - **Totale rivenditori**: Numero dei rivenditori active l'ultimo giorno della sottoscrizione  
- - **I rivenditori nuovo**: Numero dei rivenditori indiretti nuovo per il periodo di tempo specificato  
- - **I rivenditori Active**: Conteggio dei rivenditori indiretti in cui il MPNID è almeno 1 sottoscrizione, e lo stato della sottoscrizione non è sottoposta a deprovisioning  
- - **Vincolante rivenditori**: Numero dei rivenditori indiretti con una sottoscrizione venduto nel periodo di tempo specificato  
+ - **Totale rivenditori**: Numero di rivenditori attivi nell'ultimo giorno della sottoscrizione  
+ - **Nuovi rivenditori**: Numero di nuovi rivenditori indiretti per il periodo di tempo specificato  
+ - **Rivenditori attivi**: Numero di rivenditori indiretti in cui MPNID è almeno 1 sottoscrizione e in cui lo stato della sottoscrizione non viene sottoposto a deprovisioning  
+ - **Transazione di rivenditori**: Conteggio dei rivenditori indiretti con una sottoscrizione venduta nel periodo di tempo specificato  
 
 **Rivenditori per mercato**  
  - Rivenditori totali per posizione geografica  
 
-**Venduto principali rivenditori dalle sottoscrizioni**
+**Rivenditori principali per sottoscrizioni vendute**
  - Un elenco dei rivenditori, ordinati in base al numero di abbonamenti che hanno venduto  
 
-**Prodotti principali per numero di sottoscrizione**  
- - **Dynamics 365**: Dynamics 365 ordinati per le sottoscrizioni di articoli venduti  
- - **EMS**: Numero di sottoscrizioni di servizi di gestione aziendale venduto  
- - **Microsoft 365**: Numero di sottoscrizioni di Microsoft 365 venduto  
- - **Office 365**: Venduti ordinati per le sottoscrizioni di prodotti di Office 365  
+**Principali prodotti per numero di sottoscrizioni**  
+ - **Dynamics 365**: Prodotti Dynamics 365 ordinati per sottoscrizioni vendute  
+ - **EMS**: Numero di sottoscrizioni vendute da Enterprise Management Services  
+ - **Microsoft 365**: Numero di sottoscrizioni di Microsoft 365 vendute  
+ - **Office 365**: Prodotti Office 365 ordinati per sottoscrizioni vendute  
 
 **Nuove sottoscrizioni**  
  - Il numero di nuovi abbonamenti aggiunti per data  
 
-**Varianza di sottoscrizione**  
- - **Le nuove sottoscrizioni**: Numero di nuove sottoscrizioni aggiunte per data  
- - **Sottoposta a deprovisioning le sottoscrizioni**: Numero di sottoscrizioni sottoposta a deprovisioning o sospesa dal data  
+**Varianza sottoscrizione**  
+ - **Nuove sottoscrizioni**: Numero di nuove sottoscrizioni aggiunte per data  
+ - **Sottoscrizioni**con provisioning: Numero di sottoscrizioni sottoposte a provisioning o sospese per data  
 
-**Nuovi dettagli rivenditore**  
+**Dettagli nuovo rivenditore**  
  - **Nome rivenditore**: Nomi dei rivenditori indiretti  
- - **Percorso**: Mercati in cui operano i rivenditori indiretti  
- - **Le sottoscrizioni**: Numero di sottoscrizioni che ha venduto il rivenditore  
- - **Le licenze**: Numero totale di licenze che ha venduto il rivenditore per tutte le sottoscrizioni  
+ - **Località**: Mercati in cui operano i rivenditori indiretti  
+ - **Sottoscrizioni**: Numero di sottoscrizioni vendute dal rivenditore  
+ - **Licenze**: Numero totale di licenze vendute dal rivenditore tra tutte le sottoscrizioni  
   
   

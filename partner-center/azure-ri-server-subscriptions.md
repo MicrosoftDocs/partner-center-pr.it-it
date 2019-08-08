@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 7/30/2019
 description: Attraverso l'introduzione di istanze riservate di Azure e sottoscrizioni server nel programma CSP, consentiamo ai nostri partner di far fronte alla richiesta in rapida crescita dei clienti di soluzioni più convenienti in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. Il programma CSP consente ai partner di acquisire, fornire e gestire sottoscrizioni server e istanze riservate di Azure per conto dei clienti commerciali tramite il Centro per i partner Microsoft e il portale di Azure.
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: Azure, sottoscrizioni, VM, prenotazione, istanza riservata
 ms.localizationpriority: medium
-ms.openlocfilehash: 410762c5edbd05c2f6195421f225b17aeece4192
-ms.sourcegitcommit: c6090d5d4f99a33053079f683d07c969ac193c17
+ms.openlocfilehash: 0ec13a664ecc29ec2e9ac28fa21671ea45d09cdd
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "68670122"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820337"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -35,7 +35,7 @@ Se i clienti hanno macchine virtuali, Azure Cosmos DB o database SQL in esecuzio
 
 Con le prenotazioni di Azure e le sottoscrizioni server al suo programma CSP, Microsoft è in grado di consentire ai partner di affrontare in modo più rapido la richiesta dei clienti per soluzioni più convenienti per supportare carichi di lavoro cloud persistenti e altamente prevedibili. Il programma CSP consente ai partner di acquisire, effettuare il provisioning e gestire le prenotazioni e le sottoscrizioni server per conto dei clienti commerciali tramite il centro per i partner Microsoft e il portale di Azure. Le prenotazioni di Azure offrono ai clienti la flessibilità della virtualizzazione per un'ampia gamma di soluzioni di calcolo, tra cui sviluppo e test, esecuzione di applicazioni ed estensione del data center. 
 
-Con le [istanze di VM riservate di Azure](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/) , ad esempio, i clienti commerciali possono ora risparmiare fino al 72% rispetto ai prezzi di VM di Azure con pagamento in base al consumo semplicemente acquistando, o "riservando", la macchina virtuale per un periodo di 1 o 3 anni. I clienti di Windows Server con il Vantaggio Azure Hybrid, incluso con Software Assurance, saranno in grado di risparmiare fino all'80% rispetto ai prezzi con pagamento in base al consumo. 
+Con le [istanze di VM riservate di Azure](https://azure.microsoft.com/pricing/reserved-vm-instances/) , ad esempio, i clienti commerciali possono ora risparmiare fino al 72% rispetto ai prezzi di VM di Azure con pagamento in base al consumo semplicemente acquistando, o "riservando", la macchina virtuale per un periodo di 1 o 3 anni. I clienti di Windows Server con il Vantaggio Azure Hybrid, incluso con Software Assurance, saranno in grado di risparmiare fino all'80% rispetto ai prezzi con pagamento in base al consumo. 
 
 Con una combinazione non corrispondente di prezzi interessanti e flessibilità di distribuzione non corrispondente, i clienti visualizzeranno il valore complessivo migliore quando scelgono prenotazioni di Azure:
 
@@ -71,7 +71,7 @@ Per comprendere come presentare le prenotazioni di Azure ai tuoi clienti e rende
 
 5.  Esaminare le domande frequenti su abbonamenti server e istanze riservate di Azure
 
-6.  Scopri gli aggiornamenti di Prenotazioni di Azure e abbonamenti server nell'[API del Centro per i partner (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
+6.  Scopri gli aggiornamenti di Prenotazioni di Azure e abbonamenti server nell'[API del Centro per i partner (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
 
 ## <a name="resources"></a>Risorse: 
 
@@ -84,20 +84,20 @@ Di seguito è riportato un elenco completo delle risorse che ti consentiranno di
 - [Domande frequenti sui partner per le prenotazioni di Azure](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
 - [Domande frequenti di partner per le prenotazioni Azure e SQL DB](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [CAL Servizi Desktop remoto (RDS) (annuncio)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
-- [Istanze di VM riservate di Azure (portale di Azure)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [Sottoscrizioni server](https://docs.microsoft.com/en-us/partner-center/csp-software-subscriptions)
+- [Istanze di VM riservate di Azure (portale di Azure)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Sottoscrizioni server](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
 - [Panoramica di database SQL in Azure](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [Prenotazioni del database SQL (portale di Azure)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-reserved-capacity)
-- [Azure Cosmos DB (portale di Azure)](https://docs.microsoft.com/en-us/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [Istanza gestita SQL (portale di Azure)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance)
-- [SUSE e Red Hat Enterprise Linux (portale di Azure)](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [Prenotazioni del database SQL (portale di Azure)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [Azure Cosmos DB (portale di Azure)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Istanza gestita SQL (portale di Azure)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+- [SUSE e Red Hat Enterprise Linux (portale di Azure)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Red Hat Linux in Azure](https://azure.com/redhat)
-- [SUSE Linux in Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/suse/)
-- [Linux in Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/)
-- [Panoramica sui prezzi di Azure](https://azure.microsoft.com/en-us/pricing/)
-- [Calcolatrice dei prezzi di Azure](https://azure.microsoft.com/en-us/pricing/calculator)
+- [SUSE Linux in Azure](https://azure.microsoft.com/overview/linux-on-azure/suse/)
+- [Linux in Azure](https://azure.microsoft.com/overview/linux-on-azure/)
+- [Panoramica sui prezzi di Azure](https://azure.microsoft.com/pricing/)
+- [Calcolatrice dei prezzi di Azure](https://azure.microsoft.com/pricing/calculator)
 - [Prenotazioni unità Azure Databricks](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
-- Elenchi prezzi CSP:  Le **istanze riservate Microsoft Azure** e i prezzi degli **abbonamenti software** sono entrambi disponibili nella pagina relativa ai [Prezzi &](https://partner.microsoft.com/en-us/pcv/sales) per il centro per i partner.
+- Elenchi prezzi CSP:  Le **istanze riservate Microsoft Azure** e i prezzi degli **abbonamenti software** sono entrambi disponibili nella pagina relativa ai [Prezzi &](https://partner.microsoft.com/pcv/sales) per il centro per i partner.
 
 
 **Training**
@@ -117,13 +117,13 @@ Di seguito è riportato un elenco completo delle risorse che ti consentiranno di
 - [Gestisci prenotazioni di Azure per conto dei tuoi clienti](https://go.microsoft.com/fwlink/?linkid=872808)
 - [Fatturazione per le prenotazioni di Azure](https://go.microsoft.com/fwlink/?linkid=872809)
 - [Ridimensionamento della macchina virtuale per l'utilizzo massimo delle prenotazioni](https://go.microsoft.com/fwlink/?linkid=872810)
-- [API del centro per i partner (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
-- [Servizi Desktop remoto](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/welcome-to-rds)
+- [API del centro per i partner (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
+- [Servizi Desktop remoto](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Vantaggio Azure Hybrid
 
 [Vantaggio Azure Hybrid](https://azure.microsoft.com/pricing/hybrid-benefit) ti consente di ottenere più valore dalle licenze di Windows Server e risparmiare fino al *47% sulle macchine virtuali. Puoi utilizzare il vantaggio con Windows Server Datacenter e licenze Standard Edition con copertura Software Assurance. A seconda dell'edizione, puoi convertire o riutilizzare le tue licenze per eseguire macchine virtuali di Windows Server in Azure e pagare un costo di calcolo di base inferiore (i costi delle macchine virtuali Linux).
 
-Vedi anche [Domande frequenti sul Vantaggio Azure Hybrid](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
+Vedi anche [Domande frequenti sul Vantaggio Azure Hybrid](https://azure.microsoft.com/pricing/hybrid-benefit/faq/)
 
 \* I risparmi effettivi possono variare in base all'area, al tipo di istanza o all'utilizzo.

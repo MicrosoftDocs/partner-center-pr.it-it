@@ -7,12 +7,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8272d414f4712a470c588fd9cc40c828c8f87e6c
-ms.sourcegitcommit: 40e2ef0c9fa6c5d2227e205c7d250772f4a989d5
+ms.openlocfilehash: 10b4cf8f261c9d9af4be5aa7c91cc6e81663bfba
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "68492297"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820441"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendere in settori specifici
 
@@ -28,7 +28,7 @@ Microsoft offre prezzi ridotti speciali per gruppi selezionati di clienti, tra c
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Formazione   |Diventare un [venditore autorizzato per il settore della formazione](https://www.mepn.com).   | Essere un [Qualified Education User](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
 |Governo   |Per vendere Azure, effettuare la registrazione usando il [modulo di convalida del cloud Microsoft US Government](https://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenza a enti pubblici, non è richiesta alcuna qualificazione.|   Nessuna|
-|No profit  |Nessuna<br>Devi avere un tenant di Azure Active Directory no profit.<br>Scopri di più sulle [offerte speciali per le organizzazioni no profit](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf).   |Iscriviti tramite il [programma no profit Microsoft](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
+|No profit  |Nessuna<br>Devi avere un tenant di Azure Active Directory no profit.<br>Scopri di più sulle [offerte speciali per le organizzazioni no profit](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Iscriviti tramite il [programma no profit Microsoft](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>Controllare le tue qualificazioni come rivenditore

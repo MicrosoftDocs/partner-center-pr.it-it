@@ -6,12 +6,12 @@ description: Aspetti da considerare prima di spostare l'azienda da PMC al centro
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 411093a885abf2144df218d8ef28a07a10f09061
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854530"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820577"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepararsi al passaggio da partner Membership Center (PMC) a partner Center
 
@@ -29,7 +29,7 @@ Nel centro per i partner si userà l'indirizzo di posta elettronica dell'ufficio
 - Account aziendale:john@contoso.com
 - Account personale:John@outlook.com
 
-Il tuo indirizzo di posta elettronica di lavoro fa parte del tenant di Azure Active Directory. Per avere un account nel centro per i partner, è necessario disporre di un tenant AAD. Per altre informazioni su Azure Active Directory, vedere [creare la directory in Azure ad](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+Il tuo indirizzo di posta elettronica di lavoro fa parte del tenant di Azure Active Directory. Per avere un account nel centro per i partner, è necessario disporre di un tenant AAD. Per altre informazioni su Azure Active Directory, vedere [creare la directory in Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 **Quando si passa al centro per i partner da PMC, quale account dovrebbe accedere al centro per i partner se si dispone di un tenant AAD con Microsoft (per Office 365, ad esempio) e si dispone anche di un tenant per la propria azienda CSP?**
 
@@ -66,7 +66,7 @@ Il centro per i partner dispone di diversi tipi di ruoli in base ai tipi di lavo
 
 **Cosa accade ai ruoli degli utenti quando si spostano da un PMC a un centro per i partner?**
 
-Ad eccezione dell'amministratore globale MPN o del contatto del programma principale che esegue la migrazione, tutti gli utenti nella console di gestione dei pacchetti perderanno i ruoli di amministratore. L'utente che completa la migrazione dovrà assegnare i ruoli nel centro per i partner. I ruoli nel centro per i partner sono diversi da quelli in PMC. Leggere [assegnare i ruoli e le autorizzazioni degli utenti] (autorizzazioni-overview.md e [passaggio da PMC al centro](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles) per i partner per altre informazioni sui ruoli utente nel centro per i partner.
+Ad eccezione dell'amministratore globale MPN o del contatto del programma principale che esegue la migrazione, tutti gli utenti nella console di gestione dei pacchetti perderanno i ruoli di amministratore. L'utente che completa la migrazione dovrà assegnare i ruoli nel centro per i partner. I ruoli nel centro per i partner sono diversi da quelli in PMC. Leggere [assegnare i ruoli e le autorizzazioni degli utenti] (autorizzazioni-overview.md e [passaggio da PMC al centro](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles) per i partner per altre informazioni sui ruoli utente nel centro per i partner.
 
 
 **Qual è la differenza tra il profilo aziendale e il profilo business?**

@@ -2,17 +2,17 @@
 title: Usare i file di riconciliazione | Centro per i partner
 ms.topic: article
 ms.date: 07/08/2019
-description: Per una visualizzazione dettagliata voce ogni gratuitamente in un ciclo di fatturazione, scaricare i file di riconciliazione dal centro per i Partner.
+description: Per una visualizzazione dettagliata delle voci di ogni addebito in un ciclo di fatturazione, scaricare i file di riconciliazione dal centro per i partner.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
-ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
-ms.translationtype: MT
+ms.openlocfilehash: 8fae84790aa84b3c5a006d65a632668a33ac24a7
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67694932"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820562"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -22,29 +22,29 @@ ms.locfileid: "67694932"
 -  Centro per i partner per Microsoft Cloud for US Government
 
 
-Per una visualizzazione dettagliata voce ogni gratuitamente in un ciclo di fatturazione, scaricare i file di riconciliazione dal centro per i Partner. I dettagli includono gli addebiti per le sottoscrizioni di ogni singolo cliente e gli eventi dettagliati, ad esempio un'aggiunta di postazioni a una sottoscrizione in corso.
+Per una visualizzazione dettagliata delle voci di ogni addebito in un ciclo di fatturazione, scaricare i file di riconciliazione dal centro per i partner. I dettagli includono gli addebiti per le sottoscrizioni di ogni singolo cliente e gli eventi dettagliati, ad esempio un'aggiunta di postazioni a una sottoscrizione in corso.
 
 ## <a name="formatting-issues"></a>Problemi di formattazione
 
-In alcuni casi il file di riconoscimento potrà avere problemi di formattazione. (Questa situazione può verificarsi, ad esempio, se non viene utilizzata le impostazioni locali EN-US.) Attenersi alla procedura seguente per risolvere questi problemi. 
+Occasionalmente il file di ricognizione potrebbe avere problemi di formattazione. Questo può accadere, ad esempio, se le impostazioni locali EN-US non vengono usate. Per risolvere questi problemi, attenersi alla procedura riportata di seguito. 
 
 <ol>
-<li>Aprire il file con estensione csv in Excel e selezionare la prima colonna. Sulla barra multifunzione, selezionare <strong>dati</strong>, quindi selezionare <strong>testo alle colonne</strong>.</li>
+<li>Aprire il file CSV in Excel e selezionare la prima colonna. Sulla barra multifunzione selezionare <strong>dati</strong>, quindi selezionare <strong>testo in colonne</strong>.</li>
 
-<li>La conversione guidata testo in colonne, selezionare <strong>tipo di file delimitati</strong>e quindi selezionare <strong>successivo</strong>.</li> 
+<li>Nella procedura guidata Converti testo in colonne selezionare <strong>tipo di file delimitato</strong>e quindi fare clic su <strong>Avanti</strong>.</li> 
 
-<li>Nel campo Delimeters, selezionare <strong>virgole</strong>. Se <strong>scheda</strong> è già selezionata, è possibile lasciarla. Selezionare <strong>Avanti</strong>.</li>
+<li>Nel campo delimitatori selezionare virgola. Se la <strong>scheda</strong> è già selezionata, è possibile lasciarla invariata. Selezionare <strong>Avanti</strong>.</li>
 
-<li>Nel campo formato dei dati di colonna, selezionare <strong>data: MDY</strong>, quindi selezionare <strong>successivo</strong>.</li> 
+<li>Nel campo formato dati colonna selezionare <strong>Data: MDY</strong>, quindi selezionare <strong>Avanti</strong>.</li> 
 
-<li>Nel campo formato dei dati di colonna, selezionare <strong>testo</strong> per tutte le colonne e quindi selezionare l'importo <strong>fine</strong>.</li>
+<li>Nel campo formato dati colonna selezionare <strong>testo</strong> per tutte le colonne importo, quindi fare clic su <strong>fine</strong>.</li>
 </ol>
 
-## <a name="downloading-a-large-recon-file"></a>Download di un file di riconoscimento di grandi dimensioni
+## <a name="downloading-a-large-recon-file"></a>Download di un file di ricognizione di grandi dimensioni
 
-File di riconoscimento possono raggiungere dimensioni molto grandi e sono talvolta difficili da scaricare. Per uno script di PowerShell scaricare i file di grandi dimensioni riconoscimento, vedere [voci della fattura Get](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items).
+I file di ricognizione possono avere dimensioni molto elevate e talvolta difficili da scaricare. Per uno script di PowerShell che consente di scaricare file di ricognizione di grandi dimensioni, vedere [ottenere le voci della fattura](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items).
 
-## <a href="" id="itemizebypartner"></a>Specificare i dettagli da partner
+## <a href="" id="itemizebypartner"></a>Descrivere per partner
 
 
 I partner nel modello indiretto possono usare questi campi aggiuntivi sia nei file di riconciliazione in base alle licenze che nei file di riconciliazione in base all'uso per eseguire la scomposizione dei dati per ogni rivenditore.
@@ -69,7 +69,7 @@ I partner nel modello indiretto possono usare questi campi aggiuntivi sia nei fi
 <td>ID MPN rivenditore</td>
 <td><p>Viene visualizzato solo nei file di riconciliazione per i partner nel modello indiretto.</p>
 <p>ID MPN del rivenditore nel record per la sottoscrizione. Corrisponde all'ID rivenditore elencato per la sottoscrizione specifica nel Centro per i partner.</p>
-<p>eTo visualizzare o aggiornare il rivenditore, dal menu Centro per i Partner, selezionare <strong>clienti</strong>, quindi scegliere il cliente dall'elenco. Nel menu del cliente seleziona <strong>Sottoscrizioni</strong> e quindi scegli la sottoscrizione nell'elenco. Seleziona <strong>Aggiorna</strong> per modificare il valore <strong>Rivenditore (ID MPN)</strong>.</p>
+<p>eTo visualizzare o aggiornare il rivenditore, dal menu centro per i partner selezionare Customers, quindi scegliere il cliente dall'elenco. Nel menu del cliente seleziona <strong>Sottoscrizioni</strong> e quindi scegli la sottoscrizione nell'elenco. Seleziona <strong>Aggiorna</strong> per modificare il valore <strong>Rivenditore (ID MPN)</strong>.</p>
 <p>Se un partner CSP ha venduto la sottoscrizione direttamente al cliente, il relativo ID MPN è elencato due volte, sia come ID MPN che come ID MPN del rivenditore.</p>
 <p>Se per un partner CSP è presente un rivenditore senza ID MPN, il valore viene impostato sull'ID MPN del partner.</p>
 <p>Se il partner CSP rimuove un ID rivenditore, il valore verrà impostato su -1.</p></td>
@@ -79,7 +79,7 @@ I partner nel modello indiretto possono usare questi campi aggiuntivi sia nei fi
 
  
 
-## <a href="" id="licensebasedfiles"></a> Campi del file basati su licenza
+## <a href="" id="licensebasedfiles"></a>Campi di file basati su licenza
 
 
 Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la voce Syndication\_Partner\_Subscription\_Number del file di riconciliazione con l'ID sottoscrizione del Centro per i partner.
@@ -126,13 +126,13 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 <tr class="odd">
 <td>OfferID</td>
 <td><p>ID univoco dell'offerta. ID dell'offerta standard in base al listino prezzi.</p>
-<p><b>Nota</b>: Questo valore non corrisponde ID offerta dall'elenco prezzi. Vedi DurableOfferID di seguito.</p></td>
+<p><b>Nota</b>: Questo valore non corrisponde all'ID offerta nell'elenco prezzi. Vedi DurableOfferID di seguito.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
 <td><p>ID dell'offerta durevole univoco, come definito nel listino prezzi.</p>
-<p><b>Nota</b>: Questo valore corrisponde all'ID dell'offerta dall'elenco prezzi.</p></td>
+<p><b>Nota</b>: Questo valore corrisponde all'ID offerta dall'elenco prezzi.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,7 +148,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>La data di fine sottoscrizione: 12 mesi + x giorni dopo la data di inizio (in modo da allinearsi partner data di fatturazione) o 12 mesi dalla data di rinnovo.</p>
+<td><p>Data di fine della sottoscrizione: 12 mesi + x giorni dopo la data di inizio (per allinearla alla data di fatturazione del partner) o 12 mesi dalla data di rinnovo.</p>
 <p>In fase di rinnovo, i prezzi vengono aggiornati rispetto al listino prezzi corrente. È possibile che venga richiesta una comunicazione con il cliente prima del rinnovo automatico.</p>
 <p>L'ora indicata è sempre l'inizio della giornata, le 0:00.</p></td>
 <td>2/1/2015 0:00</td>
@@ -189,7 +189,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="even">
 <td>TotalOtherDiscount</td>
-<td><p>Importo dello sconto applicato a questi addebiti. IUR o le nuove sottoscrizioni idonee per un incentivo contengono anche un importo di sconto in questa colonna.</p></td>
+<td><p>Importo dello sconto applicato a questi addebiti. Le licenze dei prodotti incluse con una competenza o mappe o nuove sottoscrizioni idonee per un incentivo conterranno anche un importo di sconto in questo articolo.</p></td>
 <td>2.32</td>
 </tr>
 <tr class="odd">
@@ -199,7 +199,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="even">
 <td>Imposta</td>
-<td><p>Addebito quantità, in base del mercato di imposta&#39;le regole di tassazione s e circostanze specifiche.</p></td>
+<td><p>Addebito IVA, in base alle regole&#39;fiscali del mercato e alle circostanze specifiche.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -214,7 +214,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Cliente&#39;nome organizzazione s come riportato nel centro per i Partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
+<td><p>Nome&#39;dell'organizzazione del cliente come indicato nel centro per i partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
 <td>Cliente di prova A</td>
 </tr>
 <tr class="even">
@@ -229,7 +229,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Cliente&#39;nome di dominio s, usato per identificare il cliente. Non dovrebbe utilizzabile per identificare in modo univoco il cliente, così come i clienti o del partner è possibile aggiornare il dominio personalizzato o predefinito tramite il portale di Office 365. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
+<td><p>Nome&#39;di dominio del cliente, usato per identificare il cliente. Questo non deve essere usato per identificare in modo univoco il cliente, perché il cliente/partner può aggiornare il dominio Vanity/default tramite il portale O365. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -246,7 +246,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </table>
 
 
-## <a href="" id="usagebasedfiles"></a>Campi del file basato sull'utilizzo
+## <a href="" id="usagebasedfiles"></a>Campi di file basati sull'utilizzo
 
 
 Per riconciliare i tuoi addebiti in base all'uso da parte dei clienti, confronta i campi ResellerID/ResellerName/ResellerBillableAccount del file di riconciliazione con il nome del cliente e l'ID sottoscrizione del Centro per i partner.
@@ -282,7 +282,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Cliente&#39;nome organizzazione s come riportato nel centro per i Partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
+<td><p>Nome&#39;dell'organizzazione del cliente come indicato nel centro per i partner. Molto importante per la riconciliazione della fattura con le informazioni di sistema.</p></td>
 <td>Cliente di prova A</td>
 </tr>
 <tr class="even">
@@ -352,7 +352,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="even">
-<td>Resource Name</td>
+<td>Nome risorsa</td>
 <td><p>Nome della risorsa Azure.</p></td>
 <td><ul>
 <li>Data Transfer In (GB)</li>
@@ -403,7 +403,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Addebito quantità, in base del mercato di imposta&#39;le regole di tassazione s e circostanze specifiche.</p></td>
+<td><p>Addebito IVA, in base alle regole&#39;fiscali del mercato e alle circostanze specifiche.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -457,14 +457,14 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td>EXTERNAL</td>
 </tr>
 <tr class="even">
-<td>Project</td>
+<td>Progetto</td>
 <td><p>Nome definito dal cliente per l'istanza del servizio</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>Numero di connessioni ServiceBus di cui è stato eseguito il provisioning e usate in un determinato giorno.</p></td>
-<td>Ad esempio, con una connessione fornita a livello singolo per un periodo di un mese di 30 giorni, Service Info 1 è "1.000000 Connections / 30 days". Se disponi di un pacchetto 25 di connessioni del bus di servizio eseguito il provisioning e si fosse utilizzato 1 durante il giorno, l'istruzione di utilizzo giornaliero per quel giorno indicherebbe "25 connessioni / 30 giorni: utilizzato: 1.000000”.</td>
+<td>Ad esempio, con una connessione fornita a livello singolo per un periodo di un mese di 30 giorni, Service Info 1 è "1.000000 Connections / 30 days". Se è stato eseguito il provisioning di 25 pacchetti di bus di bus e si è usato 1 durante tale giorno, l'istruzione di utilizzo giornaliero per quel giorno indicherà "25 connessioni/30 giorni – usato: 1,000000 ".</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -473,7 +473,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Cliente&#39;nome di dominio s, usato per identificare il cliente. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
+<td><p>Nome&#39;di dominio del cliente, usato per identificare il cliente. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -484,7 +484,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tbody>
 </table>
 
-## <a href="" id="marketplacefilefields"></a>Campi del file sia monouso che ricorrenti
+## <a href="" id="marketplacefilefields"></a>Campi di file una sola volta e ricorrenti
 
 <table>
 <colgroup>
@@ -493,7 +493,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </colgroup>
 <thead>
 <tr class="header">
-<th>Column</th>
+<th>Colonna</th>
 <th>Descrizione</th>
 </tr>
 </thead>
@@ -502,22 +502,22 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="odd">
 <td>PartnerId</td>
-<td><p>Identificatore univoco tenant di Microsoft Azure Active Directory per un'entità di fatturazione specifica, in formato GUID. Non è necessario per la riconciliazione, ma può risultare utile. È lo stesso per tutte le righe.</p></td>
+<td><p>Identificatore univoco del tenant Microsoft Azure Active Directory per un'entità di fatturazione specifica, in formato GUID. Non è necessario per la riconciliazione, ma può risultare utile. È lo stesso per tutte le righe.</p></td>
 </tr>
 
 <tr class="even">
-<td>Id cliente</td>
-<td><p>Microsoft Azure Active Directory tenant ID univoco, in formato GUID, usato per identificare il cliente.</p></td>
+<td>ID cliente</td>
+<td><p>Univoco Microsoft Azure Active Directory ID tenant, in formato GUID, usato per identificare il cliente.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Nome cliente</td>
+<td>Nome del cliente</td>
 <td><p>Nome dell'organizzazione del cliente registrato nel Centro per i partner.</p></td>
 </tr>
 
 <tr class="even">
 <td>CustomerDomainName</td>
-<td><p>Nome di dominio del cliente, usato per identificare il cliente. Non dovrebbe utilizzabile per identificare in modo univoco il cliente, così come i clienti o del partner è possibile aggiornare il dominio personalizzato o predefinito tramite il portale di Office 365. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
+<td><p>Nome di dominio del cliente, usato per identificare il cliente. Questo non deve essere usato per identificare in modo univoco il cliente, perché il cliente/partner può aggiornare il dominio Vanity/default tramite il portale O365. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione.</p></td>
 </tr>
 
 <tr class="odd">
@@ -536,13 +536,13 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 
 <tr class="even">
-<td>MpnId rivenditore</td>
+<td>Rivenditore MpnId</td>
 <td><p>ID MPN del rivenditore nel record per la sottoscrizione.</p></td>
 </tr>
 
 <tr class="odd">
 <td>ID ordine</td>
-<td><p>Identificatore univoco per un ordine in cui la piattaforma di e-commerce di Microsoft. Può essere utile per identificare l'ordine quando viene contattato il supporto tecnico, ma non per la riconciliazione.</p></td>
+<td><p>Identificatore univoco per un ordine in Microsoft Commerce platform. Può essere utile per identificare l'ordine quando viene contattato il supporto tecnico, ma non per la riconciliazione.</p></td>
 </tr>
 
 <tr class="even">
@@ -577,7 +577,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="even">
 <td>PublisherName</td>
-<td><p>Il nome del server di pubblicazione del prodotto.</p></td>
+<td><p>Nome del server di pubblicazione del prodotto.</p></td>
 </tr>
 
 <tr class="odd">
@@ -592,7 +592,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="odd">
 <td>ID sottoscrizione</td>
-<td><p>Identificatore univoco per una sottoscrizione nella piattaforma Microsoft e-commerce. Può essere utile per identificare la sottoscrizione quando viene contattato il supporto tecnico, ma non per la riconciliazione. Non corrisponde all'ID sottoscrizione nella console di amministrazione dei partner.</p></td>
+<td><p>Identificatore univoco per una sottoscrizione nella piattaforma Microsoft Commerce. Può essere utile per identificare la sottoscrizione quando viene contattato il supporto tecnico, ma non per la riconciliazione. Non corrisponde all'ID sottoscrizione nella console di amministrazione dei partner.</p></td>
 </tr>
 
 <tr class="even">
@@ -606,8 +606,8 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 
 <tr class="even">
-<td>Periodo di validità e Billingcycle</td>
-<td><p>La durata del periodo e ciclo di fatturazione per l'acquisto. Ad esempio, "1 anno, mese."</p></td>
+<td>Termini e billingcycle</td>
+<td><p>Durata e ciclo di fatturazione per l'acquisto. Ad esempio, "1 anno, mensile".</p></td>
 </tr>
 
 <tr class="odd">
@@ -617,12 +617,12 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="even">
 <td>Prezzo unitario</td>
-<td><p>Il prezzo come pubblicato nel listino prezzi dei contratti al momento dell'acquisto. Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</p></td>
+<td><p>Prezzo pubblicato nel listino prezzi al momento dell'acquisto. Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Prezzo unitario efficace</td>
-<td><p>Il prezzo unitario dopo che sono state apportate modifiche.</p></td>
+<td>Prezzo unitario effettivo</td>
+<td><p>Prezzo unitario dopo le rettifiche apportate.</p></td>
 </tr>
 
 <tr class="even">
@@ -632,21 +632,21 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="odd">
 <td>Tipo di unità</td>
-<td><p>Il tipo di unità acquistate.</p></td>
+<td><p>Tipo di unità da acquistare.</p></td>
 </tr>
 
 <tr class="even">
 <td>DiscountDetails</td>
-<td><p>Spiegazione di eventuali sconti.</p></td>
+<td><p>Spiegazione di qualsiasi sconto applicabile.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Subtotale</td>
+<td>Totale parziale</td>
 <td><p>Totale al lordo delle imposte. Verifica che il subtotale corrisponda al totale previsto, in caso di sconto.</p></td>
 </tr>
 
 <tr class="even">
-<td>Totale imposte</td>
+<td>Imposta totale</td>
 <td><p>Importo totale delle imposte, in base alle leggi vigenti a livello locale e alle circostanze specifiche.</p></td>
 </tr>
 
@@ -662,13 +662,13 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="odd">
 <td>AlternateID</td>
-<td><p>Un identificatore alternativo per un ID dell'ordine.</p></td>
+<td><p>Identificatore alternativo a un ID dell'ordine.</p></td>
 </tr>
 </tbody>
 </table>
 
 
-## <a href="" id="dailyratedusagefields"></a>Campi del file classificati giornaliera dell'utilizzo
+## <a href="" id="dailyratedusagefields"></a>Campi del file di utilizzo con classificazione giornaliera
 
 
 <table>
@@ -678,7 +678,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </colgroup>
 <thead>
 <tr class="header">
-<th>Column</th>
+<th>Colonna</th>
 <th>Descrizione</th>
 </tr>
 </thead>
@@ -706,7 +706,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="odd">
 <td>CustomerDomainName</td>
-<td><p>Nome di dominio del cliente. Non è disponibile per l'attività corrente.</p></td>
+<td><p>Nome di dominio del cliente. Non disponibile per l'attività corrente.</p></td>
 </tr>
 
 <tr class="even">
@@ -721,12 +721,12 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="even">
 <td>Rivenditore MPNID</td>
-<td><p>ID MPN del rivenditore nel record per la sottoscrizione. Non è disponibile per l'attività corrente.</p></td>
+<td><p>ID MPN del rivenditore nel record per la sottoscrizione. Non disponibile per l'attività corrente.</p></td>
 </tr>
 
 <tr class="odd">
 <td>InvoiceNumber</td>
-<td><p>Numero di fattura in cui viene visualizzata la transazione specificata. Non è disponibile per l'attività corrente.</p></td>
+<td><p>Numero di fattura in cui viene visualizzata la transazione specificata. Non disponibile per l'attività corrente.</p></td>
 </tr>
 
 <tr class="even">
@@ -751,12 +751,12 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="even">
 <td>PublisherName</td>
-<td><p>Il nome del server di pubblicazione.</p></td>
+<td><p>Nome del server di pubblicazione.</p></td>
 </tr>
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>L'ID del server di pubblicazione, in formato GUID. Non è disponibile per l'attività corrente.</p></td>
+<td><p>ID del server di pubblicazione in formato GUID. Non disponibile per l'attività corrente.</p></td>
 </tr>
 
 <tr class=”even">
@@ -791,32 +791,32 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="even">
 <td>Categoria misuratore</td>
-<td><p>Il servizio di primo livello per l'utilizzo.</p></td>
+<td><p>Servizio di primo livello per l'utilizzo.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Id contatore</td>
-<td><p>L'ID del contatore in uso.</p></td>
+<td>ID contatore</td>
+<td><p>ID del contatore utilizzato.</p></td>
 </tr>
 
 <tr class="even">
 <td>Sottocategoria contatore</td>
-<td><p>Tipo di servizio di Azure che possa influire sulla tariffa.</p></td>
+<td><p>Tipo di servizio di Azure che può influire sulla frequenza.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Nome contatore</td>
-<td><p>L'unità di misura per il contatore utilizzato.</p></td>
+<td><p>Unità di misura per il contatore utilizzato.</p></td>
 </tr>
 
 <tr class="even">
-<td>Area contatore</td>
+<td>Area del contatore</td>
 <td><p>Questa colonna identifica la posizione del data center nell'area geografica dei servizi dove applicabile e popolato.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Unità</td>
-<td><p>Unità di risorsa del nome.</p></td>
+<td><p>Unità del nome della risorsa.</p></td>
 </tr>
 
 <tr class="even">
@@ -826,28 +826,28 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="odd">
 <td>Percorso della risorsa</td>
-<td><p>Il Data Center in cui il contatore è in esecuzione.</p></td>
+<td><p>Data Center in cui è in esecuzione il contatore.</p></td>
 </tr>
 
 <tr class="even">
 <td>Servizio utilizzato</td>
-<td><p>Il servizio della piattaforma Azure che è stato usato.</p></td>
+<td><p>Il servizio della piattaforma Azure usato.</p></td>
 </tr>
 
 
 <tr class="even">
 <td>URI della risorsa</td>
-<td><p>L'URI della risorsa in uso.</p></td>
+<td><p>URI della risorsa in uso.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Tipo di addebito</td>
-<td><p>Tipo di addebito o rettifica. Non è disponibile per l'attività corrente.</p></td>
+<td><p>Tipo di addebito o rettifica. Non disponibile per l'attività corrente.</p></td>
 </tr>
 
 <tr class="even">
 <td>Prezzo unitario</td>
-<td><p>Prezzo per ciascuna licenza, come pubblicato nel listino prezzi dei contratti al momento dell'acquisto. Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</p></td>
+<td><p>Prezzo per licenza, come pubblicato nel listino prezzi al momento dell'acquisto. Verifica che corrisponda alle informazioni archiviate nel tuo sistema di fatturazione durante la riconciliazione.</p></td>
 </tr>
 
 <tr class="odd">
@@ -857,27 +857,27 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="even">
 <td>Tipo di unità</td>
-<td><p>Il tipo di unità che in cui viene addebitato il contatore. Non è disponibile per l'attività corrente.</p></td>
+<td><p>Tipo di unità in cui viene addebitato il contatore. Non disponibile per l'attività corrente.</p></td>
 </tr>
 
 <tr class="odd">
-<td>La fatturazione pre fiscali</td>
-<td><p>Quantità totale prima delle imposte.</p></td>
+<td>Pre-imposta fatturazione</td>
+<td><p>Importo totale prima delle imposte.</p></td>
 </tr>
 
 <tr class="even">
-<td>Valuta di fatturazione</td>
-<td><p>La valuta nell'area geografica del cliente</p></td>
+<td>Valuta fatturazione</td>
+<td><p>Valuta nell'area geografica del cliente</p></td>
 </tr>
 
 <tr class="odd">
-<td>Prezzo totale al lordo di imposte</td>
-<td><p>Il piano tariffario prima dell'aggiunta delle imposte.</p></td>
+<td>Prezzi pretassazione totali</td>
+<td><p>I prezzi prima dell'aggiunta delle imposte.</p></td>
 </tr>
 
 <tr class="even">
-<td>Prezzi di valuta</td>
-<td><p>La valuta nel prezzo di listino.</p></td>
+<td>Valuta prezzi</td>
+<td><p>Valuta nel listino prezzi.</p></td>
 </tr>
 
 <tr class="odd">
@@ -887,7 +887,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="even">
 <td>Informazioni servizio 2</td>
-<td><p>Campo legacy che acquisisce i metadati specifici del servizio facoltativo.</p></td>
+<td><p>Campo legacy che acquisisce i metadati facoltativi specifici del servizio.</p></td>
 </tr>
 
 <tr class="even">
@@ -899,7 +899,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </table>
 
 
-## <a href="" id="charge_types"></a>Addebiti di mapping tra una fattura e i file di riconciliazione
+## <a href="" id="charge_types"></a>Mapping degli addebiti tra una fattura e il file di riconciliazione
 
 La fattura fornisce un riepilogo degli addebiti, mentre il file di riconciliazione fornisce una descrizione dettagliata delle transazioni di voce, inclusi i tipi di addebito.
 
@@ -913,16 +913,16 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <tbody>
 <tr>
 <td>
-<p><strong>Descrizione di addebito della fattura</strong></p>
+<p><strong>Descrizione addebito fattura</strong></p>
 </td>
 <td>
-<p><strong>Descrizione di addebito file di riconciliazione (ChargeType colonna)</strong></p>
+<p><strong>Descrizione addebito file di riconciliazione (colonna ChargeType)</strong></p>
 </td>
 <td>
-<p><strong>Che cos'è l'addebito?</strong></p>
+<p><strong>Qual è il costo?</strong></p>
 </td>
 <td>
-<p><strong>Come è possibile associare queste ChargeTypes nella fattura?</strong></p>
+<p><strong>Ricerca per categorie mappare questi ChargeTypes alla fattura?</strong></p>
 </td>
 </tr>
 <tr>
@@ -976,7 +976,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p>Rateizza le tariffe all'acquisto</p>
 </td>
 <td>
-<p>Il tipo di addebito per una sottoscrizione quando si usa la fatturazione annua</p>
+<p>Tipo di addebito per una sottoscrizione quando si usa la fatturazione annuale</p>
 </td>
 </tr>
 <tr>
@@ -984,7 +984,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p>Tariffa di acquisto</p>
 </td>
 <td>
-<p>Il tipo di addebito per una sottoscrizione quando si usa la fatturazione mensile</p>
+<p>Tipo di addebito per una sottoscrizione quando si usa la fatturazione mensile</p>
 </td>
 </tr>
 <tr>
@@ -1017,7 +1017,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 
 <tr>
 <td rowspan="5">
-<p><strong>Spese una tantum</strong></p>
+<p><strong>Addebiti monouso</strong></p>
 
 </td>
 <td>
@@ -1035,7 +1035,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p>addQuantity</p>
 </td>
 <td>
-<p>Usato in entrambi il rimborso dell'acquisto originale e la nuova quantità dopo l'aumento</p>
+<p>Usato sia per il rimborso dell'acquisto originale che per la nuova quantità dopo l'aumento</p>
 </td>
 </tr>
 
@@ -1045,14 +1045,14 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p>removeQuantity</p>
 </td>
 <td>
-<p>Usato in entrambi il rimborso dell'acquisto originale e la nuova quantità dopo la diminuzione</p>
+<p>Usato sia per il rimborso dell'acquisto originale che per la nuova quantità dopo la riduzione</p>
 </td>
 </tr>
 
 </tr>
 <tr>
 <td>
-<p>Cancel</p>
+<p>Annulla</p>
 </td>
 <td>
 <p>Utilizzato quando viene annullata una sottoscrizione</p>
@@ -1065,13 +1065,13 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p>Convertire</p>
 </td>
 <td>
-<p>Utilizzato quando viene aggiornata una licenza, ma rimane invariato il numero di postazioni</p>
+<p>Usato quando viene aggiornata una licenza, ma il numero di postazioni rimane invariato</p>
 </td>
 </tr>
 
 <tr>
 <td rowspan="2">
-<p><strong>Costi di utilizzo</strong></p>
+<p><strong>Addebiti per l'utilizzo</strong></p>
 </td>
 <td>
 <p>Valuta la tariffa di utilizzo all'annullamento</p>
@@ -1153,7 +1153,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p><strong>Sconti basati su licenza</strong></p>
 </td>
 <td>
-<p><em>Può essere applicato a più tipi di costo</em></p>
+<p><em>Può essere applicato a più tipi di addebito</em></p>
 </td>
 <td>
 <p></p>
@@ -1167,8 +1167,8 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 <p><strong>Imposte</strong>&nbsp;o&nbsp;<strong>IVA</strong></p>
 </td>
 <td>
-<p><em>Può essere applicato a più tipi di costo</em></p>
-<p><em>Eccezione: &quot;Offset di una voce&quot; include già le imposte. Vedere i crediti, sopra.</em></p>
+<p><em>Può essere applicato a più tipi di addebito</em></p>
+<p><em>Eccezione: &quot;Offset una voce&quot; include già le imposte. Vedere crediti, sopra.</em></p>
 </td>
 <td>
 <p>Imposte o imposte sul valore aggiunto (IVA)</p>

@@ -1,54 +1,60 @@
 ---
-title: Aggiornare il profilo del partner | Centro per i partner
-description: La prima volta che accedi come amministratore, assicurati che i dettagli per il supporto siano corretti, registra le esenzioni fiscali se appropriato e controlla le informazioni sul contatto nei tuoi profili.
+title: Verificare il profilo partner | Centro per i partner
+description: La prima volta che si accede come amministratore, assicurarsi che i dettagli di supporto siano corretti, registrare le esenzioni fiscali se appropriato e controllare le informazioni sul contatto nei profili.
 MS.Topic: article
-Date: 02/19/2019
+Date: 08/06/2019
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
-author: MaggiePucciEvans
-ms.author: evansma
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e6089d022fb60b848124d1a1a1057e81024585
-ms.sourcegitcommit: 1201c95758188d9cc52aabdf5e1993ba6cc5402a
-ms.translationtype: MT
+ms.openlocfilehash: 6a8e8e85650306c67130fcd91dcbdb40f2d9498b
+ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "68642325"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68860961"
 ---
-# <a name="update-your-partner-profile"></a>Aggiornare il profilo del partner
+# <a name="verify-your-partner-profile"></a>Verificare il profilo partner
 
+La prima volta che si accede al Centro per i partner come amministratore globale, assicurarsi che tutti i dettagli aziendali come il contatto principale, il nome e l'indirizzo aziendale legali e le informazioni sul programma siano stati aggiunti correttamente. Se la società ha più di una località, verificare l'accuratezza dei dati della località. Come amministratore globale, amministratore fatturazione o agente di amministrazione, sarà possibile visualizzare e aggiornare le informazioni di fatturazione e fiscali. 
 
-La prima volta che accedi al Centro per i partner come amministratore, assicurati che i dettagli per il supporto siano corretti, registra le esenzioni fiscali se appropriato e controlla le informazioni sul contatto nei tuoi profili. Se l'organizzazione ha più di una località, verificare l'accuratezza dei dati della località.
+**Verificare le informazioni del profilo partner**
 
-**Aggiornare i dettagli del supporto**
+Il profilo partner è costituito dalle informazioni aziendali legali, dal nome del contatto principale e dalla posta elettronica, dai programmi a cui la società partecipa e, se pertinente, dalle altre società che sono ora fuse all'interno dell'azienda legale.
 
-1.  Passare a **Impostazioni** e selezionare **profilo partner**.
-2.  Nella sezione **Supporto** seleziona **Aggiorna**.
-3.  Se uno qualsiasi dei tuoi clienti chiama Microsoft per richiedere supporto, Microsoft lo reindirizzerà al sito Web, all'indirizzo e-mail e alle info di contatto telefonico elencati nel tuo profilo per il supporto.
+1.  Andare in **Impostazioni** e selezionare **Profilo partner**.
 
-**Esenzioni fiscali file**
+2.  Verificare il **Legal business profile** (Profilo aziendale legale), le **Primary contact info** (Informazioni sul contatto principale) e le **Program info** (Informazioni sul programma).
 
--   Decidi se esistono esenzioni fiscali applicabili per la tua azienda e in tal caso registrale prima di aggiungere qualsiasi cliente o sottoscrizione. Vedi [Imposte ed esenzioni fiscali](tax-and-tax-exemptions.md).
+Se sono state unite le altre società all'interno dell'azienda legale, è possibile esaminare anche le informazioni contenute in questa pagina.
 
-**Verificare le informazioni sul profilo**
+## <a name="update-your-legal-address"></a>Aggiornare l'indirizzo legale
 
-1.  Passare a **Impostazioni** e selezionare **profilo partner**. 
-2.  Controlla le informazioni in **Profilo partner**, **Profilo di fatturazione partner** e **Profilo organizzazione**.
+È ora possibile aggiornare l'indirizzo legale nel Centro per i partner.
 
-## <a name="manage-your-partner-profile"></a>Gestione del profilo partner 
+1. Andare in **Impostazioni** e selezionare **Profilo partner**. 
 
-È ora possibile aggiornare l'indirizzo legale nel centro per i partner.
-
-1. Passare a **Impostazioni** ND seleziona **profilo partner**. 
-2. Selezionare **Aggiorna** accanto a indirizzo legale. 
+2. Selezionare **Aggiorna** accanto all'indirizzo legale. 
 
 >[!Important]
->Non è possibile modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è associato al tenant e ai servizi. Per informazioni dettagliate, vedere [modificare l'indirizzo legale](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).
+>Non è possibile modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è associato al tenant e ai servizi, nonché alla valuta con cui si lavora. 
 
 3. Quando si seleziona **Invia**, l'identità legale verrà valutata di nuovo e si riceverà un altro messaggio di posta elettronica che dovrà essere accettato.
 
+## <a name="update-legal-business"></a>Aggiornare l'indirizzo legale
 
+Se durante la migrazione dal Partner Membership Center al Centro per i partner l'azienda sbagliata è stata identificata come azienda legale, è possibile modificarla in base alle esigenze aziendali corrette.
+
+1. Dalle **Impostazioni account** passare a **Percorsi** e verificare che l'azienda desiderata sia presente nell'elenco. In caso contrario, è possibile aggiungerla. Selezionare **Aggiungi percorso**.
+
+2.  Passare quindi a **Profilo partner** e selezionare **Update legal business profile** (Aggiorna profilo aziendale legale).
+
+3.  Selezionare la località e l'azienda da usare come azienda legale, quindi selezionare **Salva.**
+
+## <a name="update-your-billing-address"></a>Aggiornare l'indirizzo di fatturazione
+
+Se si è amministratore globale, amministratore fatturazione o agente di amministrazione, è possibile modificare l'indirizzo visualizzato nella fattura nel **Profilo di fatturazione**. Tuttavia, non è possibile modificare il nome della società nella fattura a causa di una limitazione del sistema di fatturazione.
 
  
-
 
 

@@ -1,18 +1,18 @@
 ---
-title: Aumenta il tuo business con le segnalazioni Microsoft | Centro per i partner
+title: Espandere la propria attività con le segnalazioni Microsoft | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
-description: Genera nuovi lead ed entra in contatto con i clienti che hanno bisogno di aiuto per implementare i prodotti e le soluzioni Microsoft.
+ms.date: 08/12/2019
+description: Generare nuovi lead ed entrare in contatto con i clienti che richiedono aiuto per implementare i prodotti e le soluzioni Microsoft.
 author: LauraBrenner
 ms.author: labrenne
-keywords: segnalazioni, profilo di lavoro, trova un partner
+keywords: segnalazioni, profilo di business, trovare un partner
 ms.localizationpriority: medium
-ms.openlocfilehash: d0dd23eaadc5a27a6818aeac2529288b639c6b36
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: de46c7546ea424c313d0f8216db86d515e851da1
+ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134020"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "68958741"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -24,11 +24,11 @@ ms.locfileid: "62134020"
 
 Molti clienti cercano esperti qualificati che li assistano nell'implementazione di soluzioni aziendali e tecnologiche Microsoft. Qui in Microsoft riceviamo spesso dai clienti richieste di aiuto dirette tramite le nostre attività di marketing e i nostri agenti di vendita interni Microsoft. I clienti usano anche l'esperienza [**Trova un provider di soluzioni**](https://www.microsoft.com/solution-providers/search) per trovare aziende in grado di soddisfare le loro esigenze aziendali. 
 
-Vogliamo metterti in contatto con i clienti che hanno bisogno delle tue soluzioni e della tua competenza. Il passaggio più importante da eseguire per iniziare a ottenere lead di vendita da noi è [creare un profilo di lavoro](create-a-marketing-profile.md) che presenti le offerte, le soluzioni e la competenza della tua azienda. Il tuo profilo di lavoro verrà elencato in tutti i luoghi in cui i clienti e gli agenti di vendita Microsoft interni cercano per individuare partner qualificati. 
+Vogliamo creare contatti con i clienti che richiedono soluzioni e competenza. Il passaggio più importante da eseguire per iniziare a ottenere lead di vendita da noi è [creare un profilo di business](create-a-marketing-profile.md) che presenti le offerte, le soluzioni e la competenza dell'azienda. Il profilo di business verrà indicato in tutti i luoghi in cui i clienti e gli agenti di vendita interni Microsoft ricercano partner qualificati. 
 
- Dopo aver pubblicato il profilo di business, si inizierà a ricevere clienti potenziali attraverso la funzionalità dei riferimenti nel centro per i Partner. È importante rispondere alle segnalazioni entro il periodo di tempo richiesto per continuare a ricevere questi lead e, soprattutto, per concludere le trattative. Visualizzare [rispondere dei riferimenti](responding-to-referrals.md) per informazioni dettagliate su come gestire sales lead nel centro per i Partner.  
+ Dopo aver pubblicato il profilo di business, si incomincerà a ricevere lead di vendita tramite la funzionalità di segnalazione nel Centro per i partner. È importante rispondere alle segnalazioni entro il periodo di tempo richiesto per continuare a ricevere questi lead e, soprattutto, per concludere le trattative. Vedere [Rispondere alle segnalazioni](responding-to-referrals.md) per informazioni dettagliate su come gestire i lead di vendita nel Centro per i partner.  
 
-Buona fortuna!
+A questo punto, guardare questo breve video, [Optimize your business profile](https://player.vimeo.com/video/252788046) (Ottimizzare il profilo di business).  
 
 <!-- 
 *  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you’re getting in front of your target customers.

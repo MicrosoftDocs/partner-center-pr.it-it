@@ -1,54 +1,60 @@
 ---
-title: Aggiornare il profilo del partner | Centro per i partner
-description: La prima volta che accedi come amministratore, assicurati che i dettagli per il supporto siano corretti, registra le esenzioni fiscali se appropriato e controlla le informazioni sul contatto nei tuoi profili.
+title: Verificare il profilo partner | Centro per i partner
+description: La prima volta che si accede come amministratore, assicurarsi che i dettagli di supporto siano corretti, registrare le esenzioni fiscali se appropriato e controllare le informazioni sul contatto nei profili.
 MS.Topic: article
-Date: 02/19/2019
+Date: 08/06/2019
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
-author: MaggiePucciEvans
-ms.author: evansma
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e6089d022fb60b848124d1a1a1057e81024585
-ms.sourcegitcommit: 1201c95758188d9cc52aabdf5e1993ba6cc5402a
-ms.translationtype: MT
+ms.openlocfilehash: 6a8e8e85650306c67130fcd91dcbdb40f2d9498b
+ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "68642325"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68860961"
 ---
-# <a name="update-your-partner-profile"></a><span data-ttu-id="d7974-103">Aggiornare il profilo del partner</span><span class="sxs-lookup"><span data-stu-id="d7974-103">Update your partner profile</span></span>
+# <a name="verify-your-partner-profile"></a><span data-ttu-id="66724-103">Verificare il profilo partner</span><span class="sxs-lookup"><span data-stu-id="66724-103">Verify your partner profile</span></span>
 
+<span data-ttu-id="66724-104">La prima volta che si accede al Centro per i partner come amministratore globale, assicurarsi che tutti i dettagli aziendali come il contatto principale, il nome e l'indirizzo aziendale legali e le informazioni sul programma siano stati aggiunti correttamente.</span><span class="sxs-lookup"><span data-stu-id="66724-104">The first time you sign into Partner Center as  global admin, make sure all your company details such as primary contact, legal business name and address, and program information is correctly added.</span></span> <span data-ttu-id="66724-105">Se la società ha più di una località, verificare l'accuratezza dei dati della località.</span><span class="sxs-lookup"><span data-stu-id="66724-105">If your company has more than one location, review your location data for accuracy.</span></span> <span data-ttu-id="66724-106">Come amministratore globale, amministratore fatturazione o agente di amministrazione, sarà possibile visualizzare e aggiornare le informazioni di fatturazione e fiscali.</span><span class="sxs-lookup"><span data-stu-id="66724-106">As global admin, billing admin, or admin agent, you will also be able to see and update your billing and tax information.</span></span> 
 
-<span data-ttu-id="d7974-104">La prima volta che accedi al Centro per i partner come amministratore, assicurati che i dettagli per il supporto siano corretti, registra le esenzioni fiscali se appropriato e controlla le informazioni sul contatto nei tuoi profili.</span><span class="sxs-lookup"><span data-stu-id="d7974-104">The first time you sign into Partner Center as an admin, make sure your support details are correct, file tax exemptions if appropriate, and review the contact information in your profiles.</span></span> <span data-ttu-id="d7974-105">Se l'organizzazione ha più di una località, verificare l'accuratezza dei dati della località.</span><span class="sxs-lookup"><span data-stu-id="d7974-105">If your organization has more than one location, review your location data for accuracy.</span></span>
+<span data-ttu-id="66724-107">**Verificare le informazioni del profilo partner**</span><span class="sxs-lookup"><span data-stu-id="66724-107">**Verify your partner profile information**</span></span>
 
-<span data-ttu-id="d7974-106">**Aggiornare i dettagli del supporto**</span><span class="sxs-lookup"><span data-stu-id="d7974-106">**Update your support details**</span></span>
+<span data-ttu-id="66724-108">Il profilo partner è costituito dalle informazioni aziendali legali, dal nome del contatto principale e dalla posta elettronica, dai programmi a cui la società partecipa e, se pertinente, dalle altre società che sono ora fuse all'interno dell'azienda legale.</span><span class="sxs-lookup"><span data-stu-id="66724-108">Your partner profile consists of your legal business information, primary contact name and email, the programs which your company participates in, and if relevant, your other companies that are now merged under your legal business.</span></span>
 
-1.  <span data-ttu-id="d7974-107">Passare a **Impostazioni** e selezionare **profilo partner**.</span><span class="sxs-lookup"><span data-stu-id="d7974-107">Go to **Settings** and select **Partner profile**.</span></span>
-2.  <span data-ttu-id="d7974-108">Nella sezione **Supporto** seleziona **Aggiorna**.</span><span class="sxs-lookup"><span data-stu-id="d7974-108">In the **Support** section, select **Update**.</span></span>
-3.  <span data-ttu-id="d7974-109">Se uno qualsiasi dei tuoi clienti chiama Microsoft per richiedere supporto, Microsoft lo reindirizzerà al sito Web, all'indirizzo e-mail e alle info di contatto telefonico elencati nel tuo profilo per il supporto.</span><span class="sxs-lookup"><span data-stu-id="d7974-109">If any of your customers call Microsoft looking for support, Microsoft will point them back to the website, email, and phone contact info that you list in your support profile.</span></span>
+1.  <span data-ttu-id="66724-109">Andare in **Impostazioni** e selezionare **Profilo partner**.</span><span class="sxs-lookup"><span data-stu-id="66724-109">Go to **Settings** and select **Partner profile**.</span></span>
 
-<span data-ttu-id="d7974-110">**Esenzioni fiscali file**</span><span class="sxs-lookup"><span data-stu-id="d7974-110">**File tax exemptions**</span></span>
+2.  <span data-ttu-id="66724-110">Verificare il **Legal business profile** (Profilo aziendale legale), le **Primary contact info** (Informazioni sul contatto principale) e le **Program info** (Informazioni sul programma).</span><span class="sxs-lookup"><span data-stu-id="66724-110">Review your **Legal business profile**, **Primary contact info**, and your **Program info**.</span></span>
 
--   <span data-ttu-id="d7974-111">Decidi se esistono esenzioni fiscali applicabili per la tua azienda e in tal caso registrale prima di aggiungere qualsiasi cliente o sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="d7974-111">Decide whether tax exemptions apply to you, and if so file them before you add any customers or subscriptions.</span></span> <span data-ttu-id="d7974-112">Vedi [Imposte ed esenzioni fiscali](tax-and-tax-exemptions.md).</span><span class="sxs-lookup"><span data-stu-id="d7974-112">See [Tax and tax exemptions](tax-and-tax-exemptions.md).</span></span>
+<span data-ttu-id="66724-111">Se sono state unite le altre società all'interno dell'azienda legale, è possibile esaminare anche le informazioni contenute in questa pagina.</span><span class="sxs-lookup"><span data-stu-id="66724-111">If you have merged your other companies under your legal business, you can review their information as well on this page.</span></span>
 
-<span data-ttu-id="d7974-113">**Verificare le informazioni sul profilo**</span><span class="sxs-lookup"><span data-stu-id="d7974-113">**Verify your profile information**</span></span>
+## <a name="update-your-legal-address"></a><span data-ttu-id="66724-112">Aggiornare l'indirizzo legale</span><span class="sxs-lookup"><span data-stu-id="66724-112">Update your legal address</span></span>
 
-1.  <span data-ttu-id="d7974-114">Passare a **Impostazioni** e selezionare **profilo partner**.</span><span class="sxs-lookup"><span data-stu-id="d7974-114">Go to **Settings** and select **Partner profile**.</span></span> 
-2.  <span data-ttu-id="d7974-115">Controlla le informazioni in **Profilo partner**, **Profilo di fatturazione partner** e **Profilo organizzazione**.</span><span class="sxs-lookup"><span data-stu-id="d7974-115">Review your **Partner profile**, **Partner billing profile**, and **Organizational profile**.</span></span>
+<span data-ttu-id="66724-113">È ora possibile aggiornare l'indirizzo legale nel Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="66724-113">You can now update your legal address on Partner Center.</span></span>
 
-## <a name="manage-your-partner-profile"></a><span data-ttu-id="d7974-116">Gestione del profilo partner</span><span class="sxs-lookup"><span data-stu-id="d7974-116">Manage your Partner profile</span></span> 
+1. <span data-ttu-id="66724-114">Andare in **Impostazioni** e selezionare **Profilo partner**.</span><span class="sxs-lookup"><span data-stu-id="66724-114">Go to **Settings** and select **Partner profile**.</span></span> 
 
-<span data-ttu-id="d7974-117">È ora possibile aggiornare l'indirizzo legale nel centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="d7974-117">You can now update your legal address on Partner Center.</span></span>
-
-1. <span data-ttu-id="d7974-118">Passare a **Impostazioni** ND seleziona **profilo partner**.</span><span class="sxs-lookup"><span data-stu-id="d7974-118">Go to **Settings** nd select **Partner profile**.</span></span> 
-2. <span data-ttu-id="d7974-119">Selezionare **Aggiorna** accanto a indirizzo legale.</span><span class="sxs-lookup"><span data-stu-id="d7974-119">Select **Update** next to Legal address.</span></span> 
+2. <span data-ttu-id="66724-115">Selezionare **Aggiorna** accanto all'indirizzo legale.</span><span class="sxs-lookup"><span data-stu-id="66724-115">Select **Update** next to Legal address.</span></span> 
 
 >[!Important]
-><span data-ttu-id="d7974-120">Non è possibile modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è associato al tenant e ai servizi.</span><span class="sxs-lookup"><span data-stu-id="d7974-120">You can't change the country associated with your legal address.Your legal address country is tied to your tenant and services.</span></span> <span data-ttu-id="d7974-121">Per informazioni dettagliate, vedere [modificare l'indirizzo legale](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="d7974-121">For details, read [Change your legal address](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span></span>
+><span data-ttu-id="66724-116">Non è possibile modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è associato al tenant e ai servizi, nonché alla valuta con cui si lavora.</span><span class="sxs-lookup"><span data-stu-id="66724-116">You can't change the country associated with your legal address.Your legal address country is tied to your tenant and services as well as the currency you do business with.</span></span> 
 
-3. <span data-ttu-id="d7974-122">Quando si seleziona **Invia**, l'identità legale verrà valutata di nuovo e si riceverà un altro messaggio di posta elettronica che dovrà essere accettato.</span><span class="sxs-lookup"><span data-stu-id="d7974-122">When you select **Submit**, your legal identity will be re-assessed, and you will receive another email which you will need to accept.</span></span>
+3. <span data-ttu-id="66724-117">Quando si seleziona **Invia**, l'identità legale verrà valutata di nuovo e si riceverà un altro messaggio di posta elettronica che dovrà essere accettato.</span><span class="sxs-lookup"><span data-stu-id="66724-117">When you select **Submit**, your legal identity will be re-assessed, and you will receive another email which you will need to accept.</span></span>
 
+## <a name="update-legal-business"></a><span data-ttu-id="66724-118">Aggiornare l'indirizzo legale</span><span class="sxs-lookup"><span data-stu-id="66724-118">Update legal business</span></span>
 
+<span data-ttu-id="66724-119">Se durante la migrazione dal Partner Membership Center al Centro per i partner l'azienda sbagliata è stata identificata come azienda legale, è possibile modificarla in base alle esigenze aziendali corrette.</span><span class="sxs-lookup"><span data-stu-id="66724-119">If, during your migration from Partner Membership Center to Partner Center, the wrong business was identified as the legal business, you can change it to the correct business.</span></span>
+
+1. <span data-ttu-id="66724-120">Dalle **Impostazioni account** passare a **Percorsi** e verificare che l'azienda desiderata sia presente nell'elenco.</span><span class="sxs-lookup"><span data-stu-id="66724-120">From **Account settings** go to **Locations** and make sure the business you want as your legal business is in the list.</span></span> <span data-ttu-id="66724-121">In caso contrario, è possibile aggiungerla.</span><span class="sxs-lookup"><span data-stu-id="66724-121">If it isn't, you can add it.</span></span> <span data-ttu-id="66724-122">Selezionare **Aggiungi percorso**.</span><span class="sxs-lookup"><span data-stu-id="66724-122">Select **Add location**.</span></span>
+
+2.  <span data-ttu-id="66724-123">Passare quindi a **Profilo partner** e selezionare **Update legal business profile** (Aggiorna profilo aziendale legale).</span><span class="sxs-lookup"><span data-stu-id="66724-123">Next go to **Partner profile** and select **Update legal business profile**.</span></span>
+
+3.  <span data-ttu-id="66724-124">Selezionare la località e l'azienda da usare come azienda legale, quindi selezionare **Salva.**</span><span class="sxs-lookup"><span data-stu-id="66724-124">Select the location and business you want to use as your legal business and then select **Save**.</span></span>
+
+## <a name="update-your-billing-address"></a><span data-ttu-id="66724-125">Aggiornare l'indirizzo di fatturazione</span><span class="sxs-lookup"><span data-stu-id="66724-125">Update your billing address</span></span>
+
+<span data-ttu-id="66724-126">Se si è amministratore globale, amministratore fatturazione o agente di amministrazione, è possibile modificare l'indirizzo visualizzato nella fattura nel **Profilo di fatturazione**.</span><span class="sxs-lookup"><span data-stu-id="66724-126">If you are the global admin, billing admin, or admin agent, you can change the address that appears on your invoice in your **Billing profile**.</span></span> <span data-ttu-id="66724-127">Tuttavia, non è possibile modificare il nome della società nella fattura a causa di una limitazione del sistema di fatturazione.</span><span class="sxs-lookup"><span data-stu-id="66724-127">You can't, however, change the company name on your invoice because of a limitation with the invoice system.</span></span>
 
  
-
 
 

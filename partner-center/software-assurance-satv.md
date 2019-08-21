@@ -1,84 +1,73 @@
 ---
-title: Programma Software Assurance training voucher (SATV) nel centro per i partner | Centro per i partner
+title: Programma SATV (Software Assurance Training Voucher) nel Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 01/16/2019
+ms.date: 07/29/19
 description: Iscriversi al programma di formazione Software Assurance
 author: LauraBrenner
 ms.author: labrenne
-keywords: voucher per la formazione, Software Assurance, formazione, registrazione in SATV, SATV
+keywords: voucher per la formazione, Software Assurance, formazione, iscriversi a SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: d8ef5ca34a89fa38e6408b40f886d1d049f8ef87
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.openlocfilehash: 026f5d5f3913a0336be1459580792635306d3514
+ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820406"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68860936"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programma SATV (Programma per i voucher di formazione Software Assurance) nel centro per i Partner
+# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programma SATV (Software Assurance Training Voucher) nel Centro per i partner
 
-Fai crescere il tuo business registrando i programmi del partner Software Assurance. Microsoft compensa i partner per la distribuzione di corsi di formazione, pianificazione e altri servizi ai clienti aziendali con Software Assurance. 
+Espandere la propria attività iscrivendosi ai programmi per partner Software Assurance. Microsoft ricompensa i partner per la distribuzione di corsi di formazione, pianificazione e altri servizi ai clienti aziendali con Software Assurance. 
 
-In qualità di partner di formazione Software Assurance approvato, Microsoft compensa l'utente per fornire formazione tecnica ai clienti aziendali in cambio dei voucher che ottengono con Software Assurance. La partecipazione a questo programma può essere utile per attirare più clienti e diventare partner di formazione attendibile.
+In qualità di partner di formazione Software Assurance approvato, Microsoft ricompensa l'utente per la formazione tecnica fornita ai clienti aziendali in cambio dei voucher che ottengono con Software Assurance. La partecipazione a questo programma può essere utile per attirare più clienti e diventare partner di formazione attendibile.
 
-Se non si ha familiarità con i servizi di formazione per Software Assurance, vedere [Software Assurance Training vouchers](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx)
+## <a name="get-started"></a>Informazioni di base
 
-## <a name="get-started"></a>Attività iniziali
+Se non si ha familiarità con i servizi di formazione per Software Assurance, seguire tutti i passaggi seguenti. Se il programma di voucher per la formazione è già attivo, iniziare dal passaggio quattro (4). 
 
-Se non si ha familiarità con i servizi di formazione per Software Assurance, seguire tutti i passaggi seguenti. Se il programma training voucher è già attivo e le informazioni sull'account partner sono state spostate nel centro per i partner, iniziare dal passaggio 4 (4). 
-
-1. Conferma idoneità del programma
-2. Iscriversi al programma di formazione
-3. Aggiorna profilo aziendale nella directory partner
-4. Riserva il voucher cliente
-5. Identificare i corsi e aggiungere partecipanti
-6. Riscattare il voucher
-7. Richiedi pagamento
+1. Conferma dell'idoneità al programma
+2. Iscrizione al programma di formazione
+3. Conferma dell'idoneità al corso
+4. Creazione e assegnazione di un voucher da parte dei clienti
+5. Convalida e prenotazione del voucher cliente
+6. Offerta di formazione e attivazione di un prodotto
+7. Riscatto del voucher
+8. Richiesta del pagamento
 
 Questo articolo illustra come completare ogni passaggio.
 
-## <a name="confirm-program-eligibility"></a>Conferma idoneità del programma
+## <a name="confirm-program-eligibility"></a>Conferma dell'idoneità al programma
 
-Prima di poter eseguire la registrazione al programma SATV, è necessario prima completare i requisiti per l'opzione di apprendimento Microsoft Partner Network, che sostituisce la competenza Microsoft Learning. Informazioni su come iniziare a usare l' [opzione Learning.](https://partner.microsoft.com/marketing/details/learning-option-enrollment#/)
+Prima di poter eseguire l'iscrizione al programma SATV, è necessario prima soddisfare i requisiti per l'opzione di apprendimento Microsoft Partner Network, che sostituisce la competenza Microsoft Learning. Informazioni su come iniziare a usare l'[opzione Learning.](https://partner.microsoft.com/marketing/details/learning-option-enrollment#/)
 
-È inoltre necessario soddisfare i requisiti seguenti:
+È possibile verificare l'idoneità dell'azienda, inclusi i requisiti di competenza e valutazione applicabili nel Centro per i partner. Per altri dettagli e schermate, seguire le istruzioni nel passaggio 1 del flusso di lavoro SATV.
 
-- Accettare i voucher di formazione elettronica al [prezzo prestabilito](https://partner.microsoft.com/membership/satv-voucher-pricing).
+## <a name="enroll-in-the-training-program"></a>Iscrizione al programma di formazione
 
-- Esaminare il [contratto di programma Microsoft SATV](https://aka.ms/satv_legal_agreement) e accettare i termini e le condizioni. Questa operazione viene firmata durante la registrazione. 
+Quando la società soddisfa i requisiti di idoneità e i partecipanti al programma hanno superato il corso di formazione sulla conformità, si è pronti per firmare il contratto del programma Software Assurance training voucher e registrarsi. Assicurarsi di esaminare tutti i criteri del programma SATV, quindi seguire le istruzioni nel passaggio 2 del flusso di lavoro per completare il processo di registrazione di SATV nel Centro per i partner.   
 
-- Verificare la conformità con tutte le opzioni di apprendimento correnti e i termini e le condizioni del contratto di programma SATV, mentre un membro attivo del programma (inclusi, a sua tempo,: garanzie di soddisfazione dei clienti, indicatori KPI e requisiti di acquisto MOC digitale) e SATV [criteri](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ProgramPolicies.aspx)di programma.
 
-- Potrai offrire tutti i corsi idonei per SATV nel [Catalogo dei prodotti Software Assurance Training](https://aka.ms/SATV_catalog), quando la richiesta è sufficiente (verrà esaminata nel passaggio 3. [Confermare l'idoneità del corso SATV](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ConfirmEligibility.aspx).
+## <a name="confirm-course-eligibility"></a>Conferma dell'idoneità al corso
+Dopo l'iscrizione al programma SATV, i partner possono offrire sessioni di formazione per i corsi idonei per SATV, per i quali i clienti possono usare i propri voucher per la formazione. I corsi idonei sono elencati nel catalogo di idoneità del corso SATV. Esaminare il passaggio 3 del flusso di lavoro per comprendere quali tipi di corsi sono idonei per SATV.
 
-## <a name="enroll-in-the-training-program"></a>Iscriversi al programma di formazione
+## <a name="have-customer-create-and-assign-voucher"></a>Creazione e assegnazione di un voucher da parte dei clienti
 
-Quando la società soddisfa i requisiti di idoneità per un programma di servizi di pianificazione e i partecipanti al programma hanno superato il corso di formazione sulla conformità, è possibile eseguire la registrazione. I passaggi finali per eseguire la registrazione sono completare il requisito di formazione per la conformità a SATV e firmare il contratto di programma.  
+Prima di eseguire una sessione di formazione, il cliente deve prima attivare il proprio vantaggio SATV e quindi assegnarlo all'organizzazione. Per istruzioni dettagliate con le schermate che illustrano i passaggi che il cliente deve eseguire per creare un voucher e assegnarlo all'utente, vedere il passaggio 4 del flusso di lavoro.
 
-## <a name="complete-the-satv-compliance-training"></a>Completa la formazione per la conformità a SATV
+## <a name="validate-and-reserve-customer-vouchers"></a>Convalida e prenotazione del voucher cliente
 
-Almeno un trainer dell'azienda deve avere completato il corso di formazione sulla conformità SATV online per l'Università partner.
- 
-1. Se non è già stato fatto, associare l'ID MPN al account Microsoft. Vedere come [associare l'ID MPN](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/How to Associate to Your MPN ID 2015 Regular.pdf).
+A questo punto è possibile prenotare e riscattare i voucher e iniziare le sessioni di formazione con clienti. L'amministratore MPN dell'azienda ha accesso allo strumento di gestione dei voucher nel Centro per i partner e può aggiungere utenti che devono lavorare nello strumento. Per istruzioni sulla convalida e la prenotazione di voucher, vedere il passaggio 5 del flusso di lavoro.
 
-2. Seguire le istruzioni per [accedere all'Università partner](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/Partner_University_on-boarding.pdf) per la prima volta.
+## <a name="deliver-training-and-activate-product"></a>Offerta di formazione e attivazione di un prodotto
 
-3. Passare al [corso di formazione sulla conformità di SATV](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14461&scoId=dXsXmk7lB_2704778676) in partner University. se non è possibile accedere a questo collegamento, assicurarsi di aver completato i passaggi 1 e 2.  
+Dopo aver prenotato un voucher, è possibile fornire la formazione al cliente. Vedere il passaggio 6 del flusso di lavoro per le linee guida di engagement per la formazione e le istruzioni per l'attivazione e l'acquisto di Microsoft Official Courseware (MOC), gli esami e i voucher per certificati dei corsi Microsoft (LaaS) per i corsi MOOC.
 
-## <a name="sign-the-agreement"></a>Firma il contratto
+## <a name="redeem-voucher"></a>Riscatto del voucher
 
-Leggere, comprendere e firmare il [contratto del programma Software Assurance training voucher](https://partners.microsoft.com/partnerprogram/Satv.aspx), che descrive i criteri di programma e le responsabilità dei partner. L'amministratore globale dell'azienda può firmare il contratto 24 ore dopo aver completato il requisito di formazione per la conformità a SATV.
+Dopo aver completato la formazione, è necessario riscattare il voucher. Seguire le istruzioni nel passaggio 7 del flusso di lavoro per verificare che tutti i requisiti siano soddisfatti, in modo che sia possibile richiedere il pagamento. 
 
-Sono necessarie fino a 24 ore prima che i sistemi riflettano che l'utente è registrato attivamente nel programma SATV. 
 
-## <a name="reserve-and-redeem-training-vouchers"></a>Riservare e riscattare i voucher di formazione
+## <a name="request-payment-from-microsoft"></a>Richiesta del pagamento a Microsoft
 
-A questo punto è possibile riservare e riscattare i voucher e iniziare a eseguire il training dei clienti. L'amministratore MPN dell'azienda ha accesso allo strumento di convalida e riscatto del voucher (VVR) nel centro per i partner e può aggiungere utenti che devono lavorare nello strumento. Per altre informazioni su VVR, vedere [Manage vouchers in the voucher Validation and Redemption Tool](voucher-validation-tool.md).
+I pagamenti vengono gestiti tramite lo strumento di pagamento online SAVB (Software Assurance voucher benefit). Seguire le istruzioni nel passaggio 8 del flusso di lavoro per inviare una fattura a Microsoft tramite SAVB. 
 
->[!Note]
->Lo strumento VVR è stato spostato nel centro per i partner. Al 2019 marzo il vecchio sito dello strumento VVR verrà ritirato.
-
-## <a name="request-payment-from-microsoft"></a>Richiedi pagamento da Microsoft
-
-I pagamenti vengono gestiti tramite lo strumento di pagamento online SAVB (Software Assurance voucher benefit).  Informazioni su come [inviare una fattura a Microsoft tramite savb](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/GetPaid.aspx).
-
-Per ulteriori informazioni, leggere le [domande frequenti](vvr-faq.md).
+Per altre informazioni, vedere le [domande frequenti](vvr-faq.md).

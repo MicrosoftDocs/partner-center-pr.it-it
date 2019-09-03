@@ -1,84 +1,85 @@
 ---
-title: Passaggio da PMC a centro per i partner | Centro per i partner
+title: Passaggio dal Partner Membership Center al Centro per i partner | Centro per i partner
 ms.topic: article
 ms.date: 06/14/2019
-description: Comprendere le differenze e le analogie tra i PMC e il centro per i partner
+description: Comprendere le differenze e le analogie tra Partner Membership Center e Centro per i partner
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, migrazione, passaggio al centro per i partner
+keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: medium
-ms.openlocfilehash: fa5944a2f0fd70ec6337f3858199cdeb586fb39a
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: MT
+ms.openlocfilehash: 32bae49c23dd471e3b6be8415573361b758dce57
+ms.sourcegitcommit: 30ceee7d22f24f79cac15c537b1c3fc7ab8d700c
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708871"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "69999656"
 ---
-# <a name="moving-from-pmc-to-partner-center"></a>Passaggio da PMC al centro per i partner
+# <a name="moving-from-pmc-to-partner-center"></a>Passaggio dal Partner Membership Center al Centro per i partner
 
-Microsoft sta semplificando l'attività con Microsoft, introducendo un unico sito Web (centro per i partner) che funge da punto centrale di engagement. Nel dashboard del centro per i partner è possibile trovare tutti gli elementi che sono stati eseguiti in partner Membership Center (PMC). 
+Stiamo semplificando il modo di collaborare con Microsoft, introducendo un unico sito Web (Centro per i partner) che fungerà da punto di interazione centrale. Nel dashboard del Centro per i partner potrai svolgere tutte le attività in precedenza disponibili nel Partner Membership Center (PMC) 
 
-È anche possibile eseguire molte altre operazioni senza uscire da un unico sito Web. Alcune della terminologia e delle funzionalità possono avere un aspetto diverso. Per attenuare eventuali problemi iniziali relativi a dove e quali elementi sono, visitare il sito del dashboard.
+e molte altre, senza mai lasciare il sito. Alcuni termini e funzionalità possono tuttavia avere un aspetto diverso. Per ridurre le difficoltà iniziali sul significato e la posizione delle funzionalità, esplora il sito del dashboard.
 
-Questa tabella presenta alcune delle differenze tra la console di gestione dei partner e il centro per i partner.
+Questa tabella illustra alcune delle differenze tra Partner Membership Center e Centro per i partner.
 
-## <a name="renewing-your-microsoft-partner-network--membership"></a>Rinnovo dell'appartenenza Microsoft Partner Network
+## <a name="renewing-your-microsoft-partner-network--membership"></a>Rinnovo dell'adesione al Microsoft Partner Network
 
 |**PMC**   |**Centro per i partner**|
 |----------------------|:-----------------------------|
-|Il rinnovo è stato avviato 90 prima dell'anniversario e deve essere stato completato entro la data di anniversario| I partner possono rinnovare l'inizio del giorno dopo l'anniversario e fino a 30 giorni dopo l'anniversario.|
+|I rinnovi partivano da 90 giorni prima della data di ricorrenza annuale e dovevano essere completati entro la data di ricorrenza annuale| I partner possono rinnovare a partire dal giorno successivo alla data di ricorrenza annuale e fino a 30 giorni dopo la data di ricorrenza annuale.|
 
 ## <a name="account-structure"></a>Struttura dell'account
 
 |**PMC**   |**Centro per i partner**|
 |----------------------|:-----------------------------|
-|Sedi centrali e posizioni, ciascuna valutata separatamente. Valutazione delle competenze eseguita a livello locale|Una società globale (noto anche come partner Global account PGA), incluse le località, valutate nel suo complesso; dati sulle prestazioni e sulle competenze aggregati a livello di PGA; include diverse visualizzazioni profilo per programmi quali profilo partner e profilo business per i riferimenti e il marketing|
+|Sedi centrali e ubicazioni, valutati separatamente. Valutazione delle competenze eseguita a livello locale|Una società globale, l'account globale del partner (PGA), incluse le ubicazioni, valutato nel suo complesso; dati sulle prestazioni e sulle competenze aggregati a livello di PGA; include diverse visualizzazioni profilo per i programmi quali Profilo partner e Profilo aziendale per le segnalazioni e il marketing. Per altre informazioni, vedi [Struttura degli account nel Centro per i partner](https://docs.microsoft.com/partner-center/account-structure.md)|
 
-## <a name="sign-in"></a>Accesso
+## <a name="sign-in"></a>Accedi
 
 |**PMC**   |**Centro per i partner**|
 |----------------------|:-----------------------------|
-|È possibile usare le credenziali dell'account di account Microsoft (MSA) o personalijoe@outlook.com|È necessario usare le credenziali dell'account di lavorojoe@joescompany.com, (.)|
+|Possibilità di usare le credenziali dell'account Microsoft (MSA) o personale joe@outlook.com|È necessario usare le credenziali dell'account aziendale, (joe@joescompany.com). Per altre informazioni, vedi [Account aziendale e Centro per i partner](https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center.md).|
 
 ## <a name="user-roles"></a>Ruoli utente
 
 |**PMC**   |**Centro per i partner**|
 |----------------------|:-----------------------------|
-|Sono presenti molti ruoli in PMC che non sono specificati nel centro per i partner|All'amministratore che esegue lo spostamento al centro per i partner vengono assegnati automaticamente i ruoli amministratore MPN, amministratore account e amministratore dei riferimenti. Possono quindi assegnare altri utenti ai ruoli utente.|
-|Gli utenti sono stati gestiti a livello di posizione|Gli utenti vengono gestiti a livello aziendale (PGA) anziché a livello di località. L'eccezione è l'amministratore di incentivi che funziona a livello di località.|
-|   |Il centro per i partner ha due ampi set di ruoli, ovvero i ruoli che amministrano il tenant Azure AD e i ruoli che amministrano l'azienda. È possibile organizzare i ruoli nel modo più appropriato per l'azienda. Una volta che l'utente può eseguire tutte le operazioni, è possibile assegnare ruoli e autorizzazioni separate a tutti gli utenti. 
+|Molti ruoli in PMC non sono usati nel Centro per i partner|All'amministratore che esegue il passaggio al Centro per i partner vengono assegnati automaticamente i ruoli di amministratore MPN, amministratore account e amministratore delle segnalazioni. Può quindi assegnare altri utenti ai ruoli utente.|
+|Utenti gestiti a livello di ubicazione|Gli utenti sono gestiti a livello di società (PGA) anziché a livello di ubicazione. L'eccezione è l'amministratore degli incentivi, che opera a livello di ubicazione.|
+|   |Il Centro per i partner ha due ampi set di ruoli, ovvero i ruoli che amministrano il tenant di Azure AD e i ruoli che amministrano le attività aziendali. Organizza i ruoli nel modo più appropriato per l'azienda. Una sola persona può occuparsi di tutto oppure è possibile assegnare autorizzazioni e ruoli separati a più utenti. Per altre informazioni, vedi [Assegnare autorizzazioni e ruoli utente](https://docs.microsoft.com/partner-center/permissions-overview). 
 
-## <a name="how-competencies-and-benefits-are-accounted-for"></a>Come vengono considerati le competenze e i vantaggi
+## <a name="how-competencies-and-benefits-are-accounted-for"></a>Calcolo di competenze e benefit
 
 |**PMC**   |**Centro per i partner**|
 |----------------------|:-----------------------------|
-|Accumulato per località e amministrato per località|I vantaggi sono per tutta la società, inclusa l'amministrazione dei vantaggi, ma è possibile gestire i vantaggi nel modo più adatto alla propria azienda |
-|È possibile che i kit di strumenti per i vantaggi aggiuntivi (ABTKs) siano stati ritirati nel 2018 ottobre.|Nessun ABTKs; una mappa per azienda; una competenza Silver per azienda; una competenza Gold per azienda|
-|È stato eseguito l'accesso ai vantaggi nel download digitale del partner (PDD) |Accesso a tutti i vantaggi nel centro per i partner|
-|Competenze e vantaggi distribuiti e divisi in più posizioni|Le tue competenze e i tuoi vantaggi di tutte le tue sedi sono consolidati a livello di società (PGA) e verranno conservati fino alla data di anniversario. A questo punto, sarà necessario acquistare o rinnovare a livello di società. Prestazioni e competenze, oltre alle competenze, sono aggregate a livello globale|
-|Le attestazioni del voucher Software Assurance vengono effettuate nello strumento Valication (voucher) e redmption (VVR)|È ora possibile accedere e gestire i voucher di formazione Software Assurance (SATV) e/o i servizi di pianificazione distribuiti (DPS) nel centro per i partner.  Lo strumento VVR legacy verrà rimosso il 1 ° ottobre 2019.  |
+|Accumulati e amministrati per ubicazione|I benefit sono per l'intera società, inclusa l'amministrazione dei benefit, ma è possibile gestirli nel modo che meglio si adatta alle proprie esigenze |
+|Possibilità di avere toolkit di vantaggi aggiuntivi (ABTK) fino al ritiro, nell'ottobre 2018.|Niente ABTK, un abbonamento Microsoft Action Pack (MAPS) per società, una competenza Silver per società, una competenza Gold per società|
+||Se non si ha già un MAPS, è possibile acquistarlo. La proprietà del MAPS non è legata alle competenze.  
+|Benefit accessibili tramite il portale di download digitale dei partner (PDD) |Accesso a tutti i benefit tramite il Centro per i partner|
+|Competenze e benefit distribuiti e divisi tra più ubicazioni|Le competenze e i benefit di tutte le ubicazioni sono consolidati a livello di società (PGA) e verranno conservati fino alla data di ricorrenza annuale. In quel momento sarà necessario acquistare o rinnovare a livello di società. Prestazioni e competenze sono aggregate a livello globale|
+|Le richieste di voucher Software Assurance vengono effettuate nello strumento per la convalida e il riscatto voucher (VVR)|Ora è possibile accedere e gestire i voucher per la formazione Software Assurance e/o Deployment Planning Services (DPS) nel Centro per i partner.  Lo strumento VVR legacy verrà rimosso il 1° ottobre 2019.  |
 
-## <a name="visual-studio-benefits-and-msa"></a>Vantaggi e MSA di Visual Studio
+## <a name="visual-studio-benefits-and-msa"></a>Benefit Visual Studio e account Microsoft
 
 |**PMC**   |**Centro per i partner**   |
 |-----------------|:-----------------|
-|Allocazione dei vantaggi di Visual Studio a MSA|I vantaggi di Visual Studio allocati a MSAs verranno rispettati e conservati.|
-||Le allocazioni di MSA di Visual Studio verranno mantenute dopo il rinnovo nel centro per i partner.|
-||Nel centro per i partner, un partner può aggiungere account di lavoro e account utente Guest, che sono MSA dello stesso tenant in cui il partner è l'amministratore MPN nel tenant Azure AD. Se il partner è un amministratore globale in più tenant di Azure AD e tutti questi tenant sono associati allo stesso account del centro per i partner, il partner può aggiungere utenti tra tutti questi tenant ai vantaggi di Visual Studio e alle allocazioni basate sull'utilizzo di Azure. Sebbene gli utenti guest possano essere assegnati a sottoscrizioni basate sull'utilizzo di Visual Studio dall'amministratore MPN o dall'amministratore globale, gli utenti guest non possono accedere al centro per i partner usando il proprio MSA. Gli utenti guest possono, tuttavia, accedere ad Azure e a Visual Studio per convalidare e usare i vantaggi assegnati. |
+|Allocazione dei benefit Visual Studio agli account Microsoft|I benefit Visual Studio allocati agli account Microsoft verranno onorati e mantenuti.|
+||Le allocazioni di Visual Studio ad account Microsoft verranno mantenute dopo il rinnovo nel Centro per i partner.|
+||Nel Centro per i partner, un partner può aggiungere account aziendali e account utente Guest, che sono account Microsoft dello stesso tenant in cui il partner è amministratore MPN nel tenant di Azure AD. Se il partner è amministratore globale in più tenant di Azure AD e tutti questi tenant sono associati allo stesso account del Centro per i partner, il partner può aggiungere utenti di tutti questi tenant ai benefit Visual Studio e alle allocazioni in base all'uso di Azure. Anche se l'amministratore MPN o l'amministratore globale può assegnare agli utenti guest sottoscrizioni in base all'uso di Visual Studio, gli utenti guest non possono accedere al Centro per i partner usando il proprio account Microsoft. Gli utenti guest, tuttavia, possono accedere ad Azure e a Visual Studio per convalidare e usare i benefit che gli sono stati assegnati. |
 
-## <a name="programs-now-located-and-managed-in-partner-center"></a>Programmi ora disponibili e gestiti nel centro per i partner 
+## <a name="programs-now-located-and-managed-in-partner-center"></a>Programmi ora disponibili e gestiti nel Centro per i partner 
 
 |**PMC**   |**Centro per i partner**|
 |----------------------|:-----------------------------|
 |PDD  |Vantaggi|
-|CHIP, ICP, TORTA | Incentivi|
+|CHIP, ICP, PIE | Incentivi|
 ||Segnalazioni|
 |Informazioni dettagliate sui partner| Analisi|
 |Strumento per la convalida e il riscatto dei voucher| Strumento per la convalida e il riscatto dei voucher|
 |           |Programmi Cloud Solution Provider|
 
-Sì. I vantaggi di Visual Studio allocati a MSAs verranno rispettati e conservati. Verranno conservati anche dopo il rinnovo nel centro per i partner. Tuttavia, se si rimuove un'allocazione di MSA una volta eseguita la migrazione nel centro per i partner, non sarà possibile aggiungerla nuovamente al centro per i partner.
+Sì. I benefit Visual Studio allocati agli account Microsoft verranno onorati e mantenuti. Verranno conservati anche dopo il rinnovo nel Centro per i partner. Tuttavia, se si rimuove l'allocazione a un account Microsoft una volta eseguita la migrazione nel Centro per i partner, non sarà possibile aggiungerla nuovamente nel Centro per i partner.
 
-Nel centro per i partner, un partner può aggiungere account di lavoro e account utente Guest, che sono MSA dello stesso tenant in cui il partner è l'amministratore MPN nel tenant Azure AD. Se il partner è un amministratore globale in più tenant di Azure AD e tutti questi tenant sono associati allo stesso account del centro per i partner, il partner può aggiungere utenti tra tutti questi tenant ai vantaggi di Visual Studio e alle allocazioni basate sull'utilizzo di Azure.
+Nel Centro per i partner, un partner può aggiungere account aziendali e account utente Guest, che sono account Microsoft dello stesso tenant in cui il partner è amministratore MPN nel tenant di Azure AD. Se il partner è amministratore globale in più tenant di Azure AD e tutti questi tenant sono associati allo stesso account del Centro per i partner, il partner può aggiungere utenti di tutti questi tenant ai benefit Visual Studio e alle allocazioni in base all'uso di Azure.
 
-Sebbene gli utenti guest possano essere assegnati a sottoscrizioni basate sull'utilizzo di Visual Studio dall'amministratore MPN o dall'amministratore globale, gli utenti guest non possono accedere al centro per i partner usando il proprio MSA. Gli utenti guest possono, tuttavia, accedere ad Azure e a Visual Studio per convalidare e usare i vantaggi assegnati.
+Anche se l'amministratore MPN o l'amministratore globale può assegnare agli utenti guest sottoscrizioni in base all'uso di Visual Studio, gli utenti guest non possono accedere al Centro per i partner usando il proprio account Microsoft. Gli utenti guest, tuttavia, possono accedere ad Azure e a Visual Studio per convalidare e usare i benefit che gli sono stati assegnati.

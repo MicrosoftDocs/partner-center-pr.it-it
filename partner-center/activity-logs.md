@@ -1,19 +1,19 @@
 ---
 title: Visualizzare i log attività dei clienti | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 08/23/2019
 description: I log attività offrono informazioni sulle transazioni e le operazioni di gestione dei partner per i clienti.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: i log attività, sottoscrizione, le sottoscrizioni, i pagamenti, la fatturazione, le transazioni
+Keywords: log attività, sottoscrizione, sottoscrizione, pagamenti, fatturazione, transazioni
 ms.localizationpriority: medium
-ms.openlocfilehash: 21a67e40fb012247849ccc28fd9b7c9009b4a770
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 4cfbbf48122de87d5e3b650862ab83d0ee27ff04
+ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134501"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "69993961"
 ---
 # <a name="view-customer-activity-logs"></a>Visualizzare i log attività dei clienti
 
@@ -21,7 +21,6 @@ ms.locfileid: "62134501"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud for US Government
--  
 
 
 I log attività offrono informazioni sulle transazioni e le operazioni di gestione dei partner per i clienti. I log per le transazioni offrono informazioni dettagliate sulla transazione, incluse le sottoscrizioni acquistate. Puoi anche esportare i log attività in file con valori delimitati da virgole (CSV) compatibile con Excel.
@@ -30,20 +29,21 @@ I log attività includono record relativi alle azioni dei partner sugli account 
 
 **Visualizzare ed esportare i log attività**
 
-1.  Dal **Centro per i Partner** dal menu **Log attività**.
+1.  Nel menu **Impostazioni account** seleziona **Log attività**.
 2.  Seleziona il periodo del log attività nei campi **Da** e **a**. Per impostazione predefinita, l'esportazione del log attività include l'ultimo mese.
 
     Ogni log attività include un link alla pagina **Sottoscrizioni** del cliente elencato.
 
     Seleziona la freccia in giù per qualsiasi log attività per visualizzare informazioni dettagliate su un'azione registrata. Un singolo log attività può mostrare una notevole quantità di dati, ad esempio l'ordine di più prodotti.
 
-3.  Seleziona **Esporta log** per copiare i dati relativi alle sottoscrizioni del cliente in un file CSV e scaricali nella cartella di download predefinita nel tuo computer. Le colonne di dati includono:
+3.   Le colonne di dati del log includono:
+    -   **Data-ora** - data e ora dell'azione.
     -   **Cliente interessato** - nome dell'azienda del cliente.
-    -   **Azione** - nome del prodotto per la sottoscrizione.
+    -   **Azione** - l'azione eseguita dal cliente, ad esempio "ha creato una segnalazione".
     -   **Utente partner** - partner associato all'attività.
-    -   **Stato** - dati associati all'attività, ad esempio un ID ordine. Variabili in base al tipo di azione.
-    -   **Informazioni aggiuntive** - dati delle transazioni per il log attività. Ad esempio, se l'azione è l'ordine di un cliente, questo campo elenca il contenuto per l'acquisto.
 
+4.  Seleziona **Esporta log** per copiare i dati relativi alle sottoscrizioni del cliente in un file CSV e scaricali nella cartella di download predefinita nel tuo computer.
+    
  
 
  

@@ -1,18 +1,18 @@
 ---
 title: Requisiti di sicurezza per i partner | Centro per i partner
 ms.topic: article
-ms.date: 08/05/2019
+ms.date: 08/30/2019
 description: Informazioni sui requisiti di sicurezza per advisor e partner che partecipano al programma Cloud Solution Provider.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: medium
-ms.openlocfilehash: 40f5ac3e1481c0b630fc7e22e680409b1ca80926
-ms.sourcegitcommit: a5d5bd83e20649e9f02d2d82d682f87bb28a0265
+ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
+ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "68912634"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "70215648"
 ---
 # <a name="partner-security-requirements"></a>Requisiti di sicurezza per i partner
 

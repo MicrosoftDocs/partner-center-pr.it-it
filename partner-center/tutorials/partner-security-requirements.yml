@@ -1,8 +1,8 @@
 ### YamlMime:Tutorial
-title: Implementazione dei requisiti di sicurezza dei partner
+title: Implementazione dei requisiti di sicurezza per i partner
 metadata:
-  title: Implementazione dei requisiti di sicurezza dei partner
-  description: In questa esercitazione vengono fornite informazioni sui requisiti di sicurezza dei partner e su come soddisfarli.
+  title: Implementazione dei requisiti di sicurezza per i partner
+  description: In questa esercitazione ti verranno illustrati i requisiti di sicurezza per i partner e come soddisfarli.
   audience: Partners
   level: Beginner
   ms.date: 06/24/2019
@@ -10,7 +10,7 @@ metadata:
   ms.custom: mvc
   ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
   ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/18/2019
   ms.locfileid: "68313953"
@@ -18,14 +18,14 @@ items:
 - title: Introduzione
   durationInMinutes: 5
   content: >
-    Sicurezza e privacy di clienti e partner rappresentano le priorità principali per Microsoft. Continuiamo a vedere un numero sempre maggiore di attacchi di sicurezza più sofisticati, correlati principalmente a identità compromesse. Poiché i controlli preventivi svolgono un ruolo fondamentale in una strategia di difesa complessiva per contrastare gli attacchi alla sicurezza, si inizierà a applicare un set di requisiti di sicurezza obbligatori per aiutare a proteggere i partner e i clienti.
+    Sicurezza e privacy di clienti e partner costituiscono le priorità principali di Microsoft. Continuano infatti a perpetrarsi in misura crescente attacchi alla sicurezza sempre più sofisticati, soprattutto correlati a eventi di compromissione dell'identità. Poiché i controlli preventivi svolgono un ruolo fondamentale in una strategia di difesa complessiva volta a contrastare gli attacchi alla sicurezza, per contribuire alla protezione di partner e clienti si inizierà ad applicare un set di requisiti di sicurezza obbligatori.
 
 
-    In questa esercitazione si apprenderanno altre informazioni sui requisiti di sicurezza dei partner, su come soddisfarli e sull'effetto degli utenti nella directory dei partner.
-- title: Quali sono i requisiti di sicurezza dei partner?
+    In questa esercitazione comprenderai meglio i requisiti di sicurezza per i partner, come soddisfarli e l'effetto sugli utenti nella directory del partner.
+- title: Quali sono i requisiti di sicurezza per i partner?
   durationInMinutes: 1
   content: >
-    Tutti i partner che partecipano al programma Cloud Solution Provider, ai fornitori del pannello di controllo e ai partner Advisor devono applicare l'autenticazione a più fattori per ogni utente nel tenant partner. Questa operazione può essere eseguita abilitando due [Azure Active Directory Criteri di base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). I criteri di base sono un set di criteri predefiniti che consentono di proteggere le organizzazioni da molti attacchi comuni. Questi attacchi comuni possono includere spray, riproduzione e phishing delle password. I criteri di base sono disponibili in tutte le edizioni di Azure Active Directory. Microsoft sta rendendo disponibili i criteri di protezione di base a tutti perché gli attacchi basati sull'identità sono stati in crescita negli ultimi anni.
+    Tutti i partner che partecipano al programma Cloud Solution Provider, i fornitori del pannello di controllo e i partner Advisor devono applicare l'autenticazione a più fattori per ogni utente nel relativo tenant del partner. A tale scopo, è possibile abilitare due [criteri di base di Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). I criteri di base sono un set di criteri predefiniti che consentono di proteggere le organizzazioni da molti attacchi comuni. Questi attacchi comuni possono includere password spraying, riproduzione e phishing. I criteri di protezione di base sono disponibili in tutte le edizioni di Azure Active Directory. A seguito dell'aumento degli attacchi basati sull'identità registrato negli ultimi anni, Microsoft li renderà presto disponibili a tutti gli utenti.
 
 
     I due criteri di base che devono essere abilitati sono descritti nella tabella seguente.
@@ -35,126 +35,126 @@ items:
 
     |-----|-----|
 
-    |**Richiedi autenticazione a più fattori per gli amministratori**|Se si Abilita il criterio Richiedi autenticazione a più fattori per gli amministratori, gli utenti nei ruoli di amministratore dovranno eseguire la registrazione per l'autenticazione a più fattori usando l'app Authenticator. Al termine della registrazione dell'autenticazione a più fattori, gli amministratori dovranno eseguire l'autenticazione a più fattori ogni volta che accedono.|
+    |**Richiedere l'autenticazione a più fattori per gli amministratori**|Se abiliti il criterio Richiedere l'autenticazione a più fattori per gli amministratori, gli utenti nei ruoli di amministratore dovranno eseguire la registrazione all'autenticazione a più fattori usando l'app Authenticator. Al termine della registrazione all'autenticazione a più fattori, gli amministratori dovranno eseguire l'autenticazione a più fattori ogni volta che accedono.|
 
-    |**Protezione dell'utente finale**|La protezione dell'utente finale è un criterio di base dell'autenticazione a più fattori basato sul rischio che protegge tutti gli utenti di una directory. Per abilitare questo criterio è necessario che tutti gli utenti eseguano la registrazione per l'autenticazione a più fattori usando l'app Authenticator Gli utenti possono ignorare la richiesta di registrazione dell'autenticazione a più fattori per 14 giorni, dopo i quali verrà impedito l'accesso fino alla registrazione per l'autenticazione a più fattori. Una volta registrati per l'autenticazione a più fattori, agli utenti verrà richiesto di eseguire l'autenticazione a più fattori solo durante i tentativi di accesso rischioso. Gli account utente compromessi vengono bloccati finché la password non viene reimpostata e gli eventi di rischio sono stati rilasciati.|
+    |**Protezione dell'utente finale**|La protezione dell'utente finale è un criterio di base dell'autenticazione a più fattori basato sul rischio che protegge tutti gli utenti di una directory. Per abilitare questo criterio è necessario che tutti gli utenti eseguano la registrazione all'autenticazione a più fattori usando l'app Authenticator. Gli utenti possono ignorare la richiesta di registrazione dell'autenticazione a più fattori per 14 giorni, dopo i quali verrà impedito l'accesso fino al momento di registrarsi all'autenticazione a più fattori. Al termine della registrazione all'autenticazione a più fattori, agli utenti verrà richiesto di eseguire l'autenticazione a più fattori solo durante i tentativi di accesso rischioso. Gli account utente compromessi vengono bloccati finché la password non viene reimpostata e gli eventi di rischio sono stati risolti.|
 
 
-    Quando questi criteri sono abilitati, ogni utente sarà in grado di usare l'autenticazione a più fattori di Azure senza costi aggiuntivi. Se si utilizza una soluzione di terze parti, è necessario applicare l'autenticazione a più fattori per ogni utente durante l'accesso ai servizi cloud commerciali Microsoft.
+    Quando questi criteri sono abilitati, ogni utente sarà in grado di usare Azure MFA senza costi aggiuntivi. Se usi una soluzione di terze parti, devi applicare l'autenticazione a più fattori per ogni utente per l'accesso ai servizi del cloud commerciale Microsoft.
 
 
     > [!IMPORTANT]
 
-    > Poiché l'autenticazione a più fattori verrà applicata a tutti gli utenti della directory dei partner, l'automazione o l'integrazione che usa le credenziali utente avrà un effetto. Per risolvere questo problema, è necessario modificare il modo in cui l'automazione o l'integrazione si connette ai servizi cloud commerciali Microsoft. Se il servizio a cui ci si connette supporta l'autenticazione basata su token, è consigliabile implementare il [Framework del modello applicativo protetto](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).
-- title: Ricerca per categorie abilitare i criteri di base Richiedi autenticazione a più fattori per gli amministratori?
+    > Poiché l'autenticazione a più fattori verrà applicata per tutti gli utenti nella directory del partner, ci saranno ripercussioni su un'eventuale automazione o integrazione che usa le credenziali utente. Per far fronte a tali ripercussioni, dovrai modificare il modo in cui l'automazione o l'integrazione si connette ai servizi del cloud commerciale Microsoft. Se il servizio a cui ti connetti supporta l'autenticazione basata su token, è consigliabile implementare il [framework modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).
+- title: Come è possibile abilitare il criterio di base Richiedere l'autenticazione a più fattori per gli amministratori?
   durationInMinutes: 5
   content: >
-    Per i criteri di base Richiedi autenticazione a più fattori *per gli amministratori* è necessaria l'autenticazione a più fattori per i ruoli della directory seguenti, considerati come i ruoli Azure ad più privilegiati:
+    Per il criterio di base *Richiedere l'autenticazione a più fattori per gli amministratori* è necessaria l'autenticazione a più fattori per i ruoli della directory seguenti, considerati come i ruoli Azure AD più privilegiati:
 
 
     - Amministratore globale
 
     - Amministratore di SharePoint
 
-    - Amministratore di Exchange
+    - Amministratori di Exchange
 
     - Amministratore di accesso condizionale
 
-    - Amministratore della sicurezza
+    - Amministratore della protezione
 
     - Amministratore helpdesk/amministratore password
 
     - Amministratore fatturazione
 
-    - Amministratore utenti
+    - Amministratore degli utenti
 
 
-    Quando si Abilita il criterio Richiedi autenticazione a più fattori per gli amministratori, verranno richiesti i nove ruoli di amministratore precedenti per la registrazione per l'autenticazione a più fattori tramite l'app Authenticator. Una volta completata la registrazione dell'autenticazione a più fattori, gli amministratori dovranno eseguire l'autenticazione a più fattori ogni volta che accedono.
+    Se si abilita il criterio Richiedere l'autenticazione a più fattori per gli amministratori, i 9 ruoli di amministratore precedenti dovranno eseguire la registrazione all'autenticazione a più fattori usando l'app Authenticator. Al termine della registrazione all'autenticazione a più fattori, gli amministratori dovranno eseguire l'autenticazione a più fattori ogni volta che accedono.
 
 
-    Se l'organizzazione dispone di questi account in uso negli script o nel codice, è consigliabile sostituirli con [identità gestite](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
+    Se l'organizzazione dispone di questi account in uso negli script o nel codice, è consigliabile sostituirli con  [identità gestite](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
 
 
     Per abilitare questo criterio e proteggere gli amministratori:
 
 
-    1. Accedere al **portale di Azure** come amministratore globale, amministratore della sicurezza o amministratore dell'accesso condizionale.
+    1. Accedere al  **portale di Azure** come amministratore globale, amministratore della protezione o amministratore dell'accesso condizionale. 
 
-    2. Passare a **Azure Active Directory** > **accesso condizionale**.
+    2. Passare a **Accesso condizionale** di  > **Azure Active Directory**.
 
-    3. Nell'elenco dei criteri selezionare **criteri di base: Richiedere l'autenticazione a più**fattori per gli amministratori.
+    3. Nell'elenco dei criteri selezionare **Criteri di base: Richiedere l'autenticazione a più fattori per gli amministratori**.
 
-    4. Impostare **Abilita criterio** per **usare immediatamente i criteri**.
+    4. Impostare **Abilita criterio** su **Usa i criteri immediatamente**.
 
-    5. Fare clic su **Salva**.
+    5. Fare  **clic** su Salva.
 
 
     > [!WARNING]
 
-    > Prima di abilitare questo criterio, verificare che gli utenti non utilizzino protocolli di autenticazione legacy. Vedere l'articolo [procedura: Per ulteriori informazioni, bloccare l'autenticazione legacy](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) per Azure ad con accesso condizionale.
+    > Prima di abilitare questo criterio, verificare che gli utenti non usino protocolli di autenticazione legacy. Vedi l'articolo [Procedura: Bloccare l'autenticazione legacy ad Azure AD con l'accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) per avere altre informazioni.
 
 
     > [!IMPORTANT]
 
-    > Si è verificato un problema noto che influisca sulla capacità di sfruttare i privilegi amministrativi delegati per connettersi a Exchange Online PowerShell quando viene applicato l'autenticazione a più fattori. Per ulteriori informazioni, vedere [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) .
+    > Si è verificato un problema noto che influisce sulla possibilità di usare i privilegi amministrativi delegati per connettersi a PowerShell per Exchange Online quando viene applicata l'autenticazione a più fattori. Per altre informazioni, vedi [PowerShell per Exchange Online](../partner-security-requirements.md#exchange-online-powershell).
 
 
-    Una volta abilitati i criteri *di base Richiedi autenticazione a* più fattori per gli amministratori, gli utenti che sono membri dei ruoli di amministratore precedenti incontreranno una nuova esperienza durante l'accesso. Di seguito sono riportate le informazioni sugli utenti interessati da questi criteri
+    Dopo che avrai abilitato il criterio di base *Richiedere l'autenticazione a più fattori per gli amministratori*, agli utenti membri dei ruoli di amministratore sopra indicati verrà visualizzata una nuova esperienza quando eseguono l'accesso. Le immagini seguenti mostrano le schermate che verranno visualizzate agli utenti su cui ha impatto tale criterio.
 
-      ![Richiedi ulteriori informazioni](../images/security/baseline-require-more-info.png)
+      ![Richiesta di altre informazioni](../images/security/baseline-require-more-info.png)
 
-      ![Convalida aggiuntiva di sicurezza](../images/security/baseline-security-verification-setup.png)
+      ![Convalida di sicurezza aggiuntiva](../images/security/baseline-security-verification-setup.png)
 
-      ![Configurare l'app per dispositivi mobili](../images/security/baseline-configure-mobile-app.png)
+      ![Configurazione dell'app per dispositivi mobili](../images/security/baseline-configure-mobile-app.png)
 
-      ![Installazione della convalida di sicurezza aggiuntiva completata](../images/security/baseline-security-verification-setup-completed.png)
+      ![Configurazione della convalida di sicurezza aggiuntiva completata](../images/security/baseline-security-verification-setup-completed.png)
 
-      ![Convalida aggiuntiva di sicurezza verificata](../images/security/baseline-security-verification-confirmed.png)
+      ![Convalida di sicurezza aggiuntiva verificata](../images/security/baseline-security-verification-confirmed.png)
 
-    Al termine dell'operazione, l'utente sarà in grado di accedere al servizio cloud Microsoft a cui si è tentato di accedere.
-- title: Ricerca per categorie abilitare i criteri di base per la protezione dell'utente finale?
+    Dopo che l'utente avrà completato le schermate precedenti, potrà eseguire l'accesso al servizio cloud Microsoft a cui stava tentando di accedere.
+- title: Come è possibile abilitare il criterio di base Protezione dell'utente finale?
   durationInMinutes: 5
   content: >-
-    I criteri di base per la protezione dell'utente finale proteggono tutti gli utenti di una directory. Per abilitare questo criterio, tutti gli utenti possono registrarsi per l'autenticazione a più fattori di Azure entro 14 giorni. Una volta effettuata la registrazione, agli utenti verrà richiesto di eseguire l'autenticazione a più fattori solo durante i tentativi di accesso rischioso, questo comportamento verrà modificato per i tenant partner in futuro. Gli account utente compromessi vengono bloccati fino alla reimpostazione della password e al rischio.
+    I criteri di base per la protezione dell'utente finale proteggono tutti gli utenti di una directory. Per abilitare questo criterio è necessario che tutti gli utenti eseguano la registrazione all'autenticazione a più fattori di Azure entro 14 giorni. Dopo la registrazione, agli utenti verrà richiesta l'autenticazione a più fattori solo durante i tentativi di accesso rischiosi. Questo comportamento cambierà per i tenant dei partner in futuro. Gli account utente compromessi vengono bloccati fino alla reimpostazione della password e alla rimozione del rischio.
 
 
-    Criteri di **base dei criteri: La protezione** dell'utente finale è preconfigurata e verrà visualizzata nella parte superiore quando si passa al pannello accesso condizionale in portale di Azure.
+    Il criterio di **Criteri di base: protezione dell'utente finale** è preconfigurata e verrà visualizzata nella parte superiore passando al pannello dell'Accesso condizionale nel portale di Azure.
 
 
     Per abilitare questo criterio e proteggere gli utenti:
 
 
-    1. Accedere al **portale di Azure** come amministratore globale, amministratore della sicurezza o amministratore dell'accesso condizionale.
+    1. Accedere al  **portale di Azure** come amministratore globale, amministratore della protezione o amministratore dell'accesso condizionale. 
 
-    2. Passare a **Azure Active Directory** > **accesso condizionale**.
+    2. Passare a **Accesso condizionale** di  > **Azure Active Directory**.
 
-    3. Nell'elenco dei criteri selezionare **criteri di base: Protezione dell'utente finale (anteprima**).
+    3. Nell'elenco dei criteri selezionare **Criteri di base: protezione dell'utente finale (anteprima)**.
 
-    4. Impostare **Abilita criterio** per **usare immediatamente i criteri**.
+    4. Impostare **Abilita criterio** su **Usa i criteri immediatamente**.
 
-    5. Fare clic su **Salva**.
+    5. Fare  **clic** su Salva.
 
 
     > [!WARNING]
 
-    > Prima di abilitare questo criterio, verificare che gli utenti non utilizzino protocolli di autenticazione legacy. Vedere l'articolo [procedura: Per ulteriori informazioni, bloccare l'autenticazione legacy](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) per Azure ad con accesso condizionale.
+    > Prima di abilitare questo criterio, verificare che gli utenti non usino protocolli di autenticazione legacy. Vedi l'articolo [Procedura: Bloccare l'autenticazione legacy ad Azure AD con l'accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) per avere altre informazioni.
 
 
     > [!IMPORTANT]
 
-    > Si è verificato un problema noto che influisca sulla capacità di sfruttare i privilegi amministrativi delegati per connettersi a Exchange Online PowerShell quando viene applicato l'autenticazione a più fattori. Per ulteriori informazioni, vedere [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) .
+    > Si è verificato un problema noto che influisce sulla possibilità di usare i privilegi amministrativi delegati per connettersi a PowerShell per Exchange Online quando viene applicata l'autenticazione a più fattori. Per altre informazioni, vedi [PowerShell per Exchange Online](../partner-security-requirements.md#exchange-online-powershell).
 
 
-    Una volta abilitati i criteri di base per la *protezione degli utenti finali* , tutti gli utenti avranno una nuova esperienza durante l'accesso. Di seguito sono riportate le figure che verranno acquisite dagli utenti
+    Dopo che avrai abilitato il criterio di base *Protezione dell'utente finale*, a tutti gli utenti verrà visualizzata una nuova esperienza quando eseguono l'accesso. Le immagini seguenti mostrano le schermate che verranno visualizzate agli utenti.
 
-      ![Richiedi ulteriori informazioni](../images/security/baseline-require-more-info.png)
+      ![Richiesta di altre informazioni](../images/security/baseline-require-more-info.png)
 
-      ![Convalida aggiuntiva di sicurezza](../images/security/baseline-security-verification-setup.png)
+      ![Convalida di sicurezza aggiuntiva](../images/security/baseline-security-verification-setup.png)
 
-      ![Configurare l'app per dispositivi mobili](../images/security/baseline-configure-mobile-app.png)
+      ![Configurazione dell'app per dispositivi mobili](../images/security/baseline-configure-mobile-app.png)
 
-      ![Installazione della convalida di sicurezza aggiuntiva completata](../images/security/baseline-security-verification-setup-completed.png)
+      ![Configurazione della convalida di sicurezza aggiuntiva completata](../images/security/baseline-security-verification-setup-completed.png)
 
-      ![Convalida aggiuntiva di sicurezza verificata](../images/security/baseline-security-verification-confirmed.png)
+      ![Convalida di sicurezza aggiuntiva verificata](../images/security/baseline-security-verification-confirmed.png)
 
-    Al termine dell'operazione, l'utente sarà in grado di accedere al servizio cloud Microsoft a cui si è tentato di accedere. Nota fino a quando non vengono applicati i requisiti di sicurezza dei partner, gli utenti che non sono coperti dai criteri di base Richiedi autenticazione a più fattori *per gli amministratori* verranno richiesti solo per l'autenticazione a più fattori in base ai rischi.
+    Dopo che l'utente avrà completato le schermate precedenti, potrà eseguire l'accesso al servizio cloud Microsoft a cui stava tentando di accedere. Tieni presente che, fintanto che non verranno applicati i requisiti di sicurezza per i partner, agli utenti non coperti dal criterio di base *Richiedere l'autenticazione a più fattori per gli amministratori* verrà richiesto questo tipo di autenticazione solo in base al rischio.

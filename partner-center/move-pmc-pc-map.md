@@ -34,7 +34,7 @@ Questa tabella illustra alcune delle differenze tra Partner Membership Center e 
 |----------------------|:-----------------------------|
 |Sedi centrali e ubicazioni, valutati separatamente. Valutazione delle competenze eseguita a livello locale|Una società globale, l'account globale del partner (PGA), incluse le ubicazioni, valutato nel suo complesso; dati sulle prestazioni e sulle competenze aggregati a livello di PGA; include diverse visualizzazioni profilo per i programmi quali Profilo partner e Profilo aziendale per le segnalazioni e il marketing. Per altre informazioni, vedi [Struttura degli account nel Centro per i partner](https://docs.microsoft.com/partner-center/account-structure.md)|
 
-## <a name="sign-in"></a>Accedi
+## <a name="sign-in"></a>Accedere
 
 |**PMC**   |**Centro per i partner**|
 |----------------------|:-----------------------------|

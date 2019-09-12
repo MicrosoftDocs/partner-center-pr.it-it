@@ -59,7 +59,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito**  |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |1                 |$ 4            |Nuova         |
+|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |1                 |$ 4            |Nuovo         |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |1        | $ -4       |addQuantity           |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        | 2      |$ 8         |addQuantity           |
 
@@ -74,7 +74,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito**  |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019 (una licenza)     |10/6/2019   |9/7/2019         |$ 4         |1        |$ 4            |Nuova         |
+|11/6/2019 (una licenza)     |10/6/2019   |9/7/2019         |$ 4         |1        |$ 4            |Nuovo         |
 |12/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |1        | $ -3,87       |addQuantity           |
 |12/6/2019     | 10/6/2019    |9/7/2019        |$ 4        | 2      |$ 7,74       |addQuantity           |
 
@@ -89,7 +89,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito**  |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |2                 |$ 8            |Nuova         |
+|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |2                 |$ 8            |Nuovo         |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |2        | $ -8       |removeQuantity           |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        | 1      |$ 4         |removeQuantity           |
 
@@ -104,7 +104,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito**  |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019 (due licenze)     |10/6/2019   |9/7/2019         |$ 4         |2        |$ 8       |Nuova       |
+|11/6/2019 (due licenze)     |10/6/2019   |9/7/2019         |$ 4         |2        |$ 8       |Nuovo       |
 |12/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |2        | $ -7,74       |removeQuantity           |
 |12/6/2019 (una licenza)    | 10/6/2019    |9/7/2019   |$ 4    |1      |$ 3,87    |removeQuantity |
 
@@ -119,7 +119,7 @@ I file di riconciliazione includeranno quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito**  |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|10/6/2019 (una licenza)      |10/6/2019   |9/7/2019         |$ 0                |1                 |$ 0            |Nuova         |
+|10/6/2019 (una licenza)      |10/6/2019   |9/7/2019         |$ 0                |1                 |$ 0            |Nuovo         |
 |10/7/2019 (una licenza)     | 10/7/2019    |9/8/2019        |$ 2        |1        | $ 2       |renew           |
 
 ### <a name="scenario-6--cancel-a-license-based-free-trial-saas-subscription"></a>Scenario 6: annullare una sottoscrizione SaaS di una versione di valutazione gratuita basata su licenza
@@ -134,7 +134,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito**  |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|10/6/2019 (11 licenze)      |10/6/2019   |9/7/2019         |$ 0                |11                |$ 0            |Nuova         |
+|10/6/2019 (11 licenze)      |10/6/2019   |9/7/2019         |$ 0                |11                |$ 0            |Nuovo         |
 |10/6/2019 (0 licenze)     | 10/6/2019    |9/7/2019        |$ 0        |11       | $ 0       |annulla           |
 
 ### <a name="scenario-7--convert-a-custom-meter-saas-subscription-from-one-sku-to-another-for-the-same-product-on-the-same-day"></a>Scenario 7: convertire una sottoscrizione SaaS a consumo personalizzata da uno SKU a un altro per lo stesso prodotto nello stesso giorno
@@ -148,9 +148,9 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**SKU**   |**Inizio addebito**   |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
-|10/6/2019 (una licenza) |Silver     |10/6/2019   |10/6/2019         |$ 20        |1         |$ 20            |Nuova      |
-|10/6/2019 (una licenza) |Silver    | 10/6/2019    |10/6/2019        |$ 20        |1       | $ -20       |Convertire           |
-|10/6/2019 (una licenza) |Bronze    | 10/6/2019    |10/6/2019        |$ 10        |1       | $ 10       |Convertire           |
+|10/6/2019 (una licenza) |Silver     |10/6/2019   |10/6/2019         |$ 20        |1         |$ 20            |Nuovo      |
+|10/6/2019 (una licenza) |Silver    | 10/6/2019    |10/6/2019        |$ 20        |1       | $ -20       |Convert           |
+|10/6/2019 (una licenza) |Bronze    | 10/6/2019    |10/6/2019        |$ 10        |1       | $ 10       |Convert           |
 
 ### <a name="scenario-8--purchase-and-cancel-a-custom-meter-saas-subscription-from-the-azure-portal-on-the-same-day"></a>Scenario 8: acquistare e annullare nello stesso giorno dal portale di Azure una sottoscrizione SaaS a consumo personalizzata 
 
@@ -158,5 +158,5 @@ In questo scenario acquisti nel portale di Azure una sottoscrizione SaaS a consu
 
 |**Data di acquisto**   |**SKU**   |**Inizio addebito**   |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
-|10/6/2019 (una licenza) |Bronze     |10/6/2019   |10/6/2019         |$ 10        |1         |$ 10            |Nuova      |
+|10/6/2019 (una licenza) |Bronze     |10/6/2019   |10/6/2019         |$ 10        |1         |$ 10            |Nuovo      |
 |6/10/2019 (0 licenze) |Bronze    | 10/6/2019    |10/6/2019        |$ 10        |1       | $ -10       |CancelImmediate  |

@@ -9,7 +9,7 @@ Keywords: pre-distribuzione, pianificazione, Software Assurance
 ms.localizationpriority: medium
 ms.openlocfilehash: 18c59996829e592edd1f137d9b19311f34158ef0
 ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 08/01/2019
 ms.locfileid: "68708887"

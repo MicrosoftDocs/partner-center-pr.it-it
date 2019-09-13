@@ -10,7 +10,7 @@ Keywords: gestione dei clienti, account, creare account, le licenze, assegnare u
 ms.localizationpriority: medium
 ms.openlocfilehash: fa8aabcc668630906fa2c9b3a88abbaee8a89693
 ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 06/13/2019
 ms.locfileid: "67044994"

@@ -3,18 +3,18 @@ layout: LandingPage
 hide_bc: true
 title: Inizia da qui per ottenere assistenza con il Centro per i partner
 ms.topic: landing-page
-ms.date: 01/29/2019
+ms.date: 10/01/2019
 description: Il Centro per i partner ti aiuta a far crescere il tuo business nel programma Microsoft Cloud Solution Provider (CSP). Configura il tuo account, entra in contatto con i clienti, acquista una sottoscrizione di Action Park e trova altre informazioni per i partner nei programmi CSP e MPN. 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
-ms.localizationpriority: medium
-ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
-ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
+ms.localizationpriority: high
+ms.openlocfilehash: f94ef72fc69cd4fe29cd27c2dc4bab11ab5e64c3
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "65035522"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318878"
 ---
 # <a name="welcome-to-partner-center"></a>Benvenuto nel Centro per i partner
 
@@ -87,7 +87,7 @@ Il Centro per i partner Microsoft è una risorsa completa per gestire tutti gli 
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
                         <h3>Passaggio dal Partner Membership Center al Centro per i partner</h3>
-                        <p>Scopri come preparare l'organizzazione per il passaggio al Centro per i partner</p></a>
+                        <p>Prepara la tua organizzazione per il passaggio al Centro per i partner</p></a>
                     </div>
                 </div>
             </div>

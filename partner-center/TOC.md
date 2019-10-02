@@ -28,7 +28,6 @@
 ### [Fatture e imposte in Microsoft Partner Network](mpn-view-print-maps-invoice.md)
 ## [Test drive delle nuove funzionalità](test-drive-new-features.md)
 
-
 # [Cloud Solution Provider](csp-overview.md)
 ## [Iscriversi al programma Cloud Solution Provider](enrolling-in-the-csp-program.md)
 ## [Contratto Microsoft Partner per partner CSP](microsoft-partner-agreement.md)
@@ -39,7 +38,6 @@
 ## [Valute e mercati regionali CSP](regional-authorization-overview.md)
 ## [Conferma dell'accettazione del cliente del contratto Microsoft Cloud](confirm-consent.md)
 ## [Conferma dell'accettazione del cliente del contratto del cliente Microsoft (anteprima)](confirm-customer-agreement.md)
-
 
 ## [Richiesta per la vendita nei cloud nazionali](csp-national-clouds-overview.md)
 ### [Centro per i partner per Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
@@ -84,7 +82,6 @@
 ### [Informazioni sui pagamenti degli incentivi](understand-incentive-payouts.md)
 ### [Inviare le richieste OSA nel Centro per i partner](submit-osa-claim.md)
 ### [Trovare il nome di dominio e l'ID di directory del cliente per le richieste di incentivi](find-customer-domain-name.md)
-
 
 # [Fatturazione e imposte](billing.md)
 ## [Domande frequenti sulla fatturazione ](faq-about-new-billing-features.md)
@@ -169,10 +166,10 @@
 ## [Supporto in autonomia dei clienti](customer-self-support.md)
 ## [Inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md)
 
-# Sicurezza
-## [Requisiti di sicurezza per i partner](partner-security-requirements.md)
-## [Domande frequenti sui requisiti di sicurezza per i partner](partner-security-requirements-faq.md)
-## [Stato di conformità della sicurezza per i partner](partner-security-compliance.md)
+# Requisiti per la protezione
+## [Panoramica](partner-security-requirements.md)
+## [Stato conformità](partner-security-compliance.md)
+## [Domande frequenti](partner-security-requirements-faq.md)
 
 # Esercitazioni
 ## [Implementazione dei requisiti di sicurezza per i partner](tutorials/partner-security-requirements.yml)

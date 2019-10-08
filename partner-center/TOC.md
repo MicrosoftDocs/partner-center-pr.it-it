@@ -78,10 +78,12 @@
 ## [Richieste di incentivi](claims-overview.md)
 ### [Creare e gestire richieste di incentivi](create-incentives-claims.md)
 ### [Requisiti di base per le richieste di incentivi](core-requirements.md)
+
+
 ### [Comprendere le informazioni sui pagamenti](incentives-unified-user-guide.md)
-### [Informazioni sui pagamenti degli incentivi](understand-incentive-payouts.md)
-### [Inviare le richieste OSA nel Centro per i partner](submit-osa-claim.md)
-### [Trovare il nome di dominio e l'ID di directory del cliente per le richieste di incentivi](find-customer-domain-name.md)
+
+### [Accedere alla pagina sui pagamenti degli incentivi](incentives-unified-user-guide.md)
+
 
 # [Fatturazione e imposte](billing.md)
 ## [Domande frequenti sulla fatturazione ](faq-about-new-billing-features.md)

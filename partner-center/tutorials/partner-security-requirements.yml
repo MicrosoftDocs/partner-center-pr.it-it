@@ -1,5 +1,5 @@
 ### YamlMime:Tutorial
-title: <span data-ttu-id="3c096-101">Implementazione dei requisiti di sicurezza per i partner</span><span class="sxs-lookup"><span data-stu-id="3c096-101">Implementing the partner security requirements</span></span>
+title: Implementazione dei requisiti di sicurezza per i partner
 metadata:
   title: Implementazione dei requisiti di sicurezza per i partner
   description: In questa esercitazione ti verranno illustrati i requisiti di sicurezza per i partner e come soddisfarli.
@@ -8,98 +8,93 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
-  ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
+  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
   ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 07/18/2019
-  ms.locfileid: "68313953"
+  ms.lasthandoff: 10/16/2019
+  ms.locfileid: "72425217"
 items:
-- title: <span data-ttu-id="3c096-104">Introduzione</span><span class="sxs-lookup"><span data-stu-id="3c096-104">Introduction</span></span>
+- title: Introduzione
   durationInMinutes: 5
   content: >
-    <span data-ttu-id="3c096-105">Sicurezza e privacy di clienti e partner costituiscono le priorità principali di Microsoft.</span><span class="sxs-lookup"><span data-stu-id="3c096-105">Security and privacy of customers and partners are top priorities for Microsoft.</span></span> <span data-ttu-id="3c096-106">Continuano infatti a perpetrarsi in misura crescente attacchi alla sicurezza sempre più sofisticati, soprattutto correlati a eventi di compromissione dell'identità.</span><span class="sxs-lookup"><span data-stu-id="3c096-106">We continue to see an increasing number of more sophisticated security attacks, primarily related to compromised identities.</span></span> <span data-ttu-id="3c096-107">Poiché i controlli preventivi svolgono un ruolo fondamentale in una strategia di difesa complessiva volta a contrastare gli attacchi alla sicurezza, per contribuire alla protezione di partner e clienti si inizierà ad applicare un set di requisiti di sicurezza obbligatori.</span><span class="sxs-lookup"><span data-stu-id="3c096-107">As preventive controls play a key role in an overall defense strategy to thwart security attacks, we will start enforcing a set of mandatory security requirements to help protect partners and their customers.</span></span>
+    Sicurezza e privacy di clienti e partner costituiscono le priorità principali di Microsoft. Continuano infatti a perpetrarsi in misura crescente attacchi alla sicurezza sempre più sofisticati, soprattutto correlati a eventi di compromissione dell'identità. Poiché i controlli preventivi svolgono un ruolo fondamentale in una strategia di difesa complessiva volta a contrastare gli attacchi alla sicurezza, per contribuire alla protezione di partner e clienti si inizierà ad applicare un set di requisiti di sicurezza obbligatori.
 
 
-    <span data-ttu-id="3c096-108">In questa esercitazione comprenderai meglio i requisiti di sicurezza per i partner, come soddisfarli e l'effetto sugli utenti nella directory del partner.</span><span class="sxs-lookup"><span data-stu-id="3c096-108">Through this tutorial you will learn more about the partner security requirements, how to fulfill them, and the impact to users in your partner directory.</span></span>
-- title: <span data-ttu-id="3c096-109">Quali sono i requisiti di sicurezza per i partner?</span><span class="sxs-lookup"><span data-stu-id="3c096-109">What are the partner security requirements?</span></span>
+    In questa esercitazione comprenderai meglio i requisiti di sicurezza per i partner, come soddisfarli e l'effetto sugli utenti nella directory del partner.
+- title: Quali sono i requisiti di sicurezza per i partner?
   durationInMinutes: 1
   content: >
-    <span data-ttu-id="3c096-110">Tutti i partner che partecipano al programma Cloud Solution Provider, i fornitori del pannello di controllo e i partner Advisor devono applicare l'autenticazione a più fattori per ogni utente nel relativo tenant del partner.</span><span class="sxs-lookup"><span data-stu-id="3c096-110">All partners who are participating in the Cloud Solution Provider program, Control Panel Vendors, and Advisor partners are required to enforce Multi-Factor Authentication (MFA) for each user in their partner tenant.</span></span> <span data-ttu-id="3c096-111">A tale scopo, è possibile abilitare due [criteri di base di Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span><span class="sxs-lookup"><span data-stu-id="3c096-111">This can be done by enabling two [Azure Active Directory baseline policies](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span></span> <span data-ttu-id="3c096-112">I criteri di base sono un set di criteri predefiniti che consentono di proteggere le organizzazioni da molti attacchi comuni.</span><span class="sxs-lookup"><span data-stu-id="3c096-112">Baseline policies are a set of predefined policies that help protect organizations against many common attacks.</span></span> <span data-ttu-id="3c096-113">Questi attacchi comuni possono includere password spraying, riproduzione e phishing.</span><span class="sxs-lookup"><span data-stu-id="3c096-113">These common attacks can include password spray, replay, and phishing.</span></span> <span data-ttu-id="3c096-114">I criteri di protezione di base sono disponibili in tutte le edizioni di Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="3c096-114">Baseline policies are available in all editions of Azure Active Directory.</span></span> <span data-ttu-id="3c096-115">A seguito dell'aumento degli attacchi basati sull'identità registrato negli ultimi anni, Microsoft li renderà presto disponibili a tutti gli utenti.</span><span class="sxs-lookup"><span data-stu-id="3c096-115">Microsoft is making these baseline protection policies available to everyone because identity-based attacks have been on the rise over the last few years.</span></span>
+    Tutti i partner che partecipano al programma Cloud Solution Provider, i fornitori del pannello di controllo e i partner Advisor devono applicare l'autenticazione a più fattori per ogni utente nel relativo tenant del partner. A tale scopo, è possibile abilitare due [criteri di base di Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). I criteri di base sono un set di criteri predefiniti che consentono di proteggere le organizzazioni da molti attacchi comuni. Questi attacchi comuni possono includere password spraying, riproduzione e phishing. I criteri di protezione di base sono disponibili in tutte le edizioni di Azure Active Directory. A seguito dell'aumento degli attacchi basati sull'identità registrato negli ultimi anni, Microsoft li renderà presto disponibili a tutti gli utenti.
 
 
-    <span data-ttu-id="3c096-116">I due criteri di base che devono essere abilitati sono descritti nella tabella seguente.</span><span class="sxs-lookup"><span data-stu-id="3c096-116">The two baseline policies that should be enabled are described in the table below.</span></span>
+    I due criteri di base che devono essere abilitati sono descritti nella tabella seguente.
 
 
-    |<span data-ttu-id="3c096-117">**Criterio**</span><span class="sxs-lookup"><span data-stu-id="3c096-117">**Policy**</span></span>| |
+    |**Criterio**| |
 
     |-----|-----|
 
-    |<span data-ttu-id="3c096-118">**Richiedere l'autenticazione a più fattori per gli amministratori**</span><span class="sxs-lookup"><span data-stu-id="3c096-118">**Require MFA for admins**</span></span>|<span data-ttu-id="3c096-119">Se abiliti il criterio Richiedere l'autenticazione a più fattori per gli amministratori, gli utenti nei ruoli di amministratore dovranno eseguire la registrazione all'autenticazione a più fattori usando l'app Authenticator.</span><span class="sxs-lookup"><span data-stu-id="3c096-119">Enabling the Require MFA for admins policy, will require users in the administrator roles  to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="3c096-120">Al termine della registrazione all'autenticazione a più fattori, gli amministratori dovranno eseguire l'autenticazione a più fattori ogni volta che accedono.</span><span class="sxs-lookup"><span data-stu-id="3c096-120">Once MFA registration is complete, administrators will need to perform MFA every time they sign-in.</span></span>|
+    |**Richiedere l'autenticazione a più fattori per gli amministratori**|Se abiliti il criterio Richiedere l'autenticazione a più fattori per gli amministratori, gli utenti nei ruoli di amministratore dovranno eseguire la registrazione all'autenticazione a più fattori usando l'app Authenticator. Al termine della registrazione all'autenticazione a più fattori, gli amministratori dovranno eseguire l'autenticazione a più fattori ogni volta che accedono.|
 
-    |<span data-ttu-id="3c096-121">**Protezione dell'utente finale**</span><span class="sxs-lookup"><span data-stu-id="3c096-121">**End user protection**</span></span>|<span data-ttu-id="3c096-122">La protezione dell'utente finale è un criterio di base dell'autenticazione a più fattori basato sul rischio che protegge tutti gli utenti di una directory.</span><span class="sxs-lookup"><span data-stu-id="3c096-122">End user protection is a risk-based MFA baseline policy that protects all users in a directory.</span></span> <span data-ttu-id="3c096-123">Per abilitare questo criterio è necessario che tutti gli utenti eseguano la registrazione all'autenticazione a più fattori usando l'app Authenticator.</span><span class="sxs-lookup"><span data-stu-id="3c096-123">Enabling this policy requires all users to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="3c096-124">Gli utenti possono ignorare la richiesta di registrazione dell'autenticazione a più fattori per 14 giorni, dopo i quali verrà impedito l'accesso fino al momento di registrarsi all'autenticazione a più fattori.</span><span class="sxs-lookup"><span data-stu-id="3c096-124">Users can ignore the MFA registration prompt for 14 days, after which they will be blocked from signing in until they register for MFA.</span></span> <span data-ttu-id="3c096-125">Al termine della registrazione all'autenticazione a più fattori, agli utenti verrà richiesto di eseguire l'autenticazione a più fattori solo durante i tentativi di accesso rischioso.</span><span class="sxs-lookup"><span data-stu-id="3c096-125">Once registered for MFA, users will be prompted for MFA only during risky sign-in attempts.</span></span> <span data-ttu-id="3c096-126">Gli account utente compromessi vengono bloccati finché la password non viene reimpostata e gli eventi di rischio sono stati risolti.</span><span class="sxs-lookup"><span data-stu-id="3c096-126">Compromised user accounts are blocked until their password is reset and risk events have been dismissed.</span></span>|
+    |**Protezione dell'utente finale**|La protezione dell'utente finale è un criterio di base dell'autenticazione a più fattori basato sul rischio che protegge tutti gli utenti di una directory. Per abilitare questo criterio è necessario che tutti gli utenti eseguano la registrazione all'autenticazione a più fattori usando l'app Authenticator. Gli utenti possono ignorare la richiesta di registrazione dell'autenticazione a più fattori per 14 giorni, dopo i quali verrà impedito l'accesso fino al momento di registrarsi all'autenticazione a più fattori. Al termine della registrazione all'autenticazione a più fattori, agli utenti verrà richiesto di eseguire l'autenticazione a più fattori solo durante i tentativi di accesso rischioso. Gli account utente compromessi vengono bloccati finché la password non viene reimpostata e gli eventi di rischio sono stati risolti.|
 
 
-    <span data-ttu-id="3c096-127">Quando questi criteri sono abilitati, ogni utente sarà in grado di usare Azure MFA senza costi aggiuntivi.</span><span class="sxs-lookup"><span data-stu-id="3c096-127">When these policies are enabled, each user will be able to utilize Azure MFA at no additional cost.</span></span> <span data-ttu-id="3c096-128">Se usi una soluzione di terze parti, devi applicare l'autenticazione a più fattori per ogni utente per l'accesso ai servizi del cloud commerciale Microsoft.</span><span class="sxs-lookup"><span data-stu-id="3c096-128">If you are using a third-party solution, then you are required to enforce MFA for each user when accessing Microsoft Commercial cloud services.</span></span>
+    Quando questi criteri sono abilitati, ogni utente sarà in grado di usare Azure MFA senza costi aggiuntivi. Se usi una soluzione di terze parti, devi applicare l'autenticazione a più fattori per ogni utente per l'accesso ai servizi del cloud commerciale Microsoft.
 
 
     > [!IMPORTANT]
 
-    > <span data-ttu-id="3c096-129">Poiché l'autenticazione a più fattori verrà applicata per tutti gli utenti nella directory del partner, ci saranno ripercussioni su un'eventuale automazione o integrazione che usa le credenziali utente.</span><span class="sxs-lookup"><span data-stu-id="3c096-129">Since MFA will be enforced for every user in the partner directory, there will be an impact to any automation or integration that utilizes user credentials.</span></span> <span data-ttu-id="3c096-130">Per far fronte a tali ripercussioni, dovrai modificare il modo in cui l'automazione o l'integrazione si connette ai servizi del cloud commerciale Microsoft.</span><span class="sxs-lookup"><span data-stu-id="3c096-130">To address this impact you will need to modify the way your automation or integration connects to Microsoft commercial cloud services.</span></span> <span data-ttu-id="3c096-131">Se il servizio a cui ti connetti supporta l'autenticazione basata su token, è consigliabile implementare il [framework modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span><span class="sxs-lookup"><span data-stu-id="3c096-131">If the service you are connecting to supports token based authentication, then it is recommended that you implement the [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span></span>
-- title: <span data-ttu-id="3c096-132">Come è possibile abilitare il criterio di base Richiedere l'autenticazione a più fattori per gli amministratori?</span><span class="sxs-lookup"><span data-stu-id="3c096-132">How do I enable the Require MFA for admins baseline policy?</span></span>
+    > Poiché l'autenticazione a più fattori verrà applicata per tutti gli utenti nella directory del partner, ci saranno ripercussioni su un'eventuale automazione o integrazione che usa le credenziali utente. Per far fronte a tali ripercussioni, dovrai modificare il modo in cui l'automazione o l'integrazione si connette ai servizi del cloud commerciale Microsoft. Se il servizio a cui ti connetti supporta l'autenticazione basata su token, è consigliabile implementare il [framework modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).
+- title: Come è possibile abilitare il criterio di base Richiedere l'autenticazione a più fattori per gli amministratori?
   durationInMinutes: 5
   content: >
-    <span data-ttu-id="3c096-133">Per il criterio di base *Richiedere l'autenticazione a più fattori per gli amministratori* è necessaria l'autenticazione a più fattori per i ruoli della directory seguenti, considerati come i ruoli Azure AD più privilegiati:</span><span class="sxs-lookup"><span data-stu-id="3c096-133">The *Require MFA for admin* baseline policy requires MFA for the following directory roles, considered to be the most privileged Azure AD roles:</span></span>
+    Per il criterio di base *Richiedere l'autenticazione a più fattori per gli amministratori* è necessaria l'autenticazione a più fattori per i ruoli della directory seguenti, considerati come i ruoli Azure AD più privilegiati:
 
 
-    - <span data-ttu-id="3c096-134">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="3c096-134">Global administrator</span></span>
+    - Amministratore globale
 
-    - <span data-ttu-id="3c096-135">Amministratore di SharePoint</span><span class="sxs-lookup"><span data-stu-id="3c096-135">SharePoint administrator</span></span>
+    - Amministratore di SharePoint
 
-    - <span data-ttu-id="3c096-136">Amministratori di Exchange</span><span class="sxs-lookup"><span data-stu-id="3c096-136">Exchange administrator</span></span>
+    - Amministratori di Exchange
 
-    - <span data-ttu-id="3c096-137">Amministratore di accesso condizionale</span><span class="sxs-lookup"><span data-stu-id="3c096-137">Conditional access administrator</span></span>
+    - Amministratore di accesso condizionale
 
-    - <span data-ttu-id="3c096-138">Amministratore della protezione</span><span class="sxs-lookup"><span data-stu-id="3c096-138">Security administrator</span></span>
+    - Amministratore della protezione
 
-    - <span data-ttu-id="3c096-139">Amministratore helpdesk/amministratore password</span><span class="sxs-lookup"><span data-stu-id="3c096-139">Helpdesk administrator / Password administrator</span></span>
+    - Amministratore helpdesk/amministratore password
 
-    - <span data-ttu-id="3c096-140">Amministratore fatturazione</span><span class="sxs-lookup"><span data-stu-id="3c096-140">Billing administrator</span></span>
+    - Amministratore fatturazione
 
-    - <span data-ttu-id="3c096-141">Amministratore degli utenti</span><span class="sxs-lookup"><span data-stu-id="3c096-141">User administrator</span></span>
-
-
-    <span data-ttu-id="3c096-142">Se si abilita il criterio Richiedere l'autenticazione a più fattori per gli amministratori, i 9 ruoli di amministratore precedenti dovranno eseguire la registrazione all'autenticazione a più fattori usando l'app Authenticator.</span><span class="sxs-lookup"><span data-stu-id="3c096-142">Upon enabling the Require MFA for admins policy, the above nine administrator roles will be required to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="3c096-143">Al termine della registrazione all'autenticazione a più fattori, gli amministratori dovranno eseguire l'autenticazione a più fattori ogni volta che accedono.</span><span class="sxs-lookup"><span data-stu-id="3c096-143">Once MFA registration is complete, administrators will need to perform MFA every single time they sign-in.</span></span>
+    - Amministratore degli utenti
 
 
-    <span data-ttu-id="3c096-144">Se l'organizzazione dispone di questi account in uso negli script o nel codice, è consigliabile sostituirli con  [identità gestite](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span><span class="sxs-lookup"><span data-stu-id="3c096-144">If your organization has these accounts in use in scripts or code, consider replacing them with [managed identities](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span></span>
+    Se si abilita il criterio Richiedere l'autenticazione a più fattori per gli amministratori, i 9 ruoli di amministratore precedenti dovranno eseguire la registrazione all'autenticazione a più fattori usando l'app Authenticator. Al termine della registrazione all'autenticazione a più fattori, gli amministratori dovranno eseguire l'autenticazione a più fattori ogni volta che accedono.
 
 
-    <span data-ttu-id="3c096-145">Per abilitare questo criterio e proteggere gli amministratori:</span><span class="sxs-lookup"><span data-stu-id="3c096-145">To enable this policy and protect your administrators:</span></span>
+    Se l'organizzazione dispone di questi account in uso negli script o nel codice, è consigliabile sostituirli con  [identità gestite](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
 
 
-    1. <span data-ttu-id="3c096-146">Accedere al  **portale di Azure** come amministratore globale, amministratore della protezione o amministratore dell'accesso condizionale. </span><span class="sxs-lookup"><span data-stu-id="3c096-146">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+    Per abilitare questo criterio e proteggere gli amministratori:
 
-    2. <span data-ttu-id="3c096-147">Passare a **Accesso condizionale** di  > **Azure Active Directory**.</span><span class="sxs-lookup"><span data-stu-id="3c096-147">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
 
-    3. <span data-ttu-id="3c096-148">Nell'elenco dei criteri selezionare **Criteri di base: Richiedere l'autenticazione a più fattori per gli amministratori**.</span><span class="sxs-lookup"><span data-stu-id="3c096-148">In the list of policies, select **Baseline policy: Require MFA for admins**.</span></span>
+    1. Accedere al  **portale di Azure** come amministratore globale, amministratore della protezione o amministratore dell'accesso condizionale. 
 
-    4. <span data-ttu-id="3c096-149">Impostare **Abilita criterio** su **Usa i criteri immediatamente**.</span><span class="sxs-lookup"><span data-stu-id="3c096-149">Set **Enable policy** to **Use policy immediately**.</span></span>
+    2. Passare a **Accesso condizionale** di  > **Azure Active Directory**.
 
-    5. <span data-ttu-id="3c096-150">Fare  **clic** su Salva.</span><span class="sxs-lookup"><span data-stu-id="3c096-150">Click **Save**.</span></span>
+    3. Nell'elenco dei criteri selezionare **Criteri di base: Richiedere l'autenticazione a più fattori per gli amministratori**.
+
+    4. Impostare **Abilita criterio** su **Usa i criteri immediatamente**.
+
+    5. Fare  **clic** su Salva.
 
 
     > [!WARNING]
 
-    > <span data-ttu-id="3c096-151">Prima di abilitare questo criterio, verificare che gli utenti non usino protocolli di autenticazione legacy.</span><span class="sxs-lookup"><span data-stu-id="3c096-151">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="3c096-152">Vedi l'articolo [Procedura: Bloccare l'autenticazione legacy ad Azure AD con l'accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) per avere altre informazioni.</span><span class="sxs-lookup"><span data-stu-id="3c096-152">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+    > Prima di abilitare questo criterio, verificare che gli utenti non usino protocolli di autenticazione legacy. Vedi l'articolo [Procedura: Bloccare l'autenticazione legacy ad Azure AD con l'accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) per avere altre informazioni.
 
 
-    > [!IMPORTANT]
-
-    > <span data-ttu-id="3c096-153">Si è verificato un problema noto che influisce sulla possibilità di usare i privilegi amministrativi delegati per connettersi a PowerShell per Exchange Online quando viene applicata l'autenticazione a più fattori.</span><span class="sxs-lookup"><span data-stu-id="3c096-153">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="3c096-154">Per altre informazioni, vedi [PowerShell per Exchange Online](../partner-security-requirements.md#exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="3c096-154">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
-
-
-    <span data-ttu-id="3c096-155">Dopo che avrai abilitato il criterio di base *Richiedere l'autenticazione a più fattori per gli amministratori*, agli utenti membri dei ruoli di amministratore sopra indicati verrà visualizzata una nuova esperienza quando eseguono l'accesso.</span><span class="sxs-lookup"><span data-stu-id="3c096-155">Once you have enable the *Require MFA for admins* baseline policy, users who are a member of the above administrator roles will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="3c096-156">Le immagini seguenti mostrano le schermate che verranno visualizzate agli utenti su cui ha impatto tale criterio.</span><span class="sxs-lookup"><span data-stu-id="3c096-156">The following figures are what users impacted by this policy will experience</span></span>
+    Dopo che avrai abilitato il criterio di base *Richiedere l'autenticazione a più fattori per gli amministratori*, agli utenti membri dei ruoli di amministratore sopra indicati verrà visualizzata una nuova esperienza quando eseguono l'accesso. Le immagini seguenti mostrano le schermate che verranno visualizzate agli utenti su cui ha impatto tale criterio.
 
       ![Richiesta di altre informazioni](../images/security/baseline-require-more-info.png)
 
@@ -111,41 +106,36 @@ items:
 
       ![Convalida di sicurezza aggiuntiva verificata](../images/security/baseline-security-verification-confirmed.png)
 
-    <span data-ttu-id="3c096-162">Dopo che l'utente avrà completato le schermate precedenti, potrà eseguire l'accesso al servizio cloud Microsoft a cui stava tentando di accedere.</span><span class="sxs-lookup"><span data-stu-id="3c096-162">After the user has completed the above they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span>
-- title: <span data-ttu-id="3c096-163">Come è possibile abilitare il criterio di base Protezione dell'utente finale?</span><span class="sxs-lookup"><span data-stu-id="3c096-163">How do I enable the End user protection baseline policy?</span></span>
+    Dopo che l'utente avrà completato le schermate precedenti, potrà eseguire l'accesso al servizio cloud Microsoft a cui stava tentando di accedere.
+- title: Come è possibile abilitare il criterio di base Protezione dell'utente finale?
   durationInMinutes: 5
   content: >-
-    <span data-ttu-id="3c096-164">I criteri di base per la protezione dell'utente finale proteggono tutti gli utenti di una directory.</span><span class="sxs-lookup"><span data-stu-id="3c096-164">The End user protection baseline policy protects all users in a directory.</span></span> <span data-ttu-id="3c096-165">Per abilitare questo criterio è necessario che tutti gli utenti eseguano la registrazione all'autenticazione a più fattori di Azure entro 14 giorni.</span><span class="sxs-lookup"><span data-stu-id="3c096-165">Enabling this policy requires all users to register for Azure MFA within 14 days.</span></span> <span data-ttu-id="3c096-166">Dopo la registrazione, agli utenti verrà richiesta l'autenticazione a più fattori solo durante i tentativi di accesso rischiosi. Questo comportamento cambierà per i tenant dei partner in futuro.</span><span class="sxs-lookup"><span data-stu-id="3c096-166">Once registered, users will be prompted for MFA only during risky sign-in attempts, this behavior will change for partner tenants in the future.</span></span> <span data-ttu-id="3c096-167">Gli account utente compromessi vengono bloccati fino alla reimpostazione della password e alla rimozione del rischio.</span><span class="sxs-lookup"><span data-stu-id="3c096-167">Compromised user accounts are blocked until password reset and risk dismissal.</span></span>
+    I criteri di base per la protezione dell'utente finale proteggono tutti gli utenti di una directory. Per abilitare questo criterio è necessario che tutti gli utenti eseguano la registrazione all'autenticazione a più fattori di Azure entro 14 giorni. Dopo la registrazione, agli utenti verrà richiesta l'autenticazione a più fattori solo durante i tentativi di accesso rischiosi. Questo comportamento cambierà per i tenant dei partner in futuro. Gli account utente compromessi vengono bloccati fino alla reimpostazione della password e alla rimozione del rischio.
 
 
-    <span data-ttu-id="3c096-168">Il criterio di **Criteri di base: protezione dell'utente finale** è preconfigurata e verrà visualizzata nella parte superiore passando al pannello dell'Accesso condizionale nel portale di Azure.</span><span class="sxs-lookup"><span data-stu-id="3c096-168">The policy **Baseline policy: End user protection** comes pre-configured and will show up at the top when you navigate to the Conditional Access blade in Azure portal.</span></span>
+    Il criterio di **Criteri di base: protezione dell'utente finale** è preconfigurata e verrà visualizzata nella parte superiore passando al pannello dell'Accesso condizionale nel portale di Azure.
 
 
-    <span data-ttu-id="3c096-169">Per abilitare questo criterio e proteggere gli utenti:</span><span class="sxs-lookup"><span data-stu-id="3c096-169">To enable this policy and protect your users:</span></span>
+    Per abilitare questo criterio e proteggere gli utenti:
 
 
-    1. <span data-ttu-id="3c096-170">Accedere al  **portale di Azure** come amministratore globale, amministratore della protezione o amministratore dell'accesso condizionale. </span><span class="sxs-lookup"><span data-stu-id="3c096-170">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+    1. Accedere al  **portale di Azure** come amministratore globale, amministratore della protezione o amministratore dell'accesso condizionale. 
 
-    2. <span data-ttu-id="3c096-171">Passare a **Accesso condizionale** di  > **Azure Active Directory**.</span><span class="sxs-lookup"><span data-stu-id="3c096-171">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
+    2. Passare a **Accesso condizionale** di  > **Azure Active Directory**.
 
-    3. <span data-ttu-id="3c096-172">Nell'elenco dei criteri selezionare **Criteri di base: protezione dell'utente finale (anteprima)**.</span><span class="sxs-lookup"><span data-stu-id="3c096-172">In the list of policies, select **Baseline policy: End user protection (preview)**.</span></span>
+    3. Nell'elenco dei criteri selezionare **Criteri di base: protezione dell'utente finale (anteprima)**.
 
-    4. <span data-ttu-id="3c096-173">Impostare **Abilita criterio** su **Usa i criteri immediatamente**.</span><span class="sxs-lookup"><span data-stu-id="3c096-173">Set **Enable policy** to **Use policy immediately**.</span></span>
+    4. Impostare **Abilita criterio** su **Usa i criteri immediatamente**.
 
-    5. <span data-ttu-id="3c096-174">Fare  **clic** su Salva.</span><span class="sxs-lookup"><span data-stu-id="3c096-174">Click **Save**.</span></span>
+    5. Fare  **clic** su Salva.
 
 
     > [!WARNING]
 
-    > <span data-ttu-id="3c096-175">Prima di abilitare questo criterio, verificare che gli utenti non usino protocolli di autenticazione legacy.</span><span class="sxs-lookup"><span data-stu-id="3c096-175">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="3c096-176">Vedi l'articolo [Procedura: Bloccare l'autenticazione legacy ad Azure AD con l'accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) per avere altre informazioni.</span><span class="sxs-lookup"><span data-stu-id="3c096-176">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+    > Prima di abilitare questo criterio, verificare che gli utenti non usino protocolli di autenticazione legacy. Vedi l'articolo [Procedura: Bloccare l'autenticazione legacy ad Azure AD con l'accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) per avere altre informazioni.
 
 
-    > [!IMPORTANT]
-
-    > <span data-ttu-id="3c096-177">Si è verificato un problema noto che influisce sulla possibilità di usare i privilegi amministrativi delegati per connettersi a PowerShell per Exchange Online quando viene applicata l'autenticazione a più fattori.</span><span class="sxs-lookup"><span data-stu-id="3c096-177">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="3c096-178">Per altre informazioni, vedi [PowerShell per Exchange Online](../partner-security-requirements.md#exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="3c096-178">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
-
-
-    <span data-ttu-id="3c096-179">Dopo che avrai abilitato il criterio di base *Protezione dell'utente finale*, a tutti gli utenti verrà visualizzata una nuova esperienza quando eseguono l'accesso.</span><span class="sxs-lookup"><span data-stu-id="3c096-179">Once you have enabled the *End user protection* baseline policy, all users will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="3c096-180">Le immagini seguenti mostrano le schermate che verranno visualizzate agli utenti.</span><span class="sxs-lookup"><span data-stu-id="3c096-180">The following figures are what users will experience</span></span>
+    Dopo che avrai abilitato il criterio di base *Protezione dell'utente finale*, a tutti gli utenti verrà visualizzata una nuova esperienza quando eseguono l'accesso. Le immagini seguenti mostrano le schermate che verranno visualizzate agli utenti.
 
       ![Richiesta di altre informazioni](../images/security/baseline-require-more-info.png)
 
@@ -157,4 +147,4 @@ items:
 
       ![Convalida di sicurezza aggiuntiva verificata](../images/security/baseline-security-verification-confirmed.png)
 
-    <span data-ttu-id="3c096-186">Dopo che l'utente avrà completato le schermate precedenti, potrà eseguire l'accesso al servizio cloud Microsoft a cui stava tentando di accedere.</span><span class="sxs-lookup"><span data-stu-id="3c096-186">After the user has completed the above, they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span> <span data-ttu-id="3c096-187">Tieni presente che, fintanto che non verranno applicati i requisiti di sicurezza per i partner, agli utenti non coperti dal criterio di base *Richiedere l'autenticazione a più fattori per gli amministratori* verrà richiesto questo tipo di autenticazione solo in base al rischio.</span><span class="sxs-lookup"><span data-stu-id="3c096-187">Note until the partner security requirements are enforced, users who are not covered by the *Require MFA for admins* baseline policy will only be prompted for MFA based on risk.</span></span>
+    Dopo che l'utente avrà completato le schermate precedenti, potrà eseguire l'accesso al servizio cloud Microsoft a cui stava tentando di accedere. Tieni presente che, fintanto che non verranno applicati i requisiti di sicurezza per i partner, agli utenti non coperti dal criterio di base *Richiedere l'autenticazione a più fattori per gli amministratori* verrà richiesto questo tipo di autenticazione solo in base al rischio.

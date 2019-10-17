@@ -8,12 +8,12 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
-  ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
+  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
   ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 07/18/2019
-  ms.locfileid: "68313953"
+  ms.lasthandoff: 10/16/2019
+  ms.locfileid: "72425217"
 items:
 - title: Introduzione
   durationInMinutes: 5
@@ -94,11 +94,6 @@ items:
     > Prima di abilitare questo criterio, verificare che gli utenti non usino protocolli di autenticazione legacy. Vedi l'articolo [Procedura: Bloccare l'autenticazione legacy ad Azure AD con l'accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) per avere altre informazioni.
 
 
-    > [!IMPORTANT]
-
-    > Si è verificato un problema noto che influisce sulla possibilità di usare i privilegi amministrativi delegati per connettersi a PowerShell per Exchange Online quando viene applicata l'autenticazione a più fattori. Per altre informazioni, vedi [PowerShell per Exchange Online](../partner-security-requirements.md#exchange-online-powershell).
-
-
     Dopo che avrai abilitato il criterio di base *Richiedere l'autenticazione a più fattori per gli amministratori*, agli utenti membri dei ruoli di amministratore sopra indicati verrà visualizzata una nuova esperienza quando eseguono l'accesso. Le immagini seguenti mostrano le schermate che verranno visualizzate agli utenti su cui ha impatto tale criterio.
 
       ![Richiesta di altre informazioni](../images/security/baseline-require-more-info.png)
@@ -138,11 +133,6 @@ items:
     > [!WARNING]
 
     > Prima di abilitare questo criterio, verificare che gli utenti non usino protocolli di autenticazione legacy. Vedi l'articolo [Procedura: Bloccare l'autenticazione legacy ad Azure AD con l'accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) per avere altre informazioni.
-
-
-    > [!IMPORTANT]
-
-    > Si è verificato un problema noto che influisce sulla possibilità di usare i privilegi amministrativi delegati per connettersi a PowerShell per Exchange Online quando viene applicata l'autenticazione a più fattori. Per altre informazioni, vedi [PowerShell per Exchange Online](../partner-security-requirements.md#exchange-online-powershell).
 
 
     Dopo che avrai abilitato il criterio di base *Protezione dell'utente finale*, a tutti gli utenti verrà visualizzata una nuova esperienza quando eseguono l'accesso. Le immagini seguenti mostrano le schermate che verranno visualizzate agli utenti.

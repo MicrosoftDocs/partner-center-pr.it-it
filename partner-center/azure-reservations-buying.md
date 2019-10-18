@@ -1,19 +1,19 @@
 ---
 title: Acquistare le prenotazioni di Microsoft Azure per conto del cliente | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 10/15/2019
 Description: È possibile acquistare prenotazioni di Azure per conto dei clienti nel centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, prenotazioni, gestire, fatturazione, acquisto
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5d42c62c10d1717868b7b22f7a63ffc2311a3f70
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: fb75358e9b193a1568926eec220aef4c9fcc6f0f
+ms.sourcegitcommit: 582415b3c61557e80dfd17e09b5122210bfd0a9b
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708778"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "72530973"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare Microsoft Azure prenotazioni per conto dei clienti nel centro per i partner 
 
@@ -27,6 +27,8 @@ ms.locfileid: "68708778"
 
 Esaminare le informazioni importanti riportate di seguito prima di acquistare prenotazioni di Azure per conto dei clienti.
 
+- Se e quando il cliente firma il contratto del cliente Microsoft per [confermare l'accettazione da parte del cliente del contratto Microsoft](confirm-customer-agreement.md), è necessario acquistare le prenotazioni di Azure nel piano Azure. Per altre informazioni, vedere [acquistare un piano Azure](purchase-azure-plan.md).
+
 -   I clienti devono disporre già di una sottoscrizione di Azure attiva prima che tu possa acquistare prenotazioni per loro conto
   
 -   I costi di sottoscrizione software, ad esempio il database SQL o il software SUSE Linux, non sono inclusi nei prezzi di prenotazione di Azure
@@ -37,7 +39,7 @@ Esaminare le informazioni importanti riportate di seguito prima di acquistare pr
 
 -   Se sei un provider indiretto e acquisti prenotazioni di Azure tramite il portale di Azure, il Partner on record (rivenditore indiretto) viene ereditato dalla sottoscrizione CSP di Azure selezionata. 
 
--   Il Partner nel record per le prenotazioni di Azure non può essere modificato dopo l'acquisto. Puoi annullare la prenotazione esistente e acquistarne una nuova con il nuovo Partner on record. 
+-   Il partner di record per le prenotazioni di Azure non può essere modificato dopo l'acquisto. Puoi annullare la prenotazione esistente e acquistarne una nuova con il nuovo Partner on record. 
 
 -   Se un cliente desidera trasferire una sottoscrizione di Azure da diretta o EA a CSP, le prenotazioni non vengono trasferite. 
 
@@ -48,46 +50,43 @@ Esaminare le informazioni importanti riportate di seguito prima di acquistare pr
 >  
 > | Mercati non disponibili | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
-> | Isole Åland                  | Groenlandia                         | Palau                                    |
-> | Samoa Americane                 | Grenada                           | Papua Nuova Guinea                         |
-> | Andorra                        | Guadalupa                        | Isole Pitcairn                         |
-> | Anguilla                       | Guam                              | Riunione                                  |
-> | Antartide                     | Guernsey                          | Federazione Russa                       |
-> | Antigua e Barbuda            | Guinea                            | Saba                                     |
-> | Aruba                          | Guinea-Bissau                     | Saint Barthélemy                         |
-> | Azerbaigian                     | Guyana                            | Saint Lucia                              |
-> | Belarus                        | Haiti                             | Saint Martin                             |
-> | Benin                          | Heard e McDonald | Saint Pierre e Miquelon                |
-> | Bhutan                         | India                             | Saint Vincent e Grenadine         |
-> | Bonaire                        | Isola di Man                       | Samoa                                    |
-> | Isola Bouvet                  | Jan Mayen                         | San Marino                               |
-> | Brasile                         | Jersey                            | São Tomé e Príncipe                    |
-> | Territorio britannico dell'Oceano Indiano | Kazakistan                        | Seychelles                               |
-> | Isole Vergini Britanniche         | Kiribati                          | Sierra Leone                             |
-> | Burkina Faso                   | Corea, Repubblica di                | Sint Eustatius                           |
-> | Burundi                        | Kosovo                            | Sint Maarten                             |
-> | Cambogia                       | Laos                              | Isole Salomone                          |
-> | Repubblica Centrafricana       | Lesotho                           | Somalia                                  |
-> | Ciad                           | Liberia                           | Georgia del sud e Sandwich Australi |
-> | Cina                          | Madagascar                        | Sud Sudan                              |
-> | Isola Christmas               | Malawi                            | Sant'Elena, Ascensione, Tristan da Cunha   |
-> | Isole Cocos (Keeling)        | Maldive                          | Suriname                                 |
-> | Comore                        | Mali                              | Svalbard                                 |
-> | Congo                          | Marshall                  | Swaziland                                |
-> | Repubblica democratica del Congo                    | Martinica                        | Taiwan                                   |
-> | Isole Cook                   | Mauritania                        | Timor-Leste                              |
-> | Gibuti                       | Mayotte                           | Togo                                     |
-> | Dominica                       | Micronesia                        | Tokelau                                  |
-> | Guinea Equatoriale              | Montserrat                        | Tonga                                    |
-> | Eritrea                        | Mozambico                        | Turks e Caicos, Isole                 |
-> | Isole Falkland               | Myanmar                           | Tuvalu                                   |
-> | Guayana Francese                  | Nauru                             | DEGLI STATI UNITI Isole esterne                    |
-> | Polinesia Francese               | Nuova Caledonia                     | Ucraina                                  |
-> | Terre australi francesi    | Niger                             | Vanuatu                                  |
-> | Gabon                          | Niue                              | Città del Vaticano                             |
-> | Gambia                         | Norfolk                    | Wallis e Futuna                        |
-> | Gibilterra                      | Marianne Settentrionali          | Yemen                                    |
-> |
+> | Isole Åland     | Groenlandia     | Papua Nuova Guinea     |
+> | Samoa Americane     | Grenada     | Isole Pitcairn     |
+> | Andorra     | Guadalupa     | Riunione     |
+> | Anguilla     | Guam     | Saba   |
+> | Antartide     | Guernsey     | Saint-Barthélemy   |
+> | Antigua e Barbuda       | Guinea     | Saint Lucia   |
+> | Aruba       | Guinea-Bissau     | Saint Martin   |
+> | Azerbaigian       | Guyana     | Saint-Pierre e Miquelon   |
+> | Benin     | Haiti       | Saint Vincent e Grenadine     |
+> | Bhutan     | Heard e McDonald       | Samoa     |
+> | Bonaire     | Isola di Man     | San Marino     |
+> | Isola Bouvet     | Jan Mayen     | São Tomé e Príncipe   |
+> | Territorio britannico dell'Oceano Indiano       | Jersey     | Seychelles   |
+> | Isole Vergini Britanniche     | Kiribati       | Sierra Leone   |
+> | Burkina Faso     | Kosovo     | Sint Eustatius     |
+> | Burundi     | Laos     | Sint Maarten     |
+> | Cambogia     | Lesoto     | Isole Salomone     |
+> | Repubblica Centrafricana     | Liberia     | Somalia     |
+> | Ciad     | Madagascar     | Georgia del sud e Sandwich Australi     |
+> | Cina     | Malawi     | Sud Sudan     |
+> | Isola Christmas     | Maldive     | Sant'Elena, Ascensione, Tristan da Cunha     |
+> | Isole Cocos (Keeling)     | Mali     | Suriname     |
+> | Comore     | Marshall     | Svalbard     |
+> | Congo     | Martinica     | Swaziland     |
+> | Repubblica democratica del Congo     | Mauritania     | Timor-Leste   |
+> | Isole Cook     | Mayotte     | Togo   |
+> | Gibuti     | Micronesia     | Tokelau   |
+> | Dominica     | Montserrat     | Tonga   |
+> | Guinea Equatoriale     | Mozambico     | Turks e Caicos, Isole   |
+> | Eritrea     | Birmano     | Tuvalu   |
+> | Isole Falkland     | Nauru     | Altre isole americane del Pacifico   |
+> | Guayana Francese     | Nuova Caledonia     | Vanuatu   |
+> | Polinesia Francese     | Niger     | Città del Vaticano   |
+> | Terre australi francesi     | Niue     | Wallis e Futuna   |
+> | Gabon     | Norfolk     | Yemen   |
+> | Gambia     | Isole Marianne settentrionali     |    |
+> | Gibilterra     | Palau       |    |
 
 ## <a name="purchase-azure-reservations"></a>Acquista prenotazioni di Azure
 
@@ -108,7 +107,7 @@ Attenersi alla procedura seguente per acquistare Microsoft Azure prenotazioni pe
 4. Le prenotazioni di Azure devono essere associate a una sottoscrizione di Azure attiva. Scegliere la sottoscrizione del cliente a cui si vuole aggiungere prenotazioni di Azure dall'elenco di **sottoscrizioni clienti** . 
 
    >[!IMPORTANT]
-   >Se il cliente non ha già una sottoscrizione di Azure attiva, selezionare i **servizi online** per aggiungerne uno ora. 
+   >Se il cliente non dispone già di una sottoscrizione di Azure attiva, selezionare **Azure** per aggiungerne una. 
 
 5. Usare i filtri per trovare le prenotazioni di Azure in macchine virtuali che soddisfano i requisiti del cliente.  
 
@@ -123,9 +122,15 @@ Attenersi alla procedura seguente per acquistare Microsoft Azure prenotazioni pe
     - Seleziona l'ambito della prenotazione. L'ambito della prenotazione è sufficiente a coprire una o più sottoscrizioni (ambito condiviso). Se la prenotazione viene portata a una singola sottoscrizione, lo sconto per la prenotazione viene applicato solo a questa sottoscrizione. Se selezioni Condiviso, lo sconto relativo alla prenotazione viene applicato a qualsiasi abbonamento nel contesto di fatturazione del cliente. 
 
       >[!NOTE] 
-      >Se si sceglie di limitare l'ambito della prenotazione a una singola sottoscrizione di Azure, potrebbe essere necessario aumentare la quota vCPU della sottoscrizione. Per aumentare la quota vCPU della sottoscrizione, è necessario creare una richiesta di supporto nella portale di Azure. Per creare la richiesta, seguire le istruzioni riportate [in questo argomento](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) .    
+      >Se si sceglie di limitare l'ambito della prenotazione a una singola sottoscrizione di Azure, potrebbe essere necessario aumentare la quota vCPU della sottoscrizione. Per aumentare la quota vCPU della sottoscrizione, è necessario creare una richiesta di supporto nella portale di Azure. Per creare la richiesta, seguire le istruzioni riportate [in questo argomento](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) . 
+
+      >[!NOTE]   
+      >Se il cliente si trova nel piano Azure, l' **ambito** verrà impostato su **condiviso**. 
 
     - Se sei un partner provider, seleziona il rivenditore che desideri associare al prodotto.
+    
+    - Se la prenotazione di Azure supporta l'opzione del piano di fatturazione, è possibile selezionare la frequenza di fatturazione come mensile dal menu a discesa. 
+    - Se la prenotazione di Azure non supporta l'opzione del piano di fatturazione, per impostazione predefinita la frequenza di fatturazione è la fatturazione. 
 
 9. Seleziona **Acquista** per acquistare l'ordine. I dettagli dell'ordine, incluso il numero di ordine, vengono visualizzati nella pagina **conferma** . Seleziona **Fatto** per passare alla pagina **Cronologia ordini**. 
 

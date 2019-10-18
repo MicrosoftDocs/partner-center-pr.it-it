@@ -1,19 +1,19 @@
 ---
 title: Contratti, listini prezzi e offerte per CSP | Centro per i partner
 ms.topic: article
-ms.date: 08/29/2019
+ms.date: 09/23/2019
 description: Questo articolo include i collegamenti alle guide al programma Cloud Solution Provider, ai contratti per i partner, ai contratti per i clienti, ai listini prezzi e alle offerte.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guide al programma CSP, guida al programma, contratti partner, contratto cliente, listini prezzi, offerte
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
+ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259910"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "71204638"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guida al programma Cloud Solution Provider, contratti, listini prezzi e offerte
 
@@ -33,6 +33,10 @@ Esamina i requisiti per diventare un partner nel programma Cloud Solution Provid
 
 >[!Note]
 >Se hai bisogno di una dichiarazione formale che confermi o certifichi il tuo status di partner Microsoft approvato nel programma Cloud Solution Provider, [contatta il supporto tecnico](https://partner.microsoft.com/pcv/servicerequests/create) per richiederla.
+
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Condizioni di offerta aggiuntive per il contratto partner Microsoft
+
+[Termini dell'offerta supplementare Guida alle sottoscrizioni dei servizi online e all'autorizzazione del canale software](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Contratto Microsoft Cloud: modelli per i clienti
 
@@ -55,7 +59,7 @@ Se lavori in Germania, può essere necessario fornire ai clienti questa modifica
 
 Scarica i dettagli dei prezzi per i servizi basati sulla licenza o sull'utilizzo e per gli acquisti una tantum dalla pagina **Prezzi e offerte** disponibile dal menu **Centro per i partner**.
 
-Il listino prezzi basato su licenza viene aggiornato mensilmente e Microsoft pubblica i nuovi prezzi 30 giorni prima dell'entrata in vigore. Alcuni esempi di servizi basati su licenza sono Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM. 
+Il listino prezzi in base alle licenze viene aggiornato mensilmente e Microsoft pubblica i nuovi prezzi 30 giorni prima dell'entrata in vigore. Alcuni esempi di servizi basati su licenza sono Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM. 
 
 I prezzi in base all'uso sono dinamici e cambiano di frequente. Un esempio di servizio basato sull'utilizzo è Microsoft Azure.
 

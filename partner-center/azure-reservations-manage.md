@@ -8,30 +8,30 @@ ms.author: labrenne
 keywords: Azure, prenotazioni, gestione, fatturazione, acquisto, annullamento, scambio, tariffa per la terminazione anticipata
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 56802383a363afabc84932afd099bdb4c0a85a66
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.openlocfilehash: b7e9726acbba54daf8404fdf4a3d2b4961c5123a
+ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708762"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "71704153"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gestire le prenotazioni di Microsoft Azure per conto del cliente
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gestire le prenotazioni di Microsoft Azure per conto dei clienti       
 
 **Si applica a**
 
 -  Centro per i partner
--  Portale di Microsoft Azure
+-  Portale di Microsoft Azure 
 -  Partner di CSP
 
 Per gestire le prenotazioni di Azure per i clienti dopo l'acquisto, selezionare il cliente e la prenotazione da gestire nel centro per i partner e quindi apportare modifiche alla prenotazione nel portale di Azure. 
 
-1. Per iniziare, selezionare Customers ( **clienti** ) dal menu centro partner e quindi selezionare il cliente di cui si desidera gestire le prenotazioni. 
+1. Per iniziare, selezionare **Customers (clienti** ) dal menu centro partner e quindi selezionare il cliente di cui si desidera gestire le prenotazioni. 
 
 2. Nel menu della pagina dei dettagli del cliente, seleziona **Prenotazioni di Azure**, quindi seleziona la prenotazione specifica che desideri gestire.  
 
 3. In **Azioni** seleziona **Gestisci** per passare al record della prenotazione del cliente nel portale di Azure. Nella pagina dei dettagli della prenotazione segui i passaggi qui sotto per completare le attività.  
 
-    | **Selezionare**   | **To**    |
+    | **Selezionare**   | **A**    |
     |:-----------------------------|:-----------------|
     | **Panoramica**   | Visualizzare i dettagli della prenotazione di un cliente, inclusi i dati di utilizzo, l'ambito e la data di scadenza. **NOTA:** seleziona **Rimborsa** per creare una richiesta di supporto per un rimborso proporzionale. Selezionare **Cambio** per creare una richiesta di supporto in vista del cambio del periodo di prenotazione non utilizzato.  
     | **Controllo di accesso (IAM)**   | Gestire l'accesso alle informazioni sulla prenotazione del cliente.|
@@ -56,9 +56,9 @@ Per informazioni dettagliate sull'annullamento e tariffe, vedere di seguito.
 |**Data di annullamento**<br> giorni   |**Utilizzo**    |**Credito**  |**Terminazione anticipata**<br> individuale    |**Limite di rimborso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5 o un numero inferiore                         | No          | 100%       | No                              | $50.000 USD   |
-|5 o un numero inferiore                         | Yes         | Con classificazione Pro  | No                              | $50.000 USD   |
+|5 o un numero inferiore                         | Sì         | Con classificazione Pro  | No                              | $50.000 USD   |
 |Più di 5                        | No          | Con classificazione Pro  | 12                             | $50.000 USD   |
-|Più di 5                        | Yes         | Con classificazione Pro  | 12                             | $50.000 USD   |
+|Più di 5                        | Sì         | Con classificazione Pro  | 12                             | $50.000 USD   |
 
 
 **Come funzionano gli scambi** 
@@ -85,8 +85,8 @@ Per presentare una richiesta di supporto per un rimborso o uno scambio per conto
 
     |**Passo**                    |**Selezioni**    |
     |:---------------------------|:-----------------|
-    |**1 Nozioni di base**                |Tipo di problema: Fatturazione.  |
-    |**2 problema**               |Tipo di problema: Gestione delle prenotazioni. Categoria: Scambi e rimborsi. |
+    |**1 Nozioni di base**                |Tipo di problema: fatturazione  |
+    |**2 problema**               |Tipo di problema: gestione della prenotazione. Categoria: scambi e rimborsi |
     |**3 informazioni di contatto**   |Seleziona le preferenze e immetti le informazioni necessarie. 
 
 5.  Al termine, seleziona **Crea**.

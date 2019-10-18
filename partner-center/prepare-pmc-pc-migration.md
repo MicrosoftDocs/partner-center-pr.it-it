@@ -6,12 +6,12 @@ description: Aspetti da considerare prima di spostare l'azienda da PMC al centro
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: bbce4677e88c82cb3f2826fb37823d2746d12e61
+ms.sourcegitcommit: f54b679ce5058793a52795c6f93b0e98311805e1
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820577"
+ms.lasthandoff: 09/17/2019
+ms.locfileid: "71060497"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepararsi al passaggio da partner Membership Center (PMC) a partner Center
 
@@ -26,14 +26,19 @@ Un account aziendale Azure è una rappresentazione virtuale dedicata e isolata d
 L'account aziendale ospita gli utenti Azure AD e le informazioni su di essi, ovvero posta elettronica, password, dati del profilo, autorizzazioni e così via. L'account di lavoro contiene anche gruppi, applicazioni e altre informazioni relative a una società e alla relativa sicurezza. Per ulteriori informazioni, vedere...
 
 Nel centro per i partner si userà l'indirizzo di posta elettronica dell'ufficio per accedere al proprio account e non alla posta elettronica personale.
-- Account aziendale:john@contoso.com
-- Account personale:John@outlook.com
+- Account aziendale: john@contoso.com
+- Account personale: John@outlook.com
 
 Il tuo indirizzo di posta elettronica di lavoro fa parte del tenant di Azure Active Directory. Per avere un account nel centro per i partner, è necessario disporre di un tenant AAD. Per altre informazioni su Azure Active Directory, vedere [creare la directory in Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 **Quando si passa al centro per i partner da PMC, quale account dovrebbe accedere al centro per i partner se si dispone di un tenant AAD con Microsoft (per Office 365, ad esempio) e si dispone anche di un tenant per la propria azienda CSP?**
 
 È possibile accedere al centro per i partner con l'account CSP o con l'account di posta elettronica dell'ufficio MPN. Se si sceglie di eseguire l'accesso con l'indirizzo di posta elettronica dell'ufficio CSP, nel riquadro di spostamento a sinistra del dashboard vengono visualizzate le informazioni sul programma MPN e CSP. Se si accede con il messaggio di posta elettronica dell'ufficio MPN Azure AD tenant, si vedranno solo le informazioni sul programma MPN. I ruoli utente sono diversi tra MPN e CSP, pertanto se si usa lo stesso account per le aziende MPN e CSP, assicurarsi di assegnare i ruoli utente di conseguenza. Per informazioni sui ruoli utente, vedere [assegnare ruoli utente e autorizzazioni](permissions-overview.md).
+
+**Se non si vuole usare il tenant di Office 365 Azure AD esistente per il centro per i partner, è possibile creare un nuovo tenant prima di eseguire la migrazione da PMC.**
+
+Ci possono essere diversi motivi per cui non si vuole usare un tenant di Azure AD esistente per configurare l'account del centro per i partner. Prima di iniziare la migrazione al centro per i partner, passare alla [portale di Azure](https://ms.portal.azure.com/#home) per creare un nuovo tenant di Azure ad. Seguire le istruzioni riportate in [creare un nuovo tenant in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Dopo aver creato il nuovo tenant, usare questo tenant di AAD per configurare l'account del centro per i partner quando ci si sposta da PMC al centro per i partner. Per creare il tenant, è necessario essere un amministratore globale. Usare questa nuova directory per eseguire la migrazione al centro per i partner.
+
 
 **Qual è la differenza tra il ruolo di amministratore globale di AAD e il ruolo di amministratore globale di PMC MPN?**
 
@@ -122,11 +127,11 @@ Sì, Compentencies non sarà interessato dal passaggio al centro per i partner. 
  **Verranno rispettati gli account Microsoft con allocazione dei vantaggi di Visual Studio?**
 
 
- Sì. I vantaggi di Visual Studio allocati a MSAs verranno rispettati e conservati. Verranno conservati anche dopo il rinnovo nel centro per i partner. Tuttavia, se si rimuove un'allocazione di MSA una volta eseguita la migrazione nel centro per i partner, non sarà possibile aggiungerla nuovamente al centro per i partner.
+ Sì. I benefit Visual Studio allocati agli account Microsoft verranno onorati e mantenuti. Verranno conservati anche dopo il rinnovo nel Centro per i partner. Tuttavia, se si rimuove l'allocazione a un account Microsoft una volta eseguita la migrazione nel Centro per i partner, non sarà possibile aggiungerla nuovamente nel Centro per i partner.
 
-Nel centro per i partner, un partner può aggiungere account di lavoro e account utente Guest, che sono MSA dello stesso tenant in cui il partner è l'amministratore MPN nel tenant Azure AD. Se il partner è un amministratore globale in più tenant di Azure AD e tutti questi tenant sono associati allo stesso account del centro per i partner, il partner può aggiungere utenti tra tutti questi tenant ai vantaggi di Visual Studio e alle allocazioni basate sull'utilizzo di Azure.
+Nel Centro per i partner, un partner può aggiungere account aziendali e account utente Guest, che sono account Microsoft dello stesso tenant in cui il partner è amministratore MPN nel tenant di Azure AD. Se il partner è amministratore globale in più tenant di Azure AD e tutti questi tenant sono associati allo stesso account del Centro per i partner, il partner può aggiungere utenti di tutti questi tenant ai benefit Visual Studio e alle allocazioni in base all'uso di Azure.
 
-Sebbene gli utenti guest possano essere assegnati a sottoscrizioni basate sull'utilizzo di Visual Studio dall'amministratore MPN o dall'amministratore globale, gli utenti guest non possono accedere al centro per i partner usando il proprio MSA. Gli utenti guest possono, tuttavia, accedere ad Azure e a Visual Studio per convalidare e usare i vantaggi assegnati.
+Anche se l'amministratore MPN o l'amministratore globale può assegnare agli utenti guest sottoscrizioni in base all'uso di Visual Studio, gli utenti guest non possono accedere al Centro per i partner usando il proprio account Microsoft. Gli utenti guest, tuttavia, possono accedere ad Azure e a Visual Studio per convalidare e usare i benefit che gli sono stati assegnati.
 
 
  **Come si gestiscono le associazioni MCP e l'accesso all'Università partner?**

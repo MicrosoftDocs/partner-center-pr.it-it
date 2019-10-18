@@ -1,40 +1,54 @@
 ---
-title: Gestire il proprio account partner - percorsi | Centro per i partner
+title: Gestire l'account partner-località | Centro per i partner
 ms.topic: article
 ms.date: 03/27/2019
-description: Gestire i percorsi della società nel centro per i Partner
+description: Gestisci le località aziendali nel centro per i partner
 author: LauraBrenner
 ms.author: labrenne
-keywords: account partner, percorsi
+keywords: account partner, località
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e6d5b2e4d314cc852c1c52ba4561b39bf6faa94
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 16b0649ec68aa4915a6aa3ad59b260cadfc63012
+ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134431"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "72171244"
 ---
-# <a name="manage-your-partner-account-locations"></a>Gestire il proprio account partner: Percorsi
+# <a name="manage-your-partner-account-locations"></a>Gestire l'account partner: località
 
-L'ID MPN ubicazione identificare ogni percorso specifico dell'azienda. Il percorso ID MPN consente di registrare programmi incentivi e alle transazioni business di Cloud Solution Provider (CSP), per aggiungere nuove sottoscrizioni e altre transazioni di business. La società ID MPN viene usata per attività transazionale, ad esempio le richieste di supporto.
+Gli ID MPN della località identificano ogni posizione specifica della società. Si usa il percorso MPN ID per iscriversi a Incentive programs, a Transact Cloud Solution Provider (CSP) business, per aggiungere nuove sottoscrizioni e altre transazioni di business. L'ID MPN aziendale viene usato per le attività non transazionali, ad esempio le richieste di supporto.
 
 **Di seguito è riportato uno scenario tipico:** 
 
-Una società partner può avere un business CSP e un'azienda di pubblicazione. Loro attività aziendali CSP possono trovarsi in diverse impostazioni locali e la loro attività pub può trovarsi in altre impostazioni locali. I business legali registrato ha un ID MPN che viene usato per la gestione di tutte le business non transazionale, ad esempio l'aggiunta di utenti o la registrazione delle richieste di supporto. 
+Una società partner può disporre di un'azienda CSP e di un'attività di pubblicazione. Le aziende CSP possono trovarsi in diverse impostazioni locali e le loro attività di pubblicazione possono trovarsi in altre impostazioni locali. La società legale registrata ha un ID MPN usato per la gestione di tutte le attività non transazionali, ad esempio l'aggiunta di utenti o la registrazione di richieste di supporto. 
 
-Ognuno dei relativi percorsi ha un ID MPN che viene usato per le aziende transazionale, ad esempio CSP o incentivi per i programmi. Proventi sono associati a indirizzi specifici.
+Ogni percorso dispone di un ID MPN utilizzato per le attività transazionali, ad esempio i programmi CSP o incentives. I pagamenti sono collegati a posizioni specifiche.
 
-È possibile che i ruoli tra diversi percorsi. Ad esempio, l'amministratore di incentivi potrebbe dispone di tale ruolo per tutte le località in Europa.
+Gli utenti possono avere ruoli che attraversano i percorsi. Ad esempio, l'amministratore di incentivi potrebbe avere questo ruolo per tutte le località in Europa.
 
-**Per aggiungere un indirizzo**
+**Per aggiungere un percorso**
 
-1. Dal **icona delle impostazioni**, selezionare la **Partner impostazioni**. 
+1. Nell' **icona impostazione**selezionare le **Impostazioni partner**. 
 
-2. Selezionare **posizioni.**
+2. Selezionare **percorsi.**
 
-3. Selezionare **aggiungere un percorso**.  
+3. Selezionare **Aggiungi un percorso**.  
 
-4. Nel **aggiungere un indirizzo** pagina, inserire i dettagli dell'indirizzo della posizione a cui si desidera aggiungere per l'azienda, nonché un contatto principale per il percorso.
+4. Nella pagina **Aggiungi un percorso** inserire i dettagli dell'indirizzo che si desidera aggiungere all'azienda e un contatto principale per la località.
 
-Nota: Dopo aver aggiunto un percorso nel centro per i Partner, non può essere rimosso.
+Nota: una volta aggiunta una località nel centro per i partner, non è possibile rimuoverla.
+
+**Modificare la sede legale**
+
+1. Nella pagina **percorsi** , controllare l'elenco delle località per verificare che sia elencata la località desiderata come entità legale. In caso contrario, aggiungerla.
+
+![aggiornare il percorso aziendale](images/updatepartnerprofile2.png)
+
+2. Selezionare **profilo partner** , quindi selezionare **Aggiorna profilo aziendale legale**
+
+![aggiornare il percorso aziendale](images/updatepartnerprofile1.png)
+
+3. Selezionare l'area e l'entità legale e **inviarla** .
+
+![aggiornare il percorso aziendale](images/updatepartnerprofile3.png)
 

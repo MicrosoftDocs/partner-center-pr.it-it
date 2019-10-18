@@ -1,18 +1,18 @@
 ---
-title: Invio di attestazioni OSA nel centro per i Partner | Centro per i partner
+title: Inviare le attestazioni OSA nel centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 3/14/2019
-description: Inviare un'attestazione di tariffa Selling OSA o attestazione di associazione dei ricavi di ISV
+ms.date: 10/04/2019
+description: Inviare un'attestazione di importo di vendita OSA o ISV Revenue Association
 author: LauraBrenner
 ms.author: labrenne
-keywords: attestazioni incentivi, le attestazioni di co-op, cooperativa fondi, OSA, ISV, associazione di ricavi
+keywords: attestazioni per incentivi, attestazioni co-op, fondi co-op, OSA, ISV, associazione di ricavi
 ms.localizationpriority: medium
-ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b61b1da0a7faa3008996785dd092b2e1bae12b8e
+ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133929"
+ms.lasthandoff: 10/16/2019
+ms.locfileid: "72425170"
 ---
 # <a name="submit-your-osa-claims-in-partner-center"></a>Inviare le richieste OSA nel Centro per i partner
 
@@ -20,82 +20,82 @@ ms.locfileid: "62133929"
 
 -  Centro per i partner
 
-Un partner OSA o gli ISV di Dynamics, è possibile inviare le attestazioni nel centro per i Partner. 
+Un partner OSA o un ISV di Dynamics può inviare le proprie attestazioni nel centro per i partner. 
 
 Prima di poter creare e inviare un'attestazione, è necessario soddisfare i requisiti seguenti: 
--   **Iscriversi a Microsoft Partner Network**, e avere un contratto attivo di MPN. Per eseguire la registrazione in Microsoft Partner Network, visitare il sito di partner. 
--   **Da un consulente di software Microsoft Dynamics certificato** con un active Microsoft Dynamics Certified Software Advisor contratto (CSA). 
--   **Dispone di informazioni bancarie e fiscali** immesso nel centro per i Partner. 
--   **Soddisfare i requisiti di certificazione e dei ricavi idoneità OSA Selling**. (Per informazioni dettagliate, vedere la Guida di vendere OSA, che si trova sotto la sezione OSA aka.ms/partnerincentives). Ciò non vale per gli ISV la ricerca solo l'associazione dei ricavi. 
+-   **Essere registrati nel Microsoft Partner Network**e avere un contratto MPN attivo. Per registrarsi nella Microsoft Partner Network, visitare il sito del partner. 
+-   **Essere un Microsoft Dynamics Software Advisor certificato** con un contratto Microsoft Dynamics Certified Software Advisor (CSA). 
+-   Immettere **le informazioni sulla banca e le imposte** nel centro per i partner. 
+-   **Soddisfare i requisiti di certificazione e ricavi di osa sell idoneità**. Per informazioni dettagliate, vedere la guida alla vendita di OSA, disponibile nella sezione OSA in aka.ms/partnerincentives. Questa operazione non si applica solo agli ISV che cercano l'associazione dei ricavi. 
 
-## <a name="submitting-your-claim"></a>Invio della richiesta di rimborso
+## <a name="submitting-your-claim"></a>Invio dell'attestazione
 
-Hai 90 giorni dalla data della transazione per inviare la richiesta di rimborso. Se si invia la richiesta di rimborso più di 90 giorni dopo una transazione, non verrà ottenuto l'incentivo per vendere di vendita. 
+Sono disponibili 90 giorni dalla data della transazione per inviare l'attestazione. Se si invia l'attestazione più di 90 giorni dopo una transazione, non si ottiene l'incentivo per la vendita. 
 
-Se sei un partner ISV e le soluzioni ha contribuito a influenzare al cliente di scegliere una soluzione Microsoft Dynamics 365, sei anche idoneo per la richiesta di associazione di ricavi.   
+Se sei un partner ISV e le tue soluzioni hanno contribuito a influenzare il cliente per la scelta di una soluzione Microsoft Dynamics 365, sei anche idoneo per rivendicare l'associazione dei ricavi.   
 
-## <a name="payment-schedule"></a>Pianificazione del pagamento
+## <a name="payment-schedule"></a>Pianificazione pagamenti
 
-Si riceverà il pagamento per le attestazioni incentivi approvata entro 45 giorni dopo la fine del periodo di ottenendo. Hai 90 giorni dopo la fine del periodo di ottenendo a controversia un pagamento. Per informazioni sui metodi e i calcoli di pagamento, vedere la Guida di origine della vendita OSA, che si trova sotto la sezione OSA aka.ms/partnerincentives.
+Si riceverà il pagamento per le attestazioni degli incentivi approvati entro 45 giorni dopo la fine del periodo di guadagno. Sono disponibili 90 giorni dopo la fine del periodo di guadagno per disputare un pagamento. Per informazioni sui calcoli e sui metodi di pagamento, vedere la guida alla vendita di OSA, disponibile nella sezione OSA in aka.ms/partnerincentives.
 
-## <a name="maintaining-your-program-eligibility"></a>Mantenere l'idoneità di programma
+## <a name="maintaining-your-program-eligibility"></a>Gestione dell'idoneità del programma
 
-Microsoft valuta l'idoneità mensile per gli Online Services Advisor vendere incentivi per l'acquisizione, calcolo e pagamento. È necessario soddisfare criteri specifici di idoneità prima che Microsoft può approvare e rilasciare i pagamenti di incentivi. Per informazioni dettagliate, vedere la Guida di origine della vendita OSA, che si trova sotto la sezione OSA aka.ms/partnerincentives.
+Microsoft valuta l'idoneità mensile per i servizi online Advisor per la vendita di incentivi per il guadagno, il calcolo e il pagamento. È necessario soddisfare criteri di idoneità specifici prima che Microsoft possa approvare e rilasciare i pagamenti degli incentivi. Per informazioni dettagliate, vedere la guida alla vendita di OSA, che si trova nella sezione OSA in aka.ms/partnerincentives.
 
-#<a name="submit-an-osa-sell-fee-claim"></a>Inviare un OSA vendere tariffa attestazione
+## <a name="submit-an-osa-sell-fee-claim"></a>Inviare un'attestazione di prezzo di vendita OSA
 
-Completare la procedura seguente per inviare un'attestazione incentivo in Partner Center.  
+Completare i passaggi seguenti per inviare un'attestazione Incentive nel centro per i partner.  
 
 >[!NOTE]
 
->Se la società ha più percorsi, assicurarsi di usare l'ID MPN per ufficio che si trova nella stessa area geografica del cliente. 
+>Se la società ha più sedi, assicurarsi di usare l'ID MPN per l'ufficio situato nella stessa area geografica del cliente. 
 
-1.  Nella pagina Panoramica, sotto **tutti i programmi incentivi**, selezionare **OSA**.
+1.  Nella pagina Overview, in **All Incentive programs**, selezionare **osa**.
 
-2.  Nella pagina OSA selezionare **attestazione...** , quindi selezionare **tariffa Incentive**.
+2.  Nella pagina OSA selezionare **Claim...** e quindi selezionare **Incentive Fee**.
 
-3.  Immettere il nome di dominio del cliente e l'ID di directory e quindi selezionare **continuazione**. 
+3.  Immettere il nome di dominio e l'ID directory del cliente, quindi selezionare **continua**. 
 
-4.  Selezionare il prodotto del cliente acquistato e quindi selezionare **continuazione**. 
+4.  Selezionare il prodotto acquistato dal cliente, quindi selezionare **continua**. 
 
-5.  Selezionare la sottoscrizione da associare a questa attestazione e quindi selezionare **continuazione**.
+5.  Selezionare la sottoscrizione che si vuole associare a questa attestazione, quindi selezionare **continue (continua**).
 
->[! NOTE SULLA]
+>[!NOTE]
 
->Verificare che il nome e l'area geografica siano corrette prima di selezionare una sottoscrizione. 
+>Verificare che sia il nome che l'area geografica siano corretti prima di selezionare una sottoscrizione. 
 
->Le sottoscrizioni che sono associate gli Advisor servizio online vengono contrassegnate con un triangolo giallo. È comunque possibile scegliere di associare a esse. 
+>Le sottoscrizioni associate ad altri Service Advisor online sono contrassegnate da un triangolo giallo. È comunque possibile scegliere di associarli. 
 
->Non sono possibile associare nuovamente le sottoscrizioni già associate con l'azienda.  
+>Non è possibile associare di nuovo le sottoscrizioni già associate alla società.  
 
-6.  Immettere le informazioni di contatto per il cliente e l'azienda, l'attestazione name e quindi selezionare **attestazione crea**. 
+6.  Immettere le informazioni di contatto per il cliente e la società, assegnare un nome all'attestazione, quindi selezionare **Crea attestazione**. 
 
-7.  Nella pagina della sottoscrizione, caricare la documentazione come prova dell'esecuzione (POE) per il **Proof of Execution** casella. È possibile usare il modello di POE o documenti POE dal processo di pre-vendito. 
+7.  Nella pagina sottoscrizione caricare la documentazione di prova di esecuzione (POE) nella casella **prova di esecuzione** . È possibile usare il modello POE o i documenti POE del processo di pre-vendita. 
 
-8.  Selezionare **attestazione Invia**.    
+8.  Selezionare **Invia attestazione**.    
 
-È possibile visualizzare lo stato dell'attestazione nella finestra di stato della pagina di sottoscrizione. Se sono necessarie altre informazioni, riceverà presenti anche.
+È possibile visualizzare lo stato dell'attestazione nella casella stato della pagina sottoscrizione. Se sono necessarie informazioni aggiuntive, si riceverà una notifica anche in questo caso.
 
-Per visualizzare i dati utili e pagamenti, vedere proventi e creazione di report. 
+Per visualizzare i dati relativi a guadagni e pagamenti, vedere pagamenti e report. 
  
-# <a name="submit-an-isv-revenue-association-claim"></a>Inviare un'attestazione di associazione dei ricavi di ISV
+## <a name="submit-an-isv-revenue-association-claim"></a>Inviare un'attestazione di associazione dei ricavi ISV
 
-1.  Nella pagina Panoramica, sotto **tutti i programmi incentivi**, selezionare **OSA**.
+1.  Nella pagina Overview, in **All Incentive programs**, selezionare **osa**.
 
-2.  Nella pagina OSA selezionare **attestazione...** , quindi selezionare **associazione ricavi ISV**.
+2.  Nella pagina OSA selezionare **Claim...** e quindi selezionare **ISV Revenue Association**.
 
-3.  Immettere il nome di dominio del cliente e l'ID di directory, selezionare i prodotti acquistato cliente e quindi selezionare **continuazione**. 
+3.  Immettere il nome di dominio e l'ID directory del cliente, selezionare il prodotto o i prodotti acquistati dal cliente, quindi selezionare **continua**. 
 
-4.  Selezionare le sottoscrizioni di cui si desidera associare a questa attestazione e quindi selezionare **continuazione**.
+4.  Selezionare le sottoscrizioni da associare a questa attestazione, quindi selezionare **continua**.
 
->[! NOTE SULLA]
+>[!NOTE]
 
->Verificare che il nome e l'area geografica siano corrette prima di selezionare una sottoscrizione. 
+>Verificare che sia il nome che l'area geografica siano corretti prima di selezionare una sottoscrizione. 
 
->Non sono possibile associare nuovamente le sottoscrizioni già associate con l'azienda.  
+>Non è possibile associare di nuovo le sottoscrizioni già associate alla società.  
 
-5.  Immettere le informazioni per il **nome del venditore di soluzione Dynamics**, **Customer name**, e **Name dell'ISV prodotto/soluzione**e quindi immettere un nome per l'attestazione. 
+5.  Immettere le informazioni per il **nome del venditore della soluzione Dynamics**, il **nome del cliente**e il **nome della soluzione o del prodotto ISV**, quindi immettere un nome per l'attestazione. 
 
-6.  Selezionare **attestazione crea**. 
+6.  Selezionare **Crea attestazione**. 
 
-È possibile visualizzare lo stato dell'attestazione nella finestra di stato della pagina di sottoscrizione. Se sono necessarie altre informazioni, riceverà presenti anche.
+È possibile visualizzare lo stato dell'attestazione nella casella stato della pagina sottoscrizione. Se sono necessarie informazioni aggiuntive, si riceverà una notifica anche in questo caso.

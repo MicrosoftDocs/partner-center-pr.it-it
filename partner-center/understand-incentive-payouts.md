@@ -1,153 +1,153 @@
 ---
-title: Visualizzare le informazioni relative a pagamenti incentivi | Centro per i partner
+title: Visualizzare le informazioni sui pagamenti per gli incentivi | Centro per i partner
 ms.topic: article
 ms.date: 06/03/2019
 description: Visualizzare gli utili e i proventi per i programmi di incentivi.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 15afa996f96d53e35a08806a6c1c6a0e67613c4b
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
-ms.translationtype: HT
+ms.openlocfilehash: 2a4d69fbe4f4618ebad1f8641f8d07e6563f28fd
+ms.sourcegitcommit: e73d8a1d74ed4ea87a5330b00fe119222bc2c3da
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67145384"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "71093057"
 ---
-# <a name="view-your-incentives-payments-information"></a>Visualizzare le informazioni relative a pagamenti incentivi
+# <a name="view-your-incentives-payments-information"></a>Visualizza le informazioni sui pagamenti per gli incentivi
 
 **Si applica a**
 
 -  Centro per i partner
 
-Utilizzare queste pagine per visualizzare i dettagli dei dati passati, in sospeso e dei prossimi pagamenti, nonché la cronologia completa delle transazioni. È anche possibile scaricare o esportare le informazioni dettagliate per tutte le transazioni. Tutte le pagine di incentivi per visualizzare gli importi in dollari americani. 
+Usare queste pagine per visualizzare i dettagli dei pagamenti precedenti, in sospeso e imminenti, oltre alla cronologia completa delle transazioni. È anche possibile scaricare o esportare informazioni dettagliate per qualsiasi transazione. Tutte le pagine di incentivi mostrano gli importi in dollari statunitensi. 
 
 >[!Note]
->Verranno visualizzati solo dati per gli ID MPN e programmi in cui è associato. Se si desidera accedere ai dati aggiuntivi, rivolgersi all'amministratore di incentivi. 
+>Verranno visualizzati solo i dati per i programmi e gli ID MPN a cui si è associati. Per accedere a dati aggiuntivi, vedere l'amministratore di incentivi. 
 
 
-## <a name="access-the-incentives-pages"></a>Accedere alle pagine di incentivi
-Per aprire una delle pagine incentivi:
-1. Selezionare il **denaro** icona nell'angolo superiore destro.
-2. Selezionare **pagamenti**, **cronologia delle transazioni**, o **Esporta dati**.
+## <a name="access-the-incentives-pages"></a>Accedi alle pagine degli incentivi
+Per aprire una delle pagine di incentivi:
+1. Selezionare l'icona **Money** nell'angolo superiore destro.
+2. Selezionare **pagamenti**, **Cronologia transazioni**o **Esporta dati**.
 
-## <a name="payments-page"></a>Pagina dei pagamenti
-I totali in questa pagina rappresentano tutti gli ID MPN è utilizzare. È possibile filtrare per ID partecipante, programma, ID di pagamento ed Earning tipo. Quantità sono espressi in dollari americani. Il valore a pagamento viene visualizzato anche nella con pagamento su currency. 
+## <a name="payments-page"></a>Pagina pagamenti
+I totali in questa pagina rappresentano tutti gli ID MPN usati. È possibile filtrare in base all'ID partecipante, al programma, all'ID di pagamento e al tipo di guadagno. Gli importi vengono specificati in dollari statunitensi. Il valore a pagamento viene inoltre visualizzato con pagamento in valuta. 
 
 |**Area**   |**Descrizione**    |
 |------------------|:-------------------------------------|
-|Totale pagato quest'anno        |Il totale combinato pagati all'utente in dollari americani, quest'anno per tutti i tuoi ID MPN.                                      |
-|Prossimo pagamento stimato      |Il prossimo pagamento organizzative a singolo (anche se sono presenti altri utenti sarà presto disponibile), in dollari americani.                                     |
-|Ultimo pagamento           |La quantità (in dollari americani), nome del programma e ID MPN del pagamento più recente.                                      |
-|Pagamenti da origine       |Quantità di pagamenti, in dollari americani, rappresentato dal programma negli ultimi 12 mesi.                                      |
-|Pagamenti                       |Selezionare **Paid** oppure **in sospeso** ed eseguire l'ordinamento nel modo desiderato. Per selezionare altri dettagli di un pagamento specifico **vista**. Per scaricare una copia dell'istruzione rimessa pagamento, selezionare **scaricare**. Si noti che i dati della cronologia delle transazioni potrebbero richiedere fino a 24 ore viene visualizzato, in modo non sarà possibile visualizzare immediatamente i profitti associati.  |
+|Totale a pagamento nell'anno corrente        |Il totale combinato pagato all'anno, in dollari USA, per tutti gli ID MPN.                                      |
+|Successivo pagamento stimato      |Il singolo pagamento successivo (anche se ne saranno presto disponibili altri), in dollari statunitensi.                                     |
+|Ultimo pagamento           |La quantità (in dollari USA), il nome del programma e l'ID MPN del pagamento più recente.                                      |
+|Pagamenti per origine       |Quantità di pagamenti, in dollari statunitensi, rappresentati dal programma negli ultimi 12 mesi.                                      |
+|Pagamenti                       |Selezionare a **pagamento** o **in sospeso** e quindi ordinare come si desidera. Per ulteriori informazioni su una specifica **visualizzazione**di selezione dei pagamenti. Per scaricare una copia dell'istruzione di rimessa pagamento, selezionare **Scarica**. Si noti che i dati della cronologia delle transazioni possono richiedere fino a 24 ore prima di essere visualizzati, quindi è possibile che non vengano visualizzati immediatamente gli utili associati.  |
 
-Per esportare i dati in questa pagina, selezionare **esportare** e quindi seguire istruzioni nella pagina di dati di esportazione. 
+Per esportare i dati in questa pagina, selezionare **Esporta** e seguire le istruzioni nella pagina Esporta dati. 
 
-## <a name="transaction-history-page"></a>Pagina della cronologia delle transazioni
-Questa pagina consente di visualizzare tutti i singoli earnings, inclusa la data di tipo e a guadagnare per ognuno. È possibile selezionare un periodo di tempo per visualizzare ed è anche possibile filtrare per ID di registrazione, programma, ID di pagamento, tipo Earning, levetta e stato. I dati sono disponibili per l'anno fiscale corrente (1 luglio-30 giugno) e di due anni fiscali precedenti. 
+## <a name="transaction-history-page"></a>Pagina Cronologia transazioni
+In questa pagina vengono visualizzati tutti i singoli guadagni, tra cui la data, il tipo e i guadagni per ciascuno di essi. È possibile selezionare un periodo di tempo da visualizzare ed è anche possibile filtrare in base all'ID di registrazione, al programma, all'ID di pagamento, al tipo di guadagno, alla leva e allo stato. I dati sono disponibili per l'anno fiscale corrente (1 luglio-30 giugno) e i due anni fiscali precedenti. 
 
-Per visualizzare altri dettagli su un ricavo, selezionare la freccia verso il basso sul lato destro della pagina. Verrà visualizzata la levetta, importo dei ricavi, prodotto e cliente. Se per qualche ragione uno qualsiasi di questi dati non sono disponibili, ma è necessario ad accedervi, contattare il supporto tecnico. Se l'acquisizione di è il risultato di un intervento di regolazione e non è una transazione, i campi di prodotto e cliente non essere visualizzati. 
+Per visualizzare altri dettagli su un guadagno, selezionare la freccia rivolta verso il basso sul lato destro della pagina. Verrà visualizzata la levetta, l'importo dei ricavi, il prodotto e il cliente. Se per qualche motivo uno di questi dati non è disponibile, ma è necessario accedervi, contattare il supporto tecnico. Se il guadagno è il risultato di una modifica e non di una transazione, i campi prodotto e cliente non verranno visualizzati. 
 
-Per esportare i dati delle transazioni in questa pagina, selezionare **esportare** e quindi seguire istruzioni nella pagina di dati di esportazione. File esportati dalla pagina cronologia delle transazioni mostrano i dati in valuta della transazione, gli utili nella valuta transazione sia dollari statunitensi, e pagare il valore a pagamento nella valuta. 
+Per esportare i dati della transazione in questa pagina, selezionare **Esporta** , quindi seguire le istruzioni nella pagina Esporta dati. I file esportati dalla pagina Cronologia transazioni visualizzano i dati nella valuta delle transazioni, i guadagni nella valuta delle transazioni e negli Stati Uniti e il valore a pagamento in base al costo della valuta. 
 
 ## <a name="payment-status"></a>Stato del pagamento
 
-|**Quando si ottiene lo stato** |**motivo** |**Richiesta azione partner?**       |
+|**Ottenere lo stato** |**Motivo** |**È necessaria un'azione partner?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
-|Non elaborati        | L'acquisizione è idoneo per il pagamento. Rimane in questo stato per un periodo di raffreddamento come definito nella Guida per il programma per il programma di incentivi.       |No        |
-|Imminenti      |Ordine di pagamento generati in sospeso le revisioni interne necessarie prima che venga elaborato il pagamento.       |No       |
-|Fattura imposta in sospeso      |La fattura tax è incompleta o non valido.          |È necessario aggiornare la tua fattura tax prima che possono essere a pagamento         |
-|Rifiutata durante la revisione        |Il pagamento è stato rifiutato durante la revisione.          |Per altre informazioni, contattare il supporto tecnico Microsoft         |
-|Failed        |Il pagamento non è riuscita a causa di un errore di sistema di Microsoft.         |Per altre informazioni, contattare il supporto tecnico Microsoft         |
+|Non elaborati        | Il guadagno è idoneo per il pagamento. Rimane in questo stato per un periodo di raffreddamento come definito nella guida del programma per il programma incentive.       |No        |
+|Imminente      |Ordine di pagamento generato in attesa di revisioni interne prima dell'elaborazione del pagamento.       |No       |
+|Fattura IVA in sospeso      |La fattura dell'imposta è incompleta o non valida.          |Prima di poter pagare, è necessario aggiornare la fattura fiscale         |
+|Rifiutato durante la revisione        |Il pagamento è stato rifiutato durante la revisione.          |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
+|Failed        |Il pagamento non è riuscito a causa di un errore di sistema Microsoft.         |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
 |In progress     |Il pagamento è in corso.         |No         |
-|Pagamento corretto        |L'elaborazione del pagamento è in corso.          |No        |
-|Inviato        |Il pagamento è stato inviato la banca.          |No       |
-|Rielaborazione       |Il pagamento si è verificato un errore di sistema Microsoft ed è in corso di rielaborazione.           |No         |
-|Invertito        |Il pagamento è stato invertito dalla banca e verrà inviato nuovamente durante il successivo ciclo di pagamento.          |No        |
-|Fattura imposta rifiutata       |La fattura tax è stata rifiutata durante la revisione. Tutti i pagamenti in sospeso sarà in attesa fino a quando non è stata completata la revisione di fattura fiscali.          |Per altre informazioni, contattare il supporto tecnico Microsoft         |
-|Fattura imposta in fase di revisione        |Verrà esaminata la fattura di imposte. Il pagamento verrà rilasciato quando la fattura imposta è stata approvata.           |No        |
-|Rifiutato        |Il pagamento è stato rifiutato dalla banca.           |Per altre informazioni, contattare la banca.  |
+|Pagamento errato        |È in corso il recupero dei pagamenti.          |No        |
+|Inviati        |Il pagamento è stato inviato alla banca.          |No       |
+|Rielaborazione       |Il pagamento ha rilevato un errore di sistema Microsoft e viene rielaborato.           |No         |
+|Invertito        |Il pagamento è stato invertito dalla banca e verrà inviato di nuovo al successivo ciclo di pagamento.          |No        |
+|Fattura imposta rifiutata       |La fattura fiscale è stata rifiutata durante la revisione. Tutti i pagamenti in sospeso rimarranno in attesa fino al completamento della revisione della fattura fiscale.          |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
+|Fattura fiscale in Revisione        |È in corso la revisione della fattura fiscale. Il pagamento verrà rilasciato una volta che la fattura fiscale è stata approvata.           |No        |
+|Respinto        |Il pagamento è stato rifiutato dalla banca.           |Per informazioni dettagliate, contattare la banca.  |
 
-## <a name="export-data-page"></a>Pagina di dati di esportazione
+## <a name="export-data-page"></a>Pagina Esporta dati
 Seguire le istruzioni in questa pagina per esportare i dati desiderati. 
 
 **Note:**
--   Verranno visualizzati solo dati per gli ID MPN e programmi in cui è associato. Se si desidera accedere ai dati aggiuntivi, rivolgersi all'amministratore di incentivi. 
--   Quando si accede a questa pagina da entrambi i pagamenti o una pagina della cronologia delle transazioni, i filtri non estesa. È necessario eseguire il rollforward li nella pagina di dati di esportazione. 
--   La pagina di dati di esportazione non viene aggiornato in modo autonomo. Si potrebbe essere necessario aggiornare la pagina manualmente per visualizzare i dati più recenti. 
--   Il filtro può comportare un **non sono disponibili dati** errore. Probabilmente si tratterà aver lasciato il valore predefinito il periodo di tempo selezionato in tre mesi e quindi seleziona un ID di pagamento da una a guadagnare di fuori di tale periodo. Espandere il periodo di tempo e riprovare. 
+-   Verranno visualizzati solo i dati per i programmi e gli ID MPN a cui si è associati. Per accedere a dati aggiuntivi, vedere l'amministratore di incentivi. 
+-   La pagina Esporta dati non viene aggiornata autonomamente. Potrebbe essere necessario aggiornare la pagina manualmente per visualizzare i dati più recenti. 
+-   Il filtro potrebbe causare un errore di **Nessun dato disponibile** . Ciò significa probabilmente che è stato lasciato il periodo di tempo predefinito selezionato a tre mesi, quindi è stato selezionato un ID di pagamento da un guadagno che esula da tale periodo. Espandere il periodo di tempo e riprovare. 
 
 ## <a name="payment-download-export"></a>Esportazione di download di pagamento
-Questa opzione offre un download dei pagamenti è ricevuto in banca per una determinata applicazione, la tassa associata e ottenendo quantità aggregata.
+Questa opzione consente di scaricare i pagamenti ricevuti nella banca per un determinato programma, le imposte associate e la quantità aggregata di guadagni.
 
-|**Nome della colonna**   |**Descrizione**   |
+|**Nome colonna**   |**Descrizione**   |
 |------------------|:-------------------------------------|
-|participantID   |L'identità primaria del partner a guadagnare usufruisca del programma      |
-|participantIDType   |In genere MPN per programmi di incentivi e ID del venditore per i programmi di Store      |
-|participantName   |Nome del partner ottenendo      |
-|ProgramName   |Nome di programma di incentivi/store      |
-|guadagnati   |Quantità guadagnati nella valuta a pagamento per tale programma/participantID      |
-|earnedUSD   |Quantità guadagnati per l'ID / partecipante al programma, in dollari USA      |
-|withheldTax   |Importo imposte trattenute nella valuta del pagamento a per il programma/participantID      |
-|salesTax   |Quantità totale di IVA nella valuta del pagamento a per il programma/participantID      |
-|totalPayment   |Totale dei pagamenti in valuta locale esclusione ritenuta e includendo l'IVA (se applicabile) per il programma/participantID      |
-|currencyCode   |Pagare per codice valuta      |
-|paymentMethod   |Il metodo utilizzato per pagare il partner (bonifico elettronico, prendere nota di credito)      |
-|paymentID   |Identificatore univoco per il pagamento. Questo numero è in genere visibile nell'estratto conto bancario.      |
+|participantID   |L'identità principale del partner che si guadagna sotto il programma      |
+|participantIDType   |In genere MPN for Incentive programs e seller ID for Store Programs      |
+|operatore partecipante   |Nome del partner di guadagno      |
+|Nomeprogramma   |Nome programma incentive/Store      |
+|ottenute   |Importo guadagnato con pagamento in valuta per il programma/participantID      |
+|earnedUSD   |Importo guadagnato per il programma/ID partecipante, in USD      |
+|withheldTax   |Importo delle imposte in pagamento in valuta per il programma/participantID      |
+|SalesTax impostandola   |Importo totale delle imposte sulle vendite per il programma/participantID      |
+|totalPayment   |Pagamento totale in valuta locale, escluso l'imposta di ritenuta e inclusa l'imposta sulle vendite (se applicabile) per il programma/participantID      |
+|currencyCode   |Pagamento in base al codice di valuta      |
+|paymentMethod   |Metodo utilizzato per pagare il partner (Electronic Bank Transfer, nota di credito)      |
+|paymentID   |Identificatore univoco per il pagamento. Questo numero è in genere visibile nell'istruzione Bank.      |
 |paymentStatus   |Stato del pagamento      |
-|paymentStatusDescription   |Breve descrizione dello stato dei pagamenti      |
-|paymentDate   |Data pagamento è stato inviato da Microsoft      |
+|paymentStatusDescription   |Descrizione descrittiva dello stato dei pagamenti      |
+|DataPagamento   |Il pagamento della data è stato inviato da Microsoft      |
 
-## <a name="transaction-history-download-export"></a>Esportazione di download della cronologia delle transazioni
-Questa opzione offre un download di ogni elemento riga ottenendo visualizzato nella pagina della cronologia delle transazioni, tipo, data, importo di transazione associato, cliente, prodotto e altri dettagli transazionale applicabile per il programma di incentivi per l'acquisizione.
+## <a name="transaction-history-download-export"></a>Esportazione Download cronologia transazioni
+Questa opzione consente di scaricare ogni elemento della riga di acquisizione visualizzato nella pagina Cronologia transazioni, il tipo di dati, la data, il numero di transazioni associato, il cliente, il prodotto e altri dettagli transazionali applicabili al programma incentives.
 
-|**Nome della colonna**   |**Descrizione**   |
+|**Nome colonna**   |**Descrizione**   |
 |------------------|:-------------------------------------|
-|earningId   |Identificatore univoco per ogni a guadagnare   |
-|participantID   |L'identità primaria del partner a guadagnare usufruisca del programma   |
-|participantIDType   |In genere MPN per programmi di incentivi e ID del venditore per i programmi di Store   |
-|participantName   |Nome del partner ottenendo   |
-|partnerCountryCode   |Percorso o il paese del partner ottenendo   |
-|ProgramName   |Nome di programma di incentivi/store   |
-|valuta per la transazione   |Valuta in cui si è verificato l'originale delle transazioni del cliente   |
-|transactionDate   |Data della transazione. È utile per i programmi in cui molte transazioni contribuiscono a raggiungere uno.   |
-|transactionExchangeRate  |Tasso di cambio data utilizzato per mostrare la quantità USD corrispondente |
-|transactionAmount   |Quantità di transazioni nella valuta della transazione originale in base a quale guadagnare viene generato   |
-|transactionAmountUSD   |Importo in dollari della transazione   |
-|Leva   |Indica la regola business per l'acquisizione   |
-|earningRate   |Incentivo tariffa applicata per quantità di transazioni per generare un ricavo   |
-|quantity |Questo campo varia dal programma. Per programmi transazionali che indica fatturato quantity. |
-|earningType   |Indica se si tratta di una tariffa di sconto, coop, vendere, e così via.   |
-|earningAmount   |Quando si ottiene importo in valuta della transazione originale   |
-|earningAmountUSD   |Quando si ottiene importo in dollari USA   |
-|earningDate   |Data del a guadagnare   |
-|earningExchangeRate   |Tasso di cambio consente di visualizzare la quantità USD corrispondente   |
-|exchangeRateDate   |Tasso di cambio data utilizzato per calcolare EarningAmount USD   |
-|paymentId   |Identificatore univoco per il pagamento. Questo numero è in genere visibile nell'estratto conto bancario.   |
+|earningId   |Identificatore univoco per ogni guadagno   |
+|participantID   |L'identità principale del partner che si guadagna sotto il programma   |
+|participantIDType   |In genere MPN for Incentive programs e seller ID for Store Programs   |
+|operatore partecipante   |Nome del partner di guadagno   |
+|partnerCountryCode   |Località/paese del partner di guadagno   |
+|Nomeprogramma   |Nome programma incentive/Store   |
+|Transazione   |Valuta in cui si è verificata la transazione del cliente originale   |
+|transactionDate   |Data della transazione. Utile per i programmi in cui molte transazioni contribuiscono a un guadagno.   |
+|transactionExchangeRate  |Data del tasso di cambio utilizzata per visualizzare l'importo USD corrispondente |
+|transactionAmount   |Importo della transazione nella valuta di transazione originale in base al quale viene generato il guadagno   |
+|transactionAmountUSD   |Importo transazione in USD   |
+|transactionCountryCode   |Transazione acquistata/venduta al codice paese   |
+|leva   |Indica la regola business per il guadagno   |
+|earningRate   |Frequenza di incentivazione applicata alla quantità di transazioni per generare un guadagno   |
+|quantity |Questo campo varia a seconda del programma. Per i programmi transazionali indica una quantità fatturata. |
+|earningType   |Indica se si tratta di una tariffa, una riduzione, una Coop, una vendita e così via.   |
+|earningAmount   |Accumulo di quantità nella valuta di transazione originale   |
+|earningAmountUSD   |Guadagnare importo in USD   |
+|earningDate   |Data del guadagno   |
+|earningExchangeRate   |Tasso di cambio usato per visualizzare l'importo USD corrispondente   |
+|exchangeRateDate   |Data del tasso di cambio usato per calcolare EarningAmount USD   |
+|paymentId   |Identificatore univoco per il pagamento. Questo numero è in genere visibile nell'istruzione Bank.   |
 |paymentStatus   |Stato del pagamento   |
-|paymentStatusDescription   |Breve descrizione dello stato dei pagamenti   |
+|paymentStatusDescription   |Descrizione descrittiva dello stato dei pagamenti   |
 |customerId   |Identificatore del cliente   |
-|customerName   |Nome del cliente delle transazioni   |
+|customerName   |Nome del cliente della transazione   |
 
 
-Oltre alla tabella precedente, saranno disponibili come applicabili per il programma di questi campi di cronologia delle transazioni.
+Oltre alla tabella precedente, questi campi relativi alla cronologia delle transazioni saranno disponibili in modo applicabile per il programma.
 
-|**Nome della colonna**   |**Descrizione**   |
+|**Nome colonna**   |**Descrizione**   |
 |------------------|:-------------------------------------|
-|partNumber   |Numero di parte collegata alla transazione. Terminologia di Microsoft.   |
-|productName   |Nome della famiglia di prodotti allineata a transazione   |
+|NumeroArticolo   |Numero di parte collegato alla transazione. Terminologia Microsoft.   |
+|productName   |Il nome della famiglia di prodotti è stato riprodotto a transazione   |
 |invoiceNumber   |Numero fattura   |
-|subscriptionId   |Identificatore della sottoscrizione associati al cliente   |
+|subscriptionId   |Identificatore di sottoscrizione associato al cliente   |
 |subscriptionStartDate   |Data di inizio della sottoscrizione   |
 |subscriptionEndDate   |Data di fine sottoscrizione   |
-|offerId   |TBD   |
-|resellerId   |Identificatore del rivenditore   |
+|Idofferta   |TBD   |
+|resellerId   |Identificatore rivenditore   |
 |resellerName   |Nome rivenditore   |
-|distributorId   |Identificatore del server di distribuzione   |
+|distributorId   |Identificatore del database di distribuzione   |
 |distributorName   |Nome del server di distribuzione   |
-|AgreementNumber   |Numero contratto   |
+|agreementNumber   |Numero contratto   |
 |agreementStartDate   |Data di inizio contratto   |
 |agreementEndDate   |Data di fine contratto   |
-|carico di lavoro   |Carico di lavoro   |
+|Carico   |Carico di lavoro   |
   
 

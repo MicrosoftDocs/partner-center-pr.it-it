@@ -7,18 +7,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: medium
-ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259922"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921471"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Passaggio dal Partner Membership Center al Centro per i partner
 
 Stiamo semplificando il modo di collaborare con Microsoft, introducendo un unico sito Web (Centro per i partner) che fungerà da punto di interazione centrale. Nel dashboard del Centro per i partner potrai svolgere tutte le attività in precedenza disponibili nel Partner Membership Center (PMC) 
 
-e molte altre, senza mai lasciare il sito. Alcuni termini e funzionalità possono tuttavia avere un aspetto diverso. Per ridurre le difficoltà iniziali sul significato e la posizione delle funzionalità, esplora il sito del dashboard.
+e molte altre, senza mai lasciare il sito. Alcuni termini e funzionalità possono tuttavia avere un aspetto diverso. Per attenuare eventuali problemi iniziali relativi a dove e quali elementi sono, assicurarsi di visitare il sito del dashboard.
 
 Questa tabella illustra alcune delle differenze tra Partner Membership Center e Centro per i partner.
 
@@ -34,7 +34,7 @@ Questa tabella illustra alcune delle differenze tra Partner Membership Center e 
 |----------------------|:-----------------------------|
 |Sedi centrali e ubicazioni, valutati separatamente. Valutazione delle competenze eseguita a livello locale|Una società globale, l'account globale del partner (PGA), incluse le ubicazioni, valutato nel suo complesso; dati sulle prestazioni e sulle competenze aggregati a livello di PGA; include diverse visualizzazioni profilo per i programmi quali Profilo partner e Profilo aziendale per le segnalazioni e il marketing. Per altre informazioni, vedi [Struttura degli account nel Centro per i partner](https://docs.microsoft.com/partner-center/account-structure.md)|
 
-## <a name="sign-in"></a>Accedere
+## <a name="sign-in"></a>Accesso
 
 |**PMC**   |**Centro per i partner**|
 |----------------------|:-----------------------------|
@@ -79,7 +79,7 @@ Questa tabella illustra alcune delle differenze tra Partner Membership Center e 
 |----------------------|:-----------------------------|
 |PDD  |Vantaggi|
 |CHIP, ICP, PIE | Incentivi|
-||Segnalazioni|
+||Riferimenti|
 |Informazioni dettagliate sui partner| Analisi|
 |Strumento per la convalida e il riscatto dei voucher| Strumento per la convalida e il riscatto dei voucher|
 |           |Programmi Cloud Solution Provider|

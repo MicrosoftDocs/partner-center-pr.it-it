@@ -1,71 +1,71 @@
 ---
-title: Assicurarsi che sono accreditato ritenuta | Centro per i partner
+title: Assicurarsi di aver ricevuto il credito per le imposte ritenute | Centro per i partner
 ms.topic: article
 ms.date: 05/28/2019
-description: È necessario sia ritenuta form carta di credito e il certificato ritenuta per aprire una richiesta di servizio.
+description: Per aprire una richiesta di servizio è necessario che sia presente il modulo di credito per le imposte ritenute e il certificato di imposta di ritenuta.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
-keywords: credito ritenute, crediti di imposte, modulo carta di credito tedesco, credito di modulo d'imposta
+keywords: trattenuto crediti fiscali, crediti fiscali, modulo di credito fiscale tedesco, credito fiscale modulo
 ms.localizationpriority: medium
-ms.openlocfilehash: ace9d1cca5db0a6aba83a0eb9856374b39d56b62
-ms.sourcegitcommit: f55f9389bc1feacb1a3acc1725ab5edabadf090a
-ms.translationtype: HT
+ms.openlocfilehash: e386bc2eda01cef16173569f4b5288c4bba2d02a
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67207572"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921469"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assicurarsi che sono accreditato ritenuta
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assicurarsi di avere il credito per le imposte ritenute
 
 >[!Note]
->Questo argomento illustra come aprire una richiesta di servizio usando il modulo ritenuta o ritenuta globale per la Germania.
+>In questo argomento viene illustrato come aprire una richiesta di servizio utilizzando il modulo dell'imposta di ritenuta globale o il modulo di imposta di ritenuta per la Germania.
 
-Affinché l'account verrà attribuito ritenuta, è necessario completare il modulo di carta di credito ritenuta. Il form fornisce Microsoft con fattura, importo pagato a Microsoft, Importo ritenute, ritenuta percentuale, il tipo di pagamento e la società che è stata pagata se diverso da Microsoft.  
+Per fare in modo che l'account venga accreditato per le ritenute fiscali, è necessario completare il modulo di credito per le imposte ritenute. Il modulo fornisce a Microsoft la fattura, la quantità pagata a Microsoft, l'imposizione di imposte, il rifiuto della percentuale di imposte, il tipo di pagamento e la società pagata se non è Microsoft.  
 
-## <a name="global-withholding-tax-credit-form"></a>Formato di carta di credito ritenuta globale
+## <a name="global-withholding-tax-credit-form"></a>Modulo di credito per le imposte ritenute globali
 
-Compilare questo [form](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) completamente e includerlo con la copia digitale del certificato ritenuta che è stato ricevuto dall'agenzia IVA locale quando si invia la richiesta nel centro per i Partner.
+Compilare questo [modulo](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) completamente e includerlo insieme alla copia digitale del certificato fiscale di ritenuta ricevuto dall'agenzia fiscale locale quando si invia la richiesta nel centro per i partner.
 >[!IMPORTANT]
->Il totale nel certificato ritenuta deve corrispondere i dettagli sotto forma di carta di credito ritenuta supportati. L'account verrà non accreditato a meno che non si riceverà questo modulo con la copia digitale del certificato ritenuta.
+>Il totale nel certificato di imposta di ritenuta deve corrispondere ai dettagli di supporto nel modulo di credito per le imposte ritenute. L'account non verrà accreditato a meno che non venga ricevuto questo modulo insieme alla copia digitale del certificato di ritenuta delle imposte.
 
 ### <a name="before-opening-the-service-request"></a>Prima di aprire la richiesta di servizio:
 
-- Verificare che il modulo include il nome della società e il paese e il form viene firmato e datato in modo accurato. Di seguito sono i moduli di carta di credito imposte: Per la [Germania](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) e [tutti gli altri paesi](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
+- Verificare che il modulo includa il nome e il paese della società, il numero del certificato fiscale di ritenuta e che il modulo sia firmato e aggiornato accuratamente. Ecco i moduli di credito fiscale: per la [Germania](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) e per [tutti gli altri paesi](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
 
-- Registrare in modo accurato la % di quantità ritenute appropriate sulla base di informazioni autorità IVA locale.
+- Registrare accuratamente la percentuale di imposte ritenute corrette in base alle informazioni sull'autorità fiscale locale.
 
-- Assicurarsi che la quantità totale nel form di carta di credito di imposta corrisponde i totali delle fatture che sta per essere inviato. 
+- Assicurarsi che la quantità totale nel modulo di credito fiscale corrisponda ai totali delle fatture inviate. 
 
-- Una volta è ready questa informazioni, creare la richiesta del servizio.
+- Quando queste informazioni sono pronte, creare la richiesta di servizio.
 
-## <a name="cloud-solution-provider-partners"></a>Partner cloud Solution Provider
+## <a name="cloud-solution-provider-partners"></a>Partner Cloud Solution Provider
 
 >[!Note]
->Queste informazioni sono per solo i provider indiretti e i partner di fatturazione diretta. I rivenditori indiretti dovrebbero funzionare attraverso i provider indiretti.
+>Queste informazioni sono destinate solo ai partner Direct fattura e ai provider indiretti. I rivenditori indiretti dovrebbero funzionare attraverso i provider indiretti.
 
-### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>Come inviare il modulo carta di credito e i certificati
+### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>Come inviare il modulo di credito fiscale e i certificati
 
-1. Selezionare il **punto interrogativo** **(?)**  nel uppor destra del dashboard nel centro per i Partner.
-2. Selezionare **richieste di supporto Partner**.
-3. Selezionare **nuova richiesta** e quindi in **dettagli**, selezionare **Guida in linea con i file di fatturazione, pagamento o riconciliazione di Partner.**
-4. Quando si invia la richiesta di servizio assicurarsi di collegare il modulo d'imposta carta di credito e copie digitale dei certificati imposte.
-5. Se si invia un certificato IVA lingua diversa dall'inglese tramite una richiesta di servizio in lingua inglese, è necessaria una traduzione del certificato IVA.
+1. Selezionare il **punto interrogativo** **(?)** nell'angolo uppor destro del dashboard nel centro per i partner.
+2. Selezionare **le richieste di supporto partner**.
+3. Selezionare **nuova richiesta** e quindi in **Dettagli**Selezionare **la guida con la fattura del partner, il pagamento o il file di riconciliazione.**
+4. Quando si invia la richiesta di servizio, assicurarsi di alleghi il modulo di credito fiscale e le copie digitali dei certificati fiscali.
+5. Se si invia un certificato fiscale non in lingua inglese tramite una richiesta di servizio in lingua inglese, è necessaria una traduzione del certificato fiscale.
 6. Ti contatteremo direttamente tramite posta elettronica o telefono.
 
-Usando il **-il pagamento con fattura pagamento** metodo, una volta certificati fiscali vengono ricevuti e convalidati correttamente, il saldo rimanente per la tua fattura verrà cancellato tra circa una settimana. 
+Con il metodo di **pagamento con fatturazione** , dopo la ricezione e la convalida dei certificati fiscali, il saldo rimanente per la fattura verrà cancellato entro circa una settimana. 
 
-I certificati tax devono essere per solo le fatture di Microsoft. Se si dispone di altre società che includono i certificati, specificare la quantità in modo che è possibile escludere la quantità nell'elaborazione interna, ma comunque visibilità completa su ciò che includono i certificati totali. 
+I certificati fiscali devono essere solo per le fatture Microsoft. Se si dispone di altre società incluse nei certificati, specificare la quantità in modo da escludere l'importo nell'elaborazione interna, ma avere comunque la visibilità completa sui certificati totali inclusi. 
 
-## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>Istruzioni per completare il modulo di carta di credito ritenuta per la Germania
+## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>Istruzioni per completare il modulo di credito per le imposte ritenute per la Germania
 
-Compilare il [formato di carta di credito ritenuta](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) completamente e inviarla insieme la copia digitalizzata del certificato ritenuta dopo l'invio della richiesta nel centro per i Partner o il portale di Azure/Office 365/CRM/Intune. 
+Compilare completamente il [modulo di credito per le imposte ritenute](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) e inviarlo insieme alla copia digitalizzata del certificato di imposte di ritenuta dopo l'invio della richiesta in centro per i partner o nel portale di Azure/O365/CRM/Intune. 
 
-Inoltre, invia le copie cartacee dei certificati ritenuta da:
+Inoltre, inviare il copie cartacee dei certificati di imposte di ritenuta a:
 
-ATTN: EOC Tax Team Marianne Gannon
+All'attenzione: il team delle imposte EDC Marianne Gannon
 
-Microsoft EMEA Operations Centre
+Microsoft EMEA Operations Center
 
-Un'unica posizione di Microsoft, meridionale County Business Park
+Una sede Microsoft, South County Business Park
 
-Leopardstown, Dublino 18, Irlanda
+Leopardstown, Dublin 18, Irlanda

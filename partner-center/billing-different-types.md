@@ -1,19 +1,19 @@
 ---
 title: Informazioni sui tipi di fatturazione nel Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 10/04/2019
 Description: Informazioni sui diversi tipi di fatturazione, sui periodi di fatturazione e sulle date di fatturazione
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione, pagamenti, ordini, file di riconciliazione
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38ad28fb74968d351d6031e21446f02d22f7e4fa
-ms.sourcegitcommit: ba0b0eea3dbc028ec162f58b841ba9e3588f1dca
-ms.translationtype: HT
+ms.openlocfilehash: 28a5405a033061e5665d0f1e5f937cd3951f09b9
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "70134616"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997841"
 ---
 # <a name="understanding-the-types-of-billing-in-partner-center"></a>Informazioni sui tipi di fatturazione nel Centro per i partner
 
@@ -59,7 +59,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito**  |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |1                 |$ 4            |Nuovo         |
+|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |1                 |$ 4            |Nuova         |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |1        | $ -4       |addQuantity           |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        | 2      |$ 8         |addQuantity           |
 
@@ -74,7 +74,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito**  |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019 (una licenza)     |10/6/2019   |9/7/2019         |$ 4         |1        |$ 4            |Nuovo         |
+|11/6/2019 (una licenza)     |10/6/2019   |9/7/2019         |$ 4         |1        |$ 4            |Nuova         |
 |12/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |1        | $ -3,87       |addQuantity           |
 |12/6/2019     | 10/6/2019    |9/7/2019        |$ 4        | 2      |$ 7,74       |addQuantity           |
 
@@ -89,7 +89,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito**  |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |2                 |$ 8            |Nuovo         |
+|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |2                 |$ 8            |Nuova         |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |2        | $ -8       |removeQuantity           |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        | 1      |$ 4         |removeQuantity           |
 
@@ -104,7 +104,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito**  |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019 (due licenze)     |10/6/2019   |9/7/2019         |$ 4         |2        |$ 8       |Nuovo       |
+|11/6/2019 (due licenze)     |10/6/2019   |9/7/2019         |$ 4         |2        |$ 8       |Nuova       |
 |12/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |2        | $ -7,74       |removeQuantity           |
 |12/6/2019 (una licenza)    | 10/6/2019    |9/7/2019   |$ 4    |1      |$ 3,87    |removeQuantity |
 
@@ -119,7 +119,7 @@ I file di riconciliazione includeranno quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito**  |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|10/6/2019 (una licenza)      |10/6/2019   |9/7/2019         |$ 0                |1                 |$ 0            |Nuovo         |
+|10/6/2019 (una licenza)      |10/6/2019   |9/7/2019         |$ 0                |1                 |$ 0            |Nuova         |
 |10/7/2019 (una licenza)     | 10/7/2019    |9/8/2019        |$ 2        |1        | $ 2       |renew           |
 
 ### <a name="scenario-6--cancel-a-license-based-free-trial-saas-subscription"></a>Scenario 6: annullare una sottoscrizione SaaS di una versione di valutazione gratuita basata su licenza
@@ -134,7 +134,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito**  |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|10/6/2019 (11 licenze)      |10/6/2019   |9/7/2019         |$ 0                |11                |$ 0            |Nuovo         |
+|10/6/2019 (11 licenze)      |10/6/2019   |9/7/2019         |$ 0                |11                |$ 0            |Nuova         |
 |10/6/2019 (0 licenze)     | 10/6/2019    |9/7/2019        |$ 0        |11       | $ 0       |annulla           |
 
 ### <a name="scenario-7--convert-a-custom-meter-saas-subscription-from-one-sku-to-another-for-the-same-product-on-the-same-day"></a>Scenario 7: convertire una sottoscrizione SaaS a consumo personalizzata da uno SKU a un altro per lo stesso prodotto nello stesso giorno
@@ -148,9 +148,9 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**SKU**   |**Inizio addebito**   |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
-|10/6/2019 (una licenza) |Silver     |10/6/2019   |10/6/2019         |$ 20        |1         |$ 20            |Nuovo      |
-|10/6/2019 (una licenza) |Silver    | 10/6/2019    |10/6/2019        |$ 20        |1       | $ -20       |Convert           |
-|10/6/2019 (una licenza) |Bronze    | 10/6/2019    |10/6/2019        |$ 10        |1       | $ 10       |Convert           |
+|10/6/2019 (una licenza) |Silver     |10/6/2019   |10/6/2019         |$ 20        |1         |$ 20            |Nuova      |
+|10/6/2019 (una licenza) |Silver    | 10/6/2019    |10/6/2019        |$ 20        |1       | $ -20       |Convertire           |
+|10/6/2019 (una licenza) |Bronze    | 10/6/2019    |10/6/2019        |$ 10        |1       | $ 10       |Convertire           |
 
 ### <a name="scenario-8--purchase-and-cancel-a-custom-meter-saas-subscription-from-the-azure-portal-on-the-same-day"></a>Scenario 8: acquistare e annullare nello stesso giorno dal portale di Azure una sottoscrizione SaaS a consumo personalizzata 
 
@@ -158,5 +158,25 @@ In questo scenario acquisti nel portale di Azure una sottoscrizione SaaS a consu
 
 |**Data di acquisto**   |**SKU**   |**Inizio addebito**   |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
-|10/6/2019 (una licenza) |Bronze     |10/6/2019   |10/6/2019         |$ 10        |1         |$ 10            |Nuovo      |
+|10/6/2019 (una licenza) |Bronze     |10/6/2019   |10/6/2019         |$ 10        |1         |$ 10            |Nuova      |
 |6/10/2019 (0 licenze) |Bronze    | 10/6/2019    |10/6/2019        |$ 10        |1       | $ -10       |CancelImmediate  |
+
+## <a name="billing-under-the-azure-plan"></a>Fatturazione in base al piano di Azure
+
+- **Data di fatturazione**: la fattura e il file di riconciliazione saranno disponibili nel dashboard/API del centro per i partner per l'ottava (mezzanotte UTC).
+
+- **Periodo di fatturazione fattura**: il periodo di fatturazione della fattura è allineato al mese di calendario, ad esempio 10/1-10/31, 11/1-11/30.
+
+- **Periodi di servizio di addebito**: i costi si allineano al mese di calendario. Se, ad esempio, il partner fatturato aggiunge i servizi di Azure tramite un piano di Azure su 10/15 e il cliente inizia a usare i servizi di Azure su 10/15, il partner fatturato riceverà la fattura/ricognizione in 11/8 per l'utilizzo da parte del cliente per il periodo di servizio 10/15-10/31. La fattura del mese successivo che verrà generata il 12/8 contiene tutti gli addebiti per il periodo di servizio 11/1-11/31.
+
+- **Termine pagamento fattura**: NET 60 giorni.
+
+- **Valuta fattura**: i partner continueranno a essere fatturati nella valuta assegnata country's del cliente. Se, ad esempio, il partner fatturato è in Irlanda con i clienti del Regno Unito, della Norvegia e della Germania, il partner fatturato riceverà un GBP, un NOK e una fattura/ricognizione EUR.
+
+- **Incentivi**per i Partner: 45 giorni a pagamento a partire dalla fine del mese di fatturazione.
+
+Per informazioni sul piano Azure, vedere:
+
+- [Piano di Azure-Panoramica](azure-plan-get-started.md)
+
+- [Piano di Azure-fatturazione](azure-plan-billing.md)

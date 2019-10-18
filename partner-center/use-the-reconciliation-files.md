@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fae84790aa84b3c5a006d65a632668a33ac24a7
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
+ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820562"
+ms.lasthandoff: 10/03/2019
+ms.locfileid: "71931573"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -33,9 +33,9 @@ Occasionalmente il file di ricognizione potrebbe avere problemi di formattazione
 
 <li>Nella procedura guidata Converti testo in colonne selezionare <strong>tipo di file delimitato</strong>e quindi fare clic su <strong>Avanti</strong>.</li> 
 
-<li>Nel campo delimitatori selezionare virgola. Se la <strong>scheda</strong> è già selezionata, è possibile lasciarla invariata. Selezionare <strong>Avanti</strong>.</li>
+<li>Nel campo delimitatori selezionare <strong>virgola</strong>. Se la <strong>scheda</strong> è già selezionata, è possibile lasciarla invariata. Seleziona <strong>Avanti</strong>.</li>
 
-<li>Nel campo formato dati colonna selezionare <strong>Data: MDY</strong>, quindi selezionare <strong>Avanti</strong>.</li> 
+<li>Nel campo formato dati colonna selezionare <strong>Data: MDY</strong>, quindi fare clic su <strong>Avanti</strong>.</li> 
 
 <li>Nel campo formato dati colonna selezionare <strong>testo</strong> per tutte le colonne importo, quindi fare clic su <strong>fine</strong>.</li>
 </ol>
@@ -69,7 +69,7 @@ I partner nel modello indiretto possono usare questi campi aggiuntivi sia nei fi
 <td>ID MPN rivenditore</td>
 <td><p>Viene visualizzato solo nei file di riconciliazione per i partner nel modello indiretto.</p>
 <p>ID MPN del rivenditore nel record per la sottoscrizione. Corrisponde all'ID rivenditore elencato per la sottoscrizione specifica nel Centro per i partner.</p>
-<p>eTo visualizzare o aggiornare il rivenditore, dal menu centro per i partner selezionare Customers, quindi scegliere il cliente dall'elenco. Nel menu del cliente seleziona <strong>Sottoscrizioni</strong> e quindi scegli la sottoscrizione nell'elenco. Seleziona <strong>Aggiorna</strong> per modificare il valore <strong>Rivenditore (ID MPN)</strong>.</p>
+<p>eTo visualizzare o aggiornare il rivenditore, dal menu centro per i partner selezionare <strong>Customers</strong>, quindi scegliere il cliente dall'elenco. Nel menu del cliente seleziona <strong>Sottoscrizioni</strong> e quindi scegli la sottoscrizione nell'elenco. Seleziona <strong>Aggiorna</strong> per modificare il valore <strong>Rivenditore (ID MPN)</strong>.</p>
 <p>Se un partner CSP ha venduto la sottoscrizione direttamente al cliente, il relativo ID MPN è elencato due volte, sia come ID MPN che come ID MPN del rivenditore.</p>
 <p>Se per un partner CSP è presente un rivenditore senza ID MPN, il valore viene impostato sull'ID MPN del partner.</p>
 <p>Se il partner CSP rimuove un ID rivenditore, il valore verrà impostato su -1.</p></td>
@@ -126,13 +126,13 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 <tr class="odd">
 <td>OfferID</td>
 <td><p>ID univoco dell'offerta. ID dell'offerta standard in base al listino prezzi.</p>
-<p><b>Nota</b>: Questo valore non corrisponde all'ID offerta nell'elenco prezzi. Vedi DurableOfferID di seguito.</p></td>
+<p><b>Nota</b>: questo valore non corrisponde all'ID dell'offerta dal listino prezzi. Vedi DurableOfferID di seguito.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
 <td><p>ID dell'offerta durevole univoco, come definito nel listino prezzi.</p>
-<p><b>Nota</b>: Questo valore corrisponde all'ID offerta dall'elenco prezzi.</p></td>
+<p><b>Nota</b>: questo valore corrisponde all'ID offerta dal listino prezzi.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,7 +148,7 @@ Per riconciliare i tuoi addebiti rispetto agli ordini dei clienti, confronta la 
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>Data di fine della sottoscrizione: 12 mesi + x giorni dopo la data di inizio (per allinearla alla data di fatturazione del partner) o 12 mesi dalla data di rinnovo.</p>
+<td><p>Data di fine della sottoscrizione: 12 mesi + x giorni dopo la data di inizio (per allineare con la data di fatturazione del partner) o 12 mesi dalla data di rinnovo.</p>
 <p>In fase di rinnovo, i prezzi vengono aggiornati rispetto al listino prezzi corrente. È possibile che venga richiesta una comunicazione con il cliente prima del rinnovo automatico.</p>
 <p>L'ora indicata è sempre l'inizio della giornata, le 0:00.</p></td>
 <td>2/1/2015 0:00</td>
@@ -352,7 +352,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="even">
-<td>Nome risorsa</td>
+<td>Resource Name</td>
 <td><p>Nome della risorsa Azure.</p></td>
 <td><ul>
 <li>Data Transfer In (GB)</li>
@@ -360,7 +360,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Region</td>
+<td>Area geografica</td>
 <td><p>Area geografica a cui si applica l'uso. Usata principalmente per assegnare le tariffe ai trasferimenti di dati, che variano in base all'area geografica.</p></td>
 <td>Asia Pacifico, Europa, America Latina, America del Nord</td>
 </tr>
@@ -457,14 +457,14 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td>EXTERNAL</td>
 </tr>
 <tr class="even">
-<td>Progetto</td>
+<td>Project</td>
 <td><p>Nome definito dal cliente per l'istanza del servizio</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>Numero di connessioni ServiceBus di cui è stato eseguito il provisioning e usate in un determinato giorno.</p></td>
-<td>Ad esempio, con una connessione fornita a livello singolo per un periodo di un mese di 30 giorni, Service Info 1 è "1.000000 Connections / 30 days". Se è stato eseguito il provisioning di 25 pacchetti di bus di bus e si è usato 1 durante tale giorno, l'istruzione di utilizzo giornaliero per quel giorno indicherà "25 connessioni/30 giorni – usato: 1,000000 ".</td>
+<td>Ad esempio, con una connessione fornita a livello singolo per un periodo di un mese di 30 giorni, Service Info 1 è "1.000000 Connections / 30 days". Se hai un pacchetto da 25 connessioni ServiceBus e ne hai utilizzata 1 per quel giorno, l'uso giornaliero registrato sarà "25 Connections / 30 Days – Used: 1.000000".</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -477,7 +477,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
-<td>Unità</td>
+<td>Unit</td>
 <td><p>Nome dell'unità della risorsa</p></td>
 <td>GB o ORE</td>
 </tr>
@@ -493,12 +493,11 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </colgroup>
 <thead>
 <tr class="header">
-<th>Colonna</th>
+<th>Column</th>
 <th>Descrizione</th>
 </tr>
 </thead>
 <tbody>
-
 
 <tr class="odd">
 <td>PartnerId</td>
@@ -511,7 +510,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 
 <tr class="odd">
-<td>Nome del cliente</td>
+<td>Nome cliente</td>
 <td><p>Nome dell'organizzazione del cliente registrato nel Centro per i partner.</p></td>
 </tr>
 
@@ -571,7 +570,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 
 <tr class="odd">
-<td>Nome prodotto</td>
+<td>Nome del prodotto</td>
 <td><p>Nome del prodotto.</p></td>
 </tr>
 
@@ -664,6 +663,12 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td>AlternateID</td>
 <td><p>Identificatore alternativo a un ID dell'ordine.</p></td>
 </tr>
+
+<tr class="even">
+<td>BillingFrequency</td>
+<td><p> Visualizza mensilmente quando è abilitata la fatturazione mensile. Altrimenti vuoto. </p></td>
+</tr>
+
 </tbody>
 </table>
 
@@ -678,7 +683,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </colgroup>
 <thead>
 <tr class="header">
-<th>Colonna</th>
+<th>Column</th>
 <th>Descrizione</th>
 </tr>
 </thead>
@@ -815,7 +820,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 
 <tr class="odd">
-<td>Unità</td>
+<td>Unit</td>
 <td><p>Unità del nome della risorsa.</p></td>
 </tr>
 
@@ -836,7 +841,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 
 <tr class="even">
-<td>URI della risorsa</td>
+<td>URI risorsa</td>
 <td><p>URI della risorsa in uso.</p></td>
 </tr>
 
@@ -1168,7 +1173,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 </td>
 <td>
 <p><em>Può essere applicato a più tipi di addebito</em></p>
-<p><em>Eccezione: &quot;Offset una voce&quot; include già le imposte. Vedere crediti, sopra.</em></p>
+<p><em>Eccezione: &quot;Offset una voce &quot; include già le imposte. Vedere crediti, sopra.</em></p>
 </td>
 <td>
 <p>Imposte o imposte sul valore aggiunto (IVA)</p>

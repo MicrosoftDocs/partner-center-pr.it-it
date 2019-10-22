@@ -1,19 +1,19 @@
 ---
 title: Gestire l'account per il Centro per i partner | Centro partner
 ms.topic: article
-ms.date: 03/15/2019
-description: Gestisci profilo della propria organizzazione, banca e le informazioni fiscali e gli utenti nel centro per i Partner.
+ms.date: 09/25/2019
+description: Gestire le informazioni fiscali e bancarie, gli utenti e il profilo dell'organizzazione nel Centro per i partner.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
 ms.author: evansma
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: e08328258964509a7d01a4e4624d01025cc8449e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: e2e4e4e3d0fb7d88d748c57abe7a5a5161ea640a
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134241"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318626"
 ---
 # <a name="manage-your-partner-center-account"></a>Gestisci il tuo account per il Centro per i partner
 
@@ -21,24 +21,24 @@ ms.locfileid: "62134241"
 
 -  Centro per i partner
 
-L'account creato dall'utente nel centro per i Partner durante la registrazione è la posta elettronica aziendale oltre a informazioni aziendali. Dopo aver creato un account nel centro per i Partner, è o l'amministratore dovrà completare la configurazione di profilo completo dell'azienda inclusi dettagli sul supporto, esenzione file se appropriato e informazioni di contatto primarie. 
+L'account che crei nel Centro per i partner quando esegui la registrazione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account nel Centro per i partner, è necessario che tu o il tuo amministratore terminiate la configurazione del profilo completo della società, inclusi i dettagli sul supporto, le eventuali esenzioni fiscali e le informazioni del contatto principale. 
 
-Si o all'amministratore verrà inoltre creare account utente per tutti gli utenti che usano il centro per i Partner per l'aggiunta o la gestione dei clienti, vendere le sottoscrizioni, utilizzo di fatturazione e la fatturazione, la creazione di profili di business, la gestione dei riferimenti, utilizzo di incentivi programmi e fornire supporto.
+Tu o il tuo amministratore dovrete inoltre creare account utente per tutti gli utenti che useranno il Centro per i partner per l'aggiunta o la gestione dei clienti, la vendita di abbonamenti, la gestione della fatturazione, la creazione dei profili aziendali, la gestione delle segnalazioni, l'uso di programmi di incentivi e i servizi di supporto.
 
 >[!NOTE]
->Le impostazioni dell'account si trova in alto a destra del centro per i Partner. Quando selezioni l'icona, sarai in grado di selezionare quello che vuoi gestire. Ad esempio, seleziona l'**icona Impostazioni**, quindi seleziona **Gestione utenti**. Questo consente di passare alla pagina Gestione utenti e visualizzare anche un riquadro aggiuntivo che include tutte le opzioni **Impostazioni account**.
+>Le impostazioni per gli account si trovano nell'angolo in alto a destra del Centro per i partner. Quando selezioni l'icona, sarai in grado di selezionare quello che vuoi gestire. Ad esempio, seleziona l'**icona Account** e quindi **Gestione utenti**. In questo modo passerai alla pagina Gestione utenti e visualizzerai anche un riquadro aggiuntivo che include tutte le opzioni di **Impostazioni account**.
 
 
-## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Risorse che ti consentono di gestire l'account del Centro per i partner
+## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Risorse per la gestione dell'account del Centro per i partner
 
-|**Per eseguire questa operazione**   |**Leggere questo**   |
+|**Per eseguire questa operazione**   |**Leggi**   |
 |-----------------------|:-----------------------|
-|Essere certo che il profilo della società sia aggiornato   |[Aggiornare il profilo di partner](update-your-partner-profile.md)|
-|Tutti gli utenti della società che ha necessità di utilizzare il centro per i Partner devono essere assegnati i ruoli. Ogni ruolo ha autorizzazioni specifiche e attività disponibili.|[Aggiornare gli account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md)|
-|Verificare le autorizzazioni che ogni ruolo comporta|[Assegnare autorizzazioni e ruoli utente](permissions-overview.md)
-|Gestisci percorsi dell'azienda|[Gestire il proprio account partner: Percorsi](manage-locations.md)
-|Se un dipendente dimentica la password ed è necessario ripristinarla  |[Reimpostare una password utente](reset-a-user-password.md)|
-|Essere certo di commercializzare la tua azienda in modo che i clienti possono trovarla   |[Crea un profilo di business](create-a-marketing-profile.md)|
+|Verificare che il profilo della società sia aggiornato   |[Aggiornare il profilo di partner](update-your-partner-profile.md)|
+|A tutti gli utenti dell'azienda che devono lavorare nel Centro per i partner devono essere assegnati ruoli. Ogni ruolo dispone di autorizzazioni specifiche e attività disponibili.|[Aggiornare gli account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md)|
+|Esaminare le autorizzazioni associate a ogni ruolo|[Assegnare autorizzazioni e ruoli utente](permissions-overview.md)
+|Gestire le ubicazioni della società|[Gestire l'account partner: ubicazioni](manage-locations.md)
+|Se un dipendente dimentica la password e devi ripristinarla  |[Reimpostare una password utente](reset-a-user-password.md)|
+|Essere certo che la tua azienda sia sul mercato in modo che i clienti possono trovarla   |[Crea un profilo di business](create-a-marketing-profile.md)|
 |Organizzare il catalogo in modo che i prodotti più importanti siano all'inizio dell'elenco   |[Personalizza il catalogo](customize-the-catalog.md)|
 |Rimanere aggiornato sui prezzi e sulle offerte correnti   |[Prezzi e offerte](pricing-and-offers.md)|
 

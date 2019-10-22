@@ -1,18 +1,18 @@
 ---
 title: Domande frequenti sui requisiti di sicurezza per i partner | Centro per i partner
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/27/2019
 description: Domande frequenti sui requisiti di sicurezza per i partner
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
-ms.localizationpriority: medium
-ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
+ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215662"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "71678298"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Domande frequenti sui requisiti di sicurezza per i partner
 
@@ -145,6 +145,9 @@ Microsoft offre l'autenticazione MFA gratuitamente tramite l'implementazione dei
 ### <a name="if-i-already-have-an-mfa-solution-what-actions-do-i-need-to-take"></a>Se si dispone già di una soluzione MFA, quali azioni è necessario eseguire?
 
 Attraverso questi requisiti di sicurezza, agli utenti inclusi nel tenant di un partner sarà richiesto di eseguire l'autenticazione MFA quando accedono ai servizi cloud commerciali Microsoft. Per soddisfare questi requisiti, è possibile usare anche una soluzione di terze parti. Microsoft non fornisce più test di convalida ai provider di identità indipendenti per la compatibilità con Azure Active Directory. Se si vuole testare l'interoperabilità di un prodotto, consultare le [linee guida](https://www.microsoft.com/download/details.aspx?id=56843).
+
+> [!IMPORTANT]
+> Se usi una soluzione di terze parti, è importante verificare che rilasci l'attestazione con il riferimento al metodo di autenticazione (Authentication Method Reference, AMR) contenente il valore MFA. Per informazioni dettagliate su come verificare che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza per i partner](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements).
 
 ### <a name="what-verification-method-can-i-use-to-authenticate-mfa"></a>Quale metodo di verifica è possibile usare per eseguire l'autenticazione MFA?
 
@@ -314,6 +317,18 @@ L'autenticazione solo tramite app non è interessata perché le credenziali uten
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>I fornitori di pannelli di controllo possono sfruttare il metodo di autenticazione solo tramite app per ottenere i token di accesso?
 
 No, i partner fornitori di pannelli di controllo non possono usare il metodo di autenticazione solo tramite app per richiedere token di accesso per conto del partner. Devono invece implementare il modello di applicazione sicura, che usa il metodo di autenticazione app + utente.
+
+## <a name="enforcement"></a>Imposizione
+
+### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>Uso una soluzione MFA di terze parti e vengo bloccato. Cosa devo fare?
+
+Per verificare che l'account che accede alle risorse venga testato per l'autenticazione a più fattori, viene controllata l'attestazione [Authentication Method Reference](https://tools.ietf.org/html/rfc8176) per verificare che sia elencata l'autenticazione MFA. Alcune soluzioni di terze parti non rilasciano questa attestazione o non includono il valore MFA. Se l'attestazione non è presente o il valore MFA non è elencato, non esiste alcun modo per determinare se l'account autenticato è stato testato per l'autenticazione a più fattori. Dovrai collaborare con il fornitore della soluzione di terze parti per determinare quali azioni eseguire affinché la soluzione rilasci l'attestazione Authentication Method Reference.
+
+Se non sei certo che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza per i partner](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0).
+
+### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA mi impedisce di supportare i miei clienti usando Amministra per conto terzi. Come posso procedere?
+
+L'applicazione tecnica dei requisiti di sicurezza per i partner verificherà se l'account autenticato è stato testato per l'autenticazione a più fattori. Se l'account non è stato sottoposto a questa verifica, verrai reindirizzato alla pagina di accesso e ti verrà chiesto di eseguire di nuovo l'autenticazione. Se il tuo dominio non è federato, dopo l'autenticazione ti verrà chiesto di configurare l'autenticazione a più fattori. Al termine, potrai gestire i clienti usando Amministra per conto terzi. Se invece il tuo dominio è federato, dovrai assicurarti che l'account venga testato per l'autenticazione a più fattori.
 
 ## <a name="key-resources"></a>Risorse principali
 

@@ -1,18 +1,18 @@
 ---
 title: Requisiti di sicurezza per i partner | Centro per i partner
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/25/2019
 description: Informazioni sui requisiti di sicurezza per advisor e partner che partecipano al programma Cloud Solution Provider.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
-ms.localizationpriority: medium
-ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: ea155cf760850def85146d8c4e7e847fab5d7213
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215648"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318483"
 ---
 # <a name="partner-security-requirements"></a>Requisiti di sicurezza per i partner
 
@@ -136,15 +136,15 @@ Per il criterio di base *Richiedere l'autenticazione a più fattori per gli ammi
 
 Se si abilita il criterio Richiedere l'autenticazione a più fattori per gli amministratori, i 9 ruoli di amministratore precedenti dovranno eseguire la registrazione all'autenticazione a più fattori usando l'app Authenticator. Al termine della registrazione all'autenticazione a più fattori, gli amministratori dovranno eseguire l'autenticazione a più fattori ogni volta che accedono.
 
-Se l'organizzazione dispone di questi account in uso negli script o nel codice, è consigliabile sostituirli con  [identità gestite](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
+Se l'organizzazione dispone di questi account in uso negli script o nel codice, è consigliabile sostituirli con [identità gestite](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
 
 Per abilitare questo criterio e proteggere gli amministratori:
 
-1. Accedere al  **portale di Azure** come amministratore globale, amministratore della protezione o amministratore dell'accesso condizionale. 
+1. Accedi al **portale di Azure** come amministratore globale, amministratore della protezione o amministratore accesso condizionale.
 2. Passare a **Accesso condizionale** di  > **Azure Active Directory**.
 3. Nell'elenco dei criteri selezionare **Criteri di base: Richiedere l'autenticazione a più fattori per gli amministratori**.
 4. Impostare **Abilita criterio** su **Usa i criteri immediatamente**.
-5. Fare  **clic** su Salva.
+5. Fare clic su **Save**.
 
 > [!WARNING]
 > Prima di abilitare questo criterio, verificare che gli utenti non usino protocolli di autenticazione legacy. Tramite l'implementazione di questo criterio, l'autenticazione legacy verrà bloccata.
@@ -160,11 +160,11 @@ Il criterio di **Criteri di base: protezione dell'utente finale** è preconfigur
 
 Per abilitare questo criterio e proteggere gli utenti:
 
-1. Accedere al  **portale di Azure** come amministratore globale, amministratore della protezione o amministratore dell'accesso condizionale. 
+1. Accedi al **portale di Azure** come amministratore globale, amministratore della protezione o amministratore accesso condizionale.
 2. Passare a **Accesso condizionale** di  > **Azure Active Directory**.
 3. Nell'elenco dei criteri selezionare **Criteri di base: protezione dell'utente finale (anteprima)** .
 4. Impostare **Abilita criterio** su **Usa i criteri immediatamente**.
-5. Fare  **clic** su Salva.
+5. Fare clic su **Save**.
 
 > [!WARNING]
 > Prima di abilitare questo criterio, verificare che gli utenti non usino protocolli di autenticazione legacy. Tramite l'implementazione di questo criterio, l'autenticazione legacy verrà bloccata.

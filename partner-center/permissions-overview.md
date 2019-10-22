@@ -1,135 +1,134 @@
 ---
 title: Assegnare autorizzazioni e ruoli utente | Centro per i partner
 ms.topic: article
-ms.date: 3/5/2019
-description: A tutti i dipendenti che devono lavorare nel centro per i partner deve essere assegnato un ruolo.
+ms.date: 10/10/2019
+description: A tutti i dipendenti che hanno bisogno di usare il Centro per i partner deve essere assegnato un ruolo.
 author: LauraBrenner
 ms.author: labrenne
 keywords: ruoli, autorizzazioni, amministratore, agente
-ms.localizationpriority: medium
-ms.openlocfilehash: 744ce84c47d3adaf21d8f7b790001737d6489cdb
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.localizationpriority: high
+ms.openlocfilehash: 0bbc9af84b8a1464f255c17147fdc10a7504eb43
+ms.sourcegitcommit: 1ccc27092949deb6f6404e64fd6a628fd7b5fd5c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708861"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "72276098"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Assegnare autorizzazioni e ruoli utente
 
 
-Il profilo partner è stato configurato, inclusi nome e indirizzo validi, informazioni di supporto, esenzioni fiscali per i file, informazioni bancarie e il contatto principale per l'azienda. Passaggio successivo: configurare gli utenti con password e ruoli in modo che possano iniziare a lavorare nel centro per i partner.
+Ormai hai configurato il tuo profilo di partner, inclusi la ragione sociale e l'indirizzo, i dettagli per il supporto, le esenzioni fiscali, le coordinate bancarie e il contatto principale della tua azienda. Come passaggio successivo, devi configurare gli utenti assegnando loro password e ruoli in modo che possano iniziare a lavorare con te nel Centro per i partner.
 
-## <a name="set-up-your-employees-to-work-in-partner-center"></a>Configurare i dipendenti per lavorare nel centro per i partner
+## <a name="set-up-your-employees-to-work-in-partner-center"></a>Configurare i dipendenti in modo che possano lavorare nel Centro per i partner
 
-Si determinano i tipi di accesso che gli utenti devono avere al centro per i partner mediante i ruoli e le autorizzazioni che si forniscono. I ruoli sono correlati ai programmi interessati dall'azienda. Se, ad esempio, l'azienda è un'azienda di Cloud Solution Provider (CSP), non solo i ruoli di gestione dei tenant di Azure AD standard, ad esempio l'amministratore globale, ma dovranno avere ruoli specifici per il programma CSP. Ogni programma dispone di ruoli specifici.
+Puoi determinare i tipi di accesso al Centro per i partner di cui dispongono gli utenti assegnando loro ruoli e autorizzazioni specifici. I ruoli sono correlati ai programmi in cui è coinvolta la tua azienda. Ad esempio, se si tratta di un'azienda CSP (Cloud Solution Provider), non solo avrai i ruoli di gestione del tenant di Azure AD standard (tra cui il ruolo di amministratore globale), ma avrai bisogno anche di ruoli specifici del programma CSP. Ogni programma prevede ruoli specifici.
 
 >[!Note]
-> I ruoli tenant di Azure Active Directory (AAD) includono amministratore globale, amministratore utente e ruoli CSP. I ruoli non AAD sono i ruoli che non gestiscono il tenant e includono l'amministratore MPN, l'amministratore del profilo di business, l'amministratore del riferimento, l'amministratore di incentivi e l'utente di incentivi. 
+> I ruoli relativi al tenant di Azure Active Directory (AAD) includono l'amministratore globale, l'amministratore utenti e i ruoli CSP. I ruoli non AAD sono i ruoli che non gestiscono il tenant e includono l'amministratore MPN, l'amministratore del profilo di business, l'amministratore delle segnalazioni, l'amministratore degli incentivi e l'utente di incentivi. 
 
-### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gestire le transazioni commerciali nel centro per i partner (ruoli Azure AD e CSP)
+### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gestire le transazioni commerciali nel Centro per i partner (ruoli Azure AD e CSP)
 
-|**Ruolo**|**Cosa è possibile fare**|
+|**Ruolo**|**Operazioni consentite**|
 |----------------------------------|:---------------------------------|
-|Amministratore globale|• Può accedere a tutti i account Microsoft/servizi con privilegi completi
-|      |• Creare ticket di supporto per il centro per i partner
-||• Visualizzare contratti, elenchi prezzi e offerte
-||• Visualizzare, creare e gestire gli utenti partner|
-||  Visualizzare, creare e gestire la fatturazione, le fatture e i file di ricognizione
-|Amministratore gestione utenti   | • Visualizzare, creare e gestire gli utenti
-||• Visualizza tutti i profili partner
-||• Visualizzare, creare e gestire gli utenti partner  |
-|Amministratore fatturazione | -Visualizzare, creare e gestire la fatturazione, le fatture e i file di ricognizione|
-|Utente predefinito|  Visualizza profilo personale   |
-|Agente amministratore | • Gestione clienti
-||• Aggiungere un elenco di dispositivi al centro per i partner
-||• Creare e applicare profili ai dispositivi
-||• Gestione delle sottoscrizioni
-||• Richieste di assistenza e integrità dei servizi per i clienti
-||• Richiedere privilegi di amministratore delegato
-||• Visualizza prezzi e offerte
+|Amministratore globale|• Accesso a tutti gli account/servizi Microsoft con privilegi completi
+|      |• Creazione di ticket di supporto per il Centro per i partner
+||• Visualizzazione di contratti, listini prezzi e offerte
+||• Visualizzazione, creazione e gestione di utenti partner|
+||  Visualizzazione, creazione e gestione della fatturazione, delle fatture e dei file di riconciliazione
+|Amministratore gestione utenti   | • Visualizzazione, creazione e gestione di utenti
+||• Visualizzazione di tutti i profili dei partner
+||• Visualizzazione, creazione e gestione di utenti partner  |
+|Amministratore fatturazione | - Visualizzazione, creazione e gestione della fatturazione, delle fatture e dei file di riconciliazione|
+|Utente predefinito|  Visualizzazione del profilo personale   |
+|Agente amministratore | • Gestione dei clienti
+||• Aggiunta dell'elenco dei dispositivi al Centro per i partner
+||• Creazione e applicazione di profili ai dispositivi
+||• Gestione degli abbonamenti
+||• Integrità del servizio e richieste di servizio per i clienti
+||• Richiesta dei privilegi di amministrazione delegati
+||• Visualizzazione di prezzi e offerte
 ||• Fatturazione
 ||• Amministrazione per conto di un cliente
-||• Registrare un valore aggiunto rivenditore|
-|Agente di vendita | • Gestione clienti
-||• Aggiungere un elenco di dispositivi al centro per i partner
-||• Gestione delle sottoscrizioni
-||• Visualizza elenchi prezzi e offerte
-||• Visualizzare i ticket di supporto
-||• Richiedere una relazione con un cliente
-||• Gestisci lead cliente
-||• Visualizzare il contratto del cliente
-||• Registrare un rivenditore con valore aggiunto|
-|Agente help desk| • Cercare e visualizzare un cliente
-||• Modificare i dettagli del cliente
-||• Risolvere i problemi del cliente con la fatturazione o la gestione delle sottoscrizioni
-||• Richiedere supporto per conto dei clienti (Nota: Per completare questa attività per le sottoscrizioni di Office 365, è necessario essere un agente di amministrazione
-||• Gestire le sottoscrizioni e i problemi di fatturazione per conto dei clienti (Nota: Per completare questa attività per le sottoscrizioni di Office 365, è necessario essere un agente di amministrazione|
+||• Registrazione di un rivenditore a valore aggiunto|
+|Agente di vendita | • Gestione dei clienti
+||• Aggiunta dell'elenco dei dispositivi al Centro per i partner
+||• Gestione degli abbonamenti
+||• Visualizzazione dei ticket di supporto
+||• Richiesta di una relazione con un cliente
+||• Gestione dei clienti potenziali
+||• Visualizzazione del contratto per il cliente
+||• Registrazione di un rivenditore a valore aggiunto|
+|Agente help desk| • Ricerca e visualizzazione di un cliente
+||• Modifica dei dettagli dei clienti
+||• Supporto per la risoluzione dei problemi dei clienti con la gestione di fatturazioni o abbonamenti
+||• Richiesta di supporto per conto dei clienti (Nota: per svolgere questa attività per gli abbonamenti a Office 365, è necessario essere un agente amministratore)
+||• Gestione di abbonamenti e problemi di fatturazione per conto dei clienti (Nota: per svolgere questa attività per gli abbonamenti a Office 365, è necessario essere un agente amministratore)|
 
-### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Pannello di controllo Fornitore (CPV). (Ruolo CSP e ruolo non AAD)
-CPVs sviluppa le app per l'uso da partner Cloud Solution Provider (CSP) per consentire loro di integrare i propri sistemi con le API del centro per i partner. 
+### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Fornitore del pannello di controllo (CPV) (ruolo CSP e ruolo non AAD)
+I CPV sviluppano app destinate ai partner CSP (Cloud Solution Provider) affinché possano integrare i loro sistemi con le API del Centro per i partner. 
 
-|**Ruolo**   |**Operazioni possibili**|
+|**Ruolo**   |**Operazioni consentite**|
 |------------------------------|:----------------------------|
-|Amministratore globale| Visualizzare e gestire il profilo CPV|
-||Visualizzare e gestire gli utenti che devono accedere alle funzionalità CPV|
+|Amministratore globale| Visualizzazione e gestione del profilo dei fornitori di pannelli di controllo|
+||Visualizzazione e gestione degli utenti che devono accedere alle funzionalità dei fornitori di pannelli di controllo|
 
-### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Utente Guest (deve essere aggiunto al tenant di AAD)
+### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Utente guest (deve essere aggiunto al tenant di AAD)
 
-|**Utente Guest**   | **Ruoli**|
+|**Utente guest**   | **Ruoli**|
 |---------------------------|:--------------------|
 ||Amministratore dei partner MPN|
 ||Amministratore degli account|
-||Amministratore di incentivi|
-||Amministratore profilo di lavoro|
-||Amministratore riferimenti|
+||Amministratore degli incentivi|
+||Amministratore del profilo di business|
+||Amministratore delle segnalazioni|
 
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Gestire l'appartenenza a MPN e la società (ruoli non AAD: questi ruoli gestiscono l'azienda anziché il tenant)
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Gestione dell'appartenenza a MPN e dell'azienda (ruoli non AAD: questi ruoli gestiscono l'attività dell'azienda anziché il tenant)
 
-|**Ruolo** | **Operazioni possibili**|
+|**Ruolo** | **Operazioni consentite**|
 |----------------------------|:----------------------------|
-|Amministratore dei partner MPN|• Visualizzare, creare e gestire le richieste di servizio partner||
-||• Visualizzare profili legali, aziendali, aziendali e MPN
-||• Visualizzare i dettagli dell'utente e i relativi dati di competenze
-||• Visualizzare le competenze
-||• Visualizzare e gestire i vantaggi
-||• Visualizzare e acquistare offerte MPN
-||• View MPN offre la cronologia degli ordini e le fatture
-||• Visualizzare i dati degli indicatori di contributo partner
-||• È possibile usare lo strumento di convalida del voucher|
-||-Visualizzare analisi dei dati del cliente
-|| Visualizza altri ruoli utente all'interno della società, ma non può assegnare ruoli
-|Amministratore account| Aggiungi percorsi
-|| Gestire i profili correlati agli account per i quali si è amministratori 
-||• Assegnare i ruoli per gli utenti nel tenant ai ruoli non AAD 
-||• Registrare i percorsi nei programmi
+|Amministratore dei partner MPN|• Visualizzazione, creazione e gestione delle richieste di servizio dei partner||
+||• Visualizzare di profili legali, aziendali, commerciali e MPN
+||• Visualizzazione dei dettagli dell'utente e i relativi dati delle competenze
+||• Visualizzazione delle competenze
+||• Visualizzazione e gestione dei vantaggi
+||• Visualizzazione e acquisto di offerte MPN
+||• Visualizzazione di fatture e cronologia degli ordini di offerte MPN
+||• Visualizzazione dei dati degli indicatori di contributi dei partner
+||• Uso dello strumento di convalida dei giustificativi|
+||- Visualizzazione dell'analisi dei dati dei clienti
+|| Visualizzazione di altri ruoli utente all'interno dell'azienda, senza la possibilità di assegnare ruoli
+|Amministratore degli account| Aggiunta di posizioni
+|| Gestione di profili relativi agli account amministrati 
+||• Assegnazione di ruoli per gli utenti nel tenant a ruoli non AAD 
+||• Registrazione di posizioni nei programmi
 
 
-## <a name="manage-referrals"></a>Gestisci riferimenti 
+## <a name="manage-referrals"></a>Gestione delle segnalazioni 
 
-|**Ruolo**|**Operazioni possibili**|
+|**Ruolo**|**Operazioni consentite**|
 |-----------------------------|:------------------------|
-|Amministratore riferimenti       |• Visualizzare, creare e gestire i profili di business
-||• Ricevere e gestire i riferimenti
-||• Visualizzare, creare e gestire i riferimenti di co-selling|
-||• Visualizzare, creare e gestire le richieste di servizio partner
-|Amministratore profilo di lavoro   |• Visualizzare, creare e gestire il profilo di business 
-||• Visualizzare, creare e gestire le richieste di servizio partner|
+|Amministratore delle segnalazioni       |• Visualizzazione, creazione e gestione dei profili di business
+||• Ricezione e gestione delle segnalazioni
+||• Visualizzazione, creazione e gestione delle segnalazioni di co-selling|
+||• Visualizzazione, creazione e gestione delle richieste di servizio dei partner
+|Amministratore del profilo di business   |• Visualizzazione, creazione e gestione del profilo di business 
+||• Visualizzazione, creazione e gestione delle richieste di servizio dei partner|
 
-## <a name="manage-incentives"></a>Gestisci incentivi 
+## <a name="manage-incentives"></a>Gestione degli incentivi 
 
-|**Ruolo** | **Operazioni possibili**|
+|**Ruolo** | **Operazioni consentite**|
 |------------------------------|:-------------------------|
-|Amministratore di incentivi|• Avvia e gestisce gli incentivi 
-||• Consente di visualizzare e modificare tutti gli aspetti dei programmi per gli incentivi
-||• Consente di visualizzare e modificare le informazioni fiscali e bancarie
-||• Visualizzare i guadagni di sconto e co-op
-||• Supporto per l'accesso
-||• Pagamenti di incentivi per controversie|
-|Utente di incentivi|• Può visualizzare i programmi per gli incentivi
-||• Può visualizzare e avviare attestazioni per gli incentivi
-||• Visualizzare i guadagni di sconto e co-op
-||• Supporto per l'accesso
+|Amministratore degli incentivi|• Avvio e gestione di incentivi 
+||• Visualizzazione e modifica di tutti gli aspetti dei programmi di incentivi
+||• Visualizzazione e modifica dei dettagli bancari e fiscali
+||• Visualizzazione di sconti e utili in collaborazione
+||• Accesso al supporto
+||• Controversie sui pagamenti di incentivi|
+|Utente di incentivi|• Visualizzazione di programmi di incentivi
+||• Visualizzazione e avvio di attestazioni di incentivi
+||• Visualizzazione di sconti e utili in collaborazione
+||• Accesso al supporto
 
 
 

@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: trattenuto crediti fiscali, crediti fiscali, modulo di credito fiscale tedesco, credito fiscale modulo
 ms.localizationpriority: medium
-ms.openlocfilehash: e386bc2eda01cef16173569f4b5288c4bba2d02a
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
+ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921469"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "72892411"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assicurarsi di avere il credito per le imposte ritenute
 
@@ -46,15 +46,20 @@ Compilare questo [modulo](https://query.prod.cms.rt.microsoft.com/cms/api/am/bin
 ### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>Come inviare il modulo di credito fiscale e i certificati
 
 1. Selezionare il **punto interrogativo** **(?)** nell'angolo uppor destro del dashboard nel centro per i partner.
-2. Selezionare **le richieste di supporto partner**.
-3. Selezionare **nuova richiesta** e quindi in **Dettagli**Selezionare **la guida con la fattura del partner, il pagamento o il file di riconciliazione.**
+
+2. Selezionare **CSP**.
+
+3. In **CSP-fatturazione e pagamenti**selezionare il tipo di problema- **imposta sulla ritenuta** e selezionare **Sì**. 
+
 4. Quando si invia la richiesta di servizio, assicurarsi di alleghi il modulo di credito fiscale e le copie digitali dei certificati fiscali.
+
 5. Se si invia un certificato fiscale non in lingua inglese tramite una richiesta di servizio in lingua inglese, è necessaria una traduzione del certificato fiscale.
+
 6. Ti contatteremo direttamente tramite posta elettronica o telefono.
 
 Con il metodo di **pagamento con fatturazione** , dopo la ricezione e la convalida dei certificati fiscali, il saldo rimanente per la fattura verrà cancellato entro circa una settimana. 
 
-I certificati fiscali devono essere solo per le fatture Microsoft. Se si dispone di altre società incluse nei certificati, specificare la quantità in modo da escludere l'importo nell'elaborazione interna, ma avere comunque la visibilità completa sui certificati totali inclusi. 
+I certificati fiscali devono essere solo per le fatture Microsoft. Se nei certificati sono incluse altre società, specificare la quantità per poterla escludere nell'elaborazione interna, ma avere ancora la visibilità completa sui certificati totali inclusi. 
 
 ## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>Istruzioni per completare il modulo di credito per le imposte ritenute per la Germania
 

@@ -1,47 +1,36 @@
 ---
 title: Creare un account del Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 10/25/2019
 description: I membri del programma Microsoft Partner Network devono creare gli account del Centro per i partner per gestire i vantaggi e le competenze di rete e creare un profilo aziendale.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5144f6e303a4afeccc6ccf74e966d8beba41f947
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: 58dd482f3fe9e9b02159c2900bb2c857ee967540
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958749"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978763"
 ---
 # <a name="create-a-partner-center-account"></a>Creare un account nel Centro per i partner
 
-**Si applica a**
+**Ruoli appropriati**
 
--   Centro per i partner
--   Membri del programma Microsoft Partner Network
-
-
-Questo articolo spiega come creare un account nel Centro per i Partner ed è progettato per i partner che spostano le proprie informazioni relative all'iscrizione come membro alla rete di partner dal Partner Membership Center al Centro per i partner. 
+- Amministratore globale
+- Agente amministratore
 
 Prima di poter creare un account nel Centro per i partner o iscriversi a un programma per i partner, l'organizzazione deve essere un membro di Microsoft Partner Network. Se non si è un membro della rete, è possibile [iscriversi ora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [Altre informazioni](https://partner.microsoft.com/membership) sull'iscrizione come membro a Microsoft Partner Network. Dopo aver creato un account del Centro per i partner, guardare questo breve video [Discover your dashboard](https://vimeo.com/290338211) (Scoprire la dashboard).
-
-### <a name="some-next-steps"></a>Altri passaggi successivi
-
--   [Acquistare o rinnovare una sottoscrizione a Microsoft Action Pack](mpn-get-action-pack.md)
-
--   [Creare un profilo di business per ottenere lead di vendita da Microsoft](create-a-marketing-profile.md)
-
--   [Ottenere e gestire lead di vendita da Microsoft](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
 Per creare un account nel Centro per i partner occorrono le informazioni seguenti. Prima di iniziare, è consigliabile dedicare qualche minuto alla raccolta di questi elementi:
 
--   Posta elettronica dell'amministratore globale. Se non si è sicuri di quale sia l'account aziendale della propria società, vedere [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md).
+-   Posta elettronica dell'amministratore globale.
 
-    Se la società non dispone di un account aziendale, è possibile crearne uno durante il processo di registrazione. 
+-   Se non si è certi dell'account aziendale dell'azienda, vedere [l'account aziendale e il centro per i partner](azure-active-directory-tenants-and-partner-center.md) se la società non dispone di un account di lavoro, è possibile crearne una durante il processo di creazione dell'account. 
 
--   Ragione sociale dell'organizzazione, indirizzo e contatto principale. Queste informazioni sono necessarie per verificare che l'organizzazione abbia un profilo solido e che si disponga dell'autorizzazione ad agire per suo conto. 
+-   Nome e indirizzo aziendale legali della società.  
 
 -   Autorità per firmare i contratti legali. Assicurarsi di essere autorizzato a firmare contratti legali per conto dell'organizzazione, poiché questa operazione verrà richiesta durante il processo di registrazione.
 
@@ -53,11 +42,11 @@ Queste informazioni verranno verificate durante il processo di creazione dell'ac
 
 1.  Verificare le informazione nella pagina di **benvenuto** e quindi selezionare **Avanti**.
 
-2.  Accedere in qualità di amministratore globale all'account aziendale della società. Se non si è sicuri di quale sia l'account aziendale della propria società, vedere [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md).
+2.  Accedere in qualità di amministratore globale all'account aziendale della società. Se non si è certi dell'account aziendale dell'azienda, vedere [l'account aziendale e il centro per i partner](azure-active-directory-tenants-and-partner-center.md).
 
     Se la società dispone di un account di posta elettronica aziendale, selezionare **Accedi**. Nella pagina successiva, immettere le credenziali di amministratore globale per l'account aziendale della società. 
 
-    Se la società non dispone di un account aziendale, selezionare **Creane uno** per configurarne uno ora. Dopo aver creato un account aziendale, accedere usando le credenziali di amministratore globale per l'account appena creato.
+    Se la società non dispone di un account aziendale, selezionare **Creane uno** per configurarne uno ora. Dopo aver creato un account aziendale, accedere con le credenziali di amministratore globale per l'account di lavoro appena creato.
 
 3.  Fornire o aggiornare il profilo legale dell'organizzazione e le informazioni sul contatto principale, quindi selezionare **Registrati ora**. 
 
@@ -70,9 +59,9 @@ Queste informazioni verranno verificate durante il processo di creazione dell'ac
 
 5.  Verificare di essere stati aggiunti al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, è necessario disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attenersi alla procedura seguente:
 
-    a. Nel **Centro per i partner** selezionare l'icona **Impostazioni** e quindi selezionare **Gestione utenti**.  
+    a. Dal [Dashboard](https://partner.microsoft.com/en-us/dashboard/home**)del centro per i partner selezionare l'icona **delle impostazioni** e quindi selezionare **Gestione utenti**.  
 
-    b. Selezionare il nome nell'elenco degli utenti e quindi **Agente amministratore** se non già selezionato. Selezionare **Aggiorna**.  
+    b. Selezionare il nome nell'elenco degli utenti e quindi **Agente amministratore** se non già selezionato. Seleziona **Aggiorna**.  
 
 ## <a name="next-steps"></a>Passaggi successivi
 
@@ -85,3 +74,5 @@ Queste informazioni verranno verificate durante il processo di creazione dell'ac
 -   [Informazioni sui requisiti di competenza per l'iscrizione come membro Gold e Silver](https://partner.microsoft.com/membership/competencies)
 
 -   [Creare un profilo di business per ottenere lead di vendita da Microsoft](create-a-marketing-profile.md)
+
+-   [Ottenere e gestire lead di vendita da Microsoft](responding-to-referrals.md)

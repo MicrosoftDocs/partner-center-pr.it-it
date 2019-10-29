@@ -1,7 +1,7 @@
 ---
 title: Insoluti, frodi o uso improprio | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 10/25/2019
 description: Strategie per la gestione dei rischi delle transazioni online, compreso il mancato pagamento da parte del cliente per beni e servizi e l'attività fraudolenta o l'uso improprio.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: frode, uso improprio, uso accettabile, criteri di uso accettabile, mancato pagamento, il cliente non pagherà la fattura, rischio online, furto di servizio, abuso di servizio, sospensione di una sottoscrizione,
@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 12fa863cfecc2e0190e1bfeb842b608ffd3bbaf2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134271"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978730"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Insoluti, frodi o uso improprio
 
@@ -67,7 +67,7 @@ Queste raccomandazioni possono aiutare a sviluppare criteri e procedure che poss
 #### <a name="post-purchase-customer-account-management"></a>Gestione dell'account del cliente successiva all'acquisto
 - Collabora con i clienti per comprendere le esigenze aziendali relative all'utilizzo del cloud e imposta soglie di monitoraggio appropriate
     > [!NOTE]  
-    >  È possibile [impostare un budget di spesa mensile di Azure](set-an-azure-spending-budget-for-your-customers.md) nel centro per i Partner per monitorare l'utilizzo del cliente durante il mese e ricevere una notifica quando i clienti sono vicino al proprio budget.
+    >  Puoi [impostare un budget mensile per la spesa di Azure](set-an-azure-spending-budget-for-your-customers.md) nel centro per i partner per monitorare l'utilizzo dei clienti durante il mese e ricevere una notifica quando i clienti si avvicinano al budget.
 - Monitora i [log attività dei clienti](activity-logs.md) regolarmente per rilevare preventivamente eventuali frodi
 - Agisci rapidamente quando vengono rilevate attività sospette
 - Evita di offrire ai clienti pieno accesso amministrativo alle sottoscrizioni senza prima implementare i controlli di riduzione del rischio
@@ -83,7 +83,7 @@ Per strategie più dettagliate per l'attenuazione del rischio online, consulta l
 > [!IMPORTANT]  
 > Se Microsoft rileva attività di partner o clienti che violano o potrebbero violare i criteri di utilizzo, verranno adottate misure adeguate. Il cliente potrebbe essere sospeso immediatamente. In tal caso, riceverai una notifica indicante le azioni intraprese o informazioni sulla tua richiesta da parte di Microsoft.
 
- 
+ Per informazioni sulla sicurezza e l'autenticazione a più fattori, vedere [requisiti di sicurezza dei partner](partner-security-requirements.md)
 
  
 

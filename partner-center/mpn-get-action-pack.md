@@ -1,18 +1,18 @@
 ---
 title: Acquistare o rinnovare le offerte di vantaggi | Centro per i partner
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/25/2019
 description: Scopri come ottenere Microsoft Action Pack, se acquistando per la prima volta o rinnovando.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, abbonamento a Microsoft Action Pack, rinnovare l'abbonamento a Microsoft Action Pack, rinnovare action pack, ottenere action pack
 ms.localizationpriority: high
-ms.openlocfilehash: c4e1f58bd703c1809f1d315a8cc2d8c61fee8fa3
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318848"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978737"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Acquistare per la prima volta o rinnovare un abbonamento a Microsoft Action Pack oppure le competenze Silver o Gold
 
@@ -21,7 +21,7 @@ ms.locfileid: "71318848"
 -  Centro per i partner
 -  Partner Membership Center
 
-Ora, dal dashboard Centro per i partner, puoi acquistare o rinnovare le offerte di vantaggi desiderate, inclusi gli abbonamenti a Microsoft Action Pack e le competenze Silver e Gold. 
+Dal [dashboard](https://docs.microsoft.com/partner-center/) Centro per i partner puoi ora acquistare o rinnovare le offerte di vantaggi desiderate, inclusi l'abbonamento a Microsoft Action Pack e le competenze Silver e Gold. 
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Acquistare Microsoft Action Pack per la prima volta
 
@@ -36,23 +36,13 @@ Diventa un [partner con competenze](https://partner.microsoft.com/membership/com
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Rinnovare un abbonamento a Microsoft Action Pack
 
 >[!IMPORTANT]
->Ora puoi gestire l'abbonamento ad Action Pack nel Centro per i partner, ovvero su questo sito. 
+>Ora puoi gestire l'abbonamento ad Action Pack nel Centro per i partner.
 
 ### <a name="check-your-renewal-eligibility"></a>Verificare l'idoneità al rinnovo
 
-1. Accedi a [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect).
-
-2. Dopo l'accesso, dovrai:
-
-    - Essere in grado di eseguire la procedura per rinnovare l'abbonamento in PMC o
-
-    - Ottenere un messaggio di invito a rinnovare l'abbonamento nel Centro per i partner, ovvero su questo sito
-
 >[!IMPORTANT]
 >Se ricevi l'invito a rinnovare l'abbonamento nel Centro per i partner, tieni presente che sono stati modificati i criteri nella finestra di rinnovo e solo dopo la scadenza potrai rinnovare l'abbonamento. Ad esempio, se l'abbonamento scade il 22 giugno, puoi rinnovarlo a partire dal 23 giugno e per i successivi 30 giorni.       
->Puoi trovare la data di scadenza dell'abbonamento nella tua pagina [**Offerte per i membri**](https://partnercenter.microsoft.com/pcv/partnership/offers) (è richiesto l'accesso). Se o quando hai l'idoneità per il rinnovo nel Centro per i partner, attieniti alla procedura che segue.  
-
-
+>Puoi trovare la data di scadenza dell'abbonamento nella tua pagina [**Offerte per i membri**](https://partnercenter.microsoft.com/pcv/partnership/offers) (è richiesto l'accesso). Quando hai l'idoneità per il rinnovo nel Centro per i partner, attieniti alla procedura che segue.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Per rinnovare un abbonamento a Microsoft Action Pack nel Centro per i partner
 

@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Invoice, MAPS, Tax esentad, VAT, VAT ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b972aa9261d319c55d26abcc32e33af5546550a
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 42006ee073db1481fffa42b5cc4e3982526cf720
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978766"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141997"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Fatture e imposte nella Microsoft Partner Network
 
@@ -26,7 +26,7 @@ Attenersi alla procedura seguente per visualizzare o scaricare la fattura finale
 
 Per eseguire questa procedura, è necessario essere un amministratore globale o un amministratore partner MPN. 
 
-1.  Accedere al [centro](https://partner.microsoft.com/en-us/dashboard/home) per i partner con l'account aziendale e selezionare **MPN** nel menu a sinistra.
+1.  Accedere al [centro](https://partner.microsoft.com/dashboard/home) per i partner con l'account aziendale e selezionare **MPN** nel menu a sinistra.
 
 4.  Nell'elenco a discesa selezionare **offerte di appartenenza** per visualizzare le offerte disponibili per l'acquisto, nonché le fatture disponibili per l'anno corrente di registrazione. Per visualizzare le fatture per gli anni precedenti, selezionare **scaduto**.
 
@@ -45,7 +45,7 @@ Per eseguire questa procedura, è necessario essere un amministratore globale o 
 
 ## <a name="send-microsoft-your-vat-id-number"></a>Inviare il tuo numero di partita IVA a Microsoft
 
-1.  Dal [Dashboard](https://partner.microsoft.com/en-us/dashboard/home)del centro per i partner selezionare **offerte di appartenenza**, quindi selezionare **disponibile**. 
+1.  Dal [Dashboard](https://partner.microsoft.com/dashboard/home)del centro per i partner selezionare **offerte di appartenenza**, quindi selezionare **disponibile**. 
 
 2.  Selezionare **Aggiungi l'ID IVA**. 
 

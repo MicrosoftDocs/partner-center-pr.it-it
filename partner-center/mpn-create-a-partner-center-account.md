@@ -6,12 +6,12 @@ description: I membri del programma Microsoft Partner Network devono creare gli 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 58dd482f3fe9e9b02159c2900bb2c857ee967540
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: f69dc6239c1ad11821baac269903ad819901ac7e
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978763"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141962"
 ---
 # <a name="create-a-partner-center-account"></a>Creare un account nel Centro per i partner
 
@@ -59,7 +59,7 @@ Queste informazioni verranno verificate durante il processo di creazione dell'ac
 
 5.  Verificare di essere stati aggiunti al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, è necessario disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attenersi alla procedura seguente:
 
-    a. Dal [Dashboard](https://partner.microsoft.com/en-us/dashboard/home**)del centro per i partner selezionare l'icona **delle impostazioni** e quindi selezionare **Gestione utenti**.  
+    a. Dal [Dashboard](https://partner.microsoft.com/dashboard/home**)del centro per i partner selezionare l'icona **delle impostazioni** e quindi selezionare **Gestione utenti**.  
 
     b. Selezionare il nome nell'elenco degli utenti e quindi **Agente amministratore** se non già selezionato. Seleziona **Aggiorna**.  
 

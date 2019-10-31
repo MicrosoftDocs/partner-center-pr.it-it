@@ -2,17 +2,17 @@
 title: Vendi Office 365 Government GCC per CSP | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
-description: I partner Microsoft che partecipano al programma CSP possono vendere gli abbonamenti Office 365 Government GCC per CSP a clienti qualificati. Office 365 GCC per enti pubblici per CSP è una suite di servizi di produttività cloud progettato per il governo degli Stati Uniti e terzisti per enti pubblici.
+description: I partner Microsoft che partecipano al programma CSP possono vendere gli abbonamenti Office 365 Government GCC per CSP a clienti qualificati. Office 365 Government GCC per CSP è una suite di servizi di produttività cloud progettati per il Stati Uniti enti pubblici e per enti pubblici.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f7187b0a35bae927dc991b4bd92506f902c53b95
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: caf8c6614a360c45c9976277b9dca14197391f39
+ms.sourcegitcommit: 718064303cc8a632005a2b4561bc34100ec93477
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134841"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73168568"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Vendere abbonamenti a Office 365 Government GCC per CSP a clienti qualificati
 
@@ -32,11 +32,9 @@ I partner Microsoft che partecipano al programma Cloud Solution Provider (CSP) p
 
 ## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>Vendere abbonamenti di Office 365 Government GCC per CSP
 
-Dopo l'approvazione per vendere l'azienda offre GCC di Office 365 Government per CSP, si può iniziare a vendere ai clienti che usano Centro per i Partner. Fare riferimento a queste risorse per imparare a usare Centro per i Partner per vendere le sottoscrizioni: 
+Dopo che la società è stata approvata per la vendita di Office 365 Government GCC per le offerte CSP, è possibile iniziare a vendere ai clienti usando il centro per i partner. Per informazioni su come usare il centro per i partner per vendere le sottoscrizioni, fare riferimento a queste risorse: 
 
 -   Per una guida dettagliata alla vendita di abbonamenti a Office 365 Government GCC per CSP, vai [qui](https://go.microsoft.com/fwlink/?linkid=2007323).  
-
--   Per le risposte alle domande frequenti, vai [qui](https://o365pp.blob.core.windows.net/media/Resources/GCC/Office%20365%20Government%20GCC%20for%20CSP%20Partner%20FAQ.docx)
 
 
 ## <a name="additional-resources"></a>Risorse aggiuntive
@@ -45,8 +43,8 @@ Accedi alle informazioni sull'[opportunità per i partner nel governo degli Stat
 
 Risorse di prodotto:
 
-- [Descrizione del servizio Office 365](https://technet.microsoft.com/library/mt774581.aspx)
+- [Descrizione del servizio Office 365 Government](https://technet.microsoft.com/library/mt774581.aspx)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
-- [Microsoft Trust Center](https://www.microsoft.com/TrustCenter/)
-- [Portale Microsoft Trust Center](https://aka.ms/STP)
+- [Centro protezione Microsoft](https://www.microsoft.com/TrustCenter/)
+- [Microsoft Service Trust Portal](https://aka.ms/STP)
 

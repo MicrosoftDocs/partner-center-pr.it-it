@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, distribuzione Zero-Touch, OOBE, schermate di accesso, predefinite
 ms.localizationpriority: medium
-ms.openlocfilehash: 213ed9e45e0109eaa88d7575249272ba403dfcfd
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 7861efa8c0fd7e03488ba3f222fcb3a476c06cc2
+ms.sourcegitcommit: 76c34fd8dc544cea93496079df68759a1da9098c
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708748"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "73544049"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizzare l'esperienza predefinita di un dispositivo con i profili di Windows Autopilot
 
@@ -64,7 +64,7 @@ Nel centro per i partner è possibile creare profili di distribuzione di Windows
 
 1. Selezionare **Customers (clienti** ) dal menu centro partner e quindi selezionare il cliente per il quale si sta creando il profilo di Autopilot.
 
-2. Nella pagina dei dettagli del cliente selezionare Devices ( **dispositivi**).
+2. Nella pagina dei dettagli del cliente selezionare **Devices (dispositivi**).
 
 3. In **profili di Windows Autopilot** selezionare **Aggiungi nuovo profilo**.
 
@@ -92,7 +92,7 @@ Dopo aver creato un profilo di Autopilot per un cliente, è possibile applicarlo
 
 1. Selezionare **Customers** dal menu centro partner e quindi selezionare il cliente per cui è stato creato il profilo Autopilot.
 
-2. Nella pagina dei dettagli del cliente selezionare Devices ( **dispositivi**).
+2. Nella pagina dei dettagli del cliente selezionare **Devices (dispositivi**).
 
 3. In **applica profili ai dispositivi** selezionare i dispositivi o i gruppi di dispositivi a cui si vogliono aggiungere i profili e quindi selezionare **Applica profilo**. Il profilo appena applicato viene visualizzato nella colonna **profilo** .
 
@@ -108,12 +108,12 @@ Dopo aver creato un profilo di Autopilot per un cliente, è possibile applicarlo
 
 1. Selezionare **Customers** dal menu centro partner e quindi selezionare il cliente per cui è stato creato il profilo Autopilot.
 
-2. Nella pagina dei dettagli del cliente selezionare Devices ( **dispositivi**).
+2. Nella pagina dei dettagli del cliente selezionare **Devices (dispositivi**).
 
 3. In **applica profili ai dispositivi** selezionare i dispositivi da cui si desidera rimuovere il profilo, quindi selezionare **Rimuovi profilo**.
 
    >[!NOTE]
-   >La rimozione di un profilo da un dispositivo non comporta l'eliminazione del profilo dall'elenco. Per eliminare un profilo, seguire le istruzioni riportate in [aggiornare o eliminare un profilo](#update-or-delete-an-autopilot-profile)di Autopilot.
+   >La rimozione di un profilo da un dispositivo non comporta l'eliminazione del profilo dall'elenco. Per eliminare un profilo, seguire le istruzioni riportate in [aggiornare o eliminare un profilo di Autopilot](#update-or-delete-an-autopilot-profile).
 
 ### <a name="update-or-delete-an-autopilot-profile"></a>Aggiornare o eliminare un profilo di Autopilot
 
@@ -123,7 +123,7 @@ Quando il dispositivo del cliente si connette a Internet, verrà scaricata la ve
 
 1. Selezionare **Customers** dal menu centro per i partner e quindi selezionare il cliente che desidera modificare un profilo di Autopilot.
 
-2. Nella pagina dei dettagli del cliente selezionare Devices ( **dispositivi**).
+2. Nella pagina dei dettagli del cliente selezionare **Devices (dispositivi**).
 
 3. In **profili di Windows Autopilot** selezionare il profilo che si desidera aggiornare. Apportare le modifiche necessarie e quindi selezionare **Invia**.
 
@@ -146,7 +146,7 @@ Seguire le istruzioni riportate di seguito per aggiungere i dispositivi all'acco
 
 1. Selezionare **Customers (clienti** ) dal menu centro partner e quindi selezionare il cliente di cui si vogliono gestire i dispositivi.
 
-2. Nella pagina dei dettagli del cliente selezionare Devices ( **dispositivi**).
+2. Nella pagina dei dettagli del cliente selezionare **Devices (dispositivi**).
 
 3. In **applica profili ai dispositivi** selezionare **Aggiungi dispositivi**.
 
@@ -158,6 +158,27 @@ Seguire le istruzioni riportate di seguito per aggiungere i dispositivi all'acco
 5. Caricare il file con estensione CSV e quindi selezionare **Save (Salva**).
 
 Se viene ricevuto un messaggio di errore durante il tentativo di caricare il file CSV, controllare il formato del file. È possibile utilizzare solo l'hash hardware oppure il nome OEM, il numero di serie e il modello (nell'ordine di tale colonna) o l'ID del prodotto Windows. È anche possibile usare il file CSV di esempio fornito dal collegamento accanto a **Aggiungi dispositivi** per creare un elenco di dispositivi.
+
+Il file CSV avrà un aspetto simile al seguente:
+
+> **Numero di serie del dispositivo, ID prodotto Windows, hash hardware, nome produttore, modello di dispositivo**
+
+> **{serialNumber},,, Microsoft Corporation, Surface laptop**
+
+Si noti che "nome produttore" e "modello dispositivo" fanno distinzione tra maiuscole e minuscole.
+
+Se non si conosce il valore da inserire per il nome del produttore e il modello di dispositivo, è possibile eseguire questa operazione sul dispositivo per raccogliere i valori corretti:
+
+<pre><code>md c:\\HWID
+
+Set-Location c:\\HWID
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Unrestricted
+
+Install-Script -Name Get-WindowsAutoPilotInfo
+
+Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
+</code></pre>
 
 ## <a name="windows-autopilot-eula-dismissal"></a>Dismissing EULA di Windows Autopilot
 

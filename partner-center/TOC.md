@@ -100,6 +100,7 @@
 ## [Impostare un budget di spesa di Azure per i clienti](set-an-azure-spending-budget-for-your-customers.md)
 ## [Scenari di fatturazione comuni](common-billing-scenarios.md)
 ## [Insoluti, frodi o uso improprio](non-payment--fraud--or-misuse.md)
+## [Avviso per i partner Office 365: servizi vocali di Microsoft 365 in CSP](o365-partner-advisory.md)
 
 # [Entrare in contatto con i clienti](customer-accounts.md)
 ## [Aggiungi un nuovo cliente](add-a-new-customer.md)
@@ -122,7 +123,7 @@
 ### [Acquistare il piano di Azure](purchase-azure-plan.md)
 ### [Confrontare le offerte di Azure](compare-azure-offers.md)
 ### [Eseguire la transizione dei clienti al piano di Azure](azure-plan-transition.md)
-### [Credito ottenuto dai partner - Panoramica](partner-earned-credit-overview.md)
+### [Credito ottenuto dai partner - Panoramica](partner-earned-credit.md)
 ### [Come viene calcolato e pagato il credito ottenuto dai partner](partner-earned-credit-explanation.md)
 ### [Nuova esperienza commerciale in CSP - Fatturazione di Azure](azure-plan-billing.md) 
 ### [Listino prezzi per la nuova esperienza commerciale di Azure in CSP](azure-plan-price-list.md)

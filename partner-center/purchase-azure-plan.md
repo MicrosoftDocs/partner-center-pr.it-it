@@ -1,18 +1,18 @@
 ---
 title: Acquistare il piano di Azure | Centro per i partner
 ms.topic: article
-ms.date: 10/01/2019
-description: Acquistare più sottoscrizioni di Azure senza dover inviare singoli ordini per ogni sottoscrizione
+ms.date: 11/01/2019
+description: Acquistare più sottoscrizioni di Azure nel piano di Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 0eead95dc6847dd1eca8f54d7a6e15f8312f9481
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171196"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428521"
 ---
 # <a name="purchase-the-azure-plan"></a>Acquistare il piano di Azure
 
@@ -30,10 +30,11 @@ La modalità di acquisto del piano di Azure è simile all'acquisto di qualsiasi 
 
 ![Acquisto](images/azure/Azurepurchase1.png)
 
-Il partner deve verificare che il cliente abbia esaminato e accettato le condizioni del contratto del cliente Microsoft. Per altre informazioni su come eseguire questa operazione, leggi [Verificare l'accettazione da parte del cliente del contratto del cliente Microsoft](https://docs.microsoft.com/en-us/partner-center/confirm-customer-agreement). Altre risorse sono disponibili nella [raccolta delle risorse](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+Il partner deve verificare che il cliente abbia esaminato e accettato le condizioni del contratto del cliente Microsoft. Per altre informazioni su come eseguire questa operazione, leggi [Verificare l'accettazione da parte del cliente del contratto del cliente Microsoft](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Altre risorse sono disponibili nella [raccolta delle risorse](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
-1. Conferma
-2. Invito al cliente a firmare il contratto del cliente Microsoft direttamente con Microsoft. 
+**Per confermare:**
+1. Conferma digitalmente oppure
+2. Invita il cliente a firmare il contratto del cliente Microsoft direttamente con Microsoft. 
 
 ### <a name="to-confirm"></a>Per verificare 
 
@@ -66,7 +67,7 @@ Le prenotazioni di Azure devono essere associate a un piano di Azure attivo. Sce
 
 Si noti che attualmente l'ambito della prenotazione può essere impostato solo su **Condiviso**. 
 
-![ambito condiviso](images/azure/scopeshared.png)
+![ambito condiviso](images/azure/addprods1.png)
 
 Per gestire la prenotazione del cliente nel portale di Azure: 
 
@@ -78,7 +79,7 @@ Per gestire la prenotazione del cliente nel portale di Azure:
 
 Nella sezione Basato sull'utilizzo della pagina **Sottoscrizioni** espandi **Piano di Azure** per visualizzare le sottoscrizioni di Azure associate nel piano di Azure.
 
-![Elenco visualizzazione](images/azure/viewlist.png)
+![Elenco visualizzazione](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Aggiungere sottoscrizioni e configurare risorse

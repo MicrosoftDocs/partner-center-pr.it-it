@@ -1,18 +1,18 @@
 ---
 title: Requisiti di competenza Microsoft per l'adesione Gold e Silver | Centro per i partner
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/29/2019
 description: Scopri i requisiti di competenza per conseguire i livelli di adesione Gold e Silver.
 author: LauraBrenner
 ms.author: labrenne
 keywords: competenze, adesione silver, adesione gold, mpn, abbonamento a Microsoft Action Pack, preparazione, Microsoft Partner Network, adesione alla rete, specializzazioni avanzate
 ms.localizationpriority: high
-ms.openlocfilehash: 6ae993e049fc651f15e9669aab68c2183085b308
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: d6991a6df1800b279aefb553188af79d3dd33ec2
+ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318860"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73413360"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informazioni sulle competenze Microsoft Silver e Gold e sulle specializzazioni avanzate
 
@@ -24,6 +24,8 @@ Dimostra la tua comprovata esperienza nella fornitura di soluzioni di qualità i
 - Consegui un livello di **adesione Gold** per dimostrare la tua massima competenza in una specifica area di soluzioni Microsoft
 
 - Come partner Gold, puoi anche aggiungere specializzazioni avanzate al tuo portfolio.
+
+L'acquisizione delle competenze per l'**adesione Silver** o l'**adesione Gold** consente anche di ottenere enormi vantaggi in termini di vendite e marketing [Go-to-market](mpn-learn-about-go-to-market-benefits.md) per favorire l'espansione e la crescita del tuo business.
 
 ## <a name="competency-areas"></a>Aree di competenza
 
@@ -40,6 +42,8 @@ I livelli di competenza Silver e Gold hanno requisiti diversi per ogni area. All
 
 
 Per altre informazioni, vedi [Requisiti per conseguire il livello di adesione Silver e Gold](https://partner.microsoft.com/membership/competencies)
+
+Scopri gli specifici [vantaggi Go-to-market disponibili per le adesioni Silver e Gold](mpn-learn-about-go-to-market-benefits.md) 
 
 Scopri le [fatture e imposte per le competenze](mpn-view-print-maps-invoice.md)
 

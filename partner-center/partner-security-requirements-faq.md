@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
-ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
-ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
+ms.openlocfilehash: 43ad23ea7d4b4b39fb2dc6d15095a8416c7360ab
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "71678298"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142026"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Domande frequenti sui requisiti di sicurezza per i partner
 
@@ -67,6 +67,17 @@ Sì, queste informazioni fanno riferimento a tutte le aree geografiche? È forte
 
 No, non è possibile escludere alcun account dal requisito di applicazione dell'autenticazione MFA. Considerati i privilegi elevati della condizione di partner, la [Guida al programma Cloud Solution Provider](https://go.microsoft.com/fwlink/p/?LinkId=617100) prevede che l'autenticazione MFA venga applicata a tutti gli account presenti nel tenant del partner.
 
+### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Come faccio a sapere se soddisfo i requisiti di sicurezza per i partner?
+
+Devi verificare i punti seguenti:
+
+- Devi soddisfare tutti i requisiti indicati nei [requisiti di sicurezza per i partner](https://docs.microsoft.com/partner-center/partner-security-requirements).
+- Devi assicurarti che per tutti gli account utente del tuo tenant partner sia applicata l'autenticazione a più fattori.
+
+Per identificare le principali aree in cui puoi eseguire azioni, tramite il Centro per i partner forniamo il report sullo [stato dei requisiti di sicurezza](https://partner.microsoft.com/pcv/security/compliance).
+
+Per altre informazioni sul report di stato, vedi [Stato dei requisiti di sicurezza per i partner](https://docs.microsoft.com/partner-center/partner-security-compliance).
+
 ## <a name="required-actions"></a>Azioni richieste
 
 ### <a name="what-are-the-key-actions-i-need-to-take-to-meet-the-requirements"></a>Quali sono le azioni chiave che è necessario intraprendere per soddisfare i requisiti?
@@ -93,7 +104,7 @@ Tutti i partner del programma CSP (partner con fatturazione diretta, provider in
     Tutti i partner che hanno sviluppato una procedura di integrazione personalizzata usando un'API (ad esempio Azure Resource Manager, Microsoft Graph, API del Centro per i partner e così via) o hanno implementato un'automazione personalizzata usando strumenti come PowerShell, dovranno adottare il [framework del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) per eseguire l'integrazione con i servizi cloud Microsoft. In caso contrario, è possibile che si verifichi un errore correlato alla distribuzione della soluzione MFA. Le risorse seguenti offrono una panoramica e preziose indicazioni su come adottare il modello.
 
     - [Panoramica del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-    - [Centro per i partner: guida al modello di applicazione sicura](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+    - [Centro per i partner: guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
     - [Partner aderenti al programma CSP: codice di esempio .NET per l'abilitazione del modello di applicazione sicura](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
     - [Partner aderenti al programma CSP: codice di esempio Java per l'abilitazione del modello di applicazione sicura](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
     - [Documento di autenticazione del Centro per i partner](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -101,7 +112,7 @@ Tutti i partner del programma CSP (partner con fatturazione diretta, provider in
 
     Se si usa un pannello di controllo, è necessario consultarsi con il fornitore in merito all'adozione del framework del modello di applicazione sicura.
 
-    I fornitori di pannelli di controllo devono infatti eseguire l'[onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) al Centro per i partner come fornitore di pannelli di controllo e avviare subito l'implementazione di questo requisito. Vedere [Centro per i partner: framework del modello di applicazione sicura](http://assetsprod.microsoft.com/secure-application-model-guide.pdf). I fornitori di pannelli di controllo devono accettare e usare il consenso dei partner CSP anziché le credenziali ed eliminare tutte le credenziali dei partner CSP esistenti.
+    I fornitori di pannelli di controllo devono infatti eseguire l'[onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) al Centro per i partner come fornitore di pannelli di controllo e avviare subito l'implementazione di questo requisito. Vedere [Centro per i partner: framework del modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). I fornitori di pannelli di controllo devono accettare e usare il consenso dei partner CSP anziché le credenziali ed eliminare tutte le credenziali dei partner CSP esistenti.
 
 ## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
 
@@ -237,18 +248,18 @@ No, l'account di servizio usato da Azure AD Connect non sarà interessato dai re
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Chi deve adottare il modello di applicazione sicura per soddisfare i requisiti?
 
-Microsoft sta introducendo un framework scalabile e sicuro per l'autenticazione dei partner Cloud Solution Provider (CSP) e dei fornitori di pannelli di controllo (CPV) che usano Multi-Factor Authentication. Per altre informazioni, vedere la [Guida del modello di applicazione sicura](http://assetsprod.microsoft.com/secure-application-model-guide.pdf). Tutti i partner che hanno sviluppato una procedura di integrazione personalizzata usando un'API (ad esempio Azure Resource Manager, Microsoft Graph, API del Centro per i partner e così via) o hanno implementato un'automazione personalizzata usando strumenti come PowerShell, dovranno adottare il [framework del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) per eseguire l'integrazione con i servizi cloud Microsoft.
+Microsoft sta introducendo un framework scalabile e sicuro per l'autenticazione dei partner Cloud Solution Provider (CSP) e dei fornitori di pannelli di controllo (CPV) che usano Multi-Factor Authentication. Per altre informazioni, vedere la [Guida del modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Tutti i partner che hanno sviluppato una procedura di integrazione personalizzata usando un'API (ad esempio Azure Resource Manager, Microsoft Graph, API del Centro per i partner e così via) o hanno implementato un'automazione personalizzata usando strumenti come PowerShell, dovranno adottare il [framework del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) per eseguire l'integrazione con i servizi cloud Microsoft.
 
 ### <a name="what-is-the-secure-application-model"></a>Che cos'è il modello di applicazione sicura?
 
-Microsoft sta introducendo un framework scalabile e sicuro per l'autenticazione dei partner Cloud Solution Provider (CSP) e dei fornitori di pannelli di controllo (CPV) che usano Multi-Factor Authentication. Per altre informazioni, vedere la [Guida del modello di applicazione sicura](http://assetsprod.microsoft.com/secure-application-model-guide.pdf).  
+Microsoft sta introducendo un framework scalabile e sicuro per l'autenticazione dei partner Cloud Solution Provider (CSP) e dei fornitori di pannelli di controllo (CPV) che usano Multi-Factor Authentication. Per altre informazioni, vedere la [Guida del modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).  
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>Come viene implementato il modello di applicazione sicura?
 
 Tutti i partner che hanno sviluppato una procedura di integrazione personalizzata usando un'API (ad esempio Azure Resource Manager, Microsoft Graph, API del Centro per i partner e così via) o hanno implementato un'automazione personalizzata usando strumenti come PowerShell, dovranno adottare il [framework del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) per eseguire l'integrazione con i servizi cloud Microsoft. In caso contrario, è possibile che si verifichi un errore correlato alla distribuzione della soluzione MFA. Le risorse seguenti offrono una panoramica e preziose indicazioni su come adottare il modello.
 
 - [Panoramica del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [Centro per i partner: guida al modello di applicazione sicura](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [Centro per i partner: guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [Partner aderenti al programma CSP: codice di esempio .NET per l'abilitazione del modello di applicazione sicura](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [Partner aderenti al programma CSP: codice di esempio Java per l'abilitazione del modello di applicazione sicura](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Documento di autenticazione del Centro per i partner](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -256,11 +267,11 @@ Tutti i partner che hanno sviluppato una procedura di integrazione personalizzat
 
 Se si usa un pannello di controllo, è necessario consultarsi con il fornitore in merito all'adozione del framework del modello di applicazione sicura.
 
-I fornitori di pannelli di controllo devono infatti eseguire l'[onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) al Centro per i partner come fornitore di pannelli di controllo e avviare subito l'implementazione di questo requisito. Vedere [Centro per i partner: framework del modello di applicazione sicura](http://assetsprod.microsoft.com/secure-application-model-guide.pdf). I fornitori di pannelli di controllo devono accettare e usare il consenso dei partner CSP anziché le credenziali ed eliminare tutte le credenziali dei partner CSP esistenti.
+I fornitori di pannelli di controllo devono infatti eseguire l'[onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) al Centro per i partner come fornitore di pannelli di controllo e avviare subito l'implementazione di questo requisito. Vedere [Centro per i partner: framework del modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). I fornitori di pannelli di controllo devono accettare e usare il consenso dei partner CSP anziché le credenziali ed eliminare tutte le credenziali dei partner CSP esistenti.
 
 ### <a name="who-is-a-control-panel-vendor-cpv"></a>Chi sono i fornitori di pannelli di controllo (CPV)?
 
-Un fornitore di pannelli di controllo è un fornitore di software indipendente che sviluppa app a disposizione dei partner CSP che eseguono l'integrazione con un'API del Centro per i partner. Un fornitore di pannelli di controllo non è un partner CSP con accesso diretto al dashboard o alle API del Centro per i partner. Una descrizione dettagliata è disponibile nell'articolo [Centro per i partner: Guida al modello di applicazione sicura](http://assetsprod.microsoft.com/secure-application-model-guide.pdf).
+Un fornitore di pannelli di controllo è un fornitore di software indipendente che sviluppa app a disposizione dei partner CSP che eseguono l'integrazione con un'API del Centro per i partner. Un fornitore di pannelli di controllo non è un partner CSP con accesso diretto al dashboard o alle API del Centro per i partner. Una descrizione dettagliata è disponibile nell'articolo [Centro per i partner: Guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Il modello di applicazione sicura deve essere implementato solo per l'API/SDK del Centro per i partner?
 
@@ -296,7 +307,7 @@ Dopo aver eseguito la registrazione al Centro per i partner e aver registrato le
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>Per i partner che usano il Partner Center SDK, l'SDK adotterà automaticamente il modello di applicazione sicura?
 
-No, è necessario seguire le indicazioni fornite nella [guida al modello di applicazione sicura](http://assetsprod.microsoft.com/secure-application-model-guide.pdf).
+No, è necessario seguire le indicazioni fornite nella [guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-do-not-have-mfa-enabled"></a>È possibile generare un token di aggiornamento per il modello di applicazione sicura con account in cui non è abilitata l'autenticazione MFA?
 
@@ -304,7 +315,7 @@ Sì, è possibile generare un token di aggiornamento anche con un account per il
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>In che modo un'applicazione può ottenere un token di accesso se si abilita l'autenticazione MFA?
 
-È necessario attenersi alla [guida al modello di applicazione sicura](http://assetsprod.microsoft.com/secure-application-model-guide.pdf), che fornisce informazioni dettagliate su come eseguire questa operazione rispettando al tempo stesso i nuovi requisiti di sicurezza. È possibile trovare il codice di esempio .NET [qui](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) e il codice di esempio Java [qui](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model).
+È necessario attenersi alla [guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf), che fornisce informazioni dettagliate su come eseguire questa operazione rispettando al tempo stesso i nuovi requisiti di sicurezza. È possibile trovare il codice di esempio .NET [qui](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) e il codice di esempio Java [qui](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model).
 
 ### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>I fornitori di pannelli di controllo devono creare un'applicazione Azure AD nel tenant del CPV o nel tenant del partner CSP?
 
@@ -312,7 +323,7 @@ I fornitori di pannelli di controllo dovranno creare l'applicazione Azure Active
 
 ### <a name="i-am-a-csp-that-is-using-app-only-authentication-do-i-need-to-make-any-changes"></a>I partner CSP che usano l'autenticazione solo tramite app devono apportare modifiche?
 
-L'autenticazione solo tramite app non è interessata perché le credenziali utente non vengono usate per richiedere un token di accesso. Se le credenziali utente vengono condivise, i fornitori di pannelli di controllo devono adottare il [framework del modello applicazione sicura](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) ed eliminare eventuali credenziali di partner esistenti.
+L'autenticazione solo tramite app non è interessata perché le credenziali utente non vengono usate per richiedere un token di accesso. Se le credenziali utente vengono condivise, i fornitori di pannelli di controllo devono adottare il [framework del modello applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) ed eliminare eventuali credenziali di partner esistenti.
 
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>I fornitori di pannelli di controllo possono sfruttare il metodo di autenticazione solo tramite app per ottenere i token di accesso?
 
@@ -347,7 +358,7 @@ L'applicazione tecnica dei requisiti di sicurezza per i partner verificherà se 
 ### <a name="resources-for-adopting-secure-application-model"></a>Risorse per l'adozione di un modello di applicazione sicura
 
 - [Panoramica del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [Centro per i partner: guida al modello di applicazione sicura](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [Centro per i partner: guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [Partner aderenti al programma CSP: codice di esempio .NET per l'abilitazione del modello di applicazione sicura](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [Partner aderenti al programma CSP: codice di esempio Java per l'abilitazione del modello di applicazione sicura](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Documento di autenticazione del Centro per i partner](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)

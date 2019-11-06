@@ -7,20 +7,18 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: a4074382d9cacbc363150db55fab62634150ebfd
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: e09e1421fd0ed1a126a43452d090009c0fb13412
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171166"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428440"
 ---
 # <a name="partner-earned-credit---overview"></a>Credito ottenuto dai partner - Panoramica
-
 
 Il credito ottenuto dai partner nella nuova esperienza commerciale in CSP è un modello di business che esegue una determinazione dei prezzi di Azure semplificata e uniforme nell'ambito di tutte le risorse go-to-market di Microsoft, promuovendo al tempo stesso un ecosistema di partner che fornisce servizi gestiti a valore aggiunto. Il credito ottenuto dai partner consente inoltre di eliminare qualsiasi concorrenza sui margini. 
 
 Con migliaia di servizi in Azure e più opzioni per l'acquisto, la determinazione dei prezzi può essere un'operazione complessa per molti clienti e partner. Nella nuova esperienza commerciale di Azure sono stati adottati singoli principi globali di determinazione dei prezzi applicabili a tutte le transazioni. I partner CSP possono offrire Azure ai prezzi pubblicati. In questo modo si garantisce maggiore trasparenza ai clienti e si creano rapporti di fiducia. 
-
 
 Le esigenze di trasformazione digitale dei clienti stanno determinando un cambiamento nella natura del valore offerto dai partner. Molti clienti richiedono ai partner di fornire servizi che vanno ben oltre le transazioni per poter sfruttare il cloud senza difficoltà e usare i servizi di Azure in modo efficiente. Questi servizi sono in fase di sviluppo e includono monitoraggio dell'ambiente Azure, gestione dei criteri e della governance, operazioni di configurazione e ottimizzazione, supporto tecnico e un'ampia gamma di altri servizi. 
 
@@ -66,11 +64,12 @@ Scopri di più su come espandere il tuo [portfolio di servizi gestiti con Azure]
 Questi servizi comportano un livello di accesso appropriato per i partner nell'ambiente Azure del cliente e il sistema di commercio misurerà i dettagli di accesso per calcolare il credito ottenuto dai partner.  
 
 >[!Note]
-
 >I clienti avranno la possibilità di rimuovere gli accessi assegnati ai partner. I partner non devono forzare i clienti per l'assegnazione dell'accesso appropriato per il solo scopo di ottenere il credito presso Microsoft. La mancata conformità a questo requisito potrebbe rendere il partner non idoneo per ottenere il credito.
 
 **Per altre informazioni**
-- [Come viene calcolato e pagato il credito ottenuto dai partner]
+
+- [Come viene calcolato e pagato il credito ottenuto dai partner](partner-earned-credit-explanation.md)
+
 - [Gestire sottoscrizioni e risorse nel piano di Azure](azure-plan-manage.md)
 
 - [Listino prezzi per la nuova esperienza commerciale di Azure in CSP](azure-plan-price-list.md)

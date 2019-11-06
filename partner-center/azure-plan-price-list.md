@@ -1,19 +1,19 @@
 ---
 title: Listino prezzi per il piano di Azure | Centro per i partner
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/01/2019
 description: Come visualizzare il listino prezzi per le sottoscrizioni in base al piano di Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 64f7b6930f31afc63397ae3ed0e0dba2357b0f1e
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171282"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428542"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Listino prezzi per la nuova esperienza commerciale di Azure in CSP 
 
@@ -54,10 +54,9 @@ Il listino prezzi per la nuova esperienza commerciale di Azure in CSP viene pubb
 
     - **FX Rates** (Tassi di cambio): i tassi di cambio saranno disponibili per il download il giorno precedente il primo del mese, alle ore 18.00 PST. Se, ad esempio, vuoi visualizzare i tassi per il mese di novembre, scaricali il 31 ottobre. Saranno disponibili anche i tassi di cambio relativi al mese precedente.
 
-    - **Eligible services** (Servizi idonei): il credito ottenuto dai partner è applicabile ai servizi elencati nei **prezzi per l'utilizzo del piano di Azure** che i partner possono esportare dalla pagina dei prezzi del piano di Azure. Tieni presente che esistono eccezioni, tra cui le prenotazioni di terze parti e di Azure.
-
 - I prezzi riportati nei listini sono prezzi diretti. Alcuni partner potrebbero essere idonei a ricevere dei crediti. Per informazioni sul modo in cui viene calcolato il credito ottenuto da un partner, vedi [Come viene calcolato e pagato il credito ottenuto dai partner](partner-earned-credit-explanation.md).
 
+- **Eligible services** (Servizi idonei): il credito ottenuto dai partner è applicabile ai servizi elencati nei **prezzi per l'utilizzo del piano di Azure** che i partner possono esportare dalla pagina dei [prezzi del piano di Azure](https://partner.microsoft.com/commerce/sales). Si noti che esistono eccezioni, tra cui i prodotti di terze parti identificati come "Terze parti" nella colonna Tags del listino prezzi relativo ai consumi del piano di Azure e le prenotazioni del piano di Azure.
 
 ## <a name="price-list-data"></a>Dati del listino prezzi
 

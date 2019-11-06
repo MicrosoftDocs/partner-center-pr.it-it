@@ -1,23 +1,23 @@
 ---
 title: Passare a piano di Azure - Introduzione | Centro per i partner
 ms.topic: article
-ms.date: 10/15/2019
-description: ''
+ms.date: 11/01/2019
+description: Acquistare sottoscrizioni usando la nuova esperienza commerciale per Azure
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
+Keywords: Azure, piano di Azure, acquistare sottoscrizioni, sottoscrizioni
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: eb46255403297539c17145b82ecf096699abe390
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 23dddf8f521d035a99b685b359fffd00247467e9
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171271"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428446"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Passare al piano di Azure - Introduzione
 
-Microsoft ha introdotto una nuova esperienza commerciale in CSP per i partner di Azure che hanno firmato il Contratto Microsoft Partner. Con questa nuova esperienza commerciale e in base al Contratto Microsoft Partner, i partner potranno accedere ai servizi di Azure a tariffe con pagamento in base al consumo per i clienti. 
+Microsoft ha introdotto una nuova esperienza commerciale nel Centro per i partner.  Con questa nuova esperienza commerciale e in base al Contratto Microsoft Partner, i partner potranno accedere ai servizi di Azure a tariffe con pagamento in base al consumo per i clienti. 
 
 Questo piano semplifica l'esperienza di acquisto consentendo di avere più sottoscrizioni di Azure in un piano di Azure. Non dovrai più inviare un ordine separato per ogni sottoscrizione di Azure. In questa nuova esperienza commerciale per Azure si siamo allineati a un unico principio globale in materia di prezzi che consente ai partner CSP di offrire Azure ai prezzi pubblicati. 
 

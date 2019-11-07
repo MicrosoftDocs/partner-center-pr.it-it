@@ -2,17 +2,19 @@
 title: Gestire l'account partner-località | Centro per i partner
 ms.topic: article
 ms.date: 03/27/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Gestisci le località aziendali nel centro per i partner
 author: LauraBrenner
 ms.author: labrenne
 keywords: account partner, località
 ms.localizationpriority: medium
-ms.openlocfilehash: 16b0649ec68aa4915a6aa3ad59b260cadfc63012
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 00af2b65bebfec336609f90946806c2b74827325
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171244"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653353"
 ---
 # <a name="manage-your-partner-account-locations"></a>Gestire l'account partner: località
 

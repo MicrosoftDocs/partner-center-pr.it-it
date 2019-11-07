@@ -2,17 +2,19 @@
 title: Conferma di accettazione da parte del cliente del contratto di Microsoft Cloud | Centro per i partner
 ms.topic: article
 ms.date: 04/16/2019
-Description: Come partner, devi ottenere l'accettazione da parte del cliente del contratto di Microsoft Cloud prima di poter ordinare prodotti e servizi Microsoft per tale cliente. Per aiutare i partner a soddisfare i requisiti di conformità, Microsoft richiede ai partner di confermare l'accettazione fornendo alcuni dettagli riguardanti la persona che ha accettato il contratto.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+Description: In qualità di partner, è necessario ottenere l'accettazione del Microsoft Cloud contratto da parte del cliente prima di poter ordinare i prodotti e i servizi Microsoft per quel cliente. Per aiutare i partner a soddisfare i requisiti di conformità, Microsoft richiede ai partner di confermare l'accettazione fornendo alcuni dettagli riguardanti la persona che ha accettato il contratto.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Customer, Customers, acconsenti, MCA, Microsoft Cloud Agreement, modelli di contratto del cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 13bd3ee03a346448ca8131713420cf75e555195b
-ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.openlocfilehash: 411dab563d59499a66decde0edda3897796a5128
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "73045654"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653652"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Conferma dell'accettazione del cliente del contratto di Microsoft Cloud
 
@@ -28,7 +30,7 @@ ms.locfileid: "73045654"
 >[!NOTE]
 >Il presente contratto è valido fino al 31 gennaio 2020. Dopo tale data, tutti i clienti, esistenti e nuovi, devono firmare il nuovo contratto per i clienti Microsoft. Per altre informazioni, vedere [confermare l'accettazione del contratto clienti Microsoft](confirm-customer-agreement.md).
 
-Come partner, devi ottenere l'accettazione da parte del cliente del contratto di Microsoft Cloud prima di poter ordinare prodotti e servizi Microsoft per tale cliente. Per aiutare meglio i partner a soddisfare i requisiti di conformità, Microsoft richiede ai partner di confermare l'accettazione, fornendo i seguenti dettagli riguardanti la persona che ha accettato il contratto: 
+In qualità di partner, è necessario ottenere l'accettazione del Microsoft Cloud contratto da parte del cliente prima di poter ordinare i prodotti e i servizi Microsoft per quel cliente. Per aiutare meglio i partner a soddisfare i requisiti di conformità, Microsoft richiede ai partner di confermare l'accettazione, fornendo i seguenti dettagli riguardanti la persona che ha accettato il contratto: 
 
 -   Nome
 
@@ -46,9 +48,9 @@ I partner diretti per la fatturazione e i provider indiretti devono confermare l
 
 Se non viene fornita la conferma per un determinato cliente:
 
--   Non sarai in grado di creare nuovi ordini per il cliente.
+-   Non sarà possibile creare nuovi ordini per questo cliente.
 
--   Non sarai in grado di modificare il numero di postazioni degli abbonamenti basati su postazioni esistenti per il cliente.
+-   Non sarà possibile modificare il numero di postazioni delle sottoscrizioni esistenti basate sul posto per questo cliente.
 
 La conferma dell'accettazione del cliente può essere eseguita tramite il centro per i partner o l'API del centro per i partner. Per eseguire questa operazione tramite l'API del centro per i partner, vedere gli argomenti seguenti: 
 
@@ -78,7 +80,7 @@ Usare la procedura seguente per confermare l'accettazione da parte del cliente d
 
 ![Aggiungi data di accettazione](images/mca/MCA3.png)
 
-Per impostazione predefinita, vengono visualizzate le informazioni utente relative al contatto primario. Se queste informazioni non sono corrette, seleziona **Aggiorna**, quindi riempi i campi **Nome**, **Cognome**, **Indirizzo e-mail** e **Numero di telefono* (facoltativo) della persona che ha accettato il contratto.
+Per impostazione predefinita, vengono visualizzate le informazioni utente relative al contatto primario. Se il problema non è corretto, selezionare **Aggiorna** e quindi immettere il **nome**, il **Cognome**, l' **indirizzo di posta elettronica**e il **numero di telefono* (facoltativo) dell'utente che ha accettato il contratto.
 
 6. Scegli **Avanti** per continuare con i passaggi rimanenti per la creazione del tenant del cliente.
 
@@ -98,7 +100,7 @@ Devi essere un agente amministratore o di vendita per eseguire questa operazione
 
 ### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Confermare l'accettazione da parte del cliente durante la creazione di un nuovo ordine per un cliente esistente
 
-Se tenti di creare un nuovo ordine per un cliente esistente che non hai confermato prima, riceverai una richiesta per completare la conferma. A tale scopo, utilizza la procedura seguente.
+Se si tenta di creare un nuovo ordine per un cliente esistente che non è stato confermato in precedenza, si riceverà un messaggio di richiesta per completare la conferma. A tale scopo, utilizza la procedura seguente.
 
 1. Riempi i campi **Nome**, **Cognome**, **Indirizzo e-mail** e **Numero di telefono** (facoltativa) dell'utente che ha accettato il contratto.
 2. In **Agreement acceptance date** (Data di accettazione del contratto) immetti la data appropriata. Non puoi impostare questo campo su una data futura.
@@ -110,4 +112,4 @@ Puoi recuperare la conferma dell'accettazione da parte del cliente per un client
 
 1. Seleziona **Clienti** e quindi individua e seleziona il cliente che vuoi visualizzare.
 2. Seleziona **Informazioni sull'account**.
-3. In **Contratto di Microsoft Cloud** potrai vedere se la conferma è stata fornita o meno per tale cliente.
+3. Nel **Contratto Microsoft Cloud**si noterà se è stata fornita una conferma per questo cliente.

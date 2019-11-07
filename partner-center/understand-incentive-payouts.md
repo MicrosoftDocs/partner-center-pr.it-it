@@ -2,16 +2,18 @@
 title: Visualizzare le informazioni sui pagamenti per gli incentivi | Centro per i partner
 ms.topic: article
 ms.date: 06/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 description: Visualizzare gli utili e i proventi per i programmi di incentivi.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a4d69fbe4f4618ebad1f8641f8d07e6563f28fd
-ms.sourcegitcommit: e73d8a1d74ed4ea87a5330b00fe119222bc2c3da
+ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "71093057"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654001"
 ---
 # <a name="view-your-incentives-payments-information"></a>Visualizza le informazioni sui pagamenti per gli incentivi
 

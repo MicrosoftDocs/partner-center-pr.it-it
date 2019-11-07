@@ -2,17 +2,19 @@
 title: Supporto multipartner | Centro per i partner
 ms.topic: article
 ms.date: 03/20/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Un cliente può scegliere di collaborare con più partner nel programma Cloud Solution Provider specializzati in servizi diversi.
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b54241dfc734edbfa9c708ab0b942f67b4767c1
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 583400695e7aede57d4e8d63f03e63177815b56d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820618"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654253"
 ---
 # <a name="multi-partner-support"></a>Supporto multipartner
 
@@ -29,11 +31,11 @@ La funzionalità multipartner non consente di:
 
 - Modificare le sottoscrizioni esistenti del cliente
 
-- Eseguire la transizione delle sottoscrizioni esistenti del cliente o della proprietà dell'account
+- Eseguire la transizione della proprietà dell'account o delle sottoscrizioni esistenti del cliente
 
-- Modificare le condizioni o gli obblighi del cliente per le sottoscrizioni esistenti
+- Modificare i termini o gli obblighi del cliente per le sottoscrizioni esistenti
 
 - Modificare il Partner of Record per una sottoscrizione
 
 > [!IMPORTANT]  
-> Un partner del programma CSP non è attualmente in grado di rivendere Servizi online a un altro partner del programma CSP. Microsoft esamina costantemente i criteri e le funzionalità di tutti i programmi. Eventuali notizie sulle versioni delle funzionalità o le modifiche ai criteri verranno annunciate tramite i normali canali di comunicazione, inclusi gli [annunci del centro](https://partner.microsoft.com/pcv/announcements)per i partner.
+> Attualmente un partner iscritto al programma CSP non può rivendere servizi online a un altro partner del programma CSP. Microsoft rivede continuamente i criteri e le funzionalità di tutti i programmi. Tutte le novità sui rilasci di funzionalità o sulle modifiche relative ai criteri saranno annunciate tramite i consueti canali di comunicazione, inclusi gli [annunci del Centro per i partner](https://partner.microsoft.com/pcv/announcements).

@@ -2,17 +2,19 @@
 title: Transizione da Cloud Solution Provider (CSP) Direct Bill partner a CSP indirect Reseller | Centro per i partner
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Informazioni su come eseguire la transizione dal partner Direct Bill al rivenditore indiretto
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatturazione diretta, transizione, rivenditore indiretto
-ms.openlocfilehash: 7633d5bff8316315304b97ea1a418c223043b581
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: 29a0f4951cac271d0b74a9a5fc3685c5ffb96b32
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997822"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651232"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto 
 
@@ -46,7 +48,7 @@ Sarà possibile eseguire la registrazione al programma indirect Reseller usando 
 5. Quando la registrazione è approvata, accedere di nuovo a partner Center.
 
 >[!Note]
-> Mentre l'approvazione è in genere immediata, possono essere importati fino a cinque giorni lavorativi. Una volta approvata, si riceverà una notifica per l'indirizzo di posta elettronica specificato in contatto principale nel modulo di registrazione. È anche possibile controllare lo stato di registrazione in **Impostazioni** → **partner impostazioni** → **profilo partner** → informazioni sul programma. 
+> Mentre l'approvazione è in genere immediata, possono essere importati fino a cinque giorni lavorativi. Una volta approvata, si riceverà una notifica per l'indirizzo di posta elettronica specificato in contatto principale nel modulo di registrazione. È anche possibile controllare lo stato di registrazione in **impostazioni** > **partner impostazioni** > **profilo partner** > informazioni sul programma. 
 
 6. Nella pagina **Panoramica** viene visualizzato il contratto di rivenditore indiretto. Seleziona **Accetta e continua**. In questo modo vengono abilitate le funzionalità del rivenditore indiretto.
 
@@ -97,7 +99,7 @@ Per creare un invito al rivenditore indiretto:
 
 4. Modificare il testo del messaggio di posta elettronica per indicare gli elementi necessari, ma assicurarsi di includere il collegamento in quanto è personalizzato per connettere il cliente direttamente al proprio account e al proprio account del provider. Quindi selezionare **fine**.
 
-5. Dopo che il cliente ha autorizzato l'utente e il provider a diventare i suoi Reseller of Record, si disporrà delle autorizzazioni di amministratore necessarie per gestire sottoscrizioni, licenze e utenti per conto del cliente e il provider indiretto potrà inviare ordini per conto del cliente.
+5. Una volta che il cliente autorizza l'utente e il provider a essere il proprio rivenditore di record, avrà le autorizzazioni di amministratore per gestire le sottoscrizioni, le licenze e gli utenti per loro conto e il provider indiretto sarà in grado di inviare ordini per loro conto.
 6. Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandere il record del cliente selezionando la freccia verso il basso accanto al nome. 
 
 Diversamente dai partner Direct Bill, i rivenditori indiretti non possono creare tenant Azure AD per i nuovi clienti nel centro per i partner. Il provider creerà il tenant e verrà specificato come rivenditore indiretto per questo cliente. Ciò garantisce che il cliente venga visualizzato nell'elenco dei clienti nel centro per i partner.
@@ -117,7 +119,7 @@ Il provider indiretto non può inviare ordini ai clienti con fatturazione dirett
 
 4. Modificare il testo del messaggio di posta elettronica per indicare gli elementi necessari, ma assicurarsi di includere il collegamento in quanto è personalizzato per connettere il cliente direttamente al proprio account e al proprio account del provider. Quindi selezionare **fine**.  
 
-5. Dopo che il cliente ha autorizzato l'utente e il provider a diventare i suoi Reseller of Record, si disporrà delle autorizzazioni di amministratore necessarie per gestire sottoscrizioni, licenze e utenti per conto del cliente e il provider indiretto potrà inviare ordini per conto del cliente.
+5. Una volta che il cliente autorizza l'utente e il provider a essere il proprio rivenditore di record, avrà le autorizzazioni di amministratore per gestire le sottoscrizioni, le licenze e gli utenti per loro conto e il provider indiretto sarà in grado di inviare ordini per loro conto.
 
 6. Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandere il record del cliente selezionando la freccia verso il basso accanto al nome.
 

@@ -2,17 +2,19 @@
 title: Guida alla migrazione da PMC al centro per i partner | Centro per i partner
 ms.topic: article
 ms.date: 04/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Cosa è importante sapere quando si esegue la migrazione della società da una console di gestione dei partner al centro
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, migrazione, passaggio al centro per i partner
+keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: medium
-ms.openlocfilehash: f8e0b1fa4b31608ed4031832018c0a003abf0ae9
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: a39c4114758004ff4291bc577182fd8ba469149b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708912"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653093"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guida alla migrazione da PMC al centro per i partner
 
@@ -23,7 +25,7 @@ Il sito Web del partner Microsoft in partner.microsoft.com è un'esperienza digi
 >[!Note]
 >Anche se la società ha più di un account o una località, il passaggio al centro per i partner inizia con lo spostamento di un account (il primo) nel centro per i partner.
 
-## <a name="get-started"></a>Attività iniziali
+## <a name="get-started"></a>Per iniziare
 
 Lo spostamento inizia in PMC. L'amministratore globale riceverà un invito per iniziare lo spostamento. 
 
@@ -37,7 +39,7 @@ Lo spostamento inizia in PMC. L'amministratore globale riceverà un invito per i
 
 Selezionare **iniziare a usare** l'invito. Verrà eseguita la pagina di accesso al centro per i partner.
 
-![Attività iniziali](images/migration/getstarted.jpg)
+![Per iniziare](images/migration/getstarted.jpg)
 
 ## <a name="start-with-your-work-email"></a>Inizia a usare l'indirizzo di posta elettronica aziendale
 
@@ -68,7 +70,7 @@ Quando viene creato il nuovo tenant di Azure AD, è possibile invitare i dipende
 ![Invitare i dipendenti](images/migration/invite.png)
 
 
-Se è stato eseguito l'accesso con un tenant AAD esistente, i dipendenti si sono spostati. In questo caso, assegnare i ruoli dipendenti, che determinano le operazioni che è possibile eseguire nel centro per i partner. Nota: I ruoli nel centro per i partner sono diversi dai ruoli in PMC. Per altre informazioni, vedere [passaggio da una console di gestione dei partner a](move-pmc-pc-map.md)un altro.
+Se è stato eseguito l'accesso con un tenant AAD esistente, i dipendenti si sono spostati. In questo caso, assegnare i ruoli dipendenti, che determinano le operazioni che è possibile eseguire nel centro per i partner. Nota: i ruoli nel centro per i partner sono diversi dai ruoli in PMC. Per altre informazioni, vedere [passaggio da una console di gestione dei partner a](move-pmc-pc-map.md)un altro.
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Verificare il dominio e diventare un amministratore globale  
 
@@ -91,12 +93,12 @@ Segui il tour del dashboard. Qui è possibile gestire l'appartenenza, aggiungere
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Creare gli account utente](create-user-accounts-and-set-permissions.md)
-- [Assegnare ruoli utente e autorizzazioni](permissions-overview.md)
-- [Gestione dei programmi di appartenenza](renew-mpn-offers.md)
-- [Creare il profilo aziendale dell'azienda](create-a-marketing-profile.md)
-- [Connettersi con i clienti tramite riferimenti](responding-to-referrals.md)
+- [Creare account utente ](create-user-accounts-and-set-permissions.md)
+- [Assegnare autorizzazioni e ruoli utente](permissions-overview.md)
+- [Gestire i programmi dell'iscrizione come membro](renew-mpn-offers.md)
+- [Creare il profilo di business](create-a-marketing-profile.md)
+- [Connettersi con i clienti tramite segnalazioni](responding-to-referrals.md)
 
-## <a name="see-also"></a>Vedere anche
+## <a name="see-also"></a>Vedi anche
 
 - [Guida alla migrazione di più società da PMC al centro per i partner](move-multiple-companies.md)

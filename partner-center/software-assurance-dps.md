@@ -2,28 +2,30 @@
 title: Software Assurance Planning Services nel centro per i partner | Centro per i partner
 ms.topic: article
 ms.date: 01/21/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Iscriversi a Planning Services per fornire la pianificazione pre-distribuzione per i clienti aziendali
 author: LauraBrenner
 ms.author: labrenne
 Keywords: pre-distribuzione, pianificazione, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 18c59996829e592edd1f137d9b19311f34158ef0
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708887"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651624"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Servizi di pianificazione Software Assurance nel centro per i Partner
+# <a name="software-assurance-planning-services-in-partner-center"></a>Servizi di pianificazione Software Assurance nel Centro per i partner
 
-Espandi la tua azienda registrandosi nei programmi di Software Assurance Planning Services. Microsoft compensa i partner per la distribuzione di corsi di formazione, pianificazione e altri servizi ai clienti aziendali con Software Assurance.
+Espandi la tua azienda registrandosi nei programmi di Software Assurance Planning Services. Microsoft ricompensa i partner per la distribuzione di corsi di formazione, pianificazione e altri servizi ai clienti aziendali con Software Assurance.
 
 In qualità di partner di servizi di pianificazione approvato, Microsoft compensa l'utente per fornire impegni di pianificazione pre-distribuzione per i clienti aziendali. La partecipazione a questo programma può essere utile per attirare più clienti, diventare partner di pianificazione attendibile e raggiungere ulteriori impegni con i clienti.
 
 Se non si ha familiarità con i servizi di pianificazione di Software Assurance, vedere [far crescere la propria azienda con i servizi di pianificazione](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx).
 
 
-## <a name="get-started"></a>Attività iniziali
+## <a name="get-started"></a>Per iniziare
 
 Se non si ha familiarità con Software Assurance Planning Services, attenersi alla procedura riportata di seguito. Se è già attivo nei programmi di Planning Services e le informazioni sull'account del partner sono state spostate nel centro per i partner, iniziare dal passaggio 4 (4). 
 
@@ -32,8 +34,8 @@ Se non si ha familiarità con Software Assurance Planning Services, attenersi al
 3. Aggiorna profilo aziendale nella directory partner
 4. Riservare un voucher del cliente 
 5. Completare l'engagement e inviare il report di completamento
-6. Riscattare il voucher 
-7. Richiedi pagamento da Microsoft
+6. Riscatto del voucher 
+7. Richiesta del pagamento a Microsoft
 
 Questo articolo illustra come completare ogni passaggio.
 
@@ -41,7 +43,7 @@ Questo articolo illustra come completare ogni passaggio.
 
 Prima di poter eseguire la registrazione al programma Planning Services, è necessario che l'azienda soddisfi i requisiti di formazione per competenze e conformità e che il consulente leader del coinvolgimento dei clienti soddisfi i requisiti di formazione e di esame tecnico. 
 
-Ogni programma del servizio di pianificazione presenta requisiti di idoneità specifici. Vedere [verificare](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx) la idoneità per ulteriori informazioni sui requisiti di idoneità per la pianificazione dei servizi.
+Ogni programma del servizio di pianificazione presenta requisiti di idoneità specifici. Vedere [verificare la idoneità](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx) per ulteriori informazioni sui requisiti di idoneità per la pianificazione dei servizi.
 
 Seguire questa procedura per visualizzare lo stato di idoneità dell'azienda.
 
@@ -100,8 +102,8 @@ Seguire i passaggi descritti in [gestire i Giustificatori nello strumento di con
 Una volta riservato un voucher, è possibile riscattarlo. 
 
 1. Nell'elenco dei voucher riservati selezionare i voucher che si desidera riscattare. 
-2. Verrà ora visualizzato un elenco di voucher riscattati.
-3. Selezionare le caselle di controllo accanto ai voucher desiderati, quindi fare clic su Riscatta i **voucher selezionati**.
+2. Verrà ora visualizzato un elenco di voucher **riscattati** .
+3. Selezionare le caselle di controllo accanto ai voucher desiderati, quindi fare clic su **Riscatta i voucher selezionati**.
 4. Nella pagina Conferma riscatto del voucher verificare l'accuratezza delle informazioni del voucher, quindi selezionare **Sì** per riscattare il voucher.
 
 5. Per creare un'attestazione, selezionare **Crea un'attestazione**oppure, nella pagina dei dettagli del voucher, selezionare **Crea un'attestazione**.

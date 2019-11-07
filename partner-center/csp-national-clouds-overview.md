@@ -2,17 +2,19 @@
 title: Richiedere di vendere nei cloud nazionali Microsoft | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: I partner Microsoft partecipanti al programma Cloud Solution Provider possono vendere ai clienti registrati nei cloud nazionali supportati.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cloud nazionali, Microsoft Cloud Germania, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud Cina
 ms.localizationpriority: medium
-ms.openlocfilehash: ea4461e187490565172733207dc16c5328ee5ee7
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: aec95e9c453dffef99e65b2c303165ef04c069fd
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134821"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653532"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Richiedere di vendere nei cloud nazionali Microsoft
 
@@ -30,19 +32,19 @@ Microsoft rende disponibili questi servizi nei cloud nazionali:
 
 I partner qualificati possono vendere soluzioni Microsoft Cloud ai clienti in questi cloud nazionali:
 
--   [**Microsoft Cloud per governo degli Stati Uniti** ](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US) progettato per il governo degli Stati Uniti sin dall'inizio, Microsoft Cloud per enti pubblici consente ai clienti di enti pubblici negli Stati Uniti, ovvero da grandi agenzie federali ai governi piccolo Town (città), ovvero a Selezionare un intervallo di servizi di cloud computing. Per rispondere in modo ottimale alle esigenze specifiche dei clienti, Microsoft ha notevolmente investito nei data center ed è dedicata al rispetto della conformità ai criteri, obblighi e requisiti nazionali e federali statunitensi. 
+-   [**Microsoft Cloud per il governo degli Stati Uniti**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US) Progettato per il governo degli Stati Uniti da zero, Microsoft Cloud per enti pubblici consente ai clienti del settore pubblico nell'Stati Uniti, da agenzie federali di grandi dimensioni a governi di piccole città, di scegliere tra una gamma di servizi di cloud computing. Per soddisfare al meglio le esigenze specifiche dei clienti, Microsoft ha effettuato un investimento significativo nei data center ed è dedicato alla conformità con i criteri federali e di stato degli Stati Uniti, i requisiti e i requisiti. 
 
     Per informazioni sulle modalità di iscrizione e di vendita ai clienti in Microsoft Cloud for US Government, vedi [Centro per i partner per Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
--   [**Microsoft Cloud Germany** ](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud Germany offre Azure, Office 365 e Dynamics 365 da Data Center tedeschi tramite un modello univoco. In questo modello, l'accesso ai dati dei clienti è controllato da un trustee dei dati tedesco indipendente che opera in conformità alla legislazione tedesca. T-Systems International GmbH, affiliata di Deutsche Telecom, funge da trustee di dati indipendente per Microsoft Cloud Germania. 
+-   [**Microsoft Cloud Germania**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud Germania offre Azure, Office 365 e Dynamics 365 dai data center tedeschi tramite un modello univoco. In questo modello, l'accesso ai dati dei clienti è controllato da un trustee dei dati tedesco indipendente che opera in conformità alla legislazione tedesca. T-Systems International GmbH, affiliata di Deutsche Telecom, funge da trustee di dati indipendente per Microsoft Cloud Germania. 
 
     > [!IMPORTANT]  
-    > In base all'evoluzione delle esigenze dei clienti, la nostra strategia di cloud in Germania sarà incentrata sulla distribuzione delle nuove aree cloud in Germania in linea con la nostra offerta cloud globale. In questa prospettiva, non verranno più accettati nuovi clienti o distribuiti nuovi servizi dal sistema Microsoft Cloud Germania attualmente disponibile. I clienti esistenti possono continuare a utilizzare i servizi cloud attualmente disponibili la cui manutenzione verrà garantita dai necessari aggiornamenti della sicurezza.
+    > In base all'evoluzione delle esigenze dei clienti, la strategia cloud per la Germania si concentra sulla fornitura delle nuove aree cloud in Germania coerenti con l'offerta cloud globale. In questa prospettiva, non verranno più accettati nuovi clienti o distribuiti nuovi servizi dal sistema Microsoft Cloud Germania attualmente disponibile. I clienti esistenti possono continuare a usare attualmente i servizi cloud attualmente disponibili, che verranno gestiti con gli aggiornamenti della sicurezza necessari.
     >  
     > Da ora in poi, i nuovi clienti hanno la possibilità di utilizzare le aree geografiche europee attualmente disponibili o le nuove aree in Germania quando diventano disponibili. Per ulteriori informazioni, vedi l'articolo [Microsoft to deliver cloud services from new datacenters in Germany](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 
     
--   [**Office 365 e Azure gestito da 21Vianet in Cina** ](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft fornisce i servizi cloud in Cina tramite una collaborazione unica con Shanghai blu Cloud tecnologia CO. Ltd. (21Vianet), una società interamente controllata da Beijing (Pechino) 21Vianet a banda larga Data Center CO. Ltd. 21Vianet è il provider di Internet carrier indipendente dalla più grande del Data Center, hosting, rete gestita e servizi di infrastruttura in Cina di cloud computing. 
+-   [**Azure e Office 365 gestiti da 21ViaNet in Cina**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft fornisce servizi cloud in Cina grazie a una partnership esclusiva con la tecnologia 21Vianet (Blue Cloud Technology Co., Ltd.), una filiale interamente di proprietà di Beijing 21Vianet Broadband Data Center Co., Ltd. 21Vianet è la più grande rete Internet indipendente dal vettore provider di servizi di Data Center, hosting, rete gestita e infrastruttura cloud computing in Cina. 
 
     Microsoft è il provider della tecnologia, ma non gestisce il servizio. 21Vianet gestisce e amministra la fornitura dei servizi cloud Microsoft in modo indipendente. Concedendo in licenza le tecnologie Microsoft, 21Vianet può offrire servizi di Azure e Office 365 e gestisce data center di Azure e Office 365 che mantengono i dati sul territorio cinese. 21Vianet fornisce inoltre servizi di abbonamento e fatturazione, nonché di supporto.
 

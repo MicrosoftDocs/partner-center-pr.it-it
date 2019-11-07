@@ -2,17 +2,19 @@
 title: Offrire supporto per la fatturazione | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Sei tu il responsabile del rapporto di fatturazione con i tuoi clienti e devi rispondere a tutte le domande relative alla fatturazione che i clienti ti invieranno.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fee297df2e768609cf9480370d56e59af5b249a
-ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
-ms.translationtype: HT
+ms.openlocfilehash: 2df2429b37f9260de5f8e1b16a143555bc473760
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "67549510"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654149"
 ---
 # <a name="provide-billing-support"></a>Offrire supporto per la fatturazione
 
@@ -35,9 +37,9 @@ I partner che gestiscono transazioni nel modello CSP sono i consulenti di fiduci
 Per soddisfare il requisito di supporto, il partner può rivendere supporto da un'altra entità, affidare in outsourcing, in toto o in parte, la struttura di supporto e/o impostare una struttura per fornire il supporto direttamente.  Il partner può addebitare in toto o in parte il supporto fornito ai clienti. Il partner deve descrivere ai propri clienti il supporto fornito, gli orari di assistenza e il metodo di contatto, nonché i prezzi (se il supporto viene fornito a pagamento). 
 
 >[!Note]
->Se non si è un provider CSP e domande sulla fatturazione per i clienti, vedere il portale per i prodotti appropriati o servizi specifico.
+>Se non si è un CSP e si hanno domande sulla fatturazione dei clienti, vedere il portale specifico per i prodotti o i servizi appropriati.
 
-I partner devono ricevere le richieste di supporto in arrivo dai clienti, diagnosticare i problemi al meglio delle proprie capacità e risolvere i problemi che rientrano nei limiti del supporto di base. Se il partner non è in grado di risolvere il problema, può inoltrarlo a Microsoft tramite i mezzi di supporto seguenti:
+I partner devono ricevere le richieste di supporto in ingresso dai clienti, diagnosticare i problemi al meglio della capacità del partner e quindi risolvere i problemi che rientrano nell'ambito dei limiti di supporto della linea di base. Se il partner non è in grado di risolvere il problema, può inoltrarlo a Microsoft tramite i mezzi di supporto seguenti:
 
 - Il supporto dei problemi **commerciali** è a disposizione di tutti i partner iscritti al programma CSP
 -   Il supporto dei problemi **tecnici** è disponibile tramite:
@@ -49,10 +51,10 @@ I partner devono ricevere le richieste di supporto in arrivo dai clienti, diagno
 
 Ogni servizio online presenta requisiti specifici e dettagliati per fornire fatturazione, gestione delle sottoscrizioni e supporto tecnico ai clienti. Per altre informazioni, fare riferimento ai documenti seguenti.
 
--   [Dynamics 365 gli abbonamenti venduti tramite il programma CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [Sottoscrizioni di Dynamics 365 vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Sottoscrizioni di Azure vendute attraverso il CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [Sottoscrizioni di Azure vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Le sottoscrizioni di Office 365 venduti attraverso il CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [Abbonamenti Office 365 venduti tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 

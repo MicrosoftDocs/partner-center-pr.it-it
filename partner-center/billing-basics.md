@@ -2,25 +2,27 @@
 title: Panoramica sulla fatturazione | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Informazioni sugli scenari di fatturazione di base e sulle differenze tra fatturazione basata su licenze e utilizzo
 author: LauraBrenner
 ms.author: labrenne
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e13f3d24e649cf17daa1e3218c3376c8fc6e4faa
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820372"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653753"
 ---
 # <a name="billing-overview"></a>Panoramica sulla fatturazione
 
 **Si applica a**
 
 -  Centro per i partner
--  Partner nel programma CSP
+-  Partner aderenti al programma CSP
 
 A seconda dei prodotti, delle soluzioni e dei servizi acquistati per conto dei clienti, verranno addebitati i costi per questi acquisti in uno o più dei modi seguenti:
 -   [Fatturazione basata su licenza](#licensebasedbilling)
@@ -40,7 +42,7 @@ A seconda dei prodotti, delle soluzioni e dei servizi acquistati per conto dei c
 Se si è scelto di fatturare ogni mese o se sono stati acquistati prodotti basati sull'utilizzo fatturati mensilmente, la data di fatturazione mensile è il giorno del mese selezionato al momento della creazione dell'account CSP nel centro per i partner. Dopo aver creato l'account CSP, Microsoft invierà un messaggio di posta elettronica di conferma che include la data di fatturazione. Una volta creata, la data non può essere modificata. 
 
 ## <a name="pricing-and-invoicing"></a>Prezzi e fatturazione
-I listini prezzi sono disponibili con un (1) mese di anticipo, dato che vengono aggiornati mensilmente. I prezzi in base alle licenze sono garantiti per l'intera durata della sottoscrizione, in genere 12 mesi dalla data di acquisto. I prezzi in base all'uso possono variare di mese in mese. 
+I listini prezzi sono disponibili con un (1) mese di anticipo, dato che vengono aggiornati mensilmente. I prezzi in base alle licenze sono garantiti per l'intera durata dell'abbonamento, in genere 12 mesi dalla data di acquisto. I prezzi in base all'uso possono variare di mese in mese. 
 
 I prezzi per i prodotti, i servizi e le sottoscrizioni software sono garantiti tramite la durata della sottoscrizione, tuttavia i prezzi possono variare quando si rinnova.
 
@@ -109,7 +111,7 @@ Alcuni prodotti e servizi Microsoft usano un modello di fatturazione con pagamen
 
 -   Le tariffe per i servizi a consumo possono variare all'interno del ciclo di fatturazione. 
 
-    -   Aumento prezzo: sono disponibili 30 giorni di preavviso.
+    -   Aumenti di prezzo: è previsto un preavviso di 30 giorni
 
     -   Riduzioni del prezzo: attive dal giorno della modifica.
 
@@ -144,7 +146,7 @@ I crediti di qualsiasi tipo, inclusi quelli per il contratto di servizio, compar
 
 1.  Selezionare **Customers** dal menu centro per i partner.
 
-2.  Nella pagina **Clienti** trova il cliente di cui desideri visualizzare la cronologia ordini e seleziona la freccia giù per espandere il record del cliente. 
+2.  Nella pagina **clienti** individuare il cliente di cui si desidera visualizzare la cronologia degli ordini, quindi selezionare la freccia rivolta verso il basso per espandere il record del cliente. 
 
 3.  Seleziona **Visualizza ordini** per visualizzare la cronologia degli ordini.
 

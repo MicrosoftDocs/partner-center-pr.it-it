@@ -2,17 +2,19 @@
 title: Vendere sottoscrizioni per prodotti del Marketplace commerciale | Centro per i partner
 ms.topic: article
 ms.date: 08/16/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Puoi usare il Centro per i partner per vendere le sottoscrizioni dei clienti per prodotti SaaS (Software as a Service) pubblicati nel Marketplace commerciale da fornitori di software indipendenti (ISV).
 author: JnHs
 ms.author: jenhayes
 keywords: sottoscrizioni, Marketplace, terze parti, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 1338ad86572fad40aabce74688f33f6544a3ec1a
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: bf3ad75f4bac84163efb4a67009a5d4d7f2261d5
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578798"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651634"
 ---
 # <a name="sell-subscriptions-to-commercial-marketplace-products"></a>Vendere sottoscrizioni per prodotti del Marketplace commerciale
 
@@ -29,10 +31,10 @@ Per altre informazioni sul Marketplace commerciale, vedi [Domande frequenti sul 
 
 ## <a name="view-marketplace-offers-and-pricing"></a>Visualizzare le offerte e i prezzi del Marketplace
 
-Per visualizzare tutte le offerte disponibili del Marketplace commerciale, scegli **Marketplace** dal menu di spostamento a sinistra. Per impostazione predefinita, verranno visualizzati i prodotti di tutti i tipi e di tutte le categorie. È possibile filtrare in base al tipo e/o alla categoria oppure usare la casella di ricerca per individuare parole chiave specifiche. Selezionare un prodotto per visualizzare le informazioni sull'editore e gli SKU disponibili, ad esempio se è disponibile un periodo di prova gratuito.
+Per visualizzare tutte le offerte disponibili del Marketplace commerciale, scegli **Marketplace** dal menu di spostamento a sinistra. Per impostazione predefinita, verranno visualizzati i prodotti di tutti i tipi e le categorie. È possibile filtrare in base al tipo e/o alla categoria oppure usare la casella di ricerca per individuare parole chiave specifiche. Selezionare un prodotto per visualizzare le informazioni sull'editore e gli SKU disponibili, ad esempio se è disponibile un periodo di prova gratuito.
 
 > [!NOTE]
-> Alcuni prodotti disponibili nel Marketplace commerciale potrebbero non essere visualizzati qui. Gli ISV possono decidere se offrire o meno i propri prodotti ai partner Cloud Solution Provider (CSP) nel Centro per i partner. Se nel Marketplace commerciale viene visualizzato un prodotto che vuoi offrire ai clienti tramite il Centro per i partner, trova le informazioni per contattare l'editore nella presentazione del prodotto e indica che sei interessato.
+> Alcuni prodotti disponibili nel Marketplace commerciale potrebbero non essere visualizzati qui. Gli ISV possono decidere se offrire o meno i propri prodotti ai partner Cloud Solution Provider (CSP) nel Centro per i partner. Se viene visualizzato un prodotto nel Marketplace commerciale che si vuole offrire ai clienti tramite il centro per i partner, trovare le informazioni di contatto dell'editore nella lista dei prodotti e indicare che si è interessati.
 
 I prezzi per i prodotti del Marketplace commerciale possono variare di frequente. Per ottenere informazioni sui prezzi correnti di tutti i prodotti del Marketplace commerciale, seleziona **Esporta listino prezzi** nell'angolo superiore destro della pagina del **Marketplace**. Verrà generato un foglio di calcolo con tutti i dati relativi ai prezzi. Tali informazioni sui prezzi vengono aggiornate ogni giorno, pertanto potrai controllarle con la stessa frequenza con cui vuoi ottenere i prezzi correnti.
 
@@ -47,7 +49,7 @@ L'acquisto di sottoscrizioni per i prodotti SaaS del Marketplace commerciale seg
 
 Quando si aggiunge una sottoscrizione per un cliente, è possibile scegliere di visualizzare solo le offerte del Marketplace dagli ISV selezionando **partner** nel filtro dell'**Editore**. Per altre informazioni, vedere [Crea una nuova sottoscrizione](create-a-new-subscription.md).
 
-Si noti che alcune offerte visualizzate nella pagina **Marketplace** potrebbero non essere disponibili per un cliente specifico. La disponibilità può essere interessata da diversi fattori, ad esempio se l'ISV supporta il paese/area geografica di fatturazione del cliente.
+Si noti che alcune offerte visualizzate nella pagina **Marketplace** potrebbero non essere disponibili per un cliente specifico. La disponibilità può essere interessata da diversi fattori, ad esempio se l'ISV supporta il paese di fatturazione del cliente.
 
 > [!TIP]
 > Puoi anche possibile usare le [API del Centro per i partner](https://docs.microsoft.com/partner-center/develop/) per creare sottoscrizioni del Marketplace commerciale per i clienti. Per altre informazioni, vedi [Creare una sottoscrizione per i prodotti del Marketplace commerciale](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
@@ -58,7 +60,7 @@ Nel caso di sottoscrizioni per prodotti del Marketplace commerciale, puoi [annul
 
 Per i tipi di offerta SaaS (Software as a Service), l'assegnazione e l'attivazione delle licenze vengono gestite tramite il fornitore di software indipendente (ISV) che ha pubblicato il prodotto. Per completare questo processo, è necessario visitare il sito dell'editore, usando un collegamento personalizzato con un codice di autorizzazione che consente all'autore di identificare l'acquisto specifico. Questo collegamento è disponibile nella pagina di conferma visualizzata dopo l'acquisto di un'offerta SaaS e nella pagina **Sottoscrizioni** (nella riga relativa a tale offerta). Per recuperare il [collegamento, è anche possibile usare le API del Centro per i partner](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
 
-Quando si visita il sito dell'editore usando questo collegamento, verranno visualizzate le informazioni aggiuntive o l'azione necessaria per effettuare il provisioning e l'assegnazione delle licenze o il completamento del processo di installazione. I passaggi necessari possono variare a seconda dell'autore e dell'offerta. L'utente è responsabile dell'invio di eventuali informazioni necessarie (o dell'invio dell'URL al cliente per fornire direttamente queste informazioni). Dopo essere state fornite le informazioni necessarie, il server di pubblicazione effettuerà il provisioning e l'assegnazione delle licenze appropriate. La fatturazione della sottoscrizione avrà inizio solo dopo la corretta assegnazione delle licenze.
+Quando si visita il sito dell'editore usando questo collegamento, verranno visualizzate le informazioni aggiuntive o l'azione necessaria per il provisioning e l'assegnazione delle licenze o il completamento del processo di installazione. I passaggi necessari possono variare a seconda dell'autore e dell'offerta. L'utente è responsabile dell'invio di eventuali informazioni necessarie (o dell'invio dell'URL al cliente per fornire direttamente queste informazioni). Dopo essere state fornite le informazioni necessarie, il server di pubblicazione effettuerà il provisioning e l'assegnazione delle licenze appropriate. La fatturazione della sottoscrizione avrà inizio solo dopo la corretta assegnazione delle licenze.
 
 ## <a name="access-billing-info-for-commercial-marketplace-products"></a>Accedere alle informazioni di fatturazione per i prodotti del Marketplace commerciale
 
@@ -68,7 +70,7 @@ Per altre informazioni, vedere [Informazioni sui tipi di fatturazione nel Centro
 
 ## <a name="provide-support-for-customers-using-commercial-marketplace-products"></a>Fornire supporto ai clienti che usano prodotti del Marketplace commerciale
 
-Esattamente come con i prodotti Microsoft, l'utente dovrebbe continuare a essere il primo contatto per il cliente per altre informazioni sulla gestione della fatturazione e della sottoscrizione. Per ottenere supporto tecnico, è necessario contattare l'editore. Microsoft non fornisce supporto per i prodotti del Marketplace commerciale, ma fornirà le informazioni per contattare il supporto tecnico dell'editore.
+Esattamente come con i prodotti Microsoft, l'utente dovrebbe continuare a essere il primo contatto per il cliente per altre informazioni sulla gestione della fatturazione e della sottoscrizione. Per ottenere supporto tecnico, è necessario contattare l'editore. Microsoft non fornisce supporto per i prodotti commerciali del Marketplace, ma fornirà le informazioni di contatto per il supporto dell'editore.
 
 Per altre informazioni, vedi [Supporto per i prodotti del Marketplace commerciale](https://docs.microsoft.com/partner-center/report-problems-on-behalf-of-a-customer#support-for-commercial-marketplace-products) e [Fornire supporto ai clienti](https://docs.microsoft.com/partner-center/customer-support).
 

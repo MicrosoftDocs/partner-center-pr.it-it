@@ -2,6 +2,8 @@
 title: Insoluti, frodi o uso improprio | Centro per i partner
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Strategie per la gestione dei rischi delle transazioni online, compreso il mancato pagamento da parte del cliente per beni e servizi e l'attività fraudolenta o l'uso improprio.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: frode, uso improprio, uso accettabile, criteri di uso accettabile, mancato pagamento, il cliente non pagherà la fattura, rischio online, furto di servizio, abuso di servizio, sospensione di una sottoscrizione,
@@ -9,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 4cda8426d29fd2bf290cac2d7478bcb08641c5c3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978730"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652968"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Insoluti, frodi o uso improprio
 
@@ -35,7 +37,7 @@ Per evitare e/o affrontare attività fraudolente o l'uso improprio, è important
 
 - **Furto del servizio** I clienti che non hanno intenzione di pagare per i servizi consumati utilizzando strumenti di pagamento rubati, fornendo informazioni di fatturazione false e/o inadempienti sui saldi in sospeso
 
-- **Uso improprio del servizio** I clienti che utilizzano i servizi cloud in violazione dei criteri di utilizzo accettabile di Microsoft
+- **Abuso del servizio** Clienti che usano servizi cloud in violazione dei criteri di utilizzo accettabili di Microsoft
 
 #### <a name="examples-of-possible-fraud-or-service-abuse"></a>Esempi di possibili frodi o uso improprio di servizio
 - Spamming

@@ -2,18 +2,20 @@
 title: Adesione a Microsoft Partner Network | Centro per i partner
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Scopri i vantaggi di diventare partner di Microsoft. Il Microsoft Partner Network ti offre la gamma più ampia di prodotti nel settore, oltre a opzioni di programma per distinguere la tua azienda, passare al mercato e vendere le tue soluzioni.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: partner, partnership, MPN, Microsoft Partner Network, action pack, sottoscrizione di action pack, vantaggi, vantaggi MPN, adesione, silver, gold, competenze
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 109333a4cea7d19ff18708cc55d5c0b87b2bb13f
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 03aab24eab0fdf0ee5e116b033da679b8049a923
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978754"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661152"
 ---
 # <a name="partner-with-microsoft"></a>Diventare partner Microsoft
 
@@ -52,7 +54,7 @@ Per ulteriori informazioni su Action Pack, vedere le risorse seguenti:
 - [Ottenere il Action Pack](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >La sottoscrizione di Action Pack viene gestita nel centro per i partner. Se la società non è ancora stata spostata nel centro per i partner, vedere [preparare il passaggio al centro per i partner](partner-center/prepare-pmc-pc-migration.md)  
+    >La sottoscrizione di Action Pack viene gestita nel centro per i partner. Se la società non è ancora stata spostata nel centro per i partner, vedere [preparare il passaggio al centro per i partner](prepare-pmc-pc-migration.md)  
 
 - [Rinnova le tue offerte MPN](renew-mpn-offers.md)
 

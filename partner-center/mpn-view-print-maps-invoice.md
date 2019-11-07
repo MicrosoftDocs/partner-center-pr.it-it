@@ -2,17 +2,19 @@
 title: Fatture e imposte nella Microsoft Partner Network | Centro per i partner
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Informazioni su come visualizzare, scaricare e stampare la fattura di appartenenza MPN e il file per l'esenzione fiscale e inviare a Microsoft il numero di ID IVA.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Invoice, MAPS, Tax esentad, VAT, VAT ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 42006ee073db1481fffa42b5cc4e3982526cf720
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: 76accd7cd2db254784b260d6fd75ce2e375d729e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73141997"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653038"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Fatture e imposte nella Microsoft Partner Network
 

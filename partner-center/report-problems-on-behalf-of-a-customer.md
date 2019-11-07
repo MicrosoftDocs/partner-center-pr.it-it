@@ -2,18 +2,20 @@
 title: Segnalare problemi per conto di un cliente | Centro per i partner
 ms.topic: article
 ms.date: 08/16/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Se il cliente ha un problema che tu non puoi risolvere e che soddisfa i criteri descritti in Inoltrare i problemi a Microsoft, crea un ticket di supporto.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: richiesta di servizio, ticket di servizio, supporto, diritto al supporto, AOBO, AOBO di Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f01713dcafd0a24c8b7fb5d8a8af33bdf5ff781
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: f0dc490ab72c87ccb1b6aa22aa84a66529820408
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578771"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654119"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Segnalare problemi per conto di un cliente
 
@@ -23,7 +25,7 @@ ms.locfileid: "69578771"
 -  Centro per i partner per Microsoft Cloud for US Government
 
 
-Se il cliente ha un problema con il servizio che tu non puoi risolvere e che soddisfa i criteri descritti in [Inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md), crea un ticket di supporto per conto del cliente. Questo processo è utile anche per inoltrare problemi o controversie correlati alla fatturazione e segnalare possibili frodi.
+Se il cliente ha un problema con il servizio che tu non puoi risolvere e che soddisfa i criteri descritti in [Inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md), crea un ticket di supporto. Questo processo è utile anche per inoltrare problemi o controversie correlati alla fatturazione e segnalare possibili frodi.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Inviare una richiesta di servizio per un cliente
 
@@ -52,11 +54,11 @@ Se il cliente ha un problema con il servizio che tu non puoi risolvere e che sod
 Potresti dover creare una richiesta di supporto per un cliente quando non disponi delle autorizzazioni di amministratore per tale cliente. Ciò potrebbe verificarsi in questi due scenari: 
  
 -   Non hai richiesto privilegi di amministratore quando la relazione è stata stabilita per la prima volta.
--   Gestisci le sottoscrizioni di Azure di un cliente e non altre, per cui non è necessario che tu disponga di autorizzazioni amministrative.
+-   È possibile gestire le sottoscrizioni di Azure di un cliente e non altre, per cui non è necessario disporre di autorizzazioni amministrative.
  
 In entrambi i casi, puoi usare la procedura seguente per creare una richiesta di supporto. 
 
-1. Copia il nome di dominio del cliente dalla pagina relativa all'account nel Centro per i partner.
+1. Copiare il nome di dominio del cliente dalla pagina relativa all'account nel centro per i partner.
 
 2. Passa a https://portal.azure.com/ [nomedominiocliente]. 
 
@@ -67,7 +69,7 @@ In entrambi i casi, puoi usare la procedura seguente per creare una richiesta di
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
-1. Nella sezione **Crea una richiesta di servizio** scegli la categoria dell'argomento di supporto appropriata. Potrebbe essere necessario selezionare **Altro** per visualizzare altri argomenti.    
+1. Nella sezione **Crea una richiesta di servizio** scegli la categoria dell'argomento di supporto appropriata. Per visualizzare altri argomenti, potrebbe essere necessario selezionare **altro...** .    
 2. Compila il modulo della richiesta di servizio e seleziona **Invia**.
 
    > [!TIP]
@@ -77,12 +79,12 @@ In entrambi i casi, puoi usare la procedura seguente per creare una richiesta di
 
 ### <a name="support-for-commercial-marketplace-products"></a>Supporto per prodotti del Marketplace commerciale
 
-Microsoft non fornisce il supporto tecnico per i prodotti del Marketplace commerciale. Dovrai contattare il fornitore di software indipendente (ISV) che ha pubblicato il prodotto per ottenere supporto.
+Microsoft non fornisce il supporto tecnico per i prodotti del Marketplace commerciale. È necessario contattare il fornitore di software indipendente (ISV) che ha pubblicato il prodotto per ottenere supporto.
 
 Per trovare le informazioni di contatto dell'ISV:
 
 1.  Nella pagina**Marketplace** seleziona il prodotto per cui è necessaria assistenza.
-2.  Nella pagina del prodotto saranno disponibili le informazioni di contatto per il supporto tecnico. Puoi trovare una o più informazioni seguenti:
+2.  Nella pagina del prodotto sono disponibili informazioni di contatto per il supporto. Puoi trovare una o più informazioni seguenti:
     - Un collegamento a un punto di ingresso del supporto tecnico nel sito Web dell'ISV
     - Un indirizzo di posta elettronica del supporto tecnico 
     - Un numero di telefono per contattare il supporto tecnico
@@ -103,9 +105,9 @@ I tempi per la risposta iniziale dipendono dalla gravità del problema. La gravi
 
 I tempi per la risposta iniziale per **risolvere problemi legati a guasti di natura tecnica** sono i seguenti:
 
--   Impatto critico (gravità A): 2 ore (perdita o riduzione significativa delle prestazioni dei servizi. Servizi di produzione non funzionanti).
--   Impatto moderato (gravità B): 4 ore (perdita o riduzione moderata delle prestazioni dei servizi. Servizi di produzione parzialmente interessati).
--   Impatto minimo (gravità C): 8 ore (perdita o riduzione minima delle prestazioni dei servizi. Servizi ancora disponibili o impatto su servizi non di produzione).
+-   Impatto critico (gravità A): 2 ore (perdita o riduzione delle prestazioni dei servizi significativa. Servizi di produzione non funzionanti).
+-   Impatto moderato (gravità B): 4 ore (perdita o riduzione delle prestazioni dei servizi moderata. Servizi di produzione parzialmente interessati).
+-   Impatto minimo (gravità C): 8 ore (perdita o riduzione delle prestazioni dei servizi minima. Servizi ancora disponibili o impatto su servizi non di produzione).
 
 I tempi per la risposta iniziale si riferiscono solo al supporto in lingua inglese. Il supporto nella lingua locale viene fornito durante l'orario di ufficio.
 Per richieste che rientrano tra quelle idonee per il supporto ma che non sono considerate in garanzia, il tempo per la risposta iniziale può arrivare fino a un giorno lavorativo.
@@ -126,7 +128,7 @@ Se accedi direttamente all'interfaccia di amministrazione di Office 365, visuali
 
 **Come posso ottenere ulteriore supporto per Dynamics 365?**
 
-Se si verificano problemi correlati a sottoscrizioni, licenze, fatturazione, finanza e operazioni o licenze di prodotto di Dynamics 365 oppure se richiedi ulteriore supporto tecnico:
+Se si verificano problemi relativi a: sottoscrizioni di piano Dynamics 365, licenze, fatturazione, operazioni di & Finanza, licenze del prodotto Dynamics 365 o è necessario ulteriore supporto tecnico:
  
 contatta il [supporto Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

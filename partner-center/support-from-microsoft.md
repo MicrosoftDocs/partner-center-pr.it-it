@@ -2,17 +2,19 @@
 title: Supporto da Microsoft | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Quando si verificano problemi con un servizio Microsoft o con il Centro per i partner, puoi inoltrare la richiesta di assistenza a Microsoft e tenere traccia del problema fino a quando non viene risolto.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e2c191b974347aed5716629e53b7d6f99700b7c
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: acc7d380ce5323c9d85859a5aa766c3c166622dc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133870"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651571"
 ---
 # <a name="support-from-microsoft"></a>Supporto da Microsoft
 
@@ -32,7 +34,7 @@ Se si verificano problemi con un servizio Microsoft o con il Centro per i partne
 
 [Ottenere notifiche automatizzate per i servizi con le API Microsoft](get-automated-service-notifications-with-our-apis.md)
 
-[Supporto per i vantaggi di Microsoft](https://partner.microsoft.com/support/contact-support)
+[Supporto per i vantaggi Microsoft](https://partner.microsoft.com/support/contact-support)
 
  
 

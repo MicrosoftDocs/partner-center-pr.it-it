@@ -2,17 +2,19 @@
 title: Gestire i vantaggi del Microsoft Partner Network | Centro per i partner
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: In qualità di membro del Microsoft Partner Network, hai il diritto di acquistare alcuni vantaggi. Viene illustrato come attivare e gestire i vantaggi associati al centro per i partner.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, vantaggi dell'adesione, adesione
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f958bf9fceb9f11edbd63b139796e4944486310
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: be9f4ab4bc23308c3f2a342e6debba1338de4454
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413323"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653319"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gestire i vantaggi dell'adesione al Microsoft Partner Network
 
@@ -35,7 +37,7 @@ Dopo avere acquistato un pacchetto di vantaggi dell'adesione, dovrai ottenere le
 
 I pacchetti di vantaggi includono le allocazioni di software concesso in licenza, servizi cloud, sottoscrizioni di Visual Studio e supporto. I pacchetti dei vantaggi possono includere anche alcuni vantaggi per la commercializzazione. Puoi ottenere i dettagli delle sottoscrizioni di Action Pack sul sito [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Per visualizzare e gestire tutti i vantaggi dell'abbonamento, visitare la pagina dei [ **vantaggi** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (accesso richiesto). In alternativa, è possibile accedere al [Dashboard](https://docs.microsoft.com/en-us/partner-center/)del centro per i partner, selezionare l'**opzione [benefits**] dal menu a sinistra e quindi selezionare le opzioni dei vantaggi visualizzate.  
+Per visualizzare e gestire tutti i vantaggi dell'abbonamento, visitare la pagina dei [ **vantaggi** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (accesso richiesto). In alternativa, è possibile accedere al [Dashboard](https://docs.microsoft.com/partner-center/)del centro per i partner, selezionare l'**opzione [benefits**] dal menu a sinistra e quindi selezionare le opzioni dei vantaggi visualizzate.  
 
 #### <a name="manage-software-benefits"></a>Gestire i vantaggi software
 
@@ -108,6 +110,7 @@ Per visualizzare e gestire tutti i vantaggi dell'abbonamento, visitare la pagina
 
 - Amministratore globale
 - Amministratore partner MPN
+
 
 1. Selezionare **vantaggi per l'immissione sul mercato** per visualizzare l'elenco dei vantaggi offerti da Microsoft go-to-Market.
 

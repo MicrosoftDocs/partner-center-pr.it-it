@@ -2,17 +2,19 @@
 title: Passaggio dal Partner Membership Center al Centro per i partner | Centro per i partner
 ms.topic: article
 ms.date: 06/14/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Comprendere le differenze e le analogie tra Partner Membership Center e Centro per i partner
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: medium
-ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 9a6beaa331d762f47530441a91dc203ed01c78e2
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921471"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653273"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Passaggio dal Partner Membership Center al Centro per i partner
 
@@ -32,7 +34,7 @@ Questa tabella illustra alcune delle differenze tra Partner Membership Center e 
 
 |**PMC**   |**Centro per i partner**|
 |----------------------|:-----------------------------|
-|Sedi centrali e ubicazioni, valutati separatamente. Valutazione delle competenze eseguita a livello locale|Una società globale, l'account globale del partner (PGA), incluse le ubicazioni, valutato nel suo complesso; dati sulle prestazioni e sulle competenze aggregati a livello di PGA; include diverse visualizzazioni profilo per i programmi quali Profilo partner e Profilo aziendale per le segnalazioni e il marketing. Per altre informazioni, vedi [Struttura degli account nel Centro per i partner](https://docs.microsoft.com/partner-center/account-structure.md)|
+|Sedi centrali e posizioni, ciascuna valutata separatamente. Valutazione delle competenze eseguita a livello locale|Una società globale, l'account globale del partner (PGA), incluse le ubicazioni, valutato nel suo complesso; dati sulle prestazioni e sulle competenze aggregati a livello di PGA; include diverse visualizzazioni profilo per i programmi quali Profilo partner e Profilo aziendale per le segnalazioni e il marketing. Per altre informazioni, vedi [Struttura degli account nel Centro per i partner](https://docs.microsoft.com/partner-center/account-structure.md)|
 
 ## <a name="sign-in"></a>Accesso
 
@@ -84,7 +86,7 @@ Questa tabella illustra alcune delle differenze tra Partner Membership Center e 
 |Strumento per la convalida e il riscatto dei voucher| Strumento per la convalida e il riscatto dei voucher|
 |           |Programmi Cloud Solution Provider|
 
-I benefit Visual Studio allocati agli account Microsoft verranno onorati e mantenuti. Verranno conservati anche dopo il rinnovo nel Centro per i partner. Tuttavia, se si rimuove l'allocazione a un account Microsoft una volta eseguita la migrazione nel Centro per i partner, non sarà possibile aggiungerla nuovamente nel Centro per i partner.
+I benefit Visual Studio allocati agli account Microsoft verranno onorati e mantenuti. Verranno conservati anche dopo il rinnovo nel Centro per i partner. Tuttavia, se si rimuove un'allocazione di MSA una volta eseguita la migrazione nel centro per i partner, non sarà possibile aggiungerla nuovamente al centro per i partner.
 
 Nel Centro per i partner un partner può aggiungere account aziendali e account utente guest, che sono account Microsoft dello stesso tenant in cui il partner è amministratore MPN nel tenant di Azure AD. Se il partner è amministratore globale in più tenant di Azure AD e tutti questi tenant sono associati allo stesso account del Centro per i partner, il partner può aggiungere utenti di tutti questi tenant ai benefit Visual Studio e alle allocazioni in base all'uso di Azure.
 

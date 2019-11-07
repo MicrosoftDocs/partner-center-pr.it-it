@@ -2,16 +2,18 @@
 title: Creare un account del Centro per i partner | Centro per i partner
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: I membri del programma Microsoft Partner Network devono creare gli account del Centro per i partner per gestire i vantaggi e le competenze di rete e creare un profilo aziendale.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f69dc6239c1ad11821baac269903ad819901ac7e
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: e1497003ef9ca08b61f0ae752eab654dc40b6997
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73141962"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653269"
 ---
 # <a name="create-a-partner-center-account"></a>Creare un account nel Centro per i partner
 
@@ -24,7 +26,7 @@ Prima di poter creare un account nel Centro per i partner o iscriversi a un prog
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
-Per creare un account nel Centro per i partner occorrono le informazioni seguenti. Prima di iniziare, è consigliabile dedicare qualche minuto alla raccolta di questi elementi:
+Per creare un account nel centro per i partner, è necessario avere a disposizione le informazioni seguenti. Prima di iniziare, è consigliabile dedicare qualche minuto alla raccolta di questi elementi:
 
 -   Posta elettronica dell'amministratore globale.
 
@@ -32,9 +34,9 @@ Per creare un account nel Centro per i partner occorrono le informazioni seguent
 
 -   Nome e indirizzo aziendale legali della società.  
 
--   Autorità per firmare i contratti legali. Assicurarsi di essere autorizzato a firmare contratti legali per conto dell'organizzazione, poiché questa operazione verrà richiesta durante il processo di registrazione.
+-   Autorità per firmare i contratti legali. Assicurarsi di essere autorizzati a firmare contratti legali per conto dell'azienda, in quanto verrà richiesto durante il processo di registrazione.
 
--   Nome e indirizzo di posta elettronica aziendale della persona che sarà il contatto principale. Per garantire la sicurezza e la privacy dell'organizzazione, invieremo un'e-mail al contatto principale per verificare che (1) abbia effettuato la registrazione per ottenere un account del Centro per i partner e che (2) l'indirizzo di posta elettronica appartenga all'organizzazione. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueremo le verifiche delle informazioni fornite.
+-   Nome e indirizzo di posta elettronica aziendale della persona che sarà il contatto principale. Per garantire la sicurezza e la privacy dell'azienda, verrà inviato un messaggio di posta elettronica al contatto principale per verificare che (1) abbia effettuato l'iscrizione per un account del centro per i partner e che (2) questo indirizzo di posta elettronica appartenga all'azienda. Dopo che il contatto principale ha verificato il proprio indirizzo di posta elettronica, continueremo a esaminare le informazioni fornite.
 
 Queste informazioni verranno verificate durante il processo di creazione dell'account. 
  
@@ -46,22 +48,22 @@ Queste informazioni verranno verificate durante il processo di creazione dell'ac
 
     Se la società dispone di un account di posta elettronica aziendale, selezionare **Accedi**. Nella pagina successiva, immettere le credenziali di amministratore globale per l'account aziendale della società. 
 
-    Se la società non dispone di un account aziendale, selezionare **Creane uno** per configurarne uno ora. Dopo aver creato un account aziendale, accedere con le credenziali di amministratore globale per l'account di lavoro appena creato.
+    Se la società non dispone di un account di lavoro, selezionare **crearne** una per configurarne una. Dopo aver creato un account aziendale, accedere con le credenziali di amministratore globale per l'account di lavoro appena creato.
 
-3.  Fornire o aggiornare il profilo legale dell'organizzazione e le informazioni sul contatto principale, quindi selezionare **Registrati ora**. 
+3.  Fornire o aggiornare il profilo aziendale legale e le informazioni di contatto primarie dell'azienda, quindi selezionare **Registra ora**. 
 
     Il contatto principale deve essere la persona all'interno dell'organizzazione da contattare relativamente alla richiesta (può trattarsi dell'utente o di un'altra persona all'interno dell'organizzazione). Useremo queste informazioni anche per verificare che questa persona lavori presso l'organizzazione e che abbia effettuato la registrazione per ottenere un account del Centro per i partner.
 
     > [!IMPORTANT]  
-    > Per garantire la sicurezza e la privacy dell'organizzazione, invieremo un'e-mail al contatto principale per verificare che (1) abbia effettuato la registrazione per ottenere un account del Centro per i partner e (2) che l'indirizzo di posta elettronica appartenga all'organizzazione. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueremo le verifiche delle informazioni fornite.
+    > Per garantire la sicurezza e la privacy dell'azienda, verrà inviato un messaggio di posta elettronica al contatto principale per verificare che (1) abbia effettuato l'iscrizione per un account del centro per i partner e (2) che l'indirizzo di posta elettronica appartenga all'azienda. Dopo che il contatto principale ha verificato il proprio indirizzo di posta elettronica, continueremo a esaminare le informazioni fornite.
 
 4.  Leggere e accettare le condizioni del contratto del Microsoft Partner Network. 
 
-5.  Verificare di essere stati aggiunti al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, è necessario disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attenersi alla procedura seguente:
+5.  Verificare di essere stati aggiunti al gruppo di agenti di amministrazione. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, è necessario disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attenersi alla procedura seguente:
 
     a. Dal [Dashboard](https://partner.microsoft.com/dashboard/home**)del centro per i partner selezionare l'icona **delle impostazioni** e quindi selezionare **Gestione utenti**.  
 
-    b. Selezionare il nome nell'elenco degli utenti e quindi **Agente amministratore** se non già selezionato. Seleziona **Aggiorna**.  
+    b. Selezionare il nome dall'elenco utenti, quindi selezionare **agente di amministrazione** , se non è già selezionato. Seleziona **Aggiorna**.  
 
 ## <a name="next-steps"></a>Passaggi successivi
 

@@ -2,17 +2,19 @@
 title: Usare i file di riconciliazione | Centro per i partner
 ms.topic: article
 ms.date: 07/08/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Per una visualizzazione dettagliata delle voci di ogni addebito in un ciclo di fatturazione, scaricare i file di riconciliazione dal centro per i partner.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
-ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "71931573"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653980"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -71,7 +73,7 @@ I partner nel modello indiretto possono usare questi campi aggiuntivi sia nei fi
 <p>ID MPN del rivenditore nel record per la sottoscrizione. Corrisponde all'ID rivenditore elencato per la sottoscrizione specifica nel Centro per i partner.</p>
 <p>eTo visualizzare o aggiornare il rivenditore, dal menu centro per i partner selezionare <strong>Customers</strong>, quindi scegliere il cliente dall'elenco. Nel menu del cliente seleziona <strong>Sottoscrizioni</strong> e quindi scegli la sottoscrizione nell'elenco. Seleziona <strong>Aggiorna</strong> per modificare il valore <strong>Rivenditore (ID MPN)</strong>.</p>
 <p>Se un partner CSP ha venduto la sottoscrizione direttamente al cliente, il relativo ID MPN è elencato due volte, sia come ID MPN che come ID MPN del rivenditore.</p>
-<p>Se per un partner CSP è presente un rivenditore senza ID MPN, il valore viene impostato sull'ID MPN del partner.</p>
+<p>Se un partner CSP ha un rivenditore senza ID MPN, questo valore viene impostato invece sull'ID MPN del partner.</p>
 <p>Se il partner CSP rimuove un ID rivenditore, il valore verrà impostato su -1.</p></td>
 </tr>
 </tbody>
@@ -342,8 +344,8 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td>ServiceType</td>
 <td><p>Tipo specifico di servizio di Microsoft Azure.</p></td>
 <td><ul>
-<li>Service Bus – Individual o Pack</li>
-<li>SQL Azure database – Business o Web Edition</li>
+<li>Bus di servizio-singolo o Pack</li>
+<li>SQL Azure database-Business o Web Edition</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -464,7 +466,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>Numero di connessioni ServiceBus di cui è stato eseguito il provisioning e usate in un determinato giorno.</p></td>
-<td>Ad esempio, con una connessione fornita a livello singolo per un periodo di un mese di 30 giorni, Service Info 1 è "1.000000 Connections / 30 days". Se hai un pacchetto da 25 connessioni ServiceBus e ne hai utilizzata 1 per quel giorno, l'uso giornaliero registrato sarà "25 Connections / 30 Days – Used: 1.000000".</td>
+<td>Ad esempio, se si dispone di una connessione di cui è stato effettuato il provisioning individualmente durante un mese di 30 giorni, Service Info 1 leggerà "1,000000 connessioni/30 giorni". Se è stato effettuato il provisioning di un pacchetto di 25 connessioni ServiceBus e l'utilizzo di 1 durante tale giorno, l'utilizzo giornaliero per quel giorno indicherebbe "25 connessioni/30 giorni-usato: 1,000000".</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -561,7 +563,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="odd">
 <td>AvailabilityId</td>
-<td><p>ID di una disponibilità particolare. "Disponibilità" indica se una determinata SKU è disponibile per l'acquisto per il paese, la valuta, il segmento specificato e così via.</p></td>
+<td><p>ID di una disponibilità particolare. "Disponibilità" indica se un particolare SKU è disponibile per l'acquisto per il paese, la valuta, il segmento di settore e così via.</p></td>
 </tr>
 
 <tr class="even">
@@ -746,7 +748,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 
 <tr class="even">
 <td>AvailabilityId</td>
-<td><p>ID di una disponibilità particolare. "Disponibilità" indica se una determinata SKU è disponibile per l'acquisto per il paese, la valuta, il segmento specificato e così via.</p></td>
+<td><p>ID di una disponibilità particolare. "Disponibilità" indica se un particolare SKU è disponibile per l'acquisto per il paese, la valuta, il segmento di settore e così via.</p></td>
 </tr>
 
 <tr class="odd">
@@ -764,7 +766,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td><p>ID del server di pubblicazione in formato GUID. Non disponibile per l'attività corrente.</p></td>
 </tr>
 
-<tr class=”even">
+<tr class="even">
 <td>Descrizione della sottoscrizione</td>
 <td><p>Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. Questo è un campo identico a Nome offerta.</p></td>
 </tr>
@@ -910,7 +912,7 @@ La fattura fornisce un riepilogo degli addebiti, mentre il file di riconciliazio
 
 Per effettuare il riferimento incrociato degli importi di addebito tra la fattura e il file di riconciliazione, puoi utilizzare le opzioni di filtro di Microsoft Excel per filtrare per tipi di addebito nel file di riconciliazione per eseguire il mapping degli addebiti in fattura a un set di suddivisioni dettagliate nel file di riconciliazione.
 
-I file di riconciliazione, sia basati sull'utilizzo che basati su licenza, mostrano solo transazioni e addebiti correlati all'utilizzo (unità consumate e costi correlati). Sconti, rimborsi o crediti una tantum che vengono visualizzati nella fattura come "Rettifiche" non vengono visualizzati nel file di riconciliazione.
+I file di riconciliazione, sia basati sull'utilizzo che basati su licenza, mostrano solo transazioni e addebiti correlati all'utilizzo (unità consumate e costi correlati). Uno sconto sui crediti, gli sconti o i rimborsi visualizzati nella fattura come "rettifiche" non vengono visualizzati nel file di riconciliazione.
 
 Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e i tipi di addebito associati che possono apparire nei file di riconciliazione. 
 
@@ -962,7 +964,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 </tr>
 <tr>
 <td>
-<p>Istanza del ciclo rateizzata</p>
+<p>Ripartizione dell'istanza del ciclo</p>
 </td>
 <td>
 <p>Tariffe rateizzate calcolate dal cliente in caso di modifica delle postazioni associate</p>
@@ -978,7 +980,7 @@ Nella tabella seguente sono illustrati i mapping tra una sezione della fattura e
 </tr>
 <tr>
 <td>
-<p>Rateizza le tariffe all'acquisto</p>
+<p>Ripartizione delle tariffe all'acquisto</p>
 </td>
 <td>
 <p>Tipo di addebito per una sottoscrizione quando si usa la fatturazione annuale</p>

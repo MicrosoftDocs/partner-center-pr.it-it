@@ -1,6 +1,8 @@
 ---
 title: Analizzare l'utilizzo di Azure | Centro per i partner
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Usare il centro per i partner per ottenere i dati sull'utilizzo delle sottoscrizioni di Azure dei clienti.
 author: LauraBrenner
 ms.author: labrenne
@@ -9,16 +11,16 @@ ms.topic: article
 keywords: dati aziendali
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0cdf48f959591f11994b0538532fadbcb4f11a89
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781977"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653374"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Ottenere i dati sull'utilizzo delle sottoscrizioni di Azure dei clienti
 
-Si applica a
+Si applica a:
 
 - Centro per i partner
 
@@ -31,9 +33,9 @@ Ci stiamo occupando delle seguenti metriche:
 
 ## <a name="summary"></a>Riepilogo
 
-- **Totale sottoscrizioni di Azure vendute**: Numero di sottoscrizioni vendute nel periodo di tempo specificato  
-- **Clienti con utilizzo**: Numero di clienti con utilizzo di Azure nel periodo di tempo specificato  
-- **Clienti senza utilizzo**: Numero di clienti senza utilizzo di Azure nel periodo di tempo specificato  
+- **Totale sottoscrizioni di Azure vendute**: numero di sottoscrizioni vendute nel periodo di tempo specificato  
+- **Clienti con utilizzo**: numero di clienti con l'utilizzo di Azure nel periodo di tempo specificato  
+- **Clienti senza utilizzo**: numero di clienti senza l'utilizzo di Azure nel periodo di tempo specificato  
 
 ## <a name="top-5-customers-in-category"></a>Primi 5 clienti nella categoria
 
@@ -49,8 +51,8 @@ Questa sezione indica il rischio di varianza stimato per le sottoscrizioni di Az
 
 ## <a name="azure-subscription-churn"></a>Abbandono sottoscrizione di Azure
 
-- **Sottoscrizioni attive**: Numero di sottoscrizioni attive per data  
-- **Sottoscrizioni**con provisioning: Numero di sottoscrizioni sottoposte a provisioning o sospese per data  
+- **Sottoscrizioni attive**: numero di sottoscrizioni attive per data  
+- **Sottoscrizioni sottoposte a deprovisioning**: numero di sottoscrizioni sottoposte a deprovisioning o sospese per data  
 
 ## <a name="customer-count"></a>Numero clienti
 

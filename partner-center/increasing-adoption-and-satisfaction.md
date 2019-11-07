@@ -2,19 +2,21 @@
 title: Migliorare i tassi di adozione e soddisfazione | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: I nostri partner usano molte metriche per valutare la crescita delle loro attività e decidere dove concentrare gli investimenti. Il Centro per i partner può essere di aiuto fornendo dati che indicano se e come i clienti usano le licenze acquistate.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b188ff4c859d91d58ba27700de9853df375950ec
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b143a97afb65b1444831152e40eaccb90580dc05
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134491"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653342"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>Migliorare i tassi di adozione e soddisfazione
+# <a name="increase-adoption-and-satisfaction"></a>Migliorare adozione e soddisfazione
 
 **Si applica a**
 
@@ -32,11 +34,11 @@ Puoi vedere i dati per tutti i tuoi clienti tramite il programma Cloud Solution 
 
 **Per un singolo cliente**
 
--   Selezionare **clienti** dalle **Partner Center**, scegliere un cliente, quindi selezionare **Customer insights**.
+-   Selezionare **Customers** dal **centro**per i partner, scegliere un cliente, quindi selezionare **Customer Insights**.
 
-**Nella raccolta dei progetti**
+**Nel portfolio**
 
-1.  Nel **Centro per i Partner**, selezionare **Analizza**.
+1.  Nel centro per i **partner**selezionare **analizza**.
 2.  Scarica i dati di distribuzione e utilizzo per l'intero set dei tuoi clienti selezionando le opzioni per l'**esportazione**.
 
 Terminologia:
@@ -62,7 +64,7 @@ Terminologia:
 ## <a name="next-steps"></a>Passaggi successivi
 
 
-Se ricevi molte richieste di assistenza e domande relative alle procedure, il numero di adozioni per il tuo account sono poche o cerchi opportunità di upsell, puoi considerare l'idea di offrire dei corsi di formazione. Insegnando ai tuoi clienti come usare al meglio il software per soluzioni cloud acquistato, probabilmente riscontrerai un aumento dei livelli di produttività e soddisfazione e una riduzione delle richieste di assistenza.
+Se si stanno mettendo in pratica un numero elevato di informazioni e procedure, i numeri di adozione per l'account sono bassi o si stanno cercando opportunità di vendita, è consigliabile prendere in considerazione l'offerta di corsi di formazione. Insegnando ai clienti come usare al meglio il software della soluzione cloud acquistato, è più probabile che si possa riscontrare un aumento della produttività e della soddisfazione e una riduzione delle esigenze di supporto.
 
 <table>
 <colgroup>
@@ -70,14 +72,14 @@ Se ricevi molte richieste di assistenza e domande relative alle procedure, il nu
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problema:</strong> La frequenza di adozione di utente è bassa e molte sono le licenze&#39;t in uso.</p>
-<p><strong>Aspetti da considerare:</strong> I clienti potrebbero non riconoscere il valore che può fornire il software. Devi aiutarli a capire i modi in cui possono usarlo durante le loro giornate per semplificare attività che già svolgono o per promuovere nuovi modi per essere produttivi.</p>
-<p><strong>Operazioni da provare:</strong> Case study, testimonianze su scenari specifici, esercitazione blog o video.</p></td>
+<td><p><strong>Problema:</strong> Il tasso di adozione utente è basso e molte licenze&#39;non vengono usate.</p>
+<p><strong>Aspetti da considerare</strong>: è possibile che i clienti non comprendano il valore offerto dal software. Hanno bisogno di aiuto per la progettazione dei modi in cui possono incorporarla nel giorno per semplificare le attività che stanno già facendo o per abilitare nuovi tipi di produttività.</p>
+<p><strong>Cosa provare:</strong> case study, testimonianze degli utenti su scenari specifici, blog esplicativi o video.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Problema:</strong> È un volume elevato di chiamate al supporto per domande di Guida e procedure.</p>
-<p><strong>Aspetti da considerare:</strong> I clienti potrebbero essere nuovi per il software, alla versione del prodotto o per la propria attività.</p>
-<p><strong>Operazioni da provare:</strong> È possibile usare una strategia di doppia di offrire formazione su (di persona oppure online) per aumentare cliente&#39;s esperienza complessiva, migliorando anche alcune delle opzioni self-service disponibile per i clienti.</p>
+<td><p><strong>Problema</strong>: il volume delle richieste di assistenza e delle domande relative alle procedure è elevato.</p>
+<p><strong>Aspetti da considerare:</strong> è possibile che i clienti non conoscano il software, la versione del prodotto oppure le attività da svolgere.</p>
+<p><strong>Cosa provare:</strong> È possibile utilizzare una doppia strategia di offerta di formazione (in persona o in linea) per&#39;aumentare la perizia complessiva dei clienti, ma anche per promuovere alcune delle opzioni self-service disponibili per i clienti.</p>
 <p>È consigliabile riprogettare il tuo sito di supporto in modo da includere anche le opzioni self-service descritte nell'argomento <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Supporto in autonomia dei clienti</a>, oltre alle tue informazioni di contatto del supporto tecnico.</p></td>
 </tr>
 </tbody>

@@ -2,18 +2,20 @@
 title: Creare, sospendere o annullare le sottoscrizioni dei clienti | Centro per i partner
 ms.topic: article
 ms.date: 08/16/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 Keywords: sottoscrizione, creare nuova, aggiungere sottoscrizione, sospendere, annullare, sospensione
 ms.localizationpriority: medium
-ms.openlocfilehash: a79260cf2be62a5cd3d5a340f6c363ebe0200b76
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: 764936d8025cd4aa18e1909a8da2b288c8381a37
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578785"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653595"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
@@ -35,9 +37,9 @@ Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elen
 2. Seleziona **Aggiungi sottoscrizione**.
 
 3. Per visualizzare solo determinati tipi di sottoscrizioni, effettua le selezioni nei filtri disponibili:
-   - **Editore**: scegli **Microsoft** per visualizzare solo le offerte di Microsoft oppure **Partner** per visualizzare i prodotti del Marketplace commerciale pubblicati dagli ISV.
-   - **Tipo di fatturazione**: seleziona il tipo di fatturazione della sottoscrizione che vuoi usare, ovvero **Licenza** o **Uso**. Vedi [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md) per informazioni che ti aiuteranno a decidere tra la frequenza di fatturazione mensile e annuale.
-   - **Categoria**: scegli **Grande azienda**, **Azienda di piccole dimensioni** o **Versione di valutazione**. Per informazioni sulle sottoscrizioni di versioni di valutazione, vedi [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+   - **Autore**: scegliere **Microsoft** per visualizzare solo le offerte di Microsoft o il **partner** per vedere i prodotti commerciali del Marketplace pubblicati dagli ISV.
+   - **Tipo di fatturazione**: selezionare il tipo di fatturazione per la sottoscrizione che si vuole usare: **licenza** o **utilizzo**. Vedi [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md) per informazioni che ti aiuteranno a decidere tra la frequenza di fatturazione mensile e annuale.
+   - **Categoria**: scegliere **Enterprise**, **Small Business**o **Trial**. Per informazioni sulle sottoscrizioni di versioni di valutazione, vedi [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 4. Seleziona i prodotti per i quali vuoi acquistare le sottoscrizioni. I prodotti visualizzati dipendono dal tipo di segmento del cliente (Istruzione, Pubblica amministrazione e così via) e dai filtri applicati. Se un prodotto non è disponibile, è possibile che il cliente disponga già di una sottoscrizione per il prodotto in questione e che ne sia consentita solo una. In alternativa, è possibile che tu abbia sospeso la sottoscrizione, nel qual caso puoi riattivarla invece di acquistarne una nuova.
 

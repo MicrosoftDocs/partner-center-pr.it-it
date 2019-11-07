@@ -2,17 +2,19 @@
 title: Guida alla migrazione di più aziende da PMC al Centro per i partner | Centro per i partner
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Cosa è importante sapere quando si esegue la migrazione di più aziende da PMC al Centro per i partner
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: medium
-ms.openlocfilehash: c0a03412a9b72c3e4c7784511720ea716f6f3abf
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958759"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654350"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Trasferimento di più aziende al Centro per i partner
 
@@ -20,7 +22,7 @@ Quando si trasferisce l'account aziendale da PMC a Centro per i partner, è poss
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>Trasferire gli account aggiuntivi nel Centro per i partner 
 
-Poiché è stato trasferito un account aziendale già in PC, quando si esegue l'accesso verrà indicato quale account è già presente nel Centro per i partner. 
+Poiché è stato spostato un account aziendale già in PC, quando si esegue l'accesso si indica quale account è già presente nel centro per i partner. 
 
 
 Se, dopo la migrazione, si scopre che l'account aziendale errato è stato designato come azienda legale, è possibile modificarlo.

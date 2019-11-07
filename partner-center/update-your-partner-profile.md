@@ -1,19 +1,15 @@
 ---
-title: Verificare il profilo partner | Centro per i partner
-description: La prima volta che si accede come amministratore, assicurarsi che i dettagli di supporto siano corretti, registrare le esenzioni fiscali se appropriato e controllare le informazioni sul contatto nei profili.
-MS.Topic: article
-Date: 08/06/2019
-ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
-author: LauraBrenner
-ms.author: labrenne
-ms.localizationpriority: medium
-ms.openlocfilehash: 6a8e8e85650306c67130fcd91dcbdb40f2d9498b
-ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
-ms.translationtype: HT
+ms.openlocfilehash: 496bf935432f46b9fe12a946c956071606e34d58
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "68860961"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653983"
 ---
+ms. Service: partner-dashboard ms. sottoservizio: partnercenter-CSP Description: la prima volta che si firma come amministratore, assicurarsi che i dettagli del supporto siano corretti, esenzioni fiscali per i file, se appropriato, ed esaminare le informazioni di contatto nei profili.
+MS. Argomento: data dell'articolo: 08/06/2019 ms. AssetID: B7FCD670-465F-443A-A80C-4E83B74E2D1E autore: LauraBrenner ms. Author: labrenne ms. localizationpriority: Medium
+---
+
 # <a name="verify-your-partner-profile"></a>Verificare il profilo partner
 
 La prima volta che si accede al Centro per i partner come amministratore globale, assicurarsi che tutti i dettagli aziendali come il contatto principale, il nome e l'indirizzo aziendale legali e le informazioni sul programma siano stati aggiunti correttamente. Se la società ha più di una località, verificare l'accuratezza dei dati della località. Come amministratore globale, amministratore fatturazione o agente di amministrazione, sarà possibile visualizzare e aggiornare le informazioni di fatturazione e fiscali. 

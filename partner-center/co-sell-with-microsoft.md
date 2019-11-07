@@ -2,18 +2,20 @@
 title: Co-selling con Microsoft | Centro per i partner
 ms.topic: article
 ms.date: 07/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: I partner Microsoft qualificati hanno la possibilità di co-selling con Microsoft. Questa collaborazione consente di adottare soluzioni sul mercato, guidare i ricavi Uniti e garantire il successo dei clienti.
 author: JnHs
 ms.author: jenhayes
 keywords: segnalazione, richiesta di informazioni, Trova un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cda97f98e4d050ff4a48f78760518eb6f5b22cd4
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
-ms.translationtype: HT
+ms.openlocfilehash: e24475dfcad3b5a6732233aeafb6761e9a91e099
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67856486"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653672"
 ---
 # <a name="co-sell-with-microsoft"></a>Co-selling con Microsoft
 
@@ -46,16 +48,16 @@ Quando si fa clic su **Seleziona**, verrà richiesto di immettere il nome, il nu
 Nella schermata successiva sarà necessario fornire i dettagli relativi all'engagement per il quale si desidera co-selling con Microsoft.
 
 Nella sezione **Dettagli Engagement** immettere quanto segue:
-- **Nome Engagement**: Immettere un nome che descriva il cliente e il coinvolgimento. Il team di Microsoft visualizzerà questo nome quando esamina i dettagli di engagement, quindi è necessario assicurarsi di usare un linguaggio chiaro e professionale.
-- **ID CRM**: Se lo si desidera, immettere il numero ID utilizzato nel sistema CRM.
-- **Data di chiusura stimata**: Data approssimativa quando si prevede di chiudere questa operazione.
-- **Valore stimato**: Valore previsto totale per l'engagement. Assicurarsi di selezionare la valuta appropriata.
+- **Nome Engagement**: immettere un nome che descriva il cliente e il coinvolgimento. Il team di Microsoft visualizzerà questo nome quando esamina i dettagli di engagement, quindi è necessario assicurarsi di usare un linguaggio chiaro e professionale.
+- **ID CRM**: se lo si desidera, immettere il numero ID usato nel sistema CRM.
+- **Data di chiusura stimata**: la data approssimativa quando si prevede di chiudere questa operazione.
+- **Valore stimato**: valore previsto totale per l'engagement. Assicurati di selezionare la valuta appropriata.
 
 Nel campo **Note** , indicare le informazioni a cui il cliente è interessato e il modo in cui la soluzione potrebbe aiutarli.
 
  Quindi, nella sezione **contatto partner** , immettere il nome, il numero di telefono e il messaggio di posta elettronica per il contatto principale presso la società che sta lavorando a questo Engagement.
 
-Infine, nella sezione **Aggiungi soluzioni** selezionare la soluzione che verrà usata per il coinvolgimento. Se non viene visualizzata la soluzione corretta elencata, contattare il supporto tecnico.
+Infine, nella sezione **Aggiungi soluzioni** selezionare la soluzione che verrà usata per il coinvolgimento. Se la soluzione appropriata non è elencata, contatta il supporto tecnico.
 
 Selezionare **Avanti** per passare al passaggio successivo.
 

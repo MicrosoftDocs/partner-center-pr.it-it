@@ -1,27 +1,29 @@
 ---
-title: Programma per Provider di servizi gestiti esperto di Azure | Centro per i partner
+title: Programma provider di servizi gestiti di Azure Expert | Centro per i partner
 ms.topic: article
 ms.date: 12/03/2018
-description: Gli esperti in vendita e al supporto di Azure è possono applicare in MSP esperto di Azure
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Gli esperti per la vendita e il supporto di Azure possono essere applicati ad Azure Expert MSP
 author: LauraBrenner
 ms.author: labrenne
-Keywords: Rappresentante di Azure, i programmi esperto, programmi per partner
+Keywords: Vendite di Azure, programmi esperti, programmi per i partner
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 4ad3ba4a5f8646b70ff2c8bd8aee950ff5c30339
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 1b096daf93d01b903606d4ad7b2e0efbebd18396
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134551"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654377"
 ---
-# <a name="azure-expert-managed-services-provider-program"></a>Programma per Provider di servizi gestiti esperto di Azure
+# <a name="azure-expert-managed-services-provider-program"></a>Programma provider di servizi gestiti esperti di Azure
 
 
-Se la società è una celebrità alla vendita e la gestione di servizi di Azure per i clienti, esaminare il candidatura al Provider di servizi gestiti di Azure esperto programma. I partner MSP esperto di Azure ottengono un badge esclusivo questo li differenzia da altri partner Microsoft e ottenere la priorità nel motore di riferimento, hanno priorità maggiore per interventi di CO-selling, ricevere supporto durante lo sviluppo di nuove procedure consigliate e può partecipare eventi esclusivi.
+Se la società è una superstar alla vendita e alla gestione dei servizi di Azure per i clienti, esaminare l'applicazione al programma del provider di servizi gestiti di esperti di Azure. I partner MSP di esperti di Azure ottengono un badge esclusivo che li distingue da altri partner Microsoft e ottengono la massima priorità nel motore di riferimento, vengono classificati in ordine di priorità per gli impegni di co-selling, ricevono supporto per lo sviluppo di nuove procedure e possono partecipare eventi esclusivi.
 
-Per iniziare il processo di applicazione per il provider di servizi gestiti di Azure dal riquadro di spostamento a sinistra. Selezionare **programmi e competenze** e quindi selezionare **MSP esperto di Azure**. Altre informazioni sulle [i prerequisiti e il processo dell'applicazione](https://partner.microsoft.com/membership/azure-expert-msp). 
+Per iniziare il processo di applicazione di Azure MSP, dal NAV di sinistra. Selezionare **competenze e programmi** , quindi selezionare **Azure Expert msp**. Altre informazioni sui [prerequisiti e sul processo dell'applicazione](https://partner.microsoft.com/membership/azure-expert-msp). 
 
-Se si non rientra ancora, è possibile creare la partnership con Microsoft tramite l'appartenenza miglioramenti, formazione e altre opportunità di crescita.
-Informazioni sui passaggi da eseguire per [sviluppare all'azienda e le competenze](https://partner.microsoft.com/membership/azure-expert-msp).
+Se non si è ancora qualificati, è ancora possibile creare la propria partnership Microsoft tramite miglioramenti dell'appartenenza, formazione e altre opportunità di crescita.
+Informazioni sulle procedure che è possibile eseguire per [sviluppare l'azienda e le competenze](https://partner.microsoft.com/membership/azure-expert-msp).
 

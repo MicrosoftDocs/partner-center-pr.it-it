@@ -2,18 +2,20 @@
 title: Assicurarsi di aver ricevuto il credito per le imposte ritenute | Centro per i partner
 ms.topic: article
 ms.date: 05/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Per aprire una richiesta di servizio è necessario che sia presente il modulo di credito per le imposte ritenute e il certificato di imposta di ritenuta.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: trattenuto crediti fiscali, crediti fiscali, modulo di credito fiscale tedesco, credito fiscale modulo
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
-ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
+ms.openlocfilehash: 654e4f32be1e86ce455c7d0409469bab37473f8b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "72892411"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653951"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assicurarsi di avere il credito per le imposte ritenute
 
@@ -49,7 +51,7 @@ Compilare questo [modulo](https://query.prod.cms.rt.microsoft.com/cms/api/am/bin
 
 2. Selezionare **CSP**.
 
-3. In **CSP-fatturazione e pagamenti**selezionare il tipo di problema- **imposta sulla ritenuta** e selezionare **Sì**. 
+3. In **CSP-fatturazione e pagamenti**selezionare l'imposta tipo di problema- **ritenzione** e selezionare **Sì**. 
 
 4. Quando si invia la richiesta di servizio, assicurarsi di alleghi il modulo di credito fiscale e le copie digitali dei certificati fiscali.
 

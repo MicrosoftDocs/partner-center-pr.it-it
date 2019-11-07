@@ -2,17 +2,19 @@
 title: Espandere la propria attività con i partner Microsoft | Centro per i partner
 ms.topic: article
 ms.date: 05/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Risorse per espandere la propria attività con i partner Microsoft. Include come ottenere i lead di vendita (segnalazioni) da Microsoft.
 keywords: segnalazioni, rispondere alle segnalazioni, lead, lead di vendita, profilo di marketing, profilo di business, espandere la propria attività, opportunità commerciali, competenze, iscrizione come membro silver, iscrizione come membro gold, offerte per versioni di valutazione, espansione del mercato, cloud nazionali
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dc55055229dfc7cf52a50dba776e6234d481d5da
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: b9447ec8b03e92e85ea332e5dac3f9d79d8be0fc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958726"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653044"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Espandere le proprie attività con i partner Microsoft 
 

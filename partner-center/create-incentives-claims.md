@@ -2,39 +2,41 @@
 title: Creare e gestire un'attestazione di incentivi | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
-description: Attestazioni cooperativa incentivi initiate dal centro per i Partner. Puoi visualizzare tutte le attività eseguite per creare l'attestazione nella cronologia.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
+description: Avviare le attestazioni co-op per gli incentivi dal centro per i partner. Puoi visualizzare tutte le attività eseguite per creare l'attestazione nella cronologia.
 author: LauraBrenner
 ms.author: labrenne
 keywords: attestazioni incentivi, attestazioni cooperative, fondi cooperativi
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: adccedd89123a2dbe40500cba11c63f832e6c8f5
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f9656b510bc063674a4d237f9e26506036528fe1
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134961"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653582"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Creare e gestire un'attestazione incentivi
 
 **Si applica a**
 - Centro per i partner
 
-È possibile avviare un'attestazione di incentivi dal Partner Center. 
+È possibile avviare una richiesta di incentivi dall'interno del centro per i partner. 
 
-1. Dal **incentivi** nel dashboard del centro per i Partner, selezionare **attestazioni**.
+1. Dagli **incentivi** nel dashboard del centro per i partner selezionare **Claims (attestazioni**).
 
 2.  Se già disponi di un'attestazione nel processo, la pagina di informazioni generali Attestazioni mostra le informazioni sullo stato di attestazioni esistenti e fondi approvati, richiesti e totali.
 
 3.  Per creare una nuova attestazione, seleziona **Crea un'attestazione**.
 
-4.  Quando è stato compilato il modulo iniziale ed selezionata **attestazione creare**, si accederà alla pagina dei dettagli dell'attestazione in cui sarà possibile aggiungere le fatture, della richiesta CSR, prova documenti e le metriche. Puoi anche aggiungere informazioni aggiuntive, se necessario.
+4.  Una volta compilato il modulo iniziale e selezionato **Crea attestazione**, si passerà alla pagina dei dettagli dell'attestazione in cui sarà possibile aggiungere fatture, CSR, documenti di prova e metriche. Puoi anche aggiungere informazioni aggiuntive, se necessario.
 
 La pagina dei dettagli sulle attestazioni consente di richiedere ad altri utenti dell'organizzazione di caricare la documentazione per il modulo. Per ognuno dei documenti di supporto caricati, puoi fornire dettagli esplicativi. 
 
 ### <a name="manage-your-claims"></a>Gestire le attestazioni
 
-È possibile visualizzare tutte le attività che va inserito nel creare l'attestazione nella **cronologia**. Ogni volta che un collega aggiunge un documento di supporto o commenti su un elemento, l'azione viene archiviato **cronologia**. Fino a quando non invii l'attestazione, lo stato è **in fase di modifica**. Lo stato dell'attestazione viene modificato durante lo spostamento all'interno del processo di approvazione. A volte durante la revisione di un'attestazione, potresti ricevere feedback su un elemento specifico della tua documentazione (documenti POE). I feedback e le richieste di informazioni aggiuntive vengono visualizzati anche nella cronologia delle attestazioni. 
+È possibile visualizzare tutte le attività che passano alla compilazione dell'attestazione nella **cronologia**. Ogni volta che un collega aggiunge un documento di supporto o commenti su un elemento, l'azione viene archiviata nella **cronologia**. Fino a quando non invii l'attestazione, lo stato è **in fase di modifica**. Lo stato dell'attestazione cambia durante il processo di approvazione. A volte durante la revisione di un'attestazione, potresti ricevere feedback su un elemento specifico della tua documentazione (documenti POE). I feedback e le richieste di informazioni aggiuntive vengono visualizzati anche nella cronologia delle attestazioni. 
 
 Non puoi modificare la tua attestazione dopo averla inviata a meno che un revisore non richieda informazioni aggiuntive.
 

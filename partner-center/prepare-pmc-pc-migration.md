@@ -2,16 +2,18 @@
 title: Preparare lo spostamento da partner Membership Center a partner Center | Centro per i partner
 ms.topic: article
 ms.date: 06/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Aspetti da considerare prima di spostare l'azienda da PMC al centro per i partner
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bbce4677e88c82cb3f2826fb37823d2746d12e61
-ms.sourcegitcommit: f54b679ce5058793a52795c6f93b0e98311805e1
+ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "71060497"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652182"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepararsi al passaggio da partner Membership Center (PMC) a partner Center
 
@@ -127,7 +129,7 @@ Sì, Compentencies non sarà interessato dal passaggio al centro per i partner. 
  **Verranno rispettati gli account Microsoft con allocazione dei vantaggi di Visual Studio?**
 
 
- Sì. I benefit Visual Studio allocati agli account Microsoft verranno onorati e mantenuti. Verranno conservati anche dopo il rinnovo nel Centro per i partner. Tuttavia, se si rimuove l'allocazione a un account Microsoft una volta eseguita la migrazione nel Centro per i partner, non sarà possibile aggiungerla nuovamente nel Centro per i partner.
+ Sì. I benefit Visual Studio allocati agli account Microsoft verranno onorati e mantenuti. Verranno conservati anche dopo il rinnovo nel Centro per i partner. Tuttavia, se si rimuove un'allocazione di MSA una volta eseguita la migrazione nel centro per i partner, non sarà possibile aggiungerla nuovamente al centro per i partner.
 
 Nel Centro per i partner, un partner può aggiungere account aziendali e account utente Guest, che sono account Microsoft dello stesso tenant in cui il partner è amministratore MPN nel tenant di Azure AD. Se il partner è amministratore globale in più tenant di Azure AD e tutti questi tenant sono associati allo stesso account del Centro per i partner, il partner può aggiungere utenti di tutti questi tenant ai benefit Visual Studio e alle allocazioni in base all'uso di Azure.
 

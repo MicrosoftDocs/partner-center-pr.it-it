@@ -2,17 +2,19 @@
 title: App Analisi del Centro per i Partner per Power BI   | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Usare l'app Analisi del Centro per i Partner per Power BI (per i partner diretti in CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 085fcb059a11b487c69ba64d9c411b173ed48c6b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 4db94f32b035be52dea575d4f731d981beb8c1b8
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134571"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652228"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visualizzare i dati aziendali con l'app Analisi del Centro per i Partner per Microsoft Power BI
 
@@ -26,9 +28,9 @@ Con l'app Analisi del Centro per i Partner per Power BI è disponibile una rappr
 
 - Aumento della base di clienti, delle sottoscrizioni e delle licenze
 
-- L'utilizzo dei prodotti Office 365, Microsoft Dynamics e Microsoft Azure
+- Utilizzo dei prodotti Office 365, Microsoft Dynamics e Microsoft Azure
 
-- Le unità di consumo giornaliere per ogni risorsa a consumo negli abbonamenti di Azure per gli ultimi 60 giorni
+- Unità di consumo giornaliere per ciascuna risorsa a consumo in ogni sottoscrizione di Azure per gli ultimi 60 giorni
 
 - Costo stimato (in base al tariffario più recente)
 
@@ -49,120 +51,120 @@ Con l'app Analisi del Centro per i Partner per Power BI è disponibile una rappr
 
 ### <a name="business-insights-report"></a>Report Approfondimento azienda
 
--  **Tenant dei clienti**: Numero di Azure distinti tenant di Active Directory di utenti che hanno acquistato le sottoscrizioni
+-  **Tenant cliente**: numero di tenant Azure AD distinti per i clienti che hanno acquistato sottoscrizioni
 
--  **Nuovo (ultimi 30 giorni)**: Nuovi clienti almeno una sottoscrizione negli ultimi 30 giorni di acquisto
+-  **Nuovi (ultimi 30 giorni)** : nuovi clienti che hanno acquistato almeno una sottoscrizione negli ultimi 30 giorni
 
--  **Varianza (ultimi 30 giorni)**: I clienti senza alcun "attivo", "nel periodo di tolleranza" o "disabilitate" le sottoscrizioni
+-  **Varianza (ultimi 30 giorni)** : clienti senza sottoscrizioni "attive", "in Grace" o "disabilitate"
 
-- **Nuovo (ultime 24 ore)**: Nuovi clienti che acquistano almeno una sottoscrizione nelle ultime 24 ore
+- **Nuovi (ultime 24 ore)** : nuovi clienti che hanno acquistato almeno una sottoscrizione nelle ultime 24 ore
 
-- **Costo mensile stimato negli ultimi 12 mesi**: Tendenza mese dell'importo della fattura al lordo delle imposte stimato rispetto al valore aggregato ogni mese il periodo di validità di 12 mesi
+- **Costo mensile stimato negli ultimi 12 mesi**: tendenza mensile dell'importo stimato in dollari di fatturazione al lordo delle imposte aggregato mensilmente su un periodo che copre gli ultimi 12 mesi
 
-- **Costo stimato dal prodotto negli ultimi 12 mesi**: I prodotti venduti ordinati per importo della fattura al lordo delle imposte stimato aggregati nel periodo di validità di 12 mesi. Fornirà indicazioni sui prodotti principali che generano la maggior parte dei ricavi.
+- **Costo stimato per prodotto negli ultimi 12 mesi**: prodotti venduti ordinati per importo stimato in dollari di fatturazione al lordo delle imposte aggregato su un periodo che copre gli ultimi 12 mesi Fornirà indicazioni sui prodotti principali che generano la maggior parte dei ricavi.
 
-- **I clienti negli ultimi 12 mesi**: Tendenza di mese di varianza dei clienti e i nuovi clienti rispetto al valore aggregato ogni mese il periodo di validità di 12 mesi
+- **Clienti negli ultimi 12 mesi**: tendenza mensile dei nuovi clienti e dei clienti persi aggregata mensilmente su un periodo che copre gli ultimi 12 mesi
 
-- **Stima dei costi del cliente negli ultimi 12 mesi**: I clienti ordinati per importo della fattura al lordo delle imposte stimato aggregati nel periodo di validità di 12 mesi. Fornirà indicazioni sui clienti principali che generano la maggior parte dei ricavi.
+- **Costo stimato per cliente negli ultimi 12 mesi**: clienti ordinati per importo stimato in dollari di fatturazione al lordo delle imposte aggregato su un periodo che copre gli ultimi 12 mesi Fornirà indicazioni sui clienti principali che generano la maggior parte dei ricavi.
 
-- **Conteggio di clienti dal prodotto**: Prodotti venduti ordinati per i clienti associati. Fornirà indicazioni sui prodotti principali venduti alla maggior parte dei clienti. 
+- **Conteggio clienti per prodotto**: prodotti venduti ordinati in base ai clienti associati. Fornirà indicazioni sui prodotti principali venduti alla maggior parte dei clienti. 
 
 
 ### <a name="subscription-insights-report"></a>Report Approfondimento sottoscrizioni 
 
 - **Stato sottoscrizione**:
 
-    - Active: Le sottoscrizioni appartenenti a uno "attivo" o "nel periodo di tolleranza" stato
+    - Attivo: le sottoscrizioni appartenenti a uno stato "attivo" o "in tolleranza"
 
-    - Sospeso: Sottoscrizioni appartenenti allo stato "disabilitato"
+    - Sospeso: le sottoscrizioni appartenenti allo stato "disabilitato"
 
-    - Annullare il provisioning: Le sottoscrizioni appartenenti a "deprovisioning" o "scaduto" stato
+    - Deprovisioning eseguito: sottoscrizioni appartenenti allo stato "deprovisioned" o "expired"
 
 - **Stato scadenza**:
 
-    - Scadenza: Le sottoscrizioni che hanno già scaduta (in cui data di fine della sottoscrizione è nel passato)
+    - Scadute: sottoscrizioni già scadute (per cui la data di fine della sottoscrizione è nel passato)
 
-    - Scadenza dopo 30 giorni: Sottoscrizioni scadono dopo 30 giorni (in cui data di fine della sottoscrizione dopo 30 giorni successivi)
+    - In scadenza dopo 30 giorni: sottoscrizioni che scadranno dopo 30 giorni (per cui la data di fine della sottoscrizione è dopo 30 giorni)
 
-    - Scadrà tra 30 giorni: Sottoscrizioni che scadranno entro 30 giorni successivi (dove data di fine della sottoscrizione è tra oggi e i successivi 30 giorni)
+    - In scadenza tra 30 giorni: sottoscrizioni che scadranno entro i successivi 30 giorni (per cui la data di fine della sottoscrizione è tra la data odierna e i successivi 30 giorni)
 
--  **Sottoscrizioni in totale**: Le sottoscrizioni "Active", "nel periodo di tolleranza" o "disabilitato" stato
+-  **Totale sottoscrizioni**: sottoscrizioni in stato "attivo", "in Grace" o "disabilitato"
 
-- **Nuovo (ultimi 30 giorni)**: Nuovi abbonamenti acquistati dai clienti negli ultimi 30 giorni
+- **Nuove (ultimi 30 giorni)** : nuove sottoscrizioni acquistate dai clienti negli ultimi 30 giorni
 
-- **Nuovo (ultime 24 ore)**: Nuovi abbonamenti acquistati dai clienti nelle ultime 24 ore
+- **Nuove (ultime 24 ore)** : nuove sottoscrizioni acquistate dai clienti nelle ultime 24 ore
 
-- **Scadrà tra 30 giorni**: Sottoscrizioni che scadranno entro 30 giorni successivi
+- **In scadenza tra 30 giorni**: sottoscrizioni che scadranno entro i successivi 30 giorni
 
-- **Varianza (ultimi 30 giorni)**: Le sottoscrizioni di deprovisioning predisposti o Suspended (disabilitato) negli ultimi 30 giorni
+- **Abbandoni (ultimi 30 giorni)** : sottoscrizioni per cui è stato effettuato il deprovisioning o sospese (disabilitate) negli ultimi 30 giorni
 
 - **Distribuzione per tipi di sottoscrizione**: % di distribuzione delle sottoscrizioni totali in base al tipo di sottoscrizione basata su licenza e basata sull'utilizzo
 
-- **Conteggio di sottoscrizioni attive dal prodotto**: Prodotti venduti ordinati per numero di sottoscrizioni attive
+- **Conteggio sottoscrizioni attive per prodotto**: prodotti venduti ordinati in base al numero di sottoscrizioni attive
 
-- **Le sottoscrizioni negli ultimi 12 mesi**: Tendenze relative a mese nuove sottoscrizioni e le sottoscrizioni di varianza rispetto al valore aggregato ogni mese il periodo di validità di 12 mesi
+- **Sottoscrizioni negli ultimi 12 mesi**: tendenza mensile delle nuove sottoscrizioni e delle sottoscrizioni perse aggregata mensilmente su un periodo che copre gli ultimi 12 mesi
 
-- **I dettagli della sottoscrizione cliente**: Visualizzazione dettagliata dei clienti, le sottoscrizioni e le offerte 
+- **Dettagli sottoscrizioni clienti**: visualizzazione dettagliata di clienti, sottoscrizioni e offerte 
 
 
 ### <a name="license-insights-report"></a>Report Approfondimento licenze:
 
-- **Totale licenze**: Numero totale di licenze aggregato per tutte le sottoscrizioni basati su licenza
+- **Licenze totali**: numero totale di licenze aggregato per tutte le sottoscrizioni basate su licenza
 
-- **Nuovo (ultimi 30 giorni)**: Aggiunta di licenze negli ultimi 30 giorni
+- **Nuove (ultimi 30 giorni)** : licenze aggiunte negli ultimi 30 giorni
 
-- **Varianza (ultimi 30 giorni)**: Riduzione licenza negli ultimi 30 giorni
+- **Nuove (ultimi 30 giorni)** : licenze ritirate negli ultimi 30 giorni
 
-- **Nuovo (ultime 24 ore)**: Aggiunta di licenze all'interno delle ultime 24 ore
+- **Nuove (ultime 24 ore)** : licenze aggiunte nelle ultime 24 ore
 
-- **Le licenze negli ultimi 90 giorni**: Mese su tendenze relative a mese aggiunte licenze e le riduzioni aggregati ogni mese il periodo degli ultimi 90 giorni
+- **Licenze negli ultimi 90 giorni**: tendenza mensile delle licenze aggiunte e ritirate aggregata mensilmente su un periodo che copre gli ultimi 90 giorni
 
-- **Conteggio delle licenze attive dal prodotto**: Prodotti venduti ordinati per numero di licenze attive
+- **Conteggio licenze attive per prodotto**: prodotti venduti ordinati in base al numero di licenze attive
 
-- **Conteggio delle licenze attive dal cliente**: I clienti vengono ordinati ordinati in base al numero di licenze attive
+- **Conteggio licenze attive per cliente**: clienti ordinati in base al numero di licenze attive
 
-- **Dettagli dell'evento Customer license negli ultimi 90 giorni**: Visualizzazione dettagliata dei clienti, le sottoscrizioni e gli eventi della sottoscrizione incluso evento date, nome dell'evento, quantity e quantity viene modificato.
+- **Dettagli evento licenze attive negli ultimi 90 giorni**: visualizzazione dettagliata di clienti, sottoscrizioni e eventi di sottoscrizione inclusi data dell'evento, nome dell'evento, quantità e modifiche alla quantità.
 
 
 ### <a name="licenses-usage-report"></a>Report Utilizzo licenze:
 
-- **Licenze assegnate dal prodotto**: Prodotti venduti ordinati per il conteggio di assegnazione licenze
+- **Licenze assegnate per prodotto**: prodotti venduti ordinati in base al numero di licenze assegnate
 
-- **Le licenze in uso dal prodotto**: Prodotti venduti ordinati in base al conteggio di utilizzo della licenza
+- **Licenze in uso per prodotto**: prodotti venduti ordinati in base al numero di licenze in uso
 
 - **Distribuzione clienti di licenze assegnate**: % di distribuzione dei clienti totali suddivisi in bucket di intervallo pari al 20% in base alla percentuale di licenze assegnate
 
 - **Distribuzione clienti di licenze in uso**: % di distribuzione dei clienti totali suddivisi in bucket di intervallo pari al 20% in base alla percentuale di licenze in uso
 
-- **Licenze assegnate dal cliente**: Visualizzazione dettagliata delle licenze venduto e assegnare le licenze dai clienti e prodotti
+- **Licenze assegnate per cliente**: visualizzazione dettagliata delle licenze vendute e assegnate in base a clienti e prodotti
 
-- **Le licenze in uso dal cliente**: Visualizzazione dettagliata del venduto e licenze in uso da clienti e prodotti
+- **Licenze in uso per cliente**: visualizzazione dettagliata delle licenze vendute e in uso in base a clienti e prodotti
 
 
 ### <a name="azure-insights-report"></a>Report Approfondimenti di Azure:
 
-- **I clienti basata sull'utilizzo negli ultimi 12 mesi**: Rispetto delle tendenze di mese di utilizzo di nuovo in base ai clienti e varianza clienti basate sull'utilizzo aggregati ogni mese il periodo di validità di 12 mesi
+- **Clienti basati su utilizzo negli ultimi 12 mesi**: tendenza mensile dei nuovi clienti basati sull'utilizzo e dei clienti persi basati sull'utilizzo aggregata mensilmente su un periodo che copre gli ultimi 12 mesi
 
-- **Basata sull'utilizzo di sottoscrizioni negli ultimi 12 mesi**: Rispetto sulle tendenze di mesi di utilizzo nuovo basato su sottoscrizioni e varianza sottoscrizioni basate sull'utilizzo aggregate ogni mese il periodo di validità di 12 mesi
+- **Sottoscrizioni basate su utilizzo negli ultimi 12 mesi**: tendenza mensile delle nuove sottoscrizioni basate sull'utilizzo e delle sottoscrizioni perse basate sull'utilizzo aggregata mensilmente su un periodo che copre gli ultimi 12 mesi
 
-- **Stima dei costi di utilizzo da parte dei clienti negli ultimi 60 giorni**: I clienti basate sull'utilizzo ordinati per importo della fattura al lordo delle imposte stimato aggregati nel periodo di ultimi 60 giorni. Fornirà indicazioni sui clienti principali basati sull'utilizzo che generano la maggior parte dei ricavi
+- **Costo stimato di utilizzo per cliente negli ultimi 60 giorni**: clienti basati sull'utilizzo ordinati per importo stimato in dollari di fatturazione al lordo delle imposte aggregato su un periodo che copre gli ultimi 60 giorni Fornirà indicazioni sui clienti principali basati sull'utilizzo che generano la maggior parte dei ricavi
 
-- **Stima dei costi di utilizzo in base alla categoria negli ultimi 60 giorni**: Categorie di contatori di utilizzo basato su sottoscrizioni ordinate per importo della fattura al lordo delle imposte stimato aggregato nel periodo di ultimi 60 giorni.
+- **Costo stimato di utilizzo per categoria negli ultimi 60 giorni**: categorie a consumo delle sottoscrizioni basate sull'utilizzo ordinate per importo stimato in dollari di fatturazione al lordo delle imposte aggregato su un periodo che copre gli ultimi 60 giorni
 
-- **Stima dei costi di utilizzo per sottoscrizione negli ultimi 60 giorni**: Le sottoscrizioni basate sull'utilizzo per importo della fattura al lordo delle imposte stimato aggregati nel periodo di ultimi 60 giorni.
+- **Costo stimato di utilizzo per sottoscrizione negli ultimi 60 giorni**: sottoscrizioni basate sull'utilizzo ordinate per importo stimato in dollari di fatturazione al lordo delle imposte aggregato su un periodo che copre gli ultimi 60 giorni
 
-- **Cliente stima dei costi di utilizzo dal budget di spesa**: Clienti ordinati in base alla percentuale di relativo utilizzo corrente spesa soglia superiore al budget (100%).
+- **Costo di utilizzo stimato clienti per budget di spesa**: clienti ordinati in base alla percentuale del loro budget di spesa per utilizzo corrente che supera la soglia (100%).
 
 
 ### <a name="azure-resource-usage-report"></a>Report Utilizzo risorse di Azure:
 
-- **Utilizzo delle risorse di Azure al giorno per periodo selezionato**: Sottoscrizione per il periodo selezionato negli ultimi 60 giorni basata su unità giornaliere di consumo per ogni risorsa in ogni utilizzo a consumo.
+- **Utilizzo di risorse di Azure per giorno per il periodo selezionato**: unità di consumo giornaliere per ogni risorsa a consumo in ciascuna sottoscrizione basata sull'utilizzo per un periodo selezionato che copre gli ultimi 60 giorni.
 
-- **Stima costo di utilizzo delle risorse di Azure per periodo selezionato**: Costo stimato in base alle più recente scheda tariffa per ogni risorsa in ogni sottoscrizione basata sull'utilizzo per il periodo selezionato negli ultimi 60 giorni a consumo. 
+- **Costo utilizzo stimato di risorse di Azure per il periodo selezionato**: costo stimato basato sul tariffario più recente per ogni risorsa a consumo in ciascuna sottoscrizione basata sull'utilizzo per un periodo selezionato che copre gli ultimi 60 giorni. 
 
-## <a name="see-also"></a>Vedere anche
+## <a name="see-also"></a>Vedi anche
 
-[Centro per i partner Analitica per la panoramica delle app Power BI](power-bi-app-for-direct-partners.md)
+[Panoramica di partner Center Analytics per app Power BI](power-bi-app-for-direct-partners.md)
 
 
-[Installare e visualizzare in anteprima l'app Partner Center Analitica per Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
+[Installare e visualizzare in anteprima l'app Analisi del Centro per i Partner per Microsoft Power BI](power-bi-app-for-direct-partners-install.md)

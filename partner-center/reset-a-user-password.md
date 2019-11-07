@@ -1,38 +1,40 @@
 ---
-title: Reimpostare una password utente o aggiornare la password | Centro per i partner
+title: Reimpostare una password utente o aggiornare la propria password | Centro per i partner
 ms.topic: article
 ms.date: 06/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Se gli utenti dimenticano la password, puoi assegnare loro una nuova password temporanea, che possono usare per l'accesso successivo al Centro per i partner.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 83d7417dcd71323822d066faca6c193ca5ef2e58
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
-ms.translationtype: HT
+ms.openlocfilehash: a74f89b023f72c867667902d4765f22287bb1546
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67145343"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654093"
 ---
-# <a name="reset-a-user-password-or-update-your-own-password"></a>Reimpostare una password utente o aggiornare la password
+# <a name="reset-a-user-password-or-update-your-own-password"></a>Reimpostare una password utente o aggiornare la propria password
 
 **Si applica a**
 
 -  Centro per i partner
    
 > [!NOTE]  
->  Se la registrazione dell'utente del programma Cloud Solution Provider (CSP) in Microsoft Cloud Germania, vedere [gestione degli utenti nel centro per i Partner per Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md) per informazioni su come reimpostare una password dell'utente.
+>  Se si è iscritti al programma Cloud Solution Provider (CSP) in Microsoft Cloud Germania, per informazioni sulla reimpostazione della password di un utente vedere la pagina relativa alla [gestione degli utenti in Partner Center per Microsoft Cloud Germania](user-management-in-partner-center-for-microsoft-cloud-germany.md) .
 
 Se gli utenti dimenticano la password, puoi assegnare loro una password temporanea, che possono usare per l'accesso successivo al Centro per i partner.
 
 **Reimpostare una password utente come amministratore**
 
-1.  Passare a **le impostazioni** &gt; **Gestione utenti**.
+1.  Passare a **impostazioni** &gt; **Gestione utenti**.
 2.  Seleziona l'utente nell'elenco.
 
 3.  Scegli **Reimposta password** nella parte inferiore della pagina.
 
-4.  Verrà visualizzata una schermata di conferma con una password temporanea per il nuovo account di accesso. Copialo e invialo al nuovo utente perché non sarà più accessibile quando lascerai la schermata. In fase di accesso, all'utente verrà richiesto di aggiornare la password.
+4.  Verrà visualizzata una schermata di conferma con una password temporanea per il nuovo account di accesso. È necessario copiarlo e inviarlo al nuovo utente, perché non è accessibile dopo aver lasciato lo schermo. In fase di accesso, all'utente verrà richiesto di aggiornare la password.
 
 **Reimpostare la password**
 

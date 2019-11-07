@@ -2,16 +2,18 @@
 title: Rimuovere una relazione con un rivenditore o un cliente | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: La rimozione di una relazione consente di rimuovere tutte le relazioni di business chiuse dalla vista nel Centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d5548a2784b7952174165df80516758e58ab633
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 3c0289c231e90d38d2bf18d571f9194fc469ce7e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134101"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651980"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Rimuovere una relazione come rivenditore con un cliente
 
@@ -28,11 +30,11 @@ Questa funzionalità:
 *  Elimina la possibilità di effettuare acquisti per conto del cliente
 
 Per rimuovere la relazione, dovrai annullare le prenotazioni delle istanze riservate di Azure, annullare gli acquisti di software e sospendere in primo luogo qualsiasi sottoscrizione attiva rimanente:
-1. Sospendi tutte le sottoscrizioni attive. Dal centro per i Partner, passare a **clienti** > selezionare un cliente > **sottoscrizioni** > selezionare una sottoscrizione > **Suspended**. 
+1. Sospendi tutte le sottoscrizioni attive. Dal centro per i partner passare a **customers** > selezionare un cliente > le **sottoscrizioni** > selezionare una sottoscrizione > **sospesa**. 
 
    Ripeti questo passaggio per ogni sottoscrizione.
 
-2. Rimuovere la relazione in Partner Center: Dal centro per i Partner, passare a **clienti** > selezionare un cliente > **Account** > **Rimuovi relazione di rivendita**.
+2. Rimuovere la relazione nel centro per i partner: dal centro per i partner, passare a **customers** > selezionare un **Account** Customer > > **rimuovere la relazione Reseller**.
 
    Se eventuali sottoscrizioni sono ancora attive, il collegamento **Remove reseller relationship** sarà inattivo. 
 

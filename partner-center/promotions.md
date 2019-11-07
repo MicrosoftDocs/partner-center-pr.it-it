@@ -2,24 +2,26 @@
 title: Utilizzare le promozioni per attirare nuovi clienti | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: In quanto partner di Microsoft nel programma Cloud Solutions Provider, puoi acquistare sottoscrizioni a prezzi promozionali e offrire sconti ai tuoi clienti.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: eb925008e19a1512cfb43b340d4ecfa6c16f0e0d
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c63283038a4bc8eb7738567f6316df37911d3361
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134661"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652151"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Utilizzare le promozioni per attirare nuovi clienti  
 
-**Si applica a: Partner Center**
+**Si applica a: centro per i partner**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
-Occasionalmente Microsoft offre promozioni per le sottoscrizioni basate sulle licenze per consentirti di offrire sconti ai clienti e far crescere la tua attività. 
+Occasionalmente Microsoft offre promozioni per le sottoscrizioni basate sulle licenze per consentire di offrire sconti ai clienti ed espandere la propria attività. 
 
 Microsoft offre due tipi di promozioni; quelle disponibili per tutti i partner idonei nel programma Cloud Solution Provider (CSP) e quelle disponibili solo per i partner in una determinata area geografica.
 
@@ -27,7 +29,7 @@ I prezzi promozionali vengono applicati automaticamente al prezzo netto quando a
 
 Fermati un istante ed esamina questi importanti aspetti sulle promozioni:
 
--   Il prezzo scontato di una sottoscrizione si applica solo per la durata della sottoscrizione. Quando una sottoscrizione scontata scade, il prezzo di rinnovo della sottoscrizione viene ripristinato a quello di listino. Ciò significa che tutte le sottoscrizioni configurate per il rinnovo automatico verranno rinnovate al prezzo attuale. Puoi trovare il listino prezzi nella pagina **Prezzi e offerte**. 
+-   Il prezzo di promozione di una sottoscrizione si applica solo per la durata della sottoscrizione. Quando una sottoscrizione acquistata con prezzi promozionali scade, il prezzo della sottoscrizione di rinnovo viene ripristinato al prezzo nel listino prezzi. Ciò significa che tutte le sottoscrizioni configurate per il rinnovo automatico verranno rinnovate al prezzo attuale. Puoi trovare il listino prezzi nella pagina **Prezzi e offerte**. 
 
 -   Se una sottoscrizione è idonea per più promozioni, viene applicata automaticamente la promozione con la percentuale di sconto più alta.
 
@@ -35,14 +37,14 @@ Fermati un istante ed esamina questi importanti aspetti sulle promozioni:
 
 ## <a name="see-available-promotions"></a>Vedi le promozioni disponibili
 
-Puoi visualizzare per quali promozioni sei idoneo, se presenti, nella tua pagina**Promozioni**. Selezionare **promozioni** dalle **Partner Center** menu per visualizzare un elenco di promozioni corrente, nonché lo sconto, tipo di innalzamento di livello e le date di inizio e fine per la sottoscrizione. Se non sono disponibili promozioni, viene visualizzato un messaggio che ti informa di tale situazione. 
+È possibile vedere quali promozioni sono idonee, se presenti, nella pagina **Promozioni** . Selezionare **Promozioni** dal menu **centro** per i partner per visualizzare un elenco di promozioni correnti, con lo sconto, il tipo di promozione e le date di inizio e di fine per la sottoscrizione. Se non sono disponibili promozioni, viene visualizzato un messaggio che ti informa di tale situazione. 
 
 > [!NOTE]  
 > Inoltre puoi visualizzare le promozioni quando effettui un acquisto. Quando selezioni una sottoscrizione, il prezzo promozionale appare nella pagina **Revisione**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Acquisto di sottoscrizioni a prezzi scontati
 
-1. Nel **Centro per i Partner** dal menu **clienti** e quindi selezionare il cliente è come acquistare la sottoscrizione. 
+1. Nel menu **centro** per i partner selezionare **Customers** , quindi selezionare il cliente che sta acquistando la sottoscrizione. 
 
 2. Seleziona **Aggiungi sottoscrizione**.
 

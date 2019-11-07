@@ -2,18 +2,20 @@
 title: Inoltrare i problemi a Microsoft | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
-description: Sei tu a dover risolvere i problemi per conto dei tuoi clienti. Tuttavia, esistono diverse categorie di problemi che è necessario passare a Microsoft di risolvere.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Sei tu a dover risolvere i problemi per conto dei tuoi clienti. Tuttavia, esistono diverse categorie di problemi che è necessario consegnare a Microsoft per risolvere il problema.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2dbec40da4b230a3a7d822c18ab3fbb02406f0ff
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c2823ab38a5bcafff307896f8378904a21735191
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135671"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653135"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Inoltrare i problemi a Microsoft
 
@@ -39,16 +41,16 @@ Esistono però alcune categorie di problemi che è necessario inoltrare a Micros
 
 ## <a name="submit-a-support-request"></a>Inviare una richiesta di supporto
 
-1. Centro per i Partner, selezionare **clienti**.
+1. Dal centro per i partner selezionare **Customers (clienti**).
 2. Seleziona il cliente che ha bisogno di supporto.
 3. Seleziona **Gestione servizi** e **Richieste di servizio**.
 4. Seleziona **Nuova richiesta**, quindi seleziona **Microsoft Office 365**.
-5. Si passa al portale di Office 365 in cui è necessario accedere usando le credenziali del centro per i Partner.
+5. Viene usato il portale di Office 365, in cui è necessario accedere con le credenziali del centro per i partner.
 6. Seleziona **Supporto**, **Nuova richiesta di servizio** dal menu a sinistra.
 7. Seleziona l'argomento di supporto.
 
 >[!NOTE]
->È importante iniziare dal centro per i Partner, in modo che venga mantenuta la relazione tra partner e clienti. 
+>È importante iniziare dal centro per i partner, in modo che la relazione tra partner e cliente venga mantenuta. 
 
 
 Per informazioni sulla segnalazione di problemi per conto del cliente, vedi [Segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).

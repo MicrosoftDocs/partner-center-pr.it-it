@@ -2,18 +2,20 @@
 title: Comunicazioni con i clienti da Microsoft | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: In generale, il partner Cloud Solution Provider deve occuparsi di tutte le comunicazioni con il cliente.
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: comunicazione, comunicazioni con i clienti, parlare con Microsoft
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dc78c78418c3d111ad83bc4a5ef5e304a0b90e7
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b7196ec84c40fb4cfafc5aa388d40433c5c96863
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134701"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653463"
 ---
 # <a name="customer-communication-from-microsoft"></a>Comunicazioni con i clienti da Microsoft
 

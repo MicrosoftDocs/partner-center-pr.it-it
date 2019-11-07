@@ -2,18 +2,20 @@
 title: Gestire le prenotazioni di Azure per conto del cliente | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Per gestire le prenotazioni di Azure per i clienti dopo l'acquisto, selezionare il cliente e la prenotazione da gestire nel centro per i partner e quindi apportare modifiche alla prenotazione nel portale di Azure.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, prenotazioni, gestione, fatturazione, acquisto, annullamento, scambio, tariffa per la terminazione anticipata
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b7e9726acbba54daf8404fdf4a3d2b4961c5123a
-ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.openlocfilehash: b15e0396fce4f9a738b1b34049f0e9560f847f19
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "71704153"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653820"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gestire le prenotazioni di Microsoft Azure per conto dei clienti       
 
@@ -27,16 +29,16 @@ Per gestire le prenotazioni di Azure per i clienti dopo l'acquisto, selezionare 
 
 1. Per iniziare, selezionare **Customers (clienti** ) dal menu centro partner e quindi selezionare il cliente di cui si desidera gestire le prenotazioni. 
 
-2. Nel menu della pagina dei dettagli del cliente, seleziona **Prenotazioni di Azure**, quindi seleziona la prenotazione specifica che desideri gestire.  
+2. Nel menu della pagina dei dettagli del cliente selezionare **prenotazioni di Azure** e quindi selezionare la prenotazione specifica che si vuole gestire.  
 
-3. In **Azioni** seleziona **Gestisci** per passare al record della prenotazione del cliente nel portale di Azure. Nella pagina dei dettagli della prenotazione segui i passaggi qui sotto per completare le attività.  
+3. In **azioni**selezionare **Gestisci** per passare al record di prenotazione del cliente nel portale di Azure. Nella pagina dei dettagli della prenotazione segui i passaggi qui sotto per completare le attività.  
 
     | **Selezionare**   | **A**    |
     |:-----------------------------|:-----------------|
-    | **Panoramica**   | Visualizzare i dettagli della prenotazione di un cliente, inclusi i dati di utilizzo, l'ambito e la data di scadenza. **NOTA:** seleziona **Rimborsa** per creare una richiesta di supporto per un rimborso proporzionale. Selezionare **Cambio** per creare una richiesta di supporto in vista del cambio del periodo di prenotazione non utilizzato.  
-    | **Controllo di accesso (IAM)**   | Gestire l'accesso alle informazioni sulla prenotazione del cliente.|
+    | **Panoramica**   | Visualizza i dettagli della prenotazione di un cliente, inclusi i dati relativi alla data di scadenza, all'ambito e all'utilizzo. **NOTA:** seleziona **Rimborsa** per creare una richiesta di supporto per un rimborso proporzionale. Selezionare **Cambio** per creare una richiesta di supporto in vista del cambio del periodo di prenotazione non utilizzato.  
+    | **Controllo di accesso (IAM)**   | Consente di gestire l'accesso alle informazioni di prenotazione del cliente.|
     | **Configurazione**   | Modificare l'ambito della prenotazione e/o la sottoscrizione di Azure a cui è associata la prenotazione.    |
-    | **Proprietà**   | Visualizzare le proprietà della prenotazione e copiare negli Appunti l'ID della prenotazione e l'ID dell'ordine di prenotazione. **NOTA:** quando chiedi supporto per conto di un cliente, ti potrebbero essere richiesti l'ID della prenotazione e l'ID dell'ordine di prenotazione.    |
+    | **Proprietà**   | Visualizzare le proprietà della prenotazione e copiare negli Appunti l'ID prenotazione e l'ID ordine di prenotazione. **NOTA:** quando chiedi supporto per conto di un cliente, ti potrebbero essere richiesti l'ID della prenotazione e l'ID dell'ordine di prenotazione.    |
     | **Nuova richiesta di supporto**    | Richiedere assistenza al Supporto tecnico Microsoft.   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Annullare o cambiare una prenotazione 
@@ -73,13 +75,13 @@ L'importo del rimborso proporzionale è accreditato per l'account, in modo da po
 Per presentare una richiesta di supporto per un rimborso o uno scambio per conto dei clienti, selezionare il cliente e la prenotazione nel centro per i partner e quindi creare la richiesta di supporto nella portale di Azure. 
 
 >[!NOTE]
->Gli agenti del Supporto tecnico Microsoft potrebbero richiedere l'ID della prenotazione e l'ID dell'ordine di prenotazione. Puoi trovare queste informazioni nella pagina **Proprietà** della prenotazione nel portale di Azure. 
+>Gli agenti del Supporto tecnico Microsoft potrebbero richiedere l'ID della prenotazione e l'ID dell'ordine di prenotazione. È possibile trovare queste informazioni nella pagina delle **Proprietà** della prenotazione nel portale di Azure. 
 
 1. Per iniziare, selezionare **Customers** dal menu partner Center e quindi selezionare il cliente che desidera un rimborso. 
 
-2. Nella pagina dei dettagli del cliente, seleziona **Prenotazioni di Azure**, quindi seleziona la prenotazione specifica che il cliente desidera farsi rimborsare.  
+2. Nella pagina dei dettagli del cliente selezionare **prenotazioni di Azure** e quindi selezionare la prenotazione specifica che il cliente desidera rimborsare.  
 
-3. In **Azioni**seleziona **Rimborso** per passare al record della prenotazione del cliente nel portale di Azure e avviare una richiesta di supporto.  
+3. In **azioni**selezionare **rimborso** per passare al record di prenotazione del cliente nel portale di Azure e avviare una richiesta di supporto.  
 
 4. Nella pagina **Nuova richiesta di supporto** attieniti alla procedura seguente per richiedere un rimborso. Seleziona **Avanti** dopo ogni passaggio. 
 
@@ -92,7 +94,7 @@ Per presentare una richiesta di supporto per un rimborso o uno scambio per conto
 5.  Al termine, seleziona **Crea**.
 
 ## <a name="azure-reservations-resources"></a>Risorse sulle prenotazioni di Azure
-|**Per informazioni su**   |**Leggi questo**    |
+|**Per informazioni su**   |**Leggi**    |
 |:-----------------------------|:-----------------|
 |Panoramica delle prenotazioni di Azure in CSP  | [Vendere Microsoft Azure istanze riservate](azure-reservations.md) |
 |Acquisto di prenotazioni di Azure per i clienti nel centro per i partner   |[Acquista prenotazioni di Azure](azure-reservations-buying.md) |

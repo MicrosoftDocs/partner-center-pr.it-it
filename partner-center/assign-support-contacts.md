@@ -2,6 +2,8 @@
 title: Assegnare i contatti di supporto | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Quando configuri le sottoscrizioni per i servizi Microsoft per i clienti, puoi scegliere di assegnare il supporto tecnico di questi prodotti a un rivenditore designato, anziché fornirlo tu direttamente.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
@@ -9,14 +11,14 @@ ms.author: labrenne
 keywords: agente per il supporto, supporto, assegnare il contatto del supporto tecnico, contatto del supporto tecnico designato
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7e5478e5598fe5f1acc11fe0dde49e9ffd019394
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 9d5318bd9cc33db50d2cc78fc4e31d10e2dbabd2
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134832"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653921"
 ---
-# <a name="assign-support-contacts"></a>Assegnare contatti di supporto
+# <a name="assign-support-contacts"></a>Assegnare i contatti del supporto tecnico
 
 **Si applica a**
 
@@ -33,7 +35,7 @@ Questa funzionalità può essere utilizzata per gli scenari [multipartner](multi
 
 1.  Per iniziare, [richiedi una relazione](request-a-relationship-with-a-customer.md) con il rivenditore di prodotti designato. Negozia un contratto di supporto per la gestione del supporto tecnico.
 
-2.  Dal **Centro per i Partner** dal menu **clienti**, quindi selezionare un cliente, quindi selezionare una sottoscrizione, ad esempio, Office 365 Business Premium.
+2.  Dal menu **centro** per i partner selezionare **Customers**, quindi selezionare un cliente, quindi selezionare una sottoscrizione, ad esempio Office 365 Business Premium.
 
 3.  In **Designated support contact** seleziona il rivenditore di prodotti designato e quindi fai clic su **Invia**. 
 

@@ -2,17 +2,19 @@
 title: Trovare il nome di dominio e l'ID directory del cliente | Centro per i partner
 ms.topic: article
 ms.date: 3/14/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Come trovare il nome di dominio e l'ID di directory del cliente quando si invia un'attestazione
 author: LauraBrenner
 ms.author: labrenne
 keywords: attestazioni per incentivi, attestazioni co-op, fondi co-op, OSA, ISV, associazione di ricavi, nome di dominio, ID directory
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c8982fa25fb1eea4f0ec73e4a9102215f356816
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: HT
+ms.openlocfilehash: 6e9f78ff41783a1cd49790288d20c8ccdfd78192
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376411"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653102"
 ---
 # <a name="find-your-customers-domain-name-and-directory-id"></a>Trovare il nome di dominio e l'ID directory del cliente
 

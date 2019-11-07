@@ -2,17 +2,19 @@
 title: Imposte ed esenzioni fiscali | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da parte dei partner, Microsoft non è sempre tenuta all'imposizione dell'IVA nelle fatture per i partner.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5d0e998a53c6c1b4ab61b18c077b35bb888dd8c0
-ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
-ms.translationtype: HT
+ms.openlocfilehash: 06163368802263c49631d1eafabe5d18bf66b44b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "67262975"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654014"
 ---
 # <a name="tax-and-tax-exemptions"></a>Imposte ed esenzioni fiscali
 
@@ -24,11 +26,11 @@ ms.locfileid: "67262975"
 
 Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da parte dei partner, Microsoft non è sempre tenuta all'imposizione dell'IVA nelle fatture per i partner. Le regole variano in base a paese e/o area geografica. I partner sono invitati a rivolgersi al proprio consulente fiscale per registrare le esenzioni fiscali appropriate in base alla loro sede e a quella dei rispettivi clienti. Per contrassegnare il proprio account rivenditore Microsoft come esente da imposte, il partner deve inviare i certificati di esenzione a Microsoft.
 
-**File un'esenzione fiscale**
+**Archiviare un'esenzione fiscale**
 
-1.  Cercare i **ID Microsoft** Partner Center &gt; **impostazioni Account** &gt; **profilo organizzazione**.
-2.  Cercare i **ID MPN** Partner Center &gt; **impostazioni Account** &gt; **profili Partner**.
-3.  Crea un nuovo ticket di supporto. Nel menu del centro per i Partner, selezionare **richieste di servizio** &gt; **Partner Center richiede** &gt; **nuova richiesta**.
+1.  Cercare l' **ID Microsoft** in Partner Center &gt; **Impostazioni account** &gt; **profilo dell'organizzazione**.
+2.  Cercare l' **ID MPN** in partner Center &gt; **Impostazioni account** &gt; **profilo partner**.
+3.  Crea un nuovo ticket di supporto. Dal menu centro per i partner selezionare **richieste di servizio** &gt; **centro partner richieste** &gt; **nuova richiesta**.
 4.  Compila il modulo. In **Tipo di problema** scegli **Non è possibile gestire il profilo personale**. Includi il tuo ID MPN e ID Microsoft nella descrizione.
 5.  Dopo aver inviato il ticket, Microsoft ti invierà un'e-mail per ottenere altre informazioni. Allega la documentazione di supporto appropriata nella risposta per i certificati di esenzione IVA.
 
@@ -51,7 +53,7 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 <p>Microsoft non supporta crediti e rifatturazione, quindi prima di vendere qualsiasi sottoscrizione devi registrare il tuo numero di partita IVA nel Centro per i partner.</p>
 <p>Inviare il tuo numero di partita IVA a Microsoft</strong></p>
 <ol>
-<li>Nel centro per i Partner, andare al menu Centro per i Partner &gt; <strong>impostazioni Account</strong> &gt; <strong>profilo di fatturazione del Partner</strong>.</li>
+<li>Nel centro per i partner andare al menu del centro per i partner &gt; <strong>Impostazioni Account</strong> &gt; <strong>profilo di fatturazione partner</strong>.</li>
 <li>Nella sezione <strong>Dati finanziari</strong> seleziona <strong>Aggiorna</strong>.</li>
 <li>In <strong>Partita IVA azienda</strong> specifica il numero di partita IVA.</li>
 </ol></td>
@@ -59,11 +61,11 @@ Dato che Cloud Solution Provider è un canale per la rivendita di prodotti da pa
 <tr class="odd">
 <td>Sudafrica</td>
 <td><p>
-Microsoft applica ora il standard IVA () su contenuti digitali e dei servizi acquistati dai partner in Sud Africa. Per impedire le fatture l'IVA e gestirla manualmente, usare la procedura seguente per aggiornare il partner del profilo di fatturazione.
+Microsoft applica ora le imposte standard di valore aggiunto (IVA) sui contenuti digitali e i servizi acquistati dai partner in Sud Africa. Per escludere l'IVA dalle fatture e gestirla manualmente, usare la procedura seguente per aggiornare il profilo di fatturazione del partner.
 </p>
 <p>Inviare il tuo numero di partita IVA a Microsoft</strong></p>
 <ol>
-<li>Nel centro per i Partner, andare al menu Centro per i Partner &gt; <strong>impostazioni Account</strong> &gt; <strong>profilo di fatturazione del Partner</strong>.</li>
+<li>Nel centro per i partner andare al menu del centro per i partner &gt; <strong>Impostazioni Account</strong> &gt; <strong>profilo di fatturazione partner</strong>.</li>
 <li>Nella sezione <strong>Dati finanziari</strong> seleziona <strong>Aggiorna</strong>.</li>
 <li>In <strong>Partita IVA azienda</strong> specifica il numero di partita IVA.</li>
 </ol></td>
@@ -72,11 +74,11 @@ Microsoft applica ora il standard IVA () su contenuti digitali e dei servizi acq
 <td>Turchia</td>
 <td>
 <p>
-Microsoft applica ora il standard IVA () su contenuti digitali e dei servizi acquistati dai partner in Turchia. Per impedire le fatture l'IVA e gestirla manualmente, usare la procedura seguente per aggiornare il partner del profilo di fatturazione.
+Microsoft applica ora le imposte standard di valore aggiunto (IVA) sui contenuti digitali e i servizi acquistati dai partner in Turchia. Per escludere l'IVA dalle fatture e gestirla manualmente, usare la procedura seguente per aggiornare il profilo di fatturazione del partner.
 </p>
 <p>Inviare il tuo numero di partita IVA a Microsoft</strong></p>
 <ol>
-<li>Nel centro per i Partner, andare al menu Centro per i Partner &gt; <strong>impostazioni Account</strong> &gt; <strong>profilo di fatturazione del Partner</strong>.</li>
+<li>Nel centro per i partner andare al menu del centro per i partner &gt; <strong>Impostazioni Account</strong> &gt; <strong>profilo di fatturazione partner</strong>.</li>
 <li>Nella sezione <strong>Dati finanziari</strong> seleziona <strong>Aggiorna</strong>.</li>
 <li>In <strong>Partita IVA azienda</strong> specifica il numero di partita IVA.</li>
 </ol></td>

@@ -2,17 +2,19 @@
 title: Promandamento dell'autenticazione a più fattori per il tenant partner | Centro per i partner
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Dettagli sull'autenticazione a più fattori per i requisiti di sicurezza del tenant partner
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f68d4628bd6212b800ea926c6c3b9f412e3d5cc
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997787"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652513"
 ---
 # <a name="mandating-mfa-for-your-partner-tenant"></a>Promandamento dell'autenticazione a più fattori per il tenant partner
 
@@ -36,7 +38,7 @@ Lo scopo di questa funzionalità è aiutare i partner a proteggere l'accesso all
 Alcune pagine nel dashboard del centro per i partner verranno protette con autenticazione a più fattori, tra cui:
 
 * Tutte le pagine nella scheda **Customers (clienti** ).
-* Tutte le pagine nella scheda **Support → Customer requests** .
+* Tutte le pagine nella scheda **supporto > richieste del cliente** .
 
 Se si tenta di accedere a una di queste pagine e la verifica dell'autenticazione a più fattori non è stata completata in precedenza, sarà necessario eseguire questa operazione.
 
@@ -212,7 +214,7 @@ Un partner ha implementato l'autenticazione a più fattori per gli utenti usando
 Per inviare una richiesta di eccezione tecnica:
 
 1. Accedere al centro per i partner come amministratore globale o agente di amministrazione.
-2. Creare una nuova richiesta di servizio partner passando a **supporto** → **richieste di supporto partner** e facendo clic su **nuova richiesta**.
+2. Per creare una nuova richiesta di servizio partner, passare a **supporto** > **richieste di supporto partner** e fare clic su **nuova richiesta**.
 4. Nell'argomento autenticazione a più fattori **e modello di applicazione protetta** seleziona **Invia una richiesta di eccezione tecnica** come tipo di problema.
 6. Specificare i dettagli richiesti per inviare una richiesta di servizio per eccezione tecnica e fare clic su **Invia**.
 

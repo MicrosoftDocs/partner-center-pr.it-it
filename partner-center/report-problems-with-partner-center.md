@@ -2,17 +2,19 @@
 title: Segnalare i problemi relativi al Centro per i partner | Centro per i partner
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Come segnalare i problemi relativi al Centro per i partner e raccogliere informazioni di diagnostica per il nostro team di supporto.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f1f7473f78226a06f06862d466e79b75dfb3b609
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425197"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651719"
 ---
 # <a name="report-problems-with-partner-center"></a>Segnalare i problemi relativi al Centro per i partner
 
@@ -39,7 +41,7 @@ Se si riscontrano problemi con il centro per i partner, è possibile contattare 
 
 **Invia diagnostica**
 
-Se si verifica un errore mentre ti trovi in una pagina del Centro per i partner, ti potrebbe essere richiesto di raccogliere informazioni di registro. Seleziona **Raccogli altre informazioni** dal collegamento nell'elenco a discesa in alto nella pagina per aprire lo strumento di diagnostica client. Questo strumento raccoglie le informazioni necessarie al team di supporto dei partner per determinare la causa dell'errore. 
+Se si verifica un errore mentre si è in una pagina del centro per i partner, è possibile che venga richiesto di raccogliere informazioni sul log. Seleziona **Raccogli altre informazioni** dal collegamento nell'elenco a discesa in alto nella pagina per aprire lo strumento di diagnostica client. Questo strumento raccoglie le informazioni necessarie al team di supporto dei partner per determinare la causa dell'errore. 
 
 >[!NOTE]
 >Nelle pagine di Centro per i partner che includono **/pcv/** nell'URL, è possibile aprire manualmente lo strumento per raccogliere queste informazioni.

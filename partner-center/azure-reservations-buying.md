@@ -2,18 +2,20 @@
 title: Acquistare le prenotazioni di Microsoft Azure per conto del cliente | Centro per i partner
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: È possibile acquistare prenotazioni di Azure per conto dei clienti nel centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, prenotazioni, gestire, fatturazione, acquisto
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fb75358e9b193a1568926eec220aef4c9fcc6f0f
-ms.sourcegitcommit: 582415b3c61557e80dfd17e09b5122210bfd0a9b
+ms.openlocfilehash: c995072056fd70f1e0fb71a2b664242c54bd989f
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "72530973"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653830"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare Microsoft Azure prenotazioni per conto dei clienti nel centro per i partner 
 
@@ -37,7 +39,7 @@ Esaminare le informazioni importanti riportate di seguito prima di acquistare pr
  
 -   Gli agenti di vendita e dell'help desk necessitano di accesso esplicito alla sottoscrizione di Azure in modo da poterla acquistare o gestire nel portale di Azure e archiviare richieste di supporto, incluse quelle per gli scambi e i rimborsi, per conto del cliente  
 
--   Se sei un provider indiretto e acquisti prenotazioni di Azure tramite il portale di Azure, il Partner on record (rivenditore indiretto) viene ereditato dalla sottoscrizione CSP di Azure selezionata. 
+-   Se si è un provider indiretto e si acquistano prenotazioni di Azure tramite il portale di Azure, il partner on record (rivenditore indiretto) viene ereditato dalla sottoscrizione di Azure CSP selezionata. 
 
 -   Il partner di record per le prenotazioni di Azure non può essere modificato dopo l'acquisto. Puoi annullare la prenotazione esistente e acquistarne una nuova con il nuovo Partner on record. 
 
@@ -94,15 +96,15 @@ Attenersi alla procedura seguente per acquistare Microsoft Azure prenotazioni pe
 
 1. Selezionare **Customers** dal menu centro per i partner.  
 
-2. Nella pagina **Clienti** trova il cliente che desidera acquistare prenotazioni di Azure, quindi seleziona la freccia giù per espandere la riga del cliente.  
+2. Nella pagina **clienti** individuare il cliente che desidera acquistare le prenotazioni di Azure, quindi selezionare la freccia rivolta verso il basso per espandere la riga del cliente.  
 
-3. Seleziona **Aggiungi prodotti**, quindi seleziona **Azure**. 
+3. Seleziona **Aggiungi prodotti** e quindi **Azure**. 
 
-    a. Scegliere il segmento di mercato del cliente dall'elenco di **segmenti** .
+    a. Scegli il segmento di mercato del cliente dall'elenco **Segmento**.
 
     b. Scegliere **prenotazioni** dall'elenco **tipo** di prodotto.
 
-    c. Scegliere il tipo di prenotazione che il cliente desidera nell'elenco **tipo prenotazione** .
+    c. Scegli il tipo di prenotazione desiderata dal cliente dall'elenco **Tipo di prenotazione**.
 
 4. Le prenotazioni di Azure devono essere associate a una sottoscrizione di Azure attiva. Scegliere la sottoscrizione del cliente a cui si vuole aggiungere prenotazioni di Azure dall'elenco di **sottoscrizioni clienti** . 
 
@@ -113,13 +115,13 @@ Attenersi alla procedura seguente per acquistare Microsoft Azure prenotazioni pe
 
 6. Dopo aver individuato le prenotazioni da acquistare, immettere il numero di istanze riservate che il cliente dovrà avere in **quantità** , quindi selezionare **Aggiungi al carrello**.  
 
-7. Ripeti i passaggi da 5 a 6 finché non vengono aggiunti tutti gli elementi necessari per l'ordine. Seleziona **Rivedi** per verificare che il tuo ordine sia corretto.  
+7. Ripetere i passaggi 5 e 6 fino a quando non sono stati aggiunti tutti gli elementi necessari all'ordine. Seleziona **Rivedi** per verificare che il tuo ordine sia corretto.  
 
 8. Nella pagina **Rivedi i tuoi ordini** puoi: 
 
     - Verificare o modificare la quantità di istanze riservate.
 
-    - Seleziona l'ambito della prenotazione. L'ambito della prenotazione è sufficiente a coprire una o più sottoscrizioni (ambito condiviso). Se la prenotazione viene portata a una singola sottoscrizione, lo sconto per la prenotazione viene applicato solo a questa sottoscrizione. Se selezioni Condiviso, lo sconto relativo alla prenotazione viene applicato a qualsiasi abbonamento nel contesto di fatturazione del cliente. 
+    - Selezionare l'ambito della prenotazione. L'ambito della prenotazione può coprire una sottoscrizione o più sottoscrizioni (ambito condiviso). Se la prenotazione viene portata a una singola sottoscrizione, lo sconto per la prenotazione viene applicato solo a questa sottoscrizione. Se si seleziona condiviso, lo sconto relativo alla prenotazione viene applicato a tutte le sottoscrizioni all'interno del contesto di fatturazione del cliente. 
 
       >[!NOTE] 
       >Se si sceglie di limitare l'ambito della prenotazione a una singola sottoscrizione di Azure, potrebbe essere necessario aumentare la quota vCPU della sottoscrizione. Per aumentare la quota vCPU della sottoscrizione, è necessario creare una richiesta di supporto nella portale di Azure. Per creare la richiesta, seguire le istruzioni riportate [in questo argomento](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) . 
@@ -134,10 +136,10 @@ Attenersi alla procedura seguente per acquistare Microsoft Azure prenotazioni pe
 
 9. Seleziona **Acquista** per acquistare l'ordine. I dettagli dell'ordine, incluso il numero di ordine, vengono visualizzati nella pagina **conferma** . Seleziona **Fatto** per passare alla pagina **Cronologia ordini**. 
 
-10. Per gestire la prenotazione del cliente nella portale di Azure, trovare il cliente nella pagina **clienti** , quindi selezionare la freccia in giù per espandere la riga del cliente. Seleziona **Portale di gestione di Microsoft Azure** per aprire il record del cliente nel portale di Azure.
+10. Per gestire la prenotazione del cliente nella portale di Azure, trovare il cliente nella pagina **clienti** , quindi selezionare la freccia in giù per espandere la riga del cliente. Selezionare **portale di gestione di Microsoft Azure** per aprire il record del cliente nella portale di Azure.
 
 ## <a name="azure-reservations-resources"></a>Risorse sulle prenotazioni di Azure
-|**Per informazioni su**   |**Leggi questo**    |
+|**Per informazioni su**   |**Leggi**    |
 |:-----------------------------|:-----------------|
 |Panoramica delle prenotazioni di Azure in CSP  | [Vendere Microsoft Azure istanze riservate](azure-reservations.md) |
 |Gestione delle prenotazioni di Azure nel centro per i partner | [Gestione delle prenotazioni di Azure nel centro per i partner](azure-reservations-manage.md)

@@ -1,130 +1,132 @@
 ---
-title: Learn Microsoft analitica | Centro per i partner
+title: Analisi Microsoft Learn | Centro per i partner
 ms.topic: article
 ms.date: 07/05/2019
-description: Informazioni su come comprendere l'analitica di apprendimento
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Informazioni su come comprendere l'analisi di apprendimento
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e59be88d1e599bbd9d26827ec6a588a23a2f77a4
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: HT
+ms.openlocfilehash: 74a11ba93e73afcd4117fc6834675d7db5d2fc20
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67674247"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653015"
 ---
-# <a name="microsoft-learn-analytics-report"></a>Report di Microsoft Learn analitica
+# <a name="microsoft-learn-analytics-report"></a>Report analisi Microsoft Learn
 
-Il report di Microsoft Learn consente con informazioni sugli strumenti di apprendimento dell'azienda, inclusi i moduli che siano state completate e i percorsi di apprendimento che siano presenti. Il report visualizza lo stato di ogni singolo strumento di apprendimento. L'amministratore globale e l'amministratore MPN per l'azienda può visualizzare i dati.
+Il report Microsoft Learn fornisce informazioni sugli appresori dell'azienda, inclusi i moduli completati e i percorsi di apprendimento in cui si trovano. Il report Visualizza lo stato di ogni singolo discente. L'amministratore globale e l'amministratore MPN per l'azienda possono visualizzare i dati.
 
 ## <a name="how-to-read-the-report"></a>Come leggere il report
 
 ### <a name="summary-charts"></a>Grafici di riepilogo
 
-Questi grafici riepilogano le tendenze cumulative count e mensile per singoli sottoposto a training, i completamenti di modulo e i percorsi di apprendimento.
+Questi grafici riepilogano i conteggi e le tendenze cumulative mensili per gli utenti con training, i completamenti dei moduli e i percorsi di apprendimento.
 
 
-**Sottoposto a training individui conteggio**: Un conteggio di tutti gli strumenti di apprendimento distinti che hanno completato almeno uno dei moduli durante l'intervallo di date selezionato 
+**Numero di utenti**sottoposti a training: numero di tutti gli autori distinti che hanno completato almeno un modulo durante l'intervallo di date selezionato 
 
-**Mini grafico di tendenza individui sottoposto a training**: Rispetto al conteggio cumulativo del mese degli strumenti di apprendimento attivo 
+**Grafico di tendenza dei singoli utenti con training**: conteggio cumulativo mensile rispetto al mese degli studenti attivi 
 
-**Numero di completamenti modulo**: Conteggio del modulo i completamenti per l'apprendimento nella società partner durante l'intervallo di date selezionato.
-Ad esempio, se "Modulo 1" è stato completato da 15 utenti e il "modulo 2" è stata completata dalle stesse 15 persone, il numero di completamenti modulo è 30. Data di completamento del modulo deve rientrare nell'intervallo di date selezionato.
+**Numero di completamenti dei moduli**: numero di completamenti dei moduli da parte degli studenti nella società del partner durante l'intervallo di date selezionato.
+Ad esempio, se "modulo 1" viene completato da 15 utenti e il "modulo 2" è stato completato dalle stesse 15 persone, il conteggio dei completamenti dei moduli sarà 30. La data di completamento del modulo dovrebbe rientrare nell'intervallo di date selezionato.
 
-**I completamenti di modulo mini grafico di tendenza**: Rispetto al conteggio cumulativo del mese i completamenti di modulo 
+**Grafico di tendenza dei completamenti del modulo**: conteggio cumulativo mensile rispetto al mese per i completamenti dei moduli 
 
-**Numero di completamenti di percorso di apprendimento**: Conteggio di Learning percorso i completamenti per l'apprendimento nella società partner durante l'intervallo di date selezionato.
-Ad esempio, se il percorso di apprendimento "Percorso 1" è stato completato da 20 singoli e il percorso di apprendimento "percorso 2" è stata completata dalle stesse 20 persone, il conteggio di completamento del percorso di apprendimento è 40. Data di completamento del percorso di apprendimento deve rientrare nell'intervallo di date selezionato.
+**Conteggio completamenti percorso di apprendimento**: numero di completamenti percorsi di apprendimento da parte degli studenti nella società del partner durante l'intervallo di date selezionato.
+Ad esempio, se il percorso di apprendimento "Path 1" viene completato da 20 utenti e il percorso di apprendimento "Path 2" è stato completato dalle stesse 20 persone, il conteggio di completamento del percorso di apprendimento sarà 40. La data di completamento del percorso di apprendimento deve rientrare nell'intervallo di date selezionato.
 
-**Mini grafico di tendenza i completamenti di percorso di apprendimento**: Rispetto al conteggio cumulativo di mese di apprendimento i completamenti di percorso 
+**Grafico di tendenza dei completamenti del percorso di apprendimento**: numero cumulativo di mese per mese dei completamenti dei percorsi di apprendimento 
 
-### <a name="trained-individuals-monthly-trend"></a>Tendenza mensile degli utenti sottoposti a training
+### <a name="trained-individuals-monthly-trend"></a>Tendenza mensile dei singoli utenti sottoposti a training
 
 Questi dati sono la tendenza degli utenti della società che hanno completato un modulo per la prima volta in quel mese. 
 
-**Asse x** è mese per il filtro temporale selezionato. 
+L' **asse X** è il mese per il filtro temporale selezionato. 
 
-**Asse y** è conteggio degli strumenti di apprendimento attivi che hanno eseguito la registrazione (primo completamento di un modulo) durante il mese. Questo non è cumulativo.
+L' **asse Y** è il numero di Learner attivi che hanno registrato (il primo completamento di un modulo) durante il mese. Questa operazione non è cumulativa.
 
-### <a name="module-completions-monthly-trend"></a>Tendenza mensile i completamenti di modulo
+### <a name="module-completions-monthly-trend"></a>Tendenza mensile completamenti modulo
 
-Questi dati sono la tendenza dei moduli completati dagli utenti di tutte le società durante tale mese. (non cumulativo) 
+Questi dati sono la tendenza dei moduli completati da tutti gli utenti della società durante il mese. (non cumulativo) 
 
-**Asse x** è mese per il filtro temporale selezionato. 
+L' **asse X** è il mese per il filtro temporale selezionato. 
 
-**Asse y** è conteggio dei completamenti modulo durante tale mese. Questo non è cumulativo.
+L' **asse Y** corrisponde al conteggio dei completamenti del modulo durante il mese. Questa operazione non è cumulativa.
 
 ### <a name="learning-path-completions-monthly-trend"></a>Tendenza mensile completamenti percorso di apprendimento
 
-Questi dati sono la tendenza dei percorsi completati dagli utenti dell'azienda durante tale mese di apprendimento. (non cumulativo) 
+Questi dati sono la tendenza dei percorsi di apprendimento completati dagli utenti della società durante il mese. (non cumulativo) 
 
-**Asse x** è mese per il filtro temporale selezionato. 
+L' **asse X** è il mese per il filtro temporale selezionato. 
 
-**Asse y** è conteggio dei completamenti di modulo in quel mese. Questo non è cumulativo.
+L' **asse Y** corrisponde al numero di completamenti dei moduli in quel mese. Questa operazione non è cumulativa.
 
-### <a name="learning-path-completion-tabs"></a>Le schede di completamento di percorso di apprendimento 
+### <a name="learning-path-completion-tabs"></a>Schede di completamento percorso di apprendimento 
 
 **Scheda modulo**
 
-Questa scheda include suddivisione dei moduli completata dell'azienda da nomi di modulo 5 superiore; il prodotto a cui è associato; il modulo e il ruolo utente pertinente al modulo.  
+Questa scheda include la suddivisione dei moduli completati nell'azienda dai primi 5 nomi di modulo; prodotto a cui è associato il modulo. e il ruolo utente pertinente per il modulo.  
 
-- Grafico ad anello i completamenti di modulo: suddivisione dei completamenti di modulo (conteggio visualizzato nella sezione di riepilogo) per i nomi di modulo.
+- Grafico ad anello completamenti modulo: suddivisione dei completamenti dei moduli (conteggio visualizzato nella sezione di riepilogo) dai nomi dei moduli.
 
-Numero visualizzato al centro del grafico è i totali moduli completati
+Il numero visualizzato al centro del grafico è il totale dei moduli completati
 
-- I completamenti per ruolo: suddivisione dei completamenti di modulo per il ruolo del modulo. Se un modulo viene associato a più ruoli, ognuno dei ruoli viene aggiunto al conteggio dei completamenti di modulo.
+- Completamenti per ruolo: suddivisione dei completamenti del modulo in base al ruolo del modulo. Se un modulo è associato a più ruoli, ogni ruolo viene aggiunto al conteggio dei completamenti del modulo.
 
-Numero visualizzato al centro del grafico è il numero di ruoli distinti per i completamenti di modulo. 
+Il numero visualizzato al centro del grafico è il numero di ruoli distinti per i completamenti del modulo. 
 
-- I completamenti dal prodotto: suddivisione dei completamenti di modulo in base al prodotto il modulo viene eseguito il mapping a. Se un modulo viene associato a più prodotti, ciascuno dei prodotti viene aggiunto al conteggio dei completamenti di modulo.    
+- Completamenti per prodotto: suddivisione dei completamenti del modulo dal prodotto a cui è stato eseguito il mapping del modulo. Se un modulo è associato a più prodotti, ogni prodotto viene aggiunto al conteggio dei completamenti del modulo.    
 
-Numero visualizzato al centro del grafico è il numero di prodotti distinti per i completamenti di modulo.  
+Il numero visualizzato al centro del grafico è il numero di prodotti distinti per i completamenti dei moduli.  
 
 **Scheda percorso di apprendimento**   
 
-Questa scheda include una suddivisione delle completata dell'azienda da nomi di modulo 5 superiore; i percorsi di apprendimento il prodotto che viene eseguito il mapping di percorso di apprendimento per; e il ruolo pertinente per questo percorso di apprendimento.  
+Questa scheda include una suddivisione dei percorsi di apprendimento completati nell'azienda dai primi 5 nomi di modulo; prodotto a cui è stato eseguito il mapping del percorso di apprendimento. e il ruolo pertinente per questo percorso di apprendimento.  
 
-- Grafico ad anello i completamenti di percorsi di apprendimento: suddivisione dei completamenti di percorso di apprendimento (conteggio visualizzato nella sezione di riepilogo) in base al nome.
+- Grafici ad anello completamenti dei percorsi di apprendimento: suddivisione dei completamenti del percorso di apprendimento (conteggio visualizzato nella sezione di riepilogo) in base al nome.
 
-- I completamenti dal ruolo *: suddivisione di learning completamenti percorsi dal ruolo. Se un modulo viene associato a più ruoli, ognuno dei ruoli viene aggiunto al conteggio dei completamenti di modulo.
+- Completamenti per ruolo *: suddivisione dei percorsi di apprendimento completati dal ruolo. Se un modulo è associato a più ruoli, ogni ruolo viene aggiunto al conteggio dei completamenti del modulo.
 
-- I completamenti dal prodotto: suddivisione di learning completamenti di percorsi per il prodotto a cui viene eseguito il mapping di percorso di apprendimento. Se un modulo viene associato a più prodotti, ciascuno dei prodotti viene aggiunto al conteggio dei completamenti di modulo.
+- Completamenti per prodotto: suddivisione dei percorsi di apprendimento completati dal prodotto a cui viene eseguito il mapping del percorso di apprendimento. Se un modulo è associato a più prodotti, ogni prodotto viene aggiunto al conteggio dei completamenti del modulo.
 
-### <a name="completions-by-learning-individuals"></a>Completamenti per utenti singoli di apprendimento
+### <a name="completions-by-learning-individuals"></a>Completamenti per apprendimento di singoli utenti
 
-Elenca gli utenti nella propria azienda e i dettagli dei moduli completati e i percorsi di apprendimento con training.
+Verranno elencati gli utenti con training nell'azienda e i dettagli relativi ai moduli e ai percorsi di apprendimento completati.
 
-Learn Microsoft consente di identificare gli strumenti di apprendimento con un ID oggetto utente. Sotto il **scheda moduli**, tutti gli strumenti di apprendimento vengono ordinati in base ai moduli completati. Vengono visualizzati con loro nome utente Learn Microsoft, ID di oggetto e numero di moduli. È possibile eseguire la ricerca usando nome utente. 
+Microsoft Learn identifica gli Learner con un ID oggetto utente. Nella **scheda moduli**tutti gli learners sono ordinati in base ai moduli completati. Vengono visualizzati con il nome utente Microsoft Learn, l'ID oggetto e il numero di moduli. È possibile eseguire la ricerca usando username. 
 
-Sotto il **della scheda percorsi di apprendimento** vengono visualizzati tutti gli strumenti di apprendimento ordinati in base completati, i percorsi di apprendimento con il nome visualizzato dello strumento di apprendimento, ID di oggetto e n. moduli.
+Nella **scheda percorsi di apprendimento** tutti gli apprendimento ordinati per percorsi di apprendimento completati vengono visualizzati con il nome visualizzato, l'ID oggetto e il numero di moduli dello Learner.
 
-Per ottenere i dettagli di uno strumento di apprendimento usando l'ID oggetto utente: 
+Per ottenere i dettagli di un discente usando l'ID oggetto utente: 
 
-1. Accedere al [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer ). (È necessario essere amministratore globale del tenant di Azure AD della società).
+1. Accedere a [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer ). È necessario essere l'amministratore globale del tenant Azure AD della società.
 
-2. Copiare l'ID oggetto utente per il [area evidenziata](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) in Esplora grafico. 
+2. Copiare l'ID oggetto utente nell' [area evidenziata](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) in Graph Explorer. 
 
 ## <a name="faq"></a>Domande frequenti
 
-1. Non riesco a vedere i dettagli di apprendimento dell'azienda.
+1. Non riesco a visualizzare i dettagli di formazione della mia azienda.
 
-Questo report è disponibile per i partner che hanno un account nel centro per i Partner. Se si è ancora in Partner Membership Center, non sarà in grado di visualizzare questo report.
+Questo report è disponibile per i partner che hanno un account nel centro per i partner. Se si è ancora in centro di appartenenza ai partner, non sarà possibile visualizzare questo report.
 
-2.  Chi nell'organizzazione possono visualizzare questo report? 
+2.  Chi nell'azienda può visualizzare questo report? 
 
 L'amministratore globale e l'amministratore MPN possono visualizzare il report.
 
-3. Come è possibile assicurarsi che tutti i nostri utenti associano gli account personali Microsoft Learn con il proprio account Partner Center?
+3. Come è possibile verificare che tutti gli utenti associno gli account di Microsoft Learn al proprio account del centro per i partner?
 
-Dopo che l'amministratore globale ha aggiunto un nuovo utente, tale utente deve essere inviato a loro **profilo personale** per associare il proprio account Microsoft Learn.
+Dopo che l'amministratore globale ha aggiunto un nuovo utente, l'utente deve passare al proprio **profilo personale** per associare l'account Microsoft Learn.
 
-- Selezionare il **all'account** icona nell'angolo a destra del dashboard e quindi selezionare **profilo personale**. 
+- Selezionare l'icona dell' **account** nell'angolo destro del dashboard e quindi selezionare **profilo personale**. 
 
--  Sotto **il percorso di apprendimento** un utente sarà in grado di associare il proprio account di Microsoft Learning e connettere il proprio account Microsoft in Partner University.
+-  In base alla **formazione** , un utente potrà associare il proprio account Microsoft Learning e connettere il proprio account Microsoft all'Università partner.
 
-3. È possibile visualizzare gli utenti della società che accede a Microsoft Learn con un account MSA in questo report?
+3. È possibile visualizzare tutti gli utenti della società che accedono a Microsoft Learn con un account MSA in questo report?
 
-Attualmente, il modo migliore per eseguire questa operazione consiste nell'aggiungere questi utenti di Azure AD del tenant e aggiungerli al centro per i Partner in modo che possono associare il proprio account Microsoft Learn attraverso **profilo personale** nel centro per i Partner. 
+Attualmente, il modo migliore per eseguire questa operazione consiste nell'aggiungere questi utenti al tenant di Azure AD e aggiungerli al centro per i partner, in modo che possano associare il proprio account di Microsoft Learn tramite il **profilo personale** nel centro per i partner. 
 
-Per gli utenti che usano solo il proprio account di account del servizio gestito per il training, nel prossimo futuro, il team Microsoft Learn consentirà la possibilità per loro da associare alla posta elettronica di lavoro al proprio profilo Microsoft Learn. 
+Per gli utenti che usano solo il proprio account MSA per il training, nel prossimo futuro il team di Microsoft Learn consentirà di associare il proprio indirizzo di posta elettronica aziendale al proprio profilo di Microsoft Learn. 
 

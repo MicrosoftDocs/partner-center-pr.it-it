@@ -2,27 +2,29 @@
 title: Vendere software locale tramite CSP | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Vendere software locale tramite CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, partner diretto, partner CSP diretto, rivenditore CSP indiretto, CSP diretto, CSP indiretto, modello diretto, modello indiretto, rivenditore indiretto, provider indiretto, provider, server di distribuzione, programma cloud solution provider
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: d02b1ff64aa529c4f36dc50e16187bb48fa88bab
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 07d242661e2769d54b2e36beb091d05c74cabd5d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134801"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653524"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>Vendere software locale tramite CSP
 
-Il software locale in CSP supporta un'agevole transizione al cloud grazie all'introduzione di software locale in un programma basato sul cloud.  Questa nuova offerta consente di riunire il partner a valore aggiunto a tutti gli scenari di acquisto in quanto forniscono una singola piattaforma per transact tutti i prodotti Microsoft. Adesso, in qualità di CSP, puoi vendere software locale tramite il Centro per i partner, oltre ai programmi EA, Open e altri ancora attualmente in uso. Il software locale in CSP è oggetto di un nuovo programma di vendita che non intende sostituire nessun altro programma per contratti multilicenza Microsoft. 
+Il software locale in CSP supporta un'agevole transizione al cloud grazie all'introduzione di software locale in un programma basato sul cloud.  Questa nuova offerta consente di portare il partner a valore aggiunto a ogni scenario di acquisto Man mano che forniscono un'unica piattaforma per la transazione di tutti i prodotti Microsoft. Adesso, in qualità di CSP, puoi vendere software locale tramite il Centro per i partner, oltre ai programmi EA, Open e altri ancora attualmente in uso. Il software locale in CSP è un nuovo programma di vendita e non è destinato a sostituire gli altri programmi per contratti multilicenza Microsoft. 
  
-Oltre a garantire il miglior valore generale al cliente con opzioni di licenza software locale, abbiamo reso il modello di business particolarmente adatto ai partner. Una gestione semplificata delle licenze del software locale in CSP significa prevedibilità dei costi e un processo di vendita più agevole. Questo nuovo modello di business rende più facile l'acquisizione, la gestione e la determinazione del prezzo del software locale per i clienti, consentendoti di concentrarti principalmente su come sfruttare un ampio portafoglio di soluzioni di gestione IT a valore aggiunto per ottenere il successo che desideri. 
+Garantendo al contempo il miglior valore complessivo del cliente con le opzioni di licenza software locali, abbiamo anche reso il modello aziendale il più semplice possibile per i partner. Una gestione semplificata delle licenze del software locale in CSP significa prevedibilità dei costi e un processo di vendita più agevole. Questo nuovo modello di business rende più facile l'acquisizione, la gestione e la determinazione del prezzo del software locale per i clienti, consentendoti di concentrarti principalmente su come sfruttare un ampio portafoglio di soluzioni di gestione IT a valore aggiunto per ottenere il successo che desideri. 
 
 >[!NOTE]
->Attualmente, il programma relativo al software locale è a disposizione di un numero limitato di partner. Per sapere se sei idoneo, consulta il tuo contatto Microsoft. 
+>Attualmente, il programma relativo al software locale è a disposizione di un numero limitato di partner. Per scoprire se l'utente è idoneo, vedere il contatto Microsoft. 
 
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Acquistare sottoscrizioni di software per conto dei clienti
@@ -31,12 +33,12 @@ Per acquistare sottoscrizioni di software per conto di un cliente, vai alla pagi
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Attivare e gestire sottoscrizioni di software
 
-Una volta acquistato il software, tu e i tuoi clienti dovrete scaricarlo. Utilizzare la procedura seguente per eseguire questa operazione. 
+Una volta acquistato il software, l'utente e i suoi clienti dovranno scaricarlo. A tale scopo, utilizza la procedura seguente. 
 
 >[!NOTE]
 >Per ottenere chiavi e download, devi essere un agente amministratore. 
 
-1. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Vedrai un elenco di tutti i software che hai acquistato per conto del cliente. 
+1. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Verrà visualizzato un elenco di tutto il software acquistato per conto del cliente. 
 2.  Espandi il prodotto che desideri scaricare. Nel campo **Selezionare prodotto** seleziona la **versione**, la **lingua** e il **tipo di file/sistema operativo** che desideri. 
 3.  Seleziona **Invia** per visualizzare i prodotti specifici. 
 4.  Seleziona **Scarica chiavi e download**. 
@@ -58,7 +60,7 @@ Usa la procedura seguente per annullare un acquisto. Una volta completato l'annu
     -   Motivo del rimborso
     -   Importo richiesto
 
-2.  Nella pagina dei dettagli del cliente seleziona **Software**. Vedrai l'elenco di tutti i software che hai acquistato. 
+2.  Nella pagina dei dettagli del cliente selezionare **software**. Verrà visualizzato un elenco di tutto il software acquistato. 
 
 3.  Individua il software che desideri annullare e seleziona **Annulla**. Viene visualizzata la pagina **Segnalare un problema con il Centro per i partner**. 
 
@@ -76,4 +78,4 @@ Usa la procedura seguente per annullare un acquisto. Una volta completato l'annu
 
 8.  Se devi allegare un file per qualsiasi motivo, seleziona **Aggiungi file**. Questo passaggio è facoltativo. 
 
-9.  Al termine, seleziona **Invia**.
+9.  Al termine, selezionare **Invia**.

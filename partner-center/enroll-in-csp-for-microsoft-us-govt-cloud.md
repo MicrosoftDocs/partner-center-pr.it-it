@@ -2,16 +2,18 @@
 title: Iscriversi al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense | Centro per i partner per Microsoft Cloud per il governo statunitense
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Prima di iscriverti al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense, consulta queste informazioni sui requisiti del programma CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 226aa0829080f46706a0934176e229f3e7d3117b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: de6f51d1dff5017ac6f046552acbea30c9cb4384
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135581"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653208"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Iscriversi al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense
 
@@ -40,7 +42,7 @@ Per creare un account del Centro per i partner e iscriverti al CSP per Microsoft
 
 ### <a name="step-1---create-a-partner-center-account-for-microsoft-cloud-for-us-government"></a>Passaggio 1: creare un account per il Centro per i partner per Microsoft Cloud per il governo statunitense
 
-1.  Avvia il processo di registrazione [qui](https://partnercenter.microsoft.com/register/resellerusgjoinnow). 
+1.  Avviare il processo di registrazione [qui](https://partnercenter.microsoft.com/register/resellerusgjoinnow). 
 
 2.  Accedi con le credenziali di amministratore globale per il tenant di Azure AD per Microsoft Cloud per il governo statunitense. Se l'organizzazione non ha un account per questo portale, puoi richiederne uno completando il [modulo di convalida per Microsoft Government Cloud](https://azuregov.microsoft.com/csp).
 
@@ -83,6 +85,6 @@ Microsoft Cloud per il governo statunitense fornisce un'istanza separata di Micr
 
 -  [Centro per i partner per Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [Gestione di utenti e licenze nel centro per i Partner per il Cloud Microsoft per governo degli Stati Uniti](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
+-  [Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud for US Government](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 
 

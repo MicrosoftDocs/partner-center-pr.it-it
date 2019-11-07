@@ -2,18 +2,20 @@
 title: Vendere sottoscrizioni di software tramite CSP | Centro per i partner
 ms.topic: article
 ms.date: 05/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Adesso puoi acquisire, fornire e gestire istanze riservate di Azure e sottoscrizioni server per conto dei clienti commerciali tramite il Centro per i partner Microsoft e il portale di Azure sfruttando Vantaggio Azure Hybrid.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Cloud Solution Provider, CSP, servizi basati sul cloud, Azure, istanze riservate di Azure, Windows Server, SQL Server, sottoscrizioni di software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 60ea2b3b5d497e60b243112748780c2f20c59735
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: HT
+ms.openlocfilehash: 7dd7d672c231c641e0385be0cff89f19483383f9
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376420"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653490"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendere sottoscrizioni di software tramite CSP
 
@@ -52,7 +54,7 @@ Dopo aver acquistato l'abbonamento software, attenersi alla procedura seguente p
 >[!NOTE]
 >È necessario essere un agente di amministrazione per scaricare il software e ottenere le chiavi di attivazione.
 
-1. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Vedrai un elenco di tutti i software che hai acquistato per conto del cliente. 
+1. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Verrà visualizzato un elenco di tutto il software acquistato per conto del cliente. 
 2.  Espandi il prodotto che desideri scaricare. Nel campo **Selezionare prodotto** seleziona la **versione**, la **lingua** e il **tipo di file/sistema operativo** che desideri. 
 3.  Seleziona **Invia** per visualizzare i prodotti specifici. 
 4.  Seleziona **Scarica chiavi e download**. 
@@ -106,4 +108,4 @@ Per annullare un acquisto, attenersi alla procedura seguente:
 
 8.  Se devi allegare un file per qualsiasi motivo, seleziona **Aggiungi file**. Questo passaggio è facoltativo. 
 
-9.  Al termine, seleziona **Invia**.
+9.  Al termine, selezionare **Invia**.

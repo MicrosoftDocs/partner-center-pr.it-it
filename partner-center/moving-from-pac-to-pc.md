@@ -2,17 +2,19 @@
 title: Spostamento dall'interfaccia di amministrazione partner al Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Trova nel Centro per i partner le funzionalità che hai usato nell'interfaccia di amministrazione partner
 author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, interfaccia di amministrazione di Office 365, funzionalità PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: 7a2f7bd3ad2e533b047424c54e4f2912bd5a30c2
-ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
-ms.translationtype: HT
+ms.openlocfilehash: a79badb357327e18ab28ec7cc39455cec42e539a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69993983"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654308"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Passaggio dall'interfaccia di amministrazione partner (PAC) al Centro per i partner
 
@@ -29,10 +31,10 @@ Il Centro per i partner sta diventando l'unica posizione in cui gestirai la part
 |Acquisire nuovi clienti e fornire le offerte per servizi a pagamento e versioni di valutazione|Sviluppo del business -> Invia offerta|Le offerte a pagamento non sono disponibili. Le versioni di valutazione CSP sono disponibili se il partner consulente viene convertito in un rivenditore indiretto CSP e associato a un provider indiretto CSP che supporta le versioni di prova. |
 |Richiedere relazioni|(Rivenditori e consulenti) Sviluppo del business -> Invia richiesta DAP|(Rivenditori e consulenti) Clienti -> Richiedi una relazione come rivenditore (vedi la nota seguente)|
 |Gestire i clienti|Gestione clienti -> Elenco clienti|Centro per i partner -> Clienti|
-|Gestisci le sottoscrizioni dei clienti|Gestione clienti -> Elenco clienti -> Seleziona cliente|Centro per i partner -> Clienti -> Seleziona il cliente o aggiungi il cliente all'elenco **Preferiti** usando la stella nell'elenco dei clienti, quindi seleziona lo slideout **Preferiti** e passa direttamente a **Gestisci sottoscrizioni** per il cliente.|
-|Amministrare per conto di un cliente|Gestione clienti -> Seleziona cliente -> Seleziona pulsante Amministra|Centro per i partner -> Clienti -> Seleziona Amministra servizi dall'elenco a discesa-> Seleziona il servizio o aggiungi il cliente all'elenco **Preferiti** usando la stella nell'elenco dei clienti, quindi seleziona lo slideout **Preferiti** e passa direttamente ad **Amministra servizi** per il servizio richiesto.|
+|Gestisci le sottoscrizioni dei clienti|Gestione clienti -> Elenco clienti -> Seleziona cliente|Centro per i partner-> Customers: > selezionare il cliente o aggiungere il cliente all'elenco **Preferiti** attivando o disattivando la stella nell'elenco dei clienti, quindi selezionando la diapositiva **Preferiti** e passare direttamente a **Gestisci sottoscrizioni** per il cliente.|
+|Amministrare per conto di un cliente|Gestione clienti -> Seleziona cliente -> Seleziona pulsante Amministra|Centro per i partner-> Customers-> selezionare amministrare i servizi dall'elenco a discesa-> selezionare il servizio o aggiungere il cliente all'elenco **Preferiti** attivando la stella nell'elenco dei clienti, quindi selezionare la diapositiva di **Preferiti** e passare direttamente a **Amministrare i servizi** per il servizio richiesto.|
 |Creare richieste di servizio per il cliente|Richieste di servizio -> Seleziona cliente -> Seleziona pulsante + | Centro per i partner -> Richieste di servizio -> Richieste cliente -> Seleziona cliente -> Nuova richiesta|
-|Gestire le richieste di servizio dei clienti| Richieste di servizio -> Seleziona cliente|Centro per i partner -> Richieste di servizio -> Richieste clienti -> Seleziona il cliente o aggiungi la richiesta di servizio all'elenco **Preferiti** usando la stella nella vista Richieste clienti per il cliente, quindi seleziona lo slideout **Preferiti**, seleziona la scheda **Richieste di supporto** e passa direttamente alla richiesta di supporto o visualizza gli aggiornamenti direttamente da **Preferiti**.|
+|Gestire le richieste di servizio dei clienti| Richieste di servizio -> Seleziona cliente|Centro per i partner-richieste di servizio >-> richieste dei clienti: > selezionare il cliente o aggiungere la richiesta di servizio all'elenco **Preferiti** attivando o disattivando la stella nella visualizzazione richieste del cliente per il cliente, quindi selezionando la diapositiva **Preferiti** , selezionare scheda **richieste di supporto** e vai direttamente alla richiesta di servizio o Visualizza aggiornamenti direttamente da **Preferiti**.|
 |Visualizzare lo stato di integrità dei Microsoft Online Services che gestisci|Integrità dei servizi -> Integrità dei servizi aggregati|Centro per i partner -> Integrità dei servizi|
 
 >Importante<br>

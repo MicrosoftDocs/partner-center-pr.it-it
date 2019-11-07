@@ -2,17 +2,19 @@
 title: Contratto Microsoft Partner per partner CSP | Centro per i partner
 ms.topic: article
 ms.date: 09/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Un contratto per partner semplice, unificato e accettato digitalmente.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3eb6879e1681ec46d445b6f5ea3791ae8f022ad4
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 3736b70d2769e39760db2dc06afc20174fed7bed
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921486"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654328"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>Contratto Microsoft Partner per partner CSP 
 

@@ -1,4 +1,4 @@
-# [Informazioni sul Centro per i partner Microsoft](index.md)
+# [Informazioni sul Centro per i partner Microsoft](index.yml)
 
 # [Adesione alla rete per i partner](mpn-overview.md)
 ## [Crea un account nel Centro per i partner](mpn-create-a-partner-center-account.md)

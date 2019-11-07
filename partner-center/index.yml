@@ -1,0 +1,140 @@
+### YamlMime:Hub
+title: Documentazione del Centro per i partner
+summary: Con Microsoft Partner Network (MPN), il programma Cloud Solution Provider (CSP) e altro ancora, il Centro per i partner ti aiuta a far crescere il tuo business.
+brand: windows
+metadata:
+  title: Documentazione del Centro per i partner
+  description: Con Microsoft Partner Network (MPN), il programma Cloud Solution Provider (CSP) e altro ancora, il Centro per i partner ti aiuta a far crescere il tuo business.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  ms.topic: hub-page
+  author: LauraBrenner
+  ms.author: labrenne
+  manager: evansma
+  ms.date: 11/05/2019
+  ms.openlocfilehash: 66e35332bc8deaa4357c1b6c4296707fd5f0c67a
+  ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+  ms.translationtype: HT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 11/06/2019
+  ms.locfileid: "73654407"
+highlightedContent:
+  items:
+  - title: Accedi per vedere gli annunci più recenti
+    itemType: whats-new
+    url: https://partner.microsoft.com/pcv/announcements
+  - title: Non sei ancora un partner? Aderisci subito a Microsoft Partner Network
+    itemType: get-started
+    url: https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx
+  - title: Partecipa al programma Early Adopter per API e SDK
+    itemType: deploy
+    url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
+  - title: Nuovo contratto del cliente Microsoft
+    itemType: concept
+    url: confirm-customer-agreement.md
+  - title: Procedure consigliate per la sicurezza e l'autenticazione a più fattori
+    itemType: overview
+    url: partner-security-requirements.md
+  - title: 'Nuova esperienza commerciale nel Centro per i partner: il piano di Azure'
+    itemType: whats-new
+    url: azure-plan-get-started.md
+conceptualContent:
+  title: Lavorare nel Centro per i partner
+  items:
+  - title: Iscriviti e gestisci il tuo account
+    links:
+    - url: mpn-create-a-partner-center-account.md
+      itemType: how-to-guide
+      text: Creare un account nel Centro per i partner
+    - url: manage-locations.md
+      itemType: how-to-guide
+      text: Gestisci le tue località
+    - url: azure-active-directory-tenants-and-partner-center.md
+      itemType: how-to-guide
+      text: Gestisci il tuo tenant
+    footerLink:
+      url: partner-center-account-setup.md
+      text: Altre risorse
+  - title: Entra in contatto con i clienti
+    links:
+    - url: csp-offers.md
+      itemType: how-to-guide
+      text: Vendi prodotti e servizi
+    - url: assign-licenses-to-users.md
+      itemType: how-to-guide
+      text: Gestisci le licenze dei clienti
+    - url: see-your-customer-list.md
+      itemType: how-to-guide
+      text: Visualizzare l'elenco dei clienti
+    footerLink:
+      url: customer-accounts.md
+      text: Altre risorse
+  - title: Espandere le attività
+    links:
+    - url: referrals.md
+      itemType: how-to-guide
+      text: Segnalazioni e profili di business
+    - url: promotions.md
+      itemType: how-to-guide
+      text: Sfrutta i vantaggi offerti dalle promozioni
+    - url: get-special-pricing-for-offers.md
+      itemType: how-to-guide
+      text: Vendere in settori specializzati
+    footerLink:
+      url: grow-your-business.md
+      text: Altre risorse
+  - title: Ottieni informazioni su fatturazione e imposte
+    links:
+    - url: billing-basics.md
+      itemType: how-to-guide
+      text: Nozioni di base sulla fatturazione
+    - url: read-your-bill.md
+      itemType: how-to-guide
+      text: Leggere la fattura
+    - url: tax-and-tax-exemptions.md
+      itemType: how-to-guide
+      text: Imposte ed esenzioni fiscali
+    footerLink:
+      url: billing.md
+      text: Altre risorse
+  - title: Analizza i dati di business
+    links:
+    - url: partner-contribution-indicators.md
+      itemType: how-to-guide
+      text: Indicatori di contributi dei partner
+    - url: analyze-azure-usage.md
+      itemType: how-to-guide
+      text: Dati sull'utilizzo di Azure da parte dei clienti
+    - url: analyze-indirect-resellers.md
+      itemType: how-to-guide
+      text: Prestazioni dei rivenditori indiretti
+    footerLink:
+      url: data-analysis-lp.md
+      text: Altre risorse
+  - title: Chiedi e fornisci supporto
+    links:
+    - url: customer-support.md
+      itemType: how-to-guide
+      text: Fornisci supporto ai clienti
+    - url: check-service-health.md
+      itemType: how-to-guide
+      text: Controllare l'integrità del servizio
+    - url: report-problems-with-partner-center.md
+      itemType: how-to-guide
+      text: Segnala problemi relativi al Centro per i partner
+    footerLink:
+      url: support-from-microsoft.md
+      text: Altre risorse
+additionalContent:
+  sections:
+  - title: Attività e strumenti principali
+  - items:
+    - title: Ottieni Microsoft Action Pack (MAPS)
+      summary: Acquista o rinnova le vantaggiose offerte, incluso l'abbonamento a Microsoft Action Pack.
+      url: mpn-get-action-pack.md
+    - title: Informazioni di riferimento su API e SDK del Centro per i partner
+      summary: Usa l'SDK per Centro per i partner per gestire i dati relativi a clienti, abbonamenti e ordini.
+      url: https://docs.microsoft.com/partner-center/develop/
+    - title: Rimani in contatto
+      summary: Partecipa alla community Yammer per CSP.
+      url: https://go.microsoft.com/fwlink/p/?linkid=851605

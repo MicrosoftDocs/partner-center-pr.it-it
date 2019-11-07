@@ -1,18 +1,18 @@
 ---
 title: Acquistare il piano di Azure | Centro per i partner
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: Acquistare più sottoscrizioni di Azure nel piano di Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 2fefc10c0b5043e6617f4cea9e9c0245a8532321
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428521"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595925"
 ---
 # <a name="purchase-the-azure-plan"></a>Acquistare il piano di Azure
 
@@ -53,7 +53,7 @@ Torna alla pagina **Aggiungi prodotto**  in cui puoi vedere che è stato aggiunt
   
 Nel Centro per i partner puoi anche acquistare prenotazioni di Microsoft Azure in base al piano di Azure per conto dei tuoi clienti.
 
-1. Dal menu del Centro per i partner nel dashboard seleziona **Clienti**. Trova il cliente che vuole acquistare prenotazioni di Azure e quindi seleziona la freccia rivolta verso il basso per espandere la riga del cliente. 
+1. Dal menu del Centro per i partner nel tuo [dashboard](https://partner.microsoft.com/dashboard/) seleziona **Clienti**. Trova il cliente che vuole acquistare prenotazioni di Azure e quindi seleziona la freccia rivolta verso il basso per espandere la riga del cliente. 
 
 2. Seleziona **Aggiungi prodotti** e quindi **Azure**. 
 - Scegli il segmento di mercato del cliente dall'elenco **Segmento**. 

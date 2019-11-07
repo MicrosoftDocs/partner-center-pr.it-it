@@ -1,18 +1,18 @@
 ---
 title: Credito ottenuto dai partner - Panoramica | Centro per i partner
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/03/2019
 description: Definizione di credito ottenuto dai partner nell'ambito del piano di Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: e09e1421fd0ed1a126a43452d090009c0fb13412
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: bce9c2dca086489b019f7d1bffdb34076c0bc2bd
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428440"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595910"
 ---
 # <a name="partner-earned-credit---overview"></a>Credito ottenuto dai partner - Panoramica
 
@@ -21,7 +21,6 @@ Il credito ottenuto dai partner nella nuova esperienza commerciale in CSP è un 
 Con migliaia di servizi in Azure e più opzioni per l'acquisto, la determinazione dei prezzi può essere un'operazione complessa per molti clienti e partner. Nella nuova esperienza commerciale di Azure sono stati adottati singoli principi globali di determinazione dei prezzi applicabili a tutte le transazioni. I partner CSP possono offrire Azure ai prezzi pubblicati. In questo modo si garantisce maggiore trasparenza ai clienti e si creano rapporti di fiducia. 
 
 Le esigenze di trasformazione digitale dei clienti stanno determinando un cambiamento nella natura del valore offerto dai partner. Molti clienti richiedono ai partner di fornire servizi che vanno ben oltre le transazioni per poter sfruttare il cloud senza difficoltà e usare i servizi di Azure in modo efficiente. Questi servizi sono in fase di sviluppo e includono monitoraggio dell'ambiente Azure, gestione dei criteri e della governance, operazioni di configurazione e ottimizzazione, supporto tecnico e un'ampia gamma di altri servizi. 
-
 
 Questi servizi richiedono a un partner un'elevata familiarità con l'ambiente Azure del cliente, nonché governance e controllo continui e appropriati sulle risorse sottostanti che gestisce. I partner di fatturazione che forniscono questa attività di gestione delle operazioni cloud 24 ore su 24, 7 giorni su 7, saranno idonei per un **credito ottenuto dai partner per i servizi gestiti** nell'ambiente Azure dei clienti disciplinato e controllato dal partner. 
 
@@ -36,13 +35,11 @@ Questi servizi richiedono a un partner un'elevata familiarità con l'ambiente Az
 
 - L'associazione e la gestione correlate di progetti di Azure dei clienti offriranno nuove opportunità al partner e incentiveranno la crescita dei consumi. 
 
-
 ## <a name="manage-automate-and-optimize"></a>Gestire, automatizzare e ottimizzare
 
 Con il passaggio a piattaforme di cloud computing, i clienti devono affrontare la difficoltà di gestire non solo un nuovo set di tecnologie, ma anche un nuovo modo di relazionarsi con la gestione e l'uso del digital estate. Pur offrendo flessibilità e valore aggiunto alle organizzazioni, il cloud può presentare nuove problematiche, tra cui la mancanza di un controllo appropriato della sicurezza e dei costi. 
 
 I tuoi clienti si rivolgono a te per un aiuto per ottenere il massimo dalla loro organizzazione ospitata in Azure. Con i servizi gestiti puoi fornire regolarmente ai tuoi clienti un servizio accurato. Vengono descritti di seguito alcune delle operazioni giornaliere e il supporto che potresti offrire:
-
 
 - **Operazioni cloud e servizi di gestione**: i clienti si rivolgono ai partner Microsoft per ridurre i costi in Azure mentre riproducono l'isolamento, i criteri di sicurezza e i modelli di controllo di cui dispongono attualmente. Pretendono inoltre che i partner abbiano accesso a strumenti avanzati per identificare l'idoneità del carico di lavoro, nonché la distribuzione in un'unica soluzione e i costi operativi continuativi di Azure. Inoltre, i clienti necessitano di supporto per l'automazione e l'orchestrazione, l'applicazione di patch, la gestione della configurazione, il backup e il ripristino di emergenza, nonché la gestione delle identità. 
 
@@ -53,7 +50,7 @@ I tuoi clienti si rivolgono a te per un aiuto per ottenere il massimo dalla loro
 
 - **Monitoraggio dell'integrità del sistema**: monitoraggio completo delle macchine virtuali, dell'uso della CPU, dell'uso della memoria, delle operazioni di I/O di archiviazione e delle prestazioni del sistema operativo. Sono inclusi il monitoraggio delle prestazioni delle applicazioni e dell'integrità delle operazioni, nonché dashboard e report sull'integrità del sistema.
 
-- **Analisi dei log e invio di avvisi** : ogni client, dispositivo e utente che accede a una rete produce dati che vengono registrati. L'analisi di questi log può offrire informazioni approfondite sulle prestazioni, la sicurezza, l'uso delle risorse e altre metriche significative.
+- **Analisi dei log e invio di avvisi** : ogni client, dispositivo e utente che accede a una rete produce dati che vengono registrati. L'analisi dei log può offrire informazioni più approfondite su prestazioni, sicurezza, uso delle risorse e altre metriche significative.
 
 - **Monitoraggio dei database**: un esame del database del cliente che consente ai partner di garantire la disponibilità elevata dei server di database. Il processo implica la conservazione di log delle dimensioni, del tempo di connessione e degli utenti dei database, l'analisi delle tendenze di utilizzo e l'uso dei dati per una correzione proattiva dei problemi.
 
@@ -64,7 +61,7 @@ Scopri di più su come espandere il tuo [portfolio di servizi gestiti con Azure]
 Questi servizi comportano un livello di accesso appropriato per i partner nell'ambiente Azure del cliente e il sistema di commercio misurerà i dettagli di accesso per calcolare il credito ottenuto dai partner.  
 
 >[!Note]
->I clienti avranno la possibilità di rimuovere gli accessi assegnati ai partner. I partner non devono forzare i clienti per l'assegnazione dell'accesso appropriato per il solo scopo di ottenere il credito presso Microsoft. La mancata conformità a questo requisito potrebbe rendere il partner non idoneo per ottenere il credito.
+>I clienti hanno la possibilità di rimuovere gli accessi assegnati ai partner. I partner non devono forzare i clienti per l'assegnazione dell'accesso appropriato per il solo scopo di ottenere il credito presso Microsoft. La mancata conformità a questo requisito potrebbe rendere il partner non idoneo per ottenere il credito.
 
 **Per altre informazioni**
 

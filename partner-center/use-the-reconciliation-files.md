@@ -1,7 +1,7 @@
 ---
 title: Usare i file di riconciliazione | Centro per i partner
 ms.topic: article
-ms.date: 07/08/2019
+ms.date: 11/07/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Per una visualizzazione dettagliata delle voci di ogni addebito in un ciclo di fatturazione, scaricare i file di riconciliazione dal centro per i partner.
@@ -9,12 +9,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 217d5e9c068a07b51f74333f605daca8ab573c9a
+ms.sourcegitcommit: 8425d3435892651e3e6cb1147cd3b268b2b1869b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653980"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73753858"
 ---
 # <a name="use-the-reconciliation-files"></a>Usare i file di riconciliazione
 
@@ -23,6 +23,10 @@ ms.locfileid: "73653980"
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud for US Government
 
+**Ruoli appropriati**
+
+- Amministratore fatturazione
+- Amministratore globale
 
 Per una visualizzazione dettagliata delle voci di ogni addebito in un ciclo di fatturazione, scaricare i file di riconciliazione dal centro per i partner. I dettagli includono gli addebiti per le sottoscrizioni di ogni singolo cliente e gli eventi dettagliati, ad esempio un'aggiunta di postazioni a una sottoscrizione in corso.
 
@@ -637,7 +641,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 </tr>
 
 <tr class="even">
-<td>DiscountDetails</td>
+<td>PriceAdjustmentDescription</td>
 <td><p>Spiegazione di qualsiasi sconto applicabile.</p></td>
 </tr>
 
@@ -670,7 +674,26 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td>BillingFrequency</td>
 <td><p> Visualizza mensilmente quando è abilitata la fatturazione mensile. Altrimenti vuoto. </p></td>
 </tr>
-
+<tr class="odd">
+<td>BillableQuantity</td>
+<td><p> Rappresenta le unità totali acquistate o utilizzate. </p></td>
+</tr>
+<tr class="even">
+<td>pricingCurrency</td>
+<td><p> Elenca il prezzo per la risorsa o l'offerta</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p> Tasso di cambio applicato per la valuta tariffaria (clienti)</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p> Data in cui è determinata la valuta tariffaria per il tasso di cambio di valuta.</p></td>
+</tr>
+<tr class="odd">
+<td>MeterDescription </td>
+<td><p> Descrizione contatore per l'elemento della riga consumo</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -897,9 +920,29 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 <td><p>Campo legacy che acquisisce i metadati facoltativi specifici del servizio.</p></td>
 </tr>
 
-<tr class="even">
+<tr class="odd">
 <td>Informazioni aggiuntive</td>
 <td><p>Eventuali informazioni aggiuntive non incluse in altre colonne.</p></td>
+</tr>
+<tr class="even">
+<td>EffectiveUnitPrice</td>
+<td><p> Valore effettivo addebitato per unità (inclusi sconti, credito guadagnato e così via).</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p>Tasso di cambio applicato per la valuta tariffaria (clienti).</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p>Data in cui è determinata la valuta tariffaria per il tasso di cambio di valuta.</p></td>
+</tr>
+<tr class="odd">
+<td>EntitlementID</td>
+<td><p>Rappresenta il subscriptionID di Azure.</p></td>
+</tr>
+<tr class="even">
+<td>EntitlementDescription</td>
+<td><p>Rappresenta il nome della sottoscrizione di Azure.</p></td>
 </tr>
 
 </tbody>

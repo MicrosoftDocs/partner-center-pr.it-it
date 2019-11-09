@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, aggiungere un cliente, account del cliente, account del cliente nel Centro per i partner, clienti, aggiungere i clienti, creare un account del cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: b8ffc01816e7f50ada49d87a82b8d7fbc72a78dd
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d33588fb599f0f74ddb2e9f0e267b9e423ccbead
+ms.sourcegitcommit: d50d4ae13ba4c6c4a19a7f2af8f9f5a42be6dbfc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653398"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "73840208"
 ---
 # <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente
 
@@ -35,9 +35,9 @@ Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire support
 
 2. Nella pagina **informazioni account** immettere i dettagli del cliente e le informazioni di contatto principale e verificare che il cliente abbia accettato e firmato il [contratto di Microsoft Cloud](agreements.md)più recente.
 
-    >[!IMPORTANT]
-      > A partire dal 7 novembre 2018, dovrai confermare che un cliente ha accettato il Contratto Microsoft Cloud fornendo informazioni sulla persona che lo ha firmato. Per altre informazioni, vedi [Conferma dell'accettazione del cliente del Contratto Microsoft Cloud](confirm-consent.md).
-
+>[!IMPORTANT] 
+> Il 1 ° ottobre 2019 Microsoft ha introdotto il **contratto del cliente Microsoft** per il programma CSP per sostituire il contratto di Microsoft Cloud. Per facilitare la migrazione dei partner al nuovo contratto, il Contratto Microsoft Cloud corrente sarà supportato nel programma CSP fino al 31 gennaio 2020. Leggi il [contratto per i clienti Microsoft e come confermare il consenso](confirm-customer-consent.md)
+  
 3. Se si è un provider indiretto, selezionare il rivenditore indiretto che si desidera associare alle sottoscrizioni di questo cliente dall'elenco.
 
 4. Selezionare **Avanti: sottoscrizioni** al termine dell'immissione di tutte le informazioni necessarie.

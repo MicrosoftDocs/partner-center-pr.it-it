@@ -1,22 +1,22 @@
 ---
 title: Promandamento dell'autenticazione a più fattori per il tenant partner | Centro per i partner
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dettagli sull'autenticazione a più fattori per i requisiti di sicurezza del tenant partner
+description: Dettagli sull'uso dell'autenticazione a più fattori per i requisiti di sicurezza del tenant partner
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: medium
-ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
+ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652513"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "73983345"
 ---
-# <a name="mandating-mfa-for-your-partner-tenant"></a>Promandamento dell'autenticazione a più fattori per il tenant partner
+# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Imposizione di multi-factor authentication per il tenant partner
 
 **Si applica a**
 
@@ -28,9 +28,9 @@ ms.locfileid: "73652513"
 
 Questi partner saranno tenuti a completare la verifica dell'autenticazione a più fattori per le aree seguenti:
 
-- [Dashboard del centro per i partner](#partner-center-dashboard)
-- [API del centro per i partner](#partner-center-api)
-- [Amministrazione delegata partner](#partner-delegated-administration)
+- [Dashboard del centro](#partner-center-dashboard) per i partner (con destinazione H1 CY2020)
+- [API del centro](#partner-center-api) per i partner (con destinazione H1 CY2020)
+- [Amministrazione delegata partner](#partner-delegated-administration) (a partire dal 18 novembre 2019)
 
 Lo scopo di questa funzionalità è aiutare i partner a proteggere l'accesso alle risorse dei clienti da eventuali compromessi.
 

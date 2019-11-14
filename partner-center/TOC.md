@@ -184,6 +184,7 @@
 # Requisiti per la protezione
 ## [Panoramica](partner-security-requirements.md)
 ## [Stato conformità](partner-security-compliance.md)
+## [Imposizione MFA per il tenant partner](partner-security-requirements-mandating-mfa.md)
 ## [Domande frequenti](partner-security-requirements-faq.md)
 
 # Esercitazioni

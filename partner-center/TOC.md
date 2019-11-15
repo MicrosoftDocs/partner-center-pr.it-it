@@ -135,6 +135,7 @@
 ### [Usare le promozioni per attirare nuovi clienti](promotions.md)
 ### [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md)
 ### [Vendere sottoscrizioni di prodotti del marketplace commerciale](sell-marketplace-products.md)
+### [Offerte esclusive per il marketplace](isv-opt-in.md)
 ### [Assegnare sottoscrizioni di Azure nel Centro per i partner](assign-azure-subscriptions.md)
 ### [Assegna licenze agli utenti](assign-licenses-to-users.md)
 ### [Aggiungere licenze o servizi a una sottoscrizione esistente](add-licenses-or-services-to-an-existing-subscription.md)
@@ -183,6 +184,7 @@
 
 # Requisiti per la protezione
 ## [Panoramica](partner-security-requirements.md)
+## [Imposizione MFA per il tenant partner](partner-security-requirements-mandating-mfa.md) 
 ## [Stato conformità](partner-security-compliance.md)
 ## [Imposizione MFA per il tenant partner](partner-security-requirements-mandating-mfa.md)
 ## [Domande frequenti](partner-security-requirements-faq.md)

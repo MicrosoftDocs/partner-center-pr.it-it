@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competenze, ISV, sviluppo di applicazioni
 ms.localizationpriority: medium
-ms.openlocfilehash: 254d4158ffc64b163e974a1d4cf43a69c0555740
-ms.sourcegitcommit: 1d3fad847dfa46ca709f4411f466827769328c83
+ms.openlocfilehash: d32936a6611d476628c655edd97bc8bf7a219d06
+ms.sourcegitcommit: 921e7ac2f9ee2a2b670903ff175fe8b17fb2f0a9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "73849707"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "74117227"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Esenzione dei requisiti per gli esami monouso per la competenza di sviluppo delle applicazioni
 
@@ -27,19 +27,19 @@ Se è stata raggiunta la competenza ISV attualmente ritirata e si applica uno de
 
 Partner con una competenza ISV:
 
-- **La tua competenza ISV è scaduta** : la tua esenzione per i requisiti di esame monouso sarà disponibile nel centro per i partner a partire dal 12 novembre 2019. Avrai fino a 30 giorni per ottenere l'offerta. 
+- **La tua competenza ISV è scaduta** . la tua esenzione dei requisiti per gli esami monouso sarà disponibile nel centro per i partner a partire dal 22 novembre 2019. Avrai a disposizione 30 giorni per sfruttare i vantaggi offerti dall'offerta. 
 
-- L' **appartenenza alla competenza si trova nella finestra di rinnovo** . l'esenzione dei requisiti per l'esame monouso sarà disponibile nel centro per i partner a partire dal 12 novembre 2019. Avrai 30 giorni per ottenere l'offerta. 
+- L' **appartenenza alla competenza si trova nella finestra di rinnovo** . l'esenzione dei requisiti per l'esame monouso sarà disponibile nel centro per i partner a partire dal 22 novembre 2019. Avrai a disposizione 30 giorni per sfruttare i vantaggi offerti dall'offerta. 
 
-- L' **appartenenza alla competenza è prevista per il rinnovo nei prossimi mesi** . l'esenzione dei requisiti per gli esami monouso sarà disponibile al momento del rinnovo. A questo punto, saranno disponibili 30 giorni per ottenere l'offerta.
+- L' **appartenenza alla competenza è prevista per il rinnovo nei prossimi mesi** . l'esenzione dei requisiti per gli esami monouso sarà disponibile al momento del rinnovo. A questo punto, avrai a disposizione 30 giorni per ottenere l'offerta.
 
-Partner con una competenza per lo sviluppo di applicazioni ottenuta tramite il percorso di certificazione IP:
+Partner con una competenza per lo sviluppo di applicazioni raggiunta tramite il percorso IP del certificato:
 
-- **Se si dispone di un elenco di Microsoft Commercial Marketplace**, l'esenzione dei requisiti per gli esami monouso sarà disponibile al momento del rinnovo della competenza. A questo punto, saranno disponibili 30 giorni per ottenere l'offerta.
+- **Se si dispone di un elenco di Microsoft Commercial Marketplace**, l'esenzione dei requisiti per gli esami monouso sarà disponibile al momento del rinnovo della competenza. A questo punto, avrai a disposizione 30 giorni per sfruttare i vantaggi offerti dall'offerta.
 
-- **Se non si dispone di un elenco di [Microsoft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/)** , pubblicare la soluzione entro 90 giorni dalla ricezione della comunicazione e l'utente sarà idoneo per l'esenzione per i requisiti di esame monouso.
+- **Se non si dispone di un elenco di [Microsoft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/)** , pubblicare la soluzione entro il 2020 febbraio per essere idonea per l'esenzione per i requisiti di esame monouso.
 
-## <a name="how-to-get-your-offer"></a>Come ottenere l'offerta
+## <a name="how-to-take-advantage-of-your-offer"></a>Come sfruttare i vantaggi dell'offerta
 
 1. Dal menu centro per i partner del dashboard, selezionare **competenze**.
 2. Nell'elenco delle competenze disponibili, lo sviluppo di applicazioni è contrassegnato come **completato**.
@@ -58,7 +58,7 @@ Se è necessaria assistenza per ottenere l'offerta oppure si hanno domande sull'
 
 **Ricerca per categorie sapere se la mia azienda è idonea per questa offerta?**
 
-Le aziende partner idonee per questa offerta hanno ricevuto una notifica tramite posta elettronica e nel centro per i partner, con informazioni su come ottenere l'offerta. I partner idonei includono quelli che hanno ottenuto la competenza ISV attualmente ritirata e quelli che hanno raggiunto la competenza di sviluppo delle applicazioni attraverso il percorso IP certificato. 
+Le aziende partner idonee per questa offerta hanno ricevuto una notifica tramite posta elettronica e nel centro per i partner, con informazioni su come ottenere l'offerta. I partner idonei includono quelli che hanno ottenuto la competenza ISV attualmente ritirata e quelli che hanno raggiunto la competenza di sviluppo delle applicazioni tramite il percorso IP del certificato. 
 
 **Quali sono i vantaggi della competenza per lo sviluppo di applicazioni?**
 
@@ -68,6 +68,6 @@ Le aziende partner idonee per questa offerta hanno ricevuto una notifica tramite
 
 **Come è possibile ottenere questa offerta se la mia azienda non dispone della competenza ISV?**
 
-Questa offerta è disponibile solo per i partner idonei, ovvero gli utenti che hanno la competenza ISV o la competenza per lo sviluppo di applicazioni tramite il percorso IP certificato. Stiamo valutando attivamente soluzioni complete a breve termine e a lungo termine per servire gli ISV e potrai condividere più dettagli a breve. 
+Questa offerta è disponibile solo per i partner idonei, ovvero gli utenti che hanno la competenza ISV o la competenza per lo sviluppo di applicazioni tramite il percorso IP del certificato. Stiamo valutando attivamente soluzioni complete a breve termine e a lungo termine per servire gli ISV e potrai condividere più dettagli a breve. 
 
 

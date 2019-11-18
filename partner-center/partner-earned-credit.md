@@ -2,17 +2,19 @@
 title: Credito ottenuto dai partner - Panoramica | Centro per i partner
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Definizione di credito ottenuto dai partner nell'ambito del piano di Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: bce9c2dca086489b019f7d1bffdb34076c0bc2bd
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: a3084d84d2befda1f2e71dc8d15cd1f3542bd974
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595910"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654210"
 ---
 # <a name="partner-earned-credit---overview"></a>Credito ottenuto dai partner - Panoramica
 
@@ -22,7 +24,7 @@ Con migliaia di servizi in Azure e più opzioni per l'acquisto, la determinazion
 
 Le esigenze di trasformazione digitale dei clienti stanno determinando un cambiamento nella natura del valore offerto dai partner. Molti clienti richiedono ai partner di fornire servizi che vanno ben oltre le transazioni per poter sfruttare il cloud senza difficoltà e usare i servizi di Azure in modo efficiente. Questi servizi sono in fase di sviluppo e includono monitoraggio dell'ambiente Azure, gestione dei criteri e della governance, operazioni di configurazione e ottimizzazione, supporto tecnico e un'ampia gamma di altri servizi. 
 
-Questi servizi richiedono a un partner un'elevata familiarità con l'ambiente Azure del cliente, nonché governance e controllo continui e appropriati sulle risorse sottostanti che gestisce. I partner di fatturazione che forniscono questa attività di gestione delle operazioni cloud 24 ore su 24, 7 giorni su 7, saranno idonei per un **credito ottenuto dai partner per i servizi gestiti** nell'ambiente Azure dei clienti disciplinato e controllato dal partner. 
+Questi servizi richiedono a un partner un'elevata familiarità con l'ambiente Azure del cliente, nonché governance e controllo continui e appropriati sulle risorse sottostanti gestite. I partner di fatturazione che forniscono questa attività di gestione delle operazioni cloud 24 ore su 24, 7 giorni su 7 saranno idonei per un **credito ottenuto dai partner per i servizi gestiti** nell'ambiente Azure dei clienti disciplinato e controllato dal partner. 
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>Vantaggi offerti dal credito ottenuto dai partner per i clienti e i partner
@@ -33,7 +35,7 @@ Questi servizi richiedono a un partner un'elevata familiarità con l'ambiente Az
 
 - I partner sono ricompensati perché forniscono un solido portfolio di servizi gestiti in Azure per i propri clienti.  
 
-- L'associazione e la gestione correlate di progetti di Azure dei clienti offriranno nuove opportunità al partner e incentiveranno la crescita dei consumi. 
+- L'associazione e la gestione correlate dei progetti di Azure dei clienti offriranno nuove opportunità al partner e incentiveranno la crescita dei consumi. 
 
 ## <a name="manage-automate-and-optimize"></a>Gestire, automatizzare e ottimizzare
 
@@ -58,7 +60,7 @@ I tuoi clienti si rivolgono a te per un aiuto per ottenere il massimo dalla loro
 
 Scopri di più su come espandere il tuo [portfolio di servizi gestiti con Azure](https://partner.microsoft.com/campaigns/cloud-playbooks-thank-you).
 
-Questi servizi comportano un livello di accesso appropriato per i partner nell'ambiente Azure del cliente e il sistema di commercio misurerà i dettagli di accesso per calcolare il credito ottenuto dai partner.  
+Questi servizi comportano un livello di accesso appropriato per i partner nell'ambiente Azure del cliente e il sistema commerciale misurerà i dettagli di accesso per calcolare il credito ottenuto dai partner.  
 
 >[!Note]
 >I clienti hanno la possibilità di rimuovere gli accessi assegnati ai partner. I partner non devono forzare i clienti per l'assegnazione dell'accesso appropriato per il solo scopo di ottenere il credito presso Microsoft. La mancata conformità a questo requisito potrebbe rendere il partner non idoneo per ottenere il credito.

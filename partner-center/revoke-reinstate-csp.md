@@ -2,17 +2,19 @@
 title: Ripristinare i privilegi di amministratore per le sottoscrizioni di Azure CSP | Centro per i partner
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Questo documento illustra come aiutare i clienti a ripristinare i privilegi di amministratore del partner
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 51f19724751b296789a1d5367d9892b21cab4f09
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 1bcbcf32e3b3f4513ed3e55984b49b090da4a734
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73433724"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651708"
 ---
 # <a name="reinstate-admin-privileges-for-azure-csp-subscriptions"></a>Ripristinare i privilegi di amministratore per le sottoscrizioni di Azure CSP  
 
@@ -27,7 +29,7 @@ Da un partner CSP come te, i clienti si aspettano in genere che tu gestisca l'ut
 
 Esistono due livelli di privilegi di amministratore per Azure in CSP. 
 
-**Privilegi di amministratore a livello di tenant** (**privilegi amministrativi delegati**): i partner CSP ottengono questi privilegi quando stabiliscono la relazione di rivenditore CSP con i clienti. In questo modo, i partner CSP possono accedere ai tenant dei clienti ed eseguire funzioni amministrative, ad esempio l'aggiunta o la gestione di utenti, la reimpostazione delle password e la gestione delle licenze utente. 
+**Privilegi di amministratore a livello di tenant** (**privilegi di amministratore con delega**): i partner CSP ottengono questi privilegi quando stabiliscono la relazione di rivenditore CSP con i clienti. In questo modo, i partner CSP possono accedere ai tenant dei clienti ed eseguire funzioni amministrative, ad esempio l'aggiunta o la gestione degli utenti, la reimpostazione delle password e la gestione delle licenze utente. 
 
 **Privilegi di amministratore a livello di sottoscrizione**: i partner CSP ottengono questi privilegi durante la creazione delle sottoscrizioni di Azure CSP per i clienti. In questo modo, i partner CSP possono accedere a queste sottoscrizioni ed effettuare il provisioning e la gestione delle risorse di Azure. 
 

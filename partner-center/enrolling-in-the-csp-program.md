@@ -2,16 +2,18 @@
 title: Iscriversi al programma Cloud Solution Provider | Centro per i partner
 ms.topic: article
 ms.date: 03/20/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Comprendi i diversi modelli per la vendita in CSP e determina qual è il più adatto alla tua attività
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 2f9c0aeb67b287caa65c2e807c5fc237f0ea7037
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 5b13ee39b514da197abd64eb64b6086c6ce11ecc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318840"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653193"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
@@ -30,7 +32,7 @@ Per compilare la domanda di partecipazione al programma CSP, ti serviranno l'ID 
 1. Accedi al Centro per i partner con il tuo indirizzo e-mail aziendale, ad esempio con le credenziali del tenant di Azure AD.
 
 2. Crea il tuo profilo di partner e associa l'ID MPN al profilo.
-Potrebbero essere necessari diversi giorni per esaminare e verificare le informazioni fornite. Riceverai un'e-mail al termine della verifica.
+Potrebbero essere necessari diversi giorni per esaminare e verificare le informazioni fornite. Ti invieremo un'e-mail al termine della revisione.
 
 3. Dopo che Microsoft avrà verificato le informazioni che hai fornito, accetta le condizioni del contratto per rivenditori indiretti Microsoft.
 
@@ -51,9 +53,9 @@ Il supporto e i servizi offerti variano a seconda del provider indiretto scelto.
 
 - Aiuta il rivenditore a stabilire le condizioni di finanziamento e credito
 
-Se non si lavora ancora con un provider (noto anche come distributore), è possibile avviare una [ricerca nell'elenco dei provider ufficiali Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) per individuarne uno.
+Se non lavori ancora con un provider (noto anche come distributore), puoi avviare una [ricerca nell'elenco dei provider ufficiali Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) per individuarne uno.
 
-Per altre informazioni su ciò che è necessario per partecipare al programma CSP come rivenditore indiretto, vedi [Iniziare come rivenditore indiretto](https://partner.microsoft.com/cloud-solution-provider/whats-required) nel [sito Web Microsoft Partner Network](https://partner.microsoft.com/). 
+Per altre informazioni su quanto è necessario per partecipare al programma Cloud Solution Provider come rivenditore indiretto, vedi [Iniziare come rivenditore indiretto](https://partner.microsoft.com/cloud-solution-provider/whats-required) nel [sito Web Microsoft Partner Network](https://partner.microsoft.com/). 
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Iscriversi come partner con fatturazione diretta
 

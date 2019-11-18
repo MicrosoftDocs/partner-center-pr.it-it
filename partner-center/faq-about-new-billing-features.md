@@ -2,17 +2,19 @@
 title: Domande frequenti sulle nuove funzionalità di fatturazione | Centro per i partner
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Di seguito sono riportate le domande frequenti sulle funzionalità per la fatturazione annuale e le versioni di valutazione gratuite del Centro per i partner.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
-ms.openlocfilehash: 6f9e3468cd9030be24d66709f3d36aa63b941d2b
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: db43e1904e5299ca552cb4f294f801e2cb94da24
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318826"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653122"
 ---
 # <a name="faq-about-new-billing-features"></a>Domande frequenti sulle nuove funzionalità di fatturazione
 
@@ -261,15 +263,15 @@ Sezioni:
 
     Con la fatturazione annuale, il calcolo è simile al seguente:
 
-    - Il partner acquista l'abbonamento il 1° gennaio = la riga di fatturazione addebito viene creata per il periodo di servizio 01/01-31/12.
-    - Sospende l'abbonamento il 25 gennaio = la riga di fatturazione accredito viene creata per il periodo di servizio 01/01-31/12.
-    - Riattiva l'abbonamento il 29 gennaio = la riga di fatturazione addebito viene creata per il periodo di servizio 29/01-31/12.
+    - Il partner acquista l'abbonamento il 1° gennaio = riga di fatturazione addebito creata per il periodo di servizio 01/01 - 31/12.
+    - Sospende l'abbonamento il 25 gennaio = riga di fatturazione accredito creata per il periodo di servizio 01/01 - 31/12.
+    - Riattiva l'abbonamento il 29 gennaio = riga di fatturazione addebito creata per il periodo di servizio 29/01 - 31/12.
 
     Con la fatturazione mensile, il calcolo è simile al seguente:
 
-    - Il partner acquista l'abbonamento il 1° gennaio = la riga di fatturazione addebito viene creata per il periodo di servizio 01/01-31/01.
-    - Sospende l'abbonamento il 25 gennaio = la riga di fatturazione accredito viene creata per il periodo di servizio 01/01-31/01.
-    - Riattiva l'abbonamento il 29 gennaio = la riga di fatturazione addebito viene creata per il periodo di servizio 29/01-31/01.
+    - Il partner acquista l'abbonamento il 1° gennaio = riga di fatturazione addebito creata per il periodo di servizio 01/01 - 31/01.
+    - Sospende l'abbonamento il 25 gennaio = riga di fatturazione accredito creata per il periodo di servizio 01/01 - 31/01.
+    - Riattiva l'abbonamento il 29 gennaio = riga di fatturazione addebito creata per il periodo di servizio 29/01 - 31/01.
 
 
 
@@ -395,7 +397,7 @@ A partire dal 21 febbraio 2018, il programma Cloud Solution Provider (CSP) inizi
 
 Gli abbonamenti acquistati prima della data di implementazione (vedi la tabella sopra) ottengono un periodo gratuito dalla data di acquisto alla data di fatturazione del partner. Gli abbonamenti acquistati dopo la data di implementazione non riceveranno più il periodo gratuito. Il periodo di 12 mesi a pagamento inizia (viene allineato) alla data di acquisto rispetto alla fatturazione del partner. I partner non vedranno più la "riga di fatturazione a $0" che rappresenta il periodo gratuito nel file di riconciliazione. Non sono state apportate modifiche alle API, alla fatturazione o agli incentivi.  I partner devono informare i team di vendita e contabilità di questa nuova logica di fatturazione e assicurarsi che le operazioni vengano modificate di conseguenza.  
 
-Prima di implementare l'allineamento della data di fatturazione, abbiamo fatturato e addebitato alla data dell'anniversario della fatturazione del partner, ovvero la data in cui il partner si è registrato al programma CSP, e non alla data dell'anniversario dell'abbonamento del cliente, ovvero la data in cui il cliente ha acquistato l'abbonamento. Dopo la data di implementazione, i partner riceveranno l'addebito alla data dell'anniversario dell'abbonamento, eliminando questo periodo gratuito.  I partner continueranno a ricevere le fatture alla data dell'anniversario di fatturazione, ma la data di validità della fattura sarà la data dell'anniversario dell'abbonamento del cliente. 
+Prima di implementare l'allineamento della data di fatturazione, abbiamo fatturato e addebitato alla data dell'anniversario della fatturazione di un partner, ovvero la data in cui il partner si è registrato al programma CSP, e non alla data dell'anniversario dell'abbonamento del cliente, ovvero la data in cui il cliente ha acquistato l'abbonamento. Dopo la data di implementazione, i partner riceveranno l'addebito alla data dell'anniversario dell'abbonamento, eliminando questo periodo gratuito.  I partner continueranno a ricevere le fatture alla data dell'anniversario di fatturazione, ma la data di validità della fattura sarà la data dell'anniversario dell'abbonamento del cliente. 
 
 Gli abbonamenti che si trovano nel periodo gratuito alla data di implementazione, non riceveranno l'addebito tra la data di acquisto e la data di fatturazione del partner. Inoltre, non riceveranno l'addebito per il primo mese del termine di pagamento di 12 mesi. Se usi un file di riconciliazione per la verifica, tieni presente che questo addebito del primo mese non sarà più visibile nel file di riconciliazione.  
 
@@ -485,7 +487,7 @@ Il 15 giugno il file di riconciliazione conterrà solo le righe di fatturazione 
 
 La data di fatturazione del partner è il 15 del mese. Il 1° giugno 2018 il partner acquista un nuovo abbonamento. L'abbonamento ha il prezzo di $30 per licenza al mese. Il 5 giugno 2018 il partner sospende l'abbonamento. Il 10 giugno 2018 il partner riattiva l'abbonamento. Il 15 giugno il file di riconciliazione conterrà le righe di fatturazione seguenti:
 
-- Addebito di $30 per il periodo di servizio 1 giugno - 30 giugno. 
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno. 
 - Credito per annullamento -$30 per il periodo di servizio 5 giugno - 30 giugno. Il credito non è ripartito proporzionalmente perché l'abbonamento è stato sospeso nei primi 30 giorni. 
 - Addebito di $30 per il periodo di servizio 10 giugno - 30 giugno. L'addebito non è ripartito proporzionalmente perché l'abbonamento è stato riattivato nei primi 30 giorni. 
 
@@ -501,7 +503,7 @@ Quando un abbonamento viene sospeso e riattivato, la data di rinnovo automatico 
 
 La data di fatturazione del partner è il 15 del mese. Il 1° giugno 2018 il partner acquista un nuovo abbonamento. L'abbonamento ha il prezzo di $30 per licenza al mese. Il 20 giugno 2018 il partner sospende l'abbonamento. Il 25 giugno 2018 il partner riattiva l'abbonamento. Il 15 giugno il file di riconciliazione conterrà le righe di fatturazione seguenti:
 
-- Addebito di $30 per il periodo di servizio 1 giugno - 30 giugno. 
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno. 
 
 |**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
@@ -522,7 +524,7 @@ Il 15 luglio il file di riconciliazione conterrà le righe di fatturazione segue
 
 La data di fatturazione del partner è il 15 del mese. Il 1° giugno 2018 il partner acquista un nuovo abbonamento. L'abbonamento ha il prezzo di $30 per licenza al mese. Il 20 giugno 2018 il partner sospende l'abbonamento. Il 25 giugno 2018 il partner riattiva l'abbonamento con due licenze. Il 15 giugno il file di riconciliazione conterrà le righe di fatturazione seguenti:
 
-- Addebito di $30 per il periodo di servizio 1 giugno - 30 giugno. 
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno. 
 
 |**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
@@ -531,7 +533,7 @@ La data di fatturazione del partner è il 15 del mese. Il 1° giugno 2018 il par
 Il 15 luglio il file di riconciliazione conterrà le righe di fatturazione seguenti:
 - Credito per annullamento -$30 per il periodo di servizio 20 giugno - 30 giugno. Il credito non è ripartito proporzionalmente perché l'abbonamento è stato sospeso nei primi 30 giorni.
 - Addebito di $30 per il periodo di servizio 25 giugno - 30 giugno. L'addebito di riattivazione non è ripartito proporzionalmente perché l'abbonamento è stato riattivato nei primi 30 giorni. L'addebito è anche calcolato in base alla quantità di licenze originali, ovvero 1.
-- Credito di -$6 il per periodo di servizio 25 giugno - 30 giugno. L'addebito di riattivazione è stato effettuato solo per 1 licenza durante il periodo di servizio 25 giugno - 30 giugno, quando si disponeva di 2 licenze. Il credito di $6 annulla l'addebito non corretto per il periodo di servizio 25 giugno - 30 giugno.
+- Credito di -$6 per il periodo di servizio 25 giugno - 30 giugno. L'addebito di riattivazione è stato effettuato solo per 1 licenza durante il periodo di servizio 25 giugno - 30 giugno, quando disponevi di 2 licenze. Il credito di $6 annulla l'addebito non corretto per il periodo di servizio 25 giugno - 30 giugno.
 - Nuova fattura di $12 ripartita proporzionalmente per il periodo di servizio 25 giugno - 30 giugno. Il partner aveva 2 licenze durante questo periodo di servizio. Il prezzo unitario viene calcolato come (30/30)*6*2 = $12.
 - Addebito di $60 per il periodo di servizio 1 luglio - 31 luglio.
 
@@ -577,7 +579,7 @@ La data di fatturazione del partner è il 15 del mese. Il 1° giugno il partner 
 
 Il 15 giugno il file di riconciliazione conterrà solo le righe di fatturazione seguenti:
 
-- Addebito di $30 per il periodo di servizio 1 giugno - 30 giugno.
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno.
 
 |**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
 |-----------------|:-------------|:----------------|:------------|:------|---------|
@@ -606,7 +608,7 @@ Il 15 agosto il file di riconciliazione conterrà le righe seguenti:
 
 La data di fatturazione del partner è il 15 del mese. Il 1° giugno il partner acquista un nuovo abbonamento per $30 al mese. Il 10 giugno il partner aumenta la quantità di licenze da 1 a 2. Il 15 giugno il file di riconciliazione conterrà le righe di fatturazione seguenti:
 
-- Addebito di $30 per il periodo di servizio 1 giugno - 30 giugno. Anche se il partner ha aumentato la quantità di licenze prima della data di fatturazione del 15 giugno, la modifica non verrà riconosciuta nel sistema di fatturazione Microsoft fino al giorno dell'anniversario dell'abbonamento del 1° luglio.
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno. Anche se il partner ha aumentato la quantità di licenze prima della data di fatturazione del 15 giugno, la modifica non verrà riconosciuta nel sistema di fatturazione Microsoft fino al giorno dell'anniversario dell'abbonamento del 1° luglio.
 
 |**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
@@ -636,7 +638,7 @@ Il 10 giugno il partner acquista un abbonamento per componente aggiuntivo di una
 
 Il 15 giugno il file di riconciliazione conterrà le righe di fatturazione seguenti:
 
-- Addebito di $30 per il periodo di servizio 1 giugno - 30 giugno. Questo viene applicato per l'abbonamento di base.
+- Addebito di $30 per periodo di servizio 1 giugno - 30 giugno. Questo viene applicato per l'abbonamento di base.
 - Addebito di $3,50 ripartito proporzionalmente per il periodo di servizio 10 giugno - 30 giugno. Questo viene applicato per l'abbonamento per componente aggiuntivo. 
 
 |**Inizio addebito**   |**Fine addebito**   |**Prezzo unitario**   |**Quantità**   |**Importo**   |**Tipo di addebito** |

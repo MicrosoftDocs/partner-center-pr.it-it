@@ -2,17 +2,19 @@
 title: Gestire sottoscrizioni e risorse nel piano di Azure | Centro per i partner
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Acquistare più sottoscrizioni di Azure nel piano di Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: c86dee497df6701be0b0c1a734d37823ec51ca9c
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: ededae0c8e8212697648cda2c00f23fd457fa877
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428500"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653858"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gestire sottoscrizioni e risorse nel piano di Azure
 
@@ -21,11 +23,11 @@ Quando esegui la transizione di un cliente al piano di Azure, per impostazione p
  > [!NOTE]
  > I diritti di amministratore sulla sottoscrizione di Azure possono essere rimossi dal cliente a livello di sottoscrizione, gruppo di risorse o carico di lavoro. 
 
- I partner possono ottenere il controllo operativo e la gestione (24 ore su 24 e 7 giorni su 7) delle risorse di Azure di un cliente in CSP usando diverse opzioni disponibili tramite la funzionalità di controllo degli accessi in base al ruolo (RBAC). 
+ I partner possono ottenere il controllo e la gestione operativi (24 ore su 24, 7 giorni su 7) delle risorse di Azure di un cliente in CSP usando diverse opzioni disponibili tramite la funzionalità di controllo degli accessi in base al ruolo. 
 
-- **Amministratore per conto terzi (AOBO, Admin on Behalf Of)** : nella modalità [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) qualsiasi utente con il ruolo di agente amministratore nel tenant del partner avrà accesso come proprietario del controllo degli accessi in base al ruolo alle sottoscrizioni di Azure create dal partner tramite il programma CSP.
+- **Amministratore per conto terzi (AOBO, Admin On Behalf Of)** : nella modalità [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) qualsiasi utente con il ruolo di agente amministratore nel tenant del partner avrà accesso come proprietario del controllo degli accessi in base al ruolo alle sottoscrizioni di Azure che crei tramite il programma CSP.
 
-- **Azure Lighthouse**: la modalità Amministratore per conto terzi non offre la flessibilità di creare gruppi distinti che funzionano con clienti diversi o di abilitare ruoli diversi per gruppi o utenti. Con Azure Lighthouse è possibile assegnare gruppi diversi a clienti o ruoli diversi. Poiché gli utenti avranno il livello di accesso appropriato tramite la gestione delle risorse delegata di Azure, è possibile ridurre il numero di utenti che hanno il ruolo di agente amministratore e quindi dispongono dell'accesso completo come amministratore per conto terzi. Questo consente di migliorare la sicurezza limitando l'accesso non necessario alle risorse dei clienti e inoltre offre maggiore flessibilità per la gestione di più clienti su larga scala. Per altre informazioni, leggi [Azure Lighthouse e programma Cloud Solution Provider](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
+- **Azure Lighthouse**: la modalità AOBO non offre la flessibilità di creare gruppi distinti che funzionano con clienti diversi o di abilitare ruoli diversi per gruppi o utenti. Con Azure Lighthouse è possibile assegnare gruppi diversi a clienti o ruoli diversi. Poiché gli utenti avranno il livello di accesso appropriato tramite la gestione delle risorse delegata di Azure, è possibile ridurre il numero di utenti che hanno il ruolo di agente amministratore e quindi dispongono dell'accesso completo come amministratore per conto terzi. Questo consente di migliorare la sicurezza limitando l'accesso non necessario alle risorse dei clienti e inoltre offre maggiore flessibilità per la gestione di più clienti su larga scala. Per altre informazioni, leggi [Azure Lighthouse e programma Cloud Solution Provider](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
 
 -  **Utenti di directory, utenti guest o [Entità servizio](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** : è possibile delegare l'accesso granulare alle sottoscrizioni CSP aggiungendo utenti nella directory dei clienti oppure aggiungendo utenti guest e assegnando ruoli specifici del controllo degli accessi in base al ruolo. 
 

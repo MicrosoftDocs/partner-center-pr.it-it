@@ -1,18 +1,20 @@
 ---
 title: Domande frequenti sui requisiti di sicurezza per i partner | Centro per i partner
 ms.topic: article
-ms.date: 09/27/2019
+ms.date: 11/09/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Domande frequenti sui requisiti di sicurezza per i partner
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
-ms.openlocfilehash: 43ad23ea7d4b4b39fb2dc6d15095a8416c7360ab
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: cbb3cef48b2b4c9141f25ab7cd75bb20e54128de
+ms.sourcegitcommit: 31e9598577981b8a7e484490ed630a2f4db56cf4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73142026"
+ms.lasthandoff: 11/11/2019
+ms.locfileid: "73915028"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Domande frequenti sui requisiti di sicurezza per i partner
 
@@ -20,40 +22,17 @@ Questo articolo contiene alcune domande frequenti sui [requisiti di sicurezza pe
 
 ## <a name="partner-security-requirements"></a>Requisiti di sicurezza per i partner
 
-### <a name="what-are-the-new-partner-security-requirements"></a>Quali sono i nuovi requisiti di sicurezza per i partner?
-
-Per la protezione dei partner Microsoft e dei rispettivi clienti, è opportuno che i partner intraprendano immediatamente le azioni seguenti:  
-
-1. **Abilitare Multi-Factor Authentication (MFA) per tutti gli utenti inclusi nei tenant dei partner**. Tutti gli utenti inclusi nei tenant dei partner devono usare Multi-Factor Authentication (MFA) per accedere ai servizi cloud commerciali Microsoft o per eseguire transazioni in CSP tramite API o il Centro per i partner. Con l'abilitazione dei criteri di protezione di base, MFA è disponibile gratuitamente per tutti gli utenti inclusi nei tenant dei partner.
-
-2. **Adottare il framework del modello di applicazione sicura**. Tutti i partner che eseguono l'integrazione usando un'API Microsoft, quale Azure Resource Manager, Microsoft Graph o l'API del Centro per i partner, devono adottare il framework del modello di applicazione sicura per evitare problemi di integrazione quando sono abilitati i criteri di base.
-
-L'abilitazione di Multi-Factor Authentication e l'adozione del framework del modello di applicazione sicura consentono infatti di proteggere l'infrastruttura e salvaguardare i dati dei clienti da potenziali rischi per la sicurezza, come l'identificazione di un furto o di altri eventi illeciti.  
-
-### <a name="which-partners-need-to-meet-the-requirements"></a>Quali partner devono soddisfare i requisiti?
-
-Questi requisiti devono essere soddisfatti dai gruppi di partner seguenti:
-
-- Tutte le organizzazioni partner che partecipano al programma Cloud Solution Provider (CSP) ed effettuano le transazioni usando i servizi cloud commerciali Microsoft
-  - Partner con fatturazione diretta
-  - Provider indiretti
-  - Rivenditori indiretti
-- Tutti i fornitori del pannello di controllo
-- Tutti i partner del programma Advisor  
-
-Tutti i partner che effettuano le transazioni attraverso un cloud sovrano (21Vianet, governo statunitense e Germania) non sono più tenuti a soddisfare i nuovi requisiti di sicurezza a partire dal 1° agosto. Ciononostante, è fortemente consigliabile che tutti i partner che usano un cloud sovrano agiscano e adottino immediatamente questi nuovi requisiti di sicurezza. Microsoft fornirà altri dettagli sull'applicazione di questi requisiti di sicurezza per i cloud sovrani in futuro.
-
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Quali sono le tempistiche e le attività cardine?
 
-Le condizioni associate a questi requisiti di sicurezza verranno immediatamente aggiunte alla [Guida al programma Cloud Solution Provider](https://go.microsoft.com/fwlink/p/?LinkId=617100). Questi requisiti di sicurezza devono essere stati implementati a partire dal 1° agosto 2019 conformemente alla partecipazione del partner al programma CSP.
+Le condizioni associate ai requisiti di sicurezza sono incluse nel Contratto Microsoft Partner. Questi requisiti di sicurezza devono essere implementati per la conformità alla partecipazione al programma Cloud Solution Provider.
 
 ### <a name="what-will-happen-if-i-do-not-take-any-actions"></a>Cosa succede se non intraprendo alcuna azione?
 
 I partner che non soddisfano questi obblighi e requisiti di sicurezza non potranno effettuare transazioni nell'ambito del programma Cloud Solution Provider o gestire i tenant dei clienti usando diritti di amministratore delegato quando vengono applicati questi requisiti. È in corso il processo di identificazione di una data di applicazione per i requisiti. I partner riceveranno una notifica con tale data e informazioni dettagliate.
 
-### <a name="what-will-happen-if-i-dont-implement-mfa-as-per-this-new-security-requirement-by-august-1-2019"></a>Cosa succede se l'autenticazione MFA non è stata implementata entro il 1° agosto 2019, come definito dai nuovi requisiti per la sicurezza?
+### <a name="what-will-happen-if-i-do-not-implement-these-partner-security-requirements"></a>Cosa accade se non vengono implementati questi requisiti di sicurezza per i partner?
 
-Dal 1° agosto 2019 sono entrate in vigore le condizioni associate a questi requisiti di sicurezza nella [Guida al programma Cloud Solution Provider](https://go.microsoft.com/fwlink/p/?LinkId=617100). Per rispettare queste condizioni e proteggere la propria azienda, tutti i partner che partecipano al programma CSP devono quindi soddisfare i requisiti. I partner che non rispettano queste procedure di sicurezza possono perdere la facoltà di effettuare transazioni nel programma CSP o gestire i tenant dei clienti sfruttando i diritti di amministratore delegato dal momento in cui viene eseguita l'applicazione tecnica dei requisiti di sicurezza per i partner. Viene stabilita una data di applicazione di cui vengono tempestivamente informati i partner.
+Il Contratto Microsoft Partner prevede che venga imposta l'autenticazione a più fattori per gli account utente e che venga adottato il modello di applicazione sicura per l'interazione con l'API del Centro per i partner. I partner che non rispettano queste procedure di sicurezza possono perdere la facoltà di effettuare transazioni nel programma Cloud Solution Provider o gestire i tenant dei clienti sfruttando i diritti di amministratore delegato.
 
 ### <a name="why-is-microsoft-enforcing-these-new-requirements"></a>Perché Microsoft applica questi nuovi requisiti?
 
@@ -65,7 +44,7 @@ Sì, queste informazioni fanno riferimento a tutte le aree geografiche? È forte
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>È possibile ottenere un'esclusione per un account?
 
-No, non è possibile escludere alcun account dal requisito di applicazione dell'autenticazione MFA. Considerati i privilegi elevati della condizione di partner, la [Guida al programma Cloud Solution Provider](https://go.microsoft.com/fwlink/p/?LinkId=617100) prevede che l'autenticazione MFA venga applicata a tutti gli account presenti nel tenant del partner.
+No, non è possibile escludere alcun account utente dal requisito di imposizione dell'autenticazione MFA. Considerati i privilegi elevati della condizione di partner, il Contratto Microsoft Partner prevede che l'autenticazione a più fattori venga imposta a tutti gli account utente presenti nel tenant del partner.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Come faccio a sapere se soddisfo i requisiti di sicurezza per i partner?
 
@@ -86,16 +65,12 @@ Tutti i partner del programma CSP (partner con fatturazione diretta, provider in
 
 1. **Applicazione di MFA a tutti gli utenti**
 
-    Tutti i partner del programma CSP, gli Advisor e i fornitori di pannelli di controllo devono applicare l'autenticazione MFA a tutti gli utenti inclusi nel tenant del partner. Questa operazione può essere eseguita abilitando il criterio [Richiedi la MFA per gli amministratori](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators), i [criteri di base per la protezione dell'utente finale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) ed eventuali altri criteri di base futuri. I vantaggi offerti dai criteri di base continueranno a evolversi per garantire che partner e clienti siano sempre protetti dalle minacce alla sicurezza in continua evoluzione. Per altre informazioni, consultare la [documentazione sui criteri di base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).
-
-    - Vedere [Criteri di base: Richiedi la MFA per gli amministratori](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) per informazioni dettagliate su come abilitare i criteri di base relativi alla richiesta di MFA per gli amministratori.
-    - Vedere [Criteri di base: Protezione dell'utente finale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) per informazioni dettagliate su come abilitare i criteri di base per la protezione degli utenti finali.
-    - Comprendere il concetto di [criteri di protezione di base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).
+    Tutti i partner del programma CSP, gli Advisor e i fornitori di pannelli di controllo devono applicare l'autenticazione MFA a tutti gli utenti inclusi nel tenant del partner.
 
     Considerazioni aggiuntive:
 
     - I provider indiretti devono collaborare con rivenditori indiretti per poter eseguire l'onboarding nel Centro per i partner, qualora non lo abbiano già fatto, e incoraggiare i rivenditori a soddisfare i requisiti.
-    - Azure MFA viene resa disponibile gratuitamente a tutti gli utenti inclusi nel tenant del partner tramite i criteri di base con l'[app Microsoft Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview) come unico metodo di verifica.
+    - L'autenticazione MFA di Azure viene resa disponibile per tutti gli utenti del tenant del partner senza costi aggiuntivi tramite le impostazioni predefinite per la sicurezza Azure AD con l'unico metodo di verifica di un'applicazione di autenticazione che supporta Time-Based One-Time Passwords (TOTP).
     - Se sono necessari altri metodi di verifica, ad esempio una telefonata o un SMS, è possibile ricorrere a metodi aggiuntivi tramite le SKU [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium).
     - Quando accedono ai servizi cloud commerciali Microsoft, i partner possono usare anche una soluzione MFA di terze parti per ogni account.
 
@@ -124,34 +99,9 @@ MFA è un meccanismo di sicurezza che consente agli utenti di eseguire l'autenti
 - Un oggetto fisico (un dispositivo attendibile non facilmente duplicabile, come un telefono)
 - Una caratteristica personale (biometria)
 
-### <a name="what-are-baseline-protection-policies"></a>Cosa sono i criteri di protezione di base?
-
-I [criteri di protezione di base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) (attualmente in anteprima) sono un set di criteri predefiniti che consentono di proteggere le organizzazioni da molti attacchi comuni. Questi attacchi comuni possono includere password spraying, riproduzione e phishing. I criteri di protezione di base sono disponibili in tutte le edizioni di Azure Active Directory. A seguito dell'aumento degli attacchi basati sull'identità registrato negli ultimi anni, Microsoft li renderà presto disponibili a tutti gli utenti. Questi criteri sono stati sviluppati al fine di garantire che tutte le organizzazioni dispongano di un livello di sicurezza di base senza costi aggiuntivi.
-
-> [!NOTE]
-> I criteri di base Microsoft e le funzionalità correlate continueranno a evolversi per proteggere meglio partner e clienti dalle minacce alla sicurezza in continua evoluzione. È possibile anche che ai criteri di base vengano apportate alcune modifiche a livello di denominazione e tassonomia. Per consultare le informazioni più recenti, si consiglia di visitare direttamente le pagine dei criteri di base.
-
-### <a name="what-baseline-policies-must-i-enable"></a>Quali criteri di base è necessario abilitare?
-
-Se prevedi di usare i criteri di protezione di base correnti per fornire l'autenticazione MFA per ogni account incluso nel tenant del partner, devi abilitare i criteri di base [Richiedi la MFA per gli amministratori](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) e [Protezione dell'utente finale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users). Questi criteri di protezione di base consentiranno di soddisfare gratuitamente il requisito relativo all'autenticazione MFA solo agli utenti inclusi nel tenant del partner che usano app Microsoft Authenticator tramite dispositivo mobile.
-
-I [criteri di base Richiedi la MFA per gli amministratori](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) vengono usati per gli utenti amministratori nella directory dei partner, mentre i criteri di base [Protezione dell'utente finale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) vengono applicati per proteggere gli utenti non amministratori nel tenant del partner. Per abilitare questi criteri, gli utenti dovranno effettuare la registrazione all'autenticazione MFA. Dopo aver effettuato la registrazione, verrà loro richiesta l'autenticazione MFA durante le procedure di accesso, in base a quanto definito dai singoli criteri. I vantaggi offerti dai criteri di base continueranno a evolversi per garantire che partner e clienti siano sempre protetti dalle minacce alla sicurezza in continua evoluzione. Per altre informazioni, consultare la [documentazione sui criteri di base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).
-
-### <a name="how-do-i-enable-the-require-mfa-for-admins-policy"></a>Come è possibile abilitare i criteri Richiedi la MFA per gli amministratori?
-
-I criteri di base Richiedi la MFA per gli amministratori possono essere abilitati tramite il portale di gestione di Azure. Vedere [Criteri di base: Richiedi la MFA per gli amministratori](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) per informazioni dettagliate su come abilitare i criteri di base.
-
-### <a name="how-do-i-enable-the-end-user-protection-policy"></a>Come è possibile abilitare i criteri Protezione dell'utente finale?
-
-I criteri di base Protezione degli utenti finali possono essere abilitati tramite il portale di gestione di Azure. Vedere [Criteri di base: Protezione dell'utente finale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) per informazioni dettagliate su come abilitare questi criteri di base.
-
-### <a name="will-the-baseline-policies-be-automatically-enabled"></a>I criteri di base verranno abilitati automaticamente?
-
-No, per abilitare questi criteri, un utente membro del ruolo amministratore globale, amministratore della sicurezza o amministratore dell'accesso condizionale dovrà configurare i criteri su Usa i criteri immediatamente.
-
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>Quanto costa abilitare l'autenticazione MFA?
 
-Microsoft offre l'autenticazione MFA gratuitamente tramite l'implementazione dei criteri di base [Richiedi la MFA per gli amministratori](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) e [Protezione dell'utente finale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users). L'unica opzione di verifica disponibile tramite questa versione di MFA è l'[app Microsoft Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview). Se si preferisce usare una telefonata o un SMS come opzione di verifica, sarà necessario acquistare una licenza di [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium). In alternativa, è possibile usare una soluzione di terze parti per fornire l'autenticazione MFA a ogni utente incluso nel tenant del partner. In questo caso, è responsabilità del partner accertarsi che la soluzione MFA venga applicata e che siano rispettati tutti i requisiti.
+Microsoft offre l'autenticazione MFA senza costi aggiuntivi tramite l'implementazione delle impostazioni predefinite per la sicurezza Azure AD. L'unica opzione di verifica disponibile con questa versione di MFA è un'applicazione di autenticazione. Se si preferisce usare una telefonata o un SMS come opzione di verifica, sarà necessario acquistare una licenza di [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium). In alternativa, è possibile usare una soluzione di terze parti per fornire l'autenticazione MFA per ogni utente incluso nel tenant del partner. In questo caso, è responsabilità del partner accertarsi che la soluzione MFA venga imposta e che siano rispettati tutti i requisiti.
 
 ### <a name="if-i-already-have-an-mfa-solution-what-actions-do-i-need-to-take"></a>Se si dispone già di una soluzione MFA, quali azioni è necessario eseguire?
 
@@ -160,17 +110,13 @@ Attraverso questi requisiti di sicurezza, agli utenti inclusi nel tenant di un p
 > [!IMPORTANT]
 > Se usi una soluzione di terze parti, è importante verificare che rilasci l'attestazione con il riferimento al metodo di autenticazione (Authentication Method Reference, AMR) contenente il valore MFA. Per informazioni dettagliate su come verificare che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza per i partner](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements).
 
-### <a name="what-verification-method-can-i-use-to-authenticate-mfa"></a>Quale metodo di verifica è possibile usare per eseguire l'autenticazione MFA?
-
-Microsoft offre l'autenticazione MFA gratuitamente tramite l'implementazione dei criteri di base [Richiedi la MFA per gli amministratori](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) e [Protezione dell'utente finale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users). L'unica opzione di verifica disponibile tramite questa versione di MFA è l'[app Microsoft Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview). Se si preferisce usare una telefonata o un SMS come opzione di verifica, sarà necessario acquistare una licenza di [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium). In alternativa, è possibile usare una soluzione di terze parti per fornire l'autenticazione MFA a ogni utente incluso nel tenant del partner. In questo caso, è responsabilità del partner accertarsi che la soluzione MFA venga applicata e che siano rispettati tutti i requisiti.
-
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>Se vengono usati più tenant di partner per eseguire la transazione, e necessario implementare l'autenticazione MFA su tutti i tenant?
 
 Sì, sarà necessario applicare l'autenticazione MFA a tutti i tenant di Azure Active Directory associati al programma CSP o al programma Advisor. Se si prevede di acquistare una licenza di Azure Active Directory Premium, sarà necessario acquistare una licenza per l'utente in ogni tenant di Azure Active Directory.
 
-### <a name="does-each-user-in-my-partner-tenant-need-to-have-mfa-enforced"></a>È necessario che l'autenticazione MFA venga applicata a ogni utente incluso nel tenant del partner?*
+### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>È necessario che l'autenticazione MFA venga imposta a ogni account utente incluso nel tenant del partner?
 
-I criteri di protezione di base [Richiedi la MFA per gli amministratori](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) e [Protezione dell'utente finale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) applicheranno l'autenticazione MFA a ogni utente incluso nel tenant del partner. Se si ricorre a questi criteri per fornire l'autenticazione MFA e si usa l'applicazione [Microsoft Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview), non sarà quindi necessario acquistare licenze aggiuntive. In caso contrario, sarà necessario acquistare una soluzione appropriata per fornire l'autenticazione MFA a ogni utente incluso nel tenant del partner.
+Sì, per ogni utente sarà necessario imporre l'autenticazione MFA. Considera che se usi le impostazioni predefinite per la sicurezza Azure AD, non è necessaria alcuna azione aggiuntiva perché tale funzionalità impongono l'autenticazione MFA per tutti gli account utente. Tuttavia, l'abilitazione delle impostazioni predefinite per la sicurezza è un modo semplice e gratuito per garantire che gli account utente siano conformi all'autenticazione MFA e non subiscano effetti quando questa viene imposta.
 
 ### <a name="i-am-a-direct-bill-partner-with-microsoft-what-do-i-need-to-do"></a>Sono un partner con fatturazione diretta con Microsoft. Come devo procedere?
 
@@ -194,9 +140,9 @@ Per altre informazioni, vedere l'[Elenco di compatibilità della federazione di 
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>Come è possibile testare l'autenticazione MFA in una sandbox di integrazione?
 
-I criteri di protezione di base [Richiedi la MFA per gli amministratori](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) e [Protezione dell'utente finale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) dovrebbero essere già abilitati per il tenant della sandbox di integrazione. Tramite questi criteri, a ogni utente del tenant sarà richiesto di eseguire l'autenticazione tramite una soluzione MFA.
+Le impostazioni predefinite per la sicurezza Azure AD devono essere abilitate o in alternativa puoi usare una soluzione di terze parti basata sulla federazione.
 
-### <a name="will-enabling-mfa-effect-how-i-interact-with-my-customers-tenant"></a>L'abilitazione dell'autenticazione MFA influirà sulle modalità di interazione con il tenant dei clienti?
+### <a name="will-enabling-mfa-effect-how-i-interact-with-my-customers-tenant"></a>L'abilitazione dell'autenticazione MFA influirà sulle modalità di interazione con il tenant del cliente?
 
 No. L'applicazione di questi requisiti di sicurezza non avrà alcun effetto sulle modalità di gestione dei clienti. Non verrà ad esempio annullata la possibilità di eseguire operazioni amministrative delegate.
 
@@ -204,41 +150,29 @@ No. L'applicazione di questi requisiti di sicurezza non avrà alcun effetto sull
 
 No, non è necessario applicare l'autenticazione MFA anche agli utenti inclusi nei tenant Azure AD dei clienti. Si consiglia tuttavia di collaborare con ogni cliente per determinare le procedure migliori per proteggere i rispettivi utenti.
 
-### <a name="can-app-passwords-be-used-with-the-baseline-protection-policies"></a>È possibile usare password di app con i criteri di protezione di base?
-
-Sì, è possibile usare [password di app](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords). Esaminare le considerazioni per l'uso delle password di app [qui](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) documentate per determinare se sono supportate per l'uso desiderato.
-
 ### <a name="can-any-user-be-excluded-from-this-requirement"></a>È possibile escludere un utente da questi requisiti?
 
 No, l'autenticazione MFA è prevista per tutti gli utenti inclusi nel tenant del partner, inclusi gli account di servizio.
 
 ### <a name="do-the-partner-security-requirements-apply-to-the-integration-sandbox"></a>I requisiti di sicurezza dei partner vengono applicati anche alla sandbox di integrazione?
 
-Sì, i requisiti di sicurezza dei partner vengono applicati anche alla sandbox di integrazione. Questo significa che sarà necessario implementare la soluzione MFA appropriata per gli utenti inclusi nel tenant della sandbox di integrazione. È consigliabile implementare i criteri di protezione di base per fornire l'autenticazione MFA.
+Sì, i requisiti di sicurezza dei partner vengono applicati anche alla sandbox di integrazione. Questo significa che sarà necessario implementare la soluzione MFA appropriata per gli utenti inclusi nel tenant della sandbox di integrazione. Per fornire l'autenticazione MFA, è consigliabile implementare le impostazioni predefinite per la sicurezza Azure AD.
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>Come è possibile configurare un account di accesso di emergenza (break glass)?
 
 È consigliabile creare uno o due account di accesso di emergenza per impedire di essere inavvertitamente bloccati dal tenant di Azure AD. In merito ai requisiti di sicurezza dei partner, è necessario che ogni utente esegua l'autenticazione tramite Multi-Factor Authentication. Questo significa tuttavia che sarà necessario modificare la definizione di un account di accesso di emergenza. Potrebbe trattarsi, ad esempio, di un account che usa una soluzione di terze parti per l'autenticazione MFA.
 
-### <a name="how-will-guest-users-be-impacted-by-the-partner-security-requirements"></a>In che modo gli utenti guest saranno interessati dai requisiti di sicurezza dei partner?
-
-Gli utenti guest dovranno eseguire l'autenticazione MFA quando accedono al tenant del partner. I requisiti di sicurezza dei partner non avranno invece alcuna conseguenza sugli utenti guest che accedono alle risorse nel tenant personale.
-
 ### <a name="if-i-am-using-a-third-party-solution-is-active-directory-federation-service-adfs-required"></a>Se si usa una soluzione di terze parti, è necessario Active Directory Federation Service (ADFS)?
 
 No, se si una soluzione di terze parti, non è necessario avere Active Directory Federation Service (ADFS). Si consiglia di rivolgersi al fornitore della soluzione per determinare quali sono i requisiti per la soluzione.
 
-### <a name="is-it-a-requirement-to-enable-the-baseline-protection-policies"></a>È necessario abilitare i criteri di protezione di base?
+### <a name="is-it-a-requirement-to-enable-azure-ad-security-defaults"></a>È necessario abilitare le impostazioni predefinite per la sicurezza Azure AD?
 
-No, non è necessario abilitare i criteri di protezione di base. L'unico requisito è quello di applicare l'autenticazione MFA per ogni utente presente nel tenant del partner, inclusi gli account del servizio.
+No, non è necessario abilitarle.
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>È possibile usare l'accesso condizionale per soddisfare il requisito di autenticazione MFA?
 
 Sì, è possibile usare l'accesso condizionale per applicare l'autenticazione MFA a ogni utente presente nel tenant del partner, inclusi gli account di servizio. Considerati i privilegi elevati della condizione di partner, è tuttavia necessario garantire che ogni utente disponga di una richiesta MFA per ogni singola autenticazione. Questo significa che non sarà possibile usare la funzionalità di accesso condizionale che elude la necessità di usare l'autenticazione MFA.
-
-### <a name="what-verification-options-are-provided-through-the-implementation-of-the-baseline-protection-policies"></a>Quali opzioni di verifica vengono fornite tramite l'implementazione dei criteri di protezione di base?
-
-Relativamente alla versione di Multi-Factor Authentication disponibile tramite l'implementazione dei criteri di protezione di base, l'unica opzione di verifica disponibile è un'app di autenticazione. Considerato meno sicuro, l'uso di una telefonata o di un SMS non è disponibile con questa versione di MFA.
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>L'account di servizio usato da Azure AD Connect sarà interessato dai requisiti di sicurezza dei partner?
 
@@ -275,7 +209,7 @@ Un fornitore di pannelli di controllo è un fornitore di software indipendente c
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Il modello di applicazione sicura deve essere implementato solo per l'API/SDK del Centro per i partner?
 
-Se sono abilitati entrambi i criteri di base *Richiedi la MFA per gli amministratori* e *Protezione dell'utente finale*, tutti gli utenti dovranno eseguire l'autenticazione MFA. Questo significa che sarà necessario implementare il modello di applicazione sicura per ogni API, interfaccia della riga di comando e modulo di PowerShell (ad esempio Azure, Azure AD, MS online, Centro per i partner e così via) che deve essere eseguito in modo non interattivo e si basa sull'uso delle credenziali utente per l'autenticazione.
+L'applicazione dell'autenticazione a più fattori per tutti gli account utente influirà sull'automazione o l'integrazione progettata per l'esecuzione in modalità non interattiva. Anche se i requisiti di sicurezza per i partner richiedano di abilitare il modello di applicazione sicura per l'API del Centro per i partner, è possibile sfruttarlo per soddisfare la necessità di un secondo fattore di autenticazione con l'automazione e l'integrazione. Tieni presente che la risorsa che viene aperta deve supportare l'autenticazione basata su token di accesso.
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Sono in uso strumenti di automazione come PowerShell. Come viene implementato il modello di applicazione sicura?
 
@@ -349,12 +283,6 @@ L'applicazione tecnica dei requisiti di sicurezza per i partner verificherà se 
 - Indirizzare eventuali domande e commenti a questo [gruppo di linee guida per la sicurezza del Centro per i partner](https://aka.ms/MPCSecurityGuidance).
 - Partecipare ai prossimi webinar per i partner. Consultare le [risorse e la pianificazione dettagliata qui](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance).
 
-### <a name="resources-for-enabling-mfa"></a>Risorse per abilitare l'autenticazione MFA
-
-- Comprendere il concetto di [criteri di protezione di base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).
-- Vedere [Criteri di base: Richiedi la MFA per gli amministratori](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) per informazioni dettagliate su come abilitare i criteri di base relativi alla richiesta di MFA per gli amministratori.
-- Vedere [Criteri di base: Protezione dell'utente finale](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) per informazioni dettagliate su come abilitare i criteri di base per la protezione degli utenti finali.
-
 ### <a name="resources-for-adopting-secure-application-model"></a>Risorse per l'adozione di un modello di applicazione sicura
 
 - [Panoramica del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
@@ -369,12 +297,6 @@ L'applicazione tecnica dei requisiti di sicurezza per i partner verificherà se 
 ### <a name="where-can-i-get-support"></a>Dove è possibile richiedere il supporto tecnico?
 
 Per le risorse di supporto a cui è possibile ricorrere per soddisfare i requisiti di sicurezza, se si dispone del supporto avanzato per i partner (ASfP), contattare il servizio Gestione account servizio; se invece si dispone del supporto tecnico Premier per i partner (PSfP), contattare il servizio Gestione account servizio o il Technical Account Manager.
-
-### <a name="how-can-i-get-help-with-enabling-the-baseline-policies"></a>Come è possibile ottenere assistenza per l'abilitazione dei criteri di base?
-
-- Per ottenere informazioni più dettagliate su come implementare i requisiti di sicurezza, i partner possono sfruttare le ore di consulenza previste dai vantaggi MPN.
-- Le opzioni di supporto tecnico di prodotto per Azure Active Directory sono disponibili tramite i vantaggi MPN. I partner con accesso a un contratto ASfP o PSfP attivo possono collaborare con il rispettivo Account Manager (SAM/TAM) per comprendere meglio le opzioni disponibili.
-- È possibile accedere al supporto per l'implementazione dei criteri di base con il Centro per i partner tramite la [richiesta di servizio del Centro per i partner](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp). Selezionare *MFA e modello di applicazione sicura* come argomento.
 
 ### <a name="how-do-i-get-technical-information-and-support-to-help-me-adopt-secure-application-model-framework"></a>Come è possibile ottenere assistenza e informazioni tecniche per l'adozione del framework del modello di applicazione sicura?
 

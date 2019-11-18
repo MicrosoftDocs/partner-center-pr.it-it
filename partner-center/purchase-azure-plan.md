@@ -2,17 +2,19 @@
 title: Acquistare il piano di Azure | Centro per i partner
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Acquistare più sottoscrizioni di Azure nel piano di Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 2fefc10c0b5043e6617f4cea9e9c0245a8532321
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: f81b338fef2feeeede17db2e1de84b1d9b0d0ca8
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595925"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654169"
 ---
 # <a name="purchase-the-azure-plan"></a>Acquistare il piano di Azure
 
@@ -53,7 +55,7 @@ Torna alla pagina **Aggiungi prodotto**  in cui puoi vedere che è stato aggiunt
   
 Nel Centro per i partner puoi anche acquistare prenotazioni di Microsoft Azure in base al piano di Azure per conto dei tuoi clienti.
 
-1. Dal menu del Centro per i partner nel tuo [dashboard](https://partner.microsoft.com/dashboard/) seleziona **Clienti**. Trova il cliente che vuole acquistare prenotazioni di Azure e quindi seleziona la freccia rivolta verso il basso per espandere la riga del cliente. 
+1. Dal menu del Centro per i partner nel tuo [dashboard](https://partner.microsoft.com/dashboard/) seleziona **Clienti**. Trova il cliente che vuole acquistare prenotazioni di Azure e quindi seleziona la freccia a discesa per espandere la riga del cliente. 
 
 2. Seleziona **Aggiungi prodotti** e quindi **Azure**. 
 - Scegli il segmento di mercato del cliente dall'elenco **Segmento**. 
@@ -65,7 +67,7 @@ Le prenotazioni di Azure devono essere associate a un piano di Azure attivo. Sce
 >[!Important] 
 >Se il cliente non ha ancora un piano di Azure attivo, seleziona Azure per aggiungerne uno ora. Per altre istruzioni, leggi [Acquista prenotazioni di Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
-Si noti che attualmente l'ambito della prenotazione può essere impostato solo su **Condiviso**. 
+Tieni presente che attualmente l'ambito della prenotazione può essere impostato solo su **Condiviso**. 
 
 ![ambito condiviso](images/azure/addprods1.png)
 

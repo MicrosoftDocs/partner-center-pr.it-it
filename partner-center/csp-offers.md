@@ -2,17 +2,19 @@
 title: Offerte dei partner nell'ambito del programma Cloud Solution Provider | Centro per i partner
 ms.topic: article
 ms.date: 10/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Scopri le offerte a disposizione dei partner che vendono tramite il programma Cloud Solution Provider.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Cloud Solution Provider, programma cloud solution provider, CSP, aggiungere un prodotto, vendere ai clienti, offerte partner, offerte CSP, servizi basati sul cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, istanze riservate Azure, istanze di macchina virtuale riservate di Azure, prenotazioni di Azure, servizi online, software in abbonamento, AHUB, SQL Server su Azure, Windows Server in Azure, abbonamenti dei clienti
 ms.localizationpriority: high
-ms.openlocfilehash: 062c64254ab731bd9396201268aad61ff6b3b74f
-ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
+ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "73045633"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73799210"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Offerte dei partner nell'ambito del programma Cloud Solution Provider 
 
@@ -79,6 +81,9 @@ Nell'elenco seguente sono identificate tutte le nuove aree della pagina **Aggiun
 
 Per acquistare prodotti e servizi per conto dei tuoi clienti CSP, seleziona gli elementi desiderati dal cliente, aggiungili al carrello creando un ordine, quindi rivedi e invia l'ordine. Il processo generale è quello descritto di seguito. Per altre informazioni sugli ordini di un tipo di prodotto specifico, vedi i collegamenti sopra riportati.
 
+>[Nota] Un'offerta CSP deve essere disponibile sia nel paese del tuo tenant che in quello del cliente. 
+>Se ad esempio il tuo tenant si trova in Slovacchia e quello del cliente si trova in Germania, non potrai vendere Dynamics 365 Business Central Premium a tale cliente, perché questa offerta non è attualmente disponibile in Slovacchia.
+
 1. Scegli **Clienti** dal menu Centro per i partner e individua il cliente che intende acquistare da te. 
 
 2. Seleziona la freccia a discesa in fondo alla riga del cliente per espandere il relativo record, quindi seleziona **Aggiungi prodotti**. A partire da questo momento, stai creando un ordine. Un ordine può includere più elementi di tipo diverso, che devono però essere tutti destinati allo stesso cliente.
@@ -95,7 +100,12 @@ Per acquistare prodotti e servizi per conto dei tuoi clienti CSP, seleziona gli 
 
 8. I dettagli dell'ordine, incluso il numero d'ordine, vengono visualizzati nella pagina successiva. Seleziona **Fatto** per passare alla pagina **Cronologia ordini**. 
 
-> [!NOTE]
-> Per informazioni sul funzionamento del processo di fatturazione, vedi [**Nozioni di base sulla fatturazione**](https://docs.microsoft.com/partner-center/billing-basics).
+**Altre informazioni** 
+
+Per informazioni sul funzionamento del processo di fatturazione, vedi [Nozioni di base sulla fatturazione](https://docs.microsoft.com/partner-center/billing-basics).
+
+Per informazioni sull'acquisto con il piano di Azure, vedi [Acquistare il piano di Azure](purchase-azure-plan).
+
+
 
 

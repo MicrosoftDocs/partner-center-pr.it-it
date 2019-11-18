@@ -1,17 +1,19 @@
 ---
 title: Stato dei requisiti di sicurezza per i partner | Centro per i partner
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Puoi rimanere sempre aggiornato sulla conformità della tua azienda ai requisiti MFA.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
-ms.openlocfilehash: 3ca0bcda7be69f0785207f29fbbab20d2402e780
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425108"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661110"
 ---
 # <a name="partner-security-requirements-status"></a>Stato dei requisiti di sicurezza per i partner
 
@@ -26,12 +28,12 @@ ms.locfileid: "72425108"
 
 Le misure di sicurezza e la protezione della privacy sono alcune tra le nostre priorità più importanti. Sappiamo che la migliore difesa è la prevenzione e di essere al sicuro quanto lo sono i nostri punti più deboli. Questo è il motivo per cui è necessario che tutti gli utenti nell'ecosistema agiscano e si assicurino di disporre di protezioni di sicurezza appropriate. Per garantire la sicurezza di partner e clienti, viene introdotto un set di requisiti di sicurezza obbligatori per gli advisor, i fornitori del pannello di controllo e i partner che partecipano al programma Cloud Solution Provider.
 
-A partire dal 1° agosto 2019 tutti i partner sono tenuti a implementare l'autenticazione a più fattori (MFA) per tutti gli utenti, inclusi gli account di servizio, nel tenant partner. Per informazioni più dettagliate sui nuovi criteri di sicurezza, vedi [Requisiti di sicurezza per i partner](partner-security-requirements.md).
+Dal 1° agosto 2019 tutti i partner sono tenuti a implementare l'autenticazione a più fattori per tutti gli utenti, inclusi gli account di servizio, nel tenant partner. Per informazioni più dettagliate sui nuovi criteri di sicurezza, vedi [Requisiti di sicurezza per i partner](partner-security-requirements.md).
 
 L'obiettivo è che ogni utente sia sottoposto a un test MFA per ogni singola autenticazione. Questo risultato può essere ottenuto in uno dei modi seguenti:
 
 - Implementazione di Azure AD Premium per fare in modo che l'autenticazione MFA venga applicata per ogni utente
-- Implementazione dei criteri di protezione di base
+- Implementazione delle [impostazioni predefinite per la sicurezza Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Implementazione di una soluzione di terze parti in modo che l'autenticazione MFA venga applicata per ogni utente
 
 ## <a name="partner-security-requirements-status"></a>Stato dei requisiti di sicurezza per i partner
@@ -39,7 +41,7 @@ L'obiettivo è che ogni utente sia sottoposto a un test MFA per ogni singola aut
 Questo report può essere utile per verificare lo stato dei requisiti di sicurezza poiché consente di individuare i punti deboli. Il rilevamento viene aggiornato regolarmente.
 
 >[!NOTE]
->Il report sullo stato dei requisiti di sicurezza per i partner è supportato solo nel Centro per i partner. Non è disponibile in Microsoft Cloud for US Government o Microsoft Cloud Germania. È fortemente consigliabile che tutti i partner che effettuano transazioni attraverso un cloud sovrano (21Vianet, governo statunitense e Germania) adottino immediatamente questi nuovi requisiti di sicurezza. Tuttavia, non è necessario che questi partner soddisfino i nuovi requisiti di sicurezza con decorrenza a partire dal 1° agosto 2019. Microsoft fornirà altri dettagli sull'applicazione di questi requisiti di sicurezza per i cloud sovrani in futuro. 
+>Il report sullo stato dei requisiti di sicurezza per i partner è supportato solo nel Centro per i partner. Non è disponibile in Microsoft Cloud for US Government o Microsoft Cloud Germania. È fortemente consigliabile che tutti i partner che effettuano transazioni attraverso un cloud sovrano (21Vianet, governo statunitense e Germania) adottino immediatamente questi nuovi requisiti di sicurezza. Tuttavia, non è necessario che questi partner soddisfino i nuovi requisiti di sicurezza con decorrenza a partire dal 1° agosto 2019. Microsoft fornirà altri dettagli sull'applicazione di questi requisiti di sicurezza per i cloud sovrani in futuro.
 
 Ogni volta che i tuoi dipendenti accedono al Centro per i partner per lavorare oppure, tramite le API, ricevono o inviano dati attraverso il Centro per i partner, il loro stato di sicurezza viene testato e monitorato. Sono incluse nel rilevamento dello stato di sicurezza anche le tue applicazioni e tutte le applicazioni del fornitore del pannello di controllo. Lo stato visualizzato è relativo ai sette giorni precedenti.
 
@@ -93,7 +95,7 @@ Verifica se l'implementazione dell'autenticazione MFA corrente copre tutti gli a
 Verifica se l'implementazione corrente applica l'autenticazione MFA solo in condizioni specifiche. Alcune soluzioni MFA presentano caratteristiche di flessibilità e consentono di applicare l'autenticazione MFA solo quando vengono soddisfatte determinate condizioni, ad esempio un utente che accede da un dispositivo o da una posizione sconosciuta. Un utente che è abilitato per l'autenticazione MFA, ma non è tenuto a completare la verifica MFA quando accede al Centro per i partner, può causare il mancato raggiungimento del 100% nelle metriche.
 
 >[!NOTE]
->Per i partner che hanno implementato l'autenticazione MFA usando i criteri di base per la protezione dell'utente finale di Azure AD, è importante notare che la protezione dell'utente finale è un criterio basato sul rischio. Agli utenti coperti dal criterio verrà chiesto di eseguire l'autenticazione MFA solo durante tentativi di accesso a rischio (ad esempio per l'accesso da una località diversa). Inoltre, gli utenti a cui viene applicato questo criterio dispongono di un periodo massimo di 14 giorni per la registrazione per l'autenticazione MFA. Agli utenti che non hanno completato la registrazione MFA non verrà richiesta la verifica MFA durante il periodo di 14 giorni. È previsto pertanto che le metriche non siano pari al 100% per i partner che hanno implementato l'autenticazione MFA usando i criteri di base per la protezione dell'utente finale di Azure AD.
+>Per i partner che hanno imposto l'autenticazione MFA usando le impostazioni predefinite per la sicurezza Azure AD, è importante tenere presente che per nessun account utente amministratore verrà imposta l'autenticazione a più fattori in base al rischio. Agli utenti verrà chiesto di eseguire l'autenticazione MFA solo durante tentativi di accesso a rischio (ad esempio per l'accesso da una località diversa). Inoltre, gli utenti dispongono di un periodo massimo di 14 giorni per la registrazione per l'autenticazione MFA. Agli utenti che non hanno completato la registrazione MFA non verrà richiesta la verifica MFA durante il periodo di 14 giorni. È previsto pertanto che le metriche non siano pari al 100% per i partner che hanno implementato l'autenticazione MFA usando le impostazioni predefinite per la sicurezza Azure AD.
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>Usi una soluzione MFA di terze parti?
 

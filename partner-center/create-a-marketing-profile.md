@@ -2,18 +2,20 @@
 title: Creare un profilo di business | Centro per i partner
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Crea un profilo di business nel Centro per i partner per ricevere lead di vendita da Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, segnalazioni, lead di vendita, C2PC, profilo della società, commercializzare la tua azienda, trovare un partner, trovare un provider di soluzioni, profilo di business, profilo di marketing
 ms.localizationpriority: high
-ms.openlocfilehash: 8f18bb460495fc6f95af92e6510827ff13d0b8bc
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: 75c38b5844f60fc21326c546ac97db9868ab0e02
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997856"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653603"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -66,7 +68,7 @@ Il logo può essere un file GIF, JPG o PNG con una larghezza massima di 300 pixe
 
 La descrizione può contenere fino a 2500 caratteri. Suggerimenti per una descrizione efficace: 
 
--  **Deve essere breve**; le informazioni importanti devono essere presenti nelle prime due frasi. Questa descrizione deve rappresentare l'intestazione che cattura l'attenzione dei clienti. Nell'esperienza di ricerca Trova un partner le prime due righe vengono mostrate nell'anteprima dei risultati della ricerca.
+-  **Sii conciso**. Le informazioni importanti devono essere presenti nelle prime due frasi. Questa descrizione deve rappresentare l'intestazione che cattura l'attenzione dei clienti. Nell'esperienza di ricerca Trova un partner le prime due righe vengono mostrate nell'anteprima dei risultati della ricerca.
 -  **Concentrati sulle esperienze dell'azienda con le offerte specifiche di Microsoft**. I clienti alla ricerca di riferimenti in genere cercano partner con esperienza specifica nei prodotti e servizi Microsoft.
 -  **Usa gli elenchi puntati**. Suddividi le informazioni in elenchi puntati per rendere la comprensione più immediata.
 -  **Niente tecnicismi**. Usa il linguaggio semplice di tutti i giorni e parla dei vantaggi effettivi delle offerte: le esigenze aziendali a cui sono mirate oppure le attività o gli obiettivi per cui possono risultare utili ai clienti.
@@ -102,7 +104,7 @@ Altri tag usati nella ricerca:
 
 Ti consigliamo di lasciare selezionata questa impostazione. 
 
-Man mano che dimostri i tuoi successi con i clienti attraverso il Centro per i partner o che partecipi ad altri programmi o certificazioni Microsoft, verranno aggiunte automaticamente delle approvazioni ai tuoi prodotti, servizi e settori specifici che hanno contribuito ai tuoi successi. Le approvazioni sono un fattore importante nei risultati della ricerca.
+Man mano che dimostri i tuoi successi con i clienti attraverso il Centro per i partner o che partecipi ad altri programmi o certificazioni Microsoft, verranno aggiunte automaticamente approvazioni ai tuoi prodotti, servizi e settori specifici che hanno contribuito ai tuoi successi. Le approvazioni sono un fattore importante nei risultati della ricerca.
 
 Se però esistono prodotti per cui fornisci servizi che preferiresti non venissero visualizzati nel tuo profilo, puoi deselezionare la casella e gestire il profilo manualmente. Queste approvazioni risulteranno nascoste alla vista dei clienti, ma potrai poi aggiungerle nuovamente al profilo in qualsiasi momento.
 

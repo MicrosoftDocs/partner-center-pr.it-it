@@ -2,18 +2,20 @@
 title: Transizioni dei clienti al piano di Azure | Centro per i partner
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Transita i clienti con facilità verso il piano di Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: bb019f50a6648fb0bfffb7f465a50ed8a5bb6244
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: d19648053fefdcd998ad47bde2d68b289f15a10c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428532"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653835"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>Eseguire la transizione dei clienti al piano di Azure
 
@@ -83,9 +85,9 @@ Per eseguire la transizione diretta dei contratti Enterprise Agreement a CSP e d
 
 **Log di controllo**:
 
-Per riconciliare la fatturazione, visualizza la cronologia delle sottoscrizioni "Microsoft Azure" (0145P) nella pagina **Sottoscrizioni**. 
+Per riconciliare la fatturazione, visualizza la cronologia delle sottoscrizioni di "Microsoft Azure" (0145P) nella pagina **Sottoscrizioni**. 
 
-La sottoscrizione "Microsoft Azure" (0145P) è costituita da due parti:
+La sottoscrizione di "Microsoft Azure" (0145P) è costituita da due parti:
 1. Sottoscrizione commerciale 
 2. Sottoscrizione di Azure (diritto)
 

@@ -1,9 +1,9 @@
 ---
 title: Analizzare abbonamenti e licenze | Centro per i partner
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Usare le metriche nella pagina sottoscrizione e analisi licenze per identificare i successi e le aree che richiedono maggiore attenzione.
+Description: Learn how to use the metrics in the Subscription and license analytics page to identify your successes and areas that need more attention.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
@@ -11,12 +11,12 @@ ms.topic: article
 keywords: dati aziendali
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8c2469a780870df40792eb229ef4d0546e79645d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651173"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253364"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analizzare sottoscrizioni e licenze 
 
@@ -47,27 +47,27 @@ Ci stiamo occupando delle seguenti metriche:
  - **Abbonamenti attivi**: abbonamenti il cui stato è **Attivo**  
  - **Abbonamenti sospesi**: numero di abbonamenti sospesi, senza alcun filtro dati  
 
-**Suddivisione del prodotto**  
+**Product breakdown**  
  - **Numero di abbonamenti**: primi 5 prodotti ordinati in base agli abbonamenti venduti  
  - **Numero di licenze**: primi 5 prodotti ordinati in base alle licenze vendute
 
-**Conservazione della sottoscrizione**
+**Subscription Retention**
  - **Abbonamenti rinnovati**: abbonamenti rinnovati negli ultimi 30 giorni  
 
-**Varianza sottoscrizione**  
+**Subscription churn**  
  - **Nuovi abbonamenti**: numero di nuovi abbonamenti per il periodo di tempo, escluse le offerte di versioni di valutazione  
  - **Sottoscrizioni sottoposte a deprovisioning**: numero di sottoscrizioni sottoposte a deprovisioning o sospese per data  
 
-**Sottoscrizioni sospese**  
+**Suspended subscriptions**  
  - Elenco di tutti gli abbonamenti con lo stato **Sospeso**, escluse le offerte di versioni di valutazione  
   
-**Sottoscrizioni attive**
+**Active subscriptions**
  - Elenco di tutti gli abbonamenti attivi  
 
-**Conversioni della sottoscrizione di valutazione**  
+**Trial subscription conversions**  
  - **Conversione versione di valutazione**: numero di tutti gli abbonamenti con stato **Attivo** per cui è stata effettuata la conversione da versione di valutazione a versione a pagamento durante il periodo di tempo specificato  
 
-**Sottoscrizioni di valutazione che terminano tra 30 giorni**  
+**Trial subscriptions ending in 30 days**  
  - Elenco delle versioni di valutazione avviate la cui data di fine è entro 30 giorni e per cui nessuna data di inizio della versione a pagamento è stata associata all'abbonamento  
 
   

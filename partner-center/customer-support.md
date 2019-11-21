@@ -1,20 +1,20 @@
 ---
 title: Fornire supporto ai clienti | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: I partner devono ricevere le richieste di supporto in ingresso dai clienti, diagnosticare i problemi al meglio della capacità del partner e quindi risolvere i problemi che rientrano nell'ambito dei limiti di supporto della linea di base.
+description: Learn about customer support responsibilities of partners in the CSP program.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fab8ac43cae104c4925828cc4f6f4ce4477ed28d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: f6c6afbe59424cf3ca38186b66490bbf695cfee1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653443"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253493"
 ---
 # <a name="providing-support-to-your-customers"></a>Fornire supporto ai clienti
 
@@ -30,7 +30,7 @@ I partner che gestiscono transazioni nel modello CSP sono i consulenti di fiduci
 
 Per soddisfare il requisito di supporto, il partner può rivendere supporto da un'altra entità, affidare in outsourcing, in toto o in parte, la struttura di supporto e/o impostare una struttura per fornire il supporto direttamente.  Il partner può addebitare in toto o in parte il supporto fornito ai clienti. Il partner deve descrivere ai propri clienti il supporto fornito, gli orari di assistenza e il metodo di contatto, nonché i prezzi (se il supporto viene fornito a pagamento). 
 
-I partner devono ricevere le richieste di supporto in ingresso dai clienti, diagnosticare i problemi al meglio della capacità del partner e quindi risolvere i problemi che rientrano nell'ambito dei limiti di supporto della linea di base. Se il partner non è in grado di risolvere il problema, può inoltrarlo a Microsoft tramite i mezzi di supporto seguenti:
+Partners are required to receive incoming support requests from customers, diagnose issues to the best of the partner's ability and then resolve issues that are within scope of the baseline support boundaries. Se il partner non è in grado di risolvere il problema, può inoltrarlo a Microsoft tramite i mezzi di supporto seguenti:
 
 - Il supporto dei problemi **commerciali** è a disposizione di tutti i partner iscritti al programma CSP
 -   Il supporto dei problemi **tecnici** è disponibile tramite:
@@ -42,11 +42,11 @@ I partner devono ricevere le richieste di supporto in ingresso dai clienti, diag
 
 Ogni servizio online presenta requisiti specifici e dettagliati per fornire fatturazione, gestione delle sottoscrizioni e supporto tecnico ai clienti. Per altre informazioni, fare riferimento ai documenti seguenti.
 
--   [Sottoscrizioni di Dynamics 365 vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [Dynamics 365 subscriptions sold through CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Sottoscrizioni di Azure vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [Azure subscriptions sold through CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Abbonamenti Office 365 venduti tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [Office 365 subscriptions sold through CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
 

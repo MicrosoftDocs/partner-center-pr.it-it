@@ -1,19 +1,19 @@
 ---
 title: Iscriversi al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense | Centro per i partner per Microsoft Cloud per il governo statunitense
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Prima di iscriverti al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense, consulta queste informazioni sui requisiti del programma CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: de6f51d1dff5017ac6f046552acbea30c9cb4384
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 504bafa0bbdb93d8414d3af8f3ebd6679b3dc194
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653208"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252214"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Iscriversi al programma Cloud Solution Provider per Microsoft Cloud per il governo statunitense
 

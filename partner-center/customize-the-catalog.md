@@ -1,20 +1,20 @@
 ---
 title: Personalizzare il catalogo | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Nel catalogo sono elencati tutti i prodotti e i componenti aggiuntivi Microsoft disponibili per la vendita per i partner.
+description: Learn how to customize the Microsoft catalog to make it easier to access the partner offers or products your organization most uses.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bc06bf037811aa9d572febbe2bb88e652ee6f6b7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 65770b397e613c47cb01f86d97c47e6eb9bf9dac
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653415"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252121"
 ---
 # <a name="customize-the-catalog"></a>Personalizzare il catalogo
 
@@ -28,7 +28,7 @@ Nel catalogo sono elencati i prodotti Microsoft e i componenti aggiuntivi dispon
 
 **Personalizza il catalogo**
 
-1.  Passare al menu del centro per i partner &gt; **vendere** &gt; **Catalogo**.
+1.  Go to the Partner Center menu &gt; **Sell** &gt; **Catalog**.
 2.  Scegli fino a cinque offerte da visualizzare all'inizio del catalogo.
 
  

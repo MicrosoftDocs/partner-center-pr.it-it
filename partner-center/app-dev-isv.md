@@ -1,73 +1,73 @@
 ---
-title: Esenzione dei requisiti per gli esami monouso per la competenza per lo sviluppo di applicazioni | Centro per i partner
+title: One-time exam requirements exemption for the Application Development competency | Partner Center
 ms.topic: article
-ms.date: 11/08/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Esenzione dei requisiti per gli esami monouso per la competenza di sviluppo delle applicazioni
+description: For partners with a prior ISV competency, learn how to gain a one-time exam requirements exemption for the Application Development competency
 author: LauraBrenner
 ms.author: labrenne
-keywords: competenze, ISV, sviluppo di applicazioni
+keywords: competencies, ISV, application development
 ms.localizationpriority: medium
-ms.openlocfilehash: d32936a6611d476628c655edd97bc8bf7a219d06
-ms.sourcegitcommit: 921e7ac2f9ee2a2b670903ff175fe8b17fb2f0a9
+ms.openlocfilehash: de86b5d849e0ae8027a766559c38ebec8668f48b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "74117227"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253361"
 ---
-# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Esenzione dei requisiti per gli esami monouso per la competenza di sviluppo delle applicazioni
+# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>One-time exam requirements exemption for the Application Development competency
 
 **Ruoli applicabili**
 
 - Amministratore globale
 - Amministratore dei partner MPN
 
-Se è stata raggiunta la competenza ISV attualmente ritirata e si applica uno degli scenari seguenti, viene offerta alla propria azienda un'esenzione dei requisiti per l'esame monouso per la competenza di [sviluppo di applicazioni](https://partner.microsoft.com/membership/application-development-competency)Gold o Silver. 
+If you attained the now-retired ISV competency and one of the following scenarios applies to you, we are offering your company a one-time exam requirements exemption for the gold or silver [Application Development competency](https://partner.microsoft.com/membership/application-development-competency). 
 
-Partner con una competenza ISV:
+Partners with an ISV competency:
 
-- **La tua competenza ISV è scaduta** . la tua esenzione dei requisiti per gli esami monouso sarà disponibile nel centro per i partner a partire dal 22 novembre 2019. Avrai a disposizione 30 giorni per sfruttare i vantaggi offerti dall'offerta. 
+- **Your ISV competency has expired** – your one-time exam requirements exemption will be available in Partner Center starting November 22, 2019. You will have 30 days to take advantage of the offer. 
 
-- L' **appartenenza alla competenza si trova nella finestra di rinnovo** . l'esenzione dei requisiti per l'esame monouso sarà disponibile nel centro per i partner a partire dal 22 novembre 2019. Avrai a disposizione 30 giorni per sfruttare i vantaggi offerti dall'offerta. 
+- **Your competency membership is in its renewal window** – your one-time exam requirements exemption will be available in Partner Center starting November 22, 2019. You will have 30 days to take advantage of the offer. 
 
-- L' **appartenenza alla competenza è prevista per il rinnovo nei prossimi mesi** . l'esenzione dei requisiti per gli esami monouso sarà disponibile al momento del rinnovo. A questo punto, avrai a disposizione 30 giorni per ottenere l'offerta.
+- **Your competency membership is due for renewal in the coming months** – your one-time exam requirements exemption will be available to you when it’s time to renew. At that time, you will have 30 days to get the offer.
 
-Partner con una competenza per lo sviluppo di applicazioni raggiunta tramite il percorso IP del certificato:
+Partners with an Application Development competency attained via the cert IP path:
 
-- **Se si dispone di un elenco di Microsoft Commercial Marketplace**, l'esenzione dei requisiti per gli esami monouso sarà disponibile al momento del rinnovo della competenza. A questo punto, avrai a disposizione 30 giorni per sfruttare i vantaggi offerti dall'offerta.
+- **If you have a Microsoft commercial marketplace listing**, your one-time exam requirements exemption will be available at the time of your competency renewal. At that time, you will have 30 days to take advantage of the offer.
 
-- **Se non si dispone di un elenco di [Microsoft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/)** , pubblicare la soluzione entro il 2020 febbraio per essere idonea per l'esenzione per i requisiti di esame monouso.
+- **If you do not have a [Microsoft commercial marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) listing**, publish your solution by February 2020 to be eligible for the one-time exam requirements exemption.
 
-## <a name="how-to-take-advantage-of-your-offer"></a>Come sfruttare i vantaggi dell'offerta
+## <a name="how-to-take-advantage-of-your-offer"></a>How to take advantage of your offer
 
-1. Dal menu centro per i partner del dashboard, selezionare **competenze**.
-2. Nell'elenco delle competenze disponibili, lo sviluppo di applicazioni è contrassegnato come **completato**.
+1. From the Partner Center menu on your dashboard, select **Competencies**.
+2. In the list of competencies that are available, Application Development is marked **Complete**.
 
-![da ISV a AppDev](images/appdev.png)
+![isv to appdev](images/appdev.png)
 
-3. Selezionare **sviluppo applicazione**. Si noterà che è stata fornita una sostituzione che esenta l'azienda dalla conformità ai requisiti dell'esame. 
+3. Select **Application Development**. You will see the notice that you have been given an override that exempts your company from meeting the exam requirements. 
 
-4. Per sfruttare i vantaggi di questa offerta, passare a **Offerte per l'appartenenza**. Potrebbe essere necessario pagare la tariffa di competenza per completare il processo a seconda dello stato di acquisto o rinnovo della competenza. 
+4. To take advantage of this offer, go to **Membership offers**. You may need to pay the competency fee to complete the process depending on your competency purchase or renewal status. 
 
-Questa offerta è disponibile tramite il centro per i partner.
+This offer is available through Partner Center.
 
-Se è necessaria assistenza per ottenere l'offerta oppure si hanno domande sull'idoneità per questa offerta, contattare il [supporto tecnico](https://partner.microsoft.com/Support). 
+If you need assistance getting your offer, or have questions about your eligibility for this offer, contact [partner support](https://partner.microsoft.com/Support). 
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
-**Ricerca per categorie sapere se la mia azienda è idonea per questa offerta?**
+**How do I know whether my company is eligible for this offer?**
 
-Le aziende partner idonee per questa offerta hanno ricevuto una notifica tramite posta elettronica e nel centro per i partner, con informazioni su come ottenere l'offerta. I partner idonei includono quelli che hanno ottenuto la competenza ISV attualmente ritirata e quelli che hanno raggiunto la competenza di sviluppo delle applicazioni tramite il percorso IP del certificato. 
+Partner companies eligible for this offer were notified via email and in Partner Center, with information about how to get the offer. Eligible partners include those who attained the now-retired ISV competency and those who attained the Application Development competency through the cert IP path. 
 
-**Quali sono i vantaggi della competenza per lo sviluppo di applicazioni?**
+**What are the benefits of the Application Development competency?**
 
-È possibile esaminare i vantaggi della competenza per lo sviluppo di applicazioni nel sito Web del partner Microsoft. 
+You can review the Application Development competency benefits on the Microsoft partner website. 
 
-**Che cosa succede quando è necessario rinnovare la mia competenza quando ottengo questa offerta?** Microsoft fornirà presto ulteriori informazioni sui piani per gli ISV e fornirà indicazioni per i partner che hanno la competenza per lo sviluppo di applicazioni in seguito a questa offerta. * *  
+**What happens when it’s time for me to renew my competency when I get this offer?** We will provide more information about our plans for ISVs soon and provide guidance for partners that have the Application Development competency as a result of this offer.**  
 
-**Come è possibile ottenere questa offerta se la mia azienda non dispone della competenza ISV?**
+**How can I get this offer if my company did not have the ISV competency?**
 
-Questa offerta è disponibile solo per i partner idonei, ovvero gli utenti che hanno la competenza ISV o la competenza per lo sviluppo di applicazioni tramite il percorso IP del certificato. Stiamo valutando attivamente soluzioni complete a breve termine e a lungo termine per servire gli ISV e potrai condividere più dettagli a breve. 
+This offer is available only to eligible partners – those who had the ISV competency or the Application Development competency through the cert IP path. We are actively considering near-term and long-term comprehensive solutions for serving ISVs and will share more details soon. 
 
 

@@ -1,19 +1,19 @@
 ---
 title: Criteri di idoneità per clienti e partner GCC di Office 365 Government | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Procedure per la convalida di partner e clienti per Office 365 Government GCC per CSP.
+description: Learn the steps for direct bill partners (direct resellers, indirect providers) to validate partners and customers for Office 365 Government GCC for CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ba7bf7c788e6dc90f68b7f46e5105be60c2c99ca
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 418aaa8624a7a22945dbbdb2d410dd061bab4586
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653546"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253529"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Criteri di idoneità per clienti e partner CSP di Office 365 Government GCC
 
@@ -29,7 +29,7 @@ Se desideri che la tua organizzazione o l'organizzazione del tue cliente siano a
 
 Potresti essere approvato se sei un partner che servi enti pubblici federali, statale, locali o tribali degli Stati Uniti. Per convalidare l'idoneità delle tue organizzazioni, compila il breve modulo che trovi [qui](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
-Il cliente può essere approvato se si tratta di un'organizzazione che gestisce dati pubblici o si tratta di un ente pubblico federale, statale, locale o tribale degli Stati Uniti. Per convalidare l'idoneità delle organizzazioni dei clienti, completare il breve modulo disponibile [qui](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+Il cliente può essere approvato se si tratta di un'organizzazione che gestisce dati pubblici o si tratta di un ente pubblico federale, statale, locale o tribale degli Stati Uniti. To have your customers' organizations' eligibility validated, please complete the brief form located [here](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
 
 -   L'organizzazione deve essere [iscritta](https://partnercenter.microsoft.com/partner/cloud-solution-provider) al programma Cloud Solution Provider programma perché è un prerequisito per essere approvati per Office 365 Government GCC CSP.
 -   Una guida dettagliata al processo di convalida dettagliata per Office 365 Government GCC per CSP si trova [qui](https://go.microsoft.com/fwlink/?linkid=2007323).
@@ -37,11 +37,11 @@ Il cliente può essere approvato se si tratta di un'organizzazione che gestisce 
 
 La convalida dell'idoneità per Office 365 Government GCC per partner e clienti CSP verrà effettuata in base ai criteri specifici descritti di seguito.
 
-**Criteri partner**
+**Partner Criteria**
 1.  Fornisce servizi o soluzioni a clienti del governo degli Stati Uniti tramite contratti diretti o indiretti
 2.  Serve i clienti del governo degli Stati Uniti tramite GSA o altri mezzi di contratto
 
-**Criteri del cliente**
+**Customer Criteria**
 1.  Ente pubblico degli Stati Uniti nello svolgimento delle sue funzioni di governo. Ad esempio:
  
     -  Agenzia federale (ad esempio bureau, agenzia, reparto o altra entità del governo degli Stati Uniti)
@@ -50,7 +50,7 @@ La convalida dell'idoneità per Office 365 Government GCC per partner e clienti 
     -   Enti pubblici regionali o interstatali (ma nessuna entità internazionale)
     -   Centri di sviluppo e ricerca finanziati dal governo federale
 
-2.  Entità privata commerciale con dati soggetti a normative. I tipi di dati governo accettati includono: 
+2.  Commercial private entity with data that's subject to regulations. I tipi di dati governo accettati includono: 
     -   International Traffic in Arms (ITAR)
     -   Controlled Unclassified Information (CUI)
     -   Department of Defense (DoD) Unclassified Controlled Nuclear Information (UCNI)

@@ -1,50 +1,50 @@
 ---
-title: Panoramica sulla fatturazione | Centro per i partner
+title: Billing overview | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Informazioni sugli scenari di fatturazione di base e sulle differenze tra fatturazione basata su licenze e utilizzo
+Description: Learn basic billing scenarios in Partner Center for Azure subscriptions and reservations and the differences between license-based and usage-based billing.
 author: LauraBrenner
 ms.author: labrenne
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2087b75419e0f5235e1efcc67ecdd8f203f382c1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653753"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253204"
 ---
-# <a name="billing-overview"></a>Panoramica sulla fatturazione
+# <a name="billing-overview"></a>Billing overview
 
 **Si applica a**
 
 -  Centro per i partner
 -  Partner aderenti al programma CSP
 
-A seconda dei prodotti, delle soluzioni e dei servizi acquistati per conto dei clienti, verranno addebitati i costi per questi acquisti in uno o più dei modi seguenti:
--   [Fatturazione basata su licenza](#licensebasedbilling)
+Depending on the products, solutions, and services you buy on behalf of your customers, you'll be billed for these purchases in one or more of the following ways:
+-   [License-based billing](#licensebasedbilling)
 
-    Quando si acquistano prodotti o Servizi online che richiedono licenze, viene addebitata la tariffa per ogni licenza acquistata, non in base all'utilizzo delle licenze. È possibile scegliere se addebitare una fatturazione una volta al mese o una volta all'anno. Se le esigenze aziendali cambiano, è possibile passare da una all'altra e viceversa. 
+    When you buy products or online services that require licenses, you're billed for each license you bought (not on license usage). You can choose whether to be billed once a month or once a year. If your business needs change, you can switch from one to the other and back again. 
     
-    Per ulteriori informazioni sulla fatturazione mensile rispetto a quella annuale, vedere le [domande frequenti](https://docs.microsoft.com/partner-center/faq-about-new-billing-features)sulla fatturazione.
+    For more information about monthly vs. annual billing, see the billing [FAQ](https://docs.microsoft.com/partner-center/faq-about-new-billing-features).
 
--   [Fatturazione basata sull'utilizzo](#usagebasedbilling)
+-   [Usage-based billing](#usagebasedbilling)
 
-    Quando si acquistano Servizi online, ad esempio le sottoscrizioni di Azure, vengono addebitate le tariffe di utilizzo mensili. Solo la fatturazione mensile è disponibile per i prodotti basati sull'utilizzo. I servizi basati sull'utilizzo, ad esempio Azure, vengono fatturati in base alle tariffe a consumo, in base al consumo.
+    When you buy online services such as Azure subscriptions, you're billed for monthly usage rates. Only monthly billing is available for usage-based products. Usage-based services, such as Azure, are billed according to metered rates, based on consumption.
 
--   [Fatturazione monouso](#onetimebilling)
+-   [One-time billing](#onetimebilling)
 
-    Quando si acquistano prenotazioni di Azure o altre sottoscrizioni software, si paga in anticipo per un periodo prestabilito. Poiché stai pagando in anticipo, ti viene addebitata una somma forfettaria. 
+    When you buy Azure reservations or other software subscriptions, you pay in advance for a pre-set term. Because you're paying in advance, you're billed in one lump sum. 
     
-Se si è scelto di fatturare ogni mese o se sono stati acquistati prodotti basati sull'utilizzo fatturati mensilmente, la data di fatturazione mensile è il giorno del mese selezionato al momento della creazione dell'account CSP nel centro per i partner. Dopo aver creato l'account CSP, Microsoft invierà un messaggio di posta elettronica di conferma che include la data di fatturazione. Una volta creata, la data non può essere modificata. 
+If you've chosen to be billed monthly or if you've bought usage-based products that are billed monthly, your monthly billing date is the day of the month you selected when you created your CSP account on Partner Center. After you've successfully created your CSP account, Microsoft will send a confirmation email that includes your billing date. Once created, this date cannot be changed. 
 
-## <a name="pricing-and-invoicing"></a>Prezzi e fatturazione
+## <a name="pricing-and-invoicing"></a>Pricing and invoicing
 I listini prezzi sono disponibili con un (1) mese di anticipo, dato che vengono aggiornati mensilmente. I prezzi in base alle licenze sono garantiti per l'intera durata dell'abbonamento, in genere 12 mesi dalla data di acquisto. I prezzi in base all'uso possono variare di mese in mese. 
 
-I prezzi per i prodotti, i servizi e le sottoscrizioni software sono garantiti tramite la durata della sottoscrizione, tuttavia i prezzi possono variare quando si rinnova.
+Prices for products, services, and software subscriptions are guaranteed through the subscription duration, however prices may change when you renew.
 
 Vedrai le rettifiche e i crediti posticipati nella fattura successiva, dopo l'applicazione del credito o della rettifica.
 
@@ -52,29 +52,29 @@ Puoi visualizzare e scaricare le fatture e i file riconciliazione dalla pagina F
 
 ## <a name="payment-terms"></a>Condizioni di pagamento
 
-I termini di pagamento sono netti 60 giorni. Le fatture devono essere pagate in base alla data di scadenza della fattura (60 giorni dopo la data di fatturazione) oppure l'account sarà delinquente, che può influisca sulla registrazione in CSP. È possibile riottenere tutte le funzionalità degli account sospesi quando si paga l'importo dovuto scaduto.
+Payment terms are net 60 days. Invoices must be paid by the invoice due date (60 days after the billing date), or your account will be delinquent, which may impact your enrollment in CSP. You can regain full functionality of your suspended accounts when you pay the past due amount.
 
 ### <a name="tax"></a>Imposta
 
-L'utente viene tassato in base ai dettagli, ovvero non ai clienti, in quanto la relazione di fatturazione tra Microsoft e l'utente. È possibile inviare l'ID fiscale durante il processo di configurazione dell'account o inviando una richiesta di supporto in un secondo momento. Le modifiche saranno riportate nel ciclo di fatturazione successivo.
+You are taxed based on your details, (not your customers') as the billing relationship is between Microsoft and you. You can submit your tax ID during the account setup process or by submitting a support request later. Le modifiche saranno riportate nel ciclo di fatturazione successivo.
 
--   Per la ritenuta e l'esenzione fiscale per le vendite, è necessario inviare la documentazione fiscale tramite una richiesta di supporto. Le modifiche e i rimborsi appropriati saranno visibili nel ciclo di fatturazione successivo.
+-   For withholding and sales tax exemption, you must submit tax documentation through a support request. Le modifiche e i rimborsi appropriati saranno visibili nel ciclo di fatturazione successivo.
 
--   Per l'esenzione delle imposte IVA, è necessario inviare l'ID IVA (convalidato da Microsoft) tramite una richiesta di servizio. Le modifiche e i rimborsi appropriati saranno visibili nel ciclo di fatturazione successivo.
+-   For value added tax (VAT) exemption, you must submit your VAT ID (validated by Microsoft) via a service request. Le modifiche e i rimborsi appropriati saranno visibili nel ciclo di fatturazione successivo.
 
-È possibile trovare ulteriori dettagli sulle imposte dall'ufficio fiscale locale o da Tax Advisor.
+You can find further tax details from your local tax office or tax advisor.
 
-## <a href="" id="licensebasedbilling"></a>Fatturazione basata su licenza
+## <a href="" id="licensebasedbilling"></a>License-based billing
 
-Quando si acquista un prodotto basato su licenza per conto di un cliente, è possibile scegliere di fatturare ogni mese o ogni anno. Se si desidera modificare la frequenza di fatturazione in un secondo momento, attenersi alla procedura riportata di seguito. 
+When you buy a license-based product on behalf of a customer, you can choose to be billed monthly or annually. If you want to change your billing frequency at a later time, use the procedure below. 
 
-Passare dalla fatturazione mensile alla fatturazione annuale è utile se si dispone di numerose sottoscrizioni fatturate mensilmente e si desidera allinearle a una data di fatturazione comune. Passare dalla fatturazione annuale alla fatturazione mensile è utile per adattare le date di fatturazione a quelle dei singoli clienti. 
+Switching from monthly billing to annual billing is useful if you have numerous subscriptions that are billed monthly and you want to align them to a common billing date. Switching from annual billing to monthly billing is useful in tailoring your billing dates to those of your individual customers. 
 
-Quando si modifica la frequenza di fatturazione, il termine annuale viene aggiornato in modo da riflettere la data in cui è stata modificata la frequenza di fatturazione e viene stabilita una nuova data di rinnovo. 
+When you change the billing frequency, the annual term is updated to reflect the date you changed the billing frequency and a new renewal date is established. 
 
-È possibile modificare la frequenza di fatturazione ogni volta che le esigenze aziendali cambiano. 
+You can change the billing frequency whenever your business needs change. 
 
-### <a name="billing-rules-for-annual-billing"></a>Regole di fatturazione per la fatturazione annuale
+### <a name="billing-rules-for-annual-billing"></a>Billing rules for annual billing
 
 -   Le sottoscrizioni sono annuali e rinnovate automaticamente.
 
@@ -84,30 +84,30 @@ Quando si modifica la frequenza di fatturazione, il termine annuale viene aggior
 
 -   Eventuali modifiche del numero di licenze verranno addebitate/accreditate posticipatamente (con un calcolo proporzionale basato su licenza/giorni). Per il calcolo proporzionale viene usata la formula seguente: [ARROTONDA((ARROTONDA(Prezzo unitario * Quantità / Numero di giorni nel mese della ripartizione, 2) * Numero di giorni per la ripartizione) / Quantità, 2) * Quantità]
 
--   I pagamenti vengono fatturati per le licenze vendute (senza provisioning delle licenze).
+-   Payments are billed for licenses sold (not licenses provisioned).
 
-### <a name="to-change-the-billing-frequency-of-an-online-service"></a>Per modificare la frequenza di fatturazione di un servizio online
+### <a name="to-change-the-billing-frequency-of-an-online-service"></a>To change the billing frequency of an online service
 
-1.  Selezionare **Customers (clienti** ) dal menu centro partner e quindi selezionare il cliente con la sottoscrizione che si desidera modificare. 
+1.  Select **Customers** from the Partner Center menu and then select the customer with the subscription you want to change. 
 
-2.  Nella pagina sottoscrizioni del cliente selezionare la sottoscrizione che si desidera modificare. 
+2.  On the customer's Subscriptions page, select the subscription you want to change. 
 
-3.  Nella pagina dettagli, in **frequenza di fatturazione**, selezionare **mensile** o **annuale**. Verrà visualizzata una pagina di conferma con informazioni importanti sulla modifica della frequenza di fatturazione, oltre a un elenco delle sottoscrizioni che stanno per essere modificate. 
+3.  On the details page, under **Billing frequency**, select **Monthly** or **Annual**. You'll see a confirmation page with important information about changing billing frequency, as well as a list of the subscriptions about to be changed. 
 
-4.  Fare clic su **OK** per apportare la modifica oppure su **Annulla** per annullarla. 
+4.  Select **OK** to make the change, or **Cancel** to undo it. 
 
 ### <a name="adjustmentscreditscancellations"></a>Rettifiche/crediti/annullamenti
 
-Microsoft non addebita i costi di terminazione anticipati per l'annullamento dei servizi basati sulle licenze. 
+Microsoft does not charge early termination fees for cancellation of license-based services. 
 
 I crediti per l'annullamento dei servizi in base alle licenze vengono calcolati in modo proporzionale per i giorni inutilizzati nel caso di annullamenti precedenti alla data di scadenza (così come le riduzioni di licenze in base alla formula precedente).
 
-## <a href="" id="usagebasedbilling"></a>Fatturazione basata sull'utilizzo
+## <a href="" id="usagebasedbilling"></a>Usage-based billing
 
-Alcuni prodotti e servizi Microsoft usano un modello di fatturazione con pagamento in base al consumo, in cui vengono addebitati solo i servizi usati. Ad esempio, Microsoft Azure utilizza questo modello. 
+Some Microsoft products and services use a "pay as you go" billing model, in which you are billed only for services used. For example, Microsoft Azure uses this model. 
 
 ### <a name="billing-rules"></a>Regole per la fatturazione
--   Le sottoscrizioni sono da mese a mese e vengono rinnovate automaticamente alle nuove tariffe per il servizio a consumo. Viene addebitato ogni mese per l'utilizzo del mese precedente.
+-   Subscriptions are month-to-month and automatically renew at the new metered service rates. You're billed each month for the previous month's usage.
 
 -   Le tariffe per i servizi a consumo possono variare all'interno del ciclo di fatturazione. 
 
@@ -117,42 +117,42 @@ Alcuni prodotti e servizi Microsoft usano un modello di fatturazione con pagamen
 
     -   Per le sottoscrizioni esistenti verranno usate le tariffe in vigore all'inizio del ciclo di fatturazione.
 
-    -   Le nuove sottoscrizioni, quando vengono create all'interno dello stesso ciclo di fatturazione, usano la tariffa in vigore alla data di creazione. 
+    -   New subscriptions, when created within the same billing cycle, use the rate in effect on the date you create them. 
 
 ### <a name="adjustmentscreditscancellations"></a>Rettifiche/crediti/annullamenti
 
 I pagamenti con rettifiche compariranno nella fattura mensile successiva.
 
-Microsoft non addebita i costi di terminazione anticipati per l'annullamento dei servizi basati sull'utilizzo. 
+Microsoft does not charge early termination fees for cancellation of usage-based services. 
 
 I crediti di qualsiasi tipo, inclusi quelli per il contratto di servizio, compariranno nella fattura mensile successiva.
 
-## <a href="" id="onetimebilling"></a>Fatturazione monouso
+## <a href="" id="onetimebilling"></a>One-time billing
 
-È possibile acquistare in anticipo le sottoscrizioni software e le prenotazioni di Azure per un periodo di uno o tre anni. Quando si acquista in anticipo, viene addebitato l'intero costo in una somma forfettaria. Questo tipo di fatturazione è denominato fatturazione monouso.
+You can purchase software subscriptions and Azure reservations in advance, for one- or three-year terms. When you purchase in advance, you're billed for the entire cost in a one-lump sum. This type of billing is called one-time billing.
 
 >[!IMPORTANT]
->Se si acquistano le prenotazioni di Azure e/o le sottoscrizioni software per un cliente in una località con una valuta diversa da quella del cliente, la valuta di fatturazione predefinita è basata sulla posizione del cliente, non sulla località. Se si hanno clienti in più località, si riceveranno fatture separate e file di riconciliazione per ogni valuta che i clienti devono essere fatturati, consentendo di fatturare i clienti nella valuta appropriata. 
+>If you purchase Azure reservations and/or software subscriptions for a customer in a location with a currency different from yours, the default billing currency is based on the customer's location, not your location. If you have customers in multiple locations, you'll receive separate invoices and reconciliation files for each currency customers need to be billed in, allowing you to invoice your customers in the appropriate currency. 
 
 ### <a name="manage-your-one-time-billing"></a>Gestire la fatturazione una tantum
 
-**Visualizza lo stato di fatturazione corrente, le fatture e i file di ricognizione**
+**View your current billing status, invoices, and recon files**
 
-1.  In centro per i partner selezionare **fatturazione** e quindi **una volta** per visualizzare lo stato della fatturazione. 
+1.  In Partner Center, select **Billing** and then **One time** to view your billing status. 
 
 2.  Seleziona una fattura o un file di riconoscimento per visualizzare informazioni più dettagliate. 
 
-**Visualizzare la cronologia degli ordini di un cliente**
+**View a customer's order history**
 
-1.  Selezionare **Customers** dal menu centro per i partner.
+1.  Select **Customers** from the Partner Center menu.
 
-2.  Nella pagina **clienti** individuare il cliente di cui si desidera visualizzare la cronologia degli ordini, quindi selezionare la freccia rivolta verso il basso per espandere il record del cliente. 
+2.  On your **Customers** page, find the customer whose order history you want to view and then select the down arrow to expand the customer's record. 
 
 3.  Seleziona **Visualizza ordini** per visualizzare la cronologia degli ordini.
 
-**Scarica una nota di credito**
+**Download a credit note**
 
-Se devi richiedere un credito o una fatturazione, ti invieremo una nota di credito per annullare la fattura originale. È possibile richiedere un credito o una fatturazione per i motivi seguenti:
+If you need to request a credit or rebill, we'll give you a credit note to cancel the original invoice. You might request a credit/rebill for the following reasons:
 
 -   Correzioni all'ordine di acquisto o all'indirizzo
 

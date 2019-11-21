@@ -1,21 +1,21 @@
 ---
 title: Creare più utenti per l'account di un cliente | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Puoi aggiungere più utenti contemporaneamente all'account di un cliente caricando un file di dati con valori delimitati da virgole (CSV) nel Centro per i partner.
+description: Learn how to add multiple users to a customer's account all at once, by uploading a data file in the comma-separated value file format (.csv) to Partner Center.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: caricamento in blocco, aggiungere più utenti all'account di un cliente, aggiungere gli utenti di un cliente, caricamento in blocco degli utenti di un cliente, account del cliente, utenti del cliente, utenti
 ms.localizationpriority: medium
-ms.openlocfilehash: 4062c36d9f5d394d9d25eb67265784d2a5b301cf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 5c9de7ed78a0494790b447d1755d5eef70a89cca
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653248"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253175"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Aggiungere più utenti all'account di un cliente
 
@@ -23,12 +23,12 @@ ms.locfileid: "73653248"
 
 -  Centro per i partner
 
-È possibile aggiungere contemporaneamente più utenti all'account di un cliente, caricando un file di dati nel formato di file con valori delimitati da virgole (CSV) nel centro per i partner. È possibile scaricare un file di dati di esempio dal centro per i partner e quindi modificarlo per l'uso, oppure è possibile creare un nuovo file di dati usando il modello di dati definito di seguito.
+You can add multiple users to a customer's account all at once, by uploading a data file in the comma-separated value file format (.csv) to the Partner Center. You can download a sample data file from the Partner Center and then edit it for your use, or you can create a new data file using the data model defined below.
 
-## <a href="" id="creatingtheimportcsvfile"></a>Requisiti per i file di dati
+## <a href="" id="creatingtheimportcsvfile"></a>Data file requirements
 
 
-Per aggiungere più utenti a un account del cliente usando il processo di caricamento bulk, è necessario soddisfare i requisiti seguenti:
+To add multiple users to a customer's account using the bulk upload process, you'll need to meet the following requirements:
 
 -   Devi avere le autorizzazioni di amministratore globale per l'account del cliente;
 -   Ogni utente deve avere un indirizzo e-mail univoco, aggiunto ai domini di e-mail del cliente;
@@ -40,28 +40,28 @@ Immetti i dati seguenti nel file di dati:
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **Nome colonna** | **Descrizione**                                                              | **Limitazione**                             |
-| Nome      | Nome dell'utente (campo facoltativo)                                           | Limite di 50 caratteri                         |
+| **Column name** | **Descrizione**                                                              | **Limitation**                             |
+| Nome      | User's first name (optional field)                                           | Limite di 50 caratteri                         |
 | Cognome       | Cognome dell'utente (campo facoltativo)                                            | Limite di 50 caratteri                         |
-| Nome visualizzato    | Nome visualizzato nel centro per i partner (campo obbligatorio)                            | Limite di 50 caratteri                         |
-| E-mail           | Indirizzo di posta elettronica aziendale dell'utente presso la società del cliente (campo obbligatorio)           | Ogni utente deve avere un indirizzo e-mail univoco |
-| Aggiornamento stato   | Usato per indicare se il nuovo record utente è stato o meno creato correttamente | \*\*lasciare vuoti\*\*                        |
+| Nome visualizzato    | Name displayed in the Partner Center (required field)                            | Limite di 50 caratteri                         |
+| E-mail           | User's business email address at customer company (required field)           | Ogni utente deve avere un indirizzo e-mail univoco |
+| Aggiornamento stato   | Usato per indicare se il nuovo record utente è stato o meno creato correttamente | \*\*Leave empty\*\*                        |
 
  
 
-### <a href="" id="createmultipleuseraccounts"></a>Per creare più account utente
+### <a href="" id="createmultipleuseraccounts"></a>To create multiple user accounts
 
 <a href="" id="creatingtheaccounts"></a>
 1.  Crea un file di dati con valori delimitati da virgole (CSV) con i dati descritti sopra. Salva il file in modo da poterlo visualizzare in un passaggio successivo.
-2.  Dal menu **centro partner** selezionare **Customers**, quindi scegliere un cliente dall'elenco.
+2.  From the **Partner Center** menu, select **Customers**, then choose a customer from the list.
 3.  Seleziona **Carica utenti**.
 4.  In **Carica informazioni utenti** seleziona **Sfoglia**.
 5.  Nel selettore di file seleziona il file di dati e quindi seleziona **Apri**.
 6.  Seleziona **Convalida**.
 
-    **Si noti**  la maggior parte degli errori di creazione dell'account sono causati da problemi relativi a file di dati, ad esempio informazioni mancanti, indirizzi di posta elettronica non validi o duplicati oppure troppi record nel file.
+    **Note**  Most account creation errors are caused by data file issues, including missing information, malformed or duplicated email addresses, or too many records in the file.
 
-7.  Dopo che il centro per i partner ha convalidato il file, selezionare la **posizione** geografica per i nuovi utenti.
+7.  After the Partner Center validates the file, select the geographic **Location** for the new users.
 8.  Seleziona **Salva**.
 9.  Scarica le informazioni sulle password temporanee per gli utenti.
 

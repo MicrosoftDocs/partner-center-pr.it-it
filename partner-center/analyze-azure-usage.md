@@ -1,9 +1,9 @@
 ---
 title: Analizzare l'utilizzo di Azure | Centro per i partner
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Usare il centro per i partner per ottenere i dati sull'utilizzo delle sottoscrizioni di Azure dei clienti.
+Description: Learn how to use Partner Center to get data about the usage of your customers' Azure subscriptions.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -11,12 +11,12 @@ ms.topic: article
 keywords: dati aziendali
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 89d76cf3945c5831f6ab2fd1fe77c8df1b9c233e
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653374"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253385"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Ottenere i dati sull'utilizzo delle sottoscrizioni di Azure dei clienti
 
@@ -27,7 +27,7 @@ Si applica a:
 I dati guidano le decisioni aziendali. Utilizza le metriche nella pagina **Utilizzo di Azure** per identificare i tuoi successi e le aree che richiedono maggiore attenzione. Utilizza queste informazioni per pianificare nuovi obiettivi aziendali.
 
 > [!NOTE]
-> L'analisi sull'utilizzo di Azure è disponibile solo per i partner del programma Cloud Solution Provider.
+> Azure usage analytics is available only for partners in the Cloud Solution Provider program.
 
 Ci stiamo occupando delle seguenti metriche:
 
@@ -41,13 +41,13 @@ Ci stiamo occupando delle seguenti metriche:
 
 - I primi 5 clienti per la categoria specificata  
 
-## <a name="azure-subscriptions-at-risk"></a>Sottoscrizioni di Azure a rischio
+## <a name="azure-subscriptions-at-risk"></a>Azure subscriptions at risk
 
-Questa sezione indica il rischio di varianza stimato per le sottoscrizioni di Azure. Queste informazioni possono essere usate dai partner per coinvolgere i clienti e ridurre al minimo la varianza
+This section indicates the predicted churn risk to Azure subscriptions. This information can be used by partners to engage with customers and minimize churn
 
 ## <a name="subscriptions-without-usage"></a>Sottoscrizioni senza l'utilizzo
 
-- Elenco di sottoscrizioni specifiche senza utilizzo di Azure nel periodo di tempo specificato  
+- List of specific subscriptions without Azure usage in the specified time period  
 
 ## <a name="azure-subscription-churn"></a>Abbandono sottoscrizione di Azure
 

@@ -1,20 +1,20 @@
 ---
 title: I clienti delegano i privilegi amministrativi ai partner | Centro per i partner
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: In qualità di partner rivenditore, il cliente può delegare l'amministratore. Possono anche rimuovere i privilegi.
+description: Informazioni su come richiedere ai clienti di delegare le autorizzazioni di amministratore a un rivenditore o rimuovere le stesse autorizzazioni e come usare le autorizzazioni.
 author: LauraBrenner
 ms.author: labrenne
 keywords: privilegi amministrativi delegati, amministratore per conto di, Rimuovi privilegi, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 35777dbdaa8ce77f4a1e7154447b37cd62772bc6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653427"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253476"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>I clienti delegano i privilegi amministrativi ai partner
 
@@ -24,18 +24,18 @@ ms.locfileid: "73653427"
 
 Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ultimo dovrà concederti le autorizzazioni di amministratore per tale servizio. Per ottenere le autorizzazioni di amministratore, invia al cliente una richiesta di relazione come rivenditore. Dopo che il cliente ha approvato la richiesta, potrai accedere al portale di amministrazione del servizio e gestire il servizio per conto del cliente. 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire con l'utente una relazione come rivenditore
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire con te una relazione come rivenditore
 
 1.  Selezionare **Customers** e quindi selezionare **Richiedi una relazione Reseller**.
 
 2.  Nella pagina successiva esaminare la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
 
     >[!IMPORTANT]
-    >Il testo nel messaggio di posta elettronica può essere modificato, ma è necessario assicurarsi di includere il collegamento, in quanto personalizzato, per collegare il cliente direttamente al proprio account. 
+    >Il testo nel messaggio di posta elettronica può essere modificato, ma assicurati di includere il collegamento poiché è personalizzato per collegare il cliente direttamente al tuo account. 
     
 3.  Selezionare **fine** al termine di questo passaggio.
 
-4.  Inviare il messaggio di posta elettronica al cliente.
+4.  Invia il messaggio di posta elettronica al cliente.
 
 5.  Dopo aver accettato l'invito, il cliente verrà visualizzato nella pagina **Clienti** e tu potrai effettuare il provisioning e gestire il servizio per il cliente da questa pagina.
 

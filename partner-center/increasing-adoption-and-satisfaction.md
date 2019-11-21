@@ -1,22 +1,22 @@
 ---
 title: Migliorare i tassi di adozione e soddisfazione | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: I nostri partner usano molte metriche per valutare la crescita delle loro attività e decidere dove concentrare gli investimenti. Il Centro per i partner può essere di aiuto fornendo dati che indicano se e come i clienti usano le licenze acquistate.
+description: Informazioni su come usare le metriche nel centro per i partner per verificare se l'azienda sta crescendo, in che modo i clienti usano le proprie licenze e dove concentrarsi sull'investimento.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b143a97afb65b1444831152e40eaccb90580dc05
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3acd6e259487946a7a1005ec9fd2c5d74160bc99
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653342"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253696"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>Migliorare adozione e soddisfazione
+# <a name="increase-adoption-and-satisfaction"></a>Migliorare i tassi di adozione e soddisfazione
 
 **Si applica a**
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 7/30/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Attraverso l'introduzione di istanze riservate di Azure e sottoscrizioni server nel programma CSP, consentiamo ai nostri partner di far fronte alla richiesta in rapida crescita dei clienti di soluzioni più convenienti in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. Il programma CSP consente ai partner di acquisire, fornire e gestire sottoscrizioni server e istanze riservate di Azure per conto dei clienti commerciali tramite il Centro per i partner Microsoft e il portale di Azure.
+description: Informazioni sulle opportunità per i provider di soluzioni cloud per acquisire, effettuare il provisioning e gestire le prenotazioni di Azure e le sottoscrizioni server per i clienti.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, sottoscrizioni, VM, prenotazione, istanza riservata
 ms.localizationpriority: medium
-ms.openlocfilehash: e745a52e1f80164ae13d1d4b0fe058775b1074b3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e9a5e6c7a28a20b0b168616f39db591b5dd90649
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653794"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253225"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -112,7 +112,7 @@ Di seguito è riportato un elenco completo delle risorse che ti consentiranno di
 
 **Operazioni**
 
-- [Guida operativa moderna di Commerce](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (aggiornata): una guida completa che illustra i criteri chiave e gli aspetti operativi, ad esempio i contratti, l'ordinamento tramite il centro per i partner, la fattura, i dettagli dell'elenco prezzi, gli incentivi, il file di riconciliazione, l'API/SDK, sandbox e Servizi condivisi di Azure partner.
+- [Guida operativa moderna di Commerce](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (aggiornata): una guida completa che copre i criteri chiave e gli aspetti operativi, ad esempio i contratti, l'ordinamento tramite il centro per i partner, la fattura, i dettagli dell'elenco prezzi, gli incentivi, il file di riconciliazione, l'API/SDK, sandbox e i servizi condivisi del partner
 - [Disponibilità nel paese di offerte moderne e matrice di valuta cliente](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Vendere Microsoft Azure istanze riservate](https://go.microsoft.com/fwlink/?linkid=872806)
 - [Acquistare prenotazioni di Microsoft Azure per conto dei clienti](https://go.microsoft.com/fwlink/?linkid=872807)

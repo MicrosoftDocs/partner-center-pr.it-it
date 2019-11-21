@@ -1,20 +1,20 @@
 ---
 title: Vendi Office 365 Government GCC per CSP | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: I partner Microsoft che partecipano al programma CSP possono vendere gli abbonamenti Office 365 Government GCC per CSP a clienti qualificati. Office 365 Government GCC per CSP è una suite di servizi di produttività cloud progettati per il Stati Uniti enti pubblici e per enti pubblici.
+description: Informazioni sui passaggi e sui requisiti per la vendita di sottoscrizioni a Office 365 Government GCC per CSP per i clienti qualificati Stati Uniti governativi o i terzisti.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 193cc10b02e0bee75799e5c64e59e3a3abe04a30
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: ce13e443e8165d5965ea7eacd0ccd5bfdb8a65a5
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653553"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252382"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Vendere abbonamenti a Office 365 Government GCC per CSP a clienti qualificati
 

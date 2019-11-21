@@ -1,21 +1,21 @@
 ---
 title: Centro per i partner-panoramica sulle prenotazioni Microsoft Azure | Centro per i partner
 ms.topic: article
-ms.date: 11/05/2018
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: I partner del programma Cloud Solution Provider (CSP) possono offrire ai clienti Microsoft Azure prenotazioni.
+Description: Scopri in che modo i provider di soluzioni cloud possono acquistare, vendere o gestire prenotazioni di Azure per i clienti che usano il centro per i partner, il portale di Azure o l'API del centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, prenotazioni, gestire, fatturazione, acquisto, Azure RI, istanze di Azure
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 757e4c6136c5911dfc7eec2a6afa461bc4e465c0
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 39511095447138ffbed701fd07d5f592bba9ef33
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653803"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253115"
 ---
 # <a name="partner-center---sell-microsoft-azure-reservations"></a>Centro per i partner-vendere prenotazioni Microsoft Azure
 

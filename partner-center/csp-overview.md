@@ -1,26 +1,27 @@
 ---
 title: Programma Cloud Solution Provider - vendita di soluzioni cloud popolari | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Il programma Cloud Solution Provider può aiutare la tua azienda ad acquisire nuovi clienti e nuove competenze.
+description: Scopri di più sui vantaggi e sui diversi modelli del programma Cloud Solution Provider per favorire la crescita aziendale con nuovi clienti e nuove competenze.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, partner diretto, partner CSP diretto, rivenditore CSP indiretto, CSP diretto, CSP indiretto, modello diretto, modello indiretto, rivenditore indiretto, provider indiretto, provider, server di distribuzione, programma cloud solution provider
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bcbbc33c4992d2cf4500438c2a2340cfee23060
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a00c95c4a24fea9fd76779bb970375906af999c4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653520"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252824"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programma Cloud Solution Provider - Vendita di soluzioni cloud popolari 
 
 **Si applica a**
 
--  Centro per i partner
+- Centro per i partner
+- Partner aderenti al programma CSP
 
 Il programma Cloud Solution Provider (CSP) consente di superare la rivendita delle licenze per essere più impegnati nell'attività del cliente.
  
@@ -38,10 +39,10 @@ Il programma Cloud Solution Provider (CSP) consente di superare la rivendita del
 
 #### <a name="new-expanded-requirements"></a>Nuovi requisiti estesi:
 
-Supporto tecnico
+Supporto
 - Espandi le funzionalità di supporto tramite l'acquisto di supporto cloud con priorità, uno-a-uno, con un pacchetto di supporto avanzato Microsoft per i partner. In alternativa, puoi scegliere un pacchetto di supporto tecnico Premier di Microsoft per i partner per accedere al catalogo completo dei servizi proattivi, al supporto in garanzia con privilegi elevati 24 ore al giorno, 7 giorni su 7 e alla gestione degli account tecnici sul cloud, in modalità ibrida e in locale. 
 
-Servizi,
+Servizi
 
 - Specifica che fornisci almeno un servizio gestito, un servizio di proprietà intellettuale o una soluzione applicativa al cliente. Per altre informazioni, vedi l'argomento relativo all'aggiunta di servizi gestiti
 

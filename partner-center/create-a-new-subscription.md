@@ -1,21 +1,21 @@
 ---
 title: Creare, sospendere o annullare le sottoscrizioni dei clienti | Centro per i partner
 ms.topic: article
-ms.date: 08/16/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo.
+description: Informazioni su come vendere le sottoscrizioni dei clienti ai prodotti nel catalogo dopo aver creato un record del cliente nel centro per i partner.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
-Keywords: sottoscrizione, creare nuova, aggiungere sottoscrizione, sospendere, annullare, sospensione
+Keywords: sottoscrizione, crea nuovo, Aggiungi sottoscrizione, Sospendi, Annulla, sospensione, Sospendi, SaaS, licenza, ISV, terze parti
 ms.localizationpriority: medium
-ms.openlocfilehash: 764936d8025cd4aa18e1909a8da2b288c8381a37
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d829ba7ee520cab42ec5985ac2156ddff60d8e99
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653595"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253463"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
@@ -25,32 +25,53 @@ ms.locfileid: "73653595"
 -  Centro per i partner per Microsoft Cloud for US Government
 -  Partner CSP
 
-Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo. Sono inclusi i prodotti pubblicati da Microsoft, oltre ai prodotti SaaS (Software as a Service) pubblicati da fornitori di software indipendenti (ISV) nel [Marketplace commerciale](https://azuremarketplace.microsoft.com/marketplace). 
+**Ruoli appropriati**
 
-Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elenco delle offerte limitate, visita la pagina Prezzi e offerte del Centro per i partner. 
+- Amministratore globale
+- Agente amministratore
 
+Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo. Sono inclusi i prodotti pubblicati da Microsoft, oltre ai prodotti SaaS (software as a Service) pubblicati da fornitori di software indipendenti (ISV) di terze parti nel [Marketplace commerciale](https://azuremarketplace.microsoft.com/marketplace). 
+
+Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elenco delle offerte limitate, visita la pagina Prezzi e offerte del Centro per i partner.
+
+>[!IMPORTANT]
+Come partner del programma CSP, è possibile acquistare solo sottoscrizioni Saas **basate su licenza** dagli editori ISV all'interno del centro per i partner. Ciò significa che è possibile acquistare qualsiasi offerta SaaS **basata su licenze** che l'editore ISV ha reso disponibile, incluse le [offerte esclusive](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a cui si ha accesso. Per acquistare o gestire altre offerte del Marketplace commerciale dagli ISV, ad esempio offerte basate **sull'utilizzo**, a consumo o a consumo che coinvolgono applicazioni, contenitori o macchine virtuali di Azure, è necessario accedere al [portale di gestione di Azure](https://portal.azure.com/). Per ulteriori informazioni, vedere [acquistare prodotti Marketplace commerciali](csp-commercial-marketplace-purchase.md).
 
 ## <a name="create-a-new-subscription"></a>Creare una nuova sottoscrizione
 
-1. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
 
-2. Seleziona **Aggiungi sottoscrizione**.
+2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
-3. Per visualizzare solo determinati tipi di sottoscrizioni, effettua le selezioni nei filtri disponibili:
+3. Seleziona **Aggiungi sottoscrizione**. La scheda **Online Services** mostrerà tutte le offerte SaaS del Marketplace disponibili.
+
+4. Per visualizzare solo determinati tipi di sottoscrizioni, effettua le selezioni nei filtri disponibili:
    - **Autore**: scegliere **Microsoft** per visualizzare solo le offerte di Microsoft o il **partner** per vedere i prodotti commerciali del Marketplace pubblicati dagli ISV.
-   - **Tipo di fatturazione**: selezionare il tipo di fatturazione per la sottoscrizione che si vuole usare: **licenza** o **utilizzo**. Vedi [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md) per informazioni che ti aiuteranno a decidere tra la frequenza di fatturazione mensile e annuale.
+   - **Tipo di fatturazione**: selezionare il tipo di fatturazione per la sottoscrizione che si vuole usare: **licenza** o **utilizzo**. Vedi [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md) per le informazioni che ti aiutano a decidere tra la frequenza di fatturazione mensile e annuale.
    - **Categoria**: scegliere **Enterprise**, **Small Business**o **Trial**. Per informazioni sulle sottoscrizioni di versioni di valutazione, vedi [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
-4. Seleziona i prodotti per i quali vuoi acquistare le sottoscrizioni. I prodotti visualizzati dipendono dal tipo di segmento del cliente (Istruzione, Pubblica amministrazione e così via) e dai filtri applicati. Se un prodotto non è disponibile, è possibile che il cliente disponga già di una sottoscrizione per il prodotto in questione e che ne sia consentita solo una. In alternativa, è possibile che tu abbia sospeso la sottoscrizione, nel qual caso puoi riattivarla invece di acquistarne una nuova.
+5. Selezionare le sottoscrizioni di prodotto che si desidera acquistare per il cliente. I prodotti visualizzati dipendono dal tipo di segmento dei clienti (Education, Government e così via) e dai filtri applicati. Alcune offerte visualizzate sul Marketplace potrebbero non essere sempre disponibili per un cliente specifico o per un partner CSP specifico. Il motivo può essere il seguente:
 
-5. Per ogni sottoscrizione che vuoi aggiungere, immetti il numero di licenze e seleziona **Aggiungi al carrello**.
+    - Il cliente dispone già di una sottoscrizione a tale prodotto e ne è consentito solo uno
 
-6. Dopo aver completato l'aggiunta delle sottoscrizioni, fai clic su **Controlla**.
+    - La sottoscrizione del cliente potrebbe essere stata sospesa. in questo caso, è possibile riattivare la sottoscrizione anziché acquistarne una nuova.
+    
+    - Per le offerte SaaS ISV, potrebbero esserci alcuni motivi per cui l'offerta non è disponibile per l'acquisto: l'ISV potrebbe non supportare il paese o l'area di fatturazione del cliente; l'ISV potrebbe aver scelto di non rendere disponibile l'offerta tramite il programma CSP; in alternativa, l'ISV potrebbe avere reso l'offerta [esclusiva](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) solo per determinati partner CSP. L'offerta ISV potrebbe anche non essere transazionale tramite il centro per i partner, ad esempio i contenitori o alcune offerte basate sull'utilizzo.  
 
-7. Dopo aver esaminato gli ordini, quando sei pronto per acquistare, fai clic su **Acquista**.
+6. Per ogni sottoscrizione che si vuole aggiungere, immettere il numero di licenze (se necessario) e selezionare **Aggiungi al carrello**.
 
-Dopo aver acquistato una sottoscrizione, puoi esaminarla o modificarla facendo clic sul relativo nome nella pagina **Sottoscrizioni**. In tale pagina puoi selezionare licenze per componenti aggiuntivi (se disponibili), modificare la quantità di licenze o sospendere la sottoscrizione.
+7. Al termine dell'aggiunta delle sottoscrizioni, selezionare **Revisione** ed esaminare l'ordine.
 
+8. Dopo aver esaminato gli ordini ed è possibile acquistare tali sottoscrizioni, selezionare **Acquista**.
+
+9. Dopo aver acquistato una sottoscrizione per un cliente, si verificherà quanto segue:
+
+    - È possibile esaminare o modificare la sottoscrizione selezionando il nome della sottoscrizione dalla pagina **sottoscrizioni** del cliente. In tale pagina puoi selezionare licenze per componenti aggiuntivi (se disponibili), modificare la quantità di licenze o sospendere la sottoscrizione.
+
+    **Per le sottoscrizioni SaaS (basate su licenza) ISV:**
+    - Si riceverà un collegamento al sito dell'editore ISV. Questo collegamento dovrebbe aiutare a completare la distribuzione o la configurazione dell'account della sottoscrizione del cliente. Si noti che il cliente non riceverà un messaggio di posta elettronica con le istruzioni per completare la configurazione e il provisioning dell'account per questo tipo di sottoscrizione ISV.
+    
+    - Se la sottoscrizione viene fornita con una versione di valutazione gratuita di 30 giorni, il periodo di valutazione gratuito verrà applicato automaticamente. I partner del programma CSP non possono rinunciare al periodo di valutazione gratuito sulle offerte acquistate per i clienti. Una volta terminato il periodo di valutazione gratuita, il periodo di validità della sottoscrizione viene avviato e la sottoscrizione viene convertita in a pagamento. La sottoscrizione verrà quindi rinnovata automaticamente in base alla stessa pianificazione.
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Sospendere o annullare una sottoscrizione
 
@@ -60,38 +81,78 @@ I partner possono sospendere o annullare una sottoscrizione se richiesto dal cli
 
 Quando cambi lo stato di una sottoscrizione in **Sospesa**, gli utenti non possono accedere alla sottoscrizione o ai servizi.
 
-1.  Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
-2.  Scegli la sottoscrizione che vuoi gestire.
-3.  Nella sezione **Stato** scegli **Sospeso**. Fai quindi clic su **Invia** per inviare le modifiche.
-4.  Verranno eliminati tutti i dati, tranne nel caso in cui la sottoscrizione venga riattivata entro 90 giorni o 90 giorni più il numero di giorni tra il momento in cui l'account è stato aperto e il primo periodo di fatturazione (massimo 120 giorni).
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
 
-Quando sospendi una sottoscrizione, la data visualizzata sotto il pulsante **Sospesa** indica quando la sottoscrizione scadrà automaticamente se non la riattivi. Per altre informazioni, vedi [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md).
+2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
+
+3. Scegli la sottoscrizione che vuoi gestire.
+
+4. Nella sezione **Stato** scegli **Sospeso**. Fai quindi clic su **Invia** per inviare le modifiche.
+
+5. Verranno eliminati tutti i dati, a meno che la sottoscrizione venga riattivata entro 90 giorni, o 90 giorni più il numero di giorni tra il momento in cui che l'account è stato aperto e il primo periodo di fatturazione (massimo 120 giorni).
+
+Quando sospendi una sottoscrizione, la data visualizzata sotto il pulsante **Sospesa** indica quando la sottoscrizione scadrà automaticamente se non viene riattivata. Per altre informazioni, vedere [domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md).
 
 ### <a name="cancel-a-subscription"></a>Annullare una sottoscrizione
 
-In caso di [sottoscrizioni per prodotti del Marketplace commerciale](sell-marketplace-products.md), puoi annullare la sottoscrizione e ricevere un rimborso completo, a condizione che tu proceda entro il periodo di annullamento: 
+È possibile scegliere di annullare le sottoscrizioni SaaS basate su licenza da autori ISV di terze parti all'interno del [Marketplace commerciale](csp-commercial-marketplace-overview.md)del centro per i partner. Fino a quando l'annullamento viene annullato entro il periodo di annullamento, si riceverà un rimborso completo.
 
-- Per le sottoscrizioni mensili, devi eseguire l'annullamento entro **24 ore**.
-- Per le sottoscrizioni annuali, devi eseguire l'annullamento entro **14 giorni**.
+Per le offerte ISV fatturate mensilmente:
 
-Al termine di questo periodo, non verrà più visualizzata l'opzione per annullare la sottoscrizione.
+- Se si annulla meno di 24 ore dopo aver effettuato l'ordine, si riceverà un credito completo per la fattura successiva.
 
-1.  Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
-2.  Scegli la sottoscrizione che vuoi gestire.
-3.  Nella sezione **Stato** scegli **Annulla**. Fai quindi clic su **Invia** per inviare le modifiche.
+- Se si annulla l'annullamento in seguito a 24 ore dopo l'esecuzione dell'ordine, l'annullamento verrà pianificato per il rinnovo.
+
+Per le offerte fatturate annualmente:
+
+- Se si annulla meno di 14 giorni dopo aver effettuato l'ordine, si riceverà un credito completo per la fattura successiva.
+
+- Se si annulla dopo 14 giorni dopo aver inserito l'ordine, l'annullamento verrà pianificato per il rinnovo.
+
+Al termine di questi periodi, non verrà più visualizzata l'opzione per annullare la sottoscrizione.
+
+> [!NOTE]
+> I servizi ISV di terze parti basati sull'utilizzo e a consumo (che usano macchine virtuali o contenitori, ad esempio) non sono idonei per la restituzione. Il deprovisioning dei servizi basati sull'utilizzo può essere effettuato come un metodo di annullamento. Poiché i costi vengono addebitati dopo l'utilizzo, questi servizi non sono idonei per un rimborso.
+
+Per annullare una sottoscrizione SaaS basata su licenza da un server di pubblicazione ISV, procedere come segue:
+
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+
+2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
+
+3. Individuare la sottoscrizione che si vuole annullare.
+
+4. Nella colonna **stato** selezionare **Annulla**. Fai quindi clic su **Invia** per inviare le modifiche.
+
+5. Se viene visualizzata una finestra di dialogo, compilare eventuali dettagli rilevanti, quindi selezionare **Invia**.
+
+6. Per confermare l'annullamento, selezionare **Sì, Annulla**.
+
+> [!NOTE]
+> È anche possibile scegliere di annullare una sottoscrizione di Azure Marketplace usando le API. A tale scopo, vedere [annullare una sottoscrizione di Azure Marketplace](https://docs.microsoft.com/partner-center/develop/cancel-an-azure-marketplace-subscription).
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Scegliere se rinnovare automaticamente una sottoscrizione del Marketplace commerciale
 
-Per impostazione predefinita, le sottoscrizioni attive sono impostate in modo da essere rinnovate automaticamente al termine del periodo di sottoscrizione. Nel caso di [sottoscrizioni per prodotti del Marketplace commerciale](sell-marketplace-products.md), puoi scegliere di non rinnovare automaticamente la sottoscrizione.
+Per impostazione predefinita, le sottoscrizioni attive sono impostate in modo da essere rinnovate automaticamente al termine del periodo di sottoscrizione. Nel caso di [sottoscrizioni per prodotti del Marketplace commerciale](csp-commercial-marketplace-overview.md), puoi scegliere di non rinnovare automaticamente la sottoscrizione.
 
-Per evitare che una sottoscrizione attiva del Marketplace commerciale venga rinnovata automaticamente:
+Per arrestare una sottoscrizione del Marketplace commerciale attiva dal rinnovo automatico:
 
-1.  Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
-2.  Scegli la sottoscrizione che vuoi gestire.
-3.  Nella sezione **Stato** deseleziona la casella **Rinnovo automatico**. Fai quindi clic su **Invia** per inviare le modifiche.
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
 
+2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
- 
+3.  Selezionare **sottoscrizioni**. Verranno elencate tutte le sottoscrizioni basate sulle licenze acquistate per il cliente.
 
+4.  Nella colonna **sottoscrizione** selezionare la sottoscrizione che si desidera modificare.
+
+5. Nella pagina Dettagli sottoscrizione individuare la sezione **stato** e deselezionare la casella **rinnovo automatico** . 
+
+6. Seleziona **Invia**.
+
+## <a name="see-also"></a>Vedi anche
+
+- [Acquistare prodotti Marketplace commerciali per i clienti](csp-commercial-marketplace-purchase.md)
+- [Gestione dei prodotti del Marketplace commerciale per i clienti](csp-commercial-marketplace-manage.md)
+- [Panoramica sul Marketplace commerciale](csp-commercial-marketplace-overview.md)
 
 

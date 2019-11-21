@@ -1,19 +1,19 @@
 ---
 title: Come ottenere un indirizzo di posta elettronica di lavoro | Centro per i partner
 ms.topic: article
-ms.date: 06/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Per ottenere un account Azure AD nel centro per i partner, è necessario un indirizzo di posta elettronica di lavoro
+description: Per informazioni sulla necessità di un dominio di posta elettronica, è possibile configurare un account di Azure AD nel centro per i partner. Scopri anche come acquistare un dominio di posta elettronica.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c165f3a610d41dbb365a4081b2c5b316a3a12b7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 4ba4a0ed709ae9e0964d3187ae3c37d0c834f7ed
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653709"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252820"
 ---
 # <a name="how-to-get-a-work-email-address"></a>Come ottenere un indirizzo di posta elettronica aziendale
 

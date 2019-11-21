@@ -1,21 +1,21 @@
 ---
 title: Vendere sottoscrizioni di software tramite CSP | Centro per i partner
 ms.topic: article
-ms.date: 05/13/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Adesso puoi acquisire, fornire e gestire istanze riservate di Azure e sottoscrizioni server per conto dei clienti commerciali tramite il Centro per i partner Microsoft e il portale di Azure sfruttando Vantaggio Azure Hybrid.
+description: Scopri in che modo i partner del programma CSP possono usare il centro per i partner per acquistare, gestire, vendere e annullare le istanze riservate di Azure e le sottoscrizioni server per i clienti.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Cloud Solution Provider, CSP, servizi basati sul cloud, Azure, istanze riservate di Azure, Windows Server, SQL Server, sottoscrizioni di software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7dd7d672c231c641e0385be0cff89f19483383f9
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 32efdc721bd9a81ff04527ca82e5e71c1fe7cb58
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653490"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253545"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendere sottoscrizioni di software tramite CSP
 

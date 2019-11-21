@@ -1,21 +1,21 @@
 ---
 title: Ridimensionamento della macchina virtuale Microsoft Azure per l'utilizzo massimo della prenotazione | Centro per i partner
 ms.topic: article
-ms.date: 08/05/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Quando si acquistano Microsoft Azure prenotazioni per conto dei clienti, è necessario scegliere una macchina virtuale (VM) ridimensionata per soddisfare le esigenze di calcolo del cliente.
+Description: Informazioni su come ridimensionare una macchina virtuale (VM) in base alle esigenze di elaborazione dei clienti quando si acquistano Microsoft Azure prenotazioni.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, prenotazioni, vm, gestire, utilizzo, ridimensionamento
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d0c2935bd5a2202b50ffc470fbef144ce4d20e2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2b8148d66be8a439056efa41eccb60cbc3e4274b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653777"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253251"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Ridimensionamento della macchina virtuale Microsoft Azure per un utilizzo ottimale delle prenotazioni
 

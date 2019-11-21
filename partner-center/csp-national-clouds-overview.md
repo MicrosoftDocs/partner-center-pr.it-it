@@ -1,20 +1,20 @@
 ---
 title: Richiedere di vendere nei cloud nazionali Microsoft | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: I partner Microsoft partecipanti al programma Cloud Solution Provider possono vendere ai clienti registrati nei cloud nazionali supportati.
+description: Scopri in che modo i partner Microsoft nel programma Cloud Solution Provider possono vendere ai clienti iscritti a cloud nazionali supportati.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cloud nazionali, Microsoft Cloud Germania, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud Cina
 ms.localizationpriority: medium
-ms.openlocfilehash: aec95e9c453dffef99e65b2c303165ef04c069fd
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d8f23931f5f13252a8d72b36b4be52efd5f3cd88
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653532"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253521"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Richiedere di vendere nei cloud nazionali Microsoft
 
@@ -44,7 +44,7 @@ I partner qualificati possono vendere soluzioni Microsoft Cloud ai clienti in qu
     > Da ora in poi, i nuovi clienti hanno la possibilità di utilizzare le aree geografiche europee attualmente disponibili o le nuove aree in Germania quando diventano disponibili. Per ulteriori informazioni, vedi l'articolo [Microsoft to deliver cloud services from new datacenters in Germany](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 
     
--   [**Azure e Office 365 gestiti da 21ViaNet in Cina**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft fornisce servizi cloud in Cina grazie a una partnership esclusiva con la tecnologia 21Vianet (Blue Cloud Technology Co., Ltd.), una filiale interamente di proprietà di Beijing 21Vianet Broadband Data Center Co., Ltd. 21Vianet è la più grande rete Internet indipendente dal vettore provider di servizi di Data Center, hosting, rete gestita e infrastruttura cloud computing in Cina. 
+-   [**Azure e Office 365 gestiti da 21ViaNet in Cina**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft fornisce servizi cloud in Cina grazie a una partnership esclusiva con Shanghai Blue Cloud Technology Co., Ltd. (21Vianet), una filiale interamente di proprietà di Beijing 21Vianet Broadband Data Center Co., Ltd. 21Vianet è il più grande provider Internet indipendente dal vettore di Data Center, hosting, rete gestita e servizi di infrastruttura cloud computing in Cina. 
 
     Microsoft è il provider della tecnologia, ma non gestisce il servizio. 21Vianet gestisce e amministra la fornitura dei servizi cloud Microsoft in modo indipendente. Concedendo in licenza le tecnologie Microsoft, 21Vianet può offrire servizi di Azure e Office 365 e gestisce data center di Azure e Office 365 che mantengono i dati sul territorio cinese. 21Vianet fornisce inoltre servizi di abbonamento e fatturazione, nonché di supporto.
 

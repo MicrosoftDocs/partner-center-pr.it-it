@@ -1,21 +1,21 @@
 ---
 title: Assegnare o revocare licenze a più utenti | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Puoi assegnare licenze e servizi a un utente o a più utenti contemporaneamente nell'account di un cliente e revocare le assegnazioni di licenze per gli utenti.
+description: Informazioni su come usare un account cliente per assegnare o revocare licenze e servizi a un utente o a più utenti contemporaneamente.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: assegnare una licenza, revocare la licenza, assegnarla a più utenti,
 ms.localizationpriority: medium
-ms.openlocfilehash: d55a73e295210df7527b2b29fd0a70d4b976f930
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c5846a0d12331bdb1aec26bd6289ac0e11896584
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653730"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253040"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Assegnare o revocare licenze a più utenti
 

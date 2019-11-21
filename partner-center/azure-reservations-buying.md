@@ -1,21 +1,21 @@
 ---
 title: Acquistare le prenotazioni di Microsoft Azure per conto del cliente | Centro per i partner
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: È possibile acquistare prenotazioni di Azure per conto dei clienti nel centro per i partner.
+Description: Scopri come acquistare o acquistare prenotazioni di Azure per conto dei tuoi clienti nel centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, prenotazioni, gestire, fatturazione, acquisto
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c995072056fd70f1e0fb71a2b664242c54bd989f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653830"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253235"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare Microsoft Azure prenotazioni per conto dei clienti nel centro per i partner 
 
@@ -56,10 +56,10 @@ Esaminare le informazioni importanti riportate di seguito prima di acquistare pr
 > | Samoa Americane     | Grenada     | Isole Pitcairn     |
 > | Andorra     | Guadalupa     | Riunione     |
 > | Anguilla     | Guam     | Saba   |
-> | Antartide     | Guernsey     | Saint-Barthélemy   |
+> | Antartide     | Guernsey     | Saint Barthélemy   |
 > | Antigua e Barbuda       | Guinea     | Saint Lucia   |
 > | Aruba       | Guinea-Bissau     | Saint Martin   |
-> | Azerbaigian       | Guyana     | Saint-Pierre e Miquelon   |
+> | Azerbaigian       | Guyana     | Saint Pierre e Miquelon   |
 > | Benin     | Haiti       | Saint Vincent e Grenadine     |
 > | Bhutan     | Heard e McDonald       | Samoa     |
 > | Bonaire     | Isola di Man     | San Marino     |
@@ -68,7 +68,7 @@ Esaminare le informazioni importanti riportate di seguito prima di acquistare pr
 > | Isole Vergini Britanniche     | Kiribati       | Sierra Leone   |
 > | Burkina Faso     | Kosovo     | Sint Eustatius     |
 > | Burundi     | Laos     | Sint Maarten     |
-> | Cambogia     | Lesoto     | Isole Salomone     |
+> | Cambogia     | Lesotho     | Isole Salomone     |
 > | Repubblica Centrafricana     | Liberia     | Somalia     |
 > | Ciad     | Madagascar     | Georgia del sud e Sandwich Australi     |
 > | Cina     | Malawi     | Sud Sudan     |
@@ -87,7 +87,7 @@ Esaminare le informazioni importanti riportate di seguito prima di acquistare pr
 > | Polinesia Francese     | Niger     | Città del Vaticano   |
 > | Terre australi francesi     | Niue     | Wallis e Futuna   |
 > | Gabon     | Norfolk     | Yemen   |
-> | Gambia     | Isole Marianne settentrionali     |    |
+> | Gambia     | Marianne Settentrionali     |    |
 > | Gibilterra     | Palau       |    |
 
 ## <a name="purchase-azure-reservations"></a>Acquista prenotazioni di Azure
@@ -98,7 +98,7 @@ Attenersi alla procedura seguente per acquistare Microsoft Azure prenotazioni pe
 
 2. Nella pagina **clienti** individuare il cliente che desidera acquistare le prenotazioni di Azure, quindi selezionare la freccia rivolta verso il basso per espandere la riga del cliente.  
 
-3. Seleziona **Aggiungi prodotti** e quindi **Azure**. 
+3. Seleziona **Aggiungi prodotti**, quindi seleziona **Azure**. 
 
     a. Scegli il segmento di mercato del cliente dall'elenco **Segmento**.
 

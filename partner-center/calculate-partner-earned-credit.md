@@ -1,20 +1,20 @@
 ---
 title: Come viene calcolato il credito guadagnato dal partner | Centro per i partner
 ms.topic: article
-ms.date: 09/17/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Calcolo dell'aspetto del credito del partner del piano Azure
+description: Scopri in che modo viene calcolato l'aspetto del credito guadagnato dal partner (PEC) del piano Azure. Sono inclusi i requisiti di idoneità per i partner e i provider indiretti.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 402ee0e2084191c7d4f592dd91480be8e1bd0341
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 59cbc822e886b031a49c281334e8287580311408
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653714"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253422"
 ---
 # <a name="how-the-partner-earned-credit-pec-is-calculated"></a>Come viene calcolato il credito guadagnato dal partner (PEC)
 
@@ -36,7 +36,7 @@ I partner che possiedono la gestione operativa delle attività IT di 24 ore su 7
 
 - PEC viene calcolato quotidianamente e può essere visualizzato nel file di ricognizione giornaliero. Un partner (provider o rivenditore (tramite il provider) deve avere accesso per l'intero giorno (24x7) per assicurarsi che guadagni PEC.
 
-- Il PEC viene raggiunto a livello di risorse di Azure. Se il partner dispone di un accesso valido a livello di sottoscrizione o di gruppo di risorse, ogni risorsa che fa parte dell'entità superiore guadagnerà PEC. 
+- Il credito viene ottenuto dai partner a livello delle risorse di Azure. Se il partner dispone di un accesso valido a livello di sottoscrizione o di gruppo di risorse, ogni risorsa che fa parte dell'entità superiore guadagnerà PEC. 
 
 - PEC verrà incluso nella fattura mensile del partner. La fattura è il costo netto. I dettagli vengono visualizzati nel file di ricognizione della fattura.
 

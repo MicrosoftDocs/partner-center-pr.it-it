@@ -1,20 +1,20 @@
 ---
 title: Confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente | Centro per i partner
 ms.topic: article
-ms.date: 09/30/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: In qualità di partner, è necessario ottenere l'accettazione del contratto del cliente Microsoft prima di poter ordinare i prodotti e i servizi Microsoft per tale cliente. Per aiutare i partner a soddisfare i requisiti di conformità, Microsoft richiede ai partner di confermare l'accettazione fornendo alcuni dettagli riguardanti la persona che ha accettato il contratto.
+Description: Informazioni su come confermare l'accettazione da parte del cliente del contratto per i clienti Microsoft. Questo potrebbe essere necessario per ordinare i prodotti e i servizi Microsoft per i clienti.
 author: LauraBrenner
 ms.author: labrenne
 keywords: cliente, clienti, consenso, MCA, Contratto Microsoft Cloud, contratto del cliente Microsoft, modelli di contratto del cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a4b28db2884f833b6df9ee0dd08f262afdb0888
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9d362f581d0d318b1a457ba6a75db54713fce6bb
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653651"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252228"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Conferma accettazione da parte del cliente del contratto Microsoft
 
@@ -56,13 +56,13 @@ I partner possono confermare l'accettazione da parte del cliente del contratto c
 
 Quando si crea il tenant di un nuovo cliente in Centro per i partner, segui questa procedura per confermare l'accettazione del contratto del cliente Microsoft da parte del cliente. Devi essere un agente amministratore o di vendita per eseguire questa procedura.
 
-1. Seleziona **Clienti** e quindi **Nuovo cliente**.
+1. Seleziona **Clienti**, quindi **Nuovo cliente**.
 
 2. In **Informazioni sull'account** immetti le informazioni relative alla società e al contatto principale.
 
 3. In **Microsoft agreement** (Contratto Microsoft) fai clic su **Microsoft Customer Agreement** (Contratto del cliente Microsoft).
 
-4. In **Agreement acceptance date** (Data di accettazione del contratto) immetti la data appropriata. Non puoi impostare questo campo su una data futura.
+4. In **Data di accettazione del contratto**, immetti la data appropriata. Non puoi impostarla su una data futura.
 
 5. Verifica che le informazioni di contatto dell'utente principale visualizzate siano corrette. Se non sono corrette, fai clic su **Aggiorna** e completa i campi **Nome**, **Cognome**, **Indirizzo di posta elettronica** e **Numero di telefono** (facoltativo) della persona che ha accettato il contratto.
 
@@ -80,7 +80,7 @@ Devi essere un agente amministratore o di vendita per eseguire questa operazione
 
 3. In **Microsoft Customer Agreement** (Contratto del cliente Microsoft) fai clic su **Aggiorna**.
 
-4. Completa i campi **Nome**, **Cognome**, **Indirizzo di posta elettronica** e **Numero di telefono** (facoltativo) della persona che ha accettato il contratto. In **Agreement acceptance date** (Data di accettazione del contratto) immetti la data appropriata. Non puoi impostare questo campo su una data futura.
+4. Completa i campi **Nome**, **Cognome**, **Indirizzo di posta elettronica** e **Numero di telefono** (facoltativo) della persona che ha accettato il contratto. In **Data di accettazione del contratto**, immetti la data appropriata. Non puoi impostarla su una data futura.
 
 5. Scegli **Salva** e continua.
 
@@ -90,7 +90,7 @@ Devi essere un agente amministratore o di vendita per eseguire questa operazione
 
 Puoi recuperare la conferma dell'accettazione del contratto del cliente Microsoft da parte di un cliente esistente seguendo questa procedura. Devi essere un agente amministratore o di vendita per eseguire questa operazione.
 
-1. Seleziona **Clienti** e quindi individua e seleziona il cliente che vuoi visualizzare.
+1. Seleziona **Clienti**, quindi trova e seleziona il cliente che vuoi visualizzare.
 
 2. Seleziona **Informazioni sull'account**.
 

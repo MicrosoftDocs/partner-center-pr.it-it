@@ -1,21 +1,21 @@
 ---
 title: Scenari di fatturazione comuni | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Questo argomento descrive ciò che compare sulla fattura dopo l'aggiunta di nuove sottoscrizioni, la modifica del numero di licenze in una sottoscrizione o l'annullamento di una sottoscrizione. Le sottoscrizioni in base alle licenze vengono gestite diversamente rispetto a quelle in base all'uso.
+description: Scopri le informazioni che verranno visualizzate in fattura dopo aver aggiunto nuove sottoscrizioni, modificato il numero di licenze in una sottoscrizione o annullare una sottoscrizione.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: fatturazione, pagamenti, ordini, utilizzo, fatturazione basata su licenza, data anniversario, termine, annullamento, rinnovo, formula prezzo, file di riconciliazione, file di ricognizione
 ms.localizationpriority: medium
-ms.openlocfilehash: a4a152719f20c82ff338e6f577ea83fa9eb5e4f6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d8afffa1dd11e386b03548c8f10e5490e6db5894
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653670"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253401"
 ---
 # <a name="common-billing-scenarios"></a>Scenari di fatturazione comuni
 

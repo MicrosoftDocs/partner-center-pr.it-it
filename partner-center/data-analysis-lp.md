@@ -1,7 +1,7 @@
 ---
 title: Dati e analisi nel Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Learn how to use analytics in Partner Center to better understand your business and how your customers are using the licenses you've purchased.
@@ -9,13 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: dati, analisi, analisi dei dati, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: 4c2f970a5dc96f9e49da6ca1fb2a05cd6d224e61
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: b584cf8d622bbe58ac8bf99be3292464cf64e07d
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252265"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384841"
 ---
+# <a name="get-data-and-analyze-your-business"></a>Acquisire dati e analizzare le tue attività
+
 **Si applica a**
 
 - Centro per i partner
@@ -25,8 +27,6 @@ ms.locfileid: "74252265"
 **Appropriate role**
 
 - Amministratore dei partner MPN
-
-# <a name="get-data-and-analyze-your-business"></a>Acquisire dati e analizzare le tue attività
 
 La pianificazione dei modi per sviluppare le attività CSP include le informazioni su come i clienti usano i prodotti Microsoft. Sono disponibili diverse opzioni per la raccolta dei dati nel Centro per i partner e puoi raccogliere i dati dell'azienda ma anche sapere se e come i clienti usano le licenze acquistate. Se usi il modello diretto CSP, hai la possibilità di installare e usare l'app Analisi del Centro per i Partner per Power BI per raccogliere dati aggiuntivi.
 

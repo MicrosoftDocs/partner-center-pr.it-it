@@ -1,154 +1,67 @@
 ---
 title: Leggere la fattura | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
+description: Your invoice is a summary of all Partner Center charges (across the program, products, and customers) for the current monthly period.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: La fattura è un riepilogo di tutti gli addebiti (per il programma, i prodotti e i clienti) per il periodo mensile corrente. È disponibile nel centro per i partner.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: 37469a72137d5bc399f5ab765c49c8accd36808d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2f7fe5c2a3348e89cb69fc0d4e89b97f56fb2083
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652177"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384820"
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
-**Si applica a**
+Si applica a:
 
--  Centro per i partner
--  Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner
+- Centro per i partner per Microsoft Cloud for US Government
 
+Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers) for the **current billing period**.
 
-Per la fattura, accedere al menu del centro per i **partner** , quindi selezionare **fatturazione** per visualizzare la cronologia e le tendenze di fatturazione, i collegamenti alla fattura e al file di riconciliazione e il pagamento più recente.
+## <a name="invoice-types"></a>Invoice types
 
-I partner del programma Cloud Solution Provider che hanno scelto la fatturazione mensile pagheranno Microsoft per gli abbonamenti dei clienti (sia in base a licenza che in base all'uso) in via posticipata, dopo 60 giorni.
+You will receive one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure).
 
-> [!NOTE]  
-> La fattura è un riepilogo di tutti gli addebiti, per il programma, i prodotti e i clienti, per il periodo di fatturazione corrente ed è disponibile entro due (2) giorni dalla data di fatturazione selezionata in ora UTC. Se, ad esempio, si dispone di una data di fatturazione del 12 settembre, il processo di generazione della fattura inizierà alle 12.00 UTC della tredicesima e completerà entro le 12.00 UTC del 14 °. Se la fattura non viene visualizzata entro 11:59PM UTC al 15, il Contratto di servizio e dovrebbe presentare una richiesta di servizio. 
+You will receive a separate invoice for one-time charges (such as Azure reserved VM instances).
 
-Riceverai una fattura per gli addebiti basati sulla licenza (Office365) e basati sull'utilizzo (Azure) e una fattura separata per addebiti una tantum (istanze di macchina virtuale riservate di Azure).
+## <a name="invoice-file-fields"></a>Invoice file fields
 
-Per i dettagli sugli addebiti, consulta i file di riconciliazione associati. I file di riconciliazione includono gli ID dei clienti e gli ID delle sottoscrizioni che userai per creare le fatture per i clienti. Per altre informazioni, vedi [Come usare i file di riconciliazione](use-the-reconciliation-files.md).
+For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).
 
-## <a name="invoice-file-definitions"></a>Definizioni del file di fatturazione
+## <a name="find-your-bill"></a>Find your bill
 
+You can find your invoice on the **Billing** page of the dashboard in Partner Center. You can also find your billing history, spending trends, and reconciliation files on this page.
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><strong>Campo</strong></td>
-<td><strong>Descrizione</strong></td>
-</tr>
-<tr class="even">
-<td>US FEIN</td>
-<td>Numero ID fiscale federale.</td>
-</tr>
-<tr class="odd">
-<td>Numero cliente</td>
-<td>Codice del cliente.</td>
-</tr>
-<tr class="even">
-<td>Indirizzo fatturazione</td>
-<td>Indirizzo a cui inviare la fattura. Per modificare il nome o l'indirizzo della società, modificare il profilo di fatturazione del centro per i partner. </td>
-</tr>
-<tr class="odd">
-<td>Addebiti in base alle licenze</td>
-<td>Gli addebiti fissi mensili o annuali per le licenze basate sull'utilizzo acquistate, fatturati prima del servizio. Questo numero è la somma di tutti gli addebiti nella colonna &quot;Subtotal&quot; del file di riconciliazione in base alle licenze (colonna T).</td>
-</tr>
-<tr class="even">
-<td>Addebiti basati sull'utilizzo</td>
-<td>Utilizzo di Azure, inclusi le nuove applicazioni e i nuovi servizi abilitati e usati durante il mese di fatturazione. Questo numero è la somma di tutti gli addebiti nella colonna &quot;PretaxCharges&quot; del file di riconciliazione in base all'uso (colonna Z).</td>
-</tr>
-<tr class="odd">
-<td>Sconti</td>
-<td>Ad esempio lo sconto che il cliente riceve sul prezzo normale della sottoscrizione. Lo sconto viene indicato come importo unico, non come prezzo per unità o licenza.</td>
-</tr>
-<tr class="odd">
-<td>Crediti</td>
-<td>Crediti o rettifiche per modifiche apportate alle sottoscrizioni, ad esempio aumento o riduzione delle postazioni.</td>
-</tr>
-<tr class="even">
-<tr class="even">
-<td>Subtotal</td>
-<td>Totale al lordo delle imposte e crediti e addebiti netti.</td>
-</tr>
-<td>Imposta</td>
-<td>Imposta totale per gli addebiti correnti calcolata complessivamente nella sezione dei dettagli che inizia a pagina 2 della fattura. Questo numero è la somma di tutti gli addebiti che fanno riferimento a:
-<ul>
-<li>la colonna &quot;TaxAmount&quot; del file di riconciliazione in base all'uso (colonna AA) e</li>
-<li>la colonna &quot;Tax&quot; del file in base alle licenze (colonna U).</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Altri crediti</td>
-<td>Crediti netti.</td>
-</tr>
-<tr class="even">
-<td>Costi attuali totali</td>
-<td>L'importo dovuto nella valuta della fattura per il periodo fatturato, da pagare entro la data di scadenza.</td>
-</tr>
-<tr class="odd">
-<td>Istruzioni per il pagamento</td>
-<td>Descrive come pagare la fattura, in base all'area geografica. Includi sempre il numero di fattura quando effettui un pagamento.</td>
-</tr>
-<tr class="even">
-<td>N. fattura</td>
-<td>Numero della fattura.</td>
-</tr>
-<tr class="odd">
-<td>Periodo di fatturazione</td>
-<td>Il periodo mensile che precede la data della fattura. Si tratta del periodo di tempo durante il quale vengono utilizzati i servizi basati sull'utilizzo e i servizi basati su licenze vengono riconciliati per eventuali rettifiche di credito o modifiche al numero di licenze.</td>
-</tr>
-<tr class="even">
-<td>Data fattura</td>
-<td>Data di fatturazione o data di anniversario in cui la fattura viene generata ogni mese.</td>
-</tr>
-<tr class="odd">
-<td>Condizioni di pagamento</td>
-<td>Per gli acquisti una tantum sarà sempre 60 giorni.</td>
-</tr>
-<tr class="even">
-<td>Data scadenza pagamento</td>
-<td>Data entro cui effettuare il pagamento.</td>
-</tr>
-<tr class="odd">
-<td>Ordine d'acquisto del cliente</td>
-<td>Il numero del tuo ordine di acquisto.</td>
-</tr>
-<tr class="even">
-<td>Servizio clienti</td>
-<td>Indirizzo del sito Web per accedere al servizio clienti.</td>
-</tr>
-<tr class="odd">
-<td>Destinatario del servizio</td>
-<td>Indirizzo in cui viene usato il servizio. Si tratta dell'indirizzo aziendale legale associato al vagliatura aziendale.</td>
-</tr>
-</tbody>
-</table>
+1. Sign in to the dashboard in Partner Center.
+2. In the left-hand menu, select **Billing**.
+3. On the **Billing** page, select the invoice you want to download.
+    - You can find a link to your latest invoice at the top of the page under **Account balance as of last invoice date**.
+    - You can find previous invoices in the **Billing history** section. Choose the appropriate year, then select the drop-down arrow next to the appropriate **Billing period**. You can select the link next to **Invoices (.pdf)** to download that period's invoice.
 
-## <a name="itemized-list-of-one-time-charges"></a>Elenco dettagliato dei costi una tantum
+## <a name="understand-billing-periods"></a>Understand billing periods
 
-|**Campo** |**Definizione**|
-|:----------------|:-----------------------------|
-|Data |Data di acquisto. |
-|Descrizione |Nome del prodotto. |
-|Quantità |Numero di prodotti (prenotazioni, ad esempio) acquistati. |
-|Prezzo unitario |Prezzo per prodotto (prenotazione, ad esempio). |
-|Sconti |Eventuali sconti applicabili. |
-|Importo pre-imposta |Totale parziale degli acquisti prima delle imposte. |
-|Imposta sulle vendite |Importo dell'imposta. |
-|Totale |Totale da pagare. |
- 
+Your invoice is available within **two (2) days** of your selected billing date in **UTC time**.
 
+For example, if you have a September 12th monthly billing date:
 
+- The invoice generation process will **begin** at 12:00AM UTC on September 13th.
+- The invoice generation process will **complete** by 12:00AM UTC on September 14th.
+- If you do not see your invoice by 11:59PM UTC on September 15th, you’re out of your Service Level Agreement (SLA) and should file a service request.
 
+### <a name="csp-monthly-billing"></a>CSP monthly billing
+
+Partners in the Cloud Solution Provider (CSP) program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based subscriptions).
+
+## <a name="find-itemized-details-for-charges"></a>Find itemized details for charges
+
+You can understand itemized details about your charges using your reconciliation files. The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.
+
+Per altre informazioni, vedi [Come usare i file di riconciliazione](use-the-reconciliation-files.md).

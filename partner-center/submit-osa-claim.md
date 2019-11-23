@@ -1,101 +1,98 @@
 ---
-title: Inviare le attestazioni OSA nel centro per i partner | Centro per i partner
+title: Create a customer association using the CPOR model | Partner Center
 ms.topic: article
-ms.date: 10/04/2019
-description: Inviare un'attestazione di importo di vendita OSA o ISV Revenue Association
+ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Create a customer association using the CPOR model
 author: LauraBrenner
 ms.author: labrenne
-keywords: attestazioni per incentivi, attestazioni co-op, fondi co-op, OSA, ISV, associazione di ricavi
+keywords: incentives claims, co-op claims, co-op funds, OSU, OSA, ISV, revenue association
 ms.localizationpriority: medium
-ms.openlocfilehash: b61b1da0a7faa3008996785dd092b2e1bae12b8e
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: a3515c0fff52c9083bbad6cd19f033a88ae2f38a
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425170"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384880"
 ---
-# <a name="submit-your-osa-claims-in-partner-center"></a>Inviare le richieste OSA nel Centro per i partner
+# <a name="create-a-customer-association-using-the-cpor-model"></a>Create a customer association using the CPOR model
 
 **Si applica a**
 
 -  Centro per i partner
 
-Un partner OSA o un ISV di Dynamics può inviare le proprie attestazioni nel centro per i partner. 
 
-Prima di poter creare e inviare un'attestazione, è necessario soddisfare i requisiti seguenti: 
--   **Essere registrati nel Microsoft Partner Network**e avere un contratto MPN attivo. Per registrarsi nella Microsoft Partner Network, visitare il sito del partner. 
--   **Essere un Microsoft Dynamics Software Advisor certificato** con un contratto Microsoft Dynamics Certified Software Advisor (CSA). 
--   Immettere **le informazioni sulla banca e le imposte** nel centro per i partner. 
--   **Soddisfare i requisiti di certificazione e ricavi di osa sell idoneità**. Per informazioni dettagliate, vedere la guida alla vendita di OSA, disponibile nella sezione OSA in aka.ms/partnerincentives. Questa operazione non si applica solo agli ISV che cercano l'associazione dei ricavi. 
+On October 1, 2019, Microsoft began using the Claiming Partner of Record (CPOR) model to manage the associations you have with your Microsoft 365 and Dynamics 365 customers with regards to the Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 and OSU-Business Application incentives.
 
-## <a name="submitting-your-claim"></a>Invio dell'attestazione
+When you submit your claim, Microsoft validates it. We may ask you for more information at this point. We'll also notify the customer of your association request. Customers have five business days to opt out. If they don't opt out, your association with this specific tenant and workload will be official. At this point you'll have access to the customer's usage data. 
 
-Sono disponibili 90 giorni dalla data della transazione per inviare l'attestazione. Se si invia l'attestazione più di 90 giorni dopo una transazione, non si ottiene l'incentivo per la vendita. 
+You'll need the following information to complete a claim:
 
-Se sei un partner ISV e le tue soluzioni hanno contribuito a influenzare il cliente per la scelta di una soluzione Microsoft Dynamics 365, sei anche idoneo per rivendicare l'associazione dei ricavi.   
+- The **MPN ID** for your entity that makes the claim
 
-## <a name="payment-schedule"></a>Pianificazione pagamenti
+- Customer's **domain name** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-Si riceverà il pagamento per le attestazioni degli incentivi approvati entro 45 giorni dopo la fine del periodo di guadagno. Sono disponibili 90 giorni dopo la fine del periodo di guadagno per disputare un pagamento. Per informazioni sui calcoli e sui metodi di pagamento, vedere la guida alla vendita di OSA, disponibile nella sezione OSA in aka.ms/partnerincentives.
+- Customer's **Directory ID** or **Tenant ID** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-## <a name="maintaining-your-program-eligibility"></a>Gestione dell'idoneità del programma
+- The **Solution area**, such as Business Applications or Microsoft 365
 
-Microsoft valuta l'idoneità mensile per i servizi online Advisor per la vendita di incentivi per il guadagno, il calcolo e il pagamento. È necessario soddisfare criteri di idoneità specifici prima che Microsoft possa approvare e rilasciare i pagamenti degli incentivi. Per informazioni dettagliate, vedere la guida alla vendita di OSA, che si trova nella sezione OSA in aka.ms/partnerincentives.
+- The **Activity** you have performed and the type of claim you want to make, such as Pre-sales, Usage, or Revenue association
 
-## <a name="submit-an-osa-sell-fee-claim"></a>Inviare un'attestazione di prezzo di vendita OSA
+- Your customer's **Contact name**, title, and email address
 
-Completare i passaggi seguenti per inviare un'attestazione Incentive nel centro per i partner.  
+- For Dynamics 365, you also need to provide your customer's **Technical contact** name, title, and email address
+
+- Your own company's **Contact name** and email address
+
+- You'll create a **Name** for this claim
+
+- The **Product(s)** or workload(s) you're claiming
+
+- **Proof of execution (POE)** , such as a statement of work signed by the customer. You can also download a POE template to use.
+
+- For partners claiming revenue association only: **Dynamics solution seller name**, **Customer name**, and **Name of ISV product/solution**. 
+
+You should also understand the following points:
+- If you have existing Microsoft 365 customers, you'll need to re-associate with those you want to continue to earn OSU incentives by using this process.
+- If you have existing associations with Dynamics 365 or Power BI customers, these associations will remain valid, until the expiration of their subscriptions.
+- A customer can have multiple partners, but each workload (for OSU-Microsoft 365) or subscription (for OSA-Sell and OSU-Business Applications) can only be associated with one partner.
+
+## <a name="create-a-customer-association"></a>Create a customer association
+1.  In the Partner Center dashboard, under **Incentives**, select **Overview**, and then select **Customer associations**. 
+
+2.  At the top of the Customer associations page, select **+ Customer association**.
+
+3.  Select the **MPN ID** of the partner location to be associated with the customer, and then add the customer's domain name and Directory ID. [Where are these?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+
+Seleziona **Continua**.
+
+4.  Select the **Solution area** and **Activity**. 
+
+>[!Note]
+
+>If you select Business Applications, select either **Usage and/or Pre-sales**, or **Revenue association**, and then select **Continue**. 
+
+>If you select Revenue association, you'll be prompted for slightly different information than what's listed below. 
+
+5.  Enter the appropriate information on the **Associate customer** page, and then select **Create claim**.
+
+6.  Select the product(s) associated with this customer association, and then select **Continue**.
+
+7.  Complete the customer contact information and your company's contact information. Tutti i campi sono obbligatori. 
+
+>[!Note]
+
+If your product is Dynamics 365, and the product you choose has multiple subscriptions for this particular customer, you'll also need to enter the subscription ID.
+
+8.  Supply your proof of execution (POE). You can drag it to the box, browse to your own supporting documentation, or use a template by selecting **Download template**. 
+
+9.  Add and save comments if you like, and then select **Submit claim**. We'll send an email to the customer requesting approval of your customer association. 
 
 >[!NOTE]
 
->Se la società ha più sedi, assicurarsi di usare l'ID MPN per l'ufficio situato nella stessa area geografica del cliente. 
+>Once you submit your customer association, you can't edit it. 
 
-1.  Nella pagina Overview, in **All Incentive programs**, selezionare **osa**.
+The status of your customer association appears in the **Status** field. 
 
-2.  Nella pagina OSA selezionare **Claim...** e quindi selezionare **Incentive Fee**.
-
-3.  Immettere il nome di dominio e l'ID directory del cliente, quindi selezionare **continua**. 
-
-4.  Selezionare il prodotto acquistato dal cliente, quindi selezionare **continua**. 
-
-5.  Selezionare la sottoscrizione che si vuole associare a questa attestazione, quindi selezionare **continue (continua**).
-
->[!NOTE]
-
->Verificare che sia il nome che l'area geografica siano corretti prima di selezionare una sottoscrizione. 
-
->Le sottoscrizioni associate ad altri Service Advisor online sono contrassegnate da un triangolo giallo. È comunque possibile scegliere di associarli. 
-
->Non è possibile associare di nuovo le sottoscrizioni già associate alla società.  
-
-6.  Immettere le informazioni di contatto per il cliente e la società, assegnare un nome all'attestazione, quindi selezionare **Crea attestazione**. 
-
-7.  Nella pagina sottoscrizione caricare la documentazione di prova di esecuzione (POE) nella casella **prova di esecuzione** . È possibile usare il modello POE o i documenti POE del processo di pre-vendita. 
-
-8.  Selezionare **Invia attestazione**.    
-
-È possibile visualizzare lo stato dell'attestazione nella casella stato della pagina sottoscrizione. Se sono necessarie informazioni aggiuntive, si riceverà una notifica anche in questo caso.
-
-Per visualizzare i dati relativi a guadagni e pagamenti, vedere pagamenti e report. 
- 
-## <a name="submit-an-isv-revenue-association-claim"></a>Inviare un'attestazione di associazione dei ricavi ISV
-
-1.  Nella pagina Overview, in **All Incentive programs**, selezionare **osa**.
-
-2.  Nella pagina OSA selezionare **Claim...** e quindi selezionare **ISV Revenue Association**.
-
-3.  Immettere il nome di dominio e l'ID directory del cliente, selezionare il prodotto o i prodotti acquistati dal cliente, quindi selezionare **continua**. 
-
-4.  Selezionare le sottoscrizioni da associare a questa attestazione, quindi selezionare **continua**.
-
->[!NOTE]
-
->Verificare che sia il nome che l'area geografica siano corretti prima di selezionare una sottoscrizione. 
-
->Non è possibile associare di nuovo le sottoscrizioni già associate alla società.  
-
-5.  Immettere le informazioni per il **nome del venditore della soluzione Dynamics**, il **nome del cliente**e il **nome della soluzione o del prodotto ISV**, quindi immettere un nome per l'attestazione. 
-
-6.  Selezionare **Crea attestazione**. 
-
-È possibile visualizzare lo stato dell'attestazione nella casella stato della pagina sottoscrizione. Se sono necessarie informazioni aggiuntive, si riceverà una notifica anche in questo caso.
+Select **History** to view the history of a customer association.

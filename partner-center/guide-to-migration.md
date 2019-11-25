@@ -1,95 +1,95 @@
 ---
-title: Guida alla migrazione da PMC al centro per i partner | Centro per i partner
+title: Guida alla migrazione da PMC al Centro per i partner | Centro per i partner
 ms.topic: article
 ms.date: 04/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Cosa è importante sapere quando si esegue la migrazione della società da una console di gestione dei partner al centro
+description: Cosa è importante sapere per eseguire la migrazione della tua azienda da Partner Membership Center (PMC) al Centro per i partner
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
-ms.localizationpriority: medium
-ms.openlocfilehash: a39c4114758004ff4291bc577182fd8ba469149b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: a7db9b3241c239ea3de4f25a3be04ead01bb2718
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653093"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096503"
 ---
-# <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guida alla migrazione da PMC al centro per i partner
+# <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guida alla migrazione da Partner Membership Center (PMC) al Centro per i partner
 
-Il sito Web del partner Microsoft in partner.microsoft.com è un'esperienza digitale unificata per i partner. Dal sito Web del partner, sarà possibile esplorare le opportunità e coinvolgere le esperienze guidate che consentono all'azienda di creare e vendere app e servizi con Microsoft. Usando il collegamento del dashboard disponibile nel sito Web del partner, i membri del Microsoft Partner Network possono accedere al centro per i partner, dove si gestisce la relazione con Microsoft, si registrano i programmi e si registrano le offerte. 
+Il sito Web dei partner Microsoft disponibile all'indirizzo partner.microsoft.com offre ai partner un'esperienza digitale unificata. Dal sito Web dei partner potrai esplorare le opportunità disponibili e lasciarti coinvolgere in esperienze guidate che aiuteranno la tua azienda a creare e vendere app e servizi con Microsoft. Tramite il collegamento Dashboard, disponibile ovunque nel sito Web dei partner, i membri di Microsoft Partner Network possono accedere al Centro per i partner per gestire il rapporto con Microsoft, iscriversi ai programmi e registrarsi per le offerte. 
 
-È in corso la rimozione delle autorizzazioni per partner Membership Center (PMC). La società è stata invitata a eseguire la transizione della gestione delle appartenenze Microsoft Partner Network al centro per i partner. Questa guida consente di preparare le attività da eseguire quando si passa da una console di gestione dei partner al centro per i partner.
+Le autorizzazioni a Partner Membership Center (PMC) stanno per essere rimosse. La tua azienda è stata invitata a eseguire la transizione dalla gestione delle appartenenze di Microsoft Partner Network al Centro per i partner. Questa guida ti preparerà a eseguire le attività previste quando si passa da PMC al Centro per i partner.
 
 >[!Note]
->Anche se la società ha più di un account o una località, il passaggio al centro per i partner inizia con lo spostamento di un account (il primo) nel centro per i partner.
+>Anche se la tua azienda ha più account o posizioni, il passaggio al Centro per i partner inizia con lo spostamento di un account (il primo) al Centro per i partner.
 
-## <a name="get-started"></a>Per iniziare
+## <a name="get-started"></a>Informazioni di base
 
 Lo spostamento inizia in PMC. L'amministratore globale riceverà un invito per iniziare lo spostamento. 
 
-**Preparare in PMC**
-- Verificare i dettagli aziendali 
-- Verificare il contatto del programma primario 
-- Verificare i percorsi aziendali
-- Aggiornare gli utenti approvati
+**Eseguire la preparazione in PMC**
+- Verifica i dettagli aziendali. 
+- Verifica il contatto principale del programma. 
+- Verifica le sedi aziendali.
+- Aggiorna gli utenti approvati.
 
 **Quando si è pronti**
 
-Selezionare **iniziare a usare** l'invito. Verrà eseguita la pagina di accesso al centro per i partner.
+Seleziona **Inizia** nell'invito ricevuto. Verrà visualizzata la pagina di accesso al Centro per i partner.
 
-![Per iniziare](images/migration/getstarted.jpg)
+![Informazioni di base](images/migration/getstarted.jpg)
 
-## <a name="start-with-your-work-email"></a>Inizia a usare l'indirizzo di posta elettronica aziendale
+## <a name="start-with-your-work-email"></a>Inizia con l'indirizzo e-mail di lavoro
 
-Se la società non dispone di un indirizzo di posta elettronica di lavoro e di un tenant di AAD, è possibile configurarne uno durante il processo di accesso al centro per i partner. Quando si tenta di accedere con un account di posta elettronica che non è un indirizzo di posta elettronica di lavoro, ad esempio l'account personale, si verrà indirizzati a fornire informazioni sull'azienda in modo che sia possibile configurare un tenant AAD e un indirizzo di posta elettronica di lavoro.
-Questi dettagli aziendali verranno usati per finalizzare l'account nel centro per i partner, quindi assicurarsi che siano accurati.
+Se la tua azienda non ha un indirizzo e-mail aziendale e un tenant AAD, possiamo aiutarti a configurarli durante la procedura di accesso al Centro per i partner. Quando provi ad accedere con un account e-mail non aziendale, ad esempio con l'account personale, verrai indirizzato a fornire informazioni sulla tua azienda in modo da consentirci di configurare un tenant AAD e un indirizzo e-mail aziendale.
+Poiché questi dettagli aziendali verranno usati per finalizzare il tuo account nel Centro per i partner, assicurati che siano corretti.
 
 >[!Note]
->Se si è un partner in Cina ed è stato registrato nel programma Microsoft Partner Network e Cloud Solution Provider (CSP), si avrà un tenant separato per ogni account. L'account con il programma Cloud Solution Provider è gestito nel cloud nazionale e l'account Microsoft Partner Network è gestito nel cloud globale. Non è possibile collegare i due account.
+>Se sei un partner con sede in Cina e sei iscritto ai programmi Microsoft Partner Network e Cloud Solution Provider (CSP), avrai un tenant separato per ogni account. L'account del programma Cloud Solution Provider viene gestito nel cloud nazionale, mentre l'account di Microsoft Partner Network viene gestito nel cloud globale. Non è possibile collegare i due account.
 
-![Informazioni sulla società](images/migration/newtellusabout.png)
+![Descrivi la tua società](images/migration/newtellusabout.png)
 
-Dopo aver verificato o aggiornato le informazioni, selezionare **accetta e continua**.
-I termini e le condizioni in questa pagina sono **esattamente identici** a quelli del contratto che la società ha già effettuato l'accesso a PMC.  
-Viene avviata la creazione del tenant di Azure AD e viene fornito l'account aziendale.
+Dopo aver verificato o aggiornato le informazioni, seleziona **Accetta e continua**.
+Le condizioni riportate in questa pagina sono **esattamente le stesse** contenute nel contratto firmato dalla tua azienda in PMC.  
+In questo modo viene avviata la creazione del tuo tenant di Azure AD e ti verrà fornito l'account aziendale.
 
-La selezione **di Accept e continue** esegue anche le operazioni seguenti:
+Selezionando **Accetta e continua** vengono eseguite anche le operazioni seguenti:
 
-• Esegue la migrazione dell'account insieme a tutte le relative posizioni al centro per i partner
+•   Migrazione del tuo account insieme a TUTTE le relative posizioni al Centro per i partner
 
-• Esegue la migrazione di tutte le competenze o mappe acquistate in PMC
+•   Migrazione di tutti i MAP o le competenze che hai acquistato in PMC
 
-• Migra tutti i vantaggi (MAPs, Silver, Gold) disponibili in PMC
+•   Migrazione di tutti i vantaggi (MAP, Silver, Gold) di cui disponevi in PMC
 
 ## <a name="invite-employees-to-join-you"></a>Invitare i dipendenti a partecipare
 
-Quando viene creato il nuovo tenant di Azure AD, è possibile invitare i dipendenti a accedere al centro per i partner.
+Quando viene creato il nuovo tenant di Azure AD, puoi invitare i tuoi dipendenti ad accedere al Centro per i partner.
 
 ![Invitare i dipendenti](images/migration/invite.png)
 
 
-Se è stato eseguito l'accesso con un tenant AAD esistente, i dipendenti si sono spostati. In questo caso, assegnare i ruoli dipendenti, che determinano le operazioni che è possibile eseguire nel centro per i partner. Nota: i ruoli nel centro per i partner sono diversi dai ruoli in PMC. Per altre informazioni, vedere [passaggio da una console di gestione dei partner a](move-pmc-pc-map.md)un altro.
+Se hai eseguito l'accesso con un tenant AAD esistente, i dipendenti sono stati spostati con te. In questo caso, assegna ai dipendenti ruoli specifici per definire le operazioni che possono eseguire nel Centro per i partner. Nota: i ruoli nel Centro per i partner sono diversi dai ruoli in PMC. Per altre informazioni, vedi [Passaggio dal Partner Membership Center al Centro per i partner](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Verificare il dominio e diventare un amministratore globale  
 
-Se il tenant di AAD è nuovo, a nessuno viene assegnato il ruolo di amministratore globale. Per diventare l'amministratore globale, è necessario verificare la proprietà del dominio. Per semplificare l'operazione, potrebbe essere necessario l'amministratore del dominio. Si noti che anche se è possibile usare le offerte già acquistate, non sarà possibile acquistare nuove offerte fino a quando non si completa il passaggio per ottenere un amministratore globale. 
+Se il tenant AAD è nuovo, il ruolo di amministratore globale non è assegnato a nessuno. Per diventare l'amministratore globale, devi verificare la proprietà del dominio. A tale scopo, potresti aver bisogno dell'assistenza dell'amministratore di dominio. Tieni presente che, anche se puoi usare le offerte già acquistate, non potrai acquistare nuove offerte fino a quando non completerai la procedura per diventare amministratore globale. 
 
 ![Assumere il controllo](images/migration/takecontrol.png)
 
-Quando si seleziona inizia, viene visualizzata la schermata seguente:
+Quando selezioni Inizia, verrà visualizzata la schermata seguente:
 
 ![Verificare la proprietà del dominio](images/migration/verifytxt.png)
 
-Il registrar sarà già compilato. Solo il proprietario del dominio può aggiornare il file DNS. Pertanto, copiando e aggiungendo il file di testo al record DNS, è possibile verificare di essere il proprietario. L'aggiornamento potrebbe richiedere alcuni minuti. Sarà necessario disconnettersi dal centro per i partner e quindi accedere di nuovo. Il ruolo sarà stato modificato in amministratore globale. 
+Il registrar risulterà già compilato. Solo il proprietario del dominio può aggiornare il file DNS. Copiando e aggiungendo il file di testo al tuo record DNS, potremo quindi verificare che tu sei il proprietario. L'aggiornamento può richiedere alcuni minuti. Dovrai disconnetterti dal Centro per i partner e quindi eseguire di nuovo l'accesso. A questo punto, il tuo ruolo risulterà modificato in amministratore globale. 
 
 
-## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>Familiarizzare con il dashboard e il centro per i partner
+## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>Acquisire familiarità con il dashboard e il Centro per i partner
 
-Segui il tour del dashboard. Qui è possibile gestire l'appartenenza, aggiungere un profilo business per i riferimenti, iscriversi al programma Cloud Solution Provider e visualizzare le notifiche e le offerte rilevanti per l'azienda in qualsiasi momento selezionando **Dashboard**. Puoi anche gestire gli incentivi, acquistare nel Marketplace, iscriverti ai servizi go-to-Market e molto altro.  
+Segui la presentazione del dashboard. In questo ambiente puoi gestire l'appartenenza, aggiungere un profilo di business per le segnalazioni, iscriverti al programma Cloud Solution Provider e visualizzare le notifiche e le offerte pertinenti per la tua azienda in qualsiasi momento selezionando **Dashboard**. Puoi anche gestire gli incentivi, acquistare nel marketplace, registrarti per i servizi go-to-market e molto altro.  
 
-![Segui la presentazione](images/migration/fre.png)
+![Presentazione](images/migration/fre.png)
 
 ## <a name="next-steps"></a>Passaggi successivi
 
@@ -101,4 +101,4 @@ Segui il tour del dashboard. Qui è possibile gestire l'appartenenza, aggiungere
 
 ## <a name="see-also"></a>Vedi anche
 
-- [Guida alla migrazione di più società da PMC al centro per i partner](move-multiple-companies.md)
+- [Guida alla migrazione di più aziende da PMC al Centro per i partner](move-multiple-companies.md)

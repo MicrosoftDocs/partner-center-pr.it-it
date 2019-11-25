@@ -9,13 +9,13 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guide al programma CSP, guida al programma, contratti partner, contratto cliente, listini prezzi, offerte
-ms.localizationpriority: medium
-ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 06bcbea6068a3185f097b5db6b50f30dfd85f7c7
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653562"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096516"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guida al programma Cloud Solution Provider, contratti, listini prezzi e offerte
 
@@ -36,9 +36,9 @@ Esamina i requisiti per diventare un partner nel programma Cloud Solution Provid
 >[!Note]
 >Se hai bisogno di una dichiarazione formale che confermi o certifichi il tuo status di partner Microsoft approvato nel programma Cloud Solution Provider, [contatta il supporto tecnico](https://partner.microsoft.com/pcv/servicerequests/create) per richiederla.
 
-### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Condizioni di offerta aggiuntive per il contratto partner Microsoft
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Condizioni di offerta aggiuntive al Contratto Microsoft Partner
 
-[Termini dell'offerta supplementare Guida alle sottoscrizioni dei servizi online e all'autorizzazione del canale software](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
+[Guida alle condizioni di offerta supplementari per le sottoscrizioni ai servizi online e l'autorizzazione del canale software](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Contratto Microsoft Cloud: modelli per i clienti
 
@@ -61,7 +61,7 @@ Se lavori in Germania, può essere necessario fornire ai clienti questa modifica
 
 Scarica i dettagli dei prezzi per i servizi basati sulla licenza o sull'utilizzo e per gli acquisti una tantum dalla pagina **Prezzi e offerte** disponibile dal menu **Centro per i partner**.
 
-Il listino prezzi in base alle licenze viene aggiornato mensilmente e Microsoft pubblica i nuovi prezzi 30 giorni prima dell'entrata in vigore. Alcuni esempi di servizi basati su licenza sono Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM. 
+Il listino prezzi basato su licenza viene aggiornato mensilmente e Microsoft pubblica i nuovi prezzi 30 giorni prima dell'entrata in vigore. Alcuni esempi di servizi basati su licenza sono Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM. 
 
 I prezzi in base all'uso sono dinamici e cambiano di frequente. Un esempio di servizio basato sull'utilizzo è Microsoft Azure.
 
@@ -75,4 +75,4 @@ In qualità di partner CSP, puoi vendere un'ampia gamma di prodotti, servizi e s
 
 Per i partner CSP che usano l'API CREST per i record di utilizzo, Microsoft pubblica anche un elenco dei servizi di Azure in CSP nella pagina **Prezzi e offerte**.
 
-Per informazioni sulle offerte di Azure Marketplace pubblicate da fornitori di software indipendenti (ISV), visita la pagina **Marketplace** nel menu di spostamento a sinistra. Attualmente, è possibile acquistare nel Centro per i partner solo i tipi di prodotti SaaS (Software as a Service). È necessario visitare il portale di Azure per acquisire altri tipi di offerte di Azure Marketplace.
+Per informazioni sulle offerte di Azure Marketplace pubblicate da fornitori di software indipendenti (ISV), visita la pagina **Marketplace** nel menu di spostamento a sinistra. Attualmente, è possibile acquistare nel Centro per i partner solo i tipi di prodotti SaaS (Software as a Service). Per acquistare altri tipi di offerte di Azure Marketplace, dovrai visitare il portale di Azure.

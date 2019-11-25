@@ -7,13 +7,13 @@ ms.subservice: partnercenter-mpn
 description: I membri del programma Microsoft Partner Network devono creare gli account del Centro per i partner per gestire i vantaggi e le competenze di rete e creare un profilo aziendale.
 author: MaggiePucciEvans
 ms.author: evansma
-ms.localizationpriority: medium
-ms.openlocfilehash: e1497003ef9ca08b61f0ae752eab654dc40b6997
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 46a299f8e882f6f55d4f674c989446250c0c26d6
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653269"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096480"
 ---
 # <a name="create-a-partner-center-account"></a>Creare un account nel Centro per i partner
 
@@ -26,17 +26,17 @@ Prima di poter creare un account nel Centro per i partner o iscriversi a un prog
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
-Per creare un account nel centro per i partner, è necessario avere a disposizione le informazioni seguenti. Prima di iniziare, è consigliabile dedicare qualche minuto alla raccolta di questi elementi:
+Per creare un account nel Centro per i partner occorrono le informazioni seguenti. Prima di iniziare, è consigliabile dedicare qualche minuto alla raccolta di questi elementi:
 
 -   Posta elettronica dell'amministratore globale.
 
--   Se non si è certi dell'account aziendale dell'azienda, vedere [l'account aziendale e il centro per i partner](azure-active-directory-tenants-and-partner-center.md) se la società non dispone di un account di lavoro, è possibile crearne una durante il processo di creazione dell'account. 
+-   Se non sei certo dell'account aziendale della tua azienda, vedi [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md). Se l'azienda non ha un account aziendale, puoi crearne uno durante il processo di creazione dell'account. 
 
--   Nome e indirizzo aziendale legali della società.  
+-   Ragione sociale e indirizzo dell'azienda.  
 
--   Autorità per firmare i contratti legali. Assicurarsi di essere autorizzati a firmare contratti legali per conto dell'azienda, in quanto verrà richiesto durante il processo di registrazione.
+-   Autorità per firmare i contratti legali. Verifica di essere autorizzato a firmare contratti legali per conto della tua azienda perché ti verrà richiesto di eseguire questa operazione durante il processo di registrazione.
 
--   Nome e indirizzo di posta elettronica aziendale della persona che sarà il contatto principale. Per garantire la sicurezza e la privacy dell'azienda, verrà inviato un messaggio di posta elettronica al contatto principale per verificare che (1) abbia effettuato l'iscrizione per un account del centro per i partner e che (2) questo indirizzo di posta elettronica appartenga all'azienda. Dopo che il contatto principale ha verificato il proprio indirizzo di posta elettronica, continueremo a esaminare le informazioni fornite.
+-   Nome e indirizzo di posta elettronica aziendale della persona che sarà il contatto principale. Per garantire la sicurezza e la privacy della tua azienda, invieremo un'e-mail al contatto principale per verificare che (1) abbia effettuato la registrazione per ottenere un account del Centro per i partner e che (2) l'indirizzo e-mail appartenga all'azienda. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueranno le verifiche delle informazioni fornite.
 
 Queste informazioni verranno verificate durante il processo di creazione dell'account. 
  
@@ -44,26 +44,26 @@ Queste informazioni verranno verificate durante il processo di creazione dell'ac
 
 1.  Verificare le informazione nella pagina di **benvenuto** e quindi selezionare **Avanti**.
 
-2.  Accedere in qualità di amministratore globale all'account aziendale della società. Se non si è certi dell'account aziendale dell'azienda, vedere [l'account aziendale e il centro per i partner](azure-active-directory-tenants-and-partner-center.md).
+2.  Accedere in qualità di amministratore globale all'account aziendale della società. Se non sei certo di quale sia l'account aziendale, vedi [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md).
 
     Se la società dispone di un account di posta elettronica aziendale, selezionare **Accedi**. Nella pagina successiva, immettere le credenziali di amministratore globale per l'account aziendale della società. 
 
-    Se la società non dispone di un account di lavoro, selezionare **crearne** una per configurarne una. Dopo aver creato un account aziendale, accedere con le credenziali di amministratore globale per l'account di lavoro appena creato.
+    Se l'azienda non ha un account aziendale, seleziona **Creane uno** per configurarne uno ora. Dopo aver creato un account aziendale, accedi usando le credenziali di amministratore globale per l'account appena creato.
 
-3.  Fornire o aggiornare il profilo aziendale legale e le informazioni di contatto primarie dell'azienda, quindi selezionare **Registra ora**. 
+3.  Fornisci o aggiorna il profilo di business dell'azienda e le informazioni relative al contatto principale e quindi seleziona **Registrati ora**. 
 
     Il contatto principale deve essere la persona all'interno dell'organizzazione da contattare relativamente alla richiesta (può trattarsi dell'utente o di un'altra persona all'interno dell'organizzazione). Useremo queste informazioni anche per verificare che questa persona lavori presso l'organizzazione e che abbia effettuato la registrazione per ottenere un account del Centro per i partner.
 
     > [!IMPORTANT]  
-    > Per garantire la sicurezza e la privacy dell'azienda, verrà inviato un messaggio di posta elettronica al contatto principale per verificare che (1) abbia effettuato l'iscrizione per un account del centro per i partner e (2) che l'indirizzo di posta elettronica appartenga all'azienda. Dopo che il contatto principale ha verificato il proprio indirizzo di posta elettronica, continueremo a esaminare le informazioni fornite.
+    > Per garantire la sicurezza e la privacy della tua azienda, invieremo un'e-mail al contatto principale per verificare che (1) abbia effettuato la registrazione per ottenere un account del Centro per i partner e che (2) l'indirizzo e-mail appartenga all'azienda. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueranno le verifiche delle informazioni fornite.
 
 4.  Leggere e accettare le condizioni del contratto del Microsoft Partner Network. 
 
-5.  Verificare di essere stati aggiunti al gruppo di agenti di amministrazione. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, è necessario disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attenersi alla procedura seguente:
+5.  Verifica di essere stato aggiunto al gruppo di agenti di amministrazione. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, è necessario disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attenersi alla procedura seguente:
 
-    a. Dal [Dashboard](https://partner.microsoft.com/dashboard/home**)del centro per i partner selezionare l'icona **delle impostazioni** e quindi selezionare **Gestione utenti**.  
+    a. Nel [dashboard](https://partner.microsoft.com/dashboard/home**) Centro per i partner seleziona l'icona **Impostazioni** e quindi **Gestione utenti**.  
 
-    b. Selezionare il nome dall'elenco utenti, quindi selezionare **agente di amministrazione** , se non è già selezionato. Seleziona **Aggiorna**.  
+    b. Seleziona il tuo nome nell'elenco degli utenti e quindi **Agente amministratore** se non è già selezionato. Selezionare **Aggiorna**.  
 
 ## <a name="next-steps"></a>Passaggi successivi
 

@@ -4,19 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Per creare un account del Centro per i partner, la tua azienda deve disporre di un account aziendale. Se si dispone di una sottoscrizione attiva per Microsoft Azure o Office 365, si dispone già di un account di lavoro.
+description: Per creare un account del Centro per i partner, la tua azienda deve avere un account aziendale. Se hai una sottoscrizione attiva a Microsoft Azure o Office 365, hai già un account aziendale.
 author: LauraBrenner
 ms.author: labrenne
-Keywords: account aziendale, posta elettronica, tenant, tenant di Azure, creare un account, nome di dominio
+Keywords: account aziendale, e-mail, tenant, tenant di Azure, creare un account, nome di dominio
 robots: ''
-ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: a7c02236bbe4828ed069c9787dd3c8745e2516fd
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 0bca97c9bbe153aa705c149ce8bd3ad5e38d72d9
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653893"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096544"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Account aziendale e Centro per i partner  
 
@@ -26,45 +25,45 @@ ms.locfileid: "73653893"
 
 ## <a name="why-you-need-a-work-account"></a>Perché è necessario un account aziendale
 
-Dobbiamo collegare l'account aziendale della tua società al nuovo account del Centro per i Partner, in modo che gli utenti dell'account possano accedere al Centro per i partner con i propri nomi utente e le password dell'account aziendale.
+Dobbiamo collegare l'account aziendale della tua azienda al nuovo account del Centro per i Partner, per consentire agli utenti dell'account di accedere al Centro per i partner con i rispettivi nomi utente e password dell'account aziendale.
 
-## <a name="the-work-account-email-address"></a>Indirizzo di posta elettronica dell'account aziendale
+## <a name="the-work-account-email-address"></a>Indirizzo e-mail dell'account aziendale
 
-L'account aziendale o l'indirizzo di posta elettronica dell'ufficio è l'indirizzo di posta elettronica fornito dall'azienda. Un indirizzo di posta elettronica dell'account di lavoro è in genere nel formato you@yourcompany.com. Gli indirizzi di posta elettronica personali, ad esempio Hotmail, Gmail e così via, non possono essere usati per l'account del centro per i partner. 
+L'indirizzo e-mail aziendale o quello dell'account aziendale è l'indirizzo e-mail che ti è stato fornito dall'azienda. L'indirizzo e-mail di un account aziendale è in genere nel formato you@yourcompany.com. Gli indirizzi e-mail personali, ad esempio Hotmail, Gmail e così via, non sono di tipo aziendale e non possono essere usati per l'account del Centro per i partner. 
 
-Se si dispone di più di un indirizzo di posta elettronica di lavoro valido, usare quello associato alla sede aziendale anziché al reparto regionale, ad esempio, usare l'indirizzo di posta elettronica contoso.com anziché l'indirizzo contoso.uk.
+Se hai più indirizzi e-mail aziendali validi, usa quello associato alla sede centrale dell'azienda anziché al reparto regionale, ad esempio usa contoso.com anziché contoso.uk.
 
 > [!NOTE]  
->  Prima di decidere di usare un account aziendale esistente, valutare il numero di utenti nell'account che dovranno lavorare nel centro per i partner. Se gli utenti nell'account non devono lavorare nel centro per i partner, è consigliabile creare un nuovo account solo per gli utenti che dovranno lavorare nel centro per i partner.
+>  Prima di decidere di usare un account aziendale esistente, valuta il numero di utenti dell'account che dovranno usare il Centro per i partner. Se nell'account sono presenti utenti che non dovranno lavorare nel Centro per i partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno usare il Centro per i partner.
 
 
-## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Non sei sicuro che l'azienda disponga già di un account aziendale?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Se non si è certi che l'azienda abbia già un account aziendale
 
-Se non si è certi che la società disponga di un account di lavoro, attenersi alla procedura seguente per verificare. Tieni presente che se disponi di un abbonamento attivo per Microsoft Azure o Office 365, disponi già di un account aziendale.
+Se non sei certo che l'azienda abbia un account aziendale, verifica questo aspetto attenendoti alla procedura seguente. Tieni presente che se hai una sottoscrizione attiva a Microsoft Azure o Office 365, hai già un account aziendale.
 
-1.  Accedi al portale di amministrazione di Azure all'indirizzo https://ms.portal.azure.com
-2.  Seleziona Azure Active Directory dal menu, quindi seleziona i nomi di dominio.
-3.  Se disponi già di un account aziendale, il tuo nome di dominio verrà elencato.
+1.  Accedi al portale di amministrazione di Azure all'indirizzo https://ms.portal.azure.com.
+2.  Seleziona Azure Active Directory dal menu e quindi seleziona Nomi di dominio.
+3.  Se hai già un account aziendale, il nome del tuo dominio verrà visualizzato nell'elenco.
 
-Se la società non dispone già di un account di lavoro, è possibile crearne uno durante il processo di registrazione.
+Se la tua azienda non ha ancora un account aziendale, puoi crearne uno durante il processo di registrazione.
 
-Il diagramma seguente illustra i passaggi per diversi scenari tipici:
+Il diagramma seguente illustra i passaggi da eseguire per alcuni scenari tipici:
 
-- determinare se si dispone di un account di lavoro 
-- determinare come accedere all'account aziendale 
-- determinare se è necessario creare un nuovo account di lavoro
+- stabilisci se hai un account aziendale 
+- determina come accedere all'account aziendale 
+- stabilisci se devi creare un nuovo account aziendale
 
 
-![Disponi di un account aziendale oppure devi crearne uno?](images/onboardingAADFlow.png)
+![Hai un account aziendale o devi crearne uno?](images/onboardingAADFlow.png)
 
-Per ulteriori informazioni sull'aggiunta di domini in Azure AD, consulta [Aggiungi o associa un dominio in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
+Per altre informazioni sull'aggiunta di domini in Azure AD, vedi [Aggiungere o associare un dominio in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain).
 
 ## <a name="about-microsoft-azure"></a>Informazioni su Microsoft Azure
 
-Microsoft Azure è una piattaforma cloud pubblica che le società possono utilizzare per creare, distribuire e gestire le applicazioni in una rete globale di data center gestiti da Microsoft. Le aziende usano Azure per creare un'infrastruttura IT virtuale con funzioni virtuali o servizi, invece di computer fisici. 
+Microsoft Azure è una piattaforma cloud pubblica che consente alle aziende di creare, distribuire e gestire le applicazioni in una rete globale di data center gestiti da Microsoft. Le aziende usano Azure per creare un'infrastruttura IT virtuale con funzioni virtuali, o servizi, invece di computer fisici. 
 
-Quando si acquista una sottoscrizione di Azure, si sta essenzialmente affittando uno spazio dedicato e sicuro nel cloud pubblico di Azure, non troppo diverso dall'affittare un piano in un ufficio per ospitare l'azienda fisica aziendale. Per il proprietario dell'ufficio, la società è un tenant. 
+Quando acquisti una sottoscrizione di Azure, stai fondamentalmente affittando uno spazio dedicato e sicuro nel cloud pubblico di Azure, non molto diverso dall'affitto di un piano in un edificio direzionale per ospitare le attività fisiche della tua azienda. Per il proprietario dell'edificio direzionale, la tua azienda è un tenant. 
 
-Un account aziendale Azure è una rappresentazione virtuale dedicata e isolata della società nel cloud pubblico di Azure e viene creato quando sottoscrivi un servizio cloud Microsoft, ad esempio Azure, Microsoft Intune o Office 365. 
+Un account aziendale Azure è una rappresentazione virtuale, dedicata e isolata, della tua azienda nel cloud pubblico di Azure che viene creata al momento della sottoscrizione di un servizio cloud Microsoft, ad esempio Azure, Microsoft Intune o Office 365. 
 
-L'account aziendale ospita gli utenti di Azure AD e le informazioni su di essi: password, dati del profilo, autorizzazioni e così via. L'account aziendale contiene anche gruppi, applicazioni e altre informazioni relative a un'azienda e alla sua sicurezza. 
+Il tuo account aziendale ospita gli utenti di Azure AD e le informazioni correlate: password, dati del profilo, autorizzazioni e così via. L'account aziendale contiene anche gruppi, applicazioni e altre informazioni relative a un'azienda e alla sua sicurezza. 

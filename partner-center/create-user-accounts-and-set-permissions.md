@@ -8,29 +8,29 @@ description: L'amministratore crea un account utente per ogni dipendente del par
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: ruoli, autorizzazioni, Aggiungi utente, assegna ruolo, amministratore, agente,
-ms.localizationpriority: medium
-ms.openlocfilehash: c96ab4ffe5cd559bf34332211f0247851403dfad
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+Keywords: ruoli, autorizzazioni, aggiungi utente, assegna ruolo, amministratore, agente,
+ms.localizationpriority: high
+ms.openlocfilehash: 088c94c59dadc6deead6f13d7f80612489e6e040
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653579"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096491"
 ---
-# <a name="create-user-accounts-and-assign-permissions"></a>Crea gli account utente e assegna le autorizzazioni
+# <a name="create-user-accounts-and-assign-permissions"></a>Creare account utente e assegnare autorizzazioni
 
-Creare gli account utente per i dipendenti che necessitano dell'accesso al centro per i partner. Queste attività devono essere eseguite da un amministratore per la gestione degli utenti, un amministratore di account o l'amministratore globale. 
+Crea gli account utente per i dipendenti che hanno bisogno di accedere al Centro per i partner. Questa operazione deve essere eseguita dall'amministratore per la gestione degli utenti, dall'amministratore degli account o dall'amministratore globale. 
 
 
 ## <a name="add-a-new-user"></a>Aggiungere un nuovo utente
 
-1. Nell'icona **Impostazioni** in alto a destra del centro per i partner selezionare **Gestione utenti**.
+1. Dall'icona **Impostazioni** in alto a destra nel Centro per i partner seleziona **Gestione utenti**.
 
-2.  Seleziona **Aggiungi utente**.
+2.  Selezionare **Aggiungi utente**.
 
-3.  Immettere il nome completo dell'utente e l'indirizzo di posta elettronica univoco.
+3.  Immetti il nome completo e l'indirizzo di posta elettronica univoco dell'utente.
 
-4.  Seleziona il tipo di agente e/o il tipo di amministratore da assegnare all'utente. L'accesso al Centro per i partner è basato sui ruoli, quindi è possibile assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche.  Se gli utenti vogliono un'assegnazione di ruolo, possono trovare gli amministratori globali da contattare accedendo alla **gestione degli utenti** e applicando filtri all'amministratore globale.
+4.  Seleziona il tipo di agente e/o il tipo di amministratore da assegnare all'utente. L'accesso al Centro per i partner è basato sui ruoli, quindi è possibile assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche.  Se gli utenti vogliono l'assegnazione di un ruolo, possono trovare gli amministratori globali da contattare accedendo a **Gestione utenti** e filtrando in base all'amministratore globale.
 
 5.  Selezionare **Aggiungi** per creare l'account utente. Verificare i dettagli dell'utente nella pagina successiva.
 
@@ -40,26 +40,26 @@ Creare gli account utente per i dipendenti che necessitano dell'accesso al centr
 L'utente dovrà accedere al Centro per i partner con il nome utente e la password temporanea. Quando l'utente accede al Centro per i partner per la prima volta, gli viene chiesto di modificare la password. 
 
 > [!NOTE]  
->  Se l'amministratore globale ha lasciato l'organizzazione o ha un altro ruolo ed è necessario aggiungere un nuovo amministratore globale, devi registrare una richiesta di assistenza nel [portale MPN](https://partner.microsoft.com/support). Se il richiedente è in grado di fornire le informazioni di identità personale richieste e altre informazioni sull'organizzazione, l'agente del supporto può richiedere l'elevazione dei privilegi di un utente ad amministratore globale.
+>  Se l'amministratore globale ha lasciato l'organizzazione o ha assunto un altro ruolo ed è necessario aggiungere un nuovo amministratore globale, devi registrare una richiesta di servizio nel [portale MPN](https://partner.microsoft.com/support). Se il richiedente è in grado di fornire le informazioni di identità personale richieste e altre informazioni sull'organizzazione, l'agente del supporto può richiedere l'elevazione dei privilegi di un utente ad amministratore globale.
 
-### <a name="find-your-global-admin"></a>Trova l'amministratore globale
+### <a name="find-your-global-admin"></a>Trovare l'amministratore globale
 
-A volte potrebbe essere necessario modificare il ruolo di un utente oppure un nuovo utente potrebbe volere un'assegnazione di ruolo specifica.  
-Per trovare un amministratore globale che può apportare modifiche ai ruoli o assegnare ruoli a un nuovo utente, nell' **icona delle impostazioni** in alto a destra del centro per i partner, selezionare **Gestione utenti** e filtrare in amministratore globale. 
+A volte può essere necessario modificare il ruolo di un utente oppure un nuovo utente può desiderare un'assegnazione di ruolo specifica.  
+Per trovare un amministratore globale che può apportare modifiche ai ruoli o assegnare ruoli a un nuovo utente, dall'**icona Impostazioni** in alto a destra nel Centro per i partner seleziona **Gestione utenti** e filtra in base all'amministratore globale. 
 
-## <a name="assign-user-roles"></a>Assegnare i ruoli utente
+## <a name="assign-user-roles"></a>Assegnare ruoli utente
 
-Per lavorare nel centro per i partner, è necessario disporre di un ruolo assegnato.  Attualmente, i ruoli includono Azure Active Directory ruoli tenant, i ruoli del provider di soluzioni cloud (CSP) e i ruoli aziendali non AAD. Una singola azienda può avere bisogno di tutti questi ruoli.
+Per usare il Centro per i partner, devi avere un ruolo assegnato.  I ruoli includono attualmente i ruoli tenant di Azure Active Directory, i ruoli del programma Cloud Solution Provider (CSP) e i ruoli aziendali non AAD. Una singola azienda può avere bisogno di tutti questi ruoli.
 
 >[!Important]
->I singoli utenti devono essere elencati nel tenant per accedere al centro per i partner. Le assegnazioni di ruolo forniscono accesso aggiuntivo.
+>Per accedere al Centro per i partner, i singoli utenti devono essere elencati nel tenant. Le assegnazioni di ruoli forniscono possibilità di accesso aggiuntive.
 
 
-I **ruoli tenant di AAD includono**:
+**I ruoli tenant di AAD includono**:
 - Amministratore globale
 - Amministratore utenti
 
-I **ruoli CSP includono**:
+**I ruoli CSP includono**:
 - Agente amministratore
 - Amministratore fatturazione
 - Agente di vendita
@@ -68,22 +68,22 @@ I **ruoli CSP includono**:
 **Ruoli che gestiscono l'appartenenza a MPN e la società (non AAD)**
 - Amministratore dei partner MPN
 - Amministratore degli account
-- Amministratore dei riferimenti
+- Amministratore delle segnalazioni
 - Amministratore del profilo di business
-- Incentivi per amministratori e utenti
+- Utente e amministratore degli incentivi
 
-**Il produttore del pannello di controllo è un ruolo CSP e non AAD**.
+**Produttore del pannello di controllo è un ruolo CSP e non AAD**.
 - Amministratore globale
 
-È necessario che l' **utente Guest** faccia parte del tenant di AAD e che disponga di un ruolo diverso da AAD.
+L'**utente guest** deve essere incluso nel tenant AAD e può avere qualsiasi ruolo non AAD.
 
 Per informazioni specifiche sui ruoli e sulle operazioni possibili con ciascun ruolo, vedi [Assegnare le autorizzazioni utente](permissions-overview.md).
 
-## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a>Associare l'account Microsoft Learn di un utente al centro per i partner
+## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a>Associare l'account Microsoft Learn di un utente nel Centro per i partner
 
-Per essere in grado di visualizzare i percorsi di formazione e apprendimento che gli utenti stanno assumendo per le competenze, devono associare il proprio ID MCP al proprio account del centro per i partner. Come amministratore globale, quando si aggiungono nuovi utenti, assicurarsi di ricordare loro di associare l'ID MCP al proprio account. 
+Per consentire di visualizzare i percorsi di formazione e apprendimento seguiti per l'acquisizione delle competenze, gli utenti devono associare il proprio ID MCP al corrispondente account del Centro per i partner. Come amministratore globale, quando aggiungi nuovi utenti ricorda loro di associare l'ID MCP al relativo account. 
 
-### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Come associare l'ID MCP all'account del centro per i partner
+### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Come associare l'ID MCP all'account del Centro per i partner
 
 1. Dal dashboard del Centro per i partner seleziona l'icona **Il tuo account** nell'angolo destro del dashboard e quindi **Profilo personale**.
 

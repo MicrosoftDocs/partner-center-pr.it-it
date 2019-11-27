@@ -71,7 +71,7 @@ Prima di poter ordinare le offerte CSP per conto di un cliente, il cliente deve 
 
 Puoi vendere la gamma completa di [servizi cloud Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), nonché una varietà di offerte aggiuntive soggette a modifiche frequenti. Per visualizzare le offerte CSP per il mese corrente, accedere al centro per i partner, quindi passare alla pagina [**prezzi e offerte**](https://partnercenter.microsoft.com/pcv/sales) .
 
-## <a name="see-also"></a>Vedi anche 
+## <a name="see-also"></a>Vedere anche 
 
 
 |**Per informazioni su questa**   |**Leggi**   |

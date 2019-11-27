@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to customize the Microsoft catalog to make it easier to access the partner offers or products your organization most uses.
+description: Scopri come personalizzare il catalogo Microsoft per semplificare l'accesso alle offerte o ai prodotti dei partner che la tua organizzazione utilizza maggiormente.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
@@ -28,7 +28,7 @@ Nel catalogo sono elencati i prodotti Microsoft e i componenti aggiuntivi dispon
 
 **Personalizza il catalogo**
 
-1.  Go to the Partner Center menu &gt; **Sell** &gt; **Catalog**.
+1.  Passare al menu del centro per i partner &gt; **vendere** &gt; **Catalogo**.
 2.  Scegli fino a cinque offerte da visualizzare all'inizio del catalogo.
 
  

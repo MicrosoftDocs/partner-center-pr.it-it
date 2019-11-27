@@ -26,7 +26,7 @@ Per informazioni dettagliate su come confermare l'accettazione del Contratto Mic
 
 Il 1° ottobre 2019 Microsoft introdurrà il **contratto del cliente Microsoft** nel programma CSP in sostituzione del Contratto Microsoft Cloud. Per facilitare la migrazione dei partner al nuovo contratto, il Contratto Microsoft Cloud corrente sarà supportato nel programma CSP fino al 31 gennaio 2020. Per altri dettagli sulle date, vedi la tabella seguente:
 
-| Data | Revisione principale | Dettagli |
+| Date | Revisione principale | Dettagli |
 |------------|------------|--------------------------------|
 |1° agosto 2019|Esperienza utente in anteprima disponibile in sandbox|I partner possono confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente usando il dashboard Centro per i partner nell'ambiente sandbox CSP. I partner con accesso all'ambiente sandbox CSP visualizzano in anteprima le modifiche dell'esperienza utente. I partner senza accesso sandbox possono ottenere informazioni sulle modifiche in questo argomento.|
 |3 settembre 2019|API in anteprima disponibile in sandbox.|I partner possono confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente usando l'API Centro per i partner nell'ambiente sandbox CSP. I partner API possono usare questa opportunità per visualizzare in anteprima le modifiche apportate all'API e iniziare a lavorare all'integrazione dell'API per supportare il nuovo contratto.|
@@ -56,13 +56,13 @@ I partner possono confermare l'accettazione da parte del cliente del contratto c
 
 Quando si crea il tenant di un nuovo cliente in Centro per i partner, segui questa procedura per confermare l'accettazione del contratto del cliente Microsoft da parte del cliente. Devi essere un agente amministratore o di vendita per eseguire questa procedura.
 
-1. Seleziona **Clienti**, quindi **Nuovo cliente**.
+1. Seleziona **Clienti** e quindi **Nuovo cliente**.
 
 2. In **Informazioni sull'account** immetti le informazioni relative alla società e al contatto principale.
 
 3. In **Microsoft agreement** (Contratto Microsoft) fai clic su **Microsoft Customer Agreement** (Contratto del cliente Microsoft).
 
-4. In **Data di accettazione del contratto**, immetti la data appropriata. Non puoi impostarla su una data futura.
+4. In **Agreement acceptance date** (Data di accettazione del contratto) immetti la data appropriata. Non puoi impostare questo campo su una data futura.
 
 5. Verifica che le informazioni di contatto dell'utente principale visualizzate siano corrette. Se non sono corrette, fai clic su **Aggiorna** e completa i campi **Nome**, **Cognome**, **Indirizzo di posta elettronica** e **Numero di telefono** (facoltativo) della persona che ha accettato il contratto.
 
@@ -80,7 +80,7 @@ Devi essere un agente amministratore o di vendita per eseguire questa operazione
 
 3. In **Microsoft Customer Agreement** (Contratto del cliente Microsoft) fai clic su **Aggiorna**.
 
-4. Completa i campi **Nome**, **Cognome**, **Indirizzo di posta elettronica** e **Numero di telefono** (facoltativo) della persona che ha accettato il contratto. In **Data di accettazione del contratto**, immetti la data appropriata. Non puoi impostarla su una data futura.
+4. Completa i campi **Nome**, **Cognome**, **Indirizzo di posta elettronica** e **Numero di telefono** (facoltativo) della persona che ha accettato il contratto. In **Agreement acceptance date** (Data di accettazione del contratto) immetti la data appropriata. Non puoi impostare questo campo su una data futura.
 
 5. Scegli **Salva** e continua.
 
@@ -90,7 +90,7 @@ Devi essere un agente amministratore o di vendita per eseguire questa operazione
 
 Puoi recuperare la conferma dell'accettazione del contratto del cliente Microsoft da parte di un cliente esistente seguendo questa procedura. Devi essere un agente amministratore o di vendita per eseguire questa operazione.
 
-1. Seleziona **Clienti**, quindi trova e seleziona il cliente che vuoi visualizzare.
+1. Seleziona **Clienti** e quindi individua e seleziona il cliente che vuoi visualizzare.
 
 2. Seleziona **Informazioni sull'account**.
 

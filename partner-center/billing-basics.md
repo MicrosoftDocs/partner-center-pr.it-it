@@ -1,8 +1,8 @@
 ---
-title: Billing overview | Partner Center
+title: Panoramica sulla fatturazione | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
-description: Basic billing and invoice information for Partner Center.
+description: Informazioni di fatturazione e fatturazione di base per il centro per i partner.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -17,80 +17,80 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384539"
 ---
-# <a name="billing-overview"></a>Billing overview
+# <a name="billing-overview"></a>Panoramica sulla fatturazione
 
 Si applica a:
 
 - Centro per i partner
-- Partners in the Cloud Solution Provider (CSP) program
+- Partner nel programma Cloud Solution Provider (CSP)
 
-## <a name="find-your-bill"></a>Find your bill
+## <a name="find-your-bill"></a>Trova la fattura
 
-To find your bill:
+Per trovare la fattura:
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. In the left-hand menu, choose **Billing**.
-3. On the **Billing** page, you can download your latest bill or download previous bills in the **Billing history** section.
+1. [Accedere al dashboard del centro per i partner](https://partner.microsoft.com/dashboard/home).
+2. Nel menu a sinistra scegliere **fatturazione**.
+3. Nella pagina **fatturazione** è possibile scaricare la fattura più recente o scaricare le fatture precedenti nella sezione **cronologia di fatturazione** .
 
-## <a name="bill-your-customers"></a>Bill your customers
+## <a name="bill-your-customers"></a>Fatturazione dei clienti
 
-Microsoft has no requirements or conditions about how you handle your own invoicing.
+Microsoft non ha requisiti o condizioni per la gestione della fatturazione.
 
-To determine a customer's usage, [see your reconciliation files](#find-your-bill). You can use the customer name and other relevant fields to determine usage.
+Per determinare l'utilizzo di un cliente, [vedere i file di riconciliazione](#find-your-bill). È possibile utilizzare il nome del cliente e altri campi rilevanti per determinare l'utilizzo.
 
-Next, you can add your own fees and charges for services and products that you provide. Then, you can send a single bill for all charges to your customer.
+Successivamente, è possibile aggiungere tariffe e costi personalizzati per i servizi e i prodotti forniti. Puoi quindi inviare una singola fattura per tutti gli addebiti per il tuo cliente.
 
-### <a name="billing-types"></a>Billing types
+### <a name="billing-types"></a>Tipi di fatturazione
 
-Billing types in Partner Center include **license-based billing**, **usage-based billing**, and **one-time billign**. For more information, see the full explanation of [billing types in Partner Center](billing-different-types.md).
+I tipi di fatturazione nel centro per i partner includono **fatturazione basata sulle licenze**, **fatturazione basata sull'utilizzo**e **billign**monouso. Per ulteriori informazioni, vedere la spiegazione completa dei [tipi di fatturazione nel centro](billing-different-types.md)per i partner.
 
-### <a name="billing-currency"></a>Billing currency
+### <a name="billing-currency"></a>Valuta fatturazione
 
-You'll be billed for product(s) in the currency of the country or region in which you're located. You're billed the same regardless of the location of the customer to whom you sold the product(s).
+Verranno addebitati i prodotti nella valuta del paese o dell'area geografica in cui si trovano. Viene addebitato lo stesso indipendentemente dalla posizione del cliente a cui sono stati venduti i prodotti.
 
 ## <a name="invoices"></a>Fatture
 
-Your invoice is a summary of all charges for the current billing period. This includes charges across the program, all products, and all customers. For examples of monthly and annual billing scenarios, see [common billing scenarios](common-billing-scenarios.md)
+La fattura è un riepilogo di tutti gli addebiti per il periodo di fatturazione corrente. Sono inclusi gli addebiti per il programma, tutti i prodotti e tutti i clienti. Per esempi di scenari di fatturazione mensili e annuali, vedere [scenari di fatturazione comuni](common-billing-scenarios.md)
 
-Your invoice is available within two (2) days of your selected billing date in UTC time. For example, if you have a September 12th billing date, the invoice generation process will begin at 12:00AM UTC on the 13th and complete by 12:00AM UTC on the 14th. If you do not see your invoice by 11:59PM UTC on the 15th, you’re out of your Service Level Agreement and should file a service request.
+La fattura è disponibile entro due (2) giorni dalla data di fatturazione selezionata in ora UTC. Se, ad esempio, si dispone di una data di fatturazione del 12 settembre, il processo di generazione della fattura inizierà alle 12.00 UTC della tredicesima e completerà entro le 12.00 UTC del 14 °. Se la fattura non viene visualizzata entro 11:59PM UTC al 15, il Contratto di servizio e dovrebbe presentare una richiesta di servizio.
 
-Partners in the Cloud Solution Provider (CSP) program who choose to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based).
+I partner del programma Cloud Solution Provider (CSP) che scelgono di essere fatturati mensilmente pagano Microsoft 60 giorni in modo posticipato per le sottoscrizioni dei clienti (sia basate sulle licenze che basate sull'utilizzo).
 
-## <a name="price-lists"></a>Price lists
+## <a name="price-lists"></a>Elenchi prezzi
 
-Price lists are updated monthly. Preview price lists are available one (1) month in advance.
+Gli elenchi prezzi vengono aggiornati ogni mese. Gli elenchi prezzi per l'anteprima sono disponibili uno (1) mese in anticipo.
 
-To view price lists:
+Per visualizzare gli elenchi prezzi:
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. In the left-hand menu, choose **Sell**, then select **Pricing and offers**.
-3. On the **Pricing and offers** page, you can see 6 months of price lists (including the current month) and preview price lists (where applicable).
+1. [Accedere al dashboard del centro per i partner](https://partner.microsoft.com/dashboard/home).
+2. Nel menu a sinistra scegliere **Vendi**, quindi selezionare **prezzi e offerte**.
+3. Nella pagina **prezzi e offerte** è possibile visualizzare 6 mesi di elenchi prezzi (incluso il mese corrente) e elenchi prezzi di anteprima (se applicabile).
 
-**License-based** prices are guaranteed for the term of the subscription, usually 12 months from the purchase date. 
+I prezzi **basati sulle licenze** sono garantiti per il periodo di validità della sottoscrizione, in genere 12 mesi dalla data di acquisto. 
 
-**Usage-based prices** can change on a monthly basis.
+**I prezzi basati sull'utilizzo** possono variare su base mensile.
 
-**Prices for products, services, and software subscriptions** are guaranteed through the subscription duration. However, prices may change when you renew.
+I **prezzi per i prodotti, i servizi e le sottoscrizioni software** sono garantiti tramite la durata della sottoscrizione. Tuttavia, i prezzi possono variare quando si rinnova.
 
-You'll see **adjustments** and **credits** in arrears on your next billing invoice after the credit or adjustment is applied.
+Verranno visualizzate le **rettifiche** e i **crediti** in modo arretrato per la successiva fattura di fatturazione dopo l'applicazione del credito o della rettifica.
 
 ## <a name="payment-terms"></a>Condizioni di pagamento
 
-Payment terms are net 60 days. Invoices must be paid by the invoice due date (60 days after the billing date), or your account will be delinquent, which may impact your enrollment in CSP. 
+I termini di pagamento sono netti 60 giorni. Le fatture devono essere pagate in base alla data di scadenza della fattura (60 giorni dopo la data di fatturazione) oppure l'account sarà delinquente, che può influisca sulla registrazione in CSP. 
 
-You can regain full functionality of your suspended accounts when you pay the past due amount.
+È possibile riottenere tutte le funzionalità degli account sospesi quando si paga l'importo dovuto scaduto.
 
-### <a name="taxes-and-vat"></a>Taxes and VAT
+### <a name="taxes-and-vat"></a>Tasse e IVA
 
-You are taxed based on your details (not your customers' details) because the billing relationship is between Microsoft and you. You can submit your tax identifier during the account setup process or through a support request later. Le modifiche saranno riportate nel ciclo di fatturazione successivo.
+L'utente viene tassato in base ai dettagli (non ai dettagli dei clienti) perché la relazione di fatturazione è tra Microsoft e l'utente. È possibile inviare l'identificatore fiscale durante il processo di configurazione dell'account o tramite una richiesta di supporto in un secondo momento. Le modifiche saranno riportate nel ciclo di fatturazione successivo.
 
-For **withholding and sales tax exemption**, you must submit tax documentation through a support request. Le modifiche e i rimborsi appropriati saranno visibili nel ciclo di fatturazione successivo.
+Per la **ritenuta e l'esenzione fiscale per le vendite**, è necessario inviare la documentazione fiscale tramite una richiesta di supporto. Le modifiche e i rimborsi appropriati saranno visibili nel ciclo di fatturazione successivo.
 
-For **value-added tax (VAT) exemption**, you must submit your VAT ID (validated by Microsoft) through a service request. Le modifiche e i rimborsi appropriati saranno visibili nel ciclo di fatturazione successivo.
+Per l' **esenzione delle imposte a valore aggiunto (IVA)** , è necessario inviare l'ID IVA (convalidato da Microsoft) tramite una richiesta di servizio. Le modifiche e i rimborsi appropriati saranno visibili nel ciclo di fatturazione successivo.
 
-You can find further tax details from your local tax office or tax advisor.
+È possibile trovare ulteriori dettagli sulle imposte dall'ufficio fiscale locale o da Tax Advisor.
 
-### <a name="annual-billing-rules"></a>Annual billing rules
+### <a name="annual-billing-rules"></a>Regole di fatturazione annuali
 
 Le sottoscrizioni sono annuali e rinnovate automaticamente.
 
@@ -98,80 +98,80 @@ La fatturazione avviene in 12 rate mensili o con un pagamento annuo per ogni sot
 
 La fatturazione avviene in anticipo per il periodo di fatturazione successivo per i servizi in base alle licenze, in base al numero di licenze alla fine del periodo di fatturazione precedente.
 
-Eventuali modifiche del numero di licenze verranno addebitate/accreditate posticipatamente (con un calcolo proporzionale basato su licenza/giorni). Pro-rata calculation uses the following formula:
+Eventuali modifiche del numero di licenze verranno addebitate/accreditate posticipatamente (con un calcolo proporzionale basato su licenza/giorni). Il calcolo pro-rata usa la formula seguente:
 
 `[ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]`
 
-Payments are billed for licenses sold, not licenses provisioned.
+I pagamenti vengono fatturati per le licenze vendute e non con provisioning delle licenze.
 
-### <a name="change-billing-frequency"></a>Change billing frequency
+### <a name="change-billing-frequency"></a>Modificare la frequenza di fatturazione
 
-To change the billing frequency of an online service for a customer:
+Per modificare la frequenza di fatturazione di un servizio online per un cliente:
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. In the left-hand menu, choose **Customers**.
-3. Select the customer whose subscription billing frequency you want to change.
-4. On the customer's **Subscriptions** page, select the subscription that you want to change.
-5. On the **Details** page, under **Billing frequency**, select **Monthly** or **Annual**. You’ll see a confirmation page with important information about changing billing frequency, as well as a list of the subscriptions about to be changed.
-6. Choose **OK** to make the change (or **Cancel** to undo it).
+1. [Accedere al dashboard del centro per i partner](https://partner.microsoft.com/dashboard/home).
+2. Nel menu a sinistra scegliere **Customers (clienti**).
+3. Selezionare il cliente per cui si desidera modificare la frequenza di fatturazione della sottoscrizione.
+4. Nella pagina **sottoscrizioni** del cliente selezionare la sottoscrizione che si desidera modificare.
+5. Nella pagina **Dettagli** , in **frequenza di fatturazione**, selezionare **mensile** o **annuale**. Verrà visualizzata una pagina di conferma con informazioni importanti sulla modifica della frequenza di fatturazione, oltre a un elenco delle sottoscrizioni che stanno per essere modificate.
+6. Scegliere **OK** per apportare la modifica o **Annulla** per annullarla.
 
 ### <a name="adjustmentscreditscancellations"></a>Rettifiche/crediti/annullamenti
 
-Microsoft does not charge early termination fees for cancellation of license-based services.
+Microsoft non addebita i costi di terminazione anticipati per l'annullamento dei servizi basati sulle licenze.
 
-Cancellation credits for licensed-based services are pro-rated for unused days for mid-cycle cancellations (as well as license decreases according to the formula above).
+I crediti di annullamento per i servizi basati su licenza sono pro-rated per i giorni non usati per gli annullamenti a metà ciclo (oltre alla riduzione delle licenze in base alla formula precedente).
 
 ### <a name="billing-rules"></a>Regole per la fatturazione
 
-Subscriptions are month-to-month and automatically renew at the new metered service rates. You're billed each month for the previous month's usage.
+Le sottoscrizioni sono da mese a mese e vengono rinnovate automaticamente alle nuove tariffe per il servizio a consumo. Viene addebitato ogni mese per l'utilizzo del mese precedente.
 
 Le tariffe per i servizi a consumo possono variare all'interno del ciclo di fatturazione.
 
-#### <a name="price-changes"></a>Price changes
+#### <a name="price-changes"></a>Modifiche ai prezzi
 
-For **price increases**, 30 days' notice is provided.
+Per gli **aumenti di prezzo**, viene fornito il preavviso di 30 giorni.
 
-**Price decreases** are reflected on the day of change.
+Le **diminuzioni dei prezzi** si riflettono sul giorno della modifica.
 
-**Existing subscriptions** use the rate in effect at the beginning of the bill cycle.
+Le **sottoscrizioni esistenti** utilizzano la velocità effettiva all'inizio del ciclo di fatturazione.
 
-**New subscriptions**, when created within the same billing cycle, use the rate in effect on the date you create them. 
+Le **nuove sottoscrizioni**, quando vengono create all'interno dello stesso ciclo di fatturazione, usano la tariffa in vigore alla data di creazione. 
 
 ### <a name="adjustmentscreditscancellations"></a>Rettifiche/crediti/annullamenti
 
 I pagamenti con rettifiche compariranno nella fattura mensile successiva.
 
-Microsoft does not charge early termination fees for cancellation of usage-based services. 
+Microsoft non addebita i costi di terminazione anticipati per l'annullamento dei servizi basati sull'utilizzo. 
 
 I crediti di qualsiasi tipo, inclusi quelli per il contratto di servizio, compariranno nella fattura mensile successiva.
 
 >[!IMPORTANT]
->If you purchase Azure reservations and/or software subscriptions for a customer in a location with a currency different from yours, the default billing currency is based on the customer’s location, not your location. If you have customers in multiple locations, you’ll receive separate invoices and reconciliation files for each currency customers need to be billed in, allowing you to invoice your customers in the appropriate currency.
+>Se si acquistano le prenotazioni di Azure e/o le sottoscrizioni software per un cliente in una località con una valuta diversa da quella del cliente, la valuta di fatturazione predefinita è basata sulla posizione del cliente, non sulla località. Se si hanno clienti in più località, si riceveranno fatture separate e file di riconciliazione per ogni valuta che i clienti devono essere fatturati, consentendo di fatturare i clienti nella valuta appropriata.
 
-## <a name="manage-one-time-billing"></a>Manage one-time billing
+## <a name="manage-one-time-billing"></a>Gestisci la fatturazione una sola volta
 
-### <a name="billing-status-invoices-and-reconciliation-files"></a>Billing status, invoices and reconciliation files
+### <a name="billing-status-invoices-and-reconciliation-files"></a>Stato fatturazione, fatture e file di riconciliazione
 
-To view your current billing status, invoices, and reconciliation files:
+Per visualizzare lo stato di fatturazione corrente, le fatture e i file di riconciliazione:
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. On the left-hand menu, choose **Billing**, then select **One time**.
-3. On the billing status page, select an invoice or reconciliation file to view more detailed information.
+1. [Accedere al dashboard del centro per i partner](https://partner.microsoft.com/dashboard/home).
+2. Nel menu a sinistra scegliere **fatturazione**, quindi selezionare **una volta**.
+3. Nella pagina stato fatturazione selezionare una fattura o un file di riconciliazione per visualizzare informazioni più dettagliate.
 
-### <a name="customer-order-history"></a>Customer order history
+### <a name="customer-order-history"></a>Cronologia ordini cliente
 
-To view a customer's order history:
+Per visualizzare la cronologia degli ordini di un cliente:
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. On the left-hand menu, choose **Customers**.
-3. On the **Customers** page, find the customer whose order history you want to view. Select the down arrow to expand the customer's record.
-4. Choose **View orders** to display the customer's order history.
+1. [Accedere al dashboard del centro per i partner](https://partner.microsoft.com/dashboard/home).
+2. Nel menu a sinistra scegliere **Customers (clienti**).
+3. Nella pagina **Customers** individuare il cliente di cui si desidera visualizzare la cronologia degli ordini. Selezionare la freccia rivolta verso il basso per espandere il record del cliente.
+4. Scegliere **Visualizza ordini** per visualizzare la cronologia degli ordini del cliente.
 
-### <a name="credit-notes"></a>Credit notes
+### <a name="credit-notes"></a>Note di credito
 
-You might need to request a credit or rebill for the following reasons:
+Potrebbe essere necessario richiedere un credito o rifatturare per i motivi seguenti:
 
-- You need to make address or purchase order corrections.
-- A tax refund was applied after the invoice was generated. You can request a credit or rebill to get the tax refund pulled back into the original invoice. The same is also true for refunds. You can request a credit or rebill of the original invoice, then pull in a refund.
+- È necessario apportare le correzioni degli indirizzi o degli ordini di acquisto.
+- Dopo la generazione della fattura è stato applicato un rimborso delle imposte. È possibile richiedere un credito o rifatturare per riportare il rimborso delle imposte nella fattura originale. Lo stesso vale anche per i rimborsi. È possibile richiedere un credito o rifatturare la fattura originale, quindi effettuare il pull di un rimborso.
 
-If you request a credit or rebill, we'll give you a **credit note** to cancel the original invoice.
+Se richiedi un credito o una fatturazione, ti invieremo una **Nota di credito** per annullare la fattura originale.

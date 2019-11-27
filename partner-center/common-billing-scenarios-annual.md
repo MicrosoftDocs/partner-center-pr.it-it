@@ -2,11 +2,11 @@
 title: Scenari di fatturazione comuni | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for annual billing (such as adding new subscriptions, adding licenses before your billing date, change license quantity, and suspending and reactivating subscriptions).
+description: Scenari di fatturazione comuni nel centro partner per la fatturazione annuale, ad esempio l'aggiunta di nuove sottoscrizioni, l'aggiunta di licenze prima della data di fatturazione, la modifica della quantità di licenze e la sospensione e riattivazione delle sottoscrizioni.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+Keywords: fatturazione, pagamenti, ordini, utilizzo, fatturazione basata su licenza, data anniversario, termine, annullamento, rinnovo, formula prezzo, file di riconciliazione, file di ricognizione
 ms.localizationpriority: medium
 ms.openlocfilehash: 91b8e318e2122f9510b160339984cc0743c318ee
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,11 +15,11 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389629"
 ---
-# <a name="annual-billing-scenarios"></a>Annual billing scenarios
+# <a name="annual-billing-scenarios"></a>Scenari di fatturazione annuali
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable if you use annual billing in Partner Center.
+Questi [scenari di fatturazione comuni](common-billing-scenarios.md) di esempio sono applicabili se si usa la fatturazione annuale nel centro per i partner.
 
-## <a name="new-annual-subscription"></a>New annual subscription
+## <a name="new-annual-subscription"></a>Nuova sottoscrizione annuale
 
 La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione annuale. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
 
@@ -27,7 +27,7 @@ La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova 
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/1/2019|Ripartizione delle tariffe all'acquisto|48,00|1|48,00
 
-## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Add license after subscription anniversary date but before billing date
+## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Aggiungi licenza dopo la data di anniversario della sottoscrizione ma prima della data di fatturazione
 
 Viene acquistata una nuova sottoscrizione il 11/2/17 con una licenza per $211,20/anno. L'anniversario della sottoscrizione è impostato sull'11 di ogni mese. Il sistema di fatturazione Microsoft crea le seguenti righe di fatturazione:
 
@@ -41,7 +41,7 @@ Il 12/2/17 è stata acquistata una seconda licenza. La data di fatturazione è 1
 
 Nell'anniversario della tua sottoscrizione, 11/3/17, il sistema di fatturazione Microsoft crea le seguenti righe di fatturazione per l'aumento della licenza del 12/2/17:
 
-- $211.20 credit for period 2/11/17 – 2/10/18.
+- $211,20 credito per il periodo 2/11/17 – 2/10/18.
 - Addebito di $0,58 ripartito per licenza per 1 licenza per il periodo 11/2/17 - 11/2/17.
 - Addebito di $15,62 ripartito per licenza per 2 licenze per il periodo 12/2/17 - 10/3/2017.
 - Addebito di $195,00 ripartito per licenza per 2 licenze per il periodo 11/3/2017 - 10/2/2018.
@@ -59,7 +59,7 @@ La prossima data di fatturazione è il 14/3/17 e vengono generati i file di rico
 
 Il 11/2/18 la sottoscrizione viene rinnovata per un altro periodo di 12 mesi.
 
-## <a name="change-license-quantity"></a>Change license quantity
+## <a name="change-license-quantity"></a>Modificare la quantità di licenze
 
 La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione annuale. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
 
@@ -87,7 +87,7 @@ Ci sono 346 giorni nel periodo di servizio 1/2/2018 – 12/1/2019.
 
 Di conseguenza, il prezzo unitario = 44,98 (346x0,13x2)
 
-## <a name="suspend-before-30-days"></a>Suspend before 30 days
+## <a name="suspend-before-30-days"></a>Sospendi prima di 30 giorni
 
 La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione annuale. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
 
@@ -101,7 +101,7 @@ Il 1° febbraio sospendi la tua sottoscrizione. Il 15 febbraio il file di riconc
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/1/2019|Commissione di annullamento|-48,00|1|-48,00
 
-## <a name="suspend-after-30-days"></a>Suspend after 30 days
+## <a name="suspend-after-30-days"></a>Sospendi dopo 30 giorni
 
 La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione annuale. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
 
@@ -124,7 +124,7 @@ Ci sono 318 giorni nel periodo di servizio 1/3/2018 – 12/1/2019.
 
 Di conseguenza, il prezzo unitario = 41,34 (318x0,13x1). Poiché si tratta di un credito il prezzo unitario è -41,34.
 
-## <a name="suspend-and-reactivate"></a>Suspend and reactivate
+## <a name="suspend-and-reactivate"></a>Sospendere e riattivare
 
 La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione annuale. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
 

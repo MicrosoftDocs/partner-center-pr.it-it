@@ -98,7 +98,7 @@ Attenersi alla procedura seguente per acquistare Microsoft Azure prenotazioni pe
 
 2. Nella pagina **clienti** individuare il cliente che desidera acquistare le prenotazioni di Azure, quindi selezionare la freccia rivolta verso il basso per espandere la riga del cliente.  
 
-3. Seleziona **Aggiungi prodotti**, quindi seleziona **Azure**. 
+3. Seleziona **Aggiungi prodotti** e quindi **Azure**. 
 
     a. Scegli il segmento di mercato del cliente dall'elenco **Segmento**.
 

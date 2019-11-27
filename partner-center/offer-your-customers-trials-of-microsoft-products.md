@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: I tuoi clienti possono testare i prodotti a sottoscrizione Microsoft per 30 giorni. You can sign up for these trials in the catalog just like many other online services.
+description: I tuoi clienti possono testare i prodotti a sottoscrizione Microsoft per 30 giorni. È possibile iscriversi a queste versioni di valutazione nel catalogo proprio come molti altri Servizi online.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
@@ -24,20 +24,20 @@ Si applica a:
 
 Un buon metodo per presentare ai clienti i nuovi prodotti Microsoft è offrire versioni di valutazione gratuite di 30 giorni. Puoi registrarti per le versioni di valutazione nel catalogo esattamente come per molti altri servizi online. Tutti i partner.
 
-## <a name="available-trial-offers"></a>Available trial offers
+## <a name="available-trial-offers"></a>Offerte di valutazione disponibili
 
-You can find all of your outstanding trial offers on the **Customer** page. This page lists all subscriptions, including free trials and paid subscriptions. (This feature is not currently available in China.)
+Tutte le offerte di valutazione in attesa sono disponibili nella pagina del **cliente** . Questa pagina elenca tutte le sottoscrizioni, incluse le versioni di valutazione gratuite e quelle a pagamento. Questa funzionalità non è attualmente disponibile in Cina.
 
-Each customer is entitled to one free trial for each available offer. Possono ad esempio ottenere una versione di valutazione gratuita per Office 365 Business Premium e un'altra per Office 365 E3. However, if the customer already owns the offer, they can't use a free trial for that offer.
+Ogni cliente ha diritto a una versione di valutazione gratuita per ogni offerta disponibile. Possono ad esempio ottenere una versione di valutazione gratuita per Office 365 Business Premium e un'altra per Office 365 E3. Tuttavia, se il cliente è già proprietario dell'offerta, non potrà usare una versione di valutazione gratuita per l'offerta.
 
-### <a name="available-products"></a>Available products
+### <a name="available-products"></a>Prodotti disponibili
 
 Sono disponibili versioni di valutazione gratuite per i seguenti prodotti:
 
 - Office 365 Business Premium
 - Office 365 E3
-- Office 365 E5 with PSTN
-- Office 365 E5 without PSTN
+- Office 365 E5 con PSTN
+- Office 365 E5 senza PSTN
 - Enterprise Mobility & Security E5
 - Dynamics 365 Customer Engagement Piano 1
 - Dynamics 365 for Financials
@@ -45,71 +45,71 @@ Sono disponibili versioni di valutazione gratuite per i seguenti prodotti:
 
 Offriamo versioni di valutazione gratuite per questi prodotti perché sono le offerte aziendali più complete e popolari. È possibile che in futuro siano disponibili altre offerte di versioni di valutazione gratuite.
 
-Currently, there are **no free trials** for government offers, education offers, or add-on offers.
+Attualmente non sono disponibili **versioni di valutazione gratuite** per offerte per enti pubblici, offerte di formazione o offerte di componenti aggiuntivi.
 
-## <a name="licenses-for-free-trial-offers"></a>Licenses for free trial offers
+## <a name="licenses-for-free-trial-offers"></a>Licenze per le offerte della versione di valutazione gratuita
 
-All free trials provide 25 licenses. You can't change this number during the trial. You can't add or remove seats in the free trial. After the trial is converted to a paid subscription, you can add additional licenses to the subscription.
+Tutte le versioni di valutazione gratuite forniscono 25 licenze. Non è possibile modificare questo numero durante la versione di valutazione. Non è possibile aggiungere o rimuovere le postazioni nella versione di valutazione gratuita. Dopo che la versione di valutazione è stata convertita in una sottoscrizione a pagamento, è possibile aggiungere altre licenze alla sottoscrizione.
 
-You should assign trial licenses and seats just as you would for a paid service in Partner Center.
+È consigliabile assegnare le licenze e le postazioni di valutazione esattamente come per un servizio a pagamento nel centro per i partner.
 
-## <a name="sign-customers-up-for-trials"></a>Sign customers up for trials
+## <a name="sign-customers-up-for-trials"></a>Accedi ai clienti per le versioni di valutazione
 
-To sign your customer up for a trial through Partner Center:
+Per firmare il cliente per una versione di valutazione tramite il centro per i partner:
 
-1. From **Sell** on the Partner Center, go to **Catalog**. 
+1. Da **sell** nel centro per i partner passare a **Catalog**. 
 2. Nel catalogo fai clic su **Trial offer** in **Frequenza fatturazione**. Questa operazione consente di abilitare solo le versioni di valutazione gratuite e disabilitare altre offerte non gratuite. Le versioni di valutazione verranno visualizzate nella scheda **Versioni di valutazione** del catalogo.
 3. Seleziona la versione di valutazione gratuita che desideri offrire, quindi seleziona **Invia**. Tutte le versioni di valutazione sono valide per 30 giorni e durante questo periodo non ti verrà addebitato alcun costo. Inoltre puoi convertirla in una sottoscrizione a pagamento in qualsiasi momento durante il periodo della versione di valutazione.
 
-## <a name="converting-trials-to-paid-subscriptions"></a>Converting trials to paid subscriptions
+## <a name="converting-trials-to-paid-subscriptions"></a>Conversione di versioni di valutazione in sottoscrizioni a pagamento
 
-A free trial is not automatically converted to a paid subscription. After thirty days, a free trial must be converted to a paid subscription or it will [expire](#expiring-offers). Free trials can't be extended.
+Una versione di valutazione gratuita non viene convertita automaticamente in una sottoscrizione a pagamento. Dopo trenta giorni, una versione di valutazione gratuita deve essere convertita in una sottoscrizione a pagamento o [scadrà](#expiring-offers). Non è possibile estendere le versioni di valutazione gratuite.
 
-You'll need to convert the trial into a paid subscription yourself. You can do this [using the Partner Center](#convert-trials-using-partner-center) or [through the Partner Center APIs](#convert-trials-using-apis).
+Dovrai convertire la versione di valutazione in una sottoscrizione a pagamento. Questa operazione può essere eseguita [tramite il centro](#convert-trials-using-partner-center) per i partner o [tramite le API del centro per i partner](#convert-trials-using-apis).
 
 > [!NOTE]
-> Customer free trials for the Cloud Solution Provider (CSP) program can't be converted to another program tenant (such as EA, Open or MOSP).
+> Le versioni di valutazione gratuite del cliente per il programma Cloud Solution Provider (CSP) non possono essere convertite in un altro tenant del programma (ad esempio EA, Open o MOSP).
 
-### <a name="convert-trials-using-partner-center"></a>Convert trials using Partner Center
+### <a name="convert-trials-using-partner-center"></a>Converti le versioni di valutazione con il centro per i partner
 
-You can convert trials to paid subscriptions using the Partner Center dashboard as follows:
+È possibile convertire le versioni di valutazione in sottoscrizioni a pagamento usando il dashboard del centro per i partner come segue:
 
 1. Vai alla pagina della sottoscrizione del cliente e seleziona la versione di valutazione gratuita.
 2. Seleziona **Convertire una versione di valutazione in sottoscrizione a pagamento**
 3. Immetti il numero di licenze desiderato e la frequenza di fatturazione, quindi seleziona **Applica**.
 4. La fatturazione per la sottoscrizione a pagamento inizia alla data di conversione e la sottoscrizione si rinnova automaticamente dopo 12 mesi dalla data di conversione. 
 
-### <a name="convert-trials-using-apis"></a>Convert trials using APIs
+### <a name="convert-trials-using-apis"></a>Convertire le versioni di valutazione usando le API
 
-You may need to alter your APIs to accommodate the conversion of a free trial to a paid subscription. For more information, see the following developer documentation:
+Potrebbe essere necessario modificare le API per adattarla alla conversione di una versione di valutazione gratuita a una sottoscrizione a pagamento. Per ulteriori informazioni, vedere la seguente documentazione per gli sviluppatori:
 
 - [Convertire una sottoscrizione di valutazione in una a pagamento](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [Ottenere un elenco delle offerte di conversione della copia di valutazione](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
-### <a name="expiring-offers"></a>Expiring offers
+### <a name="expiring-offers"></a>Offerte in scadenza
 
-You will not be notified of expiring offers. You can track upcoming expiration dates using the customer view on Partner Center or by querying the API. È consigliabile monitorare queste date di frequente in modo da poter intraprendere le azioni appropriate quando si avvicinano i momenti critici in cui i clienti devono prendere una decisione.
+L'utente non riceverà alcuna notifica delle offerte in scadenza. È possibile tenere traccia delle date di scadenza future usando la visualizzazione clienti nel centro per i partner o eseguendo una query sull'API. È consigliabile monitorare queste date di frequente in modo da poter intraprendere le azioni appropriate quando si avvicinano i momenti critici in cui i clienti devono prendere una decisione.
 
-After a trial has expired, a customer who attempts to log into that trial will see an expiry message. However, the data is stored in line with data retention standards. After you purchase a new subscription with the same service plans, your customer's information can be accessed again from the newly activated subscription.
+Dopo la scadenza di una versione di valutazione, un cliente che tenta di accedere a tale versione di valutazione visualizzerà un messaggio di scadenza. Tuttavia, i dati vengono archiviati in linea con gli standard di conservazione dei dati. Dopo l'acquisto di una nuova sottoscrizione con gli stessi piani di servizio, è possibile accedere nuovamente alle informazioni del cliente dalla sottoscrizione appena attivata.
 
 ## <a name="billing"></a>Fatturazione
 
-Annual billing and free trials are the same in sovereign clouds and the public cloud. The only difference is the trial SKUs available at the time of launch.
+La fatturazione annuale e le versioni di valutazione gratuite sono le stesse nei cloud sovrani e nel cloud pubblico. L'unica differenza è rappresentata dagli SKU di valutazione disponibili al momento dell'avvio.
 
-## <a name="billing-for-free-trials"></a>Billing for free trials
+## <a name="billing-for-free-trials"></a>Fatturazione per le versioni di valutazione gratuite
 
-Free trials can be used for both monthly and annually billed subscriptions. You can select the billing frequency when you convert the trial to a paid subscription.
+Le versioni di valutazione gratuite possono essere utilizzate sia per le sottoscrizioni mensili che annuali. È possibile selezionare la frequenza di fatturazione quando si converte la versione di valutazione in una sottoscrizione a pagamento.
 
-The subscription start date is based on the conversion date. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione annuale, la data di rinnovo dell'abbonamento cade 12 mesi dopo la data di conversione. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione mensile, la data di rinnovo dell'abbonamento cade 12 mesi dopo la data di fatturazione successiva alla data di conversione.
+La data di inizio della sottoscrizione è basata sulla data di conversione. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione annuale, la data di rinnovo dell'abbonamento cade 12 mesi dopo la data di conversione. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione mensile, la data di rinnovo dell'abbonamento cade 12 mesi dopo la data di fatturazione successiva alla data di conversione.
 
 ### <a name="invoices"></a>Fatture
 
-You won't see free trials listed in your invoice or license-based reconciliation file. Free trials will only appear on your invoice and license-based reconciliation file after you convert a free trial to a paid subscription. The converted subscription will appear in the same way as any new subscription.
+Non verranno visualizzate le versioni di valutazione gratuite elencate nel file di riconciliazione della fattura o della licenza. Le versioni di valutazione gratuite verranno visualizzate solo nel file di riconciliazione delle fatture e delle licenze dopo la conversione di una versione di valutazione gratuita in una sottoscrizione a pagamento. La sottoscrizione convertita verrà visualizzata allo stesso modo di qualsiasi nuova sottoscrizione.
 
 ### <a name="incentives"></a>Incentivi
 
-Free trials do not have an impact on incentives.
+Le versioni di valutazione gratuite non influiscano sugli incentivi.
 
-## <a name="support"></a>Supporto tecnico
+## <a name="support"></a>Supporto
 
-For support on free trials, submit a service request through Partner Center.
+Per il supporto delle versioni di valutazione gratuite, inviare una richiesta di assistenza tramite il centro per i partner.

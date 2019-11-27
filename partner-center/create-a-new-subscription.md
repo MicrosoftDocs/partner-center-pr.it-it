@@ -47,7 +47,7 @@ Come partner del programma CSP, è possibile acquistare solo sottoscrizioni Saas
 
 4. Per visualizzare solo determinati tipi di sottoscrizioni, effettua le selezioni nei filtri disponibili:
    - **Autore**: scegliere **Microsoft** per visualizzare solo le offerte di Microsoft o il **partner** per vedere i prodotti commerciali del Marketplace pubblicati dagli ISV.
-   - **Tipo di fatturazione**: selezionare il tipo di fatturazione per la sottoscrizione che si vuole usare: **licenza** o **utilizzo**. Vedi [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md) per le informazioni che ti aiutano a decidere tra la frequenza di fatturazione mensile e annuale.
+   - **Tipo di fatturazione**: selezionare il tipo di fatturazione per la sottoscrizione che si vuole usare: **licenza** o **utilizzo**. Vedi [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md) per informazioni che ti aiuteranno a decidere tra la frequenza di fatturazione mensile e annuale.
    - **Categoria**: scegliere **Enterprise**, **Small Business**o **Trial**. Per informazioni sulle sottoscrizioni di versioni di valutazione, vedi [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Selezionare le sottoscrizioni di prodotto che si desidera acquistare per il cliente. I prodotti visualizzati dipendono dal tipo di segmento dei clienti (Education, Government e così via) e dai filtri applicati. Alcune offerte visualizzate sul Marketplace potrebbero non essere sempre disponibili per un cliente specifico o per un partner CSP specifico. Il motivo può essere il seguente:
@@ -89,9 +89,9 @@ Quando cambi lo stato di una sottoscrizione in **Sospesa**, gli utenti non posso
 
 4. Nella sezione **Stato** scegli **Sospeso**. Fai quindi clic su **Invia** per inviare le modifiche.
 
-5. Verranno eliminati tutti i dati, a meno che la sottoscrizione venga riattivata entro 90 giorni, o 90 giorni più il numero di giorni tra il momento in cui che l'account è stato aperto e il primo periodo di fatturazione (massimo 120 giorni).
+5. Verranno eliminati tutti i dati, tranne nel caso in cui la sottoscrizione venga riattivata entro 90 giorni o 90 giorni più il numero di giorni tra il momento in cui l'account è stato aperto e il primo periodo di fatturazione (massimo 120 giorni).
 
-Quando sospendi una sottoscrizione, la data visualizzata sotto il pulsante **Sospesa** indica quando la sottoscrizione scadrà automaticamente se non viene riattivata. Per altre informazioni, vedere [domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md).
+Quando sospendi una sottoscrizione, la data visualizzata sotto il pulsante **Sospesa** indica quando la sottoscrizione scadrà automaticamente se non la riattivi. Per altre informazioni, vedere [domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md).
 
 ### <a name="cancel-a-subscription"></a>Annullare una sottoscrizione
 
@@ -149,10 +149,10 @@ Per arrestare una sottoscrizione del Marketplace commerciale attiva dal rinnovo 
 
 6. Seleziona **Invia**.
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
 - [Acquistare prodotti Marketplace commerciali per i clienti](csp-commercial-marketplace-purchase.md)
 - [Gestione dei prodotti del Marketplace commerciale per i clienti](csp-commercial-marketplace-manage.md)
-- [Panoramica sul Marketplace commerciale](csp-commercial-marketplace-overview.md)
+- [Panoramica del marketplace commerciale](csp-commercial-marketplace-overview.md)
 
 

@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn about customer support responsibilities of partners in the CSP program.
+description: Informazioni sulle responsabilità del supporto tecnico dei partner nel programma CSP.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
@@ -30,7 +30,7 @@ I partner che gestiscono transazioni nel modello CSP sono i consulenti di fiduci
 
 Per soddisfare il requisito di supporto, il partner può rivendere supporto da un'altra entità, affidare in outsourcing, in toto o in parte, la struttura di supporto e/o impostare una struttura per fornire il supporto direttamente.  Il partner può addebitare in toto o in parte il supporto fornito ai clienti. Il partner deve descrivere ai propri clienti il supporto fornito, gli orari di assistenza e il metodo di contatto, nonché i prezzi (se il supporto viene fornito a pagamento). 
 
-Partners are required to receive incoming support requests from customers, diagnose issues to the best of the partner's ability and then resolve issues that are within scope of the baseline support boundaries. Se il partner non è in grado di risolvere il problema, può inoltrarlo a Microsoft tramite i mezzi di supporto seguenti:
+I partner devono ricevere le richieste di supporto in ingresso dai clienti, diagnosticare i problemi al meglio della capacità del partner e quindi risolvere i problemi che rientrano nell'ambito dei limiti di supporto della linea di base. Se il partner non è in grado di risolvere il problema, può inoltrarlo a Microsoft tramite i mezzi di supporto seguenti:
 
 - Il supporto dei problemi **commerciali** è a disposizione di tutti i partner iscritti al programma CSP
 -   Il supporto dei problemi **tecnici** è disponibile tramite:
@@ -42,11 +42,11 @@ Partners are required to receive incoming support requests from customers, diagn
 
 Ogni servizio online presenta requisiti specifici e dettagliati per fornire fatturazione, gestione delle sottoscrizioni e supporto tecnico ai clienti. Per altre informazioni, fare riferimento ai documenti seguenti.
 
--   [Dynamics 365 subscriptions sold through CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [Sottoscrizioni di Dynamics 365 vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Azure subscriptions sold through CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [Sottoscrizioni di Azure vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Office 365 subscriptions sold through CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [Abbonamenti Office 365 venduti tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
 

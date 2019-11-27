@@ -43,8 +43,8 @@ Immetti i dati seguenti nel file di dati:
 | **Nome colonna** | **Descrizione**                                                              | **Limitazione**                             |
 | Nome      | Nome dell'utente (campo facoltativo)                                           | Limite di 50 caratteri                         |
 | Cognome       | Cognome dell'utente (campo facoltativo)                                            | Limite di 50 caratteri                         |
-| Nome visualizzato    | Nome visualizzato nel centro per i partner (campo obbligatorio)                            | Limite di 50 caratteri                         |
-| Posta elettronica           | Indirizzo di posta elettronica aziendale dell'utente presso la società del cliente (campo obbligatorio)           | Ogni utente deve avere un indirizzo e-mail univoco |
+| `Display name`    | Nome visualizzato nel centro per i partner (campo obbligatorio)                            | Limite di 50 caratteri                         |
+| Email           | Indirizzo di posta elettronica aziendale dell'utente presso la società del cliente (campo obbligatorio)           | Ogni utente deve avere un indirizzo e-mail univoco |
 | Aggiornamento stato   | Usato per indicare se il nuovo record utente è stato o meno creato correttamente | \*\*lasciare vuoti\*\*                        |
 
  

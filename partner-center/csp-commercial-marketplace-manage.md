@@ -1,13 +1,13 @@
 ---
-title: Manage commercial marketplace products or offers for your customers  | Partner Center
+title: Gestione dei prodotti o delle offerte del Marketplace commerciale per i clienti | Centro per i partner
 ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Using Partner Center, learn how Cloud Solution Providers can manage different, third-party ISV offers purchased for customers from the commercial marketplace.
+description: Con il centro per i partner, Scopri in che modo i provider di soluzioni cloud possono gestire diverse offerte ISV di terze parti acquistate per i clienti dal Marketplace commerciale.
 author: MicheleHope
 ms.author: v-mihope
-keywords: subscriptions, Marketplace, third party, ISV, SaaS offers, Cloud Solution Provider program, manage an offer, manage a subscription, licenses, cancel a subscription, seats, turn off auto-renew, Indirect Reseller MPN ID
+keywords: sottoscrizioni, Marketplace, terze parti, ISV, offerte SaaS, programma Cloud Solution Provider, gestione di un'offerta, gestione di una sottoscrizione, licenze, annullamento di una sottoscrizione, postazioni, disattivazione del rinnovo automatico, ID indiretto del rivenditore MPN
 ms.localizationpriority: medium
 ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -16,102 +16,102 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253809"
 ---
-# <a name="manage-commercial-marketplace-products-for-your-customers"></a>Manage commercial marketplace products for your customers
+# <a name="manage-commercial-marketplace-products-for-your-customers"></a>Gestione dei prodotti del Marketplace commerciale per i clienti
 
 **Si applica a**
 
 - Centro per i partner
 - Partner aderenti al programma CSP
 
-**Appropriate roles**
+**Ruoli appropriati**
 
 - Amministratore globale
 - Agente amministratore
 
-Partners in the Cloud Solution Provider (CSP) program can use the Partner Center portal to purchase many ISV SaaS offers or subscriptions for their customers from the commercial marketplace. Once you purchase an offer, you have various ways to manage it.
+I partner del programma Cloud Solution Provider (CSP) possono usare il portale del centro per i partner per acquistare molte offerte SaaS o sottoscrizioni ISV per i clienti dal Marketplace commerciale. Una volta acquistata un'offerta, sono disponibili diversi modi per gestirla.
 
-## <a name="view-or-edit-a-subscription"></a>View or edit a subscription
+## <a name="view-or-edit-a-subscription"></a>Visualizzare o modificare una sottoscrizione
 
-After you purchase a subscription from a third-party ISV publisher, you can review or edit it as follows:
+Dopo aver acquistato una sottoscrizione da un server di pubblicazione ISV di terze parti, è possibile esaminarla o modificarla come indicato di seguito:
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard), then select **Customers** from the left navigation menu.
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner, quindi selezionare **Customers** dal menu di spostamento a sinistra.
 
-2. Select an appropriate customer, then select **Subscriptions**. This lists any license-based subscriptions you have purchased for the customer.
+2. Selezionare un cliente appropriato, quindi selezionare **sottoscrizioni**. Verranno elencate tutte le sottoscrizioni basate sulle licenze acquistate per il cliente.
 
-3. In the **Subscription** column, select the subscription you want to view or edit. This gives you more information to set up or provision the offer. (If more action is needed on the offer, you may also see an "Action Needed" status displayed in the Status column. This may also be accompanied by a link to the ISV publisher's site.)
+3. Nella colonna **sottoscrizione** selezionare la sottoscrizione che si desidera visualizzare o modificare. In questo modo vengono fornite ulteriori informazioni per la configurazione o il provisioning dell'offerta. Se per l'offerta sono necessarie altre azioni, è possibile che venga visualizzato anche lo stato "azione necessaria" visualizzato nella colonna stato. Questo può essere anche accompagnato da un collegamento al sito dell'editore ISV.
 
-4. Once you select the subscription you want to view or edit, the subscription detail page allows you to edit the subscription and do things like:
+4. Dopo aver selezionato la sottoscrizione che si vuole visualizzare o modificare, la pagina dei dettagli della sottoscrizione consente di modificare la sottoscrizione ed eseguire operazioni come:
 
-    - Change the subscription nickname
+    - Modificare il nome alternativo della sottoscrizione
 
-    - Add/decrease the number of seats (licenses) in the subscription
+    - Aggiungere/ridurre il numero di postazioni (licenze) nella sottoscrizione
 
-    - Cancel the subscription
+    - Annulla la sottoscrizione
 
     - Disattiva il rinnovo automatico
 
-    - Add an Indirect Reseller MPN ID, if applicable
+    - Aggiungere un ID MPN rivenditore indiretto, se applicabile
 
 > [!NOTE]
-> You may need to complete certain steps defined by the ISV publisher before you can perform some changes to a subscription, such as cancelling a subscription.
+> Per poter eseguire alcune modifiche a una sottoscrizione, ad esempio l'annullamento di una sottoscrizione, potrebbe essere necessario completare alcuni passaggi definiti dal server di pubblicazione ISV.
 
-## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>Assign licenses and activate a subscription on behalf of a customer
+## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>Assegnare le licenze e attivare una sottoscrizione per conto di un cliente
 
-When you purchase a Software as a Service (SaaS) offer provided by an Independent Software Vendor (ISV) publisher in the commercial marketplace, the ISV publisher helps manage the process of assigning licenses and activating the subscription on behalf of your customer.
+Quando si acquista un'offerta SaaS (software as a Service) fornita da un editore di software indipendente (ISV) nel Marketplace commerciale, l'editore ISV consente di gestire il processo di assegnazione delle licenze e di attivazione della sottoscrizione per conto del cliente.
 
-The publisher should provide you with a personalized link and an authorization code that identifies your specific purchase.
+Il server di pubblicazione deve fornire un collegamento personalizzato e un codice di autorizzazione che identifichi l'acquisto specifico.
 
-1. You can find this personalized link from the ISV publisher in a few ways:
+1. Questo collegamento personalizzato è reperibile nel server di pubblicazione ISV in diversi modi:
 
-    - You can see the link from the confirmation page that appears after you purchase an ISV SaaS offer.
+    - È possibile visualizzare il collegamento dalla pagina di conferma visualizzata dopo l'acquisto di un'offerta SaaS ISV.
 
-    - You can see the link from the specific customer's Subscriptions page. This publisher link appears on the row associated with the ISV offer or subscription purchased for the customer.
+    - È possibile visualizzare il collegamento dalla pagina sottoscrizioni del cliente specifico. Questo collegamento all'editore viene visualizzato nella riga associata all'offerta ISV o alla sottoscrizione acquistata per il cliente.
 
-    - You can [retrieve the link using Partner Center APIs](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+    - È possibile [recuperare il collegamento usando le API del centro per i partner](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
 
-2. Once you are in the ISV publisher's site or system, the publisher will let you know of any additional steps you need to take to complete the customer setup process and provision or assign licenses.
+2. Quando ci si trova nel sito o nel sistema dell'editore ISV, il server di pubblicazione informerà eventuali passaggi aggiuntivi necessari per completare il processo di configurazione del cliente ed effettuare il provisioning o assegnare le licenze.
 
-3. As a partner in the CSP program who is working on behalf of your customer, you are responsible to perform the following tasks:
+3. Un partner del programma CSP che lavora per conto del cliente è responsabile dell'esecuzione delle attività seguenti:
 
-    - Submit any required information to the publisher.
+    - Inviare le informazioni necessarie al server di pubblicazione.
 
-    - Send any required URL directly to your customer (or otherwise directly communicate details about this subscription to your customer)
+    - Inviare un URL necessario direttamente al cliente (o in altro modo comunicare direttamente i dettagli relativi a questa sottoscrizione al cliente)
 
-4. Once you provide required information to the publisher, the publisher will provision and assign appropriate licenses. Subscription billing will start only after the following events occur:
+4. Una volta fornite le informazioni necessarie al server di pubblicazione, il server di pubblicazione effettuerà il provisioning delle licenze appropriate. La fatturazione della sottoscrizione viene avviata solo dopo che si verificano gli eventi seguenti:
 
-    - The ISV publisher has successfully assigned appropriate licenses
+    - Il server di pubblicazione ISV ha assegnato le licenze appropriate
 
-    - The ISV publisher has confirmed to Microsoft (via a separate, SaaS fulfillment API) that the account setup has been successfully completed
+    - Il server di pubblicazione ISV ha confermato Microsoft (tramite un'API di evasione SaaS separata) che la configurazione dell'account è stata completata correttamente.
 
-## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Cancel a license-based SaaS subscription from an ISV publisher
+## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Annullare una sottoscrizione SaaS basata su licenza da un server di pubblicazione ISV
 
-When you subscribe to a license-based SaaS product offered by an ISV publisher within the commercial marketplace, you have the option to cancel the subscription within its designated cancellation period. This cancellation period changes depending on whether you have a monthly or annual subscription. You can also choose whether or not to automatically renew the subscription.
+Quando si sottoscrive un prodotto SaaS basato su licenza offerto da un editore ISV all'interno del Marketplace commerciale, è possibile annullare la sottoscrizione entro il periodo di annullamento designato. Questo periodo di annullamento cambia a seconda che si disponga di una sottoscrizione mensile o annuale. È anche possibile scegliere se rinnovare automaticamente la sottoscrizione.
 
-For more information about cancellation periods that apply, how to cancel or how to auto-renew a subscription, see:
+Per ulteriori informazioni sui periodi di annullamento applicabili, su come annullare o su come rinnovare automaticamente una sottoscrizione, vedere:
 
-- [Cancel a subscription](create-a-new-subscription.md#cancel-a-subscription)
+- [Annulla una sottoscrizione](create-a-new-subscription.md#cancel-a-subscription)
 
-- [Auto-renew a commercial marketplace subscription](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
+- [Rinnovo automatico di una sottoscrizione di Marketplace commerciale](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 
-## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>Add or remove licenses for a SaaS subscription
+## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>Aggiungere o rimuovere licenze per una sottoscrizione SaaS
 
-For SaaS commercial marketplace offers, you can add or remove user licenses for a customer subscription.
+Per le offerte del Marketplace commerciale SaaS, è possibile aggiungere o rimuovere le licenze utente per una sottoscrizione del cliente.
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard), then select **Customers** from the left navigation menu.
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner, quindi selezionare **Customers** dal menu di spostamento a sinistra.
 
-2. Select an appropriate customer, then select **Subscriptions**. This lists any license-based subscriptions you have purchased for the customer.
+2. Selezionare un cliente appropriato, quindi selezionare **sottoscrizioni**. Verranno elencate tutte le sottoscrizioni basate sulle licenze acquistate per il cliente.
 
-3. In the **Subscription** column, select the subscription you want to modify.
+3. Nella colonna **sottoscrizione** selezionare la sottoscrizione che si desidera modificare.
 
-4. In the subscription details page, locate the **Quantity** field. This is where you can increase or decrease the number of licenses.
+4. Nella pagina Dettagli sottoscrizione individuare il campo **quantità** . Questo è il punto in cui è possibile aumentare o ridurre il numero di licenze.
 
-5. Change the quantity, then select **Submit**.
+5. Modificare la quantità, quindi selezionare **Invia**.
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Gestire le sottoscrizioni usando le API del Centro per i partner
 
-You can also use Partner Center APIs to perform lifecycle management and manage invoices for your subscriptions. For more information, see [Create a subscription for commercial marketplace products](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
+È anche possibile usare le API del centro per i partner per eseguire la gestione del ciclo di vita e gestire le fatture per le sottoscrizioni. Per ulteriori informazioni, vedere [la pagina relativa alla creazione di una sottoscrizione per prodotti Marketplace commerciali](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Purchase commercial marketplace offers](csp-commercial-marketplace-purchase.md)
-- [Learn about billing in the commercial marketplace](csp-commercial-marketplace-billing.md)
+- [Acquista offerte per Marketplace commerciali](csp-commercial-marketplace-purchase.md)
+- [Informazioni sulla fatturazione nel Marketplace commerciale](csp-commercial-marketplace-billing.md)

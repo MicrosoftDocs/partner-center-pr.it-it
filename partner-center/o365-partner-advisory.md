@@ -1,11 +1,11 @@
 ---
-title: Office 365 Partner Advisory - Microsoft 365 Voice in CSP | Partner Center
-description: PSTN services in some countries may be subject to special tax and regulatory requirements that may affect partner order and invoicing.
+title: Consulenza partner Office 365-Microsoft 365 Voice in CSP | Centro per i partner
+description: I servizi PSTN in alcuni paesi possono essere soggetti a requisiti fiscali e normativi speciali che possono influenzare l'ordine e la fatturazione dei partner.
 ms.topic: article
 ms.date: 11/04/2019
 author: maggiepuccievans
 ms.author: evansma
-keywords: Office, O365, PSTN services, taxes, requirements, invoice, invoicing
+keywords: Office, O365, servizi PSTN, imposte, requisiti, fattura, fatturazione
 ms.localizationpriority: medium
 ms.openlocfilehash: b6359a49503237e72c8cffdb5758bdd418910306
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -14,41 +14,41 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384818"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 Partner Advisory: Microsoft 365 Voice in CSP
+# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Advisory per i partner di Office 365: Microsoft 365 Voice in CSP
 
 **Si applica a**
 
 - Centro per i partner  
 
-Public Switched Telephone Network (PSTN) services in some countries may be subject to special tax and regulatory requirements that may affect partner order and invoicing.  In the United States, Puerto Rico, and Canada, Skype for Business PSTN and Microsoft 365 Voice services are subject to special tax and regulatory requirements. In the United States and Puerto Rico, Microsoft prices PSTN services as tax-inclusive.  Unique PSTN taxes and regulations will affect Office 365 partners transacting Microsoft 365 Voice products.  Se un partner applica ricarichi al prezzo di un servizio PSTN Microsoft, potrebbe avere la responsabilità di calcolare e versare imposte e tariffe specifiche per i servizi PSTN.
+I servizi PSTN (Public Switched Telephone Network) in alcuni paesi potrebbero essere soggetti a requisiti fiscali e normativi speciali che possono influenzare l'ordine e la fatturazione dei partner.  In Stati Uniti, Puerto Rico e Canada, i servizi PSTN e Microsoft 365 Voice di Skype for business sono soggetti a requisiti fiscali e normativi specifici. Nei Stati Uniti e in Puerto Rico i servizi PSTN dei prezzi Microsoft sono inclusi nell'IVA.  Le tasse e le normative PSTN univoche influiranno sui partner di Office 365 che trasformano Microsoft 365 prodotti vocali.  Se un partner applica ricarichi al prezzo di un servizio PSTN Microsoft, potrebbe avere la responsabilità di calcolare e versare imposte e tariffe specifiche per i servizi PSTN.
 
-## <a name="partner-recommendations"></a>Partner Recommendations
+## <a name="partner-recommendations"></a>Raccomandazioni per i partner
 
 Rivolgersi ai consulenti fiscali e legali per informazioni sulle responsabilità dell'organizzazione in merito a normative, imposte e costi per i servizi PSTN e altre potenziali responsabilità.
 
-## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Invoice Presentation and Partner Reconciliation File
+## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Presentazione della fattura e file di riconciliazione partner
 
-CSP invoices and CSP reconciliation files in the United States, Puerto Rico and Canada which include Skype for Business PSTN and Microsoft 365 Voice services will provide separate line items for the PSTN and non-PSTN components.
+Le fatture CSP e i file di riconciliazione CSP nel Stati Uniti, Puerto Rico e Canada che includono Skype for business PSTN e Microsoft 365 Voice Services forniranno voci separate per i componenti PSTN e non PSTN.
 
-Additionally, CSP invoices will display the following footnote:
+Inoltre, le fatture CSP visualizzeranno la nota seguente:
 
-* The price displayed is a charge for Audio Conferencing and Calling Plan Services.  Any applicable transactional taxes are charged exclusively of the amount shown except for sales made within the United States.  In the U.S., the price displayed is tax inclusive as it includes a charge for the Calling Plan and Audio Conferencing Services and a charge for the taxes and fees we are required to charge.  Audio Conferencing and Calling Plan Services are serviced by the Microsoft Affiliate authorized to provide them.  See [Microsoft Volume Licensing](https://go.microsoft.com/fwlink/?LinkId=690247) for details.
+* Il prezzo visualizzato è un addebito per i servizi di conferenza audio e del piano chiamante.  Tutte le imposte transazionali applicabili vengono addebitate esclusivamente sulla quantità indicata ad eccezione delle vendite effettuate all'interno del Stati Uniti.  Negli Stati Uniti il prezzo visualizzato è Tax inclusive, perché include un addebito per il piano di chiamata e i servizi di audioconferenza e un addebito per le imposte e i costi richiesti.  I servizi di conferenza audio e del piano di chiamata sono serviti dall'affiliato Microsoft autorizzato a fornirli.  Per informazioni dettagliate, vedere [Microsoft Volume Licensing](https://go.microsoft.com/fwlink/?LinkId=690247) .
 
-## <a name="reconciliation-file-example"></a>Reconciliation File Example
+## <a name="reconciliation-file-example"></a>Esempio di file di riconciliazione
 
-Office 365 Enterprise E5 presents on reconciliation file as two line items with identical names and identical IDs, but each line item has a unique unit price (example: $28.40 and $2.00). Questo separa il componente Servizi di conferenza PST Skype for Business dell'offerta Office 365, in modo da poter applicare correttamente le imposte.
+Office 365 Enterprise E5 presenta il file di riconciliazione come due voci con nomi identici e ID identici, ma ogni elemento riga ha un prezzo unitario univoco (ad esempio: $28,40 e $2,00). Questo separa il componente Servizi di conferenza PST Skype for Business dell'offerta Office 365, in modo da poter applicare correttamente le imposte.
 
-**Partner Reconciliation example #1 (select columns):**
+**Esempio di riconciliazione partner #1 (selezione colonne):**
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Tariffa periodica   |28,40   |
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Tariffa periodica   |2,00   |
 
-**Partner Reconciliation example #2**
+**Esempio di riconciliazione partner #2**
 
-Microsoft 365 Business Voice available in Canada has additional PSTN taxable components that are consolidated on CSP Invoice (similar to Office 365 E5, two line items are presented, one for PSTN components and the other for non-PSTN components).  The CSP Reconciliation file for Microsoft 365 Business Voice will display all PSTN taxable components individually (individual PSTN components will not be consolidated in .CSV or API tool).  The summation of order details and billed amounts for customers found in the reconciliation file will match the CSP Invoice.
+Microsoft 365 Business voce disponibile in Canada dispone di componenti impostabili PSTN aggiuntivi consolidati sulla fattura CSP (analogamente a Office 365 E5, vengono presentate due voci, una per i componenti PSTN e l'altra per i componenti non PSTN).  Il file di riconciliazione CSP per Microsoft 365 Business Voice visualizzerà tutti i componenti tassabili PSTN singolarmente (i singoli componenti PSTN non verranno consolidati in. CSV o strumento API).  La somma dei dettagli degli ordini e degli importi fatturati per i clienti trovati nel file di riconciliazione corrisponderà alla fattura CSP.
 
 ## <a name="additional-resources"></a>Risorse aggiuntive
-For more details, visit the [Microsoft 365 for Partners](https://drumbeat.office.com/Pages/home2016.aspx) site.
+Per ulteriori informazioni, visitare il sito [Microsoft 365 per partner](https://drumbeat.office.com/Pages/home2016.aspx) .
 

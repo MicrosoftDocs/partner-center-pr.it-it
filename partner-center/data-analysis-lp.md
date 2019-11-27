@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to use analytics in Partner Center to better understand your business and how your customers are using the licenses you've purchased.
+description: Scopri come usare le analisi nel centro per i partner per comprendere meglio il tuo business e come i tuoi clienti usano le licenze acquistate.
 author: LauraBrenner
 ms.author: labrenne
 keywords: dati, analisi, analisi dei dati, power bi
@@ -21,38 +21,38 @@ ms.locfileid: "74384841"
 **Si applica a**
 
 - Centro per i partner
-- MPN partners
+- Partner MPN
 - Partner aderenti al programma CSP
 
-**Appropriate role**
+**Ruolo appropriato**
 
 - Amministratore dei partner MPN
 
 La pianificazione dei modi per sviluppare le attività CSP include le informazioni su come i clienti usano i prodotti Microsoft. Sono disponibili diverse opzioni per la raccolta dei dati nel Centro per i partner e puoi raccogliere i dati dell'azienda ma anche sapere se e come i clienti usano le licenze acquistate. Se usi il modello diretto CSP, hai la possibilità di installare e usare l'app Analisi del Centro per i Partner per Power BI per raccogliere dati aggiuntivi.
 
-## <a name="access-to-user-analytics"></a>Access to user analytics
+## <a name="access-to-user-analytics"></a>Accesso a analisi utente
 
-In Partner Center, only the MPN partner admin has access to user analytics. If someone in your company needs this access (for example, a billing admin), you can grant it by assigning that person the MPN Partner Admin role.
+Nel centro per i partner, solo l'amministratore del partner MPN può accedere a analisi utente. Se un utente nell'azienda necessita di tale accesso, ad esempio un amministratore di fatturazione, è possibile concederlo assegnando a tale utente il ruolo di amministratore partner MPN.
 
 >[!NOTE] 
->To grant access, you must be an MPN partner admin.
+>Per concedere l'accesso, è necessario essere un amministratore partner MPN.
 
-**Grant access to user analytics in Partner Center** 
+**Concedi l'accesso a analisi utente nel centro per i partner** 
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
 
-2. From the Partner Center menu, On the Partner Center **User management** page, use the Search box to find the person who needs access.
-2.  In the search results, select the person's name to open the **User details** page.
-3.  Under **Roles and permissions**, select **MPN partner admin** and then select **Update**.
+2. Nel menu centro per i partner, nella pagina **Gestione utenti** del centro per i partner, utilizzare la casella di ricerca per trovare la persona che necessita di accesso.
+2.  Nei risultati della ricerca selezionare il nome della persona per aprire la pagina dei **Dettagli dell'utente** .
+3.  In **ruoli e autorizzazioni**selezionare **MPN partner admin** , quindi selezionare **Aggiorna**.
 
  
 ## <a name="access-data-in-partner-center"></a>Accedere ai dati nel Centro per i partner
 
-|**To get data on**   |**Download this**   |**Leggi**   | **Si applica a**    |
+|**Per ottenere i dati**   |**Scarica questo**   |**Leggi**   | **Si applica a**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|Come i clienti usano le licenze acquistate   |Deployment and usage data from Partner Center => Product analytics   |[Migliorare i tassi di adozione e soddisfazione](increasing-adoption-and-satisfaction.md)|Partner CSP|
+|Come i clienti usano le licenze acquistate   |Dati di distribuzione e di utilizzo da partner Center = > analisi del prodotto   |[Migliorare i tassi di adozione e soddisfazione](increasing-adoption-and-satisfaction.md)|Partner CSP|
 |Attività dei clienti relative alle sottoscrizioni   |Log attività   |[Visualizzare i log attività dei clienti](activity-logs.md)|Partner CSP   |
-|Aumento della base di clienti, dell'utilizzo, del consumo di Azure e altro ancora   |App Centro per i partner per Power BI   |[Partner Center Analytics app for Power BI (direct partners in CSP)](power-bi-app-for-direct-partners.md)|Partner diretti in CSP|
+|Aumento della base di clienti, dell'utilizzo, del consumo di Azure e altro ancora   |App Centro per i partner per Power BI   |[App di analisi del centro per i partner per Power BI (partner diretti in CSP)](power-bi-app-for-direct-partners.md)|Partner diretti in CSP|
 
 
 

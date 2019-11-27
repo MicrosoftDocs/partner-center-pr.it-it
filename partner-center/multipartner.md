@@ -23,19 +23,19 @@ ms.locfileid: "74189083"
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud for US Government
 
-The Partner Center's multi-partner feature supports scenarios when a customer wants to work with more than one partner. Ad esempio, un cliente può decidere di avvalersi dell'esperienza di un partner su Office 365, ma scegliere per Microsoft Azure un altro partner specializzato in questa soluzione. 
+La funzionalità per più partner del centro per i partner supporta scenari in cui un cliente vuole collaborare con più di un partner. Ad esempio, un cliente può decidere di avvalersi dell'esperienza di un partner su Office 365, ma scegliere per Microsoft Azure un altro partner specializzato in questa soluzione. 
 
-An Azure CSP tenant can include an additional Azure subscription from a different CSP partner.
+Un tenant di Azure CSP può includere una sottoscrizione di Azure aggiuntiva da un partner CSP diverso.
 
-To use the multi-partner feature in the Partner Center, invite the customer to give you delegated administration privileges. Vedi [Richiedere una relazione con un cliente](request-a-relationship-with-a-customer.md) per informazioni su come stabilire una relazione con un cliente che già collabora con un partner.
+Per usare la funzionalità per più partner nel centro per i partner, invitare il cliente a fornire i privilegi di amministrazione delegata. Vedi [Richiedere una relazione con un cliente](request-a-relationship-with-a-customer.md) per informazioni su come stabilire una relazione con un cliente che già collabora con un partner.
 
 La funzionalità multipartner non consente di:
 
-- Change any of the customer's existing subscriptions
+- Modificare le sottoscrizioni esistenti del cliente
 
-- Transition the customer's existing subscriptions or account ownership
+- Eseguire la transizione della proprietà dell'account o delle sottoscrizioni esistenti del cliente
 
-- Change the terms or customer's obligations for any of their existing subscriptions
+- Modificare i termini o gli obblighi del cliente per le sottoscrizioni esistenti
 
 - Modificare il Partner of Record per una sottoscrizione
 

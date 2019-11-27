@@ -2,7 +2,7 @@
 title: Leggere la fattura | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
-description: Your invoice is a summary of all Partner Center charges (across the program, products, and customers) for the current monthly period.
+description: La fattura è un riepilogo di tutti gli addebiti per il centro per i partner (per il programma, i prodotti e i clienti) per il periodo mensile corrente.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -24,44 +24,44 @@ Si applica a:
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
-Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers) for the **current billing period**.
+La **fattura** è un **Riepilogo di tutti gli addebiti** per il centro per i partner (attraverso il programma, tutti i prodotti e tutti i clienti) per il **periodo di fatturazione corrente**.
 
-## <a name="invoice-types"></a>Invoice types
+## <a name="invoice-types"></a>Tipi di fattura
 
-You will receive one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure).
+Si riceverà una fattura per tutti gli addebiti basati sulle licenze, ad esempio Office 365, e gli addebiti basati sull'utilizzo (ad esempio, Azure).
 
-You will receive a separate invoice for one-time charges (such as Azure reserved VM instances).
+Si riceverà una fattura separata per gli addebiti monouso, ad esempio le istanze di VM riservate di Azure.
 
-## <a name="invoice-file-fields"></a>Invoice file fields
+## <a name="invoice-file-fields"></a>Campi del file di fattura
 
-For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).
+Per una descrizione dettagliata di tutti i campi nel file di fattura (inclusi i campi per gli addebiti monouso), vedere [campi del file di fattura](invoice-file.md).
 
-## <a name="find-your-bill"></a>Find your bill
+## <a name="find-your-bill"></a>Trova la fattura
 
-You can find your invoice on the **Billing** page of the dashboard in Partner Center. You can also find your billing history, spending trends, and reconciliation files on this page.
+È possibile trovare la fattura nella pagina **fatturazione** del dashboard nel centro per i partner. In questa pagina è anche possibile trovare la cronologia di fatturazione, le tendenze di spesa e i file di riconciliazione.
 
-1. Sign in to the dashboard in Partner Center.
-2. In the left-hand menu, select **Billing**.
-3. On the **Billing** page, select the invoice you want to download.
-    - You can find a link to your latest invoice at the top of the page under **Account balance as of last invoice date**.
-    - You can find previous invoices in the **Billing history** section. Choose the appropriate year, then select the drop-down arrow next to the appropriate **Billing period**. You can select the link next to **Invoices (.pdf)** to download that period's invoice.
+1. Accedere al dashboard nel centro per i partner.
+2. Nel menu a sinistra selezionare **fatturazione**.
+3. Nella pagina **fatturazione** selezionare la fattura che si desidera scaricare.
+    - È possibile trovare un collegamento alla fattura più recente nella parte superiore della pagina in **Saldo account come data ultima fattura**.
+    - È possibile trovare le fatture precedenti nella sezione **cronologia di fatturazione** . Scegliere l'anno appropriato, quindi selezionare la freccia a discesa accanto al **periodo di fatturazione**appropriato. È possibile selezionare il collegamento accanto a **fatture (. pdf)** per scaricare la fattura di tale periodo.
 
-## <a name="understand-billing-periods"></a>Understand billing periods
+## <a name="understand-billing-periods"></a>Informazioni sui periodi di fatturazione
 
-Your invoice is available within **two (2) days** of your selected billing date in **UTC time**.
+La fattura è disponibile entro **due (2) giorni** dalla data di fatturazione selezionata in **ora UTC**.
 
-For example, if you have a September 12th monthly billing date:
+Ad esempio, se si dispone di una data di fatturazione mensile del 12 settembre:
 
-- The invoice generation process will **begin** at 12:00AM UTC on September 13th.
-- The invoice generation process will **complete** by 12:00AM UTC on September 14th.
-- If you do not see your invoice by 11:59PM UTC on September 15th, you’re out of your Service Level Agreement (SLA) and should file a service request.
+- Il processo di generazione della **fattura inizierà alle 12.00** UTC del 13 settembre.
+- Il processo di generazione della fattura viene **completato** entro le 12.00 UTC del 14 settembre.
+- Se la fattura non viene visualizzata entro 11:59PM UTC il 15 settembre, il Contratto di servizio (SLA) e dovrebbe presentare una richiesta di servizio.
 
-### <a name="csp-monthly-billing"></a>CSP monthly billing
+### <a name="csp-monthly-billing"></a>Fatturazione mensile CSP
 
-Partners in the Cloud Solution Provider (CSP) program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based subscriptions).
+I partner del programma Cloud Solution Provider (CSP) che hanno scelto di fatturare mensilmente pagano Microsoft 60 giorni in modo posticipato per le sottoscrizioni dei clienti (sia sottoscrizioni basate sulle licenze che basate sull'utilizzo).
 
-## <a name="find-itemized-details-for-charges"></a>Find itemized details for charges
+## <a name="find-itemized-details-for-charges"></a>Trovare i dettagli relativi agli addebiti
 
-You can understand itemized details about your charges using your reconciliation files. The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.
+È possibile comprendere i dettagli relativi agli addebiti usando i file di riconciliazione. I file di riconciliazione includono gli identificatori dei clienti e gli identificatori di sottoscrizione che è possibile usare per creare fatture del cliente.
 
 Per altre informazioni, vedi [Come usare i file di riconciliazione](use-the-reconciliation-files.md).

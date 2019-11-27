@@ -4,11 +4,11 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Explanation what you will see on your bill after you add new subscriptions, adjust the number of licenses in a subscription, or cancel a subscription. Le sottoscrizioni in base alle licenze vengono gestite diversamente rispetto a quelle in base all'uso.
+description: Spiegazione di ciò che viene visualizzato nella fattura dopo l'aggiunta di nuove sottoscrizioni, l'impostazione del numero di licenze in una sottoscrizione o l'annullamento di una sottoscrizione. Le sottoscrizioni in base alle licenze vengono gestite diversamente rispetto a quelle in base all'uso.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+Keywords: fatturazione, pagamenti, ordini, utilizzo, fatturazione basata su licenza, data anniversario, termine, annullamento, rinnovo, formula prezzo, file di riconciliazione, file di ricognizione
 ms.localizationpriority: medium
 ms.openlocfilehash: eaedbdf3f931c1b28f1219efe2739e9b65162864
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -21,13 +21,13 @@ ms.locfileid: "74384608"
 
 Si applica a:
 
-- Cloud Solution Provider (CSP) program billing
+- Fatturazione del programma Cloud Solution Provider (CSP)
 
-These topics explain what you should expect to see on your bill after you add new subscriptions, add new seats, adjust the number of licenses to a subscription, or cancel a subscription. Other [Partner Center billing types](billing-different-types.md), such as usage-based and license-based subscriptions, are billed differently.
+In questi argomenti vengono illustrati gli aspetti da visualizzare nella fattura dopo l'aggiunta di nuove sottoscrizioni, l'aggiunta di nuove postazioni, la modifica del numero di licenze a una sottoscrizione o l'annullamento di una sottoscrizione. Altri [tipi di fatturazione del centro](billing-different-types.md)per i partner, ad esempio le sottoscrizioni basate sull'utilizzo e sulle licenze, vengono fatturati in modo diverso.
 
-| Type of billing | Scenarios covered |
+| Tipo di fatturazione | Scenari analizzati |
 | --------------- | ----------------- |
-| [Monthly billing](common-billing-scenarios-monthly.md) | Adding new subscriptions, changing license quantity, and suspending subscriptions. |
-| [Annual billing](common-billing-scenarios-annual.md) | Adding new subscriptions, adding licenses before your billing date, change license quantity, and suspending and reactivating subscriptions. |
-| [Billing for one-time and select recurring purchases](common-billing-scenarios-onetime-recurring.md) | Purchasing subscriptions, adding more subscriptions, adding and removing seats. |
-| [Billing for license-based SaaS subscriptions](common-billing-scenarios-saas.md) | Free trials for license-based software as a service (SaaS) subscriptions. Purchasing and cancelling custom meter SaaS subscriptions. |
+| [Fatturazione mensile](common-billing-scenarios-monthly.md) | Aggiunta di nuove sottoscrizioni, modifica della quantità di licenze e sospensione delle sottoscrizioni. |
+| [Fatturazione annuale](common-billing-scenarios-annual.md) | Aggiunta di nuove sottoscrizioni, aggiunta di licenze prima della data di fatturazione, modifica della quantità di licenze e sospensione e riattivazione delle sottoscrizioni. |
+| [Fatturazione per una sola volta e selezionare gli acquisti ricorrenti](common-billing-scenarios-onetime-recurring.md) | Acquistare sottoscrizioni, aggiungere altre sottoscrizioni, aggiungere e rimuovere postazioni. |
+| [Fatturazione per le sottoscrizioni SaaS basate su licenza](common-billing-scenarios-saas.md) | Versioni di valutazione gratuite per sottoscrizioni SaaS (License-based Software as a Service). Acquisto e annullamento di sottoscrizioni SaaS del contatore personalizzato. |

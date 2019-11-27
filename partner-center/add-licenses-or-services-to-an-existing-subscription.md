@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to upgrade or modify a customer's subscription, such as adding more licenses or seats or moving to a different version with other services.
+description: Informazioni su come aggiornare o modificare la sottoscrizione di un cliente, ad esempio l'aggiunta di altre licenze o postazioni o il passaggio a una versione diversa con altri servizi.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
@@ -43,7 +43,7 @@ In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 Business</td>
+<td>Office 365 business</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 ProPlus</li>
@@ -52,14 +52,14 @@ In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 Business Premium</td>
+<td>Office 365 Business Premium</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 Business Essentials</td>
+<td>Office 365 Business Essentials</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 Enterprise E1</li>
@@ -69,7 +69,7 @@ In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 Business India and Office 365 Business Essentials India can be upgraded to Office 365 Business Premium India, not to Office 365 Business Premium.</p></td>
+<td><p>¹ Office 365 Business India e Office 365 Business Essentials India possono essere aggiornati a Office 365 Business Premium India, non a Office 365 Business Premium.</p></td>
 </tr>
 </tbody>
 </table>
@@ -82,20 +82,20 @@ Le sottoscrizioni possono essere aggiornate se sono soddisfatte queste condizion
 
 -   Devi disporre di privilegi di amministratore delegato per il cliente e per il servizio. Scopri come [richiedere i privilegi di amministratore delegato](request-a-relationship-with-a-customer.md).
 
--   The customer can't already have subscriptions that include the additional services.
+-   Il cliente non può già avere sottoscrizioni che includono i servizi aggiuntivi.
 
--   The customer can't already have the subscriptions you are trying to upgrade them to.
+-   Il cliente non può avere già le sottoscrizioni a cui si sta provando a eseguire l'aggiornamento.
 
-It is possible, in the latter two cases that the customer may have purchased those subscriptions or services from another partner or another channel, and they won't be able to purchase them from you unless they cancel their existing ones first. Per altre informazioni, vedi [multicanale](multichannel.md).
+Negli ultimi due casi è possibile che il cliente abbia acquistato tali sottoscrizioni o servizi da un altro partner o da un altro canale e non sarà in grado di acquistarli da parte dell'utente, a meno che non vengano annullati prima quelli esistenti. Per altre informazioni, vedi [multicanale](multichannel.md).
 
 Per altre informazioni sull'impatto di queste operazioni sulla fatturazione, vedi i dettagli relativi all'annullamento di una sottoscrizione e all'aggiunta di una nuova sottoscrizione in [Scenari di fatturazione comuni](common-billing-scenarios.md).
 
-**Upgrade a subscription**
+**Aggiornare una sottoscrizione**
 
 1.  Per verificare se una sottoscrizione è idonea per l'aggiornamento, scegli il cliente e quindi apri l'elenco delle sottoscrizioni.
 2.  Se la sottoscrizione può essere aggiornata, vedrai un'icona delle informazioni subito dopo il nome della sottoscrizione. Passa il puntatore su questa icona e quindi seleziona **Aggiorna ora**.
 3.  Seleziona la nuova offerta e quindi scegli **Invia**.
-4.  Potrebbero essere necessarie altre operazioni per la transizione di alcuni account utente per determinati servizi. If so, the Partner Center provides a list of accounts and services that were affected. Per informazioni, vedi l'articolo della Knowledge Base relativo ai [problemi di riassegnazione delle licenze quando si modifica il piano di Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Potrebbero essere necessarie altre operazioni per la transizione di alcuni account utente per determinati servizi. In tal caso, il centro per i partner fornisce un elenco di account e servizi interessati. Per informazioni, vedi l'articolo della Knowledge Base relativo ai [problemi di riassegnazione delle licenze quando si modifica il piano di Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

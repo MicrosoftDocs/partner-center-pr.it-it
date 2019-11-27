@@ -25,18 +25,18 @@ I ruoli seguenti sono mappati ai livelli di autorizzazione che determinano se un
 
 |**Ruolo**   |**Descrizione**   |**Idoneo per PEC**   |
 |-----------------|:------------------|:--------------|
-|Proprietario  |Si gestiscono tutti gli elementi, incluso l'accesso alle risorse.|Sì|
-|Collaboratore |Si gestiscono tutti gli elementi, ad eccezione della concessione dell'accesso alle risorse.|Sì|
+|Proprietario  |Si gestiscono tutti gli elementi, incluso l'accesso alle risorse.|Yes|
+|Collaboratore |Si gestiscono tutti gli elementi, ad eccezione della concessione dell'accesso alle risorse.|Yes|
 |Lettore|È possibile visualizzare tutti gli elementi, ma non apportare modifiche|No|
-|ACRDelete|eliminazione di ACR|Sì|
-|ACRImageSigner|firmatario immagine ACR|Sì|
-|ACRPull|Pull ACR|Sì|
-|AcrPush|push ACR|Sì|
+|ACRDelete|eliminazione di ACR|Yes|
+|ACRImageSigner|firmatario immagine ACR|Yes|
+|ACRPull|Pull ACR|Yes|
+|AcrPush|push ACR|Yes|
 |AcrQuarantineReader|lettore dati di quarantena ACR|No|
-|AcrQuarantineWriter| writer di dati di quarantena ACR|Sì|
-|Collaboratore servizio gestione API|Può gestire il servizio e le API|Sì|
-|Ruolo operatore del servizio gestione API|Può gestire il servizio ma non le API|Sì|
+|AcrQuarantineWriter| writer di dati di quarantena ACR|Yes|
+|Collaboratore servizio gestione API|Può gestire il servizio e le API|Yes|
+|Ruolo operatore del servizio gestione API|Può gestire il servizio ma non le API|Yes|
 |Ruolo lettura del servizio gestione API|Accesso in sola lettura al servizio e alle API|No|
-|Collaboratore componente Application Insights|Gestisce i componenti di Application Insights|Sì|
-|Application Insights Snapshot Debugger|Concede all'utente l'autorizzazione per visualizzare e scaricare gli snapshot di debug raccolti con la Application Insights Snapshot Debugger. Si noti che queste autorizzazioni non sono incluse nei ruoli proprietario o collaboratore.|Sì|
+|Collaboratore componente Application Insights|Gestisce i componenti di Application Insights|Yes|
+|Application Insights Snapshot Debugger|Concede all'utente l'autorizzazione per visualizzare e scaricare gli snapshot di debug raccolti con la Application Insights Snapshot Debugger. Si noti che queste autorizzazioni non sono incluse nei ruoli proprietario o collaboratore.|Yes|
 |

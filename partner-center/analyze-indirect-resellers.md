@@ -3,7 +3,7 @@ title: Analizzare le prestazioni dei rivenditori indiretti | Centro per i partne
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how to use analytics to find out how your indirect resellers are doing, both their successes and areas that may need more attention.
+Description: Informazioni su come usare Analytics per scoprire come vengono eseguiti i rivenditori indiretti, sia i successi che le aree che potrebbero richiedere maggiore attenzione.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
@@ -37,26 +37,26 @@ Ci stiamo occupando delle seguenti metriche:
  - **Rivenditori attivi**: numero di rivenditori indiretti in cui il MPNID corrisponde almeno a 1 abbonamento e lo stato dell'abbonamento non è in deprovisioning  
  - **Rivenditori transazioni**: numero di rivenditori indiretti con un abbonamento venduto nel periodo di tempo specificato  
 
-**Resellers by market**  
+**Rivenditori per mercato**  
  - Rivenditori totali per posizione geografica  
 
-**Top resellers by subscriptions sold**
+**Rivenditori principali per sottoscrizioni vendute**
  - Un elenco dei rivenditori, ordinati in base al numero di abbonamenti che hanno venduto  
 
-**Top products by subscription count**  
+**Principali prodotti per numero di sottoscrizioni**  
  - **Dynamics 365**: prodotti Dynamics 365 ordinati in base agli abbonamenti venduti  
  - **EMS**: numero di abbonamenti di Enterprise Management Services venduti  
  - **Microsoft 365**: numero di abbonamenti a Microsoft 365 venduti  
  - **Office 365**: prodotti Office 365 ordinati in base agli abbonamenti venduti  
 
-**New subscriptions**  
+**Nuove sottoscrizioni**  
  - Il numero di nuovi abbonamenti aggiunti per data  
 
-**Subscription churn**  
+**Varianza sottoscrizione**  
  - **Nuovi abbonamenti**: numero di nuovi abbonamenti aggiunti per data  
  - **Sottoscrizioni sottoposte a deprovisioning**: numero di sottoscrizioni sottoposte a deprovisioning o sospese per data  
 
-**New reseller details**  
+**Dettagli nuovo rivenditore**  
  - **Nome rivenditore**: nomi dei rivenditori indiretti  
  - **Posizione**: mercati in cui operano i rivenditori indiretti  
  - **Abbonamenti**: numero di abbonamenti venduti dal rivenditore  

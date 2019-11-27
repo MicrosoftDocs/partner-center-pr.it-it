@@ -1,10 +1,10 @@
 ---
-title: Types of billing in Partner Center | Partner Center
+title: Tipi di fatturazione nel centro per i partner | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn about different billing types, billing periods, and billing dates you might see in Partner Center.
+Description: Informazioni sui diversi tipi di fatturazione, i periodi di fatturazione e le date di fatturazione che potrebbero essere visualizzati nel centro per i partner.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione, pagamenti, ordini, file di riconciliazione
@@ -17,20 +17,20 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384856"
 ---
-# <a name="types-of-billing-in-partner-center"></a>Types of billing in Partner Center
+# <a name="types-of-billing-in-partner-center"></a>Tipi di fatturazione nel centro per i partner
 
 Si applica a:
 
 - Centro per i partner
 - Partner aderenti al programma CSP
 
-You'll be billed for Partner Center purchases depending on the products, solutions and services you buy on behalf of your customers. The types of billing are as follows:
+Ti verranno addebitati gli acquisti del centro per i partner a seconda dei prodotti, delle soluzioni e dei servizi acquistati per conto dei tuoi clienti. I tipi di fatturazione sono i seguenti:
 
-- [**License-based billing**](license-based-billing.md), where you're billed per license (not by license usage).
-- [**Usage-based billing**](usage-based-billing.md), where you're billed for monthly usage rates.
-- [**Billing for one-time and select recurring charges**](one-time-and-recurring-billing.md), where you pay in advance for a preset term for Microsoft and third-party ISV products.
-- Billing for license-based SaaS transactions (see [**common billing scenarios for SaaS charges**](common-billing-scenarios-saas.md)).
+- [**Fatturazione basata sulle licenze**](license-based-billing.md), in cui viene addebitata una licenza (non in base all'utilizzo delle licenze).
+- [**Fatturazione basata sull'utilizzo**](usage-based-billing.md), in cui vengono addebitate le tariffe di utilizzo mensili.
+- [**Fatturazione per una sola volta e selezionare i costi ricorrenti**](one-time-and-recurring-billing.md), dove si paga in anticipo per un periodo di tempo preimpostato per prodotti ISV Microsoft e di terze parti.
+- Fatturazione per le transazioni SaaS basate su licenze (vedere [**scenari di fatturazione comuni per gli addebiti Saas**](common-billing-scenarios-saas.md)).
 
 A seconda dei tipi di prodotti acquistati per i clienti, potresti avere periodi di fatturazione diversi e addebiti in giorni diversi dello stesso mese.
 
-If you’ve chosen to be billed monthly or if you’ve bought usage-based products that are billed monthly, your monthly billing date is the day of the month you selected when you created your CSP account on Partner Center. After you’ve successfully created your CSP account, Microsoft will send a confirmation email that includes your billing date. Once created, this date cannot be changed.
+Se si è scelto di fatturare ogni mese o se sono stati acquistati prodotti basati sull'utilizzo fatturati mensilmente, la data di fatturazione mensile è il giorno del mese selezionato al momento della creazione dell'account CSP nel centro per i partner. Dopo aver creato l'account CSP, Microsoft invierà un messaggio di posta elettronica di conferma che include la data di fatturazione. Una volta creata, la data non può essere modificata.

@@ -1,8 +1,8 @@
 ---
-title: License-based reconciliation files | Partner Center
+title: File di riconciliazione basati sulle licenze | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
-description: Understand license-based reconciliation files in Partner Center.
+description: Informazioni sui file di riconciliazione basati sulle licenze nel centro per i partner.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -21,36 +21,36 @@ Si applica a:
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
-To reconcile your changes against a customer's orders, compare the **Syndication_Partner_Subscription_Number** from the reconciliation file against the **Subscription ID** from Partner Center.
+Per riconciliare le modifiche rispetto agli ordini di un cliente, confrontare il **Syndication_Partner_Subscription_Number** dal file di riconciliazione con l' **ID sottoscrizione** dal centro per i partner.
 
-## <a name="fields-in-license-based-reconciliation-files"></a>Fields in license-based reconciliation files
+## <a name="fields-in-license-based-reconciliation-files"></a>Campi nei file di riconciliazione basati su licenza
 
 | Column | Descrizione | Valore di esempio |
 | ------ | ----------- | ------------ |
-| PartnerId | Unique identifier in GUID format for a specific billing entity. Not required for reconciliation. È lo stesso per tutte le righe. | *8ddd03642-test-test-test-46b58d356b4e* |
-| CustomerID | Unique Microsoft identifier for the customer in GUID format. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| OrderID | Identificatore univoco di un ordine nella piattaforma di fatturazione Microsoft. May be useful to identify the order when contacting support. Not used for reconciliation. | *566890604832738111* |
-| SubscriptionID | Identificatore univoco di una sottoscrizione nella piattaforma di fatturazione Microsoft. May be useful to identify the subscription when contacting support. Not used for reconciliation. *This value is not the same as the **Subscription ID** on the Partner Admin Console. Please see **SyndicationPartnerSubscriptionNumber** instead.* | *usCBMgAAAAAAAAIA* |
-| SyndicationPartnerSubscriptionNumber | Identificatore univoco per le sottoscrizioni. A customer can have multiple subscriptions for the same plan. This column is important for reconciliation file analysis. This field maps to the **Subscription ID** in the Partner Admin Console. | *fb977ab5-test-test-test-24c8d9591708* |
-| OfferID | Unique offer identifier. Standard offer identifier, as defined in the price list. *This value does not match **Offer ID** from the price list. See **DurableOfferID** instead.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
-| DurableOfferID | Unique durable offer identifier, as defined in the price list. *This value matches the **Offer ID** from the price list.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
-| OfferName | Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. | *Microsoft Office 365 (Plan E3)* |
-| SubscriptionStartDate | The subscription start date. L'ora indicata è sempre l'inizio della giornata, le 0:00. This field is set to the day after the order was submitted. Used in conjunction with the **SubscriptionEndDate** to determine: if the customer is still within the first year of the subscription, or if the subscription has been renewed for the following year. | *2/1/2019 0:00* |
-| SubscriptionEndDate | The subscription end date. L'ora indicata è sempre l'inizio della giornata, le 0:00. Either *12 months plus **x** days after the start date* to align with the partner's billing date or *12 months from the renewal date*. In fase di rinnovo, i prezzi vengono aggiornati rispetto al listino prezzi corrente. È possibile che venga richiesta una comunicazione con il cliente prima del rinnovo automatico. | *2/1/2019 0:00* |
-| ChargeStartDate | Giorno di inizio degli addebiti. L'ora indicata è sempre l'inizio della giornata, le 0:00. Used to calculate daily charges (*pro rata* charges) when a customer changes seat numbers. | *2/1/2019 0:00* |
-| ChargeEndDate | Giorno di fine degli addebiti. L'ora indicata è sempre la fine della giornata, le 23:59. Used to calculate daily charges (*pro rata* charges) when a customer changes seat numbers. | *2/28/2019 23:59* |
-| ChargeType | The [type of charge](recon-file-charge-types.md) or adjustment. | See [charge types](recon-file-charge-types.md). |
-| UnitPrice | Prezzo per postazione, come pubblicato nel listino prezzi al momento dell'acquisto. Be sure this matches the information stored in your billing system during reconciliation. | *6.82* |
-| Quantità | Numero di postazioni. Be sure this matches the information stored in your billing system during reconciliation. | *2* |
-| Importo | Prezzo totale per la quantità. Used to check if the amount calculation matches how you calculate this value for your customers. | *13.32* |
-| TotalOtherDiscount | Importo dello sconto applicato a questi addebiti. Product licenses included with a competency or MAPS, or new subscriptions eligible for an incentive, will also contain a discount amount in this column. | *2.32* |
-| Subtotal | Totale al lordo delle imposte. Checks if your subtotal matches your expected total, in case of a discount. | *11* |
-| Imposta | Tax amount charge. Based on your market's tax rules and specific circumstances. | *0* |
+| PartnerId | Identificatore univoco in formato GUID per un'entità di fatturazione specifica. Non obbligatorio per la riconciliazione. È lo stesso per tutte le righe. | *8ddd03642-test-test-test-46b58d356b4e* |
+| CustomerID | Identificatore Microsoft univoco per il cliente in formato GUID. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
+| OrderID | Identificatore univoco di un ordine nella piattaforma di fatturazione Microsoft. Può essere utile per identificare l'ordine quando si contatta il supporto tecnico. Non utilizzato per la riconciliazione. | *566890604832738111* |
+| SubscriptionID | Identificatore univoco di una sottoscrizione nella piattaforma di fatturazione Microsoft. Può essere utile per identificare la sottoscrizione quando si contatta il supporto tecnico. Non utilizzato per la riconciliazione. *Questo valore non corrisponde all' **ID sottoscrizione** nella console di amministrazione partner. Vedere invece **SyndicationPartnerSubscriptionNumber** .* | *usCBMgAAAAAAAAIA* |
+| SyndicationPartnerSubscriptionNumber | Identificatore univoco per le sottoscrizioni. Un cliente può disporre di più sottoscrizioni per lo stesso piano. Questa colonna è importante per l'analisi dei file di riconciliazione. Questo campo esegue il mapping all' **ID sottoscrizione** nella console di amministrazione partner. | *fb977ab5-test-test-test-24c8d9591708* |
+| OfferID | Identificatore dell'offerta univoco. Identificatore dell'offerta standard, come definito nell'elenco prezzi. *Questo valore non corrisponde all' **ID offerta** nell'elenco prezzi. Vedere invece **DurableOfferID** .* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
+| DurableOfferID | Identificatore dell'offerta durevole univoco, come definito nell'elenco prezzi. *Questo valore corrisponde all' **ID offerta** dall'elenco prezzi.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
+| OfferName | Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. | *Microsoft Office 365 (Piano E3)* |
+| SubscriptionStartDate | Data di inizio della sottoscrizione. L'ora indicata è sempre l'inizio della giornata, le 0:00. Questo campo viene impostato sul giorno dopo l'invio dell'ordine. Usato insieme a **SubscriptionEndDate** per determinare: se il cliente è ancora entro il primo anno della sottoscrizione o se la sottoscrizione è stata rinnovata per l'anno successivo. | *2/1/2019 0:00* |
+| SubscriptionEndDate | Data di fine della sottoscrizione. L'ora indicata è sempre l'inizio della giornata, le 0:00. *12 mesi più **x** giorni dopo la data di inizio* per allinearsi alla data di fatturazione del partner o a *12 mesi dalla data di rinnovo*. In fase di rinnovo, i prezzi vengono aggiornati rispetto al listino prezzi corrente. È possibile che venga richiesta una comunicazione con il cliente prima del rinnovo automatico. | *2/1/2019 0:00* |
+| ChargeStartDate | Giorno di inizio degli addebiti. L'ora indicata è sempre l'inizio della giornata, le 0:00. Usato per calcolare i prezzi giornalieri (addebiti*pro rata* ) quando un cliente modifica i numeri di posto. | *2/1/2019 0:00* |
+| ChargeEndDate | Giorno di fine degli addebiti. L'ora indicata è sempre la fine della giornata, le 23:59. Usato per calcolare i prezzi giornalieri (addebiti*pro rata* ) quando un cliente modifica i numeri di posto. | *2/28/2019 23:59* |
+| ChargeType | [Tipo di addebito](recon-file-charge-types.md) o regolazione. | Vedere [tipi di addebito](recon-file-charge-types.md). |
+| UnitPrice | Prezzo per postazione, come pubblicato nel listino prezzi al momento dell'acquisto. Assicurarsi che corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione. | *6,82* |
+| Quantità | Numero di postazioni. Assicurarsi che corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione. | *2* |
+| Importo | Prezzo totale per la quantità. Utilizzato per verificare se il calcolo della quantità corrisponde alla modalità di calcolo di questo valore per i clienti. | *13,32* |
+| TotalOtherDiscount | Importo dello sconto applicato a questi addebiti. Le licenze dei prodotti incluse con una competenza o mappe, o nuove sottoscrizioni idonee per un incentivo, conterranno anche un importo di sconto in questo articolo. | *2,32* |
+| Subtotal | Totale al lordo delle imposte. Controlla se il subtotale corrisponde al totale previsto, in caso di sconto. | *11* |
+| Imposta | Addebito IVA. In base alle regole fiscali e alle circostanze specifiche del mercato. | *0* |
 | TotalForCustomer | Totale al netto delle imposte. Verifica se nella fattura sono addebitate imposte. | *11* |
-| Currency | Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Check if it matches your first invoice. Check again after any major billing platform updates. | *EUR* |
-| CustomerName | Customer's organization name, as reported in Partner Center. *Very important field for reconciling the invoice with your system information.* | *Test Customer A* |
-| MPNID | MPN identifier of the CSP partner. See [how to itemize by partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| ResellerMPNID | MPN identifier of the reseller of record for the subscription. See [how to itemize by partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| DomainName | Customer's domain name. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione. *Don't use this field as a unique identifier for the customer. The customer/partner can update the vanity or default domain through the  Office 365 portal.* | *example.onmicrosoft.com* |
-| SubscriptionName | Nome alternativo della sottoscrizione. If no nickname is specified, Partner Center uses the **OfferName**. | *PROJECT ONLINE* |
-| SubscriptionDescription | Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. (This is an identical field to **OfferName**.) | *PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT* |
+| Currency | Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Controllare se corrisponde alla prima fattura. Controllare di nuovo dopo gli aggiornamenti principali della piattaforma di fatturazione. | *EUR* |
+| CustomerName | Nome dell'organizzazione del cliente, come indicato nel centro per i partner. *Campo molto importante per la riconciliazione della fattura con le informazioni sul sistema.* | *Testare il cliente A* |
+| MPNID | Identificatore MPN del partner CSP. Vedere [How to descrivere by partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
+| ResellerMPNID | Identificatore MPN del rivenditore del record per la sottoscrizione. Vedere [How to descrivere by partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
+| DomainName | Nome di dominio del cliente. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione. *Non usare questo campo come identificatore univoco per il cliente. Il cliente/partner può aggiornare il dominio Vanity o default tramite il portale di Office 365.* | *example.onmicrosoft.com* |
+| SubscriptionName | Nome alternativo della sottoscrizione. Se non viene specificato alcun nome alternativo, il centro per i partner USA l' **offerta**. | *PROGETTO ONLINE* |
+| SubscriptionDescription | Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. Si tratta di un campo identico a **offername**. | *PROJECT ONLINE PREMIUM SENZA CLIENT DI PROGETTO* |

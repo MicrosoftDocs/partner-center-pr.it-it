@@ -52,7 +52,7 @@ Dopo che Microsoft avrà verificato l'idoneità della tua azienda a iscriversi c
 
 Se si decide di passare da una fattura diretta a una società di rivenditori indiretta, è necessario eseguire diversi passaggi. Per altre informazioni sulla transizione, vedere la pagina relativa alla [transizione dal partner Cloud Solution Provider (CSP) diretto al rivenditore indiretto CSP](transition-direct-to-indirect.md). 
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
 - [Ulteriori informazioni su come diventare un rivenditore indiretto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Domande frequenti su fatturazione diretta a rivenditori indiretti](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

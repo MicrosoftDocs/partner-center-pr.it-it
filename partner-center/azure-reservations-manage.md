@@ -4,10 +4,10 @@ ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how to manage Azure reservations on behalf of a customer, including how to cancel a reservation, exchange a reservation, or request a refund.
+Description: Informazioni su come gestire le prenotazioni di Azure per conto di un cliente, tra cui come annullare una prenotazione, scambiare una prenotazione o richiedere un rimborso.
 author: LauraBrenner
 ms.author: labrenne
-keywords: azure, reservations, manage, billing, buying, cancel, exchange, early termination fee
+keywords: Azure, prenotazioni, gestione, fatturazione, acquisto, annullamento, scambio, tariffa per la terminazione anticipata
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
@@ -25,79 +25,79 @@ ms.locfileid: "74252636"
 -  Portale di Microsoft Azure 
 -  Partner di CSP
 
-To manage your customers' Azure reservations post-purchase, you'll select the customer and reservation you want to manage in Partner Center, and then make changes to the reservation in the Azure portal. 
+Per gestire le prenotazioni di Azure per i clienti dopo l'acquisto, selezionare il cliente e la prenotazione da gestire nel centro per i partner e quindi apportare modifiche alla prenotazione nel portale di Azure. 
 
-1. To get started, select **Customers** from the Partner Center menu and then select the customer whose reservations you want to manage. 
+1. Per iniziare, selezionare **Customers (clienti** ) dal menu centro partner e quindi selezionare il cliente di cui si desidera gestire le prenotazioni. 
 
-2. On the customer's detail page menu, select **Azure reservations** and then select the specific reservation you want to manage.  
+2. Nel menu della pagina dei dettagli del cliente selezionare **prenotazioni di Azure** e quindi selezionare la prenotazione specifica che si vuole gestire.  
 
-3. Under **Actions**, select **Manage** to go to the customer's reservation record in the Azure portal. Nella pagina dei dettagli della prenotazione segui i passaggi qui sotto per completare le attività.  
+3. In **azioni**selezionare **Gestisci** per passare al record di prenotazione del cliente nel portale di Azure. Nella pagina dei dettagli della prenotazione segui i passaggi qui sotto per completare le attività.  
 
-    | **Select**   | **To**    |
+    | **Selezionare**   | **A**    |
     |:-----------------------------|:-----------------|
-    | **Panoramica**   | View details of a customer's reservation, including expiration date, scope, and utilization data. **NOTA:** seleziona **Rimborsa** per creare una richiesta di supporto per un rimborso proporzionale. Selezionare **Cambio** per creare una richiesta di supporto in vista del cambio del periodo di prenotazione non utilizzato.  
-    | **Access Control (IAM)**   | Manage access to the customer's reservation information.|
-    | **Configurazione**   | Change the reservation's scope and/or the Azure subscription the reservation is associated with.    |
-    | **Proprietà**   | View the reservation's properties and copy to the clipboard the reservation ID and reservation order ID. **NOTA:** quando chiedi supporto per conto di un cliente, ti potrebbero essere richiesti l'ID della prenotazione e l'ID dell'ordine di prenotazione.    |
-    | **New support request**    | Richiedere assistenza al Supporto tecnico Microsoft.   |
+    | **Panoramica**   | Visualizza i dettagli della prenotazione di un cliente, inclusi i dati relativi alla data di scadenza, all'ambito e all'utilizzo. **NOTA:** seleziona **Rimborsa** per creare una richiesta di supporto per un rimborso proporzionale. Selezionare **Cambio** per creare una richiesta di supporto in vista del cambio del periodo di prenotazione non utilizzato.  
+    | **Controllo di accesso (IAM)**   | Consente di gestire l'accesso alle informazioni di prenotazione del cliente.|
+    | **Configurazione**   | Modificare l'ambito della prenotazione e/o la sottoscrizione di Azure a cui è associata la prenotazione.    |
+    | **Proprietà**   | Visualizzare le proprietà della prenotazione e copiare negli Appunti l'ID prenotazione e l'ID ordine di prenotazione. **NOTA:** quando chiedi supporto per conto di un cliente, ti potrebbero essere richiesti l'ID della prenotazione e l'ID dell'ordine di prenotazione.    |
+    | **Nuova richiesta di supporto**    | Richiedere assistenza al Supporto tecnico Microsoft.   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Annullare o cambiare una prenotazione 
 
-If at any point a customer's business needs change, they may want to cancel a reservation and get a refund or exchange a reservation's prorated refund amount to be used toward the price of a new reservation.
+Se in qualsiasi momento le esigenze dell'azienda del cliente cambiano, è possibile che si desideri annullare una prenotazione e ottenere un rimborso o scambiare un importo di rimborso proporzionale della prenotazione da utilizzare per il prezzo di una nuova prenotazione.
 
-In both of these scenarios, Microsoft refunds the amount to you so that you can then manage the resulting financial transactions with your customers. Microsoft does not contact customers directly about billing, cancellations, or refunds.   
+In entrambi i casi, Microsoft rimborserà l'importo per poter gestire le transazioni finanziarie risultanti con i clienti. Microsoft non contatta i clienti direttamente in merito a fatturazione, annullamento o rimborsi.   
  
 
-**How cancellations work**
+**Funzionamento degli annullamenti**
 
-Customers can request to cancel a reservation at any time (refund amount capped at $50,000 per year). Cancelling a reservation allows the customer to return the amount of the remaining months of an Azure reservation for an early termination fee. The remaining prorated balance, minus the early termination fee, is refunded to your account so that you can refund the customer's account. 
+I clienti possono richiedere di annullare una prenotazione in qualsiasi momento (importo del rimborso limitato a $50.000 all'anno). L'annullamento di una prenotazione consente al cliente di restituire la quantità di mesi rimanenti di una prenotazione di Azure per una tariffa di terminazione anticipata. Il saldo proporzionale rimanente, meno il costo di terminazione anticipato, viene rimborsato al proprio account in modo che sia possibile rimborsare l'account del cliente. 
 
-See below for cancellation details and fees.
+Per informazioni dettagliate sull'annullamento e tariffe, vedere di seguito.
 
 
-|**Cancellation date**<br> (days)   |**Usage**    |**Credit**  |**Early termination**<br> individuale    |**Refund cap** | 
+|**Data di annullamento**<br> giorni   |**Utilizzo**    |**Credito**  |**Terminazione anticipata**<br> individuale    |**Limite di rimborso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 or fewer                         | No          | 100%       | No                              | $50,000 USD   |
-|5 or fewer                         | Sì         | Pro-rated  | No                              | $50,000 USD   |
-|More than 5                        | No          | Pro-rated  | 12%                             | $50,000 USD   |
-|More than 5                        | Sì         | Pro-rated  | 12%                             | $50,000 USD   |
+|5 o un numero inferiore                         | No          | 100%       | No                              | $50.000 USD   |
+|5 o un numero inferiore                         | Yes         | Con classificazione Pro  | No                              | $50.000 USD   |
+|Più di 5                        | No          | Con classificazione Pro  | 12                             | $50.000 USD   |
+|Più di 5                        | Yes         | Con classificazione Pro  | 12                             | $50.000 USD   |
 
 
-**How exchanges work** 
+**Come funzionano gli scambi** 
 
-If a customer wants to buy a different reservation than the one they originally bought from you, they can request an exchange. Exchanging a reservation can be an attractive alternative to cancelling a reservation because it allows the customer to use the prorated refund amount toward the price of the new reservation. 
+Se un cliente vuole acquistare una prenotazione diversa da quella acquistata originariamente dall'utente, può richiedere uno scambio. Lo scambio di una prenotazione può essere un'alternativa interessante per annullare una prenotazione perché consente al cliente di usare l'importo del rimborso proporzionale verso il prezzo della nuova prenotazione. 
 
-The prorated refund amount is credited to your account so that you can offer the customer an exchange.
+L'importo del rimborso proporzionale è accreditato per l'account, in modo da poter offrire al cliente uno scambio.
 
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Richiedere un rimborso o un cambio per conto di un cliente 
 
-To file a support request for a refund or exchange on behalf of your customers, you'll select the customer and reservation in Partner Center, and then create the support request in the Azure portal. 
+Per presentare una richiesta di supporto per un rimborso o uno scambio per conto dei clienti, selezionare il cliente e la prenotazione nel centro per i partner e quindi creare la richiesta di supporto nella portale di Azure. 
 
 >[!NOTE]
->Gli agenti del Supporto tecnico Microsoft potrebbero richiedere l'ID della prenotazione e l'ID dell'ordine di prenotazione. You can find this information on the reservation's **Properties** page in the Azure portal. 
+>Gli agenti del Supporto tecnico Microsoft potrebbero richiedere l'ID della prenotazione e l'ID dell'ordine di prenotazione. È possibile trovare queste informazioni nella pagina delle **Proprietà** della prenotazione nel portale di Azure. 
 
-1. To get started, select **Customers** from the Partner Center menu and then select the customer who wants a refund. 
+1. Per iniziare, selezionare **Customers** dal menu partner Center e quindi selezionare il cliente che desidera un rimborso. 
 
-2. On the customer's detail page, select **Azure reservations** and then select the specific reservation the customer wants refunded.  
+2. Nella pagina dei dettagli del cliente selezionare **prenotazioni di Azure** e quindi selezionare la prenotazione specifica che il cliente desidera rimborsare.  
 
-3. Under **Actions**, select **Refund** to go to the customer's reservation record in the Azure portal and initiate a support request.  
+3. In **azioni**selezionare **rimborso** per passare al record di prenotazione del cliente nel portale di Azure e avviare una richiesta di supporto.  
 
 4. Nella pagina **Nuova richiesta di supporto** attieniti alla procedura seguente per richiedere un rimborso. Seleziona **Avanti** dopo ogni passaggio. 
 
-    |**Step**                    |**Selections**    |
+    |**Passo**                    |**Selezioni**    |
     |:---------------------------|:-----------------|
-    |**1 Basics**                |Tipo di problema: fatturazione  |
-    |**2 Problem**               |Tipo di problema: gestione della prenotazione. Categoria: scambi e rimborsi |
-    |**3 Contact information**   |Seleziona le preferenze e immetti le informazioni necessarie. 
+    |**1 Nozioni di base**                |Tipo di problema: fatturazione  |
+    |**2 problema**               |Tipo di problema: gestione della prenotazione. Categoria: scambi e rimborsi |
+    |**3 informazioni di contatto**   |Seleziona le preferenze e immetti le informazioni necessarie. 
 
 5.  Al termine, seleziona **Crea**.
 
 ## <a name="azure-reservations-resources"></a>Risorse sulle prenotazioni di Azure
-|**For information about**   |**Leggi**    |
+|**Per informazioni su**   |**Leggi**    |
 |:-----------------------------|:-----------------|
-|Panoramica delle prenotazioni di Azure in CSP  | [Sell Microsoft Azure Reserved Instances](azure-reservations.md) |
-|Purchasing Azure reservations for your customers in Partner Center   |[Buy Azure reservations](azure-reservations-buying.md) |
-|Determinare le dimensioni corrette della macchina virtuale e verificare l'utilizzo di macchine virtuali da parte dei clienti   |[VM sizing for maximum Azure reservation usage](azure-usage.md)   |
+|Panoramica delle prenotazioni di Azure in CSP  | [Vendere Microsoft Azure istanze riservate](azure-reservations.md) |
+|Acquisto di prenotazioni di Azure per i clienti nel centro per i partner   |[Acquista prenotazioni di Azure](azure-reservations-buying.md) |
+|Determinare le dimensioni corrette della macchina virtuale e verificare l'utilizzo di macchine virtuali da parte dei clienti   |[Dimensionamento delle VM per l'utilizzo massimo della prenotazione di Azure](azure-usage.md)   |
 |Acquisto di prenotazioni di Azure mediante l'API del Centro per i partner | [Acquisto di istanze di macchina virtuale riservate di Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) nella documentazione per sviluppatori del Centro per i partner
 

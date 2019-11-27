@@ -1,10 +1,10 @@
 ---
-title: Incentives co-op claims | Partner Center
+title: Attestazioni co-op degli incentivi | Centro per i partner
 ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to submit your incentives claims without the prerequisite to have your activity plan reviewed.
+description: Informazioni su come inviare le richieste di incentivi senza il prerequisito per la revisione del piano di attività.
 author: LauraBrenner
 ms.author: labrenne
 keywords: attestazioni incentivi, attestazioni cooperative, fondi cooperativi
@@ -22,7 +22,7 @@ ms.locfileid: "74253412"
 
 - Centro per i partner
 
-When you participate in one of the Microsoft Incentives programs (such as the Partner Incentives Cooperative Marketing Fund, Online Services Advisor program, or Dynamics ISV program), you claim reimbursements of earned funds for activities you have done that support Microsoft product awareness. You submit a claim directly from the Partner Center. Non è più necessario che Microsoft esamini il tuo piano di attività pima di inviare una richiesta. Invia la richiesta e la documentazione necessaria entro la scadenza del periodo di attestazione che è 45 giorni dopo la fine del periodo di utilizzo. 
+Quando si partecipa a uno dei programmi Microsoft incentives (ad esempio, partner incentives cooperative Marketing Fund, Online Services Advisor Program o Dynamics ISV Program), si attestano i rimborsi dei fondi guadagnati per le attività eseguite supporto per la sensibilizzazione ai prodotti Microsoft. Inviare un'attestazione direttamente dal centro per i partner. Non è più necessario che Microsoft esamini il tuo piano di attività pima di inviare una richiesta. Invia la richiesta e la documentazione necessaria entro la scadenza del periodo di attestazione che è 45 giorni dopo la fine del periodo di utilizzo. 
 
 Un'attestazione con esito positivo include:
 
@@ -36,10 +36,10 @@ Un'attestazione con esito positivo include:
 
 |**Per eseguire questa operazione**   |**Leggi**   |
 |-----------------|:--------------------------------------|
-|Inviare una richiesta e includere la documentazione corretta|[Create and manage an incentives program activity claim](create-incentives-claims.md)|
-|Dopo aver inviato la richiesta, gestire le richieste di documentazione aggiuntiva|[Create and manage an incentives program activity claim](create-incentives-claims.md)  |
-|Assicurarsi di conoscere i requisiti di base per l'attestazione di attività|[Know the incentives claims core requirements](core-requirements.md)   |
-|Scoprire i dettagli del programma completo di incentivi|[Partner Incentives Co-op Guidebook](https://assets.microsoft.com/coop-guidebook.pdf)
-|Create a customer association and submit a claim |[Create a customer association using the CPOR model](submit-osa-claim.md)|
+|Inviare una richiesta e includere la documentazione corretta|[Creare e gestire un'attestazione di attività del programma incentives](create-incentives-claims.md)|
+|Dopo aver inviato la richiesta, gestire le richieste di documentazione aggiuntiva|[Creare e gestire un'attestazione di attività del programma incentives](create-incentives-claims.md)  |
+|Assicurarsi di conoscere i requisiti di base per l'attestazione di attività|[Conosce i requisiti principali per le attestazioni di incentivi](core-requirements.md)   |
+|Scoprire i dettagli del programma completo di incentivi|[Guida alla co-op degli incentivi per i partner](https://assets.microsoft.com/coop-guidebook.pdf)
+|Creare un'associazione cliente e inviare un'attestazione |[Creare un'associazione cliente usando il modello CPOR](submit-osa-claim.md)|
                                                                                  
                                    

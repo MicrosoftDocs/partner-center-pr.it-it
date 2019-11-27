@@ -24,18 +24,18 @@ ms.locfileid: "74253476"
 
 Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ultimo dovrà concederti le autorizzazioni di amministratore per tale servizio. Per ottenere le autorizzazioni di amministratore, invia al cliente una richiesta di relazione come rivenditore. Dopo che il cliente ha approvato la richiesta, potrai accedere al portale di amministrazione del servizio e gestire il servizio per conto del cliente. 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire con te una relazione come rivenditore
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire con l'utente una relazione come rivenditore
 
 1.  Selezionare **Customers** e quindi selezionare **Richiedi una relazione Reseller**.
 
 2.  Nella pagina successiva esaminare la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
 
     >[!IMPORTANT]
-    >Il testo nel messaggio di posta elettronica può essere modificato, ma assicurati di includere il collegamento poiché è personalizzato per collegare il cliente direttamente al tuo account. 
+    >Il testo nel messaggio di posta elettronica può essere modificato, ma è necessario assicurarsi di includere il collegamento, in quanto personalizzato, per collegare il cliente direttamente al proprio account. 
     
-3.  Selezionare **fine** al termine di questo passaggio.
+3.  Al termine di questo passaggio, seleziona **Fatto**.
 
-4.  Invia il messaggio di posta elettronica al cliente.
+4.  Inviare il messaggio di posta elettronica al cliente.
 
 5.  Dopo aver accettato l'invito, il cliente verrà visualizzato nella pagina **Clienti** e tu potrai effettuare il provisioning e gestire il servizio per il cliente da questa pagina.
 
@@ -44,7 +44,7 @@ Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ulti
 >[!IMPORTANT]  
 >I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questa situazione, se il cliente richiede assistenza, contattare il supporto tecnico Microsoft per aprire una richiesta di assistenza per conto del cliente.
 
-I clienti possono scoprire quale partner hanno privilegi di amministratore per il tenant dall'interno del portale di amministrazione di Office 365. A tale scopo, effettua le seguenti operazioni:
+I clienti possono scoprire quale partner hanno privilegi di amministratore per il tenant dall'interno del portale di amministrazione di Office 365. A tale scopo, effettuare le seguenti operazioni:
 
 1. Il cliente deve accedere al portale di amministrazione di Office 365 come amministratore globale.
 

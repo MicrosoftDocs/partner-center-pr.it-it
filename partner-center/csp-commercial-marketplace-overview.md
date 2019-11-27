@@ -1,13 +1,13 @@
 ---
-title: Commercial marketplace overview for Cloud Solution Providers | Partner Center
+title: Panoramica sul Marketplace commerciale per i provider di soluzioni cloud | Centro per i partner
 ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: In Partner Center, learn how to sell customers subscriptions to Software as a Service (SaaS) offers from Independent Software Vendors (ISVs) in the marketplace.
+description: Nel centro per i partner, Scopri come vendere le sottoscrizioni dei clienti alle offerte SaaS (software as a Service) di fornitori di software indipendenti (ISV) nel Marketplace.
 author: MicheleHope
 ms.author: v-mihope
-keywords: subscriptions, Marketplace, third party, ISV, SaaS, license
+keywords: sottoscrizioni, Marketplace, terze parti, ISV, SaaS, licenza
 ms.localizationpriority: medium
 ms.openlocfilehash: ee1b32028cb24e20675aa0520837af0c1c72b8a5
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -16,75 +16,75 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253789"
 ---
-# <a name="commercial-marketplace-overview"></a>Commercial marketplace overview
+# <a name="commercial-marketplace-overview"></a>Panoramica sul Marketplace commerciale
 
 **Si applica a**
 
 - Centro per i partner
 - Partner aderenti al programma CSP
 
-Being a partner in the Cloud Solution Provider (CSP) program allows you to bundle and sell Microsoft products along with solutions published by third-party, Independent Software Vendors (ISVs). Being able to bundle solutions in this way lets you better serve end customers and grow your CSP services business.
+Essendo un partner del programma Cloud Solution Provider (CSP), consente di aggregare e vendere prodotti Microsoft insieme a soluzioni pubblicate da fornitori di software indipendenti (ISV) di terze parti. La possibilità di aggregare le soluzioni in questo modo ti permette di offrire al meglio i clienti finali e di ampliare il tuo business dei servizi CSP.
 
-As a partner in the CSP program, you can use Partner Center to purchase many ISV solutions from Microsoft's commercial marketplace. This gives you and your customers several key advantages:
+Come partner del programma CSP, è possibile usare il centro per i partner per acquistare numerose soluzioni ISV dal Marketplace commerciale di Microsoft. Ciò offre ai clienti diversi vantaggi principali:
 
-- Access to a catalog of software solutions optimized for Microsoft technologies and environments.
-- Simplified contracting and shortened procurement cycle.
-- A single integration with Partner Center APIs. (Such integration further enables access to a catalog of ISV solutions, lowers the cost of operations and engineering, and streamlines management of multiple vendor subscriptions and billing through a single provider.)
-- Streamlined deployment and provisioning in the customer's Azure tenant (for Virtual Machine-based solutions).
-- Reduces potential challenges with direct ISV purchase or contracting, Microsoft solution configuration and integration, and the need to manage or consolidate recurring invoices from multiple vendors.
+- Accesso a un catalogo di soluzioni software ottimizzate per le tecnologie e gli ambienti Microsoft.
+- Contratto semplificato e ciclo di approvvigionamento abbreviato.
+- Una singola integrazione con le API del centro per i partner. Questa integrazione consente inoltre l'accesso a un catalogo di soluzioni ISV, riduce il costo delle operazioni e della progettazione e semplifica la gestione delle sottoscrizioni e della fatturazione di più fornitori tramite un singolo provider.
+- Distribuzione semplificata e provisioning nel tenant di Azure del cliente (per le soluzioni basate su macchine virtuali).
+- Riduce le potenziali problemi con l'acquisto o il contratto di ISV diretto, la configurazione e l'integrazione delle soluzioni Microsoft e la necessità di gestire o consolidare fatture ricorrenti da più fornitori.
 
-## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>Overview of CSP offers in the commercial marketplace
+## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>Panoramica delle offerte CSP nel Marketplace commerciale
 
-If you are a partner in the CSP program, there are many commercial marketplace activities you may want to perform in regards to ISV offers. See the following table to learn more about each activity.
+Se si è un partner del programma CSP, è possibile che si desideri eseguire numerose attività commerciali sul mercato per quanto riguarda le offerte ISV. Per ulteriori informazioni su ogni attività, vedere la tabella seguente.
 
-|**If you want to**  |**Read**   |
+|**Se si desidera**  |**Lettura**   |
 |:------------------------------------|:------------------|
-|Learn how to view or search for available offers, pricing, product details, or publisher contact information | [Discover offers](csp-commercial-marketplace-discover.md) | 
-|Learn how to purchase and deploy an offer   | [Purchase offers](csp-commercial-marketplace-purchase.md)   | 
-|Learn how to cancel or renew a subscription or add or remove seats  | [Manage offers](csp-commercial-marketplace-manage.md) |
-|Learn about how billing works for commercial marketplace purchases | [Understand billing](csp-commercial-marketplace-billing.md) |
-|Learn about who is responsible for which types of support for ISV purchases | [Understand support](csp-commercial-marketplace-support.md) |
-|Learn about contracts and responsibilities of CSP partners and ISVs in the commercial marketplace | [Understand contracting](csp-commercial-marketplace-contracting.md) |
+|Scopri come visualizzare o cercare offerte disponibili, prezzi, dettagli sul prodotto o informazioni di contatto dell'editore | [Scopri le offerte](csp-commercial-marketplace-discover.md) | 
+|Informazioni su come acquistare e distribuire un'offerta   | [Offerte di acquisto](csp-commercial-marketplace-purchase.md)   | 
+|Informazioni su come annullare o rinnovare una sottoscrizione o aggiungere o rimuovere postazioni  | [Gestisci offerte](csp-commercial-marketplace-manage.md) |
+|Informazioni sul funzionamento della fatturazione per gli acquisti nel Marketplace commerciale | [Informazioni sulla fatturazione](csp-commercial-marketplace-billing.md) |
+|Informazioni sugli utenti responsabili dei tipi di supporto per gli acquisti ISV | [Informazioni sul supporto](csp-commercial-marketplace-support.md) |
+|Informazioni sui contratti e sulle responsabilità dei partner CSP e degli ISV nel Marketplace commerciale | [Informazioni sul contratto](csp-commercial-marketplace-contracting.md) |
 
 > [!NOTE]
-> This overview describes how partners in the CSP program can use certain commercial marketplace features in Partner Center. In contrast to partners in the CSP program, ISV publishers have a different marketplace role. They also have different Commercial Marketplace features available to them within Partner Center. To learn more about the role of ISV publishers, see the [Azure Commercial Marketplace Overview](https://docs.microsoft.com/azure/marketplace/partner-center-portal/commercial-marketplace-overview).
+> Questa panoramica descrive in che modo i partner del programma CSP possono usare determinate funzionalità del Marketplace commerciale nel centro per i partner. A differenza dei partner del programma CSP, i Publisher ISV hanno un ruolo Marketplace diverso. Dispongono anche di diverse funzionalità di Marketplace commerciali disponibili all'interno del centro per i partner. Per ulteriori informazioni sul ruolo degli editori ISV, vedere la [panoramica sul Marketplace commerciale di Azure](https://docs.microsoft.com/azure/marketplace/partner-center-portal/commercial-marketplace-overview).
 
-## <a name="where-to-complete-commercial-marketplace-activities"></a>Where to complete commercial marketplace activities
+## <a name="where-to-complete-commercial-marketplace-activities"></a>Dove completare le attività commerciali del Marketplace
 
-As a partner in the CSP program, you can complete many commercial marketplace activities for ISV SaaS offers directly from either the Partner Center [dashboard](https://partner.microsoft.com/dashboard) or by using [Partner Center APIs](https://docs.microsoft.com/partner-center/develop/). To complete other marketplace activities, however, you may need to go to:
+Come partner del programma CSP, è possibile completare molte attività commerciali del Marketplace per le offerte SaaS ISV direttamente dal [Dashboard](https://partner.microsoft.com/dashboard) del centro per i partner o tramite le [API del centro](https://docs.microsoft.com/partner-center/develop/)per i partner. Per completare altre attività del Marketplace, tuttavia, potrebbe essere necessario passare a:
 
-- The [Microsoft Azure management portal](https://portal.azure.com/)
+- [Portale di gestione di Microsoft Azure](https://portal.azure.com/)
 
     Oppure
 
-- A third-party ISV publisher's system or website
+- Sistema o sito Web di un editore ISV di terze parti
 
-Much of where you go to complete activities begins with the type of offer you choose. Partners in the CSP program can currently transact two types of offers with third-party ISV publishers:
+Gran parte della posizione in cui si passa a attività complete inizia con il tipo di offerta scelto. I partner del programma CSP possono attualmente effettuare transazioni in due tipi di offerte con editori ISV di terze parti:
 
-1. License-based SaaS offers  
-2. Usage-based offers (including offers based on virtual machines, containers or Azure applications)
+1. Offerte SaaS basate su licenza  
+2. Offerte basate sull'utilizzo (incluse le offerte basate su macchine virtuali, contenitori o applicazioni Azure)
 
-Go to [Billing Basics](billing-basics.md) to learn more about how billing differs between license-based offers and usage-based offers.  
+Per ulteriori informazioni sulla differenza tra le offerte basate sulle licenze e le offerte basate sull'utilizzo, vedere [nozioni](billing-basics.md) di base sulla fatturazione.  
 
-To learn where to complete a specific marketplace activity for license-based or usage-based ISV offers, see the following tables.
+Per informazioni su dove completare un'attività specifica del Marketplace per le offerte ISV basate sulle licenze o sull'utilizzo, vedere le tabelle seguenti.
 
-|**For license-based SaaS offers from ISVs**  |**Usare**  |
+|**Per le offerte SaaS basate su licenze degli ISV**  |**Usare**  |
 |:------------------------------------|:------------------|
-|To discover or search for available offers  | Partner Center dashboard or Partner Center APIs  |
-|To purchase an offer  | Partner Center dashboard or Partner Center APIs  |
-|To deploy a purchased offer (account setup, software management or deployment in customer's AAD tenant)  | ISV publisher's system or website  |
-|To cancel/renew offer subscriptions or add/remove seats | Partner Center dashboard or Partner Center APIs  |
-|To create users or manage permissions  | ISV publisher's system or website  |
+|Per individuare o cercare offerte disponibili  | Dashboard del centro partner o API del centro per i partner  |
+|Per acquistare un'offerta  | Dashboard del centro partner o API del centro per i partner  |
+|Per distribuire un'offerta acquistata (configurazione account, gestione software o distribuzione nel tenant AAD del cliente)  | Sistema o sito Web dell'editore ISV  |
+|Per annullare/rinnovare le sottoscrizioni dell'offerta o aggiungere/rimuovere postazioni | Dashboard del centro partner o API del centro per i partner  |
+|Per creare utenti o gestire le autorizzazioni  | Sistema o sito Web dell'editore ISV  |
 
-|**For usage-based offers from ISVs**  |**Usare**  |
+|**Per le offerte basate sull'utilizzo dagli ISV**  |**Usare**  |
 |:------------------------------------|:------------------|
-|To discover or search for available offers  | Partner Center dashboard, Partner Center APIs, or Azure portal  |
-|To purchase an offer  | Portale di Azure  |
-|To deploy a purchased offer (account setup, software management or deployment in customer's AAD tenant)  | Portale di Azure  |
-|To cancel/renew offer subscriptions or add/remove seats | Portale di Azure  |
-|To create users or manage permissions  | Portale di Azure  |
+|Per individuare o cercare offerte disponibili  | Dashboard del centro per i partner, API del centro per i partner o portale di Azure  |
+|Per acquistare un'offerta  | Portale di Azure  |
+|Per distribuire un'offerta acquistata (configurazione account, gestione software o distribuzione nel tenant AAD del cliente)  | Portale di Azure  |
+|Per annullare/rinnovare le sottoscrizioni dell'offerta o aggiungere/rimuovere postazioni | Portale di Azure  |
+|Per creare utenti o gestire le autorizzazioni  | Portale di Azure  |
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Discover or view commercial marketplace offers](csp-commercial-marketplace-discover.md)
-- [Purchase commercial marketplace offers](csp-commercial-marketplace-purchase.md)
+- [Scopri o Visualizza le offerte del Marketplace commerciale](csp-commercial-marketplace-discover.md)
+- [Acquista offerte per Marketplace commerciali](csp-commercial-marketplace-purchase.md)

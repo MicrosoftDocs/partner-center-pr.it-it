@@ -1,12 +1,12 @@
 ---
-title: Common monthly billing scenarios | Partner Center
+title: Scenari di fatturazione mensili comuni | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
-description: Common scenarios in Partner Center when you use monthly billing (such as adding new subscriptions, changing license quantity, and suspending subscriptions.)
+description: Scenari comuni nel centro per i partner quando si usa la fatturazione mensile, ad esempio l'aggiunta di nuove sottoscrizioni, la modifica della quantità di licenze e la sospensione delle sottoscrizioni.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, orders, usage, monthly billing, subscriptions, reconciliation file
+Keywords: fatturazione, pagamenti, ordini, utilizzo, fatturazione mensile, sottoscrizioni, file di riconciliazione
 ms.localizationpriority: medium
 ms.openlocfilehash: 95a535ecdd20614e8809d6304609b1a678859efc
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,11 +15,11 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389619"
 ---
-# <a name="monthly-billing-scenarios"></a>Monthly billing scenarios
+# <a name="monthly-billing-scenarios"></a>Scenari di fatturazione mensili
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable if you use monthly billing in Partner Center.
+Questi [scenari di fatturazione comuni](common-billing-scenarios.md) di esempio sono applicabili se si usa la fatturazione mensile nel centro per i partner.
 
-## <a name="new-monthly-subscription"></a>New monthly subscription
+## <a name="new-monthly-subscription"></a>Nuova sottoscrizione mensile
 
 La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione mensile. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo le seguenti righe di fatturazione:
 
@@ -33,7 +33,7 @@ Il 15 febbraio il file di riconciliazione basata su licenza conterrà solo la se
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/2/2018         |12/3/2018    |Tariffa periodica   |4,00       |1        |4,00 |
 
-## <a name="change-license-quantity"></a>Change license quantity
+## <a name="change-license-quantity"></a>Modificare la quantità di licenze
 
 La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione mensile. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo le seguenti righe di fatturazione:
 
@@ -60,7 +60,7 @@ Ci sono 12 giorni nel periodo di ripartizione proporzionale 1/2/2018 – 12/2/20
 
 Prezzo unitario ripartito = 1,54 = 12 x 0,129
 
-## <a name="suspend-before-30-days"></a>Suspend before 30 days
+## <a name="suspend-before-30-days"></a>Sospendi prima di 30 giorni
 
 La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione mensile. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo le seguenti righe di fatturazione:
 
@@ -68,13 +68,13 @@ La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova 
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/1/2018         |12/2/2018    |Tariffa periodica   |4,00       |1        |4,00    |
 
-On February 1 you suspend a subscription. Il 15 febbraio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
+Il 1 ° febbraio viene sospesa una sottoscrizione. Il 15 febbraio il file di riconciliazione basata su licenza conterrà solo la seguente riga di fatturazione:
 
 |Data inizio addebito |Data fine addebito |Tipo di addebito |Prezzo unitario |Quantità |Importo |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/2/2018|Commissione di annullamento|-4,00|1|-4,00
 
-## <a name="suspend-after-30-days"></a>Suspend after 30 days
+## <a name="suspend-after-30-days"></a>Sospendi dopo 30 giorni
 
 La data di fatturazione è il 15 di ogni mese. Il 13 gennaio acquisti una nuova sottoscrizione con una licenza per $4 al mese e selezioni la fatturazione mensile. Il 15 gennaio il file di riconciliazione basata su licenza conterrà solo le seguenti righe di fatturazione:
 
@@ -100,4 +100,4 @@ Prezzo unitario = giorni nel periodo di servizio x prezzo giornaliero x numero d
 
 Il periodo di annullamento ha una durata di 12 giorni 1/3/2018 - 12/3/2018.
 
-Therefore, the unit price = -1.716 (12 x 0.143 x (-1)).
+Pertanto, il prezzo unitario =-1,716 (12 x 0,143 x (-1)).

@@ -63,7 +63,7 @@ Con una combinazione non corrispondente di prezzi interessanti e flessibilità d
 #### <a name="isv-annual-subscriptions"></a>Sottoscrizioni annuali ISV
 -   Soluzione VMware di Azure di CloudSimple
 
-## <a name="getting-started"></a>Attività iniziali
+## <a name="getting-started"></a>Introduzione
 
 Per comprendere come presentare le prenotazioni di Azure ai tuoi clienti e renderli operativi quanto prima, ti consigliamo di attenerti alle istruzioni seguenti:
 

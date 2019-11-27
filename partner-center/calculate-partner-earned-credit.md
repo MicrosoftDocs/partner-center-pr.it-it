@@ -28,7 +28,7 @@ I partner che possiedono la gestione operativa delle attività IT di 24 ore su 7
 
 - Il provider indiretto sarà idoneo per PEC se l'utente o il rivenditore indiretto o entrambi hanno il controllo operativo e la gestione di 24x7 per le risorse di Azure del cliente in CSP.
 
-- PEC è associato al consumo fatturato (addebitabile) delle proprietà di Azure del cliente in CSP gestito dal partner. 
+- Il credito ottenuto dai partner è associato all'utilizzo (addebitabile) fatturato dell'ambiente Azure del cliente in CSP gestito dal partner. 
 
 - PEC è disponibile solo per i partner in CSP fatturati da Microsoft (provider indiretto e Direct Bill partner).
 

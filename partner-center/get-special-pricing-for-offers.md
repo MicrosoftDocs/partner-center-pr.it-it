@@ -16,7 +16,7 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253645"
 ---
-# <a name="sell-to-specialized-industries"></a>Vendere in settori specifici
+# <a name="sell-to-specialized-industries"></a>Vendere in settori specializzati
 
 **Si applica a**
 
@@ -29,8 +29,8 @@ Microsoft offre prezzi ridotti speciali per gruppi selezionati di clienti, tra c
 |**Prezzo speciale**   |**Qualifiche richieste rivenditore**   |**Qualifiche richieste dal cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Formazione   |Diventare un [venditore autorizzato per il settore della formazione](https://www.mepn.com).   | Essere un [Qualified Education User](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Governo   |Per vendere Azure, effettuare la registrazione usando il [modulo di convalida del cloud Microsoft US Government](https://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenza a enti pubblici, non è richiesta alcuna qualificazione.|   Nessuna|
-|No profit  |Nessuna<br>Devi avere un tenant di Azure Active Directory no profit.<br>Scopri di più sulle [offerte speciali per le organizzazioni no profit](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Iscriviti tramite il [programma no profit Microsoft](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
+|Governo   |Per vendere Azure, effettuare la registrazione usando il [modulo di convalida del cloud Microsoft US Government](https://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenza a enti pubblici, non è richiesta alcuna qualificazione.|   Nessuno|
+|No profit  |Nessuno<br>Devi avere un tenant di Azure Active Directory no profit.<br>Scopri di più sulle [offerte speciali per le organizzazioni no profit](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Iscriviti tramite il [programma no profit Microsoft](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>Controllare le tue qualificazioni come rivenditore
@@ -51,7 +51,7 @@ I passaggi seguenti sono applicabili solo ai provider indiretti e ai partner di 
 
 Una volta che tu e il tuo cliente siete qualificati per un programma di offerte speciali, seguite la normale procedura per [creare una nuova sottoscrizione](create-a-new-subscription.md). Nella sezione **Catalogo** della pagina **Nuova sottoscrizione** seleziona un settore specializzato per vedere le offerte speciali che puoi vendere.
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
 [Vendi Minecraft: Education Edition sottoscrizioni a Education Customers](minecraft-subscriptions.md)
 

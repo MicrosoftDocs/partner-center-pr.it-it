@@ -1,13 +1,13 @@
 ---
-title: Taxes and tax exemptions | Partner Center
+title: Tasse e esenzioni fiscali | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
-description: Understand tax responsibilities and submit tax exemptions for your CSP sales.
+description: Comprendere le responsabilità fiscali e inviare esenzioni fiscali per le vendite CSP.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-keywords: tax, tax exemption, vat, reseller, billing
+keywords: fiscali, esenzioni fiscali, IVA, rivenditore, fatturazione
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
@@ -24,79 +24,79 @@ Si applica a:
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
-The Cloud Solution Provider (CSP) program is a sales channel focused on partner resale of products. As a result, Microsoft is not always required to charge sales tax on partner invoices. The rules vary by country and/or region. You can review [country-specific and region-specific details for tax exemptions](#country-and-region-tax-details).
+Il programma Cloud Solution Provider (CSP) è un canale di vendita incentrato sulla rivendita dei prodotti dei partner. Di conseguenza, Microsoft non è sempre necessario addebitare le imposte sulle vendite per le fatture del partner. Le regole variano in base al paese e/o all'area geografica. È possibile esaminare [i dettagli specifici del paese e dell'area per le esenzioni fiscali](#country-and-region-tax-details).
 
-Partners should work with their tax advisor to [file tax exemptions](#file-tax-exemptions) based on their locations and where their customers are based.
+I partner dovrebbero collaborare con il Tax Advisor per [archiviare esenzioni fiscali](#file-tax-exemptions) in base alle rispettive posizioni e alla posizione in cui si basano i clienti.
 
-## <a name="country-and-region-tax-details"></a>Country and region tax details
+## <a name="country-and-region-tax-details"></a>Dettagli fiscali paese e area geografica
 
-Specific tax-related information is available for the following countries and regions: [Canada](#canada), [the European Union](#european-union), [South Africa](#south-africa), [Turkey](#turkey), and [the United States](#united-states). For Taiwan and Korea, see [tax receipts details](#tax-receipts-and-daf).
+Sono disponibili informazioni specifiche relative alle imposte per i paesi e le aree geografiche seguenti: [Canada](#canada), [Unione europea](#european-union), [Sudafrica](#south-africa), [Turchia](#turkey)e [Stati Uniti](#united-states). Per Taiwan e Corea, vedere le [informazioni fiscali ricevute](#tax-receipts-and-daf).
 
-If you're in another country or region that charges taxes, see [the information for other regions](#other-regions).
+Se ci si trova in un altro paese o regione che addebita le tasse, vedere [le informazioni per le altre aree](#other-regions).
 
-For additional questions, [request support in Partner Center](#support).
+Per altre domande, [richiedere supporto nel centro per i partner](#support).
 
 ### <a name="canada"></a>Canada
 
-La maggior parte dei rivenditori non è esente da GST/HST/QST. Consult your tax advisor to determine whether you are qualified for exemption, and what documentation you should provide to Microsoft.
+La maggior parte dei rivenditori non è esente da GST/HST/QST. Consultare il Tax Advisor per determinare se l'utente è qualificato per l'esenzione e la documentazione da fornire a Microsoft.
 
-For a BC PST Exemption, file a tax exemption as described. Fornisci il numero di BC PST oppure un *Certificate of Exemption General* completo e firmato.
+Per un'esenzione da BC PST, archiviare un'esenzione fiscale come descritto. Fornisci il numero di BC PST oppure un *Certificate of Exemption General* completo e firmato.
 
 ### <a name="european-union"></a>Unione europea
 
-Negli stati membri dell'Unione europea i partner devono fornire il numero di partita IVA valido per l'inversione contabile e la fatturazione appropriata. The VAT number must be accepted as valid.
+Negli stati membri dell'Unione europea i partner devono fornire il numero di partita IVA valido per l'inversione contabile e la fatturazione appropriata. Il numero IVA deve essere accettato come valido.
 
-Microsoft does not support credit and re-bill. Before you sell any subscriptions, you must [register your VAT ID number](organization-tax-info.md) in Partner Center.
+Microsoft non supporta il credito e la fatturazione. Prima di vendere le sottoscrizioni, è necessario [registrare il numero di ID IVA](organization-tax-info.md) nel centro per i partner.
 
 ### <a name="south-africa"></a>Sudafrica
 
-Microsoft now applies the standard VAT on digital content and services purchased by partners in South Africa. To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).
+Microsoft ora applica l'IVA standard ai contenuti digitali e ai servizi acquistati dai partner in Sudafrica. Per escludere l'IVA dalle fatture e gestirla autonomamente, è necessario aggiornare il profilo di fatturazione del partner [inviando a Microsoft il numero di ID IVA](organization-tax-info.md).
 
 ### <a name="turkey"></a>Turchia
 
-Microsoft now applies the standard VAT on digital content and services purchased by partners in Turkey. To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).
+Microsoft ora applica l'IVA standard ai contenuti digitali e ai servizi acquistati dai partner in Turchia. Per escludere l'IVA dalle fatture e gestirla autonomamente, è necessario aggiornare il profilo di fatturazione del partner [inviando a Microsoft il numero di ID IVA](organization-tax-info.md).
 
 ### <a name="united-states"></a>Stati Uniti
 
 Tutti i rivenditori negli Stati Uniti devono fornire la documentazione di esenzione IVA entro 30 giorni dall'accettazione del contratto per i rivenditori Microsoft. Ogni stato ha certificati di esenzione diversi per la rivendita. Rivolgiti al tuo consulente fiscale per determinare la documentazione rilevante per la tua sede legale e gli stati registrati.
 
-This may include resale exemption certificates that work across multiple states such as the *Streamline Sales* and *Use Tax Agreement Certificate of Exemption* or the *MTC Uniform Sales & Use Tax Exemption Certificate*.
+Questo può includere i certificati di esenzione per la vendita che interagiscono tra più Stati, ad esempio il certificato di riduzione delle *vendite* e l' *utilizzo del contratto di licenza dell'esenzione* oppure il *& uniforme del MTC di utilizzo del certificato*di esenzione.
 
 ### <a name="other-regions"></a>Altre aree geografiche
 
-If you are in another country or region that charges taxes, [request support in Partner Center](#support) for your questions.
+Se ci si trova in un altro paese o regione che addebita le imposte, [richiedere il supporto in Partner Center](#support) per le proprie domande.
 
-## <a name="tax-receipts-and-daf"></a>Tax receipts and DAF
+## <a name="tax-receipts-and-daf"></a>Ricevute fiscali e DAF
 
 Il tempo di elaborazione dopo la generazione della fattura per le ricevute fiscali (per Taiwan o Corea) o DAF è in genere di due settimane.
 
 ## <a name="file-tax-exemptions"></a>Registrare le esenzioni fiscali
 
-Before you file a tax exemption, find your **Microsoft ID** and **MPN ID** to include in the support ticket:
+Prima di archiviare un'esenzione fiscale, trovare l' **ID Microsoft** e l' **ID MPN** da includere nel ticket di supporto:
 
-1. Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the **Settings** menu (gear icon), choose **Partner Settings**.
-3. On the **Account settings** page, choose **Organization profile** in the dashboard menu.
-4. Note your **Microsoft ID**.
-5. On the same page, choose **Partner profile** in the dashboard menu.
-6. Note your **MPN ID**.
+1. Accedere al [Dashboard del centro per i partner](https://partner.microsoft.com/dashboard/).
+2. Nel menu **Impostazioni** (icona a forma di ingranaggio) scegliere **Impostazioni partner**.
+3. Nella pagina **Impostazioni account** scegliere **profilo organizzazione** dal menu Dashboard.
+4. Prendere nota dell' **ID Microsoft**.
+5. Nella stessa pagina scegliere **profilo partner** dal menu Dashboard.
+6. Prendere nota dell' **ID MPN**.
 
-Then, create a support ticket for Microsoft with your tax exemption information:
+Quindi, creare un ticket di supporto per Microsoft con le informazioni sull'esenzione fiscale:
 
-1. In the dashboard menu, under **Support**, choose **Partner support requests**.
-2. On the **Partner request** page, choose **New request**. (You can also view your open and closed support requests later on this page.)
-3. On the **Basics** step, under **CSP - billing and payments**, choose **Select an issue type** and select **Tax exemption request**.
-4. On the **Solutions** step, under **Do you need more help?** , choose **Yes**.
-5. On the **Details** step, fill out the **Issue details** form. Be sure to:
+1. Nel menu Dashboard, in **supporto**, scegliere **richieste di supporto partner**.
+2. Nella pagina **richiesta partner** scegliere **nuova richiesta**. È anche possibile visualizzare le richieste di supporto aperte e chiuse più avanti in questa pagina.
+3. Nel passaggio **nozioni di base** , in **CSP-fatturazione e pagamenti**scegliere **selezionare un tipo di problema** e selezionare **richiesta di esenzione fiscale**.
+4. Nel passaggio **soluzioni** , in sono **necessarie altre informazioni?** , scegliere **Sì**.
+5. Nel passaggio **Dettagli** compilare il modulo dei **Dettagli del problema** . Assicurarsi di:
 
-    - Fill out all required fields.
-    - Include your **Microsoft ID** and **MPN ID** in the **Details** field.
-    - Include any supporting documentation to your ticket in the attachments field.
+    - Compilare tutti i campi obbligatori.
+    - Includere l' **ID Microsoft** e l' **ID MPN** nel campo dei **Dettagli** .
+    - Includere la documentazione di supporto per il ticket nel campo allegati.
 
-6. Choose **Submit** to send in your support request. Microsoft will email you back for more information.
+6. Scegliere **Invia** per inviare la richiesta di supporto. Microsoft ti invia un messaggio di posta elettronica per ottenere ulteriori informazioni.
 
-## <a name="support"></a>Supporto tecnico
+## <a name="support"></a>Supporto
 
-For other questions about tax exemptions and refunds, request support in Partner Center. Microsoft ti contatterà per risolvere il problema nel giro di due settimane.
+Per altre domande sulle esenzioni fiscali e i rimborsi, richiedere supporto nel centro per i partner. Microsoft ti contatterà per risolvere il problema nel giro di due settimane.
 
-For other tax-related documentation needs, please also request service in Partner Center.
+Per altre esigenze relative alla documentazione fiscale, richiedere anche il servizio nel centro per i partner.

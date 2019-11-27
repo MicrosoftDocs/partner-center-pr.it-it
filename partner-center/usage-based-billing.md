@@ -1,11 +1,11 @@
 ---
-title: Usage-based billing | Partner Center
+title: Fatturazione basata sull'utilizzo | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
-Description: Information on usage-based billing in Partner Center, where you're billed for monthly usage rates.
+Description: Informazioni sulla fatturazione basata sull'utilizzo nel centro per i partner, in cui vengono addebitate le tariffe di utilizzo mensili.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, usage-based, usage
+keywords: fatturazione, utilizzo in base all'utilizzo
 ms.localizationpriority: medium
 ms.openlocfilehash: c92c6f9014a40a0f8804ba83ba7cc85939e90281
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -19,27 +19,27 @@ ms.locfileid: "74389739"
 - Centro per i partner
 - Partner aderenti al programma CSP
 
-When you buy online services such as Azure subscriptions, you’re billed for monthly usage rates. Usage-based services, such as Azure, are billed according to metered rates, based on consumption.
+Quando si acquistano Servizi online, ad esempio le sottoscrizioni di Azure, vengono addebitate le tariffe di utilizzo mensili. I servizi basati sull'utilizzo, ad esempio Azure, vengono fatturati in base alle tariffe a consumo, in base al consumo.
 
-Some Microsoft products and services use a "pay as you go" billing model, in which you are billed only for services used. For example, Microsoft Azure uses this model. 
+Alcuni prodotti e servizi Microsoft usano un modello di fatturazione con pagamento in base al consumo, in cui vengono addebitati solo i servizi usati. Ad esempio, Microsoft Azure utilizza questo modello. 
 
-## <a name="usage-billing-frequency"></a>Usage billing frequency
+## <a name="usage-billing-frequency"></a>Frequenza di fatturazione dell'utilizzo
 
-Only **monthly billing** is available for usage-based products. For more information on monthly billing, see [Monthly and annual billing differences](billing-annual-monthly.md).
+Solo la **fatturazione mensile** è disponibile per i prodotti basati sull'utilizzo. Per altre informazioni sulla fatturazione mensile, vedere [differenze di fatturazione mensili e annuali](billing-annual-monthly.md).
 
-Usage-based subscriptions are billed monthly, in arrears, on the **subscription anniversary date**. For example, if the subscription anniversary date is the 15th, you will be charged on January 15th for the service period of December 15th to January 14th. You will be charged again on February 15th for the service period of January 15th to February 14th. 
+Le sottoscrizioni basate sull'utilizzo vengono fatturate mensilmente, in modo arretrato, sulla **Data di ricorrenza della sottoscrizione**. Se, ad esempio, la data di ricorrenza della sottoscrizione è la 15, verrà addebitato il 15 gennaio per il periodo di servizio del 15 dicembre al 14 gennaio. L'addebito verrà addebitato il 15 febbraio per il periodo di servizio del 15 gennaio al 14 febbraio. 
 
 ## <a name="usage-charges"></a>Costi di utilizzo
 
-The charges that are generated on the subscription anniversary date will appear on the following invoice and [reconciliation file](usage-based-recon-files.md).
+Gli addebiti generati nella data di ricorrenza della sottoscrizione verranno visualizzati nella fattura e nel [file di riconciliazione](usage-based-recon-files.md)seguenti.
 
-You may occasionally notice that some usage charges are missing from your invoice, or that usage from a previous month is charged in the current month’s invoice. This is not an error; it simply means that the service was timestamped after the services occurred. Usage reported within 24 hours of the end of the billing cycle will appear on the next month’s bill.
+Talvolta si può notare che alcuni costi di utilizzo non sono presenti nella fattura o che l'utilizzo di un mese precedente viene addebitato nella fattura del mese corrente. Non si tratta di un errore. indica semplicemente che il servizio è stato timestamp dopo che i servizi si sono verificati. L'utilizzo riportato entro 24 ore dalla fine del ciclo di fatturazione verrà visualizzato nella fattura del mese successivo.
 
-## <a name="cancelling-usage-based-subscriptions"></a>Cancelling usage-based subscriptions
+## <a name="cancelling-usage-based-subscriptions"></a>Annullamento di sottoscrizioni basate sull'utilizzo
 
-You can suspend usage-based subscriptions at any time.
+È possibile sospendere le sottoscrizioni basate sull'utilizzo in qualsiasi momento.
 
-## <a name="pricing-for-usage"></a>Pricing for usage
+## <a name="pricing-for-usage"></a>Prezzi per l'utilizzo
 
 Il listino prezzi CSP di Azure viene pubblicato mensilmente e si trova nella pagina Prezzi e offerte di vendita del Centro per i partner. Tieni presente che i prezzi possono cambiare ogni giorno e vengono riportati nella scheda Cronologia modifiche del listino prezzi.
 

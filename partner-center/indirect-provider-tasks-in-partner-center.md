@@ -81,7 +81,7 @@ Per le sottoscrizioni esistenti, se si decide di utilizzare un rivenditore indir
 
 - Nella pagina Dettagli sottoscrizione, nel campo **rivenditore (ID MPN)** , aggiungere il rivenditore con cui si desidera lavorare. In questo modo si garantisce che il rivenditore riceverà gli incentivi appropriati.
 
-| **Per eseguire questa operazione** | **Eseguire questa operazione** | **Where** |
+| **Per eseguire questa operazione** | **Eseguire questa operazione** | **In cui** |
 |   ------------------   |   -------   |   -----   |
 | Consentire al rivenditore di gestire l'account di un cliente e disporre delle autorizzazioni di amministratore per gestire le sottoscrizioni | Associare un rivenditore a un account cliente quando si aggiunge un nuovo cliente | Nella pagina **Nuovo cliente** |
 |Abilitare il rivenditore alla gestione dell'account di un cliente di Azure|Associare un rivenditore a un account cliente di Azure quando si aggiunge un nuovo cliente|Nel **portale di servizio di Azure** seleziona [Impostazioni utente](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) per assegnare al rivenditore indiretto le autorizzazioni per il **proprietario tenant**|
@@ -170,7 +170,7 @@ Quando i clienti vogliono acquistare nuove sottoscrizioni, aggiornare quelle esi
 
 7.  Al termine seleziona **Invia**. 
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
 Per ulteriori informazioni sulla gestione di account e sottoscrizioni dei clienti, vedere:
 

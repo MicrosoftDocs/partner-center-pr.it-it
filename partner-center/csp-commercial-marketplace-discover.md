@@ -1,13 +1,13 @@
 ---
-title: Discover offers in the commercial marketplace  | Partner Center
+title: Scopri le offerte nel Marketplace commerciale | Centro per i partner
 ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how CSP partners can use Partner Center to view or search the marketplace for SaaS offers or pricing from Independent Software Vendors (ISVs).
+description: Scopri in che modo i partner CSP possono usare il centro per i partner per visualizzare o cercare offerte SaaS o prezzi di Marketplace da fornitori di software indipendenti (ISV).
 author: MicheleHope
 ms.author: v-mihope
-keywords: subscriptions, marketplace, commercial marketplace, third party, ISV, SaaS offers, Cloud Solution Provider program, CSP program, CSP partners
+keywords: sottoscrizioni, Marketplace, Marketplace commerciale, terze parti, ISV, offerte SaaS, programma Cloud Solution Provider, programma CSP, partner CSP
 ms.localizationpriority: medium
 ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -16,95 +16,95 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253719"
 ---
-# <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Discover offers and pricing in the commercial marketplace
+# <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Scopri le offerte e i prezzi nel Marketplace commerciale
 
 **Si applica a**
 
 - Centro per i partner
 - Partner aderenti al programma CSP
 
-**Appropriate roles**
+**Ruoli appropriati**
 
 - Amministratore globale
 - Agente amministratore
 
-When Independent Software Vendors (ISVs) choose to publish an offer in the commercial marketplace, they can also decide if they want the offer to be made available in the CSP program. If they choose to sell the offer through the CSP program, CSP partners should see the offer in the Partner Center Marketplace area. 
+Quando fornitori di software indipendenti (ISV) scelgono di pubblicare un'offerta nel Marketplace commerciale, possono anche decidere se desiderano rendere disponibile l'offerta nel programma CSP. Se scelgono di vendere l'offerta tramite il programma CSP, i partner CSP dovrebbero vedere l'offerta nell'area del Marketplace del centro per i partner. 
 
-If an ISV offer does not appear as you expect in the Partner Center, it may be because:
+Se un'offerta ISV non viene visualizzata come previsto nel centro per i partner, è possibile che:
 
-- The ISV decided not to sell the offer through the CSP program. For example, some ISV products may have been made available in other areas of the commercial marketplace (such as in [Microsoft AppSource](https://appsource.microsoft.com/) and [Azure Marketplace](https://azuremarketplace.microsoft.com/)), but may not appear for CSPs in the Partner Center marketplace.
+- L'ISV ha deciso di non vendere l'offerta tramite il programma CSP. Ad esempio, alcuni prodotti ISV potrebbero essere stati resi disponibili in altre aree del Marketplace commerciale, ad esempio in [Microsoft AppSource](https://appsource.microsoft.com/) e in [Azure Marketplace](https://azuremarketplace.microsoft.com/), ma potrebbero non essere visualizzati per i CSP nel Marketplace del centro per i partner.
 
-- The ISV decided to make the offer exclusive to only a select number of CSP partners. For more information about exclusive offers, see later in this help topic.
+- L'ISV ha deciso di rendere l'offerta esclusiva solo a un numero selezionato di partner CSP. Per ulteriori informazioni sulle offerte esclusive, vedere più avanti in questo argomento della guida.
 
-- The offer type may not be transactable through the Partner Center or Azure portal (e.g. Containers or some usage-based offers).
+- Il tipo di offerta potrebbe non essere transazionale tramite il centro per i partner o portale di Azure, ad esempio contenitori o alcune offerte basate sull'utilizzo.
 
-- The billing country of your associated customer(s) may not be supported for this ISV offer.
+- Il paese di fatturazione dei clienti associati potrebbe non essere supportato per questa offerta ISV.
 
-## <a name="view-marketplace-offers-in-partner-center"></a>View Marketplace offers in Partner Center
+## <a name="view-marketplace-offers-in-partner-center"></a>Visualizzare le offerte del Marketplace nel centro per i partner
 
-To view available commercial marketplace offers in the CSP program: 
+Per visualizzare le offerte di Marketplace commerciali disponibili nel programma CSP: 
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard), then select **CSP** from the left navigation menu.
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner, quindi selezionare **CSP** dal menu di spostamento a sinistra.
 
-2. Select **Sell**, followed by **Marketplace**. By default, you will see products of all types and categories.
+2. Selezionare **Vendi**, seguito da **Marketplace**. Per impostazione predefinita, vengono visualizzati i prodotti di tutti i tipi e le categorie.
 
-3. Select a filter by type or category. You can also use **Search** to find specific keywords, offer names or the names of ISV publishers.
+3. Selezionare un filtro in base al tipo o alla categoria. È anche possibile usare la **ricerca** per trovare parole chiave, nomi di offerte o nomi di editori ISV specifici.
 
-4. Select a specific product offer from the list. This will take you to a product Overview tab where you can learn more about the offer. Information on this tab might include: 
+4. Selezionare l'offerta di un prodotto specifico dall'elenco. Verrà visualizzata una scheda Panoramica del prodotto in cui è possibile ottenere altre informazioni sull'offerta. Le informazioni su questa scheda possono includere: 
 
-    - A description of the product or offer
+    - Descrizione del prodotto o dell'offerta
 
-    - More information about the ISV publisher
+    - Ulteriori informazioni sul server di pubblicazione ISV
 
-    - Links to documentation or marketing materials uploaded by the ISV publisher
+    - Collegamenti alla documentazione o ai materiali di marketing caricati dall'editore ISV
 
-    - Other possible ISV contacts for customer support, engineering, or a contact for the CSP Program
+    - Altri contatti ISV possibili per il supporto tecnico, la progettazione o un contatto per il programma CSP
 
-5. To see more information about an offer's available plans, SKUs, or pricing, select the **Plans + Pricing** tab. This tab will show you:
+5. Per visualizzare altre informazioni sui piani disponibili, gli SKU o i prezzi di un'offerta, selezionare la scheda **piani e prezzi** . In questa scheda viene visualizzato:
 
-    - The markets where this offer is available to you
+    - I mercati in cui questa offerta è disponibile
 
-    - A list of SKUs or plans available for the offer
+    - Elenco di SKU o piani disponibili per l'offerta
 
-    - Pricing for each SKU or Plan available
+    - Prezzi per ogni SKU o piano disponibile
 
-## <a name="view-marketplace-offers-via-partner-center-apis"></a>View Marketplace offers via Partner Center APIs
+## <a name="view-marketplace-offers-via-partner-center-apis"></a>Visualizzare le offerte del Marketplace tramite le API del centro
 
-CSP program partners can also use APIs to return a list of eligible offers. Eligible offers will be only those SaaS ISV offers available for the partner to sell via the Partner Center marketplace. For partners using APIs to identify offers in the catalog, refer to the guidance to [obtain a list of offers for a market](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+I partner del programma CSP possono anche usare le API per restituire un elenco di offerte idonee. Le offerte idonee saranno solo le offerte ISV SaaS disponibili per il partner per la vendita tramite il Marketplace del partner Center. Per i partner che usano le API per identificare le offerte nel catalogo, vedere le indicazioni per [ottenere un elenco di offerte per un mercato](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
 
-## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>View the latest Marketplace offer pricing in Partner Center
+## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Visualizza i prezzi più recenti dell'offerta Marketplace nel centro per i partner
 
-Follow these steps for the latest pricing details associated with an offer:
+Per i dettagli più recenti sui prezzi associati a un'offerta, seguire questa procedura:
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard), then select **CSP** from the left navigation menu.
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner, quindi selezionare **CSP** dal menu di spostamento a sinistra.
 
-2. Select **Sell**, followed by **Marketplace**. A list of Marketplace offers will appear.
+2. Selezionare **Vendi**, seguito da **Marketplace**. Verrà visualizzato un elenco di offerte del Marketplace.
 
-3. Scroll down to the **Marketplace** section (below **Azure plan pricing**) and select **Export price list** from the upper right corner. This generates a spreadsheet with the latest pricing data for SaaS, license-based offers available from ISV publishers. Some Azure application pricing may also appear here. This information is updated daily, so you can check it for current prices as often as you choose.
+3. Scorrere verso il basso fino alla sezione **Marketplace** (al di sotto di **piano tariffario di Azure**) e selezionare **Esporta Listino prezzi** dall'angolo superiore destro. Viene generato un foglio di calcolo con i dati più recenti sui prezzi per le offerte SaaS, basate sulle licenze disponibili dagli editori ISV. Alcuni prezzi per le applicazioni Azure possono essere visualizzati anche qui. Queste informazioni vengono aggiornate ogni giorno, in modo che sia possibile controllarle per i prezzi correnti con la frequenza di scelta.
 
-4. If an ISV product includes a free trial period, the spreadsheet will display two rows for that product:
+4. Se un prodotto ISV include un periodo di valutazione gratuito, nel foglio di calcolo vengono visualizzate due righe per il prodotto:
 
-    - One row shows the free trial price of zero. This means a free trial period is available.
+    - Una riga Visualizza il prezzo della versione di valutazione gratuita di zero. Questo significa che è disponibile un periodo di valutazione gratuito.
 
-    - The other row shows the price and terms that will apply after the free trial period is over.
+    - L'altra riga indica il prezzo e le condizioni che verranno applicate al termine del periodo di valutazione gratuita.
 
-As a CSP program partner, you may be eligible for other incentives associated with certain commercial marketplace offers. For more information about other incentives, see the [CSP incentive guide](https://aka.ms/partnerincentives) (requires CSP login).
+Un partner del programma CSP può essere idoneo per altri incentivi associati a determinate offerte di Marketplace commerciali. Per ulteriori informazioni su altri incentivi, vedere la guida per gli [incentivi CSP](https://aka.ms/partnerincentives) (richiede l'accesso CSP).
 
-## <a name="learn-about-marketplace-exclusive-offers"></a>Learn about marketplace exclusive offers
+## <a name="learn-about-marketplace-exclusive-offers"></a>Informazioni sulle offerte esclusive del Marketplace
 
-ISVs have the option to make their offers available only to specific partners in the CSP program. This is known as an Exclusive offer. All partners in the CSP program can still view all ISV offers in the Partner Center commercial marketplace, including those offers marked Exclusive.
+Gli ISV hanno la possibilità di rendere disponibili le loro offerte solo a partner specifici nel programma CSP. Questa operazione è nota come offerta esclusiva. Tutti i partner del programma CSP possono comunque visualizzare tutte le offerte ISV nel Marketplace commerciale del centro per i partner, incluse quelle offerte contrassegnate come esclusive.
 
-If an offer is **not** marked Exclusive, all partners can purchase that offer (assuming the selected customer’s billing country matches the country availability of the ISV's offer).
+Se un'offerta **non** è contrassegnata come esclusiva, tutti i partner possono acquistare tale offerta (presupponendo che il paese di fatturazione del cliente selezionato corrisponda alla disponibilità del paese dell'offerta ISV).
 
-For any offer marked Exclusive, however, only those partners selected by the ISV will be able to purchase that offer.
+Per ogni offerta contrassegnata come esclusiva, tuttavia, solo i partner selezionati dall'ISV saranno in grado di acquistare l'offerta.
 
 > [!NOTE]
-> If you see an offer marked Exclusive that you would like to sell to your customers, reach out to the ISV directly and ask for permission to sell the Exclusive offer. When you view the details of an Exclusive offer, you may see a **Contact ISV** link that you can select.
+> Se viene visualizzata un'offerta contrassegnata come esclusiva che si vuole vendere ai clienti, contattare direttamente l'ISV e richiedere l'autorizzazione a vendere l'offerta esclusiva. Quando si visualizzano i dettagli di un'offerta esclusiva, è possibile che venga visualizzato un collegamento **Contatta ISV** che è possibile selezionare.
 
-To learn more about the ISV experience in the commercial marketplace, read [Cloud Solution Providers](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+Per ulteriori informazioni sull'esperienza ISV nel Marketplace commerciale, vedere provider di [soluzioni cloud](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
 
-For more information on the CSP experience in the marketplace, read [Commercial marketplace overview](csp-commercial-marketplace-overview.md).
+Per altre informazioni sull'esperienza CSP nel Marketplace, vedere Panoramica del [Marketplace commerciale](csp-commercial-marketplace-overview.md).
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Purchase commercial marketplace offers](csp-commercial-marketplace-purchase.md)
+- [Acquista offerte per Marketplace commerciali](csp-commercial-marketplace-purchase.md)

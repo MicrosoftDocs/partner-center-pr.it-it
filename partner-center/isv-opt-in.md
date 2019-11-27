@@ -1,10 +1,10 @@
 ---
-title: Marketplace "exclusive" offers | Partner Center
+title: Offerte esclusive del Marketplace | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ISV can choose CSP partners to work with by making their offers exclusive.
+description: Gli ISV possono scegliere i partner CSP da usare rendendoli esclusivi le loro offerte.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
@@ -16,25 +16,25 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384769"
 ---
-# <a name="marketplace-exclusive-offers"></a>Marketplace exclusive offers
+# <a name="marketplace-exclusive-offers"></a>Offerte esclusive per Marketplace
 
-ISVs have the option of making their offers available to a select number of CSP partners. All CSP partners will still be able to view all ISV offers in the Partner Center Marketplace but offers marked Exclusive will only be able to be purchased by the partners who the ISV has selected. If an offer is not indicated as “Exclusive” all partners can purchase it.
+Gli ISV hanno la possibilità di rendere disponibili le offerte per un numero selezionato di partner CSP. Tutti i partner CSP saranno comunque in grado di visualizzare tutte le offerte ISV nel Marketplace del centro per i partner, ma le offerte contrassegnate come esclusive potranno essere acquistate solo dai partner selezionati dagli ISV. Se un'offerta non è indicata come "esclusiva", tutti i partner possono acquistarla.
 
-CSP partners who are identified by ISVs can:
+I partner CSP identificati dagli ISV possono:
 
-- Purchase exclusive offers through Partner Center marketplace
-- Export price list
+- Acquista offerte esclusive tramite partner Center Marketplace
+- Esporta Listino prezzi
 
-## <a name="how-do-you-gain-access-to-exclusive-offers"></a>How do you gain access to exclusive offers?
+## <a name="how-do-you-gain-access-to-exclusive-offers"></a>Come ottenere l'accesso alle offerte esclusive?
 
-When an ISV publishes an offer on the Marketplace, they have the opportunity to indicate who can purchase it. 
+Quando un ISV pubblica un'offerta sul Marketplace, ha la possibilità di indicare chi può acquistarla. 
 
-Their options are:
+Le opzioni disponibili sono:
 
-- All CSP partners can purchase
-- Determine which partners can purchase
-- Not available to CSP partners
+- Tutti i partner CSP possono acquistare
+- Determinare quali partner possono acquistare
+- Non disponibile per i partner CSP
 
-To learn more about the ISV experience in Marketplace, read [Cloud Solution Providers](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+Per altre informazioni sull'esperienza ISV in Marketplace, vedere [provider di soluzioni cloud](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
 
-For more information on the Marketplace, read [Commercial marketplace overview for Cloud Solution Providers](https://docs.microsoft.partner-center/commercial-marketplace-overview.md).
+Per altre informazioni sul Marketplace, vedere [Panoramica del Marketplace commerciale per i provider di soluzioni cloud](https://docs.microsoft.partner-center/commercial-marketplace-overview.md).

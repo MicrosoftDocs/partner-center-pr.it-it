@@ -18,7 +18,7 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253343"
 ---
-# <a name="assign-support-contacts"></a>Assegnare i contatti del supporto tecnico
+# <a name="assign-support-contacts"></a>Assegnare contatti di supporto
 
 **Si applica a**
 

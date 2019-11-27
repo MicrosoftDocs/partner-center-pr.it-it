@@ -1,8 +1,8 @@
 ---
-title: One-time and recurring reconciliation files | Partner Center
+title: File di riconciliazione monouso e ricorrenti | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
-description: Understand one-time and recurring reconciliation files in Partner Center.
+description: Informazioni sui file di riconciliazione monouso e periodici nel centro per i partner.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -14,49 +14,49 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389679"
 ---
-# <a name="one-time-and-recurring-reconciliation-files"></a>One-time and recurring reconciliation files
+# <a name="one-time-and-recurring-reconciliation-files"></a>File di riconciliazione singola e ricorrente
 
 Si applica a:
 
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
-This topic explains how to read one-time and recurring reconciliation files in Partner Center.
+In questo argomento viene illustrato come leggere i file di riconciliazione monouso e periodici nel centro per i partner.
 
-## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>Fields in one-time and recurring reconciliation files
+## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>Campi in un file di riconciliazione monouso e ricorrente
 
 | Column | Descrizione |
 | ------ | ----------- |
-| PartnerId | Unique Azure Active Directory (Azure AD) tenant identifier for a specific billing entity, in GUID format. Not required for reconciliation. È lo stesso per tutte le righe. |
-| Customer Id | Unique Azure AD tenant identifier, in GUID format. Identifies the customer. |
-| Nome cliente | Customer's organization name, as reported in Partner Center. |
-| CustomerDomainName | Customer's domain name. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione. *Don't use this field as a unique identifier for the customer. The customer/partner can update the vanity or default domain through the  Office 365 portal.* |
-| Customer Country | Paese in cui si trova il cliente. |
+| PartnerId | Identificatore univoco del tenant Azure Active Directory (Azure AD) per un'entità di fatturazione specifica in formato GUID. Non obbligatorio per la riconciliazione. È lo stesso per tutte le righe. |
+| ID cliente | Identificatore univoco del tenant Azure AD in formato GUID. Identifica il cliente. |
+| Nome cliente | Nome dell'organizzazione del cliente, come indicato nel centro per i partner. |
+| CustomerDomainName | Nome di dominio del cliente. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione. *Non usare questo campo come identificatore univoco per il cliente. Il cliente/partner può aggiornare il dominio Vanity o default tramite il portale di Office 365.* |
+| Paese del cliente | Paese in cui si trova il cliente. |
 | Numero fattura | Numero di fattura in cui viene visualizzata la transazione specificata. |
-| MpnId | MPN identifier of the CSP partner. |
-| Reseller MpnId | MPN identifier of the reseller of record for the subscription. |
-| ID ordine | Unique identifier for an order in the Microsoft commerce platform. Not used for reconciliation. |
+| MpnId | Identificatore MPN del partner CSP. |
+| Rivenditore MpnId | Identificatore MPN del rivenditore del record per la sottoscrizione. |
+| ID ordine | Identificatore univoco per un ordine in Microsoft Commerce platform. Non utilizzato per la riconciliazione. |
 | Data ordine | Data di effettuazione dell'ordine. |
-| ProductId | The identifier for the product. |
-| SkuId | The identifier for a particular SKU (stock-keeping unit). |
-| AvailabilityId | The identifier for a particular SKU's availability. This shows whether the SKU is available for purchase in the given country, currency, industry segment, etc. |
-| SKU Name | Titolo di una particolare SKU. |
-| Nome del prodotto | Nome del prodotto. |
-| PublisherName | The name of the product's publisher.
-| PublisherID | Unique identifier for a particular publisher. |
-| Subscription Description | Friendly name of a subscription. |
-| ID sottoscrizione | Unique identifier for a subscription in the Microsoft commerce platform. Not used for reconciliation. *This identifier is not the same as the **Subscription ID** on the partner admin console.* |
+| ProductId | Identificatore del prodotto. |
+| SkuId | Identificatore per un particolare SKU (unità di supporto). |
+| AvailabilityId | Identificatore della disponibilità di uno SKU specifico. Ciò indica se lo SKU è disponibile per l'acquisto in un determinato paese, valuta, segmento di settore e così via. |
+| Nome SKU | Titolo di una particolare SKU. |
+| Nome prodotto | Nome del prodotto. |
+| PublisherName | Nome del server di pubblicazione del prodotto.
+| PublisherID | Identificatore univoco per un server di pubblicazione specifico. |
+| Descrizione della sottoscrizione | Nome descrittivo di una sottoscrizione. |
+| ID sottoscrizione | Identificatore univoco per una sottoscrizione nella piattaforma Microsoft Commerce. Non utilizzato per la riconciliazione. *Questo identificatore non corrisponde all' **ID sottoscrizione** nella console di amministrazione partner.* |
 | ChargeStartDate | Giorno di inizio degli addebiti. L'ora indicata è sempre l'inizio della giornata, le 0:00. |
 | ChargeEndDate | Giorno di fine degli addebiti. L'ora indicata è sempre la fine della giornata, le 23:59. |
-| Term and Billingcycle | The term length and billing cycle for the purchase (for example, *1 Year, Monthly*). |
+| Termini e billingcycle | Durata e ciclo di fatturazione per l'acquisto (ad esempio, *1 anno, mensile*). |
 | Tipo di addebito | Tipo di addebito o rettifica. |
-| Prezzo unitario | The unit price as published in the price list at the time of purchase. *Be sure this matches the information stored in your billing system during reconciliation.* |
-| Effective Unit Price | The unit price after adjustments have been made. |
-| Quantità | Number of units. *Be sure this matches the information stored in your billing system during reconciliation.* |
-| Unit type | The type of unit being purchased. |
-| DiscountDetails | An explanation of any applicable discount. |
-| Sub Total | Totale al lordo delle imposte. Checks if your subtotal matches your expected total, in case of a discount. |
-| Tax Total | Tax amount charge. Based on your market's tax rules and specific circumstances. |
+| Prezzo unitario | Prezzo unitario pubblicato nell'elenco prezzi al momento dell'acquisto. *Assicurarsi che corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione.* |
+| Prezzo unitario effettivo | Prezzo unitario dopo le rettifiche apportate. |
+| Quantità | Numero di unità. *Assicurarsi che corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione.* |
+| Tipo di unità | Tipo di unità da acquistare. |
+| DiscountDetails | Spiegazione di qualsiasi sconto applicabile. |
+| Totale parziale | Totale al lordo delle imposte. Controlla se il subtotale corrisponde al totale previsto, in caso di sconto. |
+| Imposta totale | Addebito IVA. In base alle regole fiscali e alle circostanze specifiche del mercato. |
 | Totale | Totale al netto delle imposte. Verifica se nella fattura sono addebitate imposte. |
-| Currency | Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Make sure this matches your first invoice and check again after any major billing platform updates. |
-| AlternateID | An alternative identifier to an **Order ID**. |
+| Currency | Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Assicurarsi che corrisponda alla prima fattura e controllare di nuovo dopo gli aggiornamenti principali della piattaforma di fatturazione. |
+| AlternateID | Identificatore alternativo a un **ID dell'ordine**. |

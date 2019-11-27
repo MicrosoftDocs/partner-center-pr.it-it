@@ -4,11 +4,11 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to create user accounts for a customer, add or remove user licenses, reset user passwords, delete user accounts or restore them.
+description: Informazioni su come creare gli account utente per un cliente, aggiungere o rimuovere licenze utente, reimpostare le password utente, eliminare gli account utente o ripristinarli.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
+Keywords: gestione clienti, account, creazione account, licenze, assegna licenza, gestione utenti, password, Reimposta password, modifica password
 ms.localizationpriority: medium
 ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -23,9 +23,9 @@ ms.locfileid: "74253349"
 
 - Centro per i partner
 
-You can create and delete new users in a customer's account. You can also restore one or more user accounts that you previously deleted within 30 days of the deletion. Verranno ripristinate anche le assegnazioni di sottoscrizioni precedenti dell'utente (supponendo che le allocazioni precedenti siano disponibili).
+È possibile creare ed eliminare nuovi utenti nell'account di un cliente. È anche possibile ripristinare uno o più account utente eliminati in precedenza entro 30 giorni dall'eliminazione. Verranno ripristinate anche le assegnazioni di sottoscrizioni precedenti dell'utente (supponendo che le allocazioni precedenti siano disponibili).
 
-When you buy new subscriptions for a customer, the customer should give you a list of all the users who will need accounts, their user permissions, and which services each user needs.  
+Quando si acquistano nuove sottoscrizioni per un cliente, il cliente deve fornire un elenco di tutti gli utenti che necessitano di account, le relative autorizzazioni utente e i servizi necessari per ogni utente.  
 
 Puoi [assegnare le sottoscrizioni a più utenti](bulk-license-provisioning-for-multiple-users.md) contemporaneamente importando i nomi tramite un [file di foglio di calcolo con estensione CSV compatibile con Excel](adding-multiple-users-to-a-customer-account.md).
 
@@ -33,13 +33,13 @@ Puoi [assegnare le sottoscrizioni a più utenti](bulk-license-provisioning-for-m
 
 ## <a name="create-user-accounts-for-a-customer"></a>Creare account utente per un cliente
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
 3. Nel menu del cliente seleziona **Utenti e licenze**.
 
-4. Per ogni utente seleziona **Aggiungi sottoscrizione** e quindi compila le informazioni, incluse autorizzazioni e licenze. Utilizza **Salva** per salvare le modifiche.
+4. Per ogni utente seleziona **Aggiungi sottoscrizione** e quindi compila le informazioni, incluse autorizzazioni e licenze. **Salva** le modifiche.
 
 5. Assicurati di registrare il nome utente e una password temporanea da inviare all'utente.
 
@@ -51,9 +51,9 @@ Puoi [assegnare le sottoscrizioni a più utenti](bulk-license-provisioning-for-m
 
 ## <a name="add-or-remove-user-licenses-for-a-customer"></a>Aggiungere o rimuovere licenze utente per un cliente
 
-The following steps apply to adding or removing user licenses for Microsoft products. To add or remove user licenses for license-based SaaS subscriptions in the commercial marketplace, see [Add or remove licenses for a SaaS subscription](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
+I passaggi seguenti riguardano l'aggiunta o la rimozione di licenze utente per i prodotti Microsoft. Per aggiungere o rimuovere le licenze utente per le sottoscrizioni SaaS basate su licenza nel Marketplace commerciale, vedere [aggiungere o rimuovere licenze per una sottoscrizione Saas](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
@@ -64,13 +64,13 @@ The following steps apply to adding or removing user licenses for Microsoft prod
 5. Seleziona **Gestisci licenze**. Apporta le modifiche e quindi fai clic su **Salva**.
 
 > [!NOTE]
-> For [Azure Marketplace products](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer), license assignment and activation is managed through the Independent Software Vendor (ISV) who published the product.
+> Per i [prodotti Azure Marketplace](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer), l'assegnazione e l'attivazione delle licenze vengono gestite tramite il fornitore di software indipendente (ISV) che ha pubblicato il prodotto.
 
 <a href="" id="resetpassword"></a>
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Reimpostare la password di un utente per un cliente
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
@@ -84,11 +84,11 @@ The following steps apply to adding or removing user licenses for Microsoft prod
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Eliminare account utente per un cliente
 
-1.  From the **Partner Center** menu, select **Customers**. Scegli il cliente nell'elenco.
+1.  Scegliere **clienti**dal menu **centro partner** . Scegli il cliente nell'elenco.
 
 2.  Nel menu del cliente seleziona **Utenti e licenze**. Scegli l'utente nell'elenco.
 
-3.  Nella parte inferiore della schermata fai clic su **Elimina account utente**.
+3.  Nella parte inferiore della schermata fai clic su **Elimina utente**.
 
 Se devi ripristinare questo account, puoi trovarlo nella scheda **Utenti eliminati** dell'elenco **Utenti e licenze** del cliente. Hai a disposizione 30 giorni per ripristinare un utente eliminato.
 
@@ -96,7 +96,7 @@ Se devi ripristinare questo account, puoi trovarlo nella scheda **Utenti elimina
 
 ## <a name="restore-deleted-user-accounts"></a>Ripristinare account utente eliminati
 
-1.  From the **Partner Center** menu, select **Customers**, then choose the customer from the list.
+1.  Dal menu **centro** per i partner selezionare **Customers**, quindi scegliere il cliente dall'elenco.
 
 2.  Seleziona **Utenti e licenze**.
 
@@ -111,4 +111,4 @@ Se devi ripristinare questo account, puoi trovarlo nella scheda **Utenti elimina
 
 [Assegnare o revocare licenze a più utenti](bulk-license-provisioning-for-multiple-users.md)
 
-[Create multiple users for a customer account](adding-multiple-users-to-a-customer-account.md)
+[Creazione di più utenti per un account cliente](adding-multiple-users-to-a-customer-account.md)

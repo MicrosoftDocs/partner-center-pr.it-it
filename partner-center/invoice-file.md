@@ -1,12 +1,12 @@
 ---
-title: Invoice files | Partner Center
+title: File di fattura | Centro per i partner
 ms.topic: article
 ms.date: 08/26/2019
-description: Understand the fields in your invoice file for Partner Center billing.
+description: Comprendere i campi del file di fattura per la fatturazione del centro per i partner.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, invoice
+keywords: fatturazione, fattura
 ms.localizationpriority: medium
 ms.openlocfilehash: 9b3219b5752de59b9dde81343b8bd4e1128037bd
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,48 +15,48 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389839"
 ---
-# <a name="invoice-files"></a>Invoice files
+# <a name="invoice-files"></a>File di fattura
 
-You can use the following tables to understand the fields in Partner Center invoice files.
+È possibile usare le tabelle seguenti per comprendere i campi nei file di fattura del centro per i partner.
 
-## <a name="invoice-file-fields"></a>Invoice file fields
+## <a name="invoice-file-fields"></a>Campi del file di fattura
 
-The following fields appear on your invoice files.
+Nei file della fattura vengono visualizzati i campi seguenti.
 
 | Campo | Definizione |
 | ----- | ---------- |
-| US FEIN | Your Federal Employer Identification Number (FEIN). This is your United States federal tax identifier number. |
+| US FEIN | Il numero di identificazione del datore di lavoro federale (FEIN). Si tratta del Stati Uniti numero di identificatore dell'imposta federale. |
 | Numero cliente | Codice del cliente. |
-| Indirizzo fatturazione | Indirizzo a cui inviare la fattura. You can change your company name and/or address in your Partner Center billing profile. |
-| Addebiti in base alle licenze | The flat monthly or annual charges for your purchased usage-based licenses, billed in advance of the service. This number is the sum of all charges in the **Subtotal** column (column **T**) in your license-based reconciliation file. |
-| Addebiti basati sull'utilizzo | Your Azure usage. This includes new services or applications enabled and used during the billing period. This number is the sum of all charges in the **PretaxCharges** column (column **Z**) in your usage-based reconciliation file. |
-| Sconti | The discount that the customer receives from subscription's normal price. This number is shown as a *flat amount*, not as a price per unit or license. |
-| Crediti | Credits or adjustments for changes made to subscriptions (for example, seat increases or decreases). |
+| Indirizzo fatturazione | Indirizzo a cui inviare la fattura. È possibile modificare il nome e/o l'indirizzo della società nel profilo di fatturazione del centro per i partner. |
+| Addebiti in base alle licenze | Costi flat mensili o annuali per le licenze basate sull'utilizzo acquistate, fatturate prima del servizio. Questo numero corrisponde alla somma di tutti gli addebiti nella colonna del **Subtotale** (colonna **T**) nel file di riconciliazione basato sulle licenze. |
+| Addebiti basati sull'utilizzo | Utilizzo di Azure. Sono inclusi i nuovi servizi o le applicazioni abilitati e usati durante il periodo di fatturazione. Questo numero corrisponde alla somma di tutti gli addebiti nella colonna **PretaxCharges** (colonna **Z**) nel file di riconciliazione basato sull'utilizzo. |
+| Sconti | Lo sconto ricevuto dal cliente dal prezzo normale della sottoscrizione. Questo numero viene visualizzato come *importo Flat*, non come prezzo per unità o licenza. |
+| Crediti | Crediti o rettifiche per le modifiche apportate alle sottoscrizioni (ad esempio, aumenta o diminuisce il posto). |
 | Subtotal | Totale al lordo delle imposte e crediti e addebiti netti. |
-| Imposta | The total tax for your current charges, as totaled in the **Details** section beginning on page 2 of your invoice. This number is the sum of all charges in the **TaxAmount** column (column **AA**) in your usage-based reconciliation file, and the **Tax** column (column **U**) in your license-based reconciliation file. |
+| Imposta | Imposta totale per gli addebiti correnti, come totale nella sezione dei **Dettagli** a partire dalla pagina 2 della fattura. Questo numero corrisponde alla somma di tutti gli addebiti nella colonna **TaxAmount** (colonna **AA**) nel file di riconciliazione basato sull'utilizzo e nella colonna **Tax** (colonna **U**) nel file di riconciliazione basato su licenza. |
 | Altri crediti | Crediti netti. |
-| Costi attuali totali | The amount due in your billing currency for the billing period. These charges are due by the payment due date. |
-| Istruzioni per il pagamento | Description of how to pay your invoice, based on your region. *Always be sure to include your invoice number when making a payment.* |
+| Costi attuali totali | Importo dovuto alla valuta di fatturazione per il periodo di fatturazione. Questi addebiti sono dovuti alla data di scadenza del pagamento. |
+| Istruzioni per il pagamento | Descrizione di come pagare la fattura in base all'area geografica. *Quando si effettua un pagamento, assicurarsi sempre di includere il numero di fattura.* |
 | N. fattura | Numero della fattura. |
-| Periodo di fatturazione | The monthly period leading up to the invoice date. This is the period during which usage-based services are consumed and license-based services are reconciled for any credit adjustments or changes in license count. |
-| Data fattura | The billing date or anniversary date on which your invoice is generated each month. |
-| Condizioni di pagamento | The payment term. Per gli acquisti una tantum sarà sempre 60 giorni. |
-| Data scadenza pagamento | The date by which your payment must be received. |
-| Ordine d'acquisto del cliente | Your purchase number order. |
-| Servizio clienti | The website address where you can access customer service. |
-| Destinatario del servizio | The address where the service is being used. (This is the legal company address associated with company vetting.) |
+| Periodo di fatturazione | Il periodo mensile che precede la data della fattura. Si tratta del periodo di tempo durante il quale vengono utilizzati i servizi basati sull'utilizzo e i servizi basati su licenze vengono riconciliati per eventuali rettifiche di credito o modifiche al numero di licenze. |
+| Data fattura | Data di fatturazione o di anniversario in cui la fattura viene generata ogni mese. |
+| Condizioni di pagamento | Termine del pagamento. Per gli acquisti una tantum sarà sempre 60 giorni. |
+| Data scadenza pagamento | Data in base alla quale deve essere ricevuto il pagamento. |
+| Ordine d'acquisto del cliente | Ordine dei numeri di acquisto. |
+| Servizio clienti | Indirizzo del sito Web a cui è possibile accedere al servizio clienti. |
+| Destinatario del servizio | Indirizzo in cui viene utilizzato il servizio. Si tratta dell'indirizzo aziendale legale associato al vagliatura aziendale. |
 
-## <a name="one-time-charges-fields"></a>One-time charges fields
+## <a name="one-time-charges-fields"></a>Campi di addebiti una sola volta
 
-The following fields only apply to **one-time charges** in Partner Center:
+I campi seguenti si applicano solo agli **addebiti** monouso nel centro per i partner:
 
 | Campo | Definizione |
 | ----- | ---------- |
-| Data | Data di acquisto. |
+| Date | Data di acquisto. |
 | Descrizione | Nome del prodotto. |
-| Quantità | The number of products (such as reservations) purchased. |
-| Prezzo unitario | Price per product (such as a reservation). |
+| Quantità | Il numero di prodotti (ad esempio prenotazioni) acquistati. |
+| Prezzo unitario | Prezzo per prodotto, ad esempio una prenotazione. |
 | Sconti | Eventuali sconti applicabili. |
 | Importo pre-imposta | Totale parziale degli acquisti prima delle imposte. |
 | Imposta sulle vendite | Importo dell'imposta. |
-| Totale | Total amount to be paid. |
+| Totale | Importo totale da pagare. |

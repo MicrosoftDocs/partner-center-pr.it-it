@@ -16,28 +16,28 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384590"
 ---
-# <a name="company-tax-information"></a>Company tax information
+# <a name="company-tax-information"></a>Informazioni fiscali aziendali
 
 Si applica a:
 
 - Centro per i partner
 
-Le imposte per gli acquisti nel Centro per i partner sono determinate dal tuo indirizzo aziendale. Businesses in some countries can [provide their value-added tax (VAT) number](#submit-vat-id-number) or local equivalent.
+Le imposte per gli acquisti nel Centro per i partner sono determinate dal tuo indirizzo aziendale. Le aziende in alcuni paesi possono [fornire il numero di imposte (IVA) o l'](#submit-vat-id-number) equivalente locale.
 
 ### <a name="add-your-vat-id"></a>Aggiungi il numero di partita IVA
 
-You must be a global admin, billing admin, or admin agent to  edit the billing profile.
+Per modificare il profilo di fatturazione, è necessario essere un amministratore globale, un amministratore della fatturazione o un agente di amministrazione.
 
-1.  From the **Partner Center dashboard** go to  **Settings** and then select **Billing profile**.
+1.  Dal **Dashboard del centro** per i partner passare a **Impostazioni** e quindi selezionare profilo di **fatturazione**.
 2.  Nella sezione **Dati finanziari** seleziona **Aggiorna**.
-3.  In the **Company Tax ID** field, enter your VAT ID number.
+3.  Nel campo **ID imposta azienda** immettere il numero di ID IVA.
 
-## <a name="submit-vat-id-number"></a>Submit VAT ID number
+## <a name="submit-vat-id-number"></a>Invia il numero di ID IVA
 
-If applicable, follow these steps to send Microsoft your value-added tax (VAT) ID number:
+Se applicabile, attenersi alla procedura seguente per inviare a Microsoft il numero di ID IVA (IVA) aggiunto al valore:
 
-1. Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the **Settings** menu (gear icon), choose **Partner Settings**.
-3. On the **Account settings** page, choose **Partner billing profile** on the page menu.
-4. In the **Financial data** section, choose **Update**.
-5. For **Company Tax ID**, specify your VAT ID number.
+1. Accedere al [Dashboard del centro per i partner](https://partner.microsoft.com/dashboard/).
+2. Nel menu **Impostazioni** (icona a forma di ingranaggio) scegliere **Impostazioni partner**.
+3. Nella pagina **Impostazioni account** scegliere Profilo di **fatturazione partner** dal menu pagina.
+4. Nella sezione **dati finanziari** scegliere **Aggiorna**.
+5. Per **ID fiscale aziendale**specificare il numero di ID IVA.

@@ -1,7 +1,7 @@
 ---
 title: Requisiti di competenza Microsoft per l'adesione Gold e Silver | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i requisiti di competenza per conseguire i livelli di adesione Gold e Silver.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competenze, adesione silver, adesione gold, mpn, abbonamento a Microsoft Action Pack, preparazione, Microsoft Partner Network, adesione alla rete, specializzazioni avanzate
 ms.localizationpriority: high
-ms.openlocfilehash: 4ebdeff79ad61cf37806f0c76620920a304c3fe4
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 508480f2c9e1e67b939885bf31fafdd09e3aabc7
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653331"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253665"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informazioni sulle competenze Microsoft Silver e Gold e sulle specializzazioni avanzate
 

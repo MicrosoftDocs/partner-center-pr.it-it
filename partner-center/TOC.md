@@ -103,6 +103,7 @@
 ## [Richiedere crediti del contratto di servizio a Microsoft](request-credit.md)
 ## [Impostare un budget di spesa di Azure per i clienti](set-an-azure-spending-budget-for-your-customers.md)
 ## [Gestire insoluti, frodi o uso improprio](non-payment--fraud--or-misuse.md)
+## [Gestire pagamenti non allocati](unallocated-payment.md)
 
 # [Entrare in contatto con i clienti](customer-accounts.md)
 ## [Aggiungi un nuovo cliente](add-a-new-customer.md)

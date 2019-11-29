@@ -1,7 +1,7 @@
 ---
 title: Esenzione dei requisiti per gli esami monouso per la competenza per lo sviluppo di applicazioni | Centro per i partner
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Per i partner con una competenza ISV precedente, informazioni su come ottenere un'esenzione per i requisiti di esame monouso per la competenza di sviluppo delle applicazioni
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competenze, ISV, sviluppo di applicazioni
 ms.localizationpriority: medium
-ms.openlocfilehash: 022d8f17e279726741d1ba8b7f3f9bc9a951a52d
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 810fd3446077365d9a6b838840a89cdca85edef1
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295237"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559506"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Esenzione dei requisiti per gli esami monouso per la competenza di sviluppo delle applicazioni
 
@@ -27,9 +27,9 @@ Se è stata raggiunta la competenza ISV attualmente ritirata e si applica uno de
 
 Partner con una competenza ISV:
 
-- **La tua competenza ISV è scaduta** . la tua esenzione dei requisiti per gli esami monouso sarà disponibile nel centro per i partner a partire dal 22 novembre 2019. Avrai a disposizione 30 giorni per sfruttare i vantaggi offerti dall'offerta. 
+- La **competenza ISV è scaduta** . l'esenzione dei requisiti per gli esami monouso è disponibile nel centro per i partner a partire dal 22 novembre 2019. Sono disponibili 30 giorni per sfruttare l'offerta. Accedere al centro per i partner per informazioni dettagliate specifiche per la propria azienda.
 
-- L' **appartenenza alla competenza si trova nella finestra di rinnovo** . l'esenzione dei requisiti per l'esame monouso sarà disponibile nel centro per i partner a partire dal 22 novembre 2019. Avrai a disposizione 30 giorni per sfruttare i vantaggi offerti dall'offerta. 
+- L' **appartenenza alla competenza si trova nella finestra di rinnovo** . l'esenzione per i requisiti di esame monouso è disponibile nel centro per i partner a partire dal 22 novembre 2019. Sono disponibili 30 giorni per sfruttare l'offerta. Accedere al centro per i partner per informazioni dettagliate specifiche per la propria azienda.
 
 - L' **appartenenza alla competenza è prevista per il rinnovo nei prossimi mesi** . l'esenzione dei requisiti per gli esami monouso sarà disponibile al momento del rinnovo. A questo punto, avrai a disposizione 30 giorni per ottenere l'offerta.
 

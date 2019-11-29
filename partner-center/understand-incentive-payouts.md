@@ -8,12 +8,12 @@ description: Visualizzare gli utili e i proventi per i programmi di incentivi.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654001"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559743"
 ---
 # <a name="view-your-incentives-payments-information"></a>Visualizza le informazioni sui pagamenti per gli incentivi
 
@@ -91,6 +91,7 @@ Questa opzione consente di scaricare i pagamenti ricevuti nella banca per un det
 |earnedUSD   |Importo guadagnato per il programma/ID partecipante, in USD      |
 |withheldTax   |Importo delle imposte in pagamento in valuta per il programma/participantID      |
 |SalesTax impostandola   |Importo totale delle imposte sulle vendite per il programma/participantID      |
+|serviceFeeTax  |Quantità totale di serviceFeeTax di pagamento in valuta per il programma/participantID |
 |totalPayment   |Pagamento totale in valuta locale, escluso l'imposta di ritenuta e inclusa l'imposta sulle vendite (se applicabile) per il programma/participantID      |
 |currencyCode   |Pagamento in base al codice di valuta      |
 |paymentMethod   |Metodo utilizzato per pagare il partner (Electronic Bank Transfer, nota di credito)      |
@@ -150,6 +151,6 @@ Oltre alla tabella precedente, questi campi relativi alla cronologia delle trans
 |agreementNumber   |Numero contratto   |
 |agreementStartDate   |Data di inizio contratto   |
 |agreementEndDate   |Data di fine contratto   |
-|Carico   |Carico di lavoro   |
+|carico   |Carico di lavoro   |
   
 

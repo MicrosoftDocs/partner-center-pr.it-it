@@ -1,21 +1,21 @@
 ---
 title: Creare account utente e impostare le autorizzazioni | Centro partner
 ms.topic: article
-ms.date: 07/08/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: L'amministratore crea un account utente per ogni dipendente del partner che deve accedere al Centro per i partner.
+description: Scopri come creare account utente e assegnare ruoli nel Centro per i partner per ciascun dipendente che necessita dell'accesso. Gli utenti con privilegi di amministratore diversi possono eseguire questa operazione.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: ruoli, autorizzazioni, aggiungi utente, assegna ruolo, amministratore, agente,
 ms.localizationpriority: high
-ms.openlocfilehash: 088c94c59dadc6deead6f13d7f80612489e6e040
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: d121d80e23f11c5885ababd3c7730939e894a235
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096491"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252085"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Creare account utente e assegnare autorizzazioni
 

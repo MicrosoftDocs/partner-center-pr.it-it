@@ -1,22 +1,22 @@
 ---
 title: Collaborare con i provider indiretti in CSP | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: I rivenditori indiretti in CSP collaborano con i provider indiretti (anche noti come distributori) che hanno una relazione diretta con Microsoft e possono fornire supporto e fatturazione ai clienti.
+description: Scopri in che modo i rivenditori indiretti del programma CSP possono collaborare con provider (o distributori) indiretti Microsoft che possono offrire assistenza per il supporto tecnico e la fatturazione.
 ms.prod: ''
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: rivenditori indiretti, rivenditori, provider indiretti, provider, relazione, VAR, livello2, livello 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: d290893113b156ce8582e44463a32aaf0cfbe5fe
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c259c28d5a5a16a2b12ebb299a574c0b624d87f9
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654333"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253658"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Collaborare con i provider indiretti nel programma Cloud Solution Provider
 

@@ -1,20 +1,20 @@
 ---
 title: Diventare amministratore globale dell'azienda | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Per eseguire molte delle attività nel Centro per i partner, devi prima verificare la proprietà del dominio. Molte attività del Centro per i partner richiedono la presenza di un amministratore globale. Se la tua azienda non ha ancora un amministratore globale, puoi diventarlo.
+description: Per lavorare nel Centro per i partner, devi prima di tutto verificare la proprietà del dominio. Scopri come eseguire questa operazione per diventare un amministratore globale in grado di aggiungere utenti.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 keywords: dominio, verifica del dominio, verifica dominio, amministratore globale, ruoli utente, autorizzazioni
-ms.openlocfilehash: d6d358439056a9d10e7966148e1f3a76173d0cf6
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 8cc6dc8839341c20fefa48a21e62bc1350102436
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096504"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253221"
 ---
 # <a name="verify-your-domain-ownership"></a>Verificare la proprietà del dominio
 

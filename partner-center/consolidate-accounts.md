@@ -1,21 +1,21 @@
 ---
 title: Consolidamento degli account aziendali | Centro per i partner
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Quando una società passa al Centro per i partner, tutti gli account vengono consolidati in un unico account
+description: Scopri come consolidare gli account Partner Membership Center (PMC) in un unico account nel Centro per i partner. Questa operazione viene effettuata quando esegui la migrazione da PMC al Centro per i partner.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 6cf0af27145de2107fc7904e9a4cbd602a539f50
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 77d148ccd1f71d06844b2f3467dcfb0fab967dfa
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653622"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252065"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolidare gli account aziendali
 

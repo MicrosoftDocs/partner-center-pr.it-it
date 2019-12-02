@@ -1,20 +1,20 @@
 ---
 title: Requisiti di base delle attestazioni di cooperazione per gli incentivi | Centro per i partner
 ms.topic: article
-ms.date: 4/4/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Ogni tipo di attività all'interno del programma di cooperazione incentivi avrà i propri requisiti di base
+description: Scopri i requisiti per inviare un'attestazione incentivi nel Centro per i partner per un tipo specifico di attività nell'ambito del programma di cooperazione per gli incentivi.
 author: LauraBrenner
 ms.author: labrenne
 keywords: attestazioni incentivi, attestazioni cooperazione, fondi cooperazione, requisiti di base
 ms.localizationpriority: high
-ms.openlocfilehash: 4a021854b19f8da6fc9fa81e9bac561549e9ccd8
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3ed6db76ae152b002ab9518e2f9b167d6aa88337
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653621"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252083"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Requisiti di base delle attestazioni di cooperazione per gli incentivi
 

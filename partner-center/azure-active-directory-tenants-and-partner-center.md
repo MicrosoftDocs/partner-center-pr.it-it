@@ -1,21 +1,21 @@
 ---
 title: Account aziendali e Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Per creare un account del Centro per i partner, la tua azienda deve avere un account aziendale. Se hai una sottoscrizione attiva a Microsoft Azure o Office 365, hai già un account aziendale.
+description: Scopri il motivo per cui è necessario un account aziendale per creare un account del Centro per i partner e se disponi già di un account aziendale.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: account aziendale, e-mail, tenant, tenant di Azure, creare un account, nome di dominio
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 0bca97c9bbe153aa705c149ce8bd3ad5e38d72d9
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096544"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253315"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Account aziendale e Centro per i partner  
 

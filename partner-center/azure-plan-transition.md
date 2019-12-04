@@ -1,7 +1,7 @@
 ---
 title: Transizioni dei clienti al piano di Azure | Centro per i partner
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come spostare i clienti con facilità nel piano di Azure.
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: af3a57146bcf76d3d68f5bb22b21f6788e336ee8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0420966e13f0ee7151dd9474d597b8253a1ecfff
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253267"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722286"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>Eseguire la transizione dei clienti al piano di Azure
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore fatturazione
+- Amministratore globale
+- Agente help desk
+- Agente di vendita
+- Amministratore gestione utenti
 
 I provider indiretti e i partner di fatturazione diretti possono passare alla nuova esperienza commerciale disponibile nel programma CSP per Azure. I rivenditori indiretti dovranno passare attraverso i loro provider indiretti. I clienti avranno una soluzione semplificata per l'acquisto di servizi cloud dai partner, dai venditori Microsoft o direttamente sul Web.
 
@@ -93,7 +102,7 @@ La sottoscrizione di "Microsoft Azure" (0145P) è costituita da due parti:
 
 Al termine della transizione, la sottoscrizione di Azure viene spostata nel nuovo piano di Azure e la sottoscrizione commerciale viene sospesa per evitare la registrazione di altro utilizzo.  
 
->[Nota]: quando la sottoscrizione di Microsoft Azure (0145P) viene acquistata in CSP, la sottoscrizione commerciale e la sottoscrizione di Azure (diritto) hanno lo stesso valore. I valori sono diversi solo nel caso di modifiche o trasferimenti della proprietà della fatturazione. 
+>[Nota]\: quando la sottoscrizione di Microsoft Azure (0145P) viene acquistata in CSP, la sottoscrizione commerciale e la sottoscrizione di Azure (diritto) hanno lo stesso valore. I valori sono diversi solo nel caso di modifiche o trasferimenti della proprietà della fatturazione. 
 
 **Problemi di transizione**
 

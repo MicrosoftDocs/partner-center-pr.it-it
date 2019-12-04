@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, vantaggi dell'appartenenza, appartenenza
 ms.localizationpriority: high
-ms.openlocfilehash: bc9ca4f3b186de36cc5b87be1bce70a7be89da62
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096469"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681942"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gestire i vantaggi dell'appartenenza a Microsoft Partner Network
 
@@ -101,8 +101,7 @@ Per visualizzare e gestire tutti i vantaggi dell'appartenenza, vai alla [pagina 
     
     c.  Dopo aver immesso l'indirizzo e-mail alternativo, seleziona **Assegna utente**. 
 
-4. Puoi usare il vantaggio tecnico per il supporto prevendita o le ore di consulenza per richiedere assistenza tecnica durante le fasi di prevendita, progettazione, distribuzione e sviluppo di app per le tue soluzioni cloud e ibride. Per richiedere assistenza, compila il [modulo di richiesta](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
-) e quindi seleziona **Invia richiesta**.
+4. Puoi usare il vantaggio tecnico per il supporto prevendita o le ore di consulenza per richiedere assistenza tecnica durante le fasi di prevendita, progettazione, distribuzione e sviluppo di app per le tue soluzioni cloud e ibride. Per richiedere assistenza, compila il [modulo di richiesta](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) e quindi seleziona **Invia richiesta**.
 
 #### <a name="manage-go-to-market-benefits"></a>Gestire i vantaggi go-to-market
 

@@ -10,21 +10,20 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: b52030f4956f8b3f86eec5aad72628dc64099729
-ms.sourcegitcommit: f5dbf96c1dece9c766e9b4c1527e599872e2ab14
+ms.openlocfilehash: 7aade0443c6418c9044a58d37b2351a89f86266d
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "74536444"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722216"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nuova esperienza commerciale in CSP - Fatturazione di Azure 
 
 **Ruoli appropriati:**
 
-- Amministratore fatturazione
 - Agente amministratore
+- Amministratore fatturazione
 - Amministratore globale
-
 
 La fatturazione in base al piano di Azure è un'esperienza semplificata che prevede l'uso di una singola data di fatturazione allineata e di un periodo di fatturazione basato sul mese di calendario. Per informazioni sulla piattaforma di fatturazione, leggi [Panoramica della fatturazione](billing-basics.md).
 

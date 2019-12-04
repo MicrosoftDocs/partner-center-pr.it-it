@@ -9,18 +9,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: contratti cloud Microsoft, modelli di contratto cliente, contratti cliente CSP, Contratto Microsoft Cloud, MCA, CSP, dove posso vendere con CSP?, paesi/aree geografiche CSP, MCA CSP in più lingue, CSP per America del Nord, CSP per America centrale, CSP per America del Sud, CSP per Caraibi, CSP per Microsoft Cloud for US Government, Microsoft Cloud CSP per Germania, CSP per Medio Oriente, CSP per Africa, CSP per Europa, CSP per Asia, CSP per Pacifico, MCA CSP
 ms.localizationpriority: high
-ms.openlocfilehash: 0fdeb1d117dd65c85d115054d547aebe065b17ec
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a65e9dc0e94fa387631ea289c963d6e0f1bae7dd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253165"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722414"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratti Microsoft Cloud per area geografica e lingua
 
 **Si applica a**
 
-- Partner CSP
+- Partner del programma Cloud Solution Provider
+
+**Ruoli appropriati**
+
+- Amministratore globale
+- Amministratore gestione utenti
+- Agente amministratore
+- Agente di vendita
+- Agente help desk
 
 Prima di poter effettuare un ordine per conto di un cliente, il cliente deve accettare e firmare il Contratto Microsoft Cloud.
 

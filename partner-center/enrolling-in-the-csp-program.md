@@ -1,25 +1,29 @@
 ---
 title: Iscriversi al programma Cloud Solution Provider | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i diversi modelli per la vendita nel programma Cloud Solution Provider (CSP) e determina qual è quello più adatto all'attività.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 00a46c91aedf9261722d29ed7ac5357fe1256ef7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252160"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721708"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
 **Si applica a**
 
 - Programma Cloud Solution Provider  
+
+**Ruoli appropriati**
+
+- Amministratore globale
 
 ## <a name="get-started"></a>Informazioni di base
 

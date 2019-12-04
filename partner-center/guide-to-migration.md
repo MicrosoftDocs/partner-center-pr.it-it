@@ -1,7 +1,7 @@
 ---
 title: Guida alla migrazione da PMC al Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come eseguire la migrazione dell'organizzazione da Partner Membership Center (PMC) al Centro per i partner.
@@ -9,14 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: high
-ms.openlocfilehash: f9ce53adddd2faecf22ef795e8ffe97189c57353
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252206"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721881"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guida alla migrazione da Partner Membership Center (PMC) al Centro per i partner
+
+**Ruoli appropriati**
+
+- Amministratore globale
 
 Il sito Web dei partner Microsoft disponibile all'indirizzo partner.microsoft.com offre ai partner un'esperienza digitale unificata. Dal sito Web dei partner potrai esplorare le opportunità disponibili e lasciarti coinvolgere in esperienze guidate che aiuteranno la tua azienda a creare e vendere app e servizi con Microsoft. Tramite il collegamento Dashboard, disponibile ovunque nel sito Web dei partner, i membri di Microsoft Partner Network possono accedere al Centro per i partner per gestire il rapporto con Microsoft, iscriversi ai programmi e registrarsi per le offerte. 
 

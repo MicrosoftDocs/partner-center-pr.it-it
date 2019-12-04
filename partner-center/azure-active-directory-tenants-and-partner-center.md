@@ -1,7 +1,7 @@
 ---
 title: Account aziendali e Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri il motivo per cui è necessario un account aziendale per creare un account del Centro per i partner e se disponi già di un account aziendale.
@@ -10,18 +10,23 @@ ms.author: labrenne
 Keywords: account aziendale, e-mail, tenant, tenant di Azure, creare un account, nome di dominio
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: c309cd4f79bcc92fa54c903b4517fd5a1b8399fd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253315"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721345"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Account aziendale e Centro per i partner  
 
 **Si applica a**
 
 -  Centro per i partner
+
+**Ruoli appropriati**
+
+- Amministratore globale
+- Amministratore gestione utenti
 
 ## <a name="why-you-need-a-work-account"></a>Perché è necessario un account aziendale
 
@@ -34,16 +39,18 @@ L'indirizzo e-mail aziendale o quello dell'account aziendale è l'indirizzo e-ma
 Se hai più indirizzi e-mail aziendali validi, usa quello associato alla sede centrale dell'azienda anziché al reparto regionale, ad esempio usa contoso.com anziché contoso.uk.
 
 > [!NOTE]  
->  Prima di decidere di usare un account aziendale esistente, valuta il numero di utenti dell'account che dovranno usare il Centro per i partner. Se nell'account sono presenti utenti che non dovranno lavorare nel Centro per i partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno usare il Centro per i partner.
+> Prima di decidere di usare un account aziendale esistente, valuta il numero di utenti dell'account che dovranno usare il Centro per i partner. Se nell'account sono presenti utenti che non dovranno lavorare nel Centro per i partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno usare il Centro per i partner.
 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Se non si è certi che l'azienda abbia già un account aziendale
 
 Se non sei certo che l'azienda abbia un account aziendale, verifica questo aspetto attenendoti alla procedura seguente. Tieni presente che se hai una sottoscrizione attiva a Microsoft Azure o Office 365, hai già un account aziendale.
 
-1.  Accedi al portale di amministrazione di Azure all'indirizzo https://ms.portal.azure.com.
-2.  Seleziona Azure Active Directory dal menu e quindi seleziona Nomi di dominio.
-3.  Se hai già un account aziendale, il nome del tuo dominio verrà visualizzato nell'elenco.
+1. Accedi al portale di amministrazione di Azure all'indirizzo https://ms.portal.azure.com.
+
+2. Seleziona Azure Active Directory dal menu e quindi seleziona Nomi di dominio.
+
+3. Se hai già un account aziendale, il nome del tuo dominio verrà visualizzato nell'elenco.
 
 Se la tua azienda non ha ancora un account aziendale, puoi crearne uno durante il processo di registrazione.
 

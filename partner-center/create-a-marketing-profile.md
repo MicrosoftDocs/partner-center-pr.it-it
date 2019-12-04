@@ -1,7 +1,7 @@
 ---
 title: Creare un profilo di business | Centro per i partner
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come ottenere lead di vendita da Microsoft. Un passaggio chiave consiste nel creare un profilo di business nel Centro per i partner che consenta ai clienti di trovarti.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, segnalazioni, lead di vendita, C2PC, profilo della società, commercializzare la tua azienda, trovare un partner, trovare un provider di soluzioni, profilo di business, profilo di marketing
 ms.localizationpriority: high
-ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252655"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722525"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -30,9 +30,16 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 **Si applica a**
 
--  Centro per i partner
--  Partner di Microsoft Partner Network
--  Partner del programma Cloud Solution Provider
+- Centro per i partner
+- Partner di Microsoft Partner Network
+- Partner del programma Cloud Solution Provider
+
+**Ruoli appropriati**
+
+- Amministratore degli account
+- Amministratore del profilo di business
+- Amministratore globale
+- Amministratore delle segnalazioni
 
 In qualità di partner Microsoft qualificato, puoi creare un profilo di business per presentare la tua azienda ai clienti che cercano soluzioni e competenze specifiche per soddisfare le loro esigenze in ambito professionale.
 

@@ -1,7 +1,7 @@
 ---
 title: Diventare amministratore globale dell'azienda | Centro per i partner
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Per lavorare nel Centro per i partner, devi prima di tutto verificare la proprietà del dominio. Scopri come eseguire questa operazione per diventare un amministratore globale in grado di aggiungere utenti.
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 keywords: dominio, verifica del dominio, verifica dominio, amministratore globale, ruoli utente, autorizzazioni
-ms.openlocfilehash: 8cc6dc8839341c20fefa48a21e62bc1350102436
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253221"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722425"
 ---
 # <a name="verify-your-domain-ownership"></a>Verificare la proprietà del dominio
 
 **Si applica a:**
 
 - Centro per i partner
+
+**Ruoli appropriati**
+
+- Amministratore globale
 
 Quando la tua azienda accede per la prima volta al Centro per i partner, è probabile che ai dipendenti non siano stati assegnati i ruoli necessari per iniziare a usare il Centro per i partner. Per usare il Centro per i partner, tutti gli utenti devono avere assegnato un ruolo, che include le autorizzazioni.  
 

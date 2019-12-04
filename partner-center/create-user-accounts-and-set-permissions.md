@@ -1,7 +1,7 @@
 ---
 title: Creare account utente e impostare le autorizzazioni | Centro partner
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come creare account utente e assegnare ruoli nel Centro per i partner per ciascun dipendente che necessita dell'accesso. Gli utenti con privilegi di amministratore diversi possono eseguire questa operazione.
@@ -10,16 +10,22 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: ruoli, autorizzazioni, aggiungi utente, assegna ruolo, amministratore, agente,
 ms.localizationpriority: high
-ms.openlocfilehash: d121d80e23f11c5885ababd3c7730939e894a235
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 94dd39a9ecf2703c14b33f07fd08d4111eeefccd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252085"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722461"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Creare account utente e assegnare autorizzazioni
 
-Crea gli account utente per i dipendenti che hanno bisogno di accedere al Centro per i partner. Questa operazione deve essere eseguita dall'amministratore per la gestione degli utenti, dall'amministratore degli account o dall'amministratore globale. 
+**Ruoli appropriati**
+
+- Amministratore degli account
+- Amministratore globale
+- Amministratore gestione utenti
+
+Crea gli account utente per i dipendenti che hanno bisogno di accedere al Centro per i partner. Questa operazione deve essere eseguita dall'amministratore per la gestione degli utenti, dall'amministratore degli account o dall'amministratore globale.
 
 
 ## <a name="add-a-new-user"></a>Aggiungere un nuovo utente

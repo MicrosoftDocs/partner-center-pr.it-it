@@ -1,7 +1,7 @@
 ---
 title: Offerte dei partner nell'ambito del programma Cloud Solution Provider | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri le offerte a disposizione dei partner che vendono tramite il programma Cloud Solution Provider.
@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Cloud Solution Provider, programma cloud solution provider, CSP, aggiungere un prodotto, vendere ai clienti, offerte partner, offerte CSP, servizi basati sul cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, istanze riservate Azure, istanze di macchina virtuale riservate di Azure, prenotazioni di Azure, servizi online, software in abbonamento, AHUB, SQL Server su Azure, Windows Server in Azure, abbonamenti dei clienti
 ms.localizationpriority: high
-ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252905"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722542"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Offerte dei partner nell'ambito del programma Cloud Solution Provider 
+# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Offerte dei partner nell'ambito del programma Cloud Solution Provider
 
 **Si applica a**
 
--  Partner CSP
+- Partner CSP
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore globale
+- Agente di vendita
 
 I partner Microsoft che partecipano al programma Cloud Solution Provider (CSP) hanno a loro disposizione un catalogo di offerte sempre più vasto. Puoi vendere la gamma completa di [servizi cloud Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), nonché una varietà di offerte aggiuntive soggette a modifiche frequenti. Per visualizzare le offerte CSP del mese corrente, accedi al Centro per i partner e quindi alla pagina [**Prezzi e offerte**](https://partnercenter.microsoft.com/pcv/sales).  
 

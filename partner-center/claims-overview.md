@@ -1,7 +1,7 @@
 ---
 title: Attestazioni co-op degli incentivi | Centro per i partner
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come inviare le richieste di incentivi senza il prerequisito per la revisione del piano di attività.
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: attestazioni incentivi, attestazioni cooperative, fondi cooperativi
 ms.localizationpriority: medium
-ms.openlocfilehash: a13da629dad56afd62e9898df8cd6ba8f2f5c603
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d5252427ad35e33b391edfce2d4cd100dc33f5c1
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253412"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721625"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Panoramica delle attestazioni cooperative per gli incentivi
 
 **Si applica a**
 
 - Centro per i partner
+
+**Ruoli appropriati**
+
+- Amministratore degli incentivi
+- Utente di incentivi
 
 Quando si partecipa a uno dei programmi Microsoft incentives (ad esempio, partner incentives cooperative Marketing Fund, Online Services Advisor Program o Dynamics ISV Program), si attestano i rimborsi dei fondi guadagnati per le attività eseguite supporto per la sensibilizzazione ai prodotti Microsoft. Inviare un'attestazione direttamente dal centro per i partner. Non è più necessario che Microsoft esamini il tuo piano di attività pima di inviare una richiesta. Invia la richiesta e la documentazione necessaria entro la scadenza del periodo di attestazione che è 45 giorni dopo la fine del periodo di utilizzo. 
 

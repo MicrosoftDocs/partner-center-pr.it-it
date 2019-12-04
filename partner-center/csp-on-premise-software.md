@@ -1,7 +1,7 @@
 ---
 title: Vendere software locale tramite CSP | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono acquistare, gestire, vendere e annullare le sottoscrizioni software locali per conto dei clienti nel centro per i partner.
@@ -10,16 +10,21 @@ ms.author: evansma
 keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, partner diretto, partner CSP diretto, rivenditore CSP indiretto, CSP diretto, CSP indiretto, modello diretto, modello indiretto, rivenditore indiretto, provider indiretto, provider, server di distribuzione, programma cloud solution provider
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4993ebbb38ad4e04a65004ba6542701c525790ae
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0eb888ac225ebad1a66abd415c5572dac8b4a43e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253536"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721333"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>Vendere software locale tramite CSP
 
-Il software locale in CSP supporta un'agevole transizione al cloud grazie all'introduzione di software locale in un programma basato sul cloud.  Questa nuova offerta consente di associare il partner a valore aggiunto a ogni scenario di acquisto in quanto fornisce una piattaforma unica per transazioni relative a tutti i prodotti Microsoft. Adesso, in qualità di CSP, puoi vendere software locale tramite il Centro per i partner, oltre ai programmi EA, Open e altri ancora attualmente in uso. Il software locale in CSP è un nuovo programma di vendita e non è destinato a sostituire gli altri programmi per contratti multilicenza Microsoft. 
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore globale
+
+Il software locale in CSP supporta un'agevole transizione al cloud grazie all'introduzione di software locale in un programma basato sul cloud.  Questa nuova offerta consente di portare il partner a valore aggiunto a ogni scenario di acquisto Man mano che forniscono un'unica piattaforma per la transazione di tutti i prodotti Microsoft. Adesso, in qualità di CSP, puoi vendere software locale tramite il Centro per i partner, oltre ai programmi EA, Open e altri ancora attualmente in uso. Il software locale in CSP è un nuovo programma di vendita e non è destinato a sostituire gli altri programmi per contratti multilicenza Microsoft. 
  
 Garantendo al contempo il miglior valore complessivo del cliente con le opzioni di licenza software locali, abbiamo anche reso il modello aziendale il più semplice possibile per i partner. Una gestione semplificata delle licenze del software locale in CSP significa prevedibilità dei costi e un processo di vendita più agevole. Questo nuovo modello di business rende più facile l'acquisizione, la gestione e la determinazione del prezzo del software locale per i clienti, consentendoti di concentrarti principalmente su come sfruttare un ampio portafoglio di soluzioni di gestione IT a valore aggiunto per ottenere il successo che desideri. 
 
@@ -33,7 +38,7 @@ Per acquistare sottoscrizioni di software per conto di un cliente, vai alla pagi
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Attivare e gestire sottoscrizioni di software
 
-Una volta acquistato il software, l'utente e i suoi clienti dovranno scaricarlo. Utilizzare la procedura seguente per eseguire questa operazione. 
+Una volta acquistato il software, l'utente e i suoi clienti dovranno scaricarlo. A tale scopo, utilizza la procedura seguente. 
 
 >[!NOTE]
 >Per ottenere chiavi e download, devi essere un agente amministratore. 

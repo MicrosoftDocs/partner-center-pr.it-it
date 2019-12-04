@@ -1,7 +1,7 @@
 ---
 title: I clienti delegano i privilegi amministrativi ai partner | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come richiedere ai clienti di delegare le autorizzazioni di amministratore a un rivenditore o rimuovere le stesse autorizzazioni e come usare le autorizzazioni.
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: privilegi amministrativi delegati, amministratore per conto di, Rimuovi privilegi, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 545b4f8228ced951d39de0c18d354799fb7081ac
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253476"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722193"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>I clienti delegano i privilegi amministrativi ai partner
 
 **Si applica a**
 
--  Centro per i partner
+- Centro per i partner
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Agente di vendita
 
 Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ultimo dovrà concederti le autorizzazioni di amministratore per tale servizio. Per ottenere le autorizzazioni di amministratore, invia al cliente una richiesta di relazione come rivenditore. Dopo che il cliente ha approvato la richiesta, potrai accedere al portale di amministrazione del servizio e gestire il servizio per conto del cliente. 
 
@@ -44,7 +49,7 @@ Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ulti
 >[!IMPORTANT]  
 >I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questa situazione, se il cliente richiede assistenza, contattare il supporto tecnico Microsoft per aprire una richiesta di assistenza per conto del cliente.
 
-I clienti possono scoprire quale partner hanno privilegi di amministratore per il tenant dall'interno del portale di amministrazione di Office 365. A tale scopo, effettuare le seguenti operazioni:
+I clienti possono scoprire quale partner hanno privilegi di amministratore per il tenant dall'interno del portale di amministrazione di Office 365. A tale scopo, effettua le seguenti operazioni:
 
 1. Il cliente deve accedere al portale di amministrazione di Office 365 come amministratore globale.
 

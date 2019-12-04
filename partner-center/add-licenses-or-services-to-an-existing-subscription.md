@@ -10,18 +10,27 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: aggiungere licenze a una sottoscrizione esistente, aggiungere postazioni a una sottoscrizione esistente, modificare una sottoscrizione, cambiare una sottoscrizione, acquistare ulteriori licenze per un cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ead019e0e2619c045cc5330c11dfcb3933092834
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253135"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721757"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Aggiungere licenze o servizi a una sottoscrizione esistente
 
 **Si applica a**
 
--  Centro per i partner
+- Centro per i partner
+- Partner del programma Cloud Solution Provider
+
+**Ruoli appropriati**
+
+- Amministratore globale
+- Amministratore gestione utenti
+- Agente amministratore
+- Agente di vendita
+- Agente help desk
 
 Se il cliente necessita di più postazioni rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione. Per altri dettagli, vedi [Passare a un piano di Office 365 per le aziende diverso](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
@@ -73,8 +82,6 @@ In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
 </tr>
 </tbody>
 </table>
-
- 
 
 Le sottoscrizioni possono essere aggiornate se sono soddisfatte queste condizioni:
 

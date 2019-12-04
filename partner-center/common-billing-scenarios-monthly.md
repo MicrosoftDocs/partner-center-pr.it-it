@@ -1,21 +1,28 @@
 ---
 title: Scenari di fatturazione mensili comuni | Centro per i partner
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 description: Scenari comuni nel centro per i partner quando si usa la fatturazione mensile, ad esempio l'aggiunta di nuove sottoscrizioni, la modifica della quantità di licenze e la sospensione delle sottoscrizioni.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: fatturazione, pagamenti, ordini, utilizzo, fatturazione mensile, sottoscrizioni, file di riconciliazione
 ms.localizationpriority: medium
-ms.openlocfilehash: 95a535ecdd20614e8809d6304609b1a678859efc
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 9cae4f82e059a2c8258a00ae51a406ca890f7a67
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389619"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722493"
 ---
 # <a name="monthly-billing-scenarios"></a>Scenari di fatturazione mensili
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore fatturazione
+- Agente help desk
+- Agente di vendita
 
 Questi [scenari di fatturazione comuni](common-billing-scenarios.md) di esempio sono applicabili se si usa la fatturazione mensile nel centro per i partner.
 

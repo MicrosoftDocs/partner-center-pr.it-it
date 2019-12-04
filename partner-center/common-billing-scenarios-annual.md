@@ -1,21 +1,28 @@
 ---
 title: Scenari di fatturazione comuni | Centro per i partner
 ms.topic: article
-ms.date: 11/21/2019
-description: Scenari di fatturazione comuni nel centro partner per la fatturazione annuale, ad esempio l'aggiunta di nuove sottoscrizioni, l'aggiunta di licenze prima della data di fatturazione, la modifica della quantità di licenze e la sospensione e riattivazione delle sottoscrizioni.
+ms.date: 11/25/2019
+description: 'Vedere fatturazione annuale del centro partner: quando si aggiungono nuove sottoscrizioni, aggiungere le licenze prima della data di fatturazione, modificare la quantità di licenze, sospendere/riattivare le sottoscrizioni.'
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: fatturazione, pagamenti, ordini, utilizzo, fatturazione basata su licenza, data anniversario, termine, annullamento, rinnovo, formula prezzo, file di riconciliazione, file di ricognizione
 ms.localizationpriority: medium
-ms.openlocfilehash: 91b8e318e2122f9510b160339984cc0743c318ee
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d29def486243f3a4ee9060d442dc5e4b024cb1f0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389629"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722476"
 ---
 # <a name="annual-billing-scenarios"></a>Scenari di fatturazione annuali
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore fatturazione
+- Agente help desk
+- Agente di vendita
 
 Questi [scenari di fatturazione comuni](common-billing-scenarios.md) di esempio sono applicabili se si usa la fatturazione annuale nel centro per i partner.
 

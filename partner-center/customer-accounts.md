@@ -1,7 +1,7 @@
 ---
 title: Account dei clienti | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Trova le risorse per i partner rivenditori nel centro per i partner. Ciò include la necessità di creare account cliente prima di vendere sottoscrizioni, fatturare o offrire supporto.
@@ -9,12 +9,12 @@ ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 40fb278c360b7cbedf779d3528e85a5a88a19544
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 4ecaa4f5de9d27bd829f5c3929f0c8e174a87247
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253573"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721387"
 ---
 # <a name="customer-accounts"></a>Account dei clienti
 
@@ -23,8 +23,14 @@ ms.locfileid: "74253573"
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud for US Government
 
+**Ruoli appropriati**
 
-In qualità di partner rivenditore, è necessario creare un account per ogni cliente nel centro per i partner. L'account del cliente rappresenterà il punto di partenza per la vendita di sottoscrizioni, la fatturazione e i servizi di supporto. È necessario creare un account del centro per i partner per ogni cliente, inclusi i clienti prima di passare al centro per i partner.
+- Amministratore globale
+- Agente amministratore
+- Agente di vendita
+- Agente help desk
+
+In qualità di partner rivenditore, è necessario creare un account per ogni cliente nel centro per i partner. L'account del cliente rappresenterà il punto di partenza per la vendita di abbonamenti, la fatturazione e i servizi di supporto. È necessario creare un account del centro per i partner per ogni cliente, inclusi i clienti prima di passare al centro per i partner.
 
 ### <a name="resources-for-working-with-your-customers-on-the-partner-center"></a>Risorse per collaborare con i clienti nel centro per i partner
 

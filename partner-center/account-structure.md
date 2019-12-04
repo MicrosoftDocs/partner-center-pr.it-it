@@ -9,16 +9,28 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 29988ecd4289f4c9b0772961a3b896124682aecb
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 3a0a7d0ba985f9610198a64aa87411b1a7da16bd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253159"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722314"
 ---
 # <a name="the-account-structure-in-partner-center"></a>La struttura dell'account nel centro per i partner
 
-L'azienda dispone di due livelli di account nel centro per i partner. 
+**Si applica a**
+
+- Centro per i partner
+- Partner MPN
+
+**Ruoli appropriati**
+
+- Amministratore degli account
+- Amministratore del profilo di business
+- Amministratore globale
+- Amministratore dei partner MPN
+
+L'azienda dispone di due livelli di account nel centro per i partner.
 
 ### <a name="the-top-level-is-the-primary-global-account-pga"></a>Il primo livello è l'account globale primario (PGA).
 

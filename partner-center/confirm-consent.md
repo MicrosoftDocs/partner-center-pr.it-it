@@ -1,7 +1,7 @@
 ---
 title: Conferma di accettazione da parte del cliente del contratto di Microsoft Cloud | Centro per i partner
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni su come confermare l'accettazione del Microsoft Cloud contratto da parte del cliente. Questo potrebbe essere necessario per ordinare i prodotti e i servizi Microsoft per i clienti.
@@ -9,17 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Customer, Customers, acconsenti, MCA, Microsoft Cloud Agreement, modelli di contratto del cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: d9b2df8f9cf8795eedb75bc23773942e365c83fe
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 8e6493fccee9b00c953e18446ec6f101bf267210
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252587"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722086"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Conferma dell'accettazione del cliente del contratto di Microsoft Cloud
 
 **Si applica a**
 -  Centro per i partner
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Agente di vendita
 
 > [!NOTE]
 > La risorsa del contratto è attualmente supportata dal centro per i partner nel cloud pubblico Microsoft. Non è applicabile a:
@@ -92,7 +97,7 @@ Devi essere un agente amministratore o di vendita per eseguire questa operazione
 2. Seleziona **Informazioni sull'account**.
 3. In **Contratto di Microsoft Cloud**, seleziona **Aggiorna**.
 
-![Aggiornamenti](images/mca/mca4.png)
+![scheda Aggiorna](images/mca/mca4.png)
 
 4. Riempi i campi **Nome**, **Cognome**, **Indirizzo e-mail** e **Numero di telefono** (facoltativa) dell'utente che ha accettato il contratto.
 5. In **Agreement acceptance date** (Data di accettazione del contratto) immetti la data appropriata. Non puoi impostare questo campo su una data futura.
@@ -100,7 +105,7 @@ Devi essere un agente amministratore o di vendita per eseguire questa operazione
 
 ### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Confermare l'accettazione da parte del cliente durante la creazione di un nuovo ordine per un cliente esistente
 
-Se si tenta di creare un nuovo ordine per un cliente esistente che non è stato confermato in precedenza, si riceverà un messaggio di richiesta per completare la conferma. Utilizzare la procedura seguente per eseguire questa operazione.
+Se si tenta di creare un nuovo ordine per un cliente esistente che non è stato confermato in precedenza, si riceverà un messaggio di richiesta per completare la conferma. A tale scopo, utilizza la procedura seguente.
 
 1. Riempi i campi **Nome**, **Cognome**, **Indirizzo e-mail** e **Numero di telefono** (facoltativa) dell'utente che ha accettato il contratto.
 2. In **Agreement acceptance date** (Data di accettazione del contratto) immetti la data appropriata. Non puoi impostare questo campo su una data futura.

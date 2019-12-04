@@ -1,7 +1,7 @@
 ---
 title: Inoltrare i problemi a Microsoft | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sui problemi che i partner Microsoft dovrebbero risolvere per i clienti e sui problemi che potrebbero essere necessari per inoltrare a Microsoft.
@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3ddffc00a63bc82856fdb0d993a04bf822f12e6f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252571"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722243"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Inoltrare i problemi a Microsoft
 
 **Si applica a**
 
--  Centro per i partner
--  Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner
+- Centro per i partner per Microsoft Cloud for US Government
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore globale
+- Agente di vendita
+- Agente help desk
 
 Sei tu a dover risolvere i problemi per conto dei tuoi clienti. Per prima cosa, dovresti [controllare l'integrità del servizio](check-service-health.md) per individuare eventuali problemi esistenti documentati. Se questo non è sufficiente, puoi usare i tuoi privilegi di amministratore per risolvere i problemi relativi a software, impostazioni e configurazione.
 

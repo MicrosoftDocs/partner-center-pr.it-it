@@ -1,7 +1,7 @@
 ---
 title: Notifica del centro per i partner per l'attività di crittografia di data mining | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su ciò che significa quando viene visualizzata una notifica relativa al potenziale data mining criptovalute (o Crypto mining) in una o più sottoscrizioni di Azure.
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Crypto-mining, criptovalute mining, sicurezza
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 52a6597c9636335cae5218b5a3dbecf0b54e1ee8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 35cdb08c2c673e2c7bd0e8ebb8e22f5671eef186
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252715"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722308"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notifica del centro partner per l'attività di data mining criptovalute
 

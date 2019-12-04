@@ -1,21 +1,28 @@
 ---
 title: Scenari di fatturazione comuni per una sola volta e selezionare gli acquisti ricorrenti | Centro per i partner
 ms.topic: article
-ms.date: 11/21/2019
-description: Scenari di fatturazione comuni nel centro per i partner per una sola volta e selezionare acquisti ricorrenti (ad esempio, l'acquisto di sottoscrizioni, l'aggiunta di altre sottoscrizioni, l'aggiunta e la rimozione di postazioni).
+ms.date: 11/25/2019
+description: 'Vedere gli esempi di fatturazione per il centro per i partner per una sola volta e selezionare gli acquisti ricorrenti: quando si acquistano sottoscrizioni, aggiungere altre sottoscrizioni, aggiungere o rimuovere postazioni.'
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: fatturazione, pagamenti, acquisto monouso, acquisto ricorrente, sottoscrizioni, postazioni
 ms.localizationpriority: medium
-ms.openlocfilehash: 69a7f1d4ded608942ea8b4bd7bec6054a44d52c7
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: f330e49fdfea9b93d02a644610f3621916667f86
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389639"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722512"
 ---
 # <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>Scenari di fatturazione monouso e selezionati per gli acquisti ricorrenti
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore fatturazione
+- Agente help desk
+- Agente di vendita
 
 Questi [scenari di fatturazione comuni](common-billing-scenarios.md) di esempio si applicano a [una sola volta e selezionano costi ricorrenti](one-time-and-recurring-billing.md) nel centro per i partner.
 

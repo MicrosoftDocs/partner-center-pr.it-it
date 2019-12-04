@@ -1,7 +1,7 @@
 ---
 title: Acquistare le prenotazioni di Microsoft Azure per conto del cliente | Centro per i partner
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Scopri come acquistare o acquistare prenotazioni di Azure per conto dei tuoi clienti nel centro per i partner.
@@ -10,20 +10,28 @@ ms.author: labrenne
 keywords: azure, prenotazioni, gestire, fatturazione, acquisto
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1ed6e84a931c609fefb70dbc1081309b244d8e63
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253235"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722011"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare Microsoft Azure prenotazioni per conto dei clienti nel centro per i partner 
 
 **Si applica a**
 
--  Centro per i partner
--  Portale di Microsoft Azure
--  Partner di CSP
+- Centro per i partner
+- Portale di Microsoft Azure
+- Partner di CSP
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore globale
+- Agente help desk
+- Agente di vendita
+- Amministratore gestione utenti
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
@@ -31,19 +39,19 @@ Esaminare le informazioni importanti riportate di seguito prima di acquistare pr
 
 - Se e quando il cliente firma il contratto del cliente Microsoft per [confermare l'accettazione da parte del cliente del contratto Microsoft](confirm-customer-agreement.md), è necessario acquistare le prenotazioni di Azure nel piano Azure. Per altre informazioni, vedere [acquistare un piano Azure](purchase-azure-plan.md).
 
--   I clienti devono disporre già di una sottoscrizione di Azure attiva prima che tu possa acquistare prenotazioni per loro conto
+- I clienti devono disporre già di una sottoscrizione di Azure attiva prima che tu possa acquistare prenotazioni per loro conto
   
--   I costi di sottoscrizione software, ad esempio il database SQL o il software SUSE Linux, non sono inclusi nei prezzi di prenotazione di Azure
+- I costi di sottoscrizione software, ad esempio il database SQL o il software SUSE Linux, non sono inclusi nei prezzi di prenotazione di Azure
 
--   I prezzi commerciali di Microsoft non includono le imposte, a meno che la località non sia il Brasile. Se la località è il Brasile, il prezzo commerciale per l'utente include le imposte appropriate 
- 
--   Gli agenti di vendita e dell'help desk necessitano di accesso esplicito alla sottoscrizione di Azure in modo da poterla acquistare o gestire nel portale di Azure e archiviare richieste di supporto, incluse quelle per gli scambi e i rimborsi, per conto del cliente  
+- I prezzi commerciali di Microsoft non includono le imposte, a meno che la località non sia il Brasile. Se la località è il Brasile, il prezzo commerciale per l'utente include le imposte appropriate
 
--   Se si è un provider indiretto e si acquistano prenotazioni di Azure tramite il portale di Azure, il partner on record (rivenditore indiretto) viene ereditato dalla sottoscrizione di Azure CSP selezionata. 
+- Gli agenti di vendita e dell'help desk necessitano di accesso esplicito alla sottoscrizione di Azure in modo da poterla acquistare o gestire nel portale di Azure e archiviare richieste di supporto, incluse quelle per gli scambi e i rimborsi, per conto del cliente  
 
--   Il partner di record per le prenotazioni di Azure non può essere modificato dopo l'acquisto. Puoi annullare la prenotazione esistente e acquistarne una nuova con il nuovo Partner on record. 
+- Se si è un provider indiretto e si acquistano prenotazioni di Azure tramite il portale di Azure, il partner on record (rivenditore indiretto) viene ereditato dalla sottoscrizione di Azure CSP selezionata.
 
--   Se un cliente desidera trasferire una sottoscrizione di Azure da diretta o EA a CSP, le prenotazioni non vengono trasferite. 
+- Il partner di record per le prenotazioni di Azure non può essere modificato dopo l'acquisto. Puoi annullare la prenotazione esistente e acquistarne una nuova con il nuovo Partner on record.
+
+- Se un cliente desidera trasferire una sottoscrizione di Azure da diretta o EA a CSP, le prenotazioni non vengono trasferite.
 
 ## <a name="azure-reservations-unavailable-markets"></a>Riserve di Azure per i mercati non disponibili
 
@@ -56,10 +64,10 @@ Esaminare le informazioni importanti riportate di seguito prima di acquistare pr
 > | Samoa Americane     | Grenada     | Isole Pitcairn     |
 > | Andorra     | Guadalupa     | Riunione     |
 > | Anguilla     | Guam     | Saba   |
-> | Antartide     | Guernsey     | Saint Barthélemy   |
+> | Antartide     | Guernsey     | Saint-Barthélemy   |
 > | Antigua e Barbuda       | Guinea     | Saint Lucia   |
 > | Aruba       | Guinea-Bissau     | Saint Martin   |
-> | Azerbaigian       | Guyana     | Saint Pierre e Miquelon   |
+> | Azerbaigian       | Guyana     | Saint-Pierre e Miquelon   |
 > | Benin     | Haiti       | Saint Vincent e Grenadine     |
 > | Bhutan     | Heard e McDonald       | Samoa     |
 > | Bonaire     | Isola di Man     | San Marino     |
@@ -68,7 +76,7 @@ Esaminare le informazioni importanti riportate di seguito prima di acquistare pr
 > | Isole Vergini Britanniche     | Kiribati       | Sierra Leone   |
 > | Burkina Faso     | Kosovo     | Sint Eustatius     |
 > | Burundi     | Laos     | Sint Maarten     |
-> | Cambogia     | Lesotho     | Isole Salomone     |
+> | Cambogia     | Lesoto     | Isole Salomone     |
 > | Repubblica Centrafricana     | Liberia     | Somalia     |
 > | Ciad     | Madagascar     | Georgia del sud e Sandwich Australi     |
 > | Cina     | Malawi     | Sud Sudan     |
@@ -87,7 +95,7 @@ Esaminare le informazioni importanti riportate di seguito prima di acquistare pr
 > | Polinesia Francese     | Niger     | Città del Vaticano   |
 > | Terre australi francesi     | Niue     | Wallis e Futuna   |
 > | Gabon     | Norfolk     | Yemen   |
-> | Gambia     | Marianne Settentrionali     |    |
+> | Gambia     | Isole Marianne settentrionali     |    |
 > | Gibilterra     | Palau       |    |
 
 ## <a name="purchase-azure-reservations"></a>Acquista prenotazioni di Azure

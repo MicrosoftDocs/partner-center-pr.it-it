@@ -11,18 +11,26 @@ ms.topic: article
 keywords: dati aziendali
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 494ef694410f193e3b76e476e5a6571b7ecf27e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253364"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722368"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analizzare sottoscrizioni e licenze 
 
 **Si applica a**
 
 - Centro per i partner
+- Partner del programma Cloud Solution Provider
+
+**Ruoli appropriati**
+
+- Amministratore globale
+- Amministratore gestione utenti
+- Agente amministratore
+- Agente di vendita
 
 I dati guidano le decisioni aziendali. Utilizza le metriche nella pagina **Analisi di abbonamenti e licenze** per identificare i tuoi successi e le aree che richiedono maggiore attenzione. Utilizza queste informazioni per pianificare nuovi obiettivi aziendali.
 

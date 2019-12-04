@@ -10,22 +10,30 @@ ms.author: labrenne
 keywords: Azure, prenotazioni, gestione, fatturazione, acquisto, annullamento, scambio, tariffa per la terminazione anticipata
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eedfe20cea239918e5ece6f10b2b5f5988da9c50
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252636"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722274"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gestire le prenotazioni di Microsoft Azure per conto dei clienti       
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gestire le prenotazioni di Microsoft Azure per conto dei clienti
 
 **Si applica a**
 
--  Centro per i partner
--  Portale di Microsoft Azure 
--  Partner di CSP
+- Centro per i partner
+- Portale di Microsoft Azure 
+- Partner di CSP
 
-Per gestire le prenotazioni di Azure per i clienti dopo l'acquisto, selezionare il cliente e la prenotazione da gestire nel centro per i partner e quindi apportare modifiche alla prenotazione nel portale di Azure. 
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore globale
+- Agente help desk
+- Agente di vendita
+- Amministratore gestione utenti
+
+Per gestire le prenotazioni di Azure per i clienti dopo l'acquisto, selezionare il cliente e la prenotazione da gestire nel centro per i partner e quindi apportare modifiche alla prenotazione nel portale di Azure.
 
 1. Per iniziare, selezionare **Customers (clienti** ) dal menu centro partner e quindi selezionare il cliente di cui si desidera gestire le prenotazioni. 
 
@@ -45,8 +53,8 @@ Per gestire le prenotazioni di Azure per i clienti dopo l'acquisto, selezionare 
 
 Se in qualsiasi momento le esigenze dell'azienda del cliente cambiano, è possibile che si desideri annullare una prenotazione e ottenere un rimborso o scambiare un importo di rimborso proporzionale della prenotazione da utilizzare per il prezzo di una nuova prenotazione.
 
-In entrambi i casi, Microsoft rimborserà l'importo per poter gestire le transazioni finanziarie risultanti con i clienti. Microsoft non contatta i clienti direttamente in merito a fatturazione, annullamento o rimborsi.   
- 
+In entrambi i casi, Microsoft rimborserà l'importo per poter gestire le transazioni finanziarie risultanti con i clienti. Microsoft non contatta i clienti direttamente in merito a fatturazione, annullamento o rimborsi.
+
 
 **Funzionamento degli annullamenti**
 
@@ -58,9 +66,9 @@ Per informazioni dettagliate sull'annullamento e tariffe, vedere di seguito.
 |**Data di annullamento**<br> giorni   |**Utilizzo**    |**Credito**  |**Terminazione anticipata**<br> individuale    |**Limite di rimborso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5 o un numero inferiore                         | No          | 100%       | No                              | $50.000 USD   |
-|5 o un numero inferiore                         | Yes         | Con classificazione Pro  | No                              | $50.000 USD   |
+|5 o un numero inferiore                         | Sì         | Con classificazione Pro  | No                              | $50.000 USD   |
 |Più di 5                        | No          | Con classificazione Pro  | 12                             | $50.000 USD   |
-|Più di 5                        | Yes         | Con classificazione Pro  | 12                             | $50.000 USD   |
+|Più di 5                        | Sì         | Con classificazione Pro  | 12                             | $50.000 USD   |
 
 
 **Come funzionano gli scambi** 

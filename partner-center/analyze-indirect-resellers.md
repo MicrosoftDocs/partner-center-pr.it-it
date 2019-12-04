@@ -11,18 +11,26 @@ ms.topic: article
 keywords: dati aziendali
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 188961444e4ec2f20fe305179b9f00673d7e371f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 9990cc72726803045806b88439fed54f9c9d07a2
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253380"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722380"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analizzare le prestazioni dei rivenditori indiretti 
 
 **Si applica a**
 
 - Centro per i partner
+- Partner del programma Cloud Solution Provider
+
+**Ruoli appropriati**
+
+- Amministratore globale
+- Amministratore gestione utenti
+- Agente amministratore
+- Agente di vendita
 
 I dati guidano le decisioni aziendali. Utilizza le metriche nella pagina **Analisi rivenditori** per identificare i tuoi successi, quelli dei tuoi rivenditori indiretti e le aree che richiedono maggiore attenzione. Utilizza queste informazioni per pianificare nuovi obiettivi aziendali.
 

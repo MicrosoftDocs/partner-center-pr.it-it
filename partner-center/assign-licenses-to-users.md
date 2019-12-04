@@ -1,7 +1,7 @@
 ---
 title: Attività di gestione degli utenti per gli account dei clienti | Centro
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come creare gli account utente per un cliente, aggiungere o rimuovere licenze utente, reimpostare le password utente, eliminare gli account utente o ripristinarli.
@@ -10,18 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: gestione clienti, account, creazione account, licenze, assegna licenza, gestione utenti, password, Reimposta password, modifica password
 ms.localizationpriority: medium
-ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253349"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721360"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Attività di gestione degli utenti per gli account dei clienti
 
 **Si applica a**
 
 - Centro per i partner
+
+**Ruoli appropriati**
+
+- Amministratore globale
+- Amministratore gestione utenti
+- Agente amministratore
+- Agente di vendita
+- Agente help desk
 
 È possibile creare ed eliminare nuovi utenti nell'account di un cliente. È anche possibile ripristinare uno o più account utente eliminati in precedenza entro 30 giorni dall'eliminazione. Verranno ripristinate anche le assegnazioni di sottoscrizioni precedenti dell'utente (supponendo che le allocazioni precedenti siano disponibili).
 
@@ -39,7 +47,7 @@ Puoi [assegnare le sottoscrizioni a più utenti](bulk-license-provisioning-for-m
 
 3. Nel menu del cliente seleziona **Utenti e licenze**.
 
-4. Per ogni utente seleziona **Aggiungi sottoscrizione** e quindi compila le informazioni, incluse autorizzazioni e licenze. **Salva** le modifiche.
+4. Per ogni utente seleziona **Aggiungi sottoscrizione** e quindi compila le informazioni, incluse autorizzazioni e licenze. Utilizza **Salva** per salvare le modifiche.
 
 5. Assicurati di registrare il nome utente e una password temporanea da inviare all'utente.
 
@@ -88,7 +96,7 @@ I passaggi seguenti riguardano l'aggiunta o la rimozione di licenze utente per i
 
 2.  Nel menu del cliente seleziona **Utenti e licenze**. Scegli l'utente nell'elenco.
 
-3.  Nella parte inferiore della schermata fai clic su **Elimina utente**.
+3.  Nella parte inferiore della schermata fai clic su **Elimina account utente**.
 
 Se devi ripristinare questo account, puoi trovarlo nella scheda **Utenti eliminati** dell'elenco **Utenti e licenze** del cliente. Hai a disposizione 30 giorni per ripristinare un utente eliminato.
 

@@ -1,7 +1,7 @@
 ---
 title: Personalizzare l'esperienza predefinita di un dispositivo con i profili di Windows Autopilot | Centro per i partner
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come personalizzare o preconfigurare una nuova esperienza predefinita del dispositivo con i profili di Autopilot prima di distribuire il dispositivo al cliente.
@@ -9,18 +9,25 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, distribuzione Zero-Touch, OOBE, schermate di accesso, predefinite
 ms.localizationpriority: medium
-ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253324"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721431"
 ---
-# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizzare l'esperienza predefinita di un dispositivo con i profili di Windows Autopilot
+# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Personalizzare l'esperienza predefinita per un dispositivo con profili di Windows Autopilot
 
 **Si applica a**
 
 - CSP Direct-fatturazione partner, provider indiretti e rivenditori indiretti
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore globale
+- Agente di vendita
+- Amministratore gestione utenti
 
 Se si gestiscono i dispositivi dei clienti, potrebbe essere necessario personalizzare l'esperienza predefinita per gli utenti del cliente. È possibile preconfigurare nuovi dispositivi con i profili di Windows Autopilot prima di consegnare i dispositivi ai clienti e applicare nuovi profili ai dispositivi che i clienti hanno già acquistato. 
 

@@ -1,7 +1,7 @@
 ---
 title: Creare e gestire un'attestazione di incentivi | Centro per i partner
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Informazioni su come avviare attestazioni co-op per gli incentivi dal centro per i partner. Puoi visualizzare tutte le attività eseguite per creare l'attestazione nella cronologia.
@@ -10,17 +10,23 @@ ms.author: labrenne
 keywords: attestazioni incentivi, attestazioni cooperative, fondi cooperativi
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e315ba8963d62e47275344b973fb68a79fe72337
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1be444403d2b36bcee13648a767b0cfdf448c06b
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253466"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721693"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Creare e gestire un'attestazione incentivi
 
 **Si applica a**
 - Centro per i partner
+
+**Ruoli appropriati**
+
+- Amministratore globale
+- Amministratore degli incentivi
+- Utente di incentivi
 
 È possibile avviare una richiesta di incentivi dall'interno del centro per i partner. 
 

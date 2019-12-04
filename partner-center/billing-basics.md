@@ -1,35 +1,45 @@
 ---
 title: Panoramica sulla fatturazione | Centro per i partner
 ms.topic: article
-ms.date: 11/21/2019
-description: Informazioni di fatturazione e fatturazione di base per il centro per i partner.
+ms.date: 11/25/2019
+description: Informazioni sulle informazioni di fatturazione e fatturazione di base per il centro per i partner.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
-keywords: fatturazione, pagamenti, ordini, annullamento, gestione degli ordini, insolvenza, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
+keywords: fatturazione, pagamenti, ordini, annullamento, gestione ordini, mancato pagamento, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10fe47ea038fadf8ca26fe0ab42a0d0d3a9472bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e77d641b1b75c5d462871aa61c3f67bc6d6dd13e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384539"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722473"
 ---
 # <a name="billing-overview"></a>Panoramica sulla fatturazione
 
-Si applica a:
+**Si applica a**
 
 - Centro per i partner
 - Partner nel programma Cloud Solution Provider (CSP)
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore fatturazione
+- Amministratore globale
+- Agente help desk
+- Agente di vendita
 
 ## <a name="find-your-bill"></a>Trova la fattura
 
 Per trovare la fattura:
 
 1. [Accedere al dashboard del centro per i partner](https://partner.microsoft.com/dashboard/home).
+
 2. Nel menu a sinistra scegliere **fatturazione**.
+
 3. Nella pagina **fatturazione** è possibile scaricare la fattura più recente o scaricare le fatture precedenti nella sezione **cronologia di fatturazione** .
 
 ## <a name="bill-your-customers"></a>Fatturazione dei clienti
@@ -52,7 +62,7 @@ Verranno addebitati i prodotti nella valuta del paese o dell'area geografica in 
 
 La fattura è un riepilogo di tutti gli addebiti per il periodo di fatturazione corrente. Sono inclusi gli addebiti per il programma, tutti i prodotti e tutti i clienti. Per esempi di scenari di fatturazione mensili e annuali, vedere [scenari di fatturazione comuni](common-billing-scenarios.md)
 
-La fattura è disponibile entro due (2) giorni dalla data di fatturazione selezionata in ora UTC. Se, ad esempio, si dispone di una data di fatturazione del 12 settembre, il processo di generazione della fattura inizierà alle 12.00 UTC della tredicesima e completerà entro le 12.00 UTC del 14 °. Se la fattura non viene visualizzata entro 11:59PM UTC al 15, il Contratto di servizio e dovrebbe presentare una richiesta di servizio.
+La fattura è disponibile entro due (2) giorni dalla data di fatturazione selezionata in ora UTC. Se, ad esempio, la tua data di fatturazione è il 12 settembre, il processo di generazione della fattura inizierà alle 12:00 UTC del giorno 13 e terminerà entro le 12:00 UTC del giorno 14. Se la fattura non viene visualizzata entro 11:59PM UTC al 15, il Contratto di servizio e dovrebbe presentare una richiesta di servizio.
 
 I partner del programma Cloud Solution Provider (CSP) che scelgono di essere fatturati mensilmente pagano Microsoft 60 giorni in modo posticipato per le sottoscrizioni dei clienti (sia basate sulle licenze che basate sull'utilizzo).
 

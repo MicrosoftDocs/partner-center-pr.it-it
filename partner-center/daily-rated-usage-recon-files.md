@@ -1,25 +1,32 @@
 ---
 title: File di riconciliazione dell'utilizzo con classificazione giornaliera | Centro per i partner
 ms.topic: article
-ms.date: 11/21/2019
-description: Informazioni sui file di riconciliazione dell'utilizzo giornalieri nel centro per i partner.
+ms.date: 11/27/2019
+description: Informazioni su come leggere i file di riconciliazione dell'utilizzo con classificazione giornaliera nel centro per i partner.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 896f81b3a51e234065af7779d287b4023dd7163c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d7de5da8529aefb325961ac5c139a9375b66f7e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389699"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721858"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>File di riconciliazione dell'utilizzo con classificazione giornaliera
 
-Si applica a:
+**Si applica a**
 
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore fatturazione
+- Agente di vendita
+- Agente help desk
 
 In questo argomento viene illustrato come leggere i file di riconciliazione dell'utilizzo con classificazione giornaliera.
 
@@ -53,7 +60,7 @@ In questo argomento viene illustrato come leggere i file di riconciliazione dell
 | Sottocategoria contatore | Tipo di servizio di Azure, che può influire sulla frequenza. |
 | Nome contatore | Unità di misura per il contatore utilizzato. |
 | Area del contatore | Questa colonna identifica la posizione del data center nell'area geografica dei servizi dove applicabile e popolato. |
-| Unità | Unità del **nome**della risorsa. |
+| Unit | Unità del **nome**della risorsa. |
 | Quantità utilizzata | Quantità di servizio utilizzata (ad esempio, *ore* o *GB*) durante il periodo di Reporting. Include qualsiasi utilizzo non fatturato dei periodi di Reporting precedenti. |
 | Percorso della risorsa | > il data center in cui è in esecuzione il contatore. |
 | Servizio utilizzato | Il servizio della piattaforma Azure usato. |

@@ -1,7 +1,7 @@
 ---
 title: Co-selling con Microsoft | Centro per i partner
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: I partner Microsoft qualificati possono co-vendere con Microsoft. Scopri come definire gli impegni, invitare Microsoft a collaborare o visualizzare gli impegni inviati.
@@ -10,18 +10,23 @@ ms.author: jenhayes
 keywords: segnalazione, richiesta di informazioni, Trova un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ce7fe09c57729517c9ecae124cdcb68e2ea84628
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 836bb2634a010cee7adab883f47af50fc7007d73
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253449"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721496"
 ---
 # <a name="co-sell-with-microsoft"></a>Co-selling con Microsoft
 
 **Si applica a**
 
 -  Centro per i partner
+
+**Ruoli appropriati**
+
+- Amministratore dei partner MPN
+- Amministratore delle segnalazioni
 
 I partner Microsoft qualificati hanno la possibilità di co-selling con Microsoft. Questa collaborazione consente di adottare soluzioni sul mercato, guidare i ricavi Uniti e garantire il successo dei clienti.
 

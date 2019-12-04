@@ -1,21 +1,29 @@
 ---
 title: Scenari di fatturazione comuni per le transazioni SaaS basate su licenze | Centro per i partner
 ms.topic: article
-ms.date: 11/21/2019
-description: Scenari di fatturazione comuni nel centro per i partner per le transazioni SaaS basate su licenze.
+ms.date: 11/25/2019
+description: Informazioni sugli scenari di fatturazione comuni nel centro per i partner per le transazioni SaaS basate su licenze.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: fatturazione, pagamenti, acquisto monouso, acquisto ricorrente, sottoscrizioni, postazioni
 ms.localizationpriority: medium
-ms.openlocfilehash: b808a3bbfc0856e03f1c775d7e3145a29c2239fb
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 5d86210ce52280b73846de56dafb5909081b6524
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389609"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722514"
 ---
 # <a name="billing-scenarios-for-license-based-saas-transactions"></a>Scenari di fatturazione per le transazioni SaaS basate su licenze
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore fatturazione
+- Agente help desk
+- Agente di vendita
+
 
 Questi [scenari di fatturazione comuni](common-billing-scenarios.md) di esempio sono applicabili alle sottoscrizioni SaaS (License-based software as a Service) nel centro per i partner.
 
@@ -29,7 +37,7 @@ I file di ricognizione includeranno gli addebiti seguenti:
 
 | Data di acquisto | Data di inizio addebito | Data di fine addebito | Prezzo unitario | Quantità unità | Importo totale | Tipo di addebito | Descrizione della sottoscrizione |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $ 0 | 1 | $ 0 | Nuova | Versione di prova gratuita |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | $ 0 | 1 | $ 0 | Nuova | Versione di valutazione gratuita |
 | 07/10/2019 | 07/10/2019 | 08/09/2019 | $ 2 | 1 | $ 2 | Rinnova | Sottoscrizione a pagamento |
 
 ## <a name="cancel-a-free-trial-saas-subscription"></a>Annulla una sottoscrizione SaaS per la versione di valutazione gratuita
@@ -37,14 +45,14 @@ I file di ricognizione includeranno gli addebiti seguenti:
 > [!TIP]
 > È possibile annullare una sottoscrizione SaaS della versione di valutazione gratuita basata su licenze in qualsiasi momento, anche durante il periodo di valutazione gratuita.
 
-In questo scenario è stata acquistata una sottoscrizione SaaS per la versione di valutazione gratuita basata su licenza il 1 ° luglio, che è stata quindi annullata immediatamente nel centro per i partner. 
+In questo scenario è stata acquistata una sottoscrizione SaaS per la versione di valutazione gratuita basata su licenza il 1 ° luglio, che è stata quindi annullata immediatamente nel centro per i partner.
 
 Il file di ricognizione includerà gli addebiti seguenti:
 
 | Data di acquisto | Data di inizio addebito | Data di fine addebito | Prezzo unitario | Quantità unità | Importo totale | Tipo di addebito | Descrizione della sottoscrizione |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $ 0 | 11 | $ 0 | Nuova | Versione di prova gratuita |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $ 0 | 11 | $ 0 | Cancel | Versione di prova gratuita |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | $ 0 | 11 | $ 0 | Nuova | Versione di valutazione gratuita |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | $ 0 | 11 | $ 0 | Annulla | Versione di valutazione gratuita |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Convertire una sottoscrizione SaaS per il contatore personalizzato in un altro SKU
 

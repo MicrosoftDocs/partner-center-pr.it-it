@@ -10,20 +10,29 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: log attività, sottoscrizione, sottoscrizione, pagamenti, fatturazione, transazioni
 ms.localizationpriority: medium
-ms.openlocfilehash: b9c1c2e6cc97fc923707ba8c2cbab42117c9c259
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252708"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721785"
 ---
 # <a name="view-customer-activity-logs"></a>Visualizzare i log attività dei clienti
 
 **Si applica a**
 
--  Centro per i partner
--  Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner
+- Centro per i partner per Microsoft Cloud for US Government
+- Partner del programma Cloud Solution Provider
 
+**Ruoli appropriati**
+
+- Amministratore globale
+- Amministratore fatturazione
+- Amministratore gestione utenti
+- Agente amministratore
+- Agente di vendita
+- Agente help desk
 
 I log attività offrono informazioni sulle transazioni e le operazioni di gestione dei partner per i clienti. I log per le transazioni offrono informazioni dettagliate sulla transazione, incluse le sottoscrizioni acquistate. Puoi anche esportare i log attività in file con valori delimitati da virgole (CSV) compatibile con Excel.
 
@@ -31,7 +40,9 @@ I log attività includono record relativi alle azioni dei partner sugli account 
 
 **Visualizzare ed esportare i log attività**
 
-1.  Nel menu **Impostazioni account** seleziona **Log attività**.
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+
+2. Nel menu **Impostazioni account** seleziona **Log attività**.
 2.  Seleziona il periodo del log attività nei campi **Da** e **a**. Per impostazione predefinita, l'esportazione del log attività include l'ultimo mese.
 
     Ogni log attività include un link alla pagina **Sottoscrizioni** del cliente elencato.

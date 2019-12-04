@@ -1,7 +1,7 @@
 ---
 title: Controllare l'integrità del servizio | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come controllare l'integrità dei servizi per un cliente quando si verifica un problema con un servizio.
@@ -10,18 +10,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: integrità, integrità del servizio, problemi del servizio
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dbb478e37aaec144b822a2b2288860addf549b7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 2d43782a53e09f6589e735792a2de46987822a4b
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253425"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721655"
 ---
 # <a name="check-service-health"></a>Controllare l'integrità del servizio
 
 **Si applica a**
 
--  Centro per i partner
+- Centro per i partner
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore globale
+- Agente help desk
+- Agente di vendita
 
 Una delle prime cose che è possibile fare quando un cliente segnala problemi con un servizio è controllare l'integrità del servizio.
 

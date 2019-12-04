@@ -1,7 +1,7 @@
 ---
 title: Vendere sottoscrizioni di software tramite CSP | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono usare il centro per i partner per acquistare, gestire, vendere e annullare le istanze riservate di Azure e le sottoscrizioni server per i clienti.
@@ -10,14 +10,19 @@ ms.author: evansma
 keywords: Cloud Solution Provider, CSP, servizi basati sul cloud, Azure, istanze riservate di Azure, Windows Server, SQL Server, sottoscrizioni di software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 32efdc721bd9a81ff04527ca82e5e71c1fe7cb58
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0e2b735c1b67b49c18f2b83c042ec5a2bb0eefbd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253545"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721336"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendere sottoscrizioni di software tramite CSP
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore globale
 
 Con le prenotazioni di Azure e le sottoscrizioni di server (Windows Server e sottoscrizioni SQL Server), i partner del programma CSP possono risolvere meglio la richiesta dei clienti in rapida crescita per soluzioni più convenienti per supportare il supporto estremamente prevedibile e persistente carichi di lavoro cloud. 
 

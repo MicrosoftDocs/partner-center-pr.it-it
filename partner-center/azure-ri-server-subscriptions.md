@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, sottoscrizioni, VM, prenotazione, istanza riservata
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d7fb74ef26408ad012ac07c4e3bb40e6bda2199
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
-ms.translationtype: HT
+ms.openlocfilehash: 22ba6af523bf73d9d7778940ef7495e6581a0730
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "74681921"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722263"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,6 +24,14 @@ Si applica a:
 
 - Centro per i partner
 
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore globale
+- Agente help desk
+- Agente di vendita
+- Amministratore gestione utenti
+ 
 ## <a name="what-are-azure-reservations"></a>Che cosa sono le prenotazioni di Azure?
 
 Le prenotazioni di Azure ti aiutano a risparmiare denaro pagando in anticipo per un anno o tre anni di macchine virtuali, capacità di calcolo del database SQL, velocità effettiva Azure Cosmos DB o altre risorse di Azure. Il pre-pagamento consente di ottenere uno sconto sulle risorse utilizzate. Le prenotazioni possono ridurre notevolmente i costi per macchina virtuale, calcolo del database SQL, Azure Cosmos DB e altre risorse fino al 72% rispetto ai prezzi del pagamento a consumo. Le prenotazioni forniscono uno sconto per la fatturazione e non influiscono sullo stato di runtime delle risorse. Per altre informazioni, vedere [che cosa sono le prenotazioni di Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)

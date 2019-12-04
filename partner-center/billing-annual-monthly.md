@@ -1,25 +1,35 @@
 ---
 title: Differenze di fatturazione mensili e annuali | Centro per i partner
 ms.topic: article
-ms.date: 11/21/2019
-Description: Differenze tra i cicli di fatturazione mensili e annuali nel centro per i partner.
+ms.date: 11/25/2019
+Description: Informazioni sulle differenze tra i cicli di fatturazione mensili e annuali nel centro per i partner.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6b316f55a6d2cd84959d60feed666d657893b8
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389769"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722413"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>Differenze di fatturazione mensili e annuali
 
-Si applica a:
+**Si applica a**
 
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore fatturazione
+- Amministratore globale
+- Amministratore degli incentivi
+- Utente di incentivi
+- Agente help desk
+- Agente di vendita
 
 In questo argomento vengono illustrate le differenze tra la **fatturazione mensile** e la **fatturazione annuale** nel centro per i partner, inclusi i vantaggi e i casi d'uso. È possibile pagare per determinate sottoscrizioni Cloud Solution Provider (CSP) su base mensile o annuale.
 
@@ -197,7 +207,7 @@ Gli ID offerta nella matrice dell'offerta sono gli stessi per tutte le frequenze
 
 ### <a name="incentives-calculation"></a>Calcolo degli incentivi
 
-Gli incentivi vengono calcolati in base ai **ricavi fatturati**, ai **ricavi *non* corretti**. I pagamenti degli incentivi realizzati verranno visualizzati in base ai nostri criteri disponibili nelle nostre guide agli incentivi CSP.
+Gli incentivi vengono calcolati in base ai **ricavi fatturati**, ai **ricavi *non* corretti**. I pagamenti degli incentivi realizzati verranno visualizzati in base ai criteri disponibili nelle nostre guide agli incentivi CSP.
 
 Quando viene venduta una sottoscrizione fatturata annualmente, i ricavi di tale sottoscrizione vengono riconosciuti per il calcolo degli incentivi in base ai ricavi fatturati.
 
@@ -213,7 +223,7 @@ I partner ottengono incentivi per tutte le transazioni idonee, indipendentemente
 
 Per domande sugli incentivi, contattare il team di supporto tecnico per gli incentivi regionali appropriato:
 
-| Region | Indirizzo e-mail |
+| Area geografica | Indirizzo e-mail |
 | ------ | ------------- |
 | America del Nord | <ocina@microsoft.com> |
 |America Latina & Brasile | <ocilatam@microsoft.com> |

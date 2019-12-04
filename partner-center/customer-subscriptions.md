@@ -1,7 +1,7 @@
 ---
 title: Sottoscrizioni dei clienti | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono vendere le sottoscrizioni ai clienti e gestirle tramite il centro per i partner.
@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: sottoscrizioni, assegnazione di licenza, licenza, soddisfazione dei clienti, sottoscrizioni di Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b043a6bc6502bc8755f47e3b930d5f611ac62f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1c2116ca31b82e8b135208b4569012937d118866
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253501"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722545"
 ---
 # <a name="customer-subscriptions"></a>Sottoscrizioni dei clienti
 
 **Si applica a**
 
 -  Centro per i partner
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore globale
+- Agente help desk
+- Agente di vendita
 
 Come partner CSP, una delle tue principali attività è offrire ai clienti le sottoscrizioni per i prodotti Microsoft. Nel centro per i partner è possibile gestire tutte le sottoscrizioni per ogni cliente. Puoi aggiungere le sottoscrizioni, aggiungere licenze alle sottoscrizioni esistenti, offrire anche le sottoscrizioni di valutazione per i clienti che vogliono provare il software. Inoltre, è possibile visualizzare l'analisi per comprendere in che modo i clienti utilizzano il software, contribuendo a fornire un supporto migliore.
 

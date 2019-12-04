@@ -10,19 +10,28 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, aggiungere un cliente, account del cliente, account del cliente nel Centro per i partner, clienti, aggiungere i clienti, creare un account del cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384610"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722303"
 ---
 # <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente
 
 **Si applica a**
 
--  Centro per i partner
--  Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner
+- Centro per i partner per Microsoft Cloud for US Government
+- Partner del programma Cloud Solution Provider
+
+**Ruoli appropriati**
+
+- Amministratore globale
+- Amministratore gestione utenti
+- Agente amministratore
+- Agente di vendita
+
 
 Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto a un cliente, è necessario aggiungerle all'elenco dei clienti nel centro per i partner.
 
@@ -51,7 +60,7 @@ Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire support
 
 7. Selezionare **done** dopo aver completato l'aggiunta delle informazioni sul cliente e aver acquistato le sottoscrizioni obbligatorie.
 
-## <a name="see-also"></a>Vedere anche
+## <a name="see-also"></a>Vedi anche
 
 - Per ulteriori informazioni su ciò che è possibile vendere ai clienti tramite il programma Cloud Solution Provider, vedere la pagina relativa alle [offerte dei partner nel programma Cloud Solution Provider](csp-offers.md) .
 

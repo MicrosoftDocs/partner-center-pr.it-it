@@ -1,7 +1,7 @@
 ---
 title: Iscriversi al centro per i partner come fornitore del pannello di controllo | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni su come eseguire la registrazione come un produttore del pannello di controllo (CPV) nel centro per i partner.
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Fornitore del pannello di controllo, registrazione delle app CPV, gestione delle app CPV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0edc8aed269f992738f39b6250e51ec5f694727c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d8320c584a9beefb6163a1072f90d66bdbaa8454
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253577"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722559"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Iscriversi al centro per i partner come fornitore del pannello di controllo
 
 **Si applica a**
 
 - Centro per i partner
+
+**Ruoli appropriati**
+
+- Amministratore globale
 
 Un produttore del pannello di controllo (CPV) è un fornitore di software indipendente che sviluppa applicazioni per l'uso da parte dei partner Cloud Solution Provider (CSP) per consentire loro di integrare i propri sistemi con le API del centro per i partner. Un fornitore del pannello di controllo non è un partner CSP con accesso diretto al dashboard del centro per i partner o alle API del centro per i partner.
 

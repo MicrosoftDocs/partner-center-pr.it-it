@@ -1,28 +1,35 @@
 ---
 title: Fatturazione | Centro per i partner
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Argomenti relativi alla fatturazione nel Centro per i partner, incluse le risorse di fatturazione, le fatture e la fatturazione CSP.
+Description: Scopri gli argomenti relativi alla fatturazione nel Centro per i partner, incluse le risorse per la fatturazione, le fatture e la fatturazione CSP.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione ordini, mancato pagamento, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: high
-ms.openlocfilehash: 8169c8303c78ceaeb1b47c124411f0324ae0349a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b3052f33b55ea7aa57d5ee9d29d2839791a92088
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384624"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722173"
 ---
 # <a name="billing"></a>Fatturazione
 
-Si applica a:
+**Si applica a**
 
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore fatturazione
+- Amministratore globale
+- Agente di vendita
 
 | Argomento | Descrizione |
 | ----- | ----------- |

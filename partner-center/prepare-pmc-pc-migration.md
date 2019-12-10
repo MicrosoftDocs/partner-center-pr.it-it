@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Aspetti da considerare prima di spostare l'azienda da PMC al centro per i partner
+description: Esaminare le informazioni utili e le domande frequenti prima di trasferire la propria azienda da PMC al centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652182"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943264"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepararsi al passaggio da partner Membership Center (PMC) a partner Center
 
@@ -23,7 +23,7 @@ Si sta migrando la gestione delle appartenenze da partner Membership Center (PMC
 
 **Che cos'è un account di lavoro di Azure Active Directory (Azure AD)?**
 
-Un account aziendale Azure è una rappresentazione virtuale dedicata e isolata della società nel cloud pubblico di Azure e viene creato quando sottoscrivi un servizio cloud Microsoft, ad esempio Azure, Microsoft Intune o Office 365.
+Un account aziendale Azure è una rappresentazione virtuale, dedicata e isolata, della tua azienda nel cloud pubblico di Azure che viene creata al momento della sottoscrizione di un servizio cloud Microsoft, ad esempio Azure, Microsoft Intune o Office 365.
 
 L'account aziendale ospita gli utenti Azure AD e le informazioni su di essi, ovvero posta elettronica, password, dati del profilo, autorizzazioni e così via. L'account di lavoro contiene anche gruppi, applicazioni e altre informazioni relative a una società e alla relativa sicurezza. Per ulteriori informazioni, vedere...
 
@@ -91,7 +91,7 @@ Se si usa lo stesso tenant di Azure AD per eseguire la migrazione di più accoun
 **Se si hanno più tenant di AAD e un singolo account MPN, è possibile collegarli al centro per I partner?**
 
 Sì, nel centro per i partner è possibile collegare più tenant di Azure AD a un singolo account del centro per i partner.
-Altre informazioni sono disponibili qui. 
+Ulteriori informazioni. 
 
 **Sono previste restrizioni per l'aggiunta di più tenant Azure AD a un singolo account del centro per i partner?**
 

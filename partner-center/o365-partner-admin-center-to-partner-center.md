@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Considerazioni importanti per i partner dell'interfaccia di amministrazione partner di Office 365 in relazione alla migrazione al Centro per i partner
+description: Individuare le funzionalità comuni di amministrazione dei partner di Office 365, ad esempio creare richieste aziendali e di servizio, dopo la migrazione al centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4780226cb66fd621e51045456daa1ac2d3ee2adf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654238"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943324"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Partner di amministrazione di Office 365 partner: prepararsi per spostare le operazioni aziendali nel centro per i partner
 

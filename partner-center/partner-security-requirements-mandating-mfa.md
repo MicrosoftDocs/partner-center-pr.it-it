@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dettagli sull'uso dell'autenticazione a più fattori per i requisiti di sicurezza del tenant partner
+description: Scopri in che modo l'autenticazione a più fattori per i tenant partner ti aiuterà a proteggere l'accesso alle risorse dei clienti. Include scenari di esempio.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: medium
-ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
-ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
+ms.openlocfilehash: f0beb695bee9a67f79373ea903158de3fbb66851
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/13/2019
-ms.locfileid: "73983345"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943104"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Imposizione di multi-factor authentication per il tenant partner
 
@@ -166,7 +166,7 @@ Prima di applicare un'eccezione tecnica, esaminare l'elenco dei problemi comuni 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problema 1: il partner necessita di più tempo per implementare l'autenticazione a più fattori per gli agenti partner
 Un partner non è stato avviato o è ancora in fase di implementazione dell'autenticazione a più fattori per gli agenti partner che richiedono l'accesso ai portali di Microsoft Online Services mediante privilegi di amministrazione delegata del partner per gestire le risorse del cliente. Il partner necessita di più tempo per completare l'implementazione dell'autenticazione a più fattori. Si tratta di un motivo valido per un'eccezione tecnica?
 
-**Risposta**: No. Il partner deve pianificare l'implementazione dell'autenticazione a più fattori per gli utenti, in modo da evitare rotture.
+**Risposta:** no. Il partner deve pianificare l'implementazione dell'autenticazione a più fattori per gli utenti, in modo da evitare rotture.
 
 > [!NOTE]
 > Anche se il partner non ha implementato l'autenticazione a più fattori per i propri agenti partner, gli agenti partner possono comunque accedere ai portali di Microsoft Online Services usando i privilegi di amministrazione delegata del partner purché possano completare la registrazione dell'autenticazione a più fattori Quando richiesto durante l'accesso al tenant del cliente. Il completamento della registrazione dell'autenticazione a più fattori non abilita automaticamente l'autenticazione a più fattori.
@@ -174,12 +174,12 @@ Un partner non è stato avviato o è ancora in fase di implementazione dell'aute
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Problema 2: il partner non ha implementato l'autenticazione a più fattori per gli account utente che non usano privilegi amministrativi delegati
 Un partner ha alcuni utenti dei tenant partner che non necessitano dell'accesso ai portali di Microsoft Online Services per gestire le risorse dei clienti usando i privilegi di amministrazione delegata del partner. Il partner è in fase di implementazione dell'autenticazione a più fattori per questi utenti e richiede più tempo per il completamento. Si tratta di un motivo valido per un'eccezione tecnica?
 
-**Risposta**: No. Poiché questi account utente non usano i privilegi di amministrazione delegata del partner per gestire le risorse dei clienti, non dovranno accedere al tenant del cliente. Non saranno interessati dalla Azure AD che richiede la verifica dell'autenticazione a più fattori durante l'accesso al tenant del cliente.
+**Risposta:** no. Poiché questi account utente non usano i privilegi di amministrazione delegata del partner per gestire le risorse dei clienti, non dovranno accedere al tenant del cliente. Non saranno interessati dalla Azure AD che richiede la verifica dell'autenticazione a più fattori durante l'accesso al tenant del cliente.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Problema 3: il partner non ha implementato l'autenticazione a più fattori per gli account del servizio utente
 Un partner ha alcuni account utente nei tenant partner usati dai dispositivi come account del servizio. Si tratta in genere di account con privilegi limitati che non richiedono Access partner Center né i portali di Microsoft Online Services per gestire le risorse dei clienti mediante privilegi di amministrazione delegata del partner. Si tratta di un motivo valido per un'eccezione tecnica?
 
-**Risposta**: No. Poiché questi account utente non usano i privilegi di amministrazione delegata del partner per gestire le risorse dei clienti, non dovranno accedere al tenant del cliente. Non saranno interessati dalla Azure AD che richiede la verifica dell'autenticazione a più fattori durante l'accesso al tenant del cliente.
+**Risposta:** no. Poiché questi account utente non usano i privilegi di amministrazione delegata del partner per gestire le risorse dei clienti, non dovranno accedere al tenant del cliente. Non saranno interessati dalla Azure AD che richiede la verifica dell'autenticazione a più fattori durante l'accesso al tenant del cliente.
 
 #### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Problema 4: il partner non può implementare l'autenticazione a più fattori con l'app MS Authenticator
 Un partner ha criteri di "pulizia" che non consentono ai dipendenti di portare i dispositivi mobili personali nell'area di lavoro. Senza accedere ai dispositivi mobili personali, i dipendenti non possono installare l'app MS Authenticator, che è l'unica verifica dell'autenticazione a più fattori supportata dai criteri di base Azure AD. Si tratta di un motivo valido per un'eccezione tecnica?
@@ -207,7 +207,7 @@ Un partner sta usando Exchange Online PowerShell con privilegi di amministrazion
 #### <a name="issue-7-partner-has-implemented-3rd-party-mfa-which-isnt-recognized-by-azure-ad"></a>Problema 7: il partner ha implementato l'autenticazione a più fattori di terze parti che non viene riconosciuta da Azure AD
 Un partner ha implementato l'autenticazione a più fattori per gli utenti usando una soluzione multi-factor authentication di terze parti Tuttavia, il partner non è in grado di configurare correttamente la soluzione multi-factor authentication di terze parti per inoltrare al Azure AD che la verifica dell'autenticazione a più fattori è stata completata durante l'autenticazione Si tratta di un motivo valido per un'eccezione tecnica?
 
-**Risposta**: Sì, questo può essere considerato un motivo valido per un'eccezione tecnica. Prima Azure AD di inviare una richiesta di eccezione tecnica, verificare con il provider di soluzioni multi-factor authentication di terze parti che la soluzione multi-factor authentication non può essere configurata in modo da trasmettere l'attestazione *authenticationmethodsreferences* (con valore *multipleauthn*) per indicare che la verifica dell'autenticazione a più fattori è stata completata durante l'autenticazione dell'utente. Quando si invia una richiesta di eccezione tecnica, fornire i dettagli della soluzione di autenticazione a più fattori di terze parti usata e indicare il metodo di integrazione (ad esempio, tramite la Federazione delle identità o l'uso di Azure AD controllo personalizzato).
+**Risposta**: Sì, questo può essere considerato un motivo valido per un'eccezione tecnica. Prima di inviare una richiesta di eccezione tecnica, verificare con il provider di soluzioni di autenticazione a più fattori di terze parti che la soluzione multi-factor authentication non può essere configurata in modo da propagare l'attestazione *authenticationmethodsreferences* (con valore *multipleauthn*) a Azure ad per indicare che la verifica dell'autenticazione a più fattori Quando si invia una richiesta di eccezione tecnica, fornire i dettagli della soluzione di autenticazione a più fattori di terze parti usata e indicare il metodo di integrazione (ad esempio, tramite la Federazione delle identità o l'uso di Azure AD controllo personalizzato).
 
 ### <a name="how-to-submit-a-request-for-technical-exception"></a>Come inviare una richiesta di eccezione tecnica
 

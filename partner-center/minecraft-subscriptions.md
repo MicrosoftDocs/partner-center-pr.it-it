@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 'Vendi le sottoscrizioni di Minecraft: Education Edition ai clienti qualificati del settore istruzione.'
+description: Vendere gli abbonamenti di Minecraft Education Edition a clienti qualificati che possono quindi scaricarli da Microsoft Education Store.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Partner per istituti di istruzione autorizzati, formazione, vendite a Education, scuole
 ms.localizationpriority: medium
-ms.openlocfilehash: ef1191b068f5e6afb22dc8e7734489f4dd7d3531
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653284"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943494"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendere le sottoscrizioni di Minecraft: Education Edition ai clienti del settore istruzione
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Generare nuovi lead ed entrare in contatto con i clienti che richiedono aiuto per implementare i prodotti e le soluzioni Microsoft.
+description: Informazioni su come creare un profilo business per generare lead di vendita attraverso la funzionalità dei riferimenti del centro per i partner e quindi per rispondere a questi riferimenti.
 author: LauraBrenner
 ms.author: labrenne
 keywords: segnalazioni, profilo di business, trovare un partner
 ms.localizationpriority: medium
-ms.openlocfilehash: a213c9b3a031b355f045b8fc976fac1dcc27e756
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652152"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943254"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 

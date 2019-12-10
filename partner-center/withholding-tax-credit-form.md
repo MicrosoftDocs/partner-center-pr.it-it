@@ -2,7 +2,7 @@
 title: Assicurarsi di aver ricevuto il credito per le imposte ritenute | Centro per i partner
 ms.topic: article
 ms.date: 11/07/2019
-description: Come verificare che l'account del centro per i partner sia accreditato per le imposte ritenute.
+description: Verificare che l'account del centro per i partner disponga di un credito per la ritenuta delle imposte e aprire una richiesta di servizio, se necessario.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,14 +10,14 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: trattenuto crediti fiscali, crediti fiscali, modulo di credito fiscale tedesco, credito fiscale modulo
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f25c570f8a71a261e815891545acf48e0a8fe08
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 98449ae99b0acc549ba10129c49102d4e498b96b
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384859"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943164"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assicurarsi di avere il credito per le imposte ritenute
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assicurarsi che sia accreditata la ritenuta d'acconto
 
 Si applica a:
 
@@ -83,7 +83,7 @@ Se si invia un **certificato di imposte in lingua inglese** tramite una **richie
 
 I certificati fiscali devono essere solo per le **fatture Microsoft**. Se sono presenti **altre società** che includono i certificati, specificare la quantità in modo che sia possibile escludere l'importo nell'elaborazione interna, ma avere ancora la visibilità completa sui certificati totali inclusi.
 
-## <a name="create-a-service-request"></a>Creare una richiesta di servizio
+## <a name="create-a-service-request"></a>Crea una richiesta di servizio
 
 Le informazioni seguenti si applicano *solo* ai partner del **programma Cloud Solution Provider (CSP)** . Sono inclusi solo i **partner Direct fattura** e i **provider indiretti**. I **rivenditori indiretti** devono invece collaborare con i relativi **provider indiretti** .
 

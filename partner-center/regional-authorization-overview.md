@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/03/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vedere i paesi e le aree in cui è possibile vendere offerte CSP, in base alla posizione della società.
+description: Vedere i paesi, le aree e le valute in cui è possibile vendere le offerte CSP, in base alla posizione della società.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Mercati CSP, territori, dove è possibile vendere tramite CSP, offerte CSP, aree, vendere soluzioni cloud, CSP globale
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0da3385adac588dbf4c1c7551454673086c85dba
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: da8eeaef62874fb1fc8d8df5eecd2bab20e5ece5
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652062"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943244"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercati e valute regionali del programma Cloud Solution Provider
 
@@ -107,7 +107,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Hong Kong         |   USD    |
 |  Indonesia         |   USD    |
 |  Laos              |          |
-|  Macao             |   USD    |
+|  Macao - R.A.S.             |   USD    |
 |  Malaysia          |   USD    |
 |  Maldive          |          |
 |  Birmano           |          |
@@ -219,7 +219,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Svalbard e Jan Mayen|NOK|
 |  Svezia         |   SEK    |
 |  Svizzera    |   CHF    |
-|  Regno Unito             |   GBP    |
+|  REGNO UNITO             |   GBP    |
 |  Città del Vaticano   |          |
 |
 
@@ -247,7 +247,7 @@ Se la sede della società è Corea, Repubblica di, è possibile vendere le offer
 
 |  Paese/area geografica    | Currency |
 |  --------------    |:--------:|
-|  Corea, Repubblica di|   KRW    |
+|  Repubblica di Corea|   KRW    |
 |
 
 ## <a name="latin-america-and-the-caribbean-region-and-market"></a>America Latina e l'area caraibica e il mercato
@@ -347,7 +347,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Mozambico     |          |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Territori palestinesi, occupati |        |
+|  Territori Palestinesi, Occupati |        |
 |  Qatar          |   USD    |
 |  Arabia Saudita   |   USD    |
 |  Serbia         |   USD    |

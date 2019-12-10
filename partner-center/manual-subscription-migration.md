@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 12/12/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Non è più possibile rinnovare il piano Dynamics 365 per Sales/Customer Engagement da sottoscrizioni di base (offerte qualificate).
+description: Informazioni su come acquistare una nuova sottoscrizione prima della scadenza di quelle esistenti, riassegnare le licenze utente e quindi annullare la sottoscrizione precedente.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Dynamics 365 offers, Renew offers, New Dynamics 365 SKU
-ms.openlocfilehash: 354846973227fd292514454dd6f648934e5156ef
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: bbb7480264a2d3d5ae6ed1f50e0f32b5ebc1c16e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653303"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943354"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Eseguire la migrazione di Dynamics 365 ed Enterprise Plan da Basic (qualificate offerte) alle versioni più recenti
 
@@ -70,7 +70,7 @@ Se si usa l'API (CREST o centro per i partner), è possibile trovare le sottoscr
 **Opzioni di sostituzione**
 - Dynamics 365 per Sales Professional (nuovo)
 - Dynamics 365 per Sales Professional (nuovo)
-- Dynamics 365 per il servizio clienti
+- Dynamics 365 for Customer Service
 - Piano di coinvolgimento dei clienti di Dynamics 365 o
 - Membri del Team Dynamics 365
 

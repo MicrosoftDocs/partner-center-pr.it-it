@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Quando aggiorni la tua adesione al Microsoft Partner Network, hai diritto ai relativi vantaggi esclusivi. Scopri come trovare e acquistare le offerte disponibili.
+description: Per usufruire dei vantaggi esclusivi, è possibile aggiornare l'appartenenza a MPN a un'appartenenza a Microsoft Action Pack sottoscrizione o a competenze Microsoft.
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f48dcd8b5ac4a83d6f9b99c71f0d243ad78ad274
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651172"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943404"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Aggiornare l'adesione al Microsoft Partner Network
 
@@ -82,7 +82,7 @@ L'abbonamento ad Action Pack verrà rinnovato automaticamente ogni anno in tale 
 3. Seleziona l'opzione **Disabilita il rinnovo automatico** se non vuoi che l'abbonamento ad Action Pack venga rinnovato automaticamente ogni anno. 
 
 > [!NOTE]  
-> Se si disattiva il rinnovo automatico delle sottoscrizioni, non sarà possibile riattivarlo fino a quando non si rinnova nuovamente la sottoscrizione. Ti invitiamo a rinnovare prima della scadenza della sottoscrizione.
+> Se disabiliti il rinnovo automatico dell'abbonamento, potrai abilitarlo di nuovo solo al successivo rinnovo. Prima della scadenza dell'abbonamento, riceverai un promemoria per il rinnovo.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Rinnovare l'abbonamento ad Action Pack

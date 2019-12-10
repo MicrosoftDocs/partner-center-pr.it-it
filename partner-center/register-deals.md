@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/28/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Per alcune soluzioni idonee, dopo che hai selezionato Acquisito, ti verrà richiesto di fornire informazioni aggiuntive per la registrazione della trattativa. Microsoft esaminerà le informazioni fornite e potrebbe richiedere altri dettagli durante tale processo.
+description: Quando si registra una trattativa acquisita nel centro per i partner, Microsoft offre maggiori opportunità in futuro.
 author: JnHs
 ms.author: jenhayes
 keywords: registrazione delle trattative
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03e2ef23923d76b833d64346614286a39826e71b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 05c9291a9aa76efe2ff7d0a2557617b69e7455d4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652055"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943224"
 ---
 # <a name="register-your-deals"></a>Registrare le trattative
 

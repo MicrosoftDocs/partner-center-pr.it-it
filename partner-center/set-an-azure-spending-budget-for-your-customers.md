@@ -2,19 +2,19 @@
 title: Impostare un budget di spesa di Azure per i clienti | Centro partner
 ms.topic: article
 ms.date: 11/21/2019
-description: Imposta un budget mensile per cliente nel centro per i partner.
+description: Informazioni su come impostare o rimuovere i budget mensili per la spesa di Azure per i clienti e anche per visualizzare i dati di spesa di Azure e impostare le notifiche relative al budget.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 05212746e1ccbcc5081c68ca97ced6a99e20bb8c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 81f2bfa0b8e9864e0fc1a90ff5a5a11111c2a433
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384895"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943204"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Impostare un budget di spesa di Azure per i clienti
 

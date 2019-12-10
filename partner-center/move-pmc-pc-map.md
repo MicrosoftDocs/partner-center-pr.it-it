@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Comprendere le differenze e le analogie tra Partner Membership Center e Centro per i partner
+description: Comprendere le differenze e le analogie tra la console di gestione dei partner e il centro per i partner per i rinnovi, la struttura degli account, l'accesso, i ruoli utente, le competenze e altro ancora.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a6beaa331d762f47530441a91dc203ed01c78e2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 77754e9fac432e7ec7e75fd0acbb4b6d8fbe1088
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653273"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943484"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Passaggio dal Partner Membership Center al Centro per i partner
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 01/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Iscriversi a Planning Services per fornire la pianificazione pre-distribuzione per i clienti aziendali
+description: Iscriversi a Planning Services per qualificarsi per la compensazione da Microsoft per la distribuzione di corsi di formazione e altri servizi ai clienti aziendali con Software Assurance.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: pre-distribuzione, pianificazione, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9eed58a3f7198a1ea02143a96fafe4bfd39e2848
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651624"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943424"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Servizi di pianificazione Software Assurance nel Centro per i partner
 

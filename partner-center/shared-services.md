@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure Partner Shared Services è un nuovo tipo di offerta per i partner aderenti al programma CSP che consente di acquistare sottoscrizioni di Azure per uso proprio.
+description: USA i servizi condivisi di Azure partner per acquistare sottoscrizioni di Azure per uso personale e per avere un metodo uniforme per l'acquisto, il monitoraggio e la gestione di Azure.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, servizi condivisi, tenant
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10d2effe05bb6472a7253d094b8e25c17b9c21eb
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2d6c51ceb9151298f21bb0ebfd696e57bd8d13fb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651672"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943454"
 ---
 # <a name="add-azure-partner-shared-services"></a>Aggiungere Servizi condivisi per partner di Azure
 
@@ -71,7 +71,7 @@ A partire dal 1 ° marzo 2019, Azure partner Shared Services (APSS) non supporta
 
 I partner con BYOL o servizi gratuiti distribuiti con APSS non saranno interessati. Tuttavia, dopo il 1 ° marzo 2019 non saranno in grado di acquistare nuovi servizi BYOL o free. 
 
-Per sfruttare i vantaggi del catalogo completo delle offerte Marketplace disponibili (non solo BYOL e servizi gratuiti), si consiglia ai partner CSP di distribuire servizi condivisi usando le sottoscrizioni di Azure dirette tramite Web.  I partner CSP che hanno distribuito le risorse di terze parti BYOL e i servizi gratuiti dal Marketplace in precedenza e desiderano continuare a usarli e distribuire più offerte di terze parti sono invitati a eseguire la migrazione della sottoscrizione di APSS alla migrazione diretta di [Azure esistente Sottoscrizioni](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
+Per sfruttare i vantaggi del catalogo completo delle offerte Marketplace disponibili (non solo BYOL e servizi gratuiti), si consiglia ai partner CSP di distribuire servizi condivisi usando le sottoscrizioni di Azure dirette tramite Web.  I partner CSP che hanno distribuito le risorse di terze parti BYOL e i servizi gratuiti dal Marketplace in precedenza e desiderano continuare a usarli e distribuire più offerte di terze parti sono invitati a eseguire la migrazione della sottoscrizione di APSS alla [migrazione di sottoscrizioni di Azure esistenti](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
 
 I partner, che pianificano di continuare a usare la sottoscrizione di APSS dopo il 1 ° marzo 2019 e vogliono distribuire nuovi servizi [BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) di terze parti o servizi gratuiti, possono seguire le istruzioni fornite dagli ISV per distribuirle nelle sottoscrizioni apss.
 

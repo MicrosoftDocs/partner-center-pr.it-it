@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Strategie per la gestione dei rischi delle transazioni online, compreso il mancato pagamento da parte del cliente per beni e servizi e l'attività fraudolenta o l'uso improprio.
+description: È importante conoscere i diversi tipi di rischio correlati alle transazioni online e alle procedure consigliate per la gestione e la mitigazione di tali rischi.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: frode, uso improprio, uso accettabile, criteri di uso accettabile, mancato pagamento, il cliente non pagherà la fattura, rischio online, furto di servizio, abuso di servizio, sospensione di una sottoscrizione,
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 604c192259fd4194a3b43d57721caa7566704b58
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384760"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943524"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestione del mancato pagamento, frode o utilizzo improprio nel centro per i partner
 

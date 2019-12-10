@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: I tuoi clienti possono testare i prodotti a sottoscrizione Microsoft per 30 giorni. È possibile iscriversi a queste versioni di valutazione nel catalogo proprio come molti altri Servizi online.
+description: I tuoi clienti possono testare i prodotti a sottoscrizione Microsoft per 30 giorni. Iscriversi a queste versioni di valutazione nel catalogo proprio come molti altri Servizi online.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ca774233fa6d5314e57f1ab2eb2a73b6037223e5
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384836"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943294"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Offrire ai clienti le versioni di valutazione dei prodotti Microsoft
 
@@ -83,7 +83,7 @@ Dovrai convertire la versione di valutazione in una sottoscrizione a pagamento. 
 
 Potrebbe essere necessario modificare le API per adattarla alla conversione di una versione di valutazione gratuita a una sottoscrizione a pagamento. Per ulteriori informazioni, vedere la seguente documentazione per gli sviluppatori:
 
-- [Convertire una sottoscrizione di valutazione in una a pagamento](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Convertire un abbonamento di valutazione in uno a pagamento](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [Ottenere un elenco delle offerte di conversione della copia di valutazione](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="expiring-offers"></a>Offerte in scadenza
@@ -110,6 +110,6 @@ Non verranno visualizzate le versioni di valutazione gratuite elencate nel file 
 
 Le versioni di valutazione gratuite non influiscano sugli incentivi.
 
-## <a name="support"></a>Supporto
+## <a name="support"></a>Supporto tecnico
 
 Per il supporto delle versioni di valutazione gratuite, inviare una richiesta di assistenza tramite il centro per i partner.

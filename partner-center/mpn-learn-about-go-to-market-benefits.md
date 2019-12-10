@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/31/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: I membri di un Microsoft Partner Network possono essere idonei per determinati vantaggi di go-to-Market. Informazioni sui diversi livelli di vantaggi offerti dal mercato e su come attivarli e gestirli nel centro per i partner.
+description: I vantaggi offerti dal mercato ti permettono di accedere a risorse esclusive per vendite e marketing che consentono di accelerare il time-to-Market, generare lead ed espandere il tuo business.
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, vantaggi per l'appartenenza, appartenenza, vantaggi per la commercializzazione, vai al mercato, vai a Market, GTM, Gold Membership, Silver Membership
 ms.localizationpriority: medium
-ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 359c86cbd2929ced4203b09b988ec1fbf7b2ea44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653261"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943334"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>Scopri i vantaggi dell'abbonamento MPN go-to-Market (GTM)
 
@@ -82,7 +82,7 @@ Verrà visualizzato un elenco di vantaggi di go-to-Market già attivi o disponib
 Per i passaggi specifici per attivare o gestire i vantaggi dell'appartenenza a GTM, vedere [come gestire i vantaggi di go-to-Market](manage-your-partner-network-benefits.md#manage-go-to-market-benefits). Parte di questo processo richiede di assegnare un responsabile marketing come contatto per i messaggi di posta elettronica di completamento e per le comunicazioni relative ai vantaggi GTM che si attivano.
 
 >[!IMPORTANT]
->È necessario essere amministratore globale o MPN partner per attivare specifici vantaggi di GTM e assegnare un contatto marketing correlato. Se necessario, è possibile diventare un amministratore globale seguendo le istruzioni nella pagina dei [ **vantaggi** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (accesso richiesto). L'azienda potrebbe avere già un amministratore globale, quindi assicurarsi di rivolgersi al team.
+>È necessario essere amministratore globale o MPN partner per attivare specifici vantaggi di GTM e assegnare un contatto marketing correlato. Se necessario, puoi diventare amministratore globale seguendo le istruzioni riportate nella [pagina **Vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). La tua azienda potrebbe già avere un amministratore globale, pertanto verifica questo aspetto con il team.
 
 #### <a name="see-also"></a>Vedi anche
 

@@ -2,19 +2,19 @@
 title: Richiedi un credito per il contratto di contratto da Microsoft | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
-description: Richiedere un credito del contratto di servizio da Microsoft se si verifica un'interruzione del servizio.
+description: Informazioni sui vantaggi, sulle restrizioni e sulle procedure per la richiesta di un credito del contratto di servizio da parte di Microsoft qualora i clienti dovessero riscontrare un'interruzione del servizio.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384908"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943144"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Richiedi un credito del contratto di contratto da Microsoft 
 
@@ -47,11 +47,11 @@ Prima di [inviare una richiesta di credito del contratto](#submit-sla-credit-req
 | EX | Exchange Online |
 | FO | Protezione di Exchange Online |
 | SB | Skype for business online (in precedenza Lync Online) |
-| OS | Sottoscrizione a Office |
+| Sistema operativo | Sottoscrizione a Office |
 | PB | Power BI per Office 365 |
 | SP | SharePoint Online |
 | YA | Yammer Enterprise |
-| MESE | Errore del portale |
+| MO | Errore del portale |
 
 ### <a name="submit-sla-credit-request"></a>Invia richiesta di credito del contratto di contratto
 

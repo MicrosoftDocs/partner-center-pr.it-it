@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Convalidare e riservare i voucher nel centro per i partner
+description: Domande frequenti sullo strumento per la convalida e il riscatto del voucher, incluse informazioni sulla migrazione, la richiesta e il controllo dell'accesso e altro ancora.
 author: LauraBrenner
 ms.author: labrenne
 keywords: voucher per la formazione, Software Assurance, formazione, convalidare i voucher, riservare un voucher
 ms.localizationpriority: medium
-ms.openlocfilehash: 02da186de1918625068b08d82fee17892074159e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 570d7e605f05c0e2bb0700dd4e211cd1f074725f
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651057"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943174"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Domande frequenti: uso dello strumento di convalida e rimborso voucher 
 

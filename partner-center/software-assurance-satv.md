@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Iscriversi al programma di formazione Software Assurance
+description: Dettagli relativi alla registrazione nel programma di formazione Software Assurance, in modo da poter essere compensati per la distribuzione di corsi di formazione e pianificazione ai clienti aziendali.
 author: LauraBrenner
 ms.author: labrenne
 keywords: voucher per la formazione, Software Assurance, formazione, iscriversi a SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d6339a63d4fbd7f1d742820ca90bb66d4d67c1a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dac3c2c82ad02be3f65358573808d9f2e5d1cf52
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384797"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943414"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programma SATV (Software Assurance Training Voucher) nel Centro per i partner
 
@@ -22,7 +22,7 @@ Espandere la propria attività iscrivendosi ai programmi per partner Software As
 
 In qualità di partner di formazione Software Assurance approvato, Microsoft ricompensa l'utente per la formazione tecnica fornita ai clienti aziendali in cambio dei voucher che ottengono con Software Assurance. La partecipazione a questo programma può essere utile per attirare più clienti e diventare partner di formazione attendibile.
 
-## <a name="get-started"></a>Attività iniziali
+## <a name="get-started"></a>Per iniziare
 
 Se non si ha familiarità con i servizi di formazione per Software Assurance, seguire tutti i passaggi seguenti. Se il programma training voucher è già attivo, iniziare dal passaggio 4 (4). 
 
@@ -74,7 +74,7 @@ I pagamenti vengono gestiti tramite lo strumento di pagamento online SAVB (Softw
 
 Per ulteriori informazioni, leggere le [domande frequenti](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) ed esaminare i [criteri del programma SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
 
-Vedere anche la pagina relativa alla
+Vedi anche:
 
 - [Flusso di lavoro dei voucher di training di Software Assurance (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
 - [Domande frequenti sui voucher di formazione per Software Assurance (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)

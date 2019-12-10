@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Trova nel Centro per i partner le funzionalità che hai usato nell'interfaccia di amministrazione partner
+description: Dopo il passaggio dall'interfaccia di amministrazione dei partner al centro per i partner, Scopri come gestire l'appartenenza, i riferimenti dei clienti, gli incentivi e tutti gli altri aspetti del programma Cloud Solution Provider (CSP).
 author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, interfaccia di amministrazione di Office 365, funzionalità PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: a79badb357327e18ab28ec7cc39455cec42e539a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654308"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943564"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Passaggio dall'interfaccia di amministrazione partner (PAC) al Centro per i partner
 
@@ -32,9 +32,9 @@ Il Centro per i partner sta diventando l'unica posizione in cui gestirai la part
 |Richiedere relazioni|(Rivenditori e consulenti) Sviluppo del business -> Invia richiesta DAP|(Rivenditori e consulenti) Clienti -> Richiedi una relazione come rivenditore (vedi la nota seguente)|
 |Gestire i clienti|Gestione clienti -> Elenco clienti|Centro per i partner -> Clienti|
 |Gestisci le sottoscrizioni dei clienti|Gestione clienti -> Elenco clienti -> Seleziona cliente|Centro per i partner-> Customers: > selezionare il cliente o aggiungere il cliente all'elenco **Preferiti** attivando o disattivando la stella nell'elenco dei clienti, quindi selezionando la diapositiva **Preferiti** e passare direttamente a **Gestisci sottoscrizioni** per il cliente.|
-|Amministrare per conto di un cliente|Gestione clienti -> Seleziona cliente -> Seleziona pulsante Amministra|Centro per i partner-> Customers-> selezionare amministrare i servizi dall'elenco a discesa-> selezionare il servizio o aggiungere il cliente all'elenco **Preferiti** attivando la stella nell'elenco dei clienti, quindi selezionare la diapositiva di **Preferiti** e passare direttamente a **Amministrare i servizi** per il servizio richiesto.|
+|Amministrare per conto di un cliente|Gestione clienti -> Seleziona cliente -> Seleziona pulsante Amministra|Centro per i partner-> Customers-> selezionare amministrare i servizi dall'elenco a discesa-> selezionare il servizio o aggiungere il cliente all'elenco **Preferiti** attivando la stella nell'elenco cliente, quindi selezionare la diapositiva **Preferiti** e passare direttamente a **Amministrazione servizi** per il servizio richiesto.|
 |Creare richieste di servizio per il cliente|Richieste di servizio -> Seleziona cliente -> Seleziona pulsante + | Centro per i partner -> Richieste di servizio -> Richieste cliente -> Seleziona cliente -> Nuova richiesta|
-|Gestire le richieste di servizio dei clienti| Richieste di servizio -> Seleziona cliente|Centro per i partner-richieste di servizio >-> richieste dei clienti: > selezionare il cliente o aggiungere la richiesta di servizio all'elenco **Preferiti** attivando o disattivando la stella nella visualizzazione richieste del cliente per il cliente, quindi selezionando la diapositiva **Preferiti** , selezionare scheda **richieste di supporto** e vai direttamente alla richiesta di servizio o Visualizza aggiornamenti direttamente da **Preferiti**.|
+|Gestire le richieste di servizio dei clienti| Richieste di servizio -> Seleziona cliente|Centro per i partner-richieste di servizio >-> richieste dei clienti: > selezionare il cliente o aggiungere la richiesta di servizio all'elenco **Preferiti** attivando la stella nella visualizzazione richieste del cliente per il cliente, quindi selezionando la diapositiva **Preferiti** , selezionare la scheda **richieste di supporto** e passare direttamente alla richiesta di servizio o visualizzare gli aggiornamenti direttamente da **Preferiti**.|
 |Visualizzare lo stato di integrità dei Microsoft Online Services che gestisci|Integrità dei servizi -> Integrità dei servizi aggregati|Centro per i partner -> Integrità dei servizi|
 
 >Importante<br>

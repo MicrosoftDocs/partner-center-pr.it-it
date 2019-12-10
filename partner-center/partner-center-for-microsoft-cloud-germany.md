@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9f3a14161316261fa7ab2744b6de8af74be2ee1d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7749f61743e38bef63a5f82cbac06f9e9bdcb8dc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654217"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943514"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Centro per i partner per Microsoft Cloud Germania
 
@@ -32,6 +32,30 @@ Microsoft Cloud Germania fornisce un'istanza separata di [Microsoft Azure](https
 > 
 > Da ora in poi, i nuovi clienti hanno la possibilità di utilizzare le aree geografiche europee attualmente disponibili o le nuove aree in Germania quando diventano disponibili. Per ulteriori informazioni, vedi l'articolo [Microsoft to deliver cloud services from new datacenters in Germany](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/). 
 
+# <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrare i clienti da Microsoft Cloud Germania a un'altra area europea
+Prima di poter eseguire la migrazione di una sottoscrizione del cliente da Microsoft Cloud Germania a un'altra area europea, è necessario disporre di un account CSP esistente che si trova in tale area ed è attualmente attivo. Se non si dispone di un account, verrà richiesto di crearne uno durante la selezione dell'account CSP nel centro per i partner. Dopo la migrazione, la sottoscrizione del cliente verrà associata al tenant selezionato.
+
+## <a name="migrate-with-an-existing-csp-account"></a>Eseguire la migrazione con un account CSP esistente
+1.  Quando si accede a partner Center per Microsoft Cloud Germania, verrà richiesto di selezionare un tenant CSP attivo. Seleziona **OK**.
+2.  Quando richiesto, selezionare **ho già un tenant nell'area europea**, quindi fare clic su **Avanti**. Verrà richiesto di accedere al nuovo tenant. 
+3.  Accedere al tenant come amministratore globale.
+4.  Verificare le informazioni nella pagina conferma, quindi selezionare **conferma**.
+5.  Per ulteriori informazioni, verrà richiesto di selezionare **Visualizza dettagli** o **Visualizza dashboard** . 
+
+Se l'accesso ha esito negativo, potrebbe significare uno dei seguenti:
+- Non si è un amministratore globale nel tenant selezionato
+- Il tenant non si trova in un'area europea
+- Il tenant non è attivo
+
+Apportare le correzioni necessarie e ripetere il processo.
+
+## <a name="migrate-without-an-existing-csp-account"></a>Eseguire la migrazione senza un account CSP esistente
+1.  Quando si accede a partner Center per Microsoft Cloud Germania, verrà richiesto di selezionare un tenant CSP attivo. Seleziona **OK**.
+2.  Quando richiesto, selezionare non ho **un tenant nell'area europea**, quindi selezionare **Crea nuovo account**. 
+3.  Si passerà alla pagina di registrazione del centro per i partner, in cui è possibile creare un nuovo tenant e un account CSP in un'area europea. 
+4.  Dopo aver firmato il contratto e l'account è attivo, effettuare l'accesso con l'account Microsoft Cloud Germania corrente.
+5.  Passare al modulo di selezione del tenant.
+6.  Selezionare **ho già un tenant nell'area europea** e seguire le istruzioni.
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Centro per i partner per Microsoft Cloud Germania: vendita di soluzioni cloud tedesche nelle aree UE ed EFTA
 

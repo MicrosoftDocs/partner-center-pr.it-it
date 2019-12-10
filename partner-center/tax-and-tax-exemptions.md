@@ -2,7 +2,7 @@
 title: Tasse e esenzioni fiscali | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
-description: Comprendere le responsabilità fiscali e inviare esenzioni fiscali per le vendite CSP.
+description: Informazioni sulle responsabilità fiscali per l'area geografica specifica e su come inviare esenzioni fiscali per le vendite CSP.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 keywords: fiscali, esenzioni fiscali, IVA, rivenditore, fatturazione
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384876"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943194"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Imposte ed esenzioni fiscali
 
@@ -95,7 +95,7 @@ Quindi, creare un ticket di supporto per Microsoft con le informazioni sull'esen
 
 6. Scegliere **Invia** per inviare la richiesta di supporto. Microsoft ti invia un messaggio di posta elettronica per ottenere ulteriori informazioni.
 
-## <a name="support"></a>Supporto
+## <a name="support"></a>Supporto tecnico
 
 Per altre domande sulle esenzioni fiscali e i rimborsi, richiedere supporto nel centro per i partner. Microsoft ti contatterà per risolvere il problema nel giro di due settimane.
 

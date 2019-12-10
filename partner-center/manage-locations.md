@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Gestisci le località aziendali nel centro per i partner
+description: Informazioni sul modo in cui l'ID MPN viene usato nei programmi per gli incentivi, le aziende CSP, le sottoscrizioni e altre transazioni.
 author: LauraBrenner
 ms.author: labrenne
 keywords: account partner, località
 ms.localizationpriority: medium
-ms.openlocfilehash: 00af2b65bebfec336609f90946806c2b74827325
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fe4e2cca922b479bfdec92feb5b21d8824546e23
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653353"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943504"
 ---
 # <a name="manage-your-partner-account-locations"></a>Gestire l'account partner: località
 

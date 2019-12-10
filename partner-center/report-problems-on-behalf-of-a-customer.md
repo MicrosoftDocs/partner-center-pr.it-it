@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/16/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Se il cliente ha un problema che tu non puoi risolvere e che soddisfa i criteri descritti in Inoltrare i problemi a Microsoft, crea un ticket di supporto.
+Description: Se il cliente sta riscontrando un problema del servizio che non è possibile risolvere e che soddisfa i criteri descritti in escalation problems to Microsoft, è necessario archiviare un ticket di supporto.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: richiesta di servizio, ticket di servizio, supporto, diritto al supporto, AOBO, AOBO di Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: f0dc490ab72c87ccb1b6aa22aa84a66529820408
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654119"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943214"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Segnalare problemi per conto di un cliente
 

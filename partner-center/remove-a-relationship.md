@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: La rimozione di una relazione consente di rimuovere tutte le relazioni di business chiuse dalla vista nel Centro per i partner.
+description: Informazioni su come rimuovere un cliente dall'elenco dei clienti, rimuovere i propri privilegi amministrativi delegati e interrompere l'esecuzione di acquisti o offrire supporto.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c0289c231e90d38d2bf18d571f9194fc469ce7e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a4fb0bc0ddcf5bb6c759558c25a3df8fb12ddf08
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651980"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943234"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Rimuovere una relazione come rivenditore con un cliente
 

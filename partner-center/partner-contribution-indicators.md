@@ -11,14 +11,19 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943124"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004360"
 ---
 # <a name="partner-contribution-indicators"></a>Indicatori di contributi dei partner
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Agente amministratore
 
 Gli indicatori di contributo partner (PCI) forniscono una misura olistica dell'effetto di un partner sulla guida dei risultati dei clienti riusciti per Dynamics 365. I partner ricevono una maggiore differenziazione sul mercato quando raggiungono e gestiscono la competenza Business Applications cloud.  I partner ricevono credito per le misure chiave del successo dei clienti, ad esempio distribuzioni riuscite e aumento dell'utilizzo, e sono ricompensate per continuare a investire e scalare le proprie capacità tecniche. 
 

@@ -9,14 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 77754e9fac432e7ec7e75fd0acbb4b6d8fbe1088
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a05225d9f6a6de9f6bdf66912f8e35b47ccae78f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943484"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004290"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Passaggio dal Partner Membership Center al Centro per i partner
+
+**Ruoli appropriati**
+-   Amministratore globale
 
 Stiamo semplificando il modo di collaborare con Microsoft, introducendo un unico sito Web (Centro per i partner) che fungerà da punto di interazione centrale. Nel dashboard del Centro per i partner potrai svolgere tutte le attività in precedenza disponibili nel Partner Membership Center (PMC) 
 

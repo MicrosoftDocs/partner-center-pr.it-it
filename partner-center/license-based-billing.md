@@ -7,19 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione, pagamenti, licenza basata su licenza
 ms.localizationpriority: medium
-ms.openlocfilehash: 2313a01a03114bc36a55d222376e994966f9e088
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389829"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004920"
 ---
 # <a name="license-based-billing"></a>Fatturazione in base alle licenze
 
-Si applica a:
+**Si applica a**
 
 - Centro per i partner
 - Partner aderenti al programma CSP
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Amministratore fatturazione
+-   Agente amministratore
 
 Quando si acquistano prodotti o Servizi online nel centro per i partner che richiedono **licenze**, viene addebitata la fatturazione *per ogni licenza* acquistata. Non viene *addebitato* l'utilizzo per queste licenze. Per informazioni sulla fatturazione basata sull'utilizzo e altri tipi di fatturazione, vedere [tipi di fatturazione nel centro per i partner](billing-different-types.md).
 

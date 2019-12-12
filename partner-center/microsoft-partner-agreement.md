@@ -9,14 +9,20 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3736b70d2769e39760db2dc06afc20174fed7bed
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1b6bad1d6909b6ffc597daf2e8eb57f4647a85ef
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654328"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004581"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>Contratto Microsoft Partner per partner CSP 
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Agente amministratore
+-   Agente di vendita
 
 Il Contratto Microsoft Partner offre ai partner Microsoft un contratto semplice, unificato e accettato digitalmente. Il Contratto Microsoft Partner include un set fondamentale di condizioni perpetue che consentono a Microsoft, ai partner e ai clienti di garantire la privacy e la sicurezza dei dati, promuovere la conformità e favorire l'adozione di valide procedure aziendali.   
 
@@ -24,7 +30,7 @@ I partner che partecipano al programma Cloud Solution Provider, inclusi provider
 
 Per continuare a partecipare al programma Cloud Solution Provider, dovrai firmare il Contratto Microsoft Partner prima del 31 gennaio 2020. Il Centro per i partner ti ricorderà che puoi firmare il contratto direttamente da lì, con la massima facilità. 
 
-## <a name="microsoft-customer-agreement"></a>Contratto per i clienti Microsoft
+## <a name="microsoft-customer-agreement"></a>Contratto del cliente Microsoft
 
 L'accettazione da parte del cliente del contratto per i clienti Microsoft (MCuA) sarà obbligatoria in CSP per l'acquisto di servizi di Azure tramite un piano di Azure e per tutte le altre offerte in CSP acquistate dopo il 31 gennaio 2020. Leggi [confermare l'accettazione del contratto del cliente Microsoft (anteprima)](confirm-customer-agreement.md)
  

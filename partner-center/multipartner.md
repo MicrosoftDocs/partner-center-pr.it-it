@@ -9,12 +9,12 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 634645d59503042690e5cbde0fdce3a037eaa5e8
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: ca2db6611d26716d6f8b9cfa166bbc852bbf8b89
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189083"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004910"
 ---
 # <a name="multi-partner-support"></a>Supporto multipartner
 
@@ -22,6 +22,11 @@ ms.locfileid: "74189083"
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud for US Government
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Agente di vendita
 
 La funzionalità per più partner del centro per i partner supporta scenari in cui un cliente vuole collaborare con più di un partner. Ad esempio, un cliente può decidere di avvalersi dell'esperienza di un partner su Office 365, ma scegliere per Microsoft Azure un altro partner specializzato in questa soluzione. 
 

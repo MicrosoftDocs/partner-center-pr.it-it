@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/09/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sui requisiti di sicurezza per advisor e partner che partecipano al programma Cloud Solution Provider.
+description: Introduzione all'abilitazione dell'autenticazione a più fattori e all'adozione del framework modello di applicazione sicura, che sono ora necessari per i partner.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
-ms.openlocfilehash: b481bd3e8729c63425c45e1f9767722130dc0833
-ms.sourcegitcommit: bf10a7123490ab08c6c3a58cec7045c5d38d16cc
+ms.openlocfilehash: c117bd828f5f74a56490e52c1123ac3a973ccae6
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "73964211"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943304"
 ---
 # <a name="partner-security-requirements"></a>Requisiti di sicurezza per i partner
 

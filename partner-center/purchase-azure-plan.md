@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Acquistare più sottoscrizioni di Azure nel piano di Azure
+description: Scopri come acquistare una o più sottoscrizioni e prenotazioni di Azure nel piano di Azure per configurare le risorse e per visualizzare o aggiungere sottoscrizioni.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: f81b338fef2feeeede17db2e1de84b1d9b0d0ca8
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b259f34266415885215097c54c043a6cb91249bd
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654169"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943274"
 ---
 # <a name="purchase-the-azure-plan"></a>Acquistare il piano di Azure
 

@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f7fe5c2a3348e89cb69fc0d4e89b97f56fb2083
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384820"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004830"
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
-Si applica a:
+**Si applica a**
 
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Amministratore fatturazione
+-   Agente amministratore
+-   Amministratore dei partner MPN
 
 La **fattura** è un **Riepilogo di tutti gli addebiti** per il centro per i partner (attraverso il programma, tutti i prodotti e tutti i clienti) per il **periodo di fatturazione corrente**.
 

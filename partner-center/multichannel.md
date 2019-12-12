@@ -9,12 +9,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b218d8d82506d50c21957f406eef6874eefbb7a
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: 5dfdd0a579f323e7d6cb0af0dffbdb7bac29cf38
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189067"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005090"
 ---
 # <a name="multi-channel-support"></a>Supporto multicanale
 
@@ -23,6 +23,10 @@ ms.locfileid: "74189067"
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud for US Government
 
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Agente di vendita
 
 La funzionalità multicanale del centro per i partner supporta scenari in cui un cliente vuole assumere un partner per gestire e supportare una sottoscrizione acquistata altrove. Il supporto multicanale è applicabile quando il cliente:
 
@@ -44,7 +48,7 @@ La funzionalità multicanale del centro per i partner supporta scenari in cui un
 <tr class="even">
 <td><p><strong>Servizi basati sull'utilizzo</strong></p></td>
 <td>
-<p>Per un cliente che ha già una sottoscrizione di Microsoft Azure da un altro canale, ad esempio Advisor, Open o EA, è&#39;necessario creare una nuova sottoscrizione di Azure nel centro per i partner, immettere manualmente i dettagli della sottoscrizione e quindi annullare l'utente Servizi o l'intera sottoscrizione. Azure CSP può coesistere con canali diversi.</p>
+<p>Per un cliente che ha già una sottoscrizione di Microsoft Azure da un altro canale, ad esempio Advisor, Open o EA, è&#39;necessario creare una nuova sottoscrizione di Azure nel centro per i partner, immettere manualmente i dettagli della sottoscrizione e quindi annullare i singoli servizi o l'intera sottoscrizione. Azure CSP può coesistere con canali diversi.</p>
 <p>Per un cliente che ha già acquistato una sottoscrizione a Microsoft Azure presso un altro partner, ad esempio, è possibile passare i servizi Azure all'altro partner.  Per altre informazioni, vedi <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Passare le sottoscrizioni Azure a un altro partner</a></p>
 </td>
 </tr>
@@ -54,7 +58,7 @@ La funzionalità multicanale del centro per i partner supporta scenari in cui un
 > [!IMPORTANT]  
 > Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Gli annunci relativi alle versioni delle funzionalità verranno annunciati tramite i normali canali di comunicazione, incluso il centro per i partner. 
 
-## <a name="see-also"></a>Vedere anche
+## <a name="see-also"></a>Vedi anche
 
 [Collabora con altri partner](work-with-other-partners.md)
 

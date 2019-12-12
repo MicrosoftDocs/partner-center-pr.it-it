@@ -7,19 +7,25 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 617b49556851a4d9999e6294d61d79c4fe1befa1
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 60ab5404f3cc2d825a110e61bd7c6bf5744bb786
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389819"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004600"
 ---
 # <a name="license-based-reconciliation-files"></a>File di riconciliazione in base alle licenze
 
-Si applica a:
+**Si applica a**
 
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Amministratore fatturazione
+-   Agente amministratore
 
 Per riconciliare le modifiche rispetto agli ordini di un cliente, confrontare il **Syndication_Partner_Subscription_Number** dal file di riconciliazione con l' **ID sottoscrizione** dal centro per i partner.
 

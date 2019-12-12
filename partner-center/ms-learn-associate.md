@@ -10,14 +10,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: ruoli, autorizzazioni, Aggiungi utente, assegna ruolo, amministratore, agente, ID MCP, Microsoft Learn
 ms.localizationpriority: medium
-ms.openlocfilehash: ef53e08af725130b3c13384929afa0a549d0837c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0457974ff283e8e21a717ca8a0beedf8ce16fa54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943554"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004280"
 ---
 # <a name="associate-your-microsoft-learn-account-in-partner-center"></a>Associare l'account Microsoft Learn al centro per i partner
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
 
 Per consentire all'azienda di visualizzare i percorsi di formazione e apprendimento presi per le competenze, è necessario associare l'ID MCP all'account del centro per i partner. Questa operazione viene eseguita manualmente dopo l'aggiunta come utente del centro per i partner.
 

@@ -7,19 +7,26 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0eae0dac3cbb4991e85e335082e6c5071c62841f
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 51c37c9ea2110b7666c4d1a9bc92a2b01f92209c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389679"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004900"
 ---
 # <a name="one-time-and-recurring-reconciliation-files"></a>File di riconciliazione singola e ricorrente
 
-Si applica a:
+**Si applica a**
 
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Amministratore fatturazione
+-   Agente amministratore
+-   Agente di vendita
 
 In questo argomento viene illustrato come leggere i file di riconciliazione monouso e periodici nel centro per i partner.
 
@@ -28,10 +35,10 @@ In questo argomento viene illustrato come leggere i file di riconciliazione mono
 | Column | Descrizione |
 | ------ | ----------- |
 | PartnerId | Identificatore univoco del tenant Azure Active Directory (Azure AD) per un'entità di fatturazione specifica in formato GUID. Non obbligatorio per la riconciliazione. È lo stesso per tutte le righe. |
-| ID cliente | Identificatore univoco del tenant Azure AD in formato GUID. Identifica il cliente. |
+| Customer Id | Identificatore univoco del tenant Azure AD in formato GUID. Identifica il cliente. |
 | Nome cliente | Nome dell'organizzazione del cliente, come indicato nel centro per i partner. |
 | CustomerDomainName | Nome di dominio del cliente. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione. *Non usare questo campo come identificatore univoco per il cliente. Il cliente/partner può aggiornare il dominio Vanity o default tramite il portale di Office 365.* |
-| Paese del cliente | Paese in cui si trova il cliente. |
+| Customer Country | Paese in cui si trova il cliente. |
 | Numero fattura | Numero di fattura in cui viene visualizzata la transazione specificata. |
 | MpnId | Identificatore MPN del partner CSP. |
 | Rivenditore MpnId | Identificatore MPN del rivenditore del record per la sottoscrizione. |
@@ -41,7 +48,7 @@ In questo argomento viene illustrato come leggere i file di riconciliazione mono
 | SkuId | Identificatore per un particolare SKU (unità di supporto). |
 | AvailabilityId | Identificatore della disponibilità di uno SKU specifico. Ciò indica se lo SKU è disponibile per l'acquisto in un determinato paese, valuta, segmento di settore e così via. |
 | Nome SKU | Titolo di una particolare SKU. |
-| Nome prodotto | Nome del prodotto. |
+| Nome del prodotto | Nome del prodotto. |
 | PublisherName | Nome del server di pubblicazione del prodotto.
 | PublisherID | Identificatore univoco per un server di pubblicazione specifico. |
 | Descrizione della sottoscrizione | Nome descrittivo di una sottoscrizione. |

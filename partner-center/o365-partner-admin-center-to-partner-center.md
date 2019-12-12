@@ -8,12 +8,12 @@ description: Individuare le funzionalità comuni di amministrazione dei partner 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 63b12682cbde7123224ddeae6fb8b5470858c4ad
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943324"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005070"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Partner di amministrazione di Office 365 partner: prepararsi per spostare le operazioni aziendali nel centro per i partner
 
@@ -21,6 +21,12 @@ ms.locfileid: "74943324"
 
 - Centro per i partner
 - Interfaccia di amministrazione partner di Office 365
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Agente amministratore
+-   Agente di vendita
 
 Verranno riportate le funzionalità dell'interfaccia di amministrazione dei partner di Office 365 nel centro per i partner per semplificare la gestione dei clienti in tutto il ciclo di vita aziendale Oltre alle funzionalità di cui si è abituati, ora è possibile: 
 

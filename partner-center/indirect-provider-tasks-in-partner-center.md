@@ -8,14 +8,20 @@ description: Come provider indiretto, o database di distribuzione, informazioni 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f6a917dfae75549b55071858ad9216b0abe9138
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253682"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004540"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Agente amministratore
+-   Agente di vendita
 
 In un marketplace della tecnologia così complesso e in rapida evoluzione, i clienti desiderano sfruttare il margine competitivo che le soluzioni tecnologiche possono offrire. In un clima di questo tipo, è utile che i partner investano nella collaborazione con altri partner per ampliare le offerte e dare ai clienti la possibilità di aumentare la produttività.
 
@@ -44,7 +50,7 @@ Completa i passaggi seguenti per stabilire e gestire la tua partnership con i ri
 
     - Prima di poter interagire con i rivenditori ed effettuare transazioni, è necessario stabilire relazioni con tali partner nel centro per i partner. <br>
 
-3.  Entra in contatto con i clienti
+3.  Entrare in contatto con i clienti
 
     - Associare nuovi clienti e sottoscrizioni ai rivenditori
     - Stabilire relazioni tra i rivenditori e i clienti esistenti <br>
@@ -81,7 +87,7 @@ Per le sottoscrizioni esistenti, se si decide di utilizzare un rivenditore indir
 
 - Nella pagina Dettagli sottoscrizione, nel campo **rivenditore (ID MPN)** , aggiungere il rivenditore con cui si desidera lavorare. In questo modo si garantisce che il rivenditore riceverà gli incentivi appropriati.
 
-| **Per eseguire questa operazione** | **Eseguire questa operazione** | **In cui** |
+| **Per eseguire questa operazione** | **Eseguire questa operazione** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Consentire al rivenditore di gestire l'account di un cliente e disporre delle autorizzazioni di amministratore per gestire le sottoscrizioni | Associare un rivenditore a un account cliente quando si aggiunge un nuovo cliente | Nella pagina **Nuovo cliente** |
 |Abilitare il rivenditore alla gestione dell'account di un cliente di Azure|Associare un rivenditore a un account cliente di Azure quando si aggiunge un nuovo cliente|Nel **portale di servizio di Azure** seleziona [Impostazioni utente](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) per assegnare al rivenditore indiretto le autorizzazioni per il **proprietario tenant**|
@@ -129,7 +135,7 @@ Per le sottoscrizioni esistenti, se si decide di utilizzare un rivenditore indir
 
 
 
-## <a name="connect-with-customers"></a>Entra in contatto con i clienti
+## <a name="connect-with-customers"></a>Entrare in contatto con i clienti
 
 Quando acquisisci nuovi clienti, devi creare i relativi account nel Centro per i partner. Quando si aggiunge un nuovo account cliente, è possibile designare un rivenditore specifico per gestire l'account e amministrare le sottoscrizioni e i servizi dei clienti per loro conto. 
 
@@ -170,7 +176,7 @@ Quando i clienti vogliono acquistare nuove sottoscrizioni, aggiornare quelle esi
 
 7.  Al termine seleziona **Invia**. 
 
-## <a name="see-also"></a>Vedere anche
+## <a name="see-also"></a>Vedi anche
 
 Per ulteriori informazioni sulla gestione di account e sottoscrizioni dei clienti, vedere:
 

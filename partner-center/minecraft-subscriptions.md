@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Partner per istituti di istruzione autorizzati, formazione, vendite a Education, scuole
 ms.localizationpriority: medium
-ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ecce16a09dc4c5b415e0553b038b1810ab16197f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943494"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004550"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendere le sottoscrizioni di Minecraft: Education Edition ai clienti del settore istruzione
 
 **Si applica a**
 
 -  Centro per i partner
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Agente di vendita
+-   Agente amministratore
 
 I partner che lavorano con istituti di istruzione possono offrire loro sottoscrizioni di **Minecraft: Education Edition**. Si acquista la sottoscrizione per conto del cliente nel centro per i partner e quindi il cliente Scarica il software dalla [Microsoft Store per la formazione](https://educationstore.microsoft.com). 
 

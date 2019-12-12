@@ -9,18 +9,26 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e037f9e417da65ddd3d34fcdc7198807164906f9
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0e81ead73308902e75b842c00bbd32ed228ca3a5
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654133"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004950"
 ---
 # <a name="pricing-and-offers"></a>Prezzi e offerte
 
 **Si applica a**
 
 -  Centro per i partner
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Agente amministratore
+-   Amministratore dei partner MPN
+-   Agente di vendita
+-   Amministratore fatturazione
 
 Per vedere i listini prezzi e le offerte più recenti del programma Cloud Solution Provider, vai a **Vendi > Prezzi e offerte**. Troverai listini prezzi separati per i servizi basati su licenza, come Office 365, Microsoft Dynamics CRM ed Enterprise Mobility Suite, e per i servizi basati sull'uso, come Azure. 
 
@@ -69,11 +77,11 @@ I prezzi basati sull'utilizzo possono variare in un mese. Per ottenere i prezzi 
 
 CSP offre alcuni servizi a segmenti di mercato speciali, ad esempio Education, no profit e Government community Cloud. Non tutti i servizi sono disponibili in tutti i canali. Nessun segmento predefinito è quello che viene chiamato segmento "commerciale". Tutti i prezzi basati sulle licenze sono disponibili nell'elenco prezzi basato su licenza della pagina prezzi e offerte. I prezzi di Azure gov sono disponibili nell'elenco prezzi basato sull'utilizzo quando sono connessi al tenant CSP abilitato per Azure gov.
 
-|**Segmento**   |**utenti che devono qualificarsi**   |**Partner idoneo per i clienti**|**Tipi di prodotto abilitati**|
+|**Segment**   |**utenti che devono qualificarsi**   |**Partner idoneo per i clienti**|**Tipi di prodotto abilitati**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
 |Formazione|Partner e cliente|Sì|Solo basato su licenza|
-|Senza scopo di lucro|Cliente|No, il cliente si qualifica all'esterno del centro per i partner|Solo basato su licenza|
-|Cloud Community per enti pubblici (GCC)|Partner e cliente|Una volta abilitata la funzionalità GCC, il partner può creare clienti GCC| Solo basato su licenza|
+|No profit|Cliente|No, il cliente si qualifica all'esterno del centro per i partner|Solo basato su licenza|
+|Government Community Cloud (GCC) (Cloud della community per enti pubblici)|Partner e cliente|Una volta abilitata la funzionalità GCC, il partner può creare clienti GCC| Solo basato su licenza|
 |Azure gov|Partner|Una volta qualificato, il partner opera in un tenant CSP specifico di Azure gov|Risorse di Azure|
 
 I margini dei partner, la differenza tra il prezzo di listino e i prezzi di vendita al dettaglio stimati, possono variare da segmento a segmento. In genere, la formazione e la mancata redditività tendono a avere margini inferiori o senza margini per i partner CSP. Per i valori esatti, vedere l'elenco dei prezzi basato sulle licenze.  

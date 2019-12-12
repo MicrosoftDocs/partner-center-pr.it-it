@@ -9,18 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, interfaccia di amministrazione di Office 365, funzionalità PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0dcf232e68b14a2dd4264b489c7325a9eccc190f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943564"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004230"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Passaggio dall'interfaccia di amministrazione partner (PAC) al Centro per i partner
 
-Si applica a:
+**Si applica a**
 - Centro per i partner
 - Interfaccia di amministrazione partner
+
+**Ruoli appropriati**
+-   Amministratore globale
 
 Il Centro per i partner sta diventando l'unica posizione in cui gestirai la partnership con Microsoft e con i tuoi clienti. Nel Centro per i partner puoi gestire l'adesione, le segnalazioni dei clienti, gli incentivi e tutti gli altri aspetti del programma Cloud Solution Provider (CSP). Inoltre, potrai eseguire la maggior parte delle operazioni effettuate in PAC anche se alcune funzionalità o azioni funzioneranno in modo diverso. 
 

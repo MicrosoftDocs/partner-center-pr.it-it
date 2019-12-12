@@ -7,17 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: fatturazione, una volta, periodici, acquisti, addebiti, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389689"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005040"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Fatturazione per addebiti occasionali e periodici
 
+**Si applica a**
 - Centro per i partner
 - Partner aderenti al programma CSP
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Amministratore fatturazione
+-   Agente amministratore
+-   Agente di vendita
 
 In questo argomento viene descritta l'esperienza di fatturazione per **una sola volta e vengono addebitati i costi ricorrenti** per i prodotti Microsoft e fornitori di software indipendenti (ISV) di terze parti. 
 

@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 0049b2d553e04340ac934c071adc4442eb2f7ce0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 86648df24680fb0a5d9b7b494fdcf1110fec26c8
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943584"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004690"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Trasferimento di più aziende al Centro per i partner
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Agente amministratore
+-   Agente di vendita
 
 Quando si trasferisce l'account aziendale da PMC a Centro per i partner, è possibile che si stiano trasferendo diversi account. Nel Centro per i partner questi account verranno consolidati in un unico account globale (PGA). Il primo account trasferito verrà considerato l'account globale primario e tutti gli account successivi verranno consolidati nel primo account come percorsi. Avviare il trasferimento con l'account di PMC per la sede centrale dell'azienda. Per altre informazioni vedere la [Guida alla migrazione da PMC al Centro per i partner](guide-to-migration.md) oppure guardare questo breve video [Account multilocation semplificati](https://vimeo.com/290335248).
 

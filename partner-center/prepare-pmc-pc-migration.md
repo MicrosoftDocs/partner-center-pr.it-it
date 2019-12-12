@@ -8,14 +8,20 @@ description: Esaminare le informazioni utili e le domande frequenti prima di tra
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 8d0e540282b3e683233c188f9258683809af510e
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943264"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004860"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepararsi al passaggio da partner Membership Center (PMC) a partner Center
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Agente di vendita
+-   Agente amministratore
 
 Si sta migrando la gestione delle appartenenze da partner Membership Center (PMC) al centro per i partner, ovvero la singola destinazione per gestire la relazione aziendale con Microsoft. Si vuole che il passaggio al centro per i partner sia il più efficiente e semplice possibile. Sono state identificate alcune aree in cui il centro per i partner è diverso da PMC e si ritiene che sia necessario comprenderle e prepararle prima di eseguire lo spostamento.
 

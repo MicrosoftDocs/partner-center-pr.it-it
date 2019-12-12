@@ -8,14 +8,18 @@ description: Tieni traccia degli appresori della tua azienda sfruttando i dati r
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e97e6b5212b2b55e56e1022e2a5a12bdb0f2f74
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943534"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005109"
 ---
 # <a name="microsoft-learn-analytics-report"></a>Report analisi Microsoft Learn
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore dei partner MPN
 
 Il report Microsoft Learn fornisce informazioni sugli appresori dell'azienda, inclusi i moduli completati e i percorsi di apprendimento in cui si trovano. Il report Visualizza lo stato di ogni singolo discente. L'amministratore globale e l'amministratore MPN per l'azienda possono visualizzare i dati.
 

@@ -9,14 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: account partner, località
 ms.localizationpriority: medium
-ms.openlocfilehash: fe4e2cca922b479bfdec92feb5b21d8824546e23
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 28c5134251eef06194b8c5ee34fcf440c2224839
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943504"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004700"
 ---
 # <a name="manage-your-partner-account-locations"></a>Gestire l'account partner: località
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Amministratore fatturazione
+-   Agente amministratore
+-   Agente di vendita
 
 Gli ID MPN della località identificano ogni posizione specifica della società. Si usa il percorso MPN ID per iscriversi a Incentive programs, a Transact Cloud Solution Provider (CSP) business, per aggiungere nuove sottoscrizioni e altre transazioni di business. L'ID MPN aziendale viene usato per le attività non transazionali, ad esempio le richieste di supporto.
 

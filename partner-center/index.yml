@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 11/20/2019
-  ms.openlocfilehash: 6b543cf8fcc25122b0c2ec48a3bd60202772f29a
-  ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+  ms.date: 12/09/2019
+  ms.openlocfilehash: fcd60389ddc743b63d49dba58d8d18a4842760f7
+  ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
   ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 11/20/2019
-  ms.locfileid: "74253690"
+  ms.lasthandoff: 12/16/2019
+  ms.locfileid: "75033517"
 highlightedContent:
   items:
   - title: Accedi per vedere gli annunci più recenti
@@ -127,8 +127,34 @@ conceptualContent:
       text: Altre risorse
 additionalContent:
   sections:
+  - title: Uso del portale di Azure
+    items:
+    - title: Gestione di costi e fatturazione
+      links:
+      - text: Introduzione all'account di fatturazione Microsoft Partner Agreement
+        url: https://docs.microsoft.com/azure/billing/mpa-overview
+      - text: Introduzione a Gestione costi di Azure
+        url: https://docs.microsoft.com/azure/cost-management/get-started-partners
+      - text: Creare una sottoscrizione di Azure aggiuntiva
+        url: https://docs.microsoft.com/azure/billing/billing-create-subscription
+      - text: Creare sottoscrizioni di Azure a livello di codice
+        url: https://docs.microsoft.com/azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
+      - text: Altre risorse >
+        url: https://docs.microsoft.com/azure/billing/
+    - title: Azure Lighthouse
+      links:
+      - text: Abilitare le esperienze di gestionetra tenant
+        url: https://docs.microsoft.com/azure/lighthouse/concepts/cross-tenant-management-experience
+      - text: Considerazioni relative a CSP
+        url: https://docs.microsoft.com/en-us/azure/lighthouse/concepts/cloud-solution-provider
+      - text: Eseguire l'onboarding dei clienti per la gestione delle risorse delegata di Azure
+        url: https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer
+      - text: Pubblicare offerte di servizi gestiti
+        url: https://docs.microsoft.com/azure/lighthouse/how-to/publish-managed-services-offers
+      - text: Altre risorse >
+        url: https://docs.microsoft.com/azure/lighthouse/
   - title: Attività e strumenti principali
-  - items:
+    items:
     - title: Ottieni Microsoft Action Pack (MAPS)
       summary: Acquista o rinnova le vantaggiose offerte, incluso l'abbonamento a Microsoft Action Pack.
       url: mpn-get-action-pack.md

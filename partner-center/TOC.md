@@ -17,11 +17,12 @@
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Rinnovare le offerte](renew-mpn-offers.md)
 ## [Competenze](learn-about-competencies.md)
+## [Specializzazioni avanzate](advanced-specializations.md)
 ## [Programma Azure Expert Managed Services Provider](azure-expert-msp.md)
 ## Vantaggi
 ### [Panoramica sui vantaggi](manage-your-partner-network-benefits.md)
 ### [Vantaggi di commercializzazione](mpn-learn-about-go-to-market-benefits.md)
-## [Gestire Premi del marketplace](marketplace-rewards.md)
+## [Marketplace Rewards](marketplace-rewards.md)
 ## [Programmi di Software Assurance](software-assurance-lp.md)
 ### [Programma SATV (Software Assurance Training Voucher) nel Centro per i partner](software-assurance-satv.md)
 ### [Usare lo strumento per la convalida e il riscatto dei voucher nel Centro per i partner per convalidare, riservare e riscattare i voucher](voucher-validation-tool.md)

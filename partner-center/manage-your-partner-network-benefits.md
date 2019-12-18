@@ -9,18 +9,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, vantaggi dell'appartenenza, appartenenza
 ms.localizationpriority: high
-ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943594"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004530"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gestire i vantaggi dell'appartenenza a Microsoft Partner Network
 
 **Si applica a**
 
 -  Centro per i partner
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Agente amministratore
+-   Amministratore dei partner MPN
 
 >[!IMPORTANT]
 >Questo articolo spiega come iniziare a usare i vantaggi derivanti dall'appartenenza a Microsoft Partner Network (MPN) in questo sito: il Centro per i partner. Se non hai ricevuto l'invito a spostare le informazioni relative alla tua azienda da Partner Membership Center (PMC) al Centro per i partner, devi continuare a gestire in PMC i vantaggi dell'appartenenza a MPN. [Accedi ](https://partner.microsoft.com/_login?authType=OpenIdConnect) ora a PMC.

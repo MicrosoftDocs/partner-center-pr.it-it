@@ -9,14 +9,21 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: caab446047745a63dc2116c25b24be2dcade3584
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943064"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004240"
 ---
 # <a name="partner-earned-credit---overview"></a>Credito ottenuto dai partner - Panoramica
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Agente amministratore
+-   Amministratore fatturazione
+-   Agente di vendita
 
 Il credito ottenuto dai partner nella nuova esperienza commerciale in CSP è un modello di business che esegue una determinazione dei prezzi di Azure semplificata e uniforme nell'ambito di tutte le risorse go-to-market di Microsoft, promuovendo al tempo stesso un ecosistema di partner che fornisce servizi gestiti a valore aggiunto. Il credito ottenuto dai partner consente inoltre di eliminare qualsiasi concorrenza sui margini. 
 

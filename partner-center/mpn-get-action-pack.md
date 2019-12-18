@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, abbonamento a Microsoft Action Pack, rinnovare l'abbonamento a Microsoft Action Pack, rinnovare action pack, ottenere action pack
 ms.localizationpriority: high
-ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 22aebf9d6c7098a36ac551763cd85f4de978a8ab
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943344"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005102"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Acquistare per la prima volta o rinnovare un abbonamento a Microsoft Action Pack oppure le competenze Silver o Gold
 
@@ -22,6 +22,13 @@ ms.locfileid: "74943344"
 
 -  Centro per i partner
 -  Partner Membership Center
+
+**Ruoli appropriati**
+-   Amministratore globale
+-   Amministratore utenti
+-   Amministratore dei partner MPN
+-   Agente amministratore
+-   Agente di vendita
 
 Dal [dashboard](https://docs.microsoft.com/partner-center/) Centro per i partner puoi ora acquistare o rinnovare le offerte di vantaggi desiderate, inclusi l'abbonamento a Microsoft Action Pack e le competenze Silver e Gold. 
 

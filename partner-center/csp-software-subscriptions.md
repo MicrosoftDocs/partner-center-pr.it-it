@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Azure RI, Windows Server, SQL Server, sottoscrizioni software, Annulla software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 271eb450434047d1eee193df9f6ce02e7a2d7cf5
-ms.sourcegitcommit: fcaa85b3c080628d2c14b9133aa5780cdaf6f3be
+ms.openlocfilehash: 733c8ab6c2d15109011dfa240c2ce5954d748fea
+ms.sourcegitcommit: 855b2aed1c395b199d8aaba88ac08cc277f474ea
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185626"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "75190242"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendere sottoscrizioni di software tramite CSP
 
@@ -140,7 +140,7 @@ A scopo di controllo o di conformità, potrebbe essere necessario controllare un
 Per annullare un acquisto, attenersi alla procedura seguente:
 
 >[!NOTE]
->Gli acquisti possono essere annullati solo dagli agenti amministratori. Nei passaggi seguenti viene descritto come annullare un acquisto nel dashboard del centro per i partner. Questa operazione può essere eseguita anche tramite l' [API del centro](https://docs.microsoft.com/partner-center/develop/cancel-an-order-from-the-integration-sandbox)per i partner.
+>Gli acquisti possono essere annullati solo dagli agenti amministratori. Nei passaggi seguenti viene descritto come annullare un acquisto nel dashboard del centro per i partner. Questa operazione può essere eseguita anche tramite l' [API del centro](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases)per i partner.
 
 1. Prima di iniziare il processo di annullamento, verificare che siano disponibili gli elementi seguenti:
 

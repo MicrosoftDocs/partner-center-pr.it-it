@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0e81ead73308902e75b842c00bbd32ed228ca3a5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ca270413291ba0d09ca03d9b8b270a65f77a46b1
+ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004950"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75631825"
 ---
 # <a name="pricing-and-offers"></a>Prezzi e offerte
 
@@ -42,7 +42,7 @@ I servizi basati su licenza includono un'anteprima del listino prezzi, fornita 3
 
 |**Item**        |**Definizione**      |
 |:-----------   |:-----------   |
-|ADD   |Un nuovo elemento nel listino prezzi|
+|AD   |Un nuovo elemento nel listino prezzi|
 |CHG   |Modifiche al prezzo di listino dal mese al mese. Potrebbero verificarsi altre modifiche non correlate al prezzo di listino. i partner dovrebbero confrontare altre proprietà da mesi a mese per determinare altre modifiche.|
 |DEL   |Un elemento rimosso dal listino prezzi|
 |UNC   |Prezzo di listino senza modifiche rispetto ai prezzi del mese precedente  |
@@ -77,9 +77,9 @@ I prezzi basati sull'utilizzo possono variare in un mese. Per ottenere i prezzi 
 
 CSP offre alcuni servizi a segmenti di mercato speciali, ad esempio Education, no profit e Government community Cloud. Non tutti i servizi sono disponibili in tutti i canali. Nessun segmento predefinito è quello che viene chiamato segmento "commerciale". Tutti i prezzi basati sulle licenze sono disponibili nell'elenco prezzi basato su licenza della pagina prezzi e offerte. I prezzi di Azure gov sono disponibili nell'elenco prezzi basato sull'utilizzo quando sono connessi al tenant CSP abilitato per Azure gov.
 
-|**Segment**   |**utenti che devono qualificarsi**   |**Partner idoneo per i clienti**|**Tipi di prodotto abilitati**|
+|**Segmento**   |**utenti che devono qualificarsi**   |**Partner idoneo per i clienti**|**Tipi di prodotto abilitati**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Formazione|Partner e cliente|Sì|Solo basato su licenza|
+|Istruzione|Cliente|No, la qualifica del cliente verrà eseguita da Microsoft |Solo basato su licenza|
 |No profit|Cliente|No, il cliente si qualifica all'esterno del centro per i partner|Solo basato su licenza|
 |Government Community Cloud (GCC) (Cloud della community per enti pubblici)|Partner e cliente|Una volta abilitata la funzionalità GCC, il partner può creare clienti GCC| Solo basato su licenza|
 |Azure gov|Partner|Una volta qualificato, il partner opera in un tenant CSP specifico di Azure gov|Risorse di Azure|

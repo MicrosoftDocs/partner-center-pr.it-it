@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 12/09/2019
-  ms.openlocfilehash: fcd60389ddc743b63d49dba58d8d18a4842760f7
-  ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
+  ms.date: 01/07/2020
+  ms.openlocfilehash: 67ef0323742dcf32950559adbb86cd899f2589e5
+  ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
   ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 12/16/2019
-  ms.locfileid: "75033517"
+  ms.lasthandoff: 01/07/2020
+  ms.locfileid: "75717356"
 highlightedContent:
   items:
   - title: Accedi per vedere gli annunci più recenti
@@ -32,9 +32,9 @@ highlightedContent:
   - title: Panoramica del marketplace commerciale
     itemType: whats-new
     url: csp-commercial-marketplace-overview.md
-  - title: Procedure consigliate per la sicurezza e l'autenticazione a più fattori
+  - title: Insights del Centro per i partner
     itemType: overview
-    url: partner-security-requirements.md
+    url: partner-center-insights.md
   - title: 'Nuova esperienza commerciale nel Centro per i partner: il piano di Azure'
     itemType: whats-new
     url: azure-plan-get-started.md
@@ -48,10 +48,10 @@ conceptualContent:
       text: Creare un account nel Centro per i partner
     - url: manage-locations.md
       itemType: how-to-guide
-      text: Gestisci le tue località
-    - url: azure-active-directory-tenants-and-partner-center.md
+      text: Gestire le sedi della società
+    - url: marketplace-rewards.md
       itemType: how-to-guide
-      text: Gestisci il tuo tenant
+      text: Gestire Premi del marketplace
     footerLink:
       url: partner-center-account-setup.md
       text: Altre risorse
@@ -69,7 +69,7 @@ conceptualContent:
     footerLink:
       url: customer-accounts.md
       text: Altre risorse
-  - title: Espandere le attività
+  - title: Espandi il business
     links:
     - url: referrals.md
       itemType: how-to-guide

@@ -10,16 +10,16 @@ ms.author: labrenne
 Keywords: Azure, piano di Azure, entità servizio, applicazione Azure AD
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 1fe4211879df2063f7b865c249870c49a346f518
-ms.sourcegitcommit: 369aceafc54e960ac0bd3a023edc85b06361492b
+ms.openlocfilehash: bd74d09445d9a2f1745c518362b26f243f00a777
+ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/12/2019
-ms.locfileid: "75010382"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75716892"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Aggiungere un'applicazione Azure AD (entità servizio) nel Centro per i partner
 
-Nel programma Commercial Marketplace del Centro per i partner è ora possibile aggiungere un'applicazione Azure AD (entità servizio) come utente nel tenant di Azure AD. Questa operazione era possibile in precedenza nell'account del portale Cloud Partner, ma dopo la migrazione al Centro per i partner, tale account è diventato di sola lettura. Si noti che entità servizio è sinonimo di applicazione Azure AD.
+Nel programma Commercial Marketplace del Centro per i partner è ora possibile aggiungere un'applicazione Azure AD (entità servizio) come utente nell'account del Centro per i partner. Questa operazione era possibile in precedenza nell'account del portale Cloud Partner, ma dopo la migrazione al Centro per i partner, tale account è diventato di sola lettura. Si noti che entità servizio è sinonimo di applicazione Azure AD.
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Aggiungere un'applicazione Azure AD (entità servizio)
 
@@ -30,13 +30,14 @@ Nel programma Commercial Marketplace del Centro per i partner è ora possibile a
 3. Selezionare un'applicazione Azure AD esistente o crearne una nuova.
 
 4. Se si crea una nuova applicazione Azure AD, includere le informazioni seguenti:  
+
   
-**Nome**: è simile al campo 'nome descrittivo' del portale Cloud Partner.
+
 
 **URL di risposta**: l'URL a cui gli utenti possono accedere per usare l'applicazione Azure AD. 
 
-**URI ID app**: Questo è un identificatore logico per l'applicazione Azure AD presentato quando invia una richiesta Single Sign-On ad Azure AD. 
+**URI ID app**: si tratta di un identificatore logico per l'applicazione Azure AD che viene presentato quando invia una richiesta Single Sign-On ad Azure AD. 
 
 **Ruoli di sicurezza**: i ruoli **Manager** (uguale al ruolo 'Proprietario' nel portale Cloud Partner) e **Sviluppatore** (uguale al ruolo 'Collaboratore' nel portale Cloud Partner) si applicano al programma Commercial Marketplace nel Centro per i partner e possono essere associati a questa applicazione Azure AD.  
 
-Quando si seleziona **Salva**, per creare questa applicazione nel Centro per i partner, le informazioni vengono anche sincronizzate nel sistema del portale Cloud Partner.  
+  

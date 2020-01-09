@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
-ms.openlocfilehash: 32b185452e8287678e6ae010b435e127bfcf54aa
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 47ab8306c83fb498383ca3c839bfe6ff7ddb0a46
+ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005010"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75636992"
 ---
 # <a name="partner-security-requirements-status"></a>Stato dei requisiti di sicurezza per i partner
 
@@ -50,13 +50,22 @@ Questo report può essere utile per verificare lo stato dei requisiti di sicurez
 >[!NOTE]
 >Il report sullo stato dei requisiti di sicurezza per i partner è supportato solo nel Centro per i partner. Non è disponibile in Microsoft Cloud for US Government o Microsoft Cloud Germania. È fortemente consigliabile che tutti i partner che effettuano transazioni attraverso un cloud sovrano (21Vianet, governo statunitense e Germania) adottino immediatamente questi nuovi requisiti di sicurezza. Tuttavia, non è necessario che questi partner soddisfino i nuovi requisiti di sicurezza con decorrenza a partire dal 1° agosto 2019. Microsoft fornirà altri dettagli sull'applicazione di questi requisiti di sicurezza per i cloud sovrani in futuro.
 
-Ogni volta che i tuoi dipendenti accedono al Centro per i partner per lavorare oppure, tramite le API, ricevono o inviano dati attraverso il Centro per i partner, il loro stato di sicurezza viene testato e monitorato. Sono incluse nel rilevamento dello stato di sicurezza anche le tue applicazioni e tutte le applicazioni del fornitore del pannello di controllo. Lo stato visualizzato è relativo ai sette giorni precedenti.
-
 ## <a name="multi-factor-authentication-mfa-report"></a>Report sull'autenticazione a più fattori ("MFA")
 
-Il report MFA del Centro per i partner offre informazioni dettagliate sull'implementazione dell'autenticazione MFA per partner fornendo due metriche basate sulle attività del Centro per i partner:
+Il report MFA del Centro per i partner offre informazioni dettagliate sull'implementazione dell'autenticazione MFA per partner fornendo due tipi di metriche basati sulla configurazione di MFA e sulle attività del Centro per i partner del tenant CSP: 
 
-**Verifica MFA completata dagli utenti**
+### <a name="mfa-configuration-on-a-csp-tenant"></a>Configurazione di MFA in un tenant CSP
+
+Questa metrica è correlata alla configurazione di MFA in un tenant CSP che ha acquisito e restituito dati su base giornaliera. Consente di misurare la percentuale di account utente abilitati con MFA applicata usando una di queste [opzioni MFA](https://aka.ms/partner-mfa-get-started). Ad esempio:
+
+- Contoso è un partner CSP con 110 account utente nel tenant, 10 dei quali sono disabilitati. 
+- A 90 dei 100 account utente rimanenti viene applicata l'autenticazione MFA usando le [opzioni MFA](https://aka.ms/partner-mfa-get-started) specificate. Di conseguenza, la metrica indica il 90%. 
+
+### <a name="partner-center-activities-with-mfa"></a>Attività del Centro per i partner con MFA
+
+Ogni volta che i tuoi dipendenti accedono al Centro per i partner per lavorare oppure, tramite le API, ricevono o inviano dati attraverso il Centro per i partner, il loro stato di sicurezza viene testato e monitorato. Sono incluse nel rilevamento dello stato di sicurezza anche le tue applicazioni e tutte le applicazioni del fornitore del pannello di controllo. Lo stato visualizzato è relativo ai sette giorni precedenti.
+
+#### <a name="mfa-verification-completed-by-users"></a>Verifica MFA completata dagli utenti
 
 Questa metrica è correlata alle attività nel dashboard del Centro per i partner. Misura la percentuale di operazioni eseguite dagli utenti che hanno completato la verifica MFA. Ad esempio:
 
@@ -67,7 +76,7 @@ Questa metrica è correlata alle attività nel dashboard del Centro per i partne
 - Nei restanti quattro giorni non è stata effettuata alcuna operazione dagli agenti.
 - Delle dieci operazioni effettuate nella finestra di sette giorni, sue sono state effettuate dall'utente con verifica MFA. Di conseguenza, la metrica indica il 20%.
 
-**Autenticazione app+utente**
+#### <a name="appuser-authentication"></a>Autenticazione app+utente
 
 Questa metrica è correlata all'uso di richieste API del Centro per i partner effettuate con l'autenticazione app+utente. Misura la percentuale di richieste API effettuate usando un token di accesso con attestazione MFA. Ad esempio:
 

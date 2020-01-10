@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: Offerte per il Marketplace, supporto marketing, premi, vantaggi per gli editori
 ms.localizationpriority: medium
-ms.openlocfilehash: 576401337337693f69987e620fc852dce837ad2e
-ms.sourcegitcommit: 369aceafc54e960ac0bd3a023edc85b06361492b
+ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
+ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/12/2019
-ms.locfileid: "75010402"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75717336"
 ---
 # <a name="manage-marketplace-rewards"></a>Gestire i premi del Marketplace
 
@@ -40,11 +40,11 @@ L'idoneità per i premi del Marketplace viene calcolata in base a tutti i profil
 
 Eseguire quindi queste operazioni:
 
-a. Selezionare un utente dall'elenco. Se l'utente che si vuole assegnare non è presente nell'elenco, è possibile aggiungere nuovi utenti nelle impostazioni dell'account.
+  - Selezionare un utente dall'elenco. Se l'utente che si vuole assegnare non è presente nell'elenco, è possibile aggiungere nuovi utenti nelle impostazioni dell'account.
 
-b. Specifica un indirizzo e-mail per l'utente che sia diverso da quello associato all'account del Centro per i partner della tua azienda. Invieremo un messaggio di posta elettronica alle istruzioni per l'uso dei vantaggi del Marketplace per l'indirizzo di posta elettronica del contatto marketing designato.
+  - Specifica un indirizzo e-mail per l'utente che sia diverso da quello associato all'account del Centro per i partner della tua azienda. Invieremo un messaggio di posta elettronica alle istruzioni per l'uso dei vantaggi del Marketplace per l'indirizzo di posta elettronica del contatto marketing designato.
 
-c. Fornisci il numero di telefono e la lingua preferita dal contatto marketing. Dopo aver immesso queste informazioni, seleziona **Assegna utente**.
+  - Fornisci il numero di telefono e la lingua preferita dal contatto marketing. Dopo aver immesso queste informazioni, seleziona **Assegna utente**.
 
 4. Dopo aver aggiornato il contatto marketing, selezionare **Activate (attiva** ) per il vantaggio che si vuole iniziare a usare. Una volta attivato un vantaggio, il contatto di marketing sarà contattato da un membro del team Rewards entro una settimana.
 

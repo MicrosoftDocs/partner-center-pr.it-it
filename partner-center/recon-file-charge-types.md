@@ -1,25 +1,31 @@
 ---
 title: Tipi di addebito file di riconciliazione | Centro per i partner
 ms.topic: article
-ms.date: 08/26/2019
+ms.date: 01/06/2020
 description: Tipi di addebiti (basati su licenza, utilizzo e una volta), crediti e sconti sui file di riconciliazione del centro per i partner.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 064ed6dda28f5a8ace64942d55ef2a6327528ff5
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b18a2a7d53e2f9d35baac2412c1710c21d6d98eb
+ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389809"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75716872"
 ---
 # <a name="understand-charge-types"></a>Informazioni sui tipi di addebito
 
-Si applica a:
+**Si applica a**
 
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Amministratore fatturazione
+- Amministratore globale
 
 In questo argomento vengono descritti i mapping tra una sezione della fattura e i tipi di addebito associati che potrebbero essere presenti nel file di riconciliazione. La fattura fornisce un riepilogo degli addebiti. Il file di riconciliazione fornisce una suddivisione dettagliata delle transazioni di elementi riga, inclusi i tipi di addebito. Per ulteriori informazioni sui file di riconciliazione, vedere [come utilizzare i file di riconciliazione](use-the-reconciliation-files.md).
 
@@ -40,9 +46,12 @@ Per eseguire il mapping di questi addebiti basati su licenza alla fattura, somma
 | ------------------------------------------------------------- | ------------------ |
 | Commissione di attivazione | Importo addebitato al cliente quando utilizza la sottoscrizione dopo l'acquisto. |
 | Commissione di annullamento | Addebiti rivalutati per il cliente quando vengono modificate le postazioni associate. |
+| Istanza di annullamento ripartita proporzionalmente | Addebiti rivalutati annullati quando al cliente con sottoscrizione mensile è stata sospesa la sottoscrizione e le postazioni associate sono state modificate nello stesso mese |
 | Tariffa periodica | Addebiti periodici per una sottoscrizione. |
 | Ripartizione dell'istanza del ciclo | Addebiti rivalutati dal cliente quando vengono modificate le postazioni associate. |
 | Rateizza le tariffe in caso di annullamento | Rimborso proporzionale per la parte di servizio inutilizzata al momento dell'annullamento. |
+| Tariffe propagate quando si esegue la conversione a partire dall'offerta corrente | Addebiti rivalutati dopo la conversione dalla sottoscrizione mensile corrente a una sottoscrizione annuale. |
+| Tariffe della propagazione durante la conversione in una nuova offerta | Addebiti rivalutati dopo la conversione di una sottoscrizione mensile in una nuova sottoscrizione annuale. |
 | Ripartizione delle tariffe all'acquisto | Tipo di addebito per una sottoscrizione quando si usa la fatturazione annuale. |
 | Tariffa di acquisto | Tipo di addebito per una sottoscrizione quando si usa la fatturazione mensile. |
 | Rateizza la tariffa al rinnovo | Tariffe riordinate al rinnovo della sottoscrizione. |
@@ -58,8 +67,8 @@ Per eseguire il mapping di questi addebiti monouso alla fattura, sommare la colo
 | Nuova | Utilizzato quando viene creato un nuovo acquisto. |
 | addQuantity | Usato sia per il rimborso dell'acquisto originale che per la nuova quantità dopo un aumento. |
 | removeQuantity | Utilizzato sia per il rimborso dell'acquisto originale che per la nuova quantità dopo una riduzione. |
-| Cancel | Utilizzato quando viene annullata una sottoscrizione. |
-| Convertire | Usato quando viene aggiornata una licenza, ma il numero di postazioni rimane invariato. |
+| Annulla | Utilizzato quando viene annullata una sottoscrizione. |
+| Convert | Usato quando viene aggiornata una licenza, ma il numero di postazioni rimane invariato. |
 
 ## <a name="usage-charges"></a>Costi di utilizzo
 
@@ -67,8 +76,8 @@ Per eseguire il mapping di questi addebiti per l'utilizzo alla fattura, sommare 
 
 | Descrizione addebito (colonna ChargeType nel file di riconciliazione) | Spiegazione di addebito |
 | ------------------------------------------------------------- | ------------------ |
-| Valuta la tariffa di utilizzo all'annullamento | Costo di utilizzo dell'accesso al momento dell'annullamento per l'utilizzo non retribuito durante il periodo di fatturazione corrente. |
-| Valuta la tariffa di utilizzo per il ciclo corrente | Costo di utilizzo dell'accesso per il periodo di fatturazione corrente. |
+| Valuta la tariffa di utilizzo all'annullamento | Tariffa per l'utilizzo dell'accesso in caso di annullamento per l'utilizzo non pagato durante il periodo di fatturazione corrente. |
+| Valuta la tariffa di utilizzo per il ciclo corrente | Tariffa per l'utilizzo dell'accesso per il periodo di fatturazione corrente. |
 
 ### <a name="credits"></a>Crediti
 
@@ -79,7 +88,7 @@ Per eseguire il mapping di questi crediti alla fattura:
 
 | Descrizione addebito (colonna ChargeType nel file di riconciliazione) | Spiegazione di addebito |
 | ------------------------------------------------------------- | ------------------ |
-| Compensa una voce | Rimborso parziale o totale a una voce di riga, incluse le imposte. |
+| Compensa una voce | Rimborso parziale o totale per una voce, incluse le imposte. |
 
 ### <a name="usage-based-discounts"></a>Sconti in base all'uso
 

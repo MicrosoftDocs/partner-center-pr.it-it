@@ -1,7 +1,7 @@
 ---
 title: Confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente | Centro per i partner
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni su come confermare l'accettazione da parte del cliente del contratto per i clienti Microsoft. Questo potrebbe essere necessario per ordinare i prodotti e i servizi Microsoft per i clienti.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: cliente, clienti, consenso, MCA, Contratto Microsoft Cloud, contratto del cliente Microsoft, modelli di contratto del cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 8beee9ed9035ff846c6e9d84fefd0c5c2ba255de
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 33eddc437360cb80071bf98187a7d4e23b820fb9
+ms.sourcegitcommit: 99a8b2daf52d455d33f15945d52efbcc8ff551c8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721373"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "75752567"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Conferma accettazione da parte del cliente del contratto Microsoft
 
@@ -47,7 +47,7 @@ I partner possono usare l'API/SDK del centro per i partner per confermare l'acce
 
 - [Ottenere i metadati per il contratto del cliente Microsoft](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
 
-- [Confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
+- [Confermare l'accettazione del contratto del cliente Microsoft](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
 
 - [Ottenere la conferma dell'accettazione del contratto del cliente Microsoft da parte di un cliente](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
 
@@ -55,7 +55,7 @@ I partner possono usare l'API/SDK del centro per i partner per confermare l'acce
 
 
 ## <a name="confirm-customer-acceptance-in-partner-center"></a>Confermare l'accettazione da parte di un cliente nel Centro per i partner
-I partner possono confermare l'accettazione da parte del cliente del contratto clienti Microsoft nel centro per i partner per i nuovi clienti e i clienti esistenti.
+I partner possono confermare l'accettazione da parte del cliente del contratto clienti Microsoft nel centro per i partner per i nuovi clienti e i clienti esistenti. I rivenditori non possono attestare per conto dei clienti e devono collaborare con il provider indiretto per ottenere l'attestazione completata.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Confermare l'accettazione per i nuovi clienti
 

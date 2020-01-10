@@ -1,18 +1,18 @@
 ---
 title: File di riconciliazione basati sulle licenze | Centro per i partner
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 01/08/2020
 description: Informazioni sui file di riconciliazione basati sulle licenze nel centro per i partner.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60ab5404f3cc2d825a110e61bd7c6bf5744bb786
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004600"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757184"
 ---
 # <a name="license-based-reconciliation-files"></a>File di riconciliazione in base alle licenze
 
@@ -34,12 +34,15 @@ Per riconciliare le modifiche rispetto agli ordini di un cliente, confrontare il
 | Column | Descrizione | Valore di esempio |
 | ------ | ----------- | ------------ |
 | PartnerId | Identificatore univoco in formato GUID per un'entità di fatturazione specifica. Non obbligatorio per la riconciliazione. È lo stesso per tutte le righe. | *8ddd03642-test-test-test-46b58d356b4e* |
-| CustomerID | Identificatore Microsoft univoco per il cliente in formato GUID. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| OrderID | Identificatore univoco di un ordine nella piattaforma di fatturazione Microsoft. Può essere utile per identificare l'ordine quando si contatta il supporto tecnico. Non utilizzato per la riconciliazione. | *566890604832738111* |
-| SubscriptionID | Identificatore univoco di una sottoscrizione nella piattaforma di fatturazione Microsoft. Può essere utile per identificare la sottoscrizione quando si contatta il supporto tecnico. Non utilizzato per la riconciliazione. *Questo valore non corrisponde all' **ID sottoscrizione** nella console di amministrazione partner. Vedere invece **SyndicationPartnerSubscriptionNumber** .* | *usCBMgAAAAAAAAIA* |
+| CustomerId | Identificatore Microsoft univoco per il cliente in formato GUID. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
+| CustomerName | Nome dell'organizzazione del cliente, come indicato nel centro per i partner. *Campo molto importante per la riconciliazione della fattura con le informazioni sul sistema.* | *Testare il cliente A* |
+| MpnId | Identificatore MPN del partner CSP. Vedere [How to descrivere by partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
+| ResellerMpnId | Identificatore MPN del rivenditore del record per la sottoscrizione. Non disponibile per l'attività corrente. |
+| OrderId | Identificatore univoco di un ordine nella piattaforma di fatturazione Microsoft. Può essere utile per identificare l'ordine quando si contatta il supporto tecnico. Non utilizzato per la riconciliazione. | *566890604832738111* |
+| SubscriptionId | Identificatore univoco di una sottoscrizione nella piattaforma di fatturazione Microsoft. Può essere utile per identificare la sottoscrizione quando si contatta il supporto tecnico. Non utilizzato per la riconciliazione. *Questo valore non corrisponde all' **ID sottoscrizione** nella console di amministrazione partner. Vedere invece **SyndicationPartnerSubscriptionNumber** .* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | Identificatore univoco per le sottoscrizioni. Un cliente può disporre di più sottoscrizioni per lo stesso piano. Questa colonna è importante per l'analisi dei file di riconciliazione. Questo campo esegue il mapping all' **ID sottoscrizione** nella console di amministrazione partner. | *fb977ab5-test-test-test-24c8d9591708* |
-| OfferID | Identificatore dell'offerta univoco. Identificatore dell'offerta standard, come definito nell'elenco prezzi. *Questo valore non corrisponde all' **ID offerta** nell'elenco prezzi. Vedere invece **DurableOfferID** .* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
-| DurableOfferID | Identificatore dell'offerta durevole univoco, come definito nell'elenco prezzi. *Questo valore corrisponde all' **ID offerta** dall'elenco prezzi.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
+| OfferId | Identificatore dell'offerta univoco. Identificatore dell'offerta standard, come definito nell'elenco prezzi. *Questo valore non corrisponde all' **ID offerta** nell'elenco prezzi. Vedere invece **DurableOfferID** .* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
+| DurableOfferId | Identificatore dell'offerta durevole univoco, come definito nell'elenco prezzi. *Questo valore corrisponde all' **ID offerta** dall'elenco prezzi.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. | *Microsoft Office 365 (Piano E3)* |
 | SubscriptionStartDate | Data di inizio della sottoscrizione. L'ora indicata è sempre l'inizio della giornata, le 0:00. Questo campo viene impostato sul giorno dopo l'invio dell'ordine. Usato insieme a **SubscriptionEndDate** per determinare: se il cliente è ancora entro il primo anno della sottoscrizione o se la sottoscrizione è stata rinnovata per l'anno successivo. | *2/1/2019 0:00* |
 | SubscriptionEndDate | Data di fine della sottoscrizione. L'ora indicata è sempre l'inizio della giornata, le 0:00. *12 mesi più **x** giorni dopo la data di inizio* per allinearsi alla data di fatturazione del partner o a *12 mesi dalla data di rinnovo*. In fase di rinnovo, i prezzi vengono aggiornati rispetto al listino prezzi corrente. È possibile che venga richiesta una comunicazione con il cliente prima del rinnovo automatico. | *2/1/2019 0:00* |
@@ -54,9 +57,7 @@ Per riconciliare le modifiche rispetto agli ordini di un cliente, confrontare il
 | Imposta | Addebito IVA. In base alle regole fiscali e alle circostanze specifiche del mercato. | *0* |
 | TotalForCustomer | Totale al netto delle imposte. Verifica se nella fattura sono addebitate imposte. | *11* |
 | Currency | Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Controllare se corrisponde alla prima fattura. Controllare di nuovo dopo gli aggiornamenti principali della piattaforma di fatturazione. | *EUR* |
-| CustomerName | Nome dell'organizzazione del cliente, come indicato nel centro per i partner. *Campo molto importante per la riconciliazione della fattura con le informazioni sul sistema.* | *Testare il cliente A* |
-| MPNID | Identificatore MPN del partner CSP. Vedere [How to descrivere by partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| ResellerMPNID | Identificatore MPN del rivenditore del record per la sottoscrizione. Vedere [How to descrivere by partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
 | DomainName | Nome di dominio del cliente. Questo campo potrebbe risultare vuoto fino al secondo ciclo di fatturazione. *Non usare questo campo come identificatore univoco per il cliente. Il cliente/partner può aggiornare il dominio Vanity o default tramite il portale di Office 365.* | *example.onmicrosoft.com* |
 | SubscriptionName | Nome alternativo della sottoscrizione. Se non viene specificato alcun nome alternativo, il centro per i partner USA l' **offerta**. | *PROGETTO ONLINE* |
 | SubscriptionDescription | Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. Si tratta di un campo identico a **offername**. | *PROJECT ONLINE PREMIUM SENZA CLIENT DI PROGETTO* |
+| BillingCycleType | Frequenza di fatturazione una volta.| *Ogni mese* |

@@ -1,18 +1,18 @@
 ---
 title: File di riconciliazione basati sulle licenze | Centro per i partner
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: Informazioni sui file di riconciliazione basati sulle licenze nel centro per i partner.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: 304c727fea7605f52fc0b99625d21cc6d148a585
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757184"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021739"
 ---
 # <a name="license-based-reconciliation-files"></a>File di riconciliazione in base alle licenze
 
@@ -37,7 +37,7 @@ Per riconciliare le modifiche rispetto agli ordini di un cliente, confrontare il
 | CustomerId | Identificatore Microsoft univoco per il cliente in formato GUID. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
 | CustomerName | Nome dell'organizzazione del cliente, come indicato nel centro per i partner. *Campo molto importante per la riconciliazione della fattura con le informazioni sul sistema.* | *Testare il cliente A* |
 | MpnId | Identificatore MPN del partner CSP. Vedere [How to descrivere by partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| ResellerMpnId | Identificatore MPN del rivenditore del record per la sottoscrizione. Non disponibile per l'attività corrente. |
+| ResellerMpnId | Identificatore MPN del rivenditore del record per la sottoscrizione.  |
 | OrderId | Identificatore univoco di un ordine nella piattaforma di fatturazione Microsoft. Può essere utile per identificare l'ordine quando si contatta il supporto tecnico. Non utilizzato per la riconciliazione. | *566890604832738111* |
 | SubscriptionId | Identificatore univoco di una sottoscrizione nella piattaforma di fatturazione Microsoft. Può essere utile per identificare la sottoscrizione quando si contatta il supporto tecnico. Non utilizzato per la riconciliazione. *Questo valore non corrisponde all' **ID sottoscrizione** nella console di amministrazione partner. Vedere invece **SyndicationPartnerSubscriptionNumber** .* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | Identificatore univoco per le sottoscrizioni. Un cliente può disporre di più sottoscrizioni per lo stesso piano. Questa colonna è importante per l'analisi dei file di riconciliazione. Questo campo esegue il mapping all' **ID sottoscrizione** nella console di amministrazione partner. | *fb977ab5-test-test-test-24c8d9591708* |

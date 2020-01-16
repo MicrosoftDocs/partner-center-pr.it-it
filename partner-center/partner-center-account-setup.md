@@ -1,7 +1,7 @@
 ---
-title: Gestire l'account per il Centro per i partner | Centro partner
+title: Gestire l'account del Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 01/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gestisci il profilo, il catalogo, i dati bancari e fiscali, i ruoli e le autorizzazioni della tua azienda e altro ancora nel Centro per i partner.
@@ -10,14 +10,14 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: f8f15782dec3177596ad5cf0f680f2dfbf34bf84
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005020"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757204"
 ---
-# <a name="manage-your-partner-center-account"></a>Gestisci il tuo account per il Centro per i partner
+# <a name="manage-your-partner-center-account"></a>Gestire l'account del Centro per i partner
 
 **Si applica a**
 
@@ -45,8 +45,10 @@ Tu o il tuo amministratore dovrete inoltre creare account utente per tutti gli u
 |Esaminare le autorizzazioni associate a ogni ruolo|[Assegnare autorizzazioni e ruoli utente](permissions-overview.md)
 |Gestire le ubicazioni della società|[Gestire l'account partner: ubicazioni](manage-locations.md)
 |Se un dipendente dimentica la password e devi ripristinarla  |[Reimpostare una password utente](reset-a-user-password.md)|
-|Essere certo che la tua azienda sia sul mercato in modo che i clienti possono trovarla   |[Crea un profilo di business](create-a-marketing-profile.md)|
-|Organizzare il catalogo in modo che i prodotti più importanti siano all'inizio dell'elenco   |[Personalizza il catalogo](customize-the-catalog.md)|
+|Iscriversi al Centro per i partner come fornitore del pannello di controllo|[Iscriversi al Centro per i partner come fornitore del pannello di controllo](enroll-as-cpv.md)|
+|Associare l'account Microsoft Learn nel Centro per i partner|[Associare l'account Microsoft Learn nel Centro per i partner](ms-learn-associate.md)|
+|Essere certo che la tua azienda sia sul mercato in modo che i clienti possono trovarla   |[Creare un profilo business](create-a-marketing-profile.md)|
+|Organizzare il catalogo in modo che i prodotti più importanti siano all'inizio dell'elenco   |[Personalizzare il catalogo](customize-the-catalog.md)|
 |Rimanere aggiornato sui prezzi e sulle offerte correnti   |[Prezzi e offerte](pricing-and-offers.md)|
 
 

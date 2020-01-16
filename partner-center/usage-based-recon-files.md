@@ -1,18 +1,18 @@
 ---
 title: File di riconciliazione basati sull'utilizzo | Centro per i partner
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: Tutti gli elementi nel file di riconciliazione basato sull'utilizzo sono stati descritti con esempi.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b50240ec62f10a202c3ad0de3d6425aec878ef
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: e4ce3427f52ccde8f61fa553f3fa0af79bff0a95
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757224"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021749"
 ---
 # <a name="usage-based-file-fields"></a>Campi dei file in base all'uso
 
@@ -34,7 +34,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 | PartnerBillableAccountId | Identificatore account partner. | *1010578050* |
 | CustomerCompanyName | Nome dell'organizzazione del cliente, come indicato nel centro per i partner. *Molto importante per riconciliare la fattura con le informazioni sul sistema.* | *Testare il cliente* |
 | MpnId | Identificatore MPN del partner CSP. | *4390934* |
-| ResellerMpnId | Identificatore MPN del rivenditore del record per la sottoscrizione. Non disponibile per l'attività corrente. |
+| ResellerMpnId | Identificatore MPN del rivenditore del record per la sottoscrizione.  |
 | InvoiceNumber | Numero di fattura in cui viene visualizzata la transazione specificata. | *D020001IVK* |
 | ChargeStartDate | Data di inizio del ciclo di fatturazione, ad eccezione dei casi in cui vengono indicate le date relative a dati di utilizzo latenti non addebitati in precedenza (dal ciclo di fatturazione precedente). L'ora indicata è sempre l'inizio della giornata, le 0:00. | *2/1/2019 0:00* |
 | ChargeEndDate | Data di fine del ciclo di fatturazione, ad eccezione dei casi in cui vengono indicate le date relative a dati di utilizzo latenti non addebitati in precedenza (dal ciclo di fatturazione precedente). L'ora indicata è sempre la fine della giornata, le 23:59. | *2/28/2019 23:59* |

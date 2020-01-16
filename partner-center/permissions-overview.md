@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ruoli, autorizzazioni, amministratore, agente
 ms.localizationpriority: high
-ms.openlocfilehash: e0f53e2f1aae51a1287a2e347fa9014b5d75ea03
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: bf7b1d2b029f2ce4558a2b24c3e1f12a63813339
+ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004130"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75776502"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Assegnare autorizzazioni e ruoli utente
 
@@ -64,7 +64,7 @@ Puoi determinare i tipi di accesso al Centro per i partner di cui dispongono gli
 ||• Gestione dei clienti potenziali
 ||• Visualizzazione del contratto per il cliente
 ||• Registrazione di un rivenditore a valore aggiunto|
-|Agente help desk| • Ricerca e visualizzazione di un cliente
+|Agente di supporto tecnico| • Ricerca e visualizzazione di un cliente
 ||• Modifica dei dettagli dei clienti
 ||• Supporto per la risoluzione dei problemi dei clienti con la gestione di fatturazioni o abbonamenti
 ||• Richiesta di supporto per conto dei clienti (Nota: per svolgere questa attività per gli abbonamenti a Office 365, è necessario essere un agente amministratore)
@@ -135,6 +135,13 @@ I CPV sviluppano app destinate ai partner CSP (Cloud Solution Provider) affinch�
 ||• Visualizzazione e avvio di attestazioni di incentivi
 ||• Visualizzazione di sconti e utili in collaborazione
 ||• Accesso al supporto
+
+## <a name="view-partner-center-insights-data"></a>Visualizzare i dati di Insights del Centro per i partner
+
+|**Ruolo** | **Operazioni consentite**|
+|------------------------------|:-------------------------|
+|Visualizzatore di report esecutivi|Accedere a tutti i set di dati di reporting|
+|Visualizzatore di report|Accedere ai report di dati, ad eccezione dei ricavi e dei dati personali di clienti e dipendenti|
 
 
 

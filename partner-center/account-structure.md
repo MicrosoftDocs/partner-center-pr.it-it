@@ -1,20 +1,20 @@
 ---
 title: La struttura dell'account nel centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 01/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sui due livelli di account nel centro per i partner, l'account globale primario (PGA) e l'account del partner location (PLA).
+description: Informazioni sui due livelli di account nel centro per i partner, l'account globale del partner (PGA) e l'account del partner location (PLA).
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a0a7d0ba985f9610198a64aa87411b1a7da16bd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 65693c6145c6510995badac757f88a982b9a94d5
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722314"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171192"
 ---
 # <a name="the-account-structure-in-partner-center"></a>La struttura dell'account nel centro per i partner
 
@@ -32,11 +32,11 @@ ms.locfileid: "74722314"
 
 L'azienda dispone di due livelli di account nel centro per i partner.
 
-### <a name="the-top-level-is-the-primary-global-account-pga"></a>Il primo livello è l'account globale primario (PGA).
+### <a name="the-top-level-is-the-partner-global-account-pga"></a>Il primo livello è l'account globale del partner (PGA).
 
-- L'account globale primario contiene l'indirizzo aziendale legale e il contatto principale per l'azienda. 
-- Visualizza i dettagli dell'account globale primario da impostazioni partner-profilo partner >.
-- I dettagli conterranno anche l'ID MPN principale dell'account globale. 
+- L'account globale del partner contiene l'indirizzo aziendale legale e il contatto principale per l'azienda. 
+- Visualizza i dettagli dell'account globale del partner da impostazioni partner-profilo partner >.
+- I dettagli conterranno anche l'ID MPN dell'account globale del partner. 
 - PGA è l'elemento padre dell'azienda e non viene usato per l'associazione a programmi incentive o Cloud Solution Provider. 
 - Le località devono essere usate per tali associazioni.
 
@@ -46,7 +46,7 @@ Il PGA potrebbe avere posizioni aziendali aggiuntive. Ogni località ha un ID MP
 
 - Ogni account del percorso partner può avere un proprio indirizzo legale e un contatto principale. Le località possono inoltre condividere l'indirizzo legale con l'account globale o con altre località.
 - Visualizzare l'elenco degli account del percorso partner da impostazioni partner-> località.
-- Tutti gli account del percorso si trovano allo stesso livello e sotto l'account globale primario.
+- Tutti gli account del percorso si trovano allo stesso livello e nell'account globale del partner.
 - Gli amministratori dell'account possono aggiungere o rimuovere posizioni.
 
 ![Struttura dell'account](images/accountstructure.png)

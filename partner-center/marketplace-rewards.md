@@ -10,14 +10,14 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: Offerte per il Marketplace, supporto marketing, premi, vantaggi per gli editori
 ms.localizationpriority: medium
-ms.openlocfilehash: 512d23bbf3962119b48af89dd08546692a49a0dd
-ms.sourcegitcommit: 75ed00af0b12086f7a51b8d22a3bfc9a02c5d657
+ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "75942895"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171208"
 ---
-# <a name="manage-marketplace-rewards"></a>Gestire i premi del Marketplace
+# <a name="manage-marketplace-rewards"></a>Gestire Premi del marketplace
 
 Ruoli appropriati:
 
@@ -56,7 +56,7 @@ Eseguire quindi queste operazioni:
 
 ## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>Perché non è possibile visualizzare il programma Commercial Rewards Marketplace nel dashboard?
 
-Le informazioni sui premi del Marketplace sono disponibili tramite il tenant Azure AD e l'ID MPN usato per creare l'account del centro per i partner. Questo account è denominato account globale primario (PGA) dell'azienda. Se il tenant di AAD è diverso da quello usato per l'onboarding MPN, per poter visualizzare il menu Commercial Rewards Marketplace è necessario associarlo a PGA della società. 
+Le informazioni sui premi del Marketplace sono disponibili tramite il tenant Azure AD e l'ID MPN usato per creare l'account del centro per i partner. Questo account è denominato account globale del partner (PGA) dell'azienda. Se il tenant di AAD è diverso da quello usato per l'onboarding MPN, per poter visualizzare il menu Commercial Rewards Marketplace è necessario associarlo a PGA della società. 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Per associare un tenant Azure AD al PGA della società
 

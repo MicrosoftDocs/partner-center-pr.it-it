@@ -338,7 +338,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Libano        |   USD    |
 |  Lesoto        |   USD    |
 |  Libia          |          |
-|  Macedonia, Repubblica di|   |
+|  Macedonia del Nord, Repubblica della|   |
 |  Mauritania     |   USD    |
 |  Moldova        |          |
 |  Mongolia       |          |

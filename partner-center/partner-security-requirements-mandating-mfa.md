@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: medium
-ms.openlocfilehash: dd54d10bb75fe732cddc34c48058b3ba95eac9ae
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004990"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723488"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Imposizione di multi-factor authentication per il tenant partner
 
@@ -26,12 +26,8 @@ ms.locfileid: "75004990"
   - Rivenditore indiretto
 - Tutti gli advisor
 
-**Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Agente amministratore
--   Amministratore fatturazione
--   Amministratore dei partner MPN
+**Utenti appropriati**
+-   Tutti gli utenti abilitati, inclusi gli utenti Guest
 
 Questi partner saranno tenuti a completare la verifica dell'autenticazione a più fattori per le aree seguenti:
 
@@ -173,7 +169,7 @@ Prima di applicare un'eccezione tecnica, esaminare l'elenco dei problemi comuni 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problema 1: il partner necessita di più tempo per implementare l'autenticazione a più fattori per gli agenti partner
 Un partner non è stato avviato o è ancora in fase di implementazione dell'autenticazione a più fattori per gli agenti partner che richiedono l'accesso ai portali di Microsoft Online Services mediante privilegi di amministrazione delegata del partner per gestire le risorse del cliente. Il partner necessita di più tempo per completare l'implementazione dell'autenticazione a più fattori. Si tratta di un motivo valido per un'eccezione tecnica?
 
-**Risposta:** no. Il partner deve pianificare l'implementazione dell'autenticazione a più fattori per gli utenti, in modo da evitare rotture.
+**Risposta**: No. Il partner deve pianificare l'implementazione dell'autenticazione a più fattori per gli utenti, in modo da evitare rotture.
 
 > [!NOTE]
 > Anche se il partner non ha implementato l'autenticazione a più fattori per i propri agenti partner, gli agenti partner possono comunque accedere ai portali di Microsoft Online Services usando i privilegi di amministrazione delegata del partner purché possano completare la registrazione dell'autenticazione a più fattori Quando richiesto durante l'accesso al tenant del cliente. Il completamento della registrazione dell'autenticazione a più fattori non abilita automaticamente l'autenticazione a più fattori.
@@ -181,12 +177,12 @@ Un partner non è stato avviato o è ancora in fase di implementazione dell'aute
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Problema 2: il partner non ha implementato l'autenticazione a più fattori per gli account utente che non usano privilegi amministrativi delegati
 Un partner ha alcuni utenti dei tenant partner che non necessitano dell'accesso ai portali di Microsoft Online Services per gestire le risorse dei clienti usando i privilegi di amministrazione delegata del partner. Il partner è in fase di implementazione dell'autenticazione a più fattori per questi utenti e richiede più tempo per il completamento. Si tratta di un motivo valido per un'eccezione tecnica?
 
-**Risposta:** no. Poiché questi account utente non usano i privilegi di amministrazione delegata del partner per gestire le risorse dei clienti, non dovranno accedere al tenant del cliente. Non saranno interessati dalla Azure AD che richiede la verifica dell'autenticazione a più fattori durante l'accesso al tenant del cliente.
+**Risposta**: No. Poiché questi account utente non usano i privilegi di amministrazione delegata del partner per gestire le risorse dei clienti, non dovranno accedere al tenant del cliente. Non saranno interessati dalla Azure AD che richiede la verifica dell'autenticazione a più fattori durante l'accesso al tenant del cliente.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Problema 3: il partner non ha implementato l'autenticazione a più fattori per gli account del servizio utente
 Un partner ha alcuni account utente nei tenant partner usati dai dispositivi come account del servizio. Si tratta in genere di account con privilegi limitati che non richiedono Access partner Center né i portali di Microsoft Online Services per gestire le risorse dei clienti mediante privilegi di amministrazione delegata del partner. Si tratta di un motivo valido per un'eccezione tecnica?
 
-**Risposta:** no. Poiché questi account utente non usano i privilegi di amministrazione delegata del partner per gestire le risorse dei clienti, non dovranno accedere al tenant del cliente. Non saranno interessati dalla Azure AD che richiede la verifica dell'autenticazione a più fattori durante l'accesso al tenant del cliente.
+**Risposta**: No. Poiché questi account utente non usano i privilegi di amministrazione delegata del partner per gestire le risorse dei clienti, non dovranno accedere al tenant del cliente. Non saranno interessati dalla Azure AD che richiede la verifica dell'autenticazione a più fattori durante l'accesso al tenant del cliente.
 
 #### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Problema 4: il partner non può implementare l'autenticazione a più fattori con l'app MS Authenticator
 Un partner ha criteri di "pulizia" che non consentono ai dipendenti di portare i dispositivi mobili personali nell'area di lavoro. Senza accedere ai dispositivi mobili personali, i dipendenti non possono installare l'app MS Authenticator, che è l'unica verifica dell'autenticazione a più fattori supportata dai criteri di base Azure AD. Si tratta di un motivo valido per un'eccezione tecnica?

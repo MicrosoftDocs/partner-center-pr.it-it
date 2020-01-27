@@ -1,7 +1,7 @@
 ---
 title: Vendere sottoscrizioni di software tramite CSP | Centro per i partner
 ms.topic: article
-ms.date: 12/18/2019
+ms.date: 01/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono usare il centro per i partner per acquistare, gestire, vendere e annullare le istanze riservate di Azure e le sottoscrizioni server per i clienti.
@@ -10,18 +10,18 @@ ms.author: evansma
 keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Azure RI, Windows Server, SQL Server, sottoscrizioni software, Annulla software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 733c8ab6c2d15109011dfa240c2ce5954d748fea
-ms.sourcegitcommit: 855b2aed1c395b199d8aaba88ac08cc277f474ea
+ms.openlocfilehash: d943128d93fb52e67f4eba346a3338cd429ef57b
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "75190242"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723438"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendere sottoscrizioni di software tramite CSP
 
 **Si applica a**
 
-- Cloud Solution Provider
+- Provider di soluzioni cloud
 
 **Ruoli appropriati**
 
@@ -156,19 +156,21 @@ Per annullare un acquisto, attenersi alla procedura seguente:
 
 4. Nella pagina dei dettagli del cliente selezionare **software** per visualizzare l'elenco del software acquistato per il cliente. 
 
-5. Individuare l'acquisto del software che si desidera annullare e quindi scegliere **Annulla**. Viene visualizzata una finestra di dialogo.
+5. Individuare l'acquisto del software che si desidera annullare e quindi scegliere **Annulla**. Verrà visualizzata una finestra di dialogo.
 
-6. Nell'elenco a discesa Order Number selezionare il numero di ID dell'ordine che si desidera annullare e quindi selezionare Submit ( **Invia**).
+6. Nell'elenco a discesa Order Number selezionare il numero di ID dell'ordine che si desidera annullare. Per ulteriori informazioni su un numero di ordine o un ID di ordine, vedere la pagina relativa alla **cronologia degli ordini** del cliente.
 
-7. Se si desidera annullare più ordini per un cliente, sarà necessario eseguire di nuovo i passaggi da 4 a 6 per ogni numero di ID dell'ordine univoco. Per ulteriori informazioni su un numero di ordine o un ID di ordine, vedere la pagina relativa alla **cronologia degli ordini** del cliente.
+7. Selezionare la casella di controllo per confermare di avere letto il messaggio **importante** relativo all'annullamento. Per ulteriori informazioni su ciò che accade dopo l'annullamento di un acquisto, vedere la Nota **importante** riportata di seguito.
 
-8. Quando si tenta di annullare un ordine, il centro per i partner può anche fornire altre informazioni, che vengono visualizzate sotto l'elenco a discesa Numero ordine. Queste informazioni possono includere:
+8. Selezionare **Submit (Invia** ) per annullare l'acquisto. Se si desidera annullare più ordini per un cliente, sarà necessario eseguire di nuovo i passaggi da 4 a 6 per ogni numero di ID dell'ordine univoco.
 
-    - Il numero di giorni rimanenti per l'annullamento dell'ordine specifico
+Quando si tenta di annullare un ordine, il centro per i partner può anche fornire altre informazioni, che vengono visualizzate sotto l'elenco a discesa Numero ordine. Queste informazioni possono includere:
 
-    - Se è già stata passata la finestra di annullamento e non è più possibile annullare l'ordine
+* Il numero di giorni rimanenti per l'annullamento dell'ordine specifico
 
-    - Se sono necessarie altre informazioni sulla richiesta di annullamento, è possibile che venga fornito un collegamento a un modulo di **richiesta di supporto** tecnico.
+* Se è già stata passata la finestra di annullamento e non è più possibile annullare l'ordine
+
+* Se sono necessarie altre informazioni sulla richiesta di annullamento, è possibile che venga fornito un collegamento a un modulo di **richiesta di supporto** tecnico.
 
 >[!IMPORTANT]
 >Dopo aver annullato un ordine, verrà visualizzato un messaggio che conferma l'annullamento. Potrebbe verificarsi un ritardo di un massimo di 15 minuti prima che il relativo annullamento venga visualizzato nel dashboard del centro per i partner. Prendere nota anche dei dettagli successivi all'annullamento.

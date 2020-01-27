@@ -1,36 +1,88 @@
 ---
-title: Visualizzare le informazioni sui pagamenti per gli incentivi | Centro per i partner
+title: Visualizzare i pagamenti e i programmi per gli incentivi | Centro per i partner
 ms.topic: article
-ms.date: 06/03/2019
+ms.date: 01/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Visualizzare gli utili e i proventi per i programmi di incentivi. Sono inclusi la pagina dei pagamenti, la pagina della cronologia delle transazioni e lo stato dei pagamenti, nonché l'esportazione dei dati.
+description: Visualizza, gestisce o Esporta dati sullo stato corrente dei programmi di incentivazione, i guadagni e i pagamenti, inclusi i guadagni degli incentivi per programma e località.
 author: LauraBrenner
 ms.author: labrenne
+keywords: incentivi, pagamenti, pagamenti, programma incentive, località, stato del programma
 ms.localizationpriority: medium
-ms.openlocfilehash: e8eccf310c9ff920fbbfcf0494da6e1fb4010c44
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 8f68977251416c9f70c84cd4f722a2c09a9535d5
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943184"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723468"
 ---
-# <a name="view-your-incentives-payments-information"></a>Visualizza le informazioni sui pagamenti per gli incentivi
+# <a name="view-your-incentive-payments-and-programs"></a>Visualizza i pagamenti e i programmi per gli incentivi
 
 **Si applica a**
 
 -  Centro per i partner
 
-Usare queste pagine per visualizzare i dettagli dei pagamenti precedenti, in sospeso e imminenti, oltre alla cronologia completa delle transazioni. È anche possibile scaricare o esportare informazioni dettagliate per qualsiasi transazione. Tutte le pagine di incentivi mostrano gli importi in dollari statunitensi. 
+**Ruoli appropriati**
 
->[!Note]
+-  Amministratore incentivo
+-  Utente di incentivi 
+-  Visualizzatore di sola lettura incentive
+-  Amministratore globale
+-  Amministratore partner MPN
+
+Usare queste pagine per visualizzare i dettagli del passato, in sospeso e i pagamenti e i guadagni imminenti, lo stato dei programmi incentive in ogni posizione e la cronologia completa delle transazioni. È anche possibile scaricare o esportare informazioni dettagliate per qualsiasi transazione. Tutte le pagine di incentivi mostrano gli importi in dollari statunitensi.
+
+>[!NOTE]
 >Verranno visualizzati solo i dati per i programmi e gli ID MPN a cui si è associati. Per accedere a dati aggiuntivi, vedere l'amministratore di incentivi. 
 
-
 ## <a name="access-the-incentives-pages"></a>Accedi alle pagine degli incentivi
-Per aprire una delle pagine di incentivi:
-1. Selezionare l'icona **Money** nell'angolo superiore destro.
-2. Selezionare **pagamenti**, **Cronologia transazioni**o **Esporta dati**.
+
+È possibile accedere alle informazioni sugli incentivi in diversi modi dal [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner:
+
+- Selezionare **incentivi** dal menu a sinistra. Diverse opzioni vengono visualizzate in **incentivi**, inclusa la **Panoramica**. Esplora queste opzioni per apprendere lo stato di programmi incentive, pagamenti di incentivi, guadagni e attestazioni.
+- Selezionare l'icona **Money** (payout) nell'angolo superiore destro. È quindi possibile selezionare altre opzioni, ad esempio **Cronologia transazioni**, **pagamenti**, **Esporta dati** o **report ufficio vendite**.
+
+Le pagine seguenti sono descritte di seguito:
+
+- Pagina di panoramica degli incentivi
+- Pagina pagamenti
+- Pagina Cronologia transazioni
+- Pagina Esporta dati e altre pagine di esportazione associate
+
+>[!NOTE]
+>Per ulteriori informazioni sugli incentivi e sulle funzionalità di incentivazione del centro per i partner, vedere [investimenti e incentivi](https://partner.microsoft.com/membership/partner-incentives) per i partner (accesso richiesto).
+
+## <a name="my-incentives-overview-page"></a>Pagina di panoramica degli incentivi
+
+La **Panoramica degli incentivi** Mostra lo stato complessivo dei programmi incentive, nonché lo stato di ogni programma in ogni sede. Queste informazioni includono i guadagni e i pagamenti per gli incentivi totali, dal momento dell'iscrizione ai programmi per gli incentivi.
+
+In questa pagina sono inclusi anche i guadagni e i pagamenti per località o programma, nonché per eventuali altre azioni che potrebbero essere necessarie per eseguire la registrazione in un programma in una posizione specifica.
+
+Per accedere alla **Panoramica degli incentivi**:
+
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+2. Selezionare **incentivi**, quindi **Panoramica** dal menu.
+3. Visualizzare il riepilogo dei guadagni e dei pagamenti nella parte superiore della pagina e ulteriori dettagli nella tabella riportata di seguito. È anche possibile ordinare, raggruppare ed espandere la tabella associata:
+
+   - Per eseguire l'ordinamento in base alla colonna, selezionare il nome della colonna.
+   - Per raggruppare in base al programma, selezionare la scheda **in base al programma** sopra la tabella.
+   - Per raggruppare in base alla posizione, selezionare la scheda **per località** sopra la tabella.
+   - Per visualizzare altri dettagli sulle registrazioni in un gruppo specifico, selezionare il simbolo della freccia di espansione alla fine di una determinata riga. Questa operazione espande la visualizzazione.
+
+4. Se è necessaria un'ulteriore azione per la registrazione in un programma, queste informazioni verranno visualizzate nella colonna **stato** . In questo caso, selezionare il simbolo della freccia di espansione per ottenere informazioni sui passaggi successivi che è necessario eseguire.
+
+>[!NOTE]
+>Vedere la tabella seguente per altre informazioni sui diversi Stati di registrazione indicati nella colonna **stato** .
+
+
+| **Stato**         | **Viene visualizzato quando** |
+|:------------------------------------|:------------------|
+| Azione richiesta  | Il partner ha accettato un invito a iscriversi a un programma di incentivi, ma potrebbe dover aggiornare le informazioni bancarie o fiscali. Vedere la colonna **azioni necessarie** per i passaggi successivi o i collegamenti per aggiornare le informazioni bancarie o fiscali nel centro per i partner. |
+| Funzionalità  | Il programma di incentivazione specifico non è più disponibile nel sistema di incentivi. |
+| Registrati  | Tutte le informazioni fiscali e bancarie sono state convalidate. Non è richiesta alcuna ulteriore azione di registrazione da parte del partner. |
+| Inactive  | Il programma incentive potrebbe non essere aperto per la registrazione in questo momento o il partner non soddisfa l'idoneità corrente per la registrazione o la nuova registrazione.  |
+| Invitato  | Un nuovo invito alla registrazione del programma incentive è stato inviato al partner, ma il partner non ha ancora avviato il processo di registrazione. La colonna adiacente, **azioni richieste** Mostra i passaggi successivi ed eventuali collegamenti correlati.  |
+| Convalida della registrazione  | Il partner ha già completato o aggiornato le informazioni fiscali e bancarie per una registrazione nuova o esistente ed è in attesa della convalida delle informazioni da parte di Microsoft. Durante il processo di convalida, è possibile che venga visualizzata la **convalida della registrazione** per un massimo di 48 ore.  |
 
 ## <a name="payments-page"></a>Pagina pagamenti
 I totali in questa pagina rappresentano tutti gli ID MPN usati. È possibile filtrare in base all'ID partecipante, al programma, all'ID di pagamento e al tipo di guadagno. Gli importi vengono specificati in dollari statunitensi. Il valore a pagamento viene inoltre visualizzato con pagamento in valuta. 
@@ -57,7 +109,7 @@ Per esportare i dati della transazione in questa pagina, selezionare **Esporta**
 |**Ottenere lo stato** |**Motivo** |**È necessaria un'azione partner?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Non elaborati        | Il guadagno è idoneo per il pagamento. Rimane in questo stato per un periodo di raffreddamento come definito nella guida del programma per il programma incentive.       |No        |
-|Futuro      |Ordine di pagamento generato in attesa di revisioni interne prima dell'elaborazione del pagamento.       |No       |
+|Imminente      |Ordine di pagamento generato in attesa di revisioni interne prima dell'elaborazione del pagamento.       |No       |
 |Fattura IVA in sospeso      |La fattura dell'imposta è incompleta o non valida.          |Prima di poter pagare, è necessario aggiornare la fattura fiscale         |
 |Rifiutato durante la revisione        |Il pagamento è stato rifiutato durante la revisione.          |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
 |Failed        |Il pagamento non è riuscito a causa di un errore di sistema Microsoft.         |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
@@ -65,10 +117,10 @@ Per esportare i dati della transazione in questa pagina, selezionare **Esporta**
 |Pagamento errato        |È in corso il recupero dei pagamenti.          |No        |
 |Sent        |Il pagamento è stato inviato alla banca.          |No       |
 |Rielaborazione       |Il pagamento ha rilevato un errore di sistema Microsoft e viene rielaborato.           |No         |
-|Inverti        |Il pagamento è stato invertito dalla banca e verrà inviato di nuovo al successivo ciclo di pagamento.          |No        |
+|Invertito        |Il pagamento è stato invertito dalla banca e verrà inviato di nuovo al successivo ciclo di pagamento.          |No        |
 |Fattura imposta rifiutata       |La fattura fiscale è stata rifiutata durante la revisione. Tutti i pagamenti in sospeso rimarranno in attesa fino al completamento della revisione della fattura fiscale.          |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
 |Fattura fiscale in Revisione        |È in corso la revisione della fattura fiscale. Il pagamento verrà rilasciato una volta che la fattura fiscale è stata approvata.           |No        |
-|Elemento rifiutato        |Il pagamento è stato rifiutato dalla banca.           |Per informazioni dettagliate, contattare la banca.  |
+|Respinto        |Il pagamento è stato rifiutato dalla banca.           |Per informazioni dettagliate, contattare la banca.  |
 
 ## <a name="export-data-page"></a>Pagina Esporta dati
 Seguire le istruzioni in questa pagina per esportare i dati desiderati. 
@@ -137,20 +189,20 @@ Oltre alla tabella precedente, questi campi relativi alla cronologia delle trans
 
 |**Nome colonna**   |**Descrizione**   |
 |------------------|:-------------------------------------|
-|partNumber   |Numero di parte collegato alla transazione. Terminologia Microsoft.   |
+|NumeroArticolo   |Numero di parte collegato alla transazione. Terminologia Microsoft.   |
 |productName   |Il nome della famiglia di prodotti è stato riprodotto a transazione   |
 |invoiceNumber   |Numero fattura   |
 |subscriptionId   |Identificatore di sottoscrizione associato al cliente   |
 |subscriptionStartDate   |Data di inizio della sottoscrizione   |
 |subscriptionEndDate   |Data di fine sottoscrizione   |
-|offerId   |TBD   |
+|Idofferta   |TBD   |
 |resellerId   |Identificatore rivenditore   |
 |resellerName   |Nome rivenditore   |
 |distributorId   |Identificatore del database di distribuzione   |
 |distributorName   |Nome del server di distribuzione   |
-|agreementNumber   |Numero contratto   |
+|agreementNumber   |Numero di contratto   |
 |agreementStartDate   |Data di inizio contratto   |
 |agreementEndDate   |Data di fine contratto   |
-|carico di lavoro   |Carico di lavoro   |
+|carico   |Carico di lavoro   |
   
 

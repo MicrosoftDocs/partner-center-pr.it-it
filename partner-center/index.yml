@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Documentazione del Centro per i partner
-summary: Con Microsoft Partner Network (MPN), il programma Cloud Solution Provider (CSP) e altro ancora, il Centro per i partner ti aiuta a far crescere il tuo business.
+summary: Con Microsoft Partner Network (MPN), il programma Cloud Solution Provider (CSP) e altro ancora, il Centro per i partner fa crescere il tuo business.
 brand: windows
 metadata:
   title: Documentazione del Centro per i partner
-  description: Con Microsoft Partner Network (MPN), il programma Cloud Solution Provider (CSP) e altro ancora, il Centro per i partner ti aiuta a far crescere il tuo business.
+  description: Con Microsoft Partner Network (MPN), il programma Cloud Solution Provider (CSP) e altro ancora, il Centro per i partner fa crescere il tuo business.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-csp
   ms.topic: hub-page
@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 01/07/2020
-  ms.openlocfilehash: 1eeb71d01af72c4ecd76e632e68ce4739fdbf5cd
-  ms.sourcegitcommit: 7de04911b790c603625ed51cc6f8ec80ebefae2d
+  ms.openlocfilehash: b167e61908b30dff2c9531810d465411cd8089d8
+  ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
   ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 01/23/2020
-  ms.locfileid: "76549646"
+  ms.lasthandoff: 01/24/2020
+  ms.locfileid: "76723428"
 highlightedContent:
   items:
   - title: Accedi per vedere gli annunci più recenti
@@ -29,9 +29,12 @@ highlightedContent:
   - title: Partecipa al programma Early Adopter per API e SDK
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
-  - title: Panoramica del marketplace commerciale
+  - title: Vendi le offerte degli ISV
     itemType: whats-new
     url: csp-commercial-marketplace-overview.md
+  - title: 'Partner ISV: come creare e pubblicare offerte per Marketplace, AppSource e il canale rivenditori CSP'
+    itemType: whats-new
+    url: https://docs.microsoft.com/en-us/azure/marketplace/
   - title: Insights del Centro per i partner
     itemType: overview
     url: partner-center-insights.md

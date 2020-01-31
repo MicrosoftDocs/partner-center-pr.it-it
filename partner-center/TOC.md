@@ -37,6 +37,7 @@
 ## [Contratto Microsoft Partner per partner CSP](microsoft-partner-agreement.md)
 ## [Nuovi requisiti dei partner diretti in CSP](direct-partner-new-requirements.md)
 ## [Contratti Microsoft Cloud per area geografica e lingua](agreements.md)
+## [Funzionalità di fatturazione diretta con restrizioni](restricted-direct-bill-capabilities.md)
 ## [Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto](transition-direct-to-indirect.md)
 ## [Contratti, listini prezzi e offerte per CSP](csp-documents-and-learning-resources.md)
 ## [Valute e mercati regionali CSP](regional-authorization-overview.md)

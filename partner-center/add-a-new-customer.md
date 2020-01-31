@@ -10,14 +10,14 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, aggiungere un cliente, account del cliente, account del cliente nel Centro per i partner, clienti, aggiungere i clienti, creare un account del cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 7a97dbbd72cf5b1a16d4cd4e805e4d33bf9c4b53
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722303"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860442"
 ---
-# <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente
+# <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente 
 
 **Si applica a**
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: CSP, partner diretto, fattura diretta, requisiti
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253584"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860463"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>Nuovi requisiti del partner di fatturazione diretta CSP
 
@@ -50,9 +50,11 @@ Dopo che Microsoft avrà verificato l'idoneità della tua azienda a iscriversi c
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>Transizione da diretta a rivenditore indiretto
 
+Gli attuali partner di fatturazione diretta devono soddisfare i nuovi requisiti per restare nel programma per i partner Direct Bill CSP. In caso contrario, [l'accesso alle funzionalità di fatturazione diretta verrà limitato](restricted-direct-bill-capabilities.md) e potrà eseguire attività specifiche, ad esempio per effettuare nuovi acquisti per i clienti. 
+
 Se si decide di passare da una fattura diretta a una società di rivenditori indiretta, è necessario eseguire diversi passaggi. Per altre informazioni sulla transizione, vedere la pagina relativa alla [transizione dal partner Cloud Solution Provider (CSP) diretto al rivenditore indiretto CSP](transition-direct-to-indirect.md). 
 
-## <a name="see-also"></a>Vedere anche
+## <a name="see-also"></a>Vedi anche
 
 - [Ulteriori informazioni su come diventare un rivenditore indiretto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Domande frequenti su fatturazione diretta a rivenditori indiretti](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

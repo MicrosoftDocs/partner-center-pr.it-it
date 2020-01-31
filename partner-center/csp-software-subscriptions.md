@@ -1,7 +1,7 @@
 ---
 title: Vendere sottoscrizioni di software tramite CSP | Centro per i partner
 ms.topic: article
-ms.date: 01/21/2020
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono usare il centro per i partner per acquistare, gestire, vendere e annullare le istanze riservate di Azure e le sottoscrizioni server per i clienti.
@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Azure RI, Windows Server, SQL Server, sottoscrizioni software, Annulla software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d943128d93fb52e67f4eba346a3338cd429ef57b
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: 0ba3f32615fe02d843123180e4cb34176b28e09c
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723438"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812653"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendere sottoscrizioni di software tramite CSP
 
@@ -135,7 +135,7 @@ A scopo di controllo o di conformità, potrebbe essere necessario controllare un
 È possibile annullare l'acquisto di un software entro 60 giorni dalla data di acquisto. Se si annulla l'operazione entro il primo periodo di 60 giorni, non verrà addebitato alcun costo per la terminazione anticipata. Dopo 60 giorni, non è più possibile annullare un acquisto. (Vedere la nota per le restrizioni chiave per questa regola di annullamento. Per informazioni su ciò che accade dopo aver annullato l'acquisto di un software, vedere anche la nota importante dopo questi passaggi. 
 
 >[!NOTE]
->I passaggi seguenti per annullare un acquisto si applicano solo al software che è idoneo all'annullamento entro una specifica finestra di annullamento, ad esempio entro i primi 60 giorni dall'acquisto. Si noti che questi passaggi per annullare un acquisto non si applicano agli acquisti degli aggiornamenti della protezione estesa di Microsoft Windows 7 2020. Per annullare Windows 7 Ude 2020, è necessario inviare una richiesta di assistenza clienti, come descritto più avanti in questo argomento. Questi passaggi non si applicano anche a un piano software SUSE Linux o RedHat in Azure. Al momento non è possibile annullare o scambiare un piano software SUSE o RedHat. [Altre](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) informazioni sull'uso dei piani SUSE Linux o RedHat.
+>I passaggi seguenti per annullare un acquisto si applicano solo al software che è idoneo all'annullamento entro una specifica finestra di annullamento, ad esempio entro i primi 60 giorni dall'acquisto. Questi passaggi non si applicano anche a un piano software SUSE Linux o RedHat in Azure. Al momento non è possibile annullare o scambiare un piano software SUSE o RedHat. [Altre](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) informazioni sull'uso dei piani SUSE Linux o RedHat.
 
 Per annullare un acquisto, attenersi alla procedura seguente:
 
@@ -166,11 +166,11 @@ Per annullare un acquisto, attenersi alla procedura seguente:
 
 Quando si tenta di annullare un ordine, il centro per i partner può anche fornire altre informazioni, che vengono visualizzate sotto l'elenco a discesa Numero ordine. Queste informazioni possono includere:
 
-* Il numero di giorni rimanenti per l'annullamento dell'ordine specifico
+- Il numero di giorni rimanenti per l'annullamento dell'ordine specifico
 
-* Se è già stata passata la finestra di annullamento e non è più possibile annullare l'ordine
+- Se è già stata passata la finestra di annullamento e non è più possibile annullare l'ordine
 
-* Se sono necessarie altre informazioni sulla richiesta di annullamento, è possibile che venga fornito un collegamento a un modulo di **richiesta di supporto** tecnico.
+- Se sono necessarie altre informazioni sulla richiesta di annullamento, è possibile che venga fornito un collegamento a un modulo di **richiesta di supporto** tecnico.
 
 >[!IMPORTANT]
 >Dopo aver annullato un ordine, verrà visualizzato un messaggio che conferma l'annullamento. Potrebbe verificarsi un ritardo di un massimo di 15 minuti prima che il relativo annullamento venga visualizzato nel dashboard del centro per i partner. Prendere nota anche dei dettagli successivi all'annullamento.

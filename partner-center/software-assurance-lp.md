@@ -1,19 +1,19 @@
 ---
 title: Programmi Software Assurance | Centro per i partner
 ms.topic: article
-ms.date: 01/14/2019
+ms.date: 01/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Iscriversi a un programma Software Assurance per creare un'azienda e compensare la distribuzione di corsi di formazione e pianificazione ai clienti aziendali.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ff23573f4cc85964a81e544ead8fa876495bbd10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a4827a8c1fbfb04bb7fccff4bd22e7311eb7e08d
+ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943084"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "76915728"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Partecipa ai programmi software Assurance
 
@@ -22,7 +22,4 @@ La partecipazione ai programmi software Assurance, inclusi i voucher di formazio
 |**Per informazioni su**   |**Leggi**   |
 |--------------------------|:------------------|
 |Iscrizione al programma Software Assurance Training vouchers (SATV)|[Programma Software Assurance training voucher (SATV) nel centro per i partner](software-assurance-satv.md)|
-|uso dello strumento per la convalida e il riscatto dei voucher|[Usare lo strumento per la convalida e il riscatto dei voucher nel Centro per i partner per convalidare, riservare e riscattare i voucher](voucher-validation-tool.md)|
-|Registrazione in Software Assurance Planning Services|[Software Assurance Planning Services nel centro per i partner](software-assurance-dps.md) 
-
-
+|Registrazione in Software Assurance Planning Services|[Software Assurance Planning Services nel centro per i partner](software-assurance-dps.md) |

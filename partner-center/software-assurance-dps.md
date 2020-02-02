@@ -1,114 +1,110 @@
 ---
 title: Software Assurance Planning Services nel centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 01/21/2019
+ms.date: 01/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Iscriversi a Planning Services per qualificarsi per la compensazione da Microsoft per la distribuzione di corsi di formazione e altri servizi ai clienti aziendali con Software Assurance.
+description: Scopri come iscriverti e qualificarti per gli impegni di Microsoft Planning Services, in modo da poter offrire formazione e altri servizi ai clienti con Software Assurance.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: pre-distribuzione, pianificazione, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 9eed58a3f7198a1ea02143a96fafe4bfd39e2848
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a8bce7d7e9d52071af3ffc8c483a4aa4c40cc54f
+ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943424"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "76915748"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Servizi di pianificazione Software Assurance nel Centro per i partner
 
-Espandi la tua azienda registrandosi nei programmi di Software Assurance Planning Services. Microsoft ricompensa i partner per la distribuzione di corsi di formazione, pianificazione e altri servizi ai clienti aziendali con Software Assurance.
+**Ruoli appropriati**
+
+- Amministratore globale
+- Amministratore partner MPN
 
 In qualità di partner di servizi di pianificazione approvato, Microsoft compensa l'utente per fornire impegni di pianificazione pre-distribuzione per i clienti aziendali. La partecipazione a questo programma può essere utile per attirare più clienti, diventare partner di pianificazione attendibile e raggiungere ulteriori impegni con i clienti.
 
-Se non si ha familiarità con i servizi di pianificazione di Software Assurance, vedere [far crescere la propria azienda con i servizi di pianificazione](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx).
-
-
 ## <a name="get-started"></a>Per iniziare
 
-Se non si ha familiarità con Software Assurance Planning Services, attenersi alla procedura riportata di seguito. Se è già attivo nei programmi di Planning Services e le informazioni sull'account del partner sono state spostate nel centro per i partner, iniziare dal passaggio 4 (4). 
+Se non si ha familiarità con Software Assurance Planning Services, attenersi alla procedura riportata di seguito. Se è già attivo nei programmi di Planning Services, iniziare ogni nuovo impegno al passaggio 4 (4) riportato di seguito.
 
-1. Verifica idoneità del programma 
-2. Eseguire la registrazione in un programma del servizio di pianificazione
-3. Aggiorna profilo aziendale nella directory partner
-4. Riservare un voucher del cliente 
-5. Completare l'engagement e inviare il report di completamento
-6. Riscatto del voucher 
-7. Richiesta del pagamento a Microsoft
+1. Verifica idoneità (nuovi partner)
+2. Registrazione (nuovi partner)
+3. Crea o aggiorna il profilo business dell'azienda (nuovi partner)
+4. Il cliente crea e assegna un voucher (partner esistenti)
+5. Validate e Reserve voucher (partner esistenti)
+6. Completa il coinvolgimento e fornisci risultati finali ai clienti (partner esistenti)
+7. Riscattare il voucher nel centro per i partner (partner esistenti)
+8. Richiedi pagamento da Microsoft (partner esistenti)
 
 Questo articolo illustra come completare ogni passaggio.
 
-## <a name="confirm-eligibility"></a>Conferma idoneità
+## <a name="verify-eligibility-new-partners"></a>Verifica idoneità (nuovi partner)
 
-Prima di poter eseguire la registrazione al programma Planning Services, è necessario che l'azienda soddisfi i requisiti di formazione per competenze e conformità e che il consulente leader del coinvolgimento dei clienti soddisfi i requisiti di formazione e di esame tecnico. 
+Prima che le aziende partner e i consulenti possano iscriversi a una delle offerte di servizi di pianificazione, devono soddisfare i requisiti di formazione per la conformità e la competenza:
 
-Ogni programma del servizio di pianificazione presenta requisiti di idoneità specifici. Vedere [verificare la idoneità](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx) per ulteriori informazioni sui requisiti di idoneità per la pianificazione dei servizi.
-
-Seguire questa procedura per visualizzare lo stato di idoneità dell'azienda.
-
-1. Selezionare Software Assurance > requisiti dal menu centro per i partner. 
-2. Selezionare Planning Services per aprire la scheda Planning Services.
-3. Controllare la colonna stato idoneità per visualizzare lo stato dell'azienda per un programma di pianificazione dei servizi specifico. 
-
-- Non avviata | Non si è ancora idonei a partecipare al programma. Selezionare il nome del programma per visualizzare le informazioni necessarie per soddisfare i requisiti di idoneità del programma.
-
-- In corso | È stato avviato il processo di soddisfare i requisiti di idoneità del programma, ma è ancora necessario.
-
-- Attivo | L'idoneità è stata confermata e si è pronti per iniziare a fornire il servizio di pianificazione ai clienti aziendali. 
-
-4. Dopo aver verificato che l'azienda sia idonea a partecipare a un programma, indirizzare i partecipanti al programma aziendale per completare il corso di formazione sulla conformità ai servizi di pianificazione. 
-
-5. Al termine del corso di formazione richiesto, i partecipanti al programma della società dovranno tornare alla [pagina di registrazione](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx) e firmare il contratto del provider del programma Microsoft Planning Service. 
-
-## <a name="enroll-in-the-planning-services-program"></a>Eseguire la registrazione al programma Planning Services
-
-Una volta che la società soddisfa i requisiti di idoneità per il programma Planning Services e i partecipanti al programma hanno superato il corso di formazione sulla conformità, è possibile eseguire la registrazione. 
-
-Attenersi alla procedura seguente per eseguire la registrazione in un programma del servizio di pianificazione.
-
-1. Completare i requisiti di selezionare Software Assurance > dal menu centro partner. 
-2. Selezionare Planning Services per aprire la scheda Planning Services.
-3. Selezionare il programma che si desidera registrare e selezionare **Registra.**
-
-Al termine di questo processo, le località aziendali verranno approvate per fornire le offerte registrate. I dipendenti della società elencati come amministratore partner MPN saranno idonei per accedere allo strumento VVR per gestire i voucher di Planning Services per conto di qualsiasi località.
->[!Note]
-> È necessario rinnovare i requisiti ed effettuare di nuovo la registrazione ai programmi di Planning Services ogni anno.
-
-### <a name="update-your-companys-profile-in-the-planning-services-partner-directory"></a>Aggiornare il profilo della società nella directory del partner di Planning Services 
-
-I clienti cercano partner che possono soddisfare le proprie esigenze aziendali nella [directory dei partner di Planning Services](https://directory.partners.extranet.microsoft.com/psbproviders/). Quando l'azienda è autorizzata a partecipare ai programmi di Planning Services, assicurarsi di aggiornare il profilo partner in modo che i clienti possano trovarlo. 
-
-Per aggiornare il profilo, attenersi alla procedura riportata nella pagina della directory dei partner per l'aggiornamento del profilo. Se si conosce già la modalità di aggiornamento del profilo, è possibile [accedere al dashboard](https://planningservices.partners.extranet.microsoft.com/en/Pages/dashboard.aspx) per iniziare.  
-
-## <a name="reserve-customer-voucher"></a>Riserva il voucher cliente
-
-Quando un cliente assegna un voucher all'azienda in [Volume Licensing Service Center (VLSC)](https://www.microsoft.com/Licensing/servicecenter/default.aspx), riceve un messaggio di posta elettronica che include l'ID voucher. Il cliente deve inviare questo messaggio di posta elettronica all'utente per avere le informazioni necessarie per riservare il voucher. 
-
-Quando si dispone dei dettagli del voucher, è possibile riservare il voucher e pianificare il coinvolgimento della pianificazione. Per riservare il voucher, seguire i passaggi descritti in [gestire i voucher nello strumento di convalida e riscatto del voucher (VVR)](voucher-validation-tool.md) .  
-
-## <a name="complete-the-engagement-and-submit-completion-report"></a>Completare il report di completamento del coinvolgimento e dell'invio
-
-Dopo che l'azienda ha completato il coinvolgimento e fornito il risultato finale completato al cliente, sarà necessario compilare e inviare un report di completamento.
+- **Requisiti di training di conformità.** I requisiti di formazione per la conformità del programma devono essere soddisfatti a livello di società.
+- **Requisiti di competenza.** I requisiti di competenza sono specifici del coinvolgimento da recapitare. Ad esempio, l'azienda potrebbe essere registrata nell'offerta Desktop Deployment Planning Services (DDPS). Tuttavia, l'utente sarà idoneo a fornire solo un impegno specifico all'interno dell'offerta DDPS se la società dispone anche di una competenza idonea per il coinvolgimento specifico.
 
 >[!NOTE]
-> In questo passaggio sarà anche necessario caricare una copia del risultato finale di engagement del cliente. 
+> Per altre informazioni sui requisiti di idoneità per specifici impegni, [vedere requisiti di idoneità per la pianificazione dei servizi](software-assurance-dps-requirements.md).
 
+Per verificare l'idoneità dell'azienda ad iscriversi a uno specifico impegno per la pianificazione dei servizi:
 
-Seguire i passaggi descritti in [gestire i Giustificatori nello strumento di convalida e riscatto del voucher (VVR)](voucher-validation-tool.md).
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard/home)del centro per i partner.
+2. Selezionare **MPN** dal menu, quindi selezionare **programmi**.
+3. Selezionare **registrazione Software Assurance**.
+4. Nella parte superiore della pagina selezionare la scheda **registrazione programma di pianificazione dei servizi** . Verrà visualizzato un segno di spunta verde accanto a tutti i requisiti o le competenze già completati.
 
-## <a name="redeem-a-voucher-and-request-payment-from-microsoft"></a>Riscattare un voucher e richiedere il pagamento da Microsoft
+## <a name="enroll-new-partners"></a>Registrazione (nuovi partner)
 
-Una volta riservato un voucher, è possibile riscattarlo. 
+Quando la società soddisfa i requisiti di idoneità, si è pronti per firmare il contratto di programma Software Assurance Planning Services e registrarsi in una o più offerte di programma.
 
-1. Nell'elenco dei voucher riservati selezionare i voucher che si desidera riscattare. 
-2. Verrà ora visualizzato un elenco di voucher **riscattati** .
-3. Selezionare le caselle di controllo accanto ai voucher desiderati, quindi fare clic su **Riscatta i voucher selezionati**.
-4. Nella pagina Conferma riscatto del voucher verificare l'accuratezza delle informazioni del voucher, quindi selezionare **Sì** per riscattare il voucher.
+Assicurarsi prima di tutto di esaminare tutti i [criteri del programma di pianificazione dei servizi](https://go.microsoft.com/fwlink/?linkid=2115984). Seguire quindi le istruzioni nel [passaggio 2](https://go.microsoft.com/fwlink/?linkid=2115983) del flusso di lavoro per completare il processo di registrazione dei servizi di pianificazione nel centro per i partner.
 
-5. Per creare un'attestazione, selezionare **Crea un'attestazione**oppure, nella pagina dei dettagli del voucher, selezionare **Crea un'attestazione**.
+>[!NOTE]
+> Sarà necessario rinnovare i requisiti e registrarsi di nuovo nei programmi di Planning Services ogni anno.
 
-6. Selezionando **Crea un'attestazione** si passa allo [strumento di pagamento online savb (Software Assurance voucher benefit)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) per fatturare Microsoft.
+## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Crea o aggiorna il profilo business dell'azienda (nuovi partner)
 
+Massimizza la tua esposizione a potenziali clienti. Seguire [le istruzioni e le linee guida](https://docs.microsoft.com/partner-center/create-a-marketing-profile) per creare o aggiornare il profilo aziendale dell'azienda nel centro per i partner.
 
+## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>Il cliente crea e assegna un voucher (partner esistenti)
 
+Prima di iniziare un impegno per i servizi di pianificazione, il cliente deve eseguire le azioni seguenti:
+
+1. I clienti devono innanzitutto attivare i propri vantaggi per i servizi di pianificazione.
+2. I clienti devono quindi creare un voucher di Planning Services e assegnarlo a un project manager nella propria azienda.
+
+Per istruzioni dettagliate, il cliente deve eseguire per creare il voucher e assegnarlo all'utente, vedere il [passaggio 4](https://go.microsoft.com/fwlink/?linkid=2115983) del flusso di lavoro. Per una panoramica dell'esperienza del cliente, vedere la [Guida di VLSC Software Assurance](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf).
+
+## <a name="validate-and-reserve-voucher-existing-partners"></a>Validate e Reserve voucher (partner esistenti)
+
+Quando un cliente assegna un voucher all'azienda in [Volume Licensing Service Center (VLSC)](https://www.microsoft.com/Licensing/servicecenter/default.aspx), riceve un messaggio di posta elettronica che include l'ID voucher. Il cliente deve inviare questo messaggio di posta elettronica all'utente per avere le informazioni necessarie per riservare il voucher.
+
+Quando si dispone dei dettagli del voucher, è possibile riservare il voucher e pianificare il coinvolgimento della pianificazione. Per istruzioni dettagliate su come eseguire questa operazione nel dashboard del centro per i partner, vedere il [passaggio 5](https://go.microsoft.com/fwlink/?linkid=2115983) del flusso di lavoro.
+
+## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Completa il coinvolgimento e fornisci risultati finali ai clienti (partner esistenti)
+
+Per essere idoneo a fornire un impegno per i servizi di pianificazione, il consulente deve avere completato una o più valutazioni tecniche o esami richiesti per la competenza qualificante di engagement. Per altre informazioni sulle valutazioni o sugli esami richiesti, [vedere requisiti di idoneità per la pianificazione dei servizi](software-assurance-dps-requirements.md). 
+
+Dopo che l'azienda ha completato il coinvolgimento e fornito i risultati finali completati al cliente, è necessario compilare e inviare il report di completamento in linea.
+
+Per istruzioni dettagliate, vedere il [passaggio 6](https://go.microsoft.com/fwlink/?linkid=2115983) del flusso di lavoro.
+
+## <a name="redeem-voucher"></a>Riscatto del voucher
+
+Prima di poter fatturare Microsoft per l'impegno recapitato, è necessario prima riscattare il voucher. Per istruzioni dettagliate, vedere il [passaggio 7](https://go.microsoft.com/fwlink/?linkid=2115983) del flusso di lavoro.
+
+## <a name="request-payment-from-microsoft-existing-partners"></a>Richiedi pagamento da Microsoft (partner esistenti)
+
+Dopo aver riscattato i voucher di Planning Services, è necessario fatturare Microsoft per il pagamento. I pagamenti vengono gestiti tramite lo strumento di pagamento online SAVB (Software Assurance voucher benefit).
+
+Per inviare una fattura a Microsoft tramite SAVB, seguire le istruzioni riportate nel [passaggio 8](https://go.microsoft.com/fwlink/?linkid=2115983) del flusso di lavoro.
+
+## <a name="see-also"></a>Vedi anche
+
+- [Flusso di lavoro di Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2115983)
+- [Domande frequenti su Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2116077)
+- [Criteri di Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2115984)

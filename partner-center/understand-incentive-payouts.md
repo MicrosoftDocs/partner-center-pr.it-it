@@ -20,7 +20,7 @@ ms.locfileid: "76723468"
 
 **Si applica a**
 
--  Centro per i partner
+-  Partner Center
 
 **Ruoli appropriati**
 
@@ -78,7 +78,7 @@ Per accedere alla **Panoramica degli incentivi**:
 | **Stato**         | **Viene visualizzato quando** |
 |:------------------------------------|:------------------|
 | Azione richiesta  | Il partner ha accettato un invito a iscriversi a un programma di incentivi, ma potrebbe dover aggiornare le informazioni bancarie o fiscali. Vedere la colonna **azioni necessarie** per i passaggi successivi o i collegamenti per aggiornare le informazioni bancarie o fiscali nel centro per i partner. |
-| Funzionalità  | Il programma di incentivazione specifico non è più disponibile nel sistema di incentivi. |
+| Non disponibile  | Il programma di incentivazione specifico non è più disponibile nel sistema di incentivi. |
 | Registrati  | Tutte le informazioni fiscali e bancarie sono state convalidate. Non è richiesta alcuna ulteriore azione di registrazione da parte del partner. |
 | Inactive  | Il programma incentive potrebbe non essere aperto per la registrazione in questo momento o il partner non soddisfa l'idoneità corrente per la registrazione o la nuova registrazione.  |
 | Invitato  | Un nuovo invito alla registrazione del programma incentive è stato inviato al partner, ma il partner non ha ancora avviato il processo di registrazione. La colonna adiacente, **azioni richieste** Mostra i passaggi successivi ed eventuali collegamenti correlati.  |
@@ -112,15 +112,15 @@ Per esportare i dati della transazione in questa pagina, selezionare **Esporta**
 |Imminente      |Ordine di pagamento generato in attesa di revisioni interne prima dell'elaborazione del pagamento.       |No       |
 |Fattura IVA in sospeso      |La fattura dell'imposta è incompleta o non valida.          |Prima di poter pagare, è necessario aggiornare la fattura fiscale         |
 |Rifiutato durante la revisione        |Il pagamento è stato rifiutato durante la revisione.          |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
-|Failed        |Il pagamento non è riuscito a causa di un errore di sistema Microsoft.         |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
+|Operazione non riuscita        |Il pagamento non è riuscito a causa di un errore di sistema Microsoft.         |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
 |In progress     |Il pagamento è in corso.         |No         |
 |Pagamento errato        |È in corso il recupero dei pagamenti.          |No        |
-|Sent        |Il pagamento è stato inviato alla banca.          |No       |
+|Inviato        |Il pagamento è stato inviato alla banca.          |No       |
 |Rielaborazione       |Il pagamento ha rilevato un errore di sistema Microsoft e viene rielaborato.           |No         |
-|Invertito        |Il pagamento è stato invertito dalla banca e verrà inviato di nuovo al successivo ciclo di pagamento.          |No        |
+|Inverti        |Il pagamento è stato invertito dalla banca e verrà inviato di nuovo al successivo ciclo di pagamento.          |No        |
 |Fattura imposta rifiutata       |La fattura fiscale è stata rifiutata durante la revisione. Tutti i pagamenti in sospeso rimarranno in attesa fino al completamento della revisione della fattura fiscale.          |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
 |Fattura fiscale in Revisione        |È in corso la revisione della fattura fiscale. Il pagamento verrà rilasciato una volta che la fattura fiscale è stata approvata.           |No        |
-|Respinto        |Il pagamento è stato rifiutato dalla banca.           |Per informazioni dettagliate, contattare la banca.  |
+|Rifiutato        |Il pagamento è stato rifiutato dalla banca.           |Per informazioni dettagliate, contattare la banca.  |
 
 ## <a name="export-data-page"></a>Pagina Esporta dati
 Seguire le istruzioni in questa pagina per esportare i dati desiderati. 
@@ -189,7 +189,7 @@ Oltre alla tabella precedente, questi campi relativi alla cronologia delle trans
 
 |**Nome colonna**   |**Descrizione**   |
 |------------------|:-------------------------------------|
-|NumeroArticolo   |Numero di parte collegato alla transazione. Terminologia Microsoft.   |
+|partNumber   |Numero di parte collegato alla transazione. Terminologia Microsoft.   |
 |productName   |Il nome della famiglia di prodotti è stato riprodotto a transazione   |
 |invoiceNumber   |Numero fattura   |
 |subscriptionId   |Identificatore di sottoscrizione associato al cliente   |

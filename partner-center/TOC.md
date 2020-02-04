@@ -25,9 +25,8 @@
 ## [Marketplace Rewards](marketplace-rewards.md)
 ## [Programmi di Software Assurance](software-assurance-lp.md)
 ### [Programma SATV (Software Assurance Training Voucher) nel Centro per i partner](software-assurance-satv.md)
-### [Usare lo strumento per la convalida e il riscatto dei voucher nel Centro per i partner per convalidare, riservare e riscattare i voucher](voucher-validation-tool.md)
-### [Domande frequenti: uso dello strumento per la convalida e il riscatto dei voucher](vvr-faq.md)
 ### [Servizi di pianificazione Software Assurance nel Centro per i partner](software-assurance-dps.md)
+#### [Requisiti di idoneità per gli impegni nei servizi di pianificazione](software-assurance-dps-requirements.md)
 ## Fatture e imposte
 ### [Fatture e imposte in Microsoft Partner Network](mpn-view-print-maps-invoice.md)
 ## [Test drive delle nuove funzionalità](test-drive-new-features.md)

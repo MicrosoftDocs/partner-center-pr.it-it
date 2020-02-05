@@ -1,19 +1,19 @@
 ---
 title: Collaborare con i rivenditori indiretti in CSP | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Come provider indiretto, o database di distribuzione, informazioni su come espandersi mediante la collaborazione con i rivenditori indiretti. Sono incluse le attività che è possibile eseguire nel centro per i partner.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: b3ce97e6463681670ff65344d9b94baabc84a170
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004540"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012139"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 
@@ -66,6 +66,8 @@ Per interagire ed eseguire transazioni con rivenditori indiretti nel centro per 
 
 Per stabilire una partnership, invia una richiesta di partnership al rivenditore per posta elettronica. Prima di iniziare, assicurarsi di avere a disposizione l'indirizzo di posta elettronica del rivenditore. 
 
+Nella pagina Dettagli sottoscrizione, nel campo rivenditore (ID MPN), aggiungere il rivenditore con cui si desidera lavorare. Assicurarsi di usare l'ID MPN associato all'account di località partner del rivenditore usato per l'onboarding nel centro per i partner. Ciò garantisce che il rivenditore riceverà gli incentivi appropriati e che dispongano di un contratto partner Microsoft attivo per partecipare alla transazione.
+
 1. Selezionare **rivenditori indiretti** dal menu centro per i **partner** . 
 
 2. Nella pagina **Indirect resellers** seleziona **Request a partnership**. Viene visualizzata una bozza di messaggio di posta elettronica.
@@ -89,7 +91,7 @@ Per le sottoscrizioni esistenti, se si decide di utilizzare un rivenditore indir
 
 | **Per eseguire questa operazione** | **Eseguire questa operazione** | **Where** |
 |   ------------------   |   -------   |   -----   |
-| Consentire al rivenditore di gestire l'account di un cliente e disporre delle autorizzazioni di amministratore per gestire le sottoscrizioni | Associare un rivenditore a un account cliente quando si aggiunge un nuovo cliente | Nella pagina **Nuovo cliente** |
+|Consentire al rivenditore di gestire l'account di un cliente e disporre delle autorizzazioni di amministratore per gestire le sottoscrizioni | Associare un rivenditore a un account cliente quando si aggiunge un nuovo cliente | Nella pagina **Nuovo cliente** |
 |Abilitare il rivenditore alla gestione dell'account di un cliente di Azure|Associare un rivenditore a un account cliente di Azure quando si aggiunge un nuovo cliente|Nel **portale di servizio di Azure** seleziona [Impostazioni utente](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) per assegnare al rivenditore indiretto le autorizzazioni per il **proprietario tenant**|
 | Assegnare al rivenditore il credito per gli incentivi | Associare il rivenditore alla sottoscrizione (nuova o esistente) | Nella pagina **Nuova sottoscrizione** |
 | Delegare il supporto cliente per sottoscrizioni specifiche al rivenditore | Selezionare il rivenditore dall'elenco **Designated support contact** | Nella pagina dei dettagli della sottoscrizione selezionare il cliente dalla pagina **clienti** , quindi selezionare la sottoscrizione dalla pagina **sottoscrizioni** del cliente. |

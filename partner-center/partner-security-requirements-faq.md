@@ -9,21 +9,17 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
-ms.openlocfilehash: 1a452b3d67abdfb1eabe4a3e85f458b085cc141d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: dd2bd327da0259f66b7feb9f90b7f6a75089524b
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004270"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723478"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Domande frequenti sui requisiti di sicurezza per i partner
 
-**Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Agente amministratore
--   Amministratore fatturazione
--   Amministratore dei partner MPN
+**Utenti appropriati**
+-   Tutti gli utenti abilitati, inclusi gli utenti guest
 
 Questo articolo contiene alcune domande frequenti sui [requisiti di sicurezza per i partner](partner-security-requirements.md).
 

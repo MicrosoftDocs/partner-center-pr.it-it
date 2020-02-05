@@ -1,7 +1,7 @@
 ---
 title: Listino prezzi per il piano di Azure | Centro per i partner
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come usare il Centro per i partner per visualizzare il listino prezzi per le sottoscrizioni in base al piano di Azure.
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 2d69fb316f2451b57af1e6e850d676c67cde5fa3
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722045"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812643"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Listino prezzi per la nuova esperienza commerciale di Azure in CSP 
 
@@ -24,7 +24,7 @@ ms.locfileid: "74722045"
 - Agente amministratore
 - Amministratore fatturazione
 - Amministratore globale
-- Agente help desk
+- Agente di supporto tecnico
 - Agente di vendita
 - Amministratore gestione utenti
 
@@ -86,4 +86,17 @@ Nota: puoi esportare due listini prezzi diversi, ovvero i prezzi del piano di Az
 |MeterType|Tipo di contatore|
 |Tag|Proprietà relative all'elemento, che per i prezzi relativi al piano di Azure saranno Azure oppure Azure e Reservations (per le prenotazioni)|
 
-Per i dettagli, vedi le [informazioni sul listino prezzi](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)  
+È possibile esportare i listini prezzi del piano di Azure dalla [pagina Prezzi del piano di Azure e marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any).
+
+## <a name="pricing-api-for-azure-plan"></a>API dei prezzi per il piano di Azure
+
+Per recuperare i prezzi del piano Azure relativi ai consumi e alle prenotazioni a livello di codice, puoi usare l'[API dei prezzi](https://docs.microsoft.com/partner/develop/pricing). Puoi anche recuperare i tassi di cambio esteri. 
+
+L'API dei prezzi si trova in un endpoint diverso rispetto alle altre API del Centro per i partner. Le informazioni sui prezzi includono i prezzi dei contatori in USD relativi alle risorse e alle prenotazioni del piano di Azure, applicati alle sottoscrizioni del piano di Azure.
+
+Questa API consente ai partner anche di recuperare i tassi di cambio mensili perché i prezzi del piano di Azure sono indicati solo in USD. Puoi usare le API per recuperare sia i prezzi sia i tassi di cambio esteri relativi al mese corrente o ai mesi precedenti.
+
+>[!NOTE]
+> L'API dei prezzi è specifica per i prezzi del piano di Azure. Per le risorse e le prenotazioni di Azure distribuite in sottoscrizioni diverse dal piano di Azure, devi continuare a usare l'API RateCard esistente e i listini prezzi pubblicati nella pagina Prezzi e offerte del Centro per i partner. L'API dei prezzi del piano di Azure non supporta i prezzi di software, marketplace o basati su postazione come Microsoft 365 o Dynamics 365.
+
+Per altre informazioni sulle API dei prezzi del piano di Azure e dei tassi di cambio esteri, vedi tutta la [documentazione relativa all'API dei prezzi](https://docs.microsoft.com/partner/develop/pricing).

@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
-ms.openlocfilehash: 146ed2d79c2b98dca6e08f9cf56dbb150e981535
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: dd7590634339acd3bfb6f1fe3fafd08aa7bdbf5c
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004980"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723448"
 ---
 # <a name="partner-security-requirements"></a>Requisiti di sicurezza per i partner
 
@@ -27,12 +27,8 @@ ms.locfileid: "75004980"
 - Tutti i fornitori del pannello di controllo
 - Tutti gli advisor
 
-**Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Agente amministratore
--   Amministratore fatturazione
--   Amministratore dei partner MPN
+**Utenti appropriati**
+-   Tutti gli utenti abilitati, inclusi gli utenti guest
 
 Le misure di sicurezza e la protezione della privacy sono alcune tra le nostre priorità più importanti. Sappiamo che la migliore difesa è la prevenzione e di essere al sicuro quanto lo sono i nostri punti più deboli. Questo è il motivo per cui è necessario che tutti nell'ecosistema agiscano e si assicurino che vengano adottate le protezioni di sicurezza appropriate. Per la sicurezza di partner e clienti, viene introdotto un set di requisiti di sicurezza obbligatori per gli advisor, i fornitori di pannelli di controllo e i partner che partecipano al programma Cloud Solution Provider.
 
@@ -83,7 +79,7 @@ Per adeguarti ai requisiti di sicurezza dei partner, devi imporre l'autenticazio
 
 Per passare dai criteri di base alle impostazioni predefinite per la sicurezza, leggi [Che cosa sono le impostazioni predefinite della sicurezza?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-### <a name="consideration"></a>Considerazione
+### <a name="consideration"></a>Considerazioni
 
 Poiché questi requisiti si applicano a tutti gli account utente inclusi nel tenant partner, devi considerare diversi aspetti per garantire una distribuzione senza problemi, inclusa l'identificazione degli account utente in Azure Active Directory che non possono eseguire l'autenticazione a più fattori, nonché delle applicazioni e dei dispositivi usati dall'organizzazione che non supportano l'autenticazione moderna.
 

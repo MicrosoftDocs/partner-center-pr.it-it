@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: f8f15782dec3177596ad5cf0f680f2dfbf34bf84
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: ec5934e4d35b653e8e781e8eb1290bfbaee0d737
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757204"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812683"
 ---
 # <a name="manage-your-partner-center-account"></a>Gestire l'account del Centro per i partner
 
@@ -28,13 +28,50 @@ ms.locfileid: "75757204"
 -   Amministratore utenti
 -   Agente amministratore
 
-L'account che crei nel Centro per i partner quando esegui la registrazione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account nel Centro per i partner, è necessario che tu o il tuo amministratore termini la configurazione del profilo completo della società, inclusi i dettagli sul supporto, le eventuali esenzioni fiscali e le informazioni sul contatto principale. 
+L'account che crei nel Centro per i partner quando esegui la registrazione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account nel Centro per i partner, è necessario che tu o il tuo amministratore termini la configurazione del profilo completo della società, inclusi i dettagli sul supporto, le eventuali esenzioni fiscali e le informazioni sul contatto principale. L'account dell'azienda includerà anche gli account utente per chiunque usi il Centro per i partner per aggiungere e gestire clienti, vendere sottoscrizioni, gestire la fatturazione, creare profili di business, gestire segnalazioni, usare programmi di incentivi e fornire servizi di supporto.
 
-Tu o il tuo amministratore dovrete inoltre creare account utente per tutti gli utenti che useranno il Centro per i partner per l'aggiunta o la gestione dei clienti, la vendita di abbonamenti, la gestione della fatturazione, la creazione dei profili aziendali, la gestione delle segnalazioni, l'uso di programmi di incentivi e i servizi di supporto.
+## <a name="account-management"></a>Gestione degli account
+
+Nel Centro per i partner gli account vengono attualmente gestiti in due diverse sezioni: Impostazioni **partner** e Impostazioni **sviluppatore**. 
 
 >[!NOTE]
->Le impostazioni per gli account si trovano nell'angolo in alto a destra del Centro per i partner. Quando selezioni l'icona, sarai in grado di selezionare quello che vuoi gestire. Ad esempio, seleziona l'**icona Account** e quindi **Gestione utenti**. In questo modo passerai alla pagina Gestione utenti e visualizzerai anche un riquadro aggiuntivo che include tutte le opzioni di **Impostazioni account**.
+>Le impostazioni per gli account si trovano nell'angolo in alto a destra del Centro per i partner. Quando selezioni l'icona, sarai in grado di selezionare quello che vuoi gestire. 
 
+![Impostazioni account](images/accountsettings/account1.png)
+
+I partner possono visualizzare l'opzione per la gestione di Impostazioni partner e/o Impostazioni sviluppatore, a seconda che la loro azienda sia iscritta o meno ai programmi corrispondenti. L'opzione delle impostazioni è disponibile solo se l'azienda è iscritta ad almeno un programma associato all'impostazione corrispondente. 
+
+Per gestire le impostazioni dell'account, devi selezionare l'opzione delle impostazioni dell'account appropriata per il programma. I programmi a cui l'azienda è iscritta sono visibili nella finestra di spostamento a sinistra del Centro per i partner. Di seguito è riportato un elenco (non esaustivo) dei programmi e della corrispondente opzione delle impostazioni:
+
+|**Nome programma**   |**Opzione impostazioni** |
+|---------------------|:-----------------------|
+|MPN   |Partner|
+|CSP    |Partner|
+|Segnalazioni   |Partner|
+|Marketplace commerciale|Sviluppo|
+|Windows e Xbox|Sviluppo|
+|Office Store|Sviluppo|
+|Estensioni di Edge|Sviluppo|
+
+## <a name="the-differences-in-partner-and-developer-settings-options"></a>Differenze tra le opzioni di Impostazioni partner e quelle di Impostazioni sviluppatore
+
+**Opzioni delle impostazioni dell'account partner**:
+
+![Opzioni partner](images/accountsettings/partneroptions.png)
+
+**Opzioni delle impostazioni dell'account sviluppatore**:
+
+![Opzioni sviluppatore](images/accountsettings/devoptions.png)
+
+## <a name="enrolling-in-programs"></a>Iscrizione ai programmi
+
+Il Centro per i partner offre numerosi programmi, ognuno dei quali prevede requisiti diversi per l'iscrizione delle aziende. Per informazioni su come iscriversi ai programmi del Centro per i partner, vedi [Partner Network](https://partner.microsoft.com/). 
+
+## <a name="the-account-picker"></a>Selezione account
+
+Puoi far parte di più di un account. Se fai parte di più account, potrai visualizzare il controllo di selezione account nel menu di spostamento a sinistra. Se selezioni il controllo di selezione account, tutti gli account di cui sei membro verranno visualizzati in un elenco. Puoi selezionare uno di questi account e accedervi per visualizzare tutti i programmi e le informazioni che lo riguardano. Se non viene visualizzato un controllo di selezione account, sei membro di un solo account.
+
+![Selezione account](images/accountsettings/accountpicker.png)
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Risorse per la gestione dell'account del Centro per i partner
 

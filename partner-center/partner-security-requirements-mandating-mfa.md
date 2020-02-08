@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: medium
-ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b71f1a2b8a42e108a521b33c1e747ca186cb1c70
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723488"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044730"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Imposizione di multi-factor authentication per il tenant partner
 
@@ -31,8 +31,8 @@ ms.locfileid: "76723488"
 
 Questi partner saranno tenuti a completare la verifica dell'autenticazione a più fattori per le aree seguenti:
 
-- [Dashboard del centro](#partner-center-dashboard) per i partner (con destinazione H1 CY2020)
-- [API del centro](#partner-center-api) per i partner (con destinazione H1 CY2020)
+- [Dashboard del centro](#partner-center-dashboard) per i partner (targeting Q2 CY2020)
+- [API del centro](#partner-center-api) per i partner (targeting Q2 CY2020)
 - [Amministrazione delegata partner](#partner-delegated-administration) (a partire dal 18 novembre 2019)
 
 Lo scopo di questa funzionalità è aiutare i partner a proteggere l'accesso alle risorse dei clienti da eventuali compromessi.
@@ -61,9 +61,9 @@ Per illustrare il funzionamento di questo, considerare i due esempi seguenti.
 
 **Esempio 2: l'autenticazione a più fattori di terze parti è stata implementata dal partner**
 1. Trent funziona per CSP Wingtip. Wingtip ha implementato l'autenticazione a più fattori per tutti gli utenti nel tenant del partner Wingtip usando l'autenticazione a più fattori di terze parti integrata con Azure AD tramite la Federazione delle identità.
-2. Dalla sua workstation, Trent avvia una nuova sessione del browser e passa alla pagina di panoramica del dashboard del centro per i partner, che non è protetta con l'autenticazione a più fattori. Il centro per i partner reindirizza Justin a Azure AD per l'accesso.
+2. Dalla sua workstation, Trent avvia una nuova sessione del browser e passa alla pagina di panoramica del dashboard del centro per i partner, che non è protetta con l'autenticazione a più fattori. Il centro per i partner reindirizza Trent a Azure AD per l'accesso.
 3. Poiché in Wingtip è stata impostata la Federazione delle identità, Azure AD reindirizza Trent al provider di identità federato per completare la verifica dell'accesso e dell'autenticazione a più fattori. Al completamento dell'accesso e della verifica dell'autenticazione a più fattori, Trent viene reindirizzato a Azure AD e quindi alla pagina di panoramica del dashboard del centro per i partner.
-4. Justin tenta di accedere a una delle pagine protette con autenticazione a più fattori nel centro per i partner. Poiché Trent ha già completato la verifica dell'autenticazione a più fattori durante l'accesso in precedenza, Trent può accedere alla pagina protetta da multi-factor authentication senza che sia necessario eseguire nuovamente la verifica dell'autenticazione a più fattori.
+4. Trent tenta di accedere a una delle pagine protette con autenticazione a più fattori nel centro per i partner. Poiché Trent ha già completato la verifica dell'autenticazione a più fattori durante l'accesso in precedenza, Trent può accedere alla pagina protetta da multi-factor authentication senza che sia necessario eseguire nuovamente la verifica dell'autenticazione a più fattori.
 
 **Esempio 3: il partner non ha implementato multi-factor authentication**
 1. Giorgio lavora per CSP fabrikam. Fabrikam non ha implementato l'autenticazione a più fattori per tutti gli utenti del tenant partner Fabrikam.
@@ -127,7 +127,7 @@ Quando Azure Active Directory riceve tali richieste di autenticazione, richiede 
 
 - Se l'account partner è un'identità **federata** , l'esperienza dipende dal modo in cui l'amministratore partner ha configurato la federazione in Azure Active Directory. Quando si configura la Federazione in Azure Active Directory, l'amministratore partner può indicare a Azure Active Directory se il provider di identità federato supporta o meno l'autenticazione a più fattori. In tal caso, Azure Active Directory reindirizza l'utente al provider di identità federato per completare la verifica dell'autenticazione a più fattori. In caso contrario, Azure Active Directory chiederà direttamente all'utente di completare la verifica dell'autenticazione a più fattori. Se l'account partner non è registrato per l'autenticazione a più fattori con Azure Active Directory prima, all'utente verrà richiesto di completare prima la [registrazione](#mfa-registration-experience) dell'autenticazione a più fattori.
 
-L'esperienza complessiva è molto simile allo scenario in cui un tenant del cliente finale ha implementato l'autenticazione a più fattori per gli amministratori. Ad esempio, il tenant del cliente ha abilitato [Azure ad criterio di base-](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)autenticazione a più fattori per gli amministratori, che richiede tutti gli account con diritti amministrativi per accedere al tenant del cliente con la verifica dell'autenticazione a più fattori, inclusi gli agenti di amministrazione e gli agenti helpdesk. A scopo di test, i partner possono abilitare i criteri di autenticazione a più fattori [per gli amministratori](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) nel tenant del cliente, quindi provare a usare i privilegi di amministrazione delegata del partner per accedere al tenant del cliente.
+L'esperienza complessiva è molto simile allo scenario in cui un tenant del cliente finale ha implementato l'autenticazione a più fattori per gli amministratori. Ad esempio, il tenant del cliente ha abilitato [Azure ad impostazioni predefinite di sicurezza](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), che richiedono tutti gli account con diritti amministrativi per accedere al tenant del cliente con la verifica dell'autenticazione a più fattori, inclusi gli agenti di amministrazione e gli agenti helpdesk. Ai fini del test, i partner possono abilitare le [impostazioni predefinite di sicurezza Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) nel tenant del cliente, quindi provare a usare i privilegi di amministrazione delegata del partner per accedere al tenant del cliente.
 
 > [!NOTE]
 > Non tutti i portali dei servizi online Microsoft richiedono account partner per accedere al tenant del cliente durante l'accesso alle risorse dei clienti usando privilegi amministrativi delegati dal partner. Ma richiedono solo che gli account partner accedano al tenant partner. Un esempio è l'interfaccia di amministrazione di Exchange. Nel corso del tempo, si prevede che questi portali necessitino degli account partner per accedere al tenant del cliente quando si usano i privilegi amministrativi delegati del partner.
@@ -141,7 +141,7 @@ Questa funzionalità interessa tutte le applicazioni partner integrate con quest
 
 - Il partner deve evitare di usare un metodo di autenticazione utente non interattivo con Azure AD per ottenere il token di accesso. Quando si usa un metodo di autenticazione utente non interattivo come il [flusso della password](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password), Azure ad non sarà in grado di richiedere all'utente di completare la verifica dell'autenticazione a più fattori. Il partner deve passare all'uso di un metodo di autenticazione utente interattivo, ad esempio il [flusso OpenID Connect](https://docs.microsoft.com/azure/active-directory/develop/v1-protocols-openid-connect-code) .
 - Durante il metodo di autenticazione utente interattiva, il partner deve usare un account utente partner già abilitato per l'autenticazione a più fattori. In alternativa, quando richiesto dal Azure AD, il partner può completare la registrazione dell'autenticazione a più fattori e la verifica dell'autenticazione a più fattori durante l'accesso.
-- Questo è molto simile allo scenario in cui un tenant del cliente finale ha implementato l'autenticazione a più fattori per gli amministratori. Ad esempio, il tenant del cliente ha abilitato [Azure ad criterio di base-](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)autenticazione a più fattori per gli amministratori, che richiede a tutti gli account utente con diritti amministrativi di accedere al tenant del cliente con la verifica dell'autenticazione a più fattori, inclusi gli agenti di amministrazione e gli agenti helpdesk. A scopo di test, i partner possono abilitare i criteri di autenticazione a più fattori [per gli amministratori](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) nel tenant del cliente, quindi provare a usare i privilegi di amministrazione delegata del partner per accedere a livello di codice al tenant del cliente.
+- Questo è molto simile allo scenario in cui un tenant del cliente finale ha implementato l'autenticazione a più fattori per gli amministratori. Ad esempio, il tenant del cliente ha abilitato [Azure ad impostazioni predefinite di sicurezza](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), che richiedono che tutti gli account utente con diritti amministrativi siano in grado di accedere al tenant del cliente con verifica dell'autenticazione a più fattori, inclusi gli agenti di amministrazione e gli agenti helpdesk. Ai fini del test, i partner possono abilitare le [impostazioni predefinite di sicurezza Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) nel tenant del cliente, quindi provare a usare i privilegi di amministrazione delegata del partner per accedere a livello di codice al tenant del cliente.
 
 ### <a name="mfa-registration-experience"></a>Esperienza di registrazione con autenticazione a più fattori
 Durante la verifica dell'autenticazione a più fattori, se l'account partner non è stato registrato per l'autenticazione a più fattori prima di, Azure AD chiederà all'utente di completare prima la registrazione

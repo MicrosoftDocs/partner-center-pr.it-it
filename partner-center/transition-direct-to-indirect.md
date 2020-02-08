@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatturazione diretta, transizione, rivenditore indiretto
-ms.openlocfilehash: 37085f151b2cff2a32026266423240417152b950
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860487"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044738"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto 
 
@@ -27,7 +27,7 @@ ms.locfileid: "76860487"
 
 Sarà possibile eseguire la registrazione al programma indirect Reseller usando il tenant di fatturazione diretta esistente. 
 
-## <a name="get-started"></a>Per iniziare
+## <a name="get-started"></a>Attività iniziali
 
 1. Verificare che il profilo partner nel centro per i partner e l'ID MPN siano aggiornati.
 
@@ -239,7 +239,7 @@ Per creare una richiesta di trasferimento come partner di transizione:
 
 7. Nella finestra di dialogo richiesta di trasferimento selezionare una o più sottoscrizioni da trasferire. 
 
-8. Fai clic su **Crea**. 
+8. Fare clic su **Crea**. 
 
 9. Una richiesta di trasferimento di sottoscrizione attiva verrà visualizzata in **trasferimento sottoscrizione**. 
 
@@ -309,7 +309,7 @@ Dopo aver completato la registrazione come rivenditore indiretto sul tenant del 
 
 È anche possibile iscriversi ai programmi Direct Bill Incentive con lo stesso tenant partner. È necessario gestire i programmi separatamente.
 
-## <a name="see-also"></a>Vedi anche 
+## <a name="see-also"></a>Vedere anche 
 - [Ulteriori informazioni su come diventare un rivenditore indiretto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
 - [Nuovi requisiti dei partner diretti in CSP](direct-partner-new-requirements.md)
 - [Funzionalità di fatturazione diretta con restrizioni](restricted-direct-bill-capabilities.md)

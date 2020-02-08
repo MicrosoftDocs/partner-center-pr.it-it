@@ -1,61 +1,76 @@
 ---
 title: Confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente | Centro per i partner
 ms.topic: article
-ms.date: 01/07/2020
+ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Informazioni su come confermare l'accettazione da parte del cliente del contratto per i clienti Microsoft. Questo potrebbe essere necessario per ordinare i prodotti e i servizi Microsoft per i clienti.
+Description: Scopri come confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente. Questa operazione potrebbe essere necessaria per ordinare prodotti e servizi Microsoft per i clienti.
 author: LauraBrenner
 ms.author: labrenne
 keywords: cliente, clienti, consenso, MCA, Contratto Microsoft Cloud, contratto del cliente Microsoft, modelli di contratto del cliente
-ms.localizationpriority: medium
-ms.openlocfilehash: 33eddc437360cb80071bf98187a7d4e23b820fb9
-ms.sourcegitcommit: 99a8b2daf52d455d33f15945d52efbcc8ff551c8
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: c9445ae24de16d25cf887299521eef8d6d793c6f
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "75752567"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012175"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Conferma accettazione da parte del cliente del contratto Microsoft
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente
+
+**Si applica a**
+
+- Centro per i partner
+- Interfaccia di amministrazione di Microsoft 365
 
 **Ruoli appropriati**
 
 - Agente amministratore
 - Agente di vendita
 
-Attualmente, prima che un partner CSP possa effettuare l'ordine per conto di un cliente, il cliente deve accettare e firmare il **contratto di Microsoft Cloud**applicabile. Il partner deve quindi confermare l'accettazione da parte del cliente fornendo informazioni sul firmatario a Microsoft. Se non viene fornita la conferma:
-- Non sarà possibile creare nuovi ordini per questo cliente.
-- Non sarà possibile modificare il numero di postazioni delle sottoscrizioni esistenti basate sul posto per questo cliente.
+**Tipi di partner appropriati**
 
-Per informazioni dettagliate su come confermare l'accettazione del Contratto Microsoft Cloud da parte di un cliente usando l'API o il dashboard Centro per i partner, vedi [Confermare l'accettazione del Contratto Microsoft Cloud](confirm-consent.md).
+- Rivenditori indiretti, partner con fatturazione diretta, provider indiretti
 
-Il 1° ottobre 2019 Microsoft introdurrà il **contratto del cliente Microsoft** nel programma CSP in sostituzione del Contratto Microsoft Cloud. Per facilitare la migrazione dei partner al nuovo contratto, il Contratto Microsoft Cloud corrente sarà supportato nel programma CSP fino al 31 gennaio 2020. Per altri dettagli sulle date, vedi la tabella seguente:
 
-| Data | Revisione principale | Dettagli |
+Il 1° ottobre 2019 Microsoft ha introdotto il **contratto del cliente Microsoft** nel programma CSP in sostituzione del Contratto Microsoft Cloud. Sono disponibili altre [indicazioni](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpartner-center%2Findirect-reseller-tasks-in-partner-center&data=02%7C01%7CChelsea.Kajs%40microsoft.com%7Cd5e0adc6b10646352ce508d7a4e84251%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637159189767080601&sdata=%2BPAWMBPVbVBkTx25r9CoD7cQxRqRVEYkxWIilrwwxZc%3D&reserved=0) per i rivenditori indiretti.
+
+ Per facilitare la migrazione dei partner al nuovo contratto, il Contratto Microsoft Cloud corrente sarà supportato nel programma CSP fino al 31 gennaio 2020. I partner possono confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente nel Centro per i partner o, a questo punto, avere la possibilità di invitare tramite un URL il cliente a esaminare e accettare il contratto nell'interfaccia di amministrazione di Microsoft 365 autenticata. Per altri dettagli sulle date, vedi la tabella seguente:
+
+| Data | Attività cardine | Dettagli |
 |------------|------------|--------------------------------|
 |1° agosto 2019|Esperienza utente in anteprima disponibile in sandbox|I partner possono confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente usando il dashboard Centro per i partner nell'ambiente sandbox CSP. I partner con accesso all'ambiente sandbox CSP visualizzano in anteprima le modifiche dell'esperienza utente. I partner senza accesso sandbox possono ottenere informazioni sulle modifiche in questo argomento.|
 |3 settembre 2019|API in anteprima disponibile in sandbox.|I partner possono confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente usando l'API Centro per i partner nell'ambiente sandbox CSP. I partner API possono usare questa opportunità per visualizzare in anteprima le modifiche apportate all'API e iniziare a lavorare all'integrazione dell'API per supportare il nuovo contratto.|
 |20 settembre 2019|.NET SDK in anteprima disponibile in sandbox.|I partner possono confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente usando .NET SDK Centro per i partner nell'ambiente sandbox CSP. I partner API possono usare questa opportunità per visualizzare in anteprima le modifiche apportate a .NET SDK e iniziare a lavorare all'integrazione dell'API per supportare il nuovo contratto.|
 |1° ottobre 2019|Contratto del cliente Microsoft disponibile nell'ambiente di produzione|Microsoft introduce il contratto del cliente Microsoft nel programma CSP in sostituzione del Contratto Microsoft Cloud. I partner possono confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente usando l'API e il dashboard Centro per i partner nell'ambiente di produzione. Il Contratto Microsoft Cloud continua a essere supportato nel programma per i partner CSP. Si consiglia tuttavia ai partner di iniziare la migrazione al contratto del cliente Microsoft. Per i nuovi acquisti e per le modifiche del numero di postazioni degli abbonamenti esistenti sarà necessaria la conferma del contratto del cliente Microsoft o del Contratto Microsoft Cloud da parte del partner. Alcune nuove offerte, ad esempio il nuovo piano Azure, richiederanno la conferma del contratto del cliente Microsoft.|
 |31 gennaio 2020|Contratto Microsoft Cloud rimosso dalla produzione|Il Contratto Microsoft Cloud non è più accettato nel programma per i partner CSP. Per i nuovi acquisti e per le modifiche del numero di postazioni degli abbonamenti esistenti sarà necessaria la conferma del contratto del cliente Microsoft da parte del partner. Questo requisito si applica ai nuovi clienti e ai clienti esistenti che hanno accettato in precedenza il Contratto Microsoft Cloud.|
+|3 febbraio 2020|Il partner ha ora la possibilità di invitare tramite un URL il cliente a esaminare e accettare il contratto nell'interfaccia di amministrazione di Microsoft 365 autenticata. | Il cliente può accettare il contratto del cliente Microsoft nell'interfaccia di amministrazione di Microsoft 365. L'accettazione diretta del contratto da parte del cliente nell'interfaccia di amministrazione di Microsoft 365 conferma l'approvazione delle condizioni. 
 
-## <a name="access-microsoft-customer-agreement-template"></a>Accedi al modello di contratto del cliente Microsoft
-I partner possono scaricare manualmente la versione più recente del modello di contratto cliente Microsoft da [qui](https://aka.ms/customeragreement). Si noti che il contratto per i clienti Microsoft è specifico del paese. Quando si richiede il modello di contratto del cliente Microsoft, assicurarsi di selezionare il paese corretto in base alla posizione del cliente. 
+Sono disponibili le due opzioni seguenti per fare in modo che i clienti accettino il contratto del cliente Microsoft.  
 
-## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>Confermare l'accettazione del cliente tramite l'API/SDK del centro per i partner
-I partner possono usare l'API/SDK del centro per i partner per confermare l'accettazione del contratto per i clienti Microsoft. Per informazioni dettagliate sull'API/SDK, vedere:
+**Opzione 1**: attestazione del partner dell'accettazione da parte di un cliente. Il partner può confermare l'accettazione da parte di un cliente tramite l'API/SDK del Centro per i partner o tramite il dashboard Centro per i partner.
+
+**Opzione 2**: accettazione diretta del cliente. Il partner può invitare tramite un URL il cliente a esaminare e accettare il contratto nell'interfaccia di amministrazione di Microsoft 365.
+
+## <a name="access-microsoft-customer-agreement-template"></a>Accedere al modello del contratto del cliente Microsoft
+
+Puoi scaricare manualmente la versione più recente del modello di contratto del cliente Microsoft [qui](https://aka.ms/customeragreement). Tieni presente che il contratto del cliente Microsoft è specifico del paese. Quando richiedi il modello del contratto del cliente Microsoft, assicurati di selezionare il paese corretto in base alla località in cui si trova il cliente. 
+
+## <a name="option-1-confirm-customer-acceptance-using-partner-center-apisdk"></a>Opzione 1: Confermare l'accettazione da parte di un cliente tramite l'API/SDK del Centro per i partner
+
+Puoi usare l'API/SDK del Centro per i partner per confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente. Per informazioni dettagliate sull'API/SDK, vedi:
 
 - [Ottenere i metadati per il contratto del cliente Microsoft](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
 
-- [Confermare l'accettazione del contratto del cliente Microsoft](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
+- [Confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
 
 - [Ottenere la conferma dell'accettazione del contratto del cliente Microsoft da parte di un cliente](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
 
 - [Ottenere un collegamento per il download del modello di contratto del cliente Microsoft](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
 
-
 ## <a name="confirm-customer-acceptance-in-partner-center"></a>Confermare l'accettazione da parte di un cliente nel Centro per i partner
-I partner possono confermare l'accettazione da parte del cliente del contratto clienti Microsoft nel centro per i partner per i nuovi clienti e i clienti esistenti. I rivenditori non possono attestare per conto dei clienti e devono collaborare con il provider indiretto per ottenere l'attestazione completata.
+
+I partner possono confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente nel Centro per i partner per clienti nuovi ed esistenti. I rivenditori non possono fornire un'attestazione per conto dei clienti e devono collaborare con il provider indiretto per completare l'attestazione.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Confermare l'accettazione per i nuovi clienti
 
@@ -65,7 +80,7 @@ Quando si crea il tenant di un nuovo cliente in Centro per i partner, segui ques
 
 2. In **Informazioni sull'account** immetti le informazioni relative alla società e al contatto principale.
 
-3. In **Microsoft agreement** (Contratto Microsoft) fai clic su **Microsoft Customer Agreement** (Contratto del cliente Microsoft).
+3. In **Microsoft agreement** (Contratto Microsoft) seleziona la casella per attestare che il cliente ha accettato il contratto del cliente Microsoft. 
 
 4. In **Agreement acceptance date** (Data di accettazione del contratto) immetti la data appropriata. Non puoi impostare questo campo su una data futura.
 
@@ -73,11 +88,11 @@ Quando si crea il tenant di un nuovo cliente in Centro per i partner, segui ques
 
 6. Scegli **Avanti** per continuare con i passaggi rimanenti per la creazione del tenant del cliente.
 
-![Nuovo cliente](images/mcua1.png)
+![Nuovo cliente](images/mca/newcustomeragreement.jpg)  
 
 ### <a name="confirm-customer-acceptance-for-existing-customers"></a>Confermare l'accettazione del cliente per i clienti esistenti
 
-Devi essere un agente amministratore o di vendita per eseguire questa operazione:
+Devi essere un agente amministratore o di vendita per eseguire questa procedura:
 
 1. Seleziona **Clienti**. Individua e seleziona il cliente.
 
@@ -100,3 +115,83 @@ Puoi recuperare la conferma dell'accettazione del contratto del cliente Microsof
 2. Seleziona **Informazioni sull'account**.
 
 3. In **Microsoft customer agreement** (Contratto del cliente Microsoft) visualizza se il cliente ha fornito o meno la conferma.
+
+## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Opzione 2: Accettazione da parte del cliente nell'interfaccia di amministrazione di Microsoft 365
+
+I partner possono invitare tramite un URL clienti nuovi ed esistenti a esaminare e accettare il contratto nell'interfaccia di amministrazione di Microsoft 365. Nelle prossime sezioni verrà illustrato come effettuare le operazioni seguenti:
+
+- Creare un cliente completamente nuovo e invitarlo a esaminare e accettare il contratto
+
+- Invitare un nuovo cliente a esaminare e accettare la relazione come rivenditore e il contratto
+
+- Invitare un cliente esistente a esaminare e accettare il contratto
+
+## <a name="create-a-net-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Creare un cliente completamente nuovo e invitarlo a esaminare e accettare il contratto
+
+Segui questa procedura per creare un nuovo cliente nel Centro per i partner e quindi invitarlo a esaminare e accettare il contratto del cliente Microsoft nell'interfaccia di amministrazione di Microsoft 365.
+
+1. Dalla scheda **Clienti** nel Centro per i partner seleziona **Add customer** (Aggiungi cliente).
+
+2. In **Informazioni sull'account** immetti le informazioni sul nuovo cliente in tutti i campi obbligatori, inclusi il nome della società e il contatto principale del cliente.
+
+3. In **Customer Agreement** (Contratto del cliente) seleziona la prima opzione, ovvero **Customer will be asked to accept the Microsoft Customer Agreement in Microsoft 365 Admin Center** (Al cliente verrà chiesto di accettare il contratto del cliente Microsoft nell'interfaccia di amministrazione di Microsoft 365). Completa gli altri campi obbligatori nella pagina.
+
+4. Seleziona **Successivo: Rivedi** e quindi continua la procedura per creare il tenant del cliente. Nota: i nuovi clienti non possono effettuare un nuovo acquisto finché non accettano il contratto del cliente Microsoft.  
+
+![Creare un nuovo cliente](images/mca/create-new-customer.jpg)
+
+5. Quando raggiungi la schermata **Conferma** nel flusso di lavoro per il nuovo cliente, salva le credenziali del cliente. Dovrai fornire queste credenziali al cliente in un secondo momento.
+
+6. All'esterno del Centro per i partner crea e invia un'e-mail per invitare il cliente ad accettare il contratto del cliente Microsoft nell'interfaccia di amministrazione di Microsoft 365. Assicurati di includere questi elementi nell'e-mail:
+
+   - Collegamento a questo [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) (sono necessarie le informazioni di accesso)
+   - Credenziali del cliente salvate nel passaggio 5
+
+7. Il cliente riceverà quindi l'invito tramite e-mail dal partner e selezionerà l'[URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement).
+
+8. Il cliente accede all'interfaccia di amministrazione di Microsoft 365 usando le credenziali ricevute in precedenza dal partner.
+
+9. Il cliente seleziona quindi la casella per accettare il contratto del cliente Microsoft.
+
+## <a name="invite-a-new-customer-to-review-and-accept-the-reseller-relationship-and-microsoft-customer-agreement"></a>Invitare un nuovo cliente a esaminare e accettare la relazione come rivenditore e il contratto cliente Microsoft 
+
+Segui questa procedura per invitare un nuovo cliente a esaminare e accettare la relazione come rivenditore e il contratto cliente Microsoft. 
+
+1. Dalla scheda **Clienti** nell'ambito del Centro per i partner seleziona il collegamento **Richiedi una relazione come rivenditore**. 
+
+2. Verrà generato un modello di e-mail automatico contenente il testo e un URL con parametri che indirizzerà il cliente all'interfaccia di amministrazione di Microsoft 365.
+
+3. Puoi personalizzare il modello di e-mail generato automaticamente e quindi selezionare **Copia negli Appunti** o **Apri nell'email**.
+
+4. Usa questo modello di e-mail per invitare il cliente ad accettare la richiesta di **relazione come rivenditore** e il **contratto del cliente Microsoft**. Nota: nell'invito tramite e-mail assicurati che il partner includa anche l'URL fornito automaticamente e le credenziali del cliente create di recente.
+
+![Creare una relazione](images/mca/createrelationship.jpg)
+
+5. Il cliente riceve l'invito tramite e-mail e fa clic sull'URL con parametri. 
+
+6. Il cliente usa le credenziali fornite dal partner nell'e-mail per accedere all'interfaccia di amministrazione di Microsoft 365.
+
+7. Il cliente seleziona la casella per accettare la **relazione come rivenditore** e il **contratto cliente Microsoft**. 
+
+8. Nello stesso URL il cliente è in grado di visualizzare un elenco consolidato di partner diversi con cui lavora e può selezionare un partner per visualizzare i dettagli.
+
+![Accettare il contratto](images/mca/accept.jpg)
+
+## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Invitare un cliente esistente a esaminare e accettare il contratto
+
+Segui questa procedura per invitare un cliente esistente a esaminare e accettare il contratto cliente Microsoft. 
+
+1. Crea l'e-mail del cliente con l'URL incorporato per invitare il cliente ad accettare il contratto del cliente Microsoft.
+
+2. Il cliente riceve l'invito tramite e-mail e fa clic sull'[URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement). 
+
+3. Il cliente immette le proprie credenziali nell'interfaccia di amministrazione di Microsoft 365.
+
+4. Il cliente seleziona la casella per accettare il contratto del cliente Microsoft. 
+
+5. Nello stesso URL il cliente è in grado di visualizzare l'elenco consolidato di partner diversi con cui lavora e può selezionare un partner per visualizzare i dettagli.
+
+![Cliente](images/mca/customeraccept.png)
+
+>[!NOTE]
+>In alcuni scenari i clienti potrebbero non essere in grado di accettare direttamente il contratto del cliente Microsoft. Per altre informazioni su queste situazioni, vedi [Due scenari in cui è necessaria l'attestazione per conto del cliente](attest-acceptance-customer-agreement.md).

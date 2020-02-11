@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: Offerte per il Marketplace, supporto marketing, premi, vantaggi per gli editori
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.openlocfilehash: 3fadda03e0a879aabf858954d0bea55414e81137
+ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171208"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77075616"
 ---
 # <a name="manage-marketplace-rewards"></a>Gestire Premi del marketplace
 
@@ -38,7 +38,7 @@ L'idoneità per i premi del Marketplace viene calcolata in base a tutti i profil
 
 3. Per aggiungere o aggiornare le informazioni di contatto marketing, passare alla scheda vantaggi vendite e marketing della pagina premi del Marketplace, quindi selezionare **Aggiungi, aggiorna o cambia**. 
 
-Eseguire quindi queste operazioni:
+Eseguire quindi le operazioni seguenti:
 
   - Selezionare un utente dall'elenco. Se l'utente che si vuole assegnare non è presente nell'elenco, è possibile aggiungere nuovi utenti nelle impostazioni dell'account.
 
@@ -54,9 +54,9 @@ Eseguire quindi queste operazioni:
 
 2. La modalità di utilizzo dei vantaggi di Azure Sponsorship verrà condivisa tramite un messaggio di posta elettronica quando questi vantaggi vengono sbloccati. 
 
-## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>Perché non è possibile visualizzare il programma Commercial Rewards Marketplace nel dashboard?
+## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>Perché non è possibile visualizzare il programma Commercial Marketplace Rewards nel dashboard?
 
-Le informazioni sui premi del Marketplace sono disponibili tramite il tenant Azure AD e l'ID MPN usato per creare l'account del centro per i partner. Questo account è denominato account globale del partner (PGA) dell'azienda. Se il tenant di AAD è diverso da quello usato per l'onboarding MPN, per poter visualizzare il menu Commercial Rewards Marketplace è necessario associarlo a PGA della società. 
+Le informazioni sui premi del Marketplace sono disponibili tramite il tenant Azure AD e l'ID MPN usato per creare l'account del centro per i partner. Questo account è denominato account globale del partner (PGA) dell'azienda. Se il tenant di Azure AD è diverso da quello usato per l'onboarding MPN, per poter visualizzare il menu Commercial Rewards Marketplace è necessario associarlo alla società PGA. 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Per associare un tenant Azure AD al PGA della società
 

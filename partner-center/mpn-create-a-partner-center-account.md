@@ -1,19 +1,19 @@
 ---
 title: Creare un account del Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 02/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: I membri del programma Microsoft Partner Network devono creare gli account del Centro per i partner per gestire i vantaggi e le competenze di rete e creare un profilo aziendale.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
-ms.openlocfilehash: 46a299f8e882f6f55d4f674c989446250c0c26d6
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 6e9a2adf925ae8fc9fca81be4bd87cf3064d18b6
+ms.sourcegitcommit: b706969f19a6d4ba1d9d9b8408abdd90591d81bd
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096480"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77069697"
 ---
 # <a name="create-a-partner-center-account"></a>Creare un account nel Centro per i partner
 
@@ -22,7 +22,7 @@ ms.locfileid: "74096480"
 - Amministratore globale
 - Agente amministratore
 
-Prima di poter creare un account nel Centro per i partner o iscriversi a un programma per i partner, l'organizzazione deve essere un membro di Microsoft Partner Network. Se non si è un membro della rete, è possibile [iscriversi ora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [Altre informazioni](https://partner.microsoft.com/membership) sull'iscrizione come membro a Microsoft Partner Network. Dopo aver creato un account del Centro per i partner, guardare questo breve video [Discover your dashboard](https://vimeo.com/290338211) (Scoprire la dashboard).
+Prima di poter creare un account nel Centro per i partner o iscriversi a un programma per i partner, l'organizzazione deve essere un membro di Microsoft Partner Network. Se non si è un membro della rete, è possibile [iscriversi ora](https://partner.microsoft.com/commercial#). Dopo aver creato un account del Centro per i partner, guardare questo breve video [Discover your dashboard](https://vimeo.com/290338211) (Scoprire la dashboard).
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 

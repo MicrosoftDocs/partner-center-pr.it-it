@@ -51,7 +51,7 @@ Per gestire le impostazioni dell'account, devi selezionare l'opzione delle impos
 |Marketplace commerciale|Sviluppo|
 |Windows e Xbox|Sviluppo|
 |Office Store|Sviluppo|
-|Estensioni di Edge|Sviluppo|
+|Estensioni di Microsoft Edge|Sviluppo|
 
 ## <a name="the-differences-in-partner-and-developer-settings-options"></a>Differenze tra le opzioni di Impostazioni partner e quelle di Impostazioni sviluppatore
 

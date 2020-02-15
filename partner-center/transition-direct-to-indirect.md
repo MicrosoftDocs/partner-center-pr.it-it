@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatturazione diretta, transizione, rivenditore indiretto
-ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
-ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
+ms.openlocfilehash: d02b6101384b6c9fae986bbe45ce4865fd450308
+ms.sourcegitcommit: b74437db6aead02c9be3b865d36086f750802041
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "77044738"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "77213339"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto 
 
@@ -137,7 +137,7 @@ Diversamente dai partner Direct Bill, i rivenditori indiretti non possono creare
 
 ## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Sposta i clienti diretti della fatturazione al provider indiretto
 
-Il provider indiretto non può inviare ordini o trasferimenti di sottoscrizione esistenti per i clienti con fatturazione diretta esistenti fino a quando non hanno una relazione di rivenditore. Per stabilire la relazione del rivenditore tra il provider indiretto e il provider indiretto esistente, è possibile utilizzare uno dei metodi seguenti: 
+Il provider indiretto non può inviare ordini o trasferimenti di sottoscrizione esistenti per i clienti con fatturazione diretta esistente finché non hanno una relazione di rivenditore. Per stabilire la relazione del rivenditore tra il provider indiretto e il cliente di fatturazione diretta esistente, è possibile utilizzare uno dei metodi seguenti: 
 
 - [Estensione relazione rivenditore](#reseller-relationship-extension) 
 
@@ -147,7 +147,7 @@ Il provider indiretto non può inviare ordini o trasferimenti di sottoscrizione 
 
 È possibile utilizzare la funzionalità di estensione delle relazioni rivenditore per stabilire la relazione del rivenditore tra i clienti di fatturazione diretta esistenti e il provider indiretto tramite il dashboard del centro per i partner. Prima di usare la funzionalità, tenere presente quanto segue: 
 
-- Questa funzionalità è disponibile solo per la fatturazione diretta del partner che sta per diventare un rivenditore indiretto che ha completato la [registrazione indiretta del rivenditore](#get-started). 
+- Questa funzionalità è disponibile solo per i partner Direct fattura che eseguono la transizione per diventare un rivenditore indiretto ha completato la [registrazione indiretta del rivenditore](#get-started). 
 
 - È possibile applicare questa funzionalità solo ai clienti con fatturazione diretta esistente. Non è applicabile ai [clienti di rivenditori indiretti](#acquire-new-customers-as-indirect-reseller). 
 
@@ -160,7 +160,7 @@ Il provider indiretto non può inviare ordini o trasferimenti di sottoscrizione 
 
 - Il provider indiretto non verrà fornito con [privilegi di amministrazione delegata](customers_revoke_admin_privileges.md) al tenant del cliente. Se il provider indiretto richiede privilegi di amministrazione delegata, è necessario inviare invece un invito al rivenditore indiretto al cliente.
 
-- Una volta stabilita la relazione Reseller, il provider indiretto verrà visualizzato come partner CSP per il cliente nella pagina Relazioni partner nell'interfaccia di amministrazione di M365 e [Microsoft Store for business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
+- Una volta stabilita la relazione Reseller, il provider indiretto verrà visualizzato come partner CSP per il cliente nella pagina Relazioni partner nell'interfaccia di [amministrazione di M365](https://admin.microsoft.com/AdminPortal/Home#/partners) e [Microsoft Store for business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
 
 >[!Note] 
 >Per evitare confusione e fraintendimenti, l'utente è tenuto contrattualmente dal contratto del partner per informare e ottenere il consenso del cliente Direct Bill prima di utilizzare la funzionalità di estensione relazione per stabilire la relazione del rivenditore tra una esistente fatturazione diretta del cliente e di un provider indiretto. 
@@ -197,6 +197,22 @@ Il provider indiretto non può inviare ordini per i clienti con fatturazione dir
 
 6. Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome. 
 
+### <a name="microsoft-customer-agreement-acceptance"></a>Accettazione del contratto clienti Microsoft
+
+Microsoft Cloud contratto è valido fino al 31 gennaio 2020. Dopo tale data, tutti i clienti, esistenti e nuovi, devono firmare il nuovo contratto per i clienti [Microsoft](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Per la transizione dei clienti, se:
+
+- **Il cliente non ha ancora accettato il contratto cliente Microsoft**
+
+   Collaborare con il provider indiretto per chiedere al cliente di [accettare il contratto per i clienti Microsoft]( https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+
+- **Il cliente ha accettato il contratto per i clienti Microsoft attraverso l'interfaccia di amministrazione di Microsoft 365**
+
+   L'accettazione verrà mantenuta dopo che la relazione del rivenditore viene stabilita con il provider indiretto. Non è necessario eseguire alcuna operazione.
+
+- **Il cliente ha accettato il contratto per i clienti Microsoft tramite l'attestazione partner**
+
+   L'accettazione non verrà mantenuta. Collaborare con il provider indiretto per [aggiornare l'accettazione del cliente nel centro per i partner]( https://docs.microsoft.com/partner-center/confirm-customer-agreement#confirm-customer-acceptance-for-existing-customers).
+
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Trasferire le sottoscrizioni di fatturazione diretta esistenti al provider indiretto
 
 In base al modello CSP indiretto, i rivenditori indiretti non hanno relazioni di fatturazione con Microsoft. Al contrario, i rivenditori indiretti ottengono le sottoscrizioni per i clienti tramite i provider indiretti. Durante la transizione da Direct Bill partner a Reseller indirect, è necessario trasferire le sottoscrizioni esistenti come partner Direct Bill al provider indiretto. A tale scopo, è possibile usare la funzionalità di trasferimento di sottoscrizioni autogestite nel dashboard del centro per i partner. 
@@ -208,6 +224,8 @@ Prima di usare la funzionalità, tenere presente quanto segue:
 - Questa funzionalità è disponibile solo per i partner di transizione che hanno completato la registrazione indiretta dei rivenditori usando i tenant di Direct Bill partner esistenti. 
 
 - Prima di trasferire le sottoscrizioni associate a un determinato cliente, il partner di transizione deve spostare il cliente a un provider indiretto. 
+
+- Il cliente ha [accettato il contratto per i clienti Microsoft attraverso il provider indiretto](#microsoft-customer-agreement-acceptance).
  
 ### <a name="how-to"></a>Procedure
 
@@ -293,13 +311,15 @@ Il partner di transizione deve eseguire le operazioni seguenti:
  
 ### <a name="considerations"></a>Considerazioni
 
+- **L'ID sottoscrizione sarà diverso dopo il trasferimento.** Se si tratta di una sottoscrizione di Azure (MS-AZR-0145P), inoltre, avrà un ID sottoscrizione di Azure, che viene mantenuto dal proprietario precedente, e verrà visualizzato nel portale di gestione di Azure.
+
 - **Non è possibile fare riferimento alla stessa sottoscrizione da più richieste di trasferimento.** Dopo aver creato una richiesta di trasferimento che include una sottoscrizione esistente, non è possibile creare richieste di trasferimento aggiuntive, inclusa la stessa sottoscrizione, fino a quando non viene annullata la prima richiesta di trasferimento. 
 
 - **I componenti aggiuntivi per le sottoscrizioni basate su postazioni devono essere trasferiti insieme alla sottoscrizione di base.** Quando si crea una richiesta di trasferimento, se si seleziona una sottoscrizione esistente con uno o più componenti aggiuntivi, i componenti aggiuntivi verranno inclusi automaticamente nella richiesta di trasferimento. 
 
 - **Le modifiche del numero di postazioni a una sottoscrizione non verranno riflesse nella richiesta di trasferimento esistente.** Dopo aver creato una richiesta di trasferimento che include una sottoscrizione esistente, è consigliabile evitare di aggiornare la quantità di postazione della sottoscrizione (o i relativi addons). In tal caso, la nuova quantità non verrà riflessa nella richiesta di trasferimento. Quando il provider indiretto accetta la richiesta di trasferimento, la sottoscrizione risultante avrà la quantità precedente. Se si desidera trasferire la nuova quantità al provider indiretto, è necessario annullare la richiesta di trasferimento esistente e ricrearne una nuova. 
 
-- **Non tutti gli acquisti possono essere trasferiti tramite il trasferimento di sottoscrizioni autogestite.** Attualmente è possibile trasferire solo le sottoscrizioni O365 e le sottoscrizioni di Azure PAGY (MS-AZR-0145P) usando questa funzionalità. Non sono supportati altri acquisti, inclusi i piani di Azure, le istanze riservate di Azure, le sottoscrizioni basate su termini e le sottoscrizioni SaaS per Azure Marketplace. Verrà visualizzato un motivo per cui non è possibile trasferire una sottoscrizione nella pagina Invia richiesta di trasferimento.
+- **Non tutti gli acquisti possono essere trasferiti tramite il trasferimento di sottoscrizioni autogestite.** Attualmente è possibile trasferire solo le sottoscrizioni O365 e le sottoscrizioni di Azure PAGY (MS-AZR-0145P) usando questa funzionalità. Non sono supportati altri acquisti, inclusi i piani di Azure, le istanze riservate di Azure, le sottoscrizioni basate su termini e le sottoscrizioni SaaS per Azure Marketplace. Verrà visualizzato un motivo per cui non è possibile trasferire una sottoscrizione nella pagina Invia richiesta di trasferimento. Per trasferire queste sottoscrizioni, sarà necessario [annullare la sottoscrizione esistente](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription) e acquistare la nuova offerta per il cliente tramite il provider indiretto.
 
 - **Non è possibile eseguire il test con l'ambiente sandbox.** 
 

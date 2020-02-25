@@ -1,115 +1,95 @@
 ---
 title: Assicurarsi di aver ricevuto il credito per le imposte ritenute | Centro per i partner
 ms.topic: article
-ms.date: 11/07/2019
-description: Verificare che l'account del centro per i partner disponga di un credito per la ritenuta delle imposte e aprire una richiesta di servizio, se necessario.
+ms.date: 2/16/2020
+description: Assicurarsi che l'account del centro per i partner sia accreditato per la ritenuta fiscale creando una richiesta di ritenuta fiscale nel centro per i partner.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: LauraBrenner
-ms.author: labrenne
-keywords: trattenuto crediti fiscali, crediti fiscali, modulo di credito fiscale tedesco, credito fiscale modulo
+author: brentserbus
+ms.author: brserbus
+keywords: ritenuta di crediti fiscali, crediti fiscali, modulo di credito fiscale tedesco, certificati fiscali
 ms.localizationpriority: medium
-ms.openlocfilehash: 98449ae99b0acc549ba10129c49102d4e498b96b
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943164"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521006"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assicurarsi che sia accreditata la ritenuta d'acconto
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assicurarsi di avere il credito per le imposte ritenute
 
 Si applica a:
 
-- Centro per i partner
+- Partner Center
 
-In questo argomento viene illustrato come assicurarsi di avere il credito per le imposte ritenute nel centro per i partner. Viene illustrato come aprire una richiesta di servizio utilizzando il modulo dell'imposta di ritenuta globale o il modulo di imposta di ritenuta per la Germania.
+In questo argomento viene illustrato come assicurarsi di avere il credito per le imposte ritenute nel centro per i partner. Viene illustrato come creare una richiesta di ritenuta fiscale nel centro per i partner.
+
+## <a name="overview"></a>Panoramica
+
+I partner CSP in alcuni paesi ricevono importi di fattura che includono le imposte. Alcuni di questi partner pagano l'autorità fiscale locale anziché Microsoft. Questi partner devono inviare una richiesta di ritenuta fiscale che includa il certificato fiscale per cancellare la quantità tassata dalle fatture precedenti. Questi importi cancellati vengono mostrati come crediti nelle fatture mensili successive, quindi il partner non deve più avere Microsoft l'importo non pagato.
+
+A partire dal gennaio 2020, i partner CSP dovrebbero inviare richieste di ritenuta fiscali nella **pagina di fatturazione** anziché creare richieste di supporto. Per inviare le richieste nella pagina di fatturazione, i partner CSP devono accedere al **centro** per i partner e selezionare **fatturazione** nel percorso di navigazione sinistro. La **pagina fatturazione** è la nuova posizione in cui inviare le richieste di ritenuta delle imposte. 
+
+### <a name="submit-a-new-tax-withholding-request"></a>Invia una nuova richiesta di ritenuta fiscale
+
+Attenersi alla procedura seguente per inviare una nuova dichiarazione di imposte:
+
+1. Accedere al dashboard del centro per i partner.
+2. Nel menu a sinistra scegliere **fatturazione** .
+3. Trovare la fattura per cui si desidera inviare il fisco nella sezione relativa alla **cronologia di fatturazione** della pagina **fatturazione** .
+4. Fare clic su **Invia nuovo** che consente di passare alla pagina **nuova richiesta di ritenuta delle imposte** .
+
+![Invia nuove imposte di ritenuta per una fattura](images/wht1.png)
+
+5. Esaminare i dettagli della fattura per assicurarsi di inviare la richiesta per la fattura corretta.
+
+![Completa i dettagli relativi alle ritenute fiscali per una fattura](images/wht2.png)
+
+6. Immettere il "totale di ritenuta" in **Dettagli sulle ritenute fiscali**. Il valore "Totale ritenuta" è il valore che si prevede venga accreditato.
+7. **Alleghi** un certificato di imposta. Sarà necessario includere una **copia digitale** dei **certificati fiscali di ritenuta** nella richiesta di ritenuta fiscale. Il certificato è stato ricevuto dall'agenzia fiscale locale al momento dell'invio della richiesta nel centro per i partner. Se si invia un **certificato di imposte per la lingua non** in lingua inglese utilizzando il processo di richiesta di **ritenuta fiscale**, è necessario includere una **traduzione** del certificato fiscale. L'importo imposte fattura nel certificato di imposizione di ritenuta deve corrispondere all'importo totale nella richiesta di ritenuta fiscale. 
 
 > [!IMPORTANT]
-> Microsoft deve ricevere il **modulo di credito imposte di ritenuta** e una copia del **certificato fiscale di ritenuta** per l'account in modo che sia accreditato per le imposte ritenute.
+> Il totale dei totali offerti dal partner deve corrispondere alla voce della fattura del certificato fiscale associato.
 
-## <a name="withholding-tax-credit-form"></a>Modulo di credito per le imposte ritenute
+8. **Inviare** la richiesta di ritenuta delle imposte.
 
-- Verificare che il modulo includa il nome e il paese della società, il numero del certificato fiscale di ritenuta e che il modulo sia firmato e aggiornato accuratamente. Ecco i moduli di credito fiscale: per la [Germania](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) e per [tutti gli altri paesi](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
+Una volta inviata, la richiesta passerà al processo di approvazione, in cui verrà approvata per il completamento o restituita al partner se sono necessarie correzioni. I partner possono visualizzare lo stato delle richieste nella **cronologia di fatturazione** da cui hanno inviato la nuova richiesta. L'ID richiesta e lo stato verranno visualizzati nella **cronologia di fatturazione**.
 
-Il modulo di credito per le imposte ritenute fornisce a Microsoft le informazioni seguenti:
+Le richieste inviate al partner consentiranno al partner di modificare la quantità di ritenzione e sostituire il certificato se si verifica un problema. 
 
-- Fattura/e
-- Importo pagato a Microsoft
-- Importo ritenuta d'acconto
-- Percentuale di imposte ritenuta
-- Tipo di pagamento
-- Società pagata (se diversa da Microsoft)
+### <a name="update-request-and-resubmit"></a>Aggiornare la richiesta e inviare nuovamente
 
-- Quando queste informazioni sono pronte, creare la richiesta di servizio.
+Il team di revisione potrebbe richiedere al partner di apportare correzioni e inviare nuovamente una richiesta prima che possa essere approvata. Lo stato viene modificato in "azione partner in sospeso". Per correggere e inviare nuovamente la richiesta:
+ 
+1. Accedere al dashboard del centro per i partner.
+2. Nel menu a sinistra scegliere **fatturazione** .
+3. Nella **cronologia di fatturazione**della pagina di **fatturazione** trovare richiesta di ritenuta fiscale. Le richieste che richiedono l'attenzione del partner avranno lo stato "azione partner in sospeso"
+4. Fare clic sull'ID richiesta di ritenuta fiscale e lo stato che consente di portare alla pagina della richiesta.
+5. Selezionare "Aggiorna e invia di più" in **stato**.
+6. Esaminare i commenti lasciati dai revisori che evidenziano cosa è necessario modificare.
+7. Eseguire le correzioni riinviando un certificato aggiornato o modificare le somme ritenute.
+8. **Inviare** la richiesta. 
 
-Prima di creare la richiesta di supporto, è necessario compilare il modulo di credito per le **imposte ritenute** . Questo modulo verrà incluso con la richiesta di supporto.
+La richiesta verrà inviata nuovamente al team di revisione, in cui verranno approvate o richieste altre modifiche.
+ 
+### <a name="approved-requests"></a>Richieste approvate
 
-Compilare il modulo appropriato per il paese o l'area geografica:
+Le richieste approvate rilasciate dalle imposte verranno eseguite sulla fattura successiva del partner, descrivendone l'importo dovuto purché la certificazione dimostri che il partner ha pagato tale importo all'autorità fiscale locale.
 
-- [**Modulo di credito fiscale di ritenuta globale**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) (tutti i paesi, ad eccezione della Germania)
-- [**Modulo di credito fiscale Germania**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)
+Il completamento dell'elaborazione delle richieste di ritenuta fiscale deve richiedere due giorni, presumendo che il certificato e l'importo dell'imposta siano corretti. Se sono necessarie modifiche, potrebbe essere necessario più tempo per chiedere al partner di effettuare correzioni prima di inviare nuovamente.
 
-Verificare che il modulo sia accurato prima di inviarlo a Microsoft:
+Dopo il completamento, le fatture dei mesi seguenti dovrebbero riflettere le modifiche sotto forma di credito.
+ 
+Le domande sull'invio di una richiesta di ritenuta fiscale possono essere risolte creando un ticket di supporto nel centro per i partner. Realizzare un ID richiesta di ritenuta fiscale sarà un campo obbligatorio per la risoluzione delle domande.
 
-1. Selezionare il **punto interrogativo** **(?)** nell'angolo uppor destro del dashboard nel centro per i partner.
+## <a name="german-tax-withholding"></a>Ritenuta fiscale tedesco
 
-2. Selezionare **CSP**.
+I partner che inviano richieste di ritenute fiscali tedesche devono ricordarsi di inviare copie cartacee del certificato di imposte ritenuta all'indirizzo seguente: 
 
-3. In **CSP-fatturazione e pagamenti**selezionare l'imposta tipo di problema- **ritenzione** e selezionare **Sì**. 
+- All'attenzione: il team delle imposte EDC Marianne Gannon
+- Microsoft EMEA Operations Center
+- Un posto Microsoft,
+- South County Business Park
+- Leopardstown, Dublin 18, Irlanda
 
-4. Quando si invia la richiesta di servizio, assicurarsi di alleghi il modulo di credito fiscale e le copie digitali dei certificati fiscali.
-
-5. Se si invia un certificato fiscale non in lingua inglese tramite una richiesta di servizio in lingua inglese, è necessaria una traduzione del certificato fiscale.
-
-6. Ti contatteremo direttamente tramite posta elettronica o telefono.
-
-- Includere il **nome** e il **paese** della società nel form.
-- **Firma** esatta e **Data** del modulo.
-- Registrare la **percentuale di imposte di ritenuta** appropriata nel modulo, in base alle informazioni dell'autorità fiscale locale.
-- Verificare che l' **importo totale** del modulo corrisponda ai totali delle fatture inviate.
-
-## <a name="include-withholding-tax-certificates"></a>Includi certificati fiscali di ritenuta
-
-I certificati fiscali devono essere solo per le fatture Microsoft. Se nei certificati sono incluse altre società, specificare la quantità per poterla escludere nell'elaborazione interna, ma avere ancora la visibilità completa sui certificati totali inclusi. 
-
-È necessario includere una **copia digitale** dei **certificati fiscali di ritenzione** insieme alla richiesta di supporto. Il certificato è stato ricevuto dall'agenzia fiscale locale al momento dell'invio della richiesta nel centro per i partner.
-
-Il totale nel certificato di imposta di ritenuta deve corrispondere ai dettagli di supporto nel modulo di credito per le imposte ritenute.
-
-Compilare completamente il [modulo di credito per le imposte ritenute](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) e inviarlo insieme alla copia digitalizzata del certificato di imposte di ritenuta dopo l'invio della richiesta in centro per i partner o nel portale di Azure/O365/CRM/Intune. 
-
-Se si invia un **certificato di imposte in lingua inglese** tramite una **richiesta di servizio in lingua inglese**, è necessario includere una **traduzione** del certificato fiscale.
-
-I certificati fiscali devono essere solo per le **fatture Microsoft**. Se sono presenti **altre società** che includono i certificati, specificare la quantità in modo che sia possibile escludere l'importo nell'elaborazione interna, ma avere ancora la visibilità completa sui certificati totali inclusi.
-
-## <a name="create-a-service-request"></a>Crea una richiesta di servizio
-
-Le informazioni seguenti si applicano *solo* ai partner del **programma Cloud Solution Provider (CSP)** . Sono inclusi solo i **partner Direct fattura** e i **provider indiretti**. I **rivenditori indiretti** devono invece collaborare con i relativi **provider indiretti** .
-
-1. Accedere al dashboard nel centro per i partner.
-2. Nel menu a sinistra del dashboard scegliere **supporto tecnico**, quindi selezionare **richieste di supporto**per i partner.
-3. Scegliere **nuova richiesta**.
-4. Nella pagina **Avvia richiesta** , in **CSP-fatturazione e pagamenti**, scegliere **selezionare un tipo di problema**. Selezionare le **imposte ritenute** come tipo di problema.
-5. Nella pagina **soluzioni consigliate** esaminare le informazioni. Quindi, in sono **necessarie altre informazioni?** , scegliere **Sì**.
-6. Nella pagina **Dettagli** compilare tutti i campi obbligatori in **Dettagli problema**.
-7. Caricare il [**modulo di credito per le imposte ritenute**](#withholding-tax-credit-form) usando l'ultimo campo del modulo.
-8. Caricare il [**certificato dell'imposta di ritenuta**](#include-withholding-tax-certificates) e, se applicabile, una traduzione del certificato.
-9. Scegliere **Invia** per inviare la richiesta di supporto. Microsoft contatterà l'utente direttamente tramite posta elettronica o telefono. 
-10. Se ci si trova in **Germania**, vedere [le istruzioni speciali per la Germania](#germany-tax-withholding) per la posta elettronica in **copie rigide** obbligatorie del certificato per le imposte ritenute.
-
-Con il metodo di **pagamento con fatturazione** , dopo la ricezione e la convalida dei certificati fiscali, il saldo rimanente per la fattura verrà cancellato entro circa una settimana.
-
-Dopo la ricezione e la convalida dei certificati fiscali da parte di Microsoft, utilizzare il metodo di **pagamento con fattura** . Il saldo rimanente per la fattura viene cancellato entro circa una settimana.
-
-## <a name="germany-tax-withholding"></a>Ritenuta fiscale Germania
-
-*Solo*per la Germania, seguire la stessa procedura normale per:
-
-1. [Compila il modulo di credito per le imposte in Germania](#withholding-tax-credit-form)
-2. [Includi i certificati fiscali di ritenuta](#include-withholding-tax-certificates)
-3. [Creare una richiesta di supporto](#create-a-service-request) per il centro per i partner con il modulo di credito dell'imposta di ritenuta e rilasciando i certificati fiscali collegati.
-
-Quindi, inviare alla posta elettronica copie rigide dei certificati di imposte rilasciati all'indirizzo seguente:
-
-> Attenzione: il team delle imposte EDC Marianne Gannon Microsoft EMEA Operations Center One Microsoft Place, South County Business Park Leopardstown, Dublin 18, Ireland

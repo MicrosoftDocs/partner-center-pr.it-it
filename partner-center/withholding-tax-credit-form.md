@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: ritenuta di crediti fiscali, crediti fiscali, modulo di credito fiscale tedesco, certificati fiscali
 ms.localizationpriority: medium
-ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
+ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521006"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "77618521"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assicurarsi di avere il credito per le imposte ritenute
 
@@ -47,7 +47,7 @@ Attenersi alla procedura seguente per inviare una nuova dichiarazione di imposte
 ![Completa i dettagli relativi alle ritenute fiscali per una fattura](images/wht2.png)
 
 6. Immettere il "totale di ritenuta" in **Dettagli sulle ritenute fiscali**. Il valore "Totale ritenuta" è il valore che si prevede venga accreditato.
-7. **Alleghi** un certificato di imposta. Sarà necessario includere una **copia digitale** dei **certificati fiscali di ritenuta** nella richiesta di ritenuta fiscale. Il certificato è stato ricevuto dall'agenzia fiscale locale al momento dell'invio della richiesta nel centro per i partner. Se si invia un **certificato di imposte per la lingua non** in lingua inglese utilizzando il processo di richiesta di **ritenuta fiscale**, è necessario includere una **traduzione** del certificato fiscale. L'importo imposte fattura nel certificato di imposizione di ritenuta deve corrispondere all'importo totale nella richiesta di ritenuta fiscale. 
+7. **Alleghi** un certificato di imposta. Sarà necessario includere una **copia digitale** dei **certificati fiscali di ritenuta** nella richiesta di ritenuta fiscale. Il certificato è stato ricevuto dall'agenzia fiscale locale al momento dell'invio della richiesta nel centro per i partner. L'importo imposte fattura nel certificato di imposizione di ritenuta deve corrispondere all'importo totale nella richiesta di ritenuta fiscale. 
 
 > [!IMPORTANT]
 > Il totale dei totali offerti dal partner deve corrispondere alla voce della fattura del certificato fiscale associato.

@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e71d9c09e03c4464774fc80f0bd27af1dc82ea1
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716965"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672691"
 ---
 # <a name="partner-contribution-indicators"></a>Indicatori di contributi dei partner
 
@@ -44,15 +44,15 @@ Ogni indicatore riporta un punteggio aggiunto al totale. Di seguito sono riporta
 
 ### <a name="thresholds"></a>Limiti
 
-Ogni metrica PCI ha soglie impostate da Microsoft in base a cui la tua azienda può guadagnare un punteggio massimo. Queste soglie sono diverse per i percorsi operativi Customer Engagement e Finance & per ottenere la competenza Business Applications cloud. Le soglie variano anche per i partner che operano in mercati sviluppati rispetto a quelli che operano esclusivamente nei mercati di sviluppo.  La categorizzazione del mercato sviluppata o in fase di sviluppo di un paese si basa sulle [definizioni Microsoft Partner Network](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+Ogni metrica PCI ha soglie impostate da Microsoft in base a cui la tua azienda può guadagnare un punteggio massimo. Queste soglie sono diverse per i percorsi operativi Customer Engagement e Finance & per ottenere la competenza Business Applications cloud. Le soglie variano anche per i partner che operano in mercati sviluppati rispetto a quelli che operano esclusivamente nei mercati di sviluppo.  La categorizzazione del mercato sviluppata o in fase di sviluppo di un paese si basa sulle [definizioni Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
 I punti in ogni metrica vengono conteggiati per produrre un punteggio PCI distinto per le operazioni di engagement e Finanza & che verranno aggiornate ogni mese.
 
-I partner possono ottenere il punteggio massimo per una determinata metrica se soddisfano o superano le soglie indicate di seguito. I punti parziali possono essere ottenuti per tutte le metriche ad eccezione della crescita del consulente funzionale. Ad esempio un partner di mercato sviluppato con $150.000 in rete nuovi ricavi guadagnerà metà ($ 150000/$ 300.000) del numero massimo di 10 pts. 
+I partner possono ottenere il punteggio massimo per una determinata metrica se soddisfano o superano le soglie indicate di seguito. I punti parziali possono essere ottenuti per tutte le metriche ad eccezione della crescita del consulente funzionale. ad esempio un partner di mercato sviluppato con $150.000 in rete nuovi ricavi guadagnerà metà ($ 150000/$ 300.000) del numero massimo di 10 pts. 
 
 ![coinvolgimento dei clienti](images/pci/custengagethresh.png)
 
-![Finanza](images/pci/table_2.png
+![Finance](images/pci/table_2.png
 )
 
 ![Consulente](images/pci/table_3.png)

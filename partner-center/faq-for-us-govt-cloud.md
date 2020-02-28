@@ -8,12 +8,12 @@ description: Vedere le risposte alle domande frequenti sul programma Cloud Solut
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6aa9b3d3e4a6f73254ad0ea843a0f37be824f23d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 051e7dfabb8e29f3831ecfb2cc510e5057f062f8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253641"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672671"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Domande frequenti sul Centro per i partner per Microsoft Cloud for US Government
 
@@ -71,13 +71,13 @@ Il contratto MCRA per Microsoft Cloud per il governo statunitense è diverso dal
 
 -   L'Addendum relativo al cloud per il governo statunitense contiene una responsabilità aggiuntiva dei partner relativamente alle transazioni di servizi cloud per il governo statunitense.
 
--   Il presente documento contiene il contratto di Microsoft Cloud (Microsoft Cloud Agreement) che deve essere incorporato in ogni contratto per i servizi cloud del governo degli Stati Uniti immessi tra il CSP e il relativo cliente.
+-   Il presente documento contiene il contratto per i clienti Microsoft (contratto cliente Microsoft) che deve essere incorporato in ogni contratto per i servizi cloud del governo degli Stati Uniti immessi tra il CSP e il cliente.
 
-*Microsoft Cloud contratto (Microsoft Cloud Agreement) presentato come Exhibit A in MCRA*
+*Contratto del cliente Microsoft (contratto del cliente Microsoft) presentato come allegato a in MCRA*
 
 I CSP sono tenuti a incorporare l'Allegato A nel contratto con un ente pubblico che viene stipulato tra i CSP e i clienti che acquistano Microsoft Cloud per il governo statunitense. Il contratto è pubblicato nel Centro per i partner ed è disponibile in lingua inglese.
 
-Il Contratto Microsoft Cloud per il cloud per il governo statunitense è diverso dal Contratto Microsoft Cloud standard in quanto:
+Il contratto del cliente Microsoft per il cloud del governo degli Stati Uniti è diverso dal contratto per i clienti standard Microsoft nei due modi seguenti:
 
 -   È necessario che sia incorporato nel contratto del CSP con il cliente.
 
@@ -91,7 +91,7 @@ Il contratto MCDA per Microsoft Cloud per il governo statunitense è diverso dal
 
 -   L'Addendum relativo a Microsoft Cloud per il governo statunitense contiene una responsabilità aggiuntiva dei partner relativamente alle transazioni di servizi cloud per il governo statunitense.
 
--   Presentare un documento contenente Microsoft Cloud contratto (Microsoft Cloud Agreement) che deve essere incorporato in ogni contratto per i servizi cloud del governo degli Stati Uniti immessi tra il CSP e i clienti.
+-   Presentare un contratto del cliente Microsoft che deve essere incorporato in ogni contratto per i servizi cloud del governo degli Stati Uniti tra il CSP e i clienti.
 
 **Quali sono le qualifiche da vendere Microsoft Cloud per il governo degli Stati Uniti?**
 
@@ -118,7 +118,7 @@ Per semplificare e mantenere l'integrità dell'isolamento dei Microsoft Cloud pe
 
 **Che cos'è Microsoft Cloud per il governo degli Stati Uniti per Azure?**
 
-Il cloud Azure per enti pubblici offre una piattaforma cloud basata sui principi fondamentali di sicurezza, privacy, controllo, conformità e trasparenza. Le entità del settore pubblico ricevono un'istanza fisicamente isolata di Microsoft Azure che usa servizi di sicurezza e conformità all'avanguardia di importanza critica per tutti i sistemi e le applicazioni basati sull'architettura del governo statunitense. Questi servizi includono le certificazioni di conformità FedRAMP e DoD, i contratti a livello statale CJIS, la possibilità di emettere contratti HIPAA Business Associate Agreement e il supporto per IRS 1075. Gestito da persone statunitensi accuratamente selezionate, Azure per enti pubblici supporta molteplici scenari ibridi per lo sviluppo e la distribuzione di soluzioni locali o nel cloud. Le entità del settore pubblico possono inoltre beneficiare della scalabilità istantanea e dei tempi di attività garantiti di un servizio cloud iperscalabile.
+Azure per enti pubblici offre una piattaforma cloud basata sui principi fondamentali di sicurezza, privacy, controllo, conformità e trasparenza. Le entità del settore pubblico ricevono un'istanza fisicamente isolata di Microsoft Azure che usa servizi di sicurezza e conformità all'avanguardia di importanza critica per tutti i sistemi e le applicazioni basati sull'architettura del governo statunitense. Questi servizi includono le certificazioni di conformità FedRAMP e DoD, i contratti a livello statale CJIS, la possibilità di emettere contratti HIPAA Business Associate Agreement e il supporto per IRS 1075. Gestito da persone statunitensi accuratamente selezionate, Azure per enti pubblici supporta molteplici scenari ibridi per lo sviluppo e la distribuzione di soluzioni locali o nel cloud. Le entità del settore pubblico possono inoltre beneficiare della scalabilità istantanea e dei tempi di attività garantiti di un servizio cloud iperscalabile.
 
 **Il programma CSP per Microsoft Cloud per il governo degli Stati Uniti offre tutti i servizi di Azure?**
 

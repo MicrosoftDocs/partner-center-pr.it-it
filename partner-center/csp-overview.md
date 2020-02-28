@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, partner diretto, partner CSP diretto, rivenditore CSP indiretto, CSP diretto, CSP indiretto, modello diretto, modello indiretto, rivenditore indiretto, provider indiretto, provider, server di distribuzione, programma cloud solution provider
 ms.localizationpriority: medium
-ms.openlocfilehash: a00c95c4a24fea9fd76779bb970375906af999c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 203168cd57724723261e661627343594a1e8be00
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252824"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672831"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programma Cloud Solution Provider - Vendita di soluzioni cloud popolari 
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 - Partner aderenti al programma CSP
 
 Il programma Cloud Solution Provider (CSP) consente di superare la rivendita delle licenze per essere più impegnati nell'attività del cliente.
@@ -65,7 +65,7 @@ Nel modello indiretto i provider (noti anche come distributori) acquistano prodo
 
 La posizione dell'azienda determina il tuo mercato, ovvero le aree geografiche e/o i paesi in cui puoi vendere le offerte CSP. Per un elenco completo di mercati e valute CSP, vedere la pagina relativa ai [mercati e alle valute del programma Cloud Solution Provider](regional-authorization-overview.md) .
 
-Prima di poter ordinare le offerte CSP per conto di un cliente, il cliente deve firmare il contratto di Microsoft Cloud. [Qui](agreements.md)è possibile trovare il contratto di Microsoft Cloud applicabile per la località del cliente.  
+Prima di poter ordinare le offerte CSP per conto di un cliente, il cliente deve firmare il contratto per i clienti Microsoft. [Qui](agreements.md)è possibile trovare il contratto del cliente Microsoft applicabile per la località del cliente.  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>Cosa posso vendere tramite il programma CSP?
 
@@ -78,6 +78,6 @@ Puoi vendere la gamma completa di [servizi cloud Microsoft](https://partner.micr
 |:---------------------------|:--------------------|
 |Requisiti per ciascun modello CSP   | [Programma Cloud Solution Provider](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Vendita nei cloud nazionali Microsoft   | [Applica a Vendi nei cloud nazionali Microsoft](csp-national-clouds-overview.md)|
-|Contratto Microsoft Cloud: modelli per i clienti   |[Contratti Microsoft Cloud per area geografica e lingua](agreements.md)|
+|Contratto del cliente Microsoft: modelli per i clienti   |[Contratti con i clienti Microsoft per area e lingua](agreements.md)|
 |Attività del provider indirette nel centro per i partner  |[Partner con rivenditori indiretti nel programma Cloud Solution Provider](indirect-provider-tasks-in-partner-center.md)|
 |Attività rivenditore indirette nel centro per i partner   |[Partner con provider indiretti nel programma Cloud Solution Provider](indirect-reseller-tasks-in-partner-center.md)|

@@ -7,25 +7,25 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Office, O365, servizi PSTN, imposte, requisiti, fattura, fatturazione
 ms.localizationpriority: medium
-ms.openlocfilehash: 2edf62c8a2157bc2b75855833ddbc7a63e7c6bb0
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: aad61f682740ad20dec1264cd48ff87d1f2c0806
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005060"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672821"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Advisory per i partner di Office 365: Microsoft 365 Voice in CSP
 
 **Si applica a**
 
-- Centro per i partner  
+- Partner Center  
 
 **Ruoli appropriati**
 -   Amministratore globale
 -   Amministratore utenti
 -   Agente amministratore
 
-I servizi PSTN (Public Switched Telephone Network) in alcuni paesi potrebbero essere soggetti a requisiti fiscali e normativi speciali che possono influenzare l'ordine e la fatturazione dei partner.  In Stati Uniti, Puerto Rico e Canada, i servizi PSTN e Microsoft 365 Voice di Skype for business sono soggetti a requisiti fiscali e normativi specifici. Nei Stati Uniti e in Puerto Rico i servizi PSTN dei prezzi Microsoft sono inclusi nell'IVA.  Le tasse e le normative PSTN univoche influiranno sui partner di Office 365 che trasformano Microsoft 365 prodotti vocali.  Se un partner applica ricarichi al prezzo di un servizio PSTN Microsoft, potrebbe avere la responsabilità di calcolare e versare imposte e tariffe specifiche per i servizi PSTN.
+I servizi PSTN (Public Switched Telephone Network) in alcune giurisdizioni possono essere soggetti a requisiti fiscali e normativi speciali che possono influenzare l'ordine dei partner e la fatturazione. Nel Stati Uniti, tra cui Puerto Rico, i servizi PSTN, che includono la conferenza audio, i piani di chiamata e i crediti di comunicazione, sono soggetti a requisiti fiscali e normativi specifici. Nei Stati Uniti e in Puerto Rico i servizi PSTN dei prezzi Microsoft sono inclusi nell'IVA.  Le tasse e le normative PSTN univoche influiranno sui partner di Office 365 che trasformano Microsoft 365 prodotti vocali.  Se un partner applica ricarichi al prezzo di un servizio PSTN Microsoft, potrebbe avere la responsabilità di calcolare e versare imposte e tariffe specifiche per i servizi PSTN.
 
 ## <a name="partner-recommendations"></a>Raccomandazioni per i partner
 

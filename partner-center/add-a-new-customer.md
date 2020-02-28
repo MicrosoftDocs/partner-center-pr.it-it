@@ -10,18 +10,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, aggiungere un cliente, account del cliente, account del cliente nel Centro per i partner, clienti, aggiungere i clienti, creare un account del cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 7a97dbbd72cf5b1a16d4cd4e805e4d33bf9c4b53
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860442"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672711"
 ---
 # <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente 
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 - Centro per i partner per Microsoft Cloud for US Government
 - Partner del programma Cloud Solution Provider
 
@@ -42,10 +42,10 @@ Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire support
 
 1. Selezionare **Customers** dal menu centro partner e quindi selezionare **Aggiungi cliente**.
 
-2. Nella pagina **informazioni account** immettere i dettagli del cliente e le informazioni di contatto principale e verificare che il cliente abbia accettato e firmato il [contratto di Microsoft Cloud](agreements.md)più recente.
+2. Nella pagina **informazioni account** immettere i dettagli del cliente e le informazioni di contatto principale e verificare che il cliente abbia accettato e firmato il contratto per i [clienti Microsoft](agreements.md)più recente.
 
 >[!IMPORTANT] 
-> Il 1 ° ottobre 2019 Microsoft ha introdotto il **contratto del cliente Microsoft** per il programma CSP per sostituire il contratto di Microsoft Cloud. Per facilitare la migrazione dei partner al nuovo contratto, il Contratto Microsoft Cloud corrente sarà supportato nel programma CSP fino al 31 gennaio 2020. Leggi il [contratto per i clienti Microsoft e come confermare il consenso](confirm-customer-agreement.md)
+> Il 1° ottobre 2019 Microsoft ha introdotto il **contratto del cliente Microsoft** nel programma CSP in sostituzione del Contratto Microsoft Cloud. Leggi il [contratto per i clienti Microsoft e come confermare il consenso](confirm-customer-agreement.md)
   
 3. Se si è un provider indiretto, selezionare il rivenditore indiretto che si desidera associare alle sottoscrizioni di questo cliente dall'elenco.
 
@@ -60,7 +60,7 @@ Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire support
 
 7. Selezionare **done** dopo aver completato l'aggiunta delle informazioni sul cliente e aver acquistato le sottoscrizioni obbligatorie.
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
 - Per ulteriori informazioni su ciò che è possibile vendere ai clienti tramite il programma Cloud Solution Provider, vedere la pagina relativa alle [offerte dei partner nel programma Cloud Solution Provider](csp-offers.md) .
 

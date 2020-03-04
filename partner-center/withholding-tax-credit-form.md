@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: ritenuta di crediti fiscali, crediti fiscali, modulo di credito fiscale tedesco, certificati fiscali
 ms.localizationpriority: medium
-ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
-ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
+ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "77618521"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240228"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assicurarsi di avere il credito per le imposte ritenute
 
@@ -50,7 +50,7 @@ Attenersi alla procedura seguente per inviare una nuova dichiarazione di imposte
 7. **Alleghi** un certificato di imposta. Sarà necessario includere una **copia digitale** dei **certificati fiscali di ritenuta** nella richiesta di ritenuta fiscale. Il certificato è stato ricevuto dall'agenzia fiscale locale al momento dell'invio della richiesta nel centro per i partner. L'importo imposte fattura nel certificato di imposizione di ritenuta deve corrispondere all'importo totale nella richiesta di ritenuta fiscale. 
 
 > [!IMPORTANT]
-> Il totale dei totali offerti dal partner deve corrispondere alla voce della fattura del certificato fiscale associato.
+> Il totale dei totali offerti dal partner deve corrispondere alla voce della fattura del certificato fiscale associato. I file del certificato fiscale associato devono essere uno dei formati di file seguenti:. Solo PDF e immagine (. JPEG,. PNG e. GIF). Inoltre, i nomi di file non devono contenere spazi o caratteri speciali.
 
 8. **Inviare** la richiesta di ritenuta delle imposte.
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 3d21c796aebe41322d8f390ce54d13b1f80ec309
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521044"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240243"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nuova esperienza commerciale in CSP - Fatturazione di Azure 
 
@@ -53,7 +53,7 @@ L'amministratore globale o l'amministratore della fatturazione per l'azienda ric
 
 3. Seleziona la scheda per **Ricorrente** e **Occasionale** e la valuta di tuo interesse.
 
-![fatturazione](images/azure/billing1.png)
+![fatturazione](images/azure/billing3.png)
 
 4. Seleziona **Fattura** o il file **Reconciliation** (Riconciliazione).  
 

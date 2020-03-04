@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, abbonamento a Microsoft Action Pack, rinnovo competenze, data rinnovo
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: a4043209b701d4cf5f4fd475321b592edd7410f3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0495b519aeefbe927c43b48105c6672894fb46a2
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651956"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161435"
 ---
 # <a name="renew-your-mpn-offers"></a>Rinnovare le offerte MPN
 
@@ -39,6 +39,3 @@ Hai 30 giorni di tempo per il rinnovo a partire dalla data dell'anniversario. I 
 
 Quando rinnovi nel periodo valido, la nuova data dell'anniversario cadrà 365 giorni dopo l'attuale data di anniversario.
 
-## <a name="manage-auto-renewal"></a>Gestire il rinnovo automatico
-
-Se è abilitato il rinnovo automatico, riceverai l'addebito sulla tua carta di credito il giorno successivo alla data dell'anniversario. Puoi disabilitare il rinnovo automatico in qualsiasi momento prima della data dell'anniversario.

@@ -1,7 +1,7 @@
 ---
 title: Creare account utente e impostare le autorizzazioni | Centro partner
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 02/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come creare account utente e assegnare ruoli nel Centro per i partner per ciascun dipendente che necessita dell'accesso. Gli utenti con privilegi di amministratore diversi possono eseguire questa operazione.
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: ruoli, autorizzazioni, aggiungi utente, assegna ruolo, amministratore, agente,
 ms.localizationpriority: high
-ms.openlocfilehash: 94dd39a9ecf2703c14b33f07fd08d4111eeefccd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 6bbae5b8bcd2882c7ba32a8b660fc256dec4e49a
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722461"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240208"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Creare account utente e assegnare autorizzazioni
 
@@ -25,20 +25,20 @@ ms.locfileid: "74722461"
 - Amministratore globale
 - Amministratore gestione utenti
 
-Crea gli account utente per i dipendenti che hanno bisogno di accedere al Centro per i partner. Questa operazione deve essere eseguita dall'amministratore per la gestione degli utenti, dall'amministratore degli account o dall'amministratore globale.
+Crea gli account utente per i dipendenti che hanno bisogno di accedere al Centro per i partner. Questa operazione deve essere eseguita dall'amministratore per la gestione degli utenti, dall'amministratore degli account o dall'amministratore globale. All'utente che esegue queste attività devono essere assegnati anche i ruoli di amministratore degli utenti o amministratore globale di Azure Active Directory (AAD). Per altre informazioni sui ruoli di AAD, vedi [Autorizzazioni dei ruoli di amministratore in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
 
 ## <a name="add-a-new-user"></a>Aggiungere un nuovo utente
 
 1. Dall'icona **Impostazioni** in alto a destra nel Centro per i partner seleziona **Gestione utenti**.
 
-2.  Selezionare **Aggiungi utente**.
+2. Selezionare **Aggiungi utente**.
 
-3.  Immetti il nome completo e l'indirizzo di posta elettronica univoco dell'utente.
+3. Immetti il nome completo e l'indirizzo di posta elettronica univoco dell'utente.
 
-4.  Seleziona il tipo di agente e/o il tipo di amministratore da assegnare all'utente. L'accesso al Centro per i partner è basato sui ruoli, quindi è possibile assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche.  Se gli utenti vogliono l'assegnazione di un ruolo, possono trovare gli amministratori globali da contattare accedendo a **Gestione utenti** e filtrando in base all'amministratore globale.
+4. Seleziona il tipo di agente e/o il tipo di amministratore da assegnare all'utente. L'accesso al Centro per i partner è basato sui ruoli, quindi è possibile assegnare autorizzazioni per personalizzare la visualizzazione dell'utente in modo da mostrargli solo le funzionalità utili per completare le attività specifiche.  Se gli utenti vogliono l'assegnazione di un ruolo, possono trovare gli amministratori globali da contattare accedendo a **Gestione utenti** e filtrando in base all'amministratore globale.
 
-5.  Selezionare **Aggiungi** per creare l'account utente. Verificare i dettagli dell'utente nella pagina successiva.
+5. Selezionare **Aggiungi** per creare l'account utente. Verificare i dettagli dell'utente nella pagina successiva.
 
 > [!IMPORTANT]  
 > Prendere nota delle informazioni di accesso del nuovo utente visualizzate in questa pagina. Copiarle e inviarle al nuovo utente perché in seguito non sarà più possibile accedervi. 
@@ -69,7 +69,7 @@ Per usare il Centro per i partner, devi avere un ruolo assegnato.  I ruoli inclu
 - Agente amministratore
 - Amministratore fatturazione
 - Agente di vendita
-- Agente help desk
+- Agente di supporto tecnico
 
 **Ruoli che gestiscono l'appartenenza a MPN e la società (non AAD)**
 - Amministratore dei partner MPN

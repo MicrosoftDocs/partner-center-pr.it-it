@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
-ms.openlocfilehash: dd7590634339acd3bfb6f1fe3fafd08aa7bdbf5c
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723448"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672801"
 ---
 # <a name="partner-security-requirements"></a>Requisiti di sicurezza per i partner
 
@@ -64,13 +64,21 @@ Per adeguarti ai requisiti di sicurezza dei partner, devi imporre l'autenticazio
 
 ## <a name="security-defaults"></a>Impostazioni predefinite per la sicurezza
 
-- Le impostazioni predefinite per la sicurezza stanno sostituendo i criteri di base. 
+Il criterio delle impostazioni predefinite per la sicurezza è una delle [opzioni](#actions-that-you-need-to-take) che i partner possono scegliere per implementare l'autenticazione a più fattori per i requisiti di sicurezza in base alle specifiche esigenze aziendali. Viene offerto un livello di sicurezza di case, abilitato senza costi aggiuntivi. Prima di abilitare le impostazioni predefinite per la sicurezza, esamina come abilitare l'autenticazione a più fattori per l'organizzazione con Azure AD e analizza le considerazioni chiave seguenti.
 
 - I criteri di base saranno mantenuti ancora per un paio di mesi e deprecati per la fine di febbraio 2020.
 
 - I partner che hanno già adottato i criteri di base devono agire per passare alle impostazioni predefinite per la sicurezza.
 
+- Le impostazioni predefinite per la sicurezza sostituiscono a livello di disponibilità generale i criteri di base di anteprima. Dopo aver abilitato le impostazioni predefinite per la sicurezza, un partner non potrà più abilitare i criteri di base.
+
 - Con le impostazioni predefinite per la sicurezza, tutti i criteri saranno abilitati contemporaneamente. 
+
+- Per i partner che usano l'[accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), le [impostazioni predefinite per la sicurezza non sono disponibili](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
+
+- Per il momento, il blocco dell'autenticazione legacy non verrà applicato ai partner. Tuttavia, poiché la maggior parte degli eventi correlati a identità compromesse proviene da tentativi di accesso con autenticazione legacy, i partner sono invitati a uscire dai protocolli meno recenti.
+
+- L'account di sincronizzazione di Azure AD Connect è escluso dalle impostazioni predefinite per la sicurezza.
 
 - Per informazioni dettagliate, leggi [Abilitare Multi-Factor Authentication per l'organizzazione](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started) e [Impostazioni predefinite per la sicurezza Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 

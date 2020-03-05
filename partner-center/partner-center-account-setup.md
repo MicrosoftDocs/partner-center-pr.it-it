@@ -1,7 +1,7 @@
 ---
 title: Gestire l'account del Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 03/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gestisci il profilo, il catalogo, i dati bancari e fiscali, i ruoli e le autorizzazioni della tua azienda e altro ancora nel Centro per i partner.
@@ -10,38 +10,48 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ec5934e4d35b653e8e781e8eb1290bfbaee0d737
-ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
+ms.openlocfilehash: 6955ba66c95557d8e704ec4737f6be6b9006e344
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76812683"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240184"
 ---
 # <a name="manage-your-partner-center-account"></a>Gestire l'account del Centro per i partner
 
 **Si applica a**
 
--  Centro per i partner
-
-**Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Agente amministratore
+- Centro per i partner
 
 L'account che crei nel Centro per i partner quando esegui la registrazione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account nel Centro per i partner, è necessario che tu o il tuo amministratore termini la configurazione del profilo completo della società, inclusi i dettagli sul supporto, le eventuali esenzioni fiscali e le informazioni sul contatto principale. L'account dell'azienda includerà anche gli account utente per chiunque usi il Centro per i partner per aggiungere e gestire clienti, vendere sottoscrizioni, gestire la fatturazione, creare profili di business, gestire segnalazioni, usare programmi di incentivi e fornire servizi di supporto.
 
+## <a name="programs-in-which-you-are-enrolled"></a>Programmi a cui si è iscritti
+
+Gran parte delle operazioni che devi eseguire per gestire l'account del Centro per i partner si riferisce al programma o ai programmi specifici a cui sei iscritto e alle autorizzazioni e ai ruoli utente che ti sono stati assegnati nel Centro per i partner.
+
+È facile vedere a quali programmi puoi accedere nel Centro per i partner:
+
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
+2. Guarda il riquadro di spostamento a sinistra. Verranno visualizzate le opzioni associate ai programmi a cui sei iscritto.
+
+Ecco un esempio. Si supponga che un utente possa accedere a tre programmi nel dashboard Centro per i partner: il programma **MPN**, il programma **Segnalazioni** e il programma **Marketplace commerciale**. Quando accede al dashboard Centro per i partner, vedrà questi tre programmi sul lato sinistro dello schermo.
+
+![Menu dei programmi a cui si è iscritti](images/accountsettings/programs-enrolled-left-nav.png)
+
 ## <a name="account-management"></a>Gestione degli account
 
-Nel Centro per i partner gli account vengono attualmente gestiti in due diverse sezioni: Impostazioni **partner** e Impostazioni **sviluppatore**. 
+Nel Centro per i partner gli account vengono attualmente gestiti in due diverse sezioni: **Impostazioni partner** e **Impostazioni sviluppatore**.
 
 >[!NOTE]
->Le impostazioni per gli account si trovano nell'angolo in alto a destra del Centro per i partner. Quando selezioni l'icona, sarai in grado di selezionare quello che vuoi gestire. 
+>Per accedere a **Impostazioni partner** o **Impostazioni sviluppatore**, devi accedere al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner, seleziona l'opzione **Impostazioni** (icona a forma di ingranaggio) nell'angolo in alto a destra dello schermo. Puoi quindi selezionare **Impostazioni partner** o **Impostazioni sviluppatore** dal menu a discesa.
 
 ![Impostazioni account](images/accountsettings/account1.png)
 
-I partner possono visualizzare l'opzione per la gestione di Impostazioni partner e/o Impostazioni sviluppatore, a seconda che la loro azienda sia iscritta o meno ai programmi corrispondenti. L'opzione delle impostazioni è disponibile solo se l'azienda è iscritta ad almeno un programma associato all'impostazione corrispondente. 
+I partner possono visualizzare l'opzione per la gestione di **Impostazioni partner** e/o **Impostazioni sviluppatore** a seconda che la loro azienda sia iscritta o meno ai programmi corrispondenti. L'opzione delle impostazioni è disponibile solo se l'azienda è iscritta ad almeno un programma associato all'impostazione corrispondente.
 
-Per gestire le impostazioni dell'account, devi selezionare l'opzione delle impostazioni dell'account appropriata per il programma. I programmi a cui l'azienda è iscritta sono visibili nella finestra di spostamento a sinistra del Centro per i partner. Di seguito è riportato un elenco (non esaustivo) dei programmi e della corrispondente opzione delle impostazioni:
+Per gestire le impostazioni dell'account, devi selezionare l'opzione delle impostazioni dell'account appropriata per il programma in questione.  
+
+Di seguito è riportato un elenco parziale dei programmi disponibili e della corrispondente opzione delle impostazioni associata al programma:
 
 |**Nome programma**   |**Opzione impostazioni** |
 |---------------------|:-----------------------|
@@ -55,17 +65,28 @@ Per gestire le impostazioni dell'account, devi selezionare l'opzione delle impos
 
 ## <a name="the-differences-in-partner-and-developer-settings-options"></a>Differenze tra le opzioni di Impostazioni partner e quelle di Impostazioni sviluppatore
 
-**Opzioni delle impostazioni dell'account partner**:
+Le opzioni di **Impostazione partner** saranno diverse da quelle di **Impostazioni sviluppatore**. Di seguito sono riportati alcuni screenshot di esempio per ogni set di opzioni. Se hai accesso ad altri programmi, è possibile che siano visibili anche opzioni diverse da quelle degli screenshot di esempio illustrati.
+
+**Opzioni di Impostazioni partner**:
 
 ![Opzioni partner](images/accountsettings/partneroptions.png)
 
-**Opzioni delle impostazioni dell'account sviluppatore**:
+**Opzioni di Impostazioni sviluppatore**:
 
 ![Opzioni sviluppatore](images/accountsettings/devoptions.png)
 
 ## <a name="enrolling-in-programs"></a>Iscrizione ai programmi
 
-Il Centro per i partner offre numerosi programmi, ognuno dei quali prevede requisiti diversi per l'iscrizione delle aziende. Per informazioni su come iscriversi ai programmi del Centro per i partner, vedi [Partner Network](https://partner.microsoft.com/). 
+Esistono numerosi programmi del Centro per i partner. Ogni programma ha requisiti diversi che la tua azienda deve soddisfare prima di potersi iscrivere a un programma specifico.
+
+Per informazioni sull'iscrizione ad alcuni programmi del Centro per i partner, vedi il seguente elenco parziale:
+
+- [Programma Marketplace commerciale](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Programma MPN](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
+- [Programma CSP](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
+
+Per altre informazioni sull'iscrizione ai programmi del Centro per i partner, vedi anche [Risorse di Partner Network](https://partner.microsoft.com/).
 
 ## <a name="the-account-picker"></a>Selezione account
 
@@ -73,7 +94,9 @@ Puoi far parte di più di un account. Se fai parte di più account, potrai visua
 
 ![Selezione account](images/accountsettings/accountpicker.png)
 
-## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Risorse per la gestione dell'account del Centro per i partner
+## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>Altre risorse per la gestione dell'account del Centro per i partner
+
+Se sei iscritto a programmi come il programma MPN o Cloud Solution Provider (CSP), le risorse seguenti possono esserti utili per la gestione dell'account.
 
 |**Per eseguire questa operazione**   |**Leggi**   |
 |-----------------------|:-----------------------|
@@ -87,22 +110,3 @@ Puoi far parte di più di un account. Se fai parte di più account, potrai visua
 |Essere certo che la tua azienda sia sul mercato in modo che i clienti possono trovarla   |[Creare un profilo business](create-a-marketing-profile.md)|
 |Organizzare il catalogo in modo che i prodotti più importanti siano all'inizio dell'elenco   |[Personalizzare il catalogo](customize-the-catalog.md)|
 |Rimanere aggiornato sui prezzi e sulle offerte correnti   |[Prezzi e offerte](pricing-and-offers.md)|
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-

@@ -1,22 +1,22 @@
 ---
-title: 'Contratto Microsoft Cloud: modelli per i clienti | Centro per i partner'
+title: 'Contratto del cliente Microsoft: modelli per i clienti | Centro per i partner'
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri dove trovare e da dove scaricare le versioni del Contratto Microsoft Cloud specifiche dell'area geografica e della lingua di cui prendere visione con i clienti.
+description: Scopri dove trovare e da dove scaricare le versioni del Contratto del cliente Microsoft specifiche dell'area geografica e della lingua di cui prendere visione con i clienti.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: contratti cloud Microsoft, modelli di contratto cliente, contratti cliente CSP, Contratto Microsoft Cloud, MCA, CSP, dove posso vendere con CSP?, paesi/aree geografiche CSP, MCA CSP in più lingue, CSP per America del Nord, CSP per America centrale, CSP per America del Sud, CSP per Caraibi, CSP per Microsoft Cloud for US Government, Microsoft Cloud CSP per Germania, CSP per Medio Oriente, CSP per Africa, CSP per Europa, CSP per Asia, CSP per Pacifico, MCA CSP
+keywords: contratti del cliente Microsoft, modelli di contratto del cliente, contratti del cliente CSP, Contratto del cliente Microsoft, MCA, CSP, dove posso vendere con CSP?, paesi/aree geografiche CSP, MCA CSP in più lingue, CSP per America del Nord, CSP per America centrale, CSP per America del Sud, CSP per Caraibi, CSP per Microsoft Cloud for US Government, Microsoft Cloud CSP per Germania, CSP per Medio Oriente, CSP per Africa, CSP per Europa, CSP per Asia, CSP per Pacifico, MCA CSP
 ms.localizationpriority: high
-ms.openlocfilehash: a65e9dc0e94fa387631ea289c963d6e0f1bae7dd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 9acf143bdbeeea29c7fc7ec71ca459c57b20e8ca
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722414"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672791"
 ---
-# <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratti Microsoft Cloud per area geografica e lingua
+# <a name="microsoft-customer-agreements-by-region-and-language"></a>Contratti del cliente Microsoft per area geografica e lingua
 
 **Si applica a**
 
@@ -28,21 +28,21 @@ ms.locfileid: "74722414"
 - Amministratore gestione utenti
 - Agente amministratore
 - Agente di vendita
-- Agente help desk
+- Agente di supporto tecnico
 
-Prima di poter effettuare un ordine per conto di un cliente, il cliente deve accettare e firmare il Contratto Microsoft Cloud.
+Prima che tu possa effettuare un ordine per conto di un cliente, il cliente deve accettare e firmare il Contratto del cliente Microsoft.
 
 >[!IMPORTANT]
-> A partire dal 7 novembre 2018, dovrai confermare che un cliente ha accettato il Contratto Microsoft Cloud fornendo informazioni sulla persona che lo ha firmato. Per altre informazioni, vedi [Conferma dell'accettazione del cliente del Contratto Microsoft Cloud](confirm-consent.md).
+> Dovrai confermare che un cliente ha accettato il Contratto del cliente Microsoft fornendo informazioni sulla persona che lo ha firmato. Per altre informazioni, vedi [Confermare l'accettazione del Contratto del cliente Microsoft da parte di un cliente](confirm-consent.md).
 
-I contratti Microsoft Cloud contratti sono specifici dell'area geografica e sono disponibili in più lingue. Trova la posizione e la lingua preferita del cliente in uno degli elenchi riportati di seguito per scaricare il contratto appropriato.
+I Contratti del cliente Microsoft sono specifici dell'area geografica e disponibili in più lingue. Trova la posizione e la lingua preferita del cliente in uno degli elenchi riportati di seguito per scaricare il contratto appropriato.
 
 Se non sei certo delle aree geografiche e dei mercati in cui puoi vendere, trova la posizione in cui si trova la tua azienda in questo elenco: [Mercati e valute delle aree geografiche per il programma Cloud Solution Provider](regional-authorization-overview.md).
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
 > [!NOTE]  
-> The Microsoft Cloud Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
+> The Microsoft Customer Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
 -->
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>America del Nord, America centrale, America del Sud e Caraibi

@@ -1,7 +1,7 @@
 ---
 title: Aggiungere un nuovo cliente | Centro per i partner
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 03/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come aggiungere un nuovo record cliente nel centro per i partner. È quindi possibile vendere le sottoscrizioni dei clienti, gestire la fatturazione o fornire supporto tecnico.
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, aggiungere un cliente, account del cliente, account del cliente nel Centro per i partner, clienti, aggiungere i clienti, creare un account del cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672711"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340080"
 ---
 # <a name="add-a-new-customer"></a>Aggiungere un nuovo cliente 
 
@@ -43,6 +43,15 @@ Prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire support
 1. Selezionare **Customers** dal menu centro partner e quindi selezionare **Aggiungi cliente**.
 
 2. Nella pagina **informazioni account** immettere i dettagli del cliente e le informazioni di contatto principale e verificare che il cliente abbia accettato e firmato il contratto per i [clienti Microsoft](agreements.md)più recente.
+
+>[!NOTE]
+>
+>Per garantire l'accuratezza durante verifica del cliente, assicurarsi di:
+>- Usa il nome legale/ufficiale esatto come appare nei documenti ufficiali
+>- Evitare l'uso di acronimi o forme brevi
+>- Non usare nomi di test
+>- Fornire l'indirizzo esatto completo (Dettagli località, città, stato, paese e CAP/CAP)
+
 
 >[!IMPORTANT] 
 > Il 1° ottobre 2019 Microsoft ha introdotto il **contratto del cliente Microsoft** nel programma CSP in sostituzione del Contratto Microsoft Cloud. Leggi il [contratto per i clienti Microsoft e come confermare il consenso](confirm-customer-agreement.md)

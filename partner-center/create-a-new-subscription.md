@@ -11,17 +11,17 @@ ms.author: labrenne
 Keywords: sottoscrizione, crea nuovo, Aggiungi sottoscrizione, Sospendi, Annulla, sospensione, Sospendi, SaaS, licenza, ISV, terze parti
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721714"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340150"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
 **Si applica a**
 
--  Centro per i partner
+-  Partner Center
 -  Centro per i partner per Microsoft Cloud for US Government
 -  Partner CSP
 
@@ -150,9 +150,9 @@ Per arrestare una sottoscrizione del Marketplace commerciale attiva dal rinnovo 
 
 5. Nella pagina Dettagli sottoscrizione individuare la sezione **stato** e deselezionare la casella **rinnovo automatico** . 
 
-6. Seleziona **Invia**.
+6. Selezionare **Submit**.
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
 - [Acquistare prodotti Marketplace commerciali per i clienti](csp-commercial-marketplace-purchase.md)
 - [Gestione dei prodotti del Marketplace commerciale per i clienti](csp-commercial-marketplace-manage.md)

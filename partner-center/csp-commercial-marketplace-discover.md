@@ -10,17 +10,17 @@ ms.author: v-mihope
 keywords: sottoscrizioni, Marketplace, Marketplace commerciale, terze parti, ISV, offerte SaaS, programma Cloud Solution Provider, programma CSP, partner CSP
 ms.localizationpriority: medium
 ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253719"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340149"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Scopri le offerte e i prezzi nel Marketplace commerciale
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 - Partner aderenti al programma CSP
 
 **Ruoli appropriati**

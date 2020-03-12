@@ -6,38 +6,37 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Come segnalare i problemi relativi al Centro per i partner e raccogliere informazioni di diagnostica per il nostro team di supporto.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
-author: MaggiePucciEvans
-ms.author: evansma
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1542813229c062e298e40a4874543774796ec2da
+ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651719"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "79023473"
 ---
 # <a name="report-problems-with-partner-center"></a>Segnalare i problemi relativi al Centro per i partner
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 - Centro per i partner per Microsoft Cloud for US Government
 
 
-Se si riscontrano problemi con il centro per i partner, è possibile contattare il supporto del centro per i partner, inclusi i bug, le rotture dei servizi o altre aree, ad esempio report, fatturazione, API o sottoscrizioni
-
+Se si riscontrano problemi o si necessita di assistenza per il centro per i partner, contattare il supporto tecnico.
 
 **Segnalare un problema con il centro per i partner**
 
 1. Dal dashboard del centro per i **partner** selezionare **supporto** e quindi selezionare richieste di supporto per i **partner**.
 
-2. Selezionare **nuova richiesta** e quindi selezionare il tipo di problema appropriato dalle opzioni visualizzate.
+2. Selezionare **nuova richiesta** e quindi cercare il tipo di problema che meglio descrive il problema. Selezionare il tipo di problema ed **esaminare le soluzioni**.
 
 3. Esaminare la pagina **soluzioni consigliate** per i passaggi o i documenti correlati che possono aiutare a risolvere il problema.
 
-4. Sono necessarie altre informazioni? Selezionare **No** se le soluzioni consigliate hanno risolto il problema. Selezionare **Sì** se è necessario inviare una nuova richiesta di supporto.
+4. Se le **soluzioni consigliate** hanno risolto il problema, è possibile selezionare **Torna al dashboard**. Se è ancora necessaria assistenza, è possibile continuare e **fornire i dettagli del problema**.
 
-5. Se si seleziona **Sì**, completare il modulo di richiesta della pagina **Dettagli** . Quindi selezionare **Invia**. Un rappresentante del Supporto per i partner ti contatterà.
+5. Completare i **Dettagli del problema** e quindi **inviare**. Un rappresentante del supporto tecnico partner ti seguirà...
 
 **Invia diagnostica**
 
@@ -52,7 +51,7 @@ Se si verifica un errore mentre si è in una pagina del centro per i partner, è
 
 Puoi visualizzare in anteprima le informazioni di diagnostica e salvarle in un file che è possibile allegare alla richiesta di supporto. Per inviare le informazioni:
 
-3. Esamina le informazioni nel file prima di inviarlo perché può contenere informazioni personali che puoi decidere di rimuovere. 
+3. Esaminare le informazioni nel file prima di inviarlo perché può contenere informazioni personali che puoi decidere di rimuovere. 
 
     >[!NOTE]
     >In alcuni browser, la sezione **di visualizzazione della pagina** nella parte inferiore della pagina di **anteprima** può sembrare vuota. Non si tratta di un errore.

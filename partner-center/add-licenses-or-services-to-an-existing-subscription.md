@@ -4,40 +4,40 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come aggiornare o modificare la sottoscrizione di un cliente, ad esempio l'aggiunta di altre licenze o postazioni o il passaggio a una versione diversa con altri servizi.
+description: Descrive come aggiornare o modificare una sottoscrizione del cliente, ad esempio aggiungendo più licenze o postazioni o passando a una versione con servizi differenti.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: aggiungere licenze a una sottoscrizione esistente, aggiungere postazioni a una sottoscrizione esistente, modificare una sottoscrizione, cambiare una sottoscrizione, acquistare ulteriori licenze per un cliente
-ms.localizationpriority: medium
-ms.openlocfilehash: ead019e0e2619c045cc5330c11dfcb3933092834
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: c1f2e523c325356959e9b89d2d7082ee9a6cb95c
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721757"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340069"
 ---
-# <a name="add-licenses-or-services-to-an-existing-subscription"></a><span data-ttu-id="cef17-104">Aggiungere licenze o servizi a una sottoscrizione esistente</span><span class="sxs-lookup"><span data-stu-id="cef17-104">Add licenses or services to an existing subscription</span></span>
+# <a name="add-licenses-or-services-to-an-existing-subscription"></a><span data-ttu-id="ed456-104">Aggiungere licenze o servizi a una sottoscrizione esistente</span><span class="sxs-lookup"><span data-stu-id="ed456-104">Add licenses or services to an existing subscription</span></span>
 
-<span data-ttu-id="cef17-105">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="cef17-105">**Applies to**</span></span>
+<span data-ttu-id="ed456-105">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="ed456-105">**Applies to**</span></span>
 
-- <span data-ttu-id="cef17-106">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="cef17-106">Partner Center</span></span>
-- <span data-ttu-id="cef17-107">Partner del programma Cloud Solution Provider</span><span class="sxs-lookup"><span data-stu-id="cef17-107">Cloud Solution Provider program partners</span></span>
+- <span data-ttu-id="ed456-106">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="ed456-106">Partner Center</span></span>
+- <span data-ttu-id="ed456-107">Partner del programma Cloud Solution Provider</span><span class="sxs-lookup"><span data-stu-id="ed456-107">Cloud Solution Provider program partners</span></span>
 
-<span data-ttu-id="cef17-108">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="cef17-108">**Appropriate roles**</span></span>
+<span data-ttu-id="ed456-108">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="ed456-108">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="cef17-109">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="cef17-109">Global admin</span></span>
-- <span data-ttu-id="cef17-110">Amministratore gestione utenti</span><span class="sxs-lookup"><span data-stu-id="cef17-110">User management admin</span></span>
-- <span data-ttu-id="cef17-111">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="cef17-111">Admin agent</span></span>
-- <span data-ttu-id="cef17-112">Agente di vendita</span><span class="sxs-lookup"><span data-stu-id="cef17-112">Sales agent</span></span>
-- <span data-ttu-id="cef17-113">Agente help desk</span><span class="sxs-lookup"><span data-stu-id="cef17-113">Helpdesk agent</span></span>
+- <span data-ttu-id="ed456-109">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="ed456-109">Global admin</span></span>
+- <span data-ttu-id="ed456-110">Amministratore gestione utenti</span><span class="sxs-lookup"><span data-stu-id="ed456-110">User management admin</span></span>
+- <span data-ttu-id="ed456-111">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="ed456-111">Admin agent</span></span>
+- <span data-ttu-id="ed456-112">Agente di vendita</span><span class="sxs-lookup"><span data-stu-id="ed456-112">Sales agent</span></span>
+- <span data-ttu-id="ed456-113">Agente di supporto tecnico</span><span class="sxs-lookup"><span data-stu-id="ed456-113">Helpdesk agent</span></span>
 
-<span data-ttu-id="cef17-114">Se il cliente necessita di più postazioni rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="cef17-114">If your customer needs more seats than their current subscription provided, or a different version with additional services, you may be able to upgrade the subscription.</span></span> <span data-ttu-id="cef17-115">Per altri dettagli, vedi [Passare a un piano di Office 365 per le aziende diverso](https://go.microsoft.com/fwlink/p/?LinkId=723577).</span><span class="sxs-lookup"><span data-stu-id="cef17-115">For more details, see [Switch to a different Office 365 for Business plan](https://go.microsoft.com/fwlink/p/?LinkId=723577).</span></span>
+<span data-ttu-id="ed456-114">Se il cliente necessita di più postazioni rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="ed456-114">If your customer needs more seats than their current subscription provided, or a different version with additional services, you may be able to upgrade the subscription.</span></span> <span data-ttu-id="ed456-115">Per altri dettagli, vedi [Passare a un piano di Office 365 per le aziende diverso](https://go.microsoft.com/fwlink/p/?LinkId=723577).</span><span class="sxs-lookup"><span data-stu-id="ed456-115">For more details, see [Switch to a different Office 365 for Business plan](https://go.microsoft.com/fwlink/p/?LinkId=723577).</span></span>
 
 ## <a href="" id="upgradesubscription"></a>
 
 
-<span data-ttu-id="cef17-116">In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:</span><span class="sxs-lookup"><span data-stu-id="cef17-116">The following upgrades are supported in Cloud Solution Provider:</span></span>
+<span data-ttu-id="ed456-116">In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:</span><span class="sxs-lookup"><span data-stu-id="ed456-116">The following upgrades are supported in Cloud Solution Provider:</span></span>
 
 <table>
 <colgroup>
@@ -46,63 +46,63 @@ ms.locfileid: "74721757"
 </colgroup>
 <thead>
 <tr class="header">
-<th><span data-ttu-id="cef17-117">Offerta</span><span class="sxs-lookup"><span data-stu-id="cef17-117">Offer</span></span></th>
-<th><span data-ttu-id="cef17-118">Aggiornamenti possibili</span><span class="sxs-lookup"><span data-stu-id="cef17-118">Possible upgrades</span></span></th>
+<th><span data-ttu-id="ed456-117">Offerta</span><span class="sxs-lookup"><span data-stu-id="ed456-117">Offer</span></span></th>
+<th><span data-ttu-id="ed456-118">Aggiornamenti possibili</span><span class="sxs-lookup"><span data-stu-id="ed456-118">Possible upgrades</span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><span data-ttu-id="cef17-119">Office 365 business</span><span class="sxs-lookup"><span data-stu-id="cef17-119">Office 365 Business</span></span></td>
+<td><span data-ttu-id="ed456-119">Office 365 Business</span><span class="sxs-lookup"><span data-stu-id="ed456-119">Office 365 Business</span></span></td>
 <td><ul>
-<li><span data-ttu-id="cef17-120">Office 365 Business Premium¹</span><span class="sxs-lookup"><span data-stu-id="cef17-120">Office 365 Business Premium¹</span></span></li>
-<li><span data-ttu-id="cef17-121">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="cef17-121">Office 365 ProPlus</span></span></li>
-<li><span data-ttu-id="cef17-122">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="cef17-122">Office 365 Enterprise E3</span></span></li>
-<li><span data-ttu-id="cef17-123">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="cef17-123">Office 365 Enterprise E5</span></span></li>
+<li><span data-ttu-id="ed456-120">Office 365 Business Premium¹</span><span class="sxs-lookup"><span data-stu-id="ed456-120">Office 365 Business Premium¹</span></span></li>
+<li><span data-ttu-id="ed456-121">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="ed456-121">Office 365 ProPlus</span></span></li>
+<li><span data-ttu-id="ed456-122">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="ed456-122">Office 365 Enterprise E3</span></span></li>
+<li><span data-ttu-id="ed456-123">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="ed456-123">Office 365 Enterprise E5</span></span></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="cef17-124">Office 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="cef17-124">Office 365 Business Premium</span></span></td>
+<td><span data-ttu-id="ed456-124">Office 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="ed456-124">Office 365 Business Premium</span></span></td>
 <td><ul>
-<li><span data-ttu-id="cef17-125">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="cef17-125">Office 365 Enterprise E3</span></span></li>
-<li><span data-ttu-id="cef17-126">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="cef17-126">Office 365 Enterprise E5</span></span></li>
+<li><span data-ttu-id="ed456-125">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="ed456-125">Office 365 Enterprise E3</span></span></li>
+<li><span data-ttu-id="ed456-126">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="ed456-126">Office 365 Enterprise E5</span></span></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="cef17-127">Office 365 Business Essentials</span><span class="sxs-lookup"><span data-stu-id="cef17-127">Office 365 Business Essentials</span></span></td>
+<td><span data-ttu-id="ed456-127">Office 365 Business Essentials</span><span class="sxs-lookup"><span data-stu-id="ed456-127">Office 365 Business Essentials</span></span></td>
 <td><ul>
-<li><span data-ttu-id="cef17-128">Office 365 Business Premium¹</span><span class="sxs-lookup"><span data-stu-id="cef17-128">Office 365 Business Premium¹</span></span></li>
-<li><span data-ttu-id="cef17-129">Office 365 Enterprise E1</span><span class="sxs-lookup"><span data-stu-id="cef17-129">Office 365 Enterprise E1</span></span></li>
-<li><span data-ttu-id="cef17-130">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="cef17-130">Office 365 Enterprise E3</span></span></li>
-<li><span data-ttu-id="cef17-131">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="cef17-131">Office 365 Enterprise E5</span></span></li>
+<li><span data-ttu-id="ed456-128">Office 365 Business Premium¹</span><span class="sxs-lookup"><span data-stu-id="ed456-128">Office 365 Business Premium¹</span></span></li>
+<li><span data-ttu-id="ed456-129">Office 365 Enterprise E1</span><span class="sxs-lookup"><span data-stu-id="ed456-129">Office 365 Enterprise E1</span></span></li>
+<li><span data-ttu-id="ed456-130">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="ed456-130">Office 365 Enterprise E3</span></span></li>
+<li><span data-ttu-id="ed456-131">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="ed456-131">Office 365 Enterprise E5</span></span></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span data-ttu-id="cef17-132">¹ Office 365 Business India e Office 365 Business Essentials India possono essere aggiornati a Office 365 Business Premium India, non a Office 365 Business Premium.</span><span class="sxs-lookup"><span data-stu-id="cef17-132">¹ Office 365 Business India and Office 365 Business Essentials India can be upgraded to Office 365 Business Premium India, not to Office 365 Business Premium.</span></span></p></td>
+<td><p><span data-ttu-id="ed456-132">¹ Office 365 Business India e Office 365 Business Essentials India possono essere aggiornati a Office 365 Business Premium India, non a Office 365 Business Premium.</span><span class="sxs-lookup"><span data-stu-id="ed456-132">¹ Office 365 Business India and Office 365 Business Essentials India can be upgraded to Office 365 Business Premium India, not to Office 365 Business Premium.</span></span></p></td>
 </tr>
 </tbody>
 </table>
 
-<span data-ttu-id="cef17-133">Le sottoscrizioni possono essere aggiornate se sono soddisfatte queste condizioni:</span><span class="sxs-lookup"><span data-stu-id="cef17-133">Subscriptions can be upgraded if these conditions apply:</span></span>
+<span data-ttu-id="ed456-133">Le sottoscrizioni possono essere aggiornate se sono soddisfatte queste condizioni:</span><span class="sxs-lookup"><span data-stu-id="ed456-133">Subscriptions can be upgraded if these conditions apply:</span></span>
 
--   <span data-ttu-id="cef17-134">La sottoscrizione deve essere attiva e non sospesa o annullata.</span><span class="sxs-lookup"><span data-stu-id="cef17-134">The subscription must be active (not suspended or cancelled).</span></span>
+-   <span data-ttu-id="ed456-134">La sottoscrizione deve essere attiva e non sospesa o annullata.</span><span class="sxs-lookup"><span data-stu-id="ed456-134">The subscription must be active (not suspended or cancelled).</span></span>
 
--   <span data-ttu-id="cef17-135">Devi disporre di privilegi di amministratore delegato per il cliente e per il servizio.</span><span class="sxs-lookup"><span data-stu-id="cef17-135">You must have delegated admin privileges for this customer and service.</span></span> <span data-ttu-id="cef17-136">Scopri come [richiedere i privilegi di amministratore delegato](request-a-relationship-with-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="cef17-136">Learn how to [Request delegated admin privileges](request-a-relationship-with-a-customer.md).</span></span>
+-   <span data-ttu-id="ed456-135">Devi disporre di privilegi di amministratore delegato per il cliente e per il servizio.</span><span class="sxs-lookup"><span data-stu-id="ed456-135">You must have delegated admin privileges for this customer and service.</span></span> <span data-ttu-id="ed456-136">Scopri come [richiedere i privilegi di amministratore delegato](request-a-relationship-with-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="ed456-136">Learn how to [Request delegated admin privileges](request-a-relationship-with-a-customer.md).</span></span>
 
--   <span data-ttu-id="cef17-137">Il cliente non può già avere sottoscrizioni che includono i servizi aggiuntivi.</span><span class="sxs-lookup"><span data-stu-id="cef17-137">The customer can't already have subscriptions that include the additional services.</span></span>
+-   <span data-ttu-id="ed456-137">Il cliente non può avere già sottoscrizioni che includono i servizi aggiuntivi.</span><span class="sxs-lookup"><span data-stu-id="ed456-137">The customer can't already have subscriptions that include the additional services.</span></span>
 
--   <span data-ttu-id="cef17-138">Il cliente non può avere già le sottoscrizioni a cui si sta provando a eseguire l'aggiornamento.</span><span class="sxs-lookup"><span data-stu-id="cef17-138">The customer can't already have the subscriptions you are trying to upgrade them to.</span></span>
+-   <span data-ttu-id="ed456-138">Il cliente non può avere già le sottoscrizioni a cui stai cercando di eseguire l'aggiornamento.</span><span class="sxs-lookup"><span data-stu-id="ed456-138">The customer can't already have the subscriptions you are trying to upgrade them to.</span></span>
 
-<span data-ttu-id="cef17-139">Negli ultimi due casi è possibile che il cliente abbia acquistato tali sottoscrizioni o servizi da un altro partner o da un altro canale e non sarà in grado di acquistarli da parte dell'utente, a meno che non vengano annullati prima quelli esistenti.</span><span class="sxs-lookup"><span data-stu-id="cef17-139">It is possible, in the latter two cases that the customer may have purchased those subscriptions or services from another partner or another channel, and they won't be able to purchase them from you unless they cancel their existing ones first.</span></span> <span data-ttu-id="cef17-140">Per altre informazioni, vedi [multicanale](multichannel.md).</span><span class="sxs-lookup"><span data-stu-id="cef17-140">For more information, see [multi-channel](multichannel.md).</span></span>
+<span data-ttu-id="ed456-139">È possibile, negli ultimi due casi, che il cliente abbia acquistato le sottoscrizioni o i servizi da un altro partner o un altro canale e non potrà acquistarli da te, a meno che prima non annulli quelli esistenti.</span><span class="sxs-lookup"><span data-stu-id="ed456-139">It is possible, in the latter two cases that the customer may have purchased those subscriptions or services from another partner or another channel, and they won't be able to purchase them from you unless they cancel their existing ones first.</span></span> <span data-ttu-id="ed456-140">Per altre informazioni, vedi [multicanale](multichannel.md).</span><span class="sxs-lookup"><span data-stu-id="ed456-140">For more information, see [multi-channel](multichannel.md).</span></span>
 
-<span data-ttu-id="cef17-141">Per altre informazioni sull'impatto di queste operazioni sulla fatturazione, vedi i dettagli relativi all'annullamento di una sottoscrizione e all'aggiunta di una nuova sottoscrizione in [Scenari di fatturazione comuni](common-billing-scenarios.md).</span><span class="sxs-lookup"><span data-stu-id="cef17-141">For more information about the impact this will have on billing, see the details about cancelling a subscription and adding a new subscription in [Common billing scenarios](common-billing-scenarios.md).</span></span>
+<span data-ttu-id="ed456-141">Per altre informazioni sull'impatto di queste operazioni sulla fatturazione, vedi i dettagli relativi all'annullamento di una sottoscrizione e all'aggiunta di una nuova sottoscrizione in [Scenari di fatturazione comuni](common-billing-scenarios.md).</span><span class="sxs-lookup"><span data-stu-id="ed456-141">For more information about the impact this will have on billing, see the details about cancelling a subscription and adding a new subscription in [Common billing scenarios](common-billing-scenarios.md).</span></span>
 
-<span data-ttu-id="cef17-142">**Aggiornare una sottoscrizione**</span><span class="sxs-lookup"><span data-stu-id="cef17-142">**Upgrade a subscription**</span></span>
+<span data-ttu-id="ed456-142">**Aggiornare una sottoscrizione**</span><span class="sxs-lookup"><span data-stu-id="ed456-142">**Upgrade a subscription**</span></span>
 
-1.  <span data-ttu-id="cef17-143">Per verificare se una sottoscrizione è idonea per l'aggiornamento, scegli il cliente e quindi apri l'elenco delle sottoscrizioni.</span><span class="sxs-lookup"><span data-stu-id="cef17-143">To see if a subscription is eligible for upgrading, choose your customer, then open their list of subscriptions.</span></span>
-2.  <span data-ttu-id="cef17-144">Se la sottoscrizione può essere aggiornata, vedrai un'icona delle informazioni subito dopo il nome della sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="cef17-144">If the subscription can be upgraded, you will see an informational icon right after the subscription name.</span></span> <span data-ttu-id="cef17-145">Passa il puntatore su questa icona e quindi seleziona **Aggiorna ora**.</span><span class="sxs-lookup"><span data-stu-id="cef17-145">Hover over this icon, then select **Upgrade now**.</span></span>
-3.  <span data-ttu-id="cef17-146">Seleziona la nuova offerta e quindi scegli **Invia**.</span><span class="sxs-lookup"><span data-stu-id="cef17-146">Select the new offer, then choose **Submit**.</span></span>
-4.  <span data-ttu-id="cef17-147">Potrebbero essere necessarie altre operazioni per la transizione di alcuni account utente per determinati servizi.</span><span class="sxs-lookup"><span data-stu-id="cef17-147">There may be additional work to transition some user accounts for certain services.</span></span> <span data-ttu-id="cef17-148">In tal caso, il centro per i partner fornisce un elenco di account e servizi interessati.</span><span class="sxs-lookup"><span data-stu-id="cef17-148">If so, the Partner Center provides a list of accounts and services that were affected.</span></span> <span data-ttu-id="cef17-149">Per informazioni, vedi l'articolo della Knowledge Base relativo ai [problemi di riassegnazione delle licenze quando si modifica il piano di Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).</span><span class="sxs-lookup"><span data-stu-id="cef17-149">For help, see the knowledge base article [Problems in reassigning licenses while you switch plans in Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).</span></span>
+1.  <span data-ttu-id="ed456-143">Per verificare se una sottoscrizione è idonea per l'aggiornamento, scegli il cliente e quindi apri l'elenco delle sottoscrizioni.</span><span class="sxs-lookup"><span data-stu-id="ed456-143">To see if a subscription is eligible for upgrading, choose your customer, then open their list of subscriptions.</span></span>
+2.  <span data-ttu-id="ed456-144">Se la sottoscrizione può essere aggiornata, vedrai un'icona delle informazioni subito dopo il nome della sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="ed456-144">If the subscription can be upgraded, you will see an informational icon right after the subscription name.</span></span> <span data-ttu-id="ed456-145">Passa il puntatore su questa icona e quindi seleziona **Aggiorna ora**.</span><span class="sxs-lookup"><span data-stu-id="ed456-145">Hover over this icon, then select **Upgrade now**.</span></span>
+3.  <span data-ttu-id="ed456-146">Seleziona la nuova offerta e quindi scegli **Invia**.</span><span class="sxs-lookup"><span data-stu-id="ed456-146">Select the new offer, then choose **Submit**.</span></span>
+4.  <span data-ttu-id="ed456-147">Potrebbero essere necessarie altre operazioni per la transizione di alcuni account utente per determinati servizi.</span><span class="sxs-lookup"><span data-stu-id="ed456-147">There may be additional work to transition some user accounts for certain services.</span></span> <span data-ttu-id="ed456-148">In tal caso, nel Centro per i partner viene fornito un elenco di account e servizi interessati.</span><span class="sxs-lookup"><span data-stu-id="ed456-148">If so, the Partner Center provides a list of accounts and services that were affected.</span></span> <span data-ttu-id="ed456-149">Per informazioni, vedi l'articolo della Knowledge Base relativo ai [problemi di riassegnazione delle licenze quando si modifica il piano di Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).</span><span class="sxs-lookup"><span data-stu-id="ed456-149">For help, see the knowledge base article [Problems in reassigning licenses while you switch plans in Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).</span></span>
 
  
 

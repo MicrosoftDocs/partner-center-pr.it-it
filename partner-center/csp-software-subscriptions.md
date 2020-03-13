@@ -1,40 +1,40 @@
 ---
-title: Vendere sottoscrizioni di software tramite CSP | Centro per i partner
+title: Vendere abbonamenti software tramite CSP | Centro per i partner
 ms.topic: article
 ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri in che modo i partner del programma CSP possono usare il centro per i partner per acquistare, gestire, vendere e annullare le istanze riservate di Azure e le sottoscrizioni server per i clienti.
+description: Scopri in che modo i partner del programma CSP possono usare il Centro per i partner per acquistare, gestire, vendere e annullare istanze riservate di Azure e abbonamenti server per i clienti.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Azure RI, Windows Server, SQL Server, sottoscrizioni software, Annulla software
-ms.localizationpriority: medium
+keywords: Cloud Solution Provider, CSP, servizi basati sul cloud, Azure, istanze riservate di Azure, Windows Server, SQL Server, abbonamenti software, annullare software
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 0ba3f32615fe02d843123180e4cb34176b28e09c
-ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
-ms.translationtype: MT
+ms.openlocfilehash: 1a68ec75b77f927ce162b7f5f19e3a96ca0e6f43
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76812653"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78339999"
 ---
-# <a name="sell-software-subscriptions-through-csp"></a>Vendere sottoscrizioni di software tramite CSP
+# <a name="sell-software-subscriptions-through-csp"></a>Vendere abbonamenti software tramite CSP
 
 **Si applica a**
 
-- Provider di soluzioni cloud
+- Cloud Solution Provider
 
 **Ruoli appropriati**
 
 - Agente amministratore
 - Amministratore globale
 
-Con le prenotazioni di Azure e le sottoscrizioni di server (Windows Server e sottoscrizioni SQL Server), i partner del programma CSP possono risolvere meglio la richiesta dei clienti in rapida crescita per soluzioni più convenienti per supportare il supporto estremamente prevedibile e persistente carichi di lavoro cloud. 
+Con le prenotazioni di Azure e gli abbonamenti server (Windows Server e SQL Server), i partner del programma CSP possono far fronte alla richiesta in rapida crescita da parte dei clienti di soluzioni più convenienti, in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. 
 
-È ora possibile acquisire, effettuare il provisioning e gestire le prenotazioni di Azure e le sottoscrizioni server per conto dei clienti commerciali tramite il centro per i partner e il portale di Azure sfruttando il Vantaggio Azure Hybrid.
+Adesso puoi effettuare l'acquisizione, il provisioning e la gestione di prenotazioni di Azure e abbonamenti server per conto di clienti commerciali tramite il Centro per i partner e il portale di Azure sfruttando Vantaggio Azure Hybrid.
 
-Vantaggio Azure Hybrid ti consente di ottenere più valore dalle licenze di Windows Server e risparmiare fino al 40% sulle macchine virtuali. Puoi utilizzare il vantaggio con Windows Server Datacenter e licenze Standard Edition con copertura Software Assurance. A seconda dell'edizione, è possibile convertire o riutilizzare le licenze per eseguire macchine virtuali Windows Server in Azure e pagare una tariffa di calcolo di base inferiore (tariffe delle macchine virtuali Linux, ad esempio).
+Vantaggio Azure Hybrid ti consente di ottenere un valore aggiunto dalle licenze di Windows Server e di risparmiare fino al 40% sulle macchine virtuali. Puoi usare il vantaggio con le licenze per le edizioni Windows Server Datacenter e Standard con copertura Software Assurance. A seconda dell'edizione, puoi convertire o riusare le tue licenze per eseguire macchine virtuali di Windows Server in Azure e pagare un costo di calcolo di base inferiore (ad esempio i costi delle macchine virtuali Linux).
 
-## <a name="azure-reservations-unavailable-markets"></a>Riserve di Azure per i mercati non disponibili
+## <a name="azure-reservations-unavailable-markets"></a>Mercati non disponibili per prenotazioni di Azure
 
 >[!IMPORTANT] 
 >Le prenotazioni di Azure *non sono* disponibili nei mercati seguenti:  
@@ -45,10 +45,10 @@ Vantaggio Azure Hybrid ti consente di ottenere più valore dalle licenze di Wind
 > | Samoa Americane     | Grenada     | Isole Pitcairn     |
 > | Andorra     | Guadalupa     | Riunione     |
 > | Anguilla     | Guam     | Saba   |
-> | Antartide     | Guernsey     | Saint-Barthélemy   |
+> | Antartide     | Guernsey     | Saint Barthélemy   |
 > | Antigua e Barbuda       | Guinea     | Saint Lucia   |
 > | Aruba       | Guinea-Bissau     | Saint Martin   |
-> | Azerbaigian       | Guyana     | Saint-Pierre e Miquelon   |
+> | Azerbaigian       | Guyana     | Saint Pierre e Miquelon   |
 > | Benin     | Haiti       | Saint Vincent e Grenadine     |
 > | Bhutan     | Heard e McDonald       | Samoa     |
 > | Bonaire     | Isola di Man     | San Marino     |
@@ -57,9 +57,9 @@ Vantaggio Azure Hybrid ti consente di ottenere più valore dalle licenze di Wind
 > | Isole Vergini Britanniche     | Kiribati       | Sierra Leone   |
 > | Burkina Faso     | Kosovo     | Sint Eustatius     |
 > | Burundi     | Laos     | Sint Maarten     |
-> | Cambogia     | Lesoto     | Isole Salomone     |
+> | Cambogia     | Lesotho     | Isole Salomone     |
 > | Repubblica Centrafricana     | Liberia     | Somalia     |
-> | Ciad     | Madagascar     | Georgia del sud e Sandwich Australi     |
+> | Ciad     | Madagascar     | Georgia del Sud e Isole Sandwich Australi     |
 > | Cina     | Malawi     | Sud Sudan     |
 > | Isola Christmas     | Maldive     | Sant'Elena, Ascensione, Tristan da Cunha     |
 > | Isole Cocos (Keeling)     | Mali     | Suriname     |
@@ -70,141 +70,141 @@ Vantaggio Azure Hybrid ti consente di ottenere più valore dalle licenze di Wind
 > | Gibuti     | Micronesia     | Tokelau   |
 > | Dominica     | Montserrat     | Tonga   |
 > | Guinea Equatoriale     | Mozambico     | Turks e Caicos, Isole   |
-> | Eritrea     | Birmano     | Tuvalu   |
-> | Isole Falkland     | Nauru     | Altre isole americane del Pacifico   |
+> | Eritrea     | Myanmar     | Tuvalu   |
+> | Isole Falkland     | Nauru     | Stati Uniti Altre isole americane del Pacifico   |
 > | Guayana Francese     | Nuova Caledonia     | Vanuatu   |
 > | Polinesia Francese     | Niger     | Città del Vaticano   |
 > | Terre australi francesi     | Niue     | Wallis e Futuna   |
 > | Gabon     | Norfolk     | Yemen   |
-> | Gambia     | Isole Marianne settentrionali     |    |
+> | Gambia     | Marianne Settentrionali     |    |
 > | Gibilterra     | Palau       |    |
 <!--Nov 30, 2019 - this list of countries was correct as of today.
 -->
 
-## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Acquistare sottoscrizioni di software per conto dei clienti
+## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Acquistare abbonamenti software per conto dei clienti
 
-Per acquistare sottoscrizioni software per conto di un cliente:
+Per acquistare abbonamenti software per conto di un cliente:
 
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
-3. Dalla pagina dei dettagli del cliente selezionare **Aggiungi prodotti**e quindi seguire le istruzioni visualizzate per creare e pagare l'ordine. Tutti i prezzi commerciali escludono le imposte ad eccezione dell'Australia e del Brasile. Per l'Australia e il Brasile, il prezzo include le imposte.
+3. Nella pagina dei dettagli del cliente seleziona **Add products** (Aggiungi prodotti) e quindi segui le istruzioni visualizzate per creare e pagare un ordine. Tutti i prezzi commerciali sono al netto delle imposte a eccezione dell'Australia e del Brasile. Per l'Australia e il Brasile, il prezzo include le imposte.
 
-## <a name="activate-and-manage-software-subscriptions"></a>Attivare e gestire sottoscrizioni di software
+## <a name="activate-and-manage-software-subscriptions"></a>Attivare e gestire abbonamenti software
 
-Dopo aver acquistato l'abbonamento software, attenersi alla procedura seguente per scaricarlo.
+Dopo aver acquistato l'abbonamento software, segui questa procedura per scaricarlo.
 
 >[!NOTE]
->È necessario essere un agente di amministrazione per scaricare il software e ottenere le chiavi di attivazione.
+>Può scaricare il software e ottenere le chiavi di attivazione solo un agente amministratore.
 
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
-3. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Verrà visualizzato un elenco di tutto il software acquistato per conto del cliente. 
+3. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Vedrai un elenco di tutto il software che hai acquistato per conto del cliente. 
 
-4. Espandi il prodotto che desideri scaricare. Nel campo **Selezionare prodotto** seleziona la **versione**, la **lingua** e il **tipo di file/sistema operativo** che desideri. 
+4. Espandi il prodotto che vuoi scaricare. Nel campo **Select product** (Seleziona prodotto) seleziona i valori di **Version** (Versione), **Lingua** e **File type/OS** (Tipo di file/sistema operativo) desiderati. 
 
 5. Seleziona **Invia** per visualizzare i prodotti specifici. 
 
 6. Seleziona **Scarica chiavi e download**. 
 
-7. Seleziona **Download** per avviare il download o selezionare **Copia collegamento** per copiare il collegamento e inviarlo al cliente. 
+7. Seleziona **Download** per avviare il download o **Copia collegamento** per copiare il collegamento e inviarlo al cliente. 
 
 >[!NOTE]
->Questo collegamento scadrà dopo due settimane o download 50, a seconda dell'evento che si verificherà per primo. Una volta scaduto il collegamento, torna a questa pagina e seleziona **Scarica chiavi e download** nuovamente per consentire altre due settimane o 50 download. Puoi eseguire questa operazione ogni volta che ne avrai bisogno. 
+>Questo collegamento scadrà dopo due settimane o 50 download, a seconda dell'evento che si verificherà per primo. Una volta scaduto il collegamento, torna a questa pagina e seleziona di nuovo **Scarica chiavi e download** per attivare altre due settimane o 50 download. Puoi eseguire questa operazione ogni volta che ne avrai bisogno. 
 
-## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visualizzare l'attività per l'accesso alla chiave software e i download del software
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visualizzare l'attività per l'accesso alle chiavi e ai download del software
 
-A scopo di controllo o di conformità, potrebbe essere necessario controllare un elenco di utenti che hanno eseguito l'accesso alle chiavi software di sottoscrizione server o al software di sottoscrizione server scaricato. Per accedere a queste informazioni, attenersi alla procedura riportata di seguito. 
+A scopo di controllo o di conformità, potrebbe essere necessario controllare un elenco di utenti che hanno eseguito l'accesso alle chiavi del software di abbonamento server o al software di abbonamento server scaricato. Per accedere a queste informazioni, segui questa procedura. 
 
 >[!NOTE]
->Per visualizzare questi log attività, è necessario essere un amministratore globale, un amministratore dell'account, un amministratore di riferimento o un amministratore di contenuti di marketing. 
+>Possono visualizzare questi log attività gli amministratori globali, gli amministratori degli account, gli amministratori delle segnalazioni o gli amministratori di contenuti di marketing. 
 
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
-2. Selezionare l'icona dell'ingranaggio nell'angolo superiore destro.
+2. Seleziona l'icona dell'ingranaggio nell'angolo superiore destro.
 
-3. Nel menu selezionare **log attività**.
+3. Scegli **Activity log** (Log attività) dal menu.
 
-4. Immettere l'intervallo di date per l'attività che si desidera visualizzare. Nel log attività viene visualizzato un elenco di utenti che hanno eseguito l'accesso alle chiavi software o hanno scaricato il software nel periodo specificato. 
+4. Immetti l'intervallo di date per l'attività che vuoi visualizzare. Nel log attività viene visualizzato un elenco di utenti che hanno eseguito l'accesso alle chiavi del software o che hanno scaricato il software nel periodo specificato. 
 
 ## <a name="cancel-a-purchase"></a>Annullare un acquisto
 
-È possibile annullare l'acquisto di un software entro 60 giorni dalla data di acquisto. Se si annulla l'operazione entro il primo periodo di 60 giorni, non verrà addebitato alcun costo per la terminazione anticipata. Dopo 60 giorni, non è più possibile annullare un acquisto. (Vedere la nota per le restrizioni chiave per questa regola di annullamento. Per informazioni su ciò che accade dopo aver annullato l'acquisto di un software, vedere anche la nota importante dopo questi passaggi. 
+Puoi annullare un acquisto di software entro 60 giorni dalla data dell'acquisto. Se esegui l'annullamento entro questo periodo di 60 giorni, non verrà addebitato alcun costo per la risoluzione anticipata. Dopo 60 giorni, non è più possibile annullare un acquisto. Vedi la nota per le restrizioni principali applicate a questa regola di annullamento. Per informazioni su quanto accade dopo aver annullato un acquisto di software, vedi anche la nota Importante riportata dopo questa procedura. 
 
 >[!NOTE]
->I passaggi seguenti per annullare un acquisto si applicano solo al software che è idoneo all'annullamento entro una specifica finestra di annullamento, ad esempio entro i primi 60 giorni dall'acquisto. Questi passaggi non si applicano anche a un piano software SUSE Linux o RedHat in Azure. Al momento non è possibile annullare o scambiare un piano software SUSE o RedHat. [Altre](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) informazioni sull'uso dei piani SUSE Linux o RedHat.
+>I passaggi seguenti per l'annullamento di un acquisto si applicano solo al software idoneo all'annullamento entro una finestra di tempo specifica, ad esempio entro i primi 60 giorni successivi all'acquisto. Questi passaggi non si applicano inoltre a un piano software SUSE Linux o RedHat in Azure. Al momento non è possibile annullare o scambiare un piano software SUSE o RedHat. [Ottieni altre informazioni](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) sull'uso dei piani SUSE Linux o RedHat.
 
-Per annullare un acquisto, attenersi alla procedura seguente:
+Per annullare un acquisto, segui questa procedura:
 
 >[!NOTE]
->Gli acquisti possono essere annullati solo dagli agenti amministratori. Nei passaggi seguenti viene descritto come annullare un acquisto nel dashboard del centro per i partner. Questa operazione può essere eseguita anche tramite l' [API del centro](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases)per i partner.
+>Gli acquisti possono essere annullati solo dagli agenti amministratori. Nei passaggi seguenti viene descritto come annullare un acquisto nel dashboard Centro per i partner. Per eseguire questa operazione, puoi anche usare l'[API del Centro per i partner](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases).
 
-1. Prima di iniziare il processo di annullamento, verificare che siano disponibili gli elementi seguenti:
+1. Prima di iniziare il processo di annullamento, assicurati di disporre di quanto segue:
 
-    - Il nome del cliente, il GUID del tenant o il nome di dominio
+    - Nome, GUID del tenant o nome di dominio del cliente
 
-    - Nome del prodotto che si desidera annullare
+    - Nome del prodotto da annullare
     
-    - ID dell'ordine
+    - ID ordine
 
-2. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+2. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 3. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
-4. Nella pagina dei dettagli del cliente selezionare **software** per visualizzare l'elenco del software acquistato per il cliente. 
+4. Nella pagina dei dettagli del cliente seleziona **Software** per visualizzare l'elenco del software acquistato per il cliente. 
 
-5. Individuare l'acquisto del software che si desidera annullare e quindi scegliere **Annulla**. Verrà visualizzata una finestra di dialogo.
+5. Individua l'acquisto di software che vuoi annullare e seleziona **Annulla**. Verrà visualizzata una finestra di dialogo.
 
-6. Nell'elenco a discesa Order Number selezionare il numero di ID dell'ordine che si desidera annullare. Per ulteriori informazioni su un numero di ordine o un ID di ordine, vedere la pagina relativa alla **cronologia degli ordini** del cliente.
+6. Nell'elenco a discesa relativo al numero di ordine seleziona il numero ID dell'ordine che vuoi annullare. Per altre informazioni su un ordine o su un numero ID di un ordine, vedi la pagina **Order history** (Cronologia ordini) del cliente.
 
-7. Selezionare la casella di controllo per confermare di avere letto il messaggio **importante** relativo all'annullamento. Per ulteriori informazioni su ciò che accade dopo l'annullamento di un acquisto, vedere la Nota **importante** riportata di seguito.
+7. Seleziona la casella di controllo per confermare di avere letto il messaggio **Importante** relativo all'annullamento. Per altre informazioni su quanto accade dopo l'annullamento di un acquisto, fai riferimento alla nota **Importante** più avanti.
 
-8. Selezionare **Submit (Invia** ) per annullare l'acquisto. Se si desidera annullare più ordini per un cliente, sarà necessario eseguire di nuovo i passaggi da 4 a 6 per ogni numero di ID dell'ordine univoco.
+8. Seleziona **Invia** per annullare l'acquisto. Se vuoi annullare più ordini per un cliente, dovrai eseguire di nuovo i passaggi da 4 a 6 per ogni numero ID di ordine.
 
-Quando si tenta di annullare un ordine, il centro per i partner può anche fornire altre informazioni, che vengono visualizzate sotto l'elenco a discesa Numero ordine. Queste informazioni possono includere:
+Quando tenti di annullare un ordine, il Centro per i partner può anche fornire altre informazioni, che vengono visualizzate sotto l'elenco a discesa relativo al numero di ordine. Queste informazioni possono includere:
 
 - Il numero di giorni rimanenti per l'annullamento dell'ordine specifico
 
-- Se è già stata passata la finestra di annullamento e non è più possibile annullare l'ordine
+- Se si è già chiusa la finestra di tempo per l'annullamento e non è più possibile annullare l'ordine
 
-- Se sono necessarie altre informazioni sulla richiesta di annullamento, è possibile che venga fornito un collegamento a un modulo di **richiesta di supporto** tecnico.
+- Se sono richieste altre informazioni sulla richiesta di annullamento, potresti visualizzate un collegamento a un modulo di **richiesta di assistenza clienti**.
 
 >[!IMPORTANT]
->Dopo aver annullato un ordine, verrà visualizzato un messaggio che conferma l'annullamento. Potrebbe verificarsi un ritardo di un massimo di 15 minuti prima che il relativo annullamento venga visualizzato nel dashboard del centro per i partner. Prendere nota anche dei dettagli successivi all'annullamento.
+>Dopo l'annullamento di un ordine, verrà visualizzato un messaggio di conferma dell'annullamento. Potrebbe tuttavia verificarsi un ritardo di un massimo di 15 minuti prima che l'annullamento venga visualizzato nel dashboard Centro per i partner. Prendi nota anche di quanto avviene dopo l'annullamento riportati di seguito.
 
 Dopo l'annullamento di un acquisto:
 
-- Verranno revocate tutte le chiavi software e i collegamenti di download correlati. Ciò significa che il cliente non può usare le chiavi software e i collegamenti per il download più correlati a questo acquisto. L'utente e il cliente sono tenuti a sospendere l'uso di tutti i software annullati. L'utente è inoltre responsabile della disinstallazione del software annullato e della rimozione dei collegamenti e dei download del software correlati.
+- Verranno revocate tutte le chiavi del software e i collegamenti per il download correlati. Ciò significa che né tu né il cliente potrete più usare le chiavi del software e i collegamenti per il download correlati all'acquisto. Tu e il cliente siete tenuti a sospendere l'uso di tutto il software annullato. Sei inoltre tenuto a disinstallare il software annullato e a rimuovere i collegamenti e i download del software correlati.
 
-- L'elemento annullato verrà comunque visualizzato nella pagina dei dettagli software del cliente, ma la chiave di attivazione non sarà disponibile.
+- L'elemento annullato continuerà comunque a essere visualizzato nella pagina dei dettagli del software del cliente, ma la chiave di attivazione non sarà disponibile.
 
-- Nella fattura mensile successiva verrà visualizzato un credito per l'ordine annullato. Il software perpetuo riceverà un credito del 100% e le sottoscrizioni software riceveranno un credito rivalutato.
+- Nella fattura mensile successiva sarà incluso un credito per l'ordine annullato. Il software perpetuo riceverà un credito del 100% e gli abbonamenti software riceveranno un credito ripartito in modo proporzionale.
 
 ### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Inviare una richiesta di assistenza clienti per annullare un acquisto
 
-Se si è tentato di annullare un acquisto software tramite il centro per i partner, ma è stato richiesto di fornire ulteriori informazioni e compilare un modulo di richiesta di supporto tecnico, questi passaggi possono essere utili:
+Se hai tentato di annullare un acquisto di software tramite il Centro per i partner, ma è stato richiesto di fornire altre informazioni e compilare un modulo di richiesta di assistenza clienti, questa procedura può rivelarsi utile:
 
-1. Quando si seleziona il collegamento della **richiesta di supporto clienti** dalla finestra Annulla acquisto, viene visualizzata la pagina Segnala un problema con il centro per i partner.
+1. Quando selezioni il collegamento della **richiesta di assistenza clienti** dalla finestra di annullamento dell'acquisto, viene visualizzata una pagina per la segnalazione di problemi con il Centro per i partner.
 
-2. In dettagli, nell'elenco tipo di problema, selezionare **CSP Purchase/restituzione per conto dei clienti**.
+2. Nella sezione relativa ai dettagli nell'elenco dei tipi di problema seleziona **CSP Purchase/Refund on behalf of customers** (Acquisto/rimborso CSP per conto dei clienti).
 
-3. Inserire i campi Impact e title.
+3. Compila i campi relativi all'impatto e al titolo.
 
-4. Nel campo Descrizione, specificare quanto segue:
+4. Nel campo della descrizione specifica quanto segue:
 
     - GUID del tenant o nome di dominio del cliente
     
-    - ID ordine o ID sottoscrizione
+    - ID ordine o ID abbonamento
     
     - Motivo del rimborso
 
     - Importo richiesto
 
-5. Nel campo contatto immettere il nome, l'indirizzo di posta elettronica e il numero di telefono.
+5. Nel campo relativo al contatto immetti il tuo nome, l'indirizzo e-mail e il numero di telefono.
 
 6. Se devi allegare un file per qualsiasi motivo, seleziona **Aggiungi file**. Questo passaggio è facoltativo.
 
-7. Al termine, selezionare **Invia**.
+7. Al termine, seleziona **Invia**.

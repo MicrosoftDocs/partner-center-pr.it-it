@@ -8,13 +8,13 @@ description: Un contratto per partner semplice, unificato e accettato digitalmen
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
-ms.openlocfilehash: 1b6bad1d6909b6ffc597daf2e8eb57f4647a85ef
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 54f4fff4170b97c98108961ecf21443148c7d0d9
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004581"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340199"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>Contratto Microsoft Partner per partner CSP 
 
@@ -32,7 +32,7 @@ Per continuare a partecipare al programma Cloud Solution Provider, dovrai firmar
 
 ## <a name="microsoft-customer-agreement"></a>Contratto del cliente Microsoft
 
-L'accettazione da parte del cliente del contratto per i clienti Microsoft (MCuA) sarà obbligatoria in CSP per l'acquisto di servizi di Azure tramite un piano di Azure e per tutte le altre offerte in CSP acquistate dopo il 31 gennaio 2020. Leggi [confermare l'accettazione del contratto del cliente Microsoft (anteprima)](confirm-customer-agreement.md)
+L'accettazione da parte del cliente del Contratto del cliente Microsoft sarà obbligatoria in CSP per l'acquisto dei servizi Azure tramite un piano di Azure e per tutte le altre offerte in CSP acquistate dopo il 31 gennaio 2020. Leggi [Confermare l'accettazione del Contratto del cliente Microsoft da parte di un cliente (anteprima)](confirm-customer-agreement.md)
  
 
 

@@ -10,17 +10,17 @@ ms.author: v-mihope
 keywords: sottoscrizioni, Marketplace, terze parti, ISV, offerte SaaS, programma Cloud Solution Provider, gestione di un'offerta, gestione di una sottoscrizione, licenze, annullamento di una sottoscrizione, postazioni, disattivazione del rinnovo automatico, ID indiretto del rivenditore MPN
 ms.localizationpriority: medium
 ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253809"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114953"
 ---
 # <a name="manage-commercial-marketplace-products-for-your-customers"></a>Gestione dei prodotti del Marketplace commerciale per i clienti
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 - Partner aderenti al programma CSP
 
 **Ruoli appropriati**

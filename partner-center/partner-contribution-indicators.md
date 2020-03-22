@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: b9892c1a1f46450b0ea8def1b10dba104c5cb1b0
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672691"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112450"
 ---
 # <a name="partner-contribution-indicators"></a>Indicatori di contributi dei partner
 
@@ -29,7 +29,7 @@ PCI fornisce una visualizzazione sofisticata e olistica delle funzionalità tecn
 1. **Nuovi ricavi** di rete: ricavi nuovi in tutti i canali di vendita per i prodotti Microsoft Dynamics 365.
 2. **NET Customer aggiunge** , ovvero i clienti NET acquisiti per Dynamics 365 in tutti i canali di vendita.
 3. **Consulenti funzionali** : numero di utenti che dispongono di un consulente funzionale attualmente attivo associate Certification per Dynamics 365.
-4. **Crescita del consulente funzionale** : crescita del numero di collaboratori del consulente funzionale dal 31 marzo 2020.
+4. **Crescita del consulente funzionale** : crescita del numero di collaboratori del consulente funzionale.
 5. **Sviluppatori** : numero di utenti che dispongono di una certificazione di associazione degli sviluppatori attualmente attiva per Dynamics 365.
 6. **Nuove distribuzioni di grandi dimensioni** : numero di tenant di produzione che superano la soglia di utilizzo elevato negli ultimi 12 mesi.
 7. **Crescita mensile** di utenti attivi: crescita in utenti attivi mensili in tutti i clienti negli ultimi 12 mesi.
@@ -48,7 +48,7 @@ Ogni metrica PCI ha soglie impostate da Microsoft in base a cui la tua azienda p
 
 I punti in ogni metrica vengono conteggiati per produrre un punteggio PCI distinto per le operazioni di engagement e Finanza & che verranno aggiornate ogni mese.
 
-I partner possono ottenere il punteggio massimo per una determinata metrica se soddisfano o superano le soglie indicate di seguito. I punti parziali possono essere ottenuti per tutte le metriche ad eccezione della crescita del consulente funzionale. ad esempio un partner di mercato sviluppato con $150.000 in rete nuovi ricavi guadagnerà metà ($ 150000/$ 300.000) del numero massimo di 10 pts. 
+I partner possono ottenere il punteggio massimo per una determinata metrica se soddisfano o superano le soglie indicate di seguito. I punti parziali possono essere ottenuti per tutte le metriche ad eccezione della crescita del consulente funzionale. Ad esempio un partner di mercato sviluppato con $150.000 in rete nuovi ricavi guadagnerà metà ($ 150000/$ 300.000) del numero massimo di 10 pts. 
 
 ![coinvolgimento dei clienti](images/pci/custengagethresh.png)
 

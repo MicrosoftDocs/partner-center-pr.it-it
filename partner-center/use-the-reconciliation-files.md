@@ -10,17 +10,17 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340219"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114963"
 ---
 # <a name="use-your-reconciliation-files"></a>Usare i file di riconciliazione
 
 Si applica a:
 
-- Centro per i partner
+- Partner Center
 - Centro per i partner per Microsoft Cloud for US Government
 
 È possibile scaricare i file di riconciliazione dal centro per i partner per una visualizzazione dettagliata di ogni addebito in un ciclo di fatturazione. I dettagli dell'elemento di riga includono gli addebiti per le sottoscrizioni di ogni cliente ed eventi dettagliati, ad esempio l'aggiunta a metà del periodo di postazioni a una sottoscrizione.

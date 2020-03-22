@@ -1,26 +1,26 @@
 ---
 title: Offrire ai clienti le versioni di valutazione dei prodotti Microsoft | Centro per i partner
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: I tuoi clienti possono testare i prodotti a sottoscrizione Microsoft per 30 giorni. Iscriversi a queste versioni di valutazione nel catalogo proprio come molti altri Servizi online.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a0f511ad2275866552e9646cf433351ae4fc3be3
-ms.sourcegitcommit: a80838c0e79f66c28b958165e910871dd37d39f0
+ms.openlocfilehash: 6775656c53eed787d94e1b87924426f998b1adbe
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185541"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112460"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Offrire ai clienti le versioni di valutazione dei prodotti Microsoft
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 
 **Ruoli appropriati**
 -   Amministratore globale 
@@ -33,11 +33,11 @@ Un buon metodo per presentare ai clienti i nuovi prodotti Microsoft è offrire v
 
 Tutte le offerte di valutazione in attesa sono disponibili nella pagina del **cliente** . Questa pagina elenca tutte le sottoscrizioni, incluse le versioni di valutazione gratuite e quelle a pagamento. Questa funzionalità non è attualmente disponibile in Cina.
 
-Ogni cliente ha diritto a una versione di valutazione gratuita per ogni offerta disponibile. Possono ad esempio ottenere una versione di valutazione gratuita per Office 365 Business Premium e un'altra per Office 365 E3. Tuttavia, se il cliente è già proprietario dell'offerta, non potrà usare una versione di valutazione gratuita per l'offerta.
+Ogni cliente ha diritto a una versione di valutazione gratuita per ogni offerta disponibile. Ad esempio, possono ottenere una versione di valutazione gratuita per Office 365 Business Premium e una versione di valutazione gratuita per Office 365 E3. Tuttavia, se il cliente è già proprietario dell'offerta, non potrà usare una versione di valutazione gratuita per l'offerta.
 
 ### <a name="available-products"></a>Prodotti disponibili
 
-Sono disponibili versioni di valutazione gratuite per i seguenti prodotti:
+Le versioni di valutazione gratuite sono disponibili per i seguenti prodotti:
 
 - Office 365 Business Premium
 - Office 365 E3
@@ -45,10 +45,10 @@ Sono disponibili versioni di valutazione gratuite per i seguenti prodotti:
 - Office 365 E5 senza PSTN
 - Enterprise Mobility & Security E5
 - Dynamics 365 Customer Engagement Piano 1
-- Dynamics 365 Business Central
+- Dynamics 365 business Central
 - Microsoft 365 Business
 
-Offriamo versioni di valutazione gratuite per questi prodotti perché sono le offerte aziendali più complete e popolari. È possibile che in futuro siano disponibili altre offerte di versioni di valutazione gratuite.
+Offriamo le versioni di valutazione gratuite per questi prodotti perché sono le offerte aziendali più complete e popolari. È possibile che in futuro vengano aggiunte altre offerte di versioni di valutazione gratuite.
 
 Attualmente non sono disponibili **versioni di valutazione gratuite** per offerte per enti pubblici, offerte di formazione o offerte di componenti aggiuntivi.
 
@@ -88,12 +88,23 @@ Dovrai convertire la versione di valutazione in una sottoscrizione a pagamento. 
 
 Potrebbe essere necessario modificare le API per adattarla alla conversione di una versione di valutazione gratuita a una sottoscrizione a pagamento. Per ulteriori informazioni, vedere la seguente documentazione per gli sviluppatori:
 
-- [Convertire un abbonamento di valutazione in uno a pagamento](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Convertire una sottoscrizione di valutazione in una a pagamento](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [Ottenere un elenco delle offerte di conversione della copia di valutazione](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+
+### <a name="trials-without-conversions"></a>Versioni di valutazione senza conversioni
+
+Non tutte le versioni di valutazione possono essere convertite in sottoscrizioni a pagamento. I partner possono usare una versione di valutazione senza conversioni fino alla data di scadenza. I partner possono acquistare offerte compatibili che supportano gli stessi servizi dell'offerta di valutazione.  Questa operazione deve essere eseguita prima della scadenza della versione di valutazione per assicurarsi che i servizi delle offerte appena acquistate siano allineati ai servizi della versione di valutazione. 
+
+|**Valutazione**   |**Offerte di piccole imprese compatibili**   |**Offerte aziendali compatibili**   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|Versione di valutazione del cloud commerciale Microsoft Teams (avviata dall'utente)   |Business Essentials, Business Premium, M365 business   | F3 (in precedenza F1), Office 365 per Enterprise (E1, E3 e E5), M365 F1/F3, M365 Enterprise (E3)   |
+
+>[!Note] 
+>Le offerte precedenti presentano piani di servizio simili con funzionalità simili, tuttavia potrebbero esserci alcune differenze tra le offerte. 
 
 ### <a name="expiring-offers"></a>Offerte in scadenza
 
-L'utente non riceverà alcuna notifica delle offerte in scadenza. È possibile tenere traccia delle date di scadenza future usando la visualizzazione clienti nel centro per i partner o eseguendo una query sull'API. È consigliabile monitorare queste date di frequente in modo da poter intraprendere le azioni appropriate quando si avvicinano i momenti critici in cui i clienti devono prendere una decisione.
+L'utente non riceverà alcuna notifica delle offerte in scadenza. È possibile tenere traccia delle date di scadenza future usando la visualizzazione clienti nel centro per i partner o eseguendo una query sull'API. È consigliabile monitorare le date di frequente in modo da poter intraprendere le azioni appropriate in relazione alla decisione dei clienti.
 
 Dopo la scadenza di una versione di valutazione, un cliente che tenta di accedere a tale versione di valutazione visualizzerà un messaggio di scadenza. Tuttavia, i dati vengono archiviati in linea con gli standard di conservazione dei dati. Dopo l'acquisto di una nuova sottoscrizione con gli stessi piani di servizio, è possibile accedere nuovamente alle informazioni del cliente dalla sottoscrizione appena attivata.
 
@@ -105,7 +116,7 @@ La fatturazione annuale e le versioni di valutazione gratuite sono le stesse nei
 
 Le versioni di valutazione gratuite possono essere utilizzate sia per le sottoscrizioni mensili che annuali. È possibile selezionare la frequenza di fatturazione quando si converte la versione di valutazione in una sottoscrizione a pagamento.
 
-La data di inizio della sottoscrizione è basata sulla data di conversione. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione annuale, la data di rinnovo dell'abbonamento cade 12 mesi dopo la data di conversione. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione mensile, la data di rinnovo dell'abbonamento cade 12 mesi dopo la data di fatturazione successiva alla data di conversione.
+La data di inizio della sottoscrizione è basata sulla data di conversione. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione annuale, la data di rinnovo della sottoscrizione cade 12 mesi dopo la data di conversione. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione mensile, la data di rinnovo della sottoscrizione cade 12 mesi dopo la data di fatturazione successiva alla data di conversione.
 
 ### <a name="invoices"></a>Fatture
 
@@ -115,6 +126,6 @@ Non verranno visualizzate le versioni di valutazione gratuite elencate nel file 
 
 Le versioni di valutazione gratuite non influiscano sugli incentivi.
 
-## <a name="support"></a>Supporto tecnico
+## <a name="support"></a>Supporto
 
 Per il supporto delle versioni di valutazione gratuite, inviare una richiesta di assistenza tramite il centro per i partner.

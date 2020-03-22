@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: ritenuta di crediti fiscali, crediti fiscali, modulo di credito fiscale tedesco, certificati fiscali
 ms.localizationpriority: medium
-ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: ea99adb0bc2b9e010290ce7a74afe07c8b111888
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240228"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112470"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assicurarsi di avere il credito per le imposte ritenute
 
@@ -30,6 +30,9 @@ In questo argomento viene illustrato come assicurarsi di avere il credito per le
 I partner CSP in alcuni paesi ricevono importi di fattura che includono le imposte. Alcuni di questi partner pagano l'autorità fiscale locale anziché Microsoft. Questi partner devono inviare una richiesta di ritenuta fiscale che includa il certificato fiscale per cancellare la quantità tassata dalle fatture precedenti. Questi importi cancellati vengono mostrati come crediti nelle fatture mensili successive, quindi il partner non deve più avere Microsoft l'importo non pagato.
 
 A partire dal gennaio 2020, i partner CSP dovrebbero inviare richieste di ritenuta fiscali nella **pagina di fatturazione** anziché creare richieste di supporto. Per inviare le richieste nella pagina di fatturazione, i partner CSP devono accedere al **centro** per i partner e selezionare **fatturazione** nel percorso di navigazione sinistro. La **pagina fatturazione** è la nuova posizione in cui inviare le richieste di ritenuta delle imposte. 
+
+> [!IMPORTANT]
+> I partner possono inviare richieste fiscali di ritenuta solo per le fatture a **pagamento** .
 
 ### <a name="submit-a-new-tax-withholding-request"></a>Invia una nuova richiesta di ritenuta fiscale
 

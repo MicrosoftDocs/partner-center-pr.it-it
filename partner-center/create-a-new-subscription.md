@@ -11,11 +11,11 @@ ms.author: labrenne
 Keywords: sottoscrizione, crea nuovo, Aggiungi sottoscrizione, Sospendi, Annulla, sospensione, Sospendi, SaaS, licenza, ISV, terze parti
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340150"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114993"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
@@ -50,7 +50,7 @@ Come partner del programma CSP, è possibile acquistare solo sottoscrizioni Saas
 
 4. Per visualizzare solo determinati tipi di sottoscrizioni, effettua le selezioni nei filtri disponibili:
    - **Autore**: scegliere **Microsoft** per visualizzare solo le offerte di Microsoft o il **partner** per vedere i prodotti commerciali del Marketplace pubblicati dagli ISV.
-   - **Tipo di fatturazione**: selezionare il tipo di fatturazione per la sottoscrizione che si vuole usare: **licenza** o **utilizzo**. Vedi [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md) per informazioni che ti aiuteranno a decidere tra la frequenza di fatturazione mensile e annuale.
+   - **Tipo di fatturazione**: selezionare il tipo di fatturazione per la sottoscrizione che si vuole usare: **licenza** o **utilizzo**. Vedi [Domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md) per le informazioni che ti aiutano a decidere tra la frequenza di fatturazione mensile e annuale.
    - **Categoria**: scegliere **Enterprise**, **Small Business**o **Trial**. Per informazioni sulle sottoscrizioni di versioni di valutazione, vedi [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Selezionare le sottoscrizioni di prodotto che si desidera acquistare per il cliente. I prodotti visualizzati dipendono dal tipo di segmento dei clienti (Education, Government e così via) e dai filtri applicati. Alcune offerte visualizzate sul Marketplace potrebbero non essere sempre disponibili per un cliente specifico o per un partner CSP specifico. Il motivo può essere il seguente:
@@ -92,9 +92,9 @@ Quando cambi lo stato di una sottoscrizione in **Sospesa**, gli utenti non posso
 
 4. Nella sezione **Stato** scegli **Sospeso**. Fai quindi clic su **Invia** per inviare le modifiche.
 
-5. Verranno eliminati tutti i dati, tranne nel caso in cui la sottoscrizione venga riattivata entro 90 giorni o 90 giorni più il numero di giorni tra il momento in cui l'account è stato aperto e il primo periodo di fatturazione (massimo 120 giorni).
+5. Verranno eliminati tutti i dati, a meno che la sottoscrizione venga riattivata entro 90 giorni, o 90 giorni più il numero di giorni tra il momento in cui che l'account è stato aperto e il primo periodo di fatturazione (massimo 120 giorni).
 
-Quando sospendi una sottoscrizione, la data visualizzata sotto il pulsante **Sospesa** indica quando la sottoscrizione scadrà automaticamente se non la riattivi. Per altre informazioni, vedere [domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md).
+Quando sospendi una sottoscrizione, la data visualizzata sotto il pulsante **Sospesa** indica quando la sottoscrizione scadrà automaticamente se non viene riattivata. Per altre informazioni, vedere [domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md).
 
 ### <a name="cancel-a-subscription"></a>Annullare una sottoscrizione
 

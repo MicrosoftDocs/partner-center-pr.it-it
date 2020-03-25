@@ -1,7 +1,7 @@
 ---
 title: Partner Center Insights-report vantaggi | Centro per i partner
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i tipi di vantaggi dei partner Microsoft che ti sono stati concessi per favorire la crescita del tuo business, migliorare l'efficienza e migliorare le competenze del team.
@@ -11,12 +11,12 @@ author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d1f3a8ff31622c17245743f79ba4dc3ea199c3b
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648252"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226197"
 ---
 # <a name="benefits-report"></a>Report vantaggi
 
@@ -26,7 +26,7 @@ ms.locfileid: "75648252"
 - Visualizzatore report
 - Visualizzatore report Executive
 
-Un partner Microsoft può accedere a una serie di vantaggi che usano la tecnologia e le innovazioni più recenti per contribuire a migliorare le competenze del team, migliorare l'efficienza e far crescere il tuo business. I pacchetti di vantaggi includono: allocazioni di software concesso in licenza, servizi cloud, sottoscrizioni di Visual Studio e supporto. I pacchetti dei vantaggi possono anche includere alcuni vantaggi di GTM (go-to-Market). Il report dei vantaggi presenta le tendenze dei vantaggi a cui si accede e il relativo utilizzo durante l'intervallo di date selezionato.
+Un partner Microsoft può accedere a una serie di vantaggi che usano la tecnologia e le innovazioni più recenti per contribuire a migliorare le competenze del team, migliorare l'efficienza e far crescere il tuo business. I pacchetti di vantaggi includono: allocazioni di software concesso in licenza, servizi cloud, sottoscrizioni di Visual Studio e supporto. Questi pacchetti possono includere anche determinate risorse, offerte e programmi per l'immissione sul mercato. Il report dei vantaggi presenta le tendenze dei vantaggi a cui si accede e il relativo utilizzo durante l'intervallo di date selezionato.
 
 ![Panoramica della pagina vantaggi](images/pci/pci_benefits_intro_1.png)
 
@@ -44,7 +44,7 @@ Nel report dei vantaggi è possibile visualizzare i grafici seguenti:
 
 **Riepilogo**
 
-La sezione Riepilogo presenta i vantaggi concessi in termini di software concesso in licenza, servizi cloud (non Azure), sottoscrizioni di Visual Studio, supporto tecnico e alcuni servizi go-to-Market.
+La sezione Riepilogo presenta i vantaggi concessi in termini di software concesso in licenza, servizi cloud (non Azure), sottoscrizioni di Visual Studio, supporto tecnico e alcuni servizi o offerte per il go-to-Market.
 
 Esempio: i partner di appartenenza Microsoft Partner Network (MPN) sono idonei per il supporto tecnico di prodotti locali e prodotti cloud. Ai partner che raggiungono la competenza Silver viene concesso supporto tecnico per 15 eventi imprevisti per i prodotti locali. Possono utilizzare questo supporto in base alle esigenze. 
 
@@ -79,10 +79,10 @@ Selezionare una scheda nella parte superiore del grafico per visualizzare la ten
 
 ![vantaggi tecnici](images/pci/pci_benefits_technical_benefits_6.png)
 
-**Vai al mercato**
+**Offerte o servizi go-to-Market**
 
-Questo grafico mostra la tendenza mensile dei vantaggi di go-to-Market (GTM) attivati rispetto a allocati durante l'intervallo di date selezionato e per una categoria di vantaggi GTM selezionata.
+Questo grafico mostra la tendenza mensile delle offerte go-to-Market o dei servizi attivati rispetto a allocati durante l'intervallo di date selezionato e per un'offerta o una categoria di servizi per il go-to-Market selezionata.
 
-Selezionare una categoria di vantaggi GTM dall'elenco a discesa nella parte superiore del grafico per visualizzare la tendenza della categoria del vantaggio GTM selezionata concessa alla società. Le colonne nel grafico rappresentano i vantaggi di GTM attivati. Il grafico a linee rappresenta i vantaggi GTM complessivi concessi alla società.
+Selezionare un'offerta o una categoria di servizi per l'immissione sul mercato dall'elenco a discesa nella parte superiore del grafico per visualizzare la tendenza dei servizi go-to-Market selezionati concessi alla società. Le colonne nel grafico rappresentano le offerte o i servizi di go-to-Market attivati. Il grafico a linee rappresenta le offerte o i servizi globali concessi alla società.
 
-![Vai ai vantaggi del mercato](images/pci/pci_benefits_go_to_market_7.png)
+![Offerte go-to-Market](images/pci/pci_benefits_go_to_market_7.png)

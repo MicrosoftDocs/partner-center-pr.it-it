@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: incentivi, pagamenti, pagamenti, programma incentive, località, stato del programma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f68977251416c9f70c84cd4f722a2c09a9535d5
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: c2c4ec70bec068b3f171ce6c3780eda8a830f146
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723468"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226117"
 ---
 # <a name="view-your-incentive-payments-and-programs"></a>Visualizza i pagamenti e i programmi per gli incentivi
 
@@ -59,8 +59,8 @@ La **Panoramica degli incentivi** Mostra lo stato complessivo dei programmi ince
 In questa pagina sono inclusi anche i guadagni e i pagamenti per località o programma, nonché per eventuali altre azioni che potrebbero essere necessarie per eseguire la registrazione in un programma in una posizione specifica.
 
 Per accedere alla **Panoramica degli incentivi**:
-
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+ 
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 2. Selezionare **incentivi**, quindi **Panoramica** dal menu.
 3. Visualizzare il riepilogo dei guadagni e dei pagamenti nella parte superiore della pagina e ulteriori dettagli nella tabella riportata di seguito. È anche possibile ordinare, raggruppare ed espandere la tabella associata:
 
@@ -80,7 +80,8 @@ Per accedere alla **Panoramica degli incentivi**:
 | Azione richiesta  | Il partner ha accettato un invito a iscriversi a un programma di incentivi, ma potrebbe dover aggiornare le informazioni bancarie o fiscali. Vedere la colonna **azioni necessarie** per i passaggi successivi o i collegamenti per aggiornare le informazioni bancarie o fiscali nel centro per i partner. |
 | Non disponibile  | Il programma di incentivazione specifico non è più disponibile nel sistema di incentivi. |
 | Registrati  | Tutte le informazioni fiscali e bancarie sono state convalidate. Non è richiesta alcuna ulteriore azione di registrazione da parte del partner. |
-| Inactive  | Il programma incentive potrebbe non essere aperto per la registrazione in questo momento o il partner non soddisfa l'idoneità corrente per la registrazione o la nuova registrazione.  |
+| Iscriversi  | L'utente non è un amministratore di incentivi e la registrazione è nell' **azione necessaria** o per la **convalida** degli Stati di registrazione.|
+| Inattivo/non idoneo | Il programma incentive potrebbe non essere aperto per la registrazione in questo momento o il partner non soddisfa l'idoneità corrente per la registrazione o la nuova registrazione. <br> Se lo stato non è **idoneo**, il partner non soddisfa i requisiti di idoneità correnti per il programma; facendo clic sul collegamento **vedere i requisiti di idoneità** sotto lo stato di registrazione vengono visualizzati i requisiti per l'idoneità e quali di questi requisiti sono stati soddisfatti. |
 | Invitato  | Un nuovo invito alla registrazione del programma incentive è stato inviato al partner, ma il partner non ha ancora avviato il processo di registrazione. La colonna adiacente, **azioni richieste** Mostra i passaggi successivi ed eventuali collegamenti correlati.  |
 | Convalida della registrazione  | Il partner ha già completato o aggiornato le informazioni fiscali e bancarie per una registrazione nuova o esistente ed è in attesa della convalida delle informazioni da parte di Microsoft. Durante il processo di convalida, è possibile che venga visualizzata la **convalida della registrazione** per un massimo di 48 ore.  |
 

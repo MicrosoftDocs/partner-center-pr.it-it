@@ -1,22 +1,22 @@
 ---
 title: Partner Center Insights-report sulle competenze | Centro per i partner
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri cosa stai facendo bene e dove puoi migliorare le competenze Microsoft, i livelli di competenza e i vantaggi per offrire soluzioni Microsoft.
+description: Scopri cosa stai facendo bene e dove puoi migliorare le competenze Microsoft, i livelli di competenza e le offerte per offrire soluzioni Microsoft.
 ms.assetid: ''
 keywords: PCI, prestazioni, misure, successo dei clienti, competenze, vantaggi, analisi, report
 author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9b395e67848bca73d0fe65073562c2478ced304
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648092"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226187"
 ---
 # <a name="competencies-report"></a>Report sulle competenze
 
@@ -26,7 +26,7 @@ ms.locfileid: "75648092"
 - Visualizzatore report
 - Visualizzatore report Executive
 
-Le competenze consentono all'azienda di dimostrare le funzionalità tecniche per la distribuzione di soluzioni Microsoft. Le competenze Microsoft sono progettate per soddisfare le esigenze dei clienti e presentare le proprie competenze ai clienti potenziali. Presentano numerosi vantaggi offerti da Microsoft, ad esempio le quantità incluse di consumo di Azure, i diritti per i prodotti cloud, ad esempio O365, il supporto tecnico, i vantaggi per il go-to-Market (GTM) e così via. Oggi sono disponibili complessivamente 19 competenze tra le seguenti categorie: **app e infrastruttura**, **applicazioni aziendali**, **dati e intelligenza artificiale** e **area di lavoro moderna**. Le competenze sono suddivise in livelli in livelli Silver o Gold, ad esempio con una barra superiore per la competenza Gold e un livello di vantaggi più elevato associato.  
+Le competenze consentono all'azienda di dimostrare le funzionalità tecniche per la distribuzione di soluzioni Microsoft. Le competenze Microsoft sono progettate per soddisfare le esigenze dei clienti e presentare le proprie competenze ai clienti potenziali. Presentano numerosi vantaggi offerti da Microsoft, ad esempio le quantità incluse di consumo di Azure, i diritti per i prodotti cloud, ad esempio O365, il supporto tecnico, le offerte per il go-to-Market e così via. Oggi sono disponibili complessivamente 19 competenze tra le seguenti categorie: **app e infrastruttura**, **applicazioni aziendali**, **dati e intelligenza artificiale** e **area di lavoro moderna**. Le competenze sono suddivise in livelli in livelli Silver o Gold, ad esempio. C'è una barra superiore per la competenza Gold e un livello superiore associato di risorse di marketing, offerte e programmi disponibili.  
 
 **Ciclo di vita delle competenze**
 

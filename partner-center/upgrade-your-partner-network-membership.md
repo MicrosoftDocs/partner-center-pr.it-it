@@ -1,7 +1,7 @@
 ---
 title: Aggiornare l'adesione al Microsoft Partner Network | Centro per i partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Per usufruire dei vantaggi esclusivi, è possibile aggiornare l'appartenenza a MPN a un'appartenenza a Microsoft Action Pack sottoscrizione o a competenze Microsoft.
@@ -9,33 +9,32 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 7cc8d2023544d510dcf8cd51f89c79d427a849d1
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943404"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226148"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Aggiornare l'adesione al Microsoft Partner Network
 
 **Si applica a**
 
--  Centro per i partner
+-  Partner Center
 
-Il programma per i partner Microsoft offre le seguenti tre opzioni di appartenenza, con vantaggi incrementali che consentono di raggiungere gli obiettivi aziendali.
+Il programma per i partner Microsoft offre le seguenti tre opzioni di appartenenza, con vantaggi incrementali e risorse di marketing, offerte e programmi che consentono di raggiungere gli obiettivi aziendali.
 
-- **Appartenenza alla rete.** Il livello di adesione di base che offre vantaggi per la formazione, il supporto e le relazioni con i clienti. Per aggiornare l'adesione è necessario essere membro della rete.
+- **Appartenenza alla rete.** Il livello di appartenenza principale, che offre risorse di marketing a livello di voce per la formazione, il supporto e le connessioni dei clienti. Per aggiornare l'adesione è necessario essere membro della rete.
 
-- **Abbonamento a Microsoft Action Pack.** Un conveniente abbonamento annuale per le aziende partner di piccole e medie dimensioni. Include i vantaggi di base offerti con l'adesione alla rete, oltre ad allocazioni di sottoscrizioni a servizi con diritti di uso interno, licenze software e supporto.
+- **Abbonamento a Microsoft Action Pack.** Un conveniente abbonamento annuale per le aziende partner di piccole e medie dimensioni. Include le risorse di marketing a livello di ingresso fornite con l'appartenenza alla rete Basic, oltre ad altre offerte e programmi di marketing, ad esempio: allocazioni di sottoscrizioni di servizi con diritti di utilizzo interno, licenze software e supporto.
 
-- **Competenze Microsoft.** Una designazione guadagnata che mostra le funzionalità della tua azienda. Include i vantaggi di base, altri diritti di uso interno, idoneità agli incentivi per i partner, supporto aggiuntivo e ore di consulenza.
+- **Competenze Microsoft.** Una designazione guadagnata che mostra le funzionalità della tua azienda. Include risorse di marketing a livello di voce e offerte e programmi aggiuntivi, ad esempio diritti di utilizzo interno, idoneità per gli incentivi per i partner e orari di consulenza e supporto aggiuntivi.
 
   - Capacità, esperienza e impegno coerenti con la competenza Silver
 
   - Competenza Gold-funzionalità ottimali all'interno di una specifica area della soluzione Microsoft
 
-Dopo aver partecipato al Microsoft Partner Network, si è idonei per l'aggiornamento dell'abbonamento e l'acquisto di offerte esclusive per i benefici di abbonamento. Per altre informazioni sull'adesione al Microsoft Partner Network, vai al sito [https://partner.microsoft.com](https://partner.microsoft.com).
-
+Dopo aver partecipato al Microsoft Partner Network, si è idonei per l'aggiornamento dell'abbonamento e l'acquisto di offerte esclusive per l'abbonamento. Per altre informazioni sull'adesione al Microsoft Partner Network, vai al sito [https://partner.microsoft.com](https://partner.microsoft.com).
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Acquistare un abbonamento a Microsoft Action Pack
 
@@ -63,7 +62,7 @@ Per ulteriori informazioni su Microsoft Action Pack, vai a [https://partner.micr
 
 3. Seleziona **Avanti** per aggiungere i dettagli di pagamento. 
 
-4. Seleziona **Get started! Add a way to pay** se devi immettere i dettagli di pagamento. 
+4. Seleziona **Get started! Add a way to pay** se devi immettere i dettagli di pagamento.
 
 5. Immetti i dettagli di pagamento e quindi seleziona **Avanti**.
 
@@ -131,8 +130,3 @@ Per annullare l'abbonamento a Microsoft Action Pack, contatta il supporto del Ce
 ### <a name="related-topics"></a>Argomenti correlati
 
 [Aggiungere utenti e assegnare le relative autorizzazioni](create-user-accounts-and-set-permissions.md)
-
-
-
-
-

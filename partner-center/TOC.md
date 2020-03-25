@@ -162,6 +162,7 @@
 ### [Spostare i clienti di servizi basati su licenza nel programma Cloud Service Provider](transition-seat-based-services.md)
 ### [Vendere sottoscrizioni di MineCraft: Education Edition](minecraft-subscriptions.md)
 ### [Vendere in settori specializzati](Get-special-pricing-for-offers.md)
+### [Vendere nel settore della formazione](sell-to-education-customers.md)
 ### [Migliorare i tassi di adozione e soddisfazione](increasing-adoption-and-satisfaction.md)
 ### [Semplificare la configurazione dei dispositivi con Windows Autopilot](autopilot.md)
 ##  Aggiornare o trasferire offerte alle versioni più recenti

@@ -1,7 +1,7 @@
 ---
 title: Guida alla migrazione da PMC al Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come eseguire la migrazione dell'organizzazione da Partner Membership Center (PMC) al Centro per i partner.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: high
-ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 0e1538258199c503d38a08f3e070a6cc6ec97253
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721881"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226177"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guida alla migrazione da Partner Membership Center (PMC) al Centro per i partner
 
@@ -29,7 +29,7 @@ Le autorizzazioni a Partner Membership Center (PMC) stanno per essere rimosse. L
 >[!Note]
 >Anche se la tua azienda ha più account o posizioni, il passaggio al Centro per i partner inizia con lo spostamento di un account (il primo) al Centro per i partner.
 
-## <a name="get-started"></a>Informazioni di base
+## <a name="get-started"></a>Operazioni preliminari
 
 Lo spostamento inizia in PMC. L'amministratore globale riceverà un invito per iniziare lo spostamento. 
 
@@ -43,7 +43,7 @@ Lo spostamento inizia in PMC. L'amministratore globale riceverà un invito per i
 
 Seleziona **Inizia** nell'invito ricevuto. Verrà visualizzata la pagina di accesso al Centro per i partner.
 
-![Informazioni di base](images/migration/getstarted.jpg)
+![Operazioni preliminari](images/migration/getstarted.jpg)
 
 ## <a name="start-with-your-work-email"></a>Inizia con l'indirizzo e-mail di lavoro
 
@@ -61,11 +61,11 @@ In questo modo viene avviata la creazione del tuo tenant di Azure AD e ti verrà
 
 Selezionando **Accetta e continua** vengono eseguite anche le operazioni seguenti:
 
-•   Migrazione del tuo account insieme a TUTTE le relative posizioni al Centro per i partner
+- Migrazione del tuo account insieme a TUTTE le relative posizioni al Centro per i partner
 
-•   Migrazione di tutti i MAP o le competenze che hai acquistato in PMC
+- Migrazione di tutti i MAP o le competenze che hai acquistato in PMC
 
-•   Migrazione di tutti i vantaggi (MAP, Silver, Gold) di cui disponevi in PMC
+- Migrazione di eventuali risorse, offerte e programmi di marketing (MAP, Silver e Gold) disponibili in PMC
 
 ## <a name="invite-employees-to-join-you"></a>Invitare i dipendenti a partecipare
 
@@ -103,6 +103,6 @@ Segui la presentazione del dashboard. In questo ambiente puoi gestire l'apparten
 - [Creare il profilo di business](create-a-marketing-profile.md)
 - [Connettersi con i clienti tramite segnalazioni](responding-to-referrals.md)
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
 - [Guida alla migrazione di più aziende da PMC al Centro per i partner](move-multiple-companies.md)

@@ -1,7 +1,7 @@
 ---
 title: Gestire i vantaggi di Microsoft Partner Network | Centro per i partner
 ms.topic: article
-ms.date: 10/29/2019
+ms.date: 03/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Entra a far parte di Microsoft Partner Network (MPN) e gestisci i vantaggi dell'appartenenza che ti aiuteranno a creare e far crescere il tuo business.
@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, vantaggi dell'appartenenza, appartenenza
 ms.localizationpriority: high
-ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: e7ec97485467d997e770337fa249065d87e6838f
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004530"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226087"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gestire i vantaggi dell'appartenenza a Microsoft Partner Network
 
@@ -23,10 +23,10 @@ ms.locfileid: "75004530"
 -  Centro per i partner
 
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Agente amministratore
--   Amministratore dei partner MPN
+-    Amministratore globale
+-    Amministratore utenti
+-    Agente amministratore
+-    Amministratore dei partner MPN
 
 >[!IMPORTANT]
 >Questo articolo spiega come iniziare a usare i vantaggi derivanti dall'appartenenza a Microsoft Partner Network (MPN) in questo sito: il Centro per i partner. Se non hai ricevuto l'invito a spostare le informazioni relative alla tua azienda da Partner Membership Center (PMC) al Centro per i partner, devi continuare a gestire in PMC i vantaggi dell'appartenenza a MPN. [Accedi ](https://partner.microsoft.com/_login?authType=OpenIdConnect) ora a PMC.
@@ -41,7 +41,7 @@ Dopo aver acquistato un pacchetto di vantaggi di appartenenza, dovrai ottenere l
 >[!IMPORTANT]
 >Anche se per acquistare i vantaggi non occorre che tu sia un amministratore globale dell'organizzazione, devi invece esserlo per assegnare i vantaggi ai dipendenti. Se necessario, puoi diventare amministratore globale seguendo le istruzioni riportate nella [pagina **Vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). La tua azienda potrebbe già avere un amministratore globale, pertanto verifica questo aspetto con il team.
 
-I pacchetti di vantaggi includono allocazioni di licenze software, servizi cloud, sottoscrizioni di Visual Studio e supporto. Possono anche includere alcuni vantaggi go-to-market. Per ottenere informazioni dettagliate sulle sottoscrizioni di Action Pack, visita il sito [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
+I pacchetti di vantaggi includono allocazioni di licenze software, servizi cloud, sottoscrizioni di Visual Studio e supporto. Possono anche includere risorse, offerte e programmi go-to-market. Per ottenere informazioni dettagliate sulle sottoscrizioni di Action Pack, visita il sito [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
 Per visualizzare e gestire tutti i vantaggi dell'appartenenza, vai alla [pagina **Vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). In alternativa, puoi accedere al [dashboard](https://docs.microsoft.com/partner-center/) Centro per i partner, selezionare l'[**opzione Vantaggi**] dal menu a sinistra e quindi scegliere le opzioni dei vantaggi visualizzate.  
 
@@ -109,7 +109,7 @@ Per visualizzare e gestire tutti i vantaggi dell'appartenenza, vai alla [pagina 
 
 4. Puoi usare il vantaggio tecnico per il supporto prevendita o le ore di consulenza per richiedere assistenza tecnica durante le fasi di prevendita, progettazione, distribuzione e sviluppo di app per le tue soluzioni cloud e ibride. Per richiedere assistenza, compila il [modulo di richiesta](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) e quindi seleziona **Invia richiesta**.
 
-#### <a name="manage-go-to-market-benefits"></a>Gestire i vantaggi go-to-market
+#### <a name="manage-go-to-market-offers"></a>Gestire le offerte go-to-market
 
 **Ruoli appropriati per eseguire questa attività:**
 
@@ -117,11 +117,11 @@ Per visualizzare e gestire tutti i vantaggi dell'appartenenza, vai alla [pagina 
 - Amministratore partner MPN
 
 
-1. Seleziona **Go-to-market benefits** (Vantaggi go-to-market) per visualizzare l'elenco dei vantaggi go-to-market di Microsoft.
+1. Seleziona **Vantaggi** e quindi **Go-to-market** per visualizzare l'elenco delle offerte associate al programma Microsoft go-to-market.
 
-    I [vantaggi go-to-market](mpn-learn-about-go-to-market-benefits.md) offrono altre risorse di marketing e assistenza disponibili per te. I tipi di vantaggi disponibili dipendono dal livello specifico del partner e dalle competenze già acquisite.
+    Le [funzionalità go-to-market](mpn-learn-about-go-to-market-benefits.md) offrono risorse, offerte e programmi di marketing aggiuntivi, nonché le opzioni di assistenza disponibili per te. I tipi di offerte disponibili dipendono dal livello specifico del partner e dalle competenze già acquisite.
 
-2. Per attivare qualsiasi vantaggio go-to-market, devi prima assegnare un contatto marketing aziendale. Questo contatto riceverà le comunicazioni di follow-up relative ai vantaggi go-to-market attivi.
+2. Per attivare qualsiasi offerta o programma go-to-market, devi prima assegnare un contatto marketing aziendale. Questo contatto riceverà le comunicazioni di follow-up relative alle offerte go-to-market attive.
 
 3. Per aggiungere o aggiornare le informazioni relative al contatto marketing, passa alla parte superiore della pagina Go-to-market e quindi seleziona **Aggiungi**, **Aggiorna** o **Modifica**. A questo punto, esegui le operazioni seguenti:  
    
@@ -129,27 +129,27 @@ Per visualizzare e gestire tutti i vantaggi dell'appartenenza, vai alla [pagina 
 
     b.  Specifica un indirizzo e-mail per l'utente che sia diverso da quello associato all'account del Centro per i partner della tua azienda. 
     
-    Invieremo le istruzioni per usare il vantaggio go-to-market all'indirizzo e-mail del contatto marketing designato. 
+    Invieremo le istruzioni per usare l'offerta go-to-market all'indirizzo di posta elettronica del contatto marketing designato. 
     
     c.  Fornisci il numero di telefono e la lingua preferita dal contatto marketing. Dopo aver immesso queste informazioni, seleziona **Assegna utente**. 
 
-4. Dopo aver aggiornato il contatto marketing, trova il vantaggio go-to-market che vuoi iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli del vantaggio. Nell'elenco, sotto la dicitura Vantaggio, verrà visualizzato ogni tipo di vantaggio disponibile, ad esempio **Silver Core** o **Gold Core**.
+4. Dopo aver aggiornato il contatto marketing, trova l'offerta go-to-market che vuoi iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli dell'offerta. Nell'elenco, sotto la dicitura Offerta, verrà visualizzata ogni tipo di offerta disponibile, ad esempio **Silver Core** o **Gold Core**.
 
-5. Seleziona **Attiva** per attivare il vantaggio.
+5. Seleziona **Attiva** per attivare l'offerta.
 
 > [!NOTE]
->Per inviare le istruzioni al contatto marketing assegnato e attivare un vantaggio go-to-market, possono essere necessari alcuni giorni. Dopo l'attivazione del vantaggio, la pagina Go-to-market risulterà modificata. Nella colonna **Stato** il vantaggio verrà modificato in **Attivo**. Nella colonna **Scadenza** verrà visualizzata la data di scadenza del vantaggio. Il vantaggio può essere usato fino alla data di scadenza. Per altre informazioni, fai riferimento ai [diversi tipi di vantaggi go-to-market](mpn-learn-about-go-to-market-benefits.md) disponibili.  
+>Per inviare le istruzioni al contatto marketing assegnato e attivare un'offerta go-to-market, possono essere necessari alcuni giorni. Dopo l'attivazione dell'offerta, la pagina Go-to-market risulterà modificata. Nella colonna **Stato** l'offerta verrà modificata in **Attiva**. Nella colonna **Scadenza** potrai visualizzare la data di scadenza dell'offerta. L'offerta può essere usata fino alla data di scadenza. Per altre informazioni, fai riferimento ai [diversi tipi di risorse, offerte e vantaggi go-to-market](mpn-learn-about-go-to-market-benefits.md) disponibili.  
 
 
-## <a name="cancel-a-membership-benefit"></a>Annullare un vantaggio dell'appartenenza
+## <a name="cancel-a-membership-benefit-or-offer"></a>Annullare un vantaggio o un'offerta dell'abbonamento
 
-Per annullare un vantaggio e ricevere un rimborso, devi fare richiesta entro 30 giorni dall'acquisto e non avere attivato i vantaggi software. Richiedi l'annullamento tramite una richiesta di servizio.
+Per annullare un vantaggio o un'offerta e ricevere un rimborso, devi fare richiesta entro 30 giorni dall'acquisto e non avere attivato i vantaggi software. Richiedi l'annullamento tramite una richiesta di servizio.
 
 
-#### <a name="see-also"></a>Vedi anche
+#### <a name="see-also"></a>Vedere anche
 
 [Aggiungere utenti e assegnare le relative autorizzazioni](create-user-accounts-and-set-permissions.md)
 
 [Acquistare o rinnovare una sottoscrizione di Microsoft Action Pack](mpn-get-action-pack.md)
 
-[Informazioni sui vantaggi go-to-market per MPN](mpn-learn-about-go-to-market-benefits.md)
+[Informazioni sulle offerte e sulle risorse go-to-market di MPN](mpn-learn-about-go-to-market-benefits.md)

@@ -8,12 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
-ms.openlocfilehash: 6b1af593d4639cfc725da54b4e0f22cd1f3551ed
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.topic: conceptual
+ms.openlocfilehash: 2fc0926f2277cea8eebd7157af44338aabfaa94c
+ms.sourcegitcommit: e98684319d8f9bfc2cadad77fd7c51d7aa32c419
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723458"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80136313"
 ---
 # <a name="partner-security-requirements-status"></a>Stato dei requisiti di sicurezza per i partner
 
@@ -27,7 +28,7 @@ ms.locfileid: "76723458"
 - Tutti gli advisor
 
 **Utenti appropriati**
--   Tutti gli utenti abilitati, inclusi gli utenti guest
+-    Tutti gli utenti abilitati, inclusi gli utenti guest
 
 Le misure di sicurezza e la protezione della privacy sono alcune tra le nostre priorità più importanti. Sappiamo che la migliore difesa è la prevenzione e di essere al sicuro quanto lo sono i nostri punti più deboli. Questo è il motivo per cui è necessario che tutti gli utenti nell'ecosistema agiscano e si assicurino di disporre di protezioni di sicurezza appropriate. Per garantire la sicurezza di partner e clienti, viene introdotto un set di requisiti di sicurezza obbligatori per gli advisor, i fornitori del pannello di controllo e i partner che partecipano al programma Cloud Solution Provider.
 
@@ -48,7 +49,7 @@ Questo report può essere utile per verificare lo stato dei requisiti di sicurez
 
 ## <a name="multi-factor-authentication-mfa-report"></a>Report sull'autenticazione a più fattori ("MFA")
 
-Il report MFA del Centro per i partner offre informazioni dettagliate sull'implementazione dell'autenticazione MFA per partner fornendo due tipi di metriche basati sulla configurazione di MFA e sulle attività del Centro per i partner del tenant CSP: 
+Il report sull'autenticazione a più fattori del Centro per i partner offre informazioni dettagliate sull'implementazione dell'autenticazione a più fattori per partner fornendo due tipi di metriche basati sulla configurazione dell'autenticazione a più fattori e sulle attività del Centro per i partner del tenant CSP: 
 
 ### <a name="mfa-configuration-on-a-csp-tenant"></a>Configurazione di MFA in un tenant CSP
 
@@ -77,11 +78,11 @@ Questa metrica è correlata alle attività nel dashboard del Centro per i partne
 Questa metrica è correlata all'uso di richieste API del Centro per i partner effettuate con l'autenticazione app+utente. Misura la percentuale di richieste API effettuate usando un token di accesso con attestazione MFA. Ad esempio:
 
 - Fabrikam è un partner CSP che dispone di un'applicazione CSP che usa una combinazione di autenticazione app+utente e di metodi di autenticazione basati solo su app.
-- Il primo giorno l'applicazione ha effettuato tre richieste API supportate da un token di accesso ottenuto tramite il metodo di autenticazione app+utente senza verifica MFA.
+- Il primo giorno l'applicazione ha effettuato tre richieste API supportate da un token di accesso ottenuto tramite il metodo di autenticazione app+utente senza verifica dell'autenticazione a più fattori.
 - Il secondo giorno l'applicazione ha effettuato cinque richieste API supportate da un token di accesso ottenuto usando l'autenticazione basata solo su app.
-- Il terzo giorno l'applicazione ha effettuato due richieste API supportate da un token di accesso ottenuto tramite il metodo di autenticazione app+utente con verifica MFA.
+- Il terzo giorno l'applicazione ha effettuato due richieste API supportate da un token di accesso ottenuto tramite il metodo di autenticazione app+utente con verifica dell'autenticazione a più fattori.
 - Nei restanti quattro giorni non è stata effettuata alcuna operazione dagli agenti.
-- Le cinque richieste API nel secondo giorno supportate da un token di accesso ottenuto tramite l'autenticazione basata solo su app vengono omesse dalla metrica perché non usano le credenziali utente. Delle cinque operazioni rimanenti, due sono state supportate da un token di accesso ottenuto con la verifica MFA. Di conseguenza, la metrica indica il 40%.
+- Le cinque richieste API nel secondo giorno supportate da un token di accesso ottenuto tramite l'autenticazione basata solo su app vengono omesse dalla metrica perché non usano le credenziali utente. Delle cinque operazioni rimanenti, due sono state supportate da un token di accesso ottenuto con la verifica dell'autenticazione a più fattori. Di conseguenza, la metrica indica il 40%.
 
 ## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>Come procedere se le metriche nel report MFA non sono pari al 100%
 
@@ -96,18 +97,18 @@ In caso negativo, devi prima effettuare questa operazione. Per informazioni dett
 
 ### <a name="have-you-only-recently-completed-mfa-implementation"></a>Hai completato l'implementazione dell'autenticazione MFA solo di recente?
 
-Le metriche vengono calcolate su base giornaliera e prendono in considerazione le operazioni eseguite negli ultimi sette giorni. Se hai completato l'implementazione dell'autenticazione per il tenant partner solo di recente, è possibile che le metriche non siano pari al 100%.
+Le metriche vengono calcolate su base giornaliera e prendono in considerazione le operazioni eseguite sull'account negli ultimi sette giorni. Se hai completato l'implementazione dell'autenticazione per il tenant partner solo di recente, è possibile che le metriche non siano pari al 100%.
 
 ### <a name="have-some-user-accounts-been-excluded-from-mfa-implementation"></a>Alcuni account utente sono stati esclusi dall'implementazione dell'autenticazione MFA?
 
-Verifica se l'implementazione dell'autenticazione MFA corrente copre tutti gli account utente o solo alcuni. Alcune soluzioni MFA sono basate su criteri e supportano l'esclusione degli utenti, mentre altre potrebbero richiedere l'abilitazione esplicita dell'autenticazione MFA in base ai singoli utenti. Verifica di non aver escluso alcun utente dall'implementazione MFA corrente. Eventuali account utente esclusi che eseguono l'accesso al Centro per i partner per eseguire un'attività correlata a CSP possono causare il mancato raggiungimento del 100% nelle metriche.
+Verifica se l'implementazione dell'autenticazione MFA corrente copre tutti gli account utente o solo alcuni. Alcune soluzioni di autenticazione a più fattori sono basate su criteri e supportano l'esclusione degli utenti, mentre altre potrebbero richiedere l'abilitazione esplicita dell'autenticazione a più fattori in base ai singoli utenti. Verifica di non aver escluso alcun utente dall'implementazione MFA corrente. Eventuali account utente esclusi che eseguono l'accesso al Centro per i partner per eseguire un'attività correlata a CSP possono causare il mancato raggiungimento del 100% nelle metriche.
 
 ### <a name="is-mfa-only-required-when-certain-conditions-are-met"></a>L'autenticazione MFA è necessaria solo se vengono soddisfatte determinate condizioni?
 
-Verifica se l'implementazione corrente applica l'autenticazione MFA solo in condizioni specifiche. Alcune soluzioni MFA presentano caratteristiche di flessibilità e consentono di applicare l'autenticazione MFA solo quando vengono soddisfatte determinate condizioni, ad esempio un utente che accede da un dispositivo o da una posizione sconosciuta. Un utente che è abilitato per l'autenticazione MFA, ma non è tenuto a completare la verifica MFA quando accede al Centro per i partner, può causare il mancato raggiungimento del 100% nelle metriche.
+Verifica se l'implementazione corrente applica l'autenticazione a più fattori solo in condizioni specifiche. Alcune soluzioni MFA presentano caratteristiche di flessibilità e consentono di applicare l'autenticazione MFA solo quando vengono soddisfatte determinate condizioni, ad esempio un utente che accede da un dispositivo o da una posizione sconosciuta. Un utente che è abilitato per l'autenticazione MFA, ma non è tenuto a completare la verifica MFA quando accede al Centro per i partner, può causare il mancato raggiungimento del 100% nelle metriche.
 
 >[!NOTE]
->Per i partner che hanno implementato l'autenticazione MFA usando le impostazioni predefinite per la sicurezza Azure AD, è importante tenere presente che per gli account utente non di tipo amministratore verrà imposta l'autenticazione a più fattori in base al rischio. Agli utenti verrà chiesto di eseguire l'autenticazione MFA solo durante tentativi di accesso a rischio (ad esempio per l'accesso da una località diversa). Inoltre, gli utenti dispongono di un periodo massimo di 14 giorni per la registrazione per l'autenticazione MFA. Agli utenti che non hanno completato la registrazione MFA non verrà richiesta la verifica MFA durante il periodo di 14 giorni. È previsto pertanto che le metriche non siano pari al 100% per i partner che hanno implementato l'autenticazione MFA usando le impostazioni predefinite per la sicurezza Azure AD.
+>Per i partner che hanno implementato l'autenticazione MFA usando le impostazioni predefinite per la sicurezza Azure AD, è importante tenere presente che per gli account utente non di tipo amministratore verrà imposta l'autenticazione a più fattori in base al rischio. Agli utenti verrà chiesto di eseguire l'autenticazione a più fattori solo durante tentativi di accesso a rischio (ad esempio per l'accesso da una località diversa). Inoltre, gli utenti dispongono di un periodo massimo di 14 giorni per la registrazione per l'autenticazione MFA. Agli utenti che non hanno completato la registrazione MFA non verrà richiesta la verifica MFA durante il periodo di 14 giorni. È previsto pertanto che le metriche non siano pari al 100% per i partner che hanno implementato l'autenticazione MFA usando le impostazioni predefinite per la sicurezza Azure AD.
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>Usi una soluzione MFA di terze parti?
 

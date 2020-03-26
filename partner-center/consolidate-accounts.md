@@ -1,21 +1,21 @@
 ---
 title: Consolidamento degli account aziendali | Centro per i partner
 ms.topic: article
-ms.date: 01/16/2020
+ms.date: 03/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri come consolidare gli account Partner Membership Center (PMC) in un unico account nel Centro per i partner. Questa operazione viene effettuata quando esegui la migrazione da PMC al Centro per i partner.
+description: Scopri come consolidare gli account Partner Membership Center (PMC) in un unico account nel Centro per i partner. Questo processo si applica alla migrazione da Partner Membership Center (PMC) al Centro per i partner.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: b94b04dd73a34cbd303cbc89443899fef11b287c
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.openlocfilehash: d6e867d9e78fb7b8d0612cde5f6a57537ad40e77
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171185"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226137"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolidare gli account aziendali
 
@@ -24,13 +24,13 @@ ms.locfileid: "76171185"
 - Amministratore dei partner MPN
 - Amministratore degli account
 
-In Partner Membership Center una società può disporre di molti account e posizioni. Ogni posizione dispone di un proprio account. Quando esegui la migrazione al Centro per i partner, tutti gli account e tutte le posizioni vengono consolidati in un unico account globale del partner con diverse posizioni. Gli ID MPN, i vantaggi, le competenze e gli acquisti vengono spostati con te. Niente andrà perduto. 
+In Partner Membership Center una società può disporre di molti account e posizioni. Ogni posizione dispone di un proprio account. Quando esegui la migrazione al Centro per i partner, tutti gli account e tutte le posizioni vengono consolidati in un unico account globale del partner con diverse posizioni. Gli elementi seguenti si spostano con il tuo account: ID MPN, competenze, acquisti, offerte, programmi e risorse di marketing. Non verrà perso alcun dato.
 
-Quando accedi al Centro per i partner per la prima volta, vieni aggiunto come amministratore MPN per il tuo account del Centro per i partner in modo da poter amministrare l'account, aggiungere utenti, assegnare autorizzazioni e così via. 
+Quando accedi al Centro per i partner per la prima volta, vieni aggiunto come amministratore MPN per il tuo account del Centro per i partner. Questo ruolo consente di amministrare l'account, aggiungere utenti, assegnare autorizzazioni ed eseguire altre attività amministrative.
 
-## <a name="why-should-you-consolidate-your-multiple-accounts-in-pmc-into-one-account-in-partner-center-when-you-migrate"></a>Perché consolidare più account di Partner Membership Center in un account del Centro per i partner quando esegui la migrazione
+## <a name="why-should-you-consolidate-your-multiple-accounts-in-pmc-into-one-account-in-partner-center"></a>Perché consolidare più account in Partner Membership Center in un account del Centro per i partner?
 
-1. Tutto è disponibile in un unico account, di conseguenza sarà più semplice gestire l'account Microsoft Partner Network.
+1. Tutto è disponibile in un unico account, di conseguenza è più semplice gestire l'account Microsoft Partner Network.
 
 2. La gestione e la pubblicazione di soluzioni di co-selling sono più facili con una struttura con un unico account.
 
@@ -38,31 +38,30 @@ Quando accedi al Centro per i partner per la prima volta, vieni aggiunto come am
 
 4. Dovrai pagare le competenze e i Microsoft Action Pack una sola volta, ogni anno.
 
-5. Dopo aver consolidato gli account, potresti essere idoneo per altre competenze. In questo caso, puoi anche ottenere l'idoneità a programmi di incentivi per i quali non eri precedentemente idoneo.
+5. Dopo aver consolidato gli account, potresti essere idoneo per altre competenze. Puoi anche risultare idoneo ad altri programmi di incentivi.
 
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Cosa accade durante il consolidamento degli account
 
-- Non potrai modificare i dettagli nella schermata dei dettagli della società perché sono relativi all'account globale del partner. 
+- Non è possibile modificare i dettagli nella schermata dei dettagli della società. Questi dettagli sono relativi all'account globale del partner. 
 
-- Gli account in Partner Membership Center (attualmente in fase di trasferimento) verranno consolidati nell'account globale del partner. 
+- Gli account in Partner Membership Center verranno consolidati nell'account globale del partner.
 
-- Tutte le posizioni in Partner Membership Center verranno spostate nell'account globale del partner esistente del Centro per i partner come posizioni e sarà possibile aggiungerne altre. Per altre informazioni sulle posizioni, vedi [Gestire l'account partner - Posizioni](manage-locations.md).
+- Tutte le località in PMC verranno trasferite in questo account globale del partner del Centro per i partner esistente come posizioni. Puoi anche aggiungere altre posizioni. Per altre informazioni sulle posizioni, vedi [Gestire l'account partner: Posizioni](manage-locations.md).
 
-- Al termine del consolidamento, tutti i dettagli delle società verranno visualizzati come posizioni all'interno dell'account globale del partner. Una volta consolidate le società, non puoi annullare il processo.
+- Dopo aver completato il processo di consolidamento, non sarà possibile invertirlo. Tutti i dettagli delle società verranno visualizzati come posizioni all'interno dell'account globale del partner esistente. 
 
 - Tutti gli ID MPN vengono conservati durante il consolidamento.
 
-- Tutte le competenze esistenti (Gold/Silver), gli acquisti (Microsoft Action Pack/Gold/Silver) e i vantaggi associati vengono conservati durante il consolidamento.
+- Tutte le competenze esistenti (Gold/Silver) e gli acquisti (Microsoft Action Pack/Gold/Silver) vengono conservati durante il consolidamento. Vengono conservati anche offerte, programmi e risorse di marketing correlati.
 
-- In quanto utente che ha eseguito l'accesso con l'ID di posta elettronica aziendale, verrai automaticamente aggiunto come amministratore MPN e amministratore account all'account globale del partner in modo da poter amministrare l'account in base alle esigenze. 
+- In quanto utente che ha eseguito l'accesso con l'ID di posta elettronica aziendale, verrai automaticamente aggiunto come amministratore MPN e amministratore account all'account globale del partner. In questo modo, potrai amministrare l'account in base alle esigenze.
 
+## <a name="consolidating-your-go-to-market-offers-programs-and-competencies"></a>Consolidamento di offerte, programmi e competenze go-to-market
 
-## <a name="consolidating-your-benefits-and-competencies"></a>Consolidamento dei vantaggi e delle competenze
+In Partner Membership Center ogni posizione può disporre di proprie competenze, di propri Microsoft Action Pack e di altre offerte di marketing specifici di una posizione.
 
-In Partner Membership Center ogni posizione può disporre di proprie competenze, di propri Microsoft Action Pack e di altri vantaggi specifici di una posizione.
-
-Poiché nel Centro per i partner tutti gli account delle posizioni verranno consolidati in un unico account globale, verranno consolidati anche i vantaggi e le competenze. I toolkit di vantaggi aggiuntivi (ABTK) non saranno disponibili. Potrai tuttavia organizzare la distribuzione dei vantaggi e delle competenze secondo le esigenze aziendali. Quando esegui il consolidamento, viene fornita un'estensione che garantisce che i vantaggi di cui ha usufruito la società in Partner Membership Center vengano estesi per un altro anno.
+Nel Centro per i partner questi account di posizione verranno consolidati in un unico account globale (PGA). Ciò significa che vengono consolidati anche tutti i programmi, le offerte e le competenze go-to-market. I toolkit di vantaggi aggiuntivi (ABTK) non saranno disponibili. Puoi tuttavia organizzare la distribuzione di competenze, programmi, offerte e risorse di marketing necessari per la tua azienda. Dopo il consolidamento, viene fornita un'estensione. Questa estensione consente alla società di sfruttare le risorse, le offerte e i programmi di marketing usati in PMC per un ulteriore anno.
 
 Per altre informazioni sulle differenze tra Partner Membership Center e il Centro per i partner, vedi [Passare da Partner Membership Center al Centro per i partner](guide-to-migration.md).
 

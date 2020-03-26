@@ -1,7 +1,7 @@
 ---
 title: Requisiti di competenza Microsoft per l'adesione Gold e Silver | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i requisiti di competenza per conseguire i livelli di adesione Gold e Silver.
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competenze, adesione silver, adesione gold, mpn, abbonamento a Microsoft Action Pack, preparazione, Microsoft Partner Network, adesione alla rete, specializzazioni avanzate
 ms.localizationpriority: high
-ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004810"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226217"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informazioni sulle competenze Microsoft Silver e Gold e sulle specializzazioni avanzate
 
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
+-    Amministratore globale
+-    Amministratore utenti
 
 Dimostra la tua comprovata esperienza nella fornitura di soluzioni di qualità in uno o più settori specifici di business. Le competenze Microsoft sono concepite per prepararti a soddisfare le esigenze dei tuoi clienti e aiutarti ad attirare nuovi clienti in cerca di provider di soluzioni Microsoft Certified. Entra nell'élite dei partner Microsoft e distinguiti dal gruppo.
 
@@ -30,7 +30,7 @@ Dimostra la tua comprovata esperienza nella fornitura di soluzioni di qualità i
 
 - Come partner Gold, puoi anche aggiungere specializzazioni avanzate al tuo portfolio.
 
-L'acquisizione delle competenze per l'**adesione Silver** o l'**adesione Gold** consente anche di ottenere enormi vantaggi in termini di vendite e marketing [Go-to-market](mpn-learn-about-go-to-market-benefits.md) per favorire l'espansione e la crescita del tuo business.
+L'acquisizione delle competenze per l'**adesione Silver** o l'**adesione Gold** consente anche di ottenere programmi e offerte [go-to-market](mpn-learn-about-go-to-market-benefits.md) utili per favorire l'espansione e la crescita del tuo business.
 
 ## <a name="competency-areas"></a>Aree di competenza
 
@@ -54,7 +54,7 @@ Scopri le [fatture e imposte per le competenze](mpn-view-print-maps-invoice.md)
 
 ## <a name="advanced-specializations"></a>Specializzazioni avanzate
 
-Vai oltre la tua competenza Gold con una specializzazione avanzata. Le specializzazioni di questo tipo ti consentono di presentare la tua esperienza comprovata e verificabile relativamente a un prodotto, un'area di soluzioni o un servizio. I clienti vedranno sia la tua competenza Gold che la tua specializzazione avanzata nel tuo profilo di business nella directory dei partner. Per ricevere un tag di specializzazione avanzata, la tua azienda deve soddisfare pienamente una serie di criteri pubblicati e deve essere convalidata da Microsoft. [Ulteriori informazioni](https://partner.microsoft.com/membership/competencies#tab-content-2). 
+Vai oltre la tua competenza Gold con una specializzazione avanzata. Le specializzazioni di questo tipo ti consentono di presentare la tua esperienza comprovata e verificabile relativamente a un prodotto, un'area di soluzioni o un servizio. I clienti vedranno sia la tua competenza Gold che la tua specializzazione avanzata nel tuo profilo di business nella directory dei partner. Per ricevere un tag di specializzazione avanzata, la tua azienda deve soddisfare pienamente una serie di criteri pubblicati e deve essere convalidata da Microsoft. [Altre informazioni](https://partner.microsoft.com/membership/competencies#tab-content-2). 
 
 ## <a name="the-current-advanced-specializations"></a>Specializzazioni avanzate correnti
 

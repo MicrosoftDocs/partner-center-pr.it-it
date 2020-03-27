@@ -1,7 +1,7 @@
 ---
 title: Visualizzare i requisiti di idoneità per la pianificazione di engagement Services | Centro per i partner
 ms.topic: article
-ms.date: 01/29/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sui requisiti di idoneità per ogni impegno di Software Assurance Planning Services che un'azienda potrebbe voler offrire ai clienti aziendali.
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 Keywords: pre-distribuzione, pianificazione, Software Assurance, coinvolgimento, requisiti, idoneità, offerta
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f53d12c470ec72bd8eb59ea7d21db06d813a763
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: d75753bdaef97f1cf0b9bd4c20474954e747735d
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76928890"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296439"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Visualizzare i requisiti di idoneità per la pianificazione di engagement Services
 
@@ -41,8 +41,9 @@ Ogni impegno per i servizi di pianificazione presenta requisiti di idoneità spe
 | Pianificazione della distribuzione di Exchange<br> Pianificazione della distribuzione di Skype for business</br>  | [Engagement di Skype for business e Exchange Deployment Planning Services (S-GEPD)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | Modernizzazione delle proprietà dei dati  | [Engagement di SQL Server Deployment Planning Services (SSDPS)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
 - [Flusso di lavoro di Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Domande frequenti su Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [Criteri di Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Software Assurance Planning Services-impegni ritirati](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

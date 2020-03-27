@@ -1,7 +1,7 @@
 ---
 title: Software Assurance Planning Services nel centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 01/31/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come iscriverti e qualificarti per gli impegni di Microsoft Planning Services, in modo da poter offrire formazione e altri servizi ai clienti con Software Assurance.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: pre-distribuzione, pianificazione, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: a8bce7d7e9d52071af3ffc8c483a4aa4c40cc54f
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76915748"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296400"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Servizi di pianificazione Software Assurance nel Centro per i partner
 
@@ -25,7 +25,7 @@ ms.locfileid: "76915748"
 
 In qualità di partner di servizi di pianificazione approvato, Microsoft compensa l'utente per fornire impegni di pianificazione pre-distribuzione per i clienti aziendali. La partecipazione a questo programma può essere utile per attirare più clienti, diventare partner di pianificazione attendibile e raggiungere ulteriori impegni con i clienti.
 
-## <a name="get-started"></a>Per iniziare
+## <a name="get-started"></a>Attività iniziali
 
 Se non si ha familiarità con Software Assurance Planning Services, attenersi alla procedura riportata di seguito. Se è già attivo nei programmi di Planning Services, iniziare ogni nuovo impegno al passaggio 4 (4) riportato di seguito.
 
@@ -52,7 +52,7 @@ Prima che le aziende partner e i consulenti possano iscriversi a una delle offer
 
 Per verificare l'idoneità dell'azienda ad iscriversi a uno specifico impegno per la pianificazione dei servizi:
 
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard/home)del centro per i partner.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.
 2. Selezionare **MPN** dal menu, quindi selezionare **programmi**.
 3. Selezionare **registrazione Software Assurance**.
 4. Nella parte superiore della pagina selezionare la scheda **registrazione programma di pianificazione dei servizi** . Verrà visualizzato un segno di spunta verde accanto a tutti i requisiti o le competenze già completati.
@@ -103,8 +103,9 @@ Dopo aver riscattato i voucher di Planning Services, è necessario fatturare Mic
 
 Per inviare una fattura a Microsoft tramite SAVB, seguire le istruzioni riportate nel [passaggio 8](https://go.microsoft.com/fwlink/?linkid=2115983) del flusso di lavoro.
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
 - [Flusso di lavoro di Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Domande frequenti su Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [Criteri di Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Software Assurance Planning Services-impegni ritirati](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

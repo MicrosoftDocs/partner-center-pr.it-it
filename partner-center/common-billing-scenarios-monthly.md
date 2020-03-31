@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 11/25/2019
 description: Scenari comuni nel centro per i partner quando si usa la fatturazione mensile, ad esempio l'aggiunta di nuove sottoscrizioni, la modifica della quantità di licenze e la sospensione delle sottoscrizioni.
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: fatturazione, pagamenti, ordini, utilizzo, fatturazione mensile, sottoscrizioni, file di riconciliazione
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cae4f82e059a2c8258a00ae51a406ca890f7a67
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a9163f7b787d76373a427b9e2d9f09b131227888
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722493"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390141"
 ---
 # <a name="monthly-billing-scenarios"></a>Scenari di fatturazione mensili
 
@@ -54,7 +54,7 @@ Il 1° febbraio aumenti la quantità di licenze da una a due. Il 15 febbraio il 
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 | 13/1/2018        |12/2/2018    |Ripartizione dell'istanza del ciclo   |-4,00       |1        |-4,00   |
 |13/1/2018         |31/1/2018    | Ripartizione dell'istanza del ciclo   |2,45       |1        |2,45    |
-|1/2/2018         |12/2/2018    | Ripartizione dell'istanza del ciclo   |1,55       |2        |3,10    |
+|1/2/2018         |12/2/2018    | Ripartizione dell'istanza del ciclo   |1,55       |2        |3.10    |
 |13/2/2018         |12/3/2018    | Ripartizione dell'istanza del ciclo   |4,00       |2        |8,00    |
 
 Il prezzo mensile è di 4,00 e sono presenti 31 giorni nel periodo del servizio 13/1/2018-12/2/2018. Ciò equivale a un prezzo giornaliero di 0,129 (31/4).

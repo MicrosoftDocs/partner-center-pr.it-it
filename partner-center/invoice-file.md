@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 08/26/2019
 description: Comprendere i campi del file di fattura per la fatturazione del centro per i partner.
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: fatturazione, fattura
 ms.localizationpriority: medium
-ms.openlocfilehash: 05a5f7df1b0abf34680fbc836a99738434758f92
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 1307a9a2f95cedde5eda7deefb61cb202597f804
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004566"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390910"
 ---
 # <a name="invoice-files"></a>File di fattura
 
@@ -39,7 +39,7 @@ Nei file della fattura vengono visualizzati i campi seguenti.
 | Sconti | Lo sconto ricevuto dal cliente dal prezzo normale della sottoscrizione. Questo numero viene visualizzato come *importo Flat*, non come prezzo per unità o licenza. |
 | Crediti | Crediti o rettifiche per le modifiche apportate alle sottoscrizioni (ad esempio, aumenta o diminuisce il posto). |
 | Subtotal | Totale al lordo delle imposte e crediti e addebiti netti. |
-| Imposta | Imposta totale per gli addebiti correnti, come totale nella sezione dei **Dettagli** a partire dalla pagina 2 della fattura. Questo numero corrisponde alla somma di tutti gli addebiti nella colonna **TaxAmount** (colonna **AA**) nel file di riconciliazione basato sull'utilizzo e nella colonna **Tax** (colonna **U**) nel file di riconciliazione basato su licenza. |
+| Tax | Imposta totale per gli addebiti correnti, come totale nella sezione dei **Dettagli** a partire dalla pagina 2 della fattura. Questo numero corrisponde alla somma di tutti gli addebiti nella colonna **TaxAmount** (colonna **AA**) nel file di riconciliazione basato sull'utilizzo e nella colonna **Tax** (colonna **U**) nel file di riconciliazione basato su licenza. |
 | Altri crediti | Crediti netti. |
 | Costi attuali totali | Importo dovuto alla valuta di fatturazione per il periodo di fatturazione. Questi addebiti sono dovuti alla data di scadenza del pagamento. |
 | Istruzioni per il pagamento | Descrizione di come pagare la fattura in base all'area geografica. *Quando si effettua un pagamento, assicurarsi sempre di includere il numero di fattura.* |
@@ -64,5 +64,5 @@ I campi seguenti si applicano solo agli **addebiti** monouso nel centro per i pa
 | Prezzo unitario | Prezzo per prodotto, ad esempio una prenotazione. |
 | Sconti | Eventuali sconti applicabili. |
 | Importo pre-imposta | Totale parziale degli acquisti prima delle imposte. |
-| Imposta sulle vendite | Importo dell'imposta. |
+| Imposta sulle vendite | Importo relativo alle imposte. |
 | Totale | Importo totale da pagare. |

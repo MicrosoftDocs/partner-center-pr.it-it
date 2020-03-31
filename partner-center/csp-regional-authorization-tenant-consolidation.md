@@ -6,23 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche diversi. Sono inclusi i passaggi per eseguire la migrazione degli account cliente e delle sottoscrizioni dei clienti.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: migrazione dei clienti, provisioning, account tenant, consolidamento dei tenant
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: d05f400084dc72ca380dd16c10e5b5909318f788
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 04c39d15b9e2c0223ef472bc14de82faae12a449
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722175"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390970"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidamento dei tenant per l'autorizzazione regionale per CSP
 
 **Si applica a**
 
--  Centro per i partner
+-  Partner Center
 -  Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**

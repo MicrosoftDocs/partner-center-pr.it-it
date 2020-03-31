@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sui problemi che i partner Microsoft dovrebbero risolvere per i clienti e sui problemi che potrebbero essere necessari per inoltrare a Microsoft.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: f4b6e11e1bd4ad4acd014dbe9786cd9189bdbbc1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722243"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389860"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Inoltrare i problemi a Microsoft
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 - Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
@@ -47,7 +47,7 @@ Esistono però alcune categorie di problemi che è necessario inoltrare a Micros
 
 ## <a name="submit-a-support-request"></a>Inviare una richiesta di supporto
 
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 2. Dal menu centro per i partner selezionare **Customers**, quindi selezionare il cliente che necessita del supporto tecnico.
 

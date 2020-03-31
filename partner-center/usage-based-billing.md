@@ -3,20 +3,20 @@ title: Fatturazione basata sull'utilizzo | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informazioni sulla fatturazione basata sull'utilizzo nel centro per i partner, in cui vengono addebitate le tariffe di utilizzo mensili.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: fatturazione, utilizzo in base all'utilizzo
 ms.localizationpriority: medium
-ms.openlocfilehash: c92c6f9014a40a0f8804ba83ba7cc85939e90281
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389739"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390500"
 ---
 # <a name="usage-based-billing"></a>Fatturazione in base all'uso
 
-- Centro per i partner
+- Partner Center
 - Partner aderenti al programma CSP
 
 Quando si acquistano Servizi online, ad esempio le sottoscrizioni di Azure, vengono addebitate le tariffe di utilizzo mensili. I servizi basati sull'utilizzo, ad esempio Azure, vengono fatturati in base alle tariffe a consumo, in base al consumo.

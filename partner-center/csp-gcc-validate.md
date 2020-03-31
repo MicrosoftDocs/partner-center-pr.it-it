@@ -5,21 +5,21 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vengono illustrati i passaggi per la fatturazione diretta dei partner (rivenditori diretti, provider indiretti) per convalidare i partner e i clienti per Office 365 Government GCC per CSP.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 3819362421c19a9331760ff4c2068c1a781dd00c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a0cbdcd0ac4bcf6eda9df43f4b3a92bfcb4ce91b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721942"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389730"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Criteri di idoneità per clienti e partner CSP di Office 365 Government GCC
 
 **Si applica a**
 
--  Centro per i partner
+-  Partner Center
 -  Partner CSP
 
 **Ruoli appropriati**
@@ -48,7 +48,7 @@ La convalida dell'idoneità per Office 365 Government GCC per partner e clienti 
 2.  Serve i clienti del governo degli Stati Uniti tramite GSA o altri mezzi di contratto
 
 **Criteri del cliente**
-1.  Ente pubblico degli Stati Uniti nello svolgimento delle sue funzioni di governo. Ad esempio:
+1.  Ente pubblico degli Stati Uniti nello svolgimento delle sue funzioni di governo. Ad esempio,
  
     -  Agenzia federale (ad esempio bureau, agenzia, reparto o altra entità del governo degli Stati Uniti)
     -   Entità statale/locale 

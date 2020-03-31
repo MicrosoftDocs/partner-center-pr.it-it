@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 11/25/2019
 description: 'Vedere fatturazione annuale del centro partner: quando si aggiungono nuove sottoscrizioni, aggiungere le licenze prima della data di fatturazione, modificare la quantità di licenze, sospendere/riattivare le sottoscrizioni.'
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: fatturazione, pagamenti, ordini, utilizzo, fatturazione basata su licenza, data anniversario, termine, annullamento, rinnovo, formula prezzo, file di riconciliazione, file di ricognizione
 ms.localizationpriority: medium
-ms.openlocfilehash: d29def486243f3a4ee9060d442dc5e4b024cb1f0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: fdfb242f51556ce924d06d7a35f32cf726803fe3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722476"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390160"
 ---
 # <a name="annual-billing-scenarios"></a>Scenari di fatturazione annuali
 

@@ -3,21 +3,21 @@ title: Fatturazione per una sola volta e selezionare i costi ricorrenti | Centro
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informazioni sulla fatturazione monouso in anticipo per un periodo di tempo preimpostato (sottoscrizioni mensili e annuali) e fatturazione per gli addebiti selezionati (per prodotti ISV Microsoft e di terze parti) nel centro per i partner.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: fatturazione, una volta, periodici, acquisti, addebiti, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005040"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390780"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Fatturazione per addebiti occasionali e periodici
 
 **Si applica a**
-- Centro per i partner
+- Partner Center
 - Partner aderenti al programma CSP
 
 **Ruoli appropriati**

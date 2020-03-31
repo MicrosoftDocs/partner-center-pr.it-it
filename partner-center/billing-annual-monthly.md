@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 11/25/2019
 Description: Informazioni sulle differenze tra i cicli di fatturazione mensili e annuali nel centro per i partner.
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a05f64ac919cce0339f0033fa38a4b43e61d3c08
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722413"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390310"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>Differenze di fatturazione mensili e annuali
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 - Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
@@ -85,7 +85,7 @@ Sarà anche necessario [aggiornare le API per la fatturazione annuale](#required
 Per utilizzare la fatturazione annuale è necessario apportare alcune modifiche alle API.
 
 - [Proprietà Order. BillingCycle](https://docs.microsoft.com/dotnet/api/microsoft.store.partnercenter.models.orders.order.billingcycle)
-- [Creazione di un ordine](https://docs.microsoft.com/partner-center/develop/create-an-order)
+- [Creare un ordine](https://docs.microsoft.com/partner-center/develop/create-an-order)
 
 Per ulteriori informazioni sulle API del centro per i partner, vedere tutte [le risorse e la documentazione per gli sviluppatori del centro partner](https://docs.microsoft.com/partner-center/develop/).
 
@@ -145,7 +145,7 @@ Il nuovo partner deve acquistare una nuova sottoscrizione per conto del cliente.
 
 È possibile riattivare una sottoscrizione per un massimo di 90 giorni dopo la data di sospensione. Riceverai un addebito ripartito proporzionalmente alla data di fatturazione successiva. La data di rinnovo dell'abbonamento rimane invariata.
 
-## <a name="pricing"></a>Prezzi
+## <a name="pricing"></a>Pricing
 
 ### <a name="offer-pricing"></a>Prezzi offerta
 
@@ -207,11 +207,11 @@ Gli ID offerta nella matrice dell'offerta sono gli stessi per tutte le frequenze
 
 ### <a name="incentives-calculation"></a>Calcolo degli incentivi
 
-Gli incentivi vengono calcolati in base ai **ricavi fatturati**, ai **ricavi *non* corretti**. I pagamenti degli incentivi realizzati verranno visualizzati in base ai criteri disponibili nelle nostre guide agli incentivi CSP.
+Gli incentivi vengono calcolati in base ai **ricavi fatturati**, ai **ricavi *non* corretti**. I pagamenti degli incentivi realizzati verranno visualizzati in base ai nostri criteri disponibili nelle nostre guide agli incentivi CSP.
 
 Quando viene venduta una sottoscrizione fatturata annualmente, i ricavi di tale sottoscrizione vengono riconosciuti per il calcolo degli incentivi in base ai ricavi fatturati.
 
-### <a name="payout"></a>Proventi
+### <a name="payout"></a>Pagamento
 
 Attualmente, tutti i pagamenti incentive vengono eseguiti due volte all'anno. 45 giorni dopo la fine del semestre.
 
@@ -219,17 +219,17 @@ Attualmente, tutti i pagamenti incentive vengono eseguiti due volte all'anno. 45
 
 I partner ottengono incentivi per tutte le transazioni idonee, indipendentemente dalla fatturazione di una sottoscrizione. I guadagni degli incentivi vengono calcolati in base al tasso di incentivo globale (applicato ai ricavi fatturati per il periodo), all'acceleratore locale (per tutte le aree geografiche in cui sono presenti acceleratori locali) ed eventuali campagne globali (ove applicabile).
 
-### <a name="contacts"></a>Contatti
+### <a name="contacts"></a>Contacts
 
 Per domande sugli incentivi, contattare il team di supporto tecnico per gli incentivi regionali appropriato:
 
-| Area geografica | Indirizzo e-mail |
+| Region | Indirizzo e-mail |
 | ------ | ------------- |
 | America del Nord | <ocina@microsoft.com> |
 |America Latina & Brasile | <ocilatam@microsoft.com> |
 | EMEA | <ociemea@microsoft.com> |
 | APOAC (escluso il Giappone) | <ociapgc@microsoft.com> |
-| Giappone | <ocijp@microsoft.com> |
+| Japan | <ocijp@microsoft.com> |
 
 
 ### <a name="suspension"></a>Sospensione

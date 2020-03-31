@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come creare gli account utente per un cliente, aggiungere o rimuovere licenze utente, reimpostare le password utente, eliminare gli account utente o ripristinarli.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: gestione clienti, account, creazione account, licenze, assegna licenza, gestione utenti, password, Reimposta password, modifica password
 ms.localizationpriority: medium
-ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: fcd5ebe2cb5daa5eafcd3ef56e1750225fcc9990
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721360"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391010"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Attività di gestione degli utenti per gli account dei clienti
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 
 **Ruoli appropriati**
 
@@ -41,13 +41,13 @@ Puoi [assegnare le sottoscrizioni a più utenti](bulk-license-provisioning-for-m
 
 ## <a name="create-user-accounts-for-a-customer"></a>Creare account utente per un cliente
 
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
 3. Nel menu del cliente seleziona **Utenti e licenze**.
 
-4. Per ogni utente seleziona **Aggiungi sottoscrizione** e quindi compila le informazioni, incluse autorizzazioni e licenze. Utilizza **Salva** per salvare le modifiche.
+4. Per ogni utente seleziona **Aggiungi sottoscrizione** e quindi compila le informazioni, incluse autorizzazioni e licenze. **Salva** le modifiche.
 
 5. Assicurati di registrare il nome utente e una password temporanea da inviare all'utente.
 
@@ -61,7 +61,7 @@ Puoi [assegnare le sottoscrizioni a più utenti](bulk-license-provisioning-for-m
 
 I passaggi seguenti riguardano l'aggiunta o la rimozione di licenze utente per i prodotti Microsoft. Per aggiungere o rimuovere le licenze utente per le sottoscrizioni SaaS basate su licenza nel Marketplace commerciale, vedere [aggiungere o rimuovere licenze per una sottoscrizione Saas](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
 
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
@@ -78,7 +78,7 @@ I passaggi seguenti riguardano l'aggiunta o la rimozione di licenze utente per i
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Reimpostare la password di un utente per un cliente
 
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
@@ -96,7 +96,7 @@ I passaggi seguenti riguardano l'aggiunta o la rimozione di licenze utente per i
 
 2.  Nel menu del cliente seleziona **Utenti e licenze**. Scegli l'utente nell'elenco.
 
-3.  Nella parte inferiore della schermata fai clic su **Elimina account utente**.
+3.  Nella parte inferiore della schermata fai clic su **Elimina utente**.
 
 Se devi ripristinare questo account, puoi trovarlo nella scheda **Utenti eliminati** dell'elenco **Utenti e licenze** del cliente. Hai a disposizione 30 giorni per ripristinare un utente eliminato.
 

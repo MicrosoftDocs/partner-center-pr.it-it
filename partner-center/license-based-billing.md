@@ -3,22 +3,22 @@ title: Fatturazione basata sulle licenze | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informazioni sulla fatturazione basata sulle licenze nel centro per i partner, in cui vengono addebitate le licenze per licenza (non per utilizzo della licenza).
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: fatturazione, pagamenti, licenza basata su licenza
 ms.localizationpriority: medium
-ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 726f7d3664243405bdc4eaa67b32dbe5e21d5fb4
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004920"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390900"
 ---
 # <a name="license-based-billing"></a>Fatturazione in base alle licenze
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 - Partner aderenti al programma CSP
 
 **Ruoli appropriati**
@@ -37,7 +37,7 @@ Quando si acquistano prodotti o Servizi online nel centro per i partner che rich
 
 Le sottoscrizioni basate su licenza vengono fatturate in anticipo nella **Data di anniversario**della sottoscrizione. La data di anniversario è il giorno del mese in cui è stata acquistata la sottoscrizione.
 
-Ad esempio:
+Ad esempio,
 
 - Se è stata acquistata una **sottoscrizione mensile** il 15 gennaio, la data di anniversario sarà il 15 di ogni mese.
 - Se è stata acquistata una **sottoscrizione annuale** il 15 gennaio, la data di anniversario sarà il 15 gennaio di ogni anno.

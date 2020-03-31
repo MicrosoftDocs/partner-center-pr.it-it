@@ -5,23 +5,23 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni sui diversi tipi di fatturazione, i periodi di fatturazione e le date di fatturazione che potrebbero essere visualizzati nel centro per i partner.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: fatturazione, pagamenti, ordini, file di riconciliazione
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 73378fda27cfb5cec8b9805ef90dbfa1c854bc44
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a6d4db62b89ec33740cd5a70141cf5a64533dfc0
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722245"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390290"
 ---
 # <a name="types-of-billing-in-partner-center"></a>Tipi di fatturazione nel centro per i partner
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 - Partner aderenti al programma CSP
 
 **Ruoli appropriati**

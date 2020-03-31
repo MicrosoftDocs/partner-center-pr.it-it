@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Esplorare la fatturazione dopo aver aggiunto nuove sottoscrizioni, modificare la quantità di licenze o annullare una sottoscrizione. Scopri in che modo le sottoscrizioni basate sull'utilizzo e sulle licenze sono diverse.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: fatturazione, pagamenti, ordini, utilizzo, fatturazione basata su licenza, data anniversario, termine, annullamento, rinnovo, formula prezzo, file di riconciliazione, file di ricognizione
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c7a24d0d33aa071ce4edba5cf579f6a6371af3d
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 2b8cfe28b6d81a2ff91543ed2d7005f72007b553
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722016"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390050"
 ---
 # <a name="common-billing-scenarios"></a>Scenari di fatturazione comuni
 

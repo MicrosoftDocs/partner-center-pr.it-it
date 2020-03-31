@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: L'edizione Microsoft Office 365 Enterprise E4 è stata ritirata il 7 aprile 2017. Scopri come eseguire la migrazione degli abbonamenti del cliente alle nuove versioni di Office 365.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 314711a3f640ad6a228a437e35fe0d8a543e4da5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ead92169ce7b3f1c2e697b6d4e983603c17d39fc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004565"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390880"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrazione degli abbonamenti Office 365 E4 alle nuove versioni di Office 365
 
 **Si applica a**
 
--  Centro per i partner
+-  Partner Center
 
 **Ruoli appropriati**
 -   Amministratore globale
@@ -53,7 +53,7 @@ Puoi scegliere di mantenere le stesse funzionalità di E4 oppure proporre ai cli
 - Opzione 4: Office 365 Enterprise E3
 
 
-| Funzionalità | Opzione 1 | Opzione 2 | Opzione 3 | Opzione 4 |
+| Caratteristica | Opzione 1 | Opzione 2 | Opzione 3 | Opzione 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
 | Offre tutte le funzionalità incluse in Office 365 Enterprise E4? | Sì | Sì | Sì | No |
 | Numeri di telefono gestiti in Office 365? | Sì | Sì | No | No |
@@ -68,9 +68,9 @@ Puoi scegliere di mantenere le stesse funzionalità di E4 oppure proporre ai cli
 
 Microsoft offre continuamente nuovi prodotti e servizi ai suoi partner. In questi casi, potrebbe essere necessario aggiornare i clienti ai nuovi servizi o eseguire la migrazione dei loro abbonamenti da SKU destinati a essere ritirati. La migrazione dei clienti da SKU ritirati a quelli più recenti richiede la procedura seguente:
 
--   Acquistare il nuovo abbonamento
+-   Acquistare la nuova sottoscrizione
 -   Riassegnare le licenze utente correnti
--   Annullare l'abbonamento precedente
+-   Annullare la sottoscrizione precedente
 
 Attieniti a questa procedura per eseguire la migrazione dell'abbonamento a Office 365 Enterprise E4 di un cliente a una delle opzioni incluse nella tabella precedente.
 
@@ -90,7 +90,7 @@ Attieniti a questa procedura per eseguire la migrazione dell'abbonamento a Offic
 
 3. Nella pagina **Gestisci licenze** deseleziona la casella di controllo della licenza di **Office 365 Enterprise E4** e seleziona un nuovo piano di servizio per l'abbonamento a cui sta passando il cliente.
 
-4. Seleziona **Invia**. Le nuove cessioni di licenza vengono visualizzate in una pagina di conferma.
+4. Selezionare **Submit**. Le nuove assegnazioni di licenza vengono visualizzate in una pagina di conferma.
 
 5. Ripeti la stessa procedura per tutti gli utenti del cliente per cui è necessaria la riassegnazione della licenza.
 
@@ -102,9 +102,9 @@ Dopo aver spostato le licenze utente al nuovo servizio, puoi tranquillamente ann
 
 2. Nella pagina dei dettagli sull'abbonamento imposta lo stato su **Sospeso**.
 
-3. Seleziona **Invia**.
+3. Selezionare **Submit**.
 
-L'abbonamento precedente viene sospeso e quello nuovo diventa attivo. Per la sottoscrizione sospesa verrà eseguito automaticamente l'annullamento del provisioning dopo 120 giorni. Il cliente non dovrà sostenere alcun costo aggiuntivo per l'abbonamento precedente.
+L'abbonamento precedente viene sospeso e quello nuovo diventa attivo. Per la sottoscrizione sospesa verrà eseguito automaticamente l'annullamento del provisioning dopo 120 giorni. Il cliente non dovrà sostenere alcun costo aggiuntivo per la sottoscrizione precedente.
 
 
 

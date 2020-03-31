@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come usare un account cliente per assegnare o revocare licenze e servizi a un utente o a più utenti contemporaneamente.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: assegnare una licenza, revocare la licenza, assegnarla a più utenti,
 ms.localizationpriority: medium
-ms.openlocfilehash: 1caf10625d776578f9b0bc91d40106cdd8dddf99
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a5dd688a5d4abd8d7f41921a16a7eda0467e5950
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722201"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390270"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Assegnare o revocare licenze a più utenti
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 
 **Ruoli appropriati**
 
@@ -33,7 +33,7 @@ ms.locfileid: "74722201"
 
 Puoi assegnare licenze e servizi a un utente o a più utenti contemporaneamente nell'account di un cliente e revocare le assegnazioni di licenze per gli utenti.
 
-il centro per i partner tiene traccia e Mostra tutti i diritti delle licenze di proprietà del cliente.
+Il centro per i partner tiene traccia e Mostra tutti i diritti delle licenze di proprietà del cliente.
 
 ## <a name="in-this-section"></a>Contenuto della sezione
 
@@ -74,7 +74,7 @@ il centro per i partner tiene traccia e Mostra tutti i diritti delle licenze di 
 7. Puoi selezionare più di un prodotto per gli utenti selezionando la casella di controllo per ogni prodotto.
     -   Seleziona **Visualizza piani di servizio** per qualsiasi prodotto, per visualizzare e selezionare i piani di servizio di cui hanno bisogno gli utenti.
 
-8. Seleziona **Salva**. Il centro per i partner apre una pagina di conferma **aggiornata delle licenze** in cui sono elencati gli utenti e le nuove licenze.
+8. Selezionare **Salva**. Il centro per i partner apre una pagina di conferma **aggiornata delle licenze** in cui sono elencati gli utenti e le nuove licenze.
 
 **Si noti**  alcuni prodotti Microsoft potrebbero non essere disponibili in determinate località. Altri prodotti dipendono da altri prodotti o servizi o non possono essere assegnati insieme allo stesso utente. Dopo aver salvato, la pagina di conferma elenca i risultati per tutti gli utenti per le assegnazioni di licenze corrette e gli eventuali errori d assegnazione.
 
@@ -96,7 +96,7 @@ il centro per i partner tiene traccia e Mostra tutti i diritti delle licenze di 
 
 6. In **Assegna e revoca licenze** deseleziona le caselle di controllo per i prodotti assegnati agli utenti. Ad esempio, deseleziona la casella di controllo se tutti gli utenti selezionati hanno licenze per Office 365 Enterprise e vuoi revocarle.
 
-7. Seleziona **Salva**.
+7. Selezionare **Salva**.
 
 ## <a name="related-topics"></a>Argomenti correlati
 

@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 11/25/2019
 description: 'Vedere gli esempi di fatturazione per il centro per i partner per una sola volta e selezionare gli acquisti ricorrenti: quando si acquistano sottoscrizioni, aggiungere altre sottoscrizioni, aggiungere o rimuovere postazioni.'
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: fatturazione, pagamenti, acquisto monouso, acquisto ricorrente, sottoscrizioni, postazioni
 ms.localizationpriority: medium
-ms.openlocfilehash: f330e49fdfea9b93d02a644610f3621916667f86
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 9f1a96bfeee667f998d163416b96c281803f7107
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722512"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390120"
 ---
 # <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>Scenari di fatturazione monouso e selezionati per gli acquisti ricorrenti
 
@@ -38,7 +38,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito** |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |1                 |$ 4            |Nuova         |
+|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |1                 |$ 4            |Nuovo         |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |1        | $ -4       |addQuantity           |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        | 2      |$ 8         |addQuantity           |
 
@@ -54,7 +54,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito** |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019 (una licenza)     |10/6/2019   |9/7/2019         |$ 4         |1        |$ 4            |Nuova         |
+|11/6/2019 (una licenza)     |10/6/2019   |9/7/2019         |$ 4         |1        |$ 4            |Nuovo         |
 |12/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |1        | $ -3,87       |addQuantity           |
 |12/6/2019     | 10/6/2019    |9/7/2019        |$ 4        | 2      |$ 7,74       |addQuantity           |
 
@@ -70,7 +70,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito** |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |2                 |$ 8            |Nuova         |
+|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |2                 |$ 8            |Nuovo         |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |2        | $ -8       |removeQuantity           |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        | 1      |$ 4         |removeQuantity           |
 
@@ -86,6 +86,6 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito** |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Importo** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019 (due licenze)     |10/6/2019   |9/7/2019         |$ 4         |2        |$ 8       |Nuova       |
+|11/6/2019 (due licenze)     |10/6/2019   |9/7/2019         |$ 4         |2        |$ 8       |Nuovo       |
 |12/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |2        | $ -7,74       |removeQuantity           |
 |12/6/2019 (una licenza)    | 10/6/2019    |9/7/2019   |$ 4    |1      |$ 3,87    |removeQuantity |

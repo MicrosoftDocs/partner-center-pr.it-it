@@ -6,22 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come collaborare con un cliente per modificare il partner nel programma Cloud Solution Provider che il cliente userà per i servizi di Azure.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: sottoscrizione di azure, cambiare partner, sostituire partner, ottenere nuovo partner, partner diverso
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d7c3e85b96e52aa2fa3e09261aee81f364996d3
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 3a709ad7eac9b2a4db7063a47713c27dc41d7833
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943394"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390620"
 ---
 # <a name="transfer-azure-subscriptions"></a>Trasferire le sottoscrizioni di Azure 
 
 **Si applica a**
 
--  Centro per i partner
+- Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner per Microsoft Global Cloud
 
 Un cliente può decidere di passare a un partner Cloud Solution Provider o a un altro partner per i servizi di Microsoft Azure. Si tratta, tuttavia, di un processo manuale che richiede l'intervento sia del partner che del cliente.
 
@@ -73,7 +74,7 @@ Esamina il modulo, compila le informazioni sul nuovo partner e firmalo. Verifica
 
 5. Partner corrente:
 
-Verifica che il modulo includa le informazioni di contatto per entrambi gli amministratori del partner: il personale del servizio di supporto tecnico Microsoft contatterà entrambi gli amministratori per verificare il trasferimento. Verifica che siano presenti tutte e tre le firme e quindi allega il modulo completo alla richiesta di servizio esistente usando l'opzione **Caricamento file**. Un tecnico del supporto Microsoft ti contatterà entro 8 ore lavorative per confermare la ricezione e il completamento.
+Verifica che il modulo includa le informazioni di contatto per entrambi gli amministratori del partner: il personale del servizio di supporto Microsoft contatterà entrambi gli amministratori per verificare il trasferimento. Verifica che siano presenti tutte e tre le firme e quindi allega il modulo completo alla richiesta di servizio esistente usando l'opzione **Caricamento file**. Un tecnico del supporto Microsoft ti contatterà entro 8 ore lavorative per confermare la ricezione e il completamento.
 
 6. Nuovo partner:
 

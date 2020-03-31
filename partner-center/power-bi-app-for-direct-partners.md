@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Panoramica generale e domande frequenti sull'app di analisi del centro per i partner per Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: eba413fd3955db8dedc5ffe57747739368adcaa6
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: fca6cf8688506179fe3db9ab414a034c7741fbe0
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004960"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390750"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>App Analisi del Centro per i Partner per Power BI (partner diretti in CSP)
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 
 **Ruoli appropriati**
 -   Amministratore globale
@@ -38,9 +38,9 @@ Installa l'app per le viste grafiche di:
 
 -   Aumento della base di clienti, delle sottoscrizioni e delle licenze
 
--   Utilizzo dei prodotti Office 365, Microsoft Dynamics e Microsoft Azure
+-   L'utilizzo dei prodotti Office 365, Microsoft Dynamics e Microsoft Azure
 
--   Unità di consumo giornaliere per ciascuna risorsa a consumo in ogni sottoscrizione di Azure per gli ultimi 60 giorni
+-   Le unità di consumo giornaliere per ogni risorsa a consumo negli abbonamenti di Azure per gli ultimi 60 giorni
 
 -   Costo stimato in base al tariffario più recente
 

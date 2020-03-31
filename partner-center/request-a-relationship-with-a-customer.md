@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: La richiesta di una relazione viene usata per gli scenari multipartner e multicanale. È anche utile se un cliente rimuove i tuoi privilegi di amministratore delegato e devi ripristinarli per effettuare il provisioning o fornire supporto.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: c89c1c9880adf1a6d91302251bc332dd537e1e83
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: ff1b9d6e7290304b4cc33d53251750daf04fbfe8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012129"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390680"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Entrare in contatto con i clienti nel Centro per i partner
 
 **Si applica a**
 
--  Centro per i partner
+-  Partner Center
 
 Se si desidera gestire il servizio o la sottoscrizione di un cliente per loro conto, il cliente deve concedere le autorizzazioni di amministratore per tale servizio o sottoscrizione e firmare il contratto per i clienti Microsoft.
 
@@ -43,7 +43,7 @@ Si noti che è possibile richiedere una relazione del rivenditore con un cliente
 
 3.  Inviare il messaggio di posta elettronica al cliente.
 
-5.  Dopo aver accettato l'invito, il cliente verrà visualizzato nella pagina **Clienti** e tu potrai effettuare il provisioning e gestire il servizio per il cliente da questa pagina.
+5.  Dopo aver accettato l'invito, il cliente verrà visualizzato nella pagina **Clienti** e potrai effettuare il provisioning e gestire il servizio per il cliente da questa pagina.
 
 >Nota: se il cliente non ha ancora accettato il contratto per i clienti Microsoft, verrà richiesto di farlo quando accettano l'invito. 
  
@@ -64,7 +64,7 @@ L'esperienza del cliente per l'accettazione di un invito alle relazioni rivendit
 | Clienti nel centro per i partner per Microsoft Cloud per il governo degli Stati Uniti | Portale di amministrazione di Microsoft Office |
 |
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
 - [Assegnare contatti di supporto](assign-support-contacts.md)
 - [Rimuovere una relazione con un cliente](remove-a-relationship.md)

@@ -6,22 +6,22 @@ description: Informazioni sulle responsabilità fiscali per l'area geografica sp
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: MaggiePucciEvans
+author: jasonwhowell
 keywords: fiscali, esenzioni fiscali, IVA, rivenditore, fatturazione
-ms.author: evansma
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943194"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390630"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Imposte ed esenzioni fiscali
 
 Si applica a:
 
-- Centro per i partner
+- Partner Center
 - Centro per i partner per Microsoft Cloud for US Government
 
 Il programma Cloud Solution Provider (CSP) è un canale di vendita incentrato sulla rivendita dei prodotti dei partner. Di conseguenza, Microsoft non è sempre necessario addebitare le imposte sulle vendite per le fatture del partner. Le regole variano in base al paese e/o all'area geografica. È possibile esaminare [i dettagli specifici del paese e dell'area per le esenzioni fiscali](#country-and-region-tax-details).
@@ -95,7 +95,7 @@ Quindi, creare un ticket di supporto per Microsoft con le informazioni sull'esen
 
 6. Scegliere **Invia** per inviare la richiesta di supporto. Microsoft ti invia un messaggio di posta elettronica per ottenere ulteriori informazioni.
 
-## <a name="support"></a>Supporto tecnico
+## <a name="support"></a>Supporto
 
 Per altre domande sulle esenzioni fiscali e i rimborsi, richiedere supporto nel centro per i partner. Microsoft ti contatterà per risolvere il problema nel giro di due settimane.
 

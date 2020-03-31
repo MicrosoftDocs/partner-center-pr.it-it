@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come e dove gestire Partner Center per Microsoft Cloud partner, clienti e licenze in Germania, oltre che per reimpostare le password.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 39d1d6ff405ca4b19fc59edddc1bd5e5dbb4fef2
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 6f6a5f1c4a64e6bb9f80204dbbf6100b8441bc37
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943374"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390490"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud Germania
 
@@ -32,7 +32,7 @@ Caratteristica o funzionalità | Completare le attività in
 :--- | :---
 Gestione utenti partner | Interfaccia di amministrazione di Office 365 o Azure per il portale di amministrazione di Microsoft Cloud Germania
 Gestione utenti clienti | Interfaccia di amministrazione di Office 365 o Azure per il portale di amministrazione di Microsoft Cloud Germania
-Reimpostazione delle password utente | Azure per il portale di amministrazione di Microsoft Cloud Germania
+Reimpostare la password utente | Azure per il portale di amministrazione di Microsoft Cloud Germania
 Gestione delle licenze | Interfaccia di amministrazione di Office 365 o portale delle licenze di Azure Active Directory di Microsoft Cloud Germania
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Come gestire gli utenti nel portale di Azure per Microsoft Cloud Germania 
@@ -44,7 +44,7 @@ Dopo aver eseguito l'accesso al portale di Azure per Microsoft Cloud Germania, a
 > [!NOTE]  
 > Se si selezionano i collegamenti seguenti, verrà visualizzata un'altra pagina Web. 
 
--  [Aggiungere o modificare utenti in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Aggiungere nuovi utenti a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
 -  [Assegnare un utente ai ruoli di amministratore in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 

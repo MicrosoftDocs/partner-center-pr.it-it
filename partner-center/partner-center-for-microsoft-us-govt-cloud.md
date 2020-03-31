@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Il Centro per i partner per Microsoft Cloud per il governo statunitense è il portale aziendale per i partner Microsoft che desiderano offrire soluzioni cloud Microsoft ai clienti che lavorano con agenzie governative degli Stati Uniti.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e290242a0a97abdbdca1e222c12cd0072d05073
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 66a39eee19a367a796ca90e204a44be9e6a7d9c3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004250"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390760"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Centro per i partner per Microsoft Cloud for US Government
 
@@ -45,9 +45,9 @@ Dopo l'iscrizione al programma Cloud Solution Provider (CSP) per Microsoft Cloud
 > [!NOTE]  
 > Al momento della pubblicazione di questo articolo, le seguenti funzionalità di Centro per i partner non erano ancora disponibili nel Centro per i partner di Microsoft Cloud per il governo statunitense (dal momento della pubblicazione, è possibile che siano state aggiunte alcune funzionalità, per cui questo elenco potrebbe non essere aggiornato):
 
-- Trova un partner
-- Profili di lavoro
-- Riferimenti
+- Cerca un partner
+- Profili di business
+- Segnalazioni
 - Richiedere una relazione come rivenditore con un cliente (multicanale, multipartner)
 - Analisi licenze
 - Informazioni sui clienti

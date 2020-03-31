@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come visualizzare ed esportare i log attività per ottenere informazioni sulle transazioni degli account del cliente e altre attività di gestione dei partner correlate ai clienti.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: log attività, sottoscrizione, sottoscrizione, pagamenti, fatturazione, transazioni
 ms.localizationpriority: medium
-ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721785"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390380"
 ---
 # <a name="view-customer-activity-logs"></a>Visualizzare i log attività dei clienti
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 - Centro per i partner per Microsoft Cloud for US Government
 - Partner del programma Cloud Solution Provider
 
@@ -40,7 +40,7 @@ I log attività includono record relativi alle azioni dei partner sugli account 
 
 **Visualizzare ed esportare i log attività**
 
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 2. Nel menu **Impostazioni account** seleziona **Log attività**.
 2.  Seleziona il periodo del log attività nei campi **Da** e **a**. Per impostazione predefinita, l'esportazione del log attività include l'ultimo mese.

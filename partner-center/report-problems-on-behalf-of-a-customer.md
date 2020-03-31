@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Se il cliente sta riscontrando un problema del servizio che non è possibile risolvere e che soddisfa i criteri descritti in escalation problems to Microsoft, è necessario archiviare un ticket di supporto.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: richiesta di servizio, ticket di servizio, supporto, diritto al supporto, AOBO, AOBO di Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943214"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390690"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Segnalare problemi per conto di un cliente
 
 **Si applica a**
 
--  Centro per i partner
+-  Partner Center
 -  Centro per i partner per Microsoft Cloud for US Government
 
 
-Se il cliente ha un problema con il servizio che tu non puoi risolvere e che soddisfa i criteri descritti in [Inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md), crea un ticket di supporto. Questo processo è utile anche per inoltrare problemi o controversie correlati alla fatturazione e segnalare possibili frodi.
+Se il cliente ha un problema con il servizio che tu non puoi risolvere e che soddisfa i criteri descritti in [Inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md), crea un ticket di supporto per conto del cliente. Questo processo è utile anche per inoltrare problemi o controversie correlati alla fatturazione e segnalare possibili frodi.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Inviare una richiesta di servizio per un cliente
 
@@ -60,7 +60,7 @@ In entrambi i casi, puoi usare la procedura seguente per creare una richiesta di
 
 1. Copiare il nome di dominio del cliente dalla pagina relativa all'account nel centro per i partner.
 
-2. Passa a https://portal.azure.com/ [nomedominiocliente]. 
+2. Passa a https://portal.azure.com/[nomedominiocliente]. 
 
 3. Seleziona la sottoscrizione di Azure che richiede supporto.
 

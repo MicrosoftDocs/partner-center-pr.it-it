@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: I record dei clienti sono tra le risorse di informazioni più importanti. Scopri come visualizzare, cercare, aggiornare ed esportare informazioni nell'elenco dei clienti.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: a5d6196aee964ad2b03a18699388f8f398169f14
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 02e25ae609c635b21d4345c9567a44c119a70253
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943434"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390660"
 ---
 # <a name="manage-your-customer-list"></a>Gestire l'elenco dei clienti
 
 **Si applica a**
 
--  Centro per i partner
+-  Partner Center
 -  Centro per i partner per Microsoft Cloud for US Government
 
 
@@ -41,7 +41,7 @@ Scegliere **clienti**dal menu **centro partner** .
 2.  Per cercare un cliente, immetti il nome del cliente o il nome del dominio nella casella di ricerca.
 3.  Seleziona la **freccia in giù** alla fine della riga di un cliente per visualizzare l'ID Microsoft oltre ai link rapidi per le sottoscrizioni e i servizi associati.
 4.  Tra le informazioni in **Indirizzo fatturazione** aggiorna il nome della società. Quando salvi il nuovo valore, questo sarà riportato nell'elenco dei clienti. Questa operazione modificherà solo il nome della società di fatturazione e il valore nell'elenco dei clienti. Non sarà applicata altrove.
-
+<sup>1</sup>
 ## <a name="export-your-customer-list"></a>Esportare l'elenco dei clienti
 
 1.  Scegliere **clienti**dal menu **centro partner** .
@@ -57,7 +57,7 @@ Scegliere **clienti**dal menu **centro partner** .
     Per impostazione predefinita, il Centro per i partner esporta l'intero elenco dei clienti, indipendentemente dalla lunghezza. Puoi anche eseguire una ricerca nell'elenco dei clienti in base al nome dell'azienda o del dominio e quindi esportare il sottoinsieme di dati corrispondente.
 
 3.  I provider indiretti possono filtrare l'elenco dei clienti per rivenditore indiretto. Seleziona **Filtra per rivenditore indiretto** dall'elenco e scegli un rivenditore.
-
+<sup>1</sup>
 
 ## <a name="export-customer-subscription-information"></a>Esportare le informazioni sulle sottoscrizioni dei clienti
 

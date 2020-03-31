@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vedere i paesi, le aree e le valute in cui è possibile vendere le offerte CSP, in base alla posizione della società.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Mercati CSP, territori, dove è possibile vendere tramite CSP, offerte CSP, aree, vendere soluzioni cloud, CSP globale
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5aae0c5eca8bc47d38fd14e600c64ae02137c2a5
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 66ef0d8c1e9b0183097129cc0f2160028038284f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672811"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390700"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercati e valute regionali del programma Cloud Solution Provider
 
@@ -24,10 +24,10 @@ La posizione dell'azienda determina il tuo mercato, ovvero le aree geografiche e
 
 Se, ad esempio, la società si trova nella Stati Uniti, è possibile vendere le offerte CSP ai clienti negli Stati Uniti e negli Stati Uniti. Se la società si trova in Brasile, è possibile vendere le offerte CSP ai clienti solo in Brasile. Se la società si trova nell'area Africa, è possibile vendere le offerte CSP ai clienti in tutti i 18 paesi dell'area Africa.
 
-Prima di poter ordinare le offerte CSP per conto di un cliente, il cliente deve firmare il contratto per i clienti Microsoft. [Qui](agreements.md)è possibile trovare il contratto di servizio Microsoft applicabile per la propria area geografica.
+Prima di poter effettuare un ordine di un prodotto CSP per conto di un cliente, quest'ultimo deve firmare il Contratto del cliente Microsoft. [Qui](agreements.md)è possibile trovare il contratto di servizio Microsoft applicabile per la propria area geografica.
 
 >[!IMPORTANT]
-> È necessario confermare che un cliente ha accettato il contratto per i clienti Microsoft fornendo informazioni sulla persona che lo ha firmato. Per ulteriori informazioni, vedere [confermare l'accettazione del contratto per i clienti Microsoft](confirm-consent.md) .
+> È necessario confermare che un cliente ha accettato il contratto per i clienti Microsoft fornendo informazioni sulla persona che lo ha firmato. Per altre informazioni, vedi [Confermare l'accettazione del Contratto del cliente Microsoft da parte di un cliente](confirm-consent.md).
 
 Per determinare dove è possibile vendere le offerte CSP, trovare la località dell'azienda in uno degli elenchi riportati di seguito. È necessario disporre di un ID attivo Microsoft Partner Network (MPN) per la località in cui si desidera vendere.  
 
@@ -302,7 +302,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Saint Vincent e Grenadine| USD |
 |  Sint Eustatius |   USD    |
 |  Sint Maarten   |   USD    |
-|  Georgia del sud e Sandwich Australi| USD|
+|  Georgia del Sud e Isole Sandwich Australi| USD|
 |  Suriname       |   USD    |
 |  Trinidad e Tobago|USD   |
 |  Turks e Caicos, Isole| USD|

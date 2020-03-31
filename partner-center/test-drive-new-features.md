@@ -5,21 +5,21 @@ ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Prova le nuove funzionalità del Centro per i partner prima che vengano rilasciate e facci sapere cosa ne pensi. Aiutarci a dare forma al futuro del Centro per i partner!
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e480d29a5dd1cfedd90d479b107bf3f56f4f3ce
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 367fe22b984277b02e4161bf12cf2198ab663c5b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651208"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390570"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Eseguire il test drive delle nuove funzionalità del Centro per i partner
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Aiutarci a dare forma al futuro del Centro per i partner!
 

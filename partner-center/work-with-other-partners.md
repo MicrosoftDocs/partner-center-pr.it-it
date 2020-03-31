@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i provider indiretti collaborano con rivenditori indiretti nel programma Cloud Solution Provider (CSP) e determinano quale ruolo è adatto a te.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 720d4890eb4d131484a26d489c202ca3f173a006
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ffa27c8f0c099182dc24d44d0ccaef1a6231dead
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943154"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390450"
 ---
 # <a name="work-with-other-partners"></a>Collaborare con altri partner
 
 **Si applica a**
 
--  Centro per i partner
+-  Partner Center
 
 Il programma Microsoft Cloud Solution Provider (CSP) offre opportunità per collaborare con i partner in questi modi.
 
@@ -27,7 +27,7 @@ Il programma Microsoft Cloud Solution Provider (CSP) offre opportunità per coll
 
 In questo modello, noto anche come modello a due livelli, i provider indiretti e i rivenditori indiretti collaborano per vendere i servizi Microsoft basati sul cloud a organizzazioni che operano in molteplici aree geografiche, mercati verticali e settori. 
 
-### <a name="indirect-providers"></a>I provider indiretti
+### <a name="indirect-providers"></a>Provider indiretti
 
 I provider indiretti (noti anche come distributori) acquistano prodotti e sottoscrizioni direttamente da Microsoft e quindi offrono queste soluzioni ai clienti tramite i rivenditori. La collaborazione con i rivenditori indiretti consente ai provider di ampliare la propria presenza e di aumentare la base di clienti. 
 

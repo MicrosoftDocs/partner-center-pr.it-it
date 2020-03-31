@@ -6,22 +6,22 @@ description: La fattura è un riepilogo di tutti gli addebiti per il centro per 
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 7e5171a44ba8f23955847f6450e59b948f3c7d52
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004830"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390710"
 ---
 # <a name="read-your-bill"></a>Leggere la fattura
 
 **Si applica a**
 
-- Centro per i partner
+- Partner Center
 - Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
@@ -43,7 +43,7 @@ Si riceverà una fattura separata per gli addebiti monouso, ad esempio le istanz
 
 Per una descrizione dettagliata di tutti i campi nel file di fattura (inclusi i campi per gli addebiti monouso), vedere [campi del file di fattura](invoice-file.md).
 
-## <a name="find-your-bill"></a>Trova la fattura
+## <a name="find-your-bill"></a>Trovare una fattura
 
 È possibile trovare la fattura nella pagina **fatturazione** del dashboard nel centro per i partner. In questa pagina è anche possibile trovare la cronologia di fatturazione, le tendenze di spesa e i file di riconciliazione.
 

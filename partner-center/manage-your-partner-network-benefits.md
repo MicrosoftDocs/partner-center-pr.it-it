@@ -5,16 +5,16 @@ ms.date: 03/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Entra a far parte di Microsoft Partner Network (MPN) e gestisci i vantaggi dell'appartenenza che ti aiuteranno a creare e far crescere il tuo business.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: MPN, vantaggi dell'appartenenza, appartenenza
 ms.localizationpriority: high
-ms.openlocfilehash: e7ec97485467d997e770337fa249065d87e6838f
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: e979fff3ccf676208b58f088fe71a66e1095678d
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226087"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390890"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gestire i vantaggi dell'appartenenza a Microsoft Partner Network
 

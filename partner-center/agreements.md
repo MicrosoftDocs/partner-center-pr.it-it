@@ -5,16 +5,16 @@ ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri dove trovare e da dove scaricare le versioni del Contratto del cliente Microsoft specifiche dell'area geografica e della lingua di cui prendere visione con i clienti.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: contratti del cliente Microsoft, modelli di contratto del cliente, contratti del cliente CSP, Contratto del cliente Microsoft, MCA, CSP, dove posso vendere con CSP?, paesi/aree geografiche CSP, MCA CSP in più lingue, CSP per America del Nord, CSP per America centrale, CSP per America del Sud, CSP per Caraibi, CSP per Microsoft Cloud for US Government, Microsoft Cloud CSP per Germania, CSP per Medio Oriente, CSP per Africa, CSP per Europa, CSP per Asia, CSP per Pacifico, MCA CSP
 ms.localizationpriority: high
-ms.openlocfilehash: 9acf143bdbeeea29c7fc7ec71ca459c57b20e8ca
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 501d6d933ba253e42875056e0e245b0af65138b3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672791"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389630"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Contratti del cliente Microsoft per area geografica e lingua
 

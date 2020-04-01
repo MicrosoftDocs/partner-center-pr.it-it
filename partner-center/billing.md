@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Scopri gli argomenti relativi alla fatturazione nel Centro per i partner, incluse le risorse per la fatturazione, le fatture e la fatturazione CSP.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione ordini, mancato pagamento, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: high
-ms.openlocfilehash: b3052f33b55ea7aa57d5ee9d29d2839791a92088
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 1f782b3696f82bb16487fb4ecae68b806cabfcac
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722173"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390280"
 ---
 # <a name="billing"></a>Fatturazione
 
@@ -31,7 +31,7 @@ ms.locfileid: "74722173"
 - Amministratore globale
 - Agente di vendita
 
-| Argomento | Descrizione |
+| Argomento | Description |
 | ----- | ----------- |
 | [Panoramica della fatturazione](billing-basics.md) | Nozioni di base sulla fatturazione nel Centro per i partner (inclusi i pagamenti, le fatture e i file di riconciliazione). |
 | [Tipi di fatturazione](billing-different-types.md) | Spiegazione dei diversi tipi di fatturazione nel Centro per i partner. |

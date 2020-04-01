@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i rivenditori indiretti del programma CSP possono collaborare con provider (o distributori) indiretti Microsoft che possono offrire assistenza per il supporto tecnico e la fatturazione.
 ms.prod: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: rivenditori indiretti, rivenditori, provider indiretti, provider, relazione, VAR, livello2, livello 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 66334277c0169b66243ae3c6da4bd09a346ff022
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ff486a7d6f23ce13fddfcccb29ce4389ca44d3cb
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004800"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390920"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Collaborare con i provider indiretti nel programma Cloud Solution Provider
 
@@ -63,7 +63,7 @@ Queste informazioni sono necessarie per verificare che l'organizzazione abbia un
  
 Tieni presente che potrebbero essere necessari diversi giorni per esaminare e verificare le informazioni fornite. Al termine delle verifiche, verrà inviato un messaggio di posta elettronica al contatto principale dell'organizzazione.
 
-### <a name="get-started"></a>Informazioni di base
+### <a name="get-started"></a>Operazioni preliminari
 
 1.  Avviare il processo di registrazione [qui](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
 
@@ -199,10 +199,10 @@ Il testo nel messaggio di posta elettronica può essere modificato, ma assicurat
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-[Gestisci il tuo account per il Centro per i partner](partner-center-account-setup.md)
+[Gestire l'account per il Centro per i partner](partner-center-account-setup.md)
 
 [Gestire i clienti e le relative sottoscrizioni](customer-accounts.md)
 
-[Crea un profilo di business](create-a-marketing-profile.md)
+[Creare un profilo business](create-a-marketing-profile.md)
 
 [Informazioni sugli incentivi per i partner nel Centro per i partner](understand-incentive-payouts.md)

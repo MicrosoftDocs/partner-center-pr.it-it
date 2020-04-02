@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: In alcuni casi i clienti potrebbero chiederti di occuparti del provisioning e del supporto di una sottoscrizione acquistata altrove.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dfdd0a579f323e7d6cb0af0dffbdb7bac29cf38
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: d7c56e934060a9bfba55a262e262e01eaac50691
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005090"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390830"
 ---
 # <a name="multi-channel-support"></a>Supporto multicanale
 
 **Si applica a**
 
--  Centro per i partner
+-  Partner Center
 -  Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
@@ -58,9 +58,9 @@ La funzionalità multicanale del centro per i partner supporta scenari in cui un
 > [!IMPORTANT]  
 > Un partner CSP non può attualmente rivendere servizi online a un altro partner CSP. Microsoft rivede regolarmente criteri e funzionalità di tutti i programmi. Gli annunci relativi alle versioni delle funzionalità verranno annunciati tramite i normali canali di comunicazione, incluso il centro per i partner. 
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
-[Collabora con altri partner](work-with-other-partners.md)
+[Collaborare con altri partner](work-with-other-partners.md)
 
 Se sei un rivenditore indiretto, vedi [Collaborare con i provider indiretti](indirect-reseller-tasks-in-partner-center.md)
 

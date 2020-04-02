@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come creare account utente e assegnare ruoli nel Centro per i partner per ciascun dipendente che necessita dell'accesso. Gli utenti con privilegi di amministratore diversi possono eseguire questa operazione.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: ruoli, autorizzazioni, aggiungi utente, assegna ruolo, amministratore, agente,
 ms.localizationpriority: high
-ms.openlocfilehash: 6bbae5b8bcd2882c7ba32a8b660fc256dec4e49a
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240208"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389650"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Creare account utente e assegnare autorizzazioni
 
@@ -43,15 +43,24 @@ Crea gli account utente per i dipendenti che hanno bisogno di accedere al Centro
 > [!IMPORTANT]  
 > Prendere nota delle informazioni di accesso del nuovo utente visualizzate in questa pagina. Copiarle e inviarle al nuovo utente perché in seguito non sarà più possibile accedervi. 
 
+
 L'utente dovrà accedere al Centro per i partner con il nome utente e la password temporanea. Quando l'utente accede al Centro per i partner per la prima volta, gli viene chiesto di modificare la password. 
 
-> [!NOTE]  
->  Se l'amministratore globale ha lasciato l'organizzazione o ha assunto un altro ruolo ed è necessario aggiungere un nuovo amministratore globale, devi registrare una richiesta di servizio nel [portale MPN](https://partner.microsoft.com/support). Se il richiedente è in grado di fornire le informazioni di identità personale richieste e altre informazioni sull'organizzazione, l'agente del supporto può richiedere l'elevazione dei privilegi di un utente ad amministratore globale.
 
 ### <a name="find-your-global-admin"></a>Trovare l'amministratore globale
 
 A volte può essere necessario modificare il ruolo di un utente oppure un nuovo utente può desiderare un'assegnazione di ruolo specifica.  
 Per trovare un amministratore globale che può apportare modifiche ai ruoli o assegnare ruoli a un nuovo utente, dall'**icona Impostazioni** in alto a destra nel Centro per i partner seleziona **Gestione utenti** e filtra in base all'amministratore globale. 
+
+
+### <a name="new-global-admin"></a>Nuovo amministratore globale
+
+Se l'amministratore globale lascia l'organizzazione ed è necessario che un altro utente ricopra questo ruolo, puoi inviare un ticket al team di Azure o di Office 365. Per informazioni su come eseguire questa operazione, seleziona una delle opzioni riportate di seguito.
+
+[Nuovo amministratore globale per Azure](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
+
+[Nuovo amministratore globale per Office 365](https://admin.microsoft.com/)
+
 
 ## <a name="assign-user-roles"></a>Assegnare ruoli utente
 
@@ -94,7 +103,6 @@ Per consentire di visualizzare i percorsi di formazione e apprendimento seguiti 
 1. Dal dashboard del Centro per i partner seleziona l'icona **Il tuo account** nell'angolo destro del dashboard e quindi **Profilo personale**.
 
 2. In **Your learning** (La tua formazione) potrai associare il tuo account Microsoft Learning e connettere anche il tuo account Microsoft a Partner University.
-
 
 
 

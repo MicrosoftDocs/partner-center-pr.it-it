@@ -1,5 +1,5 @@
 ---
-title: Leggere la fattura | Centro per i partner
+title: Comprendere la fattura | Centro per i partner
 ms.topic: article
 ms.date: 11/21/2019
 description: La fattura è un riepilogo di tutti gli addebiti per il centro per i partner (per il programma, i prodotti e i clienti) per il periodo mensile corrente.
@@ -10,65 +10,119 @@ author: jasonwhowell
 ms.author: jasonh
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e5171a44ba8f23955847f6450e59b948f3c7d52
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e356dfbe3243db176393f614c92540e40d92f055
+ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390710"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "80634811"
 ---
-# <a name="read-your-bill"></a><span data-ttu-id="2ce37-104">Leggere la fattura</span><span class="sxs-lookup"><span data-stu-id="2ce37-104">Read your bill</span></span>
+# <a name="understand-your-bill"></a><span data-ttu-id="c61a4-104">Comprendere la fattura</span><span class="sxs-lookup"><span data-stu-id="c61a4-104">Understand your bill</span></span>
 
-<span data-ttu-id="2ce37-105">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="2ce37-105">**Applies to**</span></span>
+<span data-ttu-id="c61a4-105">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="c61a4-105">**Applies to**</span></span>
 
-- <span data-ttu-id="2ce37-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="2ce37-106">Partner Center</span></span>
-- <span data-ttu-id="2ce37-107">Centro per i partner per Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="2ce37-107">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="c61a4-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="c61a4-106">Partner Center</span></span>
+- <span data-ttu-id="c61a4-107">Centro per i partner per Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="c61a4-107">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="2ce37-108">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="2ce37-108">**Appropriate roles**</span></span>
--   <span data-ttu-id="2ce37-109">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="2ce37-109">Global admin</span></span>
--   <span data-ttu-id="2ce37-110">Amministratore utenti</span><span class="sxs-lookup"><span data-stu-id="2ce37-110">User admin</span></span>
--   <span data-ttu-id="2ce37-111">Amministratore fatturazione</span><span class="sxs-lookup"><span data-stu-id="2ce37-111">Billing admin</span></span>
--   <span data-ttu-id="2ce37-112">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="2ce37-112">Admin agent</span></span>
--   <span data-ttu-id="2ce37-113">Amministratore dei partner MPN</span><span class="sxs-lookup"><span data-stu-id="2ce37-113">MPN partner admin</span></span>
+<span data-ttu-id="c61a4-108">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="c61a4-108">**Appropriate roles**</span></span>
 
-<span data-ttu-id="2ce37-114">La **fattura** è un **Riepilogo di tutti gli addebiti** per il centro per i partner (attraverso il programma, tutti i prodotti e tutti i clienti) per il **periodo di fatturazione corrente**.</span><span class="sxs-lookup"><span data-stu-id="2ce37-114">Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers) for the **current billing period**.</span></span>
+- <span data-ttu-id="c61a4-109">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="c61a4-109">Global admin</span></span>
+- <span data-ttu-id="c61a4-110">Amministratore fatturazione</span><span class="sxs-lookup"><span data-stu-id="c61a4-110">Billing admin</span></span>
+- <span data-ttu-id="c61a4-111">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="c61a4-111">Admin agent</span></span>
 
-## <a name="invoice-types"></a><span data-ttu-id="2ce37-115">Tipi di fattura</span><span class="sxs-lookup"><span data-stu-id="2ce37-115">Invoice types</span></span>
 
-<span data-ttu-id="2ce37-116">Si riceverà una fattura per tutti gli addebiti basati sulle licenze, ad esempio Office 365, e gli addebiti basati sull'utilizzo (ad esempio, Azure).</span><span class="sxs-lookup"><span data-stu-id="2ce37-116">You will receive one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure).</span></span>
+<span data-ttu-id="c61a4-112">La **fattura** è un **Riepilogo di tutti gli addebiti** per il centro per i partner (attraverso il programma, tutti i prodotti e tutti i clienti).</span><span class="sxs-lookup"><span data-stu-id="c61a4-112">Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers).</span></span> 
 
-<span data-ttu-id="2ce37-117">Si riceverà una fattura separata per gli addebiti monouso, ad esempio le istanze di VM riservate di Azure.</span><span class="sxs-lookup"><span data-stu-id="2ce37-117">You will receive a separate invoice for one-time charges (such as Azure reserved VM instances).</span></span>
+## <a name="invoice-types"></a><span data-ttu-id="c61a4-113">Tipi di fattura</span><span class="sxs-lookup"><span data-stu-id="c61a4-113">Invoice types</span></span>
 
-## <a name="invoice-file-fields"></a><span data-ttu-id="2ce37-118">Campi del file di fattura</span><span class="sxs-lookup"><span data-stu-id="2ce37-118">Invoice file fields</span></span>
+<span data-ttu-id="c61a4-114">Microsoft emetterà una fattura per tutti gli addebiti basati sulle licenze, ad esempio Office 365, e gli addebiti basati sull'utilizzo (ad esempio Azure) e una fattura separata per gli addebiti monouso, ad esempio Azure RI, Marketplace, piano di Azure e così via.</span><span class="sxs-lookup"><span data-stu-id="c61a4-114">Microsoft will issue one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure) and a separate invoice for one-time charges (such as Azure RI, Marketplace, Azure plan etc).</span></span> 
 
-<span data-ttu-id="2ce37-119">Per una descrizione dettagliata di tutti i campi nel file di fattura (inclusi i campi per gli addebiti monouso), vedere [campi del file di fattura](invoice-file.md).</span><span class="sxs-lookup"><span data-stu-id="2ce37-119">For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).</span></span>
+<span data-ttu-id="c61a4-115">Ad esempio,</span><span class="sxs-lookup"><span data-stu-id="c61a4-115">For example,</span></span>  
 
-## <a name="find-your-bill"></a><span data-ttu-id="2ce37-120">Trovare una fattura</span><span class="sxs-lookup"><span data-stu-id="2ce37-120">Find your bill</span></span>
+<span data-ttu-id="c61a4-116">**Scenario 1 [singola valuta]** : i partner hanno acquistato per l'offerta 145P e le licenze O365</span><span class="sxs-lookup"><span data-stu-id="c61a4-116">**Scenario 1 [Single Currency]**: Partner have purchases for 145P offer and O365 licenses,</span></span>  
 
-<span data-ttu-id="2ce37-121">È possibile trovare la fattura nella pagina **fatturazione** del dashboard nel centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="2ce37-121">You can find your invoice on the **Billing** page of the dashboard in Partner Center.</span></span> <span data-ttu-id="2ce37-122">In questa pagina è anche possibile trovare la cronologia di fatturazione, le tendenze di spesa e i file di riconciliazione.</span><span class="sxs-lookup"><span data-stu-id="2ce37-122">You can also find your billing history, spending trends, and reconciliation files on this page.</span></span>
+- <span data-ttu-id="c61a4-117">Il partner otterrà un PDF di fattura e 2 file di riconciliazione che coprono gli addebiti sia per O365 che per Azure (145P).</span><span class="sxs-lookup"><span data-stu-id="c61a4-117">Partner will get one invoice PDF and 2 reconciliation files covering the charges for both O365 and Azure (145p).</span></span>  
 
-1. <span data-ttu-id="2ce37-123">Accedere al dashboard nel centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="2ce37-123">Sign in to the dashboard in Partner Center.</span></span>
-2. <span data-ttu-id="2ce37-124">Nel menu a sinistra selezionare **fatturazione**.</span><span class="sxs-lookup"><span data-stu-id="2ce37-124">In the left-hand menu, select **Billing**.</span></span>
-3. <span data-ttu-id="2ce37-125">Nella pagina **fatturazione** selezionare la fattura che si desidera scaricare.</span><span class="sxs-lookup"><span data-stu-id="2ce37-125">On the **Billing** page, select the invoice you want to download.</span></span>
-    - <span data-ttu-id="2ce37-126">È possibile trovare un collegamento alla fattura più recente nella parte superiore della pagina in **Saldo account come data ultima fattura**.</span><span class="sxs-lookup"><span data-stu-id="2ce37-126">You can find a link to your latest invoice at the top of the page under **Account balance as of last invoice date**.</span></span>
-    - <span data-ttu-id="2ce37-127">È possibile trovare le fatture precedenti nella sezione **cronologia di fatturazione** .</span><span class="sxs-lookup"><span data-stu-id="2ce37-127">You can find previous invoices in the **Billing history** section.</span></span> <span data-ttu-id="2ce37-128">Scegliere l'anno appropriato, quindi selezionare la freccia a discesa accanto al **periodo di fatturazione**appropriato.</span><span class="sxs-lookup"><span data-stu-id="2ce37-128">Choose the appropriate year, then select the drop-down arrow next to the appropriate **Billing period**.</span></span> <span data-ttu-id="2ce37-129">È possibile selezionare il collegamento accanto a **fatture (. pdf)** per scaricare la fattura di tale periodo.</span><span class="sxs-lookup"><span data-stu-id="2ce37-129">You can select the link next to **Invoices (.pdf)** to download that period's invoice.</span></span>
+<span data-ttu-id="c61a4-118">**Scenario 2 [singola valuta]** : i partner hanno acquistato per Azure ri, Marketplace e/o piano di Azure insieme agli acquisti di 145P.</span><span class="sxs-lookup"><span data-stu-id="c61a4-118">**Scenario 2 [Single Currency]**: Partner have purchases for Azure RI, Marketplace and/or Azure plan along with 145p purchases.</span></span> 
 
-## <a name="understand-billing-periods"></a><span data-ttu-id="2ce37-130">Informazioni sui periodi di fatturazione</span><span class="sxs-lookup"><span data-stu-id="2ce37-130">Understand billing periods</span></span>
+- <span data-ttu-id="c61a4-119">Il partner otterrà una fattura PDF e un file di riconciliazione che copre gli addebiti per Azure (145P).</span><span class="sxs-lookup"><span data-stu-id="c61a4-119">Partner will get one invoice PDF and a reconciliation file covering the charges for Azure (145p).</span></span> 
 
-<span data-ttu-id="2ce37-131">La fattura è disponibile entro **due (2) giorni** dalla data di fatturazione selezionata in **ora UTC**.</span><span class="sxs-lookup"><span data-stu-id="2ce37-131">Your invoice is available within **two (2) days** of your selected billing date in **UTC time**.</span></span>
+- <span data-ttu-id="c61a4-120">Il partner riceverà un'altra fattura PDF e un file di riconciliazione che copre i relativi addebiti per Azure RI, Marketplace, Azure Plan.</span><span class="sxs-lookup"><span data-stu-id="c61a4-120">Partner will receive another invoice PDF and a reconciliation file covering their charges for Azure RI, Marketplace, Azure plan.</span></span> 
 
-<span data-ttu-id="2ce37-132">Ad esempio, se si dispone di una data di fatturazione mensile del 12 settembre:</span><span class="sxs-lookup"><span data-stu-id="2ce37-132">For example, if you have a September 12th monthly billing date:</span></span>
+<span data-ttu-id="c61a4-121">**Scenario 3 [più valute]** : i partner hanno acquistato per Azure ri in DKK e piano di Azure in EUR insieme agli acquisti 145P in EUR.</span><span class="sxs-lookup"><span data-stu-id="c61a4-121">**Scenario 3 [Multi-Currency]**: Partner have purchases for Azure RI in DKK and Azure plan in EUR along with 145p purchases in EUR.</span></span> 
 
-- <span data-ttu-id="2ce37-133">Il processo di generazione della **fattura inizierà alle 12.00** UTC del 13 settembre.</span><span class="sxs-lookup"><span data-stu-id="2ce37-133">The invoice generation process will **begin** at 12:00AM UTC on September 13th.</span></span>
-- <span data-ttu-id="2ce37-134">Il processo di generazione della fattura viene **completato** entro le 12.00 UTC del 14 settembre.</span><span class="sxs-lookup"><span data-stu-id="2ce37-134">The invoice generation process will **complete** by 12:00AM UTC on September 14th.</span></span>
-- <span data-ttu-id="2ce37-135">Se la fattura non viene visualizzata entro 11:59PM UTC il 15 settembre, il Contratto di servizio (SLA) e dovrebbe presentare una richiesta di servizio.</span><span class="sxs-lookup"><span data-stu-id="2ce37-135">If you do not see your invoice by 11:59PM UTC on September 15th, you’re out of your Service Level Agreement (SLA) and should file a service request.</span></span>
+- <span data-ttu-id="c61a4-122">Il partner riceverà una fattura PDF e un file di riconciliazione che copre gli addebiti per Azure RI in DKK.</span><span class="sxs-lookup"><span data-stu-id="c61a4-122">Partner will receive one invoice PDF and a reconciliation file covering the charges for Azure RI in DKK.</span></span> 
 
-### <a name="csp-monthly-billing"></a><span data-ttu-id="2ce37-136">Fatturazione mensile CSP</span><span class="sxs-lookup"><span data-stu-id="2ce37-136">CSP monthly billing</span></span>
+- <span data-ttu-id="c61a4-123">Il partner riceverà una fattura PDF e un file di riconciliazione che copre gli addebiti per il piano di Azure in EUR.</span><span class="sxs-lookup"><span data-stu-id="c61a4-123">Partner will receive one invoice PDF and a reconciliation file covering the charges for Azure plan in EUR.</span></span> 
 
-<span data-ttu-id="2ce37-137">I partner del programma Cloud Solution Provider (CSP) che hanno scelto di fatturare mensilmente pagano Microsoft 60 giorni in modo posticipato per le sottoscrizioni dei clienti (sia sottoscrizioni basate sulle licenze che basate sull'utilizzo).</span><span class="sxs-lookup"><span data-stu-id="2ce37-137">Partners in the Cloud Solution Provider (CSP) program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based subscriptions).</span></span>
+- <span data-ttu-id="c61a4-124">Il partner riceverà un'altra fattura PDF e un file di riconciliazione che copre gli addebiti per l'offerta 145P in EUR (o valuta fatturazione partner).</span><span class="sxs-lookup"><span data-stu-id="c61a4-124">Partner will receive another invoice PDF and a reconciliation file covering their charges for 145p offer in EUR (or partner billing currency).</span></span> 
 
-## <a name="find-itemized-details-for-charges"></a><span data-ttu-id="2ce37-138">Trovare i dettagli relativi agli addebiti</span><span class="sxs-lookup"><span data-stu-id="2ce37-138">Find itemized details for charges</span></span>
+## <a name="find-your-bill"></a><span data-ttu-id="c61a4-125">Trovare una fattura</span><span class="sxs-lookup"><span data-stu-id="c61a4-125">Find your bill</span></span> 
 
-<span data-ttu-id="2ce37-139">È possibile comprendere i dettagli relativi agli addebiti usando i file di riconciliazione.</span><span class="sxs-lookup"><span data-stu-id="2ce37-139">You can understand itemized details about your charges using your reconciliation files.</span></span> <span data-ttu-id="2ce37-140">I file di riconciliazione includono gli identificatori dei clienti e gli identificatori di sottoscrizione che è possibile usare per creare fatture del cliente.</span><span class="sxs-lookup"><span data-stu-id="2ce37-140">The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.</span></span>
+<span data-ttu-id="c61a4-126">È possibile trovare la fattura nella pagina fatturazione del dashboard nel centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="c61a4-126">You can find your invoice on the Billing page of the dashboard in Partner Center.</span></span> <span data-ttu-id="c61a4-127">In questa pagina è anche possibile trovare la cronologia di fatturazione, le tendenze di spesa e i file di riconciliazione.</span><span class="sxs-lookup"><span data-stu-id="c61a4-127">You can also find your billing history, spending trends, and reconciliation files on this page.</span></span> 
 
-<span data-ttu-id="2ce37-141">Per altre informazioni, vedi [Come usare i file di riconciliazione](use-the-reconciliation-files.md).</span><span class="sxs-lookup"><span data-stu-id="2ce37-141">For more information, see [How to use the reconciliation files](use-the-reconciliation-files.md).</span></span>
+1. <span data-ttu-id="c61a4-128">Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="c61a4-128">Sign in to the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).</span></span> 
+
+2. <span data-ttu-id="c61a4-129">Nel menu a sinistra selezionare **fatturazione**.</span><span class="sxs-lookup"><span data-stu-id="c61a4-129">In the left-hand menu, select **Billing**.</span></span> 
+
+3. <span data-ttu-id="c61a4-130">Nella pagina fatturazione selezionare la fattura che si desidera scaricare.</span><span class="sxs-lookup"><span data-stu-id="c61a4-130">On the Billing page, select the invoice you want to download.</span></span> 
+
+<span data-ttu-id="c61a4-131">È possibile trovare un collegamento alla fattura più recente nella parte superiore della pagina in saldo account come data ultima fattura.</span><span class="sxs-lookup"><span data-stu-id="c61a4-131">You can find a link to your latest invoice at the top of the page under Account balance as of last invoice date.</span></span> 
+
+<span data-ttu-id="c61a4-132">È possibile trovare le fatture precedenti nella sezione cronologia di fatturazione.</span><span class="sxs-lookup"><span data-stu-id="c61a4-132">You can find previous invoices in the Billing history section.</span></span> <span data-ttu-id="c61a4-133">Scegliere l'anno appropriato, quindi selezionare la freccia a discesa accanto al periodo di fatturazione appropriato.</span><span class="sxs-lookup"><span data-stu-id="c61a4-133">Choose the appropriate year, then select the drop-down arrow next to the appropriate Billing period.</span></span> <span data-ttu-id="c61a4-134">Selezionare il collegamento accanto a fatture (. pdf) per scaricare la fattura del periodo.</span><span class="sxs-lookup"><span data-stu-id="c61a4-134">Select the link next to Invoices (.pdf) to download that period's invoice.</span></span> 
+
+## <a name="understanding-invoice-pdf"></a><span data-ttu-id="c61a4-135">Informazioni sulla fattura PDF</span><span class="sxs-lookup"><span data-stu-id="c61a4-135">Understanding invoice PDF</span></span> 
+
+<span data-ttu-id="c61a4-136">**Fatture per i costi di utilizzo e di licenza**: le fatture per i servizi quali Office 365 e Azure saranno disponibili entro due (2) giorni dalla data di fatturazione selezionata [UTC].</span><span class="sxs-lookup"><span data-stu-id="c61a4-136">**Invoices for Usage and license-based charges**: Invoices for charges for services such as Office 365 and Azure will be available within two (2) days of your selected billing date [UTC].</span></span>  
+
+<span data-ttu-id="c61a4-137">**Fatture per addebiti periodici e periodici: le**fatture per i servizi quali Azure ri, piano di Azure e Marketplace saranno disponibili non più di 8 di ogni mese.</span><span class="sxs-lookup"><span data-stu-id="c61a4-137">**Invoices for onetime and recurring charges**: Invoices for charges for services such as Azure RI, Azure plan, Marketplace will be available not later than 8th of every month.</span></span>  
+
+<span data-ttu-id="c61a4-138">Di seguito sono riportati alcuni dei campi chiave nel documento di fattura PDF:</span><span class="sxs-lookup"><span data-stu-id="c61a4-138">Below are some of the key fields on the Invoice PDF document –</span></span> 
+
+<span data-ttu-id="c61a4-139">**Numero fattura**: identificatore univoco per il documento di fattura generato per il rispettivo periodo di fatturazione.</span><span class="sxs-lookup"><span data-stu-id="c61a4-139">**Invoice number**: Unique identifier for the invoice document generated for the respective billing period.</span></span> 
+
+<span data-ttu-id="c61a4-140">**Periodo di fatturazione**: si tratta del periodo di tempo durante il quale sono disponibili servizi basati su licenze e utilizzi.</span><span class="sxs-lookup"><span data-stu-id="c61a4-140">**Billing period**: This is the period during which you have usages and license-based services.</span></span> 
+
+<span data-ttu-id="c61a4-141">**Data fattura**: data di fatturazione o data di anniversario in cui la fattura viene generata ogni mese.</span><span class="sxs-lookup"><span data-stu-id="c61a4-141">**Invoice date**: The billing date or anniversary date on which your invoice is generated each month.</span></span> 
+
+<span data-ttu-id="c61a4-142">Scadenza **pagamento**: data in cui deve essere ricevuto il pagamento.</span><span class="sxs-lookup"><span data-stu-id="c61a4-142">**Payment due date**: The date by which your payment must be received.</span></span> 
+
+<span data-ttu-id="c61a4-143">**Addebiti**: importo dovuto alla valuta di fatturazione per il rispettivo periodo di fatturazione.</span><span class="sxs-lookup"><span data-stu-id="c61a4-143">**Charges**: The amount due in your billing currency for the respective billing period.</span></span> 
+
+<span data-ttu-id="c61a4-144">**Crediti**: crediti, ad esempio SLA, o rettifiche per le modifiche apportate alle sottoscrizioni (ad esempio, aumenti o riduzioni della postazione).</span><span class="sxs-lookup"><span data-stu-id="c61a4-144">**Credits**: Credits (such as SLA) or adjustments for changes made to subscriptions (for example, seat increases or decreases).</span></span> 
+
+<span data-ttu-id="c61a4-145">**Istruzioni**per il pagamento: Descrizione di come pagare la fattura in base all'area geografica.</span><span class="sxs-lookup"><span data-stu-id="c61a4-145">**Payment instructions**: Description of how to pay your invoice, based on your region.</span></span> <span data-ttu-id="c61a4-146">Quando si effettua un pagamento, assicurarsi sempre di includere il numero di fattura.</span><span class="sxs-lookup"><span data-stu-id="c61a4-146">Always be sure to include your invoice number when making a payment.</span></span> 
+
+<span data-ttu-id="c61a4-147">Per una descrizione dettagliata di tutti i campi nel file di fattura (inclusi i campi per gli addebiti monouso), vedere [campi del file di fattura](https://docs.microsoft.com/partner-center/invoice-file).</span><span class="sxs-lookup"><span data-stu-id="c61a4-147">For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](https://docs.microsoft.com/partner-center/invoice-file).</span></span> 
+
+## <a name="understand-reconciliation-file"></a><span data-ttu-id="c61a4-148">Informazioni sul file di riconciliazione</span><span class="sxs-lookup"><span data-stu-id="c61a4-148">Understand reconciliation file</span></span> 
+
+ <span data-ttu-id="c61a4-149">I file di riconciliazione, che forniscono dettagli relativi a drill-down/dettagliati degli addebiti, sono disponibili per il download insieme al PDF della fattura.</span><span class="sxs-lookup"><span data-stu-id="c61a4-149">Reconciliation files, which provides a drill down/itemized details of your charges, are available to download along with the Invoice PDF.</span></span> <span data-ttu-id="c61a4-150">I file di riconciliazione includono gli identificatori dei clienti e gli identificatori di sottoscrizione che è possibile usare per creare fatture del cliente.</span><span class="sxs-lookup"><span data-stu-id="c61a4-150">The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.</span></span> <span data-ttu-id="c61a4-151">Per altre informazioni sui file di ricognizione, vedere  [come usare i file di riconciliazione](https://docs.microsoft.com/partner-center/use-the-reconciliation-files) .</span><span class="sxs-lookup"><span data-stu-id="c61a4-151">Please refer to  [How to use the reconciliation files](https://docs.microsoft.com/partner-center/use-the-reconciliation-files) to get more details on the recon files.</span></span> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

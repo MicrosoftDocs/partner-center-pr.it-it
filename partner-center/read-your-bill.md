@@ -1,7 +1,7 @@
 ---
 title: Comprendere la fattura | Centro per i partner
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 04/03/2020
 description: La fattura è un riepilogo di tutti gli addebiti per il centro per i partner (per il programma, i prodotti e i clienti) per il periodo mensile corrente.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ author: jasonwhowell
 ms.author: jasonh
 keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: e356dfbe3243db176393f614c92540e40d92f055
-ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
+ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "80634811"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676840"
 ---
 # <a name="understand-your-bill"></a>Comprendere la fattura
 
@@ -93,11 +93,11 @@ Scadenza **pagamento**: data in cui deve essere ricevuto il pagamento.
 
 **Istruzioni**per il pagamento: Descrizione di come pagare la fattura in base all'area geografica. Quando si effettua un pagamento, assicurarsi sempre di includere il numero di fattura. 
 
-Per una descrizione dettagliata di tutti i campi nel file di fattura (inclusi i campi per gli addebiti monouso), vedere [campi del file di fattura](https://docs.microsoft.com/partner-center/invoice-file). 
+Per una descrizione dettagliata di tutti i campi nel file di fattura (inclusi i campi per gli addebiti monouso), vedere [campi del file di fattura](invoice-file.md). 
 
 ## <a name="understand-reconciliation-file"></a>Informazioni sul file di riconciliazione 
 
- I file di riconciliazione, che forniscono dettagli relativi a drill-down/dettagliati degli addebiti, sono disponibili per il download insieme al PDF della fattura. I file di riconciliazione includono gli identificatori dei clienti e gli identificatori di sottoscrizione che è possibile usare per creare fatture del cliente. Per altre informazioni sui file di ricognizione, vedere  [come usare i file di riconciliazione](https://docs.microsoft.com/partner-center/use-the-reconciliation-files) . 
+ I file di riconciliazione, che forniscono dettagli relativi a drill-down/dettagliati degli addebiti, sono disponibili per il download insieme al PDF della fattura. I file di riconciliazione includono gli identificatori dei clienti e gli identificatori di sottoscrizione che è possibile usare per creare fatture del cliente. Per altre informazioni sui file di ricognizione, vedere  [come usare i file di riconciliazione](use-the-reconciliation-files.md) . 
 
 
 

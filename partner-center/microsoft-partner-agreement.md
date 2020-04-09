@@ -1,7 +1,7 @@
 ---
-title: Contratto Microsoft Partner per partner CSP | Centro per i partner
+title: Contratto Microsoft Partner (MPA) per i partner CSP | Centro per i partner
 ms.topic: article
-ms.date: 09/04/2019
+ms.date: 04/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Un contratto per partner semplice, unificato e accettato digitalmente.
@@ -9,30 +9,40 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 54f4fff4170b97c98108961ecf21443148c7d0d9
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 358391db381b546875bf4f76e05a19828f22948e
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340199"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676830"
 ---
-# <a name="microsoft-partner-agreement-for-csp-partners"></a><span data-ttu-id="9d7ad-103">Contratto Microsoft Partner per partner CSP</span><span class="sxs-lookup"><span data-stu-id="9d7ad-103">Microsoft Partner Agreement for CSP partners</span></span> 
+# <a name="microsoft-partner-agreement-mpa-for-csp-partners"></a><span data-ttu-id="507db-103">Contratto Microsoft Partner (MPA) per i partner CSP</span><span class="sxs-lookup"><span data-stu-id="507db-103">Microsoft Partner Agreement (MPA) for CSP partners</span></span> 
 
-<span data-ttu-id="9d7ad-104">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="9d7ad-104">**Appropriate roles**</span></span>
--   <span data-ttu-id="9d7ad-105">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="9d7ad-105">Global admin</span></span>
--   <span data-ttu-id="9d7ad-106">Amministratore utenti</span><span class="sxs-lookup"><span data-stu-id="9d7ad-106">User admin</span></span>
--   <span data-ttu-id="9d7ad-107">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="9d7ad-107">Admin agent</span></span>
--   <span data-ttu-id="9d7ad-108">Agente di vendita</span><span class="sxs-lookup"><span data-stu-id="9d7ad-108">Sales agent</span></span>
+<span data-ttu-id="507db-104">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="507db-104">**Appropriate roles**</span></span>
 
-<span data-ttu-id="9d7ad-109">Il Contratto Microsoft Partner offre ai partner Microsoft un contratto semplice, unificato e accettato digitalmente.</span><span class="sxs-lookup"><span data-stu-id="9d7ad-109">The Microsoft Partner Agreement provides Microsoft partners with a simple, unified, digitally accepted partner agreement.</span></span> <span data-ttu-id="9d7ad-110">Il Contratto Microsoft Partner include un set fondamentale di condizioni perpetue che consentono a Microsoft, ai partner e ai clienti di garantire la privacy e la sicurezza dei dati, promuovere la conformità e favorire l'adozione di valide procedure aziendali.</span><span class="sxs-lookup"><span data-stu-id="9d7ad-110">The Microsoft Partner Agreement contains a core set of perpetual terms that help Microsoft,partners, and customers support data privacy and security, promote compliance, and encourage sound business practices.</span></span>   
+- <span data-ttu-id="507db-105">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="507db-105">Global admin</span></span>
 
-<span data-ttu-id="9d7ad-111">I partner che partecipano al programma Cloud Solution Provider, inclusi provider indiretti, rivenditori indiretti e partner con fatturazione diretta, possono tutti completare la procedura di firma online nel Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="9d7ad-111">Cloud Solution Provider program partners including indirect providers, indirect resellers, and direct bill partners, are all able to complete the signing online in Partner Center.</span></span> <span data-ttu-id="9d7ad-112">Anche i partner con fatturazione diretta o i provider indiretti che operano nel cloud per enti pubblici possono firmare il Contratto Microsoft Partner direttamente dal Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="9d7ad-112">Direct bill and indirect provider partners who operate in the government cloud can also sign the MPA from within Partner Center.</span></span>
 
-<span data-ttu-id="9d7ad-113">Per continuare a partecipare al programma Cloud Solution Provider, dovrai firmare il Contratto Microsoft Partner prima del 31 gennaio 2020.</span><span class="sxs-lookup"><span data-stu-id="9d7ad-113">You need to sign the Microsoft Partner Agreement before January 31, 2020 to continue to participate in the CSP program.</span></span> <span data-ttu-id="9d7ad-114">Il Centro per i partner ti ricorderà che puoi firmare il contratto direttamente da lì, con la massima facilità.</span><span class="sxs-lookup"><span data-stu-id="9d7ad-114">Partner Center will remind you that you are now able to sign the agreement from within Partner Center, easily.</span></span> 
+<span data-ttu-id="507db-106">Il Contratto Microsoft Partner offre ai partner Microsoft un contratto semplice, unificato e accettato digitalmente.</span><span class="sxs-lookup"><span data-stu-id="507db-106">The Microsoft Partner Agreement provides Microsoft partners with a simple, unified, digitally accepted partner agreement.</span></span> <span data-ttu-id="507db-107">Il Contratto Microsoft Partner include un set fondamentale di condizioni perpetue che consentono a Microsoft, ai partner e ai clienti di garantire la privacy e la sicurezza dei dati, promuovere la conformità e favorire l'adozione di valide procedure aziendali.</span><span class="sxs-lookup"><span data-stu-id="507db-107">The Microsoft Partner Agreement contains a core set of perpetual terms that help Microsoft,partners, and customers support data privacy and security, promote compliance, and encourage sound business practices.</span></span>   
 
-## <a name="microsoft-customer-agreement"></a><span data-ttu-id="9d7ad-115">Contratto del cliente Microsoft</span><span class="sxs-lookup"><span data-stu-id="9d7ad-115">Microsoft Customer Agreement</span></span>
+<span data-ttu-id="507db-108">I partner che partecipano al programma Cloud Solution Provider, inclusi provider indiretti, rivenditori indiretti e partner con fatturazione diretta, possono tutti completare la procedura di firma online nel Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="507db-108">Cloud Solution Provider program partners including indirect providers, indirect resellers, and direct bill partners, are all able to complete the signing online in Partner Center.</span></span> <span data-ttu-id="507db-109">Anche i partner con fatturazione diretta o i provider indiretti che operano nel cloud per enti pubblici possono firmare il Contratto Microsoft Partner direttamente dal Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="507db-109">Direct bill and indirect provider partners who operate in the government cloud can also sign the MPA from within Partner Center.</span></span>
 
-<span data-ttu-id="9d7ad-116">L'accettazione da parte del cliente del Contratto del cliente Microsoft sarà obbligatoria in CSP per l'acquisto dei servizi Azure tramite un piano di Azure e per tutte le altre offerte in CSP acquistate dopo il 31 gennaio 2020.</span><span class="sxs-lookup"><span data-stu-id="9d7ad-116">Customer acceptance of the Microsoft Customer Agreement (MCuA) will be required in CSP for purchases of Azure services through an Azure plan, and for all other offers in CSP purchased after January 31, 2020.</span></span> <span data-ttu-id="9d7ad-117">Leggi [Confermare l'accettazione del Contratto del cliente Microsoft da parte di un cliente (anteprima)](confirm-customer-agreement.md)</span><span class="sxs-lookup"><span data-stu-id="9d7ad-117">Read [Confirm customer acceptance of the Microsoft Customer Agreement (preview)](confirm-customer-agreement.md)</span></span>
+<span data-ttu-id="507db-110">Per continuare a partecipare al programma Cloud Solution Provider, dovrai firmare il Contratto Microsoft Partner prima del 31 gennaio 2020.</span><span class="sxs-lookup"><span data-stu-id="507db-110">You need to sign the Microsoft Partner Agreement before January 31, 2020 to continue to participate in the CSP program.</span></span> <span data-ttu-id="507db-111">Il Centro per i partner ti ricorderà che puoi firmare il contratto direttamente da lì, con la massima facilità.</span><span class="sxs-lookup"><span data-stu-id="507db-111">Partner Center will remind you that you are now able to sign the agreement from within Partner Center, easily.</span></span>
+
+## <a name="how-to-verify-if-i-have-signed-the-mpa"></a><span data-ttu-id="507db-112">Come verificare se hai firmato il Contratto Microsoft Partner</span><span class="sxs-lookup"><span data-stu-id="507db-112">How to verify if I have signed the MPA</span></span>
+
+<span data-ttu-id="507db-113">Per verificare se hai firmato il Contratto Microsoft Partner:</span><span class="sxs-lookup"><span data-stu-id="507db-113">To see if you have signed the MPA:</span></span>
+
+1. <span data-ttu-id="507db-114">In qualità di amministratore globale dell'azienda, accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="507db-114">As the global admin for your company, sign in to Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).</span></span>  
+2. <span data-ttu-id="507db-115">Passa alla pagina **Panoramica CSP**.</span><span class="sxs-lookup"><span data-stu-id="507db-115">Go to your **CSP Overview** page.</span></span>
+3. <span data-ttu-id="507db-116">Se hai ricevuto una notifica da cui risulta che sono presenti **Azioni in sospeso**, fai clic sulla notifica.</span><span class="sxs-lookup"><span data-stu-id="507db-116">If you have a notification telling you that you have **Pending actions**, click on the notification.</span></span> <span data-ttu-id="507db-117">Verrai reindirizzato alla pagina in cui potrai firmare il Contratto Microsoft Partner.</span><span class="sxs-lookup"><span data-stu-id="507db-117">This will take you to where you can sign the MPA.</span></span> 
+
+>[!NOTE] 
+><span data-ttu-id="507db-118">Il Contratto Microsoft Partner può essere visualizzato e firmato solo dall'amministratore globale dell'azienda.</span><span class="sxs-lookup"><span data-stu-id="507db-118">Only the global admin in your company can view and sign the MPA.</span></span> <span data-ttu-id="507db-119">Se non sei l'amministratore globale, dovrai chiedere all'amministratore globale della tua azienda di verificare il Contratto Microsoft Partner.</span><span class="sxs-lookup"><span data-stu-id="507db-119">If you aren't the global admin, you will need to ask your global admin to verify the MPA.</span></span> 
+
+## <a name="microsoft-customer-agreement"></a><span data-ttu-id="507db-120">Contratto del cliente Microsoft</span><span class="sxs-lookup"><span data-stu-id="507db-120">Microsoft Customer Agreement</span></span>
+
+<span data-ttu-id="507db-121">L'accettazione da parte del cliente del Contratto del cliente Microsoft sarà obbligatoria in CSP per l'acquisto dei servizi Azure tramite un piano di Azure e per tutte le altre offerte in CSP acquistate dopo il 31 gennaio 2020.</span><span class="sxs-lookup"><span data-stu-id="507db-121">Customer acceptance of the Microsoft Customer Agreement (MCuA) will be required in CSP for purchases of Azure services through an Azure plan, and for all other offers in CSP purchased after January 31, 2020.</span></span> <span data-ttu-id="507db-122">Leggi [Confermare l'accettazione del Contratto del cliente Microsoft da parte di un cliente](confirm-customer-agreement.md).</span><span class="sxs-lookup"><span data-stu-id="507db-122">Read [Confirm customer acceptance of the Microsoft Customer Agreement](confirm-customer-agreement.md)</span></span>
  
 
 

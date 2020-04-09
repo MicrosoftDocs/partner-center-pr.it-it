@@ -9,41 +9,40 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
-ms.openlocfilehash: dd2bd327da0259f66b7feb9f90b7f6a75089524b
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: 72ad7bab25c295fa039e7b29f9d4369c0434814c
+ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723478"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "80529781"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Domande frequenti sui requisiti di sicurezza per i partner
 
 **Utenti appropriati**
--   Tutti gli utenti abilitati, inclusi gli utenti guest
+
+- Tutti gli utenti abilitati, inclusi gli utenti guest
 
 Questo articolo contiene alcune domande frequenti sui [requisiti di sicurezza per i partner](partner-security-requirements.md).
 
 ## <a name="partner-security-requirements"></a>Requisiti di sicurezza per i partner
 
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>Quali sono i requisiti di sicurezza dei partner e perché devono essere implementati dai partner?
+
+Tra le nostre priorità principali vi è una maggiore e costante tutela della sicurezza e della privacy e continuiamo ad aiutare i partner a proteggere i loro clienti e tenant. Continuano infatti a perpetrarsi attacchi alla sicurezza sempre più sofisticati, principalmente correlati a eventi imprevisti di compromissione dell'identità. Poiché i controlli preventivi svolgono un ruolo fondamentale in una strategia di difesa complessiva volta a contrastare gli attacchi alla sicurezza, nel 2019 abbiamo introdotto una serie di [requisiti di sicurezza obbligatori](partner-security-requirements.md). Per essere conformi, tutti i partner che partecipano al programma Cloud Solution Provider (CSP), i fornitori di pannelli di controllo e gli Advisor devono implementare i requisiti.
+
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Quali sono le tempistiche e le attività cardine?
 
-Le condizioni associate ai requisiti di sicurezza sono incluse nel Contratto Microsoft Partner. Questi requisiti di sicurezza devono essere implementati per la conformità alla partecipazione al programma Cloud Solution Provider.
+Le condizioni associate ai requisiti di sicurezza sono incluse nel Contratto Microsoft Partner del 2019. Questi requisiti di sicurezza dovranno essere implementati prima possibile per la conformità alla partecipazione al programma CSP.
 
-### <a name="what-will-happen-if-i-do-not-take-any-actions"></a>Cosa succede se non intraprendo alcuna azione?
+### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Cosa accade se non vengono implementati questi requisiti di sicurezza dei partner?
 
-I partner che non soddisfano questi obblighi e requisiti di sicurezza non potranno effettuare transazioni nell'ambito del programma Cloud Solution Provider o gestire i tenant dei clienti usando diritti di amministratore delegato quando vengono applicati questi requisiti. È in corso il processo di identificazione di una data di applicazione per i requisiti. I partner riceveranno una notifica con tale data e informazioni dettagliate.
+Il Contratto Microsoft Partner prevede che venga imposta l'autenticazione a più fattori per gli account utente e che venga adottato il modello di applicazione sicura per l'interazione con l'API di Partner Center. 
 
-### <a name="what-will-happen-if-i-do-not-implement-these-partner-security-requirements"></a>Cosa accade se non vengono implementati questi requisiti di sicurezza per i partner?
-
-Il Contratto Microsoft Partner prevede che venga imposta l'autenticazione a più fattori per gli account utente e che venga adottato il modello di applicazione sicura per l'interazione con l'API del Centro per i partner. I partner che non rispettano queste procedure di sicurezza possono perdere la facoltà di effettuare transazioni nel programma Cloud Solution Provider o gestire i tenant dei clienti sfruttando i diritti di amministratore delegato.
-
-### <a name="why-is-microsoft-enforcing-these-new-requirements"></a>Perché Microsoft applica questi nuovi requisiti?
-
-Sicurezza e privacy di clienti e partner costituiscono la principale priorità di Microsoft. Continuano infatti a perpetrarsi attacchi alla sicurezza sempre più sofisticati, principalmente correlati a eventi imprevisti di compromissione dell'identità. Poiché i controlli preventivi svolgono un ruolo fondamentale in una strategia di difesa complessiva volta a contrastare gli attacchi alla sicurezza, per contribuire alla protezione di partner e clienti si inizierà ad applicare un set di requisiti di sicurezza obbligatori.
+I partner che non rispettano queste procedure di sicurezza possono perdere la facoltà di effettuare transazioni nel programma CSP o gestire i tenant dei clienti usando i diritti di amministratore delegato.
 
 ### <a name="does-this-apply-to-all-geographies"></a>Queste informazioni sono valide per tutte le aree geografiche?
 
-Sì, queste informazioni fanno riferimento a tutte le aree geografiche? È fortemente consigliabile che tutti i partner che effettuino transazioni attraverso un cloud sovrano (21Vianet, governo statunitense e Germania) agiscano e adottino immediatamente questi nuovi requisiti di sicurezza. Tuttavia, non è necessario che questi partner soddisfino i nuovi requisiti di sicurezza con decorrenza a partire dal 1° agosto. Microsoft fornirà altri dettagli sull'applicazione di questi requisiti di sicurezza per i cloud sovrani in futuro.
+Sì, queste informazioni fanno riferimento a tutte le aree geografiche? È fortemente consigliabile che tutti i partner che effettuino transazioni attraverso un cloud sovrano (21Vianet, governo statunitense e Germania) agiscano e adottino immediatamente questi nuovi requisiti di sicurezza. Tuttavia, non è necessario che questi partner soddisfino i nuovi requisiti di sicurezza a partire dal 1° agosto. Microsoft fornirà altri dettagli sull'applicazione di questi requisiti di sicurezza per i cloud sovrani in futuro.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>È possibile ottenere un'esclusione per un account?
 
@@ -53,7 +52,7 @@ No, non è possibile escludere alcun account utente dal requisito di imposizione
 
 Devi verificare i punti seguenti:
 
-- Devi soddisfare tutti i requisiti indicati nei [requisiti di sicurezza per i partner](https://docs.microsoft.com/partner-center/partner-security-requirements).
+- Devi soddisfare tutti i requisiti indicati nei [requisiti di sicurezza dei partner](https://docs.microsoft.com/partner-center/partner-security-requirements).
 - Devi assicurarti che per tutti gli account utente del tuo tenant partner sia applicata l'autenticazione a più fattori.
 
 Per identificare le principali aree in cui puoi eseguire azioni, tramite il Centro per i partner forniamo il report sullo [stato dei requisiti di sicurezza](https://partner.microsoft.com/pcv/security/compliance).
@@ -88,7 +87,7 @@ Tutti i partner del programma CSP (partner con fatturazione diretta, provider in
     - [Documento di autenticazione del Centro per i partner](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
     - [Documento Multi-Factor Authentication di PowerShell per il Centro per i partner](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
-    Se si usa un pannello di controllo, è necessario consultarsi con il fornitore in merito all'adozione del framework del modello di applicazione sicura.
+    Se usi un pannello di controllo per l'adozione del framework del modello di applicazione sicura, rivolgiti al fornitore.
 
     I fornitori di pannelli di controllo devono infatti eseguire l'[onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) al Centro per i partner come fornitore di pannelli di controllo e avviare subito l'implementazione di questo requisito. Vedere [Centro per i partner: framework del modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). I fornitori di pannelli di controllo devono accettare e usare il consenso dei partner CSP anziché le credenziali ed eliminare tutte le credenziali dei partner CSP esistenti.
 
@@ -104,22 +103,22 @@ MFA è un meccanismo di sicurezza che consente agli utenti di eseguire l'autenti
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>Quanto costa abilitare l'autenticazione MFA?
 
-Microsoft offre l'autenticazione MFA senza costi aggiuntivi tramite l'implementazione delle impostazioni predefinite per la sicurezza Azure AD. L'unica opzione di verifica disponibile con questa versione di MFA è un'applicazione di autenticazione. Se si preferisce usare una telefonata o un SMS come opzione di verifica, sarà necessario acquistare una licenza di [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium). In alternativa, è possibile usare una soluzione di terze parti per fornire l'autenticazione MFA per ogni utente incluso nel tenant del partner. In questo caso, è responsabilità del partner accertarsi che la soluzione MFA venga imposta e che siano rispettati tutti i requisiti.
+Microsoft offre l'autenticazione MFA senza costi aggiuntivi tramite l'implementazione delle impostazioni predefinite per la sicurezza Azure AD. L'unica opzione di verifica disponibile con questa versione di MFA è un'applicazione di autenticazione. Se si preferisce usare una telefonata o un SMS come opzione di verifica, sarà necessario acquistare una licenza di [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium). In alternativa, puoi usare una soluzione di terze parti per fornire l'autenticazione MFA per ogni utente incluso nel tenant del partner. In questo caso, è tua responsabilità assicurare che la soluzione MFA venga applicata e che siano rispettati tutti i requisiti.
 
-### <a name="if-i-already-have-an-mfa-solution-what-actions-do-i-need-to-take"></a>Se si dispone già di una soluzione MFA, quali azioni è necessario eseguire?
+### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>Se ho già una soluzione MFA, quali azioni devo eseguire?
 
-Attraverso questi requisiti di sicurezza, agli utenti inclusi nel tenant di un partner sarà richiesto di eseguire l'autenticazione MFA quando accedono ai servizi cloud commerciali Microsoft. Per soddisfare questi requisiti, è possibile usare anche una soluzione di terze parti. Microsoft non fornisce più test di convalida ai provider di identità indipendenti per la compatibilità con Azure Active Directory. Se si vuole testare l'interoperabilità di un prodotto, consultare le [linee guida](https://www.microsoft.com/download/details.aspx?id=56843).
+Attraverso questi requisiti di sicurezza, agli utenti inclusi nel tenant di un partner sarà richiesto di eseguire l'autenticazione MFA quando accedono ai servizi cloud commerciali Microsoft. Per soddisfare questi requisiti, puoi usare una soluzione di terze parti. Microsoft non fornisce più test di convalida ai provider di identità indipendenti per la compatibilità con Azure Active Directory. Per testare l'interoperabilità del prodotto, consulta queste [linee guida](https://www.microsoft.com/download/details.aspx?id=56843).
 
 > [!IMPORTANT]
-> Se usi una soluzione di terze parti, è importante verificare che rilasci l'attestazione con il riferimento al metodo di autenticazione (Authentication Method Reference, AMR) contenente il valore MFA. Per informazioni dettagliate su come verificare che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza per i partner](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements).
+> Se usi una soluzione di terze parti, è importante verificare che la soluzione rilasci l'attestazione AMR (Authentication Method Reference) contenente il valore MFA. Per informazioni dettagliate su come verificare che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza dei partner](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements).
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>Se vengono usati più tenant di partner per eseguire la transazione, e necessario implementare l'autenticazione MFA su tutti i tenant?
 
-Sì, sarà necessario applicare l'autenticazione MFA a tutti i tenant di Azure Active Directory associati al programma CSP o al programma Advisor. Se si prevede di acquistare una licenza di Azure Active Directory Premium, sarà necessario acquistare una licenza per l'utente in ogni tenant di Azure Active Directory.
+Sì, devi applicare l'autenticazione MFA per ogni tenant di Azure Active Directory associato al programma CSP o al programma Advisor. Per acquistare una licenza Premium di Azure Active Directory, è necessario acquistare una licenza per l'utente in ogni tenant di Azure Active Directory.
 
 ### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>È necessario che l'autenticazione MFA venga imposta a ogni account utente incluso nel tenant del partner?
 
-Sì, per ogni utente sarà necessario imporre l'autenticazione MFA. Considera che se usi le impostazioni predefinite per la sicurezza Azure AD, non è necessaria alcuna azione aggiuntiva perché tale funzionalità impongono l'autenticazione MFA per tutti gli account utente. Tuttavia, l'abilitazione delle impostazioni predefinite per la sicurezza è un modo semplice e gratuito per garantire che gli account utente siano conformi all'autenticazione MFA e non subiscano effetti quando questa viene imposta.
+Sì, per ogni utente sarà necessario imporre l'autenticazione MFA. Tuttavia, se usi le impostazioni predefinite per la sicurezza Azure AD, non è necessaria alcuna azione aggiuntiva perché tale funzionalità applica l'autenticazione MFA a tutti gli account utente. L'abilitazione delle impostazioni predefinite per la sicurezza è un modo semplice e gratuito per garantire che gli account utente siano conformi all'autenticazione MFA e non subiscano effetti quando questa viene applicata.
 
 ### <a name="i-am-a-direct-bill-partner-with-microsoft-what-do-i-need-to-do"></a>Sono un partner con fatturazione diretta con Microsoft. Come devo procedere?
 
@@ -129,23 +128,23 @@ I partner Cloud Solution Provider con fatturazione diretta devono applicare l'au
 
 Tutti i rivenditori indiretti sono tenuti ad applicare l'autenticazione MFA per ogni utente incluso nel tenant del partner. Questa azione deve essere eseguita dal rivenditore indiretto.
 
-### <a name="i-do-not-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>Se non viene usata l'API del Centro per i partner, è comunque necessario implementare l'autenticazione MFA?
+### <a name="i-dont-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>Se non uso l'API di Partner Center, è comunque necessario implementare l'autenticazione MFA?
 
-Sì, questo requisito di sicurezza è valido per tutti gli utenti, inclusi gli utenti amministratori del partner e gli utenti finali inclusi in un tenant del partner.
+Sì, questo requisito di sicurezza è valido per tutti gli utenti, inclusi gli utenti amministratori del partner e gli utenti finali di un tenant del partner.
 
 ### <a name="which-third-party-vendors-provide-mfa-solutions-compatible-with-azure-active-directory"></a>Quali fornitori di terze parti offrono soluzioni MFA compatibili con Azure Active Directory?
 
-Sono disponibili molte recensioni indipendenti di soluzioni MFA online, ad esempio [Gartner](https://www.gartner.com/en/webinars/3881781). Quando valutano fornitori e soluzioni MFA, i partner devono accertarsi che la soluzione scelta sia compatibile con Azure Active Directory.
+Quando valutano fornitori e soluzioni MFA, i partner devono accertarsi che la soluzione scelta sia compatibile con Azure Active Directory.
 
-Microsoft non fornisce più test di convalida ai provider di identità indipendenti per la compatibilità con Azure Active Directory. Se si vuole testare l'interoperabilità di un prodotto, consultare le [linee guida](https://www.microsoft.com/download/details.aspx?id=56843).
+Microsoft non fornisce più test di convalida ai provider di identità indipendenti per la compatibilità con Azure Active Directory. Se vuoi testare l'interoperabilità di un prodotto, consulta queste [linee guida](https://www.microsoft.com/download/details.aspx?id=56843).
 
-Per altre informazioni, vedere l'[Elenco di compatibilità della federazione di Azure AD](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-compatibility).
+Per altre informazioni, vedi [Elenco di compatibilità della federazione di Azure AD](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-compatibility).
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>Come è possibile testare l'autenticazione MFA in una sandbox di integrazione?
 
 Le impostazioni predefinite per la sicurezza Azure AD devono essere abilitate o in alternativa puoi usare una soluzione di terze parti basata sulla federazione.
 
-### <a name="will-enabling-mfa-effect-how-i-interact-with-my-customers-tenant"></a>L'abilitazione dell'autenticazione MFA influirà sulle modalità di interazione con il tenant del cliente?
+### <a name="will-enabling-mfa-affect-how-i-interact-with-my-customers-tenant"></a>L'abilitazione dell'autenticazione MFA influirà sulla modalità di interazione con il tenant del mio cliente?
 
 No. L'applicazione di questi requisiti di sicurezza non avrà alcun effetto sulle modalità di gestione dei clienti. Non verrà ad esempio annullata la possibilità di eseguire operazioni amministrative delegate.
 
@@ -159,15 +158,15 @@ No, l'autenticazione MFA è prevista per tutti gli utenti inclusi nel tenant del
 
 ### <a name="do-the-partner-security-requirements-apply-to-the-integration-sandbox"></a>I requisiti di sicurezza dei partner vengono applicati anche alla sandbox di integrazione?
 
-Sì, i requisiti di sicurezza dei partner vengono applicati anche alla sandbox di integrazione. Questo significa che sarà necessario implementare la soluzione MFA appropriata per gli utenti inclusi nel tenant della sandbox di integrazione. Per fornire l'autenticazione MFA, è consigliabile implementare le impostazioni predefinite per la sicurezza Azure AD.
+Sì, i requisiti di sicurezza dei partner vengono applicati anche alla sandbox di integrazione. Questo significa che dovrai implementare la soluzione MFA appropriata per gli utenti inclusi nel tenant della sandbox di integrazione. Per fornire l'autenticazione MFA, è consigliabile implementare le impostazioni predefinite per la sicurezza Azure AD.
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>Come è possibile configurare un account di accesso di emergenza (break glass)?
 
-È consigliabile creare uno o due account di accesso di emergenza per impedire di essere inavvertitamente bloccati dal tenant di Azure AD. In merito ai requisiti di sicurezza dei partner, è necessario che ogni utente esegua l'autenticazione tramite Multi-Factor Authentication. Questo significa tuttavia che sarà necessario modificare la definizione di un account di accesso di emergenza. Potrebbe trattarsi, ad esempio, di un account che usa una soluzione di terze parti per l'autenticazione MFA.
+È consigliabile creare uno o due account di accesso di emergenza per evitare di non poter accedere accidentalmente al tenant di Azure AD. In merito ai requisiti di sicurezza dei partner, è necessario che ogni utente esegua l'autenticazione tramite Multi-Factor Authentication. Questo significa dovrai modificare la definizione di un account di accesso di emergenza. Potrebbe trattarsi, ad esempio, di un account che usa una soluzione di terze parti per l'autenticazione MFA.
 
-### <a name="if-i-am-using-a-third-party-solution-is-active-directory-federation-service-adfs-required"></a>Se si usa una soluzione di terze parti, è necessario Active Directory Federation Service (ADFS)?
+### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>Se uso una soluzione di terze parti, è necessario Active Directory Federation Services (ADFS)?
 
-No, se si una soluzione di terze parti, non è necessario avere Active Directory Federation Service (ADFS). Si consiglia di rivolgersi al fornitore della soluzione per determinare quali sono i requisiti per la soluzione.
+No, non è necessario avere Active Directory Federation Services (ADFS) se usi una soluzione di terze parti. Si consiglia di rivolgersi al fornitore della soluzione per determinare quali sono i requisiti per la soluzione.
 
 ### <a name="is-it-a-requirement-to-enable-azure-ad-security-defaults"></a>È necessario abilitare le impostazioni predefinite per la sicurezza Azure AD?
 
@@ -175,7 +174,7 @@ No, non è necessario abilitarle.
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>È possibile usare l'accesso condizionale per soddisfare il requisito di autenticazione MFA?
 
-Sì, è possibile usare l'accesso condizionale per applicare l'autenticazione MFA a ogni utente presente nel tenant del partner, inclusi gli account di servizio. Considerati i privilegi elevati della condizione di partner, è tuttavia necessario garantire che ogni utente disponga di una richiesta MFA per ogni singola autenticazione. Questo significa che non sarà possibile usare la funzionalità di accesso condizionale che elude la necessità di usare l'autenticazione MFA.
+Sì, è possibile usare l'accesso condizionale per applicare l'autenticazione MFA a ogni utente presente nel tenant del partner, inclusi gli account di servizio. Considerati i privilegi elevati della condizione di partner, è tuttavia necessario garantire che ogni utente disponga di una richiesta MFA per ogni singola autenticazione. Questo significa che non potrai usare la funzionalità di accesso condizionale che elude il requisito dell'autenticazione MFA.
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>L'account di servizio usato da Azure AD Connect sarà interessato dai requisiti di sicurezza dei partner?
 
@@ -202,41 +201,41 @@ Tutti i partner che hanno sviluppato una procedura di integrazione personalizzat
 - [Documento di autenticazione del Centro per i partner](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
 - [Documento Multi-Factor Authentication di PowerShell per il Centro per i partner](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
-Se si usa un pannello di controllo, è necessario consultarsi con il fornitore in merito all'adozione del framework del modello di applicazione sicura.
+Se usi un pannello di controllo, devi rivolgerti al fornitore per informazioni sull'adozione del framework del modello di applicazione sicura.
 
 I fornitori di pannelli di controllo devono infatti eseguire l'[onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) al Centro per i partner come fornitore di pannelli di controllo e avviare subito l'implementazione di questo requisito. Vedere [Centro per i partner: framework del modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). I fornitori di pannelli di controllo devono accettare e usare il consenso dei partner CSP anziché le credenziali ed eliminare tutte le credenziali dei partner CSP esistenti.
 
-### <a name="who-is-a-control-panel-vendor-cpv"></a>Chi sono i fornitori di pannelli di controllo (CPV)?
-
-Un fornitore di pannelli di controllo è un fornitore di software indipendente che sviluppa app a disposizione dei partner CSP che eseguono l'integrazione con un'API del Centro per i partner. Un fornitore di pannelli di controllo non è un partner CSP con accesso diretto al dashboard o alle API del Centro per i partner. Una descrizione dettagliata è disponibile nell'articolo [Centro per i partner: Guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
-
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Il modello di applicazione sicura deve essere implementato solo per l'API/SDK del Centro per i partner?
 
-L'applicazione dell'autenticazione a più fattori per tutti gli account utente influirà sull'automazione o l'integrazione progettata per l'esecuzione in modalità non interattiva. Anche se i requisiti di sicurezza per i partner richiedano di abilitare il modello di applicazione sicura per l'API del Centro per i partner, è possibile sfruttarlo per soddisfare la necessità di un secondo fattore di autenticazione con l'automazione e l'integrazione. Tieni presente che la risorsa che viene aperta deve supportare l'autenticazione basata su token di accesso.
+L'applicazione dell'autenticazione a più fattori per tutti gli account utente influirà su ogni automazione o integrazione progettata per essere eseguita in modalità non interattiva. Anche se i requisiti di sicurezza per i partner richiedano di abilitare il modello di applicazione sicura per l'API del Centro per i partner, è possibile sfruttarlo per soddisfare la necessità di un secondo fattore di autenticazione con l'automazione e l'integrazione. Tieni presente che la risorsa che viene aperta deve supportare l'autenticazione basata su token di accesso.
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Sono in uso strumenti di automazione come PowerShell. Come viene implementato il modello di applicazione sicura?
 
-Se l'automazione è progettata per essere eseguita in modo non interattivo e si basa su credenziali utente per l'autenticazione, sarà necessario implementare il modello di applicazione sicura. Vedere [Modello di applicazione sicura | PowerShell per Centro per i partner](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) per informazioni su come implementare questo framework.  Non tutti gli strumenti di automazione offrono la possibilità di eseguire l'autenticazione usando token di accesso. Per informazioni sulle modifiche che devono essere apportate, inviare un messaggio al gruppo [Linee guida per la sicurezza del Centro per i partner](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance).
+Se la tua automazione è progettata per essere eseguita in modo non interattivo e si basa su credenziali utente per l'autenticazione, dovrai implementare il modello di applicazione sicura. Vedere [Modello di applicazione sicura | PowerShell per Centro per i partner](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) per informazioni su come implementare questo framework.  Non tutti gli strumenti di automazione offrono la possibilità di eseguire l'autenticazione usando token di accesso. Per assistenza nella comprensione delle modifiche da apportare, pubblica un messaggio nel gruppo [Partner Center Security Guidance](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance). 
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>Quali credenziali utente devono essere fornite dall'amministratore dell'applicazione durante l'esecuzione del processo di consenso?
 
-Si consiglia di usare un account di servizio a cui sono assegnate autorizzazioni con privilegi minimi. In merito all'API del Centro per i partner, questo significa che è necessario usare un account a cui è assegnato il ruolo agente di vendita o agenti amministrativi.
+Si consiglia di usare un account di servizio a cui sono assegnate autorizzazioni con privilegi minimi. Per quanto riguarda l'API del Centro per i partner, questo significa che devi usare un account a cui è assegnato il ruolo Agente di vendita o Agente amministratore.
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>Perché l'amministratore dell'applicazione non deve fornire credenziali di amministratore globale durante l'esecuzione del processo di consenso?
 
-Per ridurre i rischi, è consigliabile usare identità con privilegi minimi e non un account con privilegi di amministratore globale, perché in questo modo verrebbero fornite più autorizzazioni di quelle richieste
+Per ridurre i rischi, è consigliabile usare identità con privilegi minimi e non un account con privilegi di amministratore globale, perché in questo modo verrebbero fornite autorizzazioni superiori al necessario.
 
 ### <a name="i-am-a-csp-partner-how-do-i-know-if-my-control-panel-vendor-cpv-is-working-on-implementing-the-solution-or-not"></a>Com'è possibile per i partner CSP sapere se i rispettivi fornitori di pannelli di controllo (CPV) stanno lavorando all'implementare della soluzione?
 
 I partner che usano una soluzione sviluppata da un fornitore di pannelli di controllo (CPV) per eseguire transazioni nel programma Cloud Solution Provider (CSP) sono tenuti a rivolgersi direttamente al fornitore.
 
+### <a name="who-is-a-control-panel-vendor-cpv"></a>Chi sono i fornitori di pannelli di controllo (CPV)?
+
+Un fornitore di pannelli di controllo è un fornitore di software indipendente che sviluppa app a disposizione dei partner CSP che eseguono l'integrazione con un'API del Centro per i partner. Un fornitore di pannelli di controllo non è un partner CSP con accesso diretto al dashboard o alle API del Centro per i partner. Una descrizione dettagliata è disponibile nell'articolo [Centro per i partner: Guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
+
 ### <a name="i-am-a-cpv-how-do-i-enroll"></a>Come può essere eseguita la registrazione dai fornitori di pannelli di controllo (CPV)?
 
 Per registrarsi come fornitore di pannelli di controllo, attenersi alle linee guida riportate [qui](https://docs.microsoft.com/partner-center/enroll-as-cpv).
 
-Per ricevere il collegamento di registrazione, i fornitori di pannelli di controllo devono contattare [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) e specificare un dipendente Microsoft sponsor che abbia una relazione commerciale con il fornitore di pannelli di controllo o ne conosca il tipo di attività, ad esempio un Partner Development Manager (PDM).
+I fornitori di pannelli di controllo devono contattare [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) per ricevere il collegamento di iscrizione e specificare un dipendente Microsoft sponsor che abbia una relazione commerciale con il fornitore di pannelli di controllo e ne conosca il tipo di attività, ad esempio un Partner Development Manager (PDM).
 
-Dopo aver eseguito la registrazione al Centro per i partner e aver registrato le applicazioni, sarà possibile accedere alle API del Centro per i partner. I nuovi fornitori di pannelli di controllo riceveranno invece informazioni sulla sandobox tramite una notifica del Centro per i partner. Dopo aver completato la registrazione come fornitore di pannelli di controllo Microsoft e aver accettato il contratto per CPV, è possibile:
+Dopo l'iscrizione al Centro per i partner e la registrazione delle applicazioni, potrai accedere alle API del Centro per i partner. Se sei un nuovo fornitore di pannelli di controllo, riceverai le informazioni sulla sandbox tramite una notifica del Centro per i partner. Dopo aver completato la registrazione come fornitore di pannelli di controllo Microsoft e aver accettato il contratto per CPV, è possibile:
 
 1. Gestire un'applicazione multi-tenant (aggiungere applicazioni al portale di Azure, registrare e annullare la registrazione di applicazioni nel Centro per i partner). Nota: per ottenere l'autorizzazione per le API del Centro per i partner, i fornitori di pannelli di controllo devono registrare le proprie applicazioni nel Centro per i partner. La semplice aggiunta di applicazioni al portale di Azure non fornisce alle applicazioni dei fornitori di pannelli di controllo l'autorizzazione ad accedere alle API del Centro per i partner.
 2. Visualizzare e gestire il profilo dei fornitori di pannelli di controllo.
@@ -244,9 +243,9 @@ Dopo aver eseguito la registrazione al Centro per i partner e aver registrato le
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>Per i partner che usano il Partner Center SDK, l'SDK adotterà automaticamente il modello di applicazione sicura?
 
-No, è necessario seguire le indicazioni fornite nella [guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
+No, dovrai seguire le indicazioni fornite nella [guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
 
-### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-do-not-have-mfa-enabled"></a>È possibile generare un token di aggiornamento per il modello di applicazione sicura con account in cui non è abilitata l'autenticazione MFA?
+### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-dont-have-mfa-enabled"></a>Posso generare un token di aggiornamento per il modello di applicazione sicura con account per i quali non è abilitata l'autenticazione MFA?
 
 Sì, è possibile generare un token di aggiornamento anche con un account per il quale non è abilitata l'autenticazione MFA. Questa operazione, tuttavia, non dovrebbe essere eseguita perché tutti i token generati con un account che non usa l'autenticazione MFA non potranno accedere alle risorse a causa dei requisiti previsti per l'autenticazione MFA.
 
@@ -260,23 +259,49 @@ I fornitori di pannelli di controllo dovranno creare l'applicazione Azure Active
 
 ### <a name="i-am-a-csp-that-is-using-app-only-authentication-do-i-need-to-make-any-changes"></a>I partner CSP che usano l'autenticazione solo tramite app devono apportare modifiche?
 
-L'autenticazione solo tramite app non è interessata perché le credenziali utente non vengono usate per richiedere un token di accesso. Se le credenziali utente vengono condivise, i fornitori di pannelli di controllo devono adottare il [framework del modello applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) ed eliminare eventuali credenziali di partner esistenti.
+L'autenticazione solo tramite app non subisce modifiche perché le credenziali utente non vengono usate per richiedere un token di accesso. Se le credenziali utente vengono condivise, i fornitori di pannelli di controllo devono adottare il [framework del modello applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) ed eliminare eventuali credenziali di partner esistenti.
 
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>I fornitori di pannelli di controllo possono sfruttare il metodo di autenticazione solo tramite app per ottenere i token di accesso?
 
 No, i partner fornitori di pannelli di controllo non possono usare il metodo di autenticazione solo tramite app per richiedere token di accesso per conto del partner. Devono invece implementare il modello di applicazione sicura, che usa il metodo di autenticazione app + utente.
 
-## <a name="enforcement"></a>Imposizione
+## <a name="technical-enforcement"></a>Applicazione tecnica
+
+### <a name="what-is-the-activation-of-security-safeguards"></a>Che cos'è l'attivazione di misure di sicurezza?
+
+Per essere conformi, tutti i partner che partecipano al programma Cloud Solution Provider (CSP), i fornitori di pannelli di controllo (CPV) e gli Advisor devono implementare i requisiti di sicurezza obbligatori.
+
+Per fornire protezione aggiuntiva, Microsoft ha avviato l'attivazione di misure di sicurezza che consentono ai partner di proteggere i loro tenant e clienti imponendo la verifica dell'autenticazione a più fattori (MFA) per evitare accessi non autorizzati.  
+
+Abbiamo completato l'attivazione delle funzionalità di amministrazione per conto terzi (AOBO, Admin On Behalf Of) per tutti i tenant del partner. Per proteggere ulteriormente partner e clienti, puntando al secondo trimestre dell'anno 2020 avvieremo l'attivazione delle transazioni del Centro per i partner in CSP, aiutando i partner a proteggere le loro attività e i clienti da eventi imprevisti correlati al furto di identità.
+
+Per altre informazioni, visita la pagina [Imposizione dell'autenticazione a più fattori per il tenant del partner](partner-security-requirements-mandating-mfa.md).
 
 ### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>Uso una soluzione MFA di terze parti e vengo bloccato. Cosa devo fare?
 
-Per verificare che l'account che accede alle risorse venga testato per l'autenticazione a più fattori, viene controllata l'attestazione [Authentication Method Reference](https://tools.ietf.org/html/rfc8176) per verificare che sia elencata l'autenticazione MFA. Alcune soluzioni di terze parti non rilasciano questa attestazione o non includono il valore MFA. Se l'attestazione non è presente o il valore MFA non è elencato, non esiste alcun modo per determinare se l'account autenticato è stato testato per l'autenticazione a più fattori. Dovrai collaborare con il fornitore della soluzione di terze parti per determinare quali azioni eseguire affinché la soluzione rilasci l'attestazione Authentication Method Reference.
+Per verificare che l'account per l'accesso alle risorse sia stato testato per l'autenticazione a più fattori, controlleremo l'attestazione [AMR (Authentication Method Reference)](https://tools.ietf.org/html/rfc8176) per vedere che nell'elenco sia presente l'autenticazione MFA. Alcune soluzioni di terze parti non rilasciano questa attestazione o non includono il valore MFA. Se l'attestazione non è presente o il valore MFA non è elencato, non esiste alcun modo per determinare se l'account autenticato è stato testato per l'autenticazione a più fattori. Dovrai collaborare con il fornitore della soluzione di terze parti per determinare quali azioni eseguire affinché la soluzione rilasci l'attestazione Authentication Method Reference.
 
-Se non sei certo che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza per i partner](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0).
+Se non sei certo che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza dei partner](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0).
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA mi impedisce di supportare i miei clienti usando Amministra per conto terzi. Come posso procedere?
 
-L'applicazione tecnica dei requisiti di sicurezza per i partner verificherà se l'account autenticato è stato testato per l'autenticazione a più fattori. Se l'account non è stato sottoposto a questa verifica, verrai reindirizzato alla pagina di accesso e ti verrà chiesto di eseguire di nuovo l'autenticazione. Se il tuo dominio non è federato, dopo l'autenticazione ti verrà chiesto di configurare l'autenticazione a più fattori. Al termine, potrai gestire i clienti usando Amministra per conto terzi. Se invece il tuo dominio è federato, dovrai assicurarti che l'account venga testato per l'autenticazione a più fattori.
+L'applicazione tecnica dei requisiti di sicurezza per i partner verificherà se l'account autenticato è stato testato per l'autenticazione a più fattori. Se l'account non è stato sottoposto a questa verifica, verrai reindirizzato alla pagina di accesso e ti verrà chiesto di eseguire di nuovo l'autenticazione. Per consultare esperienze e indicazioni più dettagliate, vedi il documento [Imposizione dell'autenticazione a più fattori per il tenant del partner](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). Nello scenario in cui il tuo dominio non è federato, dopo l'autenticazione ti verrà chiesto di configurare l'autenticazione a più fattori. Al termine, potrai gestire i clienti usando la funzionalità di amministrazione per conto terzi (AOBO). Nello scenario in cui invece il tuo dominio è federato, dovrai assicurarti che l'account venga testato per l'autenticazione a più fattori.
+
+## <a name="security-defaults-transition"></a>Transizione alle impostazioni predefinite per la sicurezza
+
+### <a name="how-can-i-transition-from-baseline-policies-to-security-defaults-or-other-mfa-solutions"></a>In che modo posso passare dai criteri di base alle impostazioni predefinite per la sicurezza o ad altre soluzioni MFA?
+
+I [criteri di base di Azure Active Directory (Azure AD) vengono rimossi e sostituiti](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) con le impostazioni predefinite per la sicurezza, un set completo di criteri di protezione per te e i tuoi clienti. Le [impostazioni predefinite per la sicurezza](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) aiutano a proteggere la tua organizzazione da attacchi alla sicurezza correlati al furto di identità.
+
+Se non sei passato dai criteri di base al criterio delle impostazioni predefinite per la sicurezza o ad altre [opzioni di implementazione MFA](partner-security-requirements.md#actions-that-you-need-to-take), la tua implementazione dell'autenticazione a più fattori verrà rimossa a causa del ritiro dei criteri di base. A tutti gli utenti dei tuoi tenant del partner che eseguono operazioni protette dall'autenticazione a più fattori verrà richiesto di effettuare la verifica dell'autenticazione a più fattori. Per indicazioni più dettagliate, consulta [qui](partner-security-requirements-mandating-mfa.md).
+Per essere conforme e ridurre le interruzioni, esegui una delle azioni seguenti:
+
+- Transizione alle impostazioni predefinite per la sicurezza
+    - Il criterio delle impostazioni predefinite per la sicurezza è una delle opzioni che possono essere scelte dai partner per implementare l'autenticazione a più fattori. Viene offerto un livello di sicurezza di case, abilitato senza costi aggiuntivi.
+    - Scopri come abilitare l'autenticazione a più fattori per la tua organizzazione usando Azure AD ed esamina le [considerazioni principali sulle impostazioni predefinite per la sicurezza](partner-security-requirements.md#security-defaults).
+    - Abilita il criterio delle impostazioni predefinite per la sicurezza se risponde alle tue esigenze aziendali.
+- Transizione all'accesso condizionale
+    - Se il criterio delle impostazioni predefinite per la sicurezza non risponde alle tue esigenze, abilita l'accesso condizionale. Per altre informazioni, consulta la documentazione relativa all'accesso condizionale di Azure AD.
 
 ## <a name="key-resources"></a>Risorse principali
 
@@ -284,7 +309,7 @@ L'applicazione tecnica dei requisiti di sicurezza per i partner verificherà se 
 
 - [Requisiti di sicurezza per i partner: guida dettagliata](https://docs.microsoft.com/partner-center/partner-security-requirements).
 - Indirizzare eventuali domande e commenti a questo [gruppo di linee guida per la sicurezza del Centro per i partner](https://aka.ms/MPCSecurityGuidance).
-- Partecipare ai prossimi webinar per i partner. Consultare le [risorse e la pianificazione dettagliata qui](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance).
+- Partecipare ai prossimi webinar per i partner. Controlla [qui il programma dettagliato e le risorse](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance).
 
 ### <a name="resources-for-adopting-secure-application-model"></a>Risorse per l'adozione di un modello di applicazione sicura
 

@@ -1,0 +1,37 @@
+### YamlMime:Hub
+title: Documentazione sui servizi di Partner Center
+summary: Partner Center ti consente di pubblicare app e giochi, recuperare dati, ottenere la certificazione hardware, pubblicare driver in Windows Update o eseguire transazioni come rivenditore.
+brand: windows
+metadata:
+  title: Documentazione sui servizi di Partner Center
+  description: Partner Center ti consente di pubblicare app e giochi, recuperare dati, ottenere la certificazione hardware, pubblicare driver in Windows Update o eseguire transazioni come rivenditore.
+  services: partner-dashboard
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  ms.topic: hub-page
+  author: LauraBrenner
+  ms.author: labrenne
+  ms.date: 03/15/2019
+  ms.openlocfilehash: 407ccc415543a1bd46aa375edb634ad7b3841295
+  ms.sourcegitcommit: e2713ab40da4221334821f5bf9daf27bc548a6ec
+  ms.translationtype: HT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 04/08/2020
+  ms.locfileid: "80930062"
+highlightedContent:
+  items:
+  - title: Pubblicare giochi e app di Windows
+    itemType: how-to-guide
+    url: https://docs.microsoft.com/windows/uwp/publish/
+  - title: Ottenere report di analisi e dati di telemetria dettagliati
+    itemType: how-to-guide
+    url: https://msdn.microsoft.com/library/windows/desktop/mt826504(v=vs.85).aspx
+  - title: Partner Center per hardware Windows
+    itemType: overview
+    url: https://docs.microsoft.com/windows-hardware/drivers/dashboard/
+  - title: Partner CSP e MPN
+    itemType: overview
+    url: /partner-center/
+  - title: API e SDK per sviluppatori
+    itemType: overview
+    url: /partner-center/develop/

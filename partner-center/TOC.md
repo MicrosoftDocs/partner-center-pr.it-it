@@ -89,12 +89,9 @@
 ## [Richieste di incentivi](claims-overview.md)
 ### [Creare e gestire richieste di incentivi](create-incentives-claims.md)
 ### [Requisiti di base per le richieste di incentivi](core-requirements.md)
-
-
-### [Comprendere le informazioni sui pagamenti](incentives-unified-user-guide.md)
-
 ### [Accedere alla pagina sui pagamenti degli incentivi](incentives-unified-user-guide.md)
-
+### [Visualizzare i pagamenti e i programmi degli incentivi](understand-incentive-payouts.md)
+### [Creare un'associazione cliente usando il modello CPOR](submit-osa-claim.md)
 
 # [Fatturazione e imposte](billing.md)
 ## [Nozioni di base sulla fatturazione](billing-basics.md)

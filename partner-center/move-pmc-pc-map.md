@@ -1,7 +1,7 @@
 ---
 title: Passaggio dal Partner Membership Center al Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 06/14/2019
+ms.date: 04/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Descrive le differenze e le analogie tra Partner Membership Center e il Centro per i partner in relazione a rinnovi, struttura degli account, accesso, ruoli utente, competenze e altro ancora.
@@ -9,17 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: high
-ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340179"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123317"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Passaggio dal Partner Membership Center al Centro per i partner
 
 **Ruoli appropriati**
--   Amministratore globale
+-    Amministratore globale
 
 Stiamo semplificando il modo di collaborare con Microsoft, introducendo un unico sito Web (Centro per i partner) che fungerà da punto di interazione centrale. Nel dashboard del Centro per i partner potrai svolgere tutte le attività in precedenza disponibili nel Partner Membership Center (PMC) 
 
@@ -37,13 +37,13 @@ Questa tabella illustra alcune delle differenze tra Partner Membership Center e 
 
 |**PMC**   |**Centro per i partner**|
 |----------------------|:-----------------------------|
-|Sedi centrali e posizioni, valutate separatamente. Valutazione delle competenze eseguita a livello locale|Una società globale, l'account globale del partner (PGA), incluse le ubicazioni, valutato nel suo complesso; dati sulle prestazioni e sulle competenze aggregati a livello di PGA; include diverse visualizzazioni profilo per i programmi quali Profilo partner e Profilo aziendale per le segnalazioni e il marketing. Per altre informazioni, vedi [Struttura degli account nel Centro per i partner](https://docs.microsoft.com/partner-center/account-structure.md)|
+|Sedi centrali e posizioni, valutate separatamente. Valutazione delle competenze eseguita a livello locale|Una società globale, l'account globale del partner (PGA), incluse le ubicazioni, valutato nel suo complesso; dati sulle prestazioni e sulle competenze aggregati a livello di PGA; include diverse visualizzazioni profilo per i programmi quali Profilo partner e Profilo aziendale per le segnalazioni e il marketing. Per altre informazioni, vedi [Struttura degli account nel Centro per i partner](account-structure.md)|
 
 ## <a name="sign-in"></a>Accedere
 
 |**PMC**   |**Centro per i partner**|
 |----------------------|:-----------------------------|
-|Possibilità di usare le credenziali dell'account Microsoft (MSA) o personale joe@outlook.com|È necessario usare le credenziali dell'account aziendale, (joe@joescompany.com). Per altre informazioni, vedi [Account aziendale e Centro per i partner](https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center.md).|
+|Possibilità di usare le credenziali dell'account Microsoft (MSA) o personale joe@outlook.com|È necessario usare le credenziali dell'account aziendale, (joe@joescompany.com). Per altre informazioni, vedi [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md).|
 
 ## <a name="user-roles"></a>Ruoli utente
 
@@ -51,7 +51,7 @@ Questa tabella illustra alcune delle differenze tra Partner Membership Center e 
 |----------------------|:-----------------------------|
 |Molti ruoli in PMC non sono usati nel Centro per i partner|All'amministratore che esegue il passaggio al Centro per i partner vengono assegnati automaticamente i ruoli di amministratore MPN, amministratore account e amministratore delle segnalazioni. Può quindi assegnare altri utenti ai ruoli utente.|
 |Utenti gestiti a livello di ubicazione|Gli utenti sono gestiti a livello di società (PGA) anziché a livello di ubicazione. L'eccezione è l'amministratore degli incentivi, che opera a livello di ubicazione.|
-|   |Il Centro per i partner ha due ampi set di ruoli, ovvero i ruoli che amministrano il tenant di Azure AD e i ruoli che amministrano le attività aziendali. Organizza i ruoli nel modo più appropriato per l'azienda. Una sola persona può occuparsi di tutto oppure è possibile assegnare autorizzazioni e ruoli separati a più utenti. Per altre informazioni, vedi [Assegnare autorizzazioni e ruoli utente](https://docs.microsoft.com/partner-center/permissions-overview). 
+|   |Il Centro per i partner ha due ampi set di ruoli, ovvero i ruoli che amministrano il tenant di Azure AD e i ruoli che amministrano le attività aziendali. Organizza i ruoli nel modo più appropriato per l'azienda. Una sola persona può occuparsi di tutto oppure è possibile assegnare autorizzazioni e ruoli separati a più utenti. Per altre informazioni, vedi [Assegnare autorizzazioni e ruoli utente](permissions-overview.md). 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>Calcolo di competenze e benefit
 

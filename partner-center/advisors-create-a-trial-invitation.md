@@ -36,7 +36,7 @@ Se si è autorizzati a offrire l'amministrazione delegata, è possibile aggiunge
         Per aggiungere sedi degli uffici partner, vedere [aggiungere un percorso](manage-locations.md). Le nuove posizioni dell'ufficio possono richiedere fino a 24 ore dopo che sono state create per essere visualizzate nell'elenco degli uffici partner.
 
     - **Località di utilizzo**: scegliere il percorso in cui il client utilizzerà i servizi.
-    - **Sottoscrizioni di valutazione**: l'elenco delle sottoscrizioni di valutazione che è possibile scegliere è determinato dalla località di utilizzo del paese o della regione del client.
+    - **Sottoscrizioni di valutazione**: l'elenco delle sottoscrizioni di valutazione che è possibile scegliere è determinato dalla località di utilizzo del paese o dell'area geografica del client.
     - **Amministrazione delegata**: questa opzione è disponibile solo per i partner certificati per offrire l'amministrazione delegata. Scegliere questa opzione se si desidera offrire l'amministrazione delegata del client. In tal caso, il client può accettare l'invito alla versione di valutazione con o senza l'accettazione dell'amministrazione delegata. Per ulteriori informazioni sull'amministrazione delegata, vedere l' [offerta amministrazione delegata](customers_revoke_admin_privileges.md).
 
 3. Fare clic su **Avanti**.

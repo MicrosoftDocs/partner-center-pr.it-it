@@ -38,7 +38,7 @@ Se il client richiede un numero diverso di licenze, inviargli una nuova offerta 
         Per aggiungere sedi degli uffici partner, vedere [aggiungere un percorso](manage-locations.md). Le nuove posizioni dell'ufficio possono richiedere fino a 24 ore dopo che sono state create per essere visualizzate nell'elenco degli **uffici partner** .
 
     - **Località di utilizzo**: selezionare la località in cui il client utilizzerà i servizi.
-    - **Sottoscrizioni**: l'elenco delle sottoscrizioni che è possibile scegliere è determinato dalla località di utilizzo del paese o della regione del client. Selezionare la casella di sottoscrizione o sottoscrizioni che si offrirà al client.
+    - **Sottoscrizioni**: l'elenco delle sottoscrizioni che è possibile scegliere è determinato dalla località di utilizzo del paese o dell'area geografica del client. Selezionare la casella di sottoscrizione o sottoscrizioni che si offrirà al client.
     - **Conteggio licenze**: quando si seleziona una sottoscrizione, digitare il numero di licenze che si desidera includere nell'offerta di acquisto.
     - **Amministrazione delegata**: questa opzione è disponibile solo per i partner certificati per offrire l'amministrazione delegata. Scegliere questa opzione se si desidera offrire l'amministrazione delegata del client. In tal caso, il client può accettare l'offerta di acquisto con o senza l'accettazione dell'amministrazione delegata.
 

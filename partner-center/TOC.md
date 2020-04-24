@@ -80,10 +80,10 @@
 
 # [Espandere il business](grow-your-business.md)
 ## [Segnalazioni](referrals.md)
-### [Creare un profilo business](create-a-marketing-profile.md)
-### [Rispondere alle segnalazioni](responding-to-referrals.md)
+### [Gestire profilo di business](create-a-marketing-profile.md)
+### [Gestire lead](manage-leads.md)
+### [Gestire opportunità di co-selling](manage-co-sell-opportunities.md)
 ### [Registra le tue trattative](register-deals.md)
-### [Co-selling con Microsoft](co-sell-with-microsoft.md)
 ### [Ottenere informazioni dettagliate sulle segnalazioni](referral-insights.md)
 ### [Analizzare il profilo di business](analyze-your-marketing-profile.md)
 ## [Richieste di incentivi](claims-overview.md)

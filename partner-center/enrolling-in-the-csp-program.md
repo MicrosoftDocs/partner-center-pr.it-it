@@ -9,10 +9,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74721708"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
@@ -25,7 +25,7 @@ ms.locfileid: "74721708"
 
 - Amministratore globale
 
-## <a name="get-started"></a>Informazioni di base
+## <a name="get-started"></a>Operazioni preliminari
 
 La domanda in rapida crescita di soluzioni e servizi basati sul cloud offre ai partner Microsoft di tutte le dimensioni numerose opportunità per sviluppare attività redditizie basate sulle soluzioni cloud. I partner che sono pronti a entrare nel mercato, ma che non intendono gestire fornitori multipli o potrebbero non avere predisposto un'infrastruttura di gestione delle relazioni con i clienti (CRM, Customer Relationship Management) end-to-end, possono iscriversi al programma Cloud Solution Provider di Microsoft in qualità di rivenditori indiretti.
 

@@ -11,10 +11,10 @@ keywords: Cloud Solution Provider, CSP, servizi basati sul cloud, Azure, istanze
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: 7cce25d5f16f5bd0f55169cdc9d516a69717d31a
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80389990"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendere abbonamenti software tramite CSP

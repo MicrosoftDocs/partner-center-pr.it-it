@@ -10,10 +10,10 @@ ms.author: jasonh
 keywords: contratti del cliente Microsoft, modelli di contratto del cliente, contratti del cliente CSP, Contratto del cliente Microsoft, MCA, CSP, dove posso vendere con CSP?, paesi/aree geografiche CSP, MCA CSP in più lingue, CSP per America del Nord, CSP per America centrale, CSP per America del Sud, CSP per Caraibi, CSP per Microsoft Cloud for US Government, Microsoft Cloud CSP per Germania, CSP per Medio Oriente, CSP per Africa, CSP per Europa, CSP per Asia, CSP per Pacifico, MCA CSP
 ms.localizationpriority: high
 ms.openlocfilehash: 501d6d933ba253e42875056e0e245b0af65138b3
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80389630"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Contratti del cliente Microsoft per area geografica e lingua

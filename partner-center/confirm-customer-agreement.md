@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: cliente, clienti, consenso, MCA, Contratto Microsoft Cloud, contratto del cliente Microsoft, modelli di contratto del cliente
 ms.localizationpriority: high
 ms.openlocfilehash: 51bfe2c132b4c5ba5d9b285164ee99a29cfcc22f
-ms.sourcegitcommit: 43569a21c4f5cb5405f2acea6ace69640a2eee5e
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/07/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80805983"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente

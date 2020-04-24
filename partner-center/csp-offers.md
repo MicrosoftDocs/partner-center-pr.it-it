@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: Cloud Solution Provider, programma cloud solution provider, CSP, aggiungere un prodotto, vendere ai clienti, offerte partner, offerte CSP, servizi basati sul cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, istanze riservate Azure, istanze di macchina virtuale riservate di Azure, prenotazioni di Azure, servizi online, software in abbonamento, AHUB, SQL Server su Azure, Windows Server in Azure, abbonamenti dei clienti
 ms.localizationpriority: high
 ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722542"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Offerte dei partner nell'ambito del programma Cloud Solution Provider
@@ -112,6 +112,6 @@ Per informazioni sul funzionamento del processo di fatturazione, vedi [Nozioni d
 
 Per informazioni sull'acquisto con il piano di Azure, vedi [Acquistare il piano di Azure](purchase-azure-plan.md).
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
 [Panoramica del marketplace commerciale CSP](csp-commercial-marketplace-overview.md)

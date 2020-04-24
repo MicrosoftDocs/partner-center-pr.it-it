@@ -10,10 +10,10 @@ ms.author: labrenne
 ms.localizationpriority: high
 keywords: dominio, verifica del dominio, verifica dominio, amministratore globale, ruoli utente, autorizzazioni
 ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722425"
 ---
 # <a name="verify-your-domain-ownership"></a>Verificare la proprietà del dominio

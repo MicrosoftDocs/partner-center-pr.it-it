@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: privilegi di amministratore con delega, amministratore per conto terzi, rimuovere i privilegi
 ms.localizationpriority: high
 ms.openlocfilehash: 9b82ed4828a112f28f3e2ef1da1a64745c9ffdc0
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "78340059"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>I clienti delegano i privilegi di amministratore ai partner

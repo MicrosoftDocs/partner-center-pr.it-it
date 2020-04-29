@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
-ms.openlocfilehash: 5c68d86b770286ef916f68eefd93e5648d35999a
-ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
+ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "80529782"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "81462208"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Imposizione dell'autenticazione a più fattori per il tenant del partner
 
@@ -37,15 +37,15 @@ ms.locfileid: "80529782"
 Questa funzionalità consente ai partner di proteggere l'accesso alle risorse dei clienti da violazioni delle credenziali.
 I partner sono tenuti ad applicare l'autenticazione a più fattori (MFA) per tutti gli account utente presenti nel loro tenant del partner, inclusi gli utenti guest. Con questa funzionalità, ai ruoli di partner verrà imposto di eseguire la verifica dell'autenticazione a più fattori per le aree seguenti:
 
-- [Dashboard del Centro per i partner](#partner-center-dashboard) (previsto per il secondo trimestre dell'anno commerciale 2020)
-- [API del Centro per i partner](#partner-center-api) (previsto per il secondo trimestre dell'anno commerciale 2020)
+- [Dashboard del Centro per i partner](#partner-center-dashboard) (a partire dal 1° maggio 2020)
+- [API del Centro per i partner](#partner-center-api) (a partire dal 1° maggio 2020)
 - [Amministrazione con delega del partner](#partner-delegated-administration)
 
 Tra le nostre priorità principali vi è una maggiore e costante tutela della sicurezza e della privacy e continuiamo ad aiutare i partner a proteggere i loro clienti e tenant. Per essere conformi, tutti i partner che partecipano al programma Cloud Solution Provider (CSP), i fornitori di pannelli di controllo (CPV) e gli Advisor devono implementare i [requisiti di sicurezza dei partner](partner-security-requirements.md).
 
 Microsoft ha avviato l'attivazione di misure di sicurezza aggiuntive per i tenant del partner. L'attivazione delle misure di sicurezza consente ai partner di proteggere i loro tenant e clienti imponendo la verifica dell'autenticazione a più fattori (MFA) per evitare accessi non autorizzati.
 
-Abbiamo completato l'attivazione delle funzionalità di amministrazione con delega del partner per tutti i tenant del partner. Per proteggere ulteriormente partner e clienti, a partire dal secondo trimestre dell'anno 2020 avvieremo l'attivazione delle transazioni del Centro per i partner in CSP, aiutando i partner a proteggere le loro attività e i clienti da eventi imprevisti correlati al furto di identità.
+Abbiamo completato l'attivazione delle funzionalità di amministrazione con delega del partner per tutti i tenant del partner. Per proteggere ulteriormente partner e clienti, a partire dal 1° maggio 2020 avvieremo l'attivazione delle transazioni del Centro per i partner in CSP, aiutando i partner a proteggere le loro attività e i clienti da eventi imprevisti correlati al furto di identità.
 
 Questa documentazione fornisce ai partner esperienza dettagliata e indicazioni per l'attivazione delle misure di sicurezza.
 

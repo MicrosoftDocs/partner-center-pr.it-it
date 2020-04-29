@@ -11,10 +11,10 @@ ms.author: labrenne
 keywords: pinpoint, segnalazioni, lead di vendita, C2PC, profilo della società, commercializzare la tua azienda, trovare un partner, trovare un provider di soluzioni, profilo di business, profilo di marketing
 ms.localizationpriority: high
 ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722525"
 ---
 <!--
@@ -67,7 +67,7 @@ Crea profili per ogni area geografica in cui sei autorizzato a svolgere la tua a
    > [!NOTE]  
    >  Mentre il Centro per i partner supporta più lingue, per alcuni elementi, ad esempio la descrizione e i tag in formato libero, potrebbe essere necessario includere il testo in lingue diverse, come indicato in questo argomento.
 
-### <a href="" id="partner_info"></a>Informazioni partner
+### <a name="partner-information"></a><a href="" id="partner_info"></a>Informazioni partner
 
 Presenta la tua azienda, aggiungendo un logo, una breve descrizione e un collegamento al tuo sito Web. 
 
@@ -84,7 +84,7 @@ La descrizione può contenere fino a 2500 caratteri. Suggerimenti per una descri
 -  **Non fare riferimento a un'altra azienda partner di Microsoft usando il nome**, a meno che non sia una filiale o affiliata della tua azienda oppure che non esista un accordo in vigore con tale azienda partner per agire in collaborazione e/o promuovere le attività reciproche nell'ottica di sfruttare opportunità commerciali condivise.
 -  **Per le aree geografiche con più lingue**, prendi in considerazione l'eventualità di includere il testo in più lingue nella descrizione.
 
-#### <a href="" id="linkedin"></a> Pagina aziendale su LinkedIn: altri modi per connettersi
+#### <a name="linkedin-company-page-more-ways-to-connect"></a><a href="" id="linkedin"></a> Pagina aziendale su LinkedIn: altri modi per connettersi
 
 Aggiungi la pagina di LinkedIn della tua azienda per potenziare le connessioni con i clienti potenziali. 
 
@@ -107,7 +107,7 @@ Altri tag usati nella ricerca:
 -  I **tag di competenza** sono una designazione acquisita che mostra le capacità della tua azienda.
 -  I **tag di approvazione** vengono acquisiti quando Microsoft o i clienti che hanno lavorato con te approvano il tuo lavoro.
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Allow Microsoft to endorse my areas of expertise (Consenti a Microsoft di approvare le tue competenze)
+#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Allow Microsoft to endorse my areas of expertise (Consenti a Microsoft di approvare le tue competenze)
 
 Ti consigliamo di lasciare selezionata questa impostazione. 
 
@@ -117,13 +117,13 @@ Se però esistono prodotti per cui fornisci servizi che preferiresti non venisse
 
 ### <a name="customer-preferences"></a>Preferenze clienti
 
-#### <a href="" id="#target_size"></a>Dimensioni target
+#### <a name="target-size"></a><a href="" id="#target_size"></a>Dimensioni target
 
 Puoi rifiutare esplicitamente le segnalazioni da parte di aziende che non soddisfano le dimensioni target che vuoi abbiano i tuoi clienti.
 
 In tal caso, avrai a disposizione più tempo da dedicare alle aziende che rappresentano una corrispondenza per le aziende con cui preferisci lavorare.
 
-#### <a href="" id="#locations"></a>Posizioni
+#### <a name="locations"></a><a href="" id="#locations"></a>Posizioni
 
 Puoi aggiungere fino a cinque posizioni principali della tua organizzazione per ogni area geografica. Queste posizioni vengono visualizzate quando i clienti cercano partner che si trovano nelle vicinanze.
 

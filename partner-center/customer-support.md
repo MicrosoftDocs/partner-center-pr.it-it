@@ -1,7 +1,7 @@
 ---
 title: Fornire supporto ai clienti | Centro per i partner
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sulle responsabilità del supporto tecnico dei partner nel programma CSP.
@@ -9,44 +9,48 @@ ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: jasonwhowell
 ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: ca34072164fdbdc8e1d12e2631e6c558c69a14c2
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 3961620223791053f5da953a18941fc7fccd2bb4
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389640"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205699"
 ---
 # <a name="providing-support-to-your-customers"></a>Fornire supporto ai clienti
 
 **Si applica a**
 
--  Partner Center
+-  Centro per i partner
 -  Centro per i partner per Microsoft Cloud for US Government
 
 
-## <a name="microsoft-partner-support-guidance"></a>Linee guida di supporto per i partner Microsoft
+## <a name="microsoft-partner-support-guidance"></a>Guida al supporto per partner Microsoft
 
-I partner che trasagiscono nel modello CSP sono l'Advisor attendibile per i propri clienti ed è il proprietario della relazione end-to-end. Questa proprietà di relazione include il supporto dei clienti in caso di domande o problemi. Tramite i punti di tocco di supporto i partner possono ottenere ulteriori informazioni sul cliente e la sua attività, per identificare nuovi servizi e soluzioni in grado di fornire valore.
+I partner che trasagiscono nel modello CSP sono l'Advisor attendibile per i propri clienti e, se l'utente è un partner di fatturazione diretta, è il proprietario della relazione end-to-end. I rivenditori indiretti dovrebbero collaborare con i provider indiretti per supportare i clienti. Questa relazione include il supporto dei clienti in caso di domande o problemi. Fornendo supporto ai clienti, è possibile ottenere maggiori informazioni su di essi e sulle relative attività. Ciò consentirà di identificare nuovi servizi e soluzioni che determinano un valore.
 
-Per soddisfare i requisiti di supporto, il partner può rivendere il supporto da un'altra entità, esternalizzare tutta o parte della struttura di supporto e/o configurare una struttura per fornire supporto diretto.  Il partner può addebitare in toto o in parte il supporto fornito ai clienti. Il partner deve descrivere ai propri clienti il supporto fornito, gli orari di assistenza e il metodo di contatto, nonché i prezzi (se il supporto viene fornito a pagamento). 
+Per soddisfare i requisiti di supporto, è possibile rivendere il supporto da un'altra società, esternalizzare tutta o parte della struttura di supporto e/o configurare una struttura per fornire supporto diretto. Il licenziatario potrà addebitare tutto o parte del supporto fornito ai clienti. Assicurarsi di spiegare ai clienti i tipi di supporto che verranno forniti, le ore di servizio, il metodo di contatto e i prezzi, se addebitato per il supporto tecnico.
 
-I clienti CSP non possono creare ticket di supporto e contattare i partner. I partner CSP sono tenuti a ricevere le richieste di supporto in ingresso dai clienti, diagnosticare i problemi al meglio della capacità del partner e quindi risolvere i problemi che rientrano nell'ambito dei limiti del supporto di base. Se il partner non è in grado di risolvere il problema, può inoltrarlo a Microsoft tramite i mezzi di supporto seguenti:
+I clienti CSP non possono creare ticket di supporto. È necessario contattare il supporto tecnico. I partner CSP sono tenuti a ricevere le richieste di supporto in ingresso da parte dei clienti, diagnosticare i problemi al meglio della propria capacità e quindi risolvere i problemi che rientrano nell'ambito dei limiti di supporto della linea di base. Se non si riesce a risolvere un problema, è possibile inoltrare i problemi a Microsoft tramite i veicoli di supporto seguenti:
 
-- Il supporto dei problemi **commerciali** è a disposizione di tutti i partner iscritti al programma CSP
--   Il supporto dei problemi **tecnici** è disponibile tramite:
-    -   Supporto tecnico Premier per i partner (tariffa base)
-    -   Supporto avanzato per i partner (tariffa base)
-    -   Signature Cloud Support (incluso con la competenza Gold/Silver)
+- Il supporto per i problemi **commerciali** è disponibile per tutti i partner del programma CSP
 
-## <a name="providing-billing-subscription-management-and-technical-support"></a>Offerta di fatturazione, gestione delle sottoscrizioni e supporto tecnico 
+- Il supporto **tecnico** per problemi è disponibile tramite:
+
+    - Supporto tecnico Premier per i partner (tariffa di base)
+
+    - Supporto avanzato per i partner (tariffa di base)
+
+    - Supporto cloud di firma (incluso con competenze Gold/Silver)
+
+## <a name="providing-billing-subscription-management-and-technical-support"></a>Disponibilità di fatturazione, gestione delle sottoscrizioni e supporto tecnico 
 
 Ogni servizio online presenta requisiti specifici e dettagliati per fornire fatturazione, gestione delle sottoscrizioni e supporto tecnico ai clienti. Per ulteriori informazioni, vedere i documenti seguenti.
 
--   [Sottoscrizioni di Dynamics 365 vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+- [Sottoscrizioni di Dynamics 365 vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Sottoscrizioni di Azure vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+- [Sottoscrizioni di Azure vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Abbonamenti Office 365 venduti tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Microsoft Office 365 sottoscrizioni vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
 

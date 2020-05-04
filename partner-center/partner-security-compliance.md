@@ -9,12 +9,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
 ms.topic: conceptual
-ms.openlocfilehash: 2fc0926f2277cea8eebd7157af44338aabfaa94c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: c398c8f2490d3f0785fa7b836a8b0e077ca46bce
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80136313"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120392"
 ---
 # <a name="partner-security-requirements-status"></a>Stato dei requisiti di sicurezza per i partner
 
@@ -34,7 +34,7 @@ Le misure di sicurezza e la protezione della privacy sono alcune tra le nostre p
 
 Dal 1° agosto 2019 tutti i partner sono tenuti a implementare l'autenticazione a più fattori per tutti gli utenti, inclusi gli account di servizio, nel tenant partner. Per informazioni più dettagliate sui nuovi criteri di sicurezza, vedi [Requisiti di sicurezza per i partner](partner-security-requirements.md).
 
-L'obiettivo è che ogni utente sia sottoposto a un test MFA per ogni singola autenticazione. Questo risultato può essere ottenuto in uno dei modi seguenti:
+L'obiettivo è che ogni utente sia sottoposto a un test MFA per ogni singola autenticazione. Questo esperienza può essere eseguita in uno dei modi seguenti:
 
 - Implementazione di Azure AD Premium per fare in modo che l'autenticazione MFA venga applicata per ogni utente
 - Implementazione delle [impostazioni predefinite per la sicurezza Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
@@ -67,11 +67,13 @@ Ogni volta che i tuoi dipendenti accedono al Centro per i partner per lavorare o
 Questa metrica è correlata alle attività nel dashboard del Centro per i partner. Misura la percentuale di operazioni eseguite dagli utenti che hanno completato la verifica MFA. Ad esempio:
 
 - Contoso è un partner CSP con due agenti di amministrazione, Jane e John.
-- Il primo giorno Jane ha eseguito l'accesso al dashboard del Centro per i partner senza verifica MFA e ha effettuato tre operazioni.
-- Il secondo giorno John ha eseguito l'accesso al dashboard del Centro per i partner senza verifica MFA e ha effettuato cinque operazioni.
-- Il terzo giorno Jane ha eseguito l'accesso al dashboard del Centro per i partner con verifica MFA e ha effettuato due operazioni.
+- Il primo giorno Jane ha eseguito l'accesso al dashboard Partner Center senza verifica MFA e ha effettuato tre operazioni.
+- Il secondo giorno John ha eseguito l'accesso al dashboard Partner Center senza verifica MFA e ha effettuato cinque operazioni.
+- Il terzo giorno Jane ha eseguito l'accesso al dashboard Partner Center con verifica MFA e ha effettuato due operazioni.
 - Nei restanti quattro giorni non è stata effettuata alcuna operazione dagli agenti.
-- Delle dieci operazioni effettuate nella finestra di sette giorni, sue sono state effettuate dall'utente con verifica MFA. Di conseguenza, la metrica indica il 20%.
+- Delle dieci operazioni effettuate nella finestra di sette giorni, due sono state effettuate dall'utente con verifica MFA. Di conseguenza, la metrica indica il 20%.
+
+Usa il file **Richieste portale senza MFA** per sapere quale utente ha eseguito l'accesso al dashboard Partner Center senza avere la verifica MFA e l'ora dell'ultima visita durante la finestra di reporting.
 
 #### <a name="appuser-authentication"></a>Autenticazione app+utente
 
@@ -80,9 +82,14 @@ Questa metrica è correlata all'uso di richieste API del Centro per i partner ef
 - Fabrikam è un partner CSP che dispone di un'applicazione CSP che usa una combinazione di autenticazione app+utente e di metodi di autenticazione basati solo su app.
 - Il primo giorno l'applicazione ha effettuato tre richieste API supportate da un token di accesso ottenuto tramite il metodo di autenticazione app+utente senza verifica dell'autenticazione a più fattori.
 - Il secondo giorno l'applicazione ha effettuato cinque richieste API supportate da un token di accesso ottenuto usando l'autenticazione basata solo su app.
-- Il terzo giorno l'applicazione ha effettuato due richieste API supportate da un token di accesso ottenuto tramite il metodo di autenticazione app+utente con verifica dell'autenticazione a più fattori.
+- Il terzo giorno l'applicazione ha effettuato due richieste API supportate da un token di accesso ottenuto tramite il metodo di autenticazione app+utente con verifica MFA.
 - Nei restanti quattro giorni non è stata effettuata alcuna operazione dagli agenti.
-- Le cinque richieste API nel secondo giorno supportate da un token di accesso ottenuto tramite l'autenticazione basata solo su app vengono omesse dalla metrica perché non usano le credenziali utente. Delle cinque operazioni rimanenti, due sono state supportate da un token di accesso ottenuto con la verifica dell'autenticazione a più fattori. Di conseguenza, la metrica indica il 40%.
+- Le cinque richieste API nel secondo giorno, supportate da un token di accesso ottenuto tramite l'autenticazione basata solo su app, vengono omesse dalla metrica perché non usano le credenziali utente. Delle cinque operazioni rimanenti, due sono state supportate da un token di accesso ottenuto con la verifica dell'autenticazione a più fattori. Di conseguenza, la metrica indica il 40%.
+
+Se vuoi sapere quali sono le attività app+utente che determinano il non 100% di questa metrica, usa i file seguenti:
+
+- **Riepilogo richieste API** per conoscere lo stato generale dell'autenticazione MFA per singola applicazione.
+- **Tutte le richieste API** per conoscere i dettagli di ogni richiesta API eseguita dagli utenti del tenant. Il risultato è limitato a un numero massimo pari a 10.000 richieste più recenti per una migliore esperienza di download.
 
 ## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>Come procedere se le metriche nel report MFA non sono pari al 100%
 
@@ -97,7 +104,7 @@ In caso negativo, devi prima effettuare questa operazione. Per informazioni dett
 
 ### <a name="have-you-only-recently-completed-mfa-implementation"></a>Hai completato l'implementazione dell'autenticazione MFA solo di recente?
 
-Le metriche vengono calcolate su base giornaliera e prendono in considerazione le operazioni eseguite sull'account negli ultimi sette giorni. Se hai completato l'implementazione dell'autenticazione per il tenant partner solo di recente, è possibile che le metriche non siano pari al 100%.
+Le metriche vengono calcolate su base giornaliera e prendono in considerazione le operazioni eseguite negli ultimi sette giorni. Se hai completato l'implementazione dell'autenticazione per il tenant partner solo di recente, è possibile che le metriche non siano pari al 100%.
 
 ### <a name="have-some-user-accounts-been-excluded-from-mfa-implementation"></a>Alcuni account utente sono stati esclusi dall'implementazione dell'autenticazione MFA?
 
@@ -105,16 +112,16 @@ Verifica se l'implementazione dell'autenticazione MFA corrente copre tutti gli a
 
 ### <a name="is-mfa-only-required-when-certain-conditions-are-met"></a>L'autenticazione MFA è necessaria solo se vengono soddisfatte determinate condizioni?
 
-Verifica se l'implementazione corrente applica l'autenticazione a più fattori solo in condizioni specifiche. Alcune soluzioni MFA presentano caratteristiche di flessibilità e consentono di applicare l'autenticazione MFA solo quando vengono soddisfatte determinate condizioni, ad esempio un utente che accede da un dispositivo o da una posizione sconosciuta. Un utente che è abilitato per l'autenticazione MFA, ma non è tenuto a completare la verifica MFA quando accede al Centro per i partner, può causare il mancato raggiungimento del 100% nelle metriche.
+Verifica se l'implementazione corrente applica l'autenticazione MFA solo in condizioni specifiche. Alcune soluzioni MFA presentano caratteristiche di flessibilità e consentono di applicare l'autenticazione MFA solo quando vengono soddisfatte determinate condizioni, ad esempio un utente che accede da un dispositivo o da una posizione sconosciuta. Un utente che è abilitato per l'autenticazione MFA, ma non è tenuto a completare la verifica MFA quando accede al Centro per i partner, può causare il mancato raggiungimento del 100% nelle metriche.
 
 >[!NOTE]
 >Per i partner che hanno implementato l'autenticazione MFA usando le impostazioni predefinite per la sicurezza Azure AD, è importante tenere presente che per gli account utente non di tipo amministratore verrà imposta l'autenticazione a più fattori in base al rischio. Agli utenti verrà chiesto di eseguire l'autenticazione a più fattori solo durante tentativi di accesso a rischio (ad esempio per l'accesso da una località diversa). Inoltre, gli utenti dispongono di un periodo massimo di 14 giorni per la registrazione per l'autenticazione MFA. Agli utenti che non hanno completato la registrazione MFA non verrà richiesta la verifica MFA durante il periodo di 14 giorni. È previsto pertanto che le metriche non siano pari al 100% per i partner che hanno implementato l'autenticazione MFA usando le impostazioni predefinite per la sicurezza Azure AD.
 
-### <a name="are-you-using-3rd-party-mfa-solution"></a>Usi una soluzione MFA di terze parti?
+### <a name="are-you-using-third-party-mfa-solution"></a>Usi una soluzione MFA di terze parti?
 
-Se usi una soluzione MFA di terze parti, verifica come integrarla con Azure AD. In generale, sono disponibili due metodi, tra cui la federazione e i controlli personalizzati:
+Se usi una soluzione MFA di terze parti, verifica come è integrata con Azure AD. In generale, sono disponibili due metodi, tra cui la federazione e i controlli personalizzati:
 
-* **Federazione delle identità**: quando riceve una richiesta di autenticazione, Azure AD reindirizza l'utente al provider di identità federato per l'autenticazione. Al completamento dell'autenticazione, il provider di identità federato reindirizza di nuovo l'utente ad Azure AD insieme a un token SAML. Affinché Azure AD riconosca che l'utente ha completato la verifica MFA durante l'autenticazione al provider di identità federato, il token SAML deve includere l'attestazione *authenticationmethodsreferences* (con valore *multipleauthn*). Controlla se il provider di identità federato supporta il rilascio di tale attestazione. In tal caso, verifica che il provider di identità federato sia stato configurato per questa operazione. Se l'attestazione non è presente, Azure AD (e quindi il Centro per i partner) non saprà che l'utente ha completato la verifica MFA con il conseguente mancato raggiungimento del 100% nella metrica.
+* **Federazione delle identità**: quando riceve una richiesta di autenticazione, Azure AD reindirizza l'utente al provider di identità federato per l'autenticazione. Al completamento dell'autenticazione, il provider di identità federato reindirizza di nuovo l'utente ad Azure AD insieme a un token SAML. Affinché Azure AD riconosca che l'utente ha completato la verifica MFA durante l'autenticazione al provider di identità federato, il token SAML deve includere l'attestazione *authenticationmethodsreferences* (con valore *multipleauthn*). Controlla se il provider di identità federato supporta il rilascio di tale attestazione. In tal caso, verifica che il provider di identità federato sia stato configurato per questa operazione. Se l'attestazione non è presente, Azure AD (e quindi Partner Center) non saprà che l'utente ha completato la verifica MFA e l'assenza dell'attestazione può determinare il mancato raggiungimento del 100% nella metrica.
 
 * **Controllo personalizzato**: non è possibile usare Controllo personalizzato di Azure AD per determinare se un utente ha completato la verifica MFA tramite una soluzione MFA di terze parti. Di conseguenza, tutti gli utenti che hanno completato la verifica MFA tramite un controllo personalizzato verranno sempre considerati da Azure AD e, a sua volta, dal Centro per i partner come utenti che non hanno completato la verifica MFA. Se possibile, è consigliabile passare all'uso della Federazione delle identità anziché di un controllo personalizzato durante l'integrazione con Azure AD.
 

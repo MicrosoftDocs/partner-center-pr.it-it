@@ -1,7 +1,7 @@
 ---
 title: Requisiti di competenza Microsoft per l'adesione Gold e Silver | Centro per i partner
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 04/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i requisiti di competenza per conseguire i livelli di adesione Gold e Silver.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competenze, adesione silver, adesione gold, mpn, abbonamento a Microsoft Action Pack, preparazione, Microsoft Partner Network, adesione alla rete, specializzazioni avanzate
 ms.localizationpriority: high
-ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: cfd4800265a5cde94ff69f66cf19547b0f13961c
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226217"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120382"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informazioni sulle competenze Microsoft Silver e Gold e sulle specializzazioni avanzate
 
@@ -31,6 +31,16 @@ Dimostra la tua comprovata esperienza nella fornitura di soluzioni di qualità i
 - Come partner Gold, puoi anche aggiungere specializzazioni avanzate al tuo portfolio.
 
 L'acquisizione delle competenze per l'**adesione Silver** o l'**adesione Gold** consente anche di ottenere programmi e offerte [go-to-market](mpn-learn-about-go-to-market-benefits.md) utili per favorire l'espansione e la crescita del tuo business.
+
+## <a name="check-your-status-as-you-earn-a-competency"></a>Verificare lo stato quando si acquisisce una competenza
+
+Puoi visualizzare i requisiti e gli obiettivi raggiunti dalla tua azienda nell'area relativa alle competenze del dashboard Partner Center.
+
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.
+
+2. Nella sezione MPN del menu di Partner Center seleziona **Competenze**. 
+
+3. Seleziona il nome della competenza e l'opzione relativa alla competenza specifica per la visualizzazione dei dettagli. Puoi visualizzare le operazioni eseguite e anche i requisiti completi e i collegamenti agli esami specifici e alle date di convalida degli esami ritirati.
 
 ## <a name="competency-areas"></a>Aree di competenza
 

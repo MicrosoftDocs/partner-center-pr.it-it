@@ -1,23 +1,23 @@
 ---
-title: Nuovi requisiti per i partner diretti in CSP | Centro per i partner
+title: Requisiti dei partner con fatturazione diretta CSP
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Se sei un partner diretto nel programma CSP, puoi ottenere informazioni sui requisiti aggiornati di supporto e servizi e su come soddisfarli.
+Description: Informazioni su come soddisfare i più recenti requisiti relativi ai servizi di supporto tecnico per diventare un partner con fatturazione diretta del programma Microsoft Cloud Solution Provider (CSP).
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, partner diretto, fatturazione diretta, requisiti
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 461f1ae83af8e99e38ab433fa7204624720bd145
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOAPR.20
+ms.openlocfilehash: de14553d756a718a78e70825e5ef7581aa57b96c
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340103"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205759"
 ---
-# <a name="csp-direct-bill-partner-new-requirements"></a>Nuovi requisiti per i partner con fatturazione diretta in CSP
+# <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisiti necessari per l'iscrizione come partner con fatturazione diretta CSP
 
 **Si applica a**
 
@@ -25,7 +25,7 @@ ms.locfileid: "78340103"
 
 ## <a name="enroll-as-a-direct-partner"></a>Iscriversi come partner diretto
 
-Come partner con fatturazione diretta, sei titolare della relazione completa con il cliente e con Microsoft. I requisiti per l'iscrizione come partner con fatturazione diretta sono stati aggiornati in data 31 agosto 2018. Questi nuovi requisiti ti aiuteranno ad accelerare la crescita della tua azienda con il giusto modello di iscrizione CSP e a rafforzare i rapporti con i clienti tramite servizi e supporto a valore aggiunto.
+Come partner con fatturazione diretta, sei titolare della relazione completa con il cliente e con Microsoft. I requisiti per l'iscrizione come partner con fatturazione diretta sono stati aggiornati in data 31 agosto 2018. Questi nuovi requisiti ti consentiranno di far crescere la tua attività più rapidamente con il modello di iscrizione CSP adeguato. Ti aiuteranno anche a rafforzare le tue relazioni con i clienti con servizi di supporto a valore aggiunto.
 
 ### <a name="minimum-requirements"></a>Requisiti minimi
 
@@ -33,7 +33,7 @@ Come partner con fatturazione diretta, sei titolare della relazione completa con
 |--------------------------------|--------------------------------------------------------------|
 |**ID MPN**   |ID di Microsoft Partner Network (MPN) attivo per la sede della tua azienda.    |
 |**Verifica dell'autenticità**   |L'autorità di accettare e firmare contratti legali per conto della tua organizzazione.|
-|**Supporto tecnico**   |La possibilità di fornire il primo livello di supporto per il prodotto cloud ai clienti. <br>Un piano di supporto Microsoft, tra Supporto avanzato per i partner (ASfP, Advanced Support for Partners) o Supporto tecnico Premier per i partner (PSfP, Premier Support for Partners), in base alle tue esigenze. [Confronta i piani di supporto](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: devi essere sottoposto a una verifica della tua situazione creditizia prima di acquistare un piano di supporto. Se la verifica ha esito positivo, riceverai un'e-mail. |
+|**Supporto tecnico**   |La possibilità di fornire il primo livello di supporto per il prodotto cloud ai clienti. <br>Un piano di supporto Microsoft, tra Supporto avanzato per i partner (ASfP, Advanced Support for Partners) o Supporto tecnico Premier per i partner (PSfP, Premier Support for Partners), in base alle tue esigenze. [Confronta i piani di supporto](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: prima di acquistare un piano di supporto, verrai sottoposto a una verifica della tua situazione creditizia. Se la verifica ha esito positivo, riceverai un'e-mail. |
 |**Servizio gestito**   |Almeno un servizio gestito, servizio di proprietà intellettuale o soluzione applicativa al cliente. Per altre informazioni, vedi l’argomento relativo all’aggiunta di [servizi gestiti](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Crediti** |L'infrastruttura organizzativa per la gestione della fatturazione e del provisioning dei clienti.
 
@@ -43,7 +43,7 @@ Se non hai ancora provveduto, vedi i requisiti minimi sopra riportati per assicu
 
 Le risposte che fornisci alle domande presenti nel modulo consentiranno a Microsoft di stabilire se sei idoneo a iscriverti al programma CSP come partner con fatturazione diretta.
 
-Dopo che Microsoft avrà verificato l'idoneità della tua azienda a iscriversi come partner con fatturazione diretta e che avrai completato la domanda di iscrizione, verranno esaminate e verificate le informazioni societarie che hai fornito nel processo di iscrizione. Nel corso di tale verifica verrà controllata anche la situazione creditizia della tua azienda. Se la tua azienda supera tale verifica, riceverai un'e-mail.
+Dopo la verifica dei requisiti di idoneità della tua azienda a iscriversi come partner con fatturazione diretta e dopo che avrai completato la domanda di iscrizione, verranno esaminate e verificate le informazioni societarie che hai fornito durante la procedura di iscrizione. Nel corso di tale verifica verrà controllata anche la situazione creditizia della tua azienda. Se la tua azienda supera tale verifica, riceverai un'e-mail.
 
 >[!IMPORTANT]
 >La verifica della situazione creditizia della tua azienda può richiedere diversi giorni o anche di più. Durante questo periodo è importante NON acquistare un piano di supporto Microsoft. Procedi all'acquisto solo dopo che sarai stato informato di aver superato la verifica della tua situazione creditizia.
@@ -52,7 +52,7 @@ Dopo che Microsoft avrà verificato l'idoneità della tua azienda a iscriversi c
 
 I partner con fatturazione diretta correnti devono soddisfare i nuovi requisiti per restare nel programma CSP per i partner con fatturazione diretta. In caso contrario, l'[accesso alle funzionalità di fatturazione diretta verrà limitato](restricted-direct-bill-capabilities.md) e non sarà più possibile eseguire attività specifiche, ad esempio effettuare nuovi acquisti per i clienti. 
 
-Se decidi di effettuare la transizione da un'attività di rivenditore con fatturazione diretta a una di rivenditore con fatturazione indiretta, devi eseguire diverse operazioni. Per altre informazioni sulla transizione, vedi [Eseguire la transizione da partner diretto CSP (Cloud Solution Provider) a rivenditore indiretto CSP](transition-direct-to-indirect.md). 
+Se decidi di effettuare la transizione da un'attività di rivenditore con fatturazione diretta a una di rivenditore indiretto, devi eseguire alcune operazioni. Per altre informazioni sulla transizione, vedi [Eseguire la transizione da partner diretto CSP (Cloud Solution Provider) a rivenditore indiretto CSP](transition-direct-to-indirect.md). 
 
 ## <a name="see-also"></a>Vedere anche
 

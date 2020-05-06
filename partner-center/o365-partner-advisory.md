@@ -3,22 +3,22 @@ title: Consulenza partner Office 365-Microsoft 365 Voice in CSP | Centro per i p
 description: I servizi PSTN in alcuni paesi possono essere soggetti a requisiti fiscali e normativi speciali che possono influenzare l'ordine e la fatturazione dei partner.
 ms.topic: article
 ms.date: 04/07/2020
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Office, O365, servizi PSTN, imposte, requisiti, fattura, fatturazione
 ms.localizationpriority: medium
-ms.openlocfilehash: ee29158773041bbab16961f139e8b731a2b3ebbf
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.openlocfilehash: 9a53d1c931b1f39a4177eb11f6307b7f710da472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123280"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798789"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Advisory per i partner di Office 365: Microsoft 365 Voice in CSP
 
 **Si applica a**
 
-- Partner Center  
+- Centro per i partner  
 
 **Ruoli appropriati**
 -    Amministratore globale

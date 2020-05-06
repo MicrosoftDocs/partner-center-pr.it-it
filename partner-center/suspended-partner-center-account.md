@@ -6,30 +6,30 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come ripristinare un account del Centro per i partner sospeso, perché si verifica la sospensione e come puoi usare il tuo account durante la sospensione.
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 556de42091c778dda6a025e738da6e33291489fd
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: ee056513ce9cfed5e1cb406c3b9476114005ec77
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390640"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797929"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Ripristinare un account sospeso per il Centro per i partner
 
-Questo articolo spiega come procedere se l'account del Centro per i partner viene sospeso.
+Questo articolo illustra come procedere se l'account del Centro per i Partner è sospeso.
 
 **Si applica a**
 
--  Partner Center
+-  Centro per i partner
 -  Centro per i partner per Microsoft Cloud for US Government
 
 
 > [!IMPORTANT]  
 > Mentre il tuo account del Centro per i partner è sospeso, puoi continuare a gestire le distribuzioni, le licenze e i servizi esistenti. Tuttavia, non sarà possibile autorizzare o rivendere nuovi servizi o licenze fino a quando l'account non si trova di nuovo in una posizione corretta.
 
-## <a name="why-partner-center-accounts-are-suspended"></a>Perché gli account del Centro per i partner vengono sospesi
+## <a name="why-partner-center-accounts-are-suspended"></a>Motivi per la sospensione di account del Centro per i partner Microsoft
 
 Microsoft sospenderà un account del Centro per i partner per uno dei motivi seguenti:
 
@@ -37,7 +37,7 @@ Microsoft sospenderà un account del Centro per i partner per uno dei motivi seg
 - Quando vengono rilevati usi impropri significativi per l'account
 - Quando si verificano problemi sulle operazioni dei provider indiretti che influiscono negativamente sul tuo account (solo i rivenditori indiretti)
 
-## <a name="what-to-do-if-your-account-is-suspended"></a>Cosa fare se il tuo account viene sospeso
+## <a name="what-to-do-if-your-account-is-suspended"></a>Cosa fare se l'account viene sospeso
 
 Se sai che l'account è attuale, invia una richiesta di supporto al Supporto per il Centro per i partner, per scoprire perché il tuo account è stato sospeso. 
 
@@ -49,7 +49,7 @@ Se l'account è scaduto, segui le istruzioni sulla fattura per predisporre il pa
 
 1.  Dal menu **centro partner** selezionare richieste di **supporto > richieste del centro**per i partner.
 2.  Seleziona **Nuova richiesta**. 
-3.  Compila il modulo e quindi seleziona **Invia**. Un rappresentante del Supporto del Centro per i partner ti contatterà per spiegare perché l'account è stato sospeso e come ripristinarlo.
+3.  Completare il modulo e quindi selezionare **Submit (Invia**). Un rappresentante del Supporto del Centro per i partner ti contatterà per spiegare perché l'account è stato sospeso e come ripristinarlo.
 
 
 

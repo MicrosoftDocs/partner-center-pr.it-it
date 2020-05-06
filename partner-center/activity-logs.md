@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come visualizzare ed esportare i log attività per ottenere informazioni sulle transazioni degli account del cliente e altre attività di gestione dei partner correlate ai clienti.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: log attività, sottoscrizione, sottoscrizione, pagamenti, fatturazione, transazioni
 ms.localizationpriority: medium
-ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: caa203cac0aba616129158d453518166c322aac4
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390380"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798659"
 ---
 # <a name="view-customer-activity-logs"></a>Visualizzare i log attività dei clienti
 
 **Si applica a**
 
-- Partner Center
+- Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 - Partner del programma Cloud Solution Provider
 
@@ -32,7 +32,7 @@ ms.locfileid: "80390380"
 - Amministratore gestione utenti
 - Agente amministratore
 - Agente di vendita
-- Agente help desk
+- Agente di supporto tecnico
 
 I log attività offrono informazioni sulle transazioni e le operazioni di gestione dei partner per i clienti. I log per le transazioni offrono informazioni dettagliate sulla transazione, incluse le sottoscrizioni acquistate. Puoi anche esportare i log attività in file con valori delimitati da virgole (CSV) compatibile con Excel.
 

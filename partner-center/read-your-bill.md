@@ -6,22 +6,22 @@ description: La fattura è un riepilogo di tutti gli addebiti per il centro per 
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: jasonwhowell
-ms.author: jasonh
-keywords: fatturazione abbonamenti, fatturazione, fatturazione nel centro per i partner, centri per i partner fatturazione, leggere la fattura, fattura, fattura del centro per i partner, fattura CSP, dove è la fattura?
+author: LauraBrenner
+ms.author: labrenne
+keywords: fatturazione della sottoscrizione, fatturazione, fatturazione nel centro per i partner, fatturazione del centro per i partner, lettura fattura, fattura, fattura del centro partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "80676840"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798709"
 ---
-# <a name="understand-your-bill"></a>Comprendere la fattura
+# <a name="understand-your-bill"></a>Informazioni sulla fattura
 
 **Si applica a**
 
-- Partner Center
+- Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
@@ -39,17 +39,17 @@ Microsoft emetterà una fattura per tutti gli addebiti basati sulle licenze, ad 
 
 Ad esempio,  
 
-**Scenario 1 [singola valuta]** : i partner hanno acquistato per l'offerta 145P e le licenze O365  
+**Scenario 1 [singola valuta]**: i partner hanno acquistato per l'offerta 145P e le licenze O365  
 
 - Il partner otterrà un PDF di fattura e 2 file di riconciliazione che coprono gli addebiti sia per O365 che per Azure (145P).  
 
-**Scenario 2 [singola valuta]** : i partner hanno acquistato per Azure ri, Marketplace e/o piano di Azure insieme agli acquisti di 145P. 
+**Scenario 2 [singola valuta]**: i partner hanno acquistato per Azure ri, Marketplace e/o piano di Azure insieme agli acquisti di 145P. 
 
 - Il partner otterrà una fattura PDF e un file di riconciliazione che copre gli addebiti per Azure (145P). 
 
 - Il partner riceverà un'altra fattura PDF e un file di riconciliazione che copre i relativi addebiti per Azure RI, Marketplace, Azure Plan. 
 
-**Scenario 3 [più valute]** : i partner hanno acquistato per Azure ri in DKK e piano di Azure in EUR insieme agli acquisti 145P in EUR. 
+**Scenario 3 [più valute]**: i partner hanno acquistato per Azure ri in DKK e piano di Azure in EUR insieme agli acquisti 145P in EUR. 
 
 - Il partner riceverà una fattura PDF e un file di riconciliazione che copre gli addebiti per Azure RI in DKK. 
 

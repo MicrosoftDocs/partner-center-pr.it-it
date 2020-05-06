@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Se gli utenti dimenticano la password, puoi assegnare loro una nuova password temporanea, che possono usare per l'accesso successivo al Centro per i partner.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c920757d8a2e7b6ff9bacbffb2e84cf0ce45b1c8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: eefd3569dded5c5a73b59504d80438f7a49f2966
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390670"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798669"
 ---
 # <a name="reset-a-user-password-or-update-your-own-password"></a>Reimpostare una password utente o aggiornare la propria password
 
 **Si applica a**
 
--  Partner Center
+-  Centro per i partner
    
 > [!NOTE]  
 >  Se si è iscritti al programma Cloud Solution Provider (CSP) in Microsoft Cloud Germania, per informazioni sulla reimpostazione della password di un utente vedere la pagina relativa alla [gestione degli utenti in Partner Center per Microsoft Cloud Germania](user-management-in-partner-center-for-microsoft-cloud-germany.md) .
@@ -29,8 +29,8 @@ Se gli utenti dimenticano la password, puoi assegnare loro una password temporan
 
 **Reimpostare una password utente come amministratore**
 
-1.  Passare a **impostazioni** &gt; **Gestione utenti**.
-2.  Seleziona l'utente nell'elenco.
+1.  Passare a **Impostazioni** &gt; **Gestione utenti**.
+2.  Selezionare un utente nell'elenco.
 
 3.  Scegli **Reimposta password** nella parte inferiore della pagina.
 

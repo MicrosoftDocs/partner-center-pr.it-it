@@ -6,22 +6,22 @@ description: Informazioni sulle responsabilità fiscali per l'area geografica sp
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: jasonwhowell
+author: LauraBrenner
 keywords: fiscali, esenzioni fiscali, IVA, rivenditore, fatturazione
-ms.author: jasonh
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390630"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797699"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Imposte ed esenzioni fiscali
 
 Si applica a:
 
-- Partner Center
+- Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
 Il programma Cloud Solution Provider (CSP) è un canale di vendita incentrato sulla rivendita dei prodotti dei partner. Di conseguenza, Microsoft non è sempre necessario addebitare le imposte sulle vendite per le fatture del partner. Le regole variano in base al paese e/o all'area geografica. È possibile esaminare [i dettagli specifici del paese e dell'area per le esenzioni fiscali](#country-and-region-tax-details).
@@ -42,13 +42,13 @@ La maggior parte dei rivenditori non è esente da GST/HST/QST. Consultare il Tax
 
 Per un'esenzione da BC PST, archiviare un'esenzione fiscale come descritto. Fornisci il numero di BC PST oppure un *Certificate of Exemption General* completo e firmato.
 
-### <a name="european-union"></a>Unione europea
+### <a name="european-union"></a>Unione Europa
 
-Negli stati membri dell'Unione europea i partner devono fornire il numero di partita IVA valido per l'inversione contabile e la fatturazione appropriata. Il numero IVA deve essere accettato come valido.
+Negli stati membri dell'Unione europea i partner devono fornire il numero di partita IVA valido per l'inversione contabile e la fatturazione appropriata. Il numero di partita IVA deve essere accettato come valido.
 
 Microsoft non supporta il credito e la fatturazione. Prima di vendere le sottoscrizioni, è necessario [registrare il numero di ID IVA](organization-tax-info.md) nel centro per i partner.
 
-### <a name="south-africa"></a>Sudafrica
+### <a name="south-africa"></a>Sud Africa
 
 Microsoft ora applica l'IVA standard ai contenuti digitali e ai servizi acquistati dai partner in Sudafrica. Per escludere l'IVA dalle fatture e gestirla autonomamente, è necessario aggiornare il profilo di fatturazione del partner [inviando a Microsoft il numero di ID IVA](organization-tax-info.md).
 
@@ -62,7 +62,7 @@ Tutti i rivenditori negli Stati Uniti devono fornire la documentazione di esenzi
 
 Questo può includere i certificati di esenzione per la vendita che interagiscono tra più Stati, ad esempio il certificato di riduzione delle *vendite* e l' *utilizzo del contratto di licenza dell'esenzione* oppure il *& uniforme del MTC di utilizzo del certificato*di esenzione.
 
-### <a name="other-regions"></a>Altre aree geografiche
+### <a name="other-regions"></a>Altre aree
 
 Se ci si trova in un altro paese o regione che addebita le imposte, [richiedere il supporto in Partner Center](#support) per le proprie domande.
 
@@ -86,7 +86,7 @@ Quindi, creare un ticket di supporto per Microsoft con le informazioni sull'esen
 1. Nel menu Dashboard, in **supporto**, scegliere **richieste di supporto partner**.
 2. Nella pagina **richiesta partner** scegliere **nuova richiesta**. È anche possibile visualizzare le richieste di supporto aperte e chiuse più avanti in questa pagina.
 3. Nel passaggio **nozioni di base** , in **CSP-fatturazione e pagamenti**scegliere **selezionare un tipo di problema** e selezionare **richiesta di esenzione fiscale**.
-4. Nel passaggio **soluzioni** , in sono **necessarie altre informazioni?** , scegliere **Sì**.
+4. Nel passaggio **soluzioni** , in sono **necessarie altre informazioni?**, scegliere **Sì**.
 5. Nel passaggio **Dettagli** compilare il modulo dei **Dettagli del problema** . Assicurarsi di:
 
     - Compilare tutti i campi obbligatori.

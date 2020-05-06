@@ -6,23 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: È importante conoscere i diversi tipi di rischio correlati alle transazioni online e alle procedure consigliate per la gestione e la mitigazione di tali rischi.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: frode, uso improprio, uso accettabile, criteri di uso accettabile, mancato pagamento, il cliente non pagherà la fattura, rischio online, furto di servizio, abuso di servizio, sospensione di una sottoscrizione,
-author: jasonwhowell
-ms.author: jasonh
+keywords: frode, uso improprio, utilizzo accettabile, criteri di utilizzo accettabili, mancato pagamento, il cliente non pagherà fattura, rischi online, furto del servizio, abusi del servizio, Sospendi una sottoscrizione,
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6f92976f6aabc0296abb52ef6ec6dc7bd8ee4599
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390810"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798799"
 ---
-# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestione del mancato pagamento, frode o utilizzo improprio nel centro per i partner
+# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestione di mancato pagamento, frode o uso improprio nel Centro per i partner
 
 Si applica a:
 
-- Partner Center
+- Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
@@ -31,9 +31,9 @@ Si applica a:
 -   Agente amministratore
 -   Amministratore fatturazione
 
-Sei finanziariamente responsabile per acquisti fraudolenti da parte dei tuoi clienti e/o per il mancato pagamento da parte dei clienti dei servizi acquistati. Pertanto, si *consiglia di adottare i controlli di mitigazione dei rischi di rilevamento e prevenzione delle frodi*.
+L'utente è responsabile finanziario per gli acquisti fraudolenti da clienti e/o clienti che non hanno effettuato il pagamento dei servizi acquistati. Pertanto, si *consiglia di adottare i controlli di mitigazione dei rischi di rilevamento e prevenzione delle frodi*.
 
-Per evitare e/o affrontare attività fraudolente o l'uso improprio, è importante comprendere i potenziali rischi e sviluppare criteri e pratiche che possano ridurre la tua esposizione.
+Per evitare e/o risolvere le attività fraudolente o l'utilizzo improprio, è importante comprendere i potenziali rischi e sviluppare criteri e procedure che possono ridurre l'esposizione.
 
 ## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Imposizione dei criteri di utilizzo accettabili di Microsoft
 
@@ -48,11 +48,11 @@ L' **abuso dei** rischi per i servizi indica che i clienti che usano servizi clo
 Esempi di queste violazioni dei criteri di utilizzo accettabili di Microsoft possono includere:
 
 - Spamming
-- Violazioni
+- Hacking
 - Attacchi Denial of Service (DDoS) distribuiti
 - Data mining Bitcoin
-- Distribuzione del malware
-- Rivendita di sottoscrizioni contraffatte
+- Distribuzione malware
+- Rivendita di sottoscrizioni Pirate
 
 ## <a name="theft-of-service-risks"></a>Furto dei rischi di servizio
 
@@ -63,7 +63,7 @@ Il **furto di** rischi per i servizi indica ai clienti che non hanno intenzione 
 Esempi di questi rischi per le transazioni online possono includere:
 
 - Transazioni che non si verificano in persona (transazioni con carta di credito non presenti)
-- Identità false
+- Identità non rappresentate
 - Servizi sottoposti a provisioning e utilizzati prima della ricezione del pagamento iniziale
 - Mercati emergenti e/o aree ad alto rischio per frode online
 - Automatizzare la creazione e l'acquisto di account da attori malintenzionati
@@ -101,4 +101,4 @@ I suggerimenti per la gestione della fatturazione del cliente dopo l'acquisto in
 - Non accettare strumenti di pagamento ad alto rischio (ad esempio carte prepagate o schede con valori archiviati).
 - Monitorare i pagamenti dei clienti e l'invecchiamento degli account. Applicare in modo aggressivo i processi di Dunning standardizzati per i pagamenti tardivi o il mancato pagamento.
 
-Per strategie più dettagliate per l'attenuazione del rischio online, consulta la [Guida alla gestione dei rischi delle transazioni online.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
+Per strategie più dettagliate per attenuare i rischi online, vedere la guida alla gestione dei rischi per le [transazioni online.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)

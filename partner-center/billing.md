@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Elenco di argomenti relativi a fatturazione e imposte in Partner Center, incluse informazioni su risorse di fatturazione, fatture, fatturazione CSP e imposte.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione ordini, mancato pagamento, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: high
-ms.openlocfilehash: 33c698648b6e195219ae8b58c36e8fda372685f3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 5b50a51d1d3d29f0631dc7b2147e11181e719c87
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80634797"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798579"
 ---
 # <a name="billing-and-taxes"></a>Fatturazione e imposte
 

@@ -5,21 +5,21 @@ ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Prova le nuove funzionalità del Centro per i partner prima che vengano rilasciate e facci sapere cosa ne pensi. Aiutarci a dare forma al futuro del Centro per i partner!
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 367fe22b984277b02e4161bf12cf2198ab663c5b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 0f2761a743254a9c1dc8b40cc749e415587cae08
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390570"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797709"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Eseguire il test drive delle nuove funzionalità del Centro per i partner
 
 **Si applica a**
 
-- Partner Center
+- Centro per i partner
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Aiutarci a dare forma al futuro del Centro per i partner!
 
@@ -48,7 +48,7 @@ Ti invitiamo a provare le nuove funzionalità prima che vengano rilasciate alla 
 
 
  
-## <a name="tell-us-what-you-think"></a>Facci sapere cosa pensi
+## <a name="tell-us-what-you-think"></a>Lasciare un feedback
 
 La nostra missione in tutto quello che sviluppiamo per il Centro per i partner è aiutarti a ottenere di più. Vogliamo concentrarci sulle funzionalità e sulle funzionalità che ti aiuteranno a far crescere il tuo business, quindi ti invitiamo a provare nuove funzionalità e a condividere i tuoi commenti e suggerimenti prima che vengano rilasciate alla community del centro per i partner. 
 

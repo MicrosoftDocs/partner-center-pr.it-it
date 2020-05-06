@@ -6,21 +6,21 @@ description: Informazioni su come impostare o rimuovere i budget mensili per la 
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e536a43aec85336996d047ecd13a06ef144ce196
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e33a15110666bb3b4a3c76c198cde7a59d81411f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390650"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797889"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Impostare un budget di spesa di Azure per i clienti
 
 Si applica a:
 
-- Partner Center
+- Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
 È possibile [impostare un budget mensile per la spesa di Azure per i clienti](#set-azure-spending-budget) nel centro per i partner. Ciò consente ai clienti di gestire la spesa di Azure. Questa opzione consente di confrontare la spesa di Azure da parte dei clienti al budget durante il mese. Consente inoltre ai clienti di ottenere un budget per la spesa di Azure in modo che la fattura mensile non sia superiore al previsto.
@@ -55,7 +55,7 @@ I dati di spesa vengono *aggiornati una volta al giorno*. I clienti possono cont
 
 È anche possibile *impostare un budget per un singolo cliente* nelle impostazioni della sottoscrizione:
 
-1. Accedere al dashboard del centro per i partner.
+1. Accedi al dashboard Centro per i partner.
 2. Nel menu a sinistra in **CSP**scegliere **Customers (clienti**).
 3. Nella pagina **Customers** selezionare il **nome della società**del cliente.
 4. Nella pagina **sottoscrizioni** del cliente, in **sottoscrizione basata sull'utilizzo**, scegliere **Cambia budget**.
@@ -83,7 +83,7 @@ Puoi *tenere traccia delle spese di Azure correnti e dei budget mensili dei clie
 
 È possibile *attivare le notifiche tramite posta elettronica* quando la spesa mensile del cliente si avvicina al limite di budget. Quando si attiva questa opzione, si riceverà una notifica quando i clienti usano il 80% o più del budget mensile. Questa opzione consente di tenere sotto controllo la fattura di Azure. Per configurare le notifiche di posta elettronica:
 
-1. Accedi al Centro per i partner.
+1. Accedere al Centro per i partner.
 2. Nel menu a sinistra in **CSP**scegliere **spesa di Azure**.
 3. Nella pagina **spesa di Azure** , in **notifiche di posta elettronica**, impostare l'opzione **Ottieni messaggi** di posta elettronica **su**attivato.
 4. Scegliere **modifica indirizzo di posta elettronica** per visualizzare l'indirizzo di posta elettronica per le notifiche.
@@ -93,7 +93,7 @@ Puoi *tenere traccia delle spese di Azure correnti e dei budget mensili dei clie
 
 È possibile *visualizzare i costi (e l'utilizzo stimato) per servizio per le sottoscrizioni basate sull'utilizzo*:
 
-1. Accedi al Centro per i partner.
+1. Accedere al Centro per i partner.
 2. Nel menu a sinistra in **CSP**scegliere **Customers (clienti**).
 3. Nella pagina **Customers** selezionare il **nome della società**del cliente.
 4. Nella pagina **sottoscrizioni** del cliente, in **sottoscrizioni basate sull'utilizzo**, selezionare il nome della **sottoscrizione**.

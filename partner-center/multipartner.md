@@ -1,26 +1,26 @@
 ---
-title: Supporto multipartner | Centro per i partner
+title: Supporto per più partner | Centro per i partner
 ms.topic: article
 ms.date: 03/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Un cliente può scegliere di collaborare con più partner nel programma Cloud Solution Provider specializzati in servizi diversi.
+description: Un cliente potrebbe voler collaborare con più partner nel programma Cloud Solution Provider, specializzato in servizi diversi.
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c4de34137fec79d0656a6122ae04c0073a59125
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 2a059e9eebd117ef0684c8bc7aa2f8bbb68c25d6
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390820"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798809"
 ---
 # <a name="multi-partner-support"></a>Supporto multipartner
 
 **Si applica a**
 
--  Partner Center
+-  Centro per i partner
 -  Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
@@ -28,11 +28,11 @@ ms.locfileid: "80390820"
 -   Amministratore utenti
 -   Agente di vendita
 
-La funzionalità per più partner del centro per i partner supporta scenari in cui un cliente vuole collaborare con più di un partner. Ad esempio, un cliente può decidere di avvalersi dell'esperienza di un partner su Office 365, ma scegliere per Microsoft Azure un altro partner specializzato in questa soluzione. 
+La funzionalità per più partner del centro per i partner supporta scenari in cui un cliente vuole collaborare con più di un partner. Ad esempio, un cliente potrebbe voler assumere un partner per le proprie competenze in Office 365, ma assumere un partner diverso specializzato in Microsoft Azure. 
 
 Un tenant di Azure CSP può includere una sottoscrizione di Azure aggiuntiva da un partner CSP diverso.
 
-Per usare la funzionalità per più partner nel centro per i partner, invitare il cliente a fornire i privilegi di amministrazione delegata. Vedi [Richiedere una relazione con un cliente](request-a-relationship-with-a-customer.md) per informazioni su come stabilire una relazione con un cliente che già collabora con un partner.
+Per usare la funzionalità per più partner nel centro per i partner, invitare il cliente a fornire i privilegi di amministrazione delegata. Per informazioni su come stabilire una relazione con un cliente che sta già collaborando con un partner, vedere [richiedere una relazione con un cliente](request-a-relationship-with-a-customer.md) .
 
 La funzionalità multipartner non consente di:
 
@@ -42,7 +42,7 @@ La funzionalità multipartner non consente di:
 
 - Modificare i termini o gli obblighi del cliente per le sottoscrizioni esistenti
 
-- Modificare il Partner of Record per una sottoscrizione
+- Modificare il partner del record per una sottoscrizione
 
 > [!IMPORTANT]  
 > Attualmente un partner iscritto al programma CSP non può rivendere servizi online a un altro partner del programma CSP. Microsoft rivede continuamente i criteri e le funzionalità di tutti i programmi. Tutte le novità sui rilasci di funzionalità o sulle modifiche relative ai criteri saranno annunciate tramite i consueti canali di comunicazione, inclusi gli [annunci del Centro per i partner](https://partner.microsoft.com/pcv/announcements).

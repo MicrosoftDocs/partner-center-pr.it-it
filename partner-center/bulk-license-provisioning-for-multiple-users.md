@@ -6,28 +6,28 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come usare un account cliente per assegnare o revocare licenze e servizi a un utente o a più utenti contemporaneamente.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: assegnare una licenza, revocare la licenza, assegnarla a più utenti,
 ms.localizationpriority: medium
-ms.openlocfilehash: a5dd688a5d4abd8d7f41921a16a7eda0467e5950
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7018b1f4ae56ee267a39239c97bf7355381e6802
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390270"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798569"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Assegnare o revocare licenze a più utenti
 
 **Si applica a**
 
-- Partner Center
+- Centro per i partner
 
 **Ruoli appropriati**
 
 - Agente amministratore
 - Amministratore globale
-- Agente help desk
+- Agente di supporto tecnico
 - Agente di vendita
 - Amministratore gestione utenti
 
@@ -39,14 +39,14 @@ Il centro per i partner tiene traccia e Mostra tutti i diritti delle licenze di 
 
 
 - [Assegnare licenze a più utenti](#assign-licenses-to-groups)
-- [Revoca delle assegnazioni delle licenze degli utenti](#revoking-licenses)
+- [Revocare le assegnazioni di licenze degli utenti](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
-**assegnare licenze a più utenti**
+**Assegnare licenze a più utenti**
 
 1. Dal menu **centro partner** selezionare **Customers**, quindi scegliere un cliente dall'elenco.
 
-2. Seleziona **Utenti e licenze**.
+2. Selezionare **utenti e licenze**.
 
 3. Seleziona la casella di controllo per due o più utenti nell'elenco. (Per selezionare tutti gli utenti nella pagina corrente, seleziona la casella di controllo nella parte superiore della colonna **Utenti**.)
 
@@ -76,15 +76,15 @@ Il centro per i partner tiene traccia e Mostra tutti i diritti delle licenze di 
 
 8. Selezionare **Salva**. Il centro per i partner apre una pagina di conferma **aggiornata delle licenze** in cui sono elencati gli utenti e le nuove licenze.
 
-**Si noti**  alcuni prodotti Microsoft potrebbero non essere disponibili in determinate località. Altri prodotti dipendono da altri prodotti o servizi o non possono essere assegnati insieme allo stesso utente. Dopo aver salvato, la pagina di conferma elenca i risultati per tutti gli utenti per le assegnazioni di licenze corrette e gli eventuali errori d assegnazione.
+**Nota**  alcuni prodotti Microsoft potrebbero non essere disponibili in determinate località. Altri prodotti dipendono da altri prodotti o servizi o non possono essere assegnati insieme allo stesso utente. Dopo aver salvato, la pagina di conferma elenca i risultati per tutti gli utenti per le assegnazioni di licenze corrette e gli eventuali errori d assegnazione.
 
 
 <a href="" id="revoking-licenses"></a>
-**revocare le assegnazioni di licenze degli utenti**
+**Revoca delle assegnazioni delle licenze degli utenti**
 
 1. Dal menu **centro partner** selezionare **Customers**, quindi scegliere un cliente dall'elenco.
 
-2. Seleziona **Utenti e licenze**.
+2. Selezionare **utenti e licenze**.
 
 3. Seleziona la casella di controllo per due o più utenti nell'elenco. (Per selezionare tutti gli utenti nella pagina corrente, seleziona la casella di controllo nella parte superiore della colonna **Utenti**.)
 

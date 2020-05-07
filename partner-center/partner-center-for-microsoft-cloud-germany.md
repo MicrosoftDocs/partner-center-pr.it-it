@@ -5,16 +5,16 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Centro per i partner per Microsoft Cloud Germania è il portale aziendale per i partner Microsoft che desiderano offrire soluzioni cloud Microsoft ai clienti nei paesi appartenenti alle aree UE ed EFTA.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c83709b68a492fd93ca166e9a9717ad9a632c6f6
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 1f293a919b04b30ef8afdcadbc5a285698bb47b0
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390770"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798759"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Centro per i partner per Microsoft Cloud Germania
 
@@ -49,8 +49,8 @@ Caratteristica o funzionalità | Completare le attività in
 :--- | :---
 Gestione utenti partner | Interfaccia di amministrazione di Office 365 o Azure per il portale di amministrazione di Microsoft Cloud Germania
 Gestione utenti clienti | Interfaccia di amministrazione di Office 365 o Azure per il portale di amministrazione di Microsoft Cloud Germania
-Reimpostare la password utente | Azure per il portale di amministrazione di Microsoft Cloud Germania
-Gestione delle licenze | Interfaccia di amministrazione di Office 365 o interfaccia di amministrazione di Office 365 o Microsoft Cloud Germania Azure Active Directory Portale licenze
+Reimpostazione password utente | Azure per il portale di amministrazione di Microsoft Cloud Germania
+Gestione licenze | Interfaccia di amministrazione di Office 365 o interfaccia di amministrazione di Office 365 o Microsoft Cloud Germania Azure Active Directory Portale licenze
 
 
 Per informazioni sulla gestione di utenti e licenze, vedere la pagina sulla [gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud Germania](user-management-in-partner-center-for-microsoft-cloud-germany.md).

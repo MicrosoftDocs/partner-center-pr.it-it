@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come personalizzare o preconfigurare una nuova esperienza predefinita del dispositivo con i profili di Autopilot prima di distribuire il dispositivo al cliente.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, distribuzione Zero-Touch, OOBE, schermate di accesso, predefinite
 ms.localizationpriority: medium
-ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7fed49f9fd06be8765e3435862e3bee48b717ce7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80391000"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798609"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Personalizzare l'esperienza predefinita per un dispositivo con profili di Windows Autopilot
 
@@ -81,16 +81,16 @@ Nel centro per i partner è possibile creare profili di distribuzione di Windows
 
    - Ignora le impostazioni di privacy nel programma di installazione
 
-   - Disabilitare l'account amministratore locale durante la configurazione
+   - Disabilitare l'account amministratore locale nel programma di installazione
   
-   - Ignorare automaticamente le pagine durante la configurazione<br>
+   - Ignora automaticamente le pagine nel programma di installazione<br>
         (Include *automaticamente seleziona configurazione per lavoro o scuola* e *Ignora le pagine di configurazione per la registrazione di Cortana, OneDrive e OEM*)
   
    - Ignora il contratto di licenza con l'utente finale (EULA)<br> 
        >[!IMPORTANT] 
        >Per informazioni importanti su come ignorare la pagina di EULA durante l'installazione di Windows, vedere la pagina relativa al [contratto di licenza di Windows Autopilot](#windows-autopilot-eula-dismissal) .
 
-5. Al termine seleziona **Invia**.
+5. Al termine, selezionare **Invia** .
 
 ### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Applicare un profilo di Autopilot ai dispositivi dei clienti
 
@@ -109,7 +109,7 @@ Dopo aver creato un profilo di Autopilot per un cliente, è possibile applicarlo
 
     a.  Connettere un dispositivo alla rete e attivarlo.
 
-    b.  Verifica che siano visualizzate le eventuali schermate appropriate della Configurazione guidata.
+    b.  Verificare che vengano visualizzate le schermate OOBE appropriate, se presenti.
 
     c.  Quando il processo OOBE si interrompe, ripristinare le impostazioni predefinite del dispositivo per prepararlo per un nuovo utente.
 
@@ -195,4 +195,4 @@ Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 
 Windows Autopilot consente di configurare installazioni personalizzate di Windows nei dispositivi gestiti per i clienti. Se il cliente è autorizzato a eseguire questa operazione, è possibile disattivare o nascondere alcune schermate di configurazione che in genere vengono presentate agli utenti durante la configurazione di Windows, inclusa la schermata di accettazione del contratto di licenza con l'utente finale (EULA).
 
-Utilizzando questa funzione, l'utente accetta che l'eliminazione o la disattivazione delle schermate progettate per fornire agli utenti la comunicazione o l'accettazione delle condizioni significa che l'utente ha ottenuto il consenso e l'autorizzazione sufficienti per nascondere i termini e che l'utente, per conto di il cliente (indipendentemente dal fatto che si tratti di un'organizzazione o di un singolo utente come caso), acconsente a qualsiasi comunicazione e accetti le condizioni applicabili al cliente. Ciò include il contratto per le condizioni della licenza o dell'avviso che potrebbero essere presentati all'utente se non è stato scelto di non visualizzare o di nascondere usando questo strumento. Il cliente non può utilizzare il software Windows su tali dispositivi se non ha acquisito validamente una licenza per il software da Microsoft o dai distributori autorizzati.
+Utilizzando questa funzione, l'utente accetta che l'eliminazione o la disattivazione di schermate progettate per fornire agli utenti la comunicazione o l'accettazione delle condizioni significa che il Licenziatario ha ottenuto il consenso e l'autorizzazione sufficienti per nascondere i termini e che l'utente, per conto del cliente (indipendentemente dal fatto che sia un'organizzazione o un singolo utente come il caso), acconsente a qualsiasi comunicazione e accetti le condizioni applicabili Questo include il contratto con i termini e le condizioni della licenza o l'avviso che verrebbe presentato all'utente se non è stato eliminato o nascosto utilizzando questo strumento. Il cliente non potrà utilizzare il software Windows su tali dispositivi se il cliente non ha acquistato in maniera valida una licenza per il software da Microsoft o dai suoi distributori autorizzati.

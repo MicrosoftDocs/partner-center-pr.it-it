@@ -6,19 +6,19 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vedere i paesi, le aree e le valute in cui è possibile vendere le offerte CSP, in base alla posizione della società.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Mercati CSP, territori, dove è possibile vendere tramite CSP, offerte CSP, aree, vendere soluzioni cloud, CSP globale
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 66ef0d8c1e9b0183097129cc0f2160028038284f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 17b2b27b0a1398128f479c39566efd36377af692
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390700"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798699"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercati e valute regionali del programma Cloud Solution Provider
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercati internazionali del programma Cloud Solution Provider e valute
 
 La posizione dell'azienda determina il tuo mercato, ovvero le aree geografiche e/o i paesi in cui puoi vendere le offerte CSP.
 
@@ -35,7 +35,7 @@ Per determinare dove è possibile vendere le offerte CSP, trovare la località d
 
 Se il paese non è supportato, stabilire la relazione del cliente CSP usando l'URL di amministrazione di Office. 
 
-- I partner Direct Bill usano l'URL seguente: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0. Sostituire **partnertenantguid** con l'ID tenant. 
+- I partner Direct Bill usano l'URL seguente https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0:. Sostituire **partnertenantguid** con l'ID tenant. 
 
 - L'URL dei rivenditori indiretti è: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Si sostituirà **IRtenantguid** con l'ID tenant. Sostituire **IRMPNID** con l'ID MPN e sostituire **IPtenantguid** con l'ID tenant del provider indiretto.
 
@@ -43,7 +43,7 @@ Se il paese non è supportato, stabilire la relazione del cliente CSP usando l'U
 
 Se la sede della società è nell'elenco seguente, è possibile vendere le offerte CSP ai clienti in tutte le posizioni dell'elenco.
 
-| Country/Region           | Valuta |
+| Paese/Area geografica           | Valuta |
 | ------------------------ |:--------:|
 | Angola                   |          |
 | Benin                    |   USD    |
@@ -57,7 +57,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 | Comore                  |   USD    |
 | Congo                    |   USD    |
 | Repubblica democratica del Congo              |   USD    |
-| Côte d'Ivoire (Costa d'Avorio)            |          |
+| Côte d’Ivoire (Costa d'Avorio)            |          |
 | Gibuti                 |   USD    |
 | Guinea Equatoriale        |   USD    |
 | Eritrea                  |   USD    |
@@ -80,7 +80,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 | Niger                    |   USD    |
 | Nigeria                  |   USD    |
 | Riunione                  |   USD    |
-| Rwanda                   |   USD    |
+| Ruanda                   |   USD    |
 | São Tomé e Príncipe    |   USD    |
 | Senegal                  |          |
 | Seychelles               |   USD    |
@@ -98,16 +98,16 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 
 Se la sede della società è nell'elenco seguente, è possibile vendere le offerte CSP ai clienti in tutte le posizioni dell'elenco.
 
-| Country/Region     | Valuta |
+| Paese/Area geografica     | Valuta |
 | --------------     |:--------:|
 |  Bangladesh        |   USD    |
 |  Bhutan            |          |
 |  Brunei Darussalam |   USD    |
 |  Cambogia          |          |
-|  Hong Kong         |   USD    |
+|  RAS di Hong Kong         |   USD    |
 |  Indonesia         |   USD    |
 |  Laos              |          |
-|  Macao             |   USD    |
+|  Macao - R.A.S.             |   USD    |
 |  Malaysia          |   USD    |
 |  Maldive          |          |
 |  Myanmar           |          |
@@ -124,7 +124,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 
 Se la sede della società è nell'elenco seguente, è possibile vendere le offerte CSP ai clienti in tutte le posizioni dell'elenco.
 
-|  Country/Region        | Valuta |
+|  Paese/Area geografica        | Valuta |
 |  --------------        |:--------:|
 |  Australia             |   AUD    |
 |  Isola Christmas      |   AUD    |
@@ -155,7 +155,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 
 Se la sede della società è il Brasile, è possibile vendere le offerte CSP ai clienti in Brasile.
 
-|  Country/Region | Valuta |
+|  Paese/Area geografica | Valuta |
 |  -------------- |:--------:|
 |  Brasile         |   USD    |
 |
@@ -164,7 +164,7 @@ Se la sede della società è il Brasile, è possibile vendere le offerte CSP ai 
 
 Se la sede della società è nell'elenco seguente, è possibile vendere le offerte CSP ai clienti in tutte le posizioni dell'elenco.
 
-|  Country/Region | Valuta |
+|  Paese/Area geografica | Valuta |
 |  -------------- |:--------:|
 |  Canada         |   CAD    |
 |  Saint Pierre e Miquelon|  CAD   |
@@ -174,7 +174,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 
 Se la sede della società è nell'elenco seguente, è possibile vendere le offerte CSP ai clienti in tutte le posizioni dell'elenco.
 
-|  Country/Region | Valuta  |
+|  Paese/Area geografica | Valuta  |
 |  -------------- |:--------:|
 |  Isole Åland  |   EUR    |
 |  Andorra        |   EUR    |
@@ -184,13 +184,13 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Bulgaria       |          |
 |  Croazia        |   EUR    |
 |  Cipro         |          |
-|  Repubblica Ceca |   EUR    |
+|  Repubblica ceca |   EUR    |
 |  Danimarca        |   DKK    |
 |  Estonia        |   EUR    |
-|  Fær Øer  |   EUR    |
+|  Isole Fær Øer  |   EUR    |
 |  Finlandia        |   EUR    |
-|  France         |   EUR    |
-|  Germany        |   EUR    |
+|  Francia         |   EUR    |
+|  Germania        |   EUR    |
 |  Gibilterra      |   GBP    |
 |  Grecia         |   EUR    |
 |  Groenlandia      |          |
@@ -206,7 +206,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Lituania      |   EUR    |
 |  Lussemburgo     |   EUR    |
 |  Malta          |          |
-|  Monaco         |          |
+|  Principato di Monaco         |          |
 |  Paesi Bassi    |   EUR    |
 |  Norvegia         |   NOK    |
 |  Polonia         |   EUR    |
@@ -227,7 +227,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 
 Se la località aziendale è l'India, è possibile vendere le offerte CSP ai clienti in India.
 
-|  Country/Region | Valuta |
+|  Paese/Area geografica | Valuta |
 |  -------------- |:--------:|
 |  India          |   INR    |
 |
@@ -236,25 +236,25 @@ Se la località aziendale è l'India, è possibile vendere le offerte CSP ai cli
 
 Se la sede della società è il Giappone, è possibile vendere le offerte CSP ai clienti in Giappone.
 
-|  Country/Region | Valuta |
+|  Paese/Area geografica | Valuta |
 |  -------------- |:--------:|
-|  Japan          |   JPY    |
+|  Giappone          |   JPY    |
 |
 
 ## <a name="korea-republic-of-region-and-market"></a>Corea, Repubblica di regione e mercato
 
 Se la sede della società è Corea, Repubblica di, è possibile vendere le offerte CSP ai clienti in Corea, Repubblica di.
 
-|  Country/Region    | Valuta |
+|  Paese/Area geografica    | Valuta |
 |  --------------    |:--------:|
-|  Corea, Repubblica di|   KRW    |
+|  Repubblica di Corea|   KRW    |
 |
 
 ## <a name="latin-america-and-the-caribbean-region-and-market"></a>America Latina e l'area caraibica e il mercato
 
 Se la sede della società è nell'elenco seguente, è possibile vendere le offerte CSP ai clienti in tutte le posizioni dell'elenco.
 
-|  Country/Region | Valuta |
+|  Paese/Area geografica | Valuta |
 |  -------------- |:--------:|
 |  Anguilla       |   USD    |
 |  Antartide     |   USD    |
@@ -274,7 +274,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Costa Rica     |   USD    |
 |  Curaçao        |   USD    |
 |  Dominica       |  USD     |
-|  Repubblica Dominicana| USD   |
+|  Repubblica dominicana| USD   |
 |  Ecuador        |   USD    |
 |  El Salvador    |   USD    |
 |  Isole Falkland|  USD    |
@@ -308,21 +308,21 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Turks e Caicos, Isole| USD|
 |  Uruguay        |   USD    |
 |  Venezuela      |   USD    |
-|  Isole Vergini Americane| USD |
+|  Isole Vergini americane| USD |
 |
 
 ## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Medio Oriente, Europa centrale e regione e mercato Europa orientale
 
 Se la sede della società è nell'elenco seguente, è possibile vendere le offerte CSP ai clienti in tutte le posizioni dell'elenco.
 
-|  Country/Region | Valuta |
+|  Paese/Area geografica | Valuta |
 |  -------------- |:--------:|
 |  Afghanistan    |          |
 |  Albania        |   USD    |
 |  Algeria        |          |
 |  Armenia        |   USD    |
 |  Azerbaigian     |   USD    |
-|  Bahrein        |   USD    |
+|  Bahrain        |   USD    |
 |  Bielorussia        |   USD    |
 |  Bosnia ed Erzegovina|    |
 |  Territorio britannico dell'Oceano Indiano|   USD   |
@@ -333,7 +333,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Giordania         |          |
 |  Kazakhstan     |   USD    |
 |  Kosovo         |   USD    |
-|  Al Kuwait         |   USD    |
+|  Kuwait         |   USD    |
 |  Kirghizistan     |   USD    |
 |  Libano        |   USD    |
 |  Lesotho        |   USD    |
@@ -347,11 +347,11 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Mozambico     |          |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Territori palestinesi, occupati |        |
+|  Territori Palestinesi, Occupati |        |
 |  Qatar          |   USD    |
 |  Arabia Saudita   |   USD    |
 |  Serbia         |   USD    |
-|  Sudafrica   |   USD    |
+|  Sud Africa   |   USD    |
 |  Swaziland      |   USD    |
 |  Tagikistan     |          |
 |  Tunisia        |   USD    |
@@ -368,7 +368,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 
 Se la sede della società è nell'elenco seguente, è possibile vendere le offerte CSP ai clienti in tutte le posizioni dell'elenco.
 
-|  Country/Region | Valuta |
+|  Paese/Area geografica | Valuta |
 |  -------------- |:--------:|
 |  Samoa Americane |   NZD    |
 |  Nuova Zelanda    |   NZD    |
@@ -380,7 +380,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 
 Se la sede della società è la Russia, è possibile vendere le offerte CSP ai clienti in Russia.
 
-|  Country/Region | Valuta |
+|  Paese/Area geografica | Valuta |
 |  -------------- |:--------:|
 |  Russia         |    RUB   |
 |
@@ -389,7 +389,7 @@ Se la sede della società è la Russia, è possibile vendere le offerte CSP ai c
 
 Se la sede della società è Taiwan, è possibile vendere le offerte CSP ai clienti di Taiwan.
 
-|  Country/Region | Valuta |
+|  Paese/Area geografica | Valuta |
 |  -------------- |:--------:|
 |  Taiwan         |   TWD    |
 |
@@ -398,8 +398,8 @@ Se la sede della società è Taiwan, è possibile vendere le offerte CSP ai clie
 
 Se la sede della società è nell'elenco seguente, è possibile vendere le offerte CSP ai clienti in tutte le posizioni dell'elenco.
 
-|  Country/Region       | Valuta |
+|  Paese/Area geografica       | Valuta |
 |  -------------        |:--------:|
 |  Stati Uniti        |   USD    |
-|  Altre isole americane del Pacifico|   USD    |
+|  Stati Uniti Altre isole americane del Pacifico|   USD    |
 |

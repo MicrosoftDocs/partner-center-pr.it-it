@@ -5,22 +5,22 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sui pagamenti non allocati e sul modo in cui è possibile applicarli alle fatture.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: fatturazione, pagamento, pagamenti, pagamento non allocato
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a5baa6c08ff49405f6317410e382dab10b8276d
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 2cb132d7ade1e6ef7b8172a0612fbd53bf24def1
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390560"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797689"
 ---
-# <a name="manage-unallocated-payments"></a>Gestisci pagamenti non allocati
+# <a name="manage-unallocated-payments"></a>Gestire pagamenti non allocati
 
 **Si applica a**
 
-- Partner Center
+- Centro per i partner
 
 In alcuni casi è possibile che venga visualizzato un pagamento non allocato nella pagina di fatturazione. Un pagamento non allocato è un pagamento effettuato a Microsoft che non è stato applicato a una fattura specifica.
 
@@ -30,6 +30,6 @@ In alcuni casi è possibile che venga visualizzato un pagamento non allocato nel
 2.  Scegli **Billing** (Fatturazione) dal menu a sinistra.
 3.  Nella pagina fatturazione, trovare la sezione **pagamento non allocato** . 
 
-Per applicare questo importo a una determinata fattura, inviare un messaggio di posta elettronica bposcapp@microsoft.com e indicare la fattura a cui applicare il pagamento. Assicurarsi di includere tutte le informazioni che verranno effettuate in caso di pagamento. La pagina di fatturazione verrà aggiornata entro 5-6 giorni. 
+Per applicare questa quantità a una determinata fattura, inviare bposcapp@microsoft.com un messaggio di posta elettronica e indicare la fattura a cui applicare il pagamento. Assicurarsi di includere tutte le informazioni che verranno effettuate in caso di pagamento. La pagina di fatturazione verrà aggiornata entro 5-6 giorni. 
 
 I pagamenti non allocati rimangono non allocati fino a quando non vengono assegnati a una fattura. 

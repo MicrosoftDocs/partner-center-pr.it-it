@@ -6,23 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri quando e dove i clienti possono eseguire il supporto autonomo per gestire i propri account e quando devono contattare il proprio partner Cloud Solution Provider.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
-author: jasonwhowell
-ms.author: jasonh
-keywords: supporto in autonomia dei clienti, supporto autonomo
+author: LauraBrenner
+ms.author: labrenne
+keywords: supporto tecnico Self-Service, self-service,
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 91ef76a74b59627a943043156679b927e2279649
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 0176c1dc714435b032b1c0e7a59df5306435e86b
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80391040"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798379"
 ---
 # <a name="customer-self-support"></a>Supporto in autonomia dei clienti
 
 **Si applica a**
 
--  Partner Center
+-  Centro per i partner
 -  Centro per i partner per Microsoft Cloud for US Government
 
 
@@ -34,7 +34,7 @@ I clienti possono accedere alla propria interfaccia di amministrazione di Micros
 
 Per acquistare altre sottoscrizioni o annullare quelle esistenti, i clienti devono contattare il proprio partner Cloud Solution Provider. I clienti non possono modificare le proprie sottoscrizioni contattando direttamente Microsoft.
 
-Qualora avessero bisogno di aiuto con i prodotti, i clienti possono trovare risorse utili in [Supporto](https://partnercenter.microsoft.com/partner/support). Microsoft incoraggia i partner a indirizzare i propri clienti verso queste risorse come primo passaggio.
+I clienti che necessitano di assistenza per i prodotti possono trovare le risorse del prodotto sul [supporto tecnico](https://partnercenter.microsoft.com/partner/support). Microsoft incoraggia i partner a indirizzare i propri clienti verso queste risorse come primo passaggio.
 
  
 

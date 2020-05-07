@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come aggiungere più utenti all'account di un cliente contemporaneamente, caricando un file di dati nel formato di file con valori delimitati da virgole (CSV) nel centro per i partner.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
-author: jasonwhowell
-ms.author: jasonh
-keywords: caricamento in blocco, aggiungere più utenti all'account di un cliente, aggiungere gli utenti di un cliente, caricamento in blocco degli utenti di un cliente, account del cliente, utenti del cliente, utenti
+author: LauraBrenner
+ms.author: labrenne
+keywords: caricamento bulk, aggiunta di più utenti a un account cliente, aggiunta degli utenti del cliente, caricamento bulk degli utenti del cliente, account cliente, utenti cliente, utenti
 ms.localizationpriority: medium
-ms.openlocfilehash: 499aff67d18b0d8f9fbaf098fecbab2d888d9ac7
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 36130f268c9d33217ef3473136ec511f374fb583
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390370"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798629"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Aggiungere più utenti all'account di un cliente
 
 **Si applica a**
 
-- Partner Center
+- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -47,8 +47,8 @@ Immetti i dati seguenti nel file di dati:
 | Nome      | Nome dell'utente (campo facoltativo)                                           | Limite di 50 caratteri                         |
 | Cognome       | Cognome dell'utente (campo facoltativo)                                            | Limite di 50 caratteri                         |
 | Nome visualizzato    | Nome visualizzato nel centro per i partner (campo obbligatorio)                            | Limite di 50 caratteri                         |
-| Posta elettronica           | Indirizzo di posta elettronica aziendale dell'utente presso la società del cliente (campo obbligatorio)           | Ogni utente deve avere un indirizzo e-mail univoco |
-| Aggiornamento stato   | Usato per indicare se il nuovo record utente è stato o meno creato correttamente | \*\*lasciare vuoti\*\*                        |
+| Posta elettronica           | Indirizzo di posta elettronica aziendale dell'utente presso la società del cliente (campo obbligatorio)           | Ogni utente deve avere un indirizzo di posta elettronica univoco |
+| Aggiornamento dello stato   | Usato per indicare se il nuovo record utente è stato o meno creato correttamente | \*\*Lascia vuoto\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>Per creare più account utente
 
@@ -66,17 +66,17 @@ Immetti i dati seguenti nel file di dati:
 
 6. Nel selettore di file seleziona il file di dati e quindi seleziona **Apri**.
 
-7. Seleziona **Convalida**.
+7. Selezionare **Convalida**.
 
-    **Si noti**  la maggior parte degli errori di creazione dell'account sono causati da problemi relativi a file di dati, ad esempio informazioni mancanti, indirizzi di posta elettronica non validi o duplicati oppure troppi record nel file.
+    **Nota**  la maggior parte degli errori di creazione dell'account è causata da problemi relativi ai file di dati, tra cui informazioni mancanti, indirizzi di posta elettronica non validi o duplicati oppure troppi record nel file.
 
 8. Dopo che il centro per i partner ha convalidato il file, selezionare la **posizione** geografica per i nuovi utenti.
 9. Selezionare **Salva**.
-10. Scarica le informazioni sulle password temporanee per gli utenti.
+10. Scaricare le informazioni sulla password temporanea per gli utenti.
 
 **IMPORTANTE:** assicurati di scaricare il file con le password temporanee in questo momento, perché non potrai farlo in seguito. I nuovi utenti devono accedere all'account nuovo usando la password temporanea per i nuovi account.
 
-10. Ai nuovi utenti vengono assegnate automaticamente le autorizzazioni **può usare licenze e servizi**. 
+10. Ai nuovi utenti vengono assegnate automaticamente le autorizzazioni di **che possono usare licenze e servizi** . 
 
  
 

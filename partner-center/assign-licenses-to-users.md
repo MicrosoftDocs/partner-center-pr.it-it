@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come creare gli account utente per un cliente, aggiungere o rimuovere licenze utente, reimpostare le password utente, eliminare gli account utente o ripristinarli.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: gestione clienti, account, creazione account, licenze, assegna licenza, gestione utenti, password, Reimposta password, modifica password
 ms.localizationpriority: medium
-ms.openlocfilehash: fcd5ebe2cb5daa5eafcd3ef56e1750225fcc9990
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 15647d55b1e7a43ca78b2285808f8602dba80f41
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80391010"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798619"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Attività di gestione degli utenti per gli account dei clienti
 
 **Si applica a**
 
-- Partner Center
+- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -29,13 +29,13 @@ ms.locfileid: "80391010"
 - Amministratore gestione utenti
 - Agente amministratore
 - Agente di vendita
-- Agente help desk
+- Agente di supporto tecnico
 
 È possibile creare ed eliminare nuovi utenti nell'account di un cliente. È anche possibile ripristinare uno o più account utente eliminati in precedenza entro 30 giorni dall'eliminazione. Verranno ripristinate anche le assegnazioni di sottoscrizioni precedenti dell'utente (supponendo che le allocazioni precedenti siano disponibili).
 
 Quando si acquistano nuove sottoscrizioni per un cliente, il cliente deve fornire un elenco di tutti gli utenti che necessitano di account, le relative autorizzazioni utente e i servizi necessari per ogni utente.  
 
-Puoi [assegnare le sottoscrizioni a più utenti](bulk-license-provisioning-for-multiple-users.md) contemporaneamente importando i nomi tramite un [file di foglio di calcolo con estensione CSV compatibile con Excel](adding-multiple-users-to-a-customer-account.md).
+È possibile [assegnare sottoscrizioni a più utenti](bulk-license-provisioning-for-multiple-users.md) contemporaneamente importando i nomi usando un [file foglio di calcolo con estensione CSV compatibile con Excel](adding-multiple-users-to-a-customer-account.md).
 
 <a href="" id="createuseraccounts"></a>
 
@@ -45,15 +45,15 @@ Puoi [assegnare le sottoscrizioni a più utenti](bulk-license-provisioning-for-m
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
-3. Nel menu del cliente seleziona **Utenti e licenze**.
+3. Nel menu del cliente seleziona **Users and licenses** (Utenti e licenze).
 
-4. Per ogni utente seleziona **Aggiungi sottoscrizione** e quindi compila le informazioni, incluse autorizzazioni e licenze. **Salva** le modifiche.
+4. Per ogni utente aggiunto, selezionare **Aggiungi sottoscrizione**, quindi compilare le informazioni, incluse le autorizzazioni e le licenze. **Salvare** le modifiche.
 
 5. Assicurati di registrare il nome utente e una password temporanea da inviare all'utente.
 
-6. Se aggiungi più utenti contemporaneamente, usa **Aggiungi un altro utente**.
+6. Se si aggiungono più utenti uno alla volta, usare **Aggiungi un altro utente**.
 
-7. È inoltre possibile aggiungere più utenti contemporaneamente [importando un file di foglio di calcolo con estensione CSV compatibile con Excel](adding-multiple-users-to-a-customer-account.md). Puoi aspettare di avere completato l'intero set prima di inviare tramite e-mail o stampare i nomi e le password dalla schermata di conferma.
+7. È anche possibile aggiungere contemporaneamente più utenti [importando un file foglio di calcolo CSV compatibile con Excel](adding-multiple-users-to-a-customer-account.md). È possibile attendere fino a quando non viene completato l'intero set prima di inviare tramite posta elettronica o stampare i nomi e le password dalla schermata di conferma.
 
 <a href="" id="userlicensing"></a>
 
@@ -65,7 +65,7 @@ I passaggi seguenti riguardano l'aggiunta o la rimozione di licenze utente per i
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
-3. Nel menu del cliente seleziona **Utenti e licenze**.
+3. Nel menu del cliente seleziona **Users and licenses** (Utenti e licenze).
 
 4. Seleziona uno o più utenti nell'elenco. Ad esempio, se il cliente ha appena acquistato nuove licenze e vuoi assegnarle agli utenti che ancora non le hanno, puoi usare l'opzione **Filtra utenti in base a** per trovare il gruppo corretto.
 
@@ -82,7 +82,7 @@ I passaggi seguenti riguardano l'aggiunta o la rimozione di licenze utente per i
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
-3.  Nel menu del cliente seleziona **Utenti e licenze**. Scegli l'utente nell'elenco.
+3.  Nel menu del cliente seleziona **Users and licenses** (Utenti e licenze). Scegliere l'utente dall'elenco.
 
 4.  Nella parte inferiore della schermata fai clic su **Reimposta password**. 
 
@@ -92,13 +92,13 @@ I passaggi seguenti riguardano l'aggiunta o la rimozione di licenze utente per i
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Eliminare account utente per un cliente
 
-1.  Scegliere **clienti**dal menu **centro partner** . Scegli il cliente nell'elenco.
+1.  Scegliere **clienti**dal menu **centro partner** . Scegliere il cliente dall'elenco.
 
-2.  Nel menu del cliente seleziona **Utenti e licenze**. Scegli l'utente nell'elenco.
+2.  Nel menu del cliente seleziona **Users and licenses** (Utenti e licenze). Scegliere l'utente dall'elenco.
 
-3.  Nella parte inferiore della schermata fai clic su **Elimina utente**.
+3.  Nella parte inferiore della schermata selezionare **Elimina account utente**.
 
-Se devi ripristinare questo account, puoi trovarlo nella scheda **Utenti eliminati** dell'elenco **Utenti e licenze** del cliente. Hai a disposizione 30 giorni per ripristinare un utente eliminato.
+Se è necessario ripristinare l'account, è possibile trovarlo nella scheda **utenti eliminati** dell'elenco **utenti e licenze** del cliente. Sono disponibili 30 giorni per ripristinare un utente eliminato.
 
 <a href="" id="restoreuseraccounts"></a>
 
@@ -106,9 +106,9 @@ Se devi ripristinare questo account, puoi trovarlo nella scheda **Utenti elimina
 
 1.  Dal menu **centro** per i partner selezionare **Customers**, quindi scegliere il cliente dall'elenco.
 
-2.  Seleziona **Utenti e licenze**.
+2.  Selezionare **utenti e licenze**.
 
-3.  Seleziona la scheda **Utenti eliminati ( )** . Viene visualizzato **(1)** o un numero maggiore se sono presenti utenti eliminati che possono essere ripristinati.
+3.  Selezionare la scheda **utenti eliminati ()** . Deve leggere **(1)** o versione successiva quando sono presenti utenti eliminati che possono essere ripristinati.
 
 4.  Seleziona una o più caselle di controllo degli utenti eliminati e quindi seleziona **Ripristina**.
 
@@ -119,4 +119,4 @@ Se devi ripristinare questo account, puoi trovarlo nella scheda **Utenti elimina
 
 [Assegnare o revocare licenze a più utenti](bulk-license-provisioning-for-multiple-users.md)
 
-[Creazione di più utenti per un account cliente](adding-multiple-users-to-a-customer-account.md)
+[Creare più utenti per l'account di un cliente](adding-multiple-users-to-a-customer-account.md)

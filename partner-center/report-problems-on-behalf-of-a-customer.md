@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Se il cliente sta riscontrando un problema del servizio che non è possibile risolvere e che soddisfa i criteri descritti in escalation problems to Microsoft, è necessario archiviare un ticket di supporto.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: richiesta di servizio, ticket di servizio, supporto, diritto al supporto, AOBO, AOBO di Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d3bd6fe2991f2f7b698cf12864be235c35dce55f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390690"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798689"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Segnalare problemi per conto di un cliente
 
 **Si applica a**
 
--  Partner Center
+-  Centro per i partner
 -  Centro per i partner per Microsoft Cloud for US Government
 
 
-Se il cliente ha un problema con il servizio che tu non puoi risolvere e che soddisfa i criteri descritti in [Inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md), crea un ticket di supporto per conto del cliente. Questo processo è utile anche per inoltrare problemi o controversie correlati alla fatturazione e segnalare possibili frodi.
+Se il cliente sta riscontrando un problema del servizio che non è possibile risolvere e che soddisfa i criteri descritti in [escalation problems to Microsoft](escalate-problems-to-microsoft.md), è necessario archiviare un ticket di supporto. Questo processo è utile anche per inoltrare problemi o controversie correlati alla fatturazione e segnalare possibili frodi.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Inviare una richiesta di servizio per un cliente
 
@@ -44,12 +44,12 @@ Se il cliente ha un problema con il servizio che tu non puoi risolvere e che sod
 >
 >- Sebbene l'amministratore di supporto tecnico nel Centro per i partner non possa creare richieste di servizio nel portale dei servizi di Azure, può creare un gruppo di supporto nel portale e assegnare a tale gruppo le autorizzazioni per registrare le richieste di supporto.
 
-1. Seleziona **Nuova richiesta di supporto**.
+1. Selezionare **nuova richiesta di supporto**.
 2. Compila la richiesta di supporto con le informazioni appropriate e quindi seleziona **Crea**:
 -   Nella sezione **Nozioni di base** della richiesta di supporto assicurati di aver selezionato **Cloud Solution Provider** nel campo **Piano di supporto**.
 -   Nella sezione informativa **Contatto** della richiesta di supporto immetti le tue informazioni e non quelle del cliente.
 
-3. Puoi in seguito controllare le richieste di servizio del cliente all'interno del portale di Microsoft Azure selezionando **Gestisci richieste di supporto**.
+3. Successivamente, esaminare le richieste di servizio del cliente all'interno del portale di Microsoft Azure selezionando **Gestisci richieste di supporto**.
 
 Potresti dover creare una richiesta di supporto per un cliente quando non disponi delle autorizzazioni di amministratore per tale cliente. Ciò potrebbe verificarsi in questi due scenari: 
  
@@ -128,7 +128,7 @@ Se accedi direttamente all'interfaccia di amministrazione di Office 365, visuali
 
 **Come posso ottenere ulteriore supporto per Dynamics 365?**
 
-Se si verificano problemi relativi a: sottoscrizioni di piano Dynamics 365, licenze, fatturazione, operazioni di & Finanza, licenze del prodotto Dynamics 365 o è necessario ulteriore supporto tecnico:
+Se si verificano problemi relativi a: sottoscrizioni di piano Dynamics 365, licenze, fatturazione, operazioni di & finanza, licenze del prodotto Dynamics 365 o è necessario ulteriore supporto tecnico:
  
 contatta il [supporto Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

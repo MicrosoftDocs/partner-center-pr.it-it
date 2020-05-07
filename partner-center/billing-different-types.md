@@ -5,23 +5,23 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni sui diversi tipi di fatturazione, i periodi di fatturazione e le date di fatturazione che potrebbero essere visualizzati nel centro per i partner.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: fatturazione, pagamenti, ordini, file di riconciliazione
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a6d4db62b89ec33740cd5a70141cf5a64533dfc0
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: fcacb9b0832c561e79e2d3c6df4d56b4d2f75b62
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390290"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798589"
 ---
-# <a name="types-of-billing-in-partner-center"></a>Tipi di fatturazione nel centro per i partner
+# <a name="types-of-billing-in-partner-center"></a>Tipi di fatturazione nel Centro per i partner
 
 **Si applica a**
 
-- Partner Center
+- Centro per i partner
 - Partner aderenti al programma CSP
 
 **Ruoli appropriati**
@@ -29,7 +29,7 @@ ms.locfileid: "80390290"
 - Agente amministratore
 - Amministratore fatturazione
 - Amministratore globale
-- Agente help desk
+- Agente di supporto tecnico
 - Agente di vendita
 
 Ti verranno addebitati gli acquisti del centro per i partner a seconda dei prodotti, delle soluzioni e dei servizi acquistati per conto dei tuoi clienti. I tipi di fatturazione sono i seguenti:

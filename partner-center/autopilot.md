@@ -1,22 +1,23 @@
 ---
-title: Personalizzare l'esperienza predefinita di un dispositivo con i profili di Windows Autopilot | Centro per i partner
+title: Personalizzare l'esperienza predefinita di un dispositivo
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come personalizzare o preconfigurare una nuova esperienza predefinita del dispositivo con i profili di Autopilot prima di distribuire il dispositivo al cliente.
+description: Prima di consegnare il nuovo dispositivo di un cliente, è possibile usare i profili di Windows Autopilot per personalizzare o preconfigurare l'esperienza predefinita del dispositivo.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, distribuzione Zero-Touch, OOBE, schermate di accesso, predefinite
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fed49f9fd06be8765e3435862e3bee48b717ce7
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798609"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908380"
 ---
-# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Personalizzare l'esperienza predefinita per un dispositivo con profili di Windows Autopilot
+# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usare i profili di Windows Autopilot nei nuovi dispositivi per personalizzare l'esperienza predefinita di un cliente
 
 **Si applica a**
 

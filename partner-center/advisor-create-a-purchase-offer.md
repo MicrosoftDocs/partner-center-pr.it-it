@@ -1,25 +1,26 @@
 ---
 title: Creazione di un'offerta di acquisto | Centro per i partner
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: Advisor può creare un'offerta di acquisto nel centro per i partner
-author: XiaLi
-ms.author: v-xili35
+description: Informazioni su come un Advisor di sottoscrizione autorizzato può usare il centro per i partner per creare un'offerta di acquisto e un URL personalizzato da includere negli inviti alla versione di valutazione di Office 365.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, acquisto
-ms.openlocfilehash: 1d7cf051da1189efff535eaa95749a8eab54ee6c
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOMAY.20
+ms.openlocfilehash: defa41285aa2bf31158a900a319115cf02221655
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137226"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907445"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Advisor: creare un'offerta di acquisto
 
 > [!NOTE]
-> Questa funzionalità è disponibile solo per i partner Microsoft che sono Advisor autorizzati per le sottoscrizioni. 
+> Questa funzionalità è disponibile solo per i partner Microsoft che sono Advisor autorizzati per le sottoscrizioni.
 
 Dopo aver inviato un invito alla versione di valutazione di Office 365 a un client, è possibile completare la creazione e l'invio di un'offerta di acquisto personalizzata per soddisfare le esigenze del client. Se si è autorizzati a offrire l'amministrazione delegata, è possibile aggiungere un'opzione all'offerta di acquisto che consente di amministrare l'account per conto del client.
 
@@ -29,7 +30,7 @@ Se il client richiede un numero diverso di licenze, inviargli una nuova offerta 
 
 ## <a name="to-create-a-purchase-offer"></a>Per creare un'offerta di acquisto
 
-1. Passa a **versioni di valutazione e offerte di acquisto** > crea l' **offerta**.
+1. Passare a **versioni di valutazione e offerte** > di acquisto**creare un'offerta**.
 
 2. Nella pagina **Crea offerta di acquisto** selezionare le opzioni per l'offerta di acquisto che si desidera includere:
 
@@ -38,7 +39,7 @@ Se il client richiede un numero diverso di licenze, inviargli una nuova offerta 
         Per aggiungere sedi degli uffici partner, vedere [aggiungere un percorso](manage-locations.md). Le nuove posizioni dell'ufficio possono richiedere fino a 24 ore dopo che sono state create per essere visualizzate nell'elenco degli **uffici partner** .
 
     - **Località di utilizzo**: selezionare la località in cui il client utilizzerà i servizi.
-    - **Sottoscrizioni**: l'elenco delle sottoscrizioni che è possibile scegliere è determinato dalla località di utilizzo del paese o dell'area geografica del client. Selezionare la casella di sottoscrizione o sottoscrizioni che si offrirà al client.
+    - **Sottoscrizioni**: l'elenco delle sottoscrizioni che è possibile scegliere è determinato dalla località di utilizzo del paese o della regione del client. Selezionare la casella di sottoscrizione o sottoscrizioni che si offrirà al client.
     - **Conteggio licenze**: quando si seleziona una sottoscrizione, digitare il numero di licenze che si desidera includere nell'offerta di acquisto.
     - **Amministrazione delegata**: questa opzione è disponibile solo per i partner certificati per offrire l'amministrazione delegata. Scegliere questa opzione se si desidera offrire l'amministrazione delegata del client. In tal caso, il client può accettare l'offerta di acquisto con o senza l'accettazione dell'amministrazione delegata.
 

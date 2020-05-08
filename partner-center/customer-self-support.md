@@ -1,7 +1,7 @@
 ---
-title: Supporto in autonomia dei clienti | Centro per i partner
+title: Supporto in autonomia dei clienti
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri quando e dove i clienti possono eseguire il supporto autonomo per gestire i propri account e quando devono contattare il proprio partner Cloud Solution Provider.
@@ -10,23 +10,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: supporto tecnico Self-Service, self-service,
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0176c1dc714435b032b1c0e7a59df5306435e86b
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a1c15a75c638d557eace058d67723a86645c6e47
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798379"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907907"
 ---
-# <a name="customer-self-support"></a>Supporto in autonomia dei clienti
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Supporto tecnico autonomo tramite Microsoft Office interfaccia di amministrazione di 365 o tramite il portale di Azure
 
 **Si applica a**
 
 -  Centro per i partner
 -  Centro per i partner per Microsoft Cloud for US Government
 
-
-I clienti possono accedere alla propria interfaccia di amministrazione di Microsoft Office 365 o al portale di gestione di Azure per gestire i loro account:
+I clienti possono accedere ai propri Microsoft Office interfaccia di amministrazione di 365 o al portale di Azure per gestire i propri account:
 
 -   Visualizzare le comunicazioni e le notifiche interne al prodotto, come le informazioni sull'integrità di un servizio, nel centro messaggi.
 

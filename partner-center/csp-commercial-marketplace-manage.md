@@ -1,26 +1,27 @@
 ---
-title: Gestione dei prodotti o delle offerte del Marketplace commerciale per i clienti | Centro per i partner
+title: Gestione dei prodotti del Marketplace & offerte
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Con il centro per i partner, Scopri in che modo i provider di soluzioni cloud possono gestire diverse offerte ISV di terze parti acquistate per i clienti dal Marketplace commerciale.
-author: MicheleHope
-ms.author: v-mihope
+description: Con il centro per i partner, Scopri in che modo i provider di soluzioni cloud possono gestire le offerte ISV di terze parti acquistate per i clienti dal Marketplace commerciale.
+author: LauraBrenner
+ms.author: labrenne
 keywords: sottoscrizioni, Marketplace, terze parti, ISV, offerte SaaS, programma Cloud Solution Provider, gestione di un'offerta, gestione di una sottoscrizione, licenze, annullamento di una sottoscrizione, postazioni, disattivazione del rinnovo automatico, ID indiretto del rivenditore MPN
 ms.localizationpriority: medium
-ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114953"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908098"
 ---
-# <a name="manage-commercial-marketplace-products-for-your-customers"></a>Gestione dei prodotti del Marketplace commerciale per i clienti
+# <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gestione dei prodotti e delle offerte del Marketplace commerciale per i clienti
 
 **Si applica a**
 
-- Partner Center
+- Centro per i partner
 - Partner aderenti al programma CSP
 
 **Ruoli appropriati**
@@ -46,9 +47,9 @@ Dopo aver acquistato una sottoscrizione da un server di pubblicazione ISV di ter
 
     - Aggiungere/ridurre il numero di postazioni (licenze) nella sottoscrizione
 
-    - Annulla la sottoscrizione
+    - Annullare la sottoscrizione
 
-    - Disattiva il rinnovo automatico
+    - Disattiva rinnovo automatico
 
     - Aggiungere un ID MPN rivenditore indiretto, se applicabile
 
@@ -89,7 +90,7 @@ Quando si sottoscrive un prodotto SaaS basato su licenza offerto da un editore I
 
 Per ulteriori informazioni sui periodi di annullamento applicabili, su come annullare o su come rinnovare automaticamente una sottoscrizione, vedere:
 
-- [Annulla una sottoscrizione](create-a-new-subscription.md#cancel-a-subscription)
+- [Annullare una sottoscrizione](create-a-new-subscription.md#cancel-a-subscription)
 
 - [Rinnovo automatico di una sottoscrizione di Marketplace commerciale](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 

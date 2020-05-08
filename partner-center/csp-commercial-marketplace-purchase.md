@@ -1,20 +1,21 @@
 ---
-title: Acquistare prodotti o offerte per il Marketplace commerciale per i clienti | Centro per i partner
+title: Acquista offerte per Marketplace commerciali
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sul modo in cui i partner del programma CSP possono usare il centro per i partner per l'acquisto di offerte SaaS da parte dei fornitori di software indipendenti (ISV).
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: sottoscrizioni, Marketplace, Marketplace commerciale, terze parti, ISV, offerte SaaS, programma Cloud Solution Provider, acquista un'offerta, Acquista una sottoscrizione
 ms.localizationpriority: medium
-ms.openlocfilehash: 3dd3facf79e0e33a6dfc35a162c444a13a19b256
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c740ae823670644cb1f81c0a667d1fb48fc873ae
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253799"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908086"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Acquistare prodotti Marketplace commerciali per i clienti nel centro per i partner
 
@@ -38,14 +39,14 @@ Offrendo sottoscrizioni SaaS ISV ai tuoi clienti, puoi contribuire a differenzia
 
 Si acquistano sottoscrizioni per prodotti SaaS basati su licenze offerte dagli editori ISV utilizzando lo stesso processo utilizzato per acquistare le sottoscrizioni per i prodotti Microsoft.
 
-Per acquistare una sottoscrizione SaaS basata su licenza nel centro per i partner, vedere [creare, sospendere o annullare le sottoscrizioni clienti](create-a-new-subscription.md#create-a-new-subscription).
+Per acquistare una sottoscrizione SaaS basata su licenza nel centro per i partner, vedere [creare, sospendere o annullare le sottoscrizioni dei clienti](create-a-new-subscription.md#create-a-new-subscription).
 
 Puoi anche possibile usare le [API del Centro per i partner](https://docs.microsoft.com/partner-center/develop/) per creare sottoscrizioni del Marketplace commerciale per i clienti. (Per altre informazioni sull'uso delle API del centro per i partner, vedere [creare una sottoscrizione per prodotti Marketplace commerciali](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)).
 
 >[!IMPORTANT]
-> Come partner del programma CSP, è possibile acquistare solo sottoscrizioni Saas **basate su licenza** dagli editori ISV all'interno del centro per i partner. Ciò significa che è possibile acquistare qualsiasi offerta SaaS **basata su licenze** che l'editore ISV ha reso disponibile, incluse le [offerte esclusive](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a cui si ha accesso. Per acquistare o gestire altre offerte del Marketplace commerciale dagli ISV, ad esempio offerte basate **sull'utilizzo**, a consumo o a consumo che coinvolgono applicazioni, contenitori o macchine virtuali di Azure, è necessario accedere al [portale di gestione di Azure](https://portal.azure.com/). Per ulteriori informazioni, vedere l'argomento seguente.
+> Come partner del programma CSP, è possibile acquistare solo sottoscrizioni Saas **basate su licenza** dagli editori ISV all'interno del centro per i partner. Ciò significa che è possibile acquistare qualsiasi offerta SaaS **basata su licenze** che l'editore ISV ha reso disponibile, incluse le [offerte esclusive](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a cui si ha accesso. Per acquistare o gestire altre offerte del Marketplace commerciale dagli ISV, ad esempio offerte basate **sull'utilizzo**, a consumo o a consumo che coinvolgono applicazioni, contenitori o macchine virtuali di Azure, è necessario passare alla [portale di Azure](https://portal.azure.com/). Per ulteriori informazioni, vedere l'argomento seguente.
 
-## <a name="purchase-usage-based-subscriptions-in-the-azure-management-portal"></a>Acquistare sottoscrizioni basate sull'utilizzo nel portale di gestione di Azure
+## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Acquistare sottoscrizioni basate sull'utilizzo nel portale di Azure
 
 Diversamente dalle sottoscrizioni SaaS basate su licenza di autori ISV di terze parti, le sottoscrizioni basate sull'utilizzo richiedono prima di tutto una sottoscrizione di Azure. Fatturazione per il Marketplace commerciale, le risorse basate sull'utilizzo sono soggette alla sottoscrizione di Azure del cliente. Quando il cliente ha una sottoscrizione di Azure, un partner del programma CSP può seguire questa procedura per acquistare una sottoscrizione di Marketplace commerciale:
 

@@ -1,20 +1,21 @@
 ---
-title: Ruoli e autorizzazioni idonei per guadagnare il credito guadagnato dal partner | Centro per i partner
+title: Ruoli, autorizzazioni per il credito guadagnato dal partner
 ms.topic: article
-ms.date: 09/17/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sui ruoli e sulle autorizzazioni necessarie affinché un partner sia idoneo per i crediti guadagnati dal partner.
+description: Informazioni sui ruoli e sulle autorizzazioni per i partner per poter guadagnare i crediti guadagnati dal partner (PEC). Questi sono diversi dai ruoli per lavorare nel centro per i partner.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e461a61d91bcaebb5cc53cf259006d17a0676884
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: af21fe17afdab07ef259634d9df18d65ae072d5d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253257"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908272"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Ruoli e autorizzazioni idonei per ottenere il credito guadagnato dal partner
 
@@ -25,18 +26,18 @@ I ruoli seguenti sono mappati ai livelli di autorizzazione che determinano se un
 
 |**Ruolo**   |**Descrizione**   |**Idoneo per PEC**   |
 |-----------------|:------------------|:--------------|
-|Proprietario  |Si gestiscono tutti gli elementi, incluso l'accesso alle risorse.|Yes|
-|Collaboratore |Si gestiscono tutti gli elementi, ad eccezione della concessione dell'accesso alle risorse.|Yes|
+|Proprietario  |Si gestiscono tutti gli elementi, incluso l'accesso alle risorse.|Sì|
+|Collaboratore |Si gestiscono tutti gli elementi, ad eccezione della concessione dell'accesso alle risorse.|Sì|
 |Lettore|È possibile visualizzare tutti gli elementi, ma non apportare modifiche|No|
-|ACRDelete|eliminazione di ACR|Yes|
-|ACRImageSigner|firmatario immagine ACR|Yes|
-|ACRPull|Pull ACR|Yes|
-|AcrPush|push ACR|Yes|
-|AcrQuarantineReader|lettore dati di quarantena ACR|No|
-|AcrQuarantineWriter| writer di dati di quarantena ACR|Yes|
-|Collaboratore servizio gestione API|Può gestire il servizio e le API|Yes|
-|Ruolo operatore del servizio gestione API|Può gestire il servizio ma non le API|Yes|
-|Ruolo lettura del servizio gestione API|Accesso in sola lettura al servizio e alle API|No|
-|Collaboratore componente Application Insights|Gestisce i componenti di Application Insights|Yes|
-|Application Insights Snapshot Debugger|Concede all'utente l'autorizzazione per visualizzare e scaricare gli snapshot di debug raccolti con la Application Insights Snapshot Debugger. Si noti che queste autorizzazioni non sono incluse nei ruoli proprietario o collaboratore.|Yes|
+|ACRDelete|eliminazione di ACR|Sì|
+|ACRImageSigner|firmatario immagine acr|Sì|
+|ACRPull|acr pull|Sì|
+|AcrPush|acr push|Sì|
+|AcrQuarantineReader|lettore di dati di quarantena acr|No|
+|AcrQuarantineWriter| writer di dati di quarantena acr|Sì|
+|Collaboratore servizio Gestione API|Può gestire il servizio e le API.|Sì|
+|Ruolo operatore del servizio Gestione API|Può gestire il servizio ma non le API.|Sì|
+|Ruolo lettura del servizio Gestione API|Consente l'accesso di sola lettura al servizio e alle API.|No|
+|Collaboratore componente di Application Insights|Gestisce i componenti di Application Insights|Sì|
+|Debugger di snapshot di Application Insights|Concede l'autorizzazione utente per visualizzare e scaricare gli snapshot di debug raccolti con Application Insights Snapshot Debugger. Si noti che queste autorizzazioni non sono incluse nei ruoli Proprietario e Collaboratore.|Sì|
 |

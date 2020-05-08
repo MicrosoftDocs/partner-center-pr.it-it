@@ -1,21 +1,22 @@
 ---
-title: Scenari di fatturazione comuni per le transazioni SaaS basate su licenze | Centro per i partner
+title: Transazioni SaaS basate su licenze di fatturazione
 ms.topic: article
-ms.date: 03/26/2020
+ms.date: 05/05/2020
 description: Informazioni sugli scenari di fatturazione comuni nel centro per i partner per le transazioni SaaS basate su licenze.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: fatturazione, pagamenti, acquisto monouso, acquisto ricorrente, sottoscrizioni, postazioni
 ms.localizationpriority: medium
-ms.openlocfilehash: 18565c3390559fafefd1f32dac85ff0d2310deb8
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 02a50f5be3c19f179014fd7db4e1418ba025e874
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798519"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908188"
 ---
-# <a name="billing-scenarios-for-license-based-saas-transactions"></a>Scenari di fatturazione per le transazioni SaaS basate su licenze
+# <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Scenari di fatturazione comuni per le transazioni SaaS basate su licenze nel centro per i partner
 
 **Ruoli appropriati**
 

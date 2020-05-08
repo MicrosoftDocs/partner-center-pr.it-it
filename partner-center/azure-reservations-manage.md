@@ -1,23 +1,23 @@
 ---
-title: Gestisci prenotazioni di Azure per conto dei tuoi clienti | Centro per i partner
+title: Gestisci prenotazioni di Azure per i clienti
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Informazioni su come gestire le prenotazioni di Azure per conto di un cliente, tra cui come annullare una prenotazione, scambiare una prenotazione o richiedere un rimborso.
+Description: Informazioni su come gestire le prenotazioni di Azure per un cliente, tra cui come annullare una prenotazione, scambiare una prenotazione o richiedere un rimborso.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, prenotazioni, gestione, fatturazione, acquisto, annullamento, scambio, tariffa per la terminazione anticipata
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 652eb468662892b3f2a98b636c4f8760fa3f021f
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7470f20956a7309b4a7ec4dcbb9f18a41761596d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205719"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908309"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gestire le prenotazioni di Microsoft Azure per conto dei clienti
+# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gestione, annullamento, scambio o rimborso Microsoft Azure prenotazioni per i clienti
 
 **Si applica a**
 

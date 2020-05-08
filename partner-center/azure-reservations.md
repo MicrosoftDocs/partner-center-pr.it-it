@@ -1,23 +1,23 @@
 ---
-title: Centro per i partner-panoramica sulle prenotazioni Microsoft Azure | Centro per i partner
+title: Vendere i clienti Microsoft Azure prenotazioni
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Scopri in che modo i provider di soluzioni cloud possono acquistare, vendere o gestire prenotazioni di Azure per i clienti che usano il centro per i partner, il portale di Azure o l'API del centro per i partner.
+Description: Come provider di soluzioni cloud, è possibile acquistare, vendere o gestire prenotazioni di Azure per i clienti. Usare il centro per i partner, il portale di Azure o l'API del centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, prenotazioni, gestione, fatturazione, acquisto, Azure RI, istanze riservate di Azure
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: eb103e3e3255dd899e72a6dc8496415c50438cbf
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 19c156f0b47ccb39bc678cdd2ae9cce9db5c5ebd
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205729"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908294"
 ---
-# <a name="partner-center---sell-microsoft-azure-reservations"></a>Centro per i partner - Vendere prenotazioni di Microsoft Azure
+# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Vendere Microsoft Azure prenotazioni ai clienti tramite il centro per i partner, l'portale di Azure o le API
 
 <!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 

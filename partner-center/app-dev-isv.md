@@ -1,7 +1,7 @@
 ---
-title: Esenzione dei requisiti per gli esami monouso per la competenza per lo sviluppo di applicazioni | Centro per i partner
+title: Esenzione per l'esame delle competenze per lo sviluppo di applicazioni
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Per i partner con una competenza ISV precedente, informazioni su come ottenere un'esenzione per i requisiti di esame monouso per la competenza di sviluppo delle applicazioni
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competenze, ISV, sviluppo di applicazioni
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c6346231baffa65270c0a3f5de261628271e620
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722345"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907479"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Esenzione dei requisiti per gli esami monouso per la competenza di sviluppo delle applicazioni
 
@@ -37,18 +38,18 @@ Partner con una competenza per lo sviluppo di applicazioni raggiunta tramite il 
 
 - **Se si dispone di un elenco di Microsoft Commercial Marketplace**, l'esenzione dei requisiti per gli esami monouso sarà disponibile al momento del rinnovo della competenza. A questo punto, avrai a disposizione 30 giorni per sfruttare i vantaggi offerti dall'offerta.
 
-- **Se non si dispone di un elenco di [Microsoft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/)** , pubblicare la soluzione entro il 2020 febbraio per essere idonea per l'esenzione per i requisiti di esame monouso.
+- **Se non si dispone di un elenco di [Microsoft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) **, pubblicare la soluzione entro il 2020 febbraio per essere idonea per l'esenzione per i requisiti di esame monouso.
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>Come sfruttare i vantaggi dell'offerta
 
-1. Dal menu centro per i partner del dashboard, selezionare **competenze**.
+1. Dal menu del Centro per i partner nel tuo dashboard seleziona **Competenze**.
 2. Nell'elenco delle competenze disponibili, lo sviluppo di applicazioni è contrassegnato come **completato**.
 
-![da ISV a AppDev](images/appdev.png)
+![Da ISV a AppDev](images/appdev.png)
 
 3. Selezionare **sviluppo applicazione**. Si noterà che è stata fornita una sostituzione che esenta l'azienda dalla conformità ai requisiti dell'esame. 
 
-4. Per sfruttare i vantaggi di questa offerta, passare a **Offerte per l'appartenenza**. Potrebbe essere necessario pagare la tariffa di competenza per completare il processo a seconda dello stato di acquisto o rinnovo della competenza. 
+4. Per sfruttare i vantaggi di questa offerta, passa a **Offerte di iscrizione**. Potrebbe essere necessario pagare la tariffa di competenza per completare il processo a seconda dello stato di acquisto o rinnovo della competenza. 
 
 Questa offerta è disponibile tramite il centro per i partner.
 

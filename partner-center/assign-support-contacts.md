@@ -1,24 +1,24 @@
 ---
-title: Assegnare i contatti di supporto | Centro per i partner
+title: Assegnare contatti di supporto per i clienti
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri come assegnare un rivenditore come contatto tecnico per i clienti con sottoscrizioni ai servizi Microsoft.
+description: Scopri come assegnare un rivenditore come contatto tecnico per i clienti che dispongono di sottoscrizioni ai servizi Microsoft.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
 ms.author: labrenne
-keywords: agente per il supporto, supporto, assegnare il contatto del supporto tecnico, contatto del supporto tecnico designato
+keywords: agente della guida, supporto tecnico, assegnazione contatto supporto tecnico designato
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0c27f0919d9ed14c91764677465db4945b680cc8
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722396"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907475"
 ---
-# <a name="assign-support-contacts"></a>Assegnare i contatti del supporto tecnico
+# <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Assegnare un rivenditore come contatto per il supporto tecnico per i clienti
 
 **Si applica a**
 
@@ -28,32 +28,32 @@ ms.locfileid: "74722396"
 
 - Agente amministratore
 - Amministratore globale
-- Agente help desk
+- Agente di supporto tecnico
 - Agente di vendita
 - Amministratore gestione utenti
 
-Quando configuri le sottoscrizioni per i servizi Microsoft per i clienti, puoi scegliere di assegnare il supporto tecnico di questi prodotti a un rivenditore designato, anziché fornirlo tu direttamente.
+Quando si configurano le sottoscrizioni per i servizi Microsoft per i clienti, è consigliabile assegnare il supporto tecnico per questi prodotti a un rivenditore designato, anziché fornire il supporto autonomo.
 
-Una volta configurati i contatti di supporto, i clienti vedono le informazioni dei contatti di supporto assegnati nelle pagine di supporto dei prodotti. Ad esempio, quando gli utenti di Office 365 necessitano di supporto, possono visitare la pagina Office.com, accedere con le credenziali di amministratore, selezionare il riquadro **Amministratore** e nella sezione **Supporto** vedere le informazioni sul contatto di supporto assegnato.
+Dopo aver configurato i contatti di supporto, i clienti visualizzano le informazioni relative al contatto di supporto assegnato nelle pagine del supporto tecnico. Ad esempio, quando i clienti di Office 365 necessitano del supporto, possono accedere alla pagina Office.com, accedere con le credenziali di amministratore, selezionare il riquadro **amministratore** e, nella sezione **Support (supporto** ), vedere le informazioni di contatto per il supporto assegnato.
 
-Questa funzionalità può essere utilizzata per gli scenari [multipartner](multipartner.md) e [multicanale](multichannel.md). 
+Questa funzionalità può essere utilizzata per scenari con più [partner](multipartner.md) e più [canali](multichannel.md) . 
 
 <a href="" id="assigncontacts"></a>
-## <a name="assign-contacts"></a>Assegnare i contatti
+## <a name="assign-contacts"></a>Assegna contatti
 
-1.  Per iniziare, [richiedi una relazione](request-a-relationship-with-a-customer.md) con il rivenditore di prodotti designato. Negozia un contratto di supporto per la gestione del supporto tecnico.
+1.  Per iniziare, [richiedere una relazione](request-a-relationship-with-a-customer.md) con il rivenditore del prodotto designato. Negoziare un contratto di supporto per la gestione del supporto tecnico.
 
-2.  Dal menu **centro** per i partner selezionare **Customers**, quindi selezionare un cliente, quindi selezionare una sottoscrizione, ad esempio Office 365 Business Premium.
+2.  Dal menu **centro** per i partner selezionare **Customers**, quindi selezionare un cliente, quindi selezionare una sottoscrizione, ad esempio Office 365 business standard.
 
-3.  In **Designated support contact** seleziona il rivenditore di prodotti designato e quindi fai clic su **Invia**. 
+3.  In **contatto del supporto designato**selezionare il rivenditore del prodotto designato e quindi fare clic su **Invia**. 
 
     Note: 
     
-    *  Per le nuove sottoscrizioni, il contatto di supporto designato predefinito è il provider indiretto. Puoi modificare questa impostazione assegnando un rivenditore indiretto munito di privilegi di amministratore di delega (DAP).
+    *  Per le nuove sottoscrizioni, per impostazione predefinita il contatto del supporto designato è il provider indiretto. È anche possibile modificare questo valore in un rivenditore indiretto con privilegi amministrativi di delega.
     
-    *  Se il nome del rivenditore non compare nell'elenco dei contatti di supporto disponibili, aggiungilo [inviando la richiesta di una relazione](request-a-relationship-with-a-customer.md). Una volta stabilita la relazione, il nome apparirà nell'elenco.  
+    *  Se il nome del rivenditore non viene visualizzato nell'elenco dei contatti di supporto disponibili, aggiungerli in [richiedendo una relazione](request-a-relationship-with-a-customer.md). Una volta stabilita la relazione, queste devono essere visualizzate nell'elenco.  
 
-4.  Verifica la correttezza delle modifiche e quindi seleziona **Chiudi**.
+4.  Verificare che le modifiche siano corrette, quindi selezionare **Chiudi**.
 
 ## <a name="related-topics"></a>Argomenti correlati
 

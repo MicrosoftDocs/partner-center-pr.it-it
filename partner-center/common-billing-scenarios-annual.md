@@ -1,21 +1,22 @@
 ---
-title: Scenari di fatturazione comuni | Centro per i partner
+title: Scenari di fatturazione annuali comuni
 ms.topic: article
-ms.date: 11/25/2019
-description: 'Vedere fatturazione annuale del centro partner: quando si aggiungono nuove sottoscrizioni, aggiungere le licenze prima della data di fatturazione, modificare la quantità di licenze, sospendere/riattivare le sottoscrizioni.'
+ms.date: 05/05/2020
+description: 'Fatturazione annuale del centro partner: quando si aggiungono nuove sottoscrizioni, aggiungere le licenze prima della data di fatturazione, modificare la quantità di licenze o sospendere/riattivare le sottoscrizioni.'
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: fatturazione, pagamenti, ordini, utilizzo, fatturazione basata su licenza, data anniversario, termine, annullamento, rinnovo, formula prezzo, file di riconciliazione, file di ricognizione
 ms.localizationpriority: medium
-ms.openlocfilehash: cbe34dd96c1b119293b73f9324e50340aafb4032
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9a0fe9a8bfc381be00bba765c74874ea552d7482
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798549"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908212"
 ---
-# <a name="annual-billing-scenarios"></a>Scenari di fatturazione annuali
+# <a name="common-annual-billing-scenarios-in-partner-center"></a>Scenari comuni di fatturazione annuali nel centro per i partner
 
 **Ruoli appropriati**
 

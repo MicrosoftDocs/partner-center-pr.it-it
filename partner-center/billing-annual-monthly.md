@@ -1,20 +1,22 @@
 ---
-title: Differenze di fatturazione mensili e annuali | Centro per i partner
+title: Differenze tra fatturazione mensile e annuale
 ms.topic: article
-ms.date: 11/25/2019
-Description: Informazioni sulle differenze tra i cicli di fatturazione mensili e annuali nel centro per i partner.
+ms.date: 05/06/2020
+Description: Scopri come la fatturazione mensile e annuale differisce dal centro per i partner. Viene inoltre illustrato come passare tra diversi tipi di fatturazione e le implicazioni del cambio.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 09e651638e50afeef3d43dd9c35c11998ba904ca
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798599"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908250"
 ---
-# <a name="monthly-and-annual-billing-differences"></a>Differenze tra fatturazione mensile e annuale
+# <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Comprendere la differenza tra fatturazione mensile e annuale nel centro per i partner
+
 
 **Si applica a**
 

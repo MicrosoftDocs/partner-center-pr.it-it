@@ -1,22 +1,23 @@
 ---
-title: Account dei clienti | Centro per i partner
+title: Visualizzare e gestire gli account dei clienti
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Trova le risorse per i partner rivenditori nel centro per i partner. Ciò include la necessità di creare account cliente prima di vendere sottoscrizioni, fatturare o offrire supporto.
+Description: Trova le risorse per i partner rivenditori nel centro per i partner. Ciò include la creazione di account cliente prima di vendere sottoscrizioni, fatturare o offrire supporto.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1090aab2c9678149dba8ab051e6e49f0f5c42a
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 217685e3bf3941825470abddce7f5f84634f7ade
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205769"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907939"
 ---
-# <a name="customer-accounts"></a>Account dei clienti
+# <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>Configurazione e gestione degli account cliente per i partner rivenditori nel centro per i partner
 
 **Si applica a**
 

@@ -1,7 +1,7 @@
 ---
-title: Notifica del centro per i partner per l'attività di crittografia di data mining | Centro per i partner
+title: Notifica per l'attività di data mining
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su ciò che significa quando viene visualizzata una notifica relativa al potenziale data mining criptovalute (o Crypto mining) in una o più sottoscrizioni di Azure.
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: Crypto-mining, criptovalute mining, sicurezza
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 35cdb08c2c673e2c7bd0e8ebb8e22f5671eef186
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 68ee138b6c87dde53eda026d7fef371e2e440344
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722308"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908392"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notifica del centro partner per l'attività di data mining criptovalute
 
@@ -28,39 +29,39 @@ ms.locfileid: "74722308"
  
 ![Immagine della notifica di sicurezza nel centro per i partner](images/crypto1.png)
 
-Lo scopo di questa notifica è informarti che abbiamo rilevato attività di mining di criptovaluta su una o più delle tue sottoscrizioni di Azure la scorsa settimana. Il mining di criptovaluta non equivale necessariamente a un'attività fraudolenta. Tuttavia, è insolito perché il costo del mining di criptovaluta in Azure tende a essere superiore a qualsiasi potenziale riconoscimento finanziario. Per evitare frodi finanziarie che potrebbero avere un impatto sul cliente, prendi in considerazione le seguenti operazioni:
+Lo scopo di questa notifica è informare che è stata rilevata la criptovalute mining in una o più sottoscrizioni di Azure nell'ultima settimana. Criptovalute mining non è necessariamente uguale all'attività fraudolenta. Tuttavia, è insolito perché il costo di esecuzione di criptovalute mining in Azure tende a superare i potenziali premi finanziari. Per la protezione da frodi finanziarie che potrebbero influisca sull'utente o sul cliente, tenere presente i passaggi seguenti:
 
-1.  Verifica e conferma che l'account del cliente abbia una buona reputazione. Puoi accedere alla sottoscrizione direttamente facendo clic sulla notifica.
+1.  Verificare e verificare che l'account del cliente sia in grado di essere valido. È possibile accedere direttamente alla sottoscrizione facendo clic sulla notifica.
 
-2.  Esamina i modelli di utilizzo di Azure per la sottoscrizione. Picchi improvvisi possono essere segno di attività imprevista.
+2.  Esaminare i modelli di utilizzo di Azure per la sottoscrizione. I picchi improvvisi possono suggerire attività impreviste.
 
-3.  Contatta il cliente per verificare che l'attività in corso sia prevista.
+3.  Contattare il cliente per verificare che l'attività sia prevista.
 
-Se l'attività è prevista, torna alla pagina dei dettagli della sottoscrizione di Azure del cliente e verifica che il mining di criptovaluta sia legittimo. 
+Se è prevista l'attività, tornare alla pagina dei dettagli della sottoscrizione di Azure del cliente e verificare che il criptovalute mining sia legittimo. 
 
 
 ![Immagine della pagina dei dettagli della sottoscrizione di Azure del cliente](images/crypto2.png)
 
-Se l'attività è imprevista, prendi in considerazione quanto segue:
+Se l'attività è imprevista, tenere presente quanto segue:
 
-1.  Verifica che le risorse di Azure per il mining di criptovaluta non siano necessarie ed eliminale per evitare ulteriori costi di Azure.
+1.  Verificare che le risorse di Azure per il data mining criptovalute non siano necessarie ed eliminarle per evitare ulteriori addebiti per Azure.
 
-2.  Scopri come sono state create le risorse. Per farlo, potrebbe essere necessario esaminare i log di gestione delle risorse di Azure alla ricerca di attività di provisioning delle risorse.
+2.  Comprendere il modo in cui le risorse sono state create in precedenza. Potrebbe essere necessario esaminare i log di Azure Resource Manager per le attività di provisioning delle risorse.
 
 3.  Se è necessario scoprire chi ha creato la sottoscrizione, esaminare i log attività del centro per i partner.
 
-Il rilevamento delle attività di mining di criptovaluta si basa sull'euristica e potrebbe non essere accurato al 100%. Assicurati di disporre di sistemi di governance e monitoraggio per la protezione contro attività fraudolente o altre attività non consentite. Per ulteriori informazioni, vedi [Insoluti, frodi o uso improprio](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
+Il rilevamento delle attività di data mining criptovalute è basato su euristica e non può essere accurato al 100%. Assicurarsi di disporre di sistemi di governance e monitoraggio sul posto per proteggersi da attività fraudolente o da altre attività non consentite. Per ulteriori informazioni, vedere [non pagamento, frode o utilizzo improprio](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
 
-Se hai domande o dubbi sulla notifica, puoi utilizzare la seguente procedura per aprire una richiesta di supporto.
+In caso di domande o dubbi sulla notifica, è possibile utilizzare la procedura seguente per aprire una richiesta di supporto.
 
 1.  Nel centro per i partner selezionare **supporto** e quindi selezionare **le richieste del centro**per i partner.
-3.  Seleziona **Nuova richiesta**. 
-4.  Nel menu a discesa **Tipo di problemi** seleziona la voce per l'**aggiunta o gestione dei clienti**.
-5.  Nel menu a discesa **Impatto** seleziona **Moderato**.
-6.  Nel campo **Titolo** immetti **Notifica di cryptomining**.
-7.  Nel campo **Descrizione** immetti il nome della sottoscrizione interessata insieme ad altre domande o dubbi. 
-8.  Immetti le tue informazioni di contatto.
-9.  Seleziona **Invia**.
+3.  Selezionare **nuova richiesta**. 
+4.  Nel menu a discesa **tipo di problemi** selezionare **aggiunta o gestione clienti**.
+5.  Nel menu a discesa **Impact** selezionare **moderata**.
+6.  Nel campo **titolo** , immettere **notifica di data mining**.
+7.  Nel campo **Descrizione** immettere il nome della sottoscrizione interessata insieme ad altre domande o problemi. 
+8.  Immettere le informazioni di contatto.
+9.  Selezionare **Submit** (Invia).
 
 
 

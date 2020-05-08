@@ -1,24 +1,25 @@
 ---
-title: Prenotazioni di Azure e sottoscrizioni server | Centro per i partner
+title: Prenotazioni di Azure & sottoscrizioni server
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sulle opportunità per i provider di soluzioni cloud per acquisire, effettuare il provisioning e gestire le prenotazioni di Azure e le sottoscrizioni server per i clienti.
+description: Informazioni sulle opportunità del provider di soluzioni cloud per acquisire, effettuare il provisioning e gestire le prenotazioni di Azure e le sottoscrizioni server per i clienti.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, sottoscrizioni, VM, prenotazione, istanza riservata
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b3d83a63e6c0a2fd72541f409ed22c598b1538e
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d308c3e0e347e8d1c7975ba3c8cbabb88faf9bf8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205739"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908284"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
-# <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Istanze di VM riservate di Azure + sottoscrizioni server per Azure
+# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Acquisire, effettuare il provisioning, & gestire le istanze di VM riservate di Azure e le sottoscrizioni server per i clienti
 
 Si applica a:
 
@@ -84,7 +85,7 @@ Con una combinazione non corrispondente di prezzi interessanti e flessibilità d
 
 - Soluzione Azure VMware di CloudSimple
 
-## <a name="getting-started"></a>Introduzione
+## <a name="getting-started"></a>Guida introduttiva
 
 Per comprendere come è possibile posizionare le prenotazioni di Azure con i clienti e iniziare a usare il più rapidamente possibile, è consigliabile adottare l'approccio seguente per esaminare i materiali di conformità:
 

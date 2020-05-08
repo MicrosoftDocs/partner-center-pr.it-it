@@ -1,7 +1,7 @@
 ---
-title: Vendere software locale tramite CSP | Centro per i partner
+title: Vendere software locale tramite CSP
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono acquistare, gestire, vendere e annullare le sottoscrizioni software locali per conto dei clienti nel centro per i partner.
@@ -10,14 +10,15 @@ ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, partner diretto, partner CSP diretto, rivenditore CSP indiretto, CSP diretto, CSP indiretto, modello diretto, modello indiretto, rivenditore indiretto, provider indiretto, provider, server di distribuzione, programma Cloud Solution Provider
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b8d064a3e2f2d8d0a24dcd6a47b75746acbe6656
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b808397f21aa912284be9ad8b4df1dc4f642fe55
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798439"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908036"
 ---
-# <a name="sell-on-premise-software-through-csp"></a>Vendere software locale tramite CSP
+# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Vendere software locale tramite il programma Cloud Solution Provider (CSP)
 
 **Ruoli appropriati**
 

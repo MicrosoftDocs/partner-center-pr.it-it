@@ -1,7 +1,7 @@
 ---
 title: Consolidamento dei tenant per l'autorizzazione regionale per CSP
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche diversi. Sono inclusi i passaggi per eseguire la migrazione degli account cliente e delle sottoscrizioni dei clienti.
@@ -11,14 +11,15 @@ ms.author: labrenne
 keywords: migrare i clienti, il provisioning, l'account tenant, il consolidamento dei tenant
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 5f52abb4d85122a7a33300f126e25d9349c7712f
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 813d24c12501edc7b633d3e10b5174d02ed881d1
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798449"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907994"
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidamento dei tenant per l'autorizzazione regionale per CSP
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Istruzioni per il consolidamento dei tenant di autorizzazione regionale CSP
 
 **Si applica a**
 
@@ -99,8 +100,6 @@ La disabilitazione della sottoscrizione CSP negli account partner di **origine d
 
  >[! **Nota**] La sospensione della sottoscrizione garantisce che non si verifichi la doppia fatturazione.
 
-
-
 ~~~
 The Subscription shows **suspended** on the subscriptions list.
 ~~~
@@ -111,8 +110,7 @@ The Subscription shows **suspended** on the subscriptions list.
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migrazione di sottoscrizioni in base all'uso di Azure
 
-
-Nota che non è necessario eseguire manualmente la migrazione delle sottoscrizioni CSP in base all'uso di Azure come nel caso delle sottoscrizioni CSP di Office 365. Il supporto tecnico di Microsoft Azure può eseguire la migrazione delle sottoscrizioni di Azure e di tutti i servizi o le risorse distribuiti dagli account rivenditore CSP di **origine della transizione** all'account rivenditore CSP di **destinazione della transizione**. Non ci saranno interruzioni del servizio per il cliente durante la transizione.
+Azure, le sottoscrizioni CSP basate sull'utilizzo non devono essere migrate manualmente come nel caso delle sottoscrizioni di Office 365 CSP. Il supporto tecnico di Microsoft Azure può eseguire la migrazione delle sottoscrizioni di Azure e di tutti i servizi o le risorse distribuiti dagli account rivenditore CSP di **origine della transizione** all'account rivenditore CSP di **destinazione della transizione**. Non ci saranno interruzioni del servizio per il cliente durante la transizione.
 
 1.  Assicurati che gli account dei clienti per i quali deve essere eseguita la migrazione delle sottoscrizioni di Azure abbiano accettato il contratto da associare al nuovo account CSP di **destinazione della transizione**.
 2.  I partner notificano a Microsoft quali account cliente che dispongono di sottoscrizioni di Azure sono pronti per la migrazione e forniscono i nomi delle società dei clienti.
@@ -128,13 +126,13 @@ Nota che non è necessario eseguire manualmente la migrazione delle sottoscrizio
 
 ### <a name="notes"></a>Note
 
--   La disabilitazione della sottoscrizione dalla **transizione dall'** account CSP non influisca sul servizio del cliente finale purché sia stato effettuato il provisioning del servizio dall'account **di transizione a** CSP prima della disabilitazione.
+-   La disabilitazione della sottoscrizione dalla **transizione dall'** account CSP non influisca sul servizio del cliente finale purché sia stato effettuato il provisioning del servizio dall'account **di transizione a** CSP prima di disabilitare la sottoscrizione.
 
--   Le sottoscrizioni non possono essere usate dal cliente e non generano addebiti in caso di sospensione o annullamento.
+-   Le sottoscrizioni non possono essere utilizzate dal cliente e non generano addebiti quando vengono sospese o annullate.
 
 -   Non esiste attualmente alcun modo per rimuovere completamente un cliente dall'elenco Clienti.
 
--   **Nota**  I partner devono sospendere le sottoscrizioni per la **transizione dall'** account del tenant partner nel centro per i partner nello stesso giorno in cui tali sottoscrizioni vengono sottoposte a transizione e configurate in base all'account del tenant partner nel centro per i partner per garantire che non si **verifichi la doppia** fatturazione. Microsoft non supporterà le richieste di accrediti causate da eventuali sovrapposizioni nella fatturazione dovute alla mancata sospensione delle sottoscrizioni nell'**origine della transizione**.
+-   **Nota**  I partner devono sospendere le sottoscrizioni per la **transizione dall'** account del tenant partner nel centro per i partner nello stesso giorno in cui tali sottoscrizioni vengono sottoposte a transizione e configurate in base all'account del tenant partner nel centro per i partner per garantire che non si **verifichi la doppia** fatturazione. Microsoft non supporterà le richieste di crediti dovute a eventuali sovrapposizioni nella fatturazione che si verificano se non si imposta correttamente la **transizione dalle** sottoscrizioni a sospesa.
 
 
 

@@ -1,22 +1,23 @@
 ---
-title: Creare un invito alla versione di valutazione | Centro per i partner
+title: Creare un invito alla versione di valutazione di Office 365
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: Advisor può creare un invito alla versione di valutazione nel centro per i partner
-author: XiaLi
-ms.author: v-xili35
+description: Scopri in che modo i partner possono creare e inviare inviti alla versione di valutazione per i loro clienti per provare a usare Office 365. I partner sono in gran parte un Advisor autorizzato per le sottoscrizioni.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, versione di valutazione
-ms.openlocfilehash: 5b8e563a8ab8bee27bdc87aa0ba756f542a1ddf7
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ab1b889e7ad71d19e6b7358c9ccb80aa78ed9f38
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137246"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907444"
 ---
-# <a name="advisors-create-a-trial-invitation"></a>Advisor: creare un invito alla versione di valutazione
+# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Advisor: creare e inviare un invito alla versione di valutazione per i client per provare a usare Office 365
 
 > [!NOTE]
 > Questa funzionalità è disponibile solo per i partner Microsoft che sono Advisor autorizzati per le sottoscrizioni. 
@@ -27,7 +28,7 @@ Se si è autorizzati a offrire l'amministrazione delegata, è possibile aggiunge
 
 ## <a name="to-create-a-trial-invitation"></a>Per creare un invito alla versione di valutazione
 
-1. Passare a **versioni di valutazione e offerte di acquisto** > **creare inviti**.
+1. Passa a **versioni di valutazione e acquista offerte** > per la**creazione di inviti**.
 
 2. Nella pagina **Crea invito alla versione di valutazione** selezionare le opzioni dell'invito alla versione di valutazione che si desidera includere:
 
@@ -36,7 +37,7 @@ Se si è autorizzati a offrire l'amministrazione delegata, è possibile aggiunge
         Per aggiungere sedi degli uffici partner, vedere [aggiungere un percorso](manage-locations.md). Le nuove posizioni dell'ufficio possono richiedere fino a 24 ore dopo che sono state create per essere visualizzate nell'elenco degli uffici partner.
 
     - **Località di utilizzo**: scegliere il percorso in cui il client utilizzerà i servizi.
-    - **Sottoscrizioni di valutazione**: l'elenco delle sottoscrizioni di valutazione che è possibile scegliere è determinato dalla località di utilizzo del paese o dell'area geografica del client.
+    - **Sottoscrizioni di valutazione**: l'elenco delle sottoscrizioni di valutazione che è possibile scegliere è determinato dalla località di utilizzo del paese o della regione del client.
     - **Amministrazione delegata**: questa opzione è disponibile solo per i partner certificati per offrire l'amministrazione delegata. Scegliere questa opzione se si desidera offrire l'amministrazione delegata del client. In tal caso, il client può accettare l'invito alla versione di valutazione con o senza l'accettazione dell'amministrazione delegata. Per ulteriori informazioni sull'amministrazione delegata, vedere l' [offerta amministrazione delegata](customers_revoke_admin_privileges.md).
 
 3. Fare clic su **Avanti**.

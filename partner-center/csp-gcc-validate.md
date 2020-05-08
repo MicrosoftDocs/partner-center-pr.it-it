@@ -1,26 +1,27 @@
 ---
-title: Partner GCC di Office 365 Government e criteri di idoneità per i clienti | Centro per i partner
+title: Criteri di idoneità per clienti e partner di Office 365 Government GCC
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vengono illustrati i passaggi per la fatturazione diretta dei partner (rivenditori diretti, provider indiretti) per convalidare i partner e i clienti per Office 365 Government GCC per CSP.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 31923fa47083392a2621ae4d0f73ff94dccf9778
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d598db3760c54c1be5b37501d04f373231b2e4da
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798469"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908053"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC per il partner CSP e i criteri di idoneità dei clienti
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 Government GCC per il partner CSP e i criteri di idoneità dei clienti-centro per i partner
 
 **Si applica a**
 
--  Centro per i partner
--  Partner CSP
+- Centro per i partner
+- Partner CSP
 
 **Ruoli appropriati**
 
@@ -31,7 +32,7 @@ ms.locfileid: "82798469"
 >[!NOTE]
 >Il processo e i criteri di convalida descritti di seguito sono specifici per i partner Direct fattura. I partner Direct Bill includono rivenditori diretti e provider indiretti.  Se si è un rivenditore indiretto, collaborare con il provider indiretto.
 
-Se si desidera che l'organizzazione o l'organizzazione dei clienti sia approvata per Office 365 Government GCC per CSP, verificare i requisiti indicati di seguito.
+Se si è interessati alla presenza dell'organizzazione (o dell'organizzazione del cliente) approvata per Office 365 Government GCC per CSP, esaminare i requisiti seguenti.
 
 È possibile approvare se si è un partner che usa enti governativi federali, statali, locali o tribali. Per fare in modo che l'idoneità alle organizzazioni venga convalidata, completare il breve modulo disponibile [qui](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 

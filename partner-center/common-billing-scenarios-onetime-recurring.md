@@ -1,21 +1,22 @@
 ---
-title: Scenari di fatturazione comuni per una sola volta e selezionare gli acquisti ricorrenti | Centro per i partner
+title: Fatturazione per una sola volta & acquisti ricorrenti
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/05/2020
 description: 'Vedere gli esempi di fatturazione per il centro per i partner per una sola volta e selezionare gli acquisti ricorrenti: quando si acquistano sottoscrizioni, aggiungere altre sottoscrizioni, aggiungere o rimuovere postazioni.'
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: fatturazione, pagamenti, acquisto monouso, acquisto ricorrente, sottoscrizioni, postazioni
 ms.localizationpriority: medium
-ms.openlocfilehash: 7614721d4b10656681c177996f9b2cc3addd85f4
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2c3467fdbe8457a7068a49000bd635b7c464cf29
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798529"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908198"
 ---
-# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>Scenari di fatturazione monouso e selezionati per gli acquisti ricorrenti
+# <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Scenari di fatturazione per il centro per i partner per una sola volta e selezionare gli acquisti ricorrenti
 
 **Ruoli appropriati**
 

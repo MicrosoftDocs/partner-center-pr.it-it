@@ -1,26 +1,27 @@
 ---
-title: Fatturazione per prodotti Marketplace commerciali | Centro per i partner
+title: Fatturazione per prodotti Marketplace commerciali
 ms.topic: article
-ms.date: 02/28/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sul funzionamento della fatturazione per i prodotti SaaS ISV o per le sottoscrizioni acquistate per i clienti dal Marketplace commerciale all'interno del centro per i partner.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: sottoscrizioni, prodotti, acquisti, Marketplace, terze parti, ISV, fatturazione, fatture, riconciliazione, file di ricognizione
 ms.localizationpriority: medium
-ms.openlocfilehash: 35db6e9e1fbdfe5e455e5b4e73e39b76cad496aa
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4ee8b7850708d5e04f07ab41965b4c4659b377ba
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240198"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908120"
 ---
-# <a name="billing-for-commercial-marketplace-products"></a>Fatturazione per prodotti Marketplace commerciali
+# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Fatturazione per prodotti e sottoscrizioni in Marketplace commerciali nel centro per i partner
 
 **Si applica a**
 
-- Partner Center
+- Centro per i partner
 - Partner aderenti al programma CSP
 
 **Ruoli appropriati**
@@ -70,7 +71,7 @@ Quando si selezionano gli **acquisti ricorrenti e** monouso dall'opzione di **fa
 
 - Sottoscrizioni SaaS (da autori Microsoft o ISV)
 
-- piano di Azure
+- Piano di Azure
 
 - Prenotazioni di Azure
 

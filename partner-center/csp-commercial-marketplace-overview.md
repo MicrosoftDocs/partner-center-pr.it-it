@@ -1,22 +1,23 @@
 ---
-title: Panoramica sul Marketplace commerciale per i provider di soluzioni cloud | Centro per i partner
+title: Panoramica-CSP Marketplace
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Nel centro per i partner, Scopri come vendere le sottoscrizioni dei clienti alle offerte SaaS (software as a Service) di fornitori di software indipendenti (ISV) nel Marketplace.
-author: MicheleHope
-ms.author: v-mihope
+description: Informazioni su come vendere le sottoscrizioni dei clienti alle offerte SaaS (software as a Service) di fornitori di software indipendenti (ISV) nel Marketplace.
+author: LauraBrenner
+ms.author: labrenne
 keywords: sottoscrizioni, Marketplace, terze parti, ISV, SaaS, licenza
 ms.localizationpriority: medium
-ms.openlocfilehash: ee1b32028cb24e20675aa0520837af0c1c72b8a5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253789"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908087"
 ---
-# <a name="commercial-marketplace-overview"></a>Panoramica sul Marketplace commerciale
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Panoramica del Marketplace commerciale nel centro per i partner
 
 **Si applica a**
 
@@ -41,7 +42,7 @@ Se si è un partner del programma CSP, è possibile che si desideri eseguire num
 |:------------------------------------|:------------------|
 |Scopri come visualizzare o cercare offerte disponibili, prezzi, dettagli sul prodotto o informazioni di contatto dell'editore | [Scopri le offerte](csp-commercial-marketplace-discover.md) | 
 |Informazioni su come acquistare e distribuire un'offerta   | [Offerte di acquisto](csp-commercial-marketplace-purchase.md)   | 
-|Informazioni su come annullare o rinnovare una sottoscrizione o aggiungere o rimuovere postazioni  | [Gestisci offerte](csp-commercial-marketplace-manage.md) |
+|Informazioni su come annullare o rinnovare una sottoscrizione o aggiungere o rimuovere postazioni  | [Gestire le offerte](csp-commercial-marketplace-manage.md) |
 |Informazioni sul funzionamento della fatturazione per gli acquisti nel Marketplace commerciale | [Informazioni sulla fatturazione](csp-commercial-marketplace-billing.md) |
 |Informazioni sugli utenti responsabili dei tipi di supporto per gli acquisti ISV | [Informazioni sul supporto](csp-commercial-marketplace-support.md) |
 |Informazioni sui contratti e sulle responsabilità dei partner CSP e degli ISV nel Marketplace commerciale | [Informazioni sul contratto](csp-commercial-marketplace-contracting.md) |

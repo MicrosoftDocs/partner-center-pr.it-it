@@ -1,22 +1,23 @@
 ---
-title: Supporto per prodotti Marketplace commerciali | Centro per i partner
+title: Supporto per prodotti del Marketplace commerciale
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sul funzionamento del supporto per i prodotti ISV di terze parti o le sottoscrizioni acquistate dal Marketplace commerciale dai partner del programma CSP.
-author: MicheleHope
-ms.author: v-mihope
+description: Informazioni sul supporto per prodotti o sottoscrizioni ISV di terze parti nel Marketplace commerciale del programma CSP.
+author: LauraBrenner
+ms.author: labrenne
 keywords: sottoscrizioni, prodotti, Marketplace, terze parti, ISV, Publisher, supporto tecnico, CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 74f1abced9f4d576cc53b73bd8c30e454f9ad2d9
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 48ea03ae955e276b48e646718a105855120e0577
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253729"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908067"
 ---
-# <a name="support-for-commercial-marketplace-products"></a>Supporto per prodotti del Marketplace commerciale
+# <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>Supporto per prodotti Marketplace commerciali nel programma CSP
 
 **Si applica a**
 
@@ -28,7 +29,7 @@ ms.locfileid: "74253729"
 - Amministratore globale
 - Agente amministratore
 
-Analogamente ai prodotti Microsoft, i partner del programma CSP rappresentano il primo punto di contatto per le domande dei clienti sulla gestione della fatturazione e delle sottoscrizioni per qualsiasi sottoscrizione o prodotto ISV di terze parti acquistato per i clienti dal Marketplace commerciale.
+I partner del programma CSP rappresentano il primo punto di contatto per le domande relative alla fatturazione dei clienti o alla gestione delle sottoscrizioni relative a qualsiasi sottoscrizione ISV di terze parti o al prodotto acquistato per i clienti del Marketplace commerciale.
 
 Per domande di supporto tecnico sui prodotti Marketplace commerciali di editori ISV di terze parti, i partner del programma CSP devono contattare l'editore ISV del prodotto o dell'offerta.
 
@@ -36,9 +37,9 @@ Per domande di supporto tecnico sui prodotti Marketplace commerciali di editori 
 
 Per offerte di Marketplace commerciali o acquisti di prodotti o offerte ISV di terze parti:
 
-- **Ruolo di supporto dell'editore ISV:** Gli ISV forniscono supporto tecnico e impegno a livello di servizio per i clienti in merito alla propria offerta, come definito nel contratto del cliente di terze parti. I fornitori di software indipendenti devono fornire un modo ai partner del programma CSP e/o ai loro clienti di contattare direttamente l'ISV per il supporto, incluso il supporto per gli utenti e il supporto per la correzione delle interruzioni. Si prevede che gli ISV forniscano i partner del programma CSP con la documentazione degli utenti, le notifiche di formazione e integrità dei servizi/interruzioni (come applicabile), in modo che i partner siano in grado di coordinare il supporto (se i partner del programma CSP scelgono di fornire tale servizio ai clienti).
+- **Ruolo di supporto dell'editore ISV:** Gli ISV forniscono supporto tecnico e impegno a livello di servizio per i clienti in merito alla propria offerta, come definito nel contratto per i clienti di terze parti. I fornitori di software indipendenti devono fornire un modo ai partner del programma CSP e/o ai loro clienti di contattare direttamente l'ISV per il supporto, incluso il supporto per gli utenti e il supporto per la correzione delle interruzioni. Si prevede che gli ISV forniscano ai partner del programma CSP le notifiche relative a documentazione, formazione e integrità dei servizi (come applicabile), in modo che i partner siano in grado di coordinare il supporto (se i partner del programma CSP scelgono di fornire tale servizio ai clienti).
 
-- **Ruolo di supporto del partner nel programma CSP:** Il partner del programma CSP è responsabile di tutti gli altri tipi di supporto per le offerte ISV di terze parti. Questo include il supporto per le domande di fatturazione dei clienti, la configurazione e il pagamento dell'account. Il partner del programma CSP può scegliere di indirizzare le query di supporto tecnico dei clienti ai contatti di supporto forniti dall'editore ISV.
+- **Ruolo di supporto del partner nel programma CSP:** Il partner del programma CSP è responsabile di tutti gli altri tipi di supporto per le offerte ISV di terze parti. Questo supporto può essere correlato alle domande di fatturazione dei clienti, alla configurazione dell'account e al pagamento. Il partner del programma CSP può scegliere di indirizzare le query di supporto tecnico dei clienti ai contatti di supporto forniti dall'editore ISV.
 
 - **Ruolo di supporto di Microsoft:** Microsoft fornisce supporto per l'editore ISV di terze parti e per il partner nel programma CSP relativo alla funzionalità Microsoft Commerce System. Ciò significa che Microsoft sarà responsabile del supporto di determinate attività da parte del partner nelle attività del partner del programma CSP e dell'ISV che si verificano all'interno del sistema Microsoft Commerce, ad esempio il caricamento/offerta, le transazioni, la fatturazione, il supporto per gli account e la distribuzione e il provisioning per le soluzioni ISV basate su Azure.
 

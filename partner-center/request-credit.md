@@ -1,22 +1,23 @@
 ---
-title: Richiedi un credito per il contratto di contratto da Microsoft | Centro per i partner
+title: Richiedere crediti del contratto di servizio a Microsoft
 ms.topic: article
-ms.date: 11/21/2019
-description: Informazioni sui vantaggi, sulle restrizioni e sulle procedure per la richiesta di un credito del contratto di servizio da parte di Microsoft qualora i clienti dovessero riscontrare un'interruzione del servizio.
+ms.date: 04/28/2020
+description: Scopri i vantaggi, le restrizioni e le procedure per richiedere un credito di contratto di servizio (SLA) a Microsoft qualora i clienti dovessero riscontrare un'interruzione del servizio.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 328051d69f2dfd869cca8c80de595b2e27c9a1af
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943144"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907872"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Richiedi un credito del contratto di contratto da Microsoft 
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Come e quando richiedere un contratto di servizio (SLA) a livello di servizio da Microsoft
 
 È possibile richiedere crediti con **contratto di servizio (SLA)** di Microsoft se un servizio fornito per i clienti presenta un'interruzione.
 
@@ -30,7 +31,7 @@ I crediti del contratto di servizio di Microsoft vengono determinati in base ai 
 
 *Il partner Cloud Solution Provider (CSP) deve inviare l'attestazione e tutte le informazioni necessarie entro la fine del mese di calendario dopo il mese in cui si è verificato l'evento imprevisto.* Se, ad esempio, l'evento imprevisto si è verificato il 15 febbraio, Microsoft deve ricevere l'attestazione e tutte le informazioni necessarie entro il 31 marzo. I clienti finali e i rivenditori indiretti non possono inviare attestazioni di credito del contratto di contratto; il provider indiretto o il partner Direct Bill deve inviare attestazioni per loro conto.
 
-### <a name="required-information"></a>Informazioni obbligatorie
+### <a name="required-information"></a>Informazioni necessarie
 
 Prima di [inviare una richiesta di credito del contratto](#submit-sla-credit-request) di servizio a Microsoft, è necessario raccogliere le informazioni seguenti da includere nel ticket di supporto:
 
@@ -47,7 +48,7 @@ Prima di [inviare una richiesta di credito del contratto](#submit-sla-credit-req
 | EX | Exchange Online |
 | FO | Protezione di Exchange Online |
 | SB | Skype for business online (in precedenza Lync Online) |
-| Sistema operativo | Sottoscrizione a Office |
+| OS | Sottoscrizione a Office |
 | PB | Power BI per Office 365 |
 | SP | SharePoint Online |
 | YA | Yammer Enterprise |
@@ -57,10 +58,10 @@ Prima di [inviare una richiesta di credito del contratto](#submit-sla-credit-req
 
 Per inviare la richiesta di credito del contratto di lavoro a Microsoft tramite il dashboard del centro per i partner:
 
-1. Accedere al dashboard del centro per i partner.
+1. Accedi al dashboard Centro per i partner.
 2. Nel menu a sinistra scegliere **richieste di servizio**, quindi selezionare richieste di **supporto**per i partner.
 3. Nella pagina **richiesta partner** scegliere **nuova richiesta**.
 4. Nella pagina **Avvia richiesta** trovare la sezione **CSP-Customers, Orders and subscriptions**. In questa sezione scegliere **selezionare un tipo di problema**, quindi selezionare **Customer Services requests Credit requests**.
-5. Nella pagina **soluzioni consigliate** , in sono **necessarie altre informazioni?** , scegliere **Sì**.
+5. Nella pagina **soluzioni consigliate** , in sono **necessarie altre informazioni?**, scegliere **Sì**.
 6. Nella pagina **Dettagli** compilare la sezione **Dettagli problema** . Nella casella di testo **Dettagli** assicurarsi di immettere le [informazioni necessarie](#required-information) raccolte in precedenza.
 7. Scegliere **Invia** per inviare la richiesta di credito del contratto di contratto.

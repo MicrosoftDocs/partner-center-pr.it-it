@@ -1,22 +1,23 @@
 ---
-title: Contratti per i provider di soluzioni cloud che usano il Marketplace commerciale | Centro per i partner
+title: Contratti CSP per Marketplace commerciale
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i termini, le condizioni e i contratti per le sottoscrizioni di prodotti ISV di terze parti acquistati da partner CSP nel Marketplace commerciale.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: sottoscrizioni, Marketplace, terze parti, ISV, programma per partner CSP, contratti, vendita, acquisto,
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dd58869df2ced14fa3a05ea3bc7b0f6e96c54d5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253779"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908132"
 ---
-# <a name="contracts-associated-with-csp-partner-activities-in-the-commercial-marketplace"></a>Contratti associati alle attività del partner CSP nel Marketplace commerciale
+# <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contratti per partner CSP che fanno affari nel Marketplace commerciale
 
 **Si applica a**
 
@@ -49,5 +50,5 @@ Microsoft non accetta una responsabilità giuridica per la fornitura di servizi 
 
 ## <a name="see-also"></a>Vedere anche
 
-- [Supporto per prodotti Marketplace commerciali](csp-commercial-marketplace-support.md)
+- [Supporto per prodotti del Marketplace commerciale](csp-commercial-marketplace-support.md)
 - [Panoramica delle attività del Marketplace commerciale CSP](csp-commercial-marketplace-overview.md)

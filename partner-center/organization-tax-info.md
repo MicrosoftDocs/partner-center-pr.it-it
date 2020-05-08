@@ -1,22 +1,22 @@
 ---
-title: Informazioni fiscali per l'organizzazione | Centro per i partner
+title: Aggiungere o inviare un ID IVA per le imposte aziendali
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Le imposte per gli acquisti nel Centro per i partner sono determinate dal tuo indirizzo aziendale. Le aziende in alcuni paesi possono fornire il numero di partita IVA o l'equivalente locale.
+description: Le imposte per gli acquisti del centro per i partner sono determinate dall'indirizzo aziendale. Le aziende in alcuni paesi possono fornire il proprio numero di partita IVA o equivalente locale.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOAPR.20
+ms.openlocfilehash: e0c5e2dab3a4316a6ee888c73a64c7894bdf1baf
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005030"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907325"
 ---
-# <a name="company-tax-information"></a>Informazioni fiscali aziendali
+# <a name="company-tax-information-and-how-to-add-or-submit-vat-ids-for-partner-center-purchases"></a>Informazioni fiscali aziendali e come aggiungere o inviare ID IVA per gli acquisti del centro per i partner
 
 **Si applica a**
 
@@ -29,9 +29,9 @@ ms.locfileid: "75005030"
 -   Agente amministratore
 -   Agente di vendita
 
-Le imposte per gli acquisti nel Centro per i partner sono determinate dal tuo indirizzo aziendale. Le aziende in alcuni paesi possono [fornire il numero di imposte (IVA) o l'](#submit-vat-id-number) equivalente locale.
+Le imposte per gli acquisti del centro per i partner sono determinate dall'indirizzo aziendale. Le aziende in alcuni paesi possono [fornire il numero di imposte (IVA) o l'](#submit-vat-id-number) equivalente locale.
 
-### <a name="add-your-vat-id"></a>Aggiungi il numero di partita IVA
+### <a name="add-your-vat-id"></a>Aggiungere l'ID IVA
 
 Per modificare il profilo di fatturazione, è necessario essere un amministratore globale, un amministratore della fatturazione o un agente di amministrazione.
 

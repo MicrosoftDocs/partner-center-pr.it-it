@@ -1,7 +1,7 @@
 ---
-title: Creazione di un'offerta di acquisto | Centro per i partner
+title: Crea un'offerta di acquisto
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
 description: Informazioni su come un Advisor di sottoscrizione autorizzato può usare il centro per i partner per creare un'offerta di acquisto e un URL personalizzato da includere negli inviti alla versione di valutazione di Office 365.
@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, acquisto
 ms.custom: SEOMAY.20
-ms.openlocfilehash: defa41285aa2bf31158a900a319115cf02221655
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 836bb0a0fa7226cd01435b4d5d3d7cd59bfad5e2
+ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907445"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "82975112"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Advisor: creare un'offerta di acquisto
 

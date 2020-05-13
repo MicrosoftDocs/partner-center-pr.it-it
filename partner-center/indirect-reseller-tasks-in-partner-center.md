@@ -11,16 +11,17 @@ ms.author: labrenne
 keywords: rivenditori indiretti, rivenditori, provider indiretti, provider, relazione, VAR, livello2, livello 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e2e37b584d7d95ec09018cf8c74a238c4ef76519
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: ec6fcb6ccfd867d986aad2b751650cd6c1669229
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205659"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362759"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informazioni per collaborare con provider indiretti nel programma Cloud Solution Provider
 
 **Ruoli appropriati**
+
 - Amministratore globale
 - Amministratore utenti
 - Agente amministratore
@@ -33,33 +34,35 @@ I rivenditori indiretti in CSP collaborano con i provider indiretti (anche noti 
 Provider indiretti diversi offrono supporto tecnico e servizi diversi. Valuta i provider presenti nella tua area geografica per individuare quelli che meglio soddisfano le tue esigenze. In genere, la maggior parte dei provider:
 
 - Fornisce al rivenditore assistenza e formazione tecnica
-- Aiuta il rivenditore a commercializzare prodotti e servizi 
+- Aiuta il rivenditore a commercializzare prodotti e servizi
 - Aiuta il rivenditore a stabilire le condizioni di finanziamento e credito
 
 Se non lavori ancora con un provider (indicato anche come distributore), puoi avviare una [ricerca nell'elenco dei provider ufficiali Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) per individuarne uno.
-
 
 Per altre informazioni su ciò che è necessario per la vendita nel programma CSP come rivenditore indiretto, vedi [Iniziare come rivenditore indiretto](https://partner.microsoft.com/cloud-solution-provider/whats-required) nel [sito Web Microsoft Partner Network](https://partner.microsoft.com/).
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Registrarsi come nuovo rivenditore indiretto nel programma Cloud Solution Provider
 
 > [!NOTE]  
-> Se si è già registrati nel programma CSP, può essere necessario fornire soltanto le informazioni di contatto del supporto clienti per creare un account rivenditore nel Centro per i partner. 
+> Se si è già registrati nel programma CSP, può essere necessario fornire soltanto le informazioni di contatto del supporto clienti per creare un account rivenditore nel Centro per i partner.
 
 ### <a name="before-you-begin"></a>Prima di iniziare
 
 Se sei nuovo in CSP, dovrai iscriverti al programma come rivenditore indiretto. Devi quindi creare un account in Partner Center. A tale scopo, durante il processo di registrazione dovrai fornire le informazioni seguenti. Prima di iniziare, è consigliabile dedicare qualche minuto alla raccolta di questi elementi:
 
-- **Credenziali di amministratore globale per l'account aziendale**<br>
-Dovrai specificare il nome utente e la password usati per accedere a Office 365, Microsoft Azure o Microsoft Dynamics CRM. Se non disponi ancora di un account aziendale, puoi crearne uno durante il processo di registrazione. Se non hai la certezza di disporre di un account aziendale, vedi [Account aziendali e Centro per i partner](azure-active-directory-tenants-and-partner-center.md).
+- **Credenziali di amministratore globale per l'account aziendale**
 
-- **Il nome utente e la password usati per accedere al sito Partner Membership Center**<br>
-  Queste informazioni vengono usate per collegare l'ID Microsoft Partner Network (MPN ID) della tua organizzazione al tuo nuovo account di Partner Center. Puoi quindi gestire i vantaggi dell'appartenenza in Partner Center.
+   Dovrai specificare il nome utente e la password usati per accedere a Office 365, Microsoft Azure o Microsoft Dynamics CRM. Se non disponi ancora di un account aziendale, puoi crearne uno durante il processo di registrazione. Se non hai la certezza di disporre di un account aziendale, vedi [Account aziendali e Centro per i partner](azure-active-directory-tenants-and-partner-center.md).
 
-- **Ragione sociale e indirizzo dell'organizzazione, contatto principale e dettagli del supporto**<br>
-  Queste informazioni sono necessarie per verificare che l'organizzazione abbia un profilo solido con Microsoft e di essere autorizzati ad agire per suo conto.
+- **Il nome utente e la password usati per accedere al sito Partner Membership Center**
 
-  Potrebbero essere necessari diversi giorni per esaminare e verificare le informazioni fornite. Al termine delle verifiche, verrà inviato un messaggio di posta elettronica al contatto principale dell'organizzazione.
+   Queste informazioni vengono usate per collegare l'ID Microsoft Partner Network (MPN ID) della tua organizzazione al tuo nuovo account di Partner Center. Puoi quindi gestire i vantaggi dell'appartenenza in Partner Center.
+
+- **Ragione sociale e indirizzo dell'organizzazione, contatto principale e dettagli del supporto**
+
+   Queste informazioni sono necessarie per verificare che l'organizzazione abbia un profilo solido con Microsoft e di essere autorizzati ad agire per suo conto.
+
+   Potrebbero essere necessari diversi giorni per esaminare e verificare le informazioni fornite. Al termine delle verifiche, verrà inviato un messaggio di posta elettronica al contatto principale dell'organizzazione.
 
 ### <a name="get-started"></a>Operazioni preliminari
 
@@ -135,18 +138,18 @@ Qualora un provider indiretto intenda entrare in contatto con te nel Centro per 
    > [!NOTE]  
    > Quando stabilisci una relazione con un provider indiretto, lo autorizzi a inviare ordini e aggiungere sottoscrizioni per conto dei tuoi clienti e gli concedi l'accesso di tipo amministratore all'account aziendale della società. Dopo aver stabilito la relazione con il provider, è possibile rimuovere l'accesso come amministratore del provider all'account aziendale nel portale di Office 365.
 
-4. Selezionare **Provider indiretti** dal menu **Centro per i partner** per visualizzare un elenco di provider con i quali è stata stabilita una partnership. 
+4. Selezionare **Provider indiretti** dal menu **Centro per i partner** per visualizzare un elenco di provider con i quali è stata stabilita una partnership.
 
 5. Selezionare **Visualizza clienti** per visualizzare l'elenco dei clienti condivisi con il provider.
 
 6. Selezionare **Invita nuovi clienti** per chiedere a un nuovo cliente di autorizzare contemporaneamente le relazioni come rivenditore con l'utente e con il provider indiretto. Assicurati di avere a portata di mano l'indirizzo di posta elettronica del cliente in modo da poter inviare l'invito tramite posta elettronica.  
 
    > [!IMPORTANT]  
-   > Per inviare ordini per conto dei clienti, il provider indiretto deve avere con loro una relazione come rivenditore. 
- 
+   > Per inviare ordini per conto dei clienti, il provider indiretto deve avere con loro una relazione come rivenditore.
+
 ## <a name="connect-with-customers"></a>Entra in contatto con i clienti
 
-Affinché sia possibile eseguire transazioni con i clienti nel Centro per i partner, i clienti devono disporre dell'account del Centro per i partner ed è necessario stabilire con essi relazioni come rivenditori. Per consentire al provider indiretto di acquistare sottoscrizioni e servizi per conto del cliente, anche il provider deve avere relazioni come rivenditore con i clienti. 
+Affinché sia possibile eseguire transazioni con i clienti nel Centro per i partner, i clienti devono disporre dell'account del Centro per i partner ed è necessario stabilire con essi relazioni come rivenditori. Per consentire al provider indiretto di acquistare sottoscrizioni e servizi per conto del cliente, anche il provider deve avere relazioni come rivenditore con i clienti.
 
 ### <a name="connect-with-existing-customers"></a>Entrare in contatto con i clienti
 
@@ -158,7 +161,7 @@ Quando ci si connette a un provider indiretto, non si ottengono automaticamente 
 
 1. Selezionare **Clienti** dal menu **Centro per i partner** e selezionare **Richiedi una relazione come rivenditore**.
 
-2. Nella pagina successiva esaminare la bozza del messaggio di posta elettronica. È possibile aprire la bozza del messaggio nella posta elettronica oppure copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
+2. Nella pagina successiva esaminare la bozza del messaggio di posta elettronica. È possibile aprire la bozza del messaggio nella posta elettronica oppure copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica.
 
    Il testo nel messaggio di posta elettronica può essere modificato, ma è necessario assicurarsi di includere il collegamento, in quanto personalizzato, per collegare il cliente direttamente al proprio account. Al termine di questo passaggio, seleziona **Fatto**.
 
@@ -178,7 +181,7 @@ Quando attrai nuovi clienti, dovrai connetterti con loro nel Centro per i partne
 
 Per gestire sottoscrizioni e servizi per conto di un cliente, devi intrattenere una relazione come rivenditore con tale cliente. Per consentire al provider indiretto di inviare ordini per conto del cliente, anche il provider indiretto deve avere una relazione come rivenditore con il cliente.
 
-Per ottenere le autorizzazioni di amministratore per gestire le sottoscrizioni e i servizi di un nuovo cliente **e** consentire al provider indiretto di inviare nuovi ordini per suo conto, puoi invitare il cliente a stabilire una relazione come rivenditore con te e con il provider contemporaneamente. 
+Per ottenere le autorizzazioni di amministratore per gestire le sottoscrizioni e i servizi di un nuovo cliente **e** consentire al provider indiretto di inviare nuovi ordini per suo conto, puoi invitare il cliente a stabilire una relazione come rivenditore con te e con il provider contemporaneamente.
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-with-your-indirect-provider-at-the-same-time"></a>Invitare un nuovo cliente a stabilire contemporaneamente una relazione come rivenditore con l'utente e con il provider indiretto
 
@@ -186,7 +189,7 @@ Per ottenere le autorizzazioni di amministratore per gestire le sottoscrizioni e
 
 2. Selezionare **Invita nuovi clienti** per invitare il cliente a stabilire contemporaneamente una relazione come rivenditore con l'utente e il provider indiretto. Per inviare ordini per conto del cliente quando quest'ultimo intende acquistare nuove sottoscrizioni o aggiungere nuove licenze alle sottoscrizioni esistenti, il provider deve avere una relazione come rivenditore con il cliente.
 
-3. Nella pagina successiva esaminare la bozza del messaggio di posta elettronica. È possibile aprire la bozza del messaggio nella posta elettronica oppure copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
+3. Nella pagina successiva esaminare la bozza del messaggio di posta elettronica. È possibile aprire la bozza del messaggio nella posta elettronica oppure copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica.
 
    Puoi modificare il testo nel messaggio di posta elettronica. Assicurati solo di includere il collegamento, in quanto è personalizzato per collegare il cliente direttamente al tuo account e all'account del provider. Al termine di questo passaggio, seleziona **Fatto**.
 
@@ -194,12 +197,12 @@ Per ottenere le autorizzazioni di amministratore per gestire le sottoscrizioni e
 
 5. Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome.
 
-## <a name="see-also"></a>Vedere anche
+## <a name="next-steps"></a>Passaggi successivi
 
-[Gestire l'account per il Centro per i partner](partner-center-account-setup.md)
+- [Gestire l'account per il Centro per i partner](partner-center-account-setup.md)
 
-[Gestire i clienti e le relative sottoscrizioni](customer-accounts.md)
+- [Gestire i clienti e le relative sottoscrizioni](customer-accounts.md)
 
-[Creare un profilo business](create-a-marketing-profile.md)
+- [Creare un profilo business](create-a-marketing-profile.md)
 
-[Informazioni sugli incentivi per i partner nel Centro per i partner](understand-incentive-payouts.md)
+- [Informazioni sugli incentivi per i partner nel Centro per i partner](understand-incentive-payouts.md)

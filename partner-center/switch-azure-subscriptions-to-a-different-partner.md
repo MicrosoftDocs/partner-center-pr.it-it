@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: sottoscrizione di Azure, switch partner, cambia partner, Ottieni nuovo partner, partner diverso
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 5976cba3c0d1ef6984fc88497412577e83e999f7
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 01316ceebcd2f969c89b4160bf5d95dcc44b1366
+ms.sourcegitcommit: 46b86ac7467afa43bedb0943dc8dc45a69caf1dd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205579"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "83194389"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Informazioni su come trasferire le sottoscrizioni di Azure di un cliente a un altro partner
 
@@ -32,7 +32,7 @@ Per passare i servizi o le sottoscrizioni di Azure di un cliente a un altro part
 
 >[!Note]  
 >Attualmente, solo i provider diretti o indiretti possono trasferire le sottoscrizioni.
->Non è possibile modificare i partner per le sottoscrizioni Cloud Solution Provider associate alle sottoscrizioni di Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
+>Non è possibile modificare i partner per le sottoscrizioni Cloud Solution Provider associate ad Azure Plan, Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
 
 **Cambiare partner per le sottoscrizioni Azure**
 

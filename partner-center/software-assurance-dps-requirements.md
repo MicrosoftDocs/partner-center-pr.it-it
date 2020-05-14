@@ -1,5 +1,5 @@
 ---
-title: Visualizzare i requisiti di idoneità per la pianificazione di engagement Services | Centro per i partner
+title: Visualizzare i requisiti di idoneità per la pianificazione di engagement Services
 ms.topic: article
 ms.date: 03/24/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 Keywords: pre-distribuzione, pianificazione, Software Assurance, coinvolgimento, requisiti, idoneità, offerta
 ms.localizationpriority: medium
-ms.openlocfilehash: d75753bdaef97f1cf0b9bd4c20474954e747735d
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: e9d66f2f6792780d77db130d5fd7d0f44d5f6c8c
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296439"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362449"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Visualizzare i requisiti di idoneità per la pianificazione di engagement Services
 
@@ -34,14 +34,14 @@ Ogni impegno per i servizi di pianificazione presenta requisiti di idoneità spe
 
 |**Per informazioni sui requisiti di idoneità per questi impegni**   |**Vai al foglio dati per questa offerta**  |
 |:------------------------------------|:------------------|
-| Pianificazione della distribuzione di Windows e Office<br> Pianificazione della distribuzione della produttività mobile<br> Modello di prova di sicurezza aziendale IT moderno</br>  | [Engagement per Desktop Deployment Planning Services (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |
-| Aggiornamento di Microsoft Dynamics 365 per il coinvolgimento dei clienti<br> Migrazione a Microsoft Dynamics 365 per il coinvolgimento dei clienti<br> Aggiornamento di Microsoft Dynamics 365 per Finanza e operazioni</br>  | [Engagement di Dynamics Deployment Planning Services (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Pianificazione della distribuzione di Windows e Office<br/><br/> Pianificazione della distribuzione della produttività mobile<br/><br/> Modello di prova di sicurezza aziendale IT moderno | [Engagement per Desktop Deployment Planning Services (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |
+| Aggiornamento di Microsoft Dynamics 365 per il coinvolgimento dei clienti<br/><br/> Migrazione a Microsoft Dynamics 365 per il coinvolgimento dei clienti<br/><br/> Aggiornamento di Microsoft Dynamics 365 per Finanza e operazioni  | [Engagement di Dynamics Deployment Planning Services (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
 | Modernizzazione della piattaforma Windows Server | [Engagement di servizi cloud privati, gestione e virtualizzazione (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
 | Pianificazione della distribuzione di SharePoint   | [Engagement di SharePoint Deployment Planning Services (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Pianificazione della distribuzione di Exchange<br> Pianificazione della distribuzione di Skype for business</br>  | [Engagement di Skype for business e Exchange Deployment Planning Services (S-GEPD)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| Pianificazione della distribuzione di Exchange<br/><br/> Pianificazione della distribuzione di Skype for business  | [Engagement di Skype for business e Exchange Deployment Planning Services (S-GEPD)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | Modernizzazione delle proprietà dei dati  | [Engagement di SQL Server Deployment Planning Services (SSDPS)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
-## <a name="see-also"></a>Vedere anche
+## <a name="next-steps"></a>Passaggi successivi
 
 - [Flusso di lavoro di Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Domande frequenti su Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2116077)

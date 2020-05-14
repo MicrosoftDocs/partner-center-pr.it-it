@@ -3,24 +3,23 @@ title: Creare un invito alla versione di valutazione di Office 365
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: Scopri in che modo i partner possono creare e inviare inviti alla versione di valutazione per i loro clienti per provare a usare Office 365. I partner sono in gran parte un Advisor autorizzato per le sottoscrizioni.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, versione di valutazione
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ab1b889e7ad71d19e6b7358c9ccb80aa78ed9f38
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 2f8faddce7755a34687f0403b8ba27ea734d8018
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907444"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362619"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Advisor: creare e inviare un invito alla versione di valutazione per i client per provare a usare Office 365
 
 > [!NOTE]
-> Questa funzionalità è disponibile solo per i partner Microsoft che sono Advisor autorizzati per le sottoscrizioni. 
+> Questa funzionalità è disponibile solo per i partner Microsoft che sono Advisor autorizzati per le sottoscrizioni.
 
 È possibile creare e inviare inviti alla versione di valutazione ai client per poter provare Office 365. Quando si crea un invito alla versione di valutazione, la procedura guidata crea **invito alla versione di valutazione** crea automaticamente un URL personalizzato. L'URL include un codice incorporato che identifica l'utente come Advisor della sottoscrizione. È possibile utilizzare questo URL per uno o più client. Inviare l'URL al client in un messaggio di posta elettronica o usare l'URL in altri documenti. La sottoscrizione può invece contenere uno o più servizi, a seconda dell'offerta È possibile inviare un invito per una sola sottoscrizione di valutazione alla volta.
 
@@ -28,7 +27,7 @@ Se si è autorizzati a offrire l'amministrazione delegata, è possibile aggiunge
 
 ## <a name="to-create-a-trial-invitation"></a>Per creare un invito alla versione di valutazione
 
-1. Passa a **versioni di valutazione e acquista offerte** > per la**creazione di inviti**.
+1. Passa a **versioni di valutazione e acquista offerte**per la  >  **creazione di inviti**.
 
 2. Nella pagina **Crea invito alla versione di valutazione** selezionare le opzioni dell'invito alla versione di valutazione che si desidera includere:
 

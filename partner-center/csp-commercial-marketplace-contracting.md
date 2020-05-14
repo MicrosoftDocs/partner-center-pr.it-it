@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: sottoscrizioni, Marketplace, terze parti, ISV, programma per partner CSP, contratti, vendita, acquisto,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908132"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362629"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contratti per partner CSP che fanno affari nel Marketplace commerciale
 
@@ -48,7 +48,8 @@ Per ulteriori informazioni sui termini che governano le attività CSP nel Market
   
 Microsoft non accetta una responsabilità giuridica per la fornitura di servizi tra le parti di transazione e non fornisce un meccanismo per la reagire dei partner per la definizione di condizioni legali tramite la relativa piattaforma commerciale. Se i partner che effettuano la transazione richiedono ulteriori condizioni legali, dovranno eseguire direttamente un contratto.
 
-## <a name="see-also"></a>Vedere anche
+## <a name="next-steps"></a>Passaggi successivi
 
 - [Supporto per prodotti del Marketplace commerciale](csp-commercial-marketplace-support.md)
+
 - [Panoramica delle attività del Marketplace commerciale CSP](csp-commercial-marketplace-overview.md)

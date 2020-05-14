@@ -3,19 +3,18 @@ title: Crea un'offerta di acquisto
 ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: Informazioni su come un Advisor di sottoscrizione autorizzato può usare il centro per i partner per creare un'offerta di acquisto e un URL personalizzato da includere negli inviti alla versione di valutazione di Office 365.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, acquisto
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 836bb0a0fa7226cd01435b4d5d3d7cd59bfad5e2
-ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
+ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82975112"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362679"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Advisor: creare un'offerta di acquisto
 
@@ -26,11 +25,11 @@ Dopo aver inviato un invito alla versione di valutazione di Office 365 a un clie
 
 Quando si crea l'offerta di acquisto, la procedura guidata crea **offerta di acquisto** crea automaticamente un URL personalizzato. L'URL include un codice incorporato che identifica l'utente come Advisor della sottoscrizione. È possibile utilizzare questo URL per uno o più client. Inviare l'URL al client in un messaggio di posta elettronica. In alternativa, è possibile pubblicare l'URL nel sito Web. Se il client accetta l'offerta, l'utente è associato all'acquisto del client.
 
-Se il client richiede un numero diverso di licenze, inviargli una nuova offerta oppure modificare il numero di licenze quando acquistano la sottoscrizione. 
+Se il client richiede un numero diverso di licenze, inviargli una nuova offerta oppure modificare il numero di licenze quando acquistano la sottoscrizione.
 
 ## <a name="to-create-a-purchase-offer"></a>Per creare un'offerta di acquisto
 
-1. Passare a **versioni di valutazione e offerte** > di acquisto**creare un'offerta**.
+1. Passare a **versioni di valutazione e offerte di acquisto**  >  **creare un'offerta**.
 
 2. Nella pagina **Crea offerta di acquisto** selezionare le opzioni per l'offerta di acquisto che si desidera includere:
 
@@ -50,7 +49,9 @@ Se il client richiede un numero diverso di licenze, inviargli una nuova offerta 
     > [!NOTE]
     > Prendere nota dell' **ID di riepilogo**dell'offerta di acquisto. Usarlo per tenere traccia dell'offerta.
 
-5. È possibile personalizzare il messaggio includendo il logo della società, l'introduzione, le note di chiusura o altre informazioni. Inviare l'offerta di acquisto al client.
+5. È possibile personalizzare il messaggio includendo il logo della società, l'introduzione, le note di chiusura o altre informazioni.
+
+    Inviare l'offerta di acquisto al client.
 
 6. Quando si Personalizza il messaggio, è consigliabile includere queste informazioni:
 

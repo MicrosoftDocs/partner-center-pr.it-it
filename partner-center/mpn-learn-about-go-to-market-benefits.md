@@ -1,5 +1,5 @@
 ---
-title: Scopri di più su come passare al mercato con le offerte Microsoft | Centro per i partner
+title: Scopri di più su come passare al mercato con le offerte Microsoft
 ms.topic: article
 ms.date: 03/16/2020
 ms.service: partner-dashboard
@@ -9,18 +9,18 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, vantaggi per l'appartenenza, appartenenza, offerte per il mercato, vai al mercato con Microsoft, vai al mercato, appartenenza a oro, appartenenza Silver
 ms.localizationpriority: medium
-ms.openlocfilehash: 593b21e8ac74440aca5599dcf3b49a0ed877a827
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226207"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362719"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Esplora le offerte per il go-to-market con Microsoft
 
 **Si applica a**
 
-- Partner Center
+- Centro per i partner
 - Membri del programma Microsoft Partner Network
 
 **Ruoli appropriati**
@@ -34,7 +34,6 @@ Le offerte go-to-Market ti permettono di accedere a risorse esclusive per vendit
 
 >[!NOTE]
 >Se non si è già membri del Microsoft Partner Network, partecipare al [sito Microsoft Partner Network](https://partner.microsoft.com/membership).
-
 
 ## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Risorse, offerte e programmi go-to-Market disponibili in base al livello di appartenenza
 
@@ -69,7 +68,7 @@ Per visualizzare le offerte per il go-to-Market:
 
 2. Scegliere **MPN**dal menu a sinistra. Eseguire quindi una delle operazioni seguenti:
 
-    - Selezionare **Panoramica**. Scorrere fino alla sezione **collegamenti rapidi** e quindi selezionare la scheda **Vai al mercato** .
+    - Selezionare la scheda di **informazioni generali**. Scorrere fino alla sezione **collegamenti rapidi** e quindi selezionare la scheda **Vai al mercato** .
 
       oppure
 
@@ -84,10 +83,10 @@ Per i passaggi specifici per l'attivazione o la gestione delle offerte go-to-Mar
 >[!IMPORTANT]
 >È necessario essere amministratore globale o MPN partner per attivare offerte di immissione sul mercato specifiche e assegnare un contatto marketing correlato. Se necessario, puoi diventare amministratore globale seguendo le istruzioni riportate nella [pagina **Vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). La tua azienda potrebbe già avere un amministratore globale, pertanto verifica questo aspetto con il team.
 
-#### <a name="see-also"></a>Vedere anche
+## <a name="next-steps"></a>Passaggi successivi
 
-[Gestisci i vantaggi della rete partner](manage-your-partner-network-benefits.md)
+- [Gestisci i vantaggi della rete partner](manage-your-partner-network-benefits.md)
 
-[Acquistare o rinnovare una sottoscrizione di Microsoft Action Pack](mpn-get-action-pack.md)
+- [Acquistare o rinnovare una sottoscrizione di Microsoft Action Pack](mpn-get-action-pack.md)
 
-[Informazioni sulle competenze](learn-about-competencies.md)
+- [Informazioni sulle competenze](learn-about-competencies.md)

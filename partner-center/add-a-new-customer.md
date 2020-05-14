@@ -11,14 +11,14 @@ ms.author: labrenne
 keywords: cliente, Aggiungi cliente, account cliente, account cliente nel centro per i partner, clienti, Aggiungi clienti, crea account cliente
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 8151f6f310df97702062f5951254da622a759a90
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 005e1d044f1d006b878eb85717a14f5e3ce3030b
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205619"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362689"
 ---
-# <a name="learn-about-adding-a-new-customer-record-in-partner-center"></a>Informazioni sull'aggiunta di un nuovo record cliente nel centro per i partner
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Come aggiungere un nuovo record cliente nel centro per i partner
 
 **Si applica a**
 
@@ -33,12 +33,12 @@ ms.locfileid: "82205619"
 - Agente amministratore
 - Agente di vendita
 
-Questo articolo descrive come aggiungere un nuovo cliente al proprio elenco di clienti nel centro per i partner. È necessario eseguire questa operazione prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto a un cliente.
+Questo articolo descrive come aggiungere un nuovo cliente al proprio elenco di clienti nel centro per i partner. Attenersi alla seguente procedura prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto a un cliente.
 
 >[!NOTE]
 >Per i clienti esistenti, inclusi quelli che hanno già registrato i clienti nel centro per i partner tramite uno scenario [multicanale](multichannel.md) o [Multipartner](multipartner.md) , è possibile [richiedere una relazione con loro](request-a-relationship-with-a-customer.md), anziché attenersi alla procedura riportata di seguito.
 
-### <a name="to-add-a-new-customer-in-partner-center"></a>Per aggiungere un nuovo cliente al centro per i partner
+## <a name="to-add-a-new-customer-in-partner-center"></a>Per aggiungere un nuovo cliente al centro per i partner
 
 1. Selezionare **Customers** dal menu centro partner e quindi selezionare **Aggiungi cliente**.
 
@@ -47,12 +47,13 @@ Questo articolo descrive come aggiungere un nuovo cliente al proprio elenco di c
    >[!NOTE]
    >
    >Per garantire l'accuratezza durante verifica del cliente, assicurarsi di:
+   >
    >- Usa il nome legale/ufficiale esatto come appare nei documenti ufficiali
    >- Evitare l'uso di acronimi o forme brevi
    >- Non usare nomi di test
    >- Fornire l'indirizzo esatto completo (Dettagli località, città, stato, paese e CAP/CAP)
 
-   >[!IMPORTANT] 
+   >[!IMPORTANT]
    > Il 1° ottobre 2019 Microsoft ha introdotto il **contratto del cliente Microsoft** nel programma CSP in sostituzione del Contratto Microsoft Cloud. Leggi il [contratto per i clienti Microsoft e come confermare il consenso](confirm-customer-agreement.md)
   
 3. Se si è un provider indiretto, selezionare il rivenditore indiretto che si desidera associare alle sottoscrizioni di questo cliente dall'elenco.
@@ -68,7 +69,7 @@ Questo articolo descrive come aggiungere un nuovo cliente al proprio elenco di c
 
 7. Selezionare **done** dopo aver completato l'aggiunta delle informazioni sul cliente e aver acquistato le sottoscrizioni obbligatorie.
 
-## <a name="see-also"></a>Vedere anche
+## <a name="next-steps"></a>Passaggi successivi
 
 - Per ulteriori informazioni su ciò che è possibile vendere ai clienti tramite il programma Cloud Solution Provider, vedere la pagina relativa alle [offerte dei partner nel programma Cloud Solution Provider](csp-offers.md).
 

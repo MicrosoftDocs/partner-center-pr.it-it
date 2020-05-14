@@ -1,5 +1,5 @@
 ---
-title: Vendere a settori specializzati | Centro per i partner
+title: Vendere in settori specializzati
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 064d8619f9c6d3247f43bc519aea5e0679ffabf3
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: e22a4e89de9ec67c6e42659275a038128d521e47
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798209"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362599"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendere in settori specializzati
 
@@ -36,39 +36,32 @@ Microsoft offre prezzi speciali e ridotti per i gruppi di clienti selezionati, i
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |Nessuno   | Deve essere un [utente qualificato](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)per la formazione.   |
 |Government   |Per vendere Azure, effettuare la registrazione usando il [modulo di convalida del cloud Microsoft US Government](https://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenze per enti pubblici, non è necessaria alcuna qualifica.|   Nessuno|
-|No profit  |Nessuno<br>Deve avere un tenant di Azure Active Directory non profit.<br>Scopri di più sulle [offerte speciali no profit](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Iscriversi al [programma Microsoft nonprofit](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
-
+|No profit  |Nessuno<br/> Deve avere un tenant di Azure Active Directory non profit.<br/> Scopri di più sulle [offerte speciali no profit](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Iscriversi al [programma Microsoft nonprofit](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Controllare le tue qualificazioni come rivenditore
 
-I passaggi seguenti sono applicabili solo ai provider indiretti e ai partner di fatturazione diretta. I rivenditori indiretti devono connettersi a un provider indiretto per fornire offerte a prezzo accademico a utenti qualificati per l'istruzione. 
+I passaggi seguenti sono applicabili solo ai provider indiretti e ai partner di fatturazione diretta. I rivenditori indiretti devono connettersi a un provider indiretto per fornire offerte a prezzo accademico a utenti qualificati per l'istruzione.
 
-1.  Nel [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner selezionare l'icona a forma di ingranaggio nell'angolo superiore destro della finestra per aprire **Impostazioni account**.
-2.  Nel **profilo del partner**, nella sezione **informazioni sul programma** , cercare le **qualifiche del rivenditore**.
-3.  Se non vedi l'opzione **Qualificazioni rivenditore** significa che non sei ancora stato autorizzato all'acquisto di offerte speciali.
+1. Nel [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner selezionare l'icona a forma di ingranaggio nell'angolo superiore destro della finestra per aprire **Impostazioni account**.
+
+2. Nel **profilo del partner**, nella sezione **informazioni sul programma** , cercare le **qualifiche del rivenditore**.
+
+3. Se non vedi l'opzione **Qualificazioni rivenditore** significa che non sei ancora stato autorizzato all'acquisto di offerte speciali.
 
 ## <a name="check-the-customer-qualifications"></a>Controllare le qualificazioni dei clienti
 
-1.  Scegliere **clienti**dal menu **centro partner** . Scegliere il cliente dall'elenco.
-2.  Nel menu del cliente seleziona **Account**. Nella sezione **Informazioni azienda** cerca **Qualificazioni speciali**.
-3.  Se l'opzione **Qualificazioni speciali** è impostata su **Nessuna**, ma il cliente soddisfa in effetti i requisiti di qualificazione, puoi **aggiornare** i dettagli per includerle.
+1. Scegliere **clienti**dal menu **centro partner** . Scegliere il cliente dall'elenco.
+
+2. Nel menu del cliente seleziona **Account**. Nella sezione **Informazioni azienda** cerca **Qualificazioni speciali**.
+
+3. Se l'opzione **Qualificazioni speciali** è impostata su **Nessuna**, ma il cliente soddisfa in effetti i requisiti di qualificazione, puoi **aggiornare** i dettagli per includerle.
 
 ## <a name="where-to-find-special-offers"></a>Dove trovare offerte speciali
 
 Una volta che l'utente e il cliente sono qualificati per un programma speciale offerta, seguire i passaggi per [aggiungere una sottoscrizione](create-a-new-subscription.md). Nella sezione **Catalogo** della pagina **nuova sottoscrizione** Selezionare un settore specializzato per visualizzare le offerte speciali che è possibile vendere.
 
-## <a name="see-also"></a>Vedere anche
+## <a name="next-steps"></a>Passaggi successivi
 
-[Vendere le sottoscrizioni Minecraft: Education Edition ai clienti del settore istruzione](minecraft-subscriptions.md)
+- [Vendere le sottoscrizioni Minecraft: Education Edition ai clienti del settore istruzione](minecraft-subscriptions.md)
 
-[Centro per i partner per Microsoft Cloud per il governo degli Stati Uniti](partner-center-for-microsoft-us-govt-cloud.md)
-
-
- 
-
- 
-
- 
-
-
-
+- [Centro per i partner per Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

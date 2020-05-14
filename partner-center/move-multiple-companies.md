@@ -1,5 +1,5 @@
 ---
-title: Guida alla migrazione di più aziende da PMC al Centro per i partner | Centro per i partner
+title: Guida alla migrazione di più aziende da PMC al Centro per i partner
 ms.topic: article
 ms.date: 01/16/2020
 ms.service: partner-dashboard
@@ -9,33 +9,33 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 574b0fc08984f12d5bfc869c52dcc8ef56417af7
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.openlocfilehash: 16aa2de0eab173c31c0efd5f94b6bab41b2c70d2
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171210"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362749"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Trasferimento di più aziende al Centro per i partner
 
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Agente amministratore
--   Agente di vendita
 
-Quando si trasferisce l'account aziendale da PMC a Centro per i partner, è possibile che si stiano trasferendo diversi account. Nel Centro per i partner questi account verranno consolidati in un unico account globale (PGA). Il primo account spostato verrà considerato l'account globale del partner e tutti gli account successivi verranno consolidati nel primo account come percorsi. Avviare il trasferimento con l'account di PMC per la sede centrale dell'azienda. Per altre informazioni vedere la [Guida alla migrazione da PMC al Centro per i partner](guide-to-migration.md) oppure guardare questo breve video [Account multilocation semplificati](https://vimeo.com/290335248).
+- Amministratore globale
+- Amministratore utenti
+- Agente amministratore
+- Agente di vendita
 
-## <a name="move-your-additional-accounts-into-partner-center"></a>Trasferire gli account aggiuntivi nel Centro per i partner 
+Quando si sposta l'account della propria società da PMC al Centro per i partner, si potrebbero spostare vari account. Nel Centro per i partner questi account verranno consolidati in un unico account globale (PGA). Il primo account spostato verrà considerato l'account globale del partner e tutti gli account successivi verranno consolidati nel primo account come percorsi. Avviare il trasferimento con l'account di PMC per la sede centrale dell'azienda. Per altre informazioni, vedere la [Guida alla migrazione da PMC al centro per i partner](guide-to-migration.md) oppure guardare questo breve video di [account multilocation](https://vimeo.com/290335248)semplificato.
 
-Poiché è stato spostato un account aziendale già in PC, quando si esegue l'accesso si indica quale account è già presente nel centro per i partner. 
+## <a name="move-your-additional-accounts-into-partner-center"></a>Trasferire gli account aggiuntivi nel Centro per i partner
 
+Dato che un account aziendale è già stato spostato in centro per i partner, quando si esegue l'accesso si indica quale account è già presente nel centro per i partner.
 
-Se, dopo la migrazione, si scopre che l'account aziendale errato è stato designato come azienda legale, è possibile modificarlo.
+Una volta eseguita la migrazione, se si rileva che l'account aziendale errato è stato designato come azienda legale, è possibile modificare la designazione.
 
 1. Andare a **Profilo partner.**
 
-2. Assicurarsi che la località che si vuole designare come Azienda legale sia nell'elenco delle località. In caso contrario, aggiungerla.
+2. Assicurarsi che la località che si vuole designare come azienda legale sia nell'elenco delle località. In caso contrario, aggiungerla.
 
 3. Selezionare **Update legal business profile** (Aggiorna profilo aziendale legale).
 
@@ -49,32 +49,31 @@ Verrà visualizzato l'account esistente e una nota che illustra che i dettagli a
 
 ![Account in Centro per i partner](images/migration/existingaccount2.png)
 
-Questa schermata mostra i dettagli dell'account esistente (nome e indirizzo) che è già stato creato nel Centro per i partner insieme ai dettagli del contatto principale. 
+Questa schermata mostra i dettagli dell'account esistente (nome e indirizzo) che è già stato creato nel Centro per i partner insieme ai dettagli del contatto principale.
 
 Seleziona **Continua**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Cosa accade durante il consolidamento degli account
 
-- Non è possibile modificare i dettagli in questa schermata. 
+- Non è possibile modificare i dettagli in questa schermata.
 
-- L'account in PMC (attualmente in fase di trasferimento) verrà consolidato in questo account esistente 
+- L'account in PMC (attualmente in fase di trasferimento) verrà consolidato in questo account esistente
 
 - Il quartier generale e tutte le località in PMC verranno trasferiti in questo account del Centro per i partner esistente come località
 
-- Al termine del consolidamento, tutti i dettagli dell'account vengono visualizzati come posizioni all'interno dell'account del Centro per i partner esistente 
+- Al termine del consolidamento, tutti i dettagli dell'account vengono visualizzati come posizioni all'interno dell'account del Centro per i partner esistente
 
 - Tutti gli ID MPN vengono conservati durante il consolidamento
 
 - Tutte le competenze esistenti (Gold/Silver), gli acquisti (MAPS/Gold/Silver) e i vantaggi associati vengono conservati durante il consolidamento
 
-- L'utente che ha eseguito l'accesso con l'ID di posta elettronica aziendale verrà automaticamente aggiunto come amministratore MPN e amministratore account all'account del Centro per i partner esistente, in modo che sia possibile amministrare l'account in base alle esigenze 
-
+- L'utente che ha eseguito l'accesso con l'ID di posta elettronica aziendale verrà automaticamente aggiunto come amministratore MPN e amministratore account all'account del Centro per i partner esistente, in modo che sia possibile amministrare l'account in base alle esigenze
 
 ## <a name="review-your-company-information"></a>Verificare le informazioni aziendali
 
-È necessario verificare e modificare, se necessario, le informazioni aziendali. Questi dettagli verranno usati per eseguire la migrazione dell'account al Centro per i partner, quindi assicurarsi che i dettagli siano corretti. 
+Verificare le informazioni sull'azienda e modificare se necessario.  Questi dettagli verranno usati per eseguire la migrazione dell'account al Centro per i partner, quindi assicurarsi che i dettagli siano corretti.
 
-I dettagli sono basati sulle informazioni in PMC e verranno verificati per garantire la legittimità dell'azienda. 
+I dettagli sono basati sulle informazioni in PMC e verranno verificati per garantire la legittimità dell'azienda.
 
 ![Esaminare i dettagli](images/migration/review.png)
 
@@ -86,13 +85,10 @@ Dopo aver verificato o modificato le informazioni in questa schermata, fare clic
 
 Quando si visualizza il profilo, vengono visualizzate le informazioni per l'Azienda legale (la sede centrale si trova in PMC) e le informazioni per tutte le località aggiuntive.
 
-## <a name="see-also"></a>Vedi anche
-
-- [Passaggio dal Partner Membership Center al Centro per i partner](move-pmc-pc-map.md)
-
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Creare account utente ](create-user-accounts-and-set-permissions.md)
+- [Passaggio dal Partner Membership Center al Centro per i partner](move-pmc-pc-map.md)
+- [Creare account utente](create-user-accounts-and-set-permissions.md)
 - [Assegnare autorizzazioni e ruoli utente](permissions-overview.md)
 - [Gestire i programmi dell'iscrizione come membro](renew-mpn-offers.md)
 - [Creare il profilo di business](create-a-marketing-profile.md)

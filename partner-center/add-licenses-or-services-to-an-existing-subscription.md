@@ -1,23 +1,24 @@
 ---
-title: Aggiungere licenze o servizi a una sottoscrizione esistente | Centro
+title: Aggiornare una sottoscrizione cliente
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Descrive come aggiornare o modificare una sottoscrizione del cliente, ad esempio aggiungendo più licenze o postazioni o passando a una versione con servizi differenti.
+description: Scopri in che modo aggiornare o modificare una sottoscrizione cliente. Aggiungere altre licenze e postazioni o passare a una versione diversa con più servizi.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: LauraBrenner
 ms.author: labrenne
 keywords: aggiungere licenze a una sottoscrizione esistente, aggiungere postazioni a una sottoscrizione esistente, modificare una sottoscrizione, cambiare una sottoscrizione, acquistare ulteriori licenze per un cliente
 ms.localizationpriority: high
-ms.openlocfilehash: 01f0fedfad207f83cc5370ac60f19753040c9045
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f41c34b044cca39c2939ede746e05b932e03a570
+ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798649"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "82975122"
 ---
-# <a name="add-licenses-or-services-to-an-existing-subscription"></a>Aggiungere licenze o servizi a una sottoscrizione esistente
+# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Aggiungere licenze, postazioni o servizi a una sottoscrizione cliente
 
 **Si applica a**
 
@@ -32,7 +33,7 @@ ms.locfileid: "82798649"
 - Agente di vendita
 - Agente di supporto tecnico
 
-Se il cliente necessita di più postazioni rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione. Per altri dettagli, vedi [Passare a un piano di Office 365 per le aziende diverso](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Se il cliente necessita di più postazioni rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione. Per altri dettagli, vedi [Passare a un piano di Microsoft 365 Apps for business diverso](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -52,25 +53,25 @@ In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 Business</td>
+<td>Microsoft 365 Apps for business</td>
 <td><ul>
-<li>Office 365 Business Premium¹</li>
-<li>Office 365 ProPlus</li>
+<li>Microsoft 365 Business Premium¹</li>
+<li>Microsoft 365 Apps for enterprise</li>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 Business Premium</td>
+<td>Microsoft 365 Business Standard</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 Business Essentials</td>
+<td>Microsoft 365 Business Basic</td>
 <td><ul>
-<li>Office 365 Business Premium¹</li>
+<li>Microsoft 365 Business Standard¹</li>
 <li>Office 365 Enterprise E1</li>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
@@ -78,7 +79,7 @@ In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 Business India e Office 365 Business Essentials India possono essere aggiornati a Office 365 Business Premium India, non a Office 365 Business Premium.</p></td>
+<td><p>¹ Puoi aggiornare Microsoft 365 Apps for business India e Microsoft 365 Business Basic India a Microsoft 365 Business Standard India, non a Microsoft 365 Business Standard.</p></td>
 </tr>
 </tbody>
 </table>

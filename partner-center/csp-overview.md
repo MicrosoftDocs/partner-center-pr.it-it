@@ -1,7 +1,7 @@
 ---
-title: Programma Cloud Solution Provider - Vendita di soluzioni cloud popolari | Centro per i partner
+title: Panoramica del programma Cloud Solution Provider
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i vantaggi e i diversi modelli del programma Cloud Solution Provider per favorire la crescita aziendale con nuovi clienti e nuove competenze.
@@ -9,14 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, partner diretto, partner CSP diretto, rivenditore CSP indiretto, CSP diretto, CSP indiretto, modello diretto, modello indiretto, rivenditore indiretto, provider indiretto, provider, server di distribuzione, programma Cloud Solution Provider
 ms.localizationpriority: high
-ms.openlocfilehash: 92e2bda54427cb0323df20b0dc1195791e1292ae
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 90c03aeea719e58dcdb30cb8404066fa13e16a7e
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80114923"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362339"
 ---
-# <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programma Cloud Solution Provider - Vendita di soluzioni cloud popolari 
+# <a name="cloud-solution-provider-program-benefits-and-different-models"></a>Vantaggi del programma Cloud Solution Provider e modelli diversi
 
 **Si applica a**
 
@@ -24,7 +25,7 @@ ms.locfileid: "80114923"
 - Partner aderenti al programma CSP
 
 Il programma Cloud Solution Provider (CSP) non consiste semplicemente nella rivendita di licenze, ma ti aiuta a stabilire un maggiore coinvolgimento nell'attività dei tuoi clienti.
- 
+
 - Maggiore coinvolgimento: avere incontri regolari con i clienti significa sviluppare una migliore comprensione della loro attività e delle loro esigenze.
 - Aumento dei profitti: offrire servizi più ampi di supporto e fatturazione, in modo diretto o attraverso un provider indiretto, apre la strada a nuovi flussi di ricavi.  
 - Valore aggiunto: potrai fornire ai clienti soluzioni specifiche del settore che includono prodotti Microsoft.
@@ -36,21 +37,20 @@ Il programma Cloud Solution Provider (CSP) non consiste semplicemente nella rive
 
  Nel modello di addebito diretto i partner acquistano prodotti e abbonamenti direttamente da Microsoft e li vendono direttamente ai propri clienti tramite il personale di vendita interno. I partner che già dispongono dell'adeguata infrastruttura di vendita, fatturazione e supporto, o sono intenzionati a svilupparla, possono scegliere il modello CSP diretto. I requisiti per diventare partner diretto sono stati modificati di recente e avranno validità a partire dal 31 agosto 2018. I partner diretti dovranno soddisfare i nuovi requisiti a partire dal successivo periodo di registrazione, posteriore al 31 agosto 2018.
 
-
 #### <a name="new-expanded-requirements"></a>Nuovi requisiti estesi:
 
 Supporto
-- Espandi le capacità di supporto tramite l'acquisto di supporto cloud con priorità, uno-a-uno, con un pacchetto di supporto avanzato Microsoft per i partner. In alternativa, puoi scegliere un pacchetto di supporto tecnico Premier di Microsoft per i partner per accedere al catalogo completo dei servizi proattivi, al supporto in garanzia con privilegi elevati 24 ore al giorno, 7 giorni su 7 e alla gestione degli account tecnici sul cloud, in modalità ibrida e in locale. 
+
+- Espandi le capacità di supporto tramite l'acquisto di supporto cloud con priorità, uno-a-uno, con un pacchetto di supporto avanzato Microsoft per i partner. In alternativa, puoi scegliere un pacchetto di supporto tecnico Premier di Microsoft per i partner per accedere al catalogo completo dei servizi proattivi, al supporto in garanzia con privilegi elevati 24 ore al giorno, 7 giorni su 7 e alla gestione degli account tecnici sul cloud, in modalità ibrida e in locale.
 
 Servizi
 
 - Specifica che fornisci almeno un servizio gestito, un servizio di proprietà intellettuale o una soluzione applicativa al cliente. Per altre informazioni, vedi l'argomento relativo all'aggiunta di servizi gestiti.
 
 - Soddisfa le funzionalità di infrastruttura minime, ad esempio la fatturazione e il provisioning.
-Microsoft monitora le prestazioni annue per avere la certezza che i partner con fatturazione diretta che soddisfano questi requisiti mostrino una crescita aziendale costante. Attualmente, non esistono obiettivi specifici in termini di prestazioni, tuttavia in futuro Microsoft potrebbe implementare un indicatore delle prestazioni. 
+Microsoft monitora le prestazioni annue per avere la certezza che i partner con fatturazione diretta che soddisfano questi requisiti mostrino una crescita aziendale costante. Attualmente, non esistono obiettivi specifici in termini di prestazioni, tuttavia in futuro Microsoft potrebbe implementare un indicatore delle prestazioni.
 
 - ID Microsoft Partner Network (MPN) attivo per la località in cui vuoi vendere.
-
 
 ### <a name="indirect-model"></a>Modello indiretto
 
@@ -59,7 +59,6 @@ Nel modello indiretto i provider (noti anche come distributori) acquistano prodo
 - ID Microsoft Partner Network (MPN) attivo per la località in cui vuoi vendere.
 - Possibilità di firmare contratti legali per conto dell'organizzazione
 - Relazione con [un provider Microsoft ufficiale](https://partnercenter.microsoft.com/partner/find-a-provider)
-
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>Dove posso vendere tramite il programma CSP?
 
@@ -71,13 +70,14 @@ Prima di poter effettuare un ordine di un prodotto CSP per conto di un cliente, 
 
 Puoi vendere la gamma completa di [servizi cloud Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), nonché una varietà di offerte aggiuntive soggette a modifiche frequenti. Per visualizzare le offerte CSP del mese corrente, accedi al Centro per i partner e quindi alla pagina [**Prezzi e offerte**](https://partnercenter.microsoft.com/pcv/sales).
 
-## <a name="see-also"></a>Vedere anche 
+## <a name="next-steps"></a>Passaggi successivi
 
+- Requisiti per ogni modello CSP: [Programma Cloud Solution Provider](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 
-|**Per informazioni su**   |**Leggi**   |
-|:---------------------------|:--------------------|
-|Requisiti per ciascun modello CSP   | [Programma Cloud Solution Provider](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
-|Vendita nei cloud nazionali Microsoft   | [Richiedere di vendere nei cloud nazionali Microsoft](csp-national-clouds-overview.md)|
-|Contratto del cliente Microsoft: modelli per i clienti   |[Contratti del cliente Microsoft per area geografica e lingua](agreements.md)|
-|Attività dei provider indiretti nel Centro per i partner  |[Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider](indirect-provider-tasks-in-partner-center.md)|
-|Attività dei rivenditori indiretti nel Centro per i partner   |[Collaborare con i provider indiretti nel programma Cloud Solution Provider](indirect-reseller-tasks-in-partner-center.md)|
+- Vendita nei cloud nazionali Microsoft: [Richiedere di vendere nei cloud nazionali Microsoft](csp-national-clouds-overview.md)
+
+- Modelli per i clienti del Contratto del cliente Microsoft: [Contratti del cliente Microsoft per area geografica e lingua](agreements.md)
+
+- Attività dei provider indiretti nel Centro per i partner: [Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider](indirect-provider-tasks-in-partner-center.md)
+
+- Attività dei fornitori indiretti nel Centro per i partner: [Collaborare con provider indiretti nel programma Cloud Solution Provider](indirect-reseller-tasks-in-partner-center.md)

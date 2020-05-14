@@ -1,5 +1,5 @@
 ---
-title: Appartenenza a Microsoft Partner Network | Centro per i partner
+title: Adesione al Microsoft Partner Network
 ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
@@ -10,24 +10,25 @@ ms.author: labrenne
 keywords: partner, partnership, MPN, Microsoft Partner Network, action pack, MAP, sottoscrizione di action pack, vantaggi, vantaggi MPN, appartenenza, silver, gold, competenze
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617fa9afac5dcb43304aad63d2aa9b9d4928f293
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798839"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362739"
 ---
 # <a name="partner-with-microsoft"></a>Diventa partner di Microsoft
 
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore dei partner MPN
--   Amministratore utenti
--   Agente amministratore
+
+- Amministratore globale
+- Amministratore dei partner MPN
+- Amministratore utenti
+- Agente amministratore
 
 Quando partecipi a un programma per partner Microsoft, diventi parte di una community globale che ti connette a relazioni, informazioni approfondite, strumenti, risorse e programmi utili per sorprendere i tuoi clienti e promuovere la crescita della tua azienda.
 
-Vedi [Perché Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft) per altre informazioni sui vantaggi della collaborazione con Microsoft. 
+Vedi [Perché Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft) per altre informazioni sui vantaggi della collaborazione con Microsoft.
 
 ## <a name="join-the-microsoft-partner-network"></a>Partecipa a Microsoft Partner Network
 
@@ -51,7 +52,7 @@ Al conseguimento dei tuoi obiettivi aziendali, puoi partecipare al programma al 
 
 ### <a name="action-pack"></a>Action Pack
 
-Action Pack offre software, supporto e vantaggi per le aziende che vogliono avviare, costruire e veder crescere il rapporto con Microsoft in un mondo sempre più incentrato sul cloud e sui dispositivi mobili. 
+Action Pack offre software, supporto e vantaggi per le aziende che vogliono avviare, costruire e veder crescere il rapporto con Microsoft in un mondo sempre più incentrato sul cloud e sui dispositivi mobili.
 
 Per altre informazioni su Action Pack, consulta le risorse seguenti:
 
@@ -82,5 +83,6 @@ Per altre informazioni sui vantaggi e sui requisiti di adesione alla rete, consu
 - [Gestire i vantaggi MPN nel Centro per i partner](manage-your-partner-network-benefits.md)
 - [Requisiti di base](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>Vedere anche
-- [Espandere le proprie attività con i partner Microsoft](grow-your-business.md)
+## <a name="next-steps"></a>Passaggi successivi
+
+[Espandere le proprie attività con i partner Microsoft](grow-your-business.md)

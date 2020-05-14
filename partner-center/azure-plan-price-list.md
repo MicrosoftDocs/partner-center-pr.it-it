@@ -1,23 +1,24 @@
 ---
-title: Listino prezzi per il piano di Azure | Centro per i partner
+title: Listino prezzi del piano di Azure per i partner CSP
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri come usare il Centro per i partner per visualizzare il listino prezzi per le sottoscrizioni in base al piano di Azure.
+description: Scopri come i partner del programma CSP possono usare il Centro per i partner per visualizzare il listino prezzi delle sottoscrizioni in base al piano di Azure.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 2d69fb316f2451b57af1e6e850d676c67cde5fa3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f17dc4cb7e3f52984ce9a1fb7c19d048bb74c47b
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76812643"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908317"
 ---
-# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Listino prezzi per la nuova esperienza commerciale di Azure in CSP 
+# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Listino prezzi per la nuova esperienza commerciale di Azure in CSP
 
 **Ruoli appropriati**
 

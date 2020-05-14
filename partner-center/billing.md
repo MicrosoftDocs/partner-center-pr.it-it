@@ -1,23 +1,24 @@
 ---
-title: Fatturazione | Centro per i partner
+title: 'Informazioni di riferimento: articoli sulla fatturazione del Centro per i partner'
 ms.topic: article
-ms.date: 04/02/2020
+ms.date: 04/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Elenco di argomenti relativi a fatturazione e imposte in Partner Center, incluse informazioni su risorse di fatturazione, fatture, fatturazione CSP e imposte.
+Description: Informazioni sugli argomenti relativi alla fatturazione e alle imposte nel Centro per i partner. Informazioni sulle risorse di fatturazione, fatture, fatturazione CSP e imposte.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: LauraBrenner
 ms.author: labrenne
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione ordini, mancato pagamento, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: high
-ms.openlocfilehash: 5b50a51d1d3d29f0631dc7b2147e11181e719c87
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ef1f162d181fd4fa3f7c806cabb781ff6010a6dc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798579"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908227"
 ---
-# <a name="billing-and-taxes"></a>Fatturazione e imposte
+# <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Panoramica: Principali articoli sulla fatturazione e sulle imposte nel Centro per i partner
 
 **Si applica a**
 

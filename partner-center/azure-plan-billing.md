@@ -1,7 +1,7 @@
 ---
-title: Fatturazione del piano di Azure | Centro per i partner
+title: 'Fatturazione dei piani di Azure: fattura e file di riconciliazione'
 ms.topic: article
-ms.date: 02/12/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come accedere e ottieni informazioni sulla struttura dei file di fatturazione e di riconciliazione correlata alla fatturazione per il piano di Azure.
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f0246338ef8c0da06dce557573cd2811d07a0e9e
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78240243"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908365"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nuova esperienza commerciale in CSP - Fatturazione di Azure 
 
@@ -62,7 +63,7 @@ Per visualizzare i dati della cronologia relativa alle fatture e ai file di rico
 
 ## <a name="understanding-usage-data"></a>Informazioni sui dati di utilizzo 
 
-1. Il piano di Azure è il contenitore radice o di primo livello per l'utilizzo. Tutti gli utilizzi sono associati a un singolo piano di Azure. 
+1. Il piano di Azure è il contenitore radice o di primo livello per l'utilizzo. Tutti gli utilizzi sono associati a un singolo piano di Azure.
 
 2. All'interno di un piano saranno presenti una o più sottoscrizioni di Azure. Si tratta di contenitori usati per la gestione e la distribuzione delle risorse. 
 
@@ -72,7 +73,7 @@ Per visualizzare i dati della cronologia relativa alle fatture e ai file di rico
 
 5. Le risorse generano contatori, che sono misurazioni del consumo di una risorsa. Una risorsa può generare l'utilizzo di più contatori. I contatori sono identificati da ProductId, SKUId e AvailabilityId. 
 
-### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>Gerarchia della misurazione e dei gruppi di risorse di sottoscrizione
+### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Gerarchia dei gruppi di risorse di sottoscrizione e misurazione
 
 **Account di Azure (tenant)**
 

@@ -1,7 +1,7 @@
 ---
 title: Gestire l'account del Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 03/02/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gestisci il profilo, il catalogo, i dati bancari e fiscali, i ruoli e le autorizzazioni della tua azienda e altro ancora nel Centro per i partner.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 43a05ebca983034621caab8dc95593fc366b9eeb
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798769"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859377"
 ---
 # <a name="manage-your-partner-center-account"></a>Gestire l'account del Centro per i partner
 
@@ -23,13 +23,17 @@ ms.locfileid: "82798769"
 
 - Centro per i partner
 
-L'account che crei nel Centro per i partner quando esegui la registrazione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account nel Centro per i partner, è necessario che tu o il tuo amministratore termini la configurazione del profilo completo della società, inclusi i dettagli sul supporto, le eventuali esenzioni fiscali e le informazioni sul contatto principale. L'account dell'azienda includerà anche gli account utente per chiunque usi il Centro per i partner per aggiungere e gestire clienti, vendere sottoscrizioni, gestire la fatturazione, creare profili di business, gestire segnalazioni, usare programmi di incentivi e fornire servizi di supporto.
+L'account che crei nel Centro per i partner quando esegui la registrazione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account nel Centro per i partner, dovrai terminare la configurazione del profilo completo della società, inclusi i dettagli sul supporto, le eventuali esenzioni fiscali e le informazioni sul contatto principale. L'account dell'azienda includerà anche gli account utente per chiunque usi il Centro per i partner per aggiungere e gestire clienti, vendere sottoscrizioni, gestire la fatturazione, creare profili di business, gestire segnalazioni, usare programmi di incentivi e fornire servizi di supporto.
+
+Vedere anche 
+- [Invitare i dipendenti a partecipare al Centro per i partner](guide-to-migration.md)
+- [Aggiungere un nuovo utente](create-user-accounts-and-set-permissions.md)
 
 ## <a name="programs-in-which-you-are-enrolled"></a>Programmi a cui si è iscritti
 
 Gran parte delle operazioni che devi eseguire per gestire l'account del Centro per i partner si riferisce al programma o ai programmi specifici a cui sei iscritto e alle autorizzazioni e ai ruoli utente che ti sono stati assegnati nel Centro per i partner.
 
-È facile vedere a quali programmi puoi accedere nel Centro per i partner:
+Per vedere a quali programmi puoi accedere nel Centro per i partner:
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 2. Guarda il riquadro di spostamento a sinistra. Verranno visualizzate le opzioni associate ai programmi a cui sei iscritto.
@@ -101,6 +105,7 @@ Se sei iscritto a programmi come il programma MPN o Cloud Solution Provider (CSP
 |**Per eseguire questa operazione**   |**Leggi**   |
 |-----------------------|:-----------------------|
 |Verificare che il profilo della società sia aggiornato   |[Aggiornare il profilo di partner](update-your-partner-profile.md)|
+|Add new users (Aggiungi nuovi utenti)|[Creare account utente e assegnare autorizzazioni](create-user-accounts-and-set-permissions.md)|
 |A tutti gli utenti dell'azienda che devono lavorare nel Centro per i partner devono essere assegnati ruoli. Ogni ruolo dispone di autorizzazioni specifiche e attività disponibili.|[Aggiornare gli account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md)|
 |Esaminare le autorizzazioni associate a ogni ruolo|[Assegnare autorizzazioni e ruoli utente](permissions-overview.md)
 |Gestire le ubicazioni della società|[Gestire l'account partner: ubicazioni](manage-locations.md)

@@ -1,19 +1,19 @@
 ---
 title: Eseguire la preparazione per il passaggio da Partner Membership Center al Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 06/13/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Leggi le informazioni utili e le domande frequenti prima di far passare la tua azienda da PMC al Centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 06167a667152ddaf65702547783df93726f6cadc
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340104"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859352"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Eseguire la preparazione per il passaggio da Partner Membership Center (PMC) al Centro per i partner
 
@@ -33,49 +33,24 @@ Un account aziendale Azure è una rappresentazione virtuale, dedicata e isolata,
 
 Il tuo account aziendale ospita gli utenti di Azure AD e le informazioni correlate: indirizzo di posta elettronica, password, dati del profilo, autorizzazioni e così via. L'account aziendale contiene anche gruppi, applicazioni e altre informazioni relative a una società e alla sua sicurezza. 
 
+Il tuo indirizzo di posta elettronica aziendale fa parte del tenant Azure Active Directory. Per avere un account nel Centro per i partner, devi disporre di un tenant AAD. Per altre informazioni su Azure Active Directory, leggi [Creare la directory in Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+
 Nel Centro per i partner userai il tuo indirizzo di posta elettronica aziendale, non quello personale, per accedere al tuo account.
 - Account aziendale: john@contoso.com
 - Account personale: John@outlook.com
 
-Il tuo indirizzo di posta elettronica aziendale fa parte del tenant Azure Active Directory. Per avere un account nel Centro per i partner, devi disporre di un tenant AAD. Per altre informazioni su Azure Active Directory, leggi [Creare la directory in Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+**Con quale account devi accedere al Centro per i partner se disponi di un tenant AAD presso Microsoft (ad esempio, per Office 365) e anche di un tenant per l'attività CSP?**
 
-**Quando passo da PMC al Centro per i partner, con quale account devo accedere al Centro per i partner se dispongo di un tenant AAD presso Microsoft (ad esempio, per Office 365) e anche di un tenant per l'attività CSP?**
-
-Puoi accedere al Centro per i partner con l'account CSP o con il tuo account di posta elettronica aziendale MPN. Se scegli di accedere con il tuo indirizzo di posta elettronica aziendale CSP, nel riquadro di spostamento nella parte sinistra del dashboard vengono visualizzate le informazioni sia per il programma MPN che per il programma CSP. Se accedi con il tuo indirizzo di posta elettronica aziendale del tenant Azure AD di MPN, vengono visualizzate solo le informazioni relative al programma MPN. I ruoli utente sono diversi tra MPN e CSP. Pertanto, se usi lo stesso account sia per l'attività MPN che per l'attività CSP, assicurati di assegnare di conseguenza i ruoli utente. Per informazioni sui ruoli utente, vedi [Assegnare autorizzazioni e ruoli utente](permissions-overview.md).
+Puoi accedere al Centro per i partner con l'account CSP o con il tuo account di posta elettronica aziendale MPN. Se scegli di accedere con il tuo indirizzo di posta elettronica aziendale CSP, nel riquadro di spostamento nella parte sinistra del dashboard vengono visualizzate le informazioni sia per il programma MPN che per il programma CSP. Se accedi con il tuo indirizzo di posta elettronica aziendale del tenant Azure AD di MPN, vengono visualizzate solo le informazioni relative al programma MPN. 
 
 **Se non vuoi usare il tenant Azure AD di Office 365 esistente per il Centro per i partner, puoi creare un nuovo tenant prima di eseguire la migrazione da PMC.**
 
-Possono essere numerose le ragioni per cui non vuoi usare un tenant Azure AD esistente per impostare il tuo account del Centro per i partner. Prima di avviare la migrazione al Centro per i partner, vai al [portale di Azure](https://ms.portal.azure.com/#home) per creare un nuovo tenant Azure AD. Segui le indicazioni contenute in [Creare un nuovo tenant in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Dopo aver creato il nuovo tenant, usa questo tenant AAD per impostare il tuo account del Centro per i partner quando passi da PMC al Centro per i partner. Per creare il tenant, devi essere un amministratore globale. Usa questa nuova directory per eseguire la migrazione al Centro per i partner.
+Possono essere numerose le ragioni per cui non vuoi usare un tenant Azure AD esistente per impostare il tuo account del Centro per i partner. Prima di avviare la migrazione al Centro per i partner, vai al [portale di Azure](https://ms.portal.azure.com/#home) per creare un nuovo tenant Azure AD. Segui le indicazioni contenute in [Creare un nuovo tenant in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Usare il nuovo tenant AAD per configurare l'account del Centro per i partner. Per creare il tenant, devi essere un amministratore globale. 
 
-
-**Qual è la differenza tra il ruolo di amministratore globale AAD e il ruolo di amministratore globale MPN di PMC?**
-
-Si tratta di due ruoli diversi con autorizzazioni diverse. L'amministratore globale del tenant AAD nel Centro per i partner amministra il tenant, pertanto aggiunge o rimuove utenti, fornisce e gestisce password, ruoli e autorizzazioni e ha accesso a tutti i programmi dell'azienda nel Centro per i partner. 
-
-Il ruolo di amministratore globale MPN in PMC consente di eseguire le seguenti operazioni:
-
-- Visualizzare e modificare tutti i dati associati all'azienda e a tutte le relative sedi.
-
--  Aggiungere amministratori a livello globale o locale.  Gli amministratori globali possono anche assegnare l'accesso di amministratore globale a qualsiasi persona in qualsiasi località/sede, in modo da concedere a tale persona l'accesso globale indipendentemente dalla località/sede a cui è associata.
--  Eseguire qualsiasi funzione dell'interfaccia utente per partner, tra cui: 
-
--  Aggiungere/rimuovere utenti
-
- - Assegnare/rimuovere ruoli 
-
- - Aggiungere/rimuovere/aggiornare posizioni 
-
- - Acquistare competenze/mappe 
-
--  Visualizzare benefit
-
-Quando l'amministratore globale MPN passa al Centro per i partner, il ruolo è denominato amministratore partner MPN, che ha autorizzazioni e attività diverse rispetto all'amministratore globale del Centro per i partner. Per altre informazioni sui ruoli e sulle autorizzazioni nel Centro per i partner, vedi [Assegnare autorizzazioni e ruoli utente](permissions-overview.md).
 
 **Ruoli utente, inclusi i ruoli utente guest nel Centro per i partner**
 
 Il Centro per i partner prevede diversi tipi di ruoli a seconda dei tipi di lavoro da svolgere. Sono presenti ruoli, come l'amministratore globale, che sono di Azure AD. Alcuni ruoli sono specifici dei programmi, ad esempio il programma Cloud Service Provider o Incentivi, mentre altri ruoli sono specifici di MPN. Per informazioni su tutti i ruoli del Centro per i partner, vedi [Assegnare autorizzazioni e ruoli utente](permissions-overview.md).
-
-
 
 **Che cosa accade ai ruoli dei miei utenti quando passano da PMC al Centro per i partner?**
 
@@ -92,12 +67,12 @@ Il profilo di business ti consente di presentarti ai clienti ed è una pagina di
 
 Se usi lo stesso tenant Azure AD per eseguire la migrazione di più account MPN al Centro per i partner, il sistema lo riconosce automaticamente e chiede di consolidare gli account. Questo vale anche se hai più domini associati allo stesso tenant Azure AD. 
 
-Puoi comunque decidere di eseguire la migrazione al Centro per i partner usando tenant AAD distinti, ma tieni presente che questo porta a una valutazione isolata delle tue competenze e quindi a costi di acquisto aggiuntivi. 
+Puoi comunque decidere di eseguire la migrazione al Centro per i partner usando tenant AAD distinti, ma tieni presente che questo porta a una valutazione isolata delle tue competenze e quindi a costi di acquisto aggiuntivi. Per altre informazioni sul consolidamento dell'account, vedi [Consolidare gli account aziendali](consolidate-accounts.md).
 
 **Se ho più tenant AAD e un solo account MPN, è possibile collegarli nel Centro per i partner?**
 
 Sì, nel Centro per i partner puoi collegare più tenant Azure AD a un singolo account del Centro per i partner.
-Per altre informazioni, vedi qui. 
+Per altre informazioni sul consolidamento dell'account, vedi [Consolidare gli account aziendali](consolidate-accounts.md).
 
 **Sono previste limitazioni per l'aggiunta di più tenant Azure AD a un singolo account del Centro per i partner?**
 
@@ -164,11 +139,11 @@ Seleziona **Competenze** nel riquadro di spostamento nella parte sinistra del da
 No, non ci sono ripercussioni sugli incentivi se hai spostato il tuo account senza consolidare le località/sedi. Se la tua azienda dispone di più account in PMC e, quando passi al Centro per i partner, decidi di eseguire il consolidamento in un account globale, gli incentivi non andranno persi, ma potrebbe verificarsi un ritardo nel loro versamento. Se non sposti tutti gli account PMC interessati da programmi per incentivi, potresti non ricevere più i proventi derivanti dagli incentivi legati a tali account.
 
 
-**Quali sono i ruoli utente Incentivi nel Centro per i partner?** 
+**Quali sono i ruoli Incentivi nel Centro per i partner?** 
 
 I ruoli Incentivi nel Centro per i partner dipendono dalla località/sede e includono amministratori Incentivi e utenti Incentivi. Per altre informazioni sulle operazioni che possono essere eseguite da tali ruoli, vedi [Assegnare autorizzazioni e ruoli utente](permissions-overview.md).
 
-**Gli utenti Incentivi possono essere assegnati a livello globale e a livello di località/sede?**
+**Gli amministratori Incentivi possono essere assegnati a livello globale e a livello di località/sede?**
 
  Sì. Puoi assegnare un amministratore Incentivi come tale per tutte le località/sedi oppure ogni località/sede può avere un proprio amministratore Incentivi.
 
@@ -182,7 +157,7 @@ La tua azienda può creare tutti i profili di business necessari per rappresenta
 
 **Come verranno assegnate le segnalazioni? Quali cambiamenti devo aspettarmi? Ad esempio, se ho una società globale in un mercato e sedi in altri mercati, secondo quali criteri verranno assegnate le segnalazioni?**
 
-Le segnalazioni vengono assegnate in base ai parametri di ricerca definiti dal cliente. Quindi, indipendentemente dal fatto che tu disponga di una o più sedi, se i clienti specificano una località desiderata e presso quella località hai un'azienda che soddisfa gli altri parametri, la segnalazione viene assegnata a tale località/sede.
+Le segnalazioni vengono assegnate in base ai parametri di ricerca definiti dal cliente. Indipendentemente dal fatto che tu disponga di una o più località/sede, se i clienti specificano una località/sede desiderata e presso quella località/sede hai un'azienda che soddisfa gli altri parametri, la segnalazione viene assegnata a tale località/sede.
 
 
 

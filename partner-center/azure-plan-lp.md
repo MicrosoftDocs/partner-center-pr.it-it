@@ -1,7 +1,7 @@
 ---
-title: Piano di Azure | Centro per i partner
+title: 'Piano di Azure: acquistare Azure con tariffe di pagamento in base al consumo'
 ms.topic: article
-ms.date: 01/21/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ottieni informazioni sull'esperienza commerciale del piano di Azure per acquistare servizi di Azure con tariffe con pagamento in base al consumo per i clienti. Sono disponibili anche informazioni sui nuovi requisiti di sicurezza.
@@ -10,14 +10,15 @@ ms.author: labrenne
 Keywords: Azure, piano di Azure, acquistare sottoscrizioni, sottoscrizioni
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7be0e8cd97a66742b1c2bfadbdb5edceb8a8d9c4
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1e5aeb04c7f37dfc777ece6b7190b8ae7e04ebe2
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76549666"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908348"
 ---
-# <a name="introduction-azure-plan"></a>Introduzione: piano di Azure
+# <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Introduzione: Il piano di Azure consente ai partner di acquistare Azure con tariffe di pagamento in base al consumo per i clienti
 
 Microsoft ha introdotto una nuova esperienza commerciale nel Centro per i partner: il piano di Azure.  Con questa nuova esperienza commerciale e in base al Contratto Microsoft Partner, i partner potranno accedere ai servizi di Azure a tariffe con pagamento in base al consumo per i clienti.
 

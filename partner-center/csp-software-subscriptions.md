@@ -1,7 +1,7 @@
 ---
-title: Vendere abbonamenti software tramite CSP | Centro per i partner
+title: Vendere abbonamenti software tramite CSP
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono usare il Centro per i partner per acquistare, gestire, vendere e annullare istanze riservate di Azure e abbonamenti server per i clienti.
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, servizi basati sul cloud, Azure, istanze riservate di Azure, Windows Server, SQL Server, abbonamenti software, annullare software
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 0d251f36c7ab8497b696c4eca2a2797c543e3325
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798429"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907948"
 ---
-# <a name="sell-software-subscriptions-through-csp"></a>Vendere abbonamenti software tramite CSP
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendere abbonamenti software tramite il programma Cloud Solution Provider (CSP)
 
 **Si applica a**
 
@@ -177,7 +177,7 @@ Quando tenti di annullare un ordine, il Centro per i partner può anche fornire 
 
 Dopo l'annullamento di un acquisto:
 
-- Verranno revocate tutte le chiavi del software e i collegamenti per il download correlati. Ciò significa che né tu né il cliente potrete più usare le chiavi del software e i collegamenti per il download correlati all'acquisto. Tu e il cliente siete tenuti a sospendere l'uso di tutto il software annullato. Sei inoltre tenuto a disinstallare il software annullato e a rimuovere i collegamenti e i download del software correlati.
+- Verranno revocate tutte le chiavi del software e i collegamenti per il download correlati. Ciò significa che né tu né il cliente potrete più usare le chiavi del software e i collegamenti per il download correlati all'acquisto. Tu e il cliente siete tenuti a sospendere l'uso del software annullato. Sei inoltre tenuto a disinstallare il software annullato e a rimuovere i collegamenti e i download del software correlati.
 
 - L'elemento annullato continuerà comunque a essere visualizzato nella pagina dei dettagli del software del cliente, ma la chiave di attivazione non sarà disponibile.
 

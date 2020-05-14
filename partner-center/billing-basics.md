@@ -1,23 +1,23 @@
 ---
-title: Panoramica della fatturazione | Centro per i partner
+title: Panoramica della fatturazione del Centro per i partner
 ms.topic: article
-ms.date: 04/03/2020
-description: Scopri le informazioni di base sulla fatturazione e le fatture per il Centro per i partner.
+ms.date: 05/05/2020
+description: Scopri le informazioni di base sulla fatturazione e le fatture per i partner CSP nel Centro per i partner. Include informazioni su come emettere fatture ai clienti e come trovare e leggere la fattura.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 keywords: fatturazione, pagamenti, ordini, annullamento, gestione ordini, mancato pagamento, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 6e46915b720f811f465a270a91e7deee8a45786f
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c911626e03bf2a84ee4d4b701def7d12c25c15fc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80676808"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908238"
 ---
-# <a name="billing-overview"></a>Panoramica della fatturazione
+# <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Panoramica della fatturazione per i partner del programma CSP che lavorano nel Centro per i partner 
 
 **Si applica a**
 

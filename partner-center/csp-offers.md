@@ -1,22 +1,23 @@
 ---
-title: Offerte dei partner nell'ambito del programma Cloud Solution Provider | Centro per i partner
+title: Offerte dei partner nel programma CSP
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri le offerte a disposizione dei partner che vendono tramite il programma Cloud Solution Provider.
+description: Come partner del programma CSP, puoi trovare informazioni sul catalogo in continua crescita dei servizi cloud Microsoft e delle offerte che puoi vendere ai clienti.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Cloud Solution Provider, programma cloud solution provider, CSP, aggiungere un prodotto, vendere ai clienti, offerte partner, offerte CSP, servizi basati sul cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, istanze riservate Azure, istanze di macchina virtuale riservate di Azure, prenotazioni di Azure, servizi online, software in abbonamento, AHUB, SQL Server su Azure, Windows Server in Azure, abbonamenti dei clienti
 ms.localizationpriority: high
-ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7c9ec7908c66fd4c31f9606e639958fba37761d7
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722542"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362329"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Offerte dei partner nell'ambito del programma Cloud Solution Provider
+# <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Panoramica delle offerte dei partner nell'ambito del programma Cloud Solution Provider
 
 **Si applica a**
 
@@ -39,31 +40,31 @@ Non sei ancora iscritto al programma Cloud Solution Provider? Per altre informaz
 
 Attualmente puoi vendere ai clienti CSP i seguenti tipi di prodotti e servizi:
 
-- Prenotazioni di Azure<br> 
+### <a name="azure-reservations"></a>Prenotazioni di Azure
 
-    I clienti possono riservare spazio in anticipo su macchine virtuali di Azure per un periodo di 1 o 3 anni.<br>
-    
-    Per altre informazioni, vedi [Vendere istanze di macchina virtuale riservate di Microsoft Azure](azure-reservations.md).
+   I clienti possono riservare spazio in anticipo su macchine virtuali di Azure per un periodo di 1 o 3 anni.
 
-- Software<br>
+   Per altre informazioni, vedi [Vendere istanze di macchina virtuale riservate di Microsoft Azure](azure-reservations.md).
 
-    I clienti possono acquistare abbonamenti relativi al software (per Windows Server e SQL Server, per un periodo di 1 o 3 anni, per l'esecuzione in istanze di macchina virtuale riservate di Azure).<br>
- 
-    Per altre informazioni, vedi [Vendere abbonamenti per il software tramite CSP](csp-software-subscriptions.md).  
+### <a name="software"></a>Software
 
-- Servizi online<br>
+   I clienti possono acquistare abbonamenti relativi al software (per Windows Server e SQL Server, per un periodo di 1 o 3 anni, per l'esecuzione in istanze di macchina virtuale riservate di Azure).
 
-    *Servizi online* è il nuovo nome usato per gli attuali *abbonamenti*. Per semplificare l'ordine di più tipi di prodotti da un'unica posizione, il flusso di attività "Aggiungi abbonamento" è stato integrato nel flusso di attività "Aggiungi prodotti".<br>
-    
-    Per altre informazioni, vedi [Abbonamenti dei clienti](customer-subscriptions.md).
+   Per altre informazioni, vedi [Vendere abbonamenti software tramite CSP](csp-software-subscriptions.md).  
 
-- Software come un servizio (SaaS) e altri prodotti di [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)<br>
+### <a name="online-services"></a>Servizi online
 
-    Puoi vendere abbonamenti a prodotti SaaS di fornitori di software indipendente (ISV). Per visualizzare solo le offerte SaaS in **Servizi online**, usa i filtri per impostare **Editore** su **Partner**. Verranno mostrate tutte le offerte SaaS che possono essere acquistate per quel cliente.<br>
-    
-    Puoi anche trovare informazioni su questi prodotti nella pagina **Marketplace** . Tieni presente che questa pagina include anche informazioni su altri tipi di prodotti che devono essere acquistati dal portale di Azure, non dal Centro per i partner.<br>
+   *Servizi online* è il nuovo nome usato per gli attuali *abbonamenti*. Per semplificare l'ordine di più tipi di prodotti da un'unica posizione, il flusso di attività "Aggiungi abbonamento" è stato integrato nel flusso di attività "Aggiungi prodotti".
 
-    Per altre informazioni, vedi [Panoramica del marketplace commerciale CSP](CSP-commercial-marketplace-overview.md)
+   Per altre informazioni, vedi [Abbonamenti dei clienti](customer-subscriptions.md).
+
+### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Software come un servizio (SaaS) e altri prodotti di [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)
+
+   Puoi vendere abbonamenti a prodotti SaaS di fornitori di software indipendente (ISV). Per visualizzare solo le offerte SaaS in **Servizi online**, usa i filtri per impostare **Editore** su **Partner**. Verranno mostrate tutte le offerte SaaS che possono essere acquistate per quel cliente.
+
+   Puoi anche trovare informazioni su questi prodotti nella pagina **Marketplace** . Tieni presente che questa pagina include anche informazioni su altri tipi di prodotti che devono essere acquistati dal portale di Azure, non dal Centro per i partner.
+
+   Per altre informazioni, vedi [Panoramica del marketplace commerciale CSP](CSP-commercial-marketplace-overview.md).
 
 ## <a name="add-products-page-details"></a>Dettagli della pagina Aggiungi prodotti
 
@@ -81,14 +82,14 @@ Nell'elenco seguente sono identificate tutte le nuove aree della pagina **Aggiun
 
 **Categoria**: indica il tipo di attività supportato dal prodotto e se viene offerta una versione di valutazione
 
-**Visualizza SKU, Visualizza prodotto**: seleziona l'una o l'altra opzione per passare dall'elenco dei prodotti a quello degli SKU e viceversa. **Prodotti** elenca i vari prodotti singolarmente, mentre **SKU** elenca gruppi di prodotti
+**Visualizza SKU, Visualizza prodotto**: seleziona l'una o l'altra opzione per passare dall'elenco dei prodotti a quello degli SKU e viceversa. La pagina **Prodotti** elenca i vari prodotti singolarmente, mentre la pagina **SKU** elenca gruppi di prodotti.
 
 ## <a name="buy-csp-offers"></a>Acquistare offerte CSP
 
-Per acquistare prodotti e servizi per conto dei tuoi clienti CSP, seleziona gli elementi desiderati dal cliente, aggiungili al carrello creando un ordine, quindi rivedi e invia l'ordine. Il processo generale è quello descritto di seguito. Per altre informazioni sugli ordini di un tipo di prodotto specifico, vedi i collegamenti sopra riportati.
+Per acquistare prodotti e servizi per conto dei tuoi clienti CSP, seleziona gli elementi desiderati dal cliente, aggiungili al carrello creando un ordine, quindi rivedi e invia l'ordine. Il processo generale è quello descritto di seguito. Per altri dettagli sugli ordini di un tipo di prodotto specifico, vedi i collegamenti sopra riportati.
 
->[Nota] Un'offerta CSP deve essere disponibile sia nel paese del tuo tenant che in quello del cliente. 
->Se ad esempio il tuo tenant si trova in Slovacchia e quello del cliente si trova in Germania, non potrai vendere Dynamics 365 Business Central Premium a tale cliente, perché questa offerta non è attualmente disponibile in Slovacchia.
+>[!Note]
+>Un'offerta CSP deve essere disponibile sia nel paese del tuo tenant che in quello del cliente. Se ad esempio il tuo tenant si trova in Slovacchia e quello del cliente si trova in Germania, non potrai vendere Dynamics 365 Business Central Premium a tale cliente, perché questa offerta non è attualmente disponibile in Slovacchia.
 
 1. Scegli **Clienti** dal menu Centro per i partner e individua il cliente che intende acquistare da te. 
 
@@ -96,22 +97,18 @@ Per acquistare prodotti e servizi per conto dei tuoi clienti CSP, seleziona gli 
 
 3. Nella pagina **Aggiungi prodotti** scegli **Azure**, **Servizi online** o **Software**.
 
-4. Ottimizza i filtri disponibili per trovare più facilmente i prodotti che stai cercando. Per visualizzare l'elenco completo dei contenuti disponibili, imposta i filtri applicabili su **qualsiasi**. 
+4. Ottimizza i filtri disponibili per trovare più facilmente i prodotti che stai cercando. Per visualizzare l'elenco completo dei contenuti disponibili, imposta i filtri applicabili su **qualsiasi**.
 
 5. Seleziona il prodotto desiderato dal cliente, immetti la quantità richiesta e seleziona **Aggiungi al carrello**.
 
 6. Ripeti i passaggi 4 e 5 finché non avrai aggiunto al carrello tutti gli elementi necessari. Seleziona **Rivedi** per verificare che il tuo ordine sia corretto.  
 
-7. Nella pagina **Rivedi i tuoi ordini** verifica o modifica i prodotti e la quantità, quindi seleziona **Acquista** per acquistare l'ordine. 
+7. Nella pagina **Rivedi i tuoi ordini** verifica o modifica i prodotti e la quantità, quindi seleziona **Acquista** per acquistare l'ordine.
 
-8. I dettagli dell'ordine, incluso il numero d'ordine, vengono visualizzati nella pagina successiva. Seleziona **Fatto** per passare alla pagina **Cronologia ordini**. 
+8. I dettagli dell'ordine, incluso il numero d'ordine, vengono visualizzati nella pagina successiva. Seleziona **Fatto** per passare alla pagina **Cronologia ordini**.
 
-**Altre informazioni** 
+## <a name="next-steps"></a>Passaggi successivi
 
 Per informazioni sul funzionamento del processo di fatturazione, vedi [Nozioni di base sulla fatturazione](https://docs.microsoft.com/partner-center/billing-basics).
 
 Per informazioni sull'acquisto con il piano di Azure, vedi [Acquistare il piano di Azure](purchase-azure-plan.md).
-
-## <a name="see-also"></a>Vedere anche
-
-[Panoramica del marketplace commerciale CSP](csp-commercial-marketplace-overview.md)

@@ -2,7 +2,7 @@
 title: Concedere ai clienti l'autorizzazione per acquistare i propri servizi
 description: Scopri in che modo i partner del programma CSP possono consentire ai clienti di acquistare i propri servizi, ad esempio le prenotazioni di Azure, per una sottoscrizione acquistata per loro.
 ms.topic: article
-ms.date: 05/12/2020
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: sottoscrizione, acquisto self-service, riservatezza self-service, abilitazione di ri, disabilitazione di RI, self-service, acquisto di clienti, autorizzazioni dei clienti, istanza riservata di acquisto del cliente, prenotazione dei clienti di Azure, attivare la funzionalità self-service, disattivare la funzionalità self-service
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 625229eb9243bc6deb631a824e8197fd0565072a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362609"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394142"
 ---
 # <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>Come concedere ai clienti l'autorizzazione per acquistare prodotti o servizi propri
 
@@ -128,7 +128,7 @@ Per attivare o disattivare le autorizzazioni dei clienti nel centro per i partne
 
 5. Individuare l'area **autorizzazioni del cliente** nella parte inferiore della pagina.
 
-   ![Autorizzazioni del cliente nella pagina dell'account](images/give-customers-permission-reservations.png)
+   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Autorizzazioni del cliente per la pagina dell'account." border="true":::
 
 6. In **prenotazioni di Azure**individuare l'opzione **Consenti al cliente di acquistare** .
 
@@ -152,7 +152,7 @@ Aiutare i clienti a comprendere meglio la gestione di questi aspetti delle preno
 
 **I prezzi dei clienti pagheranno le prenotazioni.** Il cliente effettuerà l'acquisto di prenotazioni di Azure in base a una sottoscrizione acquistata in precedenza nell'account di fatturazione del partner CSP. Il prezzo del cliente per tutte le prenotazioni di Azure acquistate in base a questa sottoscrizione viene anche impostato dall'utente. Il prezzo può essere diverso dal prezzo diretto Web visualizzato dal cliente nel portale di Azure.
 
-**In che modo i clienti possono ottimizzare l'uso di una prenotazione.** Alcuni clienti potrebbero trarre vantaggio dall'apprendere altre informazioni su come ottimizzare l'uso di una prenotazione o su come assegnare l'ambito iniziale di una prenotazione durante l'acquisto. Per altre informazioni, chiedere ai clienti di leggere [gestire le prenotazioni per le risorse di Azure]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
+**In che modo i clienti possono ottimizzare l'uso di una prenotazione.** Alcuni clienti potrebbero trarre vantaggio dall'apprendere altre informazioni su come ottimizzare l'uso di una prenotazione o su come assegnare l'ambito iniziale di una prenotazione durante l'acquisto. Per altre informazioni, chiedere ai clienti di leggere [gestire le prenotazioni per le risorse di Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
 
 **Cosa accade quando un cliente acquista una prenotazione con un ambito condiviso?** Quando i clienti acquistano una prenotazione basata su una sottoscrizione CSP precedente e assegnano un ambito condiviso a tale prenotazione, tutti gli sconti assegnati al cliente dal CSP verranno applicati all'utilizzo corrispondente per tutte le sottoscrizioni acquistate dal partner CSP per quel cliente.
 

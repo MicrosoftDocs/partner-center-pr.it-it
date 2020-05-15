@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 02/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: L'elenco delle offerte include le diverse famiglie di prodotti che possono essere acquistate tramite il centro per i partner e le relative informazioni sui prezzi.
+description: Vedi gli elenchi prezzi correnti per servizi basati su licenze come Office 365, Microsoft Dynamics CRM ed Enterprise Mobility Suite e servizi basati sull'utilizzo come Azure.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 19e935122d1223c87714ca8c3a3f4fd212f2cf3c
-ms.sourcegitcommit: 4731d6647db34cf214f781f9e002074210fcfc29
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ba6b3407f233376f99eea673e24f5a152839383a
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "81664289"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394163"
 ---
-# <a name="pricing-and-offers"></a>Prezzi e offerte
+# <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prezzi e offerte per Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e altro ancora
 
 **Si applica a**
 
@@ -41,7 +41,7 @@ All'interno di ognuna di queste famiglie di prodotti sono disponibili diversi SK
 
 I servizi basati su licenze includono un'anteprima di listino prezzi, che fornisce 30 giorni prima di qualsiasi modifica. Per visualizzare l'anteprima dell'elenco prezzi, vai a **vendi > prezzi e offerte**. Non sono disponibili anteprime dei prezzi per i servizi basati sull'utilizzo poiché questi servizi sono dinamici. Nella tabella seguente viene illustrato come leggere la tabella Listino prezzi.
 
-|**Item**        |**Definizione**      |
+|**Elemento**        |**Definizione**      |
 |:-----------   |:-----------   |
 |ADD   |Un nuovo elemento all'elenco prezzi|
 |CHG   |Modifiche al prezzo di listino dal mese al mese. Potrebbero verificarsi altre modifiche non correlate al prezzo di listino. i partner dovrebbero confrontare gli elenchi prezzi tra i mesi per determinare le modifiche apportate ad altre proprietà.|
@@ -80,7 +80,7 @@ I prezzi basati sull'utilizzo possono variare in un mese. Per ottenere i prezzi 
 
 CSP offre alcuni servizi a segmenti di mercato speciali, ad esempio Education, no profit e Government community Cloud. Non tutti i servizi sono disponibili in ogni canale. Nessun segmento predefinito è quello che viene chiamato segmento "commerciale". Tutti i prezzi basati sulle licenze sono disponibili nell'elenco prezzi basato su licenza della pagina prezzi e offerte. I prezzi di Azure per enti pubblici sono disponibili nell'elenco prezzi basato sull'utilizzo quando sono connessi al tenant CSP abilitato per Azure per enti pubblici.
 
-|**Segment**   |**utenti che devono qualificarsi**   |**Partner idoneo per i clienti**|**Tipi di prodotto abilitati**|
+|**Segmento**   |**utenti che devono qualificarsi**   |**Partner idoneo per i clienti**|**Tipi di prodotto abilitati**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
 |Education|Customer|No, la qualifica del cliente verrà eseguita da Microsoft |Solo basato su licenza|
 |Senza scopo di lucro|Customer|No, il cliente si qualifica all'esterno del centro per i partner|Solo basato su licenza|

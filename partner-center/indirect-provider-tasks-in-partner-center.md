@@ -1,19 +1,20 @@
 ---
 title: Partner con rivenditori indiretti in CSP
+description: In qualità di provider o database di distribuzione indiretto, Scopri come espandere la partnership con i rivenditori indiretti. Sono incluse le attività che è possibile eseguire nel centro per i partner.
 ms.topic: article
-ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Come provider indiretto, o database di distribuzione, informazioni su come espandersi mediante la collaborazione con i rivenditori indiretti. Sono incluse le attività che è possibile eseguire nel centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 218b0d9f22bfe10aa0974b1b2db38008d0a48eaf
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.date: 02/04/2020
+ms.openlocfilehash: 74db948f1f55e52957a480f2dc74a41b888f18c4
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362569"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394114"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 
@@ -81,7 +82,7 @@ Nella pagina Dettagli sottoscrizione, nel campo rivenditore (ID MPN), aggiungere
     > [!IMPORTANT]  
     >  È possibile modificare il testo nel messaggio di posta elettronica, ma assicurarsi di includere il collegamento in quanto è personalizzato per l'account del centro per i partner.
 
-4. Quando il rivenditore accetta la richiesta di collaborazione, verrà visualizzata nell'elenco dei rivenditori indiretti e sarà possibile:
+4. Quando il rivenditore accetta la richiesta di collaborazione, verrà visualizzata nell'elenco dei rivenditori indiretti, quindi è possibile:
 
    - Aggiungi nuovi clienti per loro conto
 
@@ -99,8 +100,8 @@ Per le sottoscrizioni esistenti, se si decide di utilizzare un rivenditore indir
 
 | **Per eseguire questa operazione** | **Eseguire questa operazione** | **In cui** |
 |   ------------------   |   -------   |   -----   |
-|Consentire al rivenditore di gestire l'account di un cliente e disporre delle autorizzazioni di amministratore per gestire le sottoscrizioni | Associa un rivenditore a un account cliente quando si aggiunge un nuovo cliente | Nella pagina **nuovo cliente** |
-|Consentire al rivenditore di gestire l'account di un cliente di Azure|Associare un rivenditore a un account cliente di Azure quando si aggiunge un nuovo cliente|Nel **portale dei servizi di Azure**selezionare [impostazioni utente](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) per assegnare le autorizzazioni del proprietario del **tenant** rivenditore indiretto|
+| Consentire al rivenditore di gestire l'account di un cliente e disporre delle autorizzazioni di amministratore per gestire le sottoscrizioni | Associa un rivenditore a un account cliente quando si aggiunge un nuovo cliente | Nella pagina **nuovo cliente** |
+| Consentire al rivenditore di gestire l'account di un cliente di Azure|Associare un rivenditore a un account cliente di Azure quando si aggiunge un nuovo cliente|Nel **portale dei servizi di Azure**selezionare [impostazioni utente](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) per assegnare le autorizzazioni del proprietario del **tenant** rivenditore indiretto|
 | Concedere il credito rivenditore per gli incentivi | Associa il rivenditore alla sottoscrizione (nuova o esistente) | Nella pagina **nuova sottoscrizione** |
 | Delega del supporto tecnico per sottoscrizioni specifiche al rivenditore | Selezionare il rivenditore dall'elenco dei **contatti del supporto designato** | Nella pagina dei dettagli della sottoscrizione selezionare il cliente dalla pagina **clienti** , quindi selezionare la sottoscrizione dalla pagina **sottoscrizioni** del cliente. |
 
@@ -123,8 +124,9 @@ Quando si associa un rivenditore a un nuovo account cliente, si delega la gestio
 5. Se l'ordine è corretto, selezionare **Invia**. Se l'ordine non è corretto, selezionare **Annulla** per annullare l'intera operazione e ricominciare.
 
 6. Dopo aver inviato l'ordine, viene visualizzata la pagina **conferma** . In **informazioni sul programma di installazione**vengono visualizzati il nome dell'account utente amministratore e la password temporanea. Copiare le informazioni relative al nome e alla password dell'account utente, in modo da poterle inviare al nuovo cliente.
+
     > [!IMPORTANT]  
-    > Assicurarsi di prendere nota del nome e della password dell'account utente, perché non sarà possibile accedere di nuovo a queste informazioni dopo la chiusura di questa pagina.
+    > Assicurarsi di prendere nota del nome e della password dell'account utente, perché non è possibile accedere nuovamente a queste informazioni dopo aver chiuso la pagina.
 
 7. Selezionare **Operazione completata**. Il nuovo cliente verrà visualizzato nell'elenco dei clienti, associato al rivenditore indiretto. Il rivenditore dispone ora dell'accesso amministrativo alle informazioni e alle sottoscrizioni dell'account del cliente ed è in grado di gestire le sottoscrizioni per conto dell'utente.
 

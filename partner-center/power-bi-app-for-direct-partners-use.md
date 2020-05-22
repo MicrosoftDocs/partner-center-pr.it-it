@@ -1,20 +1,21 @@
 ---
-title: App di analisi del centro per i partner per Power BI | Centro per i partner
+title: Usare il centro per i partner Analytics per Power BI
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Usare l'app di analisi del centro per i partner per Power BI (per i partner diretti in CSP).
+description: Informazioni su come visualizzare i dati aziendali usando l'app di analisi del centro per i partner per Power BI (per i partner diretti in CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bb5bb017e6f61b91020d4242228da3713e9ce4f8
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 684ddb00a0497e01fc0fff318000c4b17dd0ea53
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362379"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795867"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visualizzare i dati aziendali con l'app partner Center Analytics per Microsoft Power BI
 

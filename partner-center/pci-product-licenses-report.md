@@ -1,24 +1,24 @@
 ---
-title: Partner Center Insights-report licenze prodotto | Centro per i partner
+title: Partner Center Insights-licenze del prodotto
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri cosa stai facendo bene e dove puoi migliorare i prodotti cloud con licenza (o basata su postazione) che Vendi o Gestisci per i tuoi clienti.
+description: Verifica il report licenze del prodotto e Scopri come migliorare i prodotti cloud con licenza (o basata su postazione) che Vendi o Gestisci per i tuoi clienti.
 ms.assetid: ''
 keywords: PCI, prestazioni, misure, successo dei clienti, sottoscrizioni cloud, analisi, report
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0d2b5dcac2a51d78d814cc6c5099eaeafa0f769a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648012"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795658"
 ---
-# <a name="product-licenses-report"></a>Report licenze prodotto
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Report licenze del prodotto nel dashboard di partner Center Insights
 
 **Ruoli appropriati**
 - Amministratore globale
@@ -28,7 +28,7 @@ ms.locfileid: "75648012"
 
 Il report licenze prodotto presenta l'analisi delle licenze per i prodotti cloud basati su Seat, ad esempio O365, Dynamics, M365, Power BI e così via. Le analisi presentate in questo articolo sono associate all'utilizzo delle licenze vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report licenze prodotto.
 
-- Riepilogo
+- Summary
 - Distribuzione geografica delle licenze
 - Aggiunta licenza
 - Distribuzione delle licenze per località partner, canale di vendita, SKU, tipo di connessione partner, segmento
@@ -81,3 +81,7 @@ L'asse X rappresenta i mesi dell'intervallo di date selezionato. L'asse Y rappre
 Questa visualizzazione Mostra una suddivisione delle licenze dei clienti in base al prodotto e al paese del cliente/area geografica. Quando si seleziona un prodotto nel grafico a torta della **licenza per prodotto** , il grafico adiacente visualizzerà una ripartizione delle licenze per area cliente.
 
 ![distribuzione delle licenze](images/pci/pci_licenses_report_license_distrib_4.png)
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- Per altri report, vedere [Partner Center Insights](partner-center-insights.md).

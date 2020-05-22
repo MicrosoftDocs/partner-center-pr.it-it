@@ -1,24 +1,24 @@
 ---
-title: Partner Center Insights-report sulle competenze | Centro per i partner
+title: Report sulle competenze di partner Center Insights
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri cosa stai facendo bene e dove puoi migliorare le competenze Microsoft, i livelli di competenza e le offerte per offrire soluzioni Microsoft.
 ms.assetid: ''
 keywords: PCI, prestazioni, misure, successo dei clienti, competenze, vantaggi, analisi, report
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226187"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795655"
 ---
-# <a name="competencies-report"></a>Report sulle competenze
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Report sulle competenze disponibile dal dashboard di partner Center Insights
 
 **Ruoli appropriati**
 - Amministratore globale
@@ -43,7 +43,7 @@ Ogni competenza dispone di un set specifico di requisiti da soddisfare. I requis
 
 È possibile vedere le sezioni seguenti del report competenze:
 
-- Riepilogo
+- Summary
 - Analisi delle metriche delle competenze
 - Cronologia delle competenze
 
@@ -86,3 +86,6 @@ Questa visualizzazione Mostra una tabella dettagliata di tutte le competenze fin
 
 ![cronologia delle competenze](images/pci/pci_competencies_comp_history_3.png)
 
+## <a name="next-steps"></a>Passaggi successivi
+
+- Per altri report, vedere [Partner Center Insights](partner-center-insights.md).

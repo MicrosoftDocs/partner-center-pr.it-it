@@ -1,26 +1,27 @@
 ---
-title: Partner Center Insights-report vantaggi | Centro per i partner
+title: Rapporto sui vantaggi di partner Center Insights
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i tipi di vantaggi dei partner Microsoft che ti sono stati concessi per favorire la crescita del tuo business, migliorare l'efficienza e migliorare le competenze del team.
 ms.assetid: ''
 keywords: PCI, prestazioni, misurazioni, vantaggi, analisi, report
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c1522f6fe9a6b287443245577232b59d0032cdb5
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226197"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795721"
 ---
-# <a name="benefits-report"></a>Report vantaggi
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Report dei vantaggi disponibile dal dashboard di partner Center Insights
 
 **Ruoli appropriati**
+
 - Amministratore globale
 - Agente amministratore
 - Visualizzatore report
@@ -32,10 +33,10 @@ Un partner Microsoft può accedere a una serie di vantaggi che usano la tecnolog
 
 Nel report dei vantaggi è possibile visualizzare i grafici seguenti:
 
-- Riepilogo
+- Summary
 - Servizi cloud concessi
 - Prodotti software
-- Abbonamenti a Visual Studio
+- Sottoscrizioni di Visual Studio
 - Vantaggi tecnici
 - Vai al mercato
 
@@ -69,7 +70,7 @@ Questo grafico mostra la tendenza mensile delle sottoscrizioni di Visual Studio 
 
 Selezionare una scheda nella parte superiore del grafico per visualizzare la tendenza di una sottoscrizione specifica di Visual Studio che si concede come vantaggio. Le colonne nel grafico rappresentano le postazioni utilizzate per la sottoscrizione. Il grafico a linee rappresenta le postazioni generali assegnate per la sottoscrizione.
 
-![Abbonamenti a Visual Studio](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
+![Sottoscrizioni di Visual Studio](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
 
 **Vantaggi tecnici**
 
@@ -86,3 +87,7 @@ Questo grafico mostra la tendenza mensile delle offerte go-to-Market o dei servi
 Selezionare un'offerta o una categoria di servizi per l'immissione sul mercato dall'elenco a discesa nella parte superiore del grafico per visualizzare la tendenza dei servizi go-to-Market selezionati concessi alla società. Le colonne nel grafico rappresentano le offerte o i servizi di go-to-Market attivati. Il grafico a linee rappresenta le offerte o i servizi globali concessi alla società.
 
 ![Offerte go-to-Market](images/pci/pci_benefits_go_to_market_7.png)
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- Per altri report, vedere [Partner Center Insights](partner-center-insights.md).

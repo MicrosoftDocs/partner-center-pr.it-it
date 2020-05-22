@@ -1,27 +1,29 @@
 ---
-title: File di fattura | Centro per i partner
+title: Informazioni sui campi nelle fatture di fatturazione
 ms.topic: article
-ms.date: 08/26/2019
+ms.date: 05/18/2020
 description: Comprendere i campi del file di fattura per la fatturazione del centro per i partner.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 keywords: fatturazione, fattura
 ms.localizationpriority: medium
-ms.openlocfilehash: bcbb784ceda9e4b8cbddf61e0b5380ad18d3f264
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f546174ee80c90695ec11f09e9cd1d5fdd4c4e46
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798899"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794866"
 ---
-# <a name="invoice-files"></a>File di fattura
+# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Fatture di fatturazione per il centro per i partner: informazioni su come leggere i campi fatturazione e costo singolo
 
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Amministratore fatturazione
--   Agente di supporto tecnico
+
+- Amministratore globale
+- Amministratore utenti
+- Amministratore fatturazione
+- Agente di supporto tecnico
 
 È possibile usare le tabelle seguenti per comprendere i campi nei file di fattura del centro per i partner.
 

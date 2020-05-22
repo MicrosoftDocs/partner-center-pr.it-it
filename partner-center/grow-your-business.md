@@ -1,7 +1,7 @@
 ---
-title: Espandere la propria attività con i partner Microsoft | Centro per i partner
+title: Espandere le proprie attività con i partner Microsoft
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sulle risorse per la crescita dell'azienda partner Microsoft. Questo include come ottenere lead di vendita (riferimenti) da Microsoft.
@@ -9,14 +9,15 @@ keywords: segnalazioni, rispondere alle segnalazioni, lead, lead di vendita, pro
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bd43f16a9362faeb105591e57be35f9cb0441479
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f221c34ea22eb200bbcf90c5a82beeb51ec3eaae
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798039"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795815"
 ---
-# <a name="grow-your-microsoft-partner-business"></a>Espandere le proprie attività con i partner Microsoft 
+# <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Ampliare le attività dei partner Microsoft: informazioni su come ottenere lead & impostare la società a parte
 
 Microsoft offre numerose risorse che consentono di espandere la propria attività con i partner. Di seguito viene descritto come le funzionalità in questo sito, il Centro per i partner Microsoft, possono concorrere ad attirare nuovi clienti e ottenere ulteriori profitti.
 
@@ -42,5 +43,5 @@ Usare il Centro per i partner per:
 | Vendere in altri mercati | Il canale di vendita Cloud Solution Provider è disponibile in molte aree geografiche e paesi/regioni. Vedere [Mercati Cloud Solution Provider](agreements.md) per esaminare l'elenco. Per un'introduzione al canale Cloud Solution Provider, vedere la [panoramica di Cloud Solution Provider](csp-overview.md).  | Partner CSP |
 Vendere in settori specifici come organizzazioni no profit e istruzione|[Vendere in settori specializzati](get-special-pricing-for-offers.md)|Partner CSP|
 |Espandere la propria attività tramite le numerose attività disponibili nel programma co-op di incentivi. Archiviare le attestazioni per le attività tramite il Centro per i partner.| [Creare e gestire richieste di incentivi](create-incentives-claims.md)|Partner CSP|
-|Vendere sottoscrizioni per prodotti del Marketplace commerciale|[Undertand CSP-attività del Marketplace commerciale](csp-commercial-marketplace-overview.md)|Partner CSP|
+|Vendere sottoscrizioni per prodotti del Marketplace commerciale|[Informazioni sulle attività del Marketplace commerciale CSP](csp-commercial-marketplace-overview.md)|Partner CSP|
 |L'organizzazione è impegnata con successo nella vendita e nella gestione di Azure? Richiedere la registrazione al programma Azure Expert Microsoft Service Provider|[Programma Azure Expert Microsoft Service Provider](azure-expert-msp.md)|Partner CSP|

@@ -1,39 +1,42 @@
 ---
-title: Offerte esclusive del Marketplace | Centro per i partner
+title: Offerte esclusive del Marketplace dagli ISV
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Gli ISV possono scegliere i partner CSP da usare rendendoli esclusivi le loro offerte.
+description: Informazioni sul modo in cui i fornitori di software indipendenti (ISV) rendono alcune offerte esclusive e disponibili solo per partner CSP specifici.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b3a3edb1a6c74ae0bddb8669ef6d81e0a24a34e4
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123268"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794845"
 ---
-# <a name="marketplace-exclusive-offers"></a>Offerte esclusive per Marketplace
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Marketplace Exclusive offers di fornitori di software indipendenti
 
 **Ruoli appropriati**
--    Amministratore globale
--    Amministratore utenti
--    Agente amministratore
--    Agente di vendita
 
-Gli ISV hanno la possibilità di rendere disponibili le offerte per un numero selezionato di partner CSP. Tutti i partner CSP saranno comunque in grado di visualizzare tutte le offerte ISV nel Marketplace del centro per i partner, ma le offerte contrassegnate come esclusive potranno essere acquistate solo dai partner selezionati dagli ISV. Se un'offerta non è indicata come "esclusiva", tutti i partner possono acquistarla.
+- Amministratore globale
+- Amministratore utenti
+- Agente amministratore
+- Agente di vendita
 
-I partner CSP identificati dagli ISV possono:
+Un fornitore di software indipendente (ISV) offre la possibilità di offrire offerte esclusive disponibili solo per determinati partner CSP.
 
-- Acquista offerte esclusive tramite partner Center Marketplace
+I partner CSP possono visualizzare tutte le offerte ISV nel Marketplace commerciale del centro per i partner. Le offerte contrassegnate come **esclusive**, tuttavia, possono essere acquistate solo da partner specifici selezionati dall'ISV. Se un'offerta non è contrassegnata come **esclusiva**, tutti i partner possono acquistarla.
+
+Partner CSP specifici identificati da un ISV possono:
+
+- Acquista offerte esclusive da tale ISV tramite il Marketplace commerciale del centro per i partner
 - Esporta Listino prezzi
 
 ## <a name="how-do-you-gain-access-to-exclusive-offers"></a>Come ottenere l'accesso alle offerte esclusive?
 
-Quando un ISV pubblica un'offerta sul Marketplace, ha la possibilità di indicare chi può acquistarla. 
+Quando un ISV pubblica un'offerta sul Marketplace, ha la possibilità di indicare chi può acquistarla.
 
 Le opzioni disponibili sono:
 
@@ -41,6 +44,8 @@ Le opzioni disponibili sono:
 - Determinare quali partner possono acquistare
 - Non disponibile per i partner CSP
 
-Per altre informazioni sull'esperienza ISV in Marketplace, vedere [provider di soluzioni cloud](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+## <a name="next-steps"></a>Passaggi successivi
 
-Per altre informazioni sul Marketplace, vedere [Panoramica del Marketplace commerciale per i provider di soluzioni cloud](csp-commercial-marketplace-overview.md).
+- Per ulteriori informazioni sull'esperienza ISV nel Marketplace commerciale, vedere provider di [soluzioni cloud](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+
+- Per altre informazioni sul Marketplace commerciale, vedere [Panoramica del Marketplace commerciale per i provider di soluzioni cloud](csp-commercial-marketplace-overview.md).

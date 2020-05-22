@@ -1,23 +1,24 @@
 ---
-title: Creare più utenti per l'account di un cliente | Centro per i partner
+title: Aggiungere più utenti per un account cliente
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come aggiungere più utenti all'account di un cliente contemporaneamente, caricando un file di dati nel formato di file con valori delimitati da virgole (CSV) nel centro per i partner.
+description: Informazioni su come aggiungere più utenti all'account di un cliente in una sola volta. Caricare un file di dati nel centro per i partner usando il formato di file con valori delimitati da virgole (CSV).
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: caricamento bulk, aggiunta di più utenti a un account cliente, aggiunta degli utenti del cliente, caricamento bulk degli utenti del cliente, account cliente, utenti cliente, utenti
 ms.localizationpriority: medium
-ms.openlocfilehash: 36130f268c9d33217ef3473136ec511f374fb583
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1929eb7eee7f23de6ae6e8dcd343d38fe2414f6f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798629"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794907"
 ---
-# <a name="add-multiple-users-to-a-customer-account"></a>Aggiungere più utenti all'account di un cliente
+# <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>Aggiungere più utenti a un account cliente: caricare un file di dati nel centro per i partner
 
 **Si applica a**
 
@@ -47,7 +48,7 @@ Immetti i dati seguenti nel file di dati:
 | Nome      | Nome dell'utente (campo facoltativo)                                           | Limite di 50 caratteri                         |
 | Cognome       | Cognome dell'utente (campo facoltativo)                                            | Limite di 50 caratteri                         |
 | Nome visualizzato    | Nome visualizzato nel centro per i partner (campo obbligatorio)                            | Limite di 50 caratteri                         |
-| Posta elettronica           | Indirizzo di posta elettronica aziendale dell'utente presso la società del cliente (campo obbligatorio)           | Ogni utente deve avere un indirizzo di posta elettronica univoco |
+| Email           | Indirizzo di posta elettronica aziendale dell'utente presso la società del cliente (campo obbligatorio)           | Ogni utente deve avere un indirizzo di posta elettronica univoco |
 | Aggiornamento dello stato   | Usato per indicare se il nuovo record utente è stato o meno creato correttamente | \*\*Lascia vuoto\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>Per creare più account utente
@@ -68,7 +69,7 @@ Immetti i dati seguenti nel file di dati:
 
 7. Selezionare **Convalida**.
 
-    **Nota**  la maggior parte degli errori di creazione dell'account è causata da problemi relativi ai file di dati, tra cui informazioni mancanti, indirizzi di posta elettronica non validi o duplicati oppure troppi record nel file.
+    **Nota**    La maggior parte degli errori di creazione dell'account è causata da problemi relativi ai file di dati, tra cui informazioni mancanti, indirizzi di posta elettronica non validi o duplicati o troppi record nel file.
 
 8. Dopo che il centro per i partner ha convalidato il file, selezionare la **posizione** geografica per i nuovi utenti.
 9. Selezionare **Salva**.

@@ -1,24 +1,24 @@
 ---
-title: Analizzare le prestazioni dei rivenditori indiretti | Centro per i partner
-ms.date: 11/13/2019
+title: Analizzare le prestazioni dei rivenditori indiretti
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Informazioni su come usare Analytics per scoprire come vengono eseguiti i rivenditori indiretti, sia i successi che le aree che potrebbero richiedere maggiore attenzione.
+Description: Usare Analytics per apprendere il modo in cui i rivenditori indiretti eseguono, sia i successi che le aree che potrebbero richiedere maggiore attenzione.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
 ms.topic: article
-keywords: dati aziendali
+keywords: dati business
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 9990cc72726803045806b88439fed54f9c9d07a2
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 72064e3847d30b3049649269618256638b2fe4d8
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722380"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794938"
 ---
-# <a name="analyze-indirect-resellers-performance"></a>Analizzare le prestazioni dei rivenditori indiretti 
+# <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Usare Analytics per analizzare le prestazioni dei rivenditori indiretti
 
 **Si applica a**
 
@@ -32,42 +32,42 @@ ms.locfileid: "74722380"
 - Agente amministratore
 - Agente di vendita
 
-I dati guidano le decisioni aziendali. Utilizza le metriche nella pagina **Analisi rivenditori** per identificare i tuoi successi, quelli dei tuoi rivenditori indiretti e le aree che richiedono maggiore attenzione. Utilizza queste informazioni per pianificare nuovi obiettivi aziendali.
+I dati prendono le decisioni aziendali. Usare le metriche nella pagina di **analisi dei rivenditori** per identificare i successi, i riconoscimenti indiretti dei rivenditori e le aree che richiedono maggiore attenzione. Utilizzare queste informazioni durante la pianificazione di nuovi obiettivi aziendali.
 
 > [!NOTE]
-> L'analisi dei rivenditori indiretti è disponibile solo per i partner del programma Cloud Solution Provider.
+> L'analisi dei rivenditori indiretti è disponibile solo per i partner nel programma Cloud Solution Provider.
 
-Ci stiamo occupando delle seguenti metriche:
+Vengono monitorate le metriche seguenti:
 
 **Riepilogo**  
- - **Rivenditori totali**: numero di rivenditori attivi l'ultimo giorno dell'abbonamento  
+ - **Totale rivenditori**: numero di rivenditori attivi nell'ultimo giorno della sottoscrizione  
  - **Nuovi rivenditori**: numero di nuovi rivenditori indiretti per il periodo di tempo specificato  
- - **Rivenditori attivi**: numero di rivenditori indiretti in cui il MPNID corrisponde almeno a 1 abbonamento e lo stato dell'abbonamento non è in deprovisioning  
- - **Rivenditori transazioni**: numero di rivenditori indiretti con un abbonamento venduto nel periodo di tempo specificato  
+ - **Rivenditori attivi**: numero di rivenditori indiretti in cui MPNID è almeno 1 sottoscrizione e in cui lo stato della sottoscrizione non viene sottoposto a deprovisioning  
+ - **Transoperating Resellers**: numero di rivenditori indiretti con una sottoscrizione venduta nel periodo di tempo specificato  
 
 **Rivenditori per mercato**  
- - Rivenditori totali per posizione geografica  
+ - Totale rivenditori per posizione geografica  
 
 **Rivenditori principali per sottoscrizioni vendute**
- - Un elenco dei rivenditori, ordinati in base al numero di abbonamenti che hanno venduto  
+ - Elenco di rivenditori, ordinati in base al numero di sottoscrizioni vendute  
 
 **Principali prodotti per numero di sottoscrizioni**  
- - **Dynamics 365**: prodotti Dynamics 365 ordinati in base agli abbonamenti venduti  
- - **EMS**: numero di abbonamenti di Enterprise Management Services venduti  
- - **Microsoft 365**: numero di abbonamenti a Microsoft 365 venduti  
- - **Office 365**: prodotti Office 365 ordinati in base agli abbonamenti venduti  
+ - **Dynamics 365**: prodotti Dynamics 365 ordinati per sottoscrizioni vendute  
+ - **EMS**: numero di sottoscrizioni di Enterprise Management Services vendute  
+ - **Microsoft 365**: numero di sottoscrizioni Microsoft 365 vendute  
+ - **Office 365**: prodotti Office 365 ordinati per sottoscrizioni vendute  
 
 **Nuove sottoscrizioni**  
- - Il numero di nuovi abbonamenti aggiunti per data  
+ - Numero di nuove sottoscrizioni aggiunte per data  
 
 **Varianza sottoscrizione**  
- - **Nuovi abbonamenti**: numero di nuovi abbonamenti aggiunti per data  
- - **Sottoscrizioni sottoposte a deprovisioning**: numero di sottoscrizioni sottoposte a deprovisioning o sospese per data  
+ - **Nuove sottoscrizioni**: numero di nuove sottoscrizioni aggiunte per data  
+ - **Sottoscrizioni con provisioning**: numero di sottoscrizioni sottoposte a provisioning o sospese per data  
 
 **Dettagli nuovo rivenditore**  
  - **Nome rivenditore**: nomi dei rivenditori indiretti  
- - **Posizione**: mercati in cui operano i rivenditori indiretti  
- - **Abbonamenti**: numero di abbonamenti venduti dal rivenditore  
- - **Licenze**: numero totale di licenze vendute dal rivenditore per tutti gli abbonamenti  
+ - **Località**: mercati in cui operano i rivenditori indiretti  
+ - **Sottoscrizioni**: numero di sottoscrizioni vendute dal rivenditore  
+ - **Licenze**: numero totale di licenze vendute dal rivenditore tra tutte le sottoscrizioni  
   
   

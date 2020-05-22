@@ -1,19 +1,20 @@
 ---
-title: Eseguire la migrazione delle sottoscrizioni di Office 365 E4 a versioni più recenti di Office 365 | Centro per i partner
+title: Eseguire la migrazione delle sottoscrizioni di Office 365 E4
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Office 365 Enterprise E4 è stato ritirato a partire dal 7 aprile 2017. Informazioni su come eseguire la migrazione delle sottoscrizioni dei clienti a versioni più recenti di Office 365.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02d383172595e09a4ab0bf9c6db34862fcc17204
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: bd9f9effd501846934e1b0b2a86b654dfa14ebbe
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798877"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795764"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrazione degli abbonamenti Office 365 E4 alle nuove versioni di Office 365
 
@@ -32,7 +33,7 @@ Il piano Office 365 Enterprise E4 è stato ritirato, a partire dal 7 aprile 2017
 Quando le sottoscrizioni E4 sono terminate, verranno annullate. Per garantire la continuità per i clienti, è necessario eseguire la transizione dei clienti con sottoscrizioni E4 in scadenza a un'opzione SKU supportata, elencate di seguito. È consigliabile trasferire i clienti a nuove sottoscrizioni prima della data di fine annuale della sottoscrizione, in modo da evitare eventuali interruzioni del servizio per i clienti. 
 
 > [!NOTE]  
->  Gli SKU di Office 365 Enterprise E4 Commercial e government sono stati ritirati.
+> Gli SKU di Office 365 Enterprise E4 Commercial e government sono stati ritirati.
  
 Nella pagina dei dettagli della sottoscrizione, lo stato della sottoscrizione E4 è stato modificato in "scade in data [DATE]" da "auto renews on [DATE]". 
 
@@ -90,7 +91,7 @@ Seguire questa procedura per eseguire la migrazione della sottoscrizione di Offi
 
 3. Nella pagina **Gestisci licenze** deselezionare la casella di controllo licenza di **Office 365 Enterprise E4** e selezionare un nuovo piano di servizio per la sottoscrizione a cui il cliente sta migrando.
 
-4. Selezionare **Submit** (Invia). Le nuove assegnazioni di licenza vengono visualizzate in una pagina di conferma.
+4. Selezionare **Invia**. Le nuove assegnazioni di licenza vengono visualizzate in una pagina di conferma.
 
 5. Ripeti la stessa procedura per tutti gli utenti del cliente per cui è necessaria la riassegnazione della licenza.
 
@@ -102,7 +103,7 @@ Dopo aver spostato le licenze utente nel nuovo servizio, è possibile annullare 
 
 2. Nella pagina Dettagli sottoscrizione impostare lo stato della sottoscrizione su **sospeso**.
 
-3. Selezionare **Submit** (Invia).
+3. Selezionare **Invia**.
 
 La sottoscrizione precedente viene sospesa e la nuova sottoscrizione è attiva. Il deprovisioning della sottoscrizione sospesa verrà effettuato automaticamente dopo 120 giorni. Il cliente non dovrà sostenere alcun costo aggiuntivo per la sottoscrizione precedente.
 

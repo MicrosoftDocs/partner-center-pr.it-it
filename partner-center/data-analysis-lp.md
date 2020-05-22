@@ -1,22 +1,23 @@
 ---
-title: Dati e analisi nel Centro per i partner | Centro per i partner
+title: Usare Analytics per Customer Insights
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come usare le analisi nel centro per i partner per comprendere meglio il tuo business e come i tuoi clienti usano le licenze acquistate.
 author: LauraBrenner
 ms.author: labrenne
-keywords: dati, analisi, analisi dei dati, power bi
+keywords: dati, analisi, analisi dei dati, Power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: e8501776365e761c2c7ea9f5c33a2150c92cc79e
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3232a8c5b2f3e0bb4458dffdc577cbd561064dae
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722566"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795205"
 ---
-# <a name="get-data-and-analyze-your-business"></a>Acquisire dati e analizzare le tue attività
+# <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>Usare Analytics per ottenere altre informazioni sull'uso delle licenze per i clienti e sul modo in cui è possibile soddisfare le proprie esigenze
 
 **Si applica a**
 
@@ -28,7 +29,7 @@ ms.locfileid: "74722566"
 
 - Amministratore partner MPN
 
-La pianificazione dei modi per sviluppare le attività CSP include le informazioni su come i clienti usano i prodotti Microsoft. Sono disponibili diverse opzioni per la raccolta dei dati nel Centro per i partner e puoi raccogliere i dati dell'azienda ma anche sapere se e come i clienti usano le licenze acquistate. Se usi il modello diretto CSP, hai la possibilità di installare e usare l'app Analisi del Centro per i Partner per Power BI per raccogliere dati aggiuntivi.
+La pianificazione di modi per sviluppare il lavoro di CSP implica la definizione del numero di clienti che usa i prodotti Microsoft. Sono disponibili diverse opzioni per la raccolta dei dati nel centro per i partner ed è possibile raccogliere dati sia sull'azienda sia su se e in che modo i clienti usano le licenze acquistate. Se si usa il modello CSP Direct, si ha la possibilità di installare e usare l'app di analisi del centro per i partner per Power BI per raccogliere dati aggiuntivi.
 
 ## <a name="access-to-user-analytics"></a>Accesso a analisi utente
 
@@ -39,20 +40,20 @@ Nel centro per i partner, solo l'amministratore del partner MPN può accedere a 
 
 **Concedi l'accesso a analisi utente nel centro per i partner** 
 
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 2. Nel menu centro per i partner, nella pagina **Gestione utenti** del centro per i partner, utilizzare la casella di ricerca per trovare la persona che necessita di accesso.
 2.  Nei risultati della ricerca selezionare il nome della persona per aprire la pagina dei **Dettagli dell'utente** .
 3.  In **ruoli e autorizzazioni**selezionare **MPN partner admin** , quindi selezionare **Aggiorna**.
 
  
-## <a name="access-data-in-partner-center"></a>Accedere ai dati nel Centro per i partner
+## <a name="access-data-in-partner-center"></a>Accedere ai dati nel centro per i partner
 
 |**Per ottenere i dati**   |**Scarica questo**   |**Leggi**   | **Si applica a**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|Come i clienti usano le licenze acquistate   |Dati di distribuzione e di utilizzo da partner Center = > analisi del prodotto   |[Migliorare i tassi di adozione e soddisfazione](increasing-adoption-and-satisfaction.md)|Partner CSP|
+|Modalità di utilizzo delle licenze acquistate dai clienti   |Dati di distribuzione e di utilizzo da partner Center => analisi del prodotto   |[Migliorare i tassi di adozione e soddisfazione](increasing-adoption-and-satisfaction.md)|Partner CSP|
 |Attività dei clienti relative alle sottoscrizioni   |Log attività   |[Visualizzare i log attività dei clienti](activity-logs.md)|Partner CSP   |
-|Aumento della base di clienti, dell'utilizzo, del consumo di Azure e altro ancora   |App Centro per i partner per Power BI   |[App di analisi del centro per i partner per Power BI (partner diretti in CSP)](power-bi-app-for-direct-partners.md)|Partner diretti in CSP|
+|Crescita della base dei clienti, utilizzo, consumo di Azure e altro ancora   |App centro per i partner per Power BI   |[App Analisi del Centro per i Partner per Power BI (partner diretti in CSP)](power-bi-app-for-direct-partners.md)|Partner diretti CSP|
 
 
 

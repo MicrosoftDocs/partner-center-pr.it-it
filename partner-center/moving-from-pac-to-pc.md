@@ -1,20 +1,21 @@
 ---
-title: Spostamento dall'interfaccia di amministrazione partner al Centro per i partner
+title: Sposta dall'interfaccia di amministrazione dei partner
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dopo il passaggio dall'interfaccia di amministrazione dei partner al centro per i partner, Scopri come gestire l'appartenenza, i riferimenti dei clienti, gli incentivi e tutti gli altri aspetti del programma Cloud Solution Provider (CSP).
+description: Quando si passa dall'interfaccia di amministrazione dei partner (PAC) al centro per i partner, viene illustrato come gestire l'appartenenza al programma CSP, i riferimenti dei clienti, gli incentivi e altro ancora.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, interfaccia di amministrazione di Office 365, funzionalità PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: 0dcf232e68b14a2dd4264b489c7325a9eccc190f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1493ed93b70e8c716c339f8e93b471f181acb6af
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004230"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795738"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Passaggio dall'interfaccia di amministrazione partner (PAC) al Centro per i partner
 
@@ -23,9 +24,9 @@ ms.locfileid: "75004230"
 - Interfaccia di amministrazione partner
 
 **Ruoli appropriati**
--   Amministratore globale
+- Amministratore globale
 
-Il Centro per i partner sta diventando l'unica posizione in cui gestirai la partnership con Microsoft e con i tuoi clienti. Nel Centro per i partner puoi gestire l'adesione, le segnalazioni dei clienti, gli incentivi e tutti gli altri aspetti del programma Cloud Solution Provider (CSP). Inoltre, potrai eseguire la maggior parte delle operazioni effettuate in PAC anche se alcune funzionalità o azioni funzioneranno in modo diverso. 
+Il Centro per i partner sta diventando l'unica posizione in cui gestirai la partnership con Microsoft e con i tuoi clienti. Nel Centro per i partner puoi gestire l'adesione, le segnalazioni dei clienti, gli incentivi e tutti gli altri aspetti del programma Cloud Solution Provider (CSP). Inoltre, potrai eseguire la maggior parte delle operazioni effettuate in PAC anche se alcune funzionalità o azioni funzioneranno in modo diverso.
 
 
 |**Azione**   |**PAC**   |**Centro per i partner**   |
@@ -34,7 +35,7 @@ Il Centro per i partner sta diventando l'unica posizione in cui gestirai la part
 |Acquisire nuovi clienti e fornire le offerte per servizi a pagamento e versioni di valutazione|Sviluppo del business -> Invia offerta|Le offerte a pagamento non sono disponibili. Le versioni di valutazione CSP sono disponibili se il partner consulente viene convertito in un rivenditore indiretto CSP e associato a un provider indiretto CSP che supporta le versioni di prova. |
 |Richiedere relazioni|(Rivenditori e consulenti) Sviluppo del business -> Invia richiesta DAP|(Rivenditori e consulenti) Clienti -> Richiedi una relazione come rivenditore (vedi la nota seguente)|
 |Gestire i clienti|Gestione clienti -> Elenco clienti|Centro per i partner -> Clienti|
-|Gestisci le sottoscrizioni dei clienti|Gestione clienti -> Elenco clienti -> Seleziona cliente|Centro per i partner-> Customers: > selezionare il cliente o aggiungere il cliente all'elenco **Preferiti** attivando o disattivando la stella nell'elenco dei clienti, quindi selezionando la diapositiva **Preferiti** e passare direttamente a **Gestisci sottoscrizioni** per il cliente.|
+|Gestire le sottoscrizioni dei clienti|Gestione clienti -> Elenco clienti -> Seleziona cliente|Centro per i partner-> Customers: > selezionare il cliente o aggiungere il cliente all'elenco **Preferiti** attivando o disattivando la stella nell'elenco dei clienti, quindi selezionando la diapositiva **Preferiti** e passare direttamente a **Gestisci sottoscrizioni** per il cliente.|
 |Amministrare per conto di un cliente|Gestione clienti -> Seleziona cliente -> Seleziona pulsante Amministra|Centro per i partner-> Customers-> selezionare amministrare i servizi dall'elenco a discesa-> selezionare il servizio o aggiungere il cliente all'elenco **Preferiti** attivando la stella nell'elenco cliente, quindi selezionare la diapositiva **Preferiti** e passare direttamente a **Amministrazione servizi** per il servizio richiesto.|
 |Creare richieste di servizio per il cliente|Richieste di servizio -> Seleziona cliente -> Seleziona pulsante + | Centro per i partner -> Richieste di servizio -> Richieste cliente -> Seleziona cliente -> Nuova richiesta|
 |Gestire le richieste di servizio dei clienti| Richieste di servizio -> Seleziona cliente|Centro per i partner-richieste di servizio >-> richieste dei clienti: > selezionare il cliente o aggiungere la richiesta di servizio all'elenco **Preferiti** attivando la stella nella visualizzazione richieste del cliente per il cliente, quindi selezionando la diapositiva **Preferiti** , selezionare la scheda **richieste di supporto** e passare direttamente alla richiesta di servizio o visualizzare gli aggiornamenti direttamente da **Preferiti**.|

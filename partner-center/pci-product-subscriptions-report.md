@@ -1,24 +1,24 @@
 ---
-title: Partner Center Insights-report sottoscrizioni prodotto | Centro per i partner
+title: Report delle sottoscrizioni di partner Center Insights
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri cosa puoi fare e dove puoi migliorare le tue sottoscrizioni cloud che Vendi o Gestisci per i tuoi clienti.
 ms.assetid: ''
 keywords: PCI, prestazioni, misure, successo dei clienti, sottoscrizioni cloud, analisi, report
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7c2621130c9eef99f09f062f9bf38c48c8dcb4b6
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648052"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795916"
 ---
-# <a name="product-subscriptions-report"></a>Report sottoscrizioni prodotto
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Report sulle sottoscrizioni di prodotto disponibile nel dashboard di partner Center Insights
 
 **Ruoli appropriati**
 - Amministratore globale
@@ -30,7 +30,7 @@ Il report sottoscrizioni prodotto presenta analisi sulle sottoscrizioni cloud ve
 
 È possibile visualizzare le sezioni seguenti del report sottoscrizioni prodotto.
 
-- Riepilogo
+- Summary
 - Distribuzione geografica delle sottoscrizioni
 - Tendenza aggiunta/varianza sottoscrizioni
 - Distribuzione della sottoscrizione per località partner, canale di vendita, SKU, tipo di connessione partner, segmento
@@ -108,3 +108,7 @@ I due grafici a torta mostrano una suddivisione delle sottoscrizioni dei clienti
 
 > [!NOTE]
  > Il numero di sottoscrizioni suddivise in base agli SKU potrebbe non corrispondere sempre al numero totale di sottoscrizioni per quel prodotto. Questo problema può verificarsi se un cliente ha acquistato più SKU con la stessa sottoscrizione al prodotto.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- Per altri report, vedere [Partner Center Insights](partner-center-insights.md).

@@ -1,7 +1,7 @@
 ---
-title: Tipi di fatturazione nel centro per i partner | Centro per i partner
+title: Tipi di fatturazione nel Centro per i partner
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni sui diversi tipi di fatturazione, i periodi di fatturazione e le date di fatturazione che potrebbero essere visualizzati nel centro per i partner.
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: fatturazione, pagamenti, ordini, file di riconciliazione
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: fcacb9b0832c561e79e2d3c6df4d56b4d2f75b62
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 78199085c0ed56f55974cd4465ac3480f35c7761
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798589"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794980"
 ---
-# <a name="types-of-billing-in-partner-center"></a>Tipi di fatturazione nel Centro per i partner
+# <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Tipi di fatturazione nel centro per i partner: include la fatturazione monouso, basata sulle licenze e sull'utilizzo.
 
 **Si applica a**
 

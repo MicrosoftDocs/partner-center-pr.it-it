@@ -1,21 +1,22 @@
 ---
-title: Analisi Microsoft Learn | Centro per i partner
+title: Analisi di Microsoft Learn
 ms.topic: article
-ms.date: 07/05/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Tieni traccia degli appresori della tua azienda sfruttando i dati relativi a training individuale, moduli completati, percorsi di apprendimento completati e altro ancora.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8e69b283edd0110ba2b6e13ea60621171b83e4b6
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005109"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795928"
 ---
-# <a name="microsoft-learn-analytics-report"></a>Report analisi Microsoft Learn
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Il report Microsoft Learn Analytics mostra lo stato degli strumenti di apprendimento nell'azienda
 
 **Ruoli appropriati**
 -   Amministratore globale

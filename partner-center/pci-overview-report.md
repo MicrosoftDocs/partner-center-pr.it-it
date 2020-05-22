@@ -1,28 +1,28 @@
 ---
-title: Partner Center Insights-Dashboard panoramica | Centro per i partner
+title: Dashboard panoramica di Insights per partner Center
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri esattamente cosa stai facendo e dove potrai migliorare le vendite e la distribuzione, nonché lo sviluppo dei clienti
+description: Scopri in che modo stai usando le vendite e la distribuzione, la crescita dei clienti e la crescita dei ricavi con le licenze, le sottoscrizioni e il consumo di Azure.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, prestazioni, successo dei clienti, misurazioni,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 420fb8e6bd7fefcd360dcd0b98bd4885f4d9da38
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631872"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795704"
 ---
-# <a name="overview-dashboard-reports"></a>Panoramica dei report del dashboard 
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Panoramica dei report del dashboard disponibili in Partner Center Insights
  
 Il dashboard di panoramica del centro per i partner fornisce una visualizzazione snapshot degli indicatori di prestazioni chiave, ad esempio clienti, sottoscrizioni, ricavi di consumo di Azure, licenze e così via. È possibile visualizzare i grafici seguenti nel report Panoramica. 
 
-- Riepilogo  
+- Summary  
 - Distribuzione geografica dei clienti, delle sottoscrizioni e delle licenze  
 - Tendenza alla crescita dei clienti 
 - Tendenza crescita sottoscrizioni 
@@ -83,6 +83,6 @@ Tendenza delle licenze assegnate da tutti i clienti durante l'intervallo di date
 
 ![licenze](images/pci/licensesgrowth.png)
 
-### <a name="learn-more"></a>Scopri di più
+## <a name="next-steps"></a>Passaggi successivi
 
-Per ulteriori argomenti sul dashboard e sul report di partner Center Insights, vedere il centro per i [partner Insights](partner-center-insights.md)
+- Per altri report, vedere [Partner Center Insights](partner-center-insights.md).

@@ -1,24 +1,24 @@
 ---
-title: Partner Center Insights-report sull'utilizzo di Azure | Centro per i partner
+title: Report sull'utilizzo di Azure per i partner Center Insights
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri cosa stai facendo e dove puoi migliorare l'uso delle sottoscrizioni di Azure che Vendi o Gestisci per i tuoi clienti.
 ms.assetid: ''
 keywords: PCI, prestazioni, misure, successo dei clienti, utilizzo di Azure, sottoscrizioni, analisi, report
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b07aaba9a22c74d52cd8f97f92edd7e0d4deb86a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648082"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795670"
 ---
-# <a name="azure-usage-report"></a>Report sull'utilizzo di Azure
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Azure disponibile dal dashboard di partner Center Insights
 
 **Ruoli appropriati**
 - Amministratore globale
@@ -28,7 +28,7 @@ ms.locfileid: "75648082"
 
 Il report sull'utilizzo di Azure presenta le metriche correlate alle sottoscrizioni di Azure dei clienti. Sono inclusi i ricavi di consumo e l'utilizzo di Azure per categorie di contatori. È possibile visualizzare le sezioni seguenti dal report sull'utilizzo di Azure.
 
-- Riepilogo
+- Summary
 - Azure Usage by geography
 - Utilizzo di Azure
 
@@ -74,3 +74,7 @@ Questa visualizzazione Mostra le tendenze del reddito di consumo di Azure o dell
 Il grafico a barre presenta la tendenza mensile dei ricavi/orari di utilizzo. Il grafico a linee presenta la tendenza di crescita rispetto al mese precedente per le categorie di contatori/livelli di servizio di Azure selezionate.
 
 ![Utilizzo di Azure](images/pci/pci_azure_usage_utilization_3.png)
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- Per altri report, vedere [Partner Center Insights](partner-center-insights.md).

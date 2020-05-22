@@ -1,33 +1,35 @@
 ---
-title: Fatture e imposte nella Microsoft Partner Network | Centro per i partner
+title: Microsoft Partner Network fatture & imposte
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Informazioni su come visualizzare o scaricare la fattura di appartenenza a MPN, oltre a file per l'esenzione fiscale e inviare a Microsoft il numero di ID IVA.
+description: Informazioni su come visualizzare o scaricare la fattura di appartenenza a MPN, su come archiviare l'esenzione fiscale e su come inviare a Microsoft il numero di ID IVA.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Invoice, MAPS, Tax esentad, VAT, VAT ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 02e6075e67f91bf3283a475f476b69b56fe9dec9
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004260"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795946"
 ---
-# <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Fatture e imposte nella Microsoft Partner Network
+# <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Fatture e imposte in Microsoft Partner Network
 
 **Si applica a**
 
--  Centro per i partner
+- Centro per i partner
 
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Amministratore dei partner MPN
--   Amministratore fatturazione
--   Agente amministratore
+
+- Amministratore globale
+- Amministratore utenti
+- Amministratore dei partner MPN
+- Amministratore fatturazione
+- Agente amministratore
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Visualizza o Scarica la fattura di appartenenza a MPN
 
@@ -37,7 +39,7 @@ Per eseguire questa procedura, è necessario essere un amministratore globale o 
 
 1.  Accedere al [centro](https://partner.microsoft.com/dashboard/home) per i partner con l'account aziendale e selezionare **MPN** nel menu a sinistra.
 
-4.  Nell'elenco a discesa selezionare **offerte di appartenenza** per visualizzare le offerte disponibili per l'acquisto, nonché le fatture disponibili per l'anno corrente di registrazione. Per visualizzare le fatture per gli anni precedenti, selezionare **scaduto**.
+4.  Nell'elenco a discesa selezionare **offerte di appartenenza** per visualizzare le offerte disponibili per l'acquisto, nonché le fatture disponibili per l'anno corrente di registrazione. Per visualizzare le fatture relative agli anni precedenti, selezionare **Scaduto**.
 
 6.  Selezionare la fattura desiderata, quindi selezionare **Scarica fattura**. 
 
@@ -48,7 +50,7 @@ Per eseguire questa procedura, è necessario essere un amministratore globale o 
 
 2.  Crea un nuovo ticket di supporto. In centro per i partner selezionare **richieste di servizio**, selezionare richieste del centro per i **partner**e quindi selezionare **nuova richiesta**.
 
-3.  Compila il modulo. Per il **tipo di problema**, selezionare **non è in grado di gestire il profilo personale**. Nella descrizione includere l'ID MPN.
+3.  Compilare il modulo. Per il **tipo di problema**, selezionare **non è in grado di gestire il profilo personale**. Nella descrizione includere l'ID MPN.
 
 4.  Dopo aver inviato il ticket, Microsoft ti invierà un'e-mail per ottenere altre informazioni. Allega la documentazione di supporto appropriata nella risposta per i certificati di esenzione IVA.
 

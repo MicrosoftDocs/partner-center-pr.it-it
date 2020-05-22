@@ -1,30 +1,30 @@
 ---
-title: Gestire opportunità di co-selling | Centro per i partner
+title: Gestire opportunità di co-selling
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: I partner Microsoft qualificati possono co-vendere con Microsoft. Scopri come definire le offerte, invitare Microsoft a collaborare o visualizzare le offerte inviate.
-author: vikramb
-ms.author: vikramb
+author: LauraBrenner
+ms.author: labrenne
 keywords: referral, co-selling, Deal
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7732d1d6b65d90370c06f1a65a29a291915693d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: da10d8e9de254eb3af9450df171b5ae1153ce4bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919838"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796036"
 ---
-# <a name="manage-co-sell-opportunities"></a>Gestisci opportunità di co-selling
+# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gestisci opportunità di co-selling nel centro per i partner per definire le offerte e soddisfare meglio le esigenze dei clienti
 
 **Si applica a**
 
--  Centro per i partner
--  Segnalazioni
--  Co-selling con Microsoft
--  Condivisione degli accordi
+- Centro per i partner
+- Segnalazioni
+- Co-selling con Microsoft
+- Condivisione degli accordi
 
 **Ruoli appropriati**
 

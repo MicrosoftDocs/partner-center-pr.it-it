@@ -1,31 +1,31 @@
 ---
-title: Fatturazione basata sulle licenze | Centro per i partner
+title: Fatturazione in base alle licenze
 ms.topic: article
-ms.date: 11/21/2019
-Description: Informazioni sulla fatturazione basata sulle licenze nel centro per i partner, in cui vengono addebitate le licenze per licenza (non per utilizzo della licenza).
+ms.date: 05/18/2020
+Description: Scopri in che modo la fatturazione basata sulle licenze è diversa dalla fatturazione basata sull'utilizzo nel centro per i partner, incluso il modo in cui vengono fatturate le licenze (non in base all'utilizzo delle licenze).
 author: LauraBrenner
 ms.author: labrenne
 keywords: fatturazione, pagamenti, licenza basata su licenza
 ms.localizationpriority: medium
-ms.openlocfilehash: 7205d843c9eacbfe4ab1eb6975aa42f5609fb8be
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2de61f21f28a3ce343edc68035d836a74f98870d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798889"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795793"
 ---
-# <a name="license-based-billing"></a>Fatturazione in base alle licenze
+# <a name="license-based-billing-in-partner-center"></a>Fatturazione basata su licenza nel centro per i partner
 
 **Si applica a**
 
 - Centro per i partner
 - Partner aderenti al programma CSP
 
-**Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Amministratore fatturazione
--   Agente amministratore
+**Ruoli appropriati** : amministratore globale
+- Amministratore utenti
+- Amministratore fatturazione
+- Agente amministratore
 
 Quando si acquistano prodotti o Servizi online nel centro per i partner che richiedono **licenze**, viene addebitata la fatturazione *per ogni licenza* acquistata. Non viene *addebitato* l'utilizzo per queste licenze. Per informazioni sulla fatturazione basata sull'utilizzo e altri tipi di fatturazione, vedere [tipi di fatturazione nel centro per i partner](billing-different-types.md).
 
@@ -56,4 +56,14 @@ Se si sospende una sottoscrizione nei mesi 2-12, l'utente verrà accreditato in 
 
 ## <a name="license-renewal"></a>Rinnovo della licenza
 
-Tutte le sottoscrizioni basate su licenza rinnovano automaticamente 12 mesi dopo l'inizio del periodo di pagamento.
+Tutte le sottoscrizioni basate su licenza rinnovano il rinnovo di 12 mesi dopo l'inizio del periodo di pagamento.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Panoramica della fatturazione del Centro per i partner](billing-basics.md)
+
+- [Tipi di fatturazione nel Centro per i partner](billing-different-types.md)
+
+- [Differenze tra fatturazione mensile e annuale](billing-annual-monthly.md)
+
+- [Principali articoli sulla fatturazione e sulle tasse](billing.md)

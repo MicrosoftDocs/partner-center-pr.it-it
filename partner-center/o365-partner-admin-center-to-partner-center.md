@@ -1,21 +1,22 @@
 ---
-title: "Partner dell'interfaccia di amministrazione partner di Office 365: le operazioni aziendali verranno spostate nel Centro per i partner| Centro per i partner"
+title: Eseguire la migrazione di Office 365 PAC business al centro per i partner
 ms.topic: article
-ms.date: 08/22/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Individuare le funzionalità comuni di amministrazione dei partner di Office 365, ad esempio creare richieste aziendali e di servizio, dopo la migrazione al centro per i partner.
+description: Individuare le funzionalità comuni di amministrazione del partner di Office 365 (PAC), ad esempio creare richieste aziendali e di servizio, dopo la migrazione al centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 63b12682cbde7123224ddeae6fb8b5470858c4ad
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3dc5247d9ee9dc72276412d441b0f627ec448900
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005070"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998437"
 ---
-# <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Partner di amministrazione di Office 365 partner: prepararsi per spostare le operazioni aziendali nel centro per i partner
+# <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Partner dell'interfaccia di amministrazione di Office 365 partner: prepararsi per spostare le operazioni aziendali nel centro per i partner
 
 **Si applica a** 
 
@@ -23,16 +24,17 @@ ms.locfileid: "75005070"
 - Interfaccia di amministrazione partner di Office 365
 
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Agente amministratore
--   Agente di vendita
 
-Verranno riportate le funzionalità dell'interfaccia di amministrazione dei partner di Office 365 nel centro per i partner per semplificare la gestione dei clienti in tutto il ciclo di vita aziendale Oltre alle funzionalità di cui si è abituati, ora è possibile: 
+- Amministratore globale
+- Amministratore utenti
+- Agente amministratore
+- Agente di vendita
 
-*  Far crescere l'azienda grazie alle [segnalazioni](referrals.md) e gestire i nuovi clienti man mano che arrivano.
-*  Inviare ai clienti inviti a stabilire relazioni per conto tuo e del tuo provider
-*  Gestire i singoli utenti e assegnare licenze più facilmente
+Verranno riportate le funzionalità dell'interfaccia di amministrazione dei partner di Office 365 nel centro per i partner per semplificare la gestione dei clienti in tutto il ciclo di vita aziendale Oltre alle funzionalità di cui si è abituati, ora è possibile:
+
+- Far crescere l'azienda grazie alle [segnalazioni](referrals.md) e gestire i nuovi clienti man mano che arrivano.
+- Inviare ai clienti inviti a stabilire relazioni per conto tuo e del tuo provider
+- Gestire i singoli utenti e assegnare licenze più facilmente
 
 Puoi iniziare subito a usare il Centro per i partner per molte delle attività per cui oggi usi l'interfaccia di amministrazione partner di Office 365. 
 
@@ -44,11 +46,11 @@ Il completamento delle attività nel centro per i partner viene eseguito in modo
 
 | Funzionalità dell'interfaccia di amministrazione partner di Office 365                       | Dove si trova nel Centro per i partner? | 
 |   -----------------------------------------------  | -------------- |
-| Sviluppa l'attività: crea un'offerta di acquisto | Collabora con il tuo provider per vendere offerte ai tuoi clienti |
-| Sviluppa l'attività. richiedi autorizzazioni da amministratore delegato | Centro per i partner: i clienti > richiedere una relazione del rivenditore |
-| Sviluppa l'attività: crea inviti di prova | Non disponibile. È ancora possibile usare l'interfaccia di amministrazione partner di Office 365 per questa operazione |
-| Richieste di servizio: elenco clienti: interfaccia di amministrazione di Office 365 | Centro per i partner: clienti > amministrare i servizi |
-| Richieste di servizio: elenco di clienti: richieste di servizio | Centro per i partner: richiesta del servizio > richieste del cliente |
-| Richieste di servizio: Contrassegnate | Dasbhoard: Clienti: seleziona la stella accanto al nome della società |
+| Crea la tua azienda: crea un'offerta di acquisto | Collabora con il tuo provider per vendere offerte ai tuoi clienti |
+| Crea la tua azienda: Richiedi autorizzazioni di amministratore delegato | Centro per i partner: i clienti > richiedere una relazione del rivenditore |
+| Crea la tua azienda: crea inviti alla versione di valutazione | Non disponibile. È ancora possibile usare l'interfaccia di amministrazione partner di Office 365 per questa operazione |
+| Richieste di servizio: Elenco client: interfaccia di amministrazione di Office 365 | Centro per i partner: clienti > amministrare i servizi |
+| Richieste di servizio: Elenco client: richieste di servizio | Centro per i partner: richiesta del servizio > richieste del cliente |
+| Richieste di servizio: contrassegnate | Dashboard: Customers: selezionare la stella accanto al nome della società |
 | Richiesta di servizio > Amministrazione clienti > Amministra per conto terzi | Centro per i partner: clienti > selezionare un cliente > selezionare una sottoscrizione > selezionare il rivenditore del prodotto designato |
 

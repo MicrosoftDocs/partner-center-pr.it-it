@@ -1,22 +1,22 @@
 ---
-title: Gestione del mancato pagamento, frode o uso improprio | Centro per i partner
+title: Gestire insoluti, frodi o uso improprio
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: È importante conoscere i diversi tipi di rischio correlati alle transazioni online e alle procedure consigliate per la gestione e la mitigazione di tali rischi.
+description: È importante conoscere i diversi rischi correlati alle transazioni online e le procedure consigliate per gestire e mitigare tali rischi.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: frode, uso improprio, utilizzo accettabile, criteri di utilizzo accettabili, mancato pagamento, il cliente non pagherà fattura, rischi online, furto del servizio, abusi del servizio, Sospendi una sottoscrizione,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 24a6d636ec4b0fb8aecc158f4750e471f1ca1a3a
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798799"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998447"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestione di mancato pagamento, frode o uso improprio nel Centro per i partner
 
@@ -26,10 +26,10 @@ Si applica a:
 - Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Agente amministratore
--   Amministratore fatturazione
+- Amministratore globale
+- Amministratore utenti
+- Agente amministratore
+- Amministratore fatturazione
 
 L'utente è responsabile finanziario per gli acquisti fraudolenti da clienti e/o clienti che non hanno effettuato il pagamento dei servizi acquistati. Pertanto, si *consiglia di adottare i controlli di mitigazione dei rischi di rilevamento e prevenzione delle frodi*.
 
@@ -78,7 +78,7 @@ Suggerimenti per ridurre i rischi online quando il caricamento di nuovi clienti 
 
 - Stabilire relazioni personali con i clienti, se possibile, ad esempio contattando i clienti per telefono.
 - Verificare le credenziali e i retroscena dei clienti tramite metodi migliori, ad esempio l'uso di uffici di credito o agenzie di report commerciali commerciali.
-- Usare l'autenticazione a più fattori, ad esempio la verifica tramite SMS, durante l'iscrizione per ridurre al minimo l'esposizione all'creazione e all'acquisto di account robotizzati.
+- Usare l'autenticazione a più fattori, ad esempio la verifica tramite SMS, durante l'iscrizione per ridurre al minimo l'esposizione alla creazione e all'acquisto di account robotizzati.
 - Gestire e tenere traccia delle identità usando i servizi, ad esempio i servizi di identità digitali.
 - Valutare la forza finanziaria dei clienti tramite sistemi di rilevamento illeciti di carte di credito rigorosi.
 - Definire un criterio Clear Collections. Consente di illustrare in dettaglio il processo di raccolta e quando l'accesso alle sottoscrizioni sarà influenzato da un mancato pagamento. È possibile disabilitare l'accesso o [sospendere le sottoscrizioni di un cliente per il](suspend-a-subscription.md) mancato pagamento.

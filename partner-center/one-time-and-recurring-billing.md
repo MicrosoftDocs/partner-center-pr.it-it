@@ -1,33 +1,35 @@
 ---
-title: Fatturazione per una sola volta e selezionare i costi ricorrenti | Centro per i partner
+title: Fatturazione-una sola volta & selezionare addebiti periodici
 ms.topic: article
-ms.date: 11/21/2019
-Description: Informazioni sulla fatturazione monouso in anticipo per un periodo di tempo preimpostato (sottoscrizioni mensili e annuali) e fatturazione per gli addebiti selezionati (per prodotti ISV Microsoft e di terze parti) nel centro per i partner.
+ms.date: 05/26/2020
+Description: Scopri di più sulla fatturazione monouso per il centro per i partner, per i termini predefiniti e la fatturazione per i costi selezionati e ricorrenti.
 author: LauraBrenner
 ms.author: labrenne
 keywords: fatturazione, una volta, periodici, acquisti, addebiti, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5194df5463be52872c32720edb67914fe7df7360
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798779"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998427"
 ---
-#  <a name="billing-for-one-time-and-select-recurring-charges"></a>Fatturazione per addebiti occasionali e periodici
+# <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Fatturazione per una sola volta e selezionare i costi ricorrenti nel centro per i partner
+
 
 **Si applica a**
 - Centro per i partner
 - Partner aderenti al programma CSP
 
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Amministratore fatturazione
--   Agente amministratore
--   Agente di vendita
+- Amministratore globale
+- Amministratore utenti
+- Amministratore fatturazione
+- Agente amministratore
+- Agente di vendita
 
-In questo argomento viene descritta l'esperienza di fatturazione per **una sola volta e vengono addebitati i costi ricorrenti** per i prodotti Microsoft e fornitori di software indipendenti (ISV) di terze parti. 
+Questo articolo descrive l'esperienza di fatturazione per **una sola volta e consente di selezionare i costi ricorrenti** per i prodotti Microsoft e di terze parti Independent Software Vendor (ISV). 
 
 La fatturazione monouso si verifica quando si acquistano sottoscrizioni software e prenotazioni di Azure in anticipo per un periodo di **tempo** preimpostato. È possibile acquistare per i termini di un anno o di tre anni. A questo punto viene addebitato l'intero costo in una somma forfettaria una tantum.
 
@@ -41,7 +43,7 @@ La fatturazione per una sola volta e selezionare i costi ricorrenti si applica a
 > [!IMPORTANT]
 > L'esperienza di fatturazione per i costi ricorrenti delle sottoscrizioni [**basate su licenze**](license-based-billing.md) e delle [**sottoscrizioni basate sull'utilizzo**](usage-based-billing.md) resta invariata.
 
-Gli **addebiti ricorrenti** per le sottoscrizioni, incluse le **sottoscrizioni basate su licenze e quelle basate sull'utilizzo**, vengono emessi per tutti i prodotti del [**Catalogo servizi online**](https://partner.microsoft.com/commerce/preferredoffers/list). Alcuni esempi includono Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (pagamento in base al consumo), Dynamics 365 e Power bi Pro.
+Gli **addebiti ricorrenti** per le sottoscrizioni, incluse le **sottoscrizioni basate su licenze e quelle basate sull'utilizzo**, vengono emessi per tutti i prodotti del [**Catalogo servizi online**](https://partner.microsoft.com/commerce/preferredoffers/list). Alcuni esempi includono Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (pagamento in base al consumo), Dynamics 365 e Power BI Pro.
 
 Per gli addebiti per le sottoscrizioni applicabili, la **Data di fatturazione** è la data selezionata durante la creazione dell'account del centro per i partner. Il **periodo di fatturazione** è il mese prima della data di fatturazione.
 

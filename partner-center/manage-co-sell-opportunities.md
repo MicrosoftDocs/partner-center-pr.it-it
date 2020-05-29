@@ -1,30 +1,30 @@
 ---
-title: Gestire opportunità di co-selling
+title: Gestire opportunità di co-selling | Centro per i partner
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 04/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: I partner Microsoft qualificati possono co-vendere con Microsoft. Scopri come definire le offerte, invitare Microsoft a collaborare o visualizzare le offerte inviate.
-author: LauraBrenner
-ms.author: labrenne
+author: vikramb
+ms.author: vikramb
 keywords: referral, co-selling, Deal
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: da10d8e9de254eb3af9450df171b5ae1153ce4bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.custom: seodec18
+ms.openlocfilehash: 96e89d354131dc3defdb617d4147b92e938a5c09
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796036"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145075"
 ---
-# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gestisci opportunità di co-selling nel centro per i partner per definire le offerte e soddisfare meglio le esigenze dei clienti
+# <a name="manage-co-sell-opportunities"></a>Gestisci opportunità di co-selling
 
 **Si applica a**
 
-- Centro per i partner
-- Segnalazioni
-- Co-selling con Microsoft
-- Condivisione degli accordi
+-  Centro per i partner
+-  Segnalazioni
+-  Co-selling con Microsoft
+-  Condivisione degli accordi
 
 **Ruoli appropriati**
 
@@ -99,7 +99,7 @@ Dopo aver fornito le informazioni sulla soluzione, fare clic su Avanti per passa
 
 **Gestione privata della pipeline**: se non si invita Microsoft e si crea un impegno in questo passaggio, sarà di tipo pipeline privata. I venditori Microsoft non avranno visibilità sui dettagli di questa trattativa.
 
-**Deal di co-selling:** Se si imposta l'opzione su Sì per la domanda **"si desidera che la Guida di Microsoft?"**, il problema si riferisce a un'offerta di co-selling in cui un venditore Microsoft può aiutarti a chiudere l'operazione. Una richiesta di assistenza da parte di Microsoft non garantisce che un venditore Microsoft parteciperà all'accordo. I rappresentanti di vendita Microsoft hanno a disposizione 14 giorni per decidere se desiderano partecipare. Nella sezione Note, assicurarsi di identificare il tipo di Guida desiderato.
+**Deal di co-selling:** Se si passa a Sì per la domanda **"si desidera che la Guida di Microsoft?"**, l'affare si rivolge a un'offerta di co-selling in cui un venditore Microsoft può essere utile per chiudere l'operazione. Una richiesta di assistenza da parte di Microsoft non garantisce che un venditore Microsoft parteciperà all'accordo. I rappresentanti di vendita Microsoft hanno a disposizione 14 giorni per decidere se desiderano partecipare. Nella sezione Note, assicurarsi di identificare il tipo di Guida desiderato.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Risposta a un'opportunità di co-selling
 
@@ -109,7 +109,7 @@ Ogni opportunità viene spostata in un ciclo di vita.
 
 In questa fase, se è stata ricevuta una nuova opportunità di co-selling da un venditore Microsoft o da altri partner nell'ecosistema di co-selling Microsoft, esaminare i dettagli e contattare il cliente se si desidera ottenere ulteriori informazioni sulle esigenze aziendali. In questa fase è possibile eseguire due operazioni. accettare o rifiutare il riferimento:
 
-- **Accetta:** Immettere un nome per l'operazione, modificare il valore dell'affare stimato e l'intervallo di tempo di acquisto stimato in base alla verifica. Una volta stabilito il contatto con il cliente, è necessario fornire le informazioni nel campo **Note** per ulteriori informazioni su ciò che il cliente sta cercando. Facoltativamente, è possibile immettere l'ID CRM (solo per riferimento), l'ID della campagna di marketing che ha comportato la rispettiva opportunità e aggiungere contatti dall'azienda che lavorerà a questa operazione. 
+- **Accetta:** Immettere un nome per l'operazione, modificare il valore dell'affare stimato e il lasso di tempo di acquisto stimato in base alla verifica. Una volta stabilito il contatto con il cliente, è necessario fornire le informazioni nel campo **Note** per ulteriori informazioni su ciò che il cliente sta cercando. Facoltativamente, è possibile immettere l'ID CRM (solo per riferimento), l'ID della campagna di marketing che ha comportato la rispettiva opportunità e aggiungere contatti dall'azienda che lavorerà a questa operazione. 
 
 - Al termine, fare clic su **Avanti**. Il riferimento verrà spostato nella **fase successiva**, il che significa che si prevede di coinvolgere attivamente il cliente per soddisfare le proprie esigenze. Queste informazioni verranno usate anche per aiutare a trovare le offerte simili in futuro.
 
@@ -122,12 +122,12 @@ In questa fase, se è stata ricevuta una nuova opportunità di co-selling da un 
 
 Lavora per concludere la trattativa con il cliente. Se si desidera modificare le informazioni fornite per un riferimento accettato, selezionare **modifica**. È quindi possibile aggiornare il nome dell'affare, la data di acquisto stimata, il valore stimato, le note, l'ID CRM e/o l'ID della campagna di marketing.  È anche possibile selezionare **Aggiungi i dipendenti** per specificare il nome, il numero di telefono e gli indirizzi di posta elettronica di qualsiasi altra persona che sta lavorando al problema. Le soluzioni possono anche essere modificate in base alle esigenze del cliente.
 
-Per impostazione predefinita, tutte le offerte create sono in fase di accettazione.
+Per impostazione predefinita, tutte le offerte create sono in fase di **accettazione** .
 
 Al termine, è possibile eseguire una delle due azioni, che contrassegnano l'accordo come **vinto** o **perso** per segnalare il risultato, in modo che sia possibile archiviarlo di conseguenza.
 
 > [!TIP]
-> Per alcune soluzioni idonee, dopo aver selezionato vinto verrà richiesto di fornire informazioni aggiuntive per la registrazione dell'affare. Microsoft esaminerà le informazioni fornite qui e potrebbe richiedere altri dettagli durante tale processo. Per altre informazioni, vedi Registrare le trattative.
+> Per alcune soluzioni idonee, dopo aver selezionato **vinto**verrà richiesto di fornire informazioni aggiuntive per la registrazione dell'affare. Microsoft esaminerà le informazioni fornite qui e potrebbe richiedere altri dettagli durante tale processo. 
 
 ### <a name="archived-stage"></a>Fase di archiviazione
 
@@ -138,5 +138,15 @@ Si tratta di una fase terminale in cui tutte le opportunità sono finalmente rag
 Ecco alcuni suggerimenti che consentono di ottenere più opportunità di co-selling appropriate per l'azienda:
 
 - **Rispondi rapidamente alle offerte**. Quando si risponde tempestivamente alle richieste in ingresso, la visibilità verrà aumentata in modo progressivo nei risultati della ricerca partner futuri. Assicurati che il tuo team risponda velocemente indicando le intenzioni.
-- **Sii selettivo nelle trattative che decidi di accettare**. Monitoriamo i tipi di offerte accettate e rifiutate e utilizzeremo queste informazioni per trovare le offerte simili. Accettare le offerte che non sono una scelta ottimale non migliorerà i risultati della ricerca e potrebbe influisca sulla qualità delle opportunità ricevute.
+
+- **Trova le tue offerte accettate** Monitoriamo i tipi di offerte accettate e rifiutate e utilizzeremo queste informazioni per trovare le offerte simili. Accettare le offerte che non sono una scelta ottimale non migliorerà i risultati della ricerca e potrebbe influisca sulla qualità delle opportunità ricevute.
+
 - **Comunica il volume della trattativa stimato, le date di chiusura e lo stato finale delle trattative** (acquisite o perse). Queste informazioni verranno usate per continuare a fornire i riferimenti alla qualità.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Gestire lead](manage-leads.md)
+
+- [Ottenere il connettore di co-selling per Dynamics 365 CRM](connector-dynamics.md)
+
+- [Ottenere il connettore di co-selling per Salesforce CRM](connector-salesforce.md)

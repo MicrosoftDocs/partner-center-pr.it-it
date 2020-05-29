@@ -1,23 +1,23 @@
 ---
-title: Gestire i lead
+title: Gestisci lead | Centro per i partner
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 04/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Usa il centro per i partner per rispondere ai riferimenti e gestire i lead nuovi, esistenti e archiviati e i riferimenti. Scopri anche come ottenere più riferimenti in futuro.
-author: LauraBrenner
-ms.author: labrenne
+description: Informazioni su come rispondere ai riferimenti, gestire i riferimenti nuovi, esistenti e archiviati e ottenere più riferimenti in futuro in futuro.
+author: vikramb
+ms.author: vikramb
 keywords: referral, co-selling, Deal
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.custom: seodec18
+ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796018"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145065"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gestisci lead diversi come le richieste dei clienti, i lead qualificati per il marketing e i lead qualificati per le vendite
+# <a name="manage-leads"></a>Gestisci lead
 
 **Si applica a**
 
@@ -87,8 +87,19 @@ Si tratta di una fase terminale in cui tutte le opportunità sono finalmente rag
 Ecco alcuni suggerimenti utili per ottenere i riferimenti più appropriati:
 
 - **Scegli parole chiave e preferenze che rappresentino la tua esperienza e il tuo modello di business specifici** nel tuo [profilo di business](https://docs.microsoft.com/partner-center/create-a-marketing-profile). Rimuovere le parole chiave che generano riferimenti a cui non si è interessati. Se non si è interessati a gestire le aziende di una determinata dimensione, aggiornare questa preferenza.
-- **Esaminare le informazioni di contatto nel [profilo aziendale](https://docs.microsoft.com/partner-center/create-a-marketing-profile) per ogni località** per assicurarsi che il team ottenga gli avvisi in ingresso.
+
+- **Esaminare le informazioni di contatto nel [profilo aziendale](https://docs.microsoft.com/partner-center/create-a-marketing-profile) per ogni località** Verificare che il team ottenga gli avvisi in ingresso.
+
 - **Rispondi rapidamente ai riferimenti** Quando si risponde tempestivamente alle richieste in ingresso, la visibilità verrà aumentata nei prossimi risultati della ricerca dei clienti. Assicurati che il tuo team risponda velocemente indicando le intenzioni.
-- **Sii selettivo nelle trattative che decidi di accettare**. Monitoriamo i tipi di offerte accettate e rifiutate e utilizzeremo queste informazioni per trovare le offerte simili. Accettare le offerte che non sono una scelta ottimale non migliorerà i risultati della ricerca e potrebbe influisca sulla qualità dei lead ricevuti.
+
+- **Trova le tue offerte accettate** Monitoriamo i tipi di offerte accettate e rifiutate e utilizzeremo queste informazioni per trovare le offerte simili. Accettare le offerte che non sono una scelta ottimale non migliorerà i risultati della ricerca e potrebbe influisca sulla qualità dei lead ricevuti.
+
 - **Comunica il volume della trattativa stimato, le date di chiusura e lo stato finale delle trattative** (acquisite o perse). Queste informazioni verranno usate per continuare a fornire i riferimenti alla qualità.
 
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Gestire opportunità di co-selling](manage-co-sell-opportunities.md)
+
+- [Ottenere il connettore di co-selling per Dynamics 365 CRM](connector-dynamics.md)
+
+- [Ottenere il connettore di co-selling per Salesforce CRM](connector-salesforce.md)

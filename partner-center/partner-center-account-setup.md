@@ -1,7 +1,7 @@
 ---
 title: Gestire l'account del Centro per i partner | Centro per i partner
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gestisci il profilo, il catalogo, i dati bancari e fiscali, i ruoli e le autorizzazioni della tua azienda e altro ancora nel Centro per i partner.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 9167e4bb873ee1527fc623dbab319b44cdb9564e
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859377"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795680"
 ---
 # <a name="manage-your-partner-center-account"></a>Gestire l'account del Centro per i partner
 
@@ -67,9 +67,17 @@ Di seguito è riportato un elenco parziale dei programmi disponibili e della cor
 |Office Store|Sviluppo|
 |Estensioni di Microsoft Edge|Sviluppo|
 
-## <a name="the-differences-in-partner-and-developer-settings-options"></a>Differenze tra le opzioni di Impostazioni partner e quelle di Impostazioni sviluppatore
+## <a name="partner-and-developer-settings-options"></a>Opzioni delle impostazioni partner e sviluppatore
 
-Le opzioni di **Impostazione partner** saranno diverse da quelle di **Impostazioni sviluppatore**. Di seguito sono riportati alcuni screenshot di esempio per ogni set di opzioni. Se hai accesso ad altri programmi, è possibile che siano visibili anche opzioni diverse da quelle degli screenshot di esempio illustrati.
+### <a name="locate-your-mpn-id"></a>Individuare l'ID MPN
+
+Sia i partner che gli sviluppatori devono usare l'ID MPN per operazioni come la registrazione dei ticket di supporto. Per gli sviluppatori, l'ID MPN si trova nella pagina dei dettagli **Impostazioni account**.
+
+![Posizione dell'ID MPN](images/accountsettings/devmpnlocation.png)
+
+Per i partner invece l'ID MPN si trova nella pagina **Profilo partner**.
+
+Le opzioni di **Impostazione partner** sono diverse da quelle di **Impostazioni sviluppatore**. Di seguito sono riportati alcuni screenshot di esempio per ogni set di opzioni. Se hai accesso ad altri programmi, è possibile che siano visibili anche opzioni diverse da quelle degli screenshot di esempio illustrati.
 
 **Opzioni di Impostazioni partner**:
 
@@ -78,6 +86,7 @@ Le opzioni di **Impostazione partner** saranno diverse da quelle di **Impostazio
 **Opzioni di Impostazioni sviluppatore**:
 
 ![Opzioni sviluppatore](images/accountsettings/devoptions.png)
+
 
 ## <a name="enrolling-in-programs"></a>Iscrizione ai programmi
 
@@ -94,7 +103,7 @@ Per altre informazioni sull'iscrizione ai programmi del Centro per i partner, ve
 
 ## <a name="the-account-picker"></a>Selezione account
 
-Puoi far parte di più di un account. Se fai parte di più account, potrai visualizzare il controllo di selezione account nel menu di spostamento a sinistra. Se selezioni il controllo di selezione account, tutti gli account di cui sei membro verranno visualizzati in un elenco. Puoi selezionare uno di questi account e accedervi per visualizzare tutti i programmi e le informazioni che lo riguardano. Se non viene visualizzato un controllo di selezione account, sei membro di un solo account.
+Puoi far parte di più di un account. Se fai parte di più account, potrai visualizzare il controllo di selezione account nel menu di spostamento a sinistra. Quando selezioni il controllo di selezione account, tutti gli account di cui sei membro vengono visualizzati in un elenco. Puoi selezionare uno di questi account e accedervi per visualizzare tutti i programmi e le informazioni che lo riguardano. Se non viene visualizzato un controllo di selezione account, sei membro di un solo account.
 
 ![Selezione account](images/accountsettings/accountpicker.png)
 

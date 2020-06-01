@@ -1,35 +1,36 @@
 ---
-title: Gestire l'account partner - Posizioni | Centro per i partner
+title: Gestire le posizioni nell'account partner
 ms.topic: article
-ms.date: 03/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Descrive come l'ID MPN (Microsoft Partner Network) viene usato in programmi di incentivi, aziende CSP (Cloud Solution Provider), sottoscrizioni e altre transazioni.
+description: Nel Centro per i partner scopri come aggiungere una nuova posizione e come viene usato l'ID MPN della posizione in programmi di incentivi, aziende CSP, abbonamenti e altre transazioni.
 author: LauraBrenner
 ms.author: labrenne
 keywords: account partner, posizioni
 ms.localizationpriority: high
-ms.openlocfilehash: e1f7c6732b2945d50b241764d1cf78ae6631152b
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: bc8c8cf3e9e953cae7ed162da34aea190cd59dbc
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340129"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796015"
 ---
-# <a name="manage-your-partner-account-locations"></a>Gestire l'account partner: Percorsi
+# <a name="manage-your-partner-account-locations-in-partner-center-and-how-to-add-a-new-location"></a>Gestire le posizioni dell'account partner nel Centro per i partner e aggiungere una nuova posizione
 
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Amministratore fatturazione
--   Agente amministratore
--   Agente di vendita
+- Amministratore globale
+- Amministratore utenti
+- Amministratore fatturazione
+- Agente amministratore
+- Agente di vendita
 
 L'ID MPN di posizione identifica una specifica posizione nella società. L'ID MPN di posizione viene usato per l'iscrizione a programmi di incentivi, per la transazione di aziende CSP, per aggiungere nuove sottoscrizioni e altre transazioni aziendali. L'ID MPN della società viene usato per attività non transazionali, ad esempio le richieste di supporto.
 
-**Di seguito è riportato uno scenario tipico:** 
+**Di seguito è riportato uno scenario tipico:**
 
-Una società partner può disporre di un'azienda CSP e un'azienda di pubblicazione. L'azienda CSP può essere ubicata in vari luoghi e l'azienda di pubblicazione può trovarsi in altri ancora. La società legale registrata ha un ID MPN usato per la gestione di tutte le attività non transazionali, ad esempio l'aggiunta di utenti o la registrazione di richieste di supporto. 
+Una società partner può disporre di un'azienda CSP e un'azienda di pubblicazione. L'azienda CSP può essere ubicata in vari luoghi e l'azienda di pubblicazione corrispondente può trovarsi in altri ancora. La società legale registrata dispone di un ID MPN usato per la gestione di tutte le attività non transazionali, ad esempio l'aggiunta di utenti o la registrazione di richieste di supporto.
 
 Ogni posizione ha un ID MPN usato per attività transazionali, ad esempio programmi di incentivi o CSP. I pagamenti sono collegati a posizioni specifiche.
 

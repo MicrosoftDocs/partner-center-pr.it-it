@@ -1,27 +1,27 @@
 ---
-title: Eseguire la preparazione per il passaggio da Partner Membership Center al Centro per i partner | Centro per i partner
+title: Passaggio da Partner Membership Center
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Leggi le informazioni utili e le domande frequenti prima di far passare la tua azienda da PMC al Centro per i partner.
+description: Leggi le informazioni utili e le domande frequenti prima di far passare la tua azienda da Partner Membership Center al Centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 0c1fc9530a978e7202d7a0d58a574546b10c91e9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859352"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795839"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Eseguire la preparazione per il passaggio da Partner Membership Center (PMC) al Centro per i partner
 
 **Ruoli appropriati**
--    Amministratore globale
--    Amministratore utenti
--    Agente di vendita
--    Agente amministratore
+- Amministratore globale
+- Amministratore utenti
+- Agente di vendita
+- Agente amministratore
 
 La gestione degli account di appartenenza sta passando da Partner Membership Center (PMC) al Centro per i partner, l'unica destinazione in cui gestire la tua relazione aziendale con Microsoft. Il passaggio al Centro per i partner deve avvenire con la massima efficienza e facilità. Sono state pertanto identificate alcune aree in cui il Centro per i partner differisce da PMC, quindi è opportuno comprendere queste differenze e prepararsi prima di effettuare tale passaggio.
 

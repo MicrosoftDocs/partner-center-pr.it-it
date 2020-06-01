@@ -1,21 +1,22 @@
 ---
-title: Creare un profilo di business | Centro per i partner
+title: Ottenere lead di vendita - Creare un profilo di business
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri come ottenere lead di vendita da Microsoft. Un passaggio chiave consiste nel creare un profilo di business nel Centro per i partner che consenta ai clienti di trovarti.
+description: Scopri come ottenere lead di vendita da Microsoft. Un passaggio chiave consiste nel creare un profilo di business nel Centro per i partner in modo che i clienti possano individuare più facilmente gli utenti.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, segnalazioni, lead di vendita, C2PC, profilo della società, commercializzare la tua azienda, trovare un partner, trovare un provider di soluzioni, profilo di business, profilo di marketing
 ms.localizationpriority: high
-ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8f5c788be2fc408262e6edd47a87c3ac0f2ea2f8
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722525"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795579"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -26,7 +27,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 -->
 
 
-# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Creare un profilo di business per ottenere lead di vendita da Microsoft
+# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Creare un profilo di business per ottenere lead di vendita da Microsoft e facilitare l'individuazione degli utenti per i clienti
 
 **Si applica a**
 
@@ -148,5 +149,6 @@ Dopo la pubblicazione del profilo, gli aggiornamenti vengono visualizzati nelle 
 - **Acquisisci i tag di competenza** tramite Microsoft per dimostrare la tua competenza nei prodotti Microsoft.
 - **Acquisisci i tag di approvazione** dai clienti che apprezzano il tuo lavoro.
 
-## <a name="related-topics"></a>Argomenti correlati
+## <a name="next-steps"></a>Passaggi successivi
+
 [Risposta alle segnalazioni](responding-to-referrals.md)

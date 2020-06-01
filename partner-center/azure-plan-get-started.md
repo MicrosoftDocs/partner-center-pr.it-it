@@ -1,29 +1,29 @@
 ---
-title: Passare a piano di Azure - Introduzione | Centro per i partner
+title: Iniziare a passare al piano di Azure
+description: Scopri cosa è necessario sapere sull'uso del piano di Azure con pagamento in base al consumo, incluse le operazioni preliminari, le precauzioni di sicurezza e le procedure per iniziare.
 ms.topic: article
-ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ottieni informazioni sull'esperienza commerciale del piano di Azure per acquistare servizi di Azure con tariffe con pagamento in base al consumo per i clienti. Sono disponibili anche informazioni sui nuovi requisiti di sicurezza.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: Azure, piano di Azure, acquistare sottoscrizioni, sottoscrizioni
-robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 12/02/2019
+ms.openlocfilehash: 849b205d8a889659647ba8a9cf788428b6b25e21
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74681938"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394184"
 ---
-# <a name="move-to-azure-plan---get-started"></a>Passare al piano di Azure - Introduzione
+# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Inizia a usare tariffe con pagamento in base al consumo con il piano di Azure
 
 Microsoft ha introdotto una nuova esperienza commerciale nel Centro per i partner.  Con questa nuova esperienza commerciale e in base al Contratto Microsoft Partner, i partner potranno accedere ai servizi di Azure a tariffe con pagamento in base al consumo per i clienti.
 
 Questo piano semplifica l'esperienza di acquisto consentendo di avere più sottoscrizioni di Azure in un piano di Azure. Non dovrai più inviare un ordine separato per ogni sottoscrizione di Azure. In questa nuova esperienza commerciale per Azure si siamo allineati a un unico principio globale in materia di prezzi che consente ai partner CSP di offrire Azure ai prezzi pubblicati.
 
-Le esigenze di trasformazione digitale dei clienti richiedono nuove competenze da parte dei partner. Molti clienti richiedono ai partner di fornire servizi che vanno ben oltre le transazioni per poter sfruttare il cloud senza difficoltà e usare i servizi di Azure in modo efficiente. I partner Microsoft svolgono un ruolo fondamentale in tutte le fasi del ciclo di vita del cliente. Servizi di questo tipo da parte dei partner sono in fase di sviluppo e includono monitoraggio dell'ambiente Azure, gestione dei criteri e della governance, operazioni di configurazione e ottimizzazione, supporto tecnico e un'ampia gamma di altri servizi. Questi servizi richiedono ai partner un'elevata familiarità con l'ambiente Azure del cliente, nonché governance e controllo continui e appropriati sulle risorse sottostanti gestite. I partner di fatturazione che forniscono servizi di gestione delle operazioni cloud 24 ore su 24 e 7 giorni su 7 saranno idonei per un **credito ottenuto dai partner per i servizi gestiti**.
+Le esigenze di trasformazione digitale dei clienti richiedono nuove competenze da parte dei partner. Molti clienti richiedono ai partner di fornire servizi che vanno ben oltre le transazioni per poter sfruttare il cloud senza difficoltà e usare i servizi di Azure in modo efficiente. I partner Microsoft svolgono un ruolo fondamentale in tutte le fasi del ciclo di vita del cliente. I servizi di questo tipo da parte dei partner sono in continua evoluzione e includono il monitoraggio dell'ambiente Azure, la gestione dei criteri e della governance, le operazioni di configurazione e ottimizzazione, il supporto tecnico e un'ampia gamma di altri servizi. Questi servizi richiedono ai partner un'elevata familiarità con l'ambiente Azure del cliente, nonché governance e controllo continui e appropriati sulle risorse sottostanti gestite. I partner di fatturazione che forniscono servizi di gestione delle operazioni cloud 24 ore su 24 e 7 giorni su 7 saranno idonei per un **credito ottenuto dai partner per i servizi gestiti**.
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Verificare che i clienti abbiano firmato il contratto del cliente Microsoft
 
@@ -31,7 +31,7 @@ Dal 1° ottobre 2019 è disponibile il contratto del cliente Microsoft, un contr
 
 I partner che vogliono eseguire transazioni con il nuovo piano di Azure e creare un nuovo ordine devono confermare l'accettazione del contratto del cliente Microsoft usando l'API e il dashboard Centro per i partner nell'ambiente di produzione.
 
-Dal 1° febbraio 2020 il Contratto Microsoft Cloud esistente viene rimosso dal programma CSP. Successivamente, la conferma del partner (attestazione) dell'accettazione del nuovo contratto del cliente Microsoft sarà necessaria per tutte le altre offerte, tra cui Microsoft 365, Dynamics 365 ed Azure esistente. I partner del programma CSP non potranno creare un nuovo ordine per il cliente senza l'attestazione del contratto del cliente Microsoft.
+Dal 1° febbraio 2020 il Contratto Microsoft Cloud esistente viene rimosso dal programma CSP. Successivamente, la conferma del partner (attestazione) dell'accettazione del nuovo contratto del cliente Microsoft sarà necessaria per tutte le altre offerte, tra cui Microsoft 365, Dynamics 365 e l'offerta Azure esistente. I partner del programma CSP non potranno creare un nuovo ordine per il cliente senza l'attestazione del contratto del cliente Microsoft.
 
 Per informazioni dettagliate, leggi [Confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente](confirm-customer-agreement.md).
 
@@ -62,6 +62,8 @@ Microsoft consiglia ai partner di usare il controllo degli accessi in base al ru
 - [Credito ottenuto dai partner - Panoramica](partner-earned-credit.md)
 
 - I calcoli relativi ai crediti ottenuti dai partner e i ruoli e le autorizzazioni idonei per ottenere tali crediti sono disponibili nel listino prezzi riportato nel dashboard del Centro per i partner (informazioni di accesso obbligatorie).
+
+## <a name="next-steps"></a>Passaggi successivi 
 
 - [Come viene calcolato il credito ottenuto dai partner - Dettagli](partner-earned-credit-explanation.md)
 - [Listino prezzi del piano di Azure - Descrizione](azure-plan-price-list.md)

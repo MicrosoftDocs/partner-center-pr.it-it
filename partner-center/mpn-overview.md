@@ -1,23 +1,23 @@
 ---
-title: Adesione al Microsoft Partner Network
+title: Vantaggi dell'adesione a Microsoft Partner Network
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Scopri i vantaggi della collaborazione con Microsoft, tra cui Microsoft Action Pack, competenze e opzioni di programma per differenziare la tua azienda, entrare nel mercato e vendere le tue soluzioni.
+description: Scopri i vantaggi della collaborazione con Microsoft, tra cui Microsoft Action Pack, le competenze e le opzioni di programma per entrare nel mercato e vendere le tue soluzioni.
 author: LauraBrenner
 ms.author: labrenne
 keywords: partner, partnership, MPN, Microsoft Partner Network, action pack, MAP, sottoscrizione di action pack, vantaggi, vantaggi MPN, appartenenza, silver, gold, competenze
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 50b8834704886a9c516550bbde778edf8e39c0a9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362739"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795955"
 ---
-# <a name="partner-with-microsoft"></a>Diventa partner di Microsoft
+# <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Diventare partner Microsoft - Vantaggi, supporto per i clienti e promozione della crescita aziendale
 
 **Ruoli appropriati**
 

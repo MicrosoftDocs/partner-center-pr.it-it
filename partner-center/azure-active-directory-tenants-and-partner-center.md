@@ -1,22 +1,23 @@
 ---
-title: Account aziendali e Centro per i partner
+title: Collegare l'account aziendale per accedere al Centro per i partner
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sul perché è necessario un account aziendale per creare un account del Centro per i partner. Controlla se disponi già di un account aziendale.
+description: Crea un account aziendale per collegare l'azienda al Centro per i partner. In questo modo i dipendenti dell'azienda potranno accedere al Centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: account aziendale, e-mail, tenant, tenant di Azure, creare un account, nome di dominio
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e34eecb482df140a1a225d0d28460ef957701d59
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369268"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394215"
 ---
-# <a name="your-company-work-account-and-partner-center"></a>Account aziendale e Centro per i partner  
+# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Creare un account aziendale per collegare l'azienda al Centro per i partner
 
 **Si applica a**
 
@@ -44,7 +45,7 @@ Se hai più indirizzi e-mail aziendali validi, usa quello associato alla sede ce
 
 Se non sei certo che l'azienda abbia un account aziendale, verifica questo aspetto attenendoti alla procedura seguente. Se hai una sottoscrizione attiva a Microsoft Azure o Office 365, hai già un account aziendale.
 
-1. Accedi al [portale di Azure](https://portal.azure.com)
+1. Accedi al [portale di Azure](https://portal.azure.com).
 
 2. Seleziona Azure Active Directory dal menu e quindi seleziona Nomi di dominio.
 

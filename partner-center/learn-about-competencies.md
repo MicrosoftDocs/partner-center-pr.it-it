@@ -1,26 +1,27 @@
 ---
-title: Requisiti di competenza Microsoft per l'adesione Gold e Silver | Centro per i partner
+title: Requisiti per le competenze Gold e Silver di Microsoft
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri i requisiti di competenza per conseguire i livelli di adesione Gold e Silver.
+description: Scopri come ottenere lo stato di partner Microsoft di élite e attirare nuovi clienti soddisfacendo i requisiti di competenza per ottenere livelli di appartenenza Gold e Silver.
 author: LauraBrenner
 ms.author: labrenne
 keywords: competenze, adesione silver, adesione gold, mpn, abbonamento a Microsoft Action Pack, preparazione, Microsoft Partner Network, adesione alla rete, specializzazioni avanzate
 ms.localizationpriority: high
-ms.openlocfilehash: 5ddb638b15be2426e54927fcf7aeba4c6ed4eed2
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c9167194dde7ecc3d35b431cb1bf7e6f59394a7a
+ms.sourcegitcommit: 97f1ff7386562cbb945bdfbcf15c85bc8303cac2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859363"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "83825643"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informazioni sulle competenze Microsoft Silver e Gold e sulle specializzazioni avanzate
 
 **Ruoli appropriati**
--    Amministratore globale
--    Amministratore utenti
+- Amministratore globale
+- Amministratore utenti
 
 Dimostra la tua comprovata esperienza nella fornitura di soluzioni di qualità in uno o più settori specifici di business. Le competenze Microsoft sono concepite per prepararti a soddisfare le esigenze dei tuoi clienti e aiutarti ad attirare nuovi clienti in cerca di provider di soluzioni Microsoft Certified. Entra nell'élite dei partner Microsoft e distinguiti dal gruppo.
 
@@ -55,26 +56,16 @@ Per acquisire il livello di adesione Silver o Gold, devi dimostrare di avere esp
 
 I livelli di competenza Silver e Gold hanno requisiti diversi per ogni area. All'interno di ciascuna area sono previsti corsi ed esami che i dipendenti della tua azienda possono seguire per raggiungere il livello di competenza che desideri.
 
+## <a name="next-steps"></a>Passaggi successivi
 
-Per altre informazioni, vedi [Requisiti per conseguire il livello di adesione Silver e Gold](https://partner.microsoft.com/membership/competencies)
+- [Requisiti per conseguire il livello di adesione Silver e Gold](https://partner.microsoft.com/membership/competencies)
 
-Scopri gli specifici [vantaggi Go-to-market disponibili per le adesioni Silver e Gold](mpn-learn-about-go-to-market-benefits.md) 
+- [Specializzazioni avanzate](advanced-specializations.md)
 
-Scopri le [fatture e imposte per le competenze](mpn-view-print-maps-invoice.md)
+- [Vantaggi go-to-market disponibili per le adesioni Silver e Gold](mpn-learn-about-go-to-market-benefits.md) 
 
-## <a name="advanced-specializations"></a>Specializzazioni avanzate
+- [Fatture e imposte per le competenze](mpn-view-print-maps-invoice.md)
 
-Vai oltre la tua competenza Gold con una specializzazione avanzata. Le specializzazioni di questo tipo ti consentono di presentare la tua esperienza comprovata e verificabile relativamente a un prodotto, un'area di soluzioni o un servizio. I clienti vedranno sia la tua competenza Gold che la tua specializzazione avanzata nel tuo profilo di business nella directory dei partner. Per ricevere un tag di specializzazione avanzata, la tua azienda deve soddisfare pienamente una serie di criteri pubblicati e deve essere convalidata da Microsoft. [Altre informazioni](https://partner.microsoft.com/membership/competencies#tab-content-2). 
 
-## <a name="the-current-advanced-specializations"></a>Specializzazioni avanzate correnti
 
-- I partner che si occupano di SAP in Azure e che dimostrino una conoscenza approfondita, una vasta esperienza e comprovati successi nell'implementazione di soluzioni SAP in Azure possono cercare di ottenere la relativa specializzazione avanzata .
 
-- Un partner che si occupa di Windows Server e della migrazione di SQL Server a Microsoft Azure dispone di una conoscenza approfondita per fornire istruzioni sulle varie opzioni di migrazione SQL all'interno di Azure e dimostra di avere esperienza nella migrazione e nell'ottimizzazione di carichi di lavoro basati su Windows Server e SQL Server in Microsoft Azure. 
-
-- Un partner che si occupa di migrazione di database Linux e open source a Microsoft Azure dispone di una vasta conoscenza delle tecnologie open source e dimostra di avere esperienza nella migrazione e nell'ottimizzazione di carichi di lavoro di produzione in esecuzione in macchine virtuali SUSE o Red Hat Enterprise Linux (RHEL) e/o database MariaDB, PostgreSQL, MySQL, CassandraDB e MongoDB in Azure.
-
-- Un partner che si occupa di migrazione di data warehouse a Microsoft Azure ha esperienza nell'eseguire con successo la migrazione di data warehouse da Teradata, Netezza o Oracle Exadata ad Azure e dimostra competenza nell'analizzare i carichi di lavoro esistenti, nel generare i modelli di schema e nello svolgere operazioni di estrazione, trasformazione e caricamento (ETL) per trasferire i dati in data warehouse basati sul cloud.
-
-- Un partner che si occupa di Kubernetes in Microsoft Azure esegue procedure DevOps per le implementazioni del servizio Kubernetes di Azure e dimostra di avere esperienza nella distribuzione e nella gestione dei carichi di lavoro di produzione nel cloud mediante l'uso di contenitori e la gestione di ambienti Kubernetes ospitati in Microsoft Azure.
-Un partner che si occupa di modernizzazione delle applicazioni Web in Microsoft Azure assicura il successo dei clienti nello sviluppo delle applicazioni e consente di acquisire familiarità con i sistemi di gestione dei contenuti. Dimostra di avere esperienza nella migrazione e nella distribuzione di carichi di lavoro di applicazioni Web di produzione, nell'esecuzione di procedure DevOps e nella gestione dei servizi delle applicazioni in Microsoft Azure.

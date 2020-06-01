@@ -1,7 +1,7 @@
 ---
-title: Guida alla migrazione da Partner Membership Center (PMC) al Centro per i partner
+title: Eseguire la migrazione da Partner Membership Center al Centro per i partner
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come eseguire la migrazione dell'organizzazione da Partner Membership Center (PMC) al Centro per i partner.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: high
-ms.openlocfilehash: 7c90c44d3b79431fc8d200528daf6a70b2fbccb9
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362399"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795834"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guida alla migrazione da Partner Membership Center (PMC) al Centro per i partner
 
@@ -48,7 +49,7 @@ Seleziona **Inizia** nell'invito ricevuto. Verrà visualizzata la pagina di acce
 
 ## <a name="start-with-your-work-email"></a>Inizia con l'indirizzo e-mail di lavoro
 
-Se la tua azienda non ha un indirizzo e-mail aziendale e un tenant AAD, possiamo aiutarti a configurarli durante la procedura di accesso al Centro per i partner. Quando provi ad accedere con un account e-mail non aziendale, ad esempio con l'account personale, verrai indirizzato a fornire informazioni sulla tua azienda in modo da consentirci di configurare un tenant AAD e un indirizzo e-mail aziendale. Poiché questi dettagli aziendali verranno usati per finalizzare il tuo account nel Centro per i partner, assicurati che siano corretti.
+Se la tua azienda non dispone di un indirizzo e-mail aziendale e di un tenant AAD, potrai configurarli durante la procedura di accesso al Centro per i partner. Quando provi ad accedere con un account e-mail non aziendale, ad esempio con l'account personale, ti verrà chiesto di fornire informazioni sulla tua azienda in modo che sia possibile configurare un tenant AAD e un indirizzo e-mail aziendale. Poiché questi dettagli aziendali verranno usati per finalizzare il tuo account nel Centro per i partner, assicurati che siano corretti.
 
 >[!Note]
 >Se sei un partner con sede in Cina e sei iscritto ai programmi Microsoft Partner Network e Cloud Solution Provider (CSP), avrai un tenant separato per ogni account. L'account del programma Cloud Solution Provider viene gestito nel cloud nazionale, mentre l'account di Microsoft Partner Network viene gestito nel cloud globale. Non è possibile collegare i due account.
@@ -57,7 +58,7 @@ Se la tua azienda non ha un indirizzo e-mail aziendale e un tenant AAD, possiamo
 
 Dopo aver verificato o aggiornato le informazioni, seleziona **Accetta e continua**.
 Le condizioni riportate in questa pagina sono **esattamente le stesse** contenute nel contratto firmato dalla tua azienda in PMC.  
-In questo modo viene avviata la creazione del tuo tenant di Azure AD e ti verrà fornito l'account aziendale.
+In questo modo verrà avviata la creazione del tuo tenant di Azure AD e ti verrà fornito l'account aziendale.
 
 Selezionando **Accetta e continua** vengono eseguite anche le operazioni seguenti:
 

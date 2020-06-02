@@ -8,12 +8,12 @@ description: Scopri in che modo i provider indiretti collaborano con rivenditori
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6febef2f7af68a1cd93b2eafecb9537f48ab190a
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 2ec371ca444ed951ac3d3272a85c088f91d1db97
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797579"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253938"
 ---
 # <a name="work-with-other-partners"></a>Collaborare con altri partner
 
@@ -54,4 +54,4 @@ La funzionalità multicanale del centro per i partner supporta scenari in cui un
 Il supporto per più canali è disponibile anche nelle offerte cloud nazionali di Microsoft.
 
 > [!IMPORTANT]  
-> Attualmente un partner iscritto al programma CSP non può rivendere servizi online a un altro partner del programma CSP. Microsoft rivede continuamente i criteri e le funzionalità di tutti i programmi. Tutte le novità sui rilasci di funzionalità o sulle modifiche relative ai criteri saranno annunciate tramite i consueti canali di comunicazione, inclusi gli [annunci del Centro per i partner](https://partner.microsoft.com/pcv/announcements).
+> Attualmente un partner iscritto al programma CSP non può rivendere servizi online a un altro partner del programma CSP. Microsoft rivede continuamente i criteri e le funzionalità di tutti i programmi. Tutte le novità sui rilasci di funzionalità o sulle modifiche relative ai criteri saranno annunciate tramite i consueti canali di comunicazione, inclusi gli [annunci del Centro per i partner](announcements/index.md).

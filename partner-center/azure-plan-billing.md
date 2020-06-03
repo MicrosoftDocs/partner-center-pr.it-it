@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f0246338ef8c0da06dce557573cd2811d07a0e9e
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: fa1d1298f0fd3650bdaa4e6fc6b602844ac199c4
+ms.sourcegitcommit: 83f9c114910282dc87b3ec22d59a8b24b1d6b368
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908365"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84262875"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nuova esperienza commerciale in CSP - Fatturazione di Azure 
 
@@ -133,9 +133,9 @@ Per visualizzare i dati della cronologia relativa alle fatture e ai file di rico
 
   - Il contatore è idoneo al **credito ottenuto dai partner per i servizi gestiti** nel periodo 01/07-03/07. Si noti che il prezzo unitario effettivo equivale al prezzo al dettaglio meno il credito ottenuto dai partner.
 
-   - Il contatore non è idoneo al **credito ottenuto dai partner per i servizi gestiti** nel periodo 04/07-07/07. Si noti che il prezzo unitario effettivo equivale al prezzo al dettaglio.
+  - Il contatore non è idoneo al **credito ottenuto dai partner per i servizi gestiti** nel periodo 04/07-07/07. Si noti che il prezzo unitario effettivo equivale al prezzo al dettaglio.
 
-    - Il contatore è idoneo al **credito ottenuto dai partner per i servizi gestiti** nel periodo 08/07-31/07. Si noti che il prezzo unitario effettivo equivale al prezzo al dettaglio meno il credito ottenuto dai partner.
+  - Il contatore è idoneo al **credito ottenuto dai partner per i servizi gestiti** nel periodo 08/07-31/07. Si noti che il prezzo unitario effettivo equivale al prezzo al dettaglio meno il credito ottenuto dai partner.
 
 ![riconciliazione2](images/azure/pecfinal.png) 
 
@@ -143,7 +143,7 @@ Per visualizzare i dati della cronologia relativa alle fatture e ai file di rico
 
 I prezzi per i servizi di Azure forniti tramite un piano di Azure verranno addebitati in USD e fatturati in base alla valuta assegnata al paese del cliente. Se la valuta di fatturazione è diversa da USD, il tasso di cambio (FX) usato verrà visualizzato nell'ultima pagina della fattura. I tassi di cambio vengono determinati mensilmente e applicati alla fattura successiva. Per un elenco completo delle valute dei paesi, vedi la [nuova matrice di disponibilità delle offerte commerciali nelle varie aree geografiche e valute dei clienti](https://go.microsoft.com/fwlink/?linkid=2112354). 
 
-Microsoft userà [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company) per determinare i tassi di cambio usati per la conversione della valuta dei prezzi nella valuta di fatturazione. I tassi di cambio verranno aggiornati e saranno disponibili il giorno precedente il primo giorno del mese in cui verranno applicati.
+Microsoft userà Thomson Reuters per determinare i tassi di cambio usati per la conversione della valuta dei prezzi nella valuta di fatturazione. I tassi di cambio verranno aggiornati e saranno disponibili il giorno precedente il primo giorno del mese in cui verranno applicati.
 
 **Esempio**:  gli addebiti relativi all'utilizzo per il periodo di servizio compreso tra il 1° e il 31 agosto verranno fatturati in base al tasso di cambio pubblicato il 31 luglio. Questi addebiti verranno riportati nella fattura di settembre e il tasso di cambio sarà indicato nell'ultima pagina della fattura. 
 

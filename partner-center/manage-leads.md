@@ -1,30 +1,30 @@
 ---
-title: Gestisci lead | Centro per i partner
+title: Gestire i lead
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come rispondere ai riferimenti, gestire i riferimenti nuovi, esistenti e archiviati e ottenere più riferimenti in futuro in futuro.
-author: vikramb
-ms.author: vikramb
+description: Usa il centro per i partner per rispondere ai riferimenti e gestire i lead nuovi, esistenti e archiviati e i riferimenti. Scopri anche come ottenere più riferimenti in futuro.
+author: LauraBrenner
+ms.author: labrenne
 keywords: referral, co-selling, Deal
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e91035d860c9d7e7e908e7645756ca64e64d4828
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145065"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328332"
 ---
-# <a name="manage-leads"></a>Gestisci lead
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gestisci lead diversi come le richieste dei clienti, i lead qualificati per il marketing e i lead qualificati per le vendite
 
 **Si applica a**
 
--  Centro per i partner
--  Segnalazioni
--  Provider di soluzioni Microsoft
--  Profili di business
+- Centro per i partner
+- Segnalazioni
+- Provider di soluzioni Microsoft
+- Profili di business
 
 **Ruoli appropriati**
 

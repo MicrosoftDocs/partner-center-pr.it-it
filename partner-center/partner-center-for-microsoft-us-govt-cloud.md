@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 288d6aec3dfdc1e6fb7af45c088968b02f52a275
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 99f99b0b10630de60f3b6784d291b4e03cf8438a
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998317"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328192"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Il centro per i partner per Microsoft Cloud per il governo degli Stati Uniti supporta offerte partner per enti governativi
 
@@ -29,7 +29,6 @@ ms.locfileid: "83998317"
 - Agente amministratore
 - Agente di vendita
 - Amministratore fatturazione
-
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud per il governo degli Stati Uniti: requisiti per la protezione dei dati
 

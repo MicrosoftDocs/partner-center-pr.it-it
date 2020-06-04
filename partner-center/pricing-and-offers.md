@@ -1,20 +1,20 @@
 ---
 title: Prezzi e offerte
 ms.topic: article
-ms.date: 02/27/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vedi gli elenchi prezzi correnti per servizi basati su licenze come Office 365, Microsoft Dynamics CRM ed Enterprise Mobility Suite e servizi basati sull'utilizzo come Azure.
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: ba6b3407f233376f99eea673e24f5a152839383a
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e92964b2b75a0ee4e9943740ba4da4aa71c82f9f
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394163"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328292"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prezzi e offerte per Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e altro ancora
 
@@ -41,7 +41,7 @@ All'interno di ognuna di queste famiglie di prodotti sono disponibili diversi SK
 
 I servizi basati su licenze includono un'anteprima di listino prezzi, che fornisce 30 giorni prima di qualsiasi modifica. Per visualizzare l'anteprima dell'elenco prezzi, vai a **vendi > prezzi e offerte**. Non sono disponibili anteprime dei prezzi per i servizi basati sull'utilizzo poiché questi servizi sono dinamici. Nella tabella seguente viene illustrato come leggere la tabella Listino prezzi.
 
-|**Elemento**        |**Definizione**      |
+|**Item**        |**Definizione**      |
 |:-----------   |:-----------   |
 |ADD   |Un nuovo elemento all'elenco prezzi|
 |CHG   |Modifiche al prezzo di listino dal mese al mese. Potrebbero verificarsi altre modifiche non correlate al prezzo di listino. i partner dovrebbero confrontare gli elenchi prezzi tra i mesi per determinare le modifiche apportate ad altre proprietà.|
@@ -82,8 +82,8 @@ CSP offre alcuni servizi a segmenti di mercato speciali, ad esempio Education, n
 
 |**Segmento**   |**utenti che devono qualificarsi**   |**Partner idoneo per i clienti**|**Tipi di prodotto abilitati**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Customer|No, la qualifica del cliente verrà eseguita da Microsoft |Solo basato su licenza|
-|Senza scopo di lucro|Customer|No, il cliente si qualifica all'esterno del centro per i partner|Solo basato su licenza|
+|Education|Cliente|No, la qualifica del cliente verrà eseguita da Microsoft |Solo basato su licenza|
+|Senza scopo di lucro|Cliente|No, il cliente si qualifica all'esterno del centro per i partner|Solo basato su licenza|
 |Government Community Cloud (GCC) (Cloud della community per enti pubblici)|Partner e cliente|Una volta abilitata la funzionalità GCC, il partner può creare clienti GCC| Solo basato su licenza|
 |Azure Government|Partner|Una volta qualificato, il partner opera in un tenant CSP specifico di Azure per enti pubblici|Risorse di Azure|
 

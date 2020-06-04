@@ -1,7 +1,7 @@
 ---
 title: Scopri di più su come passare al mercato con le offerte Microsoft
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Scopri come passare al mercato con le offerte Microsoft per accelerare il time-to-Market, generare lead ed espandere il tuo business.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, vantaggi per l'appartenenza, appartenenza, offerte per il mercato, vai al mercato con Microsoft, vai al mercato, appartenenza a oro, appartenenza Silver
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795822"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328202"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Esplora le offerte per il go-to-market con Microsoft
 
@@ -69,9 +69,9 @@ Per visualizzare le offerte per il go-to-Market:
 
 2. Scegliere **MPN**dal menu a sinistra. Eseguire quindi una delle operazioni seguenti:
 
-    - Selezionare la scheda di **informazioni generali**. Scorrere fino alla sezione **collegamenti rapidi** e quindi selezionare la scheda **Vai al mercato** .
+    - Selezionare **Panoramica**. Scorrere fino alla sezione **collegamenti rapidi** e quindi selezionare la scheda **Vai al mercato** .
 
-      oppure
+      o
 
     - Selezionare i **vantaggi** seguiti da **Vai al mercato**.
 

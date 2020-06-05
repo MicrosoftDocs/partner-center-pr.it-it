@@ -1,23 +1,24 @@
 ---
-title: Come vendere formazione ai clienti
-description: Scopri come creare un cliente per la formazione e vendere le offerte nel centro per i partner.
+title: Come vendere offerte ai clienti della formazione
+description: Informazioni su come creare un cliente di formazione e vendervi offerte nel centro per i partner.
 ms.topic: article
-ms.date: 3/20/2020
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 913e31aa-21b9-447c-988c-7487d82b3c4f
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: istruzione, segmenti speciali
 ms.localizationpriority: medium
-ms.openlocfilehash: 99d5576cfcdad5320d90c19ca705b7c43cb3e7ab
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362489"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426010"
 ---
-# <a name="how-to-sell-education-to-customers"></a>Come vendere formazione ai clienti
+# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Come vendere offerte ai clienti della formazione & come creare un cliente per la formazione nel centro per i partner
 
 **Si applica a**
 
@@ -37,6 +38,7 @@ Questo articolo illustra come creare un cliente Education in Partner Center e co
 > Microsoft veterinaria ogni tenant del cliente di formazione appena creato per assicurarsi che siano qualificati per le offerte di formazione.  Assicurarsi di immettere le informazioni necessarie nel modo più accurato e completo possibile per evitare ritardi nel processo di vagliatura.
 
 1. Accedere al Centro per i partner.
+
 2. Selezionare **Customers** e quindi selezionare **Aggiungi un cliente**. Selezionare **Education (formazione** ) nell'elenco a discesa **qualifiche speciali** .  Inserire le altre informazioni sull'account come richiesto.  I campi chiave che assistono il processo di vagliatura includono:
 
    - Nome della società: immettere un nome di entità legale-obbligatorio per l'esame

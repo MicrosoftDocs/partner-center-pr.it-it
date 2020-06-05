@@ -1,7 +1,7 @@
 ---
-title: Trasferire le sottoscrizioni di Azure a un altro partner
+title: Trasferire la sottoscrizione di Azure a un altro partner
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come consentire a un cliente di modificare il partner del programma CSP associato alle sottoscrizioni di Azure di un cliente.
@@ -9,14 +9,14 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: LauraBrenner
 ms.author: labrenne
 keywords: sottoscrizione di Azure, switch partner, cambia partner, Ottieni nuovo partner, partner diverso
-ms.custom: SEOAPR.20
+ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 01316ceebcd2f969c89b4160bf5d95dcc44b1366
-ms.sourcegitcommit: 46b86ac7467afa43bedb0943dc8dc45a69caf1dd
+ms.openlocfilehash: eddab485d222bb8d0c5aae7cd977b6c85a418051
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "83194389"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425900"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Informazioni su come trasferire le sottoscrizioni di Azure di un cliente a un altro partner
 

@@ -1,30 +1,32 @@
 ---
-title: Credito ottenuto dai partner per i servizi gestiti (anteprima) | Centro per i partner
+title: Credito ottenuto dai partner per i servizi gestiti
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri come vengono calcolati e pagati i crediti ottenuti dai partner Microsoft per i servizi gestiti e come verificare se possiedi i requisiti richiesti.
+description: Scopri come viene calcolato e pagato il credito ottenuto dai partner Microsoft (PEC) per i servizi gestiti e come verificare se possiedi i requisiti richiesti.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 776fea7eea91e15f872021356562af05e89f1fcf
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d8e3ad7be5d2ab761d9af2de1e1b0d40974333f1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75005000"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998277"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Come viene calcolato e pagato il credito ottenuto dai partner
 
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Agente amministratore
--   Amministratore fatturazione
--   Agente di vendita
+
+- Amministratore globale
+- Amministratore utenti
+- Agente amministratore
+- Amministratore fatturazione
+- Agente di vendita
 
 Il credito ottenuto dai partner per i servizi gestiti (PEC) riconosce e premia i partner a cui sono affidati il controllo e la gestione operativi IT 24 ore su 24, 7 giorni su 7, dell'ambiente Azure intero o parziale dei clienti. Per impostazione predefinita, in CSP ai partner vengono concessi i necessari diritti di accesso alla sottoscrizione del cliente, in modo che possano eseguire 24 ore su 24, 7 giorni su 7 la gestione e il controllo operativi delle risorse della sottoscrizione. Nella sezione seguente vengono descritti altri modi in cui il cliente può effettuare il provisioning dell'accesso per il partner di transazione. L'importo delle fatture mensili è al netto del credito ottenuto dai partner. I partner possono esaminare nel file di riconciliazione mensile i dettagli del credito ottenuto. Per gli altri modi in cui il cliente può effettuare il provisioning dell'accesso per il partner di transazione, leggi [Gestire sottoscrizioni e risorse nel piano di Azure](azure-plan-manage.md).
 

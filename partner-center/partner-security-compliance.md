@@ -1,6 +1,6 @@
 ---
-title: Stato dei requisiti di sicurezza per i partner | Centro per i partner
-ms.date: 10/11/2019
+title: Stato dei requisiti di sicurezza per i partner
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i nuovi requisiti obbligatori che consentono di aumentare la sicurezza per gli advisor, i fornitori del pannello di controllo e i partner del programma Cloud Solution Provider.
@@ -9,14 +9,15 @@ ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
 ms.topic: conceptual
-ms.openlocfilehash: c398c8f2490d3f0785fa7b836a8b0e077ca46bce
-ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7905a7d24116e905c85209b18aba3ecad9643ee1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "82120392"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998297"
 ---
-# <a name="partner-security-requirements-status"></a>Stato dei requisiti di sicurezza per i partner
+# <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Stato dei requisiti di sicurezza del partner: ottieni le risposte e controlla i report sullo stato corrente
 
 **Si applica a**
 
@@ -28,7 +29,7 @@ ms.locfileid: "82120392"
 - Tutti gli advisor
 
 **Utenti appropriati**
--    Tutti gli utenti abilitati, inclusi gli utenti guest
+- Tutti gli utenti abilitati, inclusi gli utenti guest
 
 Le misure di sicurezza e la protezione della privacy sono alcune tra le nostre priorità più importanti. Sappiamo che la migliore difesa è la prevenzione e di essere al sicuro quanto lo sono i nostri punti più deboli. Questo è il motivo per cui è necessario che tutti gli utenti nell'ecosistema agiscano e si assicurino di disporre di protezioni di sicurezza appropriate. Per garantire la sicurezza di partner e clienti, viene introdotto un set di requisiti di sicurezza obbligatori per gli advisor, i fornitori del pannello di controllo e i partner che partecipano al programma Cloud Solution Provider.
 

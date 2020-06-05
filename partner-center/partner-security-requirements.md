@@ -1,22 +1,23 @@
 ---
-title: Requisiti di sicurezza per i partner | Centro per i partner
+title: Requisiti di sicurezza dei partner
 ms.topic: article
-ms.date: 11/09/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Introduzione all'abilitazione dell'autenticazione a più fattori e all'adozione del framework modello di applicazione sicura, che sono ora necessari per i partner.
-author: isaiahwilliams
-ms.author: iswillia
+description: Introduce i requisiti dei partner per abilitare l'autenticazione a più fattori (MFA) e adottare il framework del modello di applicazione sicura.
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
-ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b3e8b7ff739c9fbe37902b67721d324328fe2930
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "77672801"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998267"
 ---
-# <a name="partner-security-requirements"></a>Requisiti di sicurezza per i partner
+# <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Requisiti di sicurezza per partner che usano il Centro per i partner o le API del Centro per i partner
 
 **Si applica a**
 
@@ -28,19 +29,20 @@ ms.locfileid: "77672801"
 - Tutti gli advisor
 
 **Utenti appropriati**
--   Tutti gli utenti abilitati, inclusi gli utenti guest
+
+- Tutti gli utenti abilitati, inclusi gli utenti guest
 
 Le misure di sicurezza e la protezione della privacy sono alcune tra le nostre priorità più importanti. Sappiamo che la migliore difesa è la prevenzione e di essere al sicuro quanto lo sono i nostri punti più deboli. Questo è il motivo per cui è necessario che tutti nell'ecosistema agiscano e si assicurino che vengano adottate le protezioni di sicurezza appropriate. Per la sicurezza di partner e clienti, viene introdotto un set di requisiti di sicurezza obbligatori per gli advisor, i fornitori di pannelli di controllo e i partner che partecipano al programma Cloud Solution Provider.
 
 ## <a name="overview"></a>Panoramica
 
-I partner sono tenuti a imporre l'autenticazione a più fattori per tutti gli account utente esistenti nel tenant partner. Le condizioni associate ai requisiti di sicurezza dei partner sono state aggiunte al Contratto Microsoft Partner. In riferimento agli advisor, saranno in vigore gli stessi requisiti contrattuali.
+I partner sono tenuti a imporre l'autenticazione a più fattori per tutti gli account utente esistenti nel tenant partner. Le condizioni associate ai requisiti di sicurezza dei partner sono state aggiunte al Contratto Microsoft Partner. Per quanto riguarda gli advisor, saranno in vigore gli stessi requisiti contrattuali.
 
 I partner che non implementano i requisiti di sicurezza obbligatori non potranno eseguire transazioni nel programma Cloud Solution Provider o gestire i tenant dei clienti usando i diritti di amministratore con delega quando verranno imposti tali requisiti. Inoltre, i partner che non implementano i requisiti di sicurezza possono mettere a rischio la loro partecipazione ai programmi.  
 
 Per la tua protezione e quella dei tuoi clienti, è opportuno che i partner intraprendano immediatamente le azioni seguenti:  
 
-1. **Abilitare Multi-Factor Authentication (MFA) per tutti gli account utente inclusi nel tenant partner**. A tutti gli account utente inclusi nei tenant dei partner deve essere richiesta la verifica tramite autenticazione a più fattori al momento di accedere ai servizi cloud commerciali Microsoft o per eseguire transazioni in Cloud Solution Provider tramite il Centro per i partner o le API. 
+1. **Abilitare Multi-Factor Authentication (MFA) per tutti gli account utente inclusi nel tenant partner**. A tutti gli account utente inclusi nei tenant dei partner deve essere richiesta la verifica tramite autenticazione a più fattori al momento di accedere ai servizi cloud commerciali Microsoft o per eseguire transazioni in Cloud Solution Provider tramite il Centro per i partner o le API.
 
 2. **Adottare il framework del modello di applicazione sicura**. Adottare il framework del modello di applicazione sicura. Tutti i partner che si integrano con l'API del Centro per i partner devono adottare tale framework per qualsiasi app e applicazione del modello di autenticazione utente.
 
@@ -51,20 +53,20 @@ L'abilitazione di Multi-Factor Authentication (MFA) e l'adozione del framework d
 
 ## <a name="actions-that-you-need-to-take"></a>Azioni da intraprendere
 
-Per adeguarti ai requisiti di sicurezza dei partner, devi imporre l'autenticazione a più fattori per ogni account utente esistente nel tenant partner. A tal fine, è possibile procedere in uno dei modi seguenti:
+Per adeguarti ai requisiti di sicurezza dei partner, devi imporre l'autenticazione a più fattori per ogni account utente esistente nel tenant partner. È possibile procedere in uno dei modi seguenti:
 
 - Implementazione delle [impostazioni predefinite per la sicurezza Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
 - Acquisto di Azure Active Directory Premium per ogni account utente. Per altre informazioni, vedere [Pianificazione di una distribuzione di Azure Multi-Factor Authentication basata sul cloud](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted).
 
-- Uso di una soluzione di terze parti per implementare l'autenticazione a più fattori per ogni account utente esistente nel tenant partner. Per altri dettagli utili per assicurarsi che la soluzione fornisca le informazioni previste, vedere [come verranno implementati i requisiti di sicurezza](#how-the-requirements-will-be-enforced).
+- Uso di una soluzione di terze parti per implementare l'autenticazione a più fattori per ogni account utente esistente nel tenant partner. Per assicurarsi che la soluzione fornisca le informazioni previste, vedere [come verranno implementati i requisiti di sicurezza](#how-the-requirements-will-be-enforced).
 
 > [!NOTE]
 > Anche se l'autenticazione a più fattori non è richiesta contrattualmente per un cloud sovrano (21Vianet, Governo degli Stati Uniti e Germania), è consigliabile adottare questi requisiti di sicurezza.
 
 ## <a name="security-defaults"></a>Impostazioni predefinite per la sicurezza
 
-Il criterio delle impostazioni predefinite per la sicurezza è una delle [opzioni](#actions-that-you-need-to-take) che i partner possono scegliere per implementare l'autenticazione a più fattori per i requisiti di sicurezza in base alle specifiche esigenze aziendali. Viene offerto un livello di sicurezza di case, abilitato senza costi aggiuntivi. Prima di abilitare le impostazioni predefinite per la sicurezza, esamina come abilitare l'autenticazione a più fattori per l'organizzazione con Azure AD e analizza le considerazioni chiave seguenti.
+Il criterio delle impostazioni predefinite per la sicurezza è una delle [opzioni](#actions-that-you-need-to-take) che i partner possono scegliere per implementare l'autenticazione a più fattori per i requisiti di sicurezza in base alle specifiche esigenze aziendali. Viene offerto un livello di sicurezza di case, abilitato senza costi aggiuntivi. Prima di abilitare le impostazioni predefinite per la sicurezza, esamina come abilitare l'autenticazione a più fattori per l'organizzazione con Azure AD e analizza le seguenti considerazioni chiave.
 
 - I criteri di base saranno mantenuti ancora per un paio di mesi e deprecati per la fine di febbraio 2020.
 
@@ -72,7 +74,7 @@ Il criterio delle impostazioni predefinite per la sicurezza è una delle [opzion
 
 - Le impostazioni predefinite per la sicurezza sostituiscono a livello di disponibilità generale i criteri di base di anteprima. Dopo aver abilitato le impostazioni predefinite per la sicurezza, un partner non potrà più abilitare i criteri di base.
 
-- Con le impostazioni predefinite per la sicurezza, tutti i criteri saranno abilitati contemporaneamente. 
+- Con le impostazioni predefinite per la sicurezza, tutti i criteri saranno abilitati contemporaneamente.
 
 - Per i partner che usano l'[accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), le [impostazioni predefinite per la sicurezza non sono disponibili](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
 
@@ -91,7 +93,7 @@ Per passare dai criteri di base alle impostazioni predefinite per la sicurezza, 
 
 Poiché questi requisiti si applicano a tutti gli account utente inclusi nel tenant partner, devi considerare diversi aspetti per garantire una distribuzione senza problemi, inclusa l'identificazione degli account utente in Azure Active Directory che non possono eseguire l'autenticazione a più fattori, nonché delle applicazioni e dei dispositivi usati dall'organizzazione che non supportano l'autenticazione moderna.
 
-Prima di eseguire qualsiasi azione, è consigliabile identificare gli elementi seguenti: 
+Prima di eseguire qualsiasi azione, è consigliabile identificare gli elementi seguenti:
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Si hanno applicazioni o dispositivi che non supportano l'uso dell'autenticazione moderna?
 
@@ -105,7 +107,7 @@ Per abilitare l'autenticazione moderna in tutti i dispositivi che eseguono Windo
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Esistono criteri che impediscono agli utenti di usare i propri dispositivi mobili durante il lavoro?
 
-È importante identificare qualsiasi criterio aziendale che impedisca ai dipendenti di usare dispositivi mobili durante l'orario di lavoro perché questo potrà influenzare la soluzione di autenticazione a più fattori implementata. Esistono soluzioni, ad esempio quella fornita tramite l'implementazione delle [impostazioni predefinite per la sicurezza Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults), che consentono di eseguire la verifica solo con l'uso di un'app di autenticazione. Nel caso in cui l'organizzazione disponga di un criterio che impedisce l'uso dei dispositivi mobili, è necessario prendere in considerazione una delle opzioni seguenti
+È importante identificare qualsiasi criterio aziendale che impedisca ai dipendenti di usare dispositivi mobili durante l'orario di lavoro perché questo potrà influenzare la soluzione di autenticazione a più fattori implementata. Esistono soluzioni, ad esempio quella fornita tramite l'implementazione delle [impostazioni predefinite per la sicurezza Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults), che consentono di eseguire la verifica solo con l'uso di un'app di autenticazione. Se l'organizzazione dispone di un criterio che impedisce l'uso dei dispositivi mobili, è necessario prendere in considerazione una delle opzioni seguenti:
 
 - Distribuire un'applicazione TOTP (con password monouso con limiti di tempo) che può essere eseguita in un sistema sicuro
 
@@ -113,11 +115,11 @@ Per abilitare l'autenticazione moderna in tutti i dispositivi che eseguono Windo
 
 - Acquistare licenze [Azure Active Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) per gli utenti interessati
 
-#### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>Quale automazione o integrazione è disponibile per usare le credenziali utente e garantire l'autenticazione?
+#### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>Quale automazione o integrazione è disponibile per usare le credenziali utente e garantire l'autenticazione?
 
-Poiché il requisito è quello di applicare l'autenticazione a più fattori per ogni utente, inclusi gli account del servizio, nella directory del partner, verrà usata l'automazione o l'integrazione che sfrutta le credenziali utente per l'autenticazione. È quindi importante identificare gli account usati in queste situazioni. Di seguito è riportato un elenco di esempi di applicazioni o servizi che devono essere presi in considerazione
+Poiché il requisito è quello di applicare l'autenticazione a più fattori per ogni utente, inclusi gli account del servizio, nella directory del partner, verrà usata l'automazione o l'integrazione che sfrutta le credenziali utente per l'autenticazione. È quindi importante identificare gli account usati in queste situazioni. Vedere l'elenco seguente di applicazioni o servizi di esempio da prendere in considerazione:
 
-- Pannello di controllo usato per effettuare il provisioning delle risorse per conto dei clienti 
+- Pannello di controllo usato per effettuare il provisioning delle risorse per conto dei clienti
 
 - Integrazione con qualsiasi piattaforma usata per la fatturazione (in relazione al programma CSP) e supporto dei clienti
 
@@ -144,9 +146,9 @@ Quando si usa una soluzione di autenticazione a più fattori di terze parti, è 
 
 ## <a name="resources-and-support"></a>Risorse e supporto
 
-Di seguito sono elencate alcune risorse che possono fornire supporto e codice di esempio:
+Per il supporto e il codice di esempio, vedi le risorse seguenti:
 
-- [Community del gruppo per la guida alla sicurezza del Centro per i partner](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance): si tratta di una community online in cui è possibile ottenere informazioni sugli eventi imminenti e porre qualsiasi domanda.
+- [Community del gruppo di linee guida per la sicurezza del Centro per i partner](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance): Community del gruppo di linee guida per la sicurezza del Centro per i partner: si tratta di una community online in cui è possibile ottenere informazioni sugli eventi imminenti e porre qualsiasi domanda.
 - [Esempi .NET del Centro per i partner](https://github.com/microsoft/partner-center-dotnet-samples): questo repository GitHub contiene esempi, sviluppati con .NET, che dimostreranno come implementare il framework del modello di applicazione sicura.
-- [Esempi Java del Centro per i partner](https://github.com/microsoft/partner-center-java-samples): questo repository GitHub contiene esempi, sviluppati con Java, che dimostreranno come implementare il framework del modello di applicazione sicura.
-- [PowerShell per il Centro per i partner - Autenticazione a più fattori](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth): si tratta di un articolo che fornisce informazioni dettagliate su come implementare il framework del modello di applicazione sicura usando PowerShell.
+- [Esempi Java del Centro per i partner](https://github.com/microsoft/partner-center-java-samples): questo repository GitHub contiene esempi, sviluppati con Java, che mostreranno come implementare il framework del modello di applicazione sicura.
+- [Multi-Factor Authentication di PowerShell per il Centro per i partner](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth): si tratta di un articolo che fornisce informazioni dettagliate su come implementare il framework del modello di applicazione sicura usando PowerShell.

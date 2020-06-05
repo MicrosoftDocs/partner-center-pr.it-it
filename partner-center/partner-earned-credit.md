@@ -1,44 +1,46 @@
 ---
-title: Credito ottenuto dai partner - Panoramica | Centro per i partner
+title: Credito ottenuto dai partner - Panoramica
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Il credito ottenuto dai partner offre prezzi di Azure uniformi e semplificati, fornisce servizi gestiti a valore aggiunto e consente di eliminare la concorrenza sui margini.
+description: Scopri come il credito ottenuto dai partner (PEC) offre prezzi di Azure uniformi e semplificati, fornisce servizi gestiti a valore aggiunto e consente di eliminare la concorrenza sui margini.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 611b129cc5343715f3fc528a0222c77fcaa6ee6e
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004240"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998287"
 ---
-# <a name="partner-earned-credit---overview"></a>Credito ottenuto dai partner - Panoramica
+# <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Credito ottenuto dai partner: panoramica sul funzionamento della nuova esperienza commerciale in CSP
 
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Agente amministratore
--   Amministratore fatturazione
--   Agente di vendita
 
-Il credito ottenuto dai partner nella nuova esperienza commerciale in CSP è un modello di business che esegue una determinazione dei prezzi di Azure semplificata e uniforme nell'ambito di tutte le risorse go-to-market di Microsoft, promuovendo al tempo stesso un ecosistema di partner che fornisce servizi gestiti a valore aggiunto. Il credito ottenuto dai partner consente inoltre di eliminare qualsiasi concorrenza sui margini. 
+- Amministratore globale
+- Amministratore utenti
+- Agente amministratore
+- Amministratore fatturazione
+- Agente di vendita
 
-Con migliaia di servizi in Azure e più opzioni per l'acquisto, la determinazione dei prezzi può essere un'operazione complessa per molti clienti e partner. Nella nuova esperienza commerciale di Azure sono stati adottati singoli principi globali di determinazione dei prezzi applicabili a tutte le transazioni. I partner CSP possono offrire Azure ai prezzi pubblicati. In questo modo si garantisce maggiore trasparenza ai clienti e si creano rapporti di fiducia. 
+Il credito ottenuto dai partner nella nuova esperienza commerciale in CSP è un modello di business che esegue una determinazione dei prezzi di Azure semplificata e uniforme nell'ambito di tutte le risorse go-to-market di Microsoft, promuovendo al tempo stesso un ecosistema di partner che fornisce servizi gestiti a valore aggiunto. Il credito ottenuto dai partner consente inoltre di eliminare qualsiasi concorrenza sui margini.
 
-Le esigenze di trasformazione digitale dei clienti stanno determinando un cambiamento nella natura del valore offerto dai partner. Molti clienti richiedono ai partner di fornire servizi che vanno ben oltre le transazioni per poter sfruttare il cloud senza difficoltà e usare i servizi di Azure in modo efficiente. Questi servizi sono in fase di sviluppo e includono monitoraggio dell'ambiente Azure, gestione dei criteri e della governance, operazioni di configurazione e ottimizzazione, supporto tecnico e un'ampia gamma di altri servizi. 
+La determinazione dei prezzi può essere un'operazione complessa per molti clienti e partner, soprattutto se si tiene conto delle migliaia di servizi in Azure e delle diverse opzioni per l'acquisto. Nella nuova esperienza commerciale di Azure sono stati adottati singoli principi globali di determinazione dei prezzi applicabili a tutte le transazioni. I partner CSP possono offrire Azure ai prezzi pubblicati. In questo modo si garantisce maggiore trasparenza ai clienti e si creano rapporti di fiducia.
 
-Questi servizi richiedono a un partner un'elevata familiarità con l'ambiente Azure del cliente, nonché governance e controllo continui e appropriati sulle risorse sottostanti gestite. I partner di fatturazione che forniscono questa attività di gestione delle operazioni cloud 24 ore su 24, 7 giorni su 7 saranno idonei per un **credito ottenuto dai partner per i servizi gestiti** nell'ambiente Azure dei clienti disciplinato e controllato dal partner. 
+Le esigenze di trasformazione digitale dei clienti stanno determinando un cambiamento nella natura del valore offerto dai partner. Molti clienti richiedono ai partner di fornire servizi che vanno ben oltre le transazioni. Per poter sfruttare il cloud senza difficoltà e usare i servizi di Azure in modo efficiente. Questi servizi sono in fase di sviluppo e includono monitoraggio dell'ambiente Azure, gestione dei criteri e della governance, operazioni di configurazione e ottimizzazione, supporto tecnico e un'ampia gamma di altri servizi. 
+
+Questi servizi richiedono a un partner un'elevata familiarità con l'ambiente Azure del cliente, nonché governance e controllo continui e appropriati sulle risorse sottostanti gestite. I partner di fatturazione che forniscono questa attività di gestione delle operazioni cloud 24 ore su 24, 7 giorni su 7 saranno idonei per un **credito ottenuto dai partner per i servizi gestiti** nell'ambiente Azure dei clienti disciplinato e controllato dal partner.
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>Vantaggi offerti dal credito ottenuto dai partner per i clienti e i partner
 
 - I clienti possono esternalizzare la gestione e la fatturazione dell'infrastruttura di Azure a partner affidabili per concentrarsi sulle proprie attività principali.
 
-- I clienti collaborano con un partner che investe in servizi gestiti in Azure che contribuiscono a ottimizzare costi e operazioni e a facilitare l'uso di Azure.
+- I clienti collaborano con un partner che investe in servizi gestiti in Azure che aiutano a ottimizzare operazioni e costi correlati all'uso di Azure.
 
 - I partner sono ricompensati perché forniscono un solido portfolio di servizi gestiti in Azure per i propri clienti.  
 

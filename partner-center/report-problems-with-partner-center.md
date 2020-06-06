@@ -1,64 +1,64 @@
 ---
-title: Segnalare i problemi relativi al Centro per i partner | Centro per i partner
+title: Segnalare i problemi con il Centro per i partner
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Come segnalare i problemi relativi al Centro per i partner e raccogliere informazioni di diagnostica per il nostro team di supporto.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1542813229c062e298e40a4874543774796ec2da
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c43c4b452c7df7f28869ead32e60c8e7f2fa512a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "79023473"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467391"
 ---
-# <a name="report-problems-with-partner-center"></a><span data-ttu-id="613b4-103">Segnalare i problemi relativi al Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="613b4-103">Report problems with Partner Center</span></span>
+# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a><span data-ttu-id="436c6-103">Come segnalare i problemi con il centro per i partner e inviare eventuali informazioni di log o diagnostica</span><span class="sxs-lookup"><span data-stu-id="436c6-103">How to report problems with Partner Center and submit any log or diagnostics information</span></span>
 
-<span data-ttu-id="613b4-104">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="613b4-104">**Applies to**</span></span>
+<span data-ttu-id="436c6-104">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="436c6-104">**Applies to**</span></span>
 
-- <span data-ttu-id="613b4-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="613b4-105">Partner Center</span></span>
-- <span data-ttu-id="613b4-106">Centro per i partner per Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="613b4-106">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="436c6-105">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="436c6-105">Partner Center</span></span>
+- <span data-ttu-id="436c6-106">Centro per i partner per Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="436c6-106">Partner Center for Microsoft Cloud for US Government</span></span>
 
+<span data-ttu-id="436c6-107">Se si riscontrano problemi o si necessita di assistenza per il centro per i partner, contattare il supporto tecnico.</span><span class="sxs-lookup"><span data-stu-id="436c6-107">Contact Partner Center Support if you find problems or need help with Partner Center.</span></span>
 
-<span data-ttu-id="613b4-107">Se si riscontrano problemi o si necessita di assistenza per il centro per i partner, contattare il supporto tecnico.</span><span class="sxs-lookup"><span data-stu-id="613b4-107">Contact Partner Center Support if you find problems or need help with Partner Center.</span></span>
+<span data-ttu-id="436c6-108">**Segnalare un problema con il centro per i partner**</span><span class="sxs-lookup"><span data-stu-id="436c6-108">**Report a problem with the Partner Center**</span></span>
 
-<span data-ttu-id="613b4-108">**Segnalare un problema con il centro per i partner**</span><span class="sxs-lookup"><span data-stu-id="613b4-108">**Report a problem with the Partner Center**</span></span>
+1. <span data-ttu-id="436c6-109">Dal dashboard del centro per i **partner** selezionare **supporto** e quindi selezionare richieste di supporto per i **partner**.</span><span class="sxs-lookup"><span data-stu-id="436c6-109">From your **Partner Center** dashboard, select **Support** and then select **Partner support requests**.</span></span>
 
-1. <span data-ttu-id="613b4-109">Dal dashboard del centro per i **partner** selezionare **supporto** e quindi selezionare richieste di supporto per i **partner**.</span><span class="sxs-lookup"><span data-stu-id="613b4-109">From your **Partner Center** dashboard, select **Support** and then select **Partner support requests**.</span></span>
+2. <span data-ttu-id="436c6-110">Selezionare **nuova richiesta** e quindi cercare il tipo di problema che meglio descrive il problema.</span><span class="sxs-lookup"><span data-stu-id="436c6-110">Select **New request** and then search for the issue type that best describes your problem.</span></span> <span data-ttu-id="436c6-111">Selezionare il tipo di problema ed **esaminare le soluzioni**.</span><span class="sxs-lookup"><span data-stu-id="436c6-111">Select the issue type and **Review solutions**.</span></span>
 
-2. <span data-ttu-id="613b4-110">Selezionare **nuova richiesta** e quindi cercare il tipo di problema che meglio descrive il problema.</span><span class="sxs-lookup"><span data-stu-id="613b4-110">Select **New request** and then search for the issue type that best describes your problem.</span></span> <span data-ttu-id="613b4-111">Selezionare il tipo di problema ed **esaminare le soluzioni**.</span><span class="sxs-lookup"><span data-stu-id="613b4-111">Select the issue type and **Review solutions**.</span></span>
+3. <span data-ttu-id="436c6-112">Esaminare la pagina **soluzioni consigliate** per i passaggi o i documenti correlati che possono aiutare a risolvere il problema.</span><span class="sxs-lookup"><span data-stu-id="436c6-112">Review the **Recommended solutions** page for steps or related documents that may help you solve your issue.</span></span>
 
-3. <span data-ttu-id="613b4-112">Esaminare la pagina **soluzioni consigliate** per i passaggi o i documenti correlati che possono aiutare a risolvere il problema.</span><span class="sxs-lookup"><span data-stu-id="613b4-112">Review the **Recommended solutions** page for steps or related documents that may help you solve your issue.</span></span>
+4. <span data-ttu-id="436c6-113">Se le **soluzioni consigliate** hanno risolto il problema, è possibile selezionare **Torna al dashboard**.</span><span class="sxs-lookup"><span data-stu-id="436c6-113">If the **Recommended solutions** solved your problem, you can select **return to the Dashboard**.</span></span> <span data-ttu-id="436c6-114">Se è ancora necessaria assistenza, è possibile continuare e **fornire i dettagli del problema**.</span><span class="sxs-lookup"><span data-stu-id="436c6-114">If you still need help you can continue and **Provide issue details**.</span></span>
 
-4. <span data-ttu-id="613b4-113">Se le **soluzioni consigliate** hanno risolto il problema, è possibile selezionare **Torna al dashboard**.</span><span class="sxs-lookup"><span data-stu-id="613b4-113">If the **Recommended solutions** solved your problem, you can select **return to the Dashboard**.</span></span> <span data-ttu-id="613b4-114">Se è ancora necessaria assistenza, è possibile continuare e **fornire i dettagli del problema**.</span><span class="sxs-lookup"><span data-stu-id="613b4-114">If you still need help you can continue and **Provide issue details**.</span></span>
+5. <span data-ttu-id="436c6-115">Completare i **Dettagli del problema** e quindi **inviare**.</span><span class="sxs-lookup"><span data-stu-id="436c6-115">Complete the **issue details** and then **Submit**.</span></span> <span data-ttu-id="436c6-116">Un rappresentante del supporto tecnico partner ti seguirà.</span><span class="sxs-lookup"><span data-stu-id="436c6-116">A Partner Support representative will follow up with you.</span></span>
 
-5. <span data-ttu-id="613b4-115">Completare i **Dettagli del problema** e quindi **inviare**.</span><span class="sxs-lookup"><span data-stu-id="613b4-115">Complete the **issue details** and then **Submit**.</span></span> <span data-ttu-id="613b4-116">Un rappresentante del supporto tecnico partner ti seguirà...</span><span class="sxs-lookup"><span data-stu-id="613b4-116">A Partner Support representative will follow up with you..</span></span>
+<span data-ttu-id="436c6-117">**Inviare la diagnostica**</span><span class="sxs-lookup"><span data-stu-id="436c6-117">**Send diagnostics**</span></span>
 
-<span data-ttu-id="613b4-117">**Invia diagnostica**</span><span class="sxs-lookup"><span data-stu-id="613b4-117">**Send diagnostics**</span></span>
-
-<span data-ttu-id="613b4-118">Se si verifica un errore mentre si è in una pagina del centro per i partner, è possibile che venga richiesto di raccogliere informazioni sul log.</span><span class="sxs-lookup"><span data-stu-id="613b4-118">If an error occurs while you're on a Partner Center page, you may be prompted to gather log information.</span></span> <span data-ttu-id="613b4-119">Seleziona **Raccogli altre informazioni** dal collegamento nell'elenco a discesa in alto nella pagina per aprire lo strumento di diagnostica client.</span><span class="sxs-lookup"><span data-stu-id="613b4-119">Select **Collect more information** from the link that drops down from the top of the page to open the Client Diagnostic tool.</span></span> <span data-ttu-id="613b4-120">Questo strumento raccoglie le informazioni necessarie al team di supporto dei partner per determinare la causa dell'errore.</span><span class="sxs-lookup"><span data-stu-id="613b4-120">This tool gathers information that the Partner Support team needs to determine the cause of the error.</span></span> 
+<span data-ttu-id="436c6-118">Se si verifica un errore mentre si è in una pagina del centro per i partner, è possibile che venga richiesto di raccogliere informazioni sul log.</span><span class="sxs-lookup"><span data-stu-id="436c6-118">If an error occurs while you're on a Partner Center page, you may be prompted to gather log information.</span></span> <span data-ttu-id="436c6-119">Selezionare **raccogli altre informazioni** dal collegamento che scende dalla parte superiore della pagina per aprire lo strumento di diagnostica client.</span><span class="sxs-lookup"><span data-stu-id="436c6-119">Select **Collect more information** from the link that drops down from the top of the page to open the Client Diagnostic tool.</span></span> <span data-ttu-id="436c6-120">Questo strumento raccoglie le informazioni necessarie al team di supporto per i partner per determinare la causa dell'errore.</span><span class="sxs-lookup"><span data-stu-id="436c6-120">This tool gathers information that the Partner Support team needs to determine the cause of the error.</span></span> 
 
 >[!NOTE]
-><span data-ttu-id="613b4-121">Nelle pagine di Centro per i partner che includono **/pcv/** nell'URL, è possibile aprire manualmente lo strumento per raccogliere queste informazioni.</span><span class="sxs-lookup"><span data-stu-id="613b4-121">On Partner Center pages that include **/pcv/** in the URL, you can open the tool manually to collect this information.</span></span>
+><span data-ttu-id="436c6-121">Nelle pagine del centro per i partner che includono **/PCV/** nell'URL, è possibile aprire lo strumento manualmente per raccogliere tali informazioni.</span><span class="sxs-lookup"><span data-stu-id="436c6-121">On Partner Center pages that include **/pcv/** in the URL, you can open the tool manually to collect this information.</span></span>
 
-1. <span data-ttu-id="613b4-122">Vai alla pagina con il problema.</span><span class="sxs-lookup"><span data-stu-id="613b4-122">Go to the page with the issue.</span></span>
+1. <span data-ttu-id="436c6-122">Vai alla pagina con il problema.</span><span class="sxs-lookup"><span data-stu-id="436c6-122">Go to the page with the issue.</span></span>
 
-2. <span data-ttu-id="613b4-123">Premi **CTRL + ALT + D** per aprire lo strumento di diagnostica client.</span><span class="sxs-lookup"><span data-stu-id="613b4-123">Press **Ctrl+Alt+D** to open the Client Diagnostic tool.</span></span>
+2. <span data-ttu-id="436c6-123">Premere **CTRL + ALT + D** per aprire lo strumento di diagnostica client.</span><span class="sxs-lookup"><span data-stu-id="436c6-123">Press **Ctrl+Alt+D** to open the Client Diagnostic tool.</span></span>
 
-<span data-ttu-id="613b4-124">Puoi visualizzare in anteprima le informazioni di diagnostica e salvarle in un file che è possibile allegare alla richiesta di supporto.</span><span class="sxs-lookup"><span data-stu-id="613b4-124">You can preview the diagnostic information and then save it to a file that you can attach in your support request.</span></span> <span data-ttu-id="613b4-125">Per inviare le informazioni:</span><span class="sxs-lookup"><span data-stu-id="613b4-125">To send us the information:</span></span>
+<span data-ttu-id="436c6-124">Puoi visualizzare in anteprima le informazioni di diagnostica e salvarle in un file che è possibile allegare alla richiesta di supporto.</span><span class="sxs-lookup"><span data-stu-id="436c6-124">You can preview the diagnostic information and then save it to a file that you can attach in your support request.</span></span> <span data-ttu-id="436c6-125">Per inviare le informazioni:</span><span class="sxs-lookup"><span data-stu-id="436c6-125">To send us the information:</span></span>
 
-3. <span data-ttu-id="613b4-126">Esaminare le informazioni nel file prima di inviarlo perché può contenere informazioni personali che puoi decidere di rimuovere.</span><span class="sxs-lookup"><span data-stu-id="613b4-126">Review the information in the file before sending it as it can contain personally identifiable information that you may want to remove.</span></span> 
+3. <span data-ttu-id="436c6-126">Esaminare le informazioni nel file prima di inviarlo perché può contenere informazioni personali che puoi decidere di rimuovere.</span><span class="sxs-lookup"><span data-stu-id="436c6-126">Review the information in the file before sending it as it can contain personally identifiable information that you may want to remove.</span></span> 
 
     >[!NOTE]
-    ><span data-ttu-id="613b4-127">In alcuni browser, la sezione **di visualizzazione della pagina** nella parte inferiore della pagina di **anteprima** può sembrare vuota.</span><span class="sxs-lookup"><span data-stu-id="613b4-127">In some browsers, the **Page View** section at the bottom of the **Preview** page may appear empty.</span></span> <span data-ttu-id="613b4-128">Non si tratta di un errore.</span><span class="sxs-lookup"><span data-stu-id="613b4-128">This is OK.</span></span>
+    ><span data-ttu-id="436c6-127">In alcuni browser, la sezione **di visualizzazione della pagina** nella parte inferiore della pagina di **anteprima** può sembrare vuota.</span><span class="sxs-lookup"><span data-stu-id="436c6-127">In some browsers, the **Page View** section at the bottom of the **Preview** page may appear empty.</span></span> <span data-ttu-id="436c6-128">Non si tratta di un errore.</span><span class="sxs-lookup"><span data-stu-id="436c6-128">This is OK.</span></span>
 
-4. <span data-ttu-id="613b4-129">Per salvare il file, segui le istruzioni visualizzate sullo schermo.</span><span class="sxs-lookup"><span data-stu-id="613b4-129">Follow the on-screen instructions to save the file.</span></span>
+4. <span data-ttu-id="436c6-129">Per salvare il file, segui le istruzioni visualizzate sullo schermo.</span><span class="sxs-lookup"><span data-stu-id="436c6-129">Follow the on-screen instructions to save the file.</span></span>
 
-5. <span data-ttu-id="613b4-130">Allega il file alla richiesta di supporto.</span><span class="sxs-lookup"><span data-stu-id="613b4-130">Attach the file to your support request.</span></span>
+5. <span data-ttu-id="436c6-130">Alleghi il file alla tua richiesta di supporto.</span><span class="sxs-lookup"><span data-stu-id="436c6-130">Attach the file to your support request.</span></span>
 
-<span data-ttu-id="613b4-131">Il team di supporto dei partner potrebbe richiederti di eseguire lo strumento più volte per ottenere le informazioni più aggiornate.</span><span class="sxs-lookup"><span data-stu-id="613b4-131">Partner Support may ask you to run this tool several times so they can get the most up-to-date information.</span></span>
+<span data-ttu-id="436c6-131">Il supporto per i partner potrebbe richiedere di eseguire questo strumento più volte in modo che possano ottenere le informazioni più aggiornate.</span><span class="sxs-lookup"><span data-stu-id="436c6-131">Partner Support may ask you to run this tool several times so they can get the most up-to-date information.</span></span>
 

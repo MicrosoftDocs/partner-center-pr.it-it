@@ -11,41 +11,42 @@ ms.author: labrenne
 Keywords: integrità, integrità del servizio, problemi del servizio
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a6bba0be0bb8337d3da0536d10c4346b3f61894
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 54817a1288e4a4aebf75527907f0265e384ae839
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908223"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458377"
 ---
-# <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a><span data-ttu-id="8e247-104">Verificare l'integrità dei servizi per un cliente che ha segnalato un potenziale problema o un'interruzione del servizio</span><span class="sxs-lookup"><span data-stu-id="8e247-104">Check service health for a customer reporting a potential service problem or outage</span></span>
+# <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a><span data-ttu-id="6f2c7-104">Verificare l'integrità dei servizi per un cliente che ha segnalato un potenziale problema o un'interruzione del servizio</span><span class="sxs-lookup"><span data-stu-id="6f2c7-104">Check service health for a customer reporting a potential service problem or outage</span></span>
 
-<span data-ttu-id="8e247-105">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="8e247-105">**Applies to**</span></span>
+<span data-ttu-id="6f2c7-105">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="6f2c7-105">**Applies to**</span></span>
 
-- <span data-ttu-id="8e247-106">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="8e247-106">Partner Center</span></span>
+- <span data-ttu-id="6f2c7-106">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="6f2c7-106">Partner Center</span></span>
 
-<span data-ttu-id="8e247-107">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="8e247-107">**Appropriate roles**</span></span>
+<span data-ttu-id="6f2c7-107">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="6f2c7-107">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="8e247-108">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="8e247-108">Admin agent</span></span>
-- <span data-ttu-id="8e247-109">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="8e247-109">Global admin</span></span>
-- <span data-ttu-id="8e247-110">Agente di supporto tecnico</span><span class="sxs-lookup"><span data-stu-id="8e247-110">Helpdesk agent</span></span>
-- <span data-ttu-id="8e247-111">Agente di vendita</span><span class="sxs-lookup"><span data-stu-id="8e247-111">Sales agent</span></span>
+- <span data-ttu-id="6f2c7-108">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="6f2c7-108">Admin agent</span></span>
+- <span data-ttu-id="6f2c7-109">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="6f2c7-109">Global admin</span></span>
+- <span data-ttu-id="6f2c7-110">Agente di supporto tecnico</span><span class="sxs-lookup"><span data-stu-id="6f2c7-110">Helpdesk agent</span></span>
+- <span data-ttu-id="6f2c7-111">Agente di vendita</span><span class="sxs-lookup"><span data-stu-id="6f2c7-111">Sales agent</span></span>
 
-<span data-ttu-id="8e247-112">Una delle prime cose che è possibile fare quando un cliente segnala problemi con un servizio è controllare l'integrità del servizio.</span><span class="sxs-lookup"><span data-stu-id="8e247-112">One of the first things you can do when a customer is experiencing problems with a service is to check the service health.</span></span>
+<span data-ttu-id="6f2c7-112">Una delle prime cose che è possibile fare quando un cliente segnala problemi con un servizio è controllare l'integrità del servizio.</span><span class="sxs-lookup"><span data-stu-id="6f2c7-112">One of the first things you can do when a customer is experiencing problems with a service is to check the service health.</span></span> 
 
-<span data-ttu-id="8e247-113">**Controllare l'integrità del servizio**</span><span class="sxs-lookup"><span data-stu-id="8e247-113">**Check service health**</span></span>
+## <a name="check-service-health"></a><span data-ttu-id="6f2c7-113">Controllare l'integrità del servizio</span><span class="sxs-lookup"><span data-stu-id="6f2c7-113">Check service health</span></span>
 
-1. <span data-ttu-id="8e247-114">Dal menu **centro partner** selezionare integrità del **servizio**.</span><span class="sxs-lookup"><span data-stu-id="8e247-114">From the **Partner Center** menu, select **Service health**.</span></span>
+1. <span data-ttu-id="6f2c7-114">Selezionare il **cliente** che presenta il problema dall'elenco dei **clienti**.</span><span class="sxs-lookup"><span data-stu-id="6f2c7-114">Select the **Customer** that is having the issue from the **Customer list**.</span></span>
 
-2. <span data-ttu-id="8e247-115">Verranno visualizzati tutti i servizi visualizzati, insieme alle indicazioni se l'integrità non è corretta.</span><span class="sxs-lookup"><span data-stu-id="8e247-115">You'll see all of your services displayed, along with indications if any are not in good health.</span></span>
+2. <span data-ttu-id="6f2c7-115">Selezionare **Gestione servizi** dal menu a sinistra.</span><span class="sxs-lookup"><span data-stu-id="6f2c7-115">Select **Service management** from the left menu.</span></span> <span data-ttu-id="6f2c7-116">In questo elenco vengono elencati i servizi di cui è stato effettuato il provisioning per il cliente e l'integrità del servizio per ognuno.</span><span class="sxs-lookup"><span data-stu-id="6f2c7-116">This will list the services provisioned for the customer and the service health for each.</span></span> <span data-ttu-id="6f2c7-117">I partner possono fare clic sul servizio a cui sono interessati per ottenere altre informazioni.</span><span class="sxs-lookup"><span data-stu-id="6f2c7-117">Partners can click the service they are interested in to get more information.</span></span> 
 
-<span data-ttu-id="8e247-116">Durante un'interruzione del servizio, Microsoft fornisce aggiornamenti periodici man mano che lavora per risolvere il problema.</span><span class="sxs-lookup"><span data-stu-id="8e247-116">During a service outage, Microsoft provides regular updates as we work to address the problem.</span></span> <span data-ttu-id="8e247-117">Il modo migliore per visualizzare questi aggiornamenti è il **Centro notifiche** nel centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="8e247-117">The best way to view these updates is from the **Notification center** on the the Partner Center.</span></span> <span data-ttu-id="8e247-118">Queste notifiche vengono visualizzate anche nel portale di Microsoft Azure o nell'interfaccia di amministrazione di Office 365.</span><span class="sxs-lookup"><span data-stu-id="8e247-118">These notifications are also displayed on either the Microsoft Azure portal or the Office 395 Admin Center.</span></span>
+>[!NOTE] 
+> <span data-ttu-id="6f2c7-118">I collegamenti per l'integrità dei servizi nelle pagine di **gestione dei servizi** porteranno il partner all'interfaccia di amministrazione di M365 o all'portale di Azure come **amministratore delegato**. Quando il partner raggiunge una destinazione, il partner può passare alle pagine di integrità del servizio in uno dei due portale per ulteriori dettagli sull'interruzione.</span><span class="sxs-lookup"><span data-stu-id="6f2c7-118">Service health links on the **Service management** pages will take the partner to either the M365 admin center or the Azure portal as **delegated admin**. Once the partner gets to either destination, the partner can navigate to the service health pages in either portal for more details about the outage.</span></span>
+ 
+<span data-ttu-id="6f2c7-119">Durante un'interruzione del servizio, Microsoft fornisce aggiornamenti periodici man mano che lavora per risolvere il problema.</span><span class="sxs-lookup"><span data-stu-id="6f2c7-119">During a service outage, Microsoft provides regular updates as we work to address the problem.</span></span> <span data-ttu-id="6f2c7-120">Queste notifiche vengono visualizzate anche nel centro di amministrazione di portale di Microsoft Azure o Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="6f2c7-120">These notifications are also displayed on either the Microsoft Azure portal or the Microsoft 365 admin Center.</span></span>
 
-<span data-ttu-id="8e247-119">Se il problema persiste dopo la fine dell'interruzione del servizio, invia una richiesta di servizio.</span><span class="sxs-lookup"><span data-stu-id="8e247-119">If the problem still persists after the end of the service outage, submit a service request.</span></span> <span data-ttu-id="8e247-120">Vedi [Segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="8e247-120">See [Report problems on behalf of a customer](report-problems-on-behalf-of-a-customer.md).</span></span>
+<span data-ttu-id="6f2c7-121">Se il problema persiste dopo la fine dell'interruzione del servizio, inviare una richiesta di servizio.</span><span class="sxs-lookup"><span data-stu-id="6f2c7-121">If the problem persists after the end of the service outage, submit a service request.</span></span> <span data-ttu-id="6f2c7-122">Vedi [Segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="6f2c7-122">See [Report problems on behalf of a customer](report-problems-on-behalf-of-a-customer.md).</span></span>
+
+<span data-ttu-id="6f2c7-123">Microsoft 365 e Microsoft Azure forniscono ogni [API che i partner possono utilizzare per recuperare l'integrità del servizio in tempo reale](get-automated-service-notifications-with-our-apis.md), le comunicazioni del centro messaggi e gli eventi di manutenzione pianificata.</span><span class="sxs-lookup"><span data-stu-id="6f2c7-123">Microsoft 365 and Microsoft Azure each provide [APIs that partners can use to retrieve real-time service health](get-automated-service-notifications-with-our-apis.md), message center communications, and planned maintenance events.</span></span>
 
  
-
- 
-
-
 

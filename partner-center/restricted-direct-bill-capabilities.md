@@ -1,22 +1,23 @@
 ---
 title: Funzionalità di fatturazione diretta con restrizioni
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: I partner diretti per la fatturazione che non soddisfano il nuovo requisito avranno funzionalità di fatturazione diretta limitate
+description: Vengono fornite informazioni sui requisiti di CSP Direct Bill partner e sulle operazioni da eseguire per evitare la limitazione delle funzionalità. Scopri se le tue funzionalità sono state limitate.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatturazione diretta, limitazione
-ms.openlocfilehash: ae2a1a66f1a93e8b8183a307eca395e9781a00df
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362429"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467231"
 ---
-# <a name="restricted-direct-bill-capabilities"></a>Funzionalità di fatturazione diretta con restrizioni  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Funzionalità di fatturazione diretta limitate e requisiti necessari per i partner di fatturazione diretta CSP  
 
 ## <a name="overview"></a>Panoramica
 
@@ -42,22 +43,29 @@ Per verificare se l'accesso dal tenant partner diretto a fatturazione diretta è
 Se le funzionalità di fatturazione diretta sono state limitate, non è più possibile effettuare nuovi acquisti per i clienti nel centro per i partner. Questa restrizione include:
 
 - Sottoscrizioni Azure
+
 - Sottoscrizioni basate su Seat
+
 - Aggiungere nuovi componenti aggiuntivi alle sottoscrizioni esistenti basate su postazioni.
+
 - Effettuare acquisti monouso di prodotti software e di prenotazione (ad esempio, sottoscrizioni software, software perpetuo e istanze di macchine virtuali riservate di Azure).
 
-Non è inoltre possibile acquistare nuove sottoscrizioni di Azure per uso personale usando l' [offerta servizi condivisi di Azure partner](shared-services.md) nel programma CSP.
+Non è inoltre possibile usare l' [offerta servizi condivisi di Azure partner](shared-services.md) nel programma CSP per acquistare nuove sottoscrizioni di Azure per uso personale.
 
 Le sottoscrizioni di fatturazione diretta esistenti non sono interessate. Rimangono validi e vengono rinnovati. Si continuerà a essere addebitati direttamente da Microsoft fino a quando non vengono annullati. È comunque possibile gestire le sottoscrizioni esistenti nei modi seguenti:
 
 - Sospendi sottoscrizioni esistenti
+
 - Modificare il numero di postazioni esistenti per le sottoscrizioni basate su postazione
+
 - Modificare il numero di postazioni dei componenti aggiuntivi esistenti in una sottoscrizione. Nota: non è possibile aggiungere nuovi componenti aggiuntivi alle sottoscrizioni esistenti perché vengono considerati come nuovi acquisti.
+
 - Distribuisci nuove risorse di Azure e Gestisci le risorse di Azure esistenti in sottoscrizioni di Azure esistenti. Sono incluse le risorse disponibili tramite Azure Marketplace e le sottoscrizioni di Visual Studio.
 
 Oltre ai nuovi acquisti, non è possibile accedere alle seguenti funzionalità di fatturazione diretta nel centro per i partner:
 
 - Non è possibile creare nuovi tenant del cliente. L'opzione **Crea cliente** nella pagina clienti del centro per **i** partner non sarà disponibile.
+
 - Non è possibile generare un invito al cliente che richiede la relazione diretta del rivenditore. L'opzione **Richiedi relazione rivenditore** nella pagina clienti del centro per **i** partner non sarà disponibile.
 
     >[!Note]

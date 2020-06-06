@@ -1,26 +1,26 @@
 ---
-title: Richiedere una relazione con un cliente| Centro per i partner
+title: Richiedere una relazione con un cliente
 ms.topic: article
-ms.date: 01/28/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: La richiesta di una relazione viene utilizzata per scenari con più partner e multicanale. È anche utile se un cliente rimuove i tuoi privilegi di amministratore delegato e devi ripristinarli per effettuare il provisioning o fornire supporto.
+description: Richiedere una relazione con un cliente per scenari multicanale e multicanale o se è necessario ripristinare i privilegi amministrativi delegati per un cliente.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fd3d9b2067c7e9253a4a0f32c3afcbc7d0eadd5
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362709"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467371"
 ---
-# <a name="connect-with-customers-in-partner-center"></a>Connettersi con i clienti nel centro per i partner
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Come richiedere una relazione del rivenditore da un cliente nel centro per i partner
 
 **Si applica a**
 
--  Centro per i partner
+- Centro per i partner
 
 Se si desidera gestire il servizio o la sottoscrizione di un cliente per loro conto, il cliente deve concedere le autorizzazioni di amministratore per tale servizio o sottoscrizione e firmare il contratto per i clienti Microsoft.
 

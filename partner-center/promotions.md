@@ -1,45 +1,50 @@
 ---
-title: Usare le promozioni per attirare nuovi clienti | Centro per i partner
+title: Usare le promozioni per attirare i clienti
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: I partner Microsoft del programma Cloud Solutions Provider possono acquistare sottoscrizioni a prezzi promozionali e passare i risparmi ai clienti.
+description: Scopri in che modo i partner Microsoft nel programma Cloud Solution Provider possono acquistare sottoscrizioni a prezzi promozionali e passare risparmi ai clienti.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d43853c149f00ba284065a05ff5e6585beb4495
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 89e552e87f24caa43e0875afa2b7bea6e870c406
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798739"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467501"
 ---
-# <a name="use-promotions-to-attract-new-customers"></a>Usare le promozioni per attirare nuovi clienti  
+# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Usa le promozioni per attirare i nuovi clienti e passare il risparmio su di essi
 
-**Si applica a: centro per i partner**
+**Si applica a**
+
+- Centro per i partner
+- Partner inclusi nel programma Cloud Solution Provider (CSP)
 
 **Ruoli appropriati**
--   Agente amministratore
--   Amministratore dei partner MPN
--   Amministratore fatturazione
--   Agente di vendita
+
+- Agente amministratore
+- Amministratore dei partner MPN
+- Amministratore fatturazione
+- Agente di vendita
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
 Occasionalmente Microsoft offre promozioni per le sottoscrizioni basate sulle licenze per consentire di offrire sconti ai clienti ed espandere la propria attività. 
 
-Microsoft offre due tipi di promozioni; quelli disponibili per tutti i partner idonei nel programma Cloud Solution Provider (CSP) e quelli disponibili solo per i partner in una determinata area geografica.
+Microsoft offre due tipi di promozioni: quelle disponibili per tutti i partner idonei nel programma Cloud Solution Provider (CSP) e quelle disponibili solo per i partner in una determinata area geografica.
 
 I prezzi promozionali vengono applicati automaticamente al prezzo netto quando si acquistano nuove sottoscrizioni al prezzo della promozione. Inoltre, le licenze aggiunte a una sottoscrizione acquistata con prezzi promozionali vengono aggiunte al prezzo di promozione. 
 
 Esaminare le informazioni importanti sulle promozioni:
 
--   Il prezzo di promozione di una sottoscrizione si applica solo per la durata della sottoscrizione. Quando una sottoscrizione acquistata con prezzi promozionali scade, il prezzo della sottoscrizione di rinnovo viene ripristinato al prezzo nel listino prezzi. Ciò significa che tutte le sottoscrizioni configurate per il rinnovo automatico vengono rinnovate al prezzo prevalente. È possibile trovare l'elenco prezzi nella pagina **prezzi e offerte** . 
+- Il prezzo di promozione di una sottoscrizione si applica solo per la durata della sottoscrizione. Quando una sottoscrizione acquistata con prezzi promozionali scade, il prezzo della sottoscrizione di rinnovo viene ripristinato al prezzo nel listino prezzi. Ciò significa che tutte le sottoscrizioni configurate per il rinnovo automatico vengono rinnovate al prezzo prevalente. È possibile trovare l'elenco prezzi nella pagina **prezzi e offerte** .
 
--   Se una sottoscrizione è idonea per più promozioni, viene applicata automaticamente la promozione con la percentuale più alta.
+- Se una sottoscrizione è idonea per più promozioni, viene applicata automaticamente la promozione con la percentuale più alta.
 
--   Gli annullamenti delle sottoscrizioni con prezzi promozionali seguono lo stesso processo e lo stesso criterio degli abbonamenti a prezzi regolari.
+- Gli annullamenti delle sottoscrizioni con prezzi promozionali seguono lo stesso processo e lo stesso criterio degli abbonamenti a prezzi regolari.
 
 ## <a name="see-available-promotions"></a>Vedi le promozioni disponibili
 
@@ -60,7 +65,6 @@ Esaminare le informazioni importanti sulle promozioni:
 
 5. Esaminare l'ordine. Verranno visualizzati i prezzi per la promozione che verranno applicati nella colonna **discount** .  
 
-6.  Selezionare **Invia** per acquistare. Il cliente visualizzerà il prezzo di promozione per la fattura successiva.  
-
+6. Selezionare **Invia** per acquistare. Il cliente visualizzerà il prezzo di promozione per la fattura successiva.  
 
 

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e92964b2b75a0ee4e9943740ba4da4aa71c82f9f
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: abb04f21a50cbbef83418a8e2fec480a0020c443
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328292"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467541"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prezzi e offerte per Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e altro ancora
 
@@ -41,7 +41,7 @@ All'interno di ognuna di queste famiglie di prodotti sono disponibili diversi SK
 
 I servizi basati su licenze includono un'anteprima di listino prezzi, che fornisce 30 giorni prima di qualsiasi modifica. Per visualizzare l'anteprima dell'elenco prezzi, vai a **vendi > prezzi e offerte**. Non sono disponibili anteprime dei prezzi per i servizi basati sull'utilizzo poiché questi servizi sono dinamici. Nella tabella seguente viene illustrato come leggere la tabella Listino prezzi.
 
-|**Item**        |**Definizione**      |
+|**Elemento**        |**Definizione**      |
 |:-----------   |:-----------   |
 |ADD   |Un nuovo elemento all'elenco prezzi|
 |CHG   |Modifiche al prezzo di listino dal mese al mese. Potrebbero verificarsi altre modifiche non correlate al prezzo di listino. i partner dovrebbero confrontare gli elenchi prezzi tra i mesi per determinare le modifiche apportate ad altre proprietà.|
@@ -50,7 +50,7 @@ I servizi basati su licenze includono un'anteprima di listino prezzi, che fornis
 |Data di inizio validità   |Prima data è possibile ordinare l'offerta    |
 |Data di inizio validità   |Ultima data in cui è possibile ordinare un'offerta   |
 |Nome visualizzato dell'offerta   |Nome del cliente per l'offerta   |
-|Offer ID (ID offerta)   |Identificatore interno per l'offerta   |
+|ID offerta   |Identificatore interno per l'offerta   |
 |Tipo di contratto di licenza   |I tipi di contratto di licenza possono essere aziendali, governativi o accademici. Il tipo di contratto determina i tipi di clienti a cui è possibile vendere l'offerta.|
 |Unità di acquisto   |Durata dell'acquisto dell'offerta. Le unità di acquisto sono in genere di un mese.   |
 |Tipo di licenza secondaria   |I tipi di licenza secondari saranno non specifici, componente aggiuntivo o versione di valutazione. Il componente aggiuntivo indica che sono presenti prodotti prerequisiti che il cliente deve acquistare prima di acquistare il componente aggiuntivo.|
@@ -122,3 +122,32 @@ L'ambito del limite dell'offerta viene registrato come colonna nella matrice del
 ### <a name="taxes-and-pricing"></a>Tasse e prezzi
 
 Tutti i prezzi negli elenchi prezzi del centro per i partner CSP sono inclusivi fiscali. Per ulteriori informazioni [, le imposte e le imposte fiscali](tax-and-tax-exemptions.md)dei documenti del centro partner.
+
+## <a name="multi-year-term-offers"></a>Offerte per il periodo pluriennale
+
+### <a name="36-month-offers"></a>Offerte di 36 mesi
+
+Esistono circa 50 offerte di Dynamics con termini di tre anni. Sono identificati da **(36 Mo)** nel titolo delle offerte. Queste offerte sono molto simili a quelle del termine annuale. L'unica differenza è intorno al termine. Queste offerte hanno un termine di tre anni, che significa che le sottoscrizioni vengono rinnovate automaticamente dopo tre anni anziché una. Di seguito è riportato un riepilogo del funzionamento di queste offerte:
+
+- I termini sono 36 mesi, le sottoscrizioni verranno rinnovate automaticamente dopo tre anni
+- I partner possono annullare o modificare il numero di licenze per tutto il periodo di validità della sottoscrizione
+- Il rinnovo annuale sarà al prezzo del periodo di acquisto per il periodo di tre anni
+- La frequenza di fatturazione è ancora annuale o mensile
+
+### <a name="72-month-offers"></a>Offerte di 72 mesi
+
+Microsoft 365 offerta base a1 ha un periodo di sei anni.  I componenti aggiuntivi di Office 365 a1 sono disponibili dopo aver acquistato questa offerta di base. 
+
+|**Nome dell'offerta**   |**ID offerta**   |**Tipo**|
+|-------------------|-----------------------|----------------------------|
+|Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Offerta di base|
+|Office 365 a1 per i docenti (per il dispositivo)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Componente aggiuntivo|
+|Office 365 a1 per studenti (per il dispositivo)|bae285a9-d56b-4384-B02F-38adc61a6f12|Componente aggiuntivo|
+
+Di seguito è riportato un riepilogo del funzionamento di queste offerte:
+
+- Il termine è per 72 mesi o 6 anni
+- La sottoscrizione non viene rinnovata e scade dopo 6 anni
+- La frequenza di fatturazione sull'offerta è indicata come annuale, ma il partner viene fatturato prima della prima fattura dopo l'acquisizione della sottoscrizione
+- Le sottoscrizioni per le offerte a1 72 mesi sono bloccate dopo l'acquisto e non possono essere annullate e non è possibile aggiungere i conteggi delle licenze alla sottoscrizione dopo l'acquisto iniziale
+- Per i partner che devono annullare è necessario creare un ticket di supporto con il motivo dell'annullamento e l'ID sottoscrizione per cui necessitano di assistenza.

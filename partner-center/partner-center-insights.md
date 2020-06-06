@@ -1,22 +1,22 @@
 ---
 title: Insights del Centro per i partner
+description: Esplora il dashboard di report unificato del centro per i partner. Scopri come stai facendo in KPI per le vendite e la distribuzione, lo sviluppo di clienti e altro ancora.
 ms.topic: article
-ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Esplora il dashboard di report unificato del centro per i partner. Scopri come stai facendo in KPI per le vendite e la distribuzione, lo sviluppo di clienti e altro ancora.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, prestazioni, successo dei clienti, misurazioni, dati di report
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f48b58ff02672e08f39fb22f17736f6f5a6e9216
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 05/26/2020
+ms.openlocfilehash: c9a80519ab418c0b0c52bbf7e0224e439b4f672e
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453198"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467531"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: dashboard che Mostra come opera un partner commerciale Microsoft
 

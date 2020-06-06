@@ -1,27 +1,27 @@
 ---
-title: Rispondere alle segnalazioni | Centro per i partner
+title: Rispondere alle segnalazioni
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come rispondere ai riferimenti, gestire i riferimenti nuovi, esistenti e archiviati e ottenere più riferimenti in futuro in futuro.
-author: JnHs
-ms.author: jenhayes
+description: Scopri in che modo i partner Microsoft qualificati possono rispondere ai riferimenti, gestire i riferimenti nuovi, esistenti e archiviati e ottenere più riferimenti in futuro.
+author: LauraBrenner
+ms.author: labrenne
 keywords: segnalazione, richiesta di informazioni, Trova un partner
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0cd8ac3dba2570d2d4d2440d4b524bb76ced39a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 65d9629f610e3b6e145c348eebf6c197f3583318
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943444"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467271"
 ---
-# <a name="respond-to-referrals"></a>Rispondere alle segnalazioni
+# <a name="respond-to-referrals-and-get-potential-business-leads"></a>Rispondi ai riferimenti e ottieni potenziali lead aziendali
 
 **Si applica a**
 
--  Centro per i partner
+- Centro per i partner
 
 In qualità di partner Microsoft qualificato, puoi ricevere eventuali lead tramite segnalazioni. Nel centro per i partner è possibile gestire i lead in ingresso, rispondere rapidamente a quelli che rappresentano una scelta ottimale e ignorare o rifiutare quelli che non lo sono. 
 
@@ -29,9 +29,9 @@ In qualità di partner Microsoft qualificato, puoi ricevere eventuali lead trami
 
 Inizia configurando un [profilo di business](create-a-marketing-profile.md) per ogni area geografica in cui operi. Una volta che il profilo è attivo, sarà possibile indirizzare i clienti alla propria azienda tramite:
 
-*  Attività di marketing Microsoft
-*  Agenti di servizio e di vendita Microsoft interni
-*  Ricerche dei clienti con lo strumento di ricerca del **[provider di soluzioni](https://www.microsoft.com/solution-providers/home)** .
+- Attività di marketing Microsoft
+- Agenti di servizio e di vendita Microsoft interni
+- Ricerche dei clienti con lo strumento di ricerca del **[provider di soluzioni](https://www.microsoft.com/solution-providers/home)**.
 
 Quando un cliente è interessato a saperne di più sulle soluzioni e i servizi, ti contatterà inviando una richiesta di informazioni (RFI). Il contatto indicato nel [profilo di business](create-a-marketing-profile.md) specifico dell'area geografica e della località selezionate riceverà un'e-mail generata dal sistema. Puoi anche visualizzare le richieste di informazioni in arrivo nel Centro per i partner passando a **Segnalazioni > Impegni > Posta in arrivo**.
 
@@ -43,8 +43,9 @@ Nella **cartella posta in arrivo**verrà visualizzata una panoramica della RFI. 
 
 Esamina i dettagli e contatta il cliente se vuoi avere altre informazioni sulle sue esigenze aziendali. Puoi quindi accettare o rifiutare la segnalazione:
 
-*  **Accept**: immettere un nome per il coinvolgimento, il valore dell'affare stimato e l'intervallo di tempo di acquisto stimato. Devi inoltre specificare le informazioni nel campo **Note** se vuoi spiegare in modo più dettagliato ciò che il cliente sta cercando. Qui puoi immettere facoltativamente il tuo ID CRM (solo per riferimento) e aggiungere altri contatti della tua azienda. Al termine, fai clic su **Avanti**. Il riferimento verrà spostato in **attivo**, il che significa che si prevede di coinvolgere attivamente il cliente per soddisfare le proprie esigenze. Queste informazioni verranno usate anche per aiutare a trovare le offerte simili in futuro.
-*  **Rifiuta**: selezionare il motivo per cui si sta declinando il coinvolgimento e aggiungere eventuali note che si desidera includere, quindi selezionare **Chiudi Engagement**. Verrà archiviato come **rifiutato** e verrà inviata una notifica al cliente per scegliere un partner diverso.
+- **Accept**: immettere un nome per il coinvolgimento, il valore dell'affare stimato e il periodo di tempo di acquisto stimato. Devi inoltre specificare le informazioni nel campo **Note** se vuoi spiegare in modo più dettagliato ciò che il cliente sta cercando. Qui puoi immettere facoltativamente il tuo ID CRM (solo per riferimento) e aggiungere altri contatti della tua azienda. Al termine, fare clic su **Avanti**. Il riferimento verrà spostato in **attivo**, il che significa che si prevede di coinvolgere attivamente il cliente per soddisfare le proprie esigenze. Queste informazioni verranno usate anche per aiutare a trovare le offerte simili in futuro.
+
+- **Rifiuta**: selezionare il motivo per cui si sta declinando il coinvolgimento e aggiungere eventuali note che si desidera includere, quindi selezionare **Chiudi Engagement**. Verrà archiviato come **rifiutato** e verrà inviata una notifica al cliente per scegliere un partner diverso.
 
 Se non si risponde entro il periodo di tempo assegnato (attualmente 14 giorni), lo si archivierà come **scaduto** e si invierà una notifica al cliente per scegliere un partner diverso.
 
@@ -71,12 +72,12 @@ Puoi esaminare le segnalazioni passate (**acquisite, perse, rifiutate** e **scad
 
 Ecco alcuni suggerimenti utili per ricevere un maggior numero di segnalazioni appropriate per la tua azienda:
 
-*  **Scegli parole chiave e preferenze che rappresentino la tua esperienza e il tuo modello di business specifici** nel tuo [profilo di business](create-a-marketing-profile.md). Rimuovere le parole chiave che generano riferimenti per l'utente non è interessato a. Se non si è interessati a gestire le aziende di una determinata dimensione, aggiornare questa preferenza.
+- **Scegli parole chiave e preferenze che rappresentino la tua esperienza e il tuo modello di business specifici** nel tuo [profilo di business](create-a-marketing-profile.md). Rimuovere le parole chiave che generano riferimenti per l'utente non è interessato a. Se non si è interessati a gestire le aziende di una determinata dimensione, aggiornare questa preferenza.
 
-*  **Verifica le informazioni di contatto nel tuo [profilo di business](create-a-marketing-profile.md)** per ogni località per assicurarti che il tuo team riceva gli avvisi in arrivo.
+- **Verifica le informazioni di contatto nel tuo [profilo di business](create-a-marketing-profile.md)** per ogni località per assicurarti che il tuo team riceva gli avvisi in arrivo.
 
-*  **Rispondi velocemente alle segnalazioni**. Quando si risponde tempestivamente alle richieste in ingresso, la visibilità verrà aumentata nei prossimi risultati della ricerca dei clienti. Assicurati che il tuo team risponda velocemente indicando le intenzioni.
+- **Rispondi velocemente alle segnalazioni**. Quando si risponde tempestivamente alle richieste in ingresso, la visibilità verrà aumentata nei prossimi risultati della ricerca dei clienti. Assicurati che il tuo team risponda velocemente indicando le intenzioni.
 
-*  **Sii selettivo nelle trattative che decidi di accettare**. I tipi di trattative che accetti e rifiuti vengono monitorati e queste informazioni vengono usate per aiutarti a individuare trattative simili. Accettare le offerte che non sono una scelta ottimale non migliorerà i risultati della ricerca e potrebbe influisca sulla qualità dei lead ricevuti.
+- **Sii selettivo nelle trattative che decidi di accettare**. I tipi di trattative che accetti e rifiuti vengono monitorati e queste informazioni vengono usate per aiutarti a individuare trattative simili. Accettare le offerte che non sono una scelta ottimale non migliorerà i risultati della ricerca e potrebbe influisca sulla qualità dei lead ricevuti.
 
-*  **Comunica il volume della trattativa stimato, le date di chiusura e lo stato finale delle trattative** (acquisite o perse). Queste informazioni verranno usate per continuare a fornire i riferimenti alla qualità.
+- **Comunica il volume della trattativa stimato, le date di chiusura e lo stato finale delle trattative** (acquisite o perse). Queste informazioni verranno usate per continuare a fornire i riferimenti alla qualità.

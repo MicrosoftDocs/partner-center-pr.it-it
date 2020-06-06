@@ -1,28 +1,28 @@
 ---
-title: Segnalare i problemi relativi al Centro per i partner | Centro per i partner
+title: Segnalare i problemi con il Centro per i partner
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Come segnalare i problemi relativi al Centro per i partner e raccogliere informazioni di diagnostica per il nostro team di supporto.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1542813229c062e298e40a4874543774796ec2da
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c43c4b452c7df7f28869ead32e60c8e7f2fa512a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "79023473"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467391"
 ---
-# <a name="report-problems-with-partner-center"></a>Segnalare i problemi relativi al Centro per i partner
+# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Come segnalare i problemi con il centro per i partner e inviare eventuali informazioni di log o diagnostica
 
 **Si applica a**
 
-- Partner Center
+- Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
-
 
 Se si riscontrano problemi o si necessita di assistenza per il centro per i partner, contattare il supporto tecnico.
 
@@ -36,18 +36,18 @@ Se si riscontrano problemi o si necessita di assistenza per il centro per i part
 
 4. Se le **soluzioni consigliate** hanno risolto il problema, è possibile selezionare **Torna al dashboard**. Se è ancora necessaria assistenza, è possibile continuare e **fornire i dettagli del problema**.
 
-5. Completare i **Dettagli del problema** e quindi **inviare**. Un rappresentante del supporto tecnico partner ti seguirà...
+5. Completare i **Dettagli del problema** e quindi **inviare**. Un rappresentante del supporto tecnico partner ti seguirà.
 
-**Invia diagnostica**
+**Inviare la diagnostica**
 
-Se si verifica un errore mentre si è in una pagina del centro per i partner, è possibile che venga richiesto di raccogliere informazioni sul log. Seleziona **Raccogli altre informazioni** dal collegamento nell'elenco a discesa in alto nella pagina per aprire lo strumento di diagnostica client. Questo strumento raccoglie le informazioni necessarie al team di supporto dei partner per determinare la causa dell'errore. 
+Se si verifica un errore mentre si è in una pagina del centro per i partner, è possibile che venga richiesto di raccogliere informazioni sul log. Selezionare **raccogli altre informazioni** dal collegamento che scende dalla parte superiore della pagina per aprire lo strumento di diagnostica client. Questo strumento raccoglie le informazioni necessarie al team di supporto per i partner per determinare la causa dell'errore. 
 
 >[!NOTE]
->Nelle pagine di Centro per i partner che includono **/pcv/** nell'URL, è possibile aprire manualmente lo strumento per raccogliere queste informazioni.
+>Nelle pagine del centro per i partner che includono **/PCV/** nell'URL, è possibile aprire lo strumento manualmente per raccogliere tali informazioni.
 
 1. Vai alla pagina con il problema.
 
-2. Premi **CTRL + ALT + D** per aprire lo strumento di diagnostica client.
+2. Premere **CTRL + ALT + D** per aprire lo strumento di diagnostica client.
 
 Puoi visualizzare in anteprima le informazioni di diagnostica e salvarle in un file che è possibile allegare alla richiesta di supporto. Per inviare le informazioni:
 
@@ -58,7 +58,7 @@ Puoi visualizzare in anteprima le informazioni di diagnostica e salvarle in un f
 
 4. Per salvare il file, segui le istruzioni visualizzate sullo schermo.
 
-5. Allega il file alla richiesta di supporto.
+5. Alleghi il file alla tua richiesta di supporto.
 
-Il team di supporto dei partner potrebbe richiederti di eseguire lo strumento più volte per ottenere le informazioni più aggiornate.
+Il supporto per i partner potrebbe richiedere di eseguire questo strumento più volte in modo che possano ottenere le informazioni più aggiornate.
 

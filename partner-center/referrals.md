@@ -1,7 +1,7 @@
 ---
-title: Espandere la propria attività con le segnalazioni Microsoft | Centro per i partner
+title: Fai crescere la tua azienda con i riferimenti Microsoft
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come creare un profilo business per generare lead di vendita attraverso la funzionalità dei riferimenti del centro per i partner e quindi per rispondere a questi riferimenti.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: segnalazioni, profilo di business, trovare un partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943254"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467441"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -22,7 +23,7 @@ ms.locfileid: "74943254"
 
 **Si applica a**
 
--  Centro per i partner
+- Centro per i partner
 
 Molti clienti cercano esperti qualificati che li assistano nell'implementazione di soluzioni aziendali e tecnologiche Microsoft. Qui in Microsoft riceviamo spesso dai clienti richieste di aiuto dirette tramite le nostre attività di marketing e i nostri agenti di vendita interni Microsoft. I clienti usano anche l'esperienza [**Trova un provider di soluzioni**](https://www.microsoft.com/solution-providers/search) per trovare aziende in grado di soddisfare le loro esigenze aziendali. 
 

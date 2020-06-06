@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795779"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453188"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Trasferimento di più aziende al centro per i partner da partner Membership Center (PMC)
 
@@ -42,17 +42,17 @@ Una volta eseguita la migrazione, se si rileva che l'account aziendale errato è
 
 4. Selezionare l'attività e l'area geografica e salvare.
 
-![Account esistente](images/migration/accountwithus.png)
+:::image type="content" source="images/migration/accountwithus.png" alt-text="Account esistente":::
 
 ## <a name="your-company-has-an-account-in-partner-center"></a>L'azienda dispone di un account nel Centro per i partner
 
 Verrà visualizzato l'account esistente e una nota che illustra che i dettagli aziendali (l'account con cui si sta effettuando l'accesso) verranno consolidati in questo account.
 
-![Account in Centro per i partner](images/migration/existingaccount2.png)
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="Account in Centro per i partner":::
 
 Questa schermata mostra i dettagli dell'account esistente (nome e indirizzo) che è già stato creato nel Centro per i partner insieme ai dettagli del contatto principale.
 
-Seleziona **Continua**.
+Selezionare **Continua**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Cosa accade durante il consolidamento degli account
 
@@ -76,7 +76,7 @@ Verificare le informazioni sull'azienda e modificare se necessario.  Questi dett
 
 I dettagli sono basati sulle informazioni in PMC e verranno verificati per garantire la legittimità dell'azienda.
 
-![Esaminare i dettagli](images/migration/review.png)
+:::image type="content" source="images/migration/review.png" alt-text="Esaminare i dettagli":::
 
 Se l'account in corso di trasferimento si trova nello stesso paese o area geografica dell'account esistente, è possibile decidere se si intende usare tale indirizzo o aggiungerne un altro. Se si decide di usare un indirizzo diverso, l'indirizzo verrà verificato. Se si intende usare lo stesso indirizzo, verrà usato l'indirizzo esistente e il contatto principale.
 

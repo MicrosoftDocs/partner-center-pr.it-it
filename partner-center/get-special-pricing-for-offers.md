@@ -1,7 +1,7 @@
 ---
 title: Vendere in settori specializzati
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni sui prezzi speciali e ridotti di Microsoft per determinati gruppi di clienti, inclusi i clienti dell'istruzione, i clienti senza scopo di lucro e gli utenti governativi.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 00b4dc172c4c39fe73f1118d2eb3a56555eaa464
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 5a1b8567263f8a105b3a3bc5b1d429715c9f3c38
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795090"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467171"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vendi a settori specializzati come Education, no profit e utenti governativi
 
@@ -36,7 +36,7 @@ Microsoft offre prezzi speciali e ridotti per i gruppi di clienti selezionati, i
 |**Prezzo speciale**   |**Qualifiche richieste rivenditore**   |**Qualifiche richieste dal cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |nessuno   | Deve essere un [utente qualificato](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)per la formazione.   |
-|Government   |Per vendere Azure, effettuare la registrazione usando il [modulo di convalida del cloud Microsoft US Government](https://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenze per enti pubblici, non è necessaria alcuna qualifica.|   nessuno|
+|Enti governativi   |Per vendere Azure, effettuare la registrazione usando il [modulo di convalida del cloud Microsoft US Government](https://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenze per enti pubblici, non è necessaria alcuna qualifica.|   nessuno|
 |No profit  |nessuno<br/> Deve avere un tenant di Azure Active Directory non profit.<br/> Scopri di più sulle [offerte speciali no profit](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Iscriversi al [programma Microsoft nonprofit](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Controllare le tue qualificazioni come rivenditore
@@ -60,6 +60,23 @@ I passaggi seguenti sono applicabili solo ai provider indiretti e ai partner di 
 ## <a name="where-to-find-special-offers"></a>Dove trovare offerte speciali
 
 Una volta che l'utente e il cliente sono qualificati per un programma speciale offerta, seguire i passaggi per [aggiungere una sottoscrizione](create-a-new-subscription.md). Nella sezione **Catalogo** della pagina **nuova sottoscrizione** Selezionare un settore specializzato per visualizzare le offerte speciali che è possibile vendere.
+
+## <a name="purchase-rules-for-special-segments"></a>Regole di acquisto per segmenti speciali
+
+I partner possono vendere offerte speciali ai clienti solo se soddisfano determinati criteri. 
+
+- Le offerte di formazione possono essere acquistate solo se il cliente è autorizzato come istituto scolastico. Un cliente Education può ricevere solo offerte di istruzione e commerciali, ma non di profit o di Government community Cloud (GCC).
+- I partner possono acquistare solo sottoscrizioni GCC per i clienti GCC. Quando un cliente ha una sottoscrizione GCC, i partner non possono acquistare sottoscrizioni commerciali, di formazione e non profit. 
+- I partner possono acquistare solo sottoscrizioni commerciali o non profit per i clienti senza scopo di lucro. I partner non possono acquistare sottoscrizioni GCC e Education per i clienti senza scopo di lucro.
+
+Regole di acquisto per la vendita di offerte speciali ai clienti:
+
+|**Tipo di cliente**   |**Può essere venduto**   |**Non è possibile vendere**   |
+|:----------------------------|:---------------------------------|:------------------------------------------|
+| Commerciale |Commerciale | Cloud della community non profit, Education o Government |
+| Senza scopo di lucro |Commerciale, senza scopo di lucro | Cloud della community Education o Government |
+| Education |Commerciale, istruzione | Cloud della community senza scopo di lucro o per enti pubblici |
+| Cloud della community per enti pubblici |Cloud della community per enti pubblici | Senza scopo di lucro, istruzione o commerciale |
 
 ## <a name="next-steps"></a>Passaggi successivi
 

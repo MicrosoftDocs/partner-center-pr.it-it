@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure, prenotazioni, VM, gestione, utilizzo, dimensionamento
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f214a3dd507370f37347d4e014059367f13c5669
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205779"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453278"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Ridimensionamento della macchina virtuale di Microsoft Azure per l'utilizzo massimo delle prenotazioni
 
@@ -54,23 +54,24 @@ Di seguito sono riportate le istruzioni per l'uso di ognuno di questi metodi. Do
 3. Selezionare **macchine virtuali** dal menu del portale e quindi selezionare la macchina virtuale per cui si vuole acquistare una prenotazione.
 4. Nella pagina dei dettagli della macchina virtuale individuare le informazioni sulle dimensioni e sull'area, come illustrato di seguito, e usare queste informazioni per acquistare la prenotazione nel centro per i partner.  
 
-    ![Informazioni sulle dimensioni e sull'area nella pagina Dettagli](images/usage1.png)
+    :::image type="content" source="images/usage1.png" alt-text="Informazioni sulle dimensioni e sull'area nella pagina Dettagli":::
 
 **Ottenere informazioni sul dimensionamento della macchina virtuale usando Microsoft Azure PowerShell**
 
 Usare le informazioni nell'immagine seguente per ottenere la posizione e le dimensioni della macchina virtuale per cui si vuole acquistare una prenotazione. 
 
-![Posizione e dimensioni della macchina virtuale](images/usage2.png)
+:::image type="content" source="images/usage2.png" alt-text="Posizione e dimensioni della macchina virtuale":::
 
 **Ottenere informazioni sul dimensionamento delle macchine virtuali tramite l'API Azure Resource Manager (ARM)**
 
 1. Usando le API ARMClient o ARM, chiamare il client ARM per la macchina virtuale per cui si vuole acquistare una prenotazione.
 
-2. /Subscriptions/<Subscription ID>/resourceGroups/<Resource group name>/Providers/Microsoft.Compute/virtualMachines/<VM Instance Name>? API-Version = 2017-12-01
+2. /Subscriptions/ <Subscription ID> /ResourceGroups/ <Resource group name> /providers/Microsoft.Compute/virtualMachines/ <VM Instance Name> ? API-Version = 2017-12-01
 
 3. La chiamata restituisce i valori per **vmSize** e **location**, come illustrato di seguito.
 
-    ![valore percorso](images/usage3.png) ![valore vmSize](images/usage4.png)
+    :::image type="content" source="images/usage3.png" alt-text="valore vmSize":::
+    :::image type="content" source="images/usage4.png" alt-text="valore Location":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Verificare l'utilizzo della macchina virtuale di Azure e lo sconto per
 
@@ -110,7 +111,7 @@ Di seguito sono riportate le istruzioni per l'uso di ognuno di questi metodi.
 
 È possibile ottenere i dati di utilizzo delle prenotazioni con l'API di utilizzo di Azure per verificare che il cliente ottenga lo sconto per la prenotazione e per vedere a quali macchine virtuali (macchine virtuali) viene applicato lo sconto. Confrontare l'esempio a all'esempio B per vedere come verificare l'utilizzo della prenotazione di un cliente.
 
-![Esempi di utilizzo della prenotazione](images/usage5.png)
+:::image type="content" source="images/usage5.png" alt-text="Esempi di utilizzo della prenotazione":::
 
 - ReservationId identifica la prenotazione di Azure usata per applicare lo sconto alla macchina virtuale.
 - consumptionMeter è il ID contatore per la macchina virtuale a cui è applicato lo sconto di prenotazione.

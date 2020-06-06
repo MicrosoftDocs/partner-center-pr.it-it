@@ -1,8 +1,8 @@
 ---
-title: Comprendere la fattura | Centro per i partner
+title: Come leggere il file di fatturazione & Recon
 ms.topic: article
-ms.date: 04/03/2020
-description: La fattura è un riepilogo di tutti gli addebiti per il centro per i partner (per il programma, i prodotti e i clienti) per il periodo mensile corrente.
+ms.date: 06/05/2020
+description: Informazioni sulla fattura & i file di riconciliazione. La fattura Mostra i costi del centro per i partner per il programma, i prodotti e i clienti per tale periodo mensile.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: fatturazione della sottoscrizione, fatturazione, fatturazione nel centro per i partner, fatturazione del centro per i partner, lettura fattura, fattura, fattura del centro partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
-ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ab5e9667b766566e3af4ddd524805ff31dfc2a59
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798709"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467461"
 ---
-# <a name="understand-your-bill"></a>Informazioni sulla fattura
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprendere la fattura e il file di riconciliazione: informazioni su come trovarli nel centro per i partner
 
 **Si applica a**
 
@@ -35,21 +36,21 @@ La **fattura** è un **Riepilogo di tutti gli addebiti** per il centro per i par
 
 ## <a name="invoice-types"></a>Tipi di fattura
 
-Microsoft emetterà una fattura per tutti gli addebiti basati sulle licenze, ad esempio Office 365, e gli addebiti basati sull'utilizzo (ad esempio Azure) e una fattura separata per gli addebiti monouso, ad esempio Azure RI, Marketplace, piano di Azure e così via. 
+Microsoft emetterà una fattura per tutti gli addebiti basati sulle licenze, ad esempio Office 365, e gli addebiti basati sull'utilizzo (ad esempio Azure) e una fattura separata per gli addebiti monouso, ad esempio Azure RI, Marketplace o piano di Azure.
 
 Ad esempio,  
 
-**Scenario 1 [singola valuta]**: i partner hanno acquistato per l'offerta 145P e le licenze O365  
+**Scenario 1 [singola valuta]**: il partner ha acquistato l'offerta 145P e le licenze O365  
 
 - Il partner otterrà un PDF di fattura e 2 file di riconciliazione che coprono gli addebiti sia per O365 che per Azure (145P).  
 
-**Scenario 2 [singola valuta]**: i partner hanno acquistato per Azure ri, Marketplace e/o piano di Azure insieme agli acquisti di 145P. 
+**Scenario 2 [singola valuta]**: il partner dispone di acquisti per Azure ri, Marketplace e/o piano di Azure insieme agli acquisti 145P.
 
 - Il partner otterrà una fattura PDF e un file di riconciliazione che copre gli addebiti per Azure (145P). 
 
 - Il partner riceverà un'altra fattura PDF e un file di riconciliazione che copre i relativi addebiti per Azure RI, Marketplace, Azure Plan. 
 
-**Scenario 3 [più valute]**: i partner hanno acquistato per Azure ri in DKK e piano di Azure in EUR insieme agli acquisti 145P in EUR. 
+**Scenario 3 [più valute]**: il partner ha acquistato per Azure ri in DKK e piano di Azure in EUR insieme agli acquisti di 145P in EUR.
 
 - Il partner riceverà una fattura PDF e un file di riconciliazione che copre gli addebiti per Azure RI in DKK. 
 
@@ -77,7 +78,7 @@ Ad esempio,
 
 **Fatture per addebiti periodici e periodici: le**fatture per i servizi quali Azure ri, piano di Azure e Marketplace saranno disponibili non più di 8 di ogni mese.  
 
-Di seguito sono riportati alcuni dei campi chiave nel documento di fattura PDF: 
+Di seguito sono riportati alcuni dei campi chiave nel documento di fattura PDF:
 
 **Numero fattura**: identificatore univoco per il documento di fattura generato per il rispettivo periodo di fatturazione. 
 
@@ -95,34 +96,6 @@ Scadenza **pagamento**: data in cui deve essere ricevuto il pagamento.
 
 Per una descrizione dettagliata di tutti i campi nel file di fattura (inclusi i campi per gli addebiti monouso), vedere [campi del file di fattura](invoice-file.md). 
 
-## <a name="understand-reconciliation-file"></a>Informazioni sul file di riconciliazione 
+## <a name="understand-reconciliation-files"></a>Informazioni sui file di riconciliazione
 
  I file di riconciliazione, che forniscono dettagli relativi a drill-down/dettagliati degli addebiti, sono disponibili per il download insieme al PDF della fattura. I file di riconciliazione includono gli identificatori dei clienti e gli identificatori di sottoscrizione che è possibile usare per creare fatture del cliente. Per altre informazioni sui file di ricognizione, vedere  [come usare i file di riconciliazione](use-the-reconciliation-files.md) . 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

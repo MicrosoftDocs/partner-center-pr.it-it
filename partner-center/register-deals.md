@@ -1,27 +1,27 @@
 ---
-title: Registrare le trattative | Centro per i partner
+title: Registrare le trattative
 ms.topic: article
-ms.date: 08/28/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Quando si registra una trattativa acquisita nel centro per i partner, Microsoft offre maggiori opportunità in futuro.
-author: JnHs
-ms.author: jenhayes
+author: LauraBrenner
+ms.author: labrenne
 keywords: registrazione delle trattative
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05c9291a9aa76efe2ff7d0a2557617b69e7455d4
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4bb638d82315be392181ebad17040723d164119b
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943224"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467411"
 ---
-# <a name="register-your-deals"></a>Registrare le trattative
+# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registra le offerte acquisite nel centro per i partner per poter ottenere più opportunità in seguito
 
 **Si applica a**
 
--  Centro per i partner
+- Centro per i partner
 
 Puoi registrare le trattative che sono andate a buon fine nel Centro per i partner fornendo altre informazioni sul contratto. Queste informazioni consentono di offrirti maggiori opportunità in futuro.
 
@@ -41,7 +41,7 @@ Nella pagina **Nuova trattativa** specifica le informazioni seguenti.
 - **Valore totale del contratto**: valore previsto totale per l'engagement. Deve includere tutte le tariffe relative al software e ai servizi, ma non i costi relativi all'hardware. Assicurati di selezionare la valuta appropriata.
 - **Valore soluzione**: valore totale della soluzione cloud che verrà usato per l'operazione. Ricordati di includere tutti i costi associati al software e alla manutenzione, ma non includere le voci rimborsabili, le tariffe di personalizzazione non ricorrenti o le tariffe di licenze CSP direttamente associate e pagate da Microsoft.
 - **Distribuito in**: selezionare **Azure** o **altro**.
-- **Dove verrà distribuita la soluzione?** : selezionare il **tenant del cliente** o il **tenant del partner**.
+- **Dove verrà distribuita la soluzione?**: selezionare il **tenant del cliente** o il **tenant del partner**.
 - **Data di inizio del contratto**: data di inizio del contratto.
 - **Data di fine del contratto**: se il contratto terminerà in una data specifica, Select **avrà una data di fine** e fornirà tale data. In caso contrario, seleziona **Perpetual** (A tempo indeterminato).
 - **Data firma contratto**: la data in cui il contratto finale è stato firmato dall'organizzazione e dal cliente.
@@ -59,7 +59,7 @@ Puoi esaminare le registrazioni di trattative nuove, attive e chiuse nelle diver
 
 Nella pagina **Segnalazioni > Deal registrations (Registrazioni trattative) > Azione richiesta** verranno visualizzate le nuove registrazioni non ancora effettuate o che richiedono un aggiornamento. Puoi usare i filtri per visualizzare solo le registrazioni di trattative **Incomplete** o con **Aggiornamento richiesto**. Le registrazioni di trattative **Incomplete** sono registrazioni che hanno avuto origine da segnalazioni, ma che non sono state ancora effettuate. Le registrazioni di trattative con **Aggiornamento richiesto** sono registrazioni create ed effettuate, ma che richiedono che tu aggiorni le informazioni specificate.
 
-### <a name="in-progress"></a>In progress
+### <a name="in-progress"></a>In corso
 
 Nella pagina **Segnalazioni > Deal registrations (Registrazioni trattative) > In corso** verranno visualizzate le registrazioni di trattative che Microsoft sta esaminando. Se sono necessarie altre informazioni, verranno usate le informazioni che hai specificato nel campo **Contatto registrazione**.
 

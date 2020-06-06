@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: istruzione, segmenti speciali
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 24100c6316eb2f4d957562163e1daf0ba15119be
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426010"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453298"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Come vendere offerte ai clienti della formazione & come creare un cliente per la formazione nel centro per i partner
 
@@ -41,15 +41,15 @@ Questo articolo illustra come creare un cliente Education in Partner Center e co
 
 2. Selezionare **Customers** e quindi selezionare **Aggiungi un cliente**. Selezionare **Education (formazione** ) nell'elenco a discesa **qualifiche speciali** .  Inserire le altre informazioni sull'account come richiesto.  I campi chiave che assistono il processo di vagliatura includono:
 
-   - Nome della società: immettere un nome di entità legale-obbligatorio per l'esame
-   - Righe di paese/area geografica e indirizzo: immettere l'indirizzo di posta elettronica completo dell'entità, necessario per l'esame
-   - Indirizzo di posta elettronica: immettere l'indirizzo di posta elettronica di proprietà dell'entità, non un messaggio di posta elettronica gratuito o on.microsoft.com, obbligatorio
-   - Informazioni di contatto del cliente: questi dettagli verranno usati come parte del processo di vagliatura
-   - Nome di dominio primario: usato per creare l'account e gli indirizzi di posta elettronica del cliente.  Scegliere un nome simile al nome della società senza spazi o caratteri speciali.  Questo nome non può essere modificato in un secondo momento.
+   - **Nome della società**: immettere un nome di entità legale-obbligatorio per l'esame
+   - **Righe di paese/area geografica e indirizzo**: immettere l'indirizzo di posta elettronica completo dell'entità, necessario per l'esame
+   - **Indirizzo di posta elettronica**: immettere l'indirizzo di posta elettronica di proprietà dell'entità, non un messaggio di posta elettronica gratuito o on.Microsoft.com, obbligatorio
+   - **Informazioni di contatto del cliente**: questi dettagli verranno usati come parte del processo di vagliatura
+   - **Nome di dominio primario**: usato per creare l'account e gli indirizzi di posta elettronica del cliente.  Scegliere un nome simile al nome della società senza spazi o caratteri speciali.  Questo nome non può essere modificato in un secondo momento.
 
 3. Al termine, selezionare **Revisione**.
 
-![Account del cliente Education](images/eduaccountinfo.png)
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Account del cliente Education":::
 
 ### <a name="confirm-your-education-customers-vetting-status"></a>Confermare lo stato di vagliatura del cliente Education
 
@@ -58,15 +58,15 @@ Esempi di stato:
 
 - Se il cliente ha superato l'esame: Education
 
-   ![Vagliatura istruzione riuscita](images/edupassedvetting.png)
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Vagliatura istruzione riuscita":::
 
 - Se il cliente non ha superato il vagliatura: non è un cliente di istruzione
 
-   ![Istruzione con esito negativo](images/edudidnotpassvetting.PNG)
+   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Istruzione con esito negativo":::
 
 - Se il cliente non è stato contrassegnato come cliente Education: nessuno
 
-   ![Istruzione senza tag](images/edunottagged.PNG)
+   :::image type="content" source="images/edunottagged.png" alt-text="Istruzione senza tag":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>Correggere le informazioni sull'account del cliente e inviarle di più per la vagliatura  
 

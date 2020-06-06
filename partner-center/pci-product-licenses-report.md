@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 206a7e9d756aa2d888813d83ef22fcd7a9ac109c
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795658"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452898"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Report licenze del prodotto nel dashboard di partner Center Insights
 
@@ -54,7 +54,7 @@ Percentuale di aumento o di riduzione delle licenze durante l'intervallo di date
 
 Il grafico micro presenta la tendenza mensile dei conteggi delle licenze durante l'intervallo di date selezionato.
 
-![Riepilogo report licenze](images/pci/pci_licenses_report_summary_1.png)
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Riepilogo report licenze":::
 
 **Distribuzione geografica delle licenze**
 
@@ -64,7 +64,7 @@ Il **numero di paesi/area geografica** presenta il totale dei paesi/aree geograf
 
 È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione della mappa. Premere l'opzione **Home** sulla mappa per ripristinare la visualizzazione predefinita. Passare il puntatore del mouse sulla mappa per visualizzare le licenze correnti e le licenze attive per paese del cliente. Entrambi i campi sulla griglia sono ordinabili.
 
-![distribuzione geografica della licenza](images/pci/pci_licenses_report_geo_spread_2.png)
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="distribuzione geografica della licenza":::
 
 **Aggiunta licenza**
 
@@ -74,14 +74,14 @@ Per presentare la tendenza in base a prodotto e servizio/carico di lavoro, selez
 
 L'asse X rappresenta i mesi dell'intervallo di date selezionato. L'asse Y rappresenta il numero di licenze aggiunte. Per ingrandire un periodo specifico, utilizzare il dispositivo di scorrimento nella parte superiore del grafico.
 
-![Aggiunta licenza](images/pci/pci_licenses_report_license_adds_3.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Aggiunta licenza":::
 
 **Distribuzione delle licenze**
 
 Questa visualizzazione Mostra una suddivisione delle licenze dei clienti in base al prodotto e al paese del cliente/area geografica. Quando si seleziona un prodotto nel grafico a torta della **licenza per prodotto** , il grafico adiacente visualizzerà una ripartizione delle licenze per area cliente.
 
-![distribuzione delle licenze](images/pci/pci_licenses_report_license_distrib_4.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="distribuzione delle licenze":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Per altri report, vedere [Partner Center Insights](partner-center-insights.md).
+Per altri report, vedere [Partner Center Insights](partner-center-insights.md).

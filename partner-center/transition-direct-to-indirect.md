@@ -1,20 +1,21 @@
 ---
-title: Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto
+title: Passa direttamente alla fattura partner a rivenditori indiretti
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come eseguire la transizione dal partner Direct Bill al rivenditore indiretto
+description: Informazioni sul modo in cui un partner del programma CSP può usare il centro per i partner per la transizione dal partner Direct-Bill al rivenditore indiretto.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatturazione diretta, transizione, rivenditore indiretto
-ms.openlocfilehash: 8002504622e330aefd4ec20d8a49a27454360e3f
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f3f87014e76ea32bf15d3e0147d5e40c3a5ebefc
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362669"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458407"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto
 
@@ -33,11 +34,11 @@ Sarà possibile eseguire la registrazione al programma indirect Reseller usando 
 
 2. Accedere al centro per i partner come amministratore globale per il tenant di fatturazione diretta che si sta passando al rivenditore indiretto.
 
-    ![Panoramica](images/direct/direct1.png)
+   :::image type="content" source="images/direct/direct1.png" alt-text="Overview":::
 
 3. Esaminare i dettagli del partner nel modulo di registrazione.
 
-    ![Iscriviti ora](images/direct/direct2a.png)
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Iscriviti ora":::
 
 4. Selezionare Registrati ora. L'azienda del rivenditore indiretto userà lo stesso tenant di AAD usato per l'azienda diretta.
 
@@ -53,7 +54,7 @@ Sarà possibile eseguire la registrazione al programma indirect Reseller usando 
 
 Dopo aver accettato il contratto di rivenditore indiretto, si noti che il profilo partner identifica l'utente **come fattura** diretta e rivenditore indiretto.
 
-![Contratto rivenditore indiretto](images/direct/direct3.png)
+:::image type="content" source="images/direct/direct3.png" alt-text="Contratto rivenditore indiretto":::
 
 > [!IMPORTANT]
 > Una volta eseguita la registrazione come rivenditore indiretto tramite la nuova funzionalità, non è possibile eseguire il rollback a un tenant diretto di sola fatturazione. Assicurati di prendere in considerazione tutte le tue esigenze aziendali prima eseguire la registrazione come rivenditore indiretto.
@@ -62,7 +63,7 @@ Dopo aver accettato il contratto di rivenditore indiretto, si noti che il profil
 
 Durante questa fase, si continuerà a gestire le esigenze di sottoscrizione dirette dei clienti, incluso il processo di fatturazione. È anche possibile iniziare ad accettare i clienti dal provider indiretto e operare come rivenditore indiretto.
 
-![Sei una fattura diretta e un rivenditore indiretto](images/direct/direct4.png)
+:::image type="content" source="images/direct/direct4.png" alt-text="Sei una fattura diretta e un rivenditore indiretto":::
 
 ## <a name="find-an-indirect-provider"></a>Trovare un provider indiretto
 
@@ -159,7 +160,7 @@ Per una panoramica dettagliata del processo step-by-Step, vedere il documento re
     > [!NOTE]
     > Utilizzando la funzionalità di estensione Reseller Relationship, il cliente acconsente a condividere le informazioni fatturate per il cliente con il provider indiretto.
 
-- Il provider indiretto non verrà fornito con [privilegi di amministrazione delegata](customers_revoke_admin_privileges.md) al tenant del cliente. Se il provider indiretto richiede privilegi di amministrazione delegata, è necessario inviare invece un invito al rivenditore indiretto al cliente.
+- Il provider indiretto non verrà fornito con [privilegi di amministrazione delegata](customers-revoke-admin-privileges.md) al tenant del cliente. Se il provider indiretto richiede privilegi di amministrazione delegata, è necessario inviare invece un invito al rivenditore indiretto al cliente.
 
 - Una volta stabilita la relazione Reseller, il provider indiretto verrà visualizzato come partner CSP per il cliente nella pagina Relazioni partner nell'interfaccia di [amministrazione di M365](https://admin.microsoft.com/AdminPortal/Home#/partners) e [Microsoft Store for business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
 
@@ -174,7 +175,7 @@ Per usare questa funzionalità in un tenant del cliente esistente:
 
 3. In **provider/i indiretti**, fare clic **su Trasferisci cliente per un provider indiretto**.
 
-    ![Trasferire il cliente a un provider indiretto](images/direct/direct5_1.png)
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Trasferire il cliente a un provider indiretto":::
 
 4. Nella finestra di dialogo popup selezionare il **provider indiretto** a cui si vuole associare il cliente per la relazione Reseller.
 
@@ -182,7 +183,7 @@ Per usare questa funzionalità in un tenant del cliente esistente:
 
 6. Verificare che il provider indiretto selezionato venga visualizzato sotto **provider indiretti**.
 
-    ![Provider indiretto elencato](images/direct/direct5_2.png)
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="Provider indiretto elencato":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Invia un invito del rivenditore indiretto al cliente
 
@@ -192,7 +193,7 @@ Il provider indiretto non può inviare ordini per i clienti con fatturazione dir
 
 2. Selezionare **Invita nuovi clienti** per invitare il cliente a stabilire contemporaneamente una relazione come rivenditore con l'utente e il provider indiretto. Il provider deve avere una relazione di rivenditore con il cliente, in modo che possa inviare ordini per conto del cliente quando il cliente desidera acquistare nuove sottoscrizioni o aggiungere nuove licenze alle sottoscrizioni esistenti.
 
-    ![Invita nuovi clienti](images/direct/direct6.png)
+    :::image type="content" source="images/direct/direct6.png" alt-text="Invita nuovi clienti":::
 
 3. Nella pagina successiva esaminare la bozza del messaggio di posta elettronica. È possibile aprire il messaggio bozza in un messaggio di posta elettronica oppure copiarlo negli Appunti e incollarlo in un messaggio di posta elettronica.
 
@@ -208,7 +209,7 @@ Microsoft Cloud contratto è valido fino al 31 gennaio 2020. Dopo tale data, tut
 
 - **Il cliente non ha ancora accettato il contratto cliente Microsoft**
 
-   Collaborare con il provider indiretto per chiedere al cliente di [accettare il contratto per i clienti Microsoft]( https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+   Collaborare con il provider indiretto per chiedere al cliente di [accettare il contratto per i clienti Microsoft](confirm-customer-agreement.md).
 
 - **Il cliente ha accettato il contratto per i clienti Microsoft attraverso l'interfaccia di amministrazione di Microsoft 365**
 
@@ -216,7 +217,7 @@ Microsoft Cloud contratto è valido fino al 31 gennaio 2020. Dopo tale data, tut
 
 - **Il cliente ha accettato il contratto per i clienti Microsoft tramite l'attestazione partner**
 
-   L'accettazione non verrà mantenuta. Collaborare con il provider indiretto per [aggiornare l'accettazione del cliente nel centro per i partner]( https://docs.microsoft.com/partner-center/confirm-customer-agreement#confirm-customer-acceptance-for-existing-customers).
+   L'accettazione non verrà mantenuta. Collaborare con il provider indiretto per [aggiornare l'accettazione del cliente nel centro per i partner](confirm-customer-agreement.md#confirm-customer-acceptance-for-existing-customers).
 
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Trasferire le sottoscrizioni di fatturazione diretta esistenti al provider indiretto
 
@@ -273,17 +274,17 @@ Per creare una richiesta di trasferimento come partner di transizione:
 
 6. In **trasferimento sottoscrizione**fare clic su **Richiedi trasferimento sottoscrizione**.
 
-    ![Richiedi trasferimento sottoscrizione](images/direct/direct8.png)
+    :::image type="content" source="images/direct/direct8.png" alt-text="Richiedi trasferimento sottoscrizione":::
 
 7. Nella finestra di dialogo richiesta di trasferimento selezionare una o più sottoscrizioni da trasferire.
 
-    ![Creazione della richiesta di trasferimento](images/direct/direct9.png)
+    :::image type="content" source="images/direct/direct9.png" alt-text="Creazione della richiesta di trasferimento":::
 
 8. Fare clic su **Crea**.
 
 9. Una richiesta di trasferimento di sottoscrizione attiva verrà visualizzata in **trasferimento sottoscrizione**.
 
-    ![Elenco richieste di trasferimento](images/direct/direct10.png)
+    :::image type="content" source="images/direct/direct10.png" alt-text="Elenco richieste di trasferimento":::
 
 10. Informare il provider indiretto che è stata creata una richiesta di trasferimento della sottoscrizione.
 
@@ -301,13 +302,13 @@ Per esaminare e accettare una richiesta di trasferimento come provider indiretto
 
 5. Nella pagina **sottoscrizioni** cercare trasferimento della **sottoscrizione**.
 
-    ![Visualizza la richiesta di trasferimento](images/direct/direct11.png)
+    :::image type="content" source="images/direct/direct11.png" alt-text="Visualizza la richiesta di trasferimento":::
 
 6. In **trasferimento sottoscrizione**fare clic sulla richiesta di trasferimento da rivedere.
 
 7. Fare clic su **Accept** (o **Reject**) in base alle esigenze.
 
-    ![Accetta richiesta di trasferimento](images/direct/direct12.png)
+    :::image type="content" source="images/direct/direct12.png" alt-text="Accetta richiesta di trasferimento":::
 
 8. Attendere il completamento della richiesta di trasferimento.
 
@@ -337,7 +338,7 @@ Il partner di transizione deve eseguire le operazioni seguenti:
 
    2. Se si tratta di una sottoscrizione basata su postazione (Office 365, Dynamics, Intune), verrà elencata con stato come **sospesa**.
 
-   ![Sottoscrizione sospesa](images/direct/direct13.png)
+   :::image type="content" source="images/direct/direct13.png" alt-text="Sottoscrizione sospesa":::
 
 ### <a name="considerations"></a>Considerazioni
 

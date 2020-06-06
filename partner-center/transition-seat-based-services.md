@@ -1,42 +1,43 @@
 ---
-title: Spostare clienti e servizi basati sulle licenze sul programma Cloud Solution Provider nel Centro per i partner | Centro per i partner
+title: Spostare i clienti basati su licenze nel programma CSP
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Spostare i clienti e le sottoscrizioni per il programma CSP da un altro canale o da un altro partner.
+description: Informazioni su come spostare i clienti basati su licenze da altri canali o da un altro partner nel programma Cloud Solution Provider (CSP) nel centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 12d382c043c6f1fbfa0348b17b25f12e0f306ee9
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ce096cd3e7fca1f59fd59eac739585c345c34405
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654008"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458387"
 ---
-# <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>Spostare i clienti di servizi basati sulle licenze sul programma Cloud Solution Provider da un altro canale o da un partner a un altro
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Spostare i clienti basati su licenze da altri canali & partner al programma Cloud Solution Provider
 
 **Si applica a**
 
 -  Centro per i partner
 
-Se il tuo cliente desidera assumere più partner, trasferire le loro sottoscrizioni a un altro partner o gestire le loro sottoscrizioni acquistate altrove, puoi spostarle manualmente. È anche possibile spostare i clienti nel centro per i partner da un altro canale.
+Se il cliente desidera assumere più partner, trasferire le sottoscrizioni a un altro partner o gestire le sottoscrizioni acquistate altrove, è possibile spostarle manualmente. È anche possibile spostare i clienti nel centro per i partner da un altro canale.
 
 ## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Spostare le sottoscrizioni basate sulle licenze del cliente nel programma Cloud Solution Provider (CSP)
 
-1. Selezionare **Customers** dal menu centro partner e quindi selezionare **Richiedi una relazione Reseller**. Per fornire supporto per gli account multicanale, esegui la stessa operazione.
+1. Selezionare **Customers** dal menu centro partner e quindi selezionare **Richiedi una relazione Reseller**. Per fornire supporto per gli account multicanale, è necessario eseguire la stessa operazione.
 
 2.  Una volta che il cliente accetta l'invito, sarà possibile effettuare il provisioning delle sottoscrizioni e delle sedi desiderate per il cliente (ad esempio, la stessa offerta Office 365 che il cliente ha acquistato in precedenza).
 
-3. Il cliente può attendere la scadenza delle sottoscrizioni originali o annullarle. Tuttavia, poiché non sono presenti rimborsi per le sottoscrizioni annullate, è consigliabile attendere che le sottoscrizioni del cliente si avvicinino alle date di scadenza naturali.
+3. Il cliente può consentire la scadenza o l'annullamento delle sottoscrizioni originali. Tuttavia, poiché non sono presenti rimborsi per le sottoscrizioni annullate, è consigliabile attendere che le sottoscrizioni del cliente si avvicinino alle date di scadenza naturale.
 
-4. Il cliente continuerà quindi con le sottoscrizioni per cui è stato effettuato il provisioning senza interruzioni.
+4. Il cliente continuerà a procedere con le sottoscrizioni di cui è stato effettuato il provisioning senza interruzioni.
 
 
-Se si esegue il provisioning delle stesse offerte già utilizzate dal cliente, non è necessario riassegnare le licenze e non ci saranno interruzioni per gli utenti finali. Le offerte devono essere le stesse per garantire che non vengano persi dati. Purché il numero totale di licenze rimanga invariato e l'offerta sia equivalente, i clienti non percepiranno alcun impatto.
+Se si effettua il provisioning delle stesse offerte delle offerte utilizzate dal cliente, non è necessario riassegnare le licenze e non vi saranno interferenze per gli utenti finali. Le offerte devono essere le stesse per evitare perdite di dati. Fino a quando il numero totale di licenze rimane invariato e l'offerta è equivalente, i clienti non risulteranno interessati.
 
-Se trasferisci clienti che si trovano su offerte sospese, dovrai trovare un'offerta equivalente per evitare la perdita di dati. Se si sposta il cliente su un'altra offerta, è necessario aggiornare la sua assegnazione della licenza.
+Se si trasferiscono i clienti che si trovano in offerte non più utilizzate, sarà necessario trovare un'offerta equivalente per evitare la perdita di dati. Se si sposta il cliente in un'offerta diversa, sarà necessario aggiornare l'assegnazione delle licenze.
 
 >[!NOTE]
 >Il partner CSP deve trovarsi nella stessa area del tenant del cliente per la transizione del cliente. 

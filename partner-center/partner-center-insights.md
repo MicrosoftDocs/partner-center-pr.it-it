@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b2d6e363eed34998a07a711b51dc77fcc135cdb
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f48b58ff02672e08f39fb22f17736f6f5a6e9216
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328232"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453198"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: dashboard che Mostra come opera un partner commerciale Microsoft
 
@@ -61,7 +61,7 @@ I report seguenti sono disponibili come parte del dashboard di Insights.
 
 **Filtri**per l'intervallo di date: è possibile trovare una selezione dell'intervallo di date nell'angolo superiore destro di ogni pagina. È possibile personalizzare l'output dei grafici della pagina Panoramica selezionando un intervallo di date basato sugli ultimi 3, 6 o 12 mesi oppure selezionando un intervallo di date personalizzato. La selezione dell'intervallo di date predefinito è di 12 mesi. 
 
-![Mappa introduttiva](images/pci/intro1.png)
+:::image type="content" source="images/pci/intro1.png" alt-text="Mappa introduttiva":::
 
 **Pulsante Commenti e suggerimenti**: ogni grafico/controllo in tutti i report di Insights è incorporato con un pulsante Commenti e suggerimenti che consente di fornire commenti sulle istanze in una funzionalità del report. 
 
@@ -74,7 +74,7 @@ I report seguenti sono disponibili come parte del dashboard di Insights.
 
 - I filtri selezionati verranno visualizzati nella parte superiore della pagina. 
 
-![filters](images/pci/filters.png)
+:::image type="content" source="images/pci/filters.png" alt-text="filtri":::
 
 ### <a name="filters-definitions"></a>Definizioni dei filtri:
 

@@ -11,12 +11,12 @@ ms.author: labrenne
 Keywords: integrità, integrità del servizio, problemi del servizio
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a6bba0be0bb8337d3da0536d10c4346b3f61894
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 54817a1288e4a4aebf75527907f0265e384ae839
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908223"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458377"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Verificare l'integrità dei servizi per un cliente che ha segnalato un potenziale problema o un'interruzione del servizio
 
@@ -31,21 +31,22 @@ ms.locfileid: "82908223"
 - Agente di supporto tecnico
 - Agente di vendita
 
-Una delle prime cose che è possibile fare quando un cliente segnala problemi con un servizio è controllare l'integrità del servizio.
+Una delle prime cose che è possibile fare quando un cliente segnala problemi con un servizio è controllare l'integrità del servizio. 
 
-**Controllare l'integrità del servizio**
+## <a name="check-service-health"></a>Controllare l'integrità del servizio
 
-1. Dal menu **centro partner** selezionare integrità del **servizio**.
+1. Selezionare il **cliente** che presenta il problema dall'elenco dei **clienti**.
 
-2. Verranno visualizzati tutti i servizi visualizzati, insieme alle indicazioni se l'integrità non è corretta.
+2. Selezionare **Gestione servizi** dal menu a sinistra. In questo elenco vengono elencati i servizi di cui è stato effettuato il provisioning per il cliente e l'integrità del servizio per ognuno. I partner possono fare clic sul servizio a cui sono interessati per ottenere altre informazioni. 
 
-Durante un'interruzione del servizio, Microsoft fornisce aggiornamenti periodici man mano che lavora per risolvere il problema. Il modo migliore per visualizzare questi aggiornamenti è il **Centro notifiche** nel centro per i partner. Queste notifiche vengono visualizzate anche nel portale di Microsoft Azure o nell'interfaccia di amministrazione di Office 365.
+>[!NOTE] 
+> I collegamenti per l'integrità dei servizi nelle pagine di **gestione dei servizi** porteranno il partner all'interfaccia di amministrazione di M365 o all'portale di Azure come **amministratore delegato**. Quando il partner raggiunge una destinazione, il partner può passare alle pagine di integrità del servizio in uno dei due portale per ulteriori dettagli sull'interruzione.
+ 
+Durante un'interruzione del servizio, Microsoft fornisce aggiornamenti periodici man mano che lavora per risolvere il problema. Queste notifiche vengono visualizzate anche nel centro di amministrazione di portale di Microsoft Azure o Microsoft 365.
 
-Se il problema persiste dopo la fine dell'interruzione del servizio, invia una richiesta di servizio. Vedi [Segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).
+Se il problema persiste dopo la fine dell'interruzione del servizio, inviare una richiesta di servizio. Vedi [Segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).
+
+Microsoft 365 e Microsoft Azure forniscono ogni [API che i partner possono utilizzare per recuperare l'integrità del servizio in tempo reale](get-automated-service-notifications-with-our-apis.md), le comunicazioni del centro messaggi e gli eventi di manutenzione pianificata.
 
  
-
- 
-
-
 

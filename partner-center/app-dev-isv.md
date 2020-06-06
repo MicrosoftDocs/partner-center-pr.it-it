@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: competenze, ISV, sviluppo di applicazioni
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: e7f0024bbd52e6f6a449f9d8965f25499bb4a7a0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907479"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452728"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Esenzione dei requisiti per gli esami monouso per la competenza di sviluppo delle applicazioni
 
@@ -45,7 +45,7 @@ Partner con una competenza per lo sviluppo di applicazioni raggiunta tramite il 
 1. Dal menu del Centro per i partner nel tuo dashboard seleziona **Competenze**.
 2. Nell'elenco delle competenze disponibili, lo sviluppo di applicazioni è contrassegnato come **completato**.
 
-![Da ISV a AppDev](images/appdev.png)
+:::image type="content" source="images/appdev.png" alt-text="Da ISV a AppDev":::
 
 3. Selezionare **sviluppo applicazione**. Si noterà che è stata fornita una sostituzione che esenta l'azienda dalla conformità ai requisiti dell'esame. 
 

@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: riferimenti, API webhook, eventi di modifica delle risorse
 ms.localizationpriority: medium
-ms.openlocfilehash: 4e1eb2e9bd8ceb4f8c4bf43684305504c8594e5c
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.openlocfilehash: 4eb8d03bb8230117457d2a0e27ef10382248008b
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145085"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452738"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Usare le API webhook per registrare gli eventi di modifica delle risorse
 
@@ -24,25 +24,26 @@ ms.locfileid: "84145085"
 - Amministratore delle segnalazioni
 - System Admin o System verbi per Dynamics 365 CRM o Salesforce CRM
 
-
 Le API webhook del centro per i partner consentono di effettuare la registrazione per gli eventi di modifica delle risorse. Questi eventi di modifica vengono inviati all'URL come post HTTP.
 
 >[!NOTE]
 >Questo argomento illustra le API webhook per Dynamics 365 CRM e Salesforce CRM.
 
+## <a name="configure-the-webhook"></a>Configurare il webhook
+
 1. Per registrare l'URL, selezionare il flusso di registrazione del webhook per il centro per i **partner (anteprima di insider Preview)** .
 
 2. Aggiungi connessioni per (a) Utente del centro per i partner con credenziali di amministratore di riferimento (b) Eventi del centro per i partner evidenziati di seguito
 
-![Trigger](images/cosellconnectors/triggerflow.png)
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Trigger":::
 
 3. Quando si effettuano questi aggiornamenti, viene visualizzato
 
-![Webhook](images/cosellconnectors/webhook1.png)
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
 
-4. Salvare le modifiche e selezionare **attiva**. 
+4. Salvare le modifiche e selezionare **attiva**.
 
-Per consentire ai webhook del centro per i partner di restare in ascolto delle modifiche agli eventi negli oggetti di riferimento di co-selling/indipendenti IP nel centro per i partner e nei sistemi CRM, seguire questa procedura:
+   Per consentire ai webhook del centro per i partner di restare in ascolto delle modifiche agli eventi negli oggetti di riferimento di co-selling/indipendenti IP nel centro per i partner e nei sistemi CRM, seguire questa procedura:
 
 5. Selezionare **centro per i partner per Dynamics 365 (insider Preview)** o **Partner Center a Salesforce (insider Preview)**.
 
@@ -50,25 +51,25 @@ Per consentire ai webhook del centro per i partner di restare in ascolto delle m
 
 7. Selezionare l'icona **copia** per copiare l'URL post HTTP specificato.
 
-![Copia l'URL](images/cosellconnectors/copyurl.png)
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Copia l'URL":::
 
 8. Selezionare ora "registrazione del webhook del centro per i partner (anteprima di Insider)" Power automatizzare il flusso e selezionare **Esegui**.
 
 9. Assicurarsi che la finestra "Esegui flusso" si apra nel riquadro di destra e fare clic su **continua**.
 
-10. Immettere i dettagli seguenti: 
+10. Immettere i dettagli seguenti:
 
-    a. **Endpoint trigger http**: URL copiato dal passaggio precedente
+    1. **Endpoint trigger http**: URL copiato dal passaggio precedente
 
-    b. **Eventi da registrare**: "riferimento-creato" e "riferimento-aggiornato"
+    2. **Eventi da registrare**: "riferimento-creato" e "riferimento-aggiornato"
 
-    c. Sovrascrivi gli **endpoint del trigger esistenti se presenti**: Sì (sovrascrive gli endpoint esistenti).
+    3. Sovrascrivi gli **endpoint del trigger esistenti se presenti**: Sì (sovrascrive gli endpoint esistenti).
 
-Il webhook può ora restare in ascolto delle modifiche (creazione e aggiornamento degli eventi). 
+    Il webhook può ora restare in ascolto delle modifiche (creazione e aggiornamento degli eventi).
 
 11. Selezionare **Esegui** , quindi fare clic su **fine.**
 
- ## <a name="customize-synchronization-steps"></a>Personalizzare i passaggi di sincronizzazione
+## <a name="customize-synchronization-steps"></a>Personalizzare i passaggi di sincronizzazione
 
 Quando i riferimenti di co-selling sono sincronizzati tra il centro per i partner e il sistema CRM, i campi sincronizzati nel PC del centro per i partner sono elencati qui.
 
@@ -76,41 +77,41 @@ Spesso i sistemi CRM sono altamente personalizzati. È possibile personalizzare 
 
 È possibile personalizzare più passaggi di ognuno dei flussi di Power automatizzati in base alle esigenze. Di seguito sono riportati alcuni esempi di personalizzazioni disponibili:
 
-1. Per personalizzare i campi per gli eventi di creazione o aggiornamento nel centro per i partner per la sincronizzazione dei riferimenti CRM: 
+1. Per personalizzare i campi per gli eventi di creazione o aggiornamento nel centro per i partner per la sincronizzazione dei riferimenti CRM:
 
-    a. Selezionare Centro per i partner per Dynamics 365 (insider Preview) o partner Center a Salesforce (insider Preview).
+   1. Selezionare Centro per i partner per Dynamics 365 (insider Preview) o partner Center a Salesforce (insider Preview).
 
-    b. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
+   2. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
 
-    c. Selezionare **(ambito) sincronizzare il lead o l'opportunità**.
+   3. Selezionare **(ambito) sincronizzare il lead o l'opportunità**.
 
 2. Per personalizzare i mapping dei campi CRM (in base alla guida per i mapping dei campi) per la creazione di eventi, selezionare **se è nuova opportunità condivisa, quindi**. Selezionare il sottopassaggio **se sì** , quindi espandere **creazione di una nuova opportunità in CRM**. È possibile modificare i mapping in questa sezione usando la guida al mapping dei campi.
 
-    d. Per personalizzare i mapping dei campi CRM (in base alla guida per i mapping dei campi) per gli eventi di aggiornamento, fare clic sul passaggio "(ambito) sincronizzare il lead o l'opportunità".
+   1. Per personalizzare i mapping dei campi CRM (in base alla guida per i mapping dei campi) per gli eventi di aggiornamento, fare clic sul passaggio "(ambito) sincronizzare il lead o l'opportunità".
 
-    e. Selezionare **se è un aggiornamento a un'opportunità, quindi**. Selezionare il sottopassaggio **se sì** , quindi espandere **if difference between the opportunity Objects in Partner Center and CRM, quindi**.  
+   2. Selezionare **se è un aggiornamento a un'opportunità, quindi**. Selezionare il sottopassaggio **se sì** , quindi espandere **if difference between the opportunity Objects in Partner Center and CRM, quindi**.  
 
-    f. Selezionare **se sì** seguito da **Aggiorna opportunità esistente**
-       
+   3. Selezionare **se sì** seguito da **Aggiorna opportunità esistente**
+
 3. Per personalizzare i campi per la sincronizzazione dei riferimenti da CRM a PC per gli eventi di aggiornamento:
 
-    a. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
+   1. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
 
-    b. Selezionare **(ambito) sincronizzare l'opportunità**.
+   2. Selezionare **(ambito) sincronizzare l'opportunità**.
 
-    c. Per personalizzare i mapping dei campi CRM (in base alla guida per i mapping dei campi) per gli eventi di aggiornamento, selezionare **se esiste una differenza tra gli oggetti lead nel centro per i partner e CRM, quindi**. 
+   3. Per personalizzare i mapping dei campi CRM (in base alla guida per i mapping dei campi) per gli eventi di aggiornamento, selezionare **se esiste una differenza tra gli oggetti lead nel centro per i partner e CRM, quindi**.
 
-    d. Selezionare il sottopassaggio **se sì** , quindi espandere il passaggio **aggiornare un riferimento con i dati di opportunità**.
+   4. Selezionare il sottopassaggio **se sì** , quindi espandere il passaggio **aggiornare un riferimento con i dati di opportunità**.
 
-È possibile modificare i mapping in questa sezione in base alla guida al mapping dei campi.
+   È possibile modificare i mapping in questa sezione in base alla guida al mapping dei campi.
 
 4. Per personalizzare i campi per la sincronizzazione dei riferimenti da CRM a PC per la creazione di eventi?
 
-   a. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
+   1. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
 
-   b. Selezionare **(ambito) sincronizzare i riferimenti.**
+   2. Selezionare **(ambito) sincronizzare i riferimenti.**
 
-   c. Per personalizzare i mapping dei campi CRM (in base alla guida ai mapping dei campi) per la creazione di eventi, selezionare **Crea riferimento Microsoft**. 
+   3. Per personalizzare i mapping dei campi CRM (in base alla guida ai mapping dei campi) per la creazione di eventi, selezionare **Crea riferimento Microsoft**.
 
 È possibile modificare i mapping in questa sezione in base alla guida al mapping dei campi.
 
@@ -142,43 +143,43 @@ I campi personalizzati seguenti devono far parte della sezione CRM:
 
 1. Sincronizzazione del riferimento quando il riferimento viene creato o aggiornato in CRM e sincronizzato nel centro per i partner:
 
-    a. Accedere al proprio ambiente di Dynamics 365 CRM con un utente che abbia visibilità nella sezione **opportunità** del CRM.
+   1. Accedere al proprio ambiente di Dynamics 365 CRM con un utente che abbia visibilità nella sezione **opportunità** del CRM.
 
-    b. Assicurarsi che la sezione seguente sia presente quando si crea una "nuova opportunità" nell'ambiente Dynamics 365
+   2. Assicurarsi che la sezione seguente sia presente quando si crea una "nuova opportunità" nell'ambiente Dynamics 365
 
-   ![Opportunità](images/cosellconnectors/opportunity.png)
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Opportunità":::
 
-    c. Per sincronizzare questa opportunità con Microsoft Partner Center, assicurarsi di impostare i campi seguenti nella visualizzazione scheda:
+   3. Per sincronizzare questa opportunità con Microsoft Partner Center, assicurarsi di impostare i campi seguenti nella visualizzazione scheda:
 
-    - "Sincronizza con il centro per i partner": Sì
+      - **Sincronizza con il centro per i partner**: Sì
 
-    - "Come può essere utile Microsoft?": selezionare una delle opzioni seguenti:
+      - **Come può essere utile Microsoft?**: selezionare una delle opzioni seguenti:
 
-    ![Selezioni della Guida](images/cosellconnectors/help.png)
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Selezioni della Guida":::
 
-    - Prodotti: ID soluzione del prodotto
+      - **Prodotti**: ID soluzione del prodotto
 
-    d. Dopo aver creato l'opportunità in Dynamics 365 con l'opzione **Sync with partner Center** impostata su **Sì**, attendere 10 minuti, accedere all'account del centro per i partner. I riferimenti verranno sincronizzati con Dynamics 365.
+   4. Dopo aver creato l'opportunità in Dynamics 365 con l'opzione **Sync with partner Center** impostata su **Sì**, attendere 10 minuti, accedere all'account del centro per i partner. I riferimenti verranno sincronizzati con Dynamics 365.
 
-    e. Di conseguenza, per un'opportunità con l'opzione "Sincronizza con il centro per i partner" impostata su "Sì", se si aggiorna l'opportunità in Dynamics 365 CRM, le modifiche verranno sincronizzate nell'account del centro per i partner.
+   5. Di conseguenza, per un'opportunità con l'opzione "Sincronizza con il centro per i partner" impostata su "Sì", se si aggiorna l'opportunità in Dynamics 365 CRM, le modifiche verranno sincronizzate nell'account del centro per i partner.
 
-    f. Le opportunità sincronizzate con il centro per i partner verranno identificate con ✔ icona in Dynamics 365.
+   6. Le opportunità sincronizzate con il centro per i partner verranno identificate con ✔ icona in Dynamics 365.
 
-2. Sincronizzazione del riferimento quando il riferimento viene creato o aggiornato nel centro per i partner Microsoft e sincronizzato nell'ambiente Dynamics 365: 
+2. Sincronizzazione del riferimento quando il riferimento viene creato o aggiornato nel centro per i partner Microsoft e sincronizzato nell'ambiente Dynamics 365:
 
-    a. Accedere al [Dashboard](https://partner.microsoft.com/dashboard/home)del centro per i partner.
+   1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard/home)del centro per i partner.
 
-    b. Selezionare **riferimenti** dal menu a sinistra.
+   2. Selezionare **riferimenti** dal menu a sinistra.
 
-    c. Per creare un nuovo riferimento di co-selling dal centro per i partner, fare clic sull'opzione "nuovo affare".
+   3. Per creare un nuovo riferimento di co-selling dal centro per i partner, fare clic sull'opzione "nuovo affare".
 
-    d. Accedere al proprio ambiente Dynamics 365 CRM. 
+   4. Accedere al proprio ambiente Dynamics 365 CRM.
 
-    e. Passare a **Open Opportunities**. Il riferimento creato nel centro per i partner Microsoft è ora sincronizzato in Dynamics 365 CRM.
+   5. Passare a **Open Opportunities**. Il riferimento creato nel centro per i partner Microsoft è ora sincronizzato in Dynamics 365 CRM.
 
-    f. Quando si seleziona un riferimento sincronizzato, i dettagli della visualizzazione della scheda vengono popolati.
+   6. Quando si seleziona un riferimento sincronizzato, i dettagli della visualizzazione della scheda vengono popolati.
 
- ### <a name="next-steps"></a>Passaggi successivi
+## <a name="next-steps"></a>Passaggi successivi
 
 - [Altre informazioni sulla piattaforma Microsoft Power automatizzate?](https://docs.microsoft.com/power-automate/)
 

@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, acquisto
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9b9ab4fd293dce26a738ab055a2ca31e8ce1884b
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362679"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458367"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Advisor: creare un'offerta di acquisto
 
@@ -59,4 +59,4 @@ Se il client richiede un numero diverso di licenze, inviargli una nuova offerta 
     - Consentire ai client di essere a conoscenza che saranno fatturati direttamente da Microsoft.
     - Comunicare ai client come contattare l'utente con domande sul servizio o sull'offerta.
     - Consentire ai client di verificare che controllano il numero di licenze utente acquistate e possono modificare il numero di licenze quando accettano l'offerta.
-    - Se si offre l'amministrazione delegata, spiegare cosa comporta e descrivere le responsabilità a proprio carico. Per ulteriori informazioni sull'amministrazione delegata, vedere l' [offerta amministrazione delegata](customers_revoke_admin_privileges.md).
+    - Se si offre l'amministrazione delegata, spiegare cosa comporta e descrivere le responsabilità a proprio carico. Per ulteriori informazioni sull'amministrazione delegata, vedere l' [offerta amministrazione delegata](customers-revoke-admin-privileges.md).

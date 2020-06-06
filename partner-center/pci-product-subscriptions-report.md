@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 21c90449ca6ee93f41455db41af596a65d4946bf
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795916"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452798"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Report sulle sottoscrizioni di prodotto disponibile nel dashboard di partner Center Insights
 
@@ -66,7 +66,7 @@ Il grafico micro presenta una tendenza mensile delle sottoscrizioni di varianza 
 
 - Sottoscrizioni per prodotti: suddivisione del numero di sottoscrizioni correnti per prodotti cloud.
 
-![Riepilogo report sottoscrizioni](images/pci/pci_sub_report_summary_1.png)
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Riepilogo report sottoscrizioni":::
 
 **Distribuzione geografica delle sottoscrizioni**
 
@@ -76,7 +76,7 @@ Il **numero di paesi/area geografica** presenta il totale dei paesi/aree geograf
 
 È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione della mappa. Premere l'opzione **Home** sulla mappa per ripristinare la visualizzazione originale. Passare il puntatore del mouse sulla mappa per visualizzare tutte le sottoscrizioni e le sottoscrizioni attive per paese. Entrambi i campi sulla griglia sono ordinabili.
 
-![sottoscrizioni per geografia](images/pci/pci_sub_report_sub_by_geography_2.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="sottoscrizioni per geografia":::
 
 **Aggiunta/varianza della sottoscrizione**
 
@@ -84,19 +84,19 @@ Questa vista presenta una tendenza delle sottoscrizioni. Questi sono suddivisi i
 
 L'istogramma a colonne in pila presenta una suddivisione delle sottoscrizioni nuove, esistenti e a varianza per il mese. È possibile ricompilare l'istogramma, suddiviso con elementi dello stack specifici. A tale scopo, selezionare gli elementi specifici nella legenda. È inoltre possibile utilizzare il dispositivo di scorrimento nella parte superiore del grafico per ingrandire un periodo specifico.
 
-![Aggiunta e varianza della sottoscrizione](images/pci/pci_sub_report_sub_adds_churns_3.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="Aggiunta e varianza della sottoscrizione":::
 
 **Distribuzione della sottoscrizione**
 
 Questa visualizzazione presenta una suddivisione delle sottoscrizioni correnti in base alle località MPN, ai segmenti dei clienti, al modello di prezzo di canale di vendita/Azure e al tipo di attribuzione, ad esempio DPOR, DAP e così via. Fare clic sulle rispettive schede per visualizzare la suddivisione in base a queste categorie. Per compilare il grafico a torta con una suddivisione delle categorie di elementi specifiche, selezionare le categorie di elementi nella legenda.
 
-![distribuzione della sottoscrizione](images/pci/pci_sub-report_distribution_4.png)
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribuzione della sottoscrizione":::
 
 **Distribuzione dello stato della sottoscrizione**
 
 Questa visualizzazione Mostra la distribuzione delle sottoscrizioni dei clienti correnti in base allo stato o allo stato della sottoscrizione. Sono inclusi gli Stati di sottoscrizione seguenti: **attivo**, **disabilitato**, sottoposta a **deprovisioning**, **aperto**, **InGracePeriod**, **chiuso**e **altro**.
 
-![distribuzione dello stato della sottoscrizione](images/pci/pci_sub_report_sub_states_5.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribuzione dello stato della sottoscrizione":::
 
 **Tendenza prodotti**
 
@@ -104,7 +104,7 @@ Questa vista mostra un grafico a barre e due grafici a torta. Il grafico a barre
 
 I due grafici a torta mostrano una suddivisione delle sottoscrizioni dei clienti correnti. Il primo grafico a torta suddivide le sottoscrizioni in base ai prodotti. Il secondo grafico a torta suddivide le sottoscrizioni in base a SKU o piani. Quando si seleziona un prodotto nel grafico a torta suddivisione **per prodotti** , nel grafico a torta adiacente viene visualizzata una suddivisione delle sottoscrizioni di tale prodotto per SKU.
 
-![tendenza prodotti](images/pci/pci_sub-report_prods_trend_6.png)
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="tendenza prodotti":::
 
 > [!NOTE]
  > Il numero di sottoscrizioni suddivise in base agli SKU potrebbe non corrispondere sempre al numero totale di sottoscrizioni per quel prodotto. Questo problema può verificarsi se un cliente ha acquistato più SKU con la stessa sottoscrizione al prodotto.

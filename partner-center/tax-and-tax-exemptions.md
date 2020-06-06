@@ -1,8 +1,8 @@
 ---
 title: Tasse locali e esenzioni fiscali
 ms.topic: article
-ms.date: 04/28/2020
-description: Informazioni sulle responsabilità fiscali per l'area geografica specifica e su come inviare esenzioni fiscali per le vendite CSP. Altre informazioni su come ottenere supporto per le domande fiscali
+ms.date: 06/05/2020
+description: Per i partner del programma CSP, informazioni sulle responsabilità fiscali per area, su come inviare esenzioni fiscali per le vendite CSP e su come ottenere supporto per le domande fiscali.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,15 +10,15 @@ author: LauraBrenner
 keywords: fiscali, esenzioni fiscali, IVA, rivenditore, fatturazione
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907799"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458297"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>Leggi i dettagli sulle imposte e sull'esenzione per area o paese
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leggi i dettagli sulle imposte e sull'esenzione fiscale per area o paese per i partner nel programma CSP
 
 Si applica a:
 
@@ -49,7 +49,7 @@ Negli stati membri dell'Unione europea i partner devono fornire il numero di par
 
 Microsoft non supporta il credito e la fatturazione. Prima di vendere le sottoscrizioni, è necessario [registrare il numero di ID IVA](organization-tax-info.md) nel centro per i partner.
 
-### <a name="south-africa"></a>Sud Africa
+### <a name="south-africa"></a>Sudafrica
 
 Microsoft ora applica l'IVA standard ai contenuti digitali e ai servizi acquistati dai partner in Sudafrica. Per escludere l'IVA dalle fatture e gestirla autonomamente, è necessario aggiornare il profilo di fatturazione del partner [inviando a Microsoft il numero di ID IVA](organization-tax-info.md).
 

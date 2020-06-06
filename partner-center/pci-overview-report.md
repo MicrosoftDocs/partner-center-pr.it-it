@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 75693ce31c98e694c0dbed31fde6c6510a83ec17
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795704"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452948"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Panoramica dei report del dashboard disponibili in Partner Center Insights
  
@@ -50,38 +50,38 @@ La percentuale di incremento delle sottoscrizioni attive nell'intervallo di date
 - Licenze distribuite: numero di tutte le licenze di prodotti cloud distribuite nelle sottoscrizioni dei clienti nel periodo di tempo selezionato.  
 La crescita o il rifiuto del% di queste licenze durante l'intervallo di date selezionato micro grafico presenta la tendenza di mese per mese di tali licenze assegnate nell'intervallo di date selezionato.
 
-![Riepilogo licenze](images/pci/summary.png)
+:::image type="content" source="images/pci/summary.png" alt-text="Riepilogo licenze":::
 
 **Distribuzione geografica dei clienti, delle sottoscrizioni e delle licenze** 
 
 Questa vista è una distribuzione geografica del totale di clienti, sottoscrizioni e licenze in base al paese del cliente. Fare clic sulle diverse schede per visualizzare ognuna di queste informazioni dettagliate sulla mappa. È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione della mappa. Ripristinare la visualizzazione originale premendo il pulsante Home sulla mappa. Facendo clic su ogni scheda (ad esempio clienti, sottoscrizioni) viene visualizzato il valore della metrica per ogni paese, nonché la percentuale del totale per il paese.  
 
-![Riepilogo geografico](images/pci/geosummary.png)
+:::image type="content" source="images/pci/geosummary.png" alt-text="Riepilogo geografico":::
 
 **Tendenza alla crescita dei clienti**
 
 La tendenza mensile del totale dei clienti viene conteggiata per l'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il numero totale di clienti per quel mese. 
 
-![tendenza alla crescita dei clienti](images/pci/customergrowth.png)
+:::image type="content" source="images/pci/customergrowth.png" alt-text="tendenza alla crescita dei clienti":::
 
 **Tendenza crescita sottoscrizioni**
 
 Indica la tendenza del numero di sottoscrizioni cliente per l'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il numero di sottoscrizioni del prodotto selezionato. Scorrere il dispositivo di scorrimento nella parte superiore del grafico per ingrandire il grafico in base a un periodo di tempo specifico. 
 
-![Tendenza crescita sottoscrizione](images/pci/subscriptiongrowth.png)
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendenza crescita sottoscrizione":::
 
 **Tendenza di crescita dei ricavi utilizzata da Azure**
 
 Tendenza mensile dei ricavi usati da Azure US $ attribuiti all'utente nell'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il totale dei ricavi usati da Azure US $ attribuiti all'utente durante il mese.   
 **Nota**: i ricavi usati da Azure saranno visibili solo agli utenti a cui è stato assegnato il ruolo di Visualizzatore report Executive. 
 
-![Consumo di Azure](images/pci/azureconsumed.png)
+:::image type="content" source="images/pci/azureconsumed.png" alt-text="Consumo di Azure":::
 
 **Tendenza alla crescita delle licenze**
  
 Tendenza delle licenze assegnate da tutti i clienti durante l'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il numero di licenze del prodotto selezionato. Scorrere il dispositivo di scorrimento nella parte superiore del grafico per ingrandire il grafico in base a un periodo di tempo specifico.  
 
-![licenze](images/pci/licensesgrowth.png)
+:::image type="content" source="images/pci/licensesgrowth.png" alt-text="licenze":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 

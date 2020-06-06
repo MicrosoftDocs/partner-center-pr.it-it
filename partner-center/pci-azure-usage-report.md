@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34a9c3fb187cce5e062d7289a46db1771c1c4d79
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795670"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453133"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Azure disponibile dal dashboard di partner Center Insights
 
@@ -55,7 +55,7 @@ Il grafico micro presenta una tendenza mensile di ACR US $ attribuita all'utente
 > [!NOTE]
  > I ricavi usati da Azure saranno visibili solo agli utenti a cui è stato assegnato il ruolo di Visualizzatore report Executive.
 
-![Riepilogo utilizzo di Azure](images/pci/pci_azure_usage_summary_1.png)
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Riepilogo utilizzo di Azure":::
 
 **Azure Usage by geography**
 
@@ -65,7 +65,7 @@ La tabella **numero di paesi/** aree geografiche presenta il totale dei paesi in
 
 È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione della mappa. Selezionare l'opzione **Home** sulla mappa per ripristinare la visualizzazione originale.
 
-![Azure Usage by geography](images/pci/pci_azure_usage_by_geography_2.png)
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Azure Usage by geography":::
 
 **Utilizzo di Azure**
 
@@ -73,7 +73,7 @@ Questa visualizzazione Mostra le tendenze del reddito di consumo di Azure o dell
 
 Il grafico a barre presenta la tendenza mensile dei ricavi/orari di utilizzo. Il grafico a linee presenta la tendenza di crescita rispetto al mese precedente per le categorie di contatori/livelli di servizio di Azure selezionate.
 
-![Utilizzo di Azure](images/pci/pci_azure_usage_utilization_3.png)
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Utilizzo di Azure":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 

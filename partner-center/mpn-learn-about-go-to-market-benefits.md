@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, vantaggi per l'appartenenza, appartenenza, offerte per il mercato, vai al mercato con Microsoft, vai al mercato, appartenenza a oro, appartenenza Silver
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 5b8e7e6a23d2e2913c039e73d7b5679114399a4c
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328202"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458427"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Esplora le offerte per il go-to-market con Microsoft
 
@@ -65,13 +65,13 @@ Ulteriori offerte di immissione sul mercato disponibili per i livelli di compete
 
 Per visualizzare le offerte per il go-to-Market:
 
-1. Accedi al [dashboard]( https://docs.microsoft.com/partner-center/) Centro per i partner.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 2. Scegliere **MPN**dal menu a sinistra. Eseguire quindi una delle operazioni seguenti:
 
     - Selezionare **Panoramica**. Scorrere fino alla sezione **collegamenti rapidi** e quindi selezionare la scheda **Vai al mercato** .
 
-      o
+      oppure
 
     - Selezionare i **vantaggi** seguiti da **Vai al mercato**.
 

@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6853bb033f7188d7d9ddfa818252fd3b41422e05
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795655"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452973"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Report sulle competenze disponibile dal dashboard di partner Center Insights
 
@@ -64,7 +64,7 @@ Suddivisione dei conteggi delle competenze avviate in base al livello di compete
 - A rischio (anno successivo): numero di competenze attualmente **attive** ma anche **a rischio** di non soddisfare i requisiti per l'anno successivo.
 Suddivisione delle competenze (in base al livello di competenza, ad esempio Silver/Gold, con i nomi delle competenze), a rischio di non qualificarsi per il prossimo anno.
 
-![Riepilogo delle competenze](images/pci/pci_competencies_summary_1.png)
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Riepilogo delle competenze":::
 
 **Analisi della metrica delle competenze**
 
@@ -75,7 +75,7 @@ Il report può essere trasformato tramite pivot in base ai due intervalli di dat
 1. TTM View: enumera le prestazioni del partner negli ultimi dodici mesi (TTM).
 2. Visualizzazione anno anniversario: consente di enumerare le prestazioni del partner dalla data di anniversario precedente alla data di anniversario successiva.
 
-![analisi della metrica delle competenze](images/pci/pci_competencies_comp_metrics_analysis_2.png)
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="analisi della metrica delle competenze":::
 
 > [!NOTE]
  > Non tutte le metriche vengono analizzate. Attualmente, le metriche associate all'apprendimento e alla certificazione non sono supportate nel report delle competenze. Anche le competenze per il cloud Business Applications (CBA) non sono attualmente supportate nell'analisi delle metriche per lo stato delle competenze **attive** .
@@ -84,7 +84,7 @@ Il report può essere trasformato tramite pivot in base ai due intervalli di dat
 
 Questa visualizzazione Mostra una tabella dettagliata di tutte le competenze finora raggiunte, con il livello di competenza e la fase di competenza.
 
-![cronologia delle competenze](images/pci/pci_competencies_comp_history_3.png)
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="cronologia delle competenze":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 

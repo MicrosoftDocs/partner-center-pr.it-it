@@ -8,16 +8,15 @@ description: Sincronizzare i riferimenti nel centro per i partner con Salesforce
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
-keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 128ae914ef76ba0e1431b0aa7319442b51677973
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.openlocfilehash: 2e2cbe4b6f5418cea4d992b9e68daa7e0ed3ec09
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145105"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453258"
 ---
-# <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-selling Connector per Salesforce CRM-Panoramica
+# <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connettore di co-selling per CRM Salesforce - Panoramica
 
 ### <a name="appropriate-roles"></a>Ruoli appropriati
 
@@ -27,7 +26,6 @@ ms.locfileid: "84145105"
 Il connettore di co-selling del centro partner consente ai venditori di co-selling con Microsoft all'interno dei sistemi CRM. Non dovranno essere sottoposti a training per usare il centro per i partner per gestire le offerte di co-selling. Utilizzando i connettori di co-selling, è possibile creare un nuovo riferimento di co-selling per coinvolgere un venditore Microsoft, ricevere riferimenti da Microsoft seller, accettare o rifiutare i riferimenti, modificare i dati dell'affare, ad esempio il valore dell'offerta e la data di chiusura.  È anche possibile ricevere eventuali aggiornamenti dai venditori Microsoft per le offerte di co-selling. È possibile eseguire tutte le attività di riferimento quando si lavora all'interno del CRM scelto piuttosto che nel centro per i partner. 
 
 La soluzione è basata sulla soluzione Microsoft Power automatizzate e usa le API del centro per i partner.
-
 
 ## <a name="before-you-install---pre-requisites"></a>Prima di installare-prerequisiti
 
@@ -44,31 +42,31 @@ La soluzione è basata sulla soluzione Microsoft Power automatizzate e usa le AP
 
 1. Passare a [Power automatici](https://flow.microsoft.com) e selezionare **ambienti** nell'angolo superiore destro. Vengono visualizzate le istanze di CRM disponibili.
 
-2. Selezionare l'istanza di CRM appropriata dall'elenco a discesa nell'angolo in alto a destra. 
+2. Selezionare l'istanza di CRM appropriata dall'elenco a discesa nell'angolo in alto a destra.
 
 3. Selezionare **soluzioni** sulla barra di spostamento a sinistra.
 
 4. Fare clic sul collegamento **Apri AppSource** nel menu in alto.
 
-![Apri AppSource](images/cosellconnectors/openappsource.png)
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Apri AppSource":::
 
 5. Cercare **connettori per i riferimenti del centro per i partner per Salesforce** nella schermata popup.  
 
-![Salesforce](images/salesforce/salesforce1.png)
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. Fai clic sul pulsante **Get it Now (Ottieni ora** ) e **continua**. 
+6. Fai clic sul pulsante **Get it Now (Ottieni ora** ) e **continua**.
 
 7. Verrà visualizzata la pagina in cui è possibile selezionare l'ambiente Salesforce CRM per installare l'applicazione.  Accettare i termini e le condizioni.
 
-![DISPONGONO disponibili](images/salesforce/available-crm.png)
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="DISPONGONO disponibili":::
 
-8. Si viene quindi reindirizzati alla pagina **Gestisci soluzioni** .  Passare a "centro per i partner" usando i pulsanti freccia nella parte inferiore della pagina. L' **installazione pianificata** verrà visualizzata accanto alla soluzione di riferimento del centro per i partner. L'installazione può richiedere 10-15 minuti. 
+8. Si viene quindi reindirizzati alla pagina **Gestisci soluzioni** .  Passare a "centro per i partner" usando i pulsanti freccia nella parte inferiore della pagina. L' **installazione pianificata** verrà visualizzata accanto alla soluzione di riferimento del centro per i partner. L'installazione può richiedere 10-15 minuti.
 
 9. Al termine dell'installazione, tornare a [Power automatizzate](https://flow.microsoft.com) e selezionare **soluzioni** dall'area di spostamento a sinistra. Si noti che la **sincronizzazione dei riferimenti del centro per i partner per Salesforce** è disponibile nell'elenco soluzioni.
 
 10. Selezionare **la sincronizzazione dei riferimenti del centro per i partner per Salesforce**. Sono disponibili i flussi e le entità seguenti per l'automazione dell'energia elettrica:
 
-![Flussi di Salesforce](images/salesforce/salesforce-flows.png)
+    :::image type="content" source="images/salesforce/salesforce-flows.png" alt-text="Flussi di Salesforce":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>Procedura consigliata: testare prima di iniziare
 
@@ -80,7 +78,7 @@ Prima di installare, configurare e personalizzare la soluzione Power automatizza
 
 - Testare la soluzione in un'istanza di staging/CRM.
 
-- In caso di esito positivo, importare come soluzione gestita nell'istanza di produzione. 
+- In caso di esito positivo, importare come soluzione gestita nell'istanza di produzione.
 
 ## <a name="configure-the-solution"></a>Configurare la soluzione
 
@@ -88,25 +86,25 @@ Prima di installare, configurare e personalizzare la soluzione Power automatizza
 
 2. Dall'elenco a discesa **ambienti** nell'angolo superiore destro selezionare l'istanza di CRM in cui è stata installata la soluzione Power automatizzate.
 
-3. Sarà necessario creare connessioni che associano i tre account utente: 
+3. Sarà necessario creare connessioni che associano i tre account utente:
 
-- Utente del centro per i partner con credenziali di amministratore per i riferimenti 
-- Eventi del Centro per i partner
-- L'amministratore di CRM con la funzionalità Power automatizza i flussi nella soluzione. 
+   - Utente del centro per i partner con credenziali di amministratore per i riferimenti
+   - Eventi del Centro per i partner
+   - L'amministratore di CRM con la funzionalità Power automatizza i flussi nella soluzione.
 
-    a. Selezionare **Connections (connessioni** ) dalla barra di spostamento a sinistra e selezionare la soluzione "Partner Center referrals" dall'elenco.
+   1. Selezionare **Connections (connessioni** ) dalla barra di spostamento a sinistra e selezionare la soluzione "Partner Center referrals" dall'elenco.
 
-    b. Creare una connessione facendo clic su **Crea una connessione**. 
+   2. Creare una connessione facendo clic su **Crea una connessione**.
 
-    ![Creare la connessione](images/cosellconnectors/createconnection.png)
+       :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="Creare la connessione":::
 
-    c. Cercare i riferimenti per il centro per i **partner (anteprima)** nella barra di ricerca nell'angolo superiore destro.
+   3. Cercare i riferimenti per il centro per i **partner (anteprima)** nella barra di ricerca nell'angolo superiore destro.
 
-    d. Creare una connessione per l'utente del centro per i partner con il ruolo delle credenziali di amministratore dei riferimenti.
+   4. Creare una connessione per l'utente del centro per i partner con il ruolo delle credenziali di amministratore dei riferimenti.
 
-    e. Successivamente, creare una connessione per gli eventi del centro partner per l'utente del centro per i partner con le credenziali di amministratore dei riferimenti.
-    
-    f. Creare una connessione per Common Data Service (ambiente corrente) per l'utente amministratore CRM.
+   5. Successivamente, creare una connessione per gli eventi del centro partner per l'utente del centro per i partner con le credenziali di amministratore dei riferimenti.
+
+   6. Creare una connessione per Common Data Service (ambiente corrente) per l'utente amministratore CRM.
 
 4. Per associare i flussi di automazione dell'alimentazione con le connessioni, modificare ognuno dei flussi di automazione dell'alimentazione per connettersi a Common Data Service e ai riferimenti del centro per i partner. Salvare le modifiche.
 
@@ -120,15 +118,15 @@ Le API webhook del centro per i partner consentono di effettuare la registrazion
 
 2. Aggiungi connessioni per (a) Utente del centro per i partner con credenziali di amministratore di riferimento (b) Eventi del centro per i partner evidenziati di seguito
 
-![Trigger](images/cosellconnectors/triggerflow.png)
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Trigger":::
 
 3. Quando si effettuano questi aggiornamenti, viene visualizzato
 
-![Webhook](images/cosellconnectors/webhook1.png)
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
 
-4. Salvare le modifiche e selezionare **attiva**. 
+4. Salvare le modifiche e selezionare **attiva**.
 
-Per consentire ai webhook del centro per i partner di restare in ascolto delle modifiche agli eventi, seguire questa procedura:
+   Per consentire ai webhook del centro per i partner di restare in ascolto delle modifiche agli eventi, seguire questa procedura:
 
 5. Selezionare **centro per i partner per Salesforce CRM (insider Preview)**.
 
@@ -136,19 +134,19 @@ Per consentire ai webhook del centro per i partner di restare in ascolto delle m
 
 7. Selezionare l'icona **copia** per copiare l'URL post HTTP specificato.
 
-![Copia l'URL](images/salesforce/copy-url.png)
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Copia l'URL":::
 
 8. Selezionare ora "registrazione del webhook del centro per i partner (anteprima di Insider)" Power automatizzare il flusso e selezionare **Esegui**.
 
 9. Assicurarsi che la finestra "Esegui flusso" si apra nel riquadro di destra e fare clic su **continua**.
 
-10. Immettere i dettagli seguenti: 
+10. Immettere i dettagli seguenti:
 
-    a. **Endpoint trigger http**: URL copiato dal passaggio precedente
+    1. **Endpoint trigger http**: URL copiato dal passaggio precedente
 
-    b. **Eventi da registrare**: "riferimento-creato" e "riferimento-aggiornato"
+    2. **Eventi da registrare**: "riferimento-creato" e "riferimento-aggiornato"
 
-    c. Sovrascrivi gli **endpoint del trigger esistenti se presenti**: Sì (sovrascrive gli endpoint esistenti). 
+    3. Sovrascrivi gli **endpoint del trigger esistenti se presenti**: Sì (sovrascrive gli endpoint esistenti).
 
 11. Selezionare **Esegui** , quindi fare clic su **fine.**
 
@@ -162,41 +160,41 @@ Spesso i sistemi CRM sono altamente personalizzati. È possibile personalizzare 
 
 È possibile personalizzare più passaggi di ognuno dei flussi di Power automatizzati in base alle esigenze. Di seguito sono riportati alcuni esempi di personalizzazioni disponibili:
 
-1. Per personalizzare i campi per gli eventi di creazione o aggiornamento nel centro per i partner per la sincronizzazione dei riferimenti CRM: 
+1. Per personalizzare i campi per gli eventi di creazione o aggiornamento nel centro per i partner per la sincronizzazione dei riferimenti CRM:
 
-    a. Selezionare Centro per i partner per Salesforce CRM (insider Preview).
+   1. Selezionare Centro per i partner per Salesforce CRM (insider Preview).
 
-    b. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
+   2. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
 
-    c. Selezionare **(ambito) sincronizzare il lead o l'opportunità**.
+   3. Selezionare **(ambito) sincronizzare il lead o l'opportunità**.
 
 2. Per personalizzare i mapping dei campi CRM per creare eventi, selezionare **se è nuova opportunità condivisa, quindi**. Selezionare il sottopassaggio **se sì** , quindi espandere **creazione di una nuova opportunità in CRM**. È possibile modificare i mapping in questa sezione usando la guida al mapping dei campi.
 
-    d. Per personalizzare i mapping dei campi CRM per gli eventi di aggiornamento, fare clic sul passaggio "(ambito) sincronizzare il lead o l'opportunità".
+   1. Per personalizzare i mapping dei campi CRM per gli eventi di aggiornamento, fare clic sul passaggio "(ambito) sincronizzare il lead o l'opportunità".
 
-    e. Selezionare **se è un aggiornamento a un'opportunità, quindi**. Selezionare il sottopassaggio **se sì** , quindi espandere **if difference between the opportunity Objects in Partner Center and CRM, quindi**.  
+   2. Selezionare **se è un aggiornamento a un'opportunità, quindi**. Selezionare il sottopassaggio **se sì** , quindi espandere **if difference between the opportunity Objects in Partner Center and CRM, quindi**.  
 
-    f. Selezionare **se sì** seguito da **Aggiorna opportunità esistente**
-       
+   3. Selezionare **se sì** seguito da **Aggiorna opportunità esistente**
+
 3. Per personalizzare i campi per la sincronizzazione dei riferimenti da CRM a PC per gli eventi di aggiornamento:
 
-    a. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
+   1. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
 
-    b. Selezionare **(ambito) sincronizzare l'opportunità**.
+   2. Selezionare **(ambito) sincronizzare l'opportunità**.
 
-    c. Per personalizzare i mapping dei campi CRM (in base alla guida per i mapping dei campi) per gli eventi di aggiornamento, selezionare **se esiste una differenza tra gli oggetti lead nel centro per i partner e CRM, quindi**. 
+   3. Per personalizzare i mapping dei campi CRM (in base alla guida per i mapping dei campi) per gli eventi di aggiornamento, selezionare **se esiste una differenza tra gli oggetti lead nel centro per i partner e CRM, quindi**.
 
-    d. Selezionare il sottopassaggio **se sì** , quindi espandere il passaggio **aggiornare un riferimento con i dati di opportunità**.
+   4. Selezionare il sottopassaggio **se sì** , quindi espandere il passaggio **aggiornare un riferimento con i dati di opportunità**.
 
-È possibile modificare i mapping in questa sezione in base alla guida al mapping dei campi.
+   È possibile modificare i mapping in questa sezione in base alla guida al mapping dei campi.
 
 4. Per personalizzare i campi per la sincronizzazione dei riferimenti da CRM a PC per la creazione di eventi?
 
-   a. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
+   1. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
 
-   b. Selezionare **(ambito) sincronizzare i riferimenti.**
+   2. Selezionare **(ambito) sincronizzare i riferimenti.**
 
-   c. Per personalizzare i mapping dei campi CRM (in base alla guida ai mapping dei campi) per la creazione di eventi, selezionare **Crea riferimento Microsoft**. 
+   3. Per personalizzare i mapping dei campi CRM (in base alla guida ai mapping dei campi) per la creazione di eventi, selezionare **Crea riferimento Microsoft**.
 
 È possibile modificare i mapping in questa sezione in base alla guida al mapping dei campi.
 
@@ -209,64 +207,57 @@ L'utente amministratore di Salesforce CRM dovrà creare una sezione CRM separata
 
 I campi personalizzati seguenti devono far parte della sezione CRM:
 
-• **Sincronizzare con il centro**per i partner: se sincronizzare l'opportunità con il centro per i partner Microsoft
+- **Sincronizzare con il centro**per i partner: se sincronizzare l'opportunità con il centro per i partner Microsoft
 
-• **Identificatore del riferimento**: campo dell'identificatore di sola lettura per il riferimento al centro per i partner Microsoft
+- **Identificatore del riferimento**: campo dell'identificatore di sola lettura per il riferimento al centro per i partner Microsoft
 
-• **Collegamento di riferimento**: un collegamento di sola lettura al riferimento nel centro per i partner Microsoft
+- **Collegamento di riferimento**: un collegamento di sola lettura al riferimento nel centro per i partner Microsoft
 
-• **Come può essere utile Microsoft?** Guida richiesta da Microsoft per il riferimento
+- **Come può essere utile Microsoft?** Guida richiesta da Microsoft per il riferimento
 
-• **Prodotti**: elenco dei prodotti associati a questa opportunità
+- **Prodotti**: elenco dei prodotti associati a questa opportunità
 
-• **Audit**: audit trail di sola lettura per la sincronizzazione con il riferimento al centro per i partner Microsoft
+- **Controllo**: audit trail di sola lettura per la sincronizzazione con il riferimento al centro per i partner Microsoft
 
 ### <a name="set-up-fields-and-relationships"></a>Configurare campi e relazioni
 
-1. Accedere all'account di Salesforce e passare a **opportunità**. 
+1. Accedere all'account di Salesforce e passare a **opportunità**.
 
 2. Fare clic sulle opzioni **installazione** e **modifica oggetto** per aggiungere i campi necessari.
 
-
 3. Selezionare i **campi & le relazioni** dal percorso di spostamento a sinistra
 
-![Campi](images/salesforce/fields1.png)
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
 
-4. Aggiungere i campi seguenti nella tabella "Fields & Relationship":
+4. Aggiungere i campi seguenti nei **campi &** tabella delle relazioni:
 
-|**Etichetta campo**   |**Nome campo**|**Tipo di dati**|**Indicizzata**|
-|---------------------|:-------------------|:--------------|:----------------|
-|Sincronizza con il centro per i partner|Sync-with-partner-Center-c|CheckBox (impostazione predefinita deselezionata)||
-|Prodotti|Prodotti-c|testo (255)||
-|Referral | Referral_Identifier__c|Testo (100) (ID esterno)|sì|
-|Collegamento di riferimento| Referral_Link__c_|URL (255)||
-|Audit| Audit__c|Area di testo lungo (100.000) (riga visibile 4)||
-|Come può essere utile Microsoft?|How_can_Microsoft_help__c|Picklist|
+   |**Etichetta campo**   |**Nome campo**|**Tipo di dati**|**Indicizzata**|
+   |---------------------|:-------------------|:--------------|:----------------|
+   |Audit|  Audit__c|Area di testo lungo (100.000) (riga visibile 4)||
+   |Come può essere utile Microsoft?|Ow_can_Microsoft_help__c H|Picklist|
+   |Prodotti|Prodotti-c|testo (255)||
+   |Referral |  Referral_Identi fier__c|Testo (100) (ID esterno)|sì|
+   |Collegamento di riferimento|   Referral_Link__c_|URL (255)||
+   |Sincronizzare con il cen ter del partner|Sync-with-partner-Center-c|CheckBox (impostazione predefinita deselezionata)||
 
-* Valori elenco a discesa:
+   * Valori elenco a discesa:
 
-• Proposta di valore specifico del carico di lavoro
+   - Proposta di valore specifico del carico di lavoro
+   - Architettura tecnica del cliente
+   - Modello di prova o demo
+   - Virgolette o licenze
+   - Successo del cliente dopo vendite
+   - Generale o altro
 
-• Architettura tecnica del cliente
+5. I campi vengono creati in **campi & relazioni**
 
-• Modello di prova o demo
+   :::image type="content" source="images/salesforce/fields2.png" alt-text="Campi creati":::
 
-• Virgolette o licenze
+6. Nel layout opportunity creare una sezione separata con i campi elencati sopra.
 
-• Esito positivo post-vendite cliente
+   - Questa sezione dovrebbe essere disponibile per i venditori nel layout opportunità
 
-• Generale o altro
-
-5. i campi vengono creati in "Fields & relationships"
-
-![Campi creati](images/salesforce/fields2.png)
-
-6. Nel layout opportunity creare una sezione separata con i campi elencati sopra. 
-
-    • Questa sezione dovrebbe essere disponibile per i venditori nel layout opportunità
-
-
-![Layout di campi del centro per i partner](images/salesforce/pc-fields-layout.png)
+   :::image type="content" source="images/salesforce/pc-fields-layout.png" alt-text="Layout di campi del centro per i partner":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Sincronizzazione del riferimento bidirezionale end-to-end
 
@@ -292,54 +283,43 @@ I campi personalizzati seguenti devono far parte della sezione CRM:
 
 - **Audit**: audit trail di sola lettura per la sincronizzazione con i riferimenti del centro per i partner
 
-
 ### <a name="scenarios"></a>SCENARI
 
 1. Sincronizzazione del riferimento quando il riferimento viene creato o aggiornato in CRM e sincronizzato nel centro per i partner:
 
-    a. Accedere all'ambiente Salesforce CRM con l'utente che ha visibilità nella sezione **opportunità** del CRM.
+   1. Accedere all'ambiente Salesforce CRM con l'utente che ha visibilità nella sezione **opportunità** del CRM.
 
-    b. Assicurarsi che la sezione seguente sia presente quando si crea una "nuova opportunità" nell'ambiente Salesforce CRM
+   2. Assicurarsi che la sezione seguente sia presente quando si crea una "nuova opportunità" nell'ambiente Salesforce CRM
 
-    ![Ambiente Salesforce](images/salesforce/salesforce-scenario-1.png)
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Ambiente Salesforce":::
 
-   
+   3. Per sincronizzare questa opportunità con Microsoft Partner Center, assicurarsi di impostare i campi seguenti nella visualizzazione scheda:
 
-    c. Per sincronizzare questa opportunità con Microsoft Partner Center, assicurarsi di impostare i campi seguenti nella visualizzazione scheda:
+       - "Sincronizza con il centro per i partner": Sì
+       - "Come può essere utile Microsoft?": selezionare una delle opzioni seguenti:
+       - Prodotti: ID soluzione del prodotto
 
-    - "Sincronizza con il centro per i partner": Sì
+   4. Dopo aver impostato l'opzione opportunity **Sync with partner Center** su **Sì**, attendere 10 minuti, accedere all'account del centro per i partner. I riferimenti verranno sincronizzati con Salesforce CRM.
 
-    - "Come può essere utile Microsoft?": selezionare una delle opzioni seguenti:
+   5. Quando l'opzione "Sincronizza con il centro per i partner" è impostata su "Sì", se si aggiorna l'opportunità in Salesforce CRM, le modifiche verranno sincronizzate con l'account del centro per i partner.
 
-   
+   6. Le opportunità che vengono sincronizzate correttamente con partner Center verranno identificate con ✔ icona in Salesforce CRM.
 
-    - Prodotti: ID soluzione del prodotto
+2. Sincronizzazione del riferimento quando il riferimento viene creato o aggiornato nel centro per i partner Microsoft e sincronizzato nell'ambiente Salesforce CRM:
 
-    d. Dopo aver impostato l'opzione opportunity **Sync with partner Center** su **Sì**, attendere 10 minuti, accedere all'account del centro per i partner. I riferimenti verranno sincronizzati con Salesforce CRM.
+    1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard/home)del centro per i partner.
 
-    e. Quando l'opzione "Sincronizza con il centro per i partner" è impostata su "Sì", se si aggiorna l'opportunità in Salesforce CRM, le modifiche verranno sincronizzate con l'account del centro per i partner.
+    2. Selezionare **riferimenti** dal menu a sinistra.
 
-    f. Le opportunità che vengono sincronizzate correttamente con partner Center verranno identificate con ✔ icona in Salesforce CRM.
+    3. Per creare un nuovo riferimento di co-selling dal centro per i partner, fare clic sull'opzione "nuovo affare".
 
-2. Sincronizzazione del riferimento quando il riferimento viene creato o aggiornato nel centro per i partner Microsoft e sincronizzato nell'ambiente Salesforce CRM: 
+    4. Accedere all'ambiente Salesforce CRM.
 
-    a. Accedere al [Dashboard](https://partner.microsoft.com/dashboard/home)del centro per i partner.
+    5. Passare a **Open Opportunities**. Il riferimento creato nel centro per i partner Microsoft è ora sincronizzato in Salesforce CRM.
 
-    b. Selezionare **riferimenti** dal menu a sinistra.
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Schermata di opportunità di Salesforce":::
 
-    c. Per creare un nuovo riferimento di co-selling dal centro per i partner, fare clic sull'opzione "nuovo affare".
-
-    d. Accedere all'ambiente Salesforce CRM. 
-
-    e. Passare a **Open Opportunities**. Il riferimento creato nel centro per i partner Microsoft è ora sincronizzato in Salesforce CRM.
-
-    ![Schermata di opportunità di Salesforce](images/salesforce/salesforce-casino-e.png)
-
-    f. Quando si seleziona un riferimento sincronizzato, i dettagli della visualizzazione della scheda vengono popolati.
-
-
-
-
+    6. Quando si seleziona un riferimento sincronizzato, i dettagli della visualizzazione della scheda vengono popolati.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

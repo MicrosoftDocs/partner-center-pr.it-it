@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, versione di valutazione
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2f8faddce7755a34687f0403b8ba27ea734d8018
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9726fc9316f33cf35f91a7db60a64689bccc0617
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362619"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458357"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Advisor: creare e inviare un invito alla versione di valutazione per i client per provare a usare Office 365
 
@@ -37,7 +37,7 @@ Se si è autorizzati a offrire l'amministrazione delegata, è possibile aggiunge
 
     - **Località di utilizzo**: scegliere il percorso in cui il client utilizzerà i servizi.
     - **Sottoscrizioni di valutazione**: l'elenco delle sottoscrizioni di valutazione che è possibile scegliere è determinato dalla località di utilizzo del paese o della regione del client.
-    - **Amministrazione delegata**: questa opzione è disponibile solo per i partner certificati per offrire l'amministrazione delegata. Scegliere questa opzione se si desidera offrire l'amministrazione delegata del client. In tal caso, il client può accettare l'invito alla versione di valutazione con o senza l'accettazione dell'amministrazione delegata. Per ulteriori informazioni sull'amministrazione delegata, vedere l' [offerta amministrazione delegata](customers_revoke_admin_privileges.md).
+    - **Amministrazione delegata**: questa opzione è disponibile solo per i partner certificati per offrire l'amministrazione delegata. Scegliere questa opzione se si desidera offrire l'amministrazione delegata del client. In tal caso, il client può accettare l'invito alla versione di valutazione con o senza l'accettazione dell'amministrazione delegata. Per ulteriori informazioni sull'amministrazione delegata, vedere l' [offerta amministrazione delegata](customers-revoke-admin-privileges.md).
 
 3. Fare clic su **Avanti**.
 

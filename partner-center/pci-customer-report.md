@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e25a91a977372234c31aed9f285bf53ac8dafae3
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 3c46b77a8c2147ae62b0609b167753a591f89dd4
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795717"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452998"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Report del dashboard dei clienti dal centro per i partner Insights
 
@@ -42,7 +42,7 @@ La sezione Riepilogo presenta una visualizzazione snapshot dei diversi indicator
 - Rifiuta il% dei clienti durante l'intervallo di date selezionato 
 - Micro Chart presenta la tendenza mensile per i clienti nell'intervallo di date selezionato
 
-![clienti per prodotto](images/pci/customerproduct.png)
+:::image type="content" source="images/pci/customerproduct.png" alt-text="clienti per prodotto":::
 
 **Clienti attivi**:
 
@@ -65,13 +65,13 @@ Clienti aggiunti:
 
 Il numero dei clienti correnti, dei clienti attivi correnti e dei clienti appena aggiunti durante l'intervallo di date selezionato viene mappato geograficamente usando il paese del cliente. Le percentuali visualizzate sotto la metrica indicano il contributo percentuale di tale paese del totale per la metrica. È possibile passare il mouse sulla mappa per visualizzare i clienti totali, attivi e nuovi per quel paese. È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione della mappa. Ripristinare la visualizzazione originale selezionando il pulsante **Home** sulla mappa. Tutte le colonne della griglia sono ordinabili.  
 
-![clienti per geografia](images/pci/customersgeo.png)
+:::image type="content" source="images/pci/customersgeo.png" alt-text="clienti per geografia":::
 
 **Aggiunta e varianza del cliente**
 
 Tendenza dei clienti con suddivisione in nuovi, esistenti e in varianza per l'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il conteggio dei clienti. I clienti con varianza sono rappresentati sulla scala negativa dell'asse Y. L'istogramma a colonne in pila presenta il disfacimento dei clienti nuovi, esistenti e con varianza per il mese. È possibile ricompilare l'istogramma con elementi dello stack specifici selezionando quelli nella legenda. È possibile utilizzare il dispositivo di scorrimento nella parte superiore del grafico per eseguire lo zoom avanti su un periodo specifico. 
 
-![clienti persi](images/pci/customerslost.png)
+:::image type="content" source="images/pci/customerslost.png" alt-text="clienti persi":::
 
 **Distribuzione dei clienti**
 
@@ -81,20 +81,20 @@ Suddivisione dei clienti correnti in base alle località MPN, ai segmenti di cli
 
 Suddivisione dei clienti correnti per i prodotti e gli SKU/piani. Selezionare un prodotto nel grafico a torta a rottura prodotto per visualizzare la suddivisione in base agli SKU e ai piani nel grafico accanto.
 
-![clienti per prodotto](images/pci/customerbyprod.png)
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="clienti per prodotto":::
 
 **Tendenza della distribuzione dei clienti** 
 
 Tendenza mensile della distribuzione dei clienti durante l'intervallo di date selezionato per mercati, segmenti, percorsi MPN e prodotti acquistati. Fare clic sulle rispettive schede nel grafico per visualizzare la tendenza in base a queste categorie. L'asse X rappresenta i mesi per l'intervallo di date selezionato e l'asse Y ha il numero di clienti per la categoria selezionata (selezione scheda). È possibile passare il mouse sulle colonne del grafico per visualizzare il disfacimento dei valori di ogni stack. È possibile utilizzare il dispositivo di scorrimento nella parte superiore del grafico per eseguire lo zoom avanti su un periodo specifico.   
 
-![distribuzione dei clienti](images/pci/customerdistri.png)
+:::image type="content" source="images/pci/customerdistri.png" alt-text="distribuzione dei clienti":::
 
 **Clienti attivi**
 
 Grafico di tendenza mensile che confronta i clienti attivi e totali per l'intervallo di date selezionato. Le colonne rappresentano i conteggi dei clienti attivi ogni mese e la riga rappresenta i clienti totali ogni mese. 
 
-![clienti attivi](images/pci/activecustomer.png)
+:::image type="content" source="images/pci/activecustomer.png" alt-text="clienti attivi":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Per altri report, vedere [Partner Center Insights](partner-center-insights.md).
+Per altri report, vedere [Partner Center Insights](partner-center-insights.md).

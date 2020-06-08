@@ -1,19 +1,20 @@
 ---
 title: Passaggio da Partner Membership Center
 ms.topic: article
-ms.date: 05/19/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Leggi le informazioni utili e le domande frequenti prima di far passare la tua azienda da Partner Membership Center al Centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 0c1fc9530a978e7202d7a0d58a574546b10c91e9
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a6e188bbd86b066152f90be90d92abb2539f38b3
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795839"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328312"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Eseguire la preparazione per il passaggio da Partner Membership Center (PMC) al Centro per i partner
 

@@ -28,7 +28,7 @@ ms.locfileid: "84452898"
 
 Il report licenze prodotto presenta l'analisi delle licenze per i prodotti cloud basati su Seat, ad esempio O365, Dynamics, M365, Power BI e così via. Le analisi presentate in questo articolo sono associate all'utilizzo delle licenze vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report licenze prodotto.
 
-- Summary
+- Riepilogo
 - Distribuzione geografica delle licenze
 - Aggiunta licenza
 - Distribuzione delle licenze per località partner, canale di vendita, SKU, tipo di connessione partner, segmento

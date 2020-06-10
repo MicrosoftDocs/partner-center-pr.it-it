@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89e552e87f24caa43e0875afa2b7bea6e870c406
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: ce28103892771dc7c27fe081f2d70740b66bfa19
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467501"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633791"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Usa le promozioni per attirare i nuovi clienti e passare il risparmio su di essi
 
@@ -30,7 +30,6 @@ ms.locfileid: "84467501"
 - Amministratore fatturazione
 - Agente di vendita
 
-<!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
 Occasionalmente Microsoft offre promozioni per le sottoscrizioni basate sulle licenze per consentire di offrire sconti ai clienti ed espandere la propria attività. 
 
@@ -46,12 +45,12 @@ Esaminare le informazioni importanti sulle promozioni:
 
 - Gli annullamenti delle sottoscrizioni con prezzi promozionali seguono lo stesso processo e lo stesso criterio degli abbonamenti a prezzi regolari.
 
-## <a name="see-available-promotions"></a>Vedi le promozioni disponibili
+## <a name="see-available-promotions"></a>Vedere le promozioni disponibili
 
-È possibile vedere quali promozioni sono idonee, se presenti, nella pagina **Promozioni** . Selezionare **Promozioni** dal menu **centro** per i partner per visualizzare un elenco di promozioni correnti, con lo sconto, il tipo di promozione e le date di inizio e di fine per la sottoscrizione. Se non è disponibile alcuna promozione, verrà visualizzato un messaggio che indica questa operazione. 
+Le eventuali promozioni per cui si è idonei sono visualizzate nella pagina **Promozioni**. Selezionare **Promozioni** dal menu **centro** per i partner per visualizzare un elenco di promozioni correnti, con lo sconto, il tipo di promozione e le date di inizio e di fine per la sottoscrizione. Se non è disponibile alcuna promozione, verrà visualizzato un apposito messaggio. 
 
 > [!NOTE]  
-> È anche possibile visualizzare le promozioni quando si effettua un acquisto. Quando si seleziona una sottoscrizione, i prezzi promozionali vengono visualizzati nella pagina **Verifica** .
+> È anche possibile visualizzare le promozioni quando si effettua un acquisto. Quando si seleziona una sottoscrizione, i prezzi promozionali vengono visualizzati nella pagina **Verifica**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Acquistare sottoscrizioni a prezzi promozionali
 

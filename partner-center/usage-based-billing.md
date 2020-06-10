@@ -1,20 +1,21 @@
 ---
-title: Fatturazione basata sull'utilizzo | Centro per i partner
+title: Fatturazione in base all'uso
 ms.topic: article
-ms.date: 11/21/2019
-Description: Informazioni sulla fatturazione basata sull'utilizzo nel centro per i partner, in cui vengono addebitate le tariffe di utilizzo mensili.
+ms.date: 06/05/2020
+Description: Altre informazioni sulla fatturazione basata sull'utilizzo sono disponibili nel centro per i partner, in cui vengono addebitate le tariffe di utilizzo mensili.
 author: LauraBrenner
 ms.author: labrenne
 keywords: fatturazione, utilizzo in base all'utilizzo
 ms.localizationpriority: medium
-ms.openlocfilehash: d7828dc09037dd5fdd33f0650e324aef8ec294d9
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4e3b7c3d9e31203ff56c191957b60772e04feec9
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797669"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603870"
 ---
-# <a name="usage-based-billing"></a>Fatturazione in base all'uso
+# <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>Informazioni sulla fatturazione basata sull'utilizzo per il consumo mensile con pagamento in base al consumo dei servizi
 
 - Centro per i partner
 - Partner aderenti al programma CSP
@@ -27,7 +28,7 @@ Alcuni prodotti e servizi Microsoft usano un modello di fatturazione con pagamen
 
 Solo la **fatturazione mensile** è disponibile per i prodotti basati sull'utilizzo. Per altre informazioni sulla fatturazione mensile, vedere [differenze di fatturazione mensili e annuali](billing-annual-monthly.md).
 
-Le sottoscrizioni basate sull'utilizzo vengono fatturate mensilmente, in modo arretrato, sulla **Data di ricorrenza della sottoscrizione**. Se, ad esempio, la data di ricorrenza della sottoscrizione è la 15, verrà addebitato il 15 gennaio per il periodo di servizio del 15 dicembre al 14 gennaio. L'addebito verrà addebitato il 15 febbraio per il periodo di servizio del 15 gennaio al 14 febbraio. 
+Le sottoscrizioni basate sull'utilizzo vengono fatturate mensilmente, in modo arretrato, sulla **Data di ricorrenza della sottoscrizione**. Se, ad esempio, la data di ricorrenza della sottoscrizione è la 15, verrà addebitato il 15 gennaio per il periodo di servizio del 15 dicembre a 14 gennaio. L'addebito verrà addebitato il 15 febbraio per il periodo di servizio del 15 gennaio del 14 febbraio.
 
 ## <a name="usage-charges"></a>Addebiti per utilizzo
 

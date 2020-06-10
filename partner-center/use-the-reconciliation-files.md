@@ -1,26 +1,27 @@
 ---
-title: Usare i file di riconciliazione | Centro per i partner
+title: Usare i file di riconciliazione
 ms.topic: article
-ms.date: 11/21/2019
-description: Usare i file di riconciliazione per ottenere informazioni dettagliate sulle visualizzazioni di elementi lineari degli addebiti per i centri partner.
+ms.date: 06/08/2020
+description: Informazioni sui file di riconciliazione nel centro per i partner e su come interpretare le visualizzazioni dettagliate degli articoli di linea degli addebiti per un determinato ciclo di fatturazione.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a53a0f3d37183c67d5d1d44472192ed15f6ed62e
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114963"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603800"
 ---
-# <a name="use-your-reconciliation-files"></a>Usare i file di riconciliazione
+# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Informazioni su come leggere le voci nei file di riconciliazione del centro per i partner
 
 Si applica a:
 
-- Partner Center
+- Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
 È possibile scaricare i file di riconciliazione dal centro per i partner per una visualizzazione dettagliata di ogni addebito in un ciclo di fatturazione. I dettagli dell'elemento di riga includono gli addebiti per le sottoscrizioni di ogni cliente ed eventi dettagliati, ad esempio l'aggiunta a metà del periodo di postazioni a una sottoscrizione.
@@ -55,7 +56,7 @@ Per correggere eventuali problemi di formattazione nei file di riconciliazione, 
 4. Nella procedura guidata selezionare **tipo di file delimitato**. Quindi selezionare **Avanti**.
 5. Nel campo **delimitatori** selezionare **virgola**. Se la **scheda** è già selezionata, è possibile lasciare selezionata questa opzione. Quindi selezionare **Avanti**.
 6. Nel campo **formato dati colonna** selezionare **Data: MDY**. Quindi selezionare **Avanti**.
-7. Nel campo **formato dati colonna** selezionare **testo** per tutte le colonne Amount. Selezionare quindi **fine**.
+7. Nel campo **formato dati colonna** selezionare **testo** per tutte le colonne Amount. Quindi selezionare **Fine**.
 
 ## <a name="download-reconciliation-files-programmatically"></a>Scarica i file di riconciliazione a livello di codice
 
@@ -87,9 +88,9 @@ Se il partner CSP rimuove un **ID MPN rivenditore**, questo valore viene imposta
 
 Per visualizzare o aggiornare l' **ID MPN del rivenditore**:
 
-1. Accedi al Centro per i partner.
+1. Accedere al Centro per i partner.
 2. Nel menu del Centro per i partner scegli **Clienti**.
-3. Scegli il cliente nell'elenco.
+3. Scegliere il cliente dall'elenco.
 4. Nel menu cliente selezionare **sottoscrizioni**.
 5. Scegliere la sottoscrizione dall'elenco.
-6. Seleziona **Aggiorna** per modificare il valore **Rivenditore (ID MPN)** .
+6. Seleziona **Aggiorna** per modificare il valore **Rivenditore (ID MPN)**.

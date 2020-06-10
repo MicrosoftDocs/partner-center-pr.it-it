@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abb04f21a50cbbef83418a8e2fec480a0020c443
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 183e72e3f3f715a54bf3227bbf19c49033fb57e8
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467541"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633821"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prezzi e offerte per Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e altro ancora
 
@@ -31,11 +31,18 @@ ms.locfileid: "84467541"
 - Agente di vendita
 - Amministratore fatturazione
 
-Per visualizzare i programmi e le offerte del provider di soluzioni cloud più recenti, dal portale per i partner, vai a **vendere > prezzi e offerte**. Sono disponibili elenchi prezzi distinti per i servizi basati su licenza, tra cui Office 365, Microsoft Dynamics CRM ed Enterprise Mobility Suite, e per i servizi basati sull'utilizzo che includono Azure.
+Per visualizzare i programmi e le offerte del provider di soluzioni cloud più recenti, dal portale per i partner, vai a **vendere > prezzi e offerte**. Sono disponibili elenchi prezzi distinti per i diversi tipi di prodotti disponibili. Nella pagina **prezzi e offerte** sono disponibili gli elenchi prezzi seguenti:
 
-L'elenco delle offerte include le diverse famiglie di prodotti che possono essere acquistate tramite il centro per i partner. Attualmente includono Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM e Microsoft Azure. Questo elenco continuerà ad espandersi Man mano che nuovi prodotti diventano disponibili.
+- I **servizi basati su licenze** includono informazioni sui prezzi per Office 365, Enterprise Mobility e Security E3, oltre a Dynamics 365. La sezione relativa ai prezzi basata sulle licenze include i prezzi attuali e di anteprima, nonché la matrice dell'elenco di offerte. Gli elenchi prezzi includono il prezzo di listino e i prezzi di vendita al dettaglio (ERP) per le offerte in tutte le valute supportate. La matrice dell'elenco di offerte include la disponibilità del mercato e altre informazioni importanti sulle offerte. Questi file vengono aggiornati il primo giorno di ogni mese.
+- I **servizi basati sull'utilizzo** includono informazioni sui prezzi per Microsoft Azure e Visual Studio. Puoi anche usare il [calcolatore dei prezzi per Servizi Azure in CSP](https://azure.microsoft.com/pricing/calculator/). Il download basato sull'utilizzo include entrambi gli elenchi prezzi CSP per tutte le valute supportate, oltre ai file dei prezzi dei servizi condivisi in ERP. Questi file vengono aggiornati il primo giorno di ogni mese.
+- **Microsoft Azure istanze riservate** include informazioni sui prezzi per tutte le valute supportate per le istanze riservate di Azure. Il download dei prezzi include anche i prezzi dei servizi condivisi in ERP. Questi file vengono aggiornati il primo giorno di ogni mese.
+- Gli **abbonamenti software** includono i prezzi per le sottoscrizioni software basate su termini per tutte le valute supportate. Il file dei prezzi include tutte le valute supportate con List Price e MSRP. Questi file vengono aggiornati il primo giorno di ogni mese.
+- I **prezzi dei piani di Azure** includono informazioni sui prezzi per i servizi di utilizzo del piano Azure, oltre ai prezzi di prenotazione di piani di Azure I prezzi sono prezzi diretti o ERP e possono essere recuperati per qualsiasi mercato supportato. I dati in questi file vengono aggiornati ogni giorno.
+- I **tassi di cambio stranieri** vengono usati per calcolare la fatturazione addebitata tra USD e la valuta locale dei partner. Le tariffe vengono aggiornate il primo giorno di ogni mese e si mantengono true per il mese specificato, vengono rese disponibili le tariffe. Questi file vengono aggiornati il primo giorno di ogni mese.
+- **Marketplace** include i prezzi per le soluzioni ISV dal Marketplace commerciale di Microsoft. I prezzi vengono recuperati per mercato. I dati in questi file vengono aggiornati ogni giorno.
 
-All'interno di ognuna di queste famiglie di prodotti sono disponibili diversi SKU e bundle di prodotti da vendere a seconda dell'azienda. È sempre possibile accedere ai dettagli più recenti su questi prodotti usando la matrice di offerte del rivenditore cloud, disponibile nella pagina prezzi e offerte.
+> [!Note] 
+> Solo i partner CSP con funzionalità di transazione possono visualizzare e scaricare gli elenchi dei prezzi. I rivenditori indiretti devono [contattare il provider CSP]( https://partner.microsoft.com/en-us/cloud-solution-provider/find-a-provider) per richiedere dettagli sui prezzi
 
 ## <a name="price-list-preview-and-change-frequency"></a>Anteprima dell'elenco prezzi e frequenza di modifica 
 
@@ -151,3 +158,24 @@ Di seguito è riportato un riepilogo del funzionamento di queste offerte:
 - La frequenza di fatturazione sull'offerta è indicata come annuale, ma il partner viene fatturato prima della prima fattura dopo l'acquisizione della sottoscrizione
 - Le sottoscrizioni per le offerte a1 72 mesi sono bloccate dopo l'acquisto e non possono essere annullate e non è possibile aggiungere i conteggi delle licenze alla sottoscrizione dopo l'acquisto iniziale
 - Per i partner che devono annullare è necessario creare un ticket di supporto con il motivo dell'annullamento e l'ID sottoscrizione per cui necessitano di assistenza.
+
+## <a name="estimated-retail-price-erp"></a>Prezzo al dettaglio stimato (ERP)
+
+La maggior parte degli elenchi prezzi include un prezzo di listino, il prezzo del partner fatturato e il prezzo al dettaglio stimato. Il prezzo di vendita al dettaglio (ERP) stimato è noto anche come prezzo di vendita al dettaglio suggerito da Microsoft. Questi due valori, ERP e MSRP, rappresentano il valore del mercato stimato dei prodotti se un cliente doveva acquistare i prodotti direttamente da Microsoft. Di seguito sono riportati i dettagli relativi a ERP/MSRP per ogni tipo di prodotto o servizio. 
+
+
+|**Prodotto o servizio**        |**Dettagli sull'elenco prezzi ERP e MSRP**      |
+|:-----------   |:-----------   |
+|Prodotto o servizio  |Dettagli sull'elenco prezzi ERP e MSRP  |
+|Servizi basati su licenza  |Elencato come ERP negli elenchi prezzi basati sulle licenze  |
+|Servizi basati sull'utilizzo di Azure  |Si trova negli elenchi prezzi equivalenti di servizi condivisi  |
+|Prenotazioni di Azure  |Si trova negli elenchi prezzi equivalenti di servizi condivisi  |
+|Basato sull'utilizzo di piani di Azure  |I prezzi sono al dettaglio non scontati negli elenchi prezzi  |
+|Prenotazioni di piani di Azure  |Informazioni di riferimento sugli elenchi prezzi dei servizi condivisi di Azure  |
+|Sottoscrizioni del software  |Elencato come MSRP negli elenchi prezzi degli abbonamenti software  |
+|Marketplace  |Elencato come MSRP negli elenchi prezzi del Marketplace  |
+
+Altre risorse: 
+
+- [Prezzi di piano di Azure](azure-plan-price-list.md)
+- [Panoramica dei prezzi di Azure](https://azure.microsoft.com/pricing/)

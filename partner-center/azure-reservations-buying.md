@@ -1,7 +1,7 @@
 ---
 title: Acquistare Microsoft Azure prenotazioni per i clienti
 ms.topic: article
-ms.date: 05/06/2020
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Scopri come acquistare o acquistare prenotazioni di Azure per conto dei tuoi clienti nel centro per i partner.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure, prenotazioni, gestione, fatturazione, acquisto
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5664770e1e0f87f2a1a86fd1127bbb54a8a253fb
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908299"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603720"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare Microsoft Azure prenotazioni per conto dei clienti nel centro per i partner
 
@@ -35,7 +35,7 @@ ms.locfileid: "82908299"
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
-Esaminare le informazioni importanti riportate di seguito prima di acquistare prenotazioni di Azure per conto dei clienti. Si vuole che i clienti possano acquistare le proprie prenotazioni di Azure da una sottoscrizione di Azure precedente acquistata per loro? Vedere [concedere ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure] [Give-Customers-permission. MD # Give-Customers-permission-to-buy-your own-Azure-reserved].
+Esaminare le informazioni importanti riportate di seguito prima di acquistare prenotazioni di Azure per conto dei clienti. Si vuole che i clienti possano acquistare le proprie prenotazioni di Azure da una sottoscrizione di Azure precedente acquistata per loro? Vedere [concedere ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations).
 
 - Se e quando il cliente firma il nuovo contratto per i clienti Microsoft (vedere [confermare l'accettazione del contratto del cliente Microsoft](confirm-customer-agreement.md)), è necessario acquistare prenotazioni di Azure nel piano Azure. Per altre informazioni, vedere [acquistare un piano Azure](purchase-azure-plan.md).
 

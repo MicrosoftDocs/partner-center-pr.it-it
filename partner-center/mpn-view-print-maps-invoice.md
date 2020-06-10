@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, Invoice, MAPS, Tax esentad, VAT, VAT ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795946"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633811"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Fatture e imposte in Microsoft Partner Network
 
@@ -62,3 +62,8 @@ Per eseguire questa procedura, è necessario essere un amministratore globale o 
 
 3.  Immettere l'ID IVA per la società, selezionare **Aggiungi**e quindi fare clic su **Avanti**. 
 
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Panoramica della fatturazione del Centro per i partner](billing-basics.md)
+
+- [Ottenere un credito per le imposte di ritenuta](withholding-tax-credit-form.md)

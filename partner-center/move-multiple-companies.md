@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453188"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603780"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Trasferimento di più aziende al centro per i partner da partner Membership Center (PMC)
 
@@ -76,6 +76,7 @@ Verificare le informazioni sull'azienda e modificare se necessario.  Questi dett
 
 I dettagli sono basati sulle informazioni in PMC e verranno verificati per garantire la legittimità dell'azienda.
 
+
 :::image type="content" source="images/migration/review.png" alt-text="Esaminare i dettagli":::
 
 Se l'account in corso di trasferimento si trova nello stesso paese o area geografica dell'account esistente, è possibile decidere se si intende usare tale indirizzo o aggiungerne un altro. Se si decide di usare un indirizzo diverso, l'indirizzo verrà verificato. Se si intende usare lo stesso indirizzo, verrà usato l'indirizzo esistente e il contatto principale.
@@ -88,7 +89,7 @@ Quando si visualizza il profilo, vengono visualizzate le informazioni per l'Azie
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Passaggio dal Partner Membership Center al Centro per i partner](move-pmc-pc-map.md)
+- [Passaggio da PMC a Centro per i partner](move-pmc-pc-map.md)
 - [Creare account utente](create-user-accounts-and-set-permissions.md)
 - [Assegnare autorizzazioni e ruoli utente](permissions-overview.md)
 - [Gestire i programmi dell'iscrizione come membro](renew-mpn-offers.md)

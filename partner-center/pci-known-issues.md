@@ -11,16 +11,16 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 057a9f7dbf178b0cd91d171df002bb67a80ff935
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: b8f9a068cd4d2807f1fcf2202487e652738a8fbf
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795637"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679338"
 ---
 # <a name="known-issues-with-partner-center-insights"></a>Problemi noti relativi a partner Center Insights
 
-Questo si riferisce a eventuali problemi noti relativi alla visualizzazione o al rendering dei report associati a PCI (Partner Center Insights).
+Questo si riferisce a eventuali problemi noti relativi alla visualizzazione o al rendering di report associati a informazioni dettagliate.
 
 - Non esiste un modo supportato per abilitare i report di Insights per i tenant solo CSP. Solo i tenant con accesso al programma MPN possono accedere a questi report.
 - I report presentano problemi di rendering con Internet Explorer. Funzionano bene con Microsoft Edge e con altri browser.

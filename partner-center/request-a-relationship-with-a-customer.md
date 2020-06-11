@@ -9,12 +9,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 44f959f2bc0fff5c354dd7f6bf55e1afccf2398e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467371"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679408"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Come richiedere una relazione del rivenditore da un cliente nel centro per i partner
 
@@ -26,11 +26,12 @@ Se si desidera gestire il servizio o la sottoscrizione di un cliente per loro co
 
 Se si desidera stabilire una relazione del rivenditore con un cliente e gestire solo le sottoscrizioni di Azure di cui si esegue il provisioning, non è necessario ottenere le autorizzazioni di amministratore.
 
-Si noti che l'opzione per non richiedere autorizzazioni non è disponibile per i partner che operano in Microsoft Cloud per il governo degli Stati Uniti o Microsoft Cloud Germania. Per altre informazioni, vedere [i clienti che delegano i privilegi di amministrazione ai partner](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
+>[!NOTE] 
+>L'opzione per non richiedere autorizzazioni non è disponibile per i partner che operano in Microsoft Cloud per il governo degli Stati Uniti o per Microsoft Cloud Germania. Per altre informazioni, vedere [i clienti che delegano i privilegi di amministrazione ai partner](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire con l'utente una relazione come rivenditore
 
-Si noti che è possibile richiedere una relazione del rivenditore con un cliente all'interno del proprio paese o della stessa area.
+È possibile richiedere una relazione del rivenditore con un cliente all'interno del proprio paese o della stessa area.
 
 1. Selezionare **Clienti** dal menu **Centro per i partner** e selezionare **Richiedi una relazione come rivenditore**.
 

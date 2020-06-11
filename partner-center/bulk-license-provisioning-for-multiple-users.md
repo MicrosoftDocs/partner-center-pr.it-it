@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: assegnare una licenza, revocare la licenza, assegnarla a più utenti,
 ms.localizationpriority: medium
-ms.openlocfilehash: 7018b1f4ae56ee267a39239c97bf7355381e6802
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798569"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679098"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Assegnare o revocare licenze a più utenti
 
@@ -76,7 +76,8 @@ Il centro per i partner tiene traccia e Mostra tutti i diritti delle licenze di 
 
 8. Selezionare **Salva**. Il centro per i partner apre una pagina di conferma **aggiornata delle licenze** in cui sono elencati gli utenti e le nuove licenze.
 
-**Nota**  alcuni prodotti Microsoft potrebbero non essere disponibili in determinate località. Altri prodotti dipendono da altri prodotti o servizi o non possono essere assegnati insieme allo stesso utente. Dopo aver salvato, la pagina di conferma elenca i risultati per tutti gli utenti per le assegnazioni di licenze corrette e gli eventuali errori d assegnazione.
+>[!NOTE]
+>Alcuni prodotti Microsoft potrebbero non essere disponibili in determinate località. Altri prodotti dipendono da altri prodotti o servizi o non possono essere assegnati insieme allo stesso utente. Dopo aver salvato, la pagina di conferma elenca i risultati per tutti gli utenti per le assegnazioni di licenze corrette e gli eventuali errori d assegnazione.
 
 
 <a href="" id="revoking-licenses"></a>
@@ -98,6 +99,6 @@ Il centro per i partner tiene traccia e Mostra tutti i diritti delle licenze di 
 
 7. Selezionare **Salva**.
 
-## <a name="related-topics"></a>Argomenti correlati
+## <a name="next-steps"></a>Passaggi successivi
 
 [Assegnare licenze a un utente](assign-licenses-to-users.md)

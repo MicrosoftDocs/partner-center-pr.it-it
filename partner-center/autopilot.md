@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, distribuzione Zero-Touch, OOBE, schermate di accesso, predefinite
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a3067b674b7784df34fba3de9cfaa5b44349b8c4
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908380"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679188"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usare i profili di Windows Autopilot nei nuovi dispositivi per personalizzare l'esperienza predefinita di un cliente
 
@@ -175,7 +175,8 @@ Il file CSV avrà un aspetto simile al seguente:
 
 > **{serialNumber},,, Microsoft Corporation, Surface laptop**
 
-Si noti che "nome produttore" e "modello dispositivo" fanno distinzione tra maiuscole e minuscole.
+>[!NOTE]
+> "Nome produttore" e "modello di dispositivo" fanno distinzione tra maiuscole e minuscole.
 
 Se non si conosce il valore da inserire per il nome del produttore e il modello di dispositivo, è possibile eseguire questa operazione sul dispositivo per raccogliere i valori corretti:
 

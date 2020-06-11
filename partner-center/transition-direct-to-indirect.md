@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatturazione diretta, transizione, rivenditore indiretto
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3f87014e76ea32bf15d3e0147d5e40c3a5ebefc
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458407"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679448"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto
 
@@ -34,7 +34,7 @@ Sarà possibile eseguire la registrazione al programma indirect Reseller usando 
 
 2. Accedere al centro per i partner come amministratore globale per il tenant di fatturazione diretta che si sta passando al rivenditore indiretto.
 
-   :::image type="content" source="images/direct/direct1.png" alt-text="Overview":::
+   :::image type="content" source="images/direct/direct1.png" alt-text="Panoramica":::
 
 3. Esaminare i dettagli del partner nel modulo di registrazione.
 
@@ -225,15 +225,13 @@ In base al modello CSP indiretto, i rivenditori indiretti non hanno relazioni di
 
 ### <a name="pre-requisites"></a>Prerequisiti
 
-Prima di usare la funzionalità, tenere presente quanto segue:
-
 - Questa funzionalità è disponibile solo per i partner di transizione che hanno completato la registrazione indiretta dei rivenditori usando i tenant di Direct Bill partner esistenti
 
 - Prima di trasferire le sottoscrizioni associate a un determinato cliente, il partner di transizione deve spostare il cliente a un provider indiretto.
 
-- Il cliente ha [accettato il contratto per i clienti Microsoft attraverso il provider indiretto](#microsoft-customer-agreement-acceptance).
+- Il cliente deve avere [accettato il contratto per i clienti Microsoft attraverso il provider indiretto](#microsoft-customer-agreement-acceptance).
 
-### <a name="how-to-transition-to-indirect-reseller-status"></a>Procedura per la transizione allo stato rivenditore indiretto
+### <a name="how-to-transition-to-indirect-reseller-status"></a>Come passare allo stato rivenditore indiretto
 
 La funzionalità è un processo in quattro passaggi, in cui:
 
@@ -322,7 +320,7 @@ Per esaminare e accettare una richiesta di trasferimento come provider indiretto
 
 Il partner di transizione deve eseguire le operazioni seguenti:
 
-1. Accedere al centro per i partner come **agente di amministrazione** o **agente di vendita**.
+1. Accedere al centro per i partner come **agente di amministrazione** o agente di **vendita**.
 
 2. Nella pagina **clienti** selezionare il cliente desiderato e fare clic sull'icona **collegamenti rapidi** per espandere la visualizzazione riepilogativa del cliente.
 

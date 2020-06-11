@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 590ec680a1fdc80177a955417942b340b94eb96b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458397"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679398"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>Testare le nuove funzionalità del centro per i partner e contribuire a definire il futuro del centro per i partner
 
@@ -26,7 +26,7 @@ ms.locfileid: "84458397"
 
 Stiamo rilasciando continuamente nuove funzionalità e funzionalità per il centro per i partner e desideriamo ricevere commenti e suggerimenti. 
 
-Ti invitiamo a provare le nuove funzionalità prima che vengano rilasciate alla community globale del Centro per i partner e a condividere le tue opinioni al riguardo. Visita la [pagina degli annunci del Centro per i partner](announcements/index.md) per informazioni sulla funzionalità future, così da iniziare a pianificare come usarle per incrementare le tue attività. In un dato momento, potrebbero essere disponibili diverse funzionalità da valutare.
+Ti invitiamo a provare le nuove funzionalità prima che vengano rilasciate alla community globale del Centro per i partner e a condividere le tue opinioni al riguardo. Visita la [pagina degli annunci del Centro per i partner](announcements/index.md) per informazioni sulla funzionalità future, così da iniziare a pianificare come usarle per incrementare le tue attività. Potrebbero essere disponibili diverse funzionalità da test drive in un determinato momento.
 
 ### <a name="test-drive-a-feature"></a>Valutare una nuova funzionalità
 
@@ -58,4 +58,4 @@ Ti invitiamo a condividere idee e pensieri su una versione di anteprima specific
 - Richiedere supporto se si verificano problemi con una funzionalità di anteprima. Per creare una richiesta di supporto, seleziona **Richieste di supporto > Richieste Centro per i Partner** dal menu **Centro per i partner** e quindi seleziona **Nuova richiesta** nella pagina **Richieste Centro per i partner**.
 
 
--- Il team del Centro per i partner
+

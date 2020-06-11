@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34a9c3fb187cce5e062d7289a46db1771c1c4d79
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d8400cbfb5d466ea4da1c8a7abd9d8e2e49df184
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453133"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679378"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Azure disponibile dal dashboard di partner Center Insights
 
@@ -33,7 +33,7 @@ Il report sull'utilizzo di Azure presenta le metriche correlate alle sottoscrizi
 - Utilizzo di Azure
 
  > [!NOTE]
- > Questo report è disponibile dal dashboard di partner Center Insights (PCI). Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
+ > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
 
 **Riepilogo**
 
@@ -50,7 +50,8 @@ Il grafico micro presenta una tendenza di mese per mese del numero di sottoscriz
 - Ricavi usati da Azure: totale ricavi usati da Azure (US $) attribuiti all'utente nell'intervallo di date selezionato.
 Incremento percentuale o calo di ACR US $ con attributi durante l'intervallo di date selezionato. 
 
-Il grafico micro presenta una tendenza mensile di ACR US $ attribuita all'utente nel periodo di tempo selezionato Nota: 
+Il grafico micro presenta una tendenza mensile di ACR US $ attribuita all'utente nel periodo di tempo selezionato
+
 
 > [!NOTE]
  > I ricavi usati da Azure saranno visibili solo agli utenti a cui è stato assegnato il ruolo di Visualizzatore report Executive.

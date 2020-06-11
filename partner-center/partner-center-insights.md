@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: c9a80519ab418c0b0c52bbf7e0224e439b4f672e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 5d3bfd235b621b7af0c86bd5bdf152cc50a2d4ba
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467531"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679298"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: dashboard che Mostra come opera un partner commerciale Microsoft
 
@@ -37,7 +37,7 @@ Sono disponibili due nuovi ruoli nel centro per i partner appositamente progetta
 L'amministratore globale o l'amministratore dell'account può assegnare gli utenti a questi ruoli e viene assegnato per l'intera azienda o per un percorso MPN specifico.  
 
 >[!Note] 
->Gli utenti che erano amministratori MPN a partire dal 2 dicembre 2019 sono stati aggiunti automaticamente al ruolo Visualizzatore report a livello aziendale. Sono in grado di accedere ai report come visualizzatore di report senza alcuna azione esplicita richiesta dall'amministratore globale o dall'amministratore dell'account. Se necessario, l'amministratore globale o l'amministratore dell'account può eseguire l'override di queste assegnazioni. 
+>Gli utenti che erano amministratori MPN a partire dal 20 gennaio 2020 sono stati aggiunti automaticamente al ruolo Visualizzatore report a livello aziendale. Sono in grado di accedere ai report come visualizzatore di report senza alcuna azione esplicita richiesta dall'amministratore globale o dall'amministratore dell'account. Se necessario, l'amministratore globale o l'amministratore dell'account può eseguire l'override di queste assegnazioni. 
 
 ## <a name="reports-available"></a>Report disponibili
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: fatturazione diretta, limitazione
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 41db00bab2f421ca3ab0a8f828e8a72b26087ebd
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467231"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679418"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Funzionalità di fatturazione diretta limitate e requisiti necessari per i partner di fatturazione diretta CSP  
 
@@ -58,7 +58,10 @@ Le sottoscrizioni di fatturazione diretta esistenti non sono interessate. Rimang
 
 - Modificare il numero di postazioni esistenti per le sottoscrizioni basate su postazione
 
-- Modificare il numero di postazioni dei componenti aggiuntivi esistenti in una sottoscrizione. Nota: non è possibile aggiungere nuovi componenti aggiuntivi alle sottoscrizioni esistenti perché vengono considerati come nuovi acquisti.
+- Modificare il numero di postazioni dei componenti aggiuntivi esistenti in una sottoscrizione. 
+ 
+    >[!Note] 
+    >Non è possibile aggiungere nuovi componenti aggiuntivi alle sottoscrizioni esistenti perché vengono trattati come nuovi acquisti.
 
 - Distribuisci nuove risorse di Azure e Gestisci le risorse di Azure esistenti in sottoscrizioni di Azure esistenti. Sono incluse le risorse disponibili tramite Azure Marketplace e le sottoscrizioni di Visual Studio.
 
@@ -68,7 +71,7 @@ Oltre ai nuovi acquisti, non è possibile accedere alle seguenti funzionalità d
 
 - Non è possibile generare un invito al cliente che richiede la relazione diretta del rivenditore. L'opzione **Richiedi relazione rivenditore** nella pagina clienti del centro per **i** partner non sarà disponibile.
 
-    >[!Note]
+    >[!NOTE]
     >Nell'ambito della transizione da Direct Bill partner a Reseller indirect, se è già stato registrato il tenant Direct Bill partner come rivenditore indiretto, è possibile generare un invito al cliente che richiede la relazione indiretta del rivenditore.
 
 - Non è possibile creare un nuovo tenant sandbox. Ogni tenant Direct Bill partner può creare un tenant sandbox ai fini dell'integrazione dell'API Direct Bill. Se non è stato creato in precedenza, non è possibile eseguire questa operazione dopo aver limitato la funzionalità di fatturazione partner.  

@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: agente della guida, supporto tecnico, assegnazione contatto supporto tecnico designato
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 39e0a4390d37ba9cc39b872f059b818faad28051
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907475"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678998"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Assegnare un rivenditore come contatto per il supporto tecnico per i clienti
 
@@ -47,14 +47,12 @@ Questa funzionalità può essere utilizzata per scenari con più [partner](multi
 
 3.  In **contatto del supporto designato**selezionare il rivenditore del prodotto designato e quindi fare clic su **Invia**. 
 
-    Note: 
-    
-    *  Per le nuove sottoscrizioni, per impostazione predefinita il contatto del supporto designato è il provider indiretto. È anche possibile modificare questo valore in un rivenditore indiretto con privilegi amministrativi di delega.
-    
-    *  Se il nome del rivenditore non viene visualizzato nell'elenco dei contatti di supporto disponibili, aggiungerli in [richiedendo una relazione](request-a-relationship-with-a-customer.md). Una volta stabilita la relazione, queste devono essere visualizzate nell'elenco.  
+   >[!NOTE]  
+ >Per le nuove sottoscrizioni, per impostazione predefinita il contatto del supporto designato è il provider indiretto. È inoltre possibile modificare questo valore in un rivenditore indiretto con privilegi amministrativi delegati.    
+>Se il nome del rivenditore non viene visualizzato nell'elenco dei contatti di supporto disponibili, aggiungerli in [richiedendo una relazione](request-a-relationship-with-a-customer.md). Una volta stabilita la relazione, queste devono essere visualizzate nell'elenco.  
 
 4.  Verificare che le modifiche siano corrette, quindi selezionare **Chiudi**.
 
-## <a name="related-topics"></a>Argomenti correlati
+## <a name="next-steps"></a>Passaggi successivi
 
 [Rimuovere una relazione con un cliente](remove-a-relationship.md)

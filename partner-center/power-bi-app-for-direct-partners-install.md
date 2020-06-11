@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8a8558bad11f641737507f4d76405e9825df516
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795869"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679308"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installare e visualizzare in anteprima l'app Analisi del Centro per i Partner per Microsoft Power BI
 
@@ -32,17 +32,19 @@ ms.locfileid: "83795869"
 ## <a name="before-you-begin"></a>Prima di iniziare
 
 Selezionare l'applicazione più pertinente per l'azienda dal seguente elenco di app Power BI disponibili:
-- [Partner diretto](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+- [Provider diretto](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
-- [Partner indiretto](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+- [Provider indiretto](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
-- [Rivenditore indiretto](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+- [Rivenditore indiretto](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
 Prima di installare la versione di anteprima dell'app partner Center Analytics, assicurarsi di soddisfare i requisiti seguenti.
 
 - Si sceglie l'app Power BI corretta per l'azienda.
 
-- Si dispone di una sottoscrizione attiva a Microsoft Power BI Professional o Microsoft Power BI Premium.
+- Si dispone di una licenza di Power BI Pro.
+
+- Si dispone delle autorizzazioni per installare le app modello nel tenant.
 
 - È possibile accedere a Power BI.
 
@@ -50,20 +52,34 @@ Prima di installare la versione di anteprima dell'app partner Center Analytics, 
 
 ## <a name="to-install-the-app"></a>Per installare l'app
 
-1. Avviare [il processo di installazione](https://app.powerbi.com/getdata/services/partneranalytics?cpcode=PartnerCenterAnalytics&getDataForceConnect=true&alwaysPromptForContentProviderCreds=true).
+1. Fare clic sul collegamento dell'origine app specificato (provider diretto/provider indiretto/rivenditore indiretto) nella sezione precedente.
 
-2. In **avere già un account?** selezionare **Accedi**. 
+2. Fare clic su **Ottieni ora**. 
 
-3. Nella pagina successiva immettere il nome utente e la password Power BI e quindi selezionare **Accedi**. 
+3. Per accettare i termini e le condizioni, fare clic su **continua**.
 
-4. Nella finestra popup **Connetti a partner Center Analytics** verificare che il **metodo di autenticazione** sia impostato su **OAuth2** o selezionare **OAuth2** nell'elenco, se non lo è. 
+4. In è già presente un account? Selezionare **Sign in (accedi**).
+
+5. Nella pagina successiva immettere il nome utente e la password Power BI e quindi selezionare Accedi.
+
+6. Installare l'area di lavoro fornendo l'area di lavoro.
+
+7. È possibile trovare le app modello installate nella sezione app.
+
+8. Fare clic su app e scegliere le app installate.
+
+9. Viene visualizzata la schermata inizia con la nuova app.
+
+10. Per connettersi ai dati, fare clic su **Connetti**.
+
+11. Nella finestra popup **Connetti a partner Center Analytics** verificare che il **metodo di autenticazione** sia impostato su **OAuth2** o selezionare **OAuth2** nell'elenco, se non lo è. 
 
 > [!NOTE]  
 >  La visualizzazione di questa finestra potrebbe richiedere alcuni minuti.
 
-5. Nella pagina del **connettore di analisi dei partner** , accedere con le credenziali di amministratore globale, agente di amministrazione o amministratore fatturazione per il tenant Azure ad della società e quindi selezionare **Accedi**.
+12. Nella pagina del **connettore di analisi dei partner** , accedere con le credenziali di amministratore globale, agente di amministrazione o amministratore fatturazione per il tenant Azure ad della società e quindi selezionare **Accedi**.
  
-6. Quando viene richiesto di accedere, selezionare **Accetto**. 
+13. Quando viene richiesto di accedere, selezionare **Accetto**. 
 
 Quando il servizio di analisi dei partner Center è connesso alla Power BI, i dati inizieranno a essere caricati. A seconda della quantità di dati, l'operazione può richiedere fino a 10 minuti. 
 

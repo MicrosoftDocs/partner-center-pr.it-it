@@ -12,12 +12,12 @@ keywords: migrare i clienti, il provisioning, l'account tenant, il consolidament
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d361a220ce798863eaeec73e6ff093f135bc4ae1
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: c2667bf19f73dfb2498cd6f706bd97b595f67a31
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453228"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679068"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Istruzioni per il consolidamento dei tenant di autorizzazione regionale CSP
 
@@ -35,11 +35,12 @@ ms.locfileid: "84453228"
 
 Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche diversi.
 
-**Nota**  È necessario essere a conoscenza di tutte le sottoscrizioni e dei conteggi delle postazioni per i clienti sottoposti a provisioning dagli account di transizione. Verrà eseguito nuovamente il provisioning di tali sottoscrizioni esatte con lo stesso numero di postazioni del nuovo account CSP centrale come parte del processo di migrazione. Usa la funzionalità di esportazione di elenchi per creare un elenco di clienti da trasferire al tenant centralizzato. Il consolidamento dei tenant è una scelta del partner. Una volta completato il consolidamento, non sarà possibile ripristinare lo stato precedente. Si noti che potrebbe essere necessaria anche l'azione del cliente.
+>[!NOTE]  
+>È necessario essere a conoscenza di tutte le sottoscrizioni e dei conteggi delle postazioni per i clienti sottoposti a provisioning dagli account di transizione. Verrà eseguito nuovamente il provisioning di tali sottoscrizioni esatte con lo stesso numero di postazioni del nuovo account CSP centrale come parte del processo di migrazione. Usa la funzionalità di esportazione di elenchi per creare un elenco di clienti da trasferire al tenant centralizzato. Il consolidamento dei tenant è una scelta del partner. Una volta completato il consolidamento, non sarà possibile ripristinare lo stato precedente. Potrebbe essere necessaria anche l'azione del cliente.
 
 ## <a name="prepare-for-migration"></a>Preparare la migrazione
 
-- Accedere al centro per i **partner** con l'account di **transizione** (esistente) (quello che si vuole usare per la transizione) e prendere nota di tutti i clienti e tutti i servizi di cui è stato eseguito il provisioning per tali clienti.
+- Accedere al centro per i **partner** con l'account di **transizione** (esistente) (quello che si eseguirà la transizione) ed esaminare tutti i clienti e tutti i servizi di cui è stato effettuato il provisioning per tali clienti.
 
    :::image type="content" source="images/regionalcustomer1.png" alt-text="elenco dei clienti regionali":::
 
@@ -47,7 +48,7 @@ Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche divers
 
 1. Accedere al centro per i **partner** con l'account di **transizione** (nuovo) (quello in cui si sta effettuando la transizione) e passare all'elenco Customers (clienti) dai **clienti**.
 
-2. Seleziona Clienti.
+2. Selezionare Clienti.
 
 3. Fai cli su **Richiedi una relazione come rivenditore**. Viene visualizzato un messaggio e-mail predefinito per presentarti ai clienti. Questo messaggio contiene un URL con l'ID organizzazione univoco per il tuo nuovo account del Centro per i partner.
 
@@ -61,11 +62,11 @@ I clienti verranno visualizzati nell'elenco dei clienti del partner dopo che han
 
 1. Quando il cliente ha accettato il contratto, puoi ricreare le sue sottoscrizioni nel tuo tenant partner centralizzato.
 
-2. Dal centro per i **partner** selezionare **Customers**.
+2. Dal **centro** per i partner selezionare **Customers**.
 
 3. Apri il nome dell'azienda per il cliente di cui vuoi eseguire la migrazione.
 
-4. Fare clic su **Aggiungi sottoscrizione**.
+4. Selezionare **Aggiungi sottoscrizione**.
 
 5. Aggiungi le sottoscrizioni e il numero di postazioni corretti dal catalogo. Controlla in base alle informazioni fornite per gli account partner di **origine della transizione**.
 
@@ -93,7 +94,7 @@ La disabilitazione della sottoscrizione CSP negli account partner di **origine d
 3. Imposta la sottoscrizione come **sospesa** e quindi fai clic su **Invia**.
 
    >[!Note]
-   >  La sospensione della sottoscrizione garantisce che non si verifichi la doppia fatturazione.
+   >La sospensione della sottoscrizione garantisce che non si verifichi la doppia fatturazione.
 
    La sottoscrizione è indicata con lo stato **Sospeso** nell'elenco delle sottoscrizioni.
 
@@ -120,7 +121,7 @@ Azure, le sottoscrizioni CSP basate sull'utilizzo non devono essere migrate manu
 
 6. Ripeti questi passaggi per tutte le sottoscrizioni di tutti i clienti per evitare addebiti futuri per gli account di **origini della transizione**. Il partner riceverà una sola fattura finale con un accredito per il numero di giorni inutilizzati tra il giorno di annullamento e l'ultimo giorno del periodo di fatturazione. Non verrà generata alcuna ulteriore fattura dopo questo periodo di fatturazione finale.
 
-### <a name="notes"></a>Note
+### <a name="additional-information"></a>Informazioni aggiuntive
 
 - La disabilitazione della sottoscrizione dalla **transizione dall'** account CSP non influisca sul servizio del cliente finale purché sia stato effettuato il provisioning del servizio dall'account **di transizione a** CSP prima di disabilitare la sottoscrizione.
 
@@ -128,8 +129,8 @@ Azure, le sottoscrizioni CSP basate sull'utilizzo non devono essere migrate manu
 
 - Non esiste attualmente alcun modo per rimuovere completamente un cliente dall'elenco Clienti.
 
->[!Note]
-> I partner devono sospendere le sottoscrizioni per la **transizione dall'** account del tenant partner nel centro per i partner nello stesso giorno in cui tali sottoscrizioni vengono sottoposte a transizione e configurate in base all'account del tenant partner nel centro per i partner per garantire che non si **verifichi la doppia** fatturazione. Microsoft non supporterà le richieste di crediti dovute a eventuali sovrapposizioni nella fatturazione che si verificano se non si imposta correttamente la **transizione dalle** sottoscrizioni a sospesa.
+    >[!Note]
+    > I partner devono sospendere le sottoscrizioni per la **transizione dall'** account del tenant partner nel centro per i partner nello stesso giorno in cui tali sottoscrizioni vengono sottoposte a transizione e configurate in base all'account del tenant partner nel centro per i partner per garantire che non si **verifichi la doppia** fatturazione. Microsoft non supporterà le richieste di crediti dovute a eventuali sovrapposizioni nella fatturazione che si verificano se non si imposta correttamente la **transizione dalle** sottoscrizioni a sospesa.
 
 ### <a name="simplify-migration-using-export"></a>Semplificare la migrazione con l'esportazione
 

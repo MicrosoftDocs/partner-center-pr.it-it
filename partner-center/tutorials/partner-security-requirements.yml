@@ -11,12 +11,12 @@ metadata:
   ms.author: isaiahwilliams
   author: iswillia
   ms.topic: tutorial
-  ms.openlocfilehash: 75211a49ba016ca7d75679d3cfac0a1116c5cf20
-  ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+  ms.openlocfilehash: 26c91899fa218041d3a98c565a789004471c5218
+  ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 06/05/2020
-  ms.locfileid: "84453348"
+  ms.lasthandoff: 06/10/2020
+  ms.locfileid: "84679438"
 items:
 - title: Introduzione
   durationInMinutes: 5
@@ -150,4 +150,4 @@ items:
 
       :::image type="content" source="../images/security/baseline-security-verification-confirmed.png" alt-text="Convalida di sicurezza aggiuntiva verificata":::
 
-    Dopo che l'utente avrà completato le schermate precedenti, potrà eseguire l'accesso al servizio cloud Microsoft a cui stava tentando di accedere. Tieni presente che, fintanto che non verranno applicati i requisiti di sicurezza per i partner, agli utenti non coperti dal criterio di base *Richiedere l'autenticazione a più fattori per gli amministratori* verrà richiesto questo tipo di autenticazione solo in base al rischio.
+    Dopo che l'utente avrà completato le schermate precedenti, potrà eseguire l'accesso al servizio cloud Microsoft a cui stava tentando di accedere. Fino a quando non vengono applicati i requisiti di sicurezza dei partner, per gli utenti che non sono coperti dai criteri di base Richiedi autenticazione a più fattori *per amministratori* verrà richiesta solo l'autenticazione a più fattori in base ai rischi.

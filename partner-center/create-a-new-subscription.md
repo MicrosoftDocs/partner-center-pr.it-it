@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 Keywords: sottoscrizione, crea nuovo, Aggiungi sottoscrizione, Sospendi, Annulla, sospensione, Sospendi, SaaS, licenza, ISV, terze parti
 ms.localizationpriority: medium
-ms.openlocfilehash: 969093b1ce3ba6936800ea91fd066d73b51701c7
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 7f8b3e6c444f8aeb59a55d6e7feb881eb6f99a5e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394147"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679058"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
@@ -43,7 +43,7 @@ Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elen
 
 ## <a name="create-a-new-subscription"></a>Creare una nuova sottoscrizione
 
-1. Accedere al [Dashboard del centro](https://partner.microsoft.com/dashboard)per i partner.
+1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard).
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
@@ -73,7 +73,10 @@ Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elen
     - È possibile esaminare o modificare la sottoscrizione selezionando il nome della sottoscrizione dalla pagina **sottoscrizioni** del cliente. In tale pagina puoi selezionare licenze per componenti aggiuntivi (se disponibili), modificare la quantità di licenze o sospendere la sottoscrizione.
 
     **Per le sottoscrizioni SaaS (basate su licenza) ISV:**
-    - Si riceverà un collegamento al sito dell'editore ISV. Questo collegamento dovrebbe aiutare a completare la distribuzione o la configurazione dell'account della sottoscrizione del cliente. Si noti che il cliente non riceverà un messaggio di posta elettronica con le istruzioni per completare la configurazione e il provisioning dell'account per questo tipo di sottoscrizione ISV.
+    - Si riceverà un collegamento al sito dell'editore ISV. Questo collegamento dovrebbe aiutare a completare la distribuzione o la configurazione dell'account della sottoscrizione del cliente.
+      
+    >[!NOTE]
+    > Né l'utente né il cliente riceveranno un messaggio di posta elettronica con le istruzioni per completare la configurazione e il provisioning dell'account per questo tipo di sottoscrizione ISV.
 
     - Se la sottoscrizione viene fornita con una versione di valutazione gratuita di 30 giorni, il periodo di valutazione gratuito verrà applicato automaticamente. I partner del programma CSP non possono rinunciare al periodo di valutazione gratuito sulle offerte acquistate per i clienti. Una volta terminato il periodo di valutazione gratuita, viene avviato il periodo di validità della sottoscrizione e la sottoscrizione viene convertita in stato a pagamento. La sottoscrizione verrà quindi rinnovata in base alla stessa pianificazione.
 
@@ -145,7 +148,7 @@ Per arrestare una sottoscrizione del Marketplace commerciale attiva dal rinnovo 
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
-3. Selezionare **sottoscrizioni**. Verranno elencate tutte le sottoscrizioni basate sulle licenze acquistate per il cliente.
+3. Selezionare **Sottoscrizioni**. Verranno elencate tutte le sottoscrizioni basate sulle licenze acquistate per il cliente.
 
 4. Nella colonna **sottoscrizione** selezionare la sottoscrizione che si desidera modificare.
 

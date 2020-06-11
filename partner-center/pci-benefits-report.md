@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dec4e4c3f5438df7d09da018c8d7df3709a01854
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 475ad98a4abad12be2a1a4fe5ae2dc812013aca0
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453076"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679368"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Report dei vantaggi disponibile dal dashboard di partner Center Insights
 
@@ -41,7 +41,7 @@ Nel report dei vantaggi è possibile visualizzare i grafici seguenti:
 - Vai al mercato
 
  > [!NOTE]
- > Questo report è disponibile dal dashboard di partner Center Insights (PCI). Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
+ > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
 
 **Riepilogo**
 

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 183e72e3f3f715a54bf3227bbf19c49033fb57e8
-ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
+ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
+ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84633821"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84661664"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prezzi e offerte per Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e altro ancora
 
@@ -89,12 +89,24 @@ CSP offre alcuni servizi a segmenti di mercato speciali, ad esempio Education, n
 
 |**Segmento**   |**utenti che devono qualificarsi**   |**Partner idoneo per i clienti**|**Tipi di prodotto abilitati**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Cliente|No, la qualifica del cliente verrà eseguita da Microsoft |Solo basato su licenza|
-|Senza scopo di lucro|Cliente|No, il cliente si qualifica all'esterno del centro per i partner|Solo basato su licenza|
+|Education|Customer|No, la qualifica del cliente verrà eseguita da Microsoft |Solo basato su licenza|
+|Senza scopo di lucro|Customer|No, il cliente si qualifica all'esterno del centro per i partner|Solo basato su licenza|
 |Government Community Cloud (GCC) (Cloud della community per enti pubblici)|Partner e cliente|Una volta abilitata la funzionalità GCC, il partner può creare clienti GCC| Solo basato su licenza|
 |Azure Government|Partner|Una volta qualificato, il partner opera in un tenant CSP specifico di Azure per enti pubblici|Risorse di Azure|
 
-I margini dei partner, la differenza tra il prezzo di listino e i prezzi di vendita al dettaglio stimati, possono variare da segmento a segmento. In genere, la formazione e la mancata redditività tendono a avere margini inferiori o senza margini per i partner CSP. Per i valori esatti, vedere l'elenco dei prezzi basato sulle licenze.  
+I margini dei partner, la differenza tra il prezzo di listino e i prezzi di vendita al dettaglio stimati, possono variare da segmento a segmento. In genere, la formazione e la mancata redditività tendono a avere margini inferiori o senza margini per i partner CSP. Per i valori esatti, vedere l'elenco dei prezzi basato sulle licenze. 
+
+## <a name="add-on-offer-types"></a>Tipi di offerta di componenti aggiuntivi
+
+I servizi basati su licenze possono essere acquisiti come offerte di base o componenti aggiuntivi. Solo le offerte di base sono individuabili e acquistabili tramite il catalogo del centro per i partner. I componenti aggiuntivi devono essere applicati dopo l'acquisto delle offerte di base. La colonna **tipo di licenza secondaria** elenco prezzi basato su licenza include informazioni su ogni offerta e il relativo tipo. Le offerte di base hanno valori **non specifici** nella colonna Price List tipo di licenza secondaria e possono essere acquistati nel catalogo. Non è possibile acquistare i valori del tipo di licenza secondaria del **componente aggiuntivo** nel catalogo. Per acquistare questi componenti aggiuntivi:
+
+1. Per visualizzare l'elenco degli ID offerta che è necessario acquistare per poter acquistare un componente aggiuntivo, consultare la matrice dell'elenco di offerte.
+2. Acquistare l'offerta di base dal catalogo
+3. Passare al cliente dall'elenco dei clienti. Fai clic sulla sottoscrizione per l'offerta di base appena acquistata. Nella pagina Gestisci sottoscrizioni verranno visualizzati i componenti aggiuntivi disponibili che possono essere applicati all'offerta di base.
+
+> [!Note] 
+> Alcune offerte di base hanno valori di **tipo unità** di **licenze per i componenti aggiuntivi**. Per un'offerta di base ciò significa semplicemente che non si assegnano licenze utente dopo l'acquisto. Se è possibile acquistare l'offerta nel catalogo, si tratta di un' **offerta di base** indipendentemente dal tipo di unità nell'interfaccia utente.
+
 ## <a name="pricing-between-azure-and-non-azure"></a>Confronto prezzi tra Azure e non Azure
 
 I prezzi variano in base ai diversi tipi di offerte. I prezzi basati sulle licenze sono in genere la quantità per postazione (licenza) per un determinato mese. I prezzi basati sull'utilizzo sono determinati dall'uso di una determinata risorsa, con un ID contatore associato. Ai partner non viene addebitato l'acquisto della sottoscrizione di Azure. Tuttavia, ai partner vengono addebitate le risorse utilizzate da distribuzioni diverse nella sottoscrizione di Azure. I prezzi nell'elenco prezzi basato sull'utilizzo sono organizzati in base a diversi ID del contatore delle risorse in Azure.

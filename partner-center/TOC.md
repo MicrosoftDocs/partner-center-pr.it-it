@@ -60,6 +60,7 @@
 ## [Struttura degli account nel Centro per i partner](account-structure.md)
 ## [Verificare la proprietà del dominio](become-global-admin.md)
 ## [Verificare le informazioni dell'account](verification-responses.md)
+## [Unire l'account partner con un altro account partner](merge-accounts.md)
 ## [Aggiornare il profilo di partner](update-your-partner-profile.md)
 ## [Località](manage-locations.md)
 ## [Iscriversi come CPV (Control Panel Vendor)](enroll-as-cpv.md)
@@ -81,7 +82,8 @@
 ## [Personalizzare il catalogo](customize-the-catalog.md)
 
 # [Espandere il business](grow-your-business.md)
-## [Segnalazioni](referrals.md)
+## [Panoramica sulle segnalazioni](referrals.md)
+### [Rispondere alle segnalazioni](responding-to-referrals.md)
 ### [Gestire profilo di business](create-a-marketing-profile.md)
 ### [Gestire lead](manage-leads.md)
 ### [Gestire opportunità di co-selling](manage-co-sell-opportunities.md)
@@ -124,7 +126,7 @@
 ## [Visualizzare i log attività dei clienti](activity-logs.md)
 ## [Aggiornare le informazioni degli account dei clienti](update-customer-account-info.md)
 ## [Consentire ai clienti di acquistare i propri servizi](give-customers-permission.md)
-## [Creare più utenti per un cliente](adding-multiple-users-to-a-customer-account.md)
+## [Crea più utenti per un cliente](adding-multiple-users-to-a-customer-account.md)
 ## [Assegnare contatti di supporto](assign-support-contacts.md)
 
 # [Offerte CSP](csp-offers.md)
@@ -175,6 +177,7 @@
 ### [Eseguire la migrazione di sottoscrizioni di Office 365 Enterprise E4 alle nuove versioni di Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Eseguire la migrazione di Skype for Business Online piano 1 alle nuove versioni di Office 365](skype-retiring.md)
 ### [Trasferire le sottoscrizioni di Azure](switch-azure-subscriptions-to-a-different-partner.md)
+### [Eseguire la migrazione delle sottoscrizioni Kaizala Pro a Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # Dati e analisi nel Centro per i partner
 ## [Acquisire dati e analizzare i dati aziendali](data-analysis-lp.md)

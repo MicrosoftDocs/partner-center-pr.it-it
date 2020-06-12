@@ -1,22 +1,20 @@
 ---
 title: Spostare i clienti dalle offerte correnti di Azure al piano di Azure
 ms.topic: article
-ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner CSP possono usare il Centro per i partner per spostare i clienti dalle offerte esistenti di CSP per Azure ai servizi di Azure nel piano di Azure.
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c28b852935dbce88d9f64c86b7c87fcbdc05cc
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.date: 05/04/2020
+ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908327"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452588"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Transizione dei clienti al piano di Azure dalle offerte esistenti di CSP per Azure
 
@@ -43,45 +41,45 @@ La funzionalità di transizione è destinata solo ai clienti che passano alla nu
 
 2. Seleziona **Fatturazione di transizione al piano di Azure**.
 
-![transizione](images/azure/transition1.png)
+   :::image type="content" source="images/azure/transition1.png" alt-text="Transizione":::
 
 3. Seleziona **Continua**.
 
-![transizione](images/azure/transition2.png)
+   :::image type="content" source="images/azure/transition2.png" alt-text="Transizione":::
 
-Verrà eseguita la transizione del cliente al piano di Azure.
+   Verrà eseguita la transizione del cliente al piano di Azure.
 
-**Durante il flusso della transizione vengono eseguiti automaticamente i passaggi preliminari seguenti**:
+   **Durante il flusso della transizione vengono eseguiti automaticamente i passaggi preliminari seguenti**:
 
-- Acquisto di uno o più piani di Azure
-- Un piano per cliente in scenari CSP diretti  
-- Un piano per rivenditore  
+   - Acquisto di uno o più piani di Azure
+   - Un piano per cliente in scenari CSP diretti  
+   - Un piano per rivenditore  
 
-Si supponga, ad esempio, che un partner abbia acquistato due offerte Microsoft Azure e abbia incluso due partner registrati distinti nell'acquisto. In questo caso, durante il flusso della transizione verranno acquistati due piani di Azure (uno per rivenditore) e verrà eseguito automaticamente il mapping delle rispettive sottoscrizioni di Azure in base ai piani di Azure.  
+   Si supponga, ad esempio, che un partner abbia acquistato due offerte Microsoft Azure e abbia incluso due partner registrati distinti nell'acquisto. In questo caso, durante il flusso della transizione verranno acquistati due piani di Azure (uno per rivenditore) e verrà eseguito automaticamente il mapping delle rispettive sottoscrizioni di Azure in base ai piani di Azure.  
 
-**Mapping della sottoscrizione di Azure al piano di Azure**
+   **Mapping della sottoscrizione di Azure al piano di Azure**
 
-Dopo aver acquistato uno o più piani di Azure, il sistema eseguirà il mapping delle sottoscrizioni di Azure esistenti ai piani di Azure. Lo stato di avanzamento può essere visualizzato nel portale di Azure e nel Centro per i partner. 
+   Dopo aver acquistato uno o più piani di Azure, il sistema eseguirà il mapping delle sottoscrizioni di Azure esistenti ai piani di Azure. Lo stato di avanzamento può essere visualizzato nel portale di Azure e nel Centro per i partner.
 
-4. Torna alla pagina **Sottoscrizioni** del cliente nel Centro per i partner per aggiornare il relativo limite di budget nella valuta locale. 
+4. Torna alla pagina **Sottoscrizioni** del cliente nel Centro per i partner per aggiornare il relativo limite di budget nella valuta locale.
 
-![Transizione](images/azure/transition3.png)
+   :::image type="content" source="images/azure/transition3.png" alt-text="Transizione":::
 
->[!NOTE]
->Il budget che imposti nel Centro per i partner non viene trasferito al portale di Azure. Devi quindi impostare il budget e l'avviso nel portale di Azure.
+   >[!NOTE]
+   >Il budget che imposti nel Centro per i partner non viene trasferito al portale di Azure. Devi quindi impostare il budget e l'avviso nel portale di Azure.
 
-Dopo essere passato al piano di Azure, non potrai più acquistare sottoscrizioni di Azure per questo cliente. Le sottoscrizioni vengono create in base al piano di Azure nel portale di Azure.
+   Dopo essere passato al piano di Azure, non potrai più acquistare sottoscrizioni di Azure per questo cliente. Le sottoscrizioni vengono create in base al piano di Azure nel portale di Azure.
 
->[!NOTE]
-> Tutte le sottoscrizioni di Azure acquistate tramite il controllo degli accessi in base al ruolo nel piano di Azure verranno addebitate e fatturate in valuta locale. Non verranno usati i tassi di cambio.
+   >[!NOTE]
+   > Tutte le sottoscrizioni di Azure acquistate tramite il controllo degli accessi in base al ruolo nel piano di Azure verranno addebitate e fatturate in valuta locale. Non verranno usati i tassi di cambio.
 
 ### <a name="track-your-transition-details"></a>Tenere traccia dei dettagli della transizione
 
 Puoi seguire lo stato di avanzamento della transizione sia nel portale di Azure sia nel Centro per i partner.
 
-![Mostra dettagli](images/azure/details1.png)
+:::image type="content" source="images/azure/details1.png" alt-text="Mostra dettagli":::
 
-**Effetti sulla fatturazione per i partner**
+### <a name="billing-impact-to-partners"></a>Effetti sulla fatturazione per i partner
 
 Se esegui la transizione di un cliente da un'offerta CSP per Azure esistente, avrai gli effetti seguenti sulla fatturazione:
 
@@ -91,19 +89,21 @@ Se esegui la transizione di un cliente da un'offerta CSP per Azure esistente, av
 
 Per eseguire la transizione diretta dei contratti Enterprise Agreement a CSP e delle registrazioni SCE (Server and Cloud Enrollment) ai servizi di Azure, leggi [Acquisire la proprietà della fatturazione delle sottoscrizioni di Azure per il Contratto Microsoft Partner](https://docs.microsoft.com/azure/billing/mpa-request-ownership).
 
-**Log di controllo**:
+### <a name="audit-log"></a>Log di controllo
 
-Per riconciliare la fatturazione, visualizza la cronologia delle sottoscrizioni di "Microsoft Azure" (0145P) nella pagina **Sottoscrizioni**. 
+Per riconciliare la fatturazione, visualizza la cronologia delle sottoscrizioni di "Microsoft Azure" (0145P) nella pagina **Sottoscrizioni**.
 
 La sottoscrizione di "Microsoft Azure" (0145P) è costituita da due parti:
-1. Sottoscrizione commerciale 
+
+1. Sottoscrizione commerciale
 2. Sottoscrizione di Azure (diritto)
 
 Al termine della transizione, la sottoscrizione di Azure viene spostata nel nuovo piano di Azure e la sottoscrizione commerciale viene sospesa per evitare la registrazione di altro utilizzo.  
 
->[Nota]\: quando la sottoscrizione di Microsoft Azure (0145P) viene acquistata in CSP, la sottoscrizione commerciale e la sottoscrizione di Azure (diritto) hanno lo stesso valore. I valori sono diversi solo nel caso di modifiche o trasferimenti della proprietà della fatturazione. 
+>[!Note]
+>quando la sottoscrizione di Microsoft Azure (0145P) viene acquistata in CSP, la sottoscrizione commerciale e la sottoscrizione di Azure (diritto) hanno lo stesso valore. I valori sono diversi solo nel caso di modifiche o trasferimenti della proprietà della fatturazione.
 
-**Problemi di transizione**
+### <a name="transition-issues"></a>Problemi di transizione
 
 Non sono previsti problemi durante le transizioni. Se si verifica un errore, verrai aggiornato durante il flusso della transizione. Non vi saranno interferenze con l'utilizzo di Azure.  
 
@@ -112,6 +112,3 @@ Non sono previsti problemi durante le transizioni. Se si verifica un errore, ver
 - [Gestire sottoscrizioni e risorse nel piano di Azure](azure-plan-manage.md)
 
 - [Credito ottenuto dai partner - Panoramica](partner-earned-credit.md)
-
-
-

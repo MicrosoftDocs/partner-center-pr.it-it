@@ -1,7 +1,7 @@
 ---
 title: Offerte dei partner nel programma CSP
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Come partner del programma CSP, puoi trovare informazioni sul catalogo in continua crescita dei servizi cloud Microsoft e delle offerte che puoi vendere ai clienti.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Cloud Solution Provider, programma cloud solution provider, CSP, aggiungere un prodotto, vendere ai clienti, offerte partner, offerte CSP, servizi basati sul cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, istanze riservate Azure, istanze di macchina virtuale riservate di Azure, prenotazioni di Azure, servizi online, software in abbonamento, AHUB, SQL Server su Azure, Windows Server in Azure, abbonamenti dei clienti
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c9ec7908c66fd4c31f9606e639958fba37761d7
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 73313831bd1536e7f102520b1fd0df4606aa56dc
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362329"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467241"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Panoramica delle offerte dei partner nell'ambito del programma Cloud Solution Provider
 
@@ -106,6 +106,10 @@ Per acquistare prodotti e servizi per conto dei tuoi clienti CSP, seleziona gli 
 7. Nella pagina **Rivedi i tuoi ordini** verifica o modifica i prodotti e la quantità, quindi seleziona **Acquista** per acquistare l'ordine.
 
 8. I dettagli dell'ordine, incluso il numero d'ordine, vengono visualizzati nella pagina successiva. Seleziona **Fatto** per passare alla pagina **Cronologia ordini**.
+
+## <a name="rules-for-special-segments"></a>Regole per segmenti speciali
+
+Alcune offerte basate su licenze possono essere acquistate solo in determinate condizioni. Tra le offerte di segmenti speciali sono incluse le offerte Formazione, No profit o Government Community Cloud (GCC). Per informazioni dettagliate su queste condizioni di acquisto, vedere l'argomento [Regole di acquisto per segmenti speciali](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
 
 ## <a name="next-steps"></a>Passaggi successivi
 

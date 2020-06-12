@@ -1,25 +1,26 @@
 ---
-title: Entità servizio di Azure AD | Centro per i partner
+title: Entità servizio di Azure AD
 ms.topic: article
-ms.date: 12/11/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Aggiungere un'entità servizio al tenant di Azure AD
+description: Informazioni su come aggiungere un'entità servizio al tenant di Azure AD. Si tratta di aggiungere un'applicazione Azure AD (entità servizio) nel Centro per i partner.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, piano di Azure, entità servizio, applicazione Azure AD
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: bd74d09445d9a2f1745c518362b26f243f00a777
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 76a65cd824c7c1af5242bea3af6069a466c9fa1c
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75716892"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426000"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Aggiungere un'applicazione Azure AD (entità servizio) nel Centro per i partner
 
-Nel programma Commercial Marketplace del Centro per i partner è ora possibile aggiungere un'applicazione Azure AD (entità servizio) come utente nell'account del Centro per i partner. Questa operazione era possibile in precedenza nell'account del portale Cloud Partner, ma dopo la migrazione al Centro per i partner, tale account è diventato di sola lettura. Si noti che entità servizio è sinonimo di applicazione Azure AD.
+Nel programma Commercial Marketplace del Centro per i partner è ora possibile aggiungere un'applicazione Azure AD (entità servizio) come utente nell'account del Centro per i partner. Questa operazione in precedenza veniva eseguita nell'account del portale Cloud Partner (CPP). Ora che è stata eseguita la migrazione al Centro per i partner, l'account CPP è di sola lettura. Si noti che entità servizio è sinonimo di applicazione Azure AD.
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Aggiungere un'applicazione Azure AD (entità servizio)
 
@@ -31,13 +32,8 @@ Nel programma Commercial Marketplace del Centro per i partner è ora possibile a
 
 4. Se si crea una nuova applicazione Azure AD, includere le informazioni seguenti:  
 
-  
+   - **URL di risposta**: l'URL a cui gli utenti possono accedere per usare l'applicazione Azure AD.
 
+   - **URI ID app**: un identificatore logico per l'applicazione Azure AD che viene presentato quando invia una richiesta Single Sign-On ad Azure AD.
 
-**URL di risposta**: l'URL a cui gli utenti possono accedere per usare l'applicazione Azure AD. 
-
-**URI ID app**: si tratta di un identificatore logico per l'applicazione Azure AD che viene presentato quando invia una richiesta Single Sign-On ad Azure AD. 
-
-**Ruoli di sicurezza**: i ruoli **Manager** (uguale al ruolo 'Proprietario' nel portale Cloud Partner) e **Sviluppatore** (uguale al ruolo 'Collaboratore' nel portale Cloud Partner) si applicano al programma Commercial Marketplace nel Centro per i partner e possono essere associati a questa applicazione Azure AD.  
-
-  
+   - **Ruoli di sicurezza**: i ruoli **Manager** (uguale al ruolo 'Proprietario' nel portale Cloud Partner) e **Sviluppatore** (uguale al ruolo 'Collaboratore' nel portale Cloud Partner) si applicano al programma Commercial Marketplace nel Centro per i partner e possono essere associati a questa applicazione Azure AD.  

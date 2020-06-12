@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 65362d9f71882d9edff34039f7fc985a202c4aa0
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 6ea0b7d781cebb963ad802cb73c7d956729dcb2e
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908344"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452628"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gestire sottoscrizioni e risorse nel piano di Azure
 
@@ -57,11 +57,11 @@ Per gestire i servizi del cliente e ricevere i crediti ottenuti devi disporre de
 
 1. Crea un avviso.
 
-![avviso di Azure](images/azure/azurealert1.png)
+:::image type="content" source="images/azure/azurealert1.png" alt-text="Avviso di Azure":::
 
 2. Seleziona il tipo di azione che dovrà essere eseguita dall'avviso. Se, ad esempio, scegli un messaggio di posta elettronica, riceverai un messaggio di notifica dell'eliminazione di un'assegnazione di ruolo.
 
-![configurare l'avviso](images/azure/azureconfigurealert2.png)
+:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Configurare l'avviso":::
 
 ### <a name="aobo-removal"></a>Rimozione dell'accesso come Amministratore per conto terzi
 

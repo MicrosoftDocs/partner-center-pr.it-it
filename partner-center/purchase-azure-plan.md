@@ -1,27 +1,28 @@
 ---
-title: Acquistare il piano di Azure | Centro per i partner
+title: Acquistare il piano di Azure
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri come acquistare una o più sottoscrizioni e prenotazioni di Azure nel piano di Azure per configurare le risorse e per visualizzare o aggiungere sottoscrizioni.
+description: Informazioni su come acquistare una o più sottoscrizioni e prenotazioni di Azure, configurare le risorse e visualizzare o aggiungere sottoscrizioni usando il piano di Azure.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 9ed6e3795fa27ac63fbcd4eee46c4ff00d2c296d
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0b40851ae718bc3efdc416c633ad4ed54c802f75
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205749"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467521"
 ---
-# <a name="purchase-the-azure-plan"></a>Acquistare il piano di Azure
+# <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Acquistare il piano di Azure per i clienti e accedere ai servizi di Azure più recenti con pagamento in base al consumo
 
 **Ruoli appropriati**
--    Amministratore globale
--    Amministratore utenti
--    Agente di vendita
+- Amministratore globale
+- Amministratore utenti
+- Agente di vendita
 
 Quando acquisti un piano di Azure per i clienti in base al contratto del cliente Microsoft, puoi accedere al catalogo completo dei servizi di Azure più recenti a tariffe con pagamento in base al consumo. I partner CSP potranno ora accedere a qualsiasi servizio di Azure quando diventa disponibile a livello generale. In un piano di Azure un partner può avere più sottoscrizioni di Azure. 
 
@@ -35,18 +36,22 @@ La modalità di acquisto del piano di Azure è simile all'acquisto di qualsiasi 
 1. Seleziona **Segmento: Commerciale** e digita **Microsoft Azure**. 
 2. In Piano di Azure seleziona **Aggiungi al carrello**.
 
-![Acquisto](images/azure/Azurepurchase1.png)
+:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Acquisto":::
 
 Il partner deve verificare che il cliente abbia esaminato e accettato le condizioni del contratto del cliente Microsoft. Per altre informazioni su come eseguire questa operazione, leggi [Verificare l'accettazione da parte del cliente del contratto del cliente Microsoft](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Altre risorse sono disponibili nella [raccolta delle risorse](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
-**Per confermare:**
+**Per confermare**: 
+
 1. Conferma digitalmente oppure
+
 2. Invita il cliente a firmare il contratto del cliente Microsoft direttamente con Microsoft. 
 
 ### <a name="to-confirm"></a>Per verificare 
 
 1. Nella pagina **Account** del cliente seleziona **Aggiorna** accanto a **Contratto del cliente Microsoft**.  
+
 2. Compila le informazioni relative alla persona presso la società del cliente che ha accettato il contratto del cliente Microsoft.
+
 3. Seleziona **Salva e continua**.  
 
 ## <a name="review-and-buy"></a>Verificare e acquistare
@@ -63,9 +68,10 @@ Nel Centro per i partner puoi anche acquistare prenotazioni di Microsoft Azure i
 1. Dal menu del Centro per i partner nel tuo [dashboard](https://partner.microsoft.com/dashboard/) seleziona **Clienti**. Trova il cliente che vuole acquistare prenotazioni di Azure e quindi seleziona la freccia a discesa per espandere la riga del cliente.
 
 2. Seleziona **Aggiungi prodotti** e quindi **Azure**. 
-- Scegli il segmento di mercato del cliente dall'elenco **Segmento**. 
-- Scegli **Prenotazioni** dall'elenco **Tipo di prodotto**. 
-- Scegli il tipo di prenotazione desiderata dal cliente dall'elenco **Tipo di prenotazione**. 
+
+   - Scegli il segmento di mercato del cliente dall'elenco **Segmento**.
+   - Scegli **Prenotazioni** dall'elenco **Tipo di prodotto**.
+   - Scegli il tipo di prenotazione desiderata dal cliente dall'elenco **Tipo di prenotazione**.
 
 Le prenotazioni di Azure devono essere associate a un piano di Azure attivo. Scegli il piano di Azure a cui vuoi aggiungere le prenotazioni di Azure dall'elenco di sottoscrizioni del cliente. 
 
@@ -74,7 +80,7 @@ Le prenotazioni di Azure devono essere associate a un piano di Azure attivo. Sce
 
 Tieni presente che attualmente l'ambito della prenotazione può essere impostato solo su **Condiviso**. 
 
-![Impostazione ambito condiviso delle prenotazioni](images/azure/addprods1.png)
+:::image type="content" source="images/azure/addprods1.png" alt-text="Impostazione ambito condiviso delle prenotazioni":::
 
 Per gestire la prenotazione del cliente nel portale di Azure: 
 
@@ -82,11 +88,11 @@ Per gestire la prenotazione del cliente nel portale di Azure:
 
 2. Con la freccia rivolta verso il basso, espandi la riga del cliente e seleziona **Portale di gestione di Microsoft Azure**.  
  
-## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Visualizzare le sottoscrizioni di Azure nel piano di Azure 
+## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Visualizzare le sottoscrizioni di Azure nel piano di Azure
 
 Nella sezione Basato sull'utilizzo della pagina **Sottoscrizioni** espandi **Piano di Azure** per visualizzare le sottoscrizioni di Azure associate nel piano di Azure.
 
-![Visualizzazione dell'elenco delle sottoscrizioni di Azure](images/azure/addprods2.png) 
+:::image type="content" source="images/azure/addprods2.png" alt-text="Visualizzazione dell'elenco delle sottoscrizioni di Azure"::: 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Aggiungere sottoscrizioni e configurare risorse
@@ -95,41 +101,8 @@ Nel portale di Azure potrai aggiungere sottoscrizioni e configurare risorse per 
 
 Per gestire le risorse e le sottoscrizioni del cliente, devi avere i privilegi di **Amministratore per conto terzi** (AOBO, Admin on Behalf Of). Per informazioni sulla gestione dell'accesso, leggi [Gestire sottoscrizioni e risorse nel piano di Azure](azure-plan-manage.md).
 
-Per informazioni sui passaggi successivi:
+## <a name="next-steps"></a>Passaggi successivi
 
 - [Transizioni dei clienti al piano di Azure](azure-plan-transition.md)
 
 - [Credito ottenuto dai partner - Panoramica](partner-earned-credit.md)
-
-
-
-
-
-
-
-            
-
-
-
-
-    
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-    

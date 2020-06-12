@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: cliente, clienti, consenso, MCA, Contratto Microsoft Cloud, Contratto del cliente Microsoft, modelli di contratto del cliente, attestare accettazione
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb18d5f095e633fcbfeb3dc9f3d962664066765f
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908398"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452718"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Attestare l'accettazione del Contratto del cliente Microsoft per conto di un cliente
 
@@ -46,7 +46,7 @@ Esistono attualmente due scenari in cui i clienti potrebbero non essere in grado
 
 **Per risolvere il problema**: devi attestare l'accettazione per conto del cliente.
 
-![cliente](images/mca/accept-scenario-1.png)
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Cliente":::
 
 **Scenario 2**: un cliente esistente ha acquistato una delle opzioni seguenti: offerta, software o abbonamento software, istanza riservata o piano di Azure. Il cliente tenta ora di effettuare un nuovo acquisto con un nuovo partner.
 
@@ -54,4 +54,4 @@ Quando il cliente seleziona l'URL dell'interfaccia di amministrazione di Microso
 
 **Per risolvere il problema**: devi attestare l'accettazione per conto del cliente.  
 
-![cliente](images/mca/accept-scenario-2.png)
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Cliente":::

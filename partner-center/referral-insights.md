@@ -1,22 +1,23 @@
 ---
-title: Ottenere informazioni dettagliate sulle segnalazioni | Centro per i partner
+title: Ottenere informazioni dettagliate sulle segnalazioni
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Esaminare regolarmente le informazioni dettagliate sulle segnalazioni per identificare tendenze o aree che richiedono attenzione e iniziare a muoversi verso il raggiungimento degli obiettivi aziendali.
-author: JnHs
-ms.author: jenhayes
+description: Esaminare periodicamente i dati delle informazioni dettagliate sulle segnalazioni nel Centro per i partner per visualizzare le aree di miglioramento o le tendenze che richiedono attenzione per raggiungere gli obiettivi aziendali.
+author: LauraBrenner
+ms.author: labrenne
 keywords: segnalazione, analizzare, analisi, metrica, conversione
 ms.localizationpriority: high
-ms.openlocfilehash: fb1e93f830ea8ae8baaf4c75107511df88807f47
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "73654131"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467451"
 ---
-# <a name="get-referral-insights"></a>Ottenere informazioni dettagliate sulle segnalazioni
+# <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Ottenere informazioni dettagliate sulle segnalazioni nel Centro per i partner ed esaminare lo stato delle segnalazioni
 
 **Si applica a**
 
@@ -48,7 +49,7 @@ Questo grafico mostra una panoramica delle prestazioni raggiunte dalle tue segna
 
 Il grafico mostra il numero totale di segnalazioni, il numero di commesse acquisite e il volume d'affari totale (in USD) per il periodo di tempo selezionato. Espandendo il grafico vengono visualizzati altri dati, ad esempio la ripartizione in base all'origine e alla direzione delle segnalazioni. 
 
-Le metriche relative alla variazione percentuale (visualizzate in rosso o verde, con un indicatore freccia) indicano la differenza tra l'ultimo mese completo e il primo mese completo nell'intervallo di date selezionato. Supponiamo, ad esempio, che la data corrente sia il 15 giugno e che sia stato selezionato il filtro **3M** per visualizzare i dati relativi agli ultimi tre mesi. In questo caso, le metriche mostreranno la differenza tra maggio (l'ultimo mese completo nell'intervallo di tempo selezionato) e marzo (il primo mese completo nell'intervallo di tempo selezionato). Se l'intervallo di date selezionato comprende gli ultimi tre mesi (**3M**), il confronto sarà tra i dati relativi a maggio e quelli relativi a marzo.
+Le metriche relative alla variazione percentuale (visualizzate in rosso o verde, con un indicatore freccia) indicano la differenza tra l'ultimo mese completo e il primo mese completo nell'intervallo di date selezionato. Si supponga, ad esempio, che la data corrente sia il 15 giugno e che sia stato selezionato il filtro **3M** per visualizzare i dati relativi agli ultimi tre mesi. In questo caso, le metriche mostreranno la differenza tra maggio (l'ultimo mese completo nell'intervallo di tempo selezionato) e marzo (il primo mese completo nell'intervallo di tempo selezionato). Se l'intervallo di date selezionato comprende gli ultimi tre mesi (**3M**), il confronto sarà tra i dati relativi a maggio e quelli relativi a marzo.
 
 ## <a name="performance-by-solution"></a>Prestazioni per soluzione
 
@@ -58,7 +59,7 @@ Il grafico a torta mostra una visualizzazione completa delle principali soluzion
 
 ## <a name="solution-performance-breakdown"></a>Ripartizione delle prestazioni della soluzione
 
-Questo grafico ti consente di selezionare una o più soluzioni per visualizzare dati più dettagliati relativi alle prestazioni.
+Questo grafico consente di selezionare una o più soluzioni per visualizzare dati più dettagliati relativi alle prestazioni.
 
 Per le soluzioni selezionate, il grafico mostrerà le informazioni seguenti:
 - Nella parte superiore del grafico verrà visualizzato il numero totale di commesse acquisite, le dimensioni medie delle commesse (in USD) e il volume d'affari totale (in USD).

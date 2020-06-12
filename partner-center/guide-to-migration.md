@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795834"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453238"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guida alla migrazione da Partner Membership Center (PMC) al Centro per i partner
 
@@ -45,7 +45,7 @@ Lo spostamento inizia in PMC. L'amministratore globale riceverà un invito per i
 
 Seleziona **Inizia** nell'invito ricevuto. Verrà visualizzata la pagina di accesso al Centro per i partner.
 
-![Operazioni preliminari](images/migration/getstarted.jpg)
+:::image type="content" source="images/migration/getstarted.jpg" alt-text="Attività iniziali":::
 
 ## <a name="start-with-your-work-email"></a>Inizia con l'indirizzo e-mail di lavoro
 
@@ -54,7 +54,7 @@ Se la tua azienda non dispone di un indirizzo e-mail aziendale e di un tenant AA
 >[!Note]
 >Se sei un partner con sede in Cina e sei iscritto ai programmi Microsoft Partner Network e Cloud Solution Provider (CSP), avrai un tenant separato per ogni account. L'account del programma Cloud Solution Provider viene gestito nel cloud nazionale, mentre l'account di Microsoft Partner Network viene gestito nel cloud globale. Non è possibile collegare i due account.
 
-![Descrivi la tua società](images/migration/newtellusabout.png)
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Descrivere la società":::
 
 Dopo aver verificato o aggiornato le informazioni, seleziona **Accetta e continua**.
 Le condizioni riportate in questa pagina sono **esattamente le stesse** contenute nel contratto firmato dalla tua azienda in PMC.  
@@ -72,7 +72,7 @@ Selezionando **Accetta e continua** vengono eseguite anche le operazioni seguent
 
 Quando viene creato il nuovo tenant di Azure AD, puoi invitare i tuoi dipendenti ad accedere al Centro per i partner.
 
-![Invitare i dipendenti](images/migration/invite.png)
+:::image type="content" source="images/migration/invite.png" alt-text="Invitare i dipendenti":::
 
 Se hai eseguito l'accesso con un tenant AAD esistente, i dipendenti sono stati spostati con te. In questo caso, assegna ai dipendenti ruoli specifici per definire le operazioni che possono eseguire nel Centro per i partner. Nota: i ruoli nel Centro per i partner sono diversi dai ruoli in PMC. Per altre informazioni, vedi [Passaggio dal Partner Membership Center al Centro per i partner](move-pmc-pc-map.md).
 
@@ -80,11 +80,11 @@ Se hai eseguito l'accesso con un tenant AAD esistente, i dipendenti sono stati s
 
 Se il tenant AAD è nuovo, il ruolo di amministratore globale non è assegnato a nessuno. Per diventare l'amministratore globale, devi verificare la proprietà del dominio. A tale scopo, potresti aver bisogno dell'assistenza dell'amministratore di dominio. Tieni presente che, anche se puoi usare le offerte già acquistate, non potrai acquistare nuove offerte fino a quando non completerai la procedura per diventare amministratore globale.
 
-![Assumere il controllo](images/migration/takecontrol.png)
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Assumere il controllo":::
 
 Quando selezioni Inizia, verrà visualizzata la schermata seguente:
 
-![Verificare la proprietà del dominio](images/migration/verifytxt.png)
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Verificare la proprietà del dominio":::
 
 Il registrar risulterà già compilato. Solo il proprietario del dominio può aggiornare il file DNS. Copiando e aggiungendo il file di testo al tuo record DNS, potremo quindi verificare che tu sei il proprietario. L'aggiornamento può richiedere alcuni minuti. Dovrai disconnetterti dal Centro per i partner e quindi eseguire di nuovo l'accesso. A questo punto, il tuo ruolo risulterà modificato in amministratore globale.
 
@@ -92,7 +92,7 @@ Il registrar risulterà già compilato. Solo il proprietario del dominio può ag
 
 Segui la presentazione del dashboard. In questo ambiente puoi gestire l'appartenenza, aggiungere un profilo di business per le segnalazioni, iscriverti al programma Cloud Solution Provider e visualizzare le notifiche e le offerte pertinenti per la tua azienda in qualsiasi momento selezionando **Dashboard**. Puoi anche gestire gli incentivi, acquistare nel marketplace, registrarti per i servizi go-to-market e molto altro.  
 
-![Presentazione](images/migration/fre.png)
+:::image type="content" source="images/migration/fre.png" alt-text="Presentazione":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 

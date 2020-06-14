@@ -1,23 +1,23 @@
 ---
 title: Ottieni specializzazioni avanzate
 ms.topic: article
-ms.date: 05/22/2020
+ms.date: 06/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Le specializzazioni avanzate rafforzano il profilo aziendale nella directory dei partner. Scopri come ottenere specializzazioni avanzate oltre alle tue competenze in oro.
+description: Potenzia il tuo profilo aziendale nella directory dei partner. Scopri come ottenere specializzazioni avanzate insieme alle tue competenze in oro/argento.
 author: LauraBrenner
 ms.author: labrenne
-keywords: competenze, appartenenza Gold, MPN, mappe, competenza, Microsoft Partner Network, appartenenza alla rete, specializzazioni avanzate
+keywords: competenze, adesione silver, adesione gold, mpn, abbonamento a Microsoft Action Pack, preparazione, Microsoft Partner Network, adesione alla rete, specializzazioni avanzate
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1dbff3f7f802a0f89f6cdfd78da2abf719523a9
-ms.sourcegitcommit: 97f1ff7386562cbb945bdfbcf15c85bc8303cac2
+ms.openlocfilehash: f62a1795a9ad3fd07de43bcf5cfa8703133e0fe9
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "83825632"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749152"
 ---
-# <a name="how-advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Come le specializzazioni avanzate aiutano il tuo profilo aziendale a distinguersi per i clienti
+# <a name="advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Le specializzazioni avanzate aiutano il tuo profilo aziendale a distinguersi per i clienti
 
 Vai oltre la tua competenza Gold con una specializzazione avanzata. Le specializzazioni avanzate consentono di presentare competenze comprovate e verificabili in un prodotto, un'area della soluzione o un servizio. I clienti possono visualizzare sia la competenza Gold che la specializzazione avanzata nel profilo aziendale nella directory dei partner. Per ricevere un tag di specializzazione avanzato, è necessario che l'azienda soddisfi un set di criteri pubblicati e venga convalidato da Microsoft. [Altre informazioni](https://partner.microsoft.com/membership/advanced-specialization).
 
@@ -41,3 +41,6 @@ Vai oltre la tua competenza Gold con una specializzazione avanzata. Le specializ
 
 - **Modernizzazione delle applicazioni Web in Microsoft Azure** Si garantisce la riuscita del cliente nello sviluppo di applicazioni e la familiarità con i sistemi di gestione dei contenuti. Dimostra di avere esperienza nella migrazione e nella distribuzione di carichi di lavoro di applicazioni Web di produzione, nell'esecuzione di procedure DevOps e nella gestione dei servizi delle applicazioni in Microsoft Azure.
 
+ ## <a name="next-steps"></a>Passaggi successivi
+
+ Informazioni sui [requisiti di competenza Microsoft per l'appartenenza a Gold e Silver](learn-about-competencies.md)

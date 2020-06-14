@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 214eedf60d89172b7c003acf927853ff04d7fd72
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 83545002fbc0138e4020473a9554d9127e7771b4
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603860"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749203"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Informazioni sui file di riconciliazione basati sull'utilizzo e sui rispettivi campi specifici nel centro per i partner
 
@@ -70,5 +70,5 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 | MeteredRegion | Identifica la posizione di un data center all'interno dell'area (per i servizi in cui questo valore è applicabile e popolato). | *Asia orientale*, *Sud Asia orientale*, *Europa settentrionale*, *Europa occidentale*, *Stati Uniti centro-settentrionali*, *Stati Uniti centro-meridionali* |
 | MeteredService | Identifica il singolo utilizzo del servizio Azure quando non è identificato in modo specifico nella colonna **ServiceName** . I trasferimenti di dati, ad esempio, vengono segnalati come *Microsoft Azure tutti i servizi* nella colonna **ServiceName** . | *AccessControl*, rete *CDN*, *calcolo*, *database*, *ServiceBus*, *archiviazione* |
 | MeteredServiceType | Sottotitolo per il campo **MeteredService** che fornisce informazioni aggiuntive sull'utilizzo dei servizi di Azure. | *ESTERNO* |
-| Progetto | Nome definito dal cliente per la propria istanza del servizio. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| Project | Nome definito dal cliente per la propria istanza del servizio. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | Numero di connessioni del bus di servizio di Azure di cui è stato effettuato il provisioning e utilizzate in un determinato giorno. | *1,000000 connessioni/30 giorni* (se si dispone di una connessione con provisioning individuale durante un mese di 30 giorni), *25 connessioni/30 giorni: 1,000000* (se è stato eseguito il provisioning di 25 pacchetti di connessioni del bus di servizio ed è stato usato 1 durante tale giorno) |

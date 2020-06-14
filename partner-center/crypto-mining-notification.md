@@ -11,12 +11,12 @@ Keywords: Crypto-mining, criptovalute mining, sicurezza
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3c6400c8670117be37413239f2a85b943dd3ff1
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: bcaf6675fdf77dbe46e2a76e4abdd0e6c41a3da3
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452548"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749103"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notifica del centro partner per l'attività di data mining criptovalute
 
@@ -75,4 +75,4 @@ In caso di domande o dubbi sulla notifica, è possibile utilizzare la procedura 
 
 7. Immettere le informazioni di contatto.
 
-8. Selezionare **Invia**.
+8. Selezionare **Submit** (Invia).

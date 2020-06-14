@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: riferimenti, API webhook, eventi di modifica delle risorse
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43874556b5f3fd355f5c315bf06ca7daee0a699e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 89628fd6ccab6a943d8bd816afa7b5d3b0f241f7
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467471"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749176"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Usare le API webhook per registrare gli eventi di modifica delle risorse per Dynamics 365 CRM e Salesforce CRM
 

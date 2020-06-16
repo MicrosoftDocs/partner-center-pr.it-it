@@ -201,6 +201,7 @@
 ### [Insights - Report competenze](pci-competencies-report.md)
 ### [Insights - Report vantaggi](pci-benefits-report.md)
 ### [Insights - Problemi noti](pci-known-issues.md)
+### [Insights - Scaricare i report](pci-download-reports.md)
 ## [Indicatori di contributi dei partner](partner-contribution-indicators.md)
 ## [Ottenere i dati sull'utilizzo delle sottoscrizioni di Azure dei clienti](analyze-azure-usage.md)
 ## [Analizzare le prestazioni dei rivenditori indiretti](analyze-indirect-resellers.md)

@@ -9,19 +9,24 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/15/2020
-ms.openlocfilehash: e242a42c87c0d2f6679380e17cbf18898d212e51
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 7c0571da2636459f791f3e569a897013bd3f36ca
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254332"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749083"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
 Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste informazioni vengono aggiornate di frequente, pertanto è importante consultarle di frequente.
 
-| **Categoria** | **Annunci di maggio 2020** | **Annunciato** |
-|---------|---------|:---------|
+| **Categoria** | **Annunci di giugno 2020** | **Annunciato** |
+|---------|:---------|:---------|
+| Funzionalità | [La frequenza di fatturazione predefinita passa da annuale a mensile](2020-june.md#4) | 17 giugno |
+| Funzionalità | [Aggiornamento supporti sottoscrizioni del software Windows Server per CSP](2020-june.md#2) | 12 giugno |
+| Offerte/mercati | [Offerte e prodotti nuovi e di fine vita per Microsoft Dynamics 365 e Power Platform](2020-june.md#1) | 11 giugno |
+| Funzionalità | [Unire due o più account aziendali nel Centro per i partner](https://docs.microsoft.com/partner-center/merge-accounts) | 9 giugno |
+| **Categoria** | **Annunci di maggio 2020** | **Data** |
 | Funzionalità | [Microsoft 365 A3: correzione offerta di licenza automatica Education](2020-may.md#5) | 28 maggio |
 | Funzionalità | [I clienti attivi possono rinnovare il Piano di miglioramento tramite il programma Cloud Solution Provider (CSP) e ricevere licenze online](2020-may.md#4) | 26 maggio |
 | Funzionalità | [Modifica dell'indirizzo per Americas Operations Center](2020-may.md#3) | 15 maggio |

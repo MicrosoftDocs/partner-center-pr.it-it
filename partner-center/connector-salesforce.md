@@ -9,12 +9,12 @@ ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e2cbe4b6f5418cea4d992b9e68daa7e0ed3ec09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453258"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788775"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connettore di co-selling per CRM Salesforce - Panoramica
 
@@ -233,12 +233,12 @@ I campi personalizzati seguenti devono far parte della sezione CRM:
 
    |**Etichetta campo**   |**Nome campo**|**Tipo di dati**|**Indicizzata**|
    |---------------------|:-------------------|:--------------|:----------------|
-   |Audit|  Audit__c|Area di testo lungo (100.000) (riga visibile 4)||
-   |Come può essere utile Microsoft?|Ow_can_Microsoft_help__c H|Picklist|
-   |Prodotti|Prodotti-c|testo (255)||
-   |Referral |  Referral_Identi fier__c|Testo (100) (ID esterno)|sì|
-   |Collegamento di riferimento|   Referral_Link__c_|URL (255)||
-   |Sincronizzare con il cen ter del partner|Sync-with-partner-Center-c|CheckBox (impostazione predefinita deselezionata)||
+   |Audit| Audit__c|Area di testo lungo (100.000) (riga visibile 4)||
+   |Come può essere utile Microsoft?|How_can_Microsoft_help_c|Picklist|
+   |Prodotti|Products_c|testo (255)||
+   |Referral | Referral_Identfier_c|Testo (100) (ID esterno)|sì|
+   |Collegamento di riferimento| Referral_Link_c_|URL (255)||
+   |Sincronizza con il centro per i partner|sync_with_partner_center_c|CheckBox (impostazione predefinita deselezionata)||
 
    * Valori elenco a discesa:
 

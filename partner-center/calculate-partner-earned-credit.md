@@ -1,7 +1,7 @@
 ---
-title: Come viene calcolato il credito guadagnato dal partner | Centro per i partner
+title: Calcolo del credito guadagnato dal partner
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo viene calcolato l'aspetto del credito guadagnato dal partner (PEC) del piano Azure. Sono inclusi i requisiti di idoneità per i partner e i provider indiretti.
@@ -9,19 +9,20 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: aee60449a31cf1908912cc1fa62e2bf2c003f998
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 70c17a2fe4a2f61745d04a62d680a3b523f85fa4
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721733"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788735"
 ---
-# <a name="how-the-partner-earned-credit-pec-is-calculated"></a>Come viene calcolato il credito guadagnato dal partner (PEC)
+# <a name="how-partner-earned-credit-pec-is-calculated-for-partners-in-the-cloud-solution-provider-program"></a>Il modo in cui viene calcolato il credito del partner guadagnato (PEC) per i partner nel programma Cloud Solution Provider
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore fatturazione
+- Amministratore della fatturazione
 
 I partner che possiedono la gestione operativa delle attività IT di 24 ore su 7 o l'intero ambiente Azure dei clienti in CSP sono ricompensati con PEC. Il PEC viene fornito come parte della fattura al partner che ha una relazione di fatturazione diretta con Microsoft. Il credito viene calcolato quotidianamente e riportato nella fattura mensile. Per impostazione predefinita, in CSP, ai partner vengono concessi i diritti di accesso necessari per la sottoscrizione del cliente che consente loro di disporre di gestione e controllo 24X7 delle risorse nella sottoscrizione. Nella sezione seguente sono descritti altri modi in cui il cliente può effettuare il provisioning dell'accesso per il partner di transazione.
 
@@ -46,7 +47,7 @@ I partner che possiedono la gestione operativa delle attività IT di 24 ore su 7
 
 Per informazioni su come ottenere l'accesso per gestire le sottoscrizioni di Azure e su come collegare l'ID MPN ai ruoli RBAC, vedere [gestire sottoscrizioni e risorse nel piano Azure](azure-plan-manage.md).
 
-Ulteriori informazioni
+Per ulteriori informazioni
 
 - [Piano di Azure-fatturazione](azure-plan-billing.md)
 

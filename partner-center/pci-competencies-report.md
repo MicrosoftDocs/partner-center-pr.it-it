@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19165550cfcd9b6b62a548e7d21c1ee58df691dc
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 99eda121ac876be0d753b7d7f147b054562a844d
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679358"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776288"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Report sulle competenze disponibile dal dashboard di partner Center Insights
 
@@ -50,7 +50,7 @@ Ogni competenza dispone di un set specifico di requisiti da soddisfare. I requis
  > [!NOTE]
  > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
 
-**Summmary**
+**Riepilogo**
 
 La visualizzazione Riepilogo presenta un conteggio delle competenze con i rispettivi nomi a ogni livello di competenza (Gold/Silver) in tutte le fasi del ciclo di vita delle competenze. Le fasi del ciclo di vita delle competenze includono: **Started**, **Qualified**, **Active**e **a Risk**. Esempio: i requisiti di competenza cloud rientrano in due categorie: competenze e prestazioni.
 

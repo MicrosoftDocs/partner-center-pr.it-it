@@ -7,16 +7,16 @@ ms.subservice: partnercenter-csp
 description: Informazioni su come inviare le richieste di incentivi senza il prerequisito per la revisione del piano di attività.
 author: LauraBrenner
 ms.author: labrenne
-keywords: attestazioni incentivi, attestazioni cooperative, fondi cooperativi
+keywords: attestazioni incentive, attestazioni co-op, fondi co-op
 ms.localizationpriority: medium
-ms.openlocfilehash: d5252427ad35e33b391edfce2d4cd100dc33f5c1
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: f966406c0cc5e2bb427cd07a14755f41f1b55b28
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721625"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776278"
 ---
-# <a name="incentives-co-op-claims-overview"></a>Panoramica delle attestazioni cooperative per gli incentivi
+# <a name="incentives-co-op-claims-overview"></a>Panoramica delle richieste co-op di incentivi
 
 **Si applica a**
 
@@ -27,24 +27,24 @@ ms.locfileid: "74721625"
 - Amministratore degli incentivi
 - Utente di incentivi
 
-Quando si partecipa a uno dei programmi Microsoft incentives (ad esempio, partner incentives cooperative Marketing Fund, Online Services Advisor Program o Dynamics ISV Program), si attestano i rimborsi dei fondi guadagnati per le attività eseguite supporto per la sensibilizzazione ai prodotti Microsoft. Inviare un'attestazione direttamente dal centro per i partner. Non è più necessario che Microsoft esamini il tuo piano di attività pima di inviare una richiesta. Invia la richiesta e la documentazione necessaria entro la scadenza del periodo di attestazione che è 45 giorni dopo la fine del periodo di utilizzo. 
+Quando si partecipa a uno dei programmi Microsoft incentives (ad esempio, partner incentives Cooperation Marketing Fund, Online Services Advisor Program o Dynamics ISV Program), si attestano i rimborsi dei fondi guadagnati per le attività che sono state eseguite che supportano il riconoscimento dei prodotti Microsoft. Inviare un'attestazione direttamente dal centro per i partner. Prima di inviare un'attestazione, non è più necessario rivedere il piano di attività da Microsoft. Inviare l'attestazione e la documentazione necessaria non più tardi rispetto alla scadenza del periodo di attestazione, ovvero 45 giorni dopo la fine del periodo di utilizzo.
 
-Un'attestazione con esito positivo include:
+Un'attestazione riuscita include:
 
-- Documentazione che illustra che siano stati soddisfatti i requisiti di base per l'attività
-- Fatture dei fornitori di terze parti con cui si collabora
-- Certification Statement and Report (CSRs) per qualsiasi lavoro completato internamente
-- La documentazione appropriata (prova dell'esecuzione) che dimostra che hai completato l'attività 
+- Documentazione che illustra l'utente che ha soddisfatto i requisiti di base per l'attività
+- Fatture da fornitori di terze parti con cui si lavora
+- Rendiconto e report di certificazione (I CSR) per le attività interne completate
+- La documentazione appropriata (prova di esecuzione) che dimostra che è stata completata l'attività 
 
 >[!NOTE]
->Microsoft si riserva il diritto di richiedere i documenti originali della prova di esecuzione (POE). Gestisci tutti i documenti originali per un periodo di 24 mesi dalla data di attività. 
+>Microsoft si riserva il diritto di richiedere documenti di prova di esecuzione (POE) originali. Mantenere tutti i documenti originali per un periodo di 24 mesi dalla data dell'attività. 
 
 |**Per eseguire questa operazione**   |**Leggi**   |
 |-----------------|:--------------------------------------|
-|Inviare una richiesta e includere la documentazione corretta|[Creare e gestire un'attestazione di attività del programma incentives](create-incentives-claims.md)|
-|Dopo aver inviato la richiesta, gestire le richieste di documentazione aggiuntiva|[Creare e gestire un'attestazione di attività del programma incentives](create-incentives-claims.md)  |
-|Assicurarsi di conoscere i requisiti di base per l'attestazione di attività|[Conosce i requisiti principali per le attestazioni di incentivi](core-requirements.md)   |
-|Scoprire i dettagli del programma completo di incentivi|[Guida alla co-op degli incentivi per i partner](https://assets.microsoft.com/coop-guidebook.pdf)
+|Inviare un'attestazione e includere la documentazione corretta|[Creare e gestire un'attestazione di attività del programma incentives](create-incentives-claims.md)|
+|Dopo aver inviato l'attestazione, gestire richieste di documentazione aggiuntive|[Creare e gestire un'attestazione di attività del programma incentives](create-incentives-claims.md)  |
+|Assicurarsi di avere familiarità con i requisiti di base per l'attestazione dell'attività|[Conosce i requisiti principali per le attestazioni di incentivi](core-requirements.md)   |
+|Scopri tutti i dettagli del programma incentives|[Guida alla co-op degli incentivi per i partner](https://assets.microsoft.com/coop-guidebook.pdf)
 |Creare un'associazione cliente e inviare un'attestazione |[Creare un'associazione cliente usando il modello CPOR](submit-osa-claim.md)|
                                                                                  
                                    

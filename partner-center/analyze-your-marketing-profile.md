@@ -1,21 +1,22 @@
 ---
-title: Analizzare il profilo business | Centro per i partner
+title: Analizzare il profilo di business
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come usare la pagina Insights di business profile per vedere in che modo si sta acquisendo l'attenzione dei clienti di destinazione e si generano riferimenti.
-author: JnHs
-ms.author: jenhayes
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 974258f5cfbb0a017d75c8f30a855cb4a23ce39a
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722355"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788751"
 ---
-# <a name="analyze-your-business-profile"></a>Analizzare il profilo di business
+# <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analizza il tuo profilo business: Scopri come attrarre i clienti di destinazione e i potenziali riferimenti
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -37,7 +38,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 La pagina **Insights di business profile** nel centro per i partner ti permette di scoprire in che modo stai acquisendo l'attenzione dei clienti di destinazione e generando riferimenti.
 
-Per visualizzare i dati di referral Insights, dal menu centro per i partner passare a **riferimenti > business profile Insights**. I dati mostrano le prestazioni del profilo, analizzano le tendenze e identificano le aree che richiedono un'azione.
+Per visualizzare i dati di referral Insights, dal menu centro per i partner passare a **riferimenti > business profile Insights**. I dati mostrano le prestazioni del profilo, analizza le tendenze e identifica le aree che richiedono un'azione.
 
 Nella parte superiore della pagina **Insights di business profile** è possibile selezionare il periodo di tempo per cui si desidera visualizzare i dati. La selezione predefinita è **30D** (30 giorni), ma è invece possibile scegliere di visualizzare i dati per un periodo di 3 o 6 mesi. Sono inclusi i dati per tutte le aree.
 

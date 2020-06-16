@@ -1,20 +1,21 @@
 ---
-title: Programma SATV (Software Assurance Training Voucher) nel Centro per i partner | Centro per i partner
+title: Programma per il voucher di formazione Software Assurance
 ms.topic: article
-ms.date: 03/24/2020
+ms.date: 06/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dettagli relativi alla registrazione nel programma di formazione Software Assurance, in modo da poter essere compensati per la distribuzione di corsi di formazione e pianificazione ai clienti aziendali.
+description: Scopri come iscriverti al programma Software Assurance training voucher per ottenere la possibilità di compensare la formazione e la pianificazione per i clienti aziendali.
 author: LauraBrenner
 ms.author: labrenne
 keywords: voucher per la formazione, Software Assurance, formazione, iscriversi a SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: d3d961d7cd4a1a26d07991fea6080a4d5c1d1d28
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 0d14a588e24488b4d45b52540e8d749cbf8bdbad
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296416"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788795"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programma SATV (Software Assurance Training Voucher) nel Centro per i partner
 
@@ -22,7 +23,7 @@ Espandere la propria attività iscrivendosi ai programmi per partner Software As
 
 In qualità di partner di formazione Software Assurance approvato, Microsoft ricompensa l'utente per la formazione tecnica fornita ai clienti aziendali in cambio dei voucher che ottengono con Software Assurance. La partecipazione a questo programma può essere utile per attirare più clienti e diventare partner di formazione attendibile.
 
-## <a name="get-started"></a>Attività iniziali
+## <a name="get-started"></a>Introduzione
 
 Se non si ha familiarità con i servizi di formazione per Software Assurance, seguire tutti i passaggi seguenti. Se il programma training voucher è già attivo, iniziare dal passaggio 4 (4). 
 
@@ -33,19 +34,19 @@ Se non si ha familiarità con i servizi di formazione per Software Assurance, se
 5. Convalida e prenotazione del voucher cliente
 6. Offerta di formazione e attivazione di un prodotto
 7. Riscatto del voucher
-8. Richiesta del pagamento
+8. Richiedere il pagamento
 
 Questo articolo illustra come completare ogni passaggio.
 
 ## <a name="confirm-program-eligibility"></a>Conferma dell'idoneità al programma
 
-Prima di poter eseguire l'iscrizione al programma SATV, è necessario prima soddisfare i requisiti per l'opzione di apprendimento Microsoft Partner Network, che sostituisce la competenza Microsoft Learning. Informazioni su come iniziare a usare l'[opzione Learning.](https://partner.microsoft.com/membership/learning-partners)
+Prima di poter eseguire la registrazione al programma per i voucher di formazione di Software Assurance, è necessario completare i requisiti per l'opzione Learning di Microsoft Partner Network, che sostituisce la competenza di Microsoft Learning. Informazioni su come iniziare a usare l' [opzione Learning.](https://partner.microsoft.com/membership/learning-partners)
 
-È possibile verificare l'idoneità dell'azienda, inclusi i requisiti di competenza e valutazione applicabili nel centro per i partner. Per altri dettagli e schermate, seguire le istruzioni nel [passaggio 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) del flusso di lavoro SATV.
+È possibile verificare l'idoneità dell'azienda, inclusi i requisiti di competenza e valutazione applicabili nel centro per i partner. Per altri dettagli e screenshot, seguire le istruzioni nel [passaggio 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) del flusso di lavoro dei voucher di formazione di Software Assurance.
 
 ## <a name="enroll-in-the-training-program"></a>Iscrizione al programma di formazione
 
-Quando la società soddisfa i requisiti di idoneità e i partecipanti al programma hanno superato il corso di formazione sulla conformità, si è pronti per firmare il contratto del programma Software Assurance training voucher e registrarsi. Assicurarsi di esaminare tutti i [criteri del programma SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), quindi seguire le istruzioni nel [passaggio 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) del flusso di lavoro per completare il processo di registrazione di SATV nel centro per i partner.
+Quando la società soddisfa i requisiti di idoneità e dopo che i partecipanti al programma hanno superato il corso di formazione sulla conformità, si è pronti per firmare il contratto del programma per i voucher di formazione di Software Assurance e a registrarsi. Assicurarsi di esaminare tutti i [criteri del programma SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), quindi seguire le istruzioni nel [passaggio 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) del flusso di lavoro per completare il processo di registrazione di SATV nel centro per i partner.
 
 
 ## <a name="confirm-course-eligibility"></a>Conferma dell'idoneità al corso
@@ -53,7 +54,7 @@ Dopo l'iscrizione al programma SATV, i partner possono offrire sessioni di forma
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Creazione e assegnazione di un voucher da parte dei clienti
 
-Prima di eseguire una sessione di formazione, il cliente deve prima attivare il proprio vantaggio SATV e quindi assegnarlo all'organizzazione. Per istruzioni dettagliate con le schermate che illustrano i passaggi che il cliente deve eseguire per creare un voucher e assegnarlo all'utente, vedere il [passaggio 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) del flusso di lavoro.
+Prima di eseguire una sessione di formazione, il cliente deve prima attivare il proprio vantaggio SATV e quindi assegnarlo all'organizzazione. Per istruzioni dettagliate con screenshot che illustrano i passaggi che il cliente deve eseguire per creare un voucher e assegnarlo all'utente, vedere il [passaggio 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) del flusso di lavoro.
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>Convalida e prenotazione del voucher cliente
 

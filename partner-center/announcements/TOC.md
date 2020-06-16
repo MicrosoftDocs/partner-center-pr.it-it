@@ -1,4 +1,5 @@
 # [Annunci del Centro per i partner](index.md)
+# [Giugno 2020](2020-june.md)
 # [Maggio 2020](2020-may.md)
 # [Aprile 2020](2020-april.md)
 # [Marzo 2020](2020-march.md)

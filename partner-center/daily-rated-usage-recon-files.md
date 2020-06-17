@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 8b89efd0cb24fb8aa08160bc6b554c5c2823ba2b
+ms.sourcegitcommit: b2f389ef0beacd722876e6396eab30b28bdf7e78
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788805"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "84811569"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Informazioni su come leggere i file di riconciliazione dell'utilizzo con classificazione giornaliera nel centro per i partner
 
@@ -57,7 +57,7 @@ In questo argomento viene illustrato come leggere i file di riconciliazione dell
 | SubscriptionDescription | Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. Si tratta di un campo identico a **offername**. |
 | SubscriptionId | Identificatore univoco per una sottoscrizione nella piattaforma di fatturazione Microsoft. Non utilizzato per la riconciliazione. *Questo identificatore non corrisponde all' **ID sottoscrizione** nella console di amministrazione partner.* |
 | ChargeStartDate | Data di inizio del ciclo di fatturazione (eccetto quando si presentano date di dati di utilizzo latenti precedentemente non addebitati dal ciclo di fatturazione precedente). L'ora è sempre l'inizio del giorno, 0:00. |
-| ChargeEndDate | Data di fine del ciclo di fatturazione (tranne quando si presentano date di dati di utilizzo latenti precedentemente non addebitati dal ciclo biling precedente). L'ora indicata è sempre la fine della giornata, le 23:59. |
+| ChargeEndDate | Data di fine del ciclo di fatturazione (tranne quando si presentano date di dati di utilizzo latenti precedentemente non addebitati dal ciclo di fatturazione precedente). L'ora indicata è sempre la fine della giornata, le 23:59. |
 | UsageDate | Data di utilizzo del servizio. |
 | MeterType | Tipo di misuratore. |
 | MeterCategory | Il servizio di primo livello per l'utilizzo. |
@@ -88,3 +88,8 @@ In questo argomento viene illustrato come leggere i file di riconciliazione dell
 | EntitlementId | Rappresenta l'ID sottoscrizione di Azure. |
 | EntitlementDescription | Rappresenta il nome dell'ID sottoscrizione di Azure. |
 | PartnerEarnedCreditPercentage | Visualizza il PartnerEarnedCredit per l'elemento della riga. Il credito guadagnato sarà 0 o 15% |
+
+>[!NOTE]
+>L'utilizzo giornaliero con classificazione giornaliera richiede 24 ore per essere visualizzato nel centro per i partner o accessibile tramite l'API.
+
+

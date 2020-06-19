@@ -5,18 +5,17 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: È importante conoscere i diversi rischi correlati alle transazioni online e le procedure consigliate per gestire e mitigare tali rischi.
-ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: frode, uso improprio, utilizzo accettabile, criteri di utilizzo accettabili, mancato pagamento, il cliente non pagherà fattura, rischi online, furto del servizio, abusi del servizio, Sospendi una sottoscrizione,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24a6d636ec4b0fb8aecc158f4750e471f1ca1a3a
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: f8ca1461ed8b71ea2e6c82603672f4029599b4cc
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998447"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991904"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestione di mancato pagamento, frode o uso improprio nel Centro per i partner
 

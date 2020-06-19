@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Informazioni dettagliate sul centro per i partner, report, scaricare report
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d97e21c8ca68f2a93bec949f948d24726d9f6231
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 3e1b816f2611507370dcf1a120c84d26a1e13bd9
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84793177"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072444"
 ---
 # <a name="download-reports"></a>Scarica report
 
@@ -37,7 +37,8 @@ Per generare un report, selezionare innanzitutto il report dall'elenco a discesa
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="Report generati":::
 
->Si noti Solo gli utenti che sono visualizzatori di report esecutivi possono scaricare i report. Per altre informazioni sull'accesso basato sui ruoli ai report del dashboard Insights, vedere [ruoli PCI](pci-roles.md). 
+>[!NOTE] 
+>Solo gli utenti che sono visualizzatori di report esecutivi possono scaricare i report. Per altre informazioni sull'accesso basato sui ruoli ai report del dashboard Insights, vedere [ruoli PCI](pci-roles.md). 
 
 ## <a name="available-reports"></a>Report disponibili
 

@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 description: Assicurarsi che l'account del centro per i partner sia accreditato per la ritenuta fiscale creando una richiesta di ritenuta fiscale nel centro per i partner.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: ritenuta di crediti fiscali, crediti fiscali, modulo di credito fiscale tedesco, certificati fiscali
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e4cb4b1dde35caca153e37de5a07f947f6da158e
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 7fa10b20d7d7b3c89726fd08b3dd5dbaa1b89cbb
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603850"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991662"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Assicurarsi di aver ricevuto un accredito per le imposte ritenute se si paga un'autorità fiscale locale anziché Microsoft
 

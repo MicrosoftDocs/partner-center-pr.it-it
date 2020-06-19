@@ -5,17 +5,16 @@ ms.date: 04/28/2020
 description: Scopri i vantaggi, le restrizioni e le procedure per richiedere un credito di contratto di servizio (SLA) a Microsoft qualora i clienti dovessero riscontrare un'interruzione del servizio.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 328051d69f2dfd869cca8c80de595b2e27c9a1af
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 27a444bc5f923b1d2ad18bfe47cf70b365751e42
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907872"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992008"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Come e quando richiedere un contratto di servizio (SLA) a livello di servizio da Microsoft
 

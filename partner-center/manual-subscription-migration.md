@@ -5,18 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come eseguire la migrazione da sottoscrizioni di base dinamiche 365 qualificate a una nuova sottoscrizione prima della scadenza delle sottoscrizioni esistenti.
-ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 Keywords: Dynamics 365 offers, Renew offers, New Dynamics 365 SKU
-ms.openlocfilehash: cac5717a1f7b27537faa694dcf665a69a7226483
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 1fb7a58d3c777f39bdd3594d6d2bc0be04fbf573
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795997"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992096"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Eseguire la migrazione di Dynamics 365 ed Enterprise Plan da Basic (qualificate offerte) alle versioni più recenti
 
@@ -101,7 +100,7 @@ Il cliente avrà ora la sottoscrizione precedente e quella nuova. Il passaggio s
 2. Selezionare **utenti e licenze**.
 3. Per riassegnare una licenza a un utente, selezionare l'utente e quindi selezionare **Gestisci licenze**. 
 4. Nella pagina **Gestisci licenze** deselezionare la casella di controllo Dynamics 365 per il piano Sales/Customer Engagement dalla licenza Basic (offerta qualificata) e selezionare un nuovo piano di servizio per la sottoscrizione a cui il cliente sta migrando. 
-5. Selezionare **Invia**. Questa operazione verrà eseguita per ogni utente che richiede la nuova licenza. 
+5. Selezionare **Submit** (Invia). Questa operazione verrà eseguita per ogni utente che richiede la nuova licenza. 
 
 Dopo aver spostato le licenze nella nuova sottoscrizione, è possibile annullare la sottoscrizione precedente. 
 

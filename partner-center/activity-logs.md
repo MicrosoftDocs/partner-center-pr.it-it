@@ -5,18 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come visualizzare ed esportare i log attività per ottenere informazioni sulle transazioni degli account del cliente e altre attività di gestione dei partner correlate ai clienti.
-ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: LauraBrenner
 ms.author: labrenne
 Keywords: log attività, sottoscrizione, sottoscrizione, pagamenti, fatturazione, transazioni
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ec37ded4c37972884f5d7eaf906792ec46e33af
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: cfef9a4e6c68496ffbe9e9f6abc25629e2d2eb73
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794974"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991164"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Visualizzare o esportare i log attività del cliente per ottenere informazioni più dettagliate sulle transazioni dei clienti
 
@@ -29,7 +28,7 @@ ms.locfileid: "83794974"
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore fatturazione
+- Amministratore della fatturazione
 - Amministratore gestione utenti
 - Agente amministratore
 - Agente di vendita

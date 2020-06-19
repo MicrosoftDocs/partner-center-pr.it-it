@@ -5,22 +5,21 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vedere i paesi, le aree e le valute in cui è possibile vendere le offerte CSP, in base alla posizione della società.
-ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: LauraBrenner
 ms.author: labrenne
 keywords: Mercati CSP, territori, dove è possibile vendere tramite CSP, offerte CSP, aree, vendere soluzioni cloud, CSP globale
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d7d67bded18dfacd568d23e61d165de0be68f0f
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4a4d70252d1baebd1bade6182218d4b3198825f3
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467431"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991816"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programma mercati e valute internazionali in cui è possibile vendere offerte CSP
 
-La posizione dell'azienda determina il tuo mercato, Il mercato include le aree e/o i paesi in cui è possibile vendere offerte di programma Cloud Solution Provider (CSP).
+La posizione dell'azienda determina il mercato. Il mercato include le aree e/o i paesi in cui è possibile vendere offerte di programma Cloud Solution Provider (CSP).
 
 Se, ad esempio, la società si trova nella Stati Uniti, è possibile vendere le offerte CSP ai clienti negli Stati Uniti e negli Stati Uniti. Se la società si trova in Brasile, è possibile vendere le offerte CSP ai clienti solo in Brasile. Se la società si trova nell'area Africa, è possibile vendere le offerte CSP ai clienti in tutti i 18 paesi dell'area Africa.
 
@@ -57,7 +56,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 | Comore                  |   USD    |
 | Congo                    |   USD    |
 | Congo (RDC)              |   USD    |
-| Côte d'Ivoire (Costa d'Avorio)            |          |
+| Côte d’Ivoire (Costa d'Avorio)            |          |
 | Gibuti                 |   USD    |
 | Guinea Equatoriale        |   USD    |
 | Eritrea                  |   USD    |
@@ -133,7 +132,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Figi                  |   AUD    |
 |  Terre Australi Francesi| AUD |
 |  Guam                  |  AUD     |
-|  Heard e McDonald| AUD |
+|  Isole Heard e McDonald| AUD |
 |  Kiribati              |   AUD    |
 |  Isole Marshall      |   AUD    |
 |  Micronesia            |   AUD    |
@@ -206,7 +205,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Lituania      |   EUR    |
 |  Lussemburgo     |   EUR    |
 |  Malta          |          |
-|  Monaco         |          |
+|  Principato di Monaco         |          |
 |  Paesi Bassi    |   EUR    |
 |  Norvegia         |   NOK    |
 |  Polonia         |   EUR    |
@@ -274,7 +273,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Costa Rica     |   USD    |
 |  Curaçao        |   USD    |
 |  Dominica       |  USD     |
-|  Repubblica Dominicana| USD   |
+|  Repubblica dominicana| USD   |
 |  Ecuador        |   USD    |
 |  El Salvador    |   USD    |
 |  Isole Falkland|  USD    |
@@ -282,7 +281,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Grenada        |   USD    |
 |  Guadalupa     |          |
 |  Guatemala      |   USD    |
-|  Guyana         |   USD    |
+|  Guiana         |   USD    |
 |  Haiti          |   USD    |
 |  Honduras       |   USD    |
 |  Giamaica        |   USD    |
@@ -322,7 +321,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Algeria        |          |
 |  Armenia        |   USD    |
 |  Azerbaigian     |   USD    |
-|  Bahrein        |   USD    |
+|  Bahrain        |   USD    |
 |  Bielorussia        |   USD    |
 |  Bosnia ed Erzegovina|    |
 |  Territorio britannico dell'Oceano indiano|   USD   |
@@ -351,7 +350,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Qatar          |   USD    |
 |  Arabia Saudita   |   USD    |
 |  Serbia         |   USD    |
-|  Sudafrica   |   USD    |
+|  Sud Africa   |   USD    |
 |  Swaziland      |   USD    |
 |  Tagikistan     |          |
 |  Tunisia        |   USD    |
@@ -372,7 +371,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  -------------- |:--------:|
 |  Samoa americane |   NZD    |
 |  Nuova Zelanda    |   NZD    |
-|  Samoa          |   NZD    |
+|  Isole Samoa          |   NZD    |
 |  Vanuatu        |   NZD    |
 |
 

@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 36efc58198be67181ed448d90db505889c3070d4
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679308"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072421"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installare e visualizzare in anteprima l'app Analisi del Centro per i Partner per Microsoft Power BI
 
@@ -62,7 +62,7 @@ Prima di installare la versione di anteprima dell'app partner Center Analytics, 
 
 5. Nella pagina successiva immettere il nome utente e la password Power BI e quindi selezionare Accedi.
 
-6. Installare l'area di lavoro fornendo l'area di lavoro.
+6. Installare l'area di lavoro fornendo il nome dell'area di lavoro.
 
 7. È possibile trovare le app modello installate nella sezione app.
 

@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 description: Informazioni sulla fattura & i file di riconciliazione. La fattura Mostra i costi del centro per i partner per il programma, i prodotti e i clienti per tale periodo mensile.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: fatturazione della sottoscrizione, fatturazione, fatturazione nel centro per i partner, fatturazione del centro per i partner, lettura fattura, fattura, fattura del centro partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab5e9667b766566e3af4ddd524805ff31dfc2a59
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: df330ce2e66cf198ce97919c02a15eb7a50f6486
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467461"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991880"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprendere la fattura e il file di riconciliazione: informazioni su come trovarli nel centro per i partner
 

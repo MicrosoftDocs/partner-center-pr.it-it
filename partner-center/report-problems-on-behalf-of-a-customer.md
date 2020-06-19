@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sui casi in cui è opportuno inoltrare un problema del servizio clienti a Microsoft e come archiviare un ticket di supporto.
-ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: LauraBrenner
 ms.author: labrenne
 Keywords: richiesta di servizio, ticket di servizio, supporto, diritto al supporto, AOBO, AOBO di Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf4dcadceeb6d16661faf0c458277f51833c55eb
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4a2378c947f9b871ec9cba104136fcede72f0f72
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467381"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992045"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Segnala un problema del servizio per conto di un cliente, incluse le attività e le modalità di esecuzione
 

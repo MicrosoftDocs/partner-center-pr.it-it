@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni sui prezzi speciali e ridotti di Microsoft per determinati gruppi di clienti, inclusi i clienti dell'istruzione, i clienti senza scopo di lucro e gli utenti governativi.
-ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a1b8567263f8a105b3a3bc5b1d429715c9f3c38
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 2e8b03925b29901ed68482242e6340ebd0155c76
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467171"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991238"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vendi a settori specializzati come Education, no profit e utenti governativi
 
@@ -35,8 +34,8 @@ Microsoft offre prezzi speciali e ridotti per i gruppi di clienti selezionati, i
 
 |**Prezzo speciale**   |**Qualifiche richieste rivenditore**   |**Qualifiche richieste dal cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |nessuno   | Deve essere un [utente qualificato](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)per la formazione.   |
-|Enti governativi   |Per vendere Azure, effettuare la registrazione usando il [modulo di convalida del cloud Microsoft US Government](https://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenze per enti pubblici, non è necessaria alcuna qualifica.|   nessuno|
+|Formazione   |nessuno   | Deve essere un [utente qualificato](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)per la formazione.   |
+|Government   |Per vendere Azure, effettuare la registrazione usando il [modulo di convalida del cloud Microsoft US Government](https://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenze per enti pubblici, non è necessaria alcuna qualifica.|   nessuno|
 |No profit  |nessuno<br/> Deve avere un tenant di Azure Active Directory non profit.<br/> Scopri di più sulle [offerte speciali no profit](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Iscriversi al [programma Microsoft nonprofit](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Controllare le tue qualificazioni come rivenditore
@@ -75,7 +74,7 @@ Regole di acquisto per la vendita di offerte speciali ai clienti:
 |:----------------------------|:---------------------------------|:------------------------------------------|
 | Commerciale |Commerciale | Cloud della community non profit, Education o Government |
 | Senza scopo di lucro |Commerciale, senza scopo di lucro | Cloud della community Education o Government |
-| Education |Commerciale, istruzione | Cloud della community senza scopo di lucro o per enti pubblici |
+| Formazione |Commerciale, istruzione | Cloud della community senza scopo di lucro o per enti pubblici |
 | Cloud della community per enti pubblici |Cloud della community per enti pubblici | Senza scopo di lucro, istruzione o commerciale |
 
 ## <a name="next-steps"></a>Passaggi successivi

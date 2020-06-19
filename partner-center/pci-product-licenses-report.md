@@ -5,18 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Verifica il report licenze del prodotto e Scopri come migliorare i prodotti cloud con licenza (o basata su postazione) che Vendi o Gestisci per i tuoi clienti.
-ms.assetid: ''
 keywords: PCI, prestazioni, misure, successo dei clienti, sottoscrizioni cloud, analisi, report
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8da7e89ad498a81572d044bbb4526b6188c3bfbc
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: b9fe76602d9a258f8e8766d29ebc3c4fb75bb1f8
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679328"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908619"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Report licenze del prodotto nel dashboard di partner Center Insights
 

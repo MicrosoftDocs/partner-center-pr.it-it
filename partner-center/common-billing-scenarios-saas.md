@@ -3,18 +3,17 @@ title: Transazioni SaaS basate su licenze di fatturazione
 ms.topic: article
 ms.date: 05/05/2020
 description: Informazioni sugli scenari di fatturazione comuni nel centro per i partner per le transazioni SaaS basate su licenze.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: fatturazione, pagamenti, acquisto monouso, acquisto ricorrente, sottoscrizioni, postazioni
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02a50f5be3c19f179014fd7db4e1418ba025e874
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a25344e6a513c521e7f99e1bad3db9ec935159b3
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908188"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908799"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Scenari di fatturazione comuni per le transazioni SaaS basate su licenze nel centro per i partner
 
@@ -38,7 +37,7 @@ I file di ricognizione includeranno gli addebiti seguenti:
 
 | Data di acquisto | Data di inizio addebito | Data di fine addebito | Prezzo unitario | Quantità unità | Importo totale | Tipo di addebito | Descrizione della sottoscrizione |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 10/06/2019 | 10/06/2019 | 07/09/2019 | $ 0 | 1 | $ 0 | Nuova | Versione di prova gratuita |
+| 10/06/2019 | 10/06/2019 | 07/09/2019 | $ 0 | 1 | $ 0 | Nuovo | Versione di prova gratuita |
 | 07/10/2019 | 07/10/2019 | 09/08/2019 | $ 2 | 1 | $ 2 | Renew | Sottoscrizione a pagamento |
 
 ## <a name="cancel-a-free-trial-saas-subscription"></a>Annulla una sottoscrizione SaaS per la versione di valutazione gratuita
@@ -52,7 +51,7 @@ Il file di ricognizione includerà gli addebiti seguenti:
 
 | Data di acquisto | Data di inizio addebito | Data di fine addebito | Prezzo unitario | Quantità unità | Importo totale | Tipo di addebito | Descrizione della sottoscrizione |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 10/06/2019 | 10/06/2019 | 07/09/2019 | $ 0 | 11 | $ 0 | Nuova | Versione di prova gratuita |
+| 10/06/2019 | 10/06/2019 | 07/09/2019 | $ 0 | 11 | $ 0 | Nuovo | Versione di prova gratuita |
 | 10/06/2019 | 10/06/2019 | 07/09/2019 | $ 0 | 11 | $ 0 | Annulla | Versione di prova gratuita |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Convertire una sottoscrizione SaaS per il contatore personalizzato in un altro SKU
@@ -65,7 +64,7 @@ Il file di ricognizione includerà gli addebiti seguenti:
 
 | Data di acquisto | SKU | Data di inizio addebito | Data di fine addebito | Prezzo unitario | Quantità unità | Importo totale | Tipo di addebito | Descrizione della sottoscrizione |
 | ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 10/06/2019 | Argento | 10/06/2019 | 10/06/2019 | $ 20 | 1 | $ 20 | Nuova | Sottoscrizione SaaS del contatore personalizzato |
+| 10/06/2019 | Argento | 10/06/2019 | 10/06/2019 | $ 20 | 1 | $ 20 | Nuovo | Sottoscrizione SaaS del contatore personalizzato |
 | 10/06/2019 | Argento | 10/06/2019 | 10/06/2019 | $ 20 | 1 | -$20 | Conversione | Rifatturato in base alla sottoscrizione SaaS personalizzata del contatore |
 | 10/06/2019 | Bronzo | 10/06/2019 | 10/06/2019 | $10 | 1 | $10 | Conversione | Sottoscrizione SaaS del contatore personalizzato |
 
@@ -77,5 +76,5 @@ In questo scenario è stata acquistata una sottoscrizione SaaS personalizzata Me
 
 | Data di acquisto | SKU | Data di inizio addebito | Data di fine addebito | Prezzo unitario | Quantità unità | Importo totale | Tipo di addebito | Descrizione della sottoscrizione |
 | ------------- | ------------- |----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 10/06/2019 | Bronzo | 10/06/2019 | 10/06/2019 | $10 | 1 | $10 | Nuova | Sottoscrizione SaaS del contatore personalizzato |
+| 10/06/2019 | Bronzo | 10/06/2019 | 10/06/2019 | $10 | 1 | $10 | Nuovo | Sottoscrizione SaaS del contatore personalizzato |
 | 10/06/2019 | Bronzo | 10/06/2019 | 10/06/2019 | $10 | 1 | -$10 | CancelImmediate | Sottoscrizione SaaS del contatore personalizzato |

@@ -1,7 +1,7 @@
 ---
 title: Partner Center Insights-report cliente
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i modi per migliorare la tua attività. Vedere le tendenze specifiche del cliente per geografia, per prodotto e per altri attributi.
@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c46b77a8c2147ae62b0609b167753a591f89dd4
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 25659c32486629c8b19696c486bb89be54b9ad15
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452998"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909069"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Report del dashboard dei clienti dal centro per i partner Insights
 
@@ -42,16 +42,16 @@ La sezione Riepilogo presenta una visualizzazione snapshot dei diversi indicator
 - Rifiuta il% dei clienti durante l'intervallo di date selezionato 
 - Micro Chart presenta la tendenza mensile per i clienti nell'intervallo di date selezionato
 
-:::image type="content" source="images/pci/customerproduct.png" alt-text="clienti per prodotto":::
+  :::image type="content" source="images/pci/customerproduct.png" alt-text="Screenshot del dashboard di riepilogo dei clienti Mostra i grafici a barre e i numeri dei clienti attivi, aggiunti di recente, persi/varianza o prodotti specifici.":::
 
 **Clienti attivi**:
 
-- Conteggio corrente dei clienti con qualsiasi utilizzo attivo del prodotto, ad esempio l'utilizzo attivo in uno qualsiasi dei prodotti cloud. 
+- Conteggio corrente dei clienti con qualsiasi utilizzo attivo del prodotto, ad esempio l'utilizzo attivo in uno qualsiasi dei prodotti cloud.
 - Aumento o riduzione del% dei clienti attivi durante il periodo di tempo selezionato-il grafico micro presenta una tendenza mensile del numero di clienti attivi nell'intervallo di date selezionato.
 Clienti aggiunti:
 - Numero di tutti i clienti aggiunti durante il periodo di tempo selezionato.
-- Aumento o riduzione percentuale dei clienti aggiunti durante l'intervallo di sate selezionato 
-- Micro Chart presenta la tendenza di mese per mese dei clienti aggiunti nell'intervallo di date selezionato 
+- Aumento o riduzione percentuale dei clienti aggiunti durante l'intervallo di sate selezionato.
+- Micro Chart presenta la tendenza di mese per mese dei clienti aggiunti nell'intervallo di date selezionato.
 
 **Clienti con varianza**:
 - Conteggio di tutti i clienti con varianza ogni mese durante il periodo di tempo selezionato. Un cliente viene considerato perduto se il cliente non dispone di una singola sottoscrizione con lo stato attivo. 
@@ -65,13 +65,13 @@ Clienti aggiunti:
 
 Il numero dei clienti correnti, dei clienti attivi correnti e dei clienti appena aggiunti durante l'intervallo di date selezionato viene mappato geograficamente usando il paese del cliente. Le percentuali visualizzate sotto la metrica indicano il contributo percentuale di tale paese del totale per la metrica. È possibile passare il mouse sulla mappa per visualizzare i clienti totali, attivi e nuovi per quel paese. È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione della mappa. Ripristinare la visualizzazione originale selezionando il pulsante **Home** sulla mappa. Tutte le colonne della griglia sono ordinabili.  
 
-:::image type="content" source="images/pci/customersgeo.png" alt-text="clienti per geografia":::
+:::image type="content" source="images/pci/customersgeo.png" alt-text="Screenshot del report dei clienti di partner Center Insights per geografia Mostra la mappa globale e l'elenco dei clienti totali, aggiunti e nuovi in base all'area.":::
 
 **Aggiunta e varianza del cliente**
 
 Tendenza dei clienti con suddivisione in nuovi, esistenti e in varianza per l'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il conteggio dei clienti. I clienti con varianza sono rappresentati sulla scala negativa dell'asse Y. L'istogramma a colonne in pila presenta il disfacimento dei clienti nuovi, esistenti e con varianza per il mese. È possibile ricompilare l'istogramma con elementi dello stack specifici selezionando quelli nella legenda. È possibile utilizzare il dispositivo di scorrimento nella parte superiore del grafico per eseguire lo zoom avanti su un periodo specifico. 
 
-:::image type="content" source="images/pci/customerslost.png" alt-text="clienti persi":::
+:::image type="content" source="images/pci/customerslost.png" alt-text="Screenshot del report dei clienti di partner Center Insights con il grafico a barre indica il numero di clienti aggiunti e persi o ripartiti in un periodo di tempo specifico.":::
 
 **Distribuzione dei clienti**
 
@@ -81,19 +81,19 @@ Suddivisione dei clienti correnti in base alle località MPN, ai segmenti di cli
 
 Suddivisione dei clienti correnti per i prodotti e gli SKU/piani. Selezionare un prodotto nel grafico a torta a rottura prodotto per visualizzare la suddivisione in base agli SKU e ai piani nel grafico accanto.
 
-:::image type="content" source="images/pci/customerbyprod.png" alt-text="clienti per prodotto":::
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="Screenshot del rapporto clienti per prodotto Mostra due grafici radiali: uno con suddivisione dei clienti per prodotto, l'altro con suddivisione dei clienti per SKU.":::
 
 **Tendenza della distribuzione dei clienti** 
 
 Tendenza mensile della distribuzione dei clienti durante l'intervallo di date selezionato per mercati, segmenti, percorsi MPN e prodotti acquistati. Fare clic sulle rispettive schede nel grafico per visualizzare la tendenza in base a queste categorie. L'asse X rappresenta i mesi per l'intervallo di date selezionato e l'asse Y ha il numero di clienti per la categoria selezionata (selezione scheda). È possibile passare il mouse sulle colonne del grafico per visualizzare il disfacimento dei valori di ogni stack. È possibile utilizzare il dispositivo di scorrimento nella parte superiore del grafico per eseguire lo zoom avanti su un periodo specifico.   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text="distribuzione dei clienti":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="Screenshot del report tendenza distribuzione clienti che mostra i grafici a barre che è possibile visualizzare in base al mercato, al segmento, alla località del partner o ai prodotti.":::
 
 **Clienti attivi**
 
 Grafico di tendenza mensile che confronta i clienti attivi e totali per l'intervallo di date selezionato. Le colonne rappresentano i conteggi dei clienti attivi ogni mese e la riga rappresenta i clienti totali ogni mese. 
 
-:::image type="content" source="images/pci/activecustomer.png" alt-text="clienti attivi":::
+:::image type="content" source="images/pci/activecustomer.png" alt-text="Screenshot del report dei clienti attivi di partner Center Insights che mostra i grafici a barre nel tempo dei clienti attivi.":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 

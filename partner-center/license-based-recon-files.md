@@ -3,17 +3,16 @@ title: File di riconciliazione in base alle licenze
 ms.topic: article
 ms.date: 05/18/2020
 description: Informazioni su come leggere i file di riconciliazione basati sulle licenze nel centro per i partner. Questo articolo illustra il significato di ogni campo nel file di ricognizione basato sulle licenze.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86b3a099f6fe3948b9cb1ca707d43f776f66ca16
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 7ce9400c3672ff09997321b2e55f46daf102ebbd
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795776"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909049"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Informazioni sui campi nei file di riconciliazione basati su licenze per il centro per i partner
 

@@ -1,19 +1,17 @@
 ---
-title: Unione dell'account partner con un altro account partner
-ms.topic: article
-ms.date: 06/12/2020
+title: Unire l'account partner con un altro account partner
 description: Le aziende che sono partner Microsoft attivi nel centro per i partner possono unire i propri account.
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
+ms.topic: article
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03689f250f86a2abdedbcd062766020b15520108
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.date: 06/12/2020
+ms.openlocfilehash: 479b22e3b9666184a1dc2f75ba1f36f721d31445
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788687"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909034"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unire l'account partner con un altro account partner
 
@@ -35,7 +33,7 @@ Due o più società che sono partner Microsoft attivi e dispongono di account ne
 
 - Tutti gli ID MPN per le posizioni vengono conservati durante questo consolidamento.
 
-- I ruoli dell'utente vengono riportati. Ad esempio, se un utente fosse l'amministratore degli incentivi per una località specifica, avrebbe ancora questo ruolo dopo la fusione e sarà in grado di vedere gli incentivi che ha visto prima della fusione.
+- I ruoli dell'utente vengono riportati. Se, ad esempio, un utente è stato l'amministratore di incentivi per una località specifica, avrà ancora tale ruolo dopo la fusione e potrà visualizzare gli incentivi che hanno visto prima della fusione.
 
 - Azure AD tenant e gli account CSP non vengono Uniti e non hanno alcun effetto.
 
@@ -43,8 +41,7 @@ Due o più società che sono partner Microsoft attivi e dispongono di account ne
 
 ### <a name="view-of-merged-accounts"></a>Visualizzazione degli account Uniti
 
-
-:::image type="content" source="images/AccountMerge-graphic.png" alt-text="Unione degli account":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Unione degli account":::
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Cosa aspettarsi se si è stati invitati a unire l'account del centro per i partner con un altro account del centro per i partner
 
@@ -62,11 +59,11 @@ Se si decide di accettare l'invito per l'Unione degli account: · Gli ID e le lo
 
 - Durante la fusione degli account e fino al successivo rinnovo, ogni account manterrà i vantaggi Action Pack e/o le competenze. Al rinnovo, si applicano le regole di rinnovo di Action Pack e competenze standard.
 
-- Al momento del rinnovo, i vantaggi inclusi nel raggiungimento delle competenze e Action Pack vengono implementati per l'account globale del partner della società partner: 
+- Al momento del rinnovo, i vantaggi inclusi nel raggiungimento delle competenze e Action Pack vengono implementati per l'account globale del partner della società partner:
 
-    • Microsoft Action Pack: la società partner potrà acquistare una Action Pack per ogni account globale del partner.
+  - Microsoft Action Pack: la società partner sarà in grado di acquistare una Action Pack per ogni account globale del partner.
 
-    • Competenza: la società partner riceverà un pacchetto di vantaggi di base, associato al raggiungimento più elevato, oltre a vantaggi specifici per la competenza. il partner è idoneo per l'account globale per partner. 
+  - Competenza: la società partner riceverà un pacchetto di vantaggi di base, associato al raggiungimento più elevato, oltre a vantaggi specifici per la competenza, il partner è idoneo per l'account globale per partner.
 
 - Tutti i vantaggi sono soggetti alla [Guida all'utilizzo di Microsoft Partner Network benefits](https://aka.ms/partner-benefits-use-guide). Ad esempio, un token O365 E3 attivato è funzionante per dodici (12) mesi dopo l'attivazione. Una volta che un token è stato attivato per le postazioni in un tenant, è possibile che tali postazioni non vengano spostate in un altro tenant.
 

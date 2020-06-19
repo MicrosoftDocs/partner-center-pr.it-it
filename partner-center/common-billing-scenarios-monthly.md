@@ -3,18 +3,17 @@ title: Scenari comuni di fatturazione mensile
 ms.topic: article
 ms.date: 05/13/2020
 description: "Scenari comuni nel centro per i partner quando si usa la fatturazione mensile: include l'aggiunta di nuove sottoscrizioni, la modifica della quantità di licenze e la sospensione delle sottoscrizioni."
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: fatturazione, pagamenti, ordini, utilizzo, fatturazione mensile, sottoscrizioni, file di riconciliazione
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c51e6dfa2471570f30b1b957317bff1e6081bb79
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9da060e1c8b0a9d2f0a5de0987ccb4ea1e167b7c
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795620"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908879"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Scenari di fatturazione mensile di esempio per nuove sottoscrizioni, modifica degli importi di licenze o sospensioni
 

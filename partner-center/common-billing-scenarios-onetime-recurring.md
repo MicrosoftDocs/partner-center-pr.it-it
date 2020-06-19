@@ -3,18 +3,17 @@ title: Fatturazione per una sola volta & acquisti ricorrenti
 ms.topic: article
 ms.date: 05/05/2020
 description: 'Vedere gli esempi di fatturazione per il centro per i partner per una sola volta e selezionare gli acquisti ricorrenti: quando si acquistano sottoscrizioni, aggiungere altre sottoscrizioni, aggiungere o rimuovere postazioni.'
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: fatturazione, pagamenti, acquisto monouso, acquisto ricorrente, sottoscrizioni, postazioni
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c3467fdbe8457a7068a49000bd635b7c464cf29
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 334a670733c4194b89e942cbcea185791e88693b
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908198"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908869"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Scenari di fatturazione per il centro per i partner per una sola volta e selezionare gli acquisti ricorrenti
 
@@ -39,7 +38,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito** |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Amount** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |1                 |$ 4            |Nuova         |
+|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |1                 |$ 4            |Nuovo         |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |1        | $ -4       |addQuantity           |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        | 2      |$ 8         |addQuantity           |
 
@@ -55,7 +54,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito** |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Amount** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019 (una licenza)     |10/6/2019   |9/7/2019         |$ 4         |1        |$ 4            |Nuova         |
+|11/6/2019 (una licenza)     |10/6/2019   |9/7/2019         |$ 4         |1        |$ 4            |Nuovo         |
 |12/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |1        | $ -3,87       |addQuantity           |
 |12/6/2019     | 10/6/2019    |9/7/2019        |$ 4        | 2      |$ 7,74       |addQuantity           |
 
@@ -71,7 +70,7 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito** |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Amount** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |2                 |$ 8            |Nuova         |
+|11/6/2019      |10/6/2019   |9/7/2019         |$ 4                |2                 |$ 8            |Nuovo         |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |2        | -$ 8       |removeQuantity           |
 |11/6/2019     | 10/6/2019    |9/7/2019        |$ 4        | 1      |$ 4         |removeQuantity           |
 
@@ -87,6 +86,6 @@ Il file di riconciliazione includerà quanto segue:
 
 |**Data di acquisto**   |**Inizio addebito** |**Fine addebito**  |**Prezzo unitario**  |**Quantità**  |**Amount** |**Tipo di addebito** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/6/2019 (due licenze)     |10/6/2019   |9/7/2019         |$ 4         |2        |$ 8       |Nuova       |
+|11/6/2019 (due licenze)     |10/6/2019   |9/7/2019         |$ 4         |2        |$ 8       |Nuovo       |
 |12/6/2019     | 10/6/2019    |9/7/2019        |$ 4        |2        | $ -7,74       |removeQuantity           |
 |12/6/2019 (una licenza)    | 10/6/2019    |9/7/2019   |$ 4    |1      |$ 3,87    |removeQuantity |

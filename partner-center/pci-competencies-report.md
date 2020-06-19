@@ -5,18 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri cosa stai facendo bene e dove puoi migliorare le competenze Microsoft, i livelli di competenza e le offerte per offrire soluzioni Microsoft.
-ms.assetid: ''
 keywords: PCI, prestazioni, misure, successo dei clienti, competenze, vantaggi, analisi, report
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 99eda121ac876be0d753b7d7f147b054562a844d
-ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
+ms.openlocfilehash: e836a9d5c51796edf76844342fb9bc68fcfacd69
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84776288"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909079"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Report sulle competenze disponibile dal dashboard di partner Center Insights
 

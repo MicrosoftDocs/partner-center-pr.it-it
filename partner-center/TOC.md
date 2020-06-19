@@ -24,6 +24,7 @@
 ## Vantaggi
 ### [Panoramica sui vantaggi](manage-your-partner-network-benefits.md)
 ### [Vantaggi di commercializzazione](mpn-learn-about-go-to-market-benefits.md)
+### [Domande frequenti sui vantaggi](benefits-faq.md)
 ## [Marketplace Rewards](marketplace-rewards.md)
 ## [Programmi di Software Assurance](software-assurance-lp.md)
 ### [Programma SATV (Software Assurance Training Voucher) nel Centro per i partner](software-assurance-satv.md)
@@ -198,6 +199,7 @@
 ### [Insights - Dashboard sottoscrizioni prodotto](pci-product-subscriptions-report.md)
 ### [Insights - Dashboard licenze prodotto](pci-product-licenses-report.md)
 ### [Insights - Dashboard utilizzo Azure](pci-azure-usage-report.md)
+### [Insights - Dashboard per il training](pci-training-dashboard.md)
 ### [Insights - Report competenze](pci-competencies-report.md)
 ### [Insights - Report vantaggi](pci-benefits-report.md)
 ### [Insights - Problemi noti](pci-known-issues.md)

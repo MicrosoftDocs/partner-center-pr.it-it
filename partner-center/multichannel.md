@@ -2,19 +2,19 @@
 title: Supporto multicanale per i clienti
 description: In alcuni casi, i clienti potrebbero voler assumere il provisioning e supportare una sottoscrizione acquistata altrove.
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7cc155505846a0ccf57e01eea7cf090e1e52238
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: b13bf888f78f16c426bfe3016fd0b3c180eb12ab
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991926"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104104"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Supporto multicanale-uso di altri partner per supportare le sottoscrizioni dei clienti acquistate altrove
 
@@ -35,8 +35,8 @@ La funzionalità multicanale del centro per i partner supporta scenari in cui un
 
 - Sono state acquistate le sottoscrizioni di terze parti non nel programma Cloud Solution Provider o non un partner di diffusione Microsoft. I clienti non possono passare le sottoscrizioni esistenti basate su licenze a un partner diverso nel programma Cloud Solution Provider. devono attendere fino al termine del periodo di sottoscrizione o annullare prima di procedere.
 
-| | |
-|---------|---------|
+|Per supportare questi servizi  | Eseguire questa operazione: |
+|:---------|:---------|
 |Servizi basati su licenza    | Per fornire supporto per gli account multicanale, è necessario richiedere le autorizzazioni del cliente per gestire le sottoscrizioni. Per ulteriori informazioni, vedere [richiedere una relazione del rivenditore con un cliente](request-a-relationship-with-a-customer.md).   |
 |Servizi in base all'uso     |  Per un cliente che ha già una sottoscrizione di Microsoft Azure da un altro canale, ad esempio Advisor, Open o EA, è necessario creare una nuova sottoscrizione di Azure nel centro per i partner, immettere manualmente i dettagli della sottoscrizione e quindi annullare i singoli servizi o l'intera sottoscrizione. Azure CSP può coesistere con canali diversi.<br/><br/> Per un cliente che ha già una sottoscrizione di Microsoft Azure da un altro partner, ad esempio, è possibile passare i servizi di Azure all'altro partner.  Per altre informazioni, vedi [Passare le sottoscrizioni Azure a un altro partner](switch-azure-subscriptions-to-a-different-partner.md) |
 

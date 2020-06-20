@@ -1,7 +1,7 @@
 ---
 title: Acquistare Microsoft Azure prenotazioni per i clienti
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Scopri come acquistare o acquistare prenotazioni di Azure per conto dei tuoi clienti nel centro per i partner.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure, prenotazioni, gestione, fatturazione, acquisto
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 25ff9ac88876b11d76a60db6cf4e471d230dd6f3
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603720"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104115"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare Microsoft Azure prenotazioni per conto dei clienti nel centro per i partner
 
@@ -55,10 +55,12 @@ Esaminare le informazioni importanti riportate di seguito prima di acquistare pr
 
 ## <a name="azure-reservations-unavailable-markets"></a>Mercati non disponibili per prenotazioni di Azure
 
->[!IMPORTANT] 
->Le prenotazioni di Azure *non sono* disponibili nei mercati seguenti:  
+> [!IMPORTANT]
+> Le prenotazioni di Azure **non sono** disponibili nei mercati seguenti:  
 >  
-> | Mercati non disponibili | &nbsp; | &nbsp; |
+> **Mercati non disponibili (in ordine alfabetico)**
+>
+> |Da a a gi   | Da gr a PAL  | Da PAP a Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Isole Åland     | Groenlandia     | Papua Nuova Guinea     |
 > | Samoa Americane     | Grenada     | Isole Pitcairn     |

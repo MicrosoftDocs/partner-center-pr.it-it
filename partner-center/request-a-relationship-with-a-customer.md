@@ -1,19 +1,19 @@
 ---
 title: Richiedere una relazione con un cliente
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Richiedere una relazione con un cliente per scenari multicanale e multicanale o se è necessario ripristinare i privilegi amministrativi delegati per un cliente.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 529881017969a4d7262086eb6b3f47e77de3f7e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992020"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104095"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Come richiedere una relazione del rivenditore da un cliente nel centro per i partner
 
@@ -56,7 +56,7 @@ Se si desidera stabilire una relazione del rivenditore con un cliente e gestire 
 
 L'esperienza del cliente per l'accettazione di un invito alle relazioni rivenditore da un partner Cloud Solution Provider è ospitata da portali diversi per i clienti. Il percorso del portale dipende dal fatto che un cliente si trovi in un cloud pubblico Microsoft o in un cloud nazionale:
 
-|  | Dove un cliente accetta un invito alla relazione Reseller? |
+|Tipi di clienti cloud  | Dove un cliente accetta un invito alla relazione Reseller? |
 |---------|---------
 | Clienti nel cloud pubblico | Interfaccia di amministrazione di Microsoft 365 |
 | Clienti nel centro per i partner per Microsoft Cloud Germania | Portale di amministrazione di Microsoft Office |

@@ -1,7 +1,7 @@
 ---
 title: Vendere i clienti Microsoft Azure prenotazioni
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Come provider di soluzioni cloud, è possibile acquistare, vendere o gestire prenotazioni di Azure per i clienti. Usare il centro per i partner, il portale di Azure o l'API del centro per i partner.
@@ -10,16 +10,14 @@ ms.author: labrenne
 keywords: Azure, prenotazioni, gestione, fatturazione, acquisto, Azure RI, istanze riservate di Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19c156f0b47ccb39bc678cdd2ae9cce9db5c5ebd
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 5393e757b209de5a7df22b35a0cee0703419bef4
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908294"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198639"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Vendere Microsoft Azure prenotazioni ai clienti tramite il centro per i partner, l'portale di Azure o le API
-
-<!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 
 **Si applica a**
 
@@ -56,7 +54,7 @@ Le prenotazioni di Azure possono ricorrere ai clienti nei modi seguenti:
 
 |**Per informazioni su**   |**Leggi**    |
 |:-----------------------------|:-----------------|
-| Documentazione per le prenotazioni di Azure per i clienti | [Cosa sono le prenotazioni di Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+| Documentazione per le prenotazioni di Azure per i clienti | [Che cosa sono le prenotazioni di Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |Acquisto di prenotazioni di Azure per i clienti nel centro per i partner   |[Acquista prenotazioni di Azure](azure-reservations-buying.md)
 |Gestione delle prenotazioni di Azure nel centro per i partner | [Gestione delle prenotazioni di Azure nel centro per i partner](azure-reservations-manage.md)
 |Determinare le dimensioni corrette della macchina virtuale e verificare l'utilizzo della macchina virtuale del cliente   |[Dimensionamento delle VM per l'utilizzo massimo della prenotazione di Azure](azure-usage.md)   |

@@ -125,16 +125,16 @@
 ## [Gestire pagamenti non allocati](unallocated-payment.md)
 
 # [Entrare in contatto con i clienti](customer-accounts.md)
-## [Aggiungere un nuovo cliente](add-a-new-customer.md)
+## [Aggiungi un nuovo cliente](add-a-new-customer.md)
 ## [Trovare il nome di dominio e l'ID di directory del cliente](find-customer-domain-name.md)
-## [Richiedere una relazione come rivenditore con un cliente](request-a-relationship-with-a-customer.md)
+## [Richiedi una relazione come rivenditore con un cliente](request-a-relationship-with-a-customer.md)
 ## [Rimuovere una relazione come rivenditore con un cliente](remove-a-relationship.md)
 ## [I clienti delegano o revocano privilegi amministrativi ai partner](customers-revoke-admin-privileges.md) 
 ## [Visualizzare l'elenco dei clienti](see-your-customer-list.md)
 ## [Visualizzare i log attività dei clienti](activity-logs.md)
 ## [Aggiornare le informazioni degli account dei clienti](update-customer-account-info.md)
 ## [Consentire ai clienti di acquistare i propri servizi](give-customers-permission.md)
-## [Creare più utenti per un cliente](adding-multiple-users-to-a-customer-account.md)
+## [Crea più utenti per un cliente](adding-multiple-users-to-a-customer-account.md)
 ## [Assegnare contatti di supporto](assign-support-contacts.md)
 
 # [Offerte CSP](csp-offers.md)
@@ -190,8 +190,9 @@
 ### [Eseguire la migrazione delle sottoscrizioni Kaizala Pro a Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # Dati e analisi nel Centro per i partner
-## [Acquisire dati e analizzare i dati aziendali](data-analysis-lp.md)
-## [App Analisi del Centro per i Partner per Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Ottenere accesso alla raccolta e analisi dati del cliente](data-analysis-lp.md)
+## [Usare l'app di analisi del Centro per i partner per Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Uso dell'app di analisi del Centro per i partner per Microsoft Power BI](power-bi-app-for-direct-partners.md)
 ## [Insights del Centro per i partner](partner-center-insights.md)
 ### [Insights - Dashboard panoramica](pci-overview-report.md)
 ### [Insights - Controllo degli accessi in base al ruolo per il dashboard Insights](pci-roles.md)
@@ -236,7 +237,6 @@
 ## [Panoramica](partner-security-requirements.md)
 ## [Imposizione MFA per il tenant partner](partner-security-requirements-mandating-mfa.md) 
 ## [Stato conformità](partner-security-compliance.md)
+## [Implementare i requisiti di sicurezza per i partner](implement-security-requirements.md)
 ## [Domande frequenti](partner-security-requirements-faq.md)
 
-# Esercitazioni
-## [Implementazione dei requisiti di sicurezza per i partner](tutorials/partner-security-requirements.yml)

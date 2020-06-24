@@ -5,17 +5,16 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come il credito ottenuto dai partner (PEC) offre prezzi di Azure uniformi e semplificati, fornisce servizi gestiti a valore aggiunto e consente di eliminare la concorrenza sui margini.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ddc6302bb74c22d011ad75bdfc41a5a33e30d1c6
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 1da426156e3204becb01c48142329c5985b3eb3e
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328222"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908999"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Credito ottenuto dai partner: panoramica sul funzionamento della nuova esperienza commerciale in CSP
 

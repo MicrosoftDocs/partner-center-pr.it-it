@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6e188bbd86b066152f90be90d92abb2539f38b3
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328312"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749162"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Eseguire la preparazione per il passaggio da Partner Membership Center (PMC) al Centro per i partner
 
@@ -91,7 +91,7 @@ Non necessariamente. Tuttavia, il contatto principale deve essere un utente auto
 
 **Microsoft può eseguire la migrazione del mio account di appartenenza MPN per mio conto?**
 
-No. Microsoft non può aiutarti a trasferire il tuo account di appartenenza nel Centro per i partner. Per avviare il processo di migrazione, dovrai spostare l'account accedendo a PMC con il tuo account aziendale (credenziali di accesso). Dopo aver completato le operazioni necessarie per spostare l'account, puoi iniziare a gestire il tuo account di appartenenza e assegnare ruoli utente e autorizzazioni al tuo team in modo che i relativi membri possano accedere ai benefit previsti e contribuire alla gestione dell'appartenenza. Microsoft eseguirà automaticamente la migrazione delle competenze, dei benefit, delle informazioni sulle sedi, dei dettagli bancari e fiscali per gli incentivi e delle associazioni MCP correnti, incluso l'accesso a Partner University.
+No. Microsoft non può aiutarti a trasferire il tuo account di appartenenza nel Centro per i partner. Per avviare il processo di migrazione, dovrai spostare l'account accedendo a PMC con il tuo account aziendale (credenziali di accesso). Dopo aver completato le operazioni necessarie per spostare l'account, puoi iniziare a gestire il tuo account di appartenenza e assegnare ruoli utente e autorizzazioni al tuo team in modo che i relativi membri possano accedere ai benefit previsti e contribuire alla gestione dell'appartenenza. 
 
 Microsoft eseguirà automaticamente la migrazione delle competenze, dei benefit, delle informazioni sulle sedi, dei dettagli bancari e fiscali per gli incentivi e delle associazioni MCP correnti, incluso l'accesso a Partner University.
 

@@ -1,7 +1,7 @@
 ---
 title: Ottenere i privilegi di amministratore di un cliente
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ottieni le autorizzazioni necessarie per gestire il servizio o l'abbonamento di un cliente per suo conto. Scopri come sono concesse, revocate e gestite le autorizzazioni.
@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 keywords: privilegi di amministratore con delega, amministratore per conto terzi, rimuovere i privilegi
 ms.localizationpriority: high
-ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84466781"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198599"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Ottenere le autorizzazioni per gestire il servizio o l'abbonamento di un cliente
 
@@ -98,8 +98,6 @@ Ogni sottoscrizione di Azure ha un proprio gruppo di ruoli di gestione delle ris
 - Quando un cliente rimuove i privilegi di amministratore con delega da un partner tramite il portale di Office 365, il partner può comunque gestire la sottoscrizione di Azure del cliente, purché sia ancora assegnato a uno o più ruoli nella sottoscrizione. Perché il partner interrompa la gestione della sottoscrizione di Azure, il cliente deve rimuovere l'assegnazione del ruolo.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
-
-<!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
 Dal Centro per i partner, i partner CSP possono gestire i profili di Autopilot per i clienti senza privilegi di amministratore con delega nelle circostanze seguenti: 
 

@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: acf8a26960df0bebd97b8684c5a51173a86af416
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 7f21431dd215f89905c456a61f8ef2b181353111
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452608"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679118"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Listino prezzi per la nuova esperienza commerciale di Azure in CSP
 
@@ -37,13 +37,17 @@ Il listino prezzi per la nuova esperienza commerciale di Azure in CSP viene pubb
 
 2. In Prezzi del piano di Azure seleziona il paese per cui vuoi ottenere i prezzi.
 
-3. Accanto a **Tipo di esportazione** seleziona **Prezzi a consumo del piano di Azure**, **Prezzi delle prenotazioni del piano di Azure** o **Tariffe fisse** (nel caso dei tassi di cambio). Nota: i valori **Tariffe fisse** (ovvero i tassi di cambio) non sono specifici del paese.
+3. Accanto a **Tipo di esportazione** seleziona **Prezzi a consumo del piano di Azure**, **Prezzi delle prenotazioni del piano di Azure** o **Tariffe fisse** (nel caso dei tassi di cambio). 
+
+>[!NOTE] 
+>i valori **Tariffe fisse** (ovvero i tassi di cambio) non sono specifici del paese.
 
 4. Accanto a **Prezzi per data** seleziona la data desiderata, ad esempio **Corrente**.
 
    :::image type="content" source="images/azure/pricingnew.png" alt-text="Specifici del paese":::
 
-Nota: puoi esportare due listini prezzi diversi, ovvero i prezzi del piano di Azure e i prezzi di terze parti del Marketplace.
+>[!NOTE] 
+>puoi esportare due listini prezzi diversi, ovvero i prezzi del piano di Azure e i prezzi di terze parti del Marketplace.
 
 ## <a name="azure-price-list-specifics"></a>Specifiche del listino prezzi di Azure
 

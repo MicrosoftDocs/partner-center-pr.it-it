@@ -5,18 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come ottenere lead di vendita da Microsoft. Un passaggio chiave consiste nel creare un profilo di business nel Centro per i partner in modo che i clienti possano individuare più facilmente gli utenti.
-ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, segnalazioni, lead di vendita, C2PC, profilo della società, commercializzare la tua azienda, trovare un partner, trovare un provider di soluzioni, profilo di business, profilo di marketing
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f5c788be2fc408262e6edd47a87c3ac0f2ea2f8
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 44e81f7a830e32bcc3f11f29e684472751028a1b
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795579"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991505"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

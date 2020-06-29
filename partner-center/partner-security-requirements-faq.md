@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a0e318ccc7ea2ff3fa0d50fbc1514682ca9566a5
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 203afa3fd238222e902a06ac3c173876e185f025
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328272"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679273"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Domande frequenti sui requisiti di sicurezza per i partner
 
@@ -208,11 +208,17 @@ I fornitori di pannelli di controllo devono infatti eseguire l'[onboarding](http
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Il modello di applicazione sicura deve essere implementato solo per l'API/SDK del Centro per i partner?
 
-L'applicazione dell'autenticazione a più fattori per tutti gli account utente influirà su ogni automazione o integrazione progettata per essere eseguita in modalità non interattiva. Anche se i requisiti di sicurezza per i partner richiedano di abilitare il modello di applicazione sicura per l'API del Centro per i partner, è possibile sfruttarlo per soddisfare la necessità di un secondo fattore di autenticazione con l'automazione e l'integrazione. Tieni presente che la risorsa che viene aperta deve supportare l'autenticazione basata su token di accesso.
+L'applicazione dell'autenticazione a più fattori per tutti gli account utente influirà su ogni automazione o integrazione progettata per essere eseguita in modalità non interattiva. Anche se i requisiti di sicurezza per i partner richiedano di abilitare il modello di applicazione sicura per l'API del Centro per i partner, è possibile sfruttarlo per soddisfare la necessità di un secondo fattore di autenticazione con l'automazione e l'integrazione. 
+
+>[!Note] 
+>La risorsa a cui si accede deve supportare l'autenticazione basata su token di accesso.
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Sono in uso strumenti di automazione come PowerShell. Come viene implementato il modello di applicazione sicura?
 
-Se la tua automazione è progettata per essere eseguita in modo non interattivo e si basa su credenziali utente per l'autenticazione, dovrai implementare il modello di applicazione sicura. Vedere [Modello di applicazione sicura | PowerShell per Centro per i partner](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) per informazioni su come implementare questo framework.  Non tutti gli strumenti di automazione offrono la possibilità di eseguire l'autenticazione usando token di accesso. Per assistenza nella comprensione delle modifiche da apportare, pubblica un messaggio nel gruppo [Partner Center Security Guidance](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance). 
+Se la tua automazione è progettata per essere eseguita in modo non interattivo e si basa su credenziali utente per l'autenticazione, dovrai implementare il modello di applicazione sicura. Vedere [Modello di applicazione sicura | PowerShell per Centro per i partner](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) per informazioni su come implementare questo framework.  
+
+>[!Note] 
+>Non tutti gli strumenti di automazione offrono la possibilità di eseguire l'autenticazione usando token di accesso. Per assistenza nella comprensione delle modifiche da apportare, pubblica un messaggio nel gruppo [Partner Center Security Guidance](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance). 
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>Quali credenziali utente devono essere fornite dall'amministratore dell'applicazione durante l'esecuzione del processo di consenso?
 
@@ -238,7 +244,9 @@ I fornitori di pannelli di controllo devono contattare [CPVHelp@microsoft.com](m
 
 Dopo l'iscrizione al Centro per i partner e la registrazione delle applicazioni, potrai accedere alle API del Centro per i partner. Se sei un nuovo fornitore di pannelli di controllo, riceverai le informazioni sulla sandbox tramite una notifica del Centro per i partner. Dopo aver completato la registrazione come fornitore di pannelli di controllo Microsoft e aver accettato il contratto per CPV, è possibile:
 
-1. Gestire un'applicazione multi-tenant (aggiungere applicazioni al portale di Azure, registrare e annullare la registrazione di applicazioni nel Centro per i partner). Nota: per ottenere l'autorizzazione per le API del Centro per i partner, i fornitori di pannelli di controllo devono registrare le proprie applicazioni nel Centro per i partner. La semplice aggiunta di applicazioni al portale di Azure non fornisce alle applicazioni dei fornitori di pannelli di controllo l'autorizzazione ad accedere alle API del Centro per i partner.
+1. Gestire un'applicazione multi-tenant (aggiungere applicazioni al portale di Azure, registrare e annullare la registrazione di applicazioni nel Centro per i partner). 
+     >[!Note] 
+     >per ottenere l'autorizzazione per le API del Centro per i partner, i fornitori di pannelli di controllo devono registrare le proprie applicazioni nel Centro per i partner. La semplice aggiunta di applicazioni al portale di Azure non fornisce alle applicazioni dei fornitori di pannelli di controllo l'autorizzazione ad accedere alle API del Centro per i partner.
 2. Visualizzare e gestire il profilo dei fornitori di pannelli di controllo.
 3. Visualizzare e gestire gli utenti che devono accedere alle funzionalità dei fornitori di pannelli di controllo. L'unico ruolo che un fornitore di pannelli di controllo può avere è quello di amministratore globale.
 

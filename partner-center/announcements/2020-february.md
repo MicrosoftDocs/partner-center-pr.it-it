@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: fccdb29090effaae9187778a0c243f051613e3c4
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253968"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749138"
 ---
 # <a name="february-2020-announcements"></a>Annunci di febbraio 2020
 
@@ -77,7 +77,10 @@ I [partner hanno quindi ora due opzioni](https://docs.microsoft.com/partner-cent
 
 I partner possono verificare se i clienti hanno accettato il nuovo contratto usando la nuova funzionalità disponibile nel dashboard Centro per i partner o tramite [questa nuova API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement).
 
-A partire dal 1° febbraio 2020, la conferma da parte del partner dell'avvenuta accettazione del Contratto del cliente Microsoft è necessaria per completare nuovi ordini per qualsiasi offerta CSP in tutte le aree nel cloud pubblico Microsoft. I partner CSP non possono più effettuare nuovi acquisti, inclusi i rinnovi degli acquisti esistenti o le modifiche alle postazioni, se prima non hanno confermato che il cliente ha accettato il Contratto del cliente Microsoft tramite una di queste opzioni. Nota: i rinnovi automatici non sono interessati.
+A partire dal 1° febbraio 2020, la conferma da parte del partner dell'avvenuta accettazione del Contratto del cliente Microsoft è necessaria per completare nuovi ordini per qualsiasi offerta CSP in tutte le aree nel cloud pubblico Microsoft. I partner CSP non possono più effettuare nuovi acquisti, inclusi i rinnovi degli acquisti esistenti o le modifiche alle postazioni, se prima non hanno confermato che il cliente ha accettato il Contratto del cliente Microsoft tramite una di queste opzioni.
+ 
+>[!Note] 
+>I rinnovi automatici non sono interessati.
 
 ### <a name="next-steps"></a>Passaggi successivi:
 
@@ -166,7 +169,7 @@ _________________
 
 ### <a name="summary"></a>Riepilogo:
 
-Questo è un aggiornamento importante correlato ai [requisiti per la sicurezza obbligatori dei partner](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). A partire dal **29 febbraio 2020** i [criteri "baseline" di Azure Active Directory (Azure AD) verranno rimossi](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) e sostituiti con "impostazioni predefinite per la sicurezza", un set più completo di criteri di protezione per i partner e per i clienti. Le impostazioni predefinite per la sicurezza in Azure AD contribuiscono alla protezione dell’organizzazione con impostazioni di sicurezza preconfigurate per gli attacchi più comuni.
+Questo è un aggiornamento importante correlato ai [requisiti per la sicurezza obbligatori dei partner](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). A partire dal **29 febbraio 2020** i [criteri "baseline" di Azure Active Directory (Azure AD) verranno rimossi](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) e sostituiti con "impostazioni predefinite per la sicurezza", un set più completo di criteri di protezione per i partner e per i clienti. Le impostazioni predefinite per la sicurezza di Azure AD contribuiscono alla protezione dell'organizzazione tramite impostazioni di sicurezza preconfigurate concepite per contrastare gli attacchi più comuni.
 
 Il sistema usato da Microsoft indica quando un’organizzazione usa attualmente i criteri baseline ma non ha ancora eseguito la transizione alle impostazioni predefinite per la sicurezza. **Se non si esegue la transizione alle impostazioni predefinite per la sicurezza entro il 29 febbraio, si perderà la funzionalità di autenticazione a più fattori (MFA, Multi-Factor Authentication) abilitata con i criteri baseline nei tenant dei partner. Abilitare le impostazioni predefinite per la sicurezza non appena possibile per evitare interruzioni al proprio business**.
 
@@ -191,7 +194,9 @@ Partner che usano attualmente i criteri di base:
 Provider indiretti:
 
 - Segnalare la modifica ai propri rivenditori nel programma Microsoft CSP ([usare questo modello di messaggio di posta elettronica](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx)). Assicurarsi che i rivenditori abilitino le impostazioni predefinite per la sicurezza se stanno attualmente usando i criteri di base.
-- Nota: Microsoft comunicherà anche direttamente con i rivenditori che usano attualmente i criteri di base e hanno informazioni di contatto nel Centro per i partner.
+
+>[!Note] 
+>Microsoft comunicherà anche direttamente con i rivenditori che usano attualmente i criteri di base e hanno informazioni di contatto nel Centro per i partner.
 
 Per domande relative ai requisiti di sicurezza per i partner, vedere le risorse aggiuntive disponibili [qui](https://aka.ms/security-requirements).
 
@@ -274,9 +279,8 @@ La [nuova esperienza commerciale per Azure in CSP](https://blogs.partner.microso
 - Consentono ai partner di recuperare i tassi di cambio mensili per le valute di fatturazione supportate nella nuova esperienza (piano di Azure).
 - Offrono la possibilità di recuperare i prezzi o i tassi di cambio delle valute estere per il mese corrente o i mesi precedenti.
 
-Nota:
-
-- Questa è una risorsa di API completamente nuova specifica per i prezzi dei piani di Azure.
+>[!Note] 
+>Questa è una risorsa di API completamente nuova specifica per i prezzi dei piani di Azure.
 - È necessario continuare a usare l'[API RateCard](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure) esistente per le risorse o le prenotazioni di Azure esistenti distribuite nelle sottoscrizioni di Azure precedenti non incluse nel piano di Azure.
 - Queste API si trovano su un endpoint diverso (dominio che ospita l'API) rispetto alle API del Centro per i partner.
 
@@ -345,7 +349,7 @@ _________________
 
 Il nuovo [Contratto del cliente Microsoft](https://www.microsoft.com/licensing/docs/customeragreement) nel programma Cloud Solution Provider (CSP) è disponibile dal mese di ottobre 2019 e sostituisce il Contratto Microsoft Cloud esistente. Il nuovo contratto semplificato per i clienti offre condizioni di acquisto coerenti per i clienti, indipendentemente dalla modalità di acquisto scelta dai clienti.
 
-**A partire dal 1° febbraio 2020, i provider con fatturazione diretta e indiretta in CSP sono tenuti a confermare l'accettazione del Contratto del cliente Microsoft da parte dei clienti per qualsiasi offerta CSP nel cloud pubblico di Microsoft**. Senza tale conferma, i partner non potranno effettuare un nuovo acquisto per il cliente, inclusa la modifica delle postazioni e il rinnovo degli acquisti esistenti, a partire da tale data. Nota: il rinnovo automatico non sarà interessato da questa modifica.
+**A partire dal 1° febbraio 2020, i provider con fatturazione diretta e indiretta in CSP sono tenuti a confermare l'accettazione del Contratto del cliente Microsoft da parte dei clienti per qualsiasi offerta CSP nel cloud pubblico di Microsoft**. Se non confermano l'accettazione da parte del cliente, ora i partner non possono più completare un nuovo acquisto per il cliente, inclusi la modifica delle postazioni e il rinnovo di acquisti esistenti (i rinnovi automatici non sono interessati).
 
 I partner possono proporre il nuovo contratto ai clienti come facevano con il Contratto Microsoft Cloud esistente. Dopo la verifica e l'accettazione del contratto da parte del cliente, i partner devono confermare l'accettazione del cliente nel Centro per i partner. L'interfaccia utente Web, l'API e .NET SDK del Centro per i partner sono stati aggiornati per supportare il nuovo contratto.
 
@@ -357,10 +361,8 @@ Per altre informazioni, vedere le risorse sul Contratto del cliente Microsoft in
 - I partner che usano le API per il Contratto Microsoft Cloud esistente devono verificare la rispettiva implementazione esistente con l'[API aggiornata](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
 - Preparare gli agenti e i rivenditori sulle [condizioni del nuovo contratto](https://www.microsoft.com/licensing/docs/customeragreement), su come presentarlo ai clienti e su come convalidarne l'accettazione.
 
-### <a name="note"></a>Nota:
-
-- L'accettazione del Contratto del cliente Microsoft da parte dei clienti è obbligatoria anche per l'acquisto tramite la [nuova esperienza commerciale nel programma CSP per Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/), rilasciata nel mese di novembre 2019.
-- Nel primo trimestre dell'anno corrente 2020, i partner del programma CSP inizieranno anche a vedere l'opzione aggiuntiva nel Centro per i partner che consentirà loro di invitare i clienti ad accedere a un portale Microsoft autenticato (Interfaccia di amministrazione di Microsoft 365) per visualizzare e firmare direttamente il Contratto del cliente Microsoft.
+>[!NOTE] 
+>L'accettazione del Contratto del cliente Microsoft da parte dei clienti è obbligatoria anche per l'acquisto tramite la [nuova esperienza commerciale nel programma CSP per Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/), rilasciata nel mese di novembre 2019. Nel primo trimestre dell'anno corrente 2020, i partner del programma CSP inizieranno anche a vedere l'opzione aggiuntiva nel Centro per i partner che consentirà loro di invitare i clienti ad accedere a un portale Microsoft autenticato (Interfaccia di amministrazione di Microsoft 365) per visualizzare e firmare direttamente il Contratto del cliente Microsoft.
 
 ### <a name="change-log"></a>Registro delle modifiche:
 

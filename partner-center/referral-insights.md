@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: segnalazione, analizzare, analisi, metrica, conversione
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4ffe5c7a485749d138be09fb5740d9b15970a546
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467451"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679428"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Ottenere informazioni dettagliate sulle segnalazioni nel Centro per i partner ed esaminare lo stato delle segnalazioni
 
@@ -39,13 +39,13 @@ Puoi inoltre espandere i filtri per filtrare tutti i dati della pagina in base a
   - **Qualificato per il marketing**: segnalazione creata tramite i sistemi di marketing di Microsoft.
   - **Qualificato per le vendite**: segnalazione creata da un agente di vendita Microsoft.
   - **Non qualificato**: segnalazione a cui non è associata alcuna misura di qualità.
-- **Tipo di segnalazione**: il valore predefinito è **Tutti**, ma puoi scegliere di limitare la visualizzazione dei dati alle segnalazioni di tipo **Indipendente** (per chiudere le quali collaborerai direttamente con il cliente) o alle segnalazioni di tipo **Co-selling** (per chiudere le quali è prevista la collaborazione di altre parti).
+  - **Tipo di segnalazione**: il valore predefinito è **Tutti**, ma puoi scegliere di limitare la visualizzazione dei dati alle segnalazioni di tipo **Indipendente** (per chiudere le quali collaborerai direttamente con il cliente) o alle segnalazioni di tipo **Co-selling** (per chiudere le quali è prevista la collaborazione di altre parti).
 
 Le informazioni incluse in tutti i grafici elencati di seguito riflettono l'intervallo di date e tutti i filtri selezionati, tranne i casi indicati di seguito. In alcune sezioni puoi anche applicare altri filtri, ad esempio quello relativo a una soluzione specifica.
 
 ## <a name="referrals-summary"></a>Riepilogo segnalazioni
 
-Questo grafico mostra una panoramica delle prestazioni raggiunte dalle tue segnalazioni. A questo grafico viene applicato solo il filtro relativo all'intervallo di date. Non vengono applicati altri filtri. 
+Questo grafico mostra una panoramica delle prestazioni raggiunte dalle tue segnalazioni. In questo grafico è applicato solo il filtro relativo all'intervallo di date. Non sono applicati altri filtri. 
 
 Il grafico mostra il numero totale di segnalazioni, il numero di commesse acquisite e il volume d'affari totale (in USD) per il periodo di tempo selezionato. Espandendo il grafico vengono visualizzati altri dati, ad esempio la ripartizione in base all'origine e alla direzione delle segnalazioni. 
 

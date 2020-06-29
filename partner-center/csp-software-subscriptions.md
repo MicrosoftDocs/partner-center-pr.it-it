@@ -1,7 +1,7 @@
 ---
 title: Vendere abbonamenti software tramite CSP
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono usare il Centro per i partner per acquistare, gestire, vendere e annullare istanze riservate di Azure e abbonamenti server per i clienti.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, servizi basati sul cloud, Azure, istanze riservate di Azure, Windows Server, SQL Server, abbonamenti software, annullare software
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 46d64a72ded1e9b165a84ede50c0baf695a816b7
+ms.sourcegitcommit: 11325c74d0c41316fb143beda603177241403b8c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907948"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "85267188"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendere abbonamenti software tramite il programma Cloud Solution Provider (CSP)
 
@@ -28,7 +28,7 @@ ms.locfileid: "82907948"
 - Agente amministratore
 - Amministratore globale
 
-Con le prenotazioni di Azure e gli abbonamenti server (Windows Server e SQL Server), i partner del programma CSP possono far fronte alla richiesta in rapida crescita da parte dei clienti di soluzioni più convenienti, in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. 
+Grazie alle prenotazioni di Azure e alle sottoscrizioni di server (Windows Server e SQL Server), i partner del programma CSP possono far fronte alla richiesta in rapida crescita da parte dei clienti di soluzioni più convenienti, in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. 
 
 Adesso puoi effettuare l'acquisizione, il provisioning e la gestione di prenotazioni di Azure e abbonamenti server per conto di clienti commerciali tramite il Centro per i partner e il portale di Azure sfruttando Vantaggio Azure Hybrid.
 
@@ -36,10 +36,12 @@ Vantaggio Azure Hybrid ti consente di ottenere un valore aggiunto dalle licenze 
 
 ## <a name="azure-reservations-unavailable-markets"></a>Mercati non disponibili per prenotazioni di Azure
 
->[!IMPORTANT] 
->Le prenotazioni di Azure *non sono* disponibili nei mercati seguenti:  
+>[!IMPORTANT]
+>Le prenotazioni di Azure **non sono** disponibili nei mercati seguenti:  
 >  
-> | Mercati non disponibili | &nbsp; | &nbsp; |
+> **Mercati non disponibili (in ordine alfabetico)**
+>
+> |Da A a Gi   | Da Gr a Pal  | Da Pap a Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Isole Åland     | Groenlandia     | Papua Nuova Guinea     |
 > | Samoa Americane     | Grenada     | Isole Pitcairn     |
@@ -78,8 +80,6 @@ Vantaggio Azure Hybrid ti consente di ottenere un valore aggiunto dalle licenze 
 > | Gabon     | Norfolk     | Yemen   |
 > | Gambia     | Marianne Settentrionali     |    |
 > | Gibilterra     | Palau       |    |
-<!--Nov 30, 2019 - this list of countries was correct as of today.
--->
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Acquistare abbonamenti software per conto dei clienti
 
@@ -114,6 +114,10 @@ Dopo aver acquistato l'abbonamento software, segui questa procedura per scaricar
 
 >[!NOTE]
 >Questo collegamento scadrà dopo due settimane o 50 download, a seconda dell'evento che si verificherà per primo. Una volta scaduto il collegamento, torna a questa pagina e seleziona di nuovo **Scarica chiavi e download** per attivare altre due settimane o 50 download. Puoi eseguire questa operazione ogni volta che ne avrai bisogno. 
+
+## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download e codici di licenza per sottoscrizioni di server disponibili tramite l'interfaccia di amministrazione di Microsoft 365 per i clienti 
+
+I clienti potranno ottenere i codici di licenza e i download per le sottoscrizioni di server CSP dall'interfaccia di amministrazione di Microsoft 365. Per visualizzare i codici di licenza e i download relativi alle sottoscrizioni di server CSP, il cliente dovrà accedere all'interfaccia di amministrazione di Microsoft 365 > **Fatturazione > Prodotti > scheda Software**. Per ulteriori informazioni, vedere la [scheda Software in Fatturazione](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview?view=o365-worldwide#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visualizzare l'attività per l'accesso alle chiavi e ai download del software
 
@@ -173,7 +177,9 @@ Quando tenti di annullare un ordine, il Centro per i partner può anche fornire 
 - Se sono richieste altre informazioni sulla richiesta di annullamento, potresti visualizzate un collegamento a un modulo di **richiesta di assistenza clienti**.
 
 >[!IMPORTANT]
->Dopo l'annullamento di un ordine, verrà visualizzato un messaggio di conferma dell'annullamento. Potrebbe tuttavia verificarsi un ritardo di un massimo di 15 minuti prima che l'annullamento venga visualizzato nel dashboard Centro per i partner. Prendi nota anche di quanto avviene dopo l'annullamento riportati di seguito.
+>Dopo l'annullamento di un ordine, verrà visualizzato un messaggio di conferma dell'annullamento. Potrebbe tuttavia verificarsi un ritardo di un massimo di 15 minuti prima che l'annullamento venga visualizzato nel dashboard Centro per i partner. 
+
+### <a name="post-cancellation-details"></a>Informazioni dettagliate sulle conseguenze dell'annullamento
 
 Dopo l'annullamento di un acquisto:
 
@@ -187,9 +193,9 @@ Dopo l'annullamento di un acquisto:
 
 Se hai tentato di annullare un acquisto di software tramite il Centro per i partner, ma è stato richiesto di fornire altre informazioni e compilare un modulo di richiesta di assistenza clienti, questa procedura può rivelarsi utile:
 
-1. Quando selezioni il collegamento della **richiesta di assistenza clienti** dalla finestra di annullamento dell'acquisto, viene visualizzata una pagina per la segnalazione di problemi con il Centro per i partner.
+1. Alla selezione del collegamento alla **richiesta di assistenza clienti** dalla finestra di annullamento dell'acquisto, verrà visualizzata una pagina che consente di **segnalare un problema con il Centro per partner**.
 
-2. Nella sezione relativa ai dettagli nell'elenco dei tipi di problema seleziona **CSP Purchase/Refund on behalf of customers** (Acquisto/rimborso CSP per conto dei clienti).
+2. Nella sezione **Dettagli** dell'elenco Tipo di problema è consigliabile selezionare **CSP Purchase/Refund on behalf of customers** (Acquisto/rimborso CSP per conto dei clienti).
 
 3. Compila i campi relativi all'impatto e al titolo.
 
@@ -208,3 +214,9 @@ Se hai tentato di annullare un acquisto di software tramite il Centro per i part
 6. Se devi allegare un file per qualsiasi motivo, seleziona **Aggiungi file**. Questo passaggio è facoltativo.
 
 7. Al termine, seleziona **Invia**.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Usare il Centro per i partner per vendere ai clienti sottoscrizioni di prodotti del marketplace commerciale](sell-marketplace-products.md)
+ 
+- [Assegnazione di sottoscrizioni di Azure ai clienti nel Centro per i partner](assign-azure-subscriptions.md)

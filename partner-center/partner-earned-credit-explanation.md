@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 653b75c0ec9cafdc39506eb8da82eefe6d8709e7
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: cf398f5671484548cc879fac28aae9e83a9c470c
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328212"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679274"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Come viene calcolato e pagato il credito ottenuto dai partner
 
@@ -62,11 +62,12 @@ Nella visualizzazione Analisi dei costi verranno visualizzati i costi per l'acco
 
 Quando la proprietà PartnerEarnedCreditApplied è False, il costo associato non soddisfa il criterio di idoneità del credito o il servizio acquistato non è idoneo al credito ottenuto dai partner.
 
-Nota: in genere, sono necessarie 8-24 ore per visualizzare l'utilizzo dei servizi in **Gestione costi** e i crediti ottenuti dai partner verranno visualizzati entro 48 ore dal momento dell'accesso in Gestione costi di Azure.
+>[!NOTE] 
+>Sono in genere necessarie 8-24 ore prima che l'uso dei servizi in **Gestione costi** diventi visibile, mentre i crediti ottenuti dai partner vengono visualizzati entro 48 ore dal momento dell'accesso in Gestione costi di Azure.
 
 5. Puoi anche raggruppare o filtrare in base alla proprietà **PartnerEarnedCreditApplied** usando le funzionalità di filtro **Raggruppa per e Aggiungi** per visualizzare in dettaglio i costi a cui è applicato il credito ottenuto dai partner e quelli a cui tale credito non è applicato.
 
- **Per altre informazioni**
+## <a name="next-steps"></a>Passaggi successivi
 
 - [Credito ottenuto dai partner - Panoramica](partner-earned-credit.md)
 

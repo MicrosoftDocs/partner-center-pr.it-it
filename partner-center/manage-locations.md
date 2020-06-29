@@ -1,7 +1,7 @@
 ---
 title: Gestire le posizioni nell'account partner
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Nel Centro per i partner scopri come aggiungere una nuova posizione e come viene usato l'ID MPN della posizione in programmi di incentivi, aziende CSP, abbonamenti e altre transazioni.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: account partner, posizioni
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 943299cc4c68a6252c69a96204ef6001b89eda09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453208"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909059"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Gestire le posizioni nell’account partner nel Centro per i partner e aggiungere una nuova posizione
 
@@ -54,12 +54,12 @@ Gli utenti possono ricoprire ruoli relativi a più posizioni. Ad esempio, l'ammi
 
 1. Nella pagina **Posizione** controlla che nell'elenco delle posizioni sia presente quella desiderata come entità legale. In caso contrario, aggiungerla.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Aggiornare la posizione aziendale":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Screenshot della pagina delle posizioni dell'account del Centro per i partner con l'elenco di tutte le posizioni correnti.":::
 
 2. Seleziona **Profilo partner** e quindi **Update legal business profile (Aggiorna profilo aziendale legale)**
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Aggiornare la posizione aziendale":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Screenshot che mostra le informazioni relative al profilo del partner per l'account del Centro per i partner con l'opzione di aggiornamento selezionabile.":::
 
 3. Seleziona l'area e la persona giuridica e quindi **Invia**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Aggiornare la posizione aziendale":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Screenshot per l'aggiornamento del profilo aziendale legale del partner: mostra elenchi a discesa per l'aggiornamento del paese o dell'area geografica e della persona giuridica.":::

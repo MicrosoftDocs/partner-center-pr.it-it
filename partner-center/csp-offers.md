@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Cloud Solution Provider, programma cloud solution provider, CSP, aggiungere un prodotto, vendere ai clienti, offerte partner, offerte CSP, servizi basati sul cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, istanze riservate Azure, istanze di macchina virtuale riservate di Azure, prenotazioni di Azure, servizi online, software in abbonamento, AHUB, SQL Server su Azure, Windows Server in Azure, abbonamenti dei clienti
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73313831bd1536e7f102520b1fd0df4606aa56dc
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 32d89ec53eb11f661758e008c9566fbdac9f383e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467241"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679018"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Panoramica delle offerte dei partner nell'ambito del programma Cloud Solution Provider
 
@@ -62,9 +62,12 @@ Attualmente puoi vendere ai clienti CSP i seguenti tipi di prodotti e servizi:
 
    Puoi vendere abbonamenti a prodotti SaaS di fornitori di software indipendente (ISV). Per visualizzare solo le offerte SaaS in **Servizi online**, usa i filtri per impostare **Editore** su **Partner**. Verranno mostrate tutte le offerte SaaS che possono essere acquistate per quel cliente.
 
-   Puoi anche trovare informazioni su questi prodotti nella pagina **Marketplace** . Tieni presente che questa pagina include anche informazioni su altri tipi di prodotti che devono essere acquistati dal portale di Azure, non dal Centro per i partner.
+   Puoi anche trovare informazioni su questi prodotti nella pagina **Marketplace** .
 
-   Per altre informazioni, vedi [Panoramica del marketplace commerciale CSP](CSP-commercial-marketplace-overview.md).
+>[!NOTE] 
+>Tale pagina include anche informazioni su altri tipi di prodotti che è necessario acquistare dal portale di Azure e non dal Centro per i partner.
+
+Per altre informazioni, vedi [Panoramica del marketplace commerciale CSP](CSP-commercial-marketplace-overview.md).
 
 ## <a name="add-products-page-details"></a>Dettagli della pagina Aggiungi prodotti
 
@@ -88,7 +91,7 @@ Nell'elenco seguente sono identificate tutte le nuove aree della pagina **Aggiun
 
 Per acquistare prodotti e servizi per conto dei tuoi clienti CSP, seleziona gli elementi desiderati dal cliente, aggiungili al carrello creando un ordine, quindi rivedi e invia l'ordine. Il processo generale è quello descritto di seguito. Per altri dettagli sugli ordini di un tipo di prodotto specifico, vedi i collegamenti sopra riportati.
 
->[!Note]
+>[!NOTE]
 >Un'offerta CSP deve essere disponibile sia nel paese del tuo tenant che in quello del cliente. Se ad esempio il tuo tenant si trova in Slovacchia e quello del cliente si trova in Germania, non potrai vendere Dynamics 365 Business Central Premium a tale cliente, perché questa offerta non è attualmente disponibile in Slovacchia.
 
 1. Scegli **Clienti** dal menu Centro per i partner e individua il cliente che intende acquistare da te. 
@@ -110,6 +113,23 @@ Per acquistare prodotti e servizi per conto dei tuoi clienti CSP, seleziona gli 
 ## <a name="rules-for-special-segments"></a>Regole per segmenti speciali
 
 Alcune offerte basate su licenze possono essere acquistate solo in determinate condizioni. Tra le offerte di segmenti speciali sono incluse le offerte Formazione, No profit o Government Community Cloud (GCC). Per informazioni dettagliate su queste condizioni di acquisto, vedere l'argomento [Regole di acquisto per segmenti speciali](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
+
+## <a name="troubleshooting-catalog-purchases"></a>Risoluzione dei problemi relativi agli acquisti nel catalogo
+
+L'offerta cercata potrebbe non essere disponibile nel catalogo per diversi motivi. Di seguito sono riportati alcuni controlli da eseguire se non si trova l'offerta desiderata.
+
+- **Verificare che il cliente sia qualificato**. Per essere vendute, molte offerte richiedono qualifiche speciali del cliente. Sono ad esempio speciali i segmenti formazione, no profit e Government Community Cloud (GCC). Prima di inserire un problema, è opportuno verificare che le impostazioni del cliente siano appropriate. Per eseguire questo controllo, fare clic sul cliente nell'elenco dei clienti ed esaminare l'account. Se applicabile, l'account sarà associato a un set di qualifiche speciali. Se si sta tentando di acquistare offerte relative alla formazione per un cliente non qualificato, tali offerte non risulteranno visibili nel catalogo. Per altre informazioni su come qualificare i clienti, vedere la [documentazione dedicata ai segmenti speciali](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers).
+- **Determinare se l'acquisto che si sta tentando di eseguire riguarda un componente aggiuntivo o un'offerta di base**. Molti servizi basati su licenza, ad esempio Microsoft 365 e Dynamics 365, consentono acquisti nel catalogo di offerte di base e componenti aggiuntivi. È possibile acquistare nel catalogo solo offerte di base. Per l'acquisto di componenti aggiuntivi, verificare prima di acquistare l'offerta di base nel catalogo e quindi selezionare il cliente nell'elenco dei clienti e la sottoscrizione per l'offerta di base. In questa pagina di gestione della sottoscrizione è possibile applicare componenti aggiuntivi all'offerta di base. 
+- **Verificare che i prodotti siano disponibili nello specifico mercato**. Molti prodotti e servizi sono configurati per essere venduti solo ai clienti in specifici paesi. È possibile esaminare l'elenco dei paesi supportati nei vari file dei listini prezzi. I paesi supportati per i servizi basati su licenza sono riportati nella matrice del listino prezzi della pagina Prezzi e offerte.
+- **Verificare che le offerte siano disponibili nel listino prezzi**. L'elenco delle offerte disponibili è soggetto a variare ogni mese. Se non è possibile trovare un'offerta nel catalogo, verificare che tale offerta sia inclusa nei listini prezzi disponibili nella pagina **Vendi > Prezzi e offerte**.
+
+### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Documenti consigliati relativi all'acquisto di articoli nel Centro per i partner
+
+- [Prezzi e offerte nel Centro per i partner](https://docs.microsoft.com/partner-center/pricing-and-offers)
+- [Panoramica delle offerte per i partner nel programma Cloud Solution Provider](https://docs.microsoft.com/partner-center/csp-offers)
+- [Come vendere offerte ai clienti del settore formazione e creare un cliente del settore formazione](https://docs.microsoft.com/partner-center/sell-to-education-customers)
+- [Vendere in settori specifici, ad esempio istruzione, no profit e utenti di enti pubblici](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
+- [Regole di acquisto per segmenti speciali](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>Passaggi successivi
 

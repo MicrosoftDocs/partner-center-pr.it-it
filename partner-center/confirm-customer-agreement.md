@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: cliente, clienti, consenso, MCA, Contratto Microsoft Cloud, contratto del cliente Microsoft, modelli di contratto del cliente
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0d89c625375c203fe77556c47b6061faa293e1b0
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453268"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679108"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Conferma dell'accettazione del contratto del cliente Microsoft da parte di un cliente nel programma per i partner CSP
 
@@ -128,7 +128,10 @@ Segui questa procedura per creare un nuovo cliente nel Centro per i partner e qu
 
 3. In **Customer Agreement** (Contratto del cliente) seleziona la prima opzione, ovvero **Customer will be asked to accept the Microsoft Customer Agreement in Microsoft 365 Admin Center** (Al cliente verrà chiesto di accettare il contratto del cliente Microsoft nell'interfaccia di amministrazione di Microsoft 365). Completa gli altri campi obbligatori nella pagina.
 
-4. Seleziona **Successivo: Rivedi** e quindi continua la procedura per creare il tenant del cliente. Nota: i nuovi clienti non possono effettuare un nuovo acquisto finché non accettano il contratto del cliente Microsoft.  
+4. Seleziona **Successivo: Rivedi** e quindi continua la procedura per creare il tenant del cliente. 
+
+>[!NOTE] 
+>I nuovi clienti non possono eseguire alcun nuovo acquisto finché non accettano il Contratto del cliente Microsoft.  
 
    :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Creare un nuovo cliente":::
 

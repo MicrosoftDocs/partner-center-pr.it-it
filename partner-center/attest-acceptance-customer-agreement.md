@@ -1,7 +1,7 @@
 ---
 title: Attestare l'accettazione del Contratto del cliente Microsoft da parte di un cliente
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Scopri gli scenari in cui è necessario attestare l'accettazione del Contratto del cliente Microsoft per conto di un cliente.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: cliente, clienti, consenso, MCA, Contratto Microsoft Cloud, Contratto del cliente Microsoft, modelli di contratto del cliente, attestare accettazione
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452718"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909019"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Attestare l'accettazione del Contratto del cliente Microsoft per conto di un cliente
 
@@ -46,7 +46,7 @@ Esistono attualmente due scenari in cui i clienti potrebbero non essere in grado
 
 **Per risolvere il problema**: devi attestare l'accettazione per conto del cliente.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Cliente":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Screenshot della pagina dell'interfaccia di amministrazione di Microsoft 365 che chiede di contattare il proprio partner per confermare l'accettazione del Contratto del cliente Microsoft.":::
 
 **Scenario 2**: un cliente esistente ha acquistato una delle opzioni seguenti: offerta, software o abbonamento software, istanza riservata o piano di Azure. Il cliente tenta ora di effettuare un nuovo acquisto con un nuovo partner.
 
@@ -54,4 +54,4 @@ Quando il cliente seleziona l'URL dell'interfaccia di amministrazione di Microso
 
 **Per risolvere il problema**: devi attestare l'accettazione per conto del cliente.  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Cliente":::
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Screenshot della pagina di autorizzazione del partner con l'opzione di autorizzazione da selezionare: mostra i dettagli di un partner specifico, la rispettiva relazione e i relativi ruoli di amministratore.":::

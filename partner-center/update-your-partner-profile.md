@@ -3,20 +3,20 @@ title: Verificare il profilo partner
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Descrive come verificare i dettagli della società, ad esempio contatto principale, indirizzo e informazioni sul programma. Puoi anche aggiornare l'indirizzo legale e di fatturazione.
-ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 03/23/2020
-ms.openlocfilehash: 5b0cc51ea3ab7e8984876f9d638c4af6e7213abe
-ms.sourcegitcommit: c1d93605a87ecdbeedc98c7fbb9c428752c5cbd7
+ms.date: 06/05/2020
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "82595387"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991985"
 ---
-# <a name="verify-your-partner-profile-information"></a>Verificare le informazioni del profilo partner
+# <a name="verify-your-partner-profile-information-in-partner-center"></a>Verificare le informazioni relative al profilo del partner nel Centro per i partner
 
 Al primo accesso al Centro per i partner come amministratore globale, devi verificare che tutti i dettagli aziendali siano corretti. Tra cui, contatto principale, indirizzo, ragione sociale e informazioni sul programma. Se la società ha più di una località, verificare l'accuratezza dei dati della località. Come amministratore globale, amministratore fatturazione o agente di amministrazione, sarà possibile visualizzare e aggiornare le informazioni di fatturazione e fiscali.
 

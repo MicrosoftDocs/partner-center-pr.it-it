@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 05/04/2020
-ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 06/16/2020
+ms.openlocfilehash: 0629ddcee62040ecc1e5fca40689ede71f2b73ca
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452588"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908959"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Transizione dei clienti al piano di Azure dalle offerte esistenti di CSP per Azure
 
@@ -41,11 +41,11 @@ La funzionalità di transizione è destinata solo ai clienti che passano alla nu
 
 2. Seleziona **Fatturazione di transizione al piano di Azure**.
 
-   :::image type="content" source="images/azure/transition1.png" alt-text="Transizione":::
+   :::image type="content" source="images/azure/transition1.png" alt-text="Screenshot che mostra le informazioni sul report delle sottoscrizioni basate sull'utilizzo con un'opzione selezionabile relativa alla fatturazione della sottoscrizione per la transizione al piano di Azure":::.
 
 3. Seleziona **Continua**.
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="Transizione":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Finestra di dialogo della transizione a un piano di Azure contenente note da leggere sulla transizione e due opzioni da selezionare, una per continuare e un'altra per annullare.":::
 
    Verrà eseguita la transizione del cliente al piano di Azure.
 
@@ -63,7 +63,7 @@ La funzionalità di transizione è destinata solo ai clienti che passano alla nu
 
 4. Torna alla pagina **Sottoscrizioni** del cliente nel Centro per i partner per aggiornare il relativo limite di budget nella valuta locale.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="Transizione":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="Visualizzazione parziale della pagina delle sottoscrizioni relative al Centro per i partner con i limiti di budget impostati in valuta locale per un periodo di fatturazione.":::
 
    >[!NOTE]
    >Il budget che imposti nel Centro per i partner non viene trasferito al portale di Azure. Devi quindi impostare il budget e l'avviso nel portale di Azure.
@@ -77,7 +77,7 @@ La funzionalità di transizione è destinata solo ai clienti che passano alla nu
 
 Puoi seguire lo stato di avanzamento della transizione sia nel portale di Azure sia nel Centro per i partner.
 
-:::image type="content" source="images/azure/details1.png" alt-text="Mostra dettagli":::
+:::image type="content" source="images/azure/details1.png" alt-text="Screenshot che mostra la tabella contenente l'elenco dei dettagli della transizione per ogni sottoscrizione: include l'ID della sottoscrizione e la data e lo stato della transizione.":::
 
 ### <a name="billing-impact-to-partners"></a>Effetti sulla fatturazione per i partner
 
@@ -100,7 +100,7 @@ La sottoscrizione di "Microsoft Azure" (0145P) è costituita da due parti:
 
 Al termine della transizione, la sottoscrizione di Azure viene spostata nel nuovo piano di Azure e la sottoscrizione commerciale viene sospesa per evitare la registrazione di altro utilizzo.  
 
->[!Note]
+>[!NOTE]
 >quando la sottoscrizione di Microsoft Azure (0145P) viene acquistata in CSP, la sottoscrizione commerciale e la sottoscrizione di Azure (diritto) hanno lo stesso valore. I valori sono diversi solo nel caso di modifiche o trasferimenti della proprietà della fatturazione.
 
 ### <a name="transition-issues"></a>Problemi di transizione

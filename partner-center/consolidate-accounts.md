@@ -1,21 +1,20 @@
 ---
-title: Consolidamento degli account aziendali
+title: Consolidare gli account aziendali
+description: Informazioni su come consolidare gli account Partner Membership Center (PMC) in un unico account nel Centro per i partner. Si applica alla migrazione da Partner Membership Center (PMC) al Centro per i partner.
 ms.topic: article
-ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri come consolidare gli account Partner Membership Center (PMC) in un unico account nel Centro per i partner. Si applica alla migrazione da Partner Membership Center (PMC) al Centro per i partner.
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63bbbc57572135b5de3d61a6fab8ea60371e58ec
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.date: 05/05/2020
+ms.openlocfilehash: a1b92f296b572d8317437519e9472972b6e5aba4
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908145"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908659"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Consolidare gli account aziendali durante la migrazione da PMC al Centro per i partner
 
@@ -40,10 +39,9 @@ Quando accedi al Centro per i partner per la prima volta, vieni aggiunto come am
 
 5. Dopo aver consolidato gli account, potresti essere idoneo per altre competenze. Puoi anche risultare idoneo ad altri programmi di incentivi.
 
-
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Cosa accade durante il consolidamento degli account
 
-- Non è possibile modificare i dettagli nella schermata dei dettagli della società. Questi dettagli sono relativi all'account globale del partner. 
+- Non è possibile modificare i dettagli nella schermata dei dettagli della società. Questi dettagli sono relativi all'account globale del partner.
 
 - Gli account in Partner Membership Center verranno consolidati nell'account globale del partner.
 
@@ -64,4 +62,3 @@ In Partner Membership Center ogni posizione può disporre di proprie competenze,
 Nel Centro per i partner questi account di posizione verranno consolidati in un unico account globale (PGA). Ciò significa che vengono consolidati anche tutti i programmi, le offerte e le competenze go-to-market. I toolkit di vantaggi aggiuntivi (ABTK) non saranno disponibili. Puoi tuttavia organizzare la distribuzione di competenze, programmi, offerte e risorse di marketing necessari per la tua azienda. Dopo il consolidamento, viene fornita un'estensione. Questa estensione consente alla società di sfruttare le risorse, le offerte e i programmi di marketing usati in PMC per un ulteriore anno.
 
 Per altre informazioni sulle differenze tra Partner Membership Center e il Centro per i partner, vedi [Passare da Partner Membership Center al Centro per i partner](guide-to-migration.md).
-

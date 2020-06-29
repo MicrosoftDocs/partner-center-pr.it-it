@@ -1,7 +1,7 @@
 ---
 title: Gestire i vantaggi derivanti dall'appartenenza a Microsoft Partner Network
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Aderisci a Microsoft Partner Network (MPN) e usa il Centro per i partner per gestire i vantaggi e le offerte associati all'appartenenza che possono contribuire alla crescita della tua azienda.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, vantaggi dell'appartenenza, appartenenza
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f937316e01f20fb0f255d9af23328a200fb8445
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: d55492a52ada3328cb040d443f2c7b854cd6be96
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796000"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072403"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gestire i vantaggi derivanti dall'appartenenza a Microsoft Partner Network nel Centro per i partner
 
@@ -85,25 +85,25 @@ Per visualizzare e gestire tutti i vantaggi dell'appartenenza, vai alla [pagina 
 
 4. Ripeti questa procedura per ogni sottoscrizione da assegnare. Gli utenti possono gestire le proprie sottoscrizioni nel portale di Visual Studio.
 
-    Puoi riassegnare le sottoscrizioni in qualsiasi momento rimuovendo un utente assegnato e quindi assegnando un altro utente.
+   Puoi riassegnare le sottoscrizioni in qualsiasi momento rimuovendo un utente assegnato e quindi assegnando un altro utente.
 
 ## <a name="manage-technical-benefits"></a>Gestire i vantaggi tecnici
 
 1. Seleziona **Vantaggi tecnici** per visualizzare l'elenco dei vantaggi tecnici di Microsoft.
 
-    I vantaggi tecnici possono includere interventi di supporto per i prodotti Microsoft, ore di consulenza partner e servizi tecnici di prevendita e distribuzione.
+   I vantaggi tecnici possono includere interventi di supporto per i prodotti Microsoft, ore di consulenza partner e servizi tecnici di prevendita e distribuzione.
 
 2. Trova il prodotto di supporto che vuoi iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli del vantaggio.
 
 3. Per attivare il vantaggio del supporto, assegna un utente a tale vantaggio.
 
-   a.  Selezionare un utente dall'elenco. Se l'utente da assegnare non è presente nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
+   a. Selezionare un utente dall'elenco. Se l'utente da assegnare non è presente nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
 
-   b.  Specifica un indirizzo e-mail per l'utente che sia diverso da quello associato all'account del Centro per i partner della tua azienda.
+   b. Specifica un indirizzo e-mail per l'utente che sia diverso da quello associato all'account del Centro per i partner della tua azienda.
 
    Per sicurezza, invieremo le istruzioni di accesso al supporto prodotti Microsoft sia a questo indirizzo e-mail sia a quello dell'account del Centro per i partner dell'utente. L'attivazione di questo vantaggio e l'invio delle istruzioni tramite posta elettronica all'utente assegnato possono richiedere diversi giorni.
 
-   c.  Dopo aver immesso l'indirizzo e-mail alternativo, seleziona **Assegna utente**.
+   c. Dopo aver immesso l'indirizzo e-mail alternativo, seleziona **Assegna utente**.
 
 4. Puoi usare il vantaggio tecnico per il supporto prevendita o le ore di consulenza per richiedere assistenza tecnica durante le fasi di prevendita, progettazione, distribuzione e sviluppo di app per le tue soluzioni cloud e ibride. Per richiedere assistenza, compila il [modulo di richiesta](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) e quindi seleziona **Invia richiesta**.
 
@@ -116,26 +116,26 @@ Per visualizzare e gestire tutti i vantaggi dell'appartenenza, vai alla [pagina 
 
 1. Seleziona **Vantaggi** e quindi **Go-to-market** per visualizzare l'elenco delle offerte associate al programma Microsoft go-to-market.
 
-    Le [funzionalità go-to-market](mpn-learn-about-go-to-market-benefits.md) offrono risorse, offerte e programmi di marketing aggiuntivi, nonché le opzioni di assistenza disponibili. I tipi di offerte disponibili dipendono dal livello specifico del partner e dalle competenze già acquisite.
+   Le [funzionalità go-to-market](mpn-learn-about-go-to-market-benefits.md) offrono risorse, offerte e programmi di marketing aggiuntivi, nonché le opzioni di assistenza disponibili. I tipi di offerte disponibili dipendono dal livello specifico del partner e dalle competenze già acquisite.
 
 2. Per attivare qualsiasi offerta o programma go-to-market, devi prima assegnare un contatto marketing aziendale. Questo contatto riceverà le comunicazioni di follow-up relative alle offerte go-to-market attive.
 
 3. Per aggiungere o aggiornare le informazioni relative al contatto marketing, passa alla parte superiore della pagina Go-to-market e quindi seleziona **Aggiungi**, **Aggiorna** o **Modifica**. A questo punto, esegui le operazioni seguenti:  
 
-    a.  Selezionare un utente dall'elenco. Se l'utente da assegnare non è presente nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
+   a. Selezionare un utente dall'elenco. Se l'utente da assegnare non è presente nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
 
-    b.  Specifica un indirizzo e-mail per l'utente che sia diverso da quello associato all'account del Centro per i partner della tua azienda.
+   b. Specifica un indirizzo e-mail per l'utente che sia diverso da quello associato all'account del Centro per i partner della tua azienda.
 
-    Invieremo le istruzioni per usare l'offerta go-to-market all'indirizzo di posta elettronica del contatto marketing designato.
+      Invieremo le istruzioni per usare l'offerta go-to-market all'indirizzo di posta elettronica del contatto marketing designato.
 
-    c.  Fornisci il numero di telefono e la lingua preferita dal contatto marketing. Dopo aver immesso queste informazioni, seleziona **Assegna utente**.
+   c.  Fornisci il numero di telefono e la lingua preferita dal contatto marketing. Dopo aver immesso queste informazioni, seleziona **Assegna utente**.
 
-4. Dopo aver aggiornato il contatto marketing, trova l'offerta go-to-market che vuoi iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli dell'offerta. Nell'elenco, sotto la dicitura Offerta, verrà visualizzata ogni tipo di offerta disponibile, ad esempio **Silver Core** o **Gold Core**.
+4. Dopo aver aggiornato il contatto marketing, trova l'offerta go-to-market che vuoi iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli dell'offerta. L'elenco visualizza ogni tipo di offerta disponibile sotto la dicitura Vantaggio, ad esempio **Silver Core**, **Gold Core** o **ISV Co-sell ready** (pronto per il co-selling con ISV).
 
 5. Seleziona **Attiva** per attivare l'offerta.
 
-> [!NOTE]
->Per inviare le istruzioni al contatto marketing assegnato e attivare un'offerta go-to-market, possono essere necessari alcuni giorni. Dopo l'attivazione dell'offerta, la pagina Go-to-market risulterà modificata. Nella colonna **Stato** l'offerta verrà modificata in **Attiva**. Nella colonna **Scadenza** potrai visualizzare la data di scadenza dell'offerta. L'offerta può essere usata fino alla data di scadenza. Per altre informazioni, fai riferimento ai [diversi tipi di risorse, offerte e vantaggi go-to-market](mpn-learn-about-go-to-market-benefits.md) disponibili.  
+   > [!NOTE]
+   >Per inviare le istruzioni al contatto marketing assegnato e attivare un'offerta go-to-market, possono essere necessari alcuni giorni. Dopo l'attivazione dell'offerta, la pagina Go-to-market risulterà modificata. Nella colonna **Stato** l'offerta verrà modificata in **Attiva**. Nella colonna **Scadenza** potrai visualizzare la data di scadenza dell'offerta. L'offerta può essere usata fino alla data di scadenza. Per altre informazioni, fai riferimento ai [diversi tipi di risorse, offerte e vantaggi go-to-market](mpn-learn-about-go-to-market-benefits.md) disponibili.  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Annullare un vantaggio o un'offerta dell'abbonamento
 
@@ -143,8 +143,8 @@ Per annullare un vantaggio o un'offerta e ricevere un rimborso, devi fare richie
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-[Aggiungere utenti e assegnare le relative autorizzazioni](create-user-accounts-and-set-permissions.md)
+- [Aggiungere utenti e assegnare le relative autorizzazioni](create-user-accounts-and-set-permissions.md)
 
-[Acquistare o rinnovare una sottoscrizione di Microsoft Action Pack](mpn-get-action-pack.md)
+- [Acquistare o rinnovare una sottoscrizione di Microsoft Action Pack](mpn-get-action-pack.md)
 
-[Informazioni sulle offerte e sulle risorse go-to-market di MPN](mpn-learn-about-go-to-market-benefits.md)
+- [Informazioni sulle offerte e sulle risorse go-to-market di MPN](mpn-learn-about-go-to-market-benefits.md)

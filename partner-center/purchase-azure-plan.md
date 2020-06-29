@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come acquistare una o più sottoscrizioni e prenotazioni di Azure, configurare le risorse e visualizzare o aggiungere sottoscrizioni usando il piano di Azure.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b40851ae718bc3efdc416c633ad4ed54c802f75
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 711a787fd6ebd3494eb2b975aee338494728aa89
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467521"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909129"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Acquistare il piano di Azure per i clienti e accedere ai servizi di Azure più recenti con pagamento in base al consumo
 
@@ -78,7 +77,8 @@ Le prenotazioni di Azure devono essere associate a un piano di Azure attivo. Sce
 >[!Important] 
 >Se il cliente non ha ancora un piano di Azure attivo, seleziona Azure per aggiungerne uno ora. Per altre istruzioni, leggi [Acquista prenotazioni di Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
-Tieni presente che attualmente l'ambito della prenotazione può essere impostato solo su **Condiviso**. 
+>[!Note] 
+>Attualmente l'ambito di una prenotazione può essere impostato solo su **Condiviso**. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Impostazione ambito condiviso delle prenotazioni":::
 

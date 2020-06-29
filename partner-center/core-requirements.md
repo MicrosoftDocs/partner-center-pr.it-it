@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: attestazioni incentivi, attestazioni cooperazione, fondi cooperazione, requisiti di base
 ms.localizationpriority: high
-ms.openlocfilehash: e8babb28ab14b2cada56d9c2f65a588e7c682c2c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 417e0d0c8f2afe64d1690ede154a952f7c0bf32c
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74721317"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776298"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Requisiti di base delle attestazioni di cooperazione per gli incentivi
 
@@ -42,7 +42,7 @@ Nelle tabelle seguenti sono riportati i requisiti di base per ciascuna delle att
 |Annunci digitali|            |Screenshot dell'annuncio digitale e URL della pagina di destinazione in cui vengono illustrati i requisiti di base specifici del programma|Riepilogo dei risultati, ad esempio report click-through|Inserimento degli annunci pubblicitari tramite media di terze parti. Tariffa - agenzia: servizi di marketing e creativi, inclusi i compensi d'agenzia|  
 |Posta diretta, messaggi e-mail e SMS|             |1) Copia della comunicazione finale che mostra i requisiti di base specifici del programma 2) La prova di distribuzione può includere una busta per spedizione con timbro postale o altra prova di spedizione postale (posta diretta), messaggio e-mail finale con un'intestazione che riporta la data o altra prova di invio di messaggi e-mail (messaggio e-mail) oppure foto del messaggio telefonico (SMS)|   Copertura dei clienti (o partner) stimati   |• Acquisizione del database • Materiale stampato • Spese postali. Tariffa - agenzia: servizi di marketing e creativi, inclusi i compensi d'agenzia|
 |Motore di ricerca e sito Web del partner||URL e/o screenshot delle pagine del sito in cui viene mostrato l'URL; descrizione del lavoro o contratto di servizio per il progetto SEO (solo attività SEO)|Riepilogo dei risultati, ad esempio report click-through|Tariffa - agenzia: servizi di marketing, inclusi i compensi d'agenzia. Programmazione/sviluppo: costi di programmazione e sviluppo. Tariffa - SEO: costi di ottimizzazione e manutenzione|
-|Contenuto diffuso su diversi canali Microsoft||URL e/o screenshot delle pagine del sito in cui viene mostrato l'URL|Riepilogo dei risultati, ad esempio report click-through|Costi effettivi fino a USD 18.750 per periodo di utilizzo per: tariffa - servizi di marketing tramite agenzia, inclusi i compensi d'agenzia; costi di programmazione e sviluppo; inserimento degli annunci pubblicitari tramite media|
+|Contenuto diffuso su diversi canali Microsoft||URL e/o screenshot delle pagine del sito in cui viene mostrato l'URL|Riepilogo dei risultati, ad esempio report click-through|Costi effettivi fino a 18.750 USD per periodo di uso per: tariffa - servizi di marketing tramite agenzia, inclusi i compensi d'agenzia; costi di programmazione e sviluppo; inserimento degli annunci pubblicitari tramite media|
 |Campagna digitale multitouch|     |La prova di esecuzione integrale come descritta in dettaglio nella pagina delle attività applicabili è obbligatoria.  -Annunci digitali - E-mail diretta - Ottimizzazione motore di ricerca e sito Web del partner - Telemarketing||Inserimento degli annunci pubblicitari tramite media di terze parti • Tariffa - agenzia: servizi di marketing e creativi, inclusi i compensi d'agenzia. Acquisizione del database; • Programmazione/sviluppo: costi di programmazione e sviluppo. Tariffa - SEO: costi di ottimizzazione e manutenzione, tariffa - addebiti per call center di terze parti
 
 ## <a name="market-development"></a>Sviluppo del mercato

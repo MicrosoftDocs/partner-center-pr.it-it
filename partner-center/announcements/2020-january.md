@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/01/2020
-ms.openlocfilehash: d5276a473ce245d69edf610c6e7f86219237ac9e
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 93e29f5ed6409e244768136b1f7609a8e8e3391e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253988"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678938"
 ---
 # <a name="january-2020-announcements"></a>Annunci di gennaio 2020
 
@@ -47,7 +47,8 @@ Grazie alle prenotazioni di Azure e a queste sottoscrizioni server, che includon
 
 I partner possono ora acquisire, effettuare il provisioning e gestire prenotazioni di Azure e sottoscrizioni di Windows Server e SQL Server per conto dei clienti commerciali tramite il Centro per i partner e il portale di Azure.
 
-**Nota:** Tutte le offerte interessate sono disponibili nel listino prezzi del Centro per i partner.
+>[!Note] 
+>Tutte le offerte interessate sono disponibili nel listino prezzi del Centro per i partner.
 
 ### <a name="additional-resources"></a>Risorse aggiuntive
 
@@ -217,7 +218,8 @@ Il nuovo Contratto del cliente Microsoft per tutte le offerte di prodotti nel pr
 
 A partire dal 1° febbraio 2020 la conferma del partner dell'accettazione del Contratto del cliente Microsoft sarà necessaria per completare nuovi ordini per qualsiasi offerta CSP in tutte le aree nel cloud pubblico Microsoft. A partire da tale data un partner nel programma CSP non potrà completare un nuovo acquisto, incluse operazioni per la modifica delle postazioni e il rinnovo degli acquisti esistenti, senza l'accettazione del Contratto del cliente Microsoft da parte del cliente.
 
-**Nota: Contratto del cliente Microsoft e nuova esperienza commerciale nel programma CSP per Azure:** L'accettazione del Contratto del cliente Microsoft da parte dei clienti è obbligatoria per l'acquisto tramite [la nuova esperienza commerciale nel programma CSP per Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/), disponibile a partire dal 1° novembre 2019.
+>[!NOTE] 
+>Contratto del cliente Microsoft e Nuova esperienza commerciale in CSP per Azure**: per acquisti tramite la [nuova esperienza commerciale in CSP per Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) che è stata resa disponibile il 1° novembre 2019, è obbligatoria l'accettazione del Contratto del cliente Microsoft.
 
 Il Contratto del cliente Microsoft è un contratto di acquisto semplificato che fornisce condizioni di acquisto coerenti per i clienti, indipendentemente dal modo in cui scelgono di acquistare. A partire dal 1° ottobre 2019, il nuovo Contratto del cliente Microsoft è disponibile nel programma CSP e sostituisce il Contratto Microsoft Cloud esistente.
 
@@ -236,7 +238,8 @@ I partner possono presentare il nuovo Contratto del cliente Microsoft ai clienti
 - Collegamento al Contratto del cliente Microsoft
 - Informazioni sulle API per i partner che usano le API per confermare l'accettazione del contratto da parte del cliente.
 
-Nota: Più avanti nel primo trimestre del 2020, i partner avranno anche la possibilità di invitare i clienti in un portale Microsoft autenticato per visualizzare e firmare il Contratto del cliente Microsoft. Microsoft si assumerà la responsabilità di confermare l'accettazione del Contratto del cliente Microsoft da parte dei clienti.
+>[!Note] 
+>Più avanti nel primo trimestre del 2020, i partner avranno anche la possibilità di invitare i clienti in un portale Microsoft autenticato per visualizzare e firmare il Contratto del cliente Microsoft. Microsoft si assumerà la responsabilità di confermare l'accettazione del Contratto del cliente Microsoft da parte dei clienti.
 
 ### <a name="change-log"></a>Registro delle modifiche
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 773466a1c7bfb8a091be11f8e825dae6cc90b765
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453238"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679088"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guida alla migrazione da Partner Membership Center (PMC) al Centro per i partner
 
@@ -27,7 +27,7 @@ Il sito Web dei partner Microsoft disponibile all'indirizzo partner.microsoft.co
 
 Le autorizzazioni a Partner Membership Center (PMC) stanno per essere rimosse. La tua azienda è stata invitata a eseguire la transizione dalla gestione delle appartenenze di Microsoft Partner Network al Centro per i partner. Questa guida ti preparerà a eseguire le attività previste quando si passa da PMC al Centro per i partner.
 
->[!Note]
+>[!NOTE]
 >Anche se la tua azienda ha più account o posizioni, il passaggio al Centro per i partner inizia con lo spostamento di un account (il primo) al Centro per i partner.
 
 ## <a name="get-started"></a>Operazioni preliminari
@@ -51,7 +51,7 @@ Seleziona **Inizia** nell'invito ricevuto. Verrà visualizzata la pagina di acce
 
 Se la tua azienda non dispone di un indirizzo e-mail aziendale e di un tenant AAD, potrai configurarli durante la procedura di accesso al Centro per i partner. Quando provi ad accedere con un account e-mail non aziendale, ad esempio con l'account personale, ti verrà chiesto di fornire informazioni sulla tua azienda in modo che sia possibile configurare un tenant AAD e un indirizzo e-mail aziendale. Poiché questi dettagli aziendali verranno usati per finalizzare il tuo account nel Centro per i partner, assicurati che siano corretti.
 
->[!Note]
+>[!NOTE]
 >Se sei un partner con sede in Cina e sei iscritto ai programmi Microsoft Partner Network e Cloud Solution Provider (CSP), avrai un tenant separato per ogni account. L'account del programma Cloud Solution Provider viene gestito nel cloud nazionale, mentre l'account di Microsoft Partner Network viene gestito nel cloud globale. Non è possibile collegare i due account.
 
 :::image type="content" source="images/migration/newtellusabout.png" alt-text="Descrivere la società":::
@@ -74,11 +74,16 @@ Quando viene creato il nuovo tenant di Azure AD, puoi invitare i tuoi dipendenti
 
 :::image type="content" source="images/migration/invite.png" alt-text="Invitare i dipendenti":::
 
-Se hai eseguito l'accesso con un tenant AAD esistente, i dipendenti sono stati spostati con te. In questo caso, assegna ai dipendenti ruoli specifici per definire le operazioni che possono eseguire nel Centro per i partner. Nota: i ruoli nel Centro per i partner sono diversi dai ruoli in PMC. Per altre informazioni, vedi [Passaggio dal Partner Membership Center al Centro per i partner](move-pmc-pc-map.md).
+Se hai eseguito l'accesso con un tenant AAD esistente, i dipendenti sono stati spostati con te. In questo caso, assegna ai dipendenti ruoli specifici per definire le operazioni che possono eseguire nel Centro per i partner. 
+
+>[!NOTE] 
+>i ruoli nel Centro per i partner sono diversi dai ruoli in PMC. Per altre informazioni, vedi [Passaggio dal Partner Membership Center al Centro per i partner](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Verificare il dominio e diventare un amministratore globale  
 
-Se il tenant AAD è nuovo, il ruolo di amministratore globale non è assegnato a nessuno. Per diventare l'amministratore globale, devi verificare la proprietà del dominio. A tale scopo, potresti aver bisogno dell'assistenza dell'amministratore di dominio. Tieni presente che, anche se puoi usare le offerte già acquistate, non potrai acquistare nuove offerte fino a quando non completerai la procedura per diventare amministratore globale.
+Se il tenant AAD è nuovo, il ruolo di amministratore globale non è assegnato a nessuno. Per diventare l'amministratore globale, devi verificare la proprietà del dominio. A tale scopo, potresti aver bisogno dell'assistenza dell'amministratore di dominio.
+
+Fino a quando il passaggio di assegnazione di un amministratore globale non sarà stato completato, le nuove offerte non risulteranno disponibili per l'acquisto, mentre quelle già acquistate potranno continuare a essere usate.
 
 :::image type="content" source="images/migration/takecontrol.png" alt-text="Assumere il controllo":::
 

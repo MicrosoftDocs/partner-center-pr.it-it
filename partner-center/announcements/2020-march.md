@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/01/2020
-ms.openlocfilehash: 4f682fc6435d6a0b29d727ded2d08fc934666020
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253998"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678928"
 ---
 # <a name="march-2020-announcements"></a>Annunci di marzo 2020
 
@@ -104,7 +104,8 @@ Sono disponibili nuove funzionalità per il trasferimento delle sottoscrizioni C
 
 Per altre informazioni, vedere la pagina delle [offerte CSP](https://docs.microsoft.com/partner-center/csp-offers).
 
-Nota: i trasferimenti supporteranno solo sottoscrizioni basate su licenza e sottoscrizioni di Azure. Sarà necessario eseguire manualmente il trasferimento del piano di Azure e degli acquisti del marketplace commerciale. Si noti che questo approccio comporta l'annullamento e il rinnovo delle sottoscrizioni indicate nei documenti seguenti: [Piano di Azure](https://docs.microsoft.com/partner-center/azure-plan-lp) e [marketplace commerciale](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). Poiché le sottoscrizioni del server e le prenotazioni di Azure sono un acquisto occasionale, non sarà necessario trasferirle in un tenant di provider indiretto. Per altre informazioni, vedere la pagina delle offerte di CSP.
+>[!NOTE] 
+>i trasferimenti supporteranno solo sottoscrizioni basate su licenza e sottoscrizioni di Azure. Sarà necessario eseguire manualmente il trasferimento del piano di Azure e degli acquisti del marketplace commerciale. Si noti che questo approccio comporta l'annullamento e il rinnovo delle sottoscrizioni indicate nei documenti seguenti: [Piano di Azure](https://docs.microsoft.com/partner-center/azure-plan-lp) e [marketplace commerciale](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). Poiché le sottoscrizioni del server e le prenotazioni di Azure sono un acquisto occasionale, non sarà necessario trasferirle in un tenant di provider indiretto. Per altre informazioni, vedere la pagina delle offerte di CSP.
 
 ### <a name="additional-resources"></a>Risorse aggiuntive:
 
@@ -147,7 +148,7 @@ Il 1° aprile 2020 Microsoft presenterà un nuovo SKU di livello base e un ripos
 
 **Nuovo SKU di livello base:** Il nuovo SKU di livello base sarà denominato Microsoft 365 F1 e offrirà valore specifico per gli operatori sul campo, oltre a valore esteso a livello di sicurezza e identità per tutti i lavoratori. Questa offerta include Teams, SharePoint Online, Yammer Enterprise, Stream, EMS E3 e accesso in sola lettura per app Web/per dispositivi mobili di Office.
 
-Queste modifiche offriranno valore migliore per gli operatori sul campo e permetteranno ai partner di sfruttare un'opportunità di crescita significativa per gli utenti. **Vedere la documentazione aggiuntiva disponibile [qui](http:/resources/collection/Microsoft-365-firstline-offer-updates#/) per scoprire di più sulla proposta di valore e sui passaggi successivi.**
+Questi miglioramenti offriranno un incremento di valore per gli operatori sul campo e consentiranno ai partner di beneficiare di un'opportunità significativa per la crescita degli utenti. **Vedere la documentazione aggiuntiva disponibile [qui](http:/resources/collection/Microsoft-365-firstline-offer-updates#/) per scoprire di più sulla proposta di valore e sui passaggi successivi.**
 
 |**Sequenza temporale delle modifiche**|**Modifica**|
 |-------------------|:------|
@@ -209,7 +210,8 @@ Come parte del nostro impegno continuo nei confronti delle procedure conformi pe
 - Per ridurre eventuali ritardi nell'indagine degli errori di verifica per immissioni legittime, assicurarsi di immettere dati relativi ai clienti che siano il più **accurati** e **completi** possibile. Non immettere dati di prova/fittizi.
 - Esaminare la **guida alla creazione di clienti di tipo Education nel Centro per i partner** e la **pagina di aggiunta di nuovi clienti** che illustrano i requisiti per la creazione di un nuovo cliente di tipo Education nel Centro per i partner. Sono entrambe disponibili nella raccolta di risorse seguente.
 
-**NOTA:** la **guida alla creazione di clienti di tipo Education nel Centro per i partner** include ora istruzioni dettagliate sul modo in cui correggere le informazioni dei clienti e ripetere l'invio se la verifica del cliente ha avuto esito negativo.
+>[!NOTE] 
+>la **guida alla creazione di clienti di tipo Education nel Centro per i partner** include ora istruzioni dettagliate sul modo in cui correggere le informazioni dei clienti e ripetere l'invio se la verifica del cliente ha avuto esito negativo.
 
 **Passaggi successivi/risorse aggiuntive:**
 
@@ -218,7 +220,7 @@ Raccolta di risorse per gli aggiornamenti al programma CSP: [Modifiche al progra
 ### <a name="change-log"></a>Registro delle modifiche:
 
 - Data di pubblicazione originale: 19 dicembre 2019
-- Contattare il supporto tecnico se il nuovo partner che vende offerte di tipo Education è stato rimosso (non più necessario): 13 gennaio 2020
+- Per contattare il supporto tecnico se il nuovo partner che vende offerte di tipo Education è stato rimosso (non più necessario): 13 gennaio 2020
 - Aggiunta dell'aggiornamento di febbraio 2020: 10 febbraio 2020
 - Avviso relativo alla nuova possibilità di correggere le informazioni dell'account del cliente e ripetere l'invio per la verifica: 10 marzo 2020
 

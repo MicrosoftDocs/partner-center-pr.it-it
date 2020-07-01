@@ -1,0 +1,175 @@
+---
+title: Creare e gestire i profili di pagamento e fiscali nel centro per i partner
+ms.topic: article
+ms.date: 06/29/2020
+description: Prima di poter pagare il lavoro per gli incentivi, è necessario creare i profili di pagamento e di imposta.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+author: LauraBrenner
+ms.author: labrenne
+ms.localizationpriority: medium
+ms.openlocfilehash: b7f99ff64b6cdabe8b59607e5820daf0909050f1
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85719399"
+---
+# <a name="payout-and-tax-profiles-in-partner-center"></a><span data-ttu-id="d96c2-103">Profili di pagamento e fiscali nel centro per i partner</span><span class="sxs-lookup"><span data-stu-id="d96c2-103">Payout and tax profiles in Partner Center</span></span>
+
+<span data-ttu-id="d96c2-104">Si applica a:</span><span class="sxs-lookup"><span data-stu-id="d96c2-104">Applies to:</span></span>
+
+- <span data-ttu-id="d96c2-105">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="d96c2-105">Partner Center</span></span>
+
+<span data-ttu-id="d96c2-106">Prima di poter ricevere il pagamento per i programmi Incentivi per una particolare posizione MPN, è necessario completare la registrazione associando un profilo di pagamento e fiscale valido al programma e alla posizione MPN.</span><span class="sxs-lookup"><span data-stu-id="d96c2-106">Before you can receive payment for your incentive programs for a particular MPN location, you must complete your enrollment by associating a valid payout and tax profile with the program and MPN location.</span></span> <span data-ttu-id="d96c2-107">Microsoft userà il profilo di pagamento e fiscale per emettere i pagamenti.</span><span class="sxs-lookup"><span data-stu-id="d96c2-107">Microsoft will use this payout and tax profile to issue payments.</span></span> <span data-ttu-id="d96c2-108">È possibile che l'utente sia autorizzato a usare il trasferimento bancario elettronico o una nota di accredito per il pagamento, a seconda delle regole del programma Incentivi.</span><span class="sxs-lookup"><span data-stu-id="d96c2-108">You may be allowed to use electronic bank transfer or a credit note for payment, depending on the rules of the incentive program.</span></span> 
+
+<span data-ttu-id="d96c2-109">Ruoli appropriati:</span><span class="sxs-lookup"><span data-stu-id="d96c2-109">Appropriate roles:</span></span>
+
+- <span data-ttu-id="d96c2-110">Amministratore degli incentivi</span><span class="sxs-lookup"><span data-stu-id="d96c2-110">Incentives admin</span></span>
+- <span data-ttu-id="d96c2-111">Amministratore fatturazione</span><span class="sxs-lookup"><span data-stu-id="d96c2-111">Billing admin</span></span>
+- <span data-ttu-id="d96c2-112">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="d96c2-112">Global admin</span></span>
+
+## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a><span data-ttu-id="d96c2-113">Creare e gestire i profili di pagamento e fiscali nel centro per i partner</span><span class="sxs-lookup"><span data-stu-id="d96c2-113">Create and manage payout and tax profiles in Partner Center</span></span>
+
+<span data-ttu-id="d96c2-114">Le sezioni seguenti illustrano il processo di creazione e gestione dei profili di pagamento e di imposta nel centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="d96c2-114">The sections below will walk you through the process of creating and managing payment and tax profiles in Partner Center.</span></span>
+
+>[!IMPORTANT]
+><span data-ttu-id="d96c2-115">È necessario essere un amministratore di incentivi per creare o gestire i profili di pagamento nel centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="d96c2-115">You must be an Incentive admin to create or manage payment profiles in Partner Center.</span></span> <span data-ttu-id="d96c2-116">I ruoli incentivo devono essere assegnati a ogni località MPN in ogni programma di incentivi.</span><span class="sxs-lookup"><span data-stu-id="d96c2-116">Incentive roles must be assigned to each MPN location under each incentive program.</span></span> <span data-ttu-id="d96c2-117">Per altre informazioni su come aggiungere gli amministratori di incentivi in Partner Center, vedere [come aggiungere utenti o amministratori di incentivi nel centro per i partner](https://support.microsoft.com/help/3011450/how-to-add-incentive-users-or-admins-in-partner-center).</span><span class="sxs-lookup"><span data-stu-id="d96c2-117">For more information on how to add Incentive admins in Partner Center, see [How to add incentive users or admins in Partner Center](https://support.microsoft.com/help/3011450/how-to-add-incentive-users-or-admins-in-partner-center).</span></span>
+
+## <a name="access-the-payout-and-tax-section-in-partner-center"></a><span data-ttu-id="d96c2-118">Accedere alla sezione relativa ai pagamenti e alle imposte nel centro per i partner</span><span class="sxs-lookup"><span data-stu-id="d96c2-118">Access the payout and tax section in Partner Center</span></span>
+
+1. <span data-ttu-id="d96c2-119">Accedere al centro per i partner usando il proprio account AAD (account aziendale) o l'indirizzo di posta elettronica appropriato se ne è stato assegnato uno.</span><span class="sxs-lookup"><span data-stu-id="d96c2-119">Log into Partner Center using your AAD account (company account), or the appropriate email address if one was assigned.</span></span> 
+
+   - <span data-ttu-id="d96c2-120">È possibile registrare più domini all'interno di un account di AAD.</span><span class="sxs-lookup"><span data-stu-id="d96c2-120">Multiple domains can be registered within one AAD account.</span></span> <span data-ttu-id="d96c2-121">Contattare l'amministratore globale per determinare quali domini sono associati.</span><span class="sxs-lookup"><span data-stu-id="d96c2-121">Contact your Global admin to determine which domains are associated.</span></span>
+   - <span data-ttu-id="d96c2-122">Se è possibile eseguire l'accesso solo con **@onmicrosoft.com** il dominio, contattare l'amministratore dell'account per aggiungere altri domini all'account AAD.</span><span class="sxs-lookup"><span data-stu-id="d96c2-122">If you are only able to login with **@onmicrosoft.com** domain, contact your Account admin to add additional domains to the AAD account.</span></span>
+   - <span data-ttu-id="d96c2-123">Se viene richiesto di selezionare un account aziendale o dell' **Istituto di istruzione** o un account **personale**, selezionare account aziendale o dell'Istituto di **istruzione**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-123">If prompted to select **Work or school account** or **Personal Account**, select **Work or school account**.</span></span>
+
+2. <span data-ttu-id="d96c2-124">Selezionare l'icona a forma di ingranaggio per aprire il menu **Impostazioni** , quindi selezionare **Impostazioni partner**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-124">Select the gear icon to open the **Settings** menu, and then select **Partner settings**.</span></span>
+
+3. <span data-ttu-id="d96c2-125">Nel menu **Impostazioni account** selezionare **pagamenti e imposte**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-125">In the **Account settings** menu, select **Payout and tax**.</span></span> 
+
+## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a><span data-ttu-id="d96c2-126">Assegnare i profili di pagamento e di imposta a singoli programmi</span><span class="sxs-lookup"><span data-stu-id="d96c2-126">Assign payout and tax profiles to individual programs</span></span>
+
+1. <span data-ttu-id="d96c2-127">In centro per i partner selezionare l'icona a forma di ingranaggio per aprire il menu **Impostazioni** .</span><span class="sxs-lookup"><span data-stu-id="d96c2-127">In Partner Center, select the gear icon to open the **Settings** menu.</span></span> 
+
+2. <span data-ttu-id="d96c2-128">Selezionare **Impostazioni partner**, espandere la **sezione pagamenti e imposte**, quindi selezionare **assegnazione del profilo di pagamento e di imposta**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-128">Select **Partner settings**, expand the **Payout and tax section**, and then select **Payout and tax profile assignment**.</span></span> 
+   
+   <span data-ttu-id="d96c2-129">Verrà visualizzato un elenco dei programmi.</span><span class="sxs-lookup"><span data-stu-id="d96c2-129">A list of your programs will be displayed.</span></span> <span data-ttu-id="d96c2-130">Selezionare la freccia accanto a un programma per visualizzare i dettagli del profilo.</span><span class="sxs-lookup"><span data-stu-id="d96c2-130">Select the arrow next to a program to see profile details.</span></span> 
+
+3. <span data-ttu-id="d96c2-131">Nel menu a discesa **profilo fiscale** selezionare il profilo fiscale desiderato oppure selezionare l'opzione per creare un nuovo profilo.</span><span class="sxs-lookup"><span data-stu-id="d96c2-131">In the **Tax Profile** dropdown menu, select the tax profile you want, or select the option to create a new profile.</span></span> <span data-ttu-id="d96c2-132">Quando si seleziona l'opzione per creare un nuovo profilo, si verrà reindirizzati in modo appropriato.</span><span class="sxs-lookup"><span data-stu-id="d96c2-132">When you select the option to create a new profile, you’ll be redirected appropriately.</span></span>  <span data-ttu-id="d96c2-133">Selezionare continua nella finestra popup.</span><span class="sxs-lookup"><span data-stu-id="d96c2-133">Select Continue in the pop-up window.</span></span> <span data-ttu-id="d96c2-134">Il processo per la creazione di un nuovo profilo fiscale è stato fornito di seguito.</span><span class="sxs-lookup"><span data-stu-id="d96c2-134">The process for creating a new tax profile has been provided below.</span></span>
+
+4. <span data-ttu-id="d96c2-135">Selezionare il **metodo di pagamento**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-135">Select **Payment method**.</span></span>
+
+   - <span data-ttu-id="d96c2-136">Se si è scelto **Electronic Bank Transfer** come metodo di pagamento, selezionare il profilo di pagamento desiderato nell'elenco a discesa Profilo di pagamento oppure selezionare l'opzione per la creazione di un nuovo profilo.</span><span class="sxs-lookup"><span data-stu-id="d96c2-136">If you have selected **Electronic bank transfer** as payment method then in the payment profile dropdown select the payment profile you want or select the option to create a new profile.</span></span> <span data-ttu-id="d96c2-137">Quando si seleziona l'opzione per creare un nuovo profilo, si verrà reindirizzati in modo appropriato.</span><span class="sxs-lookup"><span data-stu-id="d96c2-137">When you select the option to create a new profile, you’ll be redirected appropriately.</span></span>  <span data-ttu-id="d96c2-138">Selezionare continua nella finestra popup.</span><span class="sxs-lookup"><span data-stu-id="d96c2-138">Select Continue in the pop-up window.</span></span> <span data-ttu-id="d96c2-139">Di seguito è riportato il processo per la creazione di un nuovo profilo di pagamento.</span><span class="sxs-lookup"><span data-stu-id="d96c2-139">The process for creating a new payment profile has been provided below.</span></span>
+
+   - <span data-ttu-id="d96c2-140">Se è stata selezionata l'opzione **Nota credito** come metodo di pagamento, completare la verifica per verificare che il numero SAP a cui si fa riferimento appartenga all'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="d96c2-140">If you have selected **Credit Note** as the payment method then complete the verification to confirm that the referenced SAP number belongs to your organization.</span></span>
+
+    >[!NOTE]
+    ><span data-ttu-id="d96c2-141">Se sono elencate più entità aziendali Microsoft, è necessario selezionare un profilo di pagamento per ogni entità.</span><span class="sxs-lookup"><span data-stu-id="d96c2-141">If there are multiple Microsoft business entities listed, you must select a payment profile for each entity.</span></span>
+
+    >[!NOTE]
+    ><span data-ttu-id="d96c2-142">La disponibilità dei metodi di pagamento dipende dalle regole del programma di incentivi.</span><span class="sxs-lookup"><span data-stu-id="d96c2-142">The payment method availability is dependent on the rules of the incentive program.</span></span>
+    
+5. <span data-ttu-id="d96c2-143">Selezionare la **valuta**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-143">Select the **Currency**.</span></span>
+
+6. <span data-ttu-id="d96c2-144">Una volta completati tutti i campi di pagamento, selezionare **Invia**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-144">When you’ve completed all of the payment fields, select **Submit**.</span></span>
+
+## <a name="create-your-bank-profile"></a><span data-ttu-id="d96c2-145">Creare il profilo bancario</span><span class="sxs-lookup"><span data-stu-id="d96c2-145">Create your bank profile</span></span>
+
+<span data-ttu-id="d96c2-146">I profili bancari vengono creati a livello di organizzazione, che consente di assegnare lo stesso profilo bancario tra più ID MPN e programmi incentive all'interno di un'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="d96c2-146">Bank profiles are created at an organization level, which allows for the same bank profile to be assigned across multiple MPN ID’s and incentive programs within an organization.</span></span> <span data-ttu-id="d96c2-147">È possibile che si verifichino eccezioni durante l'applicazione del profilo bancario a paesi diversi, in quanto possono essere applicate diverse regole fiscali e bancarie.</span><span class="sxs-lookup"><span data-stu-id="d96c2-147">There may be exceptions when applying the banking profile to different countries, as different banking and tax rules may apply.</span></span>
+
+>[!NOTE]
+><span data-ttu-id="d96c2-148">Nelle pagine seguenti sono necessari campi con un asterisco.</span><span class="sxs-lookup"><span data-stu-id="d96c2-148">On the following pages, fields with an asterisk are required.</span></span> <span data-ttu-id="d96c2-149">Se non si conosce il campo, selezionare l'icona informazioni.</span><span class="sxs-lookup"><span data-stu-id="d96c2-149">If you don’t know what a field is, select the information icon.</span></span> 
+
+1. <span data-ttu-id="d96c2-150">Nella pagina **Dettagli** completare i campi seguenti: **nome profilo:** immettere un nome univoco per identificare il profilo di pagamento.</span><span class="sxs-lookup"><span data-stu-id="d96c2-150">On the **Details** page, complete the following fields: **Profile name:** Enter a unique name to identify this payment profile.</span></span>
+    <span data-ttu-id="d96c2-151">**Posizione conto bancario:** Il paese in cui si trova la banca della società.</span><span class="sxs-lookup"><span data-stu-id="d96c2-151">**Bank account location:** The country in which your company’s bank is located.</span></span>
+    <span data-ttu-id="d96c2-152">**Metodo di pagamento:** Il metodo di pagamento preferito per il centro per i partner è il trasferimento bancario elettronico.</span><span class="sxs-lookup"><span data-stu-id="d96c2-152">**Payment method:** The preferred payment method is for Partner Center is electronic bank transfer.</span></span>
+
+2. <span data-ttu-id="d96c2-153">Selezionare **Avanti**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-153">Select **Next**.</span></span>
+
+3. <span data-ttu-id="d96c2-154">Nella pagina **conto bancario** immettere le informazioni.</span><span class="sxs-lookup"><span data-stu-id="d96c2-154">On the **Bank account** page, enter your information.</span></span> <span data-ttu-id="d96c2-155">I campi visualizzati in questa pagina variano in base al paese.</span><span class="sxs-lookup"><span data-stu-id="d96c2-155">Fields shown on this page will vary by country.</span></span> 
+
+4. <span data-ttu-id="d96c2-156">Selezionare **Avanti**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-156">Select **Next**.</span></span>
+
+5. <span data-ttu-id="d96c2-157">Nella pagina **beneficiari** immettere le informazioni appropriate.</span><span class="sxs-lookup"><span data-stu-id="d96c2-157">On the **Beneficiary** page, enter the appropriate information.</span></span> <span data-ttu-id="d96c2-158">Il beneficiario è la persona dell'azienda a cui la banca potrebbe rivolgersi se deve discutere l'account.</span><span class="sxs-lookup"><span data-stu-id="d96c2-158">The beneficiary is the person in your company that the bank would contact if they need to discuss your account.</span></span>
+
+6. <span data-ttu-id="d96c2-159">Una volta completati i campi, selezionare **fine**, quindi selezionare **conferma** per creare il profilo bancario.</span><span class="sxs-lookup"><span data-stu-id="d96c2-159">When the fields are completed, select **Finish**, and then select **Confirm** to create your bank profile.</span></span>
+
+<span data-ttu-id="d96c2-160">Si verrà reindirizzati alla pagina dei **profili di pagamento e fiscali** .</span><span class="sxs-lookup"><span data-stu-id="d96c2-160">You’ll be redirected to the **Payout and tax profiles** page.</span></span> <span data-ttu-id="d96c2-161">Lo stato del nuovo profilo rifletterà la **convalida Microsoft in sospeso** fino a quando non sarà stata completata la convalida.</span><span class="sxs-lookup"><span data-stu-id="d96c2-161">The status of your new profile will reflect **Pending Microsoft validation** until the validation has been completed.</span></span> <span data-ttu-id="d96c2-162">Questa operazione può richiedere fino a 48 ore.</span><span class="sxs-lookup"><span data-stu-id="d96c2-162">This may take up to 48 hours.</span></span> <span data-ttu-id="d96c2-163">Al termine della convalida, lo stato del profilo rifletterà l' **approvazione** o l' **azione richiesta**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-163">Once validation has been completed, your profile status will reflect either **Approved** or **Action required**.</span></span> <span data-ttu-id="d96c2-164">Se è **richiesta l'azione**, ripetere i passaggi precedenti fornendo le informazioni necessarie.</span><span class="sxs-lookup"><span data-stu-id="d96c2-164">If **Action Required**, repeat the steps above providing the necessary information.</span></span> 
+
+## <a name="create-your-tax-profile"></a><span data-ttu-id="d96c2-165">Creare il profilo fiscale</span><span class="sxs-lookup"><span data-stu-id="d96c2-165">Create your tax profile</span></span>
+
+<span data-ttu-id="d96c2-166">Utilizzare la seguente procedura per fornire a Microsoft le informazioni fiscali necessarie per l'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="d96c2-166">Use the following procedure to provide Microsoft with the tax information required for your organization.</span></span> <span data-ttu-id="d96c2-167">Le pagine di questa sezione sono dinamiche e variano in base al paese o all'area geografica.</span><span class="sxs-lookup"><span data-stu-id="d96c2-167">The pages in this section are dynamic and will vary according your country or region.</span></span> <span data-ttu-id="d96c2-168">Se è necessario assistenza per identificare le informazioni fiscali corrette, contattare le fonti governative appropriate nel proprio paese.</span><span class="sxs-lookup"><span data-stu-id="d96c2-168">If you need help identifying the correct tax information, contact the appropriate government sources in your country.</span></span>
+
+<span data-ttu-id="d96c2-169">Per le società partner in America, se sono necessarie informazioni sul completamento dei moduli W8 o W9, i seguenti indirizzi indirizzano al sito di IRS:</span><span class="sxs-lookup"><span data-stu-id="d96c2-169">For partner companies in the Americas, if you require information on completing the W8 or W9 forms, the following addresses take you to the IRS site:</span></span>
+
+- [http://www.irs.gov/pub/irs-pdf/iw8.pdf](http://www.irs.gov/pub/irs-pdf/iw8.pdf)
+- [http://www.irs.gov/pub/irs-pdf/iw9.pdf](http://www.irs.gov/pub/irs-pdf/iw9.pdf)
+
+>[!IMPORTANT]
+> <span data-ttu-id="d96c2-170">Immettere solo i dettagli della società.</span><span class="sxs-lookup"><span data-stu-id="d96c2-170">Enter only details for your company.</span></span> <span data-ttu-id="d96c2-171">Non immettere mai i dettagli personali.</span><span class="sxs-lookup"><span data-stu-id="d96c2-171">Never enter personal details.</span></span>
+
+1. <span data-ttu-id="d96c2-172">Nella pagina **profilo business** completare i campi obbligatori e quindi fare clic su **Avanti**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-172">On the **Business Profile** page, complete the required fields and then select **Next**.</span></span> 
+
+2. <span data-ttu-id="d96c2-173">Nella pagina di **installazione** selezionare l'opzione che si applica alla società.</span><span class="sxs-lookup"><span data-stu-id="d96c2-173">On the **Setup** page, select the option that applies to your company.</span></span>
+
+   - <span data-ttu-id="d96c2-174">Selezionare l'opzione a sinistra se la società è incorporata solo nel Stati Uniti o se il profilo è per un singolo utente.</span><span class="sxs-lookup"><span data-stu-id="d96c2-174">Select the option on the left if your company is incorporated in the United States only, or if this profile is for an individual.</span></span> 
+   - <span data-ttu-id="d96c2-175">Selezionare l'opzione a destra se la società è incorporata all'esterno del Stati Uniti, quindi selezionare il paese dall'elenco.</span><span class="sxs-lookup"><span data-stu-id="d96c2-175">Select the option on the right if your company is incorporated outside of the United States, and then select your country/region from the list.</span></span>
+
+3. <span data-ttu-id="d96c2-176">Selezionare **Avanti**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-176">Select **Next**.</span></span> 
+
+4. <span data-ttu-id="d96c2-177">Nella pagina **Tax status** immettere le informazioni necessarie e quindi fare clic su **Next (avanti**).</span><span class="sxs-lookup"><span data-stu-id="d96c2-177">On the **Tax status** page, enter the required information, and then select **Next**.</span></span> <span data-ttu-id="d96c2-178">I campi in questa pagina variano in base al paese.</span><span class="sxs-lookup"><span data-stu-id="d96c2-178">Fields on this page will vary by country.</span></span> <span data-ttu-id="d96c2-179">dettagli.</span><span class="sxs-lookup"><span data-stu-id="d96c2-179">your details.</span></span> 
+
+5. <span data-ttu-id="d96c2-180">Nella pagina **documentazione aggiuntiva** , i campi obbligatori e selezionare **Avanti**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-180">On the **Additional documentation** page, the required fields and select **Next**.</span></span> 
+
+6. <span data-ttu-id="d96c2-181">Selezionare **Browse (Sfoglia** ) per caricare i documenti richiesti dal paese o dall'area geografica.</span><span class="sxs-lookup"><span data-stu-id="d96c2-181">Select **Browse** to upload any documents required by your country or region.</span></span> <span data-ttu-id="d96c2-182">Quando viene visualizzato il nome del documento, selezionare **carica**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-182">When the document name is shown, select **Upload**.</span></span> 
+
+7. <span data-ttu-id="d96c2-183">Se è necessario rimuovere il documento, selezionare **Rimuovi**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-183">If you need to remove the document, select **Remove**.</span></span>
+
+8. <span data-ttu-id="d96c2-184">Per salvare e continuare, selezionare **fine**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-184">To save and continue, select **Finish**.</span></span>
+
+9. <span data-ttu-id="d96c2-185">Selezionare **conferma** nel messaggio popup.</span><span class="sxs-lookup"><span data-stu-id="d96c2-185">Select **Confirm** on the pop-up message.</span></span> <span data-ttu-id="d96c2-186">Verrà ripristinata la pagina di **configurazione dei pagamenti e delle imposte** .</span><span class="sxs-lookup"><span data-stu-id="d96c2-186">You’ll be taken back to the **Payout and tax setup** page.</span></span>
+
+## <a name="payout-and-tax-profile-faqs"></a><span data-ttu-id="d96c2-187">Domande frequenti sul profilo fiscale e sui pagamenti</span><span class="sxs-lookup"><span data-stu-id="d96c2-187">Payout and tax profile FAQs</span></span>
+
+### <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a><span data-ttu-id="d96c2-188">Perché è necessario fornire il pagamento e/o le informazioni fiscali?</span><span class="sxs-lookup"><span data-stu-id="d96c2-188">Why do I need to provide my payout and/or tax details?</span></span>
+
+<span data-ttu-id="d96c2-189">Per ricevere i pagamenti per i programmi per gli incentivi Microsoft, è necessario completare la registrazione fornendo i dettagli validi per i pagamenti e le imposte.</span><span class="sxs-lookup"><span data-stu-id="d96c2-189">In order to receive payouts for Microsoft incentive programs, you need to complete enrollment by providing valid payout and tax details.</span></span> <span data-ttu-id="d96c2-190">Una registrazione viene considerata completa solo quando i pagamenti e i profili fiscali forniti vengono convalidati da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="d96c2-190">An enrollment is considered complete only when the payout and tax profile you provide is validated by Microsoft.</span></span>
+
+### <a name="how-do-i-know-that-i-need-to-provideupdate-my-payout-andor-tax-details"></a><span data-ttu-id="d96c2-191">Ricerca per categorie sa che è necessario fornire/aggiornare i dettagli relativi a pagamenti e/o imposte?</span><span class="sxs-lookup"><span data-stu-id="d96c2-191">How do I know that I need to provide/update my payout and/or tax details?</span></span>
+
+<span data-ttu-id="d96c2-192">Per completare la registrazione, tutti i partner che eseguono la registrazione in un nuovo programma incentive devono fornire i dettagli validi per i pagamenti e le imposte.</span><span class="sxs-lookup"><span data-stu-id="d96c2-192">All partners enrolling in a new incentive program must provide valid payout and tax details to complete the enrollment.</span></span>
+
+<span data-ttu-id="d96c2-193">Potrebbe anche essere necessario fornire informazioni aggiornate se le regole per il programma incentive cambiano o se gli aspetti del profilo scadono o diventano obsoleti.</span><span class="sxs-lookup"><span data-stu-id="d96c2-193">You may also need to provide updated information if the rules for your incentive program change, or if aspects of the profile expire or become outdated.</span></span> <span data-ttu-id="d96c2-194">In tal caso, nella pagina di panoramica verrà visualizzato lo stato **azione richiesta: Aggiorna banca e/o profilo fiscale**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-194">If this happens, your Overview page will show a status of **Action required – Update bank and/or tax profile**.</span></span>
+
+### <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a><span data-ttu-id="d96c2-195">In che modo inserisco o aggiorno i dettagli di pagamento e/o fiscali?</span><span class="sxs-lookup"><span data-stu-id="d96c2-195">How do I provide/ update my payout and/ or tax details?</span></span>
+
+<span data-ttu-id="d96c2-196">Per informazioni dettagliate su come aggiornare i dettagli relativi ai pagamenti e alle imposte nel centro per i partner, vedere [How to create and Manage Bank and Tax Profiles in Partner Center](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center)</span><span class="sxs-lookup"><span data-stu-id="d96c2-196">For detailed information on how to on how to update payment and tax details in Partner Center, see [How to create and manage bank and tax profiles in Partner Center](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center)</span></span>
+
+### <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a><span data-ttu-id="d96c2-197">Perché non vedo le registrazioni quando assegno i profili di pagamento e fiscali?</span><span class="sxs-lookup"><span data-stu-id="d96c2-197">Why don't I see my enrollments when I go to assign my payout and tax profile?</span></span>
+
+<span data-ttu-id="d96c2-198">Solo gli amministratori di Incentivi per la posizione MPN possono creare o gestire i profili di pagamento e fiscali.</span><span class="sxs-lookup"><span data-stu-id="d96c2-198">Only incentive admins for your MPN location can create or manage payout and tax profiles.</span></span> <span data-ttu-id="d96c2-199">È possibile che l'utente non disponga delle autorizzazioni appropriate o che sia connesso con un account che non dispone di tali autorizzazioni.</span><span class="sxs-lookup"><span data-stu-id="d96c2-199">It could be that you don’t have the proper permissions, or that you’re logged in with an account that does not have these permissions.</span></span> <span data-ttu-id="d96c2-200">Contattare l'amministratore dell'organizzazione per gestire le autorizzazioni bancarie e fiscali.</span><span class="sxs-lookup"><span data-stu-id="d96c2-200">Contact your organization administrator to manage permissions for bank and tax.</span></span>
+
+### <a name="where-can-i-see-the-payout-and-tax-profiles-for-my-organization-that-i-can-use"></a><span data-ttu-id="d96c2-201">Dove posso vedere i profili di pagamento e fiscali da usare per l'organizzazione?</span><span class="sxs-lookup"><span data-stu-id="d96c2-201">Where can I see the payout and tax profiles for my organization that I can use?</span></span>
+
+<span data-ttu-id="d96c2-202">Usare la procedura seguente per visualizzare i profili di pagamento e fiscali:</span><span class="sxs-lookup"><span data-stu-id="d96c2-202">Use the following procedure to see payout and tax profiles:</span></span>
+
+1. <span data-ttu-id="d96c2-203">Accedere al Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="d96c2-203">Log into Partner Center.</span></span>
+
+2. <span data-ttu-id="d96c2-204">Selezionare l'icona a forma di ingranaggi per aprire il menu **Impostazioni**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-204">Select the gear icon to open the **Settings** menu.</span></span>
+
+3. <span data-ttu-id="d96c2-205">Selezionare **Impostazioni partner**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-205">Select **Partner settings**.</span></span>
+
+4. <span data-ttu-id="d96c2-206">In **Impostazioni account** selezionare **Proventi e imposte**, quindi selezionare **Profilo di pagamento e fiscale**.</span><span class="sxs-lookup"><span data-stu-id="d96c2-206">Under **Account settings**, select **Payout and tax**, and then select **Payout and tax profile**.</span></span> <span data-ttu-id="d96c2-207">Verranno visualizzati tutti i profili di pagamento e fiscali esistenti, oltre allo stato e alla possibilità di modifica.</span><span class="sxs-lookup"><span data-stu-id="d96c2-207">You’ll see all existing payment and tax profiles along with status and ability to edit.</span></span>
+
+### <a name="my-organization-is-participating-in-multiple-incentive-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a><span data-ttu-id="d96c2-208">L'organizzazione partecipa a più programmi incentive.</span><span class="sxs-lookup"><span data-stu-id="d96c2-208">My organization is participating in multiple incentive programs.</span></span> <span data-ttu-id="d96c2-209">È necessario specificare più volte il mio profilo di pagamento e di imposta?</span><span class="sxs-lookup"><span data-stu-id="d96c2-209">Do I need to provide my payment and tax profile multiple times?</span></span>
+
+<span data-ttu-id="d96c2-210">Per i profili di pagamento dipende, in genere, dall'utente.</span><span class="sxs-lookup"><span data-stu-id="d96c2-210">With payment profiles, it’s usually up to you.</span></span> <span data-ttu-id="d96c2-211">I profili di pagamento vengono creati a livello di organizzazione e questo consente di assegnare lo stesso profilo bancario a più ID MPN e programmi Incentivi all'interno di un'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="d96c2-211">Payment profiles are created at an organization level, which allows for the same bank profile to be assigned across multiple MPN ID’s and incentive programs within an organization.</span></span> <span data-ttu-id="d96c2-212">Nella maggior parte dei casi, è possibile riutilizzare un profilo esistente o crearne uno nuovo.</span><span class="sxs-lookup"><span data-stu-id="d96c2-212">In most cases, you can either reuse an existing profile or create a new one.</span></span>
+
+<span data-ttu-id="d96c2-213">Tuttavia, quando si applica il profilo bancario a paesi o aree geografiche diverse, è possibile che ci siano delle eccezioni.</span><span class="sxs-lookup"><span data-stu-id="d96c2-213">There may be exceptions, however, when applying your bank profile to different countries or regions, as local bank or tax rules may apply.</span></span>
+
+<span data-ttu-id="d96c2-214">I profili fiscali creati per una posizione MPN vengono riutilizzati e popolati automaticamente quando la stessa posizione MPN partecipa a un altro programma Incentivi.</span><span class="sxs-lookup"><span data-stu-id="d96c2-214">Tax profiles created for an MPN location get reused and automatically populated when the same MPN location participates in other incentive program.</span></span> <span data-ttu-id="d96c2-215">Ma possono esserci delle eccezioni.</span><span class="sxs-lookup"><span data-stu-id="d96c2-215">But there can be exceptions.</span></span> <span data-ttu-id="d96c2-216">Ad esempio, per le regole di pagamento di un nuovo programma Incentivi potrebbero essere necessari altri dettagli per il profilo fiscale.</span><span class="sxs-lookup"><span data-stu-id="d96c2-216">For example, the payout rules of a new incentive program may require additional details for the tax profile.</span></span>  
+
+### <a name="i-am-only-able-to-log-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a><span data-ttu-id="d96c2-217">Sono in grado di accedere solo con il mio @onmicrosoft.com dominio.</span><span class="sxs-lookup"><span data-stu-id="d96c2-217">I am only able to log in with my @onmicrosoft.com domain.</span></span> <span data-ttu-id="d96c2-218">Cosa devo fare?</span><span class="sxs-lookup"><span data-stu-id="d96c2-218">What should I do?</span></span>
+
+<span data-ttu-id="d96c2-219">Contattare l'amministratore account per aggiungere altri domini all'account AAD.</span><span class="sxs-lookup"><span data-stu-id="d96c2-219">Contact your Account administrator to add additional domains to the AAD account.</span></span>

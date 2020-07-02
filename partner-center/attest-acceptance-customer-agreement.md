@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: cliente, clienti, consenso, MCA, Contratto Microsoft Cloud, Contratto del cliente Microsoft, modelli di contratto del cliente, attestare accettazione
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: b74989324fb64cbc8875752bfc33a24285e96936
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909019"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678563"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Attestare l'accettazione del Contratto del cliente Microsoft per conto di un cliente
 
@@ -54,4 +54,7 @@ Quando il cliente seleziona l'URL dell'interfaccia di amministrazione di Microso
 
 **Per risolvere il problema**: devi attestare l'accettazione per conto del cliente.  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Screenshot della pagina di autorizzazione del partner con l'opzione di autorizzazione da selezionare: mostra i dettagli di un partner specifico, la rispettiva relazione e i relativi ruoli di amministratore.":::
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Come aggiungere un nuovo record cliente nel Centro per i partner](add-a-new-customer.md)
+- [Introduzione: Il piano di Azure consente ai partner di acquistare Azure con tariffe di pagamento in base al consumo per i clienti](azure-plan-lp.md)

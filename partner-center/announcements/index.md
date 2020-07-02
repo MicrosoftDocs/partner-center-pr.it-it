@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c29a1e466d441a9e498c576fb8f20a64fed3a074
-ms.sourcegitcommit: 1fa9ac175cfed992c655c9784081cb636bffc8b8
+ms.openlocfilehash: 77b5d692a103303b9a0e70aa49321773569bf954
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "85346717"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678657"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di giugno 2020** | **Annunciato** |
 |---------|:---------|:---------|
+| Offerte/mercati | [Secondo anno degli aggiornamenti della sicurezza estesi di Windows 7 per i partner CSP ora disponibile](2020-june.md#6) | 29 giugno |
 | Funzionalità | [Aggiornamento della funzionalità di rimozione di una relazione nel Centro per i partner](2020-june.md#5) | 29 giugno |
 | Funzionalità | [La frequenza di fatturazione predefinita passa da annuale a mensile](2020-june.md#4) | 17 giugno |
 | Offerte/mercati | [Modifiche a Microsoft 365 F1](2020-june.md#3) | 15 giugno |

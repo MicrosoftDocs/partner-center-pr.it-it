@@ -1,7 +1,7 @@
 ---
-title: Ottieni specializzazioni avanzate
+title: Ottenere specializzazioni avanzate
 ms.topic: article
-ms.date: 06/11/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Potenzia il tuo profilo aziendale nella directory dei partner. Scopri come ottenere specializzazioni avanzate insieme alle tue competenze in oro/argento.
@@ -10,37 +10,49 @@ ms.author: labrenne
 keywords: competenze, adesione silver, adesione gold, mpn, abbonamento a Microsoft Action Pack, preparazione, Microsoft Partner Network, adesione alla rete, specializzazioni avanzate
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f62a1795a9ad3fd07de43bcf5cfa8703133e0fe9
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 7393fdfbc1aa94961680d869cf00cd5855efa0a6
+ms.sourcegitcommit: d5fc07cf20a9de970f9bb65019732792dd81b4a0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749152"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85911279"
 ---
-# <a name="advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Le specializzazioni avanzate aiutano il tuo profilo aziendale a distinguersi per i clienti
+# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Ottieni una specializzazione avanzata per dimostrare le competenze e i clienti 
 
-Vai oltre la tua competenza Gold con una specializzazione avanzata. Le specializzazioni avanzate consentono di presentare competenze comprovate e verificabili in un prodotto, un'area della soluzione o un servizio. I clienti possono visualizzare sia la competenza Gold che la specializzazione avanzata nel profilo aziendale nella directory dei partner. Per ricevere un tag di specializzazione avanzato, è necessario che l'azienda soddisfi un set di criteri pubblicati e venga convalidato da Microsoft. [Altre informazioni](https://partner.microsoft.com/membership/advanced-specialization).
+Distinguersi con i clienti guadagnando una specializzazione avanzata. Le specializzazioni avanzate sono la convalida della capacità di fornire servizi ad alta fedeltà in un'area della soluzione specifica. I clienti visualizzeranno la specializzazione avanzata visualizzata nel profilo aziendale nella directory dei partner. [Altre informazioni](https://partner.microsoft.com/membership/advanced-specialization)
 
-## <a name="the-current-advanced-specializations"></a>Specializzazioni avanzate correnti
+## <a name="use-partner-center-to-move-through-the-application-process"></a>Usare il centro per i partner per spostarsi nel processo dell'applicazione
 
-- **Adozione e gestione delle modifiche** Scopri la tua esperienza completa e hai dimostrato un successo nella fornitura di servizi di gestione dell'adozione e delle modifiche, sfruttando al contempo Microsoft 365 utilizzo e il cambiamento aziendale
+Per ottenere una specializzazione avanzata, è necessario che la società abbia ottenuto una competenza Gold allineata e soddisfi altri requisiti. Il processo dell'applicazione è costituito da due passaggi. In primo luogo, la società soddisfa i requisiti dei prerequisiti. In secondo luogo, una volta soddisfatti i requisiti dei prerequisiti, il pulsante **Pianifica controllo** è abilitato. È quindi necessario passare il controllo. 
 
-- **Distribuzione teamwork** Ottieni il riconoscimento per la tua esperienza e comprovato la distribuzione di Microsoft 365 carichi di lavoro di teamwork.
+## <a name="advanced-specialization-requirements-that-include-an-audit-an-example"></a>Requisiti di specializzazione avanzati che includono un controllo: un esempio
 
-- **Chiamata per Microsoft teams** Prova la tua esperienza nella distribuzione e nella gestione di Microsoft 365 sistema telefonico per promuovere il valore aziendale del cliente.
+Se si è interessati alla specializzazione avanzata denominata **modernizzazione delle applicazioni Web per Microsoft Azure**, selezionarla dal menu centro per i partner. Viene eseguita la pagina dei prerequisiti.
 
-- **SAP in Azure** Si ha una conoscenza approfondita, un'esperienza completa e un successo collaudato nell'implementazione di soluzioni SAP in Azure. 
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Prerequisiti":::
 
-- **Migrazione di Windows Server e SQL Server a Microsoft Azure** È possibile dimostrare le proprie conoscenze fornendo indicazioni sulle varie opzioni di migrazione di SQL in Azure e dimostrare le competenze necessarie per la migrazione e l'ottimizzazione dei carichi di lavoro basati su Windows Server e SQL Server per Microsoft Azure. 
 
-- **Migrazione di database Linux e open source a Microsoft Azure** È possibile dimostrare le competenze nelle tecnologie open source e illustrare le competenze per la migrazione e l'ottimizzazione dei carichi di lavoro di produzione in esecuzione in Red Hat Enterprise Linux (RHEL) o in macchine virtuali SUSE e/o MariaDB, PostgreSQL, MySQL, CassandraDB, i database MongoDB in Azure.
+Fino a quando non sono stati soddisfatti tutti i prerequisiti, lo stato rimane **non avviato.** Una volta soddisfatti i prerequisiti, il pulsante **Pianifica controllo** è abilitato. È necessario completare un controllo con un revisore di terze parti per le specializzazioni avanzate di Azure seguenti:
+ 
+- Migrazione di Windows Server e SQL Server a Microsoft Azure
+- Migrazione di database Linux e open source a Microsoft Azure
+- Migrazione data warehouse Microsoft Azure
+- Kubernetes su Microsoft Azure
+- Modernizzazione delle applicazioni Web per Microsoft Azure
 
-- **Migrazione data warehouse Microsoft Azure** È possibile eseguire correttamente la migrazione dei data warehouse da Teradata, Netezza o Oracle Exadata ad Azure e viene illustrata l'esperienza di analisi dei carichi di lavoro esistenti, la generazione di modelli di schema e l'esecuzione di operazioni di estrazione, trasformazione e caricamento (ETL) per la migrazione dei dati nei data warehouse basati su cloud.
 
-- **Kubernetes su Microsoft Azure** Si usano le procedure DevOps per le implementazioni AKS e viene illustrata l'esperienza di distribuzione e gestione dei carichi di lavoro di produzione nel cloud usando i contenitori e la gestione di ambienti Kubernetes ospitati in Microsoft Azure.
+Una volta completati tutti i requisiti, lo stato è **attivo**. Lo stato attivo Abilita automaticamente un tag nel **profilo business** visibile a tutti i clienti che cercano di [trovare un provider di soluzioni](https://www.microsoft.com/solution-providers/home).
 
-- **Modernizzazione delle applicazioni Web in Microsoft Azure** Si garantisce la riuscita del cliente nello sviluppo di applicazioni e la familiarità con i sistemi di gestione dei contenuti. Dimostra di avere esperienza nella migrazione e nella distribuzione di carichi di lavoro di applicazioni Web di produzione, nell'esecuzione di procedure DevOps e nella gestione dei servizi delle applicazioni in Microsoft Azure.
+## <a name="prerequisites-that-include-customer-references-an-example"></a>Prerequisiti che includono i riferimenti ai clienti: un esempio
 
- ## <a name="next-steps"></a>Passaggi successivi
+Un esempio di specializzazione avanzata che richiede riferimenti ai clienti è costituito da **riunioni e sale riunioni per Microsoft teams**. Oltre alla competenza Gold, alle certificazioni e ai requisiti di prestazioni, è necessario fornire tre riferimenti ai clienti che dimostrano la possibilità di distribuire e gestire.
 
- Informazioni sui [requisiti di competenza Microsoft per l'appartenenza a Gold e Silver](learn-about-competencies.md)
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Prerequisiti":::
+
+Fino a quando non sono stati soddisfatti tutti i prerequisiti, lo stato rimane **non avviato.** Una volta completati tutti i requisiti, lo stato è **attivo**. Lo stato attivo Abilita automaticamente un tag nel **profilo business** visibile a tutti i clienti che cercano di [trovare un provider di soluzioni](https://www.microsoft.com/solution-providers/home).
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- Informazioni sul raggiungimento dei requisiti di competenza Microsoft [per l'appartenenza a Gold e Silver](learn-about-competencies.md)
+
+- Informazioni sulle [specializzazioni avanzate](https://partner.microsoft.com/membership/advanced-specialization).

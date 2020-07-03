@@ -1,7 +1,7 @@
 ---
 title: Contratti CSP per Marketplace commerciale
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i termini, le condizioni e i contratti per le sottoscrizioni di prodotti ISV di terze parti acquistati da partner CSP nel Marketplace commerciale.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: sottoscrizioni, Marketplace, terze parti, ISV, programma per partner CSP, contratti, vendita, acquisto,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 1f373c29fb52252014af262e530e364fe9f08782
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362629"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937618"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contratti per partner CSP che fanno affari nel Marketplace commerciale
 
@@ -42,7 +42,7 @@ Se i partner hanno già firmato i contratti CSP, non è necessario eseguire di n
 
 Per ulteriori informazioni sui termini che governano le attività CSP nel Marketplace commerciale, vedere:
 
-- **Sezione 5,7 (offerte di terze parti)** nella [Guida del programma CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100). In questo modo vengono fornite le condizioni che regolano la vendita di soluzioni ISV da parte dei partner del programma CSP.
+- **La sezione intitolata "Offerte di terze parti"** nella [Guida del programma CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100). In questo modo vengono fornite le condizioni che regolano la vendita di soluzioni ISV da parte dei partner del programma CSP.
 
 - **Microsoft Partner Agreement (MPa)** regola il programma CSP, sostituendo i MCRA e MCDA esistenti. Il MPA è disponibile nel [centro](https://partner.microsoft.com/pcv/dashboard/overview) per i partner, in modo che i partner che scelgono di partecipare al programma CSP possano esaminarli e accettarli.
   

@@ -9,19 +9,23 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 77b5d692a103303b9a0e70aa49321773569bf954
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 74c78646924c923a6c9db992589ed98612245cab
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85678657"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879088"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
 Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste informazioni vengono aggiornate di frequente, pertanto è importante consultarle di frequente.
 
-| **Categoria** | **Annunci di giugno 2020** | **Annunciato** |
+| **Categoria** | **Annunci di luglio 2020** | **Annunciato** |
 |---------|:---------|:---------|
+| Offerte/mercati | [Offerte e prodotti nuovi e di fine vita per Microsoft Dynamics 365 e Power Platform](2020-july.md#3) | 1 luglio |
+| Offerte/mercati | [Microsoft ha terminato le vendite dello SKU autonomo di Microsoft Kaizala Pro](2020-july.md#2) | 1 luglio |
+| Funzionalità | [Programma di incentivi CSP esteso al primo trimestre FY21](2020-july.md#1) | 1 luglio |
+| **Categoria** | **Annunci di giugno 2020** | **Data** |
 | Offerte/mercati | [Secondo anno degli aggiornamenti della sicurezza estesi di Windows 7 per i partner CSP ora disponibile](2020-june.md#6) | 29 giugno |
 | Funzionalità | [Aggiornamento della funzionalità di rimozione di una relazione nel Centro per i partner](2020-june.md#5) | 29 giugno |
 | Funzionalità | [La frequenza di fatturazione predefinita passa da annuale a mensile](2020-june.md#4) | 17 giugno |

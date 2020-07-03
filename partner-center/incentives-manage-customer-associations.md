@@ -1,5 +1,5 @@
 ---
-title: Gestisci associazioni clienti
+title: Gestire le associazioni del cliente
 description: Informazioni sui processi e le sequenze temporali importanti per la gestione delle associazioni clienti di CPOR (partner di record).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,14 +8,14 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: a5cd485c5d12c333c81954e74574968df7163d3d
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 9e88aa42331f8181b3c8e3eca9d3423741e1c69a
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719363"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879485"
 ---
-# <a name="manage-customer-associations"></a>Gestisci associazioni clienti
+# <a name="manage-customer-associations"></a>Gestire le associazioni del cliente
 
 Si applica a:
 
@@ -69,17 +69,19 @@ Ecco gli Stati e i relativi significati:
 
 - Prodotti mancanti: il PoE non include il prodotto o il carico di lavoro richiesto 
 
-
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Disputare lo stato di un'attestazione di associazione CPOR
 
-Per disputare lo stato di un'attestazione di associazione CPOR, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)e fornire al team di supporto le informazioni seguenti:
+Se l'attestazione di associazione CPOR viene rifiutata, si avranno 30 giorni per disputare il rifiuto. Il messaggio di posta elettronica ricevuto per informare l'utente del rifiuto indica anche dove è possibile visualizzare il motivo del rifiuto e come contestarlo.  
 
-- ID MPN
-- Nome del programma Incentivi 
-- ID della richiesta di associazione CPOR 
-- Prodotto: per Business Applications, fornire i prodotti e le sottoscrizioni Dynamics. Per M365, specificare i carichi di lavoro. 
-- ID tenant del cliente
-- Dettagli del problema
+Se sono trascorsi 30 giorni e si vuole comunque disputare un'attestazione rifiutata, è necessario inviare una nuova associazione con la prova di esecuzione (PoE) aggiornata. 
+
+### <a name="to-dispute-a-rejected-claim"></a>Per disputare un'attestazione rifiutata
+
+1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
+2. Aprire l'attestazione che si desidera disputare.
+3. Nella pagina attestazione selezionare **contenzioso**.
+4. Immettere una giustificazione aziendale e/o un PoE aggiornato per spiegare il motivo per cui deve essere ripreso in considerazione il rifiuto.
+5. Al termine dell'aggiunta delle informazioni, selezionare **contenzioso**. I revisori dovranno contattare l'utente con i risultati entro 5 giorni lavorativi.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Motivi per cui un'attestazione di associazione CPOR viene rifiutata
 

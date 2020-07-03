@@ -1,7 +1,7 @@
 ---
 title: Gestione dei prodotti del Marketplace & offerte
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Con il centro per i partner, Scopri in che modo i provider di soluzioni cloud possono gestire le offerte ISV di terze parti acquistate per i clienti dal Marketplace commerciale.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: sottoscrizioni, Marketplace, terze parti, ISV, offerte SaaS, programma Cloud Solution Provider, gestione di un'offerta, gestione di una sottoscrizione, licenze, annullamento di una sottoscrizione, postazioni, disattivazione del rinnovo automatico, ID indiretto del rivenditore MPN
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908098"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937631"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gestione dei prodotti e delle offerte del Marketplace commerciale per i clienti
 
@@ -64,11 +64,14 @@ Il server di pubblicazione deve fornire un collegamento personalizzato e un codi
 
 1. Questo collegamento personalizzato è reperibile nel server di pubblicazione ISV in diversi modi:
 
-    - È possibile visualizzare il collegamento dalla pagina di conferma visualizzata dopo l'acquisto di un'offerta SaaS ISV.
+   - È possibile visualizzare il collegamento dalla pagina di conferma visualizzata dopo l'acquisto di un'offerta SaaS ISV. Per trovare il collegamento nella pagina, cercare e selezionare **Vai al sito del server di pubblicazione**.
 
-    - È possibile visualizzare il collegamento dalla pagina sottoscrizioni del cliente specifico. Questo collegamento all'editore viene visualizzato nella riga associata all'offerta ISV o alla sottoscrizione acquistata per il cliente.
+   - È possibile visualizzare il collegamento dalla pagina sottoscrizioni del cliente specifico. Questo collegamento all'editore viene visualizzato nella riga associata all'offerta ISV o alla sottoscrizione acquistata per il cliente.
 
-    - È possibile [recuperare il collegamento usando le API del centro per i partner](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+   - È possibile [recuperare il collegamento usando le API del centro per i partner](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+
+   > [!NOTE]
+   > Per eseguire questa operazione per conto del cliente, potrebbe essere necessario copiare il collegamento personalizzato, incollarlo in un browser privato e immettere le credenziali del cliente.
 
 2. Quando ci si trova nel sito o nel sistema dell'editore ISV, il server di pubblicazione informerà eventuali passaggi aggiuntivi necessari per completare il processo di configurazione del cliente ed effettuare il provisioning o assegnare le licenze.
 
@@ -90,7 +93,7 @@ Quando si sottoscrive un prodotto SaaS basato su licenza offerto da un editore I
 
 Per ulteriori informazioni sui periodi di annullamento applicabili, su come annullare o su come rinnovare automaticamente una sottoscrizione, vedere:
 
-- [Annullare una sottoscrizione](create-a-new-subscription.md#cancel-a-subscription)
+- [Annulla una sottoscrizione](create-a-new-subscription.md#cancel-a-subscription)
 
 - [Rinnovo automatico di una sottoscrizione di Marketplace commerciale](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 

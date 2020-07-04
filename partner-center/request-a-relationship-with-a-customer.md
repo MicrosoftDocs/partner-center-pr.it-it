@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Richiedere una relazione con un cliente per scenari multicanale e multicanale o se è necessario ripristinare i privilegi amministrativi delegati per un cliente.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104095"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949243"
 ---
-# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Come richiedere una relazione del rivenditore da un cliente nel centro per i partner
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Come richiedere una relazione di rivenditore da un cliente nel Centro per i partner
 
 **Si applica a**
 
@@ -36,7 +36,7 @@ Se si desidera stabilire una relazione del rivenditore con un cliente e gestire 
 
 2. Per richiedere le autorizzazioni di amministratore da questo cliente, selezionare **Includi privilegi di amministrazione delegata per Azure Active Directory e Office 365**. Per stabilire la relazione senza richiedere autorizzazioni di amministratore, deselezionare questa opzione.
 
-3. Nella pagina successiva esaminare la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica.
+3. Nella pagina successiva esaminare la bozza del messaggio di posta elettronica. È possibile aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure è possibile copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica.
 
    Il testo nel messaggio di posta elettronica può essere modificato, ma è necessario assicurarsi di includere il collegamento, in quanto personalizzato, per collegare il cliente direttamente al proprio account. Al termine di questo passaggio, seleziona **Fatto**.
 

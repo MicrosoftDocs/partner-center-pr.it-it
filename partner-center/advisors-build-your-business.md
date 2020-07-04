@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
 description: Scopri in che modo gli Advisor Microsoft autorizzati possono ampliare le sottoscrizioni di Office 365. Crea e invia inviti alla versione di valutazione di Office 365 e offerte di acquisto ai client.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 keywords: Advisor, Office 365
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae1894f592ed066b521e217558b6b6c4142bc62c
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 6a299fe3c4e65a1752a53053e0071c980b5246d5
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362659"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947436"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Advisor: compilare la base client con gli inviti alla versione di valutazione di Office 365 e le offerte di acquisto
 

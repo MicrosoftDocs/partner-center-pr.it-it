@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vedi gli elenchi prezzi correnti per servizi basati su licenze come Office 365, Microsoft Dynamics CRM ed Enterprise Mobility Suite e servizi basati sull'utilizzo come Azure.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
-ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
+ms.openlocfilehash: 066b69cc0a70ded518c6bbaa9f35879e4b992a89
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84661664"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949332"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prezzi e offerte per Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e altro ancora
 
@@ -157,7 +157,7 @@ Esistono circa 50 offerte di Dynamics con termini di tre anni. Sono identificati
 
 Microsoft 365 offerta base a1 ha un periodo di sei anni.  I componenti aggiuntivi di Office 365 a1 sono disponibili dopo aver acquistato questa offerta di base. 
 
-|**Nome dell'offerta**   |**ID offerta**   |**Tipo**|
+|**Nome offerta**   |**ID offerta**   |**Tipo**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Offerta di base|
 |Office 365 a1 per i docenti (per il dispositivo)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Componente aggiuntivo|

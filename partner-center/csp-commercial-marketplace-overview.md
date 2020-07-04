@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come vendere le sottoscrizioni dei clienti alle offerte SaaS (software as a Service) di fornitori di software indipendenti (ISV) nel Marketplace.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: sottoscrizioni, Marketplace, terze parti, ISV, SaaS, licenza
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908087"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947721"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Panoramica del Marketplace commerciale nel centro per i partner
 
@@ -38,7 +38,7 @@ Come partner del programma CSP, è possibile usare il centro per i partner per a
 
 Se si è un partner del programma CSP, è possibile che si desideri eseguire numerose attività commerciali sul mercato per quanto riguarda le offerte ISV. Per ulteriori informazioni su ogni attività, vedere la tabella seguente.
 
-|**Se si desidera**  |**Lettura**   |
+|**Se si vuole**  |**Lettura**   |
 |:------------------------------------|:------------------|
 |Scopri come visualizzare o cercare offerte disponibili, prezzi, dettagli sul prodotto o informazioni di contatto dell'editore | [Scopri le offerte](csp-commercial-marketplace-discover.md) | 
 |Informazioni su come acquistare e distribuire un'offerta   | [Offerte di acquisto](csp-commercial-marketplace-purchase.md)   | 
@@ -69,7 +69,7 @@ Per ulteriori informazioni sulla differenza tra le offerte basate sulle licenze 
 
 Per informazioni su dove completare un'attività specifica del Marketplace per le offerte ISV basate sulle licenze o sull'utilizzo, vedere le tabelle seguenti.
 
-|**Per le offerte SaaS basate su licenze degli ISV**  |**Usare**  |
+|**Per le offerte SaaS basate su licenze degli ISV**  |**Uso**  |
 |:------------------------------------|:------------------|
 |Per individuare o cercare offerte disponibili  | Dashboard del centro partner o API del centro per i partner  |
 |Per acquistare un'offerta  | Dashboard del centro partner o API del centro per i partner  |
@@ -77,7 +77,7 @@ Per informazioni su dove completare un'attività specifica del Marketplace per l
 |Per annullare/rinnovare le sottoscrizioni dell'offerta o aggiungere/rimuovere postazioni | Dashboard del centro partner o API del centro per i partner  |
 |Per creare utenti o gestire le autorizzazioni  | Sistema o sito Web dell'editore ISV  |
 
-|**Per le offerte basate sull'utilizzo dagli ISV**  |**Usare**  |
+|**Per le offerte basate sull'utilizzo dagli ISV**  |**Uso**  |
 |:------------------------------------|:------------------|
 |Per individuare o cercare offerte disponibili  | Dashboard del centro per i partner, API del centro per i partner o portale di Azure  |
 |Per acquistare un'offerta  | Portale di Azure  |

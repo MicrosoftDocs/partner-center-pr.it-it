@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner Microsoft Direct possono rimuovere i clienti dall'elenco, rimuovere i privilegi amministrativi delegati e interrompere il supporto o l'acquisto per un cliente.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8f26dee696580b9a171069bd2c4fcad9fcbef8d
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: f710b7327e9ff647f23c7baf994bc00082c437b5
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467421"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949284"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Come rimuovere una relazione del rivenditore con un cliente nel centro per i partner
 

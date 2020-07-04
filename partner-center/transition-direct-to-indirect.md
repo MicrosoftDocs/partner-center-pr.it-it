@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sul modo in cui un partner del programma CSP può usare il centro per i partner per la transizione dal partner Direct-Bill al rivenditore indiretto.
-author: LauraBrenner
-ms.author: labrenne
+author: aarzh-AaronZhang
+ms.author: v-aarzh
 ms.localizationpriority: medium
 keywords: fatturazione diretta, transizione, rivenditore indiretto
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 93b3d2e204911d059ed0d17e977c0e50533e504c
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679448"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949214"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto
 
@@ -28,7 +28,7 @@ ms.locfileid: "84679448"
 
 Sarà possibile eseguire la registrazione al programma indirect Reseller usando il tenant di fatturazione diretta esistente.
 
-## <a name="get-started"></a>Introduzione
+## <a name="get-started"></a>Inizia
 
 1. Verificare che il profilo partner nel centro per i partner e l'ID MPN siano aggiornati.
 

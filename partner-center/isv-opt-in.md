@@ -5,18 +5,18 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sul modo in cui i fornitori di software indipendenti (ISV) rendono alcune offerte esclusive e disponibili solo per partner CSP specifici.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bc997d302b2ccd4dffa7708a9ec1cad60b09f998
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794845"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949441"
 ---
-# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Marketplace Exclusive offers di fornitori di software indipendenti
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Offerte esclusive per il marketplace da fornitori di software indipendenti
 
 **Ruoli appropriati**
 

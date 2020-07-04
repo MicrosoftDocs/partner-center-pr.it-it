@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: alikhaki
+ms.author: alikhaki
 keywords: istruzione, segmenti speciali
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b0b576348ed3c703fe517bbeef6271e3dcade08
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 873a36bb38e97ab1b4721a95748aa06af6be5048
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992170"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949236"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Come vendere offerte ai clienti della formazione & come creare un cliente per la formazione nel centro per i partner
 
@@ -67,7 +67,7 @@ Esempi di stato:
 
    :::image type="content" source="images/edunottagged.png" alt-text="Istruzione senza tag":::
 
-## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>Correggere le informazioni sull'account del cliente e inviarle di più per la vagliatura  
+## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>Correggere le informazioni sull'account del cliente e inviarle di nuovo per la verifica  
 
 Se il cliente ha esito negativo per la verifica iniziale, ora è possibile correggere le informazioni e inviarle nuovamente.
 

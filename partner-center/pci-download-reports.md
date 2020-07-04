@@ -5,17 +5,17 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Esplora il dashboard di report unificato del centro per i partner.
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 Keywords: Informazioni dettagliate sul centro per i partner, report, scaricare report
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e1b816f2611507370dcf1a120c84d26a1e13bd9
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 42be29d69d5d4937d984047f4c75e357aa4d436d
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072444"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948869"
 ---
 # <a name="download-reports"></a>Scarica report
 

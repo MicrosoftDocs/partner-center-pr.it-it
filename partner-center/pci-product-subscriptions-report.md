@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri cosa puoi fare e dove puoi migliorare le tue sottoscrizioni cloud che Vendi o Gestisci per i tuoi clienti.
 keywords: PCI, prestazioni, misure, successo dei clienti, sottoscrizioni cloud, analisi, report
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dfb652551c2b94cfff226be6ffc331c2e8132042
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: bc9b306e635a27e1bf19f945341f9d8aab834782
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909089"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948801"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Report sulle sottoscrizioni di prodotto disponibile nel dashboard di partner Center Insights
 

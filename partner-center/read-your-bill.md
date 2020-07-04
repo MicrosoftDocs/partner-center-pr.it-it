@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: Informazioni sulla fattura & i file di riconciliazione. La fattura Mostra i costi del centro per i partner per il programma, i prodotti e i clienti per tale periodo mensile.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: fatturazione della sottoscrizione, fatturazione, fatturazione nel centro per i partner, fatturazione del centro per i partner, lettura fattura, fattura, fattura del centro partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df330ce2e66cf198ce97919c02a15eb7a50f6486
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 40809fbca8ed81882e9b1d315fd5967143faff1e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991880"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949319"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprendere la fattura e il file di riconciliazione: informazioni su come trovarli nel centro per i partner
 
@@ -37,7 +37,7 @@ La **fattura** è un **Riepilogo di tutti gli addebiti** per il centro per i par
 
 Microsoft emetterà una fattura per tutti gli addebiti basati sulle licenze, ad esempio Office 365, e gli addebiti basati sull'utilizzo (ad esempio Azure) e una fattura separata per gli addebiti monouso, ad esempio Azure RI, Marketplace o piano di Azure.
 
-Ad esempio,  
+Ad esempio:  
 
 **Scenario 1 [singola valuta]**: il partner ha acquistato l'offerta 145P e le licenze O365  
 

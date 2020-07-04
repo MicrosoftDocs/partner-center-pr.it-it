@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Le imposte per gli acquisti del centro per i partner sono determinate dall'indirizzo aziendale. Le aziende in alcuni paesi possono fornire il proprio numero di partita IVA o equivalente locale.
-author: LauraBrenner
-ms.author: labrenne
+description: Le imposte per gli acquisti del Centro per i partner sono determinate dall'indirizzo aziendale. Le aziende in alcuni paesi possono fornire il proprio numero di partita IVA o equivalente locale.
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e0c5e2dab3a4316a6ee888c73a64c7894bdf1baf
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 476b56061a342867780e07133c882a4e6a04b73d
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907325"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948998"
 ---
 # <a name="company-tax-information-and-how-to-add-or-submit-vat-ids-for-partner-center-purchases"></a>Informazioni fiscali aziendali e come aggiungere o inviare ID IVA per gli acquisti del centro per i partner
 
@@ -29,14 +29,14 @@ ms.locfileid: "82907325"
 -   Agente amministratore
 -   Agente di vendita
 
-Le imposte per gli acquisti del centro per i partner sono determinate dall'indirizzo aziendale. Le aziende in alcuni paesi possono [fornire il numero di imposte (IVA) o l'](#submit-vat-id-number) equivalente locale.
+Le imposte per gli acquisti del Centro per i partner sono determinate dall'indirizzo aziendale. Le aziende in alcuni paesi possono [specificare il numero di Imposta sul Valore Aggiunto (IVA)](#submit-vat-id-number) o l'equivalente locale.
 
 ### <a name="add-your-vat-id"></a>Aggiungere l'ID IVA
 
 Per modificare il profilo di fatturazione, è necessario essere un amministratore globale, un amministratore della fatturazione o un agente di amministrazione.
 
 1.  Dal **Dashboard del centro** per i partner passare a **Impostazioni** e quindi selezionare profilo di **fatturazione**.
-2.  Nella sezione **Dati finanziari** seleziona **Aggiorna**.
+2.  Nella sezione **dati finanziari** selezionare **Aggiorna**.
 3.  Nel campo **ID imposta azienda** immettere il numero di ID IVA.
 
 ## <a name="submit-vat-id-number"></a>Invia il numero di ID IVA

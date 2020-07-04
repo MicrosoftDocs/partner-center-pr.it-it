@@ -3,16 +3,16 @@ title: Differenze tra fatturazione mensile e annuale
 ms.topic: article
 ms.date: 05/06/2020
 Description: Scopri come la fatturazione mensile e annuale differisce dal centro per i partner. Viene inoltre illustrato come passare tra diversi tipi di fatturazione e le implicazioni del cambio.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 3fed5a5a584775f73ed3ad83978a6d38cb50293b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908969"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948223"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Comprendere la differenza tra fatturazione mensile e annuale nel centro per i partner
 
@@ -224,7 +224,7 @@ I partner ottengono incentivi per tutte le transazioni idonee, indipendentemente
 
 Per domande sugli incentivi, contattare il team di supporto tecnico per gli incentivi regionali appropriato:
 
-| Region | Indirizzo di posta elettronica |
+| Area | Indirizzo di posta elettronica |
 | ------ | ------------- |
 | America del Nord | <ocina@microsoft.com> |
 |America Latina & Brasile | <ocilatam@microsoft.com> |

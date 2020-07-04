@@ -3,17 +3,17 @@ title: Gestisci attestazioni co-op
 description: Comprendere il processo delle attestazioni co-op, incluse le scadenze, i problemi di valuta e come disputare un'attestazione co-op rifiutata.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: e567b6bd0eaabb1dc705925e140f9de07c6f8a98
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 3a611ca37f1ddad53d1fdbf049645c7976a67d3f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719366"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949493"
 ---
 # <a name="manage-co-op-claims"></a>Gestisci attestazioni co-op
 
@@ -27,7 +27,7 @@ Ruoli appropriati:
 
 - Amministratore degli incentivi
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>Scadenze per l'approvazione e il pagamento delle attestazioni co-op
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>Scadenze per l'approvazione e il pagamento delle attestazioni cooperative
 
 ### <a name="when-will-my-co-op-claim-be-approved"></a>Quando verrà approvata l'attestazione co-op?
 

@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 Keywords: sottoscrizione, acquisto self-service, riservatezza self-service, abilitazione di ri, disabilitazione di RI, self-service, acquisto di clienti, autorizzazioni dei clienti, istanza riservata di acquisto del cliente, prenotazione dei clienti di Azure, attivare la funzionalità self-service, disattivare la funzionalità self-service
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0c507aae75dad4a1dce5dc9746ebe9f7ed48f040
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795108"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947469"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Concedere ai clienti l'autorizzazione per il centro per i partner per acquistare prodotti o servizi propri
 
@@ -66,7 +66,7 @@ Prima di attivare le autorizzazioni dei clienti, tenere presenti i seguenti punt
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>Concedi ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure
 
-Le prenotazioni di Azure sono un ottimo modo per acquistare i servizi di Azure a una tariffa scontata. Per altre informazioni sui vantaggi delle prenotazioni di Azure, vedere [che cosa sono le prenotazioni di Azure?](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)
+Le prenotazioni di Azure sono un modo eccellente per acquistare i servizi di Azure a una tariffa scontata. Per altre informazioni sui vantaggi delle prenotazioni di Azure, vedere [che cosa sono le prenotazioni di Azure?](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)
 
 È ora possibile scegliere di acquistare prenotazioni di Azure per conto dei clienti, come è già stato fatto. In alternativa, è possibile concedere ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure.
 

@@ -3,16 +3,16 @@ title: File di riconciliazione in base all'uso
 ms.topic: article
 ms.date: 06/08/2020
 description: Informazioni su tutti gli elementi nel file di riconciliazione basato sull'utilizzo nel centro per i partner. Include alcuni esempi.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9a84ca15cd51c02a3b5c53ad4478d72343add284
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909119"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949543"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Informazioni sui file di riconciliazione basati sull'utilizzo e sui rispettivi campi specifici nel centro per i partner
 
@@ -46,7 +46,7 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 | ServiceType | Tipo specifico di servizio di Azure. | *Bus di servizio: singolo o pacchetto*, *SQL Azure database-Business o Web Edition* |
 | ResourceGuid | Identificatore univoco specifico per tutti i dati del servizio e la struttura dei prezzi. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | NomeRisorsa | Il nome della risorsa di Azure. | *Trasferimento dati in (GB)*, *trasferimento dati (GB)* |
-| Region | Area a cui si applica l'utilizzo. Utilizzato principalmente per assegnare frequenze ai trasferimenti di dati, in quanto le tariffe variano in base all'area. | *Asia Pacifico*, *Europa*, *America Latina*, *America del Nord* |
+| Area | Area a cui si applica l'utilizzo. Utilizzato principalmente per assegnare frequenze ai trasferimenti di dati, in quanto le tariffe variano in base all'area. | *Asia Pacifico*, *Europa*, *America Latina*, *America del Nord* |
 | Sku | Identificatore Microsoft univoco per un'offerta. | *7UD-00001* |
 | DetailLineItemId | Identificatore e quantità per descrivere frequenze diverse per un servizio o una risorsa in un determinato periodo di fatturazione. Per i prezzi di Azure a più livelli, è possibile che sia disponibile una sola tariffa per una determinata quantità di unità fatturabili, quindi una frequenza diversa dopo tale quantità. | *1* |
 | ConsumedQuantity | Quantità di servizio utilizzata (ad esempio, ore o GB) durante il periodo di Reporting. Include anche l'utilizzo non fatturato dei periodi di report precedenti. | *11* |
@@ -69,5 +69,5 @@ I campi seguenti illustrano quali servizi sono stati usati e la tariffa.
 | MeteredRegion | Identifica la posizione di un data center all'interno dell'area (per i servizi in cui questo valore è applicabile e popolato). | *Asia orientale*, *Sud Asia orientale*, *Europa settentrionale*, *Europa occidentale*, *Stati Uniti centro-settentrionali*, *Stati Uniti centro-meridionali* |
 | MeteredService | Identifica il singolo utilizzo del servizio Azure quando non è identificato in modo specifico nella colonna **ServiceName** . I trasferimenti di dati, ad esempio, vengono segnalati come *Microsoft Azure tutti i servizi* nella colonna **ServiceName** . | *AccessControl*, rete *CDN*, *calcolo*, *database*, *ServiceBus*, *archiviazione* |
 | MeteredServiceType | Sottotitolo per il campo **MeteredService** che fornisce informazioni aggiuntive sull'utilizzo dei servizi di Azure. | *ESTERNO* |
-| Project | Nome definito dal cliente per la propria istanza del servizio. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| Progetto | Nome definito dal cliente per la propria istanza del servizio. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | Numero di connessioni del bus di servizio di Azure di cui è stato effettuato il provisioning e utilizzate in un determinato giorno. | *1,000000 connessioni/30 giorni* (se si dispone di una connessione con provisioning individuale durante un mese di 30 giorni), *25 connessioni/30 giorni: 1,000000* (se è stato eseguito il provisioning di 25 pacchetti di connessioni del bus di servizio ed è stato usato 1 durante tale giorno) |

@@ -4,20 +4,20 @@ ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Informazioni su come avviare attestazioni co-op per gli incentivi dal centro per i partner. Puoi visualizzare tutte le attività eseguite per creare l'attestazione nella cronologia.
-author: LauraBrenner
-ms.author: labrenne
-keywords: attestazioni incentivi, attestazioni cooperative, fondi cooperativi
+description: Informazioni su come avviare attestazioni co-op per gli incentivi dal centro per i partner. È possibile visualizzare tutte le attività che passano alla compilazione dell'attestazione nella cronologia.
+author: kim-davis
+ms.author: kimnich
+keywords: attestazioni incentive, attestazioni co-op, fondi co-op
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1be444403d2b36bcee13648a767b0cfdf448c06b
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: bce39b4bb26d465da2d7a36e299c1f09cc4b5adb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721693"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947847"
 ---
-# <a name="create-and-manage-an-incentives-claim"></a>Creare e gestire un'attestazione incentivi
+# <a name="create-and-manage-an-incentives-claim"></a>Creare e gestire una richiesta di incentivi
 
 **Si applica a**
 - Centro per i partner
@@ -32,18 +32,18 @@ ms.locfileid: "74721693"
 
 1. Dagli **incentivi** nel dashboard del centro per i partner selezionare **Claims (attestazioni**).
 
-2.  Se già disponi di un'attestazione nel processo, la pagina di informazioni generali Attestazioni mostra le informazioni sullo stato di attestazioni esistenti e fondi approvati, richiesti e totali.
+2.  Se si dispone già di un'attestazione in corso, nella pagina Panoramica delle attestazioni vengono visualizzate le informazioni sullo stato delle attestazioni esistenti e dei fondi approvati, richiesti e totali.
 
-3.  Per creare una nuova attestazione, seleziona **Crea un'attestazione**.
+3.  Per creare una nuova attestazione, selezionare **Crea un'attestazione**.
 
-4.  Una volta compilato il modulo iniziale e selezionato **Crea attestazione**, si passerà alla pagina dei dettagli dell'attestazione in cui sarà possibile aggiungere fatture, CSR, documenti di prova e metriche. Puoi anche aggiungere informazioni aggiuntive, se necessario.
+4.  Una volta compilato il modulo iniziale e selezionato **Crea attestazione**, si passerà alla pagina dei dettagli dell'attestazione in cui sarà possibile aggiungere fatture, CSR, documenti di prova e metriche. Se necessario, è anche possibile aggiungere ulteriori informazioni.
 
-La pagina dei dettagli sulle attestazioni consente di richiedere ad altri utenti dell'organizzazione di caricare la documentazione per il modulo. Per ognuno dei documenti di supporto caricati, puoi fornire dettagli esplicativi. 
+La pagina dei dettagli delle attestazioni consente di richiedere ad altri utenti dell'organizzazione di caricare la documentazione nel form. Per ognuno dei documenti di supporto caricati, è possibile fornire dettagli esplicativi. 
 
-### <a name="manage-your-claims"></a>Gestire le attestazioni
+### <a name="manage-your-claims"></a>Gestione delle attestazioni
 
-È possibile visualizzare tutte le attività che passano alla compilazione dell'attestazione nella **cronologia**. Ogni volta che un collega aggiunge un documento di supporto o commenti su un elemento, l'azione viene archiviata nella **cronologia**. Fino a quando non invii l'attestazione, lo stato è **in fase di modifica**. Lo stato dell'attestazione cambia durante il processo di approvazione. A volte durante la revisione di un'attestazione, potresti ricevere feedback su un elemento specifico della tua documentazione (documenti POE). I feedback e le richieste di informazioni aggiuntive vengono visualizzati anche nella cronologia delle attestazioni. 
+È possibile visualizzare tutte le attività che passano alla compilazione dell'attestazione nella **cronologia**. Ogni volta che un collega aggiunge un documento di supporto o commenti su un elemento, l'azione viene archiviata nella **cronologia**. Lo stato verrà **modificato**fino a quando non si invia l'attestazione. Lo stato dell'attestazione cambia durante il processo di approvazione. In alcuni casi, durante la revisione di un'attestazione, è possibile ricevere commenti e suggerimenti su un elemento specifico nella documentazione (i documenti POE). I commenti e le richieste di informazioni aggiuntive vengono visualizzati anche nella cronologia delle attestazioni. 
 
-Non puoi modificare la tua attestazione dopo averla inviata a meno che un revisore non richieda informazioni aggiuntive.
+Non è possibile modificare l'attestazione dopo averla inviata, a meno che un revisore non richieda informazioni aggiuntive.
 
-Per ulteriori informazioni, vedi [Manuale co-op per gli incentivi per i partner](https://assets.microsoft.com/coop-guidebook.pdf)
+Per altre informazioni, vedere la [Guida alla co-op degli incentivi](https://assets.microsoft.com/coop-guidebook.pdf) per i partner

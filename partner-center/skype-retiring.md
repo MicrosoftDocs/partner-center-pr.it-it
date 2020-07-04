@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni su come e quando migrare determinati clienti con sottoscrizioni del piano 1 di Skype for business online in scadenza alle nuove versioni di Office 365.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 keywords: Piani di Skype for business, ritiro di Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e3a16450d9ac15785315a1b4b077e1872e1303a
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 4202e146a470e2231ac33df9878be91e19fcddf3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425960"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949617"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Eseguire la migrazione di sottoscrizioni di Skype for Business Online piano 1 alla versione più recente di Office 365
 
@@ -69,7 +69,7 @@ Il cliente deve avere ora sottoscrizioni sia precedenti che nuove, la sottoscriz
 
 5. Nella pagina **Gestisci licenze** deselezionare la casella di controllo licenza di Skype for business online piano 1 e selezionare un nuovo piano di servizio per la sottoscrizione a cui il cliente si sta muovendo.
 
-6. Selezionare **Invia**. Le nuove assegnazioni di licenza vengono visualizzate in una pagina di conferma. Continuare lo stesso processo per gli altri utenti che necessitano di assegnazioni di licenze.
+6. Selezionare **Submit** (Invia). Le nuove assegnazioni di licenza vengono visualizzate in una pagina di conferma. Continuare lo stesso processo per gli altri utenti che necessitano di assegnazioni di licenze.
 
 Dopo aver spostato la licenza utente nel nuovo servizio, è possibile annullare tranquillamente la sottoscrizione ritirata a livello di cliente.
 

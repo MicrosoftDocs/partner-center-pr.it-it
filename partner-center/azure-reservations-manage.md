@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni su come gestire le prenotazioni di Azure per un cliente, tra cui come annullare una prenotazione, scambiare una prenotazione o richiedere un rimborso.
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 keywords: Azure, prenotazioni, gestione, fatturazione, acquisto, annullamento, scambio, tariffa per la terminazione anticipata
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7470f20956a7309b4a7ec4dcbb9f18a41761596d
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 7ac21da2b45cff62cbe1d2e34c226f115a9c8a7b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908309"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948320"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gestione, annullamento, scambio o rimborso Microsoft Azure prenotazioni per i clienti
 
@@ -41,11 +41,11 @@ Per gestire le prenotazioni di Azure per i clienti dopo l'acquisto, selezionare 
 
 3. In **azioni**selezionare **Gestisci** per passare al record di prenotazione del cliente nel portale di Azure. Nella pagina Dettagli prenotazione, attenersi alla procedura seguente per completare le attività.  
 
-    | **Seleziona**   | **A**    |
+    | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
     | **Panoramica**   | Visualizza i dettagli della prenotazione di un cliente, inclusi i dati relativi alla data di scadenza, all'ambito e all'utilizzo. **Nota** Selezionare **rimborso** per creare una richiesta di supporto per un rimborso con valutazione Pro. Selezionare **Exchange** per creare una richiesta di supporto per scambiare la parte inutilizzata del periodo di prenotazione.  
     | **Controllo di accesso (IAM)**   | Consente di gestire l'accesso alle informazioni di prenotazione del cliente.|
-    | **Configurazione**   | Modificare l'ambito della prenotazione e/o la sottoscrizione di Azure a cui è associata la prenotazione.    |
+    | **Configuration**   | Modificare l'ambito della prenotazione e/o la sottoscrizione di Azure a cui è associata la prenotazione.    |
     | **Proprietà**   | Visualizzare le proprietà della prenotazione e copiare negli Appunti l'ID prenotazione e l'ID ordine di prenotazione. **Nota** Il supporto tecnico potrebbe richiedere l'ID prenotazione e l'ID ordine di prenotazione quando si richiede il supporto per conto di un cliente.    |
     | **Nuova richiesta di supporto**    | Richiedere assistenza da supporto tecnico Microsoft.   |
  
@@ -93,7 +93,7 @@ Per presentare una richiesta di supporto per un rimborso o uno scambio per conto
 
 4. Nella pagina **nuova richiesta di supporto** , attenersi alla procedura seguente per richiedere un rimborso. Selezionare **Avanti** dopo ogni passaggio. 
 
-    |**Passaggio**                    |**Selezioni**    |
+    |**Step**                    |**Selezioni**    |
     |:---------------------------|:-----------------|
     |**1 Nozioni di base**                |Tipo di problema: fatturazione.  |
     |**2 problema**               |Tipo di problema: gestione prenotazione. Categoria: scambi e rimborsi. |

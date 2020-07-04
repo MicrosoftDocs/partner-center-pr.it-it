@@ -4,18 +4,18 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Usare Analytics per apprendere il modo in cui i rivenditori indiretti eseguono, sia i successi che le aree che potrebbero richiedere maggiore attenzione.
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 ms.topic: article
 keywords: dati business
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2fbd8552d026d568b94dbfdddf4452897a3c790d
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 3bdc3e149d445a1d43f24d54e16c04464bea807e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991012"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947416"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Usare Analytics per analizzare le prestazioni dei rivenditori indiretti
 

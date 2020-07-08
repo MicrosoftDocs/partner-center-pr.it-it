@@ -10,12 +10,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf1822db6b689cc75c13a782c93a9d21b0ac3f75
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 73790a3fc59a2271b33c772d94b8c30902f16820
+ms.sourcegitcommit: 00f6e38cb6e3dce075174d757a5adf8fd6430bac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949390"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "86092355"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Report dei vantaggi disponibile dal dashboard di partner Center Insights
 
@@ -42,7 +42,7 @@ Nel report dei vantaggi è possibile visualizzare i grafici seguenti:
  > [!NOTE]
  > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
 
-**Riepilogo**
+## <a name="summary"></a>Summary
 
 La sezione Riepilogo presenta i vantaggi concessi in termini di software concesso in licenza, servizi cloud (non Azure), sottoscrizioni di Visual Studio, supporto tecnico e alcuni servizi o offerte per il go-to-Market.
 
@@ -50,20 +50,20 @@ Esempio: i partner di appartenenza Microsoft Partner Network (MPN) sono idonei p
 
 :::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="Riepilogo vantaggi":::
 
-**Servizi cloud concessi**
+## <a name="cloud-services-granted"></a>Servizi cloud concessi
 
 Questo grafico presenta la tendenza mensile delle licenze concesse durante l'intervallo di date selezionato per le sottoscrizioni basate su licenza del servizio cloud selezionato.
 Selezionare un servizio cloud dalla scheda **Servizi** per visualizzare il grafico per un servizio cloud specifico. Il grafico a linee rappresenta le licenze complessive concesse alla società.
 
 :::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="Servizi cloud concessi":::
 
-**Prodotti software**
+## <a name="software-products"></a>Prodotti software
 
 Questo grafico presenta la tendenza mensile delle licenze concesse durante l'intervallo di date selezionato per un prodotto software specifico. Selezionare un prodotto software dall'elenco a discesa nella parte superiore del grafico per visualizzare la tendenza di un prodotto software specifico concesso come vantaggio. Il grafico a linee rappresenta le licenze complessive concesse alla società.
 
 :::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="prodotti software concessi":::
 
-**Sottoscrizioni di Visual Studio**
+## <a name="visual-studio-subscriptions"></a>Sottoscrizioni di Visual Studio
 
 Questo grafico mostra la tendenza mensile delle sottoscrizioni di Visual Studio attivate per le sottoscrizioni che sono state allocate durante l'intervallo di date selezionato.
 
@@ -71,7 +71,7 @@ Selezionare una scheda nella parte superiore del grafico per visualizzare la ten
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Sottoscrizioni di Visual Studio":::
 
-**Vantaggi tecnici**
+## <a name="technical-benefits"></a>Vantaggi tecnici
 
 Questo grafico presenta la tendenza mensile dei vantaggi del supporto concesso durante l'intervallo di date selezionato.
 
@@ -79,13 +79,13 @@ Selezionare una scheda nella parte superiore del grafico per visualizzare la ten
 
 :::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="vantaggi tecnici":::
 
-**Offerte o servizi go-to-Market**
+## <a name="go-to-market-offers-or-services"></a>Offerte o servizi go-to-Market
 
 Questo grafico mostra la tendenza mensile delle offerte go-to-Market o dei servizi attivati rispetto a allocati durante l'intervallo di date selezionato e per un'offerta o una categoria di servizi per il go-to-Market selezionata.
 
 Selezionare un'offerta o una categoria di servizi per l'immissione sul mercato dall'elenco a discesa nella parte superiore del grafico per visualizzare la tendenza dei servizi go-to-Market selezionati concessi alla società. Le colonne nel grafico rappresentano le offerte o i servizi di go-to-Market attivati. Il grafico a linee rappresenta le offerte o i servizi globali concessi alla società.
 
-![Offerte go-to-Market](images/pci/pci-benefits-go-to-market-7.png)
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Offerte go-to-Market":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 

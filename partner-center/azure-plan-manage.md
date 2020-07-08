@@ -5,16 +5,16 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner possono usare opzioni del controllo degli accessi in base al ruolo diverse per ottenere il controllo operativo e la gestione delle risorse di Azure di un cliente.
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0b66a5fc2c51c8e1e4ef282ffebae68758df428
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 8d06ada3cc16949da9a457b4515978444887ed56
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908989"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948438"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gestire sottoscrizioni e risorse nel piano di Azure
 

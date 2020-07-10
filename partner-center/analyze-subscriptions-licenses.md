@@ -1,23 +1,23 @@
 ---
-title: Analizzare le sottoscrizioni e le licenze | Centro per i partner
-ms.date: 11/13/2019
+title: Analizzare sottoscrizioni e licenze
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni su come usare le metriche nella pagina sottoscrizione e analisi licenze per identificare i successi e le aree che richiedono maggiore attenzione.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: dati business
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6248b3fcf99bba9aaaa3984b40346c97ce5e37bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: bef5eb909b5ad739325c87b774fb738e89c26ac0
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948588"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175960"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>Analizzare sottoscrizioni e licenze 
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analizza le sottoscrizioni e le licenze per aiutarti a promuovere decisioni aziendali e nuovi obiettivi
 
 **Si applica a**
 
@@ -44,6 +44,8 @@ Questo report può essere trasformato in base ai prodotti seguenti:
  - **Microsoft 365**: Microsoft 365 dati  
  - **Office 365**: dati di Office 365  
 
+
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Tipi di metriche di sottoscrizione e di licenza che è possibile visualizzare
 
 Vengono monitorate le metriche seguenti:
 
@@ -77,4 +79,6 @@ Vengono monitorate le metriche seguenti:
 **Sottoscrizioni di valutazione che terminano tra 30 giorni**  
  - Elenco delle versioni di valutazione avviate, in cui la data di fine è entro 30 giorni e non è presente alcuna data di inizio a pagamento associata alla sottoscrizione  
 
-  
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Analizzare le prestazioni dei rivenditori indiretti](analyze-indirect-resellers.md)

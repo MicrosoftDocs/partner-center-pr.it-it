@@ -1,7 +1,7 @@
 ---
-title: Ridimensionamento della macchina virtuale Microsoft Azure per l'utilizzo massimo della prenotazione | Centro per i partner
+title: Dimensionamento delle VM di Azure per l'utilizzo massimo della prenotazione
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni su come ridimensionare una macchina virtuale (VM) in base alle esigenze di elaborazione dei clienti quando si acquistano Microsoft Azure prenotazioni.
@@ -9,13 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, prenotazioni, VM, gestione, utilizzo, dimensionamento
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 02635631d618b226eebcacee534e5947975b8153
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453278"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175907"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Ridimensionamento della macchina virtuale di Microsoft Azure per l'utilizzo massimo delle prenotazioni
 
@@ -25,7 +25,7 @@ ms.locfileid: "84453278"
 - Portale di Azure
 - Partner in CSP
 
-## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Determinare le dimensioni della macchina virtuale per la prenotazione di Azure di un cliente 
+## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Determinare le dimensioni della macchina virtuale per la prenotazione di Azure di un cliente
 
 Quando si acquistano Microsoft Azure prenotazioni per conto dei clienti, è necessario scegliere una macchina virtuale (VM) ridimensionata per soddisfare le esigenze di calcolo del cliente. È possibile trovare queste informazioni usando uno dei metodi seguenti:
 
@@ -42,27 +42,31 @@ Di seguito sono riportate le istruzioni per l'uso di ognuno di questi metodi. Do
 >[!IMPORTANT]
 >Per identificare correttamente il tipo e le dimensioni della macchina virtuale da acquistare per conto del cliente, è necessario usare uno dei metodi descritti di seguito poiché il tipo di serie di VM non viene visualizzato correttamente nei file di riconciliazione del centro per i partner.
 
-**Ottenere informazioni sul dimensionamento delle macchine virtuali tramite l'API di utilizzo di Azure**
+### <a name="get-vm-sizing-information-using-the-azure-utilization-api"></a>Ottenere informazioni sul dimensionamento delle macchine virtuali tramite l'API di utilizzo di Azure
 
 1. Usare il valore per l'attributo ServiceType da additionalInfo nella risposta dell'API per identificare le dimensioni della macchina virtuale da acquistare.
+
 2. Per altre informazioni, vedere [ottenere i record di utilizzo di un cliente per Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) nell' [API del centro](https://docs.microsoft.com/partner-center/develop/)per i partner.
 
-**Ottenere informazioni sul dimensionamento della macchina virtuale usando il portale di Microsoft Azure**
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Ottenere informazioni sul dimensionamento della macchina virtuale usando il portale di Microsoft Azure
 
 1. Nel centro per i partner passare alla pagina **Customers (clienti** ).
+
 2. Trovare il cliente che desidera acquistare le prenotazioni di macchine virtuali di Azure e quindi selezionare la freccia rivolta verso il basso per espandere le informazioni del cliente. Selezionare **portale di gestione di Microsoft Azure** per aprire il record del cliente nella portale di Azure.
+
 3. Selezionare **macchine virtuali** dal menu del portale e quindi selezionare la macchina virtuale per cui si vuole acquistare una prenotazione.
+
 4. Nella pagina dei dettagli della macchina virtuale individuare le informazioni sulle dimensioni e sull'area, come illustrato di seguito, e usare queste informazioni per acquistare la prenotazione nel centro per i partner.  
 
-    :::image type="content" source="images/usage1.png" alt-text="Informazioni sulle dimensioni e sull'area nella pagina Dettagli":::
+   :::image type="content" source="images/usage1.png" alt-text="Informazioni sulle dimensioni e sull'area nella pagina Dettagli":::
 
-**Ottenere informazioni sul dimensionamento della macchina virtuale usando Microsoft Azure PowerShell**
+### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>Ottenere informazioni sul dimensionamento della macchina virtuale usando Microsoft Azure PowerShell
 
 Usare le informazioni nell'immagine seguente per ottenere la posizione e le dimensioni della macchina virtuale per cui si vuole acquistare una prenotazione. 
 
 :::image type="content" source="images/usage2.png" alt-text="Posizione e dimensioni della macchina virtuale":::
 
-**Ottenere informazioni sul dimensionamento delle macchine virtuali tramite l'API Azure Resource Manager (ARM)**
+### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Ottenere informazioni sul dimensionamento delle macchine virtuali tramite l'API Azure Resource Manager (ARM)
 
 1. Usando le API ARMClient o ARM, chiamare il client ARM per la macchina virtuale per cui si vuole acquistare una prenotazione.
 

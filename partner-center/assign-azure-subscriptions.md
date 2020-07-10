@@ -10,12 +10,12 @@ ms.author: dineshvu
 keywords: Azure, sottoscrizione di Azure, sottoscrizione, sottoscrizioni, assegna sottoscrizione, Gestisci sottoscrizione di Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0beb6f0a4f4a2b0eb4cc731c9bf30add379ea6e3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ae6b1dd2d5b24dd44431f27473f783b90a74fd18
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948554"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175923"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Assegnazione di sottoscrizioni di Azure ai clienti nel Centro per i partner
 
@@ -37,11 +37,12 @@ ms.locfileid: "85948554"
 
 6. Dopo aver aggiunto l'utente alla sottoscrizione, è possibile assegnare all'utente un ruolo e l'account specifico a cui l'utente potrà accedere.
 
-**Abilitare i clienti per la gestione delle sottoscrizioni di Azure**
+## <a name="enable-customers-to-manage-their-azure-subscriptions"></a>Abilitare i clienti per la gestione delle sottoscrizioni di Azure
 
 Dopo aver creato una sottoscrizione di Microsoft Azure per un cliente, puoi consentirgli di gestire la sottoscrizione. A tale scopo, è necessario accedere al portale di gestione Microsoft Azure del cliente. 
 
 1. Per aprire la portale di Azure del cliente, espandere l'elenco del cliente nell'elenco dei clienti oppure selezionare il nome del cliente, quindi selezionare **portale di gestione di Microsoft Azure**.
+
    > [!NOTE]  
    > Se viene richiesto di accedere al portale di Azure, è possibile che non si disponga dei privilegi amministrativi delegati. Seleziona **Richiedi una relazione** per invitare il cliente a identificarti come suo Partner of Record. Quando il cliente accetta l'invio, ti sono automaticamente concessi i privilegi amministrativi delegati.
 
@@ -49,4 +50,8 @@ Dopo aver creato una sottoscrizione di Microsoft Azure per un cliente, puoi cons
 
 3. Assegnare un ruolo a uno degli utenti del cliente in modo che possano creare e gestire le risorse nell'ambito della sottoscrizione.
 
+## <a name="next-steps"></a>Passaggi successivi
 
+- [Come i partner CSP possono vendere le sottoscrizioni ai clienti](customer-subscriptions.md)
+
+- [Come ottenere le autorizzazioni per gestire il servizio o le sottoscrizioni di un cliente](customers-revoke-admin-privileges.md)

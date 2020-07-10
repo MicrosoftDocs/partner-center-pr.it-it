@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32c765797af31095ddec0c43c9bb132b68e1d319
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ef1ea79e669c16e663a40cdef8b0d4d3af6f219f
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992108"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175885"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Usare le metriche nel centro per i partner per aumentare l'adozione e la soddisfazione
 
@@ -39,21 +39,31 @@ Puoi vedere i dati per tutti i tuoi clienti tramite il programma Cloud Solution 
 
 ## <a name="find-license-and-user-data"></a>Trovare dati sulle licenze e gli utenti
 
+È possibile trovare i dati relativi a licenze e utenti per un singolo cliente o per tutto il portfolio.
 
-**Per un singolo cliente**
+### <a name="find-license-and-user-data-for-a-single-customer"></a>Trovare i dati di licenza e utente per un singolo cliente
 
-- Selezionare **Customers** dal **centro**per i partner, scegliere un cliente, quindi selezionare **Customer Insights**.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
-**Per tutto il tuo portfolio**
+2. Seleziona **i clienti** dal **centro** per i partner
 
-1.  Nel centro per i **partner**selezionare **analizza**.
-2.  Scarica i dati di distribuzione e utilizzo per l'intero set dei tuoi clienti selezionando le opzioni per l'**esportazione**.
+3. Scegliere un cliente.
+
+4. Selezionare **Customer Insights**.
+
+### <a name="find-license-and-user-data-across-your-portfolio"></a>Trovare i dati relativi a licenze e utenti nel portfolio
+
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
+
+2. Selezionare **analizza**e scegliere una delle opzioni di analisi nel menu.
+
+3. Per scaricare i dati di distribuzione e di utilizzo nell'intero set di clienti, selezionare l'opzione **Esporta** (freccia giù).
 
 Terminologia:
 
-- **Diritto:** una licenza che l'utente ha diritto a usare (non è sospeso per frode o non pagamento, non è stato aggiornato a una licenza diversa, non è stato annullato dall'utente e così via).
+- **Diritto** = licenza che l'utente è autorizzato a utilizzare (non è sospeso per frode o non pagamento, non è stato aggiornato a una licenza diversa, non è stato annullato dall'utente e così via).
 
-- **Attivo:** se l'utente con sottoscrizione ha usato il diritto per un'attività negli ultimi 28 giorni di calendario.
+- **Active** = se l'utente sottoscritto ha utilizzato il diritto per un'attività negli ultimi 28 giorni di calendario.
 
 - **% distribuzione** = licenze assegnate/licenze vendute
 
@@ -61,13 +71,13 @@ Terminologia:
 
    In alcuni casi la percentuale di utilizzo risulta ingigantita, o maggiore del 100%. Questo problema può verificarsi per diversi motivi:
 
-   - Ricambi del personale presso il cliente a causa dei quali la licenza è stata trasferita a un nuovo utente.
+  - Ricambi del personale presso il cliente a causa dei quali la licenza è stata trasferita a un nuovo utente.
 
-   - Se il cliente dispone di due sottoscrizioni per uno SKU, ma una è nel periodo di tolleranza, disabilitato o deprovisioning, i diritti in entrambe le sottoscrizioni possono registrare l'utilizzo attivo durante il periodo di 28 giorni, ma solo uno viene conteggiato nel totale.
+  - Se il cliente dispone di due sottoscrizioni per uno SKU, ma una è nel periodo di tolleranza, disabilitato o deprovisioning, i diritti in entrambe le sottoscrizioni possono registrare l'utilizzo attivo durante il periodo di 28 giorni, ma solo uno viene conteggiato nel totale.
 
-   - Se il cliente usa una sottoscrizione di prova, l'attività viene conteggiata ma la sottoscrizione non viene inclusa nei conteggi del totale dei diritti.
+  - Se il cliente usa una sottoscrizione di prova, l'attività viene conteggiata ma la sottoscrizione non viene inclusa nei conteggi del totale dei diritti.
 
-   - Se alcuni clienti usano Yammer molto di più di quanto autorizzato dalla loro licenza, i dati possono essere notevolmente distorti.
+  - Se alcuni clienti usano Yammer molto di più di quanto autorizzato dalla loro licenza, i dati possono essere notevolmente distorti.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

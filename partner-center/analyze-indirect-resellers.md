@@ -4,18 +4,18 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Usare Analytics per apprendere il modo in cui i rivenditori indiretti eseguono, sia i successi che le aree che potrebbero richiedere maggiore attenzione.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: dati business
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bdc3e149d445a1d43f24d54e16c04464bea807e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 33d435b6497f84d87ce866624deb47e2bd6ebc89
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947416"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175965"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Usare Analytics per analizzare le prestazioni dei rivenditori indiretti
 
@@ -35,6 +35,8 @@ I dati prendono le decisioni aziendali. Usare le metriche nella pagina di **anal
 
 > [!NOTE]
 > L'analisi dei rivenditori indiretti è disponibile solo per i partner nel programma Cloud Solution Provider.
+
+## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Tipi di metriche di Reseller Analytics che è possibile visualizzare
 
 Vengono monitorate le metriche seguenti:
 
@@ -69,4 +71,6 @@ Vengono monitorate le metriche seguenti:
  - **Sottoscrizioni**: numero di sottoscrizioni vendute dal rivenditore  
  - **Licenze**: numero totale di licenze vendute dal rivenditore tra tutte le sottoscrizioni  
   
-  
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Analizza le sottoscrizioni e le licenze per promuovere le decisioni aziendali](analyze-subscriptions-licenses.md)

@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come reimpostare la password del centro per i partner o ricevere assistenza dall'amministratore globale dell'azienda. Inoltre, informazioni su come aggiungere un nuovo amministratore globale del centro per i partner.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b18e28170dcf51d1a2dc36134fb5ad404f18502
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: efd7b886c507940fe474b1984024a18766ebfce7
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991992"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265212"
 ---
 # <a name="reset-my-password"></a>Reimpostare la password
 
@@ -28,7 +28,7 @@ L'amministratore globale deve avere configurato la possibilità di reimpostare l
 
 2. Selezionare **account aziendale o dell'Istituto di istruzione**.
 
-3. Viene richiesto di immettere l'ID utente e i caratteri dell'immagine o dell'audio. Fare quindi clic su **Avanti**.
+3. Viene richiesto di immettere l'ID utente e i caratteri dell'immagine o dell'audio. Quindi selezionare **Avanti**.
 
 4. Configurare la nuova password.
 

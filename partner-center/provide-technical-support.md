@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sui tipi di supporto tecnico che i partner del programma Cloud Solution Provider possono offrire ai propri clienti.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09f4b9e07957ccede25a493f5b05d9112d2955eb
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: e6562778e9b3be1ddeaac1c3cfbe5bc1e82a268a
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992046"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219569"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Fornire supporto tecnico per consentire ai clienti di configurare, gestire e utilizzare le sottoscrizioni
 

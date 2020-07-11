@@ -5,17 +5,17 @@ ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni su come eseguire la registrazione come un produttore del pannello di controllo (CPV) nel centro per i partner.
-author: LauraBrenner
-ms.author: labrenne
+author: kbangalore
+ms.author: kiranban
 keywords: Fornitore del pannello di controllo, registrazione delle app CPV, gestione delle app CPV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f26fb6677b04a9cfa801e7f9ad508c47df0ac574
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 819c814333878efc882749a1597e993eb9002545
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795189"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219609"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Eseguire la registrazione come fornitore del pannello di controllo per integrare i sistemi partner CSP con le API del centro per i partner
 

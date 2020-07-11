@@ -5,18 +5,18 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come ripristinare un account del Centro per i partner sospeso, perché si verifica la sospensione e come puoi usare il tuo account durante la sospensione.
-author: LauraBrenner
-ms.author: labrenne
+author: kbangalore
+ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514480372d1717159f9dff6cb3b3b2e575c069b8
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 07d9f4f484a7c7803d5b7a41d1d8fe0f698b58d3
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991797"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219649"
 ---
-# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Ripristinare un account del centro per i partner sospesi-Scopri perché si verifica e come procedere
+# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Ripristinare un account sospeso del Centro per i partner: perché succede e come risolvere il problema
 
 Questo articolo illustra come procedere se l'account del Centro per i Partner è sospeso.
 
@@ -27,7 +27,7 @@ Questo articolo illustra come procedere se l'account del Centro per i Partner è
 
 
 > [!IMPORTANT]  
-> Mentre il tuo account del Centro per i partner è sospeso, puoi continuare a gestire le distribuzioni, le licenze e i servizi esistenti. Tuttavia, non sarà possibile autorizzare o rivendere nuovi servizi o licenze fino a quando l'account non si trova di nuovo in una posizione corretta.
+> Mentre l'account del Centro per i partner è sospeso, è possibile continuare a gestire le distribuzioni, le licenze e i servizi esistenti. Tuttavia, non sarà possibile autorizzare o rivendere nuovi servizi o licenze fino a quando l'account non sarà di nuovo attivo.
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>Motivi per la sospensione di account del Centro per i partner Microsoft
 

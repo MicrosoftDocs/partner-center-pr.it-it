@@ -1,21 +1,20 @@
 ---
 title: Trasferire la sottoscrizione di Azure a un altro partner
 ms.topic: article
-ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come consentire a un cliente di modificare il partner del programma CSP associato alle sottoscrizioni di Azure di un cliente.
-author: dhirajgandhi
-ms.author: dhgandhi
-keywords: sottoscrizione di Azure, switch partner, cambia partner, Ottieni nuovo partner, partner diverso
+description: Informazioni su come modificare il partner del programma Cloud Solution provider associato alle sottoscrizioni di Azure di un cliente.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 65278a9c597fb240f87c04f215a8195a0cff3e19
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+author: dhirajgandhi
+ms.author: dhgandhi
+ms.date: 07/10/2020
+ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
+ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949095"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86237971"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Informazioni su come trasferire le sottoscrizioni di Azure di un cliente a un altro partner
 
@@ -52,9 +51,9 @@ Per passare i servizi o le sottoscrizioni di Azure di un cliente a un altro part
 
      Nel passaggio 2 Selezionare **C-minimo Impact** e scegliere **altre domande generali** come tipo di problema.
 
-     Scaricare il [modulo di trasferimento della sottoscrizione CSP](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip).
+     Scaricare il [modulo di trasferimento della sottoscrizione CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
 
-3. Partner per la sottoscrizione: compilare il modulo di [trasferimento della sottoscrizione CSP](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip), firmarlo e inviarlo al cliente. Per compilare il modulo, sono necessarie le informazioni seguenti:
+3. Partner per la sottoscrizione: compilare il modulo di [trasferimento della sottoscrizione CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), firmarlo e inviarlo al cliente. Per compilare il modulo, sono necessarie le informazioni seguenti:
 
    - ID Microsoft e informazioni di contatto del partner corrente. Nel menu del Centro per i partner seleziona **Impostazioni account** &gt; **Profilo organizzazione** e usa i valori indicati per **ID Microsoft**, **Nome organizzazione** e **Indirizzo**.
 

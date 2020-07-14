@@ -252,6 +252,4 @@
 ## [Panoramica](partner-security-requirements.md)
 ## [Imposizione MFA per il tenant partner](partner-security-requirements-mandating-mfa.md) 
 ## [Stato conformità](partner-security-compliance.md)
-## [Implementare i requisiti di sicurezza per i partner](implement-security-requirements.md)
 ## [Domande frequenti](partner-security-requirements-faq.md)
-

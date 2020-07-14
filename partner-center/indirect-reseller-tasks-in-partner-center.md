@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: rivenditori indiretti, rivenditori, provider indiretti, provider, relazione, VAR, livello2, livello 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ec6fcb6ccfd867d986aad2b751650cd6c1669229
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9450d4e32a086add3c86e398dacd1a590e7e6d4c
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362759"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879347"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informazioni per collaborare con provider indiretti nel programma Cloud Solution Provider
 
@@ -196,6 +196,24 @@ Per ottenere le autorizzazioni di amministratore per gestire le sottoscrizioni e
 4. Dopo che il cliente ha autorizzato te e il provider a diventare i suoi rivenditori registrati, avrai le autorizzazioni di amministratore necessarie per gestire abbonamenti, licenze e utenti per conto del cliente. Il provider indiretto può anche inviare ordini per conto del cliente.
 
 5. Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome.
+
+## <a name="remove-a-relationship-with-a-customer"></a>Rimuovere una relazione con un cliente
+
+Per rimuovere la relazione con un cliente, completare i passaggi seguenti:
+
+1.  Nel Centro per i partner passare a **Clienti** e selezionare il cliente di cui si vuole rimuovere la relazione.
+
+2.  Selezionare **Account**.
+
+3.  Selezionare **Rimuovi relazione con il cliente**.
+
+4.  Il cliente non verrà più visualizzato nell'elenco dei clienti.
+
+>[!IMPORTANT]
+>Se viene rimossa una relazione che era stata stabilita con un cliente, gli eventuali privilegi di amministratore con delega concessi rimarranno invariati.
+>L'utente dichiara che la decisione di interrompere la relazione con il cliente è stata presa in buona fede, per finalità aziendali legittime e in conformità al contratto stipulato con il cliente o il partner, e accetta di sollevare Microsoft da qualsiasi responsabilità in caso di reclami da parte di terzi.
+>Se il contratto lo prevede, è necessario fornire al cliente o al partner comunicazione ufficiale relativa all'interruzione della relazione. Questo strumento non consente di generare comunicazioni da inviare al cliente o al partner.
+
 
 ## <a name="next-steps"></a>Passaggi successivi
 

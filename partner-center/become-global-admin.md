@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Per lavorare nel Centro per i partner, devi prima di tutto verificare la proprietà del dominio. Scopri come eseguire questa operazione per diventare un amministratore globale in grado di aggiungere utenti.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 keywords: dominio, verifica del dominio, verifica dominio, amministratore globale, ruoli utente, autorizzazioni
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2aed5fa0c8e80f056d643dbfd7c55b3a156331e7
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: b9081796263e109e65a633b0a492d4bd58c7fa0a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908266"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948238"
 ---
 # <a name="verify-your-domain-ownership"></a>Verificare la proprietà del dominio
 
@@ -36,7 +36,7 @@ Devi verificare la proprietà del dominio per poter acquistare i vantaggi a cui 
 
 ## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>Verifica la proprietà del dominio e diventa un amministratore globale nel Centro per i partner
 
-1. Nella pagina **Offerte di iscrizione** del Centro per i partner seleziona **Diventa un amministratore globale**. 
+1. Nella pagina **Offerte di iscrizione** del dashboard Centro per i partner selezionare **Diventa un amministratore globale**. 
 
 2. Nella pagina **Verifica la proprietà del dominio** copia i valori TXT dalla tabella. Tieni presente che il dominio è già selezionato.
 

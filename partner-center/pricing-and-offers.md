@@ -1,7 +1,7 @@
 ---
 title: Prezzi e offerte
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vedi gli elenchi prezzi correnti per servizi basati su licenze come Office 365, Microsoft Dynamics CRM ed Enterprise Mobility Suite e servizi basati sull'utilizzo come Azure.
@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 066b69cc0a70ded518c6bbaa9f35879e4b992a89
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f119410e1d1530ba909d4ce18edd83b718da74f8
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949332"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286629"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prezzi e offerte per Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e altro ancora
 
@@ -42,13 +42,13 @@ Per visualizzare i programmi e le offerte del provider di soluzioni cloud più r
 - **Marketplace** include i prezzi per le soluzioni ISV dal Marketplace commerciale di Microsoft. I prezzi vengono recuperati per mercato. I dati in questi file vengono aggiornati ogni giorno.
 
 > [!Note] 
-> Solo i partner CSP con funzionalità di transazione possono visualizzare e scaricare gli elenchi dei prezzi. I rivenditori indiretti devono [contattare il provider CSP]( https://partner.microsoft.com/en-us/cloud-solution-provider/find-a-provider) per richiedere dettagli sui prezzi
+> Solo i partner CSP con funzionalità di transazione possono visualizzare e scaricare gli elenchi dei prezzi. I rivenditori indiretti devono [contattare il provider CSP]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) per richiedere dettagli sui prezzi
 
 ## <a name="price-list-preview-and-change-frequency"></a>Anteprima dell'elenco prezzi e frequenza di modifica 
 
 I servizi basati su licenze includono un'anteprima di listino prezzi, che fornisce 30 giorni prima di qualsiasi modifica. Per visualizzare l'anteprima dell'elenco prezzi, vai a **vendi > prezzi e offerte**. Non sono disponibili anteprime dei prezzi per i servizi basati sull'utilizzo poiché questi servizi sono dinamici. Nella tabella seguente viene illustrato come leggere la tabella Listino prezzi.
 
-|**Elemento**        |**Definizione**      |
+|**Elemento**        |**Definition**      |
 |:-----------   |:-----------   |
 |ADD   |Un nuovo elemento all'elenco prezzi|
 |CHG   |Modifiche al prezzo di listino dal mese al mese. Potrebbero verificarsi altre modifiche non correlate al prezzo di listino. i partner dovrebbero confrontare gli elenchi prezzi tra i mesi per determinare le modifiche apportate ad altre proprietà.|
@@ -89,8 +89,8 @@ CSP offre alcuni servizi a segmenti di mercato speciali, ad esempio Education, n
 
 |**Segmento**   |**utenti che devono qualificarsi**   |**Partner idoneo per i clienti**|**Tipi di prodotto abilitati**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Customer|No, la qualifica del cliente verrà eseguita da Microsoft |Solo basato su licenza|
-|Senza scopo di lucro|Customer|No, il cliente si qualifica all'esterno del centro per i partner|Solo basato su licenza|
+|Education|Cliente|No, la qualifica del cliente verrà eseguita da Microsoft |Solo basato su licenza|
+|Senza scopo di lucro|Cliente|No, il cliente si qualifica all'esterno del centro per i partner|Solo basato su licenza|
 |Government Community Cloud (GCC) (Cloud della community per enti pubblici)|Partner e cliente|Una volta abilitata la funzionalità GCC, il partner può creare clienti GCC| Solo basato su licenza|
 |Azure Government|Partner|Una volta qualificato, il partner opera in un tenant CSP specifico di Azure per enti pubblici|Risorse di Azure|
 

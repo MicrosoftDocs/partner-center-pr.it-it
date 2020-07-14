@@ -5,15 +5,15 @@ ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sincronizzare i riferimenti nel centro per i partner con Salesforce CRM
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e51ddc8ec3ea568a20404801802548f79cae43d0
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0a22587f5b555281cae6f557acfc2695ba92727e
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991625"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302378"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connettore di co-selling per CRM Salesforce - Panoramica
 

@@ -1,21 +1,21 @@
 ---
 title: Installare Partner Center Analytics per Power BI
 ms.topic: article
-ms.date: 05/19/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Eseguire la procedura descritta in questo articolo per installare e visualizzare in anteprima l'app partner Center Analytics per Power BI (per i partner diretti in CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
-author: LauraBrenner
-ms.author: labrenne
+author: v-sumukh
+ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 36efc58198be67181ed448d90db505889c3070d4
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 64467ec608c2ca87dbc2b7d5dfb02adb08f13c18
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072421"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302328"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installare e visualizzare in anteprima l'app Analisi del Centro per i Partner per Microsoft Power BI
 
@@ -32,11 +32,11 @@ ms.locfileid: "85072421"
 ## <a name="before-you-begin"></a>Prima di iniziare
 
 Selezionare l'applicazione più pertinente per l'azienda dal seguente elenco di app Power BI disponibili:
-- [Provider diretto](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
+- [Provider diretto](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
-- [Provider indiretto](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
+- [Provider indiretto](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
-- [Rivenditore indiretto](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
+- [Rivenditore indiretto](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
 Prima di installare la versione di anteprima dell'app partner Center Analytics, assicurarsi di soddisfare i requisiti seguenti.
 

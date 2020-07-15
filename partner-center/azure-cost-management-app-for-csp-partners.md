@@ -5,18 +5,18 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come registrare l'app Web Cloudyn e usare una chiave privata per l'app nel centro per i partner, in modo da poter usare l'app per tenere traccia dell'utilizzo e dei costi di Azure per i clienti.
-author: LauraBrenner
-ms.author: labrenne
+author: aparnagkrishnan
+ms.author: aparnag
 Keywords: App gestione costi di Azure, Gestisci costi, app Web
 robots: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d88f37e0fe653c679df5729fa283336e4c7e144
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 521501f9a979c0993d299ab30443168408656a44
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908368"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390448"
 ---
 # <a name="track-customer-azure-usage-and-costs-with-the-azure-cost-management-app-for-csp-partners"></a>Tieni traccia dell'utilizzo e dei costi di Azure per i clienti con l'app gestione costi di Azure per i partner CSP  
 
@@ -45,7 +45,7 @@ Cloudyn è un'app Web che consente di tenere traccia e gestire la quantità di u
 ## <a name="register-your-web-app-in-the-partner-center"></a>Registrare l'app Web nel centro per i partner
 Quando si registra un'app Web Azure Active Directory nel centro per i partner, si Abilita l'accesso all'API del centro per i partner. 
 1.  Accedere [al centro per i partner](https://partnercenter.microsoft.com/pcv/dashboard/overview) usando un [account di amministratore globale o di amministratore](create-user-accounts-and-set-permissions.md).
-2.  Dal centro per i **partner**selezionare **Impostazioni** &gt; account **[gestione app](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)**.
+2.  Dal centro per i **partner**selezionare **Impostazioni account** &gt; **[gestione app](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)**.
 3.  Nella sezione **app Web** fare clic su **Aggiungi nuova app Web**.
 <br> **Nota**: se in precedenza è stata creata un'app Web, è possibile ignorare il passaggio 3.
 4.  Copiare e salvare il GUID **ID Commerce** e il GUID **ID app** per l'app Web. Sono necessari entrambi gli ID per usare la versione di valutazione gratuita di 30 giorni dell'app gestione costi di Azure.

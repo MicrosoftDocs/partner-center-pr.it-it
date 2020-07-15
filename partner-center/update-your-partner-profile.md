@@ -3,18 +3,18 @@ title: Verificare il profilo partner
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Descrive come verificare i dettagli della società, ad esempio contatto principale, indirizzo e informazioni sul programma. Puoi anche aggiornare l'indirizzo legale e di fatturazione.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 06/05/2020
+ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991985"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286579"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Verificare le informazioni relative al profilo del partner nel Centro per i partner
 
@@ -37,7 +37,7 @@ Se sono state unite le altre società all'interno dell'azienda legale, è possib
 2. Selezionare **Aggiorna** accanto all'indirizzo legale. ""
 
 >[!Important]
->Se sei un partner CSP non puoi modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è associato al tenant e ai servizi, nonché alla valuta con cui si lavora. Se invece non si è nel programma CSP, puoi modificare il paese associato all'indirizzo legale. Non puoi aggiornare il nome dell’azienda legale nel Centro per i partner se lo stato verificato è "Authorized" (Autorizzato). Sarà necessario [creare un ticket di supporto](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Se sei un partner CSP non puoi modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è associato al tenant e ai servizi, nonché alla valuta con cui si lavora. Se invece non si è nel programma CSP, puoi modificare il paese associato all'indirizzo legale. Non puoi aggiornare il nome dell’azienda legale nel Centro per i partner se lo stato verificato è "Authorized" (Autorizzato). Sarà necessario [creare un ticket di supporto](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 3. Quando selezioni **Invia**, l'identità legale viene rivalutata e riceverai un altro messaggio di posta elettronica che dovrai accettare.
 

@@ -5,17 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come vendere le sottoscrizioni dei clienti ai prodotti pubblicati da Microsoft e ai prodotti SaaS pubblicati da ISV di terze parti.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 Keywords: sottoscrizione, crea nuovo, Aggiungi sottoscrizione, Sospendi, Annulla, sospensione, Sospendi, SaaS, licenza, ISV, terze parti
 ms.localizationpriority: medium
-ms.openlocfilehash: 3588fb8408ef3c190813691d42331753ac531a8f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ea5c15248eb38e1c69b6501e21aed1772e937d45
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991492"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377596"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
@@ -139,7 +139,7 @@ Per annullare una sottoscrizione SaaS basata su licenza da un server di pubblica
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Scegliere se rinnovare automaticamente una sottoscrizione del Marketplace commerciale
 
-Per impostazione predefinita, le sottoscrizioni attive sono impostate in modo da essere rinnovate automaticamente al termine del periodo di sottoscrizione. Nel caso di [sottoscrizioni per prodotti del Marketplace commerciale](csp-commercial-marketplace-overview.md), puoi scegliere di non rinnovare automaticamente la sottoscrizione.
+Per impostazione predefinita, le sottoscrizioni attive sono impostate in modo da essere rinnovate automaticamente al termine del periodo di sottoscrizione. Per le [sottoscrizioni ai prodotti Marketplace commerciali](csp-commercial-marketplace-overview.md), è possibile scegliere di non rinnovare automaticamente la sottoscrizione.
 
 Per arrestare una sottoscrizione del Marketplace commerciale attiva dal rinnovo automatico:
 

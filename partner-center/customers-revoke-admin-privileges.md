@@ -5,17 +5,17 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ottieni le autorizzazioni necessarie per gestire il servizio o l'abbonamento di un cliente per suo conto. Scopri come sono concesse, revocate e gestite le autorizzazioni.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 keywords: privilegi di amministratore con delega, amministratore per conto terzi, rimuovere i privilegi
 ms.localizationpriority: high
-ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 95f6ae6661180e4d607065a5211ca5f600719f7c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198599"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377435"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Ottenere le autorizzazioni per gestire il servizio o l'abbonamento di un cliente
 
@@ -34,7 +34,7 @@ Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ulti
 
 1.  Seleziona **Clienti** e quindi **Richiedi una relazione come rivenditore**.
 
-2.  Nella pagina successiva esaminare la bozza del messaggio di posta elettronica. Puoi aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure puoi copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
+2.  Nella pagina successiva esaminare la bozza del messaggio di posta elettronica. È possibile aprire la bozza del messaggio nell'applicazione di posta elettronica predefinita oppure è possibile copiare il messaggio negli Appunti e incollarlo in un messaggio di posta elettronica. 
 
     >[!IMPORTANT]
     >Il testo nel messaggio di posta elettronica può essere modificato, ma è necessario assicurarsi di includere il collegamento, in quanto personalizzato, per collegare il cliente direttamente al proprio account. 

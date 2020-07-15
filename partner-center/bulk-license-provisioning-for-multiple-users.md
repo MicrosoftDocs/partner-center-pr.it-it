@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come usare un account cliente per assegnare o revocare licenze e servizi a un utente o a più utenti contemporaneamente.
-author: dineshvu
-ms.author: dineshvu
+author: amitravat
+ms.author: amrava
 Keywords: assegnare una licenza, revocare la licenza, assegnarla a più utenti,
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 6211bbca4fad5bf6a28c98a76a98a6be02d4fceb
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 8da5ffd66e717cf26aadc519fe0e5431067b25dd
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86176013"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390578"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Assegnare o revocare le licenze contemporaneamente a più utenti in un account cliente
 

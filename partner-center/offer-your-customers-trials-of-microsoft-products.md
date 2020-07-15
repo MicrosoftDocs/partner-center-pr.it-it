@@ -5,16 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consentire ai clienti di provare i prodotti di sottoscrizione Microsoft per 30 giorni. È sufficiente iscriversi a queste versioni di valutazione gratuite nel catalogo come molti altri Servizi online.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3cb1b2104119a28b376301637e559df76392d65c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175985"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377775"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Concedi ai clienti una versione di valutazione gratuita di 30 giorni dei prodotti Microsoft
 
@@ -117,6 +117,6 @@ Non verranno visualizzate le versioni di valutazione gratuite elencate nel file 
 
 Le versioni di valutazione gratuite non influiscano sugli incentivi.
 
-## <a name="support"></a>Supporto
+## <a name="support"></a>Supporto tecnico
 
 Per il supporto delle versioni di valutazione gratuite, inviare una richiesta di assistenza tramite il centro per i partner.

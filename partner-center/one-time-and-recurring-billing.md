@@ -3,17 +3,17 @@ title: Fatturazione-una sola volta & selezionare addebiti periodici
 ms.topic: article
 ms.date: 05/26/2020
 Description: Scopri di più sulla fatturazione monouso per il centro per i partner, per i termini predefiniti e la fatturazione per i costi selezionati e ricorrenti.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: fatturazione, una volta, periodici, acquisti, addebiti, ISV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2c833d132b56969f1c8b06bc01fd50d28110819
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 9720d06d42025ee69c52afb893e4a6b6fee4a28f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749150"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390248"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Fatturazione per una sola volta e selezionare i costi ricorrenti nel centro per i partner
 

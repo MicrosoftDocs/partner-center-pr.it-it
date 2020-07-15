@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sulle risorse per la crescita dell'azienda partner Microsoft. Questo include come ottenere lead di vendita (riferimenti) da Microsoft.
 keywords: segnalazioni, rispondere alle segnalazioni, lead, lead di vendita, profilo di marketing, profilo di business, espandere la propria attività, opportunità commerciali, competenze, iscrizione come membro silver, iscrizione come membro gold, offerte per versioni di valutazione, espansione del mercato, cloud nazionali
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f221c34ea22eb200bbcf90c5a82beeb51ec3eaae
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2e783c9881ad314618b7851bd9f877b52727e286
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795815"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390508"
 ---
 # <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Ampliare le attività dei partner Microsoft: informazioni su come ottenere lead & impostare la società a parte
 

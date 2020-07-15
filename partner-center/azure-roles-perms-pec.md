@@ -5,16 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sui ruoli e sulle autorizzazioni per i partner per poter guadagnare i crediti guadagnati dal partner (PEC). Questi sono diversi dai ruoli per lavorare nel centro per i partner.
-author: dineshvu
-ms.author: dineshvu
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0f4e99dab2c898564941e926fc6d754547d66c1
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fa6241755e228e36abdd15022c127d2b243b488f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948251"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390588"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Ruoli e autorizzazioni idonei per ottenere il credito guadagnato dal partner
 
@@ -26,8 +26,8 @@ I ruoli seguenti sono mappati ai livelli di autorizzazione che determinano se un
 |**Ruolo**   |**Descrizione**   |**Idoneo per PEC**   |
 |-----------------|:------------------|:--------------|
 |Proprietario  |Si gestiscono tutti gli elementi, incluso l'accesso alle risorse.|Sì|
-|Autore di contributi |Si gestiscono tutti gli elementi, ad eccezione della concessione dell'accesso alle risorse.|Sì|
-|Reader|È possibile visualizzare tutti gli elementi, ma non apportare modifiche|No|
+|Collaboratore |Si gestiscono tutti gli elementi, ad eccezione della concessione dell'accesso alle risorse.|Sì|
+|Lettore|È possibile visualizzare tutti gli elementi, ma non apportare modifiche|No|
 |ACRDelete|acr delete|Sì|
 |ACRImageSigner|firmatario immagine acr|Sì|
 |ACRPull|acr pull|Sì|

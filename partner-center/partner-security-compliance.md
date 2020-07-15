@@ -4,18 +4,18 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i nuovi requisiti obbligatori che consentono di aumentare la sicurezza per gli advisor, i fornitori del pannello di controllo e i partner del programma Cloud Solution Provider.
-author: LauraBrenner
-ms.author: labrenne
+author: isaiahwilliams
+ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b842566245eaf7a874535fd081da51424316d417
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: bfafbf24910a6d194846af5a15f14050af33be7f
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328182"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265170"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Stato dei requisiti di sicurezza del partner: ottieni le risposte e controlla i report sullo stato corrente
 

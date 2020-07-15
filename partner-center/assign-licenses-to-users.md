@@ -5,17 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come creare gli account utente per un cliente, aggiungere o rimuovere licenze utente, reimpostare le password utente, eliminare gli account utente o ripristinarli.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 Keywords: gestione clienti, account, creazione account, licenze, assegna licenza, gestione utenti, password, Reimposta password, modifica password
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3fb55e341692e38250c4e751cf73f3120604c15a
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 57d5a91fda593b47d6e22b3682d0072b256ae655
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991026"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377685"
 ---
 # <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>Attività di gestione degli utenti per gli account cliente nel centro per i partner
 

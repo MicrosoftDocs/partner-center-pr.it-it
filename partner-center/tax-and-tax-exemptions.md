@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: Per i partner del programma CSP, informazioni sulle responsabilità fiscali per area, su come inviare esenzioni fiscali per le vendite CSP e su come ottenere supporto per le domande fiscali.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
+author: BillLinzbach
 keywords: fiscali, esenzioni fiscali, IVA, rivenditore, fatturazione
-ms.author: labrenne
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1236facdfdb1f73f940c36c4a748cc9a1694e72c
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: c02533f69e6d79da435dfa9ef9e4feffc4085571
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991793"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377375"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leggi i dettagli sulle imposte e sull'esenzione fiscale per area o paese per i partner nel programma CSP
 
@@ -48,7 +48,7 @@ Negli stati membri dell'Unione europea i partner devono fornire il numero di par
 
 Microsoft non supporta il credito e la fatturazione. Prima di vendere le sottoscrizioni, è necessario [registrare il numero di ID IVA](organization-tax-info.md) nel centro per i partner.
 
-### <a name="south-africa"></a>Sud Africa
+### <a name="south-africa"></a>Sudafrica
 
 Microsoft ora applica l'IVA standard ai contenuti digitali e ai servizi acquistati dai partner in Sudafrica. Per escludere l'IVA dalle fatture e gestirla autonomamente, è necessario aggiornare il profilo di fatturazione del partner [inviando a Microsoft il numero di ID IVA](organization-tax-info.md).
 
@@ -95,7 +95,7 @@ Quindi, creare un ticket di supporto per Microsoft con le informazioni sull'esen
 
 6. Scegliere **Invia** per inviare la richiesta di supporto. Microsoft ti invia un messaggio di posta elettronica per ottenere ulteriori informazioni.
 
-## <a name="support"></a>Supporto
+## <a name="support"></a>Supporto tecnico
 
 Per altre domande sulle esenzioni fiscali e i rimborsi, richiedere supporto nel centro per i partner. Microsoft ti contatterà per risolvere il problema nel giro di due settimane.
 

@@ -5,19 +5,19 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Nel centro per i partner, Scopri come vendere le sottoscrizioni dei clienti ai prodotti SaaS pubblicati nel Marketplace commerciale da fornitori di software indipendenti (ISV).
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: sottoscrizioni, Marketplace, terze parti, ISV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b18b0196b3aa8c3013fe7515b745277db7b55f21
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 8c862cbe8048881fd8fe223d9afae85c66e7104e
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426020"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390598"
 ---
-# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Usare il centro per i partner per vendere le sottoscrizioni dei clienti ai prodotti del Marketplace commerciale
+# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Usare il Centro per i partner per vendere ai clienti sottoscrizioni di prodotti del marketplace commerciale
 
 **Si applica a**
 

@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: I partner Microsoft qualificati possono co-vendere con Microsoft. Scopri come definire gli impegni, invitare Microsoft a collaborare o visualizzare gli impegni inviati.
 author: sroy
-ms.author: jenhayes
+ms.author: sroy
 keywords: segnalazione, richiesta di informazioni, Trova un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 6297fc3f43fbb19d4d1501e812d8b8350031ddef
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948052"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390558"
 ---
 # <a name="co-sell-with-microsoft"></a>Co-selling con Microsoft
 
@@ -31,7 +31,7 @@ ms.locfileid: "85948052"
 I partner Microsoft qualificati hanno la possibilità di co-selling con Microsoft. Questa collaborazione consente di adottare soluzioni sul mercato, guidare i ricavi Uniti e garantire il successo dei clienti.
 
 > [!IMPORTANT]
-> Per la co-selling con Microsoft, i partner necessitano di una soluzione per l'uso commerciale, un team di vendita impegnato e una strategia avanzata per la commercializzazione. Devono inoltre soddisfare criteri aggiuntivi specifici. Per ulteriori informazioni, vedere la pagina relativa alla [disponibilità di co-selling](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> Per eseguire il co-selling con Microsoft, i partner devono avere una soluzione per l'uso commerciale, un team di vendita impegnato e una forte strategia per la commercializzazione. Devono anche soddisfare criteri aggiuntivi specifici. Per ulteriori informazioni, vedere la pagina relativa alla [disponibilità di co-selling](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
 ## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>Invita Microsoft a collaborare in un engagement
 

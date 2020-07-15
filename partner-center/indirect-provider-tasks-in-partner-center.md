@@ -4,17 +4,17 @@ description: In qualità di provider o database di distribuzione indiretto, Scop
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: c05ed9aca47b7d232d7d6a0087217850c834e513
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: cb7a9bca65bb4fbb8ef9f3fb88a968155bf17ced
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879367"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377215"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 
@@ -98,7 +98,7 @@ Per le sottoscrizioni esistenti, se si decide di utilizzare un rivenditore indir
 
 - Nella pagina Dettagli sottoscrizione, nel campo **rivenditore (ID MPN)** , aggiungere il rivenditore con cui si desidera lavorare. In questo modo si garantisce che il rivenditore riceverà gli incentivi appropriati.
 
-| **Per eseguire questa operazione** | **Eseguire questa operazione** | **In cui** |
+| **Per eseguire questa operazione** | **Eseguire questa operazione** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Consentire al rivenditore di gestire l'account di un cliente e disporre delle autorizzazioni di amministratore per gestire le sottoscrizioni | Associa un rivenditore a un account cliente quando si aggiunge un nuovo cliente | Nella pagina **nuovo cliente** |
 | Consentire al rivenditore di gestire l'account di un cliente di Azure|Associare un rivenditore a un account cliente di Azure quando si aggiunge un nuovo cliente|Nel **portale dei servizi di Azure**selezionare [impostazioni utente](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) per assegnare le autorizzazioni del proprietario del **tenant** rivenditore indiretto|
@@ -118,7 +118,7 @@ Per rimuovere la relazione con il rivenditore indiretto esistente, attenersi ai 
 >[!IMPORTANT]
 >I clienti associati al rivenditore indiretto non verranno rimossi. Eventuali privilegi amministrativi delegati concessi rimarranno invariati.
 >Il licenziatario dichiara che la decisione di sospendere la relazione con il partner è stata presa in fede, per uno scopo commerciale legittimo e in conformità con il contratto con il cliente o il partner, e si accetta di difendere e mantenere Microsoft innocua da e contro eventuali attestazioni di terze parti al contrario.
->Se il contratto lo richiede, è necessario fornire una nota legale relativa alla chiusura del cliente o del partner. Questo strumento non genera notifiche per il cliente o il partner.
+>Se il contratto lo prevede, è necessario fornire al cliente o al partner comunicazione ufficiale relativa all'interruzione della relazione. Questo strumento non consente di generare comunicazioni da inviare al cliente o al partner.
 
 3. Il rivenditore indiretto la cui relazione è stata rimossa non verrà visualizzato nell'elenco.
 A seconda del livello di accesso e coinvolgimento, potrebbe essere necessario comunicare con il rivenditore indiretto e con il cliente finale in merito a questa modifica.
@@ -147,7 +147,7 @@ Quando si associa un rivenditore a un nuovo account cliente, si delega la gestio
     > [!IMPORTANT]  
     > Assicurarsi di prendere nota del nome e della password dell'account utente, perché non è possibile accedere nuovamente a queste informazioni dopo aver chiuso la pagina.
 
-7. Selezionare **Operazione completata**. Il nuovo cliente verrà visualizzato nell'elenco dei clienti, associato al rivenditore indiretto. Il rivenditore dispone ora dell'accesso amministrativo alle informazioni e alle sottoscrizioni dell'account del cliente ed è in grado di gestire le sottoscrizioni per conto dell'utente.
+7. Selezionare **Fine**. Il nuovo cliente verrà visualizzato nell'elenco dei clienti, associato al rivenditore indiretto. Il rivenditore dispone ora dell'accesso amministrativo alle informazioni e alle sottoscrizioni dell'account del cliente ed è in grado di gestire le sottoscrizioni per conto dell'utente.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Aggiungere nuove sottoscrizioni agli account cliente
 

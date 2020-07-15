@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i provider indiretti collaborano con rivenditori indiretti nel programma Cloud Solution Provider (CSP) e determinano quale ruolo è adatto a te.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3b2ccd077b745e8ec17a046a2dbaec541567d6b
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 1089c2eeb419bbc826a3df433d3ed6c25273a7cc
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603840"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377195"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Modi diversi per collaborare con altri partner nel centro per i partner
 
@@ -42,7 +42,7 @@ Se si è un rivenditore indiretto o se si è interessati alla registrazione in C
 
 Non si è certi se eseguire la registrazione in CSP come rivenditore indiretto o come partner diretto? Vedere [esplorare il modello indiretto](https://partner.microsoft.com/cloud-solution-provider/indirect) nel [sito Web Microsoft Partner Network](https://partner.microsoft.com).   
 
-## <a name="multi-partner-support"></a>Supporto per più partner
+## <a name="multi-partner-support"></a>Supporto multipartner
 
 La funzionalità per più partner del centro per i partner supporta scenari in cui un cliente deve collaborare con più di un partner. Ad esempio, potrebbe voler assumere un partner per le proprie competenze in Office 365, ma anche assumere un partner diverso specializzato in Microsoft Azure. Per ulteriori informazioni, vedere Supporto per più [partner](multipartner.md) .
 

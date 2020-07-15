@@ -1,7 +1,7 @@
 ---
 title: 'Piano di Azure: acquistare Azure con tariffe di pagamento in base al consumo'
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ottieni informazioni sull'esperienza commerciale del piano di Azure per acquistare servizi di Azure con tariffe con pagamento in base al consumo per i clienti. Sono disponibili anche informazioni sui nuovi requisiti di sicurezza.
@@ -11,12 +11,12 @@ Keywords: Azure, piano di Azure, acquistare sottoscrizioni, sottoscrizioni
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77e99f8151227650639f9bd9b54a794985db4554
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c2638aea520500d6007495281226078a8acf7701
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948429"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286589"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Introduzione: Il piano di Azure consente ai partner di acquistare Azure con tariffe di pagamento in base al consumo per i clienti
 
@@ -44,9 +44,5 @@ Esegui la transizione dei clienti dalle offerte CSP per Azure esistenti ai servi
 |Gestire le sottoscrizioni e le risorse dei clienti nel piano di Azure|[Gestire sottoscrizioni e risorse nel piano di Azure](azure-plan-manage.md)|
 |Imparare a leggere il listino prezzi del piano di Azure   |[Listino prezzi del piano di Azure - Descrizione](azure-plan-price-list.md)|
 |Scoprire dove è disponibile il piano di Azure|[Elenco completo di Paesi/aree geografiche in cui è disponibile il piano di Azure](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
-|Per vedere come viene calcolato il credito ottenuto dai partner, devi accedere al listino prezzi del dashboard Centro per i partner.|[Dashboard Centro per i partner](https://partner.microsoft.com/en-us/dashboard/home)|
-|Fatturazione nel piano di Azure|[Fatturazione di Azure](azure-plan-billing.md)| 
-
-
-
-
+|Per vedere come viene calcolato il credito ottenuto dai partner, devi accedere al listino prezzi del dashboard Centro per i partner.|[Dashboard Centro per i partner](https://partner.microsoft.com/dashboard/home)|
+|Fatturazione nel piano di Azure|[Fatturazione di Azure](azure-plan-billing.md)|

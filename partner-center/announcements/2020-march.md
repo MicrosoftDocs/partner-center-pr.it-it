@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/01/2020
-ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678928"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286619"
 ---
 # <a name="march-2020-announcements"></a>Annunci di marzo 2020
 
@@ -118,7 +118,7 @@ Esaminare le risorse disponibili e condividerle con gli stakeholder appropriati 
 
 **Domande?**
 
-Per domande o dubbi o per altre informazioni, contattare il [supporto tecnico](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp).
+Per domande o dubbi o per altre informazioni, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 _________________
 
@@ -148,7 +148,7 @@ Il 1° aprile 2020 Microsoft presenterà un nuovo SKU di livello base e un ripos
 
 **Nuovo SKU di livello base:** Il nuovo SKU di livello base sarà denominato Microsoft 365 F1 e offrirà valore specifico per gli operatori sul campo, oltre a valore esteso a livello di sicurezza e identità per tutti i lavoratori. Questa offerta include Teams, SharePoint Online, Yammer Enterprise, Stream, EMS E3 e accesso in sola lettura per app Web/per dispositivi mobili di Office.
 
-Questi miglioramenti offriranno un incremento di valore per gli operatori sul campo e consentiranno ai partner di beneficiare di un'opportunità significativa per la crescita degli utenti. **Vedere la documentazione aggiuntiva disponibile [qui](http:/resources/collection/Microsoft-365-firstline-offer-updates#/) per scoprire di più sulla proposta di valore e sui passaggi successivi.**
+Questi miglioramenti offriranno un incremento di valore per gli operatori sul campo e consentiranno ai partner di beneficiare di un'opportunità significativa per la crescita degli utenti. **Vedere la documentazione aggiuntiva disponibile [qui](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates) per scoprire di più sulla proposta di valore e sui passaggi successivi.**
 
 |**Sequenza temporale delle modifiche**|**Modifica**|
 |-------------------|:------|
@@ -311,7 +311,7 @@ Le modifiche seguenti verranno apportate ai prodotti di Dynamics Biz Apps e Powe
 - Offerte proprietarie per Robotic Process Automation (RPA)
 - Nuove offerte di prodotti bot per RPA
 
-Per informazioni specifiche sulle modifiche, vedere il file "Dynamics CSP Offer Updates–Mar 2020" disponibile [qui](https://partner.microsoft.com/en-us/pcv/.)
+Per informazioni specifiche sulle modifiche, vedere il file "Dynamics CSP Offer Updates–Mar 2020" disponibile [qui](https://partner.microsoft.com/pcv/.)
 
 ### <a name="additional-resources"></a>Risorse aggiuntive:
 
@@ -367,7 +367,7 @@ Non sono inoltre previste modifiche alle offerte esistenti per Windows E5, Micro
 
 **Domande?**
 
-Per domande relative alle operazioni con Microsoft, contattare il supporto tecnico tramite il dashboard per i partner all'indirizzo: https://partner.microsoft.com/en-us/pcv/servicerequests/create.
+Per domande relative alle operazioni con Microsoft, contattare il supporto tecnico tramite il dashboard per i partner all'indirizzo: https://partner.microsoft.com/pcv/servicerequests/create.
 
 ### <a name="change-log"></a>Registro delle modifiche
 

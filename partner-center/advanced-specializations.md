@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Potenzia il tuo profilo aziendale nella directory dei partner. Scopri come ottenere specializzazioni avanzate insieme alle tue competenze in oro/argento.
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 keywords: competenze, adesione silver, adesione gold, mpn, abbonamento a Microsoft Action Pack, preparazione, Microsoft Partner Network, adesione alla rete, specializzazioni avanzate
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7393fdfbc1aa94961680d869cf00cd5855efa0a6
-ms.sourcegitcommit: d5fc07cf20a9de970f9bb65019732792dd81b4a0
+ms.openlocfilehash: 8e4d4c8d6a89674153987308f11bd45ee1a5b7ec
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85911279"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390198"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Ottieni una specializzazione avanzata per dimostrare le competenze e i clienti 
 

@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: amrava
+author: amitravat
 ms.author: amrava
 Keywords: sottoscrizione, acquisto self-service, riservatezza self-service, abilitazione di ri, disabilitazione di RI, self-service, acquisto di clienti, autorizzazioni dei clienti, istanza riservata di acquisto del cliente, prenotazione dei clienti di Azure, attivare la funzionalità self-service, disattivare la funzionalità self-service
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0c507aae75dad4a1dce5dc9746ebe9f7ed48f040
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 62447e284ce35b414594031c590110cedc5a59ab
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947469"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377455"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Concedere ai clienti l'autorizzazione per il centro per i partner per acquistare prodotti o servizi propri
 

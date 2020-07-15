@@ -5,16 +5,16 @@ ms.date: 04/28/2020
 description: Scopri i vantaggi, le restrizioni e le procedure per richiedere un credito di contratto di servizio (SLA) a Microsoft qualora i clienti dovessero riscontrare un'interruzione del servizio.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 27a444bc5f923b1d2ad18bfe47cf70b365751e42
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: cb8f6b2280318427b2015403b528fc288ef64d97
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992008"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377755"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Come e quando richiedere un contratto di servizio (SLA) a livello di servizio da Microsoft
 
@@ -47,7 +47,7 @@ Prima di [inviare una richiesta di credito del contratto](#submit-sla-credit-req
 | EX | Exchange Online |
 | FO | Protezione di Exchange Online |
 | SB | Skype for business online (in precedenza Lync Online) |
-| OS | Sottoscrizione a Office |
+| Sistema operativo | Sottoscrizione a Office |
 | PB | Power BI per Office 365 |
 | SP | SharePoint Online |
 | YA | Yammer Enterprise |

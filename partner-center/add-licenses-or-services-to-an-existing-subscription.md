@@ -5,17 +5,17 @@ ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo aggiornare o modificare una sottoscrizione cliente. Aggiungere altre licenze e postazioni o passare a una versione diversa con più servizi.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: aggiungere licenze a una sottoscrizione esistente, aggiungere postazioni a una sottoscrizione esistente, modificare una sottoscrizione, cambiare una sottoscrizione, acquistare ulteriori licenze per un cliente
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d5cc8e161f2a519d656baceeac51146f638c754
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: fefb11f9e54d1d227bf4cb846c4e324041e0bd4e
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991086"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377305"
 ---
 # <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Aggiungere licenze, postazioni o servizi a una sottoscrizione cliente
 
@@ -34,8 +34,7 @@ ms.locfileid: "84991086"
 
 Se il cliente necessita di più postazioni rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione. Per altri dettagli, vedi [Passare a un piano di Microsoft 365 Apps for business diverso](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
-## <a href="" id="upgradesubscription"></a>
-
+## <a name="upgrades-supported-in-the-csp-program"></a>Aggiornamenti supportati nel programma CSP <a href="" id="upgradesubscription"></a>
 
 In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
 
@@ -85,28 +84,32 @@ In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
 
 Le sottoscrizioni possono essere aggiornate se sono soddisfatte queste condizioni:
 
--   La sottoscrizione deve essere attiva e non sospesa o annullata.
+- La sottoscrizione deve essere attiva e non sospesa o annullata.
 
--   Devi disporre di privilegi di amministratore delegato per il cliente e per il servizio. Scopri come [richiedere i privilegi di amministratore delegato](request-a-relationship-with-a-customer.md).
+- Devi disporre di privilegi di amministratore delegato per il cliente e per il servizio. Scopri come [richiedere i privilegi di amministratore delegato](request-a-relationship-with-a-customer.md).
 
--   Il cliente non può avere già sottoscrizioni che includono i servizi aggiuntivi.
+- Il cliente non può avere già sottoscrizioni che includono i servizi aggiuntivi.
 
--   Il cliente non può avere già le sottoscrizioni a cui stai cercando di eseguire l'aggiornamento.
+- Il cliente non può avere già le sottoscrizioni a cui stai cercando di eseguire l'aggiornamento.
 
 È possibile, negli ultimi due casi, che il cliente abbia acquistato le sottoscrizioni o i servizi da un altro partner o un altro canale e non potrà acquistarli da te, a meno che prima non annulli quelli esistenti. Per altre informazioni, vedi [multicanale](multichannel.md).
 
 Per altre informazioni sull'impatto di queste operazioni sulla fatturazione, vedi i dettagli relativi all'annullamento di una sottoscrizione e all'aggiunta di una nuova sottoscrizione in [Scenari di fatturazione comuni](common-billing-scenarios.md).
 
-**Aggiornare una sottoscrizione**
+## <a name="upgrade-a-subscription"></a>Aggiornare una sottoscrizione
 
-1.  Per verificare se una sottoscrizione è idonea per l'aggiornamento, scegli il cliente e quindi apri l'elenco delle sottoscrizioni.
-2.  Se la sottoscrizione può essere aggiornata, vedrai un'icona delle informazioni subito dopo il nome della sottoscrizione. Passa il puntatore su questa icona e quindi seleziona **Aggiorna ora**.
-3.  Seleziona la nuova offerta e quindi scegli **Invia**.
-4.  Potrebbero essere necessarie altre operazioni per la transizione di alcuni account utente per determinati servizi. In tal caso, nel Centro per i partner viene fornito un elenco di account e servizi interessati. Per informazioni, vedi l'articolo della Knowledge Base relativo ai [problemi di riassegnazione delle licenze quando si modifica il piano di Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).
+1. Per verificare se una sottoscrizione è idonea per l'aggiornamento, scegli il cliente e quindi apri l'elenco delle sottoscrizioni.
 
- 
+2. Se la sottoscrizione può essere aggiornata, vedrai un'icona delle informazioni subito dopo il nome della sottoscrizione. Passa il puntatore su questa icona e quindi seleziona **Aggiorna ora**.
 
- 
+3. Seleziona la nuova offerta e quindi scegli **Invia**.
 
+4. Potrebbero essere necessarie altre operazioni per la transizione di alcuni account utente per determinati servizi. In tal caso, nel Centro per i partner viene fornito un elenco di account e servizi interessati. Per informazioni, vedi l'articolo della Knowledge Base relativo ai [problemi di riassegnazione delle licenze quando si modifica il piano di Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).
 
+## <a name="next-steps"></a>Passaggi successivi
 
+- [Passare a un piano diverso di Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkId=723577)
+
+- [Richiedere i privilegi di amministratore con delega](request-a-relationship-with-a-customer.md)
+
+- [Vedere le informazioni sugli scenari di fatturazione comuni](common-billing-scenarios.md)

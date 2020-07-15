@@ -5,16 +5,16 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner possono usare opzioni del controllo degli accessi in base al ruolo diverse per ottenere il controllo operativo e la gestione delle risorse di Azure di un cliente.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d06ada3cc16949da9a457b4515978444887ed56
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1d89c74ac9adb689e1b349a38de7ac49eb6c8076
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948438"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175954"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gestire sottoscrizioni e risorse nel piano di Azure
 
@@ -29,9 +29,9 @@ Quando esegui la transizione di un cliente al piano di Azure, per impostazione p
 
 - **Azure Lighthouse**: la modalità AOBO non offre la flessibilità di creare gruppi distinti che funzionano con clienti diversi o di abilitare ruoli diversi per gruppi o utenti. Con Azure Lighthouse è possibile assegnare gruppi diversi a clienti o ruoli diversi. Poiché gli utenti avranno il livello di accesso appropriato tramite la gestione delle risorse delegata di Azure, è possibile ridurre il numero di utenti che hanno il ruolo di agente amministratore e quindi dispongono dell'accesso completo come amministratore per conto terzi. Questo consente di migliorare la sicurezza limitando l'accesso non necessario alle risorse dei clienti e inoltre offre maggiore flessibilità per la gestione di più clienti su larga scala. Per altre informazioni, leggi [Azure Lighthouse e programma Cloud Solution Provider](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Utenti di directory, utenti guest o [Entità servizio](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** : è possibile delegare l'accesso granulare alle sottoscrizioni CSP aggiungendo utenti nella directory dei clienti oppure aggiungendo utenti guest e assegnando ruoli specifici del controllo degli accessi in base al ruolo. 
+-  **Utenti di directory, utenti guest o [Entità servizio](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** : è possibile delegare l'accesso granulare alle sottoscrizioni CSP aggiungendo utenti nella directory dei clienti oppure aggiungendo utenti guest e assegnando ruoli specifici del controllo degli accessi in base al ruolo.
 
-Come procedura di sicurezza, Microsoft consiglia di assegnare agli utenti le autorizzazioni minime necessarie per svolgere il loro lavoro. Vedi [Risorse di Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure). 
+Come procedura di sicurezza, Microsoft consiglia di assegnare agli utenti le autorizzazioni minime necessarie per svolgere il loro lavoro. Vedi [Risorse di Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
 
 ## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Collegare l'ID Partner (ID MPN) alle credenziali per la gestione delle risorse di Azure del cliente
 
@@ -56,28 +56,27 @@ Per gestire i servizi del cliente e ricevere i crediti ottenuti devi disporre de
 
 1. Crea un avviso.
 
-:::image type="content" source="images/azure/azurealert1.png" alt-text="Avviso di Azure":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="Avviso di Azure":::
 
 2. Seleziona il tipo di azione che dovrà essere eseguita dall'avviso. Se, ad esempio, scegli un messaggio di posta elettronica, riceverai un messaggio di notifica dell'eliminazione di un'assegnazione di ruolo.
 
-:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Configurare l'avviso":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Configurare l'avviso":::
 
 ### <a name="aobo-removal"></a>Rimozione dell'accesso come Amministratore per conto terzi
 
 I clienti possono gestire l'accesso alle rispettive sottoscrizioni tramite la funzionalità **Controllo di accesso** nel portale di Azure. Nella scheda **Assegnazioni ruolo** possono selezionare **Rimuovi accesso**. In questo caso, puoi:
 
 - Parlare con il cliente per verificare se l'accesso amministratore può essere ripristinato.
+
 - Usare l'accesso fornito tramite il [controllo degli accessi in base al ruolo](https://docs.microsoft.com/azure/role-based-access-control/overview).
+
 - Usare l'accesso fornito tramite [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/).
 
 L'accesso in base al ruolo è diverso dall'accesso amministratore. I ruoli delimitano in modo preciso le operazioni consentite e non. L'accesso amministratore è più ampio.
 
 Per visualizzare i ruoli idonei al credito ottenuto dai partner, leggi [Ruoli e autorizzazioni per il credito ottenuto dai partner](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2).
 
-
-
-
-**Per altre informazioni**
+## <a name="next-steps"></a>Passaggi successivi
 
 - [Revocare e ripristinare i privilegi di amministratore per le sottoscrizioni di Azure CSP](revoke-reinstate-csp.md)
 

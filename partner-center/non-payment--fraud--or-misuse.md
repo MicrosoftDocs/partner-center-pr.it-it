@@ -1,21 +1,20 @@
 ---
 title: Gestire insoluti, frodi o uso improprio
+description: È importante conoscere i diversi rischi correlati alle transazioni online e le procedure consigliate per gestire e mitigare tali rischi.
 ms.topic: article
-ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: È importante conoscere i diversi rischi correlati alle transazioni online e le procedure consigliate per gestire e mitigare tali rischi.
-keywords: frode, uso improprio, utilizzo accettabile, criteri di utilizzo accettabili, mancato pagamento, il cliente non pagherà fattura, rischi online, furto del servizio, abusi del servizio, Sospendi una sottoscrizione,
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.date: 07/14/2020
+ms.openlocfilehash: ad0ef9c7aa242645ed0ffef0d5bbb07521edbc72
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377805"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405562"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestione di mancato pagamento, frode o uso improprio nel Centro per i partner
 
@@ -87,7 +86,7 @@ Suggerimenti per ridurre i rischi online quando il caricamento di nuovi clienti 
 I suggerimenti per la gestione degli account cliente dopo l'acquisto includono:
 
 - Implementare un processo per ricevere, rivedere, agire in modo rapido e rispondere alle notifiche Microsoft.
-- Collaborare con i clienti per comprendere le esigenze aziendali di utilizzo del cloud e le impostazioni appropriate per le soglie di monitoraggio. Ad esempio, è possibile [impostare un budget mensile per la spesa di Azure](set-an-azure-spending-budget-for-your-customers.md) nel centro per i partner. In questo modo è possibile monitorare l'utilizzo dei clienti durante il mese e ricevere una notifica quando i clienti si avvicinano al budget.
+- Collaborare con i clienti per comprendere le esigenze aziendali di utilizzo del cloud e le impostazioni appropriate per le soglie di monitoraggio. Ad esempio, è possibile [impostare un budget mensile per la spesa di Azure](set-an-azure-spending-budget-for-your-customers.md) nel centro per i partner. Questa comprensione consente di monitorare l'utilizzo dei clienti durante il mese e di ricevere una notifica quando i clienti si avvicinano al budget.
 - Monitora regolarmente i [log attività del cliente](activity-logs.md) per aiutare a rilevare tempestivamente le frodi.
 - Eseguire un'azione rapida quando vengono rilevate attività sospette.
 - Evitare di concedere ai clienti l'accesso amministrativo completo alle sottoscrizioni senza prima implementare i controlli di mitigazione dei rischi.
@@ -100,4 +99,4 @@ I suggerimenti per la gestione della fatturazione del cliente dopo l'acquisto in
 - Non accettare strumenti di pagamento ad alto rischio (ad esempio carte prepagate o schede con valori archiviati).
 - Monitorare i pagamenti dei clienti e l'invecchiamento degli account. Applicare in modo aggressivo i processi di Dunning standardizzati per i pagamenti tardivi o il mancato pagamento.
 
-Per strategie più dettagliate per attenuare i rischi online, vedere la guida alla gestione dei rischi per le [transazioni online.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
+Per strategie più dettagliate per attenuare i rischi online, vedere la guida alla gestione dei rischi per le [transazioni online.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)

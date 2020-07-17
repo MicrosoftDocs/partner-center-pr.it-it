@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: I partner che pubblicano offerte nel Marketplace commerciale sono idonei per i vantaggi che offrono supporto marketing.
 author: laurabrenner
 ms.author: labrenne
-Keywords: Offerte per il Marketplace, supporto marketing, premi, vantaggi per gli editori
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 2b811ab94a3774c41955b2d152bba5b143d711fa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909009"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436840"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gestisci i premi del Marketplace nel centro per i partner & attiva il marketing, le vendite e i vantaggi tecnici
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: Scopri come passare al mercato con le offerte Microsoft per accelerare il time-to-Market, generare lead ed espandere il tuo business.
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN, vantaggi per l'appartenenza, appartenenza, offerte per il mercato, vai al mercato con Microsoft, vai al mercato, appartenenza a oro, appartenenza Silver
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94a980eb1632932989a08be028028c4a07b1c6f1
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 80d4a8c15a5812186d8a9604b7cd8089804be7fb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072428"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436790"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Esplora le offerte per il go-to-market con Microsoft
 

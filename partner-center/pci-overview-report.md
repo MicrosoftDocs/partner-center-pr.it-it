@@ -5,30 +5,29 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo stai usando le vendite e la distribuzione, la crescita dei clienti e la crescita dei ricavi con le licenze, le sottoscrizioni e il consumo di Azure.
-keywords: PCI, prestazioni, successo dei clienti, misurazioni,
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72bc94f35cc189e032304c78781adbb10f71327c
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 54315583dcecc745eb5525dc84504ce603b9eb7d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948829"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436700"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Panoramica dei report del dashboard disponibili in Partner Center Insights
  
 Il dashboard Panoramica di Insights offre una visualizzazione snapshot degli indicatori di prestazioni chiave, ad esempio clienti, sottoscrizioni, ricavi di consumo di Azure, licenze e così via. È possibile visualizzare i grafici seguenti nel report Panoramica. 
 
-- Summary  
+- Riepilogo  
 - Distribuzione geografica dei clienti, delle sottoscrizioni e delle licenze  
 - Tendenza alla crescita dei clienti 
 - Tendenza crescita sottoscrizioni 
 - Tendenza di crescita dei ricavi utilizzata da Azure 
 - Tendenza alla crescita delle licenze 
 
-**Riepilogo**
+**Summary**
 
 - Clienti: numero corrente di tutti i clienti, con almeno una sottoscrizione attiva, a cui l'azienda è associata tramite diversi tipi di attribuzione in tutti i prodotti cloud. 
 - Percentuale di crescita dei clienti durante l'intervallo di date selezionato 

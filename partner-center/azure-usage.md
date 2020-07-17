@@ -1,5 +1,5 @@
 ---
-title: Dimensionamento delle VM di Azure per l'utilizzo massimo della prenotazione
+title: Dimensionamento delle VM di Azure per l'utilizzo massimo delle prenotazioni
 ms.topic: article
 ms.date: 07/08/2020
 ms.service: partner-dashboard
@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Informazioni su come ridimensionare una macchina virtuale (VM) in base alle esigenze di elaborazione dei clienti quando si acquistano Microsoft Azure prenotazioni.
 author: BillLinzbach
 ms.author: BillLi
-keywords: Azure, prenotazioni, VM, gestione, utilizzo, dimensionamento
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 00da6723fc8aa4a5b3f1e0f747cb63acc1a504a8
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 706021c39e136954d3791856da12c828cbdf6389
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377655"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435740"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Ridimensionamento della macchina virtuale di Microsoft Azure per l'utilizzo massimo delle prenotazioni
 

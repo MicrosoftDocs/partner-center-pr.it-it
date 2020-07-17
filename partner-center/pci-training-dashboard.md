@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Esplora il dashboard di training del centro per i partner.
 author: sroy
 ms.author: sroy
-Keywords: Informazioni dettagliate sul centro per i partner, report, scaricare report
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2db166e61ad153c23ffa991d430f711f0f5ddd87
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4ca943d75869e793237989304888c6e6932ed824
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948666"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436650"
 ---
 # <a name="trainings-dashboard"></a>Dashboard Training
 
@@ -25,7 +24,7 @@ ms.locfileid: "85948666"
 
 Il dashboard Training fornisce informazioni dettagliate sulle certificazioni, le valutazioni e gli esami presi dalla società dei dipendenti della società. Il dashboard training include le sezioni seguenti:
 
-- Summary
+- Riepilogo
 - Prestazioni di training divise da certificazioni, valutazioni, esami
 - Singoli utenti per credenziali come certificazioni, valutazioni, esami
 - Dettagli dell'attività
@@ -33,11 +32,11 @@ Il dashboard Training fornisce informazioni dettagliate sulle certificazioni, le
 >[!NOTE] 
 >Questo report è disponibile nell'hub Insights nel centro per i partner. Per visualizzare questo report, è necessario assegnare il ruolo di Visualizzatore report o Visualizzatore report Executive. Alcune sezioni di questo report saranno visibili solo agli utenti che sono visualizzatori di report esecutivi. Per altre informazioni sul controllo di accesso per i report di Insights, vedere [ruoli PCI](pci-roles.md).
 
-**Riepilogo**
+**Summary**
 
 La sezione Riepilogo presenta una visualizzazione di snapshot numerici dei vari indicatori di prestazioni correlati ai training. I vari indicatori di prestazioni sono singoli certificati, certificazioni, individui con credenziali di esame, credenziali di esame, utenti con credenziali di valutazione e credenziali di valutazione. I dati in questa sezione vengono aggiornati in base all'intervallo di date selezionato, che può essere di tre mesi (3M), di sei mesi (6M) & 12 mesi (1Y) o di un intervallo di dati personalizzato. 
 
-:::image type="content" source="images/pci/td-summary.png" alt-text="Riepilogo":::
+:::image type="content" source="images/pci/td-summary.png" alt-text="Summary":::
 
 - **Utenti con certificazioni**: rappresenta il numero di singoli individui con certificazioni nell'azienda.
 - Numero di **certificazioni**: rappresenta il numero totale di certificazioni effettuate dai singoli utenti dell'azienda.

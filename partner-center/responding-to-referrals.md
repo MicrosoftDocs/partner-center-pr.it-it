@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner Microsoft qualificati possono rispondere ai riferimenti, gestire i riferimenti nuovi, esistenti e archiviati e ottenere più riferimenti in futuro.
 author: rajap-ms
 ms.author: rajap
-keywords: segnalazione, richiesta di informazioni, Trova un partner
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb9a175016c27896c467ffe78d692c162e41c41f
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: f26e80d3850ca3fb227605d5c7582e729a95e00b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302248"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436600"
 ---
 # <a name="respond-to-referrals-and-get-potential-business-leads"></a>Rispondi ai riferimenti e ottieni potenziali lead aziendali
 
@@ -81,3 +80,7 @@ Ecco alcuni suggerimenti utili per ricevere un maggior numero di segnalazioni ap
 - **Sii selettivo nelle trattative che decidi di accettare**. I tipi di trattative che accetti e rifiuti vengono monitorati e queste informazioni vengono usate per aiutarti a individuare trattative simili. Accettare le offerte che non sono una scelta ottimale non migliorerà i risultati della ricerca e potrebbe influisca sulla qualità dei lead ricevuti.
 
 - **Comunica il volume della trattativa stimato, le date di chiusura e lo stato finale delle trattative** (acquisite o perse). Queste informazioni verranno usate per continuare a fornire i riferimenti alla qualità.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+-[Gestisci lead](manage-leads.md)

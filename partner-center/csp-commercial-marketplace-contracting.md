@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Scopri i termini, le condizioni e i contratti per le sottoscrizioni di prodotti ISV di terze parti acquistati da partner CSP nel Marketplace commerciale.
 author: rbars
 ms.author: rbars
-keywords: sottoscrizioni, Marketplace, terze parti, ISV, programma per partner CSP, contratti, vendita, acquisto,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73ce5d441c3ac3b2c7cf350ea8647c8e569c66c1
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c340baa12b834fae66888c08cf910d2918583ce1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947784"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435150"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contratti per partner CSP che fanno affari nel Marketplace commerciale
 

@@ -5,15 +5,14 @@ ms.date: 05/26/2020
 Description: Scopri di più sulla fatturazione monouso per il centro per i partner, per i termini predefiniti e la fatturazione per i costi selezionati e ricorrenti.
 author: sodeb
 ms.author: sodeb
-keywords: fatturazione, una volta, periodici, acquisti, addebiti, ISV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9720d06d42025ee69c52afb893e4a6b6fee4a28f
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 7a5c7a9c756067c75e27e05768718436afc101bd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390248"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434130"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Fatturazione per una sola volta e selezionare i costi ricorrenti nel centro per i partner
 

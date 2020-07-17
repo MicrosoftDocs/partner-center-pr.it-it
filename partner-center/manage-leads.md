@@ -7,17 +7,16 @@ ms.subservice: partnercenter-csp
 description: Usa il centro per i partner per rispondere ai riferimenti e gestire i lead nuovi, esistenti e archiviati e i riferimenti. Scopri anche come ottenere più riferimenti in futuro.
 author: sroy
 ms.author: sroy
-keywords: referral, co-selling, Deal
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e086ae93493c26880b912130752e69adcbef58a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949439"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434370"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gestisci lead diversi come le richieste dei clienti, i lead qualificati per il marketing e i lead qualificati per le vendite
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gestire lead diversi come richieste dei clienti, lead qualificati per il marketing e lead qualificati per le vendite
 
 **Si applica a**
 

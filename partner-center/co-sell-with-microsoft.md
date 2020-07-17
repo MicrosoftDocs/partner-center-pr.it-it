@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: I partner Microsoft qualificati possono co-vendere con Microsoft. Scopri come definire gli impegni, invitare Microsoft a collaborare o visualizzare gli impegni inviati.
 author: sroy
 ms.author: sroy
-keywords: segnalazione, richiesta di informazioni, Trova un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6297fc3f43fbb19d4d1501e812d8b8350031ddef
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 7e996b260b9cb23f36eeb1a344c66545b17c57a3
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390558"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435470"
 ---
 # <a name="co-sell-with-microsoft"></a>Co-selling con Microsoft
 

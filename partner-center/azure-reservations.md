@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Come provider di soluzioni cloud, è possibile acquistare, vendere o gestire prenotazioni di Azure per i clienti. Usare il centro per i partner, il portale di Azure o l'API del centro per i partner.
 author: BillLinzbach
 ms.author: BillLi
-keywords: Azure, prenotazioni, gestione, fatturazione, acquisto, Azure RI, istanze riservate di Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93c6353922197270245b4b21f3bc210f26c7ec8f
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 4524d810a036953e45fb94a72241734e02a2798f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377645"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435730"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Vendere Microsoft Azure prenotazioni ai clienti tramite il centro per i partner, l'portale di Azure o le API
 

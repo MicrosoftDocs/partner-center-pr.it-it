@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Informazioni su come vendere le sottoscrizioni dei clienti alle offerte SaaS (software as a Service) di fornitori di software indipendenti (ISV) nel Marketplace.
 author: rbars
 ms.author: rbars
-keywords: sottoscrizioni, Marketplace, terze parti, ISV, SaaS, licenza
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947721"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435070"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Panoramica del Marketplace commerciale nel centro per i partner
 
@@ -69,7 +68,7 @@ Per ulteriori informazioni sulla differenza tra le offerte basate sulle licenze 
 
 Per informazioni su dove completare un'attività specifica del Marketplace per le offerte ISV basate sulle licenze o sull'utilizzo, vedere le tabelle seguenti.
 
-|**Per le offerte SaaS basate su licenze degli ISV**  |**Uso**  |
+|**Per le offerte SaaS basate su licenze degli ISV**  |**Usare**  |
 |:------------------------------------|:------------------|
 |Per individuare o cercare offerte disponibili  | Dashboard del centro partner o API del centro per i partner  |
 |Per acquistare un'offerta  | Dashboard del centro partner o API del centro per i partner  |
@@ -77,7 +76,7 @@ Per informazioni su dove completare un'attività specifica del Marketplace per l
 |Per annullare/rinnovare le sottoscrizioni dell'offerta o aggiungere/rimuovere postazioni | Dashboard del centro partner o API del centro per i partner  |
 |Per creare utenti o gestire le autorizzazioni  | Sistema o sito Web dell'editore ISV  |
 
-|**Per le offerte basate sull'utilizzo dagli ISV**  |**Uso**  |
+|**Per le offerte basate sull'utilizzo dagli ISV**  |**Usare**  |
 |:------------------------------------|:------------------|
 |Per individuare o cercare offerte disponibili  | Dashboard del centro per i partner, API del centro per i partner o portale di Azure  |
 |Per acquistare un'offerta  | Portale di Azure  |

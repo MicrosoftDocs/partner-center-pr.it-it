@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri cosa stai facendo bene e dove puoi migliorare le competenze Microsoft, i livelli di competenza e le offerte per offrire soluzioni Microsoft.
-keywords: PCI, prestazioni, misure, successo dei clienti, competenze, vantaggi, analisi, report
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d95c45793cfbbc46b68794937e4c3771e9b9b01a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3c2194391214bde36f50c4792a0fd53c654197ca
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949359"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436690"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Report sulle competenze disponibile dal dashboard di partner Center Insights
 
@@ -42,14 +41,14 @@ Ogni competenza dispone di un set specifico di requisiti da soddisfare. I requis
 
 È possibile vedere le sezioni seguenti del report competenze:
 
-- Summary
+- Riepilogo
 - Analisi delle metriche delle competenze
 - Cronologia delle competenze
 
  > [!NOTE]
  > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
 
-**Riepilogo**
+**Summary**
 
 La visualizzazione Riepilogo presenta un conteggio delle competenze con i rispettivi nomi a ogni livello di competenza (Gold/Silver) in tutte le fasi del ciclo di vita delle competenze. Le fasi del ciclo di vita delle competenze includono: **Started**, **Qualified**, **Active**e **a Risk**. Esempio: i requisiti di competenza cloud rientrano in due categorie: competenze e prestazioni.
 

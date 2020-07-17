@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Informazioni sui requisiti di idoneità per ogni impegno di Software Assurance Planning Services che un'azienda potrebbe voler offrire ai clienti aziendali.
 author: ArpithaKanuganti
 ms.author: v-arkanu
-Keywords: pre-distribuzione, pianificazione, Software Assurance, coinvolgimento, requisiti, idoneità, offerta
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 491f685867a529047405df8941e8abdebf8c91ba
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 1ab8d3fd15fcd0d50e3bf6ff89865c4dd402e679
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390208"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436550"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Visualizzare i requisiti di idoneità per la pianificazione di engagement Services
 

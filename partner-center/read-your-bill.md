@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
-keywords: fatturazione della sottoscrizione, fatturazione, fatturazione nel centro per i partner, fatturazione del centro per i partner, lettura fattura, fattura, fattura del centro partner, fattura CSP, dove è la fattura?
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40809fbca8ed81882e9b1d315fd5967143faff1e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4b91b2f9580d9c369e7a267c2b413db8a4a6300d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949319"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436630"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprendere la fattura e il file di riconciliazione: informazioni su come trovarli nel centro per i partner
 
@@ -37,7 +36,7 @@ La **fattura** è un **Riepilogo di tutti gli addebiti** per il centro per i par
 
 Microsoft emetterà una fattura per tutti gli addebiti basati sulle licenze, ad esempio Office 365, e gli addebiti basati sull'utilizzo (ad esempio Azure) e una fattura separata per gli addebiti monouso, ad esempio Azure RI, Marketplace o piano di Azure.
 
-Ad esempio:  
+ad esempio:  
 
 **Scenario 1 [singola valuta]**: il partner ha acquistato l'offerta 145P e le licenze O365  
 

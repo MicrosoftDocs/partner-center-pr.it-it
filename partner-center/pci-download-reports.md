@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Esplora il dashboard di report unificato del centro per i partner.
 author: shthota77
 ms.author: shthota
-Keywords: Informazioni dettagliate sul centro per i partner, report, scaricare report
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42be29d69d5d4937d984047f4c75e357aa4d436d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948869"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436680"
 ---
 # <a name="download-reports"></a>Scarica report
 
@@ -29,11 +28,11 @@ L'hub Download Reports nel dashboard Insights consente di esportare i set di dat
 
 Una volta generato, il report sarà disponibile nella sezione **report generati** per il download e l'analisi tramite strumenti come Microsoft Excel.
 
-**Creare un nuovo report**
+**Crea nuovo report**
 
 Per generare un report, selezionare innanzitutto il report dall'elenco a discesa **Seleziona report** . Selezionare quindi l'intervallo di date dall'elenco a discesa **Seleziona intervallo di date** . Selezionare **Genera**. Il report verrà generato nel formato con valori delimitati da tabulazioni (TSV) e sarà disponibile per il download nella sezione **report generati** entro pochi minuti. I report generati durante i 14 giorni precedenti saranno disponibili per il download.
 
-:::image type="content" source="images/pci/create-new-report.png" alt-text="Creare un nuovo report":::
+:::image type="content" source="images/pci/create-new-report.png" alt-text="Crea nuovo report":::
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="Report generati":::
 

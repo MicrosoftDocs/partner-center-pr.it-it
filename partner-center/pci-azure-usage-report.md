@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri cosa stai facendo e dove puoi migliorare l'uso delle sottoscrizioni di Azure che Vendi o Gestisci per i tuoi clienti.
-keywords: PCI, prestazioni, misure, successo dei clienti, utilizzo di Azure, sottoscrizioni, analisi, report
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8938b490741c28f16a9bdc94cf25ddf60ff90edc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 9be334b02576927231b9cdde1114ce013ed1018b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949378"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436720"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Azure disponibile dal dashboard di partner Center Insights
 
@@ -27,14 +26,14 @@ ms.locfileid: "85949378"
 
 Il report sull'utilizzo di Azure presenta le metriche correlate alle sottoscrizioni di Azure dei clienti. Sono inclusi i ricavi di consumo e l'utilizzo di Azure per categorie di contatori. È possibile visualizzare le sezioni seguenti dal report sull'utilizzo di Azure.
 
-- Summary
+- Riepilogo
 - Azure Usage by geography
 - Utilizzo di Azure
 
  > [!NOTE]
  > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
 
-**Riepilogo**
+**Summary**
 
 La sezione Riepilogo presenta una visualizzazione snapshot degli indicatori di prestazioni chiave (KPI) relativi alle sottoscrizioni di Azure vendute o gestite dall'utente per i clienti.  
 

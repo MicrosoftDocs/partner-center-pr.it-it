@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Scopri come usare le analisi nel centro per i partner per comprendere meglio il tuo business e come i tuoi clienti usano le licenze acquistate.
 author: shthota77
 ms.author: shthota
-keywords: dati, analisi, analisi dei dati, Power bi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f69fc08712ca13a9593383c0a629382b0eb3b023
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 176f09a2acfeab7566f58f3177f1b052d9cb5968
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947591"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434740"
 ---
 # <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>Usare Analytics per ottenere altre informazioni sull'uso delle licenze per i clienti e sul modo in cui è possibile soddisfare le proprie esigenze
 

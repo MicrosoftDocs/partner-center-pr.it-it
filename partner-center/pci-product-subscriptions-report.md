@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri cosa puoi fare e dove puoi migliorare le tue sottoscrizioni cloud che Vendi o Gestisci per i tuoi clienti.
-keywords: PCI, prestazioni, misure, successo dei clienti, sottoscrizioni cloud, analisi, report
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc9b306e635a27e1bf19f945341f9d8aab834782
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 0f1f2498f9c91f467b4b2b1980a14995782a5137
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948801"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436670"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Report sulle sottoscrizioni di prodotto disponibile nel dashboard di partner Center Insights
 
@@ -29,7 +28,7 @@ Il report sottoscrizioni prodotto presenta analisi sulle sottoscrizioni cloud ve
 
 È possibile visualizzare le sezioni seguenti del report sottoscrizioni prodotto.
 
-- Summary
+- Riepilogo
 - Distribuzione geografica delle sottoscrizioni
 - Tendenza aggiunta/varianza sottoscrizioni
 - Distribuzione della sottoscrizione per località partner, canale di vendita, SKU, tipo di connessione partner, segmento
@@ -39,7 +38,7 @@ Il report sottoscrizioni prodotto presenta analisi sulle sottoscrizioni cloud ve
  > [!NOTE]
  > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
 
-**Riepilogo**
+**Summary**
 
 La sezione Riepilogo presenta una visualizzazione snapshot degli indicatori di prestazioni chiave (KPI) correlati alle sottoscrizioni vendute o gestite dall'utente per i clienti.  
 

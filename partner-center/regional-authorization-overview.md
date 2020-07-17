@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Vedere i paesi, le aree e le valute in cui è possibile vendere le offerte CSP, in base alla posizione della società.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Mercati CSP, territori, dove è possibile vendere tramite CSP, offerte CSP, aree, vendere soluzioni cloud, CSP globale
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a4d70252d1baebd1bade6182218d4b3198825f3
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ced2ff2890f9e017de5f4bcc1dfefaedf33cda64
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991816"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434170"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programma mercati e valute internazionali in cui è possibile vendere offerte CSP
 
@@ -132,7 +131,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Figi                  |   AUD    |
 |  Terre Australi Francesi| AUD |
 |  Guam                  |  AUD     |
-|  Isole Heard e McDonald| AUD |
+|  Heard e McDonald| AUD |
 |  Kiribati              |   AUD    |
 |  Isole Marshall      |   AUD    |
 |  Micronesia            |   AUD    |
@@ -205,7 +204,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Lituania      |   EUR    |
 |  Lussemburgo     |   EUR    |
 |  Malta          |          |
-|  Principato di Monaco         |          |
+|  Monaco         |          |
 |  Paesi Bassi    |   EUR    |
 |  Norvegia         |   NOK    |
 |  Polonia         |   EUR    |
@@ -273,7 +272,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Costa Rica     |   USD    |
 |  Curaçao        |   USD    |
 |  Dominica       |  USD     |
-|  Repubblica dominicana| USD   |
+|  Repubblica Dominicana| USD   |
 |  Ecuador        |   USD    |
 |  El Salvador    |   USD    |
 |  Isole Falkland|  USD    |
@@ -281,7 +280,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Grenada        |   USD    |
 |  Guadalupa     |          |
 |  Guatemala      |   USD    |
-|  Guiana         |   USD    |
+|  Guyana         |   USD    |
 |  Haiti          |   USD    |
 |  Honduras       |   USD    |
 |  Giamaica        |   USD    |
@@ -350,7 +349,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Qatar          |   USD    |
 |  Arabia Saudita   |   USD    |
 |  Serbia         |   USD    |
-|  Sud Africa   |   USD    |
+|  Sudafrica   |   USD    |
 |  Swaziland      |   USD    |
 |  Tagikistan     |          |
 |  Tunisia        |   USD    |
@@ -371,7 +370,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  -------------- |:--------:|
 |  Samoa americane |   NZD    |
 |  Nuova Zelanda    |   NZD    |
-|  Isole Samoa          |   NZD    |
+|  Samoa          |   NZD    |
 |  Vanuatu        |   NZD    |
 |
 

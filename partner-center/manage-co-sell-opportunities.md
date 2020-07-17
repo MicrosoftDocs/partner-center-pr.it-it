@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: I partner Microsoft qualificati possono co-vendere con Microsoft. Scopri come definire le offerte, invitare Microsoft a collaborare o visualizzare le offerte inviate.
 author: sroy
 ms.author: sroy
-keywords: referral, co-selling, Deal
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cee3c8a54aafb8fd8b984f3ece1647597afbe2bc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1eea363576f40604465cef55e49be9be92a117d4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949452"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434360"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gestisci opportunità di co-selling nel centro per i partner per definire le offerte e soddisfare meglio le esigenze dei clienti
 
@@ -56,7 +55,7 @@ In **uscita** : tutte le opportunità create dal partner sono disponibili in que
 ## <a name="creating-a-co-sell-opportunity"></a>Creazione di un'opportunità di co-selling 
 
 > [!IMPORTANT]
-> Per la co-selling con Microsoft, i partner necessitano di una soluzione per l'uso commerciale, un team di vendita impegnato e una strategia avanzata per la commercializzazione. Devono inoltre soddisfare criteri aggiuntivi specifici. Per ulteriori informazioni, vedere la pagina relativa alla [disponibilità di co-selling](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> Per eseguire il co-selling con Microsoft, i partner devono avere una soluzione per l'uso commerciale, un team di vendita impegnato e una forte strategia per la commercializzazione. Devono anche soddisfare criteri aggiuntivi specifici. Per ulteriori informazioni, vedere la pagina relativa alla [disponibilità di co-selling](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
 
 È possibile creare due tipi di opportunità di co-selling. 

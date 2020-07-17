@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Con il centro per i partner, Scopri in che modo i provider di soluzioni cloud possono gestire le offerte ISV di terze parti acquistate per i clienti dal Marketplace commerciale.
 author: rbars
 ms.author: rbars
-keywords: sottoscrizioni, Marketplace, terze parti, ISV, offerte SaaS, programma Cloud Solution Provider, gestione di un'offerta, gestione di una sottoscrizione, licenze, annullamento di una sottoscrizione, postazioni, disattivazione del rinnovo automatico, ID indiretto del rivenditore MPN
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a2d64a18410ac5a668d7ace8f236716df21eb2bc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 076cd97dcecc706b9cd47ffc4a4227c93d20d632
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947759"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435090"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gestione dei prodotti e delle offerte del Marketplace commerciale per i clienti
 

@@ -8,14 +8,13 @@ description: Informazioni sul modo in cui un partner del programma CSP può usar
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
-keywords: fatturazione diretta, transizione, rivenditore indiretto
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93b3d2e204911d059ed0d17e977c0e50533e504c
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 010e647be83ea07eb77a52e80682d582aad52df1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949214"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436470"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto
 

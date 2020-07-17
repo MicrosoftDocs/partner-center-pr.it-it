@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Informazioni su come e quando migrare determinati clienti con sottoscrizioni del piano 1 di Skype for business online in scadenza alle nuove versioni di Office 365.
 author: BrentSerbus
 ms.author: brserbus
-keywords: Piani di Skype for business, ritiro di Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4202e146a470e2231ac33df9878be91e19fcddf3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3f65977c5ff8f512c0b95a165cc667bc6bff05c7
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949617"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436560"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Eseguire la migrazione di sottoscrizioni di Skype for Business Online piano 1 alla versione più recente di Office 365
 

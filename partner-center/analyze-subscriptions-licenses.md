@@ -7,15 +7,14 @@ Description: Informazioni su come usare le metriche nella pagina sottoscrizione 
 author: amitravat
 ms.author: amrava
 ms.topic: article
-keywords: dati business
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: bef5eb909b5ad739325c87b774fb738e89c26ac0
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: b6daf2c2c7cadd52cd90ce3a25c9a7a681522d24
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175960"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436120"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analizza le sottoscrizioni e le licenze per aiutarti a promuovere decisioni aziendali e nuovi obiettivi
 
@@ -49,7 +48,7 @@ Questo report può essere trasformato in base ai prodotti seguenti:
 
 Vengono monitorate le metriche seguenti:
 
-**Riepilogo**  
+**Summary**  
  - **Sottoscrizioni vendute**: numero di sottoscrizioni create per il periodo di tempo specificato  
  - **Licenze vendute**: numero di licenze vendute per il periodo di tempo specificato   
  - **Rinnovo delle sottoscrizioni in 30 giorni**: numero di sottoscrizioni in cui lo stato è attivo per il periodo di tempo specificato e dove **autorenew** è true

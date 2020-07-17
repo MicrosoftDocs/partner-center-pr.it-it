@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: Informazioni su come registrare l'app Web Cloudyn e usare una chiave privata per l'app nel centro per i partner, in modo da poter usare l'app per tenere traccia dell'utilizzo e dei costi di Azure per i clienti.
 author: aparnagkrishnan
 ms.author: aparnag
-Keywords: App gestione costi di Azure, Gestisci costi, app Web
-robots: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 521501f9a979c0993d299ab30443168408656a44
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 4ea156ef0932fe1af20f3e3c4b9be1a5f931cdde
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390448"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435910"
 ---
 # <a name="track-customer-azure-usage-and-costs-with-the-azure-cost-management-app-for-csp-partners"></a>Tieni traccia dell'utilizzo e dei costi di Azure per i clienti con l'app gestione costi di Azure per i partner CSP  
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Esplorare la fatturazione quando si aggiungono nuove sottoscrizioni, si regola la quantità di licenze o si annulla una sottoscrizione. Scopri in che modo le sottoscrizioni basate sull'utilizzo e sulle licenze sono diverse.
 author: sodeb
 ms.author: sodeb
-Keywords: fatturazione, pagamenti, ordini, utilizzo, fatturazione basata su licenza, data anniversario, termine, annullamento, rinnovo, formula prezzo, file di riconciliazione, file di ricognizione
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d79361271424de92a85ac7819353c8d2e906cdb6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ff289f2fd93030e3ed7055b17ad696b6700fe3aa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947922"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435340"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Scenari di fatturazione comuni per i partner del programma CSP che lavorano nel centro per i partner
 

@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono acquistare, gestire, vendere e annullare le sottoscrizioni software locali per conto dei clienti nel centro per i partner.
 author: BillLinzbach
 ms.author: BillLi
-keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, partner diretto, partner CSP diretto, rivenditore CSP indiretto, CSP diretto, CSP indiretto, modello diretto, modello indiretto, rivenditore indiretto, provider indiretto, provider, server di distribuzione, programma Cloud Solution Provider
-robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecea7dcaa30f95a0156681e6d74b80382cfd66fe
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 79448a366665a5ace8ed230aee685c40c0465b85
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377604"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434940"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Vendere software locale tramite il programma Cloud Solution Provider (CSP)
 
@@ -55,16 +53,17 @@ Una volta acquistato il software, l'utente e i suoi clienti dovranno scaricarlo.
 
 
 ## <a name="cancel-a-purchase"></a>Annullare un acquisto
+
 Utilizzare la procedura seguente per annullare un acquisto. Al termine dell'annullamento, la chiave software verrà revocata. 
 
 >[!NOTE]
 >Gli acquisti possono essere annullati solo dagli agenti amministratori. 
 
 1.  Prima di iniziare il processo, verificare che siano disponibili gli elementi seguenti: 
-    -   GUID del tenant o nome di dominio del cliente
-    -   ID ordine o ID abbonamento
-    -   Motivo del rimborso
-    -   Importo richiesto
+    - GUID del tenant o nome di dominio del cliente
+    - ID ordine o ID abbonamento
+    - Motivo del rimborso
+    - Importo richiesto
 
 2.  Nella pagina dei dettagli del cliente selezionare **software**. Verrà visualizzato un elenco di tutto il software acquistato. 
 

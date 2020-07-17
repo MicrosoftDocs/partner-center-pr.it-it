@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Scopri come iscriverti e qualificarti per gli impegni di Microsoft Planning Services, in modo da poter offrire formazione e altri servizi ai clienti con Software Assurance.
 author: mowree
 ms.author: mowrim
-Keywords: pre-distribuzione, pianificazione, Software Assurance
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 976c7c7648c13ca1a190b3a1bc901efb53998bac
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390328"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436540"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Servizi di pianificazione Software Assurance nel Centro per i partner
 
@@ -26,7 +25,7 @@ ms.locfileid: "86390328"
 
 In qualità di partner di servizi di pianificazione approvato, Microsoft compensa l'utente per fornire impegni di pianificazione pre-distribuzione per i clienti aziendali. La partecipazione a questo programma può essere utile per attirare più clienti, diventare partner di pianificazione attendibile e raggiungere ulteriori impegni con i clienti.
 
-## <a name="get-started"></a>Introduzione
+## <a name="get-started"></a>Inizia
 
 Se non si ha familiarità con Software Assurance Planning Services, attenersi alla procedura riportata di seguito. Se è già attivo nei programmi di Planning Services, iniziare ogni nuovo impegno al passaggio 4 (4) riportato di seguito.
 

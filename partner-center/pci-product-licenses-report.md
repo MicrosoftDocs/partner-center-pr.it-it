@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Verifica il report licenze del prodotto e Scopri come migliorare i prodotti cloud con licenza (o basata su postazione) che Vendi o Gestisci per i tuoi clienti.
-keywords: PCI, prestazioni, misure, successo dei clienti, sottoscrizioni cloud, analisi, report
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 680c2c92846692843d7d76496a327c0f8eba3cb4
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948795"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436660"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Report licenze del prodotto nel dashboard di partner Center Insights
 
@@ -27,7 +26,7 @@ ms.locfileid: "85948795"
 
 Il report licenze prodotto presenta l'analisi delle licenze per i prodotti cloud basati su Seat, ad esempio O365, Dynamics, M365, Power BI e così via. Le analisi presentate in questo articolo sono associate all'utilizzo delle licenze vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report licenze prodotto.
 
-- Summary
+- Riepilogo
 - Distribuzione geografica delle licenze
 - Aggiunta licenza
 - Distribuzione delle licenze per località partner, canale di vendita, SKU, tipo di connessione partner, segmento
@@ -35,7 +34,7 @@ Il report licenze prodotto presenta l'analisi delle licenze per i prodotti cloud
  > [!NOTE]
  > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
 
-**Riepilogo**
+**Summary**
 
 La sezione Summary (riepilogo) fornisce una visualizzazione snapshot degli indicatori di prestazioni chiave (KPI) associati alle licenze dei prodotti cloud vendute, distribuite e usate. Questo consente di tenere traccia dell'utilizzo attivo rispetto alle licenze vendute ai clienti.
 

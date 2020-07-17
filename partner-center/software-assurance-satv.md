@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Scopri come iscriverti al programma Software Assurance training voucher per ottenere la possibilità di compensare la formazione e la pianificazione per i clienti aziendali.
 author: mowree
 ms.author: mowrim
-keywords: voucher per la formazione, Software Assurance, formazione, iscriversi a SATV, SATV
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: a041631be7fe602ea16eebda557bb55aa9595173
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 91cf374c8739bfc428f58e5ec5f4b7748778f923
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390238"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436530"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programma SATV (Software Assurance Training Voucher) nel Centro per i partner
 
@@ -23,7 +22,7 @@ Espandere la propria attività iscrivendosi ai programmi per partner Software As
 
 In qualità di partner di formazione Software Assurance approvato, Microsoft ricompensa l'utente per la formazione tecnica fornita ai clienti aziendali in cambio dei voucher che ottengono con Software Assurance. La partecipazione a questo programma può essere utile per attirare più clienti e diventare partner di formazione attendibile.
 
-## <a name="get-started"></a>Introduzione
+## <a name="get-started"></a>Inizia
 
 Se non si ha familiarità con i servizi di formazione per Software Assurance, seguire tutti i passaggi seguenti. Se il programma training voucher è già attivo, iniziare dal passaggio 4 (4). 
 

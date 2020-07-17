@@ -7,15 +7,14 @@ Description: Usare Analytics per apprendere il modo in cui i rivenditori indiret
 author: amitravat
 ms.author: amrava
 ms.topic: article
-keywords: dati business
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33d435b6497f84d87ce866624deb47e2bd6ebc89
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 07c245cf811768a53da522545bf776caf0b85f75
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175965"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436130"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Usare Analytics per analizzare le prestazioni dei rivenditori indiretti
 
@@ -40,7 +39,7 @@ I dati prendono le decisioni aziendali. Usare le metriche nella pagina di **anal
 
 Vengono monitorate le metriche seguenti:
 
-**Riepilogo**  
+**Summary**  
  - **Totale rivenditori**: numero di rivenditori attivi nell'ultimo giorno della sottoscrizione  
  - **Nuovi rivenditori**: numero di nuovi rivenditori indiretti per il periodo di tempo specificato  
  - **Rivenditori attivi**: numero di rivenditori indiretti in cui MPNID è almeno 1 sottoscrizione e in cui lo stato della sottoscrizione non viene sottoposto a deprovisioning  

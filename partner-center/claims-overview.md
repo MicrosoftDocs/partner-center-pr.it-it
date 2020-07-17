@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Informazioni su come inviare una richiesta di co-op corretta per gli incentivi organizzando la documentazione, le fatture, le istruzioni e la verifica dell'esecuzione corrette.
 author: kaushikgMSFT
 ms.author: kaushikg
-keywords: attestazioni incentive, attestazioni co-op, fondi co-op
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 487aacc5028b501f4cb8ac673e339a0d766784b5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377635"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435420"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Panoramica delle richieste co-op di incentivi
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Creare le associazioni dei clienti tramite il modello CPOR (Claiming partner of record). Consente di gestire le vendite, l'utilizzo & gli incentivi per i clienti Microsoft 365 e Dynamics 365.
 author: MalloryPrincipe
 ms.author: mallp
-keywords: attestazioni per incentivi, attestazioni co-op, fondi co-op, OSU, OSA, ISV, associazione di ricavi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ded3850ea03626cd25571746cc9aa32231bd14bc
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: d5d4b25798b4ac3c4b2c2edb0d861fd7eb5097b4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265062"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436520"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Creare un'associazione cliente tramite il modello CPOR: usare per i clienti Microsoft 365 e Dynamics 365
 
@@ -69,7 +68,7 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
 
 3. Selezionare l' **ID MPN** della località partner da associare al cliente, quindi aggiungere il nome di dominio e l'ID directory del cliente. [Dove si trovano?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-4. Selezionare **Continua**.
+4. Seleziona **Continua**.
 
 5. Selezionare l' **area** e l' **attività**della soluzione. 
 

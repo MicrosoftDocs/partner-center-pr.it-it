@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i tipi di vantaggi dei partner Microsoft che ti sono stati concessi per favorire la crescita del tuo business, migliorare l'efficienza e migliorare le competenze del team.
-keywords: PCI, prestazioni, misurazioni, vantaggi, analisi, report
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73790a3fc59a2271b33c772d94b8c30902f16820
-ms.sourcegitcommit: 00f6e38cb6e3dce075174d757a5adf8fd6430bac
+ms.openlocfilehash: f8be96bffd34cef4beb4f53f23266a389a9c9d0f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "86092355"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436710"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Report dei vantaggi disponibile dal dashboard di partner Center Insights
 
@@ -32,7 +31,7 @@ Un partner Microsoft può accedere a una serie di vantaggi che usano la tecnolog
 
 Nel report dei vantaggi è possibile visualizzare i grafici seguenti:
 
-- Summary
+- Riepilogo
 - Servizi cloud concessi
 - Prodotti software
 - Sottoscrizioni di Visual Studio
@@ -42,7 +41,7 @@ Nel report dei vantaggi è possibile visualizzare i grafici seguenti:
  > [!NOTE]
  > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
 
-## <a name="summary"></a>Summary
+## <a name="summary"></a>Riepilogo
 
 La sezione Riepilogo presenta i vantaggi concessi in termini di software concesso in licenza, servizi cloud (non Azure), sottoscrizioni di Visual Studio, supporto tecnico e alcuni servizi o offerte per il go-to-Market.
 

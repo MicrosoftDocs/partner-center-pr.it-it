@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Informazioni sul funzionamento della fatturazione per i prodotti SaaS ISV o per le sottoscrizioni acquistate per i clienti dal Marketplace commerciale all'interno del centro per i partner.
 author: rbars
 ms.author: rbars
-keywords: sottoscrizioni, prodotti, acquisti, Marketplace, terze parti, ISV, fatturazione, fatture, riconciliazione, file di ricognizione
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af02c5e0d9f824bfe2e5d5e67e5582a3c92c74ed
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947814"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435140"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Fatturazione per prodotti e sottoscrizioni in Marketplace commerciali nel centro per i partner
 

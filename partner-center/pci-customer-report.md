@@ -5,17 +5,16 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri i modi per migliorare la tua attività. Vedere le tendenze specifiche del cliente per geografia, per prodotto e per altri attributi.
-keywords: PCI, prestazioni, successo dei clienti, misurazioni,
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0680a1f88517e12fc1625593f9fb34cc7cc66b81
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f4aca8154965bbce3c4d2c100478756f6e9dd1e4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949364"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434460"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Report del dashboard dei clienti dal centro per i partner Insights
 
@@ -23,7 +22,7 @@ Il dashboard Customers Visualizza i dati dei clienti che hanno acquistato prodot
  
 Il dashboard Customers include le sezioni seguenti: 
 
-- Summary  
+- Riepilogo  
 - Distribuzione geografica dei clienti 
 - Tendenze di aggiunta/varianza dei clienti 
 - Distribuzione dei clienti per località partner, segmenti cliente, canale di vendita, tipo di attribuzione partner 
@@ -35,7 +34,7 @@ Il dashboard Customers include le sezioni seguenti:
 
 La sezione Riepilogo presenta una visualizzazione snapshot dei diversi indicatori KPI correlati ai clienti, ad esempio clienti, clienti attivi, sottoscrizioni, aggiunte ai clienti, utenti con varianza e clienti per ogni prodotto. I filtri a livello di pagina sono applicabili per ogni sezione.
 
-**Customers**
+**Clienti**
 
 - Numero corrente di tutti i clienti a cui l'organizzazione è associata tramite diversi tipi di attribuzione in tutti i prodotti cloud, ad esempio Office, Azure, Dynamics e così via. Un cliente viene conteggiato se ha almeno una sottoscrizione con stato attivo.  
 - Rifiuta il% dei clienti durante l'intervallo di date selezionato 

@@ -5,15 +5,14 @@ ms.date: 05/18/2020
 description: Comprendere i campi del file di fattura per la fatturazione del centro per i partner.
 author: sodeb
 ms.author: sodeb
-keywords: fatturazione, fattura
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 431ed4224e67312605367709174386327a521052
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 72b8abc1edb4e27b4c9677cc9f374af2aff25986
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377095"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434530"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Fatture di fatturazione per il centro per i partner: informazioni su come leggere i campi fatturazione e costo singolo
 

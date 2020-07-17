@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Informazioni su come assegnare le sottoscrizioni di Azure ai clienti nel centro per i partner e su come consentire ai clienti di gestire le proprie sottoscrizioni.
 author: rbars
 ms.author: rbars
-keywords: Azure, sottoscrizione di Azure, sottoscrizione, sottoscrizioni, assegna sottoscrizione, Gestisci sottoscrizione di Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9b9b2f1f62d06e8f6802535738c7ba08666ac56
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: cf69d3cc9b7f9034e357d0b85e7910c3fe9d98a6
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390488"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436010"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Assegnazione di sottoscrizioni di Azure ai clienti nel Centro per i partner
 

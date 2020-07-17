@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Informazioni su come gestire le prenotazioni di Azure per un cliente, tra cui come annullare una prenotazione, scambiare una prenotazione o richiedere un rimborso.
 author: amitravat
 ms.author: amrava
-keywords: Azure, prenotazioni, gestione, fatturazione, acquisto, annullamento, scambio, tariffa per la terminazione anticipata
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ed925dc5a3b59db936f1e65290f58bc7912736c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175900"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435760"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gestione, annullamento, scambio o rimborso Microsoft Azure prenotazioni per i clienti
 
@@ -43,7 +42,7 @@ Per gestire le prenotazioni di Azure per i clienti dopo l'acquisto, selezionare 
 
     | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
-    | **Overview**   | Visualizza i dettagli della prenotazione di un cliente, inclusi i dati relativi alla data di scadenza, all'ambito e all'utilizzo. **Nota** Selezionare **rimborso** per creare una richiesta di supporto per un rimborso con valutazione Pro. Selezionare **Exchange** per creare una richiesta di supporto per scambiare la parte inutilizzata del periodo di prenotazione.  
+    | **Panoramica**   | Visualizza i dettagli della prenotazione di un cliente, inclusi i dati relativi alla data di scadenza, all'ambito e all'utilizzo. **Nota** Selezionare **rimborso** per creare una richiesta di supporto per un rimborso con valutazione Pro. Selezionare **Exchange** per creare una richiesta di supporto per scambiare la parte inutilizzata del periodo di prenotazione.  
     | **Controllo di accesso (IAM)**   | Consente di gestire l'accesso alle informazioni di prenotazione del cliente.|
     | **Configuration**   | Modificare l'ambito della prenotazione e/o la sottoscrizione di Azure a cui è associata la prenotazione.    |
     | **Proprietà**   | Visualizzare le proprietà della prenotazione e copiare negli Appunti l'ID prenotazione e l'ID ordine di prenotazione. **Nota** Il supporto tecnico potrebbe richiedere l'ID prenotazione e l'ID ordine di prenotazione quando si richiede il supporto per conto di un cliente.    |

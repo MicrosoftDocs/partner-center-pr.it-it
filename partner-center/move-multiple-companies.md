@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Cosa sapere quando si esegue la migrazione di più società dal centro di appartenenza ai partner (PMC) al centro per i partner e consolidarle in un account globale partner.
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, migrazione, trasferimento al Centro per i partner
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: b0bab2b69564915fb617754d55e7c113eaf0ddeb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603780"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434410"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Trasferimento di più aziende al centro per i partner da partner Membership Center (PMC)
 
@@ -52,7 +51,7 @@ Verrà visualizzato l'account esistente e una nota che illustra che i dettagli a
 
 Questa schermata mostra i dettagli dell'account esistente (nome e indirizzo) che è già stato creato nel Centro per i partner insieme ai dettagli del contatto principale.
 
-Selezionare **Continua**.
+Seleziona **Continua**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Cosa accade durante il consolidamento degli account
 

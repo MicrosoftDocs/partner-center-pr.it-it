@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Scopri quando e dove i clienti possono eseguire il supporto autonomo per gestire i propri account e quando devono contattare il proprio partner Cloud Solution Provider.
 author: brentserbus
 ms.author: brserbus
-keywords: supporto tecnico Self-Service, self-service,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10100e6b268335ace2d2f5329619a7e99c8a24a1
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2b52799639c99073ef82d1458362f74051b52990
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947623"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434840"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Supporto tecnico autonomo tramite Microsoft Office interfaccia di amministrazione di 365 o tramite il portale di Azure
 

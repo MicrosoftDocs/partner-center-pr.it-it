@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: "Informazioni sulle operazioni da eseguire se non si riesce ad accedere al centro per i partner: include informazioni sulla reimpostazione della password dell'account aziendale o della password dell'account dell'Istituto di istruzione se è stata dimenticata."
 author: parthpandyaMSFT
 ms.author: parthp
-Keywords: problemi di accesso, password dimenticata, password
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 898fa832855744bf0c846b7d64391a92de5e5b4f
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265044"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436510"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Se non è possibile accedere al centro per i partner ed è necessario reimpostare la password
 
@@ -27,7 +26,7 @@ Dopo la reimpostazione della password dell'account di lavoro, sarà possibile ac
 
 ## <a name="see-more"></a>Altre informazioni
 
-- [Verificare le informazioni sull'account](verification-responses.md)
-- [Reimpostare la password](reset-my-pasword.md)
+- [Verificare le informazioni dell'account](verification-responses.md)
+- [Reimpostare la password personale](reset-my-pasword.md)
 - [Reimpostare una password utente](reset-a-user-password.md)
 

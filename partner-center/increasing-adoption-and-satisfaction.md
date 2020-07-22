@@ -1,7 +1,7 @@
 ---
 title: Migliorare i tassi di adozione e soddisfazione
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come usare le metriche nel centro per i partner. Le metriche possono mostrare se l'azienda sta crescendo, in che modo i clienti usano le proprie licenze e dove concentrarsi sull'investimento.
@@ -9,95 +9,93 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fda561933082f829a35e6cd9c9b8b0754225cb4c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 7d60f1b21a6f9b29fdcaa5551875ce2c6d338a26
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377265"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875287"
 ---
-# <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a><span data-ttu-id="5ec7c-104">Usare le metriche nel centro per i partner per aumentare l'adozione e la soddisfazione</span><span class="sxs-lookup"><span data-stu-id="5ec7c-104">Use metrics in Partner Center to increase adoption and satisfaction</span></span>
+# <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a><span data-ttu-id="57099-104">Usare le metriche nel centro per i partner per aumentare l'adozione e la soddisfazione</span><span class="sxs-lookup"><span data-stu-id="57099-104">Use metrics in Partner Center to increase adoption and satisfaction</span></span>
 
-<span data-ttu-id="5ec7c-105">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="5ec7c-105">**Applies to**</span></span>
+<span data-ttu-id="57099-105">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="57099-105">**Applies to**</span></span>
 
-- <span data-ttu-id="5ec7c-106">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="5ec7c-106">Partner Center</span></span>
-- <span data-ttu-id="5ec7c-107">Programma Cloud Solution Provider</span><span class="sxs-lookup"><span data-stu-id="5ec7c-107">Cloud Solution Provider program</span></span>
+- <span data-ttu-id="57099-106">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="57099-106">Partner Center</span></span>
+- <span data-ttu-id="57099-107">Programma Cloud Solution Provider</span><span class="sxs-lookup"><span data-stu-id="57099-107">Cloud Solution Provider program</span></span>
 
-<span data-ttu-id="5ec7c-108">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="5ec7c-108">**Appropriate roles**</span></span>
+<span data-ttu-id="57099-108">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="57099-108">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="5ec7c-109">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="5ec7c-109">Global admin</span></span>
-- <span data-ttu-id="5ec7c-110">Amministratore utenti</span><span class="sxs-lookup"><span data-stu-id="5ec7c-110">User admin</span></span>
-- <span data-ttu-id="5ec7c-111">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="5ec7c-111">Admin agent</span></span>
-- <span data-ttu-id="5ec7c-112">Agente di vendita</span><span class="sxs-lookup"><span data-stu-id="5ec7c-112">Sales agent</span></span>
+- <span data-ttu-id="57099-109">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="57099-109">Global admin</span></span>
+- <span data-ttu-id="57099-110">Amministratore utenti</span><span class="sxs-lookup"><span data-stu-id="57099-110">User admin</span></span>
+- <span data-ttu-id="57099-111">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="57099-111">Admin agent</span></span>
+- <span data-ttu-id="57099-112">Agente di vendita</span><span class="sxs-lookup"><span data-stu-id="57099-112">Sales agent</span></span>
 
-<span data-ttu-id="5ec7c-113">I nostri partner usano molte metriche per valutare la crescita delle loro attività e decidere dove concentrare gli investimenti.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-113">Our partners use many metrics to gauge whether their business is growing and where to focus investment.</span></span> <span data-ttu-id="5ec7c-114">Il Centro per i partner può essere di aiuto fornendo dati che indicano se e come i clienti usano le licenze acquistate.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-114">Partner Center can help by providing data about if and how your customers are using the licenses that they've purchased.</span></span> <span data-ttu-id="5ec7c-115">Queste informazioni sono disponibili per i prodotti Office, incluso OneDrive for Business conteggiato insieme a SharePoint.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-115">This information is available for Office products (including OneDrive for Business, which is counted together with SharePoint).</span></span>
+<span data-ttu-id="57099-113">I nostri partner usano molte metriche per valutare la crescita delle loro attività e decidere dove concentrare gli investimenti.</span><span class="sxs-lookup"><span data-stu-id="57099-113">Our partners use many metrics to gauge whether their business is growing and where to focus investment.</span></span> <span data-ttu-id="57099-114">Il Centro per i partner può essere di aiuto fornendo dati che indicano se e come i clienti usano le licenze acquistate.</span><span class="sxs-lookup"><span data-stu-id="57099-114">Partner Center can help by providing data about if and how your customers are using the licenses that they've purchased.</span></span> <span data-ttu-id="57099-115">Queste informazioni sono disponibili per i prodotti Office, incluso OneDrive for Business conteggiato insieme a SharePoint.</span><span class="sxs-lookup"><span data-stu-id="57099-115">This information is available for Office products (including OneDrive for Business, which is counted together with SharePoint).</span></span>
 
-<span data-ttu-id="5ec7c-116">Puoi vedere i dati per tutti i tuoi clienti tramite il programma Cloud Solution Provider.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-116">You can see data for all of your customers through the Cloud Solution Provider program.</span></span> <span data-ttu-id="5ec7c-117">Alcuni clienti possono acquistare licenze da altri partner o direttamente da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-117">Some customers may buy licenses from other partners or directly from Microsoft.</span></span> <span data-ttu-id="5ec7c-118">In questi casi, si vedranno le licenze totali per tutti i partner.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-118">For these situations, you will see the total licenses across all partners.</span></span> <span data-ttu-id="5ec7c-119">Per vedere solo le tue licenze, vai alle sottoscrizioni del cliente.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-119">To see only your own licenses, go to the customer's subscriptions instead.</span></span>
+<span data-ttu-id="57099-116">Puoi vedere i dati per tutti i tuoi clienti tramite il programma Cloud Solution Provider.</span><span class="sxs-lookup"><span data-stu-id="57099-116">You can see data for all of your customers through the Cloud Solution Provider program.</span></span> <span data-ttu-id="57099-117">Alcuni clienti possono acquistare licenze da altri partner o direttamente da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="57099-117">Some customers may buy licenses from other partners or directly from Microsoft.</span></span> <span data-ttu-id="57099-118">In questi casi, si vedranno le licenze totali per tutti i partner.</span><span class="sxs-lookup"><span data-stu-id="57099-118">For these situations, you will see the total licenses across all partners.</span></span> <span data-ttu-id="57099-119">Per vedere solo le tue licenze, vai alle sottoscrizioni del cliente.</span><span class="sxs-lookup"><span data-stu-id="57099-119">To see only your own licenses, go to the customer's subscriptions instead.</span></span>
 
 > [!NOTE]  
->  <span data-ttu-id="5ec7c-120">Attualmente vengono visualizzati solo i dati per Office 365 e Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-120">Currently, we only show data for Office 365 and Dynamics 365.</span></span> <span data-ttu-id="5ec7c-121">In futuro verranno abilitati i dati per altri prodotti.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-121">We will be enabling data for additional products in the future.</span></span>
+> <span data-ttu-id="57099-120">Attualmente vengono visualizzati solo i dati per Office 365 e Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="57099-120">Currently, we only show data for Office 365 and Dynamics 365.</span></span> <span data-ttu-id="57099-121">In futuro verranno abilitati i dati per altri prodotti.</span><span class="sxs-lookup"><span data-stu-id="57099-121">We will be enabling data for additional products in the future.</span></span>
 
-## <a name="find-license-and-user-data"></a><span data-ttu-id="5ec7c-122">Trovare dati sulle licenze e gli utenti</span><span class="sxs-lookup"><span data-stu-id="5ec7c-122">Find license and user data</span></span>
+## <a name="find-license-and-user-data"></a><span data-ttu-id="57099-122">Trovare dati sulle licenze e gli utenti</span><span class="sxs-lookup"><span data-stu-id="57099-122">Find license and user data</span></span>
 
-<span data-ttu-id="5ec7c-123">È possibile trovare i dati relativi a licenze e utenti per un singolo cliente o per tutto il portfolio.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-123">You can find license and user data for a single customer or across your portfolio.</span></span>
+<span data-ttu-id="57099-123">È possibile trovare i dati relativi a licenze e utenti per un singolo cliente o per tutto il portfolio.</span><span class="sxs-lookup"><span data-stu-id="57099-123">You can find license and user data for a single customer or across your portfolio.</span></span>
 
-### <a name="find-license-and-user-data-for-a-single-customer"></a><span data-ttu-id="5ec7c-124">Trovare i dati di licenza e utente per un singolo cliente</span><span class="sxs-lookup"><span data-stu-id="5ec7c-124">Find license and user data for a single customer</span></span>
+### <a name="find-license-and-user-data-for-a-single-customer"></a><span data-ttu-id="57099-124">Trovare i dati di licenza e utente per un singolo cliente</span><span class="sxs-lookup"><span data-stu-id="57099-124">Find license and user data for a single customer</span></span>
 
-1. <span data-ttu-id="5ec7c-125">Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-125">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="57099-125">Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="57099-125">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
 
-2. <span data-ttu-id="5ec7c-126">Seleziona **i clienti** dal **centro** per i partner</span><span class="sxs-lookup"><span data-stu-id="5ec7c-126">Select **Customers** from the **Partner Center**</span></span>
+2. <span data-ttu-id="57099-126">Seleziona **i clienti** dal **centro** per i partner</span><span class="sxs-lookup"><span data-stu-id="57099-126">Select **Customers** from the **Partner Center**</span></span>
 
-3. <span data-ttu-id="5ec7c-127">Scegliere un cliente.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-127">Choose a customer.</span></span>
+3. <span data-ttu-id="57099-127">Scegliere un cliente.</span><span class="sxs-lookup"><span data-stu-id="57099-127">Choose a customer.</span></span>
 
-4. <span data-ttu-id="5ec7c-128">Selezionare **Customer Insights**.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-128">Select **Customer insights**.</span></span>
+4. <span data-ttu-id="57099-128">Selezionare **Customer Insights**.</span><span class="sxs-lookup"><span data-stu-id="57099-128">Select **Customer insights**.</span></span>
 
-### <a name="find-license-and-user-data-across-your-portfolio"></a><span data-ttu-id="5ec7c-129">Trovare i dati relativi a licenze e utenti nel portfolio</span><span class="sxs-lookup"><span data-stu-id="5ec7c-129">Find license and user data across your portfolio</span></span>
+### <a name="find-license-and-user-data-across-your-portfolio"></a><span data-ttu-id="57099-129">Trovare i dati relativi a licenze e utenti nel portfolio</span><span class="sxs-lookup"><span data-stu-id="57099-129">Find license and user data across your portfolio</span></span>
 
-1. <span data-ttu-id="5ec7c-130">Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-130">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="57099-130">Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="57099-130">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
 
-2. <span data-ttu-id="5ec7c-131">Selezionare **analizza**e scegliere una delle opzioni di analisi nel menu.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-131">Select **Analyze**, and choose from any of the analytics options on the menu.</span></span>
+2. <span data-ttu-id="57099-131">Selezionare **analizza**e scegliere una delle opzioni di analisi nel menu.</span><span class="sxs-lookup"><span data-stu-id="57099-131">Select **Analyze**, and choose from any of the analytics options on the menu.</span></span>
 
-3. <span data-ttu-id="5ec7c-132">Per scaricare i dati di distribuzione e di utilizzo nell'intero set di clienti, selezionare l'opzione **Esporta** (freccia giù).</span><span class="sxs-lookup"><span data-stu-id="5ec7c-132">To download deployment and usage data across your entire customer set, select the **export** (down-arrow) option.</span></span>
+3. <span data-ttu-id="57099-132">Per scaricare i dati di distribuzione e di utilizzo nell'intero set di clienti, selezionare l'opzione **Esporta** (freccia giù).</span><span class="sxs-lookup"><span data-stu-id="57099-132">To download deployment and usage data across your entire customer set, select the **export** (down-arrow) option.</span></span>
 
-<span data-ttu-id="5ec7c-133">Terminologia:</span><span class="sxs-lookup"><span data-stu-id="5ec7c-133">Terminology:</span></span>
+<span data-ttu-id="57099-133">Terminologia:</span><span class="sxs-lookup"><span data-stu-id="57099-133">Terminology:</span></span>
 
-- <span data-ttu-id="5ec7c-134">**Diritto** = licenza che l'utente è autorizzato a utilizzare (non è sospeso per frode o non pagamento, non è stato aggiornato a una licenza diversa, non è stato annullato dall'utente e così via).</span><span class="sxs-lookup"><span data-stu-id="5ec7c-134">**Entitlement** = a license that the user is entitled to use (it is not suspended for fraud or non-payment, it hasn't been upgraded to a different license, it hasn't been canceled by the user, etc.)</span></span>
+- <span data-ttu-id="57099-134">**Diritto** = licenza che l'utente è autorizzato a utilizzare (non è sospeso per frode o non pagamento, non è stato aggiornato a una licenza diversa, non è stato annullato dall'utente e così via).</span><span class="sxs-lookup"><span data-stu-id="57099-134">**Entitlement** = a license that the user is entitled to use (it is not suspended for fraud or non-payment, it hasn't been upgraded to a different license, it hasn't been canceled by the user, etc.)</span></span>
 
-- <span data-ttu-id="5ec7c-135">**Active** = se l'utente sottoscritto ha utilizzato il diritto per un'attività negli ultimi 28 giorni di calendario.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-135">**Active** = if the subscribed user has used the entitlement for a task in the last 28 calendar days.</span></span>
+- <span data-ttu-id="57099-135">**Active** = se l'utente sottoscritto ha utilizzato il diritto per un'attività negli ultimi 28 giorni di calendario.</span><span class="sxs-lookup"><span data-stu-id="57099-135">**Active** = if the subscribed user has used the entitlement for a task in the last 28 calendar days.</span></span>
 
-- <span data-ttu-id="5ec7c-136">**% distribuzione** = licenze assegnate/licenze vendute</span><span class="sxs-lookup"><span data-stu-id="5ec7c-136">**Deployment %** = assigned licenses/sold licenses</span></span>
+- <span data-ttu-id="57099-136">**% distribuzione** = licenze assegnate/licenze vendute</span><span class="sxs-lookup"><span data-stu-id="57099-136">**Deployment %** = assigned licenses/sold licenses</span></span>
 
-- <span data-ttu-id="5ec7c-137">**% utilizzo** = diritti attivi/diritti totali</span><span class="sxs-lookup"><span data-stu-id="5ec7c-137">**Usage %** = active entitlements/total entitlements</span></span>
+- <span data-ttu-id="57099-137">**% utilizzo** = diritti attivi/diritti totali</span><span class="sxs-lookup"><span data-stu-id="57099-137">**Usage %** = active entitlements/total entitlements</span></span>
 
-   <span data-ttu-id="5ec7c-138">In alcuni casi la percentuale di utilizzo risulta ingigantita, o maggiore del 100%.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-138">Sometimes the usage % is inflated, or greater than 100%.</span></span> <span data-ttu-id="5ec7c-139">Questo problema può verificarsi per diversi motivi:</span><span class="sxs-lookup"><span data-stu-id="5ec7c-139">This can happen for several reasons:</span></span>
+   <span data-ttu-id="57099-138">In alcuni casi la percentuale di utilizzo risulta ingigantita, o maggiore del 100%.</span><span class="sxs-lookup"><span data-stu-id="57099-138">Sometimes the usage % is inflated, or greater than 100%.</span></span> <span data-ttu-id="57099-139">Questo problema può verificarsi per diversi motivi:</span><span class="sxs-lookup"><span data-stu-id="57099-139">This can happen for several reasons:</span></span>
 
-  - <span data-ttu-id="5ec7c-140">Ricambi del personale presso il cliente a causa dei quali la licenza è stata trasferita a un nuovo utente.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-140">If the customer had employee turnover and the license was transferred to a new user.</span></span>
+  - <span data-ttu-id="57099-140">Ricambi del personale presso il cliente a causa dei quali la licenza è stata trasferita a un nuovo utente.</span><span class="sxs-lookup"><span data-stu-id="57099-140">If the customer had employee turnover and the license was transferred to a new user.</span></span>
 
-  - <span data-ttu-id="5ec7c-141">Se il cliente dispone di due sottoscrizioni per uno SKU, ma una è nel periodo di tolleranza, disabilitato o deprovisioning, i diritti in entrambe le sottoscrizioni possono registrare l'utilizzo attivo durante il periodo di 28 giorni, ma solo uno viene conteggiato nel totale.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-141">If the customer has two subscriptions for a SKU, but one is In Grace Period, Disabled, or De-provisioned, entitlements in both subscriptions may register active usage during the 28-day period but only one is counted in the total.</span></span>
+  - <span data-ttu-id="57099-141">Se il cliente dispone di due sottoscrizioni per uno SKU, ma una è nel periodo di tolleranza, disabilitato o deprovisioning, i diritti in entrambe le sottoscrizioni possono registrare l'utilizzo attivo durante il periodo di 28 giorni, ma solo uno viene conteggiato nel totale.</span><span class="sxs-lookup"><span data-stu-id="57099-141">If the customer has two subscriptions for a SKU, but one is In Grace Period, Disabled, or De-provisioned, entitlements in both subscriptions may register active usage during the 28-day period but only one is counted in the total.</span></span>
 
-  - <span data-ttu-id="5ec7c-142">Se il cliente usa una sottoscrizione di prova, l'attività viene conteggiata ma la sottoscrizione non viene inclusa nei conteggi del totale dei diritti.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-142">If the customer has a trial subscription, activity is counted but the subscription isn't counted towards the total entitlements.</span></span>
+  - <span data-ttu-id="57099-142">Se il cliente usa una sottoscrizione di prova, l'attività viene conteggiata ma la sottoscrizione non viene inclusa nei conteggi del totale dei diritti.</span><span class="sxs-lookup"><span data-stu-id="57099-142">If the customer has a trial subscription, activity is counted but the subscription isn't counted towards the total entitlements.</span></span>
 
-  - <span data-ttu-id="5ec7c-143">Se alcuni clienti usano Yammer molto di più di quanto autorizzato dalla loro licenza, i dati possono essere notevolmente distorti.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-143">If some customers are using Yammer significantly more than they are entitled to by their license it can skew the data dramatically.</span></span>
+  - <span data-ttu-id="57099-143">Se alcuni clienti usano Yammer molto di più di quanto autorizzato dalla loro licenza, i dati possono essere notevolmente distorti.</span><span class="sxs-lookup"><span data-stu-id="57099-143">If some customers are using Yammer significantly more than they are entitled to by their license it can skew the data dramatically.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="5ec7c-144">Passaggi successivi</span><span class="sxs-lookup"><span data-stu-id="5ec7c-144">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="57099-144">Passaggi successivi</span><span class="sxs-lookup"><span data-stu-id="57099-144">Next steps</span></span>
 
-<span data-ttu-id="5ec7c-145">Se si stanno mettendo in campo molte informazioni e procedure, i numeri di adozione per l'account sono bassi oppure si sta cercando di ottenere opportunità di vendita, è consigliabile prendere in considerazione l'offerta di corsi di formazione.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-145">If you are fielding many Help and How-to questions, the adoption numbers on your account are low, or you're looking for upsell opportunities, you may want to consider offering training courses.</span></span> <span data-ttu-id="5ec7c-146">Insegnando ai clienti come usare al meglio il software della soluzione cloud acquistato, è più probabile che si possa riscontrare un aumento della produttività e della soddisfazione e una riduzione delle esigenze di supporto.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-146">By teaching your customers how to better use the cloud solution software they have purchased, you're more likely to see an increase in productivity and satisfaction, and a decrease in support needs.</span></span>
+<span data-ttu-id="57099-145">Se si stanno mettendo in campo molte informazioni e procedure, i numeri di adozione per l'account sono bassi oppure si sta cercando di ottenere opportunità di vendita, è consigliabile prendere in considerazione l'offerta di corsi di formazione.</span><span class="sxs-lookup"><span data-stu-id="57099-145">If you are fielding many Help and How-to questions, the adoption numbers on your account are low, or you're looking for up sell opportunities, you may want to consider offering training courses.</span></span> <span data-ttu-id="57099-146">Insegnando ai clienti come usare al meglio il software della soluzione cloud acquistato, è più probabile che si possa riscontrare un aumento della produttività e della soddisfazione e una riduzione delle esigenze di supporto.</span><span class="sxs-lookup"><span data-stu-id="57099-146">By teaching your customers how to better use the cloud solution software they have purchased, you're more likely to see an increase in productivity and satisfaction, and a decrease in support needs.</span></span>
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><span data-ttu-id="5ec7c-147"><strong>Problema:</strong> Il tasso di adozione dell'utente è basso e molte licenze aren&#39;t in uso.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-147"><strong>Problem:</strong> The user adoption rate is low, and many licenses aren&#39;t being used.</span></span></p>
-<p><span data-ttu-id="5ec7c-148"><strong>Elementi da considerare:</strong> I clienti potrebbero non comprendere il valore fornito dal software.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-148"><strong>What to consider:</strong> Customers might not understand the value that the software could provide.</span></span> <span data-ttu-id="5ec7c-149">Hanno bisogno di aiuto per la progettazione dei modi in cui possono incorporarla nel giorno per semplificare le attività che stanno già facendo o per abilitare nuovi tipi di produttività.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-149">They need help envisioning the ways they could incorporate it into their day to simplify tasks that they're already doing, or to enable new kinds of productivity.</span></span></p>
-<p><span data-ttu-id="5ec7c-150"><strong>Cosa provare:</strong> Case Study, testimonianze degli utenti su scenari specifici, Blog di esercitazione o video.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-150"><strong>What to try:</strong> Case studies, user testimonials about specific scenarios, tutorial blogs, or videos.</span></span></p></td>
-</tr>
-<tr class="even">
-<td><p><span data-ttu-id="5ec7c-151"><strong>Problema:</strong> È disponibile un elevato volume di chiamate di supporto per la guida e le domande sulle procedure.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-151"><strong>Problem:</strong> There is a high volume of support calls for help and how-to questions.</span></span></p>
-<p><span data-ttu-id="5ec7c-152"><strong>Elementi da considerare:</strong> I clienti potrebbero essere nuovi per il software, per la versione del prodotto o per la loro attività.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-152"><strong>What to consider:</strong> Customers may be new to the software, to the product version, or to their task.</span></span></p>
-<p><span data-ttu-id="5ec7c-153"><strong>Cosa provare:</strong> È possibile utilizzare una doppia strategia di offerta di formazione (in persona o in linea) per aumentare la capacità complessiva dei clienti&#39;, promuovendo allo stesso tempo alcune opzioni self-service disponibili per i clienti.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-153"><strong>What to try:</strong> You can use a dual strategy of offering training (in person or online) to increase customer&#39;s overall expertise, while also promoting some of the self-service options available to customers.</span></span></p>
-<p><span data-ttu-id="5ec7c-154">È consigliabile riprogettare il tuo sito di supporto in modo da includere anche le opzioni self-service descritte nell'argomento <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Supporto in autonomia dei clienti</a>, oltre alle tue informazioni di contatto del supporto tecnico.</span><span class="sxs-lookup"><span data-stu-id="5ec7c-154">You may want to redesign your support site to also include the self-service options described in the topic <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Customer self-support</a> in addition to your support contact information.</span></span></p></td>
-</tr>
-</tbody>
-</table>
+### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a><span data-ttu-id="57099-147">Considerazioni su come migliorare l'adozione e l'utilizzo dei clienti: un paio di scenari</span><span class="sxs-lookup"><span data-stu-id="57099-147">Considering how to improve customer adoption and usage - a couple scenarios</span></span>
+
+<span data-ttu-id="57099-148">**Problema**: la velocità di adozione dell'utente è bassa e molte licenze non vengono usate.</span><span class="sxs-lookup"><span data-stu-id="57099-148">**Problem**: The user adoption rate is low, and many licenses aren't being used.</span></span>
+
+<span data-ttu-id="57099-149">**Cosa prendere in considerazione**: i clienti potrebbero non comprendere il valore fornito dal software.</span><span class="sxs-lookup"><span data-stu-id="57099-149">**What to consider**: Customers might not understand the value that the software could provide.</span></span> <span data-ttu-id="57099-150">Hanno bisogno di aiuto per la progettazione dei modi in cui possono incorporarla nel giorno per semplificare le attività che stanno già facendo o per abilitare nuovi tipi di produttività.</span><span class="sxs-lookup"><span data-stu-id="57099-150">They need help envisioning the ways they could incorporate it into their day to simplify tasks that they're already doing, or to enable new kinds of productivity.</span></span>
+
+<span data-ttu-id="57099-151">**Cosa provare**: Case Study, testimonianze degli utenti su scenari specifici, Blog di esercitazione o video.</span><span class="sxs-lookup"><span data-stu-id="57099-151">**What to try**: Case studies, user testimonials about specific scenarios, tutorial blogs, or videos.</span></span>
+
+<span data-ttu-id="57099-152">**Problema**: è disponibile un elevato volume di chiamate al supporto tecnico e alle domande sulle procedure.</span><span class="sxs-lookup"><span data-stu-id="57099-152">**Problem**: There is a high volume of support calls for help and how-to questions.</span></span>
+
+<span data-ttu-id="57099-153">**Cosa prendere in considerazione**: i clienti potrebbero essere nuovi per il software, per la versione del prodotto o per la loro attività.</span><span class="sxs-lookup"><span data-stu-id="57099-153">**What to consider**: Customers may be new to the software, to the product version, or to their task.</span></span>
+
+<span data-ttu-id="57099-154">**Cosa provare**: è possibile usare una doppia strategia di offerta di formazione (in persona o in linea) per aumentare le competenze complessive dei clienti, ma anche per promuovere alcune opzioni self-service disponibili per i clienti.</span><span class="sxs-lookup"><span data-stu-id="57099-154">**What to try**: You can use a dual strategy of offering training (in person or online) to increase customers' overall expertise, while also promoting some of the self-service options available to customers.</span></span>
+
+<span data-ttu-id="57099-155">Potrebbe essere necessario riprogettare il sito di supporto in modo da includere anche le opzioni self-service descritte in [supporto tecnico Self-](customer-self-support.md) Service oltre alle informazioni di contatto del supporto tecnico.</span><span class="sxs-lookup"><span data-stu-id="57099-155">You may want to redesign your support site to also include the self-service options described in [Customer self-support](customer-self-support.md) in addition to your support contact information.</span></span>
+

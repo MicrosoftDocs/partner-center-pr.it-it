@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Scopri in che modo aggiornare o modificare una sottoscrizione cliente. Aggiungere altre licenze e postazioni o passare a una versione diversa con più servizi.
 author: BillLinzbach
 ms.author: BillLi
-keywords: aggiungere licenze a una sottoscrizione esistente, aggiungere postazioni a una sottoscrizione esistente, modificare una sottoscrizione, cambiare una sottoscrizione, acquistare ulteriori licenze per un cliente
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fefb11f9e54d1d227bf4cb846c4e324041e0bd4e
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 251423b40508e25dc9ea5c89fffb34c4f0c10499
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377305"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436360"
 ---
 # <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Aggiungere licenze, postazioni o servizi a una sottoscrizione cliente
 

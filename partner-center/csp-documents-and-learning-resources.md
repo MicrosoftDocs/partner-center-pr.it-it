@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Trova i collegamenti alle guide al programma Cloud Solution Provider, ai contratti per i partner, ai contratti per i clienti, ai listini prezzi e alle offerte.
 author: LauraBrenner
 ms.author: labrenne
-keywords: guide al programma CSP, guida al programma, contratti partner, contratto cliente, listini prezzi, offerte
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db194fb2566c5a474c6743e37deea6ee63ad247
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: d3bdc0e2eb26f9841c4a40a9f3afb7a8c89e5795
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991414"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434960"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guida al programma Cloud Solution Provider, contratti, listini prezzi e offerte
 

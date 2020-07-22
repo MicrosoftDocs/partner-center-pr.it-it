@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Informazioni sugli argomenti relativi alla fatturazione e alle imposte nel Centro per i partner. Informazioni sulle risorse di fatturazione, fatture, fatturazione CSP e imposte.
 author: sodeb
 ms.author: sodeb
-keywords: fatturazione, pagamenti, ordini, annullamento, gestione ordini, mancato pagamento, frode, utilizzo improprio, imposta, esenzioni fiscali, file di riconciliazione, file riconciliazione
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30415c0580a6a3a5a656f5fd66a5b53aa5c5b7b3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948158"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435580"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Panoramica: Principali articoli sulla fatturazione e sulle imposte nel Centro per i partner
 

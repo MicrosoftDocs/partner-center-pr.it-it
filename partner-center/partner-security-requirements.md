@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Introduce i requisiti dei partner per abilitare l'autenticazione a più fattori (MFA) e adottare il framework del modello di applicazione sicura.
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43febea2a5eb78d983c620bcc6ec155ba49a7c5e
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 981163a710f3d220ce1031957f9ccdca3e544d60
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265099"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434010"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Requisiti di sicurezza per partner che usano il Centro per i partner o le API del Centro per i partner
 

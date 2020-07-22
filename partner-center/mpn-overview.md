@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: Scopri i vantaggi della collaborazione con Microsoft, tra cui Microsoft Action Pack, le competenze e le opzioni di programma per entrare nel mercato e vendere le tue soluzioni.
 author: LauraBrenner
 ms.author: labrenne
-keywords: partner, partnership, MPN, Microsoft Partner Network, action pack, MAP, sottoscrizione di action pack, vantaggi, vantaggi MPN, appartenenza, silver, gold, competenze
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d71f5b315d8c7497febfae662ac8050280a10ea6
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: f8589776eb291da1931e727d170704ccd205ef69
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198609"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436780"
 ---
 # <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Diventare partner Microsoft - Vantaggi, supporto per i clienti e promozione della crescita aziendale
 

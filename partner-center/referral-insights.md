@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Esaminare periodicamente i dati delle informazioni dettagliate sulle segnalazioni nel Centro per i partner per visualizzare le aree di miglioramento o le tendenze che richiedono attenzione per raggiungere gli obiettivi aziendali.
 author: rajap-ms
 ms.author: rajap
-keywords: segnalazione, analizzare, analisi, metrica, conversione
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34794d3ef29167b9e6012bfdbedcbfa835028a83
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 24bbca2c973f985e441bd1aebc44d63fdb3e78af
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302338"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436620"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Ottenere informazioni dettagliate sulle segnalazioni nel Centro per i partner ed esaminare lo stato delle segnalazioni
 

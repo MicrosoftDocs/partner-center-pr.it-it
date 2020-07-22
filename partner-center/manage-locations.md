@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Nel Centro per i partner scopri come aggiungere una nuova posizione e come viene usato l'ID MPN della posizione in programmi di incentivi, aziende CSP, abbonamenti e altre transazioni.
 author: vinayks
 ms.author: vinayks
-keywords: account partner, posizioni
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 111acf67a57b8c8be1ef8c6bd4017c8d37770dde
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949670"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436870"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Gestire le posizioni nell’account partner nel Centro per i partner e aggiungere una nuova posizione
 

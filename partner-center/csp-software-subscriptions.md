@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono usare il Centro per i partner per acquistare, gestire, vendere e annullare istanze riservate di Azure e abbonamenti server per i clienti.
 author: BillLinzbach
 ms.author: BillLi
-keywords: Cloud Solution Provider, CSP, servizi basati sul cloud, Azure, istanze riservate di Azure, Windows Server, SQL Server, abbonamenti software, annullare software
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96e4e0fb973350e8d3718b6545eb80ae21d0b49c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 8dd06d44bb9d80e159c18aff312a5e60e96b0539
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377585"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434890"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendere abbonamenti software tramite il programma Cloud Solution Provider (CSP)
 

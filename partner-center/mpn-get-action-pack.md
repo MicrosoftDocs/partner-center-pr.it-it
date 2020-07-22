@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: Scopri come acquistare un abbonamento a Microsoft Action Pack e iniziare a sfruttare i vantaggi offerti da Action Pack. Scopri anche come effettuare il rinnovo o l'annullamento, come visualizzare la fattura e altro ancora.
 author: LauraBrenner
 ms.author: labrenne
-keywords: action pack, abbonamento a Microsoft Action Pack, rinnovare l'abbonamento a Microsoft Action Pack, rinnovare action pack, ottenere action pack
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aac218976d071d4dc848944294e143bb1b85c6ac
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 45abf47801dce26e14880afe91b3f104ee9822ec
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795959"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436800"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Acquistare o rinnovare un abbonamento a Microsoft Action Pack oppure competenze Silver o Gold
 

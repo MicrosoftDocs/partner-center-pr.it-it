@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 47291be42523cbcc3aafbb76a6fd9512191ca806
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435250"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875227"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
@@ -77,6 +77,26 @@ Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elen
     > Né l'utente né il cliente riceveranno un messaggio di posta elettronica con le istruzioni per completare la configurazione e il provisioning dell'account per questo tipo di sottoscrizione ISV.
 
     - Se la sottoscrizione viene fornita con una versione di valutazione gratuita di 30 giorni, il periodo di valutazione gratuito verrà applicato automaticamente. I partner del programma CSP non possono rinunciare al periodo di valutazione gratuito sulle offerte acquistate per i clienti. Una volta terminato il periodo di valutazione gratuita, viene avviato il periodo di validità della sottoscrizione e la sottoscrizione viene convertita in stato a pagamento. La sottoscrizione verrà quindi rinnovata in base alla stessa pianificazione.
+   
+## <a name="update-subscriptions-with-add-ons"></a>Aggiornare sottoscrizioni con componenti aggiuntivi 
+
+Per acquistare un componente aggiuntivo, il cliente deve prima avere una sottoscrizione di base attiva.  Non è possibile acquistare componenti aggiuntivi tramite il catalogo.
+
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
+
+2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
+
+3. Scegli la sottoscrizione che vuoi gestire.
+
+4. Sotto la sezione **stato** , sono elencati i componenti aggiuntivi disponibili per la sottoscrizione.  
+
+5. Aggiornare la quantità di licenze per ogni componente aggiuntivo richiesto. **Inviare** quindi le modifiche.
+
+La possibilità di acquistare componenti aggiuntivi tramite il centro per i partner è disponibile solo per i partner CSP.
+Vengono visualizzati solo i componenti aggiuntivi idonei in base ai requisiti di base e alla disponibilità a livello di area. Per ulteriori informazioni su prezzi e offerte, fare riferimento alla matrice di offerte del rivenditore cloud.  Sospendendo la sottoscrizione di base, vengono sospesi anche tutti i componenti aggiuntivi associati.
+
+Le date di inizio per i componenti aggiuntivi sono allineate alla sottoscrizione di base e gli addebiti vengono calcolati dalla data di inizio e di addebito con addebiti pro-rata nella prima fattura. 
+
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Sospendere o annullare una sottoscrizione
 
@@ -96,7 +116,7 @@ Quando cambi lo stato di una sottoscrizione in **Sospesa**, gli utenti non posso
 
 5. Verranno eliminati tutti i dati, tranne nel caso in cui la sottoscrizione venga riattivata entro 90 giorni o 90 giorni più il numero di giorni tra il momento in cui l'account è stato aperto e il primo periodo di fatturazione (massimo 120 giorni).
 
-Quando sospendi una sottoscrizione, la data visualizzata sotto il pulsante **Sospesa** indica quando la sottoscrizione scadrà automaticamente se non la riattivi. Per altre informazioni, vedere [domande frequenti sulle nuove funzionalità di fatturazione](faq-about-new-billing-features.md).
+Quando sospendi una sottoscrizione, la data visualizzata sotto il pulsante **Sospesa** indica quando la sottoscrizione scadrà automaticamente se non la riattivi. 
 
 ### <a name="cancel-a-subscription"></a>Annullare una sottoscrizione
 

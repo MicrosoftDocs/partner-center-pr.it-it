@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Scopri i vantaggi e i diversi modelli del programma Cloud Solution Provider per favorire la crescita aziendale con nuovi clienti e nuove competenze.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Cloud Solution Provider, CSP, servizi basati su cloud, Azure, Office 365, Dynamics, partner CSP, vendere in CSP, partner diretto, partner CSP diretto, rivenditore CSP indiretto, CSP diretto, CSP indiretto, modello diretto, modello indiretto, rivenditore indiretto, provider indiretto, provider, server di distribuzione, programma Cloud Solution Provider
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 90c03aeea719e58dcdb30cb8404066fa13e16a7e
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 152283c6996021ab3944cecd89d808ee70b2d250
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362339"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434910"
 ---
 # <a name="cloud-solution-provider-program-benefits-and-different-models"></a>Vantaggi del programma Cloud Solution Provider e modelli diversi
 

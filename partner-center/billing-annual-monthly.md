@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 3fed5a5a584775f73ed3ad83978a6d38cb50293b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 056607725875b916298251cad2015069a43c4fba
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948223"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875197"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Comprendere la differenza tra fatturazione mensile e annuale nel centro per i partner
 
@@ -224,7 +224,7 @@ I partner ottengono incentivi per tutte le transazioni idonee, indipendentemente
 
 Per domande sugli incentivi, contattare il team di supporto tecnico per gli incentivi regionali appropriato:
 
-| Area | Indirizzo di posta elettronica |
+| Region | Indirizzo di posta elettronica |
 | ------ | ------------- |
 | America del Nord | <ocina@microsoft.com> |
 |America Latina & Brasile | <ocilatam@microsoft.com> |

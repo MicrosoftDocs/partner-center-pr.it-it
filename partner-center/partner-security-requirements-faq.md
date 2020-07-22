@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 'Domande frequenti sui requisiti di sicurezza dei partner: cosa sono, come devono essere implementate dai partner e come sapere se sono state soddisfatte.'
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, Cloud Solution Provider, programma Cloud Solution Provider, CSP, fornitore del pannello di controllo, CPV, autenticazione a più fattori, modello di applicazione sicura, sicurezza
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e58b17ccbde0cea2f6dfbf586b1e49c85da35a22
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 3d2656ad80cc66742ee432f3eaecb284da798b1c
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265176"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434120"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Domande frequenti sui requisiti di sicurezza per i partner
 

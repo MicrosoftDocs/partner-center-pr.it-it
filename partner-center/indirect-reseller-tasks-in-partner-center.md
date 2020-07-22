@@ -8,15 +8,14 @@ description: Informazioni su come i rivenditori indiretti possono collaborare co
 ms.prod: ''
 author: BillLinzbach
 ms.author: BillLi
-keywords: rivenditori indiretti, rivenditori, provider indiretti, provider, relazione, VAR, livello2, livello 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 79eda54e958acd2c83074c6b84bba85c87096a33
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 3ffc69804c90707f9e8691e56c64bc23e8c0daf5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377715"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434540"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informazioni per collaborare con provider indiretti nel programma Cloud Solution Provider
 
@@ -37,7 +36,7 @@ Provider indiretti diversi offrono supporto tecnico e servizi diversi. Valuta i 
 - Aiuta il rivenditore a commercializzare prodotti e servizi
 - Aiuta il rivenditore a stabilire le condizioni di finanziamento e credito
 
-Se non lavori ancora con un provider (indicato anche come distributore), puoi avviare una [ricerca nell'elenco dei provider ufficiali Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) per individuarne uno.
+Se non lavori ancora con un provider (noto anche come distributore), puoi avviare una [ricerca nell'elenco dei provider ufficiali Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) per individuarne uno.
 
 Per altre informazioni su ciò che è necessario per la vendita nel programma CSP come rivenditore indiretto, vedi [Iniziare come rivenditore indiretto](https://partner.microsoft.com/cloud-solution-provider/whats-required) nel [sito Web Microsoft Partner Network](https://partner.microsoft.com/).
 

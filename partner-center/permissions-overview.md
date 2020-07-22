@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Scopri quali sono i ruoli più adatti per gli utenti della tua azienda che gestiscono transazioni commerciali, segnalazioni, incentivi o adesioni MPN nel Centro per i partner.
 author: hemas
 ms.author: hemas
-keywords: ruoli, autorizzazioni, amministratore, agente
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f4ec3a1a14e6845f7b6079e286876d9bb1f3dd5
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c0e7aecd7d56e1919c7f142312a9090b8ff40bd3
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948592"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434320"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Assegnare ruoli utente e autorizzazioni per gli utenti di un'azienda che devono usare il Centro per i partner
 

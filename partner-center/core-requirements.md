@@ -1,21 +1,20 @@
 ---
 title: Requisiti di base delle attestazioni di cooperazione per gli incentivi
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 07/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Informazioni su come generare la domanda, comprendere lo sviluppo del mercato e aumentare la disponibilità dei partner per le attività del programma incentivi.
 author: kim-davis
 ms.author: kimnich
-keywords: attestazioni incentivi, attestazioni cooperazione, fondi cooperazione, requisiti di base
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 9ba2ea7a19309443f847322e847666e78ecf058b
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 3c17813ef9fec4ebdf9dee00a644d708c66dcfe5
+ms.sourcegitcommit: 3c28f795e0a2bd7e14e72bc5c0466b46f5e31527
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377615"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "86475546"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>Requisiti di base delle attestazioni cooperative per gli incentivi
 
@@ -77,4 +76,7 @@ Attività per le vendite interne e il personale tecnico del partner. Sono inclus
 
 
 
- Per i dettagli, scarica il [Manuale di cooperazione per gli incentivi per i partner](https://assets.microsoft.com/coop-guidebook.pdf) (sono richieste informazioni di accesso)
+ Per i dettagli, scarica il [Manuale di cooperazione per gli incentivi per i partner](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (sono richieste informazioni di accesso)
+
+
+

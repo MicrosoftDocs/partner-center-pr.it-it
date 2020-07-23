@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5853d3eedef07c63f9818f85f1695c2abf8a2baa
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3874d384aa1f4b932832d599f73bd601dc73fb07
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875267"
+ms.locfileid: "86943808"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>File di riconciliazione monouso e ricorrente nel centro per i partner
 
@@ -29,7 +29,7 @@ ms.locfileid: "86875267"
 - Agente amministratore
 - Agente di vendita
 
-In questo argomento viene illustrato come leggere i file di riconciliazione monouso e periodici nel centro per i partner.
+Questo articolo illustra come leggere i file di riconciliazione monouso e periodici nel centro per i partner.
 
 ## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>Campi in un file di riconciliazione monouso e ricorrente
 
@@ -46,16 +46,16 @@ In questo argomento viene illustrato come leggere i file di riconciliazione mono
 | OrderDate | Data in cui è stato inserito l'ordine. |
 | ProductId | Identificatore del prodotto. |
 | SkuId | Identificatore per un particolare SKU (unità di supporto). |
-| AvailabilityId | Identificatore della disponibilità di uno SKU specifico. Ciò indica se lo SKU è disponibile per l'acquisto in un determinato paese, valuta, segmento di settore e così via. |
+| AvailabilityId | Identificatore della disponibilità di uno SKU specifico. Questo campo indica se lo SKU è disponibile per l'acquisto in un determinato paese, valuta, segmento di settore e così via. |
 | SkuName | Titolo per uno SKU specifico. |
 | ProductName | Nome del prodotto. |
 | ChargeType | Tipo di addebito o rettifica. |
-| UnitPrice | Prezzo unitario pubblicato nell'elenco prezzi al momento dell'acquisto. *Assicurarsi che corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione.* |
-| Quantità | Numero di unità. *Assicurarsi che corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione.* |
-| SubTotal | Totale al lordo delle imposte. Controlla se il subtotale corrisponde al totale previsto, in caso di sconto. |
+| UnitPrice | Prezzo unitario pubblicato nell'elenco prezzi al momento dell'acquisto. *Assicurarsi che questo campo corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione.* |
+| Quantità | Numero di unità. *Assicurarsi che questo campo corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione.* |
+| SubTotal | Totale al lordo delle imposte. Controlla se il subtotale corrisponde al totale previsto, se è presente uno sconto. |
 | TaxTotal | Addebito IVA. In base alle regole fiscali e alle circostanze specifiche del mercato. |
 | Totale | Totale al netto delle imposte. Verifica se nella fattura sono addebitate imposte. |
-| Valuta | Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Assicurarsi che corrisponda alla prima fattura e controllare di nuovo dopo gli aggiornamenti principali della piattaforma di fatturazione. |
+| Valuta | Tipo di valuta. Ogni entità di fatturazione ha una sola valuta. Assicurarsi che questo campo corrisponda alla prima fattura e controllare di nuovo dopo gli aggiornamenti principali della piattaforma di fatturazione. |
 | PriceAdjustmentDescription | Spiegazione di qualsiasi sconto applicabile. |
 | PublisherName | Nome del server di pubblicazione del prodotto.
 | PublisherId | Identificatore univoco per un server di pubblicazione specifico. |
@@ -68,7 +68,7 @@ In questo argomento viene illustrato come leggere i file di riconciliazione mono
 | UnitType | Tipo di unità da acquistare. |
 | AlternateId | Identificatore alternativo a un **ID dell'ordine**. |
 | BillableQuantity | Rappresenta le unità totali acquistate o utilizzate. |
-| BillingFrequency | Descrive se l'elemento della riga è una frequenza di fatturazione mensile o una volta sola. *Questa operazione è attualmente supportata solo per Azure RI, con i valori supportati come mensili. Se il RI viene acquistato con una frequenza di fatturazione monouso, questo campo nel file di ricognizione verrà visualizzato come vuoto.* |
+| BillingFrequency | Descrive se l'elemento della riga è una frequenza di fatturazione mensile o una volta sola. *Questo campo è attualmente supportato solo per Azure RI, con i valori supportati come mensili. Se il RI viene acquistato con una frequenza di fatturazione monouso, questo campo nel file di ricognizione verrà visualizzato come vuoto.* |
 | PricingCurrency | Il prezzo di listino della risorsa o dell'offerta. |
 | PCToBCExchangeRate | Tasso di cambio applicato per la valuta di fatturazione ai prezzi. |
 | PCToBCExchangeRateDate | Data in cui viene determinata la valuta dei prezzi per la valuta di fatturazione. |

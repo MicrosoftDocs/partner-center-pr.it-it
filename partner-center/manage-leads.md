@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434370"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944478"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gestire lead diversi come richieste dei clienti, lead qualificati per il marketing e lead qualificati per le vendite
 
@@ -32,7 +32,7 @@ ms.locfileid: "86434370"
 
 Microsoft invia milioni di lead all'anno ai partner. Hai la possibilità di ricevere lead da Microsoft e di creare il tuo business. Questa sezione consente di comprendere come gestire i lead ricevuti dalla pagina del provider di soluzioni Microsoft e di agire su di essi.
 
-Il prerequisito per la ricezione dei lead è la [creazione di un profilo di business](https://docs.microsoft.com/partner-center/create-a-marketing-profile) per l'azienda. Il profilo business creato per l'azienda sarà utile per essere visibile a potenziali clienti, altri partner e venditori Microsoft nella pagina Web del [provider di soluzioni Microsoft](https://www.microsoft.com/solution-providers/home) . Le informazioni relative al profilo business vengono combinate con le informazioni sull'appartenenza dell'azienda, ad esempio i dati sulle competenze e le altre approvazioni di Microsoft che forniscono un profilo completo per i clienti quando cercano un partner da usare. Tutte le richieste originate dall'elenco dei profili nella pagina del provider di soluzioni Microsoft sono disponibili nella sezione **"Lead"** nella scheda **riferimenti** nel riquadro di spostamento a sinistra. 
+Il prerequisito per la ricezione dei lead è la [creazione di un profilo di business](create-a-marketing-profile.md) per l'azienda. Il profilo business creato per l'azienda sarà utile per essere visibile a potenziali clienti, altri partner e venditori Microsoft nella pagina Web del [provider di soluzioni Microsoft](https://www.microsoft.com/solution-providers/home) . Le informazioni relative al profilo business vengono combinate con le informazioni sull'appartenenza dell'azienda, ad esempio i dati sulle competenze e le altre approvazioni di Microsoft che forniscono un profilo completo per i clienti quando cercano un partner da usare. Tutte le richieste originate dall'elenco dei profili nella pagina provider di soluzioni Microsoft sono disponibili nella sezione **Lead** nella scheda **riferimenti** nel riquadro di spostamento a sinistra.
 
 ## <a name="types-of-leads"></a>Tipi di lead
 
@@ -85,9 +85,9 @@ Si tratta di una fase terminale in cui tutte le opportunità sono finalmente rag
 
 Ecco alcuni suggerimenti utili per ottenere i riferimenti più appropriati:
 
-- **Scegli parole chiave e preferenze che rappresentino la tua esperienza e il tuo modello di business specifici** nel tuo [profilo di business](https://docs.microsoft.com/partner-center/create-a-marketing-profile). Rimuovere le parole chiave che generano riferimenti a cui non si è interessati. Se non si è interessati a gestire le aziende di una determinata dimensione, aggiornare questa preferenza.
+- **Scegli parole chiave e preferenze che rappresentino la tua esperienza e il tuo modello di business specifici** nel tuo [profilo di business](create-a-marketing-profile.md). Rimuovere le parole chiave che generano riferimenti a cui non si è interessati. Se non si è interessati a gestire le aziende di una determinata dimensione, aggiornare questa preferenza.
 
-- **Esaminare le informazioni di contatto nel [profilo aziendale](https://docs.microsoft.com/partner-center/create-a-marketing-profile) per ogni località** Verificare che il team ottenga gli avvisi in ingresso.
+- **Esaminare le informazioni di contatto nel [profilo aziendale](create-a-marketing-profile.md) per ogni località** Verificare che il team ottenga gli avvisi in ingresso.
 
 - **Rispondi rapidamente ai riferimenti** Quando si risponde tempestivamente alle richieste in ingresso, la visibilità verrà aumentata nei prossimi risultati della ricerca dei clienti. Assicurati che il tuo team risponda velocemente indicando le intenzioni.
 

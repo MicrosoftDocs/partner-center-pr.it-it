@@ -1,19 +1,19 @@
 ---
 title: Preparare la prova di esecuzione
-description: Comprendere l'importanza della verifica dell'esecuzione (PoE), nonché le sequenze temporali, lo stato di visualizzazione e le linee guida per l'invio.
+description: Comprendere l'importanza della verifica dell'esecuzione (PoE), delle sequenze temporali, dello stato di visualizzazione e delle linee guida per l'invio.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 56210d460d3ca4f58b87a8ead8ed7161058aba78
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c036d11840cbec6d4fd390ac48e2ef4824eb2608
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949474"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114750"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Preparare la prova di esecuzione
 
@@ -21,7 +21,7 @@ Si applica a:
 
 - Centro per i partner
 
-Prima di essere pagati per il lavoro degli incentivi, è necessario inviare una prova di esecuzione (PoE) dettagliata. In questo argomento viene illustrato il processo di creazione di una prova efficace di esecuzione.
+Prima di essere pagati per il lavoro degli incentivi, è necessario inviare una prova di esecuzione (PoE) dettagliata. Questo articolo illustra il processo di creazione di una prova efficace di esecuzione.
 
 Ruoli appropriati:
 
@@ -42,7 +42,7 @@ Ruoli appropriati:
 6. Nella **pagina nuova prova di esecuzione**immettere i campi necessari.
 
    - **Nome**  Nome descrittivo per l'attestazione co-op.
-   - **Data di scadenza**  Data di esecuzione. Questo deve essere compreso tra la data di inizio della campagna e la data di fine della campagna.
+   - **Data di scadenza**  Data di esecuzione. Questa data deve essere compresa tra la data di inizio della campagna e la data di fine della campagna.
    - **Valore** di  Quantità di attestazione di co-op.
 
 7. Selezionare **Salva**.
@@ -50,7 +50,7 @@ Ruoli appropriati:
 8. Nella pagina **nuova richiesta di conferma dell'esecuzione** immettere i campi necessari.
 
    - **Nome**  Nome descrittivo per l'attestazione co-op.
-   - **Data di scadenza**  Data di esecuzione. Questo deve essere compreso tra la data di inizio della campagna e la data di fine della campagna.
+   - **Data di scadenza**  Data di esecuzione. Questa data deve essere compresa tra la data di inizio della campagna e la data di fine della campagna.
    - **Impressioni stimate**   Il raggiungimento stimato di questa attività; numero di persone.
    - **ID pre-approvazione**   Questo è l'ID che Microsoft invia dopo aver approvato i materiali di marketing.
 
@@ -60,7 +60,7 @@ Ruoli appropriati:
     - **Fattura di terze parti**  Nel campo **fattura di terze parti** selezionare **trascina o Sfoglia file da caricare**. Aggiungere la fattura e i dettagli della fattura richiesti, quindi selezionare **Salva**.
     - **Report del servizio di certificazione**  Selezionare **Aggiungi report servizio di certificazione**. Nella pagina **genera un report del servizio di certificazione** completare i campi necessari e quindi selezionare **Salva**.
 
-11. Se lo si desidera, è anche possibile caricare **documenti di prova** . Nel campo **documenti di prova** selezionare **trascina o Sfoglia file da caricare**. Tenere presente che se si seleziona Documenti di prova, è necessario aggiungere note esplicative. Dopo aver aggiunto una nota, selezionare **Salva**.
+11. Se lo si desidera, è anche possibile caricare **documenti di prova** . Nel campo **documenti di prova** selezionare **trascina o Sfoglia file da caricare**. Se si seleziona documenti di prova, è necessario aggiungere note esplicative. Dopo aver aggiunto una nota, selezionare **Salva**.
 
 12. Immettere i commenti finali prima di inviare il POE, quindi selezionare **Invia attestazione**.
 

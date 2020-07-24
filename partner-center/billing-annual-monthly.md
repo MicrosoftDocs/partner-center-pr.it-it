@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 056607725875b916298251cad2015069a43c4fba
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 7a45b3033c448255d5508e7b7abb7a29c1c0a9e9
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875197"
+ms.locfileid: "86943538"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Comprendere la differenza tra fatturazione mensile e annuale nel centro per i partner
 
@@ -32,13 +32,13 @@ ms.locfileid: "86875197"
 - Agente di supporto tecnico
 - Agente di vendita
 
-In questo argomento vengono illustrate le differenze tra la **fatturazione mensile** e la **fatturazione annuale** nel centro per i partner, inclusi i vantaggi e i casi d'uso. È possibile pagare per determinate sottoscrizioni Cloud Solution Provider (CSP) su base mensile o annuale.
+Questo articolo illustra le differenze tra la **fatturazione mensile** e la **fatturazione annuale** nel centro per i partner, inclusi i vantaggi e i casi d'uso. È possibile pagare per determinate sottoscrizioni Cloud Solution Provider (CSP) su base mensile o annuale.
 
 ## <a name="applicability"></a>Applicabilità
 
 Per la maggior parte delle sottoscrizioni basate su licenza è possibile utilizzare l'opzione di fatturazione mensile o annuale. Gli abbonamenti basati su utilizzo hanno solo l'opzione di fatturazione mensile.
 
-La fatturazione annuale e mensile è **per sottoscrizione**, ** *non* per licenza**.
+La fatturazione annuale e mensile è **per sottoscrizione**, ** _non_ per licenza**.
 
 ### <a name="find-subscription-applicability"></a>Trova applicabilità della sottoscrizione
 
@@ -64,7 +64,7 @@ Il cambio dalla fatturazione mensile alla fatturazione annuale può essere utile
 
 ### <a name="annual-to-monthly-billing"></a>Fatturazione da annuale a mensile
 
-Il cambio da fatturazione annuale a fatturazione mensile può essere utile se si desidera modificare le date di fatturazione per i singoli clienti.
+Il trasferimento dalla fatturazione annuale alla fatturazione mensile può essere utile se si desidera modificare le date di fatturazione in base alle date dei singoli clienti.
 
 ## <a name="annual-billing"></a>Fatturazione annuale
 
@@ -77,7 +77,7 @@ La fatturazione annuale offre i vantaggi seguenti:
 
 ### <a name="configure-annual-billing"></a>Configurare la fatturazione annuale
 
-Se si prevede di passare alla fatturazione annuale nel centro per i partner, assicurarsi di prendere in considerazione il modo in cui verrà influenzato il movimento delle vendite. Informare il team e aggiornare i processi interni in modo necessario. È inoltre consigliabile esaminare le modifiche apportate alla fattura e al file di riconciliazione basato sulle licenze. 
+Se si prevede di passare alla fatturazione annuale nel centro per i partner, assicurarsi di prendere in considerazione il modo in cui verrà influenzato il movimento delle vendite. Informare il team e aggiornare i processi interni in modo necessario. È inoltre consigliabile esaminare le modifiche apportate alla fattura e al file di riconciliazione basato sulle licenze.
 
 Sarà anche necessario [aggiornare le API per la fatturazione annuale](#required-api-changes).
 
@@ -100,7 +100,7 @@ Quando si aggiunge una nuova sottoscrizione, verrà richiesto di scegliere la fr
 
 ### <a name="billing-time"></a>Tempo di fatturazione
 
-Ti verrà addebitato il costo della prossima data di fatturazione. Se, ad esempio, la data di fatturazione è il 1 ° del mese e si acquista una sottoscrizione fatturata annualmente il 29 ottobre 2019, verrà addebitato il 1 ° novembre 2019. Supponendo che non vengano apportate modifiche alle licenze, l'addebito verrà addebitato il 1 ° novembre 2020. Se si effettua una modifica della licenza, si riceverà un credito e si effettuerà una fatturazione per la data di fatturazione successiva.
+Ti verrà addebitato il costo della prossima data di fatturazione. Se, ad esempio, la data di fatturazione è il 1 ° del mese e si acquista una sottoscrizione fatturata annualmente il 29 ottobre 2019, verrà addebitato il 1 ° novembre 2019. Supponendo che non vengano apportate modifiche alle licenze, l'addebito verrà addebitato il 1 ° novembre 2020. Se si effettua una modifica della licenza, si riceverà un credito e la fatturazione verrà addebitata alla data di fatturazione successiva.
 
 ### <a name="annual-renewals"></a>Rinnovi annuali
 
@@ -112,11 +112,11 @@ La fattura verrà emessa alla data di fatturazione successiva alla data di rinno
 
 Non è possibile suddividere una **singola sottoscrizione** in modo che una parte venga fatturata mensilmente e l'altra venga fatturata ogni anno. L'intera sottoscrizione deve avere la stessa frequenza di fatturazione (fatturazione mensile o annuale).
 
-Per i clienti con **più sottoscrizioni** della stessa offerta, potrebbe essere possibile avere frequenze di fatturazione diverse per ogni sottoscrizione. Alcune offerte sono limitate a un abbonamento per cliente. Se l'offerta non è limitata, un cliente può avere più abbonamenti della stessa offerta con frequenze di fatturazione diverse. Puoi trovare i dettagli di tutti i limiti e le restrizioni delle offerte nella colonna I della matrice dell'offerta. È possibile trovare la matrice di offerte nella sezione **vedere le offerte e i prezzi** del centro per i partner.
+Per i clienti con **più sottoscrizioni** della stessa offerta, potrebbe essere possibile avere frequenze di fatturazione diverse per ogni sottoscrizione. Sono disponibili alcune offerte limitate a una sottoscrizione per cliente. Se l'offerta non è limitata, un cliente può avere più abbonamenti della stessa offerta con frequenze di fatturazione diverse. Puoi trovare i dettagli di tutti i limiti e le restrizioni delle offerte nella colonna I della matrice dell'offerta. È possibile trovare la matrice di offerte nella sezione **vedere le offerte e i prezzi** del centro per i partner.
 
 ### <a name="free-subscription-period"></a>Periodo di sottoscrizione gratuito
 
-Le sottoscrizioni con frequenza di fatturazione annuale non ricevono un periodo gratuito. Il termine a pagamento di dodici mesi inizia alla data di acquisto. Questi abbonamenti sono diversi da quelli con fatturazione mensile che invece prevedono un periodo gratuito a partire dalla data di acquisto fino alla successiva data di fatturazione.
+Le sottoscrizioni con frequenza di fatturazione annuale non ricevono un periodo gratuito. Il termine a pagamento di dodici mesi inizia alla data di acquisto. A differenza delle sottoscrizioni con frequenza di fatturazione mensile che ricevono un periodo di tempo libero dalla data di acquisto alla data di fatturazione successiva.
 
 ### <a name="adding-and-removing-licenses"></a>Aggiunta e rimozione di licenze
 
@@ -134,11 +134,11 @@ L'abbonamento per un componente aggiuntivo avrà automaticamente la stessa frequ
 
 I criteri di annullamento sono identici per tutte le frequenze di fatturazione.
 
-Per la fatturazione annuale, se la sottoscrizione viene annullata nei primi 30 giorni del periodo a pagamento di dodici mesi, si riceverà un credito del 100% sulla data di fatturazione successiva. Se la sottoscrizione viene annullata dopo 30 giorni dalla scadenza a pagamento di dodici mesi, si riceverà un credito ricorsivo alla data di fatturazione successiva.
+Per la fatturazione annuale, se la sottoscrizione viene annullata nei primi 30 giorni del periodo a pagamento di dodici mesi, si riceverà un credito del 100% sulla data di fatturazione successiva. Se la sottoscrizione viene annullata dopo 30 giorni del periodo di pagamento di dodici mesi, si riceverà un credito ricorsivo per la data di fatturazione successiva.
 
 ### <a name="moving-subscriptions-between-partners"></a>Trasferimento di sottoscrizioni tra partner
 
-I clienti non possono spostare le sottoscrizioni tra un partner e l'altro. Questo si applica a entrambi i tipi di abbonamenti fatturati mensilmente e annualmente.
+I clienti non possono spostare le sottoscrizioni tra un partner e l'altro. Questa restrizione si applica alle sottoscrizioni mensili e fatturate annualmente.
 
 Il nuovo partner deve acquistare una nuova sottoscrizione per conto del cliente. Non è possibile spostare le sottoscrizioni tra partner.
 
@@ -152,7 +152,7 @@ Il nuovo partner deve acquistare una nuova sottoscrizione per conto del cliente.
 
 Il prezzo dell'offerta al momento dell'acquisto è garantito per il periodo di validità della sottoscrizione fatturato (un mese per la fatturazione mensile, 12 mesi per la fatturazione annuale). Quando un abbonamento viene rinnovato, il prezzo viene reimpostato in base al listino prezzi corrente alla data di rinnovo. Il nuovo prezzo è garantito per il periodo di validità della sottoscrizione successivo.
 
-Se il prezzo di un'offerta diminuisce durante il periodo di fatturazione, l'importo addebitato non viene modificato. Il prezzo viene impostato per il periodo di fatturazione completo al momento dell'acquisto. Questo vale per la fatturazione mensile e annuale.
+Se il prezzo di un'offerta diminuisce durante il periodo di fatturazione, l'importo addebitato non viene modificato. Il prezzo viene impostato per il periodo di fatturazione completo al momento dell'acquisto. Questa convenzione è valida per la fatturazione mensile e annuale.
 
 ### <a name="cancellation-credits"></a>Crediti di annullamento
 
@@ -176,7 +176,7 @@ Quando si acquista o si rinnova una sottoscrizione con fatturazione annuale, il 
 
 - Se non viene apportata alcuna modifica alla sottoscrizione, non saranno presenti righe nei file di riconciliazione per i mesi da 2 a 12 del periodo di validità della sottoscrizione. Se viene apportata una modifica alla sottoscrizione durante il periodo di dodici mesi, dopo aver apportato la modifica verrà visualizzato un accredito e una fatturazione rivalutata nel successivo file di riconciliazione.
 
-- Quando la sottoscrizione viene rinnovata, verrà visualizzata la successiva modifica al file di riconciliazione. alla prima data di fatturazione dopo il rinnovo.
+- Quando la sottoscrizione viene rinnovata, verrà visualizzata la successiva modifica al file di riconciliazione. La modifica verrà visualizzata alla prima data di fatturazione dopo il rinnovo.
 
 ### <a name="usage-file-changes-for-annual-billing"></a>Modifiche dei file di utilizzo per la fatturazione annuale
 
@@ -194,7 +194,7 @@ Se l'annullamento viene eseguito nei primi 30 giorni del periodo di dodici mesi,
 
 ### <a name="adding-licenses-to-annual-subscription"></a>Aggiunta di licenze alla sottoscrizione annuale
 
-Quando si aggiungono licenze a una sottoscrizione, il file di riconciliazione conterrà un credito e una fatturazione rivalutata. Si applica alle sottoscrizioni mensili e annuali fatturate.
+Quando si aggiungono licenze a una sottoscrizione, il file di riconciliazione conterrà un credito e una fatturazione rivalutata. Questa convenzione si applica alle sottoscrizioni mensili e annuali fatturate.
 
 ### <a name="price-lists-for-annual-billing"></a>Elenchi prezzi per la fatturazione annuale
 
@@ -224,7 +224,7 @@ I partner ottengono incentivi per tutte le transazioni idonee, indipendentemente
 
 Per domande sugli incentivi, contattare il team di supporto tecnico per gli incentivi regionali appropriato:
 
-| Region | Indirizzo di posta elettronica |
+| Area | Indirizzo di posta elettronica |
 | ------ | ------------- |
 | America del Nord | <ocina@microsoft.com> |
 |America Latina & Brasile | <ocilatam@microsoft.com> |

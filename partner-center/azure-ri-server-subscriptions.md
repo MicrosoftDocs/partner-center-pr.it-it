@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b804c76428b0d1f699874b48f7a884161aebcdd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 408f0e59bb1d6da7caebdcf323ebcd242c49af97
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435710"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943948"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Acquisire, effettuare il provisioning, & gestire le istanze di VM riservate di Azure e le sottoscrizioni server per i clienti
 
@@ -103,7 +103,7 @@ Di seguito è riportato un elenco completo delle risorse che consentono di esegu
 - [Domande frequenti sui partner per le prenotazioni di Azure e il database SQL](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [CAL (Client Access License) Servizi Desktop remoto (RDS) (annuncio)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 - [Istanze di VM riservate di Azure (portale di Azure)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [Sottoscrizioni server](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [Sottoscrizioni server](csp-software-subscriptions.md)
 - [Panoramica di database SQL in Azure](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Prenotazioni database SQL (portale di Azure)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
 - [Azure Cosmos DB (portale di Azure)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)

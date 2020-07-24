@@ -4,16 +4,16 @@ description: Informazioni sui processi e le sequenze temporali importanti per la
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.topic: article
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 97871089ad7614be47a65bb41dfb8dc4f871b54b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949505"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114787"
 ---
 # <a name="manage-customer-associations"></a>Gestire le associazioni del cliente
 
@@ -81,17 +81,17 @@ Se sono trascorsi 30 giorni e si vuole comunque disputare un'attestazione rifiut
 2. Aprire l'attestazione che si desidera disputare.
 3. Nella pagina attestazione selezionare **contenzioso**.
 4. Immettere una giustificazione aziendale e/o un PoE aggiornato per spiegare il motivo per cui deve essere ripreso in considerazione il rifiuto.
-5. Al termine dell'aggiunta delle informazioni, selezionare **contenzioso**. I revisori dovranno contattare l'utente con i risultati entro 5 giorni lavorativi.
+5. Al termine dell'aggiunta delle informazioni, selezionare **Contesta**. I revisori dovranno contattare l'utente con i risultati entro cinque giorni lavorativi.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Motivi per cui un'attestazione di associazione CPOR viene rifiutata
 
 Esistono tre motivi principali per cui un'attestazione di associazione CPOR viene rifiutata.
 
-**Richiesta partner:** I partner possono richiedere che l'associazione sia stata rifiutata. Questa operazione viene usata principalmente quando il partner ha creato un'attestazione di associazione CPOR per errore usando un MPN errato, ha scelto un'attività non corretta (ad esempio... È stata scelta l'associazione di ricavi anziché le vendite preliminari oppure non è più possibile utilizzare il cliente.
+**Richiesta partner:** I partner possono richiedere che l'associazione sia stata rifiutata. Questa logica viene usata principalmente quando il partner ha creato un'attestazione di associazione CPOR per errore usando un MPN errato, scelto un'attività non corretta (ad esempio... È stata scelta l'associazione di ricavi anziché le vendite preliminari oppure non è più possibile utilizzare il cliente.
 
 **Rifiuto del cliente:** Una volta che l'attestazione di associazione CPOR è stata eseguita correttamente, il processo di approvazione di PoE è stato modificato in approved, mentre al cliente viene offerta la possibilità di negare il consenso dell'associazione. Se il cliente nega il consenso, l'associazione verrà rifiutata.
 
-**Prova di esecuzione insufficiente:** La prova di esecuzione è obbligatoria per ogni associazione di CPOR. Una volta inviata l'attestazione di associazione CPOR, i revisori di Microsoft richiederanno fino a 5 giorni per esaminare il PoE e richiedere eventuali informazioni aggiuntive necessarie usando la sezione dei commenti nell'attestazione. Se le informazioni non sono sufficienti, l'attestazione dell'associazione CPOR verrà rifiutata.
+**Prova di esecuzione insufficiente:** La prova di esecuzione è obbligatoria per ogni associazione di CPOR. Una volta inviata l'attestazione di associazione CPOR, i revisori Microsoft richiederanno fino a cinque giorni per esaminare il PoE e richiedere eventuali informazioni aggiuntive necessarie usando la sezione dei commenti nell'attestazione. Se le informazioni non sono sufficienti, l'attestazione dell'associazione CPOR verrà rifiutata.
 
 Altri possibili motivi per il rifiuto:
 
@@ -113,7 +113,7 @@ Campi che è possibile modificare:
 
 ## <a name="customer-consent-notification"></a>Notifica di consenso del cliente
 
-Una volta approvata l'attestazione di associazione CPOR, viene inviata una notifica al cliente che offre la possibilità di negare l'associazione. Il cliente avrà quindi 7 giorni per rifiutare esplicitamente. Lo stato di questo periodo viene visualizzato come approvato. Se il cliente nega il consenso, l'associazione verrà rifiutata. Una volta trascorso il periodo di consenso e il cliente non ha negato il consenso, l'attestazione verrà inviata per valutare l'idoneità per i programmi incentive.
+Una volta approvata l'attestazione di associazione CPOR, viene inviata una notifica al cliente che offre la possibilità di negare l'associazione. Il cliente avrà quindi sette giorni per rifiutare esplicitamente. Lo stato di questo periodo viene visualizzato come approvato. Se il cliente nega il consenso, l'associazione verrà rifiutata. Una volta trascorso il periodo di consenso e il cliente non ha negato il consenso, l'attestazione verrà inviata per valutare l'idoneità per i programmi incentive.
 
 ## <a name="how-to-communicate-with-poe-reviewers"></a>Come comunicare con i revisori PoE
 

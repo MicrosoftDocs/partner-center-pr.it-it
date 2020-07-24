@@ -5,15 +5,15 @@ ms.date: 06/12/2020
 description: Informazioni sul processo di attestazione di co-op, tra cui scadenze, tempi di pagamento e verifica dell'esecuzione (PoE).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 3796a22dc2239394672b7991f78eeafe487da032
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 0beb65febee607af403f04d69650018b471a3fde
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875237"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114820"
 ---
 # <a name="co-op-claims-plans-and-poes"></a>Attestazioni co-op, piani e PoEs
 
@@ -86,7 +86,7 @@ Per ulteriori informazioni sui piani per il programma incentive specifico, veder
 
 3. Nella pagina **programma** individuare il mercato appropriato per il piano e quindi selezionare **crea piano**.
 
-4. Nella pagina **nuovo piano** completare i campi necessari. **Currency** è il valore che si desidera venga riflesso dal piano. La **posta elettronica del revisore** deve essere l'indirizzo di posta elettronica Microsoft dell'account Manager. Si noti che è possibile creare un solo piano per ogni fondo, programma, periodo e ID MPN. Seleziona **Salva**.
+4. Nella pagina **nuovo piano** completare i campi necessari. **Currency** è il valore che si desidera venga riflesso dal piano. La **posta elettronica del revisore** deve essere l'indirizzo di posta elettronica Microsoft dell'account Manager. Si noti che è possibile creare un solo piano per ogni fondo, programma, periodo e ID MPN. Selezionare **Salva**.
 
 5. Nella pagina di stato del piano, esaminare le informazioni visualizzate. Selezionare **Modifica** per aggiornare le informazioni.
 
@@ -159,7 +159,7 @@ Il team di convalida delle attestazioni co-op esaminerà l’attestazione entro 
     - **Data di scadenza**  Data di esecuzione. Questo deve essere compreso tra la data di inizio della campagna e la data di fine della campagna.
     - **Valore** di  Quantità di attestazione di co-op.
 
-7. Seleziona **Salva**.
+7. Selezionare **Salva**.
 
 8. Nella pagina **nuova richiesta di conferma dell'esecuzione** immettere i campi necessari.
 

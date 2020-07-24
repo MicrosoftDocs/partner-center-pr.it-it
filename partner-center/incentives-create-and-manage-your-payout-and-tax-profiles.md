@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: Prima di poter pagare il lavoro per gli incentivi, è necessario creare i profili di pagamento e di imposta.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 02212a09ab18ff5b978107af00ac990aa0c702a3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ed8820065c8c009e64419e58fa11758a27f95d7e
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949686"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114092"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Profili di pagamento e fiscali nel centro per i partner
 

@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010e647be83ea07eb77a52e80682d582aad52df1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436470"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944498"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto
 
@@ -27,7 +27,7 @@ ms.locfileid: "86436470"
 
 Sarà possibile eseguire la registrazione al programma indirect Reseller usando il tenant di fatturazione diretta esistente.
 
-## <a name="get-started"></a>Inizia
+## <a name="get-started"></a>Introduzione
 
 1. Verificare che il profilo partner nel centro per i partner e l'ID MPN siano aggiornati.
 
@@ -204,7 +204,7 @@ Il provider indiretto non può inviare ordini per i clienti con fatturazione dir
 
 ### <a name="microsoft-customer-agreement-acceptance"></a>Accettazione del contratto clienti Microsoft
 
-Microsoft Cloud contratto è valido fino al 31 gennaio 2020. Dopo tale data, tutti i clienti, esistenti e nuovi, devono firmare il nuovo contratto per i clienti [Microsoft](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Per la transizione dei clienti, se:
+Microsoft Cloud contratto è valido fino al 31 gennaio 2020. Dopo tale data, tutti i clienti, esistenti e nuovi, devono firmare il nuovo contratto per i clienti [Microsoft](confirm-customer-agreement.md). Per la transizione dei clienti, se:
 
 - **Il cliente non ha ancora accettato il contratto cliente Microsoft**
 
@@ -347,7 +347,7 @@ Il partner di transizione deve eseguire le operazioni seguenti:
 
 - **Le modifiche del numero di postazioni a una sottoscrizione non verranno riflesse nella richiesta di trasferimento esistente.** Dopo aver creato una richiesta di trasferimento che include una sottoscrizione esistente, è consigliabile evitare di aggiornare la quantità di postazione della sottoscrizione (o i relativi addons). In tal caso, la nuova quantità non verrà riflessa nella richiesta di trasferimento. Quando il provider indiretto accetta la richiesta di trasferimento, la sottoscrizione risultante avrà la quantità precedente. Se si desidera trasferire la nuova quantità al provider indiretto, è necessario annullare la richiesta di trasferimento esistente e ricrearne una nuova.
 
-- **Non tutti gli acquisti possono essere trasferiti tramite il trasferimento di sottoscrizioni autogestite.** Attualmente è possibile trasferire solo le sottoscrizioni O365 e le sottoscrizioni di Azure PAYG (MS-AZR-0145P) usando questa funzionalità. Non sono supportati altri acquisti, inclusi i piani di Azure, le istanze riservate di Azure, le sottoscrizioni basate su termini e le sottoscrizioni SaaS per Azure Marketplace. Verrà visualizzato un motivo per cui non è possibile trasferire una sottoscrizione nella pagina Invia richiesta di trasferimento. Per trasferire queste sottoscrizioni, sarà necessario [annullare la sottoscrizione esistente](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription) e acquistare la nuova offerta per il cliente tramite il provider indiretto.
+- **Non tutti gli acquisti possono essere trasferiti tramite il trasferimento di sottoscrizioni autogestite.** Attualmente è possibile trasferire solo le sottoscrizioni O365 e le sottoscrizioni di Azure PAYG (MS-AZR-0145P) usando questa funzionalità. Non sono supportati altri acquisti, inclusi i piani di Azure, le istanze riservate di Azure, le sottoscrizioni basate su termini e le sottoscrizioni SaaS per Azure Marketplace. Verrà visualizzato un motivo per cui non è possibile trasferire una sottoscrizione nella pagina Invia richiesta di trasferimento. Per trasferire queste sottoscrizioni, sarà necessario [annullare la sottoscrizione esistente](create-a-new-subscription.md#suspend-or-cancel-a-subscription) e acquistare la nuova offerta per il cliente tramite il provider indiretto.
 
 - **Non è possibile eseguire il test con l'ambiente sandbox.**
 

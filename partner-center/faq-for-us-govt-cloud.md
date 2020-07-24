@@ -8,12 +8,12 @@ description: Vedere le risposte alle domande frequenti sul programma Cloud Solut
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: 0971753d47eb86882167b5dcfe922e4810ae4c9d
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: b35d178b17f6541f2ad3ec45190aff1c09e6dda6
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390538"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943908"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Domande frequenti sul centro per i partner per Microsoft Cloud per il governo degli Stati Uniti
 
@@ -165,7 +165,7 @@ I requisiti relativi alle API e di integrazione per il programma CSP per Microso
 
 **Esiste una soluzione alternativa per le API non disponibili nel programma CSP per Microsoft Cloud per il governo statunitense?**
 
-Per gestire gli account utente partner è possibile usare il portale di Azure, Azure AD PowerShell o l'API Graph. Per altre informazioni tecniche, vedi [Sviluppare con il Centro per i partner per il cloud per enti pubblici](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud).
+I partner possono usare la portale di Azure, Azure AD PowerShell o la API Graph per la gestione degli account utente del partner. Per altre informazioni tecniche, vedi [Sviluppare con il Centro per i partner per il cloud per enti pubblici](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud).
 
 **Altre informazioni**
 

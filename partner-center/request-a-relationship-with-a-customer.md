@@ -8,12 +8,12 @@ description: Richiedere una relazione con un cliente per scenari multicanale e m
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949243"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943718"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Come richiedere una relazione di rivenditore da un cliente nel Centro per i partner
 
@@ -26,7 +26,7 @@ Se si desidera gestire il servizio o la sottoscrizione di un cliente per loro co
 Se si desidera stabilire una relazione del rivenditore con un cliente e gestire solo le sottoscrizioni di Azure di cui si esegue il provisioning, non è necessario ottenere le autorizzazioni di amministratore.
 
 >[!NOTE] 
->L'opzione per non richiedere autorizzazioni non è disponibile per i partner che operano in Microsoft Cloud per il governo degli Stati Uniti o per Microsoft Cloud Germania. Per altre informazioni, vedere [i clienti che delegano i privilegi di amministrazione ai partner](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
+>L'opzione per non richiedere autorizzazioni non è disponibile per i partner che operano in Microsoft Cloud per il governo degli Stati Uniti o per Microsoft Cloud Germania. Per altre informazioni, vedere [i clienti che delegano i privilegi di amministrazione ai partner](customers-revoke-admin-privileges.md).
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire con l'utente una relazione come rivenditore
 

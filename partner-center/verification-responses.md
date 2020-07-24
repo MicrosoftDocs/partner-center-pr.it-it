@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b3a82e53c4947cdfd761fd2a9e0d998ca0d5c3a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436440"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943818"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verificare le informazioni sull'account quando si esegue la registrazione in un nuovo programma del centro per i partner
 
@@ -39,7 +39,7 @@ Per il programma CSP, passare a [Questa pagina](https://partner.microsoft.com/pc
 |Business   |La verifica aziendale conferma che la società di registrazione è un'entità aziendale legittima e l'indirizzo usato per la registrazione.|Se la verifica aziendale ha esito negativo, al contatto principale (in genere l'amministratore globale o dell'account) verrà richiesto di fornire la documentazione ufficiale, ad esempio la registrazione di un'azienda o un certificato di registrazione fiscale o una ricevuta, dal paese principale della società o dal comune che conferma che l'azienda è autorizzata a eseguire le attività con il nome dell'entità e si trova nell'indirizzo di registrazione [Creare un ticket di supporto](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
->Scopri come aggiornare il tuo [profilo aziendale legale (indirizzo)](https://docs.microsoft.com/partner-center/update-your-partner-profile).
+>Scopri come aggiornare il tuo [profilo aziendale legale (indirizzo)](update-your-partner-profile.md).
 
 ## <a name="when-verification-concludes"></a>Alla conclusione della verifica
 

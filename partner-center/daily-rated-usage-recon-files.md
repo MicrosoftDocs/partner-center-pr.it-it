@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bdb8e392761d02909ebca21c38d2f04a9dfeb60d
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377415"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943458"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Informazioni su come leggere i file di riconciliazione dell'utilizzo con classificazione giornaliera nel centro per i partner
 
@@ -28,7 +28,7 @@ ms.locfileid: "86377415"
 - Agente di vendita
 - Agente di supporto tecnico
 
-In questo argomento viene illustrato come leggere i file di riconciliazione dell'utilizzo con classificazione giornaliera.
+Questo articolo illustra come leggere i file di riconciliazione dell'utilizzo con classificazione giornaliera.
 
 >[!NOTE]
 >L'utilizzo giornaliero con classificazione giornaliera richiede 24 ore per essere visualizzato nel centro per i partner o accessibile tramite l'API.
@@ -40,7 +40,7 @@ In questo argomento viene illustrato come leggere i file di riconciliazione dell
 | PartnerId | Identificatore partner in formato GUID. |
 | PartnerName | Nome partner. |
 | CustomerId | Identificatore Microsoft univoco per il cliente in formato GUID. |
-| CustomerName | Nome dell'organizzazione del cliente come indicato nel Centro per i partner. *Questa colonna è molto importante per riconciliare la fattura con le informazioni del sistema.* |
+| CustomerName | Nome dell'organizzazione del cliente come indicato nel Centro per i partner. *Questa colonna è importante per riconciliare la fattura con le informazioni del sistema.* |
 | CustomerDomainName | Nome di dominio del cliente. |
 | CustomerCountry | Paese in cui si trova il cliente. |
 | MpnId | Identificatore MPN del partner CSP. |
@@ -48,12 +48,12 @@ In questo argomento viene illustrato come leggere i file di riconciliazione dell
 | InvoiceNumber | Numero di fattura in cui è presente la transazione specificata. |
 | ProductId | Identificatore del prodotto. |
 | SkuId | Identificatore per un particolare SKU. |
-| AvailabilityId | Identificatore della disponibilità di uno SKU specifico. Ciò indica se lo SKU è disponibile per l'acquisto in un determinato paese, valuta, segmento di settore e così via. |
+| AvailabilityId | Identificatore della disponibilità di uno SKU specifico. In questa colonna viene indicato se lo SKU è disponibile per l'acquisto in un determinato paese, valuta, segmento di settore e così via. |
 | SkuName | Titolo per uno SKU specifico. |
 | ProductName | Nome del prodotto. |
 | PublisherName | Nome del server di pubblicazione. |
 | PublisherId | Identificatore del server di pubblicazione in formato GUID. |
-| SubscriptionDescription | Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. Si tratta di un campo identico a **offername**. |
+| SubscriptionDescription | Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. Questa colonna è un campo identico a **offername**. |
 | SubscriptionId | Identificatore univoco per una sottoscrizione nella piattaforma di fatturazione Microsoft. Non utilizzato per la riconciliazione. *Questo identificatore non corrisponde all' **ID sottoscrizione** nella console di amministrazione partner.* |
 | ChargeStartDate | Data di inizio del ciclo di fatturazione (eccetto quando si presentano date di dati di utilizzo latenti precedentemente non addebitati dal ciclo di fatturazione precedente). L'ora è sempre l'inizio del giorno, 0:00. |
 | ChargeEndDate | Data di fine del ciclo di fatturazione (tranne quando si presentano date di dati di utilizzo latenti precedentemente non addebitati dal ciclo di fatturazione precedente). L'ora indicata è sempre la fine della giornata, le 23:59. |
@@ -63,7 +63,7 @@ In questo argomento viene illustrato come leggere i file di riconciliazione dell
 | MeterId | Identificatore del contatore utilizzato. |
 | MeterSubCategory | Tipo di servizio di Azure, che può influire sulla frequenza. |
 | MeterName | Unità di misura per il contatore utilizzato. |
-| MeterRegion | Questa colonna identifica la posizione del data center nell'area geografica dei servizi dove applicabile e popolato. |
+| MeterRegion | Questa colonna identifica la posizione di un data center all'interno dell'area per i servizi in cui MeterRegion è applicabile e popolato. |
 | Unità | Unità del **nome**della risorsa. |
 | ResourceLocation | Il data center in cui è in esecuzione il contatore. |
 | ConsumedService | Il servizio della piattaforma Azure che è stato utilizzato. |
@@ -75,13 +75,13 @@ In questo argomento viene illustrato come leggere i file di riconciliazione dell
 | UnitType | Tipo di unità in cui viene addebitato il contatore.  |
 | BillingPreTaxTotal | Importo totale della fatturazione prima delle imposte. |
 | BillingCurrency | Valuta nell'area geografica del cliente. |
-| PricingPreTaxTotal | I prezzi prima dell'aggiunta delle imposte. |
+| PricingPreTaxTotal | I prezzi, prima che vengano aggiunte le imposte. |
 | PricingCurrency | La valuta usata nell'elenco prezzi. |
-| ServiceInfo1 | Numero di connessioni del bus di servizio di cui è stato effettuato il provisioning e utilizzate in un determinato giorno. |
+| ServiceInfo1 | Numero di connessioni del bus di servizio di cui è stato effettuato il provisioning e che sono state usate in un determinato giorno. |
 | ServiceInfo2 | Campo legacy che acquisisce i metadati facoltativi specifici del servizio. |
 | Tag | Rappresenta un'organizzazione logica delle risorse di Azure impostate dall'utente. |
 | AdditionalInfo | Eventuali informazioni aggiuntive non incluse in altre colonne. |
-| EffectiveUnitPrice | Il valore effettivo addebitato per unità, inclusi eventuali sconti, crediti ottenuti e così via. |
+| EffectiveUnitPrice | Il valore effettivo addebitato per unità, inclusi gli sconti, il credito guadagnato e così via. |
 | PCToBCExchangeRate | Tasso di cambio applicato per la valuta di fatturazione ai prezzi. |
 | PCToBCExchangeRateDate | Data in cui viene determinata la valuta dei prezzi per la valuta di fatturazione. |
 | EntitlementId | Rappresenta l'ID sottoscrizione di Azure. |

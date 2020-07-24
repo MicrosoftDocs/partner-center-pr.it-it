@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4078bbbc264ec48343deb69d93bedbf75de6d364
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436540"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943688"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Servizi di pianificazione Software Assurance nel Centro per i partner
 
@@ -25,7 +25,7 @@ ms.locfileid: "86436540"
 
 In qualità di partner di servizi di pianificazione approvato, Microsoft compensa l'utente per fornire impegni di pianificazione pre-distribuzione per i clienti aziendali. La partecipazione a questo programma può essere utile per attirare più clienti, diventare partner di pianificazione attendibile e raggiungere ulteriori impegni con i clienti.
 
-## <a name="get-started"></a>Inizia
+## <a name="get-started"></a>Introduzione
 
 Se non si ha familiarità con Software Assurance Planning Services, attenersi alla procedura riportata di seguito. Se è già attivo nei programmi di Planning Services, iniziare ogni nuovo impegno al passaggio 4 (4) riportato di seguito.
 
@@ -68,7 +68,7 @@ Assicurarsi prima di tutto di esaminare tutti i [criteri del programma di pianif
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Crea o aggiorna il profilo business dell'azienda (nuovi partner)
 
-Massimizza la tua esposizione a potenziali clienti. Seguire [le istruzioni e le linee guida](https://docs.microsoft.com/partner-center/create-a-marketing-profile) per creare o aggiornare il profilo aziendale dell'azienda nel centro per i partner.
+Massimizza la tua esposizione a potenziali clienti. Seguire [le istruzioni e le linee guida](create-a-marketing-profile.md) per creare o aggiornare il profilo aziendale dell'azienda nel centro per i partner.
 
 ## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>Il cliente crea e assegna un voucher (partner esistenti)
 

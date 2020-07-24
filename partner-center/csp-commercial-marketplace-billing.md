@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f5c506e1f3dd5e1ffcac1d7017687b1b36718745
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435140"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943475"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Fatturazione per prodotti e sottoscrizioni in Marketplace commerciali nel centro per i partner
 
@@ -47,7 +47,7 @@ L'amministratore globale o l'amministratore della fatturazione per l'azienda ric
 
     Nella parte superiore della pagina di fatturazione vengono visualizzate due schede: **ricorrenti** e **ricorrenti e acquisti**monouso. Ogni scheda consente di accedere ai file di fatturazione e riconciliazione (Recon) per diversi prodotti Marketplace:
 
-    - Scheda **ricorrente** : Mostra la fattura e i file di riconciliazione per le sottoscrizioni relative a Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power bi Pro e Microsoft Azure.
+    - Scheda **ricorrente** : Mostra la fatturazione e i file di riconciliazione per le sottoscrizioni relative a Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro e Microsoft Azure.
 
     - Scheda **ricorrenza e acquisti** monouso: Mostra i file di Invoice e di riconciliazione per piano di Azure, prenotazioni di Azure, software e prodotti Marketplace commerciali.
   

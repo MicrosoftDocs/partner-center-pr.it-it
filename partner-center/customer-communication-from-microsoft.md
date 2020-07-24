@@ -5,16 +5,16 @@ ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo Microsoft prevede che le comunicazioni dei clienti vengano eseguite tra clienti e partner nel programma Cloud Solution Provider.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 9a36cbd8ceefda5e514ddf0e543daf78bc266285
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f4c98445345e5e668de2172ab5e922cfb81aa7a8
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434870"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114358"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Linee guida per la comunicazione dei clienti con Microsoft
 

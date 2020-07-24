@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5d4b25798b4ac3c4b2c2edb0d861fd7eb5097b4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436520"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943678"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Creare un'associazione cliente tramite il modello CPOR: usare per i clienti Microsoft 365 e Dynamics 365
 
@@ -30,9 +30,9 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
 
 - **ID MPN** per l'entità che rilascia l'attestazione
 
-- Il **nome di dominio** del cliente [trova questo](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- Il **nome di dominio** del cliente [trova questo](find-customer-domain-name.md)
 
-- **ID directory** o **ID tenant** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name) del cliente
+- **ID directory** o **ID tenant** [Find this](find-customer-domain-name.md) del cliente
 
 - **Area della soluzione**, ad esempio Business Applications o Microsoft 365
 
@@ -66,7 +66,7 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
 
 2. Nella parte superiore della pagina associazioni clienti selezionare **+ associazione clienti**.
 
-3. Selezionare l' **ID MPN** della località partner da associare al cliente, quindi aggiungere il nome di dominio e l'ID directory del cliente. [Dove si trovano?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+3. Selezionare l' **ID MPN** della località partner da associare al cliente, quindi aggiungere il nome di dominio e l'ID directory del cliente. [Dove si trovano?](find-customer-domain-name.md)
 
 4. Seleziona **Continua**.
 

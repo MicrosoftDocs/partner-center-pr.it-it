@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: Raccogliere e creare le informazioni necessarie per generare un piano di marketing efficace per il programma incentives.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 446d336d57454a87377322905b44c3981a5e0bcf
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 37e39328b555e53b0f9789da5baddb280ed4fdea
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949676"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114178"
 ---
 # <a name="create-your-plan"></a>Creare il piano
 

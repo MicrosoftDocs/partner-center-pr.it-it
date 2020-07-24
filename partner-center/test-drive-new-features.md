@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Prova le nuove funzionalità del Centro per i partner prima che vengano rilasciate e facci sapere cosa ne pensi. Aiutarci a dare forma al futuro del Centro per i partner!
-author: LauraBrenner
-ms.author: labrenne
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679398"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114846"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>Testare le nuove funzionalità del centro per i partner e contribuire a definire il futuro del centro per i partner
 
@@ -24,7 +24,7 @@ ms.locfileid: "84679398"
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Aiutarci a dare forma al futuro del Centro per i partner!
 
-Stiamo rilasciando continuamente nuove funzionalità e funzionalità per il centro per i partner e desideriamo ricevere commenti e suggerimenti. 
+Stiamo rilasciando continuamente nuove funzionalità e funzionalità per il centro per i partner e desideriamo ricevere commenti e suggerimenti.
 
 Ti invitiamo a provare le nuove funzionalità prima che vengano rilasciate alla community globale del Centro per i partner e a condividere le tue opinioni al riguardo. Visita la [pagina degli annunci del Centro per i partner](announcements/index.md) per informazioni sulla funzionalità future, così da iniziare a pianificare come usarle per incrementare le tue attività. Potrebbero essere disponibili diverse funzionalità da test drive in un determinato momento.
 

@@ -1,20 +1,20 @@
 ---
 title: Eseguire l'escalation dei problemi a Microsoft
+description: Informazioni sui problemi che i partner Microsoft dovrebbero risolvere per i clienti e sui problemi che potrebbero essere necessari per inoltrare a Microsoft.
 ms.topic: article
-ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sui problemi che i partner Microsoft dovrebbero risolvere per i clienti e sui problemi che potrebbero essere necessari per inoltrare a Microsoft.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c08f98477e1c7761a66c2d7cfccabd27d8e81a77
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.date: 05/18/2020
+ms.openlocfilehash: 92ce4eea3fba444967f83aab5ff4e3d8ed9aa560
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219599"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114156"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Inoltra i problemi a Microsoft e Scopri quali sono i problemi più appropriati per l'escalation Microsoft  
 
@@ -63,12 +63,5 @@ Esistono però alcune categorie di problemi che è necessario inoltrare a Micros
 >[!NOTE]
 >È importante iniziare dal dashboard del centro per i partner, in modo che la relazione tra partner e cliente venga mantenuta. 
 
-
 Per informazioni sulla segnalazione di problemi per conto del cliente, vedere [segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).
-
- 
-
- 
-
-
 

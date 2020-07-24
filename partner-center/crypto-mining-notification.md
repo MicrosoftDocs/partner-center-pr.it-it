@@ -10,12 +10,12 @@ ms.author: v-aarzh
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05da3ae93a43b1e9977d5b6646a73750b30b4415
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435200"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943498"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notifica del centro partner per l'attività di data mining criptovalute
 
@@ -54,7 +54,7 @@ Se l'attività è imprevista, tenere presente quanto segue:
 
 3. Se è necessario scoprire chi ha creato la sottoscrizione, esaminare i log attività del centro per i partner.
 
-Il rilevamento delle attività di data mining criptovalute è basato su euristica e non può essere accurato al 100%. Assicurarsi di disporre di sistemi di governance e monitoraggio sul posto per proteggersi da attività fraudolente o da altre attività non consentite. Per ulteriori informazioni, vedere [non pagamento, frode o utilizzo improprio](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
+Il rilevamento delle attività di data mining criptovalute è basato su euristica e non può essere accurato al 100%. Assicurarsi di disporre di sistemi di governance e monitoraggio sul posto per proteggersi da attività fraudolente o da altre attività non consentite. Per ulteriori informazioni, vedere [non pagamento, frode o utilizzo improprio](non-payment--fraud--or-misuse.md).
 
 ## <a name="contact-support-if-needed"></a>Se necessario, contattare il supporto tecnico
 

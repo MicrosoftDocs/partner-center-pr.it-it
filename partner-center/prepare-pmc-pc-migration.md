@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Leggi le informazioni utili e le domande frequenti prima di far passare la tua azienda da Partner Membership Center al Centro per i partner.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749162"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114563"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Eseguire la preparazione per il passaggio da Partner Membership Center (PMC) al Centro per i partner
 
@@ -55,7 +55,7 @@ Il Centro per i partner prevede diversi tipi di ruoli a seconda dei tipi di lavo
 
 **Che cosa accade ai ruoli dei miei utenti quando passano da PMC al Centro per i partner?**
 
-Ad eccezione dell'amministratore globale MPN o del contatto principale del programma che esegue la migrazione, tutti gli utenti di PMC perderanno i ruoli di amministratore. L'utente che completa la migrazione dovrà assegnare i ruoli nel Centro per i partner. I ruoli nel Centro per i partner sono diversi da quelli in PMC. Per altre informazioni sui ruoli utente nel Centro per i partner, vedi [Assegnare autorizzazioni e ruoli utente] (permissions-overview.md) e [Passaggio da Partner Membership Center al Centro per i partner](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles).
+Ad eccezione dell'amministratore globale MPN o del contatto principale del programma che esegue la migrazione, tutti gli utenti di PMC perderanno i ruoli di amministratore. L'utente che completa la migrazione dovrà assegnare i ruoli nel Centro per i partner. I ruoli nel Centro per i partner sono diversi da quelli in PMC. Per altre informazioni sui ruoli utente nel Centro per i partner, vedi [Assegnare autorizzazioni e ruoli utente] (permissions-overview.md) e [Passaggio da Partner Membership Center al Centro per i partner](move-pmc-pc-map.md#user-roles).
 
 
 **Qual è la differenza tra il mio profilo aziendale e il mio profilo di business?**

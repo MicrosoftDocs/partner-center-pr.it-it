@@ -5,16 +5,16 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Scopri i vantaggi della collaborazione con Microsoft, tra cui Microsoft Action Pack, le competenze e le opzioni di programma per entrare nel mercato e vendere le tue soluzioni.
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8589776eb291da1931e727d170704ccd205ef69
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 53cf9976ffef5254499d03215782ad428a067189
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436780"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114610"
 ---
 # <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Diventare partner Microsoft - Vantaggi, supporto per i clienti e promozione della crescita aziendale
 

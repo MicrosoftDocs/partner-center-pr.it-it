@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 5cbaaa63ce4e28f57e8f50bff8ee13f013080526
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286619"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943978"
 ---
 # <a name="march-2020-announcements"></a>Annunci di marzo 2020
 
@@ -102,14 +102,14 @@ A partire dal 31 agosto 2018 Microsoft ha aggiornato i requisiti di registrazion
 
 Sono disponibili nuove funzionalità per il trasferimento delle sottoscrizioni CSP dei clienti da tenant con fatturazione diretta a tenant di provider indiretto. Questa nuova funzionalità semplificherà la transizione per i partner con fatturazione diretta a rivenditori indiretti, contribuendo all'accelerazione della crescita del business entro il programma.
 
-Per altre informazioni, vedere la pagina delle [offerte CSP](https://docs.microsoft.com/partner-center/csp-offers).
+Per altre informazioni, vedere la pagina delle [offerte CSP](../csp-offers.md).
 
 >[!NOTE] 
->i trasferimenti supporteranno solo sottoscrizioni basate su licenza e sottoscrizioni di Azure. Sarà necessario eseguire manualmente il trasferimento del piano di Azure e degli acquisti del marketplace commerciale. Si noti che questo approccio comporta l'annullamento e il rinnovo delle sottoscrizioni indicate nei documenti seguenti: [Piano di Azure](https://docs.microsoft.com/partner-center/azure-plan-lp) e [marketplace commerciale](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). Poiché le sottoscrizioni del server e le prenotazioni di Azure sono un acquisto occasionale, non sarà necessario trasferirle in un tenant di provider indiretto. Per altre informazioni, vedere la pagina delle offerte di CSP.
+>i trasferimenti supporteranno solo sottoscrizioni basate su licenza e sottoscrizioni di Azure. Sarà necessario eseguire manualmente il trasferimento del piano di Azure e degli acquisti del marketplace commerciale. Si noti che questo approccio comporta l'annullamento e il rinnovo delle sottoscrizioni indicate nei documenti seguenti: [Piano di Azure](../azure-plan-lp.md) e [marketplace commerciale](../csp-commercial-marketplace-manage.md). Poiché le sottoscrizioni del server e le prenotazioni di Azure sono un acquisto occasionale, non sarà necessario trasferirle in un tenant di provider indiretto. Per altre informazioni, vedere la pagina delle offerte di CSP.
 
 ### <a name="additional-resources"></a>Risorse aggiuntive:
 
-- Articolo della Guida [Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto](https://docs.microsoft.com/partner-center/transition-direct-to-indirect#move-your-direct-bill-customers-to-your-indirect-provider)
+- Articolo della Guida [Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto](../transition-direct-to-indirect.md#move-your-direct-bill-customers-to-your-indirect-provider)
 - [Presentazione da fatturazione diretta a rivenditore indiretto](https://assetsprod.microsoft.com/mpn/direct-bill-transition-to-indirect-reseller-new-capability)
 
 ### <a name="next-steps"></a>Passaggi successivi

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd50d2e4e02e342162c8680126dd9e11f1b5a0f2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434560"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943928"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Panoramica delle offerte dei partner nell'ambito del programma Cloud Solution Provider
 
@@ -117,21 +117,21 @@ Alcune offerte basate su licenze possono essere acquistate solo in determinate c
 
 L'offerta cercata potrebbe non essere disponibile nel catalogo per diversi motivi. Di seguito sono riportati alcuni controlli da eseguire se non si trova l'offerta desiderata.
 
-- **Verificare che il cliente sia qualificato**. Molte offerte richiedono qualifiche speciali per la vendita ai clienti. Questi segmenti speciali includono Education, No profit e Government Community Cloud (GCC). Prima di registrare un problema, verificare che le qualifiche del cliente siano impostate di conseguenza. È possibile controllarlo facendo clic sul cliente dall'elenco e visualizzando l'account. Se applicabile, per l'account sarà impostata una qualifica speciale. Se si sta tentando di acquistare offerte relative alla formazione per un cliente non qualificato, tali offerte non risulteranno visibili nel catalogo. Per altre informazioni su come qualificare i clienti, vedere la [documentazione dedicata ai segmenti speciali](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers).
+- **Verificare che il cliente sia qualificato**. Molte offerte richiedono qualifiche speciali per la vendita ai clienti. Questi segmenti speciali includono Education, No profit e Government Community Cloud (GCC). Prima di registrare un problema, verificare che le qualifiche del cliente siano impostate di conseguenza. È possibile controllarlo facendo clic sul cliente dall'elenco e visualizzando l'account. Se applicabile, per l'account sarà impostata una qualifica speciale. Se si sta tentando di acquistare offerte relative alla formazione per un cliente non qualificato, tali offerte non risulteranno visibili nel catalogo. Per altre informazioni su come qualificare i clienti, vedere la [documentazione dedicata ai segmenti speciali](get-special-pricing-for-offers.md).
 - **Determinare se l'acquisto che si sta tentando di eseguire riguarda un componente aggiuntivo o un'offerta di base**. Molti dei servizi basati su licenze, ad esempio Microsoft 365 e Dynamics 365, consentono sia gli acquisti del catalogo di offerte base che i componenti aggiuntivi. Dal catalogo è possibile acquistare solo le offerte base. Per acquistare componenti aggiuntivi, prima assicurarsi ai vare acquistato l'offerta base nel catalogo, poi selezionare il catalogo dall'elenco e infine selezionare la sottoscrizione per l'offerta base. I componenti aggiuntivi possono essere applicati all'offerta base nella pagina di gestione delle sottoscrizioni. 
 - **Verificare che i prodotti siano disponibili nel proprio mercato**. Molti prodotti e servizi sono configurati in modo da essere venduti solo ai clienti di paesi specifici. L'elenco dei paesi supportati è disponibile nei vari file con i listini prezzi. I paesi supportati per i servizi basati su licenza sono disponibili nella matrice con l'elenco delle offerte alla pagina di prezzi e offerte.
 - **Verificare che le offerte siano riportate nel listino prezzi**. L'elenco di offerte disponibili può variare di mese in mese. Se non è possibile trovare un'offerta nel catalogo, verificare che tale offerta sia inclusa nei listini prezzi disponibili nella pagina **Vendi > Prezzi e offerte**.
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Documenti consigliati relativi all'acquisto di articoli nel Centro per i partner
 
-- [Prezzi e offerte nel Centro per i partner](https://docs.microsoft.com/partner-center/pricing-and-offers)
-- [Panoramica delle offerte ai partner nel programma Cloud Solution Provider](https://docs.microsoft.com/partner-center/csp-offers)
-- [Come vendere offerte ai clienti Education e creare un cliente Education](https://docs.microsoft.com/partner-center/sell-to-education-customers)
-- [Vendere a settori specializzati come utenti Education, No profit ed enti pubblici](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
-- [Regole di acquisto per segmenti speciali](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
+- [Prezzi e offerte nel Centro per i partner](pricing-and-offers.md)
+- [Panoramica delle offerte ai partner nel programma Cloud Solution Provider](csp-offers.md)
+- [Come vendere offerte ai clienti Education e creare un cliente Education](sell-to-education-customers.md)
+- [Vendere a settori specializzati come utenti Education, No profit ed enti pubblici](get-special-pricing-for-offers.md)
+- [Regole di acquisto per segmenti speciali](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-Per informazioni sul funzionamento del processo di fatturazione, vedi [Nozioni di base sulla fatturazione](https://docs.microsoft.com/partner-center/billing-basics).
+Per informazioni sul funzionamento del processo di fatturazione, vedi [Nozioni di base sulla fatturazione](billing-basics.md).
 
 Per informazioni sull'acquisto con il piano di Azure, vedi [Acquistare il piano di Azure](purchase-azure-plan.md).

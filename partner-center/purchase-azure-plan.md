@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 9dae2a9b716ee87891aafbe41ad87200f99ecb1b
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875257"
+ms.locfileid: "86943528"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Acquistare il piano di Azure per i clienti e accedere ai servizi di Azure più recenti con pagamento in base al consumo
 
@@ -37,7 +37,7 @@ La modalità di acquisto del piano di Azure è simile all'acquisto di qualsiasi 
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Acquisto":::
 
-Il partner deve verificare che il cliente abbia esaminato e accettato le condizioni del contratto del cliente Microsoft. Per altre informazioni su come eseguire questa operazione, leggi [Verificare l'accettazione da parte del cliente del contratto del cliente Microsoft](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Altre risorse sono disponibili nella [raccolta delle risorse](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+Il partner deve verificare che il cliente abbia esaminato e accettato le condizioni del contratto del cliente Microsoft. Per altre informazioni su come eseguire questa operazione, leggi [Verificare l'accettazione da parte del cliente del contratto del cliente Microsoft](confirm-customer-agreement.md). Altre risorse sono disponibili nella [raccolta delle risorse](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
 **Per confermare**: 
 
@@ -75,9 +75,9 @@ Nel Centro per i partner puoi anche acquistare prenotazioni di Microsoft Azure i
 Le prenotazioni di Azure devono essere associate a un piano di Azure attivo. Scegli il piano di Azure a cui vuoi aggiungere le prenotazioni di Azure dall'elenco di sottoscrizioni del cliente. 
 
 >[!Important] 
->Se il cliente non ha ancora un piano di Azure attivo, seleziona Azure per aggiungerne uno ora. Per altre istruzioni, leggi [Acquista prenotazioni di Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
+>Se il cliente non ha ancora un piano di Azure attivo, seleziona Azure per aggiungerne uno ora. Per altre istruzioni, leggi [Acquista prenotazioni di Azure](azure-reservations-buying.md#purchase-azure-reservations).
 
->[!Note] 
+>[!Note]
 >Attualmente, nel Centro per i partner l'ambito di una prenotazione può essere impostato solo su **Condiviso**. Per selezionare l'ambito di singola sottoscrizione o effettuare l'aggiornamento dall'ambito condiviso a quello di singola sottoscrizione, passare al **portale di gestione di Microsoft Azure** facendo riferimento alle istruzioni seguenti. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Impostazione ambito condiviso delle prenotazioni":::

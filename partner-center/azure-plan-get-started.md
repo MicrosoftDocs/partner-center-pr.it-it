@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: a1937a750100450aa8c3fe0e0846ea688d284bf5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cf2d1085b529e1fbd0fad74c4e56d16f789a48e9
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435820"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943958"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Inizia a usare tariffe con pagamento in base al consumo con il piano di Azure
 
@@ -48,7 +48,7 @@ Considerati i privilegi elevati della condizione di partner, dobbiamo garantire 
 - Implementazione delle [impostazioni predefinite per la sicurezza Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Implementazione di una soluzione di terze parti e verifica che l'autenticazione a più fattori venga applicata per ogni utente
 
-Dal 1° agosto 2019 tutti i partner sono tenuti a implementare l'autenticazione a più fattori per tutti gli utenti, inclusi gli account di servizio, nel tenant partner. Per informazioni dettagliate su questi requisiti di sicurezza, vedi [Requisiti di sicurezza per i partner](https://docs.microsoft.com/partner-center/partner-security-requirements).
+Dal 1° agosto 2019 tutti i partner sono tenuti a implementare l'autenticazione a più fattori per tutti gli utenti, inclusi gli account di servizio, nel tenant partner. Per informazioni dettagliate su questi requisiti di sicurezza, vedi [Requisiti di sicurezza per i partner](partner-security-requirements.md).
 
 Microsoft consiglia ai partner di usare il controllo degli accessi in base al ruolo prestando la massima attenzione e seguendo le procedure consigliate abilitate tramite [Risorse di Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
 

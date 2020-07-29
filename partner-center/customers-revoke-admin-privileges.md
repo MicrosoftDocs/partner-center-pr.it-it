@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 22cdcb48df263323ac2862ced3a0f06eff2b0570
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 88b3a71bb63ac7ac3287712944a2a4663928a165
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434750"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943508"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Ottenere le autorizzazioni per gestire il servizio o l'abbonamento di un cliente
 
@@ -106,7 +106,7 @@ Dal Centro per i partner, i partner CSP possono gestire i profili di Autopilot p
 
 - Non puoi gestire i dispositivi aggiunti dal cliente tramite Microsoft Store per le aziende, Microsoft Store per la formazione o il portale di Microsoft Intune.
 
-Per altre informazioni su Autopilot, vedi [Semplificare la configurazione dei dispositivi con Windows Autopilot](https://docs.microsoft.com/partner-center/autopilot).
+Per altre informazioni su Autopilot, vedi [Semplificare la configurazione dei dispositivi con Windows Autopilot](autopilot.md).
 
 >[!IMPORTANT]  
 >L'attuale esperienza di gestione di Autopilot nel Centro per i partner è soggetta a modifiche. Al momento della pubblicazione di questo articolo, vengono considerate le modifiche seguenti:

@@ -15,6 +15,7 @@
 ### [Guida al passaggio di più aziende al Centro per i partner](move-multiple-companies.md)
 ### [Consolidamento delle aziende](consolidate-accounts.md)
 
+
 ## Offerte per i membri
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Rinnovare le offerte](renew-mpn-offers.md)
@@ -65,6 +66,7 @@
 ## [Verificare la proprietà del dominio](become-global-admin.md)
 ## [Verificare le informazioni dell'account](verification-responses.md)
 ## [Unire l'account partner con un altro account partner](merge-accounts.md)
+## [Associare tenant di Azure AD aggiuntivi all'account del Centro per i partner](multi-tenant-account.md)
 ## [Aggiornare il profilo di partner](update-your-partner-profile.md)
 ## [Località](manage-locations.md)
 ## [Iscriversi come CPV (Control Panel Vendor)](enroll-as-cpv.md)
@@ -100,6 +102,7 @@
 ### Introduzione agli incentivi
 #### [Determinare l'idoneità del programma](incentives-determined-your-program-eligibility.md)
 #### [Creare e gestire il profilo di pagamento e il profilo fiscale nel Centro per i partner](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [Domande frequenti su proventi da incentivi e profilo fiscale](incentives-payout-tax-profile-faqs.md)
 #### [Confermare l'idoneità degli utili](incentives-confirm-your-earnings-eligibility.md)
 #### [Visualizzare i pagamenti e i programmi degli incentivi](understand-incentive-payouts.md)
 #### [Accedere alla pagina sui pagamenti degli incentivi](incentives-unified-user-guide.md)
@@ -124,7 +127,7 @@
 ## [Usare i file di riconciliazione](use-the-reconciliation-files.md)
 ## [Tipi di addebito dei file di riconciliazione](recon-file-charge-types.md)
 ## [Leggere i file di riconciliazione dell'utilizzo quotidiano stimato nel Centro per i partner](daily-rated-usage-recon-files.md)
-## [File di riconciliazione basati su licenza](license-based-recon-files.md)
+## [File di riconciliazione in base alle licenze](license-based-recon-files.md)
 ## [Scenari di fatturazione comuni](common-billing-scenarios.md)
 ### [Scenari per la fatturazione mensile](common-billing-scenarios-monthly.md)
 ### [Scenari per la fatturazione mensile](common-billing-scenarios-annual.md)
@@ -132,6 +135,9 @@
 ### [Fatture: leggere i campi di fatturazione e una tantum](invoice-file.md)
 ### [Fatturazione basata su licenza](license-based-billing.md)
 ### [Scenari per sottoscrizioni SaaS basate su licenza](common-billing-scenarios-saas.md)
+
+## [Visualizzare le firme digitali - Centro per i partner India](digital-signature.md)
+
 ## [Imposte ed esenzioni fiscali](tax-and-tax-exemptions.md)
 ### [Informazioni sull'IVA aziendale](organization-tax-info.md)
 ### [Assicurarsi che la ritenuta d'acconto venga accreditata](withholding-tax-credit-form.md)

@@ -9,29 +9,43 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: efd7b886c507940fe474b1984024a18766ebfce7
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: f750d27753d78267def99eb06053174a25d0f04d
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265212"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365697"
 ---
-# <a name="reset-my-password"></a><span data-ttu-id="2ba46-103">Reimpostare la password</span><span class="sxs-lookup"><span data-stu-id="2ba46-103">Reset my password</span></span>
+# <a name="reset-my-password"></a><span data-ttu-id="19eb1-103">Reimpostare la password</span><span class="sxs-lookup"><span data-stu-id="19eb1-103">Reset my password</span></span>
 
-<span data-ttu-id="2ba46-104">Se non si ricorda la password del centro per i partner, è possibile reimpostarla.</span><span class="sxs-lookup"><span data-stu-id="2ba46-104">If you can't remember your Partner Center password, you can reset it.</span></span>
+<span data-ttu-id="19eb1-104">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="19eb1-104">**Applies to**</span></span>
 
-## <a name="to-reset-your-partner-center-password"></a><span data-ttu-id="2ba46-105">Per reimpostare la password del centro per i partner</span><span class="sxs-lookup"><span data-stu-id="2ba46-105">To reset your Partner Center password</span></span>
+- <span data-ttu-id="19eb1-105">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="19eb1-105">Partner Center</span></span>
+ 
+<span data-ttu-id="19eb1-106">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="19eb1-106">**Appropriate roles**</span></span>
 
-<span data-ttu-id="2ba46-106">L'amministratore globale deve avere configurato la possibilità di reimpostare la password autonomamente.</span><span class="sxs-lookup"><span data-stu-id="2ba46-106">Your Global admin must have set up the ability for you to reset your password yourself.</span></span> <span data-ttu-id="2ba46-107">Se l'amministratore globale non ha ancora configurato questa impostazione, sarà necessario chiedere loro di [reimpostare la password](reset-a-user-password.md).</span><span class="sxs-lookup"><span data-stu-id="2ba46-107">(If your Global admin hasn't set this up yet, you will have to ask them to [reset your password for you](reset-a-user-password.md).)</span></span>
+- <span data-ttu-id="19eb1-107">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="19eb1-107">Global admin</span></span>
+- <span data-ttu-id="19eb1-108">Utenti del centro per i partner</span><span class="sxs-lookup"><span data-stu-id="19eb1-108">Partner Center users</span></span>
 
-1. <span data-ttu-id="2ba46-108">Nella schermata **di accesso selezionare** non è **possibile accedere all'account?** e quindi fare clic su **Avanti**.</span><span class="sxs-lookup"><span data-stu-id="2ba46-108">On the **Sign in** screen, select **Can't access your account?** and then select **Next**.</span></span>
 
-2. <span data-ttu-id="2ba46-109">Selezionare **account aziendale o dell'Istituto di istruzione**.</span><span class="sxs-lookup"><span data-stu-id="2ba46-109">Select **Work or school account**.</span></span>
+<span data-ttu-id="19eb1-109">Se non si ricorda la password del centro per i partner, è possibile reimpostarla.</span><span class="sxs-lookup"><span data-stu-id="19eb1-109">If you can't remember your Partner Center password, you can reset it.</span></span>
 
-3. <span data-ttu-id="2ba46-110">Viene richiesto di immettere l'ID utente e i caratteri dell'immagine o dell'audio.</span><span class="sxs-lookup"><span data-stu-id="2ba46-110">You are next asked to enter your user ID and the characters in the picture or audio.</span></span> <span data-ttu-id="2ba46-111">Quindi selezionare **Avanti**.</span><span class="sxs-lookup"><span data-stu-id="2ba46-111">Then select **Next**.</span></span>
+## <a name="to-reset-your-partner-center-password"></a><span data-ttu-id="19eb1-110">Per reimpostare la password del centro per i partner</span><span class="sxs-lookup"><span data-stu-id="19eb1-110">To reset your Partner Center password</span></span>
 
-4. <span data-ttu-id="2ba46-112">Configurare la nuova password.</span><span class="sxs-lookup"><span data-stu-id="2ba46-112">Set up your new password.</span></span>
+<span data-ttu-id="19eb1-111">L'amministratore globale deve avere configurato la possibilità di reimpostare la password autonomamente.</span><span class="sxs-lookup"><span data-stu-id="19eb1-111">Your Global admin must have set up the ability for you to reset your password yourself.</span></span> <span data-ttu-id="19eb1-112">Se l'amministratore globale non ha ancora configurato questa impostazione, sarà necessario chiedere loro di [reimpostare la password](reset-a-user-password.md).</span><span class="sxs-lookup"><span data-stu-id="19eb1-112">(If your Global admin hasn't set this up yet, you will have to ask them to [reset your password for you](reset-a-user-password.md).)</span></span>
 
-## <a name="if-your-global-admin-has-left-the-company"></a><span data-ttu-id="2ba46-113">Se l'amministratore globale ha lasciato la società</span><span class="sxs-lookup"><span data-stu-id="2ba46-113">If your Global admin has left the company</span></span>
+1. <span data-ttu-id="19eb1-113">Nella schermata **di accesso selezionare** non è **possibile accedere all'account?** e quindi fare clic su **Avanti**.</span><span class="sxs-lookup"><span data-stu-id="19eb1-113">On the **Sign in** screen, select **Can't access your account?** and then select **Next**.</span></span>
 
-<span data-ttu-id="2ba46-114">Se l'amministratore globale ha lasciato la società o è stato spostato su un altro ruolo ed è necessario aggiungere un nuovo amministratore globale, è necessario registrare una richiesta di servizio nel [portale di Microsoft Partner Network](https://partner.microsoft.com/commercial#/).</span><span class="sxs-lookup"><span data-stu-id="2ba46-114">If your Global admin has left your company or moved onto another role and you need to add a new Global admin, you have to log a service request on the [Microsoft Partner Network portal](https://partner.microsoft.com/commercial#/).</span></span> <span data-ttu-id="2ba46-115">L'agente di supporto può richiedere l'elevazione di un utente all'amministratore globale se il richiedente è in grado di fornire le informazioni di identità personali necessarie e fornire informazioni aggiuntive sull'azienda.</span><span class="sxs-lookup"><span data-stu-id="2ba46-115">The support agent can request elevation of a user to Global admin if your requestor is able to provide the requisite personal identity information and provide additional information about your company.</span></span>
+2. <span data-ttu-id="19eb1-114">Selezionare **account aziendale o dell'Istituto di istruzione**.</span><span class="sxs-lookup"><span data-stu-id="19eb1-114">Select **Work or school account**.</span></span>
+
+3. <span data-ttu-id="19eb1-115">Viene richiesto di immettere l'ID utente e i caratteri dell'immagine o dell'audio.</span><span class="sxs-lookup"><span data-stu-id="19eb1-115">You are next asked to enter your user ID and the characters in the picture or audio.</span></span> <span data-ttu-id="19eb1-116">Fare quindi clic su **Avanti**.</span><span class="sxs-lookup"><span data-stu-id="19eb1-116">Then select **Next**.</span></span>
+
+4. <span data-ttu-id="19eb1-117">Configurare la nuova password.</span><span class="sxs-lookup"><span data-stu-id="19eb1-117">Set up your new password.</span></span>
+
+## <a name="if-your-global-admin-has-left-the-company"></a><span data-ttu-id="19eb1-118">Se l'amministratore globale ha lasciato la società</span><span class="sxs-lookup"><span data-stu-id="19eb1-118">If your Global admin has left the company</span></span>
+
+<span data-ttu-id="19eb1-119">Se l'amministratore globale ha lasciato la società o è stato spostato su un altro ruolo ed è necessario aggiungere un nuovo amministratore globale, è necessario registrare una richiesta di servizio nel [portale di Microsoft Partner Network](https://partner.microsoft.com/commercial#/).</span><span class="sxs-lookup"><span data-stu-id="19eb1-119">If your Global admin has left your company or moved onto another role and you need to add a new Global admin, you have to log a service request on the [Microsoft Partner Network portal](https://partner.microsoft.com/commercial#/).</span></span> <span data-ttu-id="19eb1-120">L'agente di supporto può richiedere l'elevazione di un utente all'amministratore globale se il richiedente è in grado di fornire le informazioni di identità personali necessarie e fornire informazioni aggiuntive sull'azienda.</span><span class="sxs-lookup"><span data-stu-id="19eb1-120">The support agent can request elevation of a user to Global admin if your requestor is able to provide the requisite personal identity information and provide additional information about your company.</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="19eb1-121">Passaggi successivi</span><span class="sxs-lookup"><span data-stu-id="19eb1-121">Next steps</span></span>
+
+- [<span data-ttu-id="19eb1-122">Se non è possibile accedere al centro per i partner ed è necessario reimpostare la password</span><span class="sxs-lookup"><span data-stu-id="19eb1-122">If you can't sign into Partner Center and need to reset your password</span></span>](unable-to-sign-in.md)

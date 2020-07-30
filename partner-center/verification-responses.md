@@ -9,16 +9,21 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 73ace89b24dba143f410e879e9012a0f0f60e3c6
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943818"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365727"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verificare le informazioni sull'account quando si esegue la registrazione in un nuovo programma del centro per i partner
 
-Quando si esegue l'iscrizione a un nuovo programma nel Partner Center, Microsoft verifica le informazioni fornite per l'iscrizione dell'account, ad esempio il nome e l'indirizzo della società e i dettagli del contatto principale. Durante questo processo, Microsoft può inviare un messaggio di posta elettronica al contatto principale per informarlo dello stato e richiedere ulteriore documentazione di verifica.
+**Ruoli appropriati**
+
+- Amministratore globale
+- Amministratore account MPN
+
+Quando si esegue la registrazione in un nuovo programma nel centro per i partner, Microsoft verifica le informazioni di registrazione dell'account fornite, ad esempio il nome della società, l'indirizzo aziendale e i dettagli del contatto principale. Durante questo processo, Microsoft può inviare un messaggio di posta elettronica al contatto principale per informarlo dello stato e richiedere ulteriore documentazione di verifica.
 
 >[!NOTE]
 >Per assicurarsi di ricevere il messaggio di posta elettronica, assicurarsi di contrassegnare il messaggio di posta elettronica da Microsoft.com come dominio "sicuro" e controllare le cartelle della posta indesiderata.

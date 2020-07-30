@@ -9,14 +9,24 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: efd7b886c507940fe474b1984024a18766ebfce7
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: f750d27753d78267def99eb06053174a25d0f04d
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265212"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365697"
 ---
 # <a name="reset-my-password"></a>Reimpostare la password
+
+**Si applica a**
+
+- Centro per i partner
+ 
+**Ruoli appropriati**
+
+- Amministratore globale
+- Utenti del centro per i partner
+
 
 Se non si ricorda la password del centro per i partner, è possibile reimpostarla.
 
@@ -28,10 +38,14 @@ L'amministratore globale deve avere configurato la possibilità di reimpostare l
 
 2. Selezionare **account aziendale o dell'Istituto di istruzione**.
 
-3. Viene richiesto di immettere l'ID utente e i caratteri dell'immagine o dell'audio. Quindi selezionare **Avanti**.
+3. Viene richiesto di immettere l'ID utente e i caratteri dell'immagine o dell'audio. Fare quindi clic su **Avanti**.
 
 4. Configurare la nuova password.
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>Se l'amministratore globale ha lasciato la società
 
 Se l'amministratore globale ha lasciato la società o è stato spostato su un altro ruolo ed è necessario aggiungere un nuovo amministratore globale, è necessario registrare una richiesta di servizio nel [portale di Microsoft Partner Network](https://partner.microsoft.com/commercial#/). L'agente di supporto può richiedere l'elevazione di un utente all'amministratore globale se il richiedente è in grado di fornire le informazioni di identità personali necessarie e fornire informazioni aggiuntive sull'azienda.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Se non è possibile accedere al centro per i partner ed è necessario reimpostare la password](unable-to-sign-in.md)

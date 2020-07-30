@@ -8,13 +8,13 @@ ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
-ms.date: 07/10/2020
-ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
-ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
+ms.date: 07/29/2020
+ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86237971"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412437"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Informazioni su come trasferire le sottoscrizioni di Azure di un cliente a un altro partner
 
@@ -32,7 +32,7 @@ Per passare i servizi o le sottoscrizioni di Azure di un cliente a un altro part
 >Attualmente, solo i provider diretti o indiretti possono trasferire le sottoscrizioni.
 >Non è possibile modificare i partner per le sottoscrizioni Cloud Solution Provider associate ad Azure Plan, Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
 
-**Cambiare partner per le sottoscrizioni Azure**
+## <a name="switch-partners-for-azure-subscriptions"></a>Cambiare partner per le sottoscrizioni Azure
 
 1. Per trasferire una sottoscrizione di Azure a un nuovo partner, il cliente deve avviare il processo e contattare l'attuale partner del record per la scrittura.
 
@@ -84,20 +84,27 @@ Per passare i servizi o le sottoscrizioni di Azure di un cliente a un altro part
    - Aggiungi il nuovo partner come rivenditore nell'account:
 
      ```powershell
-     Add-AzureRMAccount -tenant "CustomerDomainName"
+     Connect-AzAccount -Tenant 'xxxx-xxxx-xxxx-xxxx'
      ```
 
-     Per trovare il nome di dominio del cliente: nel menu del Centro per i partner scegli **Clienti**. Seleziona il cliente nell'elenco dei clienti. Nel menu del cliente scegli **Account** e usa le informazioni in **Nome di dominio**.
+     >[!NOTE]
+     > L' **ID tenant** del cliente viene visualizzato nel centro per i partner come **ID Microsoft**del cliente. Per trovare l'ID Microsoft (ID tenant) per un cliente specifico, accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner. Quindi selezionare **Customers** dal menu. Individuare il cliente nell'elenco. Selezionare la freccia rivolta verso il basso per espandere l'elenco del cliente. Vengono visualizzate informazioni sul *nome di dominio* del cliente e sull' **ID Microsoft**del cliente. Usare l' **ID Microsoft** a 16 cifre nella cmdlet di PowerShell.
 
    - Visualizza i ruoli dell'account, inclusi i partner CSP precedenti:
 
      ```powershell
-     Get-AzureRMRoleAssignment
+     Get-AzRoleAssignment
      ```
 
 7. Rimuovere le autorizzazioni di accesso obsolete
 
    - Nel menu del Centro per i partner scegli **Clienti**.
-   - Espandi l'elenco dei clienti e seleziona **Visualizza sottoscrizioni**.
-   - Nel menu del cliente seleziona **Gestione servizi**.
+   - Individuare il cliente nell'elenco. Selezionare (fare doppio clic) il nome della società. Verrà visualizzata la pagina **sottoscrizioni** clienti.
+   - Nel menu Customer Details selezionare **gestione dei servizi**.
    - In **Microsoft Azure** fai clic sul link per passare al **Portale di gestione di Microsoft Azure**.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- Scaricare il [modulo di trasferimento della sottoscrizione CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+- Informazioni sul [supporto](multipartner.md)per più partner.
+- Scopri di più sul supporto per più [canali](multichannel.md).

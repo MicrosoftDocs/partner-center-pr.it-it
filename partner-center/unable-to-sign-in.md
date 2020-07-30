@@ -9,14 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: af06cd5da4ea5a38ea272a2210bca9917bbecdd9
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436510"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365747"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Se non è possibile accedere al centro per i partner ed è necessario reimpostare la password
+
+**Ruoli appropriati**
+
+- Utenti del centro per i partner
 
 Se la password è stata dimenticata e non è possibile accedere a Partner Center, è necessario contattare il supporto tecnico. Trovare il numero di telefono appropriato sulla pagina dell'[assistenza per i prodotti aziendali](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone#ID0EAADAAA=Phone_support_). 
 
@@ -24,7 +28,7 @@ Per i diversi modi in cui è possibile reimpostare la password e riottenere l'ac
 
 Dopo la reimpostazione della password dell'account di lavoro, sarà possibile accedere al centro per i partner. 
 
-## <a name="see-more"></a>Altre informazioni
+## <a name="next-steps"></a>Passaggi successivi
 
 - [Verificare le informazioni dell'account](verification-responses.md)
 - [Reimpostare la password personale](reset-my-pasword.md)

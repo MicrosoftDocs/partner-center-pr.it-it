@@ -9,18 +9,22 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9174b8caaed8f49d40b3f599fc3264ebd36bd937
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: bf6c77652b517b6ce6a6a7eba2a6c5675e7080c1
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265227"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365767"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Reimpostare la password di un utente nel centro per i partner
 
 **Si applica a**
 
 - Centro per i partner
+ 
+**Ruoli appropriati**
+
+- Amministratore globale
 
 > [!NOTE]  
 > Se si è iscritti al programma Cloud Solution Provider (CSP) in Microsoft Cloud Germania, per informazioni sulla reimpostazione della password di un utente vedere la pagina relativa alla [gestione degli utenti in Partner Center per Microsoft Cloud Germania](user-management-in-partner-center-for-microsoft-cloud-germany.md) .
@@ -37,3 +41,6 @@ Se gli utenti dimenticano la password, puoi assegnare loro una password temporan
 
 4. Viene visualizzata una schermata di conferma con una password temporanea per il nuovo accesso. È necessario copiarlo e inviarlo al nuovo utente, perché non è accessibile dopo aver lasciato lo schermo. In fase di accesso, all'utente verrà richiesto di aggiornare la password.
 
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Aggiungere utenti](create-user-accounts-and-set-permissions.md)

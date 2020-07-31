@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749138"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944438"
 ---
 # <a name="february-2020-announcements"></a>Annunci di febbraio 2020
 
@@ -70,7 +70,7 @@ _________________
 
 I partner possono ora invitare clienti nuovi ed esistenti a esaminare e accettare il Contratto del cliente Microsoft direttamente in un portale Microsoft autenticato (Interfaccia di amministrazione di Microsoft 365).
 
-I [partner hanno quindi ora due opzioni](https://docs.microsoft.com/partner-center/confirm-customer-agreement) per la presentazione del Contratto del cliente Microsoft ai propri clienti:
+I [partner hanno quindi ora due opzioni](../confirm-customer-agreement.md) per la presentazione del Contratto del cliente Microsoft ai propri clienti:
 
 - **Opzione 1:** I partner possono presentare il nuovo Contratto del cliente Microsoft ai clienti in modo molto simile a quello usato in precedenza per il Contratto Microsoft Cloud. Dopo che il cliente ha esaminato e accettato il contratto, il partner deve attestare a Microsoft l'accettazione del cliente. Il dashboard Centro per i partner, l'API Centro per i partner e .NET SDK sono stati aggiornati per supportare questa modalità di conferma dell'accettazione del Contratto del cliente Microsoft da parte dei clienti.
 - **Opzione 2 (nuova funzionalità):** I partner possono invitare i clienti ad accedere a un portale Microsoft autenticato (Interfaccia di amministrazione di Microsoft 365) per visualizzare e firmare il contratto. Questa opzione consente una gestione semplificata dei contratti, un'implementazione più rapida e una riduzione del carico di lavoro per i partner, perché, quando il cliente accetta il contratto direttamente nell'Interfaccia di amministrazione di Microsoft 365, viene automaticamente confermata l'approvazione dei termini e condizioni.
@@ -130,7 +130,7 @@ La seguente offerta non è disponibile e verrà rimossa dai futuri listini prezz
 
 Offerta: Sistema telefonico di Microsoft 365 - Versione di valutazione per utente virtuale - ID offerta:  `b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
-Queste offerte sono disponibili ma non sono incluse nella matrice dell'elenco di offerte. Per i dettagli sulla matrice di offerte, vedere la matrice dell'elenco di offerte precedente del mese di gennaio 2020.
+Le offerte seguenti sono disponibili, ma non sono presenti nella matrice dell'elenco di offerte. Per informazioni dettagliate sulla matrice di offerte, consultare la matrice dell'elenco di offerte precedente del mese di gennaio 2020.
 
 Offerta: Supporto ProDirect per Dynamics 365 Unified Operations - ID offerta: `09dc6202-bfbb-44fb-9c87-b12c90084010`
 
@@ -175,11 +175,11 @@ Il sistema usato da Microsoft indica quando un’organizzazione usa attualmente 
 
 ### <a name="key-considerations"></a>Considerazioni essenziali
 
-Il criterio delle impostazioni predefinite per la sicurezza è una delle [opzioni](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take) che i partner possono scegliere per implementare l'autenticazione a più fattori per i requisiti di sicurezza in base alle specifiche esigenze aziendali. Viene offerto un livello di sicurezza di case, abilitato senza costi aggiuntivi. Vedere [come abilitare MFA per l'organizzazione con Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) e le considerazioni essenziali seguenti:
+Il criterio delle impostazioni predefinite per la sicurezza è una delle [opzioni](../partner-security-requirements.md#actions-that-you-need-to-take) che i partner possono scegliere per implementare l'autenticazione a più fattori per i requisiti di sicurezza in base alle specifiche esigenze aziendali. Viene offerto un livello di sicurezza di case, abilitato senza costi aggiuntivi. Vedere [come abilitare MFA per l'organizzazione con Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) e le considerazioni essenziali seguenti:
 
 - Per i partner che usano l'[accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), le impostazioni predefinite per la sicurezza non saranno disponibili.
-- Le impostazioni predefinite per la sicurezza consentono di applicare contemporaneamente tutti i criteri, tra cui MFA obbligatorio per i criteri degli amministratori, criteri di protezione degli utenti finali e MFA obbligatorio per la gestione dei servizi.
-- Per il momento, il blocco dell'autenticazione legacy non verrà applicato ai partner. Tuttavia, poiché la maggior parte degli eventi correlati a identità compromesse proviene da tentativi di accesso con autenticazione legacy, i partner sono invitati a uscire dai protocolli meno recenti.
+- Le impostazioni predefinite per la sicurezza applicano tutti i criteri contemporaneamente, tra cui MFA obbligatorio per gli amministratori, protezione degli utenti finali e MFA obbligatorio per la gestione dei servizi.
+- Per il momento, il blocco dell'autenticazione legacy non verrà applicato ai partner. Tuttavia, poiché la maggior parte degli eventi correlati a identità compromesse proviene da tentativi di accesso con autenticazione legacy, i partner sono invitati a lasciare i protocolli meno recenti.
 - Le impostazioni predefinite per la sicurezza escludono automaticamente l'account Azure AD Connect Sync.
 - Le impostazioni predefinite per la sicurezza sostituiscono a livello di disponibilità generale i [criteri di base di anteprima](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). Dopo aver abilitato le impostazioni predefinite per la sicurezza, un partner non potrà più abilitare i criteri di base.
 
@@ -288,7 +288,7 @@ La [nuova esperienza commerciale per Azure in CSP](https://blogs.partner.microso
 
 - Vedere la [documentazione per gli sviluppatori](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/)
 - Implementare i processi automatizzati usando la [nuova API](https://docs.microsoft.com/partner/develop/pricing)
-- Vedere la [documentazione sui prezzi del piano di Azure](https://docs.microsoft.com/partner-center/azure-plan-price-list) per domande correlate ai prezzi.
+- Vedere la [documentazione sui prezzi del piano di Azure](../azure-plan-price-list.md) per domande correlate ai prezzi.
 - [Altre informazioni sul piano di Azure e sulla nuova esperienza commerciale in CSP](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ### <a name="change-log"></a>Registro delle modifiche
@@ -324,7 +324,7 @@ Queste modifiche saranno disponibili a partire dalla settimana del 3 febbraio.
 
 ### <a name="additional-resources"></a>Risorse aggiuntive:
 
-- Altre informazioni sulla [creazione di richieste di supporto nel Centro per i partner](https://docs.microsoft.com/partner-center/report-problems-with-partner-center).
+- Altre informazioni sulla [creazione di richieste di supporto nel Centro per i partner](../report-problems-with-partner-center.md).
 
 ### <a name="change-log"></a>Registro delle modifiche
 
@@ -357,8 +357,8 @@ Per altre informazioni, vedere le risorse sul Contratto del cliente Microsoft in
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-- Confermare l'accettazione da parte del cliente usando [l'interfaccia utente Web o l'API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) del Centro per i partner.
-- I partner che usano le API per il Contratto Microsoft Cloud esistente devono verificare la rispettiva implementazione esistente con l'[API aggiornata](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+- Confermare l'accettazione da parte del cliente usando [l'interfaccia utente Web o l'API](../confirm-customer-agreement.md) del Centro per i partner.
+- I partner che usano le API per il Contratto Microsoft Cloud esistente devono verificare la rispettiva implementazione esistente con l'[API aggiornata](../confirm-customer-agreement.md).
 - Preparare gli agenti e i rivenditori sulle [condizioni del nuovo contratto](https://www.microsoft.com/licensing/docs/customeragreement), su come presentarlo ai clienti e su come convalidarne l'accettazione.
 
 >[!NOTE] 

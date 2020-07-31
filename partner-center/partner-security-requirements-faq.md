@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d2656ad80cc66742ee432f3eaecb284da798b1c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434120"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943559"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Domande frequenti sui requisiti di sicurezza per i partner
 
@@ -40,24 +40,24 @@ Il Contratto Microsoft Partner prevede che venga imposta l'autenticazione a più
 
 I partner che non rispettano queste procedure di sicurezza possono perdere la facoltà di effettuare transazioni nel programma CSP o gestire i tenant dei clienti usando i diritti di amministratore delegato.
 
-### <a name="does-this-apply-to-all-geographies"></a>Queste informazioni sono valide per tutte le aree geografiche?
+### <a name="do-the-security-requirements-apply-to-all-geographies"></a>I requisiti relativi alla sicurezza si applicano a tutte le aree geografiche?
 
-Sì, queste informazioni fanno riferimento a tutte le aree geografiche? È fortemente consigliabile che tutti i partner che effettuino transazioni attraverso un cloud sovrano (21Vianet, governo statunitense e Germania) agiscano e adottino immediatamente questi nuovi requisiti di sicurezza. Tuttavia, non è necessario che questi partner soddisfino i nuovi requisiti di sicurezza a partire dal 1° agosto. Microsoft fornirà altri dettagli sull'applicazione di questi requisiti di sicurezza per i cloud sovrani in futuro.
+Sì, i requisiti relativi alla sicurezza si applicano a tutte le aree geografiche. È fortemente consigliabile che tutti i partner che effettuino transazioni attraverso un cloud sovrano (21Vianet, governo statunitense e Germania) agiscano e adottino immediatamente questi nuovi requisiti di sicurezza. Tuttavia, non è necessario che questi partner soddisfino i nuovi requisiti di sicurezza a partire dal 1° agosto. Microsoft fornirà altri dettagli sull'applicazione di questi requisiti di sicurezza per i cloud sovrani in futuro.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>È possibile ottenere un'esclusione per un account?
 
-No, non è possibile escludere alcun account utente dal requisito di imposizione dell'autenticazione MFA. Considerati i privilegi elevati della condizione di partner, il Contratto Microsoft Partner prevede che l'autenticazione a più fattori venga imposta a tutti gli account utente presenti nel tenant del partner.
+No, non è possibile escludere alcun account utente dal requisito di imposizione dell'autenticazione MFA. Considerati i privilegi elevati della condizione di partner, il Contratto Microsoft Partner prevede che l'autenticazione a più fattori venga imposta a ogni account utente presente nel tenant del partner.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Come faccio a sapere se soddisfo i requisiti di sicurezza per i partner?
 
 Devi verificare i punti seguenti:
 
-- Devi soddisfare tutti i requisiti indicati nei [requisiti di sicurezza dei partner](https://docs.microsoft.com/partner-center/partner-security-requirements).
+- Devi soddisfare tutti i requisiti indicati nei [requisiti di sicurezza dei partner](partner-security-requirements.md).
 - Devi assicurarti che per tutti gli account utente del tuo tenant partner sia applicata l'autenticazione a più fattori.
 
 Per identificare le principali aree in cui puoi eseguire azioni, tramite il Centro per i partner forniamo il report sullo [stato dei requisiti di sicurezza](https://partner.microsoft.com/pcv/security/compliance).
 
-Per altre informazioni sul report di stato, vedi [Stato dei requisiti di sicurezza per i partner](https://docs.microsoft.com/partner-center/partner-security-compliance).
+Per altre informazioni sul report di stato, vedi [Stato dei requisiti di sicurezza per i partner](partner-security-compliance.md).
 
 ## <a name="required-actions"></a>Azioni richieste
 
@@ -89,7 +89,7 @@ Tutti i partner del programma CSP (partner con fatturazione diretta, provider in
 
     Se usi un pannello di controllo per l'adozione del framework del modello di applicazione sicura, rivolgiti al fornitore.
 
-    I fornitori di pannelli di controllo devono infatti eseguire l'[onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) al Centro per i partner come fornitore di pannelli di controllo e avviare subito l'implementazione di questo requisito. Vedere [Centro per i partner: framework del modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). I fornitori di pannelli di controllo devono accettare e usare il consenso dei partner CSP anziché le credenziali ed eliminare tutte le credenziali dei partner CSP esistenti.
+    I fornitori di pannelli di controllo devono infatti eseguire l'[onboarding](enroll-as-cpv.md) al Centro per i partner come fornitore di pannelli di controllo e avviare subito l'implementazione di questo requisito. Vedere [Centro per i partner: framework del modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). I fornitori di pannelli di controllo devono accettare e usare il consenso dei partner CSP anziché le credenziali ed eliminare tutte le credenziali dei partner CSP esistenti.
 
 ## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
 
@@ -124,9 +124,9 @@ Sì, per ogni utente sarà necessario imporre l'autenticazione MFA. Tuttavia, se
 
 I partner Cloud Solution Provider con fatturazione diretta devono applicare l'autenticazione MFA per ogni utente incluso nel tenant del partner.
 
-### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-this"></a>Sono un rivenditore indiretto ed eseguo le transazioni solo tramite un distributore. Devo comunque effettuare questa procedura?
+### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-enable-mfa"></a>Sono un rivenditore indiretto ed eseguo le transazioni solo tramite un distributore. Devo comunque abilitare l'autenticazione MFA?
 
-Tutti i rivenditori indiretti sono tenuti ad applicare l'autenticazione MFA per ogni utente incluso nel tenant del partner. Questa azione deve essere eseguita dal rivenditore indiretto.
+Tutti i rivenditori indiretti sono tenuti ad applicare l'autenticazione MFA per ogni utente incluso nel tenant del partner. Il rivenditore indiretto deve abilitare l'autenticazione MFA.
 
 ### <a name="i-dont-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>Se non uso l'API di Partner Center, è comunque necessario implementare l'autenticazione MFA?
 
@@ -152,7 +152,7 @@ No. L'applicazione di questi requisiti di sicurezza non avrà alcun effetto sull
 
 No, non è necessario applicare l'autenticazione MFA anche agli utenti inclusi nei tenant Azure AD dei clienti. Si consiglia tuttavia di collaborare con ogni cliente per determinare le procedure migliori per proteggere i rispettivi utenti.
 
-### <a name="can-any-user-be-excluded-from-this-requirement"></a>È possibile escludere un utente da questi requisiti?
+### <a name="can-any-user-be-excluded-from-the-mfa-requirement"></a>È possibile escludere un utente dal requisito di autenticazione MFA?
 
 No, l'autenticazione MFA è prevista per tutti gli utenti inclusi nel tenant del partner, inclusi gli account di servizio.
 
@@ -162,7 +162,7 @@ Sì, i requisiti di sicurezza dei partner vengono applicati anche alla sandbox d
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>Come è possibile configurare un account di accesso di emergenza (break glass)?
 
-È consigliabile creare uno o due account di accesso di emergenza per evitare di non poter accedere accidentalmente al tenant di Azure AD. In merito ai requisiti di sicurezza dei partner, è necessario che ogni utente esegua l'autenticazione tramite Multi-Factor Authentication. Questo significa dovrai modificare la definizione di un account di accesso di emergenza. Potrebbe trattarsi, ad esempio, di un account che usa una soluzione di terze parti per l'autenticazione MFA.
+È consigliabile creare uno o due account di accesso di emergenza per evitare di non poter accedere accidentalmente al tenant di Azure AD. Per quanto riguarda i requisiti relativi alla sicurezza dei partner, è necessario che ogni utente esegua l'autenticazione MFA. Questo requisito implica che è necessario modificare la definizione di un account di accesso di emergenza. Potrebbe trattarsi, ad esempio, di un account che usa una soluzione di terze parti per l'autenticazione MFA.
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>Se uso una soluzione di terze parti, è necessario Active Directory Federation Services (ADFS)?
 
@@ -174,7 +174,7 @@ No, non è necessario abilitarle.
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>È possibile usare l'accesso condizionale per soddisfare il requisito di autenticazione MFA?
 
-Sì, è possibile usare l'accesso condizionale per applicare l'autenticazione MFA a ogni utente presente nel tenant del partner, inclusi gli account di servizio. Considerati i privilegi elevati della condizione di partner, è tuttavia necessario garantire che ogni utente disponga di una richiesta MFA per ogni singola autenticazione. Questo significa che non potrai usare la funzionalità di accesso condizionale che elude il requisito dell'autenticazione MFA.
+Sì, è possibile usare l'accesso condizionale per applicare l'autenticazione MFA a ogni utente presente nel tenant del partner, inclusi gli account di servizio. Considerati i privilegi elevati della condizione di partner, è tuttavia necessario garantire che ogni utente disponga di una richiesta MFA per ogni singola autenticazione. Questo significa che non sarà possibile usare la funzionalità di accesso condizionale che elude il requisito dell'autenticazione MFA.
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>L'account di servizio usato da Azure AD Connect sarà interessato dai requisiti di sicurezza dei partner?
 
@@ -203,11 +203,11 @@ Tutti i partner che hanno sviluppato una procedura di integrazione personalizzat
 
 Se usi un pannello di controllo, devi rivolgerti al fornitore per informazioni sull'adozione del framework del modello di applicazione sicura.
 
-I fornitori di pannelli di controllo devono infatti eseguire l'[onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) al Centro per i partner come fornitore di pannelli di controllo e avviare subito l'implementazione di questo requisito. Vedere [Centro per i partner: framework del modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). I fornitori di pannelli di controllo devono accettare e usare il consenso dei partner CSP anziché le credenziali ed eliminare tutte le credenziali dei partner CSP esistenti.
+I fornitori di pannelli di controllo devono infatti eseguire l'[onboarding](enroll-as-cpv.md) al Centro per i partner come fornitore di pannelli di controllo e avviare subito l'implementazione di questo requisito. Vedere [Centro per i partner: framework del modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). I fornitori di pannelli di controllo devono accettare e usare il consenso dei partner CSP anziché le credenziali ed eliminare tutte le credenziali dei partner CSP esistenti.
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Il modello di applicazione sicura deve essere implementato solo per l'API/SDK del Centro per i partner?
 
-L'applicazione dell'autenticazione a più fattori per tutti gli account utente influirà su ogni automazione o integrazione progettata per essere eseguita in modalità non interattiva. Anche se i requisiti di sicurezza per i partner richiedano di abilitare il modello di applicazione sicura per l'API del Centro per i partner, è possibile sfruttarlo per soddisfare la necessità di un secondo fattore di autenticazione con l'automazione e l'integrazione. 
+L'applicazione dell'autenticazione a più fattori per tutti gli account utente influirà su ogni automazione o integrazione progettata per essere eseguita in modalità non interattiva. Anche se i requisiti relativi alla sicurezza dei partner richiedono di abilitare il modello di applicazione sicura per l'API del Centro per i partner, è possibile sfruttarlo per soddisfare la necessità di un secondo fattore di autenticazione con l'automazione e l'integrazione.
 
 >[!Note] 
 >La risorsa a cui si accede deve supportare l'autenticazione basata su token di accesso.
@@ -221,7 +221,7 @@ Se la tua automazione è progettata per essere eseguita in modo non interattivo 
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>Quali credenziali utente devono essere fornite dall'amministratore dell'applicazione durante l'esecuzione del processo di consenso?
 
-Si consiglia di usare un account di servizio a cui sono assegnate autorizzazioni con privilegi minimi. Per quanto riguarda l'API del Centro per i partner, questo significa che devi usare un account a cui è assegnato il ruolo Agente di vendita o Agente amministratore.
+Si consiglia di usare un account di servizio a cui sono assegnate autorizzazioni con privilegi minimi. Per quanto riguarda l'API del Centro per i partner, è necessario usare un account a cui è stato assegnato il ruolo Agente di vendita o Agente amministratore.
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>Perché l'amministratore dell'applicazione non deve fornire credenziali di amministratore globale durante l'esecuzione del processo di consenso?
 
@@ -237,17 +237,20 @@ Un fornitore di pannelli di controllo è un fornitore di software indipendente c
 
 ### <a name="i-am-a-cpv-how-do-i-enroll"></a>Come può essere eseguita la registrazione dai fornitori di pannelli di controllo (CPV)?
 
-Per registrarsi come fornitore di pannelli di controllo, attenersi alle linee guida riportate [qui](https://docs.microsoft.com/partner-center/enroll-as-cpv).
+Per registrarsi come fornitore di pannelli di controllo, attenersi alle linee guida riportate [qui](enroll-as-cpv.md).
 
 I fornitori di pannelli di controllo devono contattare [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) per ricevere il collegamento di iscrizione e specificare un dipendente Microsoft sponsor che abbia una relazione commerciale con il fornitore di pannelli di controllo e ne conosca il tipo di attività, ad esempio un Partner Development Manager (PDM).
 
 Dopo l'iscrizione al Centro per i partner e la registrazione delle applicazioni, potrai accedere alle API del Centro per i partner. Se sei un nuovo fornitore di pannelli di controllo, riceverai le informazioni sulla sandbox tramite una notifica del Centro per i partner. Dopo aver completato la registrazione come fornitore di pannelli di controllo Microsoft e aver accettato il contratto per CPV, è possibile:
 
-1. Gestire un'applicazione multi-tenant (aggiungere applicazioni al portale di Azure, registrare e annullare la registrazione di applicazioni nel Centro per i partner). 
-     >[!Note] 
-     >per ottenere l'autorizzazione per le API del Centro per i partner, i fornitori di pannelli di controllo devono registrare le proprie applicazioni nel Centro per i partner. La semplice aggiunta di applicazioni al portale di Azure non fornisce alle applicazioni dei fornitori di pannelli di controllo l'autorizzazione ad accedere alle API del Centro per i partner.
-2. Visualizzare e gestire il profilo dei fornitori di pannelli di controllo.
-3. Visualizzare e gestire gli utenti che devono accedere alle funzionalità dei fornitori di pannelli di controllo. L'unico ruolo che un fornitore di pannelli di controllo può avere è quello di amministratore globale.
+1. Gestire un'applicazione multi-tenant (aggiungere applicazioni al portale di Azure, registrare e annullare la registrazione di applicazioni nel Centro per i partner).
+
+   >[!Note]
+   >per ottenere l'autorizzazione per le API del Centro per i partner, i fornitori di pannelli di controllo devono registrare le proprie applicazioni nel Centro per i partner. La semplice aggiunta di applicazioni al portale di Azure non fornisce alle applicazioni dei fornitori di pannelli di controllo l'autorizzazione ad accedere alle API del Centro per i partner.
+
+1. Visualizzare e gestire il profilo dei fornitori di pannelli di controllo.
+
+1. Visualizzare e gestire gli utenti che devono accedere alle funzionalità dei fornitori di pannelli di controllo. A un fornitore di pannelli di controllo può essere assegnato solo il ruolo di amministratore globale.
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>Per i partner che usano il Partner Center SDK, l'SDK adotterà automaticamente il modello di applicazione sicura?
 
@@ -255,11 +258,11 @@ No, dovrai seguire le indicazioni fornite nella [guida al modello di applicazion
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-dont-have-mfa-enabled"></a>Posso generare un token di aggiornamento per il modello di applicazione sicura con account per i quali non è abilitata l'autenticazione MFA?
 
-Sì, è possibile generare un token di aggiornamento anche con un account per il quale non è abilitata l'autenticazione MFA. Questa operazione, tuttavia, non dovrebbe essere eseguita perché tutti i token generati con un account che non usa l'autenticazione MFA non potranno accedere alle risorse a causa dei requisiti previsti per l'autenticazione MFA.
+Sì, è possibile generare un token di aggiornamento anche con un account per il quale non è abilitata l'autenticazione MFA. È tuttavia consigliabile evitare questa operazione. Tutti i token generati con un account che non usa l'autenticazione MFA non potranno accedere alle risorse a causa dei requisiti previsti per l'autenticazione MFA.
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>In che modo un'applicazione può ottenere un token di accesso se si abilita l'autenticazione MFA?
 
-È necessario attenersi alla [guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf), che fornisce informazioni dettagliate su come eseguire questa operazione rispettando al tempo stesso i nuovi requisiti di sicurezza. È possibile trovare il codice di esempio .NET [qui](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) e il codice di esempio Java [qui](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model).
+È necessario seguire la [guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf), che fornisce informazioni dettagliate su come eseguire questa operazione rispettando al tempo stesso i nuovi requisiti relativi alla sicurezza. È possibile trovare il codice di esempio .NET [qui](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) e il codice di esempio Java [qui](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model).
 
 ### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>I fornitori di pannelli di controllo devono creare un'applicazione Azure AD nel tenant del CPV o nel tenant del partner CSP?
 
@@ -293,7 +296,7 @@ Se non sei certo che la soluzione di terze parti rilasci l'attestazione prevista
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA mi impedisce di supportare i miei clienti usando Amministra per conto terzi. Come posso procedere?
 
-L'applicazione tecnica dei requisiti di sicurezza per i partner verificherà se l'account autenticato è stato testato per l'autenticazione a più fattori. Se l'account non è stato sottoposto a questa verifica, verrai reindirizzato alla pagina di accesso e ti verrà chiesto di eseguire di nuovo l'autenticazione. Per consultare esperienze e indicazioni più dettagliate, vedi il documento [Imposizione dell'autenticazione a più fattori per il tenant del partner](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). Nello scenario in cui il tuo dominio non è federato, dopo l'autenticazione ti verrà chiesto di configurare l'autenticazione a più fattori. Al termine, potrai gestire i clienti usando la funzionalità di amministrazione per conto terzi (AOBO). Nello scenario in cui invece il tuo dominio è federato, dovrai assicurarti che l'account venga testato per l'autenticazione a più fattori.
+L'applicazione tecnica dei requisiti di sicurezza per i partner verificherà se l'account autenticato è stato testato per l'autenticazione a più fattori. Se l'account non è stato sottoposto a questa verifica, verrai reindirizzato alla pagina di accesso e ti verrà chiesto di eseguire di nuovo l'autenticazione. Per consultare esperienze e indicazioni più dettagliate, vedi il documento [Imposizione dell'autenticazione a più fattori per il tenant del partner](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). Nello scenario in cui il tuo dominio non è federato, dopo l'autenticazione ti verrà chiesto di configurare l'autenticazione a più fattori. Al termine, sarà possibile gestire i clienti usando la funzionalità di amministrazione per conto terzi (AOBO). Nello scenario in cui invece il tuo dominio è federato, dovrai assicurarti che l'account venga testato per l'autenticazione a più fattori.
 
 ## <a name="security-defaults-transition"></a>Transizione alle impostazioni predefinite per la sicurezza
 
@@ -315,7 +318,7 @@ Per essere conforme e ridurre le interruzioni, esegui una delle azioni seguenti:
 
 ### <a name="how-to-get-started"></a>Operazioni preliminari
 
-- [Requisiti di sicurezza per i partner: guida dettagliata](https://docs.microsoft.com/partner-center/partner-security-requirements).
+- [Requisiti di sicurezza per i partner: guida dettagliata](partner-security-requirements.md).
 - Indirizzare eventuali domande e commenti a questo [gruppo di linee guida per la sicurezza del Centro per i partner](https://aka.ms/MPCSecurityGuidance).
 - Partecipare ai prossimi webinar per i partner. Controlla [qui il programma dettagliato e le risorse](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance).
 
@@ -340,9 +343,8 @@ Le opzioni di supporto tecnico di prodotto per Azure Active Directory sono dispo
 
 ### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>Come è possibile contattare il supporto se si perde l'accesso al Centro per i partner?
 
-Passa a [Supporto Microsoft Partner](https://partner.microsoft.com/support) e quindi scegli **Show all support options** (Mostra tutte le opzioni di supporto). Visualizzerai le opzioni disponibili per contattare il supporto per i partner Microsoft. Le opzioni includono un numero di telefono per chiamare il supporto e un'opzione per chattare con il supporto. 
+Passa a [Supporto Microsoft Partner](https://partner.microsoft.com/support) e quindi scegli **Show all support options** (Mostra tutte le opzioni di supporto). Verranno visualizzate le opzioni disponibili per contattare il Supporto Microsoft Partner, incluso un numero di telefono per chiedere assistenza, e un'opzione per avviare una chat con il supporto.
 
-### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>Dove è possibile trovare altre informazioni sui problemi tecnici più comuni?
+### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>Dove è possibile trovare altre informazioni sui problemi tecnici più comuni?
 
-Informazioni sui problemi tecnici sono comuni disponibili [qui.](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues)
-
+Per informazioni relative ai problemi tecnici più comuni, vedere [Requisiti di sicurezza per partner che usano il Centro per i partner o le API del Centro per i partner](partner-security-requirements.md).

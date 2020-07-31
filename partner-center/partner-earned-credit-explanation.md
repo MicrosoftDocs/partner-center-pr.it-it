@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c42916c253d1ff2497f47c11c640f2805fc0a86
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: db2dc98d3f40dbb29bd00111d8787a4a8cb0e082
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436740"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943618"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Come viene calcolato e pagato il credito ottenuto dai partner
 
@@ -48,15 +48,17 @@ Leggi anche [Ripristinare i privilegi di amministratore per le sottoscrizioni di
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
- Gestione costi di Azure (ACM) con Analisi dei costi consente a ogni partner di visualizzare i costi che hanno ricevuto il vantaggio di credito ottenuto dai partner.  
+Gestione costi di Azure (ACM) con Analisi dei costi consente a ogni partner di visualizzare i costi che hanno ricevuto il vantaggio di credito ottenuto dai partner.  
 
-1. Nel portale di Azure accedi al tenant partner e seleziona **Gestione dei costi e fatturazione**.
-2.  Seleziona **Gestione costi**.
-3.  Seleziona **Analisi dei costi**.
+1. Nel [portale di Azure](https://portal.azure.com) accedere al tenant del partner e selezionare **Gestione dei costi e fatturazione**.
 
-Nella visualizzazione Analisi dei costi verranno visualizzati i costi per l'account di fatturazione relativi a tutti i servizi acquistati e utilizzati ai prezzi pagati a Microsoft.
+2. Seleziona **Gestione costi**.
 
-4.  Seleziona **PartnerEarnedCreditApplied** nell'elenco a discesa di un grafico pivot per visualizzare i costi a cui è applicato il credito ottenuto dai partner. Quando la proprietà **PartnerEarnedCreditApplied** è True, il costo associato ha il vantaggio di credito ottenuto dai partner. 
+3. Seleziona **Analisi dei costi**.
+
+   Nella visualizzazione Analisi dei costi verranno visualizzati i costi per l'account di fatturazione relativi a tutti i servizi acquistati e utilizzati ai prezzi pagati a Microsoft.
+
+4. Seleziona **PartnerEarnedCreditApplied** nell'elenco a discesa di un grafico pivot per visualizzare i costi a cui è applicato il credito ottenuto dai partner. Quando la proprietà **PartnerEarnedCreditApplied** è True, il costo associato ha il vantaggio di credito ottenuto dai partner. 
 
 Quando la proprietà PartnerEarnedCreditApplied è False, il costo associato non soddisfa il criterio di idoneità del credito o il servizio acquistato non è idoneo al credito ottenuto dai partner.
 

@@ -9,14 +9,19 @@ ms.topic: conceptual
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: a8a090b4f49260ecbb6597d8b989a1a1156422ac
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286579"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365717"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Verificare le informazioni relative al profilo del partner nel Centro per i partner
+
+**Ruoli appropriati**
+
+- Amministratore globale
+- Amministratore account MPN
 
 Al primo accesso al Centro per i partner come amministratore globale, devi verificare che tutti i dettagli aziendali siano corretti. Tra cui, contatto principale, indirizzo, ragione sociale e informazioni sul programma. Se la società ha più di una località, verificare l'accuratezza dei dati della località. Come amministratore globale, amministratore fatturazione o agente di amministrazione, sarà possibile visualizzare e aggiornare le informazioni di fatturazione e fiscali.
 
@@ -56,5 +61,7 @@ Se durante la migrazione dal Partner Membership Center al Centro per i partner l
 Se si è amministratore globale, amministratore fatturazione o agente di amministrazione, è possibile modificare l'indirizzo visualizzato nella fattura nel **Profilo di fatturazione**. Tuttavia, non è possibile modificare il nome della società nella fattura a causa di una limitazione del sistema di fatturazione.
 
  
+## <a name="next-steps"></a>Passaggi successivi
 
+- [Gestire le sedi](manage-locations.md)
 

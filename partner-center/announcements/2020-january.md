@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: dd12838ec0cdbb697aa64b8b398d1a770d2a4517
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286609"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944008"
 ---
 # <a name="january-2020-announcements"></a>Annunci di gennaio 2020
 
@@ -53,7 +53,7 @@ I partner possono ora acquisire, effettuare il provisioning e gestire prenotazio
 ### <a name="additional-resources"></a>Risorse aggiuntive
 
 - Risorse del programma CSP nella pagina della raccolta dei partner: [Sottoscrizioni di Windows Server e SQL Server disponibili in Russia per i partner CSP](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
-- [Ulteriori informazioni sul Centro per i partner](https://docs.microsoft.com/partner-center/azure-plan-get-started)
+- [Ulteriori informazioni sul Centro per i partner](../azure-plan-get-started.md)
 
 ### <a name="next-steps"></a>Passaggi successivi
 
@@ -61,7 +61,7 @@ I partner possono ora acquisire, effettuare il provisioning e gestire prenotazio
 
 ### <a name="questions"></a>Domande?
 
-- Per domande o dubbi o per ulteriori informazioni, [contattare il supporto](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
+- Per eventuali domande, dubbi o altre informazioni, [contattare il supporto tecnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 _________________
 
@@ -76,7 +76,7 @@ _________________
 
 ### <a name="summary"></a>Riepilogo
 
-A partire dal 7 gennaio 2020, Microsoft ha introdotto i componenti aggiuntivi Sala riunioni e Riunioni per Microsoft 365 F1 per il GCC. Per ulteriori informazioni, vedere il listino prezzi.
+A partire dal 7 gennaio 2020, Microsoft ha introdotto i componenti aggiuntivi Sala riunioni e Riunioni per Microsoft 365 F1 per il GCC. Per altre informazioni, vedere il listino prezzi.
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
@@ -102,11 +102,11 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-Acquisire familiarità con il listino prezzi e condividere queste informazioni con tutti i contatti appropriati nella propria organizzazione, in particolare con il team delle vendite.
+Acquisire familiarità con il listino prezzi e condividere queste informazioni con tutti i contatti appropriati nell'organizzazione, in particolare con il team delle vendite.
 
 ### <a name="questions"></a>Domande?
 
-Per qualsiasi altra domanda su queste offerte, contattare il rappresentante nel team degli account Microsoft o controllare la community dei partner rilevante su Yammer.
+Per qualsiasi altra domanda su queste offerte, contattare il rappresentante del team degli account Microsoft o consultare la community dei partner Yammer pertinente.
 
 _________________
 
@@ -136,18 +136,18 @@ Lo script di **PowerShell** che consente agli amministratori IT di controllare, 
 AGGIORNAMENTO: nell'ultima settimana sono stati esaminati i commenti e suggerimenti ricevuti in merito all'implementazione delle funzionalità di acquisto self-service per i prodotti Power Platform. Grazie a chi ha inviato il proprio feedback. In base ai commenti e suggerimenti ricevuti, è stato modificato l'approccio in modo da soddisfare in modo ottimale le esigenze degli amministratori IT e degli utenti finali nelle organizzazioni. Verranno apportate le modifiche seguenti al piano:
 
 - Il 19 novembre verrà indicato agli amministratori IT un approccio per disattivare l'acquisto self-service per i singoli prodotti tramite PowerShell. Altri dettagli saranno presto disponibili.
-- Per concedere più tempo per la preparazione a questa modifica, verrà aggiornata la data di lancio delle funzionalità di acquisto self-service per i prodotti Power Platform in modo che siano disponibili insieme a Power BI il 14 gennaio per tutti i clienti del cloud commerciale. Altri dettagli su PowerApps e Power Automate saranno presto disponibili.
+- Per concedere più tempo per la preparazione a questa modifica, verrà aggiornata la data di lancio delle funzionalità di acquisto self-service per i prodotti Power Platform in modo che siano disponibili insieme a Power BI il 14 gennaio per tutti i clienti del cloud commerciale. Altri dettagli su Power Apps e Power Automate saranno presto disponibili.
 
 Grazie per avere condiviso i commenti e suggerimenti personali. Microsoft si impegna per favorire una collaborazione continua e offrire alle organizzazioni maggiori opportunità.
 
 La trasformazione digitale è in continua crescita a livello globale e gli utenti finali e le business unit adottano e acquistano sempre più spesso autonomamente soluzioni SaaS (Software as a Service) personalizzate. Lo scopo dell’introduzione della funzionalità di acquisto self-service è di permettere agli utenti di acquistare licenze uno-a-molti, offrendo maggiore flessibilità e libertà ai reparti, ai team o all'intera azienda per la creazione di soluzioni personalizzate.
 
-Questa funzionalità viene resa disponibile dopo un'implementazione a fasi dei prodotti Microsoft Power Platform (Power BI, PowerApps, Power Automate):
+Viene seguita un'implementazione a più fasi dei prodotti Microsoft Power Platform (Power BI, Power Apps, Power Automate):
 
 - La disponibilità tramite l'approccio self-service sarà offerta insieme a **Power BI il 14 gennaio**.
 - L'implementazione inizierà con i clienti negli Stati Uniti e verrà successivamente estesa ad altre aree geografiche.
 - Questa funzionalità non sarà disponibile in questo momento per i clienti correlati a enti governativi, organizzazioni no profit o istituti di istruzione.
-- Informazioni dettagliate su PowerApps e Power Automate saranno disponibili a breve.
+- Informazioni dettagliate su Power Apps e Power Automate saranno disponibili a breve.
 
 I partner possono approfittare dei vantaggi degli acquisti self-service creando soluzioni che si estendono in Azure e Power Platform. I partner con accesso come amministratori potranno visualizzare i singoli acquisti di Power Platform nell'interfaccia di amministrazione di Microsoft 365 e potranno gestirli come clienti potenziali per le rispettive soluzioni cloud. Ad esempio, un partner che vede un gruppo di lavoro adottare Power BI potrà creare e vendere dashboard avanzati di Power BI che eseguono il pull di dati dai database SQL di Azure o da altre applicazioni aziendali. Man mano che l'adozione si diffonde in modo virale nelle organizzazioni tramite gli acquisti self-service, i partner possono anche vendere un’ampia copertura per Power Platform al reparto IT centrale.
 
@@ -190,7 +190,7 @@ Si consiglia di iniziare a usare il nuovo dashboard per le informazioni dettagli
 ### <a name="additional-resources"></a>Risorse aggiuntive
 
 - Esaminare tutte le risorse per informazioni dettagliate relative ad accesso, esplorazione, panoramiche e utilizzo dei report, condivisione di commenti e suggerimenti e altro ancora disponibili qui: [Annuncio di un nuovo dashboard (beta) per la creazione di report nel Centro per i partner](https://partner.microsoft.com/resources/collection/partner-center-insights-reporting-dashboard#/)
-- Domande? [Contattare il supporto tecnico per i partner](https://partner.microsoft.com/support).
+- Domande? [Contattare il supporto per i partner](https://partner.microsoft.com/support).
 
 ### <a name="change-log"></a>Registro delle modifiche
 
@@ -229,7 +229,7 @@ I partner possono presentare il nuovo Contratto del cliente Microsoft ai clienti
 
 - Confermare l'accettazione del nuovo Contratto del cliente Microsoft prima del 31 gennaio 2020.
 - Preparare i propri agenti e rivenditori sulle condizioni del nuovo contratto, su come presentarlo ai clienti e su come convalidarne l'accettazione. I provider indiretti devono collaborare con i rivenditori indiretti per convalidare l'accettazione del cliente.
-- I provider con fatturazione diretta e indiretta che usano le API dovranno aggiornare l'implementazione esistente in base al nuovo Contratto del cliente Microsoft usando l'[API aggiornata](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+- I provider con fatturazione diretta e indiretta che usano le API dovranno aggiornare l'implementazione esistente in base al nuovo Contratto del cliente Microsoft usando l'[API aggiornata](../confirm-customer-agreement.md).
 - I provider con fatturazione diretta e indiretta possono usare anche l'interfaccia utente Web del Centro per i partner per confermare l'accettazione da parte del cliente.
 
 ### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a>Risorse aggiuntive I partner possono visualizzare il contenuto disponibile nella [pagina della raccolta CSP](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/), tra cui:
@@ -288,7 +288,7 @@ Queste offerte non dovrebbero essere incluse nel listino prezzi e verranno rimos
 
 - Offerta: PowerApps - Piano per app per studenti - ID offerta: e1f379e8-cf22-4a7d-97fd-dcf9d62fc132
 
-Queste offerte sono state rimosse erroneamente dal listino prezzi di gennaio ma sono ancora disponibili. Per informazioni sui rispettivi prezzi, vedere il listino prezzi di dicembre. Queste offerte verranno aggiunte di nuovo nel listino prezzi del mese successivo:
+Queste offerte sono state rimosse erroneamente dal listino prezzi di gennaio ma sono ancora disponibili. Per informazioni sui rispettivi prezzi, vedere i listini prezzi di dicembre. Queste offerte verranno aggiunte di nuovo nel listino prezzi del mese successivo:
 
 - Office 365 A1 per istituti di istruzione (per dispositivo) - ID offerta: `0757d14e-7c57-456f-8dab-47d164f2ff1f`
 - Office 365 A1 per studenti (per dispositivo) - ID offerta: `bae285a9-d56b-4384-b02f-38adc61a6f12`
@@ -369,9 +369,9 @@ Le offerte seguenti non saranno più disponibili per Dynamics 365 Human Resource
 
 Informazioni per SKU in sospeso
 
-Il 1° febbraio 2020, Microsoft modificherà i nomi di alcune famiglie di prodotti e di alcune offerte per allinearli ai nomi per le offerte esistenti di Dynamics 365 e Power Platform usati in altri canali e altre aree.
+Il 1° febbraio 2020 Microsoft ha modificato i nomi di alcune famiglie di prodotti e offerte per allinearli ai nomi delle offerte di Dynamics 365 e Power Platform esistenti in altri canali e altre aree.
 
-Per informazioni specifiche sulle modifiche, vedere il file "Dynamics CSP Offer Name Changes – Feb 2020" disponibile [qui](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
+Per informazioni sulle modifiche specifiche, vedere il file "Dynamics CSP Offer Name Changes – Feb 2020" disponibile [qui](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
 
 ### <a name="additional-resources"></a>Risorse aggiuntive
 
@@ -379,7 +379,7 @@ Per informazioni specifiche sulle modifiche, vedere il file "Dynamics CSP Offer 
 - [Home page della guida alle app di realtà mista](https://dynamics.microsoft.com/mixed-reality/guides/)
 - [Home page di Biz Apps per la protezione da frodi](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
 - [Home page dei prodotti Power Platform](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
-- [Aggiornamenti alle licenze di PowerApps e Flow per l'anno fiscale 2020](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [Aggiornamenti alle licenze di Power Apps e Flow per FY20](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Licenze di Microsoft Dynamics 365](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 
 ### <a name="next-steps"></a>Passaggi successivi
@@ -389,7 +389,7 @@ Per informazioni specifiche sulle modifiche, vedere il file "Dynamics CSP Offer 
 
 ### <a name="questions"></a>Domande?
 
-- Per assistenza strettamente correlata alle operazioni con Microsoft, [contattare il supporto tecnico](https://partner.microsoft.com/pcv/servicerequests/create).
+- Per assistenza strettamente correlata alle operazioni con Microsoft, [contattare il supporto](https://partner.microsoft.com/pcv/servicerequests/create).
 
 ### <a name="change-log"></a>Registro delle modifiche
 

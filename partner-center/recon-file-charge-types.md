@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444767"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479114"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Informazioni sui diversi tipi di addebito nei file di riconciliazione del centro per i partner
 
@@ -52,8 +52,7 @@ Per eseguire il mapping di questi addebiti basati su licenza alla fattura, somma
 | Tariffe propagate quando si annulla | Rimborso proporzionale per la parte di servizio inutilizzata al momento dell'annullamento. |
 | Tariffe propagate quando si esegue la conversione a partire dall'offerta corrente | Addebiti rivalutati dopo la conversione dalla sottoscrizione mensile corrente a una sottoscrizione annuale. |
 | Tariffe della propagazione durante la conversione in una nuova offerta | Addebiti rivalutati dopo la conversione di una sottoscrizione mensile in una nuova sottoscrizione annuale. |
-| Ripartizione delle tariffe all'acquisto | Tipo di addebito per una sottoscrizione quando si usa la fatturazione annuale. |
-| Tariffa di acquisto | Tipo di addebito per una sottoscrizione quando si usa la fatturazione mensile. |
+| Ripartizione delle tariffe all'acquisto | Tipo di addebito per una sottoscrizione quando si usa la fatturazione mensile o annuale. |
 | Tariffa della propagazione al rinnovo | Tariffe riordinate al rinnovo della sottoscrizione. |
 | Tassa di rinnovo | Addebito per il rinnovo di una sottoscrizione |
 | Tariffe propagate all'attivazione | Tariffe rivalutate dall'attivazione fino alla fine del periodo di fatturazione. |

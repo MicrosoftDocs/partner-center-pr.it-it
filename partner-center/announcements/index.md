@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
-ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
+ms.openlocfilehash: ff92983f936add17d746c08815149ffb2731cbab
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87330118"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479084"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di luglio 2020** | **Annunciato** |
 |---------|:---------|:---------|
+|Funzionalità|[Modifiche al lancio delle offerte Extended Dial-out di Enterprise Voice e Audio Conferencing](2020-july.md#10)|31 luglio|
 |Funzionalità|[Modifiche apportate alle API del Centro per i partner](2020-july.md#9)|28 luglio|
 |Funzionalità|[Versione dell'SDK in .NET Standard v1.16.1-preview](2020-july.md#8)|21 luglio|
 |Funzionalità|[Incentivo Cloud Solution Provider (CSP) per le offerte ottimizzate del marketplace commerciale Microsoft per FY21](2020-july.md#7)|22 luglio|

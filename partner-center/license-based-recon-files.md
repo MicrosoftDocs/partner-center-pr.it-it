@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd275c074bb3710a2a438d65989b16a1be398830
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 86581db73f1bf2b6660af45aca4747a5db779bbe
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377695"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444923"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Informazioni sui campi nei file di riconciliazione basati su licenze per il centro per i partner
 
@@ -46,11 +46,11 @@ Per riconciliare le modifiche rispetto agli ordini di un cliente, confrontare il
 | OfferName | Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. | *Microsoft Office 365 (Piano E3)* |
 | SubscriptionStartDate | Data di inizio della sottoscrizione. L'ora è sempre l'inizio del giorno, 0:00. Questo campo viene impostato sul giorno dopo l'invio dell'ordine. Usato insieme a **SubscriptionEndDate** per determinare: se il cliente è ancora entro il primo anno della sottoscrizione o se la sottoscrizione è stata rinnovata per l'anno successivo. | *2/1/2019 0:00* |
 | SubscriptionEndDate | Data di fine della sottoscrizione. L'ora è sempre l'inizio del giorno, 0:00. *12 mesi più **x** giorni dopo la data di inizio* per allinearsi alla data di fatturazione del partner o a *12 mesi dalla data di rinnovo*. In fase di rinnovo, i prezzi vengono aggiornati rispetto al listino prezzi corrente. È possibile che venga richiesta una comunicazione con il cliente prima del rinnovo automatico. | *2/1/2019 0:00* |
-| ChargeStartDate | Giorno di inizio degli addebiti. L'ora è sempre l'inizio del giorno, 0:00. Usato per calcolare i prezzi giornalieri (addebiti*pro rata* ) quando un cliente modifica i numeri di posto. | *2/1/2019 0:00* |
-| ChargeEndDate | Giorno di fine degli addebiti. L'ora indicata è sempre la fine della giornata, le 23:59. Usato per calcolare i prezzi giornalieri (addebiti*pro rata* ) quando un cliente modifica i numeri di posto. | *2/28/2019 23:59* |
+| ChargeStartDate | Giorno di inizio degli addebiti. L'ora è sempre l'inizio del giorno, 0:00. Usato per calcolare i prezzi giornalieri (addebiti*pro rata* ) quando un cliente modifica i numeri di licenza. | *2/1/2019 0:00* |
+| ChargeEndDate | Giorno di fine degli addebiti. L'ora indicata è sempre la fine della giornata, le 23:59. Usato per calcolare i prezzi giornalieri (addebiti*pro rata* ) quando un cliente modifica i numeri di licenza. | *2/28/2019 23:59* |
 | ChargeType | [Tipo di addebito](recon-file-charge-types.md) o regolazione. | Vedere [tipi di addebito](recon-file-charge-types.md). |
-| UnitPrice | Prezzo per postazione, come pubblicato nel listino prezzi al momento dell'acquisto. Assicurarsi che corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione. | *6,82* |
-| Quantità | Numero di postazioni. Assicurarsi che corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione. | *2* |
+| UnitPrice | Prezzo per licenza, come pubblicato nel listino prezzi al momento dell'acquisto. Assicurarsi che corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione. | *6,82* |
+| Quantità | Numero di licenze. Assicurarsi che corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione. | *2* |
 | Amount | Prezzo totale per la quantità. Utilizzato per verificare se il calcolo della quantità corrisponde alla modalità di calcolo di questo valore per i clienti. | *13.32* |
 | TotalOtherDiscount | Importo dello sconto applicato a questi addebiti. Le licenze dei prodotti incluse con una competenza o mappe, o nuove sottoscrizioni idonee per un incentivo, conterranno anche un importo di sconto in questo articolo. | *2,32* |
 | Subtotale | Totale al lordo delle imposte. Controlla se il subtotale corrisponde al totale previsto, in caso di sconto. | *11* |

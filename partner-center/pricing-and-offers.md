@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f119410e1d1530ba909d4ce18edd83b718da74f8
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286629"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444796"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prezzi e offerte per Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e altro ancora
 
@@ -48,7 +48,7 @@ Per visualizzare i programmi e le offerte del provider di soluzioni cloud più r
 
 I servizi basati su licenze includono un'anteprima di listino prezzi, che fornisce 30 giorni prima di qualsiasi modifica. Per visualizzare l'anteprima dell'elenco prezzi, vai a **vendi > prezzi e offerte**. Non sono disponibili anteprime dei prezzi per i servizi basati sull'utilizzo poiché questi servizi sono dinamici. Nella tabella seguente viene illustrato come leggere la tabella Listino prezzi.
 
-|**Elemento**        |**Definition**      |
+|**Elemento**        |**Definizione**      |
 |:-----------   |:-----------   |
 |ADD   |Un nuovo elemento all'elenco prezzi|
 |CHG   |Modifiche al prezzo di listino dal mese al mese. Potrebbero verificarsi altre modifiche non correlate al prezzo di listino. i partner dovrebbero confrontare gli elenchi prezzi tra i mesi per determinare le modifiche apportate ad altre proprietà.|
@@ -89,8 +89,8 @@ CSP offre alcuni servizi a segmenti di mercato speciali, ad esempio Education, n
 
 |**Segmento**   |**utenti che devono qualificarsi**   |**Partner idoneo per i clienti**|**Tipi di prodotto abilitati**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Cliente|No, la qualifica del cliente verrà eseguita da Microsoft |Solo basato su licenza|
-|Senza scopo di lucro|Cliente|No, il cliente si qualifica all'esterno del centro per i partner|Solo basato su licenza|
+|Education|Customer|No, la qualifica del cliente verrà eseguita da Microsoft |Solo basato su licenza|
+|Senza scopo di lucro|Customer|No, il cliente si qualifica all'esterno del centro per i partner|Solo basato su licenza|
 |Government Community Cloud (GCC) (Cloud della community per enti pubblici)|Partner e cliente|Una volta abilitata la funzionalità GCC, il partner può creare clienti GCC| Solo basato su licenza|
 |Azure Government|Partner|Una volta qualificato, il partner opera in un tenant CSP specifico di Azure per enti pubblici|Risorse di Azure|
 
@@ -109,7 +109,7 @@ I servizi basati su licenze possono essere acquisiti come offerte di base o comp
 
 ## <a name="pricing-between-azure-and-non-azure"></a>Confronto prezzi tra Azure e non Azure
 
-I prezzi variano in base ai diversi tipi di offerte. I prezzi basati sulle licenze sono in genere la quantità per postazione (licenza) per un determinato mese. I prezzi basati sull'utilizzo sono determinati dall'uso di una determinata risorsa, con un ID contatore associato. Ai partner non viene addebitato l'acquisto della sottoscrizione di Azure. Tuttavia, ai partner vengono addebitate le risorse utilizzate da distribuzioni diverse nella sottoscrizione di Azure. I prezzi nell'elenco prezzi basato sull'utilizzo sono organizzati in base a diversi ID del contatore delle risorse in Azure.
+I prezzi variano in base ai diversi tipi di offerte. I prezzi basati sulle licenze sono in genere la quantità per ogni licenza per un determinato mese. I prezzi basati sull'utilizzo sono determinati dall'uso di una determinata risorsa, con un ID contatore associato. Ai partner non viene addebitato l'acquisto della sottoscrizione di Azure. Tuttavia, ai partner vengono addebitate le risorse utilizzate da distribuzioni diverse nella sottoscrizione di Azure. I prezzi nell'elenco prezzi basato sull'utilizzo sono organizzati in base a diversi ID del contatore delle risorse in Azure.
 
 Le prenotazioni di Azure sono acquisti basati su termini per il tipo di risorsa specifico, ovvero macchine virtuali. L'acquisto di una prenotazione di Azure consente a un partner di pagare in anticipo (uno o tre anni) e di riservare una determinata macchina virtuale. Le prenotazioni salvano il denaro del partner e assicurano che la macchina virtuale sia sempre disponibile per tutta la durata del periodo di validità. Un partner può allineare la prenotazione che desidera per gli ID del contatore delle risorse basate sull'utilizzo. Gli ID del contatore sono coerenti tra le risorse, se il partner Acquista una macchina virtuale o semplicemente distribuisce la macchina virtuale come risorsa basata sull'utilizzo.
 

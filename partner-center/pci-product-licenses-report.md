@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Verifica il report licenze del prodotto e Scopri come migliorare i prodotti cloud con licenza (o basata su postazione) che Vendi o Gestisci per i tuoi clienti.
+description: Verifica il report licenze del prodotto e Scopri come migliorare con i prodotti cloud basati su licenza che Vendi o Gestisci per i tuoi clienti.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436660"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444841"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Report licenze del prodotto nel dashboard di partner Center Insights
 
@@ -24,9 +24,9 @@ ms.locfileid: "86436660"
 - Visualizzatore report
 - Visualizzatore report Executive
 
-Il report licenze prodotto presenta l'analisi delle licenze per i prodotti cloud basati su Seat, ad esempio O365, Dynamics, M365, Power BI e così via. Le analisi presentate in questo articolo sono associate all'utilizzo delle licenze vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report licenze prodotto.
+Il report licenze prodotto presenta l'analisi delle licenze per i prodotti cloud basati su licenze, ad esempio O365, Dynamics, M365, Power BI e così via. Le analisi presentate in questo articolo sono associate all'utilizzo delle licenze vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report licenze prodotto.
 
-- Riepilogo
+- Summary
 - Distribuzione geografica delle licenze
 - Aggiunta licenza
 - Distribuzione delle licenze per località partner, canale di vendita, SKU, tipo di connessione partner, segmento
@@ -38,7 +38,7 @@ Il report licenze prodotto presenta l'analisi delle licenze per i prodotti cloud
 
 La sezione Summary (riepilogo) fornisce una visualizzazione snapshot degli indicatori di prestazioni chiave (KPI) associati alle licenze dei prodotti cloud vendute, distribuite e usate. Questo consente di tenere traccia dell'utilizzo attivo rispetto alle licenze vendute ai clienti.
 
-- Licenze: numero corrente di tutte le licenze vendute o gestite dall'utente per prodotti cloud basati su Seat, ad esempio O365, Dynamics, M365, Power BI e così via. Percentuale di aumento o diminuzione delle licenze per l'intervallo di date selezionato.
+- Licenze: numero corrente di tutte le licenze vendute o gestite dall'utente per prodotti cloud basati su licenze, ad esempio O365, Dynamics, M365, Power BI e così via. Percentuale di aumento o diminuzione delle licenze per l'intervallo di date selezionato.
 
 Il grafico micro presenta la tendenza mensile dei conteggi delle licenze durante l'intervallo di date selezionato
 

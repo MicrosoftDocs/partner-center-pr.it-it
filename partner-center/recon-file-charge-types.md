@@ -1,5 +1,5 @@
 ---
-title: Tipi di addebito file di riconciliazione
+title: Tipi di addebito dei file di riconciliazione
 ms.topic: article
 ms.date: 06/05/2020
 description: Individuare i tipi di addebiti (ad esempio, basati su licenza, utilizzo e una volta), crediti e sconti nei file di riconciliazione del centro per i partner.
@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fdd372ba260254032d0978e6b2f80947d11aa84f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949308"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444767"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Informazioni sui diversi tipi di addebito nei file di riconciliazione del centro per i partner
 
@@ -45,10 +45,10 @@ Per eseguire il mapping di questi addebiti basati su licenza alla fattura, somma
 | Descrizione addebito (colonna ChargeType nel file di riconciliazione) | Spiegazione di addebito |
 | ------------------------------------------------------------- | ------------------ |
 | Commissione di attivazione | Importo addebitato al cliente quando utilizza la sottoscrizione dopo l'acquisto. |
-| Commissione di annullamento | Addebiti rivalutati per il cliente quando vengono modificate le postazioni associate. |
-| Annulla profrequenza istanza | Addebiti rivalutati annullati quando al cliente con sottoscrizione mensile è stata sospesa la sottoscrizione e le postazioni associate sono state modificate nello stesso mese |
+| Commissione di annullamento | Addebiti rivalutati per il cliente quando vengono modificate le licenze associate. |
+| Annulla profrequenza istanza | Addebiti rivalutati annullati quando al cliente con sottoscrizione mensile è stata sospesa la sottoscrizione e le licenze associate sono state modificate nello stesso mese. |
 | Tariffa periodica | Addebiti periodici per una sottoscrizione. |
-| Ripartizione dell'istanza del ciclo | Addebiti rivalutati dal cliente quando vengono modificate le postazioni associate. |
+| Ripartizione dell'istanza del ciclo | Addebiti rivalutati dal cliente quando vengono modificate le licenze associate. |
 | Tariffe propagate quando si annulla | Rimborso proporzionale per la parte di servizio inutilizzata al momento dell'annullamento. |
 | Tariffe propagate quando si esegue la conversione a partire dall'offerta corrente | Addebiti rivalutati dopo la conversione dalla sottoscrizione mensile corrente a una sottoscrizione annuale. |
 | Tariffe della propagazione durante la conversione in una nuova offerta | Addebiti rivalutati dopo la conversione di una sottoscrizione mensile in una nuova sottoscrizione annuale. |
@@ -68,7 +68,7 @@ Per eseguire il mapping di questi addebiti monouso alla fattura, sommare la colo
 | addQuantity | Usato sia per il rimborso dell'acquisto originale che per la nuova quantità dopo un aumento. |
 | removeQuantity | Utilizzato sia per il rimborso dell'acquisto originale che per la nuova quantità dopo una riduzione. |
 | Annulla | Utilizzato quando viene annullata una sottoscrizione. |
-| Conversione | Usato quando viene aggiornata una licenza, ma il numero di postazioni rimane invariato. |
+| Conversione | Usato quando viene aggiornata una licenza, ma il numero di licenze rimane invariato. |
 
 ## <a name="usage-charges"></a>Addebiti per utilizzo
 

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b91b2f9580d9c369e7a267c2b413db8a4a6300d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436630"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444987"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprendere la fattura e il file di riconciliazione: informazioni su come trovarli nel centro per i partner
 
@@ -36,7 +36,7 @@ La **fattura** è un **Riepilogo di tutti gli addebiti** per il centro per i par
 
 Microsoft emetterà una fattura per tutti gli addebiti basati sulle licenze, ad esempio Office 365, e gli addebiti basati sull'utilizzo (ad esempio Azure) e una fattura separata per gli addebiti monouso, ad esempio Azure RI, Marketplace o piano di Azure.
 
-ad esempio:  
+Ad esempio,  
 
 **Scenario 1 [singola valuta]**: il partner ha acquistato l'offerta 145P e le licenze O365  
 
@@ -88,7 +88,7 @@ Scadenza **pagamento**: data in cui deve essere ricevuto il pagamento.
 
 **Addebiti**: importo dovuto alla valuta di fatturazione per il rispettivo periodo di fatturazione. 
 
-**Crediti**: crediti, ad esempio SLA, o rettifiche per le modifiche apportate alle sottoscrizioni (ad esempio, aumenti o riduzioni della postazione). 
+**Crediti**: crediti, ad esempio SLA, o rettifiche per le modifiche apportate alle sottoscrizioni (ad esempio, aumenti o diminuzioni della licenza). 
 
 **Istruzioni**per il pagamento: Descrizione di come pagare la fattura in base all'area geografica. Quando si effettua un pagamento, assicurarsi sempre di includere il numero di fattura. 
 

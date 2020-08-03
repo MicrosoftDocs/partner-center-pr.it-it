@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 057c0549d05fc560a325c20a31e64f516d0d7ff8
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944498"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87445000"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto
 
@@ -277,7 +277,7 @@ Per creare una richiesta di trasferimento come partner di transizione:
 
     :::image type="content" source="images/direct/direct9.png" alt-text="Creazione della richiesta di trasferimento":::
 
-8. Fare clic su **Crea**.
+8. Scegliere **Crea**.
 
 9. Una richiesta di trasferimento di sottoscrizione attiva verrà visualizzata in **trasferimento sottoscrizione**.
 
@@ -333,7 +333,7 @@ Il partner di transizione deve eseguire le operazioni seguenti:
 
    1. Se si tratta di una sottoscrizione di Azure (MS-AZR-0145P), non verrà più elencata.
 
-   2. Se si tratta di una sottoscrizione basata su postazione (Office 365, Dynamics, Intune), verrà elencata con stato come **sospesa**.
+   2. Se si tratta di una sottoscrizione basata su licenza (Office 365, Dynamics, Intune), questa verrà elencata con stato come **sospesa**.
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Sottoscrizione sospesa":::
 
@@ -343,9 +343,9 @@ Il partner di transizione deve eseguire le operazioni seguenti:
 
 - **Non è possibile fare riferimento alla stessa sottoscrizione da più richieste di trasferimento.** Dopo aver creato una richiesta di trasferimento, che include una sottoscrizione esistente, non è possibile creare richieste di trasferimento aggiuntive, inclusa la stessa sottoscrizione, fino a quando non viene annullata la prima richiesta di trasferimento.
 
-- **I componenti aggiuntivi per le sottoscrizioni basate su postazioni devono essere trasferiti insieme alla sottoscrizione di base.** Quando si crea una richiesta di trasferimento, se si seleziona una sottoscrizione esistente con uno o più componenti aggiuntivi, i componenti aggiuntivi verranno inclusi automaticamente nella richiesta di trasferimento.
+- **I componenti aggiuntivi per le sottoscrizioni basate su licenze devono essere trasferiti insieme alla sottoscrizione di base.** Quando si crea una richiesta di trasferimento, se si seleziona una sottoscrizione esistente con uno o più componenti aggiuntivi, i componenti aggiuntivi verranno inclusi automaticamente nella richiesta di trasferimento.
 
-- **Le modifiche del numero di postazioni a una sottoscrizione non verranno riflesse nella richiesta di trasferimento esistente.** Dopo aver creato una richiesta di trasferimento che include una sottoscrizione esistente, è consigliabile evitare di aggiornare la quantità di postazione della sottoscrizione (o i relativi addons). In tal caso, la nuova quantità non verrà riflessa nella richiesta di trasferimento. Quando il provider indiretto accetta la richiesta di trasferimento, la sottoscrizione risultante avrà la quantità precedente. Se si desidera trasferire la nuova quantità al provider indiretto, è necessario annullare la richiesta di trasferimento esistente e ricrearne una nuova.
+- **Le modifiche al conteggio delle licenze in una sottoscrizione non verranno riflesse nella richiesta di trasferimento esistente.** Dopo aver creato una richiesta di trasferimento che include una sottoscrizione esistente, è consigliabile evitare di aggiornare la quantità di licenze della sottoscrizione (o i relativi addons). In tal caso, la nuova quantità non verrà riflessa nella richiesta di trasferimento. Quando il provider indiretto accetta la richiesta di trasferimento, la sottoscrizione risultante avrà la quantità precedente. Se si desidera trasferire la nuova quantità al provider indiretto, è necessario annullare la richiesta di trasferimento esistente e ricrearne una nuova.
 
 - **Non tutti gli acquisti possono essere trasferiti tramite il trasferimento di sottoscrizioni autogestite.** Attualmente è possibile trasferire solo le sottoscrizioni O365 e le sottoscrizioni di Azure PAYG (MS-AZR-0145P) usando questa funzionalità. Non sono supportati altri acquisti, inclusi i piani di Azure, le istanze riservate di Azure, le sottoscrizioni basate su termini e le sottoscrizioni SaaS per Azure Marketplace. Verrà visualizzato un motivo per cui non è possibile trasferire una sottoscrizione nella pagina Invia richiesta di trasferimento. Per trasferire queste sottoscrizioni, sarà necessario [annullare la sottoscrizione esistente](create-a-new-subscription.md#suspend-or-cancel-a-subscription) e acquistare la nuova offerta per il cliente tramite il provider indiretto.
 

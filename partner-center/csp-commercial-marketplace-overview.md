@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435070"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444943"
 ---
-# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Panoramica del Marketplace commerciale nel centro per i partner
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Panoramica del marketplace commerciale nel Centro per i partner
 
 **Si applica a**
 
@@ -37,11 +37,11 @@ Come partner del programma CSP, è possibile usare il centro per i partner per a
 
 Se si è un partner del programma CSP, è possibile che si desideri eseguire numerose attività commerciali sul mercato per quanto riguarda le offerte ISV. Per ulteriori informazioni su ogni attività, vedere la tabella seguente.
 
-|**Se si vuole**  |**Lettura**   |
+|**Se si desidera**  |**Lettura**   |
 |:------------------------------------|:------------------|
 |Scopri come visualizzare o cercare offerte disponibili, prezzi, dettagli sul prodotto o informazioni di contatto dell'editore | [Scopri le offerte](csp-commercial-marketplace-discover.md) | 
 |Informazioni su come acquistare e distribuire un'offerta   | [Offerte di acquisto](csp-commercial-marketplace-purchase.md)   | 
-|Informazioni su come annullare o rinnovare una sottoscrizione o aggiungere o rimuovere postazioni  | [Gestire le offerte](csp-commercial-marketplace-manage.md) |
+|Informazioni su come annullare o rinnovare una sottoscrizione o aggiungere o rimuovere licenze  | [Gestire le offerte](csp-commercial-marketplace-manage.md) |
 |Informazioni sul funzionamento della fatturazione per gli acquisti nel Marketplace commerciale | [Informazioni sulla fatturazione](csp-commercial-marketplace-billing.md) |
 |Informazioni sugli utenti responsabili dei tipi di supporto per gli acquisti ISV | [Informazioni sul supporto](csp-commercial-marketplace-support.md) |
 |Informazioni sui contratti e sulle responsabilità dei partner CSP e degli ISV nel Marketplace commerciale | [Informazioni sul contratto](csp-commercial-marketplace-contracting.md) |
@@ -68,20 +68,20 @@ Per ulteriori informazioni sulla differenza tra le offerte basate sulle licenze 
 
 Per informazioni su dove completare un'attività specifica del Marketplace per le offerte ISV basate sulle licenze o sull'utilizzo, vedere le tabelle seguenti.
 
-|**Per le offerte SaaS basate su licenze degli ISV**  |**Usare**  |
+|**Per le offerte SaaS basate su licenze degli ISV**  |**Uso**  |
 |:------------------------------------|:------------------|
 |Per individuare o cercare offerte disponibili  | Dashboard del centro partner o API del centro per i partner  |
 |Per acquistare un'offerta  | Dashboard del centro partner o API del centro per i partner  |
 |Per distribuire un'offerta acquistata (configurazione account, gestione software o distribuzione nel tenant AAD del cliente)  | Sistema o sito Web dell'editore ISV  |
-|Per annullare/rinnovare le sottoscrizioni dell'offerta o aggiungere/rimuovere postazioni | Dashboard del centro partner o API del centro per i partner  |
+|Per annullare/rinnovare le sottoscrizioni dell'offerta o aggiungere/rimuovere licenze | Dashboard del centro partner o API del centro per i partner  |
 |Per creare utenti o gestire le autorizzazioni  | Sistema o sito Web dell'editore ISV  |
 
-|**Per le offerte basate sull'utilizzo dagli ISV**  |**Usare**  |
+|**Per le offerte basate sull'utilizzo dagli ISV**  |**Uso**  |
 |:------------------------------------|:------------------|
 |Per individuare o cercare offerte disponibili  | Dashboard del centro per i partner, API del centro per i partner o portale di Azure  |
 |Per acquistare un'offerta  | Portale di Azure  |
 |Per distribuire un'offerta acquistata (configurazione account, gestione software o distribuzione nel tenant AAD del cliente)  | Portale di Azure  |
-|Per annullare/rinnovare le sottoscrizioni dell'offerta o aggiungere/rimuovere postazioni | Portale di Azure  |
+|Per annullare/rinnovare le sottoscrizioni dell'offerta o aggiungere/rimuovere licenze | Portale di Azure  |
 |Per creare utenti o gestire le autorizzazioni  | Portale di Azure  |
 
 ## <a name="next-steps"></a>Passaggi successivi

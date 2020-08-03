@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377775"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444912"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Concedi ai clienti una versione di valutazione gratuita di 30 giorni dei prodotti Microsoft
 
@@ -45,9 +45,9 @@ Attualmente non sono disponibili **versioni di valutazione gratuite** per offert
 
 ## <a name="licenses-for-free-trial-offers"></a>Licenze per le offerte della versione di valutazione gratuita
 
-Tutte le versioni di valutazione gratuite forniscono 25 licenze. Non è possibile modificare questo numero durante la versione di valutazione. Non è possibile aggiungere o rimuovere le postazioni nella versione di valutazione gratuita. Dopo che la versione di valutazione è stata convertita in una sottoscrizione a pagamento, è possibile aggiungere altre licenze alla sottoscrizione.
+Tutte le versioni di valutazione gratuite forniscono 25 licenze. Non è possibile modificare questo numero durante la versione di valutazione. Non è possibile aggiungere o rimuovere licenze nella versione di valutazione gratuita. Dopo che la versione di valutazione è stata convertita in una sottoscrizione a pagamento, è possibile aggiungere altre licenze alla sottoscrizione.
 
-Le licenze di valutazione e le postazioni devono essere assegnate agli utenti nello stesso modo in cui vengono assegnate le licenze di servizi a pagamento.
+Le licenze di valutazione devono essere assegnate agli utenti nello stesso modo in cui sono assegnate le licenze di servizi a pagamento.
 
 ## <a name="sign-customers-up-for-trials"></a>Accedi ai clienti per le versioni di valutazione
 
@@ -117,6 +117,6 @@ Non verranno visualizzate le versioni di valutazione gratuite elencate nel file 
 
 Le versioni di valutazione gratuite non influiscano sugli incentivi.
 
-## <a name="support"></a>Supporto tecnico
+## <a name="support"></a>Supporto
 
 Per il supporto delle versioni di valutazione gratuite, inviare una richiesta di assistenza tramite il centro per i partner.

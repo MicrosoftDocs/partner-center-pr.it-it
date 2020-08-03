@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17cdb74dfded2c9c10cc4d648d8941b25a27e57b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3600dac6d5ad7f6f5994cddaf771c0397ec4cf7f
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434380"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468347"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Fatturazione basata su licenza nel centro per i partner
 
@@ -30,7 +30,7 @@ Quando si acquistano prodotti o Servizi online nel centro per i partner che rich
 
 ## <a name="license-billing-frequency"></a>Frequenza di fatturazione delle licenze
 
-È possibile scegliere di addebitare le licenze una volta al mese (**fatturazione mensile**) o una volta all'anno (**fatturazione annuale**). Per ulteriori informazioni sulla **frequenza di fatturazione**, vedere [differenze di fatturazione mensili e annuali](billing-annual-monthly.md).
+È possibile scegliere di addebitare le licenze una volta al mese (**fatturazione mensile**) o una volta all'anno (**fatturazione annuale**). 
 
 ## <a name="billing-date-for-licenses"></a>Data di fatturazione per le licenze
 
@@ -55,14 +55,12 @@ Se si sospende una sottoscrizione nei mesi 2-12, l'utente verrà accreditato in 
 
 ## <a name="license-renewal"></a>Rinnovo della licenza
 
-Tutte le sottoscrizioni basate su licenza rinnovano il rinnovo di 12 mesi dopo l'inizio del periodo di pagamento.
+Tutte le sottoscrizioni basate su licenza rinnovano automaticamente 12 mesi dopo l'inizio del periodo di pagamento.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
 - [Panoramica della fatturazione del Centro per i partner](billing-basics.md)
 
 - [Tipi di fatturazione nel Centro per i partner](billing-different-types.md)
-
-- [Differenze tra fatturazione mensile e annuale](billing-annual-monthly.md)
 
 - [Principali articoli sulla fatturazione e sulle tasse](billing.md)

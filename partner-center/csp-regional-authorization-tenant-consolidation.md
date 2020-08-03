@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 956ed0dec2588e1cc2f697e61671308c2d86f8d0
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114403"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444932"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Istruzioni per il consolidamento dei tenant per l'autorizzazione regionale per CSP
 
@@ -29,12 +29,12 @@ ms.locfileid: "87114403"
 - Amministratore globale
 - Agente amministratore
 
-\[Alcune informazioni si riferiscono al prodotto pre-rilasciato che può essere modificato in modo sostanziale prima del rilascio commerciale. Microsoft non offre alcuna garanzia, espressa o implicita, relativamente alle informazioni fornite in questo articolo.\]
+\[Alcune informazioni si riferiscono al prodotto pre-rilasciato che può essere modificato in modo sostanziale prima del rilascio commerciale. Microsoft non offre alcuna garanzia, esplicita o implicita, relativamente alle informazioni fornite.\]
 
 È possibile consolidare i tenant per l'azienda. Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche diversi.
 
 >[!NOTE]  
->È necessario essere a conoscenza di tutte le sottoscrizioni di cui è stato effettuato il provisioning e del numero di postazioni per ogni cliente nell'account da cui si esegue la transizione. Verrà eseguito nuovamente il provisioning di tali sottoscrizioni esatte con lo stesso numero di postazioni del nuovo account CSP centrale come parte del processo di migrazione. Usa la funzionalità di esportazione di elenchi per creare un elenco di clienti da trasferire al tenant centralizzato.  Al termine del consolidamento, non è possibile ripristinare lo stato precedente del tenant. Potrebbe essere necessaria anche l'azione del cliente.
+>È necessario essere a conoscenza di tutte le sottoscrizioni di cui è stato effettuato il provisioning e dei conteggi delle licenze per ogni cliente nell'account da cui si esegue la transizione. Verrà eseguito nuovamente il provisioning di tali sottoscrizioni esatte con gli stessi conteggi delle licenze nel nuovo account CSP centrale come parte del processo di migrazione. Usa la funzionalità di esportazione di elenchi per creare un elenco di clienti da trasferire al tenant centralizzato.  Al termine del consolidamento, non è possibile ripristinare lo stato precedente del tenant. Potrebbe essere necessaria anche l'azione del cliente.
 
 ## <a name="prepare-for-migration"></a>Preparare la migrazione
 
@@ -66,7 +66,7 @@ I clienti verranno visualizzati nell'elenco dei clienti del partner dopo che han
 
 4. Selezionare **Aggiungi sottoscrizione**.
 
-5. Aggiungi le sottoscrizioni e il numero di postazioni corretti dal catalogo. Controlla in base alle informazioni fornite per gli account partner di **origine della transizione**.
+5. Aggiungere al catalogo le sottoscrizioni e i conteggi delle licenze corretti. Controlla in base alle informazioni fornite per gli account partner di **origine della transizione**.
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="elenco dei clienti":::
 

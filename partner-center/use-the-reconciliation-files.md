@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cdb72310368dd76c43d01129a19328d776c00469
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 05939dc5edaddeb2f74b3b75017e2062dff25e31
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949564"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468332"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Informazioni su come leggere le voci nei file di riconciliazione del centro per i partner
 
@@ -23,7 +23,7 @@ Si applica a:
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
-È possibile scaricare i file di riconciliazione dal centro per i partner per una visualizzazione dettagliata di ogni addebito in un ciclo di fatturazione. I dettagli dell'elemento di riga includono gli addebiti per le sottoscrizioni di ogni cliente ed eventi dettagliati, ad esempio l'aggiunta a metà del periodo di postazioni a una sottoscrizione.
+È possibile scaricare i file di riconciliazione dal centro per i partner per una visualizzazione dettagliata di ogni addebito in un ciclo di fatturazione. I dettagli dell'elemento di riga includono gli addebiti per le sottoscrizioni di ogni cliente ed eventi dettagliati, ad esempio l'aggiunta a metà del periodo di licenze a una sottoscrizione.
 
 Ruoli appropriati:
 
@@ -36,7 +36,6 @@ Per informazioni su come leggere la **fattura**, vedere [leggere la fattura](rea
 
 - [Campi del file di riconciliazione basato su licenza](license-based-recon-files.md)
 - [Campi del file di riconciliazione basata sull'utilizzo](usage-based-recon-files.md)
-- [Campi di un file di riconciliazione monouso e ricorrente](one-time-recurring-recon-files.md)
 - [Campi del file di riconciliazione dell'utilizzo con classificazione giornaliera](daily-rated-usage-recon-files.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Informazioni sui tipi di addebito nei file di riconciliazione

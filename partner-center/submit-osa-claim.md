@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943678"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468348"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Creare un'associazione cliente tramite il modello CPOR: usare per i clienti Microsoft 365 e Dynamics 365
 
@@ -30,9 +30,9 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
 
 - **ID MPN** per l'entità che rilascia l'attestazione
 
-- Il **nome di dominio** del cliente [trova questo](find-customer-domain-name.md)
+- Il **nome di dominio** del cliente [trova questo](find-domain-name.md)
 
-- **ID directory** o **ID tenant** [Find this](find-customer-domain-name.md) del cliente
+- **ID directory** o **ID tenant** [Find this](find-domain-name.md) del cliente
 
 - **Area della soluzione**, ad esempio Business Applications o Microsoft 365
 
@@ -66,7 +66,7 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
 
 2. Nella parte superiore della pagina associazioni clienti selezionare **+ associazione clienti**.
 
-3. Selezionare l' **ID MPN** della località partner da associare al cliente, quindi aggiungere il nome di dominio e l'ID directory del cliente. [Dove si trovano?](find-customer-domain-name.md)
+3. Selezionare l' **ID MPN** della località partner da associare al cliente, quindi aggiungere il nome di dominio e l'ID directory del cliente. [Trova](find-domain-name.md)
 
 4. Seleziona **Continua**.
 

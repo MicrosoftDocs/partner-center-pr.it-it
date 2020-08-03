@@ -8,12 +8,12 @@ description: Vedere le risposte alle domande frequenti sul programma Cloud Solut
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: b35d178b17f6541f2ad3ec45190aff1c09e6dda6
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: ea143c49c9dd032910eb3b93b38845c896fcf3dc
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943908"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444546"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Domande frequenti sul centro per i partner per Microsoft Cloud per il governo degli Stati Uniti
 
@@ -51,11 +51,11 @@ Il programma CSP per il cloud Microsoft per enti pubblici è diverso da CSP Comm
 
 -   Onboarding: i partner devono eseguire l'onboarding al programma CSP per Microsoft Cloud per il governo statunitense separatamente da CSP Commercial.
 
--   Disponibilità del prodotto: i servizi basati su Azure per enti pubblici e sulla sede, come Office 365, Enterprise Mobility + Security e Dynamics 365, sono disponibili nel programma CSP per Microsoft Government cloud. 
+-   Disponibilità del prodotto: i servizi di Azure per enti pubblici e basati su licenze come Office 365, Enterprise Mobility + Security e Dynamics 365 sono disponibili nel programma CSP per Microsoft Government cloud. 
 
 -   Contratti: il Contratto per i rivenditori Microsoft Cloud (MCRA, Microsoft Cloud Reseller Agreement) è stato aggiornato e ora include le condizioni specifiche per gli enti pubblici.
 
--   Funzionalità del Centro per i partner: per soddisfare requisiti normativi e di conformità, alcune funzionalità del Centro per i partner non saranno abilitate per il programma CSP per Microsoft Cloud per il governo statunitense. I partner possono usare Azure Active Directory (Azure AD) o l'[API Graph](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) per eseguire le attività correlate alla gestione di utenti e gruppi. La funzionalità di richiesta di relazione per il supporto di scenari multicanale e multipartner sarà disponibile dopo il lancio quando nel programma CSP per Microsoft Cloud per il governo statunitense saranno resi disponibili i servizi basati su postazioni.
+-   Funzionalità del Centro per i partner: per soddisfare requisiti normativi e di conformità, alcune funzionalità del Centro per i partner non saranno abilitate per il programma CSP per Microsoft Cloud per il governo statunitense. I partner possono usare Azure Active Directory (Azure AD) o l'[API Graph](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) per eseguire le attività correlate alla gestione di utenti e gruppi. La funzionalità richiesta relazione per supportare scenari multicanale e Multipartner sarà disponibile dopo l'avvio quando i servizi basati su licenze sono disponibili su CSP per Microsoft Cloud per il governo degli Stati Uniti.
 
 **Non sono ancora un partner CSP. Dove è possibile trovare altre informazioni su come diventare un partner CSP?**
 

@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb6f89bca86feb1f2c3d2b7d536a810bdb5173e3
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87113975"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444773"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Funzionalità di fatturazione diretta limitate e requisiti necessari per i partner di fatturazione diretta CSP  
 
@@ -43,9 +43,9 @@ Se le funzionalità di fatturazione diretta sono state limitate, non è più pos
 
 - Sottoscrizioni Azure
 
-- Sottoscrizioni basate su Seat
+- Sottoscrizioni basate su licenza
 
-- Aggiungere nuovi componenti aggiuntivi alle sottoscrizioni esistenti basate su postazioni.
+- Aggiungere nuovi componenti aggiuntivi alle sottoscrizioni esistenti basate su licenze.
 
 - Effettuare acquisti monouso di prodotti software e di prenotazione (ad esempio, sottoscrizioni software, software perpetuo e istanze di macchine virtuali riservate di Azure).
 
@@ -55,9 +55,9 @@ Le sottoscrizioni di fatturazione diretta esistenti non sono interessate. Rimang
 
 - Sospendi sottoscrizioni esistenti
 
-- Modificare il numero di postazioni esistenti per le sottoscrizioni basate su postazione
+- Modificare il numero di licenze delle sottoscrizioni esistenti basate su licenza
 
-- Modificare il numero di postazioni dei componenti aggiuntivi esistenti in una sottoscrizione. 
+- Modificare il numero di licenze dei componenti aggiuntivi esistenti in una sottoscrizione. 
  
     >[!Note] 
     >Non è possibile aggiungere nuovi componenti aggiuntivi alle sottoscrizioni esistenti perché vengono trattati come nuovi acquisti.

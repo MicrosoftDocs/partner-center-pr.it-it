@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a76c433f79b6c060c284e8a058c50f50a6b9628c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377225"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444559"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Spostare i clienti basati su licenze da altri canali & partner al programma Cloud Solution Provider
 
@@ -28,7 +28,7 @@ Se il cliente desidera assumere più partner, trasferire le sottoscrizioni a un 
 
 1. Selezionare **Customers** dal menu centro partner e quindi selezionare **Richiedi una relazione Reseller**. Per fornire supporto per gli account multicanale, è necessario eseguire la stessa operazione.
 
-2. Una volta che il cliente accetta l'invito, sarà possibile effettuare il provisioning delle sottoscrizioni e delle sedi desiderate per il cliente (ad esempio, la stessa offerta Office 365 che il cliente ha acquistato in precedenza).
+2. Una volta che il cliente accetta l'invito, sarà possibile effettuare il provisioning delle sottoscrizioni e delle licenze desiderate per il cliente (ad esempio, la stessa offerta Office 365 che il cliente ha acquistato in precedenza).
 
 3. Il cliente può consentire la scadenza o l'annullamento delle sottoscrizioni originali. Tuttavia, poiché non sono presenti rimborsi per le sottoscrizioni annullate, è consigliabile attendere fino a quando le sottoscrizioni non si avvicinano alle date di scadenza naturale.
 

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eba88c5380254929809d27ff2b877a5ee72df239
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114812"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527587"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Verificare l'integrità dei servizi per un cliente che ha segnalato un potenziale problema o un'interruzione del servizio
 
@@ -42,9 +42,11 @@ Una delle prime cose che è possibile fare quando un cliente segnala problemi co
  
 Durante un'interruzione del servizio, Microsoft fornisce aggiornamenti periodici man mano che lavora per risolvere il problema. Queste notifiche vengono visualizzate anche nel centro di amministrazione di portale di Microsoft Azure o Microsoft 365.
 
-Se il problema persiste dopo la fine dell'interruzione del servizio, inviare una richiesta di servizio. Vedi [Segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).
+## <a name="next-steps"></a>Passaggi successivi 
 
-Microsoft 365 e Microsoft Azure forniscono ogni [API che i partner possono utilizzare per recuperare l'integrità del servizio in tempo reale](get-automated-service-notifications-with-our-apis.md), le comunicazioni del centro messaggi e gli eventi di manutenzione pianificata.
+- Se il problema persiste dopo la fine dell'interruzione del servizio, inviare una richiesta di servizio. Vedi [Segnalare problemi per conto di un cliente](report-problems-on-behalf-of-a-customer.md).
+
+- Microsoft 365 e Microsoft Azure forniscono ogni [API che i partner possono utilizzare per recuperare l'integrità del servizio in tempo reale](get-automated-service-notifications-with-our-apis.md), le comunicazioni del centro messaggi e gli eventi di manutenzione pianificata.
 
  
 

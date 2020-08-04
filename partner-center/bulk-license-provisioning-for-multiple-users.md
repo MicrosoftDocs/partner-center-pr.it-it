@@ -1,6 +1,6 @@
 ---
 title: Assegnare o revocare licenze a più utenti
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 20ef77322ced5a7198dbd0ecaf519f614bc17a32
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435570"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527397"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Assegnare o revocare le licenze contemporaneamente a più utenti in un account cliente
 
@@ -34,11 +34,6 @@ Puoi assegnare licenze e servizi a un utente o a più utenti contemporaneamente 
 
 Il centro per i partner tiene traccia e Mostra tutti i diritti delle licenze di proprietà del cliente.
 
-Le sezioni seguenti mostrano come:
-- [Assegnare licenze a più utenti](#assign-licenses-to-groups)
-- [Revoca le assegnazioni delle licenze degli utenti](#revoking-licenses)
-
-<a href="" id="assign-licenses-to-groups"></a>
 ## <a name="assign-licenses-to-multiple-users"></a>Assegnare licenze a più utenti
 
 1. Dal menu **centro partner** selezionare **Customers**, quindi scegliere un cliente dall'elenco.
@@ -81,7 +76,6 @@ Le sezioni seguenti mostrano come:
 >[!NOTE]
 >Alcuni prodotti Microsoft potrebbero non essere disponibili in determinate località. Altri prodotti dipendono da altri prodotti o servizi o non possono essere assegnati insieme allo stesso utente. Dopo aver salvato, la pagina di conferma elenca i risultati per tutti gli utenti per le assegnazioni di licenze corrette e gli eventuali errori d assegnazione.
 
-<a href="" id="revoking-licenses"></a>
 ## <a name="revoke-users-license-assignments"></a>Revoca le assegnazioni delle licenze degli utenti
 
 1. Dal menu **centro partner** selezionare **Customers**, quindi scegliere un cliente dall'elenco.

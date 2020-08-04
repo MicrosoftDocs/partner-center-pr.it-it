@@ -1,22 +1,23 @@
 ---
 title: Aggiungere più utenti per un account cliente
-ms.topic: article
-ms.date: 06/17/2020
+ms.topic: how-to
+ms.date: 08/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come aggiungere più utenti all'account di un cliente in una sola volta. Caricare un file di dati nel centro per i partner usando il formato di file con valori delimitati da virgole (CSV).
+description: Per aggiungere più utenti a un account del cliente, caricare un file di dati nel centro per i partner usando il formato di file con valori delimitati da virgole (CSV).
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a9a94ac9d9022b33c7f909a258b66daa4312ad13
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 0a9b2ed89b10e43c31d00777054839f3208e5c16
+ms.sourcegitcommit: 32516c30e90ee78415e5537d2b8ccf467f56a82d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436310"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87535741"
 ---
-# <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>Aggiungere più utenti a un account cliente: caricare un file di dati nel centro per i partner
+# <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Carica un file CSV di utenti nell'account di un cliente
+
 
 **Si applica a**
 
@@ -26,33 +27,11 @@ ms.locfileid: "86436310"
 
 - Amministratore globale
 
-È possibile aggiungere contemporaneamente più utenti all'account di un cliente, caricando un file di dati nel formato di file con valori delimitati da virgole (CSV) nel centro per i partner. È possibile scaricare un file di dati di esempio dal centro per i partner e quindi modificarlo per l'uso, oppure è possibile creare un nuovo file di dati usando il modello di dati definito di seguito.
+Aggiungere contemporaneamente più utenti all'account di un cliente, caricando un file di dati nel formato di file con valori delimitati da virgole (CSV) nel centro per i partner. 
 
-## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Requisiti per i file di dati
+## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>Creare il file degli utenti del cliente e caricarlo nell'account del cliente
 
-Per aggiungere più utenti a un account del cliente usando il processo di caricamento bulk, è necessario soddisfare i requisiti seguenti:
-
-- Devi avere le autorizzazioni di amministratore globale per l'account del cliente;
-- Ogni utente deve avere un indirizzo e-mail univoco, aggiunto ai domini di e-mail del cliente;
-- Puoi caricare fino a 100 record alla volta. Se hai bisogno di aggiungere più di 100 utenti, crea e carica ulteriori file di dati.
-- Tutti gli utenti devono trovarsi nella stessa **Posizione** geografica.
-- Immetti solo i dati descritti di seguito. La presenza di dati estranei causerà l'esito negativo del caricamento.
-
-Immetti i dati seguenti nel file di dati:
-
-| **Nome colonna** | **Descrizione**  | **Limitazione**  |
-|:-------- |:------  |:----- |
-| Nome  | Nome dell'utente (campo facoltativo)  | Limite di 50 caratteri  |
-| Cognome  | Cognome dell'utente (campo facoltativo)  | Limite di 50 caratteri  |
-| Nome visualizzato    | Nome visualizzato nel centro per i partner (campo obbligatorio)                            | Limite di 50 caratteri                         |
-| E-mail   | Indirizzo di posta elettronica aziendale dell'utente presso la società del cliente (campo obbligatorio)           | Ogni utente deve avere un indirizzo di posta elettronica univoco |
-| Aggiornamento dello stato   | Usato per indicare se il nuovo record utente è stato o meno creato correttamente | \*\*Lascia vuoto\*\*                        |
-
-### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>Per creare più account utente
-
-<a href="" id="creatingtheaccounts"></a>
-
-1. Crea un file di dati con valori delimitati da virgole (CSV) con i dati descritti sopra. Salva il file in modo da poterlo visualizzare in un passaggio successivo.
+1. Crea un file di dati con valori delimitati da virgole (CSV) con i dati descritti sopra. Salva il file in modo da poterlo visualizzare in un passaggio successivo. Per [importare più utenti per un account cliente, vedere campi per il file con estensione CSV](file-customer-users.md). 
 
 2. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
@@ -72,13 +51,11 @@ Immetti i dati seguenti nel file di dati:
 9. Selezionare **Salva**.
 10. Scaricare le informazioni sulla password temporanea per gli utenti.
 
-**IMPORTANTE:** assicurati di scaricare il file con le password temporanee in questo momento, perché non potrai farlo in seguito. I nuovi utenti devono accedere all'account nuovo usando la password temporanea per i nuovi account.
+    >[!IMPORTANT]
+    > Assicurarsi di scaricare il file con le password temporanee perché non sarà possibile eseguire questa operazione in un secondo momento. I nuovi utenti devono accedere all'account nuovo usando la password temporanea per i nuovi account.
 
-10. Ai nuovi utenti vengono assegnate automaticamente le autorizzazioni di **che possono usare licenze e servizi** . 
+11. Ai nuovi utenti vengono assegnate automaticamente le autorizzazioni di **che possono usare licenze e servizi** . 
 
- 
+## <a name="next-steps"></a>Passaggi successivi
 
- 
-
-
-
+- [Concedere ai clienti l'autorizzazione per il centro per i partner per acquistare prodotti o servizi propri](give-customers-permission.md)

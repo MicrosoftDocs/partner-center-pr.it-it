@@ -3,18 +3,18 @@ title: Due livelli di account partner MPN
 ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: I partner MPN possono apprendere i due livelli di account nel centro per i partner, l'account globale del partner (PGA) e l'account del partner location (PLA).
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 326f46af86c890c6f34460669ec167399515014d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4fabdc52056b4b4bd9fe612dfa2d299a357be213
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436410"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527437"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Il centro per i partner ha due livelli di account per partner MPN
 

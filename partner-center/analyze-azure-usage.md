@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22581771f05c88ec2ad097890959dab6d6e27962
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 160191b4c881ab4b143c6a5bc3241e3fe26c701f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436180"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526947"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Ottenere i dati sulle prestazioni dei clienti e delle sottoscrizioni di Azure
 
@@ -31,6 +31,8 @@ ms.locfileid: "86436180"
 - Agente di vendita
 
 I dati prendono le decisioni aziendali. Usare le metriche nella pagina **utilizzo di Azure** per identificare i successi e le aree che richiedono maggiore attenzione. Utilizzare queste informazioni durante la pianificazione di nuovi obiettivi aziendali.
+
+Per accedere all' **utilizzo di Azure**, accedere al [Dashboard](https:/partner.microsoft.com/dashboard)del centro per i partner. Selezionare **Analytics** dal menu centro partner e quindi selezionare utilizzo di **Azure**.
 
 > [!NOTE]
 > Azure Usage Analytics è disponibile solo per i partner nel programma Cloud Solution Provider.
@@ -67,3 +69,7 @@ Questa sezione indica il rischio di varianza stimato per le sottoscrizioni di Az
 ## <a name="azure-subscription-retention"></a>Conservazione della sottoscrizione di Azure
 
 - Numero di sottoscrizioni rinnovate.
+
+ ## <a name="next-steps"></a>Passaggi successivi
+
+- [Acquista il piano Azure per i clienti & accedi ai servizi di Azure più recenti con tariffe a consumo](purchase-azure-plan.md)

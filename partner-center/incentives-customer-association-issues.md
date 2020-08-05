@@ -1,19 +1,19 @@
 ---
 title: Problemi di associazione dei clienti
 description: Informazioni su come risolvere i problemi che si verificano quando si lavora con le associazioni clienti di CPOR (partner di record).
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 63138dd6eaa16534cb73f41655ba728cb0c7a430
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 69c0eb822ed8bf2ff09d7fc4a37e920dc123133a
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114525"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546012"
 ---
 # <a name="customer-association-issues"></a>Problemi di associazione dei clienti
 
@@ -62,9 +62,9 @@ La piattaforma di attestazione CPOR consente le attestazioni di associazione CPO
 | Area soluzione | Attività | Applicabile per |
 | ------ | ----------- | ----------- |
 | Applicazioni aziendali      | Prevendite   | Selezionare se è stato influenzato l'acquisto di un prodotto idoneo e si desidera applicare gli incentivi per le vendite preliminari. Questa opzione è applicabile solo se il cliente ha acquistato questi prodotti tramite il contratto multilicenza o il Web-Direct. |
-|    |  Utilizzo  | Selezionare se si intende adottare l'adozione e l'utilizzo di un carico di lavoro idoneo e si desidera applicare gli incentivi per l'utilizzo. Questa opzione è applicabile solo se il cliente ha acquistato questi prodotti tramite il contratto multilicenza o il Web-Direct. |
+|    |  Uso  | Selezionare se si intende adottare l'adozione e l'utilizzo di un carico di lavoro idoneo e si desidera applicare gli incentivi per l'utilizzo. Questa opzione è applicabile solo se il cliente ha acquistato questi prodotti tramite il contratto multilicenza o il Web-Direct. |
 |    | Associazione dei ricavi   | Selezionare se è stato influenzato la selezione di un prodotto idoneo come influencer aziendale. Questa opzione è solo per l'associazione di ricavi, non per i pagamenti di incentivi. Questa opzione è applicabile solo se il cliente ha acquistato questi prodotti tramite il contratto multilicenza o il Web-Direct.   |
-| Microsoft 365   | Utilizzo   | Selezionare se si intende adottare l'adozione e l'utilizzo di un carico di lavoro idoneo e si desidera applicare gli incentivi per l'utilizzo. |
+| Microsoft 365   | Uso   | Selezionare se si intende adottare l'adozione e l'utilizzo di un carico di lavoro idoneo e si desidera applicare gli incentivi per l'utilizzo. |
 
 ## <a name="which-mpn-do-i-choose"></a>Quale MPN scegliere?
 

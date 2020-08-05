@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/29/2020
 description: Raccogliere e creare le informazioni necessarie per generare un piano di marketing efficace per il programma incentives.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 37e39328b555e53b0f9789da5baddb280ed4fdea
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 9e10bdf6d47213ec88f4b434fc4c815ce336d956
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114178"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546022"
 ---
 # <a name="create-your-plan"></a>Creare il piano
 
@@ -76,12 +76,12 @@ Il piano è ora stato inviato. Microsoft invierà una notifica all'amministrator
    - In fase di revisione
    - Azione richiesta
    - In fase di modifica
-   - Approved
-   - Rifiutato
+   - Approvata
+   - Rifiutata
 
 ## <a name="plan-submission-timelines"></a>Tempistiche di invio del piano
 
-È necessario creare e inviare il piano entro l'ultimo giorno dell'anno del programma. Se necessario, è possibile modificare e inviare di nuovo il piano nei 90 giorni successivo, ma il piano dovrà essere creato e inviato inizialmente durante l'anno del programma.
+È necessario creare e inviare il piano entro l'ultimo giorno dell'anno del programma. Se necessario, è possibile modificare e inviare di nuovo il piano nei successivi 90 giorni, ma il piano dovrà essere creato e inviato inizialmente durante l'anno del programma.
 
 >[!NOTE]
 > È possibile creare un piano per ogni tipo di fondo per un anno di programma.

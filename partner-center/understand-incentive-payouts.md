@@ -1,7 +1,7 @@
 ---
 title: Visualizza i dettagli relativi a incentivi e programmi
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 08/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Utilizzare queste pagine per visualizzare, gestire ed esportare i dettagli relativi a pagamenti e guadagni, nonché lo stato del programma e la cronologia completa delle transazioni.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: f42ce255396411b68363f3a6ad928e80d87d96ad
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 2829931ca80cea33a48e1658f97f2a1fe1a03173
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114841"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545952"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Visualizza, Gestisci ed Esporta i dettagli del programma incentives
 
@@ -48,17 +48,18 @@ Le pagine seguenti sono descritte di seguito:
 - Pagina Pagamenti
 - Pagina della cronologia transazioni
 - Pagina Esporta dati e altre pagine di esportazione associate
+- Report Riepilogo transazioni
 
 >[!NOTE]
 >Per ulteriori informazioni sugli incentivi e sulle funzionalità di incentivazione del centro per i partner, vedere [investimenti e incentivi](https://partner.microsoft.com/membership/partner-incentives) per i partner (accesso richiesto).
 
 ## <a name="my-incentives-overview-page"></a>Pagina di panoramica degli incentivi
 
-La **Panoramica degli incentivi** Mostra lo stato complessivo dei programmi incentive, nonché lo stato di ogni programma in ogni sede. Queste informazioni includono i guadagni e i pagamenti per gli incentivi totali, dal momento dell'iscrizione ai programmi per gli incentivi.
+**La panoramica degli incentivi** mostra lo stato complessivo dei programmi di incentivi, nonché lo stato di ogni programma in ogni posizione. Queste informazioni includono i guadagni e i pagamenti per gli incentivi totali, dal momento dell'iscrizione ai relativi programmi.
 
-In questa pagina sono inclusi anche i guadagni e i pagamenti per località o programma, nonché per eventuali altre azioni che potrebbero essere necessarie per eseguire la registrazione in un programma in una posizione specifica.
+In questa pagina sono inclusi anche i guadagni e i pagamenti per posizione o programma, nonché eventuali altre azioni da intraprendere per eseguire la registrazione in un programma in una posizione specifica.
 
-Per accedere alla **Panoramica degli incentivi**:
+Per accedere alla **panoramica degli incentivi**:
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 2. Selezionare **incentivi**, quindi **Panoramica** dal menu.
@@ -69,7 +70,7 @@ Per accedere alla **Panoramica degli incentivi**:
    - Per raggruppare in base alla posizione, selezionare la scheda **per località** sopra la tabella.
    - Per visualizzare altri dettagli sulle registrazioni in un gruppo specifico, selezionare il simbolo della freccia di espansione alla fine di una determinata riga. Questa freccia di espansione espande la visualizzazione.
 
-4. Se è necessaria un'ulteriore azione per la registrazione in un programma, queste informazioni verranno visualizzate nella colonna **stato** . In questo caso, selezionare il simbolo della freccia di espansione per ottenere informazioni sui passaggi successivi che è necessario eseguire.
+4. Se è necessaria un'ulteriore azione per la registrazione in un programma, queste informazioni verranno visualizzate nella colonna **Stato**. In questo caso, selezionare il simbolo della freccia di espansione per ottenere informazioni sui passaggi successivi da eseguire.
 
 >[!NOTE]
 >Vedere la tabella seguente per altre informazioni sui diversi Stati di registrazione indicati nella colonna **stato** .
@@ -128,6 +129,7 @@ Seguire le istruzioni in questa pagina per esportare i dati desiderati.
 
 **Note:**
 
+- Dato il grande volume di dati, il contratto di licenza per la richiesta inviata da elaborare è di 24 ore.
 - Verranno visualizzati solo i dati per i programmi e gli ID MPN a cui si è associati. Per accedere a dati aggiuntivi, vedere l'amministratore di incentivi.
 - La pagina di esportazione dati non viene aggiornata automaticamente. Per visualizzare i dati più recenti, potrebbe essere necessario aggiornare la pagina manualmente.
 - Il filtro può causare un errore di tipo **Non sono disponibili dati**. Questo errore probabilmente significa che è stato lasciato il periodo di tempo predefinito selezionato a tre mesi, quindi è stato selezionato un ID di pagamento da un guadagno che esula da tale periodo. Espandere il periodo di tempo e riprovare.
@@ -157,18 +159,27 @@ Questa opzione consente di scaricare i pagamenti ricevuti in banca per un determ
 ## <a name="transaction-history-download-export"></a>Esportazione del download della cronologia delle transazioni
 Questa opzione consente di scaricare ogni elemento della riga di acquisizione visualizzato nella pagina Cronologia transazioni, il tipo di dati, la data, il numero di transazioni associato, il cliente, il prodotto e altri dettagli transazionali applicabili al programma incentives.
 
+>[!NOTE]
+>L'esportazione di download della cronologia delle transazioni include due nuovi campi a partire dal 2020 agosto:
+>
+>- **lastPaymentCurrency**  La valuta in cui è stato ricevuto il pagamento più recente, in tutte le MPNs a cui il partner attualmente connesso ha accesso. Se non viene ricevuto alcun pagamento, la valuta dell'ultimo pagamento sarà di dollari statunitensi.
+>- **earningAmountInLastPaymentCurrency**  Importo guadagnato nell'ultima valuta di pagamento.
+
+
 |**Nome colonna**   |**Descrizione**   |
 |------------------|:-------------------------------------|
 |customerId   |Identificatore del cliente   |
 |customerName   |Nome del cliente della transazione   |
 |earningAmount   |Accumulo di quantità nella valuta di transazione originale   |
+|earningAmountInLastPaymentCurrency   |Importo guadagnato nell'ultima valuta di pagamento   |
 |earningAmountUSD   |Guadagnare importo in USD   |
 |earningDate   |Data del reddito   |
 |earningExchangeRate   |Tasso di cambio usato per visualizzare l'importo corrispondente in dollari statunitensi   |
 |earningId   |Identificatore univoco per ogni reddito   |
 |earningRate   |Percentuale degli incentivi applicata all'importo della transazione per generare un reddito   |
-|earningType   |Indica se si tratta di una tariffa, una riduzione, una Coop, una vendita e così via.   |
+|earningType   |Indica se si tratta di una tariffa, una riduzione, una co-op, una vendita e così via.   |
 |exchangeRateDate   |Data del tasso di cambio usata per calcolare il valore in dollari statunitensi di EarningAmount   |
+|lastPaymentCurrency   |La valuta in cui è stato ricevuto il pagamento più recente, in tutte le MPNs a cui il partner attualmente connesso ha accesso. Se non viene ricevuto alcun pagamento, la valuta dell'ultimo pagamento sarà di dollari statunitensi.   |
 |lever   |Indica la regola di business per il reddito   |
 |participantID   |Identità principale del partner che realizza un reddito nell'ambito del programma   |
 |participantIDType   |In genere MPN for Incentive programs e seller ID for Store Programs   |
@@ -205,3 +216,58 @@ Oltre alla tabella precedente, questi campi relativi alla cronologia delle trans
 |agreementStartDate   |Data di inizio del contratto   |
 |agreementEndDate   |Data di fine del contratto   |
 |workload   |Carico di lavoro   |
+
+## <a name="transaction-summary-report"></a>Report Riepilogo transazioni
+
+>[!NOTE]
+>Il report di riepilogo delle transazioni non visualizzerà tutti i programmi o i guadagni. Si tratta di un riepilogo che è incentrato solo sulle leve aggregate. Per visualizzare le singole transazioni, scaricare il [report Cronologia transazioni](#transaction-history-page).
+
+Il report Riepilogo transazioni fornisce i dettagli della transazione a livello di riepilogo, inclusi i nomi dei clienti e gli ID sottoscrizione, per le leve di guadagno aggregate. Il report comporta ogni ID di guadagno associato a più transazioni. Per ogni cliente/sottoscrizione vengono ripetuti i dettagli relativi all'importo totale e ai guadagni per tale ID di guadagno. Questo perché gli incentivi per le leve di aggregazione vengono ottenuti collettivamente, non per sottoscrizione.
+
+
+### <a name="download-the-transaction-summary-report"></a>Scaricare il report di riepilogo delle transazioni
+
+1. Nella pagina **Panoramica incentivi** selezionare l'icona **Money** (payout) nell'angolo superiore destro.
+2. Selezionare **Esporta dati**.
+3. Selezionare la scheda **Riepilogo transazioni** .
+4. Selezionare i filtri appropriati per visualizzare i programmi e le leve idonei per i guadagni aggregati. Se non viene visualizzato alcun dato, i programmi non sono idonei per le leve aggregate.
+5. Selezionare **Avvia download**   per esportare il report.  
+
+>[!NOTE]
+>Il report di riepilogo delle transazioni non includerà le informazioni sul cliente e sulla sottoscrizione per le sottoscrizioni più recenti di 60 giorni, oppure se i ricavi a consumo sono inferiori a un centesimo.
+
+|Nome colonna |Descrizione |
+|------ |:-----------|
+|  earningId | Identificatore univoco per ogni reddito  |
+|  participantId | Identità principale del partner che realizza un reddito nell'ambito del programma  |
+|  participantIdType | In genere MPN for Incentive programs e seller ID for Store Programs  |
+|  participantName | Nome del partner beneficiario del reddito  |
+|  partnerCountryCode | Località/paese del partner di guadagno  |
+|  programName | Nome del programma Incentive/Store  |
+|  lever | Indica la regola di business per il reddito  |
+|  earningRate | Percentuale degli incentivi applicata all'importo della transazione per generare un reddito  |
+|  earningType | Indica se si tratta di una tariffa, una riduzione, una co-op, una vendita e così via.  |
+|  earningAmount | Accumulo di quantità nella valuta di transazione originale  |
+|  earningAmountUSD | Guadagnare importo in USD  |
+|  earningDate | Data del reddito  |
+|  earningExchangeRate | Tasso di cambio usato per visualizzare l'importo in dollari statunitensi corrispondente  |
+|  exchangeRateDate | Data del tasso di cambio usata per calcolare il valore in dollari statunitensi di EarningAmount  |
+|  transactionMonth |  Mese transazione   |
+|  transactionCurrency | Valuta in cui si è verificata la transazione del cliente originale  |
+|  totalTransactionAmountUSD |  Transazione totale   |
+|  customerId | Identificatore del cliente  |
+|  customerName | Nome del cliente della transazione  |
+|  subscriptionId | Identificatore della sottoscrizione associata al cliente  |
+|  subscriptionStartDate | Data di inizio della sottoscrizione  |
+|  subscriptionEndDate | Data di fine della sottoscrizione  |
+|  agreementNumber | Numero del contratto  |
+|  invoiceNumber |  ID fattura   |
+|  partNumber | Numero di parte collegato alla transazione. Terminologia Microsoft.  |
+|  resellerId | Identificatore del rivenditore  |
+|  resellerName | Nome del rivenditore  |
+|  distributorId | Identificatore del distributore  |
+|  distributorName | Nome del distributore   |
+|  paymentId | Identificatore univoco per il pagamento. Questo numero è in genere visibile nell'istruzione Bank.|  
+
+## <a name="next-steps"></a>Passaggi successivi
+- [Accedere alla pagina sui pagamenti degli incentivi](incentives-unified-user-guide.md)

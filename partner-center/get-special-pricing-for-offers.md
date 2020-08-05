@@ -1,6 +1,6 @@
 ---
 title: Vendere in settori specializzati
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 849c7fc92a4ca88fbddf5e8aa3c95e6ac60ff984
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 863084a34a35c887b18a58231ac86b45e3acd03f
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947406"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545532"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vendere a settori specializzati come utenti Education, No profit ed enti pubblici
 
@@ -36,7 +36,7 @@ Microsoft offre prezzi speciali e ridotti per i gruppi di clienti selezionati, i
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |Nessuno   | Deve essere un [utente qualificato](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)per la formazione.   |
 |Enti governativi   |Per vendere Azure, effettuare la registrazione usando il [modulo di convalida del cloud Microsoft US Government](https://azuregov.microsoft.com/csp). Per vendere sottoscrizioni basate su licenze per enti pubblici, non è necessaria alcuna qualifica.|   Nessuno|
-|No profit  |Nessuno<br/> Deve avere un tenant di Azure Active Directory non profit.<br/> Scopri di più sulle [offerte speciali no profit](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Iscriversi al [programma Microsoft nonprofit](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
+|No profit  |Nessuno<br/> Deve avere un tenant di Azure Active Directory non profit.<br/> Altre informazioni sulle [offerte speciali no profit](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Iscriversi al [programma Microsoft nonprofit](https://nonprofit.microsoft.com/#/register) per essere idoneo.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Controllare le tue qualificazioni come rivenditore
 

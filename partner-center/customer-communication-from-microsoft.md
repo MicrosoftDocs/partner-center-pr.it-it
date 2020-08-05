@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: f4c98445345e5e668de2172ab5e922cfb81aa7a8
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7b4e244a090b401afe2b0c86a532f5ecc6b5a154
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114358"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545832"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Linee guida per la comunicazione dei clienti con Microsoft
 
@@ -28,3 +28,7 @@ In generale, il partner Cloud Solution Provider deve occuparsi di tutte le comun
 Microsoft può comunicare direttamente con i tuoi clienti in caso di operazioni non consentite o per fornire altre informazioni operative.
 
 Per i clienti che dispongono già di relazioni commerciali esistenti con Microsoft, Microsoft continuerà a comunicare direttamente con loro riguardo i prodotti e i servizi non CSP.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Supporto tecnico autonomo tramite Microsoft Office interfaccia di amministrazione di 365 o tramite il portale di Azure](customer-self-support.md)

@@ -1,7 +1,7 @@
 ---
 title: Partner con rivenditori indiretti in CSP
 description: In qualità di provider o database di distribuzione indiretto, Scopri come espandere la partnership con i rivenditori indiretti. Sono incluse le attività che è possibile eseguire nel centro per i partner.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: cb7a9bca65bb4fbb8ef9f3fb88a968155bf17ced
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 92c82bbc785a6b8ef01fc39abe5bb4235fbc5622
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377215"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545982"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 
@@ -49,7 +49,7 @@ Completare i passaggi seguenti per stabilire e gestire la collaborazione con riv
 
 1. Esaminare il profilo della società nell' [elenco dei provider indiretti ufficiali di Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
 
-   - Per apportare modifiche al profilo del provider indiretto dell'azienda, contattare il rappresentante Microsoft.
+   - Per apportare modifiche al profilo dei provider indiretti dell'azienda, contattare il rappresentante Microsoft.
 
 2. Connetti a rivenditori indiretti
 

@@ -1,21 +1,21 @@
 ---
 title: Creare e gestire il profilo di pagamento e il profilo fiscale nel Centro per i partner
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/29/2020
 description: Prima di poter pagare il lavoro per gli incentivi, è necessario creare i profili di pagamento e di imposta.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: ed8820065c8c009e64419e58fa11758a27f95d7e
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 3e7424ff1329d9c2bf13e9a6c4181c312396e073
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114092"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546042"
 ---
-# <a name="payout-and-tax-profiles-in-partner-center"></a>Profili di pagamento e fiscali nel centro per i partner
+# <a name="payout-and-tax-profiles-in-partner-center"></a>Profili di pagamento e fiscali nel Centro per i partner
 
 Si applica a:
 

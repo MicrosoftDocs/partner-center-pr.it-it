@@ -2,18 +2,18 @@
 title: Gestisci attestazioni co-op
 description: Comprendere il processo delle attestazioni co-op, incluse le scadenze, i problemi di valuta e come disputare un'attestazione co-op rifiutata.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: b200c946825fa84d4cd9ca87c05c345a0476e344
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 4d164eed72906b8fd04700865c7320c7fc23f11f
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114765"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545972"
 ---
 # <a name="manage-co-op-claims"></a>Gestisci attestazioni co-op
 
@@ -40,8 +40,8 @@ Di seguito sono riportati i diversi stati possibili per le attestazioni co-op.
   - Microsoft completerà la revisione entro due giorni lavorativi della richiesta di invio. Se lo stato è in fase di revisione per più di due giorni, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 - Azione richiesta
 - In fase di modifica
-- Approved
-- Rifiutato
+- Approvata
+- Rifiutata
 
 ## <a name="co-op-claim-payments"></a>Pagamenti di attestazioni co-op
 

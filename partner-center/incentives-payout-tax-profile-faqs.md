@@ -1,21 +1,21 @@
 ---
-title: Domande frequenti su incentivi e profilo fiscale
+title: Domande frequenti su proventi da incentivi e profilo fiscale
 ms.topic: article
 ms.date: 07/21/2020
 description: Domande frequenti sugli incentivi per il pagamento e i profili fiscali.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: kim-davis
 ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: c98a150957a55c75d875cfba64699f080d0a238d
-ms.sourcegitcommit: b4fe2fa43663fe46b205f9daa01494d5053c1ede
+ms.openlocfilehash: 176533700870af15107221396803d7f7cacfd0d7
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87264230"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545912"
 ---
-# <a name="incentives-payout-and-tax-profile-faqs"></a>Domande frequenti su incentivi e profilo fiscale
+# <a name="incentives-payout-and-tax-profile-faqs"></a>Domande frequenti su proventi da incentivi e profilo fiscale
 
 Si applica a:
 
@@ -71,4 +71,4 @@ Contattare l'amministratore account per aggiungere altri domini all'account AAD.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Profili di pagamento e fiscali nel centro per i partner](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [Profili di pagamento e fiscali nel Centro per i partner](incentives-create-and-manage-your-payout-and-tax-profiles.md)

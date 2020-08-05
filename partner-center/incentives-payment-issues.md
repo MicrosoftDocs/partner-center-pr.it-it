@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/29/2020
 description: Informazioni su come risolvere i problemi, ad esempio guadagni mancanti o non corretti, problemi di idoneità e come risolvere i guadagni degli incentivi.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: fc086b74fd140e669720743b067959fc3463f6c9
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 6c56fe41d6a12a2e6337dba5bc611124eeaf3429
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114755"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545922"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Risoluzione dei problemi relativi a pagamenti e utili
 
@@ -51,7 +51,7 @@ Attualmente Microsoft non supporta l'opzione di eliminazione dei profili di paga
 
 I pagamenti mancanti o non corretti sono spesso correlati a una delle cause seguenti:
 
-- **Il Licenziatario potrebbe non essere idoneo.**  I guadagni saranno disponibili solo se si soddisfano i requisiti di idoneità operativa, ovvero iscritti al rispettivo periodo di guadagno del programma.
+- **Il Licenziatario potrebbe non essere idoneo.**  Gli utili saranno disponibili solo se l'utente soddisfa i requisiti di idoneità operativa, vale a dire se è registrato nel rispettivo periodo retributivo del programma.
 - **È possibile che non siano stati soddisfatti i requisiti.**  Verificare se sono state soddisfatte le regole di idoneità e i ricavi idonei per l'incentivo che si sta cercando.
 
   **Per verificare l'idoneità**
@@ -62,7 +62,7 @@ I pagamenti mancanti o non corretti sono spesso correlati a una delle cause segu
   
   3. Selezionare il collegamento al documento desiderato, quindi esaminare le sezioni **idoneità partner** e **regole ricavi idonee**.
 
-- **Il profilo di pagamento potrebbe essere incompleto.** La data di inizio dell'incentivo per gli incentivi sarà il primo giorno del mese in cui sono stati completati tutti i requisiti di idoneità, incluso l'onboarding con i dettagli relativi a pagamenti e imposte. I guadagni non saranno disponibili per i mesi precedenti al pagamento e al completamento delle imposte. Se, ad esempio, si completano tutti i requisiti durante il mese di aprile 2020, la data di inizio del guadagno sarà il 1 aprile 2020.
+- **Il profilo di pagamento potrebbe essere incompleto.** La data iniziale di acquisizione degli incentivi sarà il primo giorno del mese in cui tutti i requisiti di idoneità sono stati soddisfatti, incluso l'inserimento dei dati relativi a pagamenti e imposte. Gli utili non saranno disponibili per i mesi precedenti al pagamento e al completamento delle imposte. Se, ad esempio, si soddisfano tutti i requisiti durante il mese di aprile 2020, la data di inizio degli utili sarà il 1 aprile 2020.
 - **È possibile che si verifichi un'azione in attesa**.  È possibile che gli incentivi non vengano elaborati a causa di un'azione in sospeso.
 
   **Per visualizzare le azioni in attesa**
@@ -84,35 +84,35 @@ Ogni programma di incentivi è associato a un profilo bancario creato durante la
 
 Quando non vengono visualizzati i guadagni per un periodo di tempo in cui sono previsti, è in genere dovuto a uno dei problemi seguenti:
 
-- **Il Licenziatario potrebbe non essere idoneo.**  I guadagni saranno disponibili solo se si soddisfano i requisiti di idoneità operativa, ovvero iscritti al rispettivo periodo di guadagno del programma.
+- **Il Licenziatario potrebbe non essere idoneo.**  Gli utili saranno disponibili solo se l'utente soddisfa i requisiti di idoneità operativa, vale a dire se è registrato nel rispettivo periodo retributivo del programma.
 
-- **Il profilo di pagamento potrebbe essere incompleto.**  La data di inizio dell'incentivo per gli incentivi sarà il primo giorno del mese in cui sono stati completati tutti i requisiti di idoneità, incluso l'onboarding con i dettagli relativi a pagamenti e imposte. I guadagni non saranno disponibili per i mesi precedenti al pagamento e al completamento delle imposte. Se, ad esempio, si completano tutti i requisiti durante il mese di aprile 2020, la data di inizio del guadagno sarà il 1 aprile 2020.
+- **Il profilo di pagamento potrebbe essere incompleto.**  La data iniziale di acquisizione degli incentivi sarà il primo giorno del mese in cui tutti i requisiti di idoneità sono stati soddisfatti, incluso l'inserimento dei dati relativi a pagamenti e imposte. Gli utili non saranno disponibili per i mesi precedenti al pagamento e al completamento delle imposte. Se, ad esempio, si soddisfano tutti i requisiti durante il mese di aprile 2020, la data di inizio degli utili sarà il 1 aprile 2020.
 
 Se sono stati completati i requisiti di idoneità, tra cui il caricamento con i dettagli relativi a pagamenti e imposte in tempo, e i guadagni sono ancora mancanti, contattare il [supporto](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
 ## <a name="my-earnings-are-missing-or-incorrect"></a>I miei guadagni sono mancanti o non corretti
 
-I guadagni mancanti o non corretti potrebbero essere causati da uno dei problemi seguenti:
+Eventuali guadagni mancanti o non corretti potrebbero essere causati da uno dei problemi seguenti:
 
-- **È possibile che non siano stati soddisfatti i requisiti.**  Verificare se sono state soddisfatte le regole di [idoneità](#my-payment-is-missing-or-incorrect) e i ricavi idonei per l'incentivo che si sta cercando.
+- **È possibile che i requisiti non siano stati soddisfatti.**  Verificare che siano state soddisfatte le regole di [idoneità](#my-payment-is-missing-or-incorrect) utente e idoneità per l'acquisizione di ricavi per l'incentivo desiderato.
 
-- **Potrebbe essere presente una discrepanza.**  Se si rispettano le regole di idoneità per i partner e i ricavi idonei e continuano a vedere i guadagni non corretti, vedere [come identificare i guadagni & discrepanza dei pagamenti](https://support.microsoft.com/help/4534675) per i passaggi necessari per accedere a tutti i guadagni
+- **Potrebbe essere presente una discrepanza.**  Se si soddisfano le regole di idoneità per i partner e idoneità per l'acquisizione di ricavi, ma vengono visualizzati ancora guadagni non corretti, vedere [Come identificare la discrepanza di utili e pagamenti](https://support.microsoft.com/help/4534675) per la procedura necessaria per accedere a tutti i guadagni e alle rispettive transazioni.
 
 Se queste azioni non sono utili e non è ancora possibile trovare i guadagni o si ritiene che i guadagni non siano corretti, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="how-do-i-reconcile-my-earnings"></a>Ricerca per categorie riconciliare i miei guadagni?
 
-In caso di discrepanza nei guadagni, completare i passaggi seguenti:
+In caso di discrepanza negli utili, completare la procedura seguente:
 
-1. **Verificare di essere idonei per i guadagni.**  I guadagni saranno disponibili solo se si soddisfano i requisiti di idoneità operativa, ovvero iscritti al rispettivo periodo di guadagno del programma.
+1. **Verificare di essere idonei per gli utili.**  Gli utili saranno disponibili solo se l'utente soddisfa i requisiti di idoneità operativa, vale a dire se è registrato nel rispettivo periodo retributivo del programma.
 
-2. **Verificare che il profilo di pagamento sia completo.**  La data di inizio dell'incentivo per gli incentivi sarà il primo giorno del mese in cui sono stati completati tutti i requisiti di idoneità, incluso l'onboarding con i dettagli relativi a pagamenti e imposte. I guadagni non saranno disponibili per i mesi precedenti al pagamento e al completamento delle imposte. Se, ad esempio, si completano tutti i requisiti durante il mese di aprile 2020, la data di inizio del guadagno sarà il 1 aprile 2020. 
+2. **Verificare che il profilo di pagamento sia completo.**  La data iniziale di acquisizione degli incentivi sarà il primo giorno del mese in cui tutti i requisiti di idoneità sono stati soddisfatti, incluso l'inserimento dei dati relativi a pagamenti e imposte. Gli utili non saranno disponibili per i mesi precedenti al pagamento e al completamento delle imposte. Se, ad esempio, si soddisfano tutti i requisiti durante il mese di aprile 2020, la data di inizio degli utili sarà il 1 aprile 2020. 
 
-3. **Verificare di aver soddisfatto i requisiti.**  Verificare se sono state soddisfatte le regole di [idoneità](#my-payment-is-missing-or-incorrect) e i ricavi idonei per l'incentivo che si sta cercando.
+3. **Verificare di aver soddisfatto i requisiti.**  Verificare che siano state soddisfatte le regole di [idoneità](#my-payment-is-missing-or-incorrect) utente e idoneità per l'acquisizione di ricavi per l'incentivo desiderato.
 
-4. **Determinare se è presente una discrepanza.**  Se si rispettano le regole di idoneità per i partner e i ricavi idonei e continuano a essere visualizzati i guadagni non corretti, vedere [come identificare i guadagni & discrepanza dei pagamenti](https://support.microsoft.com/help/4534675) per i passaggi necessari per accedere a tutti i guadagni
+4. **Determinare se è presente una discrepanza.**  Se si soddisfano le regole di idoneità per i partner e idoneità per l'acquisizione di ricavi, ma vengono visualizzati ancora guadagni non corretti, vedere [Come identificare la discrepanza di utili e pagamenti](https://support.microsoft.com/help/4534675) per la procedura necessaria per accedere a tutti i guadagni e alle rispettive transazioni.
 
-Se queste azioni non sono utili e i guadagni non sono ancora riconciliati, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Se queste azioni non sono utili e gli utili non vengono riconciliati, contattare il [supporto](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="where-can-i-find-my-rates"></a>Dove sono indicate le tariffe?
 

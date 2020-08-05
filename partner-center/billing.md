@@ -3,18 +3,18 @@ title: 'Informazioni di riferimento: articoli sulla fatturazione del Centro per 
 ms.topic: article
 ms.date: 04/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 Description: Informazioni sugli argomenti relativi alla fatturazione e alle imposte nel Centro per i partner. Informazioni sulle risorse di fatturazione, fatture, fatturazione CSP e imposte.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c78e90ab5d412f58384c039bcd4965170662ec0a
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435580"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527407"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Panoramica: Principali articoli sulla fatturazione e sulle imposte nel Centro per i partner
 
@@ -34,7 +34,6 @@ ms.locfileid: "86435580"
 | ----- | ----------- |
 | [Nozioni di base sulla fatturazione](billing-basics.md) | Nozioni di base sulla fatturazione nel Centro per i partner (inclusi i pagamenti, le fatture e i file di riconciliazione). |
 | [Tipi di fatturazione](billing-different-types.md) | Spiegazione dei diversi tipi di fatturazione nel Centro per i partner. |
-| [Differenze tra fatturazione mensile e annuale](billing-annual-monthly.md) | Spiegazione delle differenze tra le frequenze di fatturazione mensili e annuali. |
 | [Comprendere la fattura](read-your-bill.md) | Come leggere e comprendere una fattura del Centro per i partner. |
 | [Versioni di valutazione gratuite](offer-your-customers-trials-of-microsoft-products.md) | Come offrire versioni di valutazione gratuite ai clienti e come vengono fatturate. |
 | [File di riconciliazione](use-the-reconciliation-files.md) | Come leggere e usare un file di riconciliazione per le voci. |

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944448"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433905"
 ---
 # <a name="april-2020-announcements"></a>Annunci di aprile 2020
 
@@ -174,7 +174,7 @@ Per incrementare la protezione di partner e clienti, **a partire dal 1° maggio 
 
 - **Se non sono stati attivati i requisiti di sicurezza consigliati per proteggere il proprio tenant e i utenti**, attivarli immediatamente per mantenere la conformità ed evitare interruzioni al business a livello di gestione dei clienti o esecuzione di transazioni in CSP. I partner che non implementano i requisiti di sicurezza potrebbero mettere a rischio la rispettiva partecipazione al programma CSP.
 - I provider indiretti devono implementare questi requisiti di sicurezza per i propri business e devono collaborare con i rivenditori per assicurare che anche loro implementino i requisiti usando questo modello di posta elettronica. Microsoft contatterà anche direttamente i rivenditori con comunicazioni tramite posta elettronica.
-- Per verificare lo stato e scoprire le azioni essenziali da intraprendere, visitare la [pagina dello stato dei requisiti di sicurezza del Centro per i partner](https://partner.microsoft.com/pcv/security/compliance). Collaborare con l'amministratore globale per verificare regolarmente lo stato dei requisiti di sicurezza per ogni tenant.
+- Per verificare lo stato e scoprire le azioni essenziali da intraprendere, visitare la [pagina dello stato dei requisiti di sicurezza del Centro per i partner](https://partner.microsoft.com/commerce/security/compliance). Collaborare con l'amministratore globale per verificare regolarmente lo stato dei requisiti di sicurezza per ogni tenant.
 - Se si utilizza una soluzione di un fornitore del pannello di controllo (CPV), rivolgersi a tale fornitore.
 
 ### <a name="additional-resources"></a>Risorse aggiuntive

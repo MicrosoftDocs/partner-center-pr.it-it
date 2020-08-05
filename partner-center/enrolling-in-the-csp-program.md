@@ -1,6 +1,6 @@
 ---
 title: Iscriversi al programma Cloud Solution Provider
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 640ce63495a0894ecdba328fdc52992d0d0ea712
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 86fde264fe54b2ac6e72b1f630183c7dbdc7991b
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114290"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545822"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>Iscriversi al programma Cloud Solution Provider e creare un'azienda per soluzioni cloud redditizie
 

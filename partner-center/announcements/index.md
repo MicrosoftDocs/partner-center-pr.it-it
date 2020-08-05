@@ -9,26 +9,28 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: ff92983f936add17d746c08815149ffb2731cbab
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: 4ed7167faf3b090025d040d692b9cb2eac35a6d4
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87479084"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545542"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
 Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste informazioni vengono aggiornate di frequente, pertanto è importante consultarle di frequente.
 
-| **Categoria** | **Annunci di luglio 2020** | **Annunciato** |
+| **Categoria** | **Annunci di agosto 2020** | **Annunciato** |
 |---------|:---------|:---------|
-|Funzionalità|[Modifiche al lancio delle offerte Extended Dial-out di Enterprise Voice e Audio Conferencing](2020-july.md#10)|31 luglio|
+|Offerte/mercati|[Nuova offerta di bundle Premium di Dynamics 365 Sales](2020-august.md#2)|3 agosto|
+|Offerte/mercati|[Annuncio della disponibilità di offerte di versione di valutazione per Visio Piano 1 e Piano 2 ](2020-august.md#1)|3 agosto|
+| **Categoria** | **Annunci di luglio 2020** | **Data** |
+|Offerte/mercati|[Modifiche al lancio delle offerte Extended Dial-out di Enterprise Voice e Audio Conferencing](2020-july.md#10)|31 luglio|
 |Funzionalità|[Modifiche apportate alle API del Centro per i partner](2020-july.md#9)|28 luglio|
 |Funzionalità|[Versione dell'SDK in .NET Standard v1.16.1-preview](2020-july.md#8)|21 luglio|
 |Funzionalità|[Incentivo Cloud Solution Provider (CSP) per le offerte ottimizzate del marketplace commerciale Microsoft per FY21](2020-july.md#7)|22 luglio|
 |Funzionalità|[Nuove funzionalità aggiunte ai report di Insights nel Centro per i partner ](2020-july.md#6)|16 luglio|
 |Offerte/mercati|[Software con licenza perpetua nel programma Cloud Solution Provider ](2020-july.md#5)|15 luglio|
-| Offerte/mercati | [Nuovi SKU di Microsoft 365 Enterprise Voice per Teams](2020-july.md#4) | 3 luglio |
 | Offerte/mercati | [Offerte e prodotti nuovi e di fine vita per Microsoft Dynamics 365 e Power Platform](2020-july.md#3) | 1 luglio |
 | Offerte/mercati | [Microsoft ha terminato le vendite dello SKU autonomo di Microsoft Kaizala Pro](2020-july.md#2) | 1 luglio |
 | Funzionalità | [Programma di incentivi CSP esteso al primo trimestre FY21](2020-july.md#1) | 1 luglio |

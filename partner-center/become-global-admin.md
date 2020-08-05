@@ -1,6 +1,6 @@
 ---
 title: Diventare amministratore globale dell'azienda
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c448ea1786311c265ffc6defe0ec445fd41bc9a2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: fd2f47675cc60442390eb3394d7257d971c0e234
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435640"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527387"
 ---
 # <a name="verify-your-domain-ownership"></a>Verificare la proprietà del dominio
 
@@ -56,4 +56,6 @@ Con la verifica della proprietà del dominio diventi anche un amministratore glo
 - Visualizzazione, creazione e gestione di utenti partner
 - Acquisto e gestione di servizi cloud
 
-Per altre informazioni sui ruoli e sulle autorizzazioni, vedi [Creare account utente](create-user-accounts-and-set-permissions.md). 
+## <a name="next-steps"></a>Passaggi successivi
+
+- Per altre informazioni sui ruoli e sulle autorizzazioni, vedi [Creare account utente](create-user-accounts-and-set-permissions.md). 

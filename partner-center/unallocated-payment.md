@@ -1,6 +1,6 @@
 ---
 title: Gestire pagamenti non allocati
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,29 +9,29 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8724cf6bb487d42742c83d80340acbbcc01d0b6e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bddf0482e20817f9087a3610104652dabdef72c4
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436500"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811121"
 ---
-# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a><span data-ttu-id="4b80a-104">Gestisci i pagamenti non allocati nella pagina di fatturazione del centro per i partner</span><span class="sxs-lookup"><span data-stu-id="4b80a-104">Manage unallocated payments on your Partner Center Billing page</span></span>
+# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a><span data-ttu-id="97047-104">Gestisci i pagamenti non allocati nella pagina di fatturazione del centro per i partner</span><span class="sxs-lookup"><span data-stu-id="97047-104">Manage unallocated payments on your Partner Center Billing page</span></span>
 
-<span data-ttu-id="4b80a-105">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="4b80a-105">**Applies to**</span></span>
+<span data-ttu-id="97047-105">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="97047-105">**Applies to**</span></span>
 
-- <span data-ttu-id="4b80a-106">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="4b80a-106">Partner Center</span></span>
+- <span data-ttu-id="97047-106">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="97047-106">Partner Center</span></span>
 
-<span data-ttu-id="4b80a-107">In alcuni casi è possibile che venga visualizzato un pagamento non allocato nella pagina di fatturazione.</span><span class="sxs-lookup"><span data-stu-id="4b80a-107">Occasionally you may see an unallocated payment on your Billing page.</span></span> <span data-ttu-id="4b80a-108">Un pagamento non allocato è un pagamento effettuato a Microsoft che non è stato applicato a una fattura specifica.</span><span class="sxs-lookup"><span data-stu-id="4b80a-108">An unallocated payment is a payment you’ve made to Microsoft which you haven’t applied to a specific invoice.</span></span>
+<span data-ttu-id="97047-107">In alcuni casi è possibile che venga visualizzato un pagamento non allocato nella pagina di fatturazione.</span><span class="sxs-lookup"><span data-stu-id="97047-107">Occasionally you may see an unallocated payment on your Billing page.</span></span> <span data-ttu-id="97047-108">Un pagamento non allocato è un pagamento effettuato a Microsoft che non è stato applicato a una fattura specifica.</span><span class="sxs-lookup"><span data-stu-id="97047-108">An unallocated payment is a payment you’ve made to Microsoft which you haven’t applied to a specific invoice.</span></span>
 
-## <a name="to-view-your-unallocated-payments"></a><span data-ttu-id="4b80a-109">Per visualizzare i pagamenti non allocati</span><span class="sxs-lookup"><span data-stu-id="4b80a-109">To view your unallocated payments</span></span>
+## <a name="to-view-your-unallocated-payments"></a><span data-ttu-id="97047-109">Per visualizzare i pagamenti non allocati</span><span class="sxs-lookup"><span data-stu-id="97047-109">To view your unallocated payments</span></span>
 
-1. <span data-ttu-id="4b80a-110">[Accedi al dashboard Centro per i partner](https://partner.microsoft.com/dashboard/home).</span><span class="sxs-lookup"><span data-stu-id="4b80a-110">[Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).</span></span>
+1. <span data-ttu-id="97047-110">[Accedi al dashboard Centro per i partner](https://partner.microsoft.com/dashboard/home).</span><span class="sxs-lookup"><span data-stu-id="97047-110">[Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).</span></span>
 
-2. <span data-ttu-id="4b80a-111">Scegli **Billing** (Fatturazione) dal menu a sinistra.</span><span class="sxs-lookup"><span data-stu-id="4b80a-111">In the left-hand menu, choose **Billing**.</span></span>
+2. <span data-ttu-id="97047-111">Scegli **Billing** (Fatturazione) dal menu a sinistra.</span><span class="sxs-lookup"><span data-stu-id="97047-111">In the left-hand menu, choose **Billing**.</span></span>
 
-3. <span data-ttu-id="4b80a-112">Nella pagina fatturazione, trovare la sezione **pagamento non allocato** .</span><span class="sxs-lookup"><span data-stu-id="4b80a-112">On the Billing page, find the **Unallocated payment** section.</span></span> 
+3. <span data-ttu-id="97047-112">Nella pagina fatturazione, trovare la sezione **pagamento non allocato** .</span><span class="sxs-lookup"><span data-stu-id="97047-112">On the Billing page, find the **Unallocated payment** section.</span></span> 
 
-<span data-ttu-id="4b80a-113">Per applicare questa quantità a una determinata fattura, inviare un messaggio di posta elettronica bposcapp@microsoft.com e indicare la fattura a cui applicare il pagamento.</span><span class="sxs-lookup"><span data-stu-id="4b80a-113">To apply this amount to a particular invoice, email bposcapp@microsoft.com and tell us which invoice to apply this payment to.</span></span> <span data-ttu-id="4b80a-114">Assicurarsi di includere tutte le informazioni che verranno effettuate in caso di pagamento.</span><span class="sxs-lookup"><span data-stu-id="4b80a-114">Be sure to include all of the information you would if you were making a payment.</span></span> <span data-ttu-id="4b80a-115">La pagina di fatturazione verrà aggiornata entro 5-6 giorni.</span><span class="sxs-lookup"><span data-stu-id="4b80a-115">Your Billing page will be updated in 5-6 days.</span></span> 
+<span data-ttu-id="97047-113">Per applicare questa quantità a una determinata fattura, inviare un messaggio di posta elettronica bposcapp@microsoft.com e indicare la fattura a cui applicare il pagamento.</span><span class="sxs-lookup"><span data-stu-id="97047-113">To apply this amount to a particular invoice, email bposcapp@microsoft.com and tell us which invoice to apply this payment to.</span></span> <span data-ttu-id="97047-114">Assicurarsi di includere tutte le informazioni che verranno effettuate in caso di pagamento.</span><span class="sxs-lookup"><span data-stu-id="97047-114">Be sure to include all of the information you would if you were making a payment.</span></span> <span data-ttu-id="97047-115">La pagina di fatturazione verrà aggiornata entro 5-6 giorni.</span><span class="sxs-lookup"><span data-stu-id="97047-115">Your Billing page will be updated in 5-6 days.</span></span> 
 
-<span data-ttu-id="4b80a-116">I pagamenti non allocati rimangono non allocati fino a quando non vengono assegnati a una fattura.</span><span class="sxs-lookup"><span data-stu-id="4b80a-116">Unallocated payments remain unallocated until you assign them to an invoice.</span></span> 
+<span data-ttu-id="97047-116">I pagamenti non allocati rimangono non allocati fino a quando non vengono assegnati a una fattura.</span><span class="sxs-lookup"><span data-stu-id="97047-116">Unallocated payments remain unallocated until you assign them to an invoice.</span></span> 

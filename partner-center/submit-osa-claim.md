@@ -3,18 +3,18 @@ title: Creare un'associazione cliente tramite il modello CPOR
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: Creare le associazioni dei clienti tramite il modello CPOR (Claiming partner of record). Consente di gestire le vendite, l'utilizzo & gli incentivi per i clienti Microsoft 365 e Dynamics 365.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468348"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811181"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Creare un'associazione cliente tramite il modello CPOR: usare per i clienti Microsoft 365 e Dynamics 365
 
@@ -66,7 +66,7 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
 
 2. Nella parte superiore della pagina associazioni clienti selezionare **+ associazione clienti**.
 
-3. Selezionare l' **ID MPN** della località partner da associare al cliente, quindi aggiungere il nome di dominio e l'ID directory del cliente. [Trova](find-domain-name.md)
+3. Selezionare l'**ID MPN** della località partner da associare al cliente, quindi aggiungere il nome di dominio e l'ID directory del cliente. [Trova](find-domain-name.md)
 
 4. Seleziona **Continua**.
 
@@ -76,7 +76,7 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
    >
    >Se si seleziona Business Applications, selezionare **utilizzo e/o pre-vendite**o **associazione ricavi**, quindi selezionare **continua**. 
 
-   >Se si seleziona l'associazione di ricavi, verranno richieste informazioni leggermente diverse da quelle elencate di seguito.
+   >Se si seleziona Associazione ricavi, verranno richieste informazioni leggermente diverse da quelle elencate di seguito.
 
 6. Immettere le informazioni appropriate nella pagina **associa cliente** , quindi selezionare **Crea attestazione**.
 
@@ -87,13 +87,13 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
    >[!NOTE]
    >Se il prodotto è Dynamics 365 e il prodotto scelto ha più sottoscrizioni per questo particolare cliente, sarà necessario immettere anche l'ID sottoscrizione.
 
-9. Fornire la prova di esecuzione (POE). È possibile trascinarlo nella casella, passare alla documentazione di supporto o usare un modello selezionando **Scarica modello**. 
+9. Inviare la prova di esecuzione (POE). È possibile trascinarla nella casella, passare alla propria documentazione di supporto o usare un modello selezionando **Scarica modello**. 
 
 10. Aggiungere e salvare i commenti se lo si desidera, quindi selezionare **Invia attestazione**. Invieremo un messaggio di posta elettronica al cliente per richiedere l'approvazione dell'associazione del cliente.
 
    >[!NOTE]
    >Una volta inviata l'associazione del cliente, non è possibile modificarla.
 
-Lo stato dell'associazione del cliente viene visualizzato nel campo **stato** .
+Lo stato dell'associazione del cliente viene visualizzato nel campo **stato**.
 
-Selezionare **cronologia** per visualizzare la cronologia di un'associazione del cliente.
+Selezionare **Cronologia** per visualizzare la cronologia di un'associazione del cliente.

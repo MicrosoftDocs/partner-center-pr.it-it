@@ -1,7 +1,7 @@
 ---
 title: Vendere i clienti Microsoft Azure prenotazioni
 ms.topic: article
-ms.date: 06/19/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Come provider di soluzioni cloud, è possibile acquistare, vendere o gestire prenotazioni di Azure per i clienti. Usare il centro per i partner, il portale di Azure o l'API del centro per i partner.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4524d810a036953e45fb94a72241734e02a2798f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3efe8ae6a955dee5cfe01d0571cd107f8ee50f5c
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435730"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900086"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Vendere Microsoft Azure prenotazioni ai clienti tramite il centro per i partner, l'portale di Azure o le API
 
@@ -22,7 +22,7 @@ ms.locfileid: "86435730"
 
 - Centro per i partner
 - Portale di Microsoft Azure
-- Partner in CSP
+- Partner aderenti al programma CSP
 
 **Ruoli appropriati**
 
@@ -32,12 +32,15 @@ ms.locfileid: "86435730"
 - Agente di vendita
 - Amministratore gestione utenti
 
-I partner del programma Cloud Solution Provider (CSP) possono offrire ai clienti Microsoft Azure prenotazioni. I clienti possono ottenere risparmi significativi quando si riservano in anticipo. Le prenotazioni di Azure offrono ai clienti semplicità e flessibilità nei modi seguenti:
+> [!NOTE]
+> Questo articolo si applica solo ai partner del programma Cloud Solution Provider (CSP). I clienti che usano altri tipi di sottoscrizioni, ad esempio con pagamento in base al consumo, singoli contratti Microsoft o sottoscrizioni di Enterprise Agreement, dovranno invece leggere [la documentazione relativa alle prenotazioni di Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
+
+I partner del programma CSP possono offrire ai clienti Microsoft Azure prenotazioni. I clienti possono ottenere risparmi significativi quando si riservano in anticipo. Le prenotazioni di Azure offrono ai clienti semplicità e flessibilità nei modi seguenti:
 
 - Condizioni di prenotazione per uno o tre anni
 - Facile da iniziare; installazione completata in pochi secondi
 - Annulla o scambia le istanze riservate in qualsiasi momento per il rimborso modificato
-- Gestire l'utilizzo delle istanze riservate a livello di reparto aziendale o individuale 
+- Gestire l'utilizzo delle istanze riservate a livello di reparto aziendale o individuale
 
 Le prenotazioni di Azure possono ricorrere ai clienti nei modi seguenti:
 

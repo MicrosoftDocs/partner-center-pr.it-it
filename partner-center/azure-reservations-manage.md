@@ -1,7 +1,7 @@
 ---
 title: Gestisci prenotazioni di Azure per i clienti
 ms.topic: how-to
-ms.date: 05/04/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informazioni su come gestire le prenotazioni di Azure per un cliente, tra cui come annullare una prenotazione, scambiare una prenotazione o richiedere un rimborso.
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb5e88b284aac3325de79d41c0c9a19ffc906b3f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 126d8bcae5ca7feb3eefe414bd14e476b4047d11
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527457"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900075"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gestione, annullamento, scambio o rimborso Microsoft Azure prenotazioni per i clienti
 
@@ -31,6 +31,9 @@ ms.locfileid: "87527457"
 - Agente di supporto tecnico
 - Agente di vendita
 - Amministratore gestione utenti
+
+> [!NOTE]
+> Questo articolo si applica solo ai partner del programma Cloud Solution Provider (CSP). I clienti che usano altri tipi di sottoscrizioni, ad esempio con pagamento in base al consumo, singoli contratti Microsoft o sottoscrizioni di Enterprise Agreement, dovranno invece leggere [la documentazione relativa alle prenotazioni di Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
 
 Per gestire le prenotazioni di Azure per i clienti dopo l'acquisto, selezionare il cliente e la prenotazione da gestire nel centro per i partner e quindi apportare modifiche alla prenotazione nel portale di Azure.
 

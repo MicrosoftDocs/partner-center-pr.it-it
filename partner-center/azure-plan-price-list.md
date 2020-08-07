@@ -1,6 +1,6 @@
 ---
 title: Listino prezzi del piano di Azure per i partner CSP
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6beb9dfe12eb50a1c6185ac251c19c089f760978
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 980f6429d146757edbab4c97cebfd3616cb48760
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435790"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527557"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Listino prezzi per la nuova esperienza commerciale di Azure in CSP
 
@@ -88,7 +88,19 @@ Il listino prezzi per la nuova esperienza commerciale di Azure in CSP viene pubb
 |MeterType|Tipo di contatore|
 |Tag|Proprietà relative all'elemento, che per i prezzi relativi al piano di Azure saranno Azure oppure Azure e Reservations (per le prenotazioni)|
 
-È possibile esportare i listini prezzi del piano di Azure dalla [pagina Prezzi del piano di Azure e marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any).
+È possibile esportare i listini prezzi del piano di Azure dalla [pagina Prezzi e offerte](https://partner.microsoft.com/dashboard/sell/pricingandoffers) del Centro per i partner.
+
+## <a name="tiered-pricing"></a>Prezzi a più livelli
+
+Alcuni servizi di consumo del piano di Azure supportano prezzi a più livelli. I partner possono trovare questi prodotti e SKU nel listino prezzi del piano di Azure. In base alle voci accompagnate da valori nelle colonne dei piani tariffari, i partner possono conoscere il prezzo in base all'utilizzo. Nell'esempio seguente basato su dati di esempio è riportato uno SKU di prodotto con tre piani tariffari.
+
+|**ProductId**   |**SkuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
+|:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
+|DDD123456ABC|01AB|0,50|100.001|9223372036854780000|
+|DDD123456ABC|01AB|0,80|101|100.000|
+|DDD123456ABC|01AB|1|1|100|
+
+In questo esempio, se si usano 101 unità, l'addebito sarà pari a 100,80. Le prime 100 unità costano 1 ognuna, mentre l'unità successiva viene addebitata a 0,80.
 
 ## <a name="pricing-api-for-azure-plan"></a>API dei prezzi per il piano di Azure
 
@@ -99,6 +111,6 @@ L'API dei prezzi si trova in un endpoint diverso rispetto alle altre API del Cen
 Questa API consente ai partner anche di recuperare i tassi di cambio mensili perché i prezzi del piano di Azure sono indicati solo in USD. Puoi usare le API per recuperare sia i prezzi sia i tassi di cambio esteri relativi al mese corrente o ai mesi precedenti.
 
 >[!NOTE]
-> L'API dei prezzi è specifica per i prezzi del piano di Azure. Per le risorse e le prenotazioni di Azure distribuite in sottoscrizioni diverse dal piano di Azure, devi continuare a usare l'API RateCard esistente e i listini prezzi pubblicati nella pagina Prezzi e offerte del Centro per i partner. L'API dei prezzi del piano di Azure non supporta i prezzi di software, marketplace o basati su postazione come Microsoft 365 o Dynamics 365.
+> L'API dei prezzi è specifica per i prezzi del piano di Azure. Per le risorse e le prenotazioni di Azure distribuite in sottoscrizioni diverse dal piano di Azure, devi continuare a usare l'API RateCard esistente e i listini prezzi pubblicati nella pagina Prezzi e offerte del Centro per i partner. L'API dei prezzi del piano di Azure non supporta i prezzi del software, del marketplace o quelli basati su licenza come Microsoft 365 o Dynamics 365.
 
 Per altre informazioni sulle API dei prezzi del piano di Azure e dei tassi di cambio esteri, vedi tutta la [documentazione relativa all'API dei prezzi](https://docs.microsoft.com/partner/develop/pricing).

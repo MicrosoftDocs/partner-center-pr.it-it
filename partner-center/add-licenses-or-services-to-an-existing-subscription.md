@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri in che modo aggiornare o modificare una sottoscrizione cliente. Aggiungere altre licenze e postazioni o passare a una versione diversa con più servizi.
+description: Scopri in che modo aggiornare o modificare una sottoscrizione cliente. Aggiungere altre licenze o passare a una versione diversa con più servizi.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 251423b40508e25dc9ea5c89fffb34c4f0c10499
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436360"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468780"
 ---
-# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Aggiungere licenze, postazioni o servizi a una sottoscrizione cliente
+# <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Aggiungere licenze o altri servizi alla sottoscrizione di un cliente
 
 **Si applica a**
 
@@ -31,55 +31,22 @@ ms.locfileid: "86436360"
 - Agente di vendita
 - Agente di supporto tecnico
 
-Se il cliente necessita di più postazioni rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, puoi aggiornare la sottoscrizione. Per altri dettagli, vedi [Passare a un piano di Microsoft 365 Apps for business diverso](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Se il cliente necessita di un maggior numero di licenze rispetto a quelle fornite dalla sottoscrizione corrente oppure di una versione diversa con servizi aggiuntivi, è possibile aggiornare la sottoscrizione. Per altre informazioni, vedere [Passare a un piano diverso di Microsoft 365 Apps for business](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
-## <a name="upgrades-supported-in-the-csp-program"></a>Aggiornamenti supportati nel programma CSP <a href="" id="upgradesubscription"></a>
+## <a name="upgrades-supported-in-the-csp-program"></a>Aggiornamenti supportati nel programma CSP <a id="upgradesubscription"></a>
 
 In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Offerta</th>
-<th>Aggiornamenti possibili</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Microsoft 365 Apps for business</td>
-<td><ul>
-<li>Microsoft 365 Business Premium¹</li>
-<li>Microsoft 365 Apps for enterprise</li>
-<li>Office 365 Enterprise E3</li>
-<li>Office 365 Enterprise E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Microsoft 365 Business Standard</td>
-<td><ul>
-<li>Office 365 Enterprise E3</li>
-<li>Office 365 Enterprise E5</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Microsoft 365 Business Basic</td>
-<td><ul>
-<li>Microsoft 365 Business Standard¹</li>
-<li>Office 365 Enterprise E1</li>
-<li>Office 365 Enterprise E3</li>
-<li>Office 365 Enterprise E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>¹ Puoi aggiornare Microsoft 365 Apps for business India e Microsoft 365 Business Basic India a Microsoft 365 Business Standard India, non a Microsoft 365 Business Standard.</p></td>
-</tr>
-</tbody>
-</table>
+| Offerta | Aggiornamenti possibili|
+|---:|:---|
+| Microsoft 365 Apps for business   | - Microsoft 365 Business Premium¹ <br/>  - Microsoft 365 Apps for enterprise <br/> - Office 365 Enterprise E3 <br/> - Office 365 Enterprise E5 <br/> |
+| Microsoft 365 Business Standard    | - Office 365 Enterprise E3 <br/> - Office 365 Enterprise E5 <br/> |
+| Microsoft 365 Business Basic | - Microsoft 365 Business Standard¹ <br/> - Office 365 Enterprise E1 <br/> - Office 365 Enterprise E3<br/> - Office 365 Enterprise E5 <br/> |
+
+¹ Puoi aggiornare Microsoft 365 Apps for business India e Microsoft 365 Business Basic India a Microsoft 365 Business Standard India, non a Microsoft 365 Business Standard.
+
+
+## <a name="conditions"></a>Condizioni
 
 Le sottoscrizioni possono essere aggiornate se sono soddisfatte queste condizioni:
 
@@ -93,7 +60,7 @@ Le sottoscrizioni possono essere aggiornate se sono soddisfatte queste condizion
 
 È possibile, negli ultimi due casi, che il cliente abbia acquistato le sottoscrizioni o i servizi da un altro partner o un altro canale e non potrà acquistarli da te, a meno che prima non annulli quelli esistenti. Per altre informazioni, vedi [multicanale](multichannel.md).
 
-Per altre informazioni sull'impatto di queste operazioni sulla fatturazione, vedi i dettagli relativi all'annullamento di una sottoscrizione e all'aggiunta di una nuova sottoscrizione in [Scenari di fatturazione comuni](common-billing-scenarios.md).
+Per altre informazioni sull'impatto generato sulla fatturazione, vedere come annullare una sottoscrizione e aggiungerne una nuova in [Scenari di fatturazione comuni](common-billing-scenarios.md).
 
 ## <a name="upgrade-a-subscription"></a>Aggiornare una sottoscrizione
 

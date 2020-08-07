@@ -3,18 +3,18 @@ title: Creare account utente e assegnare ruoli
 description: A ogni dipendente deve essere assegnato un ruolo per poter accedere al Centro per i partner. Scopri come creare gli account utente, assegnare ruoli e impostare le autorizzazioni.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: c7d04307be7a81cf3501e1b50e278cf1a012afcd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435190"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527737"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Creare account utente e assegnare ruoli e autorizzazioni
 
@@ -102,3 +102,7 @@ Per consentire di visualizzare i percorsi di formazione e apprendimento seguiti 
 1. Dal dashboard del Centro per i partner seleziona l'icona **Il tuo account** nell'angolo destro del dashboard e quindi **Profilo personale**.
 
 2. In **Your learning** (La tua formazione) potrai associare il tuo account Microsoft Learning e connettere anche il tuo account Microsoft a Partner University.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Assegnare ruoli utente e autorizzazioni per gli utenti di un'azienda che devono usare il Centro per i partner](permissions-overview.md)

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7cbf049d2a65fd9738299e090e8ab40107d64f89
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 42732a20b4901223a9376d3221579e7cd7be3297
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875167"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444587"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Confronta le differenze tra le offerte di Azure nel programma CSP
 
@@ -32,11 +32,11 @@ Questo articolo descrive le principali differenze tra le offerte di Azure nel pr
 
 La tabella seguente offre una panoramica delle principali differenze tra le offerte del programma CSP che fanno parte della nuova esperienza commerciale di Microsoft.
 
-|**Offerta**| **Piano di Azure**|**Offerte del Marketplace di terze parti**|**Prenotazioni di Azure**|**Abbonamenti server venduti tramite CSP**|**Offerte basate su postazioni**|
+|**Offerta**| **Piano di Azure**|**Offerte del Marketplace di terze parti**|**Prenotazioni di Azure**|**Abbonamenti server venduti tramite CSP**|**Offerte basate su licenza**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |Fatturazione|Ogni mese|Variabile (in base all'offerta)|Cliente finale|In anticipo per l'intero periodo o per un periodo di tre anni|Mensile o annuale|
 |Licenziatario|Cliente finale|Variabile (in base all'offerta)|Cliente finale| Cliente finale|Cliente finale|
-|Periodo di copertura|Attivo fino all'annullamento|Variabile (in base all'offerta)|Vedi la descrizione dell'offerta|Tutte le prenotazioni di Azure hanno un periodo di copertura univoco. Tutte le sottoscrizioni server hanno un periodo di copertura univoco.|   Le licenze aggiuntive basate su postazioni si inseriranno nel periodo di copertura esistente|
+|Periodo di copertura|Attivo fino all'annullamento|Variabile (in base all'offerta)|Vedi la descrizione dell'offerta|Tutte le prenotazioni di Azure hanno un periodo di copertura univoco. Tutte le sottoscrizioni server hanno un periodo di copertura univoco.|   Le licenze aggiuntive si inseriranno nel periodo di copertura esistente.|
 |Rinnovo automatico|Sì|Sì|No| No|Sì|
 |Più valute|Fattura in base alla posizione/valuta del cliente|Fattura in base alla posizione/valuta del cliente|Fattura in base alla posizione/valuta del cliente|Fattura in base alla posizione/valuta del cliente|In base alla valuta della posizione del partner| 
 |Fattura e file di riconciliazione|Fattura e file di riconciliazione separati per ogni valuta della posizione del cliente.  Verranno inoltre forniti file di utilizzo con tassi giornalieri (per le parti fatturate e non fatturate) |Fattura e file di riconciliazione separati per ogni valuta della posizione del cliente|Fattura e file di riconciliazione separati per ogni valuta della posizione del cliente|Fattura e file di riconciliazione separati per ogni valuta della posizione del cliente|Tutti gli ordini in una fattura e un file di riconciliazione|

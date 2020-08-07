@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 08b1b547fc6f494dfdb1199824221aecad9120bc
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114563"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433892"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Eseguire la preparazione per il passaggio da Partner Membership Center (PMC) al Centro per i partner
 
@@ -117,7 +117,6 @@ Nel Centro per i partner un partner può aggiungere account aziendali e account 
 
 Anche se l'amministratore MPN o l'amministratore globale può assegnare agli utenti guest sottoscrizioni in base all'uso di Visual Studio, gli utenti guest non possono accedere al Centro per i partner usando il proprio account Microsoft. Gli utenti guest, tuttavia, possono accedere ad Azure e a Visual Studio per convalidare e usare i benefit che gli sono stati assegnati.
 
-
  **In che modo è opportuno gestire le associazioni MCP e l'accesso a Partner University?**
 
  Non vengono apportate modifiche alle associazioni MCP spostate da PMC. Tuttavia, tutti i nuovi dipendenti aggiunti dopo il passaggio al Centro per i partner dovranno essere associati nel Centro per i partner. Tutte le autorizzazioni relative a Partner University per gli utenti esistenti verranno mantenute, ma tutti i nuovi dipendenti dovranno andare al [centro di formazione](https://partner.microsoft.com/training) per avere informazioni su come ottenere l'accesso a Partner University.
@@ -137,7 +136,9 @@ Seleziona **Competenze** nel riquadro di spostamento nella parte sinistra del da
 
 **Ci sono ripercussioni sugli incentivi a seguito del passaggio al Centro per i partner?**
 
-No, non ci sono ripercussioni sugli incentivi se hai spostato il tuo account senza consolidare le località/sedi. Se la tua azienda dispone di più account in PMC e, quando passi al Centro per i partner, decidi di eseguire il consolidamento in un account globale, gli incentivi non andranno persi, ma potrebbe verificarsi un ritardo nel loro versamento. Se non sposti tutti gli account PMC interessati da programmi per incentivi, potresti non ricevere più i proventi derivanti dagli incentivi legati a tali account.
+No, non ci sono ripercussioni sugli incentivi se hai spostato il tuo account senza consolidare le località/sedi. Se la tua azienda dispone di più account in PMC e, quando passi al Centro per i partner, decidi di eseguire il consolidamento in un account globale, gli incentivi non andranno persi, ma potrebbe verificarsi un ritardo nel loro versamento. 
+
+Se non sposti tutti gli account PMC interessati da programmi per incentivi, potresti non ricevere più i proventi derivanti dagli incentivi legati a tali account.
 
 
 **Quali sono i ruoli Incentivi nel Centro per i partner?** 
@@ -160,7 +161,12 @@ La tua azienda può creare tutti i profili di business necessari per rappresenta
 
 Le segnalazioni vengono assegnate in base ai parametri di ricerca definiti dal cliente. Indipendentemente dal fatto che tu disponga di una o più località/sede, se i clienti specificano una località/sede desiderata e presso quella località/sede hai un'azienda che soddisfa gli altri parametri, la segnalazione viene assegnata a tale località/sede.
 
+**Si esegue la migrazione al Centro per i partner dalla Russia. Viene visualizzato un messaggio di errore relativo a Web Direct. In che modo è possibile continuare la migrazione?**
 
+Se viene visualizzato un messaggio di errore perché si partecipa al programma Web Direct, è necessario eseguire le operazioni seguenti:
+
+1. Accedere a portal.azure.com e creare un nuovo tenant di Azure AD. Per altre informazioni, vedere [Creare un nuovo tenant di Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
+1. Dopo aver creato il nuovo tenant di Azure AD, usarlo per eseguire la migrazione da Partner Membership Center al Centro per i partner o per iscriversi ex novo nel Centro per i partner.
 
 
 

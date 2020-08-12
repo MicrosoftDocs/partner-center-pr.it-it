@@ -5,16 +5,16 @@ ms.subservice: partnercenter-csp
 description: Descrive come verificare i dettagli della società, ad esempio contatto principale, indirizzo e informazioni sul programma. Puoi anche aggiornare l'indirizzo legale e di fatturazione.
 author: parthpandyaMSFT
 ms.author: parthp
-ms.topic: conceptual
+ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8a090b4f49260ecbb6597d8b989a1a1156422ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: efae9cce608524835c8e4526f23e61b793470d2b
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365717"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811111"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Verificare le informazioni relative al profilo del partner nel Centro per i partner
 

@@ -102,6 +102,7 @@
 ### [Analizzare il profilo di business](analyze-your-marketing-profile.md)
 ## Incentivi
 ### Introduzione agli incentivi
+#### [Introduzione](incentives-get-started-intro.md)
 #### [Determinare l'idoneità del programma](incentives-determined-your-program-eligibility.md)
 #### [Creare e gestire il profilo di pagamento e il profilo fiscale nel Centro per i partner](incentives-create-and-manage-your-payout-and-tax-profiles.md)
 #### [Domande frequenti su proventi da incentivi e profilo fiscale](incentives-payout-tax-profile-faqs.md)
@@ -109,14 +110,16 @@
 #### [Visualizzare i pagamenti e i programmi degli incentivi](understand-incentive-payouts.md)
 #### [Accedere alla pagina sui pagamenti degli incentivi](incentives-unified-user-guide.md)
 ### Piani e prove di esecuzione
+#### [Informazioni sui piani e POE](incentives-plans-proofs-intro.md)
 #### [Creare il piano](incentives-create-your-plan.md)
 #### [Preparare la prova di esecuzione](incentives-prepare-your-proof-of-execution.md)
 ### Attestazioni cooperative per gli incentivi
-#### [Incentivi](claims-overview.md)
+#### [Informazioni sulle attestazioni cooperative](claims-overview.md)
 #### [Creare e gestire le attestazioni cooperative per gli incentivi](create-incentives-claims.md)
 #### [Requisiti di base delle attestazioni cooperative per gli incentivi](core-requirements.md)
 #### [Scadenze per l'approvazione e il pagamento delle attestazioni cooperative](incentives-managing-co-op-claims.md)
 ### Attestazioni di associazione del modello CPOR per gli incentivi
+#### [Informazioni sulle associazioni CPOR](incentives-customer-associations-intro.md)
 #### [Creare un'associazione cliente usando il modello CPOR](submit-osa-claim.md)
 #### [Gestire le associazioni del cliente](incentives-manage-customer-associations.md)
 #### [Problemi di associazione del cliente](incentives-customer-association-issues.md)

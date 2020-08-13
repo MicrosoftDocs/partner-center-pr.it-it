@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389130"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998372"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Acquistare o rinnovare un abbonamento a Microsoft Action Pack oppure competenze Silver o Gold
 
@@ -72,6 +72,13 @@ Diventa un [partner con competenze](https://partner.microsoft.com/membership/com
 
 L'abbonamento ad Action Pack verrà rinnovato automaticamente ogni anno in tale data. Il rinnovo automatico può essere disabilitato in qualsiasi momento nell'elenco delle offerte **Acquistato**. Tuttavia, non potrà essere abilitato di nuovo fino al successivo rinnovo dell'abbonamento. 
 
+### <a name="update-your-bill-to-address"></a>Aggiornare l'indirizzo di fatturazione
+
+Nel processo di rinnovo o acquisto di Action Pack, è possibile convalidare l'indirizzo di fatturazione.
+
+ 1. Dopo aver selezionato **Invia** è possibile esaminare i dettagli dell'acquisto. Se si nota che è necessario aggiornare l'indirizzo, selezionare **Aggiorna**.
+  
+ 1. Nella pagina **Profilo partner** aggiornare l'indirizzo.
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Disabilitare il rinnovo automatico dell'abbonamento ad Action Pack
 

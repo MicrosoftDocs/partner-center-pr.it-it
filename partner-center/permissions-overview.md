@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0e7aecd7d56e1919c7f142312a9090b8ff40bd3
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c87e47efc6c94e4e53a031a983a4a4e528ddc012
+ms.sourcegitcommit: 59bdf42f5282262835cb7ee2bd215bbddc7686d7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434320"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87839186"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Assegnare ruoli utente e autorizzazioni per gli utenti di un'azienda che devono usare il Centro per i partner
 
@@ -46,6 +46,7 @@ Puoi determinare i tipi di accesso al Centro per i partner di cui dispongono gli
 ||*    Visualizzazione di tutti i profili dei partner
 ||*    Visualizzazione, creazione e gestione di utenti partner  |
 |Amministratore fatturazione | - Visualizzazione, creazione e gestione della fatturazione, delle fatture e dei file di riconciliazione|
+||*    Visualizzazione dei prezzi
 |Utente predefinito|  Visualizzazione del profilo personale   |
 |Agente amministratore | *    Gestione dei clienti
 ||*    Aggiunta dell'elenco dei dispositivi al Centro per i partner
@@ -62,6 +63,7 @@ Puoi determinare i tipi di accesso al Centro per i partner di cui dispongono gli
 ||*    Gestione degli abbonamenti
 ||*    Visualizzazione dei ticket di supporto
 ||*    Richiesta di una relazione con un cliente
+||*    Visualizzazione di prezzi e offerte
 ||*    Gestione dei clienti potenziali
 ||*    Visualizzazione del contratto per il cliente
 ||*    Registrazione di un rivenditore a valore aggiunto|

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6d50081332a404507fea9c196e10cf3d5f0ecb
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114054"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998391"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Rinnovare le offerte MPN per Microsoft Action Pack e competenze durante il periodo di rinnovo
 
@@ -40,11 +40,13 @@ Quando rinnovi nel periodo valido, la nuova data dell'anniversario cadrà 365 gi
 
 ## <a name="responding-to-covid-19"></a>Risposta al COVID-19:
 
-Per aiutarti a concentrarti sul supporto ai clienti, **se la tua data di anniversario è compresa tra il 1° gennaio e il 30 giugno 2020**, stiamo estendendo le tue competenze attuali fino alla prossima data di anniversario nel 2021. I promemoria per il rinnovo delle competenze verranno aggiornati in base a questa nuova offerta. 
+Per consentire un supporto ottimale dei clienti: 
+
+- **Se la data di anniversario è compresa tra il 1° gennaio e il 31 giugno 2020**, è in corso l'estensione delle competenze attuali fino alla prossima data di anniversario nel 2021. I promemoria per il rinnovo delle competenze verranno aggiornati in base a questa nuova offerta. 
 
 - **Se la competenza è prossima al rinnovo**, nel Centro per i partner vedrai che i requisiti sono stati soddisfatti. Per effettuare il rinnovo, dovrai pagare i corrispettivi relativi alla competenza entro il periodo di rinnovo nella pagina Offerte di iscrizione. 
 
-- **Se il periodo di rinnovo è già trascorso**, puoi riattivare la competenza e ottenere nuovamente l'accesso alle risorse e ai vantaggi pagando i relativi corrispettivi nella pagina Offerte di iscrizione. Questa estensione è disponibile fino al 30 giugno 2020.   
+- **Se il periodo di rinnovo è già trascorso**, è possibile riattivare la competenza e ottenere nuovamente l'accesso alle risorse e ai vantaggi pagando i relativi corrispettivi nella pagina Offerte di iscrizione. Questa estensione è disponibile fino al 31 dicembre 2020.
 
 ### <a name="how-to-view-this-information"></a>Come visualizzare queste informazioni
 

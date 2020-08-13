@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 07aed688aa17c1ee9017785e16eded56624d7d62
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: dbedfdb2001966a78f1453ee45615ab9418d968a
+ms.sourcegitcommit: 9ad926be9f5d245b307bc7d3975ff3973dba3161
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527617"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "88188438"
 ---
 # <a name="benefits-faq"></a>Domande frequenti sui vantaggi
 
@@ -70,12 +70,6 @@ Quando si rinnovano o si estendono le sottoscrizioni, il numero di licenze riman
 
 >[!IMPORTANT]
 >Se si sceglie di aggiungere licenze a una sottoscrizione esistente, la sottoscrizione scadrà tra meno di 12 mesi, a seconda del numero di licenze esistenti e aggiunte. Dopo aver riscattato una chiave, non è possibile riscattarla. Prima di riscattare la chiave, verificare di aver compreso se è necessario aggiungere licenze o rinnovare/estendere la sottoscrizione.
-
-### <a name="q-why-dont-i-see-the-renew-or-extend-options-when-i-activate-my-product-key"></a>Q. Perché non è possibile visualizzare le opzioni Renew o Extend quando si attiva il codice Product Key
-
-Se l'opzione rinnovo/Estendi non viene visualizzata, significa che sono già presenti più licenze sulla sottoscrizione esistente rispetto a quelle fornite dal nuovo codice Product Key.
-
-Per accedere all'opzione rinnovo/Estendi, è necessario rimuovere le licenze nella sottoscrizione corrente fino a quando il numero di licenze disponibili è uguale o inferiore al numero di licenze della nuova chiave.
 
 ### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>Q. È possibile attivare la licenza per l'account del cliente
 

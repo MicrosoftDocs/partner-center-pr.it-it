@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c8c6798c216ce4b0228feabdf59838f23526c362
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 07ebb79d38a0340129fdc590bc873c9fd7ed05c9
+ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811161"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88220206"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,8 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di agosto 2020** | **Annunciato** |
 |---------|:---------|:---------|
+|Funzionalità|[Versione dell'SDK in .NET Standard v1.16.1](2020-august.md#6)|12 agosto|
+|Funzionalità|[L'acquisto self-service per Microsoft Project e Microsoft Visio sarà presto disponibile](2020-august.md#5)|12 agosto|
 |Offerte/mercati|[Sono ora disponibili nuovi SKU Microsoft Teams Advanced Communications](2020-august.md#4)|4 agosto|
 |Offerte/mercati|[Microsoft Defender Advanced Threat Protection (ATP) per i server per Education disponibile a settembre](2020-august.md#3)|4 agosto|
 |Offerte/mercati|[Nuova offerta di bundle Premium di Dynamics 365 Sales](2020-august.md#2)|3 agosto|
@@ -86,7 +88,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 | **Categoria** | **Annunci di gennaio 2020** | **Data** |
 | Offerte/mercati | [Sottoscrizioni di Windows Server e SQL Server disponibili per i partner Cloud Solution Provider (CSP) in Russia dal 1° febbraio 2020](2020-january.md#7) | 31 gennaio |
 | Offerte/mercati | [I componenti aggiuntivi Sala riunioni e Riunioni per Microsoft 365 F1 sono ora disponibili per il Government Community Cloud (GCC)](2020-january.md#6) | 29 gennaio |
-| Funzionalità | [I componenti aggiuntivi Sala riunioni e Riunioni per Microsoft 365 F1 sono ora disponibili per il Government Community Cloud (GCC)](2020-january.md#5) | 28 gennaio |
+| Funzionalità | [Disponibile ora l'acquisto self-service di Power Apps e Power Automate per clienti commerciali degli Stati Uniti](2020-january.md#5) | 28 gennaio |
 | Funzionalità | [Annuncio di un nuovo dashboard per la creazione di report nel Centro per i partner](2020-january.md#4) |27 gennaio |
 | Funzionalità | [Confermare l'accettazione del Contratto del cliente Microsoft entro il 31 gennaio 2020](2020-january.md#3) | 27 gennaio |
 | Funzionalità | [Pianificazione dell'aggiornamento del listino prezzi e dell'offerta per il mese di gennaio 2020](2020-january.md#2) | 7 gennaio |

@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4aca8154965bbce3c4d2c100478756f6e9dd1e4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: d7954f40294202750d0b6d51102f68ea694b07c3
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434460"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239029"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Report del dashboard dei clienti dal centro per i partner Insights
 
@@ -96,3 +96,6 @@ Grafico di tendenza mensile che confronta i clienti attivi e totali per l'interv
 ## <a name="next-steps"></a>Passaggi successivi
 
 Per altri report, vedere [Partner Center Insights](partner-center-insights.md).
+
+>[!NOTE] 
+> È possibile scaricare i dati non elaborati che generano questo report dalla sezione download dei report nel dashboard di Insights. [Altre informazioni](pci-download-reports.md) 

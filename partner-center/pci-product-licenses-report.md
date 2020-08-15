@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 66b913688b279654c79b0860fbd0f92a921d87dd
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444841"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239049"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Report licenze del prodotto nel dashboard di partner Center Insights
 
@@ -26,7 +26,7 @@ ms.locfileid: "87444841"
 
 Il report licenze prodotto presenta l'analisi delle licenze per i prodotti cloud basati su licenze, ad esempio O365, Dynamics, M365, Power BI e così via. Le analisi presentate in questo articolo sono associate all'utilizzo delle licenze vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report licenze prodotto.
 
-- Summary
+- Riepilogo
 - Distribuzione geografica delle licenze
 - Aggiunta licenza
 - Distribuzione delle licenze per località partner, canale di vendita, SKU, tipo di connessione partner, segmento
@@ -83,3 +83,6 @@ Questa visualizzazione Mostra una suddivisione delle licenze dei clienti in base
 ## <a name="next-steps"></a>Passaggi successivi
 
 Per altri report, vedere [Partner Center Insights](partner-center-insights.md).
+
+>[!NOTE] 
+> È possibile scaricare i dati non elaborati che generano questo report dalla sezione download dei report nel dashboard di Insights. [Altre informazioni](pci-download-reports.md)

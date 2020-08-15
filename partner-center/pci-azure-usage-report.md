@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9be334b02576927231b9cdde1114ce013ed1018b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 72676a714cf944bc9210de8e8f6edfa0d3037da9
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436720"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239069"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Azure disponibile dal dashboard di partner Center Insights
 
@@ -77,3 +77,6 @@ Il grafico a barre presenta la tendenza mensile dei ricavi/orari di utilizzo. Il
 ## <a name="next-steps"></a>Passaggi successivi
 
 - Per altri report, vedere [Partner Center Insights](partner-center-insights.md).
+
+>[!NOTE] 
+> È possibile scaricare i dati non elaborati che generano questo report dalla sezione download dei report nel dashboard di Insights. [Altre informazioni](pci-download-reports.md) 

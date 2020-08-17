@@ -4,16 +4,16 @@ description: Informazioni sui processi e le sequenze temporali importanti per la
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: how-to
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 23d2694cbd78de0d6db7669b33c793c535594978
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6a98d14bbbe614d0d57a3d1032b93b8cd43119e1
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545992"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303177"
 ---
 # <a name="manage-customer-associations"></a>Gestire le associazioni del cliente
 
@@ -55,8 +55,8 @@ Ecco gli Stati e i relativi significati:
 |  In fase di modifica  | L'attestazione di associazione CPOR è stata creata. Rimane in questo stato fino a quando non si carica il documento di prova dell'esecuzione e si invia l'attestazione per l'approvazione.   |
 |  Inviata  | Il partner ha inviato correttamente la richiesta di associazione CPOR, ma Microsoft non ha ancora avviato il processo di revisione.   |
 |  In fase di revisione  | Microsoft ha iniziato a convalidare la documentazione di PoE. Per ulteriori informazioni, è possibile contattare l'utente. Il contratto di lavoro per il processo di revisione è di cinque giorni lavorativi.  |
-|  Rifiutata  | Il PoE è insufficiente o non è stato risposto entro cinque giorni lavorativi per le linee guida di revisione di PoE e l'attestazione è stata negata.   |
-|  Approvata  | L'attestazione è stata approvata. Dopo l'approvazione di Microsoft, il cliente ha avuto la possibilità di negare l'associazione. Il cliente ha sette giorni per rifiutare l'approvazione a Microsoft. Anche se l'attestazione verrà visualizzata come approvata, verrà inviata per la valutazione degli incentivi solo dopo che il periodo di consenso è scaduto.   |
+|  Rifiutato  | Il PoE è insufficiente o non è stato risposto entro cinque giorni lavorativi per le linee guida di revisione di PoE e l'attestazione è stata negata.   |
+|  Approved  | L'attestazione è stata approvata. Dopo l'approvazione di Microsoft, il cliente ha avuto la possibilità di negare l'associazione. Il cliente ha sette giorni per rifiutare l'approvazione a Microsoft. Anche se l'attestazione verrà visualizzata come approvata, verrà inviata per la valutazione degli incentivi solo dopo che il periodo di consenso è scaduto.   |
 |  Azione partner obbligatoria  | Microsoft ha esaminato la richiesta di associazione CPOR PoE e necessita di altre informazioni relative al PoE per i prodotti e i carichi di lavoro richiesti. Ci sono cinque giorni lavorativi per fornire le informazioni richieste e inviare nuovamente l'attestazione o verrà rifiutato. Di seguito sono riportati i possibili motivi per cui potrebbero essere necessarie informazioni aggiuntive:
 
 - Mancano tutti i PoE: i PoE sono mancanti a causa del caricamento di un file non corretto o non pertinente alla richiesta di associazione CPOR

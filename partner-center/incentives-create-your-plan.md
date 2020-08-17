@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: Raccogliere e creare le informazioni necessarie per generare un piano di marketing efficace per il programma incentives.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e10bdf6d47213ec88f4b434fc4c815ce336d956
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 70740341211f5386882e7be05ce9cb921f0be8dd
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546022"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303247"
 ---
 # <a name="create-your-plan"></a>Creare il piano
 
@@ -76,8 +76,8 @@ Il piano è ora stato inviato. Microsoft invierà una notifica all'amministrator
    - In fase di revisione
    - Azione richiesta
    - In fase di modifica
-   - Approvata
-   - Rifiutata
+   - Approved
+   - Rifiutato
 
 ## <a name="plan-submission-timelines"></a>Tempistiche di invio del piano
 

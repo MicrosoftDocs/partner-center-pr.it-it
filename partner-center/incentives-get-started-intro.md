@@ -4,16 +4,16 @@ description: Trova le risorse per iniziare a usare gli incentivi. Sono inclusi i
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 1a7a20d788676bc31a500638b4b4dd2884d61a46
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88110596"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303167"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Queste risorse consentono di iniziare a usare gli incentivi
 
@@ -44,12 +44,13 @@ Prima di poter essere pagato per il lavoro in un programma incentives, è necess
 
 |  **Per eseguire questa operazione**  |  **Leggi**  |
 |--------------|-----------|
-| Scopri se il lavoro degli incentivi soddisfa i requisiti di idoneità per un programma incentive specifico | [Determinare l'idoneità al programma](incentives-determined-your-program-eligibility.md)  |
+| Informazioni sulla registrazione nel programma incentives | [Iscriversi al programma incentives](incentives-enroll.md)  |
+| Scopri se il lavoro degli incentivi soddisfa i requisiti di idoneità per un programma incentive specifico | [Determinare l'idoneità del programma](incentives-determined-your-program-eligibility.md)  |
 | Individuare e fornire i dati richiesti da Microsoft prima di poter ricevere i pagamenti per gli incentivi | [Creare e gestire il profilo di pagamento e il profilo fiscale nel Centro per i partner](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | Confermare di aver fornito tutti i dettagli necessari per ricevere i guadagni degli incentivi | [Confermare l'idoneità degli utili](incentives-confirm-your-earnings-eligibility.md)  |
-| Visualizza tutti i dati e i report per il programma incentives | [Visualizzare pagamenti e programmi per gli incentive](understand-incentive-payouts.md)  |
+| Visualizza tutti i dati e i report per il programma incentives | [Visualizzare i pagamenti e i programmi degli incentivi](understand-incentive-payouts.md)  |
 | Accedi alla pagina dei premi per gli incentivi, specifici del programma | [Accedere alla pagina sui pagamenti degli incentivi](incentives-unified-user-guide.md)  |
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-[Determinare l'idoneità al programma](incentives-determined-your-program-eligibility.md)
+[Determinare l'idoneità del programma](incentives-determined-your-program-eligibility.md)

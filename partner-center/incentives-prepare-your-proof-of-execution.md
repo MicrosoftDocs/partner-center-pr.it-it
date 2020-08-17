@@ -3,17 +3,17 @@ title: Preparare la prova di esecuzione
 description: Comprendere l'importanza della verifica dell'esecuzione (PoE), delle sequenze temporali, dello stato di visualizzazione e delle linee guida per l'invio.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: ce7f135dfc4a2a1e6af5396a6fe01c9d7377f493
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545942"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303297"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Preparare la prova di esecuzione
 
@@ -43,7 +43,7 @@ Ruoli appropriati:
 
    - **Nome**  Nome descrittivo per l'attestazione co-op.
    - **Data di scadenza**  Data di esecuzione. Questa data deve essere compresa tra la data di inizio della campagna e la data di fine della campagna.
-   - **Valore** di  Quantità di attestazione di co-op.
+   - **Valore**  di  Quantità di attestazione di co-op.
 
 7. Selezionare **Salva**.
 
@@ -78,5 +78,5 @@ Ruoli appropriati:
    - In fase di revisione (Microsoft completerà la revisione prima dell'ultimo giorno del mese dopo l'invio del PoE).
    - Azione richiesta
    - In fase di modifica
-   - Approvata
-   - Rifiutata
+   - Approved
+   - Rifiutato

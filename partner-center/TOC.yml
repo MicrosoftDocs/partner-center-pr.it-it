@@ -171,8 +171,6 @@
     - name: Panoramica sulle segnalazioni
       href: referrals.md
       items:
-        - name: Rispondere alle segnalazioni
-          href: responding-to-referrals.md
         - name: Gestire profilo di business
           href: create-a-marketing-profile.md
         - name: Gestire i lead
@@ -193,8 +191,12 @@
       items:
         - name: Introduzione agli incentivi
           items:
+            - name: Domande frequenti
+              href: incentives-faq.md
             - name: Introduzione
               href: incentives-get-started-intro.md
+            - name: Iscriversi al programma di incentivi
+              href: incentives-enroll.md
             - name: Determinare l'idoneità del programma
               href: incentives-determined-your-program-eligibility.md
             - name: Creare e gestire il profilo di pagamento e il profilo fiscale nel Centro per i partner

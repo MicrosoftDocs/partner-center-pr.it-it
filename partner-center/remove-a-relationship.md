@@ -9,14 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecc7d73734ab0d5312293f7ab8335bda76eea6e6
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: fb6af7896f659630bb6810868dc017e1968e4d19
+ms.sourcegitcommit: b74701f3806af2c5da04b21f6c1d1371b56509cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811341"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "88584680"
 ---
-# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Come rimuovere una relazione del rivenditore con un cliente nel centro per i partner
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Come rimuovere una relazione di rivenditore con un cliente nel Centro per i partner
 
 **Si applica a**
 
@@ -24,11 +24,11 @@ ms.locfileid: "87811341"
 
 Questo articolo descrive come rimuovere una relazione Reseller con un cliente nel centro per i partner.
 
-Partner diretti: se non si esegue più la transazione con un cliente, è possibile rimuovere la relazione nel centro per i partner.
+Partner diretti o provider indiretti: se non si esegue più la transazione con un cliente, è possibile rimuovere la relazione nel centro per i partner.
 
-La rimozione di una relazione comporta le seguenti conseguenze:
+La rimozione di una relazione comporta le conseguenze seguenti:
 
-- Rimuove il cliente dall'elenco dei clienti nel centro per i partner
+- Rimuove il cliente dall'elenco dei clienti nel Centro per i partner
 - Rimuove dall' [elenco dei contatti di supporto disponibili](assign-support-contacts.md) per il cliente
 - Rimuove i privilegi di amministratore della delega per il cliente
 - Impedisce di effettuare acquisti futuri per il cliente

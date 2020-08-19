@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 88af3967c8ab1d3eaccb4ea48551725c4f8b65e9
+ms.sourcegitcommit: e9790112451244bc8ee8026efc793b5d87439277
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365777"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88215573"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gestisci il tuo account del Centro per i partner: profili aziendali, informazioni bancarie, ruoli, autorizzazioni e altro ancora
 
@@ -118,6 +118,7 @@ Se sei iscritto a programmi come il programma MPN o Cloud Solution Provider (CSP
 |-----------------------|:-----------------------|
 |Verificare che il profilo della società sia aggiornato   |[Aggiornare il profilo di partner](update-your-partner-profile.md)|
 |Add new users (Aggiungi nuovi utenti)|[Creare account utente e assegnare autorizzazioni](create-user-accounts-and-set-permissions.md)|
+|Individuare lo stato della verifica|[Verificare le informazioni dell'account](verification-responses.md)|
 |A tutti gli utenti dell'azienda che devono lavorare nel Centro per i partner devono essere assegnati ruoli. Ogni ruolo dispone di autorizzazioni specifiche e attività disponibili.|[Aggiornare gli account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md)|
 |Esaminare le autorizzazioni associate a ogni ruolo|[Assegnare autorizzazioni e ruoli utente](permissions-overview.md)
 |Gestire le ubicazioni della società|[Gestire l'account partner: ubicazioni](manage-locations.md)
@@ -127,3 +128,4 @@ Se sei iscritto a programmi come il programma MPN o Cloud Solution Provider (CSP
 |Essere certo che la tua azienda sia sul mercato in modo che i clienti possono trovarla   |[Creare un profilo business](create-a-marketing-profile.md)|
 |Organizzare il catalogo in modo che i prodotti più importanti siano all'inizio dell'elenco   |[Personalizzare il catalogo](customize-the-catalog.md)|
 |Rimanere aggiornato sui prezzi e sulle offerte correnti   |[Prezzi e offerte](pricing-and-offers.md)|
+|API: Verificare l'ID MPN di un partner|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]

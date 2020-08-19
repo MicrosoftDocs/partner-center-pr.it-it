@@ -8,19 +8,101 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 08/03/2020
-ms.openlocfilehash: 10416b9054cc01669fd8a9cc0606f8ecdb565fd9
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.date: 08/14/2020
+ms.openlocfilehash: 6382e5e594dbe68c63cbbad1313948fedcf0fd89
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811101"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303057"
 ---
 # <a name="august-2020-announcements"></a>Annunci di agosto 2020
 
 Questa pagina illustra in dettaglio gli annunci per il Centro per i partner Microsoft di agosto 2020.
 
 Annunci 2020: [Gennaio](2020-january.md) | [Febbraio](2020-february.md) | [Marzo](2020-march.md) | [Aprile](2020-april.md) | [Maggio](2020-may.md) | [Giugno](2020-june.md) | [Luglio](2020-july.md) | Agosto
+
+________________
+
+## <a name="updates-to-the-microsoft-365-voice-promotion"></a><a name="7"></a>Aggiornamenti alla promozione Microsoft 365 Voice 
+
+### <a name="categories"></a>Categorie
+
+- Data: 14-08-2020
+- Offerte/mercati
+
+### <a name="details"></a>Dettagli
+
+Sono stati apportati alcuni aggiornamenti alla promozione Microsoft 365 Business Voice annunciata in precedenza. È possibile ottenere informazioni dettagliate visitando la [raccolta di risorse del Centro per i partner](https://partner.microsoft.com/resources/detail/announcement-microsoft-365-business-voice-promotion-deactivation-pdf). 
+
+________________
+
+## <a name="sdk-release-on-net-standard-v1161"></a><a name="6"></a>Versione dell'SDK in .NET Standard v1.16.1
+
+### <a name="categories"></a>Categorie
+
+- Data: 12-08-2020
+- Funzionalità
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner di fatturazione diretta e provider indiretti che partecipano al programma CSP e usano .NET SDK del Centro per i partner. 
+
+### <a name="summary"></a>Riepilogo
+
+Dal 21 luglio 2020, i partner possono iniziare a scaricare la versione dell'**SDK .NET Standard del Centro per i partner Microsoft** (.NET SDK v1.16.1), oltre agli **esempi pubblici aggiornati di GitHub dell'SDK per Centro per i partner**.
+
+### <a name="details"></a>Dettagli
+
+I partner di fatturazione diretta e i provider indiretti che partecipano al programma CSP hanno i requisiti necessari per scaricare la versione più recente dell'SDK .NET Standard. Con queste modifiche, l'SDK diventerà compatibile con l'applicazione esistente che usa .NET Framework 4.6.1 e versioni successive. .NET Standard supporterà .NET Core 2.0 e versioni successive.
+
+C'è stata un'enorme richiesta di SDK in .NET Standard da parte dei partner. La versione corrente dell'SDK impone ai partner di usare le applicazioni scritte in ASP.NET Framework, un sistema lento e costoso rispetto alle applicazioni .NET Core. Di conseguenza, la migrazione a .NET Standard può aiutare a risolvere i problemi relativi alle prestazioni o alla compatibilità di .NET Core.
+ 
+**Caratteristiche salienti**
+- Microsoft non ha rilasciato altre versioni di .NET Framework 4.8, che è l'ultima della serie.
+- Limita lo sviluppo futuro in quanto quasi tutte le librerie vengono rilasciate per .NET Core o .NET Standard e potrebbero non supportare la versione corrente del framework.
+- .NET Core, essendo un framework leggero, è facilmente utilizzabile con i contenitori.
+- Il runtime server ad alte prestazioni per Windows Server e Linux rende .NET Core un framework Web con prestazioni elevate.
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- Scaricare la versione più recente di [.NET SDK v1.16.1](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.1)
+- Versione: .NET SDK v1.16.1
+- Codice di esempio: [Codice di esempio](https://github.com/microsoft/Partner-Center-DotNet-Samples)
+- Disponibilità generale: 12/8/2020
+- Nessun'altra nuova modifica alle API prevista nella versione corrente
+
+________________
+
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-coming-soon"></a><a name="5"></a>L'acquisto self-service per Microsoft Project e Microsoft Visio sarà presto disponibile
+### <a name="categories"></a>Categorie
+
+- Data: 12-08-2020
+- Funzionalità
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+I partner che vendono servizi online a clienti commerciali
+
+### <a name="details"></a>Dettagli
+
+[Dallo scorso anno](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) Microsoft consente a singoli utenti e team di acquistare direttamente i servizi selezionati. Le funzionalità di acquisto self-service saranno presto disponibili per i prodotti Microsoft Project e Microsoft Visio. Dal 15 settembre 2020, i singoli utenti in tutto il mondo potranno acquistare sottoscrizioni tramite self-service per i prodotti seguenti:
+
+- [Visio Plan 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) e [Visio Plan 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
+- [Project Plan 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) e [Project Plan 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
+
+**Nota:** Le funzionalità di acquisto self-service non sono disponibili in India o per i clienti idonei per offerte per enti pubblici o istituti di formazione.
+
+#### <a name="partner-benefits"></a>Vantaggi per i partner
+
+Sarà possibile offrire servizi a singoli utenti e team senza dover passare attraverso il processo di approvvigionamento IT centralizzato per ottenere le licenze necessarie. I servizi possono estendersi a Project e Visio, in base agli scenari di integrazione con Microsoft 365 e Power Platform. 
+
+È possibile scoprire di più sulle opportunità dei partner con soluzioni Visio e Power Platform nella sessione video Microsoft Inspire [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform) (Ricostruire e reimmaginare le aziende con Microsoft Visio e Power Platform). Per ulteriori informazioni, visitare la [Guida dell'amministratore self-service](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide).
+
+#### <a name="additional-resources"></a>Risorse aggiuntive
+
+- Esaminare tutte le risorse relative all'idoneità disponibili nella raccolta di risorse per l'idoneità operativa: [Funzionalità di acquisto self-service per i clienti](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/).
+- Prima di acquistare, i clienti possono provare le versioni di valutazione di Visio e Project ora disponibili per [Visio Plan 1 e Visio Plan 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) e [Project Plan 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
 
 ________________
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: dd12838ec0cdbb697aa64b8b398d1a770d2a4517
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 0ed5d5a0037d9fe11e77c56eca784e9aad93c5a4
+ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944008"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88220228"
 ---
 # <a name="january-2020-announcements"></a>Annunci di gennaio 2020
 
@@ -110,7 +110,7 @@ Per qualsiasi altra domanda su queste offerte, contattare il rappresentante del 
 
 _________________
 
-## <a name="meeting-room-and-meetings-add-on-for-microsoft-365-f1-are-now-available-in-the-government-community-cloud-gcc"></a><a id="5"/></a>I componenti aggiuntivi Sala riunioni e Riunioni per Microsoft 365 F1 sono ora disponibili nel Government Community Cloud (GCC)
+## <a name="available-now-power-apps-and-power-automate-self-service-purchase-for-us-commercial-customers"></a><a id="5"/></a>Disponibile ora l'acquisto self-service di Power Apps e Power Automate per clienti commerciali degli Stati Uniti
 
 ### <a name="categories"></a>Categorie
 

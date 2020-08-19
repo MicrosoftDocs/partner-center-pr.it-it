@@ -1,7 +1,7 @@
 ---
 title: Visualizza i dettagli relativi a incentivi e programmi
 ms.topic: article
-ms.date: 08/03/2020
+ms.date: 08/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Utilizzare queste pagine per visualizzare, gestire ed esportare i dettagli relativi a pagamenti e guadagni, nonché lo stato del programma e la cronologia completa delle transazioni.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 2829931ca80cea33a48e1658f97f2a1fe1a03173
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
+ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545952"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "88560219"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Visualizza, Gestisci ed Esporta i dettagli del programma incentives
 
@@ -82,7 +82,7 @@ Per accedere alla **panoramica degli incentivi**:
 | Non disponibile  | Il programma di incentivazione specifico non è più disponibile nel sistema di incentivi. |
 | Enrolled  | Tutte le informazioni fiscali e bancarie sono state convalidate. Non è richiesta alcuna ulteriore azione di registrazione da parte del partner. |
 | Enrolling  | L'utente non è un amministratore di incentivi e la registrazione è nell' **azione necessaria** o per la **convalida** degli Stati di registrazione.|
-| Inattivo/non idoneo | Il programma incentive potrebbe non essere aperto per la registrazione in questo momento o il partner non soddisfa l'idoneità corrente per la registrazione o la nuova registrazione. <br> Se lo stato non è **idoneo**, il partner non soddisfa i requisiti di idoneità correnti per il programma; facendo clic sul collegamento **vedere i requisiti di idoneità** sotto lo stato di registrazione vengono visualizzati i requisiti per l'idoneità e quali di questi requisiti sono stati soddisfatti. |
+| Inattivo/non idoneo | Il programma incentive potrebbe non essere aperto per la registrazione in questo momento o il partner non soddisfa l'idoneità corrente per la registrazione o la nuova registrazione. <br> Se lo stato non è **idoneo**, il partner non soddisfa i requisiti di idoneità correnti per il programma; Se si seleziona il collegamento **vedere i requisiti di idoneità** sotto lo stato di registrazione, vengono visualizzati i requisiti per l'idoneità e quali di questi requisiti sono stati soddisfatti. |
 | Invitato  | Un nuovo invito alla registrazione del programma incentive è stato inviato al partner, ma il partner non ha ancora avviato il processo di registrazione. La colonna adiacente, **azioni richieste** Mostra i passaggi successivi ed eventuali collegamenti correlati.  |
 | Convalida della registrazione  | Il partner ha già completato o aggiornato le informazioni fiscali e bancarie per una registrazione nuova o esistente ed è in attesa della convalida delle informazioni da parte di Microsoft. Durante il processo di convalida, è possibile che venga visualizzata la **convalida della registrazione** per un massimo di 48 ore.  |
 
@@ -105,6 +105,36 @@ In questa pagina vengono visualizzati tutti gli utili, con informazioni quali da
 Per visualizzare altri dettagli sugli utili, selezionare la freccia rivolta verso il basso sul lato destro della pagina. In questo modo, vengono visualizzati la leva, l'importo dei ricavi, il prodotto e il cliente. Se per qualche motivo uno di questi dati non è disponibile, ma è necessario accedervi, contattare il supporto tecnico. Se il guadagno è il risultato di una modifica e non di una transazione, i campi prodotto e cliente non verranno visualizzati.
 
 Per esportare i dati della transazione in questa pagina, selezionare **Esporta** , quindi seguire le istruzioni nella pagina Esporta dati. Nei file esportati dalla pagina della cronologia transazioni sono visualizzati i dati nella valuta di transazione, gli utili sia nella valuta di transazione sia in dollari statunitensi e il valore del pagamento in base alla valuta di pagamento.
+
+### <a name="estimated-payment-month"></a>Mese di pagamento stimato
+
+La pagina Cronologia transazioni include ora una tabella che Mostra gli importi di pagamento stimati per i mesi successivi. È inoltre possibile visualizzare e scaricare queste informazioni nelle esportazioni della cronologia delle transazioni e dei report riepilogativi. Queste informazioni rendono più semplice la riconciliazione e le proiezioni di pagamento.
+
+Il mese di pagamento stimato viene calcolato in base alle regole e alle sequenze temporali di configurazione del programma e viene elaborato nel ciclo di pagamento successivo o imminente.
+
+Il mese di pagamento stimato è attualmente disponibile per tutti i tipi di guadagno eccetto co-op, che verrà visualizzato come **non applicabile**. Per i guadagni prima del 1 ° luglio 2020, il mese di pagamento stimato verrà visualizzato come **non disponibile**.
+
+#### <a name="estimated-payment-month-example"></a>Esempio di mese di pagamento stimato
+
+| Month | Amount |
+| ------ | :-----------: |
+|  Sep-2020 |  $7.273,99   |
+|  Ottobre-2020 | $8.692,30  |
+|  Nov-2020 | $107,89  |
+
+L'importo stimato può variare rispetto all'importo effettivo per diversi motivi:
+
+- Acquisizione della ripubblicazione: se i guadagni vengono ricalcolati, la quantità effettiva sarà diversa
+- Rettifiche: l'importo effettivo varia in base alle rettifiche che si sono verificate o sono state inviate.
+- Modifica delle regole: una modifica nelle regole può riflettere il ricalcolo della quantità effettiva a pagamento
+- Pagabile: se si verifica un errore di pagamento, l'importo effettivo potrebbe essere diverso
+
+Si noti che il pagamento viene rilasciato nel mese previsto solo se vengono soddisfatte le regole di idoneità per il pagamento e la soglia del programma. Queste regole includono ma non sono limitate all'elenco seguente:
+
+- Il profilo fiscale deve essere aggiornato
+- È necessario che i guadagni soddisfino o superino la soglia minima di guadagno definita nella guida del programma.
+- Pagamento in attesa: se si seleziona l'opzione "Mantieni il pagamento" nella pagina Assegnazione profili.
+- Lo strumento di pagamento non è disponibile: il pagamento o/e il profilo fiscale non sono completati.
 
 ## <a name="payment-status"></a>Stato dei pagamenti
 
@@ -178,6 +208,7 @@ Questa opzione consente di scaricare ogni elemento della riga di acquisizione vi
 |earningId   |Identificatore univoco per ogni reddito   |
 |earningRate   |Percentuale degli incentivi applicata all'importo della transazione per generare un reddito   |
 |earningType   |Indica se si tratta di una tariffa, una riduzione, una co-op, una vendita e così via.   |
+|Mese di pagamento stimato   |Mese di pagamento previsto con importo stimato, a condizione che siano soddisfatte le regole di idoneità minima per la soglia e i pagamenti   |
 |exchangeRateDate   |Data del tasso di cambio usata per calcolare il valore in dollari statunitensi di EarningAmount   |
 |lastPaymentCurrency   |La valuta in cui è stato ricevuto il pagamento più recente, in tutte le MPNs a cui il partner attualmente connesso ha accesso. Se non viene ricevuto alcun pagamento, la valuta dell'ultimo pagamento sarà di dollari statunitensi.   |
 |lever   |Indica la regola di business per il reddito   |
@@ -220,7 +251,7 @@ Oltre alla tabella precedente, questi campi relativi alla cronologia delle trans
 ## <a name="transaction-summary-report"></a>Report Riepilogo transazioni
 
 >[!NOTE]
->Il report di riepilogo delle transazioni non visualizzerà tutti i programmi o i guadagni. Si tratta di un riepilogo che è incentrato solo sulle leve aggregate. Per visualizzare le singole transazioni, scaricare il [report Cronologia transazioni](#transaction-history-page).
+>Il report di riepilogo delle transazioni non visualizzerà tutti i programmi o i guadagni. Si tratta di un riepilogo che è incentrato solo sulle leve aggregate. 
 
 Il report Riepilogo transazioni fornisce i dettagli della transazione a livello di riepilogo, inclusi i nomi dei clienti e gli ID sottoscrizione, per le leve di guadagno aggregate. Il report comporta ogni ID di guadagno associato a più transazioni. Per ogni cliente/sottoscrizione vengono ripetuti i dettagli relativi all'importo totale e ai guadagni per tale ID di guadagno. Questo perché gli incentivi per le leve di aggregazione vengono ottenuti collettivamente, non per sottoscrizione.
 
@@ -250,7 +281,8 @@ Il report Riepilogo transazioni fornisce i dettagli della transazione a livello 
 |  earningAmount | Accumulo di quantità nella valuta di transazione originale  |
 |  earningAmountUSD | Guadagnare importo in USD  |
 |  earningDate | Data del reddito  |
-|  earningExchangeRate | Tasso di cambio usato per visualizzare l'importo in dollari statunitensi corrispondente  |
+|  earningExchangeRate | Tasso di cambio usato per visualizzare l'importo corrispondente in dollari statunitensi  |
+|Mese di pagamento stimato   |Mese di pagamento previsto con importo stimato, a condizione che siano soddisfatte le regole di idoneità minima per la soglia e i pagamenti   |
 |  exchangeRateDate | Data del tasso di cambio usata per calcolare il valore in dollari statunitensi di EarningAmount  |
 |  transactionMonth |  Mese transazione   |
 |  transactionCurrency | Valuta in cui si è verificata la transazione del cliente originale  |

@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6bf9399f23153f25f319e399c9c327515cd9ed51
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: ecdfcbd4801bee34be298030016d7366b12d7db3
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389516"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846961"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Aggiungere e gestire più tenant nell'account del centro per i partner
 
@@ -26,22 +26,38 @@ ms.locfileid: "87389516"
 
 - Amministratore globale
 
-Esistono molti motivi per cui potrebbe essere necessario gestire più tenant Azure AD nell'account del centro per i partner. Ad esempio, l'azienda può acquistare un'altra società e si vuole che i dipendenti della nuova azienda possano usare il centro per i partner. Tuttavia, si vuole che le due società rimangano separate. In questo caso, è necessario associare il tenant di Azure AD della nuova società con l'account globale del partner (PNG). Questa associazione consente agli utenti di entrambe le aziende di lavorare nel centro per i partner.
+Questa funzionalità consente all'utente di gestire più tenant per la propria azienda e di consolidarli nell'account del Centro per i partner. Esistono molti motivi per cui potrebbe essere necessario gestire più tenant Azure AD nell'account del centro per i partner. Ad esempio:
+
+- L'azienda può acquistare un'altra società e si vuole che i dipendenti della nuova azienda possano usare il centro per i partner. Tuttavia, si vuole che le due società rimangano separate. In questo caso, è necessario associare il tenant di Azure AD della nuova società con l'account globale del partner (PGA). Questa associazione consente agli utenti di entrambe le aziende di lavorare nel centro per i partner.
+
+- Se si dispone di più tenant per l'esecuzione dell'attività, ad esempio contoso.com, contoso.uk, contoso.in, è possibile usare il multi-tenant per collegarli con lo stesso account del computer.
+
+- Per le fusioni e le acquisizioni è necessario usare più di un tenant (ad esempio, se contoso acquisisce Fabrikam, è necessario poter usare sia Constoso.com che Fabrikam.com rispettivi tenant).
+
+- È necessario che gli utenti di uno dei tenant siano in grado di:
+    1.  Accedi al centro per i partner per corsi di formazione, download digitali, associazione MCP
+    2.  Sono assegnati ruoli del centro per i partner, ad esempio MPN admin, incentives admin e così via.
+
 
 ## <a name="add-another-azure-ad-tenant-to-your-account"></a>Aggiungere un altro tenant Azure AD all'account
 
 1. Come amministratore globale, accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
 1. Nell'icona **Impostazioni** selezionare **Impostazioni account** , quindi selezionare **tenant**.
  
-:::image type="content" source="images/merge-accounts/multitenant.png" alt-text="associa tenant"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="associa tenant"::: 
 
 3. Selezionare **associa un altro tenant di Active Directory** e indicare il tenant che si vuole associare.
 
 1. Come amministratore globale, accedere al tenant che si vuole associare e confermare l'associazione. 
 
-:::image type="content" source="images/merge-accounts/multitenant2.png" alt-text="conferma associazione tenant"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="conferma associazione tenant"::: 
 
-5. Dopo la conferma, viene visualizzato un avviso relativo a **tutti i set** .  Selezionare **Torna a gestione tenant per** visualizzare l'elenco dei tenant appena aggiunti.
+5. Dopo la conferma, viene visualizzato un avviso relativo a **tutti i set** .  Selezionare **Torna a gestione tenant per** visualizzare l'elenco dei tenant appena aggiunti. 
+ 
+
+>[!NOTE]
+>Non è possibile associare un tenant a un account se è già associato a un altro account del centro per i partner.
+
  
 ## <a name="next-steps"></a>Passaggi successivi
 

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
+ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811321"
+ms.lasthandoff: 08/24/2020
+ms.locfileid: "88781833"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Segnala un problema del servizio per conto di un cliente, incluse le attività e le modalità di esecuzione
 
@@ -23,7 +23,11 @@ ms.locfileid: "87811321"
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
-Se il cliente riscontra un problema del servizio che non è possibile risolvere e soddisfa i criteri descritti in [inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md), è possibile archiviare un ticket di supporto. Questo processo è utile anche per inoltrare problemi o controversie correlati alla fatturazione e segnalare possibili frodi. 
+**Ruoli appropriati**
+
+- Provider indiretto
+
+Se il cliente riscontra un problema del servizio che non è possibile risolvere e soddisfa i criteri descritti in [inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md), il provider indiretto può archiviare un ticket di supporto. Questo processo è utile anche per inoltrare problemi o controversie correlati alla fatturazione e segnalare possibili frodi.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Inviare una richiesta di servizio per un cliente
 
@@ -41,7 +45,7 @@ Se il cliente riscontra un problema del servizio che non è possibile risolvere 
 > [!IMPORTANT]
 > Quando devi creare una richiesta di servizio per il cliente in Azure, tieni presente quanto segue:
 >
->- Per poter creare richieste di servizio per il cliente in Azure, il provider indiretto deve concederti l'accesso all'account Azure del cliente. Questa operazione è diversa dall'amministrazione per conto dei clienti per Office 365.
+>- Per consentire al rivenditore indiretto di creare richieste di servizio per il cliente in Azure, il provider indiretto deve concedere l'accesso all'account Azure del cliente. Questa operazione è diversa dall'amministrazione per conto dei clienti per Office 365.
 >
 >- Sebbene l'amministratore di supporto tecnico nel Centro per i partner non possa creare richieste di servizio nel portale dei servizi di Azure, può creare un gruppo di supporto nel portale e assegnare a tale gruppo le autorizzazioni per registrare le richieste di supporto.
 

@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
-ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
+ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
+ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "88560219"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88799826"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Visualizza, Gestisci ed Esporta i dettagli del programma incentives
 
@@ -198,6 +198,14 @@ Questa opzione consente di scaricare ogni elemento della riga di acquisizione vi
 
 |**Nome colonna**   |**Descrizione**   |
 |------------------|:-------------------------------------|
+| Conformità AR | Regolazione che riduce i guadagni quando le fatture Microsoft non vengono pagate nel tempo dal partner |
+| Rollover co-op | Regolazione che trasferisce i guadagni della co-op a un altro periodo o converte i guadagni della co-op per lo sconto |
+| Regolazione Ops Microsoft calcolo non corretto | Regolazione che corregge i calcoli errati |
+| Regolazione Ops Microsoft registrazione non corretta | Regolazione degli errati calcoli relativi alla registrazione |
+| Eccezione dei criteri | Regolazione che sostituisce una regola di programma  |
+| Regolazione Ops | Regolazione che corregge gli errori di calcolo del sistema Microsoft |
+| Guadagni del periodo precedente | Rettifica per i guadagni al di fuori del periodo di guadagno corrente |
+| Mapping partner (sottoscrizione) MCI/CSP | Regolazione che corregge il errato allineamento della sottoscrizione |
 |customerId   |Identificatore del cliente   |
 |customerName   |Nome del cliente della transazione   |
 |earningAmount   |Accumulo di quantità nella valuta di transazione originale   |
@@ -267,7 +275,7 @@ Il report Riepilogo transazioni fornisce i dettagli della transazione a livello 
 >[!NOTE]
 >Il report di riepilogo delle transazioni non includerà le informazioni sul cliente e sulla sottoscrizione per le sottoscrizioni più recenti di 60 giorni, oppure se i ricavi a consumo sono inferiori a un centesimo.
 
-|Nome colonna |Descrizione |
+|Nome della colonna |Descrizione |
 |------ |:-----------|
 |  earningId | Identificatore univoco per ogni reddito  |
 |  participantId | Identità principale del partner che realizza un reddito nell'ambito del programma  |

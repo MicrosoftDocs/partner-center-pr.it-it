@@ -9,12 +9,12 @@ ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: f71df7df213b2c6410fab37ce323825511a18b6d
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527737"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846931"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Creare account utente e assegnare ruoli e autorizzazioni
 
@@ -45,14 +45,28 @@ Crea gli account utente per i dipendenti che hanno bisogno di accedere al Centro
 
 L'utente dovrà accedere al Centro per i partner con il nome utente e la password temporanea. Quando l'utente accede al Centro per i partner per la prima volta, gli viene chiesto di modificare la password. 
 
+## <a name="find-the-role-youve-been-assigned"></a>Trovare il ruolo assegnato all'utente
 
-### <a name="find-your-global-admin"></a>Trovare l'amministratore globale
+In mancanza di comunicazioni da parte dell'amministratore globale, è possibile individuare il ruolo ricoperto nel Centro per i partner eseguendo le operazioni seguenti:
+
+1. Accedere al Centro per i partner [dashboard]https://partner.microsoft.com/dashboard/home).
+
+1. Selezionare l'icona **Impostazioni account** e quindi **Il mio profilo**.
+ 
+1. Selezionare la scheda **Ruoli e autorizzazioni**. Vengono visualizzati i ruoli e le autorizzazioni.
+ 
+
+>[!Note]
+>Se al momento dell'accesso non viene visualizzato un programma, significa in genere che non si hanno le autorizzazioni corrette per usare tale programma. Ad esempio, se al momento dell'accesso non viene visualizzata la pagina Incentivi, non si hanno le autorizzazioni necessarie per il programma Incentivi. L'amministratore globale può concedere le autorizzazioni necessarie.
+
+
+## <a name="find-your-global-admin"></a>Trovare l'amministratore globale
 
 A volte può essere necessario modificare il ruolo di un utente oppure un nuovo utente può desiderare un'assegnazione di ruolo specifica.  
-Per trovare un amministratore globale che può apportare modifiche ai ruoli o assegnare ruoli a un nuovo utente, dall'**icona Impostazioni** in alto a destra nel Centro per i partner seleziona **Gestione utenti** e filtra in base all'amministratore globale. 
+Per trovare un amministratore globale che possa apportare modifiche ai ruoli o assegnare ruoli a un nuovo utente, fare clic sull'icona **Impostazioni account** in alto a destra del Centro per i partner, selezionare **Gestione utenti** e filtrare in base all'amministratore globale. In alternativa, è possibile passare a **Il mio profilo**, selezionare **Ruoli e autorizzazioni** e visualizzare l'elenco dei vari amministratori in grado di elevare le autorizzazioni. 
 
 
-### <a name="new-global-admin"></a>Nuovo amministratore globale
+## <a name="new-global-admin"></a>Nuovo amministratore globale
 
 Se l'amministratore globale lascia l'organizzazione ed è necessario che un altro utente ricopra questo ruolo, puoi inviare un ticket al team di Azure o di Office 365. Per informazioni su come eseguire questa operazione, seleziona una delle opzioni riportate di seguito.
 

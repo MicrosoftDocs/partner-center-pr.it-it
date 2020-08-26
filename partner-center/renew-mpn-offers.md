@@ -9,20 +9,20 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998391"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846921"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Rinnovare le offerte MPN per Microsoft Action Pack e competenze durante il periodo di rinnovo
 
-**Si applica a**
+### <a name="applies-to"></a>Si applica a
 
 - Centro per i partner
 
-Microsoft Action Pack e le competenze sono offerte per i membri di Microsoft Partner Network che richiedono il rinnovo annuale. Il tuo periodo di rinnovo inizia in corrispondenza dell'anniversario della data di acquisto più un giorno. Ad esempio, se hai acquistato Microsoft Action Pack il 1° settembre 2018, il periodo di rinnovo inizia il 2 settembre 2019. Puoi rinnovare Microsoft Action Pack e le competenze nel Centro per i partner. In Offerte di iscrizione troverai le offerte acquistate e potrai individuare la data di anniversario per le tue offerte nella colonna Renewal start date (Data di inizio rinnovo). L'iscrizione a Microsoft Partner Network non prevede un rinnovo annuale. 
+Microsoft Action Pack e le competenze Silver e Gold sono offerte per i membri di Microsoft Partner Network che devono essere rinnovate annualmente. Il tuo periodo di rinnovo inizia in corrispondenza dell'anniversario della data di acquisto più un giorno. Ad esempio, se hai acquistato Microsoft Action Pack il 1° settembre 2018, il periodo di rinnovo inizia il 2 settembre 2019. Puoi rinnovare Microsoft Action Pack e le competenze nel Centro per i partner. In Offerte di iscrizione troverai le offerte acquistate e potrai individuare la data di anniversario per le tue offerte nella colonna Renewal start date (Data di inizio rinnovo). L'iscrizione a Microsoft Partner Network non prevede un rinnovo annuale. 
 
 Per altre informazioni, seleziona il collegamento appropriato di seguito: 
 
@@ -48,14 +48,15 @@ Per consentire un supporto ottimale dei clienti:
 
 - **Se il periodo di rinnovo è già trascorso**, è possibile riattivare la competenza e ottenere nuovamente l'accesso alle risorse e ai vantaggi pagando i relativi corrispettivi nella pagina Offerte di iscrizione. Questa estensione è disponibile fino al 31 dicembre 2020.
 
-### <a name="how-to-view-this-information"></a>Come visualizzare queste informazioni
+### <a name="how-to-view-competency-renewal-information"></a>Come visualizzare le informazioni sul rinnovo delle competenze
 
 1. Dal menu del Centro per i partner nel tuo dashboard seleziona **Competenze**.  
 
 2. Nell'elenco delle competenze disponibili, le tue competenze dovrebbero essere contrassegnate come complete.  
 
-3. Seleziona il nome della competenza. Noterai che è stata fornita un'esenzione per aver soddisfatto i requisiti fino alla data di rinnovo successiva.   
+3. Selezionare una delle competenze. Noterai che è stata fornita un'esenzione per aver soddisfatto i requisiti fino alla data di rinnovo successiva.
 
 4. Per sfruttare i vantaggi di questa offerta, passa a **Offerte di iscrizione**. Per completare il processo, può essere necessario pagare i corrispettivi della competenza, a seconda dello stato di acquisto o rinnovo della competenza. 
 
 Per sfruttare i vantaggi dell'estensione, devi spostare l'abbonamento da Partner Membership Center (PMC) al Centro per i partner per rinnovare le tue competenze e pagare i corrispettivi. Se l'abbonamento non è stato spostato, [leggi qui](prepare-pmc-pc-migration.md) ed [esegui la transizione](https://partners.microsoft.com/partnerprogram/Welcome.aspx) oggi.  
+

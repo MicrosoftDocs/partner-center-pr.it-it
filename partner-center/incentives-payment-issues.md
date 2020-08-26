@@ -1,31 +1,32 @@
 ---
 title: Risoluzione dei problemi relativi a pagamenti e utili
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/25/2020
 description: Informazioni su come risolvere i problemi, ad esempio guadagni mancanti o non corretti, problemi di idoneità e come risolvere i guadagni degli incentivi.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cb278d51235ef7c306691e2926925b0a2396e7e
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
+ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303157"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88893471"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Risoluzione dei problemi relativi a pagamenti e utili
 
-Si applica a:
+**Si applica a**:
 
 - Centro per i partner
 
-Questo articolo consente di risolvere eventuali problemi relativi a guadagni o pagamenti nel programma per gli incentivi. Gli argomenti trattati includono la tempistica dei pagamenti, il controllo dell'idoneità dei guadagni e l'importanza di configurare correttamente i profili di pagamento e fiscali.
-
-Ruoli appropriati:
+**Ruoli appropriati**:
 
 - Amministratore degli incentivi
+
+
+Questo articolo consente di risolvere eventuali problemi relativi a guadagni o pagamenti nel programma per gli incentivi. Gli argomenti trattati includono la tempistica dei pagamenti, il controllo dell'idoneità dei guadagni e l'importanza di configurare correttamente i profili di pagamento e fiscali.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Chi può creare o aggiornare i profili di pagamento e fiscali per la mia organizzazione?
 
@@ -37,7 +38,7 @@ La convalida può richiedere fino a 48 ore. In questo periodo di tempo lo stato 
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>In che modo ho la conferma di aver completato correttamente il profilo di pagamento e fiscale?
 
-Lo stato della registrazione viene visualizzato nella pagina di panoramica. Al termine della creazione dei profili, lo stato verrà **convalidato**per la registrazione. Dopo aver convalidato le informazioni, lo stato diventa **registrato**. Ciò indica che il profilo di pagamento e fiscale e la registrazione sono stati completati correttamente.
+Lo stato della registrazione viene visualizzato nella pagina di panoramica. Al termine della creazione dei profili, lo stato verrà **convalidato**per la registrazione. Dopo aver convalidato le informazioni, lo stato diventa **registrato**. Questo stato indica che il pagamento e il profilo fiscale e la registrazione sono stati completati correttamente.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>Perché è necessario aggiornare il profilo fiscale per usarlo con un nuovo programma Incentivi?
 
@@ -96,7 +97,32 @@ Eventuali guadagni mancanti o non corretti potrebbero essere causati da uno dei 
 
 - **È possibile che i requisiti non siano stati soddisfatti.**  Verificare che siano state soddisfatte le regole di [idoneità](#my-payment-is-missing-or-incorrect) utente e idoneità per l'acquisizione di ricavi per l'incentivo desiderato.
 
-- **Potrebbe essere presente una discrepanza.**  Se si soddisfano le regole di idoneità per i partner e idoneità per l'acquisizione di ricavi, ma vengono visualizzati ancora guadagni non corretti, vedere [Come identificare la discrepanza di utili e pagamenti](https://support.microsoft.com/help/4534675) per la procedura necessaria per accedere a tutti i guadagni e alle rispettive transazioni.
+- **Potrebbe essere presente una discrepanza.**  Se si rispettano le regole di idoneità per i partner e i ricavi idonei e continuano a essere visualizzati i guadagni non corretti, le informazioni seguenti possono aiutare a recuperare i dati
+ 
+I guadagni possono essere visualizzati attraverso la **cronologia delle transazioni** o i **pagamenti** nel centro per i partner facendo clic sull'icona del **payout** sulla barra di spostamento del centro per i partner. 
+
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="Informazioni sulla transazione":::
+
+Gli importi mensili che si ottengono nella visualizzazione della cronologia delle transazioni potrebbero non allinearsi con l'importo di pagamento ricevuto per un mese specifico. Questa condizione è dovuta a ricalcoli e rettifiche per i periodi di guadagno precedenti che vengono applicati ai pagamenti futuri.
+
+Ad esempio, un adattamento per i guadagni di gennaio 2019 elaborati nel settembre 2019 non verrà riflesso nell'importo dei guadagni per il 2019 settembre; Tuttavia, quando viene ricevuto il pagamento per il 2019 settembre, sarà inclusa la rettifica per il 2019 gennaio che è stata applicata a settembre.
+In questo scenario, è necessario scaricare i dettagli della transazione per ottenere una visualizzazione completa di tutti i guadagni inclusi nel pagamento.  Inoltre, è possibile passare alla visualizzazione pagamenti per scaricare le transazioni per ogni pagamento.
+
+### <a name="transaction-history"></a>Cronologia delle transazioni
+
+Questa visualizzazione consente di visualizzare le tendenze relative a guadagni e pagamenti in base al mese, ai guadagni in base allo stato e ai dettagli della transazione insieme allo stato di pagamento per ogni transazione. I dati sono visibili solo per i programmi e gli ID MPN a cui è stato assegnato un ruolo di amministratore o utente incentive.
+
+### <a name="payments"></a>Pagamenti
+
+Questa visualizzazione consente di visualizzare i pagamenti per tutti i programmi e gli ID MPN. I dati sono visibili solo per i programmi e gli ID MPN a cui è stato assegnato un ruolo di amministratore o utente incentive. Da questa vista è possibile scaricare la rimessa o visualizzare i dettagli delle transazioni per pagamento. 
+
+Scorrere verso il basso fino alla sezione **List of** Payments per visualizzare le informazioni di pagamento in base alla riga che include i guadagni e gli importi di pagamento nella valuta locale. Fare clic su **rimessa** per il pagamento per scaricare una lettera di rimessa. Fare clic su **Visualizza** per aprire una nuova scheda e visualizzare i dettagli a livello di transazione per un pagamento specifico. 
+
+Per esportare i dettagli della transazione in Excel, fare clic su **Avvia download** , quindi fare clic su **Esporta dati**. Nota: tutti i filtri selezionati verranno applicati ai dati esportati. Una volta che lo stato è stato modificato in completato, è possibile fare clic su Scarica e seguire le istruzioni per esportare il report dettagliato sulle transazioni. Aggiornare la pagina se lo stato non viene aggiornato entro cinque minuti. 
+
+### <a name="missing-or-incorrect-earnings-and-payments"></a>Guadagni e pagamenti mancanti o non corretti
+
+Se non si riesce a individuare i dettagli relativi a transazioni o pagamenti, controllare se sono stati applicati i filtri corretti. Alcuni nomi di programma sono stati modificati, che possono richiedere selezioni multiple, ad esempio CSP 1T Direct partner, CSP Direct Bill partner.
 
 Se queste azioni non sono utili e non è ancora possibile trovare i guadagni o si ritiene che i guadagni non siano corretti, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
@@ -110,8 +136,6 @@ In caso di discrepanza negli utili, completare la procedura seguente:
 
 3. **Verificare di aver soddisfatto i requisiti.**  Verificare che siano state soddisfatte le regole di [idoneità](#my-payment-is-missing-or-incorrect) utente e idoneità per l'acquisizione di ricavi per l'incentivo desiderato.
 
-4. **Determinare se è presente una discrepanza.**  Se si soddisfano le regole di idoneità per i partner e idoneità per l'acquisizione di ricavi, ma vengono visualizzati ancora guadagni non corretti, vedere [Come identificare la discrepanza di utili e pagamenti](https://support.microsoft.com/help/4534675) per la procedura necessaria per accedere a tutti i guadagni e alle rispettive transazioni.
-
 Se queste azioni non sono utili e gli utili non vengono riconciliati, contattare il [supporto](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="where-can-i-find-my-rates"></a>Dove sono indicate le tariffe?
@@ -120,4 +144,8 @@ Se queste azioni non sono utili e gli utili non vengono riconciliati, contattare
 
 2. Dopo aver effettuato l'accesso, scorrere verso il basso per accedere ai documenti relativi al programma interessato e fare clic sul collegamento del documento per il rispettivo programma.
 
-3. Dal documento, fare riferimento alla sezione **struttura e tariffe del programma**.
+3. Nel documento, fare riferimento alla sezione **struttura e tariffe del programma**.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Gestire le attestazioni cooperative](incentives-managing-co-op-claims.md)

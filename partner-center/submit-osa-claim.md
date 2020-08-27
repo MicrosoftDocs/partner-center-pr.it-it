@@ -1,7 +1,7 @@
 ---
 title: Creare un'associazione cliente tramite il modello CPOR
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 08/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Creare le associazioni dei clienti tramite il modello CPOR (Claiming partner of record). Consente di gestire le vendite, l'utilizzo & gli incentivi per i clienti Microsoft 365 e Dynamics 365.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d5c71bf5c5461abaa7d86a19711ad941e0e8a4ff
+ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811181"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88942553"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Creare un'associazione cliente tramite il modello CPOR: usare per i clienti Microsoft 365 e Dynamics 365
 
@@ -23,6 +23,8 @@ ms.locfileid: "87811181"
 - Centro per i partner
 
 Il 1 ° ottobre 2019, Microsoft ha iniziato a usare il modello CPOR (Claiming partner of record) per gestire le associazioni con i clienti Microsoft 365 e Dynamics 365 per quanto concerne i clienti di Internet Services Advisory (OSA) sell, Online Services Usage (OSU)-Microsoft 365 e OSU-Business Application incentives.
+
+>[! Importante:] le attestazioni di associazione clienti (CPOR) si applicano solo ai programmi di consulenza Online Services Advisory (OSA), all'uso dei servizi online (OSU)-Microsoft 365 e OSU-Business Application incentive. Se si invia un'attestazione co-op per un altro programma, ad esempio Cloud Solution Provider, Managed Reseller, hosting o Surface, fare riferimento al processo di attestazioni co-op descritto qui.
 
 Quando si invia l'attestazione, Microsoft la convalida. A questo punto, è possibile che vengano richieste altre informazioni. Verrà inoltre inviata una notifica al cliente della richiesta di associazione. I clienti hanno cinque giorni lavorativi per rifiutare esplicitamente. Se non si rifiutano esplicitamente, l'associazione a questo tenant e carico di lavoro specifici sarà ufficiale. A questo punto sarà possibile accedere ai dati di utilizzo del cliente. 
 
@@ -68,7 +70,7 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
 
 3. Selezionare l'**ID MPN** della località partner da associare al cliente, quindi aggiungere il nome di dominio e l'ID directory del cliente. [Trova](find-domain-name.md)
 
-4. Seleziona **Continua**.
+4. Selezionare **Continua**.
 
 5. Selezionare l' **area** e l' **attività**della soluzione. 
 

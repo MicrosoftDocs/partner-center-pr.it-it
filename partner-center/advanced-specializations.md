@@ -9,16 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80a44e50134f9bee335627f66cc27beee8a93926
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0aa6efabbff39d63847451c667d48f723ad33b24
+ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527017"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88942563"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Ottieni una specializzazione avanzata per dimostrare le competenze e i clienti 
 
-Distinguersi con i clienti guadagnando una specializzazione avanzata. Le specializzazioni avanzate sono la convalida della capacità di fornire servizi ad alta fedeltà in un'area della soluzione specifica. I clienti visualizzeranno la specializzazione avanzata visualizzata nel profilo aziendale nella directory dei partner. [Altre informazioni](https://partner.microsoft.com/membership/advanced-specialization).
+Distinguersi con i clienti guadagnando una specializzazione avanzata. Le specializzazioni avanzate sono la convalida della capacità di fornire servizi ad alta fedeltà in un'area della soluzione specifica. I clienti visualizzeranno la specializzazione avanzata visualizzata nel profilo aziendale nella directory dei partner. [Altre informazioni](https://partner.microsoft.com/membership/advanced-specialization)
 
 ## <a name="use-partner-center-to-move-through-the-application-process"></a>Usare il centro per i partner per spostarsi nel processo dell'applicazione
 
@@ -38,6 +38,7 @@ Fino a quando non sono stati soddisfatti tutti i prerequisiti, lo stato rimane *
 - Migrazione data warehouse Microsoft Azure
 - Kubernetes su Microsoft Azure
 - Modernizzazione delle applicazioni Web per Microsoft Azure
+- Desktop virtuale Windows
 
 
 Una volta completati tutti i requisiti, lo stato è **attivo**. Lo stato attivo Abilita automaticamente un tag nel **profilo business** visibile a tutti i clienti che cercano di [trovare un provider di soluzioni](https://www.microsoft.com/solution-providers/home).

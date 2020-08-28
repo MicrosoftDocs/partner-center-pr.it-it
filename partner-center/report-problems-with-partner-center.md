@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7630894df25f5b9919f30c60b0223da9f121788d
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: b22ac3137be610d3f8e6bce9569b1f4cd7ef191b
+ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811311"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "89040757"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Come segnalare i problemi con il centro per i partner e inviare eventuali informazioni di log o diagnostica
 
@@ -24,6 +24,10 @@ ms.locfileid: "87811311"
 - Centro per i partner per Microsoft Cloud for US Government
 
 Se si riscontrano problemi o si necessita di assistenza per il centro per i partner, contattare il supporto tecnico.
+
+**Ruoli utente**
+
+Tutti gli utenti connessi al centro per i partner possono creare richieste di supporto per i partner. Gli utenti possono visualizzare solo le richieste di supporto inviate dopo l'accesso al centro per i partner.
 
 **Segnalare un problema con il centro per i partner**
 

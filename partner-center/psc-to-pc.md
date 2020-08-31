@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fd58f9e84ce8e1e3dd8d1da39f24614db1da99b5
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 4bf873bbd5e12372d73d2ed1b4c3307c71fda359
+ms.sourcegitcommit: a2bfdc2ca5fe11afa5e2fb71e1b0fd61180f2d70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041052"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "89056188"
 ---
 # <a name="referrals-guide-for-managing-your-deals-in-partner-center-instead-of-partner-sales-connect-psc"></a>Guida ai riferimenti per la gestione delle offerte nel centro per i partner invece che in Partner Sales Connect (PSC)
 
@@ -114,7 +114,7 @@ Questa sezione consente di comprendere il mapping esatto degli attributi tra CPS
 ### <a name="psc-grid-view-and-the-partner-center-deal-view"></a>Visualizzazione griglia PSC e visualizzazione dell'accordo per il centro per i partner
 
 - Non è disponibile alcuna visualizzazione elenco nel centro per i partner come quello di CPS.  Tutte le offerte sono elencate in base alla data più recente ricevuta o creata con le informazioni sul cliente e il tipo di contratto. Per impostazione predefinita, la prima operazione nella vista è selezionata. La maggior parte dei valori visualizzati nel formato di tabella PSC è disponibile nella visualizzazione dettagli dell'operazione nel computer.
-- Il ruolo Deal non è un campo obbligatorio in PC. Non viene né visualizzato né acquisito in alcun flusso di lavoro. Viene derivato automaticamente sul lato venditore Microsoft in base alle soluzioni aggiunte all'affare.
+- Il ruolo Deal non è un campo obbligatorio in PC. Non viene né visualizzata né acquisita in nessuno dei flussi di lavoro. Viene derivato automaticamente sul lato venditore Microsoft in base alle soluzioni aggiunte all'affare.
 - La data dell'Ultima modifica non viene visualizzata nella pagina dei dettagli del riferimento nel PC. I partner possono usare la funzionalità di ordinamento per ordinare le offerte in base alla data dell'ultimo aggiornamento.
 
  :::image type="content" source="images/pscmigration/gridview.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione griglia partner Sales Connect (PSC) e la vista di gestione dei partner Center.":::
@@ -156,7 +156,7 @@ Questa sezione consente di comprendere il mapping esatto degli attributi tra CPS
 
 ### <a name="q-what-should-i-do-if-i-dont-have-access-to-partner-center"></a>Q. Quali operazioni è necessario eseguire se non si ha accesso al centro per I partner?
 
-È possibile contattare gli amministratori elencati nella pagina "nessun accesso" per ottenere i ruoli assegnati. https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)Per l'autorizzazione di lettura e scrittura nella sezione relativa ai riferimenti è necessario disporre di "[referral admin] ((" Role per l'autorizzazione di lettura e scrittura. Se si gestiscono solo i profili di business, sarà necessario il ruolo "amministratore del profilo di business" nel centro per i partner.
+È possibile contattare gli amministratori elencati nella pagina "nessun accesso" per ottenere i ruoli assegnati. Per le autorizzazioni di lettura e scrittura, è necessario il ruolo "[amministratore di riferimento](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" nella sezione dei riferimenti. Se si gestiscono solo i profili di business, sarà necessario il ruolo "amministratore del profilo di business" nel centro per i partner.
 
 ### <a name="q-who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>Q. Chi può concedere l'accesso alla sezione relativa ai riferimenti nel centro per i partner?
 

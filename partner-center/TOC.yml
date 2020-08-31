@@ -483,8 +483,11 @@
     - name: Analizzare sottoscrizioni e licenze
       href: analyze-subscriptions-licenses.md
 - name: Collaborare con altri partner
-  href: work-with-other-partners.md
   items:
+    - name: Trovare un partner
+      href: find-a-partner.md
+    - name: Collaborare con altri partner
+      href: work-with-other-partners.md
     - name: Attività dei provider indiretti nel Centro per i partner
       href: indirect-provider-tasks-in-partner-center.md
     - name: Attività dei rivenditori indiretti nel Centro per i partner
@@ -519,6 +522,10 @@
       href: customer-self-support.md
     - name: Eseguire l'escalation dei problemi a Microsoft
       href: escalate-problems-to-microsoft.md
+- name: Altre risorse di supporto
+  items:
+    - name: Risorse relative alle licenze
+      href: support-resources-licensing.md
 - name: Requisiti si sicurezza
   items:
     - name: Panoramica

@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b6daf2c2c7cadd52cd90ce3a25c9a7a681522d24
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 001d047e37bde14ac99de680ef4f59e136282120
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436120"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220689"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analizza le sottoscrizioni e le licenze per aiutarti a promuovere decisioni aziendali e nuovi obiettivi
 
@@ -32,11 +32,9 @@ ms.locfileid: "86436120"
 
 I dati prendono le decisioni aziendali. Usare le metriche nella pagina **sottoscrizione e analisi licenze** per identificare i successi e le aree che richiedono maggiore attenzione. Utilizzare queste informazioni durante la pianificazione di nuovi obiettivi aziendali.
 
-> [!NOTE]
-> L'analisi delle licenze di sottoscrizione è disponibile solo per i partner nel programma Cloud Solution Provider.
+**CSP TTM ricavi (USD)**: questa metrica rappresenta l'aggregato CSP fatturato ricavi (USD) per i dodici mesi finali (TTM) per gli account del percorso partner e l'account globale del partner (PGA) a cui è associato questo account CSP. Se si dispone di altri account CSP con un altro PGA, è necessario accedere a ognuno di essi per visualizzare il corrispondente ricavo TTM aggregato.  Fai clic sul collegamento Dettagli download per ottenere una ripartizione dei ricavi TTM (USD) per ID MPN.
 
-
-Questo report può essere trasformato in base ai prodotti seguenti:
+Il resto del report può essere trasformato tramite pivot in base ai prodotti seguenti:
 
  - **Dynamics 365**: dati di Dynamics 365  
  - **EMS**: dati di Enterprise Management Services  

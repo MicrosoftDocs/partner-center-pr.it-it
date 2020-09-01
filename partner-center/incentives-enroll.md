@@ -1,25 +1,29 @@
 ---
-title: Iscriversi al programma incentives
+title: Iscriversi al programma di incentivi
 ms.topic: how-to
-ms.date: 08/13/2020
+ms.date: 08/31/2020
 description: Iscriversi al programma incentives e assegnare i ruoli necessari per la gestione degli utenti.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eae4baa3cfd49692c6b672c45ec30c8384449975
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 65d62f20daef625a9871fe121d04ed3dcdd1b472
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88427008"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220599"
 ---
-# <a name="enroll-in-the-incentives-program"></a>Iscriversi al programma incentives
+# <a name="enroll-in-the-incentives-program"></a>Iscriversi al programma di incentivi
 
-Si applica a:
+**Si applica a:**
 
 - Centro per i partner
+
+**Ruoli appropriati:**
+
+- Amministratore degli incentivi
 
 >[!NOTE]
 >Prima di poter eseguire la registrazione al programma incentives, è necessario aver completato il centro di appartenenza dei partner alla [migrazione](prepare-pmc-pc-migration.md)del centro per i partner.
@@ -32,7 +36,7 @@ Il processo di registrazione è costituito da due passaggi.
 
 ## <a name="user-management"></a>User Management
 
-Per iscriversi a un programma incentive, l'amministratore globale o l'amministratore dell'account deve configurare gli utenti della società. Devono assegnare uno o più amministratori di incentivi e concedere autorizzazioni utente per gli incentivi. Per informazioni sugli account partner, i ruoli e le autorizzazioni, vedere [gestire l'account del centro per i partner](partner-center-account-setup.md). L'amministratore globale può anche configurare gli utenti aziendali tramite il Azure Active Directory (AAD).
+Per iscriversi a un programma incentive, l'amministratore globale o l'amministratore dell'account deve configurare gli utenti della società. Devono assegnare uno o più amministratori di incentivi e concedere autorizzazioni utente per gli incentivi. Per informazioni sugli account partner, i ruoli e le autorizzazioni, vedere [gestire l'account del centro per i partner](partner-center-account-setup.md). L'amministratore globale può anche configurare gli utenti aziendali tramite il Azure Active Directory (Azure AD).
 
 Una volta che l'organizzazione è idonea per gli incentivi, Microsoft invierà gli inviti a amministratore globale, amministratore account e amministratore di incentivi.
 
@@ -43,7 +47,7 @@ Una volta che l'organizzazione è idonea per gli incentivi, Microsoft invierà g
 
 Una volta che l'organizzazione è idonea per gli incentivi, Microsoft invierà un invito all'amministratore MPN della MPNLocationID idonea per avviare il processo. Questo messaggio di posta elettronica verrà inviato dal centro per i **partner Microsoft**e avrà l'invito per la **registrazione incentive per partner**. Aprire l'invito **e selezionare inizia**.
 
-Verrà inoltre visualizzato un invito nel centro per i partner home page. Dopo aver selezionato il messaggio, non sarà più possibile visualizzarlo nuovamente. Tuttavia, l'amministratore può ancora avviare il processo passando a gestione utenti nel dashboard del [centro](https://partner.microsoft.com/dashboard/)per i partner.
+Verrà inoltre visualizzato un invito nel centro per i partner home page. Dopo aver selezionato il messaggio, non sarà più possibile visualizzarlo nuovamente. Tuttavia, l'amministratore può ancora avviare il processo effettuando l'accesso al [Dashboard del centro](https://partner.microsoft.com/dashboard/) per i partner e selezionando **Gestione utenti**.
 
 ## <a name="expiration-and-renewal"></a>Scadenza e rinnovo
 

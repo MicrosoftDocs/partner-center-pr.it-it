@@ -9,12 +9,12 @@ ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc14a98d6460fc330564317c1bf089e53438a1d0
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 2b43b09f8717169c40f6d0a96db5371c2eeebd11
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998368"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220699"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Usare Analytics per analizzare le prestazioni dei rivenditori indiretti
 
@@ -69,6 +69,18 @@ Vengono monitorate le metriche seguenti:
  - **Località**: mercati in cui operano i rivenditori indiretti  
  - **Sottoscrizioni**: numero di sottoscrizioni vendute dal rivenditore  
  - **Licenze**: numero totale di licenze vendute dal rivenditore tra tutte le sottoscrizioni  
+
+**Stato firmato MPA**
+
+In questa sezione viene fornito lo stato firmato MPA dei rivenditori indiretti CSP.
+
+ - **Nome rivenditore**: nome del rivenditore INdiretto CSP
+ - **ID MPN**: ID MPN del rivenditore indiretto
+ - **Region**: area in cui opera il rivenditore indiretto
+ - **Stato**di esame MPN: stato di vagliatura del rivenditore indiretto
+ - **Stato firmato MPa**: stato di firma MPa per il rivenditore indiretto
+
+Fare clic sull'icona di download nel grafico per scaricare i dati di stato con firma MPA con dimensioni aggiuntive
   
 ## <a name="next-steps"></a>Passaggi successivi
 

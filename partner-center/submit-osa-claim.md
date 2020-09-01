@@ -1,7 +1,7 @@
 ---
 title: Creare un'associazione cliente tramite il modello CPOR
 ms.topic: article
-ms.date: 08/26/2020
+ms.date: 08/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Creare le associazioni dei clienti tramite il modello CPOR (Claiming partner of record). Consente di gestire le vendite, l'utilizzo & gli incentivi per i clienti Microsoft 365 e Dynamics 365.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5c71bf5c5461abaa7d86a19711ad941e0e8a4ff
-ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
+ms.openlocfilehash: d5b14759803beb73cc970bf5fb96747048b8bdc1
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88942553"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220369"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Creare un'associazione cliente tramite il modello CPOR: usare per i clienti Microsoft 365 e Dynamics 365
 
@@ -22,11 +22,14 @@ ms.locfileid: "88942553"
 
 - Centro per i partner
 
+**Ruoli appropriati:**
+
+- Amministratore degli incentivi
+
 Il 1 ° ottobre 2019, Microsoft ha iniziato a usare il modello CPOR (Claiming partner of record) per gestire le associazioni con i clienti Microsoft 365 e Dynamics 365 per quanto concerne i clienti di Internet Services Advisory (OSA) sell, Online Services Usage (OSU)-Microsoft 365 e OSU-Business Application incentives.
 
->[! Importante:] le attestazioni di associazione clienti (CPOR) si applicano solo ai programmi di consulenza Online Services Advisory (OSA), all'uso dei servizi online (OSU)-Microsoft 365 e OSU-Business Application incentive. Se si invia un'attestazione co-op per un altro programma, ad esempio Cloud Solution Provider, Managed Reseller, hosting o Surface, fare riferimento al processo di attestazioni co-op descritto qui.
-
-Quando si invia l'attestazione, Microsoft la convalida. A questo punto, è possibile che vengano richieste altre informazioni. Verrà inoltre inviata una notifica al cliente della richiesta di associazione. I clienti hanno cinque giorni lavorativi per rifiutare esplicitamente. Se non si rifiutano esplicitamente, l'associazione a questo tenant e carico di lavoro specifici sarà ufficiale. A questo punto sarà possibile accedere ai dati di utilizzo del cliente. 
+>[!Important]
+> Le attestazioni relative all'associazione dei clienti (CPOR) si applicano solo ai programmi per la vendita di consulenze (OSA) Online Services Advisory (OSA), l'utilizzo dei servizi online (OSU) Microsoft 365 e OSU-Business Application incentive Se si invia un'attestazione co-op per un altro programma, ad esempio Cloud Solution Provider, Managed Reseller, hosting o Surface, fare riferimento al processo di attestazioni co-op descritto qui. <br><br>Quando si invia l'attestazione, Microsoft la convalida. A questo punto, è possibile che vengano richieste altre informazioni. Verrà inoltre inviata una notifica al cliente della richiesta di associazione. I clienti hanno cinque giorni lavorativi per rifiutare esplicitamente. Se non si rifiutano esplicitamente, l'associazione a questo tenant e carico di lavoro specifici sarà ufficiale. A questo punto sarà possibile accedere ai dati di utilizzo del cliente. 
 
 Per completare un'attestazione, sono necessarie le informazioni seguenti:
 
@@ -50,7 +53,7 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
 
 - Il **prodotto** o i carichi di lavoro che si sta reclamando
 
-- **Proof of Execution (PoE)**, ad esempio un rendiconto di lavoro firmato dal cliente. È anche possibile scaricare un modello POE da usare.
+- **Proof of Execution (PoE)**, ad esempio un rendiconto di lavoro firmato dal cliente. È anche possibile scaricare un modello PoE da usare.
 
 - Per i partner che rivendicano solo l'associazione dei ricavi: **nome del venditore della soluzione Dynamics**, **nome del cliente**e **nome della soluzione o del prodotto ISV**. 
 
@@ -64,34 +67,35 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
 
 ## <a name="create-a-customer-association"></a>Creare un'associazione cliente
 
-1. Nel dashboard del centro per i partner, in **incentivi**selezionare **Panoramica**, quindi selezionare **associazioni clienti**. 
+1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
 
-2. Nella parte superiore della pagina associazioni clienti selezionare **+ associazione clienti**.
+2. Selezionare la scheda **incentivi** , fare clic su **Panoramica**e quindi selezionare **associazioni clienti**.
 
-3. Selezionare l'**ID MPN** della località partner da associare al cliente, quindi aggiungere il nome di dominio e l'ID directory del cliente. [Trova](find-domain-name.md)
+3. Nella parte superiore della pagina associazioni clienti selezionare **+ associazione clienti**.
 
-4. Selezionare **Continua**.
+4. Selezionare l'**ID MPN** della località partner da associare al cliente, quindi aggiungere il nome di dominio e l'ID directory del cliente. [Trova](find-domain-name.md)
 
-5. Selezionare l' **area** e l' **attività**della soluzione. 
+5. Selezionare **Continua**.
+
+6. Selezionare l' **area** e l' **attività**della soluzione. 
 
    >[!Note]
    >
    >Se si seleziona Business Applications, selezionare **utilizzo e/o pre-vendite**o **associazione ricavi**, quindi selezionare **continua**. 
+   <br><br>Se si seleziona Associazione ricavi, verranno richieste informazioni leggermente diverse da quelle elencate di seguito.
 
-   >Se si seleziona Associazione ricavi, verranno richieste informazioni leggermente diverse da quelle elencate di seguito.
+7. Immettere le informazioni appropriate nella pagina **associa cliente** , quindi selezionare **Crea attestazione**.
 
-6. Immettere le informazioni appropriate nella pagina **associa cliente** , quindi selezionare **Crea attestazione**.
+8. Selezionare il prodotto o i prodotti associati a questa associazione cliente, quindi selezionare **continua**.
 
-7. Selezionare il prodotto o i prodotti associati a questa associazione cliente, quindi selezionare **continua**.
-
-8. Completare le informazioni di contatto del cliente e le informazioni di contatto della società. Tutti i campi sono obbligatori. 
+9. Completare le informazioni di contatto del cliente e le informazioni di contatto della società. Tutti i campi sono obbligatori. 
 
    >[!NOTE]
    >Se il prodotto è Dynamics 365 e il prodotto scelto ha più sottoscrizioni per questo particolare cliente, sarà necessario immettere anche l'ID sottoscrizione.
 
-9. Inviare la prova di esecuzione (POE). È possibile trascinarla nella casella, passare alla propria documentazione di supporto o usare un modello selezionando **Scarica modello**. 
+10. Fornire la prova di esecuzione (PoE). È possibile trascinarla nella casella, passare alla propria documentazione di supporto o usare un modello selezionando **Scarica modello**. 
 
-10. Aggiungere e salvare i commenti se lo si desidera, quindi selezionare **Invia attestazione**. Invieremo un messaggio di posta elettronica al cliente per richiedere l'approvazione dell'associazione del cliente.
+11. Aggiungere e salvare i commenti se lo si desidera, quindi selezionare **Invia attestazione**. Invieremo un messaggio di posta elettronica al cliente per richiedere l'approvazione dell'associazione del cliente.
 
    >[!NOTE]
    >Una volta inviata l'associazione del cliente, non è possibile modificarla.
@@ -99,3 +103,7 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
 Lo stato dell'associazione del cliente viene visualizzato nel campo **stato**.
 
 Selezionare **Cronologia** per visualizzare la cronologia di un'associazione del cliente.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Gestire le associazioni del cliente](incentives-manage-customer-associations.md)

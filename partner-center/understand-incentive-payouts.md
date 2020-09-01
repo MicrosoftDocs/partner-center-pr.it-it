@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
-ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
+ms.openlocfilehash: fbd91659a8118cd2efa8c361adaf4c0668245e70
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88799826"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220259"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Visualizza, Gestisci ed Esporta i dettagli del programma incentives
 
@@ -76,7 +76,7 @@ Per accedere alla **panoramica degli incentivi**:
 >Vedere la tabella seguente per altre informazioni sui diversi Stati di registrazione indicati nella colonna **stato** .
 
 
-| **Status**         | **Viene visualizzato quando** |
+| **Stato**         | **Viene visualizzato quando** |
 |:------------------------------------|:------------------|
 | Azione richiesta  | Il partner ha accettato un invito a iscriversi a un programma di incentivi, ma potrebbe dover aggiornare le informazioni bancarie o fiscali. Vedere la colonna **azioni necessarie** per i passaggi successivi o i collegamenti per aggiornare le informazioni bancarie o fiscali nel centro per i partner. |
 | Non disponibile  | Il programma di incentivazione specifico non è più disponibile nel sistema di incentivi. |
@@ -144,7 +144,7 @@ Si noti che il pagamento viene rilasciato nel mese previsto solo se vengono sodd
 |In programma      |Ordine di pagamento generato in attesa di revisioni interne prima dell'elaborazione del pagamento.       |No       |
 |Pending tax invoice (Fattura fiscale in sospeso)      |La fattura dell'imposta è incompleta o non valida.          |È necessario aggiornare la fattura fiscale prima di poter essere pagati.         |
 |Rejected during review (Rifiutato durante la revisione)        |Il pagamento è stato rifiutato durante la revisione.          |Per informazioni dettagliate, contattare il supporto tecnico Microsoft.         |
-|Non riuscito        |Il pagamento non è riuscito a causa di un errore di sistema Microsoft.         |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
+|Operazione non riuscita        |Il pagamento non è riuscito a causa di un errore di sistema Microsoft.         |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
 |In corso     |Il pagamento è in corso.         |No         |
 |Pagamento non corretto        |È in corso il recupero dei pagamenti.          |No        |
 |Inviato        |Il pagamento è stato inviato alla banca.          |No       |
@@ -157,11 +157,14 @@ Si noti che il pagamento viene rilasciato nel mese previsto solo se vengono sodd
 ## <a name="export-data-page"></a>Pagina di esportazione dati
 Seguire le istruzioni in questa pagina per esportare i dati desiderati.
 
-**Note:**
+Ecco alcune considerazioni quando si tenta di esportare i dati:
 
 - Dato il grande volume di dati, il contratto di licenza per la richiesta inviata da elaborare è di 24 ore.
+
 - Verranno visualizzati solo i dati per i programmi e gli ID MPN a cui si è associati. Per accedere a dati aggiuntivi, vedere l'amministratore di incentivi.
+
 - La pagina di esportazione dati non viene aggiornata automaticamente. Per visualizzare i dati più recenti, potrebbe essere necessario aggiornare la pagina manualmente.
+
 - Il filtro può causare un errore di tipo **Non sono disponibili dati**. Questo errore probabilmente significa che è stato lasciato il periodo di tempo predefinito selezionato a tre mesi, quindi è stato selezionato un ID di pagamento da un guadagno che esula da tale periodo. Espandere il periodo di tempo e riprovare.
 
 ## <a name="payment-download-export"></a>Esportazione di download di pagamento

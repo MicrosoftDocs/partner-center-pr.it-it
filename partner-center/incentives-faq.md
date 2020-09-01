@@ -1,25 +1,31 @@
 ---
 title: Domande frequenti sugli incentivi
 ms.topic: how-to
-ms.date: 08/14/2020
+ms.date: 08/31/2020
 description: Domande frequenti per gli incentivi Microsoft
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: d5807dabe5ad41f976bbe099aaaa8d459b77f154
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2fb8ec1bd957f185853db3f220ac1eb17a697927
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88427003"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220589"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Domande frequenti sugli incentivi
 
-Si applica a:
+**Si applica a:**
 
 - Centro per i partner
+
+**Ruoli appropriati:**
+
+- Amministratore degli incentivi
+
+- Utente di incentivi
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>È necessario essere l'amministratore globale per iscriversi a incentivi?
 
@@ -42,3 +48,7 @@ I ruoli principali per gli incentivi sono gli incentivi per gli amministratori e
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Chi devo contattare se ricevo un messaggio di errore o ti serve assistenza durante il processo di registrazione?
 
 Se si verifica un problema nella sezione incentivi del dashboard, è disponibile un servizio di supporto online. vedere l'opzione di supporto (? Icona) in alto a destra.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Introduzione agli incentivi](incentives-get-started-intro.md)

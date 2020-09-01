@@ -1,33 +1,33 @@
 ---
-title: Creare il piano
+title: Creare il piano di incentivi
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/31/2020
 description: Raccogliere e creare le informazioni necessarie per generare un piano di marketing efficace per il programma incentives.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 70740341211f5386882e7be05ce9cb921f0be8dd
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 018caf14a7ccc4c7e5e63e25d48c57df923af5a3
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303247"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220629"
 ---
-# <a name="create-your-plan"></a>Creare il piano
+# <a name="create-your-incentives-plan"></a>Creare il piano di incentivi
 
-Si applica a:
+**Si applica a:**
 
 - Centro per i partner
 
-Un piano di attestazioni co-op è la serie di campagne di marketing, attività e altri dettagli che descrivono come rendere il programma un successo. Dopo aver creato il piano, sarà necessario inviarlo a Microsoft per l'approvazione. 
-
-Ruoli appropriati:
+**Ruoli appropriati:**
 
 - Amministratore degli incentivi
 - Amministratore fatturazione
 - Amministratore globale
+
+Un piano di attestazioni co-op è la serie di campagne di marketing, attività e altri dettagli che descrivono come rendere il programma un successo. Dopo aver creato il piano, sarà necessario inviarlo a Microsoft per l'approvazione.
 
 ## <a name="create-your-incentives-plan"></a>Creare il piano di incentivi
 
@@ -93,3 +93,7 @@ Microsoft corrisponde mensilmente l'importo maturato in base ai guadagni e ai li
 Se, ad esempio, il piano è approvato per 10.000 dollari e il guadagno nel mese di aprile è stato di 5.000 dollari, il 15 maggio si riceveranno 5.000 dollari.
 
 Con lo stesso piano, se si guadagnano 15.000 dollari nel mese di aprile, il 15 maggio si riceveranno 10.000 dollari perché il limite del piano è di 10.000 dollari. Per ricevere un pagamento di importo superiore, è necessario aumentare il limite del piano per il mese successivo.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Preparare la prova di esecuzione](incentives-prepare-your-proof-of-execution.md)

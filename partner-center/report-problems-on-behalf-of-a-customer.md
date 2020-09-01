@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
-ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
+ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/24/2020
-ms.locfileid: "88781833"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220179"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Segnala un problema del servizio per conto di un cliente, incluse le attività e le modalità di esecuzione
 
@@ -102,7 +102,9 @@ Per trovare le informazioni di contatto dell'ISV:
 
 ## <a name="faq"></a>Domande frequenti
 
-**Cosa include il diritto al supporto?**
+Per domande frequenti sulle richieste di servizio che è possibile inviare per conto di un cliente, vedere le informazioni riportate di seguito. 
+
+### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Cosa include il diritto al supporto?
 
 Le richieste di servizio devono essere presentate tramite il centro per i partner. Sono disponibili per Azure, Microsoft Office 365, Microsoft Dynamics CRM online ed Enterprise Mobility Suite. Un partner che partecipa al programma Cloud Solution Provider avrà tempi di risposta prioritari per i problemi più gravi.
 
@@ -110,7 +112,7 @@ Il supporto per il proprio tenant partner non è incluso nell'ambito del vantagg
 
 Questo vantaggio si applica a tutti i partner che partecipano al programma Cloud Solution Provider, a pagamento o durante un periodo di valutazione. Il supporto per la gestione di fatturazione e sottoscrizioni è anch'esso incluso come componente gratuito di questo pacchetto.
 
-**Quanto tempo serve per avere la risposta iniziale?**
+### <a name="how-quickly-will-i-get-an-initial-response"></a>Quanto tempo serve per avere la risposta iniziale?
 
 I tempi per la risposta iniziale dipendono dalla gravità del problema. La gravità di un problema è determinata dall'impatto aziendale indicato quando invii una richiesta di servizio.
 
@@ -123,21 +125,21 @@ Tempi di risposta iniziali per gli **eventi imprevisti di correzione tecnico**:
 I tempi per la risposta iniziale si riferiscono solo al supporto in lingua inglese. Il supporto nella lingua locale viene fornito durante l'orario di ufficio.
 Per gli eventi imprevisti che rientrano nei limiti del diritto di supporto ma che non sono considerati interventi di correzione, il tempo di risposta iniziale potrebbe essere fino a un giorno lavorativo.
 
-**Posso inviare telefonicamente una richiesta di servizio?**
+### <a name="can-i-submit-a-service-request-by-phone"></a>Posso inviare una richiesta di servizio per telefono?
 
 No, il supporto telefonico non è disponibile per questo programma.
 
-**Cosa succede se accedo al portale di Azure senza usare il Centro per i partner?**
+### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>Cosa succede se accedo al portale di Azure senza usare il Centro per i partner?
 
 Se si accede direttamente al portale di Microsoft Azure, si sta visualizzando il centro nel proprio contesto, non nel contesto di un cliente. Per questo motivo, è consigliabile accedere direttamente al portale di Microsoft Azure quando si crea una richiesta di servizio per le proprie sottoscrizioni.
 
 Il diritto del supporto del programma CSP non fornisce supporto per la sottoscrizione del partner. Per questo motivo, è necessario fornire il diritto valido del piano di supporto quando si crea una richiesta di servizio che riguarda la sottoscrizione del partner. Gli esempi includono ID contratto MPN, Premier o un piano di supporto di Azure. Per ulteriori informazioni, vedere le [domande frequenti sul supporto tecnico di Azure](https://go.microsoft.com/fwlink/?LinkId=717532).
 
-**Cosa accade se si accede al portale dell'interfaccia di amministrazione di Office 365 e si ignora il centro per i partner?**
+### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Cosa accade se si accede al portale dell'interfaccia di amministrazione di Office 365 e si ignora il centro per i partner?
 
 Se si accede direttamente all'interfaccia di amministrazione di Office 365, si sta visualizzando il centro nel proprio contesto, non nel contesto di un cliente. Per questo motivo, è consigliabile accedere direttamente all'interfaccia di amministrazione di Office 365 quando si crea una richiesta di servizio per le proprie sottoscrizioni.
 
-**Come posso ottenere ulteriore supporto per Dynamics 365?**
+### <a name="how-do-i-get-additional-dynamics-365-support"></a>Come posso ottenere ulteriore supporto per Dynamics 365?
 
 Se si verificano problemi relativi a: sottoscrizioni del piano Dynamics 365, licenze, fatturazione, operazioni di & finanza, licenze del prodotto Dynamics 365 oppure è necessario ulteriore supporto tecnico:
  

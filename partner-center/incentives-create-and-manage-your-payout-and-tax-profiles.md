@@ -1,33 +1,33 @@
 ---
 title: Creare e gestire il profilo di pagamento e il profilo fiscale nel Centro per i partner
 ms.topic: how-to
-ms.date: 08/13/2020
+ms.date: 08/31/2020
 description: Prima di poter pagare il lavoro per gli incentivi, è necessario creare i profili di pagamento e di imposta.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bf2f70bac6cbabcc0e4267585a23e1b74916c06
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: e85401983e60f4d8143f8a056539edd8ecaa4dcb
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303277"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220799"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Profili di pagamento e fiscali nel Centro per i partner
 
-Si applica a:
+**Si applica a:**
 
 - Centro per i partner
 
-Prima di poter ricevere il pagamento per i programmi Incentivi per una particolare posizione MPN, è necessario completare la registrazione associando un profilo di pagamento e fiscale valido al programma e alla posizione MPN. Microsoft userà il profilo di pagamento e fiscale per emettere i pagamenti. È possibile che l'utente sia autorizzato a usare il trasferimento bancario elettronico o una nota di accredito per il pagamento, a seconda delle regole del programma Incentivi. 
-
-Ruoli appropriati:
+**Ruoli appropriati:**
 
 - Amministratore degli incentivi
 - Amministratore fatturazione
 - Amministratore globale
+
+Prima di poter ricevere il pagamento per i programmi Incentivi per una particolare posizione MPN, è necessario completare la registrazione associando un profilo di pagamento e fiscale valido al programma e alla posizione MPN. Microsoft userà il profilo di pagamento e fiscale per emettere i pagamenti. È possibile che l'utente sia autorizzato a usare il trasferimento bancario elettronico o una nota di accredito per il pagamento, a seconda delle regole del programma Incentivi. 
 
 ## <a name="roles-currencies-and-other-microsoft-programs"></a>Ruoli, valute e altri programmi Microsoft
 
@@ -37,7 +37,7 @@ Ruoli appropriati:
 
 È necessario essere un amministratore di incentivi per immettere le informazioni fiscali e bancarie per i pagamenti di incentivi. Se si è un amministratore MPN/account, è possibile assegnare se stessi e/o un collega come amministratore di incentivi.
 
-Se è necessario richiedere le autorizzazioni di amministratore per gli incentivi, contattare l'amministratore MPN o l'amministratore globale. È possibile scoprire chi ha questi ruoli nell'azienda nel [Dashboard del centro](https://partner.microsoft.com/dashboard/)per i partner. Dall'icona **Impostazioni** in alto a destra selezionare **Gestione utenti** , quindi filtrare in base a amministratore globale.
+Se è necessario richiedere le autorizzazioni di amministratore per gli incentivi, contattare l'amministratore MPN o l'amministratore globale. È possibile scoprire chi ha questi ruoli nell'azienda accedendo al [Dashboard del centro](https://partner.microsoft.com/dashboard/)per i partner. Dall'icona **Impostazioni** in alto a destra selezionare **Gestione utenti** , quindi filtrare in base a amministratore globale.
 
 Gli incentivi consentono agli utenti di visualizzare i guadagni e i dettagli di pagamento e i report, ma non possono modificare i dettagli di banca e fiscali.
 
@@ -58,11 +58,11 @@ All'interno del dettaglio, i pagamenti per ognuno dei cinque programmi per incen
 Le sezioni seguenti illustrano il processo di creazione e gestione dei profili di pagamento e di imposta nel centro per i partner.
 
 >[!IMPORTANT]
->È necessario essere un amministratore di incentivi per creare o gestire i profili di pagamento nel centro per i partner. I ruoli incentivo devono essere assegnati a ogni località MPN in ogni programma di incentivi. Per altre informazioni su come aggiungere gli amministratori di incentivi in Partner Center, vedere [come aggiungere utenti o amministratori di incentivi nel centro per i partner](https://support.microsoft.com/help/3011450/how-to-add-incentive-users-or-admins-in-partner-center).
+>È necessario essere un amministratore di incentivi per creare o gestire i profili di pagamento nel centro per i partner. I ruoli incentivo devono essere assegnati a ogni località MPN in ogni programma di incentivi. Per altre informazioni su come aggiungere gli amministratori di incentivi in Partner Center, vedere [creare account utente](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions).
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Accedere alla sezione relativa ai pagamenti e alle imposte nel centro per i partner
 
-1. Accedere al centro per i partner usando l'account Azure Active Directory (Azure AD) (account aziendale) o l'indirizzo di posta elettronica appropriato se ne è stato assegnato uno. 
+1. Accedere al [Dashboard del centro](https://partner.microsoft.com/dashboard/) per i partner usando l'account Azure Active Directory (Azure ad) (account aziendale) o l'indirizzo di posta elettronica appropriato se ne è stato assegnato uno.
 
    - È possibile registrare più domini all'interno di un account Azure AD. Contattare l'amministratore globale per determinare quali domini sono associati.
    - Se si è in grado di accedere solo con il @onmicrosoft.com dominio, contattare l'amministratore dell'account per aggiungere ulteriori domini all'account Azure ad.
@@ -74,7 +74,7 @@ Le sezioni seguenti illustrano il processo di creazione e gestione dei profili d
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Assegnare i profili di pagamento e di imposta a singoli programmi
 
-1. In centro per i partner selezionare l'icona a forma di ingranaggio per aprire il menu **Impostazioni** . 
+1. Accedere al [Dashboard del centro](https://partner.microsoft.com/dashboard/)per i partner, quindi selezionare l'icona a forma di ingranaggio per aprire il menu **Impostazioni** . 
 
 2. Selezionare **Impostazioni partner**, espandere la **sezione pagamenti e imposte**, quindi selezionare **assegnazione del profilo di pagamento e di imposta**. 
    

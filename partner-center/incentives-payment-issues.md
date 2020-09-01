@@ -1,19 +1,19 @@
 ---
 title: Risoluzione dei problemi relativi a pagamenti e utili
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 08/31/2020
 description: Informazioni su come risolvere i problemi, ad esempio guadagni mancanti o non corretti, problemi di idoneità e come risolvere i guadagni degli incentivi.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
-ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
+ms.openlocfilehash: 5696c4e3e74fd9fe4c17b0da37f6b6bf3ba98165
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88893471"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220789"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Risoluzione dei problemi relativi a pagamenti e utili
 
@@ -24,7 +24,6 @@ ms.locfileid: "88893471"
 **Ruoli appropriati**:
 
 - Amministratore degli incentivi
-
 
 Questo articolo consente di risolvere eventuali problemi relativi a guadagni o pagamenti nel programma per gli incentivi. Gli argomenti trattati includono la tempistica dei pagamenti, il controllo dell'idoneità dei guadagni e l'importanza di configurare correttamente i profili di pagamento e fiscali.
 
@@ -57,18 +56,20 @@ I pagamenti mancanti o non corretti sono spesso correlati a una delle cause segu
 
   **Per verificare l'idoneità**
 
-  1. Accedi al centro per i partner: incentivi per i [partner](https://partner.microsoft.com/membership/partner-incentives).
-  
+  1. Accedi a [incentivi](https://partner.microsoft.com/membership/partner-incentives)per i partner.
+
   2. Scorrere verso il basso fino ai documenti del programma.
   
-  3. Selezionare il collegamento al documento desiderato, quindi esaminare le sezioni **idoneità partner** e **regole ricavi idonee**.
+  3. Selezionare il collegamento al documento desiderato, quindi esaminare le sezioni 
+
+**Idoneità partner** e **regole dei ricavi idonei**.
 
 - **Il profilo di pagamento potrebbe essere incompleto.** La data iniziale di acquisizione degli incentivi sarà il primo giorno del mese in cui tutti i requisiti di idoneità sono stati soddisfatti, incluso l'inserimento dei dati relativi a pagamenti e imposte. Gli utili non saranno disponibili per i mesi precedenti al pagamento e al completamento delle imposte. Se, ad esempio, si soddisfano tutti i requisiti durante il mese di aprile 2020, la data di inizio degli utili sarà il 1 aprile 2020.
 - **È possibile che si verifichi un'azione in attesa**.  È possibile che gli incentivi non vengano elaborati a causa di un'azione in sospeso.
 
   **Per visualizzare le azioni in attesa**
 
-  1. Accedi al centro per i partner: incentivi per i [partner](https://partner.microsoft.com/membership/partner-incentives).
+  1. Accedi a [incentivi](https://partner.microsoft.com/membership/partner-incentives)per i partner.
   2. Aprire la pagina **Cronologia transazioni** . Esaminare i campi in questa pagina per tutte le azioni in sospeso da completare, ad esempio il **profilo fiscale in sospeso**, il **profilo di pagamento in sospeso**o l' **invio di fatture fiscali in sospeso**.
 
 Se queste azioni non sono utili e i pagamenti rimangono mancanti o errati, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
@@ -140,9 +141,9 @@ Se queste azioni non sono utili e gli utili non vengono riconciliati, contattare
 
 ## <a name="where-can-i-find-my-rates"></a>Dove sono indicate le tariffe?
 
-1. Passare a [Incentivi per i partner](https://partner.microsoft.com/membership/partner-incentives) ed eseguire l'accesso.
+1. Accedi a [incentivi](https://partner.microsoft.com/membership/partner-incentives)per i partner.
 
-2. Dopo aver effettuato l'accesso, scorrere verso il basso per accedere ai documenti relativi al programma interessato e fare clic sul collegamento del documento per il rispettivo programma.
+2. Scorrere verso il basso per accedere ai documenti per il programma interessato e fare clic sul collegamento del documento per il rispettivo programma.
 
 3. Nel documento, fare riferimento alla sezione **struttura e tariffe del programma**.
 

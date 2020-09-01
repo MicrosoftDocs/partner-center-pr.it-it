@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f26384f408f7644d577940e22ea43a197c41164f
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239059"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220329"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Report sulle sottoscrizioni di prodotto disponibile nel dashboard di partner Center Insights
 
@@ -36,37 +36,39 @@ Il report sottoscrizioni prodotto presenta analisi sulle sottoscrizioni cloud ve
 - Tendenza prodotti
 
  > [!NOTE]
- > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
+ > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. i tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
 
-**Summary**
+## <a name="summary"></a>Riepilogo
 
 La sezione Riepilogo presenta una visualizzazione snapshot degli indicatori di prestazioni chiave (KPI) correlati alle sottoscrizioni vendute o gestite dall'utente per i clienti.  
 
-- Sottoscrizioni: numero corrente di sottoscrizioni di prodotti cloud vendute o gestite dall'utente.
-Percentuale di aumento o diminuzione delle sottoscrizioni durante l'intervallo di date selezionato.
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Riepilogo report sottoscrizioni":::
 
-Il grafico micro presenta una tendenza mensile rispetto al numero di sottoscrizioni durante l'intervallo di date selezionato.
+Per ulteriori informazioni su ogni sezione del riepilogo, vedere di seguito.
 
-- Sottoscrizioni attive: numero corrente di sottoscrizioni di prodotti cloud con utilizzo attivo misurato in base alla telemetria del prodotto. Questa operazione esclude tutte le sottoscrizioni di valutazione nel caso di sottoscrizioni di Azure.
-Aumento o riduzione percentuale delle sottoscrizioni attive nel periodo di tempo selezionato.
+- Sottoscrizioni:
+  - Conteggio corrente delle sottoscrizioni di prodotti cloud vendute o gestite dall'utente.
+  - Percentuale di aumento o diminuzione delle sottoscrizioni durante l'intervallo di date selezionato.
+  - Il grafico micro presenta una tendenza mensile rispetto al numero di sottoscrizioni durante l'intervallo di date selezionato.
 
-Il grafico micro presenta una tendenza mensile rispetto al mese delle sottoscrizioni attive durante l'intervallo di date selezionato.
+- Sottoscrizioni attive:
+  - Numero corrente di sottoscrizioni di prodotti cloud con utilizzo attivo misurato in base alla telemetria del prodotto. Questa operazione esclude tutte le sottoscrizioni di valutazione nel caso di sottoscrizioni di Azure.
+  - Aumento o riduzione percentuale delle sottoscrizioni attive nel periodo di tempo selezionato.
+  - Il grafico micro presenta una tendenza mensile rispetto al mese delle sottoscrizioni attive durante l'intervallo di date selezionato.
 
-- Sottoscrizioni aggiunte: totale sottoscrizioni cliente aggiunte (vendute o gestite) dall'utente durante l'intervallo di date selezionato. Le nuove sottoscrizioni con stato **attivo** o **rinnovato** vengono conteggiate come sottoscrizioni aggiunte.
-Percentuale di aumento o diminuzione delle sottoscrizioni aggiunte nell'ultimo mese intero rispetto al primo mese intero.
+- Sottoscrizioni aggiunte:
+  - Totale sottoscrizioni dei clienti aggiunte (vendute o gestite) dall'utente durante l'intervallo di date selezionato. Le nuove sottoscrizioni con stato **attivo** o **rinnovato** vengono conteggiate come sottoscrizioni aggiunte.
+  - Percentuale di aumento o diminuzione delle sottoscrizioni aggiunte nell'ultimo mese intero rispetto al primo mese intero.
+  - Il grafico micro presenta una tendenza mensile delle sottoscrizioni aggiunte durante l'intervallo di date selezionato.
 
-Il grafico micro presenta una tendenza mensile delle sottoscrizioni aggiunte durante l'intervallo di date selezionato.
-
-- Sottoscrizioni varianza: numero totale di sottoscrizioni cliente ricorrenti durante l'intervallo di date selezionato. Le sottoscrizioni con stato **deprovisioning** o **sospeso** in tale mese vengono conteggiate come una sottoscrizione di varianza.  
-Percentuale di sottoscrizioni varianza durante l'intervallo di date selezionato.
-
-Il grafico micro presenta una tendenza mensile delle sottoscrizioni di varianza nell'intervallo di date selezionato.
+- Sottoscrizioni varianza:
+  - Totale sottoscrizioni cliente risalenti durante l'intervallo di date selezionato. Le sottoscrizioni con stato **deprovisioning** o **sospeso** in tale mese vengono conteggiate come una sottoscrizione di varianza.  
+  - Percentuale di sottoscrizioni varianza durante l'intervallo di date selezionato.
+  - Il grafico micro presenta una tendenza mensile delle sottoscrizioni di varianza nell'intervallo di date selezionato.
 
 - Sottoscrizioni per prodotti: suddivisione del numero di sottoscrizioni correnti per prodotti cloud.
 
-:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Riepilogo report sottoscrizioni":::
-
-**Distribuzione geografica delle sottoscrizioni**
+## <a name="geographical-spread-of-subscriptions"></a>Distribuzione geografica delle sottoscrizioni
 
 La vista **sottoscrizioni in base alla geografia** Mostra la distribuzione geografica delle sottoscrizioni totali per i mercati dei clienti. L'importo totale delle sottoscrizioni include sia le sottoscrizioni vendute sia le sottoscrizioni attive.
 
@@ -76,7 +78,7 @@ Il **numero di paesi/area geografica** presenta il totale dei paesi/aree geograf
 
 :::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="sottoscrizioni per geografia":::
 
-**Aggiunta/varianza della sottoscrizione**
+## <a name="subscription-addschurns"></a>Aggiunta/varianza della sottoscrizione
 
 Questa vista presenta una tendenza delle sottoscrizioni. Questi sono suddivisi in categorie diverse (nuove, esistenti, in varianza) per l'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato. L'asse Y rappresenta il conteggio delle sottoscrizioni. Le sottoscrizioni con varianza sono rappresentate sulla scala negativa dell'asse Y. 
 
@@ -84,19 +86,19 @@ L'istogramma a colonne in pila presenta una suddivisione delle sottoscrizioni nu
 
 :::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="Aggiunta e varianza della sottoscrizione":::
 
-**Distribuzione della sottoscrizione**
+## <a name="subscription-distribution"></a>Distribuzione della sottoscrizione
 
 Questa visualizzazione presenta una suddivisione delle sottoscrizioni correnti in base alle località MPN, ai segmenti dei clienti, al modello di prezzo di canale di vendita/Azure e al tipo di attribuzione, ad esempio DPOR, DAP e così via. Fare clic sulle rispettive schede per visualizzare la suddivisione in base a queste categorie. Per compilare il grafico a torta con una suddivisione delle categorie di elementi specifiche, selezionare le categorie di elementi nella legenda.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribuzione della sottoscrizione":::
 
-**Distribuzione dello stato della sottoscrizione**
+## <a name="subscription-state-distribution"></a>Distribuzione dello stato della sottoscrizione
 
 Questa visualizzazione Mostra la distribuzione delle sottoscrizioni dei clienti correnti in base allo stato o allo stato della sottoscrizione. Sono inclusi gli Stati di sottoscrizione seguenti: **attivo**, **disabilitato**, sottoposta a **deprovisioning**, **aperto**, **InGracePeriod**, **chiuso**e **altro**.
 
 :::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribuzione dello stato della sottoscrizione":::
 
-**Tendenza prodotti**
+## <a name="products-trend"></a>Tendenza prodotti
 
 Questa vista mostra un grafico a barre e due grafici a torta. Il grafico a barre presenta una tendenza mensile delle sottoscrizioni suddivise da prodotti commerciali, ad esempio Azure, Office, Dynamics e così via.
 

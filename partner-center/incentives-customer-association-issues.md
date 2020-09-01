@@ -1,5 +1,5 @@
 ---
-title: Problemi di associazione dei clienti
+title: Problemi di associazione dei clienti agli incentivi
 description: Informazioni su come risolvere i problemi che si verificano quando si lavora con le associazioni clienti di CPOR (partner di record).
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -7,27 +7,27 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: ef818b15d4ddd891c29669071d3f8dc51d007bca
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 8b1ab61422dd6583a66c6968ac202403e64cdd4e
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303257"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220619"
 ---
-# <a name="customer-association-issues"></a>Problemi di associazione dei clienti
+# <a name="incentives-customer-association-issues"></a>Problemi di associazione dei clienti agli incentivi
 
-Si applica a:
+**Si applica a:**
 
 - Centro per i partner
 
-Il contenuto seguente consente di risolvere i problemi che possono verificarsi quando si lavora con le associazioni dei clienti.
-
-Ruoli appropriati:
+**Ruoli appropriati:**
 
 - Amministratore fatturazione
 - Amministratore globale
 - Amministratore degli incentivi
+
+Il contenuto seguente consente di risolvere i problemi che possono verificarsi quando si lavora con le associazioni dei clienti.
 
 ## <a name="domain-tenant-mismatch"></a>Dominio-tenant non corrispondente
 
@@ -72,7 +72,7 @@ Nel flusso di attestazioni di associazione CPOR verrà richiesto di scegliere un
 
 Se non si conosce il MPN da usare, contattare l'amministratore globale.
 
-Se il MPN che si vuole usare non è registrato, è possibile gestirlo nella [scheda Panoramica incentivi](https://partner.microsoft.com/dashboard/incentives/enrollment/summary).
+Se il MPN che si vuole usare non è registrato, è possibile gestirlo nella [scheda Panoramica incentivi](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) (accesso richiesto).
 
 ## <a name="choosing-a-product-vs-entering-a-subscription"></a>Scelta di un prodotto rispetto all'immissione di una sottoscrizione
 
@@ -91,4 +91,8 @@ Se si sta creando un'attestazione di associazione CPOR per un cliente e i relati
 4. L'attestazione di associazione CPOR verrà comunque esaminata entro cinque giorni lavorativi, sebbene il relativo stato possa rimanere come sottoposto a _Verifica_ per un periodo di tempo più lungo. Questo scenario può verificarsi quando Microsoft collabora con il partner che attualmente possiede il prodotto o il carico di lavoro. In tal caso, si riceverà una notifica nella sezione dei commenti dell'attestazione. 
 
 >[!IMPORTANT]
->Se sono necessarie informazioni aggiuntive per verificare l'associazione di CPOR PoE, verrà contattata tramite la sezione commenti attestazione associazione CPOR.
+>Se sono necessarie ulteriori informazioni per verificare la CPOR Association Proof of Execution (PoE), si verrà contattati tramite la sezione CPOR Association Claim comments.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Introduzione agli incentivi](incentives-get-started-intro.md)

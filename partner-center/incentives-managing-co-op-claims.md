@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: c21875f53c4263fd21c0e12e9ec3347bc0e07278
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303197"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220539"
 ---
 # <a name="manage-co-op-claims"></a>Gestire le attestazioni cooperative
 
-Si applica a:
+**Si applica a:**
 
 - Centro per i partner
 
-Il contenuto seguente fornisce informazioni per la gestione delle attestazioni di co-op, incluse le sequenze temporali, le regole e la modalità di controversia di un'attestazione cooperativa rifiutata.
-
-Ruoli appropriati:
+**Ruoli appropriati:**
 
 - Amministratore degli incentivi
+
+Il contenuto seguente fornisce informazioni per la gestione delle attestazioni di co-op, incluse le sequenze temporali, le regole e la modalità di controversia di un'attestazione cooperativa rifiutata.
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>Scadenze per l'approvazione e il pagamento delle attestazioni cooperative
 
@@ -72,3 +72,7 @@ Se il materiale fornito con l'attestazione di co-op viene ritenuto insufficiente
 4. Nella parte inferiore della pagina selezionare **Contesta**.
 
 Il team di convalida delle attestazioni co-op esaminerà l’attestazione entro cinque giorni lavorativi. Durante questo periodo, lo stato verrà visualizzato come **Contestata**. L’utente potrebbe essere contattato per richiedere altre informazioni. Al termine della revisione, il team di convalida aggiornerà lo stato in **Approvata**, **Rifiutata** o **Richiesta azione del partner**.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Introduzione agli incentivi](incentives-get-started-intro.md)

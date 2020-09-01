@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72676a714cf944bc9210de8e8f6edfa0d3037da9
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239069"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220729"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Azure disponibile dal dashboard di partner Center Insights
 
@@ -31,9 +31,9 @@ Il report sull'utilizzo di Azure presenta le metriche correlate alle sottoscrizi
 - Utilizzo di Azure
 
  > [!NOTE]
- > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
+ > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. i tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
 
-**Summary**
+## <a name="summary"></a>Riepilogo
 
 La sezione Riepilogo presenta una visualizzazione snapshot degli indicatori di prestazioni chiave (KPI) relativi alle sottoscrizioni di Azure vendute o gestite dall'utente per i clienti.  
 
@@ -56,7 +56,7 @@ Il grafico micro presenta una tendenza mensile di ACR US $ attribuita all'utente
 
 :::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Riepilogo utilizzo di Azure":::
 
-**Azure Usage by geography**
+## <a name="azure-usage-by-geography"></a>Azure Usage by geography
 
 La visualizzazione **Azure Usage by geography** Mostra la distribuzione geografica dei ricavi di consumo di Azure (ACR US $) o delle ore di utilizzo per tutte le categorie di contatori o di servizio di Azure selezionate. I colori più chiari sulla mappa rappresentano valori più bassi, mentre i colori più scuri rappresentano valori più alti. È possibile cercare e selezionare un paese nella griglia a cui applicare lo zoom 
 
@@ -66,7 +66,7 @@ La tabella **numero di paesi/** aree geografiche presenta il totale dei paesi in
 
 :::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Azure Usage by geography":::
 
-**Utilizzo di Azure**
+## <a name="azure-utilization"></a>Utilizzo di Azure
 
 Questa visualizzazione Mostra le tendenze del reddito di consumo di Azure o delle ore di utilizzo di Azure in base alle categorie del livello di servizio/contatore di Azure selezionate. 
 

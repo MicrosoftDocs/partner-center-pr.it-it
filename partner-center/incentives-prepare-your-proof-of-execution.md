@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303297"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220779"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Preparare la prova di esecuzione
 
-Si applica a:
+**Si applica a:**
 
 - Centro per i partner
 
-Prima di essere pagati per il lavoro degli incentivi, è necessario inviare una prova di esecuzione (PoE) dettagliata. Questo articolo illustra il processo di creazione di una prova efficace di esecuzione.
-
-Ruoli appropriati:
+**Ruoli appropriati:**
 
 - Amministratore degli incentivi
+
+Prima di essere pagati per il lavoro degli incentivi, è necessario inviare una prova di esecuzione (PoE) dettagliata. Questo articolo illustra il processo di creazione di una prova efficace di esecuzione.
 
 ## <a name="how-to-submit-a-poe"></a>Come inviare un PoE
 
@@ -62,7 +62,7 @@ Ruoli appropriati:
 
 11. Se lo si desidera, è anche possibile caricare **documenti di prova** . Nel campo **documenti di prova** selezionare **trascina o Sfoglia file da caricare**. Se si seleziona documenti di prova, è necessario aggiungere note esplicative. Dopo aver aggiunto una nota, selezionare **Salva**.
 
-12. Immettere i commenti finali prima di inviare il POE, quindi selezionare **Invia attestazione**.
+12. Immettere i commenti finali prima di inviare il PoE, quindi selezionare **Invia attestazione**.
 
 ## <a name="view-the-status-of-a-poe"></a>Visualizzare lo stato di un PoE
 
@@ -80,3 +80,7 @@ Ruoli appropriati:
    - In fase di modifica
    - Approved
    - Rifiutato
+
+## <a name="next-steps"></a>Passaggi successivi:
+
+- [Introduzione agli incentivi](incentives-get-started-intro.md)

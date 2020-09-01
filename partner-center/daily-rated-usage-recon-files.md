@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943458"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274980"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Informazioni su come leggere i file di riconciliazione dell'utilizzo con classificazione giornaliera nel centro per i partner
 
@@ -60,7 +60,7 @@ Questo articolo illustra come leggere i file di riconciliazione dell'utilizzo co
 | UsageDate | Data di utilizzo del servizio. |
 | MeterType | Tipo di misuratore. |
 | MeterCategory | Il servizio di primo livello per l'utilizzo. |
-| MeterId | Identificatore del contatore utilizzato. |
+| ID contatore | Identificatore del contatore utilizzato. |
 | MeterSubCategory | Tipo di servizio di Azure, che può influire sulla frequenza. |
 | MeterName | Unità di misura per il contatore utilizzato. |
 | MeterRegion | Questa colonna identifica la posizione di un data center all'interno dell'area per i servizi in cui MeterRegion è applicabile e popolato. |
@@ -75,7 +75,7 @@ Questo articolo illustra come leggere i file di riconciliazione dell'utilizzo co
 | UnitType | Tipo di unità in cui viene addebitato il contatore.  |
 | BillingPreTaxTotal | Importo totale della fatturazione prima delle imposte. |
 | BillingCurrency | Valuta nell'area geografica del cliente. |
-| PricingPreTaxTotal | I prezzi, prima che vengano aggiunte le imposte. |
+| PricingPreTaxTotal | I prezzi, prima che vengano aggiunte le imposte. <br/> _**PricingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | PricingCurrency | La valuta usata nell'elenco prezzi. |
 | ServiceInfo1 | Numero di connessioni del bus di servizio di cui è stato effettuato il provisioning e che sono state usate in un determinato giorno. |
 | ServiceInfo2 | Campo legacy che acquisisce i metadati facoltativi specifici del servizio. |

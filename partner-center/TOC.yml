@@ -187,6 +187,8 @@
           href: connector-dynamics.md
         - name: Connettore di co-selling per CRM Salesforce - Panoramica
           href: connector-salesforce.md
+        - name: Co-selling per i partner che eseguono la migrazione da Partner Sales Connect (PSC)
+          href: psc-to-pc.md
         - name: Registrare le trattative
           href: register-deals.md
         - name: Ottenere informazioni dettagliate sulle segnalazioni
@@ -293,7 +295,7 @@
     - name: Impostare un budget di spesa di Azure per i clienti
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 'Gestire insoluti, frodi o uso improprio'
-      href: non-payment--fraud--or-misuse.md
+      href: non-payment-fraud-misuse.md
     - name: Gestire pagamenti non allocati
       href: unallocated-payment.md
 - name: Entra in contatto con i clienti
@@ -458,6 +460,8 @@
           href: pci-roles.md
         - name: Insights - Dashboard clienti
           href: pci-customer-report.md
+        - name: Insights - Dashboard prestazioni rivenditore
+          href: pci-resellers-performance.md
         - name: Insights - Dashboard sottoscrizioni prodotto
           href: pci-product-subscriptions-report.md
         - name: Insights - Dashboard licenze prodotto

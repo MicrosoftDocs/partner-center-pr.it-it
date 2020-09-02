@@ -9,19 +9,24 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: b34cfc1448ba97d663b8dc89f424905775f9766c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 847b586fdb3e7b2361042c18ad9f9f0ae3203a62
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303287"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286505"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
 Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste informazioni vengono aggiornate di frequente, pertanto è importante consultarle di frequente.
 
-| **Categoria** | **Annunci di agosto 2020** | **Annunciato** |
+| **Categoria** | **Annunci di settembre 2020** | **Annunciato** |
 |---------|:---------|:---------|
+|Offerte/mercati|[Nuove offerte di Microsoft Dynamics 365 in arrivo](2020-september.md#3)|1 settembre|
+|Offerte/mercati|[Piano per chiamate di Office 365 disponibile in nuovi mercati dal 1° ottobre 2020](2020-september.md#2)|1 settembre|
+|Offerte/mercati|[Microsoft Defender Advanced Threat Protection (ATP) per i server per la formazione ora disponibile](2020-september.md#1)|1 settembre|
+| **Categoria** | **Annunci di agosto 2020** | **Data** |
+|Funzionalità|[Aggiornamenti dell'API del Centro per i partner e miglioramenti dell'interfaccia utente per il processo di convalida dei clienti del settore della formazione](2020-august.md#8)|31 agosto|
 |Offerte/mercati|[Aggiornamenti alla promozione Microsoft 365 Voice](2020-august.md#7)|14 agosto|
 |Funzionalità|[Versione dell'SDK in .NET Standard v1.16.1](2020-august.md#6)|12 agosto|
 |Funzionalità|[L'acquisto self-service per Microsoft Project e Microsoft Visio sarà presto disponibile](2020-august.md#5)|12 agosto|

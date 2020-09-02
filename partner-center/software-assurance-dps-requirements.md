@@ -1,7 +1,7 @@
 ---
 title: Idoneità per la pianificazione di engagement Services
 ms.topic: article
-ms.date: 08/20/2020
+ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni sui requisiti di idoneità per ogni impegno di Software Assurance Planning Services che un'azienda potrebbe voler offrire ai clienti aziendali.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc1209794a4b12173ff25191a6f37bd0892ed54
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "88711823"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286496"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Visualizzare i requisiti di idoneità per la pianificazione di engagement Services
 
@@ -31,9 +31,6 @@ In questo argomento vengono fornite informazioni sui requisiti di idoneità che 
 ## <a name="learn-more-about-each-engagement"></a>Altre informazioni su ogni engagement
 
 Ogni impegno di pianificazione dei servizi dispone di requisiti di idoneità specifici e di durata massima consentita.
-
-> [!NOTE]
-> Prima di poter recapitare un impegno specifico del servizio di pianificazione, è necessario soddisfare diversi tipi di requisiti di competenza. In primo luogo, è necessario soddisfare i requisiti minimi di competenza da registrare nelle offerte di Planning Services. Quindi, la società deve soddisfare anche i requisiti di competenza associati alla distribuzione di un tipo specifico di engagement.
 
 Per ulteriori informazioni sui requisiti di competenza specifici per il coinvolgimento, vedere la tabella seguente.
 

@@ -1,20 +1,20 @@
 ---
 title: Analizza l'utilizzo di Azure per favorire la crescita del tuo business
-ms.date: 05/01/2020
+description: Informazioni su come usare il centro per i partner per ottenere i dati sull'utilizzo delle sottoscrizioni di Azure dei clienti.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Informazioni su come usare il centro per i partner per ottenere i dati sull'utilizzo delle sottoscrizioni di Azure dei clienti.
 author: amitravat
 ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 160191b4c881ab4b143c6a5bc3241e3fe26c701f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 05/01/2020
+ms.openlocfilehash: 40d74e22463c522333e1bdb4116369f5f6c3937a
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87526947"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367445"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Ottenere i dati sulle prestazioni dei clienti e delle sottoscrizioni di Azure
 

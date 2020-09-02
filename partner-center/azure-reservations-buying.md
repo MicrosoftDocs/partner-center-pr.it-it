@@ -1,20 +1,20 @@
 ---
 title: Acquistare Microsoft Azure prenotazioni per i clienti
+description: Scopri come acquistare o acquistare prenotazioni di Azure per conto dei tuoi clienti nel centro per i partner.
 ms.topic: article
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Scopri come acquistare o acquistare prenotazioni di Azure per conto dei tuoi clienti nel centro per i partner.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900098"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367015"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare Microsoft Azure prenotazioni per conto dei clienti nel centro per i partner
 
@@ -139,7 +139,7 @@ Attenersi alla procedura seguente per acquistare Microsoft Azure prenotazioni pe
       >Se si sceglie di limitare l'ambito della prenotazione a una singola sottoscrizione di Azure, potrebbe essere necessario aumentare la quota vCPU della sottoscrizione. Per aumentare la quota vCPU della sottoscrizione, è necessario creare una richiesta di supporto nella portale di Azure. Per creare la richiesta, seguire le istruzioni riportate [in questo argomento](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) . 
 
       >[!NOTE]   
-      >Se il cliente si trova nel piano Azure, l' **ambito** verrà impostato su **condiviso**. 
+      >Se il cliente si trova nel piano Azure, l' **ambito**  verrà impostato su **condiviso**. 
 
     - Se si è un partner del provider, selezionare il rivenditore che si desidera associare al prodotto.
     

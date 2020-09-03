@@ -1,7 +1,7 @@
 ---
 title: Scopri i vantaggi
 ms.topic: how-to
-ms.date: 08/27/2020
+ms.date: 09/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come trovare i vantaggi MPN nel dashboard del centro per i partner.
@@ -9,19 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a953eb47623bce8c0133266e26715f54557444fc
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 938197707c7a27e1485e9d22030cc4a94094197d
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220764"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427118"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Individuare i vantaggi della Microsoft Partner Network 
-
-Questo articolo indica ai membri del Microsoft Partner Network (MPN) come trovare i vantaggi MPN nel dashboard del centro per i partner. Queste informazioni includono come trovare gli ID di supporto tecnico specifici dell'azienda, ad esempio ID contratto e ID di accesso, associati ai vantaggi tecnici.
-
->[!NOTE]
-> Se l'appartenenza al Microsoft Partner Network è ancora in partner Membership Center (PMC), potrebbe essere necessario contattare un'altra risorsa, come partner Frontline, per facilitare la visualizzazione o l'attivazione di determinati vantaggi. Per informazioni dettagliate, vedere [attivare i vantaggi tecnici all'esterno del centro](partner-membership-center-tech-benefits-activate.md)per i partner.
 
 ### <a name="applies-to"></a>Si applica a
 
@@ -32,7 +27,14 @@ Questo articolo indica ai membri del Microsoft Partner Network (MPN) come trovar
 - Amministratore dei partner MPN
 - Amministratore globale
 
-Come membro di Microsoft Partner Network (MPN), l'azienda ha accesso a molti vantaggi che possono contribuire alla crescita dell'attività. Per scoprire quali sono i vantaggi seguenti:
+Questo articolo indica ai membri del Microsoft Partner Network (MPN) come trovare i vantaggi MPN nel dashboard del centro per i partner. Queste informazioni includono come trovare gli ID di supporto tecnico specifici dell'azienda, ad esempio ID contratto e ID di accesso, associati ai vantaggi tecnici.
+
+>[!NOTE]
+> Se l'appartenenza al Microsoft Partner Network è ancora in partner Membership Center (PMC), potrebbe essere necessario contattare un'altra risorsa, come partner Frontline, per facilitare la visualizzazione o l'attivazione di determinati vantaggi. Per informazioni dettagliate, vedere [attivare i vantaggi tecnici all'esterno del centro](partner-membership-center-tech-benefits-activate.md)per i partner.
+
+## <a name="find-your-mpn-benefits-in-partner-center"></a>Trovare i vantaggi MPN nel centro per i partner
+
+In qualità di Microsoft Partner Network membro, l'azienda ha accesso a molti vantaggi che possono contribuire alla crescita dell'attività. Per scoprire quali sono i vantaggi seguenti:
 
 1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard/home)del centro per i partner, selezionare **MPN**e quindi fare clic su **benefits (vantaggi**).
 
@@ -60,7 +62,7 @@ Dopo aver seguito i passaggi precedenti e aver attivato determinati vantaggi, ad
 Per i vantaggi tecnici, vengono visualizzati gli ID del supporto tecnico Microsoft, ad esempio **ID di accesso** e **ID contratto** nel centro per i partner.
 
 >[!NOTE]
-> Se l'appartenenza al Microsoft Partner Network è ancora in partner Membership Center (PMC) e non è ancora stata eseguita la migrazione al centro per i partner, sarà necessario contattare il servizio di Frontline partner per attivare i vantaggi tecnici o ricevere l'ID di accesso e l'ID del contratto di supporto.
+> Se l'appartenenza al Microsoft Partner Network è ancora in partner Membership Center (PMC) e non è ancora stata eseguita la migrazione al centro per i partner, sarà necessario contattare il servizio di [Frontline partner](partner-membership-center-tech-benefits-activate.md) per attivare i vantaggi tecnici o ricevere l'ID di accesso e l'ID del contratto di supporto.
 
  Per visualizzare queste informazioni nel centro per i partner, seguire questa procedura:
 

@@ -9,28 +9,25 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eea363576f40604465cef55e49be9be92a117d4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5b30ebc733fd935a813617477de186129076e74b
+ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434360"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89471448"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gestisci opportunità di co-selling nel centro per i partner per definire le offerte e soddisfare meglio le esigenze dei clienti
 
 **Si applica a**
 
 - Centro per i partner
-- Segnalazioni
-- Co-selling con Microsoft
-- Condivisione degli accordi
 
 **Ruoli appropriati**
 
 - Amministratore dei partner MPN
 - Amministratore delle segnalazioni
 
-È possibile sfruttare le opportunità di co-selling.  Le opportunità di co-selling sono quelle in cui è presente una vendita collaborativa eseguita da più parti per soddisfare le esigenze dei clienti. Questa sezione consente di comprendere come sfruttare la potenza di co-selling nel centro per i partner per eseguire in modo efficace la co-selling e acquisire nuovi clienti.
+Sfrutta le opportunità di co-selling.  Le opportunità di co-selling sono una collaborazione tra più parti per vendere prodotti che soddisfano le esigenze dei clienti. Questo articolo consente di comprendere come è possibile sfruttare la potenza di co-selling nel centro per i partner per co-vendere e acquisire nuovi clienti.
 
 ## <a name="types-of-co-sell-opportunities"></a>Tipi di opportunità di co-selling
 
@@ -47,9 +44,9 @@ Nella sezione di co-selling sono disponibili tre schede di primo livello.
 
 In **ingresso** : tutte le opportunità inviate al partner da venditori Microsoft per la vendita collaborativa sono disponibili in questa scheda.
 
-In **uscita** : tutte le opportunità create dal partner sono disponibili in questa scheda. i partner possono creare due diverse categorie di opportunità: co-selling e pipeline privata. 
+In **uscita** : tutte le opportunità create dal partner sono disponibili in questa scheda. I partner possono creare due diverse categorie di opportunità: co-selling e pipeline privata. 
 
-**Preferiti** : le opportunità contrassegnate come preferiti nelle schede per le opportunità di co-selling in ingresso o in uscita verranno mostrate in questa scheda. contrassegnare un'opportunità come preferita facendo clic sull'icona a forma di cuore sull'opportunità nella visualizzazione elenco. È possibile rimuovere l'opportunità dai Preferiti facendo semplicemente clic sulla stessa icona.
+**Preferiti** : le opportunità contrassegnate come preferiti nelle schede per le opportunità di co-selling in ingresso o in uscita verranno visualizzate in questa scheda. Contrassegnare un'opportunità come preferita facendo clic sull'icona a forma di cuore nell'opportunità nella visualizzazione elenco. È possibile rimuovere l'opportunità dai Preferiti facendo semplicemente clic sulla stessa icona.
 
 
 ## <a name="creating-a-co-sell-opportunity"></a>Creazione di un'opportunità di co-selling 
@@ -73,7 +70,7 @@ Quando si fa clic su **Seleziona il cliente**, verrà richiesto di immettere il 
 
 Immettere i dettagli dell'operazione corrente. I campi definiti di seguito possono cambiare quando si collabora attivamente con il cliente per chiudere l'operazione.
 
-| **Nome campo** | **Obbligatorio/facoltativo** | **Dettagli** |
+| **Nome campo** | **Obbligatorio/facoltativo** | **Informazioni dettagliate** |
 |-------------|--------|-------|
 |**Nome dell'affare** | Obbligatorio | Nome descrittivo per identificare l'operazione in un secondo momento. |
 |**Valore stimato** | Obbligatorio | Il valore dell'operazione in base alle informazioni disponibili durante la creazione dell'operazione.|
@@ -130,7 +127,25 @@ Al termine, è possibile eseguire una delle due azioni, che contrassegnano l'acc
 
 ### <a name="archived-stage"></a>Fase di archiviazione
 
-Si tratta di una fase terminale in cui tutte le opportunità sono finalmente raggiungibili. In questa fase è possibile visualizzare tutti i lead **ottenuti, persi, rifiutati**e **scaduti** . In questa fase non è possibile eseguire alcuna azione.
+Questa è la fase finale per tutte le opportunità. È possibile visualizzare tutti i lead che hanno **vinto, perso, rifiutato**ed è **scaduto** nell'archivio. In questa fase non è possibile eseguire alcuna azione.
+
+## <a name="frequently-asked-questions"></a>Domande frequenti
+
+**Q1. Un affare può essere modificato dopo che è stato contrassegnato come vinto o perduto?**
+
+No, non è possibile modificare le offerte quando si spostano in uno stato terminale. Scaduto, rifiutato, vinto e perso sono stati terminali in cui non sono possibili ulteriori aggiornamenti per l'offerta. Prestare attenzione quando si trasferisce l'operazione in uno di questi stati terminali.
+
+**Q2. È stata ricevuta una nuova notifica di riferimento, ma non è possibile trovarla nel centro per I partner?**
+
+Questo problema può verificarsi se la società ha più tenant associati allo stesso account MPN. Passare alle impostazioni dell'account del centro per i partner e verificare i tenant associati all'account. Creare quindi un ticket di supporto per richiedere il collegamento dei tenant. Fornire l'ID del tenant in cui è stato effettuato l'accesso nel ticket di supporto.
+
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Immagine che mostra le impostazioni dell'account in cui è possibile trovare informazioni sul tenant.":::
+
+**Q3. Chi riceve una notifica tramite posta elettronica dal centro per i partner?**
+
+Il flusso di lavoro seguente illustra il modo in cui i messaggi di posta elettronica vengono inviati ai partner dal sistema dei riferimenti del centro per i partner per i nuovi riferimenti in ingresso partner.
+
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Immagine che mostra la logica di invio dei messaggi di posta elettronica ai partner per i nuovi riferimenti in ingresso.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Ottenere più opportunità di co-selling
 

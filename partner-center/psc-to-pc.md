@@ -9,21 +9,18 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 207a6013f11ab795bf46e184a4e98379e3ef3301
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: f0b577049eb86eece7d9a461cf831e25c22bf2ee
+ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281343"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89471468"
 ---
 # <a name="guide-to-co-selling-in-partner-centerpc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
 
 **Si applica a**
 
-- Segnalazioni
-- Co-selling con Microsoft
-- Configurazione dell'account utente PSC
-- Utenti del partner Sales Connect (PSC) 
+- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -33,7 +30,7 @@ ms.locfileid: "89281343"
 - Amministratore di partner Sales Connect (PSC)
 - Partner Sales Connect (PSC) Deal Manager
 
-Come è noto, l'azienda perderà l'accesso a CPS dopo il 31 dicembre 2020. Troverai tutto quello che ti serve per creare offerte di co-selling, gestire le tue offerte e agire sulle offerte inviate da Microsoft Sellers all'utente nel centro per i partner. Esistono tuttavia alcune differenze e le linee guida seguenti consentono di eseguire la transizione al centro per i partner più agevole e in modo semplice.
+Come è noto, l'azienda perderà l'accesso a CPS dopo il 31 dicembre 2020. Tuttavia, troverai tutto quello che vuoi fare per creare offerte di co-selling, gestire le tue offerte e agire sulle offerte inviate da Microsoft Sellers all'utente nel centro per i partner. Esistono tuttavia alcune differenze e le linee guida seguenti consentono di eseguire la transizione al centro per i partner più agevole e in modo semplice.
 
 >[!Important]
 > Se ci si trova nel punto in cui è stato visualizzato un banner in PSC sulla migrazione, l'utente si trova nel posto giusto. Questa guida non è applicabile per la valutazione della soluzione (SA) e i partner di Internet degli altri OEM che gestiscono le proprie offerte in CPS.
@@ -43,14 +40,14 @@ Come è noto, l'azienda perderà l'accesso a CPS dopo il 31 dicembre 2020. Trove
 ### <a name="if-you-are-psc-admin"></a>Se si è amministratore di PSC
 
 - Per accedere al centro per i [partner](https://partner.microsoft.com/), è necessario un indirizzo di posta elettronica di lavoro.
-- Configurare l'account con il supporto dell' [amministratore dell'account](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)del centro per i partner.
+- Configurare l'account con il supporto dell' [amministratore dell'account](https://docs.microsoft.com/partner-center/permissions-overview)del centro per i partner.
 - Leggere questo documento per informazioni su come co-selling nel centro per i partner.
-- Configurare gli account utente nel centro per i partner per tutti gli utenti di PSC (amministratore, Deal Manager e ruoli venditore) e assegnare loro un ruolo di [amministratore di riferimento](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) .
+- Configurare gli account utente nel centro per i partner per tutti gli utenti di PSC (amministratore, Deal Manager e ruoli venditore) e assegnare loro i [ruoli di amministratore di riferimento](https://docs.microsoft.com/partner-center/permissions-overview).
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Se si è responsabile della gestione delle offerte PSC o del venditore
 
 - Per accedere al centro per i [partner](https://partner.microsoft.com/), è necessario un indirizzo di posta elettronica di lavoro.
-- Se si usa un account non di lavoro in CPS o l'indirizzo di posta elettronica aziendale è per un'azienda diversa dall'organizzazione partner, contattare l'amministratore del CPS per la guida per la configurazione dell'account.
+- Se si usa un account non di lavoro in CPS o l'indirizzo di posta elettronica aziendale è per una società diversa da quella del partner, contattare l'amministratore del CPS per la guida per la configurazione dell'account.
 - Rivolgersi all'amministratore di PSC se la configurazione dell'account del centro per i partner è completa indipendentemente dall'account usato per accedere a CPS.
 - Verificare se è possibile accedere al centro per i partner e alla sezione dei riferimenti.
 - Leggere questo documento per comprendere i flussi di lavoro e le modifiche apportate al centro per i partner.
@@ -59,7 +56,7 @@ Come è noto, l'azienda perderà l'accesso a CPS dopo il 31 dicembre 2020. Trove
 
 Se non viene visualizzata la scheda riferimenti:
 
-- L'amministratore dell' [account](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) aziendale può concedere l'accesso alla scheda riferimenti. Per trovare l'amministratore dell'account, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Selezionare la pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "account Admins". La pagina visualizzerà quindi tutti gli amministratori dell'account con i rispettivi ID di posta elettronica. Contattarli per ottenere l'accesso "referral admin" per l'account aziendale.
+- L' [amministratore globale](https://docs.microsoft.com/partner-center/permissions-overview) dell'azienda può concedere l'accesso alla scheda riferimenti. Per trovare l'amministratore globale, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Selezionare la pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "Global Admins". La pagina visualizzerà quindi tutti gli amministratori globali con i rispettivi ID di posta elettronica. Contattarli per ottenere l'accesso "referral admin" per l'account aziendale.
 
 >[!Important]
 > Se il ruolo gestisce solo gli utenti in CPS, è possibile ottenere il ruolo di [amministratore dell'account](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) nel centro per i partner. Se il ruolo include anche la gestione di opportunità di co-selling, è necessario ottenere il ruolo di [amministratore dei riferimenti](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) . Inoltre, è possibile nominare un responsabile della gestione delle modifiche tra gli amministratori del CPS per collaborare con l'amministratore dell'account del centro per i partner invece che con tutti gli amministratori del CPS che raggiungono gli amministratori dell'account in PC singolarmente.
@@ -111,7 +108,7 @@ Si tratta di un passaggio importante, che consente di prepararsi per il co-selli
 
 ## <a name="psc-and-partner-center-field-mapping"></a>Mapping dei campi di CPS e del centro per i partner
 
-Questa sezione consente di comprendere il mapping esatto degli attributi tra CPS e centro per i partner. Ogni schermata in PSC viene confrontata con la visualizzazione pertinente nella sezione opportunità di co-selling del centro partner. 
+In questa sezione viene illustrata la mappa esatta degli attributi tra CPS e centro per i partner. Ogni schermata in PSC viene confrontata con la visualizzazione pertinente nella sezione opportunità di co-selling del centro partner. 
 
 >[!Note]
 >Per trovare l'attributo equivalente nel centro per i partner, seguire i numeri sulle bolle gialle negli screenshot del CPS. Le bolle rosse indicano che il file archiviato non è disponibile nel centro per i partner.
@@ -224,7 +221,7 @@ L'ID opportunità in PSC è identico a quello dell'ID dell'accordo in PC. È pos
 
 Non è possibile accedere direttamente al centro per i partner PDM a differenza di PSC. Sono disponibili più opzioni per abilitare questa funzionalità, come indicato di seguito.
 
-- Informazioni dettagliate su OCP: se PDM sono semplicemente in grado di visualizzare le offerte & stato di avanzamento correlato, possono usare il portale di OCP Insights per ottenere la visualizzazione dell'organizzazione. Si tratta di uno strumento interno ed è disponibile solo per PDM e per gli utenti. Si noti che OCP Insights non è disponibile per gli utenti della società.
+- Informazioni dettagliate su OCP: se PDM sono semplicemente in grado di visualizzare le offerte & stato di avanzamento correlato, possono usare il portale di OCP Insights per ottenere la visualizzazione dell'organizzazione. Si tratta di uno strumento interno ed è disponibile solo per PDM. Si noti che OCP Insights non è disponibile per gli utenti della società.
 - Utente guest in centro per i partner: è possibile aggiungere l' @microsoft.com account PDM come utente Guest nel centro per i partner e assegnare loro un ruolo di amministratore in modo che possano visualizzare e agire sui riferimenti.
 - Creazione di un [nuovo utente](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) nel tenant: è possibile creare un nuovo utente nel tenant e condividere i dettagli con il PDM in modo che possano visualizzare i riferimenti e agire su di essi in modo analogo ad altri utenti di riferimento nell'account.
 

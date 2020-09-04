@@ -9,18 +9,57 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: 6382e5e594dbe68c63cbbad1313948fedcf0fd89
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303057"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274989"
 ---
 # <a name="august-2020-announcements"></a>Annunci di agosto 2020
 
 Questa pagina illustra in dettaglio gli annunci per il Centro per i partner Microsoft di agosto 2020.
 
 Annunci 2020: [Gennaio](2020-january.md) | [Febbraio](2020-february.md) | [Marzo](2020-march.md) | [Aprile](2020-april.md) | [Maggio](2020-may.md) | [Giugno](2020-june.md) | [Luglio](2020-july.md) | Agosto
+
+________________
+
+## <a name="partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="8"></a>Aggiornamenti dell'API del Centro per i partner e miglioramenti dell'interfaccia utente per il processo di convalida dei clienti del settore della formazione
+
+### <a name="categories"></a>Categorie
+
+- Data: 31-08-2020
+- Funzionalità
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner che vendono offerte per il settore accademico tramite il programma Cloud Solution Provider (CSP) 
+
+### <a name="summary"></a>Riepilogo
+
+Microsoft si impegna a fornire un metodo di convalida dei clienti conforme e sicuro per la vendita di offerte per il settore accademico nel programma Cloud Solution Provider. Nell'ambito di questo impegno, nel secondo trimestre di questo anno fiscale (FY21 Q2) verranno introdotti miglioramenti all'interfaccia utente e all'API del Centro per i partner. Tali miglioramenti aggiungeranno chiarezza e visibilità al processo di verifica dei clienti, nonché la possibilità di inserire dati più accurati che consentiranno di migliorare il processo di analisi dei clienti. 
+
+#### <a name="partner-center-enhancements"></a>Miglioramenti del Centro per i partner
+
+- Nuove API di qualifica GET e POST per supportare l'inserimento preciso dei dati e migliorare il processo di convalida dei clienti del settore della formazione da parte di Microsoft.
+- Miglioramenti dell'interfaccia utente per supportare l'inserimento preciso dei dati e migliorare il processo di convalida dei clienti del settore della formazione da parte di Microsoft.
+
+#### <a name="testing"></a>Test
+
+I partner avranno la possibilità di testare questi miglioramenti a partire da ottobre. È consigliabile sfruttare questa opportunità per comprendere meglio le API e l'immissione di dati necessari per l'analisi corretta dei clienti. A breve verranno fornite altre informazioni sulla tempistica esatta e sulle modalità di partecipazione. Le API del Centro per i partner esistenti verranno ritirate prima della fine del secondo trimestre dell'anno fiscale 2021 (FY21 Q2), data entro la quale tutti i partner dovranno aver compiuto la transizione all'uso delle nuove API del Centro per i partner.
+
+#### <a name="library-and-museum-customers"></a>Clienti del settore biblioteche e musei
+
+Oltre ai miglioramenti descritti in precedenza, Microsoft è lieta di annunciare che, in FY21 Q2, verranno abilitate offerte a prezzo accademico per biblioteche e musei, espandendo i clienti del settore della formazione con cui è possibile eseguire transazioni CSP.
+
+Microsoft si riserva il diritto di esaminare lo stato di qualsiasi cliente effettivo o potenziale per verificarne i requisiti di utente del settore della formazione. Per informazioni dettagliate, vedere i [requisiti dell'utente qualificato del settore della formazione](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).
+
+### <a name="next-stepsadditional-resources"></a>Passaggi successivi/risorse aggiuntive
+
+- Vedere la nuova interfaccia utente del Centro per i partner e le modifiche apportate alle API nelle risorse per l'idoneità per le operazioni: [Miglioramenti del processo di convalida dei clienti del settore della formazione nel Centro per i partner](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Verificare che l'organizzazione conosca i [requisiti dell'utente qualificato del settore della formazione](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).
+- Condividere queste informazioni con i team appropriati all'interno dell'organizzazione e con i rivenditori, per aiutarli nella preparazione per queste modifiche.
+- Controllare gli aggiornamenti nell'opportunità di test di ottobre, in cui verranno fornite informazioni dettagliate sulla tempistica esatta e sulle modalità di partecipazione.
 
 ________________
 

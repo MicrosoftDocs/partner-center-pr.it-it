@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: efae9cce608524835c8e4526f23e61b793470d2b
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
+ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811111"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89304978"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Verificare le informazioni relative al profilo del partner nel Centro per i partner
 
@@ -25,7 +25,7 @@ ms.locfileid: "87811111"
 
 Al primo accesso al Centro per i partner come amministratore globale, devi verificare che tutti i dettagli aziendali siano corretti. Tra cui, contatto principale, indirizzo, ragione sociale e informazioni sul programma. Se la società ha più di una località, verificare l'accuratezza dei dati della località. Come amministratore globale, amministratore fatturazione o agente di amministrazione, sarà possibile visualizzare e aggiornare le informazioni di fatturazione e fiscali.
 
-Il profilo partner è costituito dalle informazioni aziendali legali, dal nome del contatto principale e dall'indirizzo di posta elettronica, dai programmi a cui la società partecipa e, se pertinente, dalle altre società fuse con l'azienda legale.
+Il profilo partner è costituito dalle informazioni aziendali legali, dal nome del contatto principale e dall'indirizzo di posta elettronica, dai programmi a cui la società partecipa e, se pertinente, dalle altre società fuse con l'azienda legale. Verificare che il nome e l'indirizzo della società nel profilo aziendale legale siano privi di errori di ortografia e abbreviazioni e che corrispondano esattamente ai record ufficiali di iscrizione al registro delle imprese. Se si opera come impresa individuale, è necessario usare come ragione sociale il nome della società.
 
 1. Andare in **Impostazioni** e selezionare **Profilo partner**.
 
@@ -39,7 +39,7 @@ Se sono state unite le altre società all'interno dell'azienda legale, è possib
 
 1. Andare in **Impostazioni** e selezionare **Profilo partner**. 
 
-2. Selezionare **Aggiorna** accanto all'indirizzo legale. ""
+2. Selezionare **Aggiorna** accanto all'indirizzo legale. 
 
 >[!Important]
 >Se sei un partner CSP non puoi modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è associato al tenant e ai servizi, nonché alla valuta con cui si lavora. Se invece non si è nel programma CSP, puoi modificare il paese associato all'indirizzo legale. Non puoi aggiornare il nome dell’azienda legale nel Centro per i partner se lo stato verificato è "Authorized" (Autorizzato). Sarà necessario [creare un ticket di supporto](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).

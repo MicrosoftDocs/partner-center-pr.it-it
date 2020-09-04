@@ -1,7 +1,7 @@
 ---
 title: Requisiti di base delle attestazioni di cooperazione per gli incentivi
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 08/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Informazioni su come generare la domanda, comprendere lo sviluppo del mercato e aumentare la disponibilità dei partner per le attività del programma incentivi.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3246b04c74e1d5daa047a12fabcf78d4e6f11807
-ms.sourcegitcommit: ddc99fa026f3e8a3dbe10b4a6f883e7f58de00df
+ms.openlocfilehash: 070f73cbb8387510d7fe358e48c1116b16630fad
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/10/2020
-ms.locfileid: "88039464"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220669"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>Requisiti di base delle attestazioni cooperative per gli incentivi
 
@@ -208,7 +208,7 @@ Nelle tabelle seguenti sono riportati i requisiti di base per ciascuna delle att
 | Metriche     | N/D |
 |Spese idonee    | N/D |
 
- Per i dettagli, scarica il [Manuale di cooperazione per gli incentivi per i partner](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (sono richieste informazioni di accesso)
+ Per informazioni dettagliate, scaricare il [manuale co-op per gli incentivi per i partner](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (è richiesto l'accesso).
 
 ## <a name="next-steps"></a>Passaggi successivi
 

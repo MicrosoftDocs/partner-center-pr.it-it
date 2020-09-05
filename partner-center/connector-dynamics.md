@@ -8,12 +8,12 @@ description: Sincronizzare i riferimenti nel centro per i partner con Dynamics 3
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cbdefb46691bf10ca1525190729a056f222ee90
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0071de30b47ee987be027b3586c1df9eef300b05
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527577"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490669"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-selling Connector per Dynamics 365 CRM-Panoramica
 
@@ -28,7 +28,7 @@ La soluzione è basata sulla soluzione Microsoft Power automatizzate e usa le AP
 
 ## <a name="before-you-install---pre-requisites"></a>Prima di installare-prerequisiti
 
-|**Argomenti**   |**Dettagli**   |**Collegamenti**   |
+|**Argomenti**   |**Informazioni dettagliate**   |**Collegamenti**   |
 |--------------|--------------------|------|
 |ID Microsoft Partner Network |È necessario un ID MPN valido|Per aggiungere [MPN](https://partner.microsoft.com/)|
 |Coselling pronto|La soluzione IP/servizi deve essere pronta per il co-selling.|[Vendi con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -109,7 +109,7 @@ Le API webhook del centro per i partner consentono di effettuare la registrazion
 
 1. Per registrare l'URL, selezionare il flusso di registrazione del webhook per il centro per i **partner (anteprima di insider Preview)** .
 
-2. Aggiungi connessioni per (a) Utente del centro per i partner con credenziali di amministratore di riferimento (b) Eventi del centro per i partner evidenziati di seguito
+2. Aggiungere le connessioni per l'utente del centro per i partner (a.) con le credenziali di amministratore di riferimento (b.) eventi del centro per i partner come indicato di seguito
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Trigger":::
 
@@ -171,7 +171,7 @@ Spesso i sistemi CRM sono altamente personalizzati. È possibile personalizzare 
 
 3. Per personalizzare i campi per la sincronizzazione dei riferimenti da CRM a PC per gli eventi di aggiornamento:
 
-    a. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
+    a. Selezionare **modifica**  per modificare/personalizzare il flusso di automazione dell'alimentazione.
 
     b. Selezionare **(ambito) sincronizzare l'opportunità**.
 
@@ -183,7 +183,7 @@ Spesso i sistemi CRM sono altamente personalizzati. È possibile personalizzare 
 
 4. Per personalizzare i campi per la sincronizzazione dei riferimenti da CRM a PC per la creazione di eventi?
 
-   a. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
+   a. Selezionare **modifica**  per modificare/personalizzare il flusso di automazione dell'alimentazione.
 
    b. Selezionare **(ambito) sincronizzare i riferimenti.**
 
@@ -223,7 +223,7 @@ I campi personalizzati seguenti devono far parte della sezione CRM:
 
    2. Assicurarsi che la sezione seguente sia presente quando si crea una "nuova opportunità" nell'ambiente Dynamics 365
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Opportunità":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Sezione dell'opportunità di esempio che mostra le informazioni sul centro per i partner Microsoft in Dynamics 365.":::
 
    3. Per sincronizzare questa opportunità con Microsoft Partner Center, assicurarsi di impostare i campi seguenti nella visualizzazione scheda:
 
@@ -231,7 +231,7 @@ I campi personalizzati seguenti devono far parte della sezione CRM:
 
       - **Come può essere utile Microsoft?**: selezionare una delle opzioni seguenti:
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Selezioni della Guida":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Sezione dell'opportunità di esempio in Dynamics 365 che mostra le opzioni della Guida di Microsoft Partner Center accanto a un campo denominato come può essere utile Microsoft?":::
 
       - **Prodotti**: ID soluzione del prodotto
 

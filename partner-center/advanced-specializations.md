@@ -9,16 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0aa6efabbff39d63847451c667d48f723ad33b24
-ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
+ms.openlocfilehash: 4daaaa9cdaa0392b90a67d7fc0a8957d3393d6e3
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88942563"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490619"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Ottieni una specializzazione avanzata per dimostrare le competenze e i clienti 
 
-Distinguersi con i clienti guadagnando una specializzazione avanzata. Le specializzazioni avanzate sono la convalida della capacità di fornire servizi ad alta fedeltà in un'area della soluzione specifica. I clienti visualizzeranno la specializzazione avanzata visualizzata nel profilo aziendale nella directory dei partner. [Altre informazioni](https://partner.microsoft.com/membership/advanced-specialization)
+Distinguersi con i clienti guadagnando una specializzazione avanzata. Le specializzazioni avanzate sono la convalida della capacità di fornire servizi ad alta fedeltà in un'area della soluzione specifica. I clienti visualizzeranno la specializzazione avanzata visualizzata nel profilo aziendale nella directory dei partner. [Altre informazioni](https://partner.microsoft.com/membership/advanced-specialization).
 
 ## <a name="use-partner-center-to-move-through-the-application-process"></a>Usare il centro per i partner per spostarsi nel processo dell'applicazione
 
@@ -28,7 +28,7 @@ Per ottenere una specializzazione avanzata, è necessario che la società abbia 
 
 Se si è interessati alla specializzazione avanzata denominata **modernizzazione delle applicazioni Web per Microsoft Azure**, selezionarla dal menu centro per i partner. Viene eseguita la pagina dei prerequisiti.
 
-:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Prerequisiti":::
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Pagina dei prerequisiti di esempio che mostra i requisiti per ottenere una competenza attiva della piattaforma cloud in oro.":::
 
 
 Fino a quando non sono stati soddisfatti tutti i prerequisiti, lo stato rimane **non avviato.** Una volta soddisfatti i prerequisiti, il pulsante **Pianifica controllo** è abilitato. È necessario completare un controllo con un revisore di terze parti per le specializzazioni avanzate di Azure seguenti:
@@ -47,7 +47,7 @@ Una volta completati tutti i requisiti, lo stato è **attivo**. Lo stato attivo 
 
 Un esempio di specializzazione avanzata che richiede riferimenti ai clienti è costituito da **riunioni e sale riunioni per Microsoft teams**. Oltre alla competenza Gold, alle certificazioni e ai requisiti di prestazioni, è necessario fornire tre riferimenti ai clienti che dimostrano la possibilità di distribuire e gestire.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Prerequisiti":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Pagina dei prerequisiti di specializzazioni avanzate di esempio che richiede riferimenti ai clienti.":::
 
 Fino a quando non sono stati soddisfatti tutti i prerequisiti, lo stato rimane **non avviato.** Una volta completati tutti i requisiti, lo stato è **attivo**. Lo stato attivo Abilita automaticamente un tag nel **profilo business** visibile a tutti i clienti che cercano di [trovare un provider di soluzioni](https://www.microsoft.com/solution-providers/home).
 

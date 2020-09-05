@@ -1,22 +1,22 @@
 ---
-title: Riferimenti 101 per i partner che eseguono la migrazione da partner Sales Connect (PSC) al centro per i partner (PC)
+title: Eseguire la migrazione da partner Sales Connect (PSC)
 ms.topic: article
 ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: I partner Microsoft qualificati possono co-vendere con Microsoft. Scopri come definire le offerte, invitare Microsoft a collaborare o visualizzare le offerte inviate.
+description: Scopri in che modo i partner Microsoft possono eseguire la migrazione da partner Sales Connect (PSC) al centro per i partner e creare o gestire le offerte inviate dai venditori Microsoft.
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f0b577049eb86eece7d9a461cf831e25c22bf2ee
-ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
+ms.openlocfilehash: 936a1ec026ce502037d419874a169d3afdca5472
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 09/04/2020
-ms.locfileid: "89471468"
+ms.locfileid: "89490659"
 ---
-# <a name="guide-to-co-selling-in-partner-centerpc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
+# <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
 
 **Si applica a**
 

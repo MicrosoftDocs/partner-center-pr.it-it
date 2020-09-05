@@ -9,12 +9,12 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2509068cc035dda1dc8494a7989bd375a45c6f26
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545662"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490649"
 ---
 # <a name="view-digitally-signed-invoices"></a>Visualizza fatture con firma digitale
 
@@ -34,19 +34,19 @@ I partner in India vedono ora che Microsoft ha firmato digitalmente le fatture. 
 
 2. Nella parte superiore della fattura verrà visualizzato **firmato e tutte le firme saranno valide**.
  
- :::image type="content" source="images/digitalsig/digital1.png" alt-text="firma valida":::
+ :::image type="content" source="images/digitalsig/digital1.png" alt-text="Una fattura di esempio con banner di notifica della firma valido che mostra la firma del segno di spunta verde e la frase, firmata e tutte le firme valide.":::
 
-3. Fare clic sulla firma. Viene visualizzata la validità del certificato.
+3. Fare clic sulla firma. Verrà visualizzata la validità del certificato.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="certificato"::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Finestra di dialogo fattura firmata con stato di convalida del campo e della firma autorizzata con informazioni dettagliate, opzione Proprietà firma, opzione Annulla."::: 
 
 4. Selezionare **Proprietà firma** per visualizzare altri dettagli sulla validità della firma.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Proprietà firma"::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Visualizzazione Dettagli Proprietà firma Mostra informazioni su chi, dove, quando il documento è stato firmato, il processo di convalida e il certificato del firmatario."::: 
 
 4. È anche possibile verificare che i percorsi di certificazione siano corretti e che il certificato sia attendibile.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="certificato":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="Nella finestra di dialogo Visualizzatore certificati sono visualizzate diverse schede con ulteriori dettagli su un certificato e sull'intera catena di rilascio.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Ulteriori informazioni sulle fatture e le firme digitali
 

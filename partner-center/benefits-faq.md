@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: dbedfdb2001966a78f1453ee45615ab9418d968a
-ms.sourcegitcommit: 9ad926be9f5d245b307bc7d3975ff3973dba3161
+ms.openlocfilehash: ea89b3dae9d57957431e6e23c5fd102de3898d8f
+ms.sourcegitcommit: b5dd3427cec176a55f00394f4f33b2b570d4abd5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "88188438"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "89551642"
 ---
 # <a name="benefits-faq"></a>Domande frequenti sui vantaggi
 
@@ -94,6 +94,8 @@ Non è possibile combinare offerte di credito bulk di Azure con altre offerte. S
 4. Assegnare gli utenti desiderati alle sottoscrizioni di Visual Studio esistenti disponibili.
 
 Dopo aver assegnato la sottoscrizione, l'utente deve accedere a Visual Studio per gestirlo.
+
+Nota: non è possibile rimuovere l'utente assegnato a una sottoscrizione di Visual Studio nel centro per i partner fino a 90 giorni di assegnazione originale
 
 ## <a name="technical-benefits-and-support"></a>Vantaggi e supporto tecnico
 

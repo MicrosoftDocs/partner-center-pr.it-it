@@ -1,7 +1,7 @@
 ---
 title: Domande frequenti sui vantaggi
 ms.topic: article
-ms.date: 06/17/2020
+ms.date: 09/08/2020
 description: Risposte alle domande sulla scadenza, il rinnovo e l'attivazione delle licenze per Azure, cloud, Visual Studio e i vantaggi tecnici e di supporto
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: ea89b3dae9d57957431e6e23c5fd102de3898d8f
-ms.sourcegitcommit: b5dd3427cec176a55f00394f4f33b2b570d4abd5
+ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "89551642"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564731"
 ---
 # <a name="benefits-faq"></a>Domande frequenti sui vantaggi
 
@@ -95,7 +95,8 @@ Non è possibile combinare offerte di credito bulk di Azure con altre offerte. S
 
 Dopo aver assegnato la sottoscrizione, l'utente deve accedere a Visual Studio per gestirlo.
 
-Nota: non è possibile rimuovere l'utente assegnato a una sottoscrizione di Visual Studio nel centro per i partner fino a 90 giorni di assegnazione originale
+>[!Note]
+> Un utente assegnato a una sottoscrizione di Visual Studio nel centro per i partner non può essere rimosso fino a 90 giorni dopo l'assegnazione originale.
 
 ## <a name="technical-benefits-and-support"></a>Vantaggi e supporto tecnico
 

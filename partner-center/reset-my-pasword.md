@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8618e6b75e6d45ebe37510b398c2f03c9e1e9c8
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 216858aff2ecbb5eb11c739db0a0a7ad6ee390f1
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811281"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564771"
 ---
 # <a name="reset-my-password"></a>Reimpostare la password
 
@@ -38,13 +38,13 @@ L'amministratore globale deve avere configurato la possibilità di reimpostare l
 
 2. Selezionare **account aziendale o dell'Istituto di istruzione**.
 
-3. Viene richiesto di immettere l'ID utente e i caratteri dell'immagine o dell'audio. Fare quindi clic su **Avanti**.
+3. Viene richiesto di immettere l'ID utente e i caratteri dell'immagine o dell'audio. Quindi selezionare **Avanti**.
 
 4. Configurare la nuova password.
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>Se l'amministratore globale ha lasciato la società
 
-Se l'amministratore globale ha lasciato la società o è stato spostato su un altro ruolo ed è necessario aggiungere un nuovo amministratore globale, è necessario registrare una richiesta di servizio nel [portale di Microsoft Partner Network](https://partner.microsoft.com/commercial#/). L'agente di supporto può richiedere l'elevazione di un utente all'amministratore globale se il richiedente è in grado di fornire le informazioni di identità personali necessarie e fornire informazioni aggiuntive sull'azienda.
+Se l'amministratore globale ha lasciato la società o è stato spostato su un altro ruolo ed è necessario aggiungere un nuovo amministratore globale, è necessario registrare una richiesta di servizio nel [portale di Microsoft Partner Network](https://partner.microsoft.com/commercial#/). L'agente di supporto può richiedere l'elevazione di un utente all'amministratore globale se il richiedente è in grado di fornire le informazioni di identità personali necessarie e fornire informazioni aggiuntive sull'azienda. 
 
 ## <a name="next-steps"></a>Passaggi successivi
 

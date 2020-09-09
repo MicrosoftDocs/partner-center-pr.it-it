@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b237e3de6318b139812f168e0436daedcb96ac5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 475251477ac6b505f76b1175dff158db732e4794
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811171"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614138"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Se non è possibile accedere al centro per i partner ed è necessario reimpostare la password
 
@@ -22,7 +22,7 @@ ms.locfileid: "87811171"
 
 - Utenti del centro per i partner
 
-Se la password è stata dimenticata e non è possibile accedere al centro per i partner, è necessario contattare il supporto tecnico. Trova il contatto appropriato al [supporto tecnico per i prodotti aziendali](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone#ID0EAADAAA=Phone_support_). 
+Se la password è stata dimenticata e non è possibile accedere al centro per i partner, è necessario contattare il supporto tecnico. Trova il contatto appropriato al [supporto tecnico per i prodotti aziendali](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products). 
 
 Per i diversi modi in cui è possibile reimpostare la password e riottenere l'accesso all'account aziendale, vedere [reimpostare la password aziendale o dell'Istituto di istruzione usando le info di sicurezza](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).
 
@@ -30,7 +30,7 @@ Dopo la reimpostazione della password dell'account di lavoro, sarà possibile ac
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Verificare le informazioni dell'account](verification-responses.md)
+- [Verificare le informazioni sull'account](verification-responses.md)
 - [Reimpostare la password personale](reset-my-pasword.md)
 - [Reimpostare una password utente](reset-a-user-password.md)
 

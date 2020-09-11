@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3feb4e678381b6fa5398bf3b3d89f6e4286e6ff1
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 2e8608c194057ea811890c9c575f8964b63564f0
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040767"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490599"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Assegnare ruoli utente e autorizzazioni per gli utenti di un'azienda che devono usare il Centro per i partner
 
@@ -35,25 +35,24 @@ Puoi determinare i tipi di accesso al Centro per i partner di cui dispongono gli
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gestire le transazioni commerciali nel Centro per i partner (ruoli Azure AD e CSP)
 
-|**Ruolo**|**Operazioni consentite**|
-|----------------------------------|:---------------------------------|
-|Amministratore globale|*    Accesso a tutti gli account/servizi Microsoft con privilegi completi
+|**Ruolo**|**Operazioni consentite**|**Altre informazioni**|
+|----------------------------------|---|:---------------------------------|
+|Amministratore globale|*    Accesso a tutti gli account/servizi Microsoft con privilegi completi|[Gestire l'account per il Centro per i partner](partner-center-account-setup.md)
 |      |*    Creazione di ticket di supporto per il Centro per i partner
 ||*    Visualizzazione dei ticket di supporto per i partner creati
 ||*    Visualizzazione di contratti, listini prezzi e offerte
 ||*    Visualizzazione, creazione e gestione di utenti partner|
 ||  Visualizzazione, creazione e gestione della fatturazione, delle fatture e dei file di riconciliazione
-|Amministratore gestione utenti   | *    Visualizzazione, creazione e gestione di utenti
+|Amministratore gestione utenti   | *    Visualizzazione, creazione e gestione di utenti|[Gestire i vantaggi derivanti dall'appartenenza a Microsoft Partner Network nel Centro per i partner](manage-your-partner-network-benefits.md)
 ||*    Visualizzazione di tutti i profili dei partner
-||*    Visualizzazione, creazione e gestione di utenti partner  |
 ||*    Creazione di ticket di supporto per il Centro per i partner
 ||*    Visualizzazione dei ticket di supporto per i partner creati
-|Amministratore fatturazione | - Visualizzazione, creazione e gestione della fatturazione, delle fatture e dei file di riconciliazione|
+|Amministratore fatturazione | - Visualizzazione, creazione e gestione della fatturazione, delle fatture e dei file di riconciliazione|[Leggere la fattura](billing.md)
 ||*    Visualizzazione dei prezzi
 ||*    Creazione di ticket di supporto per il Centro per i partner
 ||*    Visualizzazione dei ticket di supporto per i partner creati
-|Utente predefinito|  Visualizzazione del profilo personale   |
-|Agente amministratore | *    Gestione dei clienti
+|Utente predefinito|  Visualizzazione del profilo personale   |[Reimpostare la password](reset-my-pasword.md)
+|Agente amministratore | *    Gestione dei clienti|[Configurazione e gestione degli account cliente per i partner rivenditori nel Centro per i partner](customer-accounts.md)
 ||*    Aggiunta dell'elenco dei dispositivi al Centro per i partner
 ||*    Creazione e applicazione di profili ai dispositivi
 ||*    Gestione degli abbonamenti
@@ -65,7 +64,7 @@ Puoi determinare i tipi di accesso al Centro per i partner di cui dispongono gli
 ||*    Registrazione di un rivenditore a valore aggiunto
 ||*    Creazione di ticket di supporto per il Centro per i partner
 ||*    Visualizzazione dei ticket di supporto per i partner creati|
-|Agente di vendita | *    Gestione dei clienti
+|Agente di vendita | *    Gestione dei clienti|[Fornire ai clienti supporto per la fatturazione e rispondere alle domande sulla fatturazione](provide-billing-support.md)
 ||*    Aggiunta dell'elenco dei dispositivi al Centro per i partner
 ||*    Gestione degli abbonamenti
 ||*    Visualizzazione dei ticket di supporto
@@ -76,7 +75,7 @@ Puoi determinare i tipi di accesso al Centro per i partner di cui dispongono gli
 ||*    Registrazione di un rivenditore a valore aggiunto
 ||*    Creazione di ticket di supporto per il Centro per i partner
 ||*    Visualizzazione dei ticket di supporto per i partner creati|
-|Agente di supporto tecnico| *    Ricerca e visualizzazione di un cliente
+|Agente di supporto tecnico| *    Ricerca e visualizzazione di un cliente|[Riassegnare i problemi a Microsoft e imparare a conoscere i problemi pi√π adatti per la riassegnazione a Microsoft](escalate-problems-to-microsoft.md)
 ||*    Modifica dei dettagli dei clienti
 ||*    Supporto per la risoluzione dei problemi dei clienti con la gestione di fatturazioni o abbonamenti
 ||*    Richiesta di supporto per conto dei clienti 
@@ -87,9 +86,9 @@ Puoi determinare i tipi di accesso al Centro per i partner di cui dispongono gli
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Fornitore del pannello di controllo (CPV) (ruolo CSP e ruolo non AAD)
 I CPV sviluppano app destinate ai partner CSP (Cloud Solution Provider) affinch√© possano integrare i loro sistemi con le API del Centro per i partner. 
 
-|**Ruolo**   |**Operazioni consentite**|
-|------------------------------|:----------------------------|
-|Amministratore globale| Visualizzazione e gestione del profilo dei fornitori di pannelli di controllo|
+|**Ruolo**   |**Operazioni consentite**|**Altre informazioni**|
+|------------------------------|:----------------------------|----|
+|Amministratore globale| Visualizzazione e gestione del profilo dei fornitori di pannelli di controllo|[Iscriversi come fornitore del pannello di controllo per integrare i sistemi di partner CSP con le API del Centro per i partner](enroll-as-cpv.md)
 ||Visualizzazione e gestione degli utenti che devono accedere alle funzionalit√† dei fornitori di pannelli di controllo|
 
 ### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Utente guest (deve essere aggiunto al tenant di AAD)
@@ -105,9 +104,9 @@ I CPV sviluppano app destinate ai partner CSP (Cloud Solution Provider) affinch√
 
 ## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Gestione dell'appartenenza a MPN e dell'azienda (ruoli non AAD: questi ruoli gestiscono l'attivit√† dell'azienda anzich√© il tenant)
 
-|**Ruolo** | **Operazioni consentite**|
-|----------------------------|:----------------------------|
-|Amministratore dei partner MPN|*    Visualizzazione, creazione e gestione delle richieste di servizio dei partner||
+|**Ruolo** | **Operazioni consentite**|**Altre informazioni**|
+|----------------------------|:----------------------------|-----|
+|Amministratore dei partner MPN|*    Visualizzazione, creazione e gestione delle richieste di servizio dei partner|[Acquistare o rinnovare un abbonamento a Microsoft Action Pack oppure competenze Silver o Gold](mpn-get-action-pack.md)
 ||*    Visualizzazione di profili legali, aziendali, commerciali e MPN
 ||*    Visualizzazione dei dettagli dell'utente e dei relativi dati delle competenze
 ||*    Visualizzazione delle competenze
@@ -120,7 +119,7 @@ I CPV sviluppano app destinate ai partner CSP (Cloud Solution Provider) affinch√
 ||*    Visualizzazione di altri ruoli utente all'interno dell'azienda, senza la possibilit√† di assegnare ruoli
 ||*    Creazione di ticket di supporto per il Centro per i partner
 ||*    Visualizzazione dei ticket di supporto per i partner creati
-|Amministratore degli account| Aggiunta di posizioni
+|Amministratore degli account| Aggiunta di posizioni|[Gestire le sedi](manage-locations.md)
 || Gestione di profili relativi agli account amministrati 
 ||*    Assegnazione di ruoli per gli utenti nel tenant a ruoli non AAD 
 ||*    Registrazione di posizioni nei programmi
@@ -130,22 +129,22 @@ I CPV sviluppano app destinate ai partner CSP (Cloud Solution Provider) affinch√
 
 ## <a name="manage-referrals"></a>Gestione delle segnalazioni 
 
-|**Ruolo**|**Operazioni consentite**|
-|-----------------------------|:------------------------|
-|Amministratore delle segnalazioni       |*    Visualizzazione, creazione e gestione dei profili di business
+|**Ruolo**|**Operazioni consentite**|**Altre informazioni**|
+|-----------------------------|:------------------------|---|
+|Amministratore delle segnalazioni       |*    Visualizzazione, creazione e gestione dei profili di business|[Gestire lead diversi come richieste dei clienti, lead qualificati per il marketing e lead qualificati per le vendite](manage-leads.md)
 ||*    Ricezione e gestione delle segnalazioni
 ||*    Visualizzazione, creazione e gestione delle segnalazioni di co-selling|
 ||*    Visualizzazione, creazione e gestione delle richieste di servizio dei partner
-|Amministratore del profilo di business   |*    Visualizzazione, creazione e gestione del profilo di business 
+|Amministratore del profilo di business   |*    Visualizzazione, creazione e gestione del profilo di business |[Creare un profilo business](create-a-marketing-profile.md)
 ||*    Visualizzazione, creazione e gestione delle richieste di servizio dei partner
 ||*    Creazione di ticket di supporto per il Centro per i partner
 ||*    Visualizzazione dei ticket di supporto per i partner creati|
 
 ## <a name="manage-incentives"></a>Gestione degli incentivi 
 
-|**Ruolo** | **Operazioni consentite**|
-|------------------------------|:-------------------------|
-|Amministratore degli incentivi|*    Avvio e gestione di incentivi 
+|**Ruolo** | **Operazioni consentite**|**Altre informazioni**
+|------------------------------|:-------------------------|---|
+|Amministratore degli incentivi|*    Avvio e gestione di incentivi |[Risorse utili per iniziare a usare gli incentivi](incentives-get-started-intro.md)
 ||*    Visualizzazione e modifica di tutti gli aspetti dei programmi di incentivi
 ||*    Visualizzazione e modifica dei dettagli bancari e fiscali
 ||*    Visualizzazione di sconti e utili in collaborazione
@@ -159,12 +158,15 @@ I CPV sviluppano app destinate ai partner CSP (Cloud Solution Provider) affinch√
 
 ## <a name="view-partner-center-insights-data"></a>Visualizzare i dati di Insights del Centro per i partner
 
-|**Ruolo** | **Operazioni consentite**|
-|------------------------------|:-------------------------|
-|Visualizzatore di report esecutivi|Accesso a tutti i set di dati di reporting, creazione di ticket di supporto per i partner, visualizzazione dei ticket di supporto per i partner creati|
+|**Ruolo** | **Operazioni consentite**|**Altre informazioni**|
+|------------------------------|:-------------------------|---|
+|Visualizzatore di report esecutivi|Accesso a tutti i set di dati di reporting, creazione di ticket di supporto per i partner, visualizzazione dei ticket di supporto per i partner creati|[Report del dashboard di panoramica disponibili in Insights del Centro per i partner](pci-overview-report.md)
 |Visualizzatore di report|Accesso ai report di dati tranne quelli relativi ai ricavi e ai dati personali di clienti e dipendenti, creazione di ticket di supporto per i partner, visualizzazione dei ticket di supporto per i partner creati|
 
+## <a name="next-steps"></a>Passaggi successivi
 
+- [Creare account utente e assegnare ruoli e autorizzazioni](create-user-accounts-and-set-permissions.md)
+- [Verificare le informazioni sull'account quando si effettua l'iscrizione a un nuovo programma del Centro per i partner](verification-responses.md)
 
 
 

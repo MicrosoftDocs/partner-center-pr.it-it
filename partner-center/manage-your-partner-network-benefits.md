@@ -1,7 +1,7 @@
 ---
 title: Gestire i vantaggi derivanti dall'appartenenza a Microsoft Partner Network
 ms.topic: article
-ms.date: 08/27/2020
+ms.date: 09/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Aderisci a Microsoft Partner Network (MPN) e usa il Centro per i partner per gestire i vantaggi e le offerte associati all'appartenenza che possono contribuire alla crescita della tua azienda.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff62fbcd082dc69204831cc57bc7af36b83762fa
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ee0158bfd902e1cc0a4a664b6d051a41d1e209ce
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220749"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427088"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gestire i vantaggi derivanti dall'appartenenza a Microsoft Partner Network nel Centro per i partner
 
@@ -69,7 +69,7 @@ Per attivare quasi tutti i vantaggi o scaricare le chiavi del software correlate
 
 2. Trova la sottoscrizione o il prodotto che vuoi iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli del prodotto o della sottoscrizione.
 
-3. Per attivare le sottoscrizioni in base all'uso di Microsoft Azure, assegna te stesso come utente. Vai al portale di Microsoft Azure per gestire la sottoscrizione.
+3. Per attivare le sottoscrizioni in base all'uso di Microsoft Azure, assegna te stesso come utente. Passare al portale di Microsoft Azure per gestire la sottoscrizione.
 
    Per attivare le sottoscrizioni in base alle licenze, seleziona **Ottieni chiavi** per copiare i codici di licenza del prodotto e quindi segui le istruzioni speciali per attivare la sottoscrizione.  
 
@@ -106,12 +106,23 @@ Per visualizzare i vantaggi tecnici nel Centro per i partner, seguire questa pro
 
    - **Visualizzare e condividere l'ID di accesso e l'ID di contratto del supporto prodotti.** Dopo che la richiesta di attivazione è stata elaborata, alla successiva espansione del vantaggio tecnico verranno visualizzati i dettagli relativi a **AccessId** e **ID contratto**. È possibile che l'utente corrente o gli utenti dell'azienda debbano condividere queste informazioni la prima volta che inviano una richiesta di supporto per determinati tipi di prodotti o servizi.
 
-4. Dopo l'attivazione, è possibile usare i vantaggi tecnici per diversi tipi di supporto tecnico. Per inviare richieste di supporto tecnico per questi tipi di servizi, leggere le istruzioni dettagliate nella pagina relativa Vantaggi tecnici:
+4. Dopo l'attivazione, è possibile usare i vantaggi tecnici per diversi tipi di supporto tecnico. Per inviare richieste di supporto tecnico per i servizi seguenti, leggere le istruzioni dettagliate nella pagina Vantaggi tecnici. Vedere anche i dettagli seguenti.
 
-   - Richiesta di supporto per prodotti cloud per conto del cliente
-   - Richiesta di supporto per prodotti locali
-   - Richiesta di servizi tecnici di prevendita e distribuzione o di [ore di consulenza](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)
+   Nella pagina Vantaggi tecnici del Centro per i partner sono descritti i tipi di supporto tecnico seguenti:
 
+   **Supporto tecnico (in garanzia).** Usare questo tipo di supporto tecnico quando una funzionalità è rotta o un componente non funziona nel modo previsto, ad esempio quando si riceve un messaggio di errore. Ecco alcune indicazioni:
+
+   - Esclusivamente per i partner con competenze Gold/Silver (non disponibile per i partner con sottoscrizione Action Pack), usare **Signature Cloud Support** per i **prodotti cloud**.
+
+   - Sia per i partner Action Pack sia per quelli con competenze Gold/Silver, usare le richieste di **supporto prodotti Microsoft** per i **prodotti locali recenti** (solo versioni correnti e precedenti).
+
+     >[!NOTE]
+     > Per le richieste di supporto tecnico per prodotti locali, Azure (non CSP) e Dynamics sono necessari l'ID di accesso e l'ID di contratto. In futuro, per trovare l'ID di accesso e l'ID di contratto personali, è anche possibile leggere [Trovare i benefici](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits).
+  
+   **Servizi di assistenza tecnica alla prevendita e alla distribuzione.**  Usare questo tipo di supporto per consulenze o informazioni riguardanti vendite tecniche o distribuzioni. È possibile richiedere questi servizi direttamente dal [Centro per i partner](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest).
+
+   - Sia per i partner Action Pack sia per quelli con competenze Gold/Silver, usare i **servizi di assistenza tecnica alla prevendita e alla distribuzione** per soluzioni cloud e ibride.
+  
 ## <a name="manage-go-to-market-offers"></a>Gestire le offerte go-to-market
 
 **Ruoli appropriati per eseguire questa attività:**

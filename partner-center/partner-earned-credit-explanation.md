@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db2dc98d3f40dbb29bd00111d8787a4a8cb0e082
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 31c82b52bf59c117f4605978f9903a4a2ef2adc8
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943618"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564692"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Come viene calcolato e pagato il credito ottenuto dai partner
 
@@ -38,7 +38,7 @@ Leggi anche [Ripristinare i privilegi di amministratore per le sottoscrizioni di
 
 - Il credito ottenuto dai partner è associato all'utilizzo (addebitabile) fatturato dell'ambiente Azure del cliente in CSP gestito dal partner. Il credito ottenuto dai partner viene reso disponibile solo ai partner in CSP fatturati da Microsoft (provider indiretto e partner con fatturazione diretta). 
 
-- Servizi idonei: il credito ottenuto dai partner è applicabile ai servizi elencati nei **prezzi per l'utilizzo del piano di Azure** che i partner possono esportare dalla pagina dei [prezzi del piano di Azure](https://partner.microsoft.com/commerce/sales). Si noti che esistono eccezioni, tra cui i prodotti di terze parti identificati come **Terze parti** nella colonna **Tags** del listino prezzi relativo ai consumi del piano di Azure, le prenotazioni del piano di Azure e i prodotti del listino prezzi di Marketplace.
+- Servizi idonei: il credito ottenuto dai partner è applicabile ai servizi elencati nei **prezzi per l'utilizzo del piano di Azure** che i partner possono esportare dalla pagina dei [prezzi del piano di Azure](https://partner.microsoft.com/commerce/sales). Il credito ottenuto dai partner non è applicabile ai prodotti di terze parti identificati come **Terze parti** nella **colonna Tag** del listino prezzi relativo ai consumi del piano di Azure, alle prenotazioni del piano di Azure, ai prodotti del listino prezzi di Marketplace e alle [macchine virtuali Spot di Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/).
 
 - Il credito ottenuto dai partner viene calcolato quotidianamente e può essere controllato nel file di utilizzo giornaliero e nel file di riconciliazione della fattura mensile. Un partner (provider indiretto o rivenditore indiretto) deve avere accesso per l'intero giorno (24 ore su 24, 7 giorni su 7) per ottenere il credito.  
 

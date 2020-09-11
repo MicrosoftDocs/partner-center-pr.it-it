@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
-ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
+ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89304978"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490639"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Verificare le informazioni relative al profilo del partner nel Centro per i partner
 
@@ -55,6 +55,17 @@ Se durante la migrazione dal Partner Membership Center al Centro per i partner l
 2. Passare quindi a **Profilo partner** e selezionare **Update legal business profile** (Aggiorna profilo aziendale legale).
 
 3. Selezionare la località e l'azienda da usare come azienda legale, quindi selezionare **Salva.**
+
+## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>Aggiornare l'ID MPN associato all'account CSP
+
+Per aggiornare l'ID MPN associato all'account CSP:
+
+1. Accedere al dashboard Centro per i partner.
+1. Selezionare **Profilo partner** da **Impostazioni account**.
+1. Accanto ad **Associated MPNID** (ID MPN associato), selezionare **Aggiorna**.
+1. Selezionare **Continua**.
+1. Aggiungere l'ID MPN.
+
 
 ## <a name="update-your-billing-address"></a>Aggiornare l'indirizzo di fatturazione
 

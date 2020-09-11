@@ -9,18 +9,103 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/01/2020
-ms.openlocfilehash: a2d89b8ff40cbfd3b64b109b23c5dc05901c99a2
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: a036cb1cd0b987e12cfe16aca2c7cf98a80cee55
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89287796"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564741"
 ---
 # <a name="september-2020-announcements"></a>Annunci di settembre 2020
 
 Questa pagina illustra in dettaglio gli annunci per il Centro per i partner Microsoft di settembre 2020.
 
 Annunci 2020: [Febbraio](2020-february.md) | [Marzo](2020-march.md) | [Aprile](2020-april.md) | [Maggio](2020-may.md) | [Giugno](2020-june.md) | [Luglio](2020-july.md) | [Agosto](2020-august.md) | Settembre
+
+________________
+
+## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="5"></a>I nuovi SKU mettono a disposizione dei clienti la potenza di Project Cortex e altre funzionalità
+
+### <a name="categories"></a>Categorie
+
+- Data: 08-09-2020
+- Offerte/mercati
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Tutti i partner che eseguono transazioni tramite il programma Cloud Solution Provider (CSP)
+
+### <a name="summary"></a>Riepilogo
+
+A partire dal 1° ottobre 2020 saranno disponibili per le transazioni nuovi SKU per aiutare i clienti a sfruttare la potenza di [Project Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) e [Project Turing](https://msturing.org/).
+
+### <a name="details"></a>Dettagli
+
+Microsoft è lieta di annunciare che a partire dal 1° ottobre 2020 saranno disponibili nuovi SKU, tra cui [Project Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) (Intelligent Content Services) e Microsoft Search (inclusi i connettori di Microsoft Graph per Search), che consentiranno agli utenti di trovare e gestire informazioni in modo più efficiente.  
+
+#### <a name="intelligent-content-services"></a>Intelligent Content Services
+  
+Intelligent Content Services usa funzionalità avanzate di intelligenza artificiale per automatizzare l'acquisizione, l'assegnazione di tag e la gestione di contenuto. Si basa su SharePoint per l'elaborazione di contenuto a volume elevato, l'estrazione di metadati per l'automazione dei processi e la sicurezza e la conformità specifiche. Intelligent Content Services migliora le esperienze di cura e individuazione delle conoscenze inserendo contenuto più preciso e accurato nella rete di conoscenze. I nuovi SKU di Intelligent Content Services saranno disponibili nel **listino prezzi del 1° ottobre** (e nell'anteprima del listino prezzi del 1° settembre). 
+ 
+**Nota:** Intelligent Content Services è un nome segnaposto di un prodotto che probabilmente verrà sottoposto a rebranding dopo il 1° ottobre 2020.
+ 
+**Connettori di Microsoft Graph per Microsoft Search**. I connettori di Microsoft Graph consentono ai clienti di indicizzare gli elementi in repository esterni per l'inclusione nei risultati di Microsoft Search. 
+
+Dal 1° ottobre 2020: 
+
+- Microsoft 365 E5 e Office 365 E5 includeranno la possibilità di indicizzare fino a 500 elementi con i connettori di Microsoft Graph per Microsoft Search (non inclusi con A5).  
+- Qualsiasi utente con una licenza suite o autonoma che include un piano SharePoint o OneDrive sarà in grado di visualizzare i risultati della ricerca dai connettori di Microsoft Graph per Microsoft Search. 
+- Sarà disponibile un nuovo **SKU Extra Graph Connector Capacity** per l'indicizzazione di un massimo di 1 milione di elementi aggiuntivi.  
+
+#### <a name="offer-details"></a>Dettagli dell'offerta
+
+   |**Nome offerta**|**ID offerta**|**ID materiale**|
+   |-------------------|:------|:------|
+   |Intelligent Content Services|2e969027-6eca-44a3-88fb-e7923e2c147f|5YI-00004|
+   |Intelligent Content Services (prezzi per personale di organizzazioni no profit)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
+   |Intelligent Content Services per docenti|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
+   |Extra Graph Connector Capacity|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
+   |Extra Graph Connector Capacity per docenti|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- Vedere le risorse relative a questo argomento e condividerle con gli stakeholder appropriati nell'organizzazione.
+- Per eventuali domande su queste offerte, vedere le community Yammer pertinenti.
+
+________________
+
+## <a name="enhanced-incentives-support-experience-and-ticket-creation-process"></a><a name="4"></a>Miglioramento dell'esperienza di supporto degli incentivi e del processo di creazione dei ticket
+
+### <a name="categories"></a>Categorie
+
+- Data: 02-09-2020
+- Funzionalità
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Tutti i partner
+
+### <a name="summary"></a>Riepilogo
+
+Il programma Partner Incentives Experience è stato migliorato grazie a una migliore individuabilità del contenuto Self-help e un processo di invio di ticket online semplificato.
+
+### <a name="details"></a>Dettagli
+
+Sono stati introdotti miglioramenti per gli incentivi per i partner per migliorare l'esperienza di supporto generale grazie a una migliore individuabilità del contenuto Self-help e un processo di invio di ticket semplificato che consente di ridurre la raccolta di dati in entrata e in uscita durante il processo di supporto.
+
+#### <a name="new-capabilities"></a>Nuove funzionalità
+
+- La nuova esperienza Self-help basata sulla ricerca è accessibile all'interno del [Centro per i partner](https://aka.ms/IncentivesSupport) e in [Microsoft Partner Network](https://partner.microsoft.com/support/?stage=1) per gli account non del Centro per i partner. La nuova esperienza include nuove procedure di risoluzione dei problemi, domande frequenti e collegamenti ad articoli Self-help pertinenti, nonché presenti nella pagina di supporto di Microsoft Partner Network.
+- Avviare una nuova richiesta di supporto direttamente nel Centro per i partner. Dopo aver visualizzato lo specifico argomento della guida disponibile, se è necessaria ulteriore assistenza, è possibile creare un ticket direttamente nel Centro per i partner.
+- Nuove domande sull'ambito del problema sono disponibili per ogni argomento Self-help. Il completamento di queste domande riduce gran parte del traffico in entrata e in uscita all'inizio del ticket di supporto fornendo all'agente molti dettagli importanti in anticipo.
+
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- Condividere queste informazioni con altri utenti dell'organizzazione. 
+- Usare la nuova esperienza di supporto tramite il [Centro per i partner](https://aka.ms/IncentivesSupport) o in [Microsoft Partner Network](https://partner.microsoft.com/support/?stage=1) per tutti i requisiti di supporto per gli incentivi. 
+
+**Nota:** non saranno accettate richieste di supporto tramite mailing diretto perché questa funzione è stata ritirata.
 
 ________________
 

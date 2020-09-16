@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c2894e3ef7c80cbff2952f22aaf32ba4227b874e
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 67d12c69c4cd1e42eb5c9300026c61837cafbf86
+ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564761"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90574387"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di settembre 2020** | **Annunciato** |
 |---------|:---------|:---------|
+|Offerte/mercati|[Acquisto self-service per Microsoft Project e Microsoft Visio ora disponibile](2020-september.md#6)|15 settembre|
 |Offerte/mercati|[I nuovi SKU mettono a disposizione dei clienti la potenza di Project Cortex e altre funzionalità](2020-september.md#5)|8 settembre|
 |Funzionalità|[Miglioramento dell'esperienza di supporto degli incentivi e del processo di creazione dei ticket](2020-september.md#4)|2 settembre|
 |Offerte/mercati|[Nuove offerte di Microsoft Dynamics 365 in arrivo](2020-september.md#3)|1 settembre|

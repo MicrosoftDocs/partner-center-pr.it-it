@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444901"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614162"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Domande frequenti sui requisiti di sicurezza per i partner
 
@@ -214,7 +214,7 @@ L'applicazione dell'autenticazione a più fattori per tutti gli account utente i
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Sono in uso strumenti di automazione come PowerShell. Come viene implementato il modello di applicazione sicura?
 
-Se la tua automazione è progettata per essere eseguita in modo non interattivo e si basa su credenziali utente per l'autenticazione, dovrai implementare il modello di applicazione sicura. Vedere [Modello di applicazione sicura | PowerShell per Centro per i partner](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) per informazioni su come implementare questo framework.  
+Se la tua automazione è progettata per essere eseguita in modo non interattivo e si basa su credenziali utente per l'autenticazione, dovrai implementare il modello di applicazione sicura. Vedere [Modello di applicazione sicura | PowerShell per Centro per i partner](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) per informazioni su come implementare questo framework.  
 
 >[!Note] 
 >Non tutti gli strumenti di automazione offrono la possibilità di eseguire l'autenticazione usando token di accesso. Per assistenza nella comprensione delle modifiche da apportare, pubblica un messaggio nel gruppo [Partner Center Security Guidance](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance). 
@@ -292,7 +292,7 @@ Per altre informazioni, visita la pagina [Imposizione dell'autenticazione a più
 
 Per verificare che l'account per l'accesso alle risorse sia stato testato per l'autenticazione a più fattori, controlleremo l'attestazione [AMR (Authentication Method Reference)](https://tools.ietf.org/html/rfc8176) per vedere che nell'elenco sia presente l'autenticazione MFA. Alcune soluzioni di terze parti non rilasciano questa attestazione o non includono il valore MFA. Se l'attestazione non è presente o il valore MFA non è elencato, non esiste alcun modo per determinare se l'account autenticato è stato testato per l'autenticazione a più fattori. Dovrai collaborare con il fornitore della soluzione di terze parti per determinare quali azioni eseguire affinché la soluzione rilasci l'attestazione Authentication Method Reference.
 
-Se non sei certo che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza dei partner](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0).
+Se non sei certo che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza dei partner](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements).
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA mi impedisce di supportare i miei clienti usando Amministra per conto terzi. Come posso procedere?
 

@@ -9,18 +9,50 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/01/2020
-ms.openlocfilehash: a036cb1cd0b987e12cfe16aca2c7cf98a80cee55
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 0bf31dd474087ae7f4b3c6c8924309d177de922b
+ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564741"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90574397"
 ---
 # <a name="september-2020-announcements"></a>Annunci di settembre 2020
 
 Questa pagina illustra in dettaglio gli annunci per il Centro per i partner Microsoft di settembre 2020.
 
 Annunci 2020: [Febbraio](2020-february.md) | [Marzo](2020-march.md) | [Aprile](2020-april.md) | [Maggio](2020-may.md) | [Giugno](2020-june.md) | [Luglio](2020-july.md) | [Agosto](2020-august.md) | Settembre
+
+________________
+
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-now-available"></a><a name="6"></a>Acquisto self-service per Microsoft Project e Microsoft Visio ora disponibile
+
+### <a name="categories"></a>Categorie
+
+- Data: 15-09-2020
+- Offerte/mercati
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+I partner che vendono servizi online a clienti commerciali
+
+### <a name="details"></a>Dettagli
+
+Lo scorso anno è stato [reso noto](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) che Microsoft avrebbe consentito a singoli utenti e team di acquistare alcuni servizi direttamente. Tramite la modalità self-service gli utenti di tutto il mondo possono ora acquistare le sottoscrizioni dei prodotti Microsoft Project e Microsoft Visio seguenti: 
+
+- [Visio Plan 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) e [Visio Plan 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
+- [Project Plan 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) e [Project Plan 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
+
+Nota:  le funzionalità di acquisto self-service non sono attualmente disponibili in India, in Brasile, nella Repubblica Democratica del Congo (RDC) e per i clienti idonei per le offerte per enti pubblici o per il settore dell'istruzione.  Per un elenco completo degli aggiornamenti e della disponibilità nei vari paesi, vedere le [domande frequenti sull'acquisto self-service](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide&preserve-view=true).
+
+#### <a name="partner-benefits"></a>Vantaggi per i partner
+
+Sarà possibile offrire i servizi a singoli utenti e team senza dover passare attraverso un processo di approvvigionamento IT centralizzato per ottenere le licenze necessarie. I servizi possono estendersi a Project e Visio, in base agli scenari di integrazione con Microsoft 365 e Power Platform. Prima dell'acquisto, i clienti possono anche provare le versioni di valutazione di Visio e Project ora disponibili per [Visio Piano 1 e Visio Piano 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) e per [Project Piano 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
+
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- Esaminare tutte le risorse relative all'idoneità disponibili nella raccolta di risorse per l'idoneità operativa: [Funzionalità di acquisto self-service per i clienti](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/). -Per altre informazioni sulle opportunità offerte ai partner dalle soluzioni Visio e Power Platform, guardare la sessione Microsoft Inspire [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform) (Ricostruire e reimmaginare le aziende con Microsoft Visio e Power Platform).
+- Per altre informazioni, vedere la [guida dell'amministratore self-service](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide&preserve-view=true).
 
 ________________
 

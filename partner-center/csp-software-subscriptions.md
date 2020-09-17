@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb70aabc59e069209673b1b0f2e0be57c973a70e
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 467f46b2e6dfc41730970abe9005e1f2d28409f3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545842"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614152"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendere abbonamenti software tramite il programma Cloud Solution Provider (CSP)
 
@@ -116,7 +116,7 @@ Dopo aver acquistato l'abbonamento software, segui questa procedura per scaricar
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download e codici di licenza per sottoscrizioni di server disponibili tramite l'interfaccia di amministrazione di Microsoft 365 per i clienti 
 
-I clienti potranno ottenere i codici di licenza e i download per le sottoscrizioni di server CSP dall'interfaccia di amministrazione di Microsoft 365. Per visualizzare i codici di licenza e i download relativi alle sottoscrizioni di server CSP, il cliente dovrà accedere all'interfaccia di amministrazione di Microsoft 365 > **Fatturazione > Prodotti > scheda Software**. Per ulteriori informazioni, vedere la [scheda Software in Fatturazione](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview?view=o365-worldwide#billing--subscriptions).  
+I clienti potranno ottenere i codici di licenza e i download per le sottoscrizioni di server CSP dall'interfaccia di amministrazione di Microsoft 365. Per visualizzare i codici di licenza e i download relativi alle sottoscrizioni di server CSP, il cliente dovrà accedere all'interfaccia di amministrazione di Microsoft 365 > **Fatturazione > Prodotti > scheda Software**. Per ulteriori informazioni, vedere la [scheda Software in Fatturazione](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visualizzare l'attività per l'accesso alle chiavi e ai download del software
 
@@ -157,7 +157,7 @@ Per annullare un acquisto, segui questa procedura:
 
 3. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
-4. Nella pagina dei dettagli del cliente seleziona **Software** per visualizzare l'elenco del software acquistato per il cliente. 
+4. Nella pagina dei dettagli del cliente selezionare **Software** per visualizzare l'elenco delle applicazioni software acquistate per il cliente. 
 
 5. Individua l'acquisto di software che vuoi annullare e seleziona **Annulla**. Verrà visualizzata una finestra di dialogo.
 

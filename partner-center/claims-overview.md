@@ -1,7 +1,7 @@
 ---
 title: Attestazioni cooperative per gli incentivi
 ms.topic: article
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Informazioni su come inviare una richiesta di co-op corretta per gli incentivi organizzando la documentazione, le fatture, le istruzioni e la verifica dell'esecuzione corrette.
@@ -9,14 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 78c9d9b0150e936afc0d90ffc16d90a1334cbaba
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 0b8416281bcb8afd4e5166104df0710df100901b
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220679"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714305"
 ---
-# <a name="incentives-co-op-claims-overview"></a>Panoramica delle richieste co-op di incentivi
+# <a name="overview-of-incentives-co-op-claims"></a>Panoramica delle attestazioni co-op degli incentivi
 
 **Si applica a**
 

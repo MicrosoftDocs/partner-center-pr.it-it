@@ -1,21 +1,21 @@
 ---
-title: Iscriversi al programma di incentivi
+title: Registrazione degli incentivi
 ms.topic: how-to
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 description: Iscriversi al programma incentives e assegnare i ruoli necessari per la gestione degli utenti.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 65d62f20daef625a9871fe121d04ed3dcdd1b472
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 7f86b59708ab26a5ef02a952f34ef3558af097af
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220599"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714445"
 ---
-# <a name="enroll-in-the-incentives-program"></a>Iscriversi al programma di incentivi
+# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Registrazione e gestione degli utenti nel programma incentives
 
 **Si applica a:**
 
@@ -55,4 +55,4 @@ La registrazione degli incentivi scade alla fine dell'anno fiscale. Tuttavia, se
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Determinare l'idoneità del programma](incentives-determined-your-program-eligibility.md)
+- [Determinare l'idoneità al programma](incentives-determined-your-program-eligibility.md)

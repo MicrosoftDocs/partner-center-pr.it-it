@@ -1,7 +1,7 @@
 ---
-title: Attestazioni cooperative per gli incentivi
+title: Panoramica degli incentivi e delle attestazioni
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 09/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Informazioni su come inviare una richiesta di co-op corretta per gli incentivi organizzando la documentazione, le fatture, le istruzioni e la verifica dell'esecuzione corrette.
@@ -9,14 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 0b8416281bcb8afd4e5166104df0710df100901b
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 05ce007901baccd76228c55b7a846fc51718409d
+ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714305"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "90811299"
 ---
-# <a name="overview-of-incentives-co-op-claims"></a>Panoramica delle attestazioni co-op degli incentivi
+# <a name="earn-cooperative-marketing-funds"></a>Guadagna fondi di marketing cooperativi
 
 **Si applica a**
 
@@ -27,25 +27,51 @@ ms.locfileid: "90714305"
 - Amministratore degli incentivi
 - Utente di incentivi
 
-Quando si partecipa a uno dei programmi Microsoft incentives (ad esempio, partner incentives Cooperation Marketing Fund, Online Services Advisor Program o Dynamics ISV Program), si attestano i rimborsi dei fondi guadagnati per le attività che sono state eseguite che supportano il riconoscimento dei prodotti Microsoft. Inviare un'attestazione direttamente dal centro per i partner. Prima di inviare un'attestazione, non è più necessario rivedere il piano di attività da Microsoft. Inviare l'attestazione e la documentazione necessaria non più tardi rispetto alla scadenza del periodo di attestazione, ovvero 45 giorni dopo la fine del periodo di utilizzo.
+I fondi di marketing cooperativo (co-op) sono i fondi che si ottengono attraverso i programmi Microsoft incentive, rivendicando il rimborso per le attività che supportano il riconoscimento dei prodotti Microsoft. Esempi di programmi per gli incentivi sono provider di soluzioni cloud, rivenditore gestito, hosting e superficie.
 
-Un'attestazione riuscita include:
+I fondi co-op consentono di eseguire attività di marketing che aumenteranno la consapevolezza del marchio e la crescita delle pipeline di vendita. È possibile investire fondi co-op in attività per agevolare la preparazione, sviluppare specializzazioni o ottenere certificazioni Microsoft, ovvero attività che favoriscono le procedure mirate per la soluzione e i centri di eccellenza.
 
-- Documentazione che illustra l'utente che ha soddisfatto i requisiti di base per l'attività
-- Fatture da fornitori di terze parti con cui si lavora
-- Rendiconto e report di certificazione (I CSR) per le attività interne completate
-- La documentazione appropriata (prova di esecuzione o PoE) che dimostra che l'attività è stata completata 
+Per ulteriori informazioni, vedere la pagina relativa alle [risorse dei fondi co-op](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) .
+
+>[!Important]
+>Le attestazioni co-op non si applicano ai programmi Internet Services Advisory (OSA) sell, Online Services Usage (OSU)-Microsoft 365 e OSU-Business Application incentive. Per inviare un'attestazione per uno di questi programmi, vedere [creare un cliente associearation usando il modello CPOR](submit-osa-claim.md).
+
+## <a name="how-co-op-funds-are-calculated"></a>Come vengono calcolati i fondi co-op
+
+Microsoft calcola i guadagni idonei per gli incentivi usando una percentuale di suddivisione, ad esempio il 60% di sconto-40% co-op. Si riceverà la parte di sconto usando la cadenza di pagamento esistente per il singolo programma, mentre Microsoft accumulerà la parte della co-op dei guadagni degli incentivi.
+
+Per altre informazioni sulla cadenza di pagamento e la percentuale di suddivisione, vedere la guida del programma per gli incentivi. Utilizzare [questa procedura](incentives-determined-your-program-eligibility.md) per accedere alla guida del programma.
+
+## <a name="when-to-claim-your-funds"></a>Quando richiedere i fondi
+
+La sequenza temporale per i fondi co-op è divisa in periodi di 2 6 mesi, H1 e H2. ("H" sta per metà anno fiscale).
+
+- H1 è la prima metà dell'anno fiscale, dal 1 ° luglio al 31 dicembre.
+- H2 è la seconda metà dell'anno fiscale, dal 1 ° gennaio al 30 giugno.
+
+Il periodo di sei mesi durante il quale si accumulano i guadagni diventa il **periodo di guadagno**. È necessario usare questi guadagni a un certo punto durante il **periodo di utilizzo**di sei mesi seguente. Se non si usano i guadagni entro la fine del periodo di utilizzo, questi verranno persi. Il **periodo di attestazione** è il periodo di sei mesi durante il quale è possibile richiedere il rimborso per le attività del programma incentive.
+
+La tabella seguente illustra i diversi periodi di guadagno, utilizzo e reclamo. I periodi si estendono dal primo giorno del primo mese all'ultimo giorno dell'ultimo mese.
+
+|  Se il periodo di guadagno/accumulo è  |Il periodo di semestre fiscale è  |  Il periodo di utilizzo è  |  Il periodo di attestazione è  |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+|**Luglio-dicembre 2020**| FY20 H1  |  Jan-2021 giugno  |  Feb-2021 luglio  |
+|**Jan-2021 giugno** |  FY20 H2  |  Luglio-dicembre 2021  |  Aug 2021-gennaio 2022  |
+|**Luglio-dicembre 2021**|  FY21 H1  |  Jan-2022 giugno  |  Feb-2022 luglio  |
+|**Jan-2022 giugno** |  FY21 H2  |  Luglio-dicembre 2022  |  Aug 2022-gennaio 2023  |
 
 >[!NOTE]
->Microsoft si riserva il diritto di richiedere documenti PoE originali. Mantenere tutti i documenti originali per un periodo di 24 mesi dalla data dell'attività. 
+>Microsoft si riserva il diritto di richiedere documenti di prova di esecuzione (PoE) originali. È consigliabile tenere tutti i documenti originali per 24 mesi dopo la data dell'attività.
 
-|**Per eseguire questa operazione**   |**Leggi**   |
-|-----------------|:--------------------------------------|
-|Inviare un'attestazione e includere la documentazione corretta|[Creare e gestire un'attestazione di attività del programma incentives](create-incentives-claims.md)|
-|Dopo aver inviato l'attestazione, gestire richieste di documentazione aggiuntive|[Creare e gestire un'attestazione di attività del programma incentives](create-incentives-claims.md)  |
-|Assicurarsi di avere familiarità con i requisiti di base per l'attestazione dell'attività|[Conosce i requisiti principali per le attestazioni di incentivi](core-requirements.md)   |
-|Scopri tutti i dettagli del programma incentives|[Guida alla co-op degli incentivi per i partner](https://assets.microsoft.com/coop-guidebook.pdf)
-|Creare un'associazione cliente e inviare un'attestazione |[Creare un'associazione cliente usando il modello CPOR](submit-osa-claim.md)|
+Le risorse seguenti consentiranno di iniziare a usare le attestazioni co-op.
+
+| Per | Leggere |
+| ------ | ----------- |
+| Invia un'attestazione |  [Creazione e gestione di un'attestazione co-op del programma incentives](create-incentives-claims.md)  |
+| Gestione di un'attestazione inviata | [Creazione e gestione di un'attestazione co-op del programma incentives](create-incentives-claims.md)    |
+| Informazioni sui requisiti di base per l'attestazione dell'attività | [Requisiti di base per le attività nel programma incentive](core-requirements.md)   |
+| Esaminare i dettagli del programma incentives | [Guida alla co-op degli incentivi per i partner](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
+| Creare un'associazione cliente e inviare un'attestazione | [Creare un'associazione cliente usando il modello CPOR](submit-osa-claim.md)   |
 
 ## <a name="next-steps"></a>Passaggi successivi
 

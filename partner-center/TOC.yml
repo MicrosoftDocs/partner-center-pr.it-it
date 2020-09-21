@@ -498,9 +498,11 @@
           href: pci-competencies-report.md
         - name: Insights - Report vantaggi
           href: pci-benefits-report.md
+        - name: Insights - Report di CloudAscent relativo alla propensione
+          href: pci-customer-opportunities.md
         - name: Insights - Problemi noti
           href: pci-known-issues.md
-        - name: Insights - Scaricare i report
+        - name: Insights - Report per il download
           href: pci-download-reports.md
     - name: Indicatori di contributi dei partner
       href: partner-contribution-indicators.md

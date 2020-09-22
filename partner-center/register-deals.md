@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7551d3d010bfb7a4bd96b425d0afbf16ab8ebb1d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9964dd4fb1ae96e890dd357a045acdb152fb95f1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434080"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999105"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registra le offerte acquisite nel centro per i partner per poter ottenere più opportunità in seguito
 
@@ -24,7 +24,7 @@ ms.locfileid: "86434080"
 
 Puoi registrare le trattative che sono andate a buon fine nel Centro per i partner fornendo altre informazioni sul contratto. Queste informazioni consentono di offrirti maggiori opportunità in futuro.
 
-Per alcune soluzioni idonee, dopo che hai selezionato **Acquisito** nel [processo di risposta alle segnalazioni](responding-to-referrals.md), ti verrà richiesto di fornire informazioni aggiuntive per la registrazione della trattativa. Microsoft esaminerà le informazioni fornite e potrebbe richiedere altri dettagli durante tale processo.
+Per alcune soluzioni idonee, dopo che hai selezionato **Acquisito** nel [processo di risposta alle segnalazioni](manage-leads.md), ti verrà richiesto di fornire informazioni aggiuntive per la registrazione della trattativa. Microsoft esaminerà le informazioni fornite e potrebbe richiedere altri dettagli durante tale processo.
 
 Puoi registrare le nuove trattative che hanno avuto esito positivo e in cui viene usata una delle tue soluzioni anche se non hanno avuto origine da una [segnalazione](referrals.md). 
 
@@ -64,6 +64,6 @@ Nella pagina **Segnalazioni > Deal registrations (Registrazioni trattative) > In
 
 Se è necessario aggiornare alcune informazioni, la registrazione della trattativa potrebbe venire spostata nella pagina **Azione richiesta**.
 
-### <a name="closed"></a>Chiuso
+### <a name="closed"></a>Chiusa
 
 Nella pagina **Segnalazioni > Deal registrations (Registrazioni trattative) > Chiuse** verranno visualizzate le trattative registrate ed esaminate con esito positivo da Microsoft. Puoi usare i filtri per visualizzare solo le registrazioni di trattative **Approvate** o **Rifiutate**.

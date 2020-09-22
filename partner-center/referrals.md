@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4ee9d084d0afca9dfdba5cae9c6e060747d8e0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436610"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999135"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Aumenta il tuo business con le segnalazioni Microsoft
 
@@ -26,6 +26,7 @@ Molti clienti cercano esperti qualificati che li assistano nell'implementazione 
 
 Vogliamo creare contatti con i clienti che richiedono soluzioni e competenza. Il passaggio più importante da eseguire per iniziare a ottenere lead di vendita da noi è [creare un profilo di business](create-a-marketing-profile.md) che presenti le offerte, le soluzioni e la competenza dell'azienda. Il profilo di business verrà indicato in tutti i luoghi in cui i clienti e gli agenti di vendita interni Microsoft ricercano partner qualificati. 
 
- Dopo aver pubblicato il profilo di business, si incomincerà a ricevere lead di vendita tramite la funzionalità di segnalazione nel Centro per i partner. È importante rispondere alle segnalazioni entro il periodo di tempo richiesto per continuare a ricevere questi lead e, soprattutto, per concludere le trattative. Vedere [Rispondere alle segnalazioni](responding-to-referrals.md) per informazioni dettagliate su come gestire i lead di vendita nel Centro per i partner.  
+ Dopo aver pubblicato il profilo di business, si incomincerà a ricevere lead di vendita tramite la funzionalità di segnalazione nel Centro per i partner. È importante rispondere alle segnalazioni entro il periodo di tempo richiesto per continuare a ricevere questi lead e, soprattutto, per concludere le trattative. Vedere [Rispondere alle segnalazioni](manage-leads.md) per informazioni dettagliate su come gestire i lead di vendita nel Centro per i partner.  
 
-A questo punto, guardare questo breve video, [Optimize your business profile](https://player.vimeo.com/video/252788046) (Ottimizzare il profilo di business).  
+
+A questo punto, guardare questo breve video, [Optimize your business profile](https://player.vimeo.com/video/252788046) (Ottimizzare il profilo di business).

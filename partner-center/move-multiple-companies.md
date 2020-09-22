@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114149"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000075"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Trasferimento di più aziende al centro per i partner da partner Membership Center (PMC)
 
@@ -51,7 +51,7 @@ Verrà visualizzato l'account esistente e una nota che illustra che i dettagli a
 
 Questa schermata mostra i dettagli dell'account esistente (nome e indirizzo) che è già stato creato nel Centro per i partner insieme ai dettagli del contatto principale.
 
-Seleziona **Continua**.
+Selezionare **Continua**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Cosa accade durante il consolidamento degli account
 
@@ -93,4 +93,4 @@ Quando si visualizza il profilo, vengono visualizzate le informazioni per l'Azie
 - [Assegnare autorizzazioni e ruoli utente](permissions-overview.md)
 - [Gestire i programmi dell'iscrizione come membro](renew-mpn-offers.md)
 - [Creare il profilo di business](create-a-marketing-profile.md)
-- [Connettersi con i clienti tramite segnalazioni](responding-to-referrals.md)
+- [Connettersi con i clienti tramite segnalazioni](manage-leads.md)

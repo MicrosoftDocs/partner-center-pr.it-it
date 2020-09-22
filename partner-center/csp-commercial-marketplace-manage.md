@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c07ee9d03b433992632337d13c561d6334a896
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527717"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000515"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gestione dei prodotti e delle offerte del Marketplace commerciale per i clienti
 
@@ -67,7 +67,7 @@ Il server di pubblicazione deve fornire un collegamento personalizzato e un codi
 
    - È possibile visualizzare il collegamento dalla pagina sottoscrizioni del cliente specifico. Questo collegamento all'editore viene visualizzato nella riga associata all'offerta ISV o alla sottoscrizione acquistata per il cliente.
 
-   - È possibile [recuperare il collegamento usando le API del centro per i partner](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+   - È possibile [recuperare il collegamento usando le API del centro per i partner](/partner-center/develop/get-activation-link-by-order-line-item).
 
    > [!NOTE]
    > Per eseguire questa operazione per conto del cliente, potrebbe essere necessario copiare il collegamento personalizzato, incollarlo in un browser privato e immettere le credenziali del cliente.
@@ -112,7 +112,7 @@ Per le offerte del Marketplace commerciale SaaS, è possibile aggiungere o rimuo
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Gestire le sottoscrizioni usando le API del Centro per i partner
 
-È anche possibile usare le API del centro per i partner per eseguire la gestione del ciclo di vita e gestire le fatture per le sottoscrizioni. Per ulteriori informazioni, vedere [la pagina relativa alla creazione di una sottoscrizione per prodotti Marketplace commerciali](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
+È anche possibile usare le API del centro per i partner per eseguire la gestione del ciclo di vita e gestire le fatture per le sottoscrizioni. Per ulteriori informazioni, vedere [la pagina relativa alla creazione di una sottoscrizione per prodotti Marketplace commerciali](/partner-center/develop/create-subscription-azure-marketplace-products).
 
 ## <a name="next-steps"></a>Passaggi successivi
 

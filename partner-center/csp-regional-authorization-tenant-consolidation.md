@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e6d98069822df9a6310335ffd8b1ab08dc61ccb
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545652"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000375"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Istruzioni per il consolidamento dei tenant per l'autorizzazione regionale per CSP
 
@@ -38,13 +38,13 @@ ms.locfileid: "87545652"
 
 ## <a name="prepare-for-migration"></a>Preparare la migrazione
 
-- Accedere al centro per i **partner** usando l'account di **transizione** (quello che si passerà al nuovo account) ed esaminare tutti i clienti e tutti i servizi di cui è stato effettuato il provisioning per tali clienti.
+- Accedere al centro per i **partner**  usando l'account di **transizione** (quello che si passerà al nuovo account) ed esaminare tutti i clienti e tutti i servizi di cui è stato effettuato il provisioning per tali clienti.
 
 - Disconnettersi da questo account.
 
 ## <a name="migrate-customer-accounts"></a>Eseguire la migrazione degli account dei clienti
 
-1. Accedere al centro per i **partner** con l'account di **transizione** (nuovo) (quello in cui si sta effettuando la transizione dei clienti).
+1. Accedere al centro per i **partner**  con l'account di **transizione** (nuovo) (quello in cui si sta effettuando la transizione dei clienti).
 
 2. Selezionare **Clienti**.
 
@@ -144,8 +144,8 @@ La **funzione di esportazione** consente di recuperare le sottoscrizioni che dev
 
 ### <a name="api-registration"></a>Registrazione dell'API
 
-Per altre informazioni sulla registrazione dell'API, vedere [configurare l'accesso all'API nel centro per i partner](https://go.microsoft.com/fwlink/?linkid=847990).
+Per altre informazioni sulla registrazione dell'API, vedere [configurare l'accesso all'API nel centro per i partner](/partner-center/develop/set-up-api-access-in-partner-center).
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Configurazione e gestione degli account cliente per i partner rivenditori nel centro per i partner](customer-accounts.md)
+- [Configurazione e gestione degli account cliente per i partner rivenditori nel Centro per i partner](customer-accounts.md)

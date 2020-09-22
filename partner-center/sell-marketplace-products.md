@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a05e2cc968e96e429390ea63ecb6fe213ab2ca2c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: b37e1ffef291defec0cba03aa9306f7bc82f5cd9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436570"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999965"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Usare il Centro per i partner per vendere ai clienti sottoscrizioni di prodotti del marketplace commerciale
 
@@ -29,4 +29,4 @@ Questo consente di distinguere la propria azienda e fornire ai clienti bundle di
 
 Per informazioni sul modo in cui i partner del programma CSP possono usare il Marketplace commerciale, vedere [Panoramica del Marketplace commerciale per i provider di soluzioni cloud](csp-commercial-marketplace-overview.md).
 
-In alternativa, per informazioni sui diversi ruoli degli ISV nel Marketplace commerciale, vedere [domande frequenti su Marketplace](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide).
+In alternativa, per informazioni sui diversi ruoli degli ISV nel Marketplace commerciale, vedere [domande frequenti su Marketplace](/azure/marketplace/marketplace-faq-publisher-guide).

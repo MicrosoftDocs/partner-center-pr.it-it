@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05939dc5edaddeb2f74b3b75017e2062dff25e31
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 98bfd9a9ce6f03ad62a830f05ba82f9b90268326
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468332"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999705"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Informazioni su come leggere le voci nei file di riconciliazione del centro per i partner
 
@@ -58,7 +58,7 @@ Per correggere eventuali problemi di formattazione nei file di riconciliazione, 
 
 ## <a name="download-reconciliation-files-programmatically"></a>Scarica i file di riconciliazione a livello di codice
 
-I file di riconciliazione possono essere molto grandi e talvolta difficili da scaricare. Per scaricare i file di riconciliazione a livello di codice, vedere [ottenere le voci di riga della fattura](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items).
+I file di riconciliazione possono essere molto grandi e talvolta difficili da scaricare. Per scaricare i file di riconciliazione a livello di codice, vedere [ottenere le voci di riga della fattura](/partner-center/develop/get-invoiceline-items).
 
 ## <a name="map-taxes-or-vat"></a>Tasse per la mappa o IVA
 

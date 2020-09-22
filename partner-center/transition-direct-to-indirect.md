@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16f3c4a2e61bbc207bb99d6c9aeb1636260a55ee
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811191"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000645"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto
 
@@ -33,7 +33,7 @@ Sarà possibile eseguire la registrazione al programma indirect Reseller usando 
 
 2. Accedere al centro per i partner come amministratore globale per il tenant di fatturazione diretta che si sta passando al rivenditore indiretto.
 
-   :::image type="content" source="images/direct/direct1.png" alt-text="Panoramica":::
+   :::image type="content" source="images/direct/direct1.png" alt-text="Overview":::
 
 3. Esaminare i dettagli del partner nel modulo di registrazione.
 
@@ -76,7 +76,7 @@ Il supporto e i servizi offerti variano a seconda del provider indiretto scelto.
 
 Eseguire una ricerca nell'elenco dei [provider Microsoft indiretti](https://partnercenter.microsoft.com/partner/find-a-provider)ufficiali.
 
-Altre informazioni, leggere [partner con provider indiretti](indirect-reseller-tasks-in-partner-center.md)
+Altre informazioni, leggere  [partner con provider indiretti](indirect-reseller-tasks-in-partner-center.md)
 
 ## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Accetta un invito a una partnership dal provider indiretto
 
@@ -161,7 +161,7 @@ Per una panoramica dettagliata del processo step-by-Step, vedere il documento re
 
 - Il provider indiretto non verrà fornito con [privilegi di amministrazione delegata](customers-revoke-admin-privileges.md) al tenant del cliente. Se il provider indiretto richiede privilegi di amministrazione delegata, è necessario inviare invece un invito al rivenditore indiretto al cliente.
 
-- Una volta stabilita la relazione Reseller, il provider indiretto verrà visualizzato come partner CSP per il cliente nella pagina Relazioni partner nell'interfaccia di [amministrazione di M365](https://admin.microsoft.com/AdminPortal/Home#/partners) e [Microsoft Store for business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
+- Una volta stabilita la relazione Reseller, il provider indiretto verrà visualizzato come partner CSP per il cliente nella pagina Relazioni partner nell'interfaccia di [amministrazione di M365](https://admin.microsoft.com/AdminPortal/Home#/partners) e [Microsoft Store for business](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Per evitare confusione e fraintendimenti, l'utente è obbligato dal contratto del partner per informare e ottenere il consenso del cliente Direct Bill prima di utilizzare la funzionalità di estensione delle relazioni per stabilire la relazione del rivenditore tra un cliente di fatturazione diretta esistente e un provider indiretto.
@@ -245,15 +245,15 @@ La funzionalità è un processo in quattro passaggi, in cui:
 ### <a name="transitioning-partner"></a>Partner di transizione
 
 > [!NOTE]
-> È anche possibile usare il centro per i [partner API/SDK](https://docs.microsoft.com/partner-center/develop/manage-customers) per trasferire le sottoscrizioni esistenti al provider indiretto.
+> È anche possibile usare il centro per i [partner API/SDK](/partner-center/develop/manage-customers) per trasferire le sottoscrizioni esistenti al provider indiretto.
 >
-> - [Ottenere l'idoneità al trasferimento degli abbonamenti di un cliente](https://docs.microsoft.com/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
-> - [Creare il trasferimento di un cliente](https://docs.microsoft.com/partner-center/develop/create-a-transfer)
-> - [Ritirare il trasferimento di un cliente](https://docs.microsoft.com/partner-center/develop/withdraw-a-transfer)
-> - [Accettare il trasferimento di un cliente](https://docs.microsoft.com/partner-center/develop/accept-a-transfer)
-> - [Rifiutare il trasferimento di un cliente](https://docs.microsoft.com/partner-center/develop/reject-a-transfer)
-> - [Ottenere i trasferimenti di un cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
-> - [Ottenere i dettagli del trasferimento in base all'ID](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
+> - [Ottenere l'idoneità al trasferimento degli abbonamenti di un cliente](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [Creare il trasferimento di un cliente](/partner-center/develop/create-a-transfer)
+> - [Ritirare il trasferimento di un cliente](/partner-center/develop/withdraw-a-transfer)
+> - [Accettare il trasferimento di un cliente](/partner-center/develop/accept-a-transfer)
+> - [Rifiutare il trasferimento di un cliente](/partner-center/develop/reject-a-transfer)
+> - [Ottenere i trasferimenti di un cliente](/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Ottenere i dettagli del trasferimento in base all'ID](/partner-center/develop/get-transfer-by-id)
 
 ### <a name="transitioning-partner---create-transfer-request"></a>Partner di transizione-creazione della richiesta di trasferimento
 

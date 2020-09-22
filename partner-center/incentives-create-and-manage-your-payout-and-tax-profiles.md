@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 688e3bf3d181ae235d245f1330bbc160c9841ef6
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: de143ecfae1b803e0743a28db5cda5ae9a3d5f2d
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714495"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999315"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Creazione e gestione di incentivi per il pagamento e i profili fiscali nel centro per i partner
 
@@ -58,7 +58,7 @@ All'interno del dettaglio, i pagamenti per ognuno dei cinque programmi per incen
 Le sezioni seguenti illustrano il processo di creazione e gestione dei profili di pagamento e di imposta nel centro per i partner.
 
 >[!IMPORTANT]
->È necessario essere un amministratore di incentivi per creare o gestire i profili di pagamento nel centro per i partner. I ruoli incentivo devono essere assegnati a ogni località MPN in ogni programma di incentivi. Per altre informazioni su come aggiungere gli amministratori di incentivi in Partner Center, vedere [creare account utente](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions).
+>È necessario essere un amministratore di incentivi per creare o gestire i profili di pagamento nel centro per i partner. I ruoli incentivo devono essere assegnati a ogni località MPN in ogni programma di incentivi. Per altre informazioni su come aggiungere gli amministratori di incentivi in Partner Center, vedere [creare account utente](create-user-accounts-and-set-permissions.md).
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Accedere alla sezione relativa ai pagamenti e alle imposte nel centro per i partner
 

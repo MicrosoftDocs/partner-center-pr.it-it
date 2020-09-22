@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444912"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999215"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Concedi ai clienti una versione di valutazione gratuita di 30 giorni dei prodotti Microsoft
 
@@ -79,8 +79,8 @@ Dovrai convertire la versione di valutazione in una sottoscrizione a pagamento. 
 
 Potrebbe essere necessario modificare le API per adattarla alla conversione di una versione di valutazione gratuita a una sottoscrizione a pagamento. Per ulteriori informazioni, vedere la seguente documentazione per gli sviluppatori:
 
-- [Convertire un abbonamento di valutazione in uno a pagamento](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Ottenere un elenco delle offerte di conversione della copia di valutazione](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Convertire un abbonamento di valutazione in uno a pagamento](/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Ottenere un elenco delle offerte di conversione della copia di valutazione](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>Versioni di valutazione senza conversioni
 

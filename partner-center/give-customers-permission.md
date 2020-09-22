@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3327ad560d38de042f42baf1f0a2daedda5d4ecf
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545642"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000465"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Concedere ai clienti l'autorizzazione per il centro per i partner per acquistare prodotti o servizi propri
 
@@ -52,7 +52,7 @@ Prima di attivare le autorizzazioni dei clienti, tenere presenti i seguenti punt
 
 - È possibile attivare le autorizzazioni (Abilita) per qualsiasi cliente scelto.
 
-- È possibile attivare o disattivare le autorizzazioni dei clienti usando il dashboard del centro per i partner o le [API del centro](https://docs.microsoft.com/partner-center/develop/manage-customers)per i partner.
+- È possibile attivare o disattivare le autorizzazioni dei clienti usando il dashboard del centro per i partner o le [API del centro](/partner-center/develop/manage-customers)per i partner.
 
 - Dopo aver attivato (abilitato) le autorizzazioni per un cliente specifico, si sarà responsabili del pagamento di eventuali acquisti successivi effettuati dal cliente. Se i clienti desiderano scambiare, annullare o rinnovare un acquisto creato (o che desiderano modificare l'ambito iniziale di una prenotazione), non saranno in grado di eseguire questa operazione. Devono chiedere all'utente, come partner, di aiutarli a scambiare, annullare e rinnovare gli acquisti oppure apportare modifiche successive all'ambito di una prenotazione.  
 
@@ -65,7 +65,7 @@ Prima di attivare le autorizzazioni dei clienti, tenere presenti i seguenti punt
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>Concedi ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure
 
-Le prenotazioni di Azure sono un modo eccellente per acquistare i servizi di Azure a una tariffa scontata. Per altre informazioni sui vantaggi delle prenotazioni di Azure, vedere [che cosa sono le prenotazioni di Azure?](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)
+Le prenotazioni di Azure sono un modo eccellente per acquistare i servizi di Azure a una tariffa scontata. Per altre informazioni sui vantaggi delle prenotazioni di Azure, vedere [che cosa sono le prenotazioni di Azure?](/azure/cost-management-billing/reservations/save-compute-costs-reservations)
 
 È ora possibile scegliere di acquistare prenotazioni di Azure per conto dei clienti, come è già stato fatto. In alternativa, è possibile concedere ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure.
 
@@ -109,11 +109,11 @@ Per verificare che al cliente sia stato assegnato il ruolo **proprietario** per 
 
 4. Selezionare il pulsante **Gestisci** accanto alla sottoscrizione del cliente. In questo modo si apre il [portale di Azure](https://portal.azure.com/).
 
-5. Per assegnare il ruolo **proprietario** a un utente specifico, attenersi alla procedura seguente [per assegnare un utente come amministratore](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator#to-assign-a-user-as-an-administrator).
+5. Per assegnare il ruolo **proprietario** a un utente specifico, attenersi alla procedura seguente [per assegnare un utente come amministratore](/azure/cost-management-billing/manage/add-change-subscription-administrator#to-assign-a-user-as-an-administrator).
 
 ### <a name="turn-on-or-turn-off-customer-permissions-to-purchase-their-own-azure-reservations"></a>Attivare o disattivare le autorizzazioni del cliente per acquistare le proprie prenotazioni di Azure
 
-Dopo aver verificato che il cliente dispone di una sottoscrizione di Azure esistente e che agli utenti viene assegnato il ruolo di **proprietario** per la sottoscrizione, è possibile attivare le autorizzazioni del cliente. È anche possibile usare questi passaggi per disattivare (disabilitare) le autorizzazioni del cliente. È possibile abilitare o disabilitare le autorizzazioni dei clienti usando il dashboard del centro per i partner o le [API del centro](https://docs.microsoft.com/partner-center/develop/manage-customers)per i partner.
+Dopo aver verificato che il cliente dispone di una sottoscrizione di Azure esistente e che agli utenti viene assegnato il ruolo di **proprietario** per la sottoscrizione, è possibile attivare le autorizzazioni del cliente. È anche possibile usare questi passaggi per disattivare (disabilitare) le autorizzazioni del cliente. È possibile abilitare o disabilitare le autorizzazioni dei clienti usando il dashboard del centro per i partner o le [API del centro](/partner-center/develop/manage-customers)per i partner.
 
 Per attivare o disattivare le autorizzazioni dei clienti nel centro per i partner:
 
@@ -151,7 +151,7 @@ Aiutare i clienti a comprendere meglio la gestione di questi aspetti delle preno
 
 **I prezzi dei clienti pagheranno le prenotazioni.** Il cliente effettuerà l'acquisto di prenotazioni di Azure in base a una sottoscrizione acquistata in precedenza nell'account di fatturazione del partner CSP. Il prezzo del cliente per tutte le prenotazioni di Azure acquistate in base a questa sottoscrizione viene anche impostato dall'utente. Il prezzo può essere diverso dal prezzo diretto Web visualizzato dal cliente nel portale di Azure.
 
-**In che modo i clienti possono ottimizzare l'uso di una prenotazione.** Alcuni clienti potrebbero trarre vantaggio dall'apprendere altre informazioni su come ottimizzare l'uso di una prenotazione o su come assegnare l'ambito iniziale di una prenotazione durante l'acquisto. Per altre informazioni, chiedere ai clienti di leggere [gestire le prenotazioni per le risorse di Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
+**In che modo i clienti possono ottimizzare l'uso di una prenotazione.** Alcuni clienti potrebbero trarre vantaggio dall'apprendere altre informazioni su come ottimizzare l'uso di una prenotazione o su come assegnare l'ambito iniziale di una prenotazione durante l'acquisto. Per altre informazioni, chiedere ai clienti di leggere [gestire le prenotazioni per le risorse di Azure](/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
 
 **Cosa accade quando un cliente acquista una prenotazione con un ambito condiviso?** Quando i clienti acquistano una prenotazione basata su una sottoscrizione CSP precedente e assegnano un ambito condiviso a tale prenotazione, tutti gli sconti assegnati al cliente dal CSP verranno applicati all'utilizzo corrispondente per tutte le sottoscrizioni acquistate dal partner CSP per quel cliente.
 

@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: fba1427978e61b739c8ffb14374a44331ef51d27
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366875"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000255"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gestione, annullamento, scambio o rimborso Microsoft Azure prenotazioni per i clienti
 
@@ -33,7 +33,7 @@ ms.locfileid: "89366875"
 - Amministratore gestione utenti
 
 > [!NOTE]
-> Questo articolo si applica solo ai partner del programma Cloud Solution Provider (CSP). I clienti che usano altri tipi di sottoscrizioni, ad esempio con pagamento in base al consumo, singoli contratti Microsoft o sottoscrizioni di Enterprise Agreement, dovranno invece leggere [la documentazione relativa alle prenotazioni di Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
+> Questo articolo si applica solo ai partner del programma Cloud Solution Provider (CSP). I clienti che usano altri tipi di sottoscrizioni, ad esempio con pagamento in base al consumo, singoli contratti Microsoft o sottoscrizioni di Enterprise Agreement, dovranno invece leggere [la documentazione relativa alle prenotazioni di Azure](/azure/cost-management-billing/reservations).
 
 Per gestire le prenotazioni di Azure per i clienti dopo l'acquisto, selezionare il cliente e la prenotazione da gestire nel centro per i partner e quindi apportare modifiche alla prenotazione nel portale di Azure.
 
@@ -45,9 +45,9 @@ Per gestire le prenotazioni di Azure per i clienti dopo l'acquisto, selezionare 
 
     | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
-    | **Panoramica**   | Visualizza i dettagli della prenotazione di un cliente, inclusi i dati relativi alla data di scadenza, all'ambito e all'utilizzo. **Nota** Selezionare **rimborso** per creare una richiesta di supporto per un rimborso con valutazione Pro. Selezionare **Exchange** per creare una richiesta di supporto per scambiare la parte inutilizzata del periodo di prenotazione.  
+    | **Overview**   | Visualizza i dettagli della prenotazione di un cliente, inclusi i dati relativi alla data di scadenza, all'ambito e all'utilizzo. **Nota** Selezionare **rimborso** per creare una richiesta di supporto per un rimborso con valutazione Pro. Selezionare **Exchange** per creare una richiesta di supporto per scambiare la parte inutilizzata del periodo di prenotazione.  
     | **Controllo di accesso (IAM)**   | Consente di gestire l'accesso alle informazioni di prenotazione del cliente.|
-    | **Configurazione**   | Modificare l'ambito della prenotazione e/o la sottoscrizione di Azure a cui è associata la prenotazione.    |
+    | **Configuration**   | Modificare l'ambito della prenotazione e/o la sottoscrizione di Azure a cui è associata la prenotazione.    |
     | **Proprietà**   | Visualizzare le proprietà della prenotazione e copiare negli Appunti l'ID prenotazione e l'ID ordine di prenotazione. **Nota** Il supporto tecnico potrebbe richiedere l'ID prenotazione e l'ID ordine di prenotazione quando si richiede il supporto per conto di un cliente.    |
     | **Nuova richiesta di supporto**    | Richiedere assistenza da supporto tecnico Microsoft.   |
  
@@ -107,6 +107,5 @@ Per presentare una richiesta di supporto per un rimborso o uno scambio per conto
 |Panoramica sulle prenotazioni di Azure in CSP  | [Vendere Microsoft Azure istanze riservate](azure-reservations.md) |
 |Acquisto di prenotazioni di Azure per i clienti nel centro per i partner   | [Acquista prenotazioni di Azure](azure-reservations-buying.md) |
 |Determinare le dimensioni corrette della macchina virtuale e verificare l'utilizzo della macchina virtuale del cliente   | [Dimensionamento delle VM per l'utilizzo massimo della prenotazione di Azure](azure-usage.md)   |
-|Acquisto di prenotazioni di Azure tramite l'API del centro per i partner | [Acquistare istanze di VM riservate di Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) nella documentazione per gli sviluppatori del centro per i partner   |
+|Acquisto di prenotazioni di Azure tramite l'API del centro per i partner | [Acquistare istanze di VM riservate di Azure](/partner-center/develop/purchase-azure-reservations) nella documentazione per gli sviluppatori del centro per i partner   |
 |Concedere ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure da una sottoscrizione acquistata. | [Concedi ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure](give-customers-permission.md)   |
-

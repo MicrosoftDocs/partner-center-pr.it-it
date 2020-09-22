@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c711a937925cea8b1595fce1811142e4076b4d57
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7533b0791ec8760c6223d6af59c2b7995b34a7bc
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435060"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000505"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Acquistare prodotti Marketplace commerciali per i clienti nel centro per i partner
 
@@ -40,7 +40,7 @@ Si acquistano sottoscrizioni per prodotti SaaS basati su licenze offerte dagli e
 
 Per acquistare una sottoscrizione SaaS basata su licenza nel centro per i partner, vedere [creare, sospendere o annullare le sottoscrizioni dei clienti](create-a-new-subscription.md#create-a-new-subscription).
 
-Puoi anche possibile usare le [API del Centro per i partner](https://docs.microsoft.com/partner-center/develop/) per creare sottoscrizioni del Marketplace commerciale per i clienti. (Per altre informazioni sull'uso delle API del centro per i partner, vedere [creare una sottoscrizione per prodotti Marketplace commerciali](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)).
+Puoi anche possibile usare le [API del Centro per i partner](/partner-center/develop/) per creare sottoscrizioni del Marketplace commerciale per i clienti. (Per altre informazioni sull'uso delle API del centro per i partner, vedere [creare una sottoscrizione per prodotti Marketplace commerciali](/partner-center/develop/create-subscription-azure-marketplace-products)).
 
 >[!IMPORTANT]
 > Come partner del programma CSP, è possibile acquistare solo sottoscrizioni Saas **basate su licenza** dagli editori ISV all'interno del centro per i partner. Ciò significa che è possibile acquistare qualsiasi offerta SaaS **basata su licenze** che l'editore ISV ha reso disponibile, incluse le [offerte esclusive](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a cui si ha accesso. Per acquistare o gestire altre offerte del Marketplace commerciale dagli ISV, ad esempio offerte basate **sull'utilizzo**, a consumo o a consumo che coinvolgono applicazioni, contenitori o macchine virtuali di Azure, è necessario passare alla [portale di Azure](https://portal.azure.com/). Per ulteriori informazioni, vedere l'argomento seguente.

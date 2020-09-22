@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: ba5fe60234c002ad2696de348a1b3b9b1284c149
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280597"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999295"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestione di mancato pagamento, frode o uso improprio nel Centro per i partner
 
@@ -79,7 +79,7 @@ Suggerimenti per ridurre i rischi online quando il caricamento di nuovi clienti 
 - Usare l'autenticazione a più fattori, ad esempio la verifica tramite SMS, durante l'iscrizione per ridurre al minimo l'esposizione alla creazione e all'acquisto di account robotizzati.
 - Gestire e tenere traccia delle identità usando i servizi, ad esempio i servizi di identità digitali.
 - Valutare la forza finanziaria dei clienti tramite sistemi di rilevamento illeciti di carte di credito rigorosi.
-- Definire un criterio Clear Collections. Consente di illustrare in dettaglio il processo di raccolta e quando l'accesso alle sottoscrizioni sarà influenzato da un mancato pagamento. È possibile disabilitare l'accesso o [sospendere le sottoscrizioni di un cliente per il](suspend-a-subscription.md) mancato pagamento.
+- Definire un criterio Clear Collections. Consente di illustrare in dettaglio il processo di raccolta e quando l'accesso alle sottoscrizioni sarà influenzato da un mancato pagamento. È possibile disabilitare l'accesso o [sospendere le sottoscrizioni di un cliente per il](create-a-new-subscription.md#suspend-a-subscription) mancato pagamento.
 
 ### <a name="managing-customer-accounts"></a>Gestione degli account cliente
 

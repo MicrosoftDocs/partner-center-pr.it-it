@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848267"
+ms.locfileid: "90999345"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
 
@@ -40,12 +40,12 @@ Come è noto, l'azienda perderà l'accesso a CPS dopo il 31 dicembre 2020. Tutta
 ### <a name="if-you-are-psc-admin"></a>Se si è amministratore di PSC
 
 - Per accedere al centro per i [partner](https://partner.microsoft.com/), è necessario un indirizzo di posta elettronica di lavoro.
-- Configurare l'account con il supporto dell' [amministratore dell'account](https://docs.microsoft.com/partner-center/permissions-overview)del centro per i partner.
+- Configurare l'account con il supporto dell' [amministratore dell'account](permissions-overview.md)del centro per i partner.
 - Leggere questo documento per informazioni su come co-selling nel centro per i partner.
-- Configurare gli account utente nel centro per i partner per tutti gli utenti di PSC (amministratore, Deal Manager e ruoli venditore) e assegnare loro i [ruoli di amministratore di riferimento](https://docs.microsoft.com/partner-center/permissions-overview).
+- Configurare gli account utente nel centro per i partner per tutti gli utenti di PSC (amministratore, Deal Manager e ruoli venditore) e assegnare loro i [ruoli di amministratore di riferimento](permissions-overview.md).
 
 >[!Important]
-> Assicurarsi che l'ID MPN visualizzato nel banner del CPS sia disponibile nell'elenco di percorsi MPN nel centro per i partner. Per verificare l'elenco di tutti i MPNs associati all'account del centro per i partner, è possibile verificare che nel centro per i partner si trovino le "Impostazioni account" e "[località](https://docs.microsoft.com/partner-center/manage-locations)".
+> Assicurarsi che l'ID MPN visualizzato nel banner del CPS sia disponibile nell'elenco di percorsi MPN nel centro per i partner. Per verificare l'elenco di tutti i MPNs associati all'account del centro per i partner, è possibile verificare che nel centro per i partner si trovino le "Impostazioni account" e "[località](manage-locations.md)".
 
  :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Immagine che mostra il banner del CPS in cui i partner possono trovare l'ID MPN.":::
 
@@ -61,10 +61,10 @@ Come è noto, l'azienda perderà l'accesso a CPS dopo il 31 dicembre 2020. Tutta
 
 Se non viene visualizzata la scheda riferimenti:
 
-- L' [amministratore globale](https://docs.microsoft.com/partner-center/permissions-overview) dell'azienda può concedere l'accesso alla scheda riferimenti. Per trovare l'amministratore globale, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Selezionare la pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "Global Admins". La pagina visualizzerà quindi tutti gli amministratori globali con i rispettivi ID di posta elettronica. Contattarli per ottenere l'accesso "referral admin" per l'account aziendale.
+- L' [amministratore globale](permissions-overview.md) dell'azienda può concedere l'accesso alla scheda riferimenti. Per trovare l'amministratore globale, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Selezionare la pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "Global Admins". La pagina visualizzerà quindi tutti gli amministratori globali con i rispettivi ID di posta elettronica. Contattarli per ottenere l'accesso "referral admin" per l'account aziendale.
 
 >[!Important]
-> Se il ruolo gestisce solo gli utenti in CPS, è possibile ottenere il ruolo di [amministratore dell'account](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) nel centro per i partner. Se il ruolo include anche la gestione di opportunità di co-selling, è necessario ottenere il ruolo di [amministratore dei riferimenti](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) . Inoltre, è possibile nominare un responsabile della gestione delle modifiche tra gli amministratori del CPS per collaborare con l'amministratore dell'account del centro per i partner invece che con tutti gli amministratori del CPS che raggiungono gli amministratori dell'account in PC singolarmente.
+> Se il ruolo gestisce solo gli utenti in CPS, è possibile ottenere il ruolo di [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) nel centro per i partner. Se il ruolo include anche la gestione di opportunità di co-selling, è necessario ottenere il ruolo di [amministratore dei riferimenti](permissions-overview.md#manage-referrals) . Inoltre, è possibile nominare un responsabile della gestione delle modifiche tra gli amministratori del CPS per collaborare con l'amministratore dell'account del centro per i partner invece che con tutti gli amministratori del CPS che raggiungono gli amministratori dell'account in PC singolarmente.
 
  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Immagine che Mostra gli amministratori dell'account nella pagina Gestione utenti delle impostazioni partner.":::
 
@@ -76,9 +76,9 @@ Se non viene visualizzata la scheda riferimenti:
 Dopo aver configurato l'account nel centro per i partner,
 
 - Invitare tutti gli utenti che hanno un ruolo "Deal Manager" o "seller" da CPS al centro per i partner come passaggio successivo.
-- L' [amministratore dell'account](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) che ha aiutato l'accesso ai riferimenti può invitare tutti gli utenti.
-- Quando si invitano gli utenti, chiedere all'amministratore dell'account di assegnare il ruolo di [amministratore di riferimento](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) .
-- Alcuni utenti di PSC potrebbero usare un account non aziendale o un account di un dominio diverso da quello usato nel centro per i partner. Tutti questi utenti devono accedere al centro per i partner usando il proprio account di lavoro collegato al tenant di Azure AD. L' [amministratore globale](https://docs.microsoft.com/partner-center/permissions-overview#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) può essere d'aiuto per questa operazione. Per trovare l'amministratore globale, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Fare clic sulla pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "Global Admins".
+- L' [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) che ha aiutato l'accesso ai riferimenti può invitare tutti gli utenti.
+- Quando si invitano gli utenti, chiedere all'amministratore dell'account di assegnare il ruolo di [amministratore di riferimento](permissions-overview.md#manage-referrals) .
+- Alcuni utenti di PSC potrebbero usare un account non aziendale o un account di un dominio diverso da quello usato nel centro per i partner. Tutti questi utenti devono accedere al centro per i partner usando il proprio account di lavoro collegato al tenant di Azure AD. L' [amministratore globale](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) può essere d'aiuto per questa operazione. Per trovare l'amministratore globale, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Fare clic sulla pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "Global Admins".
 - L'amministratore globale può creare un nuovo account utente nel tenant di Azure AD o assegnare l'accesso utente Guest agli altri utenti dell'account di dominio.
 - Una volta configurati gli account per tutti gli utenti e i responsabili delle operazioni di PSC, è necessario accedere al centro per i partner, passare alla scheda referral nel pannello di navigazione a sinistra e verificare che possano visualizzare la pagina dei riferimenti.
 
@@ -100,16 +100,16 @@ Si tratta di un passaggio importante, che consente di prepararsi per il co-selli
 
 |**Scenario**|**Connessione vendite partner**|**Centro per i partner**|
 |-----|:-----|:-----|
-|Ruoli utente|PSC ha ruoli di amministratore, Deal Manager e seller.|Il computer dispone solo di un ruolo di [amministratore di riferimento](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) che fornisce le autorizzazioni di lettura e scrittura per tutte le offerte.|
-|Invito a Microsoft in un'offerta di co-selling|Avviato da Microsoft seller, non esiste alcuna domanda esplicita da un partner.|Il partner dovrà effettuare una [richiesta esplicita](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) se è necessaria una guida a Microsoft seller per un'operazione. Microsoft Seller offre un'opzione per rifiutare la richiesta.|
+|Ruoli utente|PSC ha ruoli di amministratore, Deal Manager e seller.|Il computer dispone solo di un ruolo di [amministratore di riferimento](permissions-overview.md#manage-referrals) che fornisce le autorizzazioni di lettura e scrittura per tutte le offerte.|
+|Invito a Microsoft in un'offerta di co-selling|Avviato da Microsoft seller, non esiste alcuna domanda esplicita da un partner.|Il partner dovrà effettuare una [richiesta esplicita](manage-co-sell-opportunities.md#add-solutions) se è necessaria una guida a Microsoft seller per un'operazione. Microsoft Seller offre un'opzione per rifiutare la richiesta.|
 |Expiry|Non esiste alcun concetto di scadenza della trattativa.|Le offerte per i partner in ingresso scadono entro 14 giorni se non vengono accettate dal partner. Lo stesso avviene con le trattative in uscita partner che possono passare allo stato scaduto se il venditore Microsoft non agisce su di essi entro 14 giorni.|
 |Dettagli sui venditori Microsoft|Visibile non appena viene creata una trattativa.|I dettagli di Microsoft seller sono condivisi con il partner solo se il venditore accetta in modo esplicito l'invito per il co-selling dal partner.|
-|[Pipeline privata](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities)|Non disponibile.|I partner possono condividere la propria pipeline senza fornire visibilità ai venditori Microsoft.|
-|Soluzioni|Le soluzioni che appartengono a un solo listino prezzi possono essere aggiunte a un'operazione.|Il partner può aggiungere [soluzioni](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) che appartengono agli elenchi seguenti. a) soluzioni b) dal catalogo di Microsoft First Party (simile al ruolo Transaction Deal in CPS) e c) Co-selling di altri partner di terze parti (in modo analogo al ruolo di Deal ISV in CPS).|
+|[Pipeline privata](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Non disponibile.|I partner possono condividere la propria pipeline senza fornire visibilità ai venditori Microsoft.|
+|Soluzioni|Le soluzioni che appartengono a un solo listino prezzi possono essere aggiunte a un'operazione.|Il partner può aggiungere [soluzioni](manage-co-sell-opportunities.md#add-solutions) che appartengono agli elenchi seguenti. a) soluzioni b) dal catalogo di Microsoft First Party (simile al ruolo Transaction Deal in CPS) e c) Co-selling di altri partner di terze parti (in modo analogo al ruolo di Deal ISV in CPS).|
 |Assegnazione di Deal|Solo i venditori assegnati possono visualizzare e agire sulle offerte.|I membri del team possono essere aggiunti a una trattativa per specificare gli utenti che lavorano a una trattativa, non vi è alcun blocco di altri amministratori dei riferimenti da visualizzare o agire su tali offerte.|
-|Organizzazione del cliente|Immissione di testo in formato libero.|È possibile cercare l' [organizzazione del cliente](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) nel [database D&B](https://www.dnb.com/) semplicemente digitando alcuni caratteri. Il nome e l'indirizzo validi vengono popolati automaticamente in base alla scelta.|
+|Organizzazione del cliente|Immissione di testo in formato libero.|È possibile cercare l' [organizzazione del cliente](manage-co-sell-opportunities.md#select-your-customer) nel [database D&B](https://www.dnb.com/) semplicemente digitando alcuni caratteri. Il nome e l'indirizzo validi vengono popolati automaticamente in base alla scelta.|
 |Contatto del cliente|Non obbligatorio.|Non obbligatorio per la condivisione di pipeline privata. Obbligatorio se il venditore Microsoft è invitato a partecipare a una richiesta di co-selling.|
-|API pubblica|Non disponibile.|[API pubblica](https://docs.microsoft.com/partner/develop/referrals) per gestire a livello di codice i riferimenti del centro per i partner.|
+|API pubblica|Non disponibile.|[API pubblica](/partner/develop/referrals) per gestire a livello di codice i riferimenti del centro per i partner.|
 
 ## <a name="psc-and-partner-center-field-mapping"></a>Mapping dei campi di CPS e del centro per i partner
 
@@ -166,13 +166,13 @@ In questa sezione viene illustrata la mappa esatta degli attributi tra CPS e cen
 
 **Q1. Quali operazioni è necessario eseguire se non si ha accesso al centro per I partner?**
 
-È possibile contattare gli amministratori elencati nella pagina "nessun accesso" per ottenere i ruoli assegnati. Per le autorizzazioni di lettura e scrittura, è necessario il ruolo "[amministratore di riferimento](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" nella sezione dei riferimenti. Se si gestiscono solo i profili di business, sarà necessario il ruolo "amministratore del profilo di business" nel centro per i partner.
+È possibile contattare gli amministratori elencati nella pagina "nessun accesso" per ottenere i ruoli assegnati. Per le autorizzazioni di lettura e scrittura, è necessario il ruolo "[amministratore di riferimento](permissions-overview.md#manage-referrals)" nella sezione dei riferimenti. Se si gestiscono solo i profili di business, sarà necessario il ruolo "amministratore del profilo di business" nel centro per i partner.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Immagine che mostra l'esperienza di accesso non disponibile nel centro per i partner.":::
 
 **Q2. Chi può concedere l'accesso alla sezione relativa ai riferimenti nel centro per i partner?**
 
-L' [amministratore dell'account](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) può concedere l'accesso alla scheda riferimenti. Per trovare l'amministratore dell'account, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Fare clic sulla pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "account Admins". La pagina visualizzerà quindi tutti gli amministratori dell'account con i rispettivi ID di posta elettronica. Contattarli per ottenere l'accesso "referral admin" per l'account aziendale.
+L' [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) può concedere l'accesso alla scheda riferimenti. Per trovare l'amministratore dell'account, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Fare clic sulla pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "account Admins". La pagina visualizzerà quindi tutti gli amministratori dell'account con i rispettivi ID di posta elettronica. Contattarli per ottenere l'accesso "referral admin" per l'account aziendale.
 
 **Q3. Il pulsante + nuovo affare è disattivato per l'account. Cosa devo fare per iniziare a creare le offerte?**
 
@@ -192,7 +192,7 @@ No, non è disponibile alcuna visualizzazione di sola lettura delle offerte nell
 
 **Q7. Come è possibile registrare una transazione dopo averla vinta?**
 
-Se il problema soddisfa i criteri indicati di seguito, viene visualizzata una finestra popup per avviare la [registrazione dell'accordo](https://docs.microsoft.com/partner-center/register-deals).
+Se il problema soddisfa i criteri indicati di seguito, viene visualizzata una finestra popup per avviare la [registrazione dell'accordo](./register-deals.md).
 
 - Una soluzione idonea per gli incentivi è allegata alla trattativa.
 - Il venditore Microsoft è invitato a partecipare all'affare oppure ha invitato l'utente all'affare.
@@ -204,11 +204,11 @@ La registrazione "+ New Deal" deve essere usata solo dai partner registrati nel 
 
 **Q9. L'aggiunta di un'organizzazione cliente è obbligatoria?**
 
-Sì, l'aggiunta di un' [organizzazione cliente](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) è obbligatoria nel centro per i partner. Per iniziare, cercare il percorso in cui si trova il cliente. In base ai dettagli disponibili; è possibile essere specifici, tra cui il nome esatto della compilazione, o fornire solo i dettagli della città. La ricerca nell'organizzazione recupererà tutte le entità legali che corrispondono al nome immesso, in modo da non dover immettere i dettagli degli indirizzi. Tutti i dettagli vengono compilati automaticamente in base all'organizzazione selezionata.
+Sì, l'aggiunta di un' [organizzazione cliente](./manage-co-sell-opportunities.md#select-your-customer) è obbligatoria nel centro per i partner. Per iniziare, cercare il percorso in cui si trova il cliente. In base ai dettagli disponibili; è possibile essere specifici, tra cui il nome esatto della compilazione, o fornire solo i dettagli della città. La ricerca nell'organizzazione recupererà tutte le entità legali che corrispondono al nome immesso, in modo da non dover immettere i dettagli degli indirizzi. Tutti i dettagli vengono compilati automaticamente in base all'organizzazione selezionata.
 
 **Q10. I dettagli del contatto del cliente sono obbligatori?**
 
-Dipende dal [tipo di problema](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities) che si sta creando. Se si sta semplicemente condividendo la pipeline senza richiedere assistenza da parte di Microsoft Sales Organization, è possibile scegliere di non fornire i dettagli di contatto del cliente. Se si sta eseguendo la co-selling in cui si cerca attivamente assistenza da parte del venditore Microsoft, sarà necessario fornire i dettagli di contatto del cliente. Prima di creare una richiesta di co-selling nel centro per i partner, si dovrebbe ottenere il consenso esplicito del cliente.
+Dipende dal [tipo di problema](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) che si sta creando. Se si sta semplicemente condividendo la pipeline senza richiedere assistenza da parte di Microsoft Sales Organization, è possibile scegliere di non fornire i dettagli di contatto del cliente. Se si sta eseguendo la co-selling in cui si cerca attivamente assistenza da parte del venditore Microsoft, sarà necessario fornire i dettagli di contatto del cliente. Prima di creare una richiesta di co-selling nel centro per i partner, si dovrebbe ottenere il consenso esplicito del cliente.
 
 **Q11. Quante soluzioni è possibile aggiungere a una trattativa?**
 
@@ -228,7 +228,7 @@ Non è possibile accedere direttamente al centro per i partner PDM a differenza 
 
 - Informazioni dettagliate su OCP: se PDM sono semplicemente in grado di visualizzare le offerte & stato di avanzamento correlato, possono usare il portale di OCP Insights per ottenere la visualizzazione dell'organizzazione. Si tratta di uno strumento interno ed è disponibile solo per PDM. Si noti che OCP Insights non è disponibile per gli utenti della società.
 - Utente guest in centro per i partner: è possibile aggiungere l' @microsoft.com account PDM come utente Guest nel centro per i partner e assegnare loro un ruolo di amministratore in modo che possano visualizzare e agire sui riferimenti.
-- Creazione di un [nuovo utente](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) nel tenant: è possibile creare un nuovo utente nel tenant e condividere i dettagli con il PDM in modo che possano visualizzare i riferimenti e agire su di essi in modo analogo ad altri utenti di riferimento nell'account.
+- Creazione di un [nuovo utente](./create-user-accounts-and-set-permissions.md#add-a-new-user) nel tenant: è possibile creare un nuovo utente nel tenant e condividere i dettagli con il PDM in modo che possano visualizzare i riferimenti e agire su di essi in modo analogo ad altri utenti di riferimento nell'account.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Risorse che consentono di creare e gestire le proprie offerte nel centro per i partner
 
@@ -236,15 +236,15 @@ Se non sono stati ancora letti gli argomenti della Guida di co-selling, le risor
 
 |**Per eseguire questa operazione**   |**Leggi**   |
 |-----------------------|:-----------------------|
-|Informazioni sulle schede e sulla navigazione nella pagina opportunità di co-selling|[Esplorazione della sezione di co-selling](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#navigating-the-co-sell-section)|
-|Selezione di un'organizzazione cliente dall'elenco D&B |[Selezionare il cliente](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)|
-|Modifica dei campi nella sezione dettagli sull'accordo|[Dettagli sull'offerta](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#deal-details)|
-|Aggiunta dei dipendenti della società a un team di gestione|[Aggiungere i dipendenti](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-your-employees)|
-|Risposta a un affare di co-selling|[Gestisci le offerte di co-selling](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#responding-to-a-co-sell-opportunity)
-|Registra le offerte acquisite nel centro per i partner |[Registrare una nuova trattativa](https://docs.microsoft.com/partner-center/register-deals)
-|Ottieni informazioni dettagliate sul riferimento e Scopri come fanno i tuoi riferimenti |[Informazioni dettagliate sulle segnalazioni](https://docs.microsoft.com/partner-center/referral-insights)
-|Creazione e gestione del profilo di business|[Gestire profilo di business](https://docs.microsoft.com/partner-center/create-a-marketing-profile)
-|Gestisci lead per il tuo profilo business |[Gestire lead](https://docs.microsoft.com/partner-center/manage-leads)|
+|Informazioni sulle schede e sulla navigazione nella pagina opportunità di co-selling|[Esplorazione della sezione di co-selling](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
+|Selezione di un'organizzazione cliente dall'elenco D&B |[Selezionare il cliente](./manage-co-sell-opportunities.md#select-your-customer)|
+|Modifica dei campi nella sezione dettagli sull'accordo|[Dettagli sull'offerta](./manage-co-sell-opportunities.md#deal-details)|
+|Aggiunta dei membri del team a un team di gestione|[Aggiungere i dipendenti](./manage-co-sell-opportunities.md#add-team-members)|
+|Risposta a un affare di co-selling|[Gestisci le offerte di co-selling](./manage-co-sell-opportunities.md#responding-to-a-co-sell-opportunity)
+|Registra le offerte acquisite nel centro per i partner |[Registrare una nuova trattativa](./register-deals.md)
+|Ottieni informazioni dettagliate sul riferimento e Scopri come fanno i tuoi riferimenti |[Informazioni dettagliate sulle segnalazioni](./referral-insights.md)
+|Creazione e gestione del profilo di business|[Gestire profilo di business](./create-a-marketing-profile.md)
+|Gestisci lead per il tuo profilo business |[Gestire lead](./manage-leads.md)|
 
 ## <a name="additional-resources"></a>Risorse aggiuntive
 

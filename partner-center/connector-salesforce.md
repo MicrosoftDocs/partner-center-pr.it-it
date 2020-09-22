@@ -8,12 +8,12 @@ description: Sincronizzare i riferimenti nel centro per i partner con Salesforce
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4f636da49504c69c1e0e44c176fb76a4d7f8a78e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 595cbba8a173eb81b4e3520d1b1b0533c4dee296
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527834"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000595"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connettore di co-selling per CRM Salesforce - Panoramica
 
@@ -34,7 +34,7 @@ La soluzione è basata sulla soluzione Microsoft Power automatizzate e usa le AP
 |Co-selling pronto|La soluzione IP/servizi deve essere pronta per il co-selling.|[Vendi con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Account del Centro per i partner|L'ID MPN associato al tenant del centro per i partner deve corrispondere all'ID MPN associato alla soluzione di co-selling. Prima di distribuire i connettori, verificare che sia possibile visualizzare i riferimenti di co-selling nel portale del centro per i partner.|[Gestire l'account](create-user-accounts-and-set-permissions.md)|
 |Ruoli utente del Centro per i partner|Il dipendente che installerà e userà i connettori deve essere un amministratore dei riferimenti|[Assegnare autorizzazioni e ruoli utente](create-user-accounts-and-set-permissions.md)|
-|CRM Salesforce|Il ruolo utente CRM è amministratore sistema o sistema verbi|[Assegnare ruoli in Salesforce CRM](https://docs.microsoft.com/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
+|CRM Salesforce|Il ruolo utente CRM è amministratore sistema o sistema verbi|[Assegnare ruoli in Salesforce CRM](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
 |Power automatizzare l'account di flusso|Un account di [Power automatici](https://flow.microsoft.com) attivo per l'amministratore del sistema CRM o verbi di sistema. L'utente deve accedere a [Power Automate](https://flow.microsoft.com) almeno una volta prima dell'installazione.|
 
 ## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Installare la sincronizzazione dei riferimenti del centro per i partner per Salesforce CRM
@@ -115,7 +115,7 @@ Le API webhook del centro per i partner consentono di effettuare la registrazion
 
 1. Per registrare l'URL, selezionare il flusso di registrazione del webhook per il centro per i **partner (anteprima di insider Preview)** .
 
-2. Aggiungi connessioni per (a) Utente del centro per i partner con credenziali di amministratore di riferimento (b) Eventi del centro per i partner evidenziati di seguito
+2. Aggiungere le connessioni per l'utente del centro per i partner (a.) con le credenziali di amministratore di riferimento (b.) eventi del centro per i partner come indicato di seguito
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Trigger":::
 
@@ -177,7 +177,7 @@ Spesso i sistemi CRM sono altamente personalizzati. È possibile personalizzare 
 
 3. Per personalizzare i campi per la sincronizzazione dei riferimenti da CRM a PC per gli eventi di aggiornamento:
 
-   1. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
+   1. Selezionare **modifica**  per modificare/personalizzare il flusso di automazione dell'alimentazione.
 
    2. Selezionare **(ambito) sincronizzare l'opportunità**.
 
@@ -189,7 +189,7 @@ Spesso i sistemi CRM sono altamente personalizzati. È possibile personalizzare 
 
 4. Per personalizzare i campi per la sincronizzazione dei riferimenti da CRM a PC per la creazione di eventi?
 
-   1. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
+   1. Selezionare **modifica**  per modificare/personalizzare il flusso di automazione dell'alimentazione.
 
    2. Selezionare **(ambito) sincronizzare i riferimenti.**
 
@@ -298,7 +298,7 @@ I campi personalizzati seguenti devono far parte della sezione CRM:
        - "Come può essere utile Microsoft?": selezionare una delle opzioni seguenti:
        - Prodotti: ID soluzione del prodotto
 
-   4. Dopo aver impostato l'opzione opportunity **Sync with partner Center** su **Sì**, attendere 10 minuti, accedere all'account del centro per i partner. I riferimenti verranno sincronizzati con Salesforce CRM.
+   4. Dopo aver impostato l'opzione opportunity  **Sync with partner Center** su **Sì**, attendere 10 minuti, accedere all'account del centro per i partner. I riferimenti verranno sincronizzati con Salesforce CRM.
 
    5. Quando l'opzione "Sincronizza con il centro per i partner" è impostata su "Sì", se si aggiorna l'opportunità in Salesforce CRM, le modifiche verranno sincronizzate con l'account del centro per i partner.
 
@@ -322,10 +322,10 @@ I campi personalizzati seguenti devono far parte della sezione CRM:
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Altre informazioni sulla piattaforma Microsoft Power automatizzate?](https://docs.microsoft.com/-automate/)
+- [Altre informazioni sulla piattaforma Microsoft Power automatizzate?](/-automate/)
 
 - [Gestire lead](manage-leads.md)
 
 - [Gestire opportunità di co-selling](manage-co-sell-opportunities.md)
 
-- [Webhook del Centro per i partner](https://docs.microsoft.com/partner-center/develop/partner-center-webhooks)
+- [Webhook del Centro per i partner](/partner-center/develop/partner-center-webhooks)

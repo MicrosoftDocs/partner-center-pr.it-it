@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a0ede199da0c18c8c73b01cbdc4a8447f842747a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 5f81022c3ea32eefc0e1f85bea1b1830603620e7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949523"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000315"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud for US Government
 
@@ -41,11 +41,11 @@ Dopo aver eseguito l'accesso all'portale di Azure per Microsoft Cloud per il gov
 > [!NOTE]  
 > Se si selezionano i collegamenti seguenti, verrà visualizzata un'altra pagina Web. 
 
--  [**Aggiungere nuovi utenti a Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [**Aggiungere nuovi utenti a Azure Active Directory**](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Assegnare un utente ai ruoli di amministratore in Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [**Assegnare un utente ai ruoli di amministratore in Azure Active Directory**](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**Reimpostare la password per un utente in Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [**Reimpostare la password per un utente in Azure Active Directory**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **Argomenti correlati**
 

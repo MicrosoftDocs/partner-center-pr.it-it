@@ -1,5 +1,5 @@
 ---
-title: Accedi alla pagina dei tuoi pagamenti
+title: Accedere alla pagina dei proventi
 ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 32a7afcd939d47ed71627511645e1f3560717288
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 4f5c2188c88f66c3cc406af32bde9043ae7bb4c2
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714365"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999885"
 ---
 # <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Accedi alle pagine dei pagamenti per le app e i giochi di Windows, gli incentivi MPN e i pagamenti per il Marketplace commerciale
 
@@ -29,10 +29,10 @@ ms.locfileid: "90714365"
 
 Le informazioni della Guida per i pagamenti che si applicano a dipendono dal programma partner che si sta utilizzando. Per visualizzare la pagina appropriata, selezionare il collegamento corrispondente di seguito:
 
-- Per i pagamenti di app e giochi di Windows, vedere [Riepilogo](https://docs.microsoft.com/windows/uwp/publish/payout-summary) dei pagamenti nella documentazione per sviluppatori Windows.
+- Per i pagamenti di app e giochi di Windows, vedere [Riepilogo](/windows/uwp/publish/payout-summary) dei pagamenti nella documentazione per sviluppatori Windows.
 
 - Per i pagamenti di incentivi Microsoft Partner Network (MPN), vedere [visualizzare le informazioni sui pagamenti](understand-incentive-payouts.md) per gli incentivi nella documentazione relativa agli incentivi MPN.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Per informazioni sui pagamenti del Marketplace commerciale per fornitori di software indipendenti (ISV), vedere la pagina relativa al riepilogo dei pagamenti in [Marketplace commerciali](https://docs.microsoft.com/azure/marketplace/partner-center-portal/payout-summary).
+- Per informazioni sui pagamenti del Marketplace commerciale per fornitori di software indipendenti (ISV), vedere la pagina relativa al riepilogo dei pagamenti in [Marketplace commerciali](/azure/marketplace/partner-center-portal/payout-summary).

@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 475251477ac6b505f76b1175dff158db732e4794
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: b9458c2dc320851877f77d8a142974715f1b2521
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614138"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000585"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Se non è possibile accedere al centro per i partner ed è necessario reimpostare la password
 
@@ -22,9 +22,9 @@ ms.locfileid: "89614138"
 
 - Utenti del centro per i partner
 
-Se la password è stata dimenticata e non è possibile accedere al centro per i partner, è necessario contattare il supporto tecnico. Trova il contatto appropriato al [supporto tecnico per i prodotti aziendali](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products). 
+Se la password è stata dimenticata e non è possibile accedere al centro per i partner, è necessario contattare il supporto tecnico. Trova il contatto appropriato al [supporto tecnico per i prodotti aziendali](/microsoft-365/admin/contact-support-for-business-products). 
 
-Per i diversi modi in cui è possibile reimpostare la password e riottenere l'accesso all'account aziendale, vedere [reimpostare la password aziendale o dell'Istituto di istruzione usando le info di sicurezza](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).
+Per i diversi modi in cui è possibile reimpostare la password e riottenere l'accesso all'account aziendale, vedere [reimpostare la password aziendale o dell'Istituto di istruzione usando le info di sicurezza](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).
 
 Dopo la reimpostazione della password dell'account di lavoro, sarà possibile accedere al centro per i partner. 
 
@@ -33,4 +33,3 @@ Dopo la reimpostazione della password dell'account di lavoro, sarà possibile ac
 - [Verificare le informazioni sull'account](verification-responses.md)
 - [Reimpostare la password personale](reset-my-pasword.md)
 - [Reimpostare una password utente](reset-a-user-password.md)
-

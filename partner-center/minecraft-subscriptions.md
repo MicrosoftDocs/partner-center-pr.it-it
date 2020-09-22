@@ -8,12 +8,12 @@ description: Vendere gli abbonamenti di Minecraft Education Edition a clienti qu
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 98094096de41f20df6f381687984ea3ee1a7c334
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436820"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000065"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendere le sottoscrizioni Minecraft: Education Edition ai clienti del settore istruzione
 
@@ -53,9 +53,7 @@ Seguire questa procedura per acquistare le sottoscrizioni di **Minecraft: Educat
 
   6.  Dopo aver acquistato la sottoscrizione, indirizzare il cliente della formazione all'inventario nel [Microsoft Store per la formazione](https://educationstore.microsoft.com) per scaricare il software e distribuire le licenze.
 
-      Se il cliente necessita di ulteriori informazioni sulla distribuzione delle licenze software per gli utenti, è possibile [ottenere altre informazioni qui](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft).  
+      Se il cliente necessita di ulteriori informazioni sulla distribuzione delle licenze software per gli utenti, è possibile [ottenere altre informazioni qui](/education/windows/school-get-minecraft#distribute-minecraft).  
   
-      Se il cliente non ha familiarità con lo Store per la formazione, potrà saperne di più su [Questa pagina introduttiva](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview).  
-
-      
+      Se il cliente non ha familiarità con lo Store per la formazione, potrà saperne di più su [Questa pagina introduttiva](/microsoft-store/windows-store-for-business-overview).  
 

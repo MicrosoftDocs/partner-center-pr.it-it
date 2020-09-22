@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 492c0358d75488a199c24b7f47931305b46a73a0
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527727"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000415"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Scopri le offerte e i prezzi nel Marketplace commerciale del centro per i partner
 
@@ -70,7 +70,7 @@ Per visualizzare le offerte di Marketplace commerciali disponibili nel programma
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>Visualizzare le offerte del Marketplace tramite le API del centro
 
-I partner del programma CSP possono anche usare le API per restituire un elenco di offerte idonee. Le offerte idonee saranno solo le offerte ISV SaaS disponibili per il partner per la vendita tramite il Marketplace del partner Center. Per i partner che usano le API per identificare le offerte nel catalogo, vedere le indicazioni per [ottenere un elenco di offerte per un mercato](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+I partner del programma CSP possono anche usare le API per restituire un elenco di offerte idonee. Le offerte idonee saranno solo le offerte ISV SaaS disponibili per il partner per la vendita tramite il Marketplace del partner Center. Per i partner che usano le API per identificare le offerte nel catalogo, vedere le indicazioni per [ottenere un elenco di offerte per un mercato](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Visualizza i prezzi più recenti dell'offerta Marketplace nel centro per i partner
 
@@ -101,7 +101,7 @@ Per ogni offerta contrassegnata come esclusiva, tuttavia, solo i partner selezio
 > [!NOTE]
 > Se viene visualizzata un'offerta contrassegnata come esclusiva che si vuole vendere ai clienti, contattare direttamente l'ISV e richiedere l'autorizzazione a vendere l'offerta esclusiva. Quando si visualizzano i dettagli di un'offerta esclusiva, è possibile che venga visualizzato un collegamento **Contatta ISV** che è possibile selezionare.
 
-Per ulteriori informazioni sull'esperienza ISV nel Marketplace commerciale, vedere provider di [soluzioni cloud](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+Per ulteriori informazioni sull'esperienza ISV nel Marketplace commerciale, vedere provider di [soluzioni cloud](/azure/marketplace/cloud-solution-providers).
 
 Per altre informazioni sull'esperienza CSP nel Marketplace, vedere Panoramica del [Marketplace commerciale](csp-commercial-marketplace-overview.md).
 

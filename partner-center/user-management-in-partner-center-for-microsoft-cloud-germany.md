@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 044aae1dd1482f41799acd06c791447a773b4226
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220090"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000625"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud Germania
 
@@ -46,11 +46,11 @@ Dopo aver eseguito l'accesso al portale di Azure per Microsoft Cloud Germania, a
 > [!NOTE]  
 > Se si selezionano i collegamenti seguenti, verrà visualizzata un'altra pagina Web.
 
--  [Aggiungere nuovi utenti a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Aggiungere nuovi utenti a Azure Active Directory](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [Assegnare un utente ai ruoli di amministratore in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [Assegnare un utente ai ruoli di amministratore in Azure Active Directory](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [Reimpostare la password per un utente in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Reimpostare la password per un utente in Azure Active Directory](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 ## <a name="next-steps"></a>Passaggi successivi
 

@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5c506e1f3dd5e1ffcac1d7017687b1b36718745
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943475"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000425"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Fatturazione per prodotti e sottoscrizioni in Marketplace commerciali nel centro per i partner
 
@@ -30,12 +30,12 @@ ms.locfileid: "86943475"
 
 Come partner del programma CSP, è possibile usare il centro per i partner per acquistare prodotti SaaS basati su licenze dagli editori ISV nel Marketplace commerciale. Al termine di questa operazione, è possibile accedere a una fattura per questi tipi di acquisti. Il periodo di fatturazione inizia il primo giorno del mese di calendario e termina l'ultimo giorno del mese di calendario. Le fatture vengono rese disponibili nell'ottavo giorno del mese successivo.
 
-È possibile accedere alle fatture dal [Dashboard](https://partner.microsoft.com/dashboard/) del centro per i partner o usando le [API del centro](https://docs.microsoft.com/partner-center/develop/)per i partner.
+È possibile accedere alle fatture dal [Dashboard](https://partner.microsoft.com/dashboard/) del centro per i partner o usando le [API del centro](/partner-center/develop/)per i partner.
 
 I partner del programma CSP vengono fatturati per le soluzioni di Marketplace commerciale ISV acquistate per un cliente quando acquistano i prodotti dal centro per i partner o dalla portale di Azure (usando il tenant di Azure precedente, acquistato da CSP).
 
 >[!NOTE]
->Se i clienti usano il proprio tenant Azure AD (non uno acquistato da un partner nel programma CSP), i clienti possono anche scegliere di acquistare la propria soluzione SaaS ISV direttamente da ([Microsoft AppSource](https://appsource.microsoft.com/) o [Azure Marketplace](https://azuremarketplace.microsoft.com/)). In tal caso, riceveranno la propria fattura direttamente da Microsoft. Analogamente, se un partner del programma CSP vende una sottoscrizione di Azure o il nuovo piano Azure al cliente e concede al cliente (o al rivenditore indiretto) l' [accesso in base al ruolo](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) a tale tenant (assegnando un ruolo al cliente oltre al **lettore**), il cliente (o rivenditore indiretto) potrà acquistare anche offerte di Marketplace commerciali senza previa approvazione o notifica al partner CSP. In questi casi, Microsoft non invierà direttamente una notifica ai partner del programma CSP sugli acquisti effettuati dai clienti. Tuttavia, Microsoft offre un meccanismo di [monitoraggio di Azure](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) facoltativo che è possibile usare per impostare avvisi o notifiche sulle attività in una sottoscrizione di Azure.
+>Se i clienti usano il proprio tenant Azure AD (non uno acquistato da un partner nel programma CSP), i clienti possono anche scegliere di acquistare la propria soluzione SaaS ISV direttamente da ([Microsoft AppSource](https://appsource.microsoft.com/) o [Azure Marketplace](https://azuremarketplace.microsoft.com/)). In tal caso, riceveranno la propria fattura direttamente da Microsoft. Analogamente, se un partner del programma CSP vende una sottoscrizione di Azure o il nuovo piano Azure al cliente e concede al cliente (o al rivenditore indiretto) l' [accesso in base al ruolo](/azure/role-based-access-control/built-in-roles) a tale tenant (assegnando un ruolo al cliente oltre al **lettore**), il cliente (o rivenditore indiretto) potrà acquistare anche offerte di Marketplace commerciali senza previa approvazione o notifica al partner CSP. In questi casi, Microsoft non invierà direttamente una notifica ai partner del programma CSP sugli acquisti effettuati dai clienti. Tuttavia, Microsoft offre un meccanismo di [monitoraggio di Azure](/azure/azure-monitor/platform/alerts-activity-log) facoltativo che è possibile usare per impostare avvisi o notifiche sulle attività in una sottoscrizione di Azure.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Accedi alle informazioni di fatturazione per i prodotti commerciali del Marketplace
 
@@ -53,7 +53,7 @@ L'amministratore globale o l'amministratore della fatturazione per l'azienda ric
   
 3. Selezionare la scheda **ricorrenza e acquisti** monouso. Se sono state acquistate sottoscrizioni per un cliente in una valuta diversa, viene visualizzata una scheda per ogni valuta. È possibile eseguire alcune operazioni in fr: om questa pagina:
 
-    - Per visualizzare la fattura e il file di riconciliazione più recenti, selezionare **fattura** o **file di riconciliazione**. Se si vuole, è anche possibile accedere ai dati più recenti relativi a fattura e file di ricognizione usando le [API del centro](https://docs.microsoft.com/partner-center/develop/)per i partner.
+    - Per visualizzare la fattura e il file di riconciliazione più recenti, selezionare **fattura** o **file di riconciliazione**. Se si vuole, è anche possibile accedere ai dati più recenti relativi a fattura e file di ricognizione usando le [API del centro](/partner-center/develop/)per i partner.
 
     - Per visualizzare le fatture e i file di ricognizione precedenti, espandere la riga **cronologia di fatturazione** riportata di seguito.
 

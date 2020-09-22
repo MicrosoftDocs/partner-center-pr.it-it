@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 66c8b490e69e9b03ec0db213ca2a5baf3d42635e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527804"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000525"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
@@ -78,9 +78,9 @@ Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elen
 
     - Se la sottoscrizione viene fornita con una versione di valutazione gratuita di 30 giorni, il periodo di valutazione gratuito verrà applicato automaticamente. I partner del programma CSP non possono rinunciare al periodo di valutazione gratuito sulle offerte acquistate per i clienti. Una volta terminato il periodo di valutazione gratuita, viene avviato il periodo di validità della sottoscrizione e la sottoscrizione viene convertita in stato a pagamento. La sottoscrizione verrà quindi rinnovata automaticamente in base alla stessa pianificazione.
    
-## <a name="update-subscriptions-with-add-ons"></a>Aggiornare sottoscrizioni con componenti aggiuntivi 
+## <a name="update-subscriptions-with-add-ons"></a>Aggiornare le sottoscrizioni con i componenti aggiuntivi 
 
-Per acquistare un componente aggiuntivo, il cliente deve prima avere una sottoscrizione di base attiva.  Non è possibile acquistare componenti aggiuntivi tramite il catalogo.
+Per acquistare un componente aggiuntivo, il cliente deve avere prima una sottoscrizione di base attiva.  Non è possibile acquistare i componenti aggiuntivi tramite il catalogo.
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
@@ -93,9 +93,9 @@ Per acquistare un componente aggiuntivo, il cliente deve prima avere una sottosc
 5. Aggiornare la quantità di licenze per ogni componente aggiuntivo richiesto. **Inviare** quindi le modifiche.
 
 La possibilità di acquistare componenti aggiuntivi tramite il centro per i partner è disponibile solo per la fatturazione diretta e i provider indiretti.
-Vengono visualizzati solo i componenti aggiuntivi idonei in base ai requisiti di base e alla disponibilità a livello di area. Per ulteriori informazioni su prezzi e offerte, fare riferimento alla matrice di offerte del rivenditore cloud.  Sospendendo la sottoscrizione di base, vengono sospesi anche tutti i componenti aggiuntivi associati.
+Vengono visualizzati solo i componenti aggiuntivi idonei in base ai requisiti di base e alla disponibilità a livello di area. Per altre informazioni su prezzi e offerte, fare riferimento alla matrice di offerte del rivenditore cloud.  La sospensione della sottoscrizione di base comporta anche la sospensione di tutti i componenti aggiuntivi associati.
 
-Le date di inizio per i componenti aggiuntivi sono allineate alla sottoscrizione di base e gli addebiti vengono calcolati dalla data di inizio e di addebito con addebiti pro-rata nella prima fattura. Per ulteriori informazioni, vedere [fatturazione basata su licenze](license-based-billing.md).
+Le date di inizio per i componenti aggiuntivi sono allineate alla sottoscrizione di base e gli addebiti vengono calcolati dalla data di inizio e dalla data di fine dell'addebito con addebiti proporzionali nella prima fattura. Per ulteriori informazioni, vedere [fatturazione basata su licenze](license-based-billing.md).
 
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Sospendere o annullare una sottoscrizione
@@ -154,7 +154,7 @@ Per annullare una sottoscrizione SaaS basata su licenza da un server di pubblica
 6. Per confermare l'annullamento, selezionare **Sì, Annulla**.
 
 > [!NOTE]
-> È anche possibile scegliere di annullare una sottoscrizione di Azure Marketplace usando le API. A tale scopo, vedere [annullare una sottoscrizione di Azure Marketplace](https://docs.microsoft.com/partner-center/develop/cancel-an-azure-marketplace-subscription).
+> È anche possibile scegliere di annullare una sottoscrizione di Azure Marketplace usando le API. A tale scopo, vedere [annullare una sottoscrizione di Azure Marketplace](/partner-center/develop/cancel-an-azure-marketplace-subscription).
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Scegliere se rinnovare automaticamente una sottoscrizione del Marketplace commerciale
 

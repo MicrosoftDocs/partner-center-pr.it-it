@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 655bd48df616b26b842d5f99960d6b6ad2e75f1f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367015"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000265"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare Microsoft Azure prenotazioni per conto dei clienti nel centro per i partner
 
@@ -33,7 +33,7 @@ ms.locfileid: "89367015"
 - Amministratore gestione utenti
  
 > [!NOTE]
-> Questo articolo si applica solo ai partner del programma Cloud Solution Provider (CSP). I clienti che usano altri tipi di sottoscrizioni, ad esempio con pagamento in base al consumo, singoli contratti Microsoft o sottoscrizioni di Enterprise Agreement, dovranno invece leggere [la documentazione relativa alle prenotazioni di Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
+> Questo articolo si applica solo ai partner del programma Cloud Solution Provider (CSP). I clienti che usano altri tipi di sottoscrizioni, ad esempio con pagamento in base al consumo, singoli contratti Microsoft o sottoscrizioni di Enterprise Agreement, dovranno invece leggere [la documentazione relativa alle prenotazioni di Azure](/azure/cost-management-billing/reservations).
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
@@ -136,7 +136,7 @@ Attenersi alla procedura seguente per acquistare Microsoft Azure prenotazioni pe
     - Selezionare l'ambito della prenotazione. L'ambito della prenotazione può coprire una sottoscrizione o più sottoscrizioni (ambito condiviso). Se la prenotazione viene portata a una singola sottoscrizione, lo sconto per la prenotazione viene applicato solo a questa sottoscrizione. Se si seleziona condiviso, lo sconto relativo alla prenotazione viene applicato a tutte le sottoscrizioni all'interno del contesto di fatturazione del cliente. 
 
       >[!NOTE] 
-      >Se si sceglie di limitare l'ambito della prenotazione a una singola sottoscrizione di Azure, potrebbe essere necessario aumentare la quota vCPU della sottoscrizione. Per aumentare la quota vCPU della sottoscrizione, è necessario creare una richiesta di supporto nella portale di Azure. Per creare la richiesta, seguire le istruzioni riportate [in questo argomento](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) . 
+      >Se si sceglie di limitare l'ambito della prenotazione a una singola sottoscrizione di Azure, potrebbe essere necessario aumentare la quota vCPU della sottoscrizione. Per aumentare la quota vCPU della sottoscrizione, è necessario creare una richiesta di supporto nella portale di Azure. Per creare la richiesta, seguire le istruzioni riportate [in questo argomento](/azure/azure-supportability/resource-manager-core-quotas-request) . 
 
       >[!NOTE]   
       >Se il cliente si trova nel piano Azure, l' **ambito**  verrà impostato su **condiviso**. 
@@ -156,5 +156,5 @@ Attenersi alla procedura seguente per acquistare Microsoft Azure prenotazioni pe
 |Panoramica sulle prenotazioni di Azure in CSP  | [Vendere Microsoft Azure istanze riservate](azure-reservations.md) |
 |Gestione delle prenotazioni di Azure nel centro per i partner | [Gestione delle prenotazioni di Azure nel centro per i partner](azure-reservations-manage.md)
 |Determinare le dimensioni corrette della macchina virtuale e verificare l'utilizzo della macchina virtuale del cliente   |[Dimensionamento delle VM per l'utilizzo massimo della prenotazione di Azure](azure-usage.md)   |
-|Acquisto di prenotazioni di Azure tramite l'API del centro per i partner | [Acquistare istanze di VM riservate di Azure](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) nella documentazione per gli sviluppatori del centro per i partner   |
+|Acquisto di prenotazioni di Azure tramite l'API del centro per i partner | [Acquistare istanze di VM riservate di Azure](/partner-center/develop/purchase-azure-reservations) nella documentazione per gli sviluppatori del centro per i partner   |
 |Concessione ai clienti dell'autorizzazione per l'acquisto di prenotazioni di Azure  | [Concedi ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure](give-customers-permission.md)  |

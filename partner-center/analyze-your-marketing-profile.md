@@ -9,12 +9,12 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: a683d7a375ebb3bbb3ef481c3dbfb27cd86bcb86
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302228"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999645"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analizza il tuo profilo business: Scopri come attrarre i clienti di destinazione e i potenziali riferimenti
 <!-- 
@@ -52,4 +52,4 @@ Il grafico di **Riepilogo delle prestazioni del profilo** include le informazion
 - **Riferimenti generati**: numero totale di riferimenti inviati dopo che un cliente ha selezionato il profilo business.
 
 > [!TIP]
-> Quando si inizia a [rispondere a questi riferimenti](responding-to-referrals.md), assicurarsi di consultare la pagina relativa alle informazioni di [riferimento](referral-insights.md) per visualizzare altri dettagli sulla modalità di esecuzione dei riferimenti.
+> Quando si inizia a [rispondere a questi riferimenti](manage-leads.md), assicurarsi di consultare la pagina relativa alle informazioni di [riferimento](referral-insights.md) per visualizzare altri dettagli sulla modalità di esecuzione dei riferimenti.

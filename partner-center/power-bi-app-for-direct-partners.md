@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54301590ce6be6d9076d1fb337979148455f25f6
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 2e58c8ed68e40e9ffb4f2ed5555dc780e21570a7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302308"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000015"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Panoramica e domande frequenti per l'app di analisi del centro per i partner per Power BI (partner diretti in CSP)
 
@@ -56,7 +56,7 @@ Prima di installare l'app, è consigliabile consultare le risposte alle domande 
 | Qual è il costo dell'app? | L'app è gratuita. Per visualizzare in anteprima l'app, è possibile [iscriversi per la servizio Power bi gratuita](https://go.microsoft.com/fwlink/p/?linkid=845347) e usarla per personalizzare i dashboard e i report. Per consentire ad altri utenti dell'azienda di usare l'app, è necessario disporre di una sottoscrizione attiva a Microsoft Power BI Professional o Microsoft Power BI Premium. |
 | Chi può connettersi all'app di analisi del centro per i partner? | Questa versione dell'app è progettata per partner diretti (livello 1) nel programma Cloud Solution Provider. Sei un partner diretto se fai affari direttamente con Microsoft e con i clienti. Per installare l'app, è necessario essere un amministratore globale, un agente di amministrazione o un amministratore di fatturazione per l'account della società. |
 | Sono un provider indiretto; è possibile usare l'app? | Sì. L'amministratore globale, l'agente di amministrazione o l'amministratore della fatturazione può installare l'app e visualizzare i dati relativi ai clienti diretti. Le versioni future possono includere funzionalità che consentono di visualizzare anche i dati relativi ai rivenditori indiretti. |
-| Come posso ottenere informazioni sulle versioni future? | Gli annunci e le versioni di anteprima vengono resi disponibili tramite il programma early adopter del centro per i partner. È anche possibile condividere i propri commenti tramite il programma early adopter. Se non si è ancora partecipato al programma, scoprire come partecipare. Vedere [join the partner Center API and SDK Early Adopter Program](https://docs.microsoft.com/partner-center/develop/early-adopter-program).  |
+| Come posso ottenere informazioni sulle versioni future? | Gli annunci e le versioni di anteprima vengono resi disponibili tramite il programma early adopter del centro per i partner. È anche possibile condividere i propri commenti tramite il programma early adopter. Se non si è ancora partecipato al programma, scoprire come partecipare. Vedere [join the partner Center API and SDK Early Adopter Program](/partner-center/develop/early-adopter-program).  |
 | Chi può personalizzare i dashboard e i report nell'app? | Solo l'amministratore globale, l'agente di amministrazione o l'amministratore della fatturazione che ha installato l'app possono personalizzare il dashboard o creare nuovi report nell'interfaccia Web Power BI. |
 | Chi può visualizzare i dashboard e i report nell'app? | L'amministratore globale, l'agente di amministrazione o l'amministratore della fatturazione che ha installato l'app può condividere i dati dell'app con chiunque disponga di una sottoscrizione attiva a Microsoft Power BI Professional o Microsoft Power BI Premium. |
 | È possibile usare l'app per visualizzare i dati da più tenant Azure AD, in diverse posizioni? | Con questa versione, è possibile visualizzare solo i dati del tenant Azure AD l'amministratore globale o l'agente di amministrazione connesso a. | 

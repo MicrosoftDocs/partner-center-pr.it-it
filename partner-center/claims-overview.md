@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 05ce007901baccd76228c55b7a846fc51718409d
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "90811299"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848221"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Guadagna fondi di marketing cooperativi
 
@@ -51,14 +51,14 @@ La sequenza temporale per i fondi co-op è divisa in periodi di 2 6 mesi, H1 e H
 
 Il periodo di sei mesi durante il quale si accumulano i guadagni diventa il **periodo di guadagno**. È necessario usare questi guadagni a un certo punto durante il **periodo di utilizzo**di sei mesi seguente. Se non si usano i guadagni entro la fine del periodo di utilizzo, questi verranno persi. Il **periodo di attestazione** è il periodo di sei mesi durante il quale è possibile richiedere il rimborso per le attività del programma incentive.
 
-La tabella seguente illustra i diversi periodi di guadagno, utilizzo e reclamo. I periodi si estendono dal primo giorno del primo mese all'ultimo giorno dell'ultimo mese.
+La tabella seguente illustra i diversi periodi di guadagno, utilizzo e reclamo. Se non specificato diversamente, i periodi si estendono dal primo giorno del primo mese all'ultimo giorno dell'ultimo mese.
 
 |  Se il periodo di guadagno/accumulo è  |Il periodo di semestre fiscale è  |  Il periodo di utilizzo è  |  Il periodo di attestazione è  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Luglio-dicembre 2020**| FY20 H1  |  Jan-2021 giugno  |  Feb-2021 luglio  |
-|**Jan-2021 giugno** |  FY20 H2  |  Luglio-dicembre 2021  |  Aug 2021-gennaio 2022  |
-|**Luglio-dicembre 2021**|  FY21 H1  |  Jan-2022 giugno  |  Feb-2022 luglio  |
-|**Jan-2022 giugno** |  FY21 H2  |  Luglio-dicembre 2022  |  Aug 2022-gennaio 2023  |
+|**Luglio-dicembre 2020**| FY20 H1  |  Jan-2021 giugno  |  16 febbraio-agosto 15 2021  |
+|**Jan-2021 giugno** |  FY20 H2  |  Luglio-dicembre 2021  |  Aug 16 2021-Feb 15 2022  |
+|**Luglio-dicembre 2021**|  FY21 H1  |  Jan-2022 giugno  |  16 febbraio-agosto 15 2022  |
+|**Jan-2022 giugno** |  FY21 H2  |  Luglio-dicembre 2022  |  Aug 16 2022-feb 15 2023  |
 
 >[!NOTE]
 >Microsoft si riserva il diritto di richiedere documenti di prova di esecuzione (PoE) originali. È consigliabile tenere tutti i documenti originali per 24 mesi dopo la data dell'attività.

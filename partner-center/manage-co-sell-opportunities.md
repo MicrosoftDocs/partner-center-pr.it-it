@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edbd1e8395e1ecad759666a2c2acd3653e8ff28c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 631667f521825697a7b16b0db40cb5dd4610e636
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714375"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848241"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gestisci opportunità di co-selling nel centro per i partner per definire le offerte e soddisfare meglio le esigenze dei clienti
 
@@ -95,6 +95,9 @@ Dopo aver fornito le informazioni sulla soluzione, fare clic su Avanti per passa
 
 **Deal privato**: se non si invita Microsoft e si crea un impegno in questo passaggio, sarà di tipo pipeline privata. I venditori Microsoft non avranno visibilità sui dettagli di questa trattativa.
 
+> [!Important]
+> La registrazione dell'accordo non è applicabile per le offerte private. Prestare attenzione durante la creazione di un affare privato con soluzioni idonee per gli incentivi, in quanto non saranno idonee per la registrazione di Deal nel centro per i partner.
+
 **Deal di co-selling:** Se si seleziona un'opzione diversa da quella predefinita per la domanda **"identificare il tipo di supporto da Microsoft"**, l'affare si riferisce a un'operazione di co-selling in cui un venditore Microsoft può potenzialmente aiutarti a chiudere l'accordo. Una richiesta di assistenza da parte di Microsoft non garantisce che un venditore Microsoft parteciperà all'accordo. I rappresentanti di vendita Microsoft hanno a disposizione 14 giorni per decidere se desiderano partecipare. Nella sezione Note, assicurarsi di identificare il tipo di Guida desiderato.
 
 **Deal da partner a partner (P2P)**: è possibile invitare altri partner nell'affare facendo clic sul collegamento invita partner. Di seguito è riportato il processo per la creazione di un affare P2P.
@@ -133,9 +136,50 @@ In questa fase, se è stata ricevuta una nuova opportunità di co-selling da un 
 
 ### <a name="accepted-stage"></a>Fase accettata
 
-Lavora per concludere la trattativa con il cliente. Se si desidera modificare le informazioni fornite per un riferimento accettato, selezionare **modifica**. È quindi possibile aggiornare il nome dell'affare, la data di acquisto stimata, il valore stimato, le note, l'ID CRM e/o l'ID della campagna di marketing.  È anche possibile selezionare **Aggiungi i dipendenti** per specificare il nome, il numero di telefono e gli indirizzi di posta elettronica di qualsiasi altra persona che sta lavorando al problema. Le soluzioni possono anche essere modificate in base alle esigenze del cliente.
+Lavora per concludere la trattativa con il cliente. Se si desidera modificare le informazioni fornite per un riferimento accettato, selezionare **modifica**. È quindi possibile aggiornare il nome dell'affare, la data di acquisto stimata, il valore stimato, le note, l'ID CRM e/o l'ID della campagna di marketing.  È anche possibile selezionare **Aggiungi il team** per specificare il nome, il numero di telefono e gli indirizzi di posta elettronica di qualsiasi altra persona che sta lavorando al problema. Le soluzioni possono anche essere modificate in base alle esigenze del cliente.
 
 Per impostazione predefinita, tutte le offerte create sono in fase di accettazione.
+
+Una volta iniziato a lavorare sull'accordo, è possibile specificare i dettagli dello stato di avanzamento che si sta effettuando contrassegnando le fasi di vendita nel ciclo di vita dell'accordo. Il ciclo di vita dell'affare prevede quattro fasi, oltre all'accettazione o alla creazione iniziale e alle fasi finali vinte o perse, come indicato di seguito. La fornitura di questi dettagli è facoltativa, ma è consigliabile condividerli per ottenere assistenza temporanea da parte dei rappresentanti di vendita Microsoft in un'offerta di co-selling.
+
+:::image type="content" source="images/pscmigration/salesstage.png" alt-text="Immagine che mostra il ciclo di vita dell'accordo in cui è possibile contrassegnare la fase di vendita.":::
+
+|**Nome fase vendita**|**Percentuale fase vendita**|**Definizione della fase di vendita**|
+|:----|:-----|:-----|
+|Data di creazione|10%|Creazione di un affare in uscita.|
+|Accettato|10%|Accettazione di un problema in ingresso.|
+|Qualified|20%|Qualificare il valore dell'affare e i requisiti del cliente prima di procedere.|
+|Sviluppato|40%|Lo sviluppo di un ulteriore problema per comprendere i requisiti dettagliati per preparare un modello di verifica o qualsiasi altro elemento necessario per una proposta formale.|
+|Proposed|60%|Creazione di una proposta formale al cliente in base ai requisiti.|
+|Negoziata|80%|Negoziazione dei termini finali in base alla proposta per ottenere lo stato finale, vincendo o perdendo l'offerta.|
+|Won|100%|Contrassegno dell'affare come vinto.|
+
+Al termine, è possibile eseguire una delle due azioni, ovvero contrassegnare l'operazione come **vinta** o **persa** per segnalare il risultato.
+
+> [!Note]
+> Non è necessario che l'azienda segua le stesse fasi di vendita. Questo è il modo in cui il centro per i partner riconosce le fasi di vendita delle offerte e mappa automaticamente le fasi dell'azienda a queste fasi standard se si passano questi valori usando l'API. Se si usa il centro per i partner, le percentuali visualizzate nella tabella vengono usate per contrassegnare le fasi di vendita.
+
+> [!Important]
+> Per alcune soluzioni idonee, dopo aver selezionato vinto verrà richiesto di fornire informazioni aggiuntive per la registrazione dell'affare. Microsoft esaminerà le informazioni fornite qui e potrebbe richiedere altri dettagli durante tale processo. Per altre informazioni, vedi [Registrare le trattative](register-deals.md).
+
+Un affare sarà idoneo per la registrazione dell'accordo solo se soddisfa tutti i criteri seguenti.
+
+1. Microsoft è invitato alla trattativa.
+2. Microsoft ha accettato l'invito o ha contrassegnato l'accordo come vinto. Per comprendere lo stato di Microsoft, è possibile esaminare la scheda Microsoft sotto i dettagli dell'offerta.
+3. Si tratta di una soluzione idonea per gli incentivi.
+
+> [!Important]
+> Registrare l'accordo solo se il nome della società e la soluzione incentivi idonei nell'affare sono chiaramente indicati nel contratto con il cliente.
+
+Se l'offerta è idonea per la registrazione dell'accordo, verranno aggiunte ulteriori attività cardine al ciclo di vita dell'operazione denominata "Deal Registration", come illustrato di seguito.
+
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Immagine che mostra il ciclo di vita dell'affare, il percorso da cui è possibile avviare la registrazione dell'accordo.":::
+
+È possibile scegliere di registrare l'accordo immediatamente dopo aver contrassegnato l'accordo come vinto o in un momento successivo tramite il pulsante **registra** ciclo di vita dell'accordo.
+Una volta registrata la transazione, è possibile visualizzare lo stato di avanzamento della convalida dell'affare dallo stesso ciclo di vita. Se è richiesta un'azione da parte dell'azienda, vengono visualizzati errori appropriati nella visualizzazione ciclo di vita dell'accordo. Quando la convalida dell'affare viene completata, l'operazione passa allo stato Closed.
+
+> [!Important]
+> Sia la revisione dell'accordo che lo stato finale della convalida sono applicabili solo per le offerte di co-selling IP.
 
 ### <a name="combinations"></a>Combinazioni
 
@@ -148,14 +192,9 @@ La tabella seguente illustra le combinazioni degli utenti che possono essere inv
 |Partner per partner senza Microsoft|Microsoft|L'accordo verrà aggiornato a un'operazione di co-selling.|
 |Partner per partner senza Microsoft|Altri partner||
 
-Al termine, è possibile eseguire una delle due azioni, che contrassegnano l'accordo come **vinto** o **perso** per segnalare il risultato, in modo che sia possibile archiviarlo di conseguenza.
+### <a name="closed-stage"></a>Fase chiusa
 
-> [!TIP]
-> Per alcune soluzioni idonee, dopo aver selezionato vinto verrà richiesto di fornire informazioni aggiuntive per la registrazione dell'affare. Microsoft esaminerà le informazioni fornite qui e potrebbe richiedere altri dettagli durante tale processo. Per altre informazioni, vedi Registrare le trattative.
-
-### <a name="archived-stage"></a>Fase di archiviazione
-
-Questa è la fase finale per tutte le opportunità. È possibile visualizzare tutti i lead che hanno **vinto, perso, rifiutato**ed è **scaduto** nell'archivio. In questa fase non è possibile eseguire alcuna azione.
+Questa è la fase finale per tutte le opportunità. È possibile visualizzare tutte le trattative **vinte, perse, rifiutate**e **scadute** nella fase chiusa. In questa fase non è possibile eseguire alcuna azione.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 

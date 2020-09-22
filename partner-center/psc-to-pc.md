@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fa06bb0aaecb5f2564c2baab9d7a2c6ac6f0f1d
-ms.sourcegitcommit: 3502f32da07a3db8b865d7f32416eeb8cfd5502c
+ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90082519"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848267"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
 
@@ -45,7 +45,9 @@ Come è noto, l'azienda perderà l'accesso a CPS dopo il 31 dicembre 2020. Tutta
 - Configurare gli account utente nel centro per i partner per tutti gli utenti di PSC (amministratore, Deal Manager e ruoli venditore) e assegnare loro i [ruoli di amministratore di riferimento](https://docs.microsoft.com/partner-center/permissions-overview).
 
 >[!Important]
-> Assicurarsi che l'ID MPN visualizzato nel banner del CPS sia disponibile nell'elenco di percorsi MPN nel centro per i partner. Per verificare l'elenco di tutti i MPNs associati all'account del centro per i partner, è possibile verificare che nel centro per i partner si trovino le impostazioni dell'account e i [percorsi](https://docs.microsoft.com/partner-center/manage-locations) .
+> Assicurarsi che l'ID MPN visualizzato nel banner del CPS sia disponibile nell'elenco di percorsi MPN nel centro per i partner. Per verificare l'elenco di tutti i MPNs associati all'account del centro per i partner, è possibile verificare che nel centro per i partner si trovino le "Impostazioni account" e "[località](https://docs.microsoft.com/partner-center/manage-locations)".
+
+ :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Immagine che mostra il banner del CPS in cui i partner possono trovare l'ID MPN.":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Se si è responsabile della gestione delle offerte PSC o del venditore
 

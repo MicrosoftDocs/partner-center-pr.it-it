@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: 5695a5478f1fdb9d16c395bb3ea87240fc2cf6f3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614162"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999805"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Domande frequenti sui requisiti di sicurezza per i partner
 
@@ -73,19 +73,19 @@ Tutti i partner del programma CSP (partner con fatturazione diretta, provider in
 
     - I provider indiretti devono collaborare con rivenditori indiretti per poter eseguire l'onboarding nel Centro per i partner, qualora non lo abbiano già fatto, e incoraggiare i rivenditori a soddisfare i requisiti.
     - L'autenticazione MFA di Azure viene resa disponibile per tutti gli utenti del tenant del partner senza costi aggiuntivi tramite le impostazioni predefinite per la sicurezza Azure AD con l'unico metodo di verifica di un'applicazione di autenticazione che supporta Time-Based One-Time Passwords (TOTP).
-    - Se sono necessari altri metodi di verifica, ad esempio una telefonata o un SMS, è possibile ricorrere a metodi aggiuntivi tramite le SKU [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium).
+    - Se sono necessari altri metodi di verifica, ad esempio una telefonata o un SMS, è possibile ricorrere a metodi aggiuntivi tramite le SKU [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium).
     - Quando accedono ai servizi cloud commerciali Microsoft, i partner possono usare anche una soluzione MFA di terze parti per ogni account.
 
 2. **Adottare il framework del modello di applicazione sicura**
 
-    Tutti i partner che hanno sviluppato una procedura di integrazione personalizzata usando un'API (ad esempio Azure Resource Manager, Microsoft Graph, API del Centro per i partner e così via) o hanno implementato un'automazione personalizzata usando strumenti come PowerShell, dovranno adottare il [framework del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) per eseguire l'integrazione con i servizi cloud Microsoft. In caso contrario, è possibile che si verifichi un errore correlato alla distribuzione della soluzione MFA. Le risorse seguenti offrono una panoramica e preziose indicazioni su come adottare il modello.
+    Tutti i partner che hanno sviluppato una procedura di integrazione personalizzata usando un'API (ad esempio Azure Resource Manager, Microsoft Graph, API del Centro per i partner e così via) o hanno implementato un'automazione personalizzata usando strumenti come PowerShell, dovranno adottare il [framework del modello di applicazione sicura](/partner-center/develop/enable-secure-app-model) per eseguire l'integrazione con i servizi cloud Microsoft. In caso contrario, è possibile che si verifichi un errore correlato alla distribuzione della soluzione MFA. Le risorse seguenti offrono una panoramica e preziose indicazioni su come adottare il modello.
 
-    - [Panoramica del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
+    - [Panoramica del modello di applicazione sicura](/partner-center/develop/enable-secure-app-model)
     - [Centro per i partner: guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-    - [Partner aderenti al programma CSP: codice di esempio .NET per l'abilitazione del modello di applicazione sicura](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-    - [Partner aderenti al programma CSP: codice di esempio Java per l'abilitazione del modello di applicazione sicura](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
-    - [Documento di autenticazione del Centro per i partner](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-    - [Documento Multi-Factor Authentication di PowerShell per il Centro per i partner](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
+    - [Partner aderenti al programma CSP: codice di esempio .NET per l'abilitazione del modello di applicazione sicura](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+    - [Partner aderenti al programma CSP: codice di esempio Java per l'abilitazione del modello di applicazione sicura](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+    - [Documento di autenticazione del Centro per i partner](/partner-center/develop/partner-center-authentication)
+    - [Documento Multi-Factor Authentication di PowerShell per il Centro per i partner](/powershell/partnercenter/multi-factor-auth)
 
     Se usi un pannello di controllo per l'adozione del framework del modello di applicazione sicura, rivolgiti al fornitore.
 
@@ -103,14 +103,14 @@ MFA è un meccanismo di sicurezza che consente agli utenti di eseguire l'autenti
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>Quanto costa abilitare l'autenticazione MFA?
 
-Microsoft offre l'autenticazione MFA senza costi aggiuntivi tramite l'implementazione delle impostazioni predefinite per la sicurezza Azure AD. L'unica opzione di verifica disponibile con questa versione di MFA è un'applicazione di autenticazione. Se si preferisce usare una telefonata o un SMS come opzione di verifica, sarà necessario acquistare una licenza di [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium). In alternativa, puoi usare una soluzione di terze parti per fornire l'autenticazione MFA per ogni utente incluso nel tenant del partner. In questo caso, è tua responsabilità assicurare che la soluzione MFA venga applicata e che siano rispettati tutti i requisiti.
+Microsoft offre l'autenticazione MFA senza costi aggiuntivi tramite l'implementazione delle impostazioni predefinite per la sicurezza Azure AD. L'unica opzione di verifica disponibile con questa versione di MFA è un'applicazione di autenticazione. Se si preferisce usare una telefonata o un SMS come opzione di verifica, sarà necessario acquistare una licenza di [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium). In alternativa, puoi usare una soluzione di terze parti per fornire l'autenticazione MFA per ogni utente incluso nel tenant del partner. In questo caso, è tua responsabilità assicurare che la soluzione MFA venga applicata e che siano rispettati tutti i requisiti.
 
 ### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>Se ho già una soluzione MFA, quali azioni devo eseguire?
 
 Attraverso questi requisiti di sicurezza, agli utenti inclusi nel tenant di un partner sarà richiesto di eseguire l'autenticazione MFA quando accedono ai servizi cloud commerciali Microsoft. Per soddisfare questi requisiti, puoi usare una soluzione di terze parti. Microsoft non fornisce più test di convalida ai provider di identità indipendenti per la compatibilità con Azure Active Directory. Per testare l'interoperabilità del prodotto, consulta queste [linee guida](https://www.microsoft.com/download/details.aspx?id=56843).
 
 > [!IMPORTANT]
-> Se usi una soluzione di terze parti, è importante verificare che la soluzione rilasci l'attestazione AMR (Authentication Method Reference) contenente il valore MFA. Per informazioni dettagliate su come verificare che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza dei partner](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements).
+> Se usi una soluzione di terze parti, è importante verificare che la soluzione rilasci l'attestazione AMR (Authentication Method Reference) contenente il valore MFA. Per informazioni dettagliate su come verificare che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza dei partner](/powershell/partnercenter/test-partner-security-requirements).
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>Se vengono usati più tenant di partner per eseguire la transazione, e necessario implementare l'autenticazione MFA su tutti i tenant?
 
@@ -138,7 +138,7 @@ Quando valutano fornitori e soluzioni MFA, i partner devono accertarsi che la so
 
 Microsoft non fornisce più test di convalida ai provider di identità indipendenti per la compatibilità con Azure Active Directory. Se vuoi testare l'interoperabilità di un prodotto, consulta queste [linee guida](https://www.microsoft.com/download/details.aspx?id=56843).
 
-Per altre informazioni, vedi [Elenco di compatibilità della federazione di Azure AD](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-compatibility).
+Per altre informazioni, vedi [Elenco di compatibilità della federazione di Azure AD](/azure/active-directory/hybrid/how-to-connect-fed-compatibility).
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>Come è possibile testare l'autenticazione MFA in una sandbox di integrazione?
 
@@ -184,7 +184,7 @@ No, l'account di servizio usato da Azure AD Connect non sarà interessato dai re
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Chi deve adottare il modello di applicazione sicura per soddisfare i requisiti?
 
-Microsoft sta introducendo un framework scalabile e sicuro per l'autenticazione dei partner Cloud Solution Provider (CSP) e dei fornitori di pannelli di controllo (CPV) che usano Multi-Factor Authentication. Per altre informazioni, vedere la [Guida del modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Tutti i partner che hanno sviluppato una procedura di integrazione personalizzata usando un'API (ad esempio Azure Resource Manager, Microsoft Graph, API del Centro per i partner e così via) o hanno implementato un'automazione personalizzata usando strumenti come PowerShell, dovranno adottare il [framework del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) per eseguire l'integrazione con i servizi cloud Microsoft.
+Microsoft sta introducendo un framework scalabile e sicuro per l'autenticazione dei partner Cloud Solution Provider (CSP) e dei fornitori di pannelli di controllo (CPV) che usano Multi-Factor Authentication. Per altre informazioni, vedere la [Guida del modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Tutti i partner che hanno sviluppato una procedura di integrazione personalizzata usando un'API (ad esempio Azure Resource Manager, Microsoft Graph, API del Centro per i partner e così via) o hanno implementato un'automazione personalizzata usando strumenti come PowerShell, dovranno adottare il [framework del modello di applicazione sicura](/partner-center/develop/enable-secure-app-model) per eseguire l'integrazione con i servizi cloud Microsoft.
 
 ### <a name="what-is-the-secure-application-model"></a>Che cos'è il modello di applicazione sicura?
 
@@ -192,14 +192,14 @@ Microsoft sta introducendo un framework scalabile e sicuro per l'autenticazione 
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>Come viene implementato il modello di applicazione sicura?
 
-Tutti i partner che hanno sviluppato una procedura di integrazione personalizzata usando un'API (ad esempio Azure Resource Manager, Microsoft Graph, API del Centro per i partner e così via) o hanno implementato un'automazione personalizzata usando strumenti come PowerShell, dovranno adottare il [framework del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) per eseguire l'integrazione con i servizi cloud Microsoft. In caso contrario, è possibile che si verifichi un errore correlato alla distribuzione della soluzione MFA. Le risorse seguenti offrono una panoramica e preziose indicazioni su come adottare il modello.
+Tutti i partner che hanno sviluppato una procedura di integrazione personalizzata usando un'API (ad esempio Azure Resource Manager, Microsoft Graph, API del Centro per i partner e così via) o hanno implementato un'automazione personalizzata usando strumenti come PowerShell, dovranno adottare il [framework del modello di applicazione sicura](/partner-center/develop/enable-secure-app-model) per eseguire l'integrazione con i servizi cloud Microsoft. In caso contrario, è possibile che si verifichi un errore correlato alla distribuzione della soluzione MFA. Le risorse seguenti offrono una panoramica e preziose indicazioni su come adottare il modello.
 
-- [Panoramica del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
+- [Panoramica del modello di applicazione sicura](/partner-center/develop/enable-secure-app-model)
 - [Centro per i partner: guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [Partner aderenti al programma CSP: codice di esempio .NET per l'abilitazione del modello di applicazione sicura](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-- [Partner aderenti al programma CSP: codice di esempio Java per l'abilitazione del modello di applicazione sicura](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
-- [Documento di autenticazione del Centro per i partner](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [Documento Multi-Factor Authentication di PowerShell per il Centro per i partner](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
+- [Partner aderenti al programma CSP: codice di esempio .NET per l'abilitazione del modello di applicazione sicura](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [Partner aderenti al programma CSP: codice di esempio Java per l'abilitazione del modello di applicazione sicura](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+- [Documento di autenticazione del Centro per i partner](/partner-center/develop/partner-center-authentication)
+- [Documento Multi-Factor Authentication di PowerShell per il Centro per i partner](/powershell/partnercenter/multi-factor-auth)
 
 Se usi un pannello di controllo, devi rivolgerti al fornitore per informazioni sull'adozione del framework del modello di applicazione sicura.
 
@@ -214,7 +214,7 @@ L'applicazione dell'autenticazione a più fattori per tutti gli account utente i
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Sono in uso strumenti di automazione come PowerShell. Come viene implementato il modello di applicazione sicura?
 
-Se la tua automazione è progettata per essere eseguita in modo non interattivo e si basa su credenziali utente per l'autenticazione, dovrai implementare il modello di applicazione sicura. Vedere [Modello di applicazione sicura | PowerShell per Centro per i partner](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) per informazioni su come implementare questo framework.  
+Se la tua automazione è progettata per essere eseguita in modo non interattivo e si basa su credenziali utente per l'autenticazione, dovrai implementare il modello di applicazione sicura. Vedere [Modello di applicazione sicura | PowerShell per Centro per i partner](/powershell/partnercenter/multi-factor-auth) per informazioni su come implementare questo framework.  
 
 >[!Note] 
 >Non tutti gli strumenti di automazione offrono la possibilità di eseguire l'autenticazione usando token di accesso. Per assistenza nella comprensione delle modifiche da apportare, pubblica un messaggio nel gruppo [Partner Center Security Guidance](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance). 
@@ -292,7 +292,7 @@ Per altre informazioni, visita la pagina [Imposizione dell'autenticazione a più
 
 Per verificare che l'account per l'accesso alle risorse sia stato testato per l'autenticazione a più fattori, controlleremo l'attestazione [AMR (Authentication Method Reference)](https://tools.ietf.org/html/rfc8176) per vedere che nell'elenco sia presente l'autenticazione MFA. Alcune soluzioni di terze parti non rilasciano questa attestazione o non includono il valore MFA. Se l'attestazione non è presente o il valore MFA non è elencato, non esiste alcun modo per determinare se l'account autenticato è stato testato per l'autenticazione a più fattori. Dovrai collaborare con il fornitore della soluzione di terze parti per determinare quali azioni eseguire affinché la soluzione rilasci l'attestazione Authentication Method Reference.
 
-Se non sei certo che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza dei partner](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements).
+Se non sei certo che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza dei partner](/powershell/partnercenter/test-partner-security-requirements).
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA mi impedisce di supportare i miei clienti usando Amministra per conto terzi. Come posso procedere?
 
@@ -302,7 +302,7 @@ L'applicazione tecnica dei requisiti di sicurezza per i partner verificherà se 
 
 ### <a name="how-can-i-transition-from-baseline-policies-to-security-defaults-or-other-mfa-solutions"></a>In che modo posso passare dai criteri di base alle impostazioni predefinite per la sicurezza o ad altre soluzioni MFA?
 
-I [criteri di base di Azure Active Directory (Azure AD) vengono rimossi e sostituiti](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) con le impostazioni predefinite per la sicurezza, un set completo di criteri di protezione per te e i tuoi clienti. Le [impostazioni predefinite per la sicurezza](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) aiutano a proteggere la tua organizzazione da attacchi alla sicurezza correlati al furto di identità.
+I [criteri di base di Azure Active Directory (Azure AD) vengono rimossi e sostituiti](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) con le impostazioni predefinite per la sicurezza, un set completo di criteri di protezione per te e i tuoi clienti. Le [impostazioni predefinite per la sicurezza](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) aiutano a proteggere la tua organizzazione da attacchi alla sicurezza correlati al furto di identità.
 
 Se non sei passato dai criteri di base al criterio delle impostazioni predefinite per la sicurezza o ad altre [opzioni di implementazione MFA](partner-security-requirements.md#actions-that-you-need-to-take), la tua implementazione dell'autenticazione a più fattori verrà rimossa a causa del ritiro dei criteri di base. A tutti gli utenti dei tuoi tenant del partner che eseguono operazioni protette dall'autenticazione a più fattori verrà richiesto di effettuare la verifica dell'autenticazione a più fattori. Per indicazioni più dettagliate, consulta [qui](partner-security-requirements-mandating-mfa.md).
 Per essere conforme e ridurre le interruzioni, esegui una delle azioni seguenti:
@@ -324,12 +324,12 @@ Per essere conforme e ridurre le interruzioni, esegui una delle azioni seguenti:
 
 ### <a name="resources-for-adopting-secure-application-model"></a>Risorse per l'adozione di un modello di applicazione sicura
 
-- [Panoramica del modello di applicazione sicura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
+- [Panoramica del modello di applicazione sicura](/partner-center/develop/enable-secure-app-model)
 - [Centro per i partner: guida al modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [Partner aderenti al programma CSP: codice di esempio .NET per l'abilitazione del modello di applicazione sicura](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-- [Partner aderenti al programma CSP: codice di esempio Java per l'abilitazione del modello di applicazione sicura](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
-- [Documento di autenticazione del Centro per i partner](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [Documento Multi-Factor Authentication di PowerShell per il Centro per i partner](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
+- [Partner aderenti al programma CSP: codice di esempio .NET per l'abilitazione del modello di applicazione sicura](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [Partner aderenti al programma CSP: codice di esempio Java per l'abilitazione del modello di applicazione sicura](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+- [Documento di autenticazione del Centro per i partner](/partner-center/develop/partner-center-authentication)
+- [Documento Multi-Factor Authentication di PowerShell per il Centro per i partner](/powershell/partnercenter/multi-factor-auth)
 
 ## <a name="support"></a>Supporto
 

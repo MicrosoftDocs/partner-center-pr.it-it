@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8425461747c2cf4978d13ee3c2961ac426231bd5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435270"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000445"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -142,11 +142,12 @@ Dopo la pubblicazione del profilo, gli aggiornamenti vengono visualizzati nelle 
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Migliorare la visibilità del profilo 
 
-- **[Rispondi rapidamente alle richieste](responding-to-referrals.md)** . Quando ricevi una segnalazione di un cliente, una risposta più veloce può produrre risultati migliori nelle pagine di ricerca per i clienti futuri.
+- **[Rispondi rapidamente alle richieste](manage-leads.md)** . Quando ricevi una segnalazione di un cliente, una risposta più veloce può produrre risultati migliori nelle pagine di ricerca per i clienti futuri.
+
 - **Cerca di essere selettivo nell'uso dei tag**.  È preferibile avere un numero minore di tag che rappresentino al meglio offerte, soluzioni, proposte di valore e posizione specifica dell'azienda con cui dimostrare in modo coerente il successo della tua azienda.  Questa scelta darà i suoi frutti nei risultati delle ricerche future.
 - **Acquisisci i tag di competenza** tramite Microsoft per dimostrare la tua competenza nei prodotti Microsoft.
 - **Acquisisci i tag di approvazione** dai clienti che apprezzano il tuo lavoro.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-[Risposta alle segnalazioni](responding-to-referrals.md)
+[Risposta alle segnalazioni](manage-leads.md)

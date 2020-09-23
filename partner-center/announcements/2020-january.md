@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 0ed5d5a0037d9fe11e77c56eca784e9aad93c5a4
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: 1b53b675b97a98b8a154998abf0d98d686844281
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220228"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999585"
 ---
 # <a name="january-2020-announcements"></a>Annunci di gennaio 2020
 
@@ -97,8 +97,8 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)
 ### <a name="additional-resources"></a>Risorse aggiuntive
 
 - [Pagina del prodotto Microsoft 365 Government](https://www.microsoft.com/microsoft-365/government/)
-- [Pagina di Teams in GCC-High nella documentazione](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [Configurazione di sale riunioni in Microsoft Teams](https://docs.microsoft.com/microsoftteams/room-systems/)
+- [Pagina di Teams in GCC-High nella documentazione](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Configurazione di sale riunioni in Microsoft Teams](/microsoftteams/room-systems/)
 
 ### <a name="next-steps"></a>Passaggi successivi
 
@@ -377,8 +377,8 @@ Per informazioni sulle modifiche specifiche, vedere il file "Dynamics CSP Offer 
 
 - [Home page di Dynamics 365](https://dynamics.microsoft.com/)
 - [Home page della guida alle app di realtà mista](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Home page di Biz Apps per la protezione da frodi](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
-- [Home page dei prodotti Power Platform](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
+- [Home page di Biz Apps per la protezione da frodi](/dynamics365/fraud-protection/overview)
+- [Home page dei prodotti Power Platform](/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
 - [Aggiornamenti alle licenze di Power Apps e Flow per FY20](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Licenze di Microsoft Dynamics 365](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 

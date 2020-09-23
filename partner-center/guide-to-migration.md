@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26de95f4cafb75535280cab56ac1e21071ffef5a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114901"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000565"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guida alla migrazione da Partner Membership Center (PMC) al Centro per i partner
 
@@ -108,6 +108,6 @@ Segui la presentazione del dashboard. In questo ambiente puoi gestire l'apparten
 
 - [Creare il profilo di business](create-a-marketing-profile.md)
 
-- [Connettersi con i clienti tramite segnalazioni](responding-to-referrals.md)
+- [Connettersi con i clienti tramite segnalazioni](manage-leads.md)
 
 - [Guida alla migrazione di più aziende da PMC al Centro per i partner](move-multiple-companies.md)

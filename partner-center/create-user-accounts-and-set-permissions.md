@@ -9,12 +9,12 @@ ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: f71df7df213b2c6410fab37ce323825511a18b6d
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: 637e88205d9944f7220e227b5101220d94ed42db
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88846931"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000435"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Creare account utente e assegnare ruoli e autorizzazioni
 
@@ -24,7 +24,7 @@ ms.locfileid: "88846931"
 - Amministratore globale
 - Amministratore gestione utenti
 
-Crea gli account utente per i dipendenti che hanno bisogno di accedere al Centro per i partner. Questa operazione deve essere eseguita dall'amministratore per la gestione degli utenti, dall'amministratore degli account o dall'amministratore globale. All'utente che esegue queste attività devono essere assegnati anche i ruoli di amministratore degli utenti o amministratore globale di Azure Active Directory (AAD). Per altre informazioni sui ruoli di AAD, vedi [Autorizzazioni dei ruoli di amministratore in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
+Crea gli account utente per i dipendenti che hanno bisogno di accedere al Centro per i partner. Questa operazione deve essere eseguita dall'amministratore per la gestione degli utenti, dall'amministratore degli account o dall'amministratore globale. All'utente che esegue queste attività devono essere assegnati anche i ruoli di amministratore degli utenti o amministratore globale di Azure Active Directory (AAD). Per altre informazioni sui ruoli di AAD, vedi [Autorizzazioni dei ruoli di amministratore in Azure Active Directory](/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
 
 ## <a name="add-a-new-user"></a>Aggiungere un nuovo utente

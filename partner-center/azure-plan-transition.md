@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: bcc6534995a7550f0f09d1da2d52cbf676b66c40
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527507"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000335"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Transizione dei clienti al piano di Azure dalle offerte esistenti di CSP per Azure
 
@@ -87,7 +87,7 @@ Se esegui la transizione di un cliente da un'offerta CSP per Azure esistente, av
 
 - Se disponi dei diritti di accesso di amministratore per la sottoscrizione CSP esistente, continuerai ad avere gli stessi diritti anche dopo la migrazione della sottoscrizione.
 
-Per eseguire la transizione diretta dei contratti Enterprise Agreement a CSP e delle registrazioni SCE (Server and Cloud Enrollment) ai servizi di Azure, leggi [Acquisire la proprietà della fatturazione delle sottoscrizioni di Azure per il Contratto Microsoft Partner](https://docs.microsoft.com/azure/billing/mpa-request-ownership).
+Per eseguire la transizione diretta dei contratti Enterprise Agreement a CSP e delle registrazioni SCE (Server and Cloud Enrollment) ai servizi di Azure, leggi [Acquisire la proprietà della fatturazione delle sottoscrizioni di Azure per il Contratto Microsoft Partner](/azure/billing/mpa-request-ownership).
 
 ### <a name="audit-log"></a>Log di controllo
 

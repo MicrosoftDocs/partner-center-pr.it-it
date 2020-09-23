@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c841c54a115b846fe92d03ca66b530807508b9d
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390398"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999275"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Servizi di Azure disponibili nel programma Azure Cloud Solution Provider (CSP)
 
@@ -42,9 +42,9 @@ Tutti i servizi basati sul modello di Azure Resource Manager sono disponibili ne
 
 Per i servizi seguenti sono necessarie configurazioni speciali in CSP:
 
-- [StorSimple](https://docs.microsoft.com/azure/storsimple/storsimple-partner-csp-overview)
+- [StorSimple](/azure/storsimple/storsimple-partner-csp-overview)
 
-- [Azure Active Directory Domain Services](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
+- [Azure Active Directory Domain Services](/azure/active-directory-domain-services/active-directory-ds-csp)
 
 - [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
@@ -60,7 +60,7 @@ Puoi ora acquistare gli articoli elencati di seguito da Visual Studio Marketplac
 
 - [Formazione Xamarin University](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
 
-Per aiutarti a usare questi prodotti, abbiamo creato video e documentazione sulle [procedure per configurare, acquistare e gestire Azure DevOps](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer) in CSP.
+Per aiutarti a usare questi prodotti, abbiamo creato video e documentazione sulle [procedure per configurare, acquistare e gestire Azure DevOps](/vsts/billing/csp/set-up-csp-customer) in CSP.
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Articoli di Azure Marketplace in Azure CSP
 
@@ -70,7 +70,7 @@ Non tutti gli articoli di Azure Marketplace sono attualmente disponibili nelle s
 
 - Articoli Bring Your Own License (BYOL): questi articoli sono disponibili. Nella [pagina relativa ai prodotti BYOL di Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) è disponibile un elenco completo degli articoli di Azure Marketplace con capacità BYOL.
 
-- Articoli di Azure Marketplace di terze parti con pagamento in base al consumo: questi articoli sono disponibili se il provider li ha pubblicati nel canale CSP. Per altre informazioni, vedi [Vendere sottoscrizioni di prodotti di Azure Marketplace](https://aka.ms/marketplaceincsp).
+- Articoli di Azure Marketplace di terze parti con pagamento in base al consumo: questi articoli sono disponibili se il provider li ha pubblicati nel canale CSP. Per altre informazioni, vedi [Vendere sottoscrizioni di prodotti di Azure Marketplace](csp-commercial-marketplace-overview.md).
 
 - Citrix XenApp Essentials: i partner possono acquistare XenApp Essentials per i clienti in CSP. Per altre informazioni, vedi il blog di Citrix seguente: [XenApp Essentials now available through Microsoft Cloud Solution Provider Channel](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/) (XenApp Essentials ora disponibile tramite il canale Microsoft Cloud Solution Provider).
 
@@ -189,6 +189,6 @@ La tabella seguente contiene un elenco regolarmente aggiornato dei prodotti, dei
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Scopri](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview) le funzionalità disponibili per Azure nel Centro per i partner.
+- [Scopri](/azure/cloud-solution-provider/overview/partner-center-overview) le funzionalità disponibili per Azure nel Centro per i partner.
 
-- [Crea](https://docs.microsoft.com/azure/cloud-solution-provider/customer-management/create-new-customer) il tuo primo cliente in Azure CSP e distribuisci i servizi di Azure.
+- [Crea](/azure/cloud-solution-provider/customer-management/create-new-customer) il tuo primo cliente in Azure CSP e distribuisci i servizi di Azure.

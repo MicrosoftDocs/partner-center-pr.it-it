@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: 774ec29ce6c20f0890d883ab73ab766906b88a92
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614126"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999625"
 ---
 # <a name="august-2020-announcements"></a>Annunci di agosto 2020
 
@@ -136,7 +136,7 @@ I partner che vendono servizi online a clienti commerciali
 
 Sarà possibile offrire i servizi a singoli utenti e team senza dover passare attraverso il processo di approvvigionamento IT centralizzato per ottenere le licenze necessarie. I servizi possono estendersi a Project e Visio, in base agli scenari di integrazione con Microsoft 365 e Power Platform. 
 
-È possibile scoprire di più sulle opportunità dei partner con soluzioni Visio e Power Platform nella sessione video Microsoft Inspire [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform) (Ricostruire e reimmaginare le aziende con Microsoft Visio e Power Platform). Per ulteriori informazioni, visitare la [Guida dell'amministratore self-service](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
+È possibile scoprire di più sulle opportunità dei partner con soluzioni Visio e Power Platform nella sessione video Microsoft Inspire [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform) (Ricostruire e reimmaginare le aziende con Microsoft Visio e Power Platform). Per ulteriori informazioni, visitare la [Guida dell'amministratore self-service](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
 
 #### <a name="additional-resources"></a>Risorse aggiuntive
 
@@ -221,7 +221,7 @@ Microsoft Defender Advanced Threat Protection (ATP) per i server per la formazio
 ### <a name="next-steps"></a>Passaggi successivi
 
 - Condividere queste informazioni con i contatti appropriati nella propria organizzazione.
-- Per altre informazioni sul prodotto, leggere la [documentazione di Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection).
+- Per altre informazioni sul prodotto, leggere la [documentazione di Microsoft Defender ATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection).
 
 ________________
 

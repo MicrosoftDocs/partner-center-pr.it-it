@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12b5b94194c6ca65b31af08dbf0dafef5c6ef21c
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220389"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999985"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Eseguire la preparazione per il passaggio da Partner Membership Center (PMC) al Centro per i partner
 
@@ -36,7 +36,7 @@ Un account aziendale Azure è una rappresentazione virtuale, dedicata e isolata,
 
 Il tuo account aziendale ospita gli utenti di Azure AD e le informazioni correlate: indirizzo di posta elettronica, password, dati del profilo, autorizzazioni e così via. L'account aziendale contiene anche gruppi, applicazioni e altre informazioni relative a una società e alla sua sicurezza. 
 
-Il tuo indirizzo di posta elettronica aziendale fa parte del tenant Azure Active Directory. Per avere un account nel Centro per i partner, devi disporre di un tenant AAD. Per altre informazioni su Azure Active Directory, leggi [Creare la directory in Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+Il tuo indirizzo di posta elettronica aziendale fa parte del tenant Azure Active Directory. Per avere un account nel Centro per i partner, devi disporre di un tenant AAD. Per altre informazioni su Azure Active Directory, leggi [Creare la directory in Azure AD](/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 Nel Centro per i partner userai il tuo indirizzo di posta elettronica aziendale, non quello personale, per accedere al tuo account.
 
@@ -49,7 +49,7 @@ Puoi accedere al Centro per i partner con l'account CSP o con il tuo account di 
 
 ### <a name="if-you-dont-want-to-use-your-existing-office-365-azure-ad-tenant-for-partner-center-you-can-create-a-new-tenant-prior-to-migrating-from-pmc"></a>Se non vuoi usare il tenant Azure AD di Office 365 esistente per il Centro per i partner, puoi creare un nuovo tenant prima di eseguire la migrazione da PMC.
 
-Possono essere numerose le ragioni per cui non vuoi usare un tenant Azure AD esistente per impostare il tuo account del Centro per i partner. Prima di avviare la migrazione al Centro per i partner, vai al [portale di Azure](https://ms.portal.azure.com/#home) per creare un nuovo tenant Azure AD. Segui le indicazioni contenute in [Creare un nuovo tenant in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Usare il nuovo tenant AAD per configurare l'account del Centro per i partner. Per creare il tenant, devi essere un amministratore globale. 
+Possono essere numerose le ragioni per cui non vuoi usare un tenant Azure AD esistente per impostare il tuo account del Centro per i partner. Prima di avviare la migrazione al Centro per i partner, vai al [portale di Azure](https://ms.portal.azure.com/#home) per creare un nuovo tenant Azure AD. Segui le indicazioni contenute in [Creare un nuovo tenant in Azure Active Directory](/azure/active-directory/develop/quickstart-create-new-tenant). Usare il nuovo tenant AAD per configurare l'account del Centro per i partner. Per creare il tenant, devi essere un amministratore globale. 
 
 ### <a name="user-roles-including-guest-user-roles-in-partner-center"></a>Ruoli utente, inclusi i ruoli utente guest nel Centro per i partner
 
@@ -132,7 +132,7 @@ No, non sono necessarie segnalazioni dei clienti per soddisfare i requisiti di c
 
 ### <a name="will-partner-of-record-associations-move-to-partner-center"></a>Le associazioni di Partner of Record vengono spostate nel Centro per i partner?
 
-Sì, tutto resta invariato per Partner of Record. Per altre informazioni, vedi come [collegare il tuo ID partner ai tuoi clienti](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
+Sì, tutto resta invariato per Partner of Record. Per altre informazioni, vedi come [collegare il tuo ID partner ai tuoi clienti](/azure/billing/billing-partner-admin-link-started).
 
 ### <a name="is-there-an-impact-to-incentives-because-of-the-move-to-partner-center"></a>Ci sono ripercussioni sugli incentivi a seguito del passaggio al Centro per i partner?
 
@@ -164,6 +164,6 @@ Le segnalazioni vengono assegnate in base ai parametri di ricerca definiti dal c
 
 Se viene visualizzato un messaggio di errore perché si partecipa al programma Web Direct, è necessario eseguire le operazioni seguenti:
 
-1. Accedere a portal.azure.com e creare un nuovo tenant di Azure AD. Per altre informazioni, vedere [Creare un nuovo tenant di Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
+1. Accedere a portal.azure.com e creare un nuovo tenant di Azure AD. Per altre informazioni, vedere [Creare un nuovo tenant di Azure AD](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
 
 2. Dopo aver creato il nuovo tenant di Azure AD, usarlo per eseguire la migrazione da Partner Membership Center al Centro per i partner o per iscriversi ex novo nel Centro per i partner.

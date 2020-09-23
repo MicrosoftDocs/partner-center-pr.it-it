@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 467f46b2e6dfc41730970abe9005e1f2d28409f3
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614152"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000485"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendere abbonamenti software tramite il programma Cloud Solution Provider (CSP)
 
@@ -116,7 +116,7 @@ Dopo aver acquistato l'abbonamento software, segui questa procedura per scaricar
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download e codici di licenza per sottoscrizioni di server disponibili tramite l'interfaccia di amministrazione di Microsoft 365 per i clienti 
 
-I clienti potranno ottenere i codici di licenza e i download per le sottoscrizioni di server CSP dall'interfaccia di amministrazione di Microsoft 365. Per visualizzare i codici di licenza e i download relativi alle sottoscrizioni di server CSP, il cliente dovrà accedere all'interfaccia di amministrazione di Microsoft 365 > **Fatturazione > Prodotti > scheda Software**. Per ulteriori informazioni, vedere la [scheda Software in Fatturazione](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+I clienti potranno ottenere i codici di licenza e i download per le sottoscrizioni di server CSP dall'interfaccia di amministrazione di Microsoft 365. Per visualizzare i codici di licenza e i download relativi alle sottoscrizioni di server CSP, il cliente dovrà accedere all'interfaccia di amministrazione di Microsoft 365 > **Fatturazione > Prodotti > scheda Software**. Per ulteriori informazioni, vedere la [scheda Software in Fatturazione](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visualizzare l'attività per l'accesso alle chiavi e ai download del software
 
@@ -138,12 +138,12 @@ A scopo di controllo o di conformità, potrebbe essere necessario controllare un
 Puoi annullare un acquisto di software entro 60 giorni dalla data dell'acquisto. Se esegui l'annullamento entro questo periodo di 60 giorni, non verrà addebitato alcun costo per la risoluzione anticipata. Dopo 60 giorni, non è più possibile annullare un acquisto. Vedi la nota per le restrizioni principali applicate a questa regola di annullamento. Per informazioni su quanto accade dopo aver annullato un acquisto di software, vedi anche la nota Importante riportata dopo questa procedura. 
 
 >[!NOTE]
->I passaggi seguenti per l'annullamento di un acquisto si applicano solo al software idoneo all'annullamento entro una finestra di tempo specifica, ad esempio entro i primi 60 giorni successivi all'acquisto. Questi passaggi non si applicano inoltre a un piano software SUSE Linux o RedHat in Azure. Al momento non è possibile annullare o scambiare un piano software SUSE o RedHat. [Ottieni altre informazioni](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) sull'uso dei piani SUSE Linux o RedHat.
+>I passaggi seguenti per l'annullamento di un acquisto si applicano solo al software idoneo all'annullamento entro una finestra di tempo specifica, ad esempio entro i primi 60 giorni successivi all'acquisto. Questi passaggi non si applicano inoltre a un piano software SUSE Linux o RedHat in Azure. Al momento non è possibile annullare o scambiare un piano software SUSE o RedHat. [Ottieni altre informazioni](/azure/virtual-machines/linux/prepay-suse-software-charges) sull'uso dei piani SUSE Linux o RedHat.
 
 Per annullare un acquisto, segui questa procedura:
 
 >[!NOTE]
->Gli acquisti possono essere annullati solo dagli agenti amministratori. Nei passaggi seguenti viene descritto come annullare un acquisto nel dashboard Centro per i partner. Per eseguire questa operazione, puoi anche usare l'[API del Centro per i partner](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases).
+>Gli acquisti possono essere annullati solo dagli agenti amministratori. Nei passaggi seguenti viene descritto come annullare un acquisto nel dashboard Centro per i partner. Per eseguire questa operazione, puoi anche usare l'[API del Centro per i partner](/partner-center/develop/cancel-software-purchases).
 
 1. Prima di iniziare il processo di annullamento, assicurati di disporre di quanto segue:
 

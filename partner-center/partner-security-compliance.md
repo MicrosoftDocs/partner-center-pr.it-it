@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 1b6c2d56a0747ddf2bd1a821886e371ed698a4a1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220199"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999835"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Stato dei requisiti di sicurezza del partner: ottieni le risposte e controlla i report sullo stato corrente
 
@@ -37,7 +37,7 @@ Dal 1° agosto 2019 tutti i partner sono tenuti a implementare l'autenticazione 
 L'obiettivo è che ogni utente sia sottoposto a un test MFA per ogni singola autenticazione. Questo esperienza può essere eseguita in uno dei modi seguenti:
 
 - Implementazione di Azure AD Premium per fare in modo che l'autenticazione MFA venga applicata per ogni utente
-- Implementazione delle [impostazioni predefinite per la sicurezza Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+- Implementazione delle [impostazioni predefinite per la sicurezza Azure AD](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Implementazione di una soluzione di terze parti in modo che l'autenticazione MFA venga applicata per ogni utente
 
 ## <a name="partner-security-requirements-status"></a>Stato dei requisiti di sicurezza per i partner
@@ -53,10 +53,10 @@ Il report sull'autenticazione a più fattori del Centro per i partner offre info
 
 ### <a name="mfa-configuration-on-a-csp-tenant"></a>Configurazione di MFA in un tenant CSP
 
-Questa metrica è correlata alla configurazione di MFA in un tenant CSP che ha acquisito e restituito dati su base giornaliera. Consente di misurare la percentuale di account utente abilitati con MFA applicata usando una di queste [opzioni MFA](https://aka.ms/partner-mfa-get-started). Ad esempio:
+Questa metrica è correlata alla configurazione di MFA in un tenant CSP che ha acquisito e restituito dati su base giornaliera. Consente di misurare la percentuale di account utente abilitati con MFA applicata usando una di queste [opzioni MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started). Ad esempio:
 
 - Contoso è un partner CSP con 110 account utente nel tenant, 10 dei quali sono disabilitati. 
-- A 90 dei 100 account utente rimanenti viene applicata l'autenticazione MFA usando le [opzioni MFA](https://aka.ms/partner-mfa-get-started) specificate. Di conseguenza, la metrica indica il 90%. 
+- A 90 dei 100 account utente rimanenti viene applicata l'autenticazione MFA usando le [opzioni MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) specificate. Di conseguenza, la metrica indica il 90%. 
 
 ### <a name="partner-center-activities-with-mfa"></a>Attività del Centro per i partner con MFA
 
@@ -127,7 +127,7 @@ Se usi una soluzione MFA di terze parti, verifica come è integrata con Azure AD
 
 ### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>Identificare gli utenti che hanno effettuato l'accesso al Centro per i partner senza MFA
 
-Può essere utile identificare gli utenti che accedono al Centro per i partner senza verifica MFA e verificarli a fronte della tua implementazione MFA corrente. Per verificare se un utente ha completato o meno la verifica MFA, puoi usare il [report con le informazioni di accesso Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins). Il report con le informazioni di accesso Azure AD è attualmente disponibile solo per i partner che hanno sottoscritto Azure AD Premium o qualsiasi SKU O365 che includa Azure AD Premium, ad esempio EMS.
+Può essere utile identificare gli utenti che accedono al Centro per i partner senza verifica MFA e verificarli a fronte della tua implementazione MFA corrente. Per verificare se un utente ha completato o meno la verifica MFA, puoi usare il [report con le informazioni di accesso Azure AD](/azure/active-directory/reports-monitoring/concept-sign-ins). Il report con le informazioni di accesso Azure AD è attualmente disponibile solo per i partner che hanno sottoscritto Azure AD Premium o qualsiasi SKU O365 che includa Azure AD Premium, ad esempio EMS.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

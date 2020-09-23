@@ -191,6 +191,8 @@
           href: connector-dynamics.md
         - name: Connettore di co-selling per CRM Salesforce - Panoramica
           href: connector-salesforce.md
+        - name: Risoluzione dei problemi relativi ai connettori di co-selling
+          href: connectors-troubleshoot.md
         - name: Co-selling per i partner che eseguono la migrazione da Partner Sales Connect (PSC)
           href: psc-to-pc.md
         - name: Registrare le trattative
@@ -301,6 +303,10 @@
           href: license-based-billing.md
         - name: Scenari per sottoscrizioni SaaS basate su licenza
           href: common-billing-scenarios-saas.md
+        - name: Fatturazione per le offerte del marketplace
+          href: csp-commercial-marketplace-billing.md
+        - name: Ottenere i pagamenti del marketplace
+          href: marketplace-get-paid.md
     - name: Visualizzare le firme digitali - Centro per i partner India
       href: digital-signature.md
     - name: Imposte ed esenzioni fiscali
@@ -308,12 +314,20 @@
       items:
         - name: Informazioni sull'IVA aziendale
           href: organization-tax-info.md
+        - name: Informazioni sull'IVA (Imposta Valore Aggiunto) nella registrazione al Centro per i partner
+          href: vat-info.md
         - name: Ricevere il credito per la ritenuta d'acconto
           href: withholding-tax-credit-form.md
         - name: Imposta regionale - Servizi vocali
           href: tax-and-fees-voice-services.md
-    - name: Richiedere crediti del contratto di servizio a Microsoft
-      href: request-credit.md
+        - name: Dettagli sulle imposte per gli editori del marketplace commerciale
+          href: tax-details-marketplace.md
+        - name: Comprendere i moduli fiscali IRS emessi da Microsoft
+          href: understand-irs-tax-forms.md
+        - name: Configurare l'account proventi e i moduli fiscali
+          href: set-up-your-payout-account.md
+        - name: Richiedere crediti del contratto di servizio a Microsoft
+          href: request-credit.md
     - name: Impostare un budget di spesa di Azure per i clienti
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 'Gestire insoluti, frodi o uso improprio'
@@ -360,8 +374,6 @@
           href: isv-opt-in.md
         - name: Gestire le offerte del marketplace
           href: csp-commercial-marketplace-manage.md
-        - name: Fatturazione per le offerte del marketplace
-          href: csp-commercial-marketplace-billing.md
         - name: Supporto per le offerte del marketplace
           href: csp-commercial-marketplace-support.md
         - name: Contratti per gli acquisti nel marketplace
@@ -429,7 +441,7 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: Spostare i clienti di servizi basati su licenza nel programma Cloud Solution Provider
           href: transition-seat-based-services.md
-        - name: 'Vendere sottoscrizioni di MineCraft: Education Edition'
+        - name: Vendere abbonamenti di Minecraft Education Edition
           href: minecraft-subscriptions.md
         - name: Vendere in settori specializzati
           href: Get-special-pricing-for-offers.md

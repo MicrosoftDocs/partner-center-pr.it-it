@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: e47277efa11fa7e08a40be867287f92e42a99811
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026487"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007405"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurare l'account proventi e i moduli fiscali
 
@@ -28,7 +28,7 @@ Dopo aver configurato l'account, prima di poter vendere l'offerta o i componenti
 - [Impostare l'account proventi](#payout-account)
 
 > [!NOTE]
-> Per informazioni dettagliate su come e quando si riceverà il pagamento dell'offerta proposta, vedere [Pagamento](marketplace-payout-account-setup.md).
+> Per informazioni dettagliate su come e quando si riceverà il pagamento dell'offerta proposta, vedere [Pagamento](/azure/marketplace/marketplace-payout-account-setup).
 
 ## <a name="tax-forms"></a>Moduli fiscali
 
@@ -131,7 +131,7 @@ Per assicurarsi che il pagamento vada a buon fine, verificare quanto segue:
 3. I profili di pagamento verranno elencati insieme al relativo stato. Trovare il profilo da modificare e fare clic su **Modifica** all'estremità destra
 
 > [!IMPORTANT]
-> La modifica dell'account per il pagamento può ritardare i pagamenti per un massimo di un ciclo di pagamento. Questo ritardo si verifica perché è necessario verificare la modifica dell'account, come è stato fatto per la configurazione iniziale dell'account di pagamento. Dopo aver verificato l'account, verrà comunque pagato per l'intero importo. Ii pagamenti in scadenza per il ciclo pagamento corrente saranno aggiunti a quello successivo. Per altre informazioni, vedere [Pagamento](marketplace-payout-account-setup.md).
+> La modifica dell'account per il pagamento può ritardare i pagamenti per un massimo di un ciclo di pagamento. Questo ritardo si verifica perché è necessario verificare la modifica dell'account, come è stato fatto per la configurazione iniziale dell'account di pagamento. Dopo aver verificato l'account, verrà comunque pagato per l'intero importo. Ii pagamenti in scadenza per il ciclo pagamento corrente saranno aggiunti a quello successivo. Per altre informazioni, vedere [Pagamento](/azure/marketplace/marketplace-payout-account-setup).
 
 ### <a name="paypal-info"></a>Informazioni su PayPal
 

@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 026fc1b9be8f54f851397853530843826cfc6e25
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 3e350074b08a435ea913f9462702602d1a7c04e8
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026495"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007483"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Dettagli sulle imposte per gli editori del marketplace commerciale
 
@@ -289,4 +289,4 @@ Le condizioni seguenti si applicano solo agli editori di Azure Marketplace:
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-[Configurare l'account proventi e i moduli fiscali](marketplace-payout-account-setup.md)
+[Configurare l'account proventi e i moduli fiscali](/azure/marketplace/marketplace-payout-account-setup)

@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: b894bd8c4c609cfffb1cdb88e29bb4dc9b937df5
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 4d750f677d54023731cbef587c4ccdea30aafb43
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026479"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007473"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Comprendere i moduli fiscali IRS emessi da Microsoft
 
@@ -27,7 +27,7 @@ Di seguito, potrai consultare maggiori informazioni su questi moduli, chi li ric
 |1042-S | Relativi ai pagamenti effettuati all'utente soggetti a Stati Uniti imposta di ritenuta | I moduli stampati verranno sottoposti a posting il **15 marzo**, mentre le copie PDF saranno disponibili nel centro per i partner (in impostazioni per gli **sviluppatori del centro** per i partner sotto **pagamento e imposte > i profili di pagamento e fiscali**) allo stesso tempo  |
 
 > [!NOTE]
-> L'indirizzo usato nei moduli fiscali di IRS deriva dall'indirizzo nel [profilo fiscale](marketplace-payout-account-setup.md). Se l'indirizzo è stato modificato, assicurarsi di aggiornare l'indirizzo nel **profilo fiscale**.
+> L'indirizzo usato nei moduli fiscali di IRS deriva dall'indirizzo nel [profilo fiscale](/azure/marketplace/marketplace-payout-account-setup). Se l'indirizzo è stato modificato, assicurarsi di aggiornare l'indirizzo nel **profilo fiscale**.
 
 I moduli fiscali verranno inviati all'utente dagli indirizzi seguenti:
 

@@ -8,12 +8,12 @@ description: Richiedere una relazione con un cliente per scenari multicanale e m
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 53cb70e4d21824dc030f469b43e4465e9c5ce871
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811301"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007415"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Come richiedere una relazione di rivenditore da un cliente nel Centro per i partner
 
@@ -45,7 +45,7 @@ Se si desidera stabilire una relazione del rivenditore con un cliente e gestire 
 5. Dopo aver accettato l'invito, il cliente verrà visualizzato nella pagina **Clienti** e potrai effettuare il provisioning e gestire il servizio per il cliente da questa pagina.
 
    > [!NOTE]
-   > Se il cliente non ha ancora accettato il contratto per i clienti Microsoft, verrà richiesto di farlo al momento dell'accettazione dell'invito. 
+   > Se il cliente non ha ancora accettato il contratto per i clienti Microsoft, verrà richiesto di farlo al momento dell'accettazione dell'invito. Il cliente deve essere amministratore globale per accettare l'invito.
 
 6. Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome.
 

@@ -303,6 +303,8 @@
           href: license-based-billing.md
         - name: Scenari per sottoscrizioni SaaS basate su licenza
           href: common-billing-scenarios-saas.md
+    - name: Scenari di fatturazione e proventi del Marketplace
+      items:
         - name: Fatturazione per le offerte del marketplace
           href: csp-commercial-marketplace-billing.md
         - name: Ottenere i pagamenti del marketplace

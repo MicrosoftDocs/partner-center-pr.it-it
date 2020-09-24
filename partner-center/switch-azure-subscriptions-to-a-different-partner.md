@@ -9,14 +9,14 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
-ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
+ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
+ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87412437"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "91206323"
 ---
-# <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Informazioni su come trasferire le sottoscrizioni di Azure di un cliente a un altro partner
+# <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Informazioni su come trasferire sottoscrizioni di Azure di un cliente a un altro partner
 
 **Si applica a**
 
@@ -106,5 +106,6 @@ Per passare i servizi o le sottoscrizioni di Azure di un cliente a un altro part
 ## <a name="next-steps"></a>Passaggi successivi
 
 - Scaricare il [modulo di trasferimento della sottoscrizione CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
-- Informazioni sul [supporto](multipartner.md)per più partner.
-- Scopri di più sul supporto per più [canali](multichannel.md).
+- [supporto](multipartner.md)per più partner.
+- [supporto](multichannel.md)per più canali.
+- [Trasferire le sottoscrizioni di Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)

@@ -5,19 +5,19 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: 4d750f677d54023731cbef587c4ccdea30aafb43
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.date: 09/24/2020
+ms.openlocfilehash: 9178cd8f3f516ca6ffacd481fb2721787dc581e2
+ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007473"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91248909"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Comprendere i moduli fiscali IRS emessi da Microsoft
 
-A seconda di dove di trovi e dalla quantità di vendite e/o pagamenti che ricevi, potresti ricevere uno o più moduli fiscali da Microsoft ogni anno. Microsoft deve emettere questi moduli e depositarli presso l'Internal Revenue Service (IRS).
+È possibile ricevere uno o più moduli fiscali da Microsoft ogni anno. Questo dipende dalla posizione e dalla quantità di vendite o pagamenti ricevuti. Microsoft deve emettere questi moduli e depositarli presso l'Internal Revenue Service (IRS).
 
-Di seguito, potrai consultare maggiori informazioni su questi moduli, chi li riceverà e quando saranno resi disponibili.
+Questo articolo illustra in modo più approfondito questi moduli, inclusi quelli che li riceveranno e quando saranno resi disponibili.
 
 ## <a name="types-of-tax-forms"></a>Tipi di moduli fiscali
 
@@ -42,8 +42,8 @@ I moduli fiscali verranno inviati all'utente dagli indirizzi seguenti:
 
 | Gruppo aziendale         | Entità legale          | Indirizzo                                          |
 |------------------------|-----------------------|--------------------------------------------------|
-| Windows, Office, Azure | Microsoft Ireland Operations Limited (il pagamento viene effettuato da Microsoft Corporation tramite Microsoft Ireland che funge da intermediario qualificato per Microsoft Corporation) | One Microsoft Place<br>South &nbsp; County &nbsp; business &nbsp; Park<br>Leopardstown, Dublin 18 Ireland|
-| Pubblicità\*          | Microsoft Ireland Operations Limited (il pagamento viene effettuato da Microsoft Online Inc. tramite Microsoft Ireland, che funge da agente di pagamento per Microsoft Online Inc.) | One Microsoft Place<br>South &nbsp; County &nbsp; business &nbsp; Park<br>Leopardstown, Dublin 18 Ireland |
+| Windows, Office, Azure | Microsoft Ireland Operations Limited (il pagamento viene effettuato da Microsoft Corporation tramite Microsoft Ireland che funge da intermediario qualificato per Microsoft Corporation) | One Microsoft Place<br>South County Business Park<br>Leopardstown, Dublin 18, D18 P521, Irlanda|
+| Pubblicità          | Microsoft Ireland Operations Limited (il pagamento viene effettuato da Microsoft Online Inc. tramite Microsoft Ireland, che funge da agente di pagamento per Microsoft Online Inc.) | One Microsoft Place<br>Regione sud& Business Park<br>Leopardstown, Dublin 18, D18 P521, Irlanda |
 | Pubblicità            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 Stati Uniti |
 
 >[!NOTE]
@@ -51,81 +51,26 @@ I moduli fiscali verranno inviati all'utente dagli indirizzi seguenti:
 
 ## <a name="for-developers-located-in-the-united-states"></a>Per gli sviluppatori che si trovano negli Stati Uniti
 
-<table>
-  <tr>
-     <th>Se sono uno sviluppatore negli Stati Uniti che vende app a pagamento e... </th>
-     <th> Devo ricevere questo modulo</th>
-  </tr>
-  <tr> 
-     <td valign="top">Ho avuto <b>più di 200 vendite di app</b> con un importo di acquisto totale di queste vendite <b>superiore a $20.000 USD</b> nell'anno fiscale applicabile (<b>senza</b> contare le vendite effettuate in brasile e in Cina tramite il Microsoft Store in Windows 10).</td>
-    <td valign="top"><b>1099-K</b> :<br>Dichiarante: Microsoft Corporation<br>EIN: * * * * * 4442<br><br><b>Importante</b>: il formato 1099-K contiene quantità di <b>acquisto lorde</b> , non pagamenti effettuati.</td>
-  </tr>
-  <tr> 
-     <td valign="top">Sono state ricevute almeno <b>$10 di pagamenti</b> per le vendite di app (i) effettuate in Brasile e in Cina tramite il Microsoft Store sulle vendite di Windows 10 o (II) nel Marketplace di Minecraft.<br>
-<br>
-<b>OR</b><br>
-<br>
-Ho ricevuto almeno $600 di pagamenti non correlati alle vendite di app di Microsoft nell'anno fiscale applicabile (ad esempio, pagamenti di incentivi o pagamenti da un concorso o promozione)</td>
-    <td valign="top"><b>1099-MISC</b> :<br>Pagante: Microsoft Corporation<br>EIN: * * * * * 4442<br><br><b>Importante</b>: alcune entità aziendali non riceveranno i formati 1099-misc indipendentemente dagli importi di pagamento ricevuti da Microsoft.  Per ulteriori informazioni, rivolgiti al tuo consulente fiscale.</td>
-  </tr>
-  <tr>
-    <td valign="top">Nessuno dei motivi sopra indicati è applicabile.</td>
-    <td valign="top">nessuno</td>
-  </tr>
-  <tr>
-    <td valign="top">&nbsp;</td>
-    <td valign="top">&nbsp;</td>
-  </tr>
-  <tr>
-     <th>Se sono uno sviluppatore Stati Uniti vendendo annunci nelle app e... </th>
-     <th> Devo ricevere questo modulo</th>
-  </tr>
-  <tr> 
-     <td valign="top">Ho ricevuto almeno <b>$600 di pagamenti</b> da annunci nelle app nell'anno fiscale applicabile</td>
-    <td valign="top"><b>1099-MISC</b> :<br>Pagante: Microsoft Online Inc<br>EIN: * * * * * 0505<br><br><b>Importante</b>: alcune entità aziendali non riceveranno i formati 1099-misc indipendentemente dagli importi di pagamento ricevuti da Microsoft.  Per ulteriori informazioni, rivolgiti al tuo consulente fiscale.</td>
-  </tr>
-  <tr> 
-     <td valign="top">Ho ricevuto <b>meno di $600 di pagamenti</b> da annunci nelle app nell'anno fiscale applicabile</td>
-     <td valign="top">nessuno</td>
-  </tr>
-</table>
+| Se sono uno sviluppatore Stati Uniti che vende app a pagamento e...   | Dovrei ricevere questo modulo: |
+|------------------------|-----------------------|
+| Ho avuto **più di 200 vendite di app** con un importo di acquisto totale di queste vendite **superiore a $20.000 USD** nell'anno fiscale applicabile (**senza** contare le vendite effettuate in brasile e in Cina tramite il Microsoft Store in Windows 10).| **1099-K:**<br/>Dichiarante: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** Il modulo 1099-K contiene gli importi di **acquisto lordi**, non i pagamenti effettuati a te.| 
+| Sono state ricevute almeno **$10 di pagamenti** per le vendite di app (i) effettuate in Brasile e in Cina tramite il Microsoft Store sulle vendite di Windows 10 o (II) nel Marketplace di Minecraft.<br/><br/>**OR**<br/><br/>Ho ricevuto almeno $600 di pagamenti non correlati alle vendite di app di Microsoft nell'anno fiscale applicabile (ad esempio, pagamenti di incentivi o pagamenti da un concorso o promozione)| **1099-VARIE:**<br/>Pagante: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** Alcune entità aziendali non riceveranno i moduli 1099-MISC indipendentemente dagli importi dei pagamenti ricevuti da Microsoft.  Per ulteriori informazioni, consultare la Professional Tax.| 
+| Nessuno dei motivi sopra indicati è applicabile.| nessuno |
+| <br/><br/>**Se sono uno sviluppatore Stati Uniti vendendo annunci nelle app e...** |<br/><br/>**Dovrei ricevere questo modulo:** |
+|Ho ricevuto almeno **$600 di pagamenti** da annunci nelle app nell'anno fiscale applicabile. | **1099-VARIE:**<br/>Pagante: Microsoft Online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Importante:** Alcune entità aziendali non riceveranno i moduli 1099-MISC indipendentemente dagli importi dei pagamenti ricevuti da Microsoft.  Per ulteriori informazioni, consultare la Professional Tax. |
+| Ho ricevuto **meno di $600 di pagamenti** da annunci nelle app nell'anno fiscale applicabile. | nessuno |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Per gli sviluppatori al di fuori degli Stati Uniti
 
-<table>
-  <tr>
-    <td valign="top"><b>Ho ricevuto un modulo 1042-S da Microsoft. A cosa serve?</b></td>
-    <td valign="top">Microsoft ti ha inviato uno o più moduli 1042-S perché ti abbiamo corrisposto dei ricavi considerati dichiarabili dalle autorità fiscali degli Stati Uniti e sono stati soggetti a una trattenuta fiscale.  Il modulo 1042-S viene utilizzato per questo requisito di dichiarazione.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Che cosa devo fare con i moduli?</b></td>
-    <td valign="top">Generalmente, da parte tua non è richiesta alcuna azione specifica. Il modulo 1042-S può essere utile se desideri fare richiesta alle tue autorità fiscali locali per una qualsiasi forma di credito d'imposta.  Devi consultare il tuo consulente fiscale per maggiori informazioni su questo argomento.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Perché sui miei pagamenti sono state applicate trattenute fiscali se ho completato un modulo W8?</b></td>
-    <td valign="top">Saranno applicate trattenute fiscali se:<br>
-     1. La sezione relativa al trattato fiscale della W8 non è stata completata correttamente oppure<br>
-     2. Si è residenti in un paese che non dispone di un contratto d'imposta con la Stati Uniti.<br><br>È possibile visitare il centro per i partner in qualsiasi momento per inviare un modulo W8 aggiornato.<br><br><b>Nota</b>: non tutti i redditi sono soggetti a ritenute fiscali.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Ho inviato un modulo W8 aggiornato con informazioni valide sul trattato. Microsoft può rimborsare la tassa che è stata trattenuta?</b></td>
-    <td valign="top">Le trattenute fiscali, una volta prelevate, non possono essere rimborsate. Devi rivolgersi al tuo consulente fiscale per verificare se puoi richiedere un credito locale per queste tasse o un rimborso all'IRS.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Quali vendite sono riportate sul modulo 1042-S?</b></td>
-    <td valign="top">Sono dichiarabili solo le vendite effettuate <b>ad acquirenti situati negli Stati Uniti classificati come soggetti a trattenuta fiscale</b>.  Tutte le altre vendite non sono considerate dichiarabili.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Perché ho ricevuto 3 copie dello stesso modulo 1042-S in un'unica busta?</b></td>
-    <td valign="top">Le normative IRS richiedono l'invio di tre copie del modulo:
-<ul>
-<li>Una per il destinatario</li>
-<li>Una per la presentazione della domanda di dichiarazione dei redditi federale degli Stati Uniti (se applicabile)</li>
-<li>Una per la presentazione della domanda di dichiarazione dei redditi statale degli Stati Uniti (se applicabile)</li>
-</ul></td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **Ho ricevuto un modulo 1042-S da Microsoft. A cosa serve?** | Microsoft ti ha inviato uno o più moduli 1042-S perché ti abbiamo corrisposto dei ricavi considerati dichiarabili dalle autorità fiscali degli Stati Uniti e sono stati soggetti a una trattenuta fiscale.  Il modulo 1042-S viene utilizzato per questo requisito di dichiarazione. | 
+| **Che cosa devo fare con i moduli?** | Generalmente, da parte tua non è richiesta alcuna azione specifica. Il modulo 1042-S può essere utile se desideri fare richiesta alle tue autorità fiscali locali per una qualsiasi forma di credito d'imposta.  Per ulteriori informazioni su questo argomento, consultare gli Advisor fiscali personali. | 
+| **Perché sui miei pagamenti sono state applicate trattenute fiscali se ho completato un modulo W8?** | Saranno applicate trattenute fiscali se:<ol><li>Non hai completato correttamente la sezione sui trattati fiscali del W8, oppure</li><li>Sei residente in un Paese che non ha un trattato fiscale con gli Stati Uniti.</li></ol><br/>È possibile visitare il centro per i partner in qualsiasi momento per inviare un modulo W8 aggiornato.<br/><br/> **Nota:** Non tutti i redditi sono soggetti a ritenute fiscali. | 
+| **Ho inviato un modulo W8 aggiornato con informazioni valide sul trattato. Microsoft può rimborsare la tassa che è stata trattenuta?** | Le trattenute fiscali, una volta prelevate, non possono essere rimborsate. Rivolgersi ai consulenti fiscali per discutere se è possibile richiedere un credito locale per tali imposte o se è possibile richiedere un rimborso dall'IRS. | 
+| **Quali vendite sono riportate sul modulo 1042-S?** | Sono dichiarabili solo le vendite effettuate **ad acquirenti situati negli Stati Uniti classificati come soggetti a trattenuta fiscale**.  Tutte le altre vendite non sono considerate dichiarabili. | 
+| **Perché sono state riportate tre copie dello stesso formato 1042-S in una busta?** | Le normative IRS richiedono l'invio di tre copie del modulo:<ul><li>Una per il destinatario</li><li>Una per la presentazione della domanda di dichiarazione dei redditi federale degli Stati Uniti (se applicabile)</li><li>Una per la presentazione della domanda di dichiarazione dei redditi statale degli Stati Uniti (se applicabile)</li></ul> |
 
 > [!NOTE]
-> In caso di domande o problemi aggiuntivi relativi ai **moduli fiscali IRS**, creare un [ticket di supporto](https://developer.microsoft.com/windows/support). Microsoft non è in grado di rispondere a domande relative a circostanze fiscali specifiche; per tali domande, rivolgiti al tuo consulente fiscale.
+> Per domande o problemi aggiuntivi relativi ai **moduli fiscali IRS**, vedere [Guida e supporto tecnico](https://partner.microsoft.com/dashboard/support/) nel dashboard del centro per i partner. Microsoft non è in grado di rispondere a domande relative a circostanze fiscali specifiche; per tali domande, rivolgiti al tuo consulente fiscale.

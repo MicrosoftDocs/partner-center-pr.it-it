@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
+ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007395"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91248899"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Come ottenere i pagamenti nel marketplace commerciale
 
@@ -30,11 +30,11 @@ Tali commissioni vengono applicate a tutte le vendite di offerte raccolte dal ma
 
 ## <a name="payout-reporting"></a>Segnalazioni sui proventi
 
-Nella sezione **Riepilogo proventi** del [Centro per i partner](https://partner.microsoft.com/dashboard) è possibile visualizzare i dettagli sulle informazioni di pagamento e scaricare i report. Per i dettagli sulle informazioni riportate qui e sul modo di classificare i proventi, vedere [Panoramica del riepilogo proventi](/azure/marketplace/payout-summary-overview).
+Nella sezione **Riepilogo proventi** del [Centro per i partner](https://partner.microsoft.com/dashboard) è possibile visualizzare i dettagli sulle informazioni di pagamento e scaricare i report. Per informazioni dettagliate sulle informazioni riportate di seguito e sul modo in cui categorizzare il denaro guadagnato, vedere la pagina relativa alla [dichiarazione dei pagamenti](payout-statement.md).
 
 ## <a name="payout-time-frame"></a>Intervallo di tempo dei pagamenti
 
-I pagamenti vengono effettuati su base mensile, a condizione che sia stata raggiunta la soglia applicabile e che i pagamenti non siano stati bloccati come descritto di seguito. Solitamente i pagamenti relativi a un mese specifico vengono inviati entro il 15° giorno del mese in questione. Si noti che in genere sono necessari dai 3 ai 10 giorni lavorativi per visualizzare i pagamenti nell'account proventi. Per informazioni dettagliate, vedere [Soglie, metodi e intervalli di pagamento](/azure/marketplace/payment-thresholds-methods-timeframes).
+I pagamenti vengono effettuati su base mensile, a condizione che sia stata raggiunta la soglia applicabile e che i pagamenti non siano stati bloccati come descritto di seguito. Solitamente i pagamenti relativi a un mese specifico vengono inviati entro il 15° giorno del mese in questione. Si noti che in genere sono necessari dai 3 ai 10 giorni lavorativi per visualizzare i pagamenti nell'account proventi. Per informazioni dettagliate, vedere [Soglie, metodi e intervalli di pagamento](payment-thresholds-methods-timeframes.md).
 
 ## <a name="payout-hold-status"></a>Stato di blocco dei pagamenti
 

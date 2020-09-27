@@ -301,6 +301,8 @@
           href: invoice-file.md
         - name: Fatturazione in base alle licenze
           href: license-based-billing.md
+        - name: Fatturazione operatore
+          href: mobile-operator-billing.md
         - name: Scenari per sottoscrizioni SaaS basate su licenza
           href: common-billing-scenarios-saas.md
     - name: Scenari di fatturazione e proventi del Marketplace
@@ -309,6 +311,14 @@
           href: csp-commercial-marketplace-billing.md
         - name: Ottenere i pagamenti del marketplace
           href: marketplace-get-paid.md
+        - name: Dettagli dei criteri dei proventi
+          href: payout-policy-details.md
+        - name: 'Soglie, metodi e intervalli di pagamento'
+          href: payment-thresholds-methods-timeframes.md
+        - name: Estratti conto
+          href: payout-statement.md
+        - name: Domande frequenti sui proventi del marketplace
+          href: payout-faq.md
     - name: Visualizzare le firme digitali - Centro per i partner India
       href: digital-signature.md
     - name: Imposte ed esenzioni fiscali

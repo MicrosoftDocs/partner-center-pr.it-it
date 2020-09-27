@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 5b43a837bfa90685d13ff96656c9129113f058d9
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.openlocfilehash: 9c92966788a8d00cc86776b996b3484a9bff8d59
+ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "91206293"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91372791"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di settembre 2020** | **Annunciato** |
 |---------|:---------|:---------|
+|Funzionalità|[Modifiche imminenti alla legge federale russa sull'IVA](2020-september.md#12)|25 settembre|
 |Funzionalità|[Versione dell'SDK in .NET Standard v1.16.2](2020-september.md#11)|22 settembre|
 |Funzionalità|[Partner Center Insights: la risorsa unica per la creazione di report utili alla comprensione delle attività di business con Microsoft.](2020-september.md#10)|23 settembre|
 |Offerte/mercati|[Annuncio della disponibilità generale di Azure SQL Edge](2020-september.md#9)|22 settembre|

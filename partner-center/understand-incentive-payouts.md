@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: fbd91659a8118cd2efa8c361adaf4c0668245e70
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 0abc7235c091620650d3288ef228a3d009c016e0
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220259"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406344"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Visualizza, Gestisci ed Esporta i dettagli del programma incentives
 
@@ -76,13 +76,13 @@ Per accedere alla **panoramica degli incentivi**:
 >Vedere la tabella seguente per altre informazioni sui diversi Stati di registrazione indicati nella colonna **stato** .
 
 
-| **Stato**         | **Viene visualizzato quando** |
+| **Status**         | **Viene visualizzato quando** |
 |:------------------------------------|:------------------|
 | Azione richiesta  | Il partner ha accettato un invito a iscriversi a un programma di incentivi, ma potrebbe dover aggiornare le informazioni bancarie o fiscali. Vedere la colonna **azioni necessarie** per i passaggi successivi o i collegamenti per aggiornare le informazioni bancarie o fiscali nel centro per i partner. |
 | Non disponibile  | Il programma di incentivazione specifico non è più disponibile nel sistema di incentivi. |
 | Enrolled  | Tutte le informazioni fiscali e bancarie sono state convalidate. Non è richiesta alcuna ulteriore azione di registrazione da parte del partner. |
 | Enrolling  | L'utente non è un amministratore di incentivi e la registrazione è nell' **azione necessaria** o per la **convalida** degli Stati di registrazione.|
-| Inattivo/non idoneo | Il programma incentive potrebbe non essere aperto per la registrazione in questo momento o il partner non soddisfa l'idoneità corrente per la registrazione o la nuova registrazione. <br> Se lo stato non è **idoneo**, il partner non soddisfa i requisiti di idoneità correnti per il programma; Se si seleziona il collegamento **vedere i requisiti di idoneità** sotto lo stato di registrazione, vengono visualizzati i requisiti per l'idoneità e quali di questi requisiti sono stati soddisfatti. |
+| Inattivo/non idoneo | Il programma incentive potrebbe non essere aperto per la registrazione in questo momento o il partner non soddisfa l'idoneità corrente per la registrazione o la nuova registrazione. <br><br> Se lo stato non è **idoneo**, il partner non soddisfa i requisiti di idoneità correnti per il programma; Se si seleziona il collegamento **vedere i requisiti di idoneità** sotto lo stato di registrazione, vengono visualizzati i requisiti per l'idoneità e quali di questi requisiti sono stati soddisfatti. <br><br> È anche possibile che vengano visualizzate le registrazioni stato **inattivo** per l'organizzazione virtuale (VORG) o partner Global account (PGA) che non sono più attive nel programma incentive.  |
 | Invitato  | Un nuovo invito alla registrazione del programma incentive è stato inviato al partner, ma il partner non ha ancora avviato il processo di registrazione. La colonna adiacente, **azioni richieste** Mostra i passaggi successivi ed eventuali collegamenti correlati.  |
 | Convalida della registrazione  | Il partner ha già completato o aggiornato le informazioni fiscali e bancarie per una registrazione nuova o esistente ed è in attesa della convalida delle informazioni da parte di Microsoft. Durante il processo di convalida, è possibile che venga visualizzata la **convalida della registrazione** per un massimo di 48 ore.  |
 
@@ -278,7 +278,7 @@ Il report Riepilogo transazioni fornisce i dettagli della transazione a livello 
 >[!NOTE]
 >Il report di riepilogo delle transazioni non includerà le informazioni sul cliente e sulla sottoscrizione per le sottoscrizioni più recenti di 60 giorni, oppure se i ricavi a consumo sono inferiori a un centesimo.
 
-|Nome della colonna |Descrizione |
+|Nome colonna |Descrizione |
 |------ |:-----------|
 |  earningId | Identificatore univoco per ogni reddito  |
 |  participantId | Identità principale del partner che realizza un reddito nell'ambito del programma  |

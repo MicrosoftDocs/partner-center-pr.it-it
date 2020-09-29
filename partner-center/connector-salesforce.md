@@ -8,12 +8,12 @@ description: Sincronizzare i riferimenti nel centro per i partner con Salesforce
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b658f04b1348eb48f694fac069518a7a7fc6a70
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372836"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422447"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connettore di co-selling per CRM Salesforce - Panoramica
 
@@ -237,45 +237,6 @@ Spesso i sistemi CRM sono altamente personalizzati. È possibile personalizzare 
 
 È possibile modificare i mapping in questa sezione in base alla guida al mapping dei campi.
 
-### <a name="set-up-fields-and-relationships"></a>Configurare campi e relazioni
-
-1. Accedere all'account di Salesforce e passare a **opportunità**.
-
-2. Fare clic sulle opzioni **installazione** e **modifica oggetto** per aggiungere i campi necessari.
-
-3. Selezionare i **campi & le relazioni** dal percorso di spostamento a sinistra
-
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
-
-4. Aggiungere i campi seguenti nei **campi &** tabella delle relazioni:
-
-   |**Etichetta campo**   |**Nome campo**|**Tipo di dati**|**Indicizzata**|
-   |---------------------|:-------------------|:--------------|:----------------|
-   |Audit| Audit__c|Area di testo lungo (100.000) (riga visibile 4)||
-   |Come può essere utile Microsoft?|How_can_Microsoft_help_c|Picklist|
-   |Prodotti|Products_c|testo (255)||
-   |Referral | Referral_Identfier_c|Testo (100) (ID esterno)|sì|
-   |Collegamento di riferimento| Referral_Link_c_|URL (255)||
-   |Sincronizza con il centro per i partner|sync_with_partner_center_c|CheckBox (impostazione predefinita deselezionata)||
-
-   * Valori elenco a discesa:
-
-   - Proposta di valore specifico del carico di lavoro
-   - Architettura tecnica del cliente
-   - Modello di prova o demo
-   - Virgolette o licenze
-   - Successo del cliente dopo vendite
-   - Generale o altro
-
-5. I campi vengono creati in **campi & relazioni**
-
-   :::image type="content" source="images/salesforce/fields2.png" alt-text="Campi creati":::
-
-6. Nel layout opportunity creare una sezione separata con i campi elencati sopra.
-
-   - Questa sezione dovrebbe essere disponibile per i venditori nel layout opportunità
-
-   :::image type="content" source="images/salesforce/pc-fields-layout.png" alt-text="Layout di campi del centro per i partner":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Sincronizzazione del riferimento bidirezionale end-to-end
 

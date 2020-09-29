@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.openlocfilehash: 83f5f3cea881780531d0b2f24e0422df76891382
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "91206323"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422317"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Informazioni su come trasferire sottoscrizioni di Azure di un cliente a un altro partner
 
@@ -37,23 +37,27 @@ Per passare i servizi o le sottoscrizioni di Azure di un cliente a un altro part
 1. Per trasferire una sottoscrizione di Azure a un nuovo partner, il cliente deve avviare il processo e contattare l'attuale partner del record per la scrittura.
 
    >[!Note]
-   >È responsabilità del partner attuale creare il ticket di servizio che avvia il processo di trasferimento. Microsoft non può intervenire per conto del cliente o del nuovo partner. Il cliente deve pianificare di collaborare con il partner corrente per rendere la transizione senza problemi.
+   > È responsabilità del partner attuale creare il ticket di servizio che avvia il processo di trasferimento. Microsoft non può intervenire per conto del cliente o del nuovo partner. Il cliente deve pianificare di collaborare con il partner corrente per rendere la transizione senza problemi.
 
 2. Il partner per la sottoscrizione deve eseguire le attività seguenti:
 
    Creare un ticket di servizio Azure dal Centro per i partner per richiedere un trasferimento della sottoscrizione:
 
-   - Dal menu centro per i partner selezionare **clienti**, selezionare il cliente dall'elenco e quindi selezionare **Gestione servizi**. Nella sezione **Ticket di supporto** seleziona l'elenco a discesa **Nuovo ticket** e scegli **Microsoft Azure**.
+   1. Dal menu centro per i partner selezionare **clienti**, selezionare il cliente dall'elenco e quindi selezionare **Gestione servizi**. 
 
-   - Dal [portale di Azure](https://portal.azure.com)selezionare **nuova richiesta di supporto**.
+   2. Nella sezione **Ticket di supporto** seleziona l'elenco a discesa **Nuovo ticket** e scegli **Microsoft Azure**.
+   
+   3. Dal [portale di Azure](https://portal.azure.com)selezionare **nuova richiesta di supporto**.
+   
+   4. Nel passaggio 1 scegli **Gestione della sottoscrizione** come tipo di problema, specifica l'ID sottoscrizione che vuoi trasferire e scegli **Cloud Solution Provider** come piano di supporto.
+   
+   5. Nel passaggio 2 Selezionare **C-minimo Impact** e scegliere **altre domande generali** come tipo di problema.
+   
+   6. Scaricare il [modulo di trasferimento della sottoscrizione CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
 
-     Nel passaggio 1 scegli **Gestione della sottoscrizione** come tipo di problema, specifica l'ID sottoscrizione che vuoi trasferire e scegli **Cloud Solution Provider** come piano di supporto.
+3. Partner per la sottoscrizione: compilare il modulo di [trasferimento della sottoscrizione CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), firmarlo e inviarlo al cliente. 
 
-     Nel passaggio 2 Selezionare **C-minimo Impact** e scegliere **altre domande generali** come tipo di problema.
-
-     Scaricare il [modulo di trasferimento della sottoscrizione CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
-
-3. Partner per la sottoscrizione: compilare il modulo di [trasferimento della sottoscrizione CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), firmarlo e inviarlo al cliente. Per compilare il modulo, sono necessarie le informazioni seguenti:
+   Per compilare il modulo, sono necessarie le informazioni seguenti:
 
    - ID Microsoft e informazioni di contatto del partner corrente. Nel menu del Centro per i partner seleziona **Impostazioni account** &gt; **Profilo organizzazione** e usa i valori indicati per **ID Microsoft**, **Nome organizzazione** e **Indirizzo**.
 
@@ -106,6 +110,10 @@ Per passare i servizi o le sottoscrizioni di Azure di un cliente a un altro part
 ## <a name="next-steps"></a>Passaggi successivi
 
 - Scaricare il [modulo di trasferimento della sottoscrizione CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+
+- Informazioni sul [supporto](multipartner.md)per più partner.
+
 - [supporto](multipartner.md)per più partner.
 - [supporto](multichannel.md)per più canali.
 - [Trasferire le sottoscrizioni di Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
+

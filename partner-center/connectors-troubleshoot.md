@@ -1,5 +1,5 @@
 ---
-title: Risolvere i problemi relativi ai connettori di co-selling
+title: Risoluzione dei problemi relativi ai connettori di co-selling
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
@@ -8,14 +8,14 @@ description: Domande frequenti su come risolvere i problemi di co-selling.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: ad09d7c805ce5a1138d7546fd041ae1eda77b00c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91002972"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422337"
 ---
-# <a name="troubleshoot-co-sell-referrals-connectors"></a>Risolvere i problemi relativi ai connettori di co-selling
+# <a name="troubleshoot-co-sell-referrals-connectors"></a>Risoluzione dei problemi relativi ai connettori di co-selling
 
 **Si applica a:**
 
@@ -104,27 +104,28 @@ Si aggiungono connessioni al flusso mentre il flusso è in esecuzione e si aggiu
 
 5. Cosa è necessario fare se i flussi della soluzione di co-selling dei connettori per i riferimenti non vengono attivati (attivazione)?
 
-    R. In Power automatizzate, sarà necessario modificare i flussi nell'ordine seguente e aggiornarli per usare le rispettive connessioni:
+R. In Power automatizzate, sarà necessario modificare i flussi nell'ordine seguente e aggiornarli per usare le rispettive connessioni:
 
-    - Registrazione webhook del centro per i partner (anteprima Insider)
-    - Creare un riferimento di co-selling-Salesforce al centro per i partner (anteprima Insider)
-    - Partner Center Microsoft co-selling degli aggiornamenti di riferimento a Salesforce (insider Preview)
-    - Da partner Center a Salesforce (insider Preview)
-    - Da Salesforce al centro per i partner (anteprima di Insider)
-    - Opportunità di Salesforce per il centro per i partner (anteprima Insider)
-    - Salesforce Microsoft Solutions to partner Center (insider Preview)
+- Registrazione webhook del centro per i partner (anteprima Insider)
+- Creare un riferimento di co-selling-Salesforce al centro per i partner (anteprima Insider)
+- Partner Center Microsoft co-selling degli aggiornamenti di riferimento a Salesforce (insider Preview)
+- Da partner Center a Salesforce (insider Preview)
+- Da Salesforce al centro per i partner (anteprima di Insider)
+- Opportunità di Salesforce per il centro per i partner (anteprima Insider)
+- Salesforce Microsoft Solutions to partner Center (insider Preview)
 
-    B. Per ogni flusso, selezionare l'opzione **Esegui solo utenti** . Selezionare **Usa connessione** anziché **fornita dall'utente di sola esecuzione**.  
+ B. Per ogni flusso, selezionare l'opzione **Esegui solo utenti** . Selezionare **Usa connessione** anziché **fornita dall'utente di sola esecuzione**.  
 
 :::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Per attivare un flusso":::
 
+
 C. Attivare questi flussi indicati di seguito:
 
-- Partner Center Microsoft co-selling degli aggiornamenti di riferimento a Salesforce (insider Preview)
+ - Partner Center Microsoft co-selling degli aggiornamenti di riferimento a Salesforce (insider Preview)
 
 - Da Salesforce al centro per i partner (anteprima di Insider)
 
-
+    
 D. Attivare tutti i flussi rimanenti.
 
 E. Nella registrazione del webhook del centro per i partner Microsoft Flow selezionare **Esegui**. Fornire l' **URL http** dalla prima azione nel **centro per i partner al flusso di Salesforce** . Selezionare tutte e quattro le opzioni in **eventi da registrare** e selezionare **Sì** per Sovrascrivi.

@@ -1,49 +1,52 @@
 ---
-title: Come ottenere i pagamenti nel marketplace commerciale di Microsoft
-description: Informazioni su come ricevere i pagamenti per i proventi nel marketplace commerciale di Microsoft.
+title: Come ottenere i pagamenti nel marketplace commerciale
+description: Scopri come ricevere i pagamenti per i tuoi guadagni nel Marketplace commerciale di Azure Marketplace.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 06/09/2020
+ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: bcd1b6d2ea82a6302ccdad7619f9c1bdabb4aead
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91248899"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591077"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Come ottenere i pagamenti nel marketplace commerciale
 
-Di seguito sono riportate alcune informazioni importanti su come ricevere i pagamenti per i proventi da offerte, componenti aggiuntivi e annunci pubblicitari.
+Questo articolo contiene informazioni importanti su come ricevere pagamenti per le offerte, i componenti aggiuntivi e i guadagni pubblicitari. Vengono riepilogati i criteri di pagamento, i passaggi necessari prima di ricevere il pagamento e la panoramica delle istruzioni di pagamento.
 
-> [!IMPORTANT]
-> Per poter ricevere denaro dalla vendita di offerte nel marketplace commerciale, è necessario [configurare l'account proventi e compilare i moduli fiscali necessari](/azure/marketplace/marketplace-payout-account-setup).
+## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Contratti e criteri di pagamento per Marketplace commerciale
 
-## <a name="store-fee"></a>Commissioni per lo Store
+Per ricevere i pagamenti, è necessario rispettare i contratti e i criteri di pagamento.
 
-Quando si [registra un account sviluppatore](https://go.microsoft.com/fwlink/p/?LinkID=615100), si accetta il [Contratto per editori di Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560). Questo contratto regola il rapporto tra l'utente e Microsoft per quanto riguarda la vendita di offerte nel marketplace commerciale, incluse le commissioni per lo Store che vengono addebitate da Microsoft per ogni vendita effettuata.
+- [Microsoft Azure Marketplace contratto di pubblicazione](https://go.microsoft.com/fwlink/p/?LinkID=699560): prima di ricevere il pagamento, è necessario accettare il contratto di pubblicazione. Il presente contratto spiega la relazione tra l'utente e Microsoft, in quanto riguarda le offerte del venditore nel Marketplace commerciale, inclusa la tariffa del negozio addebitata da Microsoft per ogni vendita effettuata.
+- Il [criterio](payout-policy-details.md) di pagamento Mostra i criteri di pagamento pagamenti, inclusi i metodi di pagamento e la pianificazione dei pagamenti. Il criterio spiega anche il processo per i pagamenti non effettuati dai clienti.
+- I [Dettagli delle](tax-details-marketplace.md) imposte illustrano la considerazione fiscale per la selezione dei prezzi e la responsabilità fiscale nel [Contratto Microsoft Publisher](https://go.microsoft.com/fwlink/p/?LinkID=699560).
+- Le **tariffe di archiviazione** sono definite ufficialmente nel contratto di pubblicazione. La tariffa di archiviazione viene applicata a tutte le vendite di offerte raccolte dal Marketplace commerciale, inclusi i componenti aggiuntivi.
+- I **pagamenti** vengono effettuati su base mensile (purché sia stata soddisfatta la soglia di pagamento). Viene in genere inviato un pagamento dovuto a un determinato mese entro il 15 ° giorno del mese. I pagamenti in genere importano da 3 a 10 giorni lavorativi aggiuntivi per raggiungere l'account di pagamento. Per informazioni dettagliate, vedere [Soglie, metodi e intervalli di pagamento](payment-thresholds-methods-timeframes.md).
 
-Le commissioni sono definite ufficialmente nel [Contratto per editori di Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560). Consultare questo documento per qualsiasi domanda.
+## <a name="prerequisite-steps-before-getting-paid"></a>Passaggi prerequisiti prima di ricevere il pagamento
 
-Tali commissioni vengono applicate a tutte le vendite di offerte raccolte dal marketplace commerciale, inclusi i componenti aggiuntivi.
+Prima di ricevere il pagamento per la prima volta, è necessario configurare l'account di pagamento e completare i moduli di Bank and Tax necessari. Nei moduli Bank e Tax, si forniranno i metodi di pagamento preferiti e le forme fiscali per la ritenuta delle imposte. I moduli Bank e Tax sono necessari prima di poter pagare l'utente. Per informazioni dettagliate, vedere [configurare l'account di pagamento e i moduli fiscali](set-up-your-payout-account.md).
 
-## <a name="payout-reporting"></a>Segnalazioni sui proventi
+### <a name="payout-hold-status"></a>Stato di blocco dei pagamenti
 
-Nella sezione **Riepilogo proventi** del [Centro per i partner](https://partner.microsoft.com/dashboard) è possibile visualizzare i dettagli sulle informazioni di pagamento e scaricare i report. Per informazioni dettagliate sulle informazioni riportate di seguito e sul modo in cui categorizzare il denaro guadagnato, vedere la pagina relativa alla [dichiarazione dei pagamenti](payout-statement.md).
+Per impostazione predefinita, i pagamenti verranno corrisposti su base mensile, come descritto sopra. Tuttavia, è possibile mettere in attesa i pagamenti per un programma e Microsoft non rilascerà i pagamenti al proprio account. Se si sceglie di mettere in attesa i pagamenti, si continuerà a registrare eventuali guadagni nella pagina dei **pagamenti** . Tuttavia non verranno inviati pagamenti all'account fino a quando non si rimuoverà lo stato di blocco.
 
-## <a name="payout-time-frame"></a>Intervallo di tempo dei pagamenti
+Per bloccare i pagamenti, passare a **Impostazioni account**. In **Proventi e imposte**, nella sezione **Assegnazione di profili di pagamento e fiscali**, individuare il programma per il quale si vuole bloccare i pagamenti. Selezionare la casella di controllo **Mantieni il pagamento** per mantenere i pagamenti per il programma. È possibile modificare lo stato di mantenimento dei pagamenti in qualsiasi momento, ma la decisione influirà sul pagamento mensile successivo. Se ad esempio si vuole bloccare il pagamento di aprile, assicurarsi di impostare lo stato di blocco dei pagamenti su **Sì** entro la fine di marzo.
 
-I pagamenti vengono effettuati su base mensile, a condizione che sia stata raggiunta la soglia applicabile e che i pagamenti non siano stati bloccati come descritto di seguito. Solitamente i pagamenti relativi a un mese specifico vengono inviati entro il 15° giorno del mese in questione. Si noti che in genere sono necessari dai 3 ai 10 giorni lavorativi per visualizzare i pagamenti nell'account proventi. Per informazioni dettagliate, vedere [Soglie, metodi e intervalli di pagamento](payment-thresholds-methods-timeframes.md).
+Dopo aver impostato lo **stato di mantenimento**dei pagamenti **su on**, tutti i pagamenti per il programma saranno in attesa finché la casella di controllo non verrà deselezionata. Quando si esegue questa operazione, si verrà inclusi durante il successivo ciclo di pagamento mensile (purché sia stata soddisfatta la soglia di pagamento). Se i pagamenti sono in attesa, ma si vuole che venga generato un pagamento in giugno, deselezionare la casella di **controllo prima della** fine di maggio.
 
-## <a name="payout-hold-status"></a>Stato di blocco dei pagamenti
+>[!Note]
+> Lo stato di mantenimento dei pagamenti si applica a ogni programma individualmente (Microsoft Store, Advertising, Azure Marketplace e così via). Se si desidera mantenere i pagamenti per tutti i programmi, effettuare il pagamento in ogni programma individualmente.
 
-Per impostazione predefinita, i pagamenti verranno corrisposti su base mensile, come descritto sopra. Tuttavia, è possibile bloccare i pagamenti per un programma, evitando così che vengano inviati all'account. Se si sceglie di bloccare i pagamenti, i ricavi guadagnati continueranno a essere registrati e i dettagli saranno disponibili nel **Riepilogo proventi**. Non verranno tuttavia inviati pagamenti all'account fino a quando non sarà rimosso il blocco.
+## <a name="payout-statements"></a>Estratti conto
 
-Per bloccare i pagamenti, passare a **Impostazioni sviluppatore**. In **Proventi e imposte**, nella sezione **Assegnazione di profili di pagamento e fiscali**, individuare il programma per il quale si vuole bloccare i pagamenti. Fare clic sulla casella di controllo **Mantieni il mio pagamento** per bloccare i pagamenti per questo programma. È possibile modificare lo stato di blocco dei pagamenti in qualsiasi momento, ma tenere presente che la decisione avrà effetto sul pagamento mensile successivo. Se ad esempio si vuole bloccare il pagamento di aprile, assicurarsi di impostare lo stato di blocco dei pagamenti su **Sì** entro la fine di marzo.
+L'istruzione di pagamento Mostra i guadagni delle vendite delle offerte e dei componenti aggiuntivi nella cronologia delle transazioni. È anche possibile visualizzare i dettagli di pagamento e scaricare i report in formato TSV o CSV. Per ulteriori informazioni su come accedere al rendiconto dei pagamenti e sui dettagli relativi alla cronologia delle transazioni e ai report sui pagamenti, vedere la pagina relativa alle [istruzioni](payout-statement.md) per i pagamenti. Inoltre, è possibile utilizzare l' [API](https://apidocs.microsoft.com/services/partnerpayouts) per i pagamenti dei partner per effettuare sistematicamente il pull dei report sui pagamenti.
 
-Dopo aver impostato lo stato di blocco dei pagamenti su **Sì**, tutti i pagamenti per questo programma verranno bloccati finché il dispositivo di scorrimento non verrà nuovamente impostato su **No**. Così facendo, si viene inclusi nel successivo ciclo di pagamento mensile, a condizione che vengano raggiunte le soglie di pagamento applicabili. Se ad esempio i pagamenti sono stati bloccati ma si vuole che venga generato un pagamento a giugno, impostare lo stato di blocco dei pagamenti su **No** entro la fine di maggio.
+## <a name="next-steps"></a>Passaggi successivi
 
-> [!NOTE]
-> L'opzione **Stato di blocco pagamenti** si applica singolarmente a ogni programma (Microsoft Store, annunci pubblicitari, Azure Marketplace e così via). Se si vuole bloccare i pagamenti per tutti i programmi, è necessario eseguire l'operazione per ogni programma singolarmente.
-
+- [API per i pagamenti partner](https://apidocs.microsoft.com/services/partnerpayouts)
+- [Domande frequenti sui proventi del marketplace](payout-faq.md)

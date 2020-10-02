@@ -71,9 +71,7 @@
             - name: Requisiti di idoneità
               href: software-assurance-dps-requirements.md
     - name: Fatture e imposte
-      items:
-        - name: Fatture e imposte in MPN
-          href: mpn-view-print-maps-invoice.md
+      href: mpn-view-print-maps-invoice.md
     - name: Valuta le nuove funzionalità
       href: test-drive-new-features.md
 - name: Cloud Solution Provider (CSP)
@@ -305,20 +303,8 @@
           href: mobile-operator-billing.md
         - name: Scenari per sottoscrizioni SaaS basate su licenza
           href: common-billing-scenarios-saas.md
-    - name: Scenari di fatturazione e proventi del Marketplace
-      items:
-        - name: Fatturazione per le offerte del marketplace
-          href: csp-commercial-marketplace-billing.md
-        - name: Ottenere i pagamenti del marketplace
-          href: marketplace-get-paid.md
-        - name: Dettagli dei criteri dei proventi
-          href: payout-policy-details.md
-        - name: 'Soglie, metodi e intervalli di pagamento'
-          href: payment-thresholds-methods-timeframes.md
-        - name: Estratti conto
-          href: payout-statement.md
-        - name: Domande frequenti sui proventi del marketplace
-          href: payout-faq.md
+    - name: Fatturazione per le offerte del marketplace
+      href: csp-commercial-marketplace-billing.md
     - name: Visualizzare le firme digitali - Centro per i partner India
       href: digital-signature.md
     - name: Imposte ed esenzioni fiscali
@@ -342,10 +328,24 @@
           href: request-credit.md
     - name: Impostare un budget di spesa di Azure per i clienti
       href: set-an-azure-spending-budget-for-your-customers.md
+- name: Pagamento
+  items:
     - name: 'Gestire insoluti, frodi o uso improprio'
       href: non-payment-fraud-misuse.md
     - name: Gestire pagamenti non allocati
       href: unallocated-payment.md
+    - name: Proventi del marketplace commerciale
+      items:
+        - name: Ottenere i pagamenti del marketplace
+          href: marketplace-get-paid.md
+        - name: Dettagli dei criteri dei proventi
+          href: payout-policy-details.md
+        - name: 'Soglie, metodi e intervalli di pagamento'
+          href: payment-thresholds-methods-timeframes.md
+        - name: Estratti conto
+          href: payout-statement.md
+        - name: Domande frequenti su Proventi
+          href: payout-faq.md
 - name: Entra in contatto con i clienti
   href: customer-accounts.md
   items:

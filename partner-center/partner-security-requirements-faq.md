@@ -9,22 +9,26 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5695a5478f1fdb9d16c395bb3ea87240fc2cf6f3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999805"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406364"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Domande frequenti sui requisiti di sicurezza per i partner
+
+**Si applica a**
+
+- Centro per i partner
 
 **Utenti appropriati**
 
 - Tutti gli utenti abilitati, inclusi gli utenti guest
 
-Questo articolo contiene alcune domande frequenti sui [requisiti di sicurezza per i partner](partner-security-requirements.md).
+## <a name="partner-security-requirements"></a>Requisiti di sicurezza dei partner
 
-## <a name="partner-security-requirements"></a>Requisiti di sicurezza per i partner
+Questo articolo contiene alcune domande frequenti sui [requisiti di sicurezza per i partner](partner-security-requirements.md).
 
 ### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>Quali sono i requisiti di sicurezza dei partner e perché devono essere implementati dai partner?
 
@@ -32,7 +36,7 @@ Tra le nostre priorità principali vi è una maggiore e costante tutela della si
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Quali sono le tempistiche e le attività cardine?
 
-Le condizioni associate ai requisiti di sicurezza sono incluse nel Contratto Microsoft Partner del 2019. Questi requisiti di sicurezza dovranno essere implementati prima possibile per la conformità alla partecipazione al programma CSP.
+Le condizioni associate ai requisiti di sicurezza, tra cui le sequenze temporali e le attività cardine, sono incluse nel [Contratto Microsoft Partner](microsoft-partner-agreement.md) del 2019. Questi requisiti di sicurezza dovranno essere implementati prima possibile per la conformità alla partecipazione al programma CSP.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Cosa accade se non vengono implementati questi requisiti di sicurezza dei partner?
 
@@ -50,9 +54,9 @@ No, non è possibile escludere alcun account utente dal requisito di imposizione
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Come faccio a sapere se soddisfo i requisiti di sicurezza per i partner?
 
-Devi verificare i punti seguenti:
+Completare i passaggi seguenti:
 
-- Devi soddisfare tutti i requisiti indicati nei [requisiti di sicurezza dei partner](partner-security-requirements.md).
+- È necessario soddisfare tutti i requisiti indicati nei [requisiti di sicurezza dei partner](partner-security-requirements.md).
 - Devi assicurarti che per tutti gli account utente del tuo tenant partner sia applicata l'autenticazione a più fattori.
 
 Per identificare le principali aree in cui puoi eseguire azioni, tramite il Centro per i partner forniamo il report sullo [stato dei requisiti di sicurezza](https://partner.microsoft.com/commerce/security/compliance).
@@ -99,7 +103,7 @@ MFA è un meccanismo di sicurezza che consente agli utenti di eseguire l'autenti
 
 - Un elemento noto, in genere una password
 - Un oggetto fisico (un dispositivo attendibile non facilmente duplicabile, come un telefono)
-- Una caratteristica personale (biometria)
+- Una caratteristica fisica dell'utente (biometrica)
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>Quanto costa abilitare l'autenticazione MFA?
 
@@ -110,11 +114,11 @@ Microsoft offre l'autenticazione MFA senza costi aggiuntivi tramite l'implementa
 Attraverso questi requisiti di sicurezza, agli utenti inclusi nel tenant di un partner sarà richiesto di eseguire l'autenticazione MFA quando accedono ai servizi cloud commerciali Microsoft. Per soddisfare questi requisiti, puoi usare una soluzione di terze parti. Microsoft non fornisce più test di convalida ai provider di identità indipendenti per la compatibilità con Azure Active Directory. Per testare l'interoperabilità del prodotto, consulta queste [linee guida](https://www.microsoft.com/download/details.aspx?id=56843).
 
 > [!IMPORTANT]
-> Se usi una soluzione di terze parti, è importante verificare che la soluzione rilasci l'attestazione AMR (Authentication Method Reference) contenente il valore MFA. Per informazioni dettagliate su come verificare che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza dei partner](/powershell/partnercenter/test-partner-security-requirements).
+> Se si usa una soluzione di terze parti, è importante verificare che la soluzione rilasci l'attestazione con il riferimento al metodo di autenticazione (Authentication Method Reference, AMR) contenente il valore MFA. Per informazioni dettagliate su come verificare che la soluzione di terze parti rilasci l'attestazione prevista, vedi [Test dei requisiti di sicurezza dei partner](/powershell/partnercenter/test-partner-security-requirements).
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>Se vengono usati più tenant di partner per eseguire la transazione, e necessario implementare l'autenticazione MFA su tutti i tenant?
 
-Sì, devi applicare l'autenticazione MFA per ogni tenant di Azure Active Directory associato al programma CSP o al programma Advisor. Per acquistare una licenza Premium di Azure Active Directory, è necessario acquistare una licenza per l'utente in ogni tenant di Azure Active Directory.
+Sì, devi applicare l'autenticazione MFA per ogni tenant di Azure Active Directory associato al programma CSP o al programma Advisor. Per acquistare una licenza di Azure Active Directory Premium, è necessario acquistare una licenza di Azure Active Directory per gli utenti in ogni tenant di Azure Active Directory. 
 
 ### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>È necessario che l'autenticazione MFA venga imposta a ogni account utente incluso nel tenant del partner?
 
@@ -225,7 +229,7 @@ Si consiglia di usare un account di servizio a cui sono assegnate autorizzazioni
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>Perché l'amministratore dell'applicazione non deve fornire credenziali di amministratore globale durante l'esecuzione del processo di consenso?
 
-Per ridurre i rischi, è consigliabile usare identità con privilegi minimi e non un account con privilegi di amministratore globale, perché in questo modo verrebbero fornite autorizzazioni superiori al necessario.
+È buona norma usare un'identità con privilegi minimi  in modo da ridurre i rischi. e non un account con privilegi di amministratore globale, perché in questo modo verrebbero fornite autorizzazioni superiori al necessario.
 
 ### <a name="i-am-a-csp-partner-how-do-i-know-if-my-control-panel-vendor-cpv-is-working-on-implementing-the-solution-or-not"></a>Com'è possibile per i partner CSP sapere se i rispettivi fornitori di pannelli di controllo (CPV) stanno lavorando all'implementare della soluzione?
 
@@ -296,7 +300,7 @@ Se non sei certo che la soluzione di terze parti rilasci l'attestazione prevista
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA mi impedisce di supportare i miei clienti usando Amministra per conto terzi. Come posso procedere?
 
-L'applicazione tecnica dei requisiti di sicurezza per i partner verificherà se l'account autenticato è stato testato per l'autenticazione a più fattori. Se l'account non è stato sottoposto a questa verifica, verrai reindirizzato alla pagina di accesso e ti verrà chiesto di eseguire di nuovo l'autenticazione. Per consultare esperienze e indicazioni più dettagliate, vedi il documento [Imposizione dell'autenticazione a più fattori per il tenant del partner](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). Nello scenario in cui il tuo dominio non è federato, dopo l'autenticazione ti verrà chiesto di configurare l'autenticazione a più fattori. Al termine, sarà possibile gestire i clienti usando la funzionalità di amministrazione per conto terzi (AOBO). Nello scenario in cui invece il tuo dominio è federato, dovrai assicurarti che l'account venga testato per l'autenticazione a più fattori.
+L'applicazione tecnica dei requisiti di sicurezza per i partner verificherà se l'account autenticato è stato testato per l'autenticazione a più fattori. Se l'account non è stato sottoposto a questa verifica, si verrà reindirizzati alla pagina di accesso e verrà chiesto di eseguire di nuovo l'autenticazione. Per altre esperienze e indicazioni dettagliate, vedere il documento [Imposizione dell'autenticazione a più fattori per il tenant del partner](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). Nello scenario in cui il tuo dominio non è federato, dopo l'autenticazione ti verrà chiesto di configurare l'autenticazione a più fattori. Al termine, sarà possibile gestire i clienti usando la funzionalità di amministrazione per conto terzi (AOBO). Nello scenario in cui invece il tuo dominio è federato, dovrai assicurarti che l'account venga testato per l'autenticazione a più fattori.
 
 ## <a name="security-defaults-transition"></a>Transizione alle impostazioni predefinite per la sicurezza
 
@@ -341,9 +345,11 @@ Per le risorse di supporto a cui è possibile ricorrere per soddisfare i requisi
 
 Le opzioni di supporto tecnico di prodotto per Azure Active Directory sono disponibili tramite i vantaggi MPN. I partner con accesso a una sottoscrizione ASfP o PSfP attiva possono collaborare con il rispettivo Account Manager (SAM/TAM) per comprendere meglio le opzioni disponibili.
 
-### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>Come è possibile contattare il supporto se si perde l'accesso al Centro per i partner?
+### <a name="how-do-i-contact-support-if-ive-lost-access-to-partner-center"></a>Come è possibile contattare il supporto se si perde l'accesso al Centro per i partner?
 
-Passa a [Supporto Microsoft Partner](https://partner.microsoft.com/support) e quindi scegli **Show all support options** (Mostra tutte le opzioni di supporto). Verranno visualizzate le opzioni disponibili per contattare il Supporto Microsoft Partner, incluso un numero di telefono per chiedere assistenza, e un'opzione per avviare una chat con il supporto.
+Se si perde l'accesso a causa di un problema dell'autenticazione MFA, contattare l'amministratore globale del tenant. Il reparto IT interno sarà in grado di indicare l'amministratore globale. 
+
+Se si è dimenticata la password, per ottenere assistenza leggere [Impossibile eseguire l'accesso](unable-to-sign-in.md).
 
 ### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>Dove è possibile trovare altre informazioni sui problemi tecnici più comuni?
 

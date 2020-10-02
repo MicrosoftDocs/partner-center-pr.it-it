@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: bbd614642544bfa9c389e596f06c805b8649f4ab
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422327"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591091"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,8 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di settembre 2020** | **Annunciato** |
 |---------|:---------|:---------|
+|Funzionalità|[Avviso relativo all'evasione di codici di licenza e download di software nel Centro per i partner](2020-september.md#17)|30 settembre|
+|Funzionalità|[Evoluzione del programma Cloud Solution Provider (CSP) e novità relative al programma Open License: verso una migliore esperienza per partner e clienti](2020-september.md#16)|30 settembre|
 |Funzionalità|[Disponibilità di un nuovo strumento per il trasferimento di sottoscrizioni tra partner per il piano di Azure](2020-september.md#15)|28 settembre|
 |Funzionalità|[Aggiornamento di prova: aggiornamenti delle API e miglioramenti dell'interfaccia utente del Centro per i partner per il processo di convalida dei clienti del settore della formazione](2020-september.md#14)|28 settembre|
 |Funzionalità|[Aggiornamento - API di utilizzo di O365 per CSP e report di utilizzo per licenze CSP ](2020-september.md#13)|29 settembre|

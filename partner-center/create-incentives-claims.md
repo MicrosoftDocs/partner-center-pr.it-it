@@ -1,7 +1,7 @@
 ---
 title: Gestisci attestazioni co-op degli incentivi
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Informazioni su come avviare attestazioni co-op per gli incentivi dal centro per i partner. È possibile visualizzare tutte le attività che passano alla compilazione dell'attestazione nella cronologia.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 406aba55b53919d3f189a67ef49b5c41991fef7d
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1af4620d040931ebbc263339fbfe37c1f26d0123
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714135"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663792"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Creare e gestire una richiesta di co-op per gli incentivi
 
@@ -32,13 +32,15 @@ ms.locfileid: "90714135"
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
 
-2. Selezionare la scheda **incentivi** , quindi selezionare **Claims (attestazioni**).
+2. Selezionare la scheda **incentivi** , quindi scegliere **gestione piani**.
 
-3. Se si dispone già di un'attestazione in corso, nella pagina Panoramica delle attestazioni vengono visualizzate le informazioni sullo stato delle attestazioni esistenti e dei fondi approvati, richiesti e totali.
+3. Selezionare **Gestione co-op**.
 
-4. Per creare una nuova attestazione, selezionare **Crea un'attestazione**.
+4. Se si dispone già di un'attestazione in corso, nella pagina Panoramica delle attestazioni vengono visualizzate le informazioni sullo stato delle attestazioni esistenti e dei fondi approvati, richiesti e totali.
 
-5. Una volta compilato il modulo iniziale e selezionato **Crea attestazione**, si passerà alla pagina dei dettagli dell'attestazione in cui sarà possibile aggiungere fatture, CSR, documenti di prova e metriche. Se necessario, è anche possibile aggiungere altre informazioni.
+5. Per creare una nuova attestazione, selezionare **Crea un'attestazione**.
+
+6. Una volta compilato il modulo iniziale e selezionato **Crea attestazione**, si passerà alla pagina dei dettagli dell'attestazione in cui sarà possibile aggiungere fatture, CSR, documenti di prova e metriche. Se necessario, è anche possibile aggiungere altre informazioni.
 
 La pagina dei dettagli delle attestazioni consente di richiedere ad altri utenti dell'organizzazione di caricare la documentazione nel modulo. Per ognuno dei documenti di supporto caricati, è possibile inserire dettagli esplicativi. 
 
@@ -48,7 +50,7 @@ La pagina dei dettagli delle attestazioni consente di richiedere ad altri utenti
 
 Non è possibile modificare l'attestazione dopo averla inviata, a meno che un revisore non richieda informazioni aggiuntive.
 
-Per altre informazioni, vedere la [Guida alla co-op degli incentivi](https://assets.microsoft.com/coop-guidebook.pdf) per i partner
+Per ulteriori informazioni, vedere la [Guida alla co-op per gli incentivi partner](https://assetsprod.microsoft.com/co-op-guidebook.pdf).
 
 ## <a name="next-steps"></a>Passaggi successivi
 

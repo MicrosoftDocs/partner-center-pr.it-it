@@ -5,13 +5,13 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 09/24/2020
-ms.openlocfilehash: 9178cd8f3f516ca6ffacd481fb2721787dc581e2
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.date: 09/30/2020
+ms.openlocfilehash: 487ad0b2ba42959748944721ebfcfc42fd4e506f
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91248909"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663912"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Comprendere i moduli fiscali IRS emessi da Microsoft
 
@@ -63,14 +63,15 @@ I moduli fiscali verranno inviati all'utente dagli indirizzi seguenti:
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Per gli sviluppatori al di fuori degli Stati Uniti
 
+
 | | |
 |---|---|
 | **Ho ricevuto un modulo 1042-S da Microsoft. A cosa serve?** | Microsoft ti ha inviato uno o più moduli 1042-S perché ti abbiamo corrisposto dei ricavi considerati dichiarabili dalle autorità fiscali degli Stati Uniti e sono stati soggetti a una trattenuta fiscale.  Il modulo 1042-S viene utilizzato per questo requisito di dichiarazione. | 
 | **Che cosa devo fare con i moduli?** | Generalmente, da parte tua non è richiesta alcuna azione specifica. Il modulo 1042-S può essere utile se desideri fare richiesta alle tue autorità fiscali locali per una qualsiasi forma di credito d'imposta.  Per ulteriori informazioni su questo argomento, consultare gli Advisor fiscali personali. | 
-| **Perché sui miei pagamenti sono state applicate trattenute fiscali se ho completato un modulo W8?** | Saranno applicate trattenute fiscali se:<ol><li>Non hai completato correttamente la sezione sui trattati fiscali del W8, oppure</li><li>Sei residente in un Paese che non ha un trattato fiscale con gli Stati Uniti.</li></ol><br/>È possibile visitare il centro per i partner in qualsiasi momento per inviare un modulo W8 aggiornato.<br/><br/> **Nota:** Non tutti i redditi sono soggetti a ritenute fiscali. | 
+| **Perché sui miei pagamenti sono state applicate trattenute fiscali se ho completato un modulo W8?** | Saranno applicate trattenute fiscali se:<br/><br/>1. non è stata completata correttamente la sezione relativa al trattato fiscale del W8 o <br/>2. si è residenti in un paese che non dispone di un contratto d'imposta con la Stati Uniti.<br/><br/>È possibile visitare il centro per i partner in qualsiasi momento per inviare un modulo W8 aggiornato.<br/><br/> **Nota:** Non tutti i redditi sono soggetti a ritenute fiscali. | 
 | **Ho inviato un modulo W8 aggiornato con informazioni valide sul trattato. Microsoft può rimborsare la tassa che è stata trattenuta?** | Le trattenute fiscali, una volta prelevate, non possono essere rimborsate. Rivolgersi ai consulenti fiscali per discutere se è possibile richiedere un credito locale per tali imposte o se è possibile richiedere un rimborso dall'IRS. | 
 | **Quali vendite sono riportate sul modulo 1042-S?** | Sono dichiarabili solo le vendite effettuate **ad acquirenti situati negli Stati Uniti classificati come soggetti a trattenuta fiscale**.  Tutte le altre vendite non sono considerate dichiarabili. | 
-| **Perché sono state riportate tre copie dello stesso formato 1042-S in una busta?** | Le normative IRS richiedono l'invio di tre copie del modulo:<ul><li>Una per il destinatario</li><li>Una per la presentazione della domanda di dichiarazione dei redditi federale degli Stati Uniti (se applicabile)</li><li>Una per la presentazione della domanda di dichiarazione dei redditi statale degli Stati Uniti (se applicabile)</li></ul> |
+| **Perché sono state riportate tre copie dello stesso formato 1042-S in una busta?** | Le normative IRS richiedono l'invio di tre copie del modulo:<br/><br/>-Uno per i record del destinatario<br/>-Uno per la presentazione con una Stati Uniti il ritorno fiscale federale (se applicabile)<br/>-Uno per la presentazione con una dichiarazione di imposte di stato Stati Uniti (se applicabile) |
 
 > [!NOTE]
 > Per domande o problemi aggiuntivi relativi ai **moduli fiscali IRS**, vedere [Guida e supporto tecnico](https://partner.microsoft.com/dashboard/support/) nel dashboard del centro per i partner. Microsoft non è in grado di rispondere a domande relative a circostanze fiscali specifiche; per tali domande, rivolgiti al tuo consulente fiscale.

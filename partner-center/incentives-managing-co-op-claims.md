@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 129c89a443b3de828ea8c22b4de82597aa8af831
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.date: 10/02/2020
+ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714425"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663872"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Gestisci attestazioni co-op degli incentivi
 
@@ -65,11 +65,13 @@ Se il materiale fornito con l'attestazione di co-op viene ritenuto insufficiente
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
 
-2. In **Incentivi**, selezionare **Attestazioni co-op**.
+2. In **incentivi**selezionare **gestione piani**.
 
-3. Selezionare l'attestazione co-op che si vuole contestare. Si apre la pagina di attestazione co-op.
+3. Selezionare **Gestione co-op**.
 
-4. Nella parte inferiore della pagina selezionare **Contesta**.
+4. Selezionare l'attestazione co-op che si vuole contestare. Si apre la pagina di attestazione co-op.
+
+5. Nella parte inferiore della pagina selezionare **Contesta**.
 
 Il team di convalida delle attestazioni co-op esaminerà l’attestazione entro cinque giorni lavorativi. Durante questo periodo, lo stato verrà visualizzato come **Contestata**. L’utente potrebbe essere contattato per richiedere altre informazioni. Al termine della revisione, il team di convalida aggiornerà lo stato in **Approvata**, **Rifiutata** o **Richiesta azione del partner**.
 

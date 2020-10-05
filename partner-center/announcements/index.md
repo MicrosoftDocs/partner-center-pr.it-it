@@ -9,19 +9,23 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: bbd614642544bfa9c389e596f06c805b8649f4ab
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: 8af2a7127dd146a931ce127435413297559952b4
+ms.sourcegitcommit: 70eb4508cb0c799506e463c47cee5d98ef2f1fe7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591091"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "91625144"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
 Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste informazioni vengono aggiornate di frequente, pertanto è importante consultarle di frequente.
 
-| **Categoria** | **Annunci di settembre 2020** | **Annunciato** |
+| **Categoria** | **Annunci di ottobre 2020** | **Annunciato** |
 |---------|:---------|:---------|
+|Offerte/mercati|[Gli aggiornamenti della sicurezza estesi per Windows 7 (anno 2) sono ora disponibili per i partner Cloud Solution Provider (CSP)](2020-october.md#3)|1 ottobre 2019|
+|Offerte/mercati|[Il piano per chiamate di Office 365 è ora disponibile in nuovi mercati](2020-october.md#2)|1 ottobre 2019|
+|Funzionalità|[Annuncio del programma di incentivi Cloud Solution Provider (CSP) per l'anno fiscale 2021 (FY21)](2020-october.md#1)|1 ottobre 2019|
+| **Categoria** | **Annunci di settembre 2020** | **Data** |
 |Funzionalità|[Avviso relativo all'evasione di codici di licenza e download di software nel Centro per i partner](2020-september.md#17)|30 settembre|
 |Funzionalità|[Evoluzione del programma Cloud Solution Provider (CSP) e novità relative al programma Open License: verso una migliore esperienza per partner e clienti](2020-september.md#16)|30 settembre|
 |Funzionalità|[Disponibilità di un nuovo strumento per il trasferimento di sottoscrizioni tra partner per il piano di Azure](2020-september.md#15)|28 settembre|

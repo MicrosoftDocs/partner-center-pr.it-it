@@ -9,13 +9,13 @@ author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.date: 06/30/2020
-ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 10/05/2020
+ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999915"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763355"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Iscriversi al programma Cloud Solution Provider per Microsoft Cloud per il governo degli Stati Uniti
 
@@ -65,7 +65,7 @@ Per creare un account del centro per i partner e registrarsi in CSP per Microsof
 
 1. Accedere al centro per i partner per Microsoft Cloud per il governo degli Stati Uniti usando il collegamento fornito nel messaggio di posta elettronica di approvazione dell'applicazione.
 
-2. Nella pagina del **contratto** leggere le condizioni e, se si accettano le condizioni, selezionare **Accetto e continuare** con la firma digitale del [contratto rivenditore per Microsoft Cloud per il governo degli Stati Uniti](https://go.microsoft.com/fwlink/p/?linkid=843364). La creazione dell'account potrebbe richiedere diverse ore. Disconnettersi dal centro per i partner per Microsoft Cloud per il governo degli Stati Uniti e quindi eseguire nuovamente l'accesso in un secondo momento.
+2. Nella pagina del **contratto** leggere le condizioni e, se si accettano le condizioni, selezionare **Accetto e continuare** con la firma digitale del contratto rivenditore per Microsoft Cloud per il governo degli Stati Uniti. La creazione dell'account potrebbe richiedere diverse ore. È possibile disconnettersi dal centro per i partner per Microsoft Cloud per il governo degli Stati Uniti e quindi eseguire nuovamente l'accesso in un secondo momento.
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Passaggio 4: assegnare gli utenti al ruolo di agente di amministrazione nel portale di amministrazione di Microsoft Azure per Microsoft Cloud per il governo degli Stati Uniti
 

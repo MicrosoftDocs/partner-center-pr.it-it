@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2055658d57d077c22e46c36241e4aa46db36af5a
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 93b312341457038b1399dc77a343a6b323dd75bd
+ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663812"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91772242"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,10 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di ottobre 2020** | **Annunciato** |
 |---------|:---------|:---------|
+|Offerte/mercati|[Lancio dello SKU Premium di Microsoft Teams Rooms](2020-october.md#7)|5 ottobre|
+|Offerte/mercati|[Piani per chiamate Microsoft ora disponibili in nuovi mercati](2020-october.md#6)|2 ottobre|
+|Offerte/mercati|[Promozioni per le comunicazioni avanzate di Microsoft Teams presto disponibili](2020-october.md#5)|2 ottobre|
+|Offerte/mercati|[Nuovi prodotti e offerte presto disponibili per Dynamics 365](2020-october.md#4)|2 ottobre|
 |Offerte/mercati|[Gli aggiornamenti della sicurezza estesi per Windows 7 (anno 2) sono ora disponibili per i partner Cloud Solution Provider (CSP)](2020-october.md#3)|1 ottobre 2019|
 |Offerte/mercati|[I nuovi SKU mettono a disposizione dei clienti la potenza di Project Cortex e altre funzionalità](2020-october.md#2)|1 ottobre 2019|
 |Funzionalità|[Annuncio del programma di incentivi Cloud Solution Provider (CSP) per l'anno fiscale 2021 (FY21)](2020-october.md#1)|1 ottobre 2019|

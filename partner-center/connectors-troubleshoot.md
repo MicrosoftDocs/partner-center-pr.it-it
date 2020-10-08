@@ -8,12 +8,12 @@ description: Domande frequenti su come risolvere i problemi di co-selling.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 312ff9155ab4c2d84fb38bb6ccd093505e628832
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422337"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844655"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Risoluzione dei problemi relativi ai connettori di co-selling
 
@@ -42,11 +42,11 @@ Gli utenti che sono amministratori di sistema o personalizzatori di sistema poss
  
 Ai venditori partner deve essere assegnato il ruolo di amministratore dei riferimenti. Per ulteriori informazioni, fare riferimento a [Cenni preliminari sulle autorizzazioni) (Create-User-Accounts-and-set-permissions).
 
-4. Quali sono i campi che devono essere configurati per primi nell'ambiente CRM? 
+4. Quali campi devono essere impostati per primi nell'ambiente CRM? 
 
 • Assicurarsi che la valuta sia appropriata per la propria posizione e che si trovi in un ambiente CRM in modo accurato. • Il team di vendita deve essere elencato nell'ambiente CRM come utenti CRM.
 
-5.  Quali prerequisiti sono necessari per la creazione dell'ambiente di Power Automatic?
+5. Quali prerequisiti sono necessari per la creazione dell'ambiente di Power Automatic?
 
 Per usare l'ambiente Power automatizzate, è necessario quanto segue:
 
@@ -55,7 +55,7 @@ Per usare l'ambiente Power automatizzate, è necessario quanto segue:
 
 6.  È necessaria una sottoscrizione di Dynamics 365 per usare la soluzione connettori Salesforce?
 
-La soluzione del connettore Salesforce è di tipo "Dynamics Flow" che supporta la sincronizzazione con altri sistemi CRM. Per la soluzione non è necessario disporre di un'istanza di Dynamics 365 o di una sottoscrizione. Durante l'installazione della soluzione Salesforce, può essere visualizzato un elenco a discesa con l'ambiente CDS esistente nell'azienda. È necessario selezionare l'ambiente. Inoltre, se si riceve l'errore non è stata trovata un'organizzazione Dynamics 365 connessa all'utente connesso ", sarà necessario creare un nuovo ambiente per il connettore.
+La soluzione del connettore Salesforce è di tipo "Dynamics Flow" che supporta la sincronizzazione con altri sistemi CRM. Per la soluzione non è necessario disporre di un'istanza di Dynamics 365 o di una sottoscrizione. Durante l'installazione della soluzione Salesforce, può essere visualizzato un elenco a discesa con l'ambiente CDS esistente nell'azienda. È necessario selezionare l'ambiente. Inoltre, se si riceve l'errore "non è stato possibile trovare un'organizzazione Dynamics 365 connessa all'utente connesso", sarà necessario creare un nuovo ambiente per il connettore.
 
 ## <a name="questions-and-answers-about-configuration"></a>Domande e risposte sulla configurazione
 
@@ -69,18 +69,18 @@ Seguire questa procedura di risoluzione dei problemi:
 - Attivare e disattivare il flusso figlio 
 - Eliminare la soluzione e reinstallare la soluzione. 
 
-2.  Cosa si deve fare se si affronta l'errore seguente durante l'aggiunta di un connettore del centro per i partner nella piattaforma Power automatizzate?
+2.  Cosa si deve fare se si affronta l'errore di "accesso" durante l'aggiunta di un connettore del centro per i partner nella piattaforma Power automatizzate?
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="Messaggio di errore che richiede l'accesso":::
 
 Seguire questa procedura di risoluzione dei problemi:
 
-- Usare l'accesso al centro per i partner per accedere all'ambiente Microsoft Flow una volta (flow.microsoft.com).
+- Usare le credenziali del centro per i partner per accedere all'ambiente Microsoft Flow una volta (flow.microsoft.com).
 
 
 3. Cosa è necessario fare se viene visualizzato l'errore seguente quando si attiva il centro per i partner al flusso di CRM nella piattaforma Power automatizzate?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Messaggio di errore che richiede aggiornamenti":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Messaggio di errore che richiede l'accesso":::
 
 Seguire questa procedura di risoluzione dei problemi:
 
@@ -90,21 +90,21 @@ Seguire questa procedura di risoluzione dei problemi:
 
 4. Cosa fare quando non è possibile aggiungere connessioni al flusso quando si tenta di modificare il flusso?
 
-Si aggiungono connessioni al flusso mentre il flusso è in esecuzione e si aggiungono a ogni flusso separatamente.  Se la finestra di dialogo per l'aggiunta di connessioni non viene aperta automaticamente durante la modifica del flusso, è possibile modificare ognuno dei passaggi e dei sottopassaggi dei flussi per aggiungere le connessioni.
+Si aggiungono connessioni al flusso mentre il flusso è in esecuzione e si aggiungono a ogni flusso separatamente.  Se la finestra di dialogo per l'aggiunta di connessioni non viene aperta automaticamente durante la modifica del flusso, è possibile modificare singolarmente i passaggi e i passaggi secondari dei flussi.
 
 - Selezionare ogni flusso e modificarli singolarmente.
 - Espandi tutti i passaggi nel flusso 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Passaggi che richiedono connessioni":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Messaggio di errore che richiede l'accesso":::
 
 - Selezionare i passaggi in cui viene visualizzata un'icona di avviso che richiede di associare le connessioni e di aggiungere connessioni. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Modificare il flusso passo per passo":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Messaggio di errore che richiede l'accesso":::
 
 
-5. Cosa è necessario fare se i flussi della soluzione di co-selling dei connettori per i riferimenti non vengono attivati (attivazione)?
+5. Cosa si deve fare se i flussi della soluzione per la co-selling dei connettori per i riferimenti non vengono attivati?
 
-R. In Power automatizzate, sarà necessario modificare i flussi nell'ordine seguente e aggiornarli per usare le rispettive connessioni:
+R. In Power automatizzate, sarà necessario modificare i flussi nell'ordine seguente e aggiornarli in modo da usare le connessioni corrette:
 
 - Registrazione webhook del centro per i partner (anteprima Insider)
 - Creare un riferimento di co-selling-Salesforce al centro per i partner (anteprima Insider)
@@ -116,7 +116,7 @@ R. In Power automatizzate, sarà necessario modificare i flussi nell'ordine segu
 
  B. Per ogni flusso, selezionare l'opzione **Esegui solo utenti** . Selezionare **Usa connessione** anziché **fornita dall'utente di sola esecuzione**.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Per attivare un flusso":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Messaggio di errore che richiede l'accesso":::
 
 
 C. Attivare questi flussi indicati di seguito:
@@ -140,7 +140,7 @@ Per assicurarsi che i flussi vengano eseguiti come previsto e per risolvere gli 
  
 Per determinare lo stato della sincronizzazione dei riferimenti, selezionare **controllo**. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Come sincronizzare i riferimenti":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Messaggio di errore che richiede l'accesso":::
 
 Verificare che siano soddisfatte le condizioni seguenti:
 
@@ -150,59 +150,13 @@ Verificare che siano soddisfatte le condizioni seguenti:
 
 - Quando la Guida di Microsoft è selezionata per l'opportunità, le informazioni di contatto del cliente sono obbligatorie.
 
-3. In quali condizioni un riferimento non verrà sincronizzato in maniera bidirezionale
+3. Come verificare che il riferimento venga sincronizzato in modo bidirezionale?
 
-Verificare quanto segue:
+Eseguire i passaggi seguenti:
 
 - Per i venditori partner è necessario assicurarsi di aver abilitato l'opzione **Sync with partner Center** nella sezione CRM.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Assicurarsi di aver abilitato la sincronizzazione":::
-
-- I venditori devono fornire i ricavi e la data di chiusura quando qualificano un responsabile.
-
-- Se l'ID CRM viene fornito durante la creazione o l'aggiornamento dell'opportunità di co-selling e se non viene trovato un lead o un'opportunità con tale ID in CRM, l'aggiornamento o la creazione verranno ignorati per tale opportunità.
-
-- Verificare che il campo valuta referral sia configurato nell'ambiente Salesforce. 
-
-4. Cosa è necessario fare se il connettore viene disconnesso e non viene eseguita una sincronizzazione dei riferimenti. 
-
-Di seguito sono riportate alcune delle opzioni che è possibile provare:
-
-- Controllare se il nome utente o la password è scaduta per l'utente del centro per i partner con i ruoli di amministratore di riferimento.
-
-- È possibile passare all'opportunità non sincronizzata, effettuare un aggiornamento secondario e osservare se il riferimento è stato sincronizzato.
-
-- Se i flussi sono stati eseguiti e non riusciti, selezionare il flusso e inviare di nuovo l'esecuzione che ha avuto esito negativo.
-
-5. Cosa si deve fare quando si ricevono errori di accesso negato?
-
-Verificare che siano presenti i ruoli appropriati
-
-- Ruolo di amministratore di riferimento per il venditore del centro partner 
- 
-- Ruolo di amministratore di sistema o di sistema verbi nell'istanza di CRM
-
-- Assicurarsi che l'utente di Power automatizzare l'accesso https://flow.microsoft.com all'account di flusso almeno una volta in anticipo
-
-6. Se si nota che il **codice paese dell'account del cliente** non è presente durante la creazione di un'opportunità di co-selling, cosa si deve fare?
-
-È necessario aggiungere il codice di paese a due lettere ISO all'account del cliente in CRM.
-
-7. Cosa è necessario fare se viene visualizzato l'errore relativo all' **ID della soluzione necessaria** per la creazione di un'opportunità di co-selling?
-
-Per creare un riferimento di co-selling, è necessaria una soluzione di co-selling per Microsoft. 
-
-8. Cosa si deve fare quando vengono visualizzate opportunità di co-selling create in Partner Center che non vengono sincronizzate con CRM anche se non sono presenti errori di flusso:
-
-Eseguire le operazioni seguenti:
-
-- Dopo aver creato una nuova operazione di co-selling nel centro per i partner, verificare che venga richiamato il centro per i partner del flusso di Dynamics 365 (potrebbe essere richiamato più volte).
-
-- Se il flusso viene richiamato, controllare tutti i flussi richiamati e identificare l'esecuzione del flusso che aggiornerà il CRM. È possibile seguire le azioni e verificare se il CRM è stato aggiornato o se si è verificato un problema.
-
-- Controllare *New Deal** nel centro per i partner per verificare se viene popolato con l'ID CRM.
-
-- Assicurarsi che l'operazione non sia chiusa accidentalmente come "Won" o "Lost" nel centro per i partner.
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Messaggio di errore che richiede l'accesso" nel centro per i partner.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

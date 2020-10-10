@@ -1,7 +1,7 @@
 ---
 title: Iscriversi al programma Cloud Solution Provider
 ms.topic: how-to
-ms.date: 05/18/2020
+ms.date: 10/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come iscriverti al modello di vendita del programma Cloud Solution Provider (CSP) più adatto per la tua azienda, ad esempio per rivenditori indiretti o per partner con fatturazione diretta.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86fde264fe54b2ac6e72b1f630183c7dbdc7991b
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545822"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763332"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>Iscriversi al programma Cloud Solution Provider e creare un'azienda per soluzioni cloud redditizie
 
@@ -30,7 +30,7 @@ ms.locfileid: "87545822"
 
 La domanda in rapida crescita di soluzioni e servizi basati sul cloud offre ai partner Microsoft di tutte le dimensioni numerose opportunità per sviluppare attività redditizie basate sulle soluzioni cloud. I partner che sono pronti a entrare nel mercato, ma che non intendono gestire fornitori multipli o potrebbero non avere predisposto un'infrastruttura di gestione delle relazioni con i clienti (CRM, Customer Relationship Management) end-to-end, possono iscriversi al programma Cloud Solution Provider di Microsoft in qualità di rivenditori indiretti.
 
-Per iscriverti al programma Cloud Solution Provider hai innanzitutto bisogno di un ID MPN. Non ne hai già uno? Acquisiscilo [qui](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=).
+Per iscriverti al programma Cloud Solution Provider hai innanzitutto bisogno di un ID MPN. Non ne hai già uno? Acquisiscilo [qui](https://partner.microsoft.com/).
 
 Per compilare la domanda di partecipazione al programma CSP, ti serviranno l'ID MPN e l'indirizzo completo della tua azienda, le coordinate bancarie e l'indirizzo e-mail aziendale del dipendente che opererà come amministratore per il Centro per i partner.
 
@@ -96,4 +96,5 @@ Per informazioni sulla transizione da partner con fatturazione diretta a rivendi
 ## <a name="csp-regional-markets-and-currencies"></a>Valute e mercati locali per CSP
 
 La posizione dell'azienda determina il tuo mercato, ovvero le aree geografiche e/o i paesi in cui puoi vendere le offerte CSP. Per informazioni sulle posizioni di mercato e sulle valute, vedi [Mercati internazionali e valute del programma Cloud Solution Provider](regional-authorization-overview.md).
+Leggere attentamente [Aggiungere una nuova sede dell'ID MPN](manage-locations.md).
 

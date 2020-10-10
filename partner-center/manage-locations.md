@@ -1,42 +1,60 @@
 ---
 title: Gestire le posizioni nell'account partner
 ms.topic: article
-ms.date: 06/16/2020
+ms.date: 10/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Nel Centro per i partner scopri come aggiungere una nuova posizione e come viene usato l'ID MPN della posizione in programmi di incentivi, aziende CSP, abbonamenti e altre transazioni.
+ms.subservice: partnercenter-mpn
+description: Informazioni su come aggiungere una nuova sede e come usare l'ID MNP di sede in programmi di incentivi, transazioni aziendali CSP, sottoscrizioni e altre transazioni.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c9bc3ffc09b657ab6e3e7e2dcda576898c96803d
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436870"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663897"
 ---
-# <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Gestire le posizioni nell’account partner nel Centro per i partner e aggiungere una nuova posizione
+# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gestire le sedi dell'account MPN e aggiungere una nuova sede
+
+**Si applica a**
+
+- Centro per i partner
 
 **Ruoli appropriati**
-- Amministratore globale
-- Amministratore utenti
-- Amministratore fatturazione
-- Agente amministratore
-- Agente di vendita
 
-L'ID MPN di posizione identifica una specifica posizione nella società. L'ID MPN di posizione viene usato per l'iscrizione a programmi di incentivi, per la transazione di aziende CSP, per aggiungere nuove sottoscrizioni e altre transazioni aziendali. L'ID MPN della società viene usato per attività non transazionali, ad esempio le richieste di supporto.
+- Amministratore globale
+- Amministratore degli account
+
+L'ID MPN di sede identifica ogni specifica sede della società. L'ID MPN di sede viene usato per l'iscrizione a programmi di incentivi, per transazioni CSP e per altre transazioni aziendali. L'ID MPN globale viene usato per attività non transazionali, ad esempio richieste di supporto.
 
 ## <a name="the-following-is-a-typical-scenario"></a>Di seguito è riportato uno scenario tipico:
 
-Una società partner può disporre di un'azienda CSP e un'azienda di pubblicazione. L'azienda CSP può essere ubicata in vari luoghi e l'azienda di pubblicazione corrispondente può trovarsi in altri ancora. La società legale registrata dispone di un ID MPN usato per la gestione di tutte le attività non transazionali, ad esempio l'aggiunta di utenti o la registrazione di richieste di supporto.
+La sede dell'account globale partner di Contoso è nel Regno Unito. Si tratta della sede legale dell'azienda, mentre un ID MPN viene usato per la gestione di tutte le attività non transazionali. Contoso ha anche account di sede partner, corrispondenti a filiali o divisioni in un'altra località del Regno Unito, della Francia o degli Stati Uniti. Nella struttura degli account MPN gli account di sede partner sono rappresentati come ID MPN di sede univoci. Gli account di sede partner vengono usati per attività transazionali, ad esempio programmi di incentivi o CSP. I pagamenti sono collegati a posizioni specifiche. 
 
+>[!NOTE]
+>Tra un tenant CSP e un ID MPN di sede esiste una relazione 1 a 1.
 
-Ogni posizione ha un ID MPN usato per attività transazionali, ad esempio programmi di incentivi o CSP. I pagamenti sono collegati a posizioni specifiche.
+:::image type="content" source="images/accountsettings/accountstructure.png" alt-text="Struttura delle sedi MPN":::
 
-Gli utenti possono ricoprire ruoli relativi a più posizioni. Ad esempio, l'amministratore di incentivi può ricoprire questo ruolo per tutte le posizioni in Europa.
+## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>Prerequisiti per aggiungere una nuova sede per un'azienda CSP
 
-## <a name="to-add-a-location"></a>Per aggiungere una posizione
+Per aggiungere una nuova sede aziendale CSP, è necessario soddisfare alcuni prerequisiti:
+
+1. È necessario avere un ID MPN di sede nel paese in cui si vuole svolgere le attività aziendali.
+
+1. È necessario un nuovo tenant Azure AD nell'area di attività non ancora iscritta a CSP. Creare questo tenant quando si effettua l'iscrizione a CSP.
+ 
+3. Usare il nuovo tenant di AAD per l'iscrizione al programma CSP nell'area geografica.
+Fornire i dettagli legali dell'azienda, inclusi la ragione sociale, l'indirizzo e i dettagli del contatto principale. L'account verrà sottoposto a verifica, quindi assicurarsi di aggiungere informazioni valide.
+
+>[!NOTE] 
+ >Ricordarsi di eseguire l'accesso con le **nuove** credenziali per il **nuovo** tenant di Azure AD. Non usare le credenziali esistenti perché il Centro per i partner riconoscerà l'utente che ha già un account.
+
+4. Accettare il Contratto Microsoft Partner e attivare l'account.
+
+## <a name="add-a-location"></a>Aggiungere una sede
 
 1. Nell'icona **Impostazioni** seleziona **Impostazioni partner**.
 
@@ -49,16 +67,20 @@ Gli utenti possono ricoprire ruoli relativi a più posizioni. Ad esempio, l'ammi
 > [!NOTE]
 > dopo aver aggiunto una posizione nel Centro per i partner, non è possibile rimuoverla.
 
-## <a name="change-legal-headquarters-location"></a>Modificare la posizione della sede centrale legale
+## <a name="change-global-partner-account-location"></a>Modificare la sede dell'account partner globale
 
 1. Nella pagina **Posizione** controlla che nell'elenco delle posizioni sia presente quella desiderata come entità legale. In caso contrario, aggiungerla.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Screenshot della pagina delle posizioni dell'account del Centro per i partner con l'elenco di tutte le posizioni correnti.":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Struttura delle sedi MPN":::
 
 2. Seleziona **Profilo partner** e quindi **Update legal business profile (Aggiorna profilo aziendale legale)**
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Screenshot che mostra le informazioni relative al profilo del partner per l'account del Centro per i partner con l'opzione di aggiornamento selezionabile.":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Struttura delle sedi MPN":::
 
 3. Seleziona l'area e la persona giuridica e quindi **Invia**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Screenshot per l'aggiornamento del profilo aziendale legale del partner: mostra elenchi a discesa per l'aggiornamento del paese o dell'area geografica e della persona giuridica.":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Struttura delle sedi MPN":::
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- Vedere le informazioni sul [processo di verifica](verification-responses.md).

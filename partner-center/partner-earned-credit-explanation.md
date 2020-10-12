@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f320896ac48a0de740a0d7bb02664648505a6bbe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3ceb2ded6e52083ad0d74a411026558fbce2f642
+ms.sourcegitcommit: 883c332a10f51b41b72c2f3fe08bb9593b569d28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999865"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91852586"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Come viene calcolato e pagato il credito ottenuto dai partner
 
@@ -40,7 +40,7 @@ Leggi anche [Ripristinare i privilegi di amministratore per le sottoscrizioni di
 
 - Servizi idonei: il credito ottenuto dai partner è applicabile ai servizi elencati nei **prezzi per l'utilizzo del piano di Azure** che i partner possono esportare dalla pagina dei [prezzi del piano di Azure](https://partner.microsoft.com/commerce/sales). Il credito ottenuto dai partner non è applicabile ai prodotti di terze parti identificati come **Terze parti** nella **colonna Tag** del listino prezzi relativo ai consumi del piano di Azure, alle prenotazioni del piano di Azure, ai prodotti del listino prezzi di Marketplace e alle [macchine virtuali Spot di Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/).
 
-- Il credito ottenuto dai partner viene calcolato quotidianamente e può essere controllato nel file di utilizzo giornaliero e nel file di riconciliazione della fattura mensile. Un partner (provider indiretto o rivenditore indiretto) deve avere accesso per l'intero giorno (24 ore su 24, 7 giorni su 7) per ottenere il credito.  
+- Il credito ottenuto dai partner viene calcolato quotidianamente e può essere controllato nel file di utilizzo giornaliero e nel file di riconciliazione della fattura mensile. Un partner (provider indiretto o rivenditore indiretto) deve avere accesso per l'intero giorno (24 ore su 24, 7 giorni su 7) per ottenere il credito. Il credito ottenuto dai partner viene calcolato quotidianamente per gli asset di Azure gestiti. La percentuale massima di credito ottenuto dai partner per un determinato periodo di fatturazione (mese) è pari al 15%. I partner che conservano l'accesso con privilegi permanenti nel corso dell'intero mese (intervallo di accesso) e per tutte le risorse idonee (ambito di accesso) otterranno un credito completo del 15%. Una riduzione dell'ambito e dell'intervallo avrà come risultato una diminuzione della percentuale di credito per il mese. Il file di utilizzo quotidiano stimato mostra ogni giorno se per un asset di Azure è applicabile o meno il credito ottenuto dai partner. I partner possono inoltre registrarsi in modo da ricevere avvisi per rilevare eventuali modifiche all'accesso con privilegi permanenti.
 
 - Il credito viene ottenuto dai partner a livello delle risorse di Azure. Se il partner dispone di un accesso valido a livello di sottoscrizione o di gruppo di risorse, otterrà il credito ogni risorsa con ruolo autorizzato fino all'entità più alta.  
 

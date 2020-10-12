@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: bd1b9b3fabc9e06cc368e75ba8479e3a38a843d5
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0243b88cd60098dca971bd846eb7b0418b15c280
+ms.sourcegitcommit: a3e277ebc9e4016aa48477363f26bb78760560bd
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114825"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "91899229"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Contratti del cliente Microsoft per area geografica e lingua
 
@@ -127,11 +127,11 @@ Se non sei certo delle aree geografiche e dei mercati in cui puoi vendere, trova
     
     In Germania, il codice penale (sezione 203) e i codici di condotta professionale richiedono che alcune relazioni con i clienti vengano mantenute riservate, ad esempio la relazione tra pazienti e medici e la relazione tra clienti e avvocati. Questi gruppi professionali devono garantire la segretezza professionale. Perché queste e altre professioni possano acquistare servizi basati sul cloud da provider di soluzioni cloud, il provider di servizi cloud deve stipulare un contratto scritto con il cliente che garantisca la segretezza professionale.
 
-    Se lavori in Germania, può essere necessario fornire ai clienti questa modifica sul segreto professionale oltre al Contratto Microsoft Cloud.
+    Se lavori in Germania, può essere necessario fornire ai clienti questa modifica sul segreto professionale oltre al Contratto del cliente Microsoft.
 
-  - [Modifica sul segreto professionale al Contratto Microsoft Cloud per la Germania (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+  - [Modifica sul segreto professionale al Contratto Microsoft Cloud per la Germania (EN)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GKou)
 
-  - [Modifica sul segreto professionale al Contratto Microsoft Cloud per la Germania (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+  - [Modifica sul segreto professionale al Contratto Microsoft Cloud per la Germania (DE)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GI29)
 
 - Gibilterra: [Inglese](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Grecia: [inglese](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [greco](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)

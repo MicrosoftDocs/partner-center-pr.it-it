@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 631667f521825697a7b16b0db40cb5dd4610e636
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: 52f123f06da283036fa7758afd335768323594e4
+ms.sourcegitcommit: c47213f585b3cbc12ba0f7251fb44d1412815130
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848241"
+ms.lasthandoff: 10/12/2020
+ms.locfileid: "91952377"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gestisci opportunità di co-selling nel centro per i partner per definire le offerte e soddisfare meglio le esigenze dei clienti
 
@@ -37,6 +37,8 @@ Sfrutta le opportunità di co-selling.  Le opportunità di co-selling sono una c
 
 **Deal privato** : questo è il momento in cui un partner decide di lavorare in modo indipendente su un affare creato nel centro per i partner. I partner hanno la possibilità di invitare i venditori Microsoft dopo aver creato l'offerta per creare un'attività di vendita collaborativa. I dettagli dell'operazione non vengono condivisi con il team di vendita Microsoft fino al momento in cui il partner non è in modo esplicito richiesto dalla Guida alle vendite Microsoft.
 
+**Valutazione soluzione (SA)** : questi tipi di offerte possono essere creati solo da un set di partner controllati dal team aziendale di valutazione della soluzione per l'esecuzione di valutazioni tecnologiche per i clienti che usano o pianificano l'uso di tecnologie Microsoft.
+
 > [!NOTE]
 > Le offerte private, anche se non sono realmente collaborative, sono incluse in questo articolo per offrire un percorso semplice per l'aggiornamento di qualsiasi pipeline che si occupi di un'opportunità di co-selling in qualsiasi fase non terminale (**vinto, perso, rifiutato e scaduto**).
 
@@ -46,7 +48,7 @@ Nella sezione di co-selling sono disponibili tre schede di primo livello.
 
 In **ingresso** : tutte le opportunità inviate al partner da venditori Microsoft per la vendita collaborativa sono disponibili in questa scheda.
 
-In **uscita** : tutte le opportunità create dal partner sono disponibili in questa scheda. I partner possono creare tre diverse categorie di opportunità: co-selling, privato e partner per partner.
+In **uscita** : tutte le opportunità create dal partner sono disponibili in questa scheda. I partner possono creare tre diverse categorie di opportunità: co-selling, private e partner to partner.
 
 **Preferiti** : le opportunità contrassegnate come preferiti nelle schede per le opportunità di co-selling in ingresso o in uscita verranno visualizzate in questa scheda. Contrassegnare un'opportunità come preferita facendo clic sull'icona a forma di cuore nell'opportunità nella visualizzazione elenco. È possibile rimuovere l'opportunità dai Preferiti facendo semplicemente clic sulla stessa icona.
 
@@ -90,8 +92,12 @@ In questa sezione è necessario fornire le informazioni correlate alle soluzioni
 - **Soluzioni aziendali:** Si tratta di soluzioni pronte per la co-selling pubblicate dall'azienda
 - **Microsoft:** Si tratta di soluzioni di proprietà di Microsoft
 - **Altre soluzioni di terze parti:** Si tratta di soluzioni pronte per la co-selling pubblicate da altri partner nell'ecosistema di co-selling Microsoft
+- **Valutazioni della soluzione:** Questi sono i tipi di valutazione che possono essere selezionati da un partner idoneo in base alle esigenze del cliente
 
-Dopo aver fornito le informazioni sulla soluzione, fare clic su Avanti per passare alla sezione in cui è possibile decidere il tipo di vendita. Sono disponibili tre opzioni:
+> [!Important]
+> È possibile selezionare un solo tipo di valutazione per un'operazione di valutazione della soluzione e non è possibile aggiungere altre soluzioni. Una volta selezionata la valutazione della soluzione, il partner deve scegliere il percorso per la creazione della valutazione. Questa operazione è necessaria per i pagamenti corretti per gli incentivi.
+
+Dopo aver fornito le informazioni sulla soluzione, fare clic su Avanti per passare alla sezione in cui è possibile decidere il tipo di vendita. Se si scelgono soluzioni dalle prime tre opzioni e non da una valutazione della soluzione, sono disponibili tre opzioni:
 
 **Deal privato**: se non si invita Microsoft e si crea un impegno in questo passaggio, sarà di tipo pipeline privata. I venditori Microsoft non avranno visibilità sui dettagli di questa trattativa.
 
@@ -144,6 +150,11 @@ Una volta iniziato a lavorare sull'accordo, è possibile specificare i dettagli 
 
 :::image type="content" source="images/pscmigration/salesstage.png" alt-text="Immagine che mostra il ciclo di vita dell'accordo in cui è possibile contrassegnare la fase di vendita.":::
 
+> [!Note]
+> Le fasi di vendita variano se si tratta di una soluzione di valutazione della soluzione. Il contrassegno della fase di vendita è **obbligatorio** anche per le offerte di valutazione della soluzione. Il pulsante **vinto** verrà abilitato solo dopo che tutte le fasi di vendita sono contrassegnate come complete dal partner.
+
+Di seguito è riportata la tabella che mostra le fasi di vendita e le percentuali corrispondenti per le offerte diverse dalle valutazioni della soluzione in base a quanto determinato dal sistema di riferimento del centro per i partner Microsoft.
+
 |**Nome fase vendita**|**Percentuale fase vendita**|**Definizione della fase di vendita**|
 |:----|:-----|:-----|
 |Data di creazione|10%|Creazione di un affare in uscita.|
@@ -173,10 +184,10 @@ Un affare sarà idoneo per la registrazione dell'accordo solo se soddisfa tutti 
 
 Se l'offerta è idonea per la registrazione dell'accordo, verranno aggiunte ulteriori attività cardine al ciclo di vita dell'operazione denominata "Deal Registration", come illustrato di seguito.
 
-:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Immagine che mostra il ciclo di vita dell'affare, il percorso da cui è possibile avviare la registrazione dell'accordo.":::
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Immagine che mostra il ciclo di vita dell'accordo in cui è possibile contrassegnare la fase di vendita.":::
 
 È possibile scegliere di registrare l'accordo immediatamente dopo aver contrassegnato l'accordo come vinto o in un momento successivo tramite il pulsante **registra** ciclo di vita dell'accordo.
-Una volta registrata la transazione, è possibile visualizzare lo stato di avanzamento della convalida dell'affare dallo stesso ciclo di vita. Se è richiesta un'azione da parte dell'azienda, vengono visualizzati errori appropriati nella visualizzazione ciclo di vita dell'accordo. Quando la convalida dell'affare viene completata, l'operazione passa allo stato Closed.
+Una volta registrata l'operazione, è possibile visualizzare lo stato di avanzamento della convalida dell'affare dallo stesso ciclo di vita. Se è richiesta un'azione da parte dell'azienda, vengono visualizzati errori appropriati nella visualizzazione ciclo di vita dell'accordo. Quando la convalida dell'affare viene completata, l'operazione passa allo stato Closed.
 
 > [!Important]
 > Sia la revisione dell'accordo che lo stato finale della convalida sono applicabili solo per le offerte di co-selling IP.
@@ -206,13 +217,13 @@ No, non è possibile modificare le offerte quando si spostano in uno stato termi
 
 Questo problema può verificarsi se la società ha più tenant associati allo stesso account MPN. Passare alle impostazioni dell'account del centro per i partner e verificare i tenant associati all'account. Creare quindi un ticket di supporto per richiedere il collegamento dei tenant. Fornire l'ID del tenant in cui è stato effettuato l'accesso nel ticket di supporto.
 
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Immagine che mostra le impostazioni dell'account in cui è possibile trovare informazioni sul tenant.":::
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Immagine che mostra il ciclo di vita dell'accordo in cui è possibile contrassegnare la fase di vendita.":::
 
 **Q3. Chi riceve una notifica tramite posta elettronica dal centro per i partner?**
 
 Il flusso di lavoro seguente illustra il modo in cui i messaggi di posta elettronica vengono inviati ai partner dal sistema dei riferimenti del centro per i partner per i nuovi riferimenti in ingresso partner.
 
-:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Immagine che mostra la logica di invio dei messaggi di posta elettronica ai partner per i nuovi riferimenti in ingresso.":::
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Immagine che mostra il ciclo di vita dell'accordo in cui è possibile contrassegnare la fase di vendita.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Ottenere più opportunità di co-selling
 

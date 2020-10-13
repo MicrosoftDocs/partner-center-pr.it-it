@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 92c82bbc785a6b8ef01fc39abe5bb4235fbc5622
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545982"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006881"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 
@@ -98,14 +98,14 @@ Per le sottoscrizioni esistenti, se si decide di utilizzare un rivenditore indir
 
 - Nella pagina Dettagli sottoscrizione, nel campo **rivenditore (ID MPN)** , aggiungere il rivenditore con cui si desidera lavorare. In questo modo si garantisce che il rivenditore riceverà gli incentivi appropriati.
 
-| **Per eseguire questa operazione** | **Eseguire questa operazione** | **Where** |
+| **Per eseguire questa operazione** | **Procedere nel modo seguente** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Consentire al rivenditore di gestire l'account di un cliente e disporre delle autorizzazioni di amministratore per gestire le sottoscrizioni | Associa un rivenditore a un account cliente quando si aggiunge un nuovo cliente | Nella pagina **nuovo cliente** |
 | Consentire al rivenditore di gestire l'account di un cliente di Azure|Associare un rivenditore a un account cliente di Azure quando si aggiunge un nuovo cliente|Nel **portale dei servizi di Azure**selezionare [impostazioni utente](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) per assegnare le autorizzazioni del proprietario del **tenant** rivenditore indiretto|
 | Concedere il credito rivenditore per gli incentivi | Associa il rivenditore alla sottoscrizione (nuova o esistente) | Nella pagina **nuova sottoscrizione** |
 | Delega del supporto tecnico per sottoscrizioni specifiche al rivenditore | Selezionare il rivenditore dall'elenco dei **contatti del supporto designato** | Nella pagina dei dettagli della sottoscrizione selezionare il cliente dalla pagina **clienti** , quindi selezionare la sottoscrizione dalla pagina **sottoscrizioni** del cliente. |
 
-## <a name="remove-partnership-with-indirect-resellers"></a>Rimuovi la collaborazione con rivenditori indiretti
+## <a name="remove-partnership-with-indirect-resellers"></a>Rimuovere la collaborazione con rivenditori indiretti
 
 Per rimuovere la relazione con il rivenditore indiretto esistente, attenersi ai passaggi seguenti. 
 
@@ -147,7 +147,7 @@ Quando si associa un rivenditore a un nuovo account cliente, si delega la gestio
     > [!IMPORTANT]  
     > Assicurarsi di prendere nota del nome e della password dell'account utente, perché non è possibile accedere nuovamente a queste informazioni dopo aver chiuso la pagina.
 
-7. Selezionare **Fine**. Il nuovo cliente verrà visualizzato nell'elenco dei clienti, associato al rivenditore indiretto. Il rivenditore dispone ora dell'accesso amministrativo alle informazioni e alle sottoscrizioni dell'account del cliente ed è in grado di gestire le sottoscrizioni per conto dell'utente.
+7. Selezionare **Operazione completata**. Il nuovo cliente verrà visualizzato nell'elenco dei clienti, associato al rivenditore indiretto. Il rivenditore dispone ora dell'accesso amministrativo alle informazioni e alle sottoscrizioni dell'account del cliente ed è in grado di gestire le sottoscrizioni per conto dell'utente.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Aggiungere nuove sottoscrizioni agli account cliente
 
@@ -170,7 +170,5 @@ Quando i clienti vogliono acquistare nuove sottoscrizioni, aggiornare quelle esi
 ## <a name="next-steps"></a>Passaggi successivi
 
 Per ulteriori informazioni sulla gestione di account e sottoscrizioni dei clienti, vedere:
-
-- [Account dei clienti](customer-accounts.md)
 
 - [Sottoscrizioni dei clienti](customer-subscriptions.md)

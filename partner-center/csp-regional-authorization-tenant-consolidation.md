@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000375"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006775"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Istruzioni per il consolidamento dei tenant per l'autorizzazione regionale per CSP
 
@@ -29,7 +29,7 @@ ms.locfileid: "91000375"
 - Amministratore globale
 - Agente amministratore
 
-\[Alcune informazioni si riferiscono al prodotto pre-rilasciato che può essere modificato in modo sostanziale prima del rilascio commerciale. Microsoft non offre alcuna garanzia, esplicita o implicita, relativamente alle informazioni fornite.\]
+\[Alcune informazioni si riferiscono al prodotto pre-rilasciato che può essere modificato in modo sostanziale prima del rilascio commerciale. Microsoft non riconosce alcuna garanzia, espressa o implicita, in merito alle informazioni qui fornite.\]
 
 È possibile consolidare i tenant per l'azienda. Usa queste istruzioni per consolidare i tenant per paesi/aree geografiche diversi.
 
@@ -148,4 +148,4 @@ Per altre informazioni sulla registrazione dell'API, vedere [configurare l'acces
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Configurazione e gestione degli account cliente per i partner rivenditori nel Centro per i partner](customer-accounts.md)
+- [Cloud Solution Provider programma mercati e valute internazionali in cui è possibile vendere offerte CSP](regional-authorization-overview.md)

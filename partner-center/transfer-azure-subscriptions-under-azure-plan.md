@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e1b70f26dc146507ac3764ae223ca27915162f0c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
+ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422569"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "91980262"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Trasferire le sottoscrizioni di piano di Azure di un cliente a un partner diverso
 
@@ -37,7 +37,7 @@ Il cliente deve essere in conversazione con entrambi i partner (attuali e futuri
 - I prezzi di CSP per i servizi di Azure in Current partner non vengono sottoposti a transizione  
 - Le responsabilità del supporto per i clienti passeranno al partner futuro
 - La fatturazione e la fatturazione passeranno a partner futuri al momento del trasferimento
-- Il controllo degli accessi in base al ruolo (RBAC) di Azure non è influenzato dal trasferimento
+- Il servizio di controllo di accesso (RBAC) di Azure Role-Based non è influenzato dal trasferimento
 - Per impostazione predefinita, l'amministratore per conto di (AOBO) non verrà concesso al partner futuro
 - I prodotti del Marketplace di terze parti vengono trasferiti fino a quando i prodotti passano il controllo di idoneità del Marketplace.
     - Non sono previsti sconti speciali o restrizioni a livello di area
@@ -77,20 +77,17 @@ Il partner futuro della sottoscrizione deve completare un modulo di richiesta di
 
 6.  Selezionare **Invia richiesta di trasferimento**  >  **invio**.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Modulo di richiesta di trasferimento completo":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Sezione trasferimenti":::
 
 7.  Verificare la conferma della richiesta di trasferimento
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Esaminare il trasferimento in sospeso":::
-
-    >[!Note]
-    >Il partner futuro può annullare la richiesta di trasferimento selezionando **Annulla richiesta** nell'angolo superiore destro solo quando lo stato della richiesta di trasferimento è "in sospeso". Quando lo stato della richiesta di trasferimento è "in corso" o "completo", gli annullamenti non saranno possibili.
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Sezione trasferimenti" o "completo", gli annullamenti non saranno possibili.
 
 ## <a name="current-partner-tasks-to-be-completed"></a>Attività correnti del partner da completare
 
 L'agente di amministrazione del partner corrente riceverà un messaggio di posta elettronica che indica che il cliente richiede il trasferimento delle sottoscrizioni:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Verifica":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Sezione trasferimenti":::
 
 Esaminare e accettare il modulo di richiesta di trasferimento dal centro per i partner per completare il trasferimento della sottoscrizione.
 
@@ -103,7 +100,7 @@ Esaminare e accettare il modulo di richiesta di trasferimento dal centro per i p
 3.  Selezionare la sezione **richiesta di trasferimento** .
 4.  Espandi le informazioni sul trasferimento selezionando l' **ID richiesta di trasferimento** selezionato in **richieste ricevute**
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Richiesta di trasferimento delle revisioni origine":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Sezione trasferimenti":::
 
 5.  Esaminare la richiesta di trasferimento. Selezionare le sottoscrizioni di Azure richieste da trasferire.
 
@@ -114,7 +111,7 @@ Esaminare e accettare il modulo di richiesta di trasferimento dal centro per i p
 
 6.  Selezionare quindi **Accept e transfer** per completare il processo di trasferimento.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Selezionare le sottoscrizioni da trasferire nei piani di Azure":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Sezione trasferimenti":::
 
 7.  Visualizza conferma accettazione trasferimento.
 
@@ -132,9 +129,9 @@ Esaminare e accettare il modulo di richiesta di trasferimento dal centro per i p
 
 - Di conseguenza, è importante che il cliente elimini l'accesso RBAC di Azure per il partner precedente e aggiunga l'accesso per il nuovo partner. Per altre informazioni sul cliente che fornisce un nuovo accesso, vedere [che cos'è il controllo degli accessi in base al ruolo di Azure (RBAC di Azure)?](/azure/role-based-access-control/overview) Per ulteriori informazioni sul cliente che rimuove l'accesso RBAC del partner precedente, vedere [rimuovere un'assegnazione di ruolo](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).
 
-- Inoltre, non è possibile ottenere automaticamente l'accesso [dell'amministratore per conto di (Aobo)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) alle sottoscrizioni. AOBO è necessario per i partner per gestire le sottoscrizioni di Azure del cliente per loro conto. Per altre informazioni sui privilegi di Azure, vedere [ottenere le autorizzazioni per gestire il servizio o la sottoscrizione di un cliente.](/partner-center/customers-revoke-admin-privileges)
+- Inoltre, non è possibile ottenere automaticamente l'accesso [dell'amministratore per conto di (Aobo)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) alle sottoscrizioni. AOBO è necessario per i partner per gestire le sottoscrizioni di Azure del cliente per loro conto. Per altre informazioni sui privilegi di Azure, vedere [ottenere le autorizzazioni per gestire il servizio o la sottoscrizione di un cliente.](./customers-revoke-admin-privileges.md)
 
 ## <a name="next-steps"></a>Passaggi successivi:
 
 - [(RBAC di Azure)](/azure/role-based-access-control/overview)
-- [Ottenere le autorizzazioni per gestire il servizio o la sottoscrizione di un cliente.](/partner-center/customers-revoke-admin-privileges)
+- [Ottenere le autorizzazioni per gestire il servizio o la sottoscrizione di un cliente.](./customers-revoke-admin-privileges.md)

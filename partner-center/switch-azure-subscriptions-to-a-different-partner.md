@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 83f5f3cea881780531d0b2f24e0422df76891382
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
+ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422317"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "91980242"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Informazioni su come trasferire sottoscrizioni di Azure di un cliente a un altro partner
 
@@ -115,5 +115,4 @@ Per passare i servizi o le sottoscrizioni di Azure di un cliente a un altro part
 
 - [supporto](multipartner.md)per più partner.
 - [supporto](multichannel.md)per più canali.
-- [Trasferire le sottoscrizioni di Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
-
+- [Trasferire le sottoscrizioni di Azure](/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)

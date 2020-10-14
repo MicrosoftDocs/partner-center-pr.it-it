@@ -1,6 +1,6 @@
 ---
 title: Iscriversi come CPV (Control Panel Vendor)
-description: Informazioni su come eseguire la registrazione come un produttore del pannello di controllo (CPV) nel centro per i partner.
+description: Informazioni su come eseguire la registrazione come un produttore del pannello di controllo (CPV) nel centro per i partner per integrare meglio i sistemi partner CSP con le API del centro per i partner.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,14 +9,14 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/20/2020
-ms.openlocfilehash: 79d46b306795c1261fb8e9af45e7c102b9e79601
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 1bfcb4de27233283b6188903b3e1f6bbdf67698c
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366735"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031894"
 ---
-# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Eseguire la registrazione come fornitore del pannello di controllo per integrare i sistemi partner CSP con le API del centro per i partner
+# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Iscriversi come fornitore del pannello di controllo per integrare i sistemi di partner CSP con le API del Centro per i partner
 
 **Si applica a**
 

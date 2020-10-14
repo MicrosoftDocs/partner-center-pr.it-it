@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: I partner possono ora firmare digitalmente le fatture
+description: Scopri in che modo i partner del centro partner in India possono visualizzare le fatture con firma digitale e ricevere copie digitali delle fatture per gli ordini creati nel centro per i partner.
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490649"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031954"
 ---
 # <a name="view-digitally-signed-invoices"></a>Visualizza fatture con firma digitale
 
@@ -38,15 +38,15 @@ I partner in India vedono ora che Microsoft ha firmato digitalmente le fatture. 
 
 3. Fare clic sulla firma. Verrà visualizzata la validità del certificato.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Finestra di dialogo fattura firmata con stato di convalida del campo e della firma autorizzata con informazioni dettagliate, opzione Proprietà firma, opzione Annulla."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Una fattura di esempio con banner di notifica della firma valido che mostra la firma del segno di spunta verde e la frase, firmata e tutte le firme valide."::: 
 
 4. Selezionare **Proprietà firma** per visualizzare altri dettagli sulla validità della firma.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Visualizzazione Dettagli Proprietà firma Mostra informazioni su chi, dove, quando il documento è stato firmato, il processo di convalida e il certificato del firmatario."::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Una fattura di esempio con banner di notifica della firma valido che mostra la firma del segno di spunta verde e la frase, firmata e tutte le firme valide."::: 
 
 4. È anche possibile verificare che i percorsi di certificazione siano corretti e che il certificato sia attendibile.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="Nella finestra di dialogo Visualizzatore certificati sono visualizzate diverse schede con ulteriori dettagli su un certificato e sull'intera catena di rilascio.":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="Una fattura di esempio con banner di notifica della firma valido che mostra la firma del segno di spunta verde e la frase, firmata e tutte le firme valide.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Ulteriori informazioni sulle fatture e le firme digitali
 

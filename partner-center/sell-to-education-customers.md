@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ace0147eb87786e38cb43e5e362790c227ed08b
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006838"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032084"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Come vendere offerte ai clienti della formazione & come creare un cliente per la formazione nel centro per i partner
 
@@ -51,7 +51,7 @@ Questo articolo illustra come creare un cliente Education in Partner Center e co
 
 ### <a name="confirm-your-education-customers-verification-status"></a>Confermare lo stato di verifica del cliente della formazione
 
-Nella pagina dell'account del cliente vedere **lo stato speciale della qualifica**.
+Nella pagina dell' **account** del cliente vedere **lo stato speciale della qualifica**.
 Esempi di stato:
 
 - Se il cliente ha superato la verifica: Education
@@ -90,7 +90,7 @@ Per aggiornare le informazioni del cliente, è necessario disporre dei privilegi
 
 ### <a name="resubmit-for-verification"></a>Invia di più per la verifica
 
-1. Passare alla scheda centro per i partner e alla pagina dell' **account** del cliente. Aggiornare il browser. e verificare che la pagina aziendale sia stata aggiornata con le nuove informazioni. Selezionare **Aggiorna** per richiedere la ripetizione della verifica della formazione.
+1. Passare alla scheda centro per i partner e alla pagina dell' **account** del cliente. Aggiornare il browser e verificare che la pagina aziendale sia stata aggiornata con le nuove informazioni. Selezionare **Aggiorna** per richiedere la ripetizione della verifica della formazione.
 
 2. Se le informazioni aggiornate sul cliente sono idonee per le offerte di formazione, verranno visualizzate le **speciali qualifiche** aggiornate per la **formazione**. Se non viene ancora visualizzato **un cliente dell'istruzione**, contattare il supporto tecnico per la verifica manuale.
 

@@ -2,17 +2,17 @@
 title: Transazioni SaaS basate su licenze di fatturazione
 ms.topic: article
 ms.date: 05/05/2020
-description: Informazioni sugli scenari di fatturazione comuni nel centro per i partner per le transazioni SaaS basate su licenze.
+description: Informazioni sugli scenari di fatturazione comuni nel centro per i partner per le transazioni SaaS (software-as-a-Service) basate su licenze.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d65d23057ea0354fc77b1cc8a9c7fb16a343b3ee
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 3d63e8345bf127cb91f1812193b1f0311cd569b3
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444567"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031344"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Scenari di fatturazione comuni per le transazioni SaaS basate su licenze nel centro per i partner
 

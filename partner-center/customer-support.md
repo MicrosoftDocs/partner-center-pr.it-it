@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sulle responsabilità del supporto tecnico per i partner nel programma CSP.
+description: Informazioni sulle responsabilità del supporto clienti per i partner del programma CSP, incluse informazioni su fatturazione, gestione delle sottoscrizioni e problemi tecnici.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2ae8ff6491388af8ed4c7865fef730a946fea332
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: ec9c80d7e57e0252f68f7ed7f7b0f73f8812de9d
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114365"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032044"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Fornire tipi diversi di supporto ai clienti
 

@@ -2,17 +2,17 @@
 title: File di riconciliazione dell'utilizzo con classificazione giornaliera
 ms.topic: article
 ms.date: 06/12/2020
-description: Informazioni su come leggere i file di riconciliazione dell'utilizzo con classificazione giornaliera nel centro per i partner.
+description: Informazioni su come leggere i file di riconciliazione dell'utilizzo con classificazione giornaliera nel centro per i partner. Include le descrizioni per campi specifici nel file di ricognizione.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281313"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031964"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Informazioni su come leggere i file di riconciliazione dell'utilizzo con classificazione giornaliera nel centro per i partner
 
@@ -60,7 +60,7 @@ Questo articolo illustra come leggere i file di riconciliazione dell'utilizzo co
 | UsageDate | Data di utilizzo del servizio. |
 | MeterType | Tipo di misuratore. |
 | MeterCategory | Il servizio di primo livello per l'utilizzo. |
-| ID contatore | Identificatore del contatore utilizzato. |
+| MeterId | Identificatore del contatore utilizzato. |
 | MeterSubCategory | Tipo di servizio di Azure, che può influire sulla frequenza. |
 | MeterName | Unità di misura per il contatore utilizzato. |
 | MeterRegion | Questa colonna identifica la posizione di un data center all'interno dell'area per i servizi in cui MeterRegion è applicabile e popolato. |

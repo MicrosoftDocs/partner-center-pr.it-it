@@ -1,20 +1,20 @@
 ---
 title: Gestire le posizioni nell'account partner
 ms.topic: article
-ms.date: 10/01/2020
+ms.date: 10/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come aggiungere una nuova sede e come usare l'ID MNP di sede in programmi di incentivi, transazioni aziendali CSP, sottoscrizioni e altre transazioni.
 author: vinayks
 ms.author: vinayks
-ms.localizationpriority: high
+ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c9bc3ffc09b657ab6e3e7e2dcda576898c96803d
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: c4435227cdd5d777d11c79bf4adc63471ad925e9
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663897"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006844"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gestire le sedi dell'account MPN e aggiungere una nuova sede
 
@@ -31,12 +31,12 @@ L'ID MPN di sede identifica ogni specifica sede della società. L'ID MPN di sede
 
 ## <a name="the-following-is-a-typical-scenario"></a>Di seguito è riportato uno scenario tipico:
 
-La sede dell'account globale partner di Contoso è nel Regno Unito. Si tratta della sede legale dell'azienda, mentre un ID MPN viene usato per la gestione di tutte le attività non transazionali. Contoso ha anche account di sede partner, corrispondenti a filiali o divisioni in un'altra località del Regno Unito, della Francia o degli Stati Uniti. Nella struttura degli account MPN gli account di sede partner sono rappresentati come ID MPN di sede univoci. Gli account di sede partner vengono usati per attività transazionali, ad esempio programmi di incentivi o CSP. I pagamenti sono collegati a posizioni specifiche. 
+Contoso ha registrato il proprio account globale partner nel Regno Unito. Si tratta della sede legale dell'azienda e l'ID MPN globale viene usato per la gestione di tutte le attività non transazionali. Contoso ha anche account di sede partner, corrispondenti a filiali o divisioni in un'altra località del Regno Unito, della Francia o degli Stati Uniti. Nella struttura degli account MPN gli account di sede partner sono rappresentati come ID MPN di sede univoci. Gli account di sede partner vengono usati per attività transazionali, ad esempio programmi di incentivi o CSP. I pagamenti sono collegati a posizioni specifiche. 
 
 >[!NOTE]
 >Tra un tenant CSP e un ID MPN di sede esiste una relazione 1 a 1.
 
-:::image type="content" source="images/accountsettings/accountstructure.png" alt-text="Struttura delle sedi MPN":::
+:::image type="content" source="images/locations/locations1.png" alt-text="Struttura delle sedi MPN":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>Prerequisiti per aggiungere una nuova sede per un'azienda CSP
 
@@ -44,7 +44,7 @@ Per aggiungere una nuova sede aziendale CSP, è necessario soddisfare alcuni pre
 
 1. È necessario avere un ID MPN di sede nel paese in cui si vuole svolgere le attività aziendali.
 
-1. È necessario un nuovo tenant Azure AD nell'area di attività non ancora iscritta a CSP. Creare questo tenant quando si effettua l'iscrizione a CSP.
+1. È necessario un nuovo tenant Azure AD nell'[area geografica di attività](regional-authorization-overview.md) non ancora iscritta a CSP. Creare questo tenant quando si effettua l'iscrizione a CSP.
  
 3. Usare il nuovo tenant di AAD per l'iscrizione al programma CSP nell'area geografica.
 Fornire i dettagli legali dell'azienda, inclusi la ragione sociale, l'indirizzo e i dettagli del contatto principale. L'account verrà sottoposto a verifica, quindi assicurarsi di aggiungere informazioni valide.
@@ -56,20 +56,20 @@ Fornire i dettagli legali dell'azienda, inclusi la ragione sociale, l'indirizzo 
 
 ## <a name="add-a-location"></a>Aggiungere una sede
 
+1. Accedere al Centro per i partner con l'account MPN. L'account MPN deve avere i privilegi di amministratore globale o amministratore account. 
+
 1. Nell'icona **Impostazioni** seleziona **Impostazioni partner**.
 
 2. Seleziona **Posizione**.
 
-3. Seleziona **Aggiungi una posizione**.  
-
-4. Nella pagina **Aggiungi una posizione** inserisci i dettagli dell'indirizzo della posizione che vuoi aggiungere alla società, nonché un contatto principale per la posizione.
+3. Selezionare **Aggiungere una sede** e inserire i dettagli dell'indirizzo della sede che si vuole aggiungere alla società, nonché un contatto principale per la sede.
 
 > [!NOTE]
-> dopo aver aggiunto una posizione nel Centro per i partner, non è possibile rimuoverla.
+> dopo aver aggiunto una posizione nel Centro per i partner, non è possibile rimuoverla. Se l'accesso è stato effettuato con l'account corretto, verrà visualizzato **MPN** nel menu a sinistra del Centro per i partner.
 
 ## <a name="change-global-partner-account-location"></a>Modificare la sede dell'account partner globale
 
-1. Nella pagina **Posizione** controlla che nell'elenco delle posizioni sia presente quella desiderata come entità legale. In caso contrario, aggiungerla.
+1. Nella pagina **[Località](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** verificare che la sede desiderata come entità legale sia inclusa nell'elenco delle sedi. In caso contrario, aggiungerla.
 
    :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Struttura delle sedi MPN":::
 

@@ -160,6 +160,8 @@
           href: create-user-accounts-and-set-permissions.md
         - name: Assegnare ruoli agli utenti
           href: permissions-overview.md
+        - name: Trovare il ruolo
+          href: find-your-role.md
         - name: Essere un fornitore di pannelli di controllo
           href: enroll-as-cpv.md
         - name: Reimpostare la password di un utente
@@ -356,8 +358,9 @@
         - name: Domande frequenti su Proventi
           href: payout-faq.md
 - name: Entra in contatto con i clienti
-  href: customer-accounts.md
   items:
+    - name: Entrare in contatto con i clienti
+      href: connect-with-your-customers.md
     - name: Aggiungere un nuovo cliente
       href: add-a-new-customer.md
     - name: Richiedere una relazione come rivenditore con un cliente

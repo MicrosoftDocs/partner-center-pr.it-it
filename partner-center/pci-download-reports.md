@@ -1,7 +1,7 @@
 ---
-title: Insights scaricare il dashboard del report.
+title: Insights scaricare il dashboard del report
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Esplora il dashboard di report unificato del centro per i partner.
@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e59ace7ab52b7c08fb824e62f72b60dd1ce4df25
+ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436680"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92100761"
 ---
 # <a name="download-reports"></a>Scarica report
 
@@ -34,7 +34,7 @@ Per generare un report, selezionare innanzitutto il report dall'elenco a discesa
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Crea nuovo report":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Report generati":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Crea nuovo report":::
 
 >[!NOTE] 
 >Solo gli utenti che sono visualizzatori di report esecutivi possono scaricare i report. Per altre informazioni sull'accesso basato sui ruoli ai report del dashboard Insights, vedere [ruoli PCI](pci-roles.md). 
@@ -51,13 +51,13 @@ I report seguenti sono disponibili per il download:
 
 **Azure Usage** fornisce i dettagli sull'utilizzo di Azure. Questi dettagli sono relativi alle sottoscrizioni di Azure vendute o gestite dal partner. I dettagli di utilizzo sono divisi per categoria contatore e altre dimensioni chiave. Il report viene aggregato su base mensile.
 
-**Office365: l'utilizzo** delle licenze fornisce i dettagli di utilizzo delle licenze O365 vendute o gestite dal partner. Fornisce anche informazioni sui clienti e metriche chiave, ad esempio diritti attivi, diritti qualificati e così via. Il report verrà aggregato su base mensile.
+**Office365: l'utilizzo** delle licenze fornisce i dettagli di utilizzo delle licenze O365 vendute o gestite dal partner. Fornisce anche le informazioni sui clienti e le metriche chiave, ad esempio utenti attivi mensili (MAU), diritti qualificati e così via. Il report verrà aggregato su base mensile.
 
-**Enterprise Mobility: l'utilizzo delle licenze** fornisce i dettagli di utilizzo delle licenze di Enterprise Mobility vendute o gestite dal partner. Fornisce anche informazioni sui clienti e metriche chiave, ad esempio diritti attivi, diritti qualificati e così via. Il report viene aggregato su base mensile.
+**Enterprise Mobility: l'utilizzo delle licenze**  fornisce i dettagli di utilizzo delle licenze di Enterprise Mobility vendute o gestite dal partner. Fornisce anche le informazioni sui clienti e le metriche chiave, ad esempio utenti attivi mensili (MAU), diritti qualificati e così via. Il report viene aggregato su base mensile.
 
-**Dynamics 365: l'utilizzo della licenza** fornisce i dettagli di utilizzo delle licenze d365 vendute o gestite dal partner. Fornisce anche informazioni sui clienti e metriche chiave, ad esempio diritti attivi, diritti qualificati e così via. Il report viene aggregato su base mensile.
+**Dynamics 365: l'utilizzo della licenza** fornisce i dettagli di utilizzo delle licenze d365 vendute o gestite dal partner. Fornisce anche le informazioni sui clienti e le metriche chiave, ad esempio utenti attivi mensili (MAU), diritti qualificati e così via. Il report viene aggregato su base mensile.
 
-L' **utilizzo di Power bi License** fornisce i dettagli di utilizzo delle licenze Power bi vendute o gestite dal partner. Fornisce anche informazioni sui clienti e metriche chiave, ad esempio diritti attivi, diritti qualificati e così via. Il report viene aggregato su base mensile.
+L' **utilizzo di Power bi License** fornisce i dettagli di utilizzo delle licenze Power bi vendute o gestite dal partner. Fornisce anche le informazioni sui clienti e le metriche chiave, ad esempio utenti attivi mensili (MAU), diritti qualificati e così via. Il report viene aggregato su base mensile.
 
 I **Training** forniscono i dettagli, ad esempio esami, certificazioni, valutazioni, tracce, corsi completati o assunti dai dipendenti del partner.
 

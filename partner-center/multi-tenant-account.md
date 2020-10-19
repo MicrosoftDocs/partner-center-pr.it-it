@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 07/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Gestire più tenant tramite l'account del centro per i partner
+description: Informazioni su come aggiungere, consolidare o gestire più tenant di Azure AD nell'account del centro per i partner. Altre informazioni su alcuni dei motivi per cui si potrebbe voler eseguire questa operazione.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecdfcbd4801bee34be298030016d7366b12d7db3
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88846961"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175159"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Aggiungere e gestire più tenant nell'account del centro per i partner
 
@@ -50,7 +50,7 @@ Questa funzionalità consente all'utente di gestire più tenant per la propria a
 
 1. Come amministratore globale, accedere al tenant che si vuole associare e confermare l'associazione. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="conferma associazione tenant"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="associa tenant"::: 
 
 5. Dopo la conferma, viene visualizzato un avviso relativo a **tutti i set** .  Selezionare **Torna a gestione tenant per** visualizzare l'elenco dei tenant appena aggiunti. 
  

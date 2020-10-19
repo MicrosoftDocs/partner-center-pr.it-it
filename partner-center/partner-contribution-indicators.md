@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sui sette indicatori di contributo dei partner chiave (PCI) che illustrano come si sta usando Dynamics 365 Customer Engagement o Dynamics 365 Finance and Operations.
+description: Informazioni su sette indicatori di contributo partner (PCI) che illustrano come si sta usando Dynamics 365 Customer Engagement o Dynamics 365 Finance and Operations.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e1c0c4e0f332e771415e9360e4eeaf756f00a8e
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714285"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175019"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Gli indicatori di contributo partner (PCI) mostrano l'effetto del partner su sette misure chiave del successo dei clienti
 
@@ -89,7 +89,7 @@ Ogni indicatore riporta un punteggio aggiunto al totale. Di seguito sono riporta
 |Successo del cliente-crescita mensile di utenti attivi  | 25 punti |
 
 La figura seguente offre un riferimento visivo rapido.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Mostra un grafico con i punteggi massimi possibili per ognuno dei sette indicatori di contributo partner (PCI)." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="Mostra i punteggi PCI per ottenere la competenza Silver o Gold." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>Soglie per ogni metrica PCI
 
@@ -313,7 +313,7 @@ Nell'immagine seguente viene illustrato come leggere alcune aree e grafici nella
 
 Per ulteriori informazioni sull'utilizzo di quest'area, vedere la raccolta di risorse e video disponibili alla fine di questo articolo.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Come leggere i grafici":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Mostra i punteggi PCI per ottenere la competenza Silver o Gold.":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 

@@ -1,18 +1,18 @@
 ---
 title: Eseguire la migrazione di sottoscrizioni Kaizala Pro a Microsoft365
-description: Informazioni su come eseguire la migrazione di sottoscrizioni Kaizala Pro a Microsoft365 o versioni di Office 365.
+description: Informazioni su come eseguire la migrazione di sottoscrizioni Kaizala Pro a Microsoft365 o versioni di Office 365. Leggere questo articolo per altre informazioni sulla transizione dei clienti.
 ms.topic: article
 ms.service: partner-dashboard
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 842f4c0f88eec370821fa05c40cfadeee7fee12a
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84611237"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175173"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Eseguire la migrazione di sottoscrizioni Kaizala Pro autonome a Microsoft365 o versioni di Office 365
 
@@ -30,7 +30,7 @@ Con i nuovi piani, i clienti possono sfruttare le funzionalità e le funzionalit
 
 - [**Microsoft 365 per le aziende**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2), tra cui:  
    - Microsoft 365 Business Basic
-   - Microsoft 365 Business standard
+   - Microsoft 365 Business Standard
    - Microsoft 365 Business Premium
     
 - [**Microsoft 365 per Frontline**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab), tra cui:
@@ -42,15 +42,15 @@ Con i nuovi piani, i clienti possono sfruttare le funzionalità e le funzionalit
    - Microsoft 365 E5 e Office 365 E5
 
 - [**Microsoft 365 per la formazione**](https://www.microsoft.com/education/buy-license/microsoft365), tra cui: 
-    - Microsoft 365 a1 e Office 365 a1
-    - Microsoft 365 a3 e Office 365 a3
-    - Microsoft 365 a5 e Office 365 a5
+    - Microsoft 365 A1 e Office 365 A1
+    - Microsoft 365 A3 e Office 365 A3
+    - Microsoft 365 A5 e Office 365 A5
 
 ## <a name="transition-customers-to-new-product-plans"></a>Transizione dei clienti ai nuovi piani per i prodotti
 
 Microsoft offre continuamente nuovi prodotti e servizi ai nostri partner. In questi casi, potrebbe essere necessario aggiornare i clienti ai nuovi servizi o eseguire la migrazione delle sottoscrizioni da SKU che verranno arrestate. Per la migrazione dei clienti da SKU ritirati a quelli più recenti sono necessari i passaggi seguenti:
 
-A. Acquistare la nuova sottoscrizione
+R. Acquistare la nuova sottoscrizione
 
 B. Riassegna licenze utente correnti
 
@@ -59,7 +59,7 @@ C. Annulla sottoscrizione precedente
 
 ## <a name="migrate-your-customers-to-new-plans"></a>Esegui la migrazione dei clienti ai nuovi piani
 
-### <a name="a-purchase-the-new-subscription"></a>A. Acquistare la nuova sottoscrizione
+### <a name="a-purchase-the-new-subscription"></a>R. Acquistare la nuova sottoscrizione
 
 1. Per acquistare la nuova sottoscrizione, scegliere **Customers**dal menu centro per i **partner** , selezionare il cliente che si desidera spostare e quindi selezionare **Aggiungi sottoscrizioni**.
 
@@ -75,7 +75,7 @@ Il cliente deve avere ora sottoscrizioni sia precedenti che nuove, la vecchia so
 
 3. Nella pagina **Gestisci licenze** deselezionare la casella di controllo Kaizala Pro standalone License e selezionare un nuovo piano di servizio per la sottoscrizione a cui si sta muovendo il cliente.
 
-4.  Selezionare **Invia**. Le nuove assegnazioni di licenza vengono visualizzate in una pagina di conferma. Continuare lo stesso processo per gli altri utenti che necessitano di assegnazioni di licenze.
+4.  Selezionare **Submit** (Invia). Le nuove assegnazioni di licenza vengono visualizzate in una pagina di conferma. Continuare lo stesso processo per gli altri utenti che necessitano di assegnazioni di licenze.
 
 ### <a name="c-cancel-old-subscription"></a>C. Annulla sottoscrizione precedente
 
@@ -85,6 +85,6 @@ Dopo aver spostato la licenza utente nel nuovo servizio, è possibile annullare 
 
 2.  Nella pagina Dettagli sottoscrizione impostare la sottoscrizione su **sospesa**.
 
-3.  Selezionare **Invia**.
+3.  Selezionare **Submit** (Invia).
 
 La sottoscrizione precedente viene sospesa e la nuova sottoscrizione diventa attiva. Il deprovisioning della sottoscrizione sospesa verrà effettuato automaticamente dopo 120 giorni. Il cliente non dovrà sostenere alcun costo aggiuntivo per la sottoscrizione precedente.

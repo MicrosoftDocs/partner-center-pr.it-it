@@ -2,19 +2,19 @@
 title: Ottenere un credito per le imposte di ritenuta
 ms.topic: article
 ms.date: 06/05/2020
-description: Ricevere credito per l'account del centro per i partner per le ritenute fiscali
+description: Ricevere credito per l'account del centro per i partner per le ritenute fiscali. Le informazioni includono i passaggi per inviare una richiesta di ritenuta fiscale.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98318b193691ebb50011a66c9caadd2f1ac61e8d
-ms.sourcegitcommit: d407cdf36ddb634cf209579797b08fd81cf453ea
+ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/15/2020
-ms.locfileid: "88251273"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174937"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Ricevere credito per l'account del centro per i partner per le ritenute fiscali
 
@@ -45,9 +45,7 @@ Attenersi alla procedura seguente per inviare una nuova dichiarazione di imposte
 
 4. Esaminare i dettagli della fattura per assicurarsi di inviare la richiesta per la fattura corretta.
 
-   :::image type="content" source="images/wht2.png" alt-text="Completa i dettagli relativi alle ritenute fiscali per una fattura":::
-
-5. Immettere il "totale di ritenuta" in **Dettagli sulle ritenute fiscali**. Il valore "Totale ritenuta" è il valore che si prevede venga accreditato.
+   :::image type="content" source="images/wht2.png" alt-text="Invia nuove imposte di ritenuta per una fattura" è il valore che si prevede venga accreditato.
 
 6. **Alleghi** un certificato di imposta. È necessario includere una **copia digitale** del **certificato fiscale di ritenuta** nella richiesta di ritenuta fiscale. Il certificato è stato ricevuto dall'agenzia fiscale locale quando si pagano le imposte all'autorità fiscale locale. L'importo imposte fattura nel certificato di imposizione di ritenuta deve corrispondere all'importo totale nella richiesta di ritenuta fiscale.
 

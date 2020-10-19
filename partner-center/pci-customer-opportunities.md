@@ -1,6 +1,6 @@
 ---
 title: Informazioni dettagliate sul centro per i partner-CloudAscent
-description: Informazioni sui report di proCloudAscentzione nel dashboard del centro per i partner.
+description: Informazioni sui report di proCloudAscentzione del centro per i partner. Sono incluse informazioni sulla propensione del cliente per l'acquisto di prodotti Microsoft.
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 09/18/2020
-ms.openlocfilehash: 510f85b053ec17fa0a2a66217a19c006e7ca2bc9
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: fd017884c29df3874a06e8c4213c6fe5f05a8995
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "90811351"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175284"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>CloudAscent i report di propensione disponibili dal dashboard del centro per i partner
 
@@ -40,14 +40,14 @@ Il segmento small to Medium Business (SMB) viene diviso ulteriormente in tre sot
 
    Vengono definiti i due modi principali non gestiti:
 
-   - **Top non gestito basato su utenti**: include account con 300 o più dipendenti. Gli account basati sull'utente sono obiettivi ottimali per il primo acquisto o l'espansione di prodotti di sottoscrizione basati sugli utenti, ad esempio M365, d365 o Surface.
+   - **Top non gestito basato su utenti**: include account con 300 o più dipendenti. User-Based gli account sono ottimi obiettivi per l'acquisto iniziale o l'espansione di prodotti di sottoscrizione basati sugli utenti, ad esempio M365, d365 o Surface.
    - **Top non gestito basato su calcolo** : include account con potenziali Azure maggiori di $10.000. Gli account basati su calcolo includono Azure esistente. account con potenziali anni e account futuri significativi che hanno ancora acquistato Azure, ma che hanno un potenziale di Azure superiore a $10.000.
 
 2. **Media Business** include clienti esistenti e account Prospect con 25 a 300 dipendenti.
 
 3. **Small Business** include tutte le aziende rimanenti con meno di 25 dipendenti.
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Tipo Customer by SMC.":::
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Screenshot del dashboard di riepilogo delle opportunità dei clienti.":::
 
 I principali sottosegmenti aziendali **non gestiti** e **medi** rappresentano i clienti LTV (High Life-Time) per Microsoft e i partner Microsoft. Di conseguenza, rappresentano le aree principali per concentrare la crescita in questo segmento. In questi due sottosegmenti, è più adatto per acquisire il socket con M365, monetizzare ulteriormente con le app line-of-business (LOB) di d365/Azure e realizzare un LTV elevato per Microsoft.
 
@@ -55,7 +55,7 @@ Oggi sono disponibili due aree principali di opportunità: 1. il cliente aggiung
 
 Lo screenshot seguente rappresenta i tre sottosegmenti SMB e le route ottimizzate per il mercato. CloudAscent assegna la priorità alla profilatura, al punteggio e alla modellazione di tutti gli account aziendali principali non gestiti e medi.
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Screenshot dei sottosegmenti SMB.":::
+:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Screenshot del dashboard di riepilogo delle opportunità dei clienti.":::
 
 ## <a name="cloudascent-machine-learning"></a>Machine Learning CloudAscent
 
@@ -67,7 +67,7 @@ SMB utilizza la tecnologia di machine learning per promuovere le stime dei clien
 
 - **Ottimizzazione**: il sistema di Machine Learning ottimizza i modelli tramite l'utilizzo dei dati delle transazioni mensili e i dati di sottoscrizione trimestrali.  Usando i dati di win/loss, il Machine Learning regola gli algoritmi e verifica che i modelli funzionino come previsto confrontando le raccomandazioni del cluster con le opportunità eseguite nel server MSX.
 
-:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Screenshot di SMB Machine Learning.":::
+:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Screenshot del dashboard di riepilogo delle opportunità dei clienti.":::
 
 ## <a name="cloudascent-propensity"></a>Propensità CloudAscent
 
@@ -91,7 +91,7 @@ Usando i segnali raccolti tramite i crawler web e i dati forniti da varie origin
 
    - Il Punteggio preventivo viene aggiornato ogni mese.
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Modelli predittivi SMB CloudAscent.":::
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Screenshot del dashboard di riepilogo delle opportunità dei clienti.":::
 
 3. Clustering
 
@@ -110,8 +110,8 @@ Usando i segnali raccolti tramite i crawler web e i dati forniti da varie origin
 
          |**Classificazione**|**Punteggio**|
          |---------|:---------|
-         |Alto|75-100|
-         |Medio|55-74|
+         |Alta|75-100|
+         |Media|55-74|
          |Basso|30 - 54|
          |Molto bassa|0 - 29|
 
@@ -121,7 +121,7 @@ Usando i segnali raccolti tramite i crawler web e i dati forniti da varie origin
 
       4. Infine, questi segmenti raggruppano per formare i cluster.  Ad esempio, a1, a2, a3 e A4 formano il cluster Act Now.
 
-         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Modelli CloudAscent.":::
+         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Screenshot del dashboard di riepilogo delle opportunità dei clienti.":::
 
    Per questi clienti, è consigliabile scegliere come destinazione Act Now e valutare i clienti.
 
@@ -129,7 +129,7 @@ Usando i segnali raccolti tramite i crawler web e i dati forniti da varie origin
 
 Il grafico seguente offre una visualizzazione di ogni modello di propensione all'interno di CloudAscent:
 
-:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="CloudAscent modello di propensione.":::
+:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Screenshot del dashboard di riepilogo delle opportunità dei clienti.":::
 
 I modelli di spazi vuoti sono costituiti da stime per i clienti Microsoft esistenti in cui non dispongono di un prodotto e/o sono clienti NET New Prospect.
 

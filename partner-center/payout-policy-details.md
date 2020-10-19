@@ -1,18 +1,18 @@
 ---
 title: Dettagli dei criteri di pagamento-Marketplace commerciale Microsoft
-description: Dettagli relativi ai criteri di pagamento del Marketplace commerciale, incluse le pianificazioni e il recupero.
+description: Informazioni sui dettagli relativi ai criteri di pagamento del Marketplace commerciale, incluse le pianificazioni e il recupero.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 09/28/2020
-ms.openlocfilehash: 24436238cb28f4ef1b02afc4e2f4224d1440805c
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: eec5f85f38280757bc1e5d5c36a4dd1ac5ce8d22
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591111"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174921"
 ---
 # <a name="payout-policy-details"></a>Dettagli dei criteri dei proventi
 
@@ -31,7 +31,7 @@ A partire dal 1 ° maggio 2020, verranno aggiornati i criteri per i pagamenti re
 > [!NOTE]
 > Per le azioni da eseguire se il cliente non è in grado di pagare ma è già stato emesso un pagamento, vedere il [processo per i clienti che non](#process-for-customer-non-payment) pagano.
 
-| Evento  | Data (UTC) | Visibilità del partner: report del centro per i partner  |  Visibilità del partner: analisi del centro per i partner\* |
+| event  | Data (UTC) | Visibilità del partner: report del centro per i partner  |  Visibilità del partner: analisi del centro per i partner\* |
 | --- | --- | --- | --- |
 | Transazione o mese di utilizzo | 8/1/2020 – 8/31/2020 | N/D | **Report sull'utilizzo**: nuovo consumo visualizzato (aggiornato ogni quattro ore)<br>**Report ordini**: N/A |
 | Fine termine (mese) | 31/8/2020 | N/D | **Report sull'utilizzo**: consumo finale mensile visualizzato<br>**Report ordini**: N/A |
@@ -48,7 +48,7 @@ A partire dal 1 ° maggio 2020, verranno aggiornati i criteri per i pagamenti re
 
 Tutti gli acquisti con una carta di credito o una fattura mensile hanno un periodo di attesa di 30 giorni per garantire che i fondi vengano cancellati e che non siano presenti chargeback o sospetti illeciti.
 
-| Evento  | Data (UTC) | Visibilità del partner: report del centro per i partner  |  Visibilità del partner: analisi del centro per i partner\*  |
+| event  | Data (UTC) | Visibilità del partner: report del centro per i partner  |  Visibilità del partner: analisi del centro per i partner\*  |
 | --- | --- | --- | --- |
 | Transazione o mese di utilizzo | 8/1/2019 - 8/31/2019 | N/D | **Report sull'utilizzo**: nuovo consumo visualizzato (aggiornato ogni quattro ore)<br>**Report ordini**: N/A |
 | Fine termine (mese) | 8/31/2019 | N/D | **Report sull'utilizzo**: consumo finale mensile visualizzato<br>**Report ordini**: N/A |
@@ -65,7 +65,7 @@ Tutti gli acquisti con una carta di credito o una fattura mensile hanno un perio
 
 Tutti gli acquisti che si verificano prima della data verranno elaborati e pagati in base alla pianificazione riportata di seguito dopo che Microsoft ha raccolto i pagamenti dai clienti ed elaborato la tariffa per il Marketplace.
 
-| Evento  | Data (UTC)  | Visibilità del partner: report del centro per i partner  |  Visibilità del partner: analisi del centro per i partner\*  |
+| event  | Data (UTC)  | Visibilità del partner: report del centro per i partner  |  Visibilità del partner: analisi del centro per i partner\*  |
 | --- | --- | --- | --- |
 | Transazione o mese di utilizzo | 8/1/2019 – 8/31/2019 | N/D | **Report sull'utilizzo**: nuovo consumo visualizzato (aggiornato ogni quattro ore)<br>**Report ordini**: N/A |
 | Fine termine (mese) | 8/31/2019 | N/D | **Report sull'utilizzo**: consumo finale mensile visualizzato<br>**Report ordini**: N/A |
@@ -88,16 +88,16 @@ Microsoft effettuerà il recupero di tutti i pagamenti già effettuati utilizzan
 
 Di seguito è riportato un esempio di pianificazione:
 
-| Evento | Data approssimativa | Visibilità del partner |
+| event | Data approssimativa | Visibilità del partner |
 | --- | --- | --- |
 | Data di pagamento di esempio | 10/15/2020 | Contrassegnato come **inviato** nella cronologia delle transazioni e nella sezione pagamenti nel dashboard dei pagamenti |
 | <font color="red">Se il cliente non paga Microsoft</font> | 12/2/2020 – 12/5/2020 | Nessuna modifica, come sopra |
-| Il cliente riceve il primo messaggio di posta elettronica in ritardo | 12/6/2020 | Nessuno |
-| Il cliente riceve messaggi di posta elettronica regolari con urgenza crescente | 12/7/2020 – 1/31/2021 | Nessuno |
+| Il cliente riceve il primo messaggio di posta elettronica in ritardo | 12/6/2020 | nessuno |
+| Il cliente riceve messaggi di posta elettronica regolari con urgenza crescente | 12/7/2020 – 1/31/2021 | nessuno |
 | È probabile che il server di pubblicazione riceva una notifica di scrittura | 1/7/2021 | Notifica tramite posta elettronica inviata al server di pubblicazione a cui il cliente non ha ancora inviato il pagamento. Sono inclusi ID transazione e importo in dollari. |
-| Il cliente riceve l'avviso di terminazione | 2/1/2021 | Nessuno |
+| Il cliente riceve l'avviso di terminazione | 2/1/2021 | nessuno |
 | Il processo di raccolta termina/Funds viene scritto | 2/15/2021 | Notifica tramite posta elettronica inviata al server di pubblicazione. i fondi sono stati scritti. Sono inclusi ID transazione e importo in dollari. |
-| Il pagamento viene sottratto | 3/1/2021 | Il server di pubblicazione visualizzerà una transazione negativa nell'istruzione per il pagamento del partner Center |
+| Il pagamento viene sottratto | 1/3/2021 | Il server di pubblicazione visualizzerà una transazione negativa nell'istruzione per il pagamento del partner Center |
 | Il pagamento è stato trattenuto | 3/15/2021 | I pagamenti futuri verranno visualizzati nell'istruzione per il pagamento del centro per i partner. Il server di pubblicazione non riceverà alcun pagamento finché il saldo non sarà più negativo.  |
 |||
 

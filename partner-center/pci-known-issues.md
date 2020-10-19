@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Per informazioni sui problemi noti associati ai report di partner Center Insights (PCI), vedere.
+description: Per informazioni sui problemi noti associati ai report di partner Center Insights (PCI), vedere. Le informazioni possono includere problemi di rendering noti o limitazioni dei report.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d54f381fcd296b4e526cc4bcd9e977c34b6599c2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f098058f5ddd00de9633633d9bcc0fdd8502e538
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436860"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175250"
 ---
 # <a name="known-issues-with-partner-center-insights"></a>Problemi noti relativi a partner Center Insights
 

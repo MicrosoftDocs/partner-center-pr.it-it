@@ -1,7 +1,7 @@
 ---
 title: Visualizza i dettagli relativi a incentivi e programmi
 ms.topic: article
-ms.date: 08/17/2020
+ms.date: 10/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Utilizzare queste pagine per visualizzare, gestire ed esportare i dettagli relativi a pagamenti e guadagni, nonché lo stato del programma e la cronologia completa delle transazioni.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 0abc7235c091620650d3288ef228a3d009c016e0
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406344"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198087"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Visualizza, Gestisci ed Esporta i dettagli del programma incentives
 
@@ -76,7 +76,7 @@ Per accedere alla **panoramica degli incentivi**:
 >Vedere la tabella seguente per altre informazioni sui diversi Stati di registrazione indicati nella colonna **stato** .
 
 
-| **Status**         | **Viene visualizzato quando** |
+| **Stato**         | **Viene visualizzato quando** |
 |:------------------------------------|:------------------|
 | Azione richiesta  | Il partner ha accettato un invito a iscriversi a un programma di incentivi, ma potrebbe dover aggiornare le informazioni bancarie o fiscali. Vedere la colonna **azioni necessarie** per i passaggi successivi o i collegamenti per aggiornare le informazioni bancarie o fiscali nel centro per i partner. |
 | Non disponibile  | Il programma di incentivazione specifico non è più disponibile nel sistema di incentivi. |
@@ -198,17 +198,23 @@ Questa opzione consente di scaricare ogni elemento della riga di acquisizione vi
 >- **lastPaymentCurrency**  La valuta in cui è stato ricevuto il pagamento più recente, in tutte le MPNs a cui il partner attualmente connesso ha accesso. Se non viene ricevuto alcun pagamento, la valuta dell'ultimo pagamento sarà di dollari statunitensi.
 >- **earningAmountInLastPaymentCurrency**  Importo guadagnato nell'ultima valuta di pagamento.
 
+Nella tabella seguente sono elencati i codici motivo per le rettifiche e le relative descrizioni.
+
+|**Codice motivo**   |**Descrizione**   |
+|------------------|:-------------------------------------|
+| Conformità AR | Regolazione che riduce i guadagni quando le fatture Microsoft non vengono pagate nel tempo dal partner. |
+| Rollover co-op | Regolazione che trasferisce i guadagni della co-op a un altro periodo oppure converte i guadagni della co-op per lo sconto. |
+| Regolazione Ops | Regolazione che corregge gli errori di calcolo del sistema Microsoft. |
+| Regolazione Ops Microsoft calcolo non corretto | Regolazione che corregge i calcoli errati. |
+| Regolazione Ops Microsoft registrazione non corretta | Regolazione degli errati calcoli relativi alla registrazione. |
+| Mapping partner (sottoscrizione) MCI/CSP | Regolazione che corregge il errato allineamento della sottoscrizione. |
+| Eccezione dei criteri | Regolazione che sostituisce una regola di programma.  |
+| Guadagni del periodo precedente | Rettifica per i guadagni al di fuori del periodo di guadagno corrente. |
+
+La tabella seguente elenca i campi visualizzati nella pagina di esportazione della cronologia delle transazioni e le relative descrizioni.
 
 |**Nome colonna**   |**Descrizione**   |
 |------------------|:-------------------------------------|
-| Conformità AR | Regolazione che riduce i guadagni quando le fatture Microsoft non vengono pagate nel tempo dal partner |
-| Rollover co-op | Regolazione che trasferisce i guadagni della co-op a un altro periodo o converte i guadagni della co-op per lo sconto |
-| Regolazione Ops Microsoft calcolo non corretto | Regolazione che corregge i calcoli errati |
-| Regolazione Ops Microsoft registrazione non corretta | Regolazione degli errati calcoli relativi alla registrazione |
-| Eccezione dei criteri | Regolazione che sostituisce una regola di programma  |
-| Regolazione Ops | Regolazione che corregge gli errori di calcolo del sistema Microsoft |
-| Guadagni del periodo precedente | Rettifica per i guadagni al di fuori del periodo di guadagno corrente |
-| Mapping partner (sottoscrizione) MCI/CSP | Regolazione che corregge il errato allineamento della sottoscrizione |
 |customerId   |Identificatore del cliente   |
 |customerName   |Nome del cliente della transazione   |
 |earningAmount   |Accumulo di quantità nella valuta di transazione originale   |

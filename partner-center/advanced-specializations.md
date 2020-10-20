@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Potenzia il tuo profilo aziendale nella directory dei partner. Scopri come ottenere specializzazioni avanzate insieme alle tue competenze in oro/argento.
+description: Potenzia il tuo profilo aziendale nella directory dei partner Microsoft. Scopri come ottenere specializzazioni avanzate insieme alle tue competenze in oro e argento.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d1dd109f7a6966c288e34171fbbcd42573d8fca
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100751"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198077"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Ottieni una specializzazione avanzata per dimostrare le competenze e i clienti 
+# <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>Ottieni una specializzazione avanzata per presentare le competenze
 
 Molti partner che hanno ottenuto una [competenza Gold](learn-about-competencies.md) in un'area chiave quindi possono ottenere una specializzazione avanzata.
 

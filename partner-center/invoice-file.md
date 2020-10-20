@@ -1,5 +1,5 @@
 ---
-title: Informazioni sui campi nelle fatture di fatturazione
+title: Informazioni sulle fatture di fatturazione del centro per i partner
 ms.topic: article
 ms.date: 05/18/2020
 description: Comprendere i campi del file di fattura per la fatturazione del centro per i partner. le informazioni includono campi e definizioni per tutti i campi della fattura e i campi con addebito unico.
@@ -7,14 +7,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 634dc8c9f1d21b62aa0a7e75eb0d31742cd17729
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175333"
+ms.locfileid: "92198007"
 ---
-# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Fatture di fatturazione per il centro per i partner: informazioni su come leggere i campi fatturazione e costo singolo
+# <a name="understand-partner-center-billing-invoice-fields"></a>Informazioni sui campi fattura del centro per i partner
 
 **Ruoli appropriati**
 

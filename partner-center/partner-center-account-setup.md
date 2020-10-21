@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999265"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197997"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gestisci il tuo account del Centro per i partner: profili aziendali, informazioni bancarie, ruoli, autorizzazioni e altro ancora
 
@@ -53,7 +53,7 @@ Nel Centro per i partner gli account vengono attualmente gestiti in due diverse 
 >[!NOTE]
 >Per accedere a **Impostazioni partner** o **Impostazioni sviluppatore**, devi accedere al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner, seleziona l'opzione **Impostazioni** (icona a forma di ingranaggio) nell'angolo in alto a destra dello schermo. Puoi quindi selezionare **Impostazioni partner** o **Impostazioni sviluppatore** dal menu a discesa.
 
-:::image type="content" source="images/accountsettings/account1.png" alt-text="Impostazioni account":::
+:::image type="content" source="images/accountsettings/account1.png" alt-text="Menu dei programmi a cui si è iscritti":::
 
 I partner possono visualizzare l'opzione per la gestione di **Impostazioni partner** e/o **Impostazioni sviluppatore** a seconda che la loro azienda sia iscritta o meno ai programmi corrispondenti. L'opzione delle impostazioni è disponibile solo se l'azienda è iscritta ad almeno un programma associato all'impostazione corrispondente.
 
@@ -85,11 +85,11 @@ Le opzioni di **Impostazione partner** saranno diverse da quelle di **Impostazio
 
 **Opzioni di Impostazioni partner**:
 
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="Opzioni partner":::
+:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="Menu dei programmi a cui si è iscritti":::
 
 **Opzioni di Impostazioni sviluppatore**:
 
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="Opzioni sviluppatore":::
+:::image type="content" source="images/accountsettings/devoptions.png" alt-text="Menu dei programmi a cui si è iscritti":::
 
 ## <a name="enrolling-in-programs"></a>Iscrizione ai programmi
 
@@ -108,7 +108,7 @@ Per altre informazioni sull'iscrizione ai programmi del Centro per i partner, ve
 
 Puoi far parte di più di un account. Se fai parte di più account, potrai visualizzare il controllo di selezione account nel menu di spostamento a sinistra. Se selezioni il controllo di selezione account, tutti gli account di cui sei membro verranno visualizzati in un elenco. Puoi selezionare uno di questi account e accedervi per visualizzare tutti i programmi e le informazioni che lo riguardano. Se non viene visualizzato un controllo di selezione account, sei membro di un solo account.
 
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="Selezione account":::
+:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="Menu dei programmi a cui si è iscritti":::
 
 ## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>Altre risorse per la gestione dell'account del Centro per i partner
 

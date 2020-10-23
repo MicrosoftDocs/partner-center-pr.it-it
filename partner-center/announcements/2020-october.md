@@ -1,6 +1,6 @@
 ---
 title: Annunci di ottobre 2020
-description: Centro per i partner Microsoft - Annunci ottobre 2020
+description: Annunci di ottobre 2020 relativi a nuovi mercati e nuove funzionalità, promozioni, offerte o modifiche a offerte esistenti del Centro per i partner Microsoft.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,19 +8,134 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/05/2020
-ms.openlocfilehash: 55aba7d13e781cb4edf65f086e2240c798a5d5fe
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.date: 10/14/2020
+ms.openlocfilehash: 6cba6a782b97e5dc1d17737d1f831d3fc2f4bbaf
+ms.sourcegitcommit: 5aafa34f70074996056a07bc50a75cd85ca77593
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844665"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92098480"
 ---
 # <a name="october-2020-announcements"></a>Annunci di ottobre 2020
 
 Questa pagina illustra in dettaglio gli annunci per il Centro per i partner Microsoft di ottobre 2020.
 
 Annunci 2020:  [Marzo](2020-march.md) | [Aprile](2020-april.md) | [Maggio](2020-may.md) | [Giugno](2020-june.md) | [Luglio](2020-july.md) | [Agosto](2020-august.md) | [Settembre](2020-september.md) | Ottobre
+
+
+________________
+
+## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>Aggiornamento di novembre 2020: Guida all'autorizzazione per i servizi online e il canale software
+
+### <a name="categories"></a>Categorie
+
+- Data: 14-10-2020
+- Funzionalità
+ 
+### <a name="summary"></a>Riepilogo 
+Aggiornamenti alla Guida all'autorizzazione in base al Contratto Microsoft Partner.
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Fatturazione diretta, provider indiretti e partner a più livelli che partecipano al programma Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Dettagli
+In conformità alla sottosezione dal titolo "Changes to the Guides" nella sezione "Notice of Changes" della parte Online Services and Software Channel Authorization del Contratto Microsoft Partner, Microsoft informa che è in corso l'aggiornamento della Guida all'autorizzazione per i servizi online e il canale software. Un'anteprima della guida aggiornata è [disponibile qui](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-pdf). L'aggiornamento diventerà effettivo 30 giorni dopo la data di questa comunicazione. Non è necessario intraprendere altre azioni.
+
+### <a name="next-steps"></a>Passaggi successivi
+Non sono necessarie azioni. Si tratta solo di un avviso.
+
+________________
+
+## <a name="introducing-microsoft-365-business-voice-for-non-profit-organizations"></a><a name="10"></a>Introduzione a Microsoft 365 Business Voice per organizzazioni no profit
+
+### <a name="categories"></a>Categorie
+
+- Data: 12-10-2020
+- Offerte/mercati
+ 
+### <a name="summary"></a>Riepilogo 
+
+Il 1° novembre 2020 Microsoft presenterà nuovi SKU per Microsoft 365 Business Voice per le organizzazioni no profit.
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Provider diretti, provider indiretti e rivenditori indiretti
+
+### <a name="details"></a>Dettagli
+
+Il 1° novembre 2020 Microsoft presenterà nuovi SKU per Business Voice. La suite completa sarà disponibile in Canada, Regno Unito e Stati Uniti. Business Voice (senza piano per chiamate) sarà disponibile in tutti gli altri mercati. 
+
+Microsoft 365 Business Voice è un sistema telefonico basato sul cloud e integrato in Office 365 per aziende di piccole e medie dimensioni. Con l'aggiunta di Business Voice alla sottoscrizione di Office 365 di un cliente è possibile offrire una soluzione di comunicazione e collaborazione all-in-one, che combina chiamate, chat e riunioni in un'unica applicazione, Microsoft Teams.
+
+Per informazioni dettagliate sui prezzi, vedere il listino prezzi.  
+
+I clienti degli Stati Uniti devono tenere presente che le informazioni sull'ID dell'offerta di anteprima nel listino prezzi per Microsoft 365 Business Voice (prezzi per il personale di organizzazioni no profit) non sono corrette. Il Centro per i partner correggerà la comunicazione entro metà ottobre quando sarà disponibile l'ID dell'offerta promozionale. I prezzi sono corretti.
+
+È possibile aggiungere Microsoft 365 Business Voice alle sottoscrizioni seguenti per un massimo di 300 utenti: 
+- Office 365: Business Essentials, Business Premium, A1, E1, A3 ed E3  
+- Microsoft 365: Business, A3 ed E3
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- Acquisire familiarità con il listino prezzi di anteprima e condividere queste informazioni con tutti i contatti appropriati nell'organizzazione.
+- Vedere tutti i materiali relativi alla conformità nella raccolta di risorse per gli aggiornamenti al programma Cloud Solution Provider (CSP): [Presentazione di Microsoft 365 Business VOICE per piccole e medie aziende](https://partner.microsoft.com/resources/collection/m365-voice-smb#/).
+
+________________
+
+## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-audio-conferencing-now-available-and-microsoft-365-business-voice-coming-on-november-1-2020"></a><a name="9"></a>Promozione Cloud Solution Provider (CSP) per il servizio di audioconferenza di Microsoft 365 ora disponibile e Microsoft 365 Business Voice disponibile dal 1° novembre 2020
+
+### <a name="categories"></a>Categorie
+
+- Data: 09-10-2020
+- Offerte/mercati
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Tutti i partner che eseguono transazioni tramite il programma CSP
+
+### <a name="details"></a>Dettagli
+
+Microsoft lancia due nuove promozioni CSP per i partner per promuovere l'adozione di Teams come soluzione per le riunioni. Entrambe le promozioni consentono di ridurre le problematiche associate all'aggiunta del servizio di audioconferenza a una licenza di Microsoft 365, offrendo ai clienti l'intero valore di Microsoft 365 e Teams come soluzione per le riunioni e le chiamate.
+Dal 1° ottobre 2020 al 31 marzo 2021, i clienti possono aggiungere gratuitamente il servizio di audioconferenza di Microsoft 365 come SKU aggiuntivo a una sottoscrizione di Microsoft 365 per 12 mesi.
+
+#### <a name="offer-details"></a>Dettagli dell'offerta
+
+   |**Nome offerta**|**ID offerta**|**ID materiale**|
+   |-------------------|:------|:------|
+   |Promozione per l'adozione del servizio di audioconferenza di Microsoft 365|106da677-5af6-492a-ac7f-52b3b29a9762|TJ7-00023|
+
+Dal 1° novembre 2020 al 30 aprile 2021, i rinnovi e le nuove sottoscrizioni di Microsoft 365 Business Voice con piano per chiamate e Microsoft 365 Business Voice senza piano per chiamate verranno offerti a prezzi scontati. Microsoft 365 Business Voice con piano per chiamate sarà soggetto a uno sconto del 25 percento per 12 mesi, mentre Microsoft 365 Business Voice senza piano per chiamate sarà soggetto a uno sconto del 33 percento per 12 mesi.
+
+   |**Nome offerta**|**ID offerta**|**ID materiale**|
+   |-------------------|:------|:------|
+   |Promozione per l'adozione di Microsoft 365 Business Voice|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
+   |Promozione per l'adozione di Microsoft 365 Business Voice|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
+   |Promozione per l'adozione di Microsoft 365 Business Voice|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|PZW-00020|
+   |Promozione per l'adozione di Microsoft 365 Business Voice (senza piano per chiamate)|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
+   |Promozione per l'adozione di Microsoft 365 Business Voice (senza piano per chiamate)|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
+   |Promozione per l'adozione di Microsoft 365 Business Voice (senza piano per chiamate)|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
+   |Promozione per l'adozione di Microsoft 365 Business Voice (senza piano per chiamate) per gli Stati Uniti|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
+   
+Queste promozioni interessano i clienti seguenti:
+- Tenant di clienti completamente nuovi
+- Tenant di clienti esistenti che non hanno attivato o recentemente annullato (negli ultimi 30 giorni) sottoscrizioni per qualsiasi licenza di Business Voice o del servizio di audioconferenza in CSP, Web Direct o qualsiasi altro canale commerciale Microsoft
+
+#### <a name="additional-resources"></a>Risorse aggiuntive
+
+- Per altre informazioni su Business Voice, visitare la [pagina per i partner relativa a Microsoft 365 Business Voice](https://www.microsoft.com/microsoft-365/partners/businessvoice). 
+- Per altre informazioni sulle [funzionalità di audioconferenza](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365), vedere Servizio di audioconferenza in Microsoft 365.
+- Altre informazioni su queste promozioni sono disponibili nelle [domande frequenti dei partner](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo) correlate.
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- Acquisire familiarità con le soluzioni promozionali per le riunioni e le chiamate e condividere queste informazioni con tutti i contatti appropriati nell'organizzazione.
+- Incorporare queste offerte nelle promozioni di vendita di Microsoft 365.
+- Sensibilizzare i clienti sul valore creato dall'aggiunta di Business Voice o del servizio di audioconferenza a Teams.
+
+### <a name="questions"></a>Domande?
+
+Per eventuali domande su queste offerte, contattare il rappresentante del team di account Microsoft o il supporto tecnico.
 
 ________________
 
@@ -142,10 +257,10 @@ Provider diretti, provider indiretti e rivenditori indiretti Cloud Solution Prov
 
 ### <a name="details"></a>Dettagli
 
-Microsoft è lieta di annunciare che dal 1° ottobre 2020 i piani di chiamata Microsoft sono disponibili nei nuovi mercati seguenti: Austria, Danimarca, Italia, Portogallo, Svezia e Svizzera. La nuova disponibilità geografica è stata avviata nel cloud commerciale, nei settori pubblico a livello globale e no profit e in Government Community Cloud tramite Enterprise Agreement (EA) o Enterprise Agreement Subscription (EAS), Enrollment for Education Solutions (EES), Web Direct e CSP. 
- 
-Tutte le funzionalità dei piani di chiamata Microsoft saranno disponibili per i piani per chiamate nazionali e internazionali di Microsoft, inclusi i piani nazionali da 120, 240 e 1.200 minuti per utente al mese (p/u/m) e il piano internazionale da 1.200 minuti nazionali p/u/m e 600 minuti internazionali p/u/m. 
- 
+Microsoft è lieta di annunciare che dal 1° ottobre 2020 i piani di chiamata Microsoft sono disponibili nei nuovi mercati seguenti: Austria, Danimarca, Italia, Portogallo, Svezia e Svizzera. La nuova disponibilità geografica è stata avviata nel cloud commerciale, nei settori pubblico a livello globale e no profit e in Government Community Cloud tramite Enterprise Agreement (EA) o Enterprise Agreement Subscription (EAS), Enrollment for Education Solutions (EES), Web Direct e CSP.
+
+Tutte le funzionalità dei piani per chiamate Microsoft sono disponibili per i piani per chiamate nazionali e internazionali di Microsoft, inclusi i piani nazionali da 120, 240 e 1.200 minuti per utente al mese (p/u/m) e il piano internazionale da 1.200 minuti nazionali p/u/m e 600 minuti internazionali p/u/m.
+
 I piani di chiamata Microsoft sono stati resi disponibili in precedenza nei mercati seguenti: Belgio, Canada, Francia, Germania, Irlanda, Paesi Bassi, Portorico (con disponibilità dei canali limitata a EA ed EES), Spagna, Regno Unito e Stati Uniti (con disponibilità di piani per chiamate di terze parti in Australia e Giappone).
 
 #### <a name="offer-details"></a>Dettagli dell'offerta
@@ -290,8 +405,8 @@ Per i clienti che si aspettano di continuare a usare i dispositivi Windows 7 nel
 
 #### <a name="additional-resources"></a>Risorse aggiuntive
 
-- [Pagina delle domande frequenti sul supporto per Windows 7](https://docs.microsoft.com/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
-- [Supporto per Windows 7 e app di Microsoft 365](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support)
+- [Pagina delle domande frequenti sul supporto per Windows 7](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Supporto per Windows 7 e app di Microsoft 365](/deployoffice/endofsupport/windows-7-support)
 - [Raccolta di risorse](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
 
 ### <a name="next-steps"></a>Passaggi successivi

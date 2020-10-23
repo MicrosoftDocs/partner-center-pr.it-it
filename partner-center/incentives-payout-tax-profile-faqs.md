@@ -1,19 +1,19 @@
 ---
 title: Domande frequenti su proventi da incentivi e profilo fiscale
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/22/2020
 description: Domande frequenti sugli incentivi per il pagamento e i profili fiscali. Le domande includono il motivo per cui non è possibile visualizzare i profili di pagamento e fiscali e le operazioni da eseguire.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f4335bc77acf0e73092de0441cc6254b11c62bb3
+ms.sourcegitcommit: a46ab876baf681c2fa4f9a2876d29c2ba4aad648
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175345"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "92454153"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Domande frequenti relative ai profili di pagamento e fiscali degli incentivi
 
@@ -24,8 +24,34 @@ Si applica a:
 Ruoli appropriati:
 
 - Amministratore degli incentivi
-- Amministratore fatturazione
+- Amministratore degli account
 - Amministratore globale
+
+## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Il profilo fiscale è scaduto. Com'è possibile risolvere il problema?
+
+Se un profilo fiscale è scaduto o sta per scadere, significa che è necessario aggiornare il modulo fiscale fornito a Microsoft. Per modificare i profili fiscali, attenersi alla procedura seguente:
+
+1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
+
+2. Selezionare l'icona a forma di ingranaggi per aprire il menu **Impostazioni**.
+
+3. In **Impostazioni account** selezionare **Proventi e imposte**, quindi selezionare **Profilo di pagamento e fiscale**.
+
+4. Selezionare **profilo fiscale**.
+
+5. Selezionare la colonna **Data di scadenza** , quindi passare al profilo fiscale scaduto o in scadenza.
+
+6. Selezionare **modifica** per avviare il processo di modifica del profilo fiscale.
+
+7. Aggiornare i moduli fiscali fornendo i dettagli richiesti.
+
+## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>In che modo Microsoft garantisce che le informazioni bancarie siano effettivamente quelle della società e non un account bancario personale per un dipendente?
+
+È responsabilità dell'azienda assicurarsi che il ruolo di amministratore di incentivi, che dispone delle autorizzazioni per modificare queste informazioni, venga assegnato solo ai dipendenti appropriati.
+
+## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Posso usare le stesse informazioni fiscali e bancarie per tutti i programmi incentive in Microsoft?
+
+Se la società è stata invitata a più programmi incentive, è possibile utilizzare lo stesso account di pagamento per tutti i programmi incentive oppure scegliere di disporre di diversi account di pagamento per i diversi programmi.
 
 ## <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>Perché è necessario fornire il pagamento e/o le informazioni fiscali?
 

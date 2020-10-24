@@ -1,83 +1,72 @@
 ---
 title: Vantaggi dell'adesione a Microsoft Partner Network
 ms.topic: article
-ms.date: 06/19/2020
+ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Scopri i vantaggi della collaborazione con Microsoft, tra cui Microsoft Action Pack, le competenze e le opzioni di programma per entrare nel mercato e vendere le tue soluzioni.
+description: Informazioni sui vantaggi di Microsoft Partner Network (MPN), tra cui Microsoft Action Pack, le competenze e le opzioni di programma per accedere al mercato e vendere le soluzioni.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53cf9976ffef5254499d03215782ad428a067189
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0678a7f59620c951fc7595f0ff7437d64a433a05
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114610"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197987"
 ---
-# <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a><span data-ttu-id="32863-103">Diventare partner Microsoft - Vantaggi, supporto per i clienti e promozione della crescita aziendale</span><span class="sxs-lookup"><span data-stu-id="32863-103">Partner with Microsoft - discover benefits, how to help customers, & how to drive business growth</span></span>
+# <a name="partner-with-microsoft-and-discover-membership-benefits"></a><span data-ttu-id="a219f-103">Collaborare con Microsoft e scoprire i vantaggi dell'adesione</span><span class="sxs-lookup"><span data-stu-id="a219f-103">Partner with Microsoft and discover membership benefits</span></span>
 
-<span data-ttu-id="32863-104">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="32863-104">**Appropriate roles**</span></span>
+<span data-ttu-id="a219f-104">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="a219f-104">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="32863-105">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="32863-105">Global admin</span></span>
-- <span data-ttu-id="32863-106">Amministratore dei partner MPN</span><span class="sxs-lookup"><span data-stu-id="32863-106">MPN partner admin</span></span>
-- <span data-ttu-id="32863-107">Amministratore utenti</span><span class="sxs-lookup"><span data-stu-id="32863-107">User admin</span></span>
-- <span data-ttu-id="32863-108">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="32863-108">Admin agent</span></span>
+- <span data-ttu-id="a219f-105">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="a219f-105">Global admin</span></span>
+- <span data-ttu-id="a219f-106">Amministratore dei partner MPN</span><span class="sxs-lookup"><span data-stu-id="a219f-106">MPN partner admin</span></span>
+- <span data-ttu-id="a219f-107">Amministratore utenti</span><span class="sxs-lookup"><span data-stu-id="a219f-107">User admin</span></span>
+- <span data-ttu-id="a219f-108">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="a219f-108">Admin agent</span></span>
 
-<span data-ttu-id="32863-109">Quando partecipi a un programma per partner Microsoft, diventi parte di una community globale che ti connette a relazioni, informazioni approfondite, strumenti, risorse e programmi utili per sorprendere i tuoi clienti e promuovere la crescita della tua azienda.</span><span class="sxs-lookup"><span data-stu-id="32863-109">When you join a Microsoft partner program, you become part of a global community that connects you to the relationships, insights, tools, resources, and programs you need to amaze your customers and drive business growth.</span></span>
+<span data-ttu-id="a219f-109">Microsoft Partner Network (MPN) offre la gamma più ampia di prodotti del settore, oltre a opzioni di programma per la differenziazione dell'azienda, l'accesso al mercato e la vendita delle soluzioni.</span><span class="sxs-lookup"><span data-stu-id="a219f-109">The Microsoft Partner Network (MPN) gives you the widest range of products in the industry as well as program options to differentiate your business, go to market, and sell your solutions.</span></span> <span data-ttu-id="a219f-110">Aderisci gratuitamente e scegli come investire nella tua partnership con un Microsoft Action Pack, uno starter kit o una competenza.</span><span class="sxs-lookup"><span data-stu-id="a219f-110">Join at no cost, then choose how to invest in your partnership with a Microsoft action pack, starter kit, or competency.</span></span>
 
-<span data-ttu-id="32863-110">Vedi [Perché Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft) per altre informazioni sui vantaggi della collaborazione con Microsoft.</span><span class="sxs-lookup"><span data-stu-id="32863-110">See [Why Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft) for more information about the benefits of partnering with Microsoft.</span></span>
+<span data-ttu-id="a219f-111">Quando partecipi a un programma per partner Microsoft, diventi parte di una community globale che ti connette a relazioni, informazioni approfondite, strumenti, risorse e programmi utili per sorprendere i tuoi clienti e promuovere la crescita della tua azienda.</span><span class="sxs-lookup"><span data-stu-id="a219f-111">When you join a Microsoft partner program, you become part of a global community that connects you to the relationships, insights, tools, resources, and programs you need to amaze your customers and drive business growth.</span></span> <span data-ttu-id="a219f-112">Al conseguimento dei tuoi obiettivi aziendali, puoi partecipare al programma al livello adeguato alle tue esigenze per accedere a maggiori vantaggi e sviluppare la relazione con noi e gli altri partner della rete.</span><span class="sxs-lookup"><span data-stu-id="a219f-112">As you achieve your business goals, participate in the program at the level that suits your unique needs to access more benefits, and develop your relationship with us and other partners in the network.</span></span> 
 
-## <a name="join-the-microsoft-partner-network"></a><span data-ttu-id="32863-111">Partecipa a Microsoft Partner Network</span><span class="sxs-lookup"><span data-stu-id="32863-111">Join the Microsoft Partner Network</span></span>
+## <a name="join-the-microsoft-partner-network"></a><span data-ttu-id="a219f-113">Partecipa a Microsoft Partner Network</span><span class="sxs-lookup"><span data-stu-id="a219f-113">Join the Microsoft Partner Network</span></span>
 
-<span data-ttu-id="32863-112">Microsoft Partner Network ti offre la più ampia gamma di prodotti del settore, oltre a opzioni di programma per differenziare la tua azienda, entrare nel mercato e vendere le tue soluzioni.</span><span class="sxs-lookup"><span data-stu-id="32863-112">The Microsoft Partner Network gives you the widest range of products in the industry as well as program options to differentiate your business, go to market, and sell your solutions.</span></span> <span data-ttu-id="32863-113">Aderisci gratuitamente e scegli come investire nella tua partnership con un Microsoft Action Pack, uno starter kit o una competenza.</span><span class="sxs-lookup"><span data-stu-id="32863-113">Join at no cost, then choose how to invest in your partnership with a Microsoft action pack, starter kit, or competency.</span></span>
+<span data-ttu-id="a219f-114">Per aderire a Microsoft Partner Network, passa alla [pagina **Appartenenza**](https://partner.microsoft.com/membership) nel sito Web MPN e seleziona **Registra** o **Partecipa ora**.</span><span class="sxs-lookup"><span data-stu-id="a219f-114">To join the Microsoft Partner Network, go to the [**Membership** page](https://partner.microsoft.com/membership) on the MPN website and select **Enroll** or **Join now**.</span></span>
 
-<span data-ttu-id="32863-114">Un Action Pack o uno starter kit fornisce software e supporto per creare soluzioni basate su Microsoft, mentre una competenza è un'attestazione di comprovata esperienza per clienti e altri partner.</span><span class="sxs-lookup"><span data-stu-id="32863-114">An action pack or starter kit provides software and support to build Microsoft-based solutions and a competency demonstrates your proven expertise to customers and other partners.</span></span>
+## <a name="action-pack"></a><span data-ttu-id="a219f-115">Action Pack</span><span class="sxs-lookup"><span data-stu-id="a219f-115">Action Pack</span></span>
 
-<span data-ttu-id="32863-115">Per altre informazioni su Microsoft Partner Network (MPN), visita il [sito Web MPN](https://partner.microsoft.com/commercial).</span><span class="sxs-lookup"><span data-stu-id="32863-115">For more information about the Microsoft Partner Network (MPN), visit the [MPN website](https://partner.microsoft.com/commercial).</span></span>
+<span data-ttu-id="a219f-116">Action Pack offre software, supporto e vantaggi per le aziende che vogliono avviare, costruire e veder crescere il rapporto con Microsoft in un mondo sempre più incentrato sul cloud e sui dispositivi mobili.</span><span class="sxs-lookup"><span data-stu-id="a219f-116">Action Pack offers software, support, and benefits for businesses that want to begin, build, and grow their Microsoft practice in a cloud-first, mobile-first world.</span></span>
 
-### <a name="how-to-join"></a><span data-ttu-id="32863-116">Come aderire</span><span class="sxs-lookup"><span data-stu-id="32863-116">How to join</span></span>
+<span data-ttu-id="a219f-117">Per altre informazioni su Action Pack, consulta le risorse seguenti:</span><span class="sxs-lookup"><span data-stu-id="a219f-117">Review the resources below to learn more about Action Pack:</span></span>
 
-<span data-ttu-id="32863-117">Per aderire a Microsoft Partner Network, passa alla [pagina **Appartenenza**](https://partner.microsoft.com/membership) nel sito Web MPN e seleziona **Registra** o **Partecipa ora**.</span><span class="sxs-lookup"><span data-stu-id="32863-117">To join the Microsoft Partner Network, go to the [**Membership** page](https://partner.microsoft.com/membership) on the MPN website and select **Enroll** or **Join now**.</span></span>
+- [<span data-ttu-id="a219f-118">Microsoft Action Pack per far crescere il tuo business nel cloud</span><span class="sxs-lookup"><span data-stu-id="a219f-118">Move your cloud business forward with Microsoft Action Pack</span></span>](https://partner.microsoft.com/membership/action-pack)
 
-## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a><span data-ttu-id="32863-118">Uso personalizzato dell'appartenenza a Microsoft Partner Network</span><span class="sxs-lookup"><span data-stu-id="32863-118">Make the Microsoft Partner Network membership work for you</span></span>
-
-<span data-ttu-id="32863-119">Al conseguimento dei tuoi obiettivi aziendali, puoi partecipare al programma al livello adeguato alle tue esigenze per accedere a maggiori vantaggi e sviluppare la relazione con noi e gli altri partner della rete.</span><span class="sxs-lookup"><span data-stu-id="32863-119">As you achieve your business goals, participate in the program at the level that suits your unique needs to access more benefits, and develop your relationship with us and other partners in the network.</span></span>
-
-### <a name="action-pack"></a><span data-ttu-id="32863-120">Action Pack</span><span class="sxs-lookup"><span data-stu-id="32863-120">Action Pack</span></span>
-
-<span data-ttu-id="32863-121">Action Pack offre software, supporto e vantaggi per le aziende che vogliono avviare, costruire e veder crescere il rapporto con Microsoft in un mondo sempre più incentrato sul cloud e sui dispositivi mobili.</span><span class="sxs-lookup"><span data-stu-id="32863-121">Action Pack offers software, support, and benefits for businesses that want to begin, build, and grow their Microsoft practice in a cloud-first, mobile-first world.</span></span>
-
-<span data-ttu-id="32863-122">Per altre informazioni su Action Pack, consulta le risorse seguenti:</span><span class="sxs-lookup"><span data-stu-id="32863-122">Review the resources below to learn more about Action Pack:</span></span>
-
-- [<span data-ttu-id="32863-123">Microsoft Action Pack per far crescere il tuo business nel cloud</span><span class="sxs-lookup"><span data-stu-id="32863-123">Move your cloud business forward with Microsoft Action Pack</span></span>](https://partner.microsoft.com/membership/action-pack)
-
-- [<span data-ttu-id="32863-124">Ottenere Action Pack</span><span class="sxs-lookup"><span data-stu-id="32863-124">Get the Action Pack</span></span>](mpn-get-action-pack.md)
+- [<span data-ttu-id="a219f-119">Ottenere Action Pack</span><span class="sxs-lookup"><span data-stu-id="a219f-119">Get the Action Pack</span></span>](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    ><span data-ttu-id="32863-125">Puoi gestire l'abbonamento ad Action Pack nel Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="32863-125">You manage your Action Pack subscription in Partner Center.</span></span> <span data-ttu-id="32863-126">Se la tua azienda non è ancora passata da Partner Membership Center al Centro per i partner, leggi [Prepararsi al passaggio al Centro per i partner](prepare-pmc-pc-migration.md).</span><span class="sxs-lookup"><span data-stu-id="32863-126">If your company has not yet moved to Partner Center from Partner Membership Center, read [Prepare for your move to Partner Center](prepare-pmc-pc-migration.md)</span></span>  
+    ><span data-ttu-id="a219f-120">Puoi gestire l'abbonamento ad Action Pack nel Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="a219f-120">You manage your Action Pack subscription in Partner Center.</span></span> <span data-ttu-id="a219f-121">Se la tua azienda non è ancora passata da Partner Membership Center al Centro per i partner, leggi [Prepararsi al passaggio al Centro per i partner](prepare-pmc-pc-migration.md).</span><span class="sxs-lookup"><span data-stu-id="a219f-121">If your company has not yet moved to Partner Center from Partner Membership Center, read [Prepare for your move to Partner Center](prepare-pmc-pc-migration.md)</span></span>  
 
-- [<span data-ttu-id="32863-127">Rinnovare le offerte MPN</span><span class="sxs-lookup"><span data-stu-id="32863-127">Renew your MPN offers</span></span>](renew-mpn-offers.md)
+- [<span data-ttu-id="a219f-122">Rinnovare le offerte MPN</span><span class="sxs-lookup"><span data-stu-id="a219f-122">Renew your MPN offers</span></span>](renew-mpn-offers.md)
 
-### <a name="competencies"></a><span data-ttu-id="32863-128">Competenze</span><span class="sxs-lookup"><span data-stu-id="32863-128">Competencies</span></span>
+## <a name="competencies"></a><span data-ttu-id="a219f-123">Competenze</span><span class="sxs-lookup"><span data-stu-id="a219f-123">Competencies</span></span>
 
-<span data-ttu-id="32863-129">Dimostra la tua comprovata esperienza nella fornitura di soluzioni di qualità in uno settore di attività specializzato.</span><span class="sxs-lookup"><span data-stu-id="32863-129">Demonstrate your proven expertise in delivering quality solutions in a specialized area of business.</span></span> <span data-ttu-id="32863-130">Le competenze Microsoft sono studiate per soddisfare le esigenze dei tuoi clienti attuali ed essere riconosciute da quelli potenziali.</span><span class="sxs-lookup"><span data-stu-id="32863-130">Microsoft competencies are designed to meet your current customers' needs and be recognizable to prospective ones.</span></span> <span data-ttu-id="32863-131">Entra nell'élite dei partner Microsoft e distinguiti dal gruppo.</span><span class="sxs-lookup"><span data-stu-id="32863-131">Join the elite tier of Microsoft partners and stand out from your peers.</span></span>
+<span data-ttu-id="a219f-124">Dimostra la tua comprovata esperienza nella fornitura di soluzioni di qualità in uno settore di attività specializzato.</span><span class="sxs-lookup"><span data-stu-id="a219f-124">Demonstrate your proven expertise in delivering quality solutions in a specialized area of business.</span></span> <span data-ttu-id="a219f-125">Le competenze Microsoft sono studiate per soddisfare le esigenze dei tuoi clienti attuali ed essere riconosciute da quelli potenziali.</span><span class="sxs-lookup"><span data-stu-id="a219f-125">Microsoft competencies are designed to meet your current customers' needs and be recognizable to prospective ones.</span></span> <span data-ttu-id="a219f-126">Entra nell'élite dei partner Microsoft e distinguiti dal gruppo.</span><span class="sxs-lookup"><span data-stu-id="a219f-126">Join the elite tier of Microsoft partners and stand out from your peers.</span></span>
 
-<span data-ttu-id="32863-132">Per altre informazioni sulle competenze, consulta le risorse seguenti:</span><span class="sxs-lookup"><span data-stu-id="32863-132">Review the resources below to learn more about competencies:</span></span>
+<span data-ttu-id="a219f-127">Per altre informazioni sulle competenze, consulta le risorse seguenti:</span><span class="sxs-lookup"><span data-stu-id="a219f-127">Review the resources below to learn more about competencies:</span></span>
 
-- [<span data-ttu-id="32863-133">Partner con competenze</span><span class="sxs-lookup"><span data-stu-id="32863-133">Competency partners</span></span>](https://partner.microsoft.com/membership/competencies)
+- [<span data-ttu-id="a219f-128">Partner con competenze</span><span class="sxs-lookup"><span data-stu-id="a219f-128">Competency partners</span></span>](https://partner.microsoft.com/membership/competencies)
 
-## <a name="microsoft-partner-network-benefits-and-requirements"></a><span data-ttu-id="32863-134">Vantaggi e requisiti per Microsoft Partner Network</span><span class="sxs-lookup"><span data-stu-id="32863-134">Microsoft Partner Network benefits and requirements</span></span>
+## <a name="microsoft-partner-network-benefits-and-requirements"></a><span data-ttu-id="a219f-129">Vantaggi e requisiti per Microsoft Partner Network</span><span class="sxs-lookup"><span data-stu-id="a219f-129">Microsoft Partner Network benefits and requirements</span></span>
 
-<span data-ttu-id="32863-135">Con l'adesione a Microsoft Partner Network riceverai un set di vantaggi di base che ti aiuteranno a risparmiare tempo e denaro, sviluppando allo stesso tempo le competenze per servire meglio i clienti e creare relazioni che consentiranno alla tua azienda di esprimere tutto il suo potenziale.</span><span class="sxs-lookup"><span data-stu-id="32863-135">When you join the Microsoft Partner Network, you receive a set of core benefits that can help you save time and money while you strengthen your capabilities, better serve customers, and build connections to reach your full business potential.</span></span>
+<span data-ttu-id="a219f-130">Con l'adesione a Microsoft Partner Network riceverai un set di vantaggi di base che ti aiuteranno a risparmiare tempo e denaro, sviluppando allo stesso tempo le competenze per servire meglio i clienti e creare relazioni che consentiranno alla tua azienda di esprimere tutto il suo potenziale.</span><span class="sxs-lookup"><span data-stu-id="a219f-130">When you join the Microsoft Partner Network, you receive a set of core benefits that can help you save time and money while you strengthen your capabilities, better serve customers, and build connections to reach your full business potential.</span></span> 
 
-<span data-ttu-id="32863-136">Per altre informazioni sui vantaggi e sui requisiti di adesione alla rete, consulta le risorse seguenti:</span><span class="sxs-lookup"><span data-stu-id="32863-136">Review the resources below to learn more about network benefits and requirements:</span></span>
+<span data-ttu-id="a219f-131">Per altre informazioni sui vantaggi e sui requisiti di adesione alla rete, consulta le risorse seguenti:</span><span class="sxs-lookup"><span data-stu-id="a219f-131">Review the resources below to learn more about network benefits and requirements:</span></span>
 
-- [<span data-ttu-id="32863-137">Vantaggi di base</span><span class="sxs-lookup"><span data-stu-id="32863-137">Core benefits</span></span>](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-1)
-- [<span data-ttu-id="32863-138">Gestire i vantaggi MPN nel Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="32863-138">Manage your MPN benefits on Partner Center</span></span>](manage-your-partner-network-benefits.md)
-- [<span data-ttu-id="32863-139">Requisiti di base</span><span class="sxs-lookup"><span data-stu-id="32863-139">Core requirements</span></span>](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
+- [<span data-ttu-id="a219f-132">Vantaggi di base</span><span class="sxs-lookup"><span data-stu-id="a219f-132">Core benefits</span></span>](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-1)
+- [<span data-ttu-id="a219f-133">Gestire i vantaggi MPN nel Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="a219f-133">Manage your MPN benefits on Partner Center</span></span>](manage-your-partner-network-benefits.md)
+- [<span data-ttu-id="a219f-134">Requisiti di base</span><span class="sxs-lookup"><span data-stu-id="a219f-134">Core requirements</span></span>](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="next-steps"></a><span data-ttu-id="32863-140">Passaggi successivi</span><span class="sxs-lookup"><span data-stu-id="32863-140">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="a219f-135">Passaggi successivi</span><span class="sxs-lookup"><span data-stu-id="a219f-135">Next steps</span></span>
 
-[<span data-ttu-id="32863-141">Espandere le proprie attività con i partner Microsoft</span><span class="sxs-lookup"><span data-stu-id="32863-141">Grow your Microsoft partner business</span></span>](grow-your-business.md)
+- [<span data-ttu-id="a219f-136">Espandere le proprie attività con i partner Microsoft</span><span class="sxs-lookup"><span data-stu-id="a219f-136">Grow your Microsoft partner business</span></span>](grow-your-business.md)
+- <span data-ttu-id="a219f-137">[Sito Web di MPN](https://partner.microsoft.com/commercial)</span><span class="sxs-lookup"><span data-stu-id="a219f-137">[MPN website](https://partner.microsoft.com/commercial).</span></span>

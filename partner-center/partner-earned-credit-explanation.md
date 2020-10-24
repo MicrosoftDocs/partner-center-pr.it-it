@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri come viene calcolato e pagato il credito ottenuto dai partner Microsoft (PEC) per i servizi gestiti e come verificare se possiedi i requisiti richiesti.
+description: Informazioni su come viene calcolato e pagato il credito ottenuto dai partner Microsoft per i servizi gestiti e come verificare se si possiedono i requisiti necessari.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3ceb2ded6e52083ad0d74a411026558fbce2f642
-ms.sourcegitcommit: 883c332a10f51b41b72c2f3fe08bb9593b569d28
+ms.openlocfilehash: 89fce612d5756da3f9674d4170ac8c0c3a48abfe
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91852586"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175311"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Come viene calcolato e pagato il credito ottenuto dai partner
 

@@ -1,22 +1,22 @@
 ---
 title: Iscriversi al programma Cloud Solution Provider
 ms.topic: how-to
-ms.date: 10/05/2020
+ms.date: 10/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri come iscriverti al modello di vendita del programma Cloud Solution Provider (CSP) più adatto per la tua azienda, ad esempio per rivenditori indiretti o per partner con fatturazione diretta.
+description: Informazioni su come iscriversi al modello di vendita del programma Cloud Solution Provider (CSP) più adatto per l'azienda, ad esempio come rivenditore indiretto o partner con fatturazione diretta.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763332"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198097"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>Iscriversi al programma Cloud Solution Provider e creare un'azienda per soluzioni cloud redditizie
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
 **Si applica a**
 
@@ -64,7 +64,7 @@ Per altre informazioni su quanto è necessario per partecipare al programma Clou
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Iscriversi come partner con fatturazione diretta
 
-Come partner con fatturazione diretta, sei titolare della relazione completa con il cliente e con Microsoft. I requisiti per l'iscrizione come partner con fatturazione diretta sono stati aggiornati in data 31 agosto 2018. Questi nuovi requisiti ti aiuteranno ad accelerare la crescita della tua azienda con il giusto modello di iscrizione CSP e a rafforzare i rapporti con i clienti tramite servizi e supporto a valore aggiunto. 
+Come partner con fatturazione diretta, sei titolare della relazione completa con il cliente e con Microsoft. I requisiti per l'iscrizione come partner con fatturazione diretta sono stati aggiornati in data 31 agosto 2018. Questi nuovi requisiti ti aiuteranno ad accelerare la crescita della tua azienda con il giusto modello di iscrizione CSP e a rafforzare i rapporti con i clienti tramite servizi e supporto a valore aggiunto.
 
 ### <a name="minimum-requirements"></a>Requisiti minimi
 
@@ -96,5 +96,8 @@ Per informazioni sulla transizione da partner con fatturazione diretta a rivendi
 ## <a name="csp-regional-markets-and-currencies"></a>Valute e mercati locali per CSP
 
 La posizione dell'azienda determina il tuo mercato, ovvero le aree geografiche e/o i paesi in cui puoi vendere le offerte CSP. Per informazioni sulle posizioni di mercato e sulle valute, vedi [Mercati internazionali e valute del programma Cloud Solution Provider](regional-authorization-overview.md).
-Leggere attentamente [Aggiungere una nuova sede dell'ID MPN](manage-locations.md).
+Leggere [Prerequisiti per aggiungere una nuova sede per un'azienda CSP](manage-locations.md).
 
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Informazioni sul Contratto Microsoft Partner per i partner del programma CSP](microsoft-partner-agreement.md)

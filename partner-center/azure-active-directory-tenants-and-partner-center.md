@@ -4,18 +4,17 @@ ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Crea un account aziendale per collegare l'azienda al Centro per i partner. In questo modo i dipendenti dell'azienda potranno accedere al Centro per i partner.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.custom: SEOAPR.20
-Keywords: account aziendale, e-mail, tenant, tenant di Azure, creare un account, nome di dominio
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394215"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92333828"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Creare un account aziendale per collegare l'azienda al Centro per i partner
 
@@ -61,7 +60,7 @@ Il diagramma seguente illustra i passaggi da eseguire per alcuni scenari tipici:
 
 :::image type="content" source="images/onboardingAADFlow.png" lightbox="images/onboardingAADFlow.png" alt-text="Hai un account aziendale o devi crearne uno?":::
 
-Per altre informazioni sull'aggiunta di domini in Azure AD, vedi [Aggiungere o associare un dominio in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain).
+Per altre informazioni sull'aggiunta di domini in Azure AD, vedi [Aggiungere o associare un dominio in Azure AD](/azure/active-directory/active-directory-add-domain).
 
 ## <a name="about-microsoft-azure"></a>Informazioni su Microsoft Azure
 

@@ -1,22 +1,20 @@
 ---
 title: 'Fatturazione dei piani di Azure: fattura e file di riconciliazione'
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come accedere e ottieni informazioni sulla struttura dei file di fatturazione e di riconciliazione correlata alla fatturazione per il piano di Azure.
-author: LauraBrenner
-ms.author: labrenne
-Keywords: ''
-robots: ''
+author: khpavan
+ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa1d1298f0fd3650bdaa4e6fc6b602844ac199c4
-ms.sourcegitcommit: 83f9c114910282dc87b3ec22d59a8b24b1d6b368
+ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84262875"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92334033"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nuova esperienza commerciale in CSP - Fatturazione di Azure 
 
@@ -30,36 +28,35 @@ La fatturazione in base al piano di Azure è un'esperienza semplificata che prev
 
 ## <a name="summary-of-billing-essentials"></a>Riepilogo dei dati essenziali della fatturazione
 
-- **Data della fattura**: la fattura e il file di riconciliazione saranno disponibili nell'API o nel dashboard Centro per i partner entro il giorno 8 (mezzanotte UTC).
+- **Data della fattura** : la fattura e il file di riconciliazione saranno disponibili nell'API o nel dashboard Centro per i partner entro il giorno 8 (mezzanotte UTC).
 
-- **Periodo di fatturazione**: il periodo di fatturazione è allineato al mese di calendario, ad esempio 01/10-31/10, 01/11-30/11.
+- **Periodo di fatturazione** : il periodo di fatturazione è allineato al mese di calendario, ad esempio 01/10-31/10, 01/11-30/11.
 
-- **Addebiti per i periodi di servizio**: gli addebiti sono allineati al mese di calendario. Se, ad esempio, il partner a cui è stata emessa la fattura aggiunge servizi di Azure tramite un piano di Azure il 15/10 e il cliente inizia a utilizzare i servizi di Azure il 15/10, il partner riceverà la fattura/riconciliazione il giorno 08/11 per l'utilizzo del servizio da parte del cliente per il periodo 15/10-31/10. La fattura del mese successivo che verrà generata il giorno 08/12 conterrà tutti gli addebiti per il periodo di servizio 01/11-31/11.
+- **Addebiti per i periodi di servizio** : gli addebiti sono allineati al mese di calendario. Se, ad esempio, il partner a cui è stata emessa la fattura aggiunge servizi di Azure tramite un piano di Azure il 15/10 e il cliente inizia a utilizzare i servizi di Azure il 15/10, il partner riceverà la fattura/riconciliazione il giorno 08/11 per l'utilizzo del servizio da parte del cliente per il periodo 15/10-31/10. La fattura del mese successivo che verrà generata il giorno 08/12 conterrà tutti gli addebiti per il periodo di servizio 01/11-31/11.
 
-- **Termine di pagamento della fattura**: netto a 60 giorni.
+- **Termine di pagamento della fattura** : netto a 60 giorni.
 
-- **Valuta della fattura**: i partner continueranno a ricevere la fattura nella valuta assegnata del paese del cliente. Se, ad esempio, il partner a cui viene emessa la fattura si trova in Irlanda e ha clienti nel Regno Unito, in Norvegia e in Germania, il partner riceverà una fattura/riconciliazione in GBP, NOK ed EUR.
+- **Valuta della fattura** : i partner continueranno a ricevere la fattura nella valuta assegnata del paese del cliente. Se, ad esempio, il partner a cui viene emessa la fattura si trova in Irlanda e ha clienti nel Regno Unito, in Norvegia e in Germania, il partner riceverà una fattura/riconciliazione in GBP, NOK ed EUR.
 
-- **Incentivi per i partner**: pagamento a 45 giorni dalla fine del mese della fattura.
+- **Incentivi per i partner** : pagamento a 45 giorni dalla fine del mese della fattura.
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>Accedere alle fatture e ai file di riconciliazione
 
-L'amministratore globale o l'amministratore della fatturazione per l'azienda riceverà un messaggio di posta elettronica quando una fattura è pronta per la visualizzazione. 
+L'amministratore globale o l'amministratore della fatturazione per l'azienda riceverà un messaggio di posta elettronica quando una fattura è pronta per la visualizzazione.
 
-**Per accedere alla fattura e al file di riconciliazione**
+Per accedere alla fattura e al file di riconciliazione:
 
-1. Accedi al [dashboard](https://partner.microsoft.com/en-us/dashboard/) Centro per i partner.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/) Centro per i partner.
 
-2. Dal menu del Centro per i partner seleziona **Fatturazione**.
+2. Dal menu del Centro per i partner seleziona **Fatturazione** .
 
 3. Seleziona la scheda per **Ricorrente** e **Occasionale** e la valuta di tuo interesse.
 
-![fatturazione](images/azure/billing3.png)
+   :::image type="content" source="images/azure/billing3.png" alt-text="fatturazione":::
 
 4. Seleziona **Fattura** o il file **Reconciliation** (Riconciliazione).  
 
-Per visualizzare i dati della cronologia relativa alle fatture e ai file di riconciliazione, espandi la riga della cronologia di fatturazione sottostante.
-
+   Per visualizzare i dati della cronologia relativa alle fatture e ai file di riconciliazione, espandi la riga della cronologia di fatturazione sottostante.
 
 ## <a name="understanding-usage-data"></a>Informazioni sui dati di utilizzo 
 
@@ -109,7 +106,7 @@ Per visualizzare i dati della cronologia relativa alle fatture e ai file di rico
 
 5. Per altri dettagli sulla fatturazione, esamina il file di riconciliazione della fattura e il file sull'utilizzo valutato su base giornaliera.
 
-![fattura](images/azure/invoice1.png)
+   :::image type="content" source="images/azure/invoice1.png" alt-text="fatturazione":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Leggere il file di riconciliazione della fattura
 
@@ -119,11 +116,11 @@ Per visualizzare i dati della cronologia relativa alle fatture e ai file di rico
 
 3. Se non sono presenti risorse per un determinato contatore idoneo allo sconto o al credito ottenuto dai partner, il file di riconciliazione conterrà una sola riga di fatturazione e il prezzo unitario effettivo sarà il prezzo al dettaglio, ovvero il prezzo unitario.
 
-4. Se il contatore, o qualsiasi risorsa che genera tale contatore, è idoneo al **credito ottenuto dai partner per i servizi gestiti** per una parte del mese, il file di riconciliazione conterrà due righe di fatturazione. Una riga rappresenterà i giorni per i quali il contatore è idoneo e la seconda rappresenterà i giorni per i quali non lo è. 
+4. Se il contatore, o qualsiasi risorsa che genera tale contatore, è idoneo al **credito ottenuto dai partner per i servizi gestiti** per una parte del mese, il file di riconciliazione conterrà due righe di fatturazione. Una riga rappresenterà i giorni per i quali il contatore è idoneo e la seconda rappresenterà i giorni per i quali non lo è.
 
 ## <a name="read-the-daily-usage-file"></a>Leggere il file sull'utilizzo giornaliero
 
-- I contatori delle sottoscrizioni in un piano di Azure vengono valutati e cumulati su base giornaliera. 
+- I contatori delle sottoscrizioni in un piano di Azure vengono valutati e cumulati su base giornaliera.
 
 - Il **credito ottenuto dai partner per i servizi gestiti** viene determinato e applicato su base giornaliera.
 
@@ -137,22 +134,23 @@ Per visualizzare i dati della cronologia relativa alle fatture e ai file di rico
 
   - Il contatore è idoneo al **credito ottenuto dai partner per i servizi gestiti** nel periodo 08/07-31/07. Si noti che il prezzo unitario effettivo equivale al prezzo al dettaglio meno il credito ottenuto dai partner.
 
-![riconciliazione2](images/azure/pecfinal.png) 
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="fatturazione":::
 
-## <a name="invoice-in-customer-currency"></a>Fattura nella valuta del cliente 
+## <a name="invoice-in-customer-currency"></a>Fattura nella valuta del cliente
 
-I prezzi per i servizi di Azure forniti tramite un piano di Azure verranno addebitati in USD e fatturati in base alla valuta assegnata al paese del cliente. Se la valuta di fatturazione è diversa da USD, il tasso di cambio (FX) usato verrà visualizzato nell'ultima pagina della fattura. I tassi di cambio vengono determinati mensilmente e applicati alla fattura successiva. Per un elenco completo delle valute dei paesi, vedi la [nuova matrice di disponibilità delle offerte commerciali nelle varie aree geografiche e valute dei clienti](https://go.microsoft.com/fwlink/?linkid=2112354). 
+I prezzi per i servizi di Azure forniti tramite un piano di Azure verranno addebitati in USD e fatturati in base alla valuta assegnata al paese del cliente. Se la valuta di fatturazione è diversa da USD, il tasso di cambio (FX) usato verrà visualizzato nell'ultima pagina della fattura. I tassi di cambio vengono determinati mensilmente e applicati alla fattura successiva. Per un elenco completo delle valute dei paesi, vedi la [nuova matrice di disponibilità delle offerte commerciali nelle varie aree geografiche e valute dei clienti](https://go.microsoft.com/fwlink/?linkid=2112354).
 
 Microsoft userà Thomson Reuters per determinare i tassi di cambio usati per la conversione della valuta dei prezzi nella valuta di fatturazione. I tassi di cambio verranno aggiornati e saranno disponibili il giorno precedente il primo giorno del mese in cui verranno applicati.
 
-**Esempio**:  gli addebiti relativi all'utilizzo per il periodo di servizio compreso tra il 1° e il 31 agosto verranno fatturati in base al tasso di cambio pubblicato il 31 luglio. Questi addebiti verranno riportati nella fattura di settembre e il tasso di cambio sarà indicato nell'ultima pagina della fattura. 
+**Esempio** :  gli addebiti relativi all'utilizzo per il periodo di servizio compreso tra il 1° e il 31 agosto verranno fatturati in base al tasso di cambio pubblicato il 31 luglio. Questi addebiti verranno riportati nella fattura di settembre e il tasso di cambio sarà indicato nell'ultima pagina della fattura.
 
- 
-## <a name="azure-reservations"></a>Prenotazioni di Azure 
+## <a name="azure-reservations"></a>Prenotazioni di Azure
 
-Se vengono acquistate [prenotazioni di Azure](https://docs.microsoft.com/partner-center/azure-reservations) tramite un piano di Azure, inizialmente nel Centro per i partner sarà possibile scegliere solo la fatturazione una tantum. La fatturazione mensile è disponibile nel portale di Azure. Nel Centro per i partner sarà disponibile in una data successiva. 
 
-## <a name="azure-spending"></a>Spese di Azure 
+Se si acquistano [prenotazioni di Azure](azure-reservations.md) tramite un piano di Azure, è possibile scegliere una fatturazione singola o mensile.
+
+
+## <a name="azure-spending"></a>Spese di Azure
 
 L'esperienza di spesa di Azure è stata aggiornata per supportare la nuova fatturazione del piano di Azure nel Centro per i partner. Tale meccanismo consente ai partner di:
 
@@ -162,12 +160,12 @@ L'esperienza di spesa di Azure è stata aggiornata per supportare la nuova fattu
 
 Poiché il modello di fatturazione per i servizi di Azure tramite un piano di Azure riguarda un tipo di utilizzo con pagamento posticipato, per evitare di ricevere una fattura di importo maggiore del previsto, i partner possono definire un budget mensile e tenere traccia della percentuale di utilizzo. Un budget può essere applicato a un solo cliente o contemporaneamente a più clienti. 
 
-![Spese di Azure](images/azure/azurespend.png)
+:::image type="content" source="images/azure/azurespend.png" alt-text="fatturazione":::
 
-**Per altre informazioni**
+## <a name="next-steps"></a>Passaggi successivi
 
--  La modalità di calcolo del credito ottenuto dal partner (PEC) è indicata nel listino prezzi disponibile tramite il [dashboard](https://partner.microsoft.com/en-us/dashboard/) Centro per i partner (è richiesto l'accesso). 
-   
--  [Acquistare il piano di Azure](purchase-azure-plan.md)
+- Vedere come viene calcolato il credito ottenuto dai partner. Accedere al [dashboard](https://partner.microsoft.com/dashboard/) del Centro per i partner e individuare l'elenco prezzi disponibile.
 
--  [Listino prezzi per la nuova esperienza commerciale di Azure in CSP](azure-plan-price-list.md)
+- Informazioni sull'[acquisto del piano Azure](purchase-azure-plan.md)
+
+- Vedere il [listino prezzi per la nuova esperienza commerciale di Azure in CSP](azure-plan-price-list.md)

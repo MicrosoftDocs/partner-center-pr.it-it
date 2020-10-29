@@ -1,7 +1,7 @@
 ---
 title: Gestire i vantaggi derivanti dall'appartenenza a Microsoft Partner Network
-ms.topic: article
-ms.date: 09/03/2020
+ms.topic: how-to
+ms.date: 10/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Aderisci a Microsoft Partner Network (MPN) e usa il Centro per i partner per gestire i vantaggi e le offerte associati all'appartenenza che possono contribuire alla crescita della tua azienda.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee0158bfd902e1cc0a4a664b6d051a41d1e209ce
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
+ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427088"
+ms.lasthandoff: 10/24/2020
+ms.locfileid: "92523586"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gestire i vantaggi derivanti dall'appartenenza a Microsoft Partner Network nel Centro per i partner
 
@@ -43,7 +43,7 @@ Dopo aver acquistato un pacchetto di vantaggi di appartenenza, dovrai ottenere l
 
 I pacchetti di vantaggi includono allocazioni di licenze software, servizi cloud, sottoscrizioni di Visual Studio e supporto tecnico. Possono anche includere determinate risorse e offerte go-to-market e programmi correlati al mercato. Per ottenere informazioni dettagliate sulle sottoscrizioni di Action Pack, visita il sito [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Per visualizzare e gestire tutti i vantaggi dell'iscrizione, passare alla [pagina **Vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). In alternativa, puoi accedere al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner, selezionare l'[**opzione Vantaggi**] dal menu a sinistra e quindi scegliere le opzioni dei vantaggi visualizzate.  
+Per visualizzare e gestire tutti i vantaggi dell'iscrizione, passare alla [pagina **Vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). In alternativa, puoi accedere al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner, selezionare l'[ **opzione Vantaggi** ] dal menu a sinistra e quindi scegliere le opzioni dei vantaggi visualizzate.  
 
 Per attivare quasi tutti i vantaggi o scaricare le chiavi del software correlate e così via, il Centro per i partner richiede in genere che all'utente sia assegnato il ruolo di amministratore globale o amministratore partner MPN. Se non si riesce a visualizzare o ad attivare i vantaggi, rivolgersi all'amministratore globale del Centro per i partner per assicurarsi di avere le autorizzazioni appropriate. [Vedere altre informazioni sui ruoli del Centro per i partner](permissions-overview.md).
 
@@ -79,14 +79,15 @@ Per attivare quasi tutti i vantaggi o scaricare le chiavi del software correlate
 
 2. Trova la sottoscrizione che vuoi iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli della sottoscrizione.
 
-3. Per attivare una sottoscrizione di Visual Studio, seleziona un utente dall'elenco e quindi scegli **Assegna un utente**.
+3. Per attivare una sottoscrizione di Visual Studio, seleziona un utente dall'elenco e quindi scegli **Assegna un utente** .
 
    > [!IMPORTANT]  
-   > Se l'utente da assegnare non è presente nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
+   > Se l'utente da assegnare non è presente nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account** .
 
 4. Ripeti questa procedura per ogni sottoscrizione da assegnare. Gli utenti possono gestire le proprie sottoscrizioni nel portale di Visual Studio.
 
-   Puoi riassegnare le sottoscrizioni in qualsiasi momento rimuovendo un utente assegnato e quindi assegnando un altro utente.
+   >[!Note]
+   >Gli amministratori delle sottoscrizioni di Visual Studio possono riassegnare le sottoscrizioni da un sottoscrittore a un altro se sono trascorsi 90 giorni dal momento dell'assegnazione originale. Per ulteriori informazioni, vedere la guida [Programmi per i partner Microsoft](https://aka.ms/partner-benefits-use-guide).
 
 ## <a name="manage-technical-benefits"></a>Gestire i vantaggi tecnici
 
@@ -102,9 +103,9 @@ Per visualizzare i vantaggi tecnici nel Centro per i partner, seguire questa pro
 
 3. Espandere l'elenco dei vantaggi. Per iniziare a usare un vantaggio di supporto specifico, al primo utilizzo è necessario eseguire le operazioni seguenti:
 
-   - **Attivare il vantaggio tecnico.** Dopo aver espanso i dettagli di un vantaggio, selezionare **Attiva**. Attendere alcuni giorni per consentire l'elaborazione della richiesta di attivazione.
+   - **Attivare il vantaggio tecnico.** Dopo aver espanso i dettagli di un vantaggio, selezionare **Attiva** . Attendere alcuni giorni per consentire l'elaborazione della richiesta di attivazione.
 
-   - **Visualizzare e condividere l'ID di accesso e l'ID di contratto del supporto prodotti.** Dopo che la richiesta di attivazione è stata elaborata, alla successiva espansione del vantaggio tecnico verranno visualizzati i dettagli relativi a **AccessId** e **ID contratto**. È possibile che l'utente corrente o gli utenti dell'azienda debbano condividere queste informazioni la prima volta che inviano una richiesta di supporto per determinati tipi di prodotti o servizi.
+   - **Visualizzare e condividere l'ID di accesso e l'ID di contratto del supporto prodotti.** Dopo che la richiesta di attivazione è stata elaborata, alla successiva espansione del vantaggio tecnico verranno visualizzati i dettagli relativi a **AccessId** e **ID contratto** . È possibile che l'utente corrente o gli utenti dell'azienda debbano condividere queste informazioni la prima volta che inviano una richiesta di supporto per determinati tipi di prodotti o servizi.
 
 4. Dopo l'attivazione, è possibile usare i vantaggi tecnici per diversi tipi di supporto tecnico. Per inviare richieste di supporto tecnico per i servizi seguenti, leggere le istruzioni dettagliate nella pagina Vantaggi tecnici. Vedere anche i dettagli seguenti.
 
@@ -112,7 +113,7 @@ Per visualizzare i vantaggi tecnici nel Centro per i partner, seguire questa pro
 
    **Supporto tecnico (in garanzia).** Usare questo tipo di supporto tecnico quando una funzionalità è rotta o un componente non funziona nel modo previsto, ad esempio quando si riceve un messaggio di errore. Ecco alcune indicazioni:
 
-   - Esclusivamente per i partner con competenze Gold/Silver (non disponibile per i partner con sottoscrizione Action Pack), usare **Signature Cloud Support** per i **prodotti cloud**.
+   - Esclusivamente per i partner con competenze Gold/Silver (non disponibile per i partner con sottoscrizione Action Pack), usare **Signature Cloud Support** per i **prodotti cloud** .
 
    - Sia per i partner Action Pack sia per quelli con competenze Gold/Silver, usare le richieste di **supporto prodotti Microsoft** per i **prodotti locali recenti** (solo versioni correnti e precedenti).
 
@@ -136,22 +137,22 @@ Per visualizzare i vantaggi tecnici nel Centro per i partner, seguire questa pro
 
 2. Per attivare qualsiasi offerta o programma go-to-market, devi prima assegnare un contatto marketing aziendale. Questo contatto riceverà le comunicazioni di follow-up relative alle offerte go-to-market attive.
 
-3. Per aggiungere o aggiornare le informazioni relative al contatto marketing, passa alla parte superiore della pagina Go-to-market e quindi seleziona **Aggiungi**, **Aggiorna** o **Modifica**. A questo punto, esegui le operazioni seguenti:  
+3. Per aggiungere o aggiornare le informazioni relative al contatto marketing, passa alla parte superiore della pagina Go-to-market e quindi seleziona **Aggiungi** , **Aggiorna** o **Modifica** . A questo punto, esegui le operazioni seguenti:  
 
-   a. Selezionare un utente dall'elenco. Se l'utente da assegnare non è presente nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account**.
+   a. Selezionare un utente dall'elenco. Se l'utente da assegnare non è presente nell'elenco, puoi [aggiungere nuovi utenti](create-user-accounts-and-set-permissions.md) in **Impostazioni account** .
 
    b. Specifica un indirizzo e-mail per l'utente che sia diverso da quello associato all'account del Centro per i partner della tua azienda.
 
       Invieremo le istruzioni per usare l'offerta go-to-market all'indirizzo di posta elettronica del contatto marketing designato.
 
-   c.  Fornisci il numero di telefono e la lingua preferita dal contatto marketing. Dopo aver immesso queste informazioni, seleziona **Assegna utente**.
+   c.  Fornisci il numero di telefono e la lingua preferita dal contatto marketing. Dopo aver immesso queste informazioni, seleziona **Assegna utente** .
 
-4. Dopo aver aggiornato il contatto marketing, trova l'offerta go-to-market che vuoi iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli dell'offerta. L'elenco visualizza ogni tipo di offerta disponibile sotto la dicitura Vantaggio, ad esempio **Silver Core**, **Gold Core** o **ISV Co-sell ready** (pronto per il co-selling con ISV).
+4. Dopo aver aggiornato il contatto marketing, trova l'offerta go-to-market che vuoi iniziare a usare e quindi seleziona la freccia verso il basso all'estrema destra della riga per espandere i dettagli dell'offerta. L'elenco visualizza ogni tipo di offerta disponibile sotto la dicitura Vantaggio, ad esempio **Silver Core** , **Gold Core** o **ISV Co-sell ready** (pronto per il co-selling con ISV).
 
 5. Seleziona **Attiva** per attivare l'offerta.
 
    > [!NOTE]
-   >Per inviare le istruzioni al contatto marketing assegnato e attivare un'offerta go-to-market, possono essere necessari alcuni giorni. Dopo l'attivazione dell'offerta, la pagina Go-to-market risulterà modificata. Nella colonna **Stato** l'offerta verrà modificata in **Attiva**. Nella colonna **Scadenza** potrai visualizzare la data di scadenza dell'offerta. L'offerta può essere usata fino alla data di scadenza. Per altre informazioni, fai riferimento ai [diversi tipi di risorse, offerte e vantaggi go-to-market](mpn-learn-about-go-to-market-benefits.md) disponibili.  
+   >Per inviare le istruzioni al contatto marketing assegnato e attivare un'offerta go-to-market, possono essere necessari alcuni giorni. Dopo l'attivazione dell'offerta, la pagina Go-to-market risulterà modificata. Nella colonna **Stato** l'offerta verrà modificata in **Attiva** . Nella colonna **Scadenza** potrai visualizzare la data di scadenza dell'offerta. L'offerta può essere usata fino alla data di scadenza. Per altre informazioni, fai riferimento ai [diversi tipi di risorse, offerte e vantaggi go-to-market](mpn-learn-about-go-to-market-benefits.md) disponibili.  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Annullare un vantaggio o un'offerta dell'abbonamento
 

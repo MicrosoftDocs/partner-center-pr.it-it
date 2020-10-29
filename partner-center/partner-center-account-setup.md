@@ -8,13 +8,13 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/02/2020
-ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.date: 10/19/2020
+ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197997"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333933"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gestisci il tuo account del Centro per i partner: profili aziendali, informazioni bancarie, ruoli, autorizzazioni e altro ancora
 
@@ -42,16 +42,16 @@ Per vedere a quali programmi puoi accedere nel Centro per i partner:
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 2. Guarda il riquadro di spostamento a sinistra. Verranno visualizzate le opzioni associate ai programmi a cui sei iscritto.
 
-Ecco un esempio. Si supponga che un utente possa accedere a tre programmi nel dashboard Centro per i partner: il programma **MPN**, il programma **Segnalazioni** e il programma **Marketplace commerciale**. Quando accede al dashboard Centro per i partner, vedrà questi tre programmi sul lato sinistro dello schermo.
+Ecco un esempio. Si supponga che un utente possa accedere a tre programmi nel dashboard Centro per i partner: il programma **MPN** , il programma **Segnalazioni** e il programma **Marketplace commerciale** . Quando accede al dashboard Centro per i partner, vedrà questi tre programmi sul lato sinistro dello schermo.
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Menu dei programmi a cui si è iscritti":::
 
 ## <a name="account-management"></a>Gestione degli account
 
-Nel Centro per i partner gli account vengono attualmente gestiti in due diverse sezioni: **Impostazioni partner** e **Impostazioni sviluppatore**.
+Nel Centro per i partner gli account vengono attualmente gestiti in due diverse sezioni: **Impostazioni partner** e **Impostazioni sviluppatore** .
 
 >[!NOTE]
->Per accedere a **Impostazioni partner** o **Impostazioni sviluppatore**, devi accedere al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner, seleziona l'opzione **Impostazioni** (icona a forma di ingranaggio) nell'angolo in alto a destra dello schermo. Puoi quindi selezionare **Impostazioni partner** o **Impostazioni sviluppatore** dal menu a discesa.
+>Per accedere a **Impostazioni partner** o **Impostazioni sviluppatore** , devi accedere al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner, seleziona l'opzione **Impostazioni** (icona a forma di ingranaggio) nell'angolo in alto a destra dello schermo. Puoi quindi selezionare **Impostazioni partner** o **Impostazioni sviluppatore** dal menu a discesa.
 
 :::image type="content" source="images/accountsettings/account1.png" alt-text="Menu dei programmi a cui si è iscritti":::
 
@@ -75,19 +75,19 @@ Di seguito è riportato un elenco parziale dei programmi disponibili e della cor
 
 ### <a name="locate-your-mpn-id"></a>Individuare l'ID MPN
 
-Sia i partner che gli sviluppatori devono usare l'ID MPN per operazioni come la registrazione dei ticket di supporto. Per gli sviluppatori, l'ID MPN si trova nella pagina dei dettagli **Impostazioni account**.
+Sia i partner che gli sviluppatori devono usare l'ID MPN per operazioni come la registrazione dei ticket di supporto. Per gli sviluppatori, l'ID MPN si trova nella pagina dei dettagli **Impostazioni account** .
 
-Per i partner invece l'ID MPN si trova nella pagina **Profilo partner**.
+Per i partner invece l'ID MPN si trova nella pagina **Profilo partner** .
 
 ### <a name="see-partner-and-developer-settings"></a>Vedi le impostazioni partner e sviluppatore
 
-Le opzioni di **Impostazione partner** saranno diverse da quelle di **Impostazioni sviluppatore**. Di seguito sono riportati alcuni screenshot di esempio per ogni set di opzioni. Se hai accesso ad altri programmi, è possibile che siano visibili anche opzioni diverse da quelle degli screenshot di esempio illustrati.
+Le opzioni di **Impostazione partner** saranno diverse da quelle di **Impostazioni sviluppatore** . Di seguito sono riportati alcuni screenshot di esempio per ogni set di opzioni. Se hai accesso ad altri programmi, è possibile che siano visibili anche opzioni diverse da quelle degli screenshot di esempio illustrati.
 
-**Opzioni di Impostazioni partner**:
+**Opzioni di Impostazioni partner** :
 
 :::image type="content" source="images/accountsettings/partneroptions.png" alt-text="Menu dei programmi a cui si è iscritti":::
 
-**Opzioni di Impostazioni sviluppatore**:
+**Opzioni di Impostazioni sviluppatore** :
 
 :::image type="content" source="images/accountsettings/devoptions.png" alt-text="Menu dei programmi a cui si è iscritti":::
 
@@ -126,6 +126,5 @@ Se sei iscritto a programmi come il programma MPN o Cloud Solution Provider (CSP
 |Iscriversi al Centro per i partner come fornitore del pannello di controllo|[Iscriversi al Centro per i partner come fornitore del pannello di controllo](enroll-as-cpv.md)|
 |Associare l'account Microsoft Learn nel Centro per i partner|[Associare l'account Microsoft Learn nel Centro per i partner](ms-learn-associate.md)|
 |Essere certo che la tua azienda sia sul mercato in modo che i clienti possono trovarla   |[Creare un profilo business](create-a-marketing-profile.md)|
-|Organizzare il catalogo in modo che i prodotti più importanti siano all'inizio dell'elenco   |[Personalizzare il catalogo](customize-the-catalog.md)|
 |Rimanere aggiornato sui prezzi e sulle offerte correnti   |[Prezzi e offerte](pricing-and-offers.md)|
-|API: Verificare l'ID MPN di un partner|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]
+|API: Verificare l'ID MPN di un partner|[Verificare l'ID MPN di un partner](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)

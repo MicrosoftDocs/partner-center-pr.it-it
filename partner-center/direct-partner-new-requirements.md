@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 04/27/2020
-ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.date: 10/09/2020
+ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366855"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795775"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisiti necessari per l'iscrizione come partner con fatturazione diretta CSP
 
@@ -32,9 +32,10 @@ Come partner con fatturazione diretta, sei titolare della relazione completa con
 |--------------------------------|--------------------------------------------------------------|
 |**ID MPN**   |ID di Microsoft Partner Network (MPN) attivo per la sede della tua azienda.    |
 |**Verifica dell'autenticità**   |L'autorità di accettare e firmare contratti legali per conto della tua organizzazione.|
+|**Ricavi**|A partire da gennaio 2021 gennaio, i partner iscritti come partner di fatturazione diretta dovranno avere sottoposto a transazioni almeno 300K USD nei ricavi del programma Cloud Solution Provider a livello di account globale del partner nei 12 mesi precedenti.| 
 |**Supporto tecnico**   |La possibilità di fornire il primo livello di supporto per il prodotto cloud ai clienti. <br/>Un piano di supporto Microsoft, tra Supporto avanzato per i partner (ASfP, Advanced Support for Partners) o Supporto tecnico Premier per i partner (PSfP, Premier Support for Partners), in base alle tue esigenze. [Confronta i piani di supporto](https://partner.microsoft.com/support/partnersupport).<br/> IMPORTANTE: prima di acquistare un piano di supporto, verrai sottoposto a una verifica della tua situazione creditizia. Se la verifica ha esito positivo, riceverai un'e-mail. |
 |**Servizio gestito**   |Almeno un servizio gestito, servizio di proprietà intellettuale o soluzione applicativa al cliente. Per altre informazioni, vedi l’argomento relativo all’aggiunta di [servizi gestiti](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
-|**Crediti** |L'infrastruttura organizzativa per la gestione della fatturazione e del provisioning dei clienti.
+|**Crediti** |L'infrastruttura organizzativa per la gestione della fatturazione e del provisioning dei clienti.|
 
 ### <a name="verify-direct-bill-eligibility"></a>Verifica dell'idoneità per la fatturazione diretta
 

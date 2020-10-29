@@ -1,25 +1,25 @@
 ---
-title: Confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente
-ms.topic: article
-ms.date: 05/05/2020
+title: Confermare l'accettazione del Contratto del cliente Microsoft da parte di un cliente
+description: Scopri come confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente. Questa operazione potrebbe essere necessaria per ordinare prodotti e servizi Microsoft per i clienti.
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Scopri come confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente. Questa operazione potrebbe essere necessaria per ordinare prodotti e servizi Microsoft per i clienti.
-author: LauraBrenner
-ms.author: labrenne
-keywords: cliente, clienti, consenso, contratto cliente Microsoft, Contratto del cliente Microsoft, modelli di contratto del cliente
+author: aarzh-AaronZhang
+ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d45f04c8ee1a8d8715f5c6484598ecaca83b1f1
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.date: 06/30/2020
+ms.openlocfilehash: aacca72e9af45b2777364734c2b07dbe8101989d
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908154"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92333918"
 ---
-# <a name="overview-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Panoramica: Confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente
+# <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Metodi aggiornati per confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente
 
 **Si applica a**
+
 -  Centro per i partner
 
 **Ruoli appropriati**
@@ -48,72 +48,86 @@ In qualità di partner, devi ottenere l'accettazione del Contratto del cliente M
 
 - Data di accettazione
 
-I partner con fatturazione diretta e i provider indiretti devono confermare che un cliente ha accettato il Contratto del cliente Microsoft durante l'esecuzione della transazione tramite il Centro per i partner o la relativa API. La conferma è *obbligatoria*.
+I partner con fatturazione diretta e i provider indiretti devono confermare che un cliente ha accettato il Contratto del cliente Microsoft durante l'esecuzione della transazione tramite il Centro per i partner o la relativa API. La conferma è *obbligatoria* .
 
 Se non viene fornita la conferma per un determinato cliente:
 
--    Non sarai in grado di creare nuovi ordini per il cliente.
+- Non sarai in grado di creare nuovi ordini per il cliente.
 
--    Non sarai in grado di modificare il numero di postazioni degli abbonamenti esistenti basati sulle postazioni per il cliente.
+- Non sarà possibile modificare il numero di licenze degli abbonamenti esistenti basati su licenze per il cliente.
 
-La conferma dell'accettazione da parte del cliente può essere eseguita tramite il Centro per i partner o la relativa API. Per eseguire questa operazione tramite l'API del Centro per i partner, vedi i seguenti argomenti: 
+La conferma dell'accettazione da parte del cliente può essere eseguita tramite il Centro per i partner o la relativa API. Per eseguire questa operazione tramite l'API del Centro per i partner, vedi i seguenti argomenti:
 
--   [Ottenere la conferma del consenso del cliente](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-consent)
+- [Ottenere la conferma del consenso del cliente](/partner-center/develop/get-confirmation-of-customer-consent)
 
--   [Ottenere i metadati del contratto](https://docs.microsoft.com/partner-center/develop/get-agreement-metadata)
+- [Ottenere i metadati del contratto](/partner-center/develop/get-agreement-metadata)
 
--   [Confermare il consenso del cliente](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent)
-
+- [Confermare il consenso del cliente](/partner-center/develop/confirm-customer-consent)
 
 Questo vale sia per gli ambienti di produzione che per quelli sandbox.
 
-## <a name="confirming-customer-acceptance-in-partner-center"></a>Conferma dell'accettazione da parte di un cliente nel Centro per i partner
+## <a name="confirm-customer-acceptance-for-a-new-customer"></a>Confermare l'accettazione da parte di un nuovo cliente
 
-### <a name="confirm-customer-acceptance-for-a-new-customer"></a>Confermare l'accettazione da parte di un nuovo cliente
+Usa la procedura seguente per confermare l'accettazione da parte del cliente durante la creazione di un nuovo tenant cliente nel Centro per i partner. Devi essere un agente amministratore o di vendita per eseguire questa operazione.
 
-Usa la procedura seguente per confermare l'accettazione da parte del cliente durante la creazione di un nuovo tenant cliente nel Centro per i partner. Tieni presente che devi essere un agente amministratore o di vendita per eseguire questa operazione.
+1. Seleziona **Clienti** , quindi **Nuovo cliente** e infine **Info account** .
 
-1. Seleziona **Clienti**, quindi **Nuovo cliente** e infine **Info account**.
-2. Immetti le informazioni nei campi **Società** e **Contatto principale**.
+2. Immetti le informazioni nei campi **Società** e **Contatto principale** .
 
-![Informazioni sulla società](images/mca/mca1.png)
+   :::image type="content" source="images/mca/mca1.png" alt-text="Informazioni sulla società":::
 
 3. In **Microsoft customer agreement** (Contratto del cliente Microsoft) seleziona **The customer has accepted the latest Microsoft customer agreement** (Il cliente ha accettato il Contratto del cliente Microsoft più recente).
+
 4. In **Agreement acceptance date** (Data di accettazione del contratto) immetti la data appropriata. Non puoi impostare questo campo su una data futura.
+
 5. Immetti i dettagli dell'utente che ha fornito l'accettazione.
 
-![Aggiunta della data di accettazione](images/mca/MCA3.png)
+   :::image type="content" source="images/mca/MCA3.png" alt-text="Informazioni sulla società":::
 
-Per impostazione predefinita, vengono visualizzate le informazioni utente relative al contatto principale. Se queste informazioni non sono corrette, fai clic su **Aggiorna**, quindi riempi i campi **Nome**, **Cognome**, **Indirizzo e-mail** e **Numero di telefono* (facoltativo) della persona che ha accettato il contratto.
+   Per impostazione predefinita, vengono visualizzate le informazioni utente relative al contatto principale. Se queste informazioni non sono corrette, fai clic su **Aggiorna** , quindi riempi i campi **Nome** , **Cognome** , **Indirizzo e-mail** e * *Numero di telefono* (facoltativo) della persona che ha accettato il contratto.
 
 6. Scegli **Avanti** per continuare con i passaggi rimanenti per la creazione del tenant del cliente.
 
-### <a name="confirm-customer-acceptance-for-an-existing-customer"></a>Confermare l'accettazione da parte di un cliente esistente
+## <a name="confirm-customer-acceptance-for-an-existing-customer"></a>Confermare l'accettazione da parte di un cliente esistente
 
 Devi essere un agente amministratore o di vendita per eseguire questa operazione.
 
 1. Seleziona **Clienti** e quindi individua e seleziona il cliente che vuoi visualizzare.
-2. Seleziona **Informazioni sull'account**.
-3. In **Microsoft customer agreement** (Contratto del cliente Microsoft) fai clic su **Aggiorna**.
 
-![Aggiornamento/Aggiornare](images/mca/mca4.png)
+2. Seleziona **Informazioni sull'account** .
 
-4. Riempi i campi **Nome**, **Cognome**, **Indirizzo e-mail** e **Numero di telefono** (facoltativo) dell'utente che ha accettato il contratto.
+3. In **Microsoft customer agreement** (Contratto del cliente Microsoft) fai clic su **Aggiorna** .
+
+   :::image type="content" source="images/mca/mca4.png" alt-text="Informazioni sulla società":::
+
+4. Riempi i campi **Nome** , **Cognome** , **Indirizzo e-mail** e **Numero di telefono** (facoltativo) dell'utente che ha accettato il contratto.
+
 5. In **Agreement acceptance date** (Data di accettazione del contratto) immetti la data appropriata. Non puoi impostare questo campo su una data futura.
-6. Fai clic su **Salva e continua**.
 
-### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Confermare l'accettazione da parte del cliente durante la creazione di un nuovo ordine per un cliente esistente
+6. Fai clic su **Salva e continua** .
 
-Se tenti di creare un nuovo ordine per un cliente esistente che non hai confermato prima, riceverai la richiesta di completare la conferma. Utilizzare la procedura seguente per eseguire questa operazione.
+## <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Confermare l'accettazione da parte del cliente durante la creazione di un nuovo ordine per un cliente esistente
 
-1. Riempi i campi **Nome**, **Cognome**, **Indirizzo e-mail** e **Numero di telefono** (facoltativo) dell'utente che ha accettato il contratto.
+Se si tenta di creare un nuovo ordine per un cliente esistente non confermato prima, si riceverà la richiesta di completare la conferma. Utilizzare la procedura seguente per eseguire questa operazione.
+
+1. Riempi i campi **Nome** , **Cognome** , **Indirizzo e-mail** e **Numero di telefono** (facoltativo) dell'utente che ha accettato il contratto.
+
 2. In **Agreement acceptance date** (Data di accettazione del contratto) immetti la data appropriata. Non puoi impostare questo campo su una data futura.
-3. Fai clic su **Salva e continua**.
 
-### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Recuperare la conferma dell'accettazione da parte di un cliente esistente
+3. Fai clic su **Salva e continua** .
+
+## <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Recuperare la conferma dell'accettazione da parte di un cliente esistente
 
 Puoi recuperare la conferma dell'accettazione da parte di un cliente esistente che hai fornito in precedenza usando la procedura seguente. Devi essere un agente amministratore o di vendita per eseguire questa operazione.
 
 1. Seleziona **Clienti** e quindi individua e seleziona il cliente che vuoi visualizzare.
-2. Seleziona **Informazioni sull'account**.
+
+2. Seleziona **Informazioni sull'account** .
+
 3. In **Microsoft customer agreement** (Contratto del cliente Microsoft) potrai vedere se la conferma è stata fornita o meno per tale cliente.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Conferma dell'accettazione del contratto del cliente Microsoft da parte di un cliente nel programma per i partner CSP](confirm-customer-agreement.md)
+
+- [Attestare l'accettazione del Contratto del cliente Microsoft per conto di un cliente](attest-acceptance-customer-agreement.md)

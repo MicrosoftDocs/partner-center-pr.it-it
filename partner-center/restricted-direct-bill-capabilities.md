@@ -1,7 +1,7 @@
 ---
 title: Funzionalità di fatturazione diretta con restrizioni
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vengono fornite informazioni sui requisiti di CSP Direct Bill partner e sulle operazioni da eseguire per evitare la limitazione delle funzionalità. Scopri se le tue funzionalità sono state limitate.
@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444773"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795771"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Funzionalità di fatturazione diretta limitate e requisiti necessari per i partner di fatturazione diretta CSP  
 
@@ -31,11 +31,11 @@ Per verificare se l'accesso dal tenant partner diretto a fatturazione diretta è
 
 1. Accedere al dashboard del [centro](https://partner.microsoft.com/dashboard)per i partner.
 
-2. Passare a **Impostazioni partner**  ->  **profilo partner**.
+2. Passare a **Impostazioni partner**  ->  **profilo partner** .
 
-3. In **informazioni sul programma**cercare **Microsoft Cloud stato provider soluzione**.
+3. In **informazioni sul programma** cercare **Microsoft Cloud stato provider soluzione** .
 
-4. Se lo stato del programma dispone di un valore **limitato**, significa che l'accesso al tenant del partner Direct Bill per le funzionalità di fatturazione diretta è stato limitato.
+4. Se lo stato del programma dispone di un valore **limitato** , significa che l'accesso al tenant del partner Direct Bill per le funzionalità di fatturazione diretta è stato limitato.
 
 ## <a name="affected-direct-bill-capabilities"></a>Funzionalità di fatturazione diretta interessate
 
@@ -51,7 +51,7 @@ Se le funzionalità di fatturazione diretta sono state limitate, non è più pos
 
 Non è inoltre possibile usare l' [offerta servizi condivisi di Azure partner](shared-services.md) nel programma CSP per acquistare nuove sottoscrizioni di Azure per uso personale.
 
-Le sottoscrizioni di fatturazione diretta esistenti non sono interessate. Rimangono validi e vengono rinnovati. Si continuerà a essere addebitati direttamente da Microsoft fino a quando non vengono annullati. È comunque possibile gestire le sottoscrizioni esistenti nei modi seguenti:
+Le sottoscrizioni di fatturazione diretta esistenti non sono interessate. Rimangono validi e vengono rinnovati automaticamente. Si continuerà a essere addebitati direttamente da Microsoft fino a quando non vengono annullati. È comunque possibile gestire le sottoscrizioni esistenti nei modi seguenti:
 
 - Sospendi sottoscrizioni esistenti
 

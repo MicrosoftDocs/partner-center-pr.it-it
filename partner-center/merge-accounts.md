@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175182"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795832"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unire l'account partner con un altro account partner
 
@@ -84,12 +84,32 @@ Se si decide di accettare l'invito per l'Unione degli account: · Gli ID e le lo
 
 1. Selezionare **Impostazioni** dal dashboard del centro per i partner. 
 
-2. Selezionare **merge account**.
+2. Selezionare **merge account** .
 
 3. Aggiungere l'ID MPN che si trova nel **profilo partner** dell'account che si vuole invitare a unire. È necessario usare l'ID MPN globale del partner. Non è possibile usare un ID MPN della località.
 
-4. Quando si seleziona **merge**, viene inviato un invito alla società partner. Quando accettano la richiesta, è possibile avviare l'Unione degli account nel centro per i partner. Se la società rifiuta la richiesta di Unione degli account, può spiegare perché ha rifiutato la richiesta. Un elenco di tutte le unioni di account è disponibile nella **cronologia di merge**.
+4. Quando si seleziona **merge** , viene inviato un invito alla società partner. Quando accettano la richiesta, è possibile avviare l'Unione degli account nel centro per i partner. Se la società rifiuta la richiesta di Unione degli account, può spiegare perché ha rifiutato la richiesta. Un elenco di tutte le unioni di account è disponibile nella **cronologia di merge** .
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>Esempio di due società che uniscono account
 
+1. Contoso 
+
+    a. un [ID MPN globale 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) e uno [degli ID MPN della località](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)subordinata 2222222.
+  
+    b. un tenant Azure AD = @contoso.com
+ 
+    c. una competenza Gold che scade il 1 ° ottobre 2020
+2. Fabricat ha
+ 
+    a.  un ID MPN globale 3333333 e due ID MPN della posizione subordinata 4444444 e 5555555
+
+    b.  un tenant AAD = @fabricam.com
+
+    c.  due competenze Gold che scadono il 1 ° dicembre 2020
+3.  Contoso Acquista fabricat e passa [qui](https://partner.microsoft.com/dashboard/account/merger) per avviare una richiesta di merge
+4.  Fabricat accede al centro per i partner e passa alla stessa pagina di Contoso nel passaggio #3 per approvare la richiesta di contoso.
+5.  Contoso esamina i dettagli del merge nella stessa pagina e fornisce la conferma per procedere con la fusione degli account.
+    
 ## <a name="next-steps"></a>Passaggi successivi
 
 - [Assegnare autorizzazioni e ruoli utente](permissions-overview.md)

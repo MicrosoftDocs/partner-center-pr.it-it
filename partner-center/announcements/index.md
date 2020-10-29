@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/24/2020
-ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.date: 10/27/2020
+ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92352867"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917213"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,9 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di ottobre 2020** | **Annunciato** |
 |---------|:---------|:---------|
+|Funzionalità|[Disponibile ora l'esperienza digitale del Cloud Solution Provider (CSP) aggiornata](2020-october.md#15)|28 ottobre|
+|Funzionalità|[Introduzione di uno standard delle prestazioni per i requisiti di addebito diretto dei partner nel programma Cloud Solution Provider (CSP)](2020-october.md#13)|27 ottobre|
+|Offerte/mercati|[Aggiornamenti del prezzo degli abbonamenti software per le sottoscrizioni Cloud Solution Provider (CSP) di ottobre 2020](2020-october.md#14)|26 ottobre|
 |Offerte/mercati|[Aggiornamenti dell'offerta Microsoft 365 Business Voice](2020-october.md#12)|16 ottobre|
 |Funzionalità|[Aggiornamento di novembre 2020: Guida all'autorizzazione per i servizi online e il canale software](2020-october.md#11)|14 ottobre|
 |Offerte/mercati|[Introduzione a Microsoft 365 Business Voice per organizzazioni no profit](2020-october.md#10)|12 ottobre|

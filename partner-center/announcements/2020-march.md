@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 9a44adc0f4150f4cbb21c4b0e332c4958559443f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ff697bec18c59957d8be7d5ec8ad09edb364b6bb
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031714"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795799"
 ---
 # <a name="march-2020-announcements"></a>Annunci di marzo 2020
 
@@ -44,9 +44,9 @@ Tutti i partner del programma Cloud Solution Provider (CSP).
 
 A partire dal 21 aprile 2020 verranno modificati i nomi delle offerte di Office 365 SMB:
 
-- Office 365 Business Essentials diventerà **Microsoft 365 Business Basic**. Questa è l'offerta di livello base per i clienti che vogliono servizi cloud di base.
-- Office 365 Business Premium diventerà **Microsoft 365 Business Standard**. Questa è l'offerta di base per piccole e medie imprese e include servizi cloud e app desktop connesse al cloud.
-- Microsoft 365 Business diventerà **Microsoft 365 Business Premium**. Questo resta lo SKU principale per piccole e medie imprese di fascia alta che vogliono sicurezza aggiuntiva e valore relativo a dispositivi e identità.
+- Office 365 Business Essentials diventerà **Microsoft 365 Business Basic** . Questa è l'offerta di livello base per i clienti che vogliono servizi cloud di base.
+- Office 365 Business Premium diventerà **Microsoft 365 Business Standard** . Questa è l'offerta di base per piccole e medie imprese e include servizi cloud e app desktop connesse al cloud.
+- Microsoft 365 Business diventerà **Microsoft 365 Business Premium** . Questo resta lo SKU principale per piccole e medie imprese di fascia alta che vogliono sicurezza aggiuntiva e valore relativo a dispositivi e identità.
 
 Verrà adottato anche **App di Microsoft 365** come nuovo nome per le due sottoscrizioni client di Office:
 
@@ -317,7 +317,7 @@ Per informazioni specifiche sulle modifiche, vedere il file "Dynamics CSP Offer 
 
 - [Home page di Dynamics 365](https://dynamics.microsoft.com/)
 - [Home page della guida alle app di realtà mista](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Home page di Biz Apps per la protezione da frodi](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing//docs.microsoft.com/dynamics365/fraud-protection/overview)
+- [Home page di Biz Apps per la protezione da frodi](/dynamics365/fraud-protection/overview)
 - [Aggiornamenti alle licenze di PowerApps e Flow per l'anno fiscale 2020](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Licenze di Microsoft Dynamics 365](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 - [Dynamics 365 e Power Platform - Disponibilità, posizione dei dati, lingua e contenuto della localizzazione](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)

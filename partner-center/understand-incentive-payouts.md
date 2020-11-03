@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
+ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198087"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "93244064"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Visualizza, Gestisci ed Esporta i dettagli del programma incentives
 
@@ -39,8 +39,8 @@ Usare queste pagine per visualizzare i dettagli del passato, in sospeso e i paga
 
 È possibile accedere alle informazioni sugli incentivi in diversi modi dal [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner:
 
-- Selezionare **incentivi** dal menu a sinistra. Diverse opzioni vengono visualizzate in **incentivi**, inclusa la **Panoramica**. Esplora queste opzioni per conoscere lo stato di programmi incentive, pagamenti di incentivi, guadagni e attestazioni.
-- Selezionare l'icona **Money** (payout) nell'angolo superiore destro. È quindi possibile selezionare altre opzioni, ad esempio **Cronologia transazioni**, **pagamenti**, **Esporta dati**o **report ufficio vendite**.
+- Selezionare **incentivi** dal menu a sinistra. Diverse opzioni vengono visualizzate in **incentivi** , inclusa la **Panoramica** . Esplora queste opzioni per conoscere lo stato di programmi incentive, pagamenti di incentivi, guadagni e attestazioni.
+- Selezionare l'icona **Money** (payout) nell'angolo superiore destro. È quindi possibile selezionare altre opzioni, ad esempio **Cronologia transazioni** , **pagamenti** , **Esporta dati** o **report ufficio vendite** .
 
 Le pagine seguenti sono descritte di seguito:
 
@@ -59,10 +59,10 @@ Le pagine seguenti sono descritte di seguito:
 
 In questa pagina sono inclusi anche i guadagni e i pagamenti per posizione o programma, nonché eventuali altre azioni da intraprendere per eseguire la registrazione in un programma in una posizione specifica.
 
-Per accedere alla **panoramica degli incentivi**:
+Per accedere alla **panoramica degli incentivi** :
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
-2. Selezionare **incentivi**, quindi **Panoramica** dal menu.
+2. Selezionare **incentivi** , quindi **Panoramica** dal menu.
 3. Visualizzare il riepilogo dei guadagni e dei pagamenti nella parte superiore della pagina e ulteriori dettagli nella tabella riportata di seguito. È anche possibile ordinare, raggruppare ed espandere la tabella associata:
 
    - Per eseguire l'ordinamento in base alla colonna, selezionare il nome della colonna.
@@ -70,19 +70,19 @@ Per accedere alla **panoramica degli incentivi**:
    - Per raggruppare in base alla posizione, selezionare la scheda **per località** sopra la tabella.
    - Per visualizzare altri dettagli sulle registrazioni in un gruppo specifico, selezionare il simbolo della freccia di espansione alla fine di una determinata riga. Questa freccia di espansione espande la visualizzazione.
 
-4. Se è necessaria un'ulteriore azione per la registrazione in un programma, queste informazioni verranno visualizzate nella colonna **Stato**. In questo caso, selezionare il simbolo della freccia di espansione per ottenere informazioni sui passaggi successivi da eseguire.
+4. Se è necessaria un'ulteriore azione per la registrazione in un programma, queste informazioni verranno visualizzate nella colonna **Stato** . In questo caso, selezionare il simbolo della freccia di espansione per ottenere informazioni sui passaggi successivi da eseguire.
 
 >[!NOTE]
 >Vedere la tabella seguente per altre informazioni sui diversi Stati di registrazione indicati nella colonna **stato** .
 
 
-| **Stato**         | **Viene visualizzato quando** |
+| **Status**         | **Viene visualizzato quando** |
 |:------------------------------------|:------------------|
 | Azione richiesta  | Il partner ha accettato un invito a iscriversi a un programma di incentivi, ma potrebbe dover aggiornare le informazioni bancarie o fiscali. Vedere la colonna **azioni necessarie** per i passaggi successivi o i collegamenti per aggiornare le informazioni bancarie o fiscali nel centro per i partner. |
 | Non disponibile  | Il programma di incentivazione specifico non è più disponibile nel sistema di incentivi. |
 | Enrolled  | Tutte le informazioni fiscali e bancarie sono state convalidate. Non è richiesta alcuna ulteriore azione di registrazione da parte del partner. |
 | Enrolling  | L'utente non è un amministratore di incentivi e la registrazione è nell' **azione necessaria** o per la **convalida** degli Stati di registrazione.|
-| Inattivo/non idoneo | Il programma incentive potrebbe non essere aperto per la registrazione in questo momento o il partner non soddisfa l'idoneità corrente per la registrazione o la nuova registrazione. <br><br> Se lo stato non è **idoneo**, il partner non soddisfa i requisiti di idoneità correnti per il programma; Se si seleziona il collegamento **vedere i requisiti di idoneità** sotto lo stato di registrazione, vengono visualizzati i requisiti per l'idoneità e quali di questi requisiti sono stati soddisfatti. <br><br> È anche possibile che vengano visualizzate le registrazioni stato **inattivo** per l'organizzazione virtuale (VORG) o partner Global account (PGA) che non sono più attive nel programma incentive.  |
+| Inattivo/non idoneo | Il programma incentive potrebbe non essere aperto per la registrazione in questo momento o il partner non soddisfa l'idoneità corrente per la registrazione o la nuova registrazione. <br><br> Se lo stato non è **idoneo** , il partner non soddisfa i requisiti di idoneità correnti per il programma; Se si seleziona il collegamento **vedere i requisiti di idoneità** sotto lo stato di registrazione, vengono visualizzati i requisiti per l'idoneità e quali di questi requisiti sono stati soddisfatti. <br><br> È anche possibile che vengano visualizzate le registrazioni stato **inattivo** per l'organizzazione virtuale (VORG) o partner Global account (PGA) che non sono più attive nel programma incentive.  |
 | Invitato  | Un nuovo invito alla registrazione del programma incentive è stato inviato al partner, ma il partner non ha ancora avviato il processo di registrazione. La colonna adiacente, **azioni richieste** Mostra i passaggi successivi ed eventuali collegamenti correlati.  |
 | Convalida della registrazione  | Il partner ha già completato o aggiornato le informazioni fiscali e bancarie per una registrazione nuova o esistente ed è in attesa della convalida delle informazioni da parte di Microsoft. Durante il processo di convalida, è possibile che venga visualizzata la **convalida della registrazione** per un massimo di 48 ore.  |
 
@@ -95,7 +95,7 @@ I totali in questa pagina rappresentano tutti gli ID MPN usati. È possibile fil
 |Pagamento successivo stimato      |Il singolo pagamento successivo (anche se ne saranno presto disponibili altri), in dollari statunitensi.                                     |
 |Ultimo pagamento           |La quantità (in dollari USA), il nome del programma e l'ID MPN del pagamento più recente.                                      |
 |Pagamenti per origine       |Quantità di pagamenti, in dollari statunitensi, rappresentati dal programma negli ultimi 12 mesi.                                      |
-|Pagamenti                       |Selezionare a **pagamento** o **in sospeso** e quindi ordinare come si desidera. Per ulteriori informazioni su un pagamento specifico, selezionare **Visualizza**. Per scaricare una copia del rendiconto della rimessa di pagamento, selezionare **Scarica**. I dati relativi alla cronologia delle transazioni possono richiedere fino a 24 ore, quindi è possibile che non vengano visualizzati immediatamente gli utili associati.  |
+|Pagamenti                       |Selezionare a **pagamento** o **in sospeso** e quindi ordinare come si desidera. Per ulteriori informazioni su un pagamento specifico, selezionare **Visualizza** . Per scaricare una copia del rendiconto della rimessa di pagamento, selezionare **Scarica** . I dati relativi alla cronologia delle transazioni possono richiedere fino a 24 ore, quindi è possibile che non vengano visualizzati immediatamente gli utili associati.  |
 
 Per esportare i dati in questa pagina, selezionare **Esporta** e seguire le istruzioni nella pagina Esporta dati.
 
@@ -106,13 +106,68 @@ Per visualizzare altri dettagli sugli utili, selezionare la freccia rivolta vers
 
 Per esportare i dati della transazione in questa pagina, selezionare **Esporta** , quindi seguire le istruzioni nella pagina Esporta dati. Nei file esportati dalla pagina della cronologia transazioni sono visualizzati i dati nella valuta di transazione, gli utili sia nella valuta di transazione sia in dollari statunitensi e il valore del pagamento in base alla valuta di pagamento.
 
+### <a name="submit-your-tax-invoice-as-proof-of-execution-poe"></a>Inviare la fattura fiscale come prova di esecuzione (PoE)
+
+>[!NOTE]
+>Questo contenuto si riferisce **solo** ai partner in India, Cina, Italia, Corea, Messico e Taiwan. <br><br>I partner in India sono tenuti a inviare una copia cartacea della fattura fiscale.
+
+#### <a name="submit-a-tax-invoice"></a>Invia una fattura fiscale
+
+Se sei un partner di uno dei paesi elencati in precedenza, Microsoft invierà una notifica tramite posta elettronica che ti verrà richiesto di inviare una fattura fiscale per rivendicare i guadagni degli incentivi. Il messaggio di posta elettronica ricevuto fornirà le istruzioni per inviare la fattura fiscale e elencare anche eventuali informazioni aggiuntive necessarie.
+
+I partner in India sono tenuti a inviare la fattura fiscale nella copia cartacea. I partner negli altri paesi possono inviare una copia hardware o software.
+
+È necessario inviare la fattura fiscale entro 180 giorni dall'attestazione. Una volta ricevuta e convalidata la fattura, il pagamento verrà elaborato per incentivare il pagamento.
+
+È necessario inviare le informazioni riportate di seguito insieme alla fattura fiscale:
+
+- Numero fattura (si tratta di un numero generato) 
+
+- Numero di riferimento per gli incentivi canale (CI) (fornito da Microsoft) 
+
+- Il nome del programma di incentivi
+
+- Il nome e l'indirizzo di fatturazione validi nel profilo partner 
+
+- Importo guadagni
+
+- Importo imposte
+
+Se non si conosce il numero di riferimento per gli incentivi del canale (CI), è possibile trovarlo nelle tre posizioni seguenti: 
+
+- La notifica tramite posta elettronica inviata da Microsoft all'amministratore di incentivi. 
+
+- Il [Dashboard del centro](https://partner.microsoft.com/dashboard/) per i partner (login obbligatorio), sia nella scheda a **pagamento** che nella scheda **in sospeso** .  
+
+- Il report sul pagamento, disponibile nella pagina di [esportazione del download di pagamento](/partner-center/understand-incentive-payouts#payment-download-export). 
+
+#### <a name="if-your-submission-is-rejected"></a>Se l'invio è stato rifiutato
+
+La causa più probabile di un invio rifiutato è la mancata corrispondenza tra le informazioni della fattura fiscale e le informazioni contenute nei record. Esempi di dati mancanti o non corretti includono: 
+
+- Numero di merci e servizi (GST) dell'azienda
+
+- Il sistema armonizzato di nomenclatura (HSN) e i numeri del codice dell'accounting del servizio (SAC)
+
+- Numero fattura (non deve superare 16 cifre)
+
+- Data fattura
+
+- Valore imposta (inclusivo ed esclusivo)
+
+- Se la società si trova nello stesso stato di Microsoft, le percentuali fiscali per i beni centrali e le imposte di servizio (CGST) e le imposte di beni e servizi di stato (SGST) devono essere allineate.
+
+- Se la società si trova in uno stato diverso da Microsoft, è necessario fornire la percentuale per i beni e le imposte di servizio integrati (IGST).
+
+Gli invii possono anche essere rifiutati se vengono forniti più di 180 giorni dopo l'attestazione, se la fattura non è valida o se i dati sono stati immessi in modo errato.
+
 ### <a name="estimated-payment-month"></a>Mese di pagamento stimato
 
 La pagina Cronologia transazioni include ora una tabella che Mostra gli importi di pagamento stimati per i mesi successivi. È inoltre possibile visualizzare e scaricare queste informazioni nelle esportazioni della cronologia delle transazioni e dei report riepilogativi. Queste informazioni rendono più semplice la riconciliazione e le proiezioni di pagamento.
 
 Il mese di pagamento stimato viene calcolato in base alle regole e alle sequenze temporali di configurazione del programma e viene elaborato nel ciclo di pagamento successivo o imminente.
 
-Il mese di pagamento stimato è attualmente disponibile per tutti i tipi di guadagno eccetto co-op, che verrà visualizzato come **non applicabile**. Per i guadagni prima del 1 ° luglio 2020, il mese di pagamento stimato verrà visualizzato come **non disponibile**.
+Il mese di pagamento stimato è attualmente disponibile per tutti i tipi di guadagno eccetto co-op, che verrà visualizzato come **non applicabile** . Per i guadagni prima del 1 ° luglio 2020, il mese di pagamento stimato verrà visualizzato come **non disponibile** .
 
 #### <a name="estimated-payment-month-example"></a>Esempio di mese di pagamento stimato
 
@@ -144,7 +199,7 @@ Si noti che il pagamento viene rilasciato nel mese previsto solo se vengono sodd
 |In programma      |Ordine di pagamento generato in attesa di revisioni interne prima dell'elaborazione del pagamento.       |No       |
 |Pending tax invoice (Fattura fiscale in sospeso)      |La fattura dell'imposta è incompleta o non valida.          |È necessario aggiornare la fattura fiscale prima di poter essere pagati.         |
 |Rejected during review (Rifiutato durante la revisione)        |Il pagamento è stato rifiutato durante la revisione.          |Per informazioni dettagliate, contattare il supporto tecnico Microsoft.         |
-|Operazione non riuscita        |Il pagamento non è riuscito a causa di un errore di sistema Microsoft.         |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
+|Non riuscito        |Il pagamento non è riuscito a causa di un errore di sistema Microsoft.         |Per ulteriori informazioni, contattare il supporto tecnico Microsoft         |
 |In corso     |Il pagamento è in corso.         |No         |
 |Pagamento non corretto        |È in corso il recupero dei pagamenti.          |No        |
 |Inviato        |Il pagamento è stato inviato alla banca.          |No       |
@@ -165,7 +220,7 @@ Ecco alcune considerazioni quando si tenta di esportare i dati:
 
 - La pagina di esportazione dati non viene aggiornata automaticamente. Per visualizzare i dati più recenti, potrebbe essere necessario aggiornare la pagina manualmente.
 
-- Il filtro può causare un errore di tipo **Non sono disponibili dati**. Questo errore probabilmente significa che è stato lasciato il periodo di tempo predefinito selezionato a tre mesi, quindi è stato selezionato un ID di pagamento da un guadagno che esula da tale periodo. Espandere il periodo di tempo e riprovare.
+- Il filtro può causare un errore di tipo **Non sono disponibili dati** . Questo errore probabilmente significa che è stato lasciato il periodo di tempo predefinito selezionato a tre mesi, quindi è stato selezionato un ID di pagamento da un guadagno che esula da tale periodo. Espandere il periodo di tempo e riprovare.
 
 ## <a name="payment-download-export"></a>Esportazione di download di pagamento
 Questa opzione consente di scaricare i pagamenti ricevuti in banca per un determinato programma, le imposte associate e la quantità aggregata di utili.
@@ -276,7 +331,7 @@ Il report Riepilogo transazioni fornisce i dettagli della transazione a livello 
 ### <a name="download-the-transaction-summary-report"></a>Scaricare il report di riepilogo delle transazioni
 
 1. Nella pagina **Panoramica incentivi** selezionare l'icona **Money** (payout) nell'angolo superiore destro.
-2. Selezionare **Esporta dati**.
+2. Selezionare **Esporta dati** .
 3. Selezionare la scheda **Riepilogo transazioni** .
 4. Selezionare i filtri appropriati per visualizzare i programmi e le leve idonei per i guadagni aggregati. Se non viene visualizzato alcun dato, i programmi non sono idonei per le leve aggregate.
 5. Selezionare **Avvia download**   per esportare il report.  

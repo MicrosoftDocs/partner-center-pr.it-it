@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795832"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189748"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unire l'account partner con un altro account partner
 
@@ -103,13 +103,23 @@ Se si decide di accettare l'invito per l'Unione degli account: · Gli ID e le lo
  
     a.  un ID MPN globale 3333333 e due ID MPN della posizione subordinata 4444444 e 5555555
 
-    b.  un tenant AAD = @fabricam.com
+    b.  un tenant Azure AD = @fabricam.com
 
     c.  due competenze Gold che scadono il 1 ° dicembre 2020
-3.  Contoso Acquista fabricat e passa [qui](https://partner.microsoft.com/dashboard/account/merger) per avviare una richiesta di merge
+3.  Contoso Acquista fabricat e passa [qui](https://partner.microsoft.com/dashboard/account/merger) per avviare una richiesta di merge.
 4.  Fabricat accede al centro per i partner e passa alla stessa pagina di Contoso nel passaggio #3 per approvare la richiesta di contoso.
 5.  Contoso esamina i dettagli del merge nella stessa pagina e fornisce la conferma per procedere con la fusione degli account.
+6.  Dopo la fusione, l'account aziendale viene visualizzato come:
+
+    a.  Una società denominata Contoso con un ID MPN globale 1111111 e 4 ID MPN della posizione subordinata 2222222, 3333333, 4444444 e 5555555
     
+    b.  Avrà due Azure AD tenant ( @contoso.com + @fabricam.com ) che hanno accesso allo stesso account del centro per i partner
+    
+    c.  Avranno due pacchetti di vantaggi per la competenza, uno che scade il 1 ° ottobre 2020 e un altro che scade il 1 ° dicembre 2020. Saranno in grado di eseguire il rinnovo come singolo pacchetto di vantaggi per la competenza il 1 ° dicembre 2020. Quando si rinnovano, contoso manterrà tutte e tre le competenze anche se è in grado di gestire un unico pacchetto di vantaggi.
+    
+7.  Gli amministratori di Contoso continueranno a gestire i ruoli del centro per i partner per @contoso.com gli utenti. Gli amministratori di fabricator continueranno a gestire i ruoli del centro per i partner per @fabricam.com gli utenti. Gli amministratori di Contoso possono amministrare solo gli utenti di fabricat se vengono invitati come Guest nel tenant di fabricat.
+8.  Contoso potrebbe decidere di ignorare il @fabricam.com tenant ed eseguire nuovamente le nuove credenziali dei dipendenti @contoso.com di fabrican con nuovi ruoli e autorizzazioni.
+
 ## <a name="next-steps"></a>Passaggi successivi
 
 - [Assegnare autorizzazioni e ruoli utente](permissions-overview.md)

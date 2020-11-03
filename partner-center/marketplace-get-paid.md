@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 61730eec204674d7ad095d1fffcd997f65d135ea
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175216"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189731"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Come ottenere i pagamenti nel marketplace commerciale
 
@@ -33,11 +33,11 @@ Prima di ricevere il pagamento per la prima volta, è necessario configurare l'a
 
 ### <a name="payout-hold-status"></a>Stato di blocco dei pagamenti
 
-Per impostazione predefinita, i pagamenti verranno corrisposti su base mensile, come descritto sopra. Tuttavia, è possibile mettere in attesa i pagamenti per un programma e Microsoft non rilascerà i pagamenti al proprio account. Se si sceglie di mettere in attesa i pagamenti, si continuerà a registrare eventuali guadagni nella pagina dei **pagamenti** . Tuttavia non verranno inviati pagamenti all'account fino a quando non si rimuoverà lo stato di blocco.
+Per impostazione predefinita, i pagamenti verranno corrisposti su base mensile, come descritto sopra. Tuttavia, è possibile mettere in attesa i pagamenti per un programma e Microsoft non rilascerà i pagamenti al proprio account. Se si sceglie di mettere in attesa i pagamenti, si continuerà a registrare eventuali guadagni nella pagina dei **pagamenti** . Non verranno tuttavia inviati pagamenti all'account fino a quando non sarà rimosso il blocco.
 
-Per bloccare i pagamenti, passare a **Impostazioni account**. In **Proventi e imposte**, nella sezione **Assegnazione di profili di pagamento e fiscali**, individuare il programma per il quale si vuole bloccare i pagamenti. Selezionare la casella di controllo **Mantieni il pagamento** per mantenere i pagamenti per il programma. È possibile modificare lo stato di mantenimento dei pagamenti in qualsiasi momento, ma la decisione influirà sul pagamento mensile successivo. Se ad esempio si vuole bloccare il pagamento di aprile, assicurarsi di impostare lo stato di blocco dei pagamenti su **Sì** entro la fine di marzo.
+Per inserire i pagamenti in attesa, selezionare l'icona dell'ingranaggio **Impostazioni** in alto a destra e quindi **Impostazioni sviluppatore** . Selezionare **pagamenti e imposte** nel menu a sinistra e nella sezione **assegnazione profilo di pagamento e imposta** individuare il programma per il quale si desidera che vengano mantenuti i pagamenti. Selezionare la casella di controllo **Mantieni il pagamento** per mantenere i pagamenti per il programma. È possibile modificare lo stato di mantenimento dei pagamenti in qualsiasi momento, ma la decisione influirà sul pagamento mensile successivo. Se ad esempio si vuole bloccare il pagamento di aprile, assicurarsi di impostare lo stato di blocco dei pagamenti su **Sì** entro la fine di marzo.
 
-Dopo aver impostato lo **stato di mantenimento**dei pagamenti **su on**, tutti i pagamenti per il programma saranno in attesa finché la casella di controllo non verrà deselezionata. Quando si esegue questa operazione, si verrà inclusi durante il successivo ciclo di pagamento mensile (purché sia stata soddisfatta la soglia di pagamento). Se i pagamenti sono in attesa, ma si vuole che venga generato un pagamento in giugno, deselezionare la casella di **controllo prima della** fine di maggio.
+Dopo aver impostato lo **stato di mantenimento** dei pagamenti **su on** , tutti i pagamenti per il programma saranno in attesa finché la casella di controllo non verrà deselezionata. Quando si esegue questa operazione, si verrà inclusi durante il successivo ciclo di pagamento mensile (purché sia stata soddisfatta la soglia di pagamento). Se i pagamenti sono in attesa, ma si vuole che venga generato un pagamento in giugno, deselezionare la casella di **controllo prima della** fine di maggio.
 
 >[!Note]
 > Lo stato di mantenimento dei pagamenti si applica a ogni programma individualmente (Microsoft Store, Advertising, Azure Marketplace e così via). Se si desidera mantenere i pagamenti per tutti i programmi, effettuare il pagamento in ogni programma individualmente.

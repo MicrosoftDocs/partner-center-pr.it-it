@@ -1,7 +1,7 @@
 ---
 title: Requisiti di sicurezza dei partner
 ms.topic: article
-ms.date: 10/05/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Introduce i requisiti dei partner per abilitare l'autenticazione a più fattori (MFA) e adottare il framework del modello di applicazione sicura.
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: c92e8c9a9a08582d89ef478a4600f737a548b787
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763344"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680382"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Requisiti di sicurezza per partner che usano il Centro per i partner o le API del Centro per i partner
 
@@ -41,9 +41,9 @@ I partner che non implementano i requisiti di sicurezza obbligatori non potranno
 
 Per la tua protezione e quella dei tuoi clienti, è opportuno che i partner intraprendano immediatamente le azioni seguenti:  
 
-1. **Abilitare Multi-Factor Authentication (MFA) per tutti gli account utente inclusi nel tenant partner**. A tutti gli account utente inclusi nei tenant dei partner deve essere richiesta la verifica tramite autenticazione a più fattori al momento di accedere ai servizi cloud commerciali Microsoft o per eseguire transazioni in Cloud Solution Provider tramite il Centro per i partner o le API.
+1. **Abilitare Multi-Factor Authentication (MFA) per tutti gli account utente inclusi nel tenant partner** . A tutti gli account utente inclusi nei tenant dei partner deve essere richiesta la verifica tramite autenticazione a più fattori al momento di accedere ai servizi cloud commerciali Microsoft o per eseguire transazioni in Cloud Solution Provider tramite il Centro per i partner o le API.
 
-2. **Adottare il framework del modello di applicazione sicura**. Adottare il framework del modello di applicazione sicura. Tutti i partner che si integrano con l'API del Centro per i partner devono adottare tale framework per qualsiasi app e applicazione del modello di autenticazione utente.
+2. **Adottare il framework del modello di applicazione sicura** . Adottare il framework del modello di applicazione sicura. Tutti i partner che si integrano con l'API del Centro per i partner devono adottare tale framework per qualsiasi app e applicazione del modello di autenticazione utente.
 
     > [!IMPORTANT]
     > È consigliabile che i partner implementino il modello di applicazione sicura per l'integrazione con un'API Microsoft come Azure Resource Manager o Microsoft Graph oppure per l'uso dell'automazione, ad esempio tramite PowerShell con credenziali utente, per evitare interruzioni quando viene imposta l'autenticazione a più fattori.
@@ -58,7 +58,7 @@ Per adeguarti ai requisiti di sicurezza dei partner, devi imporre l'autenticazio
 
 - Acquisto di Azure Active Directory Premium per ogni account utente. Per altre informazioni, vedere [Pianificazione di una distribuzione di Azure Multi-Factor Authentication basata sul cloud](/azure/active-directory/authentication/howto-mfa-getstarted).
 
-- Uso di una soluzione di terze parti per implementare l'autenticazione a più fattori per ogni account utente esistente nel tenant partner. Per assicurarsi che la soluzione fornisca le informazioni previste, vedere [come verranno implementati i requisiti di sicurezza](#how-the-requirements-will-be-enforced).
+- Uso di una soluzione di terze parti per implementare l'autenticazione a più fattori per ogni account utente esistente nel tenant partner. Per assicurarsi che la soluzione fornisca le informazioni previste, vedere [come verranno implementati i requisiti di sicurezza](#how-the-requirements-are-enforced).
 
 > [!NOTE]
 > Anche se l'autenticazione a più fattori non è richiesta contrattualmente per un cloud sovrano (21Vianet, Governo degli Stati Uniti e Germania), è consigliabile adottare questi requisiti di sicurezza.
@@ -92,7 +92,7 @@ Per passare dai criteri di base alle impostazioni predefinite per la sicurezza, 
 
 Poiché questi requisiti si applicano a tutti gli account utente inclusi nel tenant partner, devi considerare diversi aspetti per garantire una distribuzione senza problemi, inclusa l'identificazione degli account utente in Azure Active Directory che non possono eseguire l'autenticazione a più fattori, nonché delle applicazioni e dei dispositivi usati dall'organizzazione che non supportano l'autenticazione moderna.
 
-Prima di eseguire qualsiasi azione, è consigliabile identificare gli elementi seguenti:
+Prima di eseguire qualsiasi azione, è consigliabile completare le convalide seguenti: 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Si hanno applicazioni o dispositivi che non supportano l'uso dell'autenticazione moderna?
 
@@ -100,9 +100,9 @@ Quando imponi l'autenticazione a più fattori, i protocolli per l'uso dell'auten
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Sono presenti utenti che usano Office 365 fornito dalle licenze associate al tenant partner?
 
-Prima di implementare qualsiasi soluzione, è consigliabile determinare quale versione di Microsoft Office viene usata dagli utenti del tenant partner. È possibile che gli utenti riscontrino problemi di connettività con applicazioni come Outlook. Prima di implementare l'autenticazione a più fattori, è importante assicurarsi che sia in uso Outlook 2013 SP1 o versione successiva e che nell'organizzazione sia abilitata l'autenticazione moderna. Per altre informazioni, vedere [Abilitare l'autenticazione moderna in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+Prima di implementare qualsiasi soluzione, è consigliabile determinare quale versione di Microsoft Office viene usata dagli utenti del tenant partner. È possibile che gli utenti riscontrino problemi di connettività con applicazioni come Outlook. Prima di implementare l'autenticazione a più fattori, è importante assicurarsi che sia in uso Outlook 2013 SP1 o versione successiva e che nell'organizzazione sia abilitata l'autenticazione moderna. Per altre informazioni, vedere [Abilitare l'autenticazione moderna in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
 
-Per abilitare l'autenticazione moderna in tutti i dispositivi che eseguono Windows, su cui è installato Microsoft Office 2013, sarà necessario creare due chiavi del registro di sistema. Vedere [Abilitare l'autenticazione moderna per Office 2013 nei dispositivi Windows](/office365/admin/security-and-compliance/enable-modern-authentication).
+Per abilitare l'autenticazione moderna per tutti i dispositivi che eseguono Windows e in cui è installato Microsoft Office 2013, sarà necessario creare due chiavi del Registro di sistema. Vedere [Abilitare l'autenticazione moderna per Office 2013 nei dispositivi Windows](/office365/admin/security-and-compliance/enable-modern-authentication).
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Esistono criteri che impediscono agli utenti di usare i propri dispositivi mobili durante il lavoro?
 
@@ -124,21 +124,23 @@ Poiché il requisito è quello di applicare l'autenticazione a più fattori per 
 
 - Script di PowerShell che usano i moduli AZ, AzureRM, Azure AD, MS online e così via
 
-L'elenco precedente non è completo. È quindi importante eseguire una valutazione completa di qualsiasi applicazione o servizio nel proprio ambiente che sfrutti le credenziali utente per l'autenticazione. Per far fronte al requisito di autenticazione a più fattori, è necessario, dove possibile, implementare le indicazioni nel [framework del modello di applicazione sicura](/partner-center/develop/enable-secure-app-model).
+L'elenco precedente non è completo. È quindi importante eseguire una valutazione completa di ogni applicazione o servizio presente nell'ambiente, che utilizza le credenziali utente per l'autenticazione. Per far fronte al requisito di autenticazione a più fattori, è necessario, dove possibile, implementare le indicazioni nel [framework del modello di applicazione sicura](/partner-center/develop/enable-secure-app-model).
 
 ## <a name="accessing-your-environment"></a>Accesso all'ambiente
 
-Per comprendere meglio cosa o chi esegue l'autenticazione senza che venga richiesta l'autenticazione a più fattori, è consigliabile verificare l'attività di accesso. Tramite Azure Active Directory Premium puoi sfruttare i vantaggi offerti dal report sull'accesso. Per altre informazioni, vedi [Report dell'attività di accesso nel portale di Azure Active Directory](/azure/active-directory/reports-monitoring/concept-sign-ins). Se non hai Azure Active Directory Premium o stai cercando di ottenerlo tramite PowerShell, dovrai usare il cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) del modulo [PowerShell per il Centro per i partner](https://www.powershellgallery.com/packages/PartnerCenter/).
+Per comprendere meglio cosa o chi esegue l'autenticazione senza che venga richiesta l'autenticazione a più fattori, è consigliabile verificare l'attività di accesso. Tramite Azure Active Directory Premium puoi sfruttare i vantaggi offerti dal report sull'accesso. Per altre informazioni su questo argomento, vedere [Report dell'attività di accesso nel portale di Azure Active Directory](/azure/active-directory/reports-monitoring/concept-sign-ins). Se non si ha Azure Active Directory Premium o si sta cercando di ottenere l'attività di accesso tramite PowerShell, sarà necessario usare il cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) del modulo [PowerShell per il Centro per i partner](https://www.powershellgallery.com/packages/PartnerCenter/).
 
-## <a name="how-the-requirements-will-be-enforced"></a>Come verranno implementati i requisiti
+## <a name="how-the-requirements-are-enforced"></a>Come vengono applicati i requisiti
 
-I requisiti di sicurezza dei partner verranno implementati da Azure Active Directory e, a sua volta, dal Centro per i partner, mediante il controllo della presenza dell'attestazione che stabilisce che la verifica dell'autenticazione a più fattori è stata eseguita. A partire dal 18 novembre 2019, Microsoft attiverà misure di sicurezza aggiuntive (indicate in precedenza come "imposizione tecnica") per i tenant dei partner. 
+I requisiti di sicurezza dei partner vengono applicati da Azure Active Directory e, a sua volta, dal Centro per i partner, mediante il controllo della presenza dell'attestazione che stabilisce che la verifica dell'autenticazione a più fattori è stata eseguita. A partire dal 18 novembre 2019, Microsoft ha attivato misure di sicurezza aggiuntive (indicate in precedenza come "applicazione tecnica") per i tenant partner.
 
-Con l'attivazione, agli utenti nel tenant partner verrà richiesto di completare la verifica tramite autenticazione a più fattori quando eseguono operazioni in modalità AOBO (Admin On Behalf Of, Amministratore per conto terzi). Microsoft continuerà a estendere l'ambito delle misure di sicurezza ad altri scenari e ruoli utente, inviando in anticipo una comunicazione ai partner. Per altre informazioni, fai riferimento a questo documento che verrà aggiornato spesso. I partner che non hanno soddisfatto i requisiti devono implementare queste misure non appena possibile per evitare interruzioni dell'attività. 
+Dopo l'attivazione, agli utenti del tenant partner è stato richiesto di completare la verifica dell'autenticazione a più fattori durante l'esecuzione delle operazioni in modalità AOBO (Admin On Behalf Of, Amministratore per conto terzi), accedendo al portale del Centro per i partner o chiamando l'API Centro per i partner. Per altre informazioni, vedere [Imposizione dell'autenticazione a più fattori per il tenant partner](partner-security-requirements-mandating-mfa.md). 
+
+I partner che non hanno soddisfatto i requisiti devono implementare queste misure non appena possibile per evitare interruzioni dell'attività. 
 
 Se usi Azure Multi-Factor Authentication o le impostazioni predefinite per la sicurezza Azure AD, non devi intraprendere altre azioni.
 
-Quando si usa una soluzione di autenticazione a più fattori di terze parti, è possibile che l'attestazione di autenticazione a più fattori non venga rilasciata. Se l'attestazione non è presente, Azure Active Directory non sarà in grado di stabilire se la richiesta di autenticazione è stata verificata dall'autenticazione a più fattori. Per informazioni su come verificare il rilascio dell'attestazione prevista da parte della soluzione, leggi [Test dei requisiti di sicurezza per i partner](/powershell/partnercenter/test-partner-security-requirements). 
+Se si usa una soluzione di autenticazione a più fattori di terze parti, è possibile che l'attestazione dell'autenticazione a più fattori non venga rilasciata. Se l'attestazione non è presente, Azure Active Directory non sarà in grado di stabilire se la richiesta di autenticazione è stata verificata dall'autenticazione a più fattori. Per informazioni su come verificare il rilascio dell'attestazione prevista da parte della soluzione, leggi [Test dei requisiti di sicurezza per i partner](/powershell/partnercenter/test-partner-security-requirements). 
 
 > [!IMPORTANT]
 > Se la soluzione di terze parti non rilascia l'attestazione prevista, sarà necessario interagire con il fornitore che ha sviluppato la soluzione per individuare le azioni da intraprendere.

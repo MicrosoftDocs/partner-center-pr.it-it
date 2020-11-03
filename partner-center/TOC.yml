@@ -295,9 +295,6 @@
         - name: Creare la prova di esecuzione
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: Inviare una fattura imposte come prova di esecuzione
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: Attestazioni cooperative per gli incentivi
       items:
         - name: Attestazioni cooperative per gli incentivi

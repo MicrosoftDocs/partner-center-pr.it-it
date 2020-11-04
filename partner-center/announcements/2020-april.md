@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031844"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132995"
 ---
 # <a name="april-2020-announcements"></a>Annunci di aprile 2020
 
@@ -172,7 +172,7 @@ Per incrementare la protezione di partner e clienti, **a partire dal 1° maggio 
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-- **Se non sono stati attivati i requisiti di sicurezza consigliati per proteggere il proprio tenant e i utenti**, attivarli immediatamente per mantenere la conformità ed evitare interruzioni al business a livello di gestione dei clienti o esecuzione di transazioni in CSP. I partner che non implementano i requisiti di sicurezza potrebbero mettere a rischio la rispettiva partecipazione al programma CSP.
+- **Se non sono stati attivati i requisiti di sicurezza consigliati per proteggere il proprio tenant e i utenti** , attivarli immediatamente per mantenere la conformità ed evitare interruzioni al business a livello di gestione dei clienti o esecuzione di transazioni in CSP. I partner che non implementano i requisiti di sicurezza potrebbero mettere a rischio la rispettiva partecipazione al programma CSP.
 - I provider indiretti devono implementare questi requisiti di sicurezza per i propri business e devono collaborare con i rivenditori per assicurare che anche loro implementino i requisiti usando questo modello di posta elettronica. Microsoft contatterà anche direttamente i rivenditori con comunicazioni tramite posta elettronica.
 - Per verificare lo stato e scoprire le azioni essenziali da intraprendere, visitare la [pagina dello stato dei requisiti di sicurezza del Centro per i partner](https://partner.microsoft.com/commerce/security/compliance). Collaborare con l'amministratore globale per verificare regolarmente lo stato dei requisiti di sicurezza per ogni tenant.
 - Se si utilizza una soluzione di un fornitore del pannello di controllo (CPV), rivolgersi a tale fornitore.
@@ -192,7 +192,7 @@ Qualora fosse necessario ottenere assistenza aggiuntiva per problemi tecnici, [i
 Grazie per l’impegno e la collaborazione per assicurare un ecosistema basato sulla fiducia.
 
 >[!NOTE] 
->Se si usano i criteri baseline e non si è eseguita la transizione ai criteri delle impostazioni predefinite per la sicurezza o [altre opzioni di implementazione di MFA](..\partner-security-requirements.md#actions-that-you-need-to-take), eseguire la transizione non appena possibile facendo riferimento alle [risorse essenziali disponibili qui](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Se si usano i criteri baseline e non si è eseguita la transizione ai criteri delle impostazioni predefinite per la sicurezza o [altre opzioni di implementazione di MFA](..\partner-security-requirements.md#implementing-multi-factor-authentication), eseguire la transizione non appena possibile facendo riferimento alle [risorse essenziali disponibili qui](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Registro delle modifiche
 

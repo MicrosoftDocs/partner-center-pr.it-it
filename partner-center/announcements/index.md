@@ -8,20 +8,25 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.date: 11/02/2020
+ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
+ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133015"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93327250"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
 Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste informazioni vengono aggiornate di frequente, pertanto è importante consultarle di frequente.
 
-| **Categoria** | **Annunci di ottobre 2020** | **Annunciato** |
+| **Categoria** | **Annunci di novembre 2020** | **Annunciato** |
 |---------|:---------|:---------|
+|Offerte/mercati|[È ora disponibile l'aggiornamento di Windows 10 Education per i clienti qualificati per la formazione su Cloud Solution Provider (CSP)](2020-november.md#4)|2 novembre|
+|Offerte/mercati|[Esperienza digitale aggiornata di Cloud Solution Provider (CSP) ora disponibile, aggiornamenti del listino prezzi delle sottoscrizioni software di Cloud Solution Provider (CSP) di ottobre 2020](2020-november.md#3)|2 novembre|
+|Offerte/mercati|[Aggiornamenti del prezzo degli abbonamenti software per le sottoscrizioni Cloud Solution Provider (CSP) di ottobre 2020](2020-november.md#2)|2 novembre|
+|Offerte/mercati|[Introduzione di uno standard delle prestazioni per i requisiti di addebito diretto dei partner nel programma Cloud Solution Provider (CSP)](2020-november.md#1)|2 novembre|
+| **Categoria** | **Annunci di ottobre 2020** | **Data** |
 |Funzionalità|[Aggiornamenti delle funzionalità per le sottoscrizioni del software Windows Server](2020-october.md#17)|29 ottobre|
 |Funzionalità|[È ora disponibile l'aggiornamento di Windows 10 Education per i clienti qualificati per la formazione su Cloud Solution Provider (CSP)](2020-october.md#16)|28 ottobre|
 |Funzionalità|[Disponibile ora l'esperienza digitale del Cloud Solution Provider (CSP) aggiornata](2020-october.md#15)|28 ottobre|

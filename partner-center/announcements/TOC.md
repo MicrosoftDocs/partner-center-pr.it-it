@@ -1,4 +1,5 @@
 # [Annunci del Centro per i partner](index.md)
+# [Novembre 2020](2020-november.md)
 # [Ottobre 2020](2020-october.md)
 # [Settembre 2020](2020-september.md)
 # [Agosto 2020](2020-august.md)

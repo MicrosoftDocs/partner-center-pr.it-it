@@ -9,14 +9,14 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406364"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133049"
 ---
-# <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Domande frequenti sui requisiti di sicurezza per i partner
+# <a name="common-questions-about-partner-security-requirements"></a>Domande comuni sui requisiti di sicurezza per i partner
 
 **Si applica a**
 
@@ -26,17 +26,16 @@ ms.locfileid: "91406364"
 
 - Tutti gli utenti abilitati, inclusi gli utenti guest
 
-## <a name="partner-security-requirements"></a>Requisiti di sicurezza dei partner
 
-Questo articolo contiene alcune domande frequenti sui [requisiti di sicurezza per i partner](partner-security-requirements.md).
+Questo articolo risponde ad alcune domande comuni sui [requisiti di sicurezza per i partner ](partner-security-requirements.md).
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>Quali sono i requisiti di sicurezza dei partner e perché devono essere implementati dai partner?
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>Quali sono i requisiti di sicurezza e perché devono essere implementati dai partner?
 
 Tra le nostre priorità principali vi è una maggiore e costante tutela della sicurezza e della privacy e continuiamo ad aiutare i partner a proteggere i loro clienti e tenant. Continuano infatti a perpetrarsi attacchi alla sicurezza sempre più sofisticati, principalmente correlati a eventi imprevisti di compromissione dell'identità. Poiché i controlli preventivi svolgono un ruolo fondamentale in una strategia di difesa complessiva volta a contrastare gli attacchi alla sicurezza, nel 2019 abbiamo introdotto una serie di [requisiti di sicurezza obbligatori](partner-security-requirements.md). Per essere conformi, tutti i partner che partecipano al programma Cloud Solution Provider (CSP), i fornitori di pannelli di controllo e gli Advisor devono implementare i requisiti.
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Quali sono le tempistiche e le attività cardine?
 
-Le condizioni associate ai requisiti di sicurezza, tra cui le sequenze temporali e le attività cardine, sono incluse nel [Contratto Microsoft Partner](microsoft-partner-agreement.md) del 2019. Questi requisiti di sicurezza dovranno essere implementati prima possibile per la conformità alla partecipazione al programma CSP.
+Le condizioni associate ai requisiti di sicurezza, tra cui le sequenze temporali e le attività cardine, sono incluse nel [Contratto Microsoft Partner](microsoft-partner-agreement.md). Questi requisiti di sicurezza dovranno essere implementati prima possibile per la conformità alla partecipazione al programma CSP.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Cosa accade se non vengono implementati questi requisiti di sicurezza dei partner?
 
@@ -46,11 +45,11 @@ I partner che non rispettano queste procedure di sicurezza possono perdere la fa
 
 ### <a name="do-the-security-requirements-apply-to-all-geographies"></a>I requisiti relativi alla sicurezza si applicano a tutte le aree geografiche?
 
-Sì, i requisiti relativi alla sicurezza si applicano a tutte le aree geografiche. È fortemente consigliabile che tutti i partner che effettuino transazioni attraverso un cloud sovrano (21Vianet, governo statunitense e Germania) agiscano e adottino immediatamente questi nuovi requisiti di sicurezza. Tuttavia, non è necessario che questi partner soddisfino i nuovi requisiti di sicurezza a partire dal 1° agosto. Microsoft fornirà altri dettagli sull'applicazione di questi requisiti di sicurezza per i cloud sovrani in futuro.
+Sì, i requisiti relativi alla sicurezza si applicano a tutte le aree geografiche. È fortemente consigliabile che tutti i partner che effettuino transazioni attraverso un cloud sovrano (governo statunitense e Germania) agiscano e adottino immediatamente questi nuovi requisiti di sicurezza. Tuttavia, non è necessario che questi partner soddisfino ora i nuovi requisiti di sicurezza. Microsoft fornirà altri dettagli sull'applicazione di questi requisiti di sicurezza per i cloud sovrani in futuro.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>È possibile ottenere un'esclusione per un account?
 
-No, non è possibile escludere alcun account utente dal requisito di imposizione dell'autenticazione MFA. Considerati i privilegi elevati della condizione di partner, il Contratto Microsoft Partner prevede che l'autenticazione a più fattori venga imposta a ogni account utente presente nel tenant del partner.
+No, non è possibile escludere alcun account dal requisito di applicazione dell'autenticazione a più fattori (MFA). Considerati i privilegi elevati della condizione di partner, il Contratto Microsoft Partner prevede che l'autenticazione a più fattori venga imposta a ogni account utente presente nel tenant del partner.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Come faccio a sapere se soddisfo i requisiti di sicurezza per i partner?
 
@@ -59,7 +58,7 @@ Completare i passaggi seguenti:
 - È necessario soddisfare tutti i requisiti indicati nei [requisiti di sicurezza dei partner](partner-security-requirements.md).
 - Devi assicurarti che per tutti gli account utente del tuo tenant partner sia applicata l'autenticazione a più fattori.
 
-Per identificare le principali aree in cui puoi eseguire azioni, tramite il Centro per i partner forniamo il report sullo [stato dei requisiti di sicurezza](https://partner.microsoft.com/commerce/security/compliance).
+Per identificare le principali aree in cui è possibile eseguire azioni, tramite il Centro per i partner viene fornito il report sullo [stato dei requisiti di sicurezza](https://partner.microsoft.com/commerce/security/compliance).
 
 Per altre informazioni sul report di stato, vedi [Stato dei requisiti di sicurezza per i partner](partner-security-compliance.md).
 
@@ -95,9 +94,9 @@ Tutti i partner del programma CSP (partner con fatturazione diretta, provider in
 
     I fornitori di pannelli di controllo devono infatti eseguire l'[onboarding](enroll-as-cpv.md) al Centro per i partner come fornitore di pannelli di controllo e avviare subito l'implementazione di questo requisito. Vedere [Centro per i partner: framework del modello di applicazione sicura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). I fornitori di pannelli di controllo devono accettare e usare il consenso dei partner CSP anziché le credenziali ed eliminare tutte le credenziali dei partner CSP esistenti.
 
-## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
+## <a name="multi-factor-authentication"></a>Autenticazione a più fattori
 
-### <a name="what-is-multi-factor-authentication-mfa"></a>Che cos'è la Multi-Factor Authentication (MFA)?
+### <a name="what-is-multi-factor-authentication-mfa"></a>Che cos'è l'autenticazione a più fattori (MFA)?
 
 MFA è un meccanismo di sicurezza che consente agli utenti di eseguire l'autenticazione tramite più di una procedura di sicurezza e convalida. In particolare, richiede due o più dei seguenti metodi di verifica:
 
@@ -308,7 +307,7 @@ L'applicazione tecnica dei requisiti di sicurezza per i partner verificherà se 
 
 I [criteri di base di Azure Active Directory (Azure AD) vengono rimossi e sostituiti](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) con le impostazioni predefinite per la sicurezza, un set completo di criteri di protezione per te e i tuoi clienti. Le [impostazioni predefinite per la sicurezza](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) aiutano a proteggere la tua organizzazione da attacchi alla sicurezza correlati al furto di identità.
 
-Se non sei passato dai criteri di base al criterio delle impostazioni predefinite per la sicurezza o ad altre [opzioni di implementazione MFA](partner-security-requirements.md#actions-that-you-need-to-take), la tua implementazione dell'autenticazione a più fattori verrà rimossa a causa del ritiro dei criteri di base. A tutti gli utenti dei tuoi tenant del partner che eseguono operazioni protette dall'autenticazione a più fattori verrà richiesto di effettuare la verifica dell'autenticazione a più fattori. Per indicazioni più dettagliate, consulta [qui](partner-security-requirements-mandating-mfa.md).
+Se non sei passato dai criteri di base al criterio delle impostazioni predefinite per la sicurezza o ad altre [opzioni di implementazione MFA](partner-security-requirements.md#implementing-multi-factor-authentication), la tua implementazione dell'autenticazione a più fattori verrà rimossa a causa del ritiro dei criteri di base. A tutti gli utenti dei tuoi tenant del partner che eseguono operazioni protette dall'autenticazione a più fattori verrà richiesto di effettuare la verifica dell'autenticazione a più fattori. Per indicazioni più dettagliate, consulta [qui](partner-security-requirements-mandating-mfa.md).
 Per essere conforme e ridurre le interruzioni, esegui una delle azioni seguenti:
 
 - Transizione alle impostazioni predefinite per la sicurezza

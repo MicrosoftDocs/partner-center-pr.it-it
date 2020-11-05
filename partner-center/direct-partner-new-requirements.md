@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/09/2020
-ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/29/2020
+ms.openlocfilehash: 7b965bff0a962e26e5e5800a6059e4a6fc7a1d6a
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795775"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045368"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisiti necessari per l'iscrizione come partner con fatturazione diretta CSP
 
@@ -24,27 +24,26 @@ ms.locfileid: "92795775"
 
 ## <a name="enroll-as-a-direct-partner"></a>Iscriversi come partner diretto
 
-Come partner con fatturazione diretta, sei titolare della relazione completa con il cliente e con Microsoft. I requisiti per l'iscrizione come partner con fatturazione diretta sono stati aggiornati in data 31 agosto 2018. Questi nuovi requisiti ti consentiranno di far crescere la tua attività più rapidamente con il modello di iscrizione CSP adeguato. Ti aiuteranno anche a rafforzare le tue relazioni con i clienti con servizi di supporto a valore aggiunto.
+Come partner con fatturazione diretta, sei titolare della relazione completa con il cliente e con Microsoft. Come partner con fatturazione diretta, sei titolare della relazione completa con il cliente e con Microsoft. I requisiti per l'iscrizione come partner con fatturazione diretta sono stati aggiornati in data 27 ottobre 2020. Questi requisiti permetteranno di accelerare la crescita dell'azienda con il giusto modello di Cloud Solution Provider e a rafforzare i rapporti con i clienti tramite servizi e supporto a valore aggiunto.  
 
 ### <a name="minimum-requirements"></a>Requisiti minimi
 
-|**Requisito**|                             |
+|**Requisito**|                |
 |--------------------------------|--------------------------------------------------------------|
-|**ID MPN**   |ID di Microsoft Partner Network (MPN) attivo per la sede della tua azienda.    |
+|**ID MPN**   |Appartenenza al Microsoft Partner Network e ID MPN attivi per la località in cui si desidera vendere.   |
 |**Verifica dell'autenticità**   |L'autorità di accettare e firmare contratti legali per conto della tua organizzazione.|
-|**Ricavi**|A partire da gennaio 2021 gennaio, i partner iscritti come partner di fatturazione diretta dovranno avere sottoposto a transazioni almeno 300K USD nei ricavi del programma Cloud Solution Provider a livello di account globale del partner nei 12 mesi precedenti.| 
-|**Supporto tecnico**   |La possibilità di fornire il primo livello di supporto per il prodotto cloud ai clienti. <br/>Un piano di supporto Microsoft, tra Supporto avanzato per i partner (ASfP, Advanced Support for Partners) o Supporto tecnico Premier per i partner (PSfP, Premier Support for Partners), in base alle tue esigenze. [Confronta i piani di supporto](https://partner.microsoft.com/support/partnersupport).<br/> IMPORTANTE: prima di acquistare un piano di supporto, verrai sottoposto a una verifica della tua situazione creditizia. Se la verifica ha esito positivo, riceverai un'e-mail. |
-|**Servizio gestito**   |Almeno un servizio gestito, servizio di proprietà intellettuale o soluzione applicativa al cliente. Per altre informazioni, vedi l’argomento relativo all’aggiunta di [servizi gestiti](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
+|**Supporto tecnico**   |La possibilità di fornire il primo livello di supporto per il prodotto cloud ai clienti. <br/>Un piano di supporto Microsoft, tra Supporto avanzato per i partner (ASfP, Advanced Support for Partners) o Supporto tecnico Premier per i partner (PSfP, Premier Support for Partners), in base alle tue esigenze. [Confronta i piani di supporto](https://partner.microsoft.com/support/partnersupport).<br/>IMPORTANTE: prima di acquistare un piano di supporto, verrai sottoposto a una verifica della tua situazione creditizia. Se la verifica ha esito positivo, riceverai un'e-mail. |
+|**Requisito dei ricavi**|Ricavi annuali del programma Cloud Solution Provider di almeno 300K USD nei dodici mesi precedenti come rivenditore indiretto. I partner possono esaminare i ricavi degli ultimi dodici mesi nel Centro per i partner.<br/>Le vendite relative a ricavi di 300K USD nei dodici mesi precedenti sono soggette a revisione e verifica da parte di Microsoft e potrebbe essere necessario fornire informazioni aggiuntive. Il requisito di 300K USD di ricavi viene calcolato in base ai ricavi del cloud ed escluderà il software con licenza perpetua in CSP.|
 |**Crediti** |L'infrastruttura organizzativa per la gestione della fatturazione e del provisioning dei clienti.|
+|**Consiglio**|             |
+|**Servizio gestito**   |Almeno un servizio gestito, servizio di proprietà intellettuale o soluzione applicativa al cliente. Per altre informazioni, vedi l’argomento relativo all’aggiunta di [servizi gestiti](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
+
 
 ### <a name="verify-direct-bill-eligibility"></a>Verifica dell'idoneità per la fatturazione diretta
 
-Se non hai ancora provveduto, vedi i requisiti minimi sopra riportati per assicurarti di essere in grado di soddisfarli, quindi compila il [questionario per Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider/assessment).
+Dopo aver verificato che siano soddisfatti i requisiti minimi per la registrazione come partner di fatturazione diretta, è possibile passare al [modulo di registrazione ](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
 
-Le risposte che fornisci alle domande presenti nel modulo consentiranno a Microsoft di stabilire se sei idoneo a iscriverti al programma CSP come partner con fatturazione diretta.
-
-Dopo la verifica dei requisiti di idoneità della tua azienda a iscriversi come partner con fatturazione diretta e dopo che avrai completato la domanda di iscrizione, verranno esaminate e verificate le informazioni societarie che hai fornito durante la procedura di iscrizione. Nel corso di tale verifica verrà controllata anche la situazione creditizia della tua azienda. Se la tua azienda supera tale verifica, riceverai un'e-mail.
-
+Dopo che Microsoft avrà verificato l'idoneità della tua azienda a iscriversi come partner con fatturazione diretta e che avrai completato la domanda di iscrizione, verranno esaminate e verificate le informazioni societarie che hai fornito nel processo di iscrizione. Nel corso di tale verifica verrà controllata anche la situazione creditizia della tua azienda. Se la tua azienda supera tale verifica, riceverai un'e-mail.
 >[!IMPORTANT]
 >La verifica della situazione creditizia della tua azienda può richiedere diversi giorni o anche di più. Durante questo periodo è importante NON acquistare un piano di supporto Microsoft. Procedi all'acquisto solo dopo che sarai stato informato di aver superato la verifica della tua situazione creditizia.
 
@@ -55,6 +54,9 @@ I partner con fatturazione diretta correnti devono soddisfare i nuovi requisiti 
 Se decidi di effettuare la transizione da un'attività di rivenditore con fatturazione diretta a una di rivenditore indiretto, devi eseguire alcune operazioni. Per altre informazioni sulla transizione, vedi [Eseguire la transizione da partner diretto CSP (Cloud Solution Provider) a rivenditore indiretto CSP](transition-direct-to-indirect.md).
 
 ## <a name="next-steps"></a>Passaggi successivi
+
+- [Nuovo requisito dei ricavi per i partner con fatturazione diretta](https://docs.microsoft.com/partner-center/announcements/2020-october#13)
+ 
 
 - [Altre informazioni su come diventare rivenditore indiretto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 

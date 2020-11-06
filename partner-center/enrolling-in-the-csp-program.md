@@ -1,7 +1,7 @@
 ---
 title: Iscriversi al programma Cloud Solution Provider
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come iscriversi al modello di vendita del programma Cloud Solution Provider (CSP) più adatto per l'azienda, ad esempio come rivenditore indiretto o partner con fatturazione diretta.
@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198097"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045396"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
 **Si applica a**
 
-- Programma Cloud Solution Provider  
+- Centro per i partner  
 
 **Ruoli appropriati**
 
@@ -64,26 +64,25 @@ Per altre informazioni su quanto è necessario per partecipare al programma Clou
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Iscriversi come partner con fatturazione diretta
 
-Come partner con fatturazione diretta, sei titolare della relazione completa con il cliente e con Microsoft. I requisiti per l'iscrizione come partner con fatturazione diretta sono stati aggiornati in data 31 agosto 2018. Questi nuovi requisiti ti aiuteranno ad accelerare la crescita della tua azienda con il giusto modello di iscrizione CSP e a rafforzare i rapporti con i clienti tramite servizi e supporto a valore aggiunto.
+Come partner con fatturazione diretta, sei titolare della relazione completa con il cliente e con Microsoft. I requisiti per l'iscrizione come partner con fatturazione diretta sono stati aggiornati in data 27 ottobre 2020. Questi requisiti permetteranno di accelerare la crescita dell'azienda con il giusto modello di Cloud Solution Provider e a rafforzare i rapporti con i clienti tramite servizi e supporto a valore aggiunto.  
 
 ### <a name="minimum-requirements"></a>Requisiti minimi
 
 |**Requisito**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**ID MPN**   |ID di Microsoft Partner Network (MPN) attivo per la sede della tua azienda.    |
+|**ID MPN**   |Appartenenza a Microsoft Partner Network e ID MPN attivi per la località in cui si vuole vendere.    |
 |**Verifica dell'autenticità**   |L'autorità di accettare e firmare contratti legali per conto della tua organizzazione.|
 |**Supporto tecnico**   |La possibilità di fornire il primo livello di supporto per il prodotto cloud ai clienti. <br>Un piano di supporto Microsoft, tra Supporto avanzato per i partner (ASfP, Advanced Support for Partners) o Supporto tecnico Premier per i partner (PSfP, Premier Support for Partners), in base alle tue esigenze. [Confronta i piani di supporto](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: devi essere sottoposto a una verifica della tua situazione creditizia prima di acquistare un piano di supporto. Se la verifica ha esito positivo, riceverai un'e-mail. |
+|**Requisito dei ricavi**|Ricavi annuali del programma Cloud Solution Provider di almeno 300K USD nei dodici mesi precedenti come rivenditore indiretto. I partner possono esaminare i ricavi degli ultimi dodici mesi nel Centro per i partner.<br/>Le vendite relative ai 300K USD di ricavi ottenuti negli ultimi dodici mesi sono soggette a verifica da parte di Microsoft e può essere chiesto di fornire informazioni aggiuntive. Il requisito dei 300K USD di ricavi viene calcolato in base ai ricavi nel cloud e non include il software con licenza perpetua.|
+|**Crediti** |L'infrastruttura organizzativa per la gestione della fatturazione e del provisioning dei clienti.|
+|**Consiglio**|             |
 |**Servizio gestito**   |Almeno un servizio gestito, servizio di proprietà intellettuale o soluzione applicativa al cliente. Per altre informazioni, vedi l’argomento relativo all’aggiunta di [servizi gestiti](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
-|**Crediti** |L'infrastruttura organizzativa per la gestione della fatturazione e del provisioning dei clienti.
 
 ### <a name="verify-direct-bill-eligibility"></a>Verifica dell'idoneità per la fatturazione diretta
 
-Se non hai ancora provveduto, vedi i requisiti minimi sopra riportati per assicurarti di essere in grado di soddisfarli, quindi compila il [questionario per Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider/assessment).
-
-Le risposte che fornisci alle domande presenti nel modulo consentiranno a Microsoft di stabilire se sei idoneo a iscriverti al programma CSP come partner con fatturazione diretta.
+Dopo aver verificato che siano soddisfatti i requisiti minimi per l'iscrizione come partner con fatturazione diretta, è possibile passare al [modulo di iscrizione](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
 
 Dopo che Microsoft avrà verificato l'idoneità della tua azienda a iscriversi come partner con fatturazione diretta e che avrai completato la domanda di iscrizione, verranno esaminate e verificate le informazioni societarie che hai fornito nel processo di iscrizione. Nel corso di tale verifica verrà controllata anche la situazione creditizia della tua azienda. Se la tua azienda supera tale verifica, riceverai un'e-mail.
-
 >[!IMPORTANT]
 >La verifica della situazione creditizia della tua azienda può richiedere diversi giorni o anche di più. Durante questo periodo è importante NON acquistare un piano di supporto Microsoft. Procedi all'acquisto solo dopo che sarai stato informato di aver superato la verifica della tua situazione creditizia.
 

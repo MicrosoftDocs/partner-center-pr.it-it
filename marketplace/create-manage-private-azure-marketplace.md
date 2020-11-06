@@ -1,18 +1,17 @@
 ---
 title: Creare e gestire Azure Marketplace privato in portale di Azure
 description: Informazioni sulla creazione e sulla gestione di Azure Marketplace privato (anteprima) nel portale di Azure.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.prod: marketplace-customer
 ms.topic: article
 author: keferna
 ms.author: keferna
 ms.date: 09/18/2020
-ms.openlocfilehash: c0a395a7c5bfe926cdc56d7386aaaebb0305fb68
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
+ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "91429357"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "93414859"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Creare e gestire Azure Marketplace privato (anteprima) nel portale di Azure
 
@@ -136,17 +135,17 @@ Per ulteriori informazioni sui cmdlet contenuti nel modulo AZ. Portal PowerShell
 
 3. Selezionare **Marketplace privato** dalle opzioni a sinistra.
 
-    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Portale di Azure finestra principale.":::
+    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Selezionare Marketplace privato nella finestra principale portale di Azure.":::
 
 4. Selezionare **inizia a creare** Azure Marketplace privato (è necessario eseguire questa operazione una sola volta).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Portale di Azure finestra principale.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Selezionare inizia nella finestra principale portale di Azure.":::
 
     Se per questo tenant è già presente Azure Marketplace privato, per impostazione predefinita verrà selezionato **gestione Marketplace** .
 
 5. Al termine, sarà presente un Azure Marketplace privato vuoto e disabilitato.
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Portale di Azure finestra principale.":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Schermata privata vuota di Azure Marketplace.":::
 
 ## <a name="add-items-from-gallery"></a>Aggiungi elementi dalla raccolta
 
@@ -156,11 +155,11 @@ Un elemento è una combinazione di un'offerta e un piano. È possibile cercare e
 
 2. Sfogliare la **raccolta** o usare il campo di ricerca per trovare l'elemento desiderato.
 
-    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Portale di Azure finestra principale.":::
+    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Esplorare la raccolta o usare il campo di ricerca.":::
 
 3. Per impostazione predefinita, quando si aggiunge una nuova offerta, tutti i piani correnti verranno aggiunti all'elenco dei consentiti. Per modificare la selezione del piano prima di aggiungere gli elementi selezionati, selezionare il menu a discesa nel riquadro dell'offerta e aggiornare i piani richiesti.
 
-    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Portale di Azure finestra principale.":::
+    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Aggiornare i piani richiesti.":::
 
 4. Selezionare **done** in basso a sinistra dopo aver effettuato le selezioni.
 
@@ -174,7 +173,7 @@ Un elemento è una combinazione di un'offerta e un piano. È possibile cercare e
 1. Nella colonna **piani** rivedere i piani disponibili dal menu a discesa per l'elemento.
 2. Selezionare o deselezionare le caselle di controllo per scegliere i piani da rendere disponibili agli utenti.
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Portale di Azure finestra principale.":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Selezionando o deselezionando la casella di controllo per l'elemento richiesto.":::
 
 > [!NOTE]
 > Per ogni offerta è necessario almeno un piano selezionato affinché l'aggiornamento venga eseguito. Per rimuovere tutti i piani correlati a un'offerta, eliminare l'intera offerta (vedere la sezione successiva).
@@ -187,9 +186,9 @@ Nella pagina Gestisci Marketplace selezionare la casella di controllo accanto al
 
 Nella pagina Gestisci Marketplace viene visualizzato uno di questi banner, che mostra lo stato corrente di Azure Marketplace privato:
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="Portale di Azure finestra principale.":::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="Disabilitare il banner di stato":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="Portale di Azure finestra principale.":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="Abilita banner di stato":::
 
 È possibile abilitare o disabilitare Azure Marketplace privato in base alle esigenze.
 
@@ -205,7 +204,7 @@ Quando Azure Marketplace privato è abilitato, gli utenti vedranno quali piani s
 
 Gli utenti possono filtrare tra le offerte che non sono consentite:
 
-:::image type="content" source="media/private-azure/filter-option.png" alt-text="Portale di Azure finestra principale.":::
+:::image type="content" source="media/private-azure/filter-option.png" alt-text="Opzione di filtro.":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>Acquistare o distribuire in Azure Marketplace privato
 
@@ -213,16 +212,16 @@ Anche se l'esperienza della pagina dei dettagli sul prodotto è simile a quella 
 
 - Quando un utente seleziona un piano consentito, viene abilitato il pulsante **Crea** :
 
-    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Portale di Azure finestra principale.":::
+    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Banner offerta che consente di creare un piano.":::
 
 - Quando un utente seleziona un piano non consentito, un banner rileva che il piano non è consentito e il pulsante **Crea** è disabilitato.
 
-   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Portale di Azure finestra principale.":::
+   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Non è possibile creare il banner dell'offerta notando un piano.":::
 
 - Se la selezione di un piano del prodotto non viene visualizzata nella pagina dei dettagli del prodotto, ma l'amministratore ha approvato uno o più piani, un banner rileva quali piani sono consentiti e il pulsante **Crea** è abilitato:
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Portale di Azure finestra principale.":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Banner dell'offerta che indica che è possibile creare un piano e visualizzare i piani disponibili.":::
 
-## <a name="contact-support"></a>Contattare il supporto tecnico
+## <a name="contact-support"></a>Rivolgersi al Supporto Tecnico
 
 Per il supporto di Azure Marketplace, visitare [Microsoft Q&A](/answers/products/). 

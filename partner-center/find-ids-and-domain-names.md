@@ -1,7 +1,7 @@
 ---
 title: Trovare l'ID tenant, il nome di dominio, l'ID oggetto utente
 ms.topic: how-to
-ms.date: 09/16/2020
+ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come trovare gli ID nell'portale di Azure, ovvero l'ID tenant, il nome di dominio o l'ID oggetto utente specifico di un'organizzazione Azure AD. Per alcune attività sono necessarie queste informazioni.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4a3695079a9d5b0b3c66b7c2eda52a31888a6660
-ms.sourcegitcommit: 3158b0de261539694e37e433c763afa4067e36fb
+ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90740404"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360072"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Individuare gli ID importanti per un utente
 
@@ -28,7 +28,7 @@ Questo articolo descrive come usare la [portale di Azure](https://portal.azure.c
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Trovare l'ID tenant Microsoft Azure AD e il nome di dominio primario
 
-Seguire questa procedura per individuare l'ID tenant Azure AD o il nome di dominio primario all'interno del portale di Azure.
+Seguire questa procedura per individuare l'ID tenant Azure AD o il nome di dominio primario all'interno del portale di Azure. Se si vuole trovare un ID tenant a livello di codice, vedere [trovare l'ID tenant con PowerShell o l'interfaccia](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)della riga di comando.
 
 > [!NOTE]
 > L'ID tenant può essere chiamato nomi diversi in applicazioni o risorse diverse. Ad esempio, l'ID tenant può essere indicato come ID directory, il tenant Azure Active Directory (Azure AD), l'ID Microsoft o per determinati report, anche *tenantguid*.
@@ -75,5 +75,6 @@ Solo la ricerca del nome di dominio e dell'ID tenant potrebbe non essere sempre 
 
 ## <a name="next-steps"></a>Passaggi successivi
 
+- [Trovare l'ID tenant a livello di codice con PowerShell o l'interfaccia della riga di comando](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Altre informazioni sui profili utente in Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Scopri in che modo i partner possono visualizzare o esportare i dettagli dei clienti nel centro per i partner](see-your-customer-list.md)

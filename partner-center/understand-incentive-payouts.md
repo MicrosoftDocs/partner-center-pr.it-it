@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
-ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
+ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "93244064"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360055"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Visualizza, Gestisci ed Esporta i dettagli del programma incentives
 
@@ -39,8 +39,8 @@ Usare queste pagine per visualizzare i dettagli del passato, in sospeso e i paga
 
 È possibile accedere alle informazioni sugli incentivi in diversi modi dal [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner:
 
-- Selezionare **incentivi** dal menu a sinistra. Diverse opzioni vengono visualizzate in **incentivi** , inclusa la **Panoramica** . Esplora queste opzioni per conoscere lo stato di programmi incentive, pagamenti di incentivi, guadagni e attestazioni.
-- Selezionare l'icona **Money** (payout) nell'angolo superiore destro. È quindi possibile selezionare altre opzioni, ad esempio **Cronologia transazioni** , **pagamenti** , **Esporta dati** o **report ufficio vendite** .
+- Selezionare **incentivi** dal menu a sinistra. Diverse opzioni vengono visualizzate in **incentivi** , inclusa la **Panoramica**. Esplora queste opzioni per conoscere lo stato di programmi incentive, pagamenti di incentivi, guadagni e attestazioni.
+- Selezionare l'icona **Money** (payout) nell'angolo superiore destro. È quindi possibile selezionare altre opzioni, ad esempio **Cronologia transazioni** , **pagamenti** , **Esporta dati** o **report ufficio vendite**.
 
 Le pagine seguenti sono descritte di seguito:
 
@@ -70,7 +70,7 @@ Per accedere alla **panoramica degli incentivi** :
    - Per raggruppare in base alla posizione, selezionare la scheda **per località** sopra la tabella.
    - Per visualizzare altri dettagli sulle registrazioni in un gruppo specifico, selezionare il simbolo della freccia di espansione alla fine di una determinata riga. Questa freccia di espansione espande la visualizzazione.
 
-4. Se è necessaria un'ulteriore azione per la registrazione in un programma, queste informazioni verranno visualizzate nella colonna **Stato** . In questo caso, selezionare il simbolo della freccia di espansione per ottenere informazioni sui passaggi successivi da eseguire.
+4. Se è necessaria un'ulteriore azione per la registrazione in un programma, queste informazioni verranno visualizzate nella colonna **Stato**. In questo caso, selezionare il simbolo della freccia di espansione per ottenere informazioni sui passaggi successivi da eseguire.
 
 >[!NOTE]
 >Vedere la tabella seguente per altre informazioni sui diversi Stati di registrazione indicati nella colonna **stato** .
@@ -95,7 +95,7 @@ I totali in questa pagina rappresentano tutti gli ID MPN usati. È possibile fil
 |Pagamento successivo stimato      |Il singolo pagamento successivo (anche se ne saranno presto disponibili altri), in dollari statunitensi.                                     |
 |Ultimo pagamento           |La quantità (in dollari USA), il nome del programma e l'ID MPN del pagamento più recente.                                      |
 |Pagamenti per origine       |Quantità di pagamenti, in dollari statunitensi, rappresentati dal programma negli ultimi 12 mesi.                                      |
-|Pagamenti                       |Selezionare a **pagamento** o **in sospeso** e quindi ordinare come si desidera. Per ulteriori informazioni su un pagamento specifico, selezionare **Visualizza** . Per scaricare una copia del rendiconto della rimessa di pagamento, selezionare **Scarica** . I dati relativi alla cronologia delle transazioni possono richiedere fino a 24 ore, quindi è possibile che non vengano visualizzati immediatamente gli utili associati.  |
+|Pagamenti                       |Selezionare a **pagamento** o **in sospeso** e quindi ordinare come si desidera. Per ulteriori informazioni su un pagamento specifico, selezionare **Visualizza**. Per scaricare una copia del rendiconto della rimessa di pagamento, selezionare **Scarica**. I dati relativi alla cronologia delle transazioni possono richiedere fino a 24 ore, quindi è possibile che non vengano visualizzati immediatamente gli utili associati.  |
 
 Per esportare i dati in questa pagina, selezionare **Esporta** e seguire le istruzioni nella pagina Esporta dati.
 
@@ -139,7 +139,7 @@ Se non si conosce il numero di riferimento per gli incentivi del canale (CI), è
 
 - Il [Dashboard del centro](https://partner.microsoft.com/dashboard/) per i partner (login obbligatorio), sia nella scheda a **pagamento** che nella scheda **in sospeso** .  
 
-- Il report sul pagamento, disponibile nella pagina di [esportazione del download di pagamento](/partner-center/understand-incentive-payouts#payment-download-export). 
+- Il report sul pagamento, disponibile nella pagina di [esportazione del download di pagamento](#payment-download-export). 
 
 #### <a name="if-your-submission-is-rejected"></a>Se l'invio è stato rifiutato
 
@@ -167,7 +167,7 @@ La pagina Cronologia transazioni include ora una tabella che Mostra gli importi 
 
 Il mese di pagamento stimato viene calcolato in base alle regole e alle sequenze temporali di configurazione del programma e viene elaborato nel ciclo di pagamento successivo o imminente.
 
-Il mese di pagamento stimato è attualmente disponibile per tutti i tipi di guadagno eccetto co-op, che verrà visualizzato come **non applicabile** . Per i guadagni prima del 1 ° luglio 2020, il mese di pagamento stimato verrà visualizzato come **non disponibile** .
+Il mese di pagamento stimato è attualmente disponibile per tutti i tipi di guadagno eccetto co-op, che verrà visualizzato come **non applicabile**. Per i guadagni prima del 1 ° luglio 2020, il mese di pagamento stimato verrà visualizzato come **non disponibile**.
 
 #### <a name="estimated-payment-month-example"></a>Esempio di mese di pagamento stimato
 
@@ -220,7 +220,7 @@ Ecco alcune considerazioni quando si tenta di esportare i dati:
 
 - La pagina di esportazione dati non viene aggiornata automaticamente. Per visualizzare i dati più recenti, potrebbe essere necessario aggiornare la pagina manualmente.
 
-- Il filtro può causare un errore di tipo **Non sono disponibili dati** . Questo errore probabilmente significa che è stato lasciato il periodo di tempo predefinito selezionato a tre mesi, quindi è stato selezionato un ID di pagamento da un guadagno che esula da tale periodo. Espandere il periodo di tempo e riprovare.
+- Il filtro può causare un errore di tipo **Non sono disponibili dati**. Questo errore probabilmente significa che è stato lasciato il periodo di tempo predefinito selezionato a tre mesi, quindi è stato selezionato un ID di pagamento da un guadagno che esula da tale periodo. Espandere il periodo di tempo e riprovare.
 
 ## <a name="payment-download-export"></a>Esportazione di download di pagamento
 Questa opzione consente di scaricare i pagamenti ricevuti in banca per un determinato programma, le imposte associate e la quantità aggregata di utili.
@@ -331,7 +331,7 @@ Il report Riepilogo transazioni fornisce i dettagli della transazione a livello 
 ### <a name="download-the-transaction-summary-report"></a>Scaricare il report di riepilogo delle transazioni
 
 1. Nella pagina **Panoramica incentivi** selezionare l'icona **Money** (payout) nell'angolo superiore destro.
-2. Selezionare **Esporta dati** .
+2. Selezionare **Esporta dati**.
 3. Selezionare la scheda **Riepilogo transazioni** .
 4. Selezionare i filtri appropriati per visualizzare i programmi e le leve idonei per i guadagni aggregati. Se non viene visualizzato alcun dato, i programmi non sono idonei per le leve aggregate.
 5. Selezionare **Avvia download**   per esportare il report.  

@@ -1,20 +1,20 @@
 ---
 title: Eseguire la migrazione da partner Sales Connect (PSC)
-ms.topic: article
-ms.date: 08/27/2020
-ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner Microsoft possono eseguire la migrazione da partner Sales Connect (PSC) al centro per i partner e creare o gestire le offerte inviate dai venditori Microsoft.
+ms.topic: article
 author: vikramb
 ms.author: vikramb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 11/06/2020
+ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999345"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381432"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
 
@@ -30,7 +30,7 @@ ms.locfileid: "90999345"
 - Amministratore di partner Sales Connect (PSC)
 - Partner Sales Connect (PSC) Deal Manager
 
-Come è noto, l'azienda perderà l'accesso a CPS dopo il 31 dicembre 2020. Tuttavia, troverai tutto quello che vuoi fare per creare offerte di co-selling, gestire le tue offerte e agire sulle offerte inviate da Microsoft Sellers all'utente nel centro per i partner. Esistono tuttavia alcune differenze e le linee guida seguenti consentono di eseguire la transizione al centro per i partner più agevole e in modo semplice.
+Come è noto, l'azienda perderà l'accesso a PSC dopo il 31 marzo 2021. Tuttavia, troverai tutto quello che vuoi fare per creare offerte di co-selling, gestire le tue offerte e agire sulle offerte inviate da Microsoft Sellers all'utente nel centro per i partner. Esistono tuttavia alcune differenze e le linee guida seguenti consentono di eseguire la transizione al centro per i partner più agevole e in modo semplice.
 
 >[!Important]
 > Se ci si trova nel punto in cui è stato visualizzato un banner in PSC sulla migrazione, l'utente si trova nel posto giusto. Questa guida non è applicabile per la valutazione della soluzione (SA) e i partner di Internet degli altri OEM che gestiscono le proprie offerte in CPS.
@@ -47,7 +47,7 @@ Come è noto, l'azienda perderà l'accesso a CPS dopo il 31 dicembre 2020. Tutta
 >[!Important]
 > Assicurarsi che l'ID MPN visualizzato nel banner del CPS sia disponibile nell'elenco di percorsi MPN nel centro per i partner. Per verificare l'elenco di tutti i MPNs associati all'account del centro per i partner, è possibile verificare che nel centro per i partner si trovino le "Impostazioni account" e "[località](manage-locations.md)".
 
- :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Immagine che mostra il banner del CPS in cui i partner possono trovare l'ID MPN.":::
+:::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Immagine che mostra il banner del CPS in cui i partner possono trovare l'ID MPN.":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Se si è responsabile della gestione delle offerte PSC o del venditore
 
@@ -63,26 +63,55 @@ Se non viene visualizzata la scheda riferimenti:
 
 - L' [amministratore globale](permissions-overview.md) dell'azienda può concedere l'accesso alla scheda riferimenti. Per trovare l'amministratore globale, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Selezionare la pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "Global Admins". La pagina visualizzerà quindi tutti gli amministratori globali con i rispettivi ID di posta elettronica. Contattarli per ottenere l'accesso "referral admin" per l'account aziendale.
 
->[!Important]
-> Se il ruolo gestisce solo gli utenti in CPS, è possibile ottenere il ruolo di [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) nel centro per i partner. Se il ruolo include anche la gestione di opportunità di co-selling, è necessario ottenere il ruolo di [amministratore dei riferimenti](permissions-overview.md#manage-referrals) . Inoltre, è possibile nominare un responsabile della gestione delle modifiche tra gli amministratori del CPS per collaborare con l'amministratore dell'account del centro per i partner invece che con tutti gli amministratori del CPS che raggiungono gli amministratori dell'account in PC singolarmente.
+  >[!Important]
+  > Se il ruolo gestisce solo gli utenti in CPS, è possibile ottenere il ruolo di [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) nel centro per i partner. Se il ruolo include anche la gestione di opportunità di co-selling, è necessario ottenere il ruolo di [amministratore dei riferimenti](permissions-overview.md#manage-referrals) . Inoltre, è possibile nominare un responsabile della gestione delle modifiche tra gli amministratori del CPS per collaborare con l'amministratore dell'account del centro per i partner invece che con tutti gli amministratori del CPS che raggiungono gli amministratori dell'account in PC singolarmente.
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Immagine che Mostra gli amministratori dell'account nella pagina Gestione utenti delle impostazioni partner.":::
+  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Immagine che Mostra gli amministratori dell'account nella pagina Gestione utenti delle impostazioni partner.":::
 
 - Passare alla scheda riferimenti nel riquadro di spostamento a sinistra e verificare se è possibile accedere alle pagine.
 
+  >[!Note]
+  > Potrebbe essere necessario disconnettersi dal centro per i partner e accedere di nuovo per aggiornare le credenziali per l'accesso alle pagine dei riferimenti.
+
+## <a name="user-migration"></a>Migrazione degli utenti
+
+Dopo aver configurato l'account nel centro per i partner, usare la migrazione guidata utenti nella pagina opportunità di co-selling per assegnare automaticamente i ruoli del centro partner ai dipendenti della società.
+
 >[!Note]
-> Potrebbe essere necessario disconnettersi dal centro per i partner e accedere di nuovo per aggiornare le credenziali per l'accesso alle pagine dei riferimenti.
+> La migrazione degli utenti può essere eseguita solo dagli [amministratori dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) della società. Se non si ha il ruolo di amministratore dell'account, trovare un amministratore dell'account che consenta di configurare gli account utente con la guida alla migrazione guidata utenti. La funzionalità di migrazione utente sarà disponibile a partire dal 16 novembre 2020.
 
-Dopo aver configurato l'account nel centro per i partner,
+:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Immagine che mostra la migrazione guidata utenti.":::
 
-- Invitare tutti gli utenti che hanno un ruolo "Deal Manager" o "seller" da CPS al centro per i partner come passaggio successivo.
-- L' [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) che ha aiutato l'accesso ai riferimenti può invitare tutti gli utenti.
-- Quando si invitano gli utenti, chiedere all'amministratore dell'account di assegnare il ruolo di [amministratore di riferimento](permissions-overview.md#manage-referrals) .
-- Alcuni utenti di PSC potrebbero usare un account non aziendale o un account di un dominio diverso da quello usato nel centro per i partner. Tutti questi utenti devono accedere al centro per i partner usando il proprio account di lavoro collegato al tenant di Azure AD. L' [amministratore globale](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) può essere d'aiuto per questa operazione. Per trovare l'amministratore globale, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Fare clic sulla pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "Global Admins".
-- L'amministratore globale può creare un nuovo account utente nel tenant di Azure AD o assegnare l'accesso utente Guest agli altri utenti dell'account di dominio.
-- Una volta configurati gli account per tutti gli utenti e i responsabili delle operazioni di PSC, è necessario accedere al centro per i partner, passare alla scheda referral nel pannello di navigazione a sinistra e verificare che possano visualizzare la pagina dei riferimenti.
+Gli amministratori dell'account otterranno un collegamento alla migrazione guidata utente PSC nella pagina di co-selling Opportunities accanto alla guida dei riferimenti. È possibile avviare la migrazione utente facendo clic sul collegamento. Questa azione può essere eseguita più volte fino a quando tutti gli utenti a cui la società vuole eseguire la migrazione non vengono assegnati ruoli appropriati nel centro per i partner.
+
+La tabella di migrazione utente presenta i dettagli seguenti
+
+- Account utente-ID di posta elettronica del dipendente
+- Account partner PSC: l'account a cui è associato il dipendente in PSC
+- Ruolo utente PSC: uno dei tre ruoli assegnati a in CPS.
+- Percorso MPN del PC: il percorso a cui l'utente riceverà i ruoli del PC pertinenti. L'account partner PSC viene usato per trovare la posizione MPN equivalente nel centro per i partner per l'assegnazione delle autorizzazioni. L'intera organizzazione indica l'ID MPN di vOrg.
+- Ruolo utente PC: ai dipendenti vengono assegnati ruoli in base ai rispettivi ruoli utente del CPS. All'amministratore in PSC verranno assegnati i ruoli di amministratore dei riferimenti in PC. Al venditore verrà assegnato il ruolo utente riferimenti in PC. Scopri di più sui ruoli del PC e sui vantaggi che gli utenti con questi ruoli possono eseguire [nel centro per](permissions-overview.md#manage-referrals) i partner
+- Tenant di AAD per PC: il tenant a cui gli utenti sono assegnati nel centro per i partner
+- Stato: esistono tre possibili stati per lo stato della migrazione
+    - Non migrato-l'utente non ha un ruolo di riferimento per i PC assegnati
+    - Migrated: l'utente è stato migrato correttamente con il ruolo pertinente assegnato, come illustrato nella tabella
+    - Errore-non è possibile completare la migrazione a causa di un errore
+
+La migrazione può avere esito negativo e causare errori in alcune condizioni per le quali le soluzioni sono fornite di seguito
+
+1. È possibile che gli utenti del CPS stiano usando un account non di lavoro.
+
+2. Gli utenti del PSC possono usare un account di un dominio diverso da quello usato nel centro per i partner.
+
+   - Per risolvere gli errori correlati agli scenari 1 e 2, tutti gli utenti devono accedere al centro per i partner usando il proprio account di lavoro collegato al tenant di Azure AD. L' [amministratore globale](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) può essere d'aiuto per questa operazione. Per trovare l'amministratore globale, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Fare clic sulla pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "Global Admins". L'amministratore globale può creare un nuovo account utente nel tenant di Azure AD o assegnare l'accesso utente Guest agli altri utenti dell'account di dominio. Una volta configurati gli account per tutti gli utenti e i responsabili delle operazioni di PSC, è necessario accedere al centro per i partner, passare alla scheda referral nel pannello di navigazione a sinistra e verificare che possano visualizzare la pagina dei riferimenti.
+
+3. All'utente è già assegnato un ruolo di riferimento nel centro per i partner.
+    - È possibile verificare il ruolo esistente dell'utente dalla pagina di gestione degli utenti nelle impostazioni dell'account e modificarlo in base alle esigenze.
+
+Dopo aver completato la migrazione degli utenti, usare le linee guida seguenti per decidere la strategia di migrazione: 
 
 Se la società dispone di un PDM-quando l'account del centro per i partner è configurato e gli utenti sono stati spostati e hanno ruoli e autorizzazioni, è possibile spostare le attività di co-selling nel centro per i partner. Informare il PDM per eseguire il compartimento invece di attendere il completamento della scadenza della migrazione, in modo da consentire l'esecuzione di tutte le nuove offerte nel centro per i partner.
+
 >[!Note]
 >Una volta eseguito questo passaggio, sarà possibile agire solo sulle operazioni attive esistenti in CPS. Non è possibile creare nuove trattative né ricevere offerte da Microsoft Sellers in PSC.
 
@@ -128,7 +157,7 @@ In questa sezione viene illustrata la mappa esatta degli attributi tra CPS e cen
 - Il ruolo Deal non è un campo obbligatorio in PC. Non viene né visualizzata né acquisita in nessuno dei flussi di lavoro. Viene derivato automaticamente sul lato venditore Microsoft in base alle soluzioni aggiunte all'affare.
 - La data dell'Ultima modifica non viene visualizzata nella pagina dei dettagli del riferimento nel PC. I partner possono usare la funzionalità di ordinamento per ordinare le offerte in base alla data dell'ultimo aggiornamento.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione griglia partner Sales Connect (PSC) e la vista di gestione dei partner Center.":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione griglia partner Sales Connect (PSC) e la vista di gestione dei partner Center.":::
 
 **Visualizzazione dei dettagli dell'offerta in CPS e centro per i partner**
 
@@ -141,11 +170,11 @@ In questa sezione viene illustrata la mappa esatta degli attributi tra CPS e cen
 >[!Note]
 >Eventuali operazioni contrassegnate come vinte o perse non possono essere modificate post. Prestare attenzione quando si trasferisce un problema in uno di questi stati terminali.
 
- :::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione dettagli dell'affare partner Sales Connect (PSC) e la visualizzazione dettagli dell'affare del centro per i partner.":::
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione dettagli dell'affare partner Sales Connect (PSC) e la visualizzazione dettagli dell'affare del centro per i partner.":::
 
 **Visualizzazione ' Aggiungi prodotti ' del CPS e la visualizzazione ' Aggiungi soluzioni ' al centro per i partner**
 
- :::image type="content" source="images/pscmigration/products.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione di aggiunta dei prodotti partner Sales Connect (PSC) e la visualizzazione Aggiungi soluzioni per il centro per i partner.":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione di aggiunta dei prodotti partner Sales Connect (PSC) e la visualizzazione Aggiungi soluzioni per il centro per i partner.":::
 
 **Gestione utenti in CPS e centro per i partner**
 
@@ -156,11 +185,11 @@ In questa sezione viene illustrata la mappa esatta degli attributi tra CPS e cen
 - Il ruolo equivalente per l'amministratore del CPS è il ruolo di amministratore dell'account nel centro per i partner.
 - Nel centro per i partner è disponibile un solo ruolo per la gestione delle operazioni di co-selling che rappresenta il ruolo di amministratore di riferimento.
 
- :::image type="content" source="images/pscmigration/roles.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione assegnazione ruolo Partner Sales Connect (PSC) e la visualizzazione assegnazione ruolo centro partner.":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione assegnazione ruolo Partner Sales Connect (PSC) e la visualizzazione assegnazione ruolo centro partner.":::
 
 **Notifiche in CPS e centro per i partner**
 
- :::image type="content" source="images/pscmigration/notifications.png" alt-text="Immagine che mostra il mapping tra le notifiche di partner Sales Connect (PSC) e la visualizzazione notifiche del centro per i partner.":::
+:::image type="content" source="images/pscmigration/notifications.png" alt-text="Immagine che mostra il mapping tra le notifiche di partner Sales Connect (PSC) e la visualizzazione notifiche del centro per i partner.":::
 
 ## <a name="moving-from-psc-to-partner-center---frequently-asked-questions"></a>Passaggio da CPS al centro per i partner-domande frequenti
 
@@ -246,7 +275,9 @@ Se non sono stati ancora letti gli argomenti della Guida di co-selling, le risor
 |Creazione e gestione del profilo di business|[Gestire profilo di business](./create-a-marketing-profile.md)
 |Gestisci lead per il tuo profilo business |[Gestire lead](./manage-leads.md)|
 
-## <a name="additional-resources"></a>Risorse aggiuntive
+## <a name="next-steps"></a>Passaggi successivi
+
+Seguire queste risorse aggiuntive:
 
 - [Partner Sales connettersi alla cartella](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) di lavoro del centro per i partner-cartella di lavoro per allineare i processi di vendita e i ruoli dei partner con i nuovi processi di vendita tramite partner Center e partner Sales Connect.
 - [Guida alla co-selling del centro](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) per i partner: linee guida per identificare un modello operativo tramite il centro per i partner per gestire i lead o le opportunità di co-selling e registrare le offerte

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174839"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381410"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Risolvere i problemi di configurazione dell'account o di rinnovo MPN
 
@@ -50,7 +50,7 @@ Per altre informazioni, vedere [iscrizione self-service](/azure/active-directory
 
 Se si dimentica la password, selezionare il collegamento **non è possibile accedere all'account?** nella pagina di accesso. Questa opzione consente di reimpostare la password o di richiedere all'amministratore globale di assegnare le nuove credenziali.
 
-## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>In "informazioni sulla propria azienda", viene visualizzato un errore che indica che si è verificato un problema
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Nella schermata "informazioni sull'azienda" viene visualizzato un errore che indica che si è verificato un problema
 
 Questo messaggio di errore viene in genere visualizzato se si usano inavvertitamente caratteri speciali, spazi o codice paese nel numero di telefono dell'azienda. Il valore immesso nel campo numero di telefono può contenere un massimo di 10 caratteri.
 

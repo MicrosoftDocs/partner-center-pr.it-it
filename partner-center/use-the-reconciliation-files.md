@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98bfd9a9ce6f03ad62a830f05ba82f9b90268326
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999705"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488083"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Informazioni su come leggere le voci nei file di riconciliazione del centro per i partner
 
@@ -30,13 +30,14 @@ Ruoli appropriati:
 - Amministratore fatturazione
 - Amministratore globale
 
-Per informazioni su come leggere la **fattura**, vedere [leggere la fattura](read-your-bill.md).
+Per informazioni su come leggere la **fattura** , vedere [leggere la fattura](read-your-bill.md).
 
 ## <a name="understand-reconciliation-file-fields"></a>Informazioni sui campi del file di riconciliazione
 
 - [Campi del file di riconciliazione basato su licenza](license-based-recon-files.md)
 - [Campi del file di riconciliazione basata sull'utilizzo](usage-based-recon-files.md)
 - [Campi del file di riconciliazione dell'utilizzo con classificazione giornaliera](daily-rated-usage-recon-files.md)
+- [Campi del file di riconciliazione del CSP di acquisto monouso](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Informazioni sui tipi di addebito nei file di riconciliazione
 
@@ -50,11 +51,11 @@ Per correggere eventuali problemi di formattazione nei file di riconciliazione, 
 
 1. Aprire il file di riconciliazione (in formato CSV) in Microsoft Excel.
 2. Consente di selezionare la prima colonna del file.
-3. Aprire la **procedura guidata Converti testo in colonne**. Sulla barra multifunzione selezionare **dati**, quindi selezionare **testo in colonne**.
+3. Aprire la **procedura guidata Converti testo in colonne**. Sulla barra multifunzione selezionare **dati** , quindi selezionare **testo in colonne**.
 4. Nella procedura guidata selezionare **tipo di file delimitato**. Quindi selezionare **Avanti**.
 5. Nel campo **delimitatori** selezionare **virgola**. Se la **scheda** è già selezionata, è possibile lasciare selezionata questa opzione. Quindi selezionare **Avanti**.
 6. Nel campo **formato dati colonna** selezionare **Data: MDY**. Quindi selezionare **Avanti**.
-7. Nel campo **formato dati colonna** selezionare **testo** per tutte le colonne Amount. Quindi selezionare **Fine**.
+7. Nel campo **formato dati colonna** selezionare **testo** per tutte le colonne Amount. quindi fare clic su **Fine**.
 
 ## <a name="download-reconciliation-files-programmatically"></a>Scarica i file di riconciliazione a livello di codice
 
@@ -80,11 +81,11 @@ I partner del **modello indiretto** possono usare questi campi aggiuntivi nei fi
 
 Se un partner CSP ha venduto la sottoscrizione direttamente al cliente, l' **ID MPN** viene elencato due volte, sia come **ID MPN** sia come **ID MPN rivenditore**.
 
-Se un partner CSP ha un rivenditore senza **ID MPN**, questo valore viene impostato invece sull' **ID MPN** del partner.
+Se un partner CSP ha un rivenditore senza **ID MPN** , questo valore viene impostato invece sull' **ID MPN** del partner.
 
-Se il partner CSP rimuove un **ID MPN rivenditore**, questo valore viene impostato su *-1*.
+Se il partner CSP rimuove un **ID MPN rivenditore** , questo valore viene impostato su *-1*.
 
-Per visualizzare o aggiornare l' **ID MPN del rivenditore**:
+Per visualizzare o aggiornare l' **ID MPN del rivenditore** :
 
 1. Accedere al Centro per i partner.
 2. Nel menu del Centro per i partner scegli **Clienti**.

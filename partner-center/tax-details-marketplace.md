@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 89b014b87dd37cc2d38a5931b2f5433394f369c9
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175001"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488198"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Dettagli sulle imposte per gli editori del marketplace commerciale
 
@@ -264,12 +264,12 @@ Le condizioni seguenti si applicano solo agli editori di Azure Marketplace, in d
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
 | Australia (per gli acquisti effettuati attraverso tutti gli scenari di acquisto dei clienti, escluso il Contratto Enterprise) | Il prezzo selezionato è il prezzo di vendita finale e include eventuali imposte applicabili. | Microsoft |
 | Australia (solo per gli acquisti effettuati attraverso lo scenario di acquisto del cliente del Contratto Enterprise) | Il prezzo selezionato è il prezzo di vendita finale e include eventuali imposte applicabili. | Editore |
-| Brasile | Il prezzo selezionato è il prezzo di vendita finale e include eventuali imposte applicabili. | Editore (**vedere paesi/aree del rivenditore**) |
-| Messico | Il prezzo selezionato è il prezzo di vendita finale e include eventuali imposte applicabili. | Editore (**vedere paesi/aree del rivenditore**) |
+| Brasile | Il prezzo selezionato è il prezzo di vendita finale e include eventuali imposte applicabili. | Editore ( **vedere paesi/aree del rivenditore** ) |
+| Messico | Il prezzo selezionato è il prezzo di vendita finale e include eventuali imposte applicabili. | Editore ( **vedere paesi/aree del rivenditore** ) |
 
 ## <a name="mixed-remittance-countriesregions-for-publishers"></a>Paesi/aree di rimessa mista per gli editori
 
-Alcuni partner di fatturazione Microsoft possono riscuotere e rimborsare vendite, utilizzo, beni e servizi, IVA o imposte simili, se presenti, applicabili all'acquisto dei Clienti delle app o dei prodotti in-app attraverso lo Store nei paesi/aree elencate di seguito. I [report](/azure/marketplace/payout-summary-overview) che Microsoft rende disponibili identificano le transazioni per cui un partner di fatturazione ha riscosso vendite, utilizzo, beni e servizi, IVA o imposte simili applicabili all'acquisto dei Clienti delle app o dei prodotti in-app attraverso lo Store. Fatta eccezione per le transazioni descritte nei report, né Microsoft né i suoi provider di servizi di fatturazione rimborseranno vendite, utilizzo, beni e servizi, IVA o altre imposte simili in relazione all'acquisto dei Clienti delle app o dei prodotti in-app in questi paesi/aree geografiche. L'utente è responsabile della revisione dei report forniti e dell'individuazione e del rispetto di eventuali obblighi per la registrazione, la raccolta e il rimborso di imposte in relazione alle transazioni che coinvolgono le app o i prodotti in-app.
+Alcuni partner di fatturazione Microsoft possono riscuotere e rimborsare vendite, utilizzo, beni e servizi, IVA o imposte simili, se presenti, applicabili all'acquisto dei Clienti delle app o dei prodotti in-app attraverso lo Store nei paesi/aree elencate di seguito. I report nell'informativa sui [pagamenti](payout-statement.md) resi disponibili da Microsoft per identificare le transazioni per cui un partner di fatturazione ha raccolto vendite, uso, beni e servizi, valore aggiunto o imposte analoghe applicabili all'acquisizione da parte dei clienti delle app o dei prodotti In-App tramite lo Store. Fatta eccezione per le transazioni descritte nei report, né Microsoft né i suoi provider di servizi di fatturazione rimborseranno vendite, utilizzo, beni e servizi, IVA o altre imposte simili in relazione all'acquisto dei Clienti delle app o dei prodotti in-app in questi paesi/aree geografiche. L'utente è responsabile della revisione dei report forniti e dell'individuazione e del rispetto di eventuali obblighi per la registrazione, la raccolta e il rimborso di imposte in relazione alle transazioni che coinvolgono le app o i prodotti in-app.
 
 | Paesi/aree di rimessa mista |
 |------------------------------------|
@@ -289,4 +289,4 @@ Le condizioni seguenti si applicano solo agli editori di Azure Marketplace:
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-[Configurare l'account proventi e i moduli fiscali](/azure/marketplace/marketplace-payout-account-setup)
+[Configurare l'account proventi e i moduli fiscali](set-up-your-payout-account.md)

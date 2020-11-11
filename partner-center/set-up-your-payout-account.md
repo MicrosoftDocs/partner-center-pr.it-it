@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007405"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488135"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurare l'account proventi e i moduli fiscali
 
@@ -28,7 +28,7 @@ Dopo aver configurato l'account, prima di poter vendere l'offerta o i componenti
 - [Impostare l'account proventi](#payout-account)
 
 > [!NOTE]
-> Per informazioni dettagliate su come e quando si riceverà il pagamento dell'offerta proposta, vedere [Pagamento](/azure/marketplace/marketplace-payout-account-setup).
+> Per informazioni dettagliate su come e quando verranno pagati i costi offerti dall'offerta, vedere la pagina relativa [a come pagare il mercato commerciale](marketplace-get-paid.md).
 
 ## <a name="tax-forms"></a>Moduli fiscali
 
@@ -77,7 +77,7 @@ Se non si risiede negli Stati Uniti, è possibile beneficiare dei vantaggi della
 Un account proventi è il conto bancario su cui vengono versati gli introiti delle vendite. È possibile visualizzare tutti gli account di pagamento immessi nella pagina del profilo.
 
 > [!NOTE]
-> In alcuni mercati è possibile usare PayPal per l'account proventi. Per sapere se PayPal è supportato per un mercato specifico, vedere [Soglie, metodi e intervalli di pagamento](/azure/marketplace/payment-thresholds-methods-timeframes) e le [informazioni su PayPal](#paypal-info) di seguito per altri dettagli.
+> In alcuni mercati è possibile usare PayPal per l'account proventi. Per sapere se PayPal è supportato per un mercato specifico, vedere [Soglie, metodi e intervalli di pagamento](payment-thresholds-methods-timeframes.md) e le [informazioni su PayPal](#paypal-info) di seguito per altri dettagli.
 
 ### <a name="create-a-payment-profile"></a>Creare un profilo di pagamento
 
@@ -131,20 +131,20 @@ Per assicurarsi che il pagamento vada a buon fine, verificare quanto segue:
 3. I profili di pagamento verranno elencati insieme al relativo stato. Trovare il profilo da modificare e fare clic su **Modifica** all'estremità destra
 
 > [!IMPORTANT]
-> La modifica dell'account per il pagamento può ritardare i pagamenti per un massimo di un ciclo di pagamento. Questo ritardo si verifica perché è necessario verificare la modifica dell'account, come è stato fatto per la configurazione iniziale dell'account di pagamento. Dopo aver verificato l'account, verrà comunque pagato per l'intero importo. Ii pagamenti in scadenza per il ciclo pagamento corrente saranno aggiunti a quello successivo. Per altre informazioni, vedere [Pagamento](/azure/marketplace/marketplace-payout-account-setup).
+> La modifica dell'account per il pagamento può ritardare i pagamenti per un massimo di un ciclo di pagamento. Questo ritardo si verifica perché è necessario verificare la modifica dell'account, come è stato fatto per la configurazione iniziale dell'account di pagamento. Dopo aver verificato l'account, verrà comunque pagato per l'intero importo. Ii pagamenti in scadenza per il ciclo pagamento corrente saranno aggiunti a quello successivo. Per altre informazioni, vedere la pagina relativa all' [uso del Marketplace commerciale](marketplace-get-paid.md).
 
 ### <a name="paypal-info"></a>Informazioni su PayPal
 
 In alcuni paesi e aree geografiche è possibile creare un account di pagamento immettendo le informazioni di PayPal. Prima di scegliere PayPal come opzione per l'account di pagamento, procedere come descritto di seguito:
 
-- Vedere [Soglie, metodi e intervalli di pagamento](/azure/marketplace/payment-thresholds-methods-timeframes) per verificare se PayPal è un metodo di pagamento supportato nel proprio paese o area geografica.
+- Vedere [Soglie, metodi e intervalli di pagamento](payment-thresholds-methods-timeframes.md) per verificare se PayPal è un metodo di pagamento supportato nel proprio paese o area geografica.
 - Esaminare le domande frequenti indicate di seguito. A seconda della situazione, PayPal potrebbe non essere l'opzione più appropriata per l'account di pagamento ed è consigliabile indicare un conto bancario.
 
 Domande frequenti sull'uso di PayPal come metodo di pagamento:
 
 - **Quali sono le impostazioni di PayPal necessarie per ricevere i pagamenti?** Verificare che il proprio conto PayPal non blocchi i pagamenti tramite assegno elettronico. Questa impostazione viene gestita nella pagina delle preferenze di ricezione dei pagamenti di PayPal. Per altre informazioni, vedere la [pagina di configurazione del conto PayPal](https://go.microsoft.com/fwlink/p/?linkid=513139).
 
-- **Il mio paese o area geografica sono supportati?** Per informazioni sulle aree in cui PayPal è un metodo di pagamento supportato, vedere [Soglie, metodi e intervalli di pagamento](/azure/marketplace/payment-thresholds-methods-timeframes).
+- **Il mio paese o area geografica sono supportati?** Per informazioni sulle aree in cui PayPal è un metodo di pagamento supportato, vedere [Soglie, metodi e intervalli di pagamento](payment-thresholds-methods-timeframes.md).
 
 - **Il conto PayPal deve essere registrato nello stesso paese o area geografica dell'account del Centro per i partner?** No. Quando si configura un conto PayPal, è possibile accettare la configurazione predefinita. Non si dovrebbero incontrare problemi con altri paesi o aree geografiche e valute, a meno che non sia stato bloccato il pagamento in alcune valute. Questa impostazione viene gestita nella pagina delle preferenze di ricezione dei pagamenti di PayPal.
 
@@ -205,4 +205,4 @@ Se si è scelto di usare un conto bancario per ricevere i proventi, completare l
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-[Fatturazione per il marketplace commerciale](/azure/marketplace/billing-details)
+[Come ottenere i pagamenti nel marketplace commerciale](marketplace-get-paid.md)

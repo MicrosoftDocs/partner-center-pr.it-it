@@ -338,9 +338,11 @@
         - name: Individuare il numero di desktop e il livello di tariffa per un contratto
           href: chip-locate-agreement.md
         - name: Idoneità per Solution Assessment
-          href: chip-solution-assessment.md
+          href: chip-solutions-assessment-eligible.md
         - name: Stato dei pagamenti di Solution Assessment
           href: chip-solution-assessment-payment.md
+        - name: Domande frequenti su Solution Assessment
+          href: chip-faq.md
         - name: Problemi di accesso a CHIP
           href: chip-access-trouble.md
 - name: Fatturazione e imposte
@@ -365,6 +367,10 @@
       href: daily-rated-usage-recon-files.md
     - name: File di riconciliazione in base alle licenze
       href: license-based-recon-files.md
+    - name: File di riconciliazione CSP per acquisti di una copia unica
+      href: modern-invoice-reconciliation-file.md
+    - name: Calcolo del prezzo unitario effettivo
+      href: effective-unit-price-calculation.md
     - name: Scenari di fatturazione comuni
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'

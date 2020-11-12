@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133032"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363623"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Assegnare ruoli utente e autorizzazioni per gli utenti di un'azienda che devono usare il Centro per i partner
 
@@ -127,21 +127,38 @@ Questi non sono ruoli Azure Active Directory. Questi ruoli gestiscono l'attivit�
 ||*    Creazione di ticket di supporto per il Centro per i partner
 ||*    Visualizzazione dei ticket di supporto per i partner creati
 
+## <a name="manage-referrals"></a>Gestione delle segnalazioni
 
-## <a name="manage-referrals"></a>Gestione delle segnalazioni 
+> [!Note]
+>Il nuovo ruolo utente Segnalazioni sarà disponibile a partire dal 16 novembre 2020. Gli amministratori delle segnalazioni esistenti manterranno il proprio ruolo nell'ambito dell'intera azienda.
 
-|**Ruolo**|**Operazioni consentite**|**Altre informazioni**|
-|-----------------------------|:------------------------|---|
-|Amministratore delle segnalazioni       |*    Visualizzazione, creazione e gestione dei profili di business|[Gestire lead diversi come richieste dei clienti, lead qualificati per il marketing e lead qualificati per le vendite](manage-leads.md)
-||*    Ricezione e gestione delle segnalazioni
-||*    Visualizzazione, creazione e gestione delle segnalazioni di co-selling|
-||*    Visualizzazione, creazione e gestione delle richieste di servizio dei partner
-|Amministratore del profilo di business   |*    Visualizzazione, creazione e gestione del profilo di business |[Creare un profilo business](create-a-marketing-profile.md)
-||*    Visualizzazione, creazione e gestione delle richieste di servizio dei partner
-||*    Creazione di ticket di supporto per il Centro per i partner
-||*    Visualizzazione dei ticket di supporto per i partner creati|
+|**Ruolo** | **Operazioni consentite**|**Altre informazioni**
+|------------------------------|:-------------------------|---|
+|Amministratore delle segnalazioni|Attività di creazione e gestione nella scheda Segnalazioni del Centro per i partner|[Gestire le opportunità di co-selling](manage-co-sell-opportunities.md)
+||    Visualizzazione e modifica di tutte le opportunità e tutti i lead di co-selling
+||    Assegnazione di membri del team per una trattativa
+||    Visualizzazione e modifica dei profili di business
+||    Visualizzazione e registrazione delle trattative per le opportunità contrassegnate come vinte e idonee per la registrazione della trattativa
+||    Creazione e visualizzazione dei ticket di supporto
+|Utente delle segnalazioni|Creazione e gestione delle opportunità di co-selling solo se l'utente è membro del team |[Gestire le opportunità di co-selling](manage-co-sell-opportunities.md)
+||    Creazione di opportunità di co-selling per le sedi in cui l'utente dispone del ruolo
+||    Visualizzazione e registrazione delle trattative per le opportunità contrassegnate come vinte e idonee per la registrazione della trattativa se l'utente è membro del team
+||    Creazione e visualizzazione dei ticket di supporto
+|Amministratore del profilo di business|Creazione e gestione dei profili di business | [Gestire i profili di business](create-a-marketing-profile.md)
+||    Creazione e visualizzazione dei ticket di supporto
 
-## <a name="manage-incentives"></a>Gestione degli incentivi 
+Insieme al nuovo ruolo utente Segnalazioni, viene introdotto anche l'ambito della sede per le trattative. La tabella seguente illustra l'accesso alle trattative in base alla sede.
+
+|**Scope** | **Operazioni consentite** |
+|------------------------------|:-------------------------|
+|Intera azienda | Sia gli amministratori che gli utenti possono accedere per creare trattative per qualsiasi sede dell'azienda|
+|| L'amministratore delle segnalazioni può accedere per visualizzare e modificare tutte le trattative |
+|| Gli utenti delle segnalazioni possono accedere per visualizzare e modificare tutte le trattative solo se sono membri del team |
+|Una o più sedi | Sia gli amministratori che gli utenti possono accedere per creare trattative per la sede assegnata nell'azienda|
+|| L'amministratore delle segnalazioni può accedere per visualizzare e modificare tutte le trattative appartenenti alle sedi assegnate|
+|| Gli utenti delle segnalazioni possono accedere per visualizzare e modificare tutte le trattative appartenenti alle sedi assegnate se sono membri del team|
+
+## <a name="manage-incentives"></a>Gestione degli incentivi
 
 |**Ruolo** | **Operazioni consentite**|**Altre informazioni**
 |------------------------------|:-------------------------|---|

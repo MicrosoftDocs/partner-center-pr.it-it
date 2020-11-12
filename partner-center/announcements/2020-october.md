@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132828"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433309"
 ---
 # <a name="october-2020-announcements"></a>Annunci di ottobre 2020
 
@@ -23,6 +23,27 @@ Questa pagina illustra in dettaglio gli annunci per il Centro per i partner Micr
 Annunci 2020:  [Marzo](2020-march.md) | [Aprile](2020-april.md) | [Maggio](2020-may.md) | [Giugno](2020-june.md) | [Luglio](2020-july.md) | [Agosto](2020-august.md) | [Settembre](2020-september.md) | Ottobre
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Correzione all'espansione del Piano per chiamate 
+
+### <a name="categories"></a>Categorie
+
+- Data: 29-10-2020
+- Offerte/mercati
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Provider diretti, provider indiretti e rivenditori indiretti
+
+### <a name="details"></a>Dettagli
+
+Il 1° ottobre 2020 Microsoft ha annunciato [la disponibilità del Piano per chiamate di Office 365 nei nuovi mercati](2020-september.md#2). L'annuncio non è corretto e 240 minuti per utente al mese per i piani nazionali non sono disponibili come indicato. 
+
+
+Per informazioni dettagliate sui piani di chiamata, fare riferimento alla [documentazione del prodotto](/microsoftteams/calling-plan-landing-page) di Microsoft Teams.
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Aggiornamenti delle funzionalità per le sottoscrizioni del software Windows Server
 

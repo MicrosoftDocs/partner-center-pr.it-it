@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2f82caf36171a1757d8e1f2d016c82f7f2dedecf
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93327492"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488112"
 ---
 # <a name="november-2020-announcements"></a>Annunci di novembre 2020
 
@@ -23,6 +23,147 @@ Questa pagina illustra in dettaglio gli annunci per il Centro per i partner Micr
 Annunci 2020: [Aprile](2020-april.md) | [Maggio](2020-may.md) | [Giugno](2020-june.md) | [Luglio](2020-july.md) | [Agosto](2020-august.md) | [Settembre](2020-september.md) | [Ottobre](2020-October.md) | Novembre
 
 ______________
+
+
+## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Test disponibile: aggiornamenti delle API e miglioramenti dell'interfaccia utente (UI) del Centro per i partner per il processo di convalida dei clienti del settore della formazione
+
+### <a name="categories"></a>Categorie
+
+- Data: 10/11/2020
+- Funzionalità |Sviluppo dell'efficienza e della scalabilità
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner che vendono offerte per il settore accademico tramite il programma Cloud Solution Provider (CSP).
+
+### <a name="summary"></a>Riepilogo
+
+È ora disponibile il test per gli aggiornamenti delle API e i miglioramenti dell'interfaccia utente del Centro per i partner per il processo di convalida dei clienti del settore della formazione.
+
+### <a name="details"></a>Dettagli
+
+Microsoft si impegna a fornire un metodo di convalida dei clienti conforme e sicuro per la vendita di offerte per il settore accademico nel programma CSP. Nell'ambito di questo impegno, verranno introdotti miglioramenti all'interfaccia utente e all'API del Centro per i partner nel secondo trimestre dell'anno fiscale 2021 (FY21 Q2). Questi miglioramenti aggiungeranno chiarezza e visibilità nel processo di convalida dei clienti e offriranno la possibilità di inserire dati più accurati, in modo da migliorare la convalida dei clienti.
+
+**Miglioramenti del Centro per i partner**
+
+- Nuove API di qualifica GET e POST per supportare l'inserimento preciso dei dati e migliorare il processo di convalida dei clienti del settore della formazione da parte di Microsoft.
+
+- Miglioramenti dell'interfaccia utente per supportare l'inserimento preciso dei dati e ottimizzare il processo di convalida dei clienti del settore della formazione da parte di Microsoft.
+
+Test
+
+Per una migliore comprensione delle API e dell'inserimento dei dati necessari per la corretta convalida dei clienti, i partner avranno la possibilità di testare questi miglioramenti a partire dal mese di ottobre 2020. A breve verranno fornite altre informazioni sulla tempistica esatta e sulle modalità di partecipazione. Le API esistenti del Centro per i partner verranno ritirate prima della fine del secondo trimestre dell'anno fiscale 2021 (FY21 Q2). A quel punto, sarà necessario eseguire la transizione alle nuove API del Centro per i partner.
+
+   - Disponibilità dei test Le date dei test per i partner sono comprese tra il 2 ottobre e il 2 dicembre 2020. I partner che intendono partecipare dovranno scaricare la guida ai test per i clienti del settore della formazione del Centro per i partner in cui troveranno informazioni su come prepararsi, come iscriversi e cosa aspettarsi durante la fase di test.
+
+**Clienti del settore biblioteche e musei**
+
+Oltre a questi miglioramenti, Microsoft è lieta di annunciare che, nel secondo trimestre dell'anno fiscale 2021 (FY21 Q2), verranno abilitate offerte con gli stessi prezzi del settore della formazione per biblioteche e musei, espandendo così i clienti del settore della formazione a cui sarà possibile vendere offerte CSP.
+
+Microsoft si riserva il diritto di esaminare lo stato di qualsiasi cliente effettivo o potenziale per verificarne i requisiti di utente del settore della formazione. Per informazioni dettagliate, vedere i [requisiti dell'utente qualificato del settore della formazione](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).
+
+## <a name="next-steps"></a>Passaggi successivi
+
+Esaminare le modifiche apportate all'interfaccia utente e all'API del Centro per i partner e leggere la guida ai test nella [raccolta di contenuti sui miglioramenti apportati al processo di convalida dei clienti del settore della formazione nel Centro per i partner](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+
+• Iscriversi per partecipare ai test (vedere la [guida ai test](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) per informazioni dettagliate). 
+
+• Verificare che l'organizzazione conosca i [requisiti dell'utente qualificato del settore della formazione](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
+
+• Condividere queste informazioni con i team appropriati all'interno dell'organizzazione e con i rivenditori per aiutarli nella preparazione in vista di queste modifiche.
+
+
+
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Espansione dei contenuti per i partner con licenze commerciali nella raccolta per l'idoneità operativa
+
+### <a name="categories"></a>Categorie
+
+- Data: 05/11/2020
+- Funzionalità
+
+### <a name="summary"></a>Riepilogo
+
+A partire dal 5 novembre 2020, i contenuti per i partner con licenze commerciali di Partner University saranno disponibili anche nella raccolta per l'idoneità operativa.
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner commerciali
+
+### <a name="details"></a>Dettagli
+
+A partire dal 5 novembre 2020, i contenuti per i partner con licenze commerciali di Partner University saranno disponibili anche nella raccolta per l'idoneità operativa. In questo modo, i contenuti relativi al lancio per i partner con licenze operative e commerciali, già esistenti nella raccolta per l'idoneità operativa, verranno uniti ai contenuti consolidati per i partner con licenze commerciali di Partner University. I partner potranno così usufruire di un'esperienza di formazione più uniforme. Alla raccolta per l'idoneità operativa sono stati aggiunti i contenuti seguenti:
+
+- [Microsoft Azure - Offers and Licensing](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [Commercial Licensing - CSP Spotlight Call](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [Commercial Licensing - Licensing Updates Call](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+
+### <a name="next-steps"></a>Passaggi successivi
+
+Si consiglia di condividere queste informazioni con tutti i contatti appropriati nella propria organizzazione.
+
+________________
+
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Lancio dello SKU Premium di Microsoft Teams Rooms
+
+### <a name="categories"></a>Categorie
+
+- Data: 03/11/2020
+- Offerte/mercati
+
+### <a name="summary"></a>Riepilogo
+
+Lo SKU Premium di Microsoft Teams Rooms per Microsoft Teams tramite il programma Cloud Solution Provider (CSP) è ora disponibile.
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Tutti i partner che eseguono transazioni tramite il programma Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Dettagli
+
+Il nuovo SKU Premium di Microsoft Teams Rooms per Microsoft Teams è ora disponibile per i clienti che acquistano CSP tramite l'utente a 50 USD al mese per ogni dispositivo. Lo SKU Premium di Microsoft Team Rooms è un'alternativa allo SKU Standard di Microsoft Teams Room (in precedenza denominato licenza Sala riunioni). Questo SKU include tutti gli elementi dell'offerta standard, ad esempio le licenze necessarie per Microsoft Teams, Skype for Business Online e la gestione di Intune. L'offerta consente anche di abilitare Sistema telefonico, necessario per l'integrazione della rete PSTN (Public Switched Telephone Network), e Audioconferenza, se disponibile. 
+
+Con l'offerta premium, i clienti possono accedere a Servizi gestiti di Microsoft Team Rooms appena rilasciato, in cui la gestione e le operazioni relative alle sale riunioni vengono gestite da esperti per conto del cliente. Questo servizio di gestione e monitoraggio IT basato sul cloud consente di mantenere aggiornati e sicuri i dispositivi Microsoft Teams Rooms e le relative periferiche. Consente inoltre di monitorare e gestire questi dispositivi in modo proattivo, mantenendo l'ambiente ottimizzato per un'esperienza in sala di elevata qualità.
+
+#### <a name="released-at-launch"></a>Rilasciate all'avvio
+
+   |****|**Microsoft Teams Rooms Standard 15 USD al mese per dispositivo**|**Microsoft Teams Rooms Premium 50 USD al mese per dispositivo**|
+   |-------------------|:------|:------|
+   |Skype for Business|Sì| |
+   |Microsoft Teams|Sì|Sì|
+   |Sistema telefonico|Sì|Sì|
+   |Audioconferenza|Sì|Sì|
+   |Microsoft Intune|Sì|Sì|
+   | |Microsoft Teams Rooms Standard 15 USD al mese per dispositivo|Microsoft Teams Rooms Premium 50 USD al mese per dispositivo|
+   |Servizi gestiti di Microsoft Teams Rooms| |Sì|
+   |Disponibilità a livello mondiale|Sì|In alcuni mercati|
+
+#### <a name="microsoft-teams-rooms-managed-services"></a>Servizi gestiti di Microsoft Teams Rooms
+
+- Gestione proattiva: gestione delle sale riunioni 24x7x365, incluse l'applicazione di patch, la gestione della configurazione e altro ancora.
+•   Monitoraggio in tempo reale e analisi della causa radice: monitoraggio e rilevamento con risposta orchestrata di gestione degli incidenti eseguita da Microsoft in stretto coordinamento con il cliente, se necessario. L'app per dispositivi mobili consente di essere avvisati anche quando si è fuori ufficio.
+- Aggiornamenti gestiti: gestione e distribuzione di aggiornamenti dell'applicazione, di KB di Windows e del firmware.
+- Protezione dalle minacce alla sicurezza: protezione dalle possibili minacce alla sicurezza con Microsoft Defender Advanced Threat Protection.
+- Supporto tecnico: supporto tecnico 24x7x365 tramite centro operativo dedicato con correzione assistita degli incidenti per i casi non automatizzati. Controllo dettagliato degli accessi in base al ruolo.
+- Informazioni dettagliate e raccomandazioni: informazioni dettagliate aggregate per i vari clienti e report relativi allo stato delle sale, alle scorte, al consumo, alle riunioni online e alle tendenze degli incidenti.
+
+#### <a name="offer-details"></a>Dettagli dell'offerta
+
+   |**Nome offerta**|**ID offerta**|**ID materiale**|
+   |-------------------|:------|:------|
+   |Teams Rooms Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Teams Rooms Premium (Stati Uniti e Canada)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |Teams Rooms Premium per docenti|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- Consultare le [domande frequenti]() per acquisire familiarità con la nuova offerta e la relativa disponibilità geografica.
+- Acquisire familiarità con la nuova offerta e la relativa disponibilità geografica. 
+- Visitare il sito Web all'indirizzo [rooms.microsoft.com](https://rooms.microsoft.com/) per altre informazioni su Microsoft Rooms e sulle offerte correlate.
+- Usare la [guida per i partner di Teams](https://aka.ms/teamscallingmeetingsguide) per sviluppare la pratica con le sale riunioni di Teams e creare un'offerta pronta per il co-selling.
+- Leggere le [domande frequenti su Microsoft Teams Rooms](https://aka.ms/PartnerMTRFAQ) per altre informazioni sul prodotto e sui servizi. 
+- Condividere queste informazioni con tutti i contatti appropriati all'interno dell'organizzazione e comprendere le opportunità di upselling e cross-selling.
+
+________________
 
 ## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Nuovi SKU di Comunicazioni avanzate di Microsoft Teams per Government Community Cloud (GCC) presto disponibili
 

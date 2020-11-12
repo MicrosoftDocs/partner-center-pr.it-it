@@ -4,15 +4,15 @@ description: Risposte alle domande più comuni sui pagamenti nel Marketplace com
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175288"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532022"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>Domande comuni sui pagamenti del Marketplace commerciale
 
@@ -32,7 +32,7 @@ In questo articolo vengono fornite le risposte alle domande frequenti sui pagame
 - Controllare la responsabilità delle imposte in base al paese. Nel caso di paesi in cui la responsabilità delle imposte ricade su Microsoft, Microsoft somma e sottrae le imposte dagli utili degli editori. L'importo della transazione indicato nell'estratto non include l'importo delle tasse. Vedere [Dettagli imposte](tax-details-marketplace.md).
 - Le offerte SaaS e IaaS hanno una tariffa scontata per le agenzie al 10% anziché il 20% standard, lasciando una percentuale di guadagni pari al 90%. Questa promozione è valida fino al 30 giugno 2021.
 
-**Ulteriori**informazioni: [contratto per la pubblicazione nel Marketplace commerciale](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Dettagli sui criteri](payout-policy-details.md)di pagamento, [soglia di pagamento, metodo e](payment-thresholds-methods-timeframes.md)intervallo di tempo, pagamento [nel Marketplace commerciale](marketplace-get-paid.md), [Dettagli fiscali](tax-details-marketplace.md), [rendiconto dei pagamenti](payout-statement.md), [Dashboard ordini in analisi del Marketplace commerciale](/azure/marketplace/partner-center-portal/orders-dashboard)
+**Ulteriori** informazioni: [contratto per la pubblicazione nel Marketplace commerciale](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Dettagli sui criteri](payout-policy-details.md)di pagamento, [soglia di pagamento, metodo e](payment-thresholds-methods-timeframes.md)intervallo di tempo, pagamento [nel Marketplace commerciale](marketplace-get-paid.md), [Dettagli fiscali](tax-details-marketplace.md), [rendiconto dei pagamenti](payout-statement.md), [Dashboard ordini in analisi del Marketplace commerciale](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="earnings-reconciliation"></a>Riconciliazione degli utili
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>Come risolvere le differenze tra l'estratto conto e i report sugli ordini o sull'utilizzo nell'analisi?
@@ -47,7 +47,7 @@ Utilizzare AssetID, orderID e l'ID dell'elemento linea visualizzati nel report C
 - Per i clienti aziendali, i guadagni dell'editore vengono visualizzati nell'istruzione 1-2 giorni dopo la data dell'ordine di acquisto.
 - Per i clienti non aziendali, i guadagni dell'editore vengono visualizzati nell'istruzione 1-2 giorni dopo la ricezione del pagamento del cliente.
 
-**Ulteriori informazioni**: [istruzioni](payout-statement.md)per i pagamenti, [Dashboard ordini in analisi del Marketplace commerciale](/azure/marketplace/partner-center-portal/orders-dashboard)
+**Ulteriori informazioni** : [istruzioni](payout-statement.md)per i pagamenti, [Dashboard ordini in analisi del Marketplace commerciale](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="payout-policies"></a>Criteri di pagamento
 
@@ -60,7 +60,7 @@ Utilizzare AssetID, orderID e l'ID dell'elemento linea visualizzati nel report C
 - Quando gli utili sono nello stato non elaborato, è possibile controllare la data di scadenza per il mese in cui verranno elaborati per il pagamento. Una volta preparato il pagamento, lo stato di guadagno verrà modificato in "elaborato".  Microsoft emette i pagamenti entro il 15 del mese di scadenza.
 - Per gli ordini pagati dalla carta di credito, Microsoft riceve i pagamenti per 30 giorni fino alla maturazione del guadagno.
 
- **Ulteriori**informazioni: [contratto per la pubblicazione nel Marketplace commerciale](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Dettagli sui criteri](payout-policy-details.md)di pagamento, [Dettagli sulle imposte](tax-details-marketplace.md), [soglia di pagamento, metodo e intervallo di tempo](payment-thresholds-methods-timeframes.md)
+ **Ulteriori** informazioni: [contratto per la pubblicazione nel Marketplace commerciale](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Dettagli sui criteri](payout-policy-details.md)di pagamento, [Dettagli sulle imposte](tax-details-marketplace.md), [soglia di pagamento, metodo e intervallo di tempo](payment-thresholds-methods-timeframes.md)
 
 ## <a name="payments-and-adjustments"></a>Pagamenti e rettifiche
 
@@ -81,7 +81,7 @@ La valuta del pagamento si basa sulla valuta selezionata nel profilo di pagament
 
 Le rettifiche di pagamento sono correzioni del pagamento per supportare le rettifiche compensative, ad esempio problemi di sistema. Nell'estratto conto ReasonCode specifica il motivo della rettifica. Lo scopo non è quello di riconciliare direttamente le singole transazioni.
 
-**Ulteriori**informazioni: [contratto per la pubblicazione nel Marketplace commerciale](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Dettagli sui criteri](payout-policy-details.md)di pagamento, [Dettagli sulle imposte](tax-details-marketplace.md), [soglia di pagamento, metodo e intervallo di tempo](payment-thresholds-methods-timeframes.md)
+**Ulteriori** informazioni: [contratto per la pubblicazione nel Marketplace commerciale](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Dettagli sui criteri](payout-policy-details.md)di pagamento, [Dettagli sulle imposte](tax-details-marketplace.md), [soglia di pagamento, metodo e intervallo di tempo](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>Imposte
 
@@ -104,16 +104,16 @@ Passare alla [pagina del profilo](https://partner.microsoft.com/dashboard/payee/
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>Come trovare la ritenuta d'acconto per una transazione?
 La ritenuta d'acconto è applicabile per gli editori degli Stati Uniti che hanno inviato il modulo W-9. La ritenuta d'acconto viene calcolata sui pagamenti mensili.
 
-**Ulteriori**informazioni: [contratto per la pubblicazione nel Marketplace commerciale](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Dettagli sui criteri di pagamento](payout-policy-details.md)
+**Ulteriori** informazioni: [contratto per la pubblicazione nel Marketplace commerciale](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Dettagli sui criteri di pagamento](payout-policy-details.md)
 
 ## <a name="payout-statement-access"></a>Accesso alle istruzioni di pagamento
 
 #### <a name="how-do-i-access-a-payout-statement"></a>Come si accede all'estratto conto?
 
 1. Controllare il proprio ruolo. Per accedere all'estratto conto, è necessario avere il ruolo di *collaboratore finanziario* o *proprietario dell'account*.
-2. Nella finestra di spostamento in alto a destra selezionare l'icona di **pagamento** per visualizzare l'istruzione per il pagamento. Scegliere tra la **cronologia delle transazioni**, il **pagamento**e il **download**.
+2. Nella finestra di spostamento in alto a destra selezionare l'icona di **pagamento** per visualizzare l'istruzione per il pagamento. Scegliere tra la **cronologia delle transazioni** , il **pagamento** e il **download**.
 
-**Ulteriori informazioni**: [ruoli e autorizzazioni per il pagamento](payout-statement.md#roles-and-permissions), [istruzioni di pagamento](payout-statement.md) 
+**Ulteriori informazioni** : [ruoli e autorizzazioni per il pagamento](payout-statement.md#roles-and-permissions), [istruzioni di pagamento](payout-statement.md) 
 
 ## <a name="payout-statement-report"></a>Report sulle istruzioni di pagamento
 
@@ -141,7 +141,7 @@ Andare alla pagina **Payout Payment** (Pagamento dei proventi), quindi alla sezi
 
 Passare alla [pagina del profilo](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) per visualizzare i moduli per le tasse di fine anno.
 
-**Ulteriori informazioni**: [istruzioni](payout-statement.md)per i pagamenti, [download della cronologia delle transazioni](payout-statement.md#transaction-history-download)
+**Ulteriori informazioni** : [istruzioni](payout-statement.md)per i pagamenti, [download della cronologia delle transazioni](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>Rendiconti cronologici
 
@@ -149,7 +149,7 @@ Passare alla [pagina del profilo](https://partner.microsoft.com/dashboard/payee/
 
 Nel rendiconto cronologico viene visualizzato lo snapshot dei dati di pagamento a partire da ottobre 2019. Sfortunatamente, le informazioni sui pagamenti non vengono aggiornate. Per ricevere le informazioni più aggiornate, inviare un ticket di supporto per i dati più recenti.
 
-**Ulteriori informazioni**: [istruzioni](payout-statement.md)per i pagamenti, [download della cronologia delle transazioni](payout-statement.md#transaction-history-download)
+**Ulteriori informazioni** : [istruzioni](payout-statement.md)per i pagamenti, [download della cronologia delle transazioni](payout-statement.md#transaction-history-download)
 
 ## <a name="payout-export-api"></a>API di esportazione del pagamento
 

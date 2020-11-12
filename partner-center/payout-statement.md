@@ -4,17 +4,17 @@ description: Informazioni sui riepiloghi e sulle istruzioni per il pagamento e s
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/23/2020
-ms.openlocfilehash: 460a7b1992d7db40e0f45d3aeb7e2236e9495e07
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335721"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532056"
 ---
-# <a name="payout-statements"></a>Istruzioni per il pagamento
+# <a name="payout-statements"></a>Estratti conto
 
 L'informativa sui **pagamenti** presenta una panoramica dei pagamenti offerti dalle offerte vendute attraverso il Marketplace commerciale. Mostra la cronologia transazionale dei tuoi guadagni, ne stima il pagamento successivo e Mostra le tendenze di pagamento. È inoltre possibile scaricare la cronologia delle transazioni e le istruzioni di pagamento. Questo articolo illustra come accedere al rendiconto dei pagamenti e le pagine di pagamento e i download disponibili nel centro per i partner.
 
@@ -201,7 +201,7 @@ La tabella seguente illustra i diversi Stati di guadagno.
 | In programma | Ordine di pagamento generato in attesa di revisioni interne prima dell'elaborazione del pagamento. | No |
 | Pending tax invoice (Fattura fiscale in sospeso) | La fattura dell'imposta è incompleta o non valida. | È necessario aggiornare la fattura fiscale prima di poter essere pagati. |
 | Rejected during review (Rifiutato durante la revisione) | Il pagamento è stato rifiutato durante la revisione. | Per informazioni dettagliate, contattare il supporto tecnico Microsoft. |
-| Operazione non riuscita | Il pagamento non è riuscito a causa di un errore di sistema Microsoft. | Per ulteriori informazioni, contattare il supporto tecnico Microsoft |
+| Non riuscito | Il pagamento non è riuscito a causa di un errore di sistema Microsoft. | Per ulteriori informazioni, contattare il supporto tecnico Microsoft |
 | In corso | Il pagamento è in corso. | No |
 | Pagamento non corretto | È in corso il recupero dei pagamenti. | No |
 | Inviato | Il pagamento è stato inviato alla banca. | No |
@@ -238,7 +238,7 @@ Per visualizzare altri dettagli relativi ai pagamenti, fare clic su **download**
 
 ## <a name="export-data"></a>Esportazione dei dati
 
-La pagina **Esporta dati** non viene aggiornata autonomamente. Per visualizzare i dati più recenti, potrebbe essere necessario aggiornare la pagina manualmente. Selezionare una delle tre schede per esportare la **cronologia delle transazioni**, i **pagamenti**, il **Riepilogo delle transazioni**o l' **istruzione cronologica**.
+La pagina **Esporta dati** non viene aggiornata autonomamente. Per visualizzare i dati più recenti, potrebbe essere necessario aggiornare la pagina manualmente. Selezionare una delle tre schede per esportare la **cronologia delle transazioni** , i **pagamenti** , il **Riepilogo delle transazioni** o l' **istruzione cronologica**.
 
 Il filtro potrebbe causare un errore di **Nessun dato disponibile** . Questo problema può verificarsi se il periodo di tempo predefinito è stato selezionato a tre mesi, quindi è stato selezionato un ID di pagamento da un guadagno che esula da tale periodo. In tal caso, espandere il periodo di tempo e riprovare.
 
@@ -285,18 +285,18 @@ La tabella seguente illustra ogni colonna in un'istruzione cronologica.
 | Entrate nette | Importo della transazione al netto delle imposte versate |
 | Corrispettivi per lo Store | Percentuale delle entrate nette trattenuta da Microsoft come corrispettivo per rendere disponibile l'app o il componente aggiuntivo nello Store |
 | Guadagno sull'app | Entrate nette meno corrispettivi per lo Store |
-| Imposte trattenute | Importo dell'imposta sul reddito trattenuta (non incluso nel file CSV **riservato**) |
+| Imposte trattenute | Importo dell'imposta sul reddito trattenuta (non incluso nel file CSV **riservato** ) |
 | Payment | Guadagno sull'app al netto di qualsiasi ritenuta d'acconto applicabile (importo indicato nella valuta della transazione). Non incluso nel file CSV **riservato**. |
 | Tasso di cambio | Tasso di cambio utilizzato per convertire la valuta della transazione in valuta di pagamento |
 | Valuta del pagamento | Valuta in cui viene effettuato il pagamento |
 | Pagamento convertito | Importo del pagamento convertito in valuta di pagamento in base al tasso di cambio |
 | Modello versamento imposte | Parte responsabile del versamento delle imposte (vendite, utilizzo o IVA/GST) |
-| Data/ora di idoneità | La data e l'ora in cui i proventi della transazione diventano idonei per il pagamento (UTC). Quando viene creato un pagamento, vengono inclusi i proventi della transazione con data e ora di idoneità prima della data di creazione del pagamento (inclusa solo nel file CSV **riservato**). |
-| Charges | Mostra una suddivisione di tutti i dettagli dell'addebito aggregati nella colonna Importo transazione (incluso solo per Azure Marketplace; non incluso nel file CSV **riservato**). |
+| Data/ora di idoneità | La data e l'ora in cui i proventi della transazione diventano idonei per il pagamento (UTC). Quando viene creato un pagamento, vengono inclusi i proventi della transazione con data e ora di idoneità prima della data di creazione del pagamento (inclusa solo nel file CSV **riservato** ). |
+| Charges | Mostra una suddivisione di tutti i dettagli dell'addebito aggregati nella colonna Importo transazione (incluso solo per Azure Marketplace; non incluso nel file CSV **riservato** ). |
 |||
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [API di pagamento partner](https://apidocs.microsoft.com/services/partnerpayouts)
+- [API di pagamento dei partner](https://apidocs.microsoft.com/services/partnerpayouts)
 - [Dettagli dei criteri dei proventi](payout-policy-details.md)
 - Per il supporto sulla fatturazione, contattare il [supporto per gli editori](https://partner.microsoft.com/support/v2/?stage=1) del marketplace commerciale.

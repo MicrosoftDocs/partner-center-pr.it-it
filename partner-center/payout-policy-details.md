@@ -4,15 +4,15 @@ description: Informazioni sui dettagli relativi ai criteri di pagamento del Mark
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381393"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94531988"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Pianificazioni dei pagamenti e dettagli dei criteri
 
@@ -66,7 +66,7 @@ Microsoft effettuerà il recupero di tutti i pagamenti già effettuati utilizzan
 
 Di seguito è riportato un esempio di pianificazione:
 
-| Event | Data approssimativa * | Visibilità del partner |
+| Evento | Data approssimativa * | Visibilità del partner |
 | --- | --- | --- |
 | Data di pagamento di esempio | 10/15/2020 | Contrassegnato come **inviato** nella cronologia delle transazioni e nella sezione pagamenti nel dashboard dei pagamenti |
 | <font color="red">Se il cliente non paga Microsoft</font> | 12/2/2020 – 12/5/2020 | Nessuna modifica, come sopra |

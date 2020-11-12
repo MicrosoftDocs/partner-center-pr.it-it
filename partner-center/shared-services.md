@@ -8,19 +8,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/03/2020
-ms.openlocfilehash: 49b5bd1c9a7cd4c56f2fac28a45cc8a4b922b9b0
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.date: 11/11/2020
+ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "92333748"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532039"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Consente di aggiungere servizi condivisi di Azure partner per consentire ai partner di acquistare sottoscrizioni di Azure per uso personale
 
-**Si applica a**
-
-- Centro per i partner
  
 **Ruoli appropriati**
 
@@ -38,17 +35,17 @@ Azure - Servizi condivisi/Carico di lavoro interno è un nuovo tipo di offerta p
 
 2. Se non si dispone già di un tenant di servizi condivisi, fare clic su **Crea servizi condivisi**.
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Impostazioni account > servizi condivisi":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Creazione di servizi condivisi":::
 
 3. In questo modo viene creato un tenant di servizi condivisi e viene acquistata la sottoscrizione ai servizi condivisi di Azure CSP, da usare per le risorse condivise e il carico di lavoro interno.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Impostazioni account > servizi condivisi":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Creare il tenant e acquistare la sottoscrizione":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Informazioni sull'offerta Azure-Servizi condivisi/Carico di lavoro interno
 
 - Il Azure-Servizi condivisi/Carico di lavoro interno sottoscrizione è un nuovo tipo di offerta di Azure in CSP accessibile tramite il centro per i partner che i partner ottengono per l'uso di Azure.
 
-- Azure-Servizi condivisi/Carico di lavoro interno offerta non è idonea per sconti e incentivi.
+- Azure-Servizi condivisi/Carico di lavoro interno offerta è idonea per sconti e incentivi.  Le sottoscrizioni dei servizi condivisi di Azure partner sono idonee e possono essere usate per acquistare RIs.
 
 - L'offerta Azure-Servizi condivisi/Carico di lavoro interno può essere applicata solo al tenant dei servizi condivisi.
 
@@ -78,3 +75,7 @@ I partner con BYOL o servizi gratuiti distribuiti con APSS non saranno interessa
 Per sfruttare i vantaggi del catalogo completo delle offerte Marketplace disponibili (non solo BYOL e servizi gratuiti), è consigliabile distribuire i servizi condivisi usando le sottoscrizioni di Azure dirette tramite Web.  I partner CSP che hanno distribuito in precedenza risorse di BYOL e servizi gratuiti di terze parti dal Marketplace e desiderano continuare a usarle e distribuire più offerte di terze parti sono invitati a eseguire la migrazione della sottoscrizione di APSS alla [migrazione di sottoscrizioni di Azure esistenti](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
 
 I partner, che pianificano di continuare a usare la sottoscrizione di APSS dopo il 1 ° marzo 2019 e vogliono distribuire nuovi servizi [BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) di terze parti o servizi gratuiti, possono seguire le istruzioni fornite dagli ISV per distribuirle nelle sottoscrizioni apss.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Vendere abbonamenti software tramite CSP](csp-software-subscriptions.md)

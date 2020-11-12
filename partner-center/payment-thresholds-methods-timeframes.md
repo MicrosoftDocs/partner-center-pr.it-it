@@ -1,18 +1,18 @@
 ---
 title: Informazioni dettagliate sui proventi per area geografica - Marketplace commerciale Microsoft
 description: Informazioni sugli intervalli di tempo di pagamento e sui negozi online Microsoft in cui è possibile ricevere i pagamenti. Questi possono variare in base al tipo di conto paese, area geografica e pagamento.
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 09/02/2020
-ms.openlocfilehash: cebd24d3709b622256469ab5e2af3e5cd6b80175
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e8ab90251cc05253ad25069eaf9200f2f15e60fb
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175298"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532005"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Soglie, metodi e intervalli di pagamento
 

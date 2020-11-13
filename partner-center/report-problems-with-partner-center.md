@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175231"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567075"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Come segnalare i problemi con il centro per i partner e inviare eventuali informazioni di log o diagnostica
 
@@ -41,6 +41,24 @@ Tutti gli utenti connessi al centro per i partner possono creare richieste di su
 
 5. Completare i **Dettagli del problema** e quindi **inviare**. Un rappresentante del supporto tecnico partner ti seguirà.
 
+## <a name="schedule-a-support-appointment"></a>Pianificare un appuntamento di supporto 
+
+**Attualmente in anteprima*
+
+Se il problema richiede una conversazione con l'avvocato del supporto tecnico, è possibile pianificare l'appuntamento dai dettagli del ticket.
+
+:::image type="content" source="images/support/ticket.png" alt-text="Pianificare un appuntamento di supporto":::
+
+1.  Nella pagina Dettagli ticket del centro per i partner selezionare una data e un'ora disponibili nel calendario del supporto tecnico. Nel fuso orario locale vengono visualizzate solo le date e le ore disponibili.
+
+:::image type="content" source="images/support/ticket2.png" alt-text="Pianifica appuntamento":::
+
+2. Il centro per i partner controlla la disponibilità del calendario del supporto tecnico.
+
+1. Quando si pianifica un appuntamento, il centro per i partner Invia un invito al calendario con informazioni sul modo in cui il supporto tecnico contatterà l'utente, in modo che sia possibile tenere traccia di questo appuntamento nel calendario di lavoro.
+
+:::image type="content" source="images/support/ticket3.png" alt-text="Data e ora":::
+
 ## <a name="send-diagnostics"></a>Inviare la diagnostica
 
 Se si verifica un errore mentre si è in una pagina del centro per i partner, è possibile che venga richiesto di raccogliere informazioni sul log. Selezionare **raccogli altre informazioni** dal collegamento che scende dalla parte superiore della pagina per aprire lo strumento di diagnostica client. Questo strumento raccoglie le informazioni necessarie al team di supporto per i partner per determinare la causa dell'errore. 
@@ -65,3 +83,6 @@ Puoi visualizzare in anteprima le informazioni di diagnostica e salvarle in un f
 
 Il supporto per i partner potrebbe richiedere di eseguire questo strumento più volte in modo che possano ottenere le informazioni più aggiornate.
 
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Segnala un problema del servizio per conto di un cliente](report-problems-on-behalf-of-a-customer.md)

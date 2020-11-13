@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006881"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567050"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 
@@ -101,7 +101,7 @@ Per le sottoscrizioni esistenti, se si decide di utilizzare un rivenditore indir
 | **Per eseguire questa operazione** | **Procedere nel modo seguente** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Consentire al rivenditore di gestire l'account di un cliente e disporre delle autorizzazioni di amministratore per gestire le sottoscrizioni | Associa un rivenditore a un account cliente quando si aggiunge un nuovo cliente | Nella pagina **nuovo cliente** |
-| Consentire al rivenditore di gestire l'account di un cliente di Azure|Associare un rivenditore a un account cliente di Azure quando si aggiunge un nuovo cliente|Nel **portale dei servizi di Azure**selezionare [impostazioni utente](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) per assegnare le autorizzazioni del proprietario del **tenant** rivenditore indiretto|
+| Consentire al rivenditore di gestire l'account di un cliente di Azure|Associare un rivenditore a un account cliente di Azure quando si aggiunge un nuovo cliente|Nel **portale dei servizi di Azure** selezionare [impostazioni utente](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) per assegnare le autorizzazioni del proprietario del **tenant** rivenditore indiretto|
 | Concedere il credito rivenditore per gli incentivi | Associa il rivenditore alla sottoscrizione (nuova o esistente) | Nella pagina **nuova sottoscrizione** |
 | Delega del supporto tecnico per sottoscrizioni specifiche al rivenditore | Selezionare il rivenditore dall'elenco dei **contatti del supporto designato** | Nella pagina dei dettagli della sottoscrizione selezionare il cliente dalla pagina **clienti** , quindi selezionare la sottoscrizione dalla pagina **sottoscrizioni** del cliente. |
 
@@ -142,16 +142,16 @@ Quando si associa un rivenditore a un nuovo account cliente, si delega la gestio
 
 5. Se l'ordine è corretto, selezionare **Invia**. Se l'ordine non è corretto, selezionare **Annulla** per annullare l'intera operazione e ricominciare.
 
-6. Dopo aver inviato l'ordine, viene visualizzata la pagina **conferma** . In **informazioni sul programma di installazione**vengono visualizzati il nome dell'account utente amministratore e la password temporanea. Copiare le informazioni relative al nome e alla password dell'account utente, in modo da poterle inviare al nuovo cliente.
+6. Dopo aver inviato l'ordine, viene visualizzata la pagina **conferma** . In **informazioni sul programma di installazione** vengono visualizzati il nome dell'account utente amministratore e la password temporanea. Copiare le informazioni relative al nome e alla password dell'account utente, in modo da poterle inviare al nuovo cliente.
 
     > [!IMPORTANT]  
     > Assicurarsi di prendere nota del nome e della password dell'account utente, perché non è possibile accedere nuovamente a queste informazioni dopo aver chiuso la pagina.
 
-7. Selezionare **Operazione completata**. Il nuovo cliente verrà visualizzato nell'elenco dei clienti, associato al rivenditore indiretto. Il rivenditore dispone ora dell'accesso amministrativo alle informazioni e alle sottoscrizioni dell'account del cliente ed è in grado di gestire le sottoscrizioni per conto dell'utente.
+7. Selezionare **Fine**. Il nuovo cliente verrà visualizzato nell'elenco dei clienti, associato al rivenditore indiretto. Il rivenditore dispone ora dell'accesso amministrativo alle informazioni e alle sottoscrizioni dell'account del cliente ed è in grado di gestire le sottoscrizioni per conto dell'utente.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Aggiungere nuove sottoscrizioni agli account cliente
 
-Quando i clienti vogliono acquistare nuove sottoscrizioni, aggiornare quelle esistenti o acquistare licenze aggiuntive, è necessario apportare queste modifiche nell'account del cliente.
+Quando i clienti vogliono acquistare nuove sottoscrizioni, aggiornare quelle esistenti o acquistare licenze aggiuntive, è possibile apportare queste modifiche nell'account del cliente tramite il portale M365. Questa operazione non può essere eseguita nel portale di Azure.
 
 1. Selezionare **Customers** dal menu centro per i **partner** .
 
@@ -163,7 +163,7 @@ Quando i clienti vogliono acquistare nuove sottoscrizioni, aggiornare quelle esi
 
 5. Le nuove sottoscrizioni vengono visualizzate nell'elenco sottoscrizioni del cliente.
 
-6. Se si desidera che il rivenditore gestisca le richieste di supporto clienti per la nuova sottoscrizione, selezionare la sottoscrizione e quindi selezionare il rivenditore dall'elenco **contatto del supporto designato** .
+6. Se si desidera che il rivenditore gestisca le richieste di supporto clienti per la nuova sottoscrizione, selezionare la sottoscrizione e quindi selezionare il rivenditore dall'elenco **contatto del supporto designato** . 
 
 7. Al termine, selezionare **Invia** .
 

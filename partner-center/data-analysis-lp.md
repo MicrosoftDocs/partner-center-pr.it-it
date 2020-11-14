@@ -1,7 +1,7 @@
 ---
-title: Usare Analytics per Customer Insights
+title: Usare Analytics per informazioni dettagliate sulle sottoscrizioni
 ms.topic: article
-ms.date: 05/15/2020
+ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come usare le analisi nel centro per i partner per comprendere meglio il tuo business e come i tuoi clienti usano le licenze acquistate.
@@ -9,50 +9,71 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 176f09a2acfeab7566f58f3177f1b052d9cb5968
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434740"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626073"
 ---
-# <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a><span data-ttu-id="fd6d6-103">Usare Analytics per ottenere altre informazioni sull'uso delle licenze per i clienti e sul modo in cui è possibile soddisfare le proprie esigenze</span><span class="sxs-lookup"><span data-stu-id="fd6d6-103">Use analytics to learn more about customer license use and how you can help meet their needs</span></span>
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a><span data-ttu-id="a940b-103">Usare Analytics per saperne di più sui ricavi delle sottoscrizioni</span><span class="sxs-lookup"><span data-stu-id="a940b-103">Use analytics to learn more about subscription revenue</span></span>
 
-<span data-ttu-id="fd6d6-104">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="fd6d6-104">**Applies to**</span></span>
+<span data-ttu-id="a940b-104">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="a940b-104">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="fd6d6-105">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="fd6d6-105">Partner Center</span></span>
-- <span data-ttu-id="fd6d6-106">Partner MPN</span><span class="sxs-lookup"><span data-stu-id="fd6d6-106">MPN partners</span></span>
-- <span data-ttu-id="fd6d6-107">Partner aderenti al programma CSP</span><span class="sxs-lookup"><span data-stu-id="fd6d6-107">Partners in the CSP program</span></span>
+- <span data-ttu-id="a940b-105">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="a940b-105">Global admin</span></span>
+- <span data-ttu-id="a940b-106">Amministratore partner MPN</span><span class="sxs-lookup"><span data-stu-id="a940b-106">MPN Partner admin</span></span>
 
-<span data-ttu-id="fd6d6-108">**Ruolo appropriato**</span><span class="sxs-lookup"><span data-stu-id="fd6d6-108">**Appropriate role**</span></span>
+<span data-ttu-id="a940b-107">La pianificazione di modi per sviluppare il lavoro di CSP implica la definizione del numero di clienti che usa i prodotti Microsoft.</span><span class="sxs-lookup"><span data-stu-id="a940b-107">Planning ways to develop your CSP business includes understanding how your customers use their Microsoft products.</span></span> <span data-ttu-id="a940b-108">Sono disponibili diverse opzioni per la raccolta dei dati nel centro per i partner ed è possibile raccogliere dati sia sull'azienda sia su se e in che modo i clienti usano le licenze acquistate.</span><span class="sxs-lookup"><span data-stu-id="a940b-108">You have several options for gathering data in Partner Center, and you can gather data on both your business and on if and how your customers are using the licenses they've purchased.</span></span> <span data-ttu-id="a940b-109">Se si usa il modello CSP Direct, è anche possibile installare e usare l'app partner Center Analytics per Power BI per raccogliere dati aggiuntivi.</span><span class="sxs-lookup"><span data-stu-id="a940b-109">If you are in the CSP direct model, you also have the opportunity to install and use the Partner Center Analytics app for Power BI to gather additional data.</span></span>
 
-- <span data-ttu-id="fd6d6-109">Amministratore partner MPN</span><span class="sxs-lookup"><span data-stu-id="fd6d6-109">MPN Partner admin</span></span>
+## <a name="access-to-the-subscription-analytics"></a><span data-ttu-id="a940b-110">Accesso all'analisi delle sottoscrizioni</span><span class="sxs-lookup"><span data-stu-id="a940b-110">Access to the Subscription Analytics</span></span>
 
-<span data-ttu-id="fd6d6-110">La pianificazione di modi per sviluppare il lavoro di CSP implica la definizione del numero di clienti che usa i prodotti Microsoft.</span><span class="sxs-lookup"><span data-stu-id="fd6d6-110">Planning ways to develop your CSP business includes understanding how your customers use their Microsoft products.</span></span> <span data-ttu-id="fd6d6-111">Sono disponibili diverse opzioni per la raccolta dei dati nel centro per i partner ed è possibile raccogliere dati sia sull'azienda sia su se e in che modo i clienti usano le licenze acquistate.</span><span class="sxs-lookup"><span data-stu-id="fd6d6-111">You have several options for gathering data in Partner Center, and you can gather data on both your business and on if and how your customers are using the licenses they've purchased.</span></span> <span data-ttu-id="fd6d6-112">Se si usa il modello CSP Direct, si ha la possibilità di installare e usare l'app di analisi del centro per i partner per Power BI per raccogliere dati aggiuntivi.</span><span class="sxs-lookup"><span data-stu-id="fd6d6-112">If you are in the CSP direct model, you have the opportunity to install and use the Partner Center Analytics app for Power BI to gather additional data.</span></span>
+1. <span data-ttu-id="a940b-111">Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="a940b-111">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).</span></span>
+1. <span data-ttu-id="a940b-112">Da CSP scegliere **analizza** dal menu centro partner e quindi selezionare **analisi sottoscrizione**.</span><span class="sxs-lookup"><span data-stu-id="a940b-112">From CSP in the Partner Center menu, select **Analyze** , and then select **Subscription analytics**.</span></span>
 
-## <a name="access-to-user-analytics"></a><span data-ttu-id="fd6d6-113">Accesso a analisi utente</span><span class="sxs-lookup"><span data-stu-id="fd6d6-113">Access to user analytics</span></span>
+1. <span data-ttu-id="a940b-113">I ricavi CSP di dodici mesi finali verranno visualizzati nella parte superiore della pagina</span><span class="sxs-lookup"><span data-stu-id="a940b-113">The trailing twelve-month CSP revenue will be displayed at the top of the page</span></span>
 
-<span data-ttu-id="fd6d6-114">Nel centro per i partner, solo l'amministratore del partner MPN può accedere a analisi utente.</span><span class="sxs-lookup"><span data-stu-id="fd6d6-114">In Partner Center, only the MPN partner admin has access to user analytics.</span></span> <span data-ttu-id="fd6d6-115">Se un utente nell'azienda necessita di tale accesso, ad esempio un amministratore di fatturazione, è possibile concederlo assegnando a tale utente il ruolo di amministratore partner MPN.</span><span class="sxs-lookup"><span data-stu-id="fd6d6-115">If someone in your company needs this access (for example, a billing admin), you can grant it by assigning that person the MPN Partner Admin role.</span></span>
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Schermata sottoscrizione":::
+
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a><span data-ttu-id="a940b-115">Ricavi CSP Twelve-Month finali (TTM)</span><span class="sxs-lookup"><span data-stu-id="a940b-115">Trailing Twelve-Month (TTM) CSP Revenue</span></span>
+
+<span data-ttu-id="a940b-116">I ricavi CSP di 12 mesi finali rappresentano i ricavi del programma Cloud Solution Provider finali in USD a livello di conto globale del partner.</span><span class="sxs-lookup"><span data-stu-id="a940b-116">Trailing 12-month CSP revenue represents the trailing Cloud Solution Provider program revenue in USD at a Partner Global Account level.</span></span> <span data-ttu-id="a940b-117">I dati vengono aggiornati l'ottavo di ogni mese, per visualizzare i ricavi finali di dodici mesi fino al mese precedente.</span><span class="sxs-lookup"><span data-stu-id="a940b-117">The data is refreshed on the 8th of every month, to display the trailing twelve-month revenue until the prior month.</span></span> <span data-ttu-id="a940b-118">Ad esempio, il 9 settembre 2020 dovrebbe essere possibile visualizzare il TTM per il periodo fisso del 2019 settembre al 2020 agosto.</span><span class="sxs-lookup"><span data-stu-id="a940b-118">For example, on 9th September 2020, you should be able to see the TTM for the fixed period of September 2019 to August 2020.</span></span>
+
+<span data-ttu-id="a940b-119">Il ricavo visualizzato nel centro per i partner viene calcolato per un intervallo di tempo fisso di dodici mesi e non può essere modificato in un intervallo di tempo più breve.</span><span class="sxs-lookup"><span data-stu-id="a940b-119">The revenue displayed on Partner Center is calculated for a fixed time interval of twelve-months, and cannot be modified to a shorter time frame.</span></span>
+
+<span data-ttu-id="a940b-120">Per visualizzare una suddivisione dei ricavi a livello di account della località partner:</span><span class="sxs-lookup"><span data-stu-id="a940b-120">To see a breakdown of the revenue at your Partner Location Account level:</span></span>
+
+- <span data-ttu-id="a940b-121">Selezionare il collegamento "Download Details" e scaricare un file con estensione TSV che Visualizza i ricavi TTM in tutte le posizioni.</span><span class="sxs-lookup"><span data-stu-id="a940b-121">Select the ‘Download Details’ link and download a .tsv file that displays the TTM revenue across all your locations.</span></span>
 
 >[!NOTE] 
-><span data-ttu-id="fd6d6-116">Per concedere l'accesso, è necessario essere un amministratore partner MPN.</span><span class="sxs-lookup"><span data-stu-id="fd6d6-116">To grant access, you must be an MPN partner admin.</span></span>
+><span data-ttu-id="a940b-122">La somma dei singoli numeri di ricavi TTM tra gli ID MPN nel file con estensione TSV può sembrare superiore a quella complessiva dei ricavi TTM visualizzati nel centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="a940b-122">Summing up the individual TTM Revenue numbers across MPN IDs in the .tsv file may appear to be greater than the overall TTM revenue you see displayed on Partner Center.</span></span> <span data-ttu-id="a940b-123">Questo perché i ricavi possono essere conteggiati come doppi per le sottoscrizioni con più attribuzioni partner nel file scaricato.</span><span class="sxs-lookup"><span data-stu-id="a940b-123">This is because the revenue may be double counted for subscriptions with multiple partner attributions in the downloaded file.</span></span>
 
-<span data-ttu-id="fd6d6-117">**Concedi l'accesso a analisi utente nel centro per i partner**</span><span class="sxs-lookup"><span data-stu-id="fd6d6-117">**Grant access to user analytics in Partner Center**</span></span> 
+## <a name="subscription-summary"></a><span data-ttu-id="a940b-124">Riepilogo della sottoscrizione</span><span class="sxs-lookup"><span data-stu-id="a940b-124">Subscription Summary</span></span>
 
-1. <span data-ttu-id="fd6d6-118">Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.</span><span class="sxs-lookup"><span data-stu-id="fd6d6-118">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+<span data-ttu-id="a940b-125">Nella metà inferiore della schermata viene visualizzato un riepilogo delle sottoscrizioni.</span><span class="sxs-lookup"><span data-stu-id="a940b-125">The lower half of the screen displays a summary of the subscriptions.</span></span> <span data-ttu-id="a940b-126">Usare i filtri seguenti per visualizzare i dettagli della sottoscrizione necessari:</span><span class="sxs-lookup"><span data-stu-id="a940b-126">Use the following filters to see the necessary subscription details:</span></span>  
 
-2. <span data-ttu-id="fd6d6-119">Nel menu centro per i partner, nella pagina **Gestione utenti** del centro per i partner, utilizzare la casella di ricerca per trovare la persona che necessita di accesso.</span><span class="sxs-lookup"><span data-stu-id="fd6d6-119">From the Partner Center menu, On the Partner Center **User management** page, use the Search box to find the person who needs access.</span></span>
-2.  <span data-ttu-id="fd6d6-120">Nei risultati della ricerca selezionare il nome della persona per aprire la pagina dei **Dettagli dell'utente** .</span><span class="sxs-lookup"><span data-stu-id="fd6d6-120">In the search results, select the person's name to open the **User details** page.</span></span>
-3.  <span data-ttu-id="fd6d6-121">In **ruoli e autorizzazioni**selezionare **MPN partner admin** , quindi selezionare **Aggiorna**.</span><span class="sxs-lookup"><span data-stu-id="fd6d6-121">Under **Roles and permissions**, select **MPN partner admin** and then select **Update**.</span></span>
+1. <span data-ttu-id="a940b-127">**Durata** : è possibile scegliere di visualizzare il riepilogo della sottoscrizione per</span><span class="sxs-lookup"><span data-stu-id="a940b-127">**Duration** : You may opt to see the subscription summary for</span></span> 
+
+- <span data-ttu-id="a940b-128">30D-ultimi 30 giorni</span><span class="sxs-lookup"><span data-stu-id="a940b-128">30D – Last 30 days</span></span>
+- <span data-ttu-id="a940b-129">3M – ultimi 3 mesi</span><span class="sxs-lookup"><span data-stu-id="a940b-129">3M – Last 3 months</span></span>
+- <span data-ttu-id="a940b-130">6M-ultimi 6 mesi</span><span class="sxs-lookup"><span data-stu-id="a940b-130">6M – Last 6 months</span></span>
+- <span data-ttu-id="a940b-131">12M – ultimi 12 mesi</span><span class="sxs-lookup"><span data-stu-id="a940b-131">12M – Last 12 months</span></span>
+
+2. <span data-ttu-id="a940b-132">**Tipo di prodotto** :</span><span class="sxs-lookup"><span data-stu-id="a940b-132">**Product Type** :</span></span>
+ 
+- <span data-ttu-id="a940b-133">Office 365</span><span class="sxs-lookup"><span data-stu-id="a940b-133">Office 365</span></span>
+- <span data-ttu-id="a940b-134">Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="a940b-134">Microsoft 365</span></span>
+- <span data-ttu-id="a940b-135">Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="a940b-135">Dynamics 365</span></span>
+- <span data-ttu-id="a940b-136">EMS</span><span class="sxs-lookup"><span data-stu-id="a940b-136">EMS</span></span>
+
+<span data-ttu-id="a940b-137">L'applicazione di questi filtri non avrà alcun effetto sulla metrica dei ricavi TTM all'inizio del report.</span><span class="sxs-lookup"><span data-stu-id="a940b-137">Applying these filters will not impact the TTM revenue metric at the top of this report.</span></span>
+
 
  
-## <a name="access-data-in-partner-center"></a><span data-ttu-id="fd6d6-122">Accedere ai dati nel centro per i partner</span><span class="sxs-lookup"><span data-stu-id="fd6d6-122">Access data in Partner Center</span></span>
+## <a name="next-steps"></a><span data-ttu-id="a940b-138">Passaggi successivi</span><span class="sxs-lookup"><span data-stu-id="a940b-138">Next steps</span></span>
 
-|<span data-ttu-id="fd6d6-123">**Per ottenere i dati**</span><span class="sxs-lookup"><span data-stu-id="fd6d6-123">**To get data on**</span></span>   |<span data-ttu-id="fd6d6-124">**Scarica questo**</span><span class="sxs-lookup"><span data-stu-id="fd6d6-124">**Download this**</span></span>   |<span data-ttu-id="fd6d6-125">**Leggi**</span><span class="sxs-lookup"><span data-stu-id="fd6d6-125">**Read this**</span></span>   | <span data-ttu-id="fd6d6-126">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="fd6d6-126">**Applies to**</span></span>    |
-|---------------------|:-----------------------|:---------------|:--------------|
-|<span data-ttu-id="fd6d6-127">Modalità di utilizzo delle licenze acquistate dai clienti</span><span class="sxs-lookup"><span data-stu-id="fd6d6-127">How your customers are using the licenses they purchased</span></span>   |<span data-ttu-id="fd6d6-128">Dati di distribuzione e di utilizzo da partner Center => analisi del prodotto</span><span class="sxs-lookup"><span data-stu-id="fd6d6-128">Deployment and usage data from Partner Center => Product analytics</span></span>   |[<span data-ttu-id="fd6d6-129">Migliorare i tassi di adozione e soddisfazione</span><span class="sxs-lookup"><span data-stu-id="fd6d6-129">Increase adoption and satisfaction</span></span>](increasing-adoption-and-satisfaction.md)|<span data-ttu-id="fd6d6-130">Partner CSP</span><span class="sxs-lookup"><span data-stu-id="fd6d6-130">CSP partners</span></span>|
-|<span data-ttu-id="fd6d6-131">Attività dei clienti relative alle sottoscrizioni</span><span class="sxs-lookup"><span data-stu-id="fd6d6-131">Customer activity regarding subscriptions</span></span>   |<span data-ttu-id="fd6d6-132">Log attività</span><span class="sxs-lookup"><span data-stu-id="fd6d6-132">Activity logs</span></span>   |[<span data-ttu-id="fd6d6-133">Visualizzare i log attività dei clienti</span><span class="sxs-lookup"><span data-stu-id="fd6d6-133">View customer activity logs</span></span>](activity-logs.md)|<span data-ttu-id="fd6d6-134">Partner CSP</span><span class="sxs-lookup"><span data-stu-id="fd6d6-134">CSP partners</span></span>   |
-|<span data-ttu-id="fd6d6-135">Crescita della base dei clienti, utilizzo, consumo di Azure e altro ancora</span><span class="sxs-lookup"><span data-stu-id="fd6d6-135">Growth of customer base, usage, Azure consumption and more</span></span>   |<span data-ttu-id="fd6d6-136">App centro per i partner per Power BI</span><span class="sxs-lookup"><span data-stu-id="fd6d6-136">Partner Center app for Power BI</span></span>   |[<span data-ttu-id="fd6d6-137">App Analisi del Centro per i Partner per Power BI (partner diretti in CSP)</span><span class="sxs-lookup"><span data-stu-id="fd6d6-137">Partner Center Analytics app for Power BI (direct partners in CSP)</span></span>](power-bi-app-for-direct-partners.md)|<span data-ttu-id="fd6d6-138">Partner diretti CSP</span><span class="sxs-lookup"><span data-stu-id="fd6d6-138">CSP direct partners</span></span>|
+- [<span data-ttu-id="a940b-139">Analizzare il modo in cui i clienti usano le licenze acquistate</span><span class="sxs-lookup"><span data-stu-id="a940b-139">Analyze how your customers are using the licenses they purchased</span></span>](increasing-adoption-and-satisfaction.md)  
+- [<span data-ttu-id="a940b-140">Visualizzare i log attività dei clienti</span><span class="sxs-lookup"><span data-stu-id="a940b-140">View customer activity logs</span></span>](activity-logs.md)
+- [<span data-ttu-id="a940b-141">App Analisi del Centro per i Partner per Power BI</span><span class="sxs-lookup"><span data-stu-id="a940b-141">Partner Center Analytics app for Power BI</span></span>](power-bi-app-for-direct-partners.md)
 
 
 

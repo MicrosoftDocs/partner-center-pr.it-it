@@ -1,7 +1,7 @@
 ---
 title: Migliorare i tassi di adozione e soddisfazione
 ms.topic: how-to
-ms.date: 07/21/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come usare le metriche nel centro per i partner. Le metriche possono mostrare se l'azienda sta crescendo, in che modo i clienti usano le proprie licenze e dove concentrarsi sull'investimento.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d995d72f6b5f9fb3beafff91eee7518ee999bf6c
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545932"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691368"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Usare le metriche nel centro per i partner per aumentare l'adozione e la soddisfazione
 
@@ -55,7 +55,7 @@ Puoi vedere i dati per tutti i tuoi clienti tramite il programma Cloud Solution 
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
-2. Selezionare **analizza**e scegliere una delle opzioni di analisi nel menu.
+2. Selezionare **analizza** e scegliere una delle opzioni di analisi nel menu.
 
 3. Per scaricare i dati di distribuzione e di utilizzo nell'intero set di clienti, selezionare l'opzione **Esporta** (freccia giù).
 
@@ -67,7 +67,7 @@ Terminologia:
 
 - **% distribuzione** = licenze assegnate/licenze vendute
 
-- **% utilizzo** = diritti attivi/diritti totali
+- **Utilizzo%** = utenti attivi/totale utenti
 
    In alcuni casi la percentuale di utilizzo risulta ingigantita, o maggiore del 100%. Questo problema può verificarsi per diversi motivi:
 

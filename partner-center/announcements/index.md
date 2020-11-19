@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/10/2020
-ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488130"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691317"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,9 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di novembre 2020** | **Annunciato** |
 |---------|:---------|:---------|
+|Funzionalità|[Modifica della valuta di fatturazione dei partner per le nuove offerte commerciali nell'area UE/EFTA](2020-november.md#10)|17 novembre|
+|Funzionalità|[Limitazione delle richieste per le API del Centro per i partner](2020-november.md#9)|17 novembre|
+|Funzionalità|[Errori 409 dovuti a richieste MCA duplicate](2020-november.md#8)|16 novembre|
 |Funzionalità|[Test disponibile: aggiornamenti delle API e miglioramenti dell'interfaccia utente (UI) del Centro per i partner per il processo di convalida dei clienti del settore della formazione](2020-november.md#7)|10 novembre|
 |Funzionalità|[Estensione del contenuto per i partner con licenze commerciali alla raccolta per l'idoneità delle operazioni](2020-november.md#6)|2 novembre|
 |Offerte/mercati|[Lancio dello SKU Premium di Microsoft Teams Rooms](2020-november.md#5)|2 novembre|

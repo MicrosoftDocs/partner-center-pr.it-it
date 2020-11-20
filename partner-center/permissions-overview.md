@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 8ae4bed8536907c59f1b22e72896cfbe7f7aff9a
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363623"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670151"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Assegnare ruoli utente e autorizzazioni per gli utenti di un'azienda che devono usare il Centro per i partner
 
@@ -130,7 +130,7 @@ Questi non sono ruoli Azure Active Directory. Questi ruoli gestiscono l'attivit�
 ## <a name="manage-referrals"></a>Gestione delle segnalazioni
 
 > [!Note]
->Il nuovo ruolo utente Segnalazioni sarà disponibile a partire dal 16 novembre 2020. Gli amministratori delle segnalazioni esistenti manterranno il proprio ruolo nell'ambito dell'intera azienda.
+>Il nuovo ruolo utente Segnalazioni sarà disponibile a partire dal 18 novembre 2020. Gli amministratori delle segnalazioni esistenti manterranno il proprio ruolo nell'ambito dell'intera azienda.
 
 |**Ruolo** | **Operazioni consentite**|**Altre informazioni**
 |------------------------------|:-------------------------|---|

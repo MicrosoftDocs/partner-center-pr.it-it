@@ -1,20 +1,20 @@
 ---
 title: Segnalare i problemi con il Centro per i partner
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Informazioni su come segnalare i problemi con il centro per i partner e su come raccogliere informazioni di diagnostica per il team di supporto partner.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567075"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983342"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Come segnalare i problemi con il centro per i partner e inviare eventuali informazioni di log o diagnostica
 
@@ -23,9 +23,7 @@ ms.locfileid: "94567075"
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
-Se si riscontrano problemi o si necessita di assistenza per il centro per i partner, contattare il supporto tecnico.
-
-**Ruoli utente**
+**Ruoli appropriati**
 
 Tutti gli utenti connessi al centro per i partner possono creare richieste di supporto per i partner. Gli utenti possono visualizzare solo le richieste di supporto inviate dopo l'accesso al centro per i partner.
 
@@ -58,6 +56,12 @@ Se il problema richiede una conversazione con l'avvocato del supporto tecnico, √
 1. Quando si pianifica un appuntamento, il centro per i partner Invia un invito al calendario con informazioni sul modo in cui il supporto tecnico contatter√† l'utente, in modo che sia possibile tenere traccia di questo appuntamento nel calendario di lavoro.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Data e ora":::
+
+## <a name="hours-of-operation"></a>Ore di funzionamento
+
+**Supporto per i partner**
+
+:::image type="content" source="images/support/hoop.png" alt-text="Ore di supporto per l'operazione":::
 
 ## <a name="send-diagnostics"></a>Inviare la diagnostica
 

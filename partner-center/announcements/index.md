@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/10/2020
-ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.date: 11/19/2020
+ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691317"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932770"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,9 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di novembre 2020** | **Annunciato** |
 |---------|:---------|:---------|
+|Funzionalità|[Nuova esperienza di gestione degli account unificata](2020-november.md#13)|18 novembre|
+|Offerte/mercati|[Promozione di Office 365 E1 per il mercato delle medie aziende (LATAM, APAC e India)](2020-november.md#12)|18 novembre|
+|Funzionalità|[Aggiornamenti dell'API del Centro per i partner e miglioramenti dell'interfaccia utente per rafforzare la selezione dei clienti in determinati paesi](2020-november.md#11)|17 novembre|
 |Funzionalità|[Modifica della valuta di fatturazione dei partner per le nuove offerte commerciali nell'area UE/EFTA](2020-november.md#10)|17 novembre|
 |Funzionalità|[Limitazione delle richieste per le API del Centro per i partner](2020-november.md#9)|17 novembre|
 |Funzionalità|[Errori 409 dovuti a richieste MCA duplicate](2020-november.md#8)|16 novembre|

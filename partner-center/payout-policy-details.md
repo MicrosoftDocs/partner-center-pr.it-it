@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94531988"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947665"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Pianificazioni dei pagamenti e dettagli dei criteri
 
@@ -32,9 +32,9 @@ Si verificherà spesso un versamento prima che Microsoft raccolga i pagamenti da
 | --- | --- | --- | --- |
 | Utilizzo o mese di transazione | Il cliente USA o acquista un servizio. | Dashboard di [utilizzo](/azure/marketplace/partner-center-portal/usage-dashboard) o [ordine](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mese 1** |
 | Ordine di acquisto creato | Determinare l'utilizzo totale, le transazioni totali | Dashboard di [utilizzo](/azure/marketplace/partner-center-portal/usage-dashboard) o [ordine](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mese 2** |
-| Viene creato un guadagno per i pagamenti ISV | Determinazione della tariffa dell'Agenzia e degli utili per i pagamenti | Contrassegnato come non elaborato nella cronologia delle transazioni nell'istruzione payout | **Mese 3 (prima settimana)** |
-| Preparare i pagamenti | I guadagni sono preparati per il pagamento mensile | Contrassegnato come imminente nella cronologia delle transazioni nell'istruzione payout | **Mese 3 (prima settimana)** |
-| **Payout Date** | **Il pagamento viene inviato al server di pubblicazione** | **Contrassegnato come inviato nella cronologia delle transazioni e nella sezione relativa ai pagamenti dell'istruzione per il pagamento** | **Mese 3 (entro il 15)** |
+| Viene creato un guadagno per i pagamenti ISV | Determinazione della tariffa dell'Agenzia e degli utili per i pagamenti | Contrassegnato come non elaborato nella cronologia delle transazioni nell' [istruzione payout](payout-statement.md) | **Mese 3 (prima settimana)** |
+| Preparare i pagamenti | I guadagni sono preparati per il pagamento mensile | Contrassegnato come imminente nella cronologia delle transazioni nell' [istruzione payout](payout-statement.md) | **Mese 3 (prima settimana)** |
+| **Payout Date** | **Il pagamento viene inviato al server di pubblicazione** | **Contrassegnato come inviato nella cronologia delle transazioni e nella sezione relativa ai pagamenti dell'istruzione per il [pagamento](payout-statement.md)** | **Mese 3 (entro il 15)** |
 | Fattura pagata dal cliente | Microsoft raccoglie i pagamenti dal cliente | Nessuna modifica | **Dal mese 4 a 12** |
 |
 
@@ -48,10 +48,10 @@ Tutti gli acquisti con una carta di credito o una fattura mensile hanno un perio
 | --- | --- | --- | --- |
 | Utilizzo o mese di transazione | Il cliente USA o acquista un servizio. | Dashboard di [utilizzo](/azure/marketplace/partner-center-portal/usage-dashboard) o [ordine](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mese 1** |
 | Fattura pagata dal cliente | Determinare l'utilizzo totale, il valore totale della transazione e la fattura dei clienti | Dashboard di [utilizzo](/azure/marketplace/partner-center-portal/usage-dashboard) o [ordine](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mese 2** |
-| Viene creato un guadagno per i pagamenti ISV | Determinazione della tariffa dell'Agenzia e degli utili per i pagamenti | Contrassegnato come non elaborato nella cronologia delle transazioni nell'istruzione payout | **Mese 2** |
-| Periodo di attesa di 30 giorni | Verifica della raccolta di fondi, possibile chargeback e richieste di rimborso | Contrassegnato come non elaborato nella cronologia delle transazioni nell'istruzione payout | **Mese 3** |
-| Preparare i pagamenti | I guadagni sono preparati per il pagamento mensile | Contrassegnato come imminente nella cronologia delle transazioni nell'istruzione payout | **Prima settimana del mese 4** |
-| **Payout Date** | **Il pagamento viene inviato al server di pubblicazione** | **Contrassegnato come inviato nella cronologia delle transazioni e nella sezione relativa ai pagamenti dell'istruzione per il pagamento** | **Mese 4 (entro il 15)** |
+| Viene creato un guadagno per i pagamenti ISV | Determinazione della tariffa dell'Agenzia e degli utili per i pagamenti | Contrassegnato come non elaborato nella cronologia delle transazioni nell' [istruzione payout](payout-statement.md) | **Mese 2** |
+| Periodo di attesa di 30 giorni | Verifica della raccolta di fondi, possibile chargeback e richieste di rimborso | Contrassegnato come non elaborato nella cronologia delle transazioni nell' [istruzione payout](payout-statement.md) | **Mese 3** |
+| Preparare i pagamenti | I guadagni sono preparati per il pagamento mensile | Contrassegnato come imminente nella cronologia delle transazioni nell' [istruzione payout](payout-statement.md) | **Mese 4 (prima settimana)** |
+| **Payout Date** | **Il pagamento viene inviato al server di pubblicazione** | **Contrassegnato come inviato nella cronologia delle transazioni e nella sezione relativa ai pagamenti dell'istruzione per il [pagamento](payout-statement.md)** | **Mese 4 (entro il 15)** |
 |
 
 \* La data di pagamento è nell'ora solare Pacifico (PST).
@@ -66,7 +66,7 @@ Microsoft effettuerà il recupero di tutti i pagamenti già effettuati utilizzan
 
 Di seguito è riportato un esempio di pianificazione:
 
-| Evento | Data approssimativa * | Visibilità del partner |
+| Event | Data approssimativa * | Visibilità del partner |
 | --- | --- | --- |
 | Data di pagamento di esempio | 10/15/2020 | Contrassegnato come **inviato** nella cronologia delle transazioni e nella sezione pagamenti nel dashboard dei pagamenti |
 | <font color="red">Se il cliente non paga Microsoft</font> | 12/2/2020 – 12/5/2020 | Nessuna modifica, come sopra |
@@ -97,4 +97,4 @@ In genere si inviano pagamenti a causa di un determinato mese il 15 ° giorno de
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-Informazioni sui [Dettagli delle imposte](tax-details-marketplace.md).
+- [Dettagli sulle imposte](tax-details-marketplace.md)

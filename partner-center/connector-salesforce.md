@@ -8,12 +8,12 @@ description: Sincronizzare i riferimenti nel centro per i partner con Salesforce
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b3817dafbd05edf0c50b062b52ac4814c767d04
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031464"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947852"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connettore di co-selling per CRM Salesforce - Panoramica
 
@@ -84,19 +84,21 @@ Prima di installare, configurare e personalizzare la soluzione Power automatizza
 
 5. Cercare **connettori per i riferimenti del centro per i partner per Salesforce** nella schermata popup.  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Apri AppSource":::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
 6. Fai clic sul pulsante **Get it Now (Ottieni ora** ) e **continua**.
 
 7. Verrà visualizzata la pagina in cui è possibile selezionare l'ambiente Salesforce CRM per installare l'applicazione.  Accettare i termini e le condizioni.
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Apri AppSource" usando i pulsanti freccia nella parte inferiore della pagina. L' **installazione pianificata** verrà visualizzata accanto alla soluzione di riferimento del centro per i partner. L'installazione può richiedere 10-15 minuti.
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="DISPONGONO disponibili":::
+
+8. Si viene quindi reindirizzati alla pagina **Gestisci soluzioni** .  Passare a "centro per i partner" usando i pulsanti freccia nella parte inferiore della pagina. L' **installazione pianificata** verrà visualizzata accanto alla soluzione di riferimento del centro per i partner. L'installazione può richiedere 10-15 minuti.
 
 9. Al termine dell'installazione, tornare a [Power automatizzate](https://flow.microsoft.com) e selezionare **soluzioni** dall'area di spostamento a sinistra. Si noti che la **sincronizzazione dei riferimenti del centro per i partner per Salesforce** è disponibile nell'elenco soluzioni.
 
 10. Selezionare **la sincronizzazione dei riferimenti del centro per i partner per Salesforce**. Sono disponibili i flussi e le entità seguenti per l'automazione dell'energia elettrica:
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Apri AppSource":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Flussi di Salesforce":::
 
 
 
@@ -113,7 +115,7 @@ Prima di installare, configurare e personalizzare la soluzione Power automatizza
 
 5. Creare una connessione facendo clic su **Crea una connessione**.
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Apri AppSource":::
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Creare la connessione":::
 
 - Cercare i riferimenti per il centro per i partner (anteprima) nella barra di ricerca nell'angolo superiore destro.
 
@@ -121,21 +123,21 @@ Prima di installare, configurare e personalizzare la soluzione Power automatizza
 
 -  Successivamente, creare una connessione per gli eventi del centro partner per l'utente del centro per i partner con le credenziali di amministratore dei riferimenti.
 
-- Creare una connessione per Common Data Service (ambiente corrente) per l'utente amministratore CRM.
+- Creare una connessione per Salesforce per l'utente amministratore CRM.
 
 -  Una volta aggiunte tutte le connessioni, nell'ambiente verranno visualizzate le connessioni seguenti:
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Apri AppSource":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Osservare le connessioni":::
 
 ### <a name="edit-the-connections"></a>Modificare le connessioni
 
 1. Tornare alla pagina soluzioni e selezionare **soluzione predefinita**.  Selezionare **riferimento alla connessione (anteprima)** facendo clic su **tutto**.
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Apri AppSource":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Inizio modifica connettore":::
 
 2. Modificare ognuna delle connessioni una alla volta selezionando l'icona a tre punti. Aggiungere le connessioni pertinenti.
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Apri AppSource":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Modificare i connettori":::
 
 3. Attivare i flussi nella sequenza seguente:
 
@@ -155,11 +157,11 @@ Le API webhook del centro per i partner consentono di effettuare la registrazion
 
 2. Aggiungere le connessioni per l'utente del centro per i partner (a.) con le credenziali di amministratore di riferimento (b.) eventi del centro per i partner come indicato di seguito
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Apri AppSource":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Trigger":::
 
 3. Quando si effettuano questi aggiornamenti, viene visualizzato
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Apri AppSource":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
 
 4. Salvare le modifiche e selezionare **attiva**.
 
@@ -171,7 +173,17 @@ Le API webhook del centro per i partner consentono di effettuare la registrazion
 
 7. Selezionare l'icona **copia** per copiare l'URL post HTTP specificato.
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Apri AppSource"
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Copia l'URL":::
+
+8. Selezionare ora "registrazione del webhook del centro per i partner (anteprima di Insider)" Power automatizzare il flusso e selezionare **Esegui**.
+
+9. Assicurarsi che la finestra "Esegui flusso" si apra nel riquadro di destra e fare clic su **continua**.
+
+10. Immettere i dettagli seguenti:
+
+    1. **Endpoint trigger http**: URL copiato dal passaggio precedente
+
+    2. **Eventi da registrare**: "riferimento-creato" e "riferimento-aggiornato"
 
     3. Sovrascrivi gli **endpoint del trigger esistenti se presenti**: Sì (sovrascrive gli endpoint esistenti).
 
@@ -238,13 +250,13 @@ Un set di campi personalizzati è disponibile come parte della sincronizzazione 
 
 I campi personalizzati seguenti devono far parte della sezione CRM:
 
-- **Sincronizzare con il centro**per i partner: se sincronizzare l'opportunità con il centro per i partner Microsoft
+- **Sincronizzare con il centro** per i partner: se sincronizzare l'opportunità con il centro per i partner Microsoft
 
 - **Identificatore del riferimento**: campo dell'identificatore di sola lettura per il riferimento al centro per i partner Microsoft
 
 - **Collegamento di riferimento**: un collegamento di sola lettura al riferimento nel centro per i partner Microsoft
 
-- **Come è possibile eseguire la Guida Microsoft**per informazioni su come richiedere Microsoft per il riferimento
+- **Come è possibile eseguire la Guida Microsoft** per informazioni su come richiedere Microsoft per il riferimento
 
 - **Prodotti**: elenco dei prodotti associati a questa opportunità
 
@@ -258,7 +270,17 @@ I campi personalizzati seguenti devono far parte della sezione CRM:
 
    2. Assicurarsi che la sezione seguente sia presente quando si crea una "nuova opportunità" nell'ambiente Salesforce CRM
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Apri AppSource" è impostata su "Sì", se si aggiorna l'opportunità in Salesforce CRM, le modifiche verranno sincronizzate con l'account del centro per i partner.
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Ambiente Salesforce":::
+
+   3. Per sincronizzare questa opportunità con Microsoft Partner Center, assicurarsi di impostare i campi seguenti nella visualizzazione scheda:
+
+       - "Sincronizza con il centro per i partner": Sì
+       - "Come può essere utile Microsoft?": selezionare una delle opzioni seguenti:
+       - Prodotti: ID soluzione del prodotto
+
+   4. Dopo aver impostato l'opzione opportunity  **Sync with partner Center** su **Sì**, attendere 10 minuti, accedere all'account del centro per i partner. I riferimenti verranno sincronizzati con Salesforce CRM.
+
+   5. Quando l'opzione "Sincronizza con il centro per i partner" è impostata su "Sì", se si aggiorna l'opportunità in Salesforce CRM, le modifiche verranno sincronizzate con l'account del centro per i partner.
 
    6. Le opportunità che vengono sincronizzate correttamente con partner Center verranno identificate con ✔ icona in Salesforce CRM.
 
@@ -274,7 +296,7 @@ I campi personalizzati seguenti devono far parte della sezione CRM:
 
     5. Passare a **Open Opportunities**. Il riferimento creato nel centro per i partner Microsoft è ora sincronizzato in Salesforce CRM.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Apri AppSource":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Schermata di opportunità di Salesforce":::
 
     6. Quando si seleziona un riferimento sincronizzato, i dettagli della visualizzazione della scheda vengono popolati.
 

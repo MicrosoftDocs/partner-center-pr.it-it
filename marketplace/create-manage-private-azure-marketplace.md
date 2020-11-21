@@ -2,16 +2,16 @@
 title: Creare e gestire Azure Marketplace privato in portale di Azure
 description: Informazioni sulla creazione e sulla gestione di Azure Marketplace privato (anteprima) nel portale di Azure.
 ms.prod: marketplace-customer
-ms.topic: article
+ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487704"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006940"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Creare e gestire Azure Marketplace privato (anteprima) nel portale di Azure
 
@@ -37,8 +37,8 @@ Per poter assegnare il ruolo di amministratore del Marketplace a un utente nell'
 
 - Si ha accesso a un utente **amministratore globale** .
 - Il tenant ha almeno una sottoscrizione (può essere qualsiasi tipo).
-- All'utente amministratore globale viene assegnato il ruolo **collaboratore** o superiore per la sottoscrizione scelta nel passaggio 2.
-- L'accesso con privilegi elevati all'utente amministratore globale è impostato su **Sì** (vedere [elevate-Access-Global-Admin](/azure/role-based-access-control/elevate-access-global-admin)).
+- All'utente amministratore globale viene assegnato il ruolo **collaboratore** o superiore per la sottoscrizione scelta.
+- L'accesso con privilegi elevati all'utente amministratore globale è impostato su **Sì** (vedere [elevare l'accesso per gestire tutti i gruppi di gestione e le sottoscrizioni di Azure](/azure/role-based-access-control/elevate-access-global-admin)).
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>Assegnare il ruolo di amministratore del Marketplace con PowerShell
 
@@ -105,7 +105,6 @@ Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is availabl
 }
 
 Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-
 $elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
 
 if($elevatedAccessOnRoot.Count -eq 0)

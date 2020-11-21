@@ -1,19 +1,19 @@
 ---
-title: Integrazioni di partner di Azure Marketplace
+title: Integrazioni per i partner di Azure Marketplace
 description: Scopri le soluzioni di Azure Marketplace che si integrano con l'ambiente Azure e Ottieni il collegamento alle guide di distribuzione dei partner Microsoft.
 ms.service: partner-services
 ms.topic: conceptual
-author: dsindona
-ms.author: dsindona
+author: JasonWHowell
+ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: 7c97936e7764361c21503eca174433029707cf69
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691656"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006906"
 ---
-# <a name="azure-marketplace-partner-integrations"></a>Integrazioni di partner di Azure Marketplace
+# <a name="azure-marketplace-partner-integrations"></a>Integrazioni per i partner di Azure Marketplace
 
 Informazioni su come integrare soluzioni partner nell'ambiente Azure. Questo articolo fornisce una panoramica di ogni soluzione e i collegamenti alle guide dettagliate per la distribuzione. Le soluzioni sono elencate in ordine alfabetico. 
 

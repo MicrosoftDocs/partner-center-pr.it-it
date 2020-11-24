@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488135"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514759"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurare l'account proventi e i moduli fiscali
 
@@ -44,7 +44,7 @@ I moduli fiscali possono essere completati e inviati elettronicamente nel Centro
 > [!IMPORTANT]
 > Paesi e aree geografiche diversi hanno requisiti fiscali diversi. L'importo esatto delle imposte da pagare dipende dai paesi e aree geografiche in cui viene venduta l'offerta. Per informazioni sui paesi e le aree geografiche in cui Microsoft versa l'IVA e l'imposta di utilizzo per conto dei partner, vedere il [Contratto per editori di Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560). In altri paesi o aree geografiche, a seconda del luogo di registrazione, potrebbe essere necessario versare l'IVA e l'imposta di utilizzo per le offerte di vendita direttamente alle autorità fiscali locali. Gli introiti derivanti dalla vendita di app potrebbero anche essere tassabili come redditi. È consigliabile contattare l'autorità competente per il proprio paese o area geografica, che fornirà tutte le informazioni fiscali necessarie per le attività nel marketplace commerciale.
 
-1. In [Centro per i partner](https://partner.microsoft.com/dashboard) selezionare l'icona **Impostazioni account** nell'angolo superiore destro e quindi selezionare **Impostazioni modalità sviluppatore**.
+1. In [centro](https://partner.microsoft.com/dashboard)per i partner selezionare l'icona dell'ingranaggio **Impostazioni** nell'angolo in alto a destra, quindi **Impostazioni account**.
 
 2. Nel menu di spostamento a sinistra selezionare **Proventi e imposte** e quindi **Payout and tax assignments** (Proventi e assegnazioni fiscali).
 
@@ -81,7 +81,7 @@ Un account proventi è il conto bancario su cui vengono versati gli introiti del
 
 ### <a name="create-a-payment-profile"></a>Creare un profilo di pagamento
 
-1. In [centro](https://partner.microsoft.com/dashboard)per i partner selezionare l'icona a forma di **ingranaggio nell'angolo** in alto a destra e quindi selezionare **Impostazioni account**.
+1. In [centro](https://partner.microsoft.com/dashboard)per i partner selezionare l'icona dell'ingranaggio **Impostazioni** nell'angolo in alto a destra, quindi **Impostazioni account**.
 2. Sotto l'intestazione *Proventi e imposte* selezionare **Assegnazione di profili di pagamento e fiscali**.
 
     > [!NOTE]
@@ -124,7 +124,7 @@ Per assicurarsi che il pagamento vada a buon fine, verificare quanto segue:
 
 È possibile modificare i profili di pagamento esistenti se è necessario modificare o correggere eventuali informazioni non corrette.
 
-1. In [Centro per i partner](https://partner.microsoft.com/dashboard) selezionare l'icona a forma di ingranaggio **Impostazioni** nell'angolo superiore destro e quindi selezionare **Impostazioni modalità sviluppatore**.
+1. In [centro](https://partner.microsoft.com/dashboard)per i partner selezionare l'icona dell'ingranaggio **Impostazioni** nell'angolo in alto a destra, quindi  **Impostazioni account**.
 
 2. Sotto l'intestazione *Proventi e imposte* selezionare **Profili di pagamento e fiscali**.
 

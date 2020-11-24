@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d0db9296157eb4a8f1d7ef7288d438cb39e1c026
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007224"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514776"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Fatturazione e fatturazione in Azure Marketplace
 
@@ -57,7 +57,7 @@ Quando si riceve la fattura, l'utente può variare:
 - Se lo strumento di pagamento è carta di credito, l'utente verrà fatturato immediatamente dopo l'acquisto della prenotazione. Questa fattura sarà separata dalla fattura mensile.
 - Se il metodo di pagamento è assegno/Wire, questo acquisto verrà incluso nella fattura mensile del Marketplace.
 
-Le fatture vengono create per gli account di fatturazione del Programma dei Microsoft Online Services (MOSP), del Contratto del cliente Microsoft e del Contratto Microsoft Partner. Le fatture vengono generate in base al tipo di account di fatturazione. Azure Marketplace addebita alcuni giorni dopo la fine del [periodo di fatturazione](/azure/cost-management-billing/understand/download-azure-invoice#why-you-might-not-see-an-invoice). La fattura per Azure Marketplace, le prenotazioni e le VM spot vengono generate intorno al [nono giorno del mese](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts). Mostra i rispettivi addebiti del mese precedente. Se, ad esempio, un utente ha acquistato una prenotazione il 1 ° marzo e un'altra prenotazione il 30 marzo, una singola fattura di aprile include entrambe le prenotazioni.
+Le fatture vengono create per gli account di fatturazione del Programma dei Microsoft Online Services (MOSP), del Contratto del cliente Microsoft e del Contratto Microsoft Partner. Le fatture vengono generate in base al tipo di account di fatturazione. Azure Marketplace addebita alcuni giorni dopo la fine del periodo di fatturazione. La fattura per Azure Marketplace, le prenotazioni e le VM spot vengono generate intorno al [nono giorno del mese](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts). Mostra i rispettivi addebiti del mese precedente. Se, ad esempio, un utente ha acquistato una prenotazione il 1 ° marzo e un'altra prenotazione il 30 marzo, una singola fattura di aprile include entrambe le prenotazioni.
 
 Per altre informazioni sulle fatture, vedere informazioni sugli [addebiti per i servizi esterni di Azure](/azure/cost-management-billing/understand/understand-azure-marketplace-charges).
 

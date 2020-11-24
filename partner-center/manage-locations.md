@@ -1,7 +1,7 @@
 ---
 title: Gestire le posizioni nell'account partner
-ms.topic: article
-ms.date: 10/12/2020
+ms.topic: how-to
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come aggiungere una nuova sede e come usare l'ID MNP di sede in programmi di incentivi, transazioni aziendali CSP, sottoscrizioni e altre transazioni.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100771"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514801"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gestire le sedi dell'account MPN e aggiungere una nuova sede
 
@@ -58,9 +58,9 @@ Fornire i dettagli legali dell'azienda, inclusi la ragione sociale, l'indirizzo 
 
 1. Accedere al Centro per i partner con l'account MPN. L'account MPN deve avere i privilegi di amministratore globale o amministratore account. 
 
-1. Nell'icona **Impostazioni** seleziona **Impostazioni partner**.
+1. Nell'icona **Impostazioni** selezionare **Impostazioni dell'organizzazione**.
 
-2. Seleziona **Posizione**.
+2. Selezionare **Note legali** quindi **Posizioni**.
 
 3. Selezionare **Aggiungere una sede** e inserire i dettagli dell'indirizzo della sede che si vuole aggiungere alla società, nonché un contatto principale per la sede.
 
@@ -69,18 +69,15 @@ Fornire i dettagli legali dell'azienda, inclusi la ragione sociale, l'indirizzo 
 
 ## <a name="change-global-partner-account-location"></a>Modificare la sede dell'account partner globale
 
-1. Nella pagina **[Località](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** verificare che la sede desiderata come entità legale sia inclusa nell'elenco delle sedi. In caso contrario, aggiungerla.
+1. Nella pagina **[Località società](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** verificare che la sede desiderata come entità legale sia inclusa nell'elenco delle sedi. In caso contrario, aggiungerla.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Struttura delle sedi MPN":::
+   :::image type="content" source="images/accountsettings/location1.png" alt-text="Screenshot della pagina delle posizioni dell'account del Centro per i partner con l'elenco di tutte le posizioni correnti.":::
 
-2. Seleziona **Profilo partner** e quindi **Update legal business profile (Aggiorna profilo aziendale legale)**
-
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Struttura delle sedi MPN":::
-
+2. Selezionare **Note legali** quindi **aggiornare il profilo legale dell'azienda**
+  
 3. Seleziona l'area e la persona giuridica e quindi **Invia**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Struttura delle sedi MPN":::
-
+  
 ## <a name="next-steps"></a>Passaggi successivi
 
 - Vedere le informazioni sul [processo di verifica](verification-responses.md).

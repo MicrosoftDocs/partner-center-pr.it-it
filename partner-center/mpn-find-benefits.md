@@ -1,7 +1,7 @@
 ---
 title: Scopri i vantaggi
 ms.topic: how-to
-ms.date: 09/02/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come trovare i vantaggi MPN nel dashboard del centro per i partner. Sono incluse informazioni su come trovare l'ID di accesso e l'ID del contratto per i vantaggi tecnici.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175322"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812831"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Individuare i vantaggi di Microsoft Partner Network 
 
@@ -36,7 +36,7 @@ Questo articolo indica ai membri del Microsoft Partner Network (MPN) come trovar
 
 In qualità di Microsoft Partner Network membro, l'azienda ha accesso a molti vantaggi che possono contribuire alla crescita dell'attività. Per scoprire quali sono i vantaggi seguenti:
 
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard/home)del centro per i partner, selezionare **MPN**e quindi fare clic su **benefits (vantaggi**).
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard/home)del centro per i partner, selezionare **MPN** e quindi fare clic su **benefits (vantaggi**).
 
 2. Dai vantaggi è possibile esaminare, attivare, ordinare o scaricare i vantaggi di interesse appartenenti a una delle categorie disponibili. A tale scopo, selezionare l'area dei vantaggi per cui si vogliono ottenere ulteriori informazioni:
 
@@ -74,7 +74,7 @@ Per i vantaggi tecnici, vengono visualizzati gli ID del supporto tecnico Microso
 
    Verranno visualizzati l'ID di **contratto** e l'ID di **accesso** specifici del supporto tecnico del prodotto assegnati a questo vantaggio.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Vantaggi espansi":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="I vantaggi tecnici di esempio per il supporto tecnico mostrano gli ID del supporto tecnico Microsoft, come ID contratto e ID di accesso":::
 
    > [!NOTE]
    > Tenere traccia degli ID di supporto. Alcuni sistemi possono richiedere la prima volta, o uno degli utenti della società, di registrare una richiesta di supporto associata a un vantaggio tecnico specifico. È probabile che tutti gli utenti della società usino lo stesso ID di accesso e ID di contratto.
@@ -83,7 +83,7 @@ Per i vantaggi tecnici, vengono visualizzati gli ID del supporto tecnico Microso
 
 Per scoprire quali vantaggi sono disponibili con le competenze Microsoft Action Pack, Silver e/o Gold, vedere le risorse seguenti:
 
-- [Tabella delle licenze per i partner di Microsoft Action Pack](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Tabella delle licenze per i partner di Microsoft Action Pack](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [Tabella delle licenze per partner di competenze](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 

@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e89473cf095be4cc87c96f1c2a6d0da224eccedd
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000415"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038853"
 ---
-# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Scopri le offerte e i prezzi nel Marketplace commerciale del centro per i partner
+# <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Scopri le offerte e i prezzi nel Marketplace commerciale del centro per i partner
 
 **Si applica a**
 
@@ -28,11 +28,11 @@ ms.locfileid: "91000415"
 - Amministratore globale
 - Agente amministratore
 
-Quando fornitori di software indipendenti (ISV) scelgono di pubblicare un'offerta nel Marketplace commerciale, possono anche decidere se desiderano rendere disponibile l'offerta nel programma CSP. Se scelgono di vendere l'offerta tramite il programma CSP, i partner CSP dovrebbero vedere l'offerta nell'area del Marketplace del centro per i partner.
+Quando fornitori di software indipendenti (ISV) scelgono di pubblicare un'offerta nel Marketplace commerciale, possono anche decidere se desiderano rendere disponibile l'offerta nel programma CSP. Se scelgono di vendere l'offerta tramite il programma CSP, i partner CSP dovrebbero vedere l'offerta nell'area del Marketplace del partner.
 
 Se un'offerta ISV non viene visualizzata come previsto nel centro per i partner, è possibile che:
 
-- L'ISV ha deciso di non vendere l'offerta tramite il programma CSP. Ad esempio, alcuni prodotti ISV potrebbero essere stati resi disponibili in altre aree del Marketplace commerciale, ad esempio in [Microsoft AppSource](https://appsource.microsoft.com/) e in [Azure Marketplace](https://azuremarketplace.microsoft.com/), ma potrebbero non essere visualizzati per i CSP nel Marketplace del centro per i partner.
+- L'ISV ha deciso di non vendere l'offerta tramite il programma CSP. Ad esempio, alcuni prodotti ISV potrebbero essere stati resi disponibili in altre aree del Marketplace commerciale, ad esempio in [Microsoft AppSource](https://appsource.microsoft.com/) e in [Azure Marketplace](https://azuremarketplace.microsoft.com/), ma potrebbero non essere visualizzati per i partner del programma CSP in Partner Center Marketplace.
 
 - L'ISV ha deciso di rendere l'offerta esclusiva solo a un numero selezionato di partner CSP. Per ulteriori informazioni sulle offerte esclusive, vedere più avanti in questo argomento della guida.
 
@@ -42,7 +42,7 @@ Se un'offerta ISV non viene visualizzata come previsto nel centro per i partner,
 
 ## <a name="view-marketplace-offers-in-partner-center"></a>Visualizzare le offerte del Marketplace nel centro per i partner
 
-Per visualizzare le offerte di Marketplace commerciali disponibili nel programma CSP: 
+Per visualizzare le offerte di Marketplace commerciali disponibili nel programma CSP:
 
 1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner, quindi selezionare **CSP** dal menu di spostamento a sinistra.
 
@@ -70,7 +70,7 @@ Per visualizzare le offerte di Marketplace commerciali disponibili nel programma
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>Visualizzare le offerte del Marketplace tramite le API del centro
 
-I partner del programma CSP possono anche usare le API per restituire un elenco di offerte idonee. Le offerte idonee saranno solo le offerte ISV SaaS disponibili per il partner per la vendita tramite il Marketplace del partner Center. Per i partner che usano le API per identificare le offerte nel catalogo, vedere le indicazioni per [ottenere un elenco di offerte per un mercato](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+I partner del programma CSP possono anche usare le API per restituire un elenco di offerte idonee. Le offerte idonee saranno solo le offerte ISV SaaS disponibili per il partner da vendere tramite partner Center Marketplace. Per i partner che usano le API per identificare le offerte nel catalogo, vedere le indicazioni per [ottenere un elenco di offerte per un mercato](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Visualizza i prezzi più recenti dell'offerta Marketplace nel centro per i partner
 
@@ -80,7 +80,7 @@ Per i dettagli più recenti sui prezzi associati a un'offerta, seguire questa pr
 
 2. Selezionare **Vendi**, seguito da **prezzi e offerte**.
 
-3. Scorrere verso il basso fino alla sezione **Marketplace** , selezionare una località e scaricare **prezzi per Marketplace**. Viene generato un foglio di calcolo con i dati più recenti sui prezzi per le offerte SaaS, basate sulle licenze disponibili dagli editori ISV. Alcuni prezzi per le applicazioni Azure possono essere visualizzati anche qui. Queste informazioni vengono aggiornate ogni giorno, in modo che sia possibile controllarle per i prezzi correnti con la frequenza di scelta.
+3. Scorrere verso il basso fino alla sezione **Marketplace** , selezionare una località e scaricare **prezzi per Marketplace**. Viene generato un foglio di calcolo con i dati più recenti sui prezzi per le offerte SaaS, basate sulle licenze e le offerte a consumo disponibili dagli editori ISV. Alcuni prezzi per le applicazioni Azure possono essere visualizzati anche qui. Queste informazioni vengono aggiornate ogni giorno, in modo che sia possibile controllarle per i prezzi correnti con la frequenza di scelta.
 
 4. Se un prodotto ISV include un periodo di valutazione gratuito, nel foglio di calcolo vengono visualizzate due righe per il prodotto:
 

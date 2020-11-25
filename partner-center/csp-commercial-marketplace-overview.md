@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000405"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038830"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Panoramica del marketplace commerciale nel Centro per i partner
 
@@ -55,7 +55,7 @@ Come partner del programma CSP, è possibile completare molte attività commerci
 
 - [Portale di gestione di Microsoft Azure](https://portal.azure.com/)
 
-    Oppure
+    Or
 
 - Sistema o sito Web di un editore ISV di terze parti
 
@@ -68,7 +68,7 @@ Per ulteriori informazioni sulla differenza tra le offerte basate sulle licenze 
 
 Per informazioni su dove completare un'attività specifica del Marketplace per le offerte ISV basate sulle licenze o sull'utilizzo, vedere le tabelle seguenti.
 
-|**Per le offerte SaaS basate su licenze degli ISV**  |**Uso**  |
+|**Per offerte SaaS basate su licenza o a consumo da ISV**  |**Uso**  |
 |:------------------------------------|:------------------|
 |Per individuare o cercare offerte disponibili  | Dashboard del centro partner o API del centro per i partner  |
 |Per acquistare un'offerta  | Dashboard del centro partner o API del centro per i partner  |

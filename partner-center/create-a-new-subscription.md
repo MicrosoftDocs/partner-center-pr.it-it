@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000525"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038881"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
@@ -36,8 +36,8 @@ Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere lo
 
 Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elenco delle offerte limitate, visita la pagina Prezzi e offerte del Centro per i partner.
 
-> [!IMPORTANT]
-> Come partner del programma CSP, è possibile acquistare solo sottoscrizioni Saas **basate su licenza** dagli editori ISV all'interno del centro per i partner. Ciò significa che è possibile acquistare qualsiasi offerta SaaS **basata su licenze** che l'editore ISV ha reso disponibile, incluse le [offerte esclusive](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a cui si ha accesso. Per acquistare o gestire altre offerte del Marketplace commerciale dagli ISV, ad esempio offerte basate **sull'utilizzo**, a consumo o a consumo che coinvolgono applicazioni, contenitori o macchine virtuali di Azure, è necessario accedere al portale di [gestione di Azure](https://portal.azure.com/). Per ulteriori informazioni, vedere [acquistare prodotti Marketplace commerciali](csp-commercial-marketplace-purchase.md).
+>[!IMPORTANT]
+> Come partner del programma CSP, è possibile acquistare sottoscrizioni Saas **basate su licenza** o a **consumo** dagli editori ISV all'interno del centro per i partner. Ciò significa che è possibile acquistare qualsiasi offerta SaaS **basata su licenza** o a **consumo** che l'editore ISV ha reso disponibile, incluse le [offerte esclusive](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a cui si ha accesso. Per acquistare o gestire altre offerte di Marketplace commerciali dagli ISV, ad esempio offerte basate sull'utilizzo che coinvolgono applicazioni, contenitori o macchine virtuali di Azure, è necessario passare al [portale di Azure](https://portal.azure.com/).
 
 ## <a name="create-a-new-subscription"></a>Creare una nuova sottoscrizione
 
@@ -50,7 +50,7 @@ Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elen
 4. Per visualizzare solo determinati tipi di sottoscrizioni, effettua le selezioni nei filtri disponibili:
    - **Autore**: scegliere **Microsoft** per visualizzare solo le offerte di Microsoft o il **partner** per vedere i prodotti commerciali del Marketplace pubblicati dagli ISV.
    - **Tipo di fatturazione**: selezionare il tipo di fatturazione per la sottoscrizione che si vuole usare: **licenza** o **utilizzo**. Per informazioni che consentano di decidere tra la frequenza di fatturazione mensile e annuale, vedere [fatturazione basata sulle licenze](license-based-billing.md) .
-   - **Categoria**: scegliere **Enterprise**, **Small Business**o **Trial**. Per informazioni sulle sottoscrizioni di versioni di valutazione, vedi [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+   - **Categoria**: scegliere **Enterprise**, **Small Business** o **Trial**. Per informazioni sulle sottoscrizioni di versioni di valutazione, vedi [Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Selezionare le sottoscrizioni di prodotto che si desidera acquistare per il cliente. I prodotti visualizzati dipendono dal tipo di segmento dei clienti (Education, Government e così via) e dai filtri applicati. Alcune offerte visualizzate sul Marketplace potrebbero non essere sempre disponibili per un cliente specifico o per un partner CSP specifico. Il motivo può essere il seguente:
 
@@ -70,7 +70,7 @@ Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elen
 
     - È possibile esaminare o modificare la sottoscrizione selezionando il nome della sottoscrizione dalla pagina **sottoscrizioni** del cliente. In tale pagina puoi selezionare licenze per componenti aggiuntivi (se disponibili), modificare la quantità di licenze o sospendere la sottoscrizione.
 
-    **Per le sottoscrizioni SaaS (basate su licenza) ISV:**
+    **Per le sottoscrizioni SaaS ISV (basate su licenza e a consumo):**
     - Si riceverà un collegamento al sito dell'editore ISV. Questo collegamento dovrebbe aiutare a completare la distribuzione o la configurazione dell'account della sottoscrizione del cliente.
       
     >[!NOTE]

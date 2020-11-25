@@ -1,7 +1,7 @@
 ---
 title: Acquistare o rinnovare le offerte di Microsoft Action Pack
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Scopri come acquistare un abbonamento a Microsoft Action Pack e iniziare a sfruttare i vantaggi offerti da Action Pack. Scopri anche come effettuare il rinnovo o l'annullamento, come visualizzare la fattura e altro ancora.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998372"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812860"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Acquistare o rinnovare un abbonamento a Microsoft Action Pack oppure competenze Silver o Gold
 
@@ -52,7 +52,7 @@ Diventa un [partner con competenze](https://partner.microsoft.com/membership/com
 ### <a name="check-your-renewal-eligibility"></a>Verificare l'idoneità al rinnovo
 
 >[!IMPORTANT]
->Se ricevi l'invito a rinnovare l'abbonamento nel Centro per i partner, tieni presente che sono stati modificati i criteri nella finestra di rinnovo e solo dopo la scadenza potrai rinnovare l'abbonamento. Ad esempio, se l'abbonamento scade il 22 giugno, puoi rinnovarlo a partire dal 23 giugno e per i successivi 30 giorni.       
+>Se ricevi l'invito a rinnovare l'abbonamento nel Centro per i partner, tieni presente che sono stati modificati i criteri nella finestra di rinnovo e solo dopo la scadenza potrai rinnovare l'abbonamento. Ad esempio, se l'abbonamento scade il 22 giugno, puoi rinnovarlo a partire dal 23 giugno e per i successivi 30 giorni.
 >Puoi trovare la data di scadenza dell'abbonamento nella tua pagina [**Offerte per i membri**](https://partnercenter.microsoft.com/pcv/partnership/offers) (è richiesto l'accesso). Quando hai l'idoneità per il rinnovo nel Centro per i partner, attieniti alla procedura che segue.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Per rinnovare un abbonamento a Microsoft Action Pack nel Centro per i partner
@@ -64,13 +64,13 @@ Diventa un [partner con competenze](https://partner.microsoft.com/membership/com
     >[!NOTE]
     >Se l'opzione **Rinnova l'abbonamento** non viene visualizzata o è disattivata, non hai ancora l'idoneità per rinnovare l'abbonamento ad Action Pack. I criteri della finestra di rinnovo sono stati modificati e solo dopo la scadenza potrai rinnovare l'abbonamento. Ad esempio, se l'abbonamento scade il 22 giugno, puoi rinnovarlo a partire dal 23 giugno e per i successivi 30 giorni.  
 
-3. Se paghi tramite carta di credito, segui le istruzioni per l'aggiunta dei dati relativi alla carta. Se paghi tramite bonifico bancario, fornisci un nome di contatto, un numero di telefono e un indirizzo e-mail, quindi seleziona **Invia**. 
-     
+3. Se paghi tramite carta di credito, segui le istruzioni per l'aggiunta dei dati relativi alla carta. Se paghi tramite bonifico bancario, fornisci un nome di contatto, un numero di telefono e un indirizzo e-mail, quindi seleziona **Invia**.
+
 4. Verifica i dettagli dell'ordine e seleziona **Acquista** per proseguire con l'acquisto di Action Pack. L'addebito sulla carta di credito viene effettuato immediatamente.
 
 5. L'ordine è confermato. Seleziona **Chiudi**.
 
-L'abbonamento ad Action Pack verrà rinnovato automaticamente ogni anno in tale data. Il rinnovo automatico può essere disabilitato in qualsiasi momento nell'elenco delle offerte **Acquistato**. Tuttavia, non potrà essere abilitato di nuovo fino al successivo rinnovo dell'abbonamento. 
+L'abbonamento ad Action Pack verrà rinnovato automaticamente ogni anno in tale data.
 
 ### <a name="update-your-bill-to-address"></a>Aggiornare l'indirizzo di fatturazione
 
@@ -79,16 +79,6 @@ Nel processo di rinnovo o acquisto di Action Pack, è possibile convalidare l'in
  1. Dopo aver selezionato **Invia** è possibile esaminare i dettagli dell'acquisto. Se si nota che è necessario aggiornare l'indirizzo, selezionare **Aggiorna**.
   
  1. Nella pagina **Profilo partner** aggiornare l'indirizzo.
-
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Disabilitare il rinnovo automatico dell'abbonamento ad Action Pack
-
-1. Passa alla pagina [**Offerte per i membri**](https://partnercenter.microsoft.com/pcv/partnership/offers).  Seleziona **Abbonamento a Microsoft Action Pack** per visualizzare i dettagli del tuo abbonamento. 
-
-2. Seleziona l'opzione **Disabilita il rinnovo automatico** se non vuoi che l'abbonamento ad Action Pack venga rinnovato automaticamente ogni anno. 
-
-    >[!NOTE]
-    >Se disabiliti il rinnovo automatico dell'abbonamento, potrai abilitarlo di nuovo solo al successivo rinnovo. Prima della scadenza dell'abbonamento, riceverai un promemoria per il rinnovo.
-
 
 ## <a name="cancel-your-action-pack-subscription"></a>Annullare l'abbonamento ad Action Pack
 

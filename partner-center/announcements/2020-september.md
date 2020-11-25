@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
+ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031554"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "94878801"
 ---
 # <a name="september-2020-announcements"></a>Annunci di settembre 2020
 
@@ -46,7 +46,7 @@ L'interfaccia di amministrazione di Microsoft 365 rende più sicura la distribuz
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-- Approfondire la propria conoscenza del software dell'interfaccia di amministrazione di Microsoft 365 leggendo le sezioni relative a [informazioni generali](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [attività comuni](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) e [funzionalità di evasione dei codici di licenza](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- Approfondire la propria conoscenza del software dell'interfaccia di amministrazione di Microsoft 365 leggendo le sezioni relative a [informazioni generali](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [attività comuni](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) e [funzionalità di evasione dei codici di licenza](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 - Condividere questo aggiornamento con i team pertinenti nell'organizzazione.
 

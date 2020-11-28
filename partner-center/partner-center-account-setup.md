@@ -1,130 +1,138 @@
 ---
 title: Gestire l'account del Centro per i partner
-description: Scopri come gestire il profilo, il catalogo, i dati bancari e fiscali, i ruoli e le autorizzazioni della tua azienda e altro ancora nel Centro per i partner.
-ms.topic: article
+ms.topic: conceptual
+ms.date: 11/20/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-author: parthpandyaMSFT
-ms.author: parthp
+ms.subservice: partnercenter-mpn
+description: Informazioni su come gestire il profilo, i dati bancari e fiscali e altri dati della società nel Centro per i partner.
+author: varsha-sarah
+ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 10/19/2020
-ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 4cdaa7f8a2a6c8643b86f3e34569c2140ecd7450
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92333933"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95007036"
 ---
-# <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gestisci il tuo account del Centro per i partner: profili aziendali, informazioni bancarie, ruoli, autorizzazioni e altro ancora
+# <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gestire l'account del Centro per i partner: profilo della società, informazioni bancarie, ruoli, autorizzazioni e altri dati
 
-**Si applica a**
-
-- Centro per i partner
- 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore account MPN
+- Amministratore MPN
 
-L'account che crei nel Centro per i partner quando esegui la registrazione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account nel Centro per i partner, dovrai terminare la configurazione del profilo completo della società, inclusi i dettagli sul supporto, le eventuali esenzioni fiscali e le informazioni sul contatto principale. L'account dell'azienda includerà anche gli account utente per chiunque usi il Centro per i partner per aggiungere e gestire clienti, vendere sottoscrizioni, gestire la fatturazione, creare profili di business, gestire segnalazioni, usare programmi di incentivi e fornire servizi di supporto.
+L'account che crei nel Centro per i partner quando esegui la registrazione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account, è necessario terminare la configurazione del profilo completo della società, inclusi i dettagli sul supporto, le eventuali esenzioni fiscali e le informazioni sul contatto principale. L'account dell'azienda includerà anche gli account utente per chiunque usi il Centro per i partner per aggiungere e gestire clienti, vendere sottoscrizioni, gestire la fatturazione, creare profili di business, gestire segnalazioni, usare programmi di incentivi e fornire servizi di supporto.
 
 Vedere anche 
+
 - [Invitare i dipendenti a partecipare al Centro per i partner](guide-to-migration.md)
+
 - [Aggiungere un nuovo utente](create-user-accounts-and-set-permissions.md)
+
+>[!NOTE]
+>Il menu Impostazioni account cambierà a seconda dei programmi a cui si è iscritti. Se, ad esempio, si è un partner del programma Cloud Solution Provider (CSP), sarà possibile gestire i servizi condivisi di Azure da Impostazioni account.
+
+## <a name="account-management"></a>Gestione degli account
+
+Per accedere a Gestione account nel Centro per i partner per tutti i partner, commerciali e sviluppatori, accedere al [dashboard](https://partner.microsoft.com/dashboard) del Centro per i partner e quindi selezionare l'opzione **Impostazioni** (icona a forma di ingranaggio) nell'angolo superiore destro della schermata. Non è più necessario scegliere tra Partner e Sviluppatore perché tutti i profili e le impostazioni sono ora combinati.
+
+:::image type="content" source="images/accountsettings/opening.png" alt-text="Icona Impostazioni":::
+
+
+:::image type="content" source="images/accountsettings/accountsettingssv.png" alt-text="Impostazioni account":::
+
+### <a name="locate-your-mpn-id"></a>Individuare l'ID MPN
+
+Sia i partner che gli sviluppatori devono usare l'ID MPN per operazioni come la registrazione dei ticket di supporto. L'ID MPN è riportato nella pagina dei dettagli **Note legali**. È possibile trovarlo anche nel **profilo dell'identità**.
+
+## <a name="organization-profile"></a>Profilo dell'organizzazione
+
+È possibile gestire il profilo di business legale, il profilo di partner e le sedi della società nella pagina **Profilo dell'organizzazione**. Questa pagina consente di visualizzare le informazioni di più alto livello relative al business. È possibile esaminare i dettagli di ogni area e apportare modifiche. Selezionare la scheda corrispondente al programma specifico a cui si è interessati (MPN, CSP o Marketplace commerciale) per visualizzare le proprie informazioni e lo stato di verifica.
+ 
+:::image type="content" source="images/accountsettings/accountsettingsnew.png" alt-text="informazioni legali":::
+ 
+### <a name="legal-information"></a>Informazioni legali
+
+Quando una società accede per la prima volta al Centro per i partner, viene eseguito un processo di verifica con Microsoft. È possibile tenere traccia dello stato della verifica nella pagina **Profilo legale**. Il contatto principale, ovvero la persona che verrà contattata da Microsoft per le domande ai partner, e il contatto legale principale, ovvero la persona che gestisce lo stato e le informazioni legali, sono riportati nella pagina **Profilo legale**. In questa pagina sono elencate tutte le sedi commerciali della società ed è possibile aggiungerne altre.  
+
+Per altre informazioni sulla verifica dei dati dell'account, vedere [questo articolo](verification-responses.md).
+
+### <a name="tenants-profile"></a>Profilo tenant
+
+Tutte le informazioni relative ai tenant Azure AD, commerciali e sviluppatori, vengono registrate nella pagina **Profilo tenant**. In questo profilo l'amministratore globale può associare nuovi tenant all'account globale del partner.
+
+### <a name="identifiers"></a>Identificatori 
+
+La sezione **Identificatori** contiene le identità del Centro per i partner per la propria società: gli ID MPN, gli ID editore, gli ID editore Windows e altri ancora. È possibile espandere e modificare ogni area per individuare facilmente i dettagli, ad esempio il contatto principale per il business editoriale.
+
+### <a name="company-profile"></a>Profilo della società
+
+Il **profilo della società** identifica il tipo di collaborazione con Microsoft, ad esempio come fornitore di software indipendente o come partner del programma CSP. È possibile visualizzare uno snapshot del numero di clienti con cui si sta collaborando, i ricavi annuali e le attuali dimensioni della società. Nella pagina dei dettagli della società è anche possibile ampliare le informazioni aziendali, indicando il tipo di attività che si desidera eseguire con Microsoft, ad esempio sviluppo di applicazioni, rivendita di software Microsoft e di terze parti o integrazione di sistemi. È infine possibile definire l'area in cui si opera attualmente e le aree geografiche in cui si intende espandere il proprio business in futuro.
+
+### <a name="account-merge-profile"></a>Profilo di unione degli account
+
+Quando si invita una società che dispone di un account attivo nel Centro per i partner per unire tale account con il proprio, le informazioni vengono gestite nella pagina **Unione account**. Cercare l'ID MPN della società che si vuole invitare per unirla alla propria, visualizzare le fusioni attuali e inviare inviti alle società. In questa pagina è anche possibile accettare o rifiutare un invito a unire il proprio account a quello di un'altra società. Per informazioni dettagliate sull'unione di account, vedere [Unire l'account partner con un altro account partner](merge-accounts.md).
+
+### <a name="payout-and-tax"></a>Proventi e dati fiscali 
+
+La pagina **Proventi e dati fiscali** contiene i dettagli relativi ai proventi e alle imposte, inclusi i campi **Indirizzo di fatturazione** e **Numero di ordine d'acquisto**. In questa pagina sono riportate anche le informazioni relative alla partita IVA, come il numero di partita IVA e la valuta usata.
+
+
+## <a name="user-roles-and-permissions"></a>Usare ruoli e autorizzazioni
+
+Il modo in cui si lavora nel Centro per i partner e le aree che è possibile aggiornare o visualizzare dipendono dal proprio ruolo e dalle autorizzazioni associate a tale ruolo. Se, ad esempio, non si è un amministratore di Incentivi, non sarà possibile apportare modifiche alle pagine di Incentivi, anche se i dati saranno visibili. 
+
+### <a name="update-preferred-email"></a>Aggiornare l'indirizzo e-mail preferito
+
+Per aggiornare l'indirizzo e-mail preferito per la ricezione delle notifiche del Centro per i partner: 
+
+1. Accedere al [dashboard del Centro per i partner](https://partner.microsoft.com/dashboard).
+1. Passare a [**Impegni**](https://partner.microsoft.com/dashboard/engagement/preference), selezionare il collegamento **Cambia**, aggiornare l'indirizzo e-mail e fare clic su **Salva**.
+
+### <a name="find-your-user-role"></a>Trovare il proprio ruolo utente
+
+1. Passare a **Impostazioni** e selezionare **Profilo personale**.
+ 
+1. Nella pagina **Dettagli** sono riportate le informazioni personali in relazione al proprio lavoro e ai dati relativi alla formazione, agli esami e alle certificazioni.
+ 
+1. Selezionare la scheda **Ruoli e autorizzazioni**. In questa pagina vengono visualizzati tutti i ruoli assegnati e le autorizzazioni concesse in base a tali ruoli.
 
 ## <a name="programs-in-which-you-are-enrolled"></a>Programmi a cui si è iscritti
 
-Gran parte delle operazioni che devi eseguire per gestire l'account del Centro per i partner si riferisce al programma o ai programmi specifici a cui sei iscritto e alle autorizzazioni e ai ruoli utente che ti sono stati assegnati nel Centro per i partner.
+Gran parte delle operazioni da eseguire per gestire l'account del Centro per i partner si riferisce ai programmi specifici a cui si è iscritti e alle autorizzazioni e ai ruoli utente assegnati nel Centro per i partner.
 
 Per vedere a quali programmi puoi accedere nel Centro per i partner:
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
-2. Guarda il riquadro di spostamento a sinistra. Verranno visualizzate le opzioni associate ai programmi a cui sei iscritto.
 
-Ecco un esempio. Si supponga che un utente possa accedere a tre programmi nel dashboard Centro per i partner: il programma **MPN** , il programma **Segnalazioni** e il programma **Marketplace commerciale** . Quando accede al dashboard Centro per i partner, vedrà questi tre programmi sul lato sinistro dello schermo.
+2. Nel menu di spostamento a sinistra sono riportati i programmi a cui si è iscritti e le opzioni disponibili per ogni programma.
+
+Ecco un esempio. Si supponga che un utente possa accedere a tre programmi nel dashboard Centro per i partner: il programma **MPN**, il programma **Segnalazioni** e il programma **Marketplace commerciale**. Quando accede al dashboard Centro per i partner, vedrà questi tre programmi sul lato sinistro dello schermo.
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Menu dei programmi a cui si è iscritti":::
 
-## <a name="account-management"></a>Gestione degli account
-
-Nel Centro per i partner gli account vengono attualmente gestiti in due diverse sezioni: **Impostazioni partner** e **Impostazioni sviluppatore** .
-
->[!NOTE]
->Per accedere a **Impostazioni partner** o **Impostazioni sviluppatore** , devi accedere al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner, seleziona l'opzione **Impostazioni** (icona a forma di ingranaggio) nell'angolo in alto a destra dello schermo. Puoi quindi selezionare **Impostazioni partner** o **Impostazioni sviluppatore** dal menu a discesa.
-
-:::image type="content" source="images/accountsettings/account1.png" alt-text="Menu dei programmi a cui si è iscritti":::
-
-I partner possono visualizzare l'opzione per la gestione di **Impostazioni partner** e/o **Impostazioni sviluppatore** a seconda che la loro azienda sia iscritta o meno ai programmi corrispondenti. L'opzione delle impostazioni è disponibile solo se l'azienda è iscritta ad almeno un programma associato all'impostazione corrispondente.
-
-Per gestire le impostazioni dell'account, devi selezionare l'opzione delle impostazioni dell'account appropriata per il programma in questione.  
-
-Di seguito è riportato un elenco parziale dei programmi disponibili e della corrispondente opzione delle impostazioni associata al programma:
-
-|**Nome programma**   |**Opzione impostazioni** |
-|---------------------|:-----------------------|
-|MPN   |Partner|
-|CSP    |Partner|
-|Segnalazioni   |Partner|
-|Marketplace commerciale|Sviluppo|
-|Windows e Xbox|Sviluppo|
-|Office Store|Sviluppo|
-|Estensioni di Microsoft Edge|Sviluppo|
-
-## <a name="the-differences-in-partner-and-developer-settings-options"></a>Differenze tra le opzioni di Impostazioni partner e quelle di Impostazioni sviluppatore
-
-### <a name="locate-your-mpn-id"></a>Individuare l'ID MPN
-
-Sia i partner che gli sviluppatori devono usare l'ID MPN per operazioni come la registrazione dei ticket di supporto. Per gli sviluppatori, l'ID MPN si trova nella pagina dei dettagli **Impostazioni account** .
-
-Per i partner invece l'ID MPN si trova nella pagina **Profilo partner** .
-
-### <a name="see-partner-and-developer-settings"></a>Vedi le impostazioni partner e sviluppatore
-
-Le opzioni di **Impostazione partner** saranno diverse da quelle di **Impostazioni sviluppatore** . Di seguito sono riportati alcuni screenshot di esempio per ogni set di opzioni. Se hai accesso ad altri programmi, è possibile che siano visibili anche opzioni diverse da quelle degli screenshot di esempio illustrati.
-
-**Opzioni di Impostazioni partner** :
-
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="Menu dei programmi a cui si è iscritti":::
-
-**Opzioni di Impostazioni sviluppatore** :
-
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="Menu dei programmi a cui si è iscritti":::
-
-## <a name="enrolling-in-programs"></a>Iscrizione ai programmi
+### <a name="enrolling-in-programs"></a>Iscrizione ai programmi
 
 Esistono numerosi programmi del Centro per i partner. Ogni programma ha requisiti diversi che la tua azienda deve soddisfare prima di potersi iscrivere a un programma specifico.
 
-Per informazioni sull'iscrizione ad alcuni programmi del Centro per i partner, vedi il seguente elenco parziale:
+Per informazioni sull'iscrizione ad alcuni programmi del Centro per i partner, vedere l'elenco parziale seguente:
 
-- [Programma Marketplace commerciale](/azure/marketplace/partner-center-portal/create-account)
-- [Programma MPN](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
-- [Programma CSP](enrolling-in-the-csp-program.md)
+- [Programma Marketplace commerciale](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Vantaggi dell'adesione a Microsoft Partner Network](mpn-overview.md)
+- [Programma CSP](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Per altre informazioni sull'iscrizione ai programmi del Centro per i partner, vedi anche [Risorse di Partner Network](https://partner.microsoft.com/).
 
-## <a name="the-account-picker"></a>Selezione account
 
-Puoi far parte di più di un account. Se fai parte di più account, potrai visualizzare il controllo di selezione account nel menu di spostamento a sinistra. Se selezioni il controllo di selezione account, tutti gli account di cui sei membro verranno visualizzati in un elenco. Puoi selezionare uno di questi account e accedervi per visualizzare tutti i programmi e le informazioni che lo riguardano. Se non viene visualizzato un controllo di selezione account, sei membro di un solo account.
+## <a name="next-steps"></a>Passaggi successivi
 
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="Menu dei programmi a cui si è iscritti":::
-
-## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>Altre risorse per la gestione dell'account del Centro per i partner
-
-Se sei iscritto a programmi come il programma MPN o Cloud Solution Provider (CSP), le risorse seguenti possono esserti utili per la gestione dell'account.
-
-|**Per eseguire questa operazione**   |**Leggi**   |
-|-----------------------|:-----------------------|
-|Verificare che il profilo della società sia aggiornato   |[Aggiornare il profilo di partner](update-your-partner-profile.md)|
-|Add new users (Aggiungi nuovi utenti)|[Creare account utente e assegnare autorizzazioni](create-user-accounts-and-set-permissions.md)|
-|Individuare lo stato della verifica|[Verificare le informazioni dell'account](verification-responses.md)|
-|A tutti gli utenti dell'azienda che devono lavorare nel Centro per i partner devono essere assegnati ruoli. Ogni ruolo dispone di autorizzazioni specifiche e attività disponibili.|[Aggiornare gli account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md)|
-|Esaminare le autorizzazioni associate a ogni ruolo|[Assegnare autorizzazioni e ruoli utente](permissions-overview.md)
-|Gestire le ubicazioni della società|[Gestire l'account partner: ubicazioni](manage-locations.md)
-|Se un dipendente dimentica la password e devi ripristinarla  |[Reimpostare una password utente](reset-a-user-password.md)|
-|Iscriversi al Centro per i partner come fornitore del pannello di controllo|[Iscriversi al Centro per i partner come fornitore del pannello di controllo](enroll-as-cpv.md)|
-|Associare l'account Microsoft Learn nel Centro per i partner|[Associare l'account Microsoft Learn nel Centro per i partner](ms-learn-associate.md)|
-|Essere certo che la tua azienda sia sul mercato in modo che i clienti possono trovarla   |[Creare un profilo business](create-a-marketing-profile.md)|
-|Rimanere aggiornato sui prezzi e sulle offerte correnti   |[Prezzi e offerte](pricing-and-offers.md)|
-|API: Verificare l'ID MPN di un partner|[Verificare l'ID MPN di un partner](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)
+- [Aggiornare il profilo del partner](update-your-partner-profile.md)
+- [Aggiornare gli account utente e impostare le autorizzazioni](create-user-accounts-and-set-permissions.md)
+- [Assegnare autorizzazioni e ruoli utente](permissions-overview.md)
+- [Gestire l'account MPN: ubicazioni](manage-locations.md)
+- [Reimpostare una password utente](reset-a-user-password.md)
+- [API: Ottenere il profilo di business legale di un partner](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
+- [Scoprire le offerte e i prezzi nel marketplace commerciale del Centro per i partner](csp-commercial-marketplace-discover.md)

@@ -9,19 +9,16 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
-ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
+ms.openlocfilehash: 0a7bc34ded62eb9e19dbbad8e214eb30534b8ea6
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96354225"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439119"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Ottenere i dati sulle prestazioni dei clienti e delle sottoscrizioni di Azure
 
-**Si applica a**
 
-- Centro per i partner
-- Partner del programma Cloud Solution Provider
 
 **Ruoli appropriati**
 
@@ -39,7 +36,7 @@ Per accedere all' **utilizzo di Azure**, accedere al [Dashboard](https://partner
 
 Vengono monitorate le metriche seguenti:
 
-## <a name="summary"></a>Riepilogo
+## <a name="summary"></a>Summary
 
 - **Totale sottoscrizioni di Azure vendute**: numero di sottoscrizioni vendute nel periodo di tempo specificato  
 - **Clienti con utilizzo**: numero di clienti con utilizzo di Azure nel periodo di tempo specificato  

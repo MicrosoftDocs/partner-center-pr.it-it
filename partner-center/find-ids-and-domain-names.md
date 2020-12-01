@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360072"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439235"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Individuare gli ID importanti per un utente
 
@@ -78,3 +78,4 @@ Solo la ricerca del nome di dominio e dell'ID tenant potrebbe non essere sempre 
 - [Trovare l'ID tenant a livello di codice con PowerShell o l'interfaccia della riga di comando](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Altre informazioni sui profili utente in Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Scopri in che modo i partner possono visualizzare o esportare i dettagli dei clienti nel centro per i partner](see-your-customer-list.md)
+

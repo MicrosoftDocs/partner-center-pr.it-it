@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 982d4ed310415349acde3d260afce04eb0d55ac5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811251"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96438981"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Imposta, verifica o Rimuovi i budget mensili per la spesa di Azure per i clienti nel centro per i partner
 
@@ -50,7 +50,7 @@ I dati di spesa vengono *aggiornati una volta al giorno*. I clienti possono cont
 
 1. Accedere al dashboard del [centro](https://partner.microsoft.com/dashboard/)per i partner.
 
-2. Nel menu a sinistra in **CSP**scegliere **spesa di Azure**.
+2. Nel menu a sinistra in **CSP** scegliere **spesa di Azure**.
 
 3. Nella pagina **spesa di Azure** , in **clienti con Microsoft Azure sottoscrizioni**, selezionare il cliente o i clienti per i quali si desidera impostare un budget.
 
@@ -62,9 +62,9 @@ I dati di spesa vengono *aggiornati una volta al giorno*. I clienti possono cont
 
 1. Accedi al dashboard Centro per i partner.
 
-2. Nel menu a sinistra in **CSP**scegliere **Customers (clienti**).
+2. Nel menu a sinistra in **CSP** scegliere **Customers (clienti**).
 
-3. Nella pagina **Customers** selezionare il **nome della società**del cliente.
+3. Nella pagina **Customers** selezionare il **nome della società** del cliente.
 
 4. Nella pagina **sottoscrizioni** del cliente, in **sottoscrizione basata sull'utilizzo**, scegliere **Cambia budget**.
 
@@ -78,7 +78,7 @@ I dati di spesa vengono *aggiornati una volta al giorno*. I clienti possono cont
 
 1. Accedere al dashboard del [centro](https://partner.microsoft.com/dashboard/)per i partner.
 
-2. Nel menu a sinistra in **CSP**scegliere **spesa di Azure**.
+2. Nel menu a sinistra in **CSP** scegliere **spesa di Azure**.
 
 3. Nella pagina **spesa di Azure** , in **clienti con Microsoft Azure sottoscrizioni**, selezionare il cliente o i clienti di cui si desidera rimuovere il budget.
 
@@ -90,7 +90,7 @@ Puoi *tenere traccia delle spese di Azure correnti e dei budget mensili dei clie
 
 1. Accedere al dashboard del [centro](https://partner.microsoft.com/dashboard/)per i partner.
 
-2. Nel menu a sinistra in **CSP**scegliere **spesa di Azure**.
+2. Nel menu a sinistra in **CSP** scegliere **spesa di Azure**.
 
 3. Nella pagina **spesa di Azure** , in **clienti con Microsoft Azure sottoscrizioni**, è possibile visualizzare una panoramica dei budget mensili dei clienti, le stime di spesa correnti e la percentuale del budget usato.
 
@@ -100,13 +100,18 @@ Puoi *tenere traccia delle spese di Azure correnti e dei budget mensili dei clie
 
 1. Accedere al Centro per i partner.
 
-2. Nel menu a sinistra in **CSP**scegliere **spesa di Azure**.
+2. Passare a **Impostazioni**.
 
-3. Nella pagina **spesa di Azure** , in **notifiche di posta elettronica**, impostare l'opzione **Ottieni messaggi** di posta elettronica **su**attivato.
+3. Selezionare **preferenze personali**.
 
-4. Scegliere **modifica indirizzo di posta elettronica** per visualizzare l'indirizzo di posta elettronica per le notifiche.
+4. Se non è possibile, configurare un indirizzo di posta elettronica preferito.
 
-5. Se l'indirizzo di posta elettronica *non è corretto*, immettere l'indirizzo di posta elettronica corretto e scegliere **Aggiorna**. Se l'indirizzo di posta elettronica *è corretto*, scegliere **Annulla**.
+5. Configurare la lingua preferita per la notifica.
+
+6. Selezionare la scheda **CSP** nella sezione **Preferenze di notifica** .
+
+7. Controllare l'opzione di posta elettronica per la notifica di **spesa di Azure** e **salvare**.
+
 
 ## <a name="itemized-costs-by-service"></a>Costi in base al servizio
 
@@ -114,9 +119,9 @@ Puoi *tenere traccia delle spese di Azure correnti e dei budget mensili dei clie
 
 1. Accedere al Centro per i partner.
 
-2. Nel menu a sinistra in **CSP**scegliere **Customers (clienti**).
+2. Nel menu a sinistra in **CSP** scegliere **Customers (clienti**).
 
-3. Nella pagina **Customers** selezionare il **nome della società**del cliente.
+3. Nella pagina **Customers** selezionare il **nome della società** del cliente.
 
 4. Nella pagina **sottoscrizioni** del cliente, in **sottoscrizioni basate sull'utilizzo**, selezionare il nome della **sottoscrizione**.
 

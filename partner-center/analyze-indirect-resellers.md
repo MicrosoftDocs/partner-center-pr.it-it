@@ -9,31 +9,25 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 24316148fd237aa1fb466083c742ef4ddec36e22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367355"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474054"
 ---
-# <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Usare Analytics per analizzare le prestazioni dei rivenditori indiretti
-
-**Si applica a**
-
-- Centro per i partner
-- Partner del programma Cloud Solution Provider
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Usare Analytics per analizzare le prestazioni dei rivenditori indiretti
 
 **Ruoli appropriati**
 
 - Amministratore globale
 - Amministratore gestione utenti
-- Agente amministratore
-- Agente di vendita
+
 
 I dati prendono le decisioni aziendali. Usare le metriche nella pagina di **analisi dei rivenditori** per identificare i successi, i riconoscimenti indiretti dei rivenditori e le aree che richiedono maggiore attenzione. Utilizzare queste informazioni durante la pianificazione di nuovi obiettivi aziendali.
 
 > [!NOTE]
-> L'analisi dei rivenditori indiretti è disponibile solo per i partner nel programma Cloud Solution Provider.
+> Indirect Reseller Analytics è disponibile solo per i provider indiretti nel programma Cloud Solution Provider.
 
 ## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Tipi di metriche di Reseller Analytics che è possibile visualizzare
 
@@ -77,7 +71,7 @@ In questa sezione viene fornito lo stato firmato MPA dei rivenditori indiretti C
  - **Nome rivenditore**: nome del rivenditore INdiretto CSP
  - **ID MPN**: ID MPN del rivenditore indiretto
  - **Region**: area in cui opera il rivenditore indiretto
- - **Stato**di esame MPN: stato di vagliatura del rivenditore indiretto
+ - **Stato** di esame MPN: stato di vagliatura del rivenditore indiretto
  - **Stato firmato MPa**: stato di firma MPa per il rivenditore indiretto
 
 Fare clic sull'icona di download nel grafico per scaricare i dati di stato con firma MPA con dimensioni aggiuntive

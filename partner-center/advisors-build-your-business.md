@@ -9,19 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527007"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474173"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Advisor: compilare la base client con gli inviti alla versione di valutazione di Office 365 e le offerte di acquisto
 
-**Si applica a**
 
-- Centro per i partner
- 
 **Ruoli appropriati**
 
 - Advisor
@@ -53,5 +50,7 @@ Dopo aver inviato un invito alla versione di valutazione, è possibile giungere 
 Quando si crea l'offerta di acquisto, viene creato automaticamente un URL personalizzato. L'URL include un codice incorporato che identifica l'utente come Advisor della sottoscrizione. È possibile utilizzare questo URL per un cliente o per molti clienti. Inviare l'URL al cliente in un messaggio di posta elettronica o pubblicarlo nel sito Web.
 
 Se il cliente desidera un numero diverso di licenze, inviargli una nuova offerta oppure modificare il numero di licenze quando acquistano la sottoscrizione.
+
+## <a name="next-steps"></a>Passaggi successivi
 
 Per ulteriori informazioni sulle offerte di acquisto, vedere la pagina relativa alla [creazione di un'offerta di acquisto](advisor-create-a-purchase-offer.md).

@@ -9,19 +9,15 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a9b2ed89b10e43c31d00777054839f3208e5c16
-ms.sourcegitcommit: 32516c30e90ee78415e5537d2b8ccf467f56a82d
+ms.openlocfilehash: 9f1d6e2a59bd892b7b79a1e3aa532242cdd0e302
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87535741"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474190"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Carica un file CSV di utenti nell'account di un cliente
 
-
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -45,7 +41,7 @@ Aggiungere contemporaneamente più utenti all'account di un cliente, caricando u
 
 7. Selezionare **Convalida**.
 
-    **Nota**    La maggior parte degli errori di creazione dell'account è causata da problemi relativi ai file di dati, tra cui informazioni mancanti, indirizzi di posta elettronica non validi o duplicati o troppi record nel file.
+    **Nota**  La maggior parte degli errori di creazione dell'account è causata da problemi relativi ai file di dati, tra cui informazioni mancanti, indirizzi di posta elettronica non validi o duplicati o troppi record nel file.
 
 8. Dopo che il centro per i partner ha convalidato il file, selezionare la **posizione** geografica per i nuovi utenti.
 9. Selezionare **Salva**.

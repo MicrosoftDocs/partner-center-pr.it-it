@@ -9,18 +9,15 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87526987"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474139"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Advisor: creare un'offerta di acquisto
 
-**Si applica a**
-
-- Centro per i partner
  
 **Ruoli appropriati**
 
@@ -56,7 +53,7 @@ Se il client richiede un numero diverso di licenze, inviargli una nuova offerta 
 4. Nella pagina **Invia** copiare le informazioni sull'offerta di acquisto e l'URL e quindi incollarlo in un messaggio di posta elettronica, in un documento o in una pagina Web per creare un'offerta di acquisto personalizzata.
 
     > [!NOTE]
-    > Prendere nota dell' **ID di riepilogo**dell'offerta di acquisto. Usarlo per tenere traccia dell'offerta.
+    > Prendere nota dell' **ID di riepilogo** dell'offerta di acquisto. Usarlo per tenere traccia dell'offerta.
 
 5. È possibile personalizzare il messaggio includendo il logo della società, l'introduzione, le note di chiusura o altre informazioni.
 
@@ -69,3 +66,7 @@ Se il client richiede un numero diverso di licenze, inviargli una nuova offerta 
     - Comunicare ai client come contattare l'utente con domande sul servizio o sull'offerta.
     - Consentire ai client di verificare che controllano il numero di licenze utente acquistate e possono modificare il numero di licenze quando accettano l'offerta.
     - Se si offre l'amministrazione delegata, spiegare cosa comporta e descrivere le responsabilità a proprio carico. Per ulteriori informazioni sull'amministrazione delegata, vedere l' [offerta amministrazione delegata](customers-revoke-admin-privileges.md).
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Crea la tua base client con gli inviti alla versione di valutazione di Office 365 e le offerte di acquisto](advisors-build-your-business.md)

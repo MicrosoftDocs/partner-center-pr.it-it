@@ -9,19 +9,14 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 07/08/2020
-ms.openlocfilehash: 8d16ef9150e83fbdd3c189aaa878ad466f3fe1f4
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367305"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474088"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analizza le sottoscrizioni e le licenze per aiutarti a promuovere decisioni aziendali e nuovi obiettivi
-
-**Si applica a**
-
-- Centro per i partner
-- Partner del programma Cloud Solution Provider
 
 **Ruoli appropriati**
 
@@ -48,32 +43,44 @@ Vengono monitorate le metriche seguenti:
 
 **Summary**  
  - **Sottoscrizioni vendute**: numero di sottoscrizioni create per il periodo di tempo specificato  
- - **Licenze vendute**: numero di licenze vendute per il periodo di tempo specificato   
+  
+ - **Licenze vendute**: numero di licenze vendute per il periodo di tempo specificato  
+  
  - **Rinnovo delle sottoscrizioni in 30 giorni**: numero di sottoscrizioni in cui lo stato è attivo per il periodo di tempo specificato e dove **autorenew** è true
+ 
  - **Sottoscrizioni attive**: sottoscrizioni in cui lo stato è **attivo**  
+ 
  - **Sottoscrizioni sospese**: numero di sottoscrizioni sospese senza filtro data  
 
-**Suddivisione del prodotto**  
+**Suddivisione del prodotto**
+  
  - **Conteggio delle sottoscrizioni**: primi 5 prodotti ordinati per sottoscrizioni vendute  
+ 
  - **Numero di licenze**: i primi 5 prodotti ordinati per licenze
 
 **Conservazione della sottoscrizione**
+
  - **Sottoscrizioni rinnovate**: sottoscrizioni rinnovate negli ultimi 30 giorni  
 
 **Varianza sottoscrizione**  
  - **Nuove sottoscrizioni**: numero di nuove sottoscrizioni per il periodo di tempo, escluse le offerte di valutazione  
+ 
  - **Sottoscrizioni con provisioning**: numero di sottoscrizioni sottoposte a provisioning o sospese per data  
 
-**Sottoscrizioni sospese**  
+**Sottoscrizioni sospese** 
+ 
  - Elenco di tutte le sottoscrizioni con stato **sospeso**, escluse le offerte di valutazione  
   
 **Sottoscrizioni attive**
+
  - Elenco di tutte le sottoscrizioni attive  
 
 **Conversioni della sottoscrizione di valutazione**  
+
  - **Conversione della versione di valutazione**: numero di tutte le sottoscrizioni **attive** in cui la versione di valutazione è stata pagata durante il periodo di tempo  
 
 **Sottoscrizioni di valutazione che terminano tra 30 giorni**  
+
  - Elenco delle versioni di valutazione avviate, in cui la data di fine è entro 30 giorni e non è presente alcuna data di inizio a pagamento associata alla sottoscrizione  
 
 ## <a name="next-steps"></a>Passaggi successivi

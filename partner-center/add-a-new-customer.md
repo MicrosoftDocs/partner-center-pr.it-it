@@ -9,20 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006718"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474258"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Come aggiungere un nuovo record cliente nel Centro per i partner
 
-**Si applica a**
-
-- Centro per i partner
-- Centro per i partner per Microsoft Cloud for US Government
-- Partner del programma Cloud Solution Provider
 
 **Ruoli appropriati**
 
@@ -31,10 +26,10 @@ ms.locfileid: "92006718"
 - Agente amministratore
 - Agente di vendita
 
-Questo articolo descrive come aggiungere un nuovo cliente al proprio elenco di clienti nel centro per i partner. Attenersi alla seguente procedura prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto a un cliente.
+Questo articolo descrive come aggiungere un nuovo cliente al proprio elenco di clienti nel centro per i partner. Questi passaggi sono necessari prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto a un cliente.
 
 >[!NOTE]
->Per i clienti esistenti, inclusi quelli che hanno già registrato i clienti nel centro per i partner tramite uno scenario [multicanale](multichannel.md) o [Multipartner](multipartner.md) , è possibile [richiedere una relazione con loro](request-a-relationship-with-a-customer.md), anziché attenersi alla procedura riportata di seguito.
+>Per i clienti esistenti, inclusi quelli che hanno già registrato i clienti nel centro per i partner tramite uno scenario [multicanale](multichannel.md) o [Multipartner](multipartner.md) , è necessario [richiedere una relazione con loro](request-a-relationship-with-a-customer.md), anziché attenersi alla procedura descritta di seguito.
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Per aggiungere un nuovo cliente al Centro per i partner
 

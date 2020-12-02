@@ -1,25 +1,21 @@
 ---
 title: Domande frequenti su proventi da incentivi e profilo fiscale
 ms.topic: article
-ms.date: 10/27/2020
+ms.date: 12/01/2020
 description: Domande frequenti sugli incentivi per il pagamento e i profili fiscali. Le domande includono il motivo per cui non è possibile visualizzare i profili di pagamento e fiscali e le operazioni da eseguire.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fae97fb1a527ab557d76bd3b5fd738315271899
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: d7a5e5ae5fa8bd23c3158efe7c0880f67544f9b9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133134"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474326"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Domande frequenti relative ai profili di pagamento e fiscali degli incentivi
-
-Si applica a:
-
-- Centro per i partner
 
 Ruoli appropriati:
 
@@ -35,7 +31,7 @@ Per ricevere i pagamenti per i programmi per gli incentivi Microsoft, è necessa
 
 Per completare la registrazione, tutti i partner che eseguono la registrazione in un nuovo programma incentive devono fornire i dettagli validi per i pagamenti e le imposte.
 
-Potrebbe anche essere necessario fornire informazioni aggiornate se le regole per il programma incentive cambiano o se gli aspetti del profilo scadono o diventano obsoleti. In tal caso, nella pagina di panoramica verrà visualizzato lo stato **azione richiesta: Aggiorna banca e/o profilo fiscale** .
+Potrebbe anche essere necessario fornire informazioni aggiornate se le regole per il programma incentive cambiano o se gli aspetti del profilo scadono o diventano obsoleti. In tal caso, nella pagina di panoramica verrà visualizzato lo stato **azione richiesta: Aggiorna banca e/o profilo fiscale**.
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>In che modo inserisco o aggiorno i dettagli di pagamento e/o fiscali?
 
@@ -51,11 +47,11 @@ Usare la procedura seguente per visualizzare i profili di pagamento e fiscali:
 
 1. Accedere al [Dashboard del centro](https://partner.microsoft.com/dashboard)per i partner.
 
-2. Selezionare l'icona a forma di ingranaggi per aprire il menu **Impostazioni** .
+2. Selezionare l'icona a forma di ingranaggi per aprire il menu **Impostazioni**.
 
-3. Selezionare **Impostazioni partner** .
+3. Selezionare **Impostazioni partner**.
 
-4. In **Impostazioni account** selezionare **Proventi e imposte** , quindi selezionare **Profilo di pagamento e fiscale** . Verranno visualizzati tutti i profili di pagamento e fiscali esistenti, oltre allo stato e alla possibilità di modifica.
+4. In **Impostazioni account** selezionare **Proventi e imposte**, quindi selezionare **Profilo di pagamento e fiscale**. Verranno visualizzati tutti i profili di pagamento e fiscali esistenti, oltre allo stato e alla possibilità di modifica.
 
 ## <a name="my-organization-is-participating-in-multiple-incentive-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>L'organizzazione partecipa a più programmi incentive. È necessario specificare più volte il mio profilo di pagamento e di imposta?
 
@@ -75,17 +71,19 @@ Se un profilo fiscale è scaduto o sta per scadere, significa che è necessario 
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
 
-2. Selezionare l'icona a forma di ingranaggi per aprire il menu **Impostazioni** .
+2. Selezionare l'icona a forma di ingranaggi per aprire il menu **Impostazioni**.
 
-3. In **Impostazioni account** selezionare **Proventi e imposte** , quindi selezionare **Profilo di pagamento e fiscale** .
+3. In **Impostazioni account** selezionare **Proventi e imposte**, quindi selezionare **Profilo di pagamento e fiscale**.
 
-4. Selezionare **profilo fiscale** .
+4. Selezionare **profilo fiscale**.
 
 5. Selezionare la colonna **Data di scadenza** , quindi passare al profilo fiscale scaduto o in scadenza.
 
 6. Selezionare **modifica** per avviare il processo di modifica del profilo fiscale.
 
-7. Aggiornare i moduli fiscali fornendo i dettagli richiesti.
+7. Cercare la sezione **tax form** , quindi selezionare **Launch tax form**.
+
+8. Aggiornare i moduli fiscali fornendo i dettagli richiesti.
 
 ## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>In che modo Microsoft garantisce che le informazioni bancarie siano effettivamente quelle della società e non un account bancario personale per un dipendente?
 

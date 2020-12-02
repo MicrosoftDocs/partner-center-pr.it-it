@@ -9,32 +9,24 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4bb9311dc88a4abf4f2e14ae075430d1978b4bfe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999645"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474037"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analizza il tuo profilo business: Scopri come attrarre i clienti di destinazione e i potenziali riferimenti
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Si applica a**
-
-- Centro per i partner
-- Partner di Microsoft Partner Network
-- Partner del programma Cloud Solution Provider
-
 **Ruoli appropriati**
 
 - Amministratore globale
 - Amministratore dei partner MPN
-- Amministratore delle segnalazioni
 - Amministratore del profilo di business
-- Agente amministratore
-- Agente di vendita
+- Amministratore delle segnalazioni
 
 La pagina **Insights di business profile** nel centro per i partner ti permette di scoprire in che modo stai acquisendo l'attenzione dei clienti di destinazione e generando riferimenti.
 
@@ -53,3 +45,8 @@ Il grafico di **Riepilogo delle prestazioni del profilo** include le informazion
 
 > [!TIP]
 > Quando si inizia a [rispondere a questi riferimenti](manage-leads.md), assicurarsi di consultare la pagina relativa alle informazioni di [riferimento](referral-insights.md) per visualizzare altri dettagli sulla modalità di esecuzione dei riferimenti.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Creare un profilo business](create-a-marketing-profile.md)
+- [Ottenere informazioni dettagliate sulle segnalazioni nel Centro per i partner ed esaminare lo stato delle segnalazioni](referral-insights.md)

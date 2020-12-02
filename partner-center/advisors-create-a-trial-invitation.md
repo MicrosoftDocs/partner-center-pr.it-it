@@ -9,19 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87526997"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474156"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Advisor: creare e inviare un invito alla versione di valutazione per i client per provare a usare Office 365
 
-**Si applica a**
 
-- Centro per i partner
- 
 **Ruoli appropriati**
 
 - Advisor
@@ -35,7 +32,7 @@ Se si è autorizzati a offrire l'amministrazione delegata, è possibile aggiunge
 
 ## <a name="to-create-a-trial-invitation"></a>Per creare un invito alla versione di valutazione
 
-1. Passa a **versioni di valutazione e acquista offerte**per la  >  **creazione di inviti**.
+1. Passa a **versioni di valutazione e acquista offerte** per la  >  **creazione di inviti**.
 
 2. Nella pagina **Crea invito alla versione di valutazione** selezionare le opzioni dell'invito alla versione di valutazione che si desidera includere:
 
@@ -52,8 +49,12 @@ Se si è autorizzati a offrire l'amministrazione delegata, è possibile aggiunge
 4. Nella pagina dell'**invito alla versione di valutazione** copiare l'URL e le informazioni sull'invito alla versione di valutazione, quindi incollarlo in un messaggio di posta elettronica, in un documento o in una pagina Web per creare un invito alla versione di valutazione personalizzata.
 
     > [!NOTE]
-    > Prendere nota dell' **ID Riepilogo**dell'invito alla versione di valutazione. Usare questo ID per tenere traccia dell'offerta.
+    > Prendere nota dell' **ID Riepilogo** dell'invito alla versione di valutazione. Usare questo ID per tenere traccia dell'offerta.
 
 5. Personalizzare il messaggio includendo il logo della società, l'introduzione, le note di chiusura o altre informazioni.
 
 6. Inviare l'invito alla versione di valutazione per il client.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Crea un'offerta di acquisto](advisor-create-a-purchase-offer.md)

@@ -9,26 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198017"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474071"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gestire utenti e licenze utente per gli account dei clienti
-
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
 - Amministratore globale
 - Amministratore gestione utenti
 - Agente amministratore
-- Agente di vendita
-- Agente di supporto tecnico
+
 
 È possibile creare ed eliminare nuovi utenti nell'account di un cliente. È anche possibile ripristinare uno o più account utente eliminati in precedenza entro 30 giorni dall'eliminazione. Verranno ripristinate anche le assegnazioni di sottoscrizioni precedenti dell'utente (supponendo che le allocazioni precedenti siano disponibili).
 
@@ -91,7 +86,7 @@ I passaggi seguenti riguardano l'aggiunta o la rimozione di licenze utente per i
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Eliminare account utente per un cliente
 
-1.  Scegliere **clienti**dal menu **centro partner** . Scegliere il cliente dall'elenco.
+1.  Scegliere **clienti** dal menu **centro partner** . Scegliere il cliente dall'elenco.
 
 2.  Nel menu del cliente seleziona **Users and licenses** (Utenti e licenze). Scegliere l'utente dall'elenco.
 

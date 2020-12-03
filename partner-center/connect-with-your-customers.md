@@ -1,6 +1,6 @@
 ---
-title: Connetti con i clienti
-description: Scopri come connettersi con clienti nuovi ed esistenti come rivenditore indiretto
+title: Entrare in contatto con i clienti
+description: Se si è un rivenditore indiretto nel programma CSP, questo articolo consentirà di connettersi con i clienti nuovi ed esistenti.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: dc0d5af728b5e17bc8070fae9c895adc2bf8db4c
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: cb8a3403968ddf5c83c7fdbd1d1af6f6f740d1ff
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92010701"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556311"
 ---
 # <a name="connect-with-customers"></a>Entra in contatto con i clienti
 

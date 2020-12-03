@@ -1,20 +1,20 @@
 ---
-title: Calcolo effettivo del prezzo unitario
+title: Calcolo del prezzo unitario effettivo
 ms.topic: how-to
 ms.date: 11/10/2020
-description: Informazioni sull'unità di prezzo effettiva e su come viene calcolata. Include un calcolo di esempio.
+description: Scopri il prezzo unitario effettivo e il modo in cui viene calcolato. Questo articolo include anche un calcolo di esempio.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b65a79232656af6ddb69fede7a9ee35fe426a9d
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94498568"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556328"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Calcolo effettivo del prezzo unitario per il consumo di piani di Azure
 
@@ -35,7 +35,7 @@ Poiché il consumo giornaliero viene monitorato durante il ciclo di fatturazione
 Se non si sa se il contatore usa i prezzi a livelli, usare la procedura seguente per scoprirlo. 
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
-2. Selezionare **Vendi** , selezionare **prezzi e offerte** , quindi selezionare **piano tariffario di Azure**.
+2. Selezionare **Vendi**, selezionare **prezzi e offerte**, quindi selezionare **piano tariffario di Azure**.
 3. Individuare il contatore in base all'ID e quindi scaricare i dati relativi ai prezzi. 
 
 ## <a name="sample-calculation"></a>Calcolo di esempio

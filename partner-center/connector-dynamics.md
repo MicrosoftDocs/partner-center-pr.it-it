@@ -8,12 +8,12 @@ description: Sincronizzare i riferimenti nel centro per i partner con il connett
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: c92938bbb4ffa6875419d06a9bbf23010ee60724
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 18a54bf777cb987e8f486f85afcf277e04c1055c
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947779"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556362"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-selling Connector per Dynamics 365 CRM-Panoramica
 

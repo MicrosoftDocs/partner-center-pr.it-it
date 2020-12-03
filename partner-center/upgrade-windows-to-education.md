@@ -1,22 +1,22 @@
 ---
-title: Aggiornare i clienti Windows 10 Home a Windows 10 Education
+title: Aggiornare Windows 10 Home a Windows 10 Education
 ms.topic: article
 ms.date: 10/28/2020
-description: Aggiornare i clienti Windows 10 Home a Windows 10 Education
+description: Scopri in che modo i partner Cloud Solution Provider (CSP) possono aggiornare alcuni dei clienti della formazione da Windows 10 Home a Windows 10 Education
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: eff687f59e433e3465048173e3f74821280bde41
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360004"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556413"
 ---
-# <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Aggiornare i clienti Windows 10 Home a Windows 10 Education
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Aggiornare alcuni clienti Education da Windows 10 Home a Windows 10 Education
 
 **Si applica a**
 
@@ -47,7 +47,7 @@ I partner devono creare una richiesta di supporto e ottenere le chiavi dal suppo
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard).
 
-2. Dal menu centro per i partner selezionare **Customers** , quindi selezionare il cliente che necessita del supporto tecnico.
+2. Dal menu centro per i partner selezionare **Customers**, quindi selezionare il cliente che necessita del supporto tecnico.
 
 3. Selezionare **Gestione servizi** e selezionare **richieste di servizio**.
 
@@ -63,7 +63,7 @@ I partner devono creare una richiesta di supporto e ottenere le chiavi dal suppo
 - **Descrizione:** Richiesta [Inserisci numero] tasti per abilitare l'aggiornamento a Windows 10 Education. (Si noti che il numero di chiavi richieste non deve essere maggiore delle licenze di sottoscrizione di Microsoft 365 a3/a5 o Windows 10 Enterprise a3/a5). ID sottoscrizione del cliente [inserire il GUID dell'ID sottoscrizione dei clienti per la sottoscrizione Microsoft 365 a3/a5 o Windows 10 Enterprise a3/a5.]
 - **Numero contatto:** Questa operazione verrà precompilata; esaminare per confermare o aggiornare.
 - **Posta elettronica:** Questa operazione verrà precompilata e dovrebbe essere l'indirizzo di posta elettronica usato come amministratore del portale Microsoft (solo amministratore globale o amministratore fatturazione).
-- **Metodo di contatto preferito** : scegliere **telefono** o **pianificare una chiamata**.
+- **Metodo di contatto preferito**: scegliere **telefono** o **pianificare una chiamata**.
 
 8. Selezionare **contattami**. Il tempo di attesa previsto è indicato nel riquadro **necessità della Guida** .
 
@@ -75,7 +75,7 @@ I partner devono creare una richiesta di supporto e ottenere le chiavi dal suppo
 
 Per eseguire l'aggiornamento a Windows 10 Home con un codice Product Key di Windows 10 Pro Education, il cliente deve eseguire le operazioni seguenti:  
 
-1. Fare clic su **Start** , quindi selezionare **impostazioni > aggiorna & sicurezza > attivazione**. Selezionare **Cambia codice Product Key** , quindi immettere il codice Product Key di 25 caratteri Windows 10 Pro. Selezionare **Avanti** per avviare l'aggiornamento a Windows 10 Pro.
+1. Fare clic su **Start**, quindi selezionare **impostazioni > aggiorna & sicurezza > attivazione**. Selezionare **Cambia codice Product Key**, quindi immettere il codice Product Key di 25 caratteri Windows 10 Pro. Selezionare **Avanti** per avviare l'aggiornamento a Windows 10 Pro.
 
 2. Quando il dispositivo viene aggiunto al dominio del tenant (tramite AAD), il dispositivo verrà aggiornato automaticamente a Windows 10 Education.  
 

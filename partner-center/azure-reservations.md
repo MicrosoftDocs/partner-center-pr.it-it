@@ -9,20 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000235"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534897"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Vendere Microsoft Azure prenotazioni ai clienti tramite il centro per i partner, l'portale di Azure o le API
-
-**Si applica a**
-
-- Centro per i partner
-- Portale di Microsoft Azure
-- Partner aderenti al programma CSP
 
 **Ruoli appropriati**
 
@@ -32,8 +26,10 @@ ms.locfileid: "91000235"
 - Agente di vendita
 - Amministratore gestione utenti
 
+In qualità di partner del programma Cloud Solution Provider (CSP), è possibile acquistare, vendere o gestire prenotazioni di Azure per i clienti. Usare il centro per i partner, il portale di Azure o l'API del centro per i partner.
+
 > [!NOTE]
-> Questo articolo si applica solo ai partner del programma Cloud Solution Provider (CSP). I clienti che usano altri tipi di sottoscrizioni, ad esempio con pagamento in base al consumo, singoli contratti Microsoft o sottoscrizioni di Enterprise Agreement, dovranno invece leggere [la documentazione relativa alle prenotazioni di Azure](/azure/cost-management-billing/reservations).
+> Questo articolo si applica solo ai partner in CSP. I clienti che usano altri tipi di sottoscrizioni, ad esempio con pagamento in base al consumo, singoli contratti Microsoft o sottoscrizioni di Enterprise Agreement, dovranno invece leggere [la documentazione relativa alle prenotazioni di Azure](/azure/cost-management-billing/reservations).
 
 I partner del programma CSP possono offrire ai clienti Microsoft Azure prenotazioni. I clienti possono ottenere risparmi significativi quando si riservano in anticipo. Le prenotazioni di Azure offrono ai clienti semplicità e flessibilità nei modi seguenti:
 

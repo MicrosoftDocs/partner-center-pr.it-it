@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999435"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534990"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usare i profili di Windows Autopilot nei nuovi dispositivi per personalizzare l'esperienza predefinita di un cliente
-
-**Si applica a**
-
-- CSP Direct-fatturazione partner, provider indiretti e rivenditori indiretti
 
 **Ruoli appropriati**
 
@@ -54,13 +50,13 @@ Con la funzionalità Windows Autopilot in centro per i partner, è possibile cre
 
 - Ignora il contratto di licenza con l'utente finale (EULA). A partire da Windows 10 versione 1709, le organizzazioni possono decidere di ignorare la pagina EULA visualizzata durante il processo di configurazione guidata. Per informazioni importanti su come ignorare la pagina di EULA durante l'installazione di Windows, vedere la pagina relativa al [contratto di licenza di Windows Autopilot](#windows-autopilot-eula-dismissal) .
 
-Si applicano le limitazioni e le autorizzazioni di gestione dei profili e dei dispositivi seguenti:
+Si applicano le limitazioni e le autorizzazioni seguenti di gestione dei profili e dei dispositivi:
 
-- I partner CSP possono continuare a gestire i profili di Autopilot per i clienti esistenti con le relazioni rivenditore, anche se i clienti hanno rimosso i privilegi di amministrazione delegata del partner.
+- I partner CSP possono continuare a gestire i profili di Autopilot per i clienti esistenti di cui sono rivenditori, anche se i clienti hanno rimosso i privilegi di amministrazione delegata del partner.
 
 - È possibile gestire i dispositivi esistenti per i clienti aggiunti.
 
-- Non è possibile gestire i dispositivi caricati dal cliente in Microsoft Store for business o nel portale di Microsoft Intune.
+- Non è possibile gestire i dispositivi caricati dal cliente in Microsoft Store per le aziende o nel portale di Microsoft Intune.
 
 ## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Creare e gestire i profili di Autopilot nel centro per i partner
 
@@ -149,11 +145,11 @@ Se si prevede di utilizzare il nome OEM, il numero di serie e la combinazione di
 
 - Questa tupla funziona solo per i dispositivi più recenti (ad esempio, gli hash 4K) e non è supportata per gli hash 128B (RS2 e i dispositivi precedenti).
 
-- Per la registrazione della tupla viene fatta distinzione tra maiuscole e minuscole, pertanto i dati nel file devono corrispondere ai nomi del modello e del produttore ***esattamente*** come fornito dal provider OEM (provider hardware).
+- Per la registrazione della tupla viene fatta distinzione tra maiuscole e minuscole, pertanto i dati nel file devono corrispondere ai nomi del modello e del produttore **_esattamente_* come fornito dal provider OEM (provider hardware).
 
 Seguire le istruzioni riportate di seguito per aggiungere i dispositivi all'account di un cliente nel centro per i partner.
 
-1. Selezionare **Customers (clienti** ) dal menu centro partner e quindi selezionare il cliente di cui si vogliono gestire i dispositivi.
+1. Selezionare _ *Customers** dal menu centro per i partner, quindi selezionare il cliente di cui si vogliono gestire i dispositivi.
 
 2. Nella pagina dei dettagli del cliente selezionare **Devices (dispositivi**).
 
@@ -166,7 +162,7 @@ Seguire le istruzioni riportate di seguito per aggiungere i dispositivi all'acco
 
 5. Caricare il file con estensione CSV e quindi selezionare **Save (Salva**).
 
-Se viene ricevuto un messaggio di errore durante il tentativo di caricare il file CSV, controllare il formato del file. È possibile utilizzare solo l'hash hardware oppure il nome OEM, il numero di serie e il modello (nell'ordine di tale colonna) o l'ID del prodotto Windows. È anche possibile usare il file CSV di esempio fornito dal collegamento accanto a **Aggiungi dispositivi** per creare un elenco di dispositivi.
+Se si riceve un messaggio di errore mentre si tenta di caricare il file CSV, controllare il formato del file. È possibile usare solo l'hash hardware oppure il nome OEM, il numero di serie e il modello (nell'ordine di tale colonna) o l'ID del prodotto Windows. È anche possibile usare il file CSV di esempio fornito dal collegamento accanto a **Aggiungi dispositivi** per creare un elenco di dispositivi.
 
 Il file CSV avrà un aspetto simile al seguente:
 

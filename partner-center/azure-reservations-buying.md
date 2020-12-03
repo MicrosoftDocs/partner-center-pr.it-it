@@ -1,7 +1,7 @@
 ---
 title: Acquistare Microsoft Azure prenotazioni per i clienti
 description: Scopri come acquistare o acquistare prenotazioni di Azure per conto dei tuoi clienti nel centro per i partner. Elenca inoltre i mercati in cui le prenotazioni di Azure non sono disponibili.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: rbars
@@ -9,20 +9,14 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031254"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534608"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare Microsoft Azure prenotazioni per conto dei clienti nel centro per i partner
-
-**Si applica a**
-
-- Centro per i partner
-- Portale di Microsoft Azure
-- Partner in CSP
 
 **Ruoli appropriati**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92031254"
 - Agente di supporto tecnico
 - Agente di vendita
 - Amministratore gestione utenti
+
+Questo articolo illustra come acquistare o acquistare prenotazioni di Azure per conto dei clienti nel centro per i partner. Identifica inoltre i mercati in cui le prenotazioni di Azure non sono disponibili.
  
 > [!NOTE]
 > Questo articolo si applica solo ai partner del programma Cloud Solution Provider (CSP). I clienti che usano altri tipi di sottoscrizioni, ad esempio con pagamento in base al consumo, singoli contratti Microsoft o sottoscrizioni di Enterprise Agreement, dovranno invece leggere [la documentazione relativa alle prenotazioni di Azure](/azure/cost-management-billing/reservations).
@@ -150,7 +146,8 @@ Attenersi alla procedura seguente per acquistare Microsoft Azure prenotazioni pe
 
 10. Per gestire la prenotazione del cliente nella portale di Azure, trovare il cliente nella pagina **clienti** , quindi selezionare la freccia in giù per espandere la riga del cliente. Selezionare **portale di gestione di Microsoft Azure** per aprire il record del cliente nella portale di Azure.
 
-## <a name="azure-reservations-resources"></a>Risorse per le prenotazioni di Azure
+## <a name="next-steps"></a>Passaggi successivi
+
 |**Per informazioni su**   |**Leggi**    |
 |:-----------------------------|:-----------------|
 |Panoramica sulle prenotazioni di Azure in CSP  | [Vendere Microsoft Azure istanze riservate](azure-reservations.md) |

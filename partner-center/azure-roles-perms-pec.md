@@ -9,14 +9,14 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f48774cb830ceb575a84177efb57431afdcb9b25
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.openlocfilehash: 8c36883dc7d12b7ea0ce8f2644dbac86595ab131
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90011741"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534591"
 ---
-# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Ruoli e autorizzazioni idonei per ottenere il credito guadagnato dal partner
+# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>Ruoli e autorizzazioni necessari per ottenere un credito guadagnato dal partner
 
 I ruoli seguenti sono mappati ai livelli di autorizzazione che determinano se un partner è idoneo per i crediti ottenuti dal partner.
 
@@ -26,8 +26,8 @@ I ruoli seguenti sono mappati ai livelli di autorizzazione che determinano se un
 |**Ruolo**   |**Descrizione**   |**Idoneo per PEC**   |
 |-----------------|:------------------|:--------------|
 |Proprietario  |Si gestiscono tutti gli elementi, incluso l'accesso alle risorse.|Sì|
-|Autore di contributi |Si gestiscono tutti gli elementi, ad eccezione della concessione dell'accesso alle risorse.|Sì|
-|Reader|È possibile visualizzare tutti gli elementi, ma non apportare modifiche|No|
+|Collaboratore |Si gestiscono tutti gli elementi, ad eccezione della concessione dell'accesso alle risorse.|Sì|
+|Lettore|È possibile visualizzare tutti gli elementi, ma non apportare modifiche|No|
 |ACRDelete|acr delete|Sì|
 |ACRImageSigner|firmatario immagine acr|Sì|
 |ACRPull|acr pull|Sì|
@@ -147,3 +147,7 @@ Collaboratore macchine virtuali | Consente di gestire le macchine virtuali, ma n
 Virtual Machine User Login (Accesso utente macchina virtuale) | Consente di visualizzare le macchine virtuali nel portale e di accedere come utente normale. | Sì | 
 Collaboratore piani Web | Consente di gestire i piani Web per i siti Web, ma non di accedervi. | Sì | 
 Collaboratore siti Web | Consente di gestire i siti Web (non i piani Web), ma non di accedervi | Sì |
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Credito ottenuto dai partner: panoramica sul funzionamento della nuova esperienza commerciale in CSP](partner-earned-credit.md)

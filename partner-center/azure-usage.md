@@ -9,20 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000186"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534948"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Ridimensionamento della macchina virtuale di Microsoft Azure per l'utilizzo massimo delle prenotazioni
 
-**Si applica a**
+**Ruoli appropriati**
 
-- Centro per i partner
-- Portale di Azure
-- Partner aderenti al programma CSP
+- Agente amministratore
+- Agente di vendita
+
+Questo articolo illustra come ridimensionare una macchina virtuale (VM) in base alle esigenze di elaborazione dei clienti quando si acquistano Microsoft Azure prenotazioni.
  
 > [!NOTE]
 > Questo articolo si applica solo ai partner del programma Cloud Solution Provider (CSP). I clienti che usano altri tipi di sottoscrizioni, ad esempio con pagamento in base al consumo, singoli contratti Microsoft o sottoscrizioni di Enterprise Agreement, dovranno invece leggere [la documentazione relativa alle prenotazioni di Azure](/azure/cost-management-billing/reservations).
@@ -128,7 +129,7 @@ Per altre informazioni, vedere [ottenere i record di utilizzo di un cliente per 
 >[!IMPORTANT]
 >I costi del software, ad esempio Microsoft Windows Server, non sono attualmente inclusi nel prezzo di una prenotazione della macchina virtuale e verranno visualizzati come voci separate nel record dell'ordine e nella fattura. Tuttavia, se un cliente ha il vantaggio Azure Hybrid use, i costi del software non verranno applicati. Per ulteriori informazioni, vedere [costi del software Windows non inclusi nelle istanze riservate](/azure/billing/billing-reserved-instance-windows-software-costs).  
 
-## <a name="azure-reservations-resources"></a>Risorse per le prenotazioni di Azure
+## <a name="next-steps"></a>Passaggi successivi
 
 |**Per informazioni su**   |**Leggi**    |
 |:-----------------------------|:-----------------|

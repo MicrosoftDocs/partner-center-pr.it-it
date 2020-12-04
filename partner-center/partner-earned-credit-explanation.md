@@ -1,7 +1,7 @@
 ---
 title: Credito ottenuto dai partner per i servizi gestiti
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 11/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come viene calcolato e pagato il credito ottenuto dai partner Microsoft per i servizi gestiti e come verificare se si possiedono i requisiti necessari.
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89fce612d5756da3f9674d4170ac8c0c3a48abfe
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175311"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474309"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Come viene calcolato e pagato il credito ottenuto dai partner
 
@@ -38,7 +38,13 @@ Leggi anche [Ripristinare i privilegi di amministratore per le sottoscrizioni di
 
 - Il credito ottenuto dai partner è associato all'utilizzo (addebitabile) fatturato dell'ambiente Azure del cliente in CSP gestito dal partner. Il credito ottenuto dai partner viene reso disponibile solo ai partner in CSP fatturati da Microsoft (provider indiretto e partner con fatturazione diretta). 
 
-- Servizi idonei: il credito ottenuto dai partner è applicabile ai servizi elencati nei **prezzi per l'utilizzo del piano di Azure** che i partner possono esportare dalla pagina dei [prezzi del piano di Azure](https://partner.microsoft.com/commerce/sales). Il credito ottenuto dai partner non è applicabile ai prodotti di terze parti identificati come **Terze parti** nella **colonna Tag** del listino prezzi relativo ai consumi del piano di Azure, alle prenotazioni del piano di Azure, ai prodotti del listino prezzi di Marketplace e alle [macchine virtuali Spot di Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/).
+- Servizi idonei: il credito ottenuto dai partner è applicabile ai servizi elencati nei **prezzi per l'utilizzo del piano di Azure** che i partner possono esportare dalla pagina dei [prezzi del piano di Azure](https://partner.microsoft.com/commerce/sales). 
+
+- Servizi non idonei: il credito ottenuto dal partner **_non_* _ è applicabile a quanto indicato di seguito:
+    - Prenotazioni del piano di Azure
+    - Prodotti di terze parti identificati come _ *Terze parti** nella **colonna Tag** del prezzo di utilizzo del piano di Azure    
+    - Prodotti inclusi nel listino prezzi del marketplace
+   - [Macchine virtuali Spot di Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
 - Il credito ottenuto dai partner viene calcolato quotidianamente e può essere controllato nel file di utilizzo giornaliero e nel file di riconciliazione della fattura mensile. Un partner (provider indiretto o rivenditore indiretto) deve avere accesso per l'intero giorno (24 ore su 24, 7 giorni su 7) per ottenere il credito. Il credito ottenuto dai partner viene calcolato quotidianamente per gli asset di Azure gestiti. La percentuale massima di credito ottenuto dai partner per un determinato periodo di fatturazione (mese) è pari al 15%. I partner che conservano l'accesso con privilegi permanenti nel corso dell'intero mese (intervallo di accesso) e per tutte le risorse idonee (ambito di accesso) otterranno un credito completo del 15%. Una riduzione dell'ambito e dell'intervallo avrà come risultato una diminuzione della percentuale di credito per il mese. Il file di utilizzo quotidiano stimato mostra ogni giorno se per un asset di Azure è applicabile o meno il credito ottenuto dai partner. I partner possono inoltre registrarsi in modo da ricevere avvisi per rilevare eventuali modifiche all'accesso con privilegi permanenti.
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132995"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439140"
 ---
 # <a name="april-2020-announcements"></a>Annunci di aprile 2020
 
@@ -30,8 +30,8 @@ _________________
 
 - Data: 2020-04-30
 - Digitare il comando seguente: Funzionalità
-- Stato: Presto disponibili
-- [Altre informazioni](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>Riepilogo
 
@@ -49,7 +49,7 @@ Il 4 maggio 2020 Microsoft presenterà nuove promozioni scontate per Office 365 
 Queste promozioni sostituiranno l'offerta della versione di valutazione corrente di Office 365 E1 e presenteranno le differenze seguenti:
 
 - I partner eseguiranno transazioni annuali degli SKU di Office 365 E1 o Microsoft 365 Business Basic sfruttando una promozione di CSP che applica uno sconto del 100% per i primi 6 mesi, invece di un unico SKU di valutazione di 6 mesi. [Altre informazioni sulle promozioni di CSP](../promotions.md).
-- Gli ordini saranno limitati tecnicamente ai "soli nuovi clienti", a differenza della versione di valutazione di Office 365 E1, che è limitata ai nuovi clienti solo tramite criteri scritti. Altre informazioni sono disponibili nelle [domande frequenti dei partner Microsoft](https://aka.ms/CSPCOVIDPromo).
+- Gli ordini saranno limitati tecnicamente ai "soli nuovi clienti", a differenza della versione di valutazione di Office 365 E1, che è limitata ai nuovi clienti solo tramite criteri scritti. 
 - Per i clienti di piccole e medie imprese, Microsoft 365 Business Basic sarà incluso in questa promozione. Questo approccio assicura che i partner possano offrire inizialmente ai clienti con meno di 300 postazioni la famiglia di prodotti corretta con Microsoft 365 for Business.
 I clienti che hanno attualmente licenze per la versione di valutazione di Office 365 E1, disponibile fino al 4 maggio 2020, continueranno a usare il piano corrente. Questa modifica interessa solo i clienti completamente nuovi.
 
@@ -58,12 +58,13 @@ Definizione di nuovi clienti
 I nuovi clienti idonei per questa promozione sono:
 
 1. Tenant di clienti completamente nuovi
-2. Clienti esistenti che non hanno una sottoscrizione a pagamento attiva o che l’hanno annullata di recente (entro gli ultimi 30 giorni) nel rispettivo tenant per uno dei prodotti definiti nella [guida alle domande frequenti dei partner Microsoft](https://aka.ms/CSPCOVIDPromo).
+2. Clienti esistenti che nel relativo tenant non hanno una sottoscrizione attualmente pagata o annullata di recente (negli ultimi 30 giorni) per uno dei prodotti definiti nella guida alle domande frequenti dei partner Microsoft
 
+ 
 ### <a name="additional-resources"></a>Risorse aggiuntive
 
 - Visitare il [Centro risorse per il lavoro in remoto dei partner](https://www.microsoft.com/microsoft-365/partners/remotework) per saperne di più sul lavoro in remoto sicuro.
-- Altre informazioni su queste modifiche sono disponibili nelle [domande frequenti dei partner correlate](https://aka.ms/CSPCOVIDPromo).
+
 
 ### <a name="next-steps"></a>Passaggi successivi
 
@@ -172,7 +173,7 @@ Per incrementare la protezione di partner e clienti, **a partire dal 1° maggio 
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-- **Se non sono stati attivati i requisiti di sicurezza consigliati per proteggere il proprio tenant e i utenti** , attivarli immediatamente per mantenere la conformità ed evitare interruzioni al business a livello di gestione dei clienti o esecuzione di transazioni in CSP. I partner che non implementano i requisiti di sicurezza potrebbero mettere a rischio la rispettiva partecipazione al programma CSP.
+- **Se non sono stati attivati i requisiti di sicurezza consigliati per proteggere il proprio tenant e i utenti**, attivarli immediatamente per mantenere la conformità ed evitare interruzioni al business a livello di gestione dei clienti o esecuzione di transazioni in CSP. I partner che non implementano i requisiti di sicurezza potrebbero mettere a rischio la rispettiva partecipazione al programma CSP.
 - I provider indiretti devono implementare questi requisiti di sicurezza per i propri business e devono collaborare con i rivenditori per assicurare che anche loro implementino i requisiti usando questo modello di posta elettronica. Microsoft contatterà anche direttamente i rivenditori con comunicazioni tramite posta elettronica.
 - Per verificare lo stato e scoprire le azioni essenziali da intraprendere, visitare la [pagina dello stato dei requisiti di sicurezza del Centro per i partner](https://partner.microsoft.com/commerce/security/compliance). Collaborare con l'amministratore globale per verificare regolarmente lo stato dei requisiti di sicurezza per ogni tenant.
 - Se si utilizza una soluzione di un fornitore del pannello di controllo (CPV), rivolgersi a tale fornitore.

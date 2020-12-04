@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999675"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474224"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Aggiungere licenze o altri servizi alla sottoscrizione di un cliente
-
-**Si applica a**
-
-- Centro per i partner
-- Partner del programma Cloud Solution Provider
 
 **Ruoli appropriati**
 
@@ -35,7 +30,7 @@ Se il cliente necessita di un maggior numero di licenze rispetto a quelle fornit
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Aggiornamenti supportati nel programma CSP <a id="upgradesubscription"></a>
 
-In Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
+Nel programma Cloud Solution Provider sono supportati gli aggiornamenti seguenti:
 
 | Offerta | Aggiornamenti possibili|
 |---:|:---|

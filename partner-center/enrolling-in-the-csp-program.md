@@ -1,7 +1,7 @@
 ---
 title: Iscriversi al programma Cloud Solution Provider
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come iscriversi al modello di vendita del programma Cloud Solution Provider (CSP) più adatto per l'azienda, ad esempio come rivenditore indiretto o partner con fatturazione diretta.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045396"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322084"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
@@ -42,7 +42,7 @@ Potrebbero essere necessari diversi giorni per esaminare e verificare le informa
 3. Dopo che Microsoft avrà verificato le informazioni che hai fornito, accetta le condizioni del contratto per rivenditori indiretti Microsoft.
 
 > [!IMPORTANT]  
-> Attualmente un partner iscritto al programma CSP non può rivendere servizi online a un altro partner del programma CSP. Microsoft rivede continuamente i criteri e le funzionalità di tutti i programmi. Tutte le novità sui rilasci di funzionalità o sulle modifiche relative ai criteri saranno annunciate tramite i consueti canali di comunicazione, inclusi gli [annunci del Centro per i partner](announcements/index.md).
+> Attualmente un partner iscritto al programma CSP non può rivendere servizi online a un altro partner del programma CSP. Questa limitazione si applica solo al tenant usato per eseguire transazioni CSP. I partner CSP che usano un tenant non CSP per l'utilizzo aziendale possono acquistare servizi online da un altro partner CSP. Microsoft rivede continuamente i criteri e le funzionalità di tutti i programmi. Tutte le novità sui rilasci di funzionalità o sulle modifiche relative ai criteri saranno annunciate tramite i consueti canali di comunicazione, inclusi gli [annunci del Centro per i partner](announcements/index.md).
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Iscriversi come rivenditore indiretto
 
@@ -60,7 +60,7 @@ Il supporto e i servizi offerti variano a seconda del provider indiretto scelto.
 
 Se non lavori ancora con un provider (noto anche come distributore), puoi avviare una [ricerca nell'elenco dei provider ufficiali Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) per individuarne uno.
 
-Per altre informazioni su quanto è necessario per partecipare al programma Cloud Solution Provider come rivenditore indiretto, vedi [Iniziare come rivenditore indiretto](https://partner.microsoft.com/cloud-solution-provider/whats-required) nel [sito Web Microsoft Partner Network](https://partner.microsoft.com/). 
+Per altre informazioni su quanto è necessario per partecipare al programma Cloud Solution Provider come rivenditore indiretto, vedi [Iniziare come rivenditore indiretto](https://partner.microsoft.com/cloud-solution-provider/whats-required) nel [sito Web Microsoft Partner Network](https://partner.microsoft.com/).
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Iscriversi come partner con fatturazione diretta
 
@@ -99,4 +99,4 @@ Leggere [Prerequisiti per aggiungere una nuova sede per un'azienda CSP](manage-l
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Informazioni sul Contratto Microsoft Partner per i partner del programma CSP](microsoft-partner-agreement.md)
+[Informazioni sul Contratto Microsoft Partner per i partner del programma CSP](microsoft-partner-agreement.md)

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514742"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439092"
 ---
 # <a name="november-2020-announcements"></a>Annunci di novembre 2020
 
@@ -30,7 +30,7 @@ ______________
 - Data: 24-11-2020
 - Funzionalità
 
-## <a name="summary"></a>Riepilogo
+### <a name="summary"></a>Riepilogo
 
 Microsoft presenta la possibilità per i partner del programma Cloud Solution Provider di acquistare offerte SaaS con fatturazione a consumo nel Centro per i partner. 
 
@@ -46,8 +46,7 @@ Microsoft presenta la possibilità per i partner del programma Cloud Solution Pr
 
 Condividere queste informazioni con tutti i contatti appropriati all'interno dell'organizzazione.
 
-
-
+______________
 
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nuova esperienza di gestione degli account unificata
 
@@ -56,7 +55,7 @@ Condividere queste informazioni con tutti i contatti appropriati all'interno del
 - Data: 18-11-2020
 - Funzionalità
 
-## <a name="summary"></a>Riepilogo
+### <a name="summary"></a>Riepilogo
 
 Dal 18 novembre, il Centro per i partner ha iniziato a implementare la nuova esperienza di gestione degli account che migliorerà l'esperienza utente per i partner. I partner possono ora gestire l'account personale per tutti i programmi da Impostazioni > Impostazioni account.
 
@@ -84,8 +83,7 @@ Accedere al dashboard Centro per i partner e quindi selezionare l'icona  **Imp
 
 Condividere queste informazioni con tutti i contatti appropriati all'interno dell'organizzazione.
 
-
-
+______________
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12">Promozione di Office 365 E1 per le aziende di medie dimensioni (LATAM, APAC e India)</a>
 
@@ -113,6 +111,7 @@ Questa promozione sarà disponibile il 1° dicembre. Nel frattempo, è necessari
 
 ### <a name="questions"></a>Domande?
 Per domande, dubbi o altre informazioni, contattare il [supporto tecnico del Centro per i partner](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
+
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Aggiornamenti delle API e miglioramenti dell'interfaccia utente del Centro per i partner per rafforzare lo screening dei clienti in determinati paesi
@@ -254,8 +253,6 @@ Nell'area geografica UE/EFTA, tutte le nuove offerte commerciali del programma C
 
 A partire da gennaio 2021, i partner che hanno nuovi clienti che acquistano nuove offerte commerciali saranno fatturati per tali acquisti nella valuta della località del partner. I partner con clienti esistenti che hanno già acquistato nuove offerte commerciali in CSP continueranno a essere fatturati in base alla valuta della località di fatturazione del cliente durante questa fase. 
 
- 
-
 - **Fase 2: Clienti esistenti che hanno acquistato una nuova offerta commerciale in CSP prima di gennaio 2021** 
 
 Dopo la fase 1 e durante l'anno 2021, Microsoft eseguirà la transizione della fatturazione delle nuove offerte commerciali per i partner con clienti esistenti che hanno acquistato una nuova offerta commerciale in CSP prima di gennaio 2021, dalla valuta della località del cliente alla valuta della località del partner. I partner riceveranno una notifica prima dell'implementazione di questa modifica.  
@@ -279,6 +276,8 @@ Le nuove offerte commerciali interessate da questa modifica sono: sottoscrizioni
 ### <a name="resources"></a>Risorse 
 
 Vedere le informazioni relative a questo argomento nella [raccolta delle operazioni](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ del sito Web dei partner Microsoft.  
+
+______________
 
 ## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>Limitazione delle richieste per le API ai partner che chiamano le API del Centro per i partner
 
@@ -310,7 +309,7 @@ Il Centro per i partner è progettato per gestire un volume elevato di richieste
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[Ottenere tutte le sottoscrizioni di un cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Ottenere un abbonamento in base all'ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[Ottenere tutti gli ordini di un cliente](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders||[Ottenere tutti gli ordini di un cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Ottenere un ordine in base all'ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Ottenere lo stato del provisioning di un abbonamento](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Gestire gli ordini e gestire una sottoscrizione](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -328,7 +327,7 @@ Questo annuncio intende fornire ai partner una conoscenza tempestiva delle modif
 
 Esaminare [Indicazioni sulla limitazione delle richieste per le API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance) ed eseguire le operazioni necessarie. 
 
-
+______________
 
 ## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>Errori 409 dovuti a richieste MCA duplicate
 
@@ -365,8 +364,7 @@ Esaminare [Indicazioni sulla limitazione delle richieste per le API](https://doc
 
 - Condividere queste informazioni con i team appropriati all'interno dell'organizzazione per aiutarli nella preparazione in vista di queste modifiche.
 
-
->>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+______________
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Test disponibile: miglioramenti delle API e dell'interfaccia utente del Centro per i partner per il processo di convalida dei clienti del settore della formazione
 
@@ -405,17 +403,17 @@ Oltre a questi miglioramenti, Microsoft è lieta di annunciare che, nel secondo 
 
 Microsoft si riserva il diritto di esaminare lo stato di qualsiasi cliente effettivo o potenziale per verificarne i requisiti di utente del settore della formazione. Per informazioni dettagliate, vedere i [requisiti dell'utente qualificato del settore della formazione](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).
 
-## <a name="next-steps"></a>Passaggi successivi
+### <a name="next-steps"></a>Passaggi successivi
 
-Esaminare le modifiche apportate all'interfaccia utente e all'API del Centro per i partner e leggere la guida ai test nella [raccolta di contenuti sui miglioramenti apportati al processo di convalida dei clienti del settore della formazione nel Centro per i partner](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Esaminare le modifiche apportate all'interfaccia utente e all'API del Centro per i partner e leggere la guida ai test nella [raccolta di contenuti sui miglioramenti apportati al processo di convalida dei clienti del settore della formazione nel Centro per i partner](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
-• Iscriversi per partecipare ai test (vedere la [guida ai test](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) per informazioni dettagliate). 
+- Iscriversi per partecipare ai test (vedere la [guida ai test](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) per informazioni dettagliate). 
 
-• Verificare che l'organizzazione conosca i [requisiti dell'utente qualificato del settore della formazione](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
+- Verificare che l'organizzazione conosca i [requisiti dell'utente qualificato del settore della formazione](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
 
-• Condividere queste informazioni con i team appropriati all'interno dell'organizzazione e con i rivenditori per aiutarli nella preparazione in vista di queste modifiche.
+- Condividere queste informazioni con i team appropriati all'interno dell'organizzazione e con i rivenditori per aiutarli nella preparazione in vista di queste modifiche.
 
-
+______________
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Espansione dei contenuti per i partner con licenze commerciali nella raccolta per l'idoneità operativa
 
@@ -483,7 +481,7 @@ Con l'offerta premium, i clienti possono accedere a Servizi gestiti di Microsoft
 #### <a name="microsoft-teams-rooms-managed-services"></a>Servizi gestiti di Microsoft Teams Rooms
 
 - Gestione proattiva: gestione delle sale riunioni 24x7x365, incluse l'applicazione di patch, la gestione della configurazione e altro ancora.
-•   Monitoraggio in tempo reale e analisi della causa radice: monitoraggio e rilevamento con risposta orchestrata di gestione degli incidenti eseguita da Microsoft in stretto coordinamento con il cliente, se necessario. L'app per dispositivi mobili consente di essere avvisati anche quando si è fuori ufficio.
+- Monitoraggio in tempo reale e analisi della causa radice: monitoraggio e rilevamento con risposta orchestrata di gestione degli incidenti eseguita da Microsoft in stretto coordinamento con il cliente, se necessario. L'app per dispositivi mobili consente di essere avvisati anche quando si è fuori ufficio.
 - Aggiornamenti gestiti: gestione e distribuzione di aggiornamenti dell'applicazione, di KB di Windows e del firmware.
 - Protezione dalle minacce alla sicurezza: protezione dalle possibili minacce alla sicurezza con Microsoft Defender Advanced Threat Protection.
 - Supporto tecnico: supporto tecnico 24x7x365 tramite centro operativo dedicato con correzione assistita degli incidenti per i casi non automatizzati. Controllo dettagliato degli accessi in base al ruolo.

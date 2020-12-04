@@ -1,22 +1,22 @@
 ---
-title: Gestire utenti e licenze utente per gli account dei clienti
+title: Gestire gli utenti per gli account cliente
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come gestire gli utenti per i clienti nel centro per i partner, ad esempio creare account utente, aggiungere o rimuovere licenze utente, reimpostare le password utente ed eliminare o ripristinare gli account utente.
+description: 'Gestire gli utenti per i clienti nel centro per i partner: creare account utente, aggiungere o rimuovere licenze utente, reimpostare le password ed eliminare o ripristinare gli account utente.'
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474071"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570740"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gestire utenti e licenze utente per gli account dei clienti
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gestire utenti e licenze utente per gli account dei clienti 
 
 **Ruoli appropriati**
 
@@ -76,21 +76,21 @@ I passaggi seguenti riguardano l'aggiunta o la rimozione di licenze utente per i
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
-3.  Nel menu del cliente seleziona **Users and licenses** (Utenti e licenze). Scegliere l'utente dall'elenco.
+3. Nel menu del cliente seleziona **Users and licenses** (Utenti e licenze). Scegliere l'utente dall'elenco.
 
-4.  Nella parte inferiore della schermata fai clic su **Reimposta password**. 
+4. Nella parte inferiore della schermata fai clic su **Reimposta password**. 
 
-5.  Invia la nuova password temporanea all'utente.
+5. Invia la nuova password temporanea all'utente.
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Eliminare account utente per un cliente
 
-1.  Scegliere **clienti** dal menu **centro partner** . Scegliere il cliente dall'elenco.
+1. Scegliere **clienti** dal menu **centro partner** . Scegliere il cliente dall'elenco.
 
-2.  Nel menu del cliente seleziona **Users and licenses** (Utenti e licenze). Scegliere l'utente dall'elenco.
+2. Nel menu del cliente seleziona **Users and licenses** (Utenti e licenze). Scegliere l'utente dall'elenco.
 
-3.  Nella parte inferiore della schermata selezionare **Elimina account utente**.
+3. Nella parte inferiore della schermata selezionare **Elimina account utente**.
 
 Se è necessario ripristinare l'account, è possibile trovarlo nella scheda **utenti eliminati** dell'elenco **utenti e licenze** del cliente. Sono disponibili 30 giorni per ripristinare un utente eliminato.
 
@@ -98,19 +98,18 @@ Se è necessario ripristinare l'account, è possibile trovarlo nella scheda **ut
 
 ## <a name="restore-deleted-user-accounts"></a>Ripristinare account utente eliminati
 
-1.  Dal menu **centro** per i partner selezionare **Customers**, quindi scegliere il cliente dall'elenco.
+1. Dal menu **centro** per i partner selezionare **Customers**, quindi scegliere il cliente dall'elenco.
 
-2.  Selezionare **utenti e licenze**.
+2. Selezionare **utenti e licenze**.
 
-3.  Selezionare la scheda **utenti eliminati ()** . Deve leggere **(1)** o versione successiva quando sono presenti utenti eliminati che possono essere ripristinati.
+3. Selezionare la scheda **utenti eliminati ()** . Deve leggere **(1)** o versione successiva quando sono presenti utenti eliminati che possono essere ripristinati.
 
-4.  Seleziona una o più caselle di controllo degli utenti eliminati e quindi seleziona **Ripristina**.
+4. Seleziona una o più caselle di controllo degli utenti eliminati e quindi seleziona **Ripristina**.
 
     Tutti gli account utente selezionati verranno nuovamente visualizzati nella pagina **Utenti e licenze**.
 
-## <a name="related-topics"></a>Argomenti correlati
+## <a name="next-steps"></a>Passaggi successivi
 
+- [Assegnare o revocare licenze a più utenti](bulk-license-provisioning-for-multiple-users.md)
 
-[Assegnare o revocare licenze a più utenti](bulk-license-provisioning-for-multiple-users.md)
-
-[Creare più utenti per l'account di un cliente](adding-multiple-users-to-a-customer-account.md)
+- [Creare più utenti per l'account di un cliente](adding-multiple-users-to-a-customer-account.md)

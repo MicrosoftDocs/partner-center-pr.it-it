@@ -9,19 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417252"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570689"
 ---
 # <a name="benefits-faq"></a>Domande frequenti sui vantaggi
 
-Si applica a:
+**Ruoli appropriati**
 
-- Centro per i partner
-- Centro per i partner per Microsoft Cloud for US Government
+- Amministratore MPN
+
+In questo articolo vengono illustrate molte domande comuni sui vantaggi di Microsoft Partner Network (MPN).
+
 
 ## <a name="general-questions"></a>Domande generali
 
@@ -87,7 +89,7 @@ Non è possibile combinare offerte di credito bulk di Azure con altre offerte. S
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
 
-2. Nel NAV di sinistra selezionare **MPN**.
+2. Scegliere **MPN** dal menu centro per i partner.
 
 3. Selezionare **vantaggi**, quindi selezionare **Visual Studio**.
 
@@ -96,7 +98,7 @@ Non è possibile combinare offerte di credito bulk di Azure con altre offerte. S
 Dopo aver assegnato la sottoscrizione, l'utente deve accedere a Visual Studio per gestirlo.
 
 >[!Note]
-> Le sottoscrizioni di Visual Studio possono essere riassegnate da un Sottoscrittore a un altro dopo 90 giorni di assegnazione originale
+> Le sottoscrizioni di Visual Studio possono essere riassegnate da un Sottoscrittore a un altro 90 giorni dopo l'assegnazione originale.
 
 ## <a name="technical-benefits-and-support"></a>Vantaggi e supporto tecnico
 
@@ -106,7 +108,7 @@ L'installazione, l'attivazione e altre informazioni relative ai prodotti sono fo
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
 
-2. Nel NAV di sinistra selezionare **MPN**.
+2. Scegliere **MPN** dal menu centro per i partner.
 
 3. Selezionare **vantaggi**, quindi selezionare **vantaggi tecnici**.
 
@@ -115,3 +117,7 @@ L'installazione, l'attivazione e altre informazioni relative ai prodotti sono fo
 5. Accedere a [supporto tecnico Microsoft](https://support.microsoft.com/supportforbusiness/productselection).
 
 6. Selezionare il prodotto che si sta tentando di installare, quindi creare un ticket di supporto tecnico.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Ottieni una specializzazione avanzata per dimostrare le tue competenze](advanced-specializations.md)

@@ -1,20 +1,20 @@
 ---
-title: Esplorazione della piattaforma del canale incentives (CHIP)
+title: Usare il CHIP (Channel incentives Platform)
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Informazioni su come usare CHIP per il lavoro degli incentivi.
+description: Informazioni su come usare la piattaforma per gli incentivi del canale per il lavoro degli incentivi. Nota Questa piattaforma verrà ritirata alla fine del 2021.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ca669cb62995b84dc246cbc5db5d1b9ada8b8ed
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418115"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570401"
 ---
 # <a name="navigate-the-channel-incentives-platform-chip"></a>Esplora il CHIP (Channel incentives Platform)
 

@@ -2,18 +2,18 @@
 title: Competenze-domande frequenti
 ms.topic: article
 ms.date: 11/23/2020
-description: Risposte a domande su come ottenere Microsoft Partner Network competenze in oro e argento, scadenza dei vantaggi, rinnovo e attivazione delle licenze per Azure, cloud, Visual Studio e vantaggi tecnici e di supporto
+description: Risposte alle competenze MPN Gold o Silver, scadenza dei vantaggi, rinnovo o attivazione delle licenze per i vantaggi di Azure, cloud, Visual Studio, tecnico e di supporto.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812824"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570485"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Competenze-domande frequenti
 

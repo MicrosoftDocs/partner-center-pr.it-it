@@ -1,22 +1,22 @@
 ---
-title: Problemi di accesso al CHIP
+title: Problemi di accesso a CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Linee guida per i problemi di accesso al CHIP
+description: Leggere queste linee guida per risolvere i problemi relativi all'uso dello strumento Channel incentives Platform (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d25a04119490c0f7d67c733beb3d3b6931f72bb0
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 87a39479d8a567759356e1b101fdab83a2fa0d94
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418121"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570604"
 ---
-# <a name="trouble-accessing-chip"></a>Problemi di accesso al CHIP
+# <a name="troubleshoot-issues-with-accessing-chip"></a>Risolvere i problemi relativi all'accesso al CHIP
 
 **Ruoli appropriati**
 
@@ -25,14 +25,14 @@ ms.locfileid: "94418121"
 >[!NOTE]
 >La piattaforma CHIP verrà ritirata alla fine del 2021.
 
-Se non si è il contatto principale o il PPA (amministratore del programma primario), contattare il contatto principale o il PPA (amministratore del programma primario) per l'accesso. Se si è la PPA corrente, assicurarsi che l'azienda sia registrata e registrata in quanto l'accesso è associato allo stato della società.
+Se non si è il contatto principale o il PPA (amministratore del programma primario), contattare il contatto principale o il PPA (amministratore del programma primario) per l'accesso. Se si è la PPA corrente, assicurarsi che la società sia registrata e registrata in quanto l'accesso è associato allo stato della società.
 
 Se si è il contatto principale o il PPA (amministratore del programma primario), è necessario avere accesso al CHIP perché tutte le notifiche per la registrazione vengono inviate al contatto principale corrente o al PPA (amministratore del programma primario). Questo accesso continua per ogni periodo dopo il periodo di registrazione iniziale.
 
-## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-have-had-access-previously"></a>Procedura per la risoluzione dei problemi di accesso al CHIP se è stato precedentemente eseguito l'accesso
+## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Procedura per la risoluzione dei problemi di accesso al CHIP se si dispone di accesso precedente
 
 1. Cancellare tutti i cookie e aprire CHIP in un browser privato.
-1. Fare clic su **Impostazioni visualizzazione compatibilità** nel browser. Il CHIP dovrebbe essere già elencato in Microsoft.com. in caso contrario, aggiungere il sito Web.
+1. Selezionare **Impostazioni visualizzazione compatibilità** nel browser. Il CHIP dovrebbe essere già elencato in Microsoft.com. in caso contrario, aggiungere il sito Web.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

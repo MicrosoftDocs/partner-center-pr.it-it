@@ -2,21 +2,21 @@
 title: Domande frequenti su Solution Assessment Incentives
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Risposte alle domande frequenti sulla valutazione della soluzione
+description: Informazioni sulle risposte alle domande frequenti sulla valutazione della soluzione nella piattaforma di incentivi di canale (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0796d8d5a79de181feb9c64c0e48ea4720817953
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 3d90a98fa323af187dd86f3d2d9f585167cc817c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447244"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570451"
 ---
-# <a name="solution-assessment-incentives-faq"></a>Domande frequenti sugli incentivi per la valutazione della soluzione
+# <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>Domande frequenti sugli incentivi per la valutazione della soluzione per il CHIP (Channel incentives Platform) 
 
 Trovare le risposte alle domande più frequenti.
 

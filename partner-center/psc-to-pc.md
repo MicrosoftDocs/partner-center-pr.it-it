@@ -1,26 +1,22 @@
 ---
 title: Eseguire la migrazione da partner Sales Connect (PSC)
-description: Scopri in che modo i partner Microsoft possono eseguire la migrazione da partner Sales Connect (PSC) al centro per i partner e creare o gestire le offerte inviate dai venditori Microsoft.
 ms.topic: article
-author: vikramb
-ms.author: vikramb
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
+description: Scopri in che modo i partner Microsoft possono eseguire la migrazione da partner Sales Connect (PSC) al centro per i partner e creare o gestire le offerte inviate dai venditori Microsoft.
+author: vikramb
+ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 11/06/2020
-ms.openlocfilehash: 34a18e4a4bf4d5c29265fdf76fae05b4ba16a3bc
-ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
+ms.date: 12/04/2020
+ms.openlocfilehash: 5a1b27f108440fc9adfc2cefefd2e4c2bf79ff48
+ms.sourcegitcommit: 558533fb39b13aefc3ab2b015145a908f86f8d7d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94670168"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "96612823"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
-
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -30,28 +26,34 @@ ms.locfileid: "94670168"
 - Amministratore di partner Sales Connect (PSC)
 - Partner Sales Connect (PSC) Deal Manager
 
-Come è noto, l'azienda perderà l'accesso a PSC dopo il 31 marzo 2021. Tuttavia, troverai tutto quello che vuoi fare per creare offerte di co-selling, gestire le tue offerte e agire sulle offerte inviate da Microsoft Sellers all'utente nel centro per i partner. Esistono tuttavia alcune differenze e le linee guida seguenti consentono di eseguire la transizione al centro per i partner più agevole e in modo semplice.
+Questo articolo illustra i partner che eseguono la migrazione da partner Sales Connect to partner Center per poter continuare a creare e gestire le offerte di co-selling nel centro per i partner.
+
+Come è noto, l'azienda perderà l'accesso a PSC dopo il 31 marzo 2021. Tuttavia, si troverà comunque tutto ciò che si desidera eseguire nel centro per i partner, ad esempio creare offerte di co-selling, gestire le offerte e agire sulle offerte inviate dai venditori Microsoft.
+
+Tuttavia, vi sono differenze. Le linee guida seguenti consentono di eseguire la transizione al centro per i partner più agevole e più semplice.
 
 >[!Important]
 > Se ci si trova nel punto in cui è stato visualizzato un banner in PSC sulla migrazione, l'utente si trova nel posto giusto. Questa guida non è applicabile per la valutazione della soluzione (SA) e i partner di Internet degli altri OEM che gestiscono le proprie offerte in CPS.
 
 ## <a name="before-you-move-things-you-need-to-know"></a>Prima di procedere, è necessario sapere
 
-### <a name="if-you-are-psc-admin"></a>Se si è amministratore di PSC
+### <a name="if-you-are-a-psc-admin"></a>Se si è un amministratore di PSC
 
 - Per accedere al centro per i [partner](https://partner.microsoft.com/), è necessario un indirizzo di posta elettronica di lavoro.
 - Configurare l'account con il supporto dell' [amministratore dell'account](permissions-overview.md)del centro per i partner.
 - Leggere questo documento per informazioni su come co-selling nel centro per i partner.
 - Configurare gli account utente nel centro per i partner per tutti gli utenti di PSC (amministratore, Deal Manager e ruoli venditore) e assegnare loro i [ruoli di amministratore di riferimento](permissions-overview.md).
 
->[!Important]
-> Assicurarsi che l'ID MPN visualizzato nel banner del CPS sia disponibile nell'elenco di percorsi MPN nel centro per i partner. Per verificare l'elenco di tutti i MPNs associati all'account del centro per i partner, è possibile verificare che nel centro per i partner si trovino le "Impostazioni account" e "[località](manage-locations.md)".
+>[!IMPORTANT]
+> Verificare che l'ID MPN visualizzato nel banner del CPS sia disponibile nell'elenco di percorsi MPN nel centro per i partner.
 
 :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Immagine che mostra il banner del CPS in cui i partner possono trovare l'ID MPN.":::
 
-### <a name="if-you-are-psc-deal-manager-or-seller"></a>Se si è responsabile della gestione delle offerte PSC o del venditore
+ Per verificare che l'ID MPN sia visualizzato come percorso MPN del centro per i partner, accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner, quindi selezionare **Impostazioni** (icona a forma di ingranaggio) in alto a destra nella schermata, seguito da **Impostazioni account**. Nel menu di spostamento a sinistra di secondo livello selezionare **locations (percorsi** ) per visualizzare l'elenco di tutti gli ID MPN e le posizioni associate all'account del centro per i partner.
 
-- Per accedere al centro per i [partner](https://partner.microsoft.com/), è necessario un indirizzo di posta elettronica di lavoro.
+### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Se si è un rivenditore o un venditore di gestione delle offerte di PSC
+
+- Per accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner, è necessario un indirizzo di posta elettronica di lavoro.
 - Se si usa un account non di lavoro in CPS o l'indirizzo di posta elettronica aziendale è per una società diversa da quella del partner, contattare l'amministratore del CPS per la guida per la configurazione dell'account.
 - Rivolgersi all'amministratore di PSC se la configurazione dell'account del centro per i partner è completa indipendentemente dall'account usato per accedere a CPS.
 - Verificare se è possibile accedere al centro per i partner e alla sezione dei riferimenti.
@@ -59,32 +61,42 @@ Come è noto, l'azienda perderà l'accesso a PSC dopo il 31 marzo 2021. Tuttavia
 
 ## <a name="as-an-admin-in-psc-these-are-your-next-steps"></a>Come amministratore in PSC, questi sono i passaggi successivi
 
-Se non viene visualizzata la scheda riferimenti:
-
-- L' [amministratore globale](permissions-overview.md) dell'azienda può concedere l'accesso alla scheda riferimenti. Per trovare l'amministratore globale, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Selezionare la pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "Global Admins". La pagina visualizzerà quindi tutti gli amministratori globali con i rispettivi ID di posta elettronica. Contattarli per ottenere l'accesso "referral admin" per l'account aziendale.
-
-  >[!Important]
-  > Se il ruolo gestisce solo gli utenti in CPS, è possibile ottenere il ruolo di [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) nel centro per i partner. Se il ruolo include anche la gestione di opportunità di co-selling, è necessario ottenere il ruolo di [amministratore dei riferimenti](permissions-overview.md#manage-referrals) . Inoltre, è possibile nominare un responsabile della gestione delle modifiche tra gli amministratori del CPS per collaborare con l'amministratore dell'account del centro per i partner invece che con tutti gli amministratori del CPS che raggiungono gli amministratori dell'account in PC singolarmente.
-
-  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Immagine che Mostra gli amministratori dell'account nella pagina Gestione utenti delle impostazioni partner.":::
-
-- Passare alla scheda riferimenti nel riquadro di spostamento a sinistra e verificare se è possibile accedere alle pagine.
+Dal menu di spostamento a sinistra del centro per i partner selezionare l'opzione **riferimenti** . Verificare che sia possibile accedere alle pagine dei riferimenti.
 
   >[!Note]
   > Potrebbe essere necessario disconnettersi dal centro per i partner e accedere di nuovo per aggiornare le credenziali per l'accesso alle pagine dei riferimenti.
+
+Se non viene visualizzata l'opzione **riferimenti** nel menu del centro per i partner o nelle pagine correlate ai riferimenti, contattare l' [amministratore globale](permissions-overview.md) dell'azienda e chiedere di concedere l'accesso all'opzione relativa ai **riferimenti** e all'area correlata. 
+
+Per trovare l'amministratore globale della società:
+
+1. Selezionare **Impostazioni account** dall'icona a forma di ingranaggio nella parte superiore destra del dashboard del centro per i partner.
+
+1. Selezionare **Gestione utenti** dal menu di spostamento a sinistra di secondo livello. 
+
+1. Nella parte superiore dell'elenco utenti selezionare il menu a discesa **filtro** . Modificare l'opzione in **amministratore globale**.
+
+   La pagina visualizzerà tutti gli amministratori globali con i rispettivi indirizzi di posta elettronica. Inviare un messaggio di posta elettronica a uno di essi e chiedere di assegnare il ruolo di amministratore dei riferimenti per l'account aziendale.
+
+  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Immagine che Mostra gli amministratori dell'account nella pagina Gestione utenti delle impostazioni partner.":::
+
+>[!Important]
+>- Se il ruolo prevede solo la gestione degli utenti in CPS, richiedere all'amministratore globale dell'azienda di assegnare il ruolo di [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) nel centro per i partner. 
+>- Se il ruolo include anche la gestione delle opportunità di co-selling, richiedere l'assegnazione del ruolo di [amministratore dei riferimenti](permissions-overview.md#manage-referrals) .
+> - È consigliabile anche designare un responsabile della gestione delle modifiche tra gli amministratori del CPS. In tal modo si impedirà a tutti gli amministratori del CPS di dover contattare singolarmente gli amministratori dell'account del centro per i partner. Al contrario, il responsabile della gestione delle modifiche può essere la persona principale che lavora con l'amministratore dell'account del centro per i partner.
 
 ## <a name="user-migration"></a>Migrazione degli utenti
 
 Dopo aver configurato l'account nel centro per i partner, usare la migrazione guidata utenti nella pagina opportunità di co-selling per assegnare automaticamente i ruoli del centro partner ai dipendenti della società.
 
 >[!Note]
-> La migrazione degli utenti può essere eseguita solo dagli [amministratori dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) della società. Se non si ha il ruolo di amministratore dell'account, trovare un amministratore dell'account che consenta di configurare gli account utente con la guida alla migrazione guidata utenti. La funzionalità di migrazione utente sarà disponibile a partire dal 18 novembre 2020.
+> La migrazione degli utenti può essere eseguita solo dagli [amministratori dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) della società. Se non si ha il ruolo di amministratore dell'account, trovare un amministratore dell'account che consenta di configurare gli account utente con la guida della migrazione guidata utenti. La funzionalità di migrazione utente sarà disponibile a partire dal 18 novembre 2020.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Immagine che mostra la migrazione guidata utenti.":::
 
-Gli amministratori dell'account otterranno un collegamento alla migrazione guidata utente PSC nella pagina di co-selling Opportunities accanto alla guida dei riferimenti. È possibile avviare la migrazione utente facendo clic sul collegamento. Questa azione può essere eseguita più volte fino a quando tutti gli utenti a cui la società vuole eseguire la migrazione non vengono assegnati ruoli appropriati nel centro per i partner.
+Gli amministratori dell'account visualizzeranno un collegamento della migrazione guidata utenti di PSC nella pagina di co-selling Opportunities accanto alla guida dei riferimenti. È possibile avviare la migrazione degli utenti selezionando il collegamento. Per avviare la migrazione degli utenti, gli amministratori possono selezionare il collegamento. Questi passaggi possono essere eseguiti più volte fino a quando a tutti gli utenti non vengono assegnati ruoli appropriati nel centro per i partner.
 
-La tabella di migrazione utente presenta i dettagli seguenti
+La tabella di migrazione utente presenta i dettagli seguenti:
 
 - Account utente-ID di posta elettronica del dipendente
 - Account partner PSC: l'account a cui è associato il dipendente in PSC
@@ -93,22 +105,29 @@ La tabella di migrazione utente presenta i dettagli seguenti
 - Ruolo utente PC: ai dipendenti vengono assegnati ruoli in base ai rispettivi ruoli utente del CPS. All'amministratore in PSC verranno assegnati i ruoli di amministratore dei riferimenti in PC. Al venditore verrà assegnato il ruolo utente riferimenti in PC. Scopri di più sui ruoli del PC e sui vantaggi che gli utenti con questi ruoli possono eseguire [nel centro per](permissions-overview.md#manage-referrals) i partner
 - Tenant di AAD per PC: il tenant a cui gli utenti sono assegnati nel centro per i partner
 - Stato: esistono tre possibili stati per lo stato della migrazione
-    - Non migrato-l'utente non ha un ruolo di riferimento per i PC assegnati
-    - Migrated: l'utente è stato migrato correttamente con il ruolo pertinente assegnato, come illustrato nella tabella
-    - Errore-non è possibile completare la migrazione a causa di un errore
+    - **Non migrato** -l'utente non ha un ruolo di riferimento per i PC assegnati
+    - **Migrated** : l'utente è stato migrato correttamente con il ruolo pertinente assegnato, come illustrato nella tabella
+    - **Errore** -non è possibile completare la migrazione a causa di un errore
 
-La migrazione può avere esito negativo e causare errori in alcune condizioni per le quali le soluzioni sono fornite di seguito
+In alcuni casi, la migrazione può avere esito negativo e causare errori. Ecco alcuni motivi per cui una migrazione può causare un errore e alcune delle modalità di risoluzione del problema:
 
 1. È possibile che gli utenti del CPS stiano usando un account non di lavoro.
 
-2. Gli utenti del PSC possono usare un account di un dominio diverso da quello usato nel centro per i partner.
+2. È possibile che l'utente PSC usi un account di un dominio diverso da quello usato nel centro per i partner.
 
-   - Per risolvere gli errori correlati agli scenari 1 e 2, tutti gli utenti devono accedere al centro per i partner usando il proprio account di lavoro collegato al tenant di Azure AD. L' [amministratore globale](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) può essere d'aiuto per questa operazione. Per trovare l'amministratore globale, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Fare clic sulla pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "Global Admins". L'amministratore globale può creare un nuovo account utente nel tenant di Azure AD o assegnare l'accesso utente Guest agli altri utenti dell'account di dominio. Una volta configurati gli account per tutti gli utenti e i responsabili delle operazioni di PSC, è necessario accedere al centro per i partner, passare alla scheda referral nel pannello di navigazione a sinistra e verificare che possano visualizzare la pagina dei riferimenti.
+   Per risolvere gli errori correlati agli scenari 1 e 2, richiedere all'utente di accedere al centro per i partner usando il proprio account di lavoro collegato al tenant di Azure AD. L' [amministratore globale](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) può essere di aiuto.
+   
+   Per trovare l'amministratore globale: 
+   - Accedere al [Dashboard](https://partner.microsoft.com/dashboard) del centro per i partner e selezionare **Impostazioni account** dall'icona a forma di ingranaggio in alto a destra.
+   - Selezionare **Gestione utenti** nella barra di spostamento a sinistra di secondo livello.
+   - Nella parte superiore dell'elenco utenti selezionare il menu a discesa **filtro** e impostare l'opzione su **amministratore globale**. La pagina Visualizza quindi tutti gli amministratori globali con i rispettivi indirizzi di posta elettronica. Chiedere a uno di loro di assegnare il ruolo di amministratore di riferimento per l'account aziendale.
+   
+      L'amministratore globale può creare un nuovo account utente nel tenant di Azure AD o assegnare l'accesso utente Guest agli altri utenti dell'account di dominio. Una volta configurati gli account per tutti gli utenti e i responsabili delle operazioni di PSC, è necessario accedere al centro per i partner, selezionare **riferimenti** dal menu di spostamento a sinistra e verificare che possano visualizzare la pagina dei riferimenti.
 
 3. All'utente è già assegnato un ruolo di riferimento nel centro per i partner.
-    - È possibile verificare il ruolo esistente dell'utente dalla pagina di gestione degli utenti nelle impostazioni dell'account e modificarlo in base alle esigenze.
+    - È possibile verificare il ruolo dell'utente esistente. Nell'angolo in alto a destra del centro per i partner selezionare **Impostazioni** (icona a forma di ingranaggio), quindi **Impostazioni account**. Quando viene visualizzato un secondo menu di spostamento a sinistra, selezionare **Gestione utenti** e cercare l'utente.
 
-Dopo aver completato la migrazione degli utenti, usare le linee guida seguenti per decidere la strategia di migrazione: 
+Dopo aver completato la migrazione degli utenti, usare le linee guida seguenti per decidere la strategia di migrazione:
 
 Se la società dispone di un PDM-quando l'account del centro per i partner è configurato e gli utenti sono stati spostati e hanno ruoli e autorizzazioni, è possibile spostare le attività di co-selling nel centro per i partner. Informare il PDM per eseguire il compartimento invece di attendere il completamento della scadenza della migrazione, in modo da consentire l'esecuzione di tutte le nuove offerte nel centro per i partner.
 
@@ -123,7 +142,7 @@ Se la società non dispone di un PDM, assicurarsi che tutti gli account utente s
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Passaggi successivi per gli amministratori del CPS, i gestori di Deal e i venditori del PSC
 
 Informazioni su come co-selling nel centro per i partner.
-Si tratta di un passaggio importante, che consente di prepararsi per il co-selling nel centro per i partner. Comprendere i flussi di lavoro e le modifiche apportate al centro per i partner, in modo da potervi covendere in modo efficace dal primo giorno. Per iniziare, leggere completamente questo documento. Un set di risorse valido è disponibile anche nella [raccolta di esperienze di co-selling](https://aka.ms/cosellexperience).
+Si tratta di un passaggio importante, che consente di prepararsi per il co-selling nel centro per i partner. Comprendere i flussi di lavoro e le modifiche apportate al centro per i partner, in modo da potervi covendere immediatamente. Per iniziare, leggere completamente questo documento. Un set di risorse valido è disponibile anche nella [raccolta di esperienze di co-selling](https://aka.ms/cosellexperience).
 
 ## <a name="major-differences-between-psc-and-pc-workflows"></a>Principali differenze tra i flussi di lavoro PSC e PC
 
@@ -140,86 +159,129 @@ Si tratta di un passaggio importante, che consente di prepararsi per il co-selli
 |Contatto del cliente|Non obbligatorio.|Non obbligatorio per la condivisione di pipeline privata. Obbligatorio se il venditore Microsoft è invitato a partecipare a una richiesta di co-selling.|
 |API pubblica|Non disponibile.|[API pubblica](/partner/develop/referrals) per gestire a livello di codice i riferimenti del centro per i partner.|
 
-## <a name="psc-and-partner-center-field-mapping"></a>Mapping dei campi di CPS e del centro per i partner
+## <a name="map-the-fields-in-psc-to-the-corresponding-fields-in-partner-center"></a>Eseguire il mapping dei campi in PSC ai campi corrispondenti nel centro per i partner
 
-In questa sezione viene illustrata la mappa esatta degli attributi tra CPS e centro per i partner. Ogni schermata in PSC viene confrontata con la visualizzazione pertinente nella sezione opportunità di co-selling del centro partner. 
+In questa sezione vengono confrontate le schermate selezionate (o "mappe") visualizzate per CPS rispetto alla visualizzazione corrispondente nella sezione relativa alle opportunità di co-selling del centro per i partner.
 
->[!Note]
->Per trovare l'attributo equivalente nel centro per i partner, seguire i numeri sulle bolle gialle negli screenshot del CPS. Le bolle rosse indicano che il file archiviato non è disponibile nel centro per i partner.
+Vengono visualizzati i cerchi numerati, gialli o rossi in ogni coppia di schermate:
 
-**Home page di PSC e visualizzazione predefinita delle opportunità di co-selling nel centro per i partner**
+- **Cosa significano i cerchi gialli?** I cerchi numerati, gialli vengono visualizzati per primi in ogni schermata del CPS. Si troverà quindi uno screenshot del centro partner complementare sotto con molti degli stessi numeri.
 
- :::image type="content" source="images/pscmigration/homepage.png" alt-text="Immagine che mostra i mapping dei campi tra il home page di partner Sales Connect e la visualizzazione predefinita di opportunità di co-selling nel centro per i partner.":::
+   Per vedere in che modo ogni campo o attributo in PSC è mappato alla controparte del centro per i partner, abbinare i cerchi numerati tra loro nelle due schermate correlate. Ad esempio, trovare la corrispondenza con il valore "1" giallo nella prima schermata del PSC, per il numero giallo "1", nella seconda schermata del centro per i partner.
 
-**Visualizzazione griglia PSC e visualizzazione dell'accordo per il centro per i partner**
+- **Che cosa significa un cerchio rosso?** Se viene visualizzato un cerchio rosso in una schermata, che indica che il campo PSC non è disponibile nel centro per i partner.
+
+I mapping dei campi del centro da PSC a partner vengono visualizzati per le aree seguenti:
+
+1. PSC home page mappato alla visualizzazione predefinita per le opportunità di co-selling del centro partner
+1. Visualizzazione griglia di PSC mappata alla visualizzazione dell'accordo del centro per i partner
+1. Visualizzazione dettagli affare PSC mappato alla visualizzazione dettagli dell'affare del centro per i partner
+1. Visualizzazione Aggiungi prodotti di CPS mappato al centro per i partner Aggiungi visualizzazione soluzioni
+1. Visualizzazione della gestione utenti del CPS mappata alla vista Gestione utenti del centro per i partner
+1. Visualizzazione assegnazione ruolo utente PSC mappata alla visualizzazione assegnazione ruolo del centro per i partner
+1. Visualizzazione notifiche PSC mappata alla visualizzazione notifiche del centro per i partner
+
+### <a name="1---psc-home-page-mapped-to-the-partner-center-co-sell-opportunities-default-view"></a>1-PSC home page mappato alla visualizzazione predefinita per le opportunità di co-selling del centro partner
+
+Confrontare i circoli corrispondenti e numerati tra lo screenshot principale del PSC e lo screenshot del centro per i partner. I numeri corrispondenti mostrano dove è possibile trovare la funzionalità o l'attributo correlato a PSC nel centro per i partner. I cerchi rossi indicano che non esiste alcun campo del centro per i partner corrispondente.  
+
+:::image type="content" source="images/pscmigration/homepage.png" alt-text="Immagine che mostra i mapping dei campi tra il home page di partner Sales Connect e la visualizzazione predefinita di opportunità di co-selling nel centro per i partner." lightbox="images/pscmigration/home-page-expanded.png":::
+
+### <a name="2---psc-grid-view-mapped-to-the-partner-center-deal-view"></a>2-visualizzazione griglia del PSC mappata alla visualizzazione dell'accordo del centro per i partner
+
+Confrontare i circoli corrispondenti e numerati tra lo screenshot principale del PSC e lo screenshot del centro per i partner. I numeri corrispondenti mostrano dove è possibile trovare la funzionalità o l'attributo correlato a PSC nel centro per i partner. I cerchi rossi indicano che non esiste alcun campo del centro per i partner corrispondente.  
+
+> [!NOTE]
+> Altre considerazioni vengono visualizzate sotto le schermate.
+
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione griglia partner Sales Connect (PSC) e la vista di gestione dei partner Center." lightbox="images/pscmigration/grid-view-expanded.png":::
+
+**Considerazioni speciali:**
 
 - Non è disponibile alcuna visualizzazione elenco nel centro per i partner come quello di CPS.  Tutte le offerte sono elencate in base alla data più recente ricevuta o creata con le informazioni sul cliente e il tipo di contratto. Per impostazione predefinita, la prima operazione nella vista è selezionata. La maggior parte dei valori visualizzati nel formato di tabella PSC è disponibile nella visualizzazione dettagli dell'operazione nel computer.
-- Il ruolo Deal non è un campo obbligatorio in PC. Non viene né visualizzata né acquisita in nessuno dei flussi di lavoro. Viene derivato automaticamente sul lato venditore Microsoft in base alle soluzioni aggiunte all'affare.
+- Il ruolo Deal non è un campo obbligatorio in PC. Non viene visualizzato o acquisito in nessuno dei flussi di lavoro. Viene derivato automaticamente sul lato venditore Microsoft in base alle soluzioni aggiunte all'affare.
 - La data dell'Ultima modifica non viene visualizzata nella pagina dei dettagli del riferimento nel PC. I partner possono usare la funzionalità di ordinamento per ordinare le offerte in base alla data dell'ultimo aggiornamento.
 
-:::image type="content" source="images/pscmigration/gridview.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione griglia partner Sales Connect (PSC) e la vista di gestione dei partner Center.":::
+### <a name="3---psc-deal-details-view-mapped-to-partner-center"></a>3-visualizzazione dettagli affare PSC mappata al centro per i partner
 
-**Visualizzazione dei dettagli dell'offerta in CPS e centro per i partner**
+Confrontare i circoli corrispondenti e numerati nella schermata superiore (PSC) con lo screenshot del centro per i partner sottostante. I numeri corrispondenti mostrano dove è possibile trovare la funzionalità o l'attributo correlato a PSC nel centro per i partner. I cerchi rossi indicano che non esiste alcun campo o area corrispondente nel centro per i partner.
 
-- I partner possono modificare un'operazione facendo clic sul pulsante modifica nella visualizzazione dei dettagli del partner Deal (6). Quando si fa clic sul pulsante modifica, tutti i campi diventano modificabili con l'opzione per salvare o annullare le modifiche apportate all'operazione.
+> [!NOTE]
+> Altre considerazioni vengono visualizzate sotto le schermate.
+
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione dettagli dell'affare partner Sales Connect (PSC) e la visualizzazione dettagli dell'affare del centro per i partner." lightbox="images/pscmigration/deal-details-expanded.png":::
+
+**Considerazioni speciali:**
+
+- I partner possono modificare un'operazione selezionando il pulsante modifica nella visualizzazione dei dettagli del partner Deal (6). Dopo aver selezionato il pulsante modifica, tutti i campi diventeranno modificabili. Sarà quindi possibile salvare o annullare le modifiche apportate all'operazione.
 - Non è possibile chiudere l'affare come duplicato nel centro per i partner.
 - Il risultato del cliente non è disponibile nel centro per i partner. Tutti i dettagli relativi alle interazioni dei clienti possono essere aggiornati nella sezione Note di PC.
-- La data di chiusura della soluzione prevista è disponibile solo per le offerte per gli affari OEM nel centro per i partner. Non viene visualizzato per altri tipi di tratteggio.
-- Il programma di licenza non è richiesto nel computer. Viene dedotto automaticamente in base alle soluzioni selezionate nell'affare.
+- La data di chiusura della soluzione prevista è disponibile solo per le trattative degli OEM nel centro per i partner. Queste informazioni non vengono visualizzate per altri tipi di tratteggio.
+- Il programma di licenza non è richiesto nel computer. Queste informazioni vengono dedotte automaticamente in base alle soluzioni selezionate nell'affare.
 
 >[!Note]
->Eventuali operazioni contrassegnate come vinte o perse non possono essere modificate post. Prestare attenzione quando si trasferisce un problema in uno di questi stati terminali.
+>Eventuali operazioni contrassegnate come vinte o perse non possono essere modificate in seguito. Prestare attenzione quando si trasferisce una trattativa in uno di questi stati terminali.
 
-:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione dettagli dell'affare partner Sales Connect (PSC) e la visualizzazione dettagli dell'affare del centro per i partner.":::
+### <a name="4---psc-add-products-view-mapped-to-the-partner-center-add-solutions-view"></a>4-la visualizzazione ' Aggiungi prodotti ' del CPS è mappata alla visualizzazione ' Aggiungi soluzioni ' del centro per i partner
 
-**Visualizzazione ' Aggiungi prodotti ' del CPS e la visualizzazione ' Aggiungi soluzioni ' al centro per i partner**
+Confrontare i circoli corrispondenti e numerati nella schermata superiore (PSC) con lo screenshot del centro per i partner sottostante. I numeri corrispondenti mostrano dove è possibile trovare la funzionalità o l'attributo correlato a PSC nel centro per i partner. I cerchi rossi indicano che non esiste alcun campo o area corrispondente nel centro per i partner.
+  
+:::image type="content" source="images/pscmigration/products.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione di aggiunta dei prodotti partner Sales Connect (PSC) e la visualizzazione Aggiungi soluzioni per il centro per i partner." lightbox="images/pscmigration/products-expanded.png":::
 
-:::image type="content" source="images/pscmigration/products.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione di aggiunta dei prodotti partner Sales Connect (PSC) e la visualizzazione Aggiungi soluzioni per il centro per i partner.":::
+### <a name="5---user-management-in-psc-versus-partner-center"></a>5-Gestione utenti in CPS rispetto al centro per i partner
 
-**Gestione utenti in CPS e centro per i partner**
+Confrontare i circoli corrispondenti e numerati nella schermata superiore (PSC) con lo screenshot del centro per i partner sottostante. I numeri corrispondenti mostrano dove è possibile trovare la funzionalità o l'attributo correlato a PSC nel centro per i partner. I cerchi rossi indicano che non esiste alcun campo o area corrispondente nel centro per i partner.  
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Immagine che mostra i mapping dei campi tra la Home page di gestione utenti del partner Sales Connect (PSC) e la gestione utenti del centro per i partner nella visualizzazione impostazioni account.":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Immagine che mostra i mapping dei campi tra la Home page di gestione utenti del partner Sales Connect (PSC) e la visualizzazione della pagina Gestione utenti del centro per i partner all'interno dell'area Impostazioni account."  lightbox="images/pscmigration/user-management-expanded.png":::
 
-**Assegnazione di ruolo utente in CPS e centro per i partner**
+### <a name="6---user-role-assignment-in-psc-versus-partner-center"></a>6-assegnazione di ruolo utente in CPS rispetto al centro per i partner
+
+Confrontare i circoli corrispondenti e numerati nella schermata superiore (PSC) con lo screenshot del centro per i partner sottostante. I numeri corrispondenti mostrano dove è possibile trovare la funzionalità o l'attributo correlato a PSC nel centro per i partner. I cerchi rossi indicano che non esiste alcun campo o area corrispondente nel centro per i partner.  
+
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione assegnazione ruolo Partner Sales Connect (PSC) e la visualizzazione assegnazione ruolo centro partner." lightbox="images/pscmigration/roles-expanded.png":::
+
+**Considerazioni speciali:**
 
 - Il ruolo equivalente per l'amministratore del CPS è il ruolo di amministratore dell'account nel centro per i partner.
-- Nel centro per i partner è disponibile un solo ruolo per la gestione delle operazioni di co-selling che rappresenta il ruolo di amministratore di riferimento.
+- Nel centro per i partner è disponibile un solo ruolo per la gestione dei deal di co-selling. Questo ruolo è il ruolo di amministratore di riferimento.
 
-:::image type="content" source="images/pscmigration/roles.png" alt-text="Immagine che mostra i mapping dei campi tra la visualizzazione assegnazione ruolo Partner Sales Connect (PSC) e la visualizzazione assegnazione ruolo centro partner.":::
+### <a name="7---notifications-in-psc-versus-partner-center"></a>7-notifiche in CPS rispetto al centro per i partner
 
-**Notifiche in CPS e centro per i partner**
+Confrontare i circoli corrispondenti e numerati nella schermata superiore (PSC) con lo screenshot del centro per i partner sottostante. I numeri corrispondenti mostrano dove è possibile trovare la funzionalità o l'attributo correlato a PSC nel centro per i partner. I cerchi rossi indicano che non esiste alcun campo o area corrispondente nel centro per i partner.  
 
-:::image type="content" source="images/pscmigration/notifications.png" alt-text="Immagine che mostra il mapping tra le notifiche di partner Sales Connect (PSC) e la visualizzazione notifiche del centro per i partner.":::
+:::image type="content" source="images/pscmigration/notifications.png" alt-text="Immagine che mostra il mapping tra le notifiche di partner Sales Connect (PSC) e la visualizzazione notifiche del centro per i partner."  lightbox="images/pscmigration/notifications-expanded.png":::
 
 ## <a name="moving-from-psc-to-partner-center---frequently-asked-questions"></a>Passaggio da CPS al centro per i partner-domande frequenti
 
-**Q1. Quali operazioni è necessario eseguire se non si ha accesso al centro per I partner?**
+Le sezioni seguenti rispondono a domande frequenti sulla migrazione.
 
-È possibile contattare gli amministratori elencati nella pagina "nessun accesso" per ottenere i ruoli assegnati. Per le autorizzazioni di lettura e scrittura, è necessario il ruolo "[amministratore di riferimento](permissions-overview.md#manage-referrals)" nella sezione dei riferimenti. Se si gestiscono solo i profili di business, sarà necessario il ruolo "amministratore del profilo di business" nel centro per i partner.
+### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1: cosa fare se non si ha accesso al centro per I partner?
+
+È possibile contattare gli amministratori elencati nella pagina "nessun accesso" per ottenere i ruoli assegnati. Per le autorizzazioni di lettura e scrittura, è necessario il ruolo di [amministratore](permissions-overview.md#manage-referrals) dei riferimenti nella sezione dei riferimenti. Se si gestiscono solo i profili di business, sarà necessario il ruolo di amministratore del profilo di business nel centro per i partner.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Immagine che mostra l'esperienza di accesso non disponibile nel centro per i partner.":::
 
-**Q2. Chi può concedere l'accesso alla sezione relativa ai riferimenti nel centro per i partner?**
+### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2-chi può concedere l'accesso alla sezione relativa ai riferimenti in centro per i partner?
 
-L' [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) può concedere l'accesso alla scheda riferimenti. Per trovare l'amministratore dell'account, passare a impostazioni partner dall'icona a forma di ingranaggio nella parte superiore destra del centro per i partner. Fare clic sulla pagina Gestione utenti nel secondo livello della barra di spostamento a sinistra. Fare clic sull'elenco a discesa che mostra "tutti gli utenti" nella parte superiore destra della pagina e passare a "account Admins". La pagina visualizzerà quindi tutti gli amministratori dell'account con i rispettivi ID di posta elettronica. Contattarli per ottenere l'accesso "referral admin" per l'account aziendale.
+L' [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) può concedere l'accesso alla scheda riferimenti. Per trovare l'amministratore globale, selezionare **Impostazioni account** dall'icona a forma di ingranaggio nella parte superiore destra del [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner. Selezionare quindi **Gestione utenti** nella barra di spostamento di secondo livello a sinistra. Nella parte superiore dell'elenco utenti selezionare il menu a discesa **filtro** e impostare l'opzione su **amministratore globale**. La pagina visualizzerà tutti gli amministratori globali con i rispettivi indirizzi di posta elettronica. Chiedere a uno di loro di assegnare il ruolo di amministratore di riferimento per l'account aziendale.
 
-**Q3. Il pulsante + nuovo affare è disattivato per l'account. Cosa devo fare per iniziare a creare le offerte?**
+### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3: il pulsante + nuovo affare è disattivato per l'account. Cosa devo fare per iniziare a creare le offerte?
 
-Questa situazione si verifica solo se non sono presenti soluzioni di co-selling pronte collegate all'organizzazione MPN in uso nel centro per i partner. Contattare il PDM per ottenere l'ID MPN della soluzione corretta o creare un ticket di supporto che menzioni il problema relativo al pulsante nuovo affare disattivato dopo la migrazione di CPS.
+Questa situazione si verifica solo se non sono presenti soluzioni di co-selling pronte collegate all'organizzazione MPN in uso nel centro per i partner. Contattare il PDM per ottenere l'ID MPN della soluzione corretta o creare un ticket di supporto che menzioni il problema, "pulsante nuovo affare disattivato dopo la migrazione di CPS".
 
-**Q4. È possibile assegnare gli accordi a un utente specifico dell'organizzazione, ad esempio PSC?**
+### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4-è possibile assegnare gli accordi a un utente specifico dell'organizzazione, ad esempio PSC?
 
-È possibile assegnare i membri del team a un affare specifico. Non impedisce ad altri amministratori di riferimento di visualizzare o agire su tali offerte. 
+È possibile assegnare i membri del team a un affare specifico. Non impedisce ad altri amministratori di riferimento di visualizzare o agire su tali offerte.
 
-**Q5. È possibile visualizzare tutte le offerte assegnate all'utente?**
+### <a name="5---is-there-a-view-of-all-the-deals-assigned-to-me"></a>5: è disponibile una vista di tutte le offerte assegnate all'utente?
 
-È possibile utilizzare la funzionalità Preferiti, ovvero una scheda livello utente. È possibile contrassegnare tutte le offerte che vengono assegnate come preferiti per ottenere un accesso rapido alle offerte.
+È possibile usare la funzionalità Preferiti, che è una scheda a livello di utente. È possibile contrassegnare tutte le offerte che vengono assegnate come preferiti per ottenere un accesso rapido alle offerte.
 
-**Q6. Esiste una visualizzazione di sola lettura per le offerte?**
+### <a name="6---is-there-a-read-only-view-for-the-deals"></a>6: esiste una visualizzazione di sola lettura per le offerte?
 
 No, non è disponibile alcuna visualizzazione di sola lettura delle offerte nella sezione dei riferimenti. Tutti gli amministratori dei riferimenti avranno accesso completo in lettura e scrittura a tutte le offerte.
 
-**Q7. Come è possibile registrare una transazione dopo averla vinta?**
+### <a name="7---how-can-i-register-a-deal-after-marking-it-as-won"></a>7-come è possibile registrare una transazione dopo averla contrassegnata come vinta?
 
 Se il problema soddisfa i criteri indicati di seguito, viene visualizzata una finestra popup per avviare la [registrazione dell'accordo](./register-deals.md).
 
@@ -227,35 +289,35 @@ Se il problema soddisfa i criteri indicati di seguito, viene visualizzata una fi
 - Il venditore Microsoft è invitato a partecipare all'affare oppure ha invitato l'utente all'affare.
 - La scheda Microsoft è nello stato accettato o vinto nel centro per i partner.
 
-**(Domanda 8. Viene ricevuto un messaggio di errore quando si fa clic sul pulsante "+ New Deal Registration" nella sezione relativa alla registrazione dell'accordo. Come è possibile registrare le offerte?**
+### <a name="8---i-get-an-error-message-when-i-select-the-new-deal-registration-button-in-the-deal-registration-section-how-can-i-register-my-deals"></a>8-viene ricevuto un messaggio di errore quando si seleziona il pulsante "+ nuova registrazione per la registrazione" nella sezione relativa alla registrazione dell'accordo. Come è possibile registrare le offerte?
 
-La registrazione "+ New Deal" deve essere usata solo dai partner registrati nel programma ISV Connect per la registrazione di una trattativa senza opportunità di co-selling corrispondenti nel centro per i partner. Per la registrazione di un'opportunità di co-selling, viene visualizzata una finestra popup quando l'accordo è contrassegnato come vinto e soddisfa i criteri per la registrazione dell'accordo.
+Il pulsante **+ nuovo contratto di registrazione** deve essere usato solo dai partner registrati nel programma ISV Connect per la registrazione di una trattativa senza opportunità di co-selling corrispondenti nel centro per i partner. Per la registrazione di un'opportunità di co-selling, viene visualizzata una finestra popup quando l'accordo è contrassegnato come vinto e soddisfa i criteri per la registrazione dell'accordo.
 
-**Q9. L'aggiunta di un'organizzazione cliente è obbligatoria?**
+### <a name="9---is-adding-a-customer-organization-mandatory"></a>9-l'aggiunta di un'organizzazione cliente è obbligatoria?
 
 Sì, l'aggiunta di un' [organizzazione cliente](./manage-co-sell-opportunities.md#select-your-customer) è obbligatoria nel centro per i partner. Per iniziare, cercare il percorso in cui si trova il cliente. In base ai dettagli disponibili; è possibile essere specifici, tra cui il nome esatto della compilazione, o fornire solo i dettagli della città. La ricerca nell'organizzazione recupererà tutte le entità legali che corrispondono al nome immesso, in modo da non dover immettere i dettagli degli indirizzi. Tutti i dettagli vengono compilati automaticamente in base all'organizzazione selezionata.
 
-**Q10. I dettagli del contatto del cliente sono obbligatori?**
+### <a name="10---are-customer-contact-details-mandatory"></a>10-i dettagli del contatto del cliente sono obbligatori?
 
 Dipende dal [tipo di problema](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) che si sta creando. Se si sta semplicemente condividendo la pipeline senza richiedere assistenza da parte di Microsoft Sales Organization, è possibile scegliere di non fornire i dettagli di contatto del cliente. Se si sta eseguendo la co-selling in cui si cerca attivamente assistenza da parte del venditore Microsoft, sarà necessario fornire i dettagli di contatto del cliente. Prima di creare una richiesta di co-selling nel centro per i partner, si dovrebbe ottenere il consenso esplicito del cliente.
 
-**Q11. Quante soluzioni è possibile aggiungere a una trattativa?**
+### <a name="11---how-many-solutions-can-i-add-to-a-deal"></a>11-Quante soluzioni è possibile aggiungere a una trattativa?
 
 È possibile aggiungere fino a un massimo di 50 soluzioni, in modo analogo a "prodotti" in CPS. A differenza di PSC, è possibile combinare soluzioni da soluzioni di co-selling personalizzate, SKU Microsoft e altre soluzioni idonee per la co-selling di terze parti. Non è presente alcun ruolo di gestione che deve essere selezionato o disponibile nel centro per i partner. Per gli SKU Microsoft, è possibile aggiungere facoltativamente la quantità e il prezzo per ogni SKU aggiunto al problema.
 
-**Q12. Quando si riceveranno informazioni dettagliate sui venditori Microsoft dopo la creazione di una trattativa?**
+### <a name="12---when-will-i-get-to-know-the-microsoft-seller-details-after-creating-a-deal"></a>12: quando si riceveranno informazioni dettagliate sui venditori Microsoft dopo la creazione di una trattativa?
 
 I venditori Microsoft vengono assegnati solo dopo la corrispondenza del requisito esatto della Guida indicato durante la creazione dell'affare con la persona venditore pertinente sul lato Microsoft. Anche dopo l'assegnazione, i venditori Microsoft avranno la possibilità di accettare o rifiutare l'invito al co-selling. Solo se un invito al co-selling viene accettato da un venditore, l'operazione verrà aggiornata con i dettagli di contatto del venditore Microsoft. Il contratto di contratto per i venditori Microsoft che operano sull'accordo è di 14 giorni. Si tratta dello stesso contratto di prezzo che i partner devono agire prima di passare allo stato scaduto.
 
-**Q13. Dove è possibile trovare l'ID opportunità?**
+### <a name="13---where-can-i-find-the-opportunity-id"></a>13-dove è possibile trovare l'ID opportunità?
 
 L'ID opportunità in PSC è identico a quello dell'ID dell'accordo in PC. È possibile trovare l'ID dell'affare accanto al nome dell'affare quando si apre qualsiasi affare.
 
-**Q14. In che modo il PDM può accedere al PC?**
+### <a name="14---how-can-my-pdm-get-access-to-pc"></a>14: come può ottenere l'accesso al PC da PDM?
 
 Non è possibile accedere direttamente al centro per i partner PDM a differenza di PSC. Sono disponibili più opzioni per abilitare questa funzionalità, come indicato di seguito.
 
-- Informazioni dettagliate su OCP: se PDM sono semplicemente in grado di visualizzare le offerte & stato di avanzamento correlato, possono usare il portale di OCP Insights per ottenere la visualizzazione dell'organizzazione. Si tratta di uno strumento interno ed è disponibile solo per PDM. Si noti che OCP Insights non è disponibile per gli utenti della società.
+- OCP Insights: se PDM Visualizza solo le offerte e lo stato di avanzamento correlati, è possibile usare il portale di OCP Insights per ottenere la visualizzazione dell'organizzazione. Si tratta di uno strumento interno ed è disponibile solo per PDM. Si noti che OCP Insights non è disponibile per gli utenti della società.
 - Utente guest in centro per i partner: è possibile aggiungere l' @microsoft.com account PDM come utente Guest nel centro per i partner e assegnare loro un ruolo di amministratore in modo che possano visualizzare e agire sui riferimenti.
 - Creazione di un [nuovo utente](./create-user-accounts-and-set-permissions.md#add-a-new-user) nel tenant: è possibile creare un nuovo utente nel tenant e condividere i dettagli con il PDM in modo che possano visualizzare i riferimenti e agire su di essi in modo analogo ad altri utenti di riferimento nell'account.
 

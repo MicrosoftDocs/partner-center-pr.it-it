@@ -5,15 +5,15 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663882"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755640"
 ---
-# <a name="vat-info"></a>Informazioni sull'IVA
+# <a name="value-added-tax-vat-information"></a>Valore aggiunto per le imposte (IVA)
 
 **Si applica a:**
 
@@ -25,6 +25,24 @@ Se viene richiesto di fornire un numero di ID IVA durante il processo di registr
 ## <a name="understanding-vat-numbers"></a>Capire i numeri della partita IVA
 
 Il numero di imposta sul valore aggiunto (IVA) è un identificativo usato nei paesi o nelle aree geografiche dell'Unione Europea. Per ulteriori informazioni, vedere il [sito](http://ec.europa.eu/taxation_customs/vies/vieshome.do)ufficiale di interoperabilità di Unione europea.
+
+## <a name="location-specific-vat-information"></a>Informazioni sull'IVA specifiche della località
+
+I dettagli seguenti sono univoci per i paesi o le aree elencate di seguito.
+
+### <a name="european-union"></a>Unione Europa
+
+Negli stati membri dell'Unione europea i partner devono fornire il numero di partita IVA valido per l'inversione contabile e la fatturazione appropriata. Il numero di partita IVA deve essere accettato come valido.
+
+Microsoft non supporta il credito e la fatturazione. Prima di vendere le sottoscrizioni, è necessario [registrare il numero di ID IVA](organization-tax-info.md) nel centro per i partner.
+
+### <a name="south-africa"></a>Sudafrica
+
+Microsoft ora applica l'IVA standard ai contenuti digitali e ai servizi acquistati dai partner in Sudafrica. Per escludere l'IVA dalle fatture e gestirla autonomamente, è necessario aggiornare il profilo di fatturazione del partner [inviando a Microsoft il numero di ID IVA](organization-tax-info.md).
+
+### <a name="turkey"></a>Turchia
+
+Microsoft ora applica l'IVA standard ai contenuti digitali e ai servizi acquistati dai partner in Turchia. Per escludere l'IVA dalle fatture e gestirla autonomamente, è necessario aggiornare il profilo di fatturazione del partner [inviando a Microsoft il numero di ID IVA](organization-tax-info.md).
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Formati accettati per i numeri di partita IVA
 

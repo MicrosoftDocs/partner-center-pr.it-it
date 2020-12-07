@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/19/2020
-ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.date: 12/03/2020
+ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932770"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570757"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
 Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste informazioni vengono aggiornate di frequente, pertanto è importante consultarle di frequente.
 
-| **Categoria** | **Annunci di novembre 2020** | **Annunciato** |
+| **Categoria** | **Annunci di dicembre 2020** | **Annunciato** |
 |---------|:---------|:---------|
+|Offerte/mercati|[Aggiornamento dell'offerta Microsoft 365 Business Voice per gli Stati Uniti con piano per chiamate presto disponibile](2020-december.md#2)|3 dicembre|
+|Capabilities|[Ora disponibile: aggiornamenti delle API e miglioramenti dell'interfaccia utente del Centro per i partner per il processo di convalida dei clienti del settore della formazione](2020-december.md#1)|3 dicembre|
+| **Categoria** | **Annunci di novembre 2020** | **Annunciato** |
 |Funzionalità|[Nuova esperienza di gestione degli account unificata](2020-november.md#13)|18 novembre|
 |Offerte/mercati|[Promozione di Office 365 E1 per il mercato delle medie aziende (LATAM, APAC e India)](2020-november.md#12)|18 novembre|
 |Funzionalità|[Aggiornamenti dell'API del Centro per i partner e miglioramenti dell'interfaccia utente per rafforzare la selezione dei clienti in determinati paesi](2020-november.md#11)|17 novembre|

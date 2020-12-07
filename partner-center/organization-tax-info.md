@@ -1,7 +1,7 @@
 ---
-title: Aggiungere o inviare un ID IVA per le imposte aziendali
+title: Aggiungere un ID IVA per le imposte aziendali
 ms.topic: article
-ms.date: 04/28/2020
+ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Le imposte per gli acquisti del Centro per i partner sono determinate dall'indirizzo aziendale. Le aziende in alcuni paesi possono fornire il proprio numero di partita IVA o equivalente locale.
@@ -9,42 +9,33 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 476b56061a342867780e07133c882a4e6a04b73d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4db0c81bf9f92975cc119215de76565e6acbadbd
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948998"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755623"
 ---
-# <a name="company-tax-information-and-how-to-add-or-submit-vat-ids-for-partner-center-purchases"></a><span data-ttu-id="b3a17-104">Informazioni fiscali aziendali e come aggiungere o inviare ID IVA per gli acquisti del centro per i partner</span><span class="sxs-lookup"><span data-stu-id="b3a17-104">Company tax information and how to add or submit VAT IDs for Partner Center purchases</span></span>
+# <a name="add-a-vat-id-to-your-billing-profile"></a><span data-ttu-id="7d15b-104">Aggiungere un ID IVA al profilo di fatturazione</span><span class="sxs-lookup"><span data-stu-id="7d15b-104">Add a VAT ID to your billing profile</span></span>
 
-<span data-ttu-id="b3a17-105">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="b3a17-105">**Applies to**</span></span>
+<span data-ttu-id="7d15b-105">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="7d15b-105">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="b3a17-106">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="b3a17-106">Partner Center</span></span>
+- <span data-ttu-id="7d15b-106">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="7d15b-106">Global admin</span></span>
+- <span data-ttu-id="7d15b-107">Amministratore utenti</span><span class="sxs-lookup"><span data-stu-id="7d15b-107">User admin</span></span>
+- <span data-ttu-id="7d15b-108">Amministratore fatturazione</span><span class="sxs-lookup"><span data-stu-id="7d15b-108">Billing admin</span></span>
+- <span data-ttu-id="7d15b-109">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="7d15b-109">Admin agent</span></span>
+- <span data-ttu-id="7d15b-110">Agente di vendita</span><span class="sxs-lookup"><span data-stu-id="7d15b-110">Sales agent</span></span>
 
-<span data-ttu-id="b3a17-107">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="b3a17-107">**Appropriate roles**</span></span>
--   <span data-ttu-id="b3a17-108">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="b3a17-108">Global admin</span></span>
--   <span data-ttu-id="b3a17-109">Amministratore utenti</span><span class="sxs-lookup"><span data-stu-id="b3a17-109">User admin</span></span>
--   <span data-ttu-id="b3a17-110">Amministratore fatturazione</span><span class="sxs-lookup"><span data-stu-id="b3a17-110">Billing admin</span></span>
--   <span data-ttu-id="b3a17-111">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="b3a17-111">Admin agent</span></span>
--   <span data-ttu-id="b3a17-112">Agente di vendita</span><span class="sxs-lookup"><span data-stu-id="b3a17-112">Sales agent</span></span>
+<span data-ttu-id="7d15b-111">È possibile utilizzare la procedura seguente per aggiornare il profilo di fatturazione in modo da includere l'ID IVA.</span><span class="sxs-lookup"><span data-stu-id="7d15b-111">You can use the following procedure to update your billing profile to include your VAT ID.</span></span> <span data-ttu-id="7d15b-112">Si noti che questo potrebbe non essere possibile nel paese o nell'area geografica.</span><span class="sxs-lookup"><span data-stu-id="7d15b-112">(Note that this may not be possible in your country or region.)</span></span>
 
-<span data-ttu-id="b3a17-113">Le imposte per gli acquisti del Centro per i partner sono determinate dall'indirizzo aziendale.</span><span class="sxs-lookup"><span data-stu-id="b3a17-113">Taxes for Partner Center purchases are determined by your business address.</span></span> <span data-ttu-id="b3a17-114">Le aziende in alcuni paesi possono [specificare il numero di Imposta sul Valore Aggiunto (IVA)](#submit-vat-id-number) o l'equivalente locale.</span><span class="sxs-lookup"><span data-stu-id="b3a17-114">Businesses in some countries can [provide their value-added tax (VAT) number](#submit-vat-id-number) or local equivalent.</span></span>
+## <a name="update-your-billing-profile-with-your-vat-id"></a><span data-ttu-id="7d15b-113">Aggiornare il profilo di fatturazione con l'ID IVA</span><span class="sxs-lookup"><span data-stu-id="7d15b-113">Update your billing profile with your VAT ID</span></span>
 
-### <a name="add-your-vat-id"></a><span data-ttu-id="b3a17-115">Aggiungere l'ID IVA</span><span class="sxs-lookup"><span data-stu-id="b3a17-115">Add your VAT ID</span></span>
+1. <span data-ttu-id="7d15b-114">Accedere al dashboard del [centro](https://partner.microsoft.com/dashboard/)per i partner.</span><span class="sxs-lookup"><span data-stu-id="7d15b-114">Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
+2. <span data-ttu-id="7d15b-115">Nel menu **Impostazioni** (icona a forma di ingranaggio) scegliere **Impostazioni partner**.</span><span class="sxs-lookup"><span data-stu-id="7d15b-115">In the **Settings** menu (gear icon), choose **Partner Settings**.</span></span>
+3. <span data-ttu-id="7d15b-116">Nella pagina **Impostazioni account** scegliere Profilo di **fatturazione partner** dal menu pagina.</span><span class="sxs-lookup"><span data-stu-id="7d15b-116">On the **Account settings** page, choose **Partner billing profile** on the page menu.</span></span>
+4. <span data-ttu-id="7d15b-117">Nella sezione **dati finanziari** scegliere **Aggiorna**.</span><span class="sxs-lookup"><span data-stu-id="7d15b-117">In the **Financial data** section, choose **Update**.</span></span>
+5. <span data-ttu-id="7d15b-118">Per **ID fiscale aziendale** specificare il numero di ID IVA.</span><span class="sxs-lookup"><span data-stu-id="7d15b-118">For **Company Tax ID**, specify your VAT ID number.</span></span>
 
-<span data-ttu-id="b3a17-116">Per modificare il profilo di fatturazione, è necessario essere un amministratore globale, un amministratore della fatturazione o un agente di amministrazione.</span><span class="sxs-lookup"><span data-stu-id="b3a17-116">You must be a global admin, billing admin, or admin agent to  edit the billing profile.</span></span>
+## <a name="next-steps"></a><span data-ttu-id="7d15b-119">Passaggi successivi</span><span class="sxs-lookup"><span data-stu-id="7d15b-119">Next steps</span></span>
 
-1.  <span data-ttu-id="b3a17-117">Dal **Dashboard del centro** per i partner passare a **Impostazioni** e quindi selezionare profilo di **fatturazione**.</span><span class="sxs-lookup"><span data-stu-id="b3a17-117">From the **Partner Center dashboard** go to  **Settings** and then select **Billing profile**.</span></span>
-2.  <span data-ttu-id="b3a17-118">Nella sezione **dati finanziari** selezionare **Aggiorna**.</span><span class="sxs-lookup"><span data-stu-id="b3a17-118">In the **Financial data** section, select **Update**.</span></span>
-3.  <span data-ttu-id="b3a17-119">Nel campo **ID imposta azienda** immettere il numero di ID IVA.</span><span class="sxs-lookup"><span data-stu-id="b3a17-119">In the **Company Tax ID** field, enter your VAT ID number.</span></span>
-
-## <a name="submit-vat-id-number"></a><span data-ttu-id="b3a17-120">Invia il numero di ID IVA</span><span class="sxs-lookup"><span data-stu-id="b3a17-120">Submit VAT ID number</span></span>
-
-<span data-ttu-id="b3a17-121">Se applicabile, attenersi alla procedura seguente per inviare a Microsoft il numero di ID IVA (IVA) aggiunto al valore:</span><span class="sxs-lookup"><span data-stu-id="b3a17-121">If applicable, follow these steps to send Microsoft your value-added tax (VAT) ID number:</span></span>
-
-1. <span data-ttu-id="b3a17-122">Accedere al [Dashboard del centro per i partner](https://partner.microsoft.com/dashboard/).</span><span class="sxs-lookup"><span data-stu-id="b3a17-122">Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
-2. <span data-ttu-id="b3a17-123">Nel menu **Impostazioni** (icona a forma di ingranaggio) scegliere **Impostazioni partner**.</span><span class="sxs-lookup"><span data-stu-id="b3a17-123">In the **Settings** menu (gear icon), choose **Partner Settings**.</span></span>
-3. <span data-ttu-id="b3a17-124">Nella pagina **Impostazioni account** scegliere Profilo di **fatturazione partner** dal menu pagina.</span><span class="sxs-lookup"><span data-stu-id="b3a17-124">On the **Account settings** page, choose **Partner billing profile** on the page menu.</span></span>
-4. <span data-ttu-id="b3a17-125">Nella sezione **dati finanziari** scegliere **Aggiorna**.</span><span class="sxs-lookup"><span data-stu-id="b3a17-125">In the **Financial data** section, choose **Update**.</span></span>
-5. <span data-ttu-id="b3a17-126">Per **ID fiscale aziendale**specificare il numero di ID IVA.</span><span class="sxs-lookup"><span data-stu-id="b3a17-126">For **Company Tax ID**, specify your VAT ID number.</span></span>
+- [<span data-ttu-id="7d15b-120">Imposte ed esenzioni fiscali</span><span class="sxs-lookup"><span data-stu-id="7d15b-120">Tax and tax exemptions</span></span>](tax-and-tax-exemptions.md)

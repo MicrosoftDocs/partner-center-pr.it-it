@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 12/04/2020
-ms.openlocfilehash: 5a1b27f108440fc9adfc2cefefd2e4c2bf79ff48
-ms.sourcegitcommit: 558533fb39b13aefc3ab2b015145a908f86f8d7d
+ms.date: 12/07/2020
+ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
+ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "96612823"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96776909"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
 
@@ -66,22 +66,22 @@ Dal menu di spostamento a sinistra del centro per i partner selezionare l'opzion
   >[!Note]
   > Potrebbe essere necessario disconnettersi dal centro per i partner e accedere di nuovo per aggiornare le credenziali per l'accesso alle pagine dei riferimenti.
 
-Se non viene visualizzata l'opzione **riferimenti** nel menu del centro per i partner o nelle pagine correlate ai riferimenti, contattare l' [amministratore globale](permissions-overview.md) dell'azienda e chiedere di concedere l'accesso all'opzione relativa ai **riferimenti** e all'area correlata. 
+Se non viene visualizzata l'opzione **riferimenti** nel menu del centro per i partner o nelle pagine correlate ai riferimenti, contattare l' [amministratore dell'account](permissions-overview.md) aziendale e chiedere di concedere l'accesso all'opzione relativa ai **riferimenti** e all'area correlata.
 
-Per trovare l'amministratore globale della società:
+Per trovare l'amministratore dell'account aziendale:
 
 1. Selezionare **Impostazioni account** dall'icona a forma di ingranaggio nella parte superiore destra del dashboard del centro per i partner.
 
-1. Selezionare **Gestione utenti** dal menu di spostamento a sinistra di secondo livello. 
+1. Selezionare **Gestione utenti** dal menu di spostamento a sinistra di secondo livello.
 
-1. Nella parte superiore dell'elenco utenti selezionare il menu a discesa **filtro** . Modificare l'opzione in **amministratore globale**.
+1. Nella parte superiore dell'elenco utenti selezionare il menu a discesa **filtro** . Modificare l'opzione di **amministratore account**.
 
-   La pagina visualizzerà tutti gli amministratori globali con i rispettivi indirizzi di posta elettronica. Inviare un messaggio di posta elettronica a uno di essi e chiedere di assegnare il ruolo di amministratore dei riferimenti per l'account aziendale.
+   La pagina visualizzerà tutti gli amministratori dell'account con i rispettivi indirizzi di posta elettronica. Inviare un messaggio di posta elettronica a uno di essi e chiedere di assegnare il ruolo di amministratore dei riferimenti per l'account aziendale.
 
   :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Immagine che Mostra gli amministratori dell'account nella pagina Gestione utenti delle impostazioni partner.":::
 
 >[!Important]
->- Se il ruolo prevede solo la gestione degli utenti in CPS, richiedere all'amministratore globale dell'azienda di assegnare il ruolo di [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) nel centro per i partner. 
+>- Se il ruolo prevede solo la gestione degli utenti in CPS, richiedere all'amministratore dell'account aziendale di assegnare il ruolo di [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) nel centro per i partner. 
 >- Se il ruolo include anche la gestione delle opportunità di co-selling, richiedere l'assegnazione del ruolo di [amministratore dei riferimenti](permissions-overview.md#manage-referrals) .
 > - È consigliabile anche designare un responsabile della gestione delle modifiche tra gli amministratori del CPS. In tal modo si impedirà a tutti gli amministratori del CPS di dover contattare singolarmente gli amministratori dell'account del centro per i partner. Al contrario, il responsabile della gestione delle modifiche può essere la persona principale che lavora con l'amministratore dell'account del centro per i partner.
 
@@ -129,7 +129,7 @@ In alcuni casi, la migrazione può avere esito negativo e causare errori. Ecco a
 
 Dopo aver completato la migrazione degli utenti, usare le linee guida seguenti per decidere la strategia di migrazione:
 
-Se la società dispone di un PDM-quando l'account del centro per i partner è configurato e gli utenti sono stati spostati e hanno ruoli e autorizzazioni, è possibile spostare le attività di co-selling nel centro per i partner. Informare il PDM per eseguire il compartimento invece di attendere il completamento della scadenza della migrazione, in modo da consentire l'esecuzione di tutte le nuove offerte nel centro per i partner.
+Se la società ha un partner Development Manager (PDM): quando l'account del centro per i partner è configurato e gli utenti sono passati e hanno ruoli e autorizzazioni, è possibile spostare le attività di co-selling nel centro per i partner. Informare il PDM per eseguire il compartimento invece di attendere il completamento della scadenza della migrazione, in modo da consentire l'esecuzione di tutte le nuove offerte nel centro per i partner.
 
 >[!Note]
 >Una volta eseguito questo passaggio, sarà possibile agire solo sulle operazioni attive esistenti in CPS. Non è possibile creare nuove trattative né ricevere offerte da Microsoft Sellers in PSC.
@@ -137,7 +137,7 @@ Se la società dispone di un PDM-quando l'account del centro per i partner è co
 Se la società non dispone di un PDM, assicurarsi che tutti gli account utente siano configurati e verificati da tutti gli utenti. Si riceverà una notifica tramite un messaggio di posta elettronica e un banner in PSC relativi alla data esatta in cui è possibile avviare la co-selling nel centro per i partner. Tenere presente che sarà comunque necessario gestire le operazioni attive esistenti in CPS.
 
 >[!Important]
->Non verrà eseguita la migrazione delle offerte attive al PC. Fino al 31 dicembre 2020 per chiudere e registrare le offerte.
+>Non verrà eseguita la migrazione delle offerte attive al PC. Fino al 31 marzo 2021 per chiudere e registrare le offerte.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Passaggi successivi per gli amministratori del CPS, i gestori di Deal e i venditori del PSC
 
@@ -263,7 +263,7 @@ Le sezioni seguenti rispondono a domande frequenti sulla migrazione.
 
 ### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2-chi può concedere l'accesso alla sezione relativa ai riferimenti in centro per i partner?
 
-L' [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) può concedere l'accesso alla scheda riferimenti. Per trovare l'amministratore globale, selezionare **Impostazioni account** dall'icona a forma di ingranaggio nella parte superiore destra del [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner. Selezionare quindi **Gestione utenti** nella barra di spostamento di secondo livello a sinistra. Nella parte superiore dell'elenco utenti selezionare il menu a discesa **filtro** e impostare l'opzione su **amministratore globale**. La pagina visualizzerà tutti gli amministratori globali con i rispettivi indirizzi di posta elettronica. Chiedere a uno di loro di assegnare il ruolo di amministratore di riferimento per l'account aziendale.
+L' [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) può concedere l'accesso alla scheda riferimenti. Per trovare l'amministratore dell'account, selezionare **Impostazioni account** dall'icona a forma di ingranaggio nella parte superiore destra del [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner. Selezionare quindi **Gestione utenti** nella barra di spostamento di secondo livello a sinistra. Nella parte superiore dell'elenco di utenti selezionare il menu a discesa **filtro** e modificare l'opzione di **amministratore account**. La pagina visualizzerà tutti gli amministratori dell'account con i rispettivi indirizzi di posta elettronica. Chiedere a uno di loro di assegnare il ruolo di amministratore di riferimento per l'account aziendale.
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3: il pulsante + nuovo affare è disattivato per l'account. Cosa devo fare per iniziare a creare le offerte?
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114096"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926662"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programma mercati e valute internazionali in cui è possibile vendere offerte CSP
 
@@ -43,23 +43,23 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 
 | Paese/Area geografica           | Valuta |
 | ------------------------ |:--------:|
-| Angola                   |          |
+| Angola                   |   USD    |
 | Benin                    |   USD    |
-| Botswana                 |          |
+| Botswana                 |   USD    |
 | Burkina Faso             |   USD    |
 | Burundi                  |   USD    |
 | Camerun                 |   USD    |
-| Cabo Verde               |          |
+| Cabo Verde               |   USD    |
 | Repubblica Centrafricana |   USD    |
 | Ciad                     |   USD    |
 | Comore                  |   USD    |
 | Congo                    |   USD    |
 | Congo (RDC)              |   USD    |
-| Côte d’Ivoire (Costa d'Avorio)            |          |
+| Côte d’Ivoire (Costa d'Avorio)            |   USD    |
 | Gibuti                 |   USD    |
 | Guinea Equatoriale        |   USD    |
 | Eritrea                  |   USD    |
-| Etiopia                 |          |
+| Etiopia                 |   USD    |
 | Polinesia Francese         |   USD    |
 | Gabon                    |   USD    |
 | Gambia                   |   USD    |
@@ -80,7 +80,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 | Riunione                  |   USD    |
 | Ruanda                   |   USD    |
 | São Tomé e Príncipe    |   USD    |
-| Senegal                  |          |
+| Senegal                  |   USD    |
 | Seychelles               |   USD    |
 | Sierra Leone             |   USD    |
 | Somalia                  |   USD    |
@@ -88,8 +88,8 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 | Sant'Elena, Ascensione, Tristan da Cunha|    USD   |
 | Tanzania                 |   USD    |
 | Togo                     |   USD    |
-| Uganda                   |          |
-| Zambia                   |          |
+| Uganda                   |   USD    |
+| Zambia                   |   USD    |
 |
 
 ## <a name="asia-and-pacific-region-and-market"></a>Area Asia e Pacifico e mercato
@@ -99,17 +99,17 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 | Paese/Area geografica     | Valuta |
 | --------------     |:--------:|
 |  Bangladesh        |   USD    |
-|  Bhutan            |          |
+|  Bhutan            |   USD    |
 |  Brunei Darussalam |   USD    |
-|  Cambogia          |          |
+|  Cambogia          |   USD    |
 |  RAS di Hong Kong         |   USD    |
 |  Indonesia         |   USD    |
-|  Laos              |          |
+|  Laos              |   USD    |
 |  Macao - R.A.S.             |   USD    |
 |  Malaysia          |   USD    |
-|  Maldive          |          |
-|  Myanmar           |          |
-|  Nepal             |          |
+|  Maldive          |   USD    |
+|  Myanmar           |   USD    |
+|  Nepal             |   USD    |
 |  Filippine       |   USD    |
 |  Singapore         |   USD    |
 |  Sri Lanka         |   USD    |
@@ -179,10 +179,10 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Austria        |   EUR    |
 |  Belgio        |   EUR    |
 |  Isola Bouvet  |   EUR    |
-|  Bulgaria       |          |
+|  Bulgaria       |   EUR    |
 |  Croazia        |   EUR    |
-|  Cipro         |          |
-|  Repubblica Ceca |   EUR    |
+|  Cipro         |   EUR    |
+|  Repubblica ceca |   EUR    |
 |  Danimarca        |   DKK    |
 |  Estonia        |   EUR    |
 |  Isole Fær Øer  |   EUR    |
@@ -191,7 +191,7 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Germania        |   EUR    |
 |  Gibilterra      |   GBP    |
 |  Grecia         |   EUR    |
-|  Groenlandia      |          |
+|  Groenlandia      |   EUR    |
 |  Guernsey       |   GBP    |
 |  Ungheria        |   EUR    |
 |  Islanda        |   EUR    |
@@ -203,8 +203,8 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Liechtenstein  |   EUR    |
 |  Lituania      |   EUR    |
 |  Lussemburgo     |   EUR    |
-|  Malta          |          |
-|  Monaco         |          |
+|  Malta          |   EUR    |
+|  Monaco         |   EUR    |
 |  Paesi Bassi    |   EUR    |
 |  Norvegia         |   NOK    |
 |  Polonia         |   EUR    |
@@ -278,13 +278,13 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Isole Falkland|  USD    |
 |  Guayana francese  |   USD    |
 |  Grenada        |   USD    |
-|  Guadalupa     |          |
+|  Guadalupa     |   USD    |
 |  Guatemala      |   USD    |
 |  Guyana         |   USD    |
 |  Haiti          |   USD    |
 |  Honduras       |   USD    |
 |  Giamaica        |   USD    |
-|  Martinica     |          |
+|  Martinica     |   USD    |
 |  Messico         |   USD    |
 |  Montserrat     |   USD    |
 |  Nicaragua      |   USD    |
@@ -315,9 +315,9 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 
 |  Paese/Area geografica | Valuta |
 |  -------------- |:--------:|
-|  Afghanistan    |          |
+|  Afghanistan    |   USD    |
 |  Albania        |   USD    |
-|  Algeria        |          |
+|  Algeria        |   USD    |
 |  Armenia        |   USD    |
 |  Azerbaigian     |   USD    |
 |  Bahrain        |   USD    |
@@ -328,21 +328,21 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Georgia        |   USD    |
 |  Iraq           |   USD    |
 |  Israele         |   USD    |
-|  Giordania         |          |
+|  Giordania         |   USD    |
 |  Kazakhstan     |   USD    |
 |  Kosovo         |   USD    |
 |  Kuwait         |   USD    |
 |  Kirghizistan     |   USD    |
 |  Libano        |   USD    |
 |  Lesotho        |   USD    |
-|  Libia          |          |
+|  Libia          |   USD    |
 |  Macedonia, Repubblica di|   |
 |  Mauritania     |   USD    |
-|  Moldova        |          |
-|  Mongolia       |          |
-|  Montenegro     |          |
+|  Moldova        |   USD    |
+|  Mongolia       |   USD    |
+|  Montenegro     |   USD    |
 |  Marocco        |   USD    |
-|  Mozambico     |          |
+|  Mozambico     |   USD    |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
 |  Territori Palestinesi, Occupati |        |
@@ -351,15 +351,15 @@ Se la sede della società è nell'elenco seguente, è possibile vendere le offer
 |  Serbia         |   USD    |
 |  Sudafrica   |   USD    |
 |  Swaziland      |   USD    |
-|  Tagikistan     |          |
+|  Tagikistan     |   USD    |
 |  Tunisia        |   USD    |
 |  Turchia         |   USD    |
-|  Turkmenistan   |          |
+|  Turkmenistan   |   USD    |
 |  Ucraina        |   USD    |
 |  Emirati Arabi Uniti| USD |
-|  Uzbekistan     |          |
+|  Uzbekistan     |   USD    |
 |  Yemen          |   USD    |
-|  Zimbabwe       |          |
+|  Zimbabwe       |   USD    |
 |
 
 ## <a name="new-zealand-region-and-market"></a>Regione e mercato della Nuova Zelanda

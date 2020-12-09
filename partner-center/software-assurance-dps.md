@@ -1,7 +1,7 @@
 ---
 title: Servizi di pianificazione di Software Assurance
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Scopri come iscriverti e qualificarti per gli impegni di Microsoft Planning Services, in modo da poter offrire formazione e altri servizi ai clienti con Software Assurance.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c61a649da7e4983be1a478fdd963ba937e7783b
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88092029"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926645"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Servizi di pianificazione Software Assurance nel Centro per i partner
 
@@ -42,10 +42,9 @@ Questo articolo illustra come completare ogni passaggio.
 
 ## <a name="verify-eligibility-new-partners"></a>Verifica idoneità (nuovi partner)
 
-Prima che le aziende partner e i consulenti possano iscriversi a una delle offerte di servizi di pianificazione, devono soddisfare i requisiti di formazione per la conformità e la competenza:
+Prima che le aziende partner e i consulenti possano iscriversi a una delle offerte di servizi di pianificazione, devono soddisfare i requisiti di competenza, come indicato di seguito:
 
-- **Requisiti di training di conformità.** I requisiti di formazione per la conformità del programma devono essere soddisfatti a livello di società.
-- **Requisiti di competenza.** I requisiti di competenza sono specifici del coinvolgimento da recapitare. Ad esempio, l'azienda potrebbe essere registrata nell'offerta Desktop Deployment Planning Services (DDPS). Tuttavia, l'utente sarà idoneo a fornire solo un impegno specifico all'interno dell'offerta DDPS se la società dispone anche di una competenza idonea per il coinvolgimento specifico.
+**Requisiti di competenza.** I requisiti di competenza sono specifici del coinvolgimento da recapitare. Ad esempio, l'azienda potrebbe essere registrata nell'offerta Desktop Deployment Planning Services (DDPS). Tuttavia, l'utente sarà idoneo a fornire solo un impegno specifico all'interno dell'offerta DDPS se la società dispone anche di una competenza idonea per il coinvolgimento specifico.
 
 >[!NOTE]
 > Per altre informazioni sui requisiti di idoneità per specifici impegni, [vedere requisiti di idoneità per la pianificazione dei servizi](software-assurance-dps-requirements.md).

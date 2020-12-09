@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e06194bd83b5a2c9c2ed32ee32d4b4220a42dcf
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114731"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869283"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Passaggio dall'interfaccia di amministrazione partner (PAC) al Centro per i partner
 
@@ -31,14 +31,11 @@ Il Centro per i partner sta diventando l'unica posizione in cui gestirai la part
 |**Azione**   |**PAC**   |**Centro per i partner**   |
 |--------------|:--------------|:---------------|
 |La panoramica generale delle attività dell'account e dei clienti|Schermata Home|Centro per i partner|
-|Acquisire nuovi clienti e fornire le offerte per servizi a pagamento e versioni di valutazione|Sviluppo del business -> Invia offerta|Le offerte a pagamento non sono disponibili. Le versioni di valutazione CSP sono disponibili se il partner consulente viene convertito in un rivenditore indiretto CSP e associato a un provider indiretto CSP che supporta le versioni di prova. |
-|Richiedere relazioni|(Rivenditori e consulenti) Sviluppo del business -> Invia richiesta DAP|(Rivenditori e consulenti) Clienti -> Richiedi una relazione come rivenditore (vedi la nota seguente)|
+|Acquisire nuovi clienti e fornire le offerte per servizi a pagamento e versioni di valutazione|Sviluppo del business -> Invia offerta|Centro per i partner: > di valutazione e offerte di acquisto |
+|Richiedere relazioni|(Rivenditori e consulenti) Sviluppo del business -> Invia richiesta DAP|Clienti-> richiedere una relazione (vedere la nota di seguito)|
 |Gestire i clienti|Gestione clienti -> Elenco clienti|Centro per i partner -> Clienti|
-|Gestire le sottoscrizioni dei clienti|Gestione clienti -> Elenco clienti -> Seleziona cliente|Centro per i partner-> Customers: > selezionare il cliente o aggiungere il cliente all'elenco **Preferiti** attivando o disattivando la stella nell'elenco dei clienti, quindi selezionando la diapositiva **Preferiti** e passare direttamente a **Gestisci sottoscrizioni** per il cliente.|
-|Amministrare per conto di un cliente|Gestione clienti -> Seleziona cliente -> Seleziona pulsante Amministra|Centro per i partner-> Customers-> selezionare amministrare i servizi dall'elenco a discesa-> selezionare il servizio o aggiungere il cliente all'elenco **Preferiti** attivando la stella nell'elenco cliente, quindi selezionare la diapositiva **Preferiti** e passare direttamente a **Amministrazione servizi** per il servizio richiesto.|
+|Gestire le sottoscrizioni dei clienti|Gestione clienti -> Elenco clienti -> Seleziona cliente|Centro per i partner-> clienti-> selezionare il cliente o cercare un cliente in base al nome o al nome di dominio. Passare quindi a **utenti e licenze** per il cliente.|
+|Amministrare per conto di un cliente|Gestione clienti -> Seleziona cliente -> Seleziona pulsante Amministra|Centro per i partner-> clienti-> selezionare il cliente o cercare un cliente in base al nome o al nome di dominio. Selezionare quindi Amministrazione servizi dall'elenco a discesa > selezionare servizio.|
 |Creare richieste di servizio per il cliente|Richieste di servizio -> Seleziona cliente -> Seleziona pulsante + | Centro per i partner -> Richieste di servizio -> Richieste cliente -> Seleziona cliente -> Nuova richiesta|
 |Gestire le richieste di servizio dei clienti| Richieste di servizio -> Seleziona cliente|Centro per i partner-richieste di servizio >-> richieste dei clienti: > selezionare il cliente o aggiungere la richiesta di servizio all'elenco **Preferiti** attivando la stella nella visualizzazione richieste del cliente per il cliente, quindi selezionando la diapositiva **Preferiti** , selezionare la scheda **richieste di supporto** e passare direttamente alla richiesta di servizio o visualizzare gli aggiornamenti direttamente da **Preferiti**.|
 |Visualizzare lo stato di integrità dei Microsoft Online Services che gestisci|Integrità dei servizi -> Integrità dei servizi aggregati|Centro per i partner -> Integrità dei servizi|
-
->Importante<br>
-Non potrai inviare offerte a pagamento e di versioni di valutazione ai clienti tramite il Centro per i partner. Inoltre, per cercare i clienti nel Centro per i partner, usa il nome del cliente o i domini del cliente disponibili quando hai stabilito la relazione di partner con il cliente.

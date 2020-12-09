@@ -1,7 +1,7 @@
 ---
 title: Attestare l'accettazione del Contratto del cliente Microsoft da parte di un cliente
 description: Scopri gli scenari in cui è necessario attestare l'accettazione del Contratto del cliente Microsoft per conto di un cliente.
-ms.topic: article
+ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: aarzh-AaronZhang
@@ -9,28 +9,21 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: fcf1a682d0150675f8bc8660e8dd5215d4c4333c
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 921926ba44a592b8d2fb5da0a50697d62d9d95c7
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367335"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534778"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Attestare l'accettazione del Contratto del cliente Microsoft per conto di un cliente
 
-**Si applica a**
-
-- Centro per i partner
-- Interfaccia di amministrazione di Microsoft 365
 
 **Ruoli appropriati**
 
+- Amministratore globale
 - Agente amministratore
-- Agente di vendita
-
-**Tipi di partner appropriati**
-
-- Rivenditori indiretti, partner con fatturazione diretta, provider indiretti
+- Agente di supporto tecnico
 
 Questo articolo descrive determinati scenari in cui potresti dover attestare l'accettazione del Contratto del cliente Microsoft per conto di un cliente.
 

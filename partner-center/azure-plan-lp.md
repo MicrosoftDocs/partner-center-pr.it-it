@@ -9,14 +9,20 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998375"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534744"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Introduzione: Il piano di Azure consente ai partner di acquistare Azure con tariffe di pagamento in base al consumo per i clienti
+
+**Ruoli appropriati**
+
+- Agente amministratore
+- Agente di vendita
+- Amministratore globale
 
 Microsoft ha introdotto una nuova esperienza commerciale nel Centro per i partner: il piano di Azure.  Con questa nuova esperienza commerciale e in base al Contratto Microsoft Partner, i partner potranno accedere ai servizi di Azure a tariffe con pagamento in base al consumo per i clienti.
 
@@ -30,7 +36,7 @@ Esegui la transizione dei clienti dalle offerte CSP per Azure esistenti ai servi
 >Dal 1° febbraio 2020 il Contratto Microsoft Cloud esistente viene rimosso dal programma CSP. Successivamente, la conferma del partner (attestazione) dell'accettazione del nuovo contratto del cliente Microsoft sarà necessaria per tutte le altre offerte, tra cui Microsoft 365, Dynamics 365 ed Azure esistente. I partner del programma CSP non potranno creare un nuovo ordine per il cliente senza l'attestazione del contratto del cliente Microsoft. Per informazioni dettagliate, leggi [Verificare l'accettazione da parte del cliente del Contratto del cliente Microsoft](confirm-customer-agreement.md).
 
 
-## <a name="learn-about-the-azure-plan"></a>Informazioni sul piano di Azure
+## <a name="next-steps"></a>Passaggi successivi
 
 |**Per eseguire questa operazione**   |**Leggi**   |
 |------------------|---------------------|

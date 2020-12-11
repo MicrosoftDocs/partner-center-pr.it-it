@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000335"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534812"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Transizione dei clienti al piano di Azure dalle offerte esistenti di CSP per Azure
 
@@ -27,9 +27,9 @@ ms.locfileid: "91000335"
 - Agente di vendita
 - Amministratore gestione utenti
 
-I provider indiretti e i partner di fatturazione diretti possono passare alla nuova esperienza commerciale disponibile nel programma Microsoft Cloud Solution Provider (CSP) per Azure. I rivenditori indiretti dovranno passare attraverso i loro provider indiretti. I clienti avranno una soluzione semplificata per l'acquisto di servizi cloud dai partner, dai venditori Microsoft o direttamente sul Web.
+Questo articolo descrive in che modo i partner CSP possono usare il Centro per i partner per spostare i clienti dalle offerte esistenti di CSP per Azure ai servizi di Azure nel piano di Azure. I provider indiretti e i partner di fatturazione diretti possono passare alla nuova esperienza commerciale disponibile nel programma Microsoft Cloud Solution Provider (CSP) per Azure. I rivenditori indiretti dovranno passare attraverso i loro provider indiretti. I clienti avranno una soluzione semplificata per l'acquisto di servizi cloud dai partner, dai venditori Microsoft o direttamente sul Web.
 
-La funzionalità di transizione è destinata solo ai clienti che passano alla nuova esperienza commerciale per Azure e che hanno firmato il Contratto per clienti Microsoft e non per altre offerte in CSP, come Office 365 o Dynamics 365.
+La funzionalità di transizione è destinata solo ai clienti che passano alla nuova esperienza commerciale per Azure e che hanno firmato il Contratto del cliente Microsoft. Non è destinata ad altre offerte in CSP, ad esempio Office 365 o Dynamics 365.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Eseguire la transizione delle offerte CSP esistenti a un piano di Azure
 

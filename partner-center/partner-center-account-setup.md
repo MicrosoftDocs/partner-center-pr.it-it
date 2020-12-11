@@ -4,17 +4,17 @@ ms.topic: conceptual
 ms.date: 11/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Informazioni su come gestire il profilo, i dati bancari e fiscali e altri dati della società nel Centro per i partner.
+description: Informazioni su come usare il Centro per i partner per gestire il profilo, i dati bancari e fiscali, i ruoli e le autorizzazioni e altro ancora per l'azienda.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45b924fa9143d1b4947e5b88c2e14c41c4451d19
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96438992"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556447"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gestire l'account del Centro per i partner: profilo della società, informazioni bancarie, ruoli, autorizzazioni e altri dati
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Informazioni sui vantaggi di Microsoft Partner Network (MPN), tra cui Microsoft Action Pack, le competenze e le opzioni di programma per accedere al mercato e vendere le soluzioni.
+description: Informazioni sui vantaggi di Microsoft Partner Network (MPN), ad esempio Microsoft Action Pack, le competenze e le opzioni di programma per accedere al mercato e vendere le soluzioni.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0678a7f59620c951fc7595f0ff7437d64a433a05
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197987"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556379"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Collaborare con Microsoft e scoprire i vantaggi dell'adesione
 

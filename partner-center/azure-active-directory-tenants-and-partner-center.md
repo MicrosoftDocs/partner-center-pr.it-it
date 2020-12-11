@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92333828"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534795"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Creare un account aziendale per collegare l'azienda al Centro per i partner
-
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -71,3 +67,8 @@ Quando acquisti una sottoscrizione di Azure, stai fondamentalmente affittando un
 Un account aziendale Azure è una rappresentazione virtuale, dedicata e isolata, della tua azienda nel cloud pubblico di Azure che viene creata al momento della sottoscrizione di un servizio cloud Microsoft, ad esempio Azure, Microsoft Intune o Office 365.
 
 Il tuo account aziendale ospita gli utenti di Azure AD e le informazioni correlate: password, dati del profilo, autorizzazioni e così via. L'account aziendale contiene anche gruppi, applicazioni e altre informazioni relative a una società e alla sua sicurezza.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Gestire l'account per il Centro per i partner](partner-center-account-setup.md)
+- [Stato di verifica della tracciabilità](verification-responses.md)

@@ -9,19 +9,14 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: d34744b1bfe8508c1bcdb804b109f7ac00ad27b8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000155"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570638"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Panoramica: Principali articoli sulla fatturazione e sulle imposte nel Centro per i partner
-
-**Si applica a**
-
-- Centro per i partner
-- Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
 
@@ -29,6 +24,9 @@ ms.locfileid: "91000155"
 - Amministratore fatturazione
 - Amministratore globale
 - Agente di vendita
+
+Questo articolo fornisce collegamenti ad informazioni relative a fatturazione e imposte nel Centro per i partner, inclusi dettagli su risorse di fatturazione, fatture, fatturazione CSP e imposte.
+
 
 | Argomento | Description |
 | ----- | ----------- |
@@ -44,3 +42,7 @@ ms.locfileid: "91000155"
 | [Richiedere crediti del contratto di servizio per interruzioni del servizio](request-credit.md) | Come richiedere crediti del contratto di servizio a Microsoft per i clienti quando si verifica un'interruzione del servizio. |
 
 Per informazioni e risorse di fatturazione per le API nel Centro per i partner, vedi la [documentazione sulla fatturazione per sviluppatori](/partner-center/develop/manage-billing).
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Come ottenere i pagamenti nel marketplace commerciale](marketplace-get-paid.md)

@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f94b11c4feb9cd1bedd97bebc537a504f9c4d127
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999355"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570791"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Creare un account per il Centro per i partner al fine di gestire le competenze e i vantaggi dalla rete
 
@@ -25,21 +25,25 @@ ms.locfileid: "90999355"
 
 Prima di poter creare un account nel Centro per i partner o iscriversi a un programma per i partner, l'organizzazione deve essere un membro di Microsoft Partner Network. Se non si è un membro della rete, è possibile [iscriversi ora](https://partner.microsoft.com/commercial#). Dopo aver creato un account del Centro per i partner, guardare questo breve video [Discover your dashboard](https://vimeo.com/290338211) (Scoprire la dashboard).
 
-## <a name="before-you-begin"></a>Prima di iniziare
+## <a name="get-a-work-email-address-before-setting-up-a-partner-center-account"></a>Ottenere un indirizzo di posta elettronica aziendale prima di configurare un account del Centro per i partner
+
+La società deve acquistare un dominio di posta elettronica per poter configurare gli indirizzi di posta elettronica aziendali per i dipendenti. Collaborare con il reparto IT per acquistare un dominio di posta elettronica, dal momento che si tratta di una procedura tecnica. Usare il nuovo indirizzo di posta elettronica per configurare il tenant di Azure AD e l'account del Centro per i partner.
+
+## <a name="get-started"></a>Introduzione
 
 Per creare un account nel Centro per i partner occorrono le informazioni seguenti. Prima di iniziare, è consigliabile dedicare qualche minuto alla raccolta di questi elementi:
 
--   Posta elettronica dell'amministratore globale.
+- Posta elettronica dell'amministratore globale.
 
--   Se non sei certo dell'account aziendale della tua azienda, vedi [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md). Se l'azienda non ha un account aziendale, puoi crearne uno durante il processo di creazione dell'account. 
+- Se non sei certo dell'account aziendale della tua azienda, vedi [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md). Se l'azienda non ha un account aziendale, puoi crearne uno durante il processo di creazione dell'account. 
 
--   Ragione sociale e indirizzo dell'azienda.  
+- Ragione sociale e indirizzo dell'azienda.  
 
--   Autorità per firmare i contratti legali. Verifica di essere autorizzato a firmare contratti legali per conto della tua azienda perché ti verrà richiesto di eseguire questa operazione durante il processo di registrazione.
+- Autorità per firmare i contratti legali. Verifica di essere autorizzato a firmare contratti legali per conto della tua azienda perché ti verrà richiesto di eseguire questa operazione durante il processo di registrazione.
 
--   Nome e indirizzo di posta elettronica aziendale della persona che sarà il contatto principale. Per garantire la sicurezza e la privacy della tua azienda, invieremo un'e-mail al contatto principale per verificare che (1) abbia effettuato la registrazione per ottenere un account del Centro per i partner e che (2) l'indirizzo e-mail appartenga all'azienda. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueranno le verifiche delle informazioni fornite.
+- Nome e indirizzo di posta elettronica aziendale della persona che sarà il contatto principale. Per garantire la sicurezza e la privacy della tua azienda, invieremo un'e-mail al contatto principale per verificare che (1) abbia effettuato la registrazione per ottenere un account del Centro per i partner e che (2) l'indirizzo e-mail appartenga all'azienda. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueranno le verifiche delle informazioni fornite.
 
-Queste informazioni verranno verificate durante il processo di creazione dell'account. 
+Queste informazioni verranno verificate durante il processo di creazione dell'account. Per informazioni sul processo di verifica, vedere [Verifica dell'account](verification-responses.md)
  
 ## <a name="create-a-partner-center-account"></a>Creare un account nel Centro per i partner
 

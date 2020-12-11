@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000605"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534931"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gestire sottoscrizioni e risorse nel piano di Azure
 
-Quando esegui la transizione di un cliente al piano di Azure, per impostazione predefinita in Azure ti vengono assegnati i diritti di amministratore con privilegi (diritti del proprietario della sottoscrizione tramite l'opzione di amministratore per conto terzi).
+**Ruoli appropriati**
+
+- Agente amministratore
+
+
+Questo articolo descrive in che modo i partner CSP possono usare opzioni del controllo degli accessi in base al ruolo diverse per ottenere il controllo operativo e la gestione delle risorse di Azure di un cliente. Quando esegui la transizione di un cliente al piano di Azure, per impostazione predefinita in Azure ti vengono assegnati i diritti di amministratore con privilegi (diritti del proprietario della sottoscrizione tramite l'opzione di amministratore per conto terzi).
 
  > [!NOTE]
  > I diritti di amministratore sulla sottoscrizione di Azure possono essere rimossi dal cliente a livello di sottoscrizione, gruppo di risorse o carico di lavoro. 
@@ -29,7 +34,7 @@ Quando esegui la transizione di un cliente al piano di Azure, per impostazione p
 
 - **Azure Lighthouse**: la modalità AOBO non offre la flessibilità di creare gruppi distinti che funzionano con clienti diversi o di abilitare ruoli diversi per gruppi o utenti. Con Azure Lighthouse è possibile assegnare gruppi diversi a clienti o ruoli diversi. Poiché gli utenti avranno il livello di accesso appropriato tramite la gestione delle risorse delegata di Azure, è possibile ridurre il numero di utenti che hanno il ruolo di agente amministratore e quindi dispongono dell'accesso completo come amministratore per conto terzi. Questo consente di migliorare la sicurezza limitando l'accesso non necessario alle risorse dei clienti e inoltre offre maggiore flessibilità per la gestione di più clienti su larga scala. Per altre informazioni, leggi [Azure Lighthouse e programma Cloud Solution Provider](/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Utenti di directory, utenti guest o [Entità servizio](/azure/active-directory/develop/app-objects-and-service-principals)** : è possibile delegare l'accesso granulare alle sottoscrizioni CSP aggiungendo utenti nella directory dei clienti oppure aggiungendo utenti guest e assegnando ruoli specifici del controllo degli accessi in base al ruolo.
+- **Utenti di directory, utenti guest o [Entità servizio](/azure/active-directory/develop/app-objects-and-service-principals)** : è possibile delegare l'accesso granulare alle sottoscrizioni CSP aggiungendo utenti nella directory dei clienti oppure aggiungendo utenti guest e assegnando ruoli specifici del controllo degli accessi in base al ruolo.
 
 Come procedura di sicurezza, Microsoft consiglia di assegnare agli utenti le autorizzazioni minime necessarie per svolgere il loro lavoro. Vedi [Risorse di Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
 

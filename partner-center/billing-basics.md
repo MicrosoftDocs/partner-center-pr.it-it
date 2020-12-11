@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468529"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570706"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Panoramica della fatturazione per i partner del programma CSP che lavorano nel Centro per i partner 
-
-**Si applica a**
-
-- Centro per i partner
-- Partner inclusi nel programma Cloud Solution Provider (CSP)
 
 **Ruoli appropriati**
 
@@ -31,13 +26,16 @@ ms.locfileid: "87468529"
 - Agente di supporto tecnico
 - Agente di vendita
 
+Questo articolo fornisce informazioni di base sulla fatturazione e le fatture per i partner CSP nel Centro per i partner, incluso come fatturare i clienti e come trovare e leggere la fattura.
+
+
 ## <a name="find-your-bill"></a>Trovare una fattura
 
 Per trovare una fattura:
 
-1. [Accedi al dashboard Centro per i partner](https://partner.microsoft.com/dashboard/home).
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.
 
-2. Scegli **Billing** (Fatturazione) dal menu a sinistra.
+2. Dal menu del Centro per i partner scegliere **Fatturazione**.
 
 3. Puoi usare la pagina **Billing** (Fatturazione) per scaricare la fattura più recente oppure la sezione **Billing history** (Cronologia di fatturazione) per scaricare fatture precedenti.
 
@@ -45,7 +43,7 @@ Per trovare una fattura:
 
 Non sono previsti requisiti o condizioni Microsoft per la modalità di gestione della fatturazione.
 
-Per determinare l'utilizzo di un cliente, [vedi i file di riconciliazione](#find-your-bill). Puoi usare il nome del cliente e altri campi pertinenti per determinare l'utilizzo.
+Per determinare l'utilizzo di un cliente, vedere i [file di riconciliazione](#find-your-bill). Usare il nome del cliente e altri campi pertinenti per determinare l'utilizzo.
 
 ### <a name="billing-types"></a>Tipi di fatturazione
 
@@ -173,3 +171,8 @@ Potrebbe essere necessario richiedere un credito o emettere una nuova fattura pe
 - Applicazione di un rimborso fiscale dopo la generazione della fattura. Puoi richiedere un credito o emettere una nuova fattura per ottenere il rimborso fiscale a fronte della fattura originale. Lo stesso si applica ai rimborsi. Puoi richiedere un credito o rifatturare la fattura originale e quindi incassare un rimborso.
 
 **Per tutte le transazioni una tantum e ricorrenti**, Microsoft può emettere una nota di credito nel caso in cui tu richieda un credito o una nuova fattura. La fattura viene annullata quando viene emesso il credito. 
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Informazioni sulla fattura e sul file di riconciliazione](read-your-bill.md)
+- [Scenari di fatturazione comuni per i partner del programma CSP](common-billing-scenarios.md)

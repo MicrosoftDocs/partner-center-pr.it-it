@@ -1,7 +1,7 @@
 ---
 title: Ottenere i privilegi di amministratore di un cliente
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ottieni le autorizzazioni necessarie per gestire il servizio o l'abbonamento di un cliente per suo conto. Scopri come sono concesse, revocate e gestite le autorizzazioni.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545902"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534880"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Ottenere le autorizzazioni per gestire il servizio o l'abbonamento di un cliente
 
@@ -47,7 +47,7 @@ Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ulti
 6.  Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome e quindi seleziona il portale di amministrazione per il servizio che vuoi gestire.
 
 >[!IMPORTANT]  
->I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Fino a quando il contratto non verrà rinegoziato con il cliente, il partner continua, tuttavia, ad avere la responsabilità di fornire supporto al cliente e rispettare le condizioni del contratto per rivenditori cloud, anche dopo che un cliente ha riassegnato o rimosso le autorizzazioni di amministratore. In questo caso, se il cliente ha bisogno di aiuto, puoi contattare il supporto tecnico Microsoft per aprire una richiesta di assistenza per conto del cliente.
+>I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. È, tuttavia, necessario informare i clienti che la rimozione delle autorizzazioni di amministratore comporta l'impossibilità di aprire una richiesta di servizio a Microsoft per loro conto. Non sarà possibile aprire questi tipi di richieste di servizio per conto del cliente finché non si rinegozierà il contratto con il cliente.
 
 I clienti possono scoprire quali partner hanno privilegi di amministratore per i propri tenant all'interno del portale di amministrazione di Office 365. A tale scopo:
 

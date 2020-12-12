@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175078"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153146"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Segnala un problema del servizio per conto di un cliente, incluse le attività e le modalità di esecuzione
 
@@ -31,11 +31,13 @@ Se il cliente riscontra un problema del servizio che non è possibile risolvere 
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Inviare una richiesta di servizio per un cliente
 
-1. Dal menu **Centro per i partner** scegli **Richieste di servizio** e quindi **Richieste clienti**. 
+1. Dal menu centro partner in CSP selezionare **Customers (clienti** )
 
-2. Nella pagina Richieste clienti cerca il cliente desiderato.
+2. Nella pagina Customers selezionare o cercare il cliente desiderato
+    
+3. Scegliere **richieste di servizio** dal menu cliente
 
-3. Dal menu a discesa **Nuova richiesta** scegli **Azure** o **Office 365, Dynamics 365, Enterprise Mobility Suite**. Si verrà reindirizzati al portale di Microsoft Azure o all'interfaccia di amministrazione di Office 365.
+4. Dal menu a discesa **Nuova richiesta** scegli **Azure** o **Office 365, Dynamics 365, Enterprise Mobility Suite**. Si verrà reindirizzati al portale di Microsoft Azure o all'interfaccia di amministrazione di Office 365.
 
 >[!NOTE]
 >I partner operativi di supporto per la transazione di Dynamics 365 in CSP sono necessari per mantenere un contratto di supporto del piano di supporto avanzato per i partner (ASfP) o superiore. Questo contratto di supporto è necessario per inviare eventi imprevisti di Dynamics 365 per conto di un cliente CSP. [Altre](https://partner.microsoft.com/support/partnersupport) informazioni sulle opzioni del contratto di supporto.
@@ -92,7 +94,7 @@ Microsoft non fornisce il supporto tecnico per i prodotti commerciali del Market
 
 Per trovare le informazioni di contatto dell'ISV:
 
-1.  Nella pagina**Marketplace** seleziona il prodotto per cui è necessaria assistenza.
+1.  Nella pagina **Marketplace** seleziona il prodotto per cui è necessaria assistenza.
 
 2.  Nella pagina del prodotto sono disponibili informazioni di contatto per il supporto. Può trattarsi di una o più delle opzioni seguenti:
 

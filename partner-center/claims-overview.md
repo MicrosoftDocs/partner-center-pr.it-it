@@ -9,18 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133083"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354509"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Guadagna fondi di marketing cooperativi
-
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -52,7 +48,7 @@ La sequenza temporale per i fondi co-op è divisa in periodi di 2 6 mesi, H1 e H
 - H1 è la prima metà dell'anno fiscale, dal 1 ° luglio al 31 dicembre.
 - H2 è la seconda metà dell'anno fiscale, dal 1 ° gennaio al 30 giugno.
 
-Il periodo di sei mesi durante il quale si accumulano i guadagni diventa il **periodo di guadagno** . È necessario usare questi guadagni a un certo punto durante il **periodo di utilizzo** di sei mesi seguente. Se non si usano i guadagni entro la fine del periodo di utilizzo, questi verranno persi. Il **periodo di attestazione** è il periodo di sei mesi durante il quale è possibile richiedere il rimborso per le attività del programma incentive.
+Il periodo di sei mesi durante il quale si accumulano i guadagni diventa il **periodo di guadagno**. È necessario usare questi guadagni a un certo punto durante il **periodo di utilizzo** di sei mesi seguente. Se non si usano i guadagni entro la fine del periodo di utilizzo, questi verranno persi. Il **periodo di attestazione** è il periodo di sei mesi durante il quale è possibile richiedere il rimborso per le attività del programma incentive.
 
 La tabella seguente illustra i diversi periodi di guadagno, utilizzo e reclamo. Se non specificato diversamente, i periodi si estendono dal primo giorno del primo mese all'ultimo giorno dell'ultimo mese.
 
@@ -68,7 +64,7 @@ La tabella seguente illustra i diversi periodi di guadagno, utilizzo e reclamo. 
 
 Le risorse seguenti consentiranno di iniziare a usare le attestazioni co-op.
 
-| Operazione da eseguire | Leggere |
+| Per | Leggere |
 | ------ | ----------- |
 | Invia un'attestazione |  [Creazione e gestione di un'attestazione co-op del programma incentives](create-incentives-claims.md)  |
 | Gestione di un'attestazione inviata | [Creazione e gestione di un'attestazione co-op del programma incentives](create-incentives-claims.md)    |

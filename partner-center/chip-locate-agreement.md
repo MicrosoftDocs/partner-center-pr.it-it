@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 032ad30c17136dcf102af9134153a3921e29c38a
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570553"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354441"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Individuare il numero di desktop e il livello di tariffa per un contratto
+
+**Ruoli appropriati**
+
+- Contatto principale o amministratore del programma
 
 È possibile scaricare in Excel, un file che fornisce i dettagli del contratto per il numero di desktop e il livello di tariffa.
 

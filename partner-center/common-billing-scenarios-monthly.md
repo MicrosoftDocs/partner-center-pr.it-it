@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 616f706ddb4613f927e0c2830dd794fa3db3944e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435400"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354577"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Scenari di fatturazione mensile di esempio per nuove sottoscrizioni, modifica degli importi di licenze o sospensioni
 
@@ -107,3 +107,7 @@ Prezzo unitario = giorni nel periodo di servizio x prezzo giornaliero x numero d
 Sono presenti 12 giorni nel periodo di annullamento 3/1/2018 – 3/12/2018.
 
 Pertanto, il prezzo unitario =-1,716 (12 x 0,143 x (-1)).
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Scenari di fatturazione per una sola volta e selezionare gli acquisti ricorrenti](common-billing-scenarios-onetime-recurring.md)

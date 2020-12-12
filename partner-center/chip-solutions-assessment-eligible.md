@@ -1,5 +1,5 @@
 ---
-title: Idoneità per la valutazione della soluzione
+title: Idoneità per Solution Assessment
 ms.topic: how-to
 ms.date: 11/09/2020
 description: Informazioni su come verificare i requisiti di idoneità per la partecipazione al programma Solution Assessment incentives.
@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5feb30b62cb6b862cd3e474d46980f8654ba1c1
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447239"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354475"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Requisiti di idoneità per il programma Solution Assessment incentives
+
+**Ruoli appropriati**
+
+- Contatto principale o amministratore del programma
 
 I partner con stato attivo e registrato nel programma Solution Assessment incentive in FY20 continueranno a essere idonei per gli incentivi in FY21 se dispongono di un abbonamento MPN attivo e di una competenza di MPN argento o Gold attiva. Le qualifiche dei partner vengono esaminate annualmente per l'idoneità. Se i partner stabiliti non ottengono i requisiti di idoneità e partecipazione nell'anno corrente, verranno rimossi nella prossima verifica annuale. Tutti i nuovi partner vengono caricati tramite lo specialista della valutazione della soluzione locale (SAS) nella propria area. La firma di accesso condiviso identificherà i partner da caricare in base alla corrispondenza di competenze e competenze nell'azienda partner e alle esigenze aziendali delle filiali supportate dalla firma di accesso condiviso.
 

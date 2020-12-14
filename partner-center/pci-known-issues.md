@@ -9,21 +9,49 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f098058f5ddd00de9633633d9bcc0fdd8502e538
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
+ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175250"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "97389306"
 ---
-# <a name="known-issues-with-partner-center-insights"></a>Problemi noti relativi a partner Center Insights
+# <a name="partner-insights--frequently-asked-questions"></a>Partner Insights-domande frequenti
+
+**Ruoli appropriati**
+- Visualizzatore di report
+- Visualizzatore di report esecutivi
 
 Questo si riferisce a eventuali problemi noti relativi alla visualizzazione o al rendering di report associati a informazioni dettagliate.
 
-- Non esiste un modo supportato per abilitare i report di Insights per i tenant solo CSP. Solo i tenant con accesso al programma MPN possono accedere a questi report.
-- I report presentano problemi di rendering con Internet Explorer. Funzionano bene con Microsoft Edge e con altri browser.
-- I dati sulle prestazioni per la competenza delle applicazioni aziendali cloud sono incompleti a causa di un problema di dati upstream.
+D) **non è possibile visualizzare l'hub Insights nell'account del centro per i partner. Cosa devo fare?**
 
-## <a name="next-steps"></a>Passaggi successivi
+A) assicurarsi di avere effettuato l'accesso all'account MPN per l'organizzazione. Non è possibile accedere al dashboard Insights dall'account CSP. Assicurarsi inoltre che l'amministratore globale abbia fornito il ruolo Visualizzatore report o Visualizzatore report Executive.  Per ulteriori informazioni sui ruoli, vedere [questo articolo](https://docs.microsoft.com/partner-center/pci-roles).
+
+D) **non sono in grado di visualizzare i ricavi fatturati o i dati dei ricavi usati di Azure (ACR) in report personali. Perché?**
+
+A) i dati ricavi fatturati e ACR sono disponibili solo per gli utenti che sono visualizzatori di report esecutivi.  Per ulteriori informazioni sui ruoli, vedere [questo articolo](https://docs.microsoft.com/partner-center/pci-roles).
+
+D) **non sono in grado di visualizzare i ricavi fatturati o i dati dei ricavi usati di Azure (ACR) in report personali. Perché?**
+
+A) i dati ricavi fatturati e ACR sono disponibili solo per gli utenti che sono visualizzatori di report esecutivi. Per ulteriori informazioni sui ruoli, vedere [questo articolo](https://docs.microsoft.com/partner-center/pci-roles).
+
+D) **il paese segnalato per il cliente sembra non essere corretto. Perché?**
+
+A) il paese del cliente è derivato dal paese dell'organizzazione padre globale del cliente. Questo paese può essere diverso da quello del cliente con cui è stato possibile effettuare la transazione. Il paese segnalato dal cliente, quindi, potrebbe essere diverso da quello previsto.
+
+D) **si noterà che i nomi dei clienti sono offuscati nei report. È previsto?**
+
+A) i nomi dei clienti sono offuscati per determinate sottoscrizioni a causa dei motivi di conformità. Tuttavia, il cliente TPID è disponibile ed è possibile usarlo per cercare i nomi dei clienti.
+
+D) **Qual è la latenza tipica dei report?**
+
+A) le sottoscrizioni e i dati dei clienti vengono aggiornati quotidianamente e i dati vengono segnalati con una latenza di una settimana. I dati di utilizzo di Azure vengono segnalati con una latenza di una settimana. I dati di utilizzo di Office365, teams, Dynamic365, EMS e Power BI vengono segnalati con una latenza di un mese.
+
+D) **non è previsto il rendering dei report in Internet Explorer?**
+
+A) i report presentano problemi di rendering con Internet Explorer. Funzionano bene con Microsoft Edge e con altri browser.
+
+**Passaggi successivi**
 
 - Scopri di più su [Partner Center Insights](partner-center-insights.md).

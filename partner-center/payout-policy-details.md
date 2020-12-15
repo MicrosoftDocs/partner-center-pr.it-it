@@ -1,22 +1,27 @@
 ---
-title: Pianificazioni dei pagamenti e dettagli dei criteri-Azure Marketplace
-description: Informazioni sui dettagli relativi ai criteri di pagamento del Marketplace commerciale, incluse le pianificazioni e il recupero.
+title: Pianificazioni e processi di pagamento
+description: Informazioni sui pagamenti e sulle transazioni, ad esempio le pianificazioni dei pagamenti e i processi di recupero per il Marketplace commerciale e altre transazioni.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/06/2020
-ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
-ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
+ms.date: 11/25/2020
+ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96513296"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492671"
 ---
-# <a name="payout-schedules-and-policy-details"></a>Pianificazioni dei pagamenti e dettagli dei criteri
+# <a name="payout-schedules-and-processes"></a>Pianificazioni e processi di pagamento
 
-Questo articolo illustra il processo di pagamento di Microsoft, la pianificazione dei pagamenti, la posizione in cui trovare lo stato di un pagamento e il processo per il mancato pagamento del cliente.
+**Ruoli appropriati:**
+
+- Amministratore degli account
+- Amministratore globale
+
+Questo articolo illustra la pianificazione dei pagamenti di Microsoft, la posizione in cui trovare lo stato di un pagamento e il processo per il mancato pagamento del cliente.
 
 ## <a name="payment-schedules"></a>Pianificazioni dei pagamenti
 
@@ -74,10 +79,10 @@ Di seguito è riportato un esempio di pianificazione:
 | --- | --- | --- |
 | Data di pagamento di esempio | 10/15/2020 | Contrassegnato come **inviato** nella cronologia delle transazioni e nella sezione pagamenti nel dashboard dei pagamenti |
 | <font color="red">Se il cliente non paga Microsoft</font> | 12/2/2020 – 12/5/2020 | Nessuna modifica, come sopra |
-| Il cliente riceve il primo messaggio di posta elettronica in ritardo | 12/6/2020 | nessuno |
-| Il cliente riceve messaggi di posta elettronica regolari con urgenza crescente | 12/7/2020 – 1/31/2021 | nessuno |
+| Il cliente riceve il primo messaggio di posta elettronica in ritardo | 12/6/2020 | Nessuno |
+| Il cliente riceve messaggi di posta elettronica regolari con urgenza crescente | 12/7/2020 – 1/31/2021 | Nessuno |
 | È probabile che il server di pubblicazione riceva una notifica di scrittura | 1/7/2021 | Notifica tramite posta elettronica inviata al server di pubblicazione a cui il cliente non ha ancora inviato il pagamento. Sono inclusi ID transazione e importo in dollari. |
-| Il cliente riceve l'avviso di terminazione | 2/1/2021 | nessuno |
+| Il cliente riceve l'avviso di terminazione | 2/1/2021 | Nessuno |
 | Il processo di raccolta termina/Funds viene scritto | 2/15/2021 | Notifica tramite posta elettronica inviata al server di pubblicazione. i fondi sono stati scritti. Sono inclusi ID transazione e importo in dollari. |
 | Il pagamento viene sottratto | 1/3/2021 | Il server di pubblicazione visualizzerà una transazione negativa nell'istruzione per il pagamento del partner Center |
 | Il pagamento è stato trattenuto | 3/15/2021 | I pagamenti futuri verranno visualizzati nell'istruzione per il pagamento del centro per i partner. Il server di pubblicazione non riceverà alcun pagamento finché il saldo non sarà più negativo.  |
@@ -90,7 +95,7 @@ Di seguito è riportato un esempio di pianificazione:
 In genere si inviano pagamenti a causa di un determinato mese il 15 ° giorno del mese, ma è necessario più tempo per il pagamento per raggiungere l'account. Il numero di giorni dipende dal metodo di pagamento usato per l'account, come descritto di seguito.
 
 > [!NOTE]
-> I giorni indicati di seguito sono approssimativi; eventuali pagamenti possono richiedere una quantità di tempo più lunga o più breve per raggiungere l'account.
+> I giorni indicati di seguito sono approssimativi; eventuali pagamenti possono richiedere più o meno tempo per raggiungere l'account.
 
 | Metodo di pagamento     | Numero di giorni per il trasferimento all'account per i proventi     |
 |--------------------|--------------------------------------------|

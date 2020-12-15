@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514759"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492688"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurare l'account proventi e i moduli fiscali
+
+**Ruoli appropriati:**
+
+- Amministratore degli account
+- Amministratore globale
 
 Per ricevere denaro dalle offerte di vendita nel marketplace commerciale, è necessario configurare l'account proventi e compilare i moduli fiscali necessari nel [Centro per i partner](https://partner.microsoft.com/dashboard).
 
@@ -32,19 +37,16 @@ Dopo aver configurato l'account, prima di poter vendere l'offerta o i componenti
 
 ## <a name="tax-forms"></a>Moduli fiscali
 
-### <a name="fill-out-your-tax-forms"></a>Compilare i moduli fiscali
+Il profilo fiscale e i moduli fiscali vengono gestiti nella pagina **pagamenti e** imposte del centro per i partner. Le autorizzazioni dell'organizzazione determineranno i profili e le informazioni che vengono visualizzati.
 
-Per prima cosa è necessario creare un profilo fiscale e assegnarlo ai programmi a cui si partecipa. Per creare il *profilo fiscale* per il marketplace commerciale, completare la procedura seguente:
+### <a name="create-or-update-your-tax-profile"></a>Crea o aggiorna il profilo fiscale
 
-- Specificare il paese o area geografica di residenza e cittadinanza.
-- Compilare i moduli fiscali appropriati.
-
-I moduli fiscali possono essere completati e inviati elettronicamente nel Centro per i partner; nella maggior parte dei casi non è necessario stampare e inviare per posta alcun modulo.
+Per prima cosa è necessario creare un profilo fiscale e assegnarlo ai programmi a cui si partecipa. Usare la procedura seguente per creare o aggiornare il *profilo fiscale* nel centro per i partner. È possibile completare e inviare i moduli fiscali elettronicamente nel dashboard del centro per i partner; nella maggior parte dei casi non è necessario stampare e inviare moduli.
 
 > [!IMPORTANT]
 > Paesi e aree geografiche diversi hanno requisiti fiscali diversi. L'importo esatto delle imposte da pagare dipende dai paesi e aree geografiche in cui viene venduta l'offerta. Per informazioni sui paesi e le aree geografiche in cui Microsoft versa l'IVA e l'imposta di utilizzo per conto dei partner, vedere il [Contratto per editori di Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560). In altri paesi o aree geografiche, a seconda del luogo di registrazione, potrebbe essere necessario versare l'IVA e l'imposta di utilizzo per le offerte di vendita direttamente alle autorità fiscali locali. Gli introiti derivanti dalla vendita di app potrebbero anche essere tassabili come redditi. È consigliabile contattare l'autorità competente per il proprio paese o area geografica, che fornirà tutte le informazioni fiscali necessarie per le attività nel marketplace commerciale.
 
-1. In [centro](https://partner.microsoft.com/dashboard)per i partner selezionare l'icona dell'ingranaggio **Impostazioni** nell'angolo in alto a destra, quindi **Impostazioni account**.
+1. Nel [Dashboard del centro](https://partner.microsoft.com/dashboard)per i partner selezionare l'icona dell'ingranaggio **Impostazioni** nell'angolo in alto a destra, quindi **Impostazioni account**.
 
 2. Nel menu di spostamento a sinistra selezionare **Proventi e imposte** e quindi **Payout and tax assignments** (Proventi e assegnazioni fiscali).
 

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626032"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492467"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Creazione e gestione di incentivi per il pagamento e i profili fiscali nel centro per i partner
 
@@ -62,7 +62,7 @@ Le sezioni seguenti illustrano il processo di creazione e gestione dei profili d
 
    - È possibile registrare più domini all'interno di un account Azure AD. Contattare l'amministratore globale per determinare quali domini sono associati.
    - Se si è in grado di accedere solo con il @onmicrosoft.com dominio, contattare l'amministratore dell'account per aggiungere ulteriori domini all'account Azure ad.
-   - Se viene richiesto di selezionare un account aziendale o dell' **Istituto di istruzione** o un account **personale** , selezionare account aziendale o dell'Istituto di **istruzione**.
+   - Se viene richiesto di selezionare un account aziendale o dell' **Istituto di istruzione** o un account **personale**, selezionare account aziendale o dell'Istituto di **istruzione**.
 
 2. Selezionare l'icona a forma di ingranaggio per aprire il menu **Impostazioni** , quindi selezionare **Impostazioni partner**.
 
@@ -72,7 +72,7 @@ Le sezioni seguenti illustrano il processo di creazione e gestione dei profili d
 
 1. Accedere al [Dashboard del centro](https://partner.microsoft.com/dashboard/)per i partner, quindi selezionare l'icona a forma di ingranaggio per aprire il menu **Impostazioni** . 
 
-2. Selezionare **Impostazioni partner** , espandere la **sezione pagamenti e imposte** , quindi selezionare **assegnazione del profilo di pagamento e di imposta**. 
+2. Selezionare **Impostazioni partner**, espandere la **sezione pagamenti e imposte**, quindi selezionare **assegnazione del profilo di pagamento e di imposta**. 
    
    Verrà visualizzato un elenco dei programmi. Selezionare la freccia accanto a un programma per visualizzare i dettagli del profilo. 
 
@@ -113,9 +113,9 @@ I profili bancari vengono creati a livello di organizzazione. Questo consente l'
 
 5. Nella pagina **beneficiari** immettere le informazioni appropriate. Il beneficiario è la persona dell'azienda a cui la banca potrebbe rivolgersi se deve discutere l'account.
 
-6. Una volta completati i campi, selezionare **fine** , quindi selezionare **conferma** per creare il profilo bancario.
+6. Una volta completati i campi, selezionare **fine**, quindi selezionare **conferma** per creare il profilo bancario.
 
-Si verrà reindirizzati alla pagina dei **profili di pagamento e fiscali** . Lo stato del nuovo profilo rifletterà la **convalida Microsoft in sospeso** fino a quando non sarà stata completata la convalida. Questo processo può richiedere fino a 48 ore. Al termine della convalida, lo stato del profilo rifletterà l' **approvazione** o l' **azione richiesta**. Se è **richiesta l'azione** , ripetere i passaggi precedenti fornendo le informazioni necessarie. 
+Si verrà reindirizzati alla pagina dei **profili di pagamento e fiscali** . Lo stato del nuovo profilo rifletterà la **convalida Microsoft in sospeso** fino a quando non sarà stata completata la convalida. Questo processo può richiedere fino a 48 ore. Al termine della convalida, lo stato del profilo rifletterà l' **approvazione** o l' **azione richiesta**. Se è **richiesta l'azione**, ripetere i passaggi precedenti fornendo le informazioni necessarie. 
 
 ## <a name="create-your-tax-profile"></a>Creare il profilo fiscale
 
@@ -138,7 +138,7 @@ Per le società partner in America, se sono necessarie informazioni sul completa
 
 3. Selezionare **Avanti**. 
 
-4. Nella pagina **Tax status** immettere le informazioni necessarie e quindi fare clic su **Next (avanti** ). I campi in questa pagina variano in base al paese. dettagli. 
+4. Nella pagina **Tax status** immettere le informazioni necessarie e quindi fare clic su **Next (avanti**). I campi in questa pagina variano in base al paese. dettagli. 
 
 5. Nella pagina **documentazione aggiuntiva** , i campi obbligatori e selezionare **Avanti**. 
 
@@ -152,4 +152,4 @@ Per le società partner in America, se sono necessarie informazioni sul completa
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Domande frequenti su proventi da incentivi e profilo fiscale](incentives-payout-tax-profile-faqs.md)
+- [Domande comuni su pagamenti e imposte](payout-faq.md)

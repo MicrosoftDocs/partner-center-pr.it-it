@@ -1,23 +1,28 @@
 ---
-title: Come ottenere i pagamenti nel marketplace commerciale
-description: Scopri come ricevere i pagamenti per i guadagni nel Marketplace commerciale di Azure Marketplace. Include i criteri di pagamento, lo stato dei pagamenti e le istruzioni di pagamento.
+title: Pagamento nel centro per i partner
+description: Scopri come ricevere i pagamenti per i guadagni come partner Microsoft, ad esempio tramite offerte per Marketplace commerciali, programmi incentive e il programma Cloud Solution Provider. Include i criteri di pagamento, lo stato dei pagamenti e le istruzioni di pagamento.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514725"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492450"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>Come ottenere i pagamenti nel marketplace commerciale
+# <a name="getting-paid-in-partner-center"></a>Pagamento nel centro per i partner
+
+**Ruoli appropriati:**
+
+- Amministratore degli account
+- Amministratore globale
 
 Questo articolo contiene informazioni importanti su come ricevere pagamenti per le offerte, i componenti aggiuntivi e i guadagni pubblicitari. Vengono riepilogati i criteri di pagamento, i passaggi necessari prima di ricevere il pagamento e la panoramica delle istruzioni di pagamento.
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Contratti e criteri di pagamento per Marketplace commerciale
+## <a name="payout-policies-and-agreements"></a>Criteri di pagamento e contratti
 
 Per ricevere i pagamenti, è necessario rispettare i contratti e i criteri di pagamento.
 
@@ -49,4 +54,4 @@ L'istruzione di pagamento Mostra i guadagni delle vendite delle offerte e dei co
 ## <a name="next-steps"></a>Passaggi successivi
 
 - [API per i pagamenti partner](https://apidocs.microsoft.com/services/partnerpayouts)
-- [Domande frequenti sui proventi del marketplace](payout-faq.md)
+- [Domande frequenti su Proventi](payout-faq.md)

@@ -4,22 +4,20 @@ description: Informazioni su dove andare nel centro per i partner per trovare il
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 4f4a36bbe5021b6c73025e14bf3f608bd6a269e8
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 7f6cdab138e2213848acb36a66cb48d2dcee1ea6
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556277"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492518"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Individuare il ruolo, le autorizzazioni e l'amministratore globale
 
-**Si applica a**
-- Centro per i partner
 
 **Ruoli appropriati**
 

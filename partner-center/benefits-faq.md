@@ -1,7 +1,7 @@
 ---
 title: Domande frequenti sui vantaggi
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: Risposte alle domande sulla scadenza, il rinnovo e l'attivazione delle licenze per Azure, cloud, Visual Studio e i vantaggi tecnici e di supporto
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570689"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514702"
 ---
 # <a name="benefits-faq"></a>Domande frequenti sui vantaggi
 
@@ -98,7 +98,7 @@ Non è possibile combinare offerte di credito bulk di Azure con altre offerte. S
 Dopo aver assegnato la sottoscrizione, l'utente deve accedere a Visual Studio per gestirlo.
 
 >[!Note]
-> Le sottoscrizioni di Visual Studio possono essere riassegnate da un Sottoscrittore a un altro 90 giorni dopo l'assegnazione originale.
+> Le sottoscrizioni di Visual Studio possono essere riassegnate da un Sottoscrittore a un altro se sono trascorsi 90 giorni dall'ora dell'assegnazione originale.
 
 ## <a name="technical-benefits-and-support"></a>Vantaggi e supporto tecnico
 

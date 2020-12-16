@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527814"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354526"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Consolidare gli account aziendali durante la migrazione da PMC al Centro per i partner
 
@@ -62,3 +62,9 @@ In Partner Membership Center ogni posizione può disporre di proprie competenze,
 Nel Centro per i partner questi account di posizione verranno consolidati in un unico account globale (PGA). Ciò significa che vengono consolidati anche tutti i programmi, le offerte e le competenze go-to-market. I toolkit di vantaggi aggiuntivi (ABTK) non saranno disponibili. Puoi tuttavia organizzare la distribuzione di competenze, programmi, offerte e risorse di marketing necessari per la tua azienda. Dopo il consolidamento, viene fornita un'estensione. Questa estensione consente alla società di sfruttare le risorse, le offerte e i programmi di marketing usati in PMC per un ulteriore anno.
 
 Per altre informazioni sulle differenze tra Partner Membership Center e il Centro per i partner, vedi [Passare da Partner Membership Center al Centro per i partner](guide-to-migration.md).
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Gestire l'account per il Centro per i partner](partner-center-account-setup.md)
+
+- [Gestire le sedi](manage-locations.md)

@@ -9,18 +9,15 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/30/2020
-ms.openlocfilehash: aacca72e9af45b2777364734c2b07dbe8101989d
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92333918"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354611"
 ---
 # <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Metodi aggiornati per confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente
 
-**Si applica a**
-
--  Centro per i partner
 
 **Ruoli appropriati**
 
@@ -48,7 +45,7 @@ In qualità di partner, devi ottenere l'accettazione del Contratto del cliente M
 
 - Data di accettazione
 
-I partner con fatturazione diretta e i provider indiretti devono confermare che un cliente ha accettato il Contratto del cliente Microsoft durante l'esecuzione della transazione tramite il Centro per i partner o la relativa API. La conferma è *obbligatoria* .
+I partner con fatturazione diretta e i provider indiretti devono confermare che un cliente ha accettato il Contratto del cliente Microsoft durante l'esecuzione della transazione tramite il Centro per i partner o la relativa API. La conferma è *obbligatoria*.
 
 Se non viene fornita la conferma per un determinato cliente:
 
@@ -70,9 +67,9 @@ Questo vale sia per gli ambienti di produzione che per quelli sandbox.
 
 Usa la procedura seguente per confermare l'accettazione da parte del cliente durante la creazione di un nuovo tenant cliente nel Centro per i partner. Devi essere un agente amministratore o di vendita per eseguire questa operazione.
 
-1. Seleziona **Clienti** , quindi **Nuovo cliente** e infine **Info account** .
+1. Seleziona **Clienti**, quindi **Nuovo cliente** e infine **Info account**.
 
-2. Immetti le informazioni nei campi **Società** e **Contatto principale** .
+2. Immetti le informazioni nei campi **Società** e **Contatto principale**.
 
    :::image type="content" source="images/mca/mca1.png" alt-text="Informazioni sulla società":::
 
@@ -82,9 +79,9 @@ Usa la procedura seguente per confermare l'accettazione da parte del cliente dur
 
 5. Immetti i dettagli dell'utente che ha fornito l'accettazione.
 
-   :::image type="content" source="images/mca/MCA3.png" alt-text="Informazioni sulla società":::
+   :::image type="content" source="images/mca/MCA3.png" alt-text="Aggiunta della data di accettazione":::
 
-   Per impostazione predefinita, vengono visualizzate le informazioni utente relative al contatto principale. Se queste informazioni non sono corrette, fai clic su **Aggiorna** , quindi riempi i campi **Nome** , **Cognome** , **Indirizzo e-mail** e * *Numero di telefono* (facoltativo) della persona che ha accettato il contratto.
+   Per impostazione predefinita, vengono visualizzate le informazioni utente relative al contatto principale. Se queste informazioni non sono corrette, fai clic su **Aggiorna**, quindi riempi i campi **Nome**, **Cognome**, **Indirizzo e-mail** e **Numero di telefono* (facoltativo) della persona che ha accettato il contratto.
 
 6. Scegli **Avanti** per continuare con i passaggi rimanenti per la creazione del tenant del cliente.
 
@@ -94,27 +91,27 @@ Devi essere un agente amministratore o di vendita per eseguire questa operazione
 
 1. Seleziona **Clienti** e quindi individua e seleziona il cliente che vuoi visualizzare.
 
-2. Seleziona **Informazioni sull'account** .
+2. Seleziona **Informazioni sull'account**.
 
-3. In **Microsoft customer agreement** (Contratto del cliente Microsoft) fai clic su **Aggiorna** .
+3. In **Microsoft customer agreement** (Contratto del cliente Microsoft) fai clic su **Aggiorna**.
 
-   :::image type="content" source="images/mca/mca4.png" alt-text="Informazioni sulla società":::
+   :::image type="content" source="images/mca/mca4.png" alt-text="Aggiornamento":::
 
-4. Riempi i campi **Nome** , **Cognome** , **Indirizzo e-mail** e **Numero di telefono** (facoltativo) dell'utente che ha accettato il contratto.
+4. Riempi i campi **Nome**, **Cognome**, **Indirizzo e-mail** e **Numero di telefono** (facoltativo) dell'utente che ha accettato il contratto.
 
 5. In **Agreement acceptance date** (Data di accettazione del contratto) immetti la data appropriata. Non puoi impostare questo campo su una data futura.
 
-6. Fai clic su **Salva e continua** .
+6. Fai clic su **Salva e continua**.
 
 ## <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Confermare l'accettazione da parte del cliente durante la creazione di un nuovo ordine per un cliente esistente
 
 Se si tenta di creare un nuovo ordine per un cliente esistente non confermato prima, si riceverà la richiesta di completare la conferma. Utilizzare la procedura seguente per eseguire questa operazione.
 
-1. Riempi i campi **Nome** , **Cognome** , **Indirizzo e-mail** e **Numero di telefono** (facoltativo) dell'utente che ha accettato il contratto.
+1. Riempi i campi **Nome**, **Cognome**, **Indirizzo e-mail** e **Numero di telefono** (facoltativo) dell'utente che ha accettato il contratto.
 
 2. In **Agreement acceptance date** (Data di accettazione del contratto) immetti la data appropriata. Non puoi impostare questo campo su una data futura.
 
-3. Fai clic su **Salva e continua** .
+3. Fai clic su **Salva e continua**.
 
 ## <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Recuperare la conferma dell'accettazione da parte di un cliente esistente
 
@@ -122,7 +119,7 @@ Puoi recuperare la conferma dell'accettazione da parte di un cliente esistente c
 
 1. Seleziona **Clienti** e quindi individua e seleziona il cliente che vuoi visualizzare.
 
-2. Seleziona **Informazioni sull'account** .
+2. Seleziona **Informazioni sull'account**.
 
 3. In **Microsoft customer agreement** (Contratto del cliente Microsoft) potrai vedere se la conferma è stata fornita o meno per tale cliente.
 

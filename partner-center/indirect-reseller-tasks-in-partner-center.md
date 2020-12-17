@@ -1,27 +1,23 @@
 ---
 title: Usare provider indiretti nel programma CSP
 ms.topic: how-to
-ms.date: 10/09/2020
+ms.date: 12/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come i rivenditori indiretti possono collaborare con i provider indiretti (o distributori) Microsoft per ottenere assistenza su supporto tecnico e fatturazione dei clienti.
 ms.prod: ''
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795849"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514748"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informazioni per collaborare con provider indiretti nel programma Cloud Solution Provider
-
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -70,37 +66,26 @@ Da ottobre 2020 tutti i partner Microsoft nuovi per CSP effettueranno l'iscrizio
 
 1. Per avviare la procedura di iscrizione, passare alla [**pagina di benvenuto**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) per la registrazione.
 
-2. Rivedi la **pagina iniziale** per assicurarti di avere le informazioni necessarie per l'iscrizione e quindi seleziona **Successiva** .
+2. Rivedi la **pagina iniziale** per assicurarti di avere le informazioni necessarie per l'iscrizione e quindi seleziona **Successiva**.
 
-3. Accedere con il proprio account aziendale. Selezionare **Accedi** e quindi immettere il nome utente e la password usati per accedere come un amministratore globale per Office 365, Microsoft Azure o Microsoft Dynamics CRM.
+3. Eseguire l'accesso con l'account aziendale, ovvero con il nome utente e la password usati per accedere come amministratore globale per Office 365, Microsoft Azure o Microsoft Dynamics CRM. Se non si dispone di un account aziendale, selezionare **Crearne uno** per configurarne uno adesso. Dopo aver creato un account aziendale, accedere usando le credenziali di amministratore globale per il nuovo account.
 
-   Se non si dispone di un account aziendale, selezionare **Crearne uno** per configurarne uno adesso. Dopo aver creato un account aziendale, accedere usando le credenziali di amministratore globale per il nuovo account.
-
-4. Leggere le informazioni su come associare l'ID del Microsoft Partner Network (ID MPN) al nuovo account del Centro per i partner. È necessario collegare l'ID MPN della società al nuovo account del Centro per i partner, in modo che sia possibile gestire i vantaggi dell'adesione e gli incentivi nel Centro per i partner. Selezionare **Accedi** .
-
-5. Immettere il nome utente usato per accedere al sito Partner Membership Center (PMC). Il sito Partner Membership Center è quello in cui attualmente si gestisce il proprio account di partner Microsoft. L'accesso al Partner Membership Center consente di recuperare l'ID MPN e di associarlo al nuovo account del Centro per i partner. Selezionare **Avanti** .
-
-6. Immettere la password dell'account Partner Membership Center e quindi selezionare **Accedi** .
-
-7. Selezionare il profilo della società con l'ID MPN collegato agli incentivi, ai vantaggi dell'adesione e alle competenze. Puoi quindi trasferire queste informazioni al tuo account di Partner Center. Seleziona **Continua** .
-
-   Se l'ID MPN che si vuole usare non è presente in questa pagina, selezionare **Annulla** e accedere di nuovo con il nome utente e la password del profilo della società che si intende usare.
 
    > [!IMPORTANT]  
-   > Selezionare l'ID MPN associato a un profilo della società attivo che si trovi nello stesso paese e/o nella stessa area geografica del tenant di Azure AD.
+   > Selezionare l'ID MPN associato al profilo attivo della società, che si trova nello stesso paese e/o nella stessa area geografica del tenant di Azure AD.
 
-8. Fornire o aggiornare il profilo legale aziendale della società, le informazioni del contatto principale e quelle dell'assistenza clienti. Selezionare **Registrati ora** .
+4. Fornire o aggiornare il profilo legale aziendale della società, le informazioni del contatto principale e quelle dell'assistenza clienti. Per trovare le informazioni aziendali legali, selezionare **Profilo dell'organizzazione** e quindi **Informazioni legali**. Selezionare **Registrati ora**.
 
-   Il contatto principale deve essere la persona all'interno della società che può essere contattata in merito alla richiesta. Il contatto principale può essere l'utente corrente o un'altra persona all'interno della società. Nota: non sono accettati indirizzi di posta elettronica di servizi di posta elettronica basati sul Web, ad esempio Gmail, Yahoo! Mail, iCloud Mail, AOL Mail o Posta di Outlook.
+   Il contatto principale è la persona all'interno della società che può essere contattata in merito alla richiesta. Può trattarsi dell'utente corrente o di un'altra persona all'interno della società. Nota: non sono accettati indirizzi di posta elettronica di servizi di posta elettronica basati sul Web, ad esempio Gmail, Yahoo! Mail, iCloud Mail, AOL Mail o Posta di Outlook.
 
    > [!IMPORTANT]  
    > Per garantire la sicurezza e la privacy della tua azienda, invieremo un'e-mail al contatto principale per verificare che (1) abbia effettuato la registrazione per ottenere un account del Centro per i partner e che (2) l'indirizzo e-mail appartenga all'azienda. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueranno le verifiche delle informazioni fornite. Gli aggiornamenti sullo stato della registrazione verranno inviati tramite posta elettronica al contatto principale.
 
-9. Quando l'account del Centro per i partner sarà pronto per l'uso, verifica di essere stato aggiunto al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, è necessario disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attenersi alla procedura seguente:
+5. Quando l'account del Centro per i partner sarà pronto per l'uso, verifica di essere stato aggiunto al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, è necessario disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attenersi alla procedura seguente:
 
-   1. Nel **Centro per i partner** selezionare l'icona **Impostazioni** e quindi selezionare **Gestione utenti** .
+   1. Nel dashboard Centro per i partner selezionare l'icona **Impostazioni** e quindi, in **Impostazioni account**, selezionare **Gestione utenti**.
 
-   2. Seleziona il tuo nome dall'elenco degli utenti. Seleziona quindi **Agente amministratore** se non è già selezionato. Selezionare **Aggiorna** .
+   2. Seleziona il tuo nome dall'elenco degli utenti. Seleziona quindi **Agente amministratore** se non è già selezionato. Selezionare **Aggiorna**.
 
 ## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Tutti i rivenditori indiretti devono firmare il Contratto Microsoft Partner
 
@@ -125,7 +110,7 @@ Qualora un provider indiretto intenda entrare in contatto con te nel Centro per 
 
 2. Per accettare l'invito, fai clic sul collegamento incluso nel messaggio di posta elettronica del provider. Potrebbe essere necessario accedere nuovamente al Centro per i partner.
 
-3. Per confermare la partnership con il provider, selezionare la casella e quindi selezionare **Autorizza provider indiretto** . Il provider è ora incluso nella pagina **Provider indiretti** e l'azienda è inclusa nella pagina **Rivenditori indiretti** del provider.
+3. Per confermare la partnership con il provider, selezionare la casella e quindi selezionare **Autorizza provider indiretto**. Il provider è ora incluso nella pagina **Provider indiretti** e l'azienda è inclusa nella pagina **Rivenditori indiretti** del provider.
 
    > [!NOTE]  
    > Quando stabilisci una relazione con un provider indiretto, lo autorizzi a inviare ordini e aggiungere sottoscrizioni per conto dei tuoi clienti e gli concedi l'accesso di tipo amministratore all'account aziendale della società. Dopo aver stabilito la relazione con il provider, è possibile rimuovere l'accesso come amministratore del provider all'account aziendale nel portale di Office 365.
@@ -138,6 +123,10 @@ Qualora un provider indiretto intenda entrare in contatto con te nel Centro per 
 
    > [!IMPORTANT]  
    > Per inviare ordini per conto dei clienti, il provider indiretto deve avere con loro una relazione come rivenditore.
+
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>Paese CSP e aree geografiche CSP in cui si svolgono le attività aziendali
+
+La sede aziendale legale come rivenditore indiretto CSP determina i provider indiretti con i quali è possibile collaborare e le aree geografiche in cui è possibile operare come CSP. Per altre informazioni, vedere [Mercati e valute delle aree geografiche del programma Cloud Solution Provider in cui è possibile vendere le offerte CSP](regional-authorization-overview.md).
 
 
 ## <a name="next-steps"></a>Passaggi successivi

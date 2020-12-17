@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556447"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011528"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gestire l'account del Centro per i partner: profilo della società, informazioni bancarie, ruoli, autorizzazioni e altri dati
 
 **Ruoli appropriati**: amministratore globale, amministratore MPN
 
-L'account che crei nel Centro per i partner quando esegui la registrazione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account, è necessario terminare la configurazione del profilo completo della società, inclusi i dettagli sul supporto, le eventuali esenzioni fiscali e le informazioni sul contatto principale. L'account dell'azienda includerà anche gli account utente per chiunque usi il Centro per i partner per aggiungere o gestire clienti, vendere sottoscrizioni, gestire la fatturazione, creare profili di business, gestire segnalazioni, usare programmi di incentivi e fornire servizi di supporto.
+L'account creato nel Centro per i partner al momento dell'iscrizione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account, è necessario terminare la configurazione del profilo completo della società, inclusi i dettagli sul supporto, le eventuali esenzioni fiscali e le informazioni sul contatto principale. L'account dell'azienda includerà anche gli account utente per chiunque usi il Centro per i partner per aggiungere o gestire clienti, vendere sottoscrizioni, gestire la fatturazione, creare profili di business, gestire segnalazioni, usare programmi di incentivi e fornire servizi di supporto.
 
 Vedere anche gli articoli [Invitare i dipendenti a partecipare al Centro per i partner](guide-to-migration.md) e [Aggiungere un nuovo utente](create-user-accounts-and-set-permissions.md).
 
@@ -41,9 +41,19 @@ Questa immagine rappresenta la pagina Impostazioni account.
 
 Sia i partner che gli sviluppatori possono usare l'ID MPN per operazioni come la registrazione dei ticket di supporto. L'ID MPN si trova nella pagina **Informazioni legali**. È possibile trovarlo anche nel **profilo dell'identità**.
 
+## <a name="account-settings---partners-resellers"></a>Impostazioni account: partner e rivenditori
+
+Quando si seleziona l'icona **Impostazioni** e si apre il menu **Impostazioni account**, la visualizzazione predefinita, se l'azienda aderisce al programma Cloud Solution Provider, è costituita dalla pagina **Informazioni legali** contenente due schede, **Partner** e **Rivenditore**. Ogni scheda include alcuni aspetti dell'azienda.
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu con le schede per partner e rivenditori":::
+
+La scheda Partner include tutte le informazioni aziendali legali, ad esempio il nome legale e l'indirizzo registrati, nonché il contatto principale e le sedi aziendali. La scheda Rivenditore per i partner che operano come CSP include la pagina **Profilo del supporto clienti**.
+
+Se l'azienda non partecipa al programma CSP, nella visualizzazione predefinita viene visualizzata solo la scheda **Partner** con l'area **Profilo del supporto clienti** inclusa.
+
 ## <a name="organization-profile"></a>Profilo dell'organizzazione
 
-Queste pagine consentono di gestire aree quali il profilo aziendale legale, il profilo di partner e le sedi della società. Per modificare questa area, selezionare le schede, ad esempio **Note legali** o **Tenant** (descritte in dettaglio più avanti). Selezionare la scheda corrispondente al programma a cui si è interessati (MPN, CSP o Marketplace commerciale) per visualizzare le informazioni personali e lo stato di verifica.
+Usare queste pagine per gestire le aree dell'azienda a un livello più profondo, inclusi il profilo aziendale legale, il profilo partner e i tenant. Gestire ogni area separatamente. Sono descritte di seguito. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu Informazioni legali.":::
 
@@ -81,7 +91,7 @@ Le attività svolte nel Centro per i partner e le aree che è possibile aggiorna
 
 Per aggiornare l'indirizzo e-mail preferito per la ricezione delle notifiche del Centro per i partner:
 
-1. Accedere al [dashboard del Centro per i partner](https://partner.microsoft.com/dashboard).
+1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard).
 1. Passare alla preferenza [**Engagement**](https://partner.microsoft.com/dashboard/engagement/preference), selezionare il collegamento **Cambia**, aggiornare l'indirizzo e-mail e selezionare **Salva**.
 
 ### <a name="find-your-user-role"></a>Trovare il proprio ruolo utente

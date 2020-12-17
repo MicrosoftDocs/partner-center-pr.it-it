@@ -1,7 +1,7 @@
 ---
 title: Acquistare o rinnovare le offerte di Microsoft Action Pack
-ms.topic: article
-ms.date: 11/23/2020
+ms.topic: how-to
+ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Scopri come acquistare un abbonamento a Microsoft Action Pack e iniziare a sfruttare i vantaggi offerti da Action Pack. Scopri anche come effettuare il rinnovo o l'annullamento, come visualizzare la fattura e altro ancora.
@@ -9,20 +9,15 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812860"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514716"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Acquistare o rinnovare un abbonamento a Microsoft Action Pack oppure competenze Silver o Gold
 
-**Si applica a**
-
-- Centro per i partner
-- Partner Membership Center
-- Partner del programma MPN
 
 **Ruoli appropriati**
 
@@ -30,13 +25,13 @@ ms.locfileid: "95812860"
 - Amministratore utenti
 - Amministratore dei partner MPN
 - Agente amministratore
-- Agente di vendita
 
-Ora, dal [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner, i membri di Microsoft Partner Network (MPN.md) possono acquistare o rinnovare le offerte di vantaggi. Queste offerte includono l'abbonamento a Microsoft Action Pack e competenze Silver e Gold.
+
+Nel [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner i membri di Microsoft Partner Network (MPN) possono acquistare o rinnovare offerte vantaggiose, incluse la sottoscrizione a Microsoft Action Pack e le competenze Silver e Gold.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Acquistare Microsoft Action Pack per la prima volta
 
-Se è la prima volta che collabori con Microsoft, il passaggio iniziale consiste nell'aggiungerti a Microsoft Partner Network. Se non sei ancora un membro della rete dei partner, vai alla [pagina di adesione](https://partner.microsoft.com/membership) sul sito di tale rete e seleziona **Iscriviti subito** quando sei pronto per la registrazione. 
+Se è la prima volta che collabori con Microsoft, il passaggio iniziale consiste nell'aggiungerti a Microsoft Partner Network. Per partecipare al programma MPN, passare alla [pagina di adesione](https://partner.microsoft.com/membership) nel sito Web Microsoft Partner Network e selezionare **Iscriviti subito** quando si è pronti per l'iscrizione.
 
 Dopo aver aderito alla rete dei partner, segui le [istruzioni disponibili sul sito di tale rete](https://partner.microsoft.com/membership/action-pack) (è richiesto l'accesso) per acquistare il tuo primo abbonamento ad Action Pack. 
 
@@ -62,7 +57,7 @@ Diventa un [partner con competenze](https://partner.microsoft.com/membership/com
 2. Seleziona **Rinnova l'abbonamento**, quindi il metodo di pagamento. Puoi pagare tramite carta di credito o bonifico bancario.
 
     >[!NOTE]
-    >Se l'opzione **Rinnova l'abbonamento** non viene visualizzata o è disattivata, non hai ancora l'idoneità per rinnovare l'abbonamento ad Action Pack. I criteri della finestra di rinnovo sono stati modificati e solo dopo la scadenza potrai rinnovare l'abbonamento. Ad esempio, se l'abbonamento scade il 22 giugno, puoi rinnovarlo a partire dal 23 giugno e per i successivi 30 giorni.  
+    >Se l'opzione **Rinnova l'abbonamento** non viene visualizzata o è disattivata, non hai ancora l'idoneità per rinnovare l'abbonamento ad Action Pack. I criteri della finestra di rinnovo sono stati modificati in modo da poter rinnovare la sottoscrizione **solo dopo** la scadenza. Ad esempio, se l'abbonamento scade il 22 giugno, puoi rinnovarlo a partire dal 23 giugno e per i successivi 30 giorni.  
 
 3. Se paghi tramite carta di credito, segui le istruzioni per l'aggiunta dei dati relativi alla carta. Se paghi tramite bonifico bancario, fornisci un nome di contatto, un numero di telefono e un indirizzo e-mail, quindi seleziona **Invia**.
 
@@ -70,15 +65,13 @@ Diventa un [partner con competenze](https://partner.microsoft.com/membership/com
 
 5. L'ordine è confermato. Seleziona **Chiudi**.
 
-L'abbonamento ad Action Pack verrà rinnovato automaticamente ogni anno in tale data.
-
 ### <a name="update-your-bill-to-address"></a>Aggiornare l'indirizzo di fatturazione
 
 Nel processo di rinnovo o acquisto di Action Pack, è possibile convalidare l'indirizzo di fatturazione.
 
  1. Dopo aver selezionato **Invia** è possibile esaminare i dettagli dell'acquisto. Se si nota che è necessario aggiornare l'indirizzo, selezionare **Aggiorna**.
   
- 1. Nella pagina **Profilo partner** aggiornare l'indirizzo.
+ 1. Nella pagina **Profilo legale** aggiornare l'indirizzo.
 
 ## <a name="cancel-your-action-pack-subscription"></a>Annullare l'abbonamento ad Action Pack
 
@@ -115,6 +108,3 @@ Per controllare lo stato della tua richiesta di servizio, seleziona **Richieste 
 -   [Aggiungere utenti e assegnare le relative autorizzazioni](create-user-accounts-and-set-permissions.md)
 
 -   [Creare un profilo di business per ottenere lead di vendita da Microsoft](create-a-marketing-profile.md)
-
-
-

@@ -738,6 +738,8 @@
     - name: Imposizione MFA per il tenant partner
       href: partner-security-requirements-mandating-mfa.md
       displayName: csp
+    - name: Configurare gli utenti con MFA
+      href: mfa-for-users.md
     - name: Stato conformità
       href: partner-security-compliance.md
       displayName: csp

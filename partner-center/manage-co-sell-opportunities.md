@@ -1,7 +1,7 @@
 ---
 title: Gestire opportunità di co-selling
 ms.topic: article
-ms.date: 06/02/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: I partner Microsoft qualificati possono co-vendere con Microsoft. Scopri come definire le offerte, invitare Microsoft a collaborare o visualizzare le offerte inviate.
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417269"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622202"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gestisci opportunità di co-selling nel centro per i partner
 
@@ -44,13 +44,19 @@ Sfrutta le opportunità di co-selling.  Le opportunità di co-selling sono una c
 
 ## <a name="navigating-the-co-sell-section"></a>Esplorazione della sezione di co-selling
 
-Nella sezione di co-selling sono disponibili tre schede di primo livello.
+Per accedere alla sezione di co-selling, attenersi alla procedura seguente:
 
-In **ingresso** : tutte le opportunità inviate al partner da venditori Microsoft per la vendita collaborativa sono disponibili in questa scheda.
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
 
-In **uscita** : tutte le opportunità create dal partner sono disponibili in questa scheda. I partner possono creare tre diverse categorie di opportunità: co-selling, private e partner to partner.
+2. Dal menu di spostamento a sinistra selezionare **rinvii**, quindi le **opportunità di co-selling**.
 
-**Preferiti** : le opportunità contrassegnate come preferiti nelle schede per le opportunità di co-selling in ingresso o in uscita verranno visualizzate in questa scheda. Contrassegnare un'opportunità come preferita facendo clic sull'icona a forma di cuore nell'opportunità nella visualizzazione elenco. È possibile rimuovere l'opportunità dai Preferiti facendo semplicemente clic sulla stessa icona.
+   In questa sezione vengono visualizzate tre schede di primo livello:
+
+   - In **ingresso** : tutte le opportunità inviate al partner da venditori Microsoft per la vendita collaborativa sono disponibili in questa scheda.
+
+   - In **uscita** : tutte le opportunità create dal partner sono disponibili in questa scheda. I partner possono creare tre diverse categorie di opportunità: co-selling, private e partner to partner.
+
+   - **Preferiti** : le opportunità contrassegnate come preferiti nelle schede per le opportunità di co-selling in ingresso o in uscita verranno visualizzate in questa scheda. Contrassegnare un'opportunità come preferita facendo clic sull'icona a forma di cuore nell'opportunità nella visualizzazione elenco. È possibile rimuovere l'opportunità dai Preferiti facendo semplicemente clic sulla stessa icona.
 
 ## <a name="creating-a-co-sell-opportunity"></a>Creazione di un'opportunità di co-selling
 
@@ -75,7 +81,7 @@ Immettere i dettagli dell'operazione corrente. I campi definiti di seguito posso
 | **Nome campo** | **Obbligatorio/facoltativo** | **Dettagli** |
 |-------------|--------|-------|
 |**Nome dell'affare** | Obbligatorio | Nome descrittivo per identificare l'operazione in un secondo momento. |
-|**Posizione**| Obbligatorio | Ambito del percorso MPN del riferimento. I riferimenti agli utenti con questo ambito di località possono visualizzare i riferimenti se fanno parte del team. I riferimenti agli amministratori e agli amministratori di riferimento con ambito globale possono visualizzare i riferimenti indipendentemente dalla posizione. Non è possibile modificare il percorso dopo aver creato il riferimento.|
+|**Località**| Obbligatorio | Ambito del percorso MPN del riferimento. I riferimenti agli utenti con questo ambito di località possono visualizzare i riferimenti se fanno parte del team. I riferimenti agli amministratori e agli amministratori di riferimento con ambito globale possono visualizzare i riferimenti indipendentemente dalla posizione. Non è possibile modificare il percorso dopo aver creato il riferimento.|
 |**Valore stimato** | Obbligatorio | Il valore dell'operazione in base alle informazioni disponibili durante la creazione dell'operazione.|
 |**Data di chiusura stimata**| Obbligatorio| Data in base alla quale si prevede di chiudere l'accordo con il cliente. |
 |**ID CRM**| Facoltativo | Contrassegnare l'operazione con l'ID dell'opportunità nel rispettivo CRM a scopo di verifica.|

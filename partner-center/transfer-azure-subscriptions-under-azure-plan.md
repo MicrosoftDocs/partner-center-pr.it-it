@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
+ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94433348"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "97893207"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Trasferire le sottoscrizioni di piano di Azure di un cliente a un partner diverso
 
@@ -49,7 +49,7 @@ Il cliente deve essere in conversazione con entrambi i partner (attuali e futuri
 
 - Il cliente si impegna a eseguire la transizione del partner CSP corrente
 - Il partner CSP futuro collabora con il cliente per garantire che le esigenze dei clienti possano essere soddisfatte
-- Il partner CSP futuro stabilisce una relazione con il cliente prima dell'inizio della transizione  
+- Il partner CSP futuro stabilisce una relazione con il cliente e acquista un piano di Azure prima dell'inizio della transizione  
 - Il cliente deve firmare il contratto per i clienti Microsoft con il partner CSP futuro
 - Il partner CSP futuro deve avere firmato il contratto per i partner Microsoft per usare questo strumento
 
@@ -66,7 +66,7 @@ Il cliente deve inoltre identificare le sottoscrizioni che si desidera trasferir
 
 Il partner futuro della sottoscrizione deve completare un modulo di richiesta di trasferimento dal centro per i partner per richiedere il trasferimento di una sottoscrizione:
 
-1.  Dal menu centro per i partner selezionare **Customers** , quindi selezionare il cliente per il quale si desidera completare un modulo di richiesta di trasferimento.
+1.  Dal menu centro per i partner selezionare **Customers**, quindi selezionare il cliente per il quale si desidera completare un modulo di richiesta di trasferimento.
 2.  Dal menu cliente selezionare **sottoscrizioni**.
 3.  Selezionare la sezione **richiesta di trasferimento** .
 4.  Nella **sezione richiesta di trasferimento** selezionare **Aggiungi nuova richiesta**.
@@ -90,7 +90,7 @@ Il partner futuro della sottoscrizione deve completare un modulo di richiesta di
 
 L'agente di amministrazione del partner corrente riceverà un messaggio di posta elettronica che indica che il cliente richiede il trasferimento delle sottoscrizioni:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Verifica":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Revisione":::
 
 Esaminare e accettare il modulo di richiesta di trasferimento dal centro per i partner per completare il trasferimento della sottoscrizione.
 
@@ -98,7 +98,7 @@ Esaminare e accettare il modulo di richiesta di trasferimento dal centro per i p
 >Se non viene eseguita alcuna azione da parte del partner corrente entro 30 giorni, la richiesta scadrà e il partner futuro avrà un per creare una nuova richiesta di trasferimento.
 
 1.  Selezionare **Verifica trasferimento richiesta** dal messaggio di posta elettronica o
-1.  Dal menu centro partner selezionare **Customers** , quindi selezionare il cliente a cui è stata inviata una richiesta di trasferimento per conto di.
+1.  Dal menu centro partner selezionare **Customers**, quindi selezionare il cliente a cui è stata inviata una richiesta di trasferimento per conto di.
 2.  Dal menu cliente selezionare **sottoscrizioni**.
 3.  Selezionare la sezione **richiesta di trasferimento** .
 4.  Espandi le informazioni sul trasferimento selezionando l' **ID richiesta di trasferimento** selezionato in **richieste ricevute**

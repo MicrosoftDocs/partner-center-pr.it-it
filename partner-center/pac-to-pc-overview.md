@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174907"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720833"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>L'interfaccia di amministrazione partner si sposta nel Centro per i partner
 
@@ -41,13 +41,10 @@ Durante il 2018 aprile, PAC verrà ritirato e i partner CSP inizieranno a essere
 
 - Partner Cloud Solutions Provider: se si è un partner CSP, verrà automaticamente reindirizzato al centro per i partner a partire dal 2018 aprile.
 
-- Partner Advisor (se non si esegue la transazione tramite CSP e si usa PAC per fornire le versioni di valutazione per i clienti): non appena si decide la sequenza temporale per il reindirizzamento automatico al centro per i partner, l'annuncio verrà annunciato qui.
+- Partner di Advisor (se non si esegue la transazione tramite CSP e si usa PAC per fornire le versioni di valutazione per i clienti): se si è un partner Advisor, verrà automaticamente reindirizzato al centro per i partner a partire da giugno 2020.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Inizia subito a usare il centro per i partner Microsoft.
 
 Inizia subito a usare [il centro per i partner Microsoft](https://partnercenter.microsoft.com/) per prepararti al passaggio da PAC.  Verranno usate le stesse credenziali per il centro per i partner usato per PAC.
 
-> [!IMPORTANT]  
-> Alcune funzionalità e funzioni disponibili in PAC non saranno disponibili nel centro per i partner.
-
- Leggere il [confronto affiancato](moving-from-pac-to-pc.md) per comprendere e acquisire familiarità con queste modifiche. 
+Leggere il [confronto affiancato](moving-from-pac-to-pc.md) per comprendere e acquisire familiarità con queste modifiche.

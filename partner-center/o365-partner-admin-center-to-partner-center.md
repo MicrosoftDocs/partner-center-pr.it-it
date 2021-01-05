@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a9270f405b58ee065a67427395a392128b3eda1
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 51dd9bc389077f4b472e2e13f1170214ad1d382d
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114591"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720816"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Partner dell'interfaccia di amministrazione di Office 365 partner: prepararsi per spostare le operazioni aziendali nel centro per i partner
 
@@ -36,9 +36,7 @@ Verranno riportate le funzionalità dell'interfaccia di amministrazione dei part
 - Inviare ai clienti inviti a stabilire relazioni per conto tuo e del tuo provider
 - Gestire i singoli utenti e assegnare licenze più facilmente
 
-Puoi iniziare subito a usare il Centro per i partner per molte delle attività per cui oggi usi l'interfaccia di amministrazione partner di Office 365. 
-
-Per ora, entrambi i siti sono supportati, quindi durante la transizione al nuovo sito sarà comunque possibile usare l'interfaccia di amministrazione di Office 365 partner. Qualsiasi modifica effettuata in uno dei due siti verrà visualizzata in entrambi.
+Si verrà reindirizzati immediatamente a partner Center per tutte le attività attualmente utilizzate dall'interfaccia di amministrazione dei partner di Office 365 per.
 
 ## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>Trovare le funzionalità dell'interfaccia di amministrazione partner di Office 365 nel Centro per i partner
 
@@ -46,9 +44,9 @@ Il completamento delle attività nel centro per i partner viene eseguito in modo
 
 | Funzionalità dell'interfaccia di amministrazione partner di Office 365                       | Dove si trova nel Centro per i partner? | 
 |   -----------------------------------------------  | -------------- |
-| Crea la tua azienda: crea un'offerta di acquisto | Collabora con il tuo provider per vendere offerte ai tuoi clienti |
+| Crea la tua azienda: crea un'offerta di acquisto | Centro per i partner: Offerte di valutazione e acquisto > creare un'offerta di acquisto |
 | Crea la tua azienda: Richiedi autorizzazioni di amministratore delegato | Centro per i partner: i clienti > richiedere una relazione del rivenditore |
-| Crea la tua azienda: crea inviti alla versione di valutazione | Non disponibile. È ancora possibile usare l'interfaccia di amministrazione partner di Office 365 per questa operazione |
+| Crea la tua azienda: crea inviti alla versione di valutazione | Centro per i partner: Offerte di prova e acquisto > creare un invito alla versione di valutazione |
 | Richieste di servizio: Elenco client: interfaccia di amministrazione di Office 365 | Centro per i partner: clienti > amministrare i servizi |
 | Richieste di servizio: Elenco client: richieste di servizio | Centro per i partner: richiesta del servizio > richieste del cliente |
 | Richieste di servizio: contrassegnate | Dashboard: Customers: selezionare la stella accanto al nome della società |

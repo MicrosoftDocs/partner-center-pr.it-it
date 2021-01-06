@@ -2,25 +2,22 @@
 title: Come vendere offerte ai clienti della formazione
 description: Informazioni su come creare un cliente di formazione e vendervi offerte nel centro per i partner. Include la conferma dello stato di verifica per i clienti della formazione.
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 12/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175074"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916917"
 ---
-# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Come vendere offerte ai clienti della formazione & come creare un cliente per la formazione nel centro per i partner
+# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Come vendere offerte ai clienti dell'istruzione e come creare un cliente di formazione nel centro per i partner
 
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -49,6 +46,10 @@ Questo articolo illustra come creare un cliente Education in Partner Center e co
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="Account del cliente Education":::
 
+4. Dopo la conferma della **Verifica**, si riceverà uno stato di **inverifica** se le informazioni inviate sono valide. 
+
+    :::image type="content" source="images/edu/create-review.png" alt-text="Account del cliente Education in Revisione"lightbox="images/edu/create-review-expanded.png":::
+
 ### <a name="confirm-your-education-customers-verification-status"></a>Confermare lo stato di verifica del cliente della formazione
 
 Nella pagina dell' **account** del cliente vedere **lo stato speciale della qualifica**.
@@ -56,15 +57,19 @@ Esempi di stato:
 
 - Se il cliente ha superato la verifica: Education
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Account del cliente Education":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Verifica dell'istruzione riuscita":::
 
 - Se il cliente non ha superato la verifica: non è un cliente di istruzione
 
-   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Account del cliente Education":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="La verifica dell'istruzione non è riuscita" lightbox="images/edu/fail-reason-expanded.png":::
 
 - Se il cliente non è stato contrassegnato come cliente Education: nessuno
 
-   :::image type="content" source="images/edunottagged.png" alt-text="Account del cliente Education":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="il cliente Education non è contrassegnato come tale" lightbox="images/edu/account-one-expanded.png":::
+
+- Se il cliente è in giudizio come cliente della formazione: in Revisione
+
+    :::image type="content" source="images/edu/in-review.png" alt-text="il cliente dell'istruzione è in Revisione" lightbox="images/edu/in-review-expanded.png":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Correggere le informazioni sull'account del cliente e inviare di più la verifica
 

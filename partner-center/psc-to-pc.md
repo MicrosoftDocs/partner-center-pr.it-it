@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776909"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916848"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
 
@@ -320,6 +320,20 @@ Non è possibile accedere direttamente al centro per i partner PDM a differenza 
 - OCP Insights: se PDM Visualizza solo le offerte e lo stato di avanzamento correlati, è possibile usare il portale di OCP Insights per ottenere la visualizzazione dell'organizzazione. Si tratta di uno strumento interno ed è disponibile solo per PDM. Si noti che OCP Insights non è disponibile per gli utenti della società.
 - Utente guest in centro per i partner: è possibile aggiungere l' @microsoft.com account PDM come utente Guest nel centro per i partner e assegnare loro un ruolo di amministratore in modo che possano visualizzare e agire sui riferimenti.
 - Creazione di un [nuovo utente](./create-user-accounts-and-set-permissions.md#add-a-new-user) nel tenant: è possibile creare un nuovo utente nel tenant e condividere i dettagli con il PDM in modo che possano visualizzare i riferimenti e agire su di essi in modo analogo ad altri utenti di riferimento nell'account.
+
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>Individuazione dell'ID MPN corretto se l'account in CPS non è associato a un MPN non valido
+
+Se ci si trova nel punto in cui si è visto un banner in PSC che menziona "CPS non valido MPN ID Association problem", l'utente si trova nel posto giusto.
+
+Per prima cosa, trovare l'ID MPN corretto attenendosi alla procedura seguente
+
+- Accedere all'account del centro per i partner
+- Usare le indicazioni fornite nella [documentazione delle impostazioni dell'account](./partner-center-account-setup.md#locate-your-mpn-id) per individuare l'ID MPN.
+
+Successivamente,
+
+- Se si dispone di un PDM, chiedere loro di correggere l'ID MPN con l'ID MPN corretto dall'account del centro per i partner.
+- Se non si dispone di un PDM, inviare un messaggio di posta elettronica all'indirizzo indicato nel banner del CPS con le informazioni sull'account PSC visualizzate nel banner del CPS e l'ID MPN corretto dall'account del centro per i partner.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Risorse che consentono di creare e gestire le proprie offerte nel centro per i partner
 

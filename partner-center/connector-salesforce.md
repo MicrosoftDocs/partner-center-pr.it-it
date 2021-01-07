@@ -1,19 +1,19 @@
 ---
 title: Connettore di co-selling per Salesforce CRM Partner Center
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sincronizzare i riferimenti nel centro per i partner con Salesforce CRM. I venditori possono quindi co-vendere con Microsoft dall'interno dei sistemi CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947852"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960952"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connettore di co-selling per CRM Salesforce - Panoramica
 
@@ -51,7 +51,7 @@ Per sincronizzare i riferimenti tra il centro per i partner e Salesforce CRM, la
 
 3. In Salesforce installare i campi e gli oggetti personalizzati usando il programma di installazione del pacchetto riportato di seguito.
   
-Per installare il pacchetto in qualsiasi azienda, fare clic [qui](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) :
+Per installare il pacchetto in qualsiasi azienda, fare clic [qui](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) .
 
 
 Nota: se si esegue l'installazione in un ambiente sandbox, è necessario sostituire la parte iniziale dell'URL con http://test.salesforce.com
@@ -179,7 +179,7 @@ Le API webhook del centro per i partner consentono di effettuare la registrazion
 
 9. Assicurarsi che la finestra "Esegui flusso" si apra nel riquadro di destra e fare clic su **continua**.
 
-10. Immettere i dettagli seguenti:
+10. Immettere le informazioni seguenti:
 
     1. **Endpoint trigger http**: URL copiato dal passaggio precedente
 

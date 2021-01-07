@@ -301,6 +301,9 @@
         - name: Attestazioni cooperative per gli incentivi
           href: claims-overview.md
           displayName: incentives
+        - name: Visualizzare i fondi co-op disponibili
+          href: incentives-view-funds.md
+          displayName: incentives
         - name: Gestire le attestazioni cooperative
           href: create-incentives-claims.md
           displayName: incentives

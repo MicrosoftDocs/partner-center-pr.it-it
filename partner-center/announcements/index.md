@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/17/2020
-ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.date: 12/21/2020
+ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
+ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666741"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97736540"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,13 +22,16 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di dicembre 2020** | **Annunciato** |
 |---------|:---------|:---------|
-|Offerte/mercati|[Software con licenza perpetua in CSP:  nuovi prodotti e aree geografiche](2020-december.md#10)|17 dicembre|
+|Offerte|[I fondi del programma Channel Incentives Cooperative Marketing Fund (Co-op) non usati nel periodo di utilizzo della prima metà dell'anno fiscale 2021 vengono rinnovati per il periodo di utilizzo della seconda metà dell'anno](2020-december.md#13)|22 dicembre|
+|Funzionalità|[Migrazione di DocuSign ad Adobe Sign nel 2021 per i partner che hanno sottoscritto contratti Microsoft Partner](2020-december.md#12)|22 dicembre|
+|Offerte/mercati|[Pianificazioni di prezzi e catalogo di gennaio 2021](2020-december.md#11)|22 dicembre|
+|Funzionalità|[Supporto app e servizi Microsoft 365 di Internet Explorer 11 e della versione legacy di Microsoft Edge](2020-december.md#10)|21 dicembre|
 |Crescita aziendale|[Enti pubblici, istituzioni accademiche e organizzazioni no profit: continuazione delle modifiche e dell'evoluzione del programma Open License di CSP](2020-december.md#9)|17 dicembre|
 |Offerte/mercati|[Modifiche apportate ai requisiti di onboarding dei clienti Cloud Solution Provider (CSP)](2020-december.md#8)|17 dicembre|
 |Crescita aziendale|[Promemoria: software con licenza perpetua del programma Cloud Solution Provider (CSP) generalmente disponibile a partire da gennaio 2021](2020-december.md#7)|17 dicembre|
 |Funzionalità|[Guida all'autorizzazione per i servizi online e il canale software](2020-december.md#6)|17 dicembre|
 |Offerte/mercati|[Promozione di Power Apps ora disponibile](2020-december.md#5)|16 dicembre|
-|Funzionalità|[Versione dell'SDK in .NET Standard (v1.16.3)](2020-december.md#4)|8 dicembre|
+|Capabilities|[Versione dell'SDK in .NET Standard (v1.16.3)](2020-december.md#4)|8 dicembre|
 |Offerte/mercati|[Note sulla versione dell'elenco prezzi basato su licenza di dicembre 2020](2020-december.md#3)|8 dicembre|
 |Offerte/mercati|[Aggiornamento dell'offerta Microsoft 365 Business Voice per gli Stati Uniti con piano per chiamate presto disponibile](2020-december.md#2)|3 dicembre|
 |Capabilities|[Ora disponibile: aggiornamenti delle API e miglioramenti dell'interfaccia utente del Centro per i partner per il processo di convalida dei clienti del settore della formazione](2020-december.md#1)|3 dicembre|

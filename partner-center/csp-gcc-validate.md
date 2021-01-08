@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cae255b05b00739ee7db15c8ba298df11ca74788
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114382"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979638"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 Government GCC per il partner CSP e i criteri di idoneità dei clienti-centro per i partner
-
-**Si applica a**
-
-- Centro per i partner
-- Partner CSP
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC per il partner CSP e i criteri di idoneità dei clienti 
 
 **Ruoli appropriati**
 
@@ -32,7 +27,7 @@ ms.locfileid: "87114382"
 >[!NOTE]
 >Il processo e i criteri di convalida descritti di seguito sono specifici per i partner Direct fattura. I partner Direct Bill includono rivenditori diretti e provider indiretti.  Se si è un rivenditore indiretto, collaborare con il provider indiretto.
 
-Se si è interessati alla presenza dell'organizzazione (o dell'organizzazione del cliente) approvata per Office 365 Government GCC per CSP, esaminare i requisiti seguenti.
+Se si desidera che la propria azienda (o la società del cliente) sia approvata per Office 365 Government GCC per CSP, esaminare i requisiti indicati di seguito.
 
 È possibile approvare se si è un partner che usa enti governativi federali, statali, locali o tribali. Per fare in modo che l'idoneità alle organizzazioni venga convalidata, completare il breve modulo disponibile [qui](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
@@ -68,3 +63,6 @@ Office 365 Government GCC per i partner CSP e i clienti verranno convalidati per
 
 Un'entità commerciale internazionale può essere qualificata se soddisfano i requisiti indicati in precedenza ed è stata verificata la presenza degli Stati Uniti, ad esempio l'indirizzo postale, la posizione fisica e così via.
 
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Vendere Office 365 Government GCC per le sottoscrizioni CSP per i clienti qualificati](csp-gcc-overview.md)

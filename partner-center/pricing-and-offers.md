@@ -1,7 +1,7 @@
 ---
 title: Prezzi e offerte
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vedi gli elenchi prezzi correnti per servizi basati su licenze come Office 365, Microsoft Dynamics CRM ed Enterprise Mobility Suite e servizi basati sull'utilizzo come Azure.
@@ -9,18 +9,15 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444796"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979822"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prezzi e offerte per Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e altro ancora
 
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -48,7 +45,7 @@ Per visualizzare i programmi e le offerte del provider di soluzioni cloud più r
 
 I servizi basati su licenze includono un'anteprima di listino prezzi, che fornisce 30 giorni prima di qualsiasi modifica. Per visualizzare l'anteprima dell'elenco prezzi, vai a **vendi > prezzi e offerte**. Non sono disponibili anteprime dei prezzi per i servizi basati sull'utilizzo poiché questi servizi sono dinamici. Nella tabella seguente viene illustrato come leggere la tabella Listino prezzi.
 
-|**Elemento**        |**Definizione**      |
+|**Item**        |**Definizione**      |
 |:-----------   |:-----------   |
 |ADD   |Un nuovo elemento all'elenco prezzi|
 |CHG   |Modifiche al prezzo di listino dal mese al mese. Potrebbero verificarsi altre modifiche non correlate al prezzo di listino. i partner dovrebbero confrontare gli elenchi prezzi tra i mesi per determinare le modifiche apportate ad altre proprietà.|
@@ -169,7 +166,7 @@ Di seguito è riportato un riepilogo del funzionamento di queste offerte:
 - La sottoscrizione non viene rinnovata e scade dopo 6 anni
 - La frequenza di fatturazione sull'offerta è indicata come annuale, ma il partner viene fatturato prima della prima fattura dopo l'acquisizione della sottoscrizione
 - Le sottoscrizioni per le offerte a1 72 mesi sono bloccate dopo l'acquisto e non possono essere annullate e non è possibile aggiungere i conteggi delle licenze alla sottoscrizione dopo l'acquisto iniziale
-- Per i partner che devono annullare è necessario creare un ticket di supporto con il motivo dell'annullamento e l'ID sottoscrizione per cui necessitano di assistenza.
+- Questa sottoscrizione non è annullabile e non rimborsabile.
 
 ## <a name="estimated-retail-price-erp"></a>Prezzo al dettaglio stimato (ERP)
 

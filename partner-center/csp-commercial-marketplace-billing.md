@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000425"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979533"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Fatturazione per prodotti e sottoscrizioni in Marketplace commerciali nel centro per i partner
 
-**Si applica a**
-
-- Centro per i partner
-- Partner aderenti al programma CSP
 
 **Ruoli appropriati**
 
@@ -45,7 +41,7 @@ L'amministratore globale o l'amministratore della fatturazione per l'azienda ric
 
 2. Dal menu del Centro per i partner seleziona **Fatturazione**. 
 
-    Nella parte superiore della pagina di fatturazione vengono visualizzate due schede: **ricorrenti** e **ricorrenti e acquisti**monouso. Ogni scheda consente di accedere ai file di fatturazione e riconciliazione (Recon) per diversi prodotti Marketplace:
+    Nella parte superiore della pagina di fatturazione vengono visualizzate due schede: **ricorrenti** e **ricorrenti e acquisti** monouso. Ogni scheda consente di accedere ai file di fatturazione e riconciliazione (Recon) per diversi prodotti Marketplace:
 
     - Scheda **ricorrente** : Mostra la fatturazione e i file di riconciliazione per le sottoscrizioni relative a Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro e Microsoft Azure.
 

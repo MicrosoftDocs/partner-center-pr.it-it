@@ -9,19 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038830"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979448"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Panoramica del marketplace commerciale nel Centro per i partner
 
-**Si applica a**
+**Ruoli appropriati**
 
-- Centro per i partner
-- Partner aderenti al programma CSP
+- Amministratore globale
 
 Essendo un partner del programma Cloud Solution Provider (CSP), consente di aggregare e vendere prodotti Microsoft insieme a soluzioni pubblicate da fornitori di software indipendenti (ISV) di terze parti. La possibilità di aggregare le soluzioni in questo modo ti permette di offrire al meglio i clienti finali e di ampliare il tuo business dei servizi CSP.
 
@@ -55,7 +54,7 @@ Come partner del programma CSP, è possibile completare molte attività commerci
 
 - [Portale di gestione di Microsoft Azure](https://portal.azure.com/)
 
-    Or
+    Oppure
 
 - Sistema o sito Web di un editore ISV di terze parti
 

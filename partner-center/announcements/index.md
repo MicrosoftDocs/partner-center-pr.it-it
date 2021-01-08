@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 93deb404cd056aab2a14015a4c89fad22f9d0c72
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916814"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979788"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di gennaio 2021** | **Annunciato** |
 |---------|:---------|:---------|
+|Modern Workplace|[Modifica della valuta di fatturazione dei partner per le nuove offerte commerciali nell'area UE/EFTA](2021-january.md#3)|7 gennaio|
 |Funzionalità|[Deprecazione e ritiro delle API di qualifica GET e PUT esistenti per il processo di convalida dei clienti di tipo Education entro la fine di febbraio 2021](2021-january.md#2)|5 gennaio|
 |Offerte/mercati|[Offerte di Dynamics 365 per febbraio 2021](2021-january.md#1)|4 gennaio|
 | **Categoria** | **Annunci di dicembre 2020** | **Annunciato** |

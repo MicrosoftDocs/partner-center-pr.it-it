@@ -1,7 +1,7 @@
 ---
 title: Credito ottenuto dai partner per i servizi gestiti
 ms.topic: article
-ms.date: 11/30/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come viene calcolato e pagato il credito ottenuto dai partner Microsoft per i servizi gestiti e come verificare se si possiedono i requisiti necessari.
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474309"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622168"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Come viene calcolato e pagato il credito ottenuto dai partner
 
@@ -30,27 +30,29 @@ Il credito ottenuto dai partner per i servizi gestiti (PEC) riconosce e premia i
 
 Leggi anche [Ripristinare i privilegi di amministratore per le sottoscrizioni di Azure CSP](revoke-reinstate-csp.md).
 
-## <a name="important-eligibility-and-calculation-information"></a>Importanti informazioni su idoneità e calcolo
+## <a name="eligibility"></a>Idoneità
 
-- Il partner deve disporre di un contratto MPN attivo e di un ruolo Controllo degli accessi in base al ruolo valido per ricevere il credito ottenuto per gli asset di Azure gestiti. 
+Per ricevere il credito ottenuto dal partner (PEC), si applicano i requisiti seguenti: 
 
-- Nel caso di provider indiretti e dei relativi rivenditori indiretti, il provider indiretto sarà idoneo per il credito ottenuto dai partner se egli stesso, il rivenditore indiretto oppure entrambi esercitano 24 ore su 24, 7 giorni su 7 il controllo e la gestione operativi delle risorse di Azure del cliente in CSP.
+- È necessario disporre di un contratto MPN attivo e di un ruolo controllo degli accessi in base al ruolo valido per ricevere il credito ottenuto per gli asset di Azure gestiti.
 
-- Il credito ottenuto dai partner è associato all'utilizzo (addebitabile) fatturato dell'ambiente Azure del cliente in CSP gestito dal partner. Il credito ottenuto dai partner viene reso disponibile solo ai partner in CSP fatturati da Microsoft (provider indiretto e partner con fatturazione diretta). 
+- È necessario esercitare 24 ore su 24, 7 giorni su 7 il controllo e la gestione operativi delle risorse di Azure del cliente in CSP. Ciò significa che è necessario disporre dei privilegi di amministratore per la sottoscrizione di Azure del cliente, il gruppo di risorse di Azure e la risorsa di Azure. Nel caso di provider indiretti e dei relativi rivenditori indiretti, il provider indiretto sarà idoneo per il credito ottenuto dal partner se egli stesso, il rivenditore indiretto oppure entrambi esercitano questo controllo operativo. Per altre informazioni, vedere [Ripristinare i privilegi di amministratore per le sottoscrizioni di Azure CSP](https://docs.microsoft.com/partner-center/revoke-reinstate-csp).
 
-- Servizi idonei: il credito ottenuto dai partner è applicabile ai servizi elencati nei **prezzi per l'utilizzo del piano di Azure** che i partner possono esportare dalla pagina dei [prezzi del piano di Azure](https://partner.microsoft.com/commerce/sales). 
+- Oltre ai requisiti precedenti, il credito ottenuto dal partner è applicabile ai servizi elencati nei prezzi per l'utilizzo del piano di Azure che è possibile esportare dalla pagina dei [prezzi del piano di Azure](https://partner.microsoft.com/commerce/sales).
 
-- Servizi non idonei: il credito ottenuto dal partner **_non_* _ è applicabile a quanto indicato di seguito:
+- Il credito ottenuto dal partner **non** è applicabile ai servizi seguenti:
     - Prenotazioni del piano di Azure
-    - Prodotti di terze parti identificati come _ *Terze parti** nella **colonna Tag** del prezzo di utilizzo del piano di Azure    
+    - Prodotti di terze parti identificati come Terze parti nella colonna Tag del prezzo di utilizzo del piano di Azure
     - Prodotti inclusi nel listino prezzi del marketplace
-   - [Macchine virtuali Spot di Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
+    - [Macchine virtuali Spot di Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
-- Il credito ottenuto dai partner viene calcolato quotidianamente e può essere controllato nel file di utilizzo giornaliero e nel file di riconciliazione della fattura mensile. Un partner (provider indiretto o rivenditore indiretto) deve avere accesso per l'intero giorno (24 ore su 24, 7 giorni su 7) per ottenere il credito. Il credito ottenuto dai partner viene calcolato quotidianamente per gli asset di Azure gestiti. La percentuale massima di credito ottenuto dai partner per un determinato periodo di fatturazione (mese) è pari al 15%. I partner che conservano l'accesso con privilegi permanenti nel corso dell'intero mese (intervallo di accesso) e per tutte le risorse idonee (ambito di accesso) otterranno un credito completo del 15%. Una riduzione dell'ambito e dell'intervallo avrà come risultato una diminuzione della percentuale di credito per il mese. Il file di utilizzo quotidiano stimato mostra ogni giorno se per un asset di Azure è applicabile o meno il credito ottenuto dai partner. I partner possono inoltre registrarsi in modo da ricevere avvisi per rilevare eventuali modifiche all'accesso con privilegi permanenti.
+- Il credito viene ottenuto dai partner a livello delle risorse di Azure. Se si dispone di un accesso valido a livello di sottoscrizione o di gruppo di risorse, otterrà il credito ogni risorsa con ruolo autorizzato fino all'entità più alta.
 
-- Il credito viene ottenuto dai partner a livello delle risorse di Azure. Se il partner dispone di un accesso valido a livello di sottoscrizione o di gruppo di risorse, otterrà il credito ogni risorsa con ruolo autorizzato fino all'entità più alta.  
+- Informazioni dettagliate sul credito ottenuto dal partner sono disponibili anche nella pagina [Gestione costi di Azure](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners).
 
-- I dettagli relativi al credito ottenuto dai partner saranno disponibili anche in [Gestione costi di Azure](/azure/cost-management-billing/costs/get-started-partners).
+### <a name="calculation"></a>Calcolo
+
+Il credito ottenuto dai partner viene calcolato quotidianamente e può essere controllato nel file di utilizzo giornaliero e nel file di riconciliazione della fattura mensile. Un partner (provider indiretto o rivenditore indiretto) deve avere accesso per l'intero giorno (24 ore su 24, 7 giorni su 7) per ottenere il credito. Il credito ottenuto dal partner viene calcolato quotidianamente per gli asset di Azure gestiti. La percentuale massima di credito ottenuto dai partner per un determinato periodo di fatturazione (mese) è pari al 15%. I partner che conservano l'accesso con privilegi permanenti nel corso dell'intero mese (intervallo di accesso) e per tutte le risorse idonee (ambito di accesso) otterranno un credito completo del 15%. Una riduzione dell'ambito e dell'intervallo avrà come risultato una diminuzione della percentuale di credito per il mese. Il file relativo all'utilizzo quotidiano stimato mostra ogni giorno se per un asset di Azure è applicabile o meno il credito ottenuto dal partner. I partner possono inoltre registrarsi in modo da ricevere avvisi per il monitoraggio delle modifiche all'accesso con privilegi permanenti.
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
@@ -66,10 +68,10 @@ Gestione costi di Azure (ACM) con Analisi dei costi consente a ogni partner di v
 
 4. Seleziona **PartnerEarnedCreditApplied** nell'elenco a discesa di un grafico pivot per visualizzare i costi a cui è applicato il credito ottenuto dai partner. Quando la proprietà **PartnerEarnedCreditApplied** è True, il costo associato ha il vantaggio di credito ottenuto dai partner. 
 
-Quando la proprietà PartnerEarnedCreditApplied è False, il costo associato non soddisfa il criterio di idoneità del credito o il servizio acquistato non è idoneo al credito ottenuto dai partner.
+   Quando la proprietà PartnerEarnedCreditApplied è False, il costo associato non soddisfa il criterio di idoneità del credito o il servizio acquistato non è idoneo al credito ottenuto dai partner.
 
->[!NOTE] 
->Sono in genere necessarie 8-24 ore prima che l'uso dei servizi in **Gestione costi** diventi visibile, mentre i crediti ottenuti dai partner vengono visualizzati entro 48 ore dal momento dell'accesso in Gestione costi di Azure.
+   >[!NOTE] 
+   >Sono in genere necessarie 8-24 ore prima che l'uso dei servizi in **Gestione costi** diventi visibile, mentre i crediti ottenuti dai partner vengono visualizzati entro 48 ore dal momento dell'accesso in Gestione costi di Azure.
 
 5. Puoi anche raggruppare o filtrare in base alla proprietà **PartnerEarnedCreditApplied** usando le funzionalità di filtro **Raggruppa per e Aggiungi** per visualizzare in dettaglio i costi a cui è applicato il credito ottenuto dai partner e quelli a cui tale credito non è applicato.
 

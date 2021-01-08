@@ -1,7 +1,7 @@
 ---
 title: Usare provider indiretti nel programma CSP
 ms.topic: how-to
-ms.date: 12/11/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come i rivenditori indiretti possono collaborare con i provider indiretti (o distributori) Microsoft per ottenere assistenza su supporto tecnico e fatturazione dei clienti.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514748"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636025"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informazioni per collaborare con provider indiretti nel programma Cloud Solution Provider
 
@@ -69,10 +69,7 @@ Da ottobre 2020 tutti i partner Microsoft nuovi per CSP effettueranno l'iscrizio
 2. Rivedi la **pagina iniziale** per assicurarti di avere le informazioni necessarie per l'iscrizione e quindi seleziona **Successiva**.
 
 3. Eseguire l'accesso con l'account aziendale, ovvero con il nome utente e la password usati per accedere come amministratore globale per Office 365, Microsoft Azure o Microsoft Dynamics CRM. Se non si dispone di un account aziendale, selezionare **Crearne uno** per configurarne uno adesso. Dopo aver creato un account aziendale, accedere usando le credenziali di amministratore globale per il nuovo account.
-
-
-   > [!IMPORTANT]  
-   > Selezionare l'ID MPN associato al profilo attivo della società, che si trova nello stesso paese e/o nella stessa area geografica del tenant di Azure AD.
+  
 
 4. Fornire o aggiornare il profilo legale aziendale della società, le informazioni del contatto principale e quelle dell'assistenza clienti. Per trovare le informazioni aziendali legali, selezionare **Profilo dell'organizzazione** e quindi **Informazioni legali**. Selezionare **Registrati ora**.
 
@@ -81,7 +78,16 @@ Da ottobre 2020 tutti i partner Microsoft nuovi per CSP effettueranno l'iscrizio
    > [!IMPORTANT]  
    > Per garantire la sicurezza e la privacy della tua azienda, invieremo un'e-mail al contatto principale per verificare che (1) abbia effettuato la registrazione per ottenere un account del Centro per i partner e che (2) l'indirizzo e-mail appartenga all'azienda. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueranno le verifiche delle informazioni fornite. Gli aggiornamenti sullo stato della registrazione verranno inviati tramite posta elettronica al contatto principale.
 
-5. Quando l'account del Centro per i partner sarà pronto per l'uso, verifica di essere stato aggiunto al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, è necessario disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attenersi alla procedura seguente:
+5. Associare il proprio ID MPN al tenant di Azure ID.
+
+    1. Selezionare **Identificatori** da **Impostazioni account**.
+
+    1. Nella sezione **CSP** usare il collegamento **Aggiorna** per aggiornare l'ID MPN associato all'account CSP. 
+ 
+ > [!IMPORTANT]  
+   > Selezionare l'ID MPN associato al profilo attivo della società, che si trova nello stesso paese e/o nella stessa area geografica del tenant di Azure AD.
+
+6. Quando l'account del Centro per i partner sarà pronto per l'uso, verifica di essere stato aggiunto al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, è necessario disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attenersi alla procedura seguente:
 
    1. Nel dashboard Centro per i partner selezionare l'icona **Impostazioni** e quindi, in **Impostazioni account**, selezionare **Gestione utenti**.
 

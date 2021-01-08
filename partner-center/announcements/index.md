@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.date: 01/04/2021
+ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736540"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916814"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
 Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste informazioni vengono aggiornate di frequente, pertanto è importante consultarle di frequente.
 
-| **Categoria** | **Annunci di dicembre 2020** | **Annunciato** |
+| **Categoria** | **Annunci di gennaio 2021** | **Annunciato** |
 |---------|:---------|:---------|
+|Funzionalità|[Deprecazione e ritiro delle API di qualifica GET e PUT esistenti per il processo di convalida dei clienti di tipo Education entro la fine di febbraio 2021](2021-january.md#2)|5 gennaio|
+|Offerte/mercati|[Offerte di Dynamics 365 per febbraio 2021](2021-january.md#1)|4 gennaio|
+| **Categoria** | **Annunci di dicembre 2020** | **Annunciato** |
 |Offerte|[I fondi del programma Channel Incentives Cooperative Marketing Fund (Co-op) non usati nel periodo di utilizzo della prima metà dell'anno fiscale 2021 vengono rinnovati per il periodo di utilizzo della seconda metà dell'anno](2020-december.md#13)|22 dicembre|
 |Funzionalità|[Migrazione di DocuSign ad Adobe Sign nel 2021 per i partner che hanno sottoscritto contratti Microsoft Partner](2020-december.md#12)|22 dicembre|
 |Offerte/mercati|[Pianificazioni di prezzi e catalogo di gennaio 2021](2020-december.md#11)|22 dicembre|
@@ -31,10 +34,10 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 |Crescita aziendale|[Promemoria: software con licenza perpetua del programma Cloud Solution Provider (CSP) generalmente disponibile a partire da gennaio 2021](2020-december.md#7)|17 dicembre|
 |Funzionalità|[Guida all'autorizzazione per i servizi online e il canale software](2020-december.md#6)|17 dicembre|
 |Offerte/mercati|[Promozione di Power Apps ora disponibile](2020-december.md#5)|16 dicembre|
-|Capabilities|[Versione dell'SDK in .NET Standard (v1.16.3)](2020-december.md#4)|8 dicembre|
+|Funzionalità|[Versione dell'SDK in .NET Standard (v1.16.3)](2020-december.md#4)|8 dicembre|
 |Offerte/mercati|[Note sulla versione dell'elenco prezzi basato su licenza di dicembre 2020](2020-december.md#3)|8 dicembre|
 |Offerte/mercati|[Aggiornamento dell'offerta Microsoft 365 Business Voice per gli Stati Uniti con piano per chiamate presto disponibile](2020-december.md#2)|3 dicembre|
-|Capabilities|[Ora disponibile: aggiornamenti delle API e miglioramenti dell'interfaccia utente del Centro per i partner per il processo di convalida dei clienti del settore della formazione](2020-december.md#1)|3 dicembre|
+|Funzionalità|[Ora disponibile: aggiornamenti delle API e miglioramenti dell'interfaccia utente del Centro per i partner per il processo di convalida dei clienti del settore della formazione](2020-december.md#1)|3 dicembre|
 | **Categoria** | **Annunci di novembre 2020** | **Annunciato** |
 |Funzionalità|[Nuova esperienza di gestione degli account unificata](2020-november.md#13)|18 novembre|
 |Offerte/mercati|[Promozione di Office 365 E1 per il mercato delle medie aziende (LATAM, APAC e India)](2020-november.md#12)|18 novembre|

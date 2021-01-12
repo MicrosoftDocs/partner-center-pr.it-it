@@ -1,7 +1,7 @@
 ---
 title: Aggiungere altri tenant all'account del centro per i partner
 ms.topic: article
-ms.date: 07/30/2020
+ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come aggiungere, consolidare o gestire più tenant di Azure AD nell'account del centro per i partner. Altre informazioni su alcuni dei motivi per cui si potrebbe voler eseguire questa operazione.
@@ -9,24 +9,21 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175159"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105554"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Aggiungere e gestire più tenant nell'account del centro per i partner
 
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
 - Amministratore globale
 
-Questa funzionalità consente all'utente di gestire più tenant per la propria azienda e di consolidarli nell'account del Centro per i partner. Esistono molti motivi per cui potrebbe essere necessario gestire più tenant Azure AD nell'account del centro per i partner. Ad esempio:
+Questa funzionalità consente all'utente di gestire più tenant per la propria azienda e di consolidarli nell'account del Centro per i partner. Esistono molti motivi per cui potrebbe essere necessario gestire più tenant Azure AD nell'account del centro per i partner. Esempio:
 
 - L'azienda può acquistare un'altra società e si vuole che i dipendenti della nuova azienda possano usare il centro per i partner. Tuttavia, si vuole che le due società rimangano separate. In questo caso, è necessario associare il tenant di Azure AD della nuova società con l'account globale del partner (PGA). Questa associazione consente agli utenti di entrambe le aziende di lavorare nel centro per i partner.
 
@@ -50,15 +47,36 @@ Questa funzionalità consente all'utente di gestire più tenant per la propria a
 
 1. Come amministratore globale, accedere al tenant che si vuole associare e confermare l'associazione. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="associa tenant"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="conferma associazione tenant"::: 
 
-5. Dopo la conferma, viene visualizzato un avviso relativo a **tutti i set** .  Selezionare **Torna a gestione tenant per** visualizzare l'elenco dei tenant appena aggiunti. 
+5. Dopo la conferma, viene visualizzato un avviso relativo a **tutti i set** .  Selezionare **Torna a gestione tenant per** visualizzare il tenant appena aggiunto. 
  
 
 >[!NOTE]
 >Non è possibile associare un tenant a un account se è già associato a un altro account del centro per i partner.
 
+
+## <a name="remove-a-tenant-from-your-account"></a>Rimuovere un tenant dall'account
  
+1. Come amministratore globale, accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+
+1. Nell'icona **Impostazioni** selezionare **impostazioni account** -> tenant e fare clic sulla scheda **partner** .
+ 
+3. Fare clic su **Rimuovi** per il tenant a cui si desidera eseguire l'associazione.
+
+4. L'annullamento dell'associazione di un tenant implica che gli utenti di tale tenant non avranno più accesso all'account del centro per i partner e questo potrebbe avere un effetto sulle competenze. 
+
+Il pulsante **Rimuovi** è abilitato per tutti i tenant associati, ad eccezione del tenant primario e del tenant a cui si è attualmente connessi.
+
+:::image type="content" source="images/disassociate.png" alt-text="tenant con il pulsante Rimuovi":::
+ 
+
 ## <a name="next-steps"></a>Passaggi successivi
 
 - [Aggiungere utenti](create-user-accounts-and-set-permissions.md)
+
+
+
+
+
+

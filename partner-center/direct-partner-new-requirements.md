@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514714"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105529"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisiti necessari per l'iscrizione come partner con fatturazione diretta CSP
 
-**Si applica a**
+**Ruoli appropriati**
 
-- Tutti i partner con fatturazione diretta nell'ambito del programma Cloud Solution Provider
+- Amministratore globale
 
 ## <a name="enroll-as-a-direct-partner"></a>Iscriversi come partner diretto
 
-Come partner con fatturazione diretta, sei titolare della relazione completa con il cliente e con Microsoft. Come partner con fatturazione diretta, sei titolare della relazione completa con il cliente e con Microsoft. I requisiti per l'iscrizione come partner con fatturazione diretta sono stati aggiornati in data 27 ottobre 2020. Questi requisiti permetteranno di accelerare la crescita dell'azienda con il giusto modello di Cloud Solution Provider e a rafforzare i rapporti con i clienti tramite servizi e supporto a valore aggiunto.  
+Come partner con fatturazione diretta, sei titolare della relazione completa con il cliente e con Microsoft. I requisiti per l'iscrizione come partner con fatturazione diretta sono stati aggiornati in data 27 ottobre 2020. Questi requisiti permetteranno di accelerare la crescita dell'azienda con il giusto modello di Cloud Solution Provider e a rafforzare i rapporti con i clienti tramite servizi e supporto a valore aggiunto.  
 
 ### <a name="minimum-requirements"></a>Requisiti minimi
 

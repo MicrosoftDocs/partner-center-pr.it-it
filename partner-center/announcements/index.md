@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
-ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
+ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
+ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "98040991"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "98062434"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,8 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di gennaio 2021** | **Annunciato** |
 |---------|:---------|:---------|
+|Offerte/mercati|[Aggiornamento dei prezzi commerciali per la rupia indiana](2021-january.md#6)|8 gennaio|
+|Offerte/mercati|[Aggiornamenti del piano per chiamate e del sistema telefonico per il 1° febbraio 2021](2021-january.md#5)|8 gennaio|
 |Offerte/mercati|[Aggiornamenti del listino prezzi basato su licenza per gennaio 2021](2021-january.md#4)|8 gennaio|
 |Modern Workplace|[Modifica della valuta di fatturazione dei partner per le nuove offerte commerciali nell'area UE/EFTA](2021-january.md#3)|7 gennaio|
 |Funzionalità|[Deprecazione e ritiro delle API di qualifica GET e PUT esistenti per il processo di convalida dei clienti di tipo Education entro la fine di febbraio 2021](2021-january.md#2)|5 gennaio|
@@ -36,7 +38,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 |Crescita aziendale|[Promemoria: software con licenza perpetua del programma Cloud Solution Provider (CSP) generalmente disponibile a partire da gennaio 2021](2020-december.md#7)|17 dicembre|
 |Funzionalità|[Guida all'autorizzazione per i servizi online e il canale software](2020-december.md#6)|17 dicembre|
 |Offerte/mercati|[Promozione di Power Apps ora disponibile](2020-december.md#5)|16 dicembre|
-|Funzionalità|[Versione dell'SDK in .NET Standard (v1.16.3)](2020-december.md#4)|8 dicembre|
+|Capabilities|[Versione dell'SDK in .NET Standard (v1.16.3)](2020-december.md#4)|8 dicembre|
 |Offerte/mercati|[Note sulla versione dell'elenco prezzi basato su licenza di dicembre 2020](2020-december.md#3)|8 dicembre|
 |Offerte/mercati|[Aggiornamento dell'offerta Microsoft 365 Business Voice per gli Stati Uniti con piano per chiamate presto disponibile](2020-december.md#2)|3 dicembre|
 |Funzionalità|[Ora disponibile: aggiornamenti delle API e miglioramenti dell'interfaccia utente del Centro per i partner per il processo di convalida dei clienti del settore della formazione](2020-december.md#1)|3 dicembre|

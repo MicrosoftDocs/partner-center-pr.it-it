@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
-ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
+ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
+ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "97771693"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98146388"
 ---
 # <a name="what-is-microsoft-appsource"></a>Che cos'è Microsoft AppSource?
 
@@ -48,7 +48,18 @@ Il fornitore del software definisce il prezzo, il contratto di licenza con l'ute
 
 ## <a name="discover-saas-and-m365-integrated-apps"></a>Scopri le app integrate SaaS e M365
 
-I nostri partner possono collegarsi tra app SaaS e M365 integrate. In questo modo è possibile scaricare e usare le app integrate quando si ottiene l'app SaaS collegata. In questo caso, il risultato della ricerca potrebbe restituire solo l'app SaaS che mostra le icone delle app integrate disponibili. È possibile spostarsi tra l'app SaaS e quella integrata nella pagina relativa ai dettagli sul prodotto. Se un'app SaaS richiede l'acquisto, vedere [How to purchase Saas offers on Microsoft AppSource](purchase-software-appsource.md).
+I nostri partner possono collegarsi tra un'applicazione SaaS e i componenti aggiuntivi corrispondenti per Microsoft 365. In questo modo è possibile scaricare e usare i componenti aggiuntivi da servizi Microsoft 365 specifici o da prodotti quando si ottiene un'app SaaS collegata con componenti aggiuntivi.
+
+In questo caso, il risultato della ricerca potrebbe restituire solo l'app SaaS con le icone del prodotto componente aggiuntivo corrispondenti nella scheda del prodotto dell'app SaaS. È possibile spostarsi tra le pagine dei dettagli del prodotto dell'applicazione SaaS e dell'applicazione integrata.
+
+Per cercare i componenti aggiuntivi autonomi, è possibile trovarli in uno dei modi seguenti:
+
+- Accedere al [Catalogo prodotti AppSource](https://appsource.microsoft.com/marketplace/apps/), quindi nel percorso di spostamento a sinistra, in **prodotti** Selezionare **Microsoft 365**. Dall'elenco dei prodotti visualizzati sotto **Microsoft 365** selezionare le caselle per i prodotti desiderati.
+- In alternativa, selezionare l'icona del prodotto componente aggiuntivo nella scheda del prodotto dell'applicazione SaaS per passare al componente aggiuntivo specifico che è stato nascosto dalla visualizzazione di ricerca.
+
+Se un'app SaaS richiede l'acquisto, vedere [How to purchase Saas offers on Microsoft AppSource](purchase-software-appsource.md).
+
+Microsoft 365 amministratore gli utenti possono distribuire i componenti aggiuntivi e SaaS in un'unica posizione. Per altre informazioni, vedere [testare e distribuire app Microsoft 365-Microsoft 365 amministratore](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md).
 
 ## <a name="find-ratings-and-reviews"></a>Trova classificazioni e recensioni
 

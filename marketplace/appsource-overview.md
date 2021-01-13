@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
+ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146388"
+ms.locfileid: "98166699"
 ---
 # <a name="what-is-microsoft-appsource"></a>Che cos'è Microsoft AppSource?
 
@@ -59,7 +59,7 @@ Per cercare i componenti aggiuntivi autonomi, è possibile trovarli in uno dei m
 
 Se un'app SaaS richiede l'acquisto, vedere [How to purchase Saas offers on Microsoft AppSource](purchase-software-appsource.md).
 
-Microsoft 365 amministratore gli utenti possono distribuire i componenti aggiuntivi e SaaS in un'unica posizione. Per altre informazioni, vedere [testare e distribuire app Microsoft 365-Microsoft 365 amministratore](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md).
+Microsoft 365 amministratore gli utenti possono distribuire i componenti aggiuntivi e SaaS in un'unica posizione. Per altre informazioni, vedere [testare e distribuire app Microsoft 365-Microsoft 365 amministratore](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps).
 
 ## <a name="find-ratings-and-reviews"></a>Trova classificazioni e recensioni
 

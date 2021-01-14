@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
-ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
+ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "97389306"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182325"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Insights-domande frequenti
 
@@ -26,15 +26,15 @@ Questo si riferisce a eventuali problemi noti relativi alla visualizzazione o al
 
 D) **non è possibile visualizzare l'hub Insights nell'account del centro per i partner. Cosa devo fare?**
 
-A) assicurarsi di avere effettuato l'accesso all'account MPN per l'organizzazione. Non è possibile accedere al dashboard Insights dall'account CSP. Assicurarsi inoltre che l'amministratore globale abbia fornito il ruolo Visualizzatore report o Visualizzatore report Executive.  Per ulteriori informazioni sui ruoli, vedere [questo articolo](https://docs.microsoft.com/partner-center/pci-roles).
+A) assicurarsi di avere effettuato l'accesso all'account MPN per l'organizzazione. Non è possibile accedere al dashboard Insights dall'account CSP. Assicurarsi inoltre che l'amministratore globale abbia fornito il ruolo Visualizzatore report o Visualizzatore report Executive.  Per ulteriori informazioni sui ruoli, vedere [questo articolo](./pci-roles.md).
 
 D) **non sono in grado di visualizzare i ricavi fatturati o i dati dei ricavi usati di Azure (ACR) in report personali. Perché?**
 
-A) i dati ricavi fatturati e ACR sono disponibili solo per gli utenti che sono visualizzatori di report esecutivi.  Per ulteriori informazioni sui ruoli, vedere [questo articolo](https://docs.microsoft.com/partner-center/pci-roles).
+A) i dati ricavi fatturati e ACR sono disponibili solo per gli utenti che sono visualizzatori di report esecutivi.  Per ulteriori informazioni sui ruoli, vedere [questo articolo](./pci-roles.md).
 
 D) **non sono in grado di visualizzare i ricavi fatturati o i dati dei ricavi usati di Azure (ACR) in report personali. Perché?**
 
-A) i dati ricavi fatturati e ACR sono disponibili solo per gli utenti che sono visualizzatori di report esecutivi. Per ulteriori informazioni sui ruoli, vedere [questo articolo](https://docs.microsoft.com/partner-center/pci-roles).
+A) i dati ricavi fatturati e ACR sono disponibili solo per gli utenti che sono visualizzatori di report esecutivi. Per ulteriori informazioni sui ruoli, vedere [questo articolo](./pci-roles.md).
 
 D) **il paese segnalato per il cliente sembra non essere corretto. Perché?**
 

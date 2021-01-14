@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189748"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182597"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unire l'account partner con un altro account partner
 
@@ -77,6 +77,8 @@ Se si decide di accettare l'invito per l'Unione degli account: · Gli ID e le lo
 
 - Tutti i voucher Software Assurance vengono conservati in entrambi gli account. 
 
+- Non vi è alcun effetto sull'associazione DPOR o PAL. Tutti i contributi di ricavi associati inizieranno a fluire nel nuovo account globale del partner
+
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Invita una società a unire il proprio account del centro per i partner con l'account del centro per i partner
 
 >[!Note]
@@ -84,11 +86,11 @@ Se si decide di accettare l'invito per l'Unione degli account: · Gli ID e le lo
 
 1. Selezionare **Impostazioni** dal dashboard del centro per i partner. 
 
-2. Selezionare **merge account** .
+2. Selezionare **merge account**.
 
 3. Aggiungere l'ID MPN che si trova nel **profilo partner** dell'account che si vuole invitare a unire. È necessario usare l'ID MPN globale del partner. Non è possibile usare un ID MPN della località.
 
-4. Quando si seleziona **merge** , viene inviato un invito alla società partner. Quando accettano la richiesta, è possibile avviare l'Unione degli account nel centro per i partner. Se la società rifiuta la richiesta di Unione degli account, può spiegare perché ha rifiutato la richiesta. Un elenco di tutte le unioni di account è disponibile nella **cronologia di merge** .
+4. Quando si seleziona **merge**, viene inviato un invito alla società partner. Quando accettano la richiesta, è possibile avviare l'Unione degli account nel centro per i partner. Se la società rifiuta la richiesta di Unione degli account, può spiegare perché ha rifiutato la richiesta. Un elenco di tutte le unioni di account è disponibile nella **cronologia di merge**.
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Esempio di due società che uniscono account
 

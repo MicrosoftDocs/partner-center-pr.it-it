@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0434ad2e6494f5efc1b1e5e2aa003dc6587d7b4e
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691351"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182495"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Acquisire, effettuare il provisioning, & gestire le istanze di VM riservate di Azure e le sottoscrizioni server per i clienti
 
@@ -47,7 +47,7 @@ Con le [istanze di VM riservate di Azure](https://azure.microsoft.com/pricing/re
 
 Con una combinazione non corrispondente di prezzi interessanti e flessibilità di distribuzione non corrispondente, i clienti visualizzeranno il valore complessivo migliore quando scelgono prenotazioni di Azure.
 
-- Vedere [prenotazioni di acquisto](https://docs.microsoft.com/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) nel portale di Azure.
+- Vedere [prenotazioni di acquisto](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) nel portale di Azure.
 
 - Vedere l' **elenco dei prezzi commerciali di Azure ri CSP** nella categoria **Microsoft Azure istanze riservate** nella pagina [prezzi e offerte](https://partner.microsoft.com/dashboard/sell/pricingandoffers) del centro per i partner per sottoscrizioni software e abbonamenti annuali per ISV Linux.
 
@@ -69,24 +69,24 @@ Per comprendere come è possibile posizionare le prenotazioni di Azure con i cli
 
 1. Esaminare e comprendere la [nuova guida operativa del centro](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)per i partner.
 
-2. Informazioni sugli aggiornamenti per le prenotazioni di Azure e le sottoscrizioni server nell'API del centro per i [partner (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances).
+2. Informazioni sugli aggiornamenti per le prenotazioni di Azure e le sottoscrizioni server nell'API del centro per i [partner (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances).
 
 
 ### <a name="sales-readiness"></a>Conformità vendite
 
 - [CAL (Client Access License) Servizi Desktop remoto (RDS) (annuncio)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 
-- [Istanze di VM riservate di Azure (portale di Azure)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Istanze di VM riservate di Azure (portale di Azure)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 
-- [Sottoscrizioni server](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [Sottoscrizioni server](./csp-software-subscriptions.md)
 
-- [Prenotazioni database SQL (portale di Azure)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [Prenotazioni database SQL (portale di Azure)](/azure/sql-database/sql-database-reserved-capacity)
 
-- [Azure Cosmos DB (portale di Azure)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Azure Cosmos DB (portale di Azure)](/azure/cosmos-db/cosmos-db-reserved-capacity)
 
-- [Istanza gestita SQL (portale di Azure)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+- [Istanza gestita SQL (portale di Azure)](/azure/sql-database/sql-database-managed-instance)
 
-- [SUSE e Red Hat Enterprise Linux (portale di Azure)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [SUSE e Red Hat Enterprise Linux (portale di Azure)](/azure/virtual-machines/linux/prepay-suse-software-charges)
 
 - [Red Hat Linux in Azure](https://azure.com/redhat)
 
@@ -98,7 +98,7 @@ Per comprendere come è possibile posizionare le prenotazioni di Azure con i cli
 
 - [Calcolatore dei prezzi di Azure](https://azure.microsoft.com/pricing/calculator)
 
-- [Prenotazioni unità Azure Databricks](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Prenotazioni unità Azure Databricks](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
 
 ## <a name="training"></a>Formazione

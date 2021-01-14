@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b93ce1394326887b4265114c58527c36379101d9
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007242"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182478"
 ---
 # <a name="azure-marketplace-purchasing"></a>Acquisto in Azure Marketplace
 
@@ -25,7 +25,7 @@ Quando si acquista tramite Azure Marketplace, si elimina la complessità della g
 
 ## <a name="permission-to-purchase"></a>Autorizzazione per l'acquisto
 
-Una volta individuata l'applicazione software corretta, il completamento dell'acquisto è semplice. Tuttavia, sarà necessario disporre di autorizzazioni appropriate nella sottoscrizione di Azure. Poiché Azure opera su un modello di [controllo degli accessi in base al ruolo](https://docs.microsoft.com/azure/role-based-access-control/overview) , è necessario che l'account disponga delle autorizzazioni di proprietario o **collaboratore** della **sottoscrizione** per effettuare un acquisto.
+Una volta individuata l'applicazione software corretta, il completamento dell'acquisto è semplice. Tuttavia, sarà necessario disporre di autorizzazioni appropriate nella sottoscrizione di Azure. Poiché Azure opera su un modello di [controllo degli accessi in base al ruolo](/azure/role-based-access-control/overview) , è necessario che l'account disponga delle autorizzazioni di proprietario o **collaboratore** della **sottoscrizione** per effettuare un acquisto.
 
 Prima di completare un acquisto, assicurarsi che l'utente abbia la configurazione corretta nel tenant di Azure. Ciò consente di evitare errori durante l'acquisto.
 
@@ -55,7 +55,7 @@ Queste impostazioni si applicano a tutti gli utenti con accesso alla sottoscrizi
 
 ## <a name="cost-management"></a>Gestione dei costi
 
-Quando si acquistano prodotti da Azure Marketplace, è possibile ottenere informazioni dettagliate che consentono di gestire i costi. Gestione costi di Azure è uno strumento gratuito per la visualizzazione di informazioni sui prodotti acquistati. È possibile usare gestione costi per visualizzare i dettagli dei servizi di cui si spende il denaro nel tempo e il modo in cui questi costi si rilevano rispetto ai budget impostati. Oltre a impostare i budget, è possibile pianificare i report e analizzare i costi di sottoscrizione. Scopri di più su gestione costi di Azure completando il modulo Microsoft Learn in [analizzare i costi e creare budget con gestione costi di Azure](https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
+Quando si acquistano prodotti da Azure Marketplace, è possibile ottenere informazioni dettagliate che consentono di gestire i costi. Gestione costi di Azure è uno strumento gratuito per la visualizzazione di informazioni sui prodotti acquistati. È possibile usare gestione costi per visualizzare i dettagli dei servizi di cui si spende il denaro nel tempo e il modo in cui questi costi si rilevano rispetto ai budget impostati. Oltre a impostare i budget, è possibile pianificare i report e analizzare i costi di sottoscrizione. Scopri di più su gestione costi di Azure completando il modulo Microsoft Learn in [analizzare i costi e creare budget con gestione costi di Azure](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
 
 È possibile visualizzare le fatture e gli addebiti di Azure Marketplace nello strumento di analisi dei costi disponibile in Gestione costi di Azure.
 
@@ -63,4 +63,4 @@ Quando si acquistano prodotti da Azure Marketplace, è possibile ottenere inform
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Fatturazione e fatturazione](billing-invoicing.md)
+- [Fatturazione](billing-invoicing.md)

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916831"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105512"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informazioni sul Contratto Microsoft Partner per i partner del programma CSP
 
@@ -54,7 +54,7 @@ Per continuare a partecipare al programma CSP, devi firmare il Contratto Microso
 
 1. Accedere al Centro per i partner con le credenziali dell'account di amministratore globale CSP.
 
-1. In **Impostazioni** selezionare [Profilo partner](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+1. In **Impostazioni** selezionare **Impostazioni account** e quindi [Profilo partner](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
 1. Controllare la sezione **Info sul programma**. Se nelle informazioni non viene visualizzato lo stato **Rivenditore indiretto**, è necessario [iscriversi come rivenditore indiretto](indirect-reseller-tasks-in-partner-center.md).
 
@@ -80,6 +80,10 @@ Per verificare se hai firmato il Contratto Microsoft Partner:
 >[!NOTE]
 >Il Contratto Microsoft Partner può essere visualizzato e firmato solo dall'amministratore globale dell'azienda. Se non sei l'amministratore globale, dovrai chiedere all'amministratore globale della tua azienda di verificare il Contratto Microsoft Partner.
 
+È anche possibile verificare se il contratto è stato firmato selezionando **Contratti** in **Impostazioni account**.
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="Indicazione che il Contratto Microsoft Partner è firmato":::
+
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Scaricare la guida dettagliata appropriata in base alla fase del processo
 
@@ -91,4 +95,4 @@ Per verificare se hai firmato il Contratto Microsoft Partner:
  
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Iscriversi al programma Cloud Solution Provider](enrolling-in-the-csp-program.md)
+- [Iscriversi al programma Cloud Solution Provider](indirect-reseller-tasks-in-partner-center.md)

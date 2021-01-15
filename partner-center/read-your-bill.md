@@ -9,19 +9,15 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444987"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215816"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprendere la fattura e il file di riconciliazione: informazioni su come trovarli nel centro per i partner
 
-**Si applica a**
-
-- Centro per i partner
-- Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
 
@@ -74,7 +70,7 @@ Ad esempio,
 
 **Fatture per i costi di utilizzo e di licenza**: le fatture per i servizi quali Office 365 e Azure saranno disponibili entro due (2) giorni dalla data di fatturazione selezionata [UTC].  
 
-**Fatture per addebiti periodici e periodici: le**fatture per i servizi quali Azure ri, piano di Azure e Marketplace saranno disponibili non più di 8 di ogni mese.  
+**Fatture per addebiti periodici e periodici: le** fatture per i servizi quali Azure ri, piano di Azure e Marketplace saranno disponibili non più di 8 di ogni mese.  
 
 Di seguito sono riportati alcuni dei campi chiave nel documento di fattura PDF:
 
@@ -90,10 +86,14 @@ Scadenza **pagamento**: data in cui deve essere ricevuto il pagamento.
 
 **Crediti**: crediti, ad esempio SLA, o rettifiche per le modifiche apportate alle sottoscrizioni (ad esempio, aumenti o diminuzioni della licenza). 
 
-**Istruzioni**per il pagamento: Descrizione di come pagare la fattura in base all'area geografica. Quando si effettua un pagamento, assicurarsi sempre di includere il numero di fattura. 
+**Istruzioni** per il pagamento: Descrizione di come pagare la fattura in base all'area geografica. Quando si effettua un pagamento, assicurarsi sempre di includere il numero di fattura. 
 
 Per una descrizione dettagliata di tutti i campi nel file di fattura (inclusi i campi per gli addebiti monouso), vedere [campi del file di fattura](invoice-file.md). 
 
 ## <a name="understand-reconciliation-files"></a>Informazioni sui file di riconciliazione
 
  I file di riconciliazione, che forniscono dettagli relativi a drill-down/dettagliati degli addebiti, sono disponibili per il download insieme al PDF della fattura. I file di riconciliazione includono gli identificatori dei clienti e gli identificatori di sottoscrizione che è possibile usare per creare fatture del cliente. Per altre informazioni sui file di ricognizione, vedere  [come usare i file di riconciliazione](use-the-reconciliation-files.md) . 
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Come usare i file di riconciliazione](use-the-reconciliation-files.md)

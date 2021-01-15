@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950587"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215952"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950587"
 - Amministratore di partner Sales Connect (PSC)
 - Partner Sales Connect (PSC) Deal Manager
 
-Questo articolo illustra i partner che eseguono la migrazione da partner Sales Connect to partner Center per poter continuare a creare e gestire le offerte di co-selling nel centro per i partner.
+Questo articolo fornisce indicazioni per i partner che eseguono la migrazione da partner Sales Connect to partner Center, in modo che possano continuare a creare e gestire le offerte di co-selling nel centro per i partner.
 
 Come è noto, l'azienda perderà l'accesso a PSC dopo il 31 marzo 2021. Tuttavia, si troverà comunque tutto ciò che si desidera eseguire nel centro per i partner, ad esempio creare offerte di co-selling, gestire le offerte e agire sulle offerte inviate dai venditori Microsoft.
 
@@ -353,7 +353,6 @@ Se non sono stati ancora letti gli argomenti della Guida di co-selling, le risor
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-Seguire queste risorse aggiuntive:
 
 - [Partner Sales connettersi alla cartella](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) di lavoro del centro per i partner-cartella di lavoro per allineare i processi di vendita e i ruoli dei partner con i nuovi processi di vendita tramite partner Center e partner Sales Connect.
 - [Guida alla co-selling del centro](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) per i partner: linee guida per identificare un modello operativo tramite il centro per i partner per gestire i lead o le opportunità di co-selling e registrare le offerte

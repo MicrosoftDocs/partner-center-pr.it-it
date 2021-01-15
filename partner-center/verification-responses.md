@@ -1,7 +1,7 @@
 ---
 title: Verificare le informazioni dell'account
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Seguire lo stato della verifica dell'account quando si tenta di eseguire la registrazione in un nuovo programma per i partner Center. Informazioni su come fornire informazioni aggiuntive, se necessario.
@@ -9,14 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0f4102fb5d520ad9af6f66f8dfa1980903721ff
-ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
+ms.openlocfilehash: 49c9d6730dd221ea81806644c8d05ff65442272f
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89304968"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215799"
 ---
-# <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verificare le informazioni sull'account quando si esegue la registrazione in un nuovo programma del centro per i partner
+# <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verificare le informazioni sull'account quando si effettua l'iscrizione a un nuovo programma del Centro per i partner
 
 **Ruoli appropriati**
 
@@ -41,7 +41,7 @@ Per il programma CSP, passare a [Questa pagina](https://partner.microsoft.com/pc
 |----------------------------|:-----------------------------------|:--------------------------------------|
 |Proprietà posta elettronica   |La proprietà dell'indirizzo di posta elettronica verifica che l'indirizzo di contatto principale (indirizzo di posta elettronica principale) sia valido. L'indirizzo di posta elettronica di contatto principale deve essere un account aziendale monitorato e può inviare/ricevere messaggi di posta elettronica. **I partner non devono usare**: (1) un indirizzo di posta elettronica personale non associato al dominio della società. (2) l'accesso utente del tenant non è associato alla posta elettronica (ad esempio, jsmith@testcompany.onmicrosoft.com ).  |Se non si riceve il messaggio di posta elettronica di verifica della proprietà della posta elettronica entro un giorno lavorativo, è possibile richiedere di inviare di nuovo usando i collegamenti seguenti: per [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile), per [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile). Nella pagina profilo fare clic sul collegamento "Invia di nuovo il messaggio di posta elettronica di verifica" per inviare di nuovo il messaggio di posta elettronica a Microsoft. Per assicurarsi che il messaggio di posta elettronica venga ricevuto, assicurarsi di contrassegnare il messaggio di posta elettronica da Microsoft.com come dominio "sicuro" e controllare le cartelle della posta indesiderata.|
 |Occupazione |La verifica dell'utilizzo conferma che il contatto principale è un dipendente della società che ha eseguito la registrazione in virtù della presenza di un indirizzo di posta elettronica attivo in un dominio di posta elettronica di proprietà dell'azienda.|Se la verifica dell'occupazione viene rifiutata, il contatto principale (in genere l'amministratore globale o dell'account) dovrà fornire la documentazione per confermare che il dominio di posta elettronica del contatto è sotto la proprietà del proprio datore di lavoro. [Creare un ticket di supporto](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b).|
-|Business   |Verificare che il nome e l'indirizzo della società nel profilo aziendale legale siano privi di errori di ortografia e abbreviazioni e che corrispondano esattamente ai record di registrazione aziendali formali. Se si opera come unico proprietario, è necessario aggiornare il nome della società in modo che sia il nome legale. La verifica aziendale conferma che la società di registrazione è un'entità aziendale legittima e l'indirizzo usato per la registrazione.|Se la verifica aziendale ha esito negativo, al contatto principale (in genere l'amministratore globale o dell'account) verrà richiesto di fornire la documentazione ufficiale, ad esempio la registrazione di un'azienda o un certificato di registrazione fiscale o una ricevuta, dal paese principale della società o dal comune che conferma che l'azienda è autorizzata a eseguire le attività con il nome dell'entità e si trova nell'indirizzo di registrazione [Creare un ticket di supporto](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
+|Business   | La verifica aziendale conferma che la società di registrazione è un'entità aziendale legittima ed è presso l'indirizzo usato per la registrazione.|Verificare che il nome e l'indirizzo della società nel [profilo aziendale legale](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) siano privi di errori di ortografia e abbreviazioni e che corrispondano esattamente ai record di registrazione aziendali formali. Al contatto principale (in genere l'amministratore globale o dell'account) verrà richiesto di fornire la documentazione ufficiale, ad esempio una registrazione aziendale o un certificato di registrazione fiscale o una ricevuta, dal paese principale della società o dal comune che conferma che la società è autorizzata a eseguire le attività aziendali con il nome di tale entità e si trova nell'indirizzo di iscrizione. [Creare un ticket di supporto](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
 >Scopri come aggiornare il tuo [profilo aziendale legale (indirizzo)](update-your-partner-profile.md).

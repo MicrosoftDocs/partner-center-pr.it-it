@@ -10,18 +10,16 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 248527fdbc536c552f7b2d00f208838b4ef19085
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 244cb852728d47360cf8ecd1d1e9ccb641466b1d
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302287"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215748"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visualizzare i dati aziendali con l'app partner Center Analytics per Microsoft Power BI
 
-**Si applica a**
 
-- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -142,7 +140,7 @@ Ottieni una rappresentazione visiva dei dati aziendali con l'app di analisi del 
 
 - **Licenze assegnate dal cliente**: visualizzazione dettagliata delle licenze vendute e licenze assegnate da clienti e prodotti
 
-- **Licenze in uso da**parte del cliente: visualizzazione dettagliata delle licenze vendute e licenze utilizzate da clienti e prodotti
+- **Licenze in uso da** parte del cliente: visualizzazione dettagliata delle licenze vendute e licenze utilizzate da clienti e prodotti
 
 ### <a name="azure-insights-report"></a>Report di Azure Insights:
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062434"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235954"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di gennaio 2021** | **Annunciato** |
 |---------|:---------|:---------|
+|Offerte/mercati|[Aggiornamento dei prezzi commerciali per la corona norvegese](2021-january.md#7)|14 gennaio|
 |Offerte/mercati|[Aggiornamento dei prezzi commerciali per la rupia indiana](2021-january.md#6)|8 gennaio|
 |Offerte/mercati|[Aggiornamenti del piano per chiamate e del sistema telefonico per il 1° febbraio 2021](2021-january.md#5)|8 gennaio|
 |Offerte/mercati|[Aggiornamenti del listino prezzi basato su licenza per gennaio 2021](2021-january.md#4)|8 gennaio|
@@ -38,7 +39,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 |Crescita aziendale|[Promemoria: software con licenza perpetua del programma Cloud Solution Provider (CSP) generalmente disponibile a partire da gennaio 2021](2020-december.md#7)|17 dicembre|
 |Funzionalità|[Guida all'autorizzazione per i servizi online e il canale software](2020-december.md#6)|17 dicembre|
 |Offerte/mercati|[Promozione di Power Apps ora disponibile](2020-december.md#5)|16 dicembre|
-|Capabilities|[Versione dell'SDK in .NET Standard (v1.16.3)](2020-december.md#4)|8 dicembre|
+|Funzionalità|[Versione dell'SDK in .NET Standard (v1.16.3)](2020-december.md#4)|8 dicembre|
 |Offerte/mercati|[Note sulla versione dell'elenco prezzi basato su licenza di dicembre 2020](2020-december.md#3)|8 dicembre|
 |Offerte/mercati|[Aggiornamento dell'offerta Microsoft 365 Business Voice per gli Stati Uniti con piano per chiamate presto disponibile](2020-december.md#2)|3 dicembre|
 |Funzionalità|[Ora disponibile: aggiornamenti delle API e miglioramenti dell'interfaccia utente del Centro per i partner per il processo di convalida dei clienti del settore della formazione](2020-december.md#1)|3 dicembre|

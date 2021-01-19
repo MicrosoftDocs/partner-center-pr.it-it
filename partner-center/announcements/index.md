@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235954"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560494"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,8 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di gennaio 2021** | **Annunciato** |
 |---------|:---------|:---------|
+|Offerte/mercati|[Lanci di sicurezza, conformità e identità (SCI) disponibili il 1 febbraio 2021](2021-january.md#9)|15 gennaio|
+|Funzionalità|[Migrazione di DocuSign ad Adobe Sign per i partner che hanno sottoscritto contratti Microsoft Partner](2021-january.md#8)|15 gennaio|
 |Offerte/mercati|[Aggiornamento dei prezzi commerciali per la corona norvegese](2021-january.md#7)|14 gennaio|
 |Offerte/mercati|[Aggiornamento dei prezzi commerciali per la rupia indiana](2021-january.md#6)|8 gennaio|
 |Offerte/mercati|[Aggiornamenti del piano per chiamate e del sistema telefonico per il 1° febbraio 2021](2021-january.md#5)|8 gennaio|

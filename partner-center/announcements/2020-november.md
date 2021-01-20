@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439092"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182546"
 ---
 # <a name="november-2020-announcements"></a>Annunci di novembre 2020
 
@@ -40,7 +40,7 @@ Tutti i partner
 
 ### <a name="details"></a>Dettagli
 
-Microsoft presenta la possibilità per i partner del programma Cloud Solution Provider, inclusi i provider indiretti e i partner con fatturazione diretta, di acquistare offerte SaaS con [fatturazione a consumo](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing) nel Centro per i partner. Attualmente i partner del programma Cloud Solution Provider sono in grado di visualizzare e [acquistare offerte SaaS con fatturazione a consumo tramite il portale di Azure](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase). Questa nuova esperienza consentirà ai partner di acquistare queste offerte tramite il marketplace CSP nel Centro per i partner e l'API come per altri tipi di offerte SaaS. 
+Microsoft presenta la possibilità per i partner del programma Cloud Solution Provider, inclusi i provider indiretti e i partner con fatturazione diretta, di acquistare offerte SaaS con [fatturazione a consumo](/azure/marketplace/partner-center-portal/saas-metered-billing) nel Centro per i partner. Attualmente i partner del programma Cloud Solution Provider sono in grado di visualizzare e [acquistare offerte SaaS con fatturazione a consumo tramite il portale di Azure](../csp-commercial-marketplace-purchase.md). Questa nuova esperienza consentirà ai partner di acquistare queste offerte tramite il marketplace CSP nel Centro per i partner e l'API come per altri tipi di offerte SaaS. 
 
 ### <a name="next-steps"></a>Passaggi successivi
 
@@ -309,23 +309,23 @@ Il Centro per i partner è progettato per gestire un volume elevato di richieste
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[Ottenere tutte le sottoscrizioni di un cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Ottenere un abbonamento in base all'ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[Ottenere tutti gli ordini di un cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Ottenere un ordine in base all'ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Ottenere lo stato del provisioning di un abbonamento](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Gestire gli ordini e gestire una sottoscrizione](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[Ottenere un elenco dei componenti aggiuntivi per un abbonamento](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[Ottenere un elenco dei diritti di Azure per una sottoscrizione](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Ottenere lo stato della registrazione di un abbonamento](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Ottenere tutti i trasferimenti di un cliente](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Ottenere lo stato di aggiornamento dei prodotti](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Ottenere un elenco delle offerte di conversione della copia di valutazione](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer_id}/orders||[Ottenere tutti gli ordini di un cliente](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Ottenere un ordine in base all'ID](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Ottenere lo stato del provisioning di un abbonamento](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Gestire gli ordini e gestire una sottoscrizione](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[Ottenere un elenco dei componenti aggiuntivi per un abbonamento](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[Ottenere un elenco dei diritti di Azure per una sottoscrizione](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Ottenere lo stato della registrazione di un abbonamento](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Ottenere tutti i trasferimenti di un cliente](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Ottenere lo stato di aggiornamento dei prodotti](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Ottenere un elenco delle offerte di conversione della copia di valutazione](/partner-center/develop/get-all-of-a-customer-s-transfers) 
   
 
-Questo annuncio intende fornire ai partner una conoscenza tempestiva delle modifiche previste, consentendo loro di prepararsi a gestirle. Si consiglia ai partner di acquisire familiarità con queste API e prendere in considerazione l'uso dell'API del log attività per una maggiore efficienza ed evitare la limitazione delle richieste. Per altre informazioni su questa funzionalità, fare riferimento ai dettagli in [Indicazioni sulla limitazione delle richieste per le API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance). 
+Questo annuncio intende fornire ai partner una conoscenza tempestiva delle modifiche previste, consentendo loro di prepararsi a gestirle. Si consiglia ai partner di acquisire familiarità con queste API e prendere in considerazione l'uso dell'API del log attività per una maggiore efficienza ed evitare la limitazione delle richieste. Per altre informazioni su questa funzionalità, fare riferimento ai dettagli in [Indicazioni sulla limitazione delle richieste per le API](/partner-center/develop/api-throttling-guidance). 
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-Esaminare [Indicazioni sulla limitazione delle richieste per le API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance) ed eseguire le operazioni necessarie. 
+Esaminare [Indicazioni sulla limitazione delle richieste per le API](/partner-center/develop/api-throttling-guidance) ed eseguire le operazioni necessarie. 
 
 ______________
 
@@ -339,7 +339,7 @@ ______________
 ### <a name="context"></a>Context
 
 - Nel febbraio di quest'anno ai partner è stato richiesto di firmare il Contratto del cliente Microsoft (MCuA). Si trattava di una migrazione dal precedente Contratto Microsoft Cloud (MCA). 
-- Nell'ambito di questa modifica, è stato richiesto ai partner di includere il parametro del tipo di contratto come documentato [qui](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement).
+- Nell'ambito di questa modifica, è stato richiesto ai partner di includere il parametro del tipo di contratto come documentato [qui](/partner-center/develop/get-confirmation-of-customer-agreement).
 
 ### <a name="what-happened-next"></a>Sviluppi successivi:
 

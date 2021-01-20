@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736539"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182563"
 ---
 # <a name="december-2020-announcements"></a>Annunci di dicembre 2020
 
@@ -152,7 +152,7 @@ Il nuovo Microsoft Edge offre la migliore espressione di browser moderno e Micro
 **Impatto della modifica**
 
 - Dal **30 novembre 2020**, i clienti non sono più in grado di connettersi all'app Web Microsoft Teams in Internet Explorer 11. Microsoft ritiene che i clienti otterranno il massimo da Microsoft 365 e dalla migliore espressione di browser moderno quando inizieranno a usare il [nuovo Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
-- Dopo il **9 marzo 2021**, le app e i siti creati per la versione legacy di Microsoft Edge continueranno a funzionare nel nuovo Microsoft Edge, ma se si verifica un problema di compatibilità, è garantito il supporto di [App Assure](https://aka.ms/appassure).
+- Dopo il **9 marzo 2021**, le app e i siti creati per la versione legacy di Microsoft Edge continueranno a funzionare nel nuovo Microsoft Edge, ma se si verifica un problema di compatibilità, è garantito il supporto di [App Assure](/fasttrack/products-and-capabilities#app-assure).
 - Dopo il **17 agosto 2021**, i clienti avranno un'esperienza ridotta o non saranno in grado di connettersi alle app e ai servizi Microsoft 365 in Internet Explorer 11. Microsoft ritiene che i clienti otterranno il massimo da Microsoft 365 e dalla migliore espressione di browser moderno quando inizieranno a usare il [nuovo Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
 
 ### <a name="next-steps"></a>Passaggi successivi
@@ -280,7 +280,7 @@ Nella stessa data, si verificherà anche quanto segue:
 
 - Il listino prezzi del software con licenza perpetua CSP verrà ripubblicato nel Centro per i partner. È disponibile nella sezione **Software** della pagina [Vendi > Prezzi e offerte](https://partnercenter.microsoft.com/pcv/sales), che contiene altri prodotti e aree geografiche. Per i dettagli completi, vedere [qui](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- La funzionalità di evasione di software e codici di licenza disponibile nel Centro per i partner verrà disattivata - vedere l'[annuncio](https://docs.microsoft.com/partner-center/announcements/2020-september#17) - e i partner useranno esclusivamente l'interfaccia di amministrazione di Microsoft 365 a questo scopo. Ciò garantisce un'esperienza più sicura ed efficiente per i clienti stessi. Altre informazioni sul software dell'interfaccia di amministrazione di Microsoft 365 sono disponibili nelle sezioni relative a [informazioni generali](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [attività comuni](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) e [funzionalità di evasione dei codici di licenza](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- La funzionalità di evasione di software e codici di licenza disponibile nel Centro per i partner verrà disattivata - vedere l'[annuncio](./2020-september.md#17) - e i partner useranno esclusivamente l'interfaccia di amministrazione di Microsoft 365 a questo scopo. Ciò garantisce un'esperienza più sicura ed efficiente per i clienti stessi. Altre informazioni sul software dell'interfaccia di amministrazione di Microsoft 365 sono disponibili nelle sezioni relative a [informazioni generali](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [attività comuni](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) e [funzionalità di evasione dei codici di licenza](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Software con licenza perpetua in CSP
 
@@ -292,7 +292,7 @@ Esaminare le risorse seguenti e condividerle con i contatti pertinenti nell'orga
 
 - [Aree geografiche e prodotti software con licenza perpetua CSP](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) che verranno aggiunti il 19 gennaio 2021
 
-- [Informazioni generali](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [attività comuni](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) e [funzionalità di evasione dei codici di licenza](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf) dell'interfaccia di amministrazione di Microsoft 365
+- [Informazioni generali](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [attività comuni](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) e [funzionalità di evasione dei codici di licenza](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf) dell'interfaccia di amministrazione di Microsoft 365
 
 - [Ampliamento delle opportunità per i partner nel programma Cloud Solution Provider](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (annuncio partner)
 
@@ -573,4 +573,4 @@ Microsoft si riserva il diritto di esaminare lo stato di qualsiasi cliente effet
 
 - 10 novembre 2020: promemoria per iscriversi ai test 
 
-- 3 dicembre 2020: aggiornamenti delle API in tempo reale 
+- 3 dicembre 2020: aggiornamenti delle API in tempo reale

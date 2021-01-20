@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622168"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182410"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Come viene calcolato e pagato il credito ottenuto dai partner
 
@@ -36,7 +36,7 @@ Per ricevere il credito ottenuto dal partner (PEC), si applicano i requisiti seg
 
 - È necessario disporre di un contratto MPN attivo e di un ruolo controllo degli accessi in base al ruolo valido per ricevere il credito ottenuto per gli asset di Azure gestiti.
 
-- È necessario esercitare 24 ore su 24, 7 giorni su 7 il controllo e la gestione operativi delle risorse di Azure del cliente in CSP. Ciò significa che è necessario disporre dei privilegi di amministratore per la sottoscrizione di Azure del cliente, il gruppo di risorse di Azure e la risorsa di Azure. Nel caso di provider indiretti e dei relativi rivenditori indiretti, il provider indiretto sarà idoneo per il credito ottenuto dal partner se egli stesso, il rivenditore indiretto oppure entrambi esercitano questo controllo operativo. Per altre informazioni, vedere [Ripristinare i privilegi di amministratore per le sottoscrizioni di Azure CSP](https://docs.microsoft.com/partner-center/revoke-reinstate-csp).
+- È necessario esercitare 24 ore su 24, 7 giorni su 7 il controllo e la gestione operativi delle risorse di Azure del cliente in CSP. Ciò significa che è necessario disporre dei privilegi di amministratore per la sottoscrizione di Azure del cliente, il gruppo di risorse di Azure e la risorsa di Azure. Nel caso di provider indiretti e dei relativi rivenditori indiretti, il provider indiretto sarà idoneo per il credito ottenuto dal partner se egli stesso, il rivenditore indiretto oppure entrambi esercitano questo controllo operativo. Per altre informazioni, vedere [Ripristinare i privilegi di amministratore per le sottoscrizioni di Azure CSP](./revoke-reinstate-csp.md).
 
 - Oltre ai requisiti precedenti, il credito ottenuto dal partner è applicabile ai servizi elencati nei prezzi per l'utilizzo del piano di Azure che è possibile esportare dalla pagina dei [prezzi del piano di Azure](https://partner.microsoft.com/commerce/sales).
 
@@ -48,7 +48,7 @@ Per ricevere il credito ottenuto dal partner (PEC), si applicano i requisiti seg
 
 - Il credito viene ottenuto dai partner a livello delle risorse di Azure. Se si dispone di un accesso valido a livello di sottoscrizione o di gruppo di risorse, otterrà il credito ogni risorsa con ruolo autorizzato fino all'entità più alta.
 
-- Informazioni dettagliate sul credito ottenuto dal partner sono disponibili anche nella pagina [Gestione costi di Azure](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners).
+- Informazioni dettagliate sul credito ottenuto dal partner sono disponibili anche nella pagina [Gestione costi di Azure](/azure/cost-management-billing/costs/get-started-partners).
 
 ### <a name="calculation"></a>Calcolo
 

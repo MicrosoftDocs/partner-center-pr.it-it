@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97578288"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182376"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Configurare gli utenti con l'autenticazione a più fattori
 
@@ -39,11 +39,10 @@ Verrà abilitata l'autenticazione a più fattori per l'utente. L'opzione Abilita
 :::image type="content" source="images/MFA/securityverification.png" alt-text="Specificare i dati per la verifica":::
 
 >[!NOTE]
->Per consentire agli utenti di usare l'autenticazione a più fattori, è possibile usare l'opzione **Applica** seguendo la stessa procedura illustrata in precedenza e selezionando **Applica**. Per altre informazioni, vedere [Abilitare Azure Multi-Factor Authentication per singolo utente per proteggere gli eventi di accesso](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates). 
+>Per consentire agli utenti di usare l'autenticazione a più fattori, è possibile usare l'opzione **Applica** seguendo la stessa procedura illustrata in precedenza e selezionando **Applica**. Per altre informazioni, vedere [Abilitare Azure Multi-Factor Authentication per singolo utente per proteggere gli eventi di accesso](/azure/active-directory/authentication/howto-mfa-userstates). 
 
 Lo stato iniziale di tutti gli utenti è  **Disabilitato**. Quando gli utenti vengono registrati per Azure Multi-Factor Authentication per singolo utente, il relativo stato viene modificato in  **Abilitato**. Quando gli utenti abilitati eseguono l'accesso e completano il processo di registrazione, il relativo stato viene modificato in  **Applicato**. 
 
 ## <a name="next-steps"></a>Passaggi successivi
 
 - [Assegnare ruoli e autorizzazioni agli utenti](permissions-overview.md)
-

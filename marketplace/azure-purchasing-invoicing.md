@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182478"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584211"
 ---
 # <a name="azure-marketplace-purchasing"></a>Acquisto in Azure Marketplace
 
@@ -60,6 +60,20 @@ Quando si acquistano prodotti da Azure Marketplace, è possibile ottenere inform
 È possibile visualizzare le fatture e gli addebiti di Azure Marketplace nello strumento di analisi dei costi disponibile in Gestione costi di Azure.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Usa gestione costi di Azure per ottenere informazioni dettagliate sui prodotti acquistati.":::
+
+## <a name="purchase-validation-checks"></a>Acquistare i controlli di convalida
+
+L'acquisto di un'offerta tramite Azure Marketplace può avere esito negativo per diversi motivi. L'uso dell'interfaccia della riga di comando (CLI) per un acquisto è più probabile che causi errori poiché è possibile che si stia tentando di acquistare un'offerta non disponibile o visibile in Azure Marketplace. Di seguito sono riportati i controlli che possono causare un errore di acquisto:
+
+1. La sottoscrizione appartiene a un Enterprise Agreement (EA) e l'amministratore EA ha disabilitato gli acquisti su Azure Marketplace.
+1. L'amministratore EA ha abilitato gli acquisti solo per le offerte gratuite e l'offerta è un'offerta a pagamento.
+1. L'offerta non è disponibile nel Marketplace.
+1. Il fornitore di software indipendente (ISV) ha interrotto la vendita dell'offerta, almeno nella propria area geografica.
+1. La sottoscrizione in uso appartiene a un account di fatturazione in un'area in cui l'offerta non è disponibile.
+1. L'account di sottoscrizione/fatturazione non è associato a uno strumento di pagamento valido, ad esempio una carta di credito valida.
+1. La sottoscrizione appartiene a un provider di soluzioni cloud (CSP) e l'ISV ha rifiutato la vendita tramite un CSP.
+1. Il Marketplace privato è abilitato per la sottoscrizione e l'offerta non è presente nell'elenco delle offerte consentite.
+1. L'offerta è privata/anteprima per clienti specifici e la sottoscrizione non è presente nell'elenco dei clienti autorizzati.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

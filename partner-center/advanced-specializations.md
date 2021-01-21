@@ -1,7 +1,7 @@
 ---
 title: Informazioni sulle specializzazioni avanzate
 ms.topic: article
-ms.date: 01/12/2021
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Potenzia il tuo profilo aziendale nella directory dei partner Microsoft. Scopri le specializzazioni avanzate che puoi ottenere con le tue competenze in oro e argento esistenti.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204020"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658400"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ottieni una specializzazione avanzata per presentare le tue funzionalità convalidate
 
@@ -41,10 +41,11 @@ Ogni specializzazione avanzata corrisponde a un'area della soluzione:
 - Azure
 - Applicazioni aziendali
 - Lavoro moderno
-- Sicurezza
+- Security
 
 Le specializzazioni avanzate di **Azure** includono:
 
+- Analisi su Microsoft Azure
 - Migrazione del data warehouse a Microsoft Azure
 - Kubernetes in Microsoft Azure
 - Migrazione dei database Linux e open source a Microsoft Azure

@@ -1,7 +1,7 @@
 ---
 title: Gestire l'account del Centro per i partner
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come usare il Centro per i partner per gestire il profilo, i dati bancari e fiscali, i ruoli e le autorizzazioni e altro ancora per l'azienda.
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
-ms.translationtype: HT
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011528"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235971"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gestire l'account del Centro per i partner: profilo della società, informazioni bancarie, ruoli, autorizzazioni e altri dati
 
-**Ruoli appropriati**: amministratore globale, amministratore MPN
+**Ruoli appropriati**: amministratore globale
+- Amministratore account MPN
 
 L'account creato nel Centro per i partner al momento dell'iscrizione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account, è necessario terminare la configurazione del profilo completo della società, inclusi i dettagli sul supporto, le eventuali esenzioni fiscali e le informazioni sul contatto principale. L'account dell'azienda includerà anche gli account utente per chiunque usi il Centro per i partner per aggiungere o gestire clienti, vendere sottoscrizioni, gestire la fatturazione, creare profili di business, gestire segnalazioni, usare programmi di incentivi e fornire servizi di supporto.
 
@@ -60,6 +61,10 @@ Usare queste pagine per gestire le aree dell'azienda a un livello più profondo,
 ### <a name="legal-info"></a>Informazioni legali
 
 Quando una società accede per la prima volta al Centro per i partner, viene eseguito un processo di verifica con Microsoft. È possibile tenere traccia dello stato della verifica nella pagina **Informazioni legali**. Vengono visualizzati il contatto principale, ovvero la persona che verrà contattata da Microsoft per le domande ai partner, e il contatto legale principale, ovvero la persona che gestisce lo stato e le informazioni legali. Tutte le sedi aziendali sono elencate e possono essere aggiunte in questa pagina.
+
+### <a name="primary-contact-email"></a>Indirizzo di posta elettronica di contatto principale
+
+L'indirizzo di posta elettronica di contatto principale verrà usato per inviare notifiche relative alla verifica dell'account. È molto importante che l'indirizzo di posta elettronica fornito per il contatto principale sia gestito e controllato regolarmente.  
 
 Per altre informazioni sulla verifica dei dati dell'account, vedere [questo articolo](verification-responses.md).
 
@@ -122,9 +127,9 @@ Esistono numerosi programmi del Centro per i partner. Ogni programma ha requisit
 
 Per informazioni sull'iscrizione ad alcuni programmi del Centro per i partner, vedere l'elenco parziale seguente:
 
-- [Programma Marketplace commerciale](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Programma Marketplace commerciale](/azure/marketplace/partner-center-portal/create-account)
 - [Vantaggi dell'adesione a Microsoft Partner Network](mpn-overview.md)
-- [Programma CSP](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Programma CSP](./enrolling-in-the-csp-program.md)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Per altre informazioni sull'iscrizione ai programmi del Centro per i partner, vedi anche [Risorse di Partner Network](https://partner.microsoft.com/).

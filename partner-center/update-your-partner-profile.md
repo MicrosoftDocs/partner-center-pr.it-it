@@ -6,15 +6,15 @@ description: Descrive come verificare i dettagli della società, ad esempio cont
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 12/17/2020
+ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
-ms.translationtype: HT
+ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666792"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235920"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Verificare le informazioni relative al profilo dell'organizzazione nel Centro per i partner
 
@@ -27,6 +27,12 @@ Al primo accesso al Centro per i partner come amministratore globale, devi verif
 
 Il profilo partner è costituito dalle informazioni aziendali legali, dal nome del contatto principale e dall'indirizzo di posta elettronica, dai programmi a cui la società partecipa e, se pertinente, dalle altre società fuse con l'azienda legale. Verificare che il nome e l'indirizzo della società nel profilo aziendale legale siano privi di errori di ortografia e abbreviazioni e che corrispondano esattamente ai record ufficiali di iscrizione al registro delle imprese. Se si opera come impresa individuale, è necessario usare come ragione sociale il nome della società.
 
+>[!Important]
+>- Per gli account MPN, la ragione sociale può essere aggiornata sia dall'amministratore globale sia dall'amministratore degli account.
+>- Per gli account di rivenditore indiretto CSP, la ragione sociale può essere aggiornata dall'amministratore globale. 
+
+## <a name="locate-the-legal-business-profile"></a>Individuare il profilo aziendale legale
+
 1. Passare all’icona **Impostazioni** e selezionare **Impostazioni account**.
  
 1. Selezionare **Profilo organizzazione**. 
@@ -37,7 +43,7 @@ Se le altre società sono state unite nell'azienda legale, è possibile verifica
 
 ## <a name="update-your-legal-business-profile"></a>Aggiornare il profilo aziendale legale
 
-È ora possibile aggiornare l'indirizzo legale nel Centro per i partner.
+Aggiornare l'indirizzo legale nel Centro per i partner.
 
 1. Passare a **Impostazioni** e selezionare **Profilo organizzazione**.
 
@@ -45,7 +51,7 @@ Se le altre società sono state unite nell'azienda legale, è possibile verifica
 2. Selezionare **Note legali** e quindi il profilo aziendale legale che si vuole usare.
 
 >[!Important]
->I partner Cloud Solution Provider (CSP) non possono modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è collegato al tenant e ai servizi, nonché alla valuta con cui si eseguono le operazioni aziendali. Se invece non si è nel programma CSP, puoi modificare il paese associato all'indirizzo legale. Non puoi aggiornare il nome dell’azienda legale nel Centro per i partner se lo stato verificato è "Authorized" (Autorizzato). Sarà necessario [creare un ticket di supporto](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>I partner Cloud Solution Provider (CSP) non possono modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è collegato al tenant e ai servizi, nonché alla valuta con cui si eseguono le operazioni aziendali. Se non si è iscritti al programma CSP, è possibile modificare il paese associato all'indirizzo legale. Non è possibile aggiornare la ragione sociale nel Centro per i partner se lo stato di convalida è "Autorizzato". Per modificare il nome, sarà necessario [creare un ticket di supporto](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 3. Quando si seleziona **Invia**, l'identità legale viene rivalutata e viene inviato un altro messaggio di posta elettronica che sarà necessario accettare.
 
@@ -78,10 +84,7 @@ Gli amministratori globali, gli amministratori di fatturazione o gli agenti di a
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-
 - [Controllare lo stato di verifica](verification-responses.md)
  
 - [Gestire le sedi MPN](manage-locations.md)
-
-
 

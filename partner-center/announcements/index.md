@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
-ms.translationtype: HT
+ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571653"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685906"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 | **Categoria** | **Annunci di gennaio 2021** | **Annunciato** |
 |---------|:---------|:---------|
+|Funzionalità|[Modifiche alla disponibilità dell'offerta di Azure in CSP correlate alla nuova esperienza commerciale in CSP per Azure](2021-january.md#12)|21 gennaio|
 |Crescita aziendale|[Software con licenza perpetua ora disponibile a livello generale per il programma Cloud Solution Provider](2021-january.md#11)|19 gennaio|
 |Crescita aziendale|[Promemoria: introduzione alla limitazione delle API per i partner che chiamano le API del Centro per i partner](2021-january.md#10)|19 gennaio|
 |Offerte/mercati|[Lanci di sicurezza, conformità e identità (SCI) disponibili il 1 febbraio 2021](2021-january.md#9)|15 gennaio|

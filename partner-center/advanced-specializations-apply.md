@@ -1,7 +1,7 @@
 ---
 title: Applica le specializzazioni avanzate
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Potenzia il tuo profilo aziendale nella directory dei partner Microsoft. Informazioni su come usare il centro per i partner per richiedere e ottenere specializzazioni avanzate.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440044"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658417"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Usare il centro per i partner per le specializzazioni avanzate e controllarne lo stato
 
@@ -60,20 +60,21 @@ Entrambe le attività possono essere eseguite nel centro per i partner.
 
 Le specializzazioni avanzate che richiedono un controllo con un revisore di terze parti includono:
 
-- Migrazione data warehouse Microsoft Azure
-- Kubernetes su Microsoft Azure
-- Migrazione di database Linux e open source a Microsoft Azure
+- Analisi su Microsoft Azure
+- Migrazione del data warehouse a Microsoft Azure
+- Kubernetes in Microsoft Azure
+- Migrazione del database open source e di Linux a Microsoft Azure
 - Desktop virtuale Microsoft Windows
-- Modernizzazione delle applicazioni Web per Microsoft Azure
+- Modernizzazione delle applicazioni Web in Microsoft Azure
 - Migrazione di Windows Server e SQL Server a Microsoft Azure
 
 Le specializzazioni avanzate che richiedono riferimenti ai clienti includono:
 
-- Adozione e gestione delle modifiche
-- Chiamata per Microsoft Teams
+- Adozione e change management
+- Sistema telefonico per Microsoft Teams
 - Riunioni e sale riunioni per Microsoft Teams
 - SAP in Azure
-- Distribuzione teamwork
+- Implementazione di soluzioni di collaborazione
 - Gestione delle identità e dell'accesso
 - Threat Protection
 

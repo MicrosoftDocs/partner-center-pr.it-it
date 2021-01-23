@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685923"
+ms.locfileid: "98705029"
 ---
 # <a name="january-2021-announcements"></a>Annunci di gennaio 2021
 
@@ -126,8 +126,7 @@ Tutti i partner CSP
 
 Come [annunciato](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) oggi, siamo lieti di comunicare che le licenze software perpetue commerciali sono ora disponibili a livello generale per tutti i partner CSP da vendere. L'elenco prezzi software perpetuo del centro per i partner è stato ripubblicato e ora include prodotti e aree geografiche aggiuntive.
 
-Si noti inoltre che attualmente la funzionalità di evasione delle chiavi di licenza e software del centro per i partner è stata ritirata e i partner e i clienti devono usare l'interfaccia di amministrazione di Microsoft 365 a questo scopo.
-Per ulteriori informazioni e passaggi successivi, vedere di seguito.
+Si noti inoltre che attualmente la funzionalità di evasione delle chiavi di licenza e software del centro per i partner è stata ritirata e che i partner in futuro devono puntare i clienti al centro di amministrazione di Microsoft 365 a questo scopo. Per ulteriori informazioni e passaggi successivi, vedere di seguito.
 
 ### <a name="next-steps"></a>Passaggi successivi
 

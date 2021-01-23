@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
-ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
-ms.translationtype: HT
+ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94878801"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705012"
 ---
 # <a name="september-2020-announcements"></a>Annunci di settembre 2020
 
@@ -36,7 +36,7 @@ Tutti i partner CSP (Cloud Solution Provider) che si occupano della vendita di o
 
 ### <a name="details"></a>Dettagli
 
-I partner attualmente possono usare il Centro per i partner o l'interfaccia di amministrazione di Microsoft 365 per evadere download e codici di licenza del software per gli ordini di software CSP. A partire dal **19 gennaio 2021**, la funzionalità di evasione di software e codici di licenza disponibile nel Centro per i partner verrà disattivata e i partner useranno esclusivamente l'**interfaccia di amministrazione di Microsoft 365** a questo scopo. La pagina relativa al software del cliente all'interno del Centro per i partner conterrà un "collegamento diretto" all'interfaccia di amministrazione di Microsoft 365, dove è possibile ottenere le licenze e i download di software per i clienti. Ciò consente di garantire un'esperienza più sicura ed efficiente per i clienti stessi.
+I partner attualmente possono usare il Centro per i partner o l'interfaccia di amministrazione di Microsoft 365 per evadere download e codici di licenza del software per gli ordini di software CSP. A partire dal **19 gennaio 2021**, la funzionalità di evasione del software e del codice di licenza del centro per i partner verrà ritirata e i partner punteranno i clienti a usare l'interfaccia di **amministrazione di Microsoft 365** esclusivamente a questo scopo. La pagina software del cliente all'interno del centro per i partner conterrà un "collegamento approfondito" all'interfaccia di amministrazione di Microsoft 365, in cui è possibile puntare i clienti per ottenere le licenze dei clienti e i download del software. Ciò consente di garantire un'esperienza più sicura ed efficiente per i clienti stessi.
 
 I codici di licenza e i collegamenti per il download del software sono risorse di proprietà intellettuale preziose e molto ambite. Se utenti malintenzionati ne entrassero in possesso, i limiti di attivazione previsti potrebbero venire raggiunti rapidamente, con conseguenti ripercussioni negative sull'esperienza di utilizzo per clienti e partner. È pertanto fondamentale che i partner usino la tecnologia e le procedure consigliate più sicure per contribuire alla salvaguardia di queste importanti risorse e alla protezione dei clienti.
 

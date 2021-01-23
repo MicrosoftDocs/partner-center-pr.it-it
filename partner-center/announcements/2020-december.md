@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
-ms.translationtype: HT
+ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182563"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705046"
 ---
 # <a name="december-2020-announcements"></a>Annunci di dicembre 2020
 
@@ -280,7 +280,7 @@ Nella stessa data, si verificherà anche quanto segue:
 
 - Il listino prezzi del software con licenza perpetua CSP verrà ripubblicato nel Centro per i partner. È disponibile nella sezione **Software** della pagina [Vendi > Prezzi e offerte](https://partnercenter.microsoft.com/pcv/sales), che contiene altri prodotti e aree geografiche. Per i dettagli completi, vedere [qui](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- La funzionalità di evasione di software e codici di licenza disponibile nel Centro per i partner verrà disattivata - vedere l'[annuncio](./2020-september.md#17) - e i partner useranno esclusivamente l'interfaccia di amministrazione di Microsoft 365 a questo scopo. Ciò garantisce un'esperienza più sicura ed efficiente per i clienti stessi. Altre informazioni sul software dell'interfaccia di amministrazione di Microsoft 365 sono disponibili nelle sezioni relative a [informazioni generali](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [attività comuni](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) e [funzionalità di evasione dei codici di licenza](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- La funzionalità di evasione delle chiavi di licenza e software del centro per i partner verrà ritirata. vedere l' [annuncio](./2020-september.md#17) e i partner punteranno i clienti a usare l'interfaccia di amministrazione di Microsoft 365 esclusivamente per questo scopo in futuro. Ciò garantisce un'esperienza più sicura ed efficiente per i clienti stessi. Altre informazioni sul software dell'interfaccia di amministrazione di Microsoft 365 sono disponibili nelle sezioni relative a [informazioni generali](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [attività comuni](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) e [funzionalità di evasione dei codici di licenza](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Software con licenza perpetua in CSP
 

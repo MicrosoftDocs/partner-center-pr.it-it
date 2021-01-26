@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ca7dd4239821fedfdb017c7a475b31b9e91cf68
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.openlocfilehash: a6cf5bc3d1e0f28a9c4e0a11d8a603297fa57bf9
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98739267"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773504"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-adopt-the-microsoft-partner-agreement-mpa"></a>Il modo in cui i provider indiretti possono aiutare i rivenditori indiretti ad adottare Microsoft Partner Agreement (MPA)
 
@@ -126,13 +126,13 @@ In caso di problemi, generare un [ticket di supporto](https://partner.microsoft.
 ### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Si desidera eseguire la migrazione dell'account MPN da partner Membership Center al centro per i partner. Come è possibile eseguire questa operazione? Non so chi era l'amministratore MPN in PMC, come posso eseguire la migrazione? 
 
 **Risposta** Vedere la guida dettagliata su come [eseguire la migrazione di MPN da PMC a PC](guide-to-migration.md). Include vari collegamenti per l'epatite di cui si esegue la migrazione.
--   [Contratto Microsoft Partner per CSP](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process)
+-   [Contratto Microsoft Partner per CSP](microsoft-partner-agreement.md)
 
 In caso di problemi, generare un [ticket di supporto](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) dall'interno del centro per i partner. 
 
 ### <a name="are-there-any-localized-step-by-step-instructions-available"></a>Sono disponibili istruzioni dettagliate localizzate?
 
-**Risposta** Sì, abbiamo una guida localizzata disponibile qui: [indirect Reseller onboarding for Microsoft Partner Agreement in CSP Program](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  (lingue disponibili: spagnolo, coreano, cinese, giapponese)
+**Risposta** Sì, sono disponibili linee guida localizzate: [indirect Reseller onboarding for Microsoft Partner Agreement in CSP Program](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  (lingue disponibili: spagnolo, coreano, cinese, giapponese)
 
 ### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-sign-mpa-"></a>Non conosco l'amministratore del centro per i partner che può firmare MPA?
 
@@ -159,8 +159,8 @@ In **Impostazioni account** selezionare pagina **profilo legale** nella scheda *
 
 Se non è possibile risolvere il problema autonomamente, generare un ticket di supporto all'interno del centro per i partner accedendo con l'account CSP e:
 
-- Per i problemi di verifica aziendali, fare clic [qui](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)  
-- Per problemi di verifica dell'impiego, fare clic [qui](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)
+- Per i problemi di verifica aziendali, creare una [richiesta di supporto](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54).  
+- Per problemi di verifica dell'utilizzo, creare una [richiesta di supporto](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b).
 
 :::image type="content" source="images/rejected-faq-mpa.png" alt-text="respinto":::
 

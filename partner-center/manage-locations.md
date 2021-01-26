@@ -1,7 +1,7 @@
 ---
 title: Gestire le posizioni nell'account partner
 ms.topic: how-to
-ms.date: 11/23/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come aggiungere una nuova sede e come usare l'ID MNP di sede in programmi di incentivi, transazioni aziendali CSP, sottoscrizioni e altre transazioni.
@@ -9,18 +9,15 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
-ms.translationtype: HT
+ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514801"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773436"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gestire le sedi dell'account MPN e aggiungere una nuova sede
 
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -38,7 +35,7 @@ Contoso ha registrato il proprio account globale partner nel Regno Unito. Si tra
 
 :::image type="content" source="images/locations/locations1.png" alt-text="Struttura delle sedi MPN":::
 
-## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>Prerequisiti per aggiungere una nuova sede per un'azienda CSP
+## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>Prerequisiti per l'aggiunta di un nuovo percorso dell'account per un'azienda CSP
 
 Per aggiungere una nuova sede aziendale CSP, è necessario soddisfare alcuni prerequisiti:
 

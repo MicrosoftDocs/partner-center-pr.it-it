@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.date: 12/04/2020
+ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492671"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861411"
 ---
 # <a name="payout-schedules-and-processes"></a>Pianificazioni e processi di pagamento
 
@@ -25,11 +25,11 @@ Questo articolo illustra la pianificazione dei pagamenti di Microsoft, la posizi
 
 ## <a name="payment-schedules"></a>Pianificazioni dei pagamenti
 
-Le sezioni seguenti descrivono il processo di pagamento per **Enterprise Agreement** e transazioni con **carta di credito/fattura** .
+Le sezioni seguenti descrivono il processo di pagamento per **contratto Enterprise** e transazioni con **carta di credito/fattura** .
 
-### <a name="enterprise-agreement-transactions"></a>Transazioni Enterprise Agreement
+### <a name="enterprise-agreement-transactions"></a>Transazioni Contratto Enterprise
 
-Quando un cliente acquista un prodotto da Microsoft AppSource o Azure Marketplace usando il Enterprise Agreement Microsoft esistente per le transazioni, i pagamenti vengono rilasciati entro 30 giorni dalla fattura del cliente. Le transazioni in cui un cliente usa una carta di credito hanno un periodo di attesa di 30 giorni prima del pagamento.
+Quando un cliente acquista un prodotto da Microsoft AppSource o Azure Marketplace usando il Contratto Enterprise Microsoft esistente per le transazioni, i pagamenti vengono rilasciati entro 30 giorni dalla fattura del cliente. Le transazioni in cui un cliente usa una carta di credito hanno un periodo di attesa di 30 giorni prima del pagamento.
 
 Si verificherà spesso un versamento prima che Microsoft raccolga i pagamenti dal cliente. Vedere il [processo per i clienti che non](#process-for-customer-non-payment) pagano di seguito per le azioni da intraprendere se il cliente non riesce a pagare Microsoft, ma è già stato emesso un pagamento.
 
@@ -37,6 +37,7 @@ Si verificherà spesso un versamento prima che Microsoft raccolga i pagamenti da
 | --- | --- | --- | --- |
 | Utilizzo o mese di transazione | Il cliente USA o acquista un servizio. | Dashboard di [utilizzo](/azure/marketplace/partner-center-portal/usage-dashboard) o [ordine](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mese 1** |
 | Calcolo importo fatturazione Microsoft | Determinare l'utilizzo totale, le transazioni totali | Dashboard di [utilizzo](/azure/marketplace/partner-center-portal/usage-dashboard) o [ordine](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mese 2** |
+| Fattura pagata dal cliente | Microsoft raccoglie i pagamenti dal cliente | Nessuna modifica | **Mese 2** |
 | Pagamento inviato | Determinazione della tariffa dell'Agenzia e degli utili per i pagamenti | Contrassegnato come non elaborato nella cronologia delle transazioni nell' [istruzione payout](payout-statement.md) | **Mese 3 (prima settimana)** |
 | Preparare i pagamenti | I guadagni sono preparati per il pagamento mensile | Contrassegnato come imminente nella cronologia delle transazioni nell' [istruzione payout](payout-statement.md) | **Mese 3 (prima settimana)** |
 | **Pagamento inviato** | **Il pagamento viene inviato al server di pubblicazione** | **Contrassegnato come inviato nella cronologia delle transazioni e nella sezione relativa ai pagamenti dell'istruzione per il [pagamento](payout-statement.md)** | **Mese 3 (entro il 15)** |
@@ -75,14 +76,14 @@ Microsoft effettuerà il recupero di tutti i pagamenti già effettuati utilizzan
 
 Di seguito è riportato un esempio di pianificazione:
 
-| Event | Data approssimativa * | Visibilità del partner |
+| Evento | Data approssimativa * | Visibilità del partner |
 | --- | --- | --- |
 | Data di pagamento di esempio | 10/15/2020 | Contrassegnato come **inviato** nella cronologia delle transazioni e nella sezione pagamenti nel dashboard dei pagamenti |
 | <font color="red">Se il cliente non paga Microsoft</font> | 12/2/2020 – 12/5/2020 | Nessuna modifica, come sopra |
-| Il cliente riceve il primo messaggio di posta elettronica in ritardo | 12/6/2020 | Nessuno |
-| Il cliente riceve messaggi di posta elettronica regolari con urgenza crescente | 12/7/2020 – 1/31/2021 | Nessuno |
+| Il cliente riceve il primo messaggio di posta elettronica in ritardo | 12/6/2020 | nessuno |
+| Il cliente riceve messaggi di posta elettronica regolari con urgenza crescente | 12/7/2020 – 1/31/2021 | nessuno |
 | È probabile che il server di pubblicazione riceva una notifica di scrittura | 1/7/2021 | Notifica tramite posta elettronica inviata al server di pubblicazione a cui il cliente non ha ancora inviato il pagamento. Sono inclusi ID transazione e importo in dollari. |
-| Il cliente riceve l'avviso di terminazione | 2/1/2021 | Nessuno |
+| Il cliente riceve l'avviso di terminazione | 2/1/2021 | nessuno |
 | Il processo di raccolta termina/Funds viene scritto | 2/15/2021 | Notifica tramite posta elettronica inviata al server di pubblicazione. i fondi sono stati scritti. Sono inclusi ID transazione e importo in dollari. |
 | Il pagamento viene sottratto | 1/3/2021 | Il server di pubblicazione visualizzerà una transazione negativa nell'istruzione per il pagamento del partner Center |
 | Il pagamento è stato trattenuto | 3/15/2021 | I pagamenti futuri verranno visualizzati nell'istruzione per il pagamento del centro per i partner. Il server di pubblicazione non riceverà alcun pagamento finché il saldo non sarà più negativo.  |

@@ -1,7 +1,7 @@
 ---
 title: Indicatori di contributo partner-SMMCS
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sui partner per gli indicatori di contributo dei partner (PCI) che devono essere soddisfatti prima di poter ottenere le competenze per le soluzioni cloud midmarket e Small.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204120"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861428"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Usare gli indicatori di contributo dei partner per ottenere le competenze per le soluzioni cloud midmarket e Small
 
@@ -157,13 +157,12 @@ NET New ricavi è un [indicatore delle prestazioni](partner-contribution-indicat
 - NET New ricavi è definito come net New fatturato ricavi in tutti i canali di vendita per i prodotti Dynamics 365 idonei.
 - NET New ricavi viene sommato per un periodo di 12 mesi finale con un massimo di 10 punti.
 - I punti per i nuovi ricavi NET vengono calcolati come fatture meno crediti e aggregati per 12 mesi.
-- I nuovi ricavi NET vengono calcolati in base ai prodotti seguenti, che seguono il percorso di engagement del cliente o il percorso finanziario e operativo:
+- NET New ricavi viene calcolato in base a qualsiasi combinazione dei prodotti seguenti, idonei:
   - Dynamics 365 Customer Engagement: i prodotti idonei includono: vendite, marketing, servizio clienti, Field Service, Project Server, piano 1, automazione, marketing, Microsoft Relationship Sales
-  - Finanza e operazioni: i prodotti idonei includono: business Central, Capacity and Storage, Finance and Operation (inclusa la protezione da frodi, operazioni, vendite al dettaglio, HR, piano 2), realtà mista, membro del team
-  - Dynamics 365 Business Central
-
-- I canali di vendita includono Enterprise Agreement (EA), Cloud Solution Provider (CSP) e Web Direct.
-- Per Enterprise Agreement solo i ricavi: i ricavi includono i ricavi del primo anno del contratto. I ricavi ricorrenti del secondo e del terzo anno non sono inclusi.
+  - Finanza e operazioni: i prodotti idonei includono: Dynamics 365 business Central, Capacity and Storage, Finance and Operations (incluse frodi Protection, Operations, retail, HR, piano 2), realtà mista, membro del team
+  
+- I canali di vendita includono Contratto Enterprise (EA), Cloud Solution Provider (CSP) e Web Direct.
+- Per Contratto Enterprise solo i ricavi: i ricavi includono i ricavi del primo anno del contratto. I ricavi ricorrenti del secondo e del terzo anno non sono inclusi.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definizioni per la metrica PCI #2-NET Customer aggiunto
 
@@ -183,7 +182,7 @@ NET Customer aggiunge un [indicatore delle prestazioni](partner-contribution-ind
 
 - È possibile ottenere punti massimi e parziali per l'aggiunta del cliente netto.
 
-- I canali di vendita includono Enterprise Agreement (EA), Cloud Solution Provider (CSP) e Web Direct.
+- I canali di vendita includono Contratto Enterprise (EA), Cloud Solution Provider (CSP) e Web Direct.
 
 - Per più partner/lo stesso cliente o cliente che opera direttamente con Microsoft: esistono diversi calcoli dei **clienti aggiunti** e i **clienti si perdono** per i casi in cui più partner sono associati allo stesso cliente tramite sottoscrizioni diverse o per i casi in cui il cliente può già lavorare direttamente con Microsoft. Questi calcoli vengono visualizzati di seguito.
 

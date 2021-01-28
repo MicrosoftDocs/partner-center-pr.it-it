@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
-ms.translationtype: HT
+ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570706"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924949"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Panoramica della fatturazione per i partner del programma CSP che lavorano nel Centro per i partner 
 
@@ -53,7 +53,7 @@ I tipi di fatturazione in Partner Center includono la **fatturazione in base all
 
 **Fatturazione in base alle licenze e in base all'utilizzo**: Riceverai gli addebiti per i prodotti nella valuta del paese o dell'area geografica in cui ti trovi. L'addebito sarà lo stesso indipendentemente dalla località in cui si trova il cliente a cui hai venduto i prodotti.
 
-**Fatturazione una tantum**: la tua fattura verrà generata nel contesto della valuta del cliente. Questo significa che se sei un partner che opera con i clienti da valute fatturabili diverse, riceverai una fattura per ogni tipo di valuta del cliente. Scopri di più sulla fatturazione [una tantum e ricorrente](azure-plan-billing.md). 
+**Fatturazione** monouso: a partire dal 28 gennaio 2021, i partner dell'area UE/EFTA e del Regno Unito con nuovi clienti e clienti CSP esistenti che acquistano nuove offerte commerciali per la prima volta, i cui tenant sono stati creati prima dell'11 maggio 2020, verranno fatturati in base a tali acquisti nella valuta della località partner.  I partner situati al di fuori dell'area UE/EFTA e del Regno Unito continueranno a essere fatturati in valuta località partner. Scopri di più sulla fatturazione [una tantum e ricorrente](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Fatture
 

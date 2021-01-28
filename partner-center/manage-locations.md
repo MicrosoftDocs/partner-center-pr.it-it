@@ -1,7 +1,7 @@
 ---
 title: Gestire le posizioni nell'account partner
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come aggiungere una nuova sede e come usare l'ID MNP di sede in programmi di incentivi, transazioni aziendali CSP, sottoscrizioni e altre transazioni.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773436"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98925017"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gestire le sedi dell'account MPN e aggiungere una nuova sede
 
@@ -35,45 +35,51 @@ Contoso ha registrato il proprio account globale partner nel Regno Unito. Si tra
 
 :::image type="content" source="images/locations/locations1.png" alt-text="Struttura delle sedi MPN":::
 
-## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>Prerequisiti per l'aggiunta di un nuovo percorso dell'account per un'azienda CSP
+## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Prerequisiti per l'aggiunta di un nuovo account per un'azienda CSP
 
-Per aggiungere una nuova sede aziendale CSP, è necessario soddisfare alcuni prerequisiti:
+Per aggiungere un nuovo account aziendale CSP, iniziare assicurandosi di aver soddisfatto i prerequisiti.
 
-1. È necessario avere un ID MPN di sede nel paese in cui si vuole svolgere le attività aziendali.
-
-1. È necessario un nuovo tenant Azure AD nell'[area geografica di attività](regional-authorization-overview.md) non ancora iscritta a CSP. Creare questo tenant quando si effettua l'iscrizione a CSP.
- 
-3. Usare il nuovo tenant di AAD per l'iscrizione al programma CSP nell'area geografica.
-Fornire i dettagli legali dell'azienda, inclusi la ragione sociale, l'indirizzo e i dettagli del contatto principale. L'account verrà sottoposto a verifica, quindi assicurarsi di aggiungere informazioni valide.
+1. È necessario disporre di un ID MPN della località nel paese in cui si desidera eseguire l'attività di CSP. Per creare un nuovo percorso MPN, vedere "aggiungere un percorso MPN" di seguito.
+  
+1. Per creare una nuova registrazione del rivenditore indiretto CSP, vedere usare i [provider indiretti](indirect-reseller-tasks-in-partner-center.md#get-started) 
 
 >[!NOTE] 
- >Ricordarsi di eseguire l'accesso con le **nuove** credenziali per il **nuovo** tenant di Azure AD. Non usare le credenziali esistenti perché il Centro per i partner riconoscerà l'utente che ha già un account.
+ >Ricordarsi di eseguire l'accesso con le **nuove** credenziali per il **nuovo** account CSP. Non usare le credenziali esistenti perché il Centro per i partner riconoscerà l'utente che ha già un account.
 
-4. Accettare il Contratto Microsoft Partner e attivare l'account.
+2. Accettare il Contratto Microsoft Partner e attivare l'account.
 
 ## <a name="add-an-mpn-location"></a>Aggiungere una sede MPN
 
-1. Accedere al Centro per i partner con l'account MPN. L'account MPN deve avere i privilegi di amministratore globale o amministratore account. 
+1. Accedere con l'account MPN nel centro per i partner. Le credenziali MPN potrebbero essere diverse da quelle del CSP. L'account MPN deve avere i privilegi di amministratore globale o amministratore account. 
 
-1. Nell'icona **Impostazioni** selezionare **Impostazioni dell'organizzazione**.
+1. Nell' **icona Impostazioni** selezionare le impostazioni dell' **account** e quindi selezionare **profilo organizzazione**.
 
-2. Selezionare **Note legali** quindi **Posizioni**.
+2. Selezionare **Legal** , quindi nella scheda **partner** Selezionare **percorsi aziendali** e fare clic su **Aggiungi un percorso.**
 
-3. Selezionare **Aggiungere una sede** e inserire i dettagli dell'indirizzo della sede che si vuole aggiungere alla società, nonché un contatto principale per la sede.
+3. Specificare i dettagli richiesti, inclusi il nome dell'azienda, l'indirizzo e il contatto per la località che si desidera aggiungere all'azienda.
+ 
+1. Fare clic su **Aggiungi percorso**. Verrà creato un nuovo ID MPN per la nuova località che è possibile usare per le transazioni e gli incentivi CSP.
+
+:::image type="content" source="images/legal-biz.png" alt-text="Aggiungi una nuova attività legale":::
 
 > [!NOTE]
 > dopo aver aggiunto una posizione nel Centro per i partner, non è possibile rimuoverla. Se l'accesso è stato effettuato con l'account corretto, verrà visualizzato **MPN** nel menu a sinistra del Centro per i partner.
 
-## <a name="change-global-partner-account-location"></a>Modificare la sede dell'account partner globale
+## <a name="change-country-of-partner-global-account"></a>Modificare il paese dell'account globale del partner 
 
-1. Nella pagina **[Località società](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** verificare che la sede desiderata come entità legale sia inclusa nell'elenco delle sedi. In caso contrario, aggiungerla.
+1. Accedere con l'account MPN nel centro per i partner. Le credenziali MPN potrebbero essere diverse da quelle del CSP. L'account MPN deve avere i privilegi di amministratore globale o amministratore account. 
 
-   :::image type="content" source="images/accountsettings/location1.png" alt-text="Screenshot della pagina delle posizioni dell'account del Centro per i partner con l'elenco di tutte le posizioni correnti.":::
+2. Nella scheda **partner** passare a **percorsi aziendali** e controllare l'elenco delle località per assicurarsi che la località desiderata come entità legale sia elencata. 
+ 
+1. Per aggiungere un percorso, fare clic su **Aggiungi un percorso** e, in uscita, fornire i dettagli necessari, tra cui il nome dell'azienda, l'indirizzo e il contatto principale per la località che si desidera aggiungere all'azienda. 
+ 
+1. Selezionare **cambia il paese** accanto all'elenco a discesa **paese/area geografica** e seguire i passaggi. 
 
-2. Selezionare **Note legali** quindi **aggiornare il profilo legale dell'azienda**
-  
-3. Seleziona l'area e la persona giuridica e quindi **Invia**.
+:::image type="content" source="images/lbp.png" alt-text="Informazioni legali sui dati del profilo aziendale":::
 
+5. Fare clic su **Salva**.
+
+6. Il paese dell'account globale MPN verrà modificato nel nuovo paese legale.
   
 ## <a name="next-steps"></a>Passaggi successivi
 

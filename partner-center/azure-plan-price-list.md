@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
-ms.translationtype: HT
+ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534727"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924974"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Listino prezzi per la nuova esperienza commerciale di Azure in CSP
 
@@ -27,7 +27,7 @@ ms.locfileid: "96534727"
 - Agente di vendita
 - Amministratore gestione utenti
 
-Il listino prezzi per la nuova esperienza commerciale di Azure in CSP viene pubblicato nel Centro per i partner. Il listino prezzi viene distribuito in modo dinamico in un file dettagliato costantemente aggiornato e i prezzi sono riportati solo in USD. La fatturazione, tuttavia, viene eseguita nella valuta supportata applicabile alla località della valuta del cliente. Per altre informazioni sulla fatturazione nella località della valuta del cliente, vedi [Piano di Azure - fatturazione](azure-plan-billing.md).
+Il listino prezzi per la nuova esperienza commerciale di Azure in CSP viene pubblicato nel Centro per i partner. Il listino prezzi viene distribuito in modo dinamico in un file dettagliato costantemente aggiornato e i prezzi sono riportati solo in USD. A partire dal 28 gennaio 2021, i partner dell'area UE/EFTA e del Regno Unito con nuovi clienti e clienti CSP esistenti che acquistano nuove offerte commerciali per la prima volta, i cui tenant sono stati creati prima dell'11 maggio 2020, verranno fatturati per tali acquisti nella valuta della località partner.  I partner situati al di fuori dell'area UE/EFTA e del Regno Unito continueranno a essere fatturati in valuta località partner, leggi [piano di fatturazione di Azure](azure-plan-billing.md).
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Visualizzare il listino prezzi per le sottoscrizioni in base ai prezzi del piano di Azure
 

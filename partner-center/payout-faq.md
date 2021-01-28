@@ -1,5 +1,5 @@
 ---
-title: Domande frequenti sul profilo fiscale e sui pagamenti
+title: Domande frequenti sui pagamenti e sui profili fiscali
 description: Risposte alle domande più comuni sui pagamenti e sui dettagli fiscali nel centro per i partner. Include le risposte ai motivi per cui i guadagni sono diversi da quelli previsti.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492586"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924903"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Domande comuni su pagamenti e imposte
 
@@ -128,10 +128,6 @@ Nel download della cronologia delle transazioni trovare la colonna del modello f
 
 Andare alla pagina **Payout Payment** (Pagamento dei proventi), quindi alla sezione **List of Payment** (Elenco dei pagamenti). Viene visualizzato un collegamento al modulo Tassa sul servizio per un pagamento con tassa sul servizio.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Come scaricare un modulo per la ritenuta d'acconto in formato PDF?
-
-Andare alla pagina *Payout Payment* (Pagamento dei proventi), quindi alla sezione **List of Payment** (Elenco dei pagamenti). Accanto al pagamento viene visualizzato un collegamento al modulo per la ritenuta d'acconto.
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Dove si trovano i moduli per le tasse di fine anno?
 
 Passare alla [pagina del profilo](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) per visualizzare i moduli per le tasse di fine anno.
@@ -170,7 +166,7 @@ Andare alla pagina **Payout Payment** (Pagamento dei proventi), quindi alla sezi
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Ricerca per categorie scaricare un modulo per le imposte ritenute in formato PDF?
 
-Andare alla pagina **Payout Payment** (Pagamento dei proventi), quindi alla sezione **List of Payment** (Elenco dei pagamenti). Accanto al pagamento viene visualizzato un collegamento al modulo per la ritenuta d'acconto.
+Andare alla pagina **Payout Payment** (Pagamento dei proventi), quindi alla sezione **List of Payment** (Elenco dei pagamenti). Accanto al pagamento viene visualizzato un collegamento al modulo per la ritenuta d'acconto. Un modulo per le imposte di ritenuta si applica solo ai programmi incentive selezionati, non a un pagamento in Marketplace commerciale.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Dove si trovano i moduli per le tasse di fine anno?
 

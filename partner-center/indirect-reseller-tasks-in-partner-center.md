@@ -1,7 +1,7 @@
 ---
 title: Usare provider indiretti nel programma CSP
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come i rivenditori indiretti possono collaborare con i provider indiretti (o distributori) Microsoft per ottenere assistenza su supporto tecnico e fatturazione dei clienti.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773440"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924962"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informazioni per collaborare con provider indiretti nel programma Cloud Solution Provider
 
@@ -76,30 +76,39 @@ Da ottobre 2020 tutti i partner Microsoft nuovi per CSP effettueranno l'iscrizio
    > [!IMPORTANT]  
    > Per garantire la sicurezza e la privacy della tua azienda, invieremo un'e-mail al contatto principale per verificare che (1) abbia effettuato la registrazione per ottenere un account del Centro per i partner e che (2) l'indirizzo e-mail appartenga all'azienda. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueranno le verifiche delle informazioni fornite. Gli aggiornamenti sullo stato della registrazione verranno inviati tramite posta elettronica al contatto principale.
 
-5. Associare il proprio ID MPN al tenant di Azure ID.
+5. Associare l'ID MPN all'account CSP. 
+  L'account CSP e l'ID MPN associato devono trovarsi nello stesso paese.
 
-    1. Accedere con l'account MPN. Passare a **Impostazioni** impostazioni  ->  **account**  ->    ->  **identificatori** profilo organizzazione. Visualizzare gli ID MPN e selezionare quello il cui paese coincide con il paese dell'account CSP. In altre parole, l'account CSP e l'ID MPN associato devono trovarsi nello stesso paese/area geografica.
+   a. Accedere al centro per i partner con le credenziali dell'account "MPN" (le credenziali MPN potrebbero essere diverse da quelle del provider di credenziali).
+   
+   b. Passare a **Impostazioni** impostazioni  ->  **account**  ->    ->  **identificatori** profilo organizzazione.
+ 
+    c. Trovare l'ID MPN con il tipo "location" corrispondente al paese di questo account CSP. 
+
+    d. Se non è possibile trovare l'ID MPN della località che corrisponde all'account CSP da usare, è possibile aggiungere un nuovo percorso che creerà un nuovo ID MPN. Altre informazioni, [gestire i percorsi](manage-locations.md).
+
+    e. È possibile posticipare questo passaggio per il momento, tuttavia, non sarà possibile firmare Microsoft Partner Agreement (MPA) o Transact in CSP, fino a quando non si completa l'associazione dell'ID MPN all'account CSP.
     
      
  > [!IMPORTANT]  
-   > Selezionare l'ID MPN che si trova nello stesso paese/area geografica dell'account CSP.
+   > Selezionare l'ID MPN che si trova nello stesso paese dell'account CSP.
 
-6. Quando l'account del Centro per i partner sarà pronto per l'uso, verifica di essere stato aggiunto al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, è necessario disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attenersi alla procedura seguente:
+6. Dopo che Microsoft ha completato la verifica della registrazione che richiede 3-5 giorni lavorativi, firmare il contratto per i partner Microsoft nella [Panoramica del dashboard del centro](https://partner.microsoft.com/pcv/dashboard/overview) per i partner usando le credenziali di amministratore globale. Per visualizzare e scaricare il **contratto per i partner Microsoft** prima di firmarlo, fare clic sul collegamento Microsoft Partner Agreement come illustrato di seguito.  Se il tuo account è bloccato nella verifica dopo 5 giorni lavorativi, leggi [il processo di verifica dell'account](verification-responses.md).
+
+
+:::image type="content" source="images/agreement-three.png" alt-text="Nuova posizione dell'accordo MPA":::
+
+ 
+7. Confermare di aver firmato il Contratto Microsoft Partner nella sezione **Info sul programma** del profilo partner. Verrà anche visualizzata una notifica banner di conferma nella pagina Panoramica di CSP. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Banner verde di accettazione":::
+
+
+8. Quando l'account del Centro per i partner sarà pronto per l'uso, verifica di essere stato aggiunto al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, è necessario disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attenersi alla procedura seguente:
 
    1. Nel dashboard Centro per i partner selezionare l'icona **Impostazioni** e quindi, in **Impostazioni account**, selezionare **Gestione utenti**.
 
    2. Seleziona il tuo nome dall'elenco degli utenti. Seleziona quindi **Agente amministratore** se non è già selezionato. Selezionare **Aggiorna**.
-
-## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Tutti i rivenditori indiretti devono firmare il Contratto Microsoft Partner
-
-1.  Se non è stato ancora effettuato il passaggio da Partner Membership Center al Centro per i partner, eseguire ora questa operazione. Per informazioni sul passaggio al Centro per i partner, leggere [Guida alla migrazione da PMC al Centro per i partner](guide-to-migration.md). 
-
-2.  Se si ha un account di appartenenza al Centro per i partner (MPN ID), è comunque necessario iscriversi ufficialmente al programma Cloud Solution Provider. Per controllare lo stato dell'iscrizione, passare a [**Profilo partner**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) e confermare il tipo di account. [Iscriversi quindi a CSP come rivenditore indiretto](enrolling-in-the-csp-program.md). Dopo aver effettuato l'iscrizione come rivenditore indiretto, [accettare la richiesta di relazione CSP ricevuta dal provider indiretto](indirect-reseller-tasks-in-partner-center.md).
-
-3.  Se è già stata effettuata l'iscrizione al Centro per i partner come rivenditore indiretto, accettare il Contratto Microsoft Partner nella finestra [Panoramica del dashboard Centro per i partner](https://partner.microsoft.com/pcv/dashboard/overview) usando le credenziali di amministratore globale. Confermare di aver firmato il Contratto Microsoft Partner nella sezione **Info sul programma** del profilo partner. Verrà anche visualizzata una notifica banner di conferma nella pagina Panoramica di CSP. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="Banner verde di accettazione":::
-
 
 ## <a name="connect-with-an-indirect-provider"></a>Connettersi con un provider indiretto
 
@@ -145,3 +154,4 @@ La sede aziendale legale come rivenditore indiretto CSP determina i provider ind
 - [Vedere le informazioni sul processo di verifica](verification-responses.md)
 
 - [Vedere i requisiti del partner con fatturazione diretta](direct-partner-new-requirements.md)
+- [Contratto Microsoft Partner](microsoft-partner-agreement.md)

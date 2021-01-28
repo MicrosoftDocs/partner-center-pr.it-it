@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.openlocfilehash: 555ccc81fcce924b44d6e4da5db3e3ff4aeb87d7
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717829"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924895"
 ---
 # <a name="january-2021-announcements"></a>Annunci di gennaio 2021
 
@@ -24,8 +24,98 @@ Annunci 2021: Gennaio
 
 Annunci 2020: [Maggio](2020-may.md) | [Giugno](2020-june.md) | [Luglio](2020-july.md) | [Agosto](2020-august.md) | [Settembre](2020-september.md) | [Ottobre](2020-October.md) | [Novembre](2020-november.md) | [Dicembre](2020-december.md)  
 
+_____________ 
+
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="14"></a> Fase 1: ora Live: UE/EFTA & la modifica della valuta di fatturazione dei partner per le nuove offerte commerciali
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-01-28
+- Funzionalità
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+- Tutti i partner che trasformano tramite il programma Cloud Solution Provider nell'Unione europea/AELS & UK
+
+### <a name="details"></a>Dettagli
+
+Nel programma Unione europea (UE)/European Free Trade Association (EFTA) e Regno Unito (Regno Unito), tutte le nuove offerte commerciali nel programma Cloud Solution Provider utilizzeranno la località di fatturazione dei partner invece della località di fatturazione del cliente. Pertanto, i partner riceveranno fattura da Microsoft in base alla valuta della loro sede, non alla valuta della sede dei clienti. Queste modifiche verranno apportate in due fasi:
+
+**Fase 1:**
+
+- Nuovi clienti che acquistano una nuova offerta commerciale in CSP
+
+- Clienti esistenti che effettuano il primo acquisto di nuove offerte commerciali - Tenant creato prima dell'11 maggio 2020
+
+A partire dal 28 gennaio 2021, i partner con nuovi clienti che acquistano una nuova offerta commerciale o con clienti esistenti con tenant creati prima dell'11 maggio 2020 che effettuano il primo acquisto di nuove offerte commerciali riceveranno fattura relativa a tali acquisti nella valuta della sede del partner.  
+
+Durante questa fase, i partner con clienti esistenti che hanno già acquistato nuove offerte commerciali in CSP continueranno a ricevere fattura nella valuta della sede di fatturazione del cliente. Inoltre, i partner con clienti esistenti che effettuano il primo acquisto di una nuova offerta commerciale e i cui tenant sono stati creati l'11 maggio 2020 o successivamente continueranno a ricevere fattura nella valuta del cliente.
+
+**Fase 2:**
+
+- Clienti esistenti che hanno già acquistato una nuova offerta commerciale in CSP prima della Fase 1
+- Clienti esistenti che effettuano il primo acquisto di nuove offerte commerciali - Tenant creato l'11 maggio 2020 o successivamente
+
+Dopo la Fase 1 e durante l'anno 2021, Microsoft eseguirà la transizione della fatturazione delle nuove offerte commerciali dalla valuta della sede del cliente alla valuta della sede del partner per i partner con clienti esistenti che hanno acquistato una nuova offerta commerciale in CSP prima della Fase 1, nonché per quelli con clienti i cui tenant sono stati creati l'11 maggio 2020 o successivamente. I partner riceveranno una notifica ben prima dell'implementazione di questa modifica.
+
+Dopo la fase 2, i partner dell'Unione europea/AELS & UK verranno fatturati in valuta località partner per tutti i clienti e tutti gli acquisti CSP.
+
+>[!NOTE]
+>Questa modifica influirà solo sulla valuta di fatturazione dei partner e non sui prezzi delle nuove offerte commerciali in CSP. Le nuove offerte commerciali interessate da questa modifica sono: sottoscrizioni di Azure che fanno parte di un piano di Azure, prenotazioni di Azure, sottoscrizioni server, software con licenza perpetua e acquisti del marketplace commerciale Microsoft nel programma Cloud Solution Provider.
+
+### <a name="partner-benefits"></a>Vantaggi per i partner
+
+Questo aggiornamento ridurrà la complessità e l'overhead con la fatturazione a più valute nell'Unione europea/AELS & Regno Unito per la nuova esperienza commerciale.
+
+- I partner riceveranno una fattura consolidata in una singola valuta e non più una fattura per ogni valuta della sede del cliente
+- I pagamenti degli incentivi avverranno nella stessa valuta di fattura del partner
+- I partner noteranno una riduzione della complessità nella procedura di fatturazione dovuta alla fatturazione in più valute. Ciò consentirà di risparmiare il tempo e le risorse attualmente impegnati nella riconciliazione dei conti
+- Per i partner che non hanno ancora adottato nuove offerte commerciali, questa modifica è allineata al precedente modello di fatturazione del partner, che consente ai partner di passare più facilmente alla nuova esperienza commerciale in CSP
+
+### <a name="next-steps"></a>Passaggi successivi
+
+Vedere le informazioni relative a questo argomento nella [raccolta delle operazioni](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (è richiesto l'accesso) del sito Web dei partner Microsoft.  
+
+### <a name="questions"></a>Domande?
+
+Per eventuali domande relative a questa notifica, contattare il [supporto tecnico del Centro per i partner](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (è richiesto l'accesso).
+
+### <a name="change-log"></a>Registro delle modifiche
+
+- 17 novembre 2020: pubblicazione originale
+- 7 gennaio 2021: scenario aggiuntivo incluso per la Fase 1 e la Fase 2
+- 28 gennaio 2021: 
+    -    L'annuncio della fase 1 è Live 
+    -    Chiarendo che il Regno Unito non è incluso in UE/EFTA, fanno parte dell' [area e del mercato Microsoft europei](https://docs.microsoft.com/partner-center/regional-authorization-overview) e saranno interessati
+
 ________________
-## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> Il log di controllo del centro per i partner cambia per includere due nuovi tipi di operazione per DAP
+## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Microsoft Partner Agreement (MPA)-indirect Reseller Update & nuove domande frequenti 
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-01-27
+- Funzionalità
+ 
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Tutti i rivenditori indiretti & provider indiretti che interagiscono tramite il programma Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Dettagli
+
+È attualmente in corso l'implementazione di Microsoft Partner Agreement (MPA) per i rivenditori indiretti. Per supportare ulteriormente i provider e i rivenditori, abbiamo ascoltato i tuoi commenti e ora abbiamo consolidato query comuni su come accettare il MPA in una nuova [pagina di domande](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)frequenti.
+
+### <a name="next-steps"></a>Passaggi successivi
+
+**Rivenditori indiretti:** Se il MPA non è stato accettato, rivedere le [domande frequenti su MPa](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) e seguire le istruzioni dettagliate disponibili [qui](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) per accettare il MPa.
+
+**Provider indiretti:** È possibile interagire con i rivenditori indiretti e supportarli usando le [domande frequenti su MPa](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) e le istruzioni dettagliate disponibili [qui](https://docs.microsoft.com/partner-center/microsoft-partner-agreement).
+
+### <a name="questions"></a>Domande?
+
+Per eventuali domande relative a questa notifica, contattare il [supporto tecnico del Centro per i partner](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> Il log di controllo del centro per i partner cambia per includere due nuovi tipi di operazione per DAP
 
 ### <a name="categories"></a>Categorie
 
@@ -57,7 +147,7 @@ Di seguito sono riportati i nuovi tipi di operazione:
 Per altre domande, consultare le community Yammer CSP pertinenti.
 
 ________________
-## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Modifiche alla disponibilità dell'offerta di Azure in CSP correlate alla nuova esperienza commerciale in CSP per Azure
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="11"></a> Modifiche alla disponibilità dell'offerta di Azure in CSP correlate alla nuova esperienza commerciale in CSP per Azure
 
 ### <a name="categories"></a>Categorie
 
@@ -143,7 +233,7 @@ Si consiglia ai partner di acquisire familiarità con le risorse seguenti:
 Per eventuali domande relative a questa notifica, contattare il [supporto tecnico del Centro per i partner](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ________________
-## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Software perpetuo ora disponibile a livello generale per il programma Cloud Solution Provider
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a> Software perpetuo ora disponibile a livello generale per il programma Cloud Solution Provider
 
 ### <a name="categories"></a>Categorie
 
@@ -171,7 +261,7 @@ Si noti inoltre che attualmente la funzionalità di evasione delle chiavi di lic
 Per altre domande, consultare le community Yammer CSP pertinenti.
 
 _____________
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> Promemoria: Introduzione alla limitazione delle API ai partner che chiamano le API del centro per i partner 
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Promemoria: Introduzione alla limitazione delle API ai partner che chiamano le API del centro per i partner 
 
 ### <a name="categories"></a>Categorie
 
@@ -220,7 +310,7 @@ Esaminare le [risorse](/partner-center/develop/api-throttling-guidance)   di
 
 _____________
 
-## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>I lanci di sicurezza, conformità e identità (SCI) verranno avviati il 1 ° febbraio 2021 
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="8"></a>I lanci di sicurezza, conformità e identità (SCI) verranno avviati il 1 ° febbraio 2021 
 
 ### <a name="categories"></a>Categorie
 
@@ -280,7 +370,7 @@ Per altre domande su queste offerte, vedere le community Yammer pertinenti.
 
 _____________ 
 
-## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>DocuSign migrazione ad Adobe Sign per i partner in Microsoft partner Agreements (MPAs) 
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="7"></a>DocuSign migrazione ad Adobe Sign per i partner in Microsoft partner Agreements (MPAs) 
 
 ### <a name="categories"></a>Categorie
 
@@ -326,7 +416,7 @@ In caso di domande, contattare il centro operativo locale usando lo [strumento d
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>Aggiornamento prezzi commerciali per corona norvegese 
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="6"></a>Aggiornamento prezzi commerciali per corona norvegese 
 
 ### <a name="categories"></a>Categorie
 
@@ -344,7 +434,7 @@ L'annuncio completo è disponibile solo per i partner Microsoft. [Accedere per c
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>Aggiornamento dei prezzi commerciali per la rupia indiana 
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>Aggiornamento dei prezzi commerciali per la rupia indiana 
 
 ### <a name="categories"></a>Categorie
 
@@ -363,7 +453,7 @@ L'annuncio completo è disponibile solo per i partner Microsoft. [Accedere per c
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>Aggiornamenti del piano per chiamate e del sistema telefonico per il 1° febbraio 2021
+## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="4"></a>Aggiornamenti del piano per chiamate e del sistema telefonico per il 1° febbraio 2021
 
 ### <a name="categories"></a>Categorie
 
@@ -403,7 +493,7 @@ Queste offerte saranno disponibili per clienti commerciali, studenti, docenti, G
 
 _____________ 
 
-## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4">Aggiornamenti dei listini prezzi basati su licenza per gennaio 2021</a> 
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="3">Aggiornamenti dei listini prezzi basati su licenza per gennaio 2021</a> 
 
 ### <a name="categories"></a>Categorie
 
@@ -438,69 +528,6 @@ Per i prezzi corretti, i partner devono fare riferimento ai listini prezzi di an
 
 - Per ottenere i prezzi corretti di gennaio e febbraio, i partner devono scaricare i file dei listini prezzi più recenti dal Centro per i partner. 
 - Gli amministratori globali dei tenant interessati che hanno acquistato sottoscrizioni tra il 1° e il 6 gennaio riceveranno entro la fine di gennaio una notifica con altri dettagli tramite posta elettronica del Centro per i partner. 
-
-_____________ 
-
-## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> Modifica della valuta di fatturazione dei partner per le nuove offerte commerciali nell'area UE/EFTA
-
-### <a name="categories"></a>Categorie
-
-- Data: 07-01-2021
-- Funzionalità
-
-### <a name="impacted-audience"></a>Destinatari interessati
-
-- Tutti i partner che operano tramite il programma Cloud Solution Provider nell'area UE/EFTA 
-
-### <a name="details"></a>Dettagli
-
-Nell'area geografica UE/EFTA, tutte le nuove offerte commerciali del programma Cloud Solution Provider useranno la località di fatturazione del partner invece della località di fatturazione del cliente. Pertanto, i partner riceveranno fattura da Microsoft in base alla valuta della loro sede, non alla valuta della sede dei clienti. Queste modifiche verranno apportate in due fasi:
-
-**Fase 1:**
-
-- Nuovi clienti che acquistano una nuova offerta commerciale in CSP
-
-- Clienti esistenti che effettuano il primo acquisto di nuove offerte commerciali - Tenant creato prima dell'11 maggio 2020
-
-A partire dal 28 gennaio 2021, i partner con nuovi clienti che acquistano una nuova offerta commerciale o con clienti esistenti con tenant creati prima dell'11 maggio 2020 che effettuano il primo acquisto di nuove offerte commerciali riceveranno fattura relativa a tali acquisti nella valuta della sede del partner.  
-
-Durante questa fase, i partner con clienti esistenti che hanno già acquistato nuove offerte commerciali in CSP continueranno a ricevere fattura nella valuta della sede di fatturazione del cliente. Inoltre, i partner con clienti esistenti che effettuano il primo acquisto di una nuova offerta commerciale e i cui tenant sono stati creati l'11 maggio 2020 o successivamente continueranno a ricevere fattura nella valuta del cliente.
-
-**Fase 2:**
-
-- Clienti esistenti che hanno già acquistato una nuova offerta commerciale in CSP prima della Fase 1
-- Clienti esistenti che effettuano il primo acquisto di nuove offerte commerciali - Tenant creato l'11 maggio 2020 o successivamente
-
-Dopo la Fase 1 e durante l'anno 2021, Microsoft eseguirà la transizione della fatturazione delle nuove offerte commerciali dalla valuta della sede del cliente alla valuta della sede del partner per i partner con clienti esistenti che hanno acquistato una nuova offerta commerciale in CSP prima della Fase 1, nonché per quelli con clienti i cui tenant sono stati creati l'11 maggio 2020 o successivamente. I partner riceveranno una notifica ben prima dell'implementazione di questa modifica.
-
-Dopo la Fase 2, i partner dell'area UE/EFTA riceveranno fattura nella valuta della sede del partner per tutti i clienti e tutti gli acquisti CSP.
-
->[!NOTE]
->Questa modifica influirà solo sulla valuta di fatturazione dei partner e non sui prezzi delle nuove offerte commerciali in CSP. Le nuove offerte commerciali interessate da questa modifica sono: sottoscrizioni di Azure che fanno parte di un piano di Azure, prenotazioni di Azure, sottoscrizioni server, software con licenza perpetua e acquisti del marketplace commerciale Microsoft nel programma Cloud Solution Provider.
-
-
-### <a name="partner-benefits"></a>Vantaggi per i partner
-
-Questo aggiornamento ridurrà la complessità e il sovraccarico della fatturazione a più valute nell'area geografica UE/EFTA per la nuova esperienza commerciale.
-
-- I partner riceveranno una fattura consolidata in una singola valuta e non più una fattura per ogni valuta della sede del cliente
-- I pagamenti degli incentivi avverranno nella stessa valuta di fattura del partner
-- I partner noteranno una riduzione della complessità nella procedura di fatturazione dovuta alla fatturazione in più valute. Ciò consentirà di risparmiare il tempo e le risorse attualmente impegnati nella riconciliazione dei conti
-- Per i partner che non hanno ancora adottato nuove offerte commerciali, questa modifica è allineata al precedente modello di fatturazione del partner, che consente ai partner di passare più facilmente alla nuova esperienza commerciale in CSP
-
-### <a name="next-steps"></a>Passaggi successivi
-
-Vedere le informazioni relative a questo argomento nella [raccolta delle operazioni](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (è richiesto l'accesso) del sito Web dei partner Microsoft.  
-
-### <a name="questions"></a>Domande?
-
-Per eventuali domande relative a questa notifica, contattare il [supporto tecnico del Centro per i partner](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (è richiesto l'accesso).
-
-### <a name="change-log"></a>Registro delle modifiche
-
-- 17 novembre 2020: pubblicazione originale
-- 7 gennaio 2021: scenario aggiuntivo incluso per la Fase 1 e la Fase 2
-
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Deprecazione e ritiro delle API di qualifica GET e PUT esistenti per il processo di convalida dei clienti di tipo Education entro la fine di febbraio 2021

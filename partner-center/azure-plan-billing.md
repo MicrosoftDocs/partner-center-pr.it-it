@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658434"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98925010"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nuova esperienza commerciale in CSP - Fatturazione di Azure 
 
@@ -36,7 +36,7 @@ Questo articolo illustra come accedere e ottenere informazioni sulla struttura d
 
 - **Termine di pagamento della fattura**: netto a 60 giorni.
 
-- **Valuta della fattura**: i partner continueranno a ricevere la fattura nella valuta assegnata del paese del cliente. Se, ad esempio, il partner a cui viene emessa la fattura si trova in Irlanda e ha clienti nel Regno Unito, in Norvegia e in Germania, il partner riceverà una fattura/riconciliazione in GBP, NOK ed EUR.
+- **Valuta fattura**: a partire dal 28 gennaio 2021, i partner dell'area UE/EFTA e del Regno Unito con nuovi clienti e clienti CSP esistenti che acquistano nuove offerte commerciali per la prima volta, i cui tenant sono stati creati prima dell'11 maggio 2020, verranno fatturati per tali acquisti nella valuta della località partner. I partner situati al di fuori dell'area UE/EFTA e del Regno Unito continueranno a essere fatturati in valuta località partner.
 
 - **Incentivi per i partner**: pagamento a 45 giorni dalla fine del mese della fattura.
 

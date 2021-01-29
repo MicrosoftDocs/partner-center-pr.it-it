@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/20/2021
-ms.openlocfilehash: 555ccc81fcce924b44d6e4da5db3e3ff4aeb87d7
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 2879a129879f894da89f57dc79366d2122a4a160
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924895"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042736"
 ---
 # <a name="january-2021-announcements"></a>Annunci di gennaio 2021
 
@@ -26,7 +26,7 @@ Annunci 2020: [Maggio](2020-may.md) | [Giugno](2020-june.md) | [Luglio](2020-jul
 
 _____________ 
 
-## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="14"></a> Fase 1: ora Live: UE/EFTA & la modifica della valuta di fatturazione dei partner per le nuove offerte commerciali
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> Fase 1: ora Live: UE/EFTA & la modifica della valuta di fatturazione dei partner per le nuove offerte commerciali
 
 ### <a name="categories"></a>Categorie
 
@@ -87,6 +87,74 @@ Per eventuali domande relative a questa notifica, contattare il [supporto tecnic
 - 28 gennaio 2021: 
     -    L'annuncio della fase 1 è Live 
     -    Chiarendo che il Regno Unito non è incluso in UE/EFTA, fanno parte dell' [area e del mercato Microsoft europei](https://docs.microsoft.com/partner-center/regional-authorization-overview) e saranno interessati
+
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Modifiche ai requisiti di onboarding dei clienti di Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-01-28
+- Sicurezza e conformità migliorate
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner di fatturazione diretta CSP e provider indiretti con clienti nuovi o esistenti nei paesi elencati nella sezione successiva.
+
+### <a name="summary"></a>Riepilogo
+
+Nell'ambito del nostro impegno per aiutare i partner e i clienti a eseguire le attività in base alla fiducia, Microsoft richiederà ulteriori informazioni sui clienti, la fine del 2021 marzo.
+
+### <a name="details"></a>Dettagli
+
+Microsoft si impegna a fornire un metodo di convalida dei clienti conforme e sicuro per la vendita di sottoscrizioni cliente nel programma CSP. Alla fine di marzo 2021 verranno introdotti i miglioramenti apportati all'interfaccia utente e all'API del Centro per i partner con impatto sui partner che soddisfano entrambi i criteri seguenti:
+
+1. Il partner ha una relazione di fatturazione diretta con Microsoft (ovvero, è un partner con fatturazione diretta o un provider indiretto).
+2. Il partner opera con clienti nuovi o esistenti nei paesi seguenti:
+    - Thailandia
+    - Vietnam
+    - Turchia
+    - Polonia
+    - Sud Africa
+    - India
+    - Brasile
+    - Iraq
+    - Myanmar
+    - Sud Sudan
+    - Arabia Saudita
+    - Emirati Arabi Uniti
+    - Venezuela
+
+I partner che soddisfano i criteri dovranno inviare un **identificatore legale** del cliente (noto anche come **Locanda dell'organizzazione** del cliente) e il **numero di telefono** quando stanno caricando nuovi clienti o modificando i dettagli dei clienti esistenti. I partner possono anche immettere un **secondo nome** facoltativo per il cliente.
+
+I partner che svolgono attività con clienti nuovi o esistenti nei paesi seguenti hanno già eseguito l'onboarding di una versione precedente a novembre 2020.
+
+- Armenia
+- Azerbaigian
+- Bielorussia
+- Ungheria
+- Kazakhstan
+- Kirghizistan
+- Moldova
+- Russia
+- Tagikistan
+- Ucraina
+- Uzbekistan
+
+I partner con clienti nel resto del mondo avranno la possibilità di immettere l'**identificatore legale**, il **numero di telefono** e il **secondo nome** per i clienti come dettagli facoltativi alla fine di marzo 2021.
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- Per istruzioni più dettagliate, vedere la documentazione tecnica e le domande frequenti nella [raccolta di partner](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dedicata (accesso richiesto).
+- Prepararsi ad adottare le modifiche usando l'API del Centro per i partner e l'esperienza utente Web. Saranno disponibili API e SDK a scopo di test.
+- Assicurarsi di inviare i dati aggiuntivi quando si caricano nuovi clienti o si modificano i dettagli del cliente esistente.
+- Se si usa la soluzione di un fornitore del pannello di controllo (CPV), rivolgersi a tale fornitore.
+
+### <a name="questions"></a>Domande?
+
+In caso di domande relative all'identificatore legale (noto anche come INN o codice identificativo del contribuente), contattare il consulente fiscale o l'ufficio fiscale locale. Microsoft non è in grado di fornire indicazioni sulle imposte.
+
+Se è necessario supporto per le operazioni con Microsoft, [aprire una richiesta di servizio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (accesso richiesto).
 
 ________________
 ## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Microsoft Partner Agreement (MPA)-indirect Reseller Update & nuove domande frequenti 
@@ -453,7 +521,7 @@ L'annuncio completo è disponibile solo per i partner Microsoft. [Accedere per c
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="4"></a>Aggiornamenti del piano per chiamate e del sistema telefonico per il 1° febbraio 2021
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>Aggiornamento del piano di chiamata e del sistema telefonico per il 1 ° febbraio 2021
 
 ### <a name="categories"></a>Categorie
 

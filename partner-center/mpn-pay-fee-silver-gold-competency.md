@@ -1,19 +1,19 @@
 ---
 title: Pagare la tariffa per una competenza MPN
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: Scopri come pagare la tariffa o aggiornare i dettagli di pagamento associati al raggiungimento o al rinnovo di una o più competenze Silver o Gold.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921076"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042685"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Come pagare la tariffa associata a una competenza Silver o Gold
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921076"
 Questo articolo descrive come e quando pagare la tariffa associata al raggiungimento di una competenza Silver o Gold Microsoft Partner Network. Questo articolo descrive anche come modificare il metodo di pagamento preferito, come annullare un ordine e come ricevere uno sconto del 25% per il passaggio da una competenza Silver a Gold.
 
 > [!NOTE]
-> Per altre informazioni sui vantaggi derivanti dal raggiungimento di una competenza Silver o Gold, delle competenze specifiche disponibili e dei rispettivi requisiti specifici, vedere [competenze Microsoft Partner Network](https://partner.microsoft.com/membership/competencies). Per ulteriori informazioni sui vantaggi di ogni competenza disponibile, è inoltre possibile controllare la Microsoft Partner Network [tabelle delle licenze per le competenze].
+> Per altre informazioni sui vantaggi derivanti dal raggiungimento di una competenza Silver o Gold, delle competenze specifiche disponibili e dei rispettivi requisiti specifici, vedere [competenze Microsoft Partner Network](https://partner.microsoft.com/membership/competencies). Per ulteriori informazioni sui vantaggi di ogni competenza disponibile, è inoltre possibile controllare le [tabelle delle licenze Microsoft Partner Network per le competenze](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) .
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Soddisfa i requisiti di una competenza e paga la tariffa
 
@@ -43,7 +43,7 @@ In caso contrario, seguire questa procedura per pagare la tariffa per una compet
 
 2. Selezionare [offerte di appartenenza](https://partner.microsoft.com/dashboard/mpn/offers) dal menu di navigazione. 
 
-3. In **offerte disponibili per l'acquisto**, trovare la tessera Silver Membership * * o l' **appartenenza Gold** associata alla competenza specifica. 
+3. In **offerte disponibili per l'acquisto**, trovare il riquadro di **appartenenza Silver** o l'appartenenza al gruppo **Gold** associato alla competenza specifica. 
 
 4. Selezionare l'opzione **Sottoscrivi** in basso a destra nel riquadro specifico di appartenenza Silver o Gold.
 
@@ -54,7 +54,7 @@ In caso contrario, seguire questa procedura per pagare la tariffa per una compet
 
 4. Nella pagina **Dettagli acquisto** esaminare e confermare i dettagli.
 
-   Altre informazioni sull'aggiornamento delle [informazioni sull' **ID fiscale** della società](https://docs.microsoft.com/partner-center/organization-tax-info) o sulla fattura della società [ **a/venduti all'** indirizzo della società](https://docs.microsoft.com/partner-center/mpn-get-action-pack).
+   Altre informazioni sull'aggiornamento delle [informazioni sull' **ID fiscale** della società](https://docs.microsoft.com/partner-center/organization-tax-info) o sulla fattura della società [ **a/venduto all'** indirizzo della società](https://docs.microsoft.com/partner-center/mpn-get-action-pack).
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="L'appartenenza offre la pagina dei dettagli di acquisto con le preferenze di pagamento." border="false":::
 
@@ -130,7 +130,7 @@ Se si paga la tariffa di appartenenza Silver o Gold tramite bonifico elettronico
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Pagina dei dettagli con i campi per caricare la prova di visualizzazione di un'opzione selezionabile, caricare la prova di pagamento per ogni offerta acquistata." border="false":::
 
-1. Completare le informazioni per gli altri campi correlati alla transazione di trasferimento dei fondi elettronici recenti, ad esempio **Data di pagamento**, * pagata al numero di conto * * e **transazione/ref no.**
+1. Completare le informazioni per gli altri campi correlati alla transazione di trasferimento dei fondi elettronici recenti, ad esempio la **Data di pagamento**, il **numero di conto pagato** e la **transazione/ref no**.
 
   È possibile che venga visualizzato un messaggio verde per indicare che la richiesta è stata completata correttamente.
 

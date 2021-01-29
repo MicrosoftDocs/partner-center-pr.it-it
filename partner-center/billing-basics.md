@@ -1,7 +1,7 @@
 ---
 title: Panoramica della fatturazione del Centro per i partner
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: Scopri le informazioni di base sulla fatturazione e le fatture per i partner CSP nel Centro per i partner. Include informazioni su come emettere fatture ai clienti e come trovare e leggere la fattura.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924949"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042719"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Panoramica della fatturazione per i partner del programma CSP che lavorano nel Centro per i partner 
 
@@ -86,6 +86,8 @@ Potrai prendere visione delle **rettifiche** e dei **crediti** posticipatamente 
 Le condizioni di pagamento sono a 60 giorni dalla data della fattura. Le fatture devono essere pagate entro la data di scadenza della fattura (60 giorni dopo la data di fatturazione) oppure l'account risulterà insolvente con possibili ripercussioni sull'iscrizione al programma CSP. 
 
 Puoi riottenere tutte la funzionalità complete degli account sospesi dopo il pagamento dell'importo dovuto.
+
+Una volta fornite le informazioni di fatturazione corrette, il pagamento sarà visibile nella pagina di fatturazione del centro per i partner entro 5 giorni lavorativi.
 
 ### <a name="taxes-and-vat"></a>Imposte e IVA
 

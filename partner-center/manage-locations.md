@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98925017"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098891"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gestire le sedi dell'account MPN e aggiungere una nuova sede
 
@@ -47,6 +47,20 @@ Per aggiungere un nuovo account aziendale CSP, iniziare assicurandosi di aver so
  >Ricordarsi di eseguire l'accesso con le **nuove** credenziali per il **nuovo** account CSP. Non usare le credenziali esistenti perché il Centro per i partner riconoscerà l'utente che ha già un account.
 
 2. Accettare il Contratto Microsoft Partner e attivare l'account.
+
+## <a name="view-your-mpn-locations"></a>Visualizza le località MPN
+
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard/home) del centro per i partner con le credenziali dell'account MPN. (Le credenziali MPN potrebbero essere diverse da quelle del CSP) 
+ 
+1. Nell'icona **Impostazioni** selezionare **Impostazioni account**, **profilo organizzazione**, **legale**. 
+
+1. Nella scheda **partner** verificare che non sia presente un messaggio di errore banner che chiede di correggere i percorsi migrati da PMC. Se è presente, seguire le istruzioni e correggere tali percorsi. 
+
+3. Se non è presente un messaggio di errore, da  **Impostazioni** selezionare  **Impostazioni account**, **profilo organizzazione**, **identificatori**.
+
+4. Trovare l'ID MPN con il tipo "location" corrispondente al paese di questo account CSP e usarlo per eseguire la ricerca sotto e completare l'associazione.
+
+5. Se non è possibile trovare l'ID MPN della località che corrisponde all'account CSP da usare, è possibile aggiungere un nuovo percorso che creerà un nuovo ID MPN. Vedere **aggiungere un percorso MPN di** seguito.
 
 ## <a name="add-an-mpn-location"></a>Aggiungere una sede MPN
 

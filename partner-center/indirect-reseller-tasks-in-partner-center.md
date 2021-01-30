@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
+ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924962"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99065472"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informazioni per collaborare con provider indiretti nel programma Cloud Solution Provider
 
@@ -76,8 +76,8 @@ Da ottobre 2020 tutti i partner Microsoft nuovi per CSP effettueranno l'iscrizio
    > [!IMPORTANT]  
    > Per garantire la sicurezza e la privacy della tua azienda, invieremo un'e-mail al contatto principale per verificare che (1) abbia effettuato la registrazione per ottenere un account del Centro per i partner e che (2) l'indirizzo e-mail appartenga all'azienda. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueranno le verifiche delle informazioni fornite. Gli aggiornamenti sullo stato della registrazione verranno inviati tramite posta elettronica al contatto principale.
 
-5. Associare l'ID MPN all'account CSP. 
-  L'account CSP e l'ID MPN associato devono trovarsi nello stesso paese.
+5. Associare l'ID MPN all'account CSP. L'account CSP e l'ID MPN associato devono trovarsi nello stesso paese e l'ID MPN deve trovarsi nel centro per i partner.
+  
 
    a. Accedere al centro per i partner con le credenziali dell'account "MPN" (le credenziali MPN potrebbero essere diverse da quelle del provider di credenziali).
    
@@ -88,10 +88,9 @@ Da ottobre 2020 tutti i partner Microsoft nuovi per CSP effettueranno l'iscrizio
     d. Se non è possibile trovare l'ID MPN della località che corrisponde all'account CSP da usare, è possibile aggiungere un nuovo percorso che creerà un nuovo ID MPN. Altre informazioni, [gestire i percorsi](manage-locations.md).
 
     e. È possibile posticipare questo passaggio per il momento, tuttavia, non sarà possibile firmare Microsoft Partner Agreement (MPA) o Transact in CSP, fino a quando non si completa l'associazione dell'ID MPN all'account CSP.
-    
-     
+
  > [!IMPORTANT]  
-   > Selezionare l'ID MPN che si trova nello stesso paese dell'account CSP.
+ > Selezionare l'ID MPN disponibile nel centro per i partner e nello stesso paese dell'account CSP e assicurarsi che l'ID MPN si trovi nel centro per i partner.
 
 6. Dopo che Microsoft ha completato la verifica della registrazione che richiede 3-5 giorni lavorativi, firmare il contratto per i partner Microsoft nella [Panoramica del dashboard del centro](https://partner.microsoft.com/pcv/dashboard/overview) per i partner usando le credenziali di amministratore globale. Per visualizzare e scaricare il **contratto per i partner Microsoft** prima di firmarlo, fare clic sul collegamento Microsoft Partner Agreement come illustrato di seguito.  Se il tuo account è bloccato nella verifica dopo 5 giorni lavorativi, leggi [il processo di verifica dell'account](verification-responses.md).
 

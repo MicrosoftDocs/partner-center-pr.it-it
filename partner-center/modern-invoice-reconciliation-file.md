@@ -1,19 +1,19 @@
 ---
 title: Campi del file di ricognizione per gli acquisti monouso CSP
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: Informazioni su tutti gli elementi nel file di riconciliazione degli acquisti monouso CSP nel centro per i partner, inclusi i valori di esempio.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182580"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098806"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campi del file di riconciliazione di acquisto monouso CSP
 
@@ -64,6 +64,9 @@ Per altre informazioni sui file di riconciliazione, vedere [usare i file di rico
 | PCToBCExchangeRateDate | Data in cui viene determinata la valuta dei prezzi per la valuta di fatturazione. | *30/09/2020* |
 | MeterDescription | Descrizione del contatore.  | *Tabelle-dati con ridondanza locale archiviati (GB/mese)* |
 | ReservationOrderId | ID dell'ordine di prenotazione. | *E21A6344E398FFC1C4D7...* |
+
+>[!NOTE]
+>È possibile riconciliare il consumo di Azure nel file di ricognizione degli acquisti monouso. A tale scopo, passare al file di ricognizione sull'utilizzo giornaliero e cercare il SubscriptionID. Vengono visualizzati tutti i costi associati all'ID piano di Azure. La SubscriptionID di Azure viene visualizzata come EntitlementID.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

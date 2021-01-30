@@ -1,7 +1,7 @@
 ---
 title: Vendere software locale tramite CSP
 ms.topic: how-to
-ms.date: 01/15/2021
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono acquistare, gestire, vendere e annullare le sottoscrizioni software locali per conto dei clienti nel centro per i partner.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584175"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098857"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Vendere software locale tramite il programma Cloud Solution Provider (CSP)
 
@@ -37,13 +37,16 @@ Per acquistare sottoscrizioni software per conto di un cliente, passare alla pag
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Attivare e gestire abbonamenti software
 
-Una volta acquistato il software, l'utente e i suoi clienti dovranno scaricarlo. Utilizzare la procedura seguente per eseguire questa operazione. 
+Una volta acquistato il software, i clienti dovranno scaricarlo. Utilizzare la procedura seguente per eseguire questa operazione.
 
 >[!NOTE]
 >Per ottenere le chiavi e i download, è necessario essere un agente di amministrazione.
 
 1. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Vedrai un elenco di tutto il software che hai acquistato per conto del cliente.
-2. Copiare il collegamento dal **collegamento ai codici Product Key del software e scaricare** e condividere il collegamento con il cliente. Quando si seleziona questo collegamento, verranno reindirizzati al portale di amministrazione di Microsoft per scaricare e ottenere i codici Product Key.
+2. Copiare il collegamento "Deep link" dal **collegamento ai codici Product Key del software e scaricare** e condividere il collegamento con il cliente. Quando si seleziona questo collegamento, verranno reindirizzati all'interfaccia di amministrazione di Microsoft per scaricare e ottenere i codici Product Key.
+
+>[!NOTE]
+>Solo i clienti possono visualizzare i codici "Product Key" e scaricare le informazioni nell'interfaccia di amministrazione di Microsoft. I partner non possono visualizzare queste informazioni.
 
 Se l'utente o i clienti vogliono ottenere altre informazioni sul download delle chiavi di licenza, vedere [scaricare il software e i codici di licenza del prodotto](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 

@@ -1,7 +1,7 @@
 ---
 title: Vendere abbonamenti software tramite CSP
 ms.topic: how-to
-ms.date: 06/18/2020
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono usare il Centro per i partner per acquistare, gestire, vendere e annullare istanze riservate di Azure e abbonamenti server per i clienti.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
-ms.translationtype: HT
+ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000485"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098840"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendere abbonamenti software tramite il programma Cloud Solution Provider (CSP)
 
@@ -92,27 +92,18 @@ Per acquistare abbonamenti software per conto di un cliente:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Attivare e gestire abbonamenti software
 
-Dopo aver acquistato l'abbonamento software, segui questa procedura per scaricarlo.
+Una volta acquistato il software, i clienti dovranno scaricarlo. Utilizzare la procedura seguente per eseguire questa operazione.
 
 >[!NOTE]
->Può scaricare il software e ottenere le chiavi di attivazione solo un agente amministratore.
+>Per ottenere le chiavi e i download, è necessario essere un agente di amministrazione.
 
-1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
-
-2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
-
-3. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Vedrai un elenco di tutto il software che hai acquistato per conto del cliente. 
-
-4. Espandi il prodotto che vuoi scaricare. Nel campo **Select product** (Seleziona prodotto) seleziona i valori di **Version** (Versione), **Lingua** e **File type/OS** (Tipo di file/sistema operativo) desiderati. 
-
-5. Seleziona **Invia** per visualizzare i prodotti specifici. 
-
-6. Seleziona **Scarica chiavi e download**. 
-
-7. Seleziona **Download** per avviare il download o **Copia collegamento** per copiare il collegamento e inviarlo al cliente. 
+1. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Vedrai un elenco di tutto il software che hai acquistato per conto del cliente.
+2. Copiare il collegamento "Deep link" dal **collegamento ai codici Product Key del software e scaricare** e condividere il collegamento con il cliente. Quando si seleziona questo collegamento, verranno reindirizzati all'interfaccia di amministrazione di Microsoft per scaricare e ottenere i codici Product Key.
 
 >[!NOTE]
->Questo collegamento scadrà dopo due settimane o 50 download, a seconda dell'evento che si verificherà per primo. Una volta scaduto il collegamento, torna a questa pagina e seleziona di nuovo **Scarica chiavi e download** per attivare altre due settimane o 50 download. Puoi eseguire questa operazione ogni volta che ne avrai bisogno. 
+>Solo i clienti possono visualizzare i codici "Product Key" e scaricare le informazioni nell'interfaccia di amministrazione di Microsoft. I partner non possono visualizzare queste informazioni.
+
+Se l'utente o i clienti vogliono ottenere altre informazioni sul download delle chiavi di licenza, vedere [scaricare il software e i codici di licenza del prodotto](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download e codici di licenza per sottoscrizioni di server disponibili tramite l'interfaccia di amministrazione di Microsoft 365 per i clienti 
 

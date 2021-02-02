@@ -64,6 +64,8 @@
           displayName: 'renew, mpn'
         - name: Esenzione dalle competenze per lo sviluppo di app
           href: app-dev-isv.md
+        - name: Usare il report Skills
+          href: mpn-skills-report.md
     - name: Specializzazioni avanzate
       items:
         - name: Presentare le competenze

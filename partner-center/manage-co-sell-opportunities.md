@@ -9,44 +9,43 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: 7ab3d1ab3f29e01303a9a039b9e9b21b9cfad07f
+ms.sourcegitcommit: 2c8d1bca0737a3d73f2888dfeaf099176bf9e9ae
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622202"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "99480069"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gestisci opportunità di co-selling nel centro per i partner
 
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
 - Amministratore dei partner MPN
 - Amministratore delle segnalazioni
 
-Sfrutta le opportunità di co-selling.  Le opportunità di co-selling sono una collaborazione tra più parti per vendere prodotti che soddisfano le esigenze dei clienti. Questo articolo consente di comprendere come è possibile sfruttare la potenza di co-selling nel centro per i partner per co-vendere e acquisire nuovi clienti.
+Sfrutta le opportunità di co-selling.  Un'opportunità di co-selling è una collaborazione tra più parti per vendere prodotti che soddisfano le esigenze dei clienti. Questo articolo consente di comprendere come è possibile sfruttare la potenza di co-selling nel centro per i partner per co-vendere e acquisire nuovi clienti.
 
 ## <a name="types-of-co-sell-opportunities"></a>Tipi di opportunità di co-selling
 
-**Co-selling** : si tratta del punto in cui uno o più addetti alla vendita Microsoft sono attivamente coinvolti nella soluzione per risolvere un problema del cliente. Le opportunità possono provenire da un account del cliente in cui un rappresentante di vendita Microsoft invita il partner a partecipare a un'attività di co-selling o a un partner che necessita di ulteriore assistenza da parte di Microsoft Sales per chiudere l'operazione.
+**Opportunità di co-selling** : si tratta del punto in cui uno o più addetti alla vendita Microsoft sono attivamente coinvolti nella soluzione per risolvere un problema del cliente. Le opportunità possono provenire da un account del cliente in cui un rappresentante di vendita Microsoft invita il partner a partecipare a un'attività di co-selling o a un partner che necessita di ulteriore assistenza da parte di Microsoft Sales per chiudere l'operazione.
 
 **Partner per partner (P2P)** : è qui che un partner può invitare altri partner nell'ecosistema di co-selling Microsoft per collaborare. I partner possono facoltativamente invitare un rappresentante di vendita Microsoft all'accordo per contribuire alla chiusura dell'accordo. Sia i partner che Microsoft possono essere invitati anche dopo aver creato una trattativa, purché siano prima del completamento. Si noti che le funzionalità complete includono vinte, perse, rifiutate e scadute.
 
-**Deal privato** : questo è il momento in cui un partner decide di lavorare in modo indipendente su un affare creato nel centro per i partner. I partner hanno la possibilità di invitare i venditori Microsoft dopo aver creato l'offerta per creare un'attività di vendita collaborativa. I dettagli dell'operazione non vengono condivisi con il team di vendita Microsoft fino al momento in cui il partner non è in modo esplicito richiesto dalla Guida alle vendite Microsoft.
+**Deal privato** : questo è il momento in cui un partner decide di lavorare in modo indipendente su un affare creato nel centro per i partner. I partner possono fornire visibilità al team di vendita Microsoft o invitare i venditori Microsoft a cercare la guida attiva dopo aver creato l'accordo. I dettagli dell'operazione non vengono condivisi con il team di vendita Microsoft fino a quando i partner del tempo non selezionano esplicitamente Sì per la domanda "si desidera che i venditori Microsoft vogliano visualizzare questa trattativa?" in alternativa, richiedere assistenza al team di vendita Microsoft scegliendo una delle opzioni per la domanda "identificare il tipo di guida necessario da Microsoft?".
+
+**Deal guidato da partner** : si tratta di un partner che decide di lavorare in modo indipendente a fronte di una trattativa, ma è bene fornire la visibilità dei dettagli dell'offerta ai membri del team di vendita Microsoft. I partner possono invitare i venditori Microsoft dopo aver creato l'accordo. Queste offerte sono idonee per la registrazione dell'accordo quando una soluzione idonea per gli incentivi è parte integrante dell'accordo. L'invito a Microsoft Seller non è necessario per la registrazione dell'accordo se viene soddisfatto il criterio di soluzione idonea per gli incentivi. È possibile far fronte a un affare che ha portato il partner rispondendo a Sì alla domanda "si desidera che i venditori Microsoft possano visualizzare questa trattativa?"
 
 **Valutazione soluzione (SA)** : questi tipi di offerte possono essere creati solo da un set di partner controllati dal team aziendale di valutazione della soluzione per l'esecuzione di valutazioni tecnologiche per i clienti che usano o pianificano l'uso di tecnologie Microsoft.
 
 > [!NOTE]
-> Le offerte private, anche se non sono realmente collaborative, sono incluse in questo articolo per offrire un percorso semplice per l'aggiornamento di qualsiasi pipeline che si occupi di un'opportunità di co-selling in qualsiasi fase non terminale (**vinto, perso, rifiutato e scaduto**).
+> Le offerte private, anche se non sono realmente collaborative, sono incluse nella scheda opportunità di co-selling per offrire un percorso semplice per l'aggiornamento di qualsiasi pipeline che si occupi di un'opportunità di co-selling in qualsiasi fase non terminale (**vinto, perso, rifiutato e scaduto**).
 
 ## <a name="navigating-the-co-sell-section"></a>Esplorazione della sezione di co-selling
 
 Per accedere alla sezione di co-selling, attenersi alla procedura seguente:
 
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 2. Dal menu di spostamento a sinistra selezionare **rinvii**, quindi le **opportunità di co-selling**.
 
@@ -67,7 +66,7 @@ Per accedere alla sezione di co-selling, attenersi alla procedura seguente:
 
 ### <a name="select-your-customer"></a>Selezionare il cliente
 
-Selezionare il cliente per questa operazione specifica. Immettere il percorso e iniziare a digitare il nome. Il suggerimento automatico inizierà a visualizzare le raccomandazioni in base ai criteri di ricerca. Poiché molte aziende hanno più di un'entità di business nella stessa posizione, è possibile che vengano visualizzati più risultati. Se non si è certi di quale scegliere, è possibile verificare quale numero D-U-N-S appartiene al cliente. Assicurarsi di selezionare la corrispondenza esatta per il cliente che si sta utilizzando.
+Selezionare il cliente per un'operazione specifica. Immettere il percorso e iniziare a digitare il nome. La casella Suggerimento inizierà a visualizzare le raccomandazioni in base ai criteri di ricerca. Poiché molte aziende hanno più di un'entità di business nella stessa posizione, è possibile che vengano visualizzati più risultati. Se non si è certi di quale scegliere, è possibile verificare quale numero D-U-N-S appartiene al cliente. Assicurarsi di selezionare la corrispondenza esatta per il cliente con cui si sta lavorando.
 
 Quando si fa clic su **Seleziona il cliente**, verrà richiesto di immettere il nome, il numero di telefono e l'indirizzo di posta elettronica per la persona che rappresenta il punto di contatto principale per questa operazione. Questi dettagli sono facoltativi e sono necessari solo se si prevede di invitare le vendite Microsoft per facilitare il coinvolgimento. Selezionare **Avanti**.
 
@@ -81,7 +80,7 @@ Immettere i dettagli dell'operazione corrente. I campi definiti di seguito posso
 | **Nome campo** | **Obbligatorio/facoltativo** | **Dettagli** |
 |-------------|--------|-------|
 |**Nome dell'affare** | Obbligatorio | Nome descrittivo per identificare l'operazione in un secondo momento. |
-|**Località**| Obbligatorio | Ambito del percorso MPN del riferimento. I riferimenti agli utenti con questo ambito di località possono visualizzare i riferimenti se fanno parte del team. I riferimenti agli amministratori e agli amministratori di riferimento con ambito globale possono visualizzare i riferimenti indipendentemente dalla posizione. Non è possibile modificare il percorso dopo aver creato il riferimento.|
+|**Posizione**| Obbligatorio | Ambito del percorso MPN del riferimento. I riferimenti agli utenti con questo ambito di località possono visualizzare i riferimenti se fanno parte del team. I riferimenti agli amministratori e agli amministratori di riferimento con ambito globale possono visualizzare i riferimenti indipendentemente dalla posizione. Non è possibile modificare il percorso dopo aver creato il riferimento.|
 |**Valore stimato** | Obbligatorio | Il valore dell'operazione in base alle informazioni disponibili durante la creazione dell'operazione.|
 |**Data di chiusura stimata**| Obbligatorio| Data in base alla quale si prevede di chiudere l'accordo con il cliente. |
 |**ID CRM**| Facoltativo | Contrassegnare l'operazione con l'ID dell'opportunità nel rispettivo CRM a scopo di verifica.|
@@ -104,18 +103,20 @@ In questa sezione è necessario fornire le informazioni correlate alle soluzioni
 > [!Important]
 > È possibile selezionare un solo tipo di valutazione per un'operazione di valutazione della soluzione e non è possibile aggiungere altre soluzioni. Una volta selezionata la valutazione della soluzione, il partner deve scegliere il percorso per la creazione della valutazione. Questa operazione è necessaria per i pagamenti corretti per gli incentivi.
 
-Dopo aver fornito le informazioni sulla soluzione, fare clic su Avanti per passare alla sezione in cui è possibile decidere il tipo di vendita. Se si scelgono soluzioni dalle prime tre opzioni e non da una valutazione della soluzione, sono disponibili tre opzioni:
+Dopo aver fornito le informazioni sulla soluzione, fare clic su Avanti per passare alla sezione in cui è possibile decidere il tipo di vendita. Sono disponibili quattro opzioni se si scelgono soluzioni dalle prime tre opzioni nel tipo di soluzione e non una valutazione della soluzione:
 
-**Deal privato**: se non si invita Microsoft e si crea un impegno in questo passaggio, sarà di tipo pipeline privata. I venditori Microsoft non avranno visibilità sui dettagli di questa trattativa.
+**Deal privato**: se non si invita Microsoft e si crea un impegno in questo passaggio, sarà di tipo pipeline privata. I venditori Microsoft non avranno visibilità sui dettagli di questa trattativa. È possibile creare un affare privato selezionando **nessuna guida richiesta in questo momento** per la domanda **"identificare il tipo di guida necessario da Microsoft?"** e **No** per la domanda **"vuoi che i venditori Microsoft vogliano visualizzare questa trattativa?"**. È sempre possibile aggiornare un affare privato a un contratto di co-selling guidato da partner o attivo prima che l'accordo raggiunga lo stato finale (vinto, perso).
 
 > [!Important]
 > La registrazione dell'accordo non è applicabile per le offerte private. Prestare attenzione durante la creazione di un affare privato con soluzioni idonee per gli incentivi, in quanto non saranno idonee per la registrazione di Deal nel centro per i partner.
 
-**Deal di co-selling:** Se si seleziona un'opzione diversa da quella predefinita per la domanda **"identificare il tipo di supporto da Microsoft"**, l'affare si riferisce a un'operazione di co-selling in cui un venditore Microsoft può potenzialmente aiutarti a chiudere l'accordo. Una richiesta di assistenza da parte di Microsoft non garantisce che un venditore Microsoft parteciperà all'accordo. I rappresentanti di vendita Microsoft hanno a disposizione 14 giorni per decidere se desiderano partecipare. Nella sezione Note, assicurarsi di identificare il tipo di Guida desiderato.
+**Deal guidato dal partner**: se non si vuole cercare alcun supporto attivo dal team di vendita Microsoft, ma si vuole dare loro visibilità alla pipeline, è possibile creare un affare guidato dal partner. È possibile creare un accordo basato sui partner selezionando **nessuna guida richiesta in questo momento** per la domanda **"identificare il tipo di guida necessario da Microsoft?"** e **Sì** per la domanda **"desideri che i venditori Microsoft vogliano visualizzare questa trattativa?"**. Queste offerte sono idonee per la registrazione dell'affare anche se il venditore Microsoft non è attivamente impegnata nell'assistenza del partner. I requisiti per la registrazione degli accordi hanno una soluzione idonea per gli incentivi nell'affare e hanno vinto lo stato dell'affare.
+
+**Deal di co-selling:** Se si seleziona un'opzione diversa da quella predefinita per la domanda **"identificare il tipo di supporto da Microsoft"**, l'affare si riferisce a un affare di co-selling in cui un venditore Microsoft può aiutarti a chiudere l'affare. Una richiesta di assistenza da parte di Microsoft non garantisce che un venditore Microsoft parteciperà all'accordo. I rappresentanti di vendita Microsoft hanno a disposizione 14 giorni per decidere se desiderano partecipare. Nella sezione Note, assicurarsi di identificare il tipo di Guida desiderato.
 
 **Deal da partner a partner (P2P)**: è possibile invitare altri partner nell'affare facendo clic sul collegamento invita partner. Di seguito è riportato il processo per la creazione di un affare P2P.
 
-- **Selezionare un partner:** Dopo aver fatto clic su invita partner, sarà possibile iniziare a digitare il nome del partner per ottenere l'elenco suggerito di partner corrispondenti al nome immesso. Selezionare il partner a cui si è interessati per inserire dettagli aggiuntivi per il partner. È possibile cercare solo i partner che si trovano nell'ecosistema di co-selling Microsoft e che stanno effettuando la transazione nel centro per i partner.
+- **Selezionare un partner:** Dopo aver fatto clic su invita partner, sarà possibile iniziare a digitare il nome del partner per ottenere l'elenco suggerito di partner corrispondenti al nome immesso. Selezionare il partner a cui si è interessati per fornire altri dettagli per il partner. È possibile cercare solo i partner che si trovano nell'ecosistema di co-selling Microsoft e che stanno effettuando la transazione nel centro per i partner.
 
 - **Data di chiusura stimata:** Si tratta della data in cui si prevede che il partner invitato debba completare la propria parte dell'operazione. La data è precompilata in modo da poter scegliere di modificare la data solo se necessario. Si tratta di un campo obbligatorio che può essere modificato dal partner da invitare dopo aver creato l'accordo. Il campo non può essere modificato dopo la creazione dell'operazione.
 
@@ -129,7 +130,7 @@ Dopo aver fornito le informazioni sulla soluzione, fare clic su Avanti per passa
 
 - **Identificare il tipo di guida:** Identificare il tipo di guida: Infine, identificare la guida specifica richiesta dal partner invitato.
 
-Ripetere questa operazione per tutti i partner che si desidera invitare a partecipare a questa operazione. Un partner per l'offerta partner può anche fare in modo che i venditori Microsoft siano invitati a collaborare con Microsoft e con i partner. È anche possibile invitare Microsoft e i partner in un secondo momento, dopo aver creato l'accordo.
+Ripetere l'operazione per tutti i partner che si vuole invitare a questa operazione. Un partner per l'offerta partner può anche fare in modo che i venditori Microsoft siano invitati a collaborare con Microsoft e con i partner. È anche possibile invitare Microsoft e i partner in un secondo momento, dopo aver creato l'accordo.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Risposta a un'opportunità di co-selling
 
@@ -149,7 +150,7 @@ In questa fase, se è stata ricevuta una nuova opportunità di co-selling da un 
 
 ### <a name="accepted-stage"></a>Fase accettata
 
-Lavora per concludere la trattativa con il cliente. Se si desidera modificare le informazioni fornite per un riferimento accettato, selezionare **modifica**. È quindi possibile aggiornare il nome dell'affare, la data di acquisto stimata, il valore stimato, le note, l'ID CRM e/o l'ID della campagna di marketing.  È anche possibile selezionare **Aggiungi il team** per specificare il nome, il numero di telefono e gli indirizzi di posta elettronica di qualsiasi altra persona che sta lavorando al problema. Le soluzioni possono anche essere modificate in base alle esigenze del cliente.
+Lavora per concludere la trattativa con il cliente. Se si desidera modificare le informazioni fornite per un riferimento accettato, selezionare **modifica**. È quindi possibile aggiornare il nome dell'affare, la data di acquisto stimata, il valore stimato, le note, l'ID CRM e/o l'ID della campagna di marketing.  È anche possibile selezionare **Aggiungi il team** per specificare il nome, il numero di telefono e gli indirizzi di posta elettronica di altri utenti che lavorano sull'affare. Le soluzioni possono anche essere modificate in base alle esigenze del cliente.
 
 Per impostazione predefinita, tutte le offerte create sono in fase di accettazione.
 
@@ -182,14 +183,15 @@ Al termine, è possibile eseguire una delle due azioni, ovvero contrassegnare l'
 
 Un affare sarà idoneo per la registrazione dell'accordo solo se soddisfa tutti i criteri seguenti.
 
-1. Microsoft è invitato alla trattativa.
-2. Microsoft ha accettato l'invito o ha contrassegnato l'accordo come vinto. Per comprendere lo stato di Microsoft, è possibile esaminare la scheda Microsoft sotto i dettagli dell'offerta.
-3. Si tratta di una soluzione idonea per gli incentivi.
+- Il tipo di transazione è co-selling o LED partner.
+- Si tratta di una soluzione idonea per gli incentivi.
+- Lo stato dell'affare viene vinto.
+- Se il tipo di contratto è co-sell, Microsoft ha accettato l'invito o ha contrassegnato l'accordo come vinto. Per comprendere lo stato di Microsoft, è possibile esaminare la scheda Microsoft sotto i dettagli dell'offerta.
 
 > [!Important]
 > Registrare l'accordo solo se il nome della società e la soluzione incentivi idonei nell'affare sono chiaramente indicati nel contratto con il cliente.
 
-Se l'offerta è idonea per la registrazione dell'accordo, verranno aggiunte ulteriori attività cardine al ciclo di vita dell'operazione denominata "Deal Registration", come illustrato di seguito.
+Se l'offerta è idonea per la registrazione dell'accordo, sarà presente un'altra attività cardine aggiunta al ciclo di vita dell'operazione denominata "Deal Registration", come illustrato di seguito.
 
 :::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Immagine che mostra il ciclo di vita dell'affare, il percorso da cui è possibile avviare la registrazione dell'accordo.":::
 
@@ -206,6 +208,8 @@ La tabella seguente illustra le combinazioni degli utenti che possono essere inv
 |**Tipo di trattativa originale**|**Utenti che possono essere invitati**|**Note**|
 |-----|:-----|:-----|
 |Privato|Microsoft e/o altri partner|L'accordo verrà aggiornato per la co-selling se Microsoft viene invitato.|
+|Privato|Microsoft Sales team per visualizzare le offerte|Il problema verrà aggiornato al responsabile del partner quando il team di vendita Microsoft riceverà la visibilità sulle offerte.|
+|LED partner|Microsoft e/o altri partner|L'accordo verrà aggiornato per la co-selling se Microsoft viene invitato.|
 |Co-selling|Altri partner|Gli altri partner possono essere invitati solo se la società ha iniziato l'operazione. I partner non possono essere invitati per le offerte nella scheda in ingresso.|
 |Partner per partner senza Microsoft|Microsoft|L'accordo verrà aggiornato a un'operazione di co-selling.|
 |Partner per partner senza Microsoft|Altri partner||
@@ -216,17 +220,25 @@ Questa è la fase finale per tutte le opportunità. È possibile visualizzare tu
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
-**Q1. Un affare può essere modificato dopo che è stato contrassegnato come vinto o perduto?**
+**D. Un affare può essere modificato dopo che è stato contrassegnato come vinto o perduto?**
 
 No, non è possibile modificare le offerte quando si spostano in uno stato terminale. Scaduto, rifiutato, vinto e perso sono stati terminali in cui non sono possibili ulteriori aggiornamenti per l'offerta. Prestare attenzione quando si trasferisce l'operazione in uno di questi stati terminali.
 
-**Q2. Chi riceve una notifica tramite posta elettronica dal centro per i partner?**
+**D. Chi riceve una notifica tramite posta elettronica dal centro per i partner?**
 
 Il flusso di lavoro seguente illustra il modo in cui i messaggi di posta elettronica vengono inviati ai partner dal sistema dei riferimenti del centro per i partner per i nuovi riferimenti in ingresso partner.
 
 :::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Immagine che mostra la logica di invio dei messaggi di posta elettronica ai partner per i nuovi riferimenti in ingresso.":::
 
-## <a name="getting-more-co-sell-opportunities"></a>Ottenere più opportunità di co-selling
+**D. Quali tipi di incentivi sono idonei per la registrazione degli accordi?**
+
+Solo gli incentivi IP sono idonei per la registrazione dell'accordo. I metodi disponibili includono i seguenti:
+
+- Co-selling IP di Azure
+- App biz Premium
+- App biz standard
+
+## <a name="get-more-co-sell-opportunities"></a>Ottieni più opportunità di co-selling
 
 Ecco alcuni suggerimenti che consentono di ottenere più opportunità di co-selling appropriate per l'azienda:
 

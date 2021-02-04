@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776807"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530834"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analizzare i lead: vedere come si attraggono i clienti target e i potenziali riferimenti
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analizzare i lead: come si attraggono i clienti finali e i potenziali riferimenti
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Ruoli appropriati**
 
 - Amministratore delle segnalazioni
-
-**Si applica a**
-
-- Lead del Marketplace
-- Lead qualificati
 
 La pagina **Lead** nella sezione **Analytics** in riferimenti consente di vedere come vengono eseguiti i riferimenti. Esamina regolarmente queste metriche per identificare tendenze o aree che richiedono attenzione e inizia a muoverti verso il raggiungimento dei tuoi obiettivi aziendali.
 
@@ -115,3 +110,7 @@ Sono possibili diversi motivi per cui viene visualizzato un grafico vuoto, come 
 
 > [!TIP]
 > Per vedere come vengono eseguite le opportunità di co-selling, vedere la [pagina delle informazioni sulle opportunità di co-selling](referral-insights.md).
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Gestire i clienti potenziali](manage-leads.md)

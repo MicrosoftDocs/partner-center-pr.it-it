@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983342"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530664"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Come segnalare i problemi con il centro per i partner e inviare eventuali informazioni di log o diagnostica
 
@@ -53,7 +53,7 @@ Se il problema richiede una conversazione con l'avvocato del supporto tecnico, �
 
 2. Il centro per i partner controlla la disponibilità del calendario del supporto tecnico.
 
-1. Quando si pianifica un appuntamento, il centro per i partner Invia un invito al calendario con informazioni sul modo in cui il supporto tecnico contatterà l'utente, in modo che sia possibile tenere traccia di questo appuntamento nel calendario di lavoro.
+1. Quando si pianifica un appuntamento, il centro per i partner Invia un invito al calendario con informazioni sul modo in cui il supporto tecnico contatterà l'utente, in modo che sia possibile tenere traccia di questo appuntamento nel calendario di lavoro.  Sebbene questa funzionalità sia ancora in anteprima, il messaggio di posta elettronica e l'invito al calendario saranno in inglese, ma il fautore sarà in grado di supportare l'utente nella lingua selezionata durante la creazione del ticket.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Data e ora":::
 

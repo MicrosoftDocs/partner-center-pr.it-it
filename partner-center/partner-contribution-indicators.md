@@ -1,7 +1,7 @@
 ---
 title: Indicatori di contributo partner-CBA
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su sette indicatori di contributo partner (PCI) che mostrano ai partner come ottenere una competenza Business Applications Cloud Silver o Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204071"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530817"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Usare gli indicatori di contributo dei partner per ottenere la competenza cloud Business Applications
 
@@ -125,7 +125,7 @@ Per informazioni dettagliate, vedere le tabelle seguenti:
 | Metrica PCI | Indicatore di prestazioni: ricavi nuovi | Indicatore di prestazioni: aggiunta del nuovo cliente | Indicatore funzionalità: consulenti funzionali | Indicatore di funzionalità: crescita del consulente funzionale | Indicatore di capacità: sviluppatori | Indicatore di successo dei clienti: nuove distribuzioni di grandi dimensioni | Indicatore di successo del cliente: crescita utente attiva mensile |
 |---|---|---|---|---|---|---|---|
 | **Punti massimi** | 10 punti | 10 punti | 15 punti | 15 punti | 5 punti | 20 punti | 25 punti |
-| **Sviluppato** | $300.000 | 10 | 10 | *\* Vedere la nota* | 5 | 5 | 25% |
+| **Sviluppato** | $300.000 | 10 | 15 | *\* Vedere la nota* | 5 | 5 | 25% |
 | **Sviluppo** | $150.000 | 5  | 5  |*\* Vedere la nota* | 2 | 1 | 25% |
 
 *\* Nota: le destinazioni di crescita variano in base al numero di consulenti di base e all'opzione specifica che un partner USA per ottenere punti. Per altre informazioni sulle opzioni per ottenere punti o obiettivi di crescita specifici di ogni opzione, vedere [definizioni per la crescita del consulente funzionale](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
@@ -187,8 +187,8 @@ NET New ricavi è un [indicatore delle prestazioni](partner-contribution-indicat
   - Coinvolgimento dei clienti: i prodotti idonei includono: vendite, servizio clienti, servizio campo, automazione del servizio di progetto, marketing, vendite di relazioni Microsoft, piano 1, talento e membro del team aziendale.
   - Finanza e operazioni: i prodotti idonei includono operazioni unificate, finanza, gestione supply chain, vendite al dettaglio, commercio, piano 2, realtà mista, talento e membro del team aziendale.
 
-- I canali di vendita includono Enterprise Agreement (EA), Cloud Solution Provider (CSP) e Web Direct.
-- Per Enterprise Agreement solo i ricavi: i ricavi includono i ricavi del primo anno del contratto. I ricavi ricorrenti del secondo e del terzo anno non sono inclusi.
+- I canali di vendita includono Contratto Enterprise (EA), Cloud Solution Provider (CSP) e Web Direct.
+- Per Contratto Enterprise solo i ricavi: i ricavi includono i ricavi del primo anno del contratto. I ricavi ricorrenti del secondo e del terzo anno non sono inclusi.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definizioni per la metrica PCI #2-NET Customer aggiunto
 
@@ -214,7 +214,7 @@ NET Customer aggiunge un [indicatore delle prestazioni](partner-contribution-ind
   > [!NOTE]
   > Per informazioni dettagliate sui mercati sviluppati e sullo sviluppo, vedere le [definizioni Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
-- I canali di vendita includono Enterprise Agreement (EA), Cloud Solution Provider (CSP) e Web Direct.
+- I canali di vendita includono Contratto Enterprise (EA), Cloud Solution Provider (CSP) e Web Direct.
 
 - Per più partner/lo stesso cliente o cliente che opera direttamente con Microsoft: esistono diversi calcoli dei **clienti aggiunti** e i **clienti si perdono** per i casi in cui più partner sono associati allo stesso cliente tramite sottoscrizioni diverse o per i casi in cui il cliente può già lavorare direttamente con Microsoft. Questi calcoli vengono visualizzati di seguito.
 

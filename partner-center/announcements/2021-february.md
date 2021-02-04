@@ -1,0 +1,124 @@
+---
+title: Annunci 2021 di febbraio
+description: Febbraio 2021 annunci per Microsoft Partner Center, incluse nuove funzionalità, promozioni, offerte, mercati o modifiche alle offerte esistenti.
+ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+author: brentserbus
+ms.author: brserbus
+ms.custom: announcement
+ms.localizationpriority: high
+ms.date: 02/03/2021
+ms.openlocfilehash: dd389d0857f1ddf391086155ea5a595f0fa5b2d6
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99554358"
+---
+# <a name="february-2021-announcements"></a>Annunci 2021 di febbraio
+
+In questa pagina vengono illustrati in dettaglio gli annunci per Microsoft Partner Center per il 2021 febbraio.
+
+_______________
+## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><a name="3"></a> Risposta a COVID-19: Microsoft Partner Network aggiornamento
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-02-04
+- Funzionalità
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Tutti i partner
+
+### <a name="details"></a>Dettagli
+
+Microsoft eliminerà le competenze e i requisiti di specializzazione avanzati per tutti i partner che hanno una data di anniversario (AD) tra il 1 ° gennaio 2021 e il 30 giugno 2021. L'eccezione è la competenza cloud Business Applications (CBA), per cui i partner che hanno un annuncio il 1 ° aprile 2021, fino al 30 giugno 2021, verranno premiati con i 15 punti verso il requisito della metrica di crescita del consulente funzionale all'interno del costrutto PCI.  
+
+**Partner con competenze (fatta eccezione per la competenza Cloud Business Applications) con date di anniversario comprese tra il 1 ° gennaio 2021 e il 30 giugno 2021** sono idonee per un'estensione di competenza di un anno. Stiamo estendendo la tua competenza o le tue competenze esistenti attraverso la prossima data di anniversario nel 2022.Le informazioni specifiche dell'organizzazione saranno disponibili nel centro per i partner a partire da febbraio e allineate al periodo di rinnovo.Dovrai eseguire un'azione nel centro per i partner per pagare la tariffa di competenza e completare il rinnovo.Se si sta per raggiungere la fine del periodo di tempo di rinnovo delle competenze di 30 giorni e non è possibile eseguire il rinnovo nel centro per i partner, contattare il [supporto tecnico](https://partner.microsoft.com/support) per assistenza.  
+
+**Per i partner con la competenza Cloud Business Applications:** Come comunicato in precedenza, i punteggi degli indicatori di contributo partner (PCI) diverranno effettivi a partire dal 1 ° aprile 2021. Se la data di ricorrenza per la competenza cloud Business Applications è compresa tra il 1 gennaio 2021 e il 31 marzo 2021, sarà necessario soddisfare i requisiti pubblicati nel centro per i partner e pagare la tariffa per la competenza per completare il rinnovo. Se la data di anniversario per la competenza cloud Business Applications è compresa tra il 1 ° aprile 2021 e il 30 giugno 2021, verranno concessi i 15 punti per la metrica di crescita del consulente funzionale. Per completare il rinnovo, è necessario soddisfare i requisiti rimanenti pubblicati in centro per i partner e pagare la tariffa per le competenze.  
+
+**Per i partner che rinnovano una specializzazione avanzata in 2021:** I partner con le date di anniversario della specializzazione avanzata tra il 1 ° gennaio 2021 e il 30 giugno 2021 sono idonei per un'estensione di un anno a 2022, a condizione che si mantengano le competenze Gold necessarie allineate alla specializzazione avanzata, che può includere il pagamento della tariffa di competenza per il rinnovo. Le informazioni specifiche dell'organizzazione saranno disponibili nel centro per i partner a partire da febbraio e allineate al periodo di rinnovo.  
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- Per altri aggiornamenti, vedere [rispondere a COVID-19: Microsoft Partner Network Update-Microsoft Partner Network](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
+
+### <a name="questions"></a>Domande?
+
+Per eventuali domande relative a questa notifica, contattare il [supporto tecnico del Centro per i partner](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+________________
+## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nuovi aggiornamenti del modulo dei riferimenti nel centro per i partner
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-02-03
+- Funzionalità
+ 
+### <a name="impacted-audience"></a>Destinatari interessati
+
+- Partner con offerte di co-selling pronte
+- Partner con un'offerta transazionale che usa una soluzione Azure incentive-idonea nel Marketplace commerciale
+- Tutti i partner che usano il modulo referrals nel centro per i partner.
+
+### <a name="details"></a>Dettagli
+
+Quando passiamo al nuovo anno, stiamo aggiungendo funzionalità per migliorare e arricchire l'esperienza di co-selling nel centro per i partner. Queste nuove funzionalità consentiranno di accelerare la velocità dell'offerta, estendere l'accesso ai venditori e migliorare la scalabilità dell'azienda. Introdotta nel modulo referrals, queste nuove aggiunte consentiranno di raggiungere un maggior numero di clienti tramite altri partner Microsoft o venditori Microsoft, gestendo al tempo stesso la pipeline con Microsoft in un'unica posizione.  
+
+Ecco le novità del modulo dei riferimenti al centro per i partner:
+
+#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Tutti i partner che usano il modulo referrals nel centro per i partner  
+
+- [Creazione di nuove connessioni SMB](https://docs.microsoft.com/partner-center/connect-with-your-customers): co-selling e collaborazione con i venditori Microsoft per ottenere opportunità in ingresso correlate ai clienti SMB.
+
+- [Espandere autorizzazioni di riferimento](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals): assegnare le autorizzazioni di riferimento degli utenti a seconda che si desideri avere autorizzazioni di amministratore (accesso a tutte le opportunità di co-selling) o autorizzazioni utente (accesso alle opportunità di co-selling specifiche dell'utente).
+
+- [Migrazione utente per partner Sales Connect](https://docs.microsoft.com/partner-center/psc-to-pc#user-migration): mappare le autorizzazioni utente per le vendite partner esistenti per le autorizzazioni utente per l'amministratore e il riferimento del centro per i partner corrispondenti, quindi applicare a massa le nuove autorizzazioni per gli utenti. Per ulteriori informazioni sulla gestione dei riferimenti, vedere la [documentazione sulle autorizzazioni](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) per i riferimenti.  
+
+#### <a name="partners-with-co-sell-ready-offers"></a>Partner con offerte di co-selling pronte
+
+- [Co-selling con altri partner](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): è possibile invitare un altro partner del potente ecosistema di partner per co-selling con l'utente e sbloccare l'accesso ad altri utenti del cliente.  
+
+#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partner con un'offerta transazionale che usa una soluzione Azure incentive-idonea nel Marketplace commerciale
+
+- [Usare la registrazione automatica dell'affare](https://docs.microsoft.com/partner-center/register-deals): risparmiare tempo e assicurare l'accuratezza registrando le offerte di Azure Commercial Marketplace transazionale con la casella di controllo, "questa operazione/vittoria è stata o verrà sottoposta a transazione tramite Azure Marketplace o AppSource". Se la data della transazione è corretta, le informazioni per la registrazione dell'accordo verranno estratte direttamente da Microsoft Commercial Marketplace.
+
+### <a name="questions"></a>Domande?
+
+Per assistenza sull'uso di una delle nuove funzionalità, vedere la [sezione relativa ai riferimenti](https://docs.microsoft.com/partner-center/referrals) nella Knowledge base o i materiali di supporto disponibili nella [raccolta di esperienze di co-selling](https://aka.ms/CoSellExperience) (accesso richiesto).
+
+Per un supporto aggiuntivo, è possibile [aprire un ticket con il team di supporto del partner](https://partner.microsoft.com/support/?stage=1).
+
+________________
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25th-2021-and-get-qualification-by-may-4th-2021"></a><a name="1"></a> Deprecazione e ritiro delle API PUT qualificate per il processo di convalida dei clienti Education entro il 25 febbraio 2021 e ottenere la qualifica del 4 maggio 2021.
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-02-04
+- Funzionalità
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner che vendono offerte accademiche, non profit e GCC tramite il programma Cloud Solution Provider tramite l'API del centro per i partner
+
+### <a name="details"></a>Dettagli
+
+Si tratta di un completamento per i miglioramenti apportati al centro per i partner [rilasciati nel dicembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Come parte di questa versione, sono state distribuite le nuove API per le qualifiche GET e POST e, di conseguenza, **le API del centro per i partner API per le qualifiche put ritireranno entro il 25 febbraio 2021 e otterranno la qualifica entro il 4 maggio 2021**. A questo punto, sarà necessario passare all'uso delle nuove API del centro per i partner per poter acquistare le offerte di formazione e la nuova API per ottenere le qualificazioni per acquistare le offerte non profit e GCC prequalificate.
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- **Aggiornare le nuove API**, se non è già stato fatto, per una transizione corretta e tempestiva
+- **Esaminare le nuove modifiche e la guida dell'API del centro** per i partner nelle risorse per la preparazione delle operazioni: miglioramenti apportati al [processo di convalida dei clienti di Education Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Condividere queste informazioni con i team appropriati** all'interno dell'organizzazione e con i rivenditori per aiutarli a prepararsi a queste modifiche.
+
+### <a name="questions"></a>Domande?
+
+Per eventuali domande relative a questa notifica, contattare il [supporto tecnico del Centro per i partner](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+### <a name="change-log"></a>Registro delle modifiche
+
+- Febbraio: sequenze temporali aggiornate per la deprecazione di GET & le qualifiche PUT
+- Gennaio: promemoria dei futuri deprecazioni di GET & le qualifiche PUT

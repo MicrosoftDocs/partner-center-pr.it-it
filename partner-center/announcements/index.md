@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.date: 02/05/2021
+ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552409"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588734"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 |**Categoria**|**Annunci 2021 di febbraio**|**Annunciato**|
 |---------|:---------|:---------|
+|Funzionalità|[Valutazioni Premium, un componente aggiuntivo di Compliance Manager, sarà disponibile il 1 ° marzo 2021](2021-february.md#4)|5 febbraio|
 |Funzionalità|[Risposta a COVID-19: Microsoft Partner Network aggiornamento](2021-february.md#3)|4 febbraio|
 |Funzionalità|[Nuovi aggiornamenti del modulo dei riferimenti nel centro per i partner](2021-february.md#2)|4 febbraio|
 |Modern Workplace|[Deprecazione e ritiro delle API PUT qualificate per il processo di convalida dei clienti Education entro il 25 febbraio 2021 e ottenere la qualifica entro il 4 maggio 2021](2021-february.md#1)|4 febbraio|

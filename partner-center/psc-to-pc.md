@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215952"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588751"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
 
@@ -127,7 +127,70 @@ In alcuni casi, la migrazione può avere esito negativo e causare errori. Ecco a
 3. All'utente è già assegnato un ruolo di riferimento nel centro per i partner.
     - È possibile verificare il ruolo dell'utente esistente. Nell'angolo in alto a destra del centro per i partner selezionare **Impostazioni** (icona a forma di ingranaggio), quindi **Impostazioni account**. Quando viene visualizzato un secondo menu di spostamento a sinistra, selezionare **Gestione utenti** e cercare l'utente.
 
-Dopo aver completato la migrazione degli utenti, usare le linee guida seguenti per decidere la strategia di migrazione:
+## <a name="psc-deals-migration"></a>Migrazione delle offerte di PSC
+
+Dopo aver completato la migrazione degli utenti, usare la migrazione guidata delle offerte nella pagina opportunità di co-selling per riunire tutte le offerte di apertura idonee da CPS a PC. **Il collegamento per la migrazione delle offerte sarà visibile solo agli amministratori di riferimento con l'ambito completo dell'organizzazione nel centro per i partner.** Nella parte superiore destra della pagina di co-selling Opportunities verrà visualizzato un collegamento denominato **"PSC Deal Migration"** , che consente di aprire la migrazione guidata dell'accordo.
+
+Leggere questa sezione prima di iniziare la migrazione dell'accordo.
+
+**Idoneo per la migrazione**
+
+Solo alcune offerte sono idonee per la migrazione da CPS a PC. Questa migrazione guidata è stata creata per aiutare i partner a partecipare al centro per i partner, dove continuano a collaborare attivamente con i clienti per chiudere l'offerta. **Solo le offerte in stato aperto con i dettagli validi per l'account partner (ID MPN valido) e la registrazione non in corso non sono idonee per la migrazione.**
+
+**Non idoneo per la migrazione**
+
+- Le trattative della valutazione della soluzione non sono idonee per la migrazione di Deal
+- Le offerte aziendali per le licenze OEM non sono idonee per la migrazione di Deal
+- Qualsiasi accordo contrassegnato come vinto in PSC non è idoneo per la migrazione. Gestire la registrazione se idonea per le offerte contrassegnate come vinte deve essere completata in CPS.
+
+## <a name="pre-requisites-for-deal-migration"></a>Prerequisiti per la migrazione di Deal
+
+Prima di avviare la migrazione degli accordi dal PC, seguire le istruzioni riportate di seguito per configurare le offerte di PSC per una corretta migrazione.
+
+1. Tutti i membri del team di vendita della società che lavorano sulle offerte aperte sono informati sulla migrazione.
+2. I membri del team di vendita hanno eseguito il training per usare il centro per la gestione dei partner.
+3. Tutte le informazioni necessarie sono elencate di seguito.
+    - Dettagli aziendali del cliente, inclusi nome e indirizzo
+    - Dettagli del contatto del cliente se si tratta di un'offerta di co-selling
+    - Almeno una soluzione
+    - Almeno un membro del team con tutti i dettagli, il nome, il cognome, l'ID di posta elettronica e il numero di telefono
+    - Valore di Deal
+    - Data di chiusura dell'affare stimata
+    - Note partner
+
+È possibile utilizzare le funzionalità di download e caricamento bulk in PSC per pulire i dati per tutte le offerte idonee.
+
+>[!Note]
+> La migrazione dell'accordo avrà esito positivo anche se i prerequisiti precedenti non vengono soddisfatti. Tuttavia, non è possibile modificare lo stato dell'operazione se uno dei campi obbligatori indicati in precedenza nel centro per i partner non è disponibile. Sarà quindi necessario immettere tutte le informazioni richieste mancanti nelle offerte del centro per i partner per iniziare a utilizzarle. **È consigliabile pulire le offerte idonee in PSC prima di eseguirne la migrazione al centro per i partner.**
+
+La migrazione dell'affare nel centro per i partner è stata creata con una sola esperienza. È sufficiente fare clic sul pulsante **"migrate Deals"** quando la società è pronta per la migrazione delle offerte idonee. **Non è possibile scegliere le offerte di cui si vuole eseguire la migrazione da CPS. Se non si vuole eseguire la migrazione di eventuali offerte al centro per i partner, spostarle nello stato Closed in PSC prima di avviare la migrazione.**
+
+>[!Note]
+> Dopo l'avvio della migrazione, **potrebbero essere necessarie fino a 24 ore per la migrazione delle offerte**.
+
+Al termine della migrazione, lo stato del messaggio del banner verrà modificato per essere completato con un collegamento al report di migrazione. Scaricare il report per visualizzare i dettagli delle offerte migrate dal CPS al PC.
+
+Il report include i dettagli seguenti.
+
+1. **ID engagement del centro** per i partner: identificatore univoco nel centro per tutte le operazioni in un engagement. Sono disponibili due offerte, una per il partner e una per Microsoft in un impegno di co-selling nel centro per i partner.
+2. **ID di riferimento del centro** per i partner: identificatore univoco nel centro partner per l'operazione appartenente al partner.
+3. **Nome dell'operazione** : identificatore assegnato alla trattazione in CPS.
+4. **ID Deal PSC** : identificatore univoco in PSC per l'operazione.
+5. **Errors** : per indicare se si è verificato un errore durante la migrazione di un'operazione specifica.
+
+Tutte le operazioni di cui è stata eseguita la migrazione non saranno visibili in CPS. È possibile lavorare sulle offerte migrate nel computer. Non verranno apportate modifiche alle interazioni con i venditori Microsoft per le offerte di co-selling.
+
+Le offerte migrate da CPS saranno disponibili nelle schede in ingresso e in uscita in base all'origine dell'operazione. Tutti gli accordi creati dal partner saranno disponibili nella scheda in uscita e le offerte avviate da Microsoft saranno disponibili nella scheda in ingresso del centro per i partner. Ci saranno due tipi di offerte che verranno create dopo la migrazione.
+
+1. Offerte di **co-selling** : le offerte contrassegnate come co-selling in CPS verranno create come offerte di co-selling nel centro per i partner.
+2. **Offerte gestite da partner** : le trattative non contrassegnate come co-sell verranno create come offerte per i partner nel centro per i partner. Le trattative di partner sono visibili ai venditori Microsoft e possono essere aggiornate alle offerte di co-selling prima di raggiungere lo stato finale (vinto, perso). Inoltre, le trattative dei partner sono idonee per la registrazione dell'accordo se è presente una soluzione incentive idonea nell'affare.
+
+>[!Important]
+> Se si verificano errori dovuti alla migrazione di alcune offerte, **è possibile riavviarla facendo clic sul pulsante "migrate** Deals". Verrà abilitato solo se sono ancora presenti alcune offerte idonee da migrare. Questa operazione sarà utile anche se ci si trova nella fase di transizione in cui vengono create nuove trattative in PSC dopo l'avvio della migrazione dell'accordo.
+
+Una volta completata la migrazione di tutte le trattative, verrà visualizzato il banner **"nessuna operazione di migrazione"** con il pulsante **"migrate Deals"** **disabilitato**.
+
+Dopo aver completato la migrazione degli utenti e/o aver eseguito la migrazione, usare le linee guida seguenti per decidere la strategia di migrazione:
 
 Se la società ha un partner Development Manager (PDM): quando l'account del centro per i partner è configurato e gli utenti sono passati e hanno ruoli e autorizzazioni, è possibile spostare le attività di co-selling nel centro per i partner. Informare il PDM per eseguire il compartimento invece di attendere il completamento della scadenza della migrazione, in modo da consentire l'esecuzione di tutte le nuove offerte nel centro per i partner.
 

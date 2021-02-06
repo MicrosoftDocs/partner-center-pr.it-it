@@ -1,7 +1,7 @@
 ---
 title: Gestire le posizioni nell'account partner
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 02/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come aggiungere una nuova sede e come usare l'ID MNP di sede in programmi di incentivi, transazioni aziendali CSP, sottoscrizioni e altre transazioni.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098891"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624273"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gestire le sedi dell'account MPN e aggiungere una nuova sede
 
@@ -47,6 +47,8 @@ Per aggiungere un nuovo account aziendale CSP, iniziare assicurandosi di aver so
  >Ricordarsi di eseguire l'accesso con le **nuove** credenziali per il **nuovo** account CSP. Non usare le credenziali esistenti perché il Centro per i partner riconoscerà l'utente che ha già un account.
 
 2. Accettare il Contratto Microsoft Partner e attivare l'account.
+
+1. Se vuoi iscriverti come partner Direct fattura, leggi [i requisiti per la fatturazione diretta dei partner](direct-partner-new-requirements.md)
 
 ## <a name="view-your-mpn-locations"></a>Visualizza le località MPN
 

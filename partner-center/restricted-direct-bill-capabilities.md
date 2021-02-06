@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795771"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623984"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Funzionalità di fatturazione diretta limitate e requisiti necessari per i partner di fatturazione diretta CSP  
 
@@ -29,13 +29,13 @@ I partner diretti per la fatturazione devono soddisfare i nuovi [requisiti](dire
 
 Per verificare se l'accesso dal tenant partner diretto a fatturazione diretta è stato limitato, attenersi alla seguente procedura.
 
-1. Accedere al dashboard del [centro](https://partner.microsoft.com/dashboard)per i partner.
+1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard).
 
-2. Passare a **Impostazioni partner**  ->  **profilo partner** .
+2. Passare a **Impostazioni account**  ->  **profilo legale**.
 
-3. In **informazioni sul programma** cercare **Microsoft Cloud stato provider soluzione** .
+3. In **informazioni sul programma** cercare **Microsoft Cloud stato provider soluzione**.
 
-4. Se lo stato del programma dispone di un valore **limitato** , significa che l'accesso al tenant del partner Direct Bill per le funzionalità di fatturazione diretta è stato limitato.
+4. Se lo stato del programma dispone di un valore **limitato**, significa che l'accesso al tenant del partner Direct Bill per le funzionalità di fatturazione diretta è stato limitato.
 
 ## <a name="affected-direct-bill-capabilities"></a>Funzionalità di fatturazione diretta interessate
 
@@ -43,7 +43,7 @@ Se le funzionalità di fatturazione diretta sono state limitate, non è più pos
 
 - Sottoscrizioni Azure
 
-- Sottoscrizioni basate su licenza
+- Abbonamenti in base alle licenze
 
 - Aggiungere nuovi componenti aggiuntivi alle sottoscrizioni esistenti basate su licenze.
 

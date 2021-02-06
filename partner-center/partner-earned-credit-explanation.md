@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
-ms.translationtype: HT
+ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182410"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624001"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Come viene calcolato e pagato il credito ottenuto dai partner
 
@@ -52,7 +52,7 @@ Per ricevere il credito ottenuto dal partner (PEC), si applicano i requisiti seg
 
 ### <a name="calculation"></a>Calcolo
 
-Il credito ottenuto dai partner viene calcolato quotidianamente e può essere controllato nel file di utilizzo giornaliero e nel file di riconciliazione della fattura mensile. Un partner (provider indiretto o rivenditore indiretto) deve avere accesso per l'intero giorno (24 ore su 24, 7 giorni su 7) per ottenere il credito. Il credito ottenuto dal partner viene calcolato quotidianamente per gli asset di Azure gestiti. La percentuale massima di credito ottenuto dai partner per un determinato periodo di fatturazione (mese) è pari al 15%. I partner che conservano l'accesso con privilegi permanenti nel corso dell'intero mese (intervallo di accesso) e per tutte le risorse idonee (ambito di accesso) otterranno un credito completo del 15%. Una riduzione dell'ambito e dell'intervallo avrà come risultato una diminuzione della percentuale di credito per il mese. Il file relativo all'utilizzo quotidiano stimato mostra ogni giorno se per un asset di Azure è applicabile o meno il credito ottenuto dal partner. I partner possono inoltre registrarsi in modo da ricevere avvisi per il monitoraggio delle modifiche all'accesso con privilegi permanenti.
+Il credito ottenuto dai partner viene calcolato quotidianamente e può essere controllato nel file di utilizzo giornaliero e nel file di riconciliazione della fattura mensile. Un partner (provider indiretto o rivenditore indiretto) deve avere accesso per l'intero giorno (24 ore su 24, 7 giorni su 7) per ottenere il credito. Il credito ottenuto dal partner viene calcolato quotidianamente per gli asset di Azure gestiti. I partner che conservano l'accesso con privilegi permanenti tramite il mese (intervallo di accesso) e per tutte le risorse idonee (ambito di accesso) otterranno il PEC completo. Una riduzione dell'ambito e dell'intervallo avrà come risultato una diminuzione della percentuale di credito per il mese. Il file relativo all'utilizzo quotidiano stimato mostra ogni giorno se per un asset di Azure è applicabile o meno il credito ottenuto dal partner. I partner possono inoltre registrarsi in modo da ricevere avvisi per il monitoraggio delle modifiche all'accesso con privilegi permanenti.
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 

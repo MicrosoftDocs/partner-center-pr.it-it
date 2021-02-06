@@ -9,21 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795866"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624307"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto
 
-**Si applica a:**
-- Centro per i partner
-
 **Ruoli appropriati**
 
-- Tutti i partner CSP con fatturazione diretta
+- Amministratori globali
 
 >[!Note]
 >Questo articolo è destinato ai partner di fatturazione diretta che hanno deciso di passare a rivenditori indiretti. Tuttavia, anche se non si è ancora preso una decisione esplicita per la registrazione come rivenditore indiretto, i partner diretti della fatturazione che non soddisfano i nuovi [requisiti](direct-partner-new-requirements.md) per il programma per la fatturazione diretta di CSP saranno informati da Microsoft quando le relative [funzionalità di fatturazione diretta saranno limitate](restricted-direct-bill-capabilities.md).
@@ -41,7 +38,7 @@ Sarà possibile eseguire la registrazione al programma indirect Reseller usando 
 
 3. Esaminare i dettagli del partner nel modulo di registrazione.
 
-   :::image type="content" source="images/direct/direct2a.png" alt-text="Overview":::
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Iscriviti ora":::
 
 4. Selezionare Registrati ora. L'azienda del rivenditore indiretto userà lo stesso tenant di AAD usato per l'azienda diretta.
 
@@ -51,13 +48,13 @@ Sarà possibile eseguire la registrazione al programma indirect Reseller usando 
 5. Quando la registrazione è approvata, accedere di nuovo a partner Center.
 
     > [!NOTE]
-    > Mentre l'approvazione è in genere immediata, possono essere importati fino a cinque giorni lavorativi. Una volta approvata, si riceverà una notifica per l'indirizzo di posta elettronica specificato in contatto principale nel modulo di registrazione. È anche possibile controllare lo stato di registrazione in **Impostazioni**  >  **partner impostazioni partner**  >  **profilo** > informazioni sul programma.
+    > Mentre l'approvazione è in genere immediata, possono essere importati fino a cinque giorni lavorativi. Una volta approvata, si riceverà una notifica per l'indirizzo di posta elettronica specificato in contatto principale nel modulo di registrazione. È anche possibile controllare lo stato di registrazione in **Impostazioni**  >  **account impostazioni**  >  **partner profilo partner** > informazioni sul programma.
 
-6. Nella pagina **Panoramica** viene visualizzato il contratto di rivenditore indiretto. Seleziona **Accetta e continua** . Questa azione Abilita le funzionalità dei rivenditori indiretti.
+6. Nella pagina **Panoramica** viene visualizzato il contratto di rivenditore indiretto. Seleziona **Accetta e continua**. Questa azione Abilita le funzionalità dei rivenditori indiretti.
 
 Dopo aver accettato il contratto di rivenditore indiretto, si noti che il profilo partner identifica l'utente **come fattura** diretta e rivenditore indiretto.
 
-:::image type="content" source="images/direct/direct3.png" alt-text="Overview":::
+:::image type="content" source="images/direct/direct3.png" alt-text="Contratto rivenditore indiretto":::
 
 > [!IMPORTANT]
 > Una volta eseguita la registrazione come rivenditore indiretto tramite la nuova funzionalità, non è possibile eseguire il rollback a un tenant diretto di sola fatturazione. Assicurati di prendere in considerazione tutte le tue esigenze aziendali prima eseguire la registrazione come rivenditore indiretto.
@@ -66,7 +63,7 @@ Dopo aver accettato il contratto di rivenditore indiretto, si noti che il profil
 
 Durante questa fase, si continuerà a gestire le esigenze di sottoscrizione dirette dei clienti, incluso il processo di fatturazione. È anche possibile iniziare ad accettare i clienti dal provider indiretto e operare come rivenditore indiretto.
 
-:::image type="content" source="images/direct/direct4.png" alt-text="Overview":::
+:::image type="content" source="images/direct/direct4.png" alt-text="Sei una fattura diretta e un rivenditore indiretto":::
 
 ## <a name="find-an-indirect-provider"></a>Trovare un provider indiretto
 
@@ -172,21 +169,21 @@ Per una panoramica dettagliata del processo step-by-Step, vedere il documento re
 
 Per usare questa funzionalità in un tenant del cliente esistente:
 
-1. Accedere al centro per i partner come **agente di amministrazione** .
+1. Accedere al centro per i partner come **agente di amministrazione**.
 
 2. Nella **pagina clienti** selezionare un cliente esistente e fare clic sull'icona **collegamenti rapidi** per espandere la visualizzazione riepilogativa del cliente.
 
-3. In **provider/i indiretti** , fare clic **su Trasferisci cliente per un provider indiretto** .
+3. In **provider/i indiretti**, fare clic **su Trasferisci cliente per un provider indiretto**.
 
-    :::image type="content" source="images/direct/direct5-1.png" alt-text="Overview":::
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Trasferire il cliente a un provider indiretto":::
 
 4. Nella finestra di dialogo popup selezionare il **provider indiretto** a cui si vuole associare il cliente per la relazione Reseller.
 
-5. Fare clic su **Salva e continua** .
+5. Fare clic su **Salva e continua**.
 
-6. Verificare che il provider indiretto selezionato venga visualizzato sotto **provider indiretti** .
+6. Verificare che il provider indiretto selezionato venga visualizzato sotto **provider indiretti**.
 
-    :::image type="content" source="images/direct/direct5-2.png" alt-text="Overview":::
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="Provider indiretto elencato":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Invia un invito del rivenditore indiretto al cliente
 
@@ -196,7 +193,7 @@ Il provider indiretto non può inviare ordini per i clienti con fatturazione dir
 
 2. Selezionare **Invita nuovi clienti** per invitare il cliente a stabilire contemporaneamente una relazione come rivenditore con l'utente e il provider indiretto. Il provider deve avere una relazione di rivenditore con il cliente, in modo che possa inviare ordini per conto del cliente quando il cliente desidera acquistare nuove sottoscrizioni o aggiungere nuove licenze alle sottoscrizioni esistenti.
 
-    :::image type="content" source="images/direct/direct6.png" alt-text="Overview":::
+    :::image type="content" source="images/direct/direct6.png" alt-text="Invita nuovi clienti":::
 
 3. Nella pagina successiva esaminare la bozza del messaggio di posta elettronica. È possibile aprire il messaggio bozza in un messaggio di posta elettronica oppure copiarlo negli Appunti e incollarlo in un messaggio di posta elettronica.
 
@@ -263,29 +260,29 @@ La funzionalità è un processo in quattro passaggi, in cui:
 
 Per creare una richiesta di trasferimento come partner di transizione:
 
-1. Accedere al centro per i partner come **agente di amministrazione** .
+1. Accedere al centro per i partner come **agente di amministrazione**.
 
 2. Nella pagina **clienti** selezionare il cliente desiderato e fare clic sull'icona collegamenti rapidi per espandere la visualizzazione riepilogativa del cliente.
 
 3. In **provider o provider indiretti** verificare che sia elencato il provider indiretto designato.
 
-4. Fare clic su **Visualizza sottoscrizioni** .
+4. Fare clic su **Visualizza sottoscrizioni**.
 
-5. Nella pagina **sottoscrizioni** cercare trasferimento della **sottoscrizione** .
+5. Nella pagina **sottoscrizioni** cercare trasferimento della **sottoscrizione**.
 
-6. In **trasferimento sottoscrizione** fare clic su **Richiedi trasferimento sottoscrizione** .
+6. In **trasferimento sottoscrizione** fare clic su **Richiedi trasferimento sottoscrizione**.
 
-    :::image type="content" source="images/direct/direct8.png" alt-text="Overview":::
+    :::image type="content" source="images/direct/direct8.png" alt-text="Richiedi trasferimento sottoscrizione":::
 
 7. Nella finestra di dialogo richiesta di trasferimento selezionare una o più sottoscrizioni da trasferire.
 
-    :::image type="content" source="images/direct/direct9.png" alt-text="Overview":::
+    :::image type="content" source="images/direct/direct9.png" alt-text="Creazione della richiesta di trasferimento":::
 
-8. Fare clic su **Crea** .
+8. Fare clic su **Crea**.
 
-9. Una richiesta di trasferimento di sottoscrizione attiva verrà visualizzata in **trasferimento sottoscrizione** .
+9. Una richiesta di trasferimento di sottoscrizione attiva verrà visualizzata in **trasferimento sottoscrizione**.
 
-    :::image type="content" source="images/direct/direct10.png" alt-text="Overview":::
+    :::image type="content" source="images/direct/direct10.png" alt-text="Elenco richieste di trasferimento":::
 
 10. Informare il provider indiretto che è stata creata una richiesta di trasferimento della sottoscrizione.
 
@@ -293,29 +290,29 @@ Per creare una richiesta di trasferimento come partner di transizione:
 
 Per esaminare e accettare una richiesta di trasferimento come provider indiretto:
 
-1. Accedere al centro per i partner come agente di **Amministrazione** o **agente di vendita** .
+1. Accedere al centro per i partner come agente di **Amministrazione** o **agente di vendita**.
 
 2. Nella pagina **clienti** selezionare il cliente desiderato e fare clic sull'icona collegamenti rapidi per espandere la visualizzazione riepilogativa del cliente.
 
 3. In **rivenditori indiretti** verificare che sia elencato il partner di transizione.
 
-4. Fare clic su **Visualizza sottoscrizioni** .
+4. Fare clic su **Visualizza sottoscrizioni**.
 
-5. Nella pagina **sottoscrizioni** cercare trasferimento della **sottoscrizione** .
+5. Nella pagina **sottoscrizioni** cercare trasferimento della **sottoscrizione**.
 
-    :::image type="content" source="images/direct/direct11.png" alt-text="Overview":::
+    :::image type="content" source="images/direct/direct11.png" alt-text="Visualizza la richiesta di trasferimento":::
 
 6. In **trasferimento sottoscrizione** fare clic sulla richiesta di trasferimento da rivedere.
 
-7. Fare clic su **Accept** (o **Reject** ) in base alle esigenze.
+7. Fare clic su **Accept** (o **Reject**) in base alle esigenze.
 
-    :::image type="content" source="images/direct/direct12.png" alt-text="Overview":::
+    :::image type="content" source="images/direct/direct12.png" alt-text="Accetta richiesta di trasferimento":::
 
 8. Attendere il completamento della richiesta di trasferimento.
 
 ### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Provider indiretto: verifica della richiesta di trasferimento completata
 
-1. Al termine della richiesta di trasferimento, verificare che le sottoscrizioni vengano visualizzate in **sottoscrizioni** .
+1. Al termine della richiesta di trasferimento, verificare che le sottoscrizioni vengano visualizzate in **sottoscrizioni**.
 
 2. Informare il partner di transizione.
 
@@ -323,23 +320,23 @@ Per esaminare e accettare una richiesta di trasferimento come provider indiretto
 
 Il partner di transizione deve eseguire le operazioni seguenti:
 
-1. Accedere al centro per i partner come **agente di amministrazione** o agente di **vendita** .
+1. Accedere al centro per i partner come **agente di amministrazione** o agente di **vendita**.
 
 2. Nella pagina **clienti** selezionare il cliente desiderato e fare clic sull'icona **collegamenti rapidi** per espandere la visualizzazione riepilogativa del cliente.
 
-3. Fare clic su **Visualizza sottoscrizioni** .
+3. Fare clic su **Visualizza sottoscrizioni**.
 
-4. Nella pagina **sottoscrizioni** cercare trasferimento della **sottoscrizione** .
+4. Nella pagina **sottoscrizioni** cercare trasferimento della **sottoscrizione**.
 
-5. Verificare che la richiesta di trasferimento sia contrassegnata come **completa** .
+5. Verificare che la richiesta di trasferimento sia contrassegnata come **completa**.
 
 6. Verificare che le sottoscrizioni non vengano più visualizzate come attive nella pagina **sottoscrizioni** :
 
    1. Se si tratta di una sottoscrizione di Azure (MS-AZR-0145P), non verrà più elencata.
 
-   2. Se si tratta di una sottoscrizione basata su licenza (Office 365, Dynamics, Intune), questa verrà elencata con stato come **sospesa** .
+   2. Se si tratta di una sottoscrizione basata su licenza (Office 365, Dynamics, Intune), questa verrà elencata con stato come **sospesa**.
 
-   :::image type="content" source="images/direct/direct13.png" alt-text="Overview":::
+   :::image type="content" source="images/direct/direct13.png" alt-text="Sottoscrizione sospesa":::
 
 ### <a name="considerations"></a>Considerazioni
 

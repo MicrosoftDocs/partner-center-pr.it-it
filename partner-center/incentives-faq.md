@@ -8,18 +8,14 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133066"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624222"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Domande frequenti sugli incentivi
-
-**Si applica a:**
-
-- Centro per i partner
 
 **Ruoli appropriati:**
 
@@ -35,7 +31,7 @@ No. Sia l'amministratore globale che l'amministratore dell'account possono asseg
 
 Se si tenta di partecipare a MPN e la società è già membro, MPN riconoscerà il dominio e associerà l'utente all'account esistente. L'account esistente può essere la stessa società o una società correlata che usa lo stesso dominio di posta elettronica o la stessa directory di attività di Azure (Azure AD) per la gestione di più domini.
 
-È possibile identificare il contatto principale dalla pagina profilo partner. Se la località è la località MPNHQ, è sufficiente configurare con le autorizzazioni necessarie per gestire gli incentivi. Per ulteriori informazioni sui ruoli e sulle autorizzazioni, vedere [Cenni preliminari sulle autorizzazioni](permissions-overview.md).
+È possibile identificare il contatto principale dalla pagina del profilo legale. Se la località è la località MPNHQ, è sufficiente configurare con le autorizzazioni necessarie per gestire gli incentivi. Per ulteriori informazioni sui ruoli e sulle autorizzazioni, vedere [Cenni preliminari sulle autorizzazioni](permissions-overview.md).
 
 Se non si trova nello stesso paese della località MPNHQ, fare riferimento alle [istruzioni per gli account multinazionali](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) per ulteriori informazioni su questo scenario.
 
@@ -51,9 +47,9 @@ Per altre informazioni, vedere [Cenni preliminari sulle autorizzazioni](permissi
 
 Per trovare un amministratore globale o un amministratore account che può apportare modifiche ai ruoli o assegnare ruoli a un nuovo utente:
 
-1. Nell'icona Impostazioni account in alto a destra nel centro per i partner selezionare **Gestione utenti** .
-2. Filtrare in base all'amministratore **globale** o all' **account amministratore** .
-3. È anche possibile passare a **profilo personale** , selezionare **ruoli e autorizzazioni** e visualizzare un elenco dei diversi amministratori che possono aiutarti a elevare le tue autorizzazioni.
+1. Nell'icona Impostazioni account in alto a destra nel centro per i partner selezionare **Gestione utenti**.
+2. Filtrare in base all'amministratore **globale** o all' **account amministratore**.
+3. È anche possibile passare a **profilo personale**, selezionare **ruoli e autorizzazioni** e visualizzare un elenco dei diversi amministratori che possono aiutarti a elevare le tue autorizzazioni.
  
 Per ulteriori informazioni, vedere la pagina relativa alla [ricerca del ruolo](find-your-role.md).  
 
@@ -63,9 +59,9 @@ Il motivo probabile per cui non è possibile visualizzare gli incentivi è che n
 
 1. Accedere al [Dashboard del centro](https://partner.microsoft.com/dashboard/) per i partner con le credenziali del tenant di Azure ad (credenziali aziendali). Se non si riesce ad accedere, contattare l'amministratore globale della società.
 
-2. Quando si esegue l'accesso, se viene richiesto di **selezionare l'account** aziendale o **personale** , selezionare **account** aziendale.
+2. Quando si esegue l'accesso, se viene richiesto di **selezionare l'account** aziendale o **personale**, selezionare **account** aziendale.
 
-3. Scegliere **incentivi** dal menu centro partner e quindi fare clic su **Panoramica** . Se non si dispone delle autorizzazioni di amministratore o incentivi utente per gli incentivi, verranno visualizzate le informazioni di contatto per tutti gli amministratori globali e account della società. Contattare uno di questi amministratori per ottenere il ruolo di incentivo per gli ID MPN e i programmi per gli incentivi richiesti.
+3. Scegliere **incentivi** dal menu centro partner e quindi fare clic su **Panoramica**. Se non si dispone delle autorizzazioni di amministratore o incentivi utente per gli incentivi, verranno visualizzate le informazioni di contatto per tutti gli amministratori globali e account della società. Contattare uno di questi amministratori per ottenere il ruolo di incentivo per gli ID MPN e i programmi per gli incentivi richiesti.
 
 4. Se si dispone già di un ruolo di amministratore per gli incentivi, verranno visualizzate le registrazioni per l'azienda per gli ID MPN e i programmi incentive per i quali si dispone dell'accesso.
 

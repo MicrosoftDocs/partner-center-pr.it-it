@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114163"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624256"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gestisci i premi del Marketplace nel centro per i partner & attiva il marketing, le vendite e i vantaggi tecnici
 
@@ -60,7 +60,7 @@ Le informazioni sui premi del Marketplace sono disponibili tramite il tenant Azu
 
 1. L'amministratore globale o l'amministratore dell'account può accedere a PGA nel centro per i partner.
 
-2. Selezionare **Impostazioni** (in alto a destra), **Impostazioni partner**, **tenant**. 
+2. Selezionare **Impostazioni** (in alto a destra), **Impostazioni account**, **tenant**. 
 
 3. Selezionare **associa un altro tenant Azure ad** e selezionare il tenant di Azure ad che si vuole associare al PGA.
 

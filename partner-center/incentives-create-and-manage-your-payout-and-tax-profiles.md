@@ -8,18 +8,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492467"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624239"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Creazione e gestione di incentivi per il pagamento e i profili fiscali nel centro per i partner
 
-**Si applica a:**
-
-- Centro per i partner
 
 **Ruoli appropriati:**
 
@@ -64,7 +61,7 @@ Le sezioni seguenti illustrano il processo di creazione e gestione dei profili d
    - Se si è in grado di accedere solo con il @onmicrosoft.com dominio, contattare l'amministratore dell'account per aggiungere ulteriori domini all'account Azure ad.
    - Se viene richiesto di selezionare un account aziendale o dell' **Istituto di istruzione** o un account **personale**, selezionare account aziendale o dell'Istituto di **istruzione**.
 
-2. Selezionare l'icona a forma di ingranaggio per aprire il menu **Impostazioni** , quindi selezionare **Impostazioni partner**.
+2. Selezionare l'icona a forma di ingranaggio per aprire il menu **Impostazioni** e quindi selezionare **Impostazioni account**.
 
 3. Nel menu **Impostazioni account** selezionare **pagamenti e imposte**. 
 
@@ -72,7 +69,7 @@ Le sezioni seguenti illustrano il processo di creazione e gestione dei profili d
 
 1. Accedere al [Dashboard del centro](https://partner.microsoft.com/dashboard/)per i partner, quindi selezionare l'icona a forma di ingranaggio per aprire il menu **Impostazioni** . 
 
-2. Selezionare **Impostazioni partner**, espandere la **sezione pagamenti e imposte**, quindi selezionare **assegnazione del profilo di pagamento e di imposta**. 
+2. Selezionare **Impostazioni account**, espandere la **sezione pagamenti e imposte**, quindi selezionare **assegnazione del profilo di pagamento e di imposta**. 
    
    Verrà visualizzato un elenco dei programmi. Selezionare la freccia accanto a un programma per visualizzare i dettagli del profilo. 
 

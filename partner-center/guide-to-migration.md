@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b6646ff943ff219c41c975d60e66a46d1e0f595
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
-ms.translationtype: HT
+ms.openlocfilehash: dd566a6d9ef60747eb7fd515b4d63d87d991da2a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175247"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624188"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guida alla migrazione da Partner Membership Center (PMC) al Centro per i partner
 
@@ -53,7 +53,7 @@ Se la tua azienda non dispone di un indirizzo e-mail aziendale e di un tenant AA
 >[!NOTE]
 >Se sei un partner con sede in Cina e sei iscritto ai programmi Microsoft Partner Network e Cloud Solution Provider (CSP), avrai un tenant separato per ogni account. L'account del programma Cloud Solution Provider viene gestito nel cloud nazionale, mentre l'account di Microsoft Partner Network viene gestito nel cloud globale. Non è possibile collegare i due account.
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="Attività iniziali":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Descrivere la società":::
 
 Dopo aver verificato o aggiornato le informazioni, seleziona **Accetta e continua**.
 Le condizioni riportate in questa pagina sono **esattamente le stesse** contenute nel contratto firmato dalla tua azienda in PMC.  
@@ -71,7 +71,7 @@ Selezionando **Accetta e continua** vengono eseguite anche le operazioni seguent
 
 Quando viene creato il nuovo tenant di Azure AD, puoi invitare i tuoi dipendenti ad accedere al Centro per i partner.
 
-:::image type="content" source="images/migration/invite.png" alt-text="Attività iniziali":::
+:::image type="content" source="images/migration/invite.png" alt-text="Invitare i dipendenti":::
 
 Se hai eseguito l'accesso con un tenant AAD esistente, i dipendenti sono stati spostati con te. In questo caso, assegna ai dipendenti ruoli specifici per definire le operazioni che possono eseguire nel Centro per i partner. 
 
@@ -84,11 +84,11 @@ Se il tenant AAD è nuovo, il ruolo di amministratore globale non è assegnato a
 
 Fino a quando il passaggio di assegnazione di un amministratore globale non sarà stato completato, le nuove offerte non risulteranno disponibili per l'acquisto, mentre quelle già acquistate potranno continuare a essere usate.
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="Attività iniziali":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Assumere il controllo":::
 
 Quando selezioni Inizia, verrà visualizzata la schermata seguente:
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="Attività iniziali":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Verificare la proprietà del dominio":::
 
 Il registrar risulterà già compilato. Solo il proprietario del dominio può aggiornare il file DNS. Copiando e aggiungendo il file di testo al tuo record DNS, potremo quindi verificare che tu sei il proprietario. L'aggiornamento può richiedere alcuni minuti. Dovrai disconnetterti dal Centro per i partner e quindi eseguire di nuovo l'accesso. A questo punto, il tuo ruolo risulterà modificato in amministratore globale.
 
@@ -96,11 +96,11 @@ Il registrar risulterà già compilato. Solo il proprietario del dominio può ag
 
 Segui la presentazione del dashboard. In questo ambiente puoi gestire l'appartenenza, aggiungere un profilo di business per le segnalazioni, iscriverti al programma Cloud Solution Provider e visualizzare le notifiche e le offerte pertinenti per la tua azienda in qualsiasi momento selezionando **Dashboard**. Puoi anche gestire gli incentivi, acquistare nel marketplace, registrarti per i servizi go-to-market e molto altro.  
 
-:::image type="content" source="images/migration/fre.png" alt-text="Attività iniziali":::
+:::image type="content" source="images/migration/fre.png" alt-text="Presentazione":::
 
 ## <a name="sign-the-microsoft-partner-agreement"></a>Firmare il Contratto Microsoft Partner
 
-Un rivenditore indiretto, dopo aver configurato l'account del Centro per i partner, deve comunque iscriversi ufficialmente al programma Cloud Solution Provider. Per controllare lo stato dell'iscrizione, passare a [Profilo partner](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) e confermare il tipo di account. Iscriversi quindi a CSP come [rivenditore indiretto](enrolling-in-the-csp-program.md).
+Un rivenditore indiretto, dopo aver configurato l'account del Centro per i partner, deve comunque iscriversi ufficialmente al programma Cloud Solution Provider. Per controllare lo stato di appartenenza, passare al [profilo legale](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) e confermare il tipo di account. Iscriversi quindi a CSP come [rivenditore indiretto](enrolling-in-the-csp-program.md).
 
  Dopo aver effettuato l'iscrizione come rivenditore indiretto, accettare la [richiesta di relazione CSP con il provider indiretto](indirect-reseller-tasks-in-partner-center.md).
 

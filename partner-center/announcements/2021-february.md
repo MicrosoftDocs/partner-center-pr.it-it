@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.date: 02/04/2021
+ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588717"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624171"
 ---
 # <a name="february-2021-announcements"></a>Annunci 2021 di febbraio
 
@@ -70,22 +70,7 @@ Tutti i partner
 
 ### <a name="details"></a>Dettagli
 
-Microsoft eliminerà le competenze e i requisiti di specializzazione avanzati per tutti i partner che hanno una data di anniversario (AD) tra il 1 ° gennaio 2021 e il 30 giugno 2021. L'eccezione è la competenza cloud Business Applications (CBA), per cui i partner che hanno un annuncio il 1 ° aprile 2021, fino al 30 giugno 2021, verranno premiati con i 15 punti verso il requisito della metrica di crescita del consulente funzionale all'interno del costrutto PCI.  
-
-**Partner con competenze (fatta eccezione per la competenza Cloud Business Applications) con date di anniversario comprese tra il 1 ° gennaio 2021 e il 30 giugno 2021** sono idonee per un'estensione di competenza di un anno. Stiamo estendendo la tua competenza o le tue competenze esistenti attraverso la prossima data di anniversario nel 2022.Le informazioni specifiche dell'organizzazione saranno disponibili nel centro per i partner a partire da febbraio e allineate al periodo di rinnovo.Dovrai eseguire un'azione nel centro per i partner per pagare la tariffa di competenza e completare il rinnovo.Se si sta per raggiungere la fine del periodo di tempo di rinnovo delle competenze di 30 giorni e non è possibile eseguire il rinnovo nel centro per i partner, contattare il [supporto tecnico](https://partner.microsoft.com/support) per assistenza.  
-
-**Per i partner con la competenza Cloud Business Applications:** Come comunicato in precedenza, i punteggi degli indicatori di contributo partner (PCI) diverranno effettivi a partire dal 1 ° aprile 2021. Se la data di ricorrenza per la competenza cloud Business Applications è compresa tra il 1 gennaio 2021 e il 31 marzo 2021, sarà necessario soddisfare i requisiti pubblicati nel centro per i partner e pagare la tariffa per la competenza per completare il rinnovo. Se la data di anniversario per la competenza cloud Business Applications è compresa tra il 1 ° aprile 2021 e il 30 giugno 2021, verranno concessi i 15 punti per la metrica di crescita del consulente funzionale. Per completare il rinnovo, è necessario soddisfare i requisiti rimanenti pubblicati in centro per i partner e pagare la tariffa per le competenze.  
-
-**Per i partner che rinnovano una specializzazione avanzata in 2021:** I partner con le date di anniversario della specializzazione avanzata tra il 1 ° gennaio 2021 e il 30 giugno 2021 sono idonei per un'estensione di un anno a 2022, a condizione che si mantengano le competenze Gold necessarie allineate alla specializzazione avanzata, che può includere il pagamento della tariffa di competenza per il rinnovo. Le informazioni specifiche dell'organizzazione saranno disponibili nel centro per i partner a partire da febbraio e allineate al periodo di rinnovo.  
-
-### <a name="next-steps"></a>Passaggi successivi
-
-- Per altri aggiornamenti, vedere [rispondere a COVID-19: Microsoft Partner Network Update-Microsoft Partner Network](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
-
-### <a name="questions"></a>Domande?
-
-Per eventuali domande relative a questa notifica, contattare il [supporto tecnico del Centro per i partner](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
-
+Microsoft offre un'estensione delle competenze (fatta eccezione per la competenza cloud Business Applications) e un'estensione di specializzazione avanzata per i partner con date di anniversario (AD) comprese tra il 1 ° gennaio 2021 e il 30 giugno 2021. Per ulteriori informazioni, consultare il [post di Blog del partner](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nuovi aggiornamenti del modulo dei riferimenti nel centro per i partner
 
@@ -129,7 +114,7 @@ Per assistenza sull'uso di una delle nuove funzionalità, vedere la [sezione rel
 Per un supporto aggiuntivo, è possibile [aprire un ticket con il team di supporto del partner](https://partner.microsoft.com/support/?stage=1).
 
 ________________
-## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25th-2021-and-get-qualification-by-may-4th-2021"></a><a name="1"></a> Deprecazione e ritiro delle API PUT qualificate per il processo di convalida dei clienti Education entro il 25 febbraio 2021 e ottenere la qualifica del 4 maggio 2021.
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Deprecazione e ritiro delle API PUT qualificate per il processo di convalida dei clienti Education entro il 25 febbraio 2021 e ottenere la qualifica entro il 4 maggio 2021.
 
 ### <a name="categories"></a>Categorie
 
@@ -138,11 +123,11 @@ ________________
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
-Partner che vendono offerte accademiche, non profit e GCC tramite il programma Cloud Solution Provider tramite l'API del centro per i partner
+Partner che vendono soluzioni accademiche, no profit e GCC tramite il programma Cloud Solution Provider tramite l'API del centro per i partner
 
 ### <a name="details"></a>Dettagli
 
-Si tratta di un completamento per i miglioramenti apportati al centro per i partner [rilasciati nel dicembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Come parte di questa versione, sono state distribuite le nuove API per le qualifiche GET e POST e, di conseguenza, **le API del centro per i partner API per le qualifiche put ritireranno entro il 25 febbraio 2021 e otterranno la qualifica entro il 4 maggio 2021**. A questo punto, sarà necessario passare all'uso delle nuove API del centro per i partner per poter acquistare le offerte di formazione e la nuova API per ottenere le qualificazioni per acquistare le offerte non profit e GCC prequalificate.
+Questo annuncio è un completamento per i miglioramenti apportati al centro per i partner [rilasciati nel dicembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Come parte di questa versione, sono state distribuite le nuove API per le qualifiche GET e POST e, di conseguenza, **le API del centro per i partner del centro per le API esistenti di put ritireranno entro il 25 febbraio 2021 e otterranno la qualifica entro il 4 maggio 2021**. A questo punto, sarà necessario passare all'uso delle nuove API del centro per i partner per poter acquistare le offerte di formazione e la nuova API per ottenere le qualificazioni per acquistare le offerte non profit e GCC prequalificate.
 
 ### <a name="next-steps"></a>Passaggi successivi
 

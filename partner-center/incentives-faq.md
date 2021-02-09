@@ -1,19 +1,19 @@
 ---
 title: Domande frequenti sugli incentivi
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Domande frequenti per gli incentivi Microsoft. Questo articolo include domande sui ruoli utente, su come eseguire la registrazione o sulle operazioni da eseguire per i messaggi di errore.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624222"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835068"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Domande frequenti sugli incentivi
 
@@ -67,17 +67,11 @@ Il motivo probabile per cui non è possibile visualizzare gli incentivi è che n
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Alcune registrazioni non sono disponibili nella pagina Panoramica incentivi.
 
-Se si verifica un minor numero di registrazioni rispetto a quanto previsto nella pagina **Panoramica** incentivi, è possibile eseguire le operazioni seguenti.
+Se è stato ricevuto un invito da o è stato registrato in un programma incentive che non è più visibile nel dashboard, è necessario verificare di disporre dell'accesso appropriato. Solo gli utenti con ruolo di amministratore incentive o incentivo possono visualizzare il programma. Vedere [trovare il ruolo](https://docs.microsoft.com/partner-center/find-your-role).
 
-1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
+Se è necessario modificare il ruolo o le autorizzazioni, contattare l'amministratore globale o dell'account aziendale. Per informazioni sugli utenti, vedere l'articolo su come [trovare l'amministratore globale](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
 
-2. In **Impostazioni** selezionare [Gestione utenti](https://partner.microsoft.com/pcv/users).
-
-3. Selezionare il nome per visualizzare le autorizzazioni.
-
-Se è necessario modificare il ruolo o le autorizzazioni, vedere l'amministratore globale o dell'account aziendale.
-
-Si noti che in questa pagina verranno visualizzate solo le registrazioni associate all'account globale del partner (PGA) associato al tenant Azure AD. Se la società ha più di un PGA, sarà necessario disporre di credenziali diverse per ciascuna di esse.
+Si noti che nella pagina Panoramica verranno visualizzate solo le registrazioni associate all'account globale del partner (PGA) associato al tenant Azure AD. Se la società ha più di un PGA, sarà necessario disporre di credenziali diverse per ciascuna di esse.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Chi devo contattare se ricevo un messaggio di errore o ti serve assistenza durante il processo di registrazione?
 

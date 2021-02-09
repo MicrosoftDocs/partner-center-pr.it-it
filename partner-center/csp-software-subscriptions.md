@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098840"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834857"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendere abbonamenti software tramite il programma Cloud Solution Provider (CSP)
 
@@ -95,7 +95,7 @@ Per acquistare abbonamenti software per conto di un cliente:
 Una volta acquistato il software, i clienti dovranno scaricarlo. Utilizzare la procedura seguente per eseguire questa operazione.
 
 >[!NOTE]
->Per ottenere le chiavi e i download, è necessario essere un agente di amministrazione.
+>Per ottenere il collegamento alle chiavi e ai download, è necessario essere un agente di amministrazione.
 
 1. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Vedrai un elenco di tutto il software che hai acquistato per conto del cliente.
 2. Copiare il collegamento "Deep link" dal **collegamento ai codici Product Key del software e scaricare** e condividere il collegamento con il cliente. Quando si seleziona questo collegamento, verranno reindirizzati all'interfaccia di amministrazione di Microsoft per scaricare e ottenere i codici Product Key.

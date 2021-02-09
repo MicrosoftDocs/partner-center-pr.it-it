@@ -1,27 +1,27 @@
 ---
 title: Risoluzione dei problemi relativi a pagamenti e utili
 ms.topic: article
-ms.date: 10/30/2020
+ms.date: 02/05/2021
 description: Informazioni su come risolvere i problemi, ad esempio guadagni mancanti o non corretti, problemi di idoneità e come risolvere i guadagni degli incentivi.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e3a8890127ce9ff73fd09b7a35d4e167b5629f45
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189765"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834884"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Risoluzione dei problemi relativi a pagamenti mancanti, guadagni non corretti e altri problemi
 
-**Si applica a** :
+**Si applica a**:
 
 - Centro per i partner
 
-**Ruoli appropriati** :
+**Ruoli appropriati**:
 
 - Amministratore degli incentivi
 
@@ -37,7 +37,7 @@ La convalida può richiedere fino a 48 ore. In questo periodo di tempo lo stato 
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>In che modo ho la conferma di aver completato correttamente il profilo di pagamento e fiscale?
 
-Lo stato della registrazione viene visualizzato nella pagina di panoramica. Al termine della creazione dei profili, lo stato verrà **convalidato** per la registrazione. Dopo aver convalidato le informazioni, lo stato diventa **registrato** . Questo stato indica che il pagamento e il profilo fiscale e la registrazione sono stati completati correttamente.
+Lo stato della registrazione viene visualizzato nella pagina di panoramica. Al termine della creazione dei profili, lo stato verrà **convalidato** per la registrazione. Dopo aver convalidato le informazioni, lo stato diventa **registrato**. Questo stato indica che il pagamento e il profilo fiscale e la registrazione sono stati completati correttamente.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>Perché è necessario aggiornare il profilo fiscale per usarlo con un nuovo programma Incentivi?
 
@@ -62,17 +62,35 @@ I pagamenti mancanti o non corretti sono spesso correlati a una delle cause segu
   
   3. Selezionare il collegamento al documento desiderato, quindi esaminare le sezioni 
 
-**Idoneità partner** e **regole dei ricavi idonei** .
+**Idoneità partner** e **regole dei ricavi idonei**.
 
 - **Il profilo di pagamento potrebbe essere incompleto.** La data iniziale di acquisizione degli incentivi sarà il primo giorno del mese in cui tutti i requisiti di idoneità sono stati soddisfatti, incluso l'inserimento dei dati relativi a pagamenti e imposte. Gli utili non saranno disponibili per i mesi precedenti al pagamento e al completamento delle imposte. Se, ad esempio, si soddisfano tutti i requisiti durante il mese di aprile 2020, la data di inizio degli utili sarà il 1 aprile 2020.
-- **È possibile che si verifichi un'azione in attesa** .  È possibile che gli incentivi non vengano elaborati a causa di un'azione in sospeso.
+- **È possibile che si verifichi un'azione in attesa**.  È possibile che gli incentivi non vengano elaborati a causa di un'azione in sospeso.
 
   **Per visualizzare le azioni in attesa**
 
   1. Accedi a [incentivi](https://partner.microsoft.com/membership/partner-incentives)per i partner.
-  2. Aprire la pagina **Cronologia transazioni** . Esaminare i campi in questa pagina per tutte le azioni in sospeso da completare, ad esempio il **profilo fiscale in sospeso** , il **profilo di pagamento in sospeso** o l' **invio di fatture fiscali in sospeso** .
+  2. Aprire la pagina **Cronologia transazioni** . Esaminare i campi in questa pagina per tutte le azioni in sospeso da completare, ad esempio il **profilo fiscale in sospeso**, il **profilo di pagamento in sospeso** o l' **invio di fatture fiscali in sospeso**.
 
 Se queste azioni non sono utili e i pagamenti rimangono mancanti o errati, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+
+## <a name="how-can-i-reconcile-my-adjustments"></a>In che modo è possibile riconciliare le regolazioni?
+
+È possibile individuare e risolvere le modifiche apportate scaricando i dettagli relativi a guadagni e transazioni.
+
+1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
+2. Sulla barra di spostamento superiore selezionare l'icona Money, quindi selezionare **Cronologia transazioni**.
+3. Applicare i filtri appropriati. (Vedere la Nota **importante** più avanti).
+4. Dopo aver filtrato i dati, selezionare **Avvia download**, quindi selezionare **Esporta dati**. I dati si apriranno in un file CSV.
+5. Nel file CSV passare alla colonna P, ottenendo il **tipo**.
+6. Filtrare questa colonna per la **regolazione-riduzione**. È possibile visualizzare il mese di ogni rettifica nella colonna S.
+
+>[!IMPORTANT]
+>Le modifiche applicate ai periodi di guadagno precedenti non saranno visibili nei guadagni per il mese in cui è stata applicata la regolazione. Le rettifiche rifletteranno sempre nel report degli utili per il mese a cui è stata applicata la regolazione.
+>
+>Ad esempio, un adattamento per i guadagni di gennaio 2019 elaborati nel settembre 2019 non rifletterà l'importo degli utili per il 2019 settembre. Tuttavia, quando viene ricevuto il pagamento per il 2019 settembre, sarà inclusa la rettifica per il 2019 gennaio che è stata applicata a settembre. In questo scenario, è necessario scaricare i dettagli della transazione per il 2019 gennaio per visualizzare la regolazione applicata.
+>
+>Tenere presente questo aspetto quando si impostano i filtri per la data. Come indicato in precedenza, le modifiche per i periodi precedenti saranno visibili solo nel mese in cui è stata applicata la regolazione. Verificare che l'intervallo di date selezionato corrisponda al mese della regolazione che si sta tentando di trovare. Potrebbe essere necessario selezionare **Clear All (Cancella tutto** ) per rimuovere i filtri, quindi applicare quelli nuovi.
 
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>Perché i pagamenti delle attestazioni co-op sono stati effettuati in due valute diverse?
 
@@ -118,12 +136,12 @@ Questa visualizzazione Mostra le tendenze per il pagamento e i pagamenti per mes
 
 Questa visualizzazione consente di visualizzare i pagamenti per tutti i programmi e gli ID MPN. I dati sono visibili solo per i programmi e gli ID MPN per i quali si è un utente o un amministratore di incentivi. Da questa visualizzazione è possibile scaricare la rimessa o visualizzare i dettagli delle transazioni per pagamento.
 
-| Operazione da eseguire | Risorsa utile |
+| Per | Risorsa utile |
 | ------ | :----------- | 
 | Visualizza le informazioni di pagamento per riga, inclusi i guadagni e gli importi di pagamento nella valuta locale  | Vedere il campo **elenco di pagamenti**   |
 | Scarica una lettera di rimessa   |  Seleziona **rimessa pagamento**  |
 | Visualizza i dettagli a livello di transazione per un pagamento specifico |  Selezione **visualizzazione**  |
-| Esporta dettagli transazione in Excel  |  Selezionare **Avvia download** , quindi fare clic su **Esporta dati** . Si noti che tutti i filtri selezionati verranno applicati ai dati esportati. Una volta che lo stato è stato modificato in completato, selezionare **Scarica** e seguire le istruzioni per esportare il report dettagliato sulle transazioni. Aggiornare la pagina se lo stato non viene aggiornato entro cinque minuti.  |
+| Esporta dettagli transazione in Excel  |  Selezionare **Avvia download**, quindi fare clic su **Esporta dati**. Si noti che tutti i filtri selezionati verranno applicati ai dati esportati. Una volta che lo stato è stato modificato in completato, selezionare **Scarica** e seguire le istruzioni per esportare il report dettagliato sulle transazioni. Aggiornare la pagina se lo stato non viene aggiornato entro cinque minuti.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Guadagni e pagamenti mancanti o non corretti
 
@@ -151,7 +169,7 @@ Se queste azioni non sono utili e i guadagni non sono ancora riconciliati, conta
 
 3. Selezionare il collegamento al documento per il rispettivo programma.
 
-4. Nel documento, fare riferimento alla sezione **struttura e tariffe del programma** .
+4. Nel documento, fare riferimento alla sezione **struttura e tariffe del programma**.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

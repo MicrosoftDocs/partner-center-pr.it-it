@@ -59,6 +59,9 @@
         - name: Informazioni sulle competenze
           href: learn-about-competencies.md
           displayName: mpn
+        - name: Iscriversi come partner di formazione
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
         - name: Domande frequenti sulle competenze
           href: competencies-faq.md
           displayName: 'renew, mpn'

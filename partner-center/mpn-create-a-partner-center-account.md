@@ -1,5 +1,5 @@
 ---
-title: Creare un account nel Centro per i partner
+title: Creare un account MPN nel centro per i partner
 ms.topic: article
 ms.date: 02/08/2021
 ms.service: partner-dashboard
@@ -9,17 +9,17 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 129cdd337f9b475b37d14c4e68058736b473fe33
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
+ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005951"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "100013691"
 ---
-# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Creare un account per il Centro per i partner al fine di gestire le competenze e i vantaggi dalla rete
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Creare un account MPN nel centro per i partner per gestire i vantaggi e le competenze della rete
 
 
-Se non si ha familiarità con Microsoft Partner Network e non si dispone di un ID MPN, è possibile avviare la registrazione seguendo le [istruzioni di registrazione](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
+Se non si ha familiarità con Microsoft Partner Network (MPN) e non si dispone di un ID MPN, è possibile avviare la registrazione seguendo le [istruzioni di registrazione](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
 ## <a name="prerequisites"></a>Prerequisiti 
 
@@ -61,7 +61,7 @@ Dopo aver fornito le informazioni sulla società, immettere le informazioni di c
 Il contatto principale deve essere la persona all'interno dell'organizzazione da contattare relativamente alla richiesta (può trattarsi dell'utente o di un'altra persona all'interno dell'organizzazione).
 
 >[!IMPORTANT]
->Per garantire la sicurezza e la privacy dell'azienda, è possibile inviare un messaggio di posta elettronica al contatto principale per verificare l'indirizzo di posta elettronica e verificare che l'indirizzo di posta elettronica appartenga all'azienda, dopo che il contatto principale ha verificato l'indirizzo di posta elettronica, si continuerà a esaminare le informazioni fornite. La verifica in genere richiede 3-5 giorni lavorativi. 
+>Per garantire la sicurezza e la privacy dell'azienda, è possibile inviare un messaggio di posta elettronica al contatto principale per verificare l'indirizzo di posta elettronica e verificare che l'indirizzo di posta elettronica appartenga all'azienda. Dopo che il contatto principale ha verificato l'indirizzo di posta elettronica, continueremo a esaminare le informazioni fornite. La verifica in genere richiede 3-5 giorni lavorativi. 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Come visualizzare i dettagli dell'account o visualizzare e scaricare il contratto MPN
 

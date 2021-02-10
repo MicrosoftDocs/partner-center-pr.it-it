@@ -1,7 +1,7 @@
 ---
 title: Gestire le posizioni nell'account partner
 ms.topic: how-to
-ms.date: 02/05/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come aggiungere una nuova sede e come usare l'ID MNP di sede in programmi di incentivi, transazioni aziendali CSP, sottoscrizioni e altre transazioni.
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
+ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624273"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "100005914"
 ---
-# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gestire le sedi dell'account MPN e aggiungere una nuova sede
+# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gestire i percorsi degli account MPN e aggiungere (eliminare) un percorso
 
 
 **Ruoli appropriati**
@@ -79,7 +79,11 @@ Per aggiungere un nuovo account aziendale CSP, iniziare assicurandosi di aver so
 :::image type="content" source="images/legal-biz.png" alt-text="Aggiungi una nuova attività legale":::
 
 > [!NOTE]
-> dopo aver aggiunto una posizione nel Centro per i partner, non è possibile rimuoverla. Se l'accesso è stato effettuato con l'account corretto, verrà visualizzato **MPN** nel menu a sinistra del Centro per i partner.
+> Una volta aggiunta una località nel centro per i partner, non è possibile rimuoverla. Se l'accesso è stato effettuato con l'account corretto, verrà visualizzato **MPN** nel menu a sinistra del Centro per i partner.
+
+## <a name="delete-a-location"></a>Elimina un percorso
+
+Per eliminare una località dall'account, è necessario contattare il [supporto tecnico del partner](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Assicurarsi di comprendere l'effetto di questa azione. Non è possibile recuperare i percorsi eliminati e qualsiasi elemento associato a tale ID MPN specifico non verrà più riconosciuto o attivo per l'azienda.
 
 ## <a name="change-country-of-partner-global-account"></a>Modificare il paese dell'account globale del partner 
 

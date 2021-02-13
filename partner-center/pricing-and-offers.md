@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979822"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281287"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prezzi e offerte per Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e altro ancora
 
@@ -45,7 +45,7 @@ Per visualizzare i programmi e le offerte del provider di soluzioni cloud più r
 
 I servizi basati su licenze includono un'anteprima di listino prezzi, che fornisce 30 giorni prima di qualsiasi modifica. Per visualizzare l'anteprima dell'elenco prezzi, vai a **vendi > prezzi e offerte**. Non sono disponibili anteprime dei prezzi per i servizi basati sull'utilizzo poiché questi servizi sono dinamici. Nella tabella seguente viene illustrato come leggere la tabella Listino prezzi.
 
-|**Item**        |**Definizione**      |
+|**Item**        |**Definition**      |
 |:-----------   |:-----------   |
 |ADD   |Un nuovo elemento all'elenco prezzi|
 |CHG   |Modifiche al prezzo di listino dal mese al mese. Potrebbero verificarsi altre modifiche non correlate al prezzo di listino. i partner dovrebbero confrontare gli elenchi prezzi tra i mesi per determinare le modifiche apportate ad altre proprietà.|
@@ -82,7 +82,7 @@ I prezzi basati sull'utilizzo possono variare in un mese. Per ottenere i prezzi 
 
 ## <a name="pricing-and-special-segments"></a>Prezzi e segmenti speciali
 
-CSP offre alcuni servizi a segmenti di mercato speciali, ad esempio Education, no profit e Government community Cloud. Non tutti i servizi sono disponibili in ogni canale. Nessun segmento predefinito è quello che viene chiamato segmento "commerciale". Tutti i prezzi basati sulle licenze sono disponibili nell'elenco prezzi basato su licenza della pagina prezzi e offerte. I prezzi di Azure per enti pubblici sono disponibili nell'elenco prezzi basato sull'utilizzo quando sono connessi al tenant CSP abilitato per Azure per enti pubblici.
+CSP offre alcuni servizi a segmenti di mercato speciali, ad esempio Education, no profit e Government community Cloud. Non tutti i servizi sono disponibili in ogni canale. Nessun segmento predefinito è quello che viene chiamato segmento "commerciale". Tutti i prezzi basati sulle licenze sono disponibili nell'elenco prezzi basato su licenza della pagina prezzi e offerte. I prezzi di Azure per enti pubblici sono disponibili nell'elenco prezzi basato sull'utilizzo quando sono connessi al tenant CSP abilitato per Azure per enti pubblici. Gli abbonamenti software e il software perpetuo non supportano ancora questi segmenti speciali.
 
 |**Segmento**   |**utenti che devono qualificarsi**   |**Partner idoneo per i clienti**|**Tipi di prodotto abilitati**|
 |-------------------|-----------------------|----------------------------|-----------------------------|

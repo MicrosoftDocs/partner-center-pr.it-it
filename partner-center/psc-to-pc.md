@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588751"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281342"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
 
@@ -158,7 +158,7 @@ Prima di avviare la migrazione degli accordi dal PC, seguire le istruzioni ripor
     - Data di chiusura dell'affare stimata
     - Note partner
 
-È possibile utilizzare le funzionalità di download e caricamento bulk in PSC per pulire i dati per tutte le offerte idonee.
+È possibile usare le funzionalità di download e caricamento bulk in CPS per aggiungere tutti i dettagli mancanti nell'affare per tutte le offerte idonee.
 
 >[!Note]
 > La migrazione dell'accordo avrà esito positivo anche se i prerequisiti precedenti non vengono soddisfatti. Tuttavia, non è possibile modificare lo stato dell'operazione se uno dei campi obbligatori indicati in precedenza nel centro per i partner non è disponibile. Sarà quindi necessario immettere tutte le informazioni richieste mancanti nelle offerte del centro per i partner per iniziare a utilizzarle. **È consigliabile pulire le offerte idonee in PSC prima di eseguirne la migrazione al centro per i partner.**
@@ -178,9 +178,9 @@ Il report include i dettagli seguenti.
 4. **ID Deal PSC** : identificatore univoco in PSC per l'operazione.
 5. **Errors** : per indicare se si è verificato un errore durante la migrazione di un'operazione specifica.
 
-Tutte le operazioni di cui è stata eseguita la migrazione non saranno visibili in CPS. È possibile lavorare sulle offerte migrate nel computer. Non verranno apportate modifiche alle interazioni con i venditori Microsoft per le offerte di co-selling.
+Tutte le operazioni di cui è stata eseguita la migrazione non saranno visibili in CPS. È possibile continuare a lavorare sulle offerte migrate in PC, incluso il completamento della registrazione dell'affare nel PC. Non verranno apportate modifiche alle interazioni con i venditori Microsoft per le offerte di co-selling.
 
-Le offerte migrate da CPS saranno disponibili nelle schede in ingresso e in uscita in base all'origine dell'operazione. Tutti gli accordi creati dal partner saranno disponibili nella scheda in uscita e le offerte avviate da Microsoft saranno disponibili nella scheda in ingresso del centro per i partner. Ci saranno due tipi di offerte che verranno create dopo la migrazione.
+Le offerte migrate da CPS saranno disponibili nelle schede in ingresso e in uscita in base all'origine dell'operazione. Tutte le trattative condivise dall'azienda saranno disponibili nella scheda in uscita e le offerte avviate da Microsoft saranno disponibili nella scheda in ingresso del centro per i partner. Ci saranno due tipi di offerte che verranno create dopo la migrazione.
 
 1. Offerte di **co-selling** : le offerte contrassegnate come co-selling in CPS verranno create come offerte di co-selling nel centro per i partner.
 2. **Offerte gestite da partner** : le trattative non contrassegnate come co-sell verranno create come offerte per i partner nel centro per i partner. Le trattative di partner sono visibili ai venditori Microsoft e possono essere aggiornate alle offerte di co-selling prima di raggiungere lo stato finale (vinto, perso). Inoltre, le trattative dei partner sono idonee per la registrazione dell'accordo se è presente una soluzione incentive idonea nell'affare.
@@ -386,12 +386,20 @@ Non è possibile accedere direttamente al centro per i partner PDM a differenza 
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Individuazione dell'ID MPN corretto se l'account in CPS non è associato a un MPN valido
 
-Se ci si trova nel punto in cui si è visto un banner in PSC che menziona "CPS non valido MPN ID Association problem", l'utente si trova nel posto giusto.
+Se ci si trova nel punto in cui si è visto un banner in PSC che menziona "CPS non valido MPN ID Association problem", l'utente si trova nel posto giusto. È possibile che l'account sia stato collegato a un ID MPN non valido per i motivi seguenti:
+
+- La società non dispone di un account del centro per i partner.
+- Il PDM ha commesso un errore durante l'immissione dell'ID MPN del proprio account nei sistemi interni che collegano l'account PSC all'account del centro per i partner (MPNID).
+- L'azienda non ha completato la migrazione da partner Membership Center (PMC) a PC.
 
 Per prima cosa, trovare l'ID MPN corretto attenendosi alla procedura seguente
 
 - Accedere all'account del centro per i partner
 - Usare le indicazioni fornite nella [documentazione delle impostazioni dell'account](./partner-center-account-setup.md#locate-your-mpn-id) per individuare l'ID MPN.
+
+Di seguito è riportata una schermata che mostra la posizione esatta in cui è possibile trovare l'ID MPN del centro per i partner
+
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="Immagine che mostra le impostazioni dell'account in cui il partner è in grado di trovare l'ID MPN."  lightbox="images/pscmigration/findingMPNID.png":::
 
 Successivamente,
 

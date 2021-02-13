@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 94df138eb94d79fb0e472744f19337ad536eb90d
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980242"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281262"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Informazioni su come trasferire sottoscrizioni di Azure di un cliente a un altro partner
 
@@ -53,9 +53,9 @@ Per passare i servizi o le sottoscrizioni di Azure di un cliente a un altro part
    
    5. Nel passaggio 2 Selezionare **C-minimo Impact** e scegliere **altre domande generali** come tipo di problema.
    
-   6. Scaricare il [modulo di trasferimento della sottoscrizione CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+   6. Scaricare il [modulo di trasferimento della sottoscrizione CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC).
 
-3. Partner per la sottoscrizione: compilare il modulo di [trasferimento della sottoscrizione CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), firmarlo e inviarlo al cliente. 
+3. Partner per la sottoscrizione: compilare il modulo di [trasferimento della sottoscrizione CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC), firmarlo e inviarlo al cliente. 
 
    Per compilare il modulo, sono necessarie le informazioni seguenti:
 
@@ -92,7 +92,7 @@ Per passare i servizi o le sottoscrizioni di Azure di un cliente a un altro part
      ```
 
      >[!NOTE]
-     > L' **ID tenant** del cliente viene visualizzato nel centro per i partner come **ID Microsoft**del cliente. Per trovare l'ID Microsoft (ID tenant) per un cliente specifico, accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner. Quindi selezionare **Customers** dal menu. Individuare il cliente nell'elenco. Selezionare la freccia rivolta verso il basso per espandere l'elenco del cliente. Vengono visualizzate informazioni sul *nome di dominio* del cliente e sull' **ID Microsoft**del cliente. Usare l' **ID Microsoft** a 16 cifre nella cmdlet di PowerShell.
+     > L' **ID tenant** del cliente viene visualizzato nel centro per i partner come **ID Microsoft** del cliente. Per trovare l'ID Microsoft (ID tenant) per un cliente specifico, accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner. Quindi selezionare **Customers** dal menu. Individuare il cliente nell'elenco. Selezionare la freccia rivolta verso il basso per espandere l'elenco del cliente. Vengono visualizzate informazioni sul *nome di dominio* del cliente e sull' **ID Microsoft** del cliente. Usare l' **ID Microsoft** a 16 cifre nella cmdlet di PowerShell.
 
    - Visualizza i ruoli dell'account, inclusi i partner CSP precedenti:
 

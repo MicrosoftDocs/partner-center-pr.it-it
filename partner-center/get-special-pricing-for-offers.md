@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 2c1cb2adc28a19f265643c5e2756fbdf1195b970
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624052"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281279"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vendere a settori specializzati come utenti Education, No profit ed enti pubblici
 
@@ -24,7 +24,7 @@ ms.locfileid: "99624052"
 - Agente amministratore
 - Agente di vendita
 
-Microsoft offre prezzi speciali e ridotti per i gruppi di clienti selezionati, inclusi i clienti dell'istruzione, i clienti senza scopo di lucro, le piccole imprese e le entità governative. Prima di poter offrire prezzi speciali, è necessario che l'utente e il cliente siano qualificati. 
+Microsoft offre prezzi speciali e ridotti per i gruppi di clienti selezionati, inclusi i clienti dell'istruzione, i clienti senza scopo di lucro, le piccole imprese e le entità governative. Prima di poter offrire prezzi speciali, è necessario che l'utente e il cliente siano qualificati. Queste offerte con prezzo speciale sono attualmente **disponibili solo per i servizi basati su licenze** , ad esempio Microsoft 365, Dynamics, Intune e così via. Non è disponibile per altri tipi (sottoscrizioni software, software perpetuo o prodotti Azure).
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Requisiti per la vendita a settori specializzati
 

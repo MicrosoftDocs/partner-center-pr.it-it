@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 5a5f2ee73c84a3d50e20e6319b07ee2f90aa4972
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281243"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490156"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 |**Categoria**|**Annunci 2021 di febbraio**|**Annunciato**|
 |---------|:---------|:---------|
+|Funzionalità|[Argomenti relativi all'introduzione a Microsoft viva](2021-february.md#7)|12 febbraio|
 |Offerte/mercati|[Modifiche al prezzo di Microsoft 365 E3 in arrivo per il 2021 marzo](2021-february.md#6)|11 febbraio|
 |Offerte/mercati|[Elenco prezzi anteprima basata su licenza aggiornato per corona norvegese](2021-february.md#5)|10 febbraio|
 |Funzionalità|[Valutazioni Premium, un componente aggiuntivo di Compliance Manager, sarà disponibile il 1 ° marzo 2021](2021-february.md#4)|5 febbraio|

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: ac5c82887ddf17e66045e36c0f4de607529f6024
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: f1822a0bba6c14f48da3dfca3081bba5da3c6a2e
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281222"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490173"
 ---
 # <a name="february-2021-announcements"></a>Annunci 2021 di febbraio
 
@@ -22,11 +22,49 @@ In questa pagina vengono illustrati in dettaglio gli annunci per Microsoft Partn
 
 _______________
 
+## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Argomenti relativi all'introduzione a Microsoft viva
+
+### <a name="categories"></a>Categorie
+
+- Data: 12 febbraio 2021
+- Funzionalità
+
+### <a name="affected-audience"></a>Destinatari interessati
+
+Tutti i partner che eseguono transazioni tramite il programma Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Dettagli
+
+Gli argomenti di Microsoft viva applicano intelligenza artificiale per identificare le conoscenze e le competenze da tutta l'organizzazione e gestirle in argomenti condivisi come prodotti, clienti o progetti. Con le schede degli argomenti e le pagine degli argomenti immersive, le informazioni trovano nel contesto dei team, dei progetti e dei documenti. Intelligenza artificiale e persone collaborano per migliorare la conoscenza e la loro superficie nelle app che usi ogni giorno. 
+
+Gli utenti devono avere una licenza di uno dei seguenti elementi per essere idonei per gli argomenti di viva:   
+- Microsoft 365 F1, F3, E3, a3, E5 o a5 
+- Office 365 F3, E1, a1, E3, a3, E5 o a5 
+- Microsoft 365 Business Basic, standard o Premium 
+- SharePoint K, piano 1 o Plan2 
+
+**Dettagli dell'offerta**
+
+Queste offerte avranno "esperienze di argomento" nei nomi delle offerte negli elenchi prezzi di 1 febbraio. Questi nomi di offerta verranno aggiornati con "argomenti viva" quando gli elenchi prezzi vengono aggiornati il 1 ° marzo.
+
+|**Nome offerta**|**ID offerta**|**ID materiale**|
+|------------------|:--------------------|:------------------|
+|Argomenti di viva|b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a|1JV-00005|
+|Argomenti di viva per i docenti|8c930d38-db61-4afa-83f9-77c595c5cdfc|1TK-00006|
+|Argomenti di viva per studenti|5de461d5-8ccc-4a8e-98ae-58a3ad400a57|1TK-00007|
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- Esaminare le risorse di questo argomento e condividere queste informazioni con le parti interessate appropriate nell'organizzazione.  
+- Altre informazioni sono disponibili nel [Centro risorse degli argomenti di viva](https://resources.techcommunity.microsoft.com/viva-topics).
+
+_______________
+
 ## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Modifiche al prezzo di Microsoft 365 E3 in arrivo per il 2021 marzo
 
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-02-11
+- Data: 11 febbraio 2021
 - Offerte/mercati
 
 ### <a name="affected-audience"></a>Destinatari interessati
@@ -51,7 +89,7 @@ _______________
 
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-02-10
+- Data: 10 febbraio 2021
 - Offerte/mercati
 
 ### <a name="affected-audience"></a>Destinatari interessati
@@ -76,7 +114,7 @@ _______________
 
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-02-05
+- Data: 5 febbraio 2021
 - Funzionalità
 
 ### <a name="affected-audience"></a>Destinatari interessati
@@ -111,7 +149,7 @@ _________________________________________________________
 
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-02-04
+- Data: 4 febbraio 2021
 - Funzionalità
 
 ### <a name="impacted-audience"></a>Destinatari interessati
@@ -120,13 +158,13 @@ Tutti i partner
 
 ### <a name="details"></a>Dettagli
 
-Microsoft offre un'estensione delle competenze (fatta eccezione per la competenza cloud Business Applications) e un'estensione di specializzazione avanzata per i partner con date di anniversario (AD) comprese tra il 1 ° gennaio 2021 e il 30 giugno 2021. Per ulteriori informazioni, consultare il [post di Blog del partner](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
+Microsoft offre un'estensione delle competenze (ad eccezione delle competenze per il cloud Business Applications) e un'estensione di specializzazione avanzata per i partner con date di anniversario (AD) comprese tra il 1 ° gennaio 2021 e il 30 giugno 2021. Per ulteriori informazioni, vedere il [post di Blog del partner](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nuovi aggiornamenti del modulo dei riferimenti nel centro per i partner
 
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-02-03
+- Data: 5 febbraio 2021
 - Funzionalità
  
 ### <a name="impacted-audience"></a>Destinatari interessati
@@ -151,7 +189,7 @@ Ecco le novità del modulo dei riferimenti al centro per i partner:
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Partner con offerte di co-selling pronte
 
-- [Co-selling con altri partner](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): è possibile invitare un altro partner del potente ecosistema di partner per co-selling con l'utente e sbloccare l'accesso ad altri utenti del cliente.  
+- [Co-selling con altri partner](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): invita un altro partner del nostro potente ecosistema di partner per co-selling con l'utente e sbloccare l'accesso a più destinatari del cliente.  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partner con un'offerta transazionale che usa una soluzione Azure incentive-idonea nel Marketplace commerciale
 
@@ -161,14 +199,14 @@ Ecco le novità del modulo dei riferimenti al centro per i partner:
 
 Per assistenza sull'uso di una delle nuove funzionalità, vedere la [sezione relativa ai riferimenti](https://docs.microsoft.com/partner-center/referrals) nella Knowledge base o i materiali di supporto disponibili nella [raccolta di esperienze di co-selling](https://aka.ms/CoSellExperience) (accesso richiesto).
 
-Per un supporto aggiuntivo, è possibile [aprire un ticket con il team di supporto del partner](https://partner.microsoft.com/support/?stage=1).
+È possibile [aprire un ticket con il team di supporto del partner](https://partner.microsoft.com/support/?stage=1) per assistenza.
 
 ________________
 ## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Deprecazione e ritiro delle API PUT qualificate per il processo di convalida dei clienti Education entro il 25 febbraio 2021 e ottenere la qualifica entro il 4 maggio 2021.
 
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-02-04
+- Data: 4 febbraio 2021
 - Funzionalità
 
 ### <a name="impacted-audience"></a>Destinatari interessati
@@ -181,7 +219,7 @@ Questo annuncio è un completamento per i miglioramenti apportati al centro per 
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-- **Aggiornare le nuove API**, se non è già stato fatto, per una transizione corretta e tempestiva
+- **Aggiornamento alle nuove API** per una transizione corretta e tempestiva
 - **Esaminare le nuove modifiche e la guida dell'API del centro** per i partner nelle risorse per la preparazione delle operazioni: miglioramenti apportati al [processo di convalida dei clienti di Education Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 - **Condividere queste informazioni con i team appropriati** all'interno dell'organizzazione e con i rivenditori per aiutarli a prepararsi a queste modifiche.
 

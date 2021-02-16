@@ -1,20 +1,20 @@
 ---
 title: Fornire supporto ai clienti
-ms.topic: article
-ms.date: 01/22/2021
+description: Informazioni sulle responsabilità del supporto tecnico per i partner nel programma CSP. Illustra il supporto per la fatturazione, la gestione delle sottoscrizioni e i problemi tecnici.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sulle responsabilità del supporto tecnico per i partner nel programma CSP. Illustra il supporto per la fatturazione, la gestione delle sottoscrizioni e i problemi tecnici.
 author: Kim-Davis
 ms.author: kimnich
+ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: f32c9b2db500fabe982c364e24f94fc449bc5218
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/22/2021
+ms.openlocfilehash: 315089a3a20fdd5f9de283494e735f54bd351806
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717675"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541028"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Fornire tipi diversi di supporto ai clienti
 
@@ -34,11 +34,15 @@ I clienti CSP non possono creare ticket di supporto. È necessario contattare il
 
 - Il supporto per i problemi **commerciali** è disponibile per tutti i partner del programma CSP
 
-- Supporto **tecnico** per i problemi: è possibile [confrontare i piani di supporto](https://partner.microsoft.com/support/partnersupport) per i partner o vedere di seguito per altre informazioni su un piano di supporto specifico:
+- Supporto **tecnico** per problemi: è possibile [confrontare i piani di supporto](https://partner.microsoft.com/support/partnersupport) per i partner o per ulteriori informazioni, vedere i collegamenti seguenti relativi a un piano di supporto specifico:
 
-  - [Supporto tecnico Premier per i partner](https://partner.microsoft.com/support/microsoft-services-premier-support) (tariffa di base)
-  - [Supporto avanzato per i partner](https://partner.microsoft.com/support/advanced-cloud-support) (tariffa di base)
-  - [Supporto cloud di firma](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits) (incluso con competenze Gold/Silver)
+  - [Supporto tecnico Premier per i partner](https://partner.microsoft.com/support/microsoft-services-premier-support) (tariffa base, utilizzo per tutti i prodotti)
+
+  - [Supporto avanzato per i partner](https://partner.microsoft.com/support/advanced-cloud-support) (base tariffaria, uso solo per prodotti cloud)
+
+  - [Supporto Cloud Signature](manage-your-partner-network-benefits.md) (incluso con i vantaggi MPN per le competenze Gold o Silver, da usare solo per i prodotti cloud)
+
+  - [Richieste di assistenza al supporto tecnico](manage-your-partner-network-benefits.md) (incluse con i vantaggi MPN per i partner Gold, Silver o Microsoft Action Pack, da usare solo per i prodotti locali recenti)
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Disponibilità di fatturazione, gestione delle sottoscrizioni e supporto tecnico 
 
@@ -49,12 +53,3 @@ Ogni servizio online presenta requisiti specifici e dettagliati per fornire fatt
 - [Sottoscrizioni di Azure vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Microsoft Office 365 sottoscrizioni vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
-
-
-
- 
-
- 
-
-
-

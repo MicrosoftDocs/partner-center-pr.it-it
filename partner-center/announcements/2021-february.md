@@ -9,16 +9,120 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: f1822a0bba6c14f48da3dfca3081bba5da3c6a2e
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490173"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100540999"
 ---
 # <a name="february-2021-announcements"></a>Annunci 2021 di febbraio
 
 In questa pagina vengono illustrati in dettaglio gli annunci per Microsoft Partner Center per il 2021 febbraio.
+
+________________
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Ora Live: DocuSign migrazione ad Adobe Sign per partner in Microsoft partner Agreements (MPAs)
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-02-16
+- Funzionalità
+
+### <a name="summary"></a>Riepilogo
+
+Microsoft eseguirà la transizione di tutte le operazioni di elaborazione della firma elettronica da DocuSign ad Adobe Sign.
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner Cloud Solution Provider (CSP) diretti e indiretti esistenti in MPA.
+
+### <a name="details"></a>Dettagli
+
+Nel febbraio 2021, Microsoft inizierà a eseguire la transizione di tutte le operazioni di elaborazione della firma elettronica da DocuSign ad Adobe Sign per i partner CSP.
+
+Si prevede una transizione priva di problemi. Al momento della migrazione, si riceverà un messaggio di posta elettronica da adobesign@adobesign.com , invece di DocuSign, ogni volta che è richiesta la firma elettronica. Questo messaggio di posta elettronica fornirà un collegamento alla pagina Web di Adobe Sign, in cui sarà necessario firmare. I partner Microsoft non dovranno firmare nuovamente i contratti esistenti, ma solo i contratti di canale futuri. I partner in Ucraina, Russia e Kazakistan saranno tenuti a firmare di nuovo in modo fisico o elettronico il rider ogni anno.
+
+È possibile trovare un esempio di un messaggio di posta elettronica di richiesta di firma del segno Adobe nella [raccolta di risorse](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf).
+
+Per un'esperienza ottimale, assicurarsi di eseguire le operazioni seguenti:
+
+1. Aggiungere adobesign@adobesign.com all'elenco Mittenti attendibili per evitare che i messaggi di posta elettronica di questo account si trovino direttamente nella cartella posta indesiderata.
+2. Collaborare con il reparto IT per:
+    - Aggiungere l' adobesign@adobesign.com indirizzo di posta elettronica all'elenco mittenti sicuri per assicurarsi che non sia incluso in alcuna regola di phishing prestabilita.
+    - Aggiornare i criteri di sicurezza esistenti per assicurarsi che tutti i destinatari necessari possano firmare la documentazione con la licenza Adobe Sign Enterprise.
+
+Le risorse relative alle domande sull'onboarding, sulle funzionalità e sui processi aziendali sono disponibili nella pagina del partner per la [migrazione di Adobe Sign](https://aka.ms/eSignature/External).
+
+Adobe Sign è la soluzione Microsoft preferita per la firma elettronica. La transizione ad Adobe Sign assicurerà un'esperienza di firma elettronica sicura ed efficiente che offrirà maggiore valore ai clienti e ai partner.
+
+Per ulteriori informazioni sulla firma elettronica dei documenti e sulla delega della firma elettronica, vedere le esercitazioni seguenti:
+
+- [Firma elettronica un documento | Esercitazioni di Adobe Sign](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Delegare un altro utente per firmare un documento | Esercitazioni di Adobe Sign](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Passaggi successivi
+
+Condividere queste informazioni con le parti interessate appropriate nella propria organizzazione.
+
+### <a name="questions"></a>Domande?
+
+In caso di domande, contattare il centro operativo locale usando lo [strumento di registrazione delle chiamate (CLT)](https://clt.partners.extranet.microsoft.com/CLT) o in [Esplora MS](https://www.explore.ms/). Seguire attentamente il processo CLT standard, in modo che la richiesta possa essere gestita il più rapidamente possibile.
+
+### <a name="change-log"></a>Registro delle modifiche
+
+- 15 gennaio 2021: pubblicazione originale 
+- 16 febbraio 2021: ora Live, nuova risorsa: pagina del partner per la migrazione di Adobe Sign 
+
+_____________
+
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Promemoria: Introduzione alla limitazione delle API ai partner che chiamano le API del centro per i partner
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-02-16
+- Crescita aziendale
+
+### <a name="summary"></a>Riepilogo
+
+Microsoft implementerà la limitazione API per garantire prestazioni più coerenti in un intervallo di tempo per i partner che chiamano le API del centro per i partner.
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Tutti i partner che trasagiscono tramite il programma Cloud Solution Provider (CSP)  
+
+### <a name="details"></a>Dettagli
+
+A partire da febbraio 2021, Microsoft implementerà la limitazione API per garantire prestazioni più coerenti entro un intervallo di tempo per i partner che chiamano le API del centro per i partner.La limitazione limita il numero di richieste a un servizio in un intervallo di tempo per evitare un utilizzo eccessivo delle risorse.Quando viene superata una soglia di limitazione, il centro per i partner limita eventuali altre richieste del client per un determinato periodo di tempo.
+
+**Vantaggi per i partner:**
+
+Il centro per i partner è progettato per gestire un volume elevato di richieste, ma se un numero eccessivo di richieste viene effettuato da pochi partner, la limitazione consente di mantenere le prestazioni e l'affidabilità ottimali per tutti i partner.  
+
+- La limitazione garantisce tempi di inattività minimi.
+- La limitazione riduce il numero di richieste di volume elevato, contribuendo a garantire prestazioni coerenti per tutti i partner.
+
+**API da limitare:**
+
+| Operazione | Documentazione del Centro per i partner |
+| ------ | ------- |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Get-all-of-a-customer-s-subscriptions](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Ottenere un abbonamento in base all'ID](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders  | [Ottenere tutti gli ordini dei clienti](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Ottenere un ordine in base all'ID](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [Ottenere lo stato del provisioning di un abbonamento](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Gestire gli ordini e gestire una sottoscrizione](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons  | [Ottenere un elenco dei componenti aggiuntivi per un abbonamento](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements | [Ottenere un elenco di diritti di Azure per una sottoscrizione](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [Ottenere lo stato della registrazione di un abbonamento](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [Ottenere tutti i trasferimenti di un cliente](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Ottenere lo stato di aggiornamento dei prodotti](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [Ottenere un elenco delle offerte di conversione della copia di valutazione](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+Si consiglia vivamente ai partner di usare l'API del log attività per una maggiore efficienza ed evitare la limitazione delle richieste.Per altre informazioni su questa funzionalità, vedere [qui](/partner-center/develop/api-throttling-guidance)i dettagli.  
+
+### <a name="next-steps"></a>Passaggi successivi
+
+Esaminare le [risorse](/partner-center/develop/api-throttling-guidance)   di questo argomento ed eseguire le operazioni necessarie.  
 
 _______________
 

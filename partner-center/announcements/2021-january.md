@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99974757"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541017"
 ---
 # <a name="january-2021-announcements"></a>Annunci di gennaio 2021
 
@@ -348,7 +348,9 @@ Tutti i partner che trasagiscono tramite il programma Cloud Solution Provider (C
 
 A partire da febbraio 2021, Microsoft implementerà la limitazione API per garantire prestazioni più coerenti entro un intervallo di tempo per i partner che chiamano le API del centro per i partner.La limitazione limita il numero di richieste a un servizio in un intervallo di tempo per evitare un utilizzo eccessivo delle risorse.Quando viene superata una soglia di limitazione, il centro per i partner limita eventuali altre richieste del client per un determinato periodo di tempo.
   
-**Vantaggi per i partner:** Il centro per i partner è progettato per gestire un volume elevato di richieste, ma se un numero eccessivo di richieste viene effettuato da pochi partner, la limitazione consente di mantenere le prestazioni e l'affidabilità ottimali per tutti i partner.  
+**Vantaggi per i partner:**
+
+Il centro per i partner è progettato per gestire un volume elevato di richieste, ma se un numero eccessivo di richieste viene effettuato da pochi partner, la limitazione consente di mantenere le prestazioni e l'affidabilità ottimali per tutti i partner.  
 
 - La limitazione garantisce tempi di inattività minimi.
 - La limitazione riduce il numero di richieste di volume elevato, contribuendo a garantire prestazioni coerenti per tutti i partner.

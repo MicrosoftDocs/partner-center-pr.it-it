@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 831fbc294bfd82caef77489f74747bb32cf0b12c
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100334574"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645640"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Operazioni bulk per le opportunità di co-selling con file con valori delimitati da virgole (CSV)
 
@@ -71,7 +71,7 @@ Riga indirizzo cliente 2|No|Indirizzo della riga 2 della società del cliente.|N
 Città del cliente|Sì|Città in cui si trova l'organizzazione del cliente.|Redmond
 Customer State|No|Stato in cui si trova l'organizzazione del cliente.|Washington
 Customer Postal Code|No|CAP della regione in cui si trova l'organizzazione del cliente.|98052
-Customer Country|Sì|Paese/area geografica in cui si trova l'organizzazione del cliente. Usare i codici paese di tre lettere come indicato [qui]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|USA
+Customer Country|Sì|Paese/area geografica in cui si trova l'organizzazione del cliente. Usare i codici paese a due lettere come indicato [qui]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|US
 ID del cliente D-U-N-S|No|Provare a recuperare l'ID DUNS dell'organizzazione del cliente. Ciò consentirà di individuare più rapidamente l'organizzazione del cliente sul lato Microsoft, che facilita l'assegnazione di venditori più veloci. È possibile ottenere l'ID DUNS gratuitamente dal [sito Web](https://www.dnb.com/duns-number/lookup.html).|81466849
 Nome contatto cliente|Dipende da|Il primo nome è obbligatorio solo se è necessaria la Guida di Microsoft. Il primo nome del contatto principale dell'organizzazione del cliente che lavora a questa trattativa.|John
 Cognome contatto cliente|Dipende da|Il cognome è obbligatorio solo se è necessaria la Guida di Microsoft. Il cognome del contatto principale dell'organizzazione del cliente che lavora a questa trattativa.|Customer

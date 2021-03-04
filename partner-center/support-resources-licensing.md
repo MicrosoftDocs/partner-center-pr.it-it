@@ -1,29 +1,26 @@
 ---
 title: Risorse di Microsoft Licensing
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: I partner Microsoft possono avere domande sull'uso di diversi programmi di licenza Microsoft. Questo articolo offre le risorse che possono essere utili.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999755"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756819"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Guida alle risorse di licenza per partner Microsoft 
 
-**Si applica a**
-
-- Partner Microsoft MPN, partner CSP e altri utenti
 
 Questo articolo condivide le risorse che consentono di rispondere alle domande relative alle licenze partner.
 
-Il partner Microsoft può partecipare a uno o più programmi, canali o contratti di licenza. Se si lavora nel dashboard del centro per i partner, possono essere inclusi programmi come il programma Cloud Solution Provider (CSP) o il programma Microsoft Partner Network (MPN). Altri programmi di licenza includono Enterprise Agreement (EA) licenses, Volume Licensing (VL), il programma di licenza OEM, il programma di formazione o i voucher Software Assurance o il programma di licenza Open.
+Il partner Microsoft può partecipare a uno o più programmi, canali o contratti di licenza. Se si lavora nel dashboard del centro per i partner, possono essere inclusi programmi come il programma Cloud Solution Provider (CSP) o il programma Microsoft Partner Network (MPN). Altri programmi di licenza includono Contratto Enterprise (EA) licenses, Volume Licensing (VL), il programma di licenza OEM, il programma di formazione o i voucher Software Assurance o il programma di licenza Open.
 
 A ogni programma sono associati contratti e termini specifici. Analogamente, i prodotti specifici utilizzati potrebbero avere contratti di licenza aggiuntivi, specifici del prodotto, associati al loro utilizzo.
 
@@ -32,7 +29,7 @@ In caso di domande sul funzionamento di questi programmi, queste risorse possono
 > [!NOTE]
 > Per assistenza con domande più dettagliate sulle licenze o con una quotazione dei clienti, iniziare con il provider indiretto assegnato al programma di licenza (per il programma CSP) o il distributore del programma. Sono spesso i punti di contatto iniziali e migliori per domande di licenza specifiche o per domande sulla creazione di citazioni dei clienti, acquisti di SKU o prerequisiti. Se non si dispone di un partner per questo ruolo, vedere [trovare un partner](find-a-partner.md) per individuarne uno.
 >
-> È anche possibile contattare i contatti Microsoft per sfruttare un team interno di esperti di gestione delle licenze. Se non si dispone di contatti Microsoft specifici, passare a [supporto partner](https://partner.microsoft.com/support/v2/?stage=1) e digitare **Licensing** nel campo **problemi** della pagina del supporto tecnico. Qui è possibile ottenere informazioni sulle altre risorse di supporto per le licenze che potrebbero essere disponibili. Se è ancora necessaria assistenza, è anche possibile registrare un ticket di supporto per rispondere a domande specifiche sulle licenze o individuare lo SKU del prodotto corretto.
+> È anche possibile contattare i contatti Microsoft per sfruttare un team interno di esperti di gestione delle licenze. Se non si dispone di contatti Microsoft specifici, passare a [supporto partner](https://partner.microsoft.com/support/v2/?stage=1) e digitare **Licensing** nel campo **problemi** della pagina del supporto tecnico. 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>Risorse generali relative alle licenze e alla formazione delle licenze
 
@@ -69,7 +66,7 @@ In caso di domande specifiche sull'evasione delle licenze, il pagamento o il fin
 |Per  | Vedere  |
 |:------------------|:--------------- |
 |Rispondere alle domande di evasione sui supporti di installazione nel programma per contratti multilicenza. | [Pagina di evasione delle licenze](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
-|Risposte alle domande sull'evasione dei Servizi online per i seguenti programmi di registrazione: Enterprise Agreement (EA), registrazione server e cloud (SCE) e sottoscrizione Open Value (OVS).  | [Formazione e risorse di Microsoft Volume Licensing Center](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
+|Risposte alle domande sull'evasione dei Servizi online per i seguenti programmi di registrazione: Contratto Enterprise (EA), registrazione server e cloud (SCE) e sottoscrizione Open Value (OVS).  | [Formazione e risorse di Microsoft Volume Licensing Center](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
 |Risposte alle domande sull'evasione relative Servizi online associate al contratto per i prodotti e i servizi Microsoft (MPSA).  | [Risorse di formazione e risorse di Microsoft Business Center](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) o [Panoramica sulle licenze mpsa](https://www.microsoft.com/licensing/mpsa/default)  |  
 |Risposte alle domande sull'evasione relative Servizi online associate al programma Cloud Solution Provider (CSP).  | [Come vendere le sottoscrizioni CSP ai clienti](customer-subscriptions.md)  |
 |Risposte alle domande sulle opzioni di pagamento e di finanziamento Microsoft.  | [Domande frequenti sul programma di finanziamento Microsoft](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |

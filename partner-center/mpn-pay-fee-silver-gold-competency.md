@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042685"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757394"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Come pagare la tariffa associata a una competenza Silver o Gold
 
@@ -37,7 +37,7 @@ In caso contrario, seguire questa procedura per pagare la tariffa per una compet
 
 - Sono già stati soddisfatti i [requisiti](https://partner.microsoft.com/membership/competencies) per ottenere una specifica competenza Silver o Gold.
 
-- È stato assegnato il ruolo di centro per i partner di [amministratore globale o MPN partner](https://docs.microsoft.com/partner-center/permissions-overview). Se si è un utente guest senza uno di questi ruoli, verrà negato l'accesso ad alcune delle pagine del centro per i partner descritte di seguito. In tal caso, [contattare l'amministratore globale](https://docs.microsoft.com/partner-center/find-your-role) e chiedere di assegnare il ruolo appropriato. 
+- È stato assegnato il ruolo di centro per i partner di [amministratore globale o MPN partner](./permissions-overview.md). Se si è un utente guest senza uno di questi ruoli, verrà negato l'accesso ad alcune delle pagine del centro per i partner descritte di seguito. In tal caso, [contattare l'amministratore globale](./find-your-role.md) e chiedere di assegnare il ruolo appropriato. 
 
 1. Usando le credenziali dell'account di lavoro dell'organizzazione, accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
 
@@ -54,7 +54,7 @@ In caso contrario, seguire questa procedura per pagare la tariffa per una compet
 
 4. Nella pagina **Dettagli acquisto** esaminare e confermare i dettagli.
 
-   Altre informazioni sull'aggiornamento delle [informazioni sull' **ID fiscale** della società](https://docs.microsoft.com/partner-center/organization-tax-info) o sulla fattura della società [ **a/venduto all'** indirizzo della società](https://docs.microsoft.com/partner-center/mpn-get-action-pack).
+   Altre informazioni sull'aggiornamento delle [informazioni sull' **ID fiscale** della società](./organization-tax-info.md) o sulla fattura della società [ **a/venduto all'** indirizzo della società](./mpn-get-action-pack.md).
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="L'appartenenza offre la pagina dei dettagli di acquisto con le preferenze di pagamento." border="false":::
 

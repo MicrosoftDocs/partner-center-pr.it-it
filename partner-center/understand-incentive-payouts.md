@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492722"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755859"
 ---
 # <a name="view-your-incentives-program-details"></a>Visualizza i dettagli del programma incentives
-
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -37,7 +33,7 @@ Questo articolo illustra come accedere alla pagina **Panoramica My incentives** 
 
 ## <a name="access-the-incentives-overview-page"></a>Accedere alla pagina Panoramica degli incentivi
 
-1. Accedere al dashboard del [centro](https://partner.microsoft.com/dashboard)per i partner.
+1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard).
 1. Selezionare **incentivi**, quindi **Panoramica** dal menu.
 1. Visualizzare il riepilogo dei guadagni e dei pagamenti nella parte superiore della pagina e ulteriori dettagli nella tabella riportata di seguito. È anche possibile ordinare, raggruppare ed espandere la tabella associata:
 
@@ -47,11 +43,11 @@ Questo articolo illustra come accedere alla pagina **Panoramica My incentives** 
    - Per visualizzare altri dettagli sulle registrazioni in un gruppo specifico, selezionare il simbolo della freccia di espansione alla fine di una determinata riga. Questa freccia di espansione espande la visualizzazione.
 1. Se è necessaria un'ulteriore azione per la registrazione in un programma, queste informazioni verranno visualizzate nella colonna **Stato**. In questo caso, selezionare il simbolo della freccia di espansione per ottenere informazioni sui passaggi successivi da eseguire.
 
-## <a name="enrollment-status"></a>Stato registrazione
+## <a name="enrollment-status"></a>Stato della registrazione
 
 La tabella seguente illustra i diversi Stati di registrazione indicati nella colonna **stato** .
 
-| **Stato**         | **Viene visualizzato quando** |
+| **Status**         | **Viene visualizzato quando** |
 |:------------------------------------|:------------------|
 | Azione richiesta  | Il partner ha accettato un invito a iscriversi a un programma di incentivi, ma potrebbe dover aggiornare le informazioni bancarie o fiscali. Vedere la colonna **azioni necessarie** per i passaggi successivi o i collegamenti per aggiornare le informazioni bancarie o fiscali nel centro per i partner. |
 | Non disponibile  | Il programma di incentivazione specifico non è più disponibile nel sistema di incentivi. |
@@ -76,4 +72,5 @@ Queste informazioni includono i guadagni e i pagamenti per gli incentivi totali,
 È anche possibile usare l' [API](https://apidocs.microsoft.com/services/partnerpayouts) per i pagamenti dei partner per connettersi e ottenere direttamente i dati relativi a transazioni e pagamenti dei pagamenti. Per ulteriori informazioni, vedere le istruzioni relative ai [pagamenti](payout-statement.md) .
 
 ## <a name="next-steps"></a>Passaggi successivi
+
 - [Estratti conto](payout-statement.md)

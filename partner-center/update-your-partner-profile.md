@@ -1,22 +1,22 @@
 ---
-title: Verificare il profilo dell'organizzazione
+title: Verificare il profilo della società
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Descrive come verificare i dettagli della società, ad esempio contatto principale, indirizzo e informazioni sul programma. Puoi anche aggiornare l'indirizzo legale e di fatturazione.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 01/14/2021
-ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.date: 03/03/2021
+ms.localizationpriority: medium
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 9cb0c94a97a7fb80ec3e8285bb1ed68628c9831b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235920"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755785"
 ---
-# <a name="verify-your-organization-profile-information-in-partner-center"></a>Verificare le informazioni relative al profilo dell'organizzazione nel Centro per i partner
+# <a name="verify-your-company-profile-information-in-partner-center"></a>Verificare le informazioni sul profilo aziendale nel centro per i partner
 
 **Ruoli appropriati**
 
@@ -27,9 +27,7 @@ Al primo accesso al Centro per i partner come amministratore globale, devi verif
 
 Il profilo partner è costituito dalle informazioni aziendali legali, dal nome del contatto principale e dall'indirizzo di posta elettronica, dai programmi a cui la società partecipa e, se pertinente, dalle altre società fuse con l'azienda legale. Verificare che il nome e l'indirizzo della società nel profilo aziendale legale siano privi di errori di ortografia e abbreviazioni e che corrispondano esattamente ai record ufficiali di iscrizione al registro delle imprese. Se si opera come impresa individuale, è necessario usare come ragione sociale il nome della società.
 
->[!Important]
->- Per gli account MPN, la ragione sociale può essere aggiornata sia dall'amministratore globale sia dall'amministratore degli account.
->- Per gli account di rivenditore indiretto CSP, la ragione sociale può essere aggiornata dall'amministratore globale. 
+
 
 ## <a name="locate-the-legal-business-profile"></a>Individuare il profilo aziendale legale
 
@@ -45,46 +43,48 @@ Se le altre società sono state unite nell'azienda legale, è possibile verifica
 
 Aggiornare l'indirizzo legale nel Centro per i partner.
 
+>[!Important]
+>- Per gli account MPN, la ragione sociale può essere aggiornata sia dall'amministratore globale sia dall'amministratore degli account.
+>- Per gli account rivenditore indiretti CSP, solo l'amministratore globale può aggiornare il nome della società legale. 
+
 1. Passare a **Impostazioni** e selezionare **Profilo organizzazione**.
 
-
 2. Selezionare **Note legali** e quindi il profilo aziendale legale che si vuole usare.
+ 
+1. Quando si seleziona **Invia**, l'identità legale viene rivalutata e viene inviato un altro messaggio di posta elettronica che sarà necessario accettare.
 
 >[!Important]
->I partner Cloud Solution Provider (CSP) non possono modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è collegato al tenant e ai servizi, nonché alla valuta con cui si eseguono le operazioni aziendali. Se non si è iscritti al programma CSP, è possibile modificare il paese associato all'indirizzo legale. Non è possibile aggiornare la ragione sociale nel Centro per i partner se lo stato di convalida è "Autorizzato". Per modificare il nome, sarà necessario [creare un ticket di supporto](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>I partner Cloud Solution Provider (CSP) non possono modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è collegato al tenant e ai servizi, nonché alla valuta con cui si eseguono le operazioni aziendali. Se non si è iscritti al programma CSP, è possibile modificare il paese associato all'indirizzo legale. I partner diretti e i provider indiretti non possono modificare il nome legale della propria azienda se lo stato di convalida è "autorizzato". Per modificare il nome, sarà necessario [creare un ticket di supporto](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
-3. Quando si seleziona **Invia**, l'identità legale viene rivalutata e viene inviato un altro messaggio di posta elettronica che sarà necessario accettare.
+
 
 ## <a name="update-your-mpn-global-business-account"></a>Aggiornare l'account aziendale globale MPN
 
-Se durante la migrazione da Partner Membership Center al Centro per i partner è stata identificata come azienda legale un'azienda errata, è possibile sostituirla con l'azienda legale corretta.
+Se durante la migrazione da partner Membership Center al centro per i partner, l'account aziendale errato è stato identificato come azienda legale, è possibile modificarlo con l'account aziendale valido.
 
-1. Da **Impostazioni account** passare a **Profilo organizzazione** e quindi a **Note legali**.
+Per eseguire questi aggiornamenti, è necessario essere l'amministratore globale o l'amministratore dell'account. Informazioni su come [gestire gli account del percorso globale MPN](manage-locations.md)
 
-1.  Scorrere verso il basso fino a **Posizioni** e verificare che l'azienda legale desiderata sia presente nell'elenco. In caso contrario, è possibile aggiungerla. Selezionare **Aggiungi percorso**. Aggiungere i dettagli relativi alla posizione e fare clic su **Salva**.
-
-2. Scorrere quindi verso l'alto fino a **Update legal business profile** (Aggiorna profilo aziendale legale).
-
-3. Verrà visualizzata la posizione appena aggiunta. Selezionare questa e l'azienda da usare come azienda legale e quindi selezionare **Salva**.
 
 ## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>Aggiornare l'ID MPN associato all'account CSP
 
 Per aggiornare l'ID MPN associato all'account CSP:
 
-1. Accedere al dashboard Centro per i partner e selezionare **Impostazioni**.
+1. Accedere al [Dashboard](https://partner.microsoft.com/en-us/dashboard/home) del centro per i partner come amministratore globale con le credenziali dell'account CSP e quindi selezionare **Settings (impostazioni**). Le credenziali MPN e CSP potrebbero essere diverse.
  
 1. Selezionare **Identificatori** da **Impostazioni account**.
 
 1. Nella sezione **CSP** usare il collegamento **Aggiorna** per aggiornare l'ID MPN associato all'account CSP. 
 
 
-## <a name="update-your-billing-address"></a>Aggiornare l'indirizzo di fatturazione
+## <a name="update-your-csp-legal-billing-address"></a>Aggiornare l'indirizzo di fatturazione legale CSP
 
 Gli amministratori globali, gli amministratori di fatturazione o gli agenti di amministrazione possono modificare l'indirizzo visualizzato nella fattura in **Profili di pagamento e fiscali**. Tuttavia, non è possibile modificare il nome della società nella fattura a causa di una limitazione del sistema di fatturazione.
+
+
 
 ## <a name="next-steps"></a>Passaggi successivi
 
 - [Controllare lo stato di verifica](verification-responses.md)
- 
+
 - [Gestire le sedi MPN](manage-locations.md)
 

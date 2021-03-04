@@ -1,7 +1,7 @@
 ---
 title: Ottenere informazioni dettagliate sulle segnalazioni
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Esaminare periodicamente i dati delle informazioni dettagliate sulle segnalazioni nel Centro per i partner per visualizzare le aree di miglioramento o le tendenze che richiedono attenzione per raggiungere gli obiettivi aziendali.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3496e57e9a9947d725a64d70b317779182f77583
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
-ms.translationtype: HT
+ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422391"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756490"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Ottenere informazioni dettagliate sulle segnalazioni nel Centro per i partner ed esaminare lo stato delle segnalazioni
 
@@ -59,13 +59,13 @@ Le metriche relative alla variazione percentuale (visualizzate in rosso o verde,
 
 Questa sezione mostra un indicatore visivo del modo in cui le trattative passano da uno stato all'altro attraverso il ciclo di vita. È possibile visualizzare l'intero ciclo di vita in base al volume e al valore delle trattative in USD secondo il pivot principale per questa sezione. La prima sezione è etichettata con lo stato e con il tipo di trattativa per fornire un indicatore visivo del volume o del valore in base al tipo. È anche disponibile una sezione **Segnalazioni del passato** che viene usata per indicare le trattative accettate/rifiutate o contrassegnate come vinte/perse nel periodo di tempo selezionato per il report. È possibile applicare filtri per visualizzare lo stato di avanzamento delle trattative tra le varie fasi del ciclo di vita.
 
-:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Immagine che mostra la scheda riepilogativa dell'analisi delle opportunità di co-selling.":::
+:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Immagine che mostra l'imbuto di conversione per le segnalazioni.":::
 
 ## <a name="deals-by-geography"></a>Trattative per area geografica
 
 In questa sezione vengono visualizzati i paesi e/o le aree geografiche da cui sono arrivate le segnalazioni, con i dettagli relativi a ogni paese/area geografica. È disponibile una vista tabella dei dettagli delle trattative per ogni paese insieme a una vista mappa di tutti i paesi. È possibile fare clic su un paese specifico nella tabella oppure sulla vista mappa per ingrandire un paese specifico.
 
-:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Immagine che mostra la scheda riepilogativa dell'analisi delle opportunità di co-selling.":::
+:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Immagine che mostra la distribuzione geografica delle segnalazioni.":::
 
 ## <a name="deals-by-solutions"></a>Trattative per soluzioni
 
@@ -77,13 +77,13 @@ In base alla selezione del pivot, è possibile visualizzare le prestazioni delle
 
 La tabella include le trattative totali in cui è inclusa la soluzione e gli stati corrispondenti, ad esempio le trattative vinte, perse e scadute, insieme al valore totale delle trattative vinte e perse espresso nella valuta USD. A destra della tabella è inoltre presente un grafico relativo alla tendenza delle trattative che mostra i conteggi totali delle trattative e il valore delle trattative vinte, nella valuta USD, in base alla soluzione selezionata. Per impostazione predefinita, sono selezionate tutte le soluzioni.
 
-:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Immagine che mostra la scheda riepilogativa dell'analisi delle opportunità di co-selling.":::
+:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Immagine che mostra le prestazioni delle soluzioni.":::
 
 ## <a name="declined--lost-reasons"></a>Motivi trattative rifiutate e perse
 
 Questa sezione consente di analizzare i motivi per cui le trattative vengono contrassegnate come **rifiutate** o **perse** dall'azienda. Le opzioni di queste rappresentazioni corrispondono ai motivi scelti dai venditori durante la chiusura della trattativa come rifiutata o persa.
 
-:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Immagine che mostra la scheda riepilogativa dell'analisi delle opportunità di co-selling.":::
+:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Immagine che mostra i motivi selezionati dal partner quando rifiuta una trattativa o la indica come persa.":::
 
 ## <a name="comparison-charts"></a>Grafici di confronto
 
@@ -96,13 +96,13 @@ Le tre dimensioni che è possibile scegliere per confrontare i dati sono
 
 Quando è selezionato il tipo di trattativa, è possibile confrontare le prestazioni delle segnalazioni in relazione alle opportunità di co-selling e alle trattative private. Per i mercati e le soluzioni, è possibile scegliere fino a tre diverse opzioni per il confronto delle prestazioni. Il primo grafico, che è un grafico a barre, presenterà i dati con una tendenza mensile in base al pivot principale, ovvero il volume o il valore delle trattative vinte. A destra del grafico a barre è inoltre presente un grafico a torta, che mostra la distribuzione per percentuale per gli stessi dati.
 
-:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Immagine che mostra la scheda riepilogativa dell'analisi delle opportunità di co-selling.":::
+:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Immagine che mostra la sezione di confronto.":::
 
 ## <a name="raw-data-table"></a>Tabella dei dati non elaborati
 
 La tabella seguente con tutti i dati non elaborati relativi alle opportunità di co-selling consentirà di **esportare** rapidamente i dati per qualsiasi analisi dettagliata o personalizzata che si desideri eseguire.
 
-:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Immagine che mostra la scheda riepilogativa dell'analisi delle opportunità di co-selling.":::
+:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Immagine che mostra la tabella dei dati non elaborati per le segnalazioni.":::
 
 ## <a name="no-data"></a>Nessun dato
 
@@ -114,10 +114,10 @@ Se con l'accesso all'analisi delle opportunità di co-selling si ottiene un graf
 - Non sono presenti record che soddisfano i filtri applicati. Provare a reimpostare i filtri.
 - Si verifica un ritardo tra la modifica dello stato dell'opportunità e l'aggiornamento corrispondente nel report di analisi. Controllare il report dopo 24 ore.
 
-:::image type="content" source="images/referrals/nodata.png" alt-text="Immagine che mostra la scheda riepilogativa dell'analisi delle opportunità di co-selling.":::
+:::image type="content" source="images/referrals/nodata.png" alt-text="Immagine che mostra una visualizzazione senza dati per le segnalazioni.":::
 
 > [!NOTE]
-> Nella pagina **Informazioni dettagliate sulla segnalazione** vengono visualizzati solo i dati relativi alle segnalazioni generate nel Centro per i partner. Non vengono visualizzati i dati relativi alle segnalazioni generate tramite [Partner Sales Connect](https://support.microsoft.com/help/3170447/learn-to-use-partner-center-sales-connect) o altri strumenti.
+> Nella pagina **Informazioni dettagliate sulla segnalazione** vengono visualizzati solo i dati relativi alle segnalazioni generate nel Centro per i partner. Non vengono visualizzati i dati relativi alle segnalazioni generate tramite [Partner Sales Connect](psc-to-pc.md) o altri strumenti.
 
 > [!TIP]
 > Per informazioni sulle prestazioni del tuo profilo di business nell'esperienza [Trova un provider di soluzioni](https://www.microsoft.com/solution-providers/home), consulta la [pagina Analizzare il profilo di business](analyze-your-marketing-profile.md).

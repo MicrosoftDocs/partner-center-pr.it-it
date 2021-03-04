@@ -6,19 +6,209 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: brentserbus
 ms.author: brserbus
-ms.custom: announcement
+ms.custom: references_regions
 ms.localizationpriority: high
-ms.date: 02/04/2021
-ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: dcdbbda3a93bdf80dfe2c8eacc74ea4f78a7d07e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540999"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756343"
 ---
 # <a name="february-2021-announcements"></a>Annunci 2021 di febbraio
 
 In questa pagina vengono illustrati in dettaglio gli annunci per Microsoft Partner Center per il 2021 febbraio.
+
+________________
+## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> Le API di qualificazione PUT sono state ritirate e ritirate in maggio
+
+### <a name="categories"></a>Categorie
+
+- Data: 25 febbraio 2021
+- Funzionalità
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner che vendono soluzioni accademiche, no profit e GCC tramite il programma Cloud Solution Provider tramite l'API del centro per i partner
+
+### <a name="details"></a>Dettagli
+
+Questo annuncio è un completamento per i miglioramenti apportati al centro per i partner [rilasciati nel dicembre](2020-december.md#1). Come parte di questa versione, sono state distribuite nuove API per le qualifiche GET e POST e, di conseguenza, **le API per le qualifiche put esistenti sono state ritirate e la qualificazione Get verrà ritirata entro il 4 maggio 2021**. Al termine di questa operazione, sarà necessario passare all'utilizzo delle nuove API del centro per i partner per acquistare le offerte di formazione. In modo analogo, è necessario usare la nuova API GET Qualifications per acquistare le offerte prequalificate senza profit e GCC.
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- **Aggiornamento alle nuove API** per una transizione corretta e tempestiva
+- **Esaminare le nuove modifiche e la guida dell'API del centro** per i partner nelle risorse per la preparazione delle operazioni: miglioramenti apportati al [processo di convalida dei clienti di Education Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Condividi queste informazioni con i team appropriati** all'interno dell'organizzazione e con i rivenditori per aiutarli a prepararsi a queste modifiche
+
+### <a name="questions"></a>Domande?
+
+Per eventuali domande relative a questa notifica, contattare il [supporto tecnico del Centro per i partner](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+### <a name="change-log"></a>Registro delle modifiche
+
+- Febbraio: sequenze temporali aggiornate per la deprecazione di GET & le qualifiche PUT
+- Gennaio: promemoria dei futuri deprecazioni di GET & le qualifiche PUT
+
+________________
+## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Condividi le offerte di co-selling su vasta scala usando la funzionalità per operazioni bulk del centro per i partner
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-02-25
+- Sicurezza e conformità migliorate
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Co-selling partner nel centro per i partner
+
+### <a name="summary"></a>Riepilogo
+
+I partner di co-selling possono ora esportare e importare opportunità su larga scala usando la nuova funzionalità per operazioni bulk di file CSV del centro per i partner.
+
+### <a name="details"></a>Dettagli
+
+I partner di co-selling possono ora esportare e importare opportunità su larga scala usando la nuova funzionalità per operazioni bulk di file CSV del centro per i partner. In questo modo si unifica l'esperienza di condivisione dei riferimenti e si garantisce la continuità aziendale durante il passaggio da partner Sales Connect. È anche un'alternativa agli investimenti nell'API del centro per i partner.
+
+Per i dettagli completi, vedere l'articolo indicato nella sezione successiva. 
+
+### <a name="next-steps"></a>Passaggi successivi
+
+Per altre informazioni sulla funzionalità per operazioni bulk, vedere [operazioni bulk per le opportunità di co-selling con file con valori delimitati da virgole (CSV)](https://docs.microsoft.com/partner-center/bulk-operations).
+
+### <a name="questions"></a>Domande?
+
+Per altre domande, contattare il [supporto tecnico](https://partner.microsoft.com/support/?stage=1) .
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>Esegui la migrazione delle tue offerte da partner Sales Connect (PSC) usando la nuova funzionalità di migrazione di Deal
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-02-25
+- Funzionalità
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner con deals in PSC
+
+### <a name="summary"></a>Riepilogo
+
+I partner con offerte in Partner Sales Connect (PSC) possono sfruttare la nuova esperienza di co-selling nel centro per i partner eseguendo la migrazione delle offerte di co-selling usando la funzionalità di migrazione dell'affare.
+
+### <a name="details"></a>Dettagli
+
+I partner con le offerte di PSC possono ora muoversi più velocemente per sfruttare la nuova esperienza di co-selling all'interno del centro per i partner ed eliminare il lavoro su due piattaforme eseguendo la migrazione delle offerte di co-selling al centro per i partner usando la funzionalità di migrazione degli accordi.
+
+Per i dettagli completi, vedere l'articolo indicato nella sezione successiva.
+
+### <a name="next-steps"></a>Passaggi successivi
+
+Per ulteriori informazioni sulla funzionalità di migrazione degli accordi, vedere la sezione relativa alla **migrazione delle offerte di PSC** nella [Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)](https://docs.microsoft.com/partner-center/psc-to-pc).
+
+### <a name="questions"></a>Domande?
+
+Per altre domande, contattare il [supporto tecnico](https://partner.microsoft.com/support/?stage=1) .
+
+________________
+## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a>Maggiore flessibilità con le offerte di co-selling guidato da partner
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-02-25
+- Funzionalità
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner con soluzioni di co-selling pronte
+
+### <a name="summary"></a>Riepilogo
+
+I partner possono ora invitare i venditori Microsoft dopo la creazione di un contratto di co-selling guidato da partner per creare un'attività di vendita collaborativa.
+
+### <a name="details"></a>Dettagli
+
+I partner hanno ora la possibilità di invitare i venditori Microsoft dopo la creazione di un contratto di co-selling guidato da partner per creare un'attività di vendita collaborativa. I dettagli dell'operazione non vengono condivisi con il team di vendita Microsoft fino a quando il partner non cerca in modo esplicito la guida per i venditori Microsoft. Questo scenario è anche idoneo per l'incentivo per i venditori Microsoft.
+
+Si noti che gli accordi di co-selling a livello di partner possono essere aggiornati al co-selling attivo in qualsiasi momento prima della chiusura della trattativa.
+
+Per i dettagli completi, vedere l'articolo indicato nella sezione successiva.
+
+### <a name="next-steps"></a>Passaggi successivi
+
+Per altre informazioni, vedere la guida alla [gestione di opportunità di co-selling nel centro](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities)per i partner.
+
+### <a name="questions"></a>Domande?
+
+Per altre domande, contattare il [supporto tecnico](https://partner.microsoft.com/support/?stage=1) .
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a> Modifiche ai requisiti di onboarding dei clienti di Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-02-25
+- Sicurezza e conformità migliorate
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner di fatturazione diretta CSP e provider indiretti con clienti nuovi o esistenti nei paesi elencati nella sezione successiva.
+
+### <a name="summary"></a>Riepilogo
+
+Nell'ambito del nostro impegno per aiutare i partner e i clienti a eseguire le attività in base alla fiducia, Microsoft richiederà ulteriori informazioni sui clienti, a partire dal 25 marzo 2021.
+
+### <a name="details"></a>Dettagli
+
+Microsoft si impegna a fornire un metodo di convalida dei clienti conforme e sicuro per la vendita di sottoscrizioni cliente nel programma CSP. Il 25 marzo 2021 verranno introdotti i miglioramenti apportati all'interfaccia utente e alle API del centro per i partner che influiranno sui partner che soddisfano entrambi i criteri seguenti:
+
+1. Il partner ha una relazione di fatturazione diretta con Microsoft (ovvero, è un partner con fatturazione diretta o un provider indiretto).
+2. Il partner opera con clienti nuovi o esistenti nei paesi seguenti:
+    - Thailandia
+    - Vietnam
+    - Turchia
+    - Polonia
+    - Sud Africa
+    - India
+    - Brasile
+    - Iraq
+    - Myanmar
+    - Sud Sudan
+    - Arabia Saudita
+    - Emirati Arabi Uniti
+    - Venezuela
+
+I partner che soddisfano i criteri dovranno inviare un **identificatore legale** del cliente (noto anche come **Locanda dell'organizzazione** del cliente) e il **numero di telefono** quando stanno caricando nuovi clienti o modificando i dettagli dei clienti esistenti. I partner possono anche immettere un **secondo nome** facoltativo per il cliente.
+
+I partner che svolgono attività con clienti nuovi o esistenti nei paesi seguenti hanno già eseguito l'onboarding di una versione precedente a novembre 2020.
+
+- Armenia
+- Azerbaigian
+- Bielorussia
+- Ungheria
+- Kazakhstan
+- Kirghizistan
+- Moldova
+- Russia
+- Tagikistan
+- Ucraina
+- Uzbekistan
+
+I partner con clienti nel resto del mondo avranno la possibilità di usare il 25 marzo 2021 per immettere l' **identificatore legale**, il **numero di telefono** e il **secondo nome** per i clienti come dettagli facoltativi.
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- Per istruzioni più dettagliate, vedere la documentazione tecnica e le domande frequenti nella [raccolta di partner](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dedicata (accesso richiesto).
+- Prepararsi ad adottare le modifiche usando l'API del Centro per i partner e l'esperienza utente Web. Saranno disponibili API e SDK a scopo di test.
+- Assicurarsi di inviare i dati aggiuntivi quando si caricano nuovi clienti o si modificano i dettagli del cliente esistente.
+- Se si usa la soluzione di un fornitore del pannello di controllo (CPV), rivolgersi a tale fornitore.
+
+### <a name="questions"></a>Domande?
+
+In caso di domande relative all'identificatore legale (noto anche come INN o codice identificativo del contribuente), contattare il consulente fiscale o l'ufficio fiscale locale. Microsoft non è in grado di fornire indicazioni sulle imposte.
+
+Se è necessario supporto per le operazioni con Microsoft, [aprire una richiesta di servizio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (accesso richiesto).
 
 ________________
 ## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Ora Live: DocuSign migrazione ad Adobe Sign per partner in Microsoft partner Agreements (MPAs)
@@ -245,7 +435,7 @@ Le valutazioni Premium sono un componente aggiuntivo facoltativo di Compliance M
 Esaminare le risorse seguenti per questo argomento e condividere le informazioni con le parti interessate appropriate all'interno dell'organizzazione.   
 
 - [Sicurezza e conformità di Microsoft 365 E5](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
-- [Crea e Gestisci valutazioni in Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+- [Crea e Gestisci valutazioni in Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
 
 _________________________________________________________
 
@@ -285,23 +475,23 @@ Ecco le novità del modulo dei riferimenti al centro per i partner:
 
 #### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Tutti i partner che usano il modulo referrals nel centro per i partner  
 
-- [Creazione di nuove connessioni SMB](https://docs.microsoft.com/partner-center/connect-with-your-customers): co-selling e collaborazione con i venditori Microsoft per ottenere opportunità in ingresso correlate ai clienti SMB.
+- [Creazione di nuove connessioni SMB](../connect-with-your-customers.md): co-selling e collaborazione con i venditori Microsoft per ottenere opportunità in ingresso correlate ai clienti SMB.
 
-- [Espandere autorizzazioni di riferimento](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals): assegnare le autorizzazioni di riferimento degli utenti a seconda che si desideri avere autorizzazioni di amministratore (accesso a tutte le opportunità di co-selling) o autorizzazioni utente (accesso alle opportunità di co-selling specifiche dell'utente).
+- [Espandere autorizzazioni di riferimento](../permissions-overview.md#manage-referrals): assegnare le autorizzazioni di riferimento degli utenti a seconda che si desideri avere autorizzazioni di amministratore (accesso a tutte le opportunità di co-selling) o autorizzazioni utente (accesso alle opportunità di co-selling specifiche dell'utente).
 
-- [Migrazione utente per partner Sales Connect](https://docs.microsoft.com/partner-center/psc-to-pc#user-migration): mappare le autorizzazioni utente per le vendite partner esistenti per le autorizzazioni utente per l'amministratore e il riferimento del centro per i partner corrispondenti, quindi applicare a massa le nuove autorizzazioni per gli utenti. Per ulteriori informazioni sulla gestione dei riferimenti, vedere la [documentazione sulle autorizzazioni](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) per i riferimenti.  
+- [Migrazione utente per partner Sales Connect](../psc-to-pc.md#user-migration): mappare le autorizzazioni utente per le vendite partner esistenti per le autorizzazioni utente per l'amministratore e il riferimento del centro per i partner corrispondenti, quindi applicare a massa le nuove autorizzazioni per gli utenti. Per ulteriori informazioni sulla gestione dei riferimenti, vedere la [documentazione sulle autorizzazioni](../permissions-overview.md#manage-referrals) per i riferimenti.  
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Partner con offerte di co-selling pronte
 
-- [Co-selling con altri partner](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): invita un altro partner del nostro potente ecosistema di partner per co-selling con l'utente e sbloccare l'accesso a più destinatari del cliente.  
+- [Co-selling con altri partner](../manage-co-sell-opportunities.md): invita un altro partner del nostro potente ecosistema di partner per co-selling con l'utente e sbloccare l'accesso a più destinatari del cliente.  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partner con un'offerta transazionale che usa una soluzione Azure incentive-idonea nel Marketplace commerciale
 
-- [Usare la registrazione automatica dell'affare](https://docs.microsoft.com/partner-center/register-deals): risparmiare tempo e assicurare l'accuratezza registrando le offerte di Azure Commercial Marketplace transazionale con la casella di controllo, "questa operazione/vittoria è stata o verrà sottoposta a transazione tramite Azure Marketplace o AppSource". Se la data della transazione è corretta, le informazioni per la registrazione dell'accordo verranno estratte direttamente da Microsoft Commercial Marketplace.
+- [Usare la registrazione automatica dell'affare](../register-deals.md): risparmiare tempo e assicurare l'accuratezza registrando le offerte di Azure Commercial Marketplace transazionale con la casella di controllo, "questa operazione/vittoria è stata o verrà sottoposta a transazione tramite Azure Marketplace o AppSource". Se la data della transazione è corretta, le informazioni per la registrazione dell'accordo verranno estratte direttamente da Microsoft Commercial Marketplace.
 
 ### <a name="questions"></a>Domande?
 
-Per assistenza sull'uso di una delle nuove funzionalità, vedere la [sezione relativa ai riferimenti](https://docs.microsoft.com/partner-center/referrals) nella Knowledge base o i materiali di supporto disponibili nella [raccolta di esperienze di co-selling](https://aka.ms/CoSellExperience) (accesso richiesto).
+Per assistenza sull'uso di una delle nuove funzionalità, vedere la [sezione relativa ai riferimenti](../referrals.md) nella Knowledge base o i materiali di supporto disponibili nella [raccolta di esperienze di co-selling](https://aka.ms/CoSellExperience) (accesso richiesto).
 
 È possibile [aprire un ticket con il team di supporto del partner](https://partner.microsoft.com/support/?stage=1) per assistenza.
 
@@ -319,7 +509,7 @@ Partner che vendono soluzioni accademiche, no profit e GCC tramite il programma 
 
 ### <a name="details"></a>Dettagli
 
-Questo annuncio è un completamento per i miglioramenti apportati al centro per i partner [rilasciati nel dicembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Come parte di questa versione, sono state distribuite le nuove API per le qualifiche GET e POST e, di conseguenza, **le API del centro per i partner del centro per le API esistenti di put ritireranno entro il 25 febbraio 2021 e otterranno la qualifica entro il 4 maggio 2021**. A questo punto, sarà necessario passare all'uso delle nuove API del centro per i partner per poter acquistare le offerte di formazione e la nuova API per ottenere le qualificazioni per acquistare le offerte non profit e GCC prequalificate.
+Questo annuncio è un completamento per i miglioramenti apportati al centro per i partner [rilasciati nel dicembre](./2020-december.md#1). Come parte di questa versione, sono state distribuite le nuove API per le qualifiche GET e POST e, di conseguenza, **le API del centro per i partner del centro per le API esistenti di put ritireranno entro il 25 febbraio 2021 e otterranno la qualifica entro il 4 maggio 2021**. A questo punto, sarà necessario passare all'uso delle nuove API del centro per i partner per poter acquistare le offerte di formazione e la nuova API per ottenere le qualificazioni per acquistare le offerte non profit e GCC prequalificate.
 
 ### <a name="next-steps"></a>Passaggi successivi
 

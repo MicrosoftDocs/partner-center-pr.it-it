@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645640"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756070"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Operazioni bulk per le opportunità di co-selling con file con valori delimitati da virgole (CSV)
 
@@ -77,11 +77,11 @@ Nome contatto cliente|Dipende da|Il primo nome è obbligatorio solo se è necess
 Cognome contatto cliente|Dipende da|Il cognome è obbligatorio solo se è necessaria la Guida di Microsoft. Il cognome del contatto principale dell'organizzazione del cliente che lavora a questa trattativa.|Customer
 Numero di telefono di contatto del cliente|Dipende da|Il numero di telefono è obbligatorio solo se è necessaria la Guida di Microsoft. Numero di telefono del contatto principale dell'organizzazione del cliente che lavora a questa trattativa.|9999999999
 Indirizzo di posta elettronica del contatto del cliente|Dipende da|L'indirizzo di posta elettronica è obbligatorio solo se è necessaria la Guida di Microsoft. Indirizzo di posta elettronica del contatto principale dell'organizzazione del cliente che lavora a questa trattativa.|john.customer@contoso.com
-Stato del riferimento partner|Sì|Indica lo stato dell'affare dal punto di vista della società. Obbligatorio se si tenta di creare o modificare un riferimento. Usare **New** se si sta provando a creare una nuova operazione. I valori accettati sono descritti [qui](https://docs.microsoft.com/partner/develop/referral-resources#referralstatus).|Attivo
-Stato secondario del riferimento partner|Sì|Indica lo stato esatto dell'operazione. Usare **accettato** se si sta provando a creare una nuova operazione. È anche necessario se si sta modificando un riferimento esistente. I valori accettati sono descritti [qui](https://docs.microsoft.com/partner/develop/referral-resources#referralsubstatus).|Accettato
+Stato del riferimento partner|Sì|Indica lo stato dell'affare dal punto di vista della società. Obbligatorio se si tenta di creare o modificare un riferimento. Usare **New** se si sta provando a creare una nuova operazione. I valori accettati sono descritti [qui](/partner/develop/referral-resources#referralstatus).|Attivo
+Stato secondario del riferimento partner|Sì|Indica lo stato esatto dell'operazione. Usare **accettato** se si sta provando a creare una nuova operazione. È anche necessario se si sta modificando un riferimento esistente. I valori accettati sono descritti [qui](/partner/develop/referral-resources#referralsubstatus).|Accettato
 Stato Microsoft Referral|Dipende da|Indica lo stato della richiesta di co-selling inviata a Microsoft per chiedere assistenza. Questo è un campo di sola lettura. Qualsiasi modifica apportata a questo campo durante l'importazione dei dati verrà ignorata.| In sospeso
 Motivo rifiutato/perso|Dipende da| È necessario fornire queste informazioni solo se si sta modificando lo stato secondario del campo in modo che sia stato rifiutato o perso. In caso contrario, è possibile ignorare questa colonna. <br/> **Immettere un numero basato sulle opzioni seguenti** <br/><br/> **1**-il budget del progetto non è adeguato  <br/> **2**-il cliente non ha risposto  <br/> **3**-il cliente ha scelto un altro fornitore  <br/> **4** -requisito del cliente non soddisfatto  <br/> **5** -non è un cliente <br/> **6**-la riga di tempo proposta è troppo corta <br/> **7** -segnala come abusi, posta indesiderata o phishing <br/> **8** -altri |6|
-Sales Stage|No|Questo è il campo per indicare la fase di vendita dettagliata del riferimento. Scopri di più sulle fasi di vendita [qui](https://aka.ms/salesStages)|40
+Sales Stage|No|Questo è il campo per indicare la fase di vendita dettagliata del riferimento. Scopri di più sulle fasi di vendita [qui](./manage-co-sell-opportunities.md)|40
 Valore dell'affare stimato|Sì|"Valore dell'affare basato sulle conversazioni iniziali con il cliente. Questo può essere modificato fino a quando l'operazione non raggiunge uno degli stati terminali| vinto o perso ".|12563
 Valuta|Sì|La valuta in cui viene immesso il valore dell'operazione. [Qui](https://en.wikipedia.org/wiki/ISO_4217)è possibile trovare i codici di valuta.|USD
 Data di chiusura stimata|Sì|Data di chiusura stimata dell'operazione in base alle conversazioni iniziali con il cliente nel formato MM/gg/aaaa. <br/> **La data deve essere nel fuso orario UTC. Tutte le date visualizzate nell'interfaccia utente del centro per i partner sono basate su fusi orari localizzati. Se si sta esaminando il riferimento per il quale è stata specificata la data nel fuso orario UTC, potrebbe essere presente una differenza di +/-un giorno nell'interfaccia utente del centro per i partner.**|1/30/2020

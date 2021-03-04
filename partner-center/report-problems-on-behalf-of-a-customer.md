@@ -1,7 +1,7 @@
 ---
 title: Segnalare problemi per conto di un cliente
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri quando inoltrare un problema al servizio clienti a Microsoft e come archiviare un ticket di supporto per diversi tipi di servizi Microsoft.
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97153146"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756434"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Segnala un problema del servizio per conto di un cliente, incluse le attività e le modalità di esecuzione
 
@@ -146,8 +146,6 @@ Se si accede direttamente all'interfaccia di amministrazione di Office 365, si s
 Se si verificano problemi relativi a: sottoscrizioni del piano Dynamics 365, licenze, fatturazione, operazioni di & finanza, licenze del prodotto Dynamics 365 oppure è necessario ulteriore supporto tecnico:
  
 contatta il [supporto Dynamics](/dynamics365/customer-engagement/admin/contact-technical-support)
-
-leggi l'argomento relativo al [supporto di Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
 ## <a name="next-steps"></a>Passaggi successivi
 

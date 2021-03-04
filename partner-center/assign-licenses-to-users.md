@@ -1,7 +1,7 @@
 ---
 title: Gestire gli utenti per gli account cliente
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 'Gestire gli utenti per i clienti nel centro per i partner: creare account utente, aggiungere o rimuovere licenze utente, reimpostare le password ed eliminare o ripristinare gli account utente.'
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570740"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756088"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gestire utenti e licenze utente per gli account dei clienti 
 
@@ -28,6 +28,9 @@ ms.locfileid: "96570740"
 È possibile creare ed eliminare nuovi utenti nell'account di un cliente. È anche possibile ripristinare uno o più account utente eliminati in precedenza entro 30 giorni dall'eliminazione. Verranno ripristinate anche le assegnazioni di sottoscrizioni precedenti dell'utente (supponendo che le allocazioni precedenti siano disponibili).
 
 Quando si acquistano nuove sottoscrizioni per un cliente, il cliente deve fornire un elenco di tutti gli utenti che necessitano di account, le relative autorizzazioni utente e i servizi necessari per ogni utente.  
+
+>[!NOTE]
+>La sezione **utenti e licenze** della scheda **cliente** Mostra tutti gli utenti creati nel tenant di un cliente specifico, inclusi gli utenti con licenze acquistate da un altro partner CSP o da un altro canale di acquisto.
 
 È possibile [assegnare sottoscrizioni a più utenti](bulk-license-provisioning-for-multiple-users.md) contemporaneamente importando i nomi usando un [file foglio di calcolo con estensione CSV compatibile con Excel](adding-multiple-users-to-a-customer-account.md).
 

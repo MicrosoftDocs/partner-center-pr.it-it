@@ -9,18 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174937"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755720"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Ricevere credito per l'account del centro per i partner per le ritenute fiscali
 
-Si applica a:
+**Ruoli appropriati**
 
-- Centro per i partner
+- Amministratore degli account
+- Amministratore fatturazione
 
 ## <a name="overview"></a>Panoramica
 
@@ -45,7 +46,9 @@ Attenersi alla procedura seguente per inviare una nuova dichiarazione di imposte
 
 4. Esaminare i dettagli della fattura per assicurarsi di inviare la richiesta per la fattura corretta.
 
-   :::image type="content" source="images/wht2.png" alt-text="Invia nuove imposte di ritenuta per una fattura" è il valore che si prevede venga accreditato.
+   :::image type="content" source="images/wht2.png" alt-text="Completa i dettagli relativi alle ritenute fiscali per una fattura":::
+
+5. Immettere il "totale di ritenuta" in **Dettagli sulle ritenute fiscali**. Il valore "Totale ritenuta" è il valore che si prevede venga accreditato.
 
 6. **Alleghi** un certificato di imposta. È necessario includere una **copia digitale** del **certificato fiscale di ritenuta** nella richiesta di ritenuta fiscale. Il certificato è stato ricevuto dall'agenzia fiscale locale quando si pagano le imposte all'autorità fiscale locale. L'importo imposte fattura nel certificato di imposizione di ritenuta deve corrispondere all'importo totale nella richiesta di ritenuta fiscale.
 
@@ -66,7 +69,7 @@ Il team di revisione potrebbe richiedere di apportare correzioni e inviare nuova
 
 2. Nel menu a sinistra scegliere **fatturazione** .
 
-3. Nella **cronologia di fatturazione**della pagina di **fatturazione** trovare richiesta di ritenuta fiscale. Le richieste che richiedono l'attenzione avranno lo stato "azione partner in sospeso".
+3. Nella **cronologia di fatturazione** della pagina di **fatturazione** trovare richiesta di ritenuta fiscale. Le richieste che richiedono l'attenzione avranno lo stato "azione partner in sospeso".
 
 4. Fare clic sull'ID richiesta di ritenuta fiscale e lo stato che consente di portare alla pagina della richiesta.
 

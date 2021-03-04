@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: b6e08baf11061bc027b52d4662311bdc91ee0202
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834857"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756094"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendere abbonamenti software tramite il programma Cloud Solution Provider (CSP)
 
@@ -103,7 +103,7 @@ Una volta acquistato il software, i clienti dovranno scaricarlo. Utilizzare la p
 >[!NOTE]
 >Solo i clienti possono visualizzare i codici "Product Key" e scaricare le informazioni nell'interfaccia di amministrazione di Microsoft. I partner non possono visualizzare queste informazioni.
 
-Se l'utente o i clienti vogliono ottenere altre informazioni sul download delle chiavi di licenza, vedere [scaricare il software e i codici di licenza del prodotto](https://go.microsoft.com/fwlink/p/?linkid=2152525).
+Se l'utente o i clienti vogliono ottenere altre informazioni sul download delle chiavi di licenza, vedere [scaricare il software e i codici di licenza del prodotto](/microsoft-365/admin/setup/download-software-licenses-csp).
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download e codici di licenza per sottoscrizioni di server disponibili tramite l'interfaccia di amministrazione di Microsoft 365 per i clienti 
 

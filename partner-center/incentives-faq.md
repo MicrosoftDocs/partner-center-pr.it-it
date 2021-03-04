@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99835068"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756715"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Domande frequenti sugli incentivi
 
@@ -67,9 +67,9 @@ Il motivo probabile per cui non è possibile visualizzare gli incentivi è che n
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Alcune registrazioni non sono disponibili nella pagina Panoramica incentivi.
 
-Se è stato ricevuto un invito da o è stato registrato in un programma incentive che non è più visibile nel dashboard, è necessario verificare di disporre dell'accesso appropriato. Solo gli utenti con ruolo di amministratore incentive o incentivo possono visualizzare il programma. Vedere [trovare il ruolo](https://docs.microsoft.com/partner-center/find-your-role).
+Se è stato ricevuto un invito da o è stato registrato in un programma incentive che non è più visibile nel dashboard, è necessario verificare di disporre dell'accesso appropriato. Solo gli utenti con ruolo di amministratore incentive o incentivo possono visualizzare il programma. Vedere [trovare il ruolo](./find-your-role.md).
 
-Se è necessario modificare il ruolo o le autorizzazioni, contattare l'amministratore globale o dell'account aziendale. Per informazioni sugli utenti, vedere l'articolo su come [trovare l'amministratore globale](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
+Se è necessario modificare il ruolo o le autorizzazioni, contattare l'amministratore globale o dell'account aziendale. Per informazioni sugli utenti, vedere l'articolo su come [trovare l'amministratore globale](./find-your-role.md#find-your-global-admin).
 
 Si noti che nella pagina Panoramica verranno visualizzate solo le registrazioni associate all'account globale del partner (PGA) associato al tenant Azure AD. Se la società ha più di un PGA, sarà necessario disporre di credenziali diverse per ciascuna di esse.
 

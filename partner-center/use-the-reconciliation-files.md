@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488083"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755780"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Informazioni su come leggere le voci nei file di riconciliazione del centro per i partner
 
@@ -23,20 +23,20 @@ Si applica a:
 - Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
-È possibile scaricare i file di riconciliazione dal centro per i partner per una visualizzazione dettagliata di ogni addebito in un ciclo di fatturazione. I dettagli dell'elemento di riga includono gli addebiti per le sottoscrizioni di ogni cliente ed eventi dettagliati, ad esempio l'aggiunta a metà del periodo di licenze a una sottoscrizione.
-
-Ruoli appropriati:
+**Ruoli appropriati**
 
 - Amministratore fatturazione
 - Amministratore globale
 
-Per informazioni su come leggere la **fattura** , vedere [leggere la fattura](read-your-bill.md).
+È possibile scaricare i file di riconciliazione dal centro per i partner per una visualizzazione dettagliata di ogni addebito in un ciclo di fatturazione. I dettagli dell'elemento di riga includono gli addebiti per le sottoscrizioni di ogni cliente ed eventi dettagliati, ad esempio l'aggiunta a metà del periodo di licenze a una sottoscrizione.
+
+Per informazioni su come leggere la **fattura**, vedere [leggere la fattura](read-your-bill.md).
 
 ## <a name="understand-reconciliation-file-fields"></a>Informazioni sui campi del file di riconciliazione
 
 - [Campi del file di riconciliazione basato su licenza](license-based-recon-files.md)
-- [Campi del file di riconciliazione basata sull'utilizzo](usage-based-recon-files.md)
-- [Campi del file di riconciliazione dell'utilizzo con classificazione giornaliera](daily-rated-usage-recon-files.md)
+- [Campi del file di riconciliazione basato sull'utilizzo](usage-based-recon-files.md)
+- [Campi del file di riconciliazione per l'uso quotidiano](daily-rated-usage-recon-files.md)
 - [Campi del file di riconciliazione del CSP di acquisto monouso](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Informazioni sui tipi di addebito nei file di riconciliazione
@@ -51,7 +51,7 @@ Per correggere eventuali problemi di formattazione nei file di riconciliazione, 
 
 1. Aprire il file di riconciliazione (in formato CSV) in Microsoft Excel.
 2. Consente di selezionare la prima colonna del file.
-3. Aprire la **procedura guidata Converti testo in colonne**. Sulla barra multifunzione selezionare **dati** , quindi selezionare **testo in colonne**.
+3. Aprire la **procedura guidata Converti testo in colonne**. Sulla barra multifunzione selezionare **dati**, quindi selezionare **testo in colonne**.
 4. Nella procedura guidata selezionare **tipo di file delimitato**. Quindi selezionare **Avanti**.
 5. Nel campo **delimitatori** selezionare **virgola**. Se la **scheda** è già selezionata, è possibile lasciare selezionata questa opzione. Quindi selezionare **Avanti**.
 6. Nel campo **formato dati colonna** selezionare **Data: MDY**. Quindi selezionare **Avanti**.
@@ -81,11 +81,11 @@ I partner del **modello indiretto** possono usare questi campi aggiuntivi nei fi
 
 Se un partner CSP ha venduto la sottoscrizione direttamente al cliente, l' **ID MPN** viene elencato due volte, sia come **ID MPN** sia come **ID MPN rivenditore**.
 
-Se un partner CSP ha un rivenditore senza **ID MPN** , questo valore viene impostato invece sull' **ID MPN** del partner.
+Se un partner CSP ha un rivenditore senza **ID MPN**, questo valore viene impostato invece sull' **ID MPN** del partner.
 
-Se il partner CSP rimuove un **ID MPN rivenditore** , questo valore viene impostato su *-1*.
+Se il partner CSP rimuove un **ID MPN rivenditore**, questo valore viene impostato su *-1*.
 
-Per visualizzare o aggiornare l' **ID MPN del rivenditore** :
+Per visualizzare o aggiornare l' **ID MPN del rivenditore**:
 
 1. Accedere al Centro per i partner.
 2. Nel menu del Centro per i partner scegli **Clienti**.
@@ -93,3 +93,7 @@ Per visualizzare o aggiornare l' **ID MPN del rivenditore** :
 4. Nel menu cliente selezionare **sottoscrizioni**.
 5. Scegliere la sottoscrizione dall'elenco.
 6. Seleziona **Aggiorna** per modificare il valore **Rivenditore (ID MPN)**.
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Come leggere il file di fatturazione & Recon](read-your-bill.md) 

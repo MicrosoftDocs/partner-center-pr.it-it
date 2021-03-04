@@ -1,19 +1,19 @@
 ---
 title: Connettore di co-selling per Dynamics 365 CRM Partner Center
 ms.topic: how-to
-ms.date: 02/16/2021
+ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sincronizzare i riferimenti nel centro per i partner con il connettore di co-selling per Dynamics 365 CRM. I venditori possono quindi co-vendere con Microsoft dall'interno dei sistemi CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645771"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756792"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-selling Connector per Dynamics 365 CRM-Panoramica
 
@@ -31,11 +31,11 @@ La soluzione è basata sulla soluzione Microsoft Power automatizzate e usa le AP
 |**Argomenti**   |**Dettagli**   |**Collegamenti**   |
 |--------------|--------------------|------|
 |ID Microsoft Partner Network |È necessario un ID MPN valido|Per aggiungere [MPN](https://partner.microsoft.com/)|
-|Coselling pronto|La soluzione IP/servizi deve essere pronta per il co-selling.|[Vendi con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Co-selling pronto|La soluzione IP/servizi deve essere pronta per il co-selling.|[Vendi con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Account del Centro per i partner|L'ID MPN associato al tenant del centro per i partner deve corrispondere all'ID MPN associato alla soluzione di co-selling. Prima di distribuire i connettori, verificare che sia possibile visualizzare i riferimenti di co-selling nel portale del centro per i partner.|[Gestire l'account](create-user-accounts-and-set-permissions.md)|
 |Ruoli utente del Centro per i partner|Il dipendente che installerà e userà i connettori deve essere un amministratore dei riferimenti|[Assegnare autorizzazioni e ruoli utente](create-user-accounts-and-set-permissions.md)| 
 |Dynamics 365 CRM|Il ruolo utente CRM è amministratore sistema o sistema verbi|[Assegnare i ruoli in Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Power automatizzare l'account di flusso|Creazione di un nuovo ambiente di produzione con database per test/gestione temporanea e produzione. Se è presente un ambiente di produzione con database, può essere riutilizzato. L'utente che installa la soluzione connettore deve avere la licenza Power automatizzate e l'accesso a questo ambiente. È possibile monitorare lo stato di avanzamento e ottenere maggiori dettagli in caso di errore di installazione in [Power automatici](https://flow.microsoft.com/) facendo clic su Visualizza cronologia in soluzioni.|[Crea o Gestisci ambiente](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Power automatizzare l'account di flusso|Creazione di un nuovo ambiente di produzione con database per test/gestione temporanea e produzione. Se è presente un ambiente di produzione con database, può essere riutilizzato. L'utente che installa la soluzione connettore deve avere la licenza Power automatizzate e l'accesso a questo ambiente. È possibile monitorare lo stato di avanzamento e ottenere maggiori dettagli in caso di errore di installazione in [Power automatici](https://flow.microsoft.com/) facendo clic su Visualizza cronologia in soluzioni.|[Crea o Gestisci ambiente](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Installare la sincronizzazione dei riferimenti del centro per i partner per Dynamics 365 (soluzione Power automatici)
 
@@ -110,7 +110,7 @@ Prima di installare, configurare e personalizzare la soluzione Power automatizza
 
 1. Tornare alla pagina **soluzioni** e selezionare **soluzione predefinita**. Selezionare **riferimento alla connessione (anteprima)** facendo clic su **tutto**.
 
-:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="Connettere":::
+:::image type="content" source="images/connection-reference-video.gif" alt-text="Modifica delle connessioni":::
 
 2. Modificare ognuna delle connessioni una alla volta selezionando l'icona a tre punti. Aggiungere le connessioni pertinenti.
 
@@ -141,9 +141,9 @@ Le API webhook del centro per i partner consentono di effettuare la registrazion
 
 3. Selezionare l'icona **copia** per copiare l'URL post HTTP specificato.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Copia l'URL":::
+ :::image type="content" source="images/webhook-video.gif" alt-text="Usare i webhook per registrare le modifiche alle risorse":::
 
-4. Selezionare ora "registrazione del webhook del centro per i partner (anteprima di Insider)" Power automatizzare il flusso e selezionare **Esegui**.
+4. Selezionare la "registrazione del webhook del centro per i partner (anteprima di Insider)" Power automatizzare il flusso e quindi selezionare **Esegui**.
 
 5. Assicurarsi che la finestra "Esegui flusso" si apra nel riquadro di destra e fare clic su **continua**.
 
@@ -205,7 +205,7 @@ Per aggiornare un valore della variabile di ambiente:
 
 3. Aggiornare il valore **corrente** (non aggiornare il valore predefinito) utilizzando l'opzione **nuovo valore** e fornire il valore. Il valore deve corrispondere al tipo di dati della variabile, ad esempio Sì/nessun tipo di dati accetterà un valore Sì o no.
 
-:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="Casella di modifica per i valori predefiniti":::
+:::image type="content" source="images/environment-variables-video.gif" alt-text="Aggiorna variabili ambientali":::
 
 - Sincronizzazione del riferimento bidirezionale end-to-end
 

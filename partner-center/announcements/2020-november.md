@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
-ms.translationtype: HT
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182546"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756409"
 ---
 # <a name="november-2020-announcements"></a>Annunci di novembre 2020
 
@@ -98,7 +98,7 @@ Microsoft presenta una nuova promozione di Office 365 E1 per le aziende di medie
 Tutti i partner che operano attraverso il programma Cloud Solution Provider (CSP) nei mercati partecipanti elencati in precedenza.
 
 ### <a name="details"></a>Dettagli
-La promozione consiste nel 30% di sconto su Office 365 E1 per CSP. Verrà lanciata il 1° dicembre 2020 e sarà disponibile per 6 mesi, fino al 31 maggio 2020. Questa promozione è disponibile solo per i nuovi clienti del cloud MW con un massimo di 500 postazioni. Si noti che questa promozione è riservata ai mercati emergenti di LATAM, India e APAC, allo scopo di agevolare la transizione al cloud. 
+La promozione consiste nel 30% di sconto su Office 365 E1 per CSP. Verrà avviato il 1 ° dicembre 2020 e sarà disponibile per 6 mesi, fino al 31 maggio 2021. Questa promozione è disponibile solo per i nuovi clienti del cloud MW con un massimo di 500 postazioni. Si noti che questa promozione è riservata ai mercati emergenti di LATAM, India e APAC, allo scopo di agevolare la transizione al cloud. 
 
 #### <a name="offer-details"></a>Dettagli dell'offerta
 

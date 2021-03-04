@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975663"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756126"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Usare il centro per i partner per iscriversi come partner Microsoft Learning
 
@@ -115,7 +115,7 @@ La riunione di un indicatore KPI non è correlata alla durata del training. Per 
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>Q. Perché non viene visualizzato come partner Microsoft Learning nella directory del partner di formazione?
 
-Potrebbe essere necessario aggiungere l'utente alla [directory Learning partner](https://docs.microsoft.com/learn/certifications/partners). È quindi possibile collegarsi al sito Web dalla pagina della directory del partner di formazione.
+Potrebbe essere necessario aggiungere l'utente alla [directory Learning partner](/learn/certifications/partners). È quindi possibile collegarsi al sito Web dalla pagina della directory del partner di formazione.
 
 Si tratta di un processo manuale inviato solo una volta al mese, durante la terza settimana. L'aggiornamento successivo sarà visibile entro la fine della prima settimana del mese successivo. Per risolvere il problema, contattare il [supporto di Frontline del partner](https://partner.microsoft.com/support). Essere pronti a fornire i dettagli seguenti:
 

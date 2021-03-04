@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492637"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756159"
 ---
 # <a name="payout-statements"></a>Estratti conto
 
@@ -103,7 +103,7 @@ La tabella seguente mostra un esempio di mese di pagamento stimato.
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Ottobre-2020 | $8.692,30  |
-|  Nov-2020 | $107,89  |
+|  Novembre 2020 | $107,89  |
 
 L'importo stimato può variare rispetto all'importo effettivo per diversi motivi:
 
@@ -138,7 +138,7 @@ Per visualizzare altri dettagli su un guadagno, selezionare **download** nella p
 | claimId | Identificatore univoco per l'attestazione | Incentivi: solo alcuni programmi |
 | customerCountry | Paese/Area geografica del cliente | marketplaces |
 | customerEmail |  |  |
-| customerName | È sempre vuoto | Solo per i programmi incentive (eccezione: OEM) e Marketplace |
+| customerName | Può essere vuoto | Solo per i programmi incentive (eccezione: OEM) e Marketplace. Per le transazioni CSP, i Marketplace visualizzeranno il nome del CSP |
 | customerTenantId |  |  |
 | distributorId | Identificatore del distributore | Incentivi: solo alcuni programmi |
 | distributorName | Nome del distributore | Incentivi: solo alcuni programmi |

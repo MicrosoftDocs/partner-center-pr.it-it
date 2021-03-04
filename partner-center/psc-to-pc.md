@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281342"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756188"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
 
@@ -28,12 +28,15 @@ ms.locfileid: "100281342"
 
 Questo articolo fornisce indicazioni per i partner che eseguono la migrazione da partner Sales Connect to partner Center, in modo che possano continuare a creare e gestire le offerte di co-selling nel centro per i partner.
 
-Come è noto, l'azienda perderà l'accesso a PSC dopo il 31 marzo 2021. Tuttavia, si troverà comunque tutto ciò che si desidera eseguire nel centro per i partner, ad esempio creare offerte di co-selling, gestire le offerte e agire sulle offerte inviate dai venditori Microsoft.
-
-Tuttavia, vi sono differenze. Le linee guida seguenti consentono di eseguire la transizione al centro per i partner più agevole e più semplice.
+>[!Note]
+> Se ci si trova nel punto in cui è stato visualizzato un banner in PSC sulla migrazione, l'utente si trova nel posto giusto. Questa guida non è applicabile per la valutazione della soluzione (SA) e i partner commerciali per le licenze OEM che gestiscono le proprie offerte in CPS.
 
 >[!Important]
-> Se ci si trova nel punto in cui è stato visualizzato un banner in PSC sulla migrazione, l'utente si trova nel posto giusto. Questa guida non è applicabile per la valutazione della soluzione (SA) e i partner di Internet degli altri OEM che gestiscono le proprie offerte in CPS.
+> A partire dal 1 ° maggio 2021 la società non sarà in grado di creare o modificare le offerte in CPS. **Sarà comunque possibile scaricare i dati delle offerte esistenti usando la funzionalità di esportazione in blocco in CPS. È anche possibile [eseguire la migrazione di offerte Open](psc-to-pc.md#psc-deals-migration) da CPS al centro per i partner dopo questa data.** <br><br> In caso di domande su cui si sta lavorando attivamente che contengono soluzioni idonee per gli incentivi di co-selling IP, sono disponibili due opzioni: <br><br> 1. contrassegnare l'accordo come vinto e completare la registrazione dell'affare in PSC prima del 30 aprile 2021. <br> 2. [eseguire la migrazione delle offerte](psc-to-pc.md#psc-deals-migration) al centro per i partner, in modo da ottenere più tempo per lavorare sulla trattativa e iniziare la registrazione.
+
+Come è noto, **l'azienda perderà l'accesso a PSC dopo il 31 maggio 2021**. Tuttavia, si troverà comunque tutto ciò che si desidera eseguire nel centro per i partner, ad esempio creare offerte di co-selling, gestire le offerte e agire sulle offerte inviate dai venditori Microsoft.
+
+Tuttavia, vi sono differenze. Le linee guida seguenti consentono di eseguire la transizione al centro per i partner più agevole e più semplice.
 
 ## <a name="before-you-move-things-you-need-to-know"></a>Prima di procedere, è necessario sapere
 
@@ -90,7 +93,7 @@ Per trovare l'amministratore dell'account aziendale:
 Dopo aver configurato l'account nel centro per i partner, usare la migrazione guidata utenti nella pagina opportunità di co-selling per assegnare automaticamente i ruoli del centro partner ai dipendenti della società.
 
 >[!Note]
-> La migrazione degli utenti può essere eseguita solo dagli [amministratori dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) della società. Se non si ha il ruolo di amministratore dell'account, trovare un amministratore dell'account che consenta di configurare gli account utente con la guida della migrazione guidata utenti. La funzionalità di migrazione utente sarà disponibile a partire dal 18 novembre 2020.
+> La migrazione degli utenti può essere eseguita solo dagli [amministratori dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) della società. Se non si ha il ruolo di amministratore dell'account, trovare un amministratore dell'account che consenta di configurare gli account utente con la guida della migrazione guidata utenti.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Immagine che mostra la migrazione guidata utenti.":::
 
@@ -135,7 +138,7 @@ Leggere questa sezione prima di iniziare la migrazione dell'accordo.
 
 **Idoneo per la migrazione**
 
-Solo alcune offerte sono idonee per la migrazione da CPS a PC. Questa migrazione guidata è stata creata per aiutare i partner a partecipare al centro per i partner, dove continuano a collaborare attivamente con i clienti per chiudere l'offerta. **Solo le offerte in stato aperto con i dettagli validi per l'account partner (ID MPN valido) e la registrazione non in corso non sono idonee per la migrazione.**
+Solo alcune offerte sono idonee per la migrazione da CPS a PC. Questa migrazione guidata è stata creata per aiutare i partner a partecipare al centro per i partner, dove continuano a collaborare attivamente con i clienti per chiudere l'offerta. **Solo le trattazioni in stato aperto create dal 1 ° gennaio 2020 con i dettagli validi per l'account partner (ID MPN valido) e la registrazione non in corso per l'operazione sono idonee per la migrazione.**
 
 **Non idoneo per la migrazione**
 
@@ -200,7 +203,7 @@ Se la società ha un partner Development Manager (PDM): quando l'account del cen
 Se la società non dispone di un PDM, assicurarsi che tutti gli account utente siano configurati e verificati da tutti gli utenti. Si riceverà una notifica tramite un messaggio di posta elettronica e un banner in PSC relativi alla data esatta in cui è possibile avviare la co-selling nel centro per i partner. Tenere presente che sarà comunque necessario gestire le operazioni attive esistenti in CPS.
 
 >[!Important]
->Non verrà eseguita la migrazione delle offerte attive al PC. Fino al 31 marzo 2021 per chiudere e registrare le offerte.
+> Fino al 30 aprile 2021 per registrare le offerte contrassegnate come vinte.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Passaggi successivi per gli amministratori del CPS, i gestori di Deal e i venditori del PSC
 

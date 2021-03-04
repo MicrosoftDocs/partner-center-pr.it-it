@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ae635b77acc82ea705f3405d1c15aa7d02684dd
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 944f02af414a2865cadf94cd4fbf41c2555e066b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322101"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755701"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Modi diversi per collaborare con altri partner nel centro per i partner
 
-**Si applica a**
+**Ruoli appropriati**
 
-- Centro per i partner
+- amministratore account
 
 Il programma Microsoft Cloud Solution Provider (CSP) offre opportunità per collaborare con i partner in questi modi.
 
@@ -55,4 +55,4 @@ La funzionalità multicanale del centro per i partner supporta scenari in cui un
 Il supporto per più canali è disponibile anche nelle offerte cloud nazionali di Microsoft.
 
 > [!IMPORTANT]  
-> Attualmente un partner iscritto al programma CSP non può rivendere servizi online a un altro partner del programma CSP. Questa restrizione si applica solo al tenant utilizzato per eseguire transazioni CSP. I partner CSP che usano un tenant non CSP per l'uso aziendale possono acquistare Servizi online da un altro partner CSP. Microsoft rivede continuamente i criteri e le funzionalità di tutti i programmi. Tutte le novità sui rilasci di funzionalità o sulle modifiche relative ai criteri saranno annunciate tramite i consueti canali di comunicazione, inclusi gli [annunci del Centro per i partner](announcements/index.md).
+> Attualmente un partner iscritto al programma CSP non può rivendere servizi online a un altro partner del programma CSP. Questa limitazione si applica solo al tenant usato per eseguire transazioni CSP. I partner CSP che usano un tenant non CSP per l'utilizzo aziendale possono acquistare servizi online da un altro partner CSP. Microsoft rivede continuamente i criteri e le funzionalità di tutti i programmi. Tutte le novità sui rilasci di funzionalità o sulle modifiche relative ai criteri saranno annunciate tramite i consueti canali di comunicazione, inclusi gli [annunci del Centro per i partner](announcements/index.md).

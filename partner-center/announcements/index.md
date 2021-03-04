@@ -8,20 +8,22 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/03/2021
+ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756153"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029934"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
 Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste informazioni vengono aggiornate di frequente, pertanto è importante consultarle di frequente.
 
-|**Categoria**|**Annunci 2021 di febbraio**|**Annunciato**|
+|**Categoria**|**Annunci 2021 di marzo**|**Annunciato**|
 |---------|:---------|:---------|
+|Funzionalità|[Microsoft Universal Print ora disponibile in alcuni gruppi](2021-march.md#1)|3 marzo|
+|**Categoria**|**Annunci 2021 di febbraio**|**Annunciato**|
 |Funzionalità|[Le API di qualificazione PUT sono state ritirate e ritirate in maggio](2021-february.md#14)|25 febbraio|
 |Funzionalità|[Condividi le offerte di co-selling su vasta scala usando la funzionalità per operazioni bulk del centro per i partner](2021-february.md#13)|25 febbraio|
 |Funzionalità|[Esegui la migrazione delle tue offerte da partner Sales Connect (PSC) usando la nuova funzionalità di migrazione di Deal](2021-february.md#12)|25 febbraio|

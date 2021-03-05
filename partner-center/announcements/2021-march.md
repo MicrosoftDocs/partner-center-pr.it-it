@@ -9,16 +9,83 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/03/2021
-ms.openlocfilehash: 1a386a97d0e55818b2226fd453cfca3b63753247
-ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.openlocfilehash: 0ffc09fc6496fc053a8ca150bd85235976153c03
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102055827"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185265"
 ---
 # <a name="march-2021-announcements"></a>Annunci 2021 di marzo
 
 Questa pagina fornisce gli annunci per Microsoft Partner Center per il 2021 marzo.
+
+________________
+## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>Nuovi prodotti e offerte Microsoft Dynamics 365 disponibili il 1 ° aprile 2021
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-03-04
+- Funzionalità
+
+### <a name="summary"></a>Riepilogo
+
+Il 1 ° aprile 2021, Microsoft lancerà diversi nuovi prodotti e offerte per il programma Cloud Solution Provider (CSP).
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Tutti i partner che eseguono transazioni tramite il programma Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Dettagli
+
+Il 1 ° aprile 2021 Microsoft lancerà i nuovi prodotti e le offerte seguenti:
+
+- Power BI Premium per utente
+- Area geografica ed espansione del segmento di Customer Voice and marketing USL
+
+**Power BI Premium per utente**
+
+Microsoft introdurrà le prime offerte per Power BI Premium per singolo utente. Power BI Premium viene attualmente venduto solo in un costrutto di capacità. Power BI Premium per utente consente di accedere alle funzionalità di Enterprise business intelligence (BI) e di analisi. Le licenze flessibili per le singole postazioni si adattano alle aziende di piccole e medie dimensioni.
+
+Per ulteriori informazioni su questa offerta, vedere i [Dettagli della versione Power bi](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/planned-features) .
+
+
+**Dettagli dell'offerta**
+
+Si noti che il nome dell'offerta è leggermente diverso dall'anteprima dell'elenco prezzi.
+
+| Nome offerta | ID offerta |
+| ------ |----------- |
+| Power BI Premium per utente | 9c810018-9356-4903-95ab-eeb956289290 | 
+| Power BI Premium per utente per i docenti | 3affc44f-f372-4ad5-8657-aadd9574fce0 | 
+| Power BI Premium per utente per studenti | 657eea87-d0b0-4c89-8c8e-9b04395bd940 | 
+| Power BI Premium per utente (prezzi per il personale non profit) | 7a0a856c-059f-45dd-9d26-ae27992e706a | 
+| Power BI Premium per utente Add-On | 244ff87e-5925-44a0-bf31-cea189719b58 | 
+| Power BI Premium Add-On per utente per i docenti | 5da849bd-b8f7-4340-b4f4-3a9eaeb8987e | 
+| Power BI Premium Add-On per ogni utente per studenti | cf62d70d-5af5-422a-bda8-97936402ac8e | 
+| Power BI Premium per Add-On utente (prezzi per il personale non profit) | 31c03289-47ab-4ab0-8df1-03742c127ac6 | 
+
+**Area geografica ed espansione del segmento di Customer Voice and marketing USL**
+
+In seguito al lancio del dicembre 2020, le offerte di Dynamics 365 Customer Voice and marketing sono state modificate in modo da aggiungere nuovi paesi e SKU di formazione e non profit.
+
+| Nome offerta | ID offerta |
+| ------ |----------- |
+| Dynamics 365 Customer Voice USL (prezzi per il personale non profit) | 7a8642a5-481E-4906-a642-b56dbeeb62a0 |
+| Dynamics 365 Customer Voice USL per istituti di facoltà | 85162d70-9676-4cf6-a4bc-a0d6672f2657 |
+
+Per ulteriori informazioni su queste offerte, visitare le pagine seguenti:
+
+- [home page Voice del servizio clienti Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/)
+- [home page marketing di Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/)
+
+### <a name="next-steps"></a>Passaggi successivi
+
+Esaminare le risorse di questo argomento e condividere queste informazioni con le parti interessate appropriate nell'organizzazione.  
+
+### <a name="questions"></a>Domande?
+
+Per eventuali domande su queste offerte, consultare le community Yammer pertinenti. 
 
 ________________
 ## <a name="microsoft-universal-print-now-available-in-some-suites"></a><a name="1"></a> Microsoft Universal Print ora disponibile in alcuni gruppi

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756188"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124823"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
 
@@ -32,9 +32,9 @@ Questo articolo fornisce indicazioni per i partner che eseguono la migrazione da
 > Se ci si trova nel punto in cui è stato visualizzato un banner in PSC sulla migrazione, l'utente si trova nel posto giusto. Questa guida non è applicabile per la valutazione della soluzione (SA) e i partner commerciali per le licenze OEM che gestiscono le proprie offerte in CPS.
 
 >[!Important]
-> A partire dal 1 ° maggio 2021 la società non sarà in grado di creare o modificare le offerte in CPS. **Sarà comunque possibile scaricare i dati delle offerte esistenti usando la funzionalità di esportazione in blocco in CPS. È anche possibile [eseguire la migrazione di offerte Open](psc-to-pc.md#psc-deals-migration) da CPS al centro per i partner dopo questa data.** <br><br> In caso di domande su cui si sta lavorando attivamente che contengono soluzioni idonee per gli incentivi di co-selling IP, sono disponibili due opzioni: <br><br> 1. contrassegnare l'accordo come vinto e completare la registrazione dell'affare in PSC prima del 30 aprile 2021. <br> 2. [eseguire la migrazione delle offerte](psc-to-pc.md#psc-deals-migration) al centro per i partner, in modo da ottenere più tempo per lavorare sulla trattativa e iniziare la registrazione.
+> A partire dal 1 ° aprile 2021, l'azienda non sarà in grado di creare o modificare le offerte in CPS. **Sarà comunque possibile scaricare i dati delle offerte esistenti usando la funzionalità di esportazione in blocco in CPS. È anche possibile [eseguire la migrazione di offerte Open](psc-to-pc.md#psc-deals-migration) da CPS al centro per i partner dopo questa data.** <br><br> In caso di domande su cui si sta lavorando attivamente che contengono soluzioni idonee per gli incentivi di co-selling IP, sono disponibili due opzioni: <br><br> 1. contrassegnare l'accordo come vinto e completare la registrazione dell'affare in PSC prima del 31 marzo 2021. <br> 2. [eseguire la migrazione delle offerte](psc-to-pc.md#psc-deals-migration) al centro per i partner, in modo da ottenere più tempo per lavorare sulla trattativa e iniziare la registrazione.
 
-Come è noto, **l'azienda perderà l'accesso a PSC dopo il 31 maggio 2021**. Tuttavia, si troverà comunque tutto ciò che si desidera eseguire nel centro per i partner, ad esempio creare offerte di co-selling, gestire le offerte e agire sulle offerte inviate dai venditori Microsoft.
+Come è noto, **l'azienda perderà l'accesso a PSC dopo il 30 aprile 2021**. Tuttavia, si troverà comunque tutto ciò che si desidera eseguire nel centro per i partner, ad esempio creare offerte di co-selling, gestire le offerte e agire sulle offerte inviate dai venditori Microsoft.
 
 Tuttavia, vi sono differenze. Le linee guida seguenti consentono di eseguire la transizione al centro per i partner più agevole e più semplice.
 

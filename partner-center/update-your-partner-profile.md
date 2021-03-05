@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124772"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220263"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>Verificare le informazioni sul profilo aziendale nel centro per i partner
 
@@ -54,8 +54,7 @@ Aggiornare l'indirizzo legale nel Centro per i partner.
 1. Quando si seleziona **Invia**, l'identità legale viene rivalutata e viene inviato un altro messaggio di posta elettronica che sarà necessario accettare.
 
 >[!Important]
->I partner Cloud Solution Provider (CSP) non possono modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è collegato al tenant e ai servizi, nonché alla valuta con cui si eseguono le operazioni aziendali. Se non si è iscritti al programma CSP, è possibile modificare il paese associato all'indirizzo legale. I partner diretti e i provider indiretti non possono modificare il nome legale della propria azienda se lo stato di convalida è "autorizzato". Per modificare il nome, sarà necessario [creare un ticket di supporto](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
-
+>I partner Cloud Solution Provider (CSP) non possono modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è collegato al tenant e ai servizi, nonché alla valuta con cui si eseguono le operazioni aziendali. I partner diretti e i provider indiretti non possono modificare il nome legale della propria azienda se lo stato di convalida è "autorizzato". Per modificare il nome, sarà necessario [creare un ticket di supporto](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 
 ## <a name="update-your-mpn-global-business-account"></a>Aggiornare l'account aziendale globale MPN

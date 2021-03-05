@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 10/29/2020
-ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 3/2/2021
+ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756159"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185350"
 ---
 # <a name="payout-statements"></a>Estratti conto
 
@@ -56,8 +56,7 @@ Accedere al centro per i [partner](https://partner.microsoft.com/dashboard/home)
 
 ## <a name="transaction-history"></a>Cronologia delle transazioni
 
-Nella pagina **Cronologia transazioni** viene visualizzato il riepilogo dei tuoi guadagni, il pagamento stimato successivo e la tendenza per i guadagni e i pagamenti negli ultimi 36 mesi. È anche possibile scaricare i dettagli delle transazioni da questa sezione.
-
+Nella pagina **Cronologia transazioni** viene visualizzato il riepilogo dei tuoi guadagni, il pagamento stimato successivo e la tendenza per i guadagni e i pagamenti negli ultimi 36 mesi. È anche possibile scaricare i dettagli della transazione da questa sezione.<br><br>Questo report Mostra tutti i guadagni idonei per il pagamento, inclusi i pagamenti non ancora inviati. I guadagni sono idonei per il versamento quando un ISV ha completato tutte le informazioni bancarie e fiscali nel centro per i partner, ha guadagnato >$50, l'account ISV è attivo e il cliente è stato fatturato (per le transazioni EA) o il pagamento è stato ricevuto (per le transazioni non EA).
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Cenni preliminari sulle transazioni.":::
 

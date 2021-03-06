@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924903"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247663"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Domande comuni su pagamenti e imposte
 
@@ -63,7 +63,14 @@ Se la società è stata invitata a più programmi, è possibile utilizzare lo st
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Il profilo fiscale è scaduto. Com'è possibile risolvere il problema?
 
-Per aggiornare il profilo fiscale, seguire la procedura descritta in [creare o aggiornare il profilo fiscale](set-up-your-payout-account.md#create-or-update-your-tax-profile) . Nella pagina **profilo fiscale** è possibile visualizzare i profili scaduti o prossimi alla scadenza nella colonna **Data di scadenza** . 
+Se un profilo fiscale è scaduto o sta per scadere, significa che è necessario aggiornare il modulo fiscale fornito a Microsoft. Per aggiornare il profilo fiscale, attenersi alla procedura seguente:
+
+1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard/home)del centro per i partner, quindi selezionare l'icona a forma di ingranaggio per aprire il menu **Impostazioni** .
+2. Selezionare **Impostazioni account**, espandere la sezione **pagamenti e imposta** , quindi selezionare il profilo **di pagamento e di imposta** .
+3. Seleziona profilo **fiscale**
+4. Controllare la **Data di scadenza** della colonna e passare al profilo fiscale scaduto o che sta per scadere.
+5. Selezionare **modifica** per avviare il processo di modifica del profilo fiscale.
+6. Nella sezione modulo imposta specificare i dettagli aggiornati.
 
 ## <a name="earnings-incorrect-or-missing"></a>Guadagni non corretti o mancanti
 

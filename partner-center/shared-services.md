@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532039"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247711"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Consente di aggiungere servizi condivisi di Azure partner per consentire ai partner di acquistare sottoscrizioni di Azure per uso personale
 
@@ -25,7 +25,7 @@ ms.locfileid: "94532039"
 - Agente amministratore
 - Agente di vendita
 
-Azure - Servizi condivisi/Carico di lavoro interno è un nuovo tipo di offerta per i partner aderenti al programma CSP che consente di acquistare sottoscrizioni di Azure per uso proprio.Consente ai partner di usare un metodo uniforme per l'acquisto, il monitoraggio e la gestione di Azure, oltre alla possibilità di consolidare le licenze di Azure e di rivendere i contratti con Microsoft. Con i servizi condivisi del partner di Azure, i partner hanno ora la stessa flessibilità di usare le sottoscrizioni di Azure in CSP come nei programmi Microsoft Enterprise Agreement e Web Direct, aprendo scenari come: compilare ambienti di sviluppo e test, distribuire carichi di lavoro interni e ospitare servizi condivisi o applicazioni multi-tenant.  
+Azure - Servizi condivisi/Carico di lavoro interno è un nuovo tipo di offerta per i partner aderenti al programma CSP che consente di acquistare sottoscrizioni di Azure per uso proprio.Consente ai partner di usare un metodo uniforme per l'acquisto, il monitoraggio e la gestione di Azure, oltre alla possibilità di consolidare le licenze di Azure e di rivendere i contratti con Microsoft. Con i servizi condivisi del partner di Azure, i partner hanno ora la stessa flessibilità di usare le sottoscrizioni di Azure in CSP come nei programmi Microsoft Contratto Enterprise e Web Direct, aprendo scenari come: compilare ambienti di sviluppo e test, distribuire carichi di lavoro interni e ospitare servizi condivisi o applicazioni multi-tenant.  
 
 ## <a name="create-the-shared-services-tenant"></a>Creare il tenant di servizi condivisi
 
@@ -45,7 +45,7 @@ Azure - Servizi condivisi/Carico di lavoro interno è un nuovo tipo di offerta p
 
 - Il Azure-Servizi condivisi/Carico di lavoro interno sottoscrizione è un nuovo tipo di offerta di Azure in CSP accessibile tramite il centro per i partner che i partner ottengono per l'uso di Azure.
 
-- Azure-Servizi condivisi/Carico di lavoro interno offerta è idonea per sconti e incentivi.  Le sottoscrizioni dei servizi condivisi di Azure partner sono idonee e possono essere usate per acquistare RIs.
+- Le sottoscrizioni dei servizi condivisi di Azure partner sono idonee e possono essere usate per acquistare RIs.
 
 - L'offerta Azure-Servizi condivisi/Carico di lavoro interno può essere applicata solo al tenant dei servizi condivisi.
 

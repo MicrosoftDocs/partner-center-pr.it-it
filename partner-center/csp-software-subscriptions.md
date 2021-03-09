@@ -1,7 +1,7 @@
 ---
 title: Vendere abbonamenti software tramite CSP
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono usare il Centro per i partner per acquistare, gestire, vendere e annullare istanze riservate di Azure e abbonamenti server per i clienti.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6e08baf11061bc027b52d4662311bdc91ee0202
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756094"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475195"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendere abbonamenti software tramite il programma Cloud Solution Provider (CSP)
 
@@ -92,18 +92,25 @@ Per acquistare abbonamenti software per conto di un cliente:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Attivare e gestire abbonamenti software
 
-Una volta acquistato il software, i clienti dovranno scaricarlo. Utilizzare la procedura seguente per eseguire questa operazione.
+Una volta acquistato il software, l'utente o i clienti devono scaricarlo (partner che usano il centro per i partner; clienti che usano l'interfaccia di amministrazione di Microsoft 365). Utilizzare la procedura seguente per eseguire questa operazione. È importante comprendere i rischi associati alla copia dei collegamenti e al download del software. Per ulteriori informazioni, vedere **utilizzo del centro per i partner per ottenere i download del software e le chiavi di licenza** nel centro per i [partner New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Per ottenere il collegamento alle chiavi e ai download, è necessario essere un agente di amministrazione.
+>Per ottenere il collegamento alle chiavi e ai download, è necessario essere un agente di amministrazione nel centro per i partner.
 
-1. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Vedrai un elenco di tutto il software che hai acquistato per conto del cliente.
-2. Copiare il collegamento "Deep link" dal **collegamento ai codici Product Key del software e scaricare** e condividere il collegamento con il cliente. Quando si seleziona questo collegamento, verranno reindirizzati all'interfaccia di amministrazione di Microsoft per scaricare e ottenere i codici Product Key.
+1. Passare alla pagina dei dettagli del cliente e selezionare **software**. Vedrai un elenco di tutto il software che hai acquistato per conto del cliente.
+
+2. Scegliere **versione** prodotto, **lingua**, **bit** e selezionare **Ottieni chiavi e download**. 
+
+3. Scegliere **Ottieni chiave** per visualizzare il prodotto a 32 cifre in un dialogo popup che è possibile copiare e inviare al cliente. 
+
+4. Scegliere **download** per scaricare i bit. 
+
+5. Scegliere **copia collegamento** se si desidera inviare al cliente il collegamento al download BITS. 
+
+6. È anche possibile **annullare** l'ordine software e ricevere il credito del 100% (se completato entro il periodo dei criteri di annullamento di 60 giorni).
 
 >[!NOTE]
->Solo i clienti possono visualizzare i codici "Product Key" e scaricare le informazioni nell'interfaccia di amministrazione di Microsoft. I partner non possono visualizzare queste informazioni.
-
-Se l'utente o i clienti vogliono ottenere altre informazioni sul download delle chiavi di licenza, vedere [scaricare il software e i codici di licenza del prodotto](/microsoft-365/admin/setup/download-software-licenses-csp).
+>Solo i clienti hanno accesso per visualizzare i codici "Product Key" e scaricare le informazioni nell'interfaccia di amministrazione di Microsoft 365 (il ruolo di amministratore globale è obbligatorio). Per visualizzare queste informazioni, i partner devono usare il centro per i partner.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download e codici di licenza per sottoscrizioni di server disponibili tramite l'interfaccia di amministrazione di Microsoft 365 per i clienti 
 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/30/2020
-ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: b8fd7fdea5cfbbc43826e7ebe05eeca11b5fddc4
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705012"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475280"
 ---
 # <a name="september-2020-announcements"></a>Annunci di settembre 2020
 
@@ -35,6 +35,9 @@ ________________
 Tutti i partner CSP (Cloud Solution Provider) che si occupano della vendita di offerte software
 
 ### <a name="details"></a>Dettagli
+
+>[!NOTE]
+>A causa del feedback dei partner, la funzionalità di evasione del centro per i partner è stata ripristinare per ottenere il software e i codici di licenza per gli ordini di software di abbonamento perpetui e server. Verrà ripristinato lo stato precedente prima di essere rimosso il 19 gennaio 2021. Per ulteriori informazioni, vedere l' [annuncio di marzo 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
 
 I partner attualmente possono usare il Centro per i partner o l'interfaccia di amministrazione di Microsoft 365 per evadere download e codici di licenza del software per gli ordini di software CSP. A partire dal **19 gennaio 2021**, la funzionalità di evasione del software e del codice di licenza del centro per i partner verrà ritirata e i partner punteranno i clienti a usare l'interfaccia di **amministrazione di Microsoft 365** esclusivamente a questo scopo. La pagina software del cliente all'interno del centro per i partner conterrà un "collegamento approfondito" all'interfaccia di amministrazione di Microsoft 365, in cui è possibile puntare i clienti per ottenere le licenze dei clienti e i download del software. Ciò consente di garantire un'esperienza più sicura ed efficiente per i clienti stessi.
 

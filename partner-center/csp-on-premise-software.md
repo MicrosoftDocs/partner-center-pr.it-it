@@ -1,7 +1,7 @@
 ---
 title: Vendere software locale tramite CSP
 ms.topic: how-to
-ms.date: 03/04/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri in che modo i partner del programma CSP possono acquistare, gestire, vendere e annullare le sottoscrizioni software locali per conto dei clienti nel centro per i partner.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.openlocfilehash: 650f8085ba0e204b01f97a23640a37388ef57f17
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220245"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475211"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Vendere software locale tramite il programma Cloud Solution Provider (CSP)
 
@@ -33,20 +33,29 @@ Per acquistare sottoscrizioni software per conto di un cliente, passare alla pag
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Attivare e gestire abbonamenti software
 
-Una volta acquistato il software, l'utente o i clienti devono scaricarlo. Utilizzare la procedura seguente per eseguire questa operazione.
+Una volta acquistato il software, l'utente o i clienti devono scaricarlo (partner che usano il centro per i partner; clienti che usano l'interfaccia di amministrazione di Microsoft 365). Utilizzare la procedura seguente per eseguire questa operazione. È importante comprendere i rischi associati alla copia dei collegamenti e al download del software. Per ulteriori informazioni, vedere **utilizzo del centro per i partner per ottenere i download del software e le chiavi di licenza** nel centro per i [partner New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Per ottenere il collegamento alle chiavi e ai download, è necessario essere un agente di amministrazione.
+>Per ottenere il collegamento alle chiavi e ai download, è necessario essere un agente di amministrazione nel centro per i partner.
 
-1. Vai alla pagina dei dettagli del cliente e seleziona **Software**. Vedrai un elenco di tutto il software che hai acquistato per conto del cliente.
-2. Seguire le istruzioni riportate nella [Guida operativa dei partner](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) per completare l'evasione dell'acquisto del software per conto del cliente.
+1. Passare alla pagina dei dettagli del cliente e selezionare **software**. Vedrai un elenco di tutto il software che hai acquistato per conto del cliente.
+
+2. Scegliere **versione** prodotto, **lingua**, **bit** e selezionare **Ottieni chiavi e download**. 
+
+3. Scegliere **Ottieni chiave** per visualizzare il prodotto a 32 cifre in un dialogo popup che è possibile copiare e inviare al cliente. 
+
+4. Scegliere **download** per scaricare i bit. 
+
+5. Scegliere **copia collegamento** se si desidera inviare al cliente il collegamento al download BITS. 
+
+6. È anche possibile **annullare** l'ordine software e ricevere il credito del 100% (se completato entro il periodo dei criteri di annullamento di 60 giorni).
 
 >[!NOTE]
->Solo i clienti possono visualizzare i codici "Product Key" e scaricare le informazioni nell'interfaccia di amministrazione di Microsoft. I partner non possono visualizzare queste informazioni.
+>Solo i clienti hanno accesso per visualizzare i codici "Product Key" e scaricare le informazioni nell'interfaccia di amministrazione di Microsoft 365 (il ruolo di amministratore globale è obbligatorio). Per visualizzare queste informazioni, i partner devono usare il centro per i partner.
 
 ## <a name="cancel-a-purchase"></a>Annullare un acquisto
 
-Utilizzare la procedura seguente per annullare un acquisto. Al termine dell'annullamento, la chiave software verrà revocata. 
+Utilizzare la procedura seguente per annullare un acquisto. Al termine dell'annullamento, la chiave software verrà revocata.
 
 >[!NOTE]
 >Gli acquisti possono essere annullati solo dagli agenti amministratori. 

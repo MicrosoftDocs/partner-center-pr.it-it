@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: b8fd7fdea5cfbbc43826e7ebe05eeca11b5fddc4
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475280"
+ms.locfileid: "102514086"
 ---
 # <a name="september-2020-announcements"></a>Annunci di settembre 2020
 
@@ -57,6 +57,12 @@ L'interfaccia di amministrazione di Microsoft 365 rende più sicura la distribuz
 
 Per eventuali domande relative a questa notifica, contattare il [supporto tecnico del Centro per i partner](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
+### <a name="change-log"></a>Registro delle modifiche:
+
+- 30 settembre 2020: pubblicazione originale 
+
+- 5 marzo 2021: aggiunta di una nota nella parte superiore per quanto riguarda il ripristino della funzionalità di evasione delle chiavi di licenza e del software del centro partner.
+
 ________________
 ## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>Evoluzione del programma Cloud Solution Provider (CSP) e novità relative al programma Open License: verso una migliore esperienza per partner e clienti
 
@@ -71,6 +77,9 @@ Tutti i partner dei programmi CSP e Open License
 
 ### <a name="details"></a>Dettagli
 
+>[!NOTE]
+>A causa del feedback dei partner, la funzionalità di evasione del centro per i partner è stata ripristinare per ottenere il software e i codici di licenza per gli ordini di software di abbonamento perpetui e server. Verrà ripristinato lo stato precedente prima di essere rimosso il 19 gennaio 2021. Per ulteriori informazioni, vedere l' [annuncio di marzo 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+
 Il programma Microsoft CSP è cresciuto in modo esponenziale, con più di 90.000 società coinvolte. Si tratta della principale iniziativa Microsoft destinata ai partner per la vendita ad aziende di piccole e medie dimensioni e per clienti aziendali più piccoli all'interno della nuova esperienza commerciale. Sfruttando questa tendenza favorevole, Microsoft oggi ha annunciato l'intenzione di espandere le opportunità per i partner del programma CSP. I dettagli sono disponibili nel relativo [post del blog per i partner](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 
 ### <a name="next-steps"></a>Passaggi successivi
@@ -83,6 +92,11 @@ Il programma Microsoft CSP è cresciuto in modo esponenziale, con più di 90.000
 
 Per domande relative a questa notifica, contattare il [supporto tecnico del Centro per i partner](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
+### <a name="change-log"></a>Registro delle modifiche:
+
+- 30 settembre 2020: pubblicazione originale.
+
+- 5 marzo 2021: aggiunta di una nota nella parte superiore per quanto riguarda il ripristino della funzionalità di evasione delle chiavi di licenza e del software del centro partner.
 
 ________________
 ## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Disponibilità di un nuovo strumento per il trasferimento di sottoscrizioni tra partner per il piano di Azure 

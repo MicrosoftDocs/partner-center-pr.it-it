@@ -8,17 +8,37 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/04/2021
-ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.date: 03/09/2021
+ms.openlocfilehash: 2f3fd11125619ca3eaf3e0c870f5460a0abe2b4d
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220296"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619444"
 ---
 # <a name="march-2021-announcements"></a>Annunci 2021 di marzo
 
 Questa pagina fornisce gli annunci per Microsoft Partner Center per il 2021 marzo.
+
+________________
+## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>Ampliamento della nuova esperienza commerciale nel programma Cloud Solution Provider (CSP) per Azure in Russia
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-03-10
+- Funzionalità
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Tutti i partner in Russia che operano attraverso il programma Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Dettagli
+
+A partire da marzo 10 2021, siamo lieti di annunciare la disponibilità della **nuova esperienza commerciale in CSP per Azure in Russia**. Questa esperienza semplifica e migliora il modo in cui i clienti acquistano e utilizzano i servizi di Azure. Fornirà inoltre ai partner del programma CSP una visualizzazione coerente dei prezzi di Azure tra i movimenti di vendita, i prezzi USD per la coerenza globale, l'allineamento della data di fatturazione e l'accesso a gestione costi di Azure.
+
+### <a name="next-steps"></a>Passaggi successivi
+
+Sono disponibili diverse risorse che introducono la nuova esperienza di Azure Commerce e forniscono informazioni aggiuntive. Trovare le domande frequenti, i deck, i video e altro ancora più recenti nella [raccolta di risorse aggiornamenti del programma CSP](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/).
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Codice di licenza software per il centro per i partner e evasione del download

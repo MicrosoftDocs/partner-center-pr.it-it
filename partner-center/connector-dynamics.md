@@ -1,19 +1,19 @@
 ---
 title: Connettore di co-selling per Dynamics 365 CRM Partner Center
+description: Sincronizzare i riferimenti nel centro per i partner con il connettore di co-selling per Dynamics 365 CRM. I venditori possono quindi co-vendere con Microsoft dall'interno dei sistemi CRM.
 ms.topic: how-to
-ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sincronizzare i riferimenti nel centro per i partner con il connettore di co-selling per Dynamics 365 CRM. I venditori possono quindi co-vendere con Microsoft dall'interno dei sistemi CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
-ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
+ms.date: 03/01/2021
+ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "102532051"
+ms.locfileid: "102619410"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-selling Connector per Dynamics 365 CRM-Panoramica
 
@@ -88,7 +88,7 @@ Prima di installare, configurare e personalizzare la soluzione Power automatizza
 
    - L'amministratore di CRM con la funzionalità Power automatizza i flussi nella soluzione.
 
-      1. Selezionare **Connections (connessioni** ) dalla barra di spostamento a sinistra e selezionare la soluzione "Partner Center referrals" dall'elenco.
+      1. Selezionare **Connections (connessioni** ) nella barra di spostamento a sinistra e selezionare la soluzione centro per i partner per i **riferimenti** dall'elenco.
 
       2. Creare una connessione facendo clic su **Crea una connessione**.
 
@@ -110,11 +110,11 @@ Prima di installare, configurare e personalizzare la soluzione Power automatizza
 
 1. Tornare alla pagina **soluzioni** e selezionare **soluzione predefinita**. Selezionare **riferimento alla connessione (anteprima)** facendo clic su **tutto**.
 
-:::image type="content" source="images/connection-reference-video.gif" alt-text="Modifica delle connessioni":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="Modifica delle connessioni":::
 
 2. Modificare ognuna delle connessioni una alla volta selezionando l'icona a tre punti. Aggiungere le connessioni pertinenti.
 
-:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Connessioni elencate"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Connessioni elencate"::: 
 
 3.  Tornare alla pagina soluzioni, selezionare la sincronizzazione dei riferimenti del centro per i partner per Dynamics 365 e attivare il flusso facendo clic sull'icona a tre punti accanto a ogni flusso nella sequenza seguente. Se si verificano problemi durante l'attivazione del flusso, vedere la procedura di [personalizzazione](connector-dynamics.md#customize-synchronization-steps) e i passaggi per la [risoluzione dei problemi](connectors-troubleshoot.md). 
 
@@ -171,19 +171,19 @@ Di seguito sono riportate le personalizzazioni disponibili:
 
 - Valore di Deal: per impostazione predefinita, il valore di Deal dal centro per i partner verrà sincronizzato da e verso **estimatedvalue** in CRM. Se è presente un campo diverso in CRM per il valore di Deal da sincronizzare:
 
-    a.    Aggiornare il nome del campo del valore dell'affare nella variabile di ambiente Dynamics 365 con il nome del campo di CRM. Si noti che è necessario specificare il nome del campo non il nome visualizzato.
+  a. Aggiornare il nome del campo del valore dell'affare nella variabile di ambiente Dynamics 365 con il nome del campo di CRM. Si noti che è necessario specificare il nome del campo non il nome visualizzato.
 
-    b.    Modificare **[personalizzare] creare o ottenere dettagli da Dynamics 365 Flow**  e passare a **creare o aggiornare** l'opportunità in CRM e aggiornare **creare una nuova opportunità** e aggiornare le azioni di **opportunità esistenti** per assegnare il valore **DealValue** al campo corretto in CRM. Rimuovere anche l' **assegnazione DealValue** dal campo **stimato dei ricavi** .
+  b. Modificare **[personalizzare] creare o ottenere dettagli da Dynamics 365 Flow**  e passare a **creare o aggiornare** l'opportunità in CRM e aggiornare **creare una nuova opportunità** e aggiornare le azioni di **opportunità esistenti** per assegnare il valore **DealValue** al campo corretto in CRM. Rimuovere anche l' **assegnazione DealValue** dal campo **stimato dei ricavi** .
 
 - Codice paese dell'account del cliente: è obbligatorio fornire un codice paese di due lettere (ISO 3166) quando si crea un nuovo riferimento. Per impostazione predefinita, il codice paese verrà sincronizzato da e verso il campo address1_country dell'account in CRM. Se è presente un campo diverso in CRM per il codice paese da sincronizzare:
 
-   a.    Per un campo di codice paese non di ricerca nell'account che contiene il codice di due lettere:
+   a. Per un campo di codice paese non di ricerca nell'account che contiene il codice di due lettere:
 
    - Aggiornare il nome del campo del codice paese dell'account del cliente nella variabile di ambiente Dynamics 365 con il nome del campo di CRM. Si noti che è necessario specificare il nome del campo non il nome visualizzato.
 
    - Modificare **[personalizzare] creare o ottenere dettagli da Dynamics 365 Flow**  e passare a creare o ottenere un account cliente in azione CRM per assegnare il valore del paese al campo corretto in CRM. Rimuovere anche assegnazione valore paese dal campo Indirizzo 1: paese/area geografica.
 
-   b.    Per un campo di codice paese basato su ricerca nell'account:
+   b. Per un campo di codice paese basato su ricerca nell'account:
 
    - Aggiungere un nuovo campo personalizzato nell'account e popolarlo automaticamente con codice paese di due lettere (ISO 3166) in base al valore selezionato nel campo basato su ricerca e viceversa.
 
@@ -205,7 +205,7 @@ Per aggiornare un valore della variabile di ambiente:
 
 3. Aggiornare il valore **corrente** (non aggiornare il valore predefinito) utilizzando l'opzione **nuovo valore** e fornire il valore. Il valore deve corrispondere al tipo di dati della variabile, ad esempio Sì/nessun tipo di dati accetterà un valore Sì o no.
 
- :::image type="content" source="images/environment-variables-video.gif" alt-text="Aggiorna variabili ambientali":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="Aggiorna variabili ambientali":::
 
 - Sincronizzazione del riferimento bidirezionale end-to-end
 
@@ -242,13 +242,11 @@ I campi personalizzati seguenti devono far parte della sezione CRM:
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alt-text}":::
 
-
-
 - Dopo aver aggiunto le soluzioni Microsoft, è possibile pre-popolare i dettagli delle soluzioni pronte per la co-selling, in modo che i venditori non debbano aggiungerli. Per aggiungere un nuovo dettaglio della soluzione, passare all'oggetto dettagli della soluzione Microsoft in CRM e fare clic su **Aggiungi record** per aggiungere una voce o usare il **caricamento di Excel** per aggiungere più voci.
 
-:::image type="content" source="images/dynamic-1a.png" alt-text="Dettagli della soluzione":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="Dettagli della soluzione":::
 
-### <a name="scenarios"></a>SCENARI
+### <a name="scenarios"></a>Scenari:
 
 1. Sincronizzazione del riferimento quando il riferimento viene creato o aggiornato in CRM e sincronizzato nel centro per i partner:
 
@@ -265,6 +263,7 @@ I campi personalizzati seguenti devono far parte della sezione CRM:
          :::image type="content" source="images/dynamic-3a.png" alt-text="Come ottenere i campi appropriati nella visualizzazione scheda":::
 
       - **Contatto del cliente**: per creare un riferimento di co-selling, aggiungere un contatto del cliente all'opportunità.
+
       - **Sincronizza con il centro per i partner**: Sì
 
       - Microsoft Solutions: per condividere un riferimento con Microsoft, è possibile aggiungere una valida soluzione di co-selling o una soluzione Microsoft alle opportunità.

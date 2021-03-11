@@ -1,38 +1,38 @@
 ---
-title: Operazioni bulk tramite file di Excel in riferimenti
+title: Esportazione e importazione bulk di opportunità di co-selling tramite file di Excel/CSV in riferimenti
+description: Informazioni su come scaricare, creare o aggiornare le opportunità di co-selling usando file di Excel (CSV) nel centro per i partner
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come scaricare, creare o aggiornare le opportunità di co-selling tramite file di Excel
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756070"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619393"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Operazioni bulk per le opportunità di co-selling con file con valori delimitati da virgole (CSV)
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operazioni bulk per le opportunità di co-selling con file con valori delimitati da virgole (CSV)
 
 **Ruoli appropriati**
 
 - Amministratore delle segnalazioni
 - Utente delle segnalazioni
 
-Le operazioni bulk nel centro per i partner consentiranno all'azienda di esportare e importare i dati sulle opportunità di co-selling. Passare alla pagina opportunità di co-selling per trovare i collegamenti importa ed Esporta nella parte superiore destra del banner del titolo della pagina. Questa funzionalità può essere utilizzata dagli utenti con autorizzazioni di **amministratore** e di **riferimento** .
+Le operazioni bulk nel centro per i partner consentono all'azienda di esportare e importare i dati relativi alle opportunità di co-selling. Passare alla pagina **opportunità di co-selling** per trovare i collegamenti **Importa** ed **Esporta** nella parte superiore destra del banner del titolo della pagina. Questa funzionalità può essere utilizzata dagli utenti con autorizzazioni di **amministratore** e di **riferimento** .
 
 > [!IMPORTANT]
 > Le azioni di creazione/aggiornamento eseguite mediante l'importazione bulk non sono reversibili. Prestare attenzione quando si modifica o si crea un numero elevato di record. È possibile modificare solo un subset di campi dopo la creazione di una trattativa. **Non saranno consentite azioni quando si raggiunge uno stato terminale come rifiutato/scaduto/vinto/perduto.**
 
-## <a name="exporting-co-sell-opportunities"></a>Esportazione di opportunità di co-selling
+## <a name="export-co-sell-opportunities"></a>Esporta opportunità di co-selling
 
-Di seguito sono riportati i dettagli della funzionalità di esportazione
+Le informazioni seguenti descrivono la funzionalità di esportazione:
 
-- È possibile esportare un **massimo di 5000 record** facendo clic sul pulsante Esporta.
+- È possibile esportare un **massimo di 5000 record** facendo clic sul pulsante **Esporta** .
 - Le offerte scaricate verranno basate sui livelli di accesso. Gli amministratori e gli utenti di riferimento possono ottenere risultati diversi in base al relativo ambito e inclusione come membri del team nelle offerte. Altre informazioni sulle [autorizzazioni](permissions-overview.md#manage-referrals)per i riferimenti.
 - La funzione Export prende in considerazione la scheda corrente nella pagina opportunità di co-selling e i filtri applicati.
 - Verrà generato un file CSV con tutti i dati basati sui filtri applicati.
@@ -40,7 +40,7 @@ Di seguito sono riportati i dettagli della funzionalità di esportazione
 - Non è necessario attendere il completamento dell'azione di download. Anche se si passa ad altre pagine del centro per i partner, il file verrà scaricato non appena la funzione di esportazione è completa.
 - È possibile riutilizzare il file scaricato per modificare i dettagli dell'operazione e caricare per aggiornare i record.
 
-## <a name="importing-co-sell-opportunities"></a>Importazione di opportunità di co-selling
+## <a name="import-co-sell-opportunities"></a>Importa opportunità di co-selling
 
 - È possibile creare o aggiornare un **massimo di 1000 record** utilizzando la funzionalità di importazione.
 - È possibile compilare il modello da zero scaricando il modello dalla pagina Importa nel centro per i partner.
@@ -95,3 +95,10 @@ Note a Microsoft|No|Eventuali note specifiche su Microsoft per richiedere assist
 Consenso alla condivisione del contatto clienti/partner|Sì|Il consenso a condividere i dettagli di contatto dei clienti e i dettagli di contatto dei dipendenti della società che stanno lavorando al problema. **Le offerte non verranno create o aggiornate se si sceglie No per questa colonna.** |Sì
 Soluzione 1|Sì|ID soluzione (obbligatorio), valuta (facoltativo) in cui viene immesso il valore dell'operazione. È possibile trovare i codici di valuta [qui](https://en.wikipedia.org/wiki/ISO_4217), il prezzo dello SKU (facoltativo) e la quantità dello SKU (facoltativo)  |SOL-1234-PQRS, USD, 10, 100
 Membro del team 1|Sì|Nome, cognome, numero di cellulare e ID di posta elettronica del rispettivo membro del team.| Bob, partner, 999999, Bob.partner@Contoso.com
+
+## <a name="next-steps"></a>Passaggi successivi
+
+È possibile usare questi connettori di co-selling del centro per i partner per co-selling con Microsoft dall'interno dei sistemi CRM.
+
+- [Co-selling Connector per Dynamics 365 CRM-Panoramica](connector-dynamics.md)
+- [Connettore di co-selling per CRM Salesforce - Panoramica](connector-salesforce.md)

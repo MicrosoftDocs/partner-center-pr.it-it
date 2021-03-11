@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124823"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770277"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)
 
@@ -81,7 +81,7 @@ Per trovare l'amministratore dell'account aziendale:
 
    La pagina visualizzerà tutti gli amministratori dell'account con i rispettivi indirizzi di posta elettronica. Inviare un messaggio di posta elettronica a uno di essi e chiedere di assegnare il ruolo di amministratore dei riferimenti per l'account aziendale.
 
-  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Immagine che Mostra gli amministratori dell'account nella pagina Gestione utenti delle impostazioni partner.":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Immagine che Mostra gli amministratori dell'account nella pagina Gestione utenti delle impostazioni partner.":::
 
 >[!Important]
 >- Se il ruolo prevede solo la gestione degli utenti in CPS, richiedere all'amministratore dell'account aziendale di assegnare il ruolo di [amministratore dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) nel centro per i partner. 
@@ -95,7 +95,7 @@ Dopo aver configurato l'account nel centro per i partner, usare la migrazione gu
 >[!Note]
 > La migrazione degli utenti può essere eseguita solo dagli [amministratori dell'account](permissions-overview.md#manage-mpn-membership-and-your-company) della società. Se non si ha il ruolo di amministratore dell'account, trovare un amministratore dell'account che consenta di configurare gli account utente con la guida della migrazione guidata utenti.
 
-:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Immagine che mostra la migrazione guidata utenti.":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Immagine che mostra la migrazione guidata utenti.":::
 
 Gli amministratori dell'account visualizzeranno un collegamento della migrazione guidata utenti di PSC nella pagina di co-selling Opportunities accanto alla guida dei riferimenti. È possibile avviare la migrazione degli utenti selezionando il collegamento. Per avviare la migrazione degli utenti, gli amministratori possono selezionare il collegamento. Questi passaggi possono essere eseguiti più volte fino a quando a tutti gli utenti non vengono assegnati ruoli appropriati nel centro per i partner.
 

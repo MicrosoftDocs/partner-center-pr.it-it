@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755829"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022741"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Aggiornare alcuni clienti Education da Windows 10 Home a Windows 10 Education
 
 **Ruoli appropriati**
 
 - Agente amministratore
-- Agente di supporto tecnico
+- Amministratore fatturazione
 
 ## <a name="overview"></a>Panoramica
 
@@ -57,8 +57,8 @@ I partner devono creare una richiesta di supporto e ottenere le chiavi dal suppo
 
 - **Titolo:** Codice Product Key per l'aggiornamento da Windows 10 Home a Windows 10 Education
 - **Descrizione:** Richiesta [Inserisci numero] tasti per abilitare l'aggiornamento a Windows 10 Education. (Si noti che il numero di chiavi richieste non deve essere maggiore delle licenze di sottoscrizione di Microsoft 365 a3/a5 o Windows 10 Enterprise a3/a5). ID sottoscrizione del cliente [inserire il GUID dell'ID sottoscrizione dei clienti per la sottoscrizione Microsoft 365 a3/a5 o Windows 10 Enterprise a3/a5.]
-- **Numero contatto:** Questa operazione verrà precompilata; esaminare per confermare o aggiornare.
-- **Posta elettronica:** Questa operazione verrà precompilata e dovrebbe essere l'indirizzo di posta elettronica usato come amministratore del portale Microsoft (solo amministratore globale o amministratore fatturazione).
+- **Numero contatto:** Questa operazione verrà precompilata. esaminare per confermare o aggiornare.
+- **Posta elettronica:** Questa operazione sarà precompilata e dovrebbe essere il messaggio di posta elettronica usato come amministratore del portale Microsoft (solo amministratore globale o amministratore fatturazione).
 - **Metodo di contatto preferito**: scegliere **telefono** o **pianificare una chiamata**.
 
 8. Selezionare **contattami**. Il tempo di attesa previsto è indicato nel riquadro **necessità della Guida** .
@@ -92,8 +92,9 @@ I clienti dell'istruzione dovrebbero prendere in considerazione i dispositivi di
 **Esiste una scadenza per il momento in cui contattare il supporto tecnico e ricevere la chiave di aggiornamento?**
 L'aggiornamento di Windows 10 Education si basa sulle sottoscrizioni di licenze Active Microsoft 365 a3/a5 o Windows 10 Enterprise a3/a5 del cliente. Se il cliente non estende o rinnova la sottoscrizione, viene terminata anche l'idoneità per l'aggiornamento.
 
+## <a name="next-steps"></a>Passaggi successivi
+
 **Dove possono ottenere ulteriori informazioni su Windows 10 Education?**
-Per ulteriori informazioni, vedere i collegamenti seguenti:
 
 - [Funzionalità di Windows istruzione](https://www.microsoft.com/education/products/windows/features)
 - [Windows Education Hub](/education/windows/)

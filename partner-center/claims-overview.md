@@ -1,7 +1,7 @@
 ---
 title: Panoramica degli incentivi e delle attestazioni
 ms.topic: article
-ms.date: 10/29/2020
+ms.date: 03/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Informazioni su come inviare una richiesta di co-op corretta per gli incentivi organizzando la documentazione, le fatture, le istruzioni e la verifica dell'esecuzione corrette.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354509"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022707"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Guadagna fondi di marketing cooperativi
 
@@ -54,10 +54,10 @@ La tabella seguente illustra i diversi periodi di guadagno, utilizzo e reclamo. 
 
 |  Se il periodo di guadagno/accumulo è  |Il periodo di semestre fiscale è  |  Il periodo di utilizzo è  |  Il periodo di attestazione è  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Luglio-dicembre 2020**| FY20 H1  |  Jan-2021 giugno  |  16 febbraio-agosto 15 2021  |
-|**Jan-2021 giugno** |  FY20 H2  |  Luglio-dicembre 2021  |  Aug 16 2021-Feb 15 2022  |
-|**Luglio-dicembre 2021**|  FY21 H1  |  Jan-2022 giugno  |  16 febbraio-agosto 15 2022  |
-|**Jan-2022 giugno** |  FY21 H2  |  Luglio-dicembre 2022  |  Aug 16 2022-feb 15 2023  |
+|**Luglio-dicembre 2020**| FY21 H1  |  Jan-2021 giugno  |  16 febbraio-agosto 15 2021  |
+|**Jan-2021 giugno** |  FY21 H2  |  Luglio-dicembre 2021  |  Aug 16 2021-Feb 15 2022  |
+|**Luglio-dicembre 2021**|  FY22 H1  |  Jan-2022 giugno  |  16 febbraio-agosto 15 2022  |
+|**Jan-2022 giugno** |  FY22 H2  |  Luglio-dicembre 2022  |  Aug 16 2022-feb 15 2023  |
 
 >[!NOTE]
 >Microsoft si riserva il diritto di richiedere documenti di prova di esecuzione (PoE) originali. È consigliabile tenere tutti i documenti originali per 24 mesi dopo la data dell'attività.

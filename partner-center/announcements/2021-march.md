@@ -8,17 +8,51 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/09/2021
-ms.openlocfilehash: 2f3fd11125619ca3eaf3e0c870f5460a0abe2b4d
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.date: 03/11/2021
+ms.openlocfilehash: 479f18318a2cc85ca16c399a0379e5528090d229
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619444"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193631"
 ---
 # <a name="march-2021-announcements"></a>Annunci 2021 di marzo
 
 Questa pagina fornisce gli annunci per Microsoft Partner Center per il 2021 marzo.
+
+________________
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Esegui la migrazione delle tue soluzioni da un partner commerciale (OCP) go-to-Market (GTM) a Microsoft Commercial Marketplace
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-03-12
+- Funzionalità
+
+### <a name="summary"></a>Riepilogo
+
+Dal 29 marzo 2021, si inizierà a provare a usare le funzionalità limitate di un partner commerciale (GTM). Ti invitiamo a eseguire la migrazione delle tue soluzioni al Marketplace commerciale nel centro per i partner.
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Co-selling delle organizzazioni con soluzioni in OCP GTM
+
+### <a name="details"></a>Dettagli
+
+Nel dicembre 2020 abbiamo iniziato il nostro viaggio dallo strumento Microsoft OCP GTM a Microsoft Commercial Marketplace nel centro per i partner. Questa transizione espande le funzionalità del Marketplace commerciale, in cui è possibile presentare le soluzioni a milioni di clienti, condividere in modo bidirezionale le opportunità con altri venditori Microsoft e partner e vendere congiuntamente soluzioni innovative.
+
+L'attività cardine successiva della transizione verrà eseguita il 29 marzo 2021. Questo è il momento in cui si iniziano a provare le funzionalità GTM OCP limitate, con alcuni campi che diventano di sola lettura. Se attualmente si condivide con le soluzioni in OCP GTM, si consiglia di eseguire la migrazione delle soluzioni al Marketplace commerciale per sfruttare le funzionalità e semplificare l'esperienza di pubblicazione. 
+
+Il passaggio al Marketplace commerciale rende il centro partner la destinazione principale per l'esperienza di pubblicazione di co-selling. Puoi continuare a far crescere il tuo business connettendo le tue soluzioni con i nostri clienti condivisi attraverso gli stessi canali e le tue esperienze del prodotto usate per i prodotti Microsoft. [Scopri di più sul Marketplace commerciale](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/).
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- Se non sono state ancora spostate le soluzioni, seguire le istruzioni riportate nella [Guida alla transizione](https://docs.microsoft.com/azure/marketplace/co-sell-solution-migration) o visualizzare l'esercitazione dettagliata del [video](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) per completare tutte le attività di migrazione e iniziare a pubblicare le soluzioni nel Marketplace commerciale.
+
+- Per domande sull'esperienza limitata in OCP GTM, vedere i [requisiti di co-selling per la pubblicazione nelle domande frequenti su Microsoft Commercial Marketplace](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf). Vedere la sezione "OCP GTM Limited capabilities a partire dal 29 marzo 2021".
+
+### <a name="questions"></a>Domande?
+
+Per eventuali domande o per richiedere ulteriori informazioni, contattare il [supporto tecnico](https://partner.microsoft.com/support/?stage=1) .
 
 ________________
 ## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>Ampliamento della nuova esperienza commerciale nel programma Cloud Solution Provider (CSP) per Azure in Russia

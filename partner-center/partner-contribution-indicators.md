@@ -1,7 +1,7 @@
 ---
 title: Indicatori di contributo partner-CBA
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 03/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su sette indicatori di contributo partner (PCI) che mostrano ai partner come ottenere una competenza Business Applications Cloud Silver o Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756565"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193648"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Usare gli indicatori di contributo dei partner per ottenere la competenza cloud Business Applications
 
@@ -274,11 +274,11 @@ Un partner ha una di due opzioni per ottenere i punti di tutto o niente (15 o 0 
 
 - **Non verranno assegnati punti parziali.** La crescita in cima allo snapshot della linea di base deve soddisfare o superare le soglie indicate nella tabella seguente. La tabella mostra una colonna **sviluppata** e in **sviluppo** con la baseline del consulente funzionale necessaria per poter guadagnare punti.
 
-  | Sviluppato | Sviluppo | Crescita necessaria per ottenere tutti i 15 punti *
+  | Sviluppato | Sviluppo | Crescita necessaria per ottenere tutti i 15 punti
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35% |
   | 30-49 | 15-24 | 25% |
-  | 50 e versioni successive | 25 e versioni successive | 15% |
+  | 50 e versioni successive | 25 e versioni successive | Vedere le opzioni seguenti |
 
 **Opzione due per ottenere i punti:**
 

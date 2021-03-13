@@ -1,17 +1,17 @@
 ---
 title: Acquisto di software e soluzioni da Azure Marketplace
 description: Informazioni sugli strumenti che semplificano e semplificano gli acquisti e la gestione di software in Azure Marketplace.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: ac20b3c0603f886104499ab8de6da1d3459bbd57
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584211"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412574"
 ---
 # <a name="azure-marketplace-purchasing"></a>Acquisto in Azure Marketplace
 
@@ -19,7 +19,7 @@ Azure Marketplace offre numerosi strumenti e funzionalità che semplificano e se
 
 ## <a name="simplified-procurement"></a>Approvvigionamento semplificato
 
-Azure Marketplace semplifica di processo di approvvigionamento offrendo varie opzioni di acquisto. Se si acquistano prodotti usando una carta di credito associata all'account Azure, tutti gli acquisti verranno consolidati in una singola fattura e addebitati alla carta di credito scelta. Se sei un cliente di grandi dimensioni, puoi acquistare usando un Enterprise Agreement. Con un contratto Enterprise, tutti gli acquisti di software vengono inclusi automaticamente nella fattura di Azure. che indicherà prima gli addebiti per l'utilizzo di Azure e quindi gli addebiti di Azure Marketplace.
+Azure Marketplace semplifica di processo di approvvigionamento offrendo varie opzioni di acquisto. Se si acquistano prodotti usando una carta di credito associata all'account Azure, tutti gli acquisti verranno consolidati in una singola fattura e addebitati alla carta di credito scelta. Se sei un cliente di grandi dimensioni, puoi acquistare usando un Contratto Enterprise. Con un contratto Enterprise, tutti gli acquisti di software vengono inclusi automaticamente nella fattura di Azure. che indicherà prima gli addebiti per l'utilizzo di Azure e quindi gli addebiti di Azure Marketplace.
 
 Quando si acquista tramite Azure Marketplace, si elimina la complessità della gestione delle relazioni e delle fatture dei singoli fornitori. Si ottiene una singola fattura mensile consolidata da Microsoft che include gli acquisti in Azure Marketplace e i costi di Azure.
 
@@ -65,7 +65,7 @@ Quando si acquistano prodotti da Azure Marketplace, è possibile ottenere inform
 
 L'acquisto di un'offerta tramite Azure Marketplace può avere esito negativo per diversi motivi. L'uso dell'interfaccia della riga di comando (CLI) per un acquisto è più probabile che causi errori poiché è possibile che si stia tentando di acquistare un'offerta non disponibile o visibile in Azure Marketplace. Di seguito sono riportati i controlli che possono causare un errore di acquisto:
 
-1. La sottoscrizione appartiene a un Enterprise Agreement (EA) e l'amministratore EA ha disabilitato gli acquisti su Azure Marketplace.
+1. La sottoscrizione appartiene a un Contratto Enterprise (EA) e l'amministratore EA ha disabilitato gli acquisti su Azure Marketplace.
 1. L'amministratore EA ha abilitato gli acquisti solo per le offerte gratuite e l'offerta è un'offerta a pagamento.
 1. L'offerta non è disponibile nel Marketplace.
 1. Il fornitore di software indipendente (ISV) ha interrotto la vendita dell'offerta, almeno nella propria area geografica.

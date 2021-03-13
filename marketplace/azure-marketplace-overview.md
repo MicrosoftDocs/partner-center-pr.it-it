@@ -1,17 +1,17 @@
 ---
 title: Panoramica su Azure Marketplace
 description: Scopri di più su Azure Marketplace Online Store e Scopri come trovare e provare software e soluzioni.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182529"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412591"
 ---
 # <a name="what-is-azure-marketplace"></a>Che cos'è Azure Marketplace?
 

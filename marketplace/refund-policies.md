@@ -1,17 +1,17 @@
 ---
 title: Criteri di rimborso per Microsoft AppSource e Azure Marketplace
 description: Informazioni sui criteri di rimborso per i prodotti venduti in Microsoft AppSource e in Azure Marketplace
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: article
 author: anbene
 ms.author: jeweber
 ms.date: 11/20/2020
-ms.openlocfilehash: 28792f2666f8d7fd2171002dc71b62b151b44c7b
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 10055b164610d5a9d0eb9da5e7240164581afbee
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007280"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412676"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Criteri di rimborso per Microsoft AppSource e Azure Marketplace
 
@@ -39,7 +39,7 @@ Le applicazioni gestite di Azure non sono rimborsabili.
 
 I criteri di rimborso per l'istanza riservata di Azure sono disponibili presso gli [scambi self-service e i rimborsi per le prenotazioni di Azure](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations).
 
-## <a name="azure-support-plans"></a>Piani di supporto di Azure
+## <a name="azure-support-plans"></a>Piani di supporto per Azure
 
 Se si trasferisce o si modifica il piano di supporto di Azure, l'utente potrebbe essere idoneo per un rimborso parziale. L'importo del rimborso è basato sulla parte rimanente del periodo di sottoscrizione.
 

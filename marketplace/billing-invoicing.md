@@ -1,17 +1,17 @@
 ---
 title: Fatturazione e fatturazione per i clienti di Azure Marketplace
 description: Questo articolo descrive le domande frequenti sulla fatturazione e sulla fatturazione per i clienti di Azure Marketplace.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0d03554f96acf6cd2953d3b968192ffbb23185ce
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514776"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412608"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Fatturazione e fatturazione in Azure Marketplace
 
@@ -50,7 +50,7 @@ Verranno addebitati gli acquisti ricorrenti nel periodo in cui è stato acquista
 
 ## <a name="invoices"></a>Fatture
 
-Si riceverà un messaggio di posta elettronica all'inizio di ogni mese di calendario quando la fattura è disponibile nella portale di Azure. La fattura mostrerà tutte le offerte gratuite e a pagamento acquistate e/o utilizzate durante il mese di calendario. Se si hanno solo offerte gratuite, verranno visualizzate solo le voci $0 e non sarà necessario eseguire alcuna azione di pagamento. **Enterprise Agreement clienti** riceveranno una fattura combinata che Mostra gli addebiti per Azure e Azure Marketplace, esclusi i clienti in Australia, Giappone e Singapore. **I clienti che acquistano direttamente da Azure Marketplace** riceveranno una fattura solo per gli acquisti su Azure Marketplace. Per informazioni dettagliate, vedere [fatture per gli account MOSP](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts).
+Si riceverà un messaggio di posta elettronica all'inizio di ogni mese di calendario quando la fattura è disponibile nella portale di Azure. La fattura mostrerà tutte le offerte gratuite e a pagamento acquistate e/o utilizzate durante il mese di calendario. Se si hanno solo offerte gratuite, verranno visualizzate solo le voci $0 e non sarà necessario eseguire alcuna azione di pagamento. **Contratto Enterprise clienti** riceveranno una fattura combinata che Mostra gli addebiti per Azure e Azure Marketplace, esclusi i clienti in Australia, Giappone e Singapore. **I clienti che acquistano direttamente da Azure Marketplace** riceveranno una fattura solo per gli acquisti su Azure Marketplace. Per informazioni dettagliate, vedere [fatture per gli account MOSP](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts).
 
 Quando si riceve la fattura, l'utente può variare:
 

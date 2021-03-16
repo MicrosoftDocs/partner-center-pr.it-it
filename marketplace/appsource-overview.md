@@ -5,13 +5,14 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 03/12/2021
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 26de300413e9b718545489b1ab4a3aa6a0286bf3
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412523"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486871"
 ---
 # <a name="what-is-microsoft-appsource"></a>Che cos'è Microsoft AppSource?
 
@@ -21,13 +22,25 @@ Il catalogo di AppSource include applicazioni SaaS (Software as a Service), solu
 
 ## <a name="find-what-you-need-on-appsource"></a>Trovare gli elementi necessari in AppSource
 
-AppSource offre semplici opzioni di ricerca e filtro che consentono di trovare rapidamente ciò che si sta cercando. Utilizzare la barra di ricerca nella parte superiore della pagina per trovare le soluzioni per fornitore, nome prodotto o parole chiave. Usare i filtri nella parte superiore della pagina per limitare i risultati in base alla disponibilità di una versione di valutazione gratuita o test drive, modello di determinazione prezzi (gratuita o a pagamento) e classificazioni.
+AppSource offre semplici opzioni di ricerca e filtro che consentono di trovare rapidamente ciò che si sta cercando. Utilizzare la barra di **ricerca** nella parte superiore della pagina per trovare le soluzioni per fornitore, nome prodotto o parole chiave.
 
-Il riquadro più a sinistra consente di filtrare i risultati in base a un elenco di tipi di prodotti, categorie e settori. I tipi di prodotto AppSource sono basati su prodotti come Microsoft 365 e Power Apps. Le categorie sono basate su funzioni aziendali come la collaborazione e il marketing. È anche possibile scegliere da un elenco di settori, ad esempio agricoltura e produzione.
+[![Mostra la pagina di destinazione di Microsoft AppSource.](media/appsource-overview/appsource-home-page.png)](media/appsource-overview/appsource-home-page.png#lightbox)
+
+Quando si Esplora la [raccolta di app](https://appsource.microsoft.com/marketplace/apps), usare i filtri nella parte superiore della pagina per limitare i risultati in base alla disponibilità di una versione di valutazione gratuita o test drive, al modello di determinazione prezzi (gratuita o a pagamento) e alle classificazioni dei clienti.
+
+Il riquadro più a sinistra consente di filtrare i risultati in base a un elenco di tipi di prodotti, categorie e settori. I tipi di prodotto AppSource sono basati su prodotti come Microsoft 365, Dynamics 365 e Power Platform. Le categorie sono basate su funzioni aziendali come vendite, collaborazione o marketing. È anche possibile scegliere da un elenco di settori come servizi finanziari, assistenza sanitaria e distribuzione.
+
+## <a name="microsoft-preferred-solutions"></a>Soluzioni preferite Microsoft
+
+Quando si esegue una ricerca o si filtra il catalogo, i risultati possono includere soluzioni preferite Microsoft, che vengono identificate tramite la notifica delle soluzioni preferite situata nell'angolo inferiore destro della scheda dell'app o la notifica nella pagina dei dettagli del prodotto.
+
+:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="Mostra il badge del provider preferito AppSource.":::
+
+Le soluzioni preferite sono selezionate da un team di esperti Microsoft e sono pubblicate da partner Microsoft con competenze e capacità comprovate per soddisfare specifiche esigenze dei clienti in una categoria, un settore o un settore verticale.
 
 ## <a name="take-action-on-a-listing"></a>Eseguire un'azione in un elenco
 
-Quando si seleziona un'app dai _risultati dell'app_, viene visualizzata la pagina di elenco per l'app. Ogni listato in AppSource supporta una o più delle opzioni elencate di seguito:
+Selezionare un'app dai *risultati dell'app* per visualizzare la pagina di visualizzazione dell'app. Eseguire un'azione su un elenco selezionando una o più delle seguenti opzioni:
 
 - Per **ottenerlo adesso**, Acquista immediatamente la soluzione.
 - **Test drive**: esplorare una demo curata. Un test drive non usa i dati o l'ambiente di produzione, ma consente di determinare se la soluzione soddisfa le esigenze aziendali.

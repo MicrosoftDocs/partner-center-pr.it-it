@@ -1,7 +1,7 @@
 ---
 title: Gestire l'account del Centro per i partner
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come usare il Centro per i partner per gestire il profilo, i dati bancari e fiscali, i ruoli e le autorizzazioni e altro ancora per l'azienda.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235971"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103487007"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gestire l'account del Centro per i partner: profilo della società, informazioni bancarie, ruoli, autorizzazioni e altri dati
 
@@ -26,7 +26,7 @@ L'account creato nel Centro per i partner al momento dell'iscrizione è costitui
 Vedere anche gli articoli [Invitare i dipendenti a partecipare al Centro per i partner](guide-to-migration.md) e [Aggiungere un nuovo utente](create-user-accounts-and-set-permissions.md).
 
 >[!NOTE]
->Il menu Impostazioni account cambierà a seconda dei programmi a cui si è iscritti. Se, ad esempio, si è un partner del programma Cloud Solution Provider (CSP), sarà possibile gestire i servizi condivisi di Azure da Impostazioni account.
+>Il menu Impostazioni account cambierà a seconda dei programmi a cui si è iscritti. Ad esempio, se si è un partner del programma Cloud Solution Provider (CSP), sarà possibile gestire i servizi condivisi di Azure dalle **impostazioni dell'account**.
 
 ## <a name="account-management"></a>Gestione degli account
 
@@ -51,6 +51,20 @@ Quando si seleziona l'icona **Impostazioni** e si apre il menu **Impostazioni ac
 La scheda Partner include tutte le informazioni aziendali legali, ad esempio il nome legale e l'indirizzo registrati, nonché il contatto principale e le sedi aziendali. La scheda Rivenditore per i partner che operano come CSP include la pagina **Profilo del supporto clienti**.
 
 Se l'azienda non partecipa al programma CSP, nella visualizzazione predefinita viene visualizzata solo la scheda **Partner** con l'area **Profilo del supporto clienti** inclusa.
+
+### <a name="when-you-are-in-more-than-one-account"></a>Quando ci si trova in più di un account
+
+Puoi far parte di più di un account. È possibile verificare se si fa parte di più account per la presenza di "Selezione account" nel menu di spostamento a sinistra.
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identificare la selezione account":::
+
+Se non viene visualizzato il selettore di account, l'utente fa parte di un solo account. 
+
+Quando si fa clic su questa selezione, tutti gli account di cui si fa parte vengono visualizzati come elenco. È quindi possibile fare clic su uno di essi e passare a tale account. Tutto ciò che segue viene visualizzato nel contesto di tale account.  
+
+Nell'esempio seguente l'utente connesso fa parte dei tre account evidenziati. L'utente può spostarsi tra loro facendo clic su un account.
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="Gli account di cui si fa parte":::
 
 ## <a name="organization-profile"></a>Profilo dell'organizzazione
 
@@ -90,7 +104,7 @@ Questa pagina contiene i dettagli relativi ai proventi e alle imposte, incluse l
 
 ## <a name="user-management"></a>Gestione degli utenti
 
-Le attività svolte nel Centro per i partner e le aree che è possibile aggiornare o visualizzare dipendono dal ruolo assegnato e dalle autorizzazioni associate a tale ruolo. Se, ad esempio, non si è un amministratore di Incentivi, non sarà possibile apportare modifiche alle pagine di Incentivi, anche se i dati saranno visibili.
+Le attività svolte nel Centro per i partner e le aree che è possibile aggiornare o visualizzare dipendono dal ruolo assegnato e dalle autorizzazioni associate a tale ruolo. Se, ad esempio, non si è un amministratore di Incentivi, non sarà possibile apportare modifiche alle pagine di Incentivi, anche se i dati saranno visibili. Altre informazioni su [ruoli e autorizzazioni](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>Aggiornare l'indirizzo e-mail preferito
 

@@ -8,17 +8,60 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/12/2021
-ms.openlocfilehash: f5b9069ffe0ebfa15053a3ed18fc2ee3706d9c96
-ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
+ms.date: 03/15/2021
+ms.openlocfilehash: 435d14ec89a9582f16f77f5a63af90ceac9e2e4c
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "103480978"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570193"
 ---
 # <a name="march-2021-announcements"></a>Annunci 2021 di marzo
 
 Questa pagina fornisce gli annunci per Microsoft Partner Center per il 2021 marzo.
+
+________________
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> Aggiornare un nome di società legale tramite il centro per i partner
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-03-16
+- Efficienza dell'unità & scalabilità
+
+### <a name="summary"></a>Riepilogo
+
+A partire dal 2021 marzo, i partner di Microsoft Partner Network (MPN) e i rivenditori indiretti del provider di soluzioni cloud (CSP) possono aggiornare il nome della società legale tramite il centro per i partner.
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner MPN e rivenditori indiretti CSP (non applicabili ai partner per la fatturazione diretta CSP)
+
+### <a name="details"></a>Dettagli
+
+A partire dal 2021 marzo, i partner MPN e i rivenditori indiretti CSP possono aggiornare il nome della società legale tramite il centro per i partner in modo conforme e autonomo. Grazie a questa nuova funzionalità, i partner non dovranno più inviare un ticket di supporto per il centro per i partner per aggiornare il nome della società. Ciò consentirà ai partner un notevole risparmio in termini di tempo per l'esecuzione di queste attività.
+
+Seguire questa procedura per aggiornare il nome della società legale:
+
+1. L'amministratore globale o l'amministratore dell'account deve accedere al centro per i partner e passare alle [impostazioni dell'account](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn).
+
+2. Aggiornare il nome della società legale.
+
+3. Una volta salvato il nome aggiornato, Microsoft verificherà le informazioni fornite. La verifica può essere in sospeso da cinque a sette giorni.
+
+4. Al termine della verifica, il nome valido aggiornato sarà associato al tenant partner.
+
+5. Se lo stato di verifica diventa rifiutato, fare riferimento a [verificare le informazioni sull'account](https://docs.microsoft.com/partner-center/verification-responses) per risolvere il problema.
+
+>[!NOTE]
+>Verificare che il nome della società nel profilo aziendale legale sia privo di errori di ortografia e abbreviazioni e corrisponda esattamente ai record di registrazione aziendali formali. Per ulteriori informazioni sull'aggiornamento del profilo dell'organizzazione, fare riferimento a [verificare il profilo dell'organizzazione](https://docs.microsoft.com/partner-center/update-your-partner-profile#update-your-legal-business-profile).
+
+### <a name="next-steps"></a>Passaggi successivi
+
+Condividere queste informazioni all'interno dell'organizzazione in modo che il team appropriato possa rivedere e aggiornare i processi.
+
+### <a name="questions"></a>Domande?
+
+Per domande o dubbi o per altre informazioni, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 ________________
 ## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Aggiornamento all'evoluzione del programma Cloud Solution Provider (CSP) e alle modifiche al programma Open License

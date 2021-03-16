@@ -1,7 +1,7 @@
 ---
 title: Creare un account MPN nel centro per i partner
 ms.topic: article
-ms.date: 02/08/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come i membri del programma Microsoft Partner Network possono creare un account per il Centro per i partner al fine di gestire le competenze e i vantaggi offerti dalla rete.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100013691"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570210"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Creare un account MPN nel centro per i partner per gestire i vantaggi e le competenze della rete
 
@@ -23,7 +23,7 @@ Se non si ha familiarità con Microsoft Partner Network (MPN) e non si dispone d
 
 ## <a name="prerequisites"></a>Prerequisiti 
 
-Quando si è pronti per creare un account nel centro per i partner, per iniziare sarà necessario avere a disposizione gli elementi seguenti.  Prima di iniziare, è consigliabile dedicare qualche minuto alla raccolta di questi elementi:
+Quando si è pronti per creare un account nel centro per i partner, è necessario avere a disposizione gli elementi seguenti.  Prima di iniziare, è consigliabile dedicare qualche minuto alla raccolta di questi elementi:
 
 - Indirizzo di posta elettronica aziendale o account aziendale 365 di Office. Per ulteriori informazioni, leggere [l'account aziendale e il centro per i partner](azure-active-directory-tenants-and-partner-center.md) 
  
@@ -40,7 +40,8 @@ Quando si è pronti per creare un account nel centro per i partner, per iniziare
 
 ## <a name="get-started"></a>Introduzione
 
-1. Inizia con il tuo indirizzo di posta elettronica di lavoro fornito dall'azienda, ad esempio you@yourcompanyname.com .
+1. Nella pagina di [**Introduzione**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) , iniziare con l'indirizzo di posta elettronica di lavoro fornito dall'azienda, ad esempio you@yourcompanyname.com .
+
  
     a.  L'indirizzo di posta elettronica deve essere valido e accessibile perché verrà inviato un codice di verifica per continuare.
 

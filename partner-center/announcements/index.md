@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/12/2021
-ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
-ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
+ms.date: 03/15/2021
+ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "103481001"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570176"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 |**Categoria**|**Annunci 2021 di marzo**|**Annunciato**|
 |---------|:---------|:---------|
+|Efficienza dell'unità & scalabilità|[Aggiornare un nome di società legale tramite il centro per i partner](2021-march.md#9)|16 marzo|
 |Funzionalità|[Aggiornamento all'evoluzione del programma Cloud Solution Provider (CSP) e alle modifiche al programma Open License](2021-march.md#8)|15 marzo|
 |Fai crescere il tuo business|[Aggiornamento a un annuncio precedente: valutazioni Premium, un componente aggiuntivo per Compliance Manager](2021-march.md#7)|15 marzo|
 |Funzionalità|[Esegui la migrazione delle tue soluzioni da un partner commerciale (OCP) go-to-Market (GTM) a Microsoft Commercial Marketplace](2021-march.md#6)|12 marzo|

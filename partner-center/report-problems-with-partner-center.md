@@ -1,5 +1,5 @@
 ---
-title: Segnalare i problemi con il Centro per i partner
+title: Strumento di diagnostica e richieste del portale del centro per i partner
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
+ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530664"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103582037"
 ---
-# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Come segnalare i problemi con il centro per i partner e inviare eventuali informazioni di log o diagnostica
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Strumento di diagnostica e richieste del portale del centro per i partner
 
 **Si applica a**
 
@@ -26,6 +26,7 @@ ms.locfileid: "99530664"
 **Ruoli appropriati**
 
 Tutti gli utenti connessi al centro per i partner possono creare richieste di supporto per i partner. Gli utenti possono visualizzare solo le richieste di supporto inviate dopo l'accesso al centro per i partner.
+Se si riscontrano problemi o si necessita di assistenza per gli errori del portale del centro per i partner, contattare il supporto tecnico. Inviare i dati di diagnostica per consentire una correzione più rapida del problema.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Segnalare un problema con il centro per i partner
 

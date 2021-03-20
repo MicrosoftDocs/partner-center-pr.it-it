@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 944f02af414a2865cadf94cd4fbf41c2555e066b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: ce5baddcc6d598ec4d926e74a6f4a85a3b4cbbbe
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755701"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712563"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Modi diversi per collaborare con altri partner nel centro per i partner
 
 **Ruoli appropriati**
 
-- amministratore account
+- Amministratore degli account
 
 Il programma Microsoft Cloud Solution Provider (CSP) offre opportunità per collaborare con i partner in questi modi.
 

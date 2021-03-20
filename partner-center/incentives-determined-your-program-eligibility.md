@@ -1,25 +1,21 @@
 ---
 title: Idoneità del programma incentives
-description: Assicurati che il tuo programma incentives sia idoneo per poter essere pagato. Questo processo include la verifica dell'idoneità nella Guida al programma.
+description: Assicurarsi di aver soddisfatto i requisiti di idoneità per il programma incentives. Questo processo include la verifica dell'idoneità nella Guida al programma.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 03/16/2021
+ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175222"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712163"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Determinare l'idoneità del programma per gli incentivi
-
-**Si applica a**:
-
-- Centro per i partner
 
 **Ruoli appropriati**:
 
@@ -40,7 +36,11 @@ ms.locfileid: "92175222"
 
 3. Selezionare il programma desiderato.
 
-4. Nel campo **Dettagli del programma**, selezionare **Guida del programma**.
+4. Nel campo **stato** selezionare requisiti di **idoneità**.
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Screenshot è un esempio di requisiti per gli incentivi.":::
+
+5. È necessario completare tutte le aree deselezionate per soddisfare l'idoneità. Ogni programma incentives ha un proprio set di requisiti.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

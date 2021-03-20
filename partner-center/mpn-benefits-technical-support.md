@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85287746381ee0ac18bc570650cc310df7ef6219
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102186651"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712903"
 ---
 # <a name="technical-support-benefits"></a>Vantaggi del supporto tecnico
 
@@ -58,12 +58,10 @@ Il supporto tecnico fornisce la risoluzione dei problemi relativi a un problema 
 Per quanto riguarda l'appartenenza Microsoft Partner Network, i partner sono idonei per il supporto tecnico seguente
 
 
-|                           Supporto tecnico                          |  Action Pack |                                      Competenza Silver                                      |                                        Competenza Gold                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Supporto tecnico Microsoft<br>Per le edizioni locali recenti <br>solo prodotti | 10 eventi imprevisti | 15 eventi imprevisti                                                                                | 20 eventi imprevisti                                                                                  |   |
-| Supporto cloud di firma<br>Solo per i prodotti cloud                   |              | Competenze cloud:<br>Nessuna limitazione<br>         <br>Altre competenze:<br>5 eventi imprevisti         | Competenze cloud:<br>Nessuna limitazione<br>          <br>Altre competenze:<br>10 eventi imprevisti   
-
-
+| Supporto tecnico |  Action Pack | Competenza Silver | Competenza Gold |
+|:---:|:---:|:---:|:---:|
+| Supporto tecnico Microsoft<br>Per le edizioni locali recenti <br>solo prodotti | 10 eventi imprevisti | 15 eventi imprevisti  | 20 eventi imprevisti |
+| Supporto cloud di firma<br>Solo per i prodotti cloud |  | Competenze cloud:<br>Nessuna limitazione<br><br>Altre competenze:<br>5 eventi imprevisti  | Competenze cloud:<br>Nessuna limitazione<br>          <br>Altre competenze:<br>10 eventi imprevisti  |
 
 * Le competenze Cloud includono: competenze di sicurezza, cloud Business Applications, piattaforma cloud, produttività cloud, gestione della mobilità aziendale, soluzioni cloud midmarket e di piccole dimensioni.
 

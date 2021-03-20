@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031964"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712240"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Informazioni su come leggere i file di riconciliazione dell'utilizzo con classificazione giornaliera nel centro per i partner
 
@@ -64,7 +64,7 @@ Questo articolo illustra come leggere i file di riconciliazione dell'utilizzo co
 | MeterSubCategory | Tipo di servizio di Azure, che può influire sulla frequenza. |
 | MeterName | Unità di misura per il contatore utilizzato. |
 | MeterRegion | Questa colonna identifica la posizione di un data center all'interno dell'area per i servizi in cui MeterRegion è applicabile e popolato. |
-| Unità | Unità del **nome**della risorsa. |
+| Unità | Unità del **nome** della risorsa. |
 | ResourceLocation | Il data center in cui è in esecuzione il contatore. |
 | ConsumedService | Il servizio della piattaforma Azure che è stato utilizzato. |
 | ResourceGroup | Rappresenta un contenitore che include le risorse correlate per una soluzione di Azure. |
@@ -87,7 +87,8 @@ Questo articolo illustra come leggere i file di riconciliazione dell'utilizzo co
 | EntitlementId | Rappresenta l'ID sottoscrizione di Azure. |
 | EntitlementDescription | Rappresenta il nome dell'ID sottoscrizione di Azure. |
 | PartnerEarnedCreditPercentage | Visualizza il PartnerEarnedCredit per l'elemento della riga. Il credito guadagnato sarà 0 o 15% |
-
+| CreditPercentage | Visualizza il credito per il consumo di Azure. Il credito guadagnato sarà 0 o 100%. |
+| CreditType | Tipo di credito. Ad esempio, è stato **applicato il credito Azure.** |
 >[!NOTE]
 >L'utilizzo giornaliero con classificazione giornaliera richiede 24 ore per essere visualizzato nel centro per i partner o accessibile tramite l'API.
 

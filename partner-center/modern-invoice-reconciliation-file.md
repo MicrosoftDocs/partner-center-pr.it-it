@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098806"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712257"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campi del file di riconciliazione di acquisto monouso CSP
 
@@ -64,6 +64,7 @@ Per altre informazioni sui file di riconciliazione, vedere [usare i file di rico
 | PCToBCExchangeRateDate | Data in cui viene determinata la valuta dei prezzi per la valuta di fatturazione. | *30/09/2020* |
 | MeterDescription | Descrizione del contatore.  | *Tabelle-dati con ridondanza locale archiviati (GB/mese)* |
 | ReservationOrderId | ID dell'ordine di prenotazione. | *E21A6344E398FFC1C4D7...* |
+| CreditReasonCode | Descrizione del credito. | *Credito di consumo di Azure* |
 
 >[!NOTE]
 >È possibile riconciliare il consumo di Azure nel file di ricognizione degli acquisti monouso. A tale scopo, passare al file di ricognizione sull'utilizzo giornaliero e cercare il SubscriptionID. Vengono visualizzati tutti i costi associati all'ID piano di Azure. La SubscriptionID di Azure viene visualizzata come EntitlementID.

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619393"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712190"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operazioni bulk per le opportunità di co-selling con file con valori delimitati da virgole (CSV)
 
@@ -89,7 +89,7 @@ ID CRM|No|Identificatore del riferimento specifico nel sistema CRM, se presente.
 ID campagna di marketing|No|Questo campo indica la campagna di marketing, che ha generato questo riferimento specifico. Usato in genere per il calcolo del ROI|BingSummer2020
 Note|No|Note dettagliate che indicano gli aggiornamenti relativi al riferimento|Si tratta di una nota di esempio
 La Guida Microsoft è necessaria?|Sì|Per indicare se si vuole che Microsoft consenta di eseguire questa richiesta di co-selling|Sì
-Quale guida specifica di Microsoft?|Dipende da|Uno dei sei diversi modi in cui Microsoft può aiutarti. Questa operazione è applicabile solo se si sceglie No per la domanda "richiesta di assistenza Microsoft? " <br/> **Immettere un numero basato sulle opzioni seguenti** <br/><br/> **1**-proposta di valore specifico del carico di lavoro  <br/> **2**-architettura tecnica del cliente  <br/> **3**-modello di prova/demo  <br/> **4**-citazioni e licenze  <br/> **5**-successo dei clienti successivi alle vendite  <br/> **6**-generale o altro|1|
+Quale guida specifica di Microsoft?|Dipende da|Uno dei sei diversi modi in cui Microsoft può aiutarti. Questa operazione è applicabile solo se si sceglie Sì per la domanda "richiesta di assistenza Microsoft? " <br/> **Immettere un numero basato sulle opzioni seguenti** <br/><br/> **1**-proposta di valore specifico del carico di lavoro  <br/> **2**-architettura tecnica del cliente  <br/> **3**-modello di prova/demo  <br/> **4**-citazioni e licenze  <br/> **5**-successo dei clienti successivi alle vendite  <br/> **6**-generale o altro|1|
 Condividi con il team di vendita Microsoft|Sì|Questa operazione consente di indicare se si desidera condividere i dettagli relativi al team di vendita Microsoft. Questa operazione è applicabile solo se si sceglie No per la domanda "richiesta di assistenza Microsoft? "|Sì
 Note a Microsoft|No|Eventuali note specifiche su Microsoft per richiedere assistenza da Microsoft|Serve aiuto con un modello di verifica per il cliente Contoso
 Consenso alla condivisione del contatto clienti/partner|Sì|Il consenso a condividere i dettagli di contatto dei clienti e i dettagli di contatto dei dipendenti della società che stanno lavorando al problema. **Le offerte non verranno create o aggiornate se si sceglie No per questa colonna.** |Sì

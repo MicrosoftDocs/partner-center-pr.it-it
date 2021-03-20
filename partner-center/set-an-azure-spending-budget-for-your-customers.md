@@ -1,7 +1,7 @@
 ---
-title: Imposta un budget di spesa di Azure per i clienti
+title: Impostare un budget di spesa di Azure per i clienti
 ms.topic: how-to
-ms.date: 06/03/2020
+ms.date: 03/17/2021
 description: Informazioni su come impostare o rimuovere i budget mensili per la spesa di Azure per i clienti e anche per visualizzare i dati di spesa di Azure e impostare le notifiche relative al budget.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96438981"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712750"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Imposta, verifica o Rimuovi i budget mensili per la spesa di Azure per i clienti nel centro per i partner
 
-Si applica a:
+**Ruoli appropriati**
 
-- Centro per i partner
-- Centro per i partner per Microsoft Cloud for US Government
+- Agente amministratore
 
 È possibile [impostare un budget mensile per la spesa di Azure per i clienti](#set-azure-spending-budget) nel centro per i partner. Ciò consente ai clienti di gestire la spesa di Azure. Questa opzione consente di confrontare la spesa di Azure da parte dei clienti al budget durante il mese. Consente inoltre ai clienti di ottenere un budget per la spesa di Azure in modo che la fattura mensile non sia più elevata del previsto.
 
@@ -48,7 +47,7 @@ I dati di spesa vengono *aggiornati una volta al giorno*. I clienti possono cont
 
 È possibile *impostare un budget mensile per la spesa di Azure* per più clienti nel centro per i partner:
 
-1. Accedere al dashboard del [centro](https://partner.microsoft.com/dashboard/)per i partner.
+1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
 
 2. Nel menu a sinistra in **CSP** scegliere **spesa di Azure**.
 
@@ -60,7 +59,7 @@ I dati di spesa vengono *aggiornati una volta al giorno*. I clienti possono cont
 
 È anche possibile *impostare un budget per un singolo cliente* nelle impostazioni della sottoscrizione:
 
-1. Accedi al dashboard Centro per i partner.
+1. Accedere al dashboard Centro per i partner.
 
 2. Nel menu a sinistra in **CSP** scegliere **Customers (clienti**).
 
@@ -76,7 +75,7 @@ I dati di spesa vengono *aggiornati una volta al giorno*. I clienti possono cont
 
 È possibile *rimuovere un budget mensile* per la spesa di Azure per i clienti nel centro per i partner:
 
-1. Accedere al dashboard del [centro](https://partner.microsoft.com/dashboard/)per i partner.
+1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
 
 2. Nel menu a sinistra in **CSP** scegliere **spesa di Azure**.
 
@@ -88,7 +87,7 @@ I dati di spesa vengono *aggiornati una volta al giorno*. I clienti possono cont
 
 Puoi *tenere traccia delle spese di Azure correnti e dei budget mensili dei clienti* in qualsiasi momento:
 
-1. Accedere al dashboard del [centro](https://partner.microsoft.com/dashboard/)per i partner.
+1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
 
 2. Nel menu a sinistra in **CSP** scegliere **spesa di Azure**.
 
@@ -126,3 +125,8 @@ Puoi *tenere traccia delle spese di Azure correnti e dei budget mensili dei clie
 4. Nella pagina **sottoscrizioni** del cliente, in **sottoscrizioni basate sull'utilizzo**, selezionare il nome della **sottoscrizione**.
 
 5. Nella pagina della sottoscrizione è possibile esaminare i **costi** in base al servizio e l' **utilizzo stimato** per il mese corrente.
+
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Nuova esperienza commerciale in CSP - Fatturazione di Azure](azure-plan-billing.md)

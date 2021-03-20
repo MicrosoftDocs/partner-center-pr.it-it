@@ -1,7 +1,7 @@
 ---
 title: Creare un account MPN nel centro per i partner
 ms.topic: article
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come i membri del programma Microsoft Partner Network possono creare un account per il Centro per i partner al fine di gestire le competenze e i vantaggi offerti dalla rete.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570210"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712920"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Creare un account MPN nel centro per i partner per gestire i vantaggi e le competenze della rete
 
@@ -40,14 +40,14 @@ Quando si è pronti per creare un account nel centro per i partner, è necessari
 
 ## <a name="get-started"></a>Introduzione
 
-1. Nella pagina di [**Introduzione**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) , iniziare con l'indirizzo di posta elettronica di lavoro fornito dall'azienda, ad esempio you@yourcompanyname.com .
+1. Nella pagina attività [**iniziali**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) , iniziare con l'indirizzo di posta elettronica di lavoro fornito dall'azienda, ad esempio you@yourcompanyname.com .
 
  
-    a.  L'indirizzo di posta elettronica deve essere valido e accessibile perché verrà inviato un codice di verifica per continuare.
+    a.  L'indirizzo di posta elettronica deve essere valido e accessibile perché verrà inviato un codice di verifica al messaggio di posta elettronica per continuare.
 
-    b.  L'indirizzo di posta elettronica non deve contenere parole come "info", "admin", "" email@. . O " marketing@.. ." perché non sono supportati.
+    b.  L'indirizzo di posta elettronica non deve contenere parole come "info", "admin", "" email@ . O " marketing@.. ."; questi formati di indirizzo non sono supportati.
 
-    c.  Per acquistare mappe o gestire le competenze, sarà necessario aggiornare l'account verificando il dominio e diventando amministratore. 
+    c.  Per acquistare mappe o gestire le competenze, sarà necessario aggiornare l'account [verificando il dominio](become-global-admin.md) e diventando un amministratore. 
 
 2. È possibile accedere con l'account aziendale di Office 365, ad esempio you@contoso.onmicrosoft.com .
 
@@ -58,8 +58,11 @@ Quando si è pronti per creare un account nel centro per i partner, è necessari
 
 È possibile cercare il profilo aziendale o immettere manualmente le informazioni aziendali. Se la società è registrata con [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), usare l'ID DUNS per cercare le informazioni aziendali. Se si vuole specificare i dettagli aziendali manualmente, selezionare **Manuale**.
 
-Dopo aver fornito le informazioni sulla società, immettere le informazioni di contatto principale, quindi selezionare **Registra ora**.
-Il contatto principale deve essere la persona all'interno dell'organizzazione da contattare relativamente alla richiesta (può trattarsi dell'utente o di un'altra persona all'interno dell'organizzazione).
+Se la società si trova in **Armenia**, **Ungheria**, **Kirghizistan**, **Moldova**, **Uzbekistan** o **Russia** e si immette l'indirizzo manualmente, l'indirizzo verrà convalidato. Se quello immesso è diverso da quello convalidato, è consigliabile usare l'indirizzo convalidato. Ciò assicura che gli elementi dell'indirizzo siano standardizzati in base a quanto definito dall'autorità postale del paese, formattato correttamente e spedito.  
+
+Dopo aver fornito le informazioni sulla società, immettere le informazioni di contatto primarie. Il contatto principale deve essere l'utente della società a cui è possibile rivolgersi per l'applicazione (il contatto può essere l'utente o un altro utente della società).
+
+4. Selezionare **Registrati ora**.
 
 >[!IMPORTANT]
 >Per garantire la sicurezza e la privacy dell'azienda, è possibile inviare un messaggio di posta elettronica al contatto principale per verificare l'indirizzo di posta elettronica e verificare che l'indirizzo di posta elettronica appartenga all'azienda. Dopo che il contatto principale ha verificato l'indirizzo di posta elettronica, continueremo a esaminare le informazioni fornite. La verifica in genere richiede 3-5 giorni lavorativi. 
@@ -75,14 +78,14 @@ Accedere al centro per i partner con le credenziali MPN. Selezionare [**profilo 
 
 ## <a name="next-steps"></a>Passaggi successivi
 
--   [Aggiungere account utenti e assegnare loro le autorizzazioni](create-user-accounts-and-set-permissions.md)
+-  [Aggiungere account utenti e assegnare loro le autorizzazioni](create-user-accounts-and-set-permissions.md)
 
--   [Acquistare o rinnovare una sottoscrizione di Microsoft Action Pack](mpn-get-action-pack.md)
+-  [Acquistare o rinnovare una sottoscrizione di Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Gestire i vantaggi dell'iscrizione come membro](manage-your-partner-network-benefits.md)
+-  [Gestire i vantaggi dell'iscrizione come membro](manage-your-partner-network-benefits.md)
 
--   [Informazioni sui requisiti di competenza per l'iscrizione come membro Gold e Silver](https://partner.microsoft.com/membership/competencies)
+-  [Informazioni sui requisiti di competenza per l'iscrizione come membro Gold e Silver](https://partner.microsoft.com/membership/competencies)
 
--   [Creare un profilo di business per ottenere lead di vendita da Microsoft](create-a-marketing-profile.md)
+-  [Creare un profilo di business per ottenere lead di vendita da Microsoft](create-a-marketing-profile.md)
 
--   [Ottenere e gestire lead di vendita da Microsoft](manage-leads.md)
+-  [Ottenere e gestire lead di vendita da Microsoft](manage-leads.md)

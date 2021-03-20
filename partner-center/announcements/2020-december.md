@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705046"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712546"
 ---
 # <a name="december-2020-announcements"></a>Annunci di dicembre 2020
 
@@ -274,6 +274,9 @@ Tutti i partner CSP
 
 ### <a name="details"></a>Dettagli
 
+>[!NOTE]
+>A causa del feedback dei partner, la funzionalità di evasione del centro per i partner è stata ripristinare per ottenere il software e i codici di licenza per gli ordini di software di abbonamento perpetui e server. Verrà ripristinato lo stato precedente prima di essere rimosso il 19 gennaio 2021. Per ulteriori informazioni, vedere l' [annuncio di marzo 2021](./2021-march.md#4).
+
 Si ricorda che, dal **19 gennaio 2021**, tutti i partner iscritti al programma CSP saranno in grado di vendere licenze software perpetue commerciali per la distribuzione locale tramite CSP. In questo modo, si fornirà ai clienti la flessibilità di gestione delle licenze necessaria come parte della trasformazione digitale.
 
 Nella stessa data, si verificherà anche quanto segue:
@@ -301,6 +304,12 @@ Esaminare le risorse seguenti e condividerle con i contatti pertinenti nell'orga
 ### <a name="questions"></a>Domande?
 
 Per altre domande su queste offerte, vedere le community Yammer pertinenti.
+
+### <a name="change-log"></a>Registro delle modifiche:
+
+- 17 dicembre 2020: pubblicazione originale 
+
+- 5 marzo 2021: aggiunta di una nota nella parte superiore per quanto riguarda il ripristino della funzionalità di evasione delle chiavi di licenza e del software del centro partner.
 
 ______________
 

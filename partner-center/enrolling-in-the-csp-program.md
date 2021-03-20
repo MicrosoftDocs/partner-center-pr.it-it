@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
-ms.translationtype: HT
+ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322084"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712274"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
 
@@ -68,7 +68,7 @@ Come partner con fatturazione diretta, sei titolare della relazione completa con
 
 ### <a name="minimum-requirements"></a>Requisiti minimi
 
-|**Requisito**|                             |
+|**Requisito**|  **Descrizione**  |
 |--------------------------------|--------------------------------------------------------------|
 |**ID MPN**   |Appartenenza a Microsoft Partner Network e ID MPN attivi per la località in cui si vuole vendere.    |
 |**Verifica dell'autenticità**   |L'autorità di accettare e firmare contratti legali per conto della tua organizzazione.|

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: b8f6f565e92ca4ac95d0787dff99893208722f02
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514086"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712512"
 ---
 # <a name="september-2020-announcements"></a>Annunci di settembre 2020
 
@@ -37,7 +37,7 @@ Tutti i partner CSP (Cloud Solution Provider) che si occupano della vendita di o
 ### <a name="details"></a>Dettagli
 
 >[!NOTE]
->A causa del feedback dei partner, la funzionalità di evasione del centro per i partner è stata ripristinare per ottenere il software e i codici di licenza per gli ordini di software di abbonamento perpetui e server. Verrà ripristinato lo stato precedente prima di essere rimosso il 19 gennaio 2021. Per ulteriori informazioni, vedere l' [annuncio di marzo 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>A causa del feedback dei partner, la funzionalità di evasione del centro per i partner è stata ripristinare per ottenere il software e i codici di licenza per gli ordini di software di abbonamento perpetui e server. Verrà ripristinato lo stato precedente prima di essere rimosso il 19 gennaio 2021. Per ulteriori informazioni, vedere l' [annuncio di marzo 2021](./2021-march.md#4).
 
 I partner attualmente possono usare il Centro per i partner o l'interfaccia di amministrazione di Microsoft 365 per evadere download e codici di licenza del software per gli ordini di software CSP. A partire dal **19 gennaio 2021**, la funzionalità di evasione del software e del codice di licenza del centro per i partner verrà ritirata e i partner punteranno i clienti a usare l'interfaccia di **amministrazione di Microsoft 365** esclusivamente a questo scopo. La pagina software del cliente all'interno del centro per i partner conterrà un "collegamento approfondito" all'interfaccia di amministrazione di Microsoft 365, in cui è possibile puntare i clienti per ottenere le licenze dei clienti e i download del software. Ciò consente di garantire un'esperienza più sicura ed efficiente per i clienti stessi.
 
@@ -78,7 +78,7 @@ Tutti i partner dei programmi CSP e Open License
 ### <a name="details"></a>Dettagli
 
 >[!NOTE]
->A causa del feedback dei partner, la funzionalità di evasione del centro per i partner è stata ripristinare per ottenere il software e i codici di licenza per gli ordini di software di abbonamento perpetui e server. Verrà ripristinato lo stato precedente prima di essere rimosso il 19 gennaio 2021. Per ulteriori informazioni, vedere l' [annuncio di marzo 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>A causa del feedback dei partner, la funzionalità di evasione del centro per i partner è stata ripristinare per ottenere il software e i codici di licenza per gli ordini di software di abbonamento perpetui e server. Verrà ripristinato lo stato precedente prima di essere rimosso il 19 gennaio 2021. Per ulteriori informazioni, vedere l' [annuncio di marzo 2021](./2021-march.md#4).
 
 Il programma Microsoft CSP è cresciuto in modo esponenziale, con più di 90.000 società coinvolte. Si tratta della principale iniziativa Microsoft destinata ai partner per la vendita ad aziende di piccole e medie dimensioni e per clienti aziendali più piccoli all'interno della nuova esperienza commerciale. Sfruttando questa tendenza favorevole, Microsoft oggi ha annunciato l'intenzione di espandere le opportunità per i partner del programma CSP. I dettagli sono disponibili nel relativo [post del blog per i partner](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 

@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 02/25/2021
-ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124789"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712478"
 ---
 # <a name="february-2021-announcements"></a>Annunci 2021 di febbraio
 
@@ -77,7 +77,7 @@ Per i dettagli completi, vedere l'articolo indicato nella sezione successiva.
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-Per altre informazioni sulla funzionalità per operazioni bulk, vedere [operazioni bulk per le opportunità di co-selling con file con valori delimitati da virgole (CSV)](https://docs.microsoft.com/partner-center/bulk-operations).
+Per altre informazioni sulla funzionalità per operazioni bulk, vedere [operazioni bulk per le opportunità di co-selling con file con valori delimitati da virgole (CSV)](../bulk-operations.md).
 
 ### <a name="questions"></a>Domande?
 
@@ -107,7 +107,7 @@ Per i dettagli completi, vedere l'articolo indicato nella sezione successiva.
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-Per ulteriori informazioni sulla funzionalità di migrazione degli accordi, vedere la sezione relativa alla **migrazione delle offerte di PSC** nella [Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)](https://docs.microsoft.com/partner-center/psc-to-pc).
+Per ulteriori informazioni sulla funzionalità di migrazione degli accordi, vedere la sezione relativa alla **migrazione delle offerte di PSC** nella [Guida alla co-selling nel centro per i partner (PC) per i partner che eseguono la migrazione da partner Sales Connect (PSC)](../psc-to-pc.md).
 
 ### <a name="questions"></a>Domande?
 
@@ -139,7 +139,7 @@ Per i dettagli completi, vedere l'articolo indicato nella sezione successiva.
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-Per altre informazioni, vedere la guida alla [gestione di opportunità di co-selling nel centro](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities)per i partner.
+Per altre informazioni, vedere la guida alla [gestione di opportunità di co-selling nel centro](../manage-co-sell-opportunities.md)per i partner.
 
 ### <a name="questions"></a>Domande?
 

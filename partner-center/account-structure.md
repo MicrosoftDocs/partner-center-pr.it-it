@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474275"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768670"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Il centro per i partner ha due livelli di account per partner MPN
 
@@ -40,7 +40,7 @@ L'azienda dispone di due livelli di account nel centro per i partner.
 Il PGA potrebbe avere posizioni aziendali aggiuntive. Ogni località ha un ID MPN o un account del percorso partner (PLA). Si usa il percorso MPN ID per l'attività transazionale e la registrazione in programmi incentive.
 
 - Ogni account del percorso partner può avere un proprio indirizzo legale e un contatto principale. Le località possono inoltre condividere l'indirizzo legale con l'account globale o con altre località.
-- Visualizzare l'elenco degli account del percorso partner dalle posizioni **delle impostazioni**  ->  **Locations**.
+- Visualizzare l'elenco degli account del percorso partner dalle posizioni **delle impostazioni**  ->  .
 - Tutti gli account del percorso si trovano allo stesso livello e nell'account globale del partner.
 - Gli amministratori dell'account possono aggiungere percorsi.
 

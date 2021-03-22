@@ -3,21 +3,22 @@ title: Effetti dei criteri fiscali sui pagamenti per Azure Marketplace
 description: Informazioni sul modo in cui i criteri fiscali influiscono sui pagamenti per Azure Marketplace.
 ms.topic: conceptual
 ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 817cdb895efab553b6f0131cdcdcf9b24bc6db3e
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712954"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768823"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Effetti dei criteri fiscali sui pagamenti per Azure Marketplace
 
 **Ruoli appropriati**
 -    Amministratore globale
--    Amministratore utenti
+-    Amministratore gestione utenti
 -    Agente amministratore
 
 ## <a name="introduction"></a>Introduzione

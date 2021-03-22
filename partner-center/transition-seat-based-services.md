@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 68ed2e839a55206fe9e0692d0fbfd086e15fb0ff
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000635"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768687"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Spostare i clienti basati su licenze da altri canali & partner al programma Cloud Solution Provider
-
-**Si applica a**
-
-- Centro per i partner
 
 Se il cliente desidera assumere più partner, trasferire le sottoscrizioni a un altro partner o gestire le sottoscrizioni acquistate altrove, è possibile spostarle manualmente. È anche possibile spostare i clienti nel centro per i partner da un altro canale.
 

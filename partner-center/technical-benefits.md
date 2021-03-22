@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/24/2021
-ms.openlocfilehash: b3f62bb6d6d48e9dbcdcb906041a1653de436606
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022792"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768721"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Esplorare i servizi di prevendita e distribuzione tecnici (Trusted) 
 
@@ -30,7 +30,7 @@ Sono supportate tutte le soluzioni cloud o ibride, oltre a Windows 10, Windows S
 
 - I partner Gold e Silver ricevono assistenza per le vendite illimitate illimitate. 
 
-- I membri della rete possono acquistare [Action Pack](https://partner.microsoft.com/membership/action-pack) per ricevere cinque ore consultive  
+- I membri della rete possono acquistare [Action Pack](https://partner.microsoft.com/membership/action-pack) per ricevere cinque ore consultive.  
 
 |     Tipo di offerta    | Numero di ore consultive |   Prevendite tecniche   |
 |:-----------------:|:------------------------:|:----------------------:|
@@ -46,7 +46,7 @@ Eseguire l'accesso con un account utente associato a MPN per **[creare una richi
 
 I vantaggi tecnici per le vendite e i servizi di distribuzione (Trusted) vengono attivati automaticamente e disponibili a tutti gli utenti associati a MPN. 
 
-Per visualizzare i vantaggi tecnici nel centro per i partner
+Per visualizzare i vantaggi tecnici nel centro per i partner:
 
 1. Accedere con l'account MPN associato nel [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner. 
 

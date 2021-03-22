@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756751"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768704"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Risolvere i problemi di configurazione dell'account o di rinnovo MPN
 
@@ -28,20 +28,20 @@ Ecco alcuni suggerimenti per la risoluzione dei problemi comuni che si verifican
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Cosa accade se si esegue la migrazione da partner Membership Center e non è possibile modificare i campi di informazioni aziendali
 
-Nei casi in cui la società dispone già di una presenza nel centro per i partner (ad indicare un account CSP), verrà visualizzata una schermata di sola lettura. In questa schermata vengono visualizzate tutte le informazioni sull'azienda così come esistono nel centro per i partner.
+Nei casi in cui la società dispone già di una presenza nel centro per i partner (ad esempio, un account CSP), verrà visualizzata una schermata di sola lettura. In questa schermata vengono visualizzate tutte le informazioni sull'azienda così come esistono nel centro per i partner.
 
 Non è possibile modificare i dettagli in questa schermata. Si tratta di un errore di progettazione.
 
 Selezionare **Accetto** e **continuare** per procedere.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Se il reparto IT ha disattivato l' **iscrizione per il centro per i partner**.
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Se il reparto IT ha disattivato l' **iscrizione per il centro per i partner**
 
 Questo messaggio viene visualizzato perché gli utenti virali sono disabilitati o perché l'iscrizione virale è disabilitata nel tenant Azure AD. L'amministratore globale dell'account di Azure AD può abilitare le funzionalità necessarie eseguendo il comando PowerShell seguente:
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-Per altre informazioni, vedere [iscrizione self-service](/azure/active-directory/users-groups-roles/directory-self-service-signup)
+Per altre informazioni, vedere [iscrizione self-service](/azure/active-directory/users-groups-roles/directory-self-service-signup).
 
 ## <a name="you-forgot-your-password"></a>Password dimenticata
 

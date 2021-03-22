@@ -9,18 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624307"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768755"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto
 
 **Ruoli appropriati**
 
-- Amministratori globali
+- Amministratore globale
 
 >[!Note]
 >Questo articolo è destinato ai partner di fatturazione diretta che hanno deciso di passare a rivenditori indiretti. Tuttavia, anche se non si è ancora preso una decisione esplicita per la registrazione come rivenditore indiretto, i partner diretti della fatturazione che non soddisfano i nuovi [requisiti](direct-partner-new-requirements.md) per il programma per la fatturazione diretta di CSP saranno informati da Microsoft quando le relative [funzionalità di fatturazione diretta saranno limitate](restricted-direct-bill-capabilities.md).
@@ -127,9 +127,9 @@ Diversamente dai partner Direct Bill, i rivenditori indiretti non possono creare
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Per identificare i clienti acquisiti come partner per la fatturazione diretta
 
-1. Selezione **clienti**
+1. Seleziona **Clienti**.
 
-2. Selezionare un cliente per visualizzarne i dettagli
+2. Selezionare un cliente per visualizzarne i dettagli.
 
 3. Se questo cliente è stato acquisito come partner Direct fattura, verranno visualizzate le opzioni per **aggiungere** o visualizzare i **prodotti** e verranno visualizzate le relative sottoscrizioni.
 
@@ -162,7 +162,7 @@ Per una panoramica dettagliata del processo step-by-Step, vedere il documento re
 
 - Il provider indiretto non verrà fornito con [privilegi di amministrazione delegata](customers-revoke-admin-privileges.md) al tenant del cliente. Se il provider indiretto richiede privilegi di amministrazione delegata, è necessario inviare invece un invito al rivenditore indiretto al cliente.
 
-- Una volta stabilita la relazione Reseller, il provider indiretto verrà visualizzato come partner CSP per il cliente nella pagina Relazioni partner nell'interfaccia di [amministrazione di M365](https://admin.microsoft.com/AdminPortal/Home#/partners) e [Microsoft Store for business](/microsoft-store/work-with-partner-microsoft-store-business).
+- Una volta stabilita la relazione Reseller, il provider indiretto verrà visualizzato come partner CSP per il cliente nella pagina relazioni tra partner nell'interfaccia di [amministrazione di Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/partners) e [Microsoft Store for business](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Per evitare confusione e fraintendimenti, l'utente è obbligato dal contratto del partner per informare e ottenere il consenso del cliente Direct Bill prima di utilizzare la funzionalità di estensione delle relazioni per stabilire la relazione del rivenditore tra un cliente di fatturazione diretta esistente e un provider indiretto.
@@ -223,9 +223,9 @@ Microsoft Cloud contratto è valido fino al 31 gennaio 2020. Dopo tale data, tut
 
 In base al modello CSP indiretto, i rivenditori indiretti non hanno relazioni di fatturazione con Microsoft. Al contrario, i rivenditori indiretti ottengono le sottoscrizioni per i clienti tramite i provider indiretti. Durante la transizione da Direct Bill partner a Reseller indirect, è necessario trasferire le sottoscrizioni esistenti come partner Direct Bill al provider indiretto. A tale scopo, è possibile usare la funzionalità di trasferimento di sottoscrizioni autogestite nel dashboard del centro per i partner.
 
-### <a name="pre-requisites"></a>Prerequisiti
+### <a name="prerequisites"></a>Prerequisiti
 
-- Questa funzionalità è disponibile solo per i partner di transizione che hanno completato la registrazione indiretta dei rivenditori usando i tenant di Direct Bill partner esistenti
+- Questa funzionalità è disponibile solo per i partner di transizione che hanno completato la registrazione indiretta dei rivenditori usando i tenant di Direct Bill partner esistenti.
 
 - Prima di trasferire le sottoscrizioni associate a un determinato cliente, il partner di transizione deve spostare il cliente a un provider indiretto.
 

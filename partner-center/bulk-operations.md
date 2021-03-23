@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: c8910b98e32abe10ae3bc86f24aae7bec2630741
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712190"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880719"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operazioni bulk per le opportunità di co-selling con file con valori delimitati da virgole (CSV)
 
@@ -82,7 +82,7 @@ Stato secondario del riferimento partner|Sì|Indica lo stato esatto dell'operazi
 Stato Microsoft Referral|Dipende da|Indica lo stato della richiesta di co-selling inviata a Microsoft per chiedere assistenza. Questo è un campo di sola lettura. Qualsiasi modifica apportata a questo campo durante l'importazione dei dati verrà ignorata.| In sospeso
 Motivo rifiutato/perso|Dipende da| È necessario fornire queste informazioni solo se si sta modificando lo stato secondario del campo in modo che sia stato rifiutato o perso. In caso contrario, è possibile ignorare questa colonna. <br/> **Immettere un numero basato sulle opzioni seguenti** <br/><br/> **1**-il budget del progetto non è adeguato  <br/> **2**-il cliente non ha risposto  <br/> **3**-il cliente ha scelto un altro fornitore  <br/> **4** -requisito del cliente non soddisfatto  <br/> **5** -non è un cliente <br/> **6**-la riga di tempo proposta è troppo corta <br/> **7** -segnala come abusi, posta indesiderata o phishing <br/> **8** -altri |6|
 Sales Stage|No|Questo è il campo per indicare la fase di vendita dettagliata del riferimento. Scopri di più sulle fasi di vendita [qui](./manage-co-sell-opportunities.md)|40
-Valore dell'affare stimato|Sì|"Valore dell'affare basato sulle conversazioni iniziali con il cliente. Questo può essere modificato fino a quando l'operazione non raggiunge uno degli stati terminali| vinto o perso ".|12563
+Valore dell'affare stimato|Sì|Il valore dell'operazione in base alle conversazioni iniziali con il cliente. Questa operazione può essere modificata fino a quando l'operazione non raggiunge uno degli stati terminali **vinti** o **persi.**|12563
 Valuta|Sì|La valuta in cui viene immesso il valore dell'operazione. [Qui](https://en.wikipedia.org/wiki/ISO_4217)è possibile trovare i codici di valuta.|USD
 Data di chiusura stimata|Sì|Data di chiusura stimata dell'operazione in base alle conversazioni iniziali con il cliente nel formato MM/gg/aaaa. <br/> **La data deve essere nel fuso orario UTC. Tutte le date visualizzate nell'interfaccia utente del centro per i partner sono basate su fusi orari localizzati. Se si sta esaminando il riferimento per il quale è stata specificata la data nel fuso orario UTC, potrebbe essere presente una differenza di +/-un giorno nell'interfaccia utente del centro per i partner.**|1/30/2020
 ID CRM|No|Identificatore del riferimento specifico nel sistema CRM, se presente. Si tratta di un campo di immissione di testo in formato libero.|34234324-Greta-345345-SFD

@@ -1,7 +1,7 @@
 ---
 title: Contratto Microsoft Partner per CSP
 ms.topic: how-to
-ms.date: 02/11/2021
+ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni sui requisiti dei partner Microsoft CSP per la firma e la verifica del Contratto Microsoft Partner unificato e accettato digitalmente.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281329"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880804"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informazioni sul Contratto Microsoft Partner per i partner del programma CSP
 
@@ -110,5 +110,7 @@ Per verificare se hai firmato il Contratto Microsoft Partner:
 3. Per verificare lo stato del Contratto Microsoft Partner nel Centro per i partner dopo aver completato i passaggi 1 e/o 2 illustrati in precedenza: [Verificare lo stato di accettazione del Contratto Microsoft Partner](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Passaggi successivi
+
+- [Come i provider indiretti possono aiutare i rivenditori ad adottare il contratto per i partner Microsoft-domande frequenti](mpa-indirect-provider-faq.md)
 
 - [Iscriversi al programma Cloud Solution Provider](indirect-reseller-tasks-in-partner-center.md)

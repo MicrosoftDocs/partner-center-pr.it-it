@@ -9,18 +9,14 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367625"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028418"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Eseguire la migrazione di sottoscrizioni di Skype for Business Online piano 1 alla versione più recente di Office 365
-
-**Si applica a**
-
-- Centro per i partner
 
 Il piano 1 di Skype for business online verrà ritirato, a partire dal 1 ° agosto 2018. Dopo tale data, i clienti non potranno più acquistare nuove sottoscrizioni di Skype for business piano 1 e le sottoscrizioni esistenti non verranno rinnovate automaticamente alla scadenza e non forniranno un'opzione di rinnovo. Nella pagina dei dettagli della sottoscrizione, lo stato della sottoscrizione del piano 1 di Skype for business online è stato modificato in "scade in data [DATE]" da "auto renews on [DATE]".  
 
@@ -56,7 +52,7 @@ Microsoft offre continuamente nuovi prodotti e servizi ai nostri partner. In que
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Esegui la migrazione dei clienti ai nuovi piani
 
-1. Per acquistare la nuova sottoscrizione, scegliere **Customers**dal **menu centro**per i partner, selezionare il cliente che si desidera spostare e quindi selezionare **Aggiungi sottoscrizioni**.
+1. Per acquistare la nuova sottoscrizione, scegliere **Customers** dal **menu centro** per i partner, selezionare il cliente che si desidera spostare e quindi selezionare **Aggiungi sottoscrizioni**.
 
 2. Selezionare la sottoscrizione che si vuole acquistare dal catalogo (in questo caso, una delle opzioni precedenti), immettere il numero di licenze e quindi selezionare **Submit (Invia**). 
 
@@ -72,7 +68,7 @@ Il cliente deve avere ora sottoscrizioni sia precedenti che nuove, la sottoscriz
 
 Dopo aver spostato la licenza utente nel nuovo servizio, è possibile annullare tranquillamente la sottoscrizione ritirata a livello di cliente.
 
-7. Scegliere **clienti**dal menu **centro partner** . Selezionare il cliente di cui annullare la sottoscrizione.
+7. Scegliere **clienti** dal menu **centro partner** . Selezionare il cliente di cui annullare la sottoscrizione.
 
 8. Nella pagina Dettagli sottoscrizione impostare la sottoscrizione su **sospesa**.
 

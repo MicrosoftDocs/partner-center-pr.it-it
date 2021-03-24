@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40df034e88a1bba7829d6f73e0fb970795a2a0dd
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 38ab5b3ef871aa8a969e8da48e2cb6f4cfebf4c6
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811261"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028333"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Gestisci l'elenco dei clienti: Cerca, aggiorna o Esporta clienti nel centro per i partner
 
 **Si applica a**
 
-- Centro per i partner
-- Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner per Microsoft Government cloud
 
 I record dei clienti sono tra le informazioni più importanti nel Centro per i partner. Puoi eseguire una ricerca nel database degli account dei clienti, esportare l'intero database dei clienti o esportarne un sottoinsieme, in un formato di file con valori delimitati da virgole (CSV) compatibile con Excel. Puoi anche esportare le informazioni sulle sottoscrizioni del cliente in un file CSV.
 
@@ -29,20 +28,20 @@ Anche i log attività offrono dati esportabili sulle transazioni e le operazioni
 
 ## <a name="search-for-a-customer"></a>Cercare un cliente
 
-1.  Scegliere **clienti**dal menu **centro partner** .
-2.  Per cercare un cliente, immettere il nome del cliente o un nome di dominio nella casella di ricerca.
-3.  Seleziona la **freccia in giù** alla fine della riga di un cliente per visualizzare l'ID Microsoft oltre ai link rapidi per le sottoscrizioni e i servizi associati.
+1. Scegliere **clienti** dal menu **centro partner** .
+2. Per cercare un cliente, immettere il nome del cliente o un nome di dominio nella casella di ricerca.
+3. Seleziona la **freccia in giù** alla fine della riga di un cliente per visualizzare l'ID Microsoft oltre ai link rapidi per le sottoscrizioni e i servizi associati.
 
 ## <a name="update-a-customers-company-name"></a>Aggiornare il nome della società del cliente
 
-Scegliere **clienti**dal menu **centro partner** .
-2.  Per cercare un cliente, immettere il nome del cliente o un nome di dominio nella casella di ricerca.
-3.  Seleziona la **freccia in giù** alla fine della riga di un cliente per visualizzare l'ID Microsoft oltre ai link rapidi per le sottoscrizioni e i servizi associati.
-4.  In base alle informazioni **fatturate** del cliente, aggiornare il nome della società. Quando salvi il nuovo valore, questo sarà riportato nell'elenco dei clienti. Questa operazione modificherà solo il nome della società di fatturazione e il valore nell'elenco dei clienti. Non sarà applicata altrove.
+Scegliere **clienti** dal menu **centro partner** .
+2. Per cercare un cliente, immettere il nome del cliente o un nome di dominio nella casella di ricerca.
+3. Seleziona la **freccia in giù** alla fine della riga di un cliente per visualizzare l'ID Microsoft oltre ai link rapidi per le sottoscrizioni e i servizi associati.
+4. In base alle informazioni **fatturate** del cliente, aggiornare il nome della società. Quando salvi il nuovo valore, questo sarà riportato nell'elenco dei clienti. Questa operazione modificherà solo il nome della società di fatturazione e il valore nell'elenco dei clienti. Non sarà applicata altrove.
 
 ## <a name="export-your-customer-list"></a>Esportare l'elenco dei clienti
 
-1. Scegliere **clienti**dal menu **centro partner** .
+1. Scegliere **clienti** dal menu **centro partner** .
 2. Seleziona **Esporta clienti**.
 
    Il Centro per i partner converte l'elenco completo dei clienti in un file CSV e lo carica nella cartella di download predefinita nel tuo computer. Puoi anche esportare sottoinsiemi dei dati dei clienti. Le colonne di dati includono:
@@ -59,7 +58,7 @@ Scegliere **clienti**dal menu **centro partner** .
 
 ## <a name="export-customer-subscription-information"></a>Esporta le informazioni sulla sottoscrizione del cliente
 
-1. Scegliere **clienti**dal menu **centro partner** .
+1. Scegliere **clienti** dal menu **centro partner** .
 
 2. Seleziona **Nome azienda** per qualsiasi cliente. Viene aperta la pagina **Sottoscrizioni** del cliente con l'elenco completo delle sottoscrizioni di prodotti.
 

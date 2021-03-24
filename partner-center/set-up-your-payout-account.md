@@ -2,20 +2,21 @@
 title: Configurare l'account proventi e i moduli fiscali - Marketplace commerciale Microsoft
 description: Per ricevere denaro dalle offerte di vendita nel marketplace commerciale, di seguito sono riportate informazioni su come configurare l'account proventi e compilare i moduli fiscali necessari.
 ms.topic: conceptual
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492688"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028435"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurare l'account proventi e i moduli fiscali
 
-**Ruoli appropriati:**
+**Ruoli appropriati**
 
 - Amministratore degli account
 - Amministratore globale
@@ -54,7 +55,7 @@ Per prima cosa è necessario creare un profilo fiscale e assegnarlo ai programmi
 
 4. Se si vuole usare un profilo fiscale esistente, selezionarlo dall'elenco a discesa. In caso contrario, selezionare **Crea nuovo profilo** e premere **Invia**. Verrà visualizzata la pagina dei profili fiscali.
 
-5. Fare clic sul pulsante **Modifica** per modificare le proprie informazioni fiscali.
+5. Selezionare il pulsante **modifica** per modificare le informazioni fiscali.
 
 6. Selezionare il pulsante di opzione appropriato e specificare il proprio paese o area geografica, se richiesto. Questo passaggio determina l'entità business Microsoft che eseguirà i pagamenti per l'account.
 
@@ -91,7 +92,7 @@ Un account proventi è il conto bancario su cui vengono versati gli introiti del
 
 3. Selezionare il metodo di pagamento che si vuole configurare.
 
-4. Selezionare un profilo di pagamento esistente o fare clic su **Crea un nuovo profilo di pagamento** per creare un nuovo profilo per il metodo di pagamento scelto.
+4. Selezionare un profilo di pagamento esistente oppure selezionare **Crea un nuovo profilo di pagamento** per creare un nuovo profilo per il metodo di pagamento scelto.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Creare un profilo di pagamento presso una banca
 
@@ -111,7 +112,7 @@ Se si è scelto di usare un conto bancario per ricevere i proventi, completare l
 
 5. Sarà necessario selezionare un profilo di pagamento per ogni programma a cui si partecipa, anche se è possibile usare lo stesso profilo per più programmi.
 
-6. Fare clic su Invia per salvare le modifiche.
+6. Selezionare Submit (Invia) per salvare le modifiche.
 
    > [!NOTE]
    > Microsoft potrebbe richiedere fino a 48 ore per convalidare le informazioni nel profilo. Quando il processo è completato, lo *stato di verifica* è **Completo**
@@ -130,7 +131,7 @@ Per assicurarsi che il pagamento vada a buon fine, verificare quanto segue:
 
 2. Sotto l'intestazione *Proventi e imposte* selezionare **Profili di pagamento e fiscali**.
 
-3. I profili di pagamento verranno elencati insieme al relativo stato. Trovare il profilo da modificare e fare clic su **Modifica** all'estremità destra
+3. I profili di pagamento verranno elencati insieme al relativo stato. Trovare il profilo che si desidera modificare e selezionare **modifica** all'estrema destra
 
 > [!IMPORTANT]
 > La modifica dell'account per il pagamento può ritardare i pagamenti per un massimo di un ciclo di pagamento. Questo ritardo si verifica perché è necessario verificare la modifica dell'account, come è stato fatto per la configurazione iniziale dell'account di pagamento. Dopo aver verificato l'account, verrà comunque pagato per l'intero importo. Ii pagamenti in scadenza per il ciclo pagamento corrente saranno aggiunti a quello successivo. Per altre informazioni, vedere la pagina relativa all' [uso del Marketplace commerciale](marketplace-get-paid.md).
@@ -203,7 +204,7 @@ Se si è scelto di usare un conto bancario per ricevere i proventi, completare l
 3. Indicare i dettagli del beneficiario.
 4. Tornare alla pagina *Assegnazione del profilo* e selezionare la valuta da usare all'emissione dei pagamenti.
 5. Sarà necessario selezionare un profilo di pagamento per ogni programma a cui si partecipa, anche se è possibile usare lo stesso profilo per più programmi.
-6. Fare clic su Invia per salvare le modifiche.
+6. Selezionare Submit (Invia) per salvare le modifiche.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

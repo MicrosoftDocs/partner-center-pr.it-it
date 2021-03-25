@@ -9,20 +9,19 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645657"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028299"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Informazioni su come trasferire sottoscrizioni di Azure di un cliente a un altro partner
 
 **Si applica a**
 
-- Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner per Microsoft Government cloud
 - Centro per i partner per Microsoft Global Cloud
-- Partner inclusi nel programma Cloud Solution Provider (CSP)
 
 Questo articolo descrive come un cliente può cambiare i servizi Microsoft Azure da un provider di soluzioni cloud (CSP) a un altro.
 
@@ -43,7 +42,7 @@ Per passare i servizi o le sottoscrizioni di Azure di un cliente a un altro part
 
    Creare un ticket di servizio Azure dal Centro per i partner per richiedere un trasferimento della sottoscrizione:
 
-   1. Dal menu centro per i partner selezionare **clienti**, selezionare il cliente dall'elenco e quindi selezionare **Gestione servizi**. 
+   1. Dal menu centro per i partner selezionare **clienti**, selezionare il cliente dall'elenco e quindi selezionare **Gestione servizi**.
 
    2. Nella sezione **Ticket di supporto** seleziona l'elenco a discesa **Nuovo ticket** e scegli **Microsoft Azure**.
    
@@ -100,12 +99,12 @@ Per passare i servizi o le sottoscrizioni di Azure di un cliente a un altro part
      Get-AzRoleAssignment
      ```
 
-7. Rimuovere le autorizzazioni di accesso obsolete
+7. Rimuovere le autorizzazioni di accesso obsolete:
 
    - Nel menu del Centro per i partner scegli **Clienti**.
-   - Individuare il cliente nell'elenco. Selezionare (fare doppio clic) il nome della società. Verrà visualizzata la pagina **sottoscrizioni** clienti.
+   - Individuare il cliente nell'elenco. Selezionare (fare doppio clic) il nome della società. Questa azione consente di aprire la pagina **sottoscrizioni** clienti.
    - Nel menu Customer Details selezionare **gestione dei servizi**.
-   - In **Microsoft Azure** fai clic sul link per passare al **Portale di gestione di Microsoft Azure**.
+   - In **Microsoft Azure** selezionare il collegamento per passare al **portale di gestione di Microsoft Azure**.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

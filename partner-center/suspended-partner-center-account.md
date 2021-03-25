@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365737"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028248"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Ripristinare un account sospeso del Centro per i partner: perché succede e come risolvere il problema
 
@@ -22,8 +22,7 @@ Questo articolo illustra come procedere se l'account del Centro per i Partner è
 
 **Si applica a**
 
--  Centro per i partner
--  Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner per Microsoft Government cloud
 
 **Ruoli appropriati**
 
@@ -37,7 +36,7 @@ Questo articolo illustra come procedere se l'account del Centro per i Partner è
 
 Microsoft sospenderà un account del Centro per i partner per uno dei motivi seguenti:
 
-- Quando l'importo della fatturazione corrente è scaduto da oltre 60 giorni 
+- Quando l'importo della fatturazione corrente è scaduto da oltre 60 giorni
 - Quando vengono rilevati usi impropri significativi per l'account
 - Quando i problemi influiscono sulle operazioni del provider indiretto e influiscono negativamente sull'account (solo rivenditori indiretti)
 - Quando il profilo dell'account è in uno stato non riuscito o rifiutato
@@ -48,7 +47,7 @@ Se si è certi che l'account sia aggiornato, controllare le impostazioni del [pr
 
 Se non si è certi che l'account sia aggiornato, selezionare **fatturazione** dal menu **centro partner** per verificare la fattura. La pagina della fatturazione mostra la cronologia e le tendenze della fatturazione, il saldo esigibile del mese corrente, link ai file di fatturazione e di riconciliazione e informazioni sull'ultimo pagamento.
 
-Se l'account è scaduto, segui le istruzioni sulla fattura per predisporre il pagamento, quindi invia una richiesta di supporto per richiedere che il tuo account sia reinstallato. 
+Se l'account è scaduto, seguire le istruzioni riportate nella fattura per organizzare il pagamento e quindi inviare una richiesta di supporto per ripristinare l'account. 
 
 Per ulteriore assistenza nella riattivazione dell'account, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create).
 
@@ -56,4 +55,4 @@ Per ulteriore assistenza nella riattivazione dell'account, contattare il [suppor
 
 - [Verificare il profilo partner](update-your-partner-profile.md)
 
-- [Verificare le informazioni sull'account quando si esegue la registrazione in un nuovo programma del centro per i partner](verification-responses.md)
+- [Verificare le informazioni sull'account quando si effettua l'iscrizione a un nuovo programma del Centro per i partner](verification-responses.md)

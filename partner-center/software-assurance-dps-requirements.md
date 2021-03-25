@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89286496"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028265"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Visualizzare i requisiti di idoneità per la pianificazione di engagement Services
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore partner MPN
+- Amministratore dei partner MPN
 
-In questo argomento vengono fornite informazioni sui requisiti di idoneità che è necessario soddisfare prima che l'azienda possa iscriversi o fornire impegni di Software Assurance Planning Services per Microsoft.
+In questo articolo vengono fornite informazioni sui requisiti di idoneità che è necessario soddisfare prima che l'azienda possa iscriversi o fornire impegni di Software Assurance Planning Services per Microsoft.
 
 >[!NOTE]
 > Oltre a soddisfare i requisiti di idoneità per un'offerta di servizi di pianificazione, è necessario seguire anche diversi altri passaggi prima di poter distribuire gli impegni di Software Assurance Planning Services. Per una panoramica di tutti i passaggi necessari, vedere [Software Assurance Planning Services nel centro per i partner](software-assurance-dps.md).

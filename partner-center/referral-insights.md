@@ -9,21 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756490"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549261"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Ottenere informazioni dettagliate sulle segnalazioni nel Centro per i partner ed esaminare lo stato delle segnalazioni
 
-**Si applica a**
-
-- Opportunità di co-selling
-- Trattative private
-
-La pagina **Opportunità di co-selling** nella sezione **Analisi** in Segnalazioni consente di visualizzare le prestazioni delle segnalazioni. Esamina regolarmente queste metriche per identificare tendenze o aree che richiedono attenzione e inizia a muoverti verso il raggiungimento dei tuoi obiettivi aziendali.
+La pagina **opportunità di co-selling** nella sezione **Analytics** in riferimenti consente di vedere come vengono i riferimenti. Esamina regolarmente queste metriche per identificare tendenze o aree che richiedono attenzione e inizia a muoverti verso il raggiungimento dei tuoi obiettivi aziendali.
 
 Per visualizzare dati dettagliati sulle opportunità di co-selling, scegliere **Segnalazioni > Analisi > Opportunità di co-selling** dal menu del Centro per i partner.
 
@@ -32,9 +27,9 @@ Per visualizzare dati dettagliati sulle opportunità di co-selling, scegliere **
 
 ## <a name="apply-filters"></a>Applicare filtri
 
-Nella parte superiore della pagina **Opportunità di co-selling** è possibile selezionare l'intervallo di tempo per il quale si desidera visualizzare i dati. La selezione predefinita è **3M** (tre mesi), ma in alternativa è possibile scegliere di visualizzare i dati per un periodo di sei mesi o un anno. È anche possibile selezionare **Personalizzato** per visualizzare i dati relativi a tutte le segnalazioni di un periodo di tempo specifico.
+Nella parte superiore della pagina **Opportunità di co-selling** è possibile selezionare l'intervallo di tempo per il quale si desidera visualizzare i dati. La selezione predefinita è **3M** (tre mesi), ma è invece possibile scegliere di visualizzare i dati per sei mesi o un anno. È anche possibile selezionare **Personalizzato** per visualizzare i dati relativi a tutte le segnalazioni di un periodo di tempo specifico.
 
-È possibile fare clic sul pulsante Filtri per aprire il pannello che consente di filtrare tutti i dati di questa pagina in base al nome del cliente, al paese, al tipo di trattativa, alla direzione della trattativa, al nome della soluzione e allo stato. Di seguito vengono riportati i dettagli di questi filtri.
+È possibile selezionare il pulsante **filtri** per aprire il pannello che consente di filtrare tutti i dati in questa pagina in base al nome del cliente, al paese, al tipo di contratto, alla direzione dell'accordo, al nome della soluzione e allo stato. Di seguito vengono riportati i dettagli di questi filtri.
 
 - **Nome cliente**: il valore predefinito è **Tutti**, ma è possibile limitare la visualizzazione dei dati a uno o più clienti selezionati.
 - **Paese**: il valore predefinito è **Tutti**, ma è possibile limitare la visualizzazione dei dati a uno o più paesi del cliente selezionato.
@@ -43,11 +38,11 @@ Nella parte superiore della pagina **Opportunità di co-selling** è possibile s
 - **Nome soluzione**: il valore predefinito è **Tutte**, ma è possibile scegliere di limitare la visualizzazione dei dati alle segnalazioni che contengono una o più soluzioni selezionate.
 - **Stato**: il valore predefinito è **Tutti**, ma è possibile scegliere di limitare la visualizzazione dei dati alle segnalazioni che contengono uno o più tipi di stato di segnalazione selezionati, ad esempio accettate, rifiutate, scadute, perse e vinte.
 
-Le informazioni incluse in tutti i grafici elencati di seguito riflettono l'intervallo di date e tutti i filtri selezionati, tranne i casi indicati di seguito. In alcune sezioni puoi anche applicare altri filtri, ad esempio quello relativo a una soluzione specifica.
+Le informazioni incluse in tutti i grafici elencati di seguito riflettono l'intervallo di date e tutti i filtri selezionati, tranne i casi indicati di seguito. Alcune sezioni consentono inoltre di applicare filtri aggiuntivi, ad esempio il filtro a una soluzione specifica.
 
 ## <a name="referrals-summary"></a>Riepilogo segnalazioni
 
-Questa scheda mostra una panoramica delle prestazioni delle opportunità di co-selling.
+Questa scheda Mostra una panoramica del funzionamento delle opportunità di co-selling.
 
 Il grafico mostra il numero totale di trattative, il numero di quelle vinte e di quelle perse, nonché il volume di trattative totale (in USD) per il periodo di tempo selezionato.
 
@@ -63,7 +58,7 @@ Questa sezione mostra un indicatore visivo del modo in cui le trattative passano
 
 ## <a name="deals-by-geography"></a>Trattative per area geografica
 
-In questa sezione vengono visualizzati i paesi e/o le aree geografiche da cui sono arrivate le segnalazioni, con i dettagli relativi a ogni paese/area geografica. È disponibile una vista tabella dei dettagli delle trattative per ogni paese insieme a una vista mappa di tutti i paesi. È possibile fare clic su un paese specifico nella tabella oppure sulla vista mappa per ingrandire un paese specifico.
+In questa sezione vengono visualizzati i paesi e/o le aree geografiche da cui sono arrivate le segnalazioni, con i dettagli relativi a ogni paese/area geografica. È disponibile una vista tabella dei dettagli delle trattative per ogni paese insieme a una vista mappa di tutti i paesi. È possibile selezionare un paese specifico nella tabella o selezionare la vista mappa per ingrandire un paese specifico.
 
 :::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Immagine che mostra la distribuzione geografica delle segnalazioni.":::
 
@@ -94,7 +89,7 @@ Le tre dimensioni che è possibile scegliere per confrontare i dati sono
 - Mercati
 - Soluzioni
 
-Quando è selezionato il tipo di trattativa, è possibile confrontare le prestazioni delle segnalazioni in relazione alle opportunità di co-selling e alle trattative private. Per i mercati e le soluzioni, è possibile scegliere fino a tre diverse opzioni per il confronto delle prestazioni. Il primo grafico, che è un grafico a barre, presenterà i dati con una tendenza mensile in base al pivot principale, ovvero il volume o il valore delle trattative vinte. A destra del grafico a barre è inoltre presente un grafico a torta, che mostra la distribuzione per percentuale per gli stessi dati.
+Quando si seleziona tipo di transazione, è possibile confrontare le prestazioni dei riferimenti di in relazione alle opportunità di co-selling e alle offerte private. Per i mercati e le soluzioni, è possibile scegliere fino a tre diverse opzioni per il confronto delle prestazioni. Il primo grafico, che è un grafico a barre, presenterà i dati con una tendenza mensile in base al pivot principale, ovvero il volume o il valore delle trattative vinte. A destra del grafico a barre è inoltre presente un grafico a torta, che mostra la distribuzione per percentuale per gli stessi dati.
 
 :::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Immagine che mostra la sezione di confronto.":::
 

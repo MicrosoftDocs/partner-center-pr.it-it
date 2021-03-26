@@ -9,18 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624137"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549108"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Rinnova le tue offerte MPN per competenze e specializzazioni avanzate durante la finestra di rinnovo
-
-### <a name="applies-to"></a>Si applica a
-
-- Centro per i partner
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Risposta a COVID-19: Microsoft Partner Network aggiornamento
 
@@ -42,7 +38,7 @@ Quando rinnovi nel periodo valido, la nuova data dell'anniversario cadrà 365 gi
 
 4. Per sfruttare i vantaggi di questa offerta, passa a **Offerte di iscrizione**. Per completare il processo, può essere necessario pagare i corrispettivi della competenza, a seconda dello stato di acquisto o rinnovo della competenza.
 
-Per sfruttare i vantaggi dell'estensione, devi spostare l'abbonamento da Partner Membership Center (PMC) al Centro per i partner per rinnovare le tue competenze e pagare i corrispettivi. Se l'abbonamento non è stato spostato, [leggi qui](prepare-pmc-pc-migration.md) ed [esegui la transizione](https://partners.microsoft.com/partnerprogram/Welcome.aspx) oggi.  
+Per sfruttare i vantaggi dell'estensione, devi spostare l'abbonamento da Partner Membership Center (PMC) al Centro per i partner per rinnovare le tue competenze e pagare i corrispettivi. Se non è stato spostato il proprio abbonamento, è possibile ottenere [altre informazioni](prepare-pmc-pc-migration.md)   ed [effettuare la transizione](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   oggi stesso.  
 
 ## <a name="next-steps"></a>Passaggi successivi
 

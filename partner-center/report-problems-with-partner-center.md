@@ -9,23 +9,24 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582037"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549176"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Strumento di diagnostica e richieste del portale del centro per i partner
 
 **Si applica a**
 
-- Centro per i partner
-- Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner per Microsoft Government cloud
 
 **Ruoli appropriati**
 
-Tutti gli utenti connessi al centro per i partner possono creare richieste di supporto per i partner. Gli utenti possono visualizzare solo le richieste di supporto inviate dopo l'accesso al centro per i partner.
+- Tutti i partner interessati al centro per i partner
+
+Tutti gli utenti connessi al centro per i partner possono creare una richiesta di supporto per i partner. Gli utenti possono visualizzare solo le richieste di supporto inviate dopo l'accesso al centro per i partner.
 Se si riscontrano problemi o si necessita di assistenza per gli errori del portale del centro per i partner, contattare il supporto tecnico. Inviare i dati di diagnostica per consentire una correzione più rapida del problema.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Segnalare un problema con il centro per i partner
@@ -77,7 +78,7 @@ Se si verifica un errore mentre si è in una pagina del centro per i partner, è
 
 Puoi visualizzare in anteprima le informazioni di diagnostica e salvarle in un file che è possibile allegare alla richiesta di supporto. Per inviare le informazioni:
 
-3. Esaminare le informazioni nel file prima di inviarlo perché può contenere informazioni personali che puoi decidere di rimuovere.
+3. Esaminare le informazioni contenute nel file prima di inviarle, perché possono contenere dati personali che possono essere rimossi.
 
     >[!NOTE]
     >In alcuni browser, la sezione **di visualizzazione della pagina** nella parte inferiore della pagina di **anteprima** può sembrare vuota. Non si tratta di un errore.

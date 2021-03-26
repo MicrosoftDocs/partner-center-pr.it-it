@@ -9,22 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9964dd4fb1ae96e890dd357a045acdb152fb95f1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 263211fc03d7579a229d8a6df8ed4ad7ca59ed93
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999105"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549193"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registra le offerte acquisite nel centro per i partner per poter ottenere più opportunità in seguito
 
-**Si applica a**
-
-- Centro per i partner
-
 Puoi registrare le trattative che sono andate a buon fine nel Centro per i partner fornendo altre informazioni sul contratto. Queste informazioni consentono di offrirti maggiori opportunità in futuro.
 
-Per alcune soluzioni idonee, dopo che hai selezionato **Acquisito** nel [processo di risposta alle segnalazioni](manage-leads.md), ti verrà richiesto di fornire informazioni aggiuntive per la registrazione della trattativa. Microsoft esaminerà le informazioni fornite e potrebbe richiedere altri dettagli durante tale processo.
+Per alcune soluzioni idonee, dopo aver selezionato **vinto** nel [processo di risposta ai riferimenti](manage-leads.md), verrà richiesto di fornire informazioni aggiuntive per la registrazione dell'affare. Microsoft esaminerà le informazioni fornite e potrebbe richiedere ulteriori dettagli durante il processo di revisione.
 
 Puoi registrare le nuove trattative che hanno avuto esito positivo e in cui viene usata una delle tue soluzioni anche se non hanno avuto origine da una [segnalazione](referrals.md). 
 
@@ -44,7 +40,7 @@ Nella pagina **Nuova trattativa** specifica le informazioni seguenti.
 - **Data di inizio del contratto**: data di inizio del contratto.
 - **Data di fine del contratto**: se il contratto terminerà in una data specifica, Select **avrà una data di fine** e fornirà tale data. In caso contrario, seleziona **Perpetual** (A tempo indeterminato).
 - **Data firma contratto**: la data in cui il contratto finale è stato firmato dall'organizzazione e dal cliente.
-- **Contatto di registrazione**: il **nome**, il **Cognome**, il **numero di telefono**e il messaggio di **posta elettronica** per una persona dell'organizzazione che può contattare se sono necessari altri dettagli sulle informazioni fornite qui.
+- **Contatto di registrazione**: il **nome**, il **Cognome**, il **numero di telefono** e il messaggio di **posta elettronica** per una persona dell'organizzazione che può contattare se sono necessari altri dettagli sulle informazioni fornite qui.
 
 Dopo aver completato tutte le sezioni della pagina, fai clic su **Registra**. La registrazione della trattativa verrà quindi spostata nella pagina **In corso**. Microsoft esaminerà in seguito le informazioni che hai specificato.
 
@@ -56,7 +52,7 @@ Puoi esaminare le registrazioni di trattative nuove, attive e chiuse nelle diver
 
 ### <a name="action-required"></a>Azione richiesta
 
-Nella pagina **Segnalazioni > Deal registrations (Registrazioni trattative) > Azione richiesta** verranno visualizzate le nuove registrazioni non ancora effettuate o che richiedono un aggiornamento. Puoi usare i filtri per visualizzare solo le registrazioni di trattative **Incomplete** o con **Aggiornamento richiesto**. Le registrazioni di trattative **Incomplete** sono registrazioni che hanno avuto origine da segnalazioni, ma che non sono state ancora effettuate. Le registrazioni di trattative con **Aggiornamento richiesto** sono registrazioni create ed effettuate, ma che richiedono che tu aggiorni le informazioni specificate.
+Nella pagina **Segnalazioni > Deal registrations (Registrazioni trattative) > Azione richiesta** verranno visualizzate le nuove registrazioni non ancora effettuate o che richiedono un aggiornamento. Puoi usare i filtri per visualizzare solo le registrazioni di trattative **Incomplete** o con **Aggiornamento richiesto**. Le registrazioni di trattative **Incomplete** sono registrazioni che hanno avuto origine da segnalazioni, ma che non sono state ancora effettuate. Le registrazioni degli accordi necessari per l' **aggiornamento** sono quelle create e registrate, ma per cui è necessario aggiornare le informazioni fornite.
 
 ### <a name="in-progress"></a>In corso
 
@@ -66,4 +62,4 @@ Se è necessario aggiornare alcune informazioni, la registrazione della trattati
 
 ### <a name="closed"></a>Chiusa
 
-Nella pagina **Segnalazioni > Deal registrations (Registrazioni trattative) > Chiuse** verranno visualizzate le trattative registrate ed esaminate con esito positivo da Microsoft. Puoi usare i filtri per visualizzare solo le registrazioni di trattative **Approvate** o **Rifiutate**.
+Nella pagina relativa ai **riferimenti > Deal > closed** sono riportate le offerte registrate e riviste correttamente da Microsoft. Puoi usare i filtri per visualizzare solo le registrazioni di trattative **Approvate** o **Rifiutate**.

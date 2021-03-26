@@ -9,18 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999135"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549210"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Aumenta il tuo business con le segnalazioni Microsoft
-
-**Si applica a**
-
-- Centro per i partner
 
 Molti clienti cercano esperti qualificati che li assistano nell'implementazione di soluzioni aziendali e tecnologiche Microsoft. Qui in Microsoft riceviamo spesso dai clienti richieste di aiuto dirette tramite le nostre attività di marketing e i nostri agenti di vendita interni Microsoft. I clienti usano anche l'esperienza [**Trova un provider di soluzioni**](https://www.microsoft.com/solution-providers/search) per trovare aziende in grado di soddisfare le loro esigenze aziendali. 
 

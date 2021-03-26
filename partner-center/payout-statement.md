@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185350"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549244"
 ---
 # <a name="payout-statements"></a>Estratti conto
 
@@ -169,7 +169,7 @@ Per visualizzare altri dettagli su un guadagno, selezionare **download** nella p
 | participantName | Nome del partner beneficiario del reddito | Tutti |
 | partnerCountryCode | Località/paese/area del partner beneficiario del reddito | Tutti |
 | partNumber | È sempre vuoto | Alcuni programmi e Marketplace per incentivi |
-| paymentId | Identificatore univoco per il pagamento. Questo numero è visibile nell'estratto conto bancario | Solo pagamenti SAP |
+| paymentId | Identificatore univoco per la correlazione di tutte le transazioni nel report delle transazioni con un pagamento specifico nel report di pagamento | Tutti |
 | paymentStatus | Stato dei pagamenti | Tutti |
 | paymentStatusDescription | Descrizione dello stato dei pagamenti | Tutti |
 | productId | Identificatore univoco del prodotto | marketplaces |

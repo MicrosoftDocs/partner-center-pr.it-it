@@ -8,22 +8,18 @@ description: Richiedere una relazione con un cliente per scenari multicanale e m
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007415"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548972"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Come richiedere una relazione di rivenditore da un cliente nel Centro per i partner
 
-**Si applica a**
-
-- Centro per i partner
-
 Se si desidera gestire il servizio o la sottoscrizione di un cliente per loro conto, il cliente deve concedere le autorizzazioni di amministratore per tale servizio o sottoscrizione e firmare il contratto per i clienti Microsoft.
 
-Se si desidera stabilire una relazione del rivenditore con un cliente e gestire solo le sottoscrizioni di Azure di cui si esegue il provisioning, non è necessario ottenere le autorizzazioni di amministratore.
+Se si vuole stabilire una relazione del rivenditore con un cliente e gestire solo le sottoscrizioni di Azure di cui si esegue il provisioning, non è necessario ottenere le autorizzazioni di amministratore.
 
 >[!NOTE] 
 >L'opzione per non richiedere autorizzazioni non è disponibile per i partner che operano in Microsoft Cloud per il governo degli Stati Uniti o per Microsoft Cloud Germania. Per altre informazioni, vedere [i clienti che delegano i privilegi di amministrazione ai partner](customers-revoke-admin-privileges.md).

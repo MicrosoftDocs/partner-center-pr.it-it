@@ -3,23 +3,24 @@ title: Tipi di addebito dei file di riconciliazione
 ms.topic: article
 ms.date: 06/05/2020
 description: Individuare i tipi di addebiti (ad esempio, basati su licenza, utilizzo e una volta), crediti e sconti nei file di riconciliazione del centro per i partner.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87479114"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549227"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Informazioni sui diversi tipi di addebito nei file di riconciliazione del centro per i partner
 
 **Si applica a**
 
-- Centro per i partner
-- Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner per Microsoft Government cloud
 
 **Ruoli appropriati**
 
@@ -27,7 +28,7 @@ ms.locfileid: "87479114"
 - Amministratore fatturazione
 - Amministratore globale
 
-In questo argomento vengono descritti i mapping tra una sezione della fattura e i tipi di addebito associati che potrebbero essere presenti nel file di riconciliazione. La fattura fornisce un riepilogo degli addebiti. Il file di riconciliazione fornisce una suddivisione dettagliata delle transazioni di elementi riga, inclusi i tipi di addebito. Per ulteriori informazioni sui file di riconciliazione, vedere [come utilizzare i file di riconciliazione](use-the-reconciliation-files.md).
+Questo articolo descrive i mapping tra una sezione della fattura e i tipi di addebito associati che potrebbero essere presenti nel file di riconciliazione. La fattura fornisce un riepilogo degli addebiti. Il file di riconciliazione fornisce una suddivisione dettagliata delle transazioni di elementi riga, inclusi i tipi di addebito. Per ulteriori informazioni sui file di riconciliazione, vedere [come utilizzare i file di riconciliazione](use-the-reconciliation-files.md).
 
 Sia [i file di riconciliazione basati sull'utilizzo](usage-based-recon-files.md) che [i file di riconciliazione basati sulle licenze](license-based-recon-files.md) mostrano solo le transazioni e gli addebiti relativi all'utilizzo (unità utilizzate e addebiti correlati).
 
@@ -63,7 +64,7 @@ Per eseguire il mapping di questi addebiti monouso alla fattura, sommare la colo
 
 | Descrizione addebito (colonna ChargeType nel file di riconciliazione) | Spiegazione di addebito |
 | ------------------------------------------------------------- | ------------------ |
-| Nuovo | Utilizzato quando viene creato un nuovo acquisto. |
+| Nuova | Utilizzato quando viene creato un nuovo acquisto. |
 | addQuantity | Usato sia per il rimborso dell'acquisto originale che per la nuova quantità dopo un aumento. |
 | removeQuantity | Utilizzato sia per il rimborso dell'acquisto originale che per la nuova quantità dopo una riduzione. |
 | Annulla | Utilizzato quando viene annullata una sottoscrizione. |

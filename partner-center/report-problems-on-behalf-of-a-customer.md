@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756434"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549057"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Segnala un problema del servizio per conto di un cliente, incluse le attività e le modalità di esecuzione
 
 **Si applica a**
 
-- Centro per i partner
-- Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner per Microsoft Government cloud
 
 **Ruoli appropriati**
 
@@ -104,7 +103,7 @@ Per trovare le informazioni di contatto dell'ISV:
 
 ## <a name="faq"></a>Domande frequenti
 
-Per domande frequenti sulle richieste di servizio che è possibile inviare per conto di un cliente, vedere le informazioni riportate di seguito. 
+Vedere le seguenti domande frequenti sulle richieste di servizio che è possibile inviare per conto di un cliente. 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Cosa include il diritto al supporto?
 
@@ -120,7 +119,7 @@ I tempi per la risposta iniziale dipendono dalla gravità del problema. La gravi
 
 Tempi di risposta iniziali per gli **eventi imprevisti di correzione tecnico**:
 
-- Impatto critico (gravità A): 2 ore (perdita o riduzione delle prestazioni dei servizi significativa. Servizi di produzione non funzionanti).
+- Impatto critico (gravità A): due ore (perdita o riduzione significativa dei servizi. Servizi di produzione non funzionanti).
 - Effetto moderato (gravità B): quattro ore (perdita moderata o riduzione dei servizi. Servizi di produzione interessati parzialmente.
 - Effetto minimo (gravità C): otto ore (perdita minima o riduzione dei servizi. Servizi ancora disponibili o servizi non di produzione interessati.
 

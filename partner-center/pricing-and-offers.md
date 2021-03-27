@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281287"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633761"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prezzi e offerte per Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e altro ancora
 
@@ -22,13 +22,13 @@ ms.locfileid: "100281287"
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 - Agente amministratore
 - Amministratore dei partner MPN
 - Agente di vendita
 - Amministratore fatturazione
 
-Per visualizzare i programmi e le offerte del provider di soluzioni cloud più recenti, dal portale per i partner, vai a **vendere > prezzi e offerte**. Sono disponibili elenchi prezzi distinti per i diversi tipi di prodotti disponibili. Nella pagina **prezzi e offerte** sono disponibili gli elenchi prezzi seguenti:
+Per visualizzare i programmi e le offerte del provider di soluzioni cloud più recenti, dal portale per i partner, vai a **vendere > prezzi e offerte**. Troverai elenchi prezzi distinti per i diversi tipi di prodotti disponibili. Nella pagina **prezzi e offerte** sono disponibili gli elenchi prezzi seguenti:
 
 - I **servizi basati su licenze** includono informazioni sui prezzi per Office 365, Enterprise Mobility e Security E3, oltre a Dynamics 365. La sezione relativa ai prezzi basata sulle licenze include i prezzi attuali e di anteprima, nonché la matrice dell'elenco di offerte. Gli elenchi prezzi includono il prezzo di listino e i prezzi di vendita al dettaglio (ERP) per le offerte in tutte le valute supportate. La matrice dell'elenco di offerte include la disponibilità del mercato e altre informazioni importanti sulle offerte. Questi file vengono aggiornati il primo giorno di ogni mese.
 - I **servizi basati sull'utilizzo** includono informazioni sui prezzi per Microsoft Azure e Visual Studio. Puoi anche usare il [calcolatore dei prezzi per Servizi Azure in CSP](https://azure.microsoft.com/pricing/calculator/). Il download basato sull'utilizzo include entrambi gli elenchi prezzi CSP per tutte le valute supportate, oltre ai file dei prezzi dei servizi condivisi in ERP. Questi file vengono aggiornati il primo giorno di ogni mese.
@@ -95,7 +95,7 @@ I margini dei partner, la differenza tra il prezzo di listino e i prezzi di vend
 
 ## <a name="add-on-offer-types"></a>Tipi di offerta di componenti aggiuntivi
 
-I servizi basati su licenze possono essere acquisiti come offerte di base o componenti aggiuntivi. Solo le offerte di base sono individuabili e acquistabili tramite il catalogo del centro per i partner. I componenti aggiuntivi devono essere applicati dopo l'acquisto delle offerte di base. La colonna **tipo di licenza secondaria** elenco prezzi basato su licenza include informazioni su ogni offerta e il relativo tipo. Le offerte di base hanno valori **non specifici** nella colonna Price List tipo di licenza secondaria e possono essere acquistati nel catalogo. Non è possibile acquistare i valori del tipo di licenza secondaria del **componente aggiuntivo** nel catalogo. Per acquistare questi componenti aggiuntivi:
+I servizi basati su licenze possono essere acquisiti come offerte di base o componenti aggiuntivi. Solo le offerte di base sono individuabili e acquistabili tramite il catalogo del centro per i partner. È necessario applicare i componenti aggiuntivi dopo aver acquistato le offerte di base. La colonna **tipo di licenza secondaria** elenco prezzi basato su licenza include informazioni su ogni offerta e il relativo tipo. Le offerte di base hanno valori **non specifici** nella colonna Price List tipo di licenza secondaria e possono essere acquistati nel catalogo. Non è possibile acquistare i valori del tipo di licenza secondaria del **componente aggiuntivo** nel catalogo. Per acquistare questi componenti aggiuntivi:
 
 1. Per visualizzare l'elenco degli ID offerta che è necessario acquistare per poter acquistare un componente aggiuntivo, consultare la matrice dell'elenco di offerte.
 2. Acquistare l'offerta di base dal catalogo
@@ -143,7 +143,7 @@ Tutti i prezzi negli elenchi prezzi del centro per i partner CSP sono inclusivi 
 
 ### <a name="36-month-offers"></a>Offerte di 36 mesi
 
-Esistono circa 50 offerte di Dynamics con termini di tre anni. Sono identificati da **(36 Mo)** nel titolo delle offerte. Queste offerte sono molto simili a quelle del termine annuale. L'unica differenza è intorno al termine. Queste offerte hanno un termine di tre anni, che significa che le sottoscrizioni vengono rinnovate automaticamente dopo tre anni anziché una. Di seguito è riportato un riepilogo del funzionamento di queste offerte:
+Esistono circa 50 offerte di Dynamics con termini di tre anni. Sono identificati da **(36 Mo)** nel titolo delle offerte. Queste offerte sono simili a quelle del termine annuale. L'unica differenza è intorno al termine. Queste offerte hanno un termine di tre anni, in modo che le sottoscrizioni vengano rinnovate automaticamente dopo tre anni anziché una. Di seguito è riportato un riepilogo del funzionamento di queste offerte:
 
 - I termini sono 36 mesi, le sottoscrizioni verranno rinnovate automaticamente dopo tre anni
 - I partner possono annullare o modificare il numero di licenze per tutto il periodo di validità della sottoscrizione
@@ -162,8 +162,8 @@ Microsoft 365 offerta base a1 ha un periodo di sei anni.  I componenti aggiuntiv
 
 Di seguito è riportato un riepilogo del funzionamento di queste offerte:
 
-- Il termine è per 72 mesi o 6 anni
-- La sottoscrizione non viene rinnovata e scade dopo 6 anni
+- Il termine è per 72 mesi o sei anni
+- La sottoscrizione non viene rinnovata e scade dopo sei anni
 - La frequenza di fatturazione sull'offerta è indicata come annuale, ma il partner viene fatturato prima della prima fattura dopo l'acquisizione della sottoscrizione
 - Le sottoscrizioni per le offerte a1 72 mesi sono bloccate dopo l'acquisto e non possono essere annullate e non è possibile aggiungere i conteggi delle licenze alla sottoscrizione dopo l'acquisto iniziale
 - Questa sottoscrizione non è annullabile e non rimborsabile.

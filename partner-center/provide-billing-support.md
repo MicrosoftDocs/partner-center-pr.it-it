@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sul supporto per la fatturazione dei clienti richiesto dai partner del programma CSP. Ciò include la relazione di fatturazione dei clienti e la risposta alle domande di fatturazione.
+description: Informazioni sul supporto per la fatturazione dei clienti richiesto dai partner del programma CSP. Questo supporto include l'appartenenza alla relazione di fatturazione dei clienti e la risposta alle domande di fatturazione.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215935"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633659"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fornire ai clienti supporto per la fatturazione e rispondere alle domande sulla fatturazione
 
@@ -22,7 +22,7 @@ ms.locfileid: "98215935"
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 - Agente di supporto tecnico
 - Amministratore fatturazione
 - Agente di vendita
@@ -39,12 +39,12 @@ Si è proprietari della relazione di fatturazione con i clienti e si è responsa
 
 I partner che operano nel modello CSP sono l'Advisor attendibile per i propri clienti ed è il proprietario della relazione end-to-end, incluso il supporto quando il cliente ha una domanda o un problema. Grazie ai partner di supporto per i punti di tocco è possibile ottenere ulteriori informazioni sul cliente e la relativa attività, per identificare i nuovi servizi e le soluzioni che determinano il valore.
 
-Per soddisfare i requisiti di supporto, il partner può rivendere il supporto da un'altra entità, può esternalizzare tutta o parte della struttura di supporto e/o può configurare una struttura per fornire supporto diretto.  Il partner può addebitare l'addebito per tutto o parte del supporto fornito ai clienti. Il partner deve fornire ai propri clienti il supporto che fornirà, le ore di servizio e il metodo di contatto, oltre ai prezzi (se addebitato per il supporto tecnico). 
+Per soddisfare i requisiti di supporto, il partner può rivendere il supporto da un'altra entità, può esternalizzare tutta o parte della struttura di supporto e/o può configurare una struttura per fornire supporto diretto.  Il partner può addebitare l'addebito per tutto o parte del supporto fornito ai clienti. Il partner deve esprimere ai propri clienti il supporto che fornirà, le ore di servizio e il metodo di contatto e i prezzi (se addebitato per il supporto tecnico). 
 
 >[!Note]
 >Se non si è un CSP e si hanno domande sulla fatturazione dei clienti, vedere il portale specifico per i prodotti o i servizi appropriati.
 
-I partner devono ricevere le richieste di supporto in ingresso dai clienti, diagnosticare i problemi al meglio della capacità del partner e quindi risolvere i problemi che rientrano nell'ambito dei limiti di supporto della linea di base. Se il partner non riesce a risolvere un problema, può inoltrare i problemi a Microsoft tramite i veicoli di supporto seguenti:
+I partner devono ricevere le richieste di supporto in ingresso dai clienti, diagnosticare i problemi al meglio della capacità del partner e quindi risolvere i problemi che rientrano nell'ambito dei limiti del supporto di base. Se il partner non riesce a risolvere un problema, può inoltrare i problemi a Microsoft tramite i veicoli di supporto seguenti:
 
 - Il supporto per i problemi **commerciali** è disponibile per tutti i partner del programma CSP
 

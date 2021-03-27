@@ -9,22 +9,23 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
-ms.translationtype: HT
+ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999985"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633880"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Eseguire la preparazione per il passaggio da Partner Membership Center (PMC) al Centro per i partner
 
 **Ruoli appropriati**
+
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 - Agente di vendita
 - Agente amministratore
 
-La gestione degli account di appartenenza sta passando da Partner Membership Center (PMC) al Centro per i partner, l'unica destinazione in cui gestire la tua relazione aziendale con Microsoft. Il passaggio al Centro per i partner deve avvenire con la massima efficienza e facilità. Sono state pertanto identificate alcune aree in cui il Centro per i partner differisce da PMC, quindi è opportuno comprendere queste differenze e prepararsi prima di effettuare tale passaggio.
+Si sta migrando la gestione delle appartenenze da partner Membership Center (PMC) al centro per i partner, ovvero la singola destinazione per gestire la relazione aziendale con Microsoft. Il passaggio al Centro per i partner deve avvenire con la massima efficienza e facilità. Sono state pertanto identificate alcune aree in cui il Centro per i partner differisce da PMC, quindi è opportuno comprendere queste differenze e prepararsi prima di effettuare tale passaggio.
 
 ## <a name="account-and-identity-setup"></a>Impostazione di account e identità
 
@@ -94,7 +95,7 @@ Non necessariamente. Tuttavia, il contatto principale deve essere un utente auto
 
 ### <a name="can-microsoft-migrate-my-mpn-membership-for-me"></a>Microsoft può eseguire la migrazione del mio account di appartenenza MPN per mio conto?
 
-No. Microsoft non può aiutarti a trasferire il tuo account di appartenenza nel Centro per i partner. Per avviare il processo di migrazione, dovrai spostare l'account accedendo a PMC con il tuo account aziendale (credenziali di accesso). Dopo aver completato le operazioni necessarie per spostare l'account, puoi iniziare a gestire il tuo account di appartenenza e assegnare ruoli utente e autorizzazioni al tuo team in modo che i relativi membri possano accedere ai benefit previsti e contribuire alla gestione dell'appartenenza. 
+No. Microsoft non può aiutarti a trasferire il tuo account di appartenenza nel Centro per i partner. Per avviare il processo di migrazione, è necessario spostare l'account accedendo a PMC con l'account aziendale (credenziali di accesso). Dopo aver completato le operazioni necessarie per spostare l'account, puoi iniziare a gestire il tuo account di appartenenza e assegnare ruoli utente e autorizzazioni al tuo team in modo che i relativi membri possano accedere ai benefit previsti e contribuire alla gestione dell'appartenenza. 
 
 Microsoft eseguirà automaticamente la migrazione delle competenze, dei benefit, delle informazioni sulle sedi, dei dettagli bancari e fiscali per gli incentivi e delle associazioni MCP correnti, incluso l'accesso a Partner University.
 
@@ -120,7 +121,7 @@ Anche se l'amministratore MPN o l'amministratore globale può assegnare agli ute
 
 ### <a name="how-should-we-manage-our-mcp-associations-and-our-partner-university-access"></a>In che modo è opportuno gestire le associazioni MCP e l'accesso a Partner University?
 
-Non vengono apportate modifiche alle associazioni MCP spostate da PMC. Tuttavia, tutti i nuovi dipendenti aggiunti dopo il passaggio al Centro per i partner dovranno essere associati nel Centro per i partner. Tutte le autorizzazioni relative a Partner University per gli utenti esistenti verranno mantenute, ma tutti i nuovi dipendenti dovranno andare al [centro di formazione](https://partner.microsoft.com/training) per avere informazioni su come ottenere l'accesso a Partner University.
+Non vengono apportate modifiche alle associazioni MCP spostate da PMC. Tuttavia, eventuali nuovi dipendenti dopo lo spostamento al centro per i partner dovranno essere associati al centro per i partner. Tutte le autorizzazioni relative a Partner University per gli utenti esistenti verranno mantenute, ma tutti i nuovi dipendenti dovranno andare al [centro di formazione](https://partner.microsoft.com/training) per avere informazioni su come ottenere l'accesso a Partner University.
 
 ### <a name="how-do-i-view-mcp-information-once-i-move-to-partner-center"></a>In che modo posso visualizzare le informazioni MCP dopo il passaggio al Centro per i partner?
 
@@ -158,7 +159,7 @@ La tua azienda può creare tutti i profili di business necessari per rappresenta
 
 ### <a name="how-will-referrals-be-assigned-what-changes-can-i-expect-for-example-if-i-have-a-global-company-in-one-market-and-locations-in-other-markets-how-will-referrals-be-assigned"></a>Come verranno assegnate le segnalazioni? Quali modifiche sono previste? Ad esempio, se una società globale è presente in un mercato e sono presenti sedi in altri mercati, in che modo verranno assegnate le segnalazioni?
 
-Le segnalazioni vengono assegnate in base ai parametri di ricerca definiti dal cliente. Indipendentemente dal fatto che tu disponga di una o più località/sede, se i clienti specificano una località/sede desiderata e presso quella località/sede hai un'azienda che soddisfa gli altri parametri, la segnalazione viene assegnata a tale località/sede.
+Le segnalazioni vengono assegnate in base ai parametri di ricerca definiti dal cliente. Indipendentemente dal fatto che si disponga o meno di una località, se il cliente specifica una località desiderata ed è presente un'azienda che soddisfa gli altri parametri, il riferimento viene indirizzato a tale località.
 
 ### <a name="i-am-migrating-to-partner-center-from-within-russia-i-get-an-error-message-about-web-direct-how-do-i-continue-with-the-migration"></a>Si esegue la migrazione al Centro per i partner dalla Russia. Viene visualizzato un messaggio di errore relativo a Web Direct. In che modo è possibile continuare la migrazione?
 

@@ -1,7 +1,7 @@
 ---
 title: Usare i file di riconciliazione
 ms.topic: article
-ms.date: 03/10/2021
+ms.date: 03/26/2021
 description: Informazioni sui file di riconciliazione nel centro per i partner e su come interpretare le visualizzazioni dettagliate degli articoli di linea degli addebiti per un determinato ciclo di fatturazione.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022775"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633897"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Informazioni su come leggere le voci nei file di riconciliazione del centro per i partner
 
@@ -55,6 +55,27 @@ Per correggere eventuali problemi di formattazione nei file di riconciliazione, 
 ## <a name="download-reconciliation-files-programmatically"></a>Scarica i file di riconciliazione a livello di codice
 
 I file di riconciliazione possono essere molto grandi e talvolta difficili da scaricare. Per scaricare i file di riconciliazione a livello di codice, vedere [ottenere le voci di riga della fattura](/partner-center/develop/get-invoiceline-items).
+
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Se il file supera il limite di righe in Excel
+
+Se si è in grado di scaricare un file di riconciliazione ma non di aprirlo in Microsoft Excel, significa probabilmente che il file contiene più righe di quelle consentite da Excel. In tal caso, è possibile utilizzare una delle procedure riportate di seguito per aprire il file.
+
+### <a name="open-a-recon-file-in-power-bi"></a>Aprire un file di ricognizione in Power BI
+
+1. Scaricare il file di riconciliazione normalmente.
+2. Scaricare, installare e aprire un'istanza di Power BI.
+3. Nella scheda **Home** Power bi selezionare **recuperare i dati**.
+4. Nell'elenco delle **origini dati comuni** selezionare **testo/CSV**.
+5. Quando richiesto, aprire il file di ricognizione.
+
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Aprire un file di ricognizione in una tabella pivot di Excel
+
+1. Scaricare il file di riconciliazione normalmente.
+2. Aprire un nuovo file in Microsoft Excel.
+3. Nella scheda **dati** selezionare **Ottieni dati**, selezionare **da file**, quindi selezionare **testo/CSV**.
+4. Quando richiesto, aprire il file di ricognizione. Verranno visualizzati i dati.
+5. Nel menu a discesa **carica** selezionare **carica in** e quindi **OK**.
+6. Nella finestra di dialogo **Importa dati** selezionare **rapporto di tabella pivot** per aprire il file.
 
 ## <a name="map-taxes-or-vat"></a>Tasse per la mappa o IVA
 

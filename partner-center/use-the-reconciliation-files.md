@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633897"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730084"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Informazioni su come leggere le voci nei file di riconciliazione del centro per i partner
 
@@ -76,6 +76,15 @@ Se si è in grado di scaricare un file di riconciliazione ma non di aprirlo in M
 4. Quando richiesto, aprire il file di ricognizione. Verranno visualizzati i dati.
 5. Nel menu a discesa **carica** selezionare **carica in** e quindi **OK**.
 6. Nella finestra di dialogo **Importa dati** selezionare **rapporto di tabella pivot** per aprire il file.
+
+## <a name="negative-amount-displayed"></a>Quantità negativa visualizzata
+
+È possibile che venga visualizzato un valore negativo nel file di riconciliazione. Questa situazione è probabilmente causata da una delle operazioni seguenti:
+
+- Il numero di licenze è stato annullato o ridotto di recente
+- Il credito è stato ricevuto per un contratto di licenza con il servizio o per il consumo di Azure
+
+Per ottenere ulteriori informazioni su questa transazione, esaminare l'attributo di tipo addebito nel file di riconciliazione.
 
 ## <a name="map-taxes-or-vat"></a>Tasse per la mappa o IVA
 

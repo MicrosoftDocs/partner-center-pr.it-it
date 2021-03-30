@@ -1,7 +1,7 @@
 ---
 title: Indicatori di contributo partner-CBA
 ms.topic: article
-ms.date: 03/11/2021
+ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su sette indicatori di contributo partner (PCI) che mostrano ai partner come ottenere una competenza Business Applications Cloud Silver o Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193648"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730264"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Usare gli indicatori di contributo dei partner per ottenere la competenza cloud Business Applications
 
@@ -25,6 +25,8 @@ ms.locfileid: "103193648"
 - Amministratore degli account
 
 Questo articolo descrive sette principali indicatori di contributo partner (PCI) usati per valutare lo stato di avanzamento di un partner rispetto al raggiungimento o alla conservazione di una competenza Business Applications Cloud Silver o Gold.
+
+È possibile visualizzare lo stato di avanzamento della PCI nel dashboard dei contributi partner. I dati vengono aggiornati il 20 di ogni mese, con i dati del mese precedente. Ad esempio, i dati di febbraio verranno pubblicati il 20 marzo.
 
 > [!NOTE]
 > Scopri in che modo i partner possono usare un diverso set di metriche degli indicatori per i contributi partner per ottenere la competenza Silver o Gold Small e midmarket Cloud Solutions tramite l'opzione cloud Business Applications SMB. Per altre informazioni, vedere [usare gli indicatori di contributo dei partner per le soluzioni cloud Small e midmarket](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md). È anche possibile [leggere altre](https://partner.microsoft.com/membership/competencies) informazioni sulle competenze e sui rispettivi requisiti.
@@ -109,6 +111,20 @@ La figura seguente offre un riferimento visivo rapido.
 
 Ogni metrica PCI ha soglie impostate da Microsoft in base a cui la tua azienda può guadagnare un punteggio massimo. Queste soglie sono diverse per il coinvolgimento dei clienti e i percorsi finanziari e operativi usati per ottenere la competenza cloud Business Applications. Le soglie variano anche per i partner che operano in mercati sviluppati rispetto ai partner che operano esclusivamente nei mercati di sviluppo. La categorizzazione del mercato **sviluppata** o in fase di **sviluppo** di un paese si basa sulle [definizioni Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
+Si noti che 4 metriche vengono misurate in base alla posizione in cui il partner esegue le attività commerciali e non alla posizione in cui è registrata la località MPN. Ciò significa che un partner registrato in un mercato di sviluppo, che ha clienti di un mercato sviluppato, dovrà soddisfare il Punteggio PCI per i paesi sviluppati.
+
+La tabella seguente mostra il percorso applicato dalla metrica.
+
+| Nome metrica | Location |
+|:-------|:--------|
+| Nuovi ricavi netti | Località del cliente |
+| Aggiunta del cliente netto | Località del cliente |
+| Consulente funzionale | Posizione del partner |
+| Sviluppatore | Posizione del partner |
+| Crescita consulenti funzionali | Posizione del partner |
+| Crescita MAU | Località del cliente |
+| Nuove distribuzioni di grandi dimensioni | Località del cliente |
+
 I punti di ogni metrica vengono conteggiati per produrre un punteggio PCI distinto per il coinvolgimento dei clienti e la finanza e le operazioni. Il Punteggio verrà aggiornato ogni mese.
 
 I partner possono ottenere il punteggio massimo per una determinata metrica se soddisfano o superano le soglie indicate di seguito. I punti parziali possono essere ottenuti per tutte le metriche ad eccezione della crescita del consulente funzionale.
@@ -160,7 +176,7 @@ Un partner diventa il CPOR se ha stabilito l'associazione con un cliente a livel
 Un partner diventa DPOR se ha stabilito l'associazione con un cliente a livello di sottoscrizione nel prodotto.
 
 > [!NOTE]
-> Quando sono presenti sia CPOR che DPOR per una determinata sottoscrizione cliente, il CPOR riceverà il credito per le metriche PCI pertinenti associate a tale sottoscrizione. Se l'associazione è stata tramite OSA, il CPOR riceve il credito per i nuovi ricavi netti e l'aggiunta del cliente netto. Se l'associazione è stata via OSU, il CPOR riceve il credito per le nuove distribuzioni e la crescita mensile degli utenti attivi.
+> Quando sono presenti sia CPOR che DPOR per una determinata sottoscrizione cliente, il CPOR riceverà il credito per le metriche PCI pertinenti associate a tale sottoscrizione. Se l'associazione è stata tramite OSA (Revenue Claim), il CPOR riceve il credito per i nuovi ricavi netti e l'aggiunta del cliente netto. Se l'associazione è stata tramite OSU (Claim Usage), il CPOR riceve il credito per le nuove distribuzioni e la crescita mensile di utenti attivi. Le attestazioni pre-vendite non sono idonee per il PCI.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Definizioni dettagliate della metrica PCI per questa competenza
 
@@ -324,9 +340,10 @@ Le nuove distribuzioni di grandi dimensioni sono un [indicatore di successo del 
   
   Per informazioni dettagliate sui mercati sviluppati e sullo sviluppo, vedere le [definizioni Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
-- Un tenant viene considerato che ha superato la soglia utente attiva mensile se il tenant era: 
+- Un tenant viene considerato che ha superato la soglia utente attiva mensile se il tenant era:
 
-  - Al di sotto della soglia specificata 12 mesi fa *e*
+  - Al di sotto della soglia specificata 12 mesi fa **e**
+
   - Questa soglia è stata superata almeno una volta nei successivi 11 mesi.
 
 - Gli utenti attivi mensili vengono conteggiati a livello di tenant e sono riassunti solo nelle sottoscrizioni a pagamento nel tenant.

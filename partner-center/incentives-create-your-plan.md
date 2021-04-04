@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e3d2ec916a8c8a9d29b5ba82db6542d55bd84e8
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714485"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179259"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Generare un piano di marketing per il programma incentives
 
-**Si applica a:**
-
-- Centro per i partner
-
-**Ruoli appropriati:**
+**Ruoli appropriati**
 
 - Amministratore degli incentivi
 - Amministratore fatturazione
@@ -90,9 +86,9 @@ Il piano è ora stato inviato. Microsoft invierà una notifica all'amministrator
 
 Microsoft corrisponde mensilmente l'importo maturato in base ai guadagni e ai limiti del piano. I pagamenti vengono effettuati il 15° giorno del mese successivo.
 
-Se, ad esempio, il piano è approvato per 10.000 dollari e il guadagno nel mese di aprile è stato di 5.000 dollari, il 15 maggio si riceveranno 5.000 dollari.
+Se, ad esempio, il piano è approvato per $10.000 e $5.000 nel mese di aprile, si riceverà il $5.000 il 15 maggio.
 
-Con lo stesso piano, se si guadagnano 15.000 dollari nel mese di aprile, il 15 maggio si riceveranno 10.000 dollari perché il limite del piano è di 10.000 dollari. Per ricevere un pagamento di importo superiore, è necessario aumentare il limite del piano per il mese successivo.
+Con lo stesso piano, se si guadagnano $15.000 nel mese di aprile, si riceverà $10.000 il 15 maggio perché $10.000 era il limite del piano. Per ricevere un pagamento di importo superiore, è necessario aumentare il limite del piano per il mese successivo.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

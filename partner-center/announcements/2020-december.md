@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/08/2021
-ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/01/2021
+ms.openlocfilehash: 7e6082c645a4c5bcc3e0f766ffe7d82e73d46c15
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712546"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280922"
 ---
 # <a name="december-2020-announcements"></a>Annunci di dicembre 2020
 
@@ -189,15 +189,14 @@ L'annuncio completo è disponibile solo per i partner Microsoft. [Accedere per c
 ______________
 
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Modifiche apportate ai requisiti di onboarding dei clienti Cloud Solution Provider (CSP)
-
 ### <a name="categories"></a>Categorie
 
-- Data: 17-12-2020
+- Data: 2021-04-02
 - Offerte/mercati
- 
+
 ### <a name="summary"></a>Riepilogo
 
-Nell'ambito dell'impegno per sostenere i partner e i clienti nello svolgimento della propria attività in sicurezza, Microsoft richiederà informazioni aggiuntive sui clienti, a partire dalla fine di marzo 2021.
+Nell'ambito del nostro impegno per aiutare i partner e i clienti a svolgere la propria attività in base alla fiducia, Microsoft richiederà ulteriori informazioni sui clienti, a partire dal 25 marzo 2021.
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
@@ -205,11 +204,12 @@ I provider indiretti e i partner con fatturazione diretta CSP con clienti nuovi 
 
 ### <a name="details"></a>Dettagli
 
-Microsoft si impegna a fornire un metodo di convalida dei clienti conforme e sicuro per la vendita di sottoscrizioni cliente nel programma CSP. Alla fine di marzo 2021 verranno introdotti i miglioramenti apportati all'interfaccia utente e all'API del Centro per i partner con impatto sui partner che soddisfano entrambi i criteri seguenti:
+Microsoft si impegna a fornire un metodo di convalida dei clienti conforme e sicuro per la vendita di sottoscrizioni cliente nel programma CSP. Il 25 marzo 2021 verranno introdotti i miglioramenti apportati all'interfaccia utente e alle API del centro per i partner che influiranno sui partner che soddisfano entrambi i criteri seguenti:
 
 1. Il partner ha una relazione di fatturazione diretta con Microsoft (ovvero, è un partner con fatturazione diretta o un provider indiretto).
 
 2. Il partner opera con clienti nuovi o esistenti nei paesi seguenti:
+
     - Thailandia
     - Vietnam
     - Turchia
@@ -224,7 +224,9 @@ Microsoft si impegna a fornire un metodo di convalida dei clienti conforme e sic
     - Emirati Arabi Uniti
     - Venezuela
 
-I partner che soddisfano i criteri dovranno inviare un **identificatore legale** del cliente (noto anche come **INN dell'organizzazione**  del cliente) e il **numero di telefono** al successivo aggiornamento o creazione di una sottoscrizione per quel cliente. I partner possono anche immettere un **secondo nome** facoltativo per il cliente.
+I partner che soddisfano i criteri dovranno inviare l'ID registrazione della società del cliente (noto anche come Locanda dell'organizzazione del cliente) e il numero di telefono al successivo aggiornamento o creazione di una sottoscrizione per quel cliente. I partner possono anche immettere un secondo nome facoltativo per il cliente.
+
+Si noti che quando si aggiunge l'ID registrazione aziendale, è necessario usare l'ID dell'imposta aziendale e non l'ID personale del cliente.
 
 I partner che svolgono attività con clienti nuovi o esistenti nei paesi seguenti hanno già eseguito l'onboarding di una versione precedente a novembre 2020.
 
@@ -240,7 +242,7 @@ I partner che svolgono attività con clienti nuovi o esistenti nei paesi seguent
 - Ucraina
 - Uzbekistan
 
-I partner con clienti nel resto del mondo avranno la possibilità di immettere l'**identificatore legale**, il **numero di telefono** e il **secondo nome** per i clienti come dettagli facoltativi alla fine di marzo 2021.
+I partner con clienti nel resto del mondo avranno la possibilità alla fine del 2021 marzo di immettere l'ID registrazione aziendale, il numero di telefono e il secondo nome per i clienti come dettagli facoltativi.
 
 ### <a name="next-steps"></a>Passaggi successivi
 
@@ -251,9 +253,19 @@ I partner con clienti nel resto del mondo avranno la possibilità di immettere l
 
 ### <a name="questions"></a>Domande?
 
-In caso di domande relative all'identificatore legale (noto anche come INN o codice identificativo del contribuente), contattare il consulente fiscale o l'ufficio fiscale locale. Microsoft non è in grado di fornire indicazioni sulle imposte. 
+Se sono presenti domande correlate all'ID registrazione della società (noto anche come INN o TIN), contattare il consulente fiscale o l'ufficio fiscale locale. Microsoft non è in grado di fornire indicazioni sulle imposte.
 
-Se è necessario supporto per le operazioni con Microsoft, [aprire una richiesta di servizio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Se è necessario supporto per le operazioni con Microsoft, aprire una [richiesta di servizio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+### <a name="change-log"></a>Registro delle modifiche:
+
+17 dicembre 2020: pubblicazione originale
+
+Aggiornamenti del 2 aprile:
+
+- Data di avvio specificata
+- Il titolo per Organization INN è stato aggiornato all'ID registrazione aziendale
+- Nota aggiunta per fornire chiarimenti per l'ID registrazione aziendale
 
 ______________
 

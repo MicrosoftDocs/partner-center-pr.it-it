@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834884"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179514"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Risoluzione dei problemi relativi a pagamenti mancanti, guadagni non corretti e altri problemi
 
-**Si applica a**:
-
-- Centro per i partner
-
-**Ruoli appropriati**:
+**Ruoli appropriati**
 
 - Amministratore degli incentivi
 
@@ -122,7 +118,7 @@ I guadagni vengono visualizzati nella pagina **Cronologia transazioni** e nella 
 
 :::image type="content" source="images/incentives/paymenticon.png" alt-text="Informazioni sulla transazione":::
 
-Gli importi mensili che si ottengono nella visualizzazione della cronologia delle transazioni potrebbero non allinearsi con l'importo di pagamento ricevuto per un mese specifico. Questa condizione è dovuta a ricalcoli e rettifiche per i periodi di guadagno precedenti che vengono applicati ai pagamenti futuri.
+Gli importi mensili che si ottengono nella visualizzazione della cronologia delle transazioni potrebbero non allinearsi con l'importo di pagamento ricevuto per un mese specifico. Ciò è dovuto a ricalcoli e modifiche per i periodi di guadagno precedenti applicati ai pagamenti futuri.
 
 Ad esempio, un adattamento per i guadagni di gennaio 2019 elaborati nel settembre 2019 non verrà riflesso nell'importo dei guadagni per il 2019 settembre; Tuttavia, quando viene ricevuto il pagamento per il 2019 settembre, sarà inclusa la rettifica per il 2019 gennaio che è stata applicata a settembre.
 
@@ -141,11 +137,11 @@ Questa visualizzazione consente di visualizzare i pagamenti per tutti i programm
 | Visualizza le informazioni di pagamento per riga, inclusi i guadagni e gli importi di pagamento nella valuta locale  | Vedere il campo **elenco di pagamenti**   |
 | Scarica una lettera di rimessa   |  Seleziona **rimessa pagamento**  |
 | Visualizza i dettagli a livello di transazione per un pagamento specifico |  Selezione **visualizzazione**  |
-| Esporta dettagli transazione in Excel  |  Selezionare **Avvia download**, quindi fare clic su **Esporta dati**. Si noti che tutti i filtri selezionati verranno applicati ai dati esportati. Una volta che lo stato è stato modificato in completato, selezionare **Scarica** e seguire le istruzioni per esportare il report dettagliato sulle transazioni. Aggiornare la pagina se lo stato non viene aggiornato entro cinque minuti.  |
+| Esporta dettagli transazione in Excel  |  Selezionare **Avvia download**, quindi selezionare **Esporta dati**. Tutti i filtri selezionati verranno applicati ai dati esportati. Una volta che lo stato è stato modificato in completato, selezionare **Scarica** e seguire le istruzioni per esportare il report dettagliato sulle transazioni. Aggiornare la pagina se lo stato non viene aggiornato entro cinque minuti.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Guadagni e pagamenti mancanti o non corretti
 
-Se non si è in grado di individuare i dettagli di un pagamento o di una transazione, verificare se sono stati applicati i filtri corretti. Si noti che poiché alcuni nomi di programma sono stati modificati, ad esempio CSP 1T Direct partner è ora CSP Direct Bill partner, potrebbe essere necessario usare più selezioni.
+Se non si è in grado di individuare i dettagli di un pagamento o di una transazione, verificare se sono stati applicati i filtri corretti. Poiché alcuni nomi di programma sono stati modificati (ad esempio, CSP 1T Direct partner è ora CSP Direct Bill partner), potrebbe essere necessario usare più selezioni.
 
 Se non si riesce ancora a trovare i guadagni o se si ritiene che i guadagni visualizzati non siano corretti, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 

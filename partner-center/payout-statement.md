@@ -1,22 +1,22 @@
 ---
 title: Estratti conto
 description: Informazioni sui riepiloghi e sulle istruzioni per i pagamenti e su come visualizzare ed esportare i dati di pagamento dal Microsoft Partner Center
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549244"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087094"
 ---
 # <a name="payout-statements"></a>Estratti conto
 
-**Ruoli appropriati:**
+**Ruoli appropriati**
 
 - Amministratore degli account
 - Amministratore globale
@@ -73,7 +73,7 @@ Per visualizzare altri dettagli sugli utili, selezionare la freccia rivolta vers
 
 ### <a name="transaction-history-summary"></a>Riepilogo cronologia transazioni
 
-In questo esempio vengono visualizzati i dettagli, tra cui l'origine del guadagno ottenuto dal prodotto che ha venduto le date, lo stato e il mese di pagamento stimato.
+Questa visualizzazione Mostra i dettagli relativi al guadagno, inclusa l'origine del guadagno ottenuto dal prodotto che ha ottenuto le date, lo stato e il mese di pagamento stimato.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Cronologia delle transazioni.":::
 
@@ -220,7 +220,7 @@ Nella tabella seguente sono elencati i codici motivo per le rettifiche e le rela
 | Rollover co-op | Regolazione che trasferisce i guadagni della co-op a un altro periodo oppure converte i guadagni della co-op per lo sconto. |
 | Regolazione Ops | Regolazione che corregge gli errori di calcolo del sistema Microsoft. |
 | Regolazione Ops Microsoft calcolo non corretto | Regolazione che corregge i calcoli errati. |
-| Regolazione Ops Microsoft registrazione non corretta | Regolazione degli errati calcoli relativi alla registrazione. |
+| Regolazione Ops Microsoft registrazione non corretta | Regolazione per i calcoli errati correlati alla registrazione. |
 | Mapping partner (sottoscrizione) MCI/CSP | Regolazione che corregge il errato allineamento della sottoscrizione. |
 | Eccezione dei criteri | Regolazione che sostituisce una regola di programma.  |
 | Guadagni del periodo precedente | Rettifica per i guadagni al di fuori del periodo di guadagno corrente. |

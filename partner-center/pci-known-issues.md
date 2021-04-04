@@ -9,20 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182325"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086873"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Insights-domande frequenti
 
 **Ruoli appropriati**
+
 - Visualizzatore di report
 - Visualizzatore di report esecutivi
 
-Questo si riferisce a eventuali problemi noti relativi alla visualizzazione o al rendering di report associati a informazioni dettagliate.
+Questo articolo illustra i problemi noti per la visualizzazione o il rendering dei report associati a Insights.
 
 D) **non è possibile visualizzare l'hub Insights nell'account del centro per i partner. Cosa devo fare?**
 

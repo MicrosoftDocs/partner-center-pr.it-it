@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444893"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087009"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Report dei vantaggi disponibile dal dashboard di partner Center Insights
 
@@ -22,16 +22,16 @@ ms.locfileid: "87444893"
 
 - Amministratore globale
 - Agente amministratore
-- Visualizzatore report
-- Visualizzatore report Executive
+- Visualizzatore di report
+- Visualizzatore di report esecutivi
 
-Un partner Microsoft può accedere a una serie di vantaggi che usano la tecnologia e le innovazioni più recenti per contribuire a migliorare le competenze del team, migliorare l'efficienza e far crescere il tuo business. I pacchetti di vantaggi includono: allocazioni di software concesso in licenza, servizi cloud, sottoscrizioni di Visual Studio e supporto. Questi pacchetti possono includere anche determinate risorse, offerte e programmi per l'immissione sul mercato. Il report dei vantaggi presenta le tendenze dei vantaggi a cui si accede e il relativo utilizzo durante l'intervallo di date selezionato.
+Un partner Microsoft può accedere a una serie di vantaggi che usano la tecnologia e le innovazioni più recenti per contribuire a migliorare le competenze del team, migliorare l'efficienza e far crescere il tuo business. I pacchetti di vantaggi includono: allocazioni di software concesso in licenza, servizi cloud, sottoscrizioni di Visual Studio e supporto. Questi pacchetti possono includere anche determinate risorse, offerte e programmi per l'immissione sul mercato. Il report dei vantaggi presenta le tendenze dei vantaggi a cui è stato effettuato l'accesso e l'uso durante l'intervallo di date selezionato.
 
 :::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="Panoramica della pagina vantaggi":::
 
 Nel report dei vantaggi è possibile visualizzare i grafici seguenti:
 
-- Summary
+- Riepilogo
 - Servizi cloud concessi
 - Prodotti software
 - Sottoscrizioni di Visual Studio
@@ -39,9 +39,9 @@ Nel report dei vantaggi è possibile visualizzare i grafici seguenti:
 - Vai al mercato
 
  > [!NOTE]
- > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. I tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
+ > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. i tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
 
-## <a name="summary"></a>Summary
+## <a name="summary"></a>Riepilogo
 
 La sezione Riepilogo presenta i vantaggi concessi in termini di software concesso in licenza, servizi cloud (non Azure), sottoscrizioni di Visual Studio, supporto tecnico e alcuni servizi o offerte per il go-to-Market.
 
@@ -66,7 +66,7 @@ Questo grafico presenta la tendenza mensile delle licenze concesse durante l'int
 
 Questo grafico mostra la tendenza mensile delle sottoscrizioni di Visual Studio attivate per le sottoscrizioni che sono state allocate durante l'intervallo di date selezionato.
 
-Selezionare una scheda nella parte superiore del grafico per visualizzare la tendenza di una sottoscrizione specifica di Visual Studio che si concede come vantaggio. Le colonne nel grafico rappresentano le licenze utilizzate per la sottoscrizione. Il grafico a linee rappresenta le licenze complessive assegnate per la sottoscrizione.
+Selezionare una scheda nella parte superiore del grafico per visualizzare la tendenza di una specifica sottoscrizione di Visual Studio a cui si è autorizzati come vantaggi. Le colonne nel grafico rappresentano le licenze utilizzate per la sottoscrizione. Il grafico a linee rappresenta le licenze complessive assegnate per la sottoscrizione.
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Sottoscrizioni di Visual Studio":::
 

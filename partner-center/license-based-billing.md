@@ -2,27 +2,26 @@
 title: Fatturazione in base alle licenze
 description: Scopri in che modo la fatturazione basata sulle licenze è diversa dalla fatturazione basata sull'utilizzo nel centro per i partner, incluso il modo in cui vengono fatturate le licenze (non in base all'utilizzo delle licenze).
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 1fd6d9e4a9115757382e79f884a14d23e4545419
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367485"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179412"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Fatturazione basata su licenza nel centro per i partner
 
-**Si applica a**
+**Ruoli appropriati**
 
-- Centro per i partner
-- Partner aderenti al programma CSP
-
-**Ruoli appropriati** : amministratore globale
-- Amministratore utenti
+- Amministratore globale
+- Amministratore gestione utenti
 - Amministratore fatturazione
 - Agente amministratore
 
@@ -34,7 +33,7 @@ Quando si acquistano prodotti o Servizi online nel centro per i partner che rich
 
 ## <a name="billing-date-for-licenses"></a>Data di fatturazione per le licenze
 
-Le sottoscrizioni basate su licenza vengono fatturate in anticipo nella **Data di anniversario**della sottoscrizione. La data di anniversario è il giorno del mese in cui è stata acquistata la sottoscrizione.
+Le sottoscrizioni basate su licenza vengono fatturate in anticipo nella **Data di anniversario** della sottoscrizione. La data di anniversario è il giorno del mese in cui è stata acquistata la sottoscrizione.
 
 Ad esempio:
 
@@ -51,7 +50,7 @@ Tutte le sottoscrizioni basate su licenza hanno un termine a pagamento di 12 mes
 
 Se si sospende una sottoscrizione nel mese 1, si verrà accreditati al 100%.
 
-Se si sospende una sottoscrizione nei mesi 2-12, l'utente verrà accreditato in base a una riclassificazione.
+Se l'utente sospende una sottoscrizione nei mesi 2-12, l'accredito avverrà in modo proporzionale.
 
 ## <a name="license-renewal"></a>Rinnovo della licenza
 

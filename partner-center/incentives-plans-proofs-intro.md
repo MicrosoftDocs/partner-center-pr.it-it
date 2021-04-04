@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714395"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179174"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Usare queste risorse per facilitare la creazione di piani di incentivi e di prove di esecuzione
-
-**Si applica a**
-
-- Centro per i partner
-- Partner nel Microsoft Partner Network (MPN)
 
 **Ruoli appropriati**
 
@@ -40,7 +35,7 @@ Un piano di attestazioni co-op per gli incentivi descrive le campagne di marketi
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Che cos'è una prova di esecuzione (PoE)?
 
-Una volta pagato il lavoro per gli incentivi, è necessario inviare un certificato di prova di esecuzione (PoE) dettagliato a Microsoft. Il PoE può includere informazioni dettagliate su qualsiasi campagna correlata, la data in cui si è verificata un'attività di incentivi, la quantità richiesta e così via. 
+Una volta pagato il lavoro per gli incentivi, è necessario inviare un certificato di prova di esecuzione (PoE) dettagliato a Microsoft. Il PoE può includere informazioni dettagliate su qualsiasi campagna correlata, la data in cui si è verificata un'attività di incentivi e la quantità richiesta. 
 
 Altre informazioni sulla [preparazione delle prove di esecuzione](incentives-prepare-your-proof-of-execution.md).
 

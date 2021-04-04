@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220300"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086907"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Report licenze del prodotto nel dashboard di partner Center Insights
 
 **Ruoli appropriati**
+
 - Amministratore globale
 - Agente amministratore
-- Visualizzatore report
-- Visualizzatore report Executive
+- Visualizzatore di report
+- Visualizzatore di report esecutivi
 
-Il report licenze prodotto presenta l'analisi delle licenze per i prodotti cloud basati su licenze, ad esempio O365, Dynamics, M365, Power BI e così via. Le analisi presentate in questo articolo sono associate all'utilizzo delle licenze vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report licenze prodotto.
+Il report licenze prodotto presenta l'analisi delle licenze per i prodotti cloud basati su licenze, ad esempio Office 365, Dynamics, Microsoft 365, Power BI e altri. Le analisi presentate in questo articolo sono associate all'utilizzo delle licenze vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report licenze prodotto.
 
 - Riepilogo
 - Distribuzione geografica delle licenze
@@ -40,10 +41,10 @@ La sezione Summary (riepilogo) fornisce una visualizzazione snapshot degli indic
 
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Riepilogo report licenze":::
 
-Per ulteriori informazioni su ogni sezione del riepilogo, vedere di seguito.
+Per ulteriori informazioni su ogni sezione del riepilogo, vedere di seguito:
 
 - Licenses: 
-  - Numero corrente di tutte le licenze vendute o gestite dall'utente per prodotti cloud basati su licenze, ad esempio O365, Dynamics, M365, Power BI e così via.
+  - Numero corrente di tutte le licenze vendute o gestite dall'utente per prodotti cloud basati su licenze, ad esempio Office 365, Dynamics, Microsoft 365, Power BI e altri.
   - Percentuale di aumento o diminuzione delle licenze per l'intervallo di date selezionato.
   - Grafico delle tendenze di licenza: il grafico micro presenta la tendenza mensile dei conteggi delle licenze durante l'intervallo di date selezionato
 

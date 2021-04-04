@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133151"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179157"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Gestisci attestazioni co-op degli incentivi
 
-**Si applica a:**
-
-- Centro per i partner
-
-**Ruoli appropriati:**
+**Ruoli appropriati**
 
 - Amministratore degli incentivi
 
@@ -65,13 +61,13 @@ Se il materiale fornito con l'attestazione di co-op viene ritenuto insufficiente
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
 
-2. In **incentivi** selezionare **Gestione co-op** .
+2. In **incentivi** selezionare **Gestione co-op**.
 
 3. Selezionare l'attestazione co-op che si vuole contestare. Si apre la pagina di attestazione co-op.
 
-4. Nella parte inferiore della pagina selezionare **Contesta** .
+4. Nella parte inferiore della pagina selezionare **Contesta**.
 
-Il team di convalida delle attestazioni co-op esaminerà l’attestazione entro cinque giorni lavorativi. Durante questo periodo, lo stato verrà visualizzato come **Contestata** . L’utente potrebbe essere contattato per richiedere altre informazioni. Al termine della revisione, il team di convalida aggiornerà lo stato in **Approvata** , **Rifiutata** o **Richiesta azione del partner** .
+Il team di convalida delle attestazioni co-op esaminerà l’attestazione entro cinque giorni lavorativi. Durante questo periodo, lo stato verrà visualizzato come **Contestata**. L’utente potrebbe essere contattato per richiedere altre informazioni. Al termine della revisione, il team di convalida aggiornerà lo stato in **Approvata**, **Rifiutata** o **Richiesta azione del partner**.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

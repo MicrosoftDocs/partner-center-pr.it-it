@@ -8,22 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 22233b8dd41776b34bb4ec1d202f6e84a6ded3fc
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626015"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179139"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Registrazione e gestione degli utenti nel programma incentives
 
-**Si applica a:**
+**Ruoli appropriati**
 
-- Centro per i partner
-
-**Ruoli appropriati:**
-
-- Amministratore incentivo
+- Amministratore degli incentivi
 
 >[!NOTE]
 >Prima di poter eseguire la registrazione al programma incentives, è necessario aver completato il centro di appartenenza dei partner alla [migrazione](prepare-pmc-pc-migration.md)del centro per i partner.
@@ -47,7 +43,7 @@ Una volta che l'organizzazione è idonea per gli incentivi, Microsoft invierà g
 
 Una volta che l'organizzazione è idonea per gli incentivi, Microsoft invierà un invito all'amministratore di incentivi della MPNLocationID idonea per iniziare il processo di registrazione. Questo messaggio di posta elettronica verrà inviato dal centro per i **partner Microsoft** e avrà l'invito per la **registrazione incentive per partner**. Aprire l'invito **e selezionare inizia**.
 
-Verrà inoltre visualizzato un invito nel centro per i partner home page. Dopo aver selezionato il messaggio, non sarà più possibile visualizzarlo nuovamente. Tuttavia, l'amministratore di incentivi può comunque completare il processo effettuando l'accesso al [Dashboard del centro](https://partner.microsoft.com/dashboard/) per i partner e selezionando **Panoramica** in **incentivi** sul NAV sinistro. Selezionare **registra** , quindi completare i pagamenti e i profili fiscali per il programma.
+Verrà inoltre visualizzato un invito nel centro per i partner home page. Dopo aver selezionato il messaggio, non sarà più possibile visualizzarlo nuovamente. Tuttavia, l'amministratore di incentivi può comunque completare il processo effettuando l'accesso al [Dashboard del centro](https://partner.microsoft.com/dashboard/) per i partner e selezionando **Panoramica** in **incentivi** sul NAV sinistro. Selezionare **registra**, quindi completare i pagamenti e i profili fiscali per il programma.
 
 Una registrazione viene considerata completa solo quando i pagamenti e i profili fiscali forniti per la registrazione vengono convalidati da Microsoft.
 

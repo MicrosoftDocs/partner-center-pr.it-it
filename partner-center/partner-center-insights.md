@@ -9,16 +9,17 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2b1a09253b7a9e9c8863f07b729ad116689a4642
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490629"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086584"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: dashboard che Mostra come opera un partner commerciale Microsoft
 
 **Ruoli appropriati**
+
 - Amministratore globale
 - Amministratore degli account
 - Visualizzatore di report esecutivi
@@ -26,7 +27,7 @@ ms.locfileid: "89490629"
 
 ## <a name="introduction"></a>Introduzione
 
-Insights è un dashboard per la creazione di report unificato nel centro per i partner commerciali Microsoft iscritti al programma Microsoft Partner Network (MPN). Il dashboard Insights offre una visualizzazione a 360 gradi degli indicatori di prestazioni chiave (KPI) tra i prodotti cloud, ad esempio i modelli Office, Azure, Dynamics e licensing come CSP ed EA. Espone un set completo di report KPI che consentono di prendere decisioni basate sui dati per l'organizzazione. 
+Il dashboard Insights è un dashboard per la creazione di report unificato nel centro per i partner commerciali Microsoft iscritti al programma Microsoft Partner Network (MPN). Il dashboard Insights offre una visualizzazione a 360 gradi degli indicatori di prestazioni chiave (KPI) tra i prodotti cloud, ad esempio i modelli Office, Azure, Dynamics e licensing come CSP ed EA. Espone un set completo di report KPI che consentono di prendere decisioni basate sui dati per l'organizzazione. 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Controllo degli accessi in base al ruolo per il dashboard Insights
 
@@ -57,7 +58,7 @@ I report seguenti sono disponibili come parte del dashboard di Insights.
 
 ## <a name="navigating-the-insights-reports"></a>Esplorazione dei report di Insights
 
-**Filtri**per l'intervallo di date: è possibile trovare una selezione dell'intervallo di date nell'angolo superiore destro di ogni pagina. È possibile personalizzare l'output dei grafici della pagina Panoramica selezionando un intervallo di date basato sugli ultimi 3, 6 o 12 mesi oppure selezionando un intervallo di date personalizzato. La selezione dell'intervallo di date predefinito è di 12 mesi. 
+**Filtri** per l'intervallo di date: è possibile trovare una selezione dell'intervallo di date nell'angolo superiore destro di ogni pagina. È possibile personalizzare l'output dei grafici della pagina Panoramica selezionando un intervallo di date basato sugli ultimi 3, 6 o 12 mesi oppure selezionando un intervallo di date personalizzato. La selezione dell'intervallo di date predefinito è di 12 mesi. 
 
 :::image type="content" source="images/pci/intro1.png" alt-text="Mappa introduttiva":::
 
@@ -78,7 +79,7 @@ I report seguenti sono disponibili come parte del dashboard di Insights.
 
 - Prodotti: elenco di tutti i prodotti Microsoft Cloud venduti/gestiti dall'organizzazione, ad esempio O365, Azure, d365, EMS, Power BI e così via.
 - Mercati dei clienti: elenco di paesi del cliente
-- Attribuzioni partner: tipo di associazione con le sottoscrizioni dei clienti, ad esempio Digital Partner of record (DPOR), Privileged admin Privilege (DAP), partner admin link (PAL) e così via. 
+- Attribuzioni partner: tipo di associazione con le sottoscrizioni dei clienti, ad esempio Digital Partner of record (DPOR), Privileged admin Privilege (DAP) e partner admin link (PAL). 
 - Località partner: elenco di tutte le località MPN dell'organizzazione.
 - Canali di vendita: tutti i canali di vendita/prezzi tramite cui si acquistano/provisioning di prodotti e servizi, ovvero CSP, EA, CSP indirect, Direct, Advisor, Open, others
 - Segmenti dei clienti: elenco di segmenti di clienti attraverso la base dei clienti partner.

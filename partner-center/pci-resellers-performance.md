@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94cf24309486628d92878e0d8d5038b45c7b85df
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 7d2331cfb1b0edf25815de0070b5668d0b91df6f
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280548"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086890"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Dashboard delle prestazioni del rivenditore in Partner Center Insights
 
@@ -22,14 +22,14 @@ ms.locfileid: "89280548"
 
 - Amministratore globale
 - Agente amministratore
-- Visualizzatore report
-- Visualizzatore report Executive
+- Visualizzatore di report
+- Visualizzatore di report esecutivi
 
 Il Dashboard delle prestazioni del rivenditore in Partner Center Insights offre una panoramica delle prestazioni dei diversi rivenditori indiretti di un provider CSP indiretto. Il dashboard fornisce i dati sui rivenditori attivi, sulla quantità di ricavi generati e sui prodotti che guidano i ricavi. I provider indiretti saranno in grado di cercare un rivenditore specifico per nome e di cercare i dettagli del rivenditore nel dashboard delle prestazioni del rivenditore.
 
 È possibile visualizzare le sezioni seguenti dal dashboard prestazioni rivenditore.
 
-- Summary
+- Riepilogo
 - Distribuzione geografica dei rivenditori
 - Aggiunta/varianza rivenditori 
 - Tendenza ricavi rivenditori 
@@ -42,7 +42,7 @@ Il Dashboard delle prestazioni del rivenditore in Partner Center Insights offre 
  > [!NOTE]
  > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. i tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
 
-## <a name="summary"></a>Summary
+## <a name="summary"></a>Riepilogo
 
 La sezione Riepilogo presenta una visualizzazione snapshot degli indicatori di prestazioni chiave (KPI) correlati al provider indiretto CSP.
 
@@ -68,7 +68,7 @@ Il grafico micro presenta la tendenza mensile dei ricavi durante l'intervallo di
 
 ## <a name="geographical-spread-of-resellers"></a>Distribuzione geografica dei rivenditori
 
-La visualizzazione * * rivenditori per geografia fornisce la distribuzione geografica dei rivenditori. Grazie a questo widget, i partner possono visualizzare i **rivenditori**totali, i **nuovi rivenditori**e i **ricavi fatturati (USD)**, divisi da diverse aree geografiche.
+La visualizzazione * * rivenditori per geografia fornisce la distribuzione geografica dei rivenditori. Grazie a questo widget, i partner possono visualizzare i **rivenditori** totali, i **nuovi rivenditori** e i **ricavi fatturati (USD)**, divisi da diverse aree geografiche.
 
 È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione della mappa. Premere l'opzione **Home** sulla mappa per ripristinare la visualizzazione originale. Passare il puntatore del mouse sulla mappa per visualizzare i **ricavi fatturati (USD)** in base al paese. Il campo fatturato ricavi (USD) nella griglia è ordinabile.
 
@@ -76,7 +76,7 @@ La visualizzazione * * rivenditori per geografia fornisce la distribuzione geogr
 
 ## <a name="resellers-addchurns"></a>Aggiunta/varianza rivenditori
 
-Questa visualizzazione fornisce una suddivisione del mese sul mese del numero di **nuovi** **rivenditori, rivenditori**rilasciati e **rivenditori esistenti**. 
+Questa visualizzazione fornisce una suddivisione del mese sul mese del numero di **nuovi** **rivenditori, rivenditori** rilasciati e **rivenditori esistenti**. 
 
 - Nuovi rivenditori: numero di rivenditori che sono stati appena registrati con il provider indiretto durante l'intervallo di date selezionato.
 - Rivenditori con varianza: numero di rivenditori che non hanno eseguito una transazione negli ultimi sei mesi, escluso il mese corrente.
@@ -92,7 +92,7 @@ Questa visualizzazione fornisce una tendenza mensile della suddivisione dei rica
 
 ## <a name="reseller-performance-by-products"></a>Prestazioni rivenditore per prodotto
 
-Questa visualizzazione fornisce una suddivisione delle metriche chiave, ad esempio fatturato, conteggio delle sottoscrizioni e conteggio delle licenze per vari prodotti in un mese su base mensile. Il grafico a torta a destra indica la suddivisione complessiva di tali metriche in base a vari prodotti, in modo che il partner ottenga una rapida panoramica del disfacimento dei vari prodotti venduti dal rivenditore.
+Questa visualizzazione fornisce una suddivisione delle metriche chiave, ad esempio fatturato, conteggio delle sottoscrizioni e conteggio delle licenze per vari prodotti in un mese su base mensile. Il grafico a torta a destra indica la suddivisione complessiva delle metriche in base a vari prodotti, in modo che il partner ottenga una rapida visione della rottura da parte dei vari prodotti venduti dal rivenditore.
 
 :::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Prestazioni rivenditore per prodotto":::
 

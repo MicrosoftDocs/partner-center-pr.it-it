@@ -9,24 +9,24 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624001"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087128"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Come viene calcolato e pagato il credito ottenuto dai partner
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 - Agente amministratore
 - Amministratore fatturazione
 - Agente di vendita
 
-Il credito ottenuto dai partner per i servizi gestiti (PEC) riconosce e premia i partner a cui sono affidati il controllo e la gestione operativi IT 24 ore su 24, 7 giorni su 7, dell'ambiente Azure intero o parziale dei clienti. Per impostazione predefinita, in CSP ai partner vengono concessi i necessari diritti di accesso alla sottoscrizione del cliente, in modo che possano eseguire 24 ore su 24, 7 giorni su 7 la gestione e il controllo operativi delle risorse della sottoscrizione. Nella sezione seguente vengono descritti altri modi in cui il cliente può effettuare il provisioning dell'accesso per il partner di transazione. L'importo delle fatture mensili è al netto del credito ottenuto dai partner. I partner possono esaminare nel file di riconciliazione mensile i dettagli del credito ottenuto. Per gli altri modi in cui il cliente può effettuare il provisioning dell'accesso per il partner di transazione, leggi [Gestire sottoscrizioni e risorse nel piano di Azure](azure-plan-manage.md).
+Il credito ottenuto dai partner per i servizi gestiti (PEC) riconosce e premia i partner a cui sono affidati il controllo e la gestione operativi IT 24 ore su 24, 7 giorni su 7, dell'ambiente Azure intero o parziale dei clienti. Per impostazione predefinita, in CSP ai partner vengono concessi i necessari diritti di accesso alla sottoscrizione del cliente, in modo che possano eseguire 24 ore su 24, 7 giorni su 7 la gestione e il controllo operativi delle risorse della sottoscrizione. Altri modi in cui i clienti possono eseguire il provisioning dell'accesso per i partner di transazione sono descritti nella sezione seguente. L'importo della fattura mensile è la rete del credito guadagnato dal partner. I partner possono esaminare nel file di riconciliazione mensile i dettagli del credito ottenuto. Per gli altri modi in cui il cliente può effettuare il provisioning dell'accesso per il partner di transazione, leggi [Gestire sottoscrizioni e risorse nel piano di Azure](azure-plan-manage.md).
 
 Leggi anche [Ripristinare i privilegi di amministratore per le sottoscrizioni di Azure CSP](revoke-reinstate-csp.md).
 
@@ -66,7 +66,7 @@ Gestione costi di Azure (ACM) con Analisi dei costi consente a ogni partner di v
 
    Nella visualizzazione Analisi dei costi verranno visualizzati i costi per l'account di fatturazione relativi a tutti i servizi acquistati e utilizzati ai prezzi pagati a Microsoft.
 
-4. Seleziona **PartnerEarnedCreditApplied** nell'elenco a discesa di un grafico pivot per visualizzare i costi a cui è applicato il credito ottenuto dai partner. Quando la proprietà **PartnerEarnedCreditApplied** è True, il costo associato ha il vantaggio di credito ottenuto dai partner. 
+4. Selezionare **PartnerEarnedCreditApplied** nell'elenco a discesa in un grafico pivot per visualizzare i costi con PEC applicato. Quando la proprietà **PartnerEarnedCreditApplied** è True, il costo associato ha il vantaggio di credito ottenuto dai partner. 
 
    Quando la proprietà PartnerEarnedCreditApplied è False, il costo associato non soddisfa il criterio di idoneità del credito o il servizio acquistato non è idoneo al credito ottenuto dai partner.
 
@@ -79,10 +79,10 @@ Gestione costi di Azure (ACM) con Analisi dei costi consente a ogni partner di v
 
 - [Credito ottenuto dai partner - Panoramica](partner-earned-credit.md)
 
-- Esempi dettagliati di calcoli di credito ottenuto dai partner sono disponibili nel listino prezzi accessibile tramite il dashboard del Centro per i partner (informazioni di accesso obbligatorie).
+- Esempi dettagliati di calcoli di credito ottenuti dal partner si trovano nell'elenco prezzi che è possibile raggiungere tramite il dashboard del centro per i partner (accesso richiesto).
 
 - [Passare al piano di Azure - Introduzione](azure-plan-get-started.md)
 
 - [Gestire sottoscrizioni e risorse nel piano di Azure](azure-plan-manage.md)
 
-- [Revocare o ripristinare i privilegi di amministratore per le sottoscrizioni di Azure CSP](revoke-reinstate-csp.md)
+- [Revocare o reintegrare i privilegi di amministratore per le sottoscrizioni di Azure CSP](revoke-reinstate-csp.md)

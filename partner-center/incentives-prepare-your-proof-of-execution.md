@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714385"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179446"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Creazione e invio di documenti per la prova di esecuzione di incentivi (PoE)
 
-**Si applica a:**
-
-- Centro per i partner
-
-**Ruoli appropriati:**
+**Ruoli appropriati**
 
 - Amministratore degli incentivi
 
@@ -39,7 +35,7 @@ Prima di essere pagati per il lavoro degli incentivi, è necessario inviare una 
 
 5. Nella colonna **prova di esecuzione** selezionare **Aggiungi PoE**.
 
-6. Nella **pagina nuova prova di esecuzione**immettere i campi necessari.
+6. Nella **pagina nuova prova di esecuzione** immettere i campi necessari.
 
    - **Nome**  Nome descrittivo per l'attestazione co-op.
    - **Data di scadenza**  Data di esecuzione. Questa data deve essere compresa tra la data di inizio della campagna e la data di fine della campagna.
@@ -81,6 +77,6 @@ Prima di essere pagati per il lavoro degli incentivi, è necessario inviare una 
    - Approved
    - Rifiutato
 
-## <a name="next-steps"></a>Passaggi successivi:
+## <a name="next-steps"></a>Passaggi successivi
 
 - [Introduzione agli incentivi](incentives-get-started-intro.md)

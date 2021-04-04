@@ -8,19 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756715"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179497"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Domande frequenti sugli incentivi
 
-**Ruoli appropriati:**
+**Ruoli appropriati**
 
 - Amministratore degli incentivi
-
 - Utente di incentivi
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>È necessario essere l'amministratore globale per iscriversi a incentivi?
@@ -55,7 +54,7 @@ Per ulteriori informazioni, vedere la pagina relativa alla [ricerca del ruolo](f
 
 ## <a name="i-cant-access-incentives-using-my-credentials"></a>Non è possibile accedere agli incentivi usando le credenziali personali.
 
-Il motivo probabile per cui non è possibile visualizzare gli incentivi è che non si hanno le autorizzazioni corrette. Usare la procedura seguente per risolvere il problema.
+Il motivo probabile per cui non è possibile visualizzare gli incentivi è che non si hanno le autorizzazioni corrette. Utilizzare la procedura seguente per risolvere il problema.
 
 1. Accedere al [Dashboard del centro](https://partner.microsoft.com/dashboard/) per i partner con le credenziali del tenant di Azure ad (credenziali aziendali). Se non si riesce ad accedere, contattare l'amministratore globale della società.
 
@@ -71,7 +70,7 @@ Se è stato ricevuto un invito da o è stato registrato in un programma incentiv
 
 Se è necessario modificare il ruolo o le autorizzazioni, contattare l'amministratore globale o dell'account aziendale. Per informazioni sugli utenti, vedere l'articolo su come [trovare l'amministratore globale](./find-your-role.md#find-your-global-admin).
 
-Si noti che nella pagina Panoramica verranno visualizzate solo le registrazioni associate all'account globale del partner (PGA) associato al tenant Azure AD. Se la società ha più di un PGA, sarà necessario disporre di credenziali diverse per ciascuna di esse.
+Nella pagina Panoramica verranno visualizzate solo le registrazioni associate all'account globale del partner (PGA) associato al tenant Azure AD. Se la società ha più di un PGA, sarà necessario disporre di credenziali diverse per ciascuna di esse.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Chi devo contattare se ricevo un messaggio di errore o ti serve assistenza durante il processo di registrazione?
 

@@ -8,20 +8,21 @@ description: Scopri cosa stai facendo e dove puoi migliorare l'uso delle sottosc
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 345e721ebec5396a0681ec2f357b8778169c0887
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146683"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086720"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo dei team disponibile nel dashboard di partner Center Insights
 
 **Ruoli appropriati**
+
 - Amministratore globale
 - Agente amministratore
-- Visualizzatore report
-- Visualizzatore report Executive
+- Visualizzatore di report
+- Visualizzatore di report esecutivi
 
 Il report sull'utilizzo dei team presenta le metriche relative ai carichi di lavoro dei team venduti o gestiti per i clienti. È possibile visualizzare le sezioni seguenti dal report sull'utilizzo dei team.
 
@@ -51,19 +52,19 @@ La sezione Riepilogo presenta una visualizzazione snapshot degli indicatori chia
 
 ## <a name="conversations-trend"></a>Tendenza conversazioni
 
-La tendenza delle conversazioni illustra la tendenza mensile di riunioni, chiamate e sistemi telefonici dei team, oltre alla durata media delle riunioni in pochi minuti.
+Il rapporto tendenza conversazioni Mostra la tendenza mensile di riunioni, chiamate e sistemi telefonici dei team, oltre alla durata media della riunione in minuti.
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="tendenze della conversazione di utilizzo del team":::
 
 ## <a name="teams-usage-by-workloads"></a>Utilizzo dei team da carichi di lavoro
 
-L'utilizzo dei team da parte dei carichi di lavoro illustra la suddivisione mensile di utenti desktop, mobili e Web di team divisi da carichi di lavoro.
+Il report utilizzo team per carichi di lavoro Mostra la suddivisione mensile di utenti desktop, mobili e Web dei team divisi da carichi di lavoro.
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Utilizzo dei team da carichi di lavoro":::
 
 ## <a name="top-customers-by-usage"></a>Clienti principali per utilizzo
 
-I clienti principali in base all'utilizzo illustrano l'utilizzo dei clienti principali in termini di riunioni, chiamate e sistemi telefonici dei team e app di terze parti.
+Il report Top Customers by Usage Mostra l'utilizzo dei clienti principali per riunioni, chiamate e sistemi telefonici dei team e app di terze parti.
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Clienti principali per utilizzo":::
 

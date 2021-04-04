@@ -8,20 +8,21 @@ description: Scopri cosa stai facendo e dove puoi migliorare l'uso delle sottosc
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d8755cadf7b572972c5abe1483ff6f0be98a1eb8
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146691"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086924"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Dynamics disponibile dal dashboard di partner Center Insights
 
 **Ruoli appropriati**
+
 - Amministratore globale
 - Agente amministratore
-- Visualizzatore report
-- Visualizzatore report Executive
+- Visualizzatore di report
+- Visualizzatore di report esecutivi
 
 Il report utilizzo di Dynamics fornisce i dati di utilizzo per le sottoscrizioni Dynamics 365 vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report utilizzo Dynamics.
 

@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714435"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179480"
 ---
 # <a name="manage-incentives-customer-associations"></a>Gestisci associazioni dei clienti incentive
 
-**Si applica a:**
-
-- Centro per i partner
-
-**Ruoli appropriati:**
+**Ruoli appropriati**
 
 - Amministratore fatturazione
 - Amministratore globale
@@ -87,7 +83,7 @@ Se sono trascorsi 30 giorni e si vuole comunque disputare un'attestazione rifiut
 
 Esistono tre motivi principali per cui un'attestazione di associazione CPOR viene rifiutata.
 
-**Richiesta partner:** I partner possono richiedere che l'associazione sia stata rifiutata. Questa logica viene usata principalmente quando il partner ha creato un'attestazione di associazione CPOR per errore usando un MPN errato, scelto un'attività non corretta (ad esempio... È stata scelta l'associazione di ricavi anziché le vendite preliminari oppure non è più possibile utilizzare il cliente.
+**Richiesta partner:** I partner possono richiedere che l'associazione sia stata rifiutata. Questa logica viene usata principalmente quando il partner ha creato un'attestazione di associazione CPOR per errore usando un MPN errato, ha scelto un'attività non corretta (ad esempio, è stata scelta l'associazione di ricavi anziché le vendite preliminari) o non funziona più con il cliente.
 
 **Rifiuto del cliente:** Una volta che l'attestazione di associazione CPOR è stata eseguita correttamente, il processo di approvazione di PoE è stato modificato in approved, mentre al cliente viene offerta la possibilità di negare il consenso dell'associazione. Se il cliente nega il consenso, l'associazione verrà rifiutata.
 

@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 41ea71b2461c8497b90acc0f265c4f946faa55b7
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714558"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179106"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>I 10 elementi di base per l'uso di incentivi
-
-**Si applica a**
-
-- Centro per i partner
-- Partner nel Microsoft Partner Network (MPN)
 
 **Ruoli appropriati**
 

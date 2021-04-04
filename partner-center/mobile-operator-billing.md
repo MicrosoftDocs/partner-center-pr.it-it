@@ -1,19 +1,19 @@
 ---
 title: Fatturazione per operatore mobile-Microsoft Store
 description: Il Microsoft Store offre la fatturazione dell'operatore mobile come metodo di pagamento per gli operatori mobili che supportano questa funzionalità.
-ms.date: 05/29/2020
+ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: Windows 10, UWP, operatori mobili, fatturazione mobile, fatturazione operatore mobile
 ms.localizationpriority: medium
-ms.openlocfilehash: 010451506df0d6115a8e1b4781e6fb40ab8853bb
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335692"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178817"
 ---
 # <a name="mobile-operator-billing"></a>Fatturazione operatore
 
@@ -35,17 +35,19 @@ Gli operatori mobili seguenti attualmente supportano la fatturazione degli opera
 | Austria              | A1 Telekom, Hutchison 3G Austria, T-Mobile/tele. Ring  |
 | Belgio              | Base, prossimità                                          |
 | Canada               | Telus                                                   |
-| Cechia              | T-Mobile                                                |
+| Cechia              | T-Mobile, Vodafone, O2                                  |
 | Danimarca              | 3, TDC/YouSee, Telenor, Telia                         |
 | Finlandia              | DNA, Elisa                                              |
 | Francia               | Orange                                                  |
 | Germania              | O2, Telekom Deutschland, Vodafone                       |
 | Ungheria              | Telenor                                                 |
-| Italia                | Tre, vento                                               |
+| Italia                | Tre, vento, Vodafone                                     |
+| Corea del Sud                | Telecomunicazioni SK                                              |
 | Malaysia             | Digi                                                    |
-| Paesi Bassi          | KPN/Telfort                                           |
+| Paesi Bassi          | KPN/Telfort, Vodafone                                 |
 | Norvegia               | Telenor/Mimmo, Telia/OneCall                     |
-| Polonia               | Arancione, riproduzione                                            |
+| Polonia               | Arancione, riproduzione, T-Mobile                                  |
+| Arabia Saudita         | STC                                                     |
 | Singapore            | M1 Limited, StarHub                                     |
 | Slovacchia             | Telekom slovacco                                          |
 | Sudafrica         | Vodacom                                                 |

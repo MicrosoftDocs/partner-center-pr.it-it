@@ -9,19 +9,20 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712903"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133030"
 ---
 # <a name="technical-support-benefits"></a>Vantaggi del supporto tecnico
 
 **Ruoli appropriati**
--   Amministratore globale 
--   Amministratore dei partner MPN 
--   Agente amministratore 
+
+- Amministratore globale
+- Amministratore dei partner MPN
+- Agente amministratore
 
 ## <a name="overview"></a>Panoramica
 
@@ -38,11 +39,11 @@ Per visualizzare e attivare i vantaggi tecnici nel centro per i partner:
 2. Espandere vantaggi nel menu di spostamento a sinistra e selezionare **vantaggi tecnici**. La pagina relativa ai vantaggi tecnici viene visualizzata con un elenco di vantaggi del supporto tecnico disponibili per le offerte di appartenenza ad oro, argento o Microsoft Action Pack. 
 
     > [!NOTE]
-    >Se non si dispone di offerte di appartenenza attive, viene visualizzato il messaggio "non sono ancora presenti vantaggi". Se la società dispone di un abbonamento attivo, ma non è possibile visualizzarli, è possibile che sia stato eseguito l'accesso con l'account errato. Per verificare l'account, fare clic sull'icona dell' **account** nella parte superiore destra della pagina e fare clic su **Accedi con un altro account** , se necessario.
+    >Se non si dispone di offerte di appartenenza attive, viene visualizzato il messaggio "non sono ancora presenti vantaggi". Se la società dispone di un abbonamento attivo, ma non è possibile visualizzarli, è possibile che sia stato eseguito l'accesso con l'account errato. Per verificare l'account, selezionare l'icona dell' **account** in alto a destra nella pagina e selezionare **Accedi con un altro account** , se necessario.
 
 3. Per iniziare a usare il supporto tecnico Microsoft o il supporto tecnico di firma, è necessario attivare il vantaggio. ID di accesso e ID contratto verranno visualizzati dopo l'attivazione riuscita. 
 
-    -   Per attivare il vantaggio, fare clic sul pulsante attiva. Per l'account utente usato per l'attivazione sono necessari i ruoli di amministratore globale o MPN partner. Attendere alcuni giorni per consentire l'elaborazione della richiesta di attivazione. 
+    -   Per attivare il vantaggio, selezionare il pulsante attiva. Per l'account utente usato per l'attivazione sono necessari i ruoli di amministratore globale o MPN partner. Attendere alcuni giorni per consentire l'elaborazione della richiesta di attivazione. 
 
     - Quando vengono visualizzati l'ID di accesso e l'ID del contratto, è possibile usare il supporto tecnico Microsoft e il supporto tecnico per la firma (membri Gold e Silver). 
 
@@ -73,7 +74,7 @@ L'ID di accesso e l'ID contratto sono necessari la prima volta che si usa il van
 
 Qualsiasi account utente (AAD o MSA) può usare il supporto tecnico per i prodotti locali se hanno l'ID di accesso e l'ID del contratto
 
-Fare clic su [supporto tecnico per le aziende](https://support.serviceshub.microsoft.com/supportforbusiness/create) per creare una richiesta di supporto per un prodotto locale.
+Selezionare [supporto per le aziende](https://support.serviceshub.microsoft.com/supportforbusiness/create) per creare una richiesta di supporto per un prodotto locale.
 
 ## <a name="signature-cloud-support-cloud-only"></a>Supporto cloud di firma (solo cloud)
 
@@ -83,7 +84,7 @@ L'ID di accesso e l'ID contratto sono necessari la prima volta che si usa il van
 
 I partner CSP che creano richieste Azure possono usare il piano di supporto "Cloud Solution Provider" senza aggiungere un contratto di supporto.
 
-Gli utenti con ruolo di **agente di amministrazione** possono selezionare [i clienti](https://partner.microsoft.com/commerce/customers/list) in CSP nel menu di spostamento a sinistra, selezionare **gestione del servizio** e fare clic su **nuova richiesta**.  Quando si seleziona il carico di lavoro pertinente, viene aperto il portale specifico del carico di lavoro e si aggiunge un contratto di supporto e si crea una richiesta.
+Gli utenti con ruolo di **agente di amministrazione** possono selezionare [i clienti](https://partner.microsoft.com/commerce/customers/list) in CSP nel menu di spostamento a sinistra, selezionare **Gestione servizi** e selezionare **nuova richiesta**.  Quando si seleziona il carico di lavoro pertinente, viene aperto il portale specifico del carico di lavoro e si aggiunge un contratto di supporto e si crea una richiesta.
 
 ## <a name="partner-support-plans"></a>Piani di supporto per i partner
 

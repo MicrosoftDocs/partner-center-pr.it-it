@@ -4,22 +4,24 @@ ms.topic: article
 ms.date: 05/18/2020
 description: Comprendere i campi del file di fattura per la fatturazione del centro per i partner. Sono inclusi campi e definizioni per tutti i campi della fattura e per i campi con addebito unico.
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556294"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178902"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Informazioni sui campi fattura del centro per i partner
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 - Amministratore fatturazione
 - Agente di supporto tecnico
 
@@ -33,7 +35,7 @@ Nei file della fattura vengono visualizzati i campi seguenti.
 | ----- | ---------- |
 | US FEIN | Il numero di identificazione del datore di lavoro federale (FEIN). Si tratta del Stati Uniti numero di identificatore dell'imposta federale. |
 | Numero cliente | Numero del cliente. |
-| Indirizzo di fatturazione | Indirizzo a cui inviare la fattura. È possibile modificare il nome e/o l'indirizzo della società nel profilo di fatturazione del centro per i partner. |
+| Indirizzo di fatturazione | Indirizzo a cui inviare la fattura. È possibile modificare il nome e l'indirizzo della società nel profilo di fatturazione del centro per i partner. |
 | Addebiti basati su licenza | Costi flat mensili o annuali per le licenze basate sull'utilizzo acquistate, fatturate prima del servizio. Questo numero corrisponde alla somma di tutti gli addebiti nella colonna del **Subtotale** (colonna **T**) nel file di riconciliazione basato sulle licenze. |
 | Addebiti basati sull'utilizzo | Utilizzo di Azure. Sono inclusi i nuovi servizi o le applicazioni abilitati e usati durante il periodo di fatturazione. Questo numero corrisponde alla somma di tutti gli addebiti nella colonna **PretaxCharges** (colonna **Z**) nel file di riconciliazione basato sull'utilizzo. |
 | Sconti | Lo sconto ricevuto dal cliente dal prezzo normale della sottoscrizione. Questo numero viene visualizzato come *importo Flat*, non come prezzo per unità o licenza. |
@@ -63,6 +65,6 @@ I campi seguenti si applicano solo agli **addebiti** monouso nel centro per i pa
 | Quantità | Il numero di prodotti (ad esempio prenotazioni) acquistati. |
 | Prezzo unitario | Prezzo per prodotto, ad esempio una prenotazione. |
 | Sconti | Eventuali sconti applicabili. |
-| Importo pre-imposta | Sub-Total degli acquisti prima delle imposte. |
+| Importo pre-imposta | Subtotale degli acquisti prima delle imposte. |
 | Imposta sulle vendite | Importo relativo alle imposte. |
 | Totale | Importo totale da pagare. |

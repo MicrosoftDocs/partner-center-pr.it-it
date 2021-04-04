@@ -9,21 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944478"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133115"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gestire lead diversi come richieste dei clienti, lead qualificati per il marketing e lead qualificati per le vendite
-
-**Si applica a**
-
-- Centro per i partner
-- Segnalazioni
-- Provider di soluzioni Microsoft
-- Profili di business
 
 **Ruoli appropriati**
 
@@ -46,9 +39,9 @@ Il prerequisito per la ricezione dei lead è la [creazione di un profilo di busi
 
 Nella sezione Leads sono disponibili tre schede di primo livello. 
 
-**Lead del Marketplace** : tutti i lead originati dalla pagina del provider di soluzioni Microsoft cercano, che sono richieste dei clienti.
+**Lead del Marketplace** : si tratta di tutti i lead originati dalle ricerche di pagine del provider di soluzioni Microsoft, ovvero le richieste dei clienti.
 
-**Lead qualificati** : tutti i lead di tipo marketing Qualified e Sales Qualified sono disponibili in questa scheda.
+**Lead qualificati** : si tratta di tutti i lead di tipo marketing qualificato e Sales Qualified.
 
 **Preferiti** : tutti i lead contrassegnati come Preferiti nella scheda Lead del Marketplace o lead qualificati verranno visualizzati in questa scheda. È possibile contrassegnare qualsiasi lead come preferito facendo clic sull'icona a forma di cuore sul lead nella visualizzazione elenco. È possibile rimuovere il lead dai Preferiti facendo semplicemente clic sulla stessa icona.
 
@@ -62,7 +55,7 @@ In questa fase è stato ricevuto un nuovo lead direttamente dal cliente o da un 
 
 In questa fase è possibile eseguire due azioni, ovvero accettare o rifiutare il riferimento:
 
-- **Accetta:** Immettere un nome per l'operazione, il valore dell'affare stimato e l'intervallo di tempo di acquisto stimato. Devi inoltre specificare le informazioni nel campo **Note** se vuoi spiegare in modo più dettagliato ciò che il cliente sta cercando. Facoltativamente, è possibile immettere l'ID CRM (solo per riferimento), l'ID della campagna di marketing, che ha generato il rispettivo lead e aggiungere altri contatti dall'azienda. Al termine, fare clic su **Avanti**. Il riferimento verrà spostato nella **fase successiva**, il che significa che si prevede di coinvolgere attivamente il cliente per soddisfare le proprie esigenze. Queste informazioni verranno usate anche per aiutare a trovare le offerte simili in futuro. 
+- **Accept**: immettere un nome per l'operazione, il valore dell'affare stimato e il periodo di tempo di acquisto stimato. Devi inoltre specificare le informazioni nel campo **Note** se vuoi spiegare in modo più dettagliato ciò che il cliente sta cercando. Facoltativamente, è possibile immettere l'ID CRM (solo per riferimento), l'ID della campagna di marketing, che ha generato il rispettivo lead e aggiungere altri contatti dall'azienda. Al termine, fare clic su **Avanti**. Il riferimento verrà spostato nella **fase successiva**, il che significa che si prevede di coinvolgere attivamente il cliente per soddisfare le proprie esigenze. Queste informazioni verranno usate anche per aiutare a trovare le offerte simili in futuro. 
 
 - **Rifiuta**: selezionare il motivo per cui si sta declinando il problema e aggiungere eventuali note che si desidera includere, quindi selezionare **Chiudi** l'operazione. Verrà archiviato come **rifiutato** e verrà inviata una notifica al cliente per scegliere un partner diverso.
 
@@ -79,21 +72,21 @@ Al termine, è possibile eseguire una delle due azioni, che contrassegnano l'acc
 
 ### <a name="archived-stage"></a>Fase di archiviazione
 
-Si tratta di una fase terminale in cui tutte le opportunità sono finalmente raggiungibili. In questa fase è possibile visualizzare tutti i lead **ottenuti, persi, rifiutati**e **scaduti** . In questa fase non è possibile eseguire alcuna azione.
+Si tratta di una fase terminale in cui tutte le opportunità sono finalmente raggiungibili. In questa fase è possibile visualizzare tutti i lead **ottenuti, persi, rifiutati** e **scaduti** . In questa fase non è possibile eseguire alcuna azione.
 
 ## <a name="getting-more-leads"></a>Ottenere altri lead
 
 Ecco alcuni suggerimenti utili per ottenere i riferimenti più appropriati:
 
-- **Scegli parole chiave e preferenze che rappresentino la tua esperienza e il tuo modello di business specifici** nel tuo [profilo di business](create-a-marketing-profile.md). Rimuovere le parole chiave che generano riferimenti a cui non si è interessati. Se non si è interessati a gestire le aziende di una determinata dimensione, aggiornare questa preferenza.
+- **Scegli le parole chiave e le preferenze che rappresentano le tue competenze esclusive e il tuo modello aziendale nel tuo [profilo aziendale](create-a-marketing-profile.md)**. Rimuovere le parole chiave che generano riferimenti a cui non si è interessati. Se non si è interessati a gestire le aziende di una determinata dimensione, aggiornare questa preferenza.
 
-- **Esaminare le informazioni di contatto nel [profilo aziendale](create-a-marketing-profile.md) per ogni località** Verificare che il team ottenga gli avvisi in ingresso.
+- **Esaminare le informazioni di contatto nel [profilo aziendale](create-a-marketing-profile.md) per ogni località**. Verificare che il team ottenga gli avvisi in ingresso.
 
-- **Rispondi rapidamente ai riferimenti** Quando si risponde tempestivamente alle richieste in ingresso, la visibilità verrà aumentata nei prossimi risultati della ricerca dei clienti. Assicurati che il tuo team risponda velocemente indicando le intenzioni.
+- **Rispondi velocemente alle segnalazioni**. Quando si risponde tempestivamente alle richieste in ingresso, la visibilità verrà aumentata nei prossimi risultati della ricerca dei clienti. Assicurati che il tuo team risponda velocemente indicando le intenzioni.
 
-- **Trova le tue offerte accettate** Monitoriamo i tipi di offerte accettate e rifiutate e utilizzeremo queste informazioni per trovare le offerte simili. Accettare le offerte che non sono una scelta ottimale non migliorerà i risultati della ricerca e potrebbe influisca sulla qualità dei lead ricevuti.
+- **Sii selettivo nelle trattative che decidi di accettare**. Monitoriamo i tipi di offerte accettate e rifiutate e utilizzeremo queste informazioni per trovare le offerte simili. Accettare le offerte che non sono una scelta ottimale non migliorerà i risultati della ricerca e potrebbe influisca sulla qualità dei lead ricevuti.
 
-- **Comunica il volume della trattativa stimato, le date di chiusura e lo stato finale delle trattative** (acquisite o perse). Queste informazioni verranno usate per continuare a fornire i riferimenti alla qualità.
+- Riporta **le dimensioni stimate degli accordi, le date di chiusura e lo stato finale delle tue offerte (vinte o perse)**. Queste informazioni verranno usate per continuare a fornire i riferimenti alla qualità.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

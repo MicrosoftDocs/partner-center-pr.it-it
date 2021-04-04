@@ -9,18 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98912540"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178868"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Differenziare le attività aziendali con l'acquisizione di competenze Microsoft
 
 **Ruoli appropriati**
+
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 
 Dimostra la tua comprovata esperienza nella fornitura di soluzioni di qualità in uno o più settori specifici di business. Le competenze Microsoft sono concepite per prepararti a soddisfare le esigenze dei tuoi clienti e aiutarti ad attirare nuovi clienti in cerca di provider di soluzioni Microsoft Certified. Entra nell'élite dei partner Microsoft e distinguiti dal gruppo.
 

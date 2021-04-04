@@ -9,36 +9,32 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4102dae63c07a85993f1cf4a9a9dc91e42ee493a
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120045"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132792"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Fatture e imposte in Microsoft Partner Network
-
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 - Amministratore dei partner MPN
 - Amministratore fatturazione
 - Agente amministratore
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Visualizza o Scarica la fattura di appartenenza a MPN
 
-Attenersi alla procedura seguente per visualizzare o scaricare la fattura finale per un ordine correlato all'appartenenza al Microsoft Partner Network. Le fatture sono disponibili a livello generale dieci giorni dopo il completamento del pagamento. Per ulteriori informazioni, contattare il centro servizi di regione.  
+Attenersi alla procedura seguente per visualizzare o scaricare la fattura finale per un ordine correlato all'appartenenza al Microsoft Partner Network. Le fatture sono disponibili a livello generale 10 giorni dopo il completamento del pagamento. Per ulteriori informazioni, contattare il centro servizi di regione.  
 
 Per eseguire questa procedura, è necessario essere un amministratore globale o un amministratore partner MPN. 
 
 1.  Accedere al [centro](https://partner.microsoft.com/dashboard/home) per i partner con l'account aziendale e selezionare **MPN** nel menu a sinistra.
 
-4.  Nell'elenco a discesa selezionare **offerte di appartenenza** per visualizzare le offerte disponibili per l'acquisto, nonché le fatture disponibili per l'anno corrente di registrazione. Per visualizzare le fatture relative agli anni precedenti, selezionare **Scaduto**.
+4.  Nell'elenco a discesa selezionare **offerte di appartenenza** per visualizzare le offerte disponibili per l'acquisto e le fatture disponibili per l'anno corrente di registrazione. Per visualizzare le fatture relative agli anni precedenti, selezionare **Scaduto**.
 
 6.  Selezionare la fattura desiderata, quindi selezionare **Scarica fattura**. 
 
@@ -47,7 +43,7 @@ Per eseguire questa procedura, è necessario essere un amministratore globale o 
 1.  In centro per i partner selezionare **Impostazioni**.
     - Per trovare l'ID MPN, selezionare **profilo partner**.
 
-2.  Crea un nuovo ticket di supporto. In centro per i partner selezionare **richieste di servizio**, selezionare richieste del centro per i **partner**e quindi selezionare **nuova richiesta**.
+2.  Crea un nuovo ticket di supporto. In centro per i partner selezionare **richieste di servizio**, selezionare richieste del centro per i **partner** e quindi selezionare **nuova richiesta**.
 
 3.  Compilare il modulo. Per il **tipo di problema**, selezionare **non è in grado di gestire il profilo personale**. Nella descrizione includere l'ID MPN.
 
@@ -59,7 +55,7 @@ Per eseguire questa procedura, è necessario essere un amministratore globale o 
 
 2.  Selezionare **Aggiungi l'ID IVA**. 
 
-3.  Immettere l'ID IVA per la società, selezionare **Aggiungi**e quindi fare clic su **Avanti**. 
+3.  Immettere l'ID IVA per la società, selezionare **Aggiungi** e quindi fare clic su **Avanti**. 
 
 ## <a name="next-steps"></a>Passaggi successivi
 

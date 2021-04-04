@@ -1,22 +1,22 @@
 ---
 title: Pianificazioni e processi di pagamento
 description: Informazioni sui pagamenti e sulle transazioni, ad esempio le pianificazioni dei pagamenti e i processi di recupero per il Marketplace commerciale e altre transazioni.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756840"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086176"
 ---
 # <a name="payout-schedules-and-processes"></a>Pianificazioni e processi di pagamento
 
-**Ruoli appropriati:**
+**Ruoli appropriati**
 
 - Amministratore degli account
 - Amministratore globale
@@ -73,7 +73,7 @@ In base al processo di pagamento, Microsoft potrebbe avere già pagato fondi per
 
 Microsoft effettuerà il recupero di tutti i pagamenti già effettuati utilizzando uno dei metodi seguenti: (1) Microsoft può sottrarre gli importi non pagati dai pagamenti futuri; Se, ad esempio, $1.000 nei pagamenti sono considerati non raccoglibili e scritti, i pagamenti futuri verranno trattenuti fino a quando non viene recuperato il $1.000 oppure (2) Microsoft potrebbe richiedere un rimborso o fatturare gli editori per eventuali importi non raccolti.
 
-Di seguito è riportato un esempio di pianificazione:
+La pianificazione seguente è un esempio:
 
 | Evento | Data approssimativa * | Visibilità del partner |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Di seguito è riportato un esempio di pianificazione:
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Numero di giorni per i pagamenti per raggiungere un account di pagamento
 
-In genere si inviano pagamenti a causa di un determinato mese il 15 ° giorno del mese, ma è necessario più tempo per il pagamento per raggiungere l'account. Il numero di giorni dipende dal metodo di pagamento usato per l'account, come descritto di seguito.
+In genere si inviano pagamenti a causa di un determinato mese il 15 ° giorno del mese, ma è necessario un altro tempo per il pagamento per raggiungere l'account. Il numero di giorni dipende dal metodo di pagamento usato per l'account, come descritto di seguito.
 
 > [!NOTE]
 > I giorni indicati di seguito sono approssimativi; eventuali pagamenti possono richiedere più o meno tempo per raggiungere l'account.

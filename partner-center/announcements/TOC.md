@@ -1,4 +1,5 @@
 # [Annunci del Centro per i partner](index.md)
+# [Aprile 2021](2021-april.md)
 # [Marzo 2021](2021-march.md)
 # [2021 febbraio](2021-february.md)
 # [Gennaio 2021](2021-january.md)
@@ -11,6 +12,3 @@
 # [Giugno 2020](2020-june.md)
 # [Maggio 2020](2020-may.md)
 # [Aprile 2020](2020-april.md)
-# [Marzo 2020](2020-march.md)
-# [Febbraio 2020](2020-february.md)
-# [Gennaio 2020](2020-january.md)

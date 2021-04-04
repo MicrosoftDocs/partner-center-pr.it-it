@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104909290"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132401"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Come creare un logo partner, una lettera certificata o un premio con logo Builder
 
 **Ruoli appropriati**
 
-- Tutti gli utenti del centro partner interessati a saperne di più su logo Builder
+- Tutti i partner interessati a saperne di più su logo Builder
 
 Il valore di ottenere una competenza Silver o Gold è la possibilità di distinguere i clienti. Un logo che è possibile usare per i materiali di vendita e marketing e il profilo business nel centro per i partner per presentare la competenza o le competenze ottenute è incluso nei vantaggi della competenza. 
 
@@ -28,7 +28,7 @@ Se l'utente è stato accettato nel programma MSP di Azure Expert, ha ricevuto un
 
 ## <a name="what-is-available-in-logo-builder"></a>Funzionalità disponibili in logo Builder
 
-Ciò che è disponibile per l'azienda in logo Builder è allineato all'appartenenza Microsoft Partner Network (MPN). Sono necessarie fino a 24 ore per una modifica nell'appartenenza a MPN, ad esempio per ottenere una nuova competenza, da riflettere.  
+I loghi disponibili per la società in logo Builder sono allineati all'appartenenza Microsoft Partner Network (MPN). Sono necessarie fino a 24 ore per una modifica nell'appartenenza a MPN, ad esempio per ottenere una nuova competenza, da riflettere.
 
 Gli asset che è possibile creare in logo Builder includono quanto segue:
 

@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
-ms.translationtype: HT
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932845"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133098"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gestire i vantaggi derivanti dall'appartenenza a Microsoft Partner Network nel Centro per i partner
-
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 - Agente amministratore
 - Amministratore dei partner MPN
 
@@ -41,11 +37,11 @@ Dopo aver acquistato un pacchetto di vantaggi di appartenenza, dovrai ottenere l
 >[!IMPORTANT]
 >Anche se per acquistare i vantaggi non occorre che tu sia un amministratore globale dell'organizzazione, devi invece esserlo per assegnare i vantaggi ai dipendenti. Se necessario, puoi diventare amministratore globale seguendo le istruzioni riportate nella [pagina **Vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). La tua azienda potrebbe già avere un amministratore globale, pertanto verifica questo aspetto con il team.
 
-I pacchetti di vantaggi includono allocazioni di licenze software, servizi cloud, sottoscrizioni di Visual Studio e supporto tecnico. Possono anche includere determinate risorse e offerte go-to-market e programmi correlati al mercato. Per ottenere informazioni dettagliate sulle sottoscrizioni di Action Pack, visita il sito [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
+I pacchetti di vantaggi includono le allocazioni del software concesso in licenza, i servizi cloud, le sottoscrizioni di Visual Studio e il supporto tecnico. Possono anche includere determinate risorse e offerte go-to-market e programmi correlati al mercato. Per ottenere informazioni dettagliate sulle sottoscrizioni di Action Pack, visita il sito [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
 Per visualizzare e gestire tutti i vantaggi dell'iscrizione, passare alla [pagina **Vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). In alternativa, puoi accedere al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner, selezionare l'[**opzione Vantaggi**] dal menu a sinistra e quindi scegliere le opzioni dei vantaggi visualizzate.  
 
-Per attivare quasi tutti i vantaggi o scaricare le chiavi del software correlate e così via, il Centro per i partner richiede in genere che all'utente sia assegnato il ruolo di amministratore globale o amministratore partner MPN. Se non si riesce a visualizzare o ad attivare i vantaggi, rivolgersi all'amministratore globale del Centro per i partner per assicurarsi di avere le autorizzazioni appropriate. [Vedere altre informazioni sui ruoli del Centro per i partner](permissions-overview.md).
+Per attivare la maggior parte dei vantaggi o scaricare le chiavi software correlate, il centro per i partner richiede in genere un utente assegnato il ruolo di amministratore globale o MPN partner. Se non è possibile visualizzare i vantaggi o non si è in grado di attivare i vantaggi, rivolgersi all'amministratore globale del partner Center per assicurarsi di disporre delle autorizzazioni appropriate. [Vedere altre informazioni sui ruoli del Centro per i partner](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Gestire i vantaggi software
 
@@ -76,18 +72,18 @@ Sono disponibili due tipi di abbonamenti in base all'uso che è possibile riceve
 Il provisioning può essere effettuato alle tariffe seguenti:
 
 - 100 USD al mese (o equivalente in valuta locale) per il credito mensile di Azure o/e
-- 6000, 12.000 o/e 13.000 USD all'anno (o equivalente in valuta locale) per il credito bulk di Azure
+- $6.000, $12.000 o/e $13000/Year (o ognuno di essi equivalente in valuta locale) credito bulk di Azure
 
 Per attivare un abbonamento di Microsoft Azure nel Centro per i partner, assegnare l'accesso a un utente all'interno dell'azienda, inclusi gli utenti guest, corrispondente a una voce utente creata in Azure Active Directory.
 Per il credito mensile di Azure alla tariffa di 100 USD al mese (o equivalente in valuta locale), è possibile aggiungere o rimuovere utenti dall'abbonamento in qualsiasi momento. 
 
-Per il credito bulk di Azure (annuale) l'opzione di rimozione non è disponibile nel Centro per i partner, ma è possibile trasferire il credito bulk a un altro utente durante l'anno di iscrizione. L'abbonamento con credito bulk di Azure (annuale) non può essere combinato con altre offerte di licenza, prepagate o di credito, ad esempio Microsoft Enterprise Agreement, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack e così via.
+Per il credito Azure bulk (annuale), l'opzione Rimuovi non è disponibile nel centro per i partner, ma è possibile trasferire il credito bulk a un altro durante l'anno di iscrizione. La sottoscrizione di credito di Azure bulk (annuale) non può essere combinata con altre offerte di licenza, prepagata o di credito, ovvero Microsoft Contratto Enterprise, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack e così via.
 
 ## <a name="license-based-subscriptions"></a>Abbonamenti in base alle licenze
 
-Nella sezione relativa agli abbonamenti in base alle licenze della scheda Prodotti Azure e cloud sono disponibili tutti i prodotti cloud che richiedono un codice Product Key per l'attivazione, ad esempio Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI e così via, che vengono offerti a seconda del tipo di offerta attivo come partner MPN (MAPS, Silver o Gold).
+La sezione sottoscrizioni basate su licenza della scheda prodotti Azure & cloud elenca tutti i prodotti cloud che richiedono un codice Product Key per l'attivazione, ad esempio Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic e Power BI. Il tipo di offerta attivo come partner MPN, ovvero MAPS, Silver o Gold, che controlla i prodotti elencati.
 
-Per attivare gli abbonamenti in base alle licenze, fare clic sul simbolo del menu a discesa accanto al prodotto di interesse e leggere le istruzioni su come riscattare i codici. Dopo aver letto le istruzioni, selezionare il collegamento che reindirizza l'utente al portale per riscattare i codici e il codice assegnato per il prodotto.
+Per attivare gli abbonamenti in base alle licenze, fare clic sul simbolo del menu a discesa accanto al prodotto di interesse e leggere le istruzioni su come riscattare i codici. Dopo aver letto le istruzioni, selezionare il collegamento che reindirizza l'utente al portale per riscattare le chiavi e la chiave assegnata per il prodotto.
 
 >[!IMPORTANT]
 >Si noti che un codice non può essere riscattato più volte ed è quindi opportuno avere un'idea precisa riguardo all'effettiva necessità di aggiungere altre licenze (postazioni) o di posticipare la data di fine. Se si sceglie di aggiungere altre licenze e non si estende la data di fine, il sistema fornirà meno di 12 mesi di abbonamento attivo. Assicurarsi di aver eseguito l'accesso con le credenziali corrette per attivare i codici nel tenant appropriato.

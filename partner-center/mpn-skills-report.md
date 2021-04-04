@@ -4,28 +4,28 @@ ms.topic: conceptual
 ms.date: 02/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Scopri come usare il report sulle competenze per assicurarsi che la tua azienda sia aggiornata rispetto alla raggiungibilità delle competenze.
+description: Scopri come usare il report sulle competenze per assicurarsi che la tua azienda sia aggiornata verso il raggiungimento delle competenze.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 419dba1490e19c8895fce35a031c7424114e5125
-ms.sourcegitcommit: 493130f8b8e9cf9b6ad31035bb4d7f78863788ac
+ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "99474646"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132435"
 ---
 # <a name="using-the-skills-report"></a>Utilizzo del report Skills
 
 **Ruoli appropriati**
 
-- Amministratore partner MPN
+- Amministratore dei partner MPN
 - Amministratore globale
 
 Il report Skills consente ai partner del Microsoft Partner Network di valutare le competenze completate dagli utenti nell'azienda partner. Le competenze nel report possono includere valutazioni, certificazioni o esami presi dagli utenti tecnici del partner. 
 
-Il raggiungimento di questi tipi di competenze da parte di una società partner è uno dei requisiti per il partner per ottenere lo stato Silver o Gold all'interno di una competenza Microsoft specifica. Le competenze vengono usate dai partner per dimostrare le loro aree di competenza tecnica ai clienti correnti e nuovi. Offrono inoltre molti vantaggi ai partner che li hanno raggiunti. Per informazioni dettagliate sulle competenze disponibili e sui relativi vantaggi, vedere la pagina relativa alle [competenze](https://partner.microsoft.com/membership/competencies) di Microsoft Partner Network.
+Il raggiungimento di questi tipi di competenze da parte di una società partner è uno dei requisiti per il partner per ottenere lo stato Silver o Gold all'interno di una competenza Microsoft specifica. Le competenze vengono usate dai partner per dimostrare le loro aree di competenza tecnica ai clienti correnti e nuovi. Offrono inoltre molti vantaggi ai partner che li hanno raggiunti. Per ulteriori informazioni sulle competenze disponibili e sui relativi vantaggi, vedere la pagina relativa alle [competenze](https://partner.microsoft.com/membership/competencies) del Microsoft Partner Network.
 
 L'amministratore del partner MPN dell'azienda o l'amministratore globale potrebbe voler eseguire le attività seguenti relative al rapporto sulle competenze:
 
@@ -59,9 +59,9 @@ Seguire questa procedura per visualizzare i dati dei report sulle competenze dal
 
 1. Usando l'account utente con il ruolo di centro per i partner appropriato, accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner.
 2. Dal menu di spostamento a sinistra selezionare **MPN** seguito da **competenze**.
-3. Individuare le opzioni seguenti nella parte superiore destra della pagina competenze: report  **prestazioni competenza** e **report competenze download**. È possibile scegliere di visualizzare i dati del report sulle competenze nell'interfaccia utente del centro per i partner o come foglio di calcolo scaricato.
+3. Individuare le opzioni seguenti nella parte superiore destra della pagina delle competenze: report  **prestazioni** competenze e **Scarica report competenze**. È possibile scegliere di visualizzare i dati del report sulle competenze nell'interfaccia utente del centro per i partner o come foglio di calcolo scaricato.
    :::image type="content" source="images/competencies/mpn-skills-report-1.png" alt-text="Pagina delle competenze del centro per i partner con due opzioni evidenziate nell'angolo superiore destro." border="true":::
-   - Per una visualizzazione semplificata dei dati del report sulle competenze, selezionare **rapporto sulle prestazioni della competenza**, seguito da **dati sulle competenze utente** in alto a sinistra nella pagina del report sulle competenze. 
+   - Per una visualizzazione semplificata dei dati del report sulle competenze, selezionare **rapporto sulle prestazioni** delle competenze, seguito da **dati sulle competenze utente** nella parte superiore sinistra della pagina del report sulle competenze. 
       :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="Pagina del report di competenza del centro per i partner con l'opzione dati sulle competenze utente nell'angolo superiore sinistro." border="true":::
    - Per scaricare il report in formato foglio di calcolo, selezionare **Scarica report Skills**. Una volta scaricato e aperto il file, verrà visualizzata una tabella con i dettagli sulle competenze di ogni utente. Le colonne, **associate a PMC** e **associate a PC**, indicano se le competenze dell'utente sono già state associate all'account del centro per i partner (PMC) precedente e al relativo account del centro per i partner (PC). Se gli utenti continuano a funzionare in PMC, vedere la sezione successiva sugli utenti di PMC.
    

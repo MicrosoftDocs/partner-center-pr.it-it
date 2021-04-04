@@ -9,23 +9,23 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 606806f3796796873c37f6dfcac35e5993efe575
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174978"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086516"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Centro per i partner per Microsoft Cloud Germania per partner che vendono ai clienti nei paesi UE & EFTA
 
 **Si applica a**
 
--  Centro per i partner per Microsoft Cloud Germania
+- Centro per i partner per Microsoft Cloud Germania
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 - Agente amministratore
 - Agente di vendita
 - Amministratore fatturazione
@@ -41,7 +41,7 @@ Microsoft Cloud Germania fornisce un'istanza separata di [Microsoft Azure](https
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrare i clienti da Microsoft Cloud Germania a un'altra area europea
 
-Prima di poter eseguire la migrazione di una sottoscrizione del cliente da Microsoft Cloud Germania a un'altra area europea, è necessario disporre di un account CSP esistente che si trova in tale area ed è attivo. Se non si dispone di un account, verrà richiesto di crearne uno durante la selezione dell'account CSP nel centro per i partner. Dopo aver creato il nuovo account, i clienti verranno associati al tenant selezionato.
+Prima di poter eseguire la migrazione di una sottoscrizione del cliente da Microsoft Cloud Germania a un'altra area europea, è necessario disporre di un account Cloud Solution Provider (CSP) esistente che si trova in tale area ed è attivo. Se non si dispone di un account, verrà richiesto di crearne uno durante la selezione dell'account CSP nel centro per i partner. Dopo aver creato il nuovo account, i clienti verranno associati al tenant selezionato.
 
 ### <a name="you-already-have-a-csp-account"></a>Si dispone già di un account CSP
 
@@ -69,10 +69,10 @@ Prima di poter eseguire la migrazione di una sottoscrizione del cliente da Micro
 
 ### <a name="you-dont-already-have-a-csp-account"></a>Non si dispone già di un account CSP
 
-1. Accedere a CSP Microsoft Cloud Germania tenant come amministratore globale.
+1. Accedere a CSP Microsoft Cloud tenant Germania come amministratore globale.
 
 1. Passare alla pagina Panoramica CSP nel menu a sinistra.
-. 
+ 
 1. Quando richiesto, selezionare non ho **un tenant nell'area europea**, quindi selezionare **Crea nuovo account**. 
  
 1. Si passerà alla pagina di registrazione del centro per i partner, in cui è possibile creare un nuovo tenant e un account CSP in un'area europea.

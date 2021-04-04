@@ -9,28 +9,29 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d03533d69df4600879dbc90622b640a932ab069
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220469"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086261"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Report sulle competenze disponibile dal dashboard di partner Center Insights
 
 **Ruoli appropriati**
+
 - Amministratore globale
 - Agente amministratore
-- Visualizzatore report
-- Visualizzatore report Executive
+- Visualizzatore di report
+- Visualizzatore di report esecutivi
 
-Le competenze consentono all'azienda di dimostrare le funzionalità tecniche per la distribuzione di soluzioni Microsoft. Le competenze Microsoft sono progettate per soddisfare le esigenze dei clienti e presentare le proprie competenze ai clienti potenziali. Presentano numerosi vantaggi offerti da Microsoft, ad esempio le quantità incluse di consumo di Azure, i diritti per i prodotti cloud, ad esempio O365, il supporto tecnico, le offerte per il go-to-Market e così via. Oggi sono disponibili complessivamente 19 competenze tra le seguenti categorie: **app e infrastruttura**, **applicazioni aziendali**, **dati e intelligenza artificiale** e **area di lavoro moderna**. Le competenze sono suddivise in livelli in livelli Silver o Gold, ad esempio. C'è una barra superiore per la competenza Gold e un livello superiore associato di risorse di marketing, offerte e programmi disponibili.  
+Le competenze consentono all'azienda di dimostrare le funzionalità tecniche per la distribuzione di soluzioni Microsoft. Le competenze Microsoft sono progettate per soddisfare le esigenze dei clienti e presentare le proprie competenze ai clienti potenziali. Sono dotati di numerosi vantaggi offerti da Microsoft, ad esempio le quantità incluse di consumo di Azure, i diritti per i prodotti cloud, ad esempio Office 365, il supporto tecnico, le offerte per l'immissione sul mercato e altri ancora. Oggi sono disponibili complessivamente 19 competenze tra le seguenti categorie: **app e infrastruttura**, **applicazioni aziendali**, **dati e intelligenza artificiale** e ambiente di **lavoro moderno**. Le competenze sono suddivise in livelli in livelli Silver o Gold, ad esempio. C'è una barra superiore per la competenza Gold e un livello superiore associato di risorse di marketing, offerte e programmi disponibili.  
 
 Per ulteriori informazioni sul ciclo di vita delle competenze, il raggiungimento delle competenze e altre informazioni sui report sulle competenze, si otterrà un maggiore utilizzo dal report sulle competenze.
 
 ## <a name="competency-life-cycle"></a>Ciclo di vita delle competenze
 
-Dal punto di vista del ciclo di vita, i partner iniziano con la creazione di indicatori di prestazioni chiave (KPI) necessari per raggiungere competenze specifiche. Una volta raggiunta la soglia impostata per una determinata competenza in tutte le metriche obbligatorie, le competenze diventano **qualificate** . I partner possono quindi pagare per l'offerta di competenze (Silver o Gold) per ottenere la competenza e diventare **attiva** in tale competenza. Lo stato **attivo** della competenza è valido per un anno dalla data di raggiungimento della competenza (questa è la data di **anniversario** per la competenza). Alla fine dell'anno di anniversario, è necessario che i partner soddisfino i requisiti di competenza. Se non soddisfano di nuovo questi requisiti, perderanno la competenza. Un oggetto **a livello di rischio** per una competenza ottenuta in precedenza significa che alcune metriche chiave vengono proiettate al di sotto della soglia alla **Data di anniversario**delle competenze.
+Dal punto di vista del ciclo di vita, i partner iniziano con la creazione di indicatori di prestazioni chiave (KPI) necessari per raggiungere competenze specifiche. Una volta raggiunta la soglia impostata per una determinata competenza in tutte le metriche obbligatorie, le competenze diventano **qualificate** . I partner possono quindi pagare per l'offerta di competenze (Silver o Gold) per ottenere la competenza e diventare **attiva** in tale competenza. Lo stato **attivo** della competenza è valido per un anno dalla data di raggiungimento della competenza (questa è la data di **anniversario** per la competenza). Alla fine dell'anno di anniversario, è necessario che i partner soddisfino i requisiti di competenza. Se non soddisfano di nuovo questi requisiti, perderanno la competenza. Un oggetto **a livello di rischio** per una competenza ottenuta in precedenza significa che alcune metriche chiave vengono proiettate al di sotto della soglia alla **Data di anniversario** delle competenze.
 
 ## <a name="competency-attainment"></a>Raggiungimento delle competenze
 
@@ -53,7 +54,7 @@ Ogni competenza dispone di un set specifico di requisiti da soddisfare. I requis
 
 ### <a name="summary"></a>Riepilogo
 
-La visualizzazione Riepilogo presenta un conteggio delle competenze con i rispettivi nomi a ogni livello di competenza (Gold/Silver) in tutte le fasi del ciclo di vita delle competenze. Le fasi del ciclo di vita delle competenze includono: **Started**, **Qualified**, **Active**e **a Risk**. Esempio: i requisiti di competenza cloud rientrano in due categorie: competenze e prestazioni.
+La visualizzazione Riepilogo presenta un conteggio delle competenze con i rispettivi nomi a ogni livello di competenza (Gold/Silver) in tutte le fasi del ciclo di vita delle competenze. Le fasi del ciclo di vita delle competenze includono: **Started**, **Qualified**, **Active** e **a Risk**. Esempio: i requisiti di competenza cloud rientrano in due categorie: competenze e prestazioni.
 
 - Avviato: numero di competenze per le quali è in corso uno o più requisiti sottostanti.
 Suddivisione dei conteggi delle competenze avviate in base al livello di competenza (Silver/Gold) con nomi di competenze.
@@ -73,7 +74,7 @@ Questa visualizzazione Mostra lo stato della metrica delle competenze rispetto a
 
 Il report può essere trasformato tramite pivot in base ai due intervalli di date seguenti:
 
-1. TTM View: enumera le prestazioni del partner negli ultimi dodici mesi (TTM).
+1. TTM View: enumera le prestazioni del partner negli ultimi 12 mesi (TTM).
 2. Visualizzazione anno anniversario: consente di enumerare le prestazioni del partner dalla data di anniversario precedente alla data di anniversario successiva.
 
 :::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="analisi della metrica delle competenze":::

@@ -8,20 +8,21 @@ description: Scopri cosa stai facendo bene e dove puoi migliorare l'uso delle so
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 727c370fbb787f1a63f50b28b4ef6ae703b7f1a3
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: d1710215f5fd1d7058232c81ae68ae9cd1ba5240
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146699"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086312"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Office 365 disponibile nel dashboard di partner Center Insights
 
 **Ruoli appropriati**
+
 - Amministratore globale
 - Agente amministratore
-- Visualizzatore report
-- Visualizzatore report Executive
+- Visualizzatore di report
+- Visualizzatore di report esecutivi
 
 Il report sull'utilizzo di Office 365 fornisce i dati di utilizzo per le sottoscrizioni di Office 365 vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report sull'utilizzo di Office 365.
 

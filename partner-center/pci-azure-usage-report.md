@@ -4,27 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri cosa stai facendo e dove puoi migliorare l'uso delle sottoscrizioni di Azure che Vendi o Gestisci per i tuoi clienti.
+description: Scopri cosa stai facendo bene e dove puoi migliorare l'uso delle sottoscrizioni di Azure che Vendi o Gestisci per i tuoi clienti.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220729"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086210"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Azure disponibile dal dashboard di partner Center Insights
 
 **Ruoli appropriati**
+
 - Amministratore globale
 - Agente amministratore
-- Visualizzatore report
-- Visualizzatore report Executive
+- Visualizzatore di report
+- Visualizzatore di report esecutivi
 
-Il report sull'utilizzo di Azure presenta le metriche correlate alle sottoscrizioni di Azure dei clienti. Sono inclusi i ricavi di consumo e l'utilizzo di Azure per categorie di contatori. È possibile visualizzare le sezioni seguenti dal report sull'utilizzo di Azure.
+Il report sull'utilizzo di Azure presenta le metriche correlate alle sottoscrizioni di Azure dei clienti. Questo report include i ricavi di consumo e l'utilizzo di Azure per categorie di contatori. È possibile visualizzare le sezioni seguenti dal report sull'utilizzo di Azure.
 
 - Riepilogo
 - Azure Usage by geography
@@ -37,9 +38,10 @@ Il report sull'utilizzo di Azure presenta le metriche correlate alle sottoscrizi
 
 La sezione Riepilogo presenta una visualizzazione snapshot degli indicatori di prestazioni chiave (KPI) relativi alle sottoscrizioni di Azure vendute o gestite dall'utente per i clienti.  
 
-- Sottoscrizioni di Azure: numero corrente di sottoscrizioni di clienti di Azure vendute o gestite dall'utente in percentuale di aumento o diminuzione delle sottoscrizioni di Azure durante l'intervallo di date selezionato.
+- Sottoscrizioni di Azure: numero corrente di sottoscrizioni di clienti di Azure vendute o gestite dall'utente.
+Percentuale di aumento o diminuzione delle sottoscrizioni di Azure durante l'intervallo di date selezionato.
 
-Il grafico micro presenta una tendenza mensile del numero di sottoscrizioni di Azure per l'intervallo di date selezionato
+Il grafico micro presenta una tendenza di mese per mese del numero di sottoscrizioni di Azure per l'intervallo di date selezionato.
 - Sottoscrizioni di Azure attive: numero corrente di sottoscrizioni di Azure vendute o gestite dall'utente con utilizzo attivo negli ultimi 30 giorni.
 Percentuale di aumento o diminuzione delle sottoscrizioni durante l'intervallo di date selezionato.
 

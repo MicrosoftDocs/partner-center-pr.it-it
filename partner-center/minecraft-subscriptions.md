@@ -8,24 +8,21 @@ description: Vendere gli abbonamenti di Minecraft Education Edition a clienti qu
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000065"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133013"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendere le sottoscrizioni Minecraft: Education Edition ai clienti del settore istruzione
 
-**Si applica a**
-
--  Centro per i partner
-
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Agente di vendita
--   Agente amministratore
+
+- Amministratore globale
+- Amministratore gestione utenti
+- Agente di vendita
+- Agente amministratore
 
 I partner che collaborano con istituti di istruzione possono offrire loro sottoscrizioni di **Minecraft: Education Edition** . Si acquista la sottoscrizione per conto del cliente nel centro per i partner e quindi il cliente Scarica il software dalla [Microsoft Store per la formazione](https://educationstore.microsoft.com). 
 

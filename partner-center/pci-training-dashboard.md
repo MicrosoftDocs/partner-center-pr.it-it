@@ -1,5 +1,5 @@
 ---
-title: Dashboard di training di Insights.
+title: Dashboard di training di Insights
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
@@ -9,16 +9,17 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10646cb4ecc6c48c5187c96740a2c05610c9d3cc
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: bad11a2f480aaa229708a3e9a108466a130b4127
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175261"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086244"
 ---
 # <a name="trainings-dashboard"></a>Dashboard Training
 
 **Ruoli appropriati**
+
 - Visualizzatore di report esecutivi
 - Visualizzatore di report
 
@@ -34,7 +35,7 @@ Il dashboard Training fornisce informazioni dettagliate sulle certificazioni, le
 
 ## <a name="summary"></a>Riepilogo
 
-La sezione Riepilogo presenta una visualizzazione di snapshot numerici dei vari indicatori di prestazioni correlati ai training. I vari indicatori di prestazioni sono singoli certificati, certificazioni, individui con credenziali di esame, credenziali di esame, utenti con credenziali di valutazione e credenziali di valutazione. I dati in questa sezione vengono aggiornati in base all'intervallo di date selezionato, che può essere di tre mesi (3M), di sei mesi (6M) & 12 mesi (1Y) o di un intervallo di dati personalizzato. 
+La sezione Riepilogo presenta una visualizzazione di snapshot numerici dei vari indicatori di prestazioni correlati ai training. I vari indicatori di prestazioni sono singoli certificati, certificazioni, individui con credenziali di esame, credenziali di esame, utenti con credenziali di valutazione e credenziali di valutazione. I dati in questa sezione vengono aggiornati in base all'intervallo di date selezionato, che può essere di tre mesi (3M), di sei mesi (6M) e di 12 mesi (1Y) o di un intervallo di dati personalizzato. 
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="Summary":::
 
@@ -47,15 +48,15 @@ La sezione Riepilogo presenta una visualizzazione di snapshot numerici dei vari 
 
 ## <a name="training-performance"></a>Prestazioni di training
 
-Le prestazioni di training presentano il numero di singoli utenti e i corsi di formazione completati da singoli utenti dell'azienda. Viene suddiviso in base a certificazioni, valutazioni ed esami sotto forma di grafico per l'intervallo di date selezionato. L'asse X rappresenta i mesi per l'intervallo di date selezionato. L'asse Y rappresenta il conteggio distinto di singoli utenti e il numero di training effettuati per il tipo di training selezionato. Fare clic sulle rispettive schede sopra il grafico per visualizzare la suddivisione in base al tipo di training. I dati del grafico possono essere scaricati tramite l'icona di download nel formato TSV per l'intervallo di date selezionato.
+Le prestazioni di training presentano il numero di singoli utenti e i corsi di formazione completati da singoli utenti dell'azienda. Viene suddiviso in base a certificazioni, valutazioni ed esami sotto forma di grafico per l'intervallo di date selezionato. L'asse X rappresenta i mesi per l'intervallo di date selezionato. L'asse Y rappresenta il conteggio distinto di singoli utenti e il numero di training effettuati per il tipo di training selezionato. Selezionare le rispettive schede sopra il grafico per visualizzare la suddivisione in base al tipo di training. I dati del grafico possono essere scaricati tramite l'icona di download nel formato TSV per l'intervallo di date selezionato.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Summary":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Prestazioni di training":::
 
 ## <a name="individuals-performance"></a>Prestazioni dei singoli utenti
 
 La sezione relativa alle prestazioni dei singoli utenti presenta i dettagli della formazione eseguita dai singoli utenti dell'azienda, per l'intervallo di date selezionato. Cercare e selezionare il nome di un utente nel pannello sinistro della sezione. I dettagli di training per l'utente selezionato vengono visualizzati nel riquadro di destra della sezione.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Summary":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Prestazioni singolo":::
 
 >[!NOTE] 
 > La sezione prestazioni individuali è disponibile solo per gli utenti che sono visualizzatori di report esecutivi. 

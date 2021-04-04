@@ -9,23 +9,20 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 064235ebdfee1e85a95908cf7a03f8e6fc676b00
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869283"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132605"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Passaggio dall'interfaccia di amministrazione partner (PAC) al Centro per i partner
 
-**Si applica a**
-- Centro per i partner
-- Interfaccia di amministrazione partner
-
 **Ruoli appropriati**
+
 - Amministratore globale
 
-Il Centro per i partner sta diventando l'unica posizione in cui gestirai la partnership con Microsoft e con i tuoi clienti. Nel Centro per i partner puoi gestire l'adesione, le segnalazioni dei clienti, gli incentivi e tutti gli altri aspetti del programma Cloud Solution Provider (CSP). Inoltre, potrai eseguire la maggior parte delle operazioni effettuate in PAC anche se alcune funzionalità o azioni funzioneranno in modo diverso.
+Il Centro per i partner sta diventando l'unica posizione in cui gestirai la partnership con Microsoft e con i tuoi clienti. Nel centro per i partner è possibile gestire l'appartenenza, i riferimenti dei clienti, gli incentivi e tutti gli altri aspetti del programma Cloud Solution Provider (CSP). Sarà possibile eseguire la maggior parte delle operazioni eseguite in PAC nel centro per i partner, anche se alcune delle funzionalità o azioni funzioneranno in modo diverso.
 
 
 |**Azione**   |**PAC**   |**Centro per i partner**   |

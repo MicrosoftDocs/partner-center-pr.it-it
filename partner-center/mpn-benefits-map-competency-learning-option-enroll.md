@@ -8,19 +8,19 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756126"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133047"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Usare il centro per i partner per iscriversi come partner Microsoft Learning
 
 **Ruoli appropriati**
 
 - Amministratore dei partner MPN
-- Amministratore account MPN
+- Amministratore degli account
 
 Questo articolo descrive i vari modi in cui un partner del Microsoft Partner Network può iscriversi al programma Learning partner.
 
@@ -50,7 +50,7 @@ Learning Action Pack è la voce di livello base nel programma Learning partner. 
 
 Action Pack Learning supporta i partner che desiderano fornire servizi di formazione, offerte o sconti sul Marketplace per corsi di formazione e vantaggi per aiutare i partner a diventare esperti di diverse linee di prodotti Microsoft.
 
-I partner non di formazione possono acquistare corsi a prezzo pieno solo per la formazione interna. Se si vuole distribuire il contenuto all'esterno dell'organizzazione, è necessario un Microsoft Certified Trainer (1 MCT) e dovrà iscriversi al Action Pack di formazione.
+I partner non di formazione possono acquistare corsi a prezzo pieno solo per la formazione interna. Se si vuole distribuire il contenuto all'esterno dell'organizzazione, è necessario un Microsoft Certified Trainer (un MCT) e dovrà iscriversi al Action Pack di formazione.
 
 Una volta raggiunti gli indicatori KPI necessari, è possibile completare i requisiti aggiuntivi e scegliere di eseguire l'aggiornamento a un'opzione di apprendimento Silver/Gold.
 
@@ -109,7 +109,7 @@ Contattare il [supporto di Frontline partner](https://partner.microsoft.com/supp
 
 I report KPI vengono aggiornati una volta al mese durante la metà del mese. L'idoneità per il rinnovo del programma di formazione viene misurata per gli indicatori KPI ottenuti durante i 12 mesi precedenti dell'attività delle prestazioni, in base alla data di anniversario. Ad esempio, a partire dal 15 gennaio 2020, verranno visualizzati i dati KPI per il periodo di gennaio 2019 a dicembre 2019. Se la fattura ha avuto data di gennaio 2020, gli indicatori KPI corrispondenti sarebbero visibili a partire dal 15 febbraio 2019. **Le conferme di ordine e i report partner non verranno accettati.** Verranno accettate solo le fatture effettive.
 
-### <a name="q-does-a-one-day-training-equate-to-1-kpi"></a>Q. Un training di un giorno equivale a 1 indicatore KPI?
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>Q. Un training di un giorno equivale a un indicatore KPI?
 
 La riunione di un indicatore KPI non è correlata alla durata del training. Per altre informazioni su come misurare gli indicatori KPI, vedere gli esempi di prestazioni nella [Guida alla registrazione del partner di formazione](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
 

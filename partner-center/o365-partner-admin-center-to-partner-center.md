@@ -9,24 +9,19 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51dd9bc389077f4b472e2e13f1170214ad1d382d
-ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
+ms.openlocfilehash: 9e4f67bd7dcea1cc41a7e4400aa0624eb4dbada5
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97720816"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132707"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Partner dell'interfaccia di amministrazione di Office 365 partner: prepararsi per spostare le operazioni aziendali nel centro per i partner
-
-**Si applica a** 
-
-- Centro per i partner
-- Interfaccia di amministrazione partner di Office 365
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 - Agente amministratore
 - Agente di vendita
 

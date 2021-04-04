@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220329"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086193"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Report sulle sottoscrizioni di prodotto disponibile nel dashboard di partner Center Insights
 
 **Ruoli appropriati**
+
 - Amministratore globale
 - Agente amministratore
-- Visualizzatore report
-- Visualizzatore report Executive
+- Visualizzatore di report
+- Visualizzatore di report esecutivi
 
-Il report sottoscrizioni prodotto presenta analisi sulle sottoscrizioni cloud vendute o gestite per i clienti. Si tratta di un report specifico del prodotto che include le prestazioni delle sottoscrizioni associate ai prodotti cloud, ad esempio Office 365, Azure, Dynamics e così via.
+Il report sottoscrizioni prodotto presenta analisi sulle sottoscrizioni cloud vendute o gestite per i clienti. Si tratta di un report specifico del prodotto che include le prestazioni delle sottoscrizioni associate ai prodotti cloud, ad esempio Office 365, Azure, Dynamics e altri.
 
 È possibile visualizzare le sezioni seguenti del report sottoscrizioni prodotto.
 
@@ -44,7 +45,7 @@ La sezione Riepilogo presenta una visualizzazione snapshot degli indicatori di p
 
 :::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Riepilogo report sottoscrizioni":::
 
-Per ulteriori informazioni su ogni sezione del riepilogo, vedere di seguito.
+Per ulteriori informazioni su ogni sezione del riepilogo, vedere di seguito:
 
 - Sottoscrizioni:
   - Conteggio corrente delle sottoscrizioni di prodotti cloud vendute o gestite dall'utente.
@@ -70,7 +71,7 @@ Per ulteriori informazioni su ogni sezione del riepilogo, vedere di seguito.
 
 ## <a name="geographical-spread-of-subscriptions"></a>Distribuzione geografica delle sottoscrizioni
 
-La vista **sottoscrizioni in base alla geografia** Mostra la distribuzione geografica delle sottoscrizioni totali per i mercati dei clienti. L'importo totale delle sottoscrizioni include sia le sottoscrizioni vendute sia le sottoscrizioni attive.
+Le **sottoscrizioni in base** alla visualizzazione geography mostrano la distribuzione geografica delle sottoscrizioni totali per i mercati dei clienti. L'importo totale delle sottoscrizioni include sia le sottoscrizioni vendute sia le sottoscrizioni attive.
 
 Il **numero di paesi/area geografica** presenta il totale dei paesi/aree geografiche in cui sono presenti sottoscrizioni e la quantità per ogni paese di sottoscrizioni totali e attive.
 
@@ -88,13 +89,13 @@ L'istogramma a colonne in pila presenta una suddivisione delle sottoscrizioni nu
 
 ## <a name="subscription-distribution"></a>Distribuzione della sottoscrizione
 
-Questa visualizzazione presenta una suddivisione delle sottoscrizioni correnti in base alle località MPN, ai segmenti dei clienti, al modello di prezzo di canale di vendita/Azure e al tipo di attribuzione, ad esempio DPOR, DAP e così via. Fare clic sulle rispettive schede per visualizzare la suddivisione in base a queste categorie. Per compilare il grafico a torta con una suddivisione delle categorie di elementi specifiche, selezionare le categorie di elementi nella legenda.
+Questa visualizzazione presenta una suddivisione delle sottoscrizioni correnti in base alle località MPN, ai segmenti dei clienti, al modello di prezzo di canale di vendita/Azure e al tipo di attribuzione (ad esempio, DPOR, DAP e altri). Selezionare le rispettive schede per visualizzare la suddivisione in base a queste categorie. Per compilare il grafico a torta con una suddivisione delle categorie di elementi specifiche, selezionare le categorie di elementi nella legenda.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribuzione della sottoscrizione":::
 
 ## <a name="subscription-state-distribution"></a>Distribuzione dello stato della sottoscrizione
 
-Questa visualizzazione Mostra la distribuzione delle sottoscrizioni dei clienti correnti in base allo stato o allo stato della sottoscrizione. Sono inclusi gli Stati di sottoscrizione seguenti: **attivo**, **disabilitato**, sottoposta a **deprovisioning**, **aperto**, **InGracePeriod**, **chiuso**e **altro**.
+Questa visualizzazione Mostra la distribuzione delle sottoscrizioni dei clienti correnti in base allo stato o allo stato della sottoscrizione. Sono inclusi gli Stati di sottoscrizione seguenti: **attivo**, **disabilitato**, sottoposta a **deprovisioning**, **aperto**, **InGracePeriod**, **chiuso** e **altro**.
 
 :::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribuzione dello stato della sottoscrizione":::
 

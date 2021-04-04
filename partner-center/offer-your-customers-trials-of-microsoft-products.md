@@ -9,23 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53f4a16ac5d0f33fd534d7fd9a13eaf5a25cf3ea
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999215"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132332"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Concedi ai clienti una versione di valutazione gratuita di 30 giorni dei prodotti Microsoft
 
-**Si applica a**
-
-- Centro per i partner
-
 **Ruoli appropriati**
--   Amministratore globale 
--   Amministratore utenti
--   Agente di vendita
+
+- Amministratore globale
+- Amministratore gestione utenti
+- Agente di vendita
 
 Un modo efficace per presentare i clienti ai nuovi prodotti Microsoft è offrire versioni di valutazione gratuite di 30 giorni. È possibile iscriversi per le versioni di valutazione nel catalogo proprio come molti altri Servizi online. Tutti i partner.
 
@@ -54,12 +51,12 @@ Le licenze di valutazione devono essere assegnate agli utenti nello stesso modo 
 Ottenere una versione di valutazione per il cliente nel centro per i partner:
 
 1. Da **sell** nel centro per i partner passare a **Catalog**. 
-2. Nel catalogo, in **frequenza di fatturazione**, fare clic su **offerta di valutazione**. Questo consente di visualizzare solo le versioni di valutazione gratuite e di disabilitare altre offerte non gratuite. Le versioni di valutazione vengono visualizzate nella scheda **test** nel catalogo.
-3. Selezionare la versione di valutazione gratuita che si vuole offrire, quindi selezionare **Invia**. Tutte le versioni di valutazione sono per 30 giorni durante i quali non verrà addebitato alcun importo. È anche possibile convertirlo in una sottoscrizione a pagamento in qualsiasi momento durante la versione di valutazione.
+2. Nel catalogo, in **frequenza di fatturazione** selezionare **offerta di valutazione**. Questo consente di visualizzare solo le versioni di valutazione gratuite e di disabilitare altre offerte non gratuite. Le versioni di valutazione vengono visualizzate nella scheda **test** nel catalogo.
+3. Selezionare la versione di valutazione gratuita che si vuole offrire, quindi selezionare **Invia**. Tutte le versioni di valutazione sono di 30 giorni durante le quali non verrà addebitato alcun importo. È anche possibile convertirlo in una sottoscrizione a pagamento in qualsiasi momento durante la versione di valutazione.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Conversione di versioni di valutazione in sottoscrizioni a pagamento
 
-Una versione di valutazione gratuita non viene convertita automaticamente in una sottoscrizione a pagamento. Dopo trenta giorni, una versione di valutazione gratuita deve essere convertita in una sottoscrizione a pagamento o [scadrà](#expiring-offers). Non è possibile estendere le versioni di valutazione gratuite.
+Una versione di valutazione gratuita non viene convertita automaticamente in una sottoscrizione a pagamento. Dopo 30 giorni, una versione di valutazione gratuita deve essere convertita in una sottoscrizione a pagamento o [scadrà](#expiring-offers). Non è possibile estendere le versioni di valutazione gratuite.
 
 Dovrai convertire la versione di valutazione in una sottoscrizione a pagamento. Questa operazione può essere eseguita [tramite il centro](#convert-trials-using-partner-center) per i partner o [tramite le API del centro per i partner](#convert-trials-using-apis).
 
@@ -73,7 +70,7 @@ Dovrai convertire la versione di valutazione in una sottoscrizione a pagamento. 
 1. Visitare la pagina di sottoscrizione del cliente e selezionare la versione di valutazione gratuita.
 2. Selezionare **Converti versione di valutazione a sottoscrizione a pagamento**.
 3. Immettere la quantità di licenza e la frequenza di fatturazione desiderate e selezionare **applica**.
-4. La fatturazione per la sottoscrizione a pagamento inizia alla data di conversione e la sottoscrizione rinnova i dodici mesi dalla data di conversione. 
+4. La fatturazione per la sottoscrizione a pagamento inizia alla data di conversione e la sottoscrizione auto-rinnova i 12 mesi dalla data di conversione. 
 
 ### <a name="convert-trials-using-apis"></a>Convertire le versioni di valutazione usando le API
 
@@ -88,7 +85,7 @@ Non tutte le versioni di valutazione possono essere convertite in sottoscrizioni
 
 |**Versione di valutazione**   |**Offerte di piccole imprese compatibili**   |**Offerte aziendali compatibili**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Versione di valutazione del cloud commerciale Microsoft Teams (avviata dall'utente)   |Microsoft 365 Business Basic, Microsoft 365 Business standard, Microsoft 365 Business Premium   | F3 (in precedenza F1), Office 365 per Enterprise (E1, E3 e E5), M365 F1/F3, M365 Enterprise (E3)   |
+|Versione di valutazione del cloud commerciale Microsoft Teams (avviata dall'utente)   |Microsoft 365 Business Basic, Microsoft 365 Business standard, Microsoft 365 Business Premium   | F3 (in precedenza F1), Office 365 per Enterprise (E1, E3 e E5), Microsoft 365 F1/F3, Microsoft 365 Enterprise (E3)   |
 
 >[!NOTE]
 >Le offerte precedenti presentano piani di servizio simili con funzionalità simili, tuttavia potrebbero esserci alcune differenze tra le offerte.
@@ -107,7 +104,7 @@ La fatturazione annuale e le versioni di valutazione gratuite sono le stesse nei
 
 Le versioni di valutazione gratuite possono essere utilizzate sia per le sottoscrizioni mensili che annuali. È possibile selezionare la frequenza di fatturazione quando si converte la versione di valutazione in una sottoscrizione a pagamento.
 
-La data di inizio della sottoscrizione è basata sulla data di conversione. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione annuale, la data di rinnovo dell'abbonamento cade 12 mesi dopo la data di conversione. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione mensile, la data di rinnovo dell'abbonamento cade 12 mesi dopo la data di fatturazione successiva alla data di conversione.
+La data di inizio della sottoscrizione è basata sulla data di conversione. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione annuale, la data di rinnovo della sottoscrizione sarà di 12 mesi dalla data di conversione. Se la versione di valutazione gratuita viene convertita in un'offerta a pagamento con fatturazione mensile, la data di rinnovo dell'abbonamento cade 12 mesi dopo la data di fatturazione successiva alla data di conversione.
 
 ### <a name="invoices"></a>Fatture
 

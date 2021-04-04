@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712257"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103775"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campi del file di riconciliazione di acquisto monouso CSP
 
@@ -48,17 +48,17 @@ Per altre informazioni sui file di riconciliazione, vedere [usare i file di rico
 | Valuta | La fattura viene generata nel contesto della valuta del cliente. Questo significa che se sei un partner che opera con i clienti da valute fatturabili diverse, riceverai una fattura per ogni tipo di valuta del cliente.  | *EUR* |
 | PriceAdjustmentDescription | I motivi per le rettifiche nel prezzo unitario. Questi sono i motivi principali, ma non limitati alla determinazione del prezzo unitario effettivo. | *["15,0% del partner ha guadagnato il credito per i servizi gestiti"]* |
 | PublisherName | Autore del prodotto.  | *Microsoft* |
-| PublisherId | Identificatore univoco utilizzato dal centro per identificare il server di pubblicazione. | *NA* |
+| PublisherId | Identificatore univoco utilizzato dal centro per identificare il server di pubblicazione. | *N/D* |
 | SubscriptionDescription | Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. Questa colonna è un campo identico a Offername. | *Piano di Azure* |
 | SubscriptionId | Identificatore univoco per una sottoscrizione nella piattaforma di fatturazione Microsoft. Non utilizzato per la riconciliazione. Si noti che questo identificatore non corrisponde all'ID sottoscrizione nella console di amministrazione partner. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | Data in cui il centro per i partner addebita il costo della sottoscrizione. Se la sottoscrizione viene acquistata con un periodo di fatturazione annuale e un piano di fatturazione mensile, nel primo file di riconciliazione, questo è il giorno in cui viene acquistata la sottoscrizione. A partire dal successivo file di riconciliazione, verrà incrementato di 30 giorni. | *9/1/2020* |
-| ChargeEndDate | Giorno finale degli addebiti per il ciclo di fatturazione della sottoscrizione. Se la sottoscrizione viene acquistata con un periodo di fatturazione annuale e un piano di fatturazione mensile, nel primo file di riconciliazione, questo è il 30 ° giorno dopo l'acquisto della sottoscrizione. A partire dal successivo file di riconciliazione, verrà incrementato di 30 giorni. | *30/09/2020* |
+| ChargeStartDate | Data di inizio del periodo di fatturazione di una sottoscrizione. | *9/1/2020* |
+| ChargeEndDate | Data di scadenza del periodo di fatturazione di una sottoscrizione. | *30/09/2020* |
 | TermAndBillingCycle | Impegno di durata per continuare la sottoscrizione al momento dell'acquisto. | *Dati archiviati (GB/mese)* |
 | EffectiveUnitPrice | Prezzo unitario per calcolare il costo del ciclo di fatturazione. Gli sconti, le rettifiche nei giorni di fatturazione e altri fattori determinano il prezzo unitario effettivo. Per ulteriori informazioni, vedere [calcolo del prezzo unitario effettivo](./effective-unit-price-calculation.md).  | *0,03825* |
 | UnitType | Tipo di unità in cui viene addebitato il contatore. | *1 GB/mese* |
 | AlternateId | ID alternativo dell'elemento della riga di ordine a cui si fa riferimento. | *6dc5c039750a* |
 | BillableQuantity | Quantità totale fatturata.  | *0,005001* |
-| BillingFrequency | Piano di fatturazione selezionato al momento dell'acquisto. | *NA*  |
+| BillingFrequency | Piano di fatturazione selezionato al momento dell'acquisto. | *N/D*  |
 | PricingCurrency | La valuta usata nell'elenco prezzi. | *USD* |
 | PCToBCExchangeRate | Tasso di cambio applicato per la valuta di fatturazione ai prezzi. | *0,846202666* |
 | PCToBCExchangeRateDate | Data in cui viene determinata la valuta dei prezzi per la valuta di fatturazione. | *30/09/2020* |

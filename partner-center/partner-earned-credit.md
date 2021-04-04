@@ -9,19 +9,19 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
-ms.translationtype: HT
+ms.openlocfilehash: 5561c2e183c1dc50b573f89769da27317c83ba00
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556396"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086533"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Credito ottenuto dai partner: panoramica sul funzionamento della nuova esperienza commerciale in CSP
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 - Agente amministratore
 - Amministratore fatturazione
 - Agente di vendita
@@ -30,7 +30,7 @@ Il credito ottenuto dai partner nella nuova esperienza commerciale in CSP è un 
 
 La determinazione dei prezzi può essere un'operazione complessa per molti clienti e partner, soprattutto se si tiene conto delle migliaia di servizi in Azure e delle diverse opzioni per l'acquisto. Nella nuova esperienza commerciale di Azure sono stati adottati singoli principi globali di determinazione dei prezzi applicabili a tutte le transazioni. I partner CSP possono offrire Azure ai prezzi pubblicati. In questo modo si garantisce maggiore trasparenza ai clienti e si creano rapporti di fiducia.
 
-Le esigenze di trasformazione digitale dei clienti stanno determinando un cambiamento nella natura del valore offerto dai partner. Molti clienti richiedono ai partner di fornire servizi che vanno ben oltre le transazioni. Per poter sfruttare il cloud senza difficoltà e usare i servizi di Azure in modo efficiente. Questi servizi sono in fase di sviluppo e includono monitoraggio dell'ambiente Azure, gestione dei criteri e della governance, operazioni di configurazione e ottimizzazione, supporto tecnico e un'ampia gamma di altri servizi. 
+Le esigenze di trasformazione digitale dei clienti stanno determinando un cambiamento nella natura del valore offerto dai partner. Molti clienti richiedono ai partner di fornire servizi che vanno ben oltre le transazioni. Per poter sfruttare il cloud senza difficoltà e usare i servizi di Azure in modo efficiente. Questi servizi sono in corso e includono monitoraggio delle proprietà di Azure, gestione di criteri e governance, configurazione e configurazione dell'ottimizzazione, supporto tecnico e diversi altri servizi. 
 
 Questi servizi richiedono a un partner un'elevata familiarità con l'ambiente Azure del cliente, nonché governance e controllo continui e appropriati sulle risorse sottostanti gestite. I partner di fatturazione che forniscono questa attività di gestione delle operazioni cloud 24 ore su 24, 7 giorni su 7 saranno idonei per un **credito ottenuto dai partner per i servizi gestiti** nell'ambiente Azure dei clienti disciplinato e controllato dal partner.
 
@@ -51,7 +51,7 @@ Con il passaggio a piattaforme di cloud computing, i clienti devono affrontare l
 
 I tuoi clienti si rivolgono a te per un aiuto per ottenere il massimo dalla loro organizzazione ospitata in Azure. Con i servizi gestiti puoi fornire regolarmente ai tuoi clienti un servizio accurato. Vengono descritti di seguito alcune delle operazioni giornaliere e il supporto che potresti offrire:
 
-- **Operazioni cloud e servizi di gestione**: i clienti si rivolgono ai partner Microsoft per ridurre i costi in Azure mentre riproducono l'isolamento, i criteri di sicurezza e i modelli di controllo di cui dispongono attualmente. Pretendono inoltre che i partner abbiano accesso a strumenti avanzati per identificare l'idoneità del carico di lavoro, nonché la distribuzione in un'unica soluzione e i costi operativi continuativi di Azure. Inoltre, i clienti necessitano di supporto per l'automazione e l'orchestrazione, l'applicazione di patch, la gestione della configurazione, il backup e il ripristino di emergenza, nonché la gestione delle identità. 
+- **Operazioni cloud e servizi di gestione**: i clienti si rivolgono ai partner Microsoft per ridurre i costi in Azure mentre riproducono l'isolamento, i criteri di sicurezza e i modelli di controllo di cui dispongono attualmente. Si aspettano inoltre che i partner abbiano accesso a strumenti avanzati per identificare l'idoneità del carico di lavoro e la distribuzione monouso e i costi operativi in corso di Azure. Inoltre, i clienti necessitano di supporto per l'automazione e l'orchestrazione, l'applicazione di patch, la gestione della configurazione, il backup e il ripristino di emergenza, nonché la gestione delle identità. 
 
 - **Monitoraggio del cloud e supporto tecnico**: in un mondo che dipende fortemente dal cloud, gli strumenti e i requisiti si sono evoluti, ma l'interesse di trovare la risorsa appropriata per la gestione dell'infrastruttura IT non è cambiato. La maggior parte delle organizzazioni non dispone di sufficiente tempo, risorse o personale dedicato per monitorare ogni aspetto dell'infrastruttura IT ed è qui che subentra un partner affidabile. Sebbene Azure offra molte funzionalità di monitoraggio predefinite, sono necessari partner in grado di fornire ulteriori strumenti di monitoraggio sofisticati, di valutare i falsi positivi rispetto agli avvisi reali e di agire in modo proattivo a fronte degli avvisi prima che si verifichi un rallentamento apprezzabile delle prestazioni. 
 
@@ -62,7 +62,7 @@ I tuoi clienti si rivolgono a te per un aiuto per ottenere il massimo dalla loro
 
 - **Analisi dei log e invio di avvisi** : ogni client, dispositivo e utente che accede a una rete produce dati che vengono registrati. L'analisi dei log può offrire informazioni più approfondite su prestazioni, sicurezza, uso delle risorse e altre metriche significative.
 
-- **Monitoraggio dei database**: un esame del database del cliente che consente ai partner di garantire la disponibilità elevata dei server di database. Il processo implica la conservazione di log delle dimensioni, del tempo di connessione e degli utenti dei database, l'analisi delle tendenze di utilizzo e l'uso dei dati per una correzione proattiva dei problemi.
+- **Monitoraggio dei database**: un esame del database del cliente che consente ai partner di garantire la disponibilità elevata dei server di database. Il processo implica la conservazione dei log delle dimensioni, del tempo di connessione e degli utenti dei database, l'analisi delle tendenze di utilizzo e l'utilizzo dei dati per correggere in modo proattivo i problemi.
 
 - **Monitoraggio delle prestazioni delle app**: rilevamento end-to-end di tutti gli aspetti di un'applicazione o di una pagina Web. Il monitoraggio delle app comporta l'analisi di ogni aspetto delle app di un cliente, dai carrelli acquisti alle pagine di registrazione, per rilevare problemi di prestazioni e offrire la migliore esperienza utente possibile.
 

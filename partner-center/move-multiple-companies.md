@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000075"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132656"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Trasferimento di più aziende al centro per i partner da partner Membership Center (PMC)
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 - Agente amministratore
 - Agente di vendita
 
@@ -80,7 +80,7 @@ I dettagli sono basati sulle informazioni in PMC e verranno verificati per garan
 
 Se l'account in corso di trasferimento si trova nello stesso paese o area geografica dell'account esistente, è possibile decidere se si intende usare tale indirizzo o aggiungerne un altro. Se si decide di usare un indirizzo diverso, l'indirizzo verrà verificato. Se si intende usare lo stesso indirizzo, verrà usato l'indirizzo esistente e il contatto principale.
 
-Dopo aver verificato o modificato le informazioni in questa schermata, fare clic su Invia per consolidare gli account.
+Dopo aver verificato/modificato le informazioni in questa schermata, selezionare **Invia** e gli account verranno consolidati.
 
 ## <a name="partner-profile"></a>Profilo partner
 

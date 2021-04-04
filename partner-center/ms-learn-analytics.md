@@ -9,18 +9,19 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42c7af80ab49cee6e7043587207e553d2ffaa3ac
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92333813"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132316"
 ---
-# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Il report Microsoft Learn Analytics mostra lo stato degli strumenti di apprendimento nell'azienda
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Report di analisi di Microsoft Learn che mostra lo stato degli studenti nella società
 
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore dei partner MPN
+
+- Amministratore globale
+- Amministratore dei partner MPN
 
 Il report Microsoft Learn fornisce informazioni sugli appresori dell'azienda, inclusi i moduli completati e i percorsi di apprendimento in cui si trovano. Il report Visualizza lo stato di ogni singolo discente. L'amministratore globale e l'amministratore MPN per l'azienda possono visualizzare i dati.
 
@@ -31,7 +32,7 @@ Il report Microsoft Learn fornisce informazioni sugli appresori dell'azienda, in
 Questi grafici riepilogano i conteggi e le tendenze cumulative mensili per gli utenti con training, i completamenti dei moduli e i percorsi di apprendimento.
 
 
-**Numero di utenti**sottoposti a training: numero di tutti gli autori distinti che hanno completato almeno un modulo durante l'intervallo di date selezionato 
+**Numero di utenti** sottoposti a training: numero di tutti gli autori distinti che hanno completato almeno un modulo durante l'intervallo di date selezionato 
 
 **Grafico di tendenza dei singoli utenti con training**: conteggio cumulativo mensile rispetto al mese degli studenti attivi 
 
@@ -73,7 +74,7 @@ L' **asse Y** corrisponde al numero di completamenti dei moduli in quel mese. Qu
 
 **Scheda modulo**
 
-Questa scheda include la suddivisione dei moduli completati nell'azienda dai primi 5 nomi di modulo; prodotto a cui è associato il modulo. e il ruolo utente pertinente per il modulo.  
+Questa scheda include la suddivisione dei moduli completati nell'azienda dai primi cinque nomi di modulo; prodotto a cui è associato il modulo. e il ruolo utente pertinente per il modulo.  
 
 - Grafico ad anello completamenti modulo: suddivisione dei completamenti dei moduli (conteggio visualizzato nella sezione di riepilogo) dai nomi dei moduli.
 
@@ -89,7 +90,7 @@ Il numero visualizzato al centro del grafico è il numero di prodotti distinti p
 
 **Scheda percorso di apprendimento**   
 
-Questa scheda include una suddivisione dei percorsi di apprendimento completati nell'azienda dai primi 5 nomi di modulo; prodotto a cui è stato eseguito il mapping del percorso di apprendimento. e il ruolo pertinente per questo percorso di apprendimento.  
+Questa scheda include una suddivisione dei percorsi di apprendimento completati nell'azienda dai primi cinque nomi di modulo; prodotto a cui è stato eseguito il mapping del percorso di apprendimento. e il ruolo pertinente per questo percorso di apprendimento.  
 
 - Grafici ad anello completamenti dei percorsi di apprendimento: suddivisione dei completamenti del percorso di apprendimento (conteggio visualizzato nella sezione di riepilogo) in base al nome.
 
@@ -101,7 +102,7 @@ Questa scheda include una suddivisione dei percorsi di apprendimento completati 
 
 Verranno elencati gli utenti con training nell'azienda e i dettagli relativi ai moduli e ai percorsi di apprendimento completati.
 
-Microsoft Learn identifica gli Learner con un ID oggetto utente. Nella **scheda moduli**tutti gli learners sono ordinati in base ai moduli completati. Vengono visualizzati con il nome utente Microsoft Learn, l'ID oggetto e il numero di moduli. È possibile eseguire la ricerca usando username. 
+Microsoft Learn identifica gli Learner con un ID oggetto utente. Nella **scheda moduli** tutti gli learners sono ordinati in base ai moduli completati. Vengono visualizzati con il nome utente Microsoft Learn, l'ID oggetto e il numero di moduli. È possibile eseguire la ricerca usando username. 
 
 Nella **scheda percorsi di apprendimento** tutti gli apprendimento ordinati per percorsi di apprendimento completati vengono visualizzati con il nome visualizzato, l'ID oggetto e il numero di moduli dello Learner.
 
@@ -131,7 +132,7 @@ Dopo che l'amministratore globale ha aggiunto un nuovo utente, l'utente deve pas
 
 3. È possibile visualizzare tutti gli utenti della società che accedono a Microsoft Learn con un account MSA in questo report?
 
-Attualmente, il modo migliore per eseguire questa operazione consiste nell'aggiungere questi utenti al tenant di Azure AD e aggiungerli al centro per i partner, in modo che possano associare il proprio account di Microsoft Learn tramite il **profilo personale** nel centro per i partner. 
+Attualmente, il modo migliore per eseguire questa operazione consiste nell'aggiungere questi utenti al tenant di Azure AD e quindi aggiungerli al centro per i partner, in modo che possano associare il proprio account di Microsoft Learn tramite il **profilo personale** nel centro per i partner. 
 
 Per gli utenti che usano solo il proprio account MSA per il training, nel prossimo futuro il team di Microsoft Learn consentirà di associare il proprio indirizzo di posta elettronica aziendale al proprio profilo di Microsoft Learn. 
 

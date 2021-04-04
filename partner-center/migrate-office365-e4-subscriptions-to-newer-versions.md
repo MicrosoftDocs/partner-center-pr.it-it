@@ -9,24 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbd2aceac62a7e726ed81a78305ea23213c94156
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949050"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132622"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrazione degli abbonamenti Office 365 E4 alle nuove versioni di Office 365
 
-**Si applica a**
-
--  Centro per i partner
-
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Agente amministratore
--   Agente di vendita
+
+- Amministratore globale
+- Amministratore gestione utenti
+- Agente amministratore
+- Agente di vendita
 
 Il piano Office 365 Enterprise E4 è stato ritirato, a partire dal 7 aprile 2017. Non è più possibile acquistare nuove sottoscrizioni di Office 365 E4 dopo questa data e le sottoscrizioni E4 esistenti non verranno rinnovate automaticamente alla scadenza.
 
@@ -87,7 +84,7 @@ Seguire questa procedura per eseguire la migrazione della sottoscrizione di Offi
 
 1. Dal menu **centro** per i partner selezionare **Customers**, selezionare il cliente che si desidera spostare e quindi selezionare **utenti e licenze**. Verrà visualizzata la pagina utenti e licenze del cliente.
 
-2. Per riassegnare le licenze utente, seleziona l'utente da riassegnare e quindi seleziona **Gestisci licenze**.
+2. Per riassegnare le licenze utente, selezionare l'utente da riassegnare, quindi selezionare **Gestisci licenze**.
 
 3. Nella pagina **Gestisci licenze** deselezionare la casella di controllo licenza di **Office 365 Enterprise E4** e selezionare un nuovo piano di servizio per la sottoscrizione a cui il cliente sta migrando.
 
@@ -99,7 +96,7 @@ Dopo aver spostato le licenze utente nel nuovo servizio, è possibile annullare 
 
 ### <a name="step-3---cancel-the-old-subscription"></a>Passaggio 3: annullare la sottoscrizione precedente
 
-1. Scegliere **clienti**dal menu **centro partner** . Selezionare il cliente da spostare e selezionare la sottoscrizione che si vuole annullare.
+1. Scegliere **clienti** dal menu **centro partner** . Selezionare il cliente da spostare e selezionare la sottoscrizione che si vuole annullare.
 
 2. Nella pagina Dettagli sottoscrizione impostare lo stato della sottoscrizione su **sospeso**.
 
@@ -109,7 +106,7 @@ La sottoscrizione precedente viene sospesa e la nuova sottoscrizione è attiva. 
 
 
 
- 
+ 
 
 
 

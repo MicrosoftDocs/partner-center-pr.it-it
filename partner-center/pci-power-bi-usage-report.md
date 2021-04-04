@@ -8,20 +8,21 @@ description: Scopri cosa stai facendo e dove puoi migliorare l'uso di Power BI s
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 03224c029104101c2187d07bfce720294e43cf88
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146704"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086295"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Power BI disponibile dal dashboard di partner Center Insights
 
 **Ruoli appropriati**
+
 - Amministratore globale
 - Agente amministratore
-- Visualizzatore report
-- Visualizzatore report Executive
+- Visualizzatore di report
+- Visualizzatore di report esecutivi
 
 Il report utilizzo Power BI fornisce i dati di utilizzo per le sottoscrizioni Power BI vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report sull'utilizzo del Power BI.
 

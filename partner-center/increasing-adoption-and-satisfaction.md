@@ -9,24 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691368"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178936"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Usare le metriche nel centro per i partner per aumentare l'adozione e la soddisfazione
-
-**Si applica a**
-
-- Centro per i partner
-- Programma Cloud Solution Provider
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 - Agente amministratore
 - Agente di vendita
 
@@ -61,7 +56,7 @@ Puoi vedere i dati per tutti i tuoi clienti tramite il programma Cloud Solution 
 
 Terminologia:
 
-- **Diritto** = licenza che l'utente è autorizzato a utilizzare (non è sospeso per frode o non pagamento, non è stato aggiornato a una licenza diversa, non è stato annullato dall'utente e così via).
+- **Diritto** = licenza che l'utente è autorizzato a utilizzare (non è sospeso per frode o non pagamento, non è stato aggiornato a una licenza diversa, non è stato annullato dall'utente o da un altro problema).
 
 - **Active** = se l'utente sottoscritto ha utilizzato il diritto per un'attività negli ultimi 28 giorni di calendario.
 
@@ -77,7 +72,7 @@ Terminologia:
 
   - Se il cliente usa una sottoscrizione di prova, l'attività viene conteggiata ma la sottoscrizione non viene inclusa nei conteggi del totale dei diritti.
 
-  - Se alcuni clienti usano Yammer molto di più di quanto autorizzato dalla loro licenza, i dati possono essere notevolmente distorti.
+  - Se alcuni clienti usano Yammer in modo significativo rispetto a quanto hanno diritto con la loro licenza, possono inclinare drasticamente i dati.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

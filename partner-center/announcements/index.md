@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.date: 04/01/2021
+ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730060"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280854"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
 Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste informazioni vengono aggiornate di frequente, pertanto è importante consultarle di frequente.
 
-|**Categoria**|**Annunci 2021 di marzo**|**Annunciato**|
+|**Categoria**|**Annunci di aprile 2021**|**Annunciato**|
 |---------|:---------|:---------|
+|Funzionalità|[Modifiche apportate ai requisiti di onboarding dei clienti Cloud Solution Provider (CSP)](2021-april.md#2)|2 aprile|
+|Funzionalità|[Visualizza i lanci e le offerte del prodotto di questo mese](2021-april.md#1)|1 aprile|
+|**Categoria**|**Annunci 2021 di marzo**|**Annunciato**|
+|Funzionalità|[API di convalida degli indirizzi dei clienti CSP aggiornata ora disponibile per il test](2021-march.md#18)|31 marzo|
 |Offerte/area di lavoro moderna|[Nuova esperienza dell'interfaccia di amministrazione di Exchange (EAC)](2021-march.md#17)|29 marzo|
 |Offerte/area di lavoro moderna|[Microsoft Operations: Introduzione al calendario di avvio del prodotto](2021-march.md#16)|25 marzo|
 |Funzionalità|[Modifiche ai requisiti di onboarding dei clienti CSP](2021-march.md#15)|25 marzo|

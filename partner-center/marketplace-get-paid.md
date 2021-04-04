@@ -1,21 +1,22 @@
 ---
 title: Pagamento nel centro per i partner
 description: Scopri come ricevere i pagamenti per i guadagni come partner Microsoft, ad esempio tramite offerte per Marketplace commerciali, programmi incentive e il programma Cloud Solution Provider. Include i criteri di pagamento, lo stato dei pagamenti e le istruzioni di pagamento.
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492450"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133081"
 ---
 # <a name="getting-paid-in-partner-center"></a>Pagamento nel centro per i partner
 
-**Ruoli appropriati:**
+**Ruoli appropriati**
 
 - Amministratore degli account
 - Amministratore globale
@@ -30,7 +31,7 @@ Per ricevere i pagamenti, è necessario rispettare i contratti e i criteri di pa
 - Il [criterio](payout-policy-details.md) di pagamento Mostra i criteri di pagamento pagamenti, inclusi i metodi di pagamento e la pianificazione dei pagamenti. Il criterio spiega anche il processo per i pagamenti non effettuati dai clienti.
 - I [Dettagli delle](tax-details-marketplace.md) imposte illustrano la considerazione fiscale per la selezione dei prezzi e la responsabilità fiscale nel [Contratto Microsoft Publisher](https://go.microsoft.com/fwlink/p/?LinkID=699560).
 - Le **tariffe di archiviazione** sono definite ufficialmente nel contratto di pubblicazione. La tariffa di archiviazione viene applicata a tutte le vendite di offerte raccolte dal Marketplace commerciale, inclusi i componenti aggiuntivi.
-- I **pagamenti** vengono effettuati su base mensile (purché sia stata soddisfatta la soglia di pagamento). Viene in genere inviato un pagamento dovuto a un determinato mese entro il 15 ° giorno del mese. I pagamenti in genere importano da 3 a 10 giorni lavorativi aggiuntivi per raggiungere l'account di pagamento. Per informazioni dettagliate, vedere [Soglie, metodi e intervalli di pagamento](payment-thresholds-methods-timeframes.md).
+- I **pagamenti** vengono effettuati su base mensile (purché sia stata soddisfatta la soglia di pagamento). In genere si inviano pagamenti a causa di un determinato mese entro il 15 ° giorno del mese. I pagamenti in genere importano da 3 a 10 giorni lavorativi aggiuntivi per raggiungere l'account di pagamento. Per informazioni dettagliate, vedere [Soglie, metodi e intervalli di pagamento](payment-thresholds-methods-timeframes.md).
 
 ## <a name="prerequisite-steps-before-getting-paid"></a>Passaggi prerequisiti prima di ricevere il pagamento
 

@@ -8,18 +8,18 @@ description: Usare il Centro per i partner per eseguire transazioni commerciali 
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582649"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132248"
 ---
 # <a name="what-is-partner-center"></a>Informazioni sul Centro per i partner
 
-##### <a name="appropriate-roles"></a>Ruoli appropriati
+**Ruoli appropriati**
 
-- Tutti i partner interessati nel Centro per i partner
+- Tutti i partner interessati al centro per i partner
 
 Il [Centro per i partner](https://partner.microsoft.com/dashboard/home) ottimizza alcuni processi aziendali per facilitare la gestione delle relazioni dei partner Microsoft con Microsoft e con i clienti. Il Centro per i partner consente di accedere facilmente agli strumenti necessari per svolgere varie attività. Usare il Centro per i partner per:
 
@@ -53,7 +53,7 @@ All'interno del centro per i partner è possibile acquistare un Action Pack Micr
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Co-selling con Microsoft e altri partner
 
-La co-selling è il percorso dei partner a vendere congiuntamente con Microsoft e altri partner per collaborare, vendere in modo più efficace e ottenere risultati positivi per i clienti. La co-selling ti permette di sfruttare il marchio globale Microsoft, i team di vendita, le funzionalità di generazione della domanda e il Marketplace commerciale per raggiungere i nuovi clienti in tutto il mondo. Vendi con altri partner e con noi. Per altre informazioni, vedere [gestire le opportunità di co-selling](manage-co-sell-opportunities.md).
+La co-selling è il percorso dei partner a vendere congiuntamente con Microsoft e altri partner per collaborare, vendere in modo più efficace e ottenere risultati positivi per i clienti. La co-selling ti permette di usare il marchio globale Microsoft, i team di vendita, le funzionalità di generazione della domanda e il Marketplace commerciale per raggiungere i nuovi clienti in tutto il mondo. Vendi con altri partner e con noi. Per altre informazioni, vedere [gestire le opportunità di co-selling](manage-co-sell-opportunities.md).
 
 ## <a name="manage-customer-software-needs"></a>Gestire le esigenze del software cliente
 

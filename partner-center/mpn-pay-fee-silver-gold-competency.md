@@ -8,19 +8,19 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101757394"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132486"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Come pagare la tariffa associata a una competenza Silver o Gold
 
 **Ruoli appropriati**
 
 - Amministratore dei partner MPN
-- Amministratore account MPN
+- Amministratore degli account
 
 Questo articolo descrive come e quando pagare la tariffa associata al raggiungimento di una competenza Silver o Gold Microsoft Partner Network. Questo articolo descrive anche come modificare il metodo di pagamento preferito, come annullare un ordine e come ricevere uno sconto del 25% per il passaggio da una competenza Silver a Gold.
 

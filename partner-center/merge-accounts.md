@@ -2,20 +2,22 @@
 title: Unire l'account partner con un altro account partner
 description: Informazioni su come unire l'account partner con un altro account partner nel centro per i partner, per le aziende che sono partner Microsoft attivi nel centro per i partner.
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182597"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133064"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unire l'account partner con un altro account partner
 
-**Ruoli applicabili**
+**Ruoli appropriati**
 
 - Amministratore degli account
 
@@ -65,7 +67,7 @@ Se si decide di accettare l'invito per l'Unione degli account: · Gli ID e le lo
 
   - Competenza: la società partner riceverà un pacchetto di vantaggi di base, associato al raggiungimento più elevato, oltre a vantaggi specifici per la competenza, il partner è idoneo per l'account globale per partner.
 
-- Tutti i vantaggi sono soggetti alla [Guida all'utilizzo di Microsoft Partner Network benefits](https://aka.ms/partner-benefits-use-guide). Ad esempio, un token O365 E3 attivato è funzionante per dodici (12) mesi dopo l'attivazione. Una volta che un token è stato attivato per le licenze in un tenant, tali licenze potrebbero non essere spostate in un altro tenant.
+- Tutti i vantaggi sono soggetti alla [Guida all'utilizzo di Microsoft Partner Network benefits](https://aka.ms/partner-benefits-use-guide). Ad esempio, un token O365 E3 attivato è funzionante per 12 mesi dopo l'attivazione. Una volta che un token è stato attivato per le licenze in un tenant, tali licenze potrebbero non essere spostate in un altro tenant.
 
 - Le associazioni MCP ID per entrambe le aziende verranno mantenute e associate all'ID MPN PGA.
 
@@ -77,7 +79,7 @@ Se si decide di accettare l'invito per l'Unione degli account: · Gli ID e le lo
 
 - Tutti i voucher Software Assurance vengono conservati in entrambi gli account. 
 
-- Non vi è alcun effetto sull'associazione DPOR o PAL. Tutti i contributi di ricavi associati inizieranno a fluire nel nuovo account globale del partner
+- Non vi sono effetti sull'associazione DPOR o PAL. Tutti i contributi di ricavi associati inizieranno a fluire nel nuovo account globale del partner
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Invita una società a unire il proprio account del centro per i partner con l'account del centro per i partner
 
@@ -94,33 +96,33 @@ Se si decide di accettare l'invito per l'Unione degli account: · Gli ID e le lo
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Esempio di due società che uniscono account
 
-1. Contoso 
+1. Contoso, Ltd. ha 
 
     a. un [ID MPN globale 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) e uno [degli ID MPN della località](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)subordinata 2222222.
   
     b. un tenant Azure AD = @contoso.com
  
     c. una competenza Gold che scade il 1 ° ottobre 2020
-2. Fabricat ha
+2. Fabrikam, Inc.
  
     a.  un ID MPN globale 3333333 e due ID MPN della posizione subordinata 4444444 e 5555555
 
-    b.  un tenant Azure AD = @fabricam.com
+    b.  un tenant Azure AD = @fabrikam.com
 
     c.  due competenze Gold che scadono il 1 ° dicembre 2020
-3.  Contoso Acquista fabricat e passa [qui](https://partner.microsoft.com/dashboard/account/merger) per avviare una richiesta di merge.
-4.  Fabricat accede al centro per i partner e passa alla stessa pagina di Contoso nel passaggio #3 per approvare la richiesta di contoso.
+3.  Contoso Acquista Fabrikam e passa [qui](https://partner.microsoft.com/dashboard/account/merger) per avviare una richiesta di merge.
+4.  Fabrikam accede al centro per i partner e passa alla stessa pagina di Contoso nel passaggio #3 per approvare la richiesta di contoso.
 5.  Contoso esamina i dettagli del merge nella stessa pagina e fornisce la conferma per procedere con la fusione degli account.
 6.  Dopo la fusione, l'account aziendale viene visualizzato come:
 
     a.  Una società denominata Contoso con un ID MPN globale 1111111 e 4 ID MPN della posizione subordinata 2222222, 3333333, 4444444 e 5555555
     
-    b.  Avrà due Azure AD tenant ( @contoso.com + @fabricam.com ) che hanno accesso allo stesso account del centro per i partner
+    b.  Avrà due Azure AD tenant ( @contoso.com + @fabrikam.com ) che hanno accesso allo stesso account del centro per i partner
     
     c.  Avranno due pacchetti di vantaggi per la competenza, uno che scade il 1 ° ottobre 2020 e un altro che scade il 1 ° dicembre 2020. Saranno in grado di eseguire il rinnovo come singolo pacchetto di vantaggi per la competenza il 1 ° dicembre 2020. Quando si rinnovano, contoso manterrà tutte e tre le competenze anche se è in grado di gestire un unico pacchetto di vantaggi.
     
-7.  Gli amministratori di Contoso continueranno a gestire i ruoli del centro per i partner per @contoso.com gli utenti. Gli amministratori di fabricator continueranno a gestire i ruoli del centro per i partner per @fabricam.com gli utenti. Gli amministratori di Contoso possono amministrare solo gli utenti di fabricat se vengono invitati come Guest nel tenant di fabricat.
-8.  Contoso potrebbe decidere di ignorare il @fabricam.com tenant ed eseguire nuovamente le nuove credenziali dei dipendenti @contoso.com di fabrican con nuovi ruoli e autorizzazioni.
+7.  Gli amministratori di Contoso continueranno a gestire i ruoli del centro per i partner per @contoso.com gli utenti. Gli amministratori di Fabrikam continueranno a gestire i ruoli del centro per i partner per @fabrikam.com gli utenti. Gli amministratori di Contoso possono amministrare gli utenti di Fabrikam solo se vengono invitati come Guest nel tenant di Fabrikam.
+8.  Contoso potrebbe decidere di ignorare il @fabrikam.com tenant ed eseguire nuovamente le nuove credenziali dei dipendenti Fabrikam @contoso.com con nuovi ruoli e autorizzazioni.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

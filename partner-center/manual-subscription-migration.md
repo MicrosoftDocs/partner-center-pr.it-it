@@ -9,24 +9,21 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8575d87ab3c4c7970135a87b7ef7564c4fe06232
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 363c97b8c2b62e8d6b62cbe3b2807fb3c0ef3e38
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436850"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132741"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Eseguire la migrazione di Dynamics 365 ed Enterprise Plan da Basic (qualificate offerte) alle versioni più recenti
 
-**Si applica a**
-
--  Centro per i partner
-
 **Ruoli appropriati**
--   Amministratore globale
--   Amministratore utenti
--   Agente amministratore
--   Agente di vendita
+
+- Amministratore globale
+- Amministratore gestione utenti
+- Agente amministratore
+- Agente di vendita
 
 A partire dal 1 ° gennaio 2019, i clienti con Dynamics 365 per il piano Sales/Customer Engagement dalle sottoscrizioni Basic (offerte qualificate) non possono più rinnovare tali offerte legacy; le sottoscrizioni esistenti non verranno rinnovate automaticamente alla scadenza. Nella pagina dei dettagli della sottoscrizione, lo stato della sottoscrizione cambierà in "scade in data [DATE]" da "auto renews on [DATE]". 
 
@@ -44,10 +41,10 @@ Se si usa l'API (CREST o centro per i partner), è possibile trovare le sottoscr
 - Dynamics 365 for Sales Enterprise Edition di SA per CRM Basic (offerta qualificata) per i docenti
 - Dynamics 365 for Sales Enterprise Edition di SA per CRM Basic (offerta qualificata) per studenti
 - Dynamics 365 for Sales Enterprise Edition (prezzi per enti pubblici) di SA per CRM Basic (offerta qualificata)
-- Componente aggiuntivo Dynamics 365 for Sales Enterprise Edition per CRM Basic (offerta qualificata)
-- Componente aggiuntivo Dynamics 365 for Sales Enterprise Edition per CRM Basic (offerta qualificata) per i docenti
-- Componente aggiuntivo Dynamics 365 for Sales Enterprise Edition per CRM Basic (offerta qualificata) per studenti
-- Componente aggiuntivo Dynamics 365 for Sales Enterprise Edition (prezzi per enti pubblici) per CRM Basic (offerta qualificata)
+- Dynamics 365 for Sales Enterprise Edition Add-On per CRM Basic (offerta qualificata)
+- Dynamics 365 for Sales Enterprise Edition Add-On per CRM Basic (offerta qualificata) per i docenti
+- Dynamics 365 for Sales Enterprise Edition Add-On per CRM Basic (offerta qualificata) per studenti
+- Dynamics 365 for Sales Enterprise Edition (prezzi per enti pubblici) Add-On per CRM Basic (offerta qualificata)
 - Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (offerta qualificata)
 - Dynamics 365 Customer Engagement Plan Enterprise Edition (prezzi per enti pubblici) CRMOL Basic (offerta qualificata)
 - Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (offerta qualificata) per studenti
@@ -56,10 +53,10 @@ Se si usa l'API (CREST o centro per i partner), è possibile trovare le sottoscr
 - Dynamics 365 Customer Engagement Plan Enterprise Edition (prezzi per enti pubblici) di SA per CRM Basic (offerta qualificata)
 - Dynamics 365 Customer Engagement Plan Enterprise Edition di SA per CRM Basic (offerta qualificata) per studenti
 - Dynamics 365 Customer Engagement Plan Enterprise Edition di SA per CRM Basic (offerta qualificata) per i docenti
-- Componente aggiuntivo Dynamics 365 Customer Engagement Plan Enterprise Edition per CRM Basic (offerta qualificata)
-- Dynamics 365 Customer Engagement Plan Enterprise Edition (prezzi per enti pubblici) componente aggiuntivo per CRM Basic (offerta qualificata)
-- Componente aggiuntivo Dynamics 365 Customer Engagement Plan Enterprise Edition per CRM Basic (offerta qualificata) per studenti
-- Componente aggiuntivo Dynamics 365 Customer Engagement Plan Enterprise Edition per CRM Basic (offerta qualificata) per i docenti
+- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On per CRM Basic (offerta qualificata)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition (prezzi per enti pubblici) Add-On per CRM Basic (offerta qualificata)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On per CRM Basic (offerta qualificata) per studenti
+- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On per CRM Basic (offerta qualificata) per i docenti
 
 
 
@@ -107,9 +104,9 @@ Dopo aver spostato le licenze nella nuova sottoscrizione, è possibile annullare
 2. Nella pagina Dettagli sottoscrizione impostare la sottoscrizione precedente su **sospesa** e selezionare **Invia**.
 
 La sottoscrizione precedente è ora sospesa e la nuova sottoscrizione è attiva. Il deprovisioning della sottoscrizione sospesa verrà effettuato automaticamente dopo 120 giorni. Il cliente non comporterà costi aggiuntivi per la sottoscrizione precedente.
- 
+ 
 
- 
+ 
 
 
 

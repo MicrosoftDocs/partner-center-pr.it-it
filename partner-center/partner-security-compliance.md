@@ -9,20 +9,20 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624154"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086550"
 ---
 # <a name="security-requirements-status-report"></a>Report di stato dei requisiti di sicurezza
 
 **Ruoli appropriati**
-- Fornitori del pannello di controllo
-- Amministratori globali
+- Amministratore CPV
+- Amministratore globale
 
-Questo articolo descrive il report di stato dei requisiti di sicurezza disponibile nel Centro per i partner. Il report fornisce metriche sulla conformità ai [requisiti di sicurezza dei partner](partner-security-requirements.md) per l'autenticazione a più fattori per gli utenti esistenti nel tenant partner.
+Questo articolo descrive il report di stato dei requisiti di sicurezza disponibile nel Centro per i partner. Questo report fornisce le metriche sulla conformità ai [requisiti di sicurezza dei partner](partner-security-requirements.md) per multi-factor authentication per gli utenti nel tenant partner.
 
 Per accedere a questo report nel centro per i [partner](https://partner.microsoft.com/dashboard), passare a **Impostazioni**  >  **account impostazioni** di  >  **sicurezza stato dei requisiti**. Il report viene aggiornato ogni giorno e riflette i dati di accesso degli ultimi sette giorni.
 
@@ -53,7 +53,7 @@ La metrica **Through Partner Center portal** (Tramite il portale del Centro per 
 - Il secondo giorno John ha eseguito l'accesso al dashboard Partner Center senza verifica MFA e ha effettuato cinque operazioni.
 - Il terzo giorno Jane ha eseguito l'accesso al dashboard Partner Center con verifica MFA e ha effettuato due operazioni.
 - Nei restanti quattro giorni non è stata effettuata alcuna operazione dagli agenti.
-- Delle dieci operazioni effettuate nella finestra di sette giorni, due sono state effettuate dall'utente con verifica MFA. Di conseguenza, la metrica indica il 20%.
+- Le 10 operazioni eseguite nella finestra di sette giorni, due sono state effettuate dall'utente con verifica dell'autenticazione a più fattori. Di conseguenza, la metrica indica il 20%.
 
 Usa il file **Richieste portale senza MFA** per sapere quale utente ha eseguito l'accesso al dashboard Partner Center senza avere la verifica MFA e l'ora dell'ultima visita durante la finestra di reporting.
 
@@ -82,7 +82,7 @@ Se vuoi sapere quali sono le attività app+utente che determinano il non 100% di
 
 ### <a name="implemented-mfa-for-your-partner-tenant"></a>Autenticazione a più fattori implementata per il tenant partner
 
-Per ottenere la conformità, è necessario implementare l'autenticazione a più fattori per il tenant partner. Per informazioni dettagliate su come implementare l'autenticazione a più fattori, vedere [Requisiti di sicurezza per l'uso del Centro per i partner o delle API del Centro per i partner](partner-security-requirements.md).
+È necessario implementare l'autenticazione a più fattori per il tenant partner per raggiungere la conformità. Per informazioni dettagliate su come implementare l'autenticazione a più fattori, vedere [Requisiti di sicurezza per l'uso del Centro per i partner o delle API del Centro per i partner](partner-security-requirements.md).
 
 >[!NOTE]
 > Le metriche dell'autenticazione a più fattori vengono calcolate su base giornaliera e prendono in considerazione le operazioni eseguite negli ultimi sette giorni. Se l'implementazione dell'autenticazione a più fattori per il tenant partner è stata completata solo di recente, è possibile che le metriche non indichino ancora un valore pari al 100%.

@@ -9,25 +9,25 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880770"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178953"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore utenti
+- Amministratore gestione utenti
 - Agente amministratore
 - Agente di vendita
 
 Grazie a un Marketplace di tecnologia così complesso e in rapida evoluzione, i clienti desiderano il vantaggio competitivo che può essere fornito dalle soluzioni tecnologiche. In un ambiente di questo tipo, è opportuno che i partner investano nel coinvolgimento tra partner e partner per estendere le offerte e consentire ai clienti di eseguire ancora di più.
 
-I nuovi rivenditori entrano nel mercato e cercano modi per offrire le proprie soluzioni ai clienti all'esterno dei propri mercati e impostazioni locali. In qualità di provider di tecnologie stabilito, l'utente è ben posizionato in modo da essere instradato al mercato. Partner con rivenditori indiretti nel programma Cloud Solution Provider (CSP) per connettersi ad altri partner, offrire nuove soluzioni al mercato e promuovere l'adozione dei servizi cloud da parte dei clienti.
+I nuovi rivenditori entrano nel mercato e cercano modi per offrire le proprie soluzioni ai clienti all'esterno dei propri mercati e impostazioni locali. In qualità di provider di tecnologie stabilito, l'utente è posizionato in modo da essere instradato al mercato. Partner con rivenditori indiretti nel programma Cloud Solution Provider (CSP) per connettersi ad altri partner, offrire nuove soluzioni al mercato e promuovere l'adozione dei servizi cloud da parte dei clienti.
 
 Nel modello provider indiretto (a due livelli) è possibile collaborare con rivenditori indiretti per offrire soluzioni cloud Microsoft ai clienti. Si acquistano prodotti e sottoscrizioni direttamente da Microsoft e quindi si offrono tali soluzioni ai clienti tramite i rivenditori.
 
@@ -45,7 +45,7 @@ Per informazioni sugli elementi necessari per partecipare al programma CSP come 
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Attività del provider indiretto nel Centro per i Partner
 
-Completare i passaggi seguenti per stabilire e gestire la collaborazione con rivenditori e clienti indiretti. I passaggi due e tre sono descritti in dettaglio di seguito.
+Completare i passaggi seguenti per stabilire e gestire la collaborazione con rivenditori e clienti indiretti. I passaggi 2 e 3 sono descritti in dettaglio di seguito.
 
 1. Esaminare il profilo della società nell' [elenco dei provider indiretti ufficiali di Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
 
@@ -111,7 +111,7 @@ Per rimuovere la relazione con il rivenditore indiretto esistente, attenersi ai 
 
 1. Dal menu centro per i partner del Dashboard selezionare **rivenditori indiretti**. 
 
-2. Nella pagina **rivenditori indiretti** selezionare **Rimuovi relazione**. Verrà visualizzato un messaggio che richiede la conferma selezionare Sì per continuare.
+2. Nella pagina **rivenditori indiretti** selezionare **Rimuovi relazione**. Verrà visualizzato un messaggio che richiede la conferma. Per continuare, selezionare **Sì**.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Rimuovi relazione":::
 
@@ -151,7 +151,7 @@ Quando si associa un rivenditore a un nuovo account cliente, si delega la gestio
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Aggiungere nuove sottoscrizioni agli account cliente
 
-Quando i clienti vogliono acquistare nuove sottoscrizioni, aggiornare quelle esistenti o acquistare licenze aggiuntive, è possibile apportare queste modifiche nell'account del cliente tramite il portale M365. Questa operazione non può essere eseguita nel portale di Azure.
+Quando i clienti vogliono acquistare nuove sottoscrizioni, aggiornare quelle esistenti o acquistare licenze aggiuntive, è possibile apportare queste modifiche nell'account del cliente tramite il portale di Microsoft 365. Questa operazione non può essere eseguita nel portale di Azure.
 
 1. Selezionare **Customers** dal menu centro per i **partner** .
 

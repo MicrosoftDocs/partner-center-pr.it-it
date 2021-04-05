@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/02/2021
+ms.openlocfilehash: f550a1b145a4de7a6ecd13dd42241b059da55533
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280854"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374417"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,6 +22,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 |**Categoria**|**Annunci di aprile 2021**|**Annunciato**|
 |---------|:---------|:---------|
+|Funzionalità|[Nuovo formato per la nuova fattura PDF di Commerce in CSP](2021-april.md#3)|5 aprile|
 |Funzionalità|[Modifiche apportate ai requisiti di onboarding dei clienti Cloud Solution Provider (CSP)](2021-april.md#2)|2 aprile|
 |Funzionalità|[Visualizza i lanci e le offerte del prodotto di questo mese](2021-april.md#1)|1 aprile|
 |**Categoria**|**Annunci 2021 di marzo**|**Annunciato**|

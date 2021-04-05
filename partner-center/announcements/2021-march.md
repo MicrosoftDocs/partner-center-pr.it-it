@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 5b8c5f52207a7b9a49d07885a36b61486be45497
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.openlocfilehash: 12954a5f7eafb138794de879a41026ef54c65da7
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280871"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374389"
 ---
 # <a name="march-2021-announcements"></a>Annunci 2021 di marzo
 
@@ -101,9 +101,7 @@ public class AddressValidationResponse
 Esaminare questa risposta di esempio. Si noti che per gli Stati Uniti, la risposta restituirà un suffisso di quattro cifre aggiuntivo per la riga di codice postale se si immettono solo cinque cifre per il codice postale.
 
 ```csharp
-// IAggregatePartner partnerOperations;
-// string customerId;
-// s{
+
 "suggested_address": {
     "Country": "US",
     "region": "WA",

@@ -11,17 +11,64 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 091ba83408ccd7896a0395b6d77c7f3a40f9d985
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.openlocfilehash: 2cd791425fd30d18b8db5f999eb773fc0e2f37e6
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280888"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374434"
 ---
 # <a name="april-2021-announcements"></a>Annunci di aprile 2021
 
 Questa pagina fornisce gli annunci per Microsoft Partner Center per il 2021 aprile.
 
+________________
+## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nuovo formato per la nuova fattura PDF di Commerce in CSP
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-04-05
+- Funzionalità
+
+### <a name="summary"></a>Riepilogo
+
+Microsoft introduce un nuovo formato per la nuova fattura di Commerce PDF nel programma Cloud Solution Provider (CSP) per visualizzare i dettagli di fatturazione in base al dettaglio del prodotto anziché alla descrizione dello SKU.
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner che eseguono transazioni tramite il programma CSP
+
+### <a name="details"></a>Dettagli
+
+A partire dal 2021 maggio, Microsoft sta introducendo un nuovo formato per la nuova fattura PDF di Commerce nel programma CSP per visualizzare i dettagli di fatturazione in base al dettaglio del prodotto anziché alla descrizione dello SKU. Con questo nuovo aggiornamento, le voci verranno aggregate in base al tipo di prodotto, visualizzando ogni prodotto su una singola riga.
+
+I partner noteranno che questa modifica verrà applicata nella fattura di maggio per il periodo di fatturazione compreso tra il 1 ° aprile 2021 e il 30 aprile 2021. Le offerte interessate sono Microsoft Azure istanza riservata, le sottoscrizioni di Azure (piano di Azure) e il Marketplace.
+
+Tutte le richieste di fatturazione di credito effettuate dopo l'aggiornamento del formato della fattura verranno generate nel nuovo formato.
+
+#### <a name="partner-benefits"></a>Vantaggi per i partner
+
+Questo aggiornamento offrirà i miglioramenti seguenti all'esperienza di fatturazione per i partner:
+
+- Dimensione della fattura ridotta mantenendo i dati critici
+
+- Allineamento del formato agli standard del settore per le fatture compatte e intuitive 
+
+Gli elementi seguenti non saranno interessati:
+
+- Pagina Riepilogo fatturazione per la fattura PDF
+
+- API di fatturazione esistenti
+
+- File di riconciliazione (i file di ricognizione possono essere utilizzati per il recupero di dati granulari). 
+
+- Fatture di utilizzo e addebiti basati su licenza
+
+### <a name="next-steps"></a>Passaggi successivi
+
+Esaminare le informazioni su questo argomento nella raccolta di risorse per la [preparazione delle operazioni](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) nel sito Web del partner Microsoft. Per ulteriori informazioni sugli argomenti relativi a fatturazione e imposta, incluse le risorse di fatturazione, le fatture, la fatturazione CSP e le imposte, visitare la [sezione relativa alla fatturazione](https://docs.microsoft.com/partner-center/billing) nel centro per i partner.
+
+________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Modifiche apportate ai requisiti di onboarding dei clienti Cloud Solution Provider (CSP)
 
 ### <a name="categories"></a>Categorie

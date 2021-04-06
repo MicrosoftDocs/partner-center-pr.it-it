@@ -1,6 +1,6 @@
 ---
 title: Gestione di utenti e licenze
-titleSuffix: Microsoft Government Cloud - Partner Center
+titleSuffix: Microsoft Cloud for US Government - Partner Center
 description: Scopri come e dove gestire il centro per i partner per Microsoft Cloud per partner, clienti e licenze degli Stati Uniti, nonché per reimpostare le password.
 ms.topic: article
 ms.date: 03/15/2019
@@ -10,18 +10,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0fce25dc07f5cd07138cde2619cdf0989cd17251
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9eb0a1f221f9dd7e938fb43334543801c94c3181
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086567"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441456"
 ---
-# <a name="user-and-license-management-in-partner-center-for-government-microsoft-cloud"></a>Gestione di utenti e licenze nel centro per i partner per enti pubblici Microsoft Cloud
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud for US Government
 
 **Si applica a**
 
-- Centro per i partner per Microsoft Government cloud
+- Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
 
@@ -29,9 +29,9 @@ ms.locfileid: "106086567"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Come gestire gli utenti nella portale di Azure per Microsoft Cloud per il governo degli Stati Uniti
 
-Se è stato effettuato l'accesso al centro per i partner per Microsoft Cloud per il governo degli Stati Uniti, è possibile aprire il portale di Azure per Microsoft Government cloud senza dover eseguire di nuovo l'accesso. Tuttavia, se è necessario accedere direttamente al portale di Azure per Microsoft Government cloud, passare a ( https://portal.azure.us/) e accedere con le credenziali di amministratore globale per il tenant di Azure ad per Microsoft Government cloud.
+Se è stato effettuato l'accesso al centro per i partner per Microsoft Cloud per il governo degli Stati Uniti, è possibile aprire il portale di Azure per Microsoft Cloud per il governo degli Stati Uniti senza dover eseguire di nuovo l'accesso. Tuttavia, se è necessario accedere direttamente al portale di Azure per Microsoft Cloud per il governo degli Stati Uniti, passare a ( https://portal.azure.us/) e accedere con le credenziali di amministratore globale per il tenant di Azure ad per Microsoft Cloud per il governo degli Stati Uniti.
 
-Dopo aver eseguito l'accesso al portale di Azure per Microsoft Government cloud, aprire la pagina Panoramica di Azure Active Directory (Azure AD) e quindi seguire le istruzioni riportate negli argomenti seguenti:
+Dopo aver eseguito l'accesso all'portale di Azure per Microsoft Cloud per il governo degli Stati Uniti, aprire la pagina Panoramica di Azure Active Directory (Azure AD) e quindi seguire le istruzioni riportate negli articoli seguenti:
 
 > [!NOTE]  
 > Se si selezionano i collegamenti seguenti, verrà visualizzata un'altra pagina Web. 
@@ -42,8 +42,8 @@ Dopo aver eseguito l'accesso al portale di Azure per Microsoft Government cloud,
 
 -  [**Reimpostare la password per un utente in Azure Active Directory**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**Argomenti correlati**
+## <a name="next-steps"></a>Passaggi successivi
 
--  [**Centro per i partner per Microsoft Government cloud**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Centro per i partner per Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**Iscriversi al programma Cloud Solution Provider per Microsoft Government cloud**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**Iscriversi al programma Cloud Solution Provider per Microsoft Cloud per il governo degli Stati Uniti**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

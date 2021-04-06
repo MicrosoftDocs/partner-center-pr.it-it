@@ -9,18 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: f1fb7fdcc4ec56f0d5cf0eb26b62294235a5b908
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549227"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441598"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Informazioni sui diversi tipi di addebito nei file di riconciliazione del centro per i partner
 
 **Si applica a**
 
-- Centro per i partner per Microsoft Government cloud
+- Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
 

@@ -9,18 +9,17 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 77695d061c9ce42f32c95abfd8475064991954f9
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545852"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441847"
 ---
-# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Inoltra i problemi a Microsoft e Scopri quali sono i problemi più appropriati per l'escalation Microsoft  
+# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Riassegnare i problemi a Microsoft e imparare a conoscere i problemi più adatti per la riassegnazione a Microsoft  
 
 **Si applica a**
 
-- Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**

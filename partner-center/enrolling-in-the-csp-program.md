@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712274"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441813"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Iscriversi al programma Cloud Solution Provider
-
-**Si applica a**
-
-- Centro per i partner  
 
 **Ruoli appropriati**
 
@@ -34,7 +30,7 @@ Per iscriverti al programma Cloud Solution Provider hai innanzitutto bisogno di 
 
 Per compilare la domanda di partecipazione al programma CSP, ti serviranno l'ID MPN e l'indirizzo completo della tua azienda, le coordinate bancarie e l'indirizzo e-mail aziendale del dipendente che opererà come amministratore per il Centro per i partner.
 
-1. Accedi al Centro per i partner con il tuo indirizzo e-mail aziendale, ad esempio con le credenziali del tenant di Azure AD.
+1. Accedere al centro per i partner con l'indirizzo di posta elettronica dell'ufficio, ovvero le credenziali del tenant Azure AD.
 
 2. Crea il tuo profilo di partner e associa l'ID MPN al profilo.
 Potrebbero essere necessari diversi giorni per esaminare e verificare le informazioni fornite. Ti invieremo un'e-mail al termine della revisione.
@@ -73,7 +69,7 @@ Come partner con fatturazione diretta, sei titolare della relazione completa con
 |**ID MPN**   |Appartenenza a Microsoft Partner Network e ID MPN attivi per la località in cui si vuole vendere.    |
 |**Verifica dell'autenticità**   |L'autorità di accettare e firmare contratti legali per conto della tua organizzazione.|
 |**Supporto tecnico**   |La possibilità di fornire il primo livello di supporto per il prodotto cloud ai clienti. <br>Un piano di supporto Microsoft, tra Supporto avanzato per i partner (ASfP, Advanced Support for Partners) o Supporto tecnico Premier per i partner (PSfP, Premier Support for Partners), in base alle tue esigenze. [Confronta i piani di supporto](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: devi essere sottoposto a una verifica della tua situazione creditizia prima di acquistare un piano di supporto. Se la verifica ha esito positivo, riceverai un'e-mail. |
-|**Requisito dei ricavi**|Ricavi annuali del programma Cloud Solution Provider di almeno 300K USD nei dodici mesi precedenti come rivenditore indiretto. I partner possono esaminare i ricavi degli ultimi dodici mesi nel Centro per i partner.<br/>Le vendite relative ai 300K USD di ricavi ottenuti negli ultimi dodici mesi sono soggette a verifica da parte di Microsoft e può essere chiesto di fornire informazioni aggiuntive. Il requisito dei 300K USD di ricavi viene calcolato in base ai ricavi nel cloud e non include il software con licenza perpetua.|
+|**Requisito dei ricavi**|Deve soddisfare almeno i ricavi annuali del programma Cloud Solution Provider (USD300K) nei 12 mesi precedenti come rivenditore indiretto. I partner possono esaminare i 12 mesi di ricavi finali sul centro per i partner.<br/>Le vendite che costituiscono i ricavi USD300K finali di 12 mesi sono soggette a revisione e verifica da parte di Microsoft e potrebbe essere richiesto di fornire informazioni aggiuntive. Il requisito dei 300K USD di ricavi viene calcolato in base ai ricavi nel cloud e non include il software con licenza perpetua.|
 |**Crediti** |L'infrastruttura organizzativa per la gestione della fatturazione e del provisioning dei clienti.|
 |**Consiglio**|             |
 |**Servizio gestito**   |Almeno un servizio gestito, servizio di proprietà intellettuale o soluzione applicativa al cliente. Per altre informazioni, vedi l’argomento relativo all’aggiunta di [servizi gestiti](https://partner.microsoft.com/business-opportunities/managed-services-provider).|

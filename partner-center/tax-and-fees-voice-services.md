@@ -7,24 +7,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5817e5bb010cee0ab280c83408167f28915a6237
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90594459"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441490"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Imposte a livello di area, normative per i servizi Public Switched Telephone Network (PTSN)
 
-**Si applica a**
-
-- Centro per i partner
-- Partner Office 365 che trasformano Microsoft 365 prodotti vocali
-
 **Ruoli appropriati**
--    Amministratore globale
--    Amministratore utenti
--    Agente amministratore
+
+- Amministratore globale
+- Amministratore utenti
+- Agente amministratore
 
 I servizi PSTN (Public Switched Telephone Network) in alcune giurisdizioni possono essere soggetti a requisiti fiscali e normativi speciali che possono influenzare l'ordine dei partner e la fatturazione. Nel Stati Uniti, tra cui Puerto Rico, i servizi PSTN, che includono la conferenza audio, i piani di chiamata e i crediti di comunicazione, sono soggetti a requisiti fiscali e normativi specifici. Nei Stati Uniti e in Puerto Rico i servizi PSTN dei prezzi Microsoft sono inclusi nell'IVA.  Le tasse e le normative PSTN univoche influiranno sui partner di Office 365 che trasformano Microsoft 365 prodotti vocali.  Se un partner applica ricarichi al prezzo di un servizio PSTN Microsoft, potrebbe avere la responsabilità di calcolare e versare imposte e tariffe specifiche per i servizi PSTN.
 
@@ -34,7 +30,7 @@ Coinvolgere le imposte e i consulenti legali per comprendere la responsabilità 
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Presentazione della fattura e file di riconciliazione partner
 
-Le fatture CSP e i file di riconciliazione CSP nel Stati Uniti, Puerto Rico e Canada che includono Skype for business PSTN e Microsoft 365 Voice Services forniranno voci separate per i componenti PSTN e non PSTN.
+Le fatture CSP e i file di riconciliazione CSP in Stati Uniti, Puerto Rico e Canada, che includono i servizi PSTN e Microsoft 365 Voice di Skype for business, forniranno voci separate per i componenti PSTN e non PSTN.
 
 Inoltre, le fatture CSP visualizzeranno la nota seguente:
 

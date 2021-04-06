@@ -1,7 +1,7 @@
 ---
 title: Gestire le posizioni nell'account partner
 ms.topic: how-to
-ms.date: 02/08/2021
+ms.date: 04/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come aggiungere una nuova sede e come usare l'ID MNP di sede in programmi di incentivi, transazioni aziendali CSP, sottoscrizioni e altre transazioni.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005914"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441329"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gestire i percorsi degli account MPN e aggiungere (eliminare) un percorso
 
@@ -26,9 +26,9 @@ ms.locfileid: "100005914"
 
 L'ID MPN di sede identifica ogni specifica sede della società. L'ID MPN di sede viene usato per l'iscrizione a programmi di incentivi, per transazioni CSP e per altre transazioni aziendali. L'ID MPN globale viene usato per attività non transazionali, ad esempio richieste di supporto.
 
-## <a name="the-following-is-a-typical-scenario"></a>Di seguito è riportato uno scenario tipico:
+## <a name="the-following-scenario-is-typical"></a>Lo scenario seguente è tipico:
 
-Contoso ha registrato il proprio account globale partner nel Regno Unito. Si tratta della sede legale dell'azienda e l'ID MPN globale viene usato per la gestione di tutte le attività non transazionali. Contoso ha anche account di sede partner, corrispondenti a filiali o divisioni in un'altra località del Regno Unito, della Francia o degli Stati Uniti. Nella struttura degli account MPN gli account di sede partner sono rappresentati come ID MPN di sede univoci. Gli account di sede partner vengono usati per attività transazionali, ad esempio programmi di incentivi o CSP. I pagamenti sono collegati a posizioni specifiche. 
+Contoso ha registrato il proprio account globale partner nel Regno Unito. Il PGA è il proprio business legale registrato e l'ID MPN globale viene usato per la gestione di tutte le attività non transazionali. Contoso ha anche account di sede partner, corrispondenti a filiali o divisioni in un'altra località del Regno Unito, della Francia o degli Stati Uniti. Nella struttura degli account MPN gli account di sede partner sono rappresentati come ID MPN di sede univoci. Gli account di sede partner vengono usati per attività transazionali, ad esempio programmi di incentivi o CSP. I pagamenti sono collegati a posizioni specifiche. 
 
 >[!NOTE]
 >Tra un tenant CSP e un ID MPN di sede esiste una relazione 1 a 1.
@@ -56,13 +56,32 @@ Per aggiungere un nuovo account aziendale CSP, iniziare assicurandosi di aver so
  
 1. Nell'icona **Impostazioni** selezionare **Impostazioni account**, **profilo organizzazione**, **legale**. 
 
-1. Nella scheda **partner** verificare che non sia presente un messaggio di errore banner che chiede di correggere i percorsi migrati da PMC. Se è presente, seguire le istruzioni e correggere tali percorsi. 
+1. Nella scheda **partner** verificare che non sia presente un messaggio di errore del banner che chiede di correggere i percorsi migrati da PMC.  Se le località non sono state configurate correttamente in PMC e non sono ancora state passate a PC, è necessario aggiornare tali percorsi.
 
-3. Se non è presente un messaggio di errore, da  **Impostazioni** selezionare  **Impostazioni account**, **profilo organizzazione**, **identificatori**.
+:::image type="content" source="images/locations/location-two.png" alt-text="Screencap Mostra come aggiornare il percorso.":::
+ 
+4.  Nella schermata **Verifica percorsi di PMC** selezionare **Aggiorna**.
+Aggiornare i campi seguenti:
 
-4. Trovare l'ID MPN con il tipo "location" corrispondente al paese di questo account CSP e usarlo per eseguire la ricerca sotto e completare l'associazione.
+- **Campo nome**: assicurarsi che il nome del percorso aziendale sia corretto. Se viene visualizzato un errore duplicato, provare a modificare da, ad esempio, contoso a contoso, Inc.
 
-5. Se non è possibile trovare l'ID MPN della località che corrisponde all'account CSP da usare, è possibile aggiungere un nuovo percorso che creerà un nuovo ID MPN. Vedere **aggiungere un percorso MPN di** seguito.
+- **Campo dell'entità legale**: assicurarsi di aver scelto l'entità legale a cui è associata la località
+
+- **Campi riga indirizzo 1 & 2**: assicurarsi che l'indirizzo sia corretto
+
+- **Campi provincia & stato/provincia**: assicurarsi che la combinazione tra la città e lo stato o la provincia sia corretta. In alcuni paesi viene applicato il menu a discesa per la scelta dello stato e della provincia e in altri paesi sarà necessario inserire manualmente tale campo.
+
+- **Campo CAP**: assicurarsi che il campo CAP corrisponda al paese, all'area, alla città o all'indirizzo indicato.
+
+- **Campi delle informazioni di contatto primarie**: assicurarsi che i campi nome e cognome siano compilati e che l'indirizzo di posta elettronica indicato sia un indirizzo di posta elettronica di lavoro e non uno personale, ad esempio,, e @outlook.com @live.com così via.
+
+- **Campo numero di telefono**: assicurarsi che il numero di telefono non includa caratteri speciali, spazi o codici paese. Il valore immesso nel campo numero di telefono conterrà sempre un massimo di 10 caratteri.
+
+5. Se non è presente un messaggio di errore, da  **Impostazioni** selezionare  **Impostazioni account**, **profilo organizzazione**, **identificatori**.
+
+6. Trovare l'ID MPN con il tipo "location" corrispondente al paese di questo account CSP e usarlo per completare l'associazione.
+
+7. Se non è possibile trovare l'ID MPN della località che corrisponde all'account CSP da usare, è possibile aggiungere un nuovo percorso che creerà un nuovo ID MPN. Vedere **aggiungere un percorso MPN di** seguito.
 
 ## <a name="add-an-mpn-location"></a>Aggiungere una sede MPN
 
@@ -81,9 +100,10 @@ Per aggiungere un nuovo account aziendale CSP, iniziare assicurandosi di aver so
 > [!NOTE]
 > Una volta aggiunta una località nel centro per i partner, non è possibile rimuoverla. Se l'accesso è stato effettuato con l'account corretto, verrà visualizzato **MPN** nel menu a sinistra del Centro per i partner.
 
+
 ## <a name="delete-a-location"></a>Elimina un percorso
 
-Per eliminare una località dall'account, è necessario contattare il [supporto tecnico del partner](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Assicurarsi di comprendere l'effetto di questa azione. Non è possibile recuperare i percorsi eliminati e qualsiasi elemento associato a tale ID MPN specifico non verrà più riconosciuto o attivo per l'azienda.
+Per eliminare un percorso dall'account, sarà necessario contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Assicurarsi di comprendere l'effetto di questa azione. Non è possibile recuperare i percorsi eliminati e qualsiasi elemento associato a tale ID MPN specifico non verrà più riconosciuto o attivo per l'azienda.
 
 ## <a name="change-country-of-partner-global-account"></a>Modificare il paese dell'account globale del partner 
 

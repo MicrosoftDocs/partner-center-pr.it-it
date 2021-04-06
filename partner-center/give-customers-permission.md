@@ -9,19 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000465"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441303"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Concedere ai clienti l'autorizzazione per il centro per i partner per acquistare prodotti o servizi propri
-
-**Si applica a**
-
-- Centro per i partner
-- Partner aderenti al programma CSP
 
 **Ruoli appropriati**
 
@@ -119,7 +114,7 @@ Per attivare o disattivare le autorizzazioni dei clienti nel centro per i partne
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
-2. Nel menu di spostamento a sinistra selezionare **CSP**e quindi **Customers**. Verrà visualizzato un elenco di clienti.
+2. Nel menu di spostamento a sinistra selezionare **CSP** e quindi **Customers**. Verrà visualizzato un elenco di clienti.
 
 3. Selezionare un nome di cliente specifico.
 
@@ -129,7 +124,7 @@ Per attivare o disattivare le autorizzazioni dei clienti nel centro per i partne
 
    :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Autorizzazioni del cliente per la pagina dell'account." border="true":::
 
-6. In **prenotazioni di Azure**individuare l'opzione **Consenti al cliente di acquistare** .
+6. In **prenotazioni di Azure** individuare l'opzione **Consenti al cliente di acquistare** .
 
 7. Per attivare le autorizzazioni del cliente, spostare il commutatore accanto a questa opzione in posizione **on** . Per disattivare le autorizzazioni del cliente, spostare il commutatore nella posizione **off** .
 

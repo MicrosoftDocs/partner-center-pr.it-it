@@ -9,18 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999335"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106442000"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Cosa fare se l'unico amministratore del programma MPN ha lasciato la società?
 
-**Si applica a**
+**Ruoli appropriati**
 
-- Centro per i partner
+- Amministratore dei partner MPN
+- Amministratore degli account
+- Amministratore globale
 
 L'articolo seguente illustra tre scenari tipici relativi alle operazioni da eseguire se l'amministratore MPN ha lasciato l'azienda.
 
@@ -28,7 +30,7 @@ L'articolo seguente illustra tre scenari tipici relativi alle operazioni da eseg
 
 In questo caso, è possibile assegnare un altro utente della società al ruolo di amministratore partner MPN. Per essere assegnato il ruolo di amministratore dell'account/amministratore del partner MPN specifico:
 
-1. Accedere all'account del centro per i partner con l'account aziendale, ad esempio. tom@contoso.com
+1. Accedere all'account del centro per i partner con l'account aziendale, ad esempio tom@contoso.com .
 1. Dal filtro della pagina **Gestione utenti** su amministratore globale per vedere chi sono gli amministratori globali dell'azienda. 
 1. Contattare uno degli amministratori globali e chiedere di assegnare il ruolo specifico di MPN necessario. 
 

@@ -9,19 +9,19 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626073"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441881"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Usare Analytics per saperne di più sui ricavi delle sottoscrizioni
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore partner MPN
+- Amministratore dei partner MPN
 
 La pianificazione di modi per sviluppare il lavoro di CSP implica la definizione del numero di clienti che usa i prodotti Microsoft. Sono disponibili diverse opzioni per la raccolta dei dati nel centro per i partner ed è possibile raccogliere dati sia sull'azienda sia su se e in che modo i clienti usano le licenze acquistate. Se si usa il modello CSP Direct, è anche possibile installare e usare l'app partner Center Analytics per Power BI per raccogliere dati aggiuntivi.
 
@@ -38,7 +38,7 @@ La pianificazione di modi per sviluppare il lavoro di CSP implica la definizione
 
 I ricavi CSP di 12 mesi finali rappresentano i ricavi del programma Cloud Solution Provider finali in USD a livello di conto globale del partner. I dati vengono aggiornati l'ottavo di ogni mese, per visualizzare i ricavi finali di dodici mesi fino al mese precedente. Ad esempio, il 9 settembre 2020 dovrebbe essere possibile visualizzare il TTM per il periodo fisso del 2019 settembre al 2020 agosto.
 
-Il ricavo visualizzato nel centro per i partner viene calcolato per un intervallo di tempo fisso di dodici mesi e non può essere modificato in un intervallo di tempo più breve.
+Il ricavo visualizzato nel centro per i partner viene calcolato per un intervallo di tempo fisso di 12 mesi e non può essere modificato in un intervallo di tempo più breve.
 
 Per visualizzare una suddivisione dei ricavi a livello di account della località partner:
 
@@ -51,14 +51,14 @@ Per visualizzare una suddivisione dei ricavi a livello di account della localit�
 
 Nella metà inferiore della schermata viene visualizzato un riepilogo delle sottoscrizioni. Usare i filtri seguenti per visualizzare i dettagli della sottoscrizione necessari:  
 
-1. **Durata** : è possibile scegliere di visualizzare il riepilogo della sottoscrizione per 
+1. **Durata**: è possibile scegliere di visualizzare il riepilogo della sottoscrizione per 
 
 - 30D-ultimi 30 giorni
 - 3M – ultimi 3 mesi
 - 6M-ultimi 6 mesi
 - 12M – ultimi 12 mesi
 
-2. **Tipo di prodotto** :
+2. **Tipo di prodotto**:
  
 - Office 365
 - Microsoft 365

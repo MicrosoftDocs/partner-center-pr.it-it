@@ -9,18 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc97156d23fa4ea1082a0ad4a931ff36375897a7
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 4c311de4a504785e15cefc7a93f1ee3da396ea7d
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178919"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441286"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Informazioni sui campi nei file di riconciliazione basati su licenze per il centro per i partner
 
 **Si applica a**
 
-- Centro per i partner per Microsoft Government cloud
+- Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
 

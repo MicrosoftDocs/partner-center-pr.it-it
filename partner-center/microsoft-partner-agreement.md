@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880804"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441269"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informazioni sul Contratto Microsoft Partner per i partner del programma CSP
 
@@ -24,7 +24,7 @@ ms.locfileid: "104880804"
 
 Il Contratto Microsoft Partner offre ai partner Microsoft un contratto unificato e accettato digitalmente. Il Contratto Microsoft Partner include un set fondamentale di condizioni perpetue che consentono a Microsoft, ai partner e ai clienti di garantire la privacy e la sicurezza dei dati, promuovere la conformità e favorire l'adozione di valide procedure aziendali.
 
-Tutti i partner del programma Cloud Solution Provider, inclusi i provider indiretti, i rivenditori indiretti e i partner con fatturazione diretta, possono firmare il Contratto Microsoft Partner online in Partner Center. Anche i partner con fatturazione diretta o i provider indiretti che operano nel cloud per enti pubblici possono firmare il Contratto Microsoft Partner direttamente dal Centro per i partner.
+Tutti i partner del programma Cloud Solution Provider, inclusi i provider indiretti, i rivenditori indiretti e i partner con fatturazione diretta, possono firmare il Contratto Microsoft Partner online in Partner Center. I partner diretti per la fatturazione e il provider indiretto che operano nell'Microsoft Cloud per il governo degli Stati Uniti possono anche firmare il MPA dall'interno del centro per i partner.
 
 Per continuare a partecipare al programma CSP, devi firmare il Contratto Microsoft Partner prima del 31 gennaio 2020. Partner Center ti ricorderà che ora puoi firmare il contratto direttamente da lì con la massima facilità.
 
@@ -41,7 +41,7 @@ Per continuare a partecipare al programma CSP, devi firmare il Contratto Microso
  
 1. In **Impostazioni** selezionare [Profilo partner](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
 
-1. Controllare la sezione **Info sul programma**. Se lo stato del programma MPN è impostato su **Attivo**, l'utente corrente è un partner MPN attivo del Centro per i partner.
+1. Controllare la sezione **Info sul programma**. Se lo stato del programma MPN è **attivo**, si è un partner MPN attivo nel centro per i partner.
  
 1. Se lo stato del programma MPN è impostato su **Rifiutato** o **In sospeso**, la verifica dell'account non è riuscita. Per informazioni su come risolvere il problema della verifica, leggere la [procedura di verifica](verification-responses.md).
 
@@ -60,11 +60,11 @@ Per continuare a partecipare al programma CSP, devi firmare il Contratto Microso
 
 1. Controllare la sezione **Info sul programma**. Se nelle informazioni non viene visualizzato lo stato **Rivenditore indiretto**, è necessario [iscriversi come rivenditore indiretto](indirect-reseller-tasks-in-partner-center.md).
 
-1. Se lo stato **Rivenditore indiretto** è impostato su **Attivo**, l'utente corrente è un rivenditore indiretto attivo del Centro per i partner.
+1. Se lo stato del  **rivenditore indiretto** è **attivo**, si è un rivenditore indiretto attivo nel centro per i partner.
  
 4. Se lo stato **Rivenditore indiretto** è impostato su **Qualificato**, passare alla finestra [**Panoramica del dashboard**](https://partner.microsoft.com/pcv/dashboard/overview) per accettare il Contratto Microsoft Partner e poter attivare l'account.
  
-1. Se lo stato del rivenditore indiretto è impostato su **Rifiutato**, la verifica dell'account non è riuscita. Per informazioni su come risolvere il problema della verifica, leggere la [procedura di verifica](verification-responses.md).
+1. Se lo stato del rivenditore indiretto viene **rifiutato** o **rifiutato**, la verifica dell'account non è riuscita. Per informazioni su come risolvere il problema della verifica, leggere la [procedura di verifica](verification-responses.md).
 
 1. Se è già stato eseguito il passaggio al Centro per i partner come rivenditore indiretto, accettare il Contratto Microsoft Partner nella finestra Panoramica del dashboard Centro per i partner usando le credenziali di amministratore globale. È possibile verificare se il Contratto Microsoft Partner è già stato firmato da **Info del programma** in [Profilo partner](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) o dalla notifica banner nella pagina Panoramica di CSP.
 
@@ -75,7 +75,7 @@ Ricordarsi di accettare la richiesta di relazione CSP con il provider indiretto.
 1. Accedere al centro per i partner con l'account rivenditore indiretto CSP. È necessario essere l'amministratore globale.
 1. Passare alla pagina **[Panoramica CSP](https://partner.microsoft.com/pcv/dashboard/overview)** .  Se non viene visualizzata l'opzione **accetta e continua** o il banner verde indicante che MPa è firmato, non si ha il ruolo corretto per firmare MPa. Contattare l'amministratore globale per firmare il MPA.
 
-1. Per visualizzare e scaricare il **contratto per i partner Microsoft** prima di firmarlo, fare clic sul collegamento Microsoft Partner Agreement come illustrato di seguito.
+1. Per visualizzare e scaricare il **contratto per i partner Microsoft** prima di firmarlo, selezionare il collegamento Microsoft Partner Agreement come illustrato di seguito.
 
 :::image type="content" source="images/agreement-three.png" alt-text="Nuova posizione dell'accordo MPA":::
 
@@ -88,7 +88,7 @@ Ricordarsi di accettare la richiesta di relazione CSP con il provider indiretto.
 
 Per verificare se hai firmato il Contratto Microsoft Partner:
 
- In qualità di amministratore globale della società, passare alla finestra [Panoramica di CSP](https://partner.microsoft.com/pcv/dashboard/overview) e verificare la presenza del banner verde che indica che il Contratto Microsoft Partner è stato accettato.
+ Come amministratore globale della società, passare alla [Panoramica di CSP](https://partner.microsoft.com/pcv/dashboard/overview) e selezionare il banner verde che informa che è stato accettato il MPa.
 
  
 :::image type="content" source="images/banner-boxed.png" alt-text="Banner verde che indica l'accettazione del Contratto Microsoft Partner":::

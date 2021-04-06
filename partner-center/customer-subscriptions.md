@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1521f9b14f6ae01a69d625f308f9eed9d677a45e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 6ae63c2cacbdea7a1aa2bf08ffff8a3cde512668
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434760"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502748"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>Come i partner del programma CSP possono vendere sottoscrizioni ai clienti
-
-**Si applica a**
-
--  Centro per i partner
 
 **Ruoli appropriati**
 
@@ -33,11 +29,11 @@ In qualità di partner CSP, una delle attività più centrali è offrire sottosc
 
 |**Per eseguire questa operazione**   |**Leggi**   |
 |----------------------|:----------------------|
-|Creare e gestire sottoscrizioni per i clienti esistenti nel centro per i partner|[Crea una nuova sottoscrizione](create-a-new-subscription.md)|
-|Una volta aggiunta la sottoscrizione, è possibile assegnare le licenze ai dipendenti del cliente  |[Assegnare licenze agli utenti](assign-licenses-to-users.md)|
-|È inoltre possibile gestire gli aggiornamenti in blocco delle licenze   |[Assegnare o revocare licenze a più utenti](bulk-license-provisioning-for-multiple-users.md)|
-|Quando il cliente aggiunge nuovi dipendenti, è possibile aggiungere altre licenze alle sottoscrizioni esistenti   |[Aggiungere licenze o servizi a una sottoscrizione esistente](add-licenses-or-services-to-an-existing-subscription.md)|
-|Il cliente potrebbe voler provare il software prima di eseguire il commit, quindi offrire sottoscrizioni di valutazione    |[Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md)|
-|È possibile avviare il processo di sottoscrizione di Azure nel centro per i partner   |[Assegnare sottoscrizioni di Azure al centro per i partner](assign-azure-subscriptions.md)|
-|Scopri i prezzi speciali per le offerte   |[Ottenere prezzi speciali per le offerte](get-special-pricing-for-offers.md)|
+|Creare e gestire le sottoscrizioni per i clienti esistenti nel centro per i partner.|[Crea una nuova sottoscrizione](create-a-new-subscription.md)|
+|Una volta aggiunta la sottoscrizione, è possibile assegnare le licenze ai dipendenti del cliente.  |[Assegnare licenze agli utenti](assign-licenses-to-users.md)|
+|È inoltre possibile gestire gli aggiornamenti in blocco delle licenze.   |[Assegnare o revocare licenze a più utenti](bulk-license-provisioning-for-multiple-users.md)|
+|Quando il cliente aggiunge nuovi dipendenti, è possibile aggiungere altre licenze alle sottoscrizioni esistenti.   |[Aggiungere licenze o servizi a una sottoscrizione esistente](add-licenses-or-services-to-an-existing-subscription.md)|
+|Il cliente potrebbe voler provare il software prima di eseguire il commit, quindi offrire sottoscrizioni di valutazione.    |[Offrire ai clienti le versioni di valutazione dei prodotti Microsoft](offer-your-customers-trials-of-microsoft-products.md)|
+|È possibile avviare il processo di sottoscrizione di Azure nel centro per i partner.   |[Assegnare sottoscrizioni di Azure al centro per i partner](assign-azure-subscriptions.md)|
+|Scopri i prezzi speciali per le offerte.   |[Ottenere prezzi speciali per le offerte](get-special-pricing-for-offers.md)|
 |Scopri in che modo i tuoi clienti usano il software per aiutarli a essere più efficaci.   | [Migliorare i tassi di adozione e soddisfazione](increasing-adoption-and-satisfaction.md)   |

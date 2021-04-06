@@ -4,25 +4,23 @@ ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come vendere le sottoscrizioni dei clienti ai prodotti pubblicati da Microsoft e ai prodotti SaaS pubblicati da ISV di terze parti.
+description: Scopri come vendere le sottoscrizioni ai tuoi clienti per i prodotti pubblicati da Microsoft, nonché i prodotti SaaS pubblicati da ISV di terze parti.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038881"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502936"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Creare, sospendere o annullare le sottoscrizioni dei clienti
 
 **Si applica a**
 
-- Centro per i partner
 - Centro per i partner per Microsoft Cloud for US Government
-- Partner CSP
 
 **Ruoli appropriati**
 
@@ -32,7 +30,7 @@ ms.locfileid: "96038881"
 - Agente di supporto tecnico
 - Agente di vendita
 
-Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo. Sono inclusi i prodotti pubblicati da Microsoft, oltre ai prodotti SaaS (software as a Service) pubblicati da fornitori di software indipendenti (ISV) di terze parti nel [Marketplace commerciale](https://azuremarketplace.microsoft.com/marketplace).
+Dopo aver creato un record del cliente nel Centro per i partner, puoi vendere loro sottoscrizioni per i prodotti nel catalogo. Sono inclusi i prodotti pubblicati da prodotti Microsoft e software come un servizio (SaaS) pubblicati da fornitori di software indipendenti (ISV) di terze parti nel [Marketplace commerciale](https://azuremarketplace.microsoft.com/marketplace).
 
 Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elenco delle offerte limitate, visita la pagina Prezzi e offerte del Centro per i partner.
 
@@ -80,7 +78,7 @@ Alcune offerte sono limitate a una sottoscrizione per cliente. Per vedere l'elen
    
 ## <a name="update-subscriptions-with-add-ons"></a>Aggiornare le sottoscrizioni con i componenti aggiuntivi 
 
-Per acquistare un componente aggiuntivo, il cliente deve avere prima una sottoscrizione di base attiva.  Non è possibile acquistare i componenti aggiuntivi tramite il catalogo.
+Per acquistare un componente aggiuntivo, il cliente deve prima avere una sottoscrizione di base attiva.  Non è possibile acquistare i componenti aggiuntivi tramite il catalogo.
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
@@ -93,7 +91,7 @@ Per acquistare un componente aggiuntivo, il cliente deve avere prima una sottosc
 5. Aggiornare la quantità di licenze per ogni componente aggiuntivo richiesto. **Inviare** quindi le modifiche.
 
 La possibilità di acquistare componenti aggiuntivi tramite il centro per i partner è disponibile solo per la fatturazione diretta e i provider indiretti.
-Vengono visualizzati solo i componenti aggiuntivi idonei in base ai requisiti di base e alla disponibilità a livello di area. Per altre informazioni su prezzi e offerte, fare riferimento alla matrice di offerte del rivenditore cloud.  La sospensione della sottoscrizione di base comporta anche la sospensione di tutti i componenti aggiuntivi associati.
+Vengono visualizzati solo i componenti aggiuntivi idonei in base ai requisiti di base e alla disponibilità a livello di area. Per ulteriori informazioni su prezzi e offerte, vedere la matrice di offerte per il rivenditore cloud. La sospensione della sottoscrizione di base comporta anche la sospensione di tutti i componenti aggiuntivi associati.
 
 Le date di inizio per i componenti aggiuntivi sono allineate alla sottoscrizione di base e gli addebiti vengono calcolati dalla data di inizio e dalla data di fine dell'addebito con addebiti proporzionali nella prima fattura. Per ulteriori informazioni, vedere [fatturazione basata su licenze](license-based-billing.md).
 
@@ -120,7 +118,7 @@ Quando sospendi una sottoscrizione, la data visualizzata sotto il pulsante **Sos
 
 ### <a name="cancel-a-subscription"></a>Annullare una sottoscrizione
 
-È possibile scegliere di annullare le sottoscrizioni SaaS basate su licenza da autori ISV di terze parti all'interno del [Marketplace commerciale](csp-commercial-marketplace-overview.md)del centro per i partner. Fino a quando l'annullamento viene annullato entro il periodo di annullamento, si riceverà un rimborso completo.
+È possibile annullare le sottoscrizioni SaaS basate su licenza da autori ISV di terze parti all'interno del [Marketplace commerciale](csp-commercial-marketplace-overview.md)del centro per i partner. Fino a quando l'annullamento viene annullato entro il periodo di annullamento, si riceverà un rimborso completo.
 
 Per le offerte ISV fatturate mensilmente:
 

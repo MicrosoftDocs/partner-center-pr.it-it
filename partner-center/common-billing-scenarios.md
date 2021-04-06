@@ -9,18 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dcac190570d42fa165d33226c3ad33ec836f521b
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444629"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502447"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Scenari di fatturazione comuni per i partner del programma CSP che lavorano nel centro per i partner
-
-Si applica a:
-
-- Fatturazione del programma Cloud Solution Provider (CSP)
 
 **Ruoli appropriati**
 
@@ -29,7 +25,7 @@ Si applica a:
 - Agente di supporto tecnico
 - Agente di vendita
 
-In questi argomenti vengono illustrati gli aspetti da visualizzare nella fattura dopo l'aggiunta di nuove sottoscrizioni, la modifica del numero di licenze per una sottoscrizione o l'annullamento di una sottoscrizione. Altri [tipi di fatturazione del centro](billing-different-types.md)per i partner, ad esempio le sottoscrizioni basate sull'utilizzo e sulle licenze, vengono fatturati in modo diverso.
+Questi articoli spiegano cosa si dovrebbe vedere nella fattura dopo l'aggiunta di nuove sottoscrizioni, la modifica del numero di licenze a una sottoscrizione o l'annullamento di una sottoscrizione. Altri [tipi di fatturazione del centro](billing-different-types.md)per i partner, ad esempio le sottoscrizioni basate sull'utilizzo e sulle licenze, vengono fatturati in modo diverso.
 
 | Tipo di fatturazione | Scenari possibili |
 | --------------- | ----------------- |

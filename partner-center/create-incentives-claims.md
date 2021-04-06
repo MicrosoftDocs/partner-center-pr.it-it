@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9b2f0b3acbbf3ad9648301b85cec3b8837e3e51e
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 9780aa80fdcaab6cfd240127b80155cbfb8dcd26
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132947"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502919"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Creare e gestire una richiesta di co-op per gli incentivi
-
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
@@ -32,19 +28,19 @@ ms.locfileid: "93132947"
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
 
-2. Selezionare la scheda **incentivi** , quindi selezionare **Gestione co-op** .
+2. Selezionare la scheda **incentivi** , quindi selezionare **Gestione co-op**.
 
 3. Se si dispone già di un'attestazione in corso, nella pagina Panoramica delle attestazioni vengono visualizzate le informazioni sullo stato delle attestazioni esistenti e dei fondi approvati, richiesti e totali.
 
-4. Per creare una nuova attestazione, selezionare **Crea un'attestazione** .
+4. Per creare una nuova attestazione, selezionare **Crea un'attestazione**.
 
-5. Una volta compilato il modulo iniziale e selezionato **Crea attestazione** , si passerà alla pagina dei dettagli dell'attestazione in cui sarà possibile aggiungere fatture, CSR, documenti di prova e metriche. Se necessario, è anche possibile aggiungere altre informazioni.
+5. Una volta compilato il modulo iniziale e selezionato **Crea attestazione**, si passerà alla pagina dei dettagli dell'attestazione in cui sarà possibile aggiungere fatture, CSR, documenti di prova e metriche. Se necessario, è anche possibile aggiungere altre informazioni.
 
 La pagina dei dettagli delle attestazioni consente di richiedere ad altri utenti dell'organizzazione di caricare la documentazione nel modulo. Per ognuno dei documenti di supporto caricati, è possibile inserire dettagli esplicativi. 
 
 ### <a name="manage-your-claims"></a>Gestione delle attestazioni
 
-È possibile visualizzare tutte le attività che passano alla compilazione dell'attestazione nella **cronologia** . Ogni volta che un collega aggiunge un documento di supporto o commenti su un elemento, l'azione viene archiviata nella **cronologia** . Lo stato verrà **modificato** fino a quando non si invia l'attestazione. Lo stato dell'attestazione cambia durante il processo di approvazione. In alcuni casi, durante la revisione di un'attestazione, è possibile ricevere commenti e suggerimenti su un elemento specifico nella documentazione di prova di esecuzione (PoE). I commenti e le richieste di informazioni aggiuntive vengono visualizzati anche nella cronologia delle attestazioni.
+È possibile visualizzare tutte le attività che passano alla compilazione dell'attestazione nella **cronologia**. Ogni volta che un collega aggiunge un documento di supporto o commenti su un elemento, l'azione viene archiviata nella **cronologia**. Lo stato verrà **modificato** fino a quando non si invia l'attestazione. Lo stato dell'attestazione cambia durante il processo di approvazione. In alcuni casi, durante la revisione di un'attestazione, è possibile ricevere commenti e suggerimenti su un elemento specifico nella documentazione di prova di esecuzione (PoE). I commenti e le richieste di informazioni aggiuntive vengono visualizzati anche nella cronologia delle attestazioni.
 
 Non è possibile modificare l'attestazione dopo averla inviata, a meno che un revisore non richieda informazioni aggiuntive.
 

@@ -2,17 +2,19 @@
 title: Scenari comuni di fatturazione mensile
 ms.topic: article
 ms.date: 05/13/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: "Scenari comuni nel centro per i partner quando si usa la fatturazione mensile: include l'aggiunta di nuove sottoscrizioni, la modifica della quantità di licenze e la sospensione delle sottoscrizioni."
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4fe5c33fe549604f25500dd333d187e6b70ad73e
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354577"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502515"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Scenari di fatturazione mensile di esempio per nuove sottoscrizioni, modifica degli importi di licenze o sospensioni
 
@@ -27,7 +29,7 @@ Questi [scenari di fatturazione comuni](common-billing-scenarios.md) di esempio 
 
 ## <a name="new-monthly-subscription"></a>Nuova sottoscrizione mensile
 
-La data di fatturazione è il 15 di ogni mese. Il 13 gennaio si acquista una nuova sottoscrizione con una licenza per $4 al mese e si seleziona la fatturazione mensile. Il 15 gennaio il file di riconciliazione basato sulle licenze conterrà le seguenti righe di fatturazione:
+La data di fatturazione è il 15 di ogni mese. Il 13 gennaio si acquista una nuova sottoscrizione con una licenza per $4 al mese e si seleziona la fatturazione mensile. Il file di riconciliazione basato sulle licenze del 15 gennaio conterrà le seguenti righe di fatturazione:
 
 |Data di inizio addebito |Data di fine addebito |Tipo di addebito |Unit Price |Quantità |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -41,7 +43,7 @@ Il 15 febbraio il file di riconciliazione basato sulle licenze conterrà la segu
 
 ## <a name="change-license-quantity"></a>Cambia la quantità di licenze
 
-La data di fatturazione è il 15 di ogni mese. Il 13 gennaio si acquista una nuova sottoscrizione con una licenza per $4 al mese e si seleziona la fatturazione mensile. Il 15 gennaio il file di riconciliazione basato sulle licenze conterrà le seguenti righe di fatturazione:
+La data di fatturazione è il 15 di ogni mese. Il 13 gennaio si acquista una nuova sottoscrizione con una licenza per $4 al mese e si seleziona la fatturazione mensile. Il file di riconciliazione basato sulle licenze del 15 gennaio conterrà le seguenti righe di fatturazione:
 
 |Data di inizio addebito |Data di fine addebito |Tipo di addebito |Unit Price |Quantità |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -68,7 +70,7 @@ Prezzo unitario proporzionale = 1,54 = 12 x 0,129
 
 ## <a name="suspend-before-30-days"></a>Sospendi prima di 30 giorni
 
-La data di fatturazione è il 15 di ogni mese. Il 13 gennaio si acquista una nuova sottoscrizione con una licenza per $4 al mese e si seleziona la fatturazione mensile. Il 15 gennaio il file di riconciliazione basato sulle licenze conterrà le seguenti righe di fatturazione:
+La data di fatturazione è il 15 di ogni mese. Il 13 gennaio si acquista una nuova sottoscrizione con una licenza per $4 al mese e si seleziona la fatturazione mensile. Il file di riconciliazione basato sulle licenze del 15 gennaio conterrà le seguenti righe di fatturazione:
 
 |Data di inizio addebito |Data di fine addebito |Tipo di addebito |Unit Price |Quantità |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -82,7 +84,7 @@ Il 1 ° febbraio viene sospesa una sottoscrizione. Il 15 febbraio il file di ric
 
 ## <a name="suspend-after-30-days"></a>Sospendi dopo 30 giorni
 
-La data di fatturazione è il 15 di ogni mese. Il 13 gennaio si acquista una nuova sottoscrizione con una licenza per $4 al mese e si seleziona la fatturazione mensile. Il 15 gennaio il file di riconciliazione basato sulle licenze conterrà le seguenti righe di fatturazione:
+La data di fatturazione è il 15 di ogni mese. Il 13 gennaio si acquista una nuova sottoscrizione con una licenza per $4 al mese e si seleziona la fatturazione mensile. Il file di riconciliazione basato sulle licenze del 15 gennaio conterrà le seguenti righe di fatturazione:
 
 |Data di inizio addebito |Data di fine addebito |Tipo di addebito |Unit Price |Quantità |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -94,7 +96,7 @@ Il 15 febbraio il file di riconciliazione basato sulle licenze conterrà la segu
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 2/13/2018|3/12/2018|Tariffa del ciclo|4,00|1|4,00
 
-Il 1 ° marzo viene sospesa la sottoscrizione. Il 15 marzo il file di riconciliazione basato sulle licenze conterrà la seguente riga di fatturazione:
+Il 1 ° marzo viene sospesa la sottoscrizione. Il file di riconciliazione basato sulle licenze del 15 marzo conterrà la seguente riga di fatturazione:
 
 |Data di inizio addebito |Data di fine addebito |Tipo di addebito |Unit Price |Quantità |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |

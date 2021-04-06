@@ -9,29 +9,25 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475195"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502553"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendere abbonamenti software tramite il programma Cloud Solution Provider (CSP)
-
-**Si applica a**
-
-- Cloud Solution Provider
 
 **Ruoli appropriati**
 
 - Agente amministratore
 - Amministratore globale
 
-Grazie alle prenotazioni di Azure e alle sottoscrizioni di server (Windows Server e SQL Server), i partner del programma CSP possono far fronte alla richiesta in rapida crescita da parte dei clienti di soluzioni più convenienti, in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. 
+Con le prenotazioni di Azure e gli abbonamenti server (Windows Server e SQL Server), i partner del programma CSP possono far fronte alla richiesta in rapida crescita da parte dei clienti di soluzioni più convenienti, in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. 
 
 Adesso puoi effettuare l'acquisizione, il provisioning e la gestione di prenotazioni di Azure e abbonamenti server per conto di clienti commerciali tramite il Centro per i partner e il portale di Azure sfruttando Vantaggio Azure Hybrid.
 
-Vantaggio Azure Hybrid ti consente di ottenere un valore aggiunto dalle licenze di Windows Server e di risparmiare fino al 40% sulle macchine virtuali. Puoi usare il vantaggio con le licenze per le edizioni Windows Server Datacenter e Standard con copertura Software Assurance. A seconda dell'edizione, puoi convertire o riusare le tue licenze per eseguire macchine virtuali di Windows Server in Azure e pagare un costo di calcolo di base inferiore (ad esempio i costi delle macchine virtuali Linux).
+Vantaggio Azure Hybrid ti consente di ottenere un valore aggiunto dalle licenze di Windows Server e di risparmiare fino al 40% sulle macchine virtuali. Puoi usare il vantaggio con le licenze per le edizioni Windows Server Datacenter e Standard con copertura Software Assurance. A seconda dell'edizione, è possibile convertire o riutilizzare le licenze per eseguire macchine virtuali Windows Server in Azure e pagare una tariffa di calcolo di base inferiore (ad esempio, le tariffe delle macchine virtuali Linux).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Mercati non disponibili per prenotazioni di Azure
 
@@ -101,7 +97,7 @@ Una volta acquistato il software, l'utente o i clienti devono scaricarlo (partne
 
 2. Scegliere **versione** prodotto, **lingua**, **bit** e selezionare **Ottieni chiavi e download**. 
 
-3. Scegliere **Ottieni chiave** per visualizzare il prodotto a 32 cifre in un dialogo popup che è possibile copiare e inviare al cliente. 
+3. Scegliere **Ottieni chiave** per visualizzare il prodotto 32-digit in una finestra di dialogo popup che è possibile copiare e inviare al cliente. 
 
 4. Scegliere **download** per scaricare i bit. 
 
@@ -114,7 +110,7 @@ Una volta acquistato il software, l'utente o i clienti devono scaricarlo (partne
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download e codici di licenza per sottoscrizioni di server disponibili tramite l'interfaccia di amministrazione di Microsoft 365 per i clienti 
 
-I clienti potranno ottenere i codici di licenza e i download per le sottoscrizioni di server CSP dall'interfaccia di amministrazione di Microsoft 365. Per visualizzare i codici di licenza e i download relativi alle sottoscrizioni di server CSP, il cliente dovrà accedere all'interfaccia di amministrazione di Microsoft 365 > **Fatturazione > Prodotti > scheda Software**. Per ulteriori informazioni, vedere la [scheda Software in Fatturazione](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+I clienti potranno ottenere i codici di licenza e i download per le sottoscrizioni di server CSP dall'interfaccia di amministrazione di Microsoft 365. Per visualizzare i codici di licenza e i download delle sottoscrizioni del server CSP, il cliente deve accedere a Microsoft 365 interfaccia di amministrazione > **la fatturazione > la scheda prodotti > software**. Per ulteriori informazioni, vedere la [scheda software in fatturazione](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visualizzare l'attività per l'accesso alle chiavi e ai download del software
 
@@ -145,7 +141,7 @@ Per annullare un acquisto, segui questa procedura:
 
 1. Prima di iniziare il processo di annullamento, assicurati di disporre di quanto segue:
 
-    - Nome, GUID del tenant o nome di dominio del cliente
+    - Il nome del cliente, il GUID del tenant o il nome di dominio
 
     - Nome del prodotto da annullare
     

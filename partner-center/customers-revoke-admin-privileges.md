@@ -9,25 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
-ms.translationtype: HT
+ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534880"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502498"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Ottenere le autorizzazioni per gestire il servizio o l'abbonamento di un cliente
-
-**Si applica a**
-
-- Centro per i partner
 
 **Ruoli appropriati**
 
 - Agente amministratore
 - Agente di vendita
 
-Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ultimo dovrà concederti le autorizzazioni di amministratore per tale servizio. Per ottenere le autorizzazioni di amministratore, invia al cliente una richiesta di relazione come rivenditore. Dopo che il cliente ha approvato la richiesta, potrai accedere al portale di amministrazione del servizio e gestire il servizio per conto del cliente. 
+Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ultimo dovrà concederti le autorizzazioni di amministratore per tale servizio. Per ottenere le autorizzazioni di amministratore, invia al cliente una richiesta di relazione come rivenditore. Dopo che il cliente ha approvato la richiesta, sarà possibile accedere al portale di amministrazione del servizio e gestire il servizio per conto del cliente. 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire con l'utente una relazione come rivenditore
 

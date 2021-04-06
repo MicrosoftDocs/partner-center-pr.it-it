@@ -10,19 +10,18 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 2171e2b10101e99bdd8d415a936ba98af65c2a1b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006775"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502571"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Istruzioni per il consolidamento dei tenant per l'autorizzazione regionale per CSP
 
 **Si applica a**
 
--  Centro per i partner
--  Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
 
@@ -46,9 +45,9 @@ ms.locfileid: "92006775"
 
 1. Accedere al centro per i **partner**  con l'account di **transizione** (nuovo) (quello in cui si sta effettuando la transizione dei clienti).
 
-2. Selezionare **Clienti**.
+2. Seleziona **Clienti**.
 
-3. Fai cli su **Richiedi una relazione come rivenditore**. Viene visualizzato un messaggio di posta elettronica predefinito da inviare ai clienti. Questo messaggio contiene un URL con l'ID organizzazione univoco per il tuo nuovo account del Centro per i partner.
+3. Selezionare **Richiedi una relazione rivenditore**. Viene visualizzato un messaggio di posta elettronica predefinito da inviare ai clienti. Questo messaggio contiene un URL con l'ID organizzazione univoco per il tuo nuovo account del Centro per i partner.
 
 4. **Azione del cliente:** assicurati che ogni cliente attivo di cui vuoi eseguire la migrazione visiti questo URL. All'apertura dell'URL, al cliente viene richiesto di accedere al portale di Office 365. Il cliente effettua l'accesso con lo stesso ID organizzazione usato per accedere ai portali di amministrazione di Azure e Office 365.
 
@@ -60,7 +59,7 @@ I clienti verranno visualizzati nell'elenco dei clienti del partner dopo che han
 
 1. Quando il cliente ha accettato il contratto, puoi ricreare le sue sottoscrizioni nel tuo tenant partner centralizzato.
 
-2. Dal **centro** per i partner selezionare **Customers**.
+2. Dal **centro** per i partner selezionare **Customers (clienti**).
 
 3. Apri il nome dell'azienda per il cliente di cui vuoi eseguire la migrazione.
 
@@ -70,7 +69,7 @@ I clienti verranno visualizzati nell'elenco dei clienti del partner dopo che han
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="elenco dei clienti":::
 
-6. Fare clic su **Invia.**
+6. Selezionare **Invia.**
 
    I servizi vengono ora forniti al cliente dall'account partner di **destinazione della transizione**.
 
@@ -89,7 +88,7 @@ La disabilitazione della sottoscrizione CSP negli account partner di **origine d
 
 2. Apri il cliente con le sottoscrizioni da disabilitare e quindi seleziona la prima offerta da disabilitare.
 
-3. Imposta la sottoscrizione come **sospesa** e quindi fai clic su **Invia**.
+3. Impostare la sottoscrizione su **sospesa**, quindi selezionare **Invia**.
 
    >[!Note]
    >La sospensione della sottoscrizione garantisce che non si verifichi la doppia fatturazione.
@@ -102,7 +101,7 @@ La disabilitazione della sottoscrizione CSP negli account partner di **origine d
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migrazione di sottoscrizioni in base all'uso di Azure
 
-A differenza delle sottoscrizioni di Office 365 CSP, non è necessario eseguire la migrazione manuale delle sottoscrizioni CSP basate sull'utilizzo di Azure. Il supporto Microsoft Azure eseguirà la migrazione delle sottoscrizioni di Azure, nonché di tutti i servizi o le risorse distribuiti dalla **transizione dagli account del** rivenditore CSP all' **account del rivenditore** CSP. Non ci saranno interruzioni del servizio per il cliente durante la transizione.
+A differenza delle sottoscrizioni di Office 365 CSP, non è necessario eseguire la migrazione manuale delle sottoscrizioni CSP basate sull'utilizzo di Azure. Il supporto Microsoft Azure eseguirà la migrazione delle sottoscrizioni di Azure e di tutte le risorse o dei servizi distribuiti dalla **transizione dagli account del** rivenditore CSP al servizio **di transizione all'** account del rivenditore CSP. Non ci saranno interruzioni del servizio per il cliente durante la transizione.
 
 1. Assicurarsi che gli account cliente che disporranno di sottoscrizioni di Azure migrati abbiano accettato il contratto da associare alla nuova **transizione all'** account CSP.
 
@@ -134,11 +133,11 @@ A differenza delle sottoscrizioni di Office 365 CSP, non è necessario eseguire 
 
 La **funzione di esportazione** consente di recuperare le sottoscrizioni che devi usare nella nuova struttura consolidata:
 
-1. Fare clic su **clienti** nel centro per i partner per visualizzare l'elenco dei clienti. 
+1. Selezionare **Customers** in Partner Center per visualizzare l'elenco dei clienti. 
 
 2. Apri il nome del cliente desiderato.
 
-3. Nella pagina **Sottoscrizioni** fai clic su **Esporta sottoscrizioni** per esportare i dettagli delle sottoscrizioni in un file di Excel.
+3. Nella pagina **sottoscrizioni** selezionare **Esporta sottoscrizioni** per esportare i dettagli delle sottoscrizioni in un file di Excel.
 
 4. Usa questo elenco per ricreare le sottoscrizioni nel nuovo tenant consolidato.
 

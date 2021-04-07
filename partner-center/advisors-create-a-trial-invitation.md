@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 8c6f6cb5ba700618aebe773cffd566e4077a676d
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474156"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557716"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Advisor: creare e inviare un invito alla versione di valutazione per i client per provare a usare Office 365
 
@@ -44,7 +44,7 @@ Se si è autorizzati a offrire l'amministrazione delegata, è possibile aggiunge
     - **Sottoscrizioni di valutazione**: l'elenco delle sottoscrizioni di valutazione che è possibile scegliere è determinato dalla località di utilizzo del paese o della regione del client.
     - **Amministrazione delegata**: questa opzione è disponibile solo per i partner certificati per offrire l'amministrazione delegata. Scegliere questa opzione se si desidera offrire l'amministrazione delegata del client. In tal caso, il client può accettare l'invito alla versione di valutazione con o senza l'accettazione dell'amministrazione delegata. Per ulteriori informazioni sull'amministrazione delegata, vedere l' [offerta amministrazione delegata](customers-revoke-admin-privileges.md).
 
-3. Fare clic su **Avanti**.
+3. Selezionare **Avanti**.
 
 4. Nella pagina dell'**invito alla versione di valutazione** copiare l'URL e le informazioni sull'invito alla versione di valutazione, quindi incollarlo in un messaggio di posta elettronica, in un documento o in una pagina Web per creare un invito alla versione di valutazione personalizzata.
 

@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474173"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557733"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Advisor: compilare la base client con gli inviti alla versione di valutazione di Office 365 e le offerte di acquisto
 
@@ -45,7 +45,7 @@ Per altre informazioni sugli inviti alla versione di valutazione, vedere [creare
 > [!NOTE]
 > Questa funzionalità è disponibile solo per i partner Microsoft che sono Advisor autorizzati per le sottoscrizioni.
 
-Dopo aver inviato un invito alla versione di valutazione, è possibile giungere a un'offerta di acquisto, È possibile personalizzare un'offerta in modo da includere i servizi specifici richiesti dal cliente, nonché il numero corretto di licenze utente. Se si è autorizzati a offrire l'amministrazione delegata, è possibile aggiungere un'opzione all'offerta di acquisto che consente di amministrare la sottoscrizione per conto del cliente.
+Dopo aver inviato un invito alla versione di valutazione, è possibile giungere a un'offerta di acquisto, È possibile personalizzare un'offerta in modo da includere i servizi specifici richiesti dal cliente e il numero corretto di licenze utente. Se si è autorizzati a offrire l'amministrazione delegata, è possibile aggiungere un'opzione all'offerta di acquisto che consente di amministrare la sottoscrizione per conto del cliente.
 
 Quando si crea l'offerta di acquisto, viene creato automaticamente un URL personalizzato. L'URL include un codice incorporato che identifica l'utente come Advisor della sottoscrizione. È possibile utilizzare questo URL per un cliente o per molti clienti. Inviare l'URL al cliente in un messaggio di posta elettronica o pubblicarlo nel sito Web.
 

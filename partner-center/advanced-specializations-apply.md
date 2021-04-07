@@ -9,19 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658417"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557784"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Usare il centro per i partner per le specializzazioni avanzate e controllarne lo stato
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore account MPN
+- Amministratore degli account
 
 Questo articolo descrive come usare il dashboard del centro per i partner per richiedere una [specializzazione avanzata](advanced-specializations.md), verificare lo stato di avanzamento e completare i passaggi e le convalide necessari. Vengono inoltre illustrati alcuni esempi di utilizzo del centro per i partner per ottenere specializzazioni avanzate che richiedono riferimenti a controlli o clienti.
 

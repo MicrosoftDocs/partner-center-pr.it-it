@@ -9,19 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658400"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557767"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ottieni una specializzazione avanzata per presentare le tue funzionalità convalidate
 
 **Ruoli appropriati**
 
 - Amministratore globale
-- Amministratore account MPN
+- Amministratore degli account
 
 Le specializzazioni avanzate di Microsoft si basano sulle [Competenze Gold](learn-about-competencies.md) correlate che un partner può ottenere. Ottenere le competenze Gold, insieme alle specializzazioni avanzate, consente ai partner di differenziare ulteriormente le proprie funzionalità con i clienti.
 
@@ -41,7 +41,7 @@ Ogni specializzazione avanzata corrisponde a un'area della soluzione:
 - Azure
 - Applicazioni aziendali
 - Lavoro moderno
-- Security
+- Sicurezza
 
 Le specializzazioni avanzate di **Azure** includono:
 

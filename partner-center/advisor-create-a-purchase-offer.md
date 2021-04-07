@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474139"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557750"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Advisor: creare un'offerta di acquisto
 
@@ -48,7 +48,7 @@ Se il client richiede un numero diverso di licenze, inviargli una nuova offerta 
     - **Conteggio licenze**: quando si seleziona una sottoscrizione, digitare il numero di licenze che si desidera includere nell'offerta di acquisto.
     - **Amministrazione delegata**: questa opzione è disponibile solo per i partner certificati per offrire l'amministrazione delegata. Scegliere questa opzione se si desidera offrire l'amministrazione delegata del client. In tal caso, il client può accettare l'offerta di acquisto con o senza l'accettazione dell'amministrazione delegata.
 
-3. Fare clic su **Avanti**.
+3. Selezionare **Avanti**.
 
 4. Nella pagina **Invia** copiare le informazioni sull'offerta di acquisto e l'URL e quindi incollarlo in un messaggio di posta elettronica, in un documento o in una pagina Web per creare un'offerta di acquisto personalizzata.
 

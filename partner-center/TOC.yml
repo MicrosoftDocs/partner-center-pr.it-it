@@ -390,8 +390,6 @@
     - name: Nozioni di base sulla fatturazione
       href: billing-basics.md
       displayName: invoice
-    - name: Tipi di fatturazione nel Centro per i partner
-      href: billing-different-types.md
     - name: Informazioni sulla fattura
       href: read-your-bill.md
       displayName: invoice

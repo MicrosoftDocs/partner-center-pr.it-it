@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502868"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964341"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Panoramica delle offerte dei partner nell'ambito del programma Cloud Solution Provider
 
@@ -105,6 +105,15 @@ Per acquistare prodotti e servizi per conto dei tuoi clienti CSP, seleziona gli 
 
 8. I dettagli dell'ordine, incluso il numero d'ordine, vengono visualizzati nella pagina successiva. Seleziona **Fatto** per passare alla pagina **Cronologia ordini**.
 
+### <a name="customer-order-history"></a>Cronologia ordini di un cliente
+
+Per visualizzare la cronologia ordini di un cliente:
+
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.
+2. Scegli **Customers** (Clienti) dal menu a sinistra.
+3. Nella pagina **Customers** (Clienti) individua il cliente di cui vuoi visualizzare la cronologia ordini. Seleziona la freccia rivolta verso il basso per espandere il record del cliente.
+4. Scegli **View orders** (Visualizza ordini) per visualizzare la cronologia ordini del cliente.
+ 
 ## <a name="rules-for-special-segments"></a>Regole per segmenti speciali
 
 Alcune offerte basate su licenze possono essere acquistate solo in determinate condizioni. Tra le offerte di segmento speciale sono incluse le offerte Education, no profit o Government community Cloud (GCC). Per informazioni dettagliate su queste condizioni di acquisto, vedere l'argomento [Regole di acquisto per segmenti speciali](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).

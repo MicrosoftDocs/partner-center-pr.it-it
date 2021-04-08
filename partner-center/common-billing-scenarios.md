@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502447"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964408"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Scenari di fatturazione comuni per i partner del programma CSP che lavorano nel centro per i partner
 
@@ -26,6 +26,22 @@ ms.locfileid: "106502447"
 - Agente di vendita
 
 Questi articoli spiegano cosa si dovrebbe vedere nella fattura dopo l'aggiunta di nuove sottoscrizioni, la modifica del numero di licenze a una sottoscrizione o l'annullamento di una sottoscrizione. Altri [tipi di fatturazione del centro](billing-different-types.md)per i partner, ad esempio le sottoscrizioni basate sull'utilizzo e sulle licenze, vengono fatturati in modo diverso.
+
+
+## <a name="change-billing-frequency"></a>Modificare la frequenza di fatturazione
+
+La frequenza di fatturazione viene modificata a livello di ordine e, dopo aver apportato una modifica, il ciclo di fatturazione modificato verrà applicato a tutti gli abbonamenti inclusi nell'ordine. 
+
+Per modificare la frequenza di fatturazione di un servizio online per un cliente:
+
+1. [Accedi al dashboard Centro per i partner](https://partner.microsoft.com/dashboard/home).
+2. Scegli **Customers** (Clienti) dal menu a sinistra.
+3. Seleziona il cliente per cui vuoi modificare la frequenza di fatturazione dell'abbonamento.
+4. Nella pagina **Subscriptions** (Abbonamenti) del cliente seleziona l'abbonamento che vuoi modificare.
+5. Nella pagina **Details** (Dettagli), in **Billing frequency** (Frequenza di fatturazione), seleziona **Monthly** (Mensile) o **Annual** (Annuale). Verrà visualizzata una pagina di conferma con informazioni importanti sulla modifica della frequenza di fatturazione, oltre a un elenco degli abbonamenti che stanno per essere modificati.
+6. Scegli **OK** per apportare la modifica oppure **Annulla** per annullarla.
+
+## <a name="billing-scenarios"></a>Scenari di fatturazione
 
 | Tipo di fatturazione | Scenari possibili |
 | --------------- | ----------------- |

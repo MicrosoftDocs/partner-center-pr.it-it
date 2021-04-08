@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042719"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964375"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Panoramica della fatturazione per i partner del programma CSP che lavorano nel Centro per i partner 
 
@@ -67,11 +67,7 @@ Per la fatturazione una tantum e ricorrente, il periodo di fatturazione è allin
 
 I listini prezzi vengono aggiornati ogni mese. Un'anteprima dei listini prezzi è disponibile un (1) mese in anticipo.
 
-Per visualizzare i listini prezzi:
-
-1. [Accedi al dashboard Centro per i partner](https://partner.microsoft.com/dashboard/home).
-2. Scegli **Sell** (Vendita) dal menu a sinistra e quindi fai clic su **Pricing and offers** (Prezzi e offerte).
-3. Nella pagina **Pricing and offers** (Prezzi e offerte) puoi visualizzare sei mesi di listini prezzi (incluso il mese corrente) e un'anteprima di listini prezzi (se applicabile).
+Per visualizzare i programmi e le offerte del provider di soluzioni cloud più recenti, dal dashboard del portale per i partner passare a **Sell > prezzi e offerte**. Troverai elenchi prezzi distinti per i diversi tipi di prodotti disponibili. Nella pagina **prezzi e offerte** sono disponibili gli elenchi prezzi seguenti:
 
 I prezzi **in base alle licenze** sono garantiti per l'intera durata dell'abbonamento, in genere 12 mesi dalla data di acquisto. 
 
@@ -99,19 +95,6 @@ Per l'**esenzione IVA (imposta sul valore aggiunto)** , devi inviare il numero d
 
 Per altri dettagli sugli obblighi fiscali, puoi rivolgerti all'ufficio imposte locale o al tuo consulente fiscale di fiducia.
 
-### <a name="change-billing-frequency"></a>Modificare la frequenza di fatturazione
-
-La frequenza di fatturazione viene modificata a livello di ordine e, dopo aver apportato una modifica, il ciclo di fatturazione modificato verrà applicato a tutti gli abbonamenti inclusi nell'ordine. 
-
-Per modificare la frequenza di fatturazione di un servizio online per un cliente:
-
-1. [Accedi al dashboard Centro per i partner](https://partner.microsoft.com/dashboard/home).
-2. Scegli **Customers** (Clienti) dal menu a sinistra.
-3. Seleziona il cliente per cui vuoi modificare la frequenza di fatturazione dell'abbonamento.
-4. Nella pagina **Subscriptions** (Abbonamenti) del cliente seleziona l'abbonamento che vuoi modificare.
-5. Nella pagina **Details** (Dettagli), in **Billing frequency** (Frequenza di fatturazione), seleziona **Monthly** (Mensile) o **Annual** (Annuale). Verrà visualizzata una pagina di conferma con informazioni importanti sulla modifica della frequenza di fatturazione, oltre a un elenco degli abbonamenti che stanno per essere modificati.
-6. Scegli **OK** per apportare la modifica oppure **Annulla** per annullarla.
-
 ### <a name="adjustmentscreditscancellations"></a>Rettifiche/crediti/annullamenti
 
 I crediti per l'annullamento dei servizi basati su licenza vengono calcolati in modo proporzionale per i giorni inutilizzati nel caso di annullamenti precedenti alla data di scadenza (così come le riduzioni di licenze in base alla formula seguente:
@@ -121,6 +104,7 @@ I crediti per l'annullamento dei servizi basati su licenza vengono calcolati in 
 Non vengono applicate penali per la risoluzione anticipata per l'annullamento dei servizi in base alle licenze.
 
 ### <a name="billing-rules"></a>Regole per la fatturazione
+
 Attualmente esistono due tipi di frequenze di fatturazione: annuale e mensile.  
 Le tariffe per i servizi a consumo possono variare all'interno del ciclo di fatturazione.
 
@@ -146,24 +130,6 @@ Le tariffe per i servizi a consumo possono variare all'interno del ciclo di fatt
 
 - Nella fattura ricevuta ti verranno addebitati solo i costi accumulati per il mese specifico. 
 
-## <a name="manage-one-time-billing"></a>Gestire la fatturazione una tantum
-
-### <a name="billing-status-invoices-and-reconciliation-files"></a>Stato della fatturazione, fatture e file di riconciliazione
-
-Per visualizzare lo stato della fatturazione corrente, le fatture e i file di riconciliazione:
-
-1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.
-2. Nel menu a sinistra scegli **Fatturazione** e quindi seleziona **Acquisti ricorrenti e una tantum**.
-3. Nella pagina relativa allo stato della fatturazione seleziona una fattura o un file di riconciliazione per visualizzare informazioni più dettagliate.
-
-### <a name="customer-order-history"></a>Cronologia ordini di un cliente
-
-Per visualizzare la cronologia ordini di un cliente:
-
-1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.
-2. Scegli **Customers** (Clienti) dal menu a sinistra.
-3. Nella pagina **Customers** (Clienti) individua il cliente di cui vuoi visualizzare la cronologia ordini. Seleziona la freccia rivolta verso il basso per espandere il record del cliente.
-4. Scegli **View orders** (Visualizza ordini) per visualizzare la cronologia ordini del cliente.
 
 ### <a name="credit-notes"></a>Note di accredito
 
@@ -178,3 +144,6 @@ Potrebbe essere necessario richiedere un credito o emettere una nuova fattura pe
 
 - [Informazioni sulla fattura e sul file di riconciliazione](read-your-bill.md)
 - [Scenari di fatturazione comuni per i partner del programma CSP](common-billing-scenarios.md)
+- [Modificare la frequenza di fatturazione](common-billing-scenarios.md)
+- [Cronologia ordini di un cliente](csp-offers.md) 
+- [Prezzi e offerte](pricing-and-offers.md)

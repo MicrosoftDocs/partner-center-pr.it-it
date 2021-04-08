@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633761"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964426"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prezzi e offerte per Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure e altro ancora
 
@@ -28,7 +28,7 @@ ms.locfileid: "105633761"
 - Agente di vendita
 - Amministratore fatturazione
 
-Per visualizzare i programmi e le offerte del provider di soluzioni cloud più recenti, dal portale per i partner, vai a **vendere > prezzi e offerte**. Troverai elenchi prezzi distinti per i diversi tipi di prodotti disponibili. Nella pagina **prezzi e offerte** sono disponibili gli elenchi prezzi seguenti:
+Per visualizzare i programmi e le offerte del provider di soluzioni cloud più recenti, dal dashboard del portale per i partner passare a **Sell > prezzi e offerte**. Troverai elenchi prezzi distinti per i diversi tipi di prodotti disponibili. Nella pagina **prezzi e offerte** sono disponibili gli elenchi prezzi seguenti:
 
 - I **servizi basati su licenze** includono informazioni sui prezzi per Office 365, Enterprise Mobility e Security E3, oltre a Dynamics 365. La sezione relativa ai prezzi basata sulle licenze include i prezzi attuali e di anteprima, nonché la matrice dell'elenco di offerte. Gli elenchi prezzi includono il prezzo di listino e i prezzi di vendita al dettaglio (ERP) per le offerte in tutte le valute supportate. La matrice dell'elenco di offerte include la disponibilità del mercato e altre informazioni importanti sulle offerte. Questi file vengono aggiornati il primo giorno di ogni mese.
 - I **servizi basati sull'utilizzo** includono informazioni sui prezzi per Microsoft Azure e Visual Studio. Puoi anche usare il [calcolatore dei prezzi per Servizi Azure in CSP](https://azure.microsoft.com/pricing/calculator/). Il download basato sull'utilizzo include entrambi gli elenchi prezzi CSP per tutte le valute supportate, oltre ai file dei prezzi dei servizi condivisi in ERP. Questi file vengono aggiornati il primo giorno di ogni mese.

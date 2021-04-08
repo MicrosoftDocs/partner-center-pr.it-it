@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215816"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964358"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprendere la fattura e il file di riconciliazione: informazioni su come trovarli nel centro per i partner
 
@@ -27,6 +27,20 @@ ms.locfileid: "98215816"
 
 
 La **fattura** è un **Riepilogo di tutti gli addebiti** per il centro per i partner (attraverso il programma, tutti i prodotti e tutti i clienti). 
+
+## <a name="find-your-bill-and-reconciliation-file"></a>Trovare la fattura e il file di riconciliazione 
+
+È possibile trovare la fattura nella pagina fatturazione del dashboard nel centro per i partner. In questa pagina è anche possibile trovare la cronologia di fatturazione, le tendenze di spesa e i file di riconciliazione. 
+
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner. 
+
+2. Nel menu a sinistra selezionare **fatturazione**. 
+
+3. Nella pagina relativa allo stato della fatturazione seleziona una fattura o un file di riconciliazione per visualizzare informazioni più dettagliate. 
+
+È possibile trovare un collegamento alla fattura più recente nella parte superiore della pagina in saldo account come data ultima fattura. 
+
+È possibile trovare le fatture precedenti nella sezione cronologia di fatturazione. Scegliere l'anno appropriato, quindi selezionare la freccia a discesa accanto al periodo di fatturazione appropriato. Selezionare il collegamento accanto a fatture (. pdf) per scaricare la fattura del periodo. 
 
 ## <a name="invoice-types"></a>Tipi di fattura
 
@@ -52,19 +66,6 @@ Ad esempio,
 
 - Il partner riceverà un'altra fattura PDF e un file di riconciliazione che copre gli addebiti per l'offerta 145P in EUR (o valuta fatturazione partner). 
 
-## <a name="find-your-bill"></a>Trovare una fattura 
-
-È possibile trovare la fattura nella pagina fatturazione del dashboard nel centro per i partner. In questa pagina è anche possibile trovare la cronologia di fatturazione, le tendenze di spesa e i file di riconciliazione. 
-
-1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner. 
-
-2. Nel menu a sinistra selezionare **fatturazione**. 
-
-3. Nella pagina fatturazione selezionare la fattura che si desidera scaricare. 
-
-È possibile trovare un collegamento alla fattura più recente nella parte superiore della pagina in saldo account come data ultima fattura. 
-
-È possibile trovare le fatture precedenti nella sezione cronologia di fatturazione. Scegliere l'anno appropriato, quindi selezionare la freccia a discesa accanto al periodo di fatturazione appropriato. Selezionare il collegamento accanto a fatture (. pdf) per scaricare la fattura del periodo. 
 
 ## <a name="understanding-invoice-pdf"></a>Informazioni sulla fattura PDF 
 

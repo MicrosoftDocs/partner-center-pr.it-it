@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570159"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964391"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Creare un profilo di business per ottenere lead di vendita da Microsoft e facilitare l'individuazione degli utenti per i clienti
 
@@ -84,16 +84,7 @@ Inizia aggiungendo tag personalizzati nella sezione Esperienza partner. Puoi agg
 
 Altri tag usati nella ricerca:
 
--  I **tag di competenza** sono una designazione acquisita che mostra le capacità della tua azienda.
--  I **tag di approvazione** vengono acquisiti quando Microsoft o i clienti che hanno lavorato con te approvano il tuo lavoro.
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Allow Microsoft to endorse my areas of expertise (Consenti a Microsoft di approvare le tue competenze)
-
-Ti consigliamo di lasciare selezionata questa impostazione. 
-
-Man mano che dimostri i tuoi successi con i clienti attraverso il Centro per i partner o che partecipi ad altri programmi o certificazioni Microsoft, verranno aggiunte automaticamente approvazioni ai tuoi prodotti, servizi e settori specifici che hanno contribuito ai tuoi successi. Le approvazioni sono un fattore importante nei risultati della ricerca.
-
-Se però esistono prodotti per cui fornisci servizi che preferiresti non venissero visualizzati nel tuo profilo, puoi deselezionare la casella e gestire il profilo manualmente. Queste approvazioni risulteranno nascoste alla vista dei clienti, ma potrai poi aggiungerle nuovamente al profilo in qualsiasi momento.
+- I **tag di competenza** sono una designazione acquisita che mostra le capacità della tua azienda.
 
 ### <a name="customer-preferences"></a>Preferenze clienti
 
@@ -121,13 +112,12 @@ Se hai già specificato cinque posizioni principali e hai bisogno di modificarne
 
 Dopo la pubblicazione del profilo, gli aggiornamenti vengono visualizzati nelle ricerche di [Trova un provider di soluzioni](https://www.microsoft.com/solution-providers/home) entro 24 ore.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Migliorare la visibilità del profilo 
+## <a name="improve-the-visibility-of-your-profile"></a>Migliorare la visibilità del profilo
 
 - **[Rispondi rapidamente alle richieste](manage-leads.md)** . Quando ricevi una segnalazione di un cliente, una risposta più veloce può produrre risultati migliori nelle pagine di ricerca per i clienti futuri.
 
 - **Cerca di essere selettivo nell'uso dei tag**.  È preferibile avere un numero minore di tag che rappresentino al meglio offerte, soluzioni, proposte di valore e posizione specifica dell'azienda con cui dimostrare in modo coerente il successo della tua azienda.  Questa scelta darà i suoi frutti nei risultati delle ricerche future.
 - **Acquisisci i tag di competenza** tramite Microsoft per dimostrare la tua competenza nei prodotti Microsoft.
-- **Acquisisci i tag di approvazione** dai clienti che apprezzano il tuo lavoro.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

@@ -1,28 +1,37 @@
 ---
-title: Programma per il voucher di formazione Software Assurance
+title: Ritiro programma del voucher di formazione Software Assurance
 ms.topic: article
-ms.date: 12/09/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Scopri come iscriverti al programma Software Assurance training voucher per ottenere la possibilità di compensare la formazione e la pianificazione per i clienti aziendali.
+description: È in corso il ritiro del programma Software Assurance training voucher.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926606"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024977"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programma SATV (Software Assurance Training Voucher) nel Centro per i partner
+# <a name="training-vouchers-program-retirement"></a>Ritiro del programma per i voucher di formazione
 
-Espandere la propria attività iscrivendosi ai programmi per partner Software Assurance. Microsoft ricompensa i partner per la distribuzione di corsi di formazione, pianificazione e altri servizi ai clienti aziendali con Software Assurance.
+I voucher di formazione sono stati completamente ritirati dai vantaggi di Software Assurance, ma i clienti possono continuare a usare i giorni del voucher per la formazione condotta da un insegnante mentre i voucher sono validi. Queste sono le date significative che portano al ritiro del programma: 
 
-In qualità di partner di formazione Software Assurance approvato, Microsoft ricompensa l'utente per la formazione tecnica fornita ai clienti aziendali in cambio dei voucher che ottengono con Software Assurance. La partecipazione a questo programma può essere utile per attirare più clienti e diventare partner di formazione attendibile.
+- 1 febbraio 2020: formazione di Azure ritirata dal catalogo del voucher di training.
+- 1 febbraio 2020: i voucher di formazione non possono più essere convertiti in giorni di pianificazione dei servizi.  
+- 1 febbraio 2021: i clienti non accumulano più i vantaggi della formazione. 
+- 30 giugno 2021: ultimo giorno in cui i clienti possono creare/assegnare i voucher di training. Tutti i giorni del voucher di training rimanenti verranno rimossi il 1 ° luglio 2021.
+- 1 gennaio 2022: ultimo giorno in cui i partner devono riscattare i voucher di formazione. Il partner avrà 60 giorni dopo il riscatto per completare il processo di richiesta di pagamento.  
 
-## <a name="get-started"></a>Introduzione
+>[!NOTE]
+>Il ciclo di vita del voucher non è stato modificato. Una volta che un voucher è stato creato/assegnato, la prenotazione del voucher, le sessioni di formazione e il riscatto del voucher devono essere completati entro 180 giorni prima della scadenza del voucher.  Per ulteriori informazioni sul ritiro del voucher di formazione, vedere le domande frequenti disponibili [qui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) per altre informazioni (accesso richiesto).  Per un elenco completo dei corsi di formazione idonei per SATV, vedere il catalogo dei prodotti per il vantaggio di training.  Rivolgersi a eventuali domande al team di supporto per partner regionali: [supporto per partner EMEA](mailto:savoucher@msdirectservices.com); [Supporto generale](https://partner.microsoft.com/dashboard/support/servicerequests)per i partner.
+
+## <a name="until-june-30-2021"></a>Fino al 30 giugno 2021
+
+### <a name="get-started"></a>Introduzione
 
 Se non si ha familiarità con i servizi di formazione per Software Assurance, seguire tutti i passaggi seguenti. Se il programma training voucher è già attivo, iniziare dal passaggio 4 (4). 
 
@@ -74,7 +83,7 @@ I pagamenti vengono gestiti tramite lo strumento di pagamento online SAVB (Softw
 
 Per ulteriori informazioni, leggere le [domande frequenti](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) ed esaminare i [criteri del programma SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
 
-Vedere anche:
+Vedere anche la pagina relativa alla
 
 - [Flusso di lavoro dei voucher di training di Software Assurance (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
 - [Domande frequenti sui voucher di formazione per Software Assurance (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)

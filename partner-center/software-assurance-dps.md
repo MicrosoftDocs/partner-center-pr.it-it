@@ -1,31 +1,43 @@
 ---
-title: Servizi di pianificazione di Software Assurance
+title: Ritiro dei servizi di pianificazione di Software Assurance
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Scopri come iscriverti e qualificarti per gli impegni di Microsoft Planning Services, in modo da poter offrire formazione e altri servizi ai clienti con Software Assurance.
+description: Microsoft Planning Services è in fase di ritiro.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028226"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024994"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Servizi di pianificazione Software Assurance nel Centro per i partner
+# <a name="software-assurance-planning-services-retirement"></a>Ritiro dei servizi di pianificazione di Software Assurance
 
 **Ruoli appropriati**
 
 - Amministratore globale
 - Amministratore dei partner MPN
 
-In qualità di partner di servizi di pianificazione approvato, Microsoft compensa l'utente per fornire impegni di pianificazione pre-distribuzione per i clienti aziendali. La partecipazione a questo programma può essere utile per attirare più clienti, diventare partner di pianificazione attendibile e raggiungere ulteriori impegni con i clienti.
 
-## <a name="get-started"></a>Introduzione
+I servizi di pianificazione vengono ritirati completamente dai vantaggi di Software Assurance, ma i clienti possono continuare a collaborare con i partner per usare i giorni di pianificazione dei servizi per gli impegni mentre i voucher sono validi. Queste sono le date significative che portano al ritiro del programma: 
+
+- 1 febbraio 2020: la pianificazione dei servizi cloud Engagement è stata ritirata.  
+- 1 febbraio 2020: i voucher di formazione non possono più essere convertiti in giorni di pianificazione dei servizi.  
+- 1 febbraio 2021: i clienti non accumulano più i vantaggi dei servizi di pianificazione. 
+- 30 giugno 2021: ultimo giorno in cui i clienti possono creare/assegnare i voucher di Planning Services. Tutti i giorni rimanenti di Planning Services verranno rimossi il 1 ° luglio 2021.
+- 1 gennaio 2022: ultimo giorno in cui i partner devono riscattare i voucher di Planning Services. Il partner avrà 60 giorni dopo il riscatto per completare il processo di richiesta di pagamento.  
+
+>[!NOTE]
+>Il ciclo di vita del voucher non è stato modificato. Una volta che un voucher è stato creato/assegnato, la prenotazione del voucher, il coinvolgimento dei clienti e il riscatto del voucher devono essere completati entro 180 giorni prima della scadenza del voucher.  Per ulteriori informazioni sulla pianificazione del ritiro dei programmi, vedere le domande frequenti disponibili [qui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) per altre informazioni (accesso richiesto).  Rivolgersi a eventuali domande al team di supporto per partner regionali: [supporto per partner EMEA](mailto:savoucher@msdirectservices.com); [Supporto del partner generale](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>Fino al 30 giugno 2021
+
+### <a name="get-started"></a>Introduzione
 
 Se non si ha familiarità con Software Assurance Planning Services, attenersi alla procedura riportata di seguito. Se è già attivo nei programmi di Planning Services, iniziare ogni nuovo impegno al passaggio 4 (4) riportato di seguito.
 
@@ -62,8 +74,6 @@ Quando la società soddisfa i requisiti di idoneità, si è pronti per firmare i
 
 Assicurarsi prima di tutto di esaminare tutti i [criteri del programma di pianificazione dei servizi](https://go.microsoft.com/fwlink/?linkid=2115984). Seguire quindi le istruzioni nel [passaggio 2](https://go.microsoft.com/fwlink/?linkid=2115983) del flusso di lavoro per completare il processo di registrazione dei servizi di pianificazione nel centro per i partner.
 
->[!NOTE]
-> Sarà necessario rinnovare i requisiti e registrarsi di nuovo nei programmi di Planning Services ogni anno.
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Crea o aggiorna il profilo business dell'azienda (nuovi partner)
 

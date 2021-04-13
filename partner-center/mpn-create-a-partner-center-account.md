@@ -1,7 +1,7 @@
 ---
 title: Creare un account MPN nel centro per i partner
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informazioni su come i membri del programma Microsoft Partner Network possono creare un account per il Centro per i partner al fine di gestire le competenze e i vantaggi offerti dalla rete.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712920"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266538"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Creare un account MPN nel centro per i partner per gestire i vantaggi e le competenze della rete
 
@@ -25,7 +25,7 @@ Se non si ha familiarità con Microsoft Partner Network (MPN) e non si dispone d
 
 Quando si è pronti per creare un account nel centro per i partner, è necessario avere a disposizione gli elementi seguenti.  Prima di iniziare, è consigliabile dedicare qualche minuto alla raccolta di questi elementi:
 
-- Indirizzo di posta elettronica aziendale o account aziendale 365 di Office. Per ulteriori informazioni, leggere [l'account aziendale e il centro per i partner](azure-active-directory-tenants-and-partner-center.md) 
+- Indirizzo di posta elettronica aziendale o account aziendale 365 di Office. L'azienda potrebbe dover acquistare un dominio di posta elettronica per configurare gli indirizzi di posta elettronica di lavoro per i dipendenti. Per altre informazioni, vedi [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md). 
  
 - Ragione sociale e indirizzo dell'azienda.
 

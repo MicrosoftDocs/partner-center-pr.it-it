@@ -10,17 +10,51 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 2cd791425fd30d18b8db5f999eb773fc0e2f37e6
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.date: 04/08/2021
+ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374434"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266521"
 ---
 # <a name="april-2021-announcements"></a>Annunci di aprile 2021
 
 Questa pagina fornisce gli annunci per Microsoft Partner Center per il 2021 aprile.
+
+________________
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Promemoria: deprecato della qualificazione GET il 4 maggio 2021
+
+### <a name="categories"></a>Categorie
+
+- Data: 2021-04-09
+- Funzionalità
+
+### <a name="impacted-audience"></a>Destinatari interessati
+
+Partner che vendono Academic, no profit e Government community Cloud (GCC) offre tramite il programma Cloud Solution Provider tramite l'API del centro per i partner
+
+### <a name="details"></a>Dettagli
+
+Questo annuncio è un completamento per i miglioramenti apportati al centro per i partner [rilasciati nel dicembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Come parte di questa versione, sono state distribuite nuove API per le qualifiche GET e POST e, di conseguenza, la qualificazione GET esistente verrà ritirata entro il 4 maggio 2021. A questo punto, sarà necessario passare all'uso delle nuove API del centro per i partner per le offerte di formazione per gli acquisti e la nuova API GET Qualifications per l'acquisto di offerte prequalificate per le organizzazioni no profit e GCC.
+
+### <a name="next-steps"></a>Passaggi successivi
+
+- Aggiornare le nuove API per una transizione tempestiva e corretta.
+
+- Esaminare le nuove modifiche e la guida dell'API del centro per i partner nelle risorse per la preparazione delle operazioni: miglioramenti apportati ai [processi di convalida dei clienti di Education Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+
+- Condividere queste informazioni con i team appropriati all'interno dell'organizzazione e con i rivenditori per aiutarli a prepararsi a queste modifiche.
+
+### <a name="questions"></a>Domande?
+
+Per eventuali domande relative a questa notifica, contattare il [supporto tecnico del centro](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)per i partner.
+
+### <a name="change-log"></a>Registro delle modifiche
+
+- Aprile: promemoria della prossima deprecazione della qualificazione GET 
+- Febbraio: sequenze temporali aggiornate per la deprecazione di GET & le qualifiche PUT
+- Gennaio: promemoria dei futuri deprecazioni di GET & le qualifiche PUT
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nuovo formato per la nuova fattura PDF di Commerce in CSP

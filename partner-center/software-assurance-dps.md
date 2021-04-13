@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024994"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266504"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Ritiro dei servizi di pianificazione di Software Assurance
 
@@ -35,7 +35,6 @@ I servizi di pianificazione vengono ritirati completamente dai vantaggi di Softw
 >[!NOTE]
 >Il ciclo di vita del voucher non è stato modificato. Una volta che un voucher è stato creato/assegnato, la prenotazione del voucher, il coinvolgimento dei clienti e il riscatto del voucher devono essere completati entro 180 giorni prima della scadenza del voucher.  Per ulteriori informazioni sulla pianificazione del ritiro dei programmi, vedere le domande frequenti disponibili [qui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) per altre informazioni (accesso richiesto).  Rivolgersi a eventuali domande al team di supporto per partner regionali: [supporto per partner EMEA](mailto:savoucher@msdirectservices.com); [Supporto del partner generale](https://partner.microsoft.com/dashboard/support/servicerequests)
 
-## <a name="until-june-30-2021"></a>Fino al 30 giugno 2021
 
 ### <a name="get-started"></a>Introduzione
 

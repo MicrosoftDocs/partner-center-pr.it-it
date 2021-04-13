@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132282"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315899"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gestire l'account del Centro per i partner: profilo della società, informazioni bancarie, ruoli, autorizzazioni e altri dati
 
@@ -42,7 +42,7 @@ Questa immagine rappresenta la pagina Impostazioni account.
 
 ### <a name="locate-your-mpn-id"></a>Individuare l'ID MPN
 
-Sia i partner che gli sviluppatori possono usare l'ID MPN per operazioni come la registrazione dei ticket di supporto. L'ID MPN si trova nella pagina **Informazioni legali**. È possibile trovarlo anche nel **profilo dell'identità**.
+Sia i partner che gli sviluppatori possono usare l'ID MPN per operazioni come la registrazione dei ticket di supporto. L'ID MPN si trova nella pagina **informazioni legali** . È possibile trovarlo anche nel **profilo dell'identità**.
 
 ## <a name="account-settings---partners-resellers"></a>Impostazioni account: partner e rivenditori
 

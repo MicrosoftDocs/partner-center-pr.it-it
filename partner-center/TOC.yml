@@ -12,8 +12,6 @@
     - name: Creare un account MPN nel centro per i partner
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
-    - name: Ottenere un indirizzo di posta elettronica aziendale
-      href: buy-email-domain.md
     - name: Risolvere i problemi di configurazione dell'account
       href: troubleshoot-account-sign-n.md
     - name: Passaggi al Centro per i partner
@@ -246,7 +244,7 @@
           href: reset-a-user-password.md
         - name: Reimpostare la password
           href: reset-my-pasword.md
-        - name: L'utente non riesce ad accedere
+        - name: Risolvere i problemi di accesso
           href: unable-to-sign-in.md
         - name: L'utente non è un amministratore MPN
           href: no-mpn-admin.md

@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024977"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266487"
 ---
 # <a name="training-vouchers-program-retirement"></a>Ritiro del programma per i voucher di formazione
 
@@ -29,7 +29,7 @@ I voucher di formazione sono stati completamente ritirati dai vantaggi di Softwa
 >[!NOTE]
 >Il ciclo di vita del voucher non è stato modificato. Una volta che un voucher è stato creato/assegnato, la prenotazione del voucher, le sessioni di formazione e il riscatto del voucher devono essere completati entro 180 giorni prima della scadenza del voucher.  Per ulteriori informazioni sul ritiro del voucher di formazione, vedere le domande frequenti disponibili [qui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) per altre informazioni (accesso richiesto).  Per un elenco completo dei corsi di formazione idonei per SATV, vedere il catalogo dei prodotti per il vantaggio di training.  Rivolgersi a eventuali domande al team di supporto per partner regionali: [supporto per partner EMEA](mailto:savoucher@msdirectservices.com); [Supporto generale](https://partner.microsoft.com/dashboard/support/servicerequests)per i partner.
 
-## <a name="until-june-30-2021"></a>Fino al 30 giugno 2021
+
 
 ### <a name="get-started"></a>Introduzione
 

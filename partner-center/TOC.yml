@@ -14,14 +14,6 @@
       displayName: mpn
     - name: Risolvere i problemi di configurazione dell'account
       href: troubleshoot-account-sign-n.md
-    - name: Passaggi al Centro per i partner
-      items:
-        - name: Passaggio dall'interfaccia di amministrazione partner - Panoramica
-          href: pac-to-pc-overview.md
-        - name: Confrontare le attività nell'interfaccia di amministrazione partner e nel Centro per i partner
-          href: moving-from-pac-to-pc.md
-        - name: Eseguire le attività dell'interfaccia di amministrazione partner nel Centro per i partner
-          href: o365-partner-admin-center-to-partner-center.md
     - name: Spostamenti da Partner Membership Center
       items:
         - name: Preparare la migrazione da Partner Membership Center
@@ -159,8 +151,6 @@
     - name: 'Contratti, listini prezzi e offerte del programma CSP'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: Gestione costi di Azure di Cloudyn per CSP
-      href: azure-cost-management-app-for-csp-partners.md
     - name: Mercati locali e valute del programma CSP
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'

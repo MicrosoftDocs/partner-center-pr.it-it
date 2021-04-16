@@ -1,60 +1,63 @@
 ---
 title: Registrazione degli incentivi
 ms.topic: how-to
-ms.date: 11/12/2020
-description: Iscriversi al programma incentives e assegnare i ruoli necessari per la gestione degli utenti. Questo articolo descrive il processo di registrazione.
+ms.date: 04/15/2021
+description: Iscriversi al programma incentivi e assegnare i ruoli necessari per la gestione degli utenti. Questo articolo descrive il processo di registrazione.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 22233b8dd41776b34bb4ec1d202f6e84a6ded3fc
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: c4e24c22790edddef02e7936eaef9ed788489a37
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179139"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528527"
 ---
-# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Registrazione e gestione degli utenti nel programma incentives
+# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Registrazione e gestione utenti nel programma incentivi
 
 **Ruoli appropriati**
 
 - Amministratore degli incentivi
 
 >[!NOTE]
->Prima di poter eseguire la registrazione al programma incentives, è necessario aver completato il centro di appartenenza dei partner alla [migrazione](prepare-pmc-pc-migration.md)del centro per i partner.
+>Prima di poter eseguire la registrazione al programma di incentivi, è necessario aver completato il Partner Membership Center per Partner Center [migrazione.](prepare-pmc-pc-migration.md)
 
 Il processo di registrazione è costituito da due passaggi.
 
-**Passaggio 1. Gestione utenti:** questo passaggio implica la definizione dell'amministratore di incentivi nel centro per i partner.
+**Passaggio 1. Gestione utenti:** questo passaggio comporta la definizione dell'amministratore incentivi in Partner Center.
 
-**Passaggio 2. Registrazione:** Microsoft invia un invito a iscriversi al programma di incentivi.
+**Passaggio 2. Registrazione:** Microsoft invia un invito a registrarsi nel programma di incentivi.
 
 ## <a name="user-management"></a>User Management
 
-Per iscriversi a un programma di incentivazione del centro per i partner, l'amministratore globale o l'amministratore dell'account deve configurare gli utenti aziendali come amministratori di incentivi. Per informazioni sugli account partner, i ruoli e le autorizzazioni, vedere [gestire l'account del centro per i partner](partner-center-account-setup.md). L'amministratore globale può anche configurare gli utenti aziendali tramite il Azure Active Directory (Azure AD).
-
-Una volta che l'organizzazione è idonea per gli incentivi, Microsoft invierà gli inviti all'amministratore dell'account e all'amministratore di incentivi.
+Per registrarsi in un Partner Center di incentivi, l'amministratore globale o l'amministratore dell'account deve configurare gli utenti aziendali come amministratori degli incentivi. Per informazioni su account, ruoli e autorizzazioni partner, vedere [Gestire l'account Partner Center partner.](partner-center-account-setup.md) Il amministratore globale può anche configurare gli utenti aziendali tramite il Azure Active Directory (Azure AD).
 
 >[!NOTE]
->Solo l'amministratore di incentivi può iscriversi a programmi incentive. Se non è disponibile alcun amministratore incentive per la località, l'amministratore globale e l'amministratore dell'account devono assegnarne uno. È necessario assegnare l'amministratore incentivo per gli ID MPN della località. L'amministratore globale o l'amministratore dell'account può anche essere assegnato come amministratore di incentivi. Per altre informazioni sui diversi ruoli, vedere [gestire gli incentivi](permissions-overview.md#manage-incentives).
+>Solo l'amministratore incentivo può registrarsi nei programmi di incentivi. Se non è presente alcun amministratore incentivi per la località, il amministratore globale e l'amministratore account devono assegnarne uno. L'amministratore dell'incentivo deve essere assegnato per gli ID MPN della posizione. L amministratore globale amministratore dell'account o dell'account può anche essere assegnato come amministratore incentivo. Per altre informazioni sui diversi ruoli, vedere [Gestire gli incentivi.](permissions-overview.md#manage-incentives)
 
 ## <a name="enrollment-process"></a>Processo di registrazione
 
-Una volta che l'organizzazione è idonea per gli incentivi, Microsoft invierà un invito all'amministratore di incentivi della MPNLocationID idonea per iniziare il processo di registrazione. Questo messaggio di posta elettronica verrà inviato dal centro per i **partner Microsoft** e avrà l'invito per la **registrazione incentive per partner**. Aprire l'invito **e selezionare inizia**.
+Una volta che l'organizzazione è idonea per gli incentivi, Microsoft invierà un invito all'amministratore incentivi di MPNLocationID idoneo per iniziare il processo di registrazione. Questo messaggio di posta elettronica verrà inviato da **Microsoft Partner Center** e avrà l'oggetto **Partner Incentive Enrollment Invitation**. Aprire l'invito e selezionare **Introduzione.**
 
-Verrà inoltre visualizzato un invito nel centro per i partner home page. Dopo aver selezionato il messaggio, non sarà più possibile visualizzarlo nuovamente. Tuttavia, l'amministratore di incentivi può comunque completare il processo effettuando l'accesso al [Dashboard del centro](https://partner.microsoft.com/dashboard/) per i partner e selezionando **Panoramica** in **incentivi** sul NAV sinistro. Selezionare **registra**, quindi completare i pagamenti e i profili fiscali per il programma.
+Verrà visualizzato anche un invito nella Partner Center home page. Dopo aver selezionato il messaggio, non sarà più possibile visualizzare il messaggio. Tuttavia, l'amministratore incentivi può comunque completare il processo accedendo al [dashboard](https://partner.microsoft.com/dashboard/) Partner Center e selezionando Panoramica in **Incentivi** nel riquadro di spostamento a sinistra.  Selezionare **Registra** e quindi completare il profilo di pagamento e fiscale per il programma.
 
-Una registrazione viene considerata completa solo quando i pagamenti e i profili fiscali forniti per la registrazione vengono convalidati da Microsoft.
+Se è già stata impostata una configurazione del profilo bancario predefinito per una località MPN e si sta tentando di registrarsi per la stessa località MPN in un programma di incentivi, quando si seleziona **Registra** e si accetta l'invito, verrà visualizzato il profilo bancario predefinito. Verrà visualizzato anche qualsiasi profilo fiscale disponibile se è stato creato per tale località MPN. Se Microsoft dispone di tutti i dettagli richiesti per il profilo bancario e fiscale, verrà richiesto di selezionare **Invia** per completare la registrazione. Vedere [Configurare un profilo bancario predefinito.](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile)
 
-Alcuni programmi incentive non hanno criteri di idoneità e sono aperti a tutti i partner. L'amministratore di incentivi visualizzerà gli inviti per questi programmi nella pagina Panoramica incentivi, purché dispongano delle autorizzazioni per il programma incentive pertinente e MPN. Microsoft non invia alcun invito tramite posta elettronica per questi programmi.
+È anche possibile scegliere un profilo bancario diverso da quello predefinito. Se Microsoft richiede dettagli aggiuntivi per i profili di pagamento  o fiscali o la  valuta, verrà richiesto di continuare e verrà reindirizzato alla pagina del profilo Pagamento e imposta per fornire i dettagli mancanti. 
 
-Per ulteriori informazioni sul processo di registrazione, scaricare la guida alla [registrazione](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) per gli incentivi (accesso richiesto).
+Una registrazione viene considerata completa solo quando il profilo di pagamento e fiscale fornito per la registrazione viene convalidato da Microsoft.
+
+Alcuni programmi di incentivi non hanno criteri di idoneità e sono aperti a tutti i partner. L'amministratore degli incentivi visualizza gli inviti per questi programmi nella pagina di panoramica degli incentivi, purché abbia le autorizzazioni per il programma di incentivi pertinente e MPN. Microsoft non invia inviti tramite posta elettronica per questi programmi.
+
+Per altre informazioni sul processo di registrazione, scaricare la [Guida all'iscrizione agli](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) incentivi (è necessario l'accesso).
 
 ## <a name="expiration-and-renewal"></a>Scadenza e rinnovo
 
-La registrazione degli incentivi scade alla fine dell'anno fiscale. Tuttavia, se si rimane un partner idoneo con un contratto attivo, Microsoft effettuerà il rollforward della registrazione degli incentivi nell'anno fiscale successivo. Non è necessario intraprendere alcuna azione, purché le informazioni sui pagamenti e le imposte richieste per il programma incentive siano completate in base alle regole del programma incentive.
+L'iscrizione agli incentivi scade alla fine dell'anno fiscale. Tuttavia, finché si rimane un partner idoneo con un contratto attivo, Microsoft esegue il roll forward della registrazione degli incentivi nel prossimo anno fiscale. Non è necessario intraprendere alcuna azione, purché le informazioni sui pagamenti e sulle imposte necessarie per il programma di incentivi sono complete in base alle regole del programma di incentivi.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
 - [Determinare l'idoneità al programma](incentives-determined-your-program-eligibility.md)
+- [Creare e gestire i profili di pagamento e fiscali](incentives-create-and-manage-your-payout-and-tax-profiles.md)

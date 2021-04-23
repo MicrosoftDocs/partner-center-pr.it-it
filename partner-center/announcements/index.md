@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 47723bd4b2deed703e224f7151a1d85a478aa8a7
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/22/2021
+ms.openlocfilehash: 4e5faf1467ea12aac8f4dfaa4c35455159f64632
+ms.sourcegitcommit: 1e1aea329fdeef526e5273d2a4d8f5ec767ac49c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823368"
+ms.lasthandoff: 04/23/2021
+ms.locfileid: "107917617"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -25,7 +25,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 |Funzionalità|[Cloud Solution Provider criteri del periodo di restituzione software (CSP) e avviso di scadenza del collegamento di download](2021-april.md#8)|21 aprile|
 |Far crescere l'azienda|[Programma open licensing: transizione dei rivenditori al programma Cloud Solution Provider (CSP)](2021-april.md#7)|19 aprile|
 |Funzionalità|[Now live: Global promo readiness guide (Guida all'idoneità alla promo globale)](2021-april.md#6)|16 aprile|
-|Community: inviti e promemoria|[Aggiornamento e promemoria della community di Cloud Solution Provider (CSP) di aprile](2021-april.md#5)|16 aprile|
+|Community: inviti e promemoria|[Aggiornamento e promemoria della community di april Cloud Solution Provider (CSP)](2021-april.md#5)|16 aprile|
 |Funzionalità|[Promemoria: Deprecazione della qualifica GET il 4 maggio 2021](2021-april.md#4)|9 aprile|
 |Funzionalità|[Nuovo formato per la nuova fattura PDF commerciale in CSP](2021-april.md#3)|5 aprile|
 |Funzionalità|[Modifiche apportate ai requisiti di onboarding dei clienti Cloud Solution Provider (CSP)](2021-april.md#2)|2 aprile|
@@ -76,7 +76,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 |Funzionalità|[Migrazione di DocuSign ad Adobe Sign per i partner che hanno sottoscritto contratti Microsoft Partner](2021-january.md#7)|15 gennaio|
 |Offerte/mercati|[Aggiornamento dei prezzi commerciali per la corona norvegese](2021-january.md#6)|14 gennaio|
 |Offerte/mercati|[Aggiornamento dei prezzi commerciali per la rupia indiana](2021-january.md#5)|8 gennaio|
-|Offerte/mercati|[Aggiornamenti del piano per chiamate e del sistema telefonico per il 1° febbraio 2021](2021-january.md#4)|8 gennaio|
+|Offerte/mercati|[Aggiornamenti del piano di chiamata e del sistema telefonico per il 1° febbraio 2021](2021-january.md#4)|8 gennaio|
 |Offerte/mercati|[Aggiornamenti del listino prezzi basato su licenza per gennaio 2021](2021-january.md#3)|8 gennaio|
 |Funzionalità|[Deprecazione e ritiro delle API di qualifica GET e PUT esistenti per il processo di convalida dei clienti di tipo Education entro la fine di febbraio 2021](2021-january.md#2)|5 gennaio|
 |Offerte/mercati|[Offerte di Dynamics 365 per febbraio 2021](2021-january.md#1)|4 gennaio|

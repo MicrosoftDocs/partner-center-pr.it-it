@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
-ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
+ms.openlocfilehash: 8181a446bf279d059bca50ebd0c2e5b6c0f7c65b
+ms.sourcegitcommit: 8f9787c11f3b6a3d641c361e6b7cf1d64fea9d83
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107894061"
+ms.lasthandoff: 04/23/2021
+ms.locfileid: "107927748"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Dettagli sulle imposte per gli editori del marketplace commerciale
 
@@ -25,18 +25,18 @@ Questa pagina definisce le responsabilità fiscali e le considerazioni fiscali p
 
 Le responsabilità di microsoft e editori/sviluppatori di vendite, utilizzo, beni e servizi, eventuali imposte sul valore aggiunto o su imposte simili per le vendite dei clienti finali ( End **CustomerResponsibilities**) dipendono dal paese in cui editori/sviluppatori hanno la possibilità di rendere disponibili prodotti/offerte per la vendita ai clienti finali tramite i Microsoft Marketplace. La tabella seguente illustra le circostanze e la responsabilità di End Customer Esemersi nei paesi in cui le vendite sono idonee Microsoft Marketplace o più clienti.  Le informazioni seguenti sono soggette a modifiche e gli editori/sviluppatori sono responsabili della revisione di questa pagina per informazioni aggiornate e accurate.
 
-Nei **paesi gestiti dall'editore o** dallo sviluppatore, Microsoft funge da agente o da responsabile (se applicabile) dell'editore/sviluppatore. Gli editori/sviluppatori riconoscono e accettano che gli editori/sviluppatori hanno la responsabilità esclusiva di determinare tutta la conformità necessaria per e per gestire l'imposizione dei clienti finali, inclusa la registrazione, il calcolo delle imposte, la raccolta delle imposte, la rimessa fiscale, la convalida dello stato aziendale dei clienti e l'invio di fatture fiscali ai clienti. Gli editori/sviluppatori riconoscono che, in relazione a qualsiasi vendita in un paese gestito da editori/sviluppatori, Microsoft potrebbe attualmente non essere in grado di fornire i dettagli della transazione necessari agli editori/sviluppatori per fornire ai clienti fatture fiscali. 
+Nei **paesi gestiti dall'editore o** dallo sviluppatore, Microsoft funge da agente o da responsabile (se applicabile) dell'editore/sviluppatore. Gli editori/sviluppatori riconoscono e accettano che gli editori/sviluppatori hanno la responsabilità esclusiva di determinare tutte le conformità necessarie per e gestire l'imposizione dei clienti finali, inclusa la registrazione, il calcolo delle imposte, la raccolta delle imposte, la rimessa fiscale, la convalida dello stato aziendale dei clienti e l'invio di fatture fiscali ai clienti. Gli editori/sviluppatori riconoscono che, in relazione a qualsiasi vendita in un paese gestito da editori/sviluppatori, Microsoft potrebbe attualmente non essere in grado di fornire i dettagli della transazione necessari agli editori/sviluppatori per fornire ai clienti fatture fiscali. 
 
 Nei **paesi gestiti da Microsoft,** Microsoft funge da agente dell'editore/sviluppatore. Microsoft si assume la responsabilità di gestire l'imposizione dei clienti finali, inclusi il calcolo, la raccolta e/o il recupero di determinate imposte. Per il Marketplace commerciale, ciò può includere anche la convalida dello stato aziendale dei clienti finali ottenendo i numeri di registrazione fiscale o i certificati di esenzione. Microsoft gestisce End Customer Tax tramite affiliate locali o affiliate remote registrate in locale. Fatture Microsoft con il numero di registrazione di Microsoft. Microsoft include tutte le imposte raccolte dai clienti finali nella dichiarazione dei imposte di Microsoft.
 
-Microsoft non garantisce che le azioni di Microsoft soddisfino completamente gli obblighi di editore/sviluppatore nei paesi gestiti da Microsoft.  Per tutti i paesi gestiti da Microsoft, Microsoft consiglia vivamente agli editori/sviluppatori di collaborare con i propri consulenti fiscali per verificare se la rimessa fiscale gestita da Microsoft è sufficientemente conforme ai requisiti di conformità degli editori/sviluppatori. Ciò è particolarmente importante per tutti i paesi gestiti da Microsoft da cui gli editori/sviluppatori vendono i propri prodotti/offerte.  Microsoft funge da agente di editore/sviluppatore nei paesi gestiti da Microsoft.
+Microsoft non garantisce che le azioni di Microsoft soddisfino completamente gli obblighi di editore/sviluppatore nei paesi gestiti da Microsoft.  Per tutti i paesi gestiti da Microsoft, Microsoft consiglia vivamente agli editori/sviluppatori di collaborare con i propri consulenti fiscali per verificare se le rimesse fiscali gestite da Microsoft sono sufficientemente conformi ai requisiti di conformità degli editori/sviluppatori. Ciò è particolarmente importante per tutti i paesi gestiti da Microsoft da cui gli editori/sviluppatori vendono i propri prodotti/offerte.  Microsoft funge da agente di editore/sviluppatore nei paesi gestiti da Microsoft.
 
 Nei **paesi** dei rivenditori, Microsoft agisce come rivenditore, anziché come agente dell'editore/sviluppatore, per rendere i prodotti/le offerte editore/sviluppatore disponibili per la vendita ai clienti finali tramite i Microsoft Marketplace.)  Gli editori/sviluppatori sono responsabili di vendite, utilizzo, beni e servizi, valore aggiunto o imposte simili, se presenti, sulla vendita di prodotti/offerte a Microsoft e Microsoft è responsabile di tutte le attività di vendita ai clienti finali.
 
 
 ### <a name="publisherdeveloper-managed-countries"></a>Paesi di pubblicazione/gestiti dallo sviluppatore: 
 
-|   |    |    |   |
+| Paesi | Paesi (continua) | Paesi (continua) | Paesi (continua) |
 |---------------|:------------------|:--------|:----------|
 |Isole Vergini Americane|Congo (RDC)|Jersey|Isola Norfolk|
 |Afghanistan|Isole Cook|Giordania|Macedonia del Nord|
@@ -72,14 +72,14 @@ Nei **paesi** dei rivenditori, Microsoft agisce come rivenditore, anziché come 
 |Repubblica Centrafricana|Isole Heard & Mc Islands|Nauru|
 |Ciad|Honduras|Nepal|
 |Isola Christmas|Iraq|Nicaragua|
-|Cocos (Keeling)Islands|Israele|Niger|
+|Isole Cocos (Keeling)|Israele|Niger|
 |Comore|Giamaica|Nigeria|
 |Congo|Giappone|Niue|
 
 
 ### <a name="microsoft-managed-countries"></a>Paesi gestiti da Microsoft
 
-| | |  |  |
+| Paesi | Paesi (continua) | Paesi (continua) | Paesi (continua) |
 |---------|-----------|--------|----|
 |Armenia|Finlandia|Lussemburgo|Singapore|
 |Austria|Francia|Malaysia|Slovacchia|
@@ -100,9 +100,9 @@ Cechia|Lettonia|Russia|Emirati Arabi Uniti|
 
 |**Paese**|**Marketplace commerciale (Azure Marketplace & AppSource)**| **Consumer Marketplace (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|Brasile|Rivenditore ad eccezione di: editore gestito per gli acquisti effettuati tramite lo scenario di acquisto dei clienti CSP|Gestito dallo sviluppatore, ad eccezione di: Rivenditore per gli acquisti effettuati tramite dispositivi in esecuzione Windows 10|
-|Messico|Gestito da Microsoft ad eccezione di: Rivenditore per gli acquisti tramite lo scenario di acquisto del cliente con contratto Enterprise Agreement|Gestita da Microsoft|
-|Australia|Gestito da Microsoft ad eccezione di: Rivenditore per gli acquisti tramite lo scenario di acquisto del cliente con contratto Enterprise Agreement|Gestita da Microsoft|
+|Brasile|Rivenditore ad eccezione di: Editore gestito per gli acquisti effettuati tramite lo scenario di acquisto del cliente CSP|Gestito dallo sviluppatore ad eccezione di: Rivenditore per gli acquisti effettuati tramite dispositivi in esecuzione in Windows 10|
+|Messico|Gestito da Microsoft tranne: Rivenditore per gli acquisti tramite lo scenario di acquisto del cliente con contratto Enterprise|Gestita da Microsoft|
+|Australia|Gestito da Microsoft tranne: Rivenditore per gli acquisti tramite lo scenario di acquisto del cliente con contratto Enterprise|Gestita da Microsoft|
 Cina|Marketplace non abilitato|Rivenditore abilitato ad eccezione di: sviluppatore gestito per dispositivi di comunicazione mobile che eseguono Windows Phone 7.x e nei personal computer che eseguono Windows 8.x|
 |Bahrein|Server di pubblicazione gestito|Gestita da Microsoft|
 |Oman|Server di pubblicazione gestito|Gestita da Microsoft|
@@ -112,7 +112,7 @@ Cina|Marketplace non abilitato|Rivenditore abilitato ad eccezione di: sviluppato
 
 Nei paesi gestiti da editori/sviluppatori, i pagamenti Microsoft agli editori/sviluppatori sono al netto della tariffa del negozio e di eventuali imposte applicabili, che possono includere una delle seguenti: ritenuta d'acconto e vendite, utilizzo, beni e servizi, valore aggiunto o imposte simili sulla tariffa del negozio.
 
-Nei paesi e nei rivenditori gestiti da Microsoft applicabili, i pagamenti Microsoft agli editori/sviluppatori sono al netto della tariffa del negozio e di eventuali imposte applicabili, che possono includere una delle seguenti: imposta finale sul cliente, ritenuta d'acconto e vendite, uso, beni e servizi, valore aggiunto o imposte simili sulla tariffa del negozio. I [report](payout-statement.md) che Microsoft mette a disposizione degli editori/sviluppatori identificano l'importo di queste imposte. 
+Nei paesi e nei rivenditori gestiti da Microsoft applicabili, i pagamenti Microsoft agli editori/sviluppatori sono al netto della tariffa del negozio e delle eventuali imposte applicabili, che possono includere una delle seguenti: imposta finale sul cliente, ritenuta d'acconto e vendite, uso, beni e servizi, valore aggiunto o imposte simili sulla tariffa del negozio. I [report](payout-statement.md) che Microsoft mette a disposizione degli editori/sviluppatori identificano l'importo di queste imposte. 
 
 Microsoft raccoglie l'imposta sulle tariffe dei negozi nei paesi seguenti in cui editori/sviluppatori sceglie di rendere disponibili prodotti/offerte per la vendita ai clienti finali tramite i Microsoft Marketplace:
 
@@ -120,7 +120,7 @@ Microsoft raccoglie l'imposta sulle tariffe dei negozi nei paesi seguenti in cui
 |----------------|-----------------------------|-----------------------|
 |Australia|Imposta sulla tariffa del servizio|Imposta sulla tariffa del servizio|
 |Canada|Imposta sulla tariffa del servizio|Imposta sulla tariffa del servizio|
-|Messico|N/D|Imposta sulla tariffa del servizio|
+|Messico|N/D|Imposta sulla tariffa per il servizio|
 |Nuova Zelanda|Imposta sulla tariffa del servizio|Imposta sulla tariffa del servizio|
 |Singapore|Imposta sulla tariffa del servizio|Imposta sulla tariffa del servizio|
 

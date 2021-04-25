@@ -4,20 +4,19 @@ ms.topic: how-to
 ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come aggiungere un nuovo record cliente nel centro per i partner. È quindi possibile vendere le sottoscrizioni dei clienti, gestire la fatturazione o fornire supporto tecnico.
+description: Informazioni su come aggiungere un nuovo record cliente in Partner Center. È quindi possibile vendere le sottoscrizioni dei clienti, gestire la fatturazione o fornire supporto tecnico.
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cd7567a53f517d770bf51c734f5a1ace7b6ec94b
+ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474258"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "107941776"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Come aggiungere un nuovo record cliente nel Centro per i partner
-
 
 **Ruoli appropriati**
 
@@ -26,43 +25,43 @@ ms.locfileid: "96474258"
 - Agente amministratore
 - Agente di vendita
 
-Questo articolo descrive come aggiungere un nuovo cliente al proprio elenco di clienti nel centro per i partner. Questi passaggi sono necessari prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto a un cliente.
+Questo articolo descrive come aggiungere un nuovo cliente all'elenco di clienti in Partner Center. Questi passaggi sono necessari prima di poter vendere sottoscrizioni, gestire la fatturazione o fornire supporto a un cliente.
 
 >[!NOTE]
->Per i clienti esistenti, inclusi quelli che hanno già registrato i clienti nel centro per i partner tramite uno scenario [multicanale](multichannel.md) o [Multipartner](multipartner.md) , è necessario [richiedere una relazione con loro](request-a-relationship-with-a-customer.md), anziché attenersi alla procedura descritta di seguito.
+>Per i clienti esistenti, inclusi quelli che hanno già record dei clienti in Partner Center tramite uno scenario [multicanale](multichannel.md) o [multipartner,](multipartner.md) è necessario richiedere una relazione con loro [anziché](request-a-relationship-with-a-customer.md)seguire la procedura descritta qui.
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Per aggiungere un nuovo cliente al Centro per i partner
 
-1. Selezionare **Customers** dal menu centro partner e quindi selezionare **Aggiungi cliente**.
+1. Selezionare **Clienti** dal menu Partner Center e quindi selezionare **Aggiungi cliente.**
 
-2. Nella pagina **informazioni account** immettere i dettagli e le informazioni di contatto principale del cliente. Verificare che il cliente abbia accettato e firmato il [contratto del cliente Microsoft](agreements.md)più recente.
+2. Nella pagina **Informazioni account** immettere i dettagli del cliente e le informazioni di contatto principali. Verificare anche che il cliente abbia accettato e firmato la versione più [recente Contratto del cliente Microsoft](agreements.md).
 
    >[!NOTE]
    >
-   >Per garantire l'accuratezza durante verifica del cliente, assicurarsi di:
+   >Per garantire l'accuratezza verifica del cliente, assicurarsi di:
    >
-   >- Usa il nome legale/ufficiale esatto come appare nei documenti ufficiali
-   >- Evitare l'uso di acronimi o forme brevi
+   >- Usare il nome legale/ufficiale esatto visualizzato nei documenti ufficiali
+   >- Evitare di usare acronimi o forme brevi
    >- Non usare nomi di test
-   >- Fornire l'indirizzo esatto completo (Dettagli località, città, stato, paese e CAP/CAP)
+   >- Specificare l'indirizzo completo e esatto (dettagli della posizione, città, stato, paese e codice postale/cap)
 
    >[!IMPORTANT]
-   > Il 1° ottobre 2019 Microsoft ha introdotto il **contratto del cliente Microsoft** nel programma CSP in sostituzione del Contratto Microsoft Cloud. Leggi il [contratto per i clienti Microsoft e come confermare il consenso](confirm-customer-agreement.md)
+   > Il 1° ottobre 2019 Microsoft ha introdotto il **contratto del cliente Microsoft** nel programma CSP in sostituzione del Contratto Microsoft Cloud. Leggere le informazioni sul [Contratto del cliente Microsoft e su come confermare il consenso](confirm-customer-agreement.md)
   
-3. Se si è un provider indiretto, selezionare il rivenditore indiretto che si desidera associare alle sottoscrizioni di questo cliente dall'elenco.
+3. Se si è un provider indiretto, selezionare dall'elenco il rivenditore indiretto che si vuole associare alle sottoscrizioni del cliente.
 
-4. Selezionare **Avanti: sottoscrizioni** al termine dell'immissione di tutte le informazioni necessarie.
+4. Al termine dell'immissione di tutte le informazioni necessarie, selezionare **Avanti:** Sottoscrizioni.
 
-5. Nella pagina **sottoscrizioni** selezionare le offerte che il cliente desidera acquistare, immettere il numero di licenze e quindi selezionare **Avanti: Revisione**.
+5. Nella pagina **Sottoscrizioni** selezionare le offerte che il cliente vuole acquistare, immettere il numero di licenze e quindi selezionare **Avanti: Rivedi.**
 
-6. **Nella pagina Verifica** verificare la correttezza delle voci e quindi selezionare **Invia** se le informazioni sono corrette.
+6. Nella pagina **Verifica** verificare l'accuratezza delle voci e quindi selezionare **Invia** se le informazioni sono corrette.
 
    >[!NOTE]
-   >Se è necessario modificare i dettagli dei clienti, selezionare **Aggiorna** nella sezione **informazioni sull'account** . Se è necessario modificare le offerte selezionate, selezionare **Aggiorna** nella sezione **sottoscrizioni** .
+   >Se è necessario modificare i dettagli del cliente, selezionare **Aggiorna** nella **sezione Informazioni sull'account.** Se è necessario modificare le offerte selezionate, selezionare **Aggiorna** nella **sezione** Sottoscrizioni.
 
-7. Selezionare **done** dopo aver completato l'aggiunta delle informazioni sul cliente e aver acquistato le sottoscrizioni obbligatorie.
+7. Selezionare **Fine** dopo aver aggiunto le informazioni sul cliente e aver acquistato le sottoscrizioni necessarie.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Per ulteriori informazioni su ciò che è possibile vendere ai clienti tramite il programma Cloud Solution Provider, vedere la pagina relativa alle [offerte dei partner nel programma Cloud Solution Provider](csp-offers.md)
+- Per altre informazioni su ciò che è possibile vendere ai clienti tramite il programma Cloud Solution Provider, vedere Offerte partner nel programma [Cloud Solution Provider clienti](csp-offers.md)
 

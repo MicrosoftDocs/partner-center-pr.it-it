@@ -4,19 +4,19 @@ ms.topic: how-to
 ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri quando inoltrare un problema al servizio clienti a Microsoft e come archiviare un ticket di supporto per diversi tipi di servizi Microsoft.
+description: Informazioni su quando inoltrare un problema del servizio clienti a Microsoft e su come determinare un ticket di supporto per diversi tipi di servizi Microsoft.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80c617a97575fea3003ea8652d48396412033cc7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441949"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018119"
 ---
-# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Segnala un problema del servizio per conto di un cliente, incluse le attività e le modalità di esecuzione
+# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Segnalare un problema di servizio per conto di un cliente, incluso quando e come eseguire questa operazione
 
 **Si applica a**
 
@@ -24,22 +24,22 @@ ms.locfileid: "106441949"
 
 **Ruoli appropriati**
 
-- Provider indiretto
+- Amministratore globale
 
-Se il cliente riscontra un problema del servizio che non è possibile risolvere e soddisfa i criteri descritti in [inoltrare i problemi a Microsoft](escalate-problems-to-microsoft.md), il provider indiretto può archiviare un ticket di supporto. Questo processo è utile anche per inoltrare problemi o controversie correlati alla fatturazione e segnalare possibili frodi.
+Se il cliente riscontra un problema di servizio che non è possibile risolvere e soddisfa i criteri descritti in Escalation dei problemi a [Microsoft,](escalate-problems-to-microsoft.md)il provider indiretto può determinare un ticket di supporto. Questo processo è utile anche per inoltrare problemi o controversie correlati alla fatturazione e segnalare possibili frodi.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Inviare una richiesta di servizio per un cliente
 
-1. Dal menu centro partner in CSP selezionare **Customers (clienti** )
+1. Nel menu Partner Center sotto CSP selezionare **Clienti**
 
-2. Nella pagina Customers selezionare o cercare il cliente desiderato
+2. Nella pagina Clienti selezionare o cercare il cliente desiderato
     
-3. Scegliere **richieste di servizio** dal menu cliente
+3. Dal menu del cliente selezionare **Richieste di servizio**
 
-4. Dal menu a discesa **Nuova richiesta** scegli **Azure** o **Office 365, Dynamics 365, Enterprise Mobility Suite**. Si verrà reindirizzati al portale di Microsoft Azure o all'interfaccia di amministrazione di Office 365.
+4. Dal menu a discesa **Nuova richiesta** scegli **Azure** o **Office 365, Dynamics 365, Enterprise Mobility Suite**. Si verrà reindirizzati all'interfaccia di portale di Microsoft Azure o all'interfaccia di amministrazione di Office 365.
 
 >[!NOTE]
->I partner operativi di supporto per la transazione di Dynamics 365 in CSP sono necessari per mantenere un contratto di supporto del piano di supporto avanzato per i partner (ASfP) o superiore. Questo contratto di supporto è necessario per inviare eventi imprevisti di Dynamics 365 per conto di un cliente CSP. [Altre](https://partner.microsoft.com/support/partnersupport) informazioni sulle opzioni del contratto di supporto.
+>Per mantenere un contratto di supporto con piano ASfP (Advanced Support for Partner) o versione successiva, è necessario che i partner delle operazioni di supporto eseere transazionali di Dynamics 365 in CSP. Questo contratto di supporto è necessario per inviare eventi imprevisti di Dynamics 365 per conto di un cliente CSP. [Altre informazioni sulle](https://partner.microsoft.com/support/partnersupport) opzioni del contratto di supporto.
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
@@ -60,14 +60,14 @@ Se il cliente riscontra un problema del servizio che non è possibile risolvere 
 
 3. Successivamente, esaminare le richieste di servizio del cliente all'interno del portale di Microsoft Azure selezionando **Gestisci richieste di supporto**.
 
-Se non si dispone delle autorizzazioni di amministratore per il cliente, potrebbe essere necessario creare una richiesta di supporto per un cliente. Ciò potrebbe verificarsi in questi due scenari:
+Potrebbe essere necessario creare una richiesta di supporto per un cliente quando non si dispone delle autorizzazioni di amministratore per tale cliente. Ciò potrebbe verificarsi in questi due scenari:
 
-- Non sono stati richiesti privilegi di amministratore quando la relazione è stata stabilita per la prima volta.
-- È possibile gestire solo le sottoscrizioni di Azure di un cliente, in modo che non si disponga delle autorizzazioni amministrative.
+- Non sono stati necessari privilegi di amministratore quando è stata stabilita la relazione per la prima volta.
+- Si gestiscono solo le sottoscrizioni di Azure di un cliente, quindi non si hanno autorizzazioni amministrative.
  
 In entrambi i casi, puoi usare la procedura seguente per creare una richiesta di supporto. 
 
-1. Copiare il nome di dominio del cliente dalla pagina relativa all'account nel centro per i partner.
+1. Copiare il nome di dominio del cliente dalla pagina dell'account in Partner Center.
 
 2. Passa a https://portal.azure.com/[nomedominiocliente]. 
 
@@ -78,24 +78,24 @@ In entrambi i casi, puoi usare la procedura seguente per creare una richiesta di
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
-1. Nella sezione **creare una richiesta di servizio** scegliere la categoria di supporto appropriata. Per visualizzare altri articoli, potrebbe essere necessario selezionare **altro...** .
+1. Nella sezione **Crea una richiesta di servizio** scegliere la categoria di supporto appropriata. Potrebbe essere necessario selezionare **Altro...** per visualizzare altri articoli.
 
 2. Compila il modulo della richiesta di servizio e seleziona **Invia**.
 
    > [!TIP]
    > Assicurati di includere le tue informazioni di contatto e non quelle del cliente.
 
-3. In seguito, rivedere le richieste di assistenza del cliente accedendo all'interfaccia di amministrazione di Office 365 e selezionando **Visualizza tutti i ticket di supporto**.
+3. Successivamente, esaminare le richieste di servizio del cliente andando all'interfaccia di amministrazione di Office 365 e selezionando **Visualizza tutti i ticket di supporto.**
 
 ### <a name="support-for-commercial-marketplace-products"></a>Supporto per prodotti del Marketplace commerciale
 
-Microsoft non fornisce il supporto tecnico per i prodotti commerciali del Marketplace. È necessario contattare il fornitore di software indipendente (ISV) che ha pubblicato il prodotto per ottenere supporto.
+Microsoft non fornisce supporto tecnico per i prodotti del marketplace commerciale. Per ottenere supporto, è necessario contattare il fornitore di software indipendente (ISV) che ha pubblicato il prodotto.
 
 Per trovare le informazioni di contatto dell'ISV:
 
 1.  Nella pagina **Marketplace** seleziona il prodotto per cui è necessaria assistenza.
 
-2.  Nella pagina del prodotto sono disponibili informazioni di contatto per il supporto. Può trattarsi di una o più delle opzioni seguenti:
+2.  Nella pagina del prodotto sono possibile trovare le informazioni di contatto del supporto tecnico. Può trattarsi di una o più delle opzioni seguenti:
 
     - Un collegamento a un punto di ingresso del supporto tecnico nel sito Web dell'ISV
     - Un indirizzo di posta elettronica del supporto tecnico
@@ -103,13 +103,13 @@ Per trovare le informazioni di contatto dell'ISV:
 
 ## <a name="faq"></a>Domande frequenti
 
-Vedere le seguenti domande frequenti sulle richieste di servizio che è possibile inviare per conto di un cliente. 
+Vedere le domande frequenti seguenti sulle richieste di servizio che è possibile inviare per conto di un cliente. 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Cosa include il diritto al supporto?
 
-Le richieste di servizio devono essere presentate tramite il centro per i partner. Sono disponibili per Azure, Microsoft Office 365, Microsoft Dynamics CRM online ed Enterprise Mobility Suite. Un partner che partecipa al programma Cloud Solution Provider avrà tempi di risposta prioritari per i problemi più gravi.
+Le richieste di servizio devono essere inviate tramite Partner Center. Sono disponibili per Azure, Microsoft Office 365, Microsoft Dynamics CRM Online ed Enterprise Mobility Suite. Un partner che partecipa al programma Cloud Solution Provider avrà tempi di risposta prioritari per i problemi più gravi.
 
-Il supporto per il proprio tenant partner non è incluso nell'ambito del vantaggio del supporto CSP. Tuttavia, Office 365, Microsoft Dynamics CRM online ed Enterprise Mobility Suite non addebitano una tariffa di sottoscrizione di supporto separata per partner o clienti. Azure applica una tariffa, ma se si ha diritto a firmare il supporto cloud o altri vantaggi di Microsoft Partner Network (MPN), è possibile usarli per pagare la tariffa.
+Il supporto per il tenant partner non è incluso come parte del vantaggio del supporto CSP. Tuttavia, Office 365, Microsoft Dynamics CRM Online ed Enterprise Mobility Suite non addebita una tariffa di sottoscrizione di supporto separata per partner o clienti. Azure addebita una tariffa, ma se si ha diritto a Signature Cloud Support o ad altri vantaggi di Microsoft Partner Network (MPN), è possibile usare questi vantaggi per pagare tale tariffa.
 
 Questo vantaggio si applica a tutti i partner che partecipano al programma Cloud Solution Provider, a pagamento o durante un periodo di valutazione. Il supporto per la gestione di fatturazione e sottoscrizioni è anch'esso incluso come componente gratuito di questo pacchetto.
 
@@ -117,14 +117,14 @@ Questo vantaggio si applica a tutti i partner che partecipano al programma Cloud
 
 I tempi per la risposta iniziale dipendono dalla gravità del problema. La gravità di un problema è determinata dall'impatto aziendale indicato quando invii una richiesta di servizio.
 
-Tempi di risposta iniziali per gli **eventi imprevisti di correzione tecnico**:
+Tempi di risposta iniziali per **gli eventi imprevisti di interruzione tecnica:**
 
-- Impatto critico (gravità A): due ore (perdita o riduzione significativa dei servizi. Servizi di produzione non funzionanti).
-- Effetto moderato (gravità B): quattro ore (perdita moderata o riduzione dei servizi. Servizi di produzione interessati parzialmente.
-- Effetto minimo (gravità C): otto ore (perdita minima o riduzione dei servizi. Servizi ancora disponibili o servizi non di produzione interessati.
+- Impatto critico (gravità A): due ore (perdita significativa o riduzione delle prestazioni dei servizi. Servizi di produzione non funzionanti).
+- Impatto moderato (gravità B): quattro ore (perdita moderata o riduzione delle prestazioni dei servizi. Servizi di produzione parzialmente interessati.
+- Impatto minimo (gravità C): otto ore (perdita minima o riduzione delle prestazioni dei servizi. Servizi ancora disponibili o non di produzione interessati.
 
 I tempi per la risposta iniziale si riferiscono solo al supporto in lingua inglese. Il supporto nella lingua locale viene fornito durante l'orario di ufficio.
-Per gli eventi imprevisti che rientrano nei limiti del diritto di supporto ma che non sono considerati interventi di correzione, il tempo di risposta iniziale potrebbe essere fino a un giorno lavorativo.
+Per gli eventi imprevisti che rientrano nei limiti del diritto di supporto, ma non sono considerati eventi imprevisti di correzione, il tempo di risposta iniziale può essere fino a un giorno lavorativo.
 
 ### <a name="can-i-submit-a-service-request-by-phone"></a>Posso inviare una richiesta di servizio per telefono?
 
@@ -132,17 +132,17 @@ No, il supporto telefonico non è disponibile per questo programma.
 
 ### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>Cosa succede se accedo al portale di Azure senza usare il Centro per i partner?
 
-Se si accede direttamente al portale di Microsoft Azure, si sta visualizzando il centro nel proprio contesto, non nel contesto di un cliente. Per questo motivo, è consigliabile accedere direttamente al portale di Microsoft Azure quando si crea una richiesta di servizio per le proprie sottoscrizioni.
+Se si accede direttamente al portale di Microsoft Azure, si sta visualizzando il centro nel proprio contesto, non nel contesto di un cliente. Questo è il motivo per cui è consigliabile accedere direttamente al portale di Microsoft Azure quando si crea una richiesta di servizio per le proprie sottoscrizioni.
 
-Il diritto del supporto del programma CSP non fornisce supporto per la sottoscrizione del partner. Per questo motivo, è necessario fornire il diritto valido del piano di supporto quando si crea una richiesta di servizio che riguarda la sottoscrizione del partner. Gli esempi includono ID contratto MPN, Premier o un piano di supporto di Azure. Per ulteriori informazioni, vedere le [domande frequenti sul supporto tecnico di Azure](https://go.microsoft.com/fwlink/?LinkId=717532).
+L'entitlement per il supporto del programma CSP non fornisce supporto per la sottoscrizione partner. Per questo problema, è necessario fornire l'entitlement valido per il piano di supporto quando si crea una richiesta di servizio che riguarda la propria sottoscrizione partner. Ad esempio, l'ID contratto MPN, premier o un supporto tecnico di Azure aziendale. Per altre informazioni, vedere le domande [supporto di Azure seguenti.](https://go.microsoft.com/fwlink/?LinkId=717532)
 
-### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Cosa accade se si accede al portale dell'interfaccia di amministrazione di Office 365 e si ignora il centro per i partner?
+### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Cosa accade se si accede al portale dell'interfaccia di amministrazione di Office 365 e si ignora Partner Center?
 
-Se si accede direttamente all'interfaccia di amministrazione di Office 365, si sta visualizzando il centro nel proprio contesto, non nel contesto di un cliente. Per questo motivo, è consigliabile accedere direttamente all'interfaccia di amministrazione di Office 365 quando si crea una richiesta di servizio per le proprie sottoscrizioni.
+Se si accede direttamente all'interfaccia di amministrazione di Office 365, si sta visualizzando il centro nel proprio contesto, non nel contesto di un cliente. Per questo motivo è consigliabile accedere direttamente all'interfaccia di amministrazione di Office 365 solo quando si crea una richiesta di servizio per le proprie sottoscrizioni.
 
 ### <a name="how-do-i-get-additional-dynamics-365-support"></a>Come posso ottenere ulteriore supporto per Dynamics 365?
 
-Se si verificano problemi relativi a: sottoscrizioni del piano Dynamics 365, licenze, fatturazione, operazioni di & finanza, licenze del prodotto Dynamics 365 oppure è necessario ulteriore supporto tecnico:
+Se si verificano problemi relativi a: Sottoscrizioni del piano Dynamics 365, Licenze, Fatturazione, Finance & Operations, licenze del prodotto Dynamics 365 o se è necessario ulteriore supporto tecnico:
  
 contatta il [supporto Dynamics](/dynamics365/customer-engagement/admin/contact-technical-support)
 

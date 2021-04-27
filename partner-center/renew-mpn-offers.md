@@ -4,23 +4,27 @@ ms.topic: article
 ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: "Rinnovo Microsoft Partner Network (MPN) Offerte per competenze e specializzazioni avanzate: la finestra di rinnovo inizia l'anniversario della data di acquisto più un giorno."
+description: "Rinnovare Microsoft Partner Network (MPN) per competenze e specializzazioni avanzate: la finestra di rinnovo inizia l'anniversario della data di acquisto più un giorno."
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 779f785899039765ba4a9da42d3e6bb4a828976d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549108"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018085"
 ---
-# <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Rinnova le tue offerte MPN per competenze e specializzazioni avanzate durante la finestra di rinnovo
+# <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Rinnovare le offerte MPN per competenze e specializzazioni avanzate durante la finestra di rinnovo
+
+**Ruoli appropriati**
+
+- Amministratore dei partner MPN
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Risposta a COVID-19: Microsoft Partner Network aggiornamento
 
-Microsoft offre un'estensione delle competenze (fatta eccezione per la competenza cloud Business Applications) e un'estensione di specializzazione avanzata per i partner con date di anniversario (AD) comprese tra il 1 ° gennaio 2021 e il 30 giugno 2021. Per ulteriori informazioni, consultare il [post di Blog del partner](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
+Microsoft offre l'estensione per le competenze (ad eccezione della competenza Cloud Business Applications) e l'estensione di specializzazione avanzata per i partner con date di anniversario (AD) tra il 1° gennaio 2021 e il 30 giugno 2021. Per altre informazioni, vedere il [post di blog dei partner](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="renewal-reminders"></a>Promemoria di rinnovo
 
@@ -38,7 +42,7 @@ Quando rinnovi nel periodo valido, la nuova data dell'anniversario cadrà 365 gi
 
 4. Per sfruttare i vantaggi di questa offerta, passa a **Offerte di iscrizione**. Per completare il processo, può essere necessario pagare i corrispettivi della competenza, a seconda dello stato di acquisto o rinnovo della competenza.
 
-Per sfruttare i vantaggi dell'estensione, devi spostare l'abbonamento da Partner Membership Center (PMC) al Centro per i partner per rinnovare le tue competenze e pagare i corrispettivi. Se non è stato spostato il proprio abbonamento, è possibile ottenere [altre informazioni](prepare-pmc-pc-migration.md)   ed [effettuare la transizione](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   oggi stesso.  
+Per sfruttare i vantaggi dell'estensione, devi spostare l'abbonamento da Partner Membership Center (PMC) al Centro per i partner per rinnovare le tue competenze e pagare i corrispettivi. Se non è stata spostata l'appartenenza, [altre informazioni](prepare-pmc-pc-migration.md)   ed eseguire la [transizione](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   oggi stesso.  
 
 ## <a name="next-steps"></a>Passaggi successivi
 

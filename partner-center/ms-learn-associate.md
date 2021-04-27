@@ -9,79 +9,79 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712801"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067508"
 ---
-# <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Collegare o scollegare un ID del profilo di certificazione Microsoft (MCID) a un account Microsoft Partner Network (MPN)
+# <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Collegare o scollegare un ID profilo di certificazione Microsoft (MCID) a un account Microsoft Partner Network (MPN)
 
 **Ruoli appropriati**
 
 - Tutti gli utenti del Centro per i partner
 
-Questo articolo descrive in che modo i clienti che dispongono di certificazioni attive nel programma di certificazione Microsoft possono collegare o scollegare l'ID del profilo di certificazione Microsoft (MCID) con un'organizzazione Microsoft Partner Network (MPN).
+Questo articolo descrive in che modo i clienti che hanno le certificazioni attive nel Programma di certificazione Microsoft possono collegare o scollegare il proprio ID profilo di certificazione Microsoft (MCID) con un'organizzazione di Microsoft Partner Network (MPN).
 
-È necessario essere un amministratore del partner MPN o un amministratore globale per esaminare lo stato di [competenza](https://partner.microsoft.com/pcv/partnership/competencies) (accesso richiesto) per gli esami oppure per scaricare i report sulle competenze per esaminare gli esami associati. L'organizzazione partner soddisfa i requisiti di competenza con singoli utenti con MCIDs collegati associati alla propria organizzazione. Un MCID può essere collegato solo a una singola appartenenza MPN alla volta.
+È necessario essere un amministratore partner o un amministratore globale MPN per verificare lo stato delle competenze [(accesso](https://partner.microsoft.com/pcv/partnership/competencies) richiesto) per gli esami o per scaricare i report sulle competenze per la revisione degli esami associati. L'organizzazione partner soddisfa i requisiti di competenza grazie alla presenza di singoli utenti con MCID collegati associati all'organizzazione. Un MCID può essere collegato solo a una singola appartenenza MPN alla volta.
 
-## <a name="get-partner-university-access"></a>Ottenere l'accesso all'Università partner
+## <a name="get-partner-university-access"></a>Ottenere l'accesso a Partner University
 
-Per poter associare la certificazione Microsoft, è necessario disporre di un account del centro per i partner (Active AD) associato all'organizzazione partner. I membri delle organizzazioni partner MPN devono usare il nome utente e la password dell'organizzazione partner MPN per accedere al centro per i partner.
-Usare la procedura seguente per ottenere l'accesso all'Università partner.
-
-1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
-2. Selezionare l'icona **profilo** blu nell'angolo superiore destro
-3. Nel campo **Learning** selezionare **Get partner University Access**. È necessario immettere le credenziali dell'account partner University (non l'account del centro per i partner). l'account partner University verrà ora associato all'account utente del centro per i partner. Le valutazioni verranno riflesse nel report competenze utente del centro per i partner all'interno di 72hrs. Le valutazioni appena passate possono richiedere 7-10 giorni per la reflection nel report.
-4. Per rimuovere l'associazione, selezionare **Rimuovi accesso**.
-
-## <a name="associate-a-microsoft-learning-account"></a>Associa un account Microsoft Learning
-
-Usare la procedura seguente per associare un account di Microsoft Learning. 
+Per associare la certificazione Microsoft, è necessario avere un account Partner Center (Active AD) associato all'organizzazione partner. I membri delle organizzazioni partner MPN devono usare il nome utente e la password dell'organizzazione partner MPN (account aziendale) per accedere Partner Center.
+Usare la procedura seguente per ottenere l'accesso a Partner University.
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
-2. Nella pagina del profilo scorrere verso il basso fino al campo **Microsoft exams and Certifications** e selezionare **associa Microsoft Learning account**.
+2. Selezionare **l'icona blu Profilo** personale nell'angolo in alto a destra
+3. Nel campo **Your Learning (Apprendimento)** selezionare **Get Partner University Access (Ottieni accesso a Partner University).** È necessario immettere le credenziali dell'account Partner University (non l'account del Centro per i partner) L'account Partner University verrà ora associato all'account utente Partner Center partner. Le valutazioni verranno riflesse nel report Partner Center competenze utente entro 72 ore. Le valutazioni appena superate possono richiedere da 7 a 10 giorni per riflettere il report.
+4. Per rimuovere l'associazione, selezionare **Rimuovi accesso.**
+
+## <a name="associate-a-microsoft-learning-account"></a>Associare un account Microsoft Learning servizio
+
+Usare la procedura seguente per associare un Microsoft Learning account. 
+
+1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
+2. Nella pagina del profilo scorrere verso il basso fino al **campo Esami** e certificazioni Microsoft e selezionare Associa Microsoft Learning **account.**
 3. Quando richiesto, immettere le credenziali usate per accedere al profilo di certificazione Microsoft (MCID).
 
 >[!NOTE]
->Se le credenziali dell'account di Microsoft Learning sono le stesse per le credenziali dell'account partner University, selezionare **Usa email@address per associare l'account Microsoft Learning**.
+>Se le Microsoft Learning dell'account sono le stesse delle credenziali dell'account Partner University, selezionare Usa per associare l'account Microsoft Learning **email@address personale.**
 
-## <a name="download-skills-report-microsoft-certification-list"></a>Report sulle competenze di download (elenco certificati Microsoft)
-Per informazioni dettagliate, è possibile accedere al skillsreport e scaricarlo da un amministratore globale o un amministratore del partner MPN dal centro per i partner. Per ulteriori [informazioni](./mpn-skills-report.md#view-skills-report-data).
+## <a name="download-skills-report-microsoft-certification-list"></a>Scaricare il report sulle competenze (elenco di certificazione Microsoft)
+Se sono necessari dettagli, il report delle competenze può essere accessibile e scaricato da qualsiasi amministratore globale o amministratore partner MPN da Partner Center. Per [altre informazioni, vedere](./mpn-skills-report.md#view-skills-report-data).
 
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Domande frequenti sul collegamento di account
 
-### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>In che modo un utente può collegare l'ID del profilo di certificazione Microsoft (MCID) con l'organizzazione Microsoft Partner Network (MPN) a cui lavorano?
+### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>In che modo un utente può collegare il proprio ID profilo di certificazione Microsoft (MCID) all'organizzazione Microsoft Partner Network (MPN) per cui lavora?
 
-Gli utenti devono accedere al centro per i partner e passare a **profilo personale** , quindi selezionare **Ottieni account partner University** o **associa account Microsoft Learning** e immettere le proprie credenziali. Per associarsi a un account di Microsoft Learning, l'utente dovrà immettere il nome utente e la password usati per accedere al proprio profilo di certificazione Microsoft (MCID). A causa delle considerazioni sulla privacy, gli utenti devono completare il processo di collegamento dell'account.  
+Gli utenti devono accedere a Partner Center e passare a **Mio profilo** e quindi selezionare Get Partner University account (Ottieni account Partner **University)** o Associate Microsoft Learning account (Associa Microsoft Learning **account)** e immettere le proprie credenziali. Per associarlo a un account Microsoft Learning l'utente dovrà immettere il nome utente e la password usati per accedere al proprio profilo di certificazione Microsoft (MCID). A causa di considerazioni sulla privacy, gli utenti devono completare il processo di collegamento dell'account.  
 
-### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>In che modo un utente può scollegare i MCID dall'organizzazione MPN a cui lavorano?
+### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Come può un utente scollegare il proprio MCID dall'organizzazione MPN per cui lavora?
 
-Accedere a partner Center, passare a **profilo personale** , quindi selezionare **Rimuovi accesso**. A causa delle considerazioni sulla privacy, l'utente deve completare il processo di collegamento dell'account.
+Accedere a Partner Center, passare a **Profilo personale** e quindi selezionare Rimuovi **accesso.** A causa di considerazioni sulla privacy, l'utente deve completare il processo di collegamento dell'account.
 
-### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>L'utente ha lasciato la società A e ora funziona per l'azienda B. In che modo è possibile collegare l'ID del profilo di certificazione Microsoft (MCID) con la società B?
+### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>L'utente ha lasciato l'azienda A e ora lavora per la società B. Come possono collegare l'ID profilo di certificazione Microsoft (MCID) alla società B?
 
-L'utente deve collegare la MCID alla società B attenendosi alla procedura descritta sopra. Una volta che l'utente ha collegato il proprio MCID con la società B, viene scollegato automaticamente dalla società A.
+L'utente deve collegare il proprio MCID alla società B seguendo la procedura precedente. Quando l'utente collega il proprio MCID alla società B, verrà scollegato automaticamente dalla società A.
 
-### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>L'utente ha lasciato la società A e non ha più accesso al centro per i partner. Si desidera scollegare i MCID dalla società A e non prevede di collegarlo a un'altra organizzazione MPN al momento.
+### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>L'utente ha lasciato la società A e non ha più accesso Partner Center. Vogliono scollegare il proprio MCID dalla società A e non hanno intenzione di collegarlo a un'altra organizzazione MPN al momento.
 
-L'account dell'utente deve essere eliminato dall'amministratore globale dopo l'uscita dall'azienda. Se il MCID dell'utente viene ancora visualizzato come collegato alla società nel report skill, l'utente deve richiedere che l'amministratore globale li elimini dal report.
+L'account dell'utente deve essere eliminato dall'amministratore globale dopo aver lasciato l'azienda. Se l'MCID dell'utente viene ancora visualizzato come collegato alla società nel report delle competenze, l'utente deve richiedere all'amministratore globale di rimuoverli dal report.
 
-### <a name="the-admin-provided-sign-in-details-for-a-work-email-account-to-a-user-and-they-have-had-no-response"></a>L'amministratore ha fornito i dettagli di accesso per un account di posta elettronica aziendale a un utente e non ha ricevuto alcuna risposta.
+### <a name="the-admin-provided-sign-in-details-for-a-work-email-account-to-a-user-and-they-have-had-no-response"></a>L'amministratore ha fornito i dettagli di accesso per un account di posta elettronica aziendale a un utente e non ha avuto risposta.
 
-L'amministratore deve prima verificare l'indirizzo di posta elettronica usato e quindi contattare l'utente a cui sono state fornite le informazioni sull'account.
+L'amministratore deve prima verificare l'indirizzo di posta elettronica usato e quindi contattare l'utente a cui sono stati forniti i dati dell'account.
 
-### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited"></a>Un utente tenta di associare il proprio account di apprendimento MCP al proprio profilo nel centro per i partner e riceve un messaggio che indica che l'associazione è limitata.
+### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>Un utente tenta di associare il proprio account MCP Learning al proprio profilo in Partner Center e riceve un messaggio che indica che l'associazione è limitata. Ad esempio, "Si è tentato di associare a un'organizzazione partner. Tuttavia, è necessario un periodo di 30 giorni tra le associazioni. La data successiva disponibile per un'associazione successiva è XXX"
 
-Per evitare abusi, un utente MCP ha un numero limitato di associazioni consentite ogni anno. Ogni utente può controllare la data nel proprio profilo per vedere quando può avviare una nuova associazione. Se l'utente ha problemi nell'associazione dopo tale data, deve contattare il supporto tecnico.  
+Per proteggersi da abusi, un utente MCP ha un numero limitato di 3 associazioni consentite ogni anno e tra ogni associazione esiste un periodo di raffreddamento di 30 giorni, che inizia all'inizio dell'associazione. Ogni utente può controllare la data nel profilo per vedere quando può avviare una nuova associazione. Se l'utente ha problemi di associazione dopo tale data, deve contattare il supporto tecnico.  
 
 ## <a name="how-to-get-support"></a>Come ottenere supporto
 
-Per problemi tecnici relativi al collegamento o scollegamento di MCIDs con le organizzazioni partner MPN che non sono stati risolti nelle domande frequenti, aprire un ticket con il [supporto tecnico](https://partner.microsoft.com/support)Microsoft.
+Per problemi tecnici relativi al collegamento o alla scollegamento di MCID con organizzazioni partner MPN non trattate nelle domande frequenti, aprire un ticket con il supporto [tecnico](https://partner.microsoft.com/support)Microsoft .
 
-Per domande relative al processo di merge Microsoft Certification profile (MCID), contattare il supporto per la [certificazione](https://aka.ms/mcpforum).
+Per domande relative al processo di unione del profilo di certificazione Microsoft(MCID), contattare il [supporto tecnico per la certificazione.](https://aka.ms/mcpforum)
 
 ## <a name="next-steps"></a>Passaggi successivi
 

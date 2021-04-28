@@ -9,38 +9,42 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 1473b3c0b90cca1152b4dab0b8efec86dbc3d22d
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528567"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172218"
 ---
-# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Calcolo del prezzo unitario effettivo per il consumo del piano di Azure
+# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Calcolo del prezzo unitario effettivo per l'utilizzo del piano di Azure
+
+**Ruoli appropriati**
+
+- Amministratore fatturazione
 
 ## <a name="the-effective-unit-price"></a>Prezzo unitario effettivo
 
-Il prezzo unitario effettivo viene calcolato a livello di contatore (anziché a livello di risorsa) e viene regolato ogni giorno in base all'utilizzo del contatore.
+Il prezzo unitario effettivo viene calcolato a livello di contatore (anziché a livello di risorsa) e viene modificato ogni giorno in base all'utilizzo del contatore.
 
 Il prezzo unitario effettivo viene calcolato usando i tre fattori seguenti:
 
-- Consumo, che viene monitorato quotidianamente durante tutto il ciclo di fatturazione
+- Consumo, monitorato ogni giorno durante tutto il ciclo di fatturazione
 - Costo fatturabile per il contatore
-- Tiering (se applicabile)
+- Livelli (se applicabile)
 
-Poiché il consumo viene monitorato quotidianamente durante tutto il ciclo di fatturazione, il prezzo unitario effettivo varia. Il prezzo finale per un determinato ciclo di fatturazione sarà disponibile dopo l'arresto del calcolo del consumo e la chiusura del periodo di fatturazione. La maggior parte delle modifiche al consumo si verifica dopo la quarta o la quinta posizione decimale.
+Poiché il consumo viene monitorato ogni giorno durante l'intero ciclo di fatturazione, il prezzo unitario effettivo varia. Il prezzo finale per un determinato ciclo di fatturazione sarà disponibile dopo l'arresto del calcolo del consumo e la chiusura del periodo di fatturazione. La maggior parte delle modifiche al consumo si verifica dopo la quarta o la quinta posizione decimale.
 
-## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Scoprire se il contatore usa i prezzi a più livelli
+## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Scoprire se il contatore usa i prezzi a livelli
 
 Se non si sa se il contatore usa i prezzi a livelli, usare la procedura seguente per scoprirlo. 
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
-2. Selezionare **Sell (Vendi),** **selezionare Pricing and offers (Prezzi e** offerte) e quindi selezionare Azure plan pricing **(Prezzi del piano di Azure).**
+2. Selezionare **Vendi,** selezionare **Prezzi e offerte** e quindi selezionare Prezzi del piano di **Azure.**
 3. Individuare il contatore in base all'ID e quindi scaricare i dati sui prezzi. 
 
 ## <a name="sample-calculation"></a>Calcolo di esempio
 
-La tabella seguente fornisce un esempio di come viene calcolato il prezzo unitario effettivo durante il periodo di apertura.
+La tabella seguente fornisce un esempio di come viene calcolato il prezzo unitario effettivo durante il periodo aperto.
 
 Nella tabella si applicano i valori seguenti: 
 

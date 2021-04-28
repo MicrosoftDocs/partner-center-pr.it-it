@@ -9,14 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120750"
+ms.locfileid: "108172431"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registrare le trattative vinte in Partner Center in modo da poter ottenere altre opportunità in un secondo momento
+
+**Ruoli appropriati**
+
+- Amministratore delle segnalazioni
 
 Puoi registrare le trattative che sono andate a buon fine nel Centro per i partner fornendo altre informazioni sul contratto. Queste informazioni consentono di offrirti maggiori opportunità in futuro.
 
@@ -38,7 +42,7 @@ Nella pagina **Nuova trattativa** specifica le informazioni seguenti.
 - **Distribuito in**: selezionare **Azure** o **Altro.**
 - **Dove verrà distribuita la soluzione?**: selezionare il **tenant Customer** o il **tenant Partner.**
 - **Contract start date**(Data di inizio contratto): data di inizio del contratto. Per le trattative con pagamento in base al prezzo (PAYG), usare la data della prima fattura.
-- **Data di fine contratto:** se il contratto terminerà in una data specifica, selezionare **Ha una data di fine** e specificare tale data. Se il contratto non ha una data di fine specifica, selezionare **Perpetual (Perpetuo).** Per le trattative con pagamento in base al prezzo (PAYG), usare la data dell'ultima fattura o della fattura più recente.
+- **Data di fine contratto:** se il contratto terminerà in una data specifica, selezionare **Ha una data di fine** e specificare tale data. Se il contratto non ha una data di fine specifica, selezionare **Perpetual (Perpetuo).** Per le trattative con pagamento in base al prezzo (PAYG), usare la data dell'ultima fattura o dell'ultima fattura.
 - **Data di firma del** contratto: data in cui il contratto finale è stato firmato dall'organizzazione e dal cliente. Per le trattative con pagamento in base al prezzo (PAYG), usare la data della prima fattura.
 - **Contatto di registrazione:** **nome,**  **cognome,** numero  di telefono e indirizzo di posta elettronica per una persona dell'organizzazione che può essere contattata se sono necessari altri dettagli su una delle informazioni fornite qui.
 

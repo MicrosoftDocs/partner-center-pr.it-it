@@ -1,22 +1,26 @@
 ---
-title: Fai crescere la tua azienda con i riferimenti Microsoft
+title: Aumentare le dimensioni dell'azienda con le segnalazioni Microsoft
 ms.topic: article
 ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come creare un profilo business per generare lead di vendita attraverso la funzionalità dei riferimenti del centro per i partner e quindi per rispondere a questi riferimenti.
+description: Informazioni su come creare un profilo aziendale per generare lead di vendita tramite la funzionalità segnalazioni Partner Center e quindi rispondere a queste segnalazioni.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 149897c0afa12c4c45df974dafb5c47826274174
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549210"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120732"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Aumenta il tuo business con le segnalazioni Microsoft
+
+**Ruoli appropriati**
+
+- Amministratore delle segnalazioni
 
 Molti clienti cercano esperti qualificati che li assistano nell'implementazione di soluzioni aziendali e tecnologiche Microsoft. Qui in Microsoft riceviamo spesso dai clienti richieste di aiuto dirette tramite le nostre attività di marketing e i nostri agenti di vendita interni Microsoft. I clienti usano anche l'esperienza [**Trova un provider di soluzioni**](https://www.microsoft.com/solution-providers/search) per trovare aziende in grado di soddisfare le loro esigenze aziendali. 
 

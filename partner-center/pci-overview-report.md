@@ -1,116 +1,123 @@
 ---
-title: Dashboard panoramica di Insights per partner Center
+title: dashboard panoramica di Partner Center Insights
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri in che modo stai usando le vendite e la distribuzione, la crescita dei clienti e la crescita dei ricavi con le licenze, le sottoscrizioni e il consumo di Azure.
+description: Vedere uno snapshot delle attività di vendita e distribuzione, crescita dei clienti e crescita dei ricavi con licenze, sottoscrizioni e consumo di Azure.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91075e8aab1759904a1549dd38bee6fb886c1c65
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220489"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120818"
 ---
-# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Panoramica dei report del dashboard disponibili in Partner Center Insights
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Report del dashboard di panoramica disponibili in Insights del Centro per i partner
  
-Il dashboard Panoramica di Insights offre una visualizzazione snapshot degli indicatori di prestazioni chiave, ad esempio clienti, sottoscrizioni, ricavi di consumo di Azure, licenze e così via. È possibile visualizzare i grafici seguenti nel report Panoramica.
+**Ruoli appropriati**
+
+- Amministratore globale
+- Agente amministratore
+- Visualizzatore di report
+- Visualizzatore di report esecutivi
+
+Il dashboard Panoramica di Insights offre una visualizzazione snapshot degli indicatori di prestazioni chiave, ad esempio clienti, sottoscrizioni, ricavi a consumo di Azure e licenze. È possibile visualizzare i grafici seguenti nel report Panoramica.
 
 - Riepilogo  
-- Distribuzione geografica dei clienti, delle sottoscrizioni e delle licenze  
-- Tendenza alla crescita dei clienti 
-- Tendenza crescita sottoscrizioni 
-- Tendenza di crescita dei ricavi utilizzata da Azure 
-- Tendenza alla crescita delle licenze 
+- Distribuzione geografica di clienti, sottoscrizioni e licenze  
+- Tendenza di crescita dei clienti 
+- Tendenza di crescita delle sottoscrizioni 
+- Tendenza di crescita dei ricavi utilizzati da Azure 
+- Tendenza di crescita delle licenze 
 
 ## <a name="summary"></a>Riepilogo
 
-Il riepilogo include informazioni sui clienti, i ricavi usati di Azure, le sottoscrizioni vendute, le sottoscrizioni attive e le licenze distribuite. 
+Il riepilogo include informazioni su clienti, ricavi per l'utilizzo di Azure (ACR), sottoscrizioni vendute, sottoscrizioni attive e licenze distribuite. 
 
-:::image type="content" source="images/pci/summary.png" alt-text="Riepilogo licenze":::
+:::image type="content" source="images/pci/summary.png" alt-text="Licenze di riepilogo":::
 
-Per ulteriori informazioni su ogni sezione del riepilogo, vedere di seguito.
+Di seguito sono riportate altre informazioni su ogni sezione del riepilogo.
 
 ### <a name="customers"></a>Clienti
 
-L'area **Customers** include:
+**L'area Clienti** include:
 
-- Il numero corrente di tutti i clienti con almeno una sottoscrizione attiva associata all'azienda tramite diversi tipi di attribuzione e in tutti i prodotti cloud.
-- Percentuale di crescita dei clienti durante l'intervallo di date selezionato.
-- Il grafico micro presenta la tendenza mensile rispetto al numero di clienti entro l'intervallo di date selezionato.
+- Numero corrente di tutti i clienti con almeno una sottoscrizione attiva associata all'azienda tramite tipi di attribuzione diversi e in tutti i prodotti cloud.
+- Crescita percentuale dei clienti durante l'intervallo di date selezionato.
+- Il micro chart presenta la tendenza mensile del numero di clienti nell'intervallo di date selezionato.
 
-### <a name="azure-consumed-revenue-acr"></a>Ricavi usati da Azure (ACR)
+### <a name="azure-consumed-revenue-acr"></a>ricavi per l'utilizzo di Azure (ACR)
 
-L'area **ricavi usati di Azure (ACR)** nel riepilogo include:
+L ricavi per l'utilizzo di Azure di controllo **di accesso (ACR)** nel riepilogo include:
 
-- Il totale dei ricavi consumati da Azure (in US $) attribuiti all'utente nell'intervallo di date selezionato.
-- La percentuale di crescita o di rifiuto nell'ACR con attributi (in US $) durante l'intervallo di date selezionato.
-- Il grafico micro presenta una tendenza mensile di ACR US $ attribuita all'utente nell'intervallo di date selezionato 
+- Numero totale ricavi per l'utilizzo di Azure (in US $) attribuiti all'utente nell'intervallo di date selezionato.
+- Crescita o diminuzione percentuale nel Record di controllo di accesso con attributi (in US $) durante l'intervallo di date selezionato.
+- Il micro chart presenta una tendenza mensile di ACR US$ attribuita all'utente nell'intervallo di date selezionato 
 
 > [!NOTE]
-> I dati dei ricavi consumati di Azure sono disponibili per gli utenti a cui è stato assegnato il ruolo di Visualizzatore report Executive 
+> ricavi per l'utilizzo di Azure (ACR) sono disponibili per gli utenti a cui è stato assegnato il ruolo Executive Report Viewer 
  
 ### <a name="subscriptions-sold"></a>Sottoscrizioni vendute
 
-L'area **sottoscrizioni vendute** nel riepilogo include:
+**L'area Sottoscrizioni** vendute nel riepilogo include:
 
 - Numero totale corrente di sottoscrizioni di prodotti cloud (attive e inattive) vendute o gestite dall'utente.  
-- Aumento o riduzione percentuale delle sottoscrizioni durante l'intervallo di date selezionato.
-- Il grafico micro presenta la tendenza mensile rispetto al mese delle sottoscrizioni totali nell'intervallo di date selezionato.
+- Percentuale di crescita o riduzione delle sottoscrizioni durante l'intervallo di date selezionato.
+- Il micro chart presenta la tendenza mensile delle sottoscrizioni totali nell'intervallo di date selezionato.
 
 ### <a name="active-subscriptions"></a>Sottoscrizioni attive
 
-L'area **sottoscrizioni attive** nel riepilogo include:
+**L'area** Sottoscrizioni attive nel riepilogo include:
 
-- Numero corrente di sottoscrizioni di prodotti cloud con utilizzo attivo misurato in base alla telemetria del prodotto. Questa operazione esclude tutte le sottoscrizioni di valutazione nel caso di sottoscrizioni di Azure.  
-- Incremento percentuale delle sottoscrizioni attive nell'intervallo di date selezionato.
-- Il grafico micro presenta la tendenza mensile rispetto al mese delle sottoscrizioni attive nell'intervallo di date selezionato.
+- Numero corrente di sottoscrizioni di prodotti cloud con utilizzo attivo misurato in base ai dati di telemetria del prodotto. In questo modo vengono escluse tutte le sottoscrizioni di valutazione nel caso di sottoscrizioni di Azure.  
+- Crescita percentuale delle sottoscrizioni attive nell'intervallo di date selezionato.
+- Il micro chart presenta la tendenza mensile delle sottoscrizioni attive nell'intervallo di date selezionato.
  
 ### <a name="licenses-deployed"></a>Licenze distribuite
 
-L'area **licenze distribuite** nel riepilogo include:
+**L'area Licenze** distribuite nel riepilogo include:
  
-- Numero di tutte le licenze di prodotti cloud distribuite nelle sottoscrizioni dei clienti nel periodo di tempo selezionato. 
-- Aumento o riduzione percentuale delle licenze durante l'intervallo di date selezionato. 
-- Il micrografico Mostra la tendenza mensile del numero di licenze assegnate nell'intervallo di date selezionato.
+- Numero di tutte le licenze del prodotto cloud distribuite nelle sottoscrizioni dei clienti nel periodo di tempo selezionato. 
+- Percentuale di crescita o riduzione di queste licenze durante l'intervallo di date selezionato. 
+- Il micro chart mostra la tendenza mensile del conteggio delle licenze assegnate nell'intervallo di date selezionato.
 
-## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Distribuzione geografica dei clienti, delle sottoscrizioni e delle licenze
+## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Distribuzione geografica di clienti, sottoscrizioni e licenze
 
-Questa vista è una distribuzione geografica del totale di clienti, sottoscrizioni e licenze in base al paese del cliente. Fare clic sulle diverse schede per visualizzare ognuna di queste informazioni dettagliate sulla mappa. È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione della mappa. Ripristinare la visualizzazione originale premendo il pulsante Home sulla mappa. Facendo clic su ogni scheda (ad esempio clienti, sottoscrizioni) viene visualizzato il valore della metrica per ogni paese, nonché la percentuale del totale per il paese.  
+Questa visualizzazione è una distribuzione geografica del totale di clienti, sottoscrizioni e licenze in base al paese del cliente. Selezionare le diverse schede per visualizzare ognuna di queste informazioni dettagliate sulla mappa. È possibile cercare e selezionare un paese nella griglia per fare zoom avanti sulla posizione nella mappa. Ripristinare la visualizzazione originale premendo il pulsante Home sulla mappa. Facendo clic su ogni scheda (ad esempio, Clienti, Sottoscrizioni) vengono visualizzati il valore della metrica per ogni paese e la percentuale di Totale per il paese.  
 
 :::image type="content" source="images/pci/geosummary.png" alt-text="Riepilogo geografico":::
 
-## <a name="customers-growth-trend"></a>Tendenza alla crescita dei clienti
+## <a name="customers-growth-trend"></a>Tendenza di crescita dei clienti
 
-La tendenza mensile del totale dei clienti viene conteggiata per l'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il numero totale di clienti per quel mese. 
+Tendenza mensile dei conteggi totali dei clienti per l'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il numero totale di clienti per tale mese. 
 
-:::image type="content" source="images/pci/customergrowth.png" alt-text="tendenza alla crescita dei clienti":::
+:::image type="content" source="images/pci/customergrowth.png" alt-text="tendenza di crescita dei clienti":::
 
-## <a name="subscriptions-growth-trend"></a>Tendenza crescita sottoscrizioni
+## <a name="subscriptions-growth-trend"></a>Tendenza di crescita delle sottoscrizioni
 
-Indica la tendenza del numero di sottoscrizioni cliente per l'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il numero di sottoscrizioni del prodotto selezionato. Scorrere il dispositivo di scorrimento nella parte superiore del grafico per ingrandire il grafico in base a un periodo di tempo specifico. 
+Indica la tendenza del numero di sottoscrizioni dei clienti per l'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il numero di sottoscrizioni del prodotto selezionato. Scorrere il dispositivo di scorrimento nella parte superiore del grafico per fare zoom avanti su un periodo di tempo specifico. 
 
-:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendenza crescita sottoscrizione":::
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendenza di crescita delle sottoscrizioni":::
 
-## <a name="azure-consumed-revenue-growth-trend"></a>Tendenza di crescita dei ricavi utilizzata da Azure
+## <a name="azure-consumed-revenue-growth-trend"></a>ricavi per l'utilizzo di Azure tendenza di crescita
 
-Tendenza mensile dei ricavi usati da Azure US $ attribuiti all'utente nell'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il totale dei ricavi usati da Azure US $ attribuiti all'utente durante il mese.
+Tendenza mensile dei ricavi utilizzati da Azure US$ attribuiti all'utente nell'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il totale dei ricavi utilizzati da Azure US$ attribuiti all'utente durante il mese.
 
 > [!NOTE]
-> I ricavi usati da Azure saranno visibili solo agli utenti a cui è stato assegnato il ruolo di Visualizzatore report Executive. 
+> ricavi per l'utilizzo di Azure (ACR) sarà visibile solo agli utenti a cui è stato assegnato il ruolo Executive Report Viewer. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Consumo di Azure":::
 
-## <a name="licenses-growth-trend"></a>Tendenza alla crescita delle licenze
+## <a name="licenses-growth-trend"></a>Tendenza di crescita delle licenze
  
-Tendenza delle licenze assegnate da tutti i clienti durante l'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il numero di licenze del prodotto selezionato. Scorrere il dispositivo di scorrimento nella parte superiore del grafico per ingrandire il grafico in base a un periodo di tempo specifico.  
+Tendenza delle licenze assegnate da tutti i clienti durante l'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il numero di licenze del prodotto selezionato. Scorrere il dispositivo di scorrimento nella parte superiore del grafico per eseguire lo zoom del grafico su un periodo di tempo specifico.  
 
 :::image type="content" source="images/pci/licensesgrowth.png" alt-text="licenze":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-Per altri report, vedere [Partner Center Insights](partner-center-insights.md).
+Per altri report, vedere Partner Center [Insights](partner-center-insights.md).

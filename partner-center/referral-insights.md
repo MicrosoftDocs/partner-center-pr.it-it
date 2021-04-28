@@ -9,14 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 410ee9bee307f78cc93dabbafab147bb725a8d02
-ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
+ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "107941827"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120852"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Ottenere informazioni dettagliate sulle segnalazioni nel Centro per i partner ed esaminare lo stato delle segnalazioni
+
+**Ruoli appropriati**
+
+- Amministratore delle segnalazioni
 
 La **pagina Opportunità di co-selling** nella sezione **Analisi** in Segnalazioni consente di vedere il funzionamento delle segnalazioni. Esamina regolarmente queste metriche per identificare tendenze o aree che richiedono attenzione e inizia a muoverti verso il raggiungimento dei tuoi obiettivi aziendali.
 
@@ -52,13 +56,13 @@ Le metriche relative alla variazione percentuale (visualizzate in rosso o verde,
 
 ## <a name="conversion-funnel"></a>Imbuto di conversione
 
-Questa sezione mostra un indicatore visivo del modo in cui le trattative passano da uno stato all'altro attraverso il ciclo di vita. È possibile visualizzare l'intero ciclo di vita in base al volume e al valore delle trattative in USD secondo il pivot principale per questa sezione. La prima sezione è etichettata con lo stato e con il tipo di trattativa per fornire un indicatore visivo del volume o del valore in base al tipo. È anche disponibile una sezione **Segnalazioni del passato** che viene usata per indicare le trattative accettate/rifiutate o contrassegnate come vinte/perse nel periodo di tempo selezionato per il report. È possibile applicare filtri per visualizzare lo stato di avanzamento delle trattative tra le varie fasi del ciclo di vita.
+Questa sezione mostra un indicatore visivo del modo in cui le trattative passano da uno stato all'altro attraverso il ciclo di vita. È possibile visualizzare l'intero ciclo di vita in base al volume e al valore della trattativa in USD in base al pivot principale per questa sezione. La prima sezione è etichettata sia con lo stato che con il tipo di trattativa per fornire un indicatore visivo del volume o del valore in base al tipo. È anche disponibile una sezione **Segnalazioni del passato** che viene usata per indicare le trattative accettate/rifiutate o contrassegnate come vinte/perse nel periodo di tempo selezionato per il report. È possibile applicare filtri per visualizzare lo stato di avanzamento delle trattative tra le varie fasi del ciclo di vita.
 
 Le trattative in ingresso di co-selling possono essere unite in accettate, rifiutate o scadute, in quanto i partner devono accettare o rifiutare le trattative di co-selling in ingresso.
 
 :::image type="content" source="images/referrals/inbound.png" alt-text="Immagine che mostra gli stati per le segnalazioni in ingresso.":::
 
-Le trattative in uscita private e di co-selling guidate dai partner si uniranno a Create quando questi tipi di trattative vengono creati dai partner.
+Le trattative in uscita guidate dai partner, private e di co-selling si uniranno a Create quando questi tipi di trattative vengono creati dai partner.
 
 :::image type="content" source="images/referrals/outbound.png" alt-text="Immagine che mostra gli stati per le segnalazioni in uscita.":::
 
@@ -66,7 +70,7 @@ Le trattative in uscita private e di co-selling guidate dai partner si uniranno 
 
 ## <a name="deals-by-geography"></a>Trattative per area geografica
 
-In questa sezione vengono visualizzati i paesi e/o le aree geografiche da cui sono arrivate le segnalazioni, con i dettagli relativi a ogni paese/area geografica. È disponibile una vista tabella dei dettagli delle trattative per ogni paese insieme a una vista mappa di tutti i paesi. È possibile selezionare un paese specifico nella tabella o selezionare la visualizzazione mappa per fare zoom avanti su un paese specifico.
+In questa sezione vengono visualizzati i paesi e/o le aree geografiche da cui sono arrivate le segnalazioni, con i dettagli relativi a ogni paese/area geografica. È disponibile una vista tabella dei dettagli delle trattative per ogni paese insieme a una vista mappa di tutti i paesi. È possibile selezionare un paese specifico nella tabella o selezionare la visualizzazione mappa per ingrandire un paese specifico.
 
 :::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="Immagine che mostra la distribuzione geografica delle segnalazioni.":::
 
@@ -97,13 +101,13 @@ Le tre dimensioni che è possibile scegliere per confrontare i dati sono
 - Mercati
 - Soluzioni
 
-Quando si seleziona il tipo di trattativa, è possibile confrontare le prestazioni delle segnalazioni rispetto alle opportunità di co-selling, alle trattative private e guidate dai partner. Per i mercati e le soluzioni, è possibile scegliere fino a tre diverse opzioni per il confronto delle prestazioni. Il primo grafico, che è un grafico a barre, presenterà i dati con una tendenza mensile in base al pivot principale, ovvero il volume o il valore delle trattative vinte. A destra del grafico a barre è inoltre presente un grafico a torta, che mostra la distribuzione per percentuale per gli stessi dati.
+Quando è selezionato il tipo di trattativa, è possibile confrontare le prestazioni delle segnalazioni rispetto alle opportunità di co-selling, alle trattative guidate dai partner e private. Per i mercati e le soluzioni, è possibile scegliere fino a tre diverse opzioni per il confronto delle prestazioni. Il primo grafico, che è un grafico a barre, presenterà i dati con una tendenza mensile in base al pivot principale, ovvero il volume o il valore delle trattative vinte. A destra del grafico a barre è inoltre presente un grafico a torta, che mostra la distribuzione per percentuale per gli stessi dati.
 
 :::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Immagine che mostra la sezione di confronto.":::
 
 ## <a name="raw-data-table"></a>Tabella dei dati non elaborati
 
-La tabella seguente con tutti i dati non elaborati relativi alle opportunità di co-selling consentirà di **esportare** rapidamente i dati per qualsiasi analisi dettagliata o personalizzata che si desideri eseguire.
+La tabella seguente, con tutti i dati non elaborati correlati  alle opportunità di co-selling, consente di esportare rapidamente i dati per qualsiasi analisi dettagliata o personalizzata che si vuole eseguire.
 
 :::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Immagine che mostra la tabella dei dati non elaborati per le segnalazioni.":::
 

@@ -4,45 +4,49 @@ ms.topic: article
 ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Visualizzare i paesi, le aree geografiche e le valute in cui è possibile vendere le offerte CSP, in base alla posizione dell'azienda.
+description: Visualizzare i paesi, le aree geografiche e le valute in cui è possibile vendere offerte CSP, in base alla posizione dell'azienda.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528605"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120767"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider mercati e valute regionali del programma in cui è possibile vendere offerte CSP
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider i mercati regionali e le valute del programma in cui è possibile vendere offerte CSP
+
+**Ruoli appropriati**
+
+- Amministratore globale
 
 La posizione dell'azienda determina il tuo mercato, Il mercato include le aree geografiche e/o i paesi in cui è possibile vendere Cloud Solution Provider offerte del programma CSP.
 
-Ad esempio, se l'azienda si trova nel Stati Uniti, è possibile vendere offerte CSP ai clienti negli Stati Uniti e nelle isole Outlying degli Stati Uniti. Se la società si trova in Brasile, è possibile vendere offerte CSP ai clienti solo in Brasile. Se la società si trova nell'area Africa, è possibile vendere offerte CSP ai clienti in tutti i 18 paesi dell'area Africa.
+Ad esempio, se l'azienda si trova nel Stati Uniti, è possibile vendere le offerte CSP ai clienti negli Stati Uniti e nelle isole outlying degli Stati Uniti. Se l'azienda si trova in Brasile, è possibile vendere le offerte CSP ai clienti solo in Brasile. Se l'azienda si trova nell'area Africa, è possibile vendere offerte CSP ai clienti in tutti i 18 paesi dell'area Africa.
 
-Prima di poter effettuare un ordine di un prodotto CSP per conto di un cliente, quest'ultimo deve firmare il Contratto del cliente Microsoft. È possibile trovare le impostazioni Contratto del cliente Microsoft per la propria area geografica/paese [qui](agreements.md).
+Prima di poter effettuare un ordine di un prodotto CSP per conto di un cliente, quest'ultimo deve firmare il Contratto del cliente Microsoft. È possibile trovare il nome Contratto del cliente Microsoft per l'area geografica/paese [qui.](agreements.md)
 
 ## <a name="azure-plan-for-csp-region-availability"></a>Piano di Azure per la disponibilità dell'area CSP  
 
-Piano di Azure per CSP è disponibile in meno aree rispetto a Software di Azure per CSP.  Vedere Acquistare il  [piano di Azure per](purchase-azure-plan.md) visualizzare gli aggiornamenti più recenti sulla disponibilità a livello di regione per il piano di Azure. 
+Il piano di Azure per CSP è disponibile in meno aree rispetto a Software di Azure per CSP. Per gli aggiornamenti più recenti sulla disponibilità a livello di regione per il piano di Azure, vedere [Acquistare il piano di Azure.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
-> È necessario verificare che un cliente abbia accettato il Contratto del cliente Microsoft fornendo informazioni sulla persona che lo ha firmato. Per altre informazioni, vedi [Confermare l'accettazione del Contratto del cliente Microsoft da parte di un cliente](confirm-consent.md).
+> È necessario verificare che un cliente abbia accettato il Contratto del cliente Microsoft fornendo informazioni sulla persona che l'ha firmata. Per altre informazioni, vedi [Confermare l'accettazione del Contratto del cliente Microsoft da parte di un cliente](confirm-consent.md).
 
-Per determinare dove è possibile vendere offerte CSP, trovare la posizione della società in uno degli elenchi seguenti. È necessario disporre di un ID mpn (Active Microsoft Partner Network) per la località in cui si vuole vendere.  
+Per determinare dove è possibile vendere le offerte CSP, trovare la posizione dell'azienda in uno degli elenchi seguenti. È necessario disporre di un ID Microsoft Partner Network (MPN) attivo per la località in cui si vuole vendere.  
 
 
 ## <a name="for-unsupported-countries"></a>Per i paesi non supportati
 
-Se il paese non è supportato, stabilire la relazione CSP del cliente usando l'URL di amministratore di Office. 
+Se il paese non è supportato, stabilire la relazione CSP del cliente usando l'URL amministratore di Office. 
 
 - I partner con fatturazione diretta usano l'URL seguente: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Sostituire **partnertenantguid con** l'ID tenant. 
 
-- L'URL per i rivenditori indiretti è: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . **IRtenantguid verrà sostituito** con l'ID tenant. Sostituire **IRMPNID** con l'ID MPN e **sostituire IPtenantguid** con l'ID tenant del provider indiretto.
+- L'URL per i rivenditori indiretti è: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Sostituire **IRtenantguid con** l'ID tenant. Sostituire **IRMPNID con** l'ID MPN e **sostituire IPtenantguid** con l'ID tenant del provider indiretto.
 
-## <a name="africa-region-and-market"></a>Area e mercato dell'Africa
+## <a name="africa-region-and-market"></a>Africa region and market
 
 Se la posizione dell'azienda è nell'elenco seguente, è possibile vendere offerte CSP ai clienti in tutte le località dell'elenco.
 
@@ -123,7 +127,7 @@ Se la posizione dell'azienda è nell'elenco seguente, è possibile vendere offer
 |  Vietnam           |   USD    |
 |
 
-## <a name="australia-region-and-market"></a>Area e mercato dell'Australia
+## <a name="australia-region-and-market"></a>Australia area e mercato
 
 Se la posizione dell'azienda è nell'elenco seguente, è possibile vendere offerte CSP ai clienti in tutte le località dell'elenco.
 
@@ -154,7 +158,7 @@ Se la posizione dell'azienda è nell'elenco seguente, è possibile vendere offer
 |  Wallis e Futuna     |   AUD    |
 |
 
-## <a name="brazil-region-and-market"></a>Area e mercato del Brasile
+## <a name="brazil-region-and-market"></a>Regione e mercato del Brasile
 
 Se la sede dell'azienda è il Brasile, è possibile vendere offerte CSP ai clienti in Brasile.
 
@@ -163,7 +167,7 @@ Se la sede dell'azienda è il Brasile, è possibile vendere offerte CSP ai clien
 |  Brasile         |   USD    |
 |
 
-## <a name="canada-region-and-market"></a>Area e mercato del Canada
+## <a name="canada-region-and-market"></a>Canada area e mercato
 
 Se la posizione dell'azienda è nell'elenco seguente, è possibile vendere offerte CSP ai clienti in tutte le località dell'elenco.
 
@@ -173,7 +177,7 @@ Se la posizione dell'azienda è nell'elenco seguente, è possibile vendere offer
 |  Saint Pierre e Miquelon|  CAD   |
 |
 
-## <a name="europe-region-and-market"></a>Area e mercato dell'Europa
+## <a name="europe-region-and-market"></a>Area e mercato in Europa
 
 Se la posizione dell'azienda è nell'elenco seguente, è possibile vendere offerte CSP ai clienti in tutte le località dell'elenco.
 
@@ -226,7 +230,7 @@ Se la posizione dell'azienda è nell'elenco seguente, è possibile vendere offer
 |  Città del Vaticano   |          |
 |
 
-## <a name="india-region-and-market"></a>Area e mercato dell'India
+## <a name="india-region-and-market"></a>Area e mercato india
 
 Se la sede dell'azienda è l'India, è possibile vendere offerte CSP ai clienti in India.
 
@@ -244,7 +248,7 @@ Se la sede dell'azienda è il Giappone, è possibile vendere offerte CSP ai clie
 |  Giappone          |   JPY    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>Corea, Repubblica di area e mercato
+## <a name="korea-republic-of-region-and-market"></a>Corea, Repubblica di area geografica e mercato
 
 Se la sede dell'azienda è Corea, Repubblica di, è possibile vendere offerte CSP ai clienti in Corea, Repubblica di.
 
@@ -253,9 +257,9 @@ Se la sede dell'azienda è Corea, Repubblica di, è possibile vendere offerte CS
 |  Repubblica di Corea|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>America Latina e l'area e il mercato dei Caraibi
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>America Latina e l'area e il mercato di Rieti
 
-Se la posizione dell'azienda è nell'elenco seguente, è possibile vendere offerte CSP ai clienti in tutte le località dell'elenco.
+Se la località dell'azienda è nell'elenco seguente, è possibile vendere offerte CSP ai clienti in tutte le località dell'elenco.
 
 |  Paese/Area geografica | Valuta |
 |  -------------- |:--------:|
@@ -314,9 +318,9 @@ Se la posizione dell'azienda è nell'elenco seguente, è possibile vendere offer
 |  Isole Vergini americane| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Area e mercato medio-orientale, Europa centrale ed Europa orientale
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Medio Oriente, Europa centrale ed Europa orientale e area e mercato dell'Europa orientale
 
-Se la posizione dell'azienda è nell'elenco seguente, è possibile vendere offerte CSP ai clienti in tutte le località dell'elenco.
+Se la località dell'azienda è nell'elenco seguente, è possibile vendere offerte CSP ai clienti in tutte le località dell'elenco.
 
 |  Paese/Area geografica | Valuta |
 |  -------------- |:--------:|
@@ -341,7 +345,7 @@ Se la posizione dell'azienda è nell'elenco seguente, è possibile vendere offer
 |  Libano        |   USD    |
 |  Lesotho        |   USD    |
 |  Libia          |   USD    |
-|  Repubblica di Repubblica di Repubblica|   |
+|  Macedonia, Repubblica di|   |
 |  Mauritania     |   USD    |
 |  Moldova        |   USD    |
 |  Mongolia       |   USD    |
@@ -388,7 +392,7 @@ Se la sede dell'azienda è la Russia, è possibile vendere offerte CSP ai client
 |  Russia         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Area e mercato taiwanese
+## <a name="taiwan-region-and-market"></a>Area e mercato di Taiwan
 
 Se la sede dell'azienda è Taiwan, è possibile vendere offerte CSP ai clienti di Taiwan.
 
@@ -397,9 +401,9 @@ Se la sede dell'azienda è Taiwan, è possibile vendere offerte CSP ai clienti d
 |  Taiwan         |   TWD    |
 |
 
-## <a name="united-states-region-and-market"></a>Stati Uniti area geografica e mercato
+## <a name="united-states-region-and-market"></a>Stati Uniti'area e del mercato
 
-Se la posizione dell'azienda è nell'elenco seguente, è possibile vendere offerte CSP ai clienti in tutte le località dell'elenco.
+Se la località dell'azienda è nell'elenco seguente, è possibile vendere offerte CSP ai clienti in tutte le località dell'elenco.
 
 |  Paese/Area geografica       | Valuta |
 |  -------------        |:--------:|

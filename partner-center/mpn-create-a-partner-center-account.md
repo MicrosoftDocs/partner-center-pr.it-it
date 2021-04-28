@@ -1,5 +1,5 @@
 ---
-title: Creare un account MPN nel centro per i partner
+title: Creare un account MPN in Partner Center
 ms.topic: article
 ms.date: 04/08/2021
 ms.service: partner-dashboard
@@ -9,69 +9,72 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 27cd00b5475914019963fad381b36b47a017dcf1
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266538"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120801"
 ---
-# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Creare un account MPN nel centro per i partner per gestire i vantaggi e le competenze della rete
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Creare un account MPN in Partner Center gestire i vantaggi e le competenze della rete
 
+**Ruoli appropriati**
 
-Se non si ha familiarità con Microsoft Partner Network (MPN) e non si dispone di un ID MPN, è possibile avviare la registrazione seguendo le [istruzioni di registrazione](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
+- Amministratore dei partner MPN
+
+Se non si ha Microsoft Partner Network (MPN) e non si ha un ID MPN, è possibile avviare la registrazione seguendo le [istruzioni di registrazione](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
 ## <a name="prerequisites"></a>Prerequisiti 
 
-Quando si è pronti per creare un account nel centro per i partner, è necessario avere a disposizione gli elementi seguenti.  Prima di iniziare, è consigliabile dedicare qualche minuto alla raccolta di questi elementi:
+Quando si è pronti per creare un account Partner Center, è necessario disporre degli elementi seguenti.  Prima di iniziare, è consigliabile dedicare qualche minuto alla raccolta di questi elementi:
 
-- Indirizzo di posta elettronica aziendale o account aziendale 365 di Office. L'azienda potrebbe dover acquistare un dominio di posta elettronica per configurare gli indirizzi di posta elettronica di lavoro per i dipendenti. Per altre informazioni, vedi [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md). 
+- Posta elettronica aziendale o account aziendale di Office 365. L'azienda potrebbe dover acquistare un dominio di posta elettronica per configurare gli indirizzi di posta elettronica aziendali per i dipendenti. Per altre informazioni, vedi [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md). 
  
 - Ragione sociale e indirizzo dell'azienda.
 
 - Autorità per firmare i contratti legali. Verifica di essere autorizzato a firmare contratti legali per conto della tua azienda perché ti verrà richiesto di eseguire questa operazione durante il processo di registrazione.
 
-- Nome e indirizzo di posta elettronica aziendale della persona che sarà il contatto principale. Per garantire la sicurezza e la privacy dell'azienda, è possibile inviare un messaggio di posta elettronica al contatto principale per verificare l'indirizzo di posta elettronica e assicurarsi che l'indirizzo di posta elettronica appartenga all'azienda. Dopo che il contatto principale ha verificato l'indirizzo di posta elettronica, continueremo a esaminare le informazioni fornite. La verifica in genere richiede 3-5 giorni lavorativi. 
+- Nome e indirizzo di posta elettronica aziendale della persona che sarà il contatto principale. Per garantire la sicurezza e la privacy dell'azienda, viene inviato un messaggio di posta elettronica al contatto principale per verificare l'indirizzo di posta elettronica e per assicurarsi che appartenga all'azienda. Dopo che il contatto principale ha verificato l'indirizzo di posta elettronica, continueremo a esaminare le informazioni fornite. La verifica richiede in genere 3-5 giorni lavorativi. 
 
-- Per informazioni sul processo di verifica, vedere [Verifica dell'account](verification-responses.md).
+- Per informazioni sul processo di verifica, vedere [Verifica dell'account.](verification-responses.md)
 
 >[!NOTE]
->Se l'appartenenza al Microsoft Partner Network è ancora in partner Membership Center (PMC), è necessario eseguire la migrazione dell'account immediatamente al centro per i partner. Scaricare la [Guida dettagliata per la migrazione](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
+>Se l'Microsoft Partner Network è ancora in Partner Membership Center (PMC), è necessario eseguire immediatamente la migrazione dell'account a Partner Center. Scaricare la [guida dettagliata per eseguire la migrazione di](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
 
 ## <a name="get-started"></a>Introduzione
 
-1. Nella pagina attività [**iniziali**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) , iniziare con l'indirizzo di posta elettronica di lavoro fornito dall'azienda, ad esempio you@yourcompanyname.com .
+1. Nella pagina [**Attività preliminari**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) iniziare con l'indirizzo di posta elettronica aziendale fornito dall'azienda, ad esempio you@yourcompanyname.com .
 
  
-    a.  L'indirizzo di posta elettronica deve essere valido e accessibile perché verrà inviato un codice di verifica al messaggio di posta elettronica per continuare.
+    a.  L'indirizzo di posta elettronica deve essere valido e accessibile perché microsoft invierà un codice di verifica a tale indirizzo di posta elettronica per continuare.
 
-    b.  L'indirizzo di posta elettronica non deve contenere parole come "info", "admin", "" email@ . O " marketing@.. ."; questi formati di indirizzo non sono supportati.
+    b.  L'indirizzo di posta elettronica non deve contenere parole come "info", "admin", email@ "." Oppure " marketing@.. .". Questi formati di indirizzo non sono supportati.
 
-    c.  Per acquistare mappe o gestire le competenze, sarà necessario aggiornare l'account [verificando il dominio](become-global-admin.md) e diventando un amministratore. 
+    c.  Per acquistare MAPS o gestire le competenze, è necessario aggiornare questo account verificando [il](become-global-admin.md) dominio e diventando amministratore. 
 
 2. È possibile accedere con l'account aziendale di Office 365, ad esempio you@contoso.onmicrosoft.com .
 
    >[!NOTE]
-   > Non è possibile usare le credenziali dell'account CSP esistenti per eseguire la registrazione in MPN.
+   > Non è possibile usare le credenziali dell'account CSP esistente per la registrazione in MPN.
 
-3. Fornire i dettagli aziendali legali dell'azienda.
+3. Specificare i dettagli legali dell'azienda.
 
-È possibile cercare il profilo aziendale o immettere manualmente le informazioni aziendali. Se la società è registrata con [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), usare l'ID DUNS per cercare le informazioni aziendali. Se si vuole specificare i dettagli aziendali manualmente, selezionare **Manuale**.
+È possibile cercare il profilo aziendale o immettere manualmente le informazioni aziendali. Se l'azienda è registrata con [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)usare l'ID DUNS per cercare le informazioni aziendali. Se si vuole specificare i dettagli aziendali manualmente, selezionare **Manuale**.
 
-Se la società si trova in **Armenia**, **Ungheria**, **Kirghizistan**, **Moldova**, **Uzbekistan** o **Russia** e si immette l'indirizzo manualmente, l'indirizzo verrà convalidato. Se quello immesso è diverso da quello convalidato, è consigliabile usare l'indirizzo convalidato. Ciò assicura che gli elementi dell'indirizzo siano standardizzati in base a quanto definito dall'autorità postale del paese, formattato correttamente e spedito.  
+Se l'azienda si trova in **Armenia,** Ungheria, **Kirghizistan,** **Moldova,** **Uzbekistan** o **Russia** e si immette manualmente l'indirizzo, l'indirizzo verrà convalidato automaticamente. Se l'indirizzo immesso è diverso da quello convalidato, è consigliabile usare l'indirizzo convalidato. In questo modo si garantisce che gli elementi dell'indirizzo siano standardizzati in base a quanto definito dall'autorità postale del paese, formattati correttamente e spedibili.  
 
-Dopo aver fornito le informazioni sulla società, immettere le informazioni di contatto primarie. Il contatto principale deve essere l'utente della società a cui è possibile rivolgersi per l'applicazione (il contatto può essere l'utente o un altro utente della società).
+Dopo aver fornito le informazioni aziendali, immettere le informazioni di contatto principali. Il contatto principale deve essere la persona dell'azienda che è possibile contattare per l'applicazione . Questo contatto può essere l'utente o un'altra persona dell'azienda.
 
 4. Selezionare **Registrati ora**.
 
 >[!IMPORTANT]
->Per garantire la sicurezza e la privacy dell'azienda, è possibile inviare un messaggio di posta elettronica al contatto principale per verificare l'indirizzo di posta elettronica e verificare che l'indirizzo di posta elettronica appartenga all'azienda. Dopo che il contatto principale ha verificato l'indirizzo di posta elettronica, continueremo a esaminare le informazioni fornite. La verifica in genere richiede 3-5 giorni lavorativi. 
+>Per garantire la sicurezza e la privacy dell'azienda, viene inviato un messaggio di posta elettronica al contatto principale per verificare l'indirizzo di posta elettronica e assicurarsi che l'indirizzo di posta elettronica appartenga all'azienda. Dopo che il contatto primario ha verificato l'indirizzo di posta elettronica, continueremo la revisione delle informazioni fornite. La verifica richiede in genere 3-5 giorni lavorativi. 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Come visualizzare i dettagli dell'account o visualizzare e scaricare il contratto MPN
 
-Accedere al centro per i partner con le credenziali MPN. Selezionare [**profilo partner**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) per visualizzare i dettagli legali dell'azienda, lo stato di verifica, gli ID MPN e creare anche nuove posizioni MPN, se necessario. 
+Accedere Partner Center con le credenziali MPN. Selezionare [**Profilo partner per**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) visualizzare i dettagli legali dell'azienda, lo stato di verifica, gli ID MPN e, se necessario, creare nuove località MPN. 
 
-È anche possibile visualizzare altre informazioni importanti, ad esempio gli ID MPN, gestire i percorsi MPN e visualizzare il contratto per i partner Microsoft usando i collegamenti del menu a sinistra, come illustrato nello screenshot seguente.
+È anche possibile visualizzare altre informazioni importanti, ad esempio gli ID MPN, gestire le posizioni MPN e visualizzare Contratto Microsoft Partner usando i collegamenti al menu a sinistra, come illustrato nello screenshot seguente.
 
 :::image type="content" source="images/mpn-new.png" alt-text="Profilo partner":::
 

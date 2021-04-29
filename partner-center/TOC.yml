@@ -9,7 +9,7 @@
     - name: Diventa partner di Microsoft
       href: mpn-overview.md
       displayName: mpn
-    - name: Creare un account MPN nel centro per i partner
+    - name: Creare un account MPN in Partner Center
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Risolvere i problemi di configurazione dell'account
@@ -38,13 +38,13 @@
         - name: Rinnovare le offerte
           href: renew-mpn-offers.md
           displayName: mpn
-        - name: Richiedi rimborso
+        - name: Richiedere un rimborso
           href: mpn-refund-request.md
           displayName: mpn
         - name: Scoprire i vantaggi MPN
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: Pagare le spese di competenza
+        - name: Pagare le tariffe di competenza
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
     - name: Competenze
@@ -52,7 +52,7 @@
         - name: Informazioni sulle competenze
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Iscriversi come partner di formazione
+        - name: Iscriversi come partner per l'apprendimento
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Domande frequenti sulle competenze
@@ -60,7 +60,7 @@
           displayName: 'renew, mpn'
         - name: Esenzione dalle competenze per lo sviluppo di app
           href: app-dev-isv.md
-        - name: Usare il report Skills
+        - name: Usare il report sulle competenze
           href: mpn-skills-report.md
     - name: Specializzazioni avanzate
       items:
@@ -80,10 +80,10 @@
         - name: Vantaggi di commercializzazione
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
-        - name: Demo per partner MPN
+        - name: Demo per i partner MPN
           href: mpn-demos.md
           displayName: mpn
-        - name: Criteri e uso dei vantaggi-domande frequenti
+        - name: Criteri e utilizzo dei vantaggi - Domande frequenti
           href: benefits-faq-new.md
         - name: Domande frequenti sui vantaggi
           href: benefits-faq.md
@@ -94,16 +94,16 @@
         - name: Prodotti software
           href: mpn-benefits-software.md
           displayname: 'software, on-premise benefit, mpn'
-        - name: Vantaggi di Visual Studio
+        - name: Visual Studio vantaggi
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
-        - name: Prevendite tecniche e servizi di distribuzione
+        - name: Servizi tecnici di prevendita e distribuzione
           href: technical-benefits.md
           displayname: 'TPD, presales, deployment, technical'
         - name: Vantaggi tecnici
           href: mpn-benefits-technical-support.md
           displayname: 'support, incidents, technical'
-        - name: Creare un logo con logo Builder
+        - name: Creare un logo con Logo Builder
           href: mpn-logo-builder.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
@@ -133,7 +133,7 @@
     - name: Contratto Microsoft Partner - CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: Come i provider indiretti possono aiutare i rivenditori ad adottare il MPA
+    - name: In che modo i provider indiretti possono aiutare i rivenditori ad adottare il programma MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
     - name: Requisiti dei partner diretti CSP
@@ -151,6 +151,8 @@
     - name: 'Contratti, listini prezzi e offerte del programma CSP'
       href: csp-documents-and-learning-resources.md
       displayName: csp
+    - name: Informazioni sul numero ID registrazione
+      href: reg-number-id.md
     - name: Mercati locali e valute del programma CSP
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
@@ -279,7 +281,7 @@
       href: register-deals.md
     - name: Ottenere informazioni dettagliate sulle segnalazioni
       href: referral-insights.md
-    - name: Ottieni informazioni dettagliate sui lead
+    - name: Ottenere informazioni dettagliate sui lead
       href: analyze-your-marketing-profile.md
       displayName: mpn
 - name: Incentivi
@@ -445,7 +447,7 @@
           displayName: 'region, regio'
         - name: Richiedere crediti del contratto di servizio a Microsoft
           href: request-credit.md
-        - name: Effetti sui criteri fiscali sui pagamenti
+        - name: Effetti dei criteri fiscali sui pagamenti
           href: tax-policies-affect-payout.md
     - name: Impostare un budget di spesa di Azure per i clienti
       href: set-an-azure-spending-budget-for-your-customers.md

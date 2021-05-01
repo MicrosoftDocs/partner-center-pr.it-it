@@ -1,7 +1,7 @@
 ---
 title: Ottenere informazioni dettagliate sulle segnalazioni
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Esaminare periodicamente i dati delle informazioni dettagliate sulle segnalazioni nel Centro per i partner per visualizzare le aree di miglioramento o le tendenze che richiedono attenzione per raggiungere gli obiettivi aziendali.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120852"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328084"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Ottenere informazioni dettagliate sulle segnalazioni nel Centro per i partner ed esaminare lo stato delle segnalazioni
 
@@ -27,7 +27,7 @@ La **pagina Opportunità di co-selling** nella sezione **Analisi** in Segnalazio
 Per visualizzare dati dettagliati sulle opportunità di co-selling, scegliere **Segnalazioni > Analisi > Opportunità di co-selling** dal menu del Centro per i partner.
 
 > [!Important]
-> Il filtro del tipo di trattativa è già applicato con il tipo **Co-selling** selezionato per tutti i dati. Rimuovere il filtro, se si vuole eseguire l'astratto dei dati correlati alle trattative private e guidate dai partner.
+> Il filtro del tipo di trattativa viene pre-applicato con **il tipo di co-selling** selezionato per tutti i dati. Rimuovere il filtro se si vogliono analizzare i dati correlati alle trattative private e guidate dai partner.
 
 ## <a name="apply-filters"></a>Applicare filtri
 
@@ -70,13 +70,13 @@ Le trattative in uscita guidate dai partner, private e di co-selling si uniranno
 
 ## <a name="deals-by-geography"></a>Trattative per area geografica
 
-In questa sezione vengono visualizzati i paesi e/o le aree geografiche da cui sono arrivate le segnalazioni, con i dettagli relativi a ogni paese/area geografica. È disponibile una vista tabella dei dettagli delle trattative per ogni paese insieme a una vista mappa di tutti i paesi. È possibile selezionare un paese specifico nella tabella o selezionare la visualizzazione mappa per ingrandire un paese specifico.
+In questa sezione vengono visualizzati i paesi e/o le aree geografiche da cui sono arrivate le segnalazioni, con i dettagli relativi a ogni paese/area geografica. È disponibile una vista tabella dei dettagli delle trattative per ogni paese insieme a una vista mappa di tutti i paesi. È possibile selezionare un paese specifico nella tabella o selezionare la visualizzazione mappa per fare zoom avanti su un paese specifico.
 
 :::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="Immagine che mostra la distribuzione geografica delle segnalazioni.":::
 
 ## <a name="deals-by-solutions"></a>Trattative per soluzioni
 
-Questo grafico consente di vedere quali soluzioni attivano la maggior parte delle segnalazioni e generano il valore più alto di trattative. La tabella include tre pivot: co-selling, guidato dal partner e privato.
+Questo grafico consente di vedere quali soluzioni attivano la maggior parte delle segnalazioni e generano il valore più alto di trattative. La tabella include tre pivot: Co-selling, Guidato dal partner e Privato.
 In base alla selezione del pivot, è possibile visualizzare le prestazioni delle trattative aggregate per soluzione.
 
 > [!NOTE]
@@ -94,8 +94,7 @@ Questa sezione consente di analizzare i motivi per cui le trattative vengono con
 
 ## <a name="comparison-charts"></a>Grafici di confronto
 
-La sezione di confronto consentirà di confrontare i dati relativi alle segnalazioni in base a più dimensioni sia per il pivot relativo al volume che per quello relativo al valore delle trattative vinte in USD.
-Le tre dimensioni che è possibile scegliere per confrontare i dati sono
+La sezione di confronto consentirà di confrontare i dati relativi alle segnalazioni in base a più dimensioni sia per il pivot relativo al volume che per quello relativo al valore delle trattative vinte in USD. Le tre dimensioni che è possibile scegliere per confrontare i dati sono:
 
 - Tipo di trattativa
 - Mercati
@@ -128,3 +127,8 @@ Se con l'accesso all'analisi delle opportunità di co-selling si ottiene un graf
 
 > [!TIP]
 > Per informazioni sulle prestazioni del tuo profilo di business nell'esperienza [Trova un provider di soluzioni](https://www.microsoft.com/solution-providers/home), consulta la [pagina Analizzare il profilo di business](analyze-your-marketing-profile.md).
+
+## <a name="next-steps"></a>Passaggi successivi
+
+- [Aumentare le dimensioni dell'azienda con le segnalazioni Microsoft](referrals.md)
+- [Analizzare i lead](analyze-your-marketing-profile.md)

@@ -4,48 +4,46 @@ ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: I partner MPN possono apprendere i due livelli di account nel centro per i partner, l'account globale del partner (PGA) e l'account del partner location (PLA).
+description: I partner MPN possono ottenere informazioni sui due livelli di account in Partner Center, l'account globale del partner (PGA) e l'account della posizione partner (PLA).
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: a32dba704482dad34b689b21da9e41de74a6e051
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768670"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284163"
 ---
-# <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Il centro per i partner ha due livelli di account per partner MPN
-
+# <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center ha due livelli di account per i partner MPN
 
 **Ruoli appropriati**
 
 - Amministratore degli account
-- Amministratore del profilo di business
+- Amministratore globale
 
+L'azienda ha due livelli di account in Partner Center.
 
-L'azienda dispone di due livelli di account nel centro per i partner.
+## <a name="the-top-level-account-is-the-partner-global-account-pga"></a>L'account di primo livello è l'account globale partner (PGA)
 
-## <a name="the-top-level-is-the-partner-global-account-pga"></a>Il primo livello è l'account globale del partner (PGA).
-
-- L'account globale del partner contiene l'indirizzo aziendale legale e il contatto principale per l'azienda. 
-- Visualizzare i dettagli dell'account globale del partner da **Impostazioni**  ->  **profilo organizzazione**, **profilo legale**.
+- L'account globale partner contiene l'indirizzo aziendale legale e il contatto principale dell'azienda. 
+- Visualizzare i dettagli dell'account globale partner **in** Impostazioni  >  **Profilo organizzazione**  >  **Profilo legale.**
 - I dettagli conterranno anche l'ID MPN dell'account globale del partner. 
-- PGA è l'elemento padre dell'azienda e non viene usato per l'associazione a programmi incentive o Cloud Solution Provider. 
-- Le località devono essere usate per tali associazioni.
+- Il PGA è il padre dell'azienda e non viene usato per associare programmi di incentivi o Cloud Solution Provider. 
+- Le posizioni devono essere usate per tali associazioni.
 
-## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>L'account di secondo livello è l'account location denominato partner location account (PLA).
+## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>L'account di secondo livello è l'account di posizione denominato Partner Location Account (PLA)
 
-Il PGA potrebbe avere posizioni aziendali aggiuntive. Ogni località ha un ID MPN o un account del percorso partner (PLA). Si usa il percorso MPN ID per l'attività transazionale e la registrazione in programmi incentive.
+L'infrastruttura PGA potrebbe includere posizioni aziendali aggiuntive. Ogni località ha il proprio ID MPN o account della posizione partner( PLA). Usare l'ID MPN della posizione per l'azienda transazionale e la registrazione nei programmi di incentivi.
 
-- Ogni account del percorso partner può avere un proprio indirizzo legale e un contatto principale. Le località possono inoltre condividere l'indirizzo legale con l'account globale o con altre località.
-- Visualizzare l'elenco degli account del percorso partner dalle posizioni **delle impostazioni**  ->  .
-- Tutti gli account del percorso si trovano allo stesso livello e nell'account globale del partner.
-- Gli amministratori dell'account possono aggiungere percorsi.
+- Ogni account della posizione partner può avere il proprio indirizzo legale e il contatto principale. Le località possono anche condividere l'indirizzo legale con l'account globale o con altre posizioni.
+- Visualizzare l'elenco degli account delle località dei partner da **Impostazioni**  ->  **Località**.
+- Tutti gli account di posizione sono allo stesso livello e nell'account globale del partner.
+- Gli amministratori dell'account possono aggiungere posizioni.
 
 :::image type="content" source="images/accountstructure.png" alt-text="Struttura dell'account" border="false":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Per ulteriori informazioni sulla gestione dei percorsi, vedere [Manage your partner account: locations](manage-locations.md).
+- Per altre informazioni sulla gestione delle località, vedere [Gestire l'account partner: Località.](manage-locations.md)

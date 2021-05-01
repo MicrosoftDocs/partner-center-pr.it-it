@@ -4,24 +4,27 @@ ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri in che modo Microsoft prevede che le comunicazioni dei clienti vengano eseguite tra clienti e partner nel programma Cloud Solution Provider.
+description: Informazioni su come Microsoft si aspetta che si verifichino comunicazioni tra clienti e partner nel Cloud Solution Provider programma.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 7b4e244a090b401afe2b0c86a532f5ecc6b5a154
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6de0d50364930999a7d0f335016a7c5a1864d8ab
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545832"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284350"
 ---
-# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Linee guida per la comunicazione dei clienti con Microsoft
+# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Linee guida per la corretta comunicazione dei clienti con Microsoft
 
 **Si applica a**
 
--  Centro per i partner
--  Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner per Microsoft Cloud for US Government
+
+**Ruoli appropriati**
+
+- Agente di supporto tecnico
 
 In generale, il partner Cloud Solution Provider deve occuparsi di tutte le comunicazioni con il cliente. Poiché sei tu il responsabile del rapporto di fatturazione con il cliente, Microsoft non invierà comunicazioni direttamente ai tuoi clienti relative alle sottoscrizioni.
 
@@ -31,4 +34,4 @@ Per i clienti che dispongono già di relazioni commerciali esistenti con Microso
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Supporto tecnico autonomo tramite Microsoft Office interfaccia di amministrazione di 365 o tramite il portale di Azure](customer-self-support.md)
+- [Supporto self-service dei clienti Microsoft Office'interfaccia di amministrazione di 365 o tramite l'interfaccia di portale di Azure](customer-self-support.md)

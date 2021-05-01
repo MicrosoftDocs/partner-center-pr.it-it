@@ -4,99 +4,97 @@ ms.topic: how-to
 ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sincronizzare i riferimenti nel centro per i partner con Salesforce CRM. I venditori possono quindi co-vendere con Microsoft dall'interno dei sistemi CRM.
+description: Sincronizzare le segnalazioni Partner Center con Salesforce CRM. I venditori possono quindi eseguire il co-selling con Microsoft dall'interno dei sistemi CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
-ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
+ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "97960952"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284384"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connettore di co-selling per CRM Salesforce - Panoramica
 
-### <a name="appropriate-roles"></a>Ruoli appropriati
+**Ruoli appropriati**
 
 - Amministratore delle segnalazioni
-- Amministratore di sistema o verbi di sistema in CRM
+- Amministratore di sistema o a personalizzatore di sistema in CRM
 
-Il connettore di co-selling del centro partner consente ai venditori di co-selling con Microsoft all'interno dei sistemi CRM. Non dovranno essere sottoposti a training per usare il centro per i partner per gestire le offerte di co-selling. Utilizzando i connettori di co-selling, è possibile creare un nuovo riferimento di co-selling per coinvolgere un venditore Microsoft, ricevere riferimenti da Microsoft seller, accettare o rifiutare i riferimenti, modificare i dati dell'affare, ad esempio il valore dell'offerta e la data di chiusura.  È anche possibile ricevere eventuali aggiornamenti dai venditori Microsoft per le offerte di co-selling. È possibile eseguire tutte le attività di riferimento quando si lavora all'interno del CRM scelto piuttosto che nel centro per i partner. 
+Partner Center connettore di co-selling consente ai venditori di co-selling con Microsoft dall'interno dei sistemi CRM. Non sarà necessario eseguire il training per usare i Partner Center per gestire le trattative di co-selling. Usando i connettori di co-selling, puoi creare una nuova segnalazione di co-selling per coinvolgere un venditore Microsoft, ricevere segnalazioni dal venditore Microsoft, accettare/rifiutare le segnalazioni, modificare i dati delle trattative, ad esempio il valore della trattativa e la data di chiusura.  È anche possibile ricevere eventuali aggiornamenti dai venditori Microsoft su queste trattative di co-selling. È possibile eseguire tutte le segnalazioni mentre si lavora all'interno del sistema CRM preferito anziché in Partner Center. 
 
-La soluzione è basata sulla soluzione Microsoft Power automatizzate e usa le API del centro per i partner.
+La soluzione è basata su Microsoft Power Automate e usa Partner Center API.
 
-## <a name="before-you-install---pre-requisites"></a>Prima di installare-prerequisiti
+## <a name="before-you-install---pre-requisites"></a>Prima di installare : prerequisiti
 
 |**Argomenti**   |**Dettagli**   |**Collegamenti**   |
 |--------------|--------------------|------|
-|ID Microsoft Partner Network |È necessario un ID MPN valido|Per aggiungere [MPN](https://partner.microsoft.com/)|
-|Co-selling pronto|La soluzione IP/servizi deve essere pronta per il co-selling.|[Vendi con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
-|Account del Centro per i partner|L'ID MPN associato al tenant del centro per i partner deve corrispondere all'ID MPN associato alla soluzione di co-selling. Prima di distribuire i connettori, verificare che sia possibile visualizzare i riferimenti di co-selling nel portale del centro per i partner.|[Gestire l'account](create-user-accounts-and-set-permissions.md)|
-|Ruoli utente del Centro per i partner|Il dipendente che installerà e userà i connettori deve essere un amministratore dei riferimenti|[Assegnare autorizzazioni e ruoli utente](create-user-accounts-and-set-permissions.md)|
-|CRM Salesforce|Il ruolo utente CRM è amministratore sistema o sistema verbi|[Assegnare ruoli in Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
-|Power automatizzare l'account di flusso|Un account di [Power automatici](https://flow.microsoft.com) attivo per l'amministratore del sistema CRM o verbi di sistema. L'utente deve accedere a [Power Automate](https://flow.microsoft.com) almeno una volta prima dell'installazione.|
+|Microsoft Partner Network ID |È necessario un ID MPN valido|Per partecipare [a MPN](https://partner.microsoft.com/)|
+|Pronto per il co-selling|La soluzione IP/Servizi deve essere pronta per il co-selling.|[Vendere con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Account del Centro per i partner|L'ID MPN associato al tenant Partner Center deve corrispondere all'ID MPN associato alla soluzione di co-selling. Verificare che sia possibile visualizzare le segnalazioni di co-selling Partner Center portale prima di distribuire i connettori.|[Gestire l'account](create-user-accounts-and-set-permissions.md)|
+|Ruoli utente del Centro per i partner|Il dipendente che installerà e userà i connettori deve essere un amministratore delle segnalazioni|[Assegnare autorizzazioni e ruoli utente](create-user-accounts-and-set-permissions.md)|
+|Salesforce CRM|Il ruolo utente di CRM è Amministratore di sistema o A personalizzatore sistema|[Assegnare ruoli in Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
+|Power Automate Flow Account|Un account [Power Automate](https://flow.microsoft.com) account per l'amministratore di sistema CRM o l'asonalizzazione del sistema. Tale utente deve accedere [a](https://flow.microsoft.com) Power Automate almeno una volta prima dell'installazione.|
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Installazione del pacchetto Salesforce per i campi personalizzati Microsoft 
 
-Per sincronizzare i riferimenti tra il centro per i partner e Salesforce CRM, la soluzione Power automatizzate deve identificare chiaramente i campi di riferimento specifici di Microsoft. Questa delimitazione offre ai team dei venditori partner la possibilità di decidere quali riferimenti desidera condividere con Microsoft per la co-selling.
+Per sincronizzare le segnalazioni tra Partner Center e Salesforce CRM, la soluzione Power Automate deve identificare chiaramente i campi di riferimento specifici di Microsoft. Questa delimitazione offre ai team venditori partner la possibilità di decidere quali segnalazioni condividere con Microsoft per la co-selling.
 
-1. In Salesforce attivare le **Note** e aggiungerle all'elenco relativo alle opportunità. 
+1. In Salesforce attivare **Notes e** aggiungerlo all'elenco correlato alle opportunità. 
 [Riferimento](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
-2. Attivare i **Team opportunity** attenendosi alla procedura seguente: 
-    - Nel programma di installazione utilizzare la casella **ricerca rapida** per individuare le impostazioni del team di opportunità.
+2. Attivare **i team dell'opportunità** seguendo questa procedura: 
+    - Nel programma di installazione usare la **casella Ricerca rapida** per individuare Le impostazioni del team opportunità.
     - Definire le impostazioni in base alle esigenze.
 [Riferimento](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
-3. In Salesforce installare i campi e gli oggetti personalizzati usando il programma di installazione del pacchetto riportato di seguito.
-  
-Per installare il pacchetto in qualsiasi azienda, fare clic [qui](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) .
+3. In Salesforce installare campi e oggetti personalizzati usando il programma [di installazione del pacchetto](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). Usare questa opzione per installare il pacchetto in qualsiasi azienda.
 
+>[!NOTE]
+>Se si installa in una sandbox, è necessario sostituire la parte iniziale dell'URL con http://test.salesforce.com
 
-Nota: se si esegue l'installazione in un ambiente sandbox, è necessario sostituire la parte iniziale dell'URL con http://test.salesforce.com
+4. In Salesforce aggiungere Soluzioni Microsoft **all'elenco correlato** Opportunità. Dopo l'aggiunta, selezionare **l'icona della chiave inglese** e aggiornare le proprietà
 
-4. In Salesforce aggiungere soluzioni Microsoft all'elenco relativo alle **opportunità** . Una volta aggiunto, fare clic sull'icona della **chiave** e aggiornare le proprietà
+## <a name="best-practice-test-before-you-go-live"></a>Procedura consigliata: eseguire il test prima di iniziare a eseguire il test
 
-## <a name="best-practice-test-before-you-go-live"></a>Procedura consigliata: testare prima di iniziare
+Prima di installare, configurare e personalizzare la soluzione Power Automate nell'ambiente di produzione, assicurarsi di testare la soluzione in un'istanza crm di staging.
 
-Prima di installare, configurare e personalizzare la soluzione Power automatizzate nell'ambiente di produzione, assicurarsi di testare la soluzione in un'istanza di CRM di staging.
+- Installare la soluzione Microsoft Power Automate in un ambiente di gestione temporanea o in un'istanza di CRM.
 
-- Installare la soluzione Microsoft Power automatizzate in un ambiente di gestione temporanea o in un'istanza di CRM.
-
-- Creare una copia della soluzione ed eseguire la configurazione e Power automatizzare le personalizzazioni dei flussi nell'ambiente di gestione temporanea.
+- Creare una copia della soluzione ed eseguire la configurazione e Power Automate del flusso nell'ambiente di gestione temporanea.
 
 - Testare la soluzione in un'istanza di staging/CRM.
 
 - In caso di esito positivo, importare come soluzione gestita nell'istanza di produzione.
 
-## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Installare la sincronizzazione dei riferimenti del centro per i partner per Salesforce CRM
+## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Installare Partner Center delle segnalazioni per Salesforce CRM
 
-1. Passare a [Power automatici](https://flow.microsoft.com) e selezionare **ambienti** nell'angolo superiore destro. Vengono visualizzate le istanze di CRM disponibili.
+1. Passare a [Power Automate](https://flow.microsoft.com) e selezionare **Ambienti nell'angolo** superiore destro. Verranno mostrate le istanze crm disponibili.
 
-2. Selezionare l'istanza di CRM appropriata dall'elenco a discesa nell'angolo in alto a destra.
+2. Selezionare l'istanza di CRM appropriata nell'elenco a discesa nell'angolo superiore destro.
 
-3. Selezionare **soluzioni** sulla barra di spostamento a sinistra.
+3. Selezionare **Soluzioni** sulla barra di spostamento a sinistra.
 
-4. Fare clic sul collegamento **Apri AppSource** nel menu in alto.
+4. Selezionare il **collegamento Apri AppSource** nel menu in alto.
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Apri AppSource":::
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Aprire AppSource":::
 
-5. Cercare **connettori per i riferimenti del centro per i partner per Salesforce** nella schermata popup.  
+5. Cercare Partner Center **Referrals Connectors for Salesforce** nella schermata popup.  
 
    :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. Fai clic sul pulsante **Get it Now (Ottieni ora** ) e **continua**.
+6. Selezionare il **pulsante Scarica adesso** e quindi **Continua.**
 
-7. Verrà visualizzata la pagina in cui è possibile selezionare l'ambiente Salesforce CRM per installare l'applicazione.  Accettare i termini e le condizioni.
+7. Verrà visualizzata la pagina in cui è possibile selezionare l'ambiente Salesforce CRM per installare l'applicazione.  Accettare termini e condizioni.
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="DISPONGONO disponibili":::
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="CRMS disponibili":::
 
-8. Si viene quindi reindirizzati alla pagina **Gestisci soluzioni** .  Passare a "centro per i partner" usando i pulsanti freccia nella parte inferiore della pagina. L' **installazione pianificata** verrà visualizzata accanto alla soluzione di riferimento del centro per i partner. L'installazione può richiedere 10-15 minuti.
+8. Si verrà quindi indirizzati alla **pagina Gestisci le** soluzioni.  Passare a "Partner Center segnalazioni" usando i pulsanti freccia nella parte inferiore della pagina. **L'installazione** pianificata dovrebbe essere visualizzata Partner Center soluzione Segnalazioni. L'installazione può richiedere 10-15 minuti.
 
-9. Al termine dell'installazione, tornare a [Power automatizzate](https://flow.microsoft.com) e selezionare **soluzioni** dall'area di spostamento a sinistra. Si noti che la **sincronizzazione dei riferimenti del centro per i partner per Salesforce** è disponibile nell'elenco soluzioni.
+9. Al termine dell'installazione, tornare a Power Automate [e](https://flow.microsoft.com) selezionare **Soluzioni nell'area** di spostamento a sinistra. Si noti **Partner Center sincronizzazione delle segnalazioni per Salesforce** è disponibile nell'elenco Soluzioni.
 
-10. Selezionare **la sincronizzazione dei riferimenti del centro per i partner per Salesforce**. Sono disponibili i flussi e le entità seguenti per l'automazione dell'energia elettrica:
+10. Selezionare **Partner Center Sincronizzazione delle segnalazioni per Salesforce**. Sono disponibili Power Automate seguenti flussi ed entità:
 
     :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Flussi di Salesforce":::
 
@@ -104,201 +102,201 @@ Prima di installare, configurare e personalizzare la soluzione Power automatizza
 
 ## <a name="configure-the-solution"></a>Configurare la soluzione
 
-1. Dopo aver installato la soluzione nell'istanza di CRM, tornare a [Power automatizzate](https://flow.microsoft.com/).
+1. Dopo aver installato la soluzione nell'istanza di CRM, tornare a [Power Automate](https://flow.microsoft.com/).
 
-2. Dall'elenco a discesa **ambienti** nell'angolo superiore destro selezionare l'istanza di CRM in cui è stata installata la soluzione Power automatizzate.
+2. **Nell'elenco a** discesa Ambienti nell'angolo in alto a destra selezionare l'istanza di CRM in cui è stata installata Power Automate soluzione.
 3. Sarà necessario creare connessioni che associano i tre account utente:
-    - Utente del centro per i partner con credenziali di amministratore per i riferimenti
+    - Partner Center utente con credenziali di amministratore delle segnalazioni
     - Eventi del Centro per i partner
-    - L'amministratore di CRM con la funzionalità Power automatizza i flussi nella soluzione.
-4. Selezionare **Connections (connessioni** ) dalla barra di spostamento a sinistra e selezionare la soluzione "Partner Center referrals" dall'elenco.
+    - Amministratore di CRM con Power Automate flussi nella soluzione.
+4. Selezionare **Connessioni** dalla barra di spostamento a sinistra e selezionare la soluzione "Partner Center referral" dall'elenco.
 
-5. Creare una connessione facendo clic su **Crea una connessione**.
+5. Creare una connessione facendo clic **su Crea una connessione**.
 
 :::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Creare la connessione":::
 
-- Cercare i riferimenti per il centro per i partner (anteprima) nella barra di ricerca nell'angolo superiore destro.
+- Cercare Partner Center segnalazioni (anteprima) nella barra di ricerca nell'angolo superiore destro.
 
-- Creare una connessione per l'utente del centro per i partner con il ruolo delle credenziali di amministratore dei riferimenti.
+- Creare una connessione per l'Partner Center utente con il ruolo credenziali dell'amministratore di Referrals.
 
--  Successivamente, creare una connessione per gli eventi del centro partner per l'utente del centro per i partner con le credenziali di amministratore dei riferimenti.
+-  Creare quindi una connessione Partner Center Eventi per l'utente Partner Center con le credenziali dell'amministratore di Referrals.
 
-- Creare una connessione per Salesforce per l'utente amministratore CRM.
+- Creare una connessione per Salesforce per l'utente amministratore di CRM.
 
--  Una volta aggiunte tutte le connessioni, nell'ambiente verranno visualizzate le connessioni seguenti:
+-  Dopo aver aggiunto tutte le connessioni, nell'ambiente dovrebbero essere presenti le connessioni seguenti:
 
  :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Osservare le connessioni":::
 
 ### <a name="edit-the-connections"></a>Modificare le connessioni
 
-1. Tornare alla pagina soluzioni e selezionare **soluzione predefinita**.  Selezionare **riferimento alla connessione (anteprima)** facendo clic su **tutto**.
+1. Tornare alla pagina Soluzioni e selezionare **Soluzione predefinita**.  Selezionare **Riferimento alla connessione (anteprima)** facendo clic su **Tutti**.
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Inizio modifica connettore":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Iniziare la modifica del connettore":::
 
-2. Modificare ognuna delle connessioni una alla volta selezionando l'icona a tre punti. Aggiungere le connessioni pertinenti.
+2. Modificare ognuna delle connessioni singolarmente selezionando l'icona con i tre puntini. Aggiungere le connessioni pertinenti.
 
 :::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Modificare i connettori":::
 
 3. Attivare i flussi nella sequenza seguente:
 
-- Registrazione webhook del centro per i partner (anteprima Insider)
-- Creare un riferimento di co-selling-Salesforce al centro per i partner (anteprima Insider)
-- Partner Center Microsoft co-selling degli aggiornamenti di riferimento a Salesforce (insider Preview)
-- Da partner Center a Salesforce (insider Preview)
-- Da Salesforce al centro per i partner (anteprima di Insider)
-- Opportunità di Salesforce per il centro per i partner (anteprima Insider)
-- Salesforce Microsoft Solutions to partner Center (insider Preview)
+- Partner Center Webhook Registration (Insider Preview)
+- Creare segnalazioni di co-selling - Salesforce per Partner Center (Insider Preview)
+- Partner Center aggiornamenti delle segnalazioni di co-selling Microsoft a Salesforce (Insider Preview)
+- Partner Center a Salesforce (Insider Preview)
+- Da Salesforce a Partner Center (Insider Preview)
+- Salesforce Opportunity to Partner Center (Insider Preview)
+- Salesforce Microsoft Solutions to Partner Center (Insider Preview)
 
-## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Usare le API webhook per registrare gli eventi di modifica delle risorse
+## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Usare le API webhook per la registrazione per gli eventi di modifica delle risorse
 
-Le API webhook del centro per i partner consentono di effettuare la registrazione per gli eventi di modifica delle risorse. Questi eventi di modifica vengono inviati all'URL come post HTTP.
+Le PARTNER CENTER webhook consentono di registrarsi per gli eventi di modifica delle risorse. Questi eventi di modifica vengono inviati all'URL come post HTTP.
 
-1. Per registrare l'URL, selezionare il flusso di registrazione del webhook per il centro per i **partner (anteprima di insider Preview)** .
+1. Per registrare l'URL, **Partner Center registrazione webhook (Insider Preview)** Power Automate flusso.
 
-2. Aggiungere le connessioni per l'utente del centro per i partner (a.) con le credenziali di amministratore di riferimento (b.) eventi del centro per i partner come indicato di seguito
+2. Aggiungere connessioni per (a.) Partner Center utente con credenziali di amministratore delle segnalazioni (b.) Partner Center eventi, come evidenziato di seguito
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Trigger":::
 
-3. Quando si effettuano questi aggiornamenti, viene visualizzato
+3. Quando si apportano questi aggiornamenti, viene visualizzato
 
    :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
 
-4. Salvare le modifiche e selezionare **attiva**.
+4. Salvare le modifiche e selezionare **Attiva.**
 
-   Per consentire ai webhook del centro per i partner di restare in ascolto delle modifiche agli eventi, seguire questa procedura:
+   Per abilitare Partner Center webhook per l'ascolto delle modifiche degli eventi, seguire questa procedura:
 
-5. Selezionare **centro per i partner per Salesforce CRM (insider Preview)**.
+5. Selezionare **Partner Center a Salesforce CRM (Insider Preview)**.
 
-6. Selezionare l'icona di **modifica** e selezionare **quando viene ricevuta una richiesta http**.
+6. Selezionare **l'icona** Modifica e selezionare **Quando viene ricevuta una richiesta HTTP.**
 
-7. Selezionare l'icona **copia** per copiare l'URL post HTTP specificato.
+7. Selezionare **l'icona** Copia per copiare l'URL HTTP POST specificato.
 
    :::image type="content" source="images/salesforce/copy-url.png" alt-text="Copia l'URL":::
 
-8. Selezionare ora "registrazione del webhook del centro per i partner (anteprima di Insider)" Power automatizzare il flusso e selezionare **Esegui**.
+8. Selezionare ora il flusso di Partner Center webhook (Insider Preview) Power Automate e selezionare **Esegui**.
 
-9. Assicurarsi che la finestra "Esegui flusso" si apra nel riquadro di destra e fare clic su **continua**.
+9. Assicurarsi che la finestra "Esegui flusso" si apra nel riquadro di destra e selezionare **Continua.**
 
-10. Immettere le informazioni seguenti:
+10. Immettere i dettagli seguenti:
 
-    1. **Endpoint trigger http**: URL copiato dal passaggio precedente
+    1. **Endpoint trigger HTTP:** URL copiato dal passaggio precedente
 
-    2. **Eventi da registrare**: "riferimento-creato" e "riferimento-aggiornato"
+    2. **Eventi da registrare:**"referral-created" e "referral-updated"
 
-    3. Sovrascrivi gli **endpoint del trigger esistenti se presenti**: Sì (sovrascrive gli endpoint esistenti).
+    3. **Sovrascrivi gli endpoint del trigger esistenti se presenti:** Sì (in questo modo vengono sovrascritti tutti gli endpoint esistenti).
 
-11. Selezionare **Esegui** , quindi fare clic su **fine.**
+11. Selezionare **Esegui** e quindi Fare **clic su Fine.**
 
-Il webhook ora può restare in ascolto per creare e aggiornare gli eventi.
+Il webhook può ora restare in ascolto degli eventi di creazione e aggiornamento.
 
 ## <a name="customize-synchronization-steps"></a>Personalizzare i passaggi di sincronizzazione
 
-Quando i riferimenti di co-selling sono sincronizzati tra il centro per i partner e il sistema CRM, i campi sincronizzati nel PC del centro per i partner sono elencati qui.
+Quando le segnalazioni di co-selling vengono sincronizzate tra Partner Center e il sistema CRM, i campi sincronizzati Partner Center PC sono elencati qui.
 
-Spesso i sistemi CRM sono altamente personalizzati. È possibile personalizzare i flussi di automazione dell'alimentazione. Seguire la guida al mapping dei campi e, se necessario, apportare le modifiche appropriate nei passaggi dei flussi di automazione dell'alimentazione.  Sono disponibili i centri partner Microsoft per i mapping CRM, ma in base all'ambiente CRM, è possibile scegliere di personalizzare ulteriormente i campi.
+Spesso i sistemi CRM sono altamente personalizzati. È possibile personalizzare i Power Automate flusso. Seguire la guida al mapping dei campi e, se necessario, apportare le modifiche appropriate nei passaggi dei Power Automate flusso.  Vengono forniti mapping da Microsoft Partner Center a CRM, ma in base all'ambiente CRM è possibile scegliere di personalizzare ulteriormente i campi.
 
-È possibile personalizzare più passaggi di ognuno dei flussi di Power automatizzati in base alle esigenze. Di seguito sono riportati alcuni esempi di personalizzazioni disponibili:
+È possibile personalizzare più passaggi di Power Automate flusso di lavoro in base alle esigenze. Di seguito sono riportati esempi di personalizzazioni disponibili:
 
-1. Per personalizzare i campi per gli eventi di creazione o aggiornamento nel centro per i partner per la sincronizzazione dei riferimenti CRM:
+1. Per personalizzare i campi per gli eventi di creazione o aggiornamento nel Partner Center alla sincronizzazione delle segnalazioni di CRM:
 
-   1. Selezionare Centro per i partner per Salesforce CRM (insider Preview).
+   1. Selezionare Partner Center a Salesforce CRM (Insider Preview).
 
-   2. Selezionare **modifica** per modificare/personalizzare il flusso di automazione dell'alimentazione.
+   2. Selezionare **Modifica** per modificare/personalizzare il Power Automate flusso.
 
-   3. Selezionare **(ambito) sincronizzare il lead o l'opportunità**.
+   3. Selezionare **(Ambito) Sincronizzare il lead o l'opportunità.**
 
-2. Per personalizzare i mapping dei campi CRM per creare eventi, selezionare **se è nuova opportunità condivisa, quindi**. Selezionare il sottopassaggio **se sì** , quindi espandere **creazione di una nuova opportunità in CRM**. È possibile modificare i mapping in questa sezione usando la guida al mapping dei campi.
+2. Per personalizzare i mapping dei campi CRM per gli eventi di creazione, selezionare Se si tratta di **una nuova opportunità condivisa, quindi**. Selezionare il passaggio secondario **in caso affermativa** e quindi espandere **Creazione di una nuova opportunità in CRM.** È possibile modificare i mapping in questa sezione usando la Guida al mapping dei campi.
 
-   1. Per personalizzare i mapping dei campi CRM per gli eventi di aggiornamento, fare clic sul passaggio "(ambito) sincronizzare il lead o l'opportunità".
+   1. Per personalizzare i mapping dei campi CRM per gli eventi di aggiornamento, selezionare il passaggio "(Ambito) Sincronizzare il lead o l'opportunità".
 
-   2. Selezionare **se è un aggiornamento a un'opportunità, quindi**. Selezionare il sottopassaggio **se sì** , quindi espandere **if difference between the opportunity Objects in Partner Center and CRM, quindi**.  
+   2. Selezionare **Se si tratta di un aggiornamento di un'opportunità, quindi**. Selezionare il sotto step **in caso affermativa** e quindi espandere **If difference between the opportunity objects in Partner Center and CRM (Differenza** tra gli oggetti opportunità in Partner Center CRM), quindi .  
 
-   3. Selezionare **se sì** seguito da **Aggiorna opportunità esistente**
+   3. Selezionare **Se sì seguito** da Aggiorna opportunità **esistente**
 
-3. Per personalizzare i campi per la sincronizzazione dei riferimenti da CRM a PC per gli eventi di aggiornamento:
+3. Per personalizzare i campi per la sincronizzazione delle segnalazioni da CRM a PC per gli eventi di aggiornamento:
 
-   1. Selezionare **modifica**  per modificare/personalizzare il flusso di automazione dell'alimentazione.
+   1. Selezionare **Modifica**  per modificare/personalizzare il Power Automate flusso.
 
-   2. Selezionare **(ambito) sincronizzare l'opportunità**.
+   2. Selezionare **(Ambito) Synchronize the opportunity (Sincronizza l'opportunità).**
 
-   3. Per personalizzare i mapping dei campi CRM (in base alla guida per i mapping dei campi) per gli eventi di aggiornamento, selezionare **se esiste una differenza tra gli oggetti lead nel centro per i partner e CRM, quindi**.
+   3. Per personalizzare i mapping dei campi CRM (in base alla guida ai mapping dei campi) per gli eventi di aggiornamento, selezionare Se c'è differenza tra gli oggetti lead **in Partner Center e CRM, quindi**.
 
-   4. Selezionare il sottopassaggio **se sì** , quindi espandere il passaggio **aggiornare un riferimento con i dati di opportunità**.
+   4. Selezionare il passaggio secondario **in caso affermativa** e quindi espandere il passaggio **Aggiornare una segnalazione con i dati dell'opportunità.**
 
-   È possibile modificare i mapping in questa sezione in base alla guida al mapping dei campi.
+   È possibile modificare i mapping in questa sezione in base alla Guida al mapping dei campi.
 
-4. Per personalizzare i campi per la sincronizzazione dei riferimenti da CRM a PC per la creazione di eventi?
+4. Per personalizzare i campi per la sincronizzazione delle segnalazioni da CRM a PC per la creazione di eventi?
 
-   1. Selezionare **modifica**  per modificare/personalizzare il flusso di automazione dell'alimentazione.
+   1. Selezionare **Modifica**  per modificare/personalizzare il Power Automate flusso.
 
-   2. Selezionare **(ambito) sincronizzare i riferimenti.**
+   2. Selezionare **(Ambito) Synchronizing Referrals (Sincronizzazione delle segnalazioni).**
 
-   3. Per personalizzare i mapping dei campi CRM (in base alla guida ai mapping dei campi) per la creazione di eventi, selezionare **Crea riferimento Microsoft**.
+   3. Per personalizzare i mapping dei campi CRM (in base alla guida ai mapping dei campi) per la creazione di eventi, **selezionare Create Microsoft Referral (Crea segnalazione Microsoft).**
 
-È possibile modificare i mapping in questa sezione in base alla guida al mapping dei campi.
+È possibile modificare i mapping in questa sezione in base alla Guida al mapping dei campi.
 
 
-## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Sincronizzazione del riferimento bidirezionale end-to-end
+## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Sincronizzazione delle segnalazioni di co-selling bidirezionale end-to-end
 
-Dopo aver installato, configurato e personalizzato la soluzione Power automatizzate, è possibile testare la sincronizzazione dei riferimenti di co-selling tra Salesforce CRM e il centro per i partner.
+Dopo aver installato, configurato e personalizzato la soluzione Power Automate, è possibile testare la sincronizzazione delle segnalazioni di co-selling tra Salesforce CRM e Partner Center.
 
 ### <a name="pre-requisites"></a>Prerequisiti
 
-Per sincronizzare i riferimenti tra il centro per i partner e Salesforce CRM, la soluzione Power automatizzate deve demarcare chiaramente i campi di riferimento specifici di Microsoft. Questa identificazione consente ai team dei venditori di decidere quali riferimenti desiderano condividere con Microsoft per la co-selling.
+Per sincronizzare le segnalazioni tra Partner Center e Salesforce CRM, la soluzione Power Automate deve delimitare chiaramente i campi di riferimento specifici di Microsoft. Questa identificazione offre ai team venditori la possibilità di decidere quali segnalazioni condividere con Microsoft per la co-selling.
 
-Un set di campi personalizzati è disponibile come parte della sincronizzazione dei riferimenti del centro per i partner per l'entità di **opportunità** della soluzione Salesforce CRM. Un utente amministratore CRM dovrà creare una sezione CRM separata con i campi personalizzati **opportunity** .
+Un set di campi personalizzati è disponibile come parte dell'entità opportunità Partner Center di sincronizzazione delle **segnalazioni** per la soluzione Salesforce CRM. Un utente amministratore di CRM dovrà creare una sezione CRM separata con i **campi** personalizzati Opportunità.
 
 I campi personalizzati seguenti devono far parte della sezione CRM:
 
-- **Sincronizzare con il centro** per i partner: se sincronizzare l'opportunità con il centro per i partner Microsoft
+- **Sincronizza con Partner Center**: indica se sincronizzare l'opportunità con Microsoft Partner Center
 
-- **Identificatore del riferimento**: campo dell'identificatore di sola lettura per il riferimento al centro per i partner Microsoft
+- **Identificatore di riferimento:** campo dell'identificatore di sola lettura per la segnalazione Partner Center Microsoft
 
-- **Collegamento di riferimento**: un collegamento di sola lettura al riferimento nel centro per i partner Microsoft
+- **Collegamento alla segnalazione:** collegamento di sola lettura alla segnalazione in Microsoft Partner Center
 
-- **Come è possibile eseguire la Guida Microsoft** per informazioni su come richiedere Microsoft per il riferimento
+- **Come può essere utile Microsoft:** Guida necessaria a Microsoft per la segnalazione
 
-- **Prodotti**: elenco dei prodotti associati a questa opportunità
+- **Products**: elenco di prodotti associati a questa opportunità
 
-- **Audit**: audit trail di sola lettura per la sincronizzazione con i riferimenti del centro per i partner
+- **Audit:** un'istanza di sola audit trail per la sincronizzazione con Partner Center segnalazioni
 
-### <a name="scenarios"></a>SCENARI
+### <a name="scenarios"></a>Scenari:
 
-1. Sincronizzazione del riferimento quando il riferimento viene creato o aggiornato in CRM e sincronizzato nel centro per i partner:
+1. Sincronizzazione delle segnalazioni quando la segnalazione viene creata o aggiornata in CRM e sincronizzata in Partner Center:
 
-   1. Accedere all'ambiente Salesforce CRM con l'utente che ha visibilità nella sezione **opportunità** del CRM.
+   1. Accedere all'ambiente Salesforce CRM con l'utente che ha visibilità nella **sezione Opportunità** di CRM.
 
-   2. Assicurarsi che la sezione seguente sia presente quando si crea una "nuova opportunità" nell'ambiente Salesforce CRM
+   2. Assicurarsi che la sezione seguente sia presente quando si crea una "Nuova opportunità" nell'ambiente Salesforce CRM
 
       :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Ambiente Salesforce":::
 
    3. Per sincronizzare questa opportunità con Microsoft Partner Center, assicurarsi di impostare i campi seguenti nella visualizzazione scheda:
 
-       - "Sincronizza con il centro per i partner": Sì
-       - "Come può essere utile Microsoft?": selezionare una delle opzioni seguenti:
+       - "Sincronizza con Partner Center": Sì
+       - "How can Microsoft help?": selezionare una delle opzioni seguenti:
        - Prodotti: ID soluzione del prodotto
 
-   4. Dopo aver impostato l'opzione opportunity  **Sync with partner Center** su **Sì**, attendere 10 minuti, accedere all'account del centro per i partner. I riferimenti verranno sincronizzati con Salesforce CRM.
+   4. Dopo aver impostato l'opzione **Sincronizza con Partner Center** su Sì , attendere 10 minuti, accedere all'account Partner Center servizio.  Le segnalazioni verranno sincronizzate con Salesforce CRM.
 
-   5. Quando l'opzione "Sincronizza con il centro per i partner" è impostata su "Sì", se si aggiorna l'opportunità in Salesforce CRM, le modifiche verranno sincronizzate con l'account del centro per i partner.
+   5. Quando l'opzione "Sincronizza con Partner Center" è impostata su "Sì", se si aggiorna l'opportunità in Salesforce CRM, le modifiche verranno sincronizzate con l'account Partner Center personale.
 
-   6. Le opportunità che vengono sincronizzate correttamente con partner Center verranno identificate con ✔ icona in Salesforce CRM.
+   6. Le opportunità sincronizzate correttamente con Partner Center verranno identificate con ✔icon in Salesforce CRM.
 
-2. Sincronizzazione del riferimento quando il riferimento viene creato o aggiornato nel centro per i partner Microsoft e sincronizzato nell'ambiente Salesforce CRM:
+2. Sincronizzazione dei riferimenti quando la segnalazione viene creata o aggiornata in Microsoft Partner Center sincronizzata nell'ambiente Salesforce CRM:
 
-    1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard/home)del centro per i partner.
+    1. Accedere al [dashboard Partner Center.](https://partner.microsoft.com/dashboard/home)
 
-    2. Selezionare **riferimenti** dal menu a sinistra.
+    2. Selezionare **Segnalazioni** dal menu a sinistra.
 
-    3. Per creare un nuovo riferimento di co-selling dal centro per i partner, fare clic sull'opzione "nuovo affare".
+    3. Creare una nuova segnalazione di co-selling Partner Center facendo clic sull'opzione "Nuova trattativa".
 
     4. Accedere all'ambiente Salesforce CRM.
 
-    5. Passare a **Open Opportunities**. Il riferimento creato nel centro per i partner Microsoft è ora sincronizzato in Salesforce CRM.
+    5. Passare a **Open Opportunities (Apri opportunità).** La segnalazione creata in Microsoft Partner Center è ora sincronizzata in Salesforce CRM.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Schermata di opportunità di Salesforce":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Schermata delle opportunità di Salesforce":::
 
-    6. Quando si seleziona un riferimento sincronizzato, i dettagli della visualizzazione della scheda vengono popolati.
+    6. Quando si seleziona una segnalazione sincronizzata, i dettagli della visualizzazione scheda vengono popolati.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

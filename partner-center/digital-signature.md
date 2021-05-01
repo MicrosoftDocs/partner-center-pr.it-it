@@ -1,56 +1,60 @@
 ---
-title: Funzionalità per le firme digitali
+title: Funzionalità firme digitali
 ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri in che modo i partner del centro partner in India possono visualizzare le fatture con firma digitale e ricevere copie digitali delle fatture per gli ordini creati nel centro per i partner.
+description: Informazioni su Partner Center partner in India possono visualizzare le fatture firmate digitalmente e ricevere copie digitali delle fatture per gli ordini creati in Partner Center.
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031954"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284299"
 ---
-# <a name="view-digitally-signed-invoices"></a>Visualizza fatture con firma digitale
+# <a name="view-digitally-signed-invoices"></a>Visualizzare le fatture firmate digitalmente
 
 **Si applica a**
 
-- Centro per i partner
 - Partner Center India
 
+**Ruoli appropriati**
 
-I partner in India vedono ora che Microsoft ha firmato digitalmente le fatture. Per visualizzare una firma, è necessario usare Adobe Acrobat Reader Document cloud (DC).
+- Amministratore degli account
+- Agente di fatturazione
+- Agente di vendita
 
-## <a name="how-to-view-and-insure-a-valid-digital-signature"></a>Come visualizzare e garantire una firma digitale valida
+I partner in India ora vedono che Microsoft ha firmato digitalmente le fatture. Per visualizzare una firma, è necessario usare Adobe Acrobat Reader Document Cloud (DC).
+
+## <a name="how-to-view-and-insure-a-valid-digital-signature"></a>Come visualizzare e assicurare una firma digitale valida
 
 
-1. Se l'ordine è stato creato in Partner Center, si riceverà una copia digitale di una fattura in un messaggio di posta elettronica. Selezionare la fattura, che si aprirà dall'interno del controller di dominio Adobe Acrobat Reader.
+1. Se l'ordine è stato creato Partner Center, si riceverà una copia digitale di una fattura tramite posta elettronica. Selezionare la fattura che verrà aperta dall'interno di Adobe Acrobat Reader DC.
 
 
-2. Nella parte superiore della fattura verrà visualizzato **firmato e tutte le firme saranno valide**.
+2. Nella parte superiore della fattura dovrebbe essere visualizzato **Firmato e tutte le firme sono valide.**
  
- :::image type="content" source="images/digitalsig/digital1.png" alt-text="Una fattura di esempio con banner di notifica della firma valido che mostra la firma del segno di spunta verde e la frase, firmata e tutte le firme valide.":::
+ :::image type="content" source="images/digitalsig/digital1.png" alt-text="Fattura di esempio con un banner di notifica della firma valido che mostra la firma e la frase del segno di spunta verde, firmata e tutte le firme valide.":::
 
-3. Fare clic sulla firma. Verrà visualizzata la validità del certificato.
+3. Selezionare la firma. Verrà visualizzato il certificato che indica la validità.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Una fattura di esempio con banner di notifica della firma valido che mostra la firma del segno di spunta verde e la frase, firmata e tutte le firme valide."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Fattura firmata con il campo Firmatario autorizzato e la finestra di dialogo Stato convalida firma con i dettagli, l'opzione Proprietà firma, l'opzione Annulla."::: 
 
 4. Selezionare **Proprietà firma** per visualizzare altri dettagli sulla validità della firma.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Una fattura di esempio con banner di notifica della firma valido che mostra la firma del segno di spunta verde e la frase, firmata e tutte le firme valide."::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="La visualizzazione dei dettagli delle proprietà della firma mostra informazioni su chi, dove, quando è stato firmato il documento, il processo di convalida e il certificato del firmatario."::: 
 
 4. È anche possibile verificare che i percorsi di certificazione siano corretti e che il certificato sia attendibile.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="Una fattura di esempio con banner di notifica della firma valido che mostra la firma del segno di spunta verde e la frase, firmata e tutte le firme valide.":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="La finestra di dialogo Visualizzatore certificati mostra diverse schede con altri dettagli su un certificato e sull'intera catena di rilascio.":::
 
-### <a name="additional-information-on-invoices-and-digital-signatures"></a>Ulteriori informazioni sulle fatture e le firme digitali
+### <a name="additional-information-on-invoices-and-digital-signatures"></a>Informazioni aggiuntive su fatture e firme digitali
 
-Una copia digitale verrà inviata alla persona che ha creato l'ordine nel centro per i partner. Non è possibile ottenere le fatture con firma digitale per le fatture rilasciate prima del 17 luglio 2020. Inoltre, le fatture firmate manualmente non saranno disponibili.
+Una copia digitale verrà inviata tramite posta elettronica alla persona che ha creato l'ordine Partner Center. Non è possibile ottenere fatture con firma digitale per le fatture emesse prima del 17 luglio 2020. Inoltre, le fatture firmate manualmente non saranno disponibili.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

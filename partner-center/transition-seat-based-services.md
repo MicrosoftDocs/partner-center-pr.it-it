@@ -1,6 +1,6 @@
 ---
-title: Spostare i clienti basati su licenze nel programma CSP
-description: Informazioni su come spostare i clienti basati su licenze da altri canali o da un altro partner nel programma Cloud Solution Provider (CSP) nel centro per i partner.
+title: Spostare i clienti basati su licenza nel programma CSP
+description: Informazioni su come spostare i clienti basati su licenza da altri canali o da un altro partner nel programma Cloud Solution Provider (CSP) in Partner Center.
 ms.topic: how-to
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -9,42 +9,48 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: deda7a351c79636dfb11c002810a8510782aca6d
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768687"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284452"
 ---
-# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Spostare i clienti basati su licenze da altri canali & partner al programma Cloud Solution Provider
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Spostare i clienti basati su licenza da altri & partner al programma Cloud Solution Provider licenza
 
-Se il cliente desidera assumere più partner, trasferire le sottoscrizioni a un altro partner o gestire le sottoscrizioni acquistate altrove, è possibile spostarle manualmente. È anche possibile spostare i clienti nel centro per i partner da un altro canale.
+**Ruoli appropriati**
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Spostare le sottoscrizioni basate sulle licenze del cliente nel programma Cloud Solution Provider (CSP)
+- Amministratore degli account
+- Agente di vendita
+- Agente di fatturazione
 
-1. Selezionare **Customers** dal menu centro partner e quindi selezionare **Richiedi una relazione Reseller**. Per fornire supporto per gli account multicanale, è necessario eseguire la stessa operazione.
+Se il cliente vuole assumere più partner, trasferire le sottoscrizioni a un altro partner o gestire le sottoscrizioni acquistate altrove, è possibile spostarle manualmente. È anche possibile spostare i clienti in Partner Center da un altro canale.
 
-2. Una volta che il cliente accetta l'invito, sarà possibile effettuare il provisioning delle sottoscrizioni e delle licenze desiderate per il cliente (ad esempio, la stessa offerta Office 365 che il cliente ha acquistato in precedenza).
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Spostare le sottoscrizioni basate su licenza del cliente nel programma Cloud Solution Provider (CSP)
 
-3. Il cliente può consentire la scadenza o l'annullamento delle sottoscrizioni originali. Tuttavia, poiché non sono presenti rimborsi per le sottoscrizioni annullate, è consigliabile attendere fino a quando le sottoscrizioni non si avvicinano alle date di scadenza naturale.
+1. Selezionare **Customers** (Clienti) dal menu Partner Center e quindi **selezionare Request a reseller relationship (Richiedi una relazione come rivenditore).** Per fornire il supporto per gli account multicanale, è necessario eseguire la stessa operazione.
+
+2. Dopo che il cliente ha accettato l'invito, sarà possibile effettuare il provisioning delle sottoscrizioni e delle licenze desiderate per il cliente, ad esempio la stessa offerta di Office 365 acquistata in precedenza dal cliente.
+
+3. Il cliente può consentire la scadenza delle sottoscrizioni originali o annullarle. Tuttavia, poiché non sono presenti rimborsi per le sottoscrizioni annullate, è meglio attendere che le sottoscrizioni si avvicinano alle date di scadenza naturali.
 
 
    >[!NOTE]
-   >Il cliente può essere idoneo per un credito acquistato tramite il portale di amministrazione di Microsoft 365 (M365), ad esempio tramite fatturazione mensile o annuale diretta da Microsoft. I crediti per le sottoscrizioni acquistate direttamente da Microsoft vengono gestiti dal supporto per la **fatturazione M365**. Vedere la Guida di M365 su come [annullare la sottoscrizione di M365](/microsoft-365/commerce/subscriptions/cancel-your-subscription). Se si dispone dei privilegi di Amministrazione delegati per il cliente, è possibile contattare il supporto M65 per conto del cliente. In caso contrario, chiedere al cliente di contattare direttamente il supporto M365 per verificare la quantità di credito idonea e il modo in cui verrà assegnato il credito. Leggere le informazioni sui [privilegi amministrativi delegati](customers-revoke-admin-privileges.md).
+   >Il cliente potrebbe essere idoneo per un credito se ha effettuato l'acquisto tramite il portale di amministrazione di Microsoft 365 (M365), ad esempio tramite fatturazione mensile o annuale diretta da Microsoft. I crediti per le sottoscrizioni acquistate direttamente da Microsoft vengono gestiti dal supporto per la fatturazione **M365.** Vedere le linee guida di M365 su come [annullare la sottoscrizione di M365.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Se si hanno privilegi di amministrazione delegati per il cliente, è possibile contattare il supporto M65 per conto del cliente. In caso contrario, chiedere al cliente di contattare direttamente il supporto tecnico M365 per scoprire la quantità di credito per cui è idoneo e come verrà loro assegnato il credito. Leggere le informazioni [sui privilegi di amministratore con delega](customers-revoke-admin-privileges.md).
 
 
-4. Il cliente continuerà a procedere con le sottoscrizioni di cui è stato effettuato il provisioning senza interruzioni.
+4. Il cliente continuerà quindi con le sottoscrizioni di cui è stato effettuato il provisioning senza interruzioni.
 
-Se si effettua il provisioning delle stesse offerte delle offerte utilizzate dal cliente, non è necessario riassegnare le licenze e non vi saranno interferenze per gli utenti finali. Le offerte devono essere le stesse per evitare perdite di dati. Fino a quando il numero totale di licenze rimane invariato e l'offerta è equivalente, i clienti non risulteranno interessati.
+Se si effettua il provisioning delle stesse offerte utilizzate dal cliente, non è necessario riassegnare le licenze e non si verificano interruzioni per gli utenti finali. Le offerte devono essere le stesse per evitare perdite di dati. Finché il numero totale di licenze rimane invariato e l'offerta è equivalente, i clienti non avranno alcun impatto.
 
 Se si trasferiscono i clienti che si trovano in offerte non più utilizzate, sarà necessario trovare un'offerta equivalente per evitare la perdita di dati. Se si sposta il cliente in un'offerta diversa, sarà necessario aggiornare l'assegnazione delle licenze.
 
 >[!NOTE]
-> Il partner CSP deve trovarsi nella stessa area del tenant del cliente per la transizione del cliente.
+> Il partner CSP deve essere nella stessa area del tenant del cliente per eseguire la transizione del cliente all'utente.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
 - [Inizia a usare tariffe con pagamento in base al consumo con il piano di Azure](azure-plan-get-started.md)
  
 
-- [Modi diversi per collaborare con altri partner nel centro per i partner](work-with-other-partners.md)
+- [Diversi modi in cui è possibile lavorare con altri partner in Partner Center](work-with-other-partners.md)

@@ -1,7 +1,7 @@
 ---
-title: Gestione delle licenze utente
+title: Utente - Gestione delle licenze
 titleSuffix: Microsoft Cloud Germany - Partner Center
-description: Scopri come e dove gestire Partner Center per Microsoft Cloud partner, clienti e licenze in Germania, oltre che per reimpostare le password.
+description: Informazioni su come e dove gestire Partner Center per partner, clienti e licenze Microsoft Cloud Germania, nonché per la reimpostazione delle password.
 ms.topic: article
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -10,21 +10,26 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000625"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284520"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud Germania
 
 **Si applica a**
 
--  Centro per i partner per Microsoft Cloud Germania
+- Centro per i partner per Microsoft Cloud Germania
+
+**Ruoli appropriati**
+
+- Amministratore globale
+- Amministratore degli account
 
 > [!IMPORTANT]
-> In base all'evoluzione delle esigenze dei clienti, la strategia cloud per la Germania si concentra sulla fornitura delle nuove aree cloud in Germania coerenti con l'offerta cloud globale. In questa prospettiva, non verranno più accettati nuovi clienti o distribuiti nuovi servizi dal sistema Microsoft Cloud Germania attualmente disponibile. I clienti esistenti possono continuare a usare attualmente i servizi cloud attualmente disponibili, che verranno gestiti con gli aggiornamenti della sicurezza necessari.
+> In base all'evoluzione delle esigenze dei clienti, la strategia cloud per la Germania si concentrerà sulla distribuzione delle nuove aree cloud in Germania coerenti con l'offerta cloud globale. In questa prospettiva, non verranno più accettati nuovi clienti o distribuiti nuovi servizi dal sistema Microsoft Cloud Germania attualmente disponibile. I clienti esistenti possono continuare a usare i servizi cloud attualmente disponibili, che verranno mantenuti con gli aggiornamenti della sicurezza necessari.
 >  
 > Da ora in poi, i nuovi clienti hanno la possibilità di utilizzare le aree geografiche europee attualmente disponibili o le nuove aree in Germania quando diventano disponibili. Per ulteriori informazioni, vedi l'articolo [Microsoft to deliver cloud services from new datacenters in Germany](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 
@@ -41,10 +46,10 @@ Gestione licenze | Interfaccia di amministrazione di Office 365 o portale delle 
 
 Se si è connessi al Centro per i partner per Microsoft Cloud Germania, è possibile aprire il portale di Azure per Microsoft Cloud Germania senza dover accedere di nuovo. Tuttavia, se è necessario accedere direttamente al portale di Azure per Microsoft Cloud Germania, passare a [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
 
-Dopo aver eseguito l'accesso al portale di Azure per Microsoft Cloud Germania, aprire la pagina della panoramica di Azure Active Directory (Azure AD) e quindi segui le istruzioni in questi argomenti:
+Dopo aver eseguito l'accesso a portale di Azure per Microsoft Cloud Germania, aprire la pagina di panoramica di Azure Active Directory (Azure AD) e quindi seguire le istruzioni riportate in questi articoli:
 
 > [!NOTE]  
-> Se si selezionano i collegamenti seguenti, verrà visualizzata un'altra pagina Web.
+> Selezionando i collegamenti seguenti verrà visualizzato un sito Web diverso.
 
 -  [Aggiungere nuovi utenti a Azure Active Directory](/azure/active-directory/active-directory-users-create-azure-portal)
 

@@ -514,6 +514,9 @@
         - name: Acquistare le offerte del marketplace
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
+        - name: Gestire le licenze nelle offerte del marketplace
+          href: csp-commercial-marketplace-licensing.md
+          displayName: csp
         - name: Offerte esclusive per il marketplace da fornitori di software indipendenti
           href: isv-opt-in.md
         - name: Gestire le offerte del marketplace

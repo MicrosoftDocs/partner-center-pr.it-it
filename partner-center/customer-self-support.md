@@ -4,38 +4,41 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri quando e dove i clienti possono eseguire il supporto autonomo per gestire i propri account e quando devono contattare il proprio partner Cloud Solution Provider.
+description: Informazioni su quando e dove i clienti possono eseguire l'auto-supporto per gestire i propri account e quando devono contattare il Cloud Solution Provider partner.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e4224df0393e8a9bd06204e0e9667069fb7e64e8
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 51936e900374e4213d0eb40fe2dc90d813e81582
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114349"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284180"
 ---
-# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a><span data-ttu-id="b0bce-103">Supporto tecnico autonomo tramite Microsoft Office interfaccia di amministrazione di 365 o tramite il portale di Azure</span><span class="sxs-lookup"><span data-stu-id="b0bce-103">Customer self-support through Microsoft Office 365 admin center or through the Azure portal</span></span>
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a><span data-ttu-id="082a1-103">Supporto self-service del cliente Microsoft Office'interfaccia di amministrazione di 365 o tramite l'portale di Azure</span><span class="sxs-lookup"><span data-stu-id="082a1-103">Customer self-support through Microsoft Office 365 admin center or through the Azure portal</span></span>
 
-<span data-ttu-id="b0bce-104">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="b0bce-104">**Applies to**</span></span>
+<span data-ttu-id="082a1-104">**Si applica a**</span><span class="sxs-lookup"><span data-stu-id="082a1-104">**Applies to**</span></span>
 
--  <span data-ttu-id="b0bce-105">Centro per i partner</span><span class="sxs-lookup"><span data-stu-id="b0bce-105">Partner Center</span></span>
--  <span data-ttu-id="b0bce-106">Centro per i partner per Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="b0bce-106">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="082a1-105">Centro per i partner per Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="082a1-105">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="b0bce-107">I clienti possono accedere ai propri Microsoft Office interfaccia di amministrazione di 365 o al portale di Azure per gestire i propri account:</span><span class="sxs-lookup"><span data-stu-id="b0bce-107">Customers can sign into their own Microsoft Office 365 admin center or into the Azure portal to manage their own accounts:</span></span>
+<span data-ttu-id="082a1-106">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="082a1-106">**Appropriate roles**</span></span>
 
--   <span data-ttu-id="b0bce-108">Visualizzare le comunicazioni e le notifiche interne al prodotto, come le informazioni sull'integrità di un servizio, nel centro messaggi.</span><span class="sxs-lookup"><span data-stu-id="b0bce-108">View in-product communications and notifications, such as service health information, in the Message Center.</span></span>
+- <span data-ttu-id="082a1-107">Agente di supporto tecnico</span><span class="sxs-lookup"><span data-stu-id="082a1-107">Helpdesk agent</span></span>
 
--   <span data-ttu-id="b0bce-109">Eseguire tutte le attività di amministrazione e configurazione del servizio come se questo fosse stato acquistato direttamente da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="b0bce-109">Perform all the service configuration and admin tasks as if they had purchased directly from Microsoft.</span></span> <span data-ttu-id="b0bce-110">È inclusa la configurazione di Exchange Online, SharePoint Online, Skype for Business o altri servizi acquistati.</span><span class="sxs-lookup"><span data-stu-id="b0bce-110">This includes configuring Exchange Online, SharePoint Online, Skype for Business, or other services that they have purchased.</span></span>
+<span data-ttu-id="082a1-108">I clienti possono accedere al proprio Microsoft Office di amministrazione di 365 o all'portale di Azure per gestire i propri account:</span><span class="sxs-lookup"><span data-stu-id="082a1-108">Customers can sign into their own Microsoft Office 365 admin center or into the Azure portal to manage their own accounts:</span></span>
 
-<span data-ttu-id="b0bce-111">Per acquistare altre sottoscrizioni o annullare quelle esistenti, i clienti devono contattare il proprio partner Cloud Solution Provider.</span><span class="sxs-lookup"><span data-stu-id="b0bce-111">To purchase additional subscriptions or cancel their subscriptions, customers should contact their Cloud Solution Provider partner.</span></span> <span data-ttu-id="b0bce-112">I clienti non possono modificare le proprie sottoscrizioni contattando direttamente Microsoft.</span><span class="sxs-lookup"><span data-stu-id="b0bce-112">Customers cannot change their own subscriptions directly with Microsoft.</span></span>
+- <span data-ttu-id="082a1-109">Visualizzare le comunicazioni e le notifiche interne al prodotto, come le informazioni sull'integrità di un servizio, nel centro messaggi.</span><span class="sxs-lookup"><span data-stu-id="082a1-109">View in-product communications and notifications, such as service health information, in the Message Center.</span></span>
 
-<span data-ttu-id="b0bce-113">I clienti che necessitano di assistenza per i prodotti possono trovare le risorse del prodotto sul [supporto tecnico](https://partnercenter.microsoft.com/partner/support).</span><span class="sxs-lookup"><span data-stu-id="b0bce-113">When customers need help with products, they can find product resources on [Support](https://partnercenter.microsoft.com/partner/support).</span></span> <span data-ttu-id="b0bce-114">Microsoft incoraggia i partner a indirizzare i propri clienti verso queste risorse come primo passaggio.</span><span class="sxs-lookup"><span data-stu-id="b0bce-114">We encourage partners to point their customers to these resources as a first step.</span></span>
+- <span data-ttu-id="082a1-110">Eseguire tutte le attività di amministrazione e configurazione del servizio come se questo fosse stato acquistato direttamente da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="082a1-110">Perform all the service configuration and admin tasks as if they had purchased directly from Microsoft.</span></span> <span data-ttu-id="082a1-111">Queste attività includono la configurazione di Exchange Online, SharePoint Online, Skype for Business o altri servizi acquistati.</span><span class="sxs-lookup"><span data-stu-id="082a1-111">These tasks include configuring Exchange Online, SharePoint Online, Skype for Business, or other services that they have purchased.</span></span>
 
- 
+<span data-ttu-id="082a1-112">Per acquistare altre sottoscrizioni o annullare quelle esistenti, i clienti devono contattare il proprio partner Cloud Solution Provider.</span><span class="sxs-lookup"><span data-stu-id="082a1-112">To purchase additional subscriptions or cancel their subscriptions, customers should contact their Cloud Solution Provider partner.</span></span> <span data-ttu-id="082a1-113">I clienti non possono modificare le proprie sottoscrizioni contattando direttamente Microsoft.</span><span class="sxs-lookup"><span data-stu-id="082a1-113">Customers cannot change their own subscriptions directly with Microsoft.</span></span>
 
- 
+<span data-ttu-id="082a1-114">Quando i clienti hanno bisogno di aiuto per i prodotti, possono trovare le risorse del prodotto in [Supporto](https://partnercenter.microsoft.com/partner/support).</span><span class="sxs-lookup"><span data-stu-id="082a1-114">When customers need help with products, they can find product resources on [Support](https://partnercenter.microsoft.com/partner/support).</span></span> <span data-ttu-id="082a1-115">Microsoft incoraggia i partner a indirizzare i propri clienti verso queste risorse come primo passaggio.</span><span class="sxs-lookup"><span data-stu-id="082a1-115">We encourage partners to point their customers to these resources as a first step.</span></span>
+
+ 
+
+ 
 
 
 

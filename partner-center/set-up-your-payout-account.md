@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028435"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702808"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurare l'account proventi e i moduli fiscali
 
@@ -34,20 +34,20 @@ Dopo aver configurato l'account, prima di poter vendere l'offerta o i componenti
 - [Impostare l'account proventi](#payout-account)
 
 > [!NOTE]
-> Per informazioni dettagliate su come e quando verranno pagati i costi offerti dall'offerta, vedere la pagina relativa [a come pagare il mercato commerciale](marketplace-get-paid.md).
+> Per informazioni dettagliate su come e quando verrà pagato il denaro dell'offerta, vedere [Come pagare nel marketplace commerciale.](marketplace-get-paid.md)
 
 ## <a name="tax-forms"></a>Moduli fiscali
 
-Il profilo fiscale e i moduli fiscali vengono gestiti nella pagina **pagamenti e** imposte del centro per i partner. Le autorizzazioni dell'organizzazione determineranno i profili e le informazioni che vengono visualizzati.
+È possibile gestire il profilo fiscale e i moduli fiscali nella **pagina Pagamenti** e imposte Partner Center. Le autorizzazioni dell'organizzazione determineranno i profili e le informazioni visualizzate.
 
-### <a name="create-or-update-your-tax-profile"></a>Crea o aggiorna il profilo fiscale
+### <a name="create-or-update-your-tax-profile"></a>Creare o aggiornare il profilo fiscale
 
-Per prima cosa è necessario creare un profilo fiscale e assegnarlo ai programmi a cui si partecipa. Usare la procedura seguente per creare o aggiornare il *profilo fiscale* nel centro per i partner. È possibile completare e inviare i moduli fiscali elettronicamente nel dashboard del centro per i partner; nella maggior parte dei casi non è necessario stampare e inviare moduli.
+Per prima cosa è necessario creare un profilo fiscale e assegnarlo ai programmi a cui si partecipa. Usare la procedura seguente per creare o aggiornare il profilo *fiscale* in Partner Center. È possibile completare e inviare i moduli fiscali in formato elettronico nel dashboard Partner Center; Nella maggior parte dei casi, non è necessario stampare e inviare tramite posta elettronica moduli.
 
 > [!IMPORTANT]
 > Paesi e aree geografiche diversi hanno requisiti fiscali diversi. L'importo esatto delle imposte da pagare dipende dai paesi e aree geografiche in cui viene venduta l'offerta. Per informazioni sui paesi e le aree geografiche in cui Microsoft versa l'IVA e l'imposta di utilizzo per conto dei partner, vedere il [Contratto per editori di Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560). In altri paesi o aree geografiche, a seconda del luogo di registrazione, potrebbe essere necessario versare l'IVA e l'imposta di utilizzo per le offerte di vendita direttamente alle autorità fiscali locali. Gli introiti derivanti dalla vendita di app potrebbero anche essere tassabili come redditi. È consigliabile contattare l'autorità competente per il proprio paese o area geografica, che fornirà tutte le informazioni fiscali necessarie per le attività nel marketplace commerciale.
 
-1. Nel [Dashboard del centro](https://partner.microsoft.com/dashboard)per i partner selezionare l'icona dell'ingranaggio **Impostazioni** nell'angolo in alto a destra, quindi **Impostazioni account**.
+1. Nel [dashboard Partner Center selezionare](https://partner.microsoft.com/dashboard)l'icona **a** forma di ingranaggio Impostazioni nell'angolo in alto a destra, quindi **Impostazioni account.**
 
 2. Nel menu di spostamento a sinistra selezionare **Proventi e imposte** e quindi **Payout and tax assignments** (Proventi e assegnazioni fiscali).
 
@@ -55,7 +55,7 @@ Per prima cosa è necessario creare un profilo fiscale e assegnarlo ai programmi
 
 4. Se si vuole usare un profilo fiscale esistente, selezionarlo dall'elenco a discesa. In caso contrario, selezionare **Crea nuovo profilo** e premere **Invia**. Verrà visualizzata la pagina dei profili fiscali.
 
-5. Selezionare il pulsante **modifica** per modificare le informazioni fiscali.
+5. Selezionare il **pulsante Modifica** per modificare le informazioni fiscali.
 
 6. Selezionare il pulsante di opzione appropriato e specificare il proprio paese o area geografica, se richiesto. Questo passaggio determina l'entità business Microsoft che eseguirà i pagamenti per l'account.
 
@@ -84,7 +84,7 @@ Un account proventi è il conto bancario su cui vengono versati gli introiti del
 
 ### <a name="create-a-payment-profile"></a>Creare un profilo di pagamento
 
-1. In [centro](https://partner.microsoft.com/dashboard)per i partner selezionare l'icona dell'ingranaggio **Impostazioni** nell'angolo in alto a destra, quindi **Impostazioni account**.
+1. In [Partner Center](https://partner.microsoft.com/dashboard)selezionare l'icona **a** forma di ingranaggio Impostazioni nell'angolo in alto a destra, quindi **Impostazioni account.**
 2. Sotto l'intestazione *Proventi e imposte* selezionare **Assegnazione di profili di pagamento e fiscali**.
 
     > [!NOTE]
@@ -112,7 +112,7 @@ Se si è scelto di usare un conto bancario per ricevere i proventi, completare l
 
 5. Sarà necessario selezionare un profilo di pagamento per ogni programma a cui si partecipa, anche se è possibile usare lo stesso profilo per più programmi.
 
-6. Selezionare Submit (Invia) per salvare le modifiche.
+6. Selezionare Invia per salvare le modifiche.
 
    > [!NOTE]
    > Microsoft potrebbe richiedere fino a 48 ore per convalidare le informazioni nel profilo. Quando il processo è completato, lo *stato di verifica* è **Completo**
@@ -127,14 +127,14 @@ Per assicurarsi che il pagamento vada a buon fine, verificare quanto segue:
 
 È possibile modificare i profili di pagamento esistenti se è necessario modificare o correggere eventuali informazioni non corrette.
 
-1. In [centro](https://partner.microsoft.com/dashboard)per i partner selezionare l'icona dell'ingranaggio **Impostazioni** nell'angolo in alto a destra, quindi  **Impostazioni account**.
+1. In [Partner Center](https://partner.microsoft.com/dashboard)selezionare l'icona **a** forma di ingranaggio Impostazioni nell'angolo in alto a destra, quindi **Impostazioni account.**
 
 2. Sotto l'intestazione *Proventi e imposte* selezionare **Profili di pagamento e fiscali**.
 
-3. I profili di pagamento verranno elencati insieme al relativo stato. Trovare il profilo che si desidera modificare e selezionare **modifica** all'estrema destra
+3. I profili di pagamento verranno elencati insieme al relativo stato. Trovare il profilo da modificare e selezionare **Modifica** all'estrema destra
 
 > [!IMPORTANT]
-> La modifica dell'account per il pagamento può ritardare i pagamenti per un massimo di un ciclo di pagamento. Questo ritardo si verifica perché è necessario verificare la modifica dell'account, come è stato fatto per la configurazione iniziale dell'account di pagamento. Dopo aver verificato l'account, verrà comunque pagato per l'intero importo. Ii pagamenti in scadenza per il ciclo pagamento corrente saranno aggiunti a quello successivo. Per altre informazioni, vedere la pagina relativa all' [uso del Marketplace commerciale](marketplace-get-paid.md).
+> La modifica dell'account per il pagamento può ritardare i pagamenti per un massimo di un ciclo di pagamento. Questo ritardo si verifica perché è necessario verificare la modifica dell'account, come è stato fatto per la configurazione iniziale dell'account di pagamento. Dopo aver verificato l'account, verrà comunque pagato per l'intero importo. Ii pagamenti in scadenza per il ciclo pagamento corrente saranno aggiunti a quello successivo. Per [altre informazioni, vedere Getting paid in the commercial marketplace](marketplace-get-paid.md)(Ottenere i pagamenti nel marketplace commerciale).
 
 ### <a name="paypal-info"></a>Informazioni su PayPal
 
@@ -145,7 +145,7 @@ In alcuni paesi e aree geografiche è possibile creare un account di pagamento i
 
 Domande frequenti sull'uso di PayPal come metodo di pagamento:
 
-- **Quali sono le impostazioni di PayPal necessarie per ricevere i pagamenti?** Verificare che il proprio conto PayPal non blocchi i pagamenti tramite assegno elettronico. Questa impostazione viene gestita nella pagina delle preferenze di ricezione dei pagamenti di PayPal. Per altre informazioni, vedere la [pagina di configurazione del conto PayPal](https://go.microsoft.com/fwlink/p/?linkid=513139).
+- **Quali sono le impostazioni di PayPal necessarie per ricevere i pagamenti?** Verificare che il proprio conto PayPal non blocchi i pagamenti tramite assegno elettronico. Questa impostazione viene gestita nella pagina delle preferenze di ricezione dei pagamenti di PayPal. Per altre informazioni, vedere la [pagina di configurazione del conto PayPal](https://go.microsoft.com/fwlink/?linkid=2162542).
 
 - **Il mio paese o area geografica sono supportati?** Per informazioni sulle aree in cui PayPal è un metodo di pagamento supportato, vedere [Soglie, metodi e intervalli di pagamento](payment-thresholds-methods-timeframes.md).
 
@@ -204,7 +204,7 @@ Se si è scelto di usare un conto bancario per ricevere i proventi, completare l
 3. Indicare i dettagli del beneficiario.
 4. Tornare alla pagina *Assegnazione del profilo* e selezionare la valuta da usare all'emissione dei pagamenti.
 5. Sarà necessario selezionare un profilo di pagamento per ogni programma a cui si partecipa, anche se è possibile usare lo stesso profilo per più programmi.
-6. Selezionare Submit (Invia) per salvare le modifiche.
+6. Selezionare Invia per salvare le modifiche.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

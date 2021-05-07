@@ -1,18 +1,18 @@
 ---
 title: Domande frequenti sui pagamenti e sui profili fiscali
-description: Risposte alle domande più comuni sui pagamenti e sui dettagli fiscali nel centro per i partner. Include le risposte ai motivi per cui i guadagni sono diversi da quelli previsti.
+description: Risposte alle domande comuni sui pagamenti e i dettagli fiscali in Partner Center. Include risposte sul motivo per cui gli utili sono diversi da quelli previsti.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 03/05/2021
-ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.date: 05/06/2021
+ms.openlocfilehash: 74d62a794d95cbf7a5170ddbcfe474cc61fbf9b3
+ms.sourcegitcommit: 5780fab794d7a48c64ce27eeabd7a39d56706e9c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087043"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "109240517"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Domande comuni su pagamenti e imposte
 
@@ -22,98 +22,100 @@ ms.locfileid: "106087043"
 - Amministratore globale
 - Amministratore degli incentivi
 
-Questo articolo risponde alle domande frequenti relative ai pagamenti e alle informazioni fiscali nel centro per i partner. Gli argomenti trattati includono la tempistica dei pagamenti, il controllo dell'idoneità dei guadagni e l'importanza di configurare correttamente i profili di pagamento e di imposta.
+Questo articolo risponde alle domande frequenti sui pagamenti e i dettagli fiscali in Partner Center. Gli argomenti trattati includono la tempistica dei pagamenti, il controllo dell'idoneità degli utili e l'importanza di configurare correttamente i profili di pagamento e fiscali.
 
 ## <a name="profile-management"></a>Gestione dei profili
 
-#### <a name="why-do-i-need-to-provide-or-update-my-payout-andor-tax-details"></a>Perché è necessario fornire o aggiornare i pagamenti e/o le informazioni fiscali?
+#### <a name="why-do-i-need-to-provide-or-update-my-payout-andor-tax-details"></a>Perché è necessario fornire o aggiornare i dettagli dei pagamenti e/o delle imposte?
 
-Per completare la registrazione e ricevere i pagamenti, tutti i partner che eseguono la registrazione in un nuovo programma devono fornire informazioni valide sui pagamenti e sulle imposte. Una registrazione viene considerata completa solo dopo che Microsoft ha convalidato il profilo di pagamento e di imposta.
+Tutti i partner che si iscriveno a un nuovo programma devono fornire dettagli fiscali e pagamento validi per completare la registrazione e ricevere i pagamenti. Una registrazione viene considerata completa solo dopo che Microsoft ha convalidato il profilo di pagamento e fiscale.
 
-Potrebbe anche essere necessario aggiornare le informazioni se le regole per il programma cambiano o se gli aspetti del profilo scadono o diventano obsoleti. In tal caso, nella pagina di panoramica verrà visualizzato lo stato **azione richiesta: Aggiorna banca e/o profilo fiscale**.
+Potrebbe anche essere necessario aggiornare le informazioni se le regole per il programma cambiano o se gli aspetti del profilo scadono o diventano obsoleti. In questo caso, nella pagina Panoramica verrà visualizzato lo stato **Azione obbligatoria - Aggiorna profilo bancario e/o fiscale**.
 
-#### <a name="how-do-i-find-set-up-or-update-payout-and-tax-details"></a>Ricerca per categorie trovare, configurare o aggiornare i dettagli relativi ai pagamenti e alle imposte?
+#### <a name="how-do-i-find-set-up-or-update-payout-and-tax-details"></a>Ricerca per categorie trovare, configurare o aggiornare i dettagli dei pagamenti e delle imposte?
 
-Per informazioni dettagliate su come aggiornare i dettagli relativi a pagamenti e imposte nel centro per i partner, vedere [configurare l'account di pagamento e i moduli fiscali](set-up-your-payout-account.md).
+Per informazioni dettagliate su come aggiornare i dettagli di pagamento e fiscali in Partner Center, vedere Configurare l'account di pagamento e [i moduli fiscali.](set-up-your-payout-account.md)
 
 #### <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>Perché non vedo le registrazioni quando assegno i profili di pagamento e fiscali?
 
-È possibile che non si disponga delle autorizzazioni appropriate o che si sia connessi con un account che non dispone di tali autorizzazioni. Ad esempio, solo gli amministratori di incentivi per la località MPN possono creare o gestire i profili di pagamento e di imposta. Contattare l'amministratore dell'organizzazione per gestire le autorizzazioni bancarie e fiscali.
+È possibile che non si abbia le autorizzazioni appropriate o che si sia connessi con un account che non dispone di queste autorizzazioni. Ad esempio, solo gli amministratori di incentivi per la località MPN possono creare o gestire i profili di pagamento e fiscali. Contattare l'amministratore dell'organizzazione per gestire le autorizzazioni bancarie e fiscali.
 
-#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Sono in grado di accedere solo con il mio @onmicrosoft.com dominio. Cosa devo fare?
+#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>È possibile accedere solo con il @onmicrosoft.com dominio. Cosa devo fare?
 
 Contattare l'amministratore dell'account per aggiungere altri domini all'account AAD.
  
-#### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>L'organizzazione partecipa a più programmi. È necessario specificare più volte il mio profilo di pagamento e di imposta?
+#### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>L'organizzazione partecipa a più programmi. È necessario fornire il profilo di pagamento e fiscale più volte?
 
-Dipende dalle esigenze dell'organizzazione. I profili di pagamento vengono creati a livello di organizzazione, che consente di assegnare lo stesso profilo bancario tra più ID MPN e programmi all'interno di un'organizzazione. Nella maggior parte dei casi, è possibile riutilizzare un profilo esistente o crearne uno nuovo.
+Dipende dalle esigenze dell'organizzazione. I profili di pagamento vengono creati a livello di organizzazione, che consente di assegnare lo stesso profilo bancario tra più programmi e ID MPN all'interno di un'organizzazione. Nella maggior parte dei casi, è possibile riutilizzare un profilo esistente o crearne uno nuovo.
 
 Tuttavia, quando si applica il profilo bancario a paesi o aree geografiche diverse, è possibile che ci siano delle eccezioni.
 
-I profili fiscali creati per una località MPN vengono riutilizzati e popolati automaticamente quando lo stesso percorso MPN partecipa a un altro programma. Ma possono esserci delle eccezioni. Ad esempio, per le regole di pagamento di un nuovo programma Incentivi potrebbero essere necessari altri dettagli per il profilo fiscale.
+I profili fiscali creati per una località MPN vengono riutilizzati e popolati automaticamente quando la stessa località MPN partecipa a un altro programma. Ma possono esserci delle eccezioni. Ad esempio, per le regole di pagamento di un nuovo programma Incentivi potrebbero essere necessari altri dettagli per il profilo fiscale.
 
-#### <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Posso usare le stesse informazioni fiscali e bancarie per tutti i programmi incentive in Microsoft?
+#### <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>È possibile usare gli stessi dettagli bancari e fiscali per tutti i programmi di incentivi microsoft?
 
-Se la società è stata invitata a più programmi, è possibile utilizzare lo stesso account di pagamento per tutti i programmi o scegliere di disporre di diversi account di pagamento per i diversi programmi.
+Se l'azienda è invitata per più programmi, è possibile usare lo stesso account di pagamento per tutti i programmi oppure scegliere di avere account di pagamento diversi per i diversi programmi.
 
 
-#### <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>In che modo Microsoft garantisce che le informazioni bancarie siano effettivamente quelle della società e non un account bancario personale per un dipendente?
+#### <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>In che modo Microsoft garantisce che le informazioni bancarie siano effettivamente della società e non un conto bancario personale per un dipendente?
 
-È responsabilità dell'azienda assicurarsi che il ruolo di amministratore di incentivi, che dispone delle autorizzazioni per modificare queste informazioni, venga assegnato solo ai dipendenti appropriati.
+È responsabilità dell'azienda assicurarsi che il ruolo di amministratore degli incentivi, che ha le autorizzazioni per modificare queste informazioni, sia assegnato solo ai dipendenti appropriati.
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>Il profilo fiscale è scaduto. Ricerca per categorie correggere l'aggiornamento?
 
-Se un profilo fiscale è scaduto o sta per scadere, significa che è necessario aggiornare il modulo fiscale fornito a Microsoft. Per aggiornare il profilo fiscale, attenersi alla procedura seguente:
+Se un profilo fiscale è scaduto o sta per scadere, significa che il modulo fiscale fornito a Microsoft deve essere aggiornato. Per aggiornare il profilo fiscale, seguire questa procedura:
 
-1. Accedere al [Dashboard](https://partner.microsoft.com/dashboard/home)del centro per i partner, quindi selezionare l'icona a forma di ingranaggio per aprire il menu **Impostazioni** .
-2. Selezionare **Impostazioni account**, espandere la sezione **pagamenti e imposta** , quindi selezionare il profilo **di pagamento e di imposta** .
-3. Seleziona profilo **fiscale**
-4. Controllare la **Data di scadenza** della colonna e passare al profilo fiscale scaduto o che sta per scadere.
-5. Selezionare **modifica** per avviare il processo di modifica del profilo fiscale.
-6. Nella sezione modulo imposta specificare i dettagli aggiornati.
+1. Accedere al [dashboard](https://partner.microsoft.com/dashboard/home)Partner Center e quindi selezionare l'icona a forma di ingranaggio per aprire **il** menu Impostazioni.
+2. Selezionare **Account settings (Impostazioni account),** **espandere la sezione Payout and tax** (Pagamenti e imposte) e quindi selezionare Payout and tax profile **(Profilo di pagamento e** imposta).
+3. Selezionare **Profilo** fiscale
+4. Controllare la colonna **Expiration Date (Data** di scadenza) e passare al profilo fiscale scaduto o in scadenza.
+5. Selezionare **Modifica** per avviare il processo di modifica del profilo fiscale.
+6. Nella sezione del modulo fiscale specificare i dettagli aggiornati.
 
-## <a name="earnings-incorrect-or-missing"></a>Guadagni non corretti o mancanti
+## <a name="earnings-incorrect-or-missing"></a>Utili errati o mancanti
 
 #### <a name="why-are-my-earnings-missing"></a>Perché gli utili non sono presenti?
 
 - L'ordine del cliente potrebbe non essere ancora idoneo per il pagamento. Per gli ordini di clienti non aziendali, Microsoft deve ricevere il pagamento del cliente prima che gli utili dell'editore risultino idonei. Per gli ordini dei clienti aziendali, gli utili saranno disponibili 1-2 giorni dopo la data dell'ordine di acquisto. Verificare lo stato dell'ordine nei [report degli ordini](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
 - Gli utili delle transazioni eseguite prima di luglio 2019 potrebbero non essere visualizzati nel report Cronologia transazioni. Controllare lo storico degli estratti in [Payout Download](https://partner.microsoft.com/dashboard/payouts/reports/incentiveexport) (Download del pagamento).
-- Controllare l'intervallo [di tempo del ciclo di pagamento](payment-thresholds-methods-timeframes.md) e comprendere quando i guadagni dovrebbero essere visualizzati nell'istruzione di pagamento.
+- Controllare [l'intervallo di tempo del](payment-thresholds-methods-timeframes.md) ciclo di pagamento e capire quando gli utili devono essere visualizzati nell'estratto conto.
 
-#### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Perché la quantità di guadagni è diversa da quella prevista?
+#### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Perché l'importo degli utili è diverso da quello previsto?
 
-- Se l'ordine è stato parzialmente pagato dal cliente, la quantità di guadagno sarà basata sull'importo parzialmente pagato dopo la deduzione della tariffa e l'imposizione appropriata.
-- Controllare la responsabilità delle imposte in base al paese. Nei paesi in cui l'imposta è responsabile di Microsoft, Microsoft raccoglie e sottrae le imposte dai guadagni degli editori. L'importo della transazione indicato nell'estratto non include l'importo delle tasse. Vedere [Dettagli imposte](tax-details-marketplace.md).
-- Le offerte SaaS e IaaS hanno una tariffa scontata per le agenzie al 10% anziché il 20% standard, lasciando una percentuale di guadagni pari al 90%. Questa promozione è valida fino al 30 giugno 2021.
+- Se l'ordine è stato parzialmente pagato dal cliente, l'importo del reddito sarà basato sull'importo parzialmente pagato dopo la deduzione della tariffa e delle imposte appropriate.
+- Controllare la responsabilità di rimessa fiscale in base al paese. Nei paesi in cui l'imposta è responsabile di Microsoft, Microsoft raccoglie e deduce l'imposta dagli utili degli editori. L'importo della transazione indicato nell'estratto non include l'importo delle tasse. Vedere [Dettagli imposte](tax-details-marketplace.md).
+- Le offerte SaaS e IaaS hanno una tariffa di agenzia scontata al 10% anziché al 20% standard, lasciando un tasso di utili del 90%. Si tratta di un requisito Co-Sell IP. Questa promozione è valida fino al 30 giugno 2021. 
 
-**Ulteriori** informazioni: [contratto per la pubblicazione nel Marketplace commerciale](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Dettagli dei criteri](payout-policy-details.md)di pagamento, [soglia di pagamento, metodo e](payment-thresholds-methods-timeframes.md)intervallo di tempo, recupero dei [dati, informazioni fiscali](tax-details-marketplace.md), istruzioni [per](marketplace-get-paid.md)i [pagamenti](payout-statement.md)
+**Altre informazioni:** Commercial Marketplace Publisher Agreement , [Payout policy details](payout-policy-details.md), Payment [threshold, method, and time frame](payment-thresholds-methods-timeframes.md), Getting [paid](marketplace-get-paid.md), [Tax](https://go.microsoft.com/fwlink/p/?LinkID=699560) [details](tax-details-marketplace.md), [Payout Statements](payout-statement.md)
 
 ## <a name="earnings-reconciliation"></a>Riconciliazione degli utili
 
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>Come risolvere le differenze tra l'estratto conto e i report sugli ordini o sull'utilizzo nell'analisi?
-Utilizzare AssetID, orderID e l'ID dell'elemento linea visualizzati nel report Cronologia transazioni di pagamento con ordini analitici e report sull'utilizzo. Usare questo mapping:
+
+Usare AssetID, orderID e l'ID voce visualizzati nel report della cronologia delle transazioni di pagamento con ordini analitici e report sull'utilizzo. Usare questo mapping:
 
 - Payout Transaction History.AssetID = order.OrderID
 - Payout Transaction History.OrderID & LineItem = Usage.UsageReferenceID [OrderID:LineItemID]
 
 ### <a name="how-do-i-know-when-to-expect-payments-for-my-customer-orders"></a>Come fare per sapere quando si riceveranno i pagamenti per gli ordini dei clienti?
-- Per prima cosa, usando il assetID, controllare gli ordini dei clienti nei [report degli ordini](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
-- Verificare il canale cliente per la sottoscrizione cliente nel [report clienti](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer).
-- Per i clienti aziendali, i guadagni dell'editore vengono visualizzati nell'istruzione 1-2 giorni dopo la data dell'ordine di acquisto.
-- Per i clienti non aziendali, i guadagni dell'editore vengono visualizzati nell'istruzione 1-2 giorni dopo la ricezione del pagamento del cliente.
 
-**Ulteriori informazioni**: [istruzioni](payout-statement.md)per i pagamenti, [Dashboard ordini in analisi del Marketplace commerciale](/azure/marketplace/partner-center-portal/orders-dashboard)
+- In primo luogo, usando l'assetID, controllare gli ordini dei clienti nei [report degli ordini](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
+- Controllare il canale del cliente per la sottoscrizione del cliente [nel report dei clienti.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer)
+- Per i clienti aziendali, gli utili dell'editore vengono visualizzati nel rendiconto 1-2 giorni dopo la data dell'ordine di acquisto.
+- Per i clienti non aziendali, gli utili dell'editore vengono visualizzati nel rendiconto 1-2 giorni dopo la ricezione del pagamento da parte del cliente.
+
+**Altre informazioni:** [Rendiconti dei pagamenti](payout-statement.md), [Dashboard ordini nell'analisi del marketplace commerciale](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="payments-and-adjustments"></a>Pagamenti e rettifiche
 
 #### <a name="why-is-my-payment-missing"></a>Perché manca il pagamento?
 
-- Verificare che lo stato dei pagamenti e lo stato del profilo fiscale siano *validi* nella [pagina Panoramica](https://partner.microsoft.com/dashboard/commercial-marketplace/overview).
+- Verificare che lo stato del pagamento e del profilo fiscale siano visualizzati *come validi* nella pagina [di panoramica](https://partner.microsoft.com/dashboard/commercial-marketplace/overview).
 - È possibile che non sia stata raggiunta la soglia minima per il pagamento. Per ricevere un pagamento l'importo deve essere di almeno 50 USD.
 
 
-#### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Ricerca per categorie impostare l'account in modo che non riceva pagamenti?
-È possibile mantenere i pagamenti nel [profilo di pagamento](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). A tale scopo, selezionare **Attendi** e Microsoft manterrà il pagamento fino a quando non viene rilasciata l'attesa.
+#### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Ricerca per categorie l'account per non ricevere il pagamento?
+È possibile mantenere i pagamenti in [Profilo di pagamento](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). A tale scopo, selezionare **Blocco** e Microsoft conservi il pagamento fino a quando non si rilascia il blocco.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Perché ricevo il pagamento in una valuta diversa rispetto alla valuta di acquisto?
 
@@ -121,9 +123,9 @@ La valuta del pagamento si basa sulla valuta selezionata nel profilo di pagament
 
 #### <a name="how-do-i-reconcile-adjustments"></a>Come riconciliare le rettifiche?
 
-Le rettifiche di pagamento sono correzioni del pagamento per supportare le rettifiche compensative, ad esempio problemi di sistema. Nell'istruzione payout ReasonCode specifica il motivo della regolazione. Questi non sono progettati per riconciliare direttamente le singole transazioni.
+Le rettifiche di pagamento sono correzioni del pagamento per supportare le rettifiche compensative, ad esempio problemi di sistema. Nel rendiconto dei pagamenti ReasonCode specifica il motivo della rettifica. Questi non sono destinati a riconciliare direttamente con le singole transazioni.
 
-**Ulteriori** informazioni: [contratto per la pubblicazione nel Marketplace commerciale](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Dettagli sui criteri](payout-policy-details.md)di pagamento, [Dettagli sulle imposte](tax-details-marketplace.md), [soglia di pagamento, metodo e intervallo di tempo](payment-thresholds-methods-timeframes.md)
+**Altre informazioni:** [Contratto per editori del Marketplace commerciale,](https://go.microsoft.com/fwlink/p/?LinkID=699560) [dettagli dei criteri](payout-policy-details.md)di pagamento, [dettagli](tax-details-marketplace.md)fiscali, soglia [di pagamento, metodo e intervallo di tempo](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>Imposte
 
@@ -142,71 +144,71 @@ Passare alla [pagina del profilo](https://partner.microsoft.com/dashboard/payee/
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>Come trovare la ritenuta d'acconto per una transazione?
 La ritenuta d'acconto è applicabile per gli editori degli Stati Uniti che hanno inviato il modulo W-9. La ritenuta d'acconto viene calcolata sui pagamenti mensili.
 
-**Ulteriori** informazioni: [contratto per la pubblicazione nel Marketplace commerciale](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Dettagli sui criteri di pagamento](payout-policy-details.md)
+**Per altre informazioni,** vedere: [Contratto per editori del marketplace commerciale,](https://go.microsoft.com/fwlink/p/?LinkID=699560) [dettagli dei criteri di pagamento](payout-policy-details.md)
 
-## <a name="payout-statement-access"></a>Accesso alle istruzioni di pagamento
+## <a name="payout-statement-access"></a>Accesso all'estratto conto
 
 #### <a name="how-do-i-access-a-payout-statement"></a>Come si accede all'estratto conto?
 
 1. Controllare il proprio ruolo. Per accedere all'estratto conto, è necessario avere il ruolo di *collaboratore finanziario* o *proprietario dell'account*.
-2. Nella finestra di spostamento in alto a destra selezionare l'icona di **pagamento** per visualizzare l'istruzione per il pagamento. Scegliere tra la **cronologia delle transazioni**, il **pagamento** e il **download**.
+2. Nel riquadro di spostamento in alto a destra selezionare **l'icona Pagamento** per visualizzare l'estratto conto. Scegliere tra **Cronologia transazioni,** **Pagamento** e **Scarica.**
 
-**Ulteriori informazioni**: [ruoli e autorizzazioni per il pagamento](payout-statement.md#roles-and-permissions), [istruzioni di pagamento](payout-statement.md) 
+**Altre informazioni:** [Ruoli e autorizzazioni per i pagamenti,](payout-statement.md#roles-and-permissions)Estratti [conto](payout-statement.md) 
 
-## <a name="payout-statement-report"></a>Report sulle istruzioni di pagamento
+## <a name="payout-statement-report"></a>Report dell'estratto conto
 
 #### <a name="what-does-each-field-in-the-transaction-download-mean"></a>Cosa significano i campi nel download della transazione?
 
-Per un elenco dettagliato degli attributi e dei relativi significati, vedere [istruzioni di pagamento](payout-statement.md) .
+Per [un elenco dettagliato degli](payout-statement.md) attributi e dei relativi significati, vedere l'elenco dei pagamenti.
 
 #### <a name="what-is-earning-status"></a>Cos'è lo stato degli utili?
 
-Ciò mostra i guadagni come non elaborati, elaborati o inviati.
+Gli utili vengono visualizzati come non elaborati, elaborati o inviati.
 
-- Non **elaborati** : i guadagni rientrano in un periodo di deposito fino alla data di scadenza.
-- **Elaborati** : i guadagni sono maturi e vengono preparati in un pagamento mensile. I pagamenti vengono rilasciati entro il 15 di ogni mese.
-- **Inviato** : il pagamento è stato rilasciato alla banca in base al profilo di pagamento.
+- **Non elaborato: gli** utili sono in un periodo di deposito fino alla data di scadenza.
+- **Elaborato:** gli utili sono maturi e vengono preparati in un pagamento mensile. I pagamenti vengono rilasciati entro il 15 di ogni mese.
+- **Inviato:** il pagamento è stato rilasciato correttamente alla banca in base al profilo di pagamento.
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Come scaricare i moduli della tassa sul servizio?
 
 Andare alla pagina **Payout Payment** (Pagamento dei proventi), quindi alla sezione **List of Payment** (Elenco dei pagamenti). Viene visualizzato un collegamento al modulo Tassa sul servizio per un pagamento con tassa sul servizio.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Ricerca per categorie scaricare un modulo per le imposte ritenute in formato PDF?
+#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Ricerca per categorie scaricare un modulo di ritenuta d'acconto in formato PDF?
 
-Andare alla pagina **Payout Payment** (Pagamento dei proventi), quindi alla sezione **List of Payment** (Elenco dei pagamenti). Accanto al pagamento viene visualizzato un collegamento al modulo per la ritenuta d'acconto. Un modulo per le imposte di ritenuta si applica solo ai programmi incentive selezionati, non a un pagamento in Marketplace commerciale.
+Andare alla pagina **Payout Payment** (Pagamento dei proventi), quindi alla sezione **List of Payment** (Elenco dei pagamenti). Accanto al pagamento viene visualizzato un collegamento al modulo per la ritenuta d'acconto. Un modulo di ritenuta d'acconto si applica solo a programmi di incentivi selezionati, non a un pagamento del marketplace commerciale.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Dove si trovano i moduli per le tasse di fine anno?
 
 Passare alla [pagina del profilo](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) per visualizzare i moduli per le tasse di fine anno.
 
-**Ulteriori informazioni**: [istruzioni](payout-statement.md)per i pagamenti, [download della cronologia delle transazioni](payout-statement.md#transaction-history-download)
+**Altre informazioni:** [Istruzioni per i pagamenti,](payout-statement.md) [Download della cronologia delle transazioni](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>Rendiconti cronologici
 
-#### <a name="how-do-i-view-historical-information"></a>Ricerca per categorie visualizzare le informazioni cronologiche?
+#### <a name="how-do-i-view-historical-information"></a>Ricerca per categorie visualizzare informazioni cronologiche?
 
-Nel rendiconto cronologico viene visualizzato lo snapshot dei dati di pagamento a partire da ottobre 2019. Sfortunatamente, le informazioni sui pagamenti non vengono aggiornate. Per ricevere le informazioni più aggiornate, inviare un ticket di supporto per i dati più recenti.
+Nel rendiconto cronologico viene visualizzato lo snapshot dei dati di pagamento a partire da ottobre 2019. Sfortunatamente, le informazioni sui pagamenti qui non vengono aggiornate. Per ricevere le informazioni più recenti, inviare un ticket di supporto per i dati più recenti.
 
-**Ulteriori informazioni**: [istruzioni](payout-statement.md)per i pagamenti, [download della cronologia delle transazioni](payout-statement.md#transaction-history-download)
+**Altre informazioni:** [Istruzioni per i pagamenti,](payout-statement.md)Download [della cronologia delle transazioni](payout-statement.md#transaction-history-download)
 
-## <a name="payout-export-api"></a>API di esportazione del pagamento
+## <a name="payout-export-api"></a>API di esportazione dei pagamenti
 
 #### <a name="how-do-i-download-payout-data"></a>Come si possono scaricare i dati relativi ai pagamenti?
 
-Usare l' [API](https://apidocs.microsoft.com/services/partnerpayouts)per i pagamenti dei partner.
+Usare [l'API Partner Payout](https://apidocs.microsoft.com/services/partnerpayouts).
 
-## <a name="commercial-marketplace-payout-policies"></a>Criteri di pagamento per Marketplace commerciale
+## <a name="commercial-marketplace-payout-policies"></a>Criteri di pagamento del marketplace commerciale
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Come trovare l'attuale commissione dell'agenzia e la tariffa di pagamento?
 
-- Controllare la pagina del Contratto per gli editori del Marketplace. La commissione standard dell'agenzia è il 20%. Le transazioni idonee per la co-selling SaaS hanno una tariffa scontata del 10%. Controllare gli annunci di eventuali commissioni promozionali dell'agenzia.
-- Nell'istruzione per il pagamento, la velocità di guadagno specifica la percentuale effettiva di pagamento per una determinata transazione.
+- Controllare la pagina del Contratto per gli editori del Marketplace. La commissione standard dell'agenzia è il 20%. Le transazioni idonee per il co-selling SaaS hanno una tariffa scontata del 10%. Controllare gli annunci di eventuali commissioni promozionali dell'agenzia.
+- Nel rendiconto dei pagamenti, La tariffa di guadagno specifica la tariffa effettiva di pagamento per una determinata transazione.
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Dopo che gli utili vengono visualizzati nell'estratto quando si riceverà il pagamento da Microsoft?
-- Quando gli utili sono nello stato non elaborato, è possibile controllare la data di scadenza per il mese in cui verranno elaborati per il pagamento. Una volta preparato il pagamento, lo stato di guadagno verrà modificato in "elaborato".  Microsoft emette i pagamenti entro il 15 del mese di scadenza.
-- Per gli ordini pagati dalla carta di credito, Microsoft riceve i pagamenti per 30 giorni fino alla maturazione del guadagno.
+- Quando gli utili sono nello stato non elaborato, è possibile controllare la data di scadenza per il mese in cui verranno elaborati per il pagamento. Una volta preparato il pagamento, lo stato del guadagno cambierà in "elaborato".  Microsoft emette i pagamenti entro il 15 del mese di scadenza.
+- Per gli ordini pagati con carta di credito, Microsoft mantiene i pagamenti per 30 giorni fino alla scadenza del guadagno.
 
- **Ulteriori** informazioni: [contratto per la pubblicazione nel Marketplace commerciale](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Dettagli sui criteri](payout-policy-details.md)di pagamento, [Dettagli sulle imposte](tax-details-marketplace.md), [soglia di pagamento, metodo e intervallo di tempo](payment-thresholds-methods-timeframes.md)
+ **Altre informazioni:** [Contratto per editori del Marketplace commerciale,](https://go.microsoft.com/fwlink/p/?LinkID=699560) [dettagli dei criteri](payout-policy-details.md)di pagamento, [dettagli](tax-details-marketplace.md)fiscali, soglia [di pagamento, metodo e intervallo di tempo](payment-thresholds-methods-timeframes.md)
 
 ## <a name="next-steps"></a>Passaggi successivi
 

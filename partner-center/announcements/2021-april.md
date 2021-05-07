@@ -1,6 +1,6 @@
 ---
 title: Annunci di aprile 2021
-description: Annunci di aprile 2021 per Microsoft Partner Center nuove funzionalità, promozioni, offerte, mercati o modifiche alle offerte esistenti.
+description: Annunci di aprile 2021 per Microsoft Partner Center incluse nuove funzionalità, promozioni, offerte, mercati o modifiche alle offerte esistenti.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -11,87 +11,87 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328050"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702825"
 ---
 # <a name="april-2021-announcements"></a>Annunci di aprile 2021
 
-Questa pagina fornisce gli annunci per Microsoft Partner Center per aprile 2021.
+Questa pagina fornisce gli annunci per Microsoft Partner Center aprile 2021.
 
-## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>Conformità: aggiornamento dell'API di convalida dell'indirizzo del cliente CSP in corso di validità a giugno; Funzionalità di test ora disponibile
+## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>Idoneità: aggiornamento dell'API di convalida dell'indirizzo del cliente CSP in corso di giugno; Funzionalità di test ora disponibile
 
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-04-30
+- Data: 30/04/2021
 - Preparazione
 
 ### <a name="summary"></a>Riepilogo
 
-Per consentire a partner e clienti di eseguire la propria attività in base alla fiducia, invitiamo i partner a testare le modifiche apportate all'API Convalida indirizzo per tutti i paesi di tutto il mondo.
+Per aiutare partner e clienti a eseguire la propria attività in base alla fiducia, invitiamo i partner a testare le modifiche apportate all'API Convalida indirizzo per tutti i paesi in tutto il mondo.
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
-Partner di fatturazione diretta CSP e provider indiretti che creano nuovi o aggiornano i dettagli dell'indirizzo dei clienti esistenti
+Partner con fatturazione diretta CSP e provider indiretti che creano nuovi o aggiornano i dettagli dell'indirizzo dei clienti esistenti
 
 ### <a name="details"></a>Dettagli
 
-Microsoft Microsoft si impegna a fornire un metodo conforme, sicuro e sicuro per la convalida degli indirizzi dei clienti per la transazione delle sottoscrizioni dei clienti nel programma CSP. A partire dal 31 marzo 2021 sono state introdotte modifiche all'API Convalida indirizzo. I partner sono invitati a testare l'API prima del go-live alla fine di giugno 2021. 
+Microsoft Microsoft si impegna a fornire un metodo conforme, sicuro e sicuro per la convalida dell'indirizzo del cliente per la transazione delle sottoscrizioni dei clienti nel programma CSP. A partire dal 31 marzo 2021 sono state introdotte modifiche all'API Convalida indirizzo. Si invitano i partner a testare l'API prima del go-live alla fine di giugno 2021. 
 
-Si noti che queste modifiche influiscono solo sull'API Convalida indirizzo. Le API Crea cliente e Aggiorna profilo di fatturazione non sono interessate. Anche se l'indirizzo suggerito non deve attualmente essere usato con l'API Crea cliente, è altamente consigliato.
+Si noti che queste modifiche influiscono solo sull'API Convalida indirizzo. Le API Crea cliente e Aggiorna profilo di fatturazione non sono interessate. Anche se l'indirizzo suggerito non deve essere attualmente usato con l'API Crea cliente, è altamente consigliato.
 
 La risposta restituirà uno dei messaggi di stato seguenti:
 
 | Stato     | Descrizione |    Numero di indirizzi suggeriti restituiti |
 |-------|---------------|-------------------|
-|Shippable verificato | L'indirizzo viene verificato e può essere spedito. | Single |
-|Verified | L'indirizzo viene verificato. | Single |
-|Interazione richiesta | L'indirizzo suggerito è stato modificato in modo significativo e richiede la conferma dell'utente. | Single |
+|Shippable verificato | L'indirizzo è verificato e può essere spedito. | Single |
+|Verified | L'indirizzo è verificato. | Single |
+|Interazione obbligatoria | L'indirizzo suggerito è stato modificato in modo significativo e richiede la conferma dell'utente. | Single |
 |Via parziale | La via specificata nell'indirizzo è parziale e richiede altre informazioni. | Multiplo: massimo tre |
 |Locale parziale | I locali (numero di edificio, numero di suite e altri) sono parziali e necessitano di altre informazioni. | Multiplo: massimo tre |
-|Più elementi | Esistono più campi che sono parziali nell'indirizzo (potenzialmente includendo anche parziale strada e parziale locale). | Multiplo: massimo tre |
+|Più elementi | Sono presenti più campi parziali nell'indirizzo (potenzialmente includendo anche street partial e premises partial). | Multiplo: massimo tre |
 |nessuno | L'indirizzo non è corretto. | nessuno |
 |Non convalidato | Impossibile inviare l'indirizzo tramite il processo di convalida. | nessuno |
 
-I codici postali degli Stati Uniti restituiranno altre quattro cifre + trattino, ad esempio 12345-6789.
+I codici postali degli Stati Uniti restituiranno altre quattro cifre e un trattino, ad esempio 12345-6789.
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-- Per indicazioni più dettagliate, vedere la documentazione tecnica e le domande frequenti nella raccolta dedicata dei [partner.](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
-- Prepararsi a incorporare le modifiche usando l'API Partner Center e l'esperienza utente Web. 
-- Condividere l'ID tenant della sandbox con l'esperto in materia (Ali Kpiki) da includere nel test, in modo da poter iniziare la preparazione per l'aggiornamento. 
+- Per indicazioni più dettagliate, vedere la documentazione tecnica e le domande frequenti nella raccolta [di partner](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dedicata.
+- Preparare l'incorporazione delle modifiche usando l'API Partner Center e l'esperienza utente Web. 
+- Condividere l'ID tenant sandbox con l'esperto di materia (Ali Kaki) da includere nel volo di test, in modo da poter iniziare a prepararsi per l'aggiornamento. 
 - Se si usa la soluzione di un fornitore del pannello di controllo (CPV), rivolgersi a tale fornitore.
 
 ### <a name="questions"></a>Domande?
 
-Se è necessario supporto per le operazioni con Microsoft, contattare il gruppo yammer di supporto partner o aprire una richiesta [di servizio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Se è necessario supporto per le operazioni con Microsoft, contattare il gruppo Yammer di supporto partner o aprire una richiesta [di servizio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 _______________
-## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Nuova posizione per la Partner Center di Swagger dell'API
+## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Nuova posizione per la documentazione Partner Center'API Swagger
 
 ### <a name="categories"></a>Categorie
 
-- Data: 26/04/2021
+- Data: 2021-04-26
 - Funzionalità
 
 ### <a name="summary"></a>Riepilogo
 
-Partner Center dei documenti Swagger dell'API sono stati migrati dal sito della [documentazione di Swagger](https://apidocs.microsoft.com/services/partnercenter) precedente a un [nuovo sito della documentazione di Swagger.](https://docs.microsoft.com/rest/api/partner-center-rest/)
+Partner Center documenti Swagger dell'API sono stati migrati dal sito della documentazione [di Swagger](https://apidocs.microsoft.com/services/partnercenter) precedente a un [nuovo sito della documentazione di Swagger.](https://docs.microsoft.com/rest/api/partner-center-rest/)
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
-Partner con fatturazione diretta e provider indiretti che partecipano al programma Cloud Solution Provider (CSP) che usano le API Partner Center
+Partner di fatturazione diretta e provider indiretti che partecipano al programma Cloud Solution Provider (CSP) che usano le API Partner Center di fatturazione
 
 ### <a name="details"></a>Dettagli
 
-A partire dal 26 aprile 2021 la documentazione di Swagger dell'API Partner Center, incluso il contenuto dell'API Rest, si trova in un [nuovo sito.](https://docs.microsoft.com/rest/api/partner-center-rest/) Il sito precedente sarà inaccessibile dopo diverse settimane.
+A partire dal 26 aprile 2021 la documentazione di Swagger dell'API Partner Center, incluso il contenuto dell'API REST, si trova in [un nuovo sito](https://docs.microsoft.com/rest/api/partner-center-rest/). Il sito precedente sarà inaccessibile dopo diverse settimane.
 
 ### <a name="benefits"></a>Vantaggi
 
-La documentazione Partner Center'API Swagger fornirà una **funzione Try It.** Per usare questa funzione, è necessario disporre di un token di bearer, che è possibile generare seguendo i passaggi elencati in Partner Center [Authentication](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication).
+La Partner Center'API Swagger fornisce una **funzione Try It.** Per usare questa funzione, è necessario disporre di un bearer token, che è possibile generare seguendo i passaggi elencati in Autenticazione Partner Center [.](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication)
 
 ### <a name="next-steps"></a>Passaggi successivi
 
@@ -99,14 +99,14 @@ Condividere queste informazioni all'interno dell'organizzazione in modo che il t
 
 ### <a name="questions"></a>Domande?
 
-Per domande su queste offerte, controllare le community Yammer pertinenti.
+Per domande su queste offerte, vedere le community Yammer pertinenti.
 
 ________________
-## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Cloud Solution Provider criteri del periodo di restituzione software (CSP) e avviso di scadenza del collegamento di download
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Cloud Solution Provider criteri del periodo di restituzione del software CSP (Software Return Period) e avviso di scadenza del collegamento di download
 
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-04-21
+- Data: 21/04/2021
 - Funzionalità
 
 ### <a name="summary"></a>Riepilogo
@@ -119,43 +119,43 @@ Partner che eselezionano offerte di sottoscrizione software o software perpetue 
 
 ### <a name="details"></a>Dettagli
 
-Si notino le notifiche importanti seguenti relative agli acquisti di sottoscrizioni software e software perpetue tramite Partner Center:
+Si notino le notifiche importanti seguenti relative agli acquisti perpetui di sottoscrizioni software e software tramite Partner Center:
 
-#### <a name="software-return-period-policy"></a>Criteri del periodo di restituzione software
+#### <a name="software-return-period-policy"></a>Criteri del periodo di restituzione del software
 
 A partire dal 1° giugno 2021, il periodo di restituzione delle offerte software in CSP, come indicato nel Contratto Microsoft Partner (MPA), cambierà da 60 giorni dalla data dell'ordine a 30 giorni dalla data dell'ordine.
 
 Dopo l'invio di un ordine per un'offerta software, i partner avranno 30 giorni dalla data dell'ordine per inviare eventuali revisioni a tale ordine:
 
-- Qualsiasi licenza software perpetua restituita entro il periodo di restituzione di 30 giorni riceverà un credito completo del prezzo di acquisto a pagamento.
+- Qualsiasi licenza software perpetua restituita entro il periodo di restituzione di 30 giorni riceverà un credito completo del prezzo di acquisto pagato.
 
-- Qualsiasi prodotto di sottoscrizione software restituito entro il periodo di restituzione di 30 giorni riceverà un credito prorato del prezzo di acquisto a pagamento.
+- Qualsiasi prodotto di sottoscrizione software restituito entro il periodo di restituzione di 30 giorni riceverà un credito ripagato del prezzo di acquisto pagato.
 
-Questo messaggio è un follow-up delle comunicazioni di posta elettronica inviate il dicembre 2020 e aprile 2021 a tutti i partner CSP relativi al periodo di restituzione e ad altri aggiornamenti all'MPA. Fare riferimento a tali avvisi per informazioni dettagliate complete sulle modifiche che interessano l'MPA.
+Questo messaggio è un follow-up delle comunicazioni di posta elettronica inviate a dicembre 2020 e aprile 2021 a tutti i partner CSP relativi al periodo di restituzione e ad altri aggiornamenti al Programma Microsoft Partner. Fare riferimento a queste comunicazioni per informazioni dettagliate sulle modifiche che interessano il MPA.
 
-#### <a name="software-download-link-expiry"></a>Scadenza del collegamento di download software
+#### <a name="software-download-link-expiry"></a>Scadenza del collegamento per il download del software
 
-Dal 3 giugno 2021, i collegamenti per il download software per gli acquisti perpetui di prodotti di sottoscrizione software e software tramite Partner Center avranno una data di scadenza di cinque giorni dal download iniziale. Il periodo di scadenza verrà applicato a tutti gli acquisti prima del 3 giugno 2021, nonché a partire dal 3 giugno 2021 o dopo il 3 giugno 2021.
+A partire dal 3 giugno 2021, i collegamenti di download software per gli acquisti di prodotti in sottoscrizione software e software perpetui tramite Partner Center avranno una data di scadenza di cinque giorni dal download iniziale. Il periodo di scadenza verrà applicato a tutti gli acquisti prima del 3 giugno 2021, nonché il 3 giugno 2021 o dopo il 3 giugno 2021.
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-Esaminare il [periodo di restituzione del CSP](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf)e le domande frequenti sulla scadenza del collegamento di download e informare tutti i team appropriati all'interno dell'organizzazione di queste modifiche:
+Esaminare il [periodo di restituzione CSP e scaricare le](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf)domande frequenti sulla scadenza del collegamento e informare tutti i team appropriati all'interno dell'organizzazione delle modifiche seguenti:
 
 ### <a name="questions"></a>Domande?
 
-Per domande su queste offerte, vedere le community Yammer pertinenti.
+Per domande su queste offerte, controllare le community Yammer pertinenti.
 
 ________________
-## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Programma Open Licensing: transizione dei rivenditori al programma Cloud Solution Provider (CSP)
+## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Programma open licensing: transizione dei rivenditori al programma Cloud Solution Provider (CSP)
 
 ### <a name="categories"></a>Categorie
 
-- Data: 19/04/2021
-- Far crescere il business
+- Data: 2021-04-19
+- Far crescere l'azienda
 
 ### <a name="summary"></a>Riepilogo
 
-Questa comunicazione illustra in dettaglio come preparare le modifiche che saranno presto disponibili per il programma Open Licensing.
+Questa comunicazione illustra in dettaglio come prepararsi per le modifiche che saranno presto disponibili nel programma Open Licensing.
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
@@ -163,91 +163,91 @@ Partner CSP e Open License
 
 ### <a name="details"></a>Dettagli
 
-Nel 2020 [Microsoft](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) ha annunciato che le licenze software perpetue saranno ampiamente disponibili per partner e clienti tramite il programma Cloud Solution Provider (CSP). La prima attività cardine è stata raggiunta nel gennaio 2021, quando sono diventate disponibili offerte software perpetue commerciali. L'attività cardine successiva si verifica a luglio 2021, quando le [offerte del](https://aka.ms/openlicensepublicsector) settore pubblico diventano disponibili. È [](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) stato anche comunicato che a partire dal 1° gennaio 2022 non è possibile effettuare nuovi acquisti o rinnovi di licenze software di Software Assurance o Servizi online tramite il programma Open License.
+Nel 2020 [Microsoft](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) ha annunciato che le licenze software perpetue saranno disponibili a livello generale per partner e clienti tramite il programma Cloud Solution Provider (CSP). La prima attività cardine è stata raggiunta nel gennaio 2021, quando sono disponibili offerte software perpetue commerciali. L'attività cardine successiva si avrà a luglio 2021, quando saranno disponibili [le](https://aka.ms/openlicensepublicsector) offerte del settore pubblico. È [](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) stato anche comunicato che a partire dal 1° gennaio 2022 non è possibile effettuare nuovi acquisti o rinnovi di licenze software di Software Assurance o Servizi online tramite il programma Open License.
 
-La transizione del software perpetuo al programma CSP nella nuova esperienza commerciale aiuterà i partner a espandere le opportunità di offrire soluzioni e servizi gestiti diversi. In questo modo si accelera anche la transizione dei clienti al cloud.  Per garantire una transizione senza problemi sia per i partner che per i clienti, abbiamo apportato queste modifiche e materiali per accelerare questa trasformazione digitale:
+La transizione del software perpetuo al programma CSP nella nuova esperienza commerciale aiuterà i partner ad espandere le opportunità di offrire soluzioni e servizi gestiti diversi. Ciò accelererà anche la transizione dei clienti al cloud.  Per garantire una transizione senza problemi sia per i partner che per i clienti, sono stati apportati questi adattamenti e materiali per accelerare questa trasformazione digitale:
 
 #### <a name="april-2021"></a>Aprile 2021
 
-[Ora disponibile:](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/)Materiali di transizione open license-to-CSP per rivenditori
+[Ora disponibile:](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/)Materiali di transizione Open License-to-CSP per rivenditori
 
 #### <a name="july-2021"></a>Luglio 2021
 
 ##### <a name="csp"></a>CSP
 
-- 1 luglio: licenze software perpetue disponibili per i clienti del settore pubblico
+- 1° luglio: licenze software perpetue disponibili per i clienti del settore pubblico
 
-- 7 luglio: Visual Studio licenze software perpetue pro e get Genuine Windows Agreement disponibili per tutti i segmenti
+- 7 luglio: Visual Studio licenze software perpetue pro e get genuine del Contratto Windows disponibili per tutti i segmenti
 
 ##### <a name="open-value"></a>Apri valore
 
-- 1° luglio: SKU aggiuntivi disponibili nel programma Open Value per l'istruzione e l'organizzazione no profit, offrendo offerte simili al programma Open License
+- 1 luglio: SKU aggiuntivi disponibili nel programma Open Value per la formazione e le organizzazioni no profit, offrendo offerte simili al programma Open License
 
 ##### <a name="open-license"></a>Open License
 
-- 1° luglio: Microsoft non avvierà più nuove offerte nel programma Open License.
+- 1 luglio: Microsoft non avvierà più nuove offerte nel programma Open License.
 
 #### <a name="january-2022"></a>Gennaio 2022
 
-- 1° gennaio: non è possibile effettuare nuovi acquisti o rinnovi tramite il programma Open License
+- 1 gennaio: non è possibile effettuare nuovi acquisti o rinnovi tramite il programma Open License
 
 ### <a name="next-steps"></a>Passaggi successivi
 
 #### <a name="csp-indirect-providers"></a>Provider indiretti CSP
 
-Usare i prossimi mesi per aiutare i rivenditori open license a orientarsi nel programma CSP partecipando agli eventi della community dei partner e usando i materiali di transizione Open License-to-CSP per i rivenditori:
+Usare i prossimi mesi per aiutare i rivenditori Open License a orientarsi nel programma CSP partecipando agli eventi della community dei partner e usando i materiali di transizione Open License-to-CSP per i rivenditori:
 
-- Aprire materiali di transizione da licenza a CSP per rivenditori: presentazione panoramica personalizzabile, modello di posta elettronica, guida all'onboarding dei rivenditori indiretti [CSP](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/)e altro ancora per facilitare l'adozione dei rivenditori su larga scala.
+- Open [License-to-CSP transition](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/)materials for resellers (Materiale per la transizione da licenza a CSP aperta per i rivenditori): presentazione panoramica personalizzabile, modello di posta elettronica, guida all'onboarding dei rivenditori indiretti CSP e altro ancora per facilitare l'adozione per i rivenditori su larga scala.
 
-- [Eventi della community dei partner CSP](https://globalpbocomm.eventbuilder.com/GlobalCSP) ospitati da Microsoft Business Operations.  Partecipare alle varie sessioni per apprendere le nozioni di base su CSP (Nozioni fondamentali su CSP) o rimanere aggiornati e porre domande relative al software in CSP (sessioni Q&A).
+- [Eventi della community dei partner CSP](https://globalpbocomm.eventbuilder.com/GlobalCSP) ospitati da Microsoft Business Operations.  Partecipare alle varie sessioni per apprendere le nozioni di base su CSP (Nozioni fondamentali su CSP) o rimanere aggiornati e porre domande relative al software in CSP (Q&A Sessions).
 
 - (Presto disponibili) Sessione di formazione incentrata sui rivenditori indiretti CSP ospitata da Microsoft Business Operations.
 
-#### <a name="open-license-resellers"></a>Rivenditori open license
+#### <a name="open-license-resellers"></a>Rivenditori Open License
 
-- Se l'organizzazione non è attualmente registrato nel programma CSP, contattare il server di distribuzione per informazioni su come iniziare. Connettersi con un provider indiretto [qui](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
+- Se l'organizzazione non è attualmente iscritta al programma CSP, contattare il distributore per informazioni su come iniziare. Connettersi con un provider indiretto [qui](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
 
-- Se l'organizzazione è già registrato nel programma CSP, vedere altre informazioni sul software perpetuo in CSP [qui](https://partner.microsoft.com/resources/collection/software-in-csp).
+- Se l'organizzazione è già iscritta al programma CSP, vedere qui per altre informazioni sul software perpetuo in [CSP.](https://partner.microsoft.com/resources/collection/software-in-csp)
 
 ### <a name="questions"></a>Domande?
 
 Per altre domande su queste offerte, vedere le community Yammer pertinenti.
 
 ________________
-## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Now live: Global promo readiness guide (Guida all'idoneità alla promo globale)
+## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Now live: Global promo readiness guide (Guida all'idoneità per le promo globali)
 
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-04-16
+- Data: 16/04/2021
 - Funzionalità
 
 ### <a name="summary"></a>Riepilogo
 
-Launch Readiness ha pubblicato una nuova [guida all'idoneità alla](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) promo globale nella raccolta di risorse Di conformità alle operazioni. Questa guida offre una visualizzazione consolidata di tutte le [promozioni globali attive.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
+Launch Readiness ha pubblicato una nuova [guida all'idoneità per la promo globale](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) nella raccolta di risorse per l'idoneità per le operazioni. Questa guida offre una visualizzazione consolidata di tutte le [promozioni globali attive.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
-Tutti i partner CSP (Volume Licensing), Dynamics Price List (DPL) e Cloud Solution Provider (CSP)
+Tutti i partner per contratti multilicenza(VL), Dynamics Price List (DPL) e Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Dettagli
 
-I partner Microsoft hanno condiviso con Microsoft la necessità di fornire una visualizzazione consolidata di tutte le promozioni globali con i dettagli di supporto. Questa guida consolidata era utile per usare le promozioni con la certezza che tutte le informazioni disponibili saranno immediatamente accessibili in una posizione centrale e comoda.
+I partner Microsoft hanno condiviso con Microsoft la necessità di fornire una visualizzazione consolidata di tutte le promozioni globali con i dettagli di supporto. Questa guida consolidata è stata utile per usare le promozioni con la certezza che tutte le informazioni disponibili saranno immediatamente accessibili in una posizione centrale e comoda.
 
 A partire da aprile 2021, Microsoft aggiornerà questa guida su base mensile e sarà disponibile in una raccolta dedicata global promo readiness guide nella raccolta di risorse per l'idoneità per le operazioni.
 
 I collegamenti a questa guida saranno inclusi anche nelle raccolte seguenti:
 
-- [Avviare la raccolta di](https://partner.microsoft.com/resources/collection/csp-announcement-calendar#/)calendari, che offre una visualizzazione centralizzata delle modifiche e dei lanci imminenti.
+- [Avviare la raccolta di](https://partner.microsoft.com/resources/collection/csp-announcement-calendar#/)calendari , che offre una visualizzazione centralizzata delle modifiche e dei lanci imminenti.
 
 - [Raccolte della](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/)community, che contengono materiali di supporto per le chiamate mensili dei partner, evidenziando le modifiche imminenti e gli argomenti di interesse operativo.
 
 - [Newsletter dei partner,](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)ad esempio aggiornamento mensile CSP
 
-Come promemoria mensile, verrà pubblicato anche un annuncio Partner Center con ogni nuovo problema della guida all'idoneità per la promo globale.
+Come promemoria mensile, verrà pubblicato anche un annuncio Partner Center con ogni nuovo problema della guida all'idoneità per le promo globali.
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-All'inizio di ogni mese, è possibile trovare la guida più recente all'idoneità per le [promo](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) globali nella raccolta di risorse [per l'idoneità per le operazioni](https://partner.microsoft.com/resources).
+All'inizio di ogni mese, è possibile trovare la guida più recente all'idoneità per le [promo](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) globali nella raccolta di risorse per [l'idoneità per le operazioni](https://partner.microsoft.com/resources).
 
 Condividere queste informazioni con i contatti appropriati delle organizzazioni e determinare l'utile della guida tramite la pagina "Questa pagina è stata utile?" alla fine di ogni pagina.
 
@@ -261,7 +261,7 @@ ________________
 
 ### <a name="summary"></a>Riepilogo
 
-Le risorse della community CSP sono disponibili su richiesta e aggiornate ogni mese per tenerti informati e preparati per il cambiamento nel programma CSP.
+Le risorse della community CSP sono disponibili su richiesta e aggiornate ogni mese per tenerti aggiornato e preparato per il cambiamento nel programma CSP.
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
@@ -269,7 +269,7 @@ Partner con fatturazione diretta CSP e provider indiretti
 
 ### <a name="details"></a>Dettagli
 
-Questo mese, le risorse includono gli argomenti chiave seguenti:
+Questo mese le risorse includono gli argomenti chiave seguenti:
 
 - [Aggiornamento all'evoluzione del programma CSP e modifiche al programma Open License](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
 
@@ -297,22 +297,23 @@ Le domande sulla chiamata&della community sono disponibili per rispondere alle d
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-Esaminare le risorse della community e registrarsi per la chiamata alla community Q&A.
+Esaminare le risorse della community e registrarsi per la community Call Q&A.
 
 Per assicurarsi di ottenere il massimo dal Q della community&A, esaminare il contenuto della community su richiesta e inviare le domande fino a 48 ore prima della chiamata.
 
 ### <a name="questions"></a>Domande?
 
-Il Q mensile CSP Community Call&A è il posto migliore per le domande correlate alle modifiche nel programma CSP. Ogni mese, esaminare il materiale e inviare le domande in anticipo per poter dedicare la sessione agli argomenti più importanti per l'utente.
+Il Q mensile CSP Community Call&A è il posto migliore per le domande correlate alle modifiche nel programma CSP. Ogni mese, esaminare il materiale e inviare le domande in anticipo in modo da poter dedicare la sessione agli argomenti più importanti.
 
 Per altre informazioni, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Promemoria: Deprecazione della qualifica GET il 4 maggio 2021
+## <a name="final-reminder-deprecation-of-get-qualification-on-may-6-2021"></a><a name="4"></a>Promemoria finale: Deprecazione della qualifica GET il 6 maggio 2021
 
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-04-09
+- Data: 2021-05-04
+
 - Funzionalità
 
 ### <a name="impacted-audience"></a>Destinatari interessati
@@ -321,13 +322,13 @@ Partner che vendono offerte academic, no profit e Government Community Cloud (GC
 
 ### <a name="details"></a>Dettagli
 
-Questo annuncio è un follow-up dei miglioramenti Partner Center [rilasciati nel mese di dicembre.](https://docs.microsoft.com/partner-center/announcements/2020-december#1) Come parte di tale versione, sono state distribuite nuove API di qualificazione GET e POST e, di conseguenza, la qualificazione GET esistente verrà ritirata entro il 4 maggio 2021. A questo punto, sarà necessario passare all'uso delle nuove API post-Partner Center per l'acquisto delle offerte Education e della nuova API di qualificazione GET per acquistare offerte non profit e GCC prequalificate.
+Questo annuncio è un follow-up dei miglioramenti Partner Center [rilasciati nel mese di dicembre.](https://docs.microsoft.com/partner-center/announcements/2020-december#1) Come parte di tale versione, sono state distribuite nuove API di qualificazione GET e POST e, di conseguenza, la qualificazione GET esistente verrà ritirata il 6 maggio **2021.** A questo punto, sarà necessario passare all'uso della nuova API post Partner Center. Le nuove API POST consentiranno di acquistare offerte education, mentre le nuove API GET consentiranno di acquistare offerte di tipo Noprofit e GCC pre-qualificate.
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-- Eseguire l'aggiornamento alle nuove API per una transizione corretta e corretta.
+- **Eseguire l'aggiornamento alle nuove API per** una transizione corretta e corretta.
 
-- Esaminare le nuove modifiche Partner Center'API e la Guida alle risorse per l'idoneità per le operazioni: Partner Center miglioramenti del processo di convalida dei clienti [di Education.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Esaminare le nuove modifiche Partner Center'API** e la Guida alle risorse per l'idoneità per le operazioni: Partner Center del processo di convalida dei clienti [di Education.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
 - Condividere queste informazioni con i team appropriati all'interno dell'organizzazione e con i rivenditori per prepararsi a queste modifiche.
 
@@ -337,8 +338,12 @@ Per eventuali domande relative a questa notifica, contattare il [supporto Partne
 
 ### <a name="change-log"></a>Registro delle modifiche
 
-- Aprile: promemoria della deprecazione imminente della qualificazione GET 
+- 4 maggio 2021: promemoria finale dell'imminente deprecazione della qualificazione GET
+
+- 9 aprile 2021: promemoria della deprecazione imminente della qualificazione GET 
+
 - Febbraio: aggiornamento delle sequenze temporali per la deprecazione delle qualificazioni GET & PUT
+
 - Gennaio: promemoria delle prossime deprecazioni delle qualificazioni GET & PUT
 
 ________________
@@ -361,7 +366,7 @@ Partner che eseguono transazioni tramite il programma CSP
 
 A partire da maggio 2021, Microsoft sta introducendo un nuovo formato per la nuova fattura pdf commerciale nel programma CSP per visualizzare i dettagli di fatturazione in base ai dettagli del prodotto anziché alla descrizione dello SKU. Con questo nuovo aggiornamento, le voci verranno aggregate per tipo di prodotto, visualizzando ogni prodotto in una singola riga.
 
-I partner noteranno che questa modifica sarà effettiva nella fattura di maggio per il periodo di fatturazione compreso tra il 1° aprile 2021 e il 30 aprile 2021. Le offerte interessate sono Microsoft Azure, sottoscrizioni di Azure (piano di Azure) e Marketplace.
+I partner noteranno questa modifica in vigore nella fattura di maggio per il periodo di fatturazione compreso tra il 1° aprile 2021 e il 30 aprile 2021. Le offerte interessate sono Microsoft Azure, sottoscrizioni di Azure (piano di Azure) e Marketplace.
 
 Tutte le richieste di fatturazione del credito effettuate dopo l'aggiornamento del formato della fattura verranno generate nel nuovo formato.
 
@@ -427,7 +432,7 @@ Microsoft si impegna a fornire un metodo di convalida dei clienti conforme e sic
 
 I partner che soddisfano i criteri doranno inviare l'ID registrazione aziendale di un cliente (noto anche come INN dell'organizzazione del cliente) e il numero di telefono al successivo aggiornamento o creazione di una sottoscrizione per tale cliente. I partner possono anche immettere un secondo nome facoltativo per il cliente.
 
-Si noti che quando si aggiunge l'ID registrazione aziendale è necessario usare l'ID fiscale aziendale e non l'ID personale del cliente.
+Si noti che quando si aggiunge l'ID registrazione aziendale, è necessario usare l'ID fiscale aziendale e non l'ID personale del cliente.
 
 I partner che svolgono attività con clienti nuovi o esistenti nei paesi seguenti hanno già eseguito l'onboarding di una versione precedente a novembre 2020.
 
@@ -443,7 +448,7 @@ I partner che svolgono attività con clienti nuovi o esistenti nei paesi seguent
 - Ucraina
 - Uzbekistan
 
-I partner con i clienti del resto del mondo avranno la possibilità a fine marzo 2021 di immettere l'ID di registrazione dell'azienda, il numero di telefono e il secondo nome per i clienti come dettagli facoltativi.
+I partner con i clienti del resto del mondo avranno la possibilità di immettere l'ID di registrazione dell'azienda, il numero di telefono e il secondo nome per i clienti come dettagli facoltativi.
 
 ### <a name="next-steps"></a>Passaggi successivi
 
@@ -454,7 +459,7 @@ I partner con i clienti del resto del mondo avranno la possibilità a fine marzo
 
 ### <a name="questions"></a>Domande?
 
-Per eventuali domande relative all'ID di registrazione dell'azienda (detto anche INN o TIN), contattare l'assistente fiscale o l'ufficio fiscale locale. Microsoft non è in grado di fornire indicazioni sulle imposte.
+Contattare l'assistente fiscale o l'ufficio fiscale locale per eventuali domande relative all'ID di registrazione della società (detto anche INN o TIN). Microsoft non è in grado di fornire indicazioni sulle imposte.
 
 Se è necessario supporto per le operazioni con Microsoft, aprire una richiesta [di servizio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 

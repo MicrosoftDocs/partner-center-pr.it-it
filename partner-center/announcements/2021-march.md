@@ -1,6 +1,6 @@
 ---
 title: Annunci di marzo 2021
-description: Annunci di marzo 2021 per Microsoft Partner Center incluse nuove funzionalità, promozioni, offerte, mercati o modifiche alle offerte esistenti.
+description: Annunci di marzo 2021 per Microsoft Partner Center nuove funzionalità, promozioni, offerte, mercati o modifiche alle offerte esistenti.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,22 +9,22 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 17b8082b8a42050892ff434010952d5f91a39431
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 3d91eb26f98005b92a48c6f242ea4439e42cde05
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328067"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702876"
 ---
 # <a name="march-2021-announcements"></a>Annunci di marzo 2021
 
 Questa pagina fornisce gli annunci per Microsoft Partner Center marzo 2021.
 
-## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>Idoneità: le modifiche all'API di convalida dell'indirizzo del cliente Cloud Solution Provider (CSP) saranno disponibili a giugno; Funzionalità di test ora disponibile
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>Idoneità: le modifiche apportate all'API di convalida dell'indirizzo del cliente Cloud Solution Provider (CSP) saranno disponibili a giugno; Funzionalità di test ora disponibile
 
 ### <a name="categories"></a>Categorie
 
-- Data: 30/04/2021
+- Data: 30/03/2021
 - Preparazione
 
 ### <a name="summary"></a>Riepilogo
@@ -33,11 +33,11 @@ Per aiutare partner e clienti a eseguire la propria attività in base alla fiduc
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
-I partner con fatturazione diretta CSP e i provider indiretti che creano nuovi o aggiornano i dettagli degli indirizzi dei clienti esistenti.
+I partner con fatturazione diretta CSP e i provider indiretti che creano nuovi clienti o aggiornano i dettagli degli indirizzi dei clienti esistenti.
 
 ### <a name="details"></a>Dettagli
 
-Microsoft Microsoft si impegna a fornire un metodo conforme, sicuro e sicuro per la convalida degli indirizzi dei clienti per la transazione delle sottoscrizioni dei clienti nel programma CSP. A partire dal 31 marzo 2021 sono state introdotte modifiche all'API Di convalida indirizzo che sono state invitate dai partner a eseguire il test, prima di pubblicare le modifiche nel mese di giugno 2021.
+Microsoft Microsoft si impegna a fornire un metodo conforme, sicuro e sicuro per la convalida dell'indirizzo del cliente per la transazione delle sottoscrizioni dei clienti nel programma CSP. A partire dal 31 marzo 2021 sono state introdotte modifiche all'API Convalida indirizzo che sono state invitate dai partner per il test, prima di essere introdotte con le modifiche di giugno 2021.
 
 Le modifiche influiscono solo sull'API Convalida indirizzo. Le API Crea cliente e Aggiorna profilo di fatturazione non sono influenzate.
 
@@ -45,7 +45,7 @@ La risposta restituirà uno dei messaggi di stato seguenti:
 
 | Stato     | Descrizione |    Numero di indirizzi suggeriti restituiti |
 |-------|---------------|-------------------|
-|Spedizione verificata | L'indirizzo è verificato e può essere spedito. | Single |
+|Shippable verificato | L'indirizzo è verificato e può essere spedito. | Single |
 |Verified | L'indirizzo è verificato. | Single |
 |Interazione obbligatoria | L'indirizzo suggerito è stato modificato in modo significativo e richiede la conferma dell'utente. | Single |
 |Via parziale | La via specificata nell'indirizzo è parziale e richiede altre informazioni. | Multiplo: massimo tre |
@@ -156,9 +156,9 @@ Amministratori delegati che accedono a Exchange tramite Partner Center
 
 ### <a name="details"></a>Dettagli
 
-A partire dal 27 aprile 2021, i partner che passano a Exchange tramite Partner Center verranno reindirizzati alla nuova EAC.
+A partire dal 27 aprile 2021, i partner che passano a Exchange tramite Partner Center verranno reindirizzati alla nuova interfaccia di amministrazione di Exchange.
 
-Questa nuova esperienza è attualmente disponibile come anteprima e gli amministratori possono attivare questa esperienza selezionando l'interruttore nell'angolo superiore destro dell'interfaccia di amministrazione di Exchange classica. È anche possibile passare al nuovo EAC selezionando il banner "Prova adesso" visualizzato in tutte le pagine.
+Questa nuova esperienza è attualmente disponibile come anteprima e gli amministratori possono attivare questa esperienza selezionando l'interruttore nell'angolo in alto a destra nell'interfaccia di amministrazione di Exchange classica. È anche possibile passare al nuovo EAC selezionando il banner "Prova adesso" visualizzato in tutte le pagine.
 
 I vantaggi della nuova interfaccia di amministrazione di Exchange includono:
 
@@ -173,13 +173,13 @@ Per facilitare l'esplorazione della nuova esperienza, i video sono disponibili n
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-- Vedere le [risorse relative a questo argomento,](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/)in cui è possibile visualizzare screenshot della nuova esperienza.
+- Vedere le [risorse relative a questo argomento,](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/)in cui è possibile visualizzare gli screenshot della nuova esperienza.
 
 - Condividere queste informazioni con le parti interessate appropriate nella propria organizzazione. 
 
 ### <a name="questions"></a>Domande?
 
-Per eventuali domande su queste modifiche, controllare le community Yammer pertinenti.
+Per eventuali domande su queste modifiche, vedere le community Yammer pertinenti.
 
 ________________
 ## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft Operations: Introduzione al calendario di lancio del prodotto
@@ -199,11 +199,11 @@ Partner Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Dettagli
 
-Microsoft si impegna a migliorare continuamente le esperienze dei partner. Microsoft ha ricevuto commenti e suggerimenti sul fatto che si è ricevuto un numero troppo grande di comunicazioni da Microsoft, inclusi annunci duplicati per i lanci di prodotti.
+Microsoft si impegna a migliorare continuamente le esperienze dei partner. Microsoft ha ricevuto commenti e suggerimenti sulla ricezione di un numero troppo grande di comunicazioni da Microsoft, inclusi annunci duplicati per i lanci di prodotti.
 
 In risposta ai commenti e suggerimenti, Microsoft ha semplificato l'esperienza di preparazione per i lanci di prodotti per le offerte nuove ed esistenti.
 
-È ora disponibile una singola visualizzazione mensile dei lanci dei prodotti, pubblicata nella raccolta di risorse per l'idoneità per le operazioni. Questa visualizzazione [mensile del calendario](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) di lancio del prodotto sostituirà le singole comunicazioni di lancio del prodotto nella raccolta di risorse conformità alle operazioni e Partner Center annunci.
+È ora disponibile una singola visualizzazione mensile dei lanci dei prodotti, pubblicata nella raccolta di risorse per l'idoneità alle operazioni. Questa visualizzazione [mensile del calendario di](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) lancio del prodotto sostituirà le singole comunicazioni di lancio del prodotto nella raccolta di risorse conformità alle operazioni e Partner Center annunci.
 
 È anche possibile accedere a questo [calendario di lancio del prodotto](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) dalle raccolte della [community,](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [dalle visualizzazioni del](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)calendario e dalle newsletter [CSP.](https://partner.microsoft.com/resources/collection/csp-monthly-update#/) Quando si pubblica il calendario di lancio del prodotto di ogni mese, verrà visualizzato un annuncio nella raccolta di risorse conformità alle operazioni.
 
@@ -267,9 +267,9 @@ Microsoft si impegna a fornire un metodo di convalida dei clienti conforme e sic
     - Emirati Arabi Uniti
     - Venezuela
 
-I partner che soddisfano i criteri doranno inviare l'ID di registrazione aziendale  di un cliente (noto anche come **INN** dell'organizzazione del cliente) e il numero di telefono quando si esegue l'onboarder di nuovi clienti o si modificano i dettagli dei clienti esistenti.  I partner possono anche immettere un **secondo nome** facoltativo per il cliente.
+I partner che soddisfano i criteri doranno inviare l'ID registrazione aziendale di  un cliente (noto anche come **INN** dell'organizzazione del cliente) e il numero di telefono quando si esegue l'onboarder di nuovi clienti o si modificano i dettagli dei clienti esistenti.  I partner possono anche immettere un **secondo nome** facoltativo per il cliente.
 
-Si noti che quando si aggiunge l'ID registrazione aziendale, è necessario usare l'ID fiscale aziendale e non l'ID personale del cliente.
+Si noti che quando si aggiunge l'ID registrazione aziendale, è necessario usare l'ID imposta aziendale e non l'ID personale del cliente.
 
 I partner che svolgono attività con clienti nuovi o esistenti nei paesi seguenti hanno già eseguito l'onboarding di una versione precedente a novembre 2020.
 
@@ -289,7 +289,7 @@ I partner con clienti nel resto del mondo avranno la possibilità il 25 marzo 20
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-- Per indicazioni più dettagliate, vedere la documentazione tecnica e le domande frequenti nella raccolta dedicata dei [partner.](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
+- Per indicazioni più dettagliate, vedere la documentazione tecnica e le domande frequenti nella raccolta [partner](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dedicata.
 
 - Prepararsi a incorporare le modifiche usando l'API Partner Center e l'esperienza utente Web. Saranno disponibili API e SDK a scopo di test.
 
@@ -327,7 +327,7 @@ Queste modifiche si applicano solo al prodotto precedente. Altri prodotti non ha
 
 ### <a name="next-steps-and-resources"></a>Passaggi successivi e risorse
 
-- I partner che esezionano software perpetuo devono scaricare il listino prezzi del software perpetuo più recente.
+- I partner che eselezionano software perpetuo devono scaricare il listino prezzi del software perpetuo più recente.
 - Per un [mapping descrittivo](https://docs.microsoft.com/azure/marketplace/commercial-marketplace-co-sell-countries) dell'abbreviazione di due lettere ai paesi, vedere i codici paese dell'area geografica.
 ________________
 ## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a> Versione dell'SDK .NET Standard (v1.17.0)
@@ -540,7 +540,7 @@ A partire da marzo 2021, i partner Microsoft Partner Network (MPN) e i rivendito
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
-Partner MPN e rivenditori indiretti CSP (non applicabili ai partner con fatturazione diretta CSP)
+Partner MPN e rivenditori indiretti CSP (non applicabili ai partner CSP con fatturazione diretta)
 
 ### <a name="details"></a>Dettagli
 
@@ -577,7 +577,7 @@ Distributori commerciali e rivenditori gestiti che vendono tramite il programma 
 
 ### <a name="details"></a>Dettagli
 
-A settembre 2020, [](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) Microsoft ha annunciato una serie di passaggi nel percorso di trasformazione digitale per espandere le opportunità per i partner nel programma CSP, inclusa la disponibilità di software locale per i partner. Queste modifiche consentono ai partner di far crescere il proprio business ed estendere la loro portata sfruttando le licenze software in CSP, posizionandole per il successo nel mondo cloud-first di oggi. Consentono inoltre ai clienti di passare al cloud e offrono ai partner la flessibilità necessaria per gli ambienti cloud ibridi dei clienti.
+A settembre 2020, [](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) Microsoft ha annunciato una serie di passaggi nel percorso di trasformazione digitale per espandere le opportunità per i partner nel programma CSP, inclusa la disponibilità di software locale per i partner. Queste modifiche consentono ai partner di far crescere il proprio business ed estendere la propria portata sfruttando le licenze software in CSP, posizionandole per il successo nel mondo cloud-first di oggi. Consentono inoltre ai clienti di passare al cloud e offrono ai partner la flessibilità necessaria per gli ambienti cloud ibridi dei clienti.
 
 In continuazione di questa trasformazione digitale, vengono annunciate le modifiche seguenti:
 
@@ -643,7 +643,7 @@ ________________
 
 ### <a name="summary"></a>Riepilogo
 
-A partire dal 29 marzo 2021, inizierà a sperimentare funzionalità OCP (One Commercial Partner) limitate per il go-to-market (GTM). Si consiglia di eseguire la migrazione delle soluzioni al marketplace commerciale in Partner Center.
+Dal 29 marzo 2021 si inizierà a sperimentare funzionalità di go-to-market OCP (One Commercial Partner) limitate. Si consiglia di eseguire la migrazione delle soluzioni al marketplace commerciale in Partner Center.
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
@@ -653,9 +653,9 @@ Co-selling delle organizzazioni con soluzioni in OCP GTM
 
 A dicembre 2020 è iniziato il percorso dallo strumento Microsoft OCP GTM al marketplace commerciale Microsoft in Partner Center. Questa transizione espande le funzionalità del marketplace commerciale in cui è possibile presentare le soluzioni a milioni di clienti, condividere opportunità bidirezionali con altri venditori Microsoft e partner e vendere insieme soluzioni innovative.
 
-L'attività cardine successiva della transizione avrà luogo il 29 marzo 2021. Questo è il momento in cui si inizierà a sperimentare funzionalità OCP GTM limitate, con alcuni campi che diventano di sola lettura. Se attualmente si sta co-selling con soluzioni in OCP GTM, si consiglia di eseguire la migrazione delle soluzioni nel marketplace commerciale per sfruttarne le funzionalità e semplificare l'esperienza di pubblicazione. 
+L'attività cardine successiva della transizione avrà luogo il 29 marzo 2021. Questo è il momento in cui si inizieranno a sperimentare funzionalità OCP GTM limitate, con alcuni campi che diventano di sola lettura. Se attualmente si sta lavorando alla co-selling con soluzioni in OCP GTM, si consiglia di eseguire la migrazione delle soluzioni nel marketplace commerciale per sfruttarne le funzionalità e semplificare l'esperienza di pubblicazione. 
 
-Il passaggio al marketplace commerciale rende Partner Center destinazione principale per l'esperienza di pubblicazione di co-selling. È qui che è possibile continuare a far crescere il business connettendo le soluzioni con i clienti condivisi tramite gli stessi canali e le esperienze all'interno del prodotto usate per i prodotti Microsoft. [Altre informazioni sul marketplace commerciale.](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)
+Il passaggio al marketplace commerciale rende Partner Center destinazione principale per l'esperienza di pubblicazione di co-selling. È qui che è possibile continuare a far crescere il business collegando le soluzioni con i clienti condivisi tramite gli stessi canali e le esperienze all'interno del prodotto usate per i prodotti Microsoft. [Altre informazioni sul marketplace commerciale.](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)
 
 ### <a name="next-steps"></a>Passaggi successivi
 
@@ -685,7 +685,7 @@ A partire dal 10 marzo 2021, siamo entusiasti di annunciare la disponibilità de
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-Sono disponibili diverse risorse che introducono la nuova esperienza commerciale di Azure e forniscono informazioni aggiuntive. Per domande frequenti, mazzi, video e altro ancora, vedere [CSP Program Updates Resource Gallery](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/).
+Sono disponibili diverse risorse che introducono la nuova esperienza commerciale di Azure e forniscono informazioni aggiuntive. Le domande frequenti, i mazzi, i video e altro ancora sono disponibili in [CSP Program Updates Resource Gallery](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/).
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Partner Center codice di licenza software e download fulfillment
@@ -705,7 +705,7 @@ Tutti Cloud Solution Provider partner (CSP) che esezionano ordini software di so
 
 ### <a name="details"></a>Dettagli
 
-In risposta ai commenti e suggerimenti dei partner, viene ripristinata la capacità di adempimento Partner Center ottenere codici software e di licenza per gli ordini software per sottoscrizione perpetua e server. Verrà ripristinato allo stato precedente prima di essere rimosso il 19 gennaio 2021. Vedere [l'annuncio](2020-september.md#17).
+In risposta ai commenti e suggerimenti dei partner, viene ripristinata la capacità Partner Center di adempimento per ottenere software e chiavi di licenza per gli ordini software di sottoscrizione perpetua e server. Verrà ripristinato allo stato precedente prima di essere rimosso il 19 gennaio 2021. Vedere [l'annuncio](2020-september.md#17).
 
 Si noti che i codici di licenza software e i collegamenti di download sono risorse di proprietà intellettuale preziose e molto ricercate. Se utenti malintenzionati ne entrassero in possesso, i limiti di attivazione previsti potrebbero venire raggiunti rapidamente, con conseguenti ripercussioni negative sull'esperienza di utilizzo per clienti e partner.
 
@@ -718,7 +718,7 @@ Per istruzioni sull'utilizzo e indicazioni importanti sulla distribuzione delle 
 
 ### <a name="questions"></a>Domande?
 
-Per altre domande su questa comunicazione, controllare le community Yammer pertinenti.
+Per altre domande su questa comunicazione, vedere le community Yammer pertinenti.
 
 ________________
 ## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Eseguire la migrazione delle trattative da Partner Sales Connect (PSC) a Partner Center
@@ -730,7 +730,7 @@ ________________
 
 ### <a name="summary"></a>Riepilogo
 
-Partner Sales Connect (PSC) passa all'accesso in sola lettura a partire dal 31 marzo 2021, quindi microsoft invita l'utente a iniziare la migrazione delle trattative da PSC a Partner Center.
+Partner Sales Connect (PSC) passa all'accesso in sola lettura a partire dal 31 marzo 2021, quindi è possibile iniziare la migrazione delle trattative da PSC a Partner Center.
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
@@ -743,7 +743,7 @@ Nell'ambito dell'impegno condiviso per la crescita, il **co-selling** con Micros
 **PSC** passa  all'accesso in sola lettura a partire dal **31 marzo 2021,** quindi è possibile iniziare il passaggio a Partner Center e accedere a questi miglioramenti delle funzionalità: 
 
 - **Routing più accurato** delle trattative che si condividono con Microsoft al venditore corretto, in base al tipo di assistenza necessaria.
-- **Convalida iniziale** dell'idoneità alle trattative per le soluzioni idonee per gli incentivi e per soddisfare i criteri del programma ISV Connect, semplificando il processo di approvazione e l'attestazione della prova finale di esecuzione (POE).
+- **Convalida iniziale** dell'idoneità alle trattative per le soluzioni idonee agli incentivi e per soddisfare i criteri del programma ISV Connect, semplificando il processo di approvazione e l'attestazione poE (Final Proof of Execution).
 - **Esperienza utente trasparente per** gestire tutte le opportunità di co-selling e i lead qualificati per le vendite in un'unica posizione.
 
 Di recente sono state aggiunte anche nuove funzionalità in Partner Center per facilitare lo spostamento:
@@ -782,7 +782,7 @@ Tutti i partner che eseguono transazioni tramite il programma Cloud Solution Pro
 Il 1° aprile 2021 Microsoft lancierà i nuovi prodotti e le offerte seguenti:
 
 - Power BI Premium per utente
-- Espansione geografica e segmento USL di Customer Voice and Marketing USL
+- Espansione geografica e segmento usl di Customer Voice and Marketing USL
 
 **Power BI Premium per utente**
 
@@ -806,9 +806,9 @@ Si noti che il nome dell'offerta è leggermente diverso dall'anteprima del listi
 | Power BI Premium per utente Add-On per studenti | cf62d70d-5af5-422a-bda8-97936402ac8e | 
 | Power BI Premium per utente Add-On (prezzi del personale no profit) | 31c03289-47ab-4ab0-8df1-03742c127ac6 | 
 
-**Espansione geografica e segmento USL customer voice e marketing**
+**Espansione geografica e segmento usl di Customer Voice e Marketing USL**
 
-In seguito al lancio di dicembre 2020, le offerte di Dynamics 365 Customer Voice e Marketing USL sono state modificate per aggiungere nuovi paesi e altri SKU didattici e no profit.
+Come follow-up del lancio di dicembre 2020, le offerte di Dynamics 365 Customer Voice e Marketing USL sono state modificate per aggiungere nuovi paesi e altri SKU didattici e no profit.
 
 | Nome offerta | ID offerta |
 | ------ |----------- |
@@ -833,7 +833,7 @@ ________________
 
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-03-33
+- Data: 2021-03-03
 - Funzionalità
 
 ### <a name="summary"></a>Riepilogo
@@ -846,7 +846,7 @@ Tutti i partner che eseguono transazioni tramite il programma Cloud Solution Pro
 
 ### <a name="details"></a>Dettagli
 
-[Stampa universale](https://aka.ms/universalprint) è un Microsoft 365 di stampa che elimina la necessità di server di stampa locali e consente ai dispositivi Windows di stampare su stampanti registrate in Azure. Sarà disponibile per le transazioni a partire dal 1° marzo 2021.
+[Stampa universale](https://aka.ms/universalprint) è un Microsoft 365 di stampa che elimina la necessità di server di stampa locali e consente ai dispositivi Windows di stampare su stampanti registrate in Azure. Sarà disponibile per la transazione a partire dal 1° marzo 2021.
 
 I dipendenti traggono vantaggio dalla stampa senza driver, dall'individuazione semplificata della stampante basata sulla posizione e da un'esperienza di stampa intuitiva senza curva di apprendimento. I dispositivi aggiunti a Azure Active Directory (Azure AD) usano credenziali Azure AD esistenti per la stampa in modo sicuro. Gli amministratori gestiscono la stampa portale di Azure e possono connettere facilmente le stampanti con il supporto nativo per Stampa universale. Stampa universale possono essere distribuiti con stampanti non compatibili usando connettore Stampa universale software.
 

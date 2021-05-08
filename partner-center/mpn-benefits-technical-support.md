@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8f99028fbb26003c0f18a85c5a6d7e416fecd60
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 9aa451a3267cee70282aaad5e018e2f377edb82f
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172201"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630118"
 ---
 # <a name="technical-support-benefits"></a>Vantaggi del supporto tecnico
 
@@ -32,14 +32,14 @@ Questo articolo è per i membri di Microsoft Partner Network Partner (MPN) che d
 
 Per visualizzare e attivare i vantaggi tecnici in Partner Center:
 
-1. Accedere con l'account MPN associato al dashboard Partner Center [.](https://partner.microsoft.com/dashboard) 
+1. Accedere con l'account MPN associato al [dashboard Partner Center.](https://partner.microsoft.com/dashboard) 
     > [!NOTE]
     > Se l'account è associato solo a CSP e non è associato a MPN, verrà visualizzato il messaggio di errore "Non si è autorizzati per questa azione". È necessario disporre di un account MPN associato.
 
 2. Espandere Vantaggi nel menu di spostamento a sinistra e **selezionare Vantaggi tecnici.** Viene visualizzata la pagina Vantaggi tecnici con un elenco dei vantaggi del supporto tecnico disponibili per le offerte di iscrizione Gold, Silver o Microsoft Action Pack'abbonamento. 
 
     > [!NOTE]
-    >Se non si dispone di offerte di appartenenza attive, verrà visualizzato il messaggio "Sembra che non si abbia ancora alcun vantaggio". Se l'azienda ha offerte di appartenenza attive ma non è possibile vederle, è possibile che l'accesso sia stato eseguito con l'account errato. Per controllare l'account, selezionare l'icona **Account** in alto a destra nella pagina e selezionare Accedi con un altro **account** (se necessario).
+    >Se non si dispone di offerte di appartenenza attive, verrà visualizzato il messaggio "Sembra che non si abbia ancora alcun vantaggio". Se l'azienda ha offerte di appartenenza attive ma non è possibile vederle, è possibile che l'accesso sia stato eseguito con l'account errato. Per controllare l'account, selezionare l'icona **Account** in alto a destra nella pagina e selezionare Accedi con un **altro account** (se necessario).
 
 3. Per iniziare a usare un supporto tecnico Microsoft o un supporto tecnico per la firma, è necessario attivare il vantaggio. L'ID di accesso e l'ID contratto verranno visualizzati al termine dell'attivazione. 
 
@@ -81,11 +81,11 @@ Selezionare [Supporto per le](https://support.serviceshub.microsoft.com/supportf
 
 È necessario usare Support for Business e avviare il processo per creare un evento imprevisto di supporto locale. Non viene creata una richiesta di supporto perché il processo non viene completato. Le informazioni necessarie vengono visualizzate nel passaggio 2.
 
-Passaggio 1 Selezionare Windows 10 e immettere informazioni fittizie
+Passaggio 1 Aprire [Supporto per le aziende,](https://support.serviceshub.microsoft.com/supportforbusiness/create) selezionare Windows 10 e immettere informazioni fittizie
 
-Passaggio 2 Aggiungere il contratto di supporto usando l'ID di accesso e l'ID contratto. Per il supporto locale è possibile visualizzare il contratto di supporto per i partner, che include la data di inizio, la data di fine e gli eventi imprevisti rimanenti. Espandere il nodo "Si desidera visualizzare i piani di supporto non disponibili?" per visualizzare le informazioni sulla firma del partner. Il supporto per i partner verrà visualizzato qui solo se i contratti sono scaduti, non sono presenti eventi imprevisti rimanenti o se è stato selezionato un prodotto locale precedente (vedere [aka.ms/n-1](https://aka.ms/n-1) per i prodotti di supporto)
+Passaggio 2 Se il contratto di supporto è già associato all'account, verranno visualizzati gli eventi imprevisti del supporto. Per il supporto locale dovrebbe essere visualizzato il contratto di supporto per i partner (a meno che non sia più valido) e questo include la data di inizio, la data di fine e gli eventi imprevisti rimanenti. Se è necessario associare il contratto di supporto, espandere "Do you need to purchase or add more support plans" (È necessario acquistare o aggiungere altri piani di supporto) e fare clic sul pulsante Aggiungi contratto per immettere l'ID di accesso e l'ID contratto. Espandere il nodo "Si desidera visualizzare i piani di supporto non disponibili?" per visualizzare le informazioni sulla firma del partner. Il supporto per i partner verrà visualizzato qui solo se i contratti sono scaduti, non sono [](https://aka.ms/n-1) rimasti eventi imprevisti o se è stato selezionato un prodotto locale precedente (vedere aka.ms/n-1 per i prodotti di supporto)
 
-**Per informazioni più dettagliate, vedere [Quanti eventi imprevisti del supporto per i](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3) partner sono rimasti?** 
+**Per informazioni più dettagliate, vedere [Quanti eventi imprevisti](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3) del supporto partner sono rimasti?** 
 
 ## <a name="signature-cloud-support-cloud-only"></a>Signature Cloud Support (solo cloud)
 
@@ -107,7 +107,7 @@ Quando si usa il portale di Azure, si usa Signature Cloud Support selezionando G
 
 Verrà visualizzato il messaggio precedente "L'ID di accesso è già associato..." errore se si associa più volte un contratto di supporto a un account quando si usa il portale di Azure. Vedere gli scenari seguenti:
 
-1. Se si hanno vantaggi tecnici gold o silver e in precedenza è stato aggiunto il contratto per il supporto locale, usare il portale di Azure e aggiungere il contratto una seconda volta allo stesso account. È necessario associare il contratto di supporto a un account una sola volta e quindi non è necessario collegare i vantaggi del supporto in Azure. Se si usano i vantaggi del supporto collegamento quando il contratto è già associato all'account, verrà visualizzato l'errore e verrà ignorato. Usare + Nuovo Richiesta di supporto e creare un evento imprevisto per il supporto come di consueto. Verrà visualizzato il piano di supporto.
+1. Se si hanno vantaggi tecnici Gold o Silver e in precedenza è stato aggiunto il contratto per il supporto locale, usare il portale di Azure e aggiungere il contratto una seconda volta allo stesso account. È necessario associare il contratto di supporto a un account una sola volta e quindi non è necessario collegare i vantaggi del supporto in Azure. Se si usano i vantaggi del supporto collegamento quando il contratto è già associato all'account, verrà visualizzato l'errore e verrà ignorato. Usare + Nuovo Richiesta di supporto e creare un evento imprevisto per il supporto come di consueto. Verrà visualizzato il piano di supporto.
 
 2. Se il contratto di supporto è scaduto o la firma 10pack (competenza ibrida Gold) o la firma 5pack (competenza ibrida Silver) non hanno eventi imprevisti rimanenti, il contratto di supporto verrà nascosto perché non è valido. Se si collegano nuovamente i vantaggi del supporto tecnico, verrà visualizzato l'errore perché il contratto è già associato. È necessario acquistare un nuovo piano di supporto per ottenere supporto tecnico di Azure eventi imprevisti. 
 

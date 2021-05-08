@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 05/05/2021
-ms.openlocfilehash: 1aad6d1384e7043f13ad5f023d06f5e7fa1301e5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.date: 05/07/2021
+ms.openlocfilehash: 0263522eed42dbbdd11dc43f6aed490ce61b261d
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702774"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630135"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -27,11 +27,11 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 |Funzionalità|[Promemoria finale: Deprecazione della qualificazione GET il 6 maggio 2021](2021-may.md#4)|4 maggio|
 |Offerte/mercati|[Correzioni al listino prezzi dei servizi basati su licenza del 1° maggio 2021](2021-may.md#3)|4 maggio|
 |Funzionalità|[Annuncio della qualificazione dell'entità di proprietà dello stato](2021-may.md#2)|4 maggio|
-| Offerte/Business Applications|[Visualizzare le offerte e i lanci di prodotti di questo mese](2021-may.md#1)|3 maggio|
+| Offerte/Business Applications|[Visualizzare le offerte e i lanci di prodotti di questo mese](2021-may.md#1)|3 maggio, aggiornamento 7 maggio|
 |**Categoria**|**Annunci di aprile 2021**|**Annunciato**|
 |Preparazione|[Aggiornamento dell'API di convalida dell'indirizzo del cliente CSP in corso di giugno. Funzionalità di test ora disponibile](2021-april.md#10)|30 aprile|
 |Funzionalità|[Nuova posizione per la Partner Center di Swagger dell'API](2021-april.md#9)|26 aprile|
-|Funzionalità|[Cloud Solution Provider criteri del periodo di restituzione del software (CSP) e avviso di scadenza del collegamento per il download](2021-april.md#8)|21 aprile|
+|Funzionalità|[Cloud Solution Provider criteri del periodo di restituzione del software CSP (Software Return Period) e avviso di scadenza del collegamento di download](2021-april.md#8)|21 aprile|
 |Far crescere il business|[Programma Open Licensing: transizione dei rivenditori al programma Cloud Solution Provider (CSP)](2021-april.md#7)|19 aprile|
 |Funzionalità|[Now live: Global promo readiness guide (Guida all'idoneità alla promo globale)](2021-april.md#6)|16 aprile|
 |Community: inviti e promemoria|[Aggiornamento e promemoria della community di april Cloud Solution Provider (CSP)](2021-april.md#5)|16 aprile|

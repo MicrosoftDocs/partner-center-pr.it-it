@@ -9,18 +9,18 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 2c44581b1c2d7fcf2e4a10de9194a8c7288791a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: ae39190e47b48a69e103da6d899b11c224a56d22
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172269"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686144"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Fornire tipi diversi di supporto ai clienti
 
 **Si applica a**
 
--  Centro per i partner per Microsoft Cloud for US Government
+- Centro per i partner per Microsoft Cloud for US Government
 
 **Ruoli appropriati**
 
@@ -28,9 +28,9 @@ ms.locfileid: "108172269"
 
 ## <a name="microsoft-partner-support-guidance"></a>Linee guida per il supporto dei partner Microsoft
 
-I partner che eservitino transazioni nel modello CSP sono l'advisor attendibile per i clienti e, se si è un partner con fatturazione diretta, sono proprietari della relazione end-to-end. I rivenditori indiretti devono collaborare con i propri provider indiretti per supportare i clienti. Questa relazione include il supporto dei clienti in caso di domande o problemi. Offrendo supporto ai clienti, si ha la possibilità di ottenere altre informazioni su di essi e sulla loro attività. In questo modo è possibile identificare nuovi servizi e soluzioni che sono alla base del valore.
+I partner che eservitino transazioni nel modello CSP sono l'advisor attendibile per i clienti e, se si è un partner con fatturazione diretta, sono proprietari della relazione end-to-end. I rivenditori indiretti devono collaborare con i propri provider indiretti per supportare i clienti. Questa relazione include il supporto dei clienti in caso di domande o problemi. Fornendo supporto ai clienti, si ha la possibilità di ottenere altre informazioni su di essi e sulla loro attività. In questo modo è possibile identificare nuovi servizi e soluzioni che sono alla base del valore.
 
-Per soddisfare i requisiti di supporto, è possibile rivendere il supporto da un'altra società, esternalizzare tutta o parte della struttura di supporto e/o configurare una struttura per fornire supporto direttamente. È possibile addebitare un addebito per tutto o parte del supporto fornito ai clienti. Assicurarsi di indicare ai clienti i tipi di supporto che verranno forniti, le ore di servizio, il metodo di contatto e i prezzi (se si addebita il supporto).
+Per soddisfare il requisito di supporto, è possibile rivendere il supporto da un'altra società, esternalizzare tutta o parte della struttura di supporto e/o configurare una struttura per fornire supporto direttamente. È possibile addebitare l'importo per tutto o parte del supporto fornito ai clienti. Assicurarsi di indicare ai clienti i tipi di supporto che verranno forniti, le ore di servizio, il metodo di contatto e i prezzi (se si addebita il supporto).
 
 I clienti CSP non possono creare ticket di supporto. È necessario contattare l'utente per ottenere supporto. I partner CSP devono ricevere richieste di supporto in ingresso dai clienti, diagnosticare i problemi al meglio delle proprie capacità e quindi risolvere i problemi che si verificano nell'ambito dei limiti di supporto di base. Se non è possibile risolvere un problema, è possibile inoltrare i problemi a Microsoft tramite i veicoli di supporto seguenti:
 

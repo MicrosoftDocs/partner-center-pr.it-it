@@ -1,6 +1,6 @@
 ---
 title: Entrare in contatto con i clienti
-description: Se si è un rivenditore indiretto nel programma CSP, questo articolo consentirà di connettersi con i clienti nuovi ed esistenti.
+description: Se si è un rivenditore indiretto nel programma CSP, questo articolo consente di connettersi con i clienti nuovi ed esistenti.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,17 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 5ad30c83381e03cf26304092a7e291495cf4342c
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: adea177bd190fa3fd22b9ba60b5643b9d466ee4d
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492654"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686195"
 ---
 # <a name="connect-with-customers"></a>Entra in contatto con i clienti
 
 
- **Ruoli appropriati**
+**Ruoli appropriati**
 
 - Amministratore globale
 - Agente amministratore
@@ -59,7 +59,7 @@ Per gestire sottoscrizioni e servizi per conto di un cliente, devi intrattenere 
 
 Per ottenere le autorizzazioni di amministratore per gestire le sottoscrizioni e i servizi di un nuovo cliente **e** consentire al provider indiretto di inviare nuovi ordini per suo conto, puoi invitare il cliente a stabilire una relazione come rivenditore con te e con il provider contemporaneamente.
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Invita un cliente a stabilire una relazione del rivenditore con l'utente e il provider indiretto allo stesso tempo
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Invitare un cliente a stabilire contemporaneamente una relazione come rivenditore con l'utente e il provider indiretto
 
 1. Selezionare **Provider indiretti** dal menu **Centro per i partner**.
 

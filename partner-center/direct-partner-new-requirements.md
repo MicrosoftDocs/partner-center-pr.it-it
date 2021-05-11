@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 04/15/2021
-ms.openlocfilehash: 2f6fd9ef3fdcc88627b2eb2d257a837d28e097ee
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 9fd4156c25cbdbdfa86cabf9f3bb805d95481e17
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528581"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740319"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisiti necessari per l'iscrizione come partner con fatturazione diretta CSP
 
@@ -33,7 +33,7 @@ Come partner con fatturazione diretta, sei titolare della relazione completa con
 |**ID MPN**   |Appartenenza a Microsoft Partner Network e ID MPN attivi per la località in cui si vuole vendere.   |
 |**Verifica dell'autenticità**   |L'autorità di accettare e firmare contratti legali per conto della tua organizzazione.|
 |**Supporto tecnico**   |La possibilità di fornire il primo livello di supporto per il prodotto cloud ai clienti. <br/>Un piano di supporto Microsoft, tra Supporto avanzato per i partner (ASfP, Advanced Support for Partners) o Supporto tecnico Premier per i partner (PSfP, Premier Support for Partners), in base alle tue esigenze. [Confronta i piani di supporto](https://partner.microsoft.com/support/partnersupport).<br/>IMPORTANTE: prima di acquistare un piano di supporto, verrai sottoposto a una verifica della tua situazione creditizia. Se la verifica ha esito positivo, riceverai un'e-mail. |
-|**Requisito dei ricavi**|Ricavi annuali del programma Cloud Solution Provider di almeno 300K USD nei dodici mesi precedenti come rivenditore indiretto. Verificare che l'organizzazione ritieni il requisito dei ricavi in [Partner Center Analytics.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) I partner possono esaminare i dodici mesi finali di ricavi Partner Center.<br/>Le vendite relative ai 300K USD di ricavi ottenuti negli ultimi dodici mesi sono soggette a verifica da parte di Microsoft e può essere chiesto di fornire informazioni aggiuntive. Il requisito dei 300K USD di ricavi viene calcolato in base ai ricavi nel cloud e non include il software con licenza perpetua.|
+|**Requisito dei ricavi**|Ricavi annuali del programma Cloud Solution Provider di almeno 300K USD nei dodici mesi precedenti come rivenditore indiretto. Verificare che l'organizzazione ritieni il requisito [di ricavi in Partner Center Analytics.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) I partner possono esaminare i dodici mesi finali di ricavi Partner Center.<br/>Le vendite relative ai 300K USD di ricavi ottenuti negli ultimi dodici mesi sono soggette a verifica da parte di Microsoft e può essere chiesto di fornire informazioni aggiuntive. Il requisito dei 300K USD di ricavi viene calcolato in base ai ricavi nel cloud e non include il software con licenza perpetua.|
 |**Requisito CSP**|Deve eseguire transazioni come rivenditore indiretto per un minimo di 12 mesi.| 
 |**Crediti** |L'infrastruttura organizzativa per la gestione della fatturazione e del provisioning dei clienti.|
 |**Consiglio**|             |
@@ -61,4 +61,4 @@ Se decidi di effettuare la transizione da un'attività di rivenditore con fattur
  
 - [Altre informazioni su come diventare rivenditore indiretto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [Nuovo standard di prestazioni per i requisiti dei partner con fatturazione diretta in CSP](https://partner.microsoft.comresources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
+- [Nuovo standard di prestazioni per i requisiti dei partner con fatturazione diretta in CSP](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)

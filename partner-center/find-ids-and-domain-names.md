@@ -9,14 +9,14 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172252"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740285"
 ---
-# <a name="locate-important-ids-for-a-user"></a>Individuare gli ID importanti per un utente
+# <a name="locate-important-ids-for-a-user"></a>Individuare GLI ID importanti per un utente
 
 **Ruoli appropriati**
 
@@ -26,16 +26,16 @@ Questo articolo descrive come usare il portale di Azure [per](https://portal.azu
 
 - ID Microsoft Azure Active Directory tenant (Azure AD) dell'organizzazione o della società dell'utente
 
-- Nome di dominio primario dell'organizzazione o della società associata al tenant Azure AD locale
+- Nome di dominio primario dell'organizzazione o della società associata al tenant Azure AD
 
 - ID oggetto utente
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Trovare l'ID Microsoft Azure AD tenant e il nome di dominio primario
 
-Seguire questa procedura per individuare l'ID tenant Azure AD o il nome di dominio primario all'interno del portale di Azure. Se si desidera trovare un ID tenant a livello di codice, vedere [Trovare l'ID tenant con PowerShell](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)o l'interfaccia della riga di comando.
+Seguire questa procedura per individuare l'ID tenant Azure AD o il nome di dominio primario all'interno del portale di Azure. Se si desidera trovare un ID tenant a livello di codice, vedere Trovare l'ID tenant con PowerShell o l'interfaccia della [riga di comando.](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell)
 
 > [!NOTE]
-> L'ID tenant può essere chiamato nomi diversi in applicazioni o risorse diverse. Ad esempio, l'ID tenant può essere indicato come ID directory, tenant Azure Active Directory (Azure AD), ID Microsoft o per determinati report, anche *tenantguid*.
+> L'ID tenant può essere chiamato nomi diversi in applicazioni o risorse diverse. Ad esempio, l'ID tenant può essere denominato ID directory, tenant Azure Active Directory (Azure AD), ID Microsoft o per determinati report, anche *tenantguid*.
 
 1. Accedere al [portale di Azure](https://portal.azure.com/).
 
@@ -43,15 +43,15 @@ Seguire questa procedura per individuare l'ID tenant Azure AD o il nome di domin
 
    :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Mostra portale di Azure l'opzione Azure Active Directory dal menu.":::
 
-3. Viene Azure Active Directory **pagina Panoramica.** Per trovare l'ID tenant Azure AD o il nome di dominio primario, cercare il campo **ID tenant** e il **campo Dominio** primario. Questi campi vengono visualizzati nella sezione Informazioni sul tenant.
+3. Verrà Azure Active Directory **pagina Panoramica.** Per trovare l Azure AD'ID tenant o il nome di dominio primario, cercare il campo **ID tenant** e il **campo Dominio** primario. Questi campi vengono visualizzati nella sezione Informazioni sul tenant.
 
-   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Visualizza la pagina Panoramica con due campi evidenziati, l'ID tenant e il nome di dominio primario.":::
+   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Mostra la pagina Panoramica con due campi evidenziati, l'ID tenant e il nome di dominio primario.":::
 
-4. È possibile trovare l'ID tenant nel portale di Azure in altri modi. Selezionare **Azure Active Directory** dal menu. Individuare quindi la **sezione Gestisci** nel menu e selezionare **Proprietà**.
+4. È possibile trovare l'ID tenant nella portale di Azure in altri modi. Selezionare **Azure Active Directory** dal menu. Individuare quindi la **sezione Gestisci** nel menu e selezionare **Proprietà.**
 
-   La pagina Proprietà visualizza anche l'ID tenant associato dell'utente.
+   Nella pagina Proprietà viene visualizzato anche l'ID tenant associato dell'utente.
 
-   :::image type="content" source="images/id/3-find-id-azure-portal-aad-properties-tenant-id-partial.png" alt-text="Mostra la pagina Proprietà con il campo ID tenant evidenziato.":::
+   :::image type="content" source="images/id/3-find-id-azure-portal-aad-properties-tenant-id-partial.png" alt-text="Visualizza la pagina Proprietà con il campo ID tenant evidenziato.":::
 
 ## <a name="find-the-user-object-id"></a>Trovare l'ID oggetto utente
 
@@ -67,11 +67,11 @@ La semplice ricerca del nome di dominio e dell'ID tenant potrebbe non essere sem
 
 4. Nella pagina Utenti digitare il nome dell'utente nella casella di ricerca.
 
-      :::image type="content" source="images/id/5-find-id-azure-portal-aad-all-users-search.png" alt-text="Mostra la pagina Utenti con la casella di ricerca per cercare un utente specifico.":::
+      :::image type="content" source="images/id/5-find-id-azure-portal-aad-all-users-search.png" alt-text="Visualizza la pagina Utenti con la casella di ricerca per cercare un utente specifico.":::
 
 5. Selezionare il nome dell'utente in cui viene visualizzato nell'elenco.  
 
-      :::image type="content" source="images/id/6-find-id-azure-portal-select-user-name-partial.png" alt-text="Mostra la pagina Utente che visualizza una riga per l'utente cercato.":::
+      :::image type="content" source="images/id/6-find-id-azure-portal-select-user-name-partial.png" alt-text="Visualizza la pagina Utente che visualizza una riga per l'utente cercato.":::
 
 6. Individuare la sezione Identità nella pagina Profilo dell'utente. Il campo ID oggetto viene visualizzato qui con l'ID oggetto univoco dell'utente.
 

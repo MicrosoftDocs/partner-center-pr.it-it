@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2021
-ms.openlocfilehash: 7e6082c645a4c5bcc3e0f766ffe7d82e73d46c15
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.openlocfilehash: 9d34a8e7674d178dc3217e36cee25b2d9ad6c36a
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280922"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740353"
 ---
 # <a name="december-2020-announcements"></a>Annunci di dicembre 2020
 
@@ -191,12 +191,12 @@ ______________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Modifiche apportate ai requisiti di onboarding dei clienti Cloud Solution Provider (CSP)
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-04-02
+- Data: 02/04/2021
 - Offerte/mercati
 
 ### <a name="summary"></a>Riepilogo
 
-Nell'ambito del nostro impegno per aiutare i partner e i clienti a svolgere la propria attività in base alla fiducia, Microsoft richiederà ulteriori informazioni sui clienti, a partire dal 25 marzo 2021.
+Nell'ambito dell'impegno per aiutare partner e clienti a eseguire la propria attività in base alla fiducia, microsoft richiederà informazioni aggiuntive sui clienti a partire dal 25 marzo 2021.
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
@@ -204,7 +204,7 @@ I provider indiretti e i partner con fatturazione diretta CSP con clienti nuovi 
 
 ### <a name="details"></a>Dettagli
 
-Microsoft si impegna a fornire un metodo di convalida dei clienti conforme e sicuro per la vendita di sottoscrizioni cliente nel programma CSP. Il 25 marzo 2021 verranno introdotti i miglioramenti apportati all'interfaccia utente e alle API del centro per i partner che influiranno sui partner che soddisfano entrambi i criteri seguenti:
+Microsoft si impegna a fornire un metodo di convalida dei clienti conforme e sicuro per la vendita di sottoscrizioni cliente nel programma CSP. Il 25 marzo 2021 verranno introdotti miglioramenti all'API Partner Center e all'interfaccia utente che influiranno sui partner che soddisfano entrambi i criteri seguenti:
 
 1. Il partner ha una relazione di fatturazione diretta con Microsoft (ovvero, è un partner con fatturazione diretta o un provider indiretto).
 
@@ -224,9 +224,9 @@ Microsoft si impegna a fornire un metodo di convalida dei clienti conforme e sic
     - Emirati Arabi Uniti
     - Venezuela
 
-I partner che soddisfano i criteri dovranno inviare l'ID registrazione della società del cliente (noto anche come Locanda dell'organizzazione del cliente) e il numero di telefono al successivo aggiornamento o creazione di una sottoscrizione per quel cliente. I partner possono anche immettere un secondo nome facoltativo per il cliente.
+I partner che soddisfano i criteri doranno inviare l'ID registrazione aziendale di un cliente (noto anche come INN dell'organizzazione del cliente) e il numero di telefono al successivo aggiornamento o creazione di una sottoscrizione per tale cliente. I partner possono anche immettere un secondo nome facoltativo per il cliente.
 
-Si noti che quando si aggiunge l'ID registrazione aziendale, è necessario usare l'ID dell'imposta aziendale e non l'ID personale del cliente.
+Si noti che quando si aggiunge l'ID registrazione aziendale, è necessario usare l'ID imposta aziendale e non l'ID personale del cliente.
 
 I partner che svolgono attività con clienti nuovi o esistenti nei paesi seguenti hanno già eseguito l'onboarding di una versione precedente a novembre 2020.
 
@@ -242,7 +242,7 @@ I partner che svolgono attività con clienti nuovi o esistenti nei paesi seguent
 - Ucraina
 - Uzbekistan
 
-I partner con clienti nel resto del mondo avranno la possibilità alla fine del 2021 marzo di immettere l'ID registrazione aziendale, il numero di telefono e il secondo nome per i clienti come dettagli facoltativi.
+I partner con clienti nel resto del mondo avranno la possibilità di immettere l'ID di registrazione della società, il numero di telefono e il secondo nome per i clienti come dettagli facoltativi.
 
 ### <a name="next-steps"></a>Passaggi successivi
 
@@ -253,9 +253,9 @@ I partner con clienti nel resto del mondo avranno la possibilità alla fine del 
 
 ### <a name="questions"></a>Domande?
 
-Se sono presenti domande correlate all'ID registrazione della società (noto anche come INN o TIN), contattare il consulente fiscale o l'ufficio fiscale locale. Microsoft non è in grado di fornire indicazioni sulle imposte.
+Contattare l'assistente fiscale o l'ufficio fiscale locale per eventuali domande relative all'ID di registrazione della società (detto anche INN o TIN). Microsoft non è in grado di fornire indicazioni sulle imposte.
 
-Se è necessario supporto per le operazioni con Microsoft, aprire una [richiesta di servizio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Se è necessario supporto per le operazioni con Microsoft, aprire una richiesta [di servizio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ### <a name="change-log"></a>Registro delle modifiche:
 
@@ -264,8 +264,8 @@ Se è necessario supporto per le operazioni con Microsoft, aprire una [richiesta
 Aggiornamenti del 2 aprile:
 
 - Data di avvio specificata
-- Il titolo per Organization INN è stato aggiornato all'ID registrazione aziendale
-- Nota aggiunta per fornire chiarimenti per l'ID registrazione aziendale
+- Il titolo dell'INN dell'organizzazione è stato aggiornato all'ID registrazione aziendale
+- Aggiunta di una nota per fornire chiarimenti per l'ID registrazione aziendale
 
 ______________
 
@@ -287,7 +287,7 @@ Tutti i partner CSP
 ### <a name="details"></a>Dettagli
 
 >[!NOTE]
->A causa del feedback dei partner, la funzionalità di evasione del centro per i partner è stata ripristinare per ottenere il software e i codici di licenza per gli ordini di software di abbonamento perpetui e server. Verrà ripristinato lo stato precedente prima di essere rimosso il 19 gennaio 2021. Per ulteriori informazioni, vedere l' [annuncio di marzo 2021](./2021-march.md#4).
+>In base ai commenti e suggerimenti dei partner, microsoft sta ripristinando la capacità di adempimento Partner Center ottenere codici software e di licenza per gli ordini software perpetui e di sottoscrizione server. Verrà ripristinato allo stato precedente prima di essere rimosso il 19 gennaio 2021. Per altre informazioni, vedere [l'annuncio di marzo 2021.](./2021-march.md#4)
 
 Si ricorda che, dal **19 gennaio 2021**, tutti i partner iscritti al programma CSP saranno in grado di vendere licenze software perpetue commerciali per la distribuzione locale tramite CSP. In questo modo, si fornirà ai clienti la flessibilità di gestione delle licenze necessaria come parte della trasformazione digitale.
 
@@ -295,7 +295,7 @@ Nella stessa data, si verificherà anche quanto segue:
 
 - Il listino prezzi del software con licenza perpetua CSP verrà ripubblicato nel Centro per i partner. È disponibile nella sezione **Software** della pagina [Vendi > Prezzi e offerte](https://partnercenter.microsoft.com/pcv/sales), che contiene altri prodotti e aree geografiche. Per i dettagli completi, vedere [qui](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- La funzionalità di evasione delle chiavi di licenza e software del centro per i partner verrà ritirata. vedere l' [annuncio](./2020-september.md#17) e i partner punteranno i clienti a usare l'interfaccia di amministrazione di Microsoft 365 esclusivamente per questo scopo in futuro. Ciò garantisce un'esperienza più sicura ed efficiente per i clienti stessi. Altre informazioni sul software dell'interfaccia di amministrazione di Microsoft 365 sono disponibili nelle sezioni relative a [informazioni generali](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [attività comuni](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) e [funzionalità di evasione dei codici di licenza](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- La funzionalità Partner Center di adempimento del software [](./2020-september.md#17) e della chiave di licenza di Partner Center verrà ritirata - vedere l'annuncio - e i partner includono i clienti a usare l'interfaccia di amministrazione di Microsoft 365 esclusivamente a questo scopo in futuro. Ciò garantisce un'esperienza più sicura ed efficiente per i clienti stessi. Altre informazioni sul software dell'interfaccia di amministrazione di Microsoft 365 sono disponibili nelle sezioni relative a [informazioni generali](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [attività comuni](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) e [funzionalità di evasione dei codici di licenza](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Software con licenza perpetua in CSP
 
@@ -321,7 +321,7 @@ Per altre domande su queste offerte, vedere le community Yammer pertinenti.
 
 - 17 dicembre 2020: pubblicazione originale 
 
-- 5 marzo 2021: aggiunta di una nota nella parte superiore per quanto riguarda il ripristino della funzionalità di evasione delle chiavi di licenza e del software del centro partner.
+- 5 marzo 2021: aggiunta una nota nella parte superiore relativa al ripristino della funzionalità di adempimento del software Partner Center e della chiave di licenza.
 
 ______________
 
@@ -419,15 +419,15 @@ Dall'8 dicembre 2020, i partner possono iniziare a scaricare la versione di [Mic
  
 **SelfServePolicies - aggiunta di nuove funzionalità**
 
-- [GetSelfServePolicies](/partner-center/develop/get-a-self-serve-policy-by-id.md)
-- [GetListOfSelfServicePolicies](/partner-center/develop/get-a-list-of-self-serve-policies.md)
-- [CreateSelfServePolicies](/partner-center/develop/create-a-self-serve-policy.md)
-- [UpdateSelfServePolicies](/partner-center/develop/update-a-self-serve-policy.md)
-- [DeleteSelfServePolicies](/partner-center/develop/delete-a-self-serve-policy.md)
+- [GetSelfServePolicies](/partner-center/develop/get-a-self-serve-policy-by-id)
+- [GetListOfSelfServicePolicies](/partner-center/develop/get-a-list-of-self-serve-policies)
+- [CreateSelfServePolicies](/partner-center/develop/create-a-self-serve-policy)
+- [UpdateSelfServePolicies](/partner-center/develop/update-a-self-serve-policy)
+- [DeleteSelfServePolicies](/partner-center/develop/delete-a-self-serve-policy)
  
 **Profilo aziendale clienti**
 
-- Aggiunto [OrganizationRegistrationNumber](/partner-center/develop/create-a-customer.md)
+- Aggiunto [OrganizationRegistrationNumber](/partner-center/develop/create-a-customer)
  
 **CustomerBillingProfile.DefaultAddress**
 

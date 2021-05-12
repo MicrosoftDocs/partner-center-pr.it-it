@@ -71,13 +71,13 @@
         - name: Visual Studio vantaggi
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
-        - name: Servizi tecnici di prevendita e distribuzione
+        - name: Prevendite tecniche e servizi di distribuzione
           href: technical-benefits.md
           displayname: 'TPD, presales, deployment, technical'
         - name: Vantaggi tecnici
           href: mpn-benefits-technical-support.md
           displayname: 'support, incidents, technical'
-        - name: Creare un logo con Logo Builder
+        - name: Creare un logo usando Logo Builder
           href: mpn-logo-builder.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
@@ -97,13 +97,13 @@
         - name: Informazioni sulle competenze
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Iscriversi come partner per l'apprendimento
+        - name: Registrarsi come partner di apprendimento
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Domande frequenti sulle competenze
           href: competencies-faq.md
           displayName: 'renew, mpn'
-        - name: Pagare le tariffe di competenza
+        - name: Pagare le spese di competenza
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Esenzione dalle competenze per lo sviluppo di app
@@ -119,45 +119,40 @@
           displayName: mpn
     - name: Diventare un partner Azure Expert MSP
       href: azure-expert-msp.md
-- name: Cloud Solution Provider (CSP)
+- name: Cloud Solution Provider programma (CSP)
   href: csp-overview.md
   displayName: csp
   items:
     - name: Iscriviti al programma CSP (Cloud Solution Provider)
       href: enrolling-in-the-csp-program.md
       displayName: 'indirect, reseller, csp'
-    - name: Contratto Microsoft Partner - CSP
-      href: microsoft-partner-agreement.md
-      displayName: 'csp, mpn'
-    - name: In che modo i provider indiretti possono aiutare i rivenditori ad adottare il programma MPA
-      href: mpa-indirect-provider-faq.md
-      displayName: 'csp, mpa, indirect, provider'
     - name: Requisiti dei partner diretti CSP
       href: direct-partner-new-requirements.md
-      displayName: 'indirect, reseller, csp'
-    - name: Contratti del cliente Microsoft (per area geografica e lingua)
-      href: agreements.md
-      displayName: 'region, MPA'
     - name: Accesso alla fatturazione diretta con restrizioni
       href: restricted-direct-bill-capabilities.md
-      displayName: 'indirect, reseller'
+      displayName: 'indirect, reseller, direct'
     - name: Passare da CSP Direct Bill Partner a CSP Indirect Reseller
       href: transition-direct-to-indirect.md
       displayName: csp
+- name: Contratti CSP
+  href: microsoft-partner-agreement.md
+  items:
+    - name: In che modo i provider indiretti possono aiutare i rivenditori ad adottare l'MPA
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: 'Contratti, listini prezzi e offerte del programma CSP'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: Informazioni sul numero ID registrazione
-      href: reg-number-id.md
+    - name: Contratti del cliente Microsoft (per area geografica e lingua)
+      href: agreements.md
+    - name: Come confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente
+      href: confirm-customer-agreement.md
     - name: Mercati locali e valute del programma CSP
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
     - name: Istruzioni per il consolidamento dei tenant per l'autorizzazione regionale per CSP
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Come confermare l'accettazione del contratto del cliente Microsoft da parte di un cliente
-      href: confirm-customer-agreement.md
-      displayName: 'csp, agreement'
     - name: Richiesta per la vendita nei cloud nazionali
       href: csp-national-clouds-overview.md
       items:
@@ -207,6 +202,8 @@
         - name: Aggiornare il profilo del partner
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: Informazioni sul numero ID registrazione
+          href: reg-number-id.md
         - name: Essere un fornitore di pannelli di controllo
           href: enroll-as-cpv.md
           displayName: csp
@@ -443,7 +440,7 @@
           displayName: 'region, regio'
         - name: Richiedere crediti del contratto di servizio a Microsoft
           href: request-credit.md
-        - name: Impatto dei criteri fiscali sui pagamenti
+        - name: Effetti dei criteri fiscali sui pagamenti
           href: tax-policies-affect-payout.md
     - name: Impostare un budget di spesa di Azure per i clienti
       href: set-an-azure-spending-budget-for-your-customers.md
@@ -510,7 +507,7 @@
         - name: Acquistare le offerte del marketplace
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
-        - name: Gestire le licenze nelle offerte del Marketplace
+        - name: Gestire le licenze nelle offerte del marketplace
           href: csp-commercial-marketplace-licensing.md
           displayName: csp
         - name: Offerte esclusive per il marketplace da fornitori di software indipendenti

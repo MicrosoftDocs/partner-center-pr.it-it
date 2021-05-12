@@ -1,7 +1,7 @@
 ---
 title: Utente - Gestione delle licenze
 titleSuffix: Microsoft Cloud Germany - Partner Center
-description: Informazioni su come e dove gestire Partner Center per partner, clienti e licenze Microsoft Cloud Germania, nonché per la reimpostazione delle password.
+description: Informazioni su come e dove gestire i Partner Center partner, clienti e licenze di Microsoft Cloud Germania, nonché le reimpostazioni delle password.
 ms.topic: article
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -10,23 +10,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 3889d0af73cfc683f1d45737a136a8e0c5a42656
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284520"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794973"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud Germania
 
-**Si applica a**
+**Si applica a**: Partner Center | Partner Center per Microsoft Cloud Germania
 
-- Centro per i partner per Microsoft Cloud Germania
-
-**Ruoli appropriati**
-
-- Amministratore globale
-- Amministratore degli account
+**Ruoli appropriati:** Amministratore globale | Amministratore dell'account
 
 > [!IMPORTANT]
 > In base all'evoluzione delle esigenze dei clienti, la strategia cloud per la Germania si concentrerà sulla distribuzione delle nuove aree cloud in Germania coerenti con l'offerta cloud globale. In questa prospettiva, non verranno più accettati nuovi clienti o distribuiti nuovi servizi dal sistema Microsoft Cloud Germania attualmente disponibile. I clienti esistenti possono continuare a usare i servizi cloud attualmente disponibili, che verranno mantenuti con gli aggiornamenti della sicurezza necessari.
@@ -46,10 +41,10 @@ Gestione licenze | Interfaccia di amministrazione di Office 365 o portale delle 
 
 Se si è connessi al Centro per i partner per Microsoft Cloud Germania, è possibile aprire il portale di Azure per Microsoft Cloud Germania senza dover accedere di nuovo. Tuttavia, se è necessario accedere direttamente al portale di Azure per Microsoft Cloud Germania, passare a [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
 
-Dopo aver eseguito l'accesso a portale di Azure per Microsoft Cloud Germania, aprire la pagina di panoramica di Azure Active Directory (Azure AD) e quindi seguire le istruzioni riportate in questi articoli:
+Dopo aver eseguito correttamente l'accesso a portale di Azure per Microsoft Cloud Germania, aprire la pagina di panoramica di Azure Active Directory (Azure AD) e quindi seguire le istruzioni in questi articoli:
 
 > [!NOTE]  
-> Selezionando i collegamenti seguenti verrà visualizzato un sito Web diverso.
+> Selezionando i collegamenti seguenti si verrà a un altro sito Web.
 
 -  [Aggiungere nuovi utenti a Azure Active Directory](/azure/active-directory/active-directory-users-create-azure-portal)
 

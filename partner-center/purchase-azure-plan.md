@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec74076281d4c8e65de6818281a2852df264732c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441626"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854962"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Acquistare il piano di Azure per i clienti e accedere ai servizi di Azure più recenti con pagamento in base al consumo
 
-**Ruoli appropriati**
-
-- Amministratore globale
-- Amministratore gestione utenti
-- Agente di vendita
+**Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti | Agente di vendita
 
 Quando acquisti un piano di Azure per i clienti in base al contratto del cliente Microsoft, puoi accedere al catalogo completo dei servizi di Azure più recenti a tariffe con pagamento in base al consumo. I partner CSP potranno ora accedere a qualsiasi servizio di Azure quando diventa disponibile a livello generale. In un piano di Azure un partner può avere più sottoscrizioni di Azure. 
 
@@ -80,7 +76,7 @@ Le prenotazioni di Azure devono essere associate a un piano di Azure attivo. Sce
 >Se il cliente non ha ancora un piano di Azure attivo, seleziona Azure per aggiungerne uno ora. Per altre istruzioni, leggi [Acquista prenotazioni di Azure](azure-reservations-buying.md#purchase-azure-reservations).
 
 >[!Note]
->Attualmente, nel Centro per i partner l'ambito di una prenotazione può essere impostato solo su **Condiviso**. Per selezionare l'ambito di una singola sottoscrizione o aggiornare dall'ambito condiviso a singolo abbonamento, passare al **portale di gestione di Microsoft Azure** usando le istruzioni seguenti. 
+>Attualmente, nel Centro per i partner l'ambito di una prenotazione può essere impostato solo su **Condiviso**. Per selezionare l'ambito di sottoscrizione singola o l'aggiornamento dall'ambito condiviso a quello di sottoscrizione **singola, passare Microsoft Azure portale** di gestione seguendo le istruzioni seguenti. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Impostazione ambito condiviso delle prenotazioni":::
 

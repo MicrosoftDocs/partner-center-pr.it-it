@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f53661918508271901c6403e8270105c06d4246a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133098"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818763"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gestire i vantaggi derivanti dall'appartenenza a Microsoft Partner Network nel Centro per i partner
 
@@ -37,11 +37,11 @@ Dopo aver acquistato un pacchetto di vantaggi di appartenenza, dovrai ottenere l
 >[!IMPORTANT]
 >Anche se per acquistare i vantaggi non occorre che tu sia un amministratore globale dell'organizzazione, devi invece esserlo per assegnare i vantaggi ai dipendenti. Se necessario, puoi diventare amministratore globale seguendo le istruzioni riportate nella [pagina **Vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). La tua azienda potrebbe già avere un amministratore globale, pertanto verifica questo aspetto con il team.
 
-I pacchetti di vantaggi includono le allocazioni del software concesso in licenza, i servizi cloud, le sottoscrizioni di Visual Studio e il supporto tecnico. Possono anche includere determinate risorse e offerte go-to-market e programmi correlati al mercato. Per ottenere informazioni dettagliate sulle sottoscrizioni di Action Pack, visita il sito [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
+I pacchetti di vantaggi includono allocazioni di software concesso in licenza, servizi cloud, Visual Studio sottoscrizioni e supporto tecnico. Possono anche includere determinate risorse e offerte go-to-market e programmi correlati al mercato. Per ottenere informazioni dettagliate sulle sottoscrizioni di Action Pack, visita il sito [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
 Per visualizzare e gestire tutti i vantaggi dell'iscrizione, passare alla [pagina **Vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). In alternativa, puoi accedere al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner, selezionare l'[**opzione Vantaggi**] dal menu a sinistra e quindi scegliere le opzioni dei vantaggi visualizzate.  
 
-Per attivare la maggior parte dei vantaggi o scaricare le chiavi software correlate, il centro per i partner richiede in genere un utente assegnato il ruolo di amministratore globale o MPN partner. Se non è possibile visualizzare i vantaggi o non si è in grado di attivare i vantaggi, rivolgersi all'amministratore globale del partner Center per assicurarsi di disporre delle autorizzazioni appropriate. [Vedere altre informazioni sui ruoli del Centro per i partner](permissions-overview.md).
+Per attivare la maggior parte dei vantaggi o scaricare le chiavi software correlate, Partner Center richiede in genere a un utente assegnato il ruolo di amministratore globale o amministratore partner MPN. Se non è possibile visualizzare alcun vantaggio o non è possibile attivare i vantaggi, rivolgersi all'amministratore globale di Partner Center per assicurarsi di avere le autorizzazioni appropriate. [Vedere altre informazioni sui ruoli del Centro per i partner](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Gestire i vantaggi software
 
@@ -72,18 +72,18 @@ Sono disponibili due tipi di abbonamenti in base all'uso che è possibile riceve
 Il provisioning può essere effettuato alle tariffe seguenti:
 
 - 100 USD al mese (o equivalente in valuta locale) per il credito mensile di Azure o/e
-- $6.000, $12.000 o/e $13000/Year (o ognuno di essi equivalente in valuta locale) credito bulk di Azure
+- $6.000, $12.000 o/e $13.000/anno (o ognuno equivalente in valuta locale) Credito in blocco di Azure
 
 Per attivare un abbonamento di Microsoft Azure nel Centro per i partner, assegnare l'accesso a un utente all'interno dell'azienda, inclusi gli utenti guest, corrispondente a una voce utente creata in Azure Active Directory.
 Per il credito mensile di Azure alla tariffa di 100 USD al mese (o equivalente in valuta locale), è possibile aggiungere o rimuovere utenti dall'abbonamento in qualsiasi momento. 
 
-Per il credito Azure bulk (annuale), l'opzione Rimuovi non è disponibile nel centro per i partner, ma è possibile trasferire il credito bulk a un altro durante l'anno di iscrizione. La sottoscrizione di credito di Azure bulk (annuale) non può essere combinata con altre offerte di licenza, prepagata o di credito, ovvero Microsoft Contratto Enterprise, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack e così via.
+Per il credito di Azure Bulk (annuale), l'opzione remove non è disponibile in Partner Center, ma è possibile trasferire il credito bulk a un altro utente durante l'anno di registrazione. La sottoscrizione di credito di Azure Bulk (annuale) non può essere combinata con altre offerte di licenza, prepagata o di credito,ovvero Microsoft Contratto Enterprise, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack e così via.
 
 ## <a name="license-based-subscriptions"></a>Abbonamenti in base alle licenze
 
-La sezione sottoscrizioni basate su licenza della scheda prodotti Azure & cloud elenca tutti i prodotti cloud che richiedono un codice Product Key per l'attivazione, ad esempio Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic e Power BI. Il tipo di offerta attivo come partner MPN, ovvero MAPS, Silver o Gold, che controlla i prodotti elencati.
+Nella sezione Sottoscrizioni basate su licenza della scheda Prodotti cloud di Azure & sono elencati tutti i prodotti cloud che richiedono un codice Product Key per l'attivazione, ad esempio Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic e Power BI. Il tipo di offerta attiva come partner MPN , MAPS, Silver o Gold, controlla quali prodotti sono elencati.
 
-Per attivare gli abbonamenti in base alle licenze, fare clic sul simbolo del menu a discesa accanto al prodotto di interesse e leggere le istruzioni su come riscattare i codici. Dopo aver letto le istruzioni, selezionare il collegamento che reindirizza l'utente al portale per riscattare le chiavi e la chiave assegnata per il prodotto.
+Per attivare gli abbonamenti in base alle licenze, fare clic sul simbolo del menu a discesa accanto al prodotto di interesse e leggere le istruzioni su come riscattare i codici. Dopo aver letto le istruzioni, selezionare il collegamento che reindirizza al portale per riscattare le chiavi e la chiave assegnata per il prodotto.
 
 >[!IMPORTANT]
 >Si noti che un codice non può essere riscattato più volte ed è quindi opportuno avere un'idea precisa riguardo all'effettiva necessità di aggiungere altre licenze (postazioni) o di posticipare la data di fine. Se si sceglie di aggiungere altre licenze e non si estende la data di fine, il sistema fornirà meno di 12 mesi di abbonamento attivo. Assicurarsi di aver eseguito l'accesso con le credenziali corrette per attivare i codici nel tenant appropriato.
@@ -104,11 +104,11 @@ Per attivare gli abbonamenti in base alle licenze, fare clic sul simbolo del men
    >[!Note]
    >Gli amministratori delle sottoscrizioni di Visual Studio possono riassegnare le sottoscrizioni da un sottoscrittore a un altro se sono trascorsi 90 giorni dal momento dell'assegnazione originale. Per ulteriori informazioni, vedere la guida [Programmi per i partner Microsoft](https://aka.ms/partner-benefits-use-guide).
 
-## <a name="manage-technical-benefits"></a>Gestire i vantaggi tecnici
+## <a name="manage-technical-benefits---microsoft-product-support"></a>Gestire i vantaggi tecnici - Supporto tecnico Microsoft
 
-Questa sezione descrive come attivare e gestire i vantaggi del supporto tecnico nel [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner. Se tuttavia l'iscrizione a Microsoft Partner Network è ancora in Partner Membership Center (PMC), è necessario contattare un'altra risorsa, ad esempio Partner Frontline, per l'attivazione dei vantaggi tecnici. Vedere [Attivare i vantaggi tecnici al di fuori del Centro per i partner](partner-membership-center-tech-benefits-activate.md).
+Questa sezione descrive come attivare e gestire i vantaggi del supporto tecnico nel [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner. Se tuttavia l'iscrizione a Microsoft Partner Network è ancora in Partner Membership Center (PMC), è necessario contattare un'altra risorsa, ad esempio Partner Frontline, per l'attivazione dei vantaggi tecnici. Vedere [Attivare i vantaggi tecnici al di fuori del Centro per i partner](https://docs.microsoft.com/partner-center/partner-membership-center-tech-benefits-activate).
 
-Per visualizzare i vantaggi tecnici nel Centro per i partner, seguire questa procedura:
+Per visualizzare i vantaggi tecnici del Supporto tecnico Partner Center, eseguire le operazioni seguenti:
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
@@ -120,7 +120,7 @@ Per visualizzare i vantaggi tecnici nel Centro per i partner, seguire questa pro
 
    - **Attivare il vantaggio tecnico.** Dopo aver espanso i dettagli di un vantaggio, selezionare **Attiva**. Attendere alcuni giorni per consentire l'elaborazione della richiesta di attivazione.
 
-   - **Visualizzare e condividere l'ID di accesso e l'ID di contratto del supporto prodotti.** Dopo che la richiesta di attivazione è stata elaborata, alla successiva espansione del vantaggio tecnico verranno visualizzati i dettagli relativi a **AccessId** e **ID contratto**. È possibile che l'utente corrente o gli utenti dell'azienda debbano condividere queste informazioni la prima volta che inviano una richiesta di supporto per determinati tipi di prodotti o servizi.
+   - **Visualizzare e condividere l'ID di accesso e l'ID di contratto del supporto prodotti.** Dopo che la richiesta di attivazione è stata elaborata, alla successiva espansione del vantaggio tecnico verranno visualizzati i dettagli relativi a **AccessId** e **ID contratto**. L'utente o gli utenti dell'azienda devono condividere e usare queste informazioni la prima volta che si invia una richiesta di supporto per determinati tipi di prodotti o servizi.
 
 4. Dopo l'attivazione, è possibile usare i vantaggi tecnici per diversi tipi di supporto tecnico. Per inviare richieste di supporto tecnico per i servizi seguenti, leggere le istruzioni dettagliate nella pagina Vantaggi tecnici. Vedere anche i dettagli seguenti.
 
@@ -134,10 +134,23 @@ Per visualizzare i vantaggi tecnici nel Centro per i partner, seguire questa pro
 
      >[!NOTE]
      > Per le richieste di supporto tecnico per prodotti locali, Azure (non CSP) e Dynamics sono necessari l'ID di accesso e l'ID di contratto. In futuro, per trovare l'ID di accesso e l'ID di contratto personali, è anche possibile leggere [Trovare i benefici](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits).
+     > 
+[Altre informazioni sul supporto tecnico per prodotti locali o cloud](https://docs.microsoft.com/partner-center/mpn-benefits-technical-support)
   
-   **Servizi di assistenza tecnica alla prevendita e alla distribuzione.**  Usare questo tipo di supporto per consulenze o informazioni riguardanti vendite tecniche o distribuzioni. È possibile richiedere questi servizi direttamente dal [Centro per i partner](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest).
+## <a name="manage-technical-benefits---partner-advisory-hours"></a>Gestire i vantaggi tecnici - Ore di consulenza per i partner
+Gli orari di consulenza per i partner sono la valuta usata per i servizi di prevendita e distribuzione **(TPD)** tecnici. È sufficiente accedere per inviare una richiesta (l'attivazione o l'assegnazione di utenti non è necessaria).
 
-   - Sia per i partner Action Pack sia per quelli con competenze Gold/Silver, usare i **servizi di assistenza tecnica alla prevendita e alla distribuzione** per soluzioni cloud e ibride.
+Per visualizzare i vantaggi tecnici dell'orario di consulenza Partner Center partner, seguire questa procedura:
+
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
+
+2. Selezionare **Vantaggi** e quindi **Vantaggi tecnici per** visualizzare le ore di consulenza per i partner
+
+3. Nella parte inferiore destra della pagina fare clic **[su Submit technical preles and deployment request (Invia](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)** prevendite tecniche e richiesta di distribuzione) per inviare la richiesta.
+     >[!NOTE]
+     > Se nella pagina dei vantaggi tecnici viene visualizzato il messaggio "Sembra che non si abbia ancora alcun vantaggio", è stato eseguito l'accesso usando un account partner che non dispone di offerte Gold, Silver o Microsoft Action Pack e non si è idonei a usare il servizio o si è usato *l'account* errato per l'accesso.
+     > 
+[Altre informazioni sui servizi di prevendita e distribuzione (TPD) tecnici](https://docs.microsoft.com/partner-center/technical-benefits)
   
 ## <a name="manage-go-to-market-offers"></a>Gestire le offerte go-to-market
 

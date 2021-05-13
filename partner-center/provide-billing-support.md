@@ -1,68 +1,62 @@
 ---
-title: Fornire supporto per la fatturazione ai clienti
+title: Offrire supporto per la fatturazione ai clienti
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sul supporto per la fatturazione dei clienti richiesto dai partner del programma CSP. Questo supporto include l'appartenenza alla relazione di fatturazione dei clienti e la risposta alle domande di fatturazione.
+description: Informazioni sul supporto per la fatturazione dei clienti necessario dai partner del programma CSP. Questo supporto include la proprietà della relazione di fatturazione del cliente e la risposta alle domande di fatturazione.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633659"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854129"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fornire ai clienti supporto per la fatturazione e rispondere alle domande sulla fatturazione
 
 
-**Ruoli appropriati**
-
-- Amministratore globale
-- Amministratore gestione utenti
-- Agente di supporto tecnico
-- Amministratore fatturazione
-- Agente di vendita
+**Ruoli appropriati:** amministratore globale | Amministratore gestione utenti | Supporto per l'agente | Amministratore fatturazione | Agente di vendita
 
 Si è proprietari della relazione di fatturazione con i clienti e si è responsabili della risposta alle domande relative alla fatturazione che i clienti potrebbero avere.
 
-- L'utente è responsabile di pagamenti in tempo a Microsoft.
+- L'utente è responsabile dei pagamenti in tempo reale a Microsoft.
 
-- Si consiglia di definire un criterio Clear Collections con i clienti che definiranno il processo di raccolta e quando sarà interessato l'accesso alle sottoscrizioni, ai servizi o al software del cliente.
+- È consigliabile stabilire criteri di raccolta chiari con i clienti che dettaglino il processo di raccolta e quando l'accesso alle sottoscrizioni, ai servizi o al software del cliente sarà interessato.
 
-- Se necessario, è possibile disabilitare l'accesso del cliente a un prodotto per il mancato pagamento.
+- Se necessario, è possibile disabilitare l'accesso del cliente a un prodotto per il non pagamento.
 
-## <a name="microsoft-partner-support-guidance"></a>Guida al supporto per partner Microsoft
+## <a name="microsoft-partner-support-guidance"></a>Linee guida per il supporto dei partner Microsoft
 
-I partner che operano nel modello CSP sono l'Advisor attendibile per i propri clienti ed è il proprietario della relazione end-to-end, incluso il supporto quando il cliente ha una domanda o un problema. Grazie ai partner di supporto per i punti di tocco è possibile ottenere ulteriori informazioni sul cliente e la relativa attività, per identificare i nuovi servizi e le soluzioni che determinano il valore.
+I partner che ese specifico nel modello CSP sono l'advisor attendibile per i clienti e sono proprietari della relazione end-to-end, incluso il supporto quando il cliente ha una domanda o un problema. Tramite i punti di tocco per il supporto, i partner possono ottenere altre informazioni sul cliente e sulla loro attività per identificare nuovi servizi e soluzioni che sono alla base del valore.
 
-Per soddisfare i requisiti di supporto, il partner può rivendere il supporto da un'altra entità, può esternalizzare tutta o parte della struttura di supporto e/o può configurare una struttura per fornire supporto diretto.  Il partner può addebitare l'addebito per tutto o parte del supporto fornito ai clienti. Il partner deve esprimere ai propri clienti il supporto che fornirà, le ore di servizio e il metodo di contatto e i prezzi (se addebitato per il supporto tecnico). 
+Per soddisfare il requisito di supporto, il partner può rivendere il supporto da un'altra entità, può esternalizzare tutta o parte della struttura di supporto e/o può configurare una struttura per fornire supporto direttamente.  Il partner può addebitare tutto o parte del supporto fornito ai clienti. Il partner deve articolare ai clienti il supporto che fornirà, le ore di servizio e il metodo di contatto e i prezzi (in caso di addebiti per il supporto). 
 
 >[!Note]
 >Se non si è un CSP e si hanno domande sulla fatturazione dei clienti, vedere il portale specifico per i prodotti o i servizi appropriati.
 
-I partner devono ricevere le richieste di supporto in ingresso dai clienti, diagnosticare i problemi al meglio della capacità del partner e quindi risolvere i problemi che rientrano nell'ambito dei limiti del supporto di base. Se il partner non riesce a risolvere un problema, può inoltrare i problemi a Microsoft tramite i veicoli di supporto seguenti:
+I partner devono ricevere richieste di supporto in ingresso dai clienti, diagnosticare i problemi al meglio delle capacità del partner e quindi risolvere i problemi che si verificano nell'ambito dei limiti di supporto di base. Se il partner non è in grado di risolvere un problema, può inoltrare i problemi a Microsoft tramite i veicoli di supporto seguenti:
 
-- Il supporto per i problemi **commerciali** è disponibile per tutti i partner del programma CSP
+- **Il supporto** per i problemi commerciali è disponibile per tutti i partner nel programma CSP
 
-- Il supporto **tecnico** per problemi è disponibile tramite:
+- **Il supporto** tecnico per i problemi è disponibile tramite:
 
-  - Supporto tecnico Premier per i partner (tariffa di base)
-  - Supporto avanzato per i partner (tariffa di base)
-  - Supporto cloud di firma (incluso con competenze Gold/Silver)
+  - supporto tecnico Premier per i partner (base tariffa)
+  - Supporto avanzato per i partner (base tariffa)
+  - Signature Cloud Support (incluso nella competenza Gold/Silver)
 
-### <a name="providing-billing-subscription-management-and-technical-support"></a>Disponibilità di fatturazione, gestione delle sottoscrizioni e supporto tecnico 
+### <a name="providing-billing-subscription-management-and-technical-support"></a>Fornire fatturazione, gestione delle sottoscrizioni e supporto tecnico 
 
-Ogni servizio online presenta requisiti specifici e dettagliati per fornire fatturazione, gestione delle sottoscrizioni e supporto tecnico ai clienti. Per altre informazioni, vedere:
+Ogni servizio online ha requisiti specifici e dettagliati per fornire fatturazione, gestione delle sottoscrizioni e supporto tecnico ai clienti. Per altre informazioni, vedere:
 
-- [Sottoscrizioni di Dynamics 365 vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+- [Sottoscrizioni dynamics 365 vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
 - [Sottoscrizioni di Azure vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [Abbonamenti Office 365 venduti tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Sottoscrizioni di Office 365 vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 ## <a name="next-steps"></a>Passaggi successivi
 

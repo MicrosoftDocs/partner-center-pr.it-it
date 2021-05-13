@@ -9,21 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6af9c7d674d1956332a564628b6b2ea0b1796f6
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 803c299311f129c4842a92a27abd9b9addb49f17
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120784"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854435"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Controllo degli accessi in base al ruolo nel dashboard Partner Center Insights
 
-**Ruoli appropriati**
-
-- Amministratore globale
-- Agente amministratore
-- Visualizzatore di report
-- Visualizzatore di report esecutivi
+**Ruoli appropriati:** amministratore globale | Agente di amministrazione | Visualizzatore report | Visualizzatore di report executive
 
 Il dashboard Informazioni dettagliate usa due nuovi ruoli in Partner Center per gestire l'accesso dei dipendenti ai report: Executive Report Viewer e Report Viewer.  Gli utenti con il ruolo Executive Report Viewer hanno accesso a tutti i set di dati di report, mentre gli utenti con il ruolo Visualizzatore report non avranno accesso ai set di dati sensibili, ad esempio i ricavi e i dati personali di clienti/dipendenti.  
 

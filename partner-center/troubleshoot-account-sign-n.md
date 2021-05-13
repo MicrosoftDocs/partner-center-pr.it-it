@@ -9,26 +9,22 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f34adc57e668caecb69af37afc72b5153f667335
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: a5e8a292ad8593dc0b94179d5f0ee418344ef9af
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686263"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854690"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Risolvere i problemi di configurazione dell'account o di rinnovo MPN
 
-
-**Ruoli appropriati**
-
-- Amministratore globale
-- Amministratore dei partner MPN
+**Ruoli appropriati:** Amministratore globale | Amministratore partner MPN
  
 Di seguito sono riportati alcuni suggerimenti per la risoluzione dei problemi comuni che si verificano durante la configurazione dell Partner Center account.
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Cosa accade se si esegue la migrazione da Partner Membership Center e non è possibile modificare i campi di informazioni aziendali
 
-Nei casi in cui l'azienda ha già una presenza in Partner Center (ad esempio, un account CSP), verrà visualizzata una schermata di sola lettura. Questa schermata visualizza tutte le informazioni sull'azienda così come esiste Partner Center.
+Nei casi in cui l'azienda ha già una presenza in Partner Center (ad esempio, un account CSP), verrà visualizzata una schermata di sola lettura. In questa schermata verranno visualizzate tutte le informazioni sull'azienda così come sono presenti Partner Center.
 
 Non è possibile modificare i dettagli in questa schermata. Si tratta di un errore di progettazione e non di un errore.
 
@@ -47,7 +43,7 @@ Per altre informazioni, vedere [Iscrizione self-service.](/azure/active-director
 
 Se la password è stata dimenticata, selezionare il collegamento Non è possibile **accedere all'account?** nella pagina di accesso. Questa opzione consente di reimpostare la password o chiedere all'amministratore globale di assegnare nuove credenziali.
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Nella schermata "Informazioni sull'azienda" viene visualizzato un errore "Si è verificato un errore"
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Nella schermata "Informazioni sull'azienda" viene visualizzato l'errore "Si è verificato un errore"
 
 Questo messaggio di errore viene in genere visualizzato se si usano inavvertitamente caratteri speciali, spazi o codice paese nel numero di telefono dell'azienda. Il valore immesso nel campo Numero di telefono può contenere solo un massimo di 10 caratteri.
 

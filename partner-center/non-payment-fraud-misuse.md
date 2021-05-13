@@ -9,25 +9,18 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 1d8e59ea2d2e8d40163ea06b305845c37a356f16
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686297"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818661"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestione di mancato pagamento, frode o uso improprio nel Centro per i partner
 
-**Si applica a**
+**Si applica a**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Centro per i partner per Microsoft Cloud for US Government
-
-**Ruoli appropriati**
-
-- Amministratore globale
-- Amministratore gestione utenti
-- Agente amministratore
-- Amministratore fatturazione
+**Ruoli appropriati:** amministratore globale | Amministratore gestione utenti | Agente di amministrazione | Amministratore fatturazione
 
 L'utente è responsabile finanziariamente degli acquisti fraudolenti da parte dei clienti e/o del non pagamento dei servizi acquistati. Pertanto, è consigliabile mettere in atto controlli di prevenzione e rilevamento dei rischi *di prevenzione delle frodi.*
 
@@ -54,7 +47,7 @@ Esempi di queste violazioni dei criteri di utilizzo accettabili di Microsoft pos
 
 ## <a name="theft-of-service-risks"></a>Furto di rischi del servizio
 
-**Il furto dei rischi del** servizio indica i clienti che non hanno intenzione di pagare per i servizi utilizzati. Questo furto può comportare l'uso di strumenti di pagamento rubati, fornendo informazioni di fatturazione false e/o l'impostazione predefinita sui saldi in sospeso.
+**Il furto di rischi del** servizio indica i clienti che non hanno intenzione di pagare per i servizi utilizzati. Questo furto può comportare l'uso di strumenti di pagamento rubati, fornendo informazioni di fatturazione false e/o l'impostazione predefinita sui saldi in sospeso.
 
 ### <a name="examples-of-service-theft"></a>Esempi di furto di servizi
 
@@ -79,7 +72,7 @@ I suggerimenti per ridurre i rischi online durante l'onboarding di nuovi clienti
 - Usare l'autenticazione a più fattori (ad esempio la verifica SMS) durante l'iscrizione per ridurre al minimo l'esposizione alla creazione e all'acquisto di account robotici.
 - Gestire e tenere traccia delle identità usando i servizi (ad esempio i servizi di identità digitali).
 - Valutare la solidità finanziaria dei clienti tramite rigorosi sistemi di rilevamento delle frodi con carta di credito.
-- Stabilire criteri di raccolta non crittografati. Dettagliare il processo di raccolta e quando l'accesso alle sottoscrizioni sarà intasato dal non pagamento. È possibile disabilitare l'accesso [o sospendere le](create-a-new-subscription.md#suspend-a-subscription) sottoscrizioni di un cliente per il non pagamento.
+- Stabilire criteri di raccolta non crittografati. Descrizione dettagliata del processo di raccolta e del momento in cui l'accesso alle sottoscrizioni sarà influenzata dal non pagamento. È possibile disabilitare l'accesso [o sospendere le sottoscrizioni di un cliente](create-a-new-subscription.md#suspend-a-subscription) per il non pagamento.
 
 ### <a name="managing-customer-accounts"></a>Gestione degli account cliente
 
@@ -97,6 +90,6 @@ I suggerimenti per la gestione della fatturazione dei clienti dopo l'acquisto in
 
 - Richiedere pagamenti anticipati prima delle transazioni iniziali e della fatturazione.
 - Non accettare strumenti di pagamento ad alto rischio, ad esempio carte prepagato o carte con valore archiviato.
-- Monitorare i pagamenti dei clienti e i crediti degli account obsoleti. Applicare in modo aggressivo processi di dunazione standardizzati per i pagamenti in ritardo o per il non pagamento.
+- Monitorare i pagamenti dei clienti e i crediti degli account obsoleti. Applicare in modo aggressivo processi di dunazione standardizzati per i pagamenti in ritardo o il non pagamento.
 
-Per strategie più dettagliate per la mitigazione dei rischi online, vedere la Guida alla gestione dei rischi [delle transazioni online.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)
+Per strategie più dettagliate per la mitigazione dei rischi online, vedere la Guida [alla gestione dei rischi delle transazioni online.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)

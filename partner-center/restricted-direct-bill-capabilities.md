@@ -9,18 +9,16 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018068"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855489"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Funzionalità di fatturazione diretta con restrizioni e requisiti necessari per i partner CSP con fatturazione diretta
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Funzionalità di fatturazione diretta con restrizioni e requisiti necessari per i partner con fatturazione diretta CSP
 
-**Ruoli appropriati**
-
-- Amministratore globale
+**Ruoli appropriati:** Amministratore globale
 
 ## <a name="overview"></a>Panoramica
 
@@ -55,7 +53,7 @@ Se le funzionalità di fatturazione diretta sono state limitate, non è più pos
 
 Non è inoltre possibile usare [l'offerta di servizi condivisi dei partner di Azure](shared-services.md) nel programma CSP per acquistare nuove sottoscrizioni di Azure per uso personale.
 
-Le sottoscrizioni con fatturazione diretta esistenti non sono interessate. Rimangono validi e vengono rinnovati automaticamente. L'addebito continuerà a essere addebitato direttamente da Microsoft fino a quando non vengono annullati. È comunque possibile gestire le sottoscrizioni esistenti nei modi seguenti:
+Le sottoscrizioni con fatturazione diretta esistenti non sono interessate. Rimangono validi e vengono rinnovati automaticamente. Si continuerà a essere fatturati direttamente da Microsoft fino a quando non vengono annullati. È comunque possibile gestire le sottoscrizioni esistenti nei modi seguenti:
 
 - Sospendere le sottoscrizioni esistenti
 

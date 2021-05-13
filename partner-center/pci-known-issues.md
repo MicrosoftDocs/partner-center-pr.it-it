@@ -1,58 +1,55 @@
 ---
-title: Problemi noti di Insights per il centro per i partner
+title: Partner Center problemi noti di Partner Center Insights
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Per informazioni sui problemi noti associati ai report di partner Center Insights (PCI), vedere. Le informazioni possono includere problemi di rendering noti o limitazioni dei report.
+description: Informazioni sui problemi noti associati ai report Partner Center Insights (PCI). Le informazioni possono includere problemi di rendering noti o limitazioni di creazione di report.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9c85ff428fd6ffb6ced38be16f4bd163c2b0b548
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086873"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855217"
 ---
-# <a name="partner-insights--frequently-asked-questions"></a>Partner Insights-domande frequenti
+# <a name="partner-insights--frequently-asked-questions"></a>Informazioni dettagliate sui partner - Domande frequenti
 
-**Ruoli appropriati**
-
-- Visualizzatore di report
-- Visualizzatore di report esecutivi
+**Ruoli appropriati:** Visualizzatore report | Visualizzatore di report executive
 
 Questo articolo illustra i problemi noti per la visualizzazione o il rendering dei report associati a Insights.
 
-D) **non è possibile visualizzare l'hub Insights nell'account del centro per i partner. Cosa devo fare?**
+D) **L'hub insights non è visualizzato nell'account Partner Center personale. Cosa devo fare?**
 
-A) assicurarsi di avere effettuato l'accesso all'account MPN per l'organizzazione. Non è possibile accedere al dashboard Insights dall'account CSP. Assicurarsi inoltre che l'amministratore globale abbia fornito il ruolo Visualizzatore report o Visualizzatore report Executive.  Per ulteriori informazioni sui ruoli, vedere [questo articolo](./pci-roles.md).
+A) Assicurarsi di aver eseguito l'accesso all'account MPN per l'organizzazione. Non è possibile accedere al dashboard di Insights dall'account CSP. Assicurarsi inoltre di aver fornito l'accesso al ruolo Visualizzatore report o Executive Report Viewer dall'amministratore globale.  Per altre informazioni sui ruoli, vedere [questo articolo.](./pci-roles.md)
 
-D) **non sono in grado di visualizzare i ricavi fatturati o i dati dei ricavi usati di Azure (ACR) in report personali. Perché?**
+D) Non è possibile visualizzare i dati relativi ai ricavi fatturati **o ricavi per l'utilizzo di Azure (ACR) nei report. Perché?**
 
-A) i dati ricavi fatturati e ACR sono disponibili solo per gli utenti che sono visualizzatori di report esecutivi.  Per ulteriori informazioni sui ruoli, vedere [questo articolo](./pci-roles.md).
+R) I dati relativi ai ricavi fatturati e alCr sono disponibili solo per gli utenti che sono visualizzatori di report esecutivi.  Per altre informazioni sui ruoli, vedere [questo articolo.](./pci-roles.md)
 
-D) **non sono in grado di visualizzare i ricavi fatturati o i dati dei ricavi usati di Azure (ACR) in report personali. Perché?**
+D) Non è possibile visualizzare i dati relativi ai ricavi fatturati **o ricavi per l'utilizzo di Azure (ACR) nei report. Perché?**
 
-A) i dati ricavi fatturati e ACR sono disponibili solo per gli utenti che sono visualizzatori di report esecutivi. Per ulteriori informazioni sui ruoli, vedere [questo articolo](./pci-roles.md).
+R) I dati relativi ai ricavi fatturati e alCr sono disponibili solo per gli utenti che sono visualizzatori di report esecutivi. Per altre informazioni sui ruoli, vedere [questo articolo.](./pci-roles.md)
 
-D) **il paese segnalato per il cliente sembra non essere corretto. Perché?**
+D) **Il paese segnalato per il cliente sembra non corretto. Perché?**
 
-A) il paese del cliente è derivato dal paese dell'organizzazione padre globale del cliente. Questo paese può essere diverso da quello del cliente con cui è stato possibile effettuare la transazione. Il paese segnalato dal cliente, quindi, potrebbe essere diverso da quello previsto.
+A) Il paese del cliente deriva dal paese dell'organizzazione padre globale del cliente. Questo paese potrebbe essere diverso da quello del cliente con cui è stata eseguita la transazione. Di conseguenza, il paese segnalato dal cliente potrebbe essere diverso da quello previsto.
 
-D) **si noterà che i nomi dei clienti sono offuscati nei report. È previsto?**
+D) **Si vede che alcuni nomi dei clienti sono offuscati nei report. È previsto?**
 
-A) i nomi dei clienti sono offuscati per determinate sottoscrizioni a causa dei motivi di conformità. Tuttavia, il cliente TPID è disponibile ed è possibile usarlo per cercare i nomi dei clienti.
+A) I nomi dei clienti vengono offuscati per determinate sottoscrizioni per motivi di conformità. Tuttavia, il TPID del cliente è disponibile ed è possibile usarlo per cercare i nomi dei clienti.
 
 D) **Qual è la latenza tipica dei report?**
 
-A) le sottoscrizioni e i dati dei clienti vengono aggiornati quotidianamente e i dati vengono segnalati con una latenza di una settimana. I dati di utilizzo di Azure vengono segnalati con una latenza di una settimana. I dati di utilizzo di Office365, teams, Dynamic365, EMS e Power BI vengono segnalati con una latenza di un mese.
+A) I dati relativi alle sottoscrizioni e ai clienti vengono aggiornati ogni giorno e i dati vengono segnalati con una latenza di una settimana. I dati di utilizzo di Azure vengono segnalati con una latenza di una settimana. I dati di utilizzo di Office365, Teams, Dynamic365, EMS e Power BI vengono segnalati con una latenza di un mese.
 
-D) **non è previsto il rendering dei report in Internet Explorer?**
+D) Il rendering dei report non viene **Internet Explorer: è previsto?**
 
-A) i report presentano problemi di rendering con Internet Explorer. Funzionano bene con Microsoft Edge e con altri browser.
+A) I report hanno problemi di rendering con Internet Explorer. Funzionano bene con Microsoft Edge e altri browser.
 
 **Passaggi successivi**
 
-- Scopri di più su [Partner Center Insights](partner-center-insights.md).
+- Altre informazioni su [Partner Center Insights.](partner-center-insights.md)

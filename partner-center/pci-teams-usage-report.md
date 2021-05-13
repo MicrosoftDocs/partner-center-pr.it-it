@@ -1,75 +1,70 @@
 ---
-title: Report utilizzo team di Insights per partner Center
+title: Report sull'utilizzo dei team delle informazioni dettagliate del Centro per i partner
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri cosa stai facendo e dove puoi migliorare l'uso delle sottoscrizioni dei team che Vendi o Gestisci per i tuoi clienti.
+description: Scopri cosa stai facendo bene e dove puoi migliorare l'uso delle sottoscrizioni di Teams vendute o gestite per i tuoi clienti.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086720"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855183"
 ---
-# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo dei team disponibile nel dashboard di partner Center Insights
+# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Teams disponibile nel dashboard Partner Center Insights
 
-**Ruoli appropriati**
+**Ruoli appropriati:** amministratore globale | Agente di amministrazione | Visualizzatore report | Visualizzatore di report executive
 
-- Amministratore globale
-- Agente amministratore
-- Visualizzatore di report
-- Visualizzatore di report esecutivi
-
-Il report sull'utilizzo dei team presenta le metriche relative ai carichi di lavoro dei team venduti o gestiti per i clienti. È possibile visualizzare le sezioni seguenti dal report sull'utilizzo dei team.
+Il report Utilizzo di Teams presenta le metriche correlate ai carichi di lavoro di Teams venduti o gestiti per i clienti. È possibile visualizzare le sezioni seguenti dal report Utilizzo di Teams.
 
 - Riepilogo
 - Tendenza conversazioni
-- Utilizzo dei team da carichi di lavoro
-- Clienti principali per utilizzo
+- Utilizzo di Teams in base ai carichi di lavoro
+- Principali clienti in base all'utilizzo
 
  > [!NOTE]
- > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. i tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
+ > Questo report è disponibile nel dashboard informazioni dettagliate. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Executive Report Viewer. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report esecutivi.
 
 ## <a name="summary"></a>Riepilogo
 
-La sezione Riepilogo presenta una visualizzazione snapshot degli indicatori chiave relativi ai carichi di lavoro dei team venduti o gestiti dall'utente per i clienti.  
+La sezione di riepilogo presenta una visualizzazione snapshot degli indicatori chiave correlati ai carichi di lavoro di Teams venduti o gestiti dall'utente per i clienti.  
 
-- Clienti: conteggio Distinct dei clienti che usano i team come carico di lavoro per la durata selezionata.
+- Clienti: conteggio distinto dei clienti che usano Teams come carico di lavoro per la durata selezionata.
 
-- Conteggio riunioni: numero di riunioni dei team eseguite dai clienti.
+- Conteggio delle riunioni: numero di riunioni di Teams svolte dai clienti.
 
-- Conteggio giornaliero medio delle riunioni per cliente: conteggio giornaliero medio delle riunioni per cliente. 
+- Numero medio giornaliero di riunioni per cliente: numero medio giornaliero di riunioni per cliente. 
 
-- Durata della riunione (ore): durata totale della riunione in ore. 
+- Durata riunione (ore): durata totale della riunione in ore. 
 
-- Durata media riunioni (minuti): durata media delle riunioni in minuti. 
+- Durata media riunione (minuti): durata media della riunione in minuti. 
 
-:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Riepilogo utilizzo team":::
+:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Riepilogo dell'utilizzo di Teams":::
 
 ## <a name="conversations-trend"></a>Tendenza conversazioni
 
-Il rapporto tendenza conversazioni Mostra la tendenza mensile di riunioni, chiamate e sistemi telefonici dei team, oltre alla durata media della riunione in minuti.
+Il report Tendenza conversazioni mostra la tendenza mensile di riunioni, chiamate e sistemi telefonici di Teams insieme alla durata media delle riunioni in minuti.
 
-:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="tendenze della conversazione di utilizzo del team":::
+:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="tendenze di conversazione sull'utilizzo dei team":::
 
-## <a name="teams-usage-by-workloads"></a>Utilizzo dei team da carichi di lavoro
+## <a name="teams-usage-by-workloads"></a>Utilizzo dei team in base ai carichi di lavoro
 
-Il report utilizzo team per carichi di lavoro Mostra la suddivisione mensile di utenti desktop, mobili e Web dei team divisi da carichi di lavoro.
+Il report Utilizzo di Teams in base ai carichi di lavoro mostra la suddivisione mensile di utenti desktop, mobili e Web di Teams suddivisi per carichi di lavoro.
 
-:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Utilizzo dei team da carichi di lavoro":::
+:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Utilizzo di Teams in base ai carichi di lavoro":::
 
-## <a name="top-customers-by-usage"></a>Clienti principali per utilizzo
+## <a name="top-customers-by-usage"></a>Clienti principali in base all'utilizzo
 
-Il report Top Customers by Usage Mostra l'utilizzo dei clienti principali per riunioni, chiamate e sistemi telefonici dei team e app di terze parti.
+Il report Top customers by usage (Clienti principali in base all'utilizzo) mostra l'utilizzo dei clienti principali per riunioni, chiamate e sistemi telefonici di Teams e app di terze parti.
 
-:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Clienti principali per utilizzo":::
+:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Clienti principali in base all'utilizzo":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 
 - Per altri report, vedere [Partner Center Insights](partner-center-insights.md).
 
-- È possibile scaricare i dati non elaborati che generano questo report dalla sezione download dei report nel dashboard di Insights. [Altre informazioni](pci-download-reports.md) 
+- È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report nel dashboard di Insights. [Altre informazioni](pci-download-reports.md) 

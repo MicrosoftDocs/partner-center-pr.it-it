@@ -4,32 +4,27 @@ ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Eseguire la procedura descritta in questo articolo per installare e visualizzare in anteprima l'app partner Center Analytics per Power BI (per i partner diretti in CSP).
+description: Seguire la procedura descritta in questo articolo per installare e visualizzare in anteprima il app Analisi del Centro per i Partner per Power BI (per i partner diretti in CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 15ee391d6b748b6499700aee321ff4abd85e75d2
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633693"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854486"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installare e visualizzare in anteprima l'app Analisi del Centro per i Partner per Microsoft Power BI
 
 
-**Ruoli appropriati**
-
-- Amministratore globale
-- Amministratore gestione utenti
-- Agente di vendita
-- Agente amministratore
+**Ruoli appropriati:** amministratore globale | Amministratore gestione utenti | Agente di vendita | Agente amministratore
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
-Selezionare l'applicazione più pertinente per l'azienda dal seguente elenco di app Power BI disponibili:
+Selezionare l'applicazione più rilevante per l'azienda dall'elenco seguente di app Power BI disponibili:
 
 - [Provider diretto](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
@@ -37,53 +32,53 @@ Selezionare l'applicazione più pertinente per l'azienda dal seguente elenco di 
 
 - [Rivenditore indiretto](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
-Prima di installare la versione di anteprima dell'app partner Center Analytics, assicurarsi di soddisfare i requisiti seguenti.
+Prima di installare la versione Partner Center anteprima dell'app Analytics, assicurarsi di soddisfare i requisiti seguenti.
 
-- Si sceglie l'app Power BI corretta per l'azienda.
+- Scegliere l'app Power BI corretta per l'azienda.
 
-- Si dispone di una licenza di Power BI Pro.
+- Si ha una licenza Power BI Pro.
 
 - Si dispone delle autorizzazioni per installare le app modello nel tenant.
 
 - È possibile accedere a Power BI.
 
-- È possibile accedere come amministratore globale, agente di amministrazione o amministratore della fatturazione al [tenant di Azure Active Directory (Azure ad) dell'azienda](azure-active-directory-tenants-and-partner-center.md).
+- È possibile accedere come amministratore globale, agente amministratore o amministratore fatturazione al tenant di Azure Active Directory [aziendale (Azure AD).](azure-active-directory-tenants-and-partner-center.md)
 
 ## <a name="to-install-the-app"></a>Per installare l'app
 
-1. Selezionare il collegamento origine app specificato (provider diretto/provider indiretto/rivenditore indiretto) nella sezione precedente.
+1. Selezionare il collegamento all'origine dell'app specificato (Provider diretto/Provider indiretto/Rivenditore indiretto) nella sezione precedente.
 
 2. Selezionare **SCARICA ADESSO**. 
 
-3. Accettare i termini e le condizioni selezionando **continua**.
+3. Accettare termini e condizioni selezionando **Continua.**
 
-4. In è già presente un account? Selezionare **Sign in (accedi**).
+4. In Hai già un account? Selezionare **Accedi.**
 
-5. Nella pagina successiva immettere il nome utente e la password Power BI e quindi selezionare **Accedi**.
+5. Nella pagina successiva immettere il nome utente e Power BI password e quindi selezionare **Accedi.**
 
-6. Installare l'area di lavoro fornendo il nome dell'area di lavoro.
+6. Installare l'area di lavoro specificando il nome dell'area di lavoro.
 
-7. È possibile trovare le app modello installate nella sezione app.
+7. È possibile trovare le app modello installate nella sezione App.
 
-8. Selezionare **app** e scegliere le app installate.
+8. Selezionare **App** e scegliere le app installate.
 
-9. Viene visualizzata la schermata inizia con la nuova app.
+9. Viene visualizzata la schermata Introduzione alla nuova app.
 
 10. Per connettersi ai dati, selezionare **Connetti**.
 
-11. Nella finestra popup **Connetti a partner Center Analytics** verificare che il **metodo di autenticazione** sia impostato su **OAuth2** o selezionare **OAuth2** nell'elenco, se non lo è. 
+11. Nella finestra popup Connetti **a Partner Center Analytics** verificare  che il metodo di autenticazione sia impostato su **oAuth2** o selezionare **oAuth2** nell'elenco, in caso contrario. 
 
 > [!NOTE]  
 >  La visualizzazione di questa finestra potrebbe richiedere alcuni minuti.
 
-12. Nella pagina del **connettore di analisi dei partner** , accedere con le credenziali di amministratore globale, agente di amministrazione o amministratore fatturazione per il tenant Azure ad della società e quindi selezionare **Accedi**.
+12. Nella pagina **Partner Center Analytics Connector** accedere con le credenziali di amministratore globale, agente amministratore o amministratore della fatturazione per il tenant Azure AD aziendale e quindi selezionare Accedi . 
  
-13. Quando viene richiesto di accedere, selezionare **Accetto**. 
+13. Quando viene richiesto l'accesso, selezionare **Accetta**. 
 
-Quando il servizio di analisi dei partner Center è connesso alla Power BI, i dati inizieranno a essere caricati. A seconda della quantità di dati, l'operazione può richiedere fino a 10 minuti. 
+Quando il Partner Center Analytics è connesso a Power BI, i dati inizieranno a essere caricati. A seconda della quantità di dati, questa operazione può richiedere fino a 10 minuti. 
 
-Al termine del caricamento dei dati, è possibile iniziare a usare il dashboard dell'app partner Analytics e i report in Power BI.
+Al termine del caricamento dei dati, è possibile iniziare a usare il dashboard dell'app Partner Center Analytics e i report in Power BI.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-[Visualizzare i dati aziendali con l'app partner Center Analytics per Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Visualizzare i dati aziendali con l'app Partner Center Analytics per Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

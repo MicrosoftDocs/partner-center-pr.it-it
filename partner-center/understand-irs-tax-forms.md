@@ -8,18 +8,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 38d0748548dca4f46eb60d5d36e1a55ad5fa1d67
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d34984c3bbe8588cf2a5a40f7c50b14ba6928405
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284435"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818678"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Comprendere i moduli fiscali IRS emessi da Microsoft
 
-**Ruoli appropriati**
-
-- Amministratore globale
+**Ruoli appropriati**: Amministratore globale
 
 È possibile ricevere uno o più moduli fiscali da Microsoft ogni anno. Dipende dalla località e dall'importo delle vendite o dei pagamenti ricevuti. Microsoft deve emettere questi moduli e depositarli presso l'Internal Revenue Service (IRS).
 
@@ -53,7 +51,7 @@ I moduli fiscali verranno inviati agli utenti dagli indirizzi seguenti:
 | Pubblicità            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 USA |
 
 >[!NOTE]
-> \* I cittadini dei paesi seguenti che ottengono ricavi pubblicitari verranno pagati tramite Microsoft Ireland Operations Limited: Irlanda, Svizzera, Svizzera, Svizzera, Cecoslova, Svizzera, Norvegia, Francia, Germania, Germania, Svizzera, Irlanda, Isle di Man, Italia, Svizzera, Liechtcht, Svizzera, Svizzera, Monaco, Paesi Bassi, Norvegia, Portogallo, Regno Unito, Regno Unito, Francia, Francia, Sudafrica, Spagna, Spagna, Svizzera, Regno Unito
+> \* I cittadini dei paesi seguenti che ottengono ricavi pubblicitari verranno corrismersi tramite Microsoft Ireland Operations Limited: Irlanda, Svizzera, Svizzera, Svizzera, Cecoslova, Svizzera, Norvegia, Francia, Germania, Germania, Svizzera, Irlanda, Isle di Man, Italia, Svizzera, Liecht, Svizzera, Svizzera, Monaco, Paesi Bassi, Norvegia, Portogallo, Regno Unito, Svizzera, Sudafrica, Sudafrica, Spagna, Spagna, Svizzera, Regno Unito
 
 ## <a name="for-developers-located-in-the-united-states"></a>Per gli sviluppatori che si trovano negli Stati Uniti
 
@@ -61,10 +59,10 @@ I moduli fiscali verranno inviati agli utenti dagli indirizzi seguenti:
 |------------------------|-----------------------|
 | Ho avuto più di **200** vendite di app con un importo di acquisto totale di queste vendite superiore a **$ 20.000 USD** nell'anno fiscale applicabile **(senza** contare le vendite effettuate in Brasile e Cina tramite il Microsoft Store in Windows 10).| **1099 K:**<br/>Dichiarante: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** Il modulo 1099-K contiene gli importi di **acquisto lordi**, non i pagamenti effettuati a te.| 
 | Ho ricevuto **almeno 10** dollari in pagamenti per (i) vendite di app effettuate in Brasile e Cina tramite le vendite di Microsoft Store in Windows 10 o (ii) nel Marketplace Marketplace.<br/><br/>**OR**<br/><br/>Ho ricevuto almeno $ 600 in pagamenti non correlati alle vendite di app da Microsoft nell'anno fiscale applicabile (ad esempio, pagamenti di incentivi o pagamenti da un concorso o una promozione)| **1099-MISC:**<br/>Pagante: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** Alcune entità aziendali non riceveranno i moduli 1099-MISC indipendentemente dagli importi dei pagamenti ricevuti da Microsoft.  Per altre informazioni, consultare il professionista fiscale.| 
-| Nessuno dei motivi sopra indicati è applicabile.| Nessuno |
-| <br/><br/>**Se sono uno sviluppatore Stati Uniti che vende annunci in app e...** |<br/><br/>**Si riceverà questo modulo:** |
+| Nessuno dei motivi sopra indicati è applicabile.| nessuno |
+| <br/><br/>**Se sono uno sviluppatore Stati Uniti che vende annunci nelle app e...** |<br/><br/>**Si riceverà questo modulo:** |
 |Ho ricevuto **almeno $ 600 in** pagamenti da annunci nelle app nell'anno fiscale applicabile. | **1099-MISC:**<br/>Pagante: Microsoft Online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Importante:** Alcune entità aziendali non riceveranno i moduli 1099-MISC indipendentemente dagli importi dei pagamenti ricevuti da Microsoft.  Per altre informazioni, consultare il professionista fiscale. |
-| Ho ricevuto **meno di $ 600 in** pagamenti da annunci nelle app nell'anno fiscale applicabile. | Nessuno |
+| Ho ricevuto **meno di $ 600 in** pagamenti da annunci nelle app nell'anno fiscale applicabile. | nessuno |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Per gli sviluppatori al di fuori degli Stati Uniti

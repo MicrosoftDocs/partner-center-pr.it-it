@@ -1,92 +1,87 @@
 ---
-title: Report sull'utilizzo Power BI di partner Center Insights
+title: Informazioni dettagliate sul Centro per Power BI report sull'utilizzo
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri cosa stai facendo e dove puoi migliorare l'uso di Power BI sottoscrizioni che Vendi o Gestisci per i tuoi clienti.
+description: Vedere cosa si sta facendo bene e dove è possibile migliorare l'utilizzo Power BI sottoscrizioni che si vendono o gestiscono per i clienti.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086295"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854588"
 ---
-# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Power BI disponibile dal dashboard di partner Center Insights
+# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI report sull'utilizzo disponibile nel dashboard di Partner Center Insights
 
-**Ruoli appropriati**
+**Ruoli appropriati:** Amministratore globale | Agente amministratore | Visualizzatore di report | Visualizzatore di report executive
 
-- Amministratore globale
-- Agente amministratore
-- Visualizzatore di report
-- Visualizzatore di report esecutivi
-
-Il report utilizzo Power BI fornisce i dati di utilizzo per le sottoscrizioni Power BI vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report sull'utilizzo del Power BI.
+Il Power BI di utilizzo fornisce i dati di utilizzo Power BI sottoscrizioni vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report sull Power BI di utilizzo.
 
 - Riepilogo
-- Utilizzo Power BI per geografia
-- Utilizzo Power BI per SKU
+- Power BI'utilizzo in base all'area geografica
+- Power BI'utilizzo da parte dello SKU
 - Prestazioni delle sottoscrizioni
-- Distribuzione utilizzo Power BI
+- Power BI distribuzione dell'utilizzo
 
  > [!NOTE]
- > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. i tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
+ > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Executive Report Viewer. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi Executive Report Viewer.
 
 ## <a name="summary"></a>Riepilogo
 
-La sezione Riepilogo presenta una visualizzazione snapshot degli indicatori chiave correlati a Power BI sottoscrizioni di utilizzo vendute o gestite per i clienti. 
+La sezione di riepilogo presenta una visualizzazione snapshot degli indicatori chiave correlati alle sottoscrizioni Power BI di utilizzo vendute o gestite per i clienti. 
 
 - Postazioni disponibili: numero totale di licenze vendute durante l'intervallo di tempo selezionato.
 
-   Il grafico micro presenta una tendenza di mese per mese del numero di postazioni disponibili per l'intervallo di date selezionato.
+   Il grafico Micro presenta una tendenza mensile del numero di postazioni disponibili per l'intervallo di date selezionato.
 
 - Postazioni assegnate: numero totale di licenze assegnate durante l'intervallo di tempo selezionato.
 
-   Il grafico micro presenta una tendenza mensile rispetto al numero di posti assegnati durante l'intervallo di date selezionato.
+   Il grafico Micro presenta una tendenza mensile del numero di postazioni assegnate durante l'intervallo di date selezionato.
 
-- Postazioni attive: numero totale di licenze con utilizzo durante l'intervallo di tempo selezionato. 
+- Postazioni attive: numero totale di licenze utilizzate durante l'intervallo di tempo selezionato. 
 
-   Il grafico micro presenta una tendenza mensile di postazioni mensili attive nel periodo di tempo selezionato.
+   Il grafico Micro presenta una tendenza mensile dei posti attivi mensili nel periodo di tempo selezionato.
 
-- % Utilizzo attivo: numero totale di postazioni attive espresse come percentuale delle postazioni disponibili per l'intervallo di tempo selezionato. 
+- %utilizzo attivo: numero totale di postazioni attive espresse come percentuale delle postazioni disponibili per l'intervallo di tempo selezionato. 
 
-   Il grafico micro presenta una tendenza mensile della percentuale di utilizzo attivo nel periodo di tempo selezionato.
+   Il grafico Micro presenta una tendenza mensile della percentuale di utilizzo attiva nel periodo di tempo selezionato.
 
-:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Riepilogo utilizzo Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Power BI riepilogo dell'utilizzo":::
 
-## <a name="power-bi-usage-by-geography"></a>Utilizzo Power BI per geografia
+## <a name="power-bi-usage-by-geography"></a>Power BI'utilizzo in base all'area geografica
 
-Il **Power bi l'utilizzo da parte della geografia** illustra la distribuzione delle postazioni disponibili e delle postazioni attive per paese del cliente. I colori più chiari sulla mappa rappresentano valori più bassi, mentre i colori più scuri rappresentano valori più alti. È possibile cercare e selezionare un paese nella griglia a cui applicare lo zoom.
+Il **Power BI per area** geografica illustra la distribuzione delle postazioni disponibili e delle postazioni attive in base al paese del cliente. I colori più chiari sulla mappa rappresentano valori inferiori, mentre i colori più scuri rappresentano valori più alti. È possibile cercare e selezionare un paese nella griglia in base a cui eseguire lo zoom.
 
-La tabella **numero di paesi/** aree geografiche presenta il totale dei paesi in cui vengono generati gli eventi di utilizzo di Azure.
+La **tabella Number of countries/region** (Numero di paesi/aree geografiche) presenta i paesi/aree geografiche totali in cui vengono generati gli eventi di utilizzo di Azure.
 
-È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione della mappa. Selezionare l'opzione **Home** sulla mappa per ripristinare la visualizzazione originale.
+È possibile cercare e selezionare un paese nella griglia per fare zoom avanti sulla posizione nella mappa. Selezionare **l'opzione** Home sulla mappa per ripristinare la visualizzazione originale.
 
-:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Utilizzo Power BI per geografia":::
+:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI'utilizzo in base all'area geografica":::
 
-## <a name="power-bi-usage-by-sku"></a>Utilizzo Power BI per SKU
+## <a name="power-bi-usage-by-sku"></a>Power BI'utilizzo per SKU
 
-Il Power BI Usage by SKU illustra la tendenza mensile di postazioni disponibili, postazioni attive e sedi assegnate da SKU.
+Il Power BI per SKU illustra la tendenza mensile delle postazioni disponibili, delle postazioni attive e delle postazioni assegnate in base agli SKU.
 
-:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Utilizzo Power BI per SKU":::
+:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Power BI'utilizzo per SKU":::
 
 ## <a name="subscriptions-performance"></a>Prestazioni delle sottoscrizioni
 
-Le prestazioni delle sottoscrizioni rappresentano la tendenza mensile dell'utilizzo attivo per ogni sottoscrizione del cliente. I dati per i primi 100 clienti fatturati ricavi sono visualizzati nella tabella ed è possibile cercare qualsiasi cliente oppure scaricare i dati non elaborati per visualizzare i dettagli di tutte le sottoscrizioni.
+Le prestazioni delle sottoscrizioni illustrano la tendenza mensile dell'utilizzo attivo per ogni sottoscrizione del cliente. I dati per i primi 100 clienti in base ai ricavi fatturati vengono visualizzati nella tabella ed è possibile cercare qualsiasi cliente o scaricare i dati non elaborati per visualizzare i dettagli di tutte le sottoscrizioni.
 
-:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Prestazioni Power BI sottoscrizione":::
+:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI prestazioni della sottoscrizione":::
 
-## <a name="power-bi-usage-distribution"></a>Distribuzione utilizzo Power BI
+## <a name="power-bi-usage-distribution"></a>Power BI distribuzione dell'utilizzo
 
-La distribuzione dell'utilizzo di Power BI illustra la suddivisione delle postazioni disponibili, delle postazioni attive e delle postazioni assegnate per SKU.
+La Power BI di utilizzo illustra la suddivisione delle postazioni disponibili, delle postazioni attive e delle postazioni assegnate in base agli SKU.
 
-:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Distribuzione utilizzo Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI distribuzione dell'utilizzo":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 
 - Per altri report, vedere [Partner Center Insights](partner-center-insights.md).
 
-- È possibile scaricare i dati non elaborati che generano questo report dalla sezione download dei report nel dashboard di Insights. [Altre informazioni](pci-download-reports.md) 
+- È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report nel dashboard di Insights. [Altre informazioni](pci-download-reports.md) 

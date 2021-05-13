@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018153"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855557"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Come e quando richiedere un credito di contratto di servizio a Microsoft
 
-**Ruoli appropriati**
-
-- Agente amministratore
-- Amministratore globale
+**Ruoli appropriati:** Agente di amministrazione | Amministratore globale
 
 È possibile richiedere crediti del contratto di servizio **(SLA)** a Microsoft se un servizio fornito ai clienti presenta un'interruzione.
 
@@ -47,7 +44,7 @@ Prima di [inviare una richiesta di credito del](#submit-sla-credit-request) cont
 
 - GUID del tenant del cliente
 - Identificatore [dell'evento imprevisto di interruzione?](#outage-incident-identifier)
-- Prova che il cliente è stato in impatto dall'interruzione del servizio e ha richiesto un credito per il contratto di servizio.
+- Prova che il cliente è stato in impatto dall'interruzione del servizio e ha richiesto un credito del contratto di servizio.
 - Le sottoscrizioni ermesse sono state acquistate tramite CSP? (*sì* o *no*)
 
 #### <a name="evidence-that-proves-customer-impact"></a>Evidenza che dimostra l'impatto dei clienti
@@ -61,7 +58,7 @@ Prima di [inviare una richiesta di credito del](#submit-sla-credit-request) cont
 
 #### <a name="outage-incident-identifier"></a>Identificatore dell'evento imprevisto di interruzione
 
-È possibile trovare l'identificatore per l'evento imprevisto di interruzione **nella** pagina Integrità dei servizi nel interfaccia di amministrazione di Microsoft 365. L'ID evento **imprevisto** di interruzione è un numero preceduto da un'abbreviazione di due lettere che indica il servizio interessato, ad esempio *EX25194* per un'interruzione di Exchange Online. La tabella seguente descrive le abbreviazioni di servizi comuni:
+È possibile trovare l'identificatore per l'evento imprevisto di interruzione **nella** pagina Integrità dei servizi nella interfaccia di amministrazione di Microsoft 365. L'ID evento **imprevisto** di interruzione è un numero preceduto da un'abbreviazione di due lettere che indica il servizio interessato, ad esempio *EX25194* per un'interruzione di Exchange Online. La tabella seguente descrive le abbreviazioni di servizi comuni:
 
 | Abbreviazione di due lettere | Servizio Microsoft |
 | ----------------------- | ----------------- |

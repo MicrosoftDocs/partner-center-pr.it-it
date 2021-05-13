@@ -8,19 +8,16 @@ description: Richiedere una relazione con un cliente per scenari multicanale mul
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018136"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856118"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Come richiedere una relazione di rivenditore da un cliente nel Centro per i partner
 
-**Ruoli appropriati**
-
-- Agente amministratore
-- Amministratore globale
+**Ruoli appropriati:** agente di amministrazione | Amministratore globale
 
 Se si vuole gestire il servizio o la sottoscrizione di un cliente per loro conto, il cliente deve concedere all'utente le autorizzazioni di amministratore per tale servizio o sottoscrizione e firmare l'Contratto del cliente Microsoft.
 
@@ -51,11 +48,11 @@ Se si vuole stabilire una relazione come rivenditore con un cliente e gestire so
 6. Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome.
 
 > [!IMPORTANT]  
-> I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, a meno che e fino a quando non si rinegozia il contratto con il cliente, l'utente continuerà a essere responsabile dell'assistenza clienti e dell'aderenza alle condizioni del Contratto Microsoft Partner, anche dopo che un cliente ha riassegnare o rimuovere le autorizzazioni di amministratore. In questo caso, se il cliente richiede assistenza, è possibile chiamare il supporto tecnico Microsoft per aprire una richiesta di servizio per conto del cliente.
+> I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, a meno che e fino a quando non si rinegozia il contratto con il cliente, l'utente continuerà a essere responsabile dell'assistenza clienti e dell'aderenza alle condizioni del Contratto Microsoft Partner, anche dopo la riassegnazione o la rimozione delle autorizzazioni di amministratore da parte di un cliente. In questo caso, se il cliente richiede assistenza, è possibile chiamare il supporto tecnico Microsoft per aprire una richiesta di servizio per conto del cliente.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Modifiche all'esperienza di invito del cliente
 
-L'esperienza del cliente per accettare un invito alla relazione come rivenditore da un partner Cloud Solution Provider è ospitata da portali diversi per i clienti. La posizione del portale dipende dal fatto che un cliente si trova in un cloud pubblico Microsoft o in un cloud nazionale:
+L'esperienza del cliente per l'accettazione di un invito alla relazione di rivenditore da un partner Cloud Solution Provider è ospitata da diversi portali per i clienti. La posizione del portale dipende dal fatto che un cliente si trova in un cloud pubblico Microsoft o in un cloud nazionale:
 
 |Tipi di clienti cloud  | Dove un cliente accetta un invito a una relazione con rivenditore? |
 |---------|---------

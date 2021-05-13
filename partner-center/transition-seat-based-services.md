@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: deda7a351c79636dfb11c002810a8510782aca6d
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: b1d5f415680cad8466da631a68fb6249a5298a2d
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284452"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855982"
 ---
-# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Spostare i clienti basati su licenza da altri & partner al programma Cloud Solution Provider licenza
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Spostare i clienti basati su licenza da altri canali & partner al programma Cloud Solution Provider licenza
 
-**Ruoli appropriati**
-
-- Amministratore degli account
-- Agente di vendita
-- Agente di fatturazione
+**Ruoli appropriati:** amministratore account | Agente di vendita | Agente di fatturazione
 
 Se il cliente vuole assumere più partner, trasferire le sottoscrizioni a un altro partner o gestire le sottoscrizioni acquistate altrove, è possibile spostarle manualmente. È anche possibile spostare i clienti in Partner Center da un altro canale.
 
@@ -36,12 +32,12 @@ Se il cliente vuole assumere più partner, trasferire le sottoscrizioni a un alt
 
 
    >[!NOTE]
-   >Il cliente potrebbe essere idoneo per un credito se ha effettuato l'acquisto tramite il portale di amministrazione di Microsoft 365 (M365), ad esempio tramite fatturazione mensile o annuale diretta da Microsoft. I crediti per le sottoscrizioni acquistate direttamente da Microsoft vengono gestiti dal supporto per la fatturazione **M365.** Vedere le linee guida di M365 su come [annullare la sottoscrizione di M365.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Se si hanno privilegi di amministrazione delegati per il cliente, è possibile contattare il supporto M65 per conto del cliente. In caso contrario, chiedere al cliente di contattare direttamente il supporto tecnico M365 per scoprire la quantità di credito per cui è idoneo e come verrà loro assegnato il credito. Leggere le informazioni [sui privilegi di amministratore con delega](customers-revoke-admin-privileges.md).
+   >Il cliente potrebbe essere idoneo per un credito se ha effettuato l'acquisto tramite il portale di amministrazione di Microsoft 365 (M365), ad esempio tramite fatturazione mensile o annuale diretta da Microsoft. I crediti per le sottoscrizioni acquistate direttamente da Microsoft vengono gestiti dal supporto per la fatturazione **M365.** Vedere le linee guida di M365 su come [annullare la sottoscrizione di M365.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Se si hanno privilegi di amministrazione delegati per il cliente, è possibile contattare il supporto M65 per conto del cliente. In caso contrario, chiedere al cliente di contattare direttamente il supporto tecnico M365 per scoprire la quantità di credito per cui è idoneo e come verrà loro assegnato il credito. Leggere le informazioni [sui privilegi di amministratore con delega.](customers-revoke-admin-privileges.md)
 
 
 4. Il cliente continuerà quindi con le sottoscrizioni di cui è stato effettuato il provisioning senza interruzioni.
 
-Se si effettua il provisioning delle stesse offerte utilizzate dal cliente, non è necessario riassegnare le licenze e non si verificano interruzioni per gli utenti finali. Le offerte devono essere le stesse per evitare perdite di dati. Finché il numero totale di licenze rimane invariato e l'offerta è equivalente, i clienti non avranno alcun impatto.
+Se si effettua il provisioning delle stesse offerte utilizzate dal cliente, non è necessario riassegnare le licenze e non si verificano interruzioni per gli utenti finali. Le offerte devono essere le stesse per evitare perdite di dati. Purché il numero totale di licenze rimanga invariato e l'offerta sia equivalente, i clienti non avranno alcun impatto.
 
 Se si trasferiscono i clienti che si trovano in offerte non più utilizzate, sarà necessario trovare un'offerta equivalente per evitare la perdita di dati. Se si sposta il cliente in un'offerta diversa, sarà necessario aggiornare l'assegnazione delle licenze.
 

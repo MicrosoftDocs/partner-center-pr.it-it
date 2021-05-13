@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: b1bb86a493ce81cb02b14c9555f82767d10f841c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328084"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855949"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Ottenere informazioni dettagliate sulle segnalazioni nel Centro per i partner ed esaminare lo stato delle segnalazioni
 
-**Ruoli appropriati**
-
-- Amministratore delle segnalazioni
+**Ruoli appropriati:** amministratore delle segnalazioni
 
 La **pagina Opportunità di co-selling** nella sezione **Analisi** in Segnalazioni consente di vedere il funzionamento delle segnalazioni. Esamina regolarmente queste metriche per identificare tendenze o aree che richiedono attenzione e inizia a muoverti verso il raggiungimento dei tuoi obiettivi aziendali.
 
@@ -70,13 +68,13 @@ Le trattative in uscita guidate dai partner, private e di co-selling si uniranno
 
 ## <a name="deals-by-geography"></a>Trattative per area geografica
 
-In questa sezione vengono visualizzati i paesi e/o le aree geografiche da cui sono arrivate le segnalazioni, con i dettagli relativi a ogni paese/area geografica. È disponibile una vista tabella dei dettagli delle trattative per ogni paese insieme a una vista mappa di tutti i paesi. È possibile selezionare un paese specifico nella tabella o selezionare la visualizzazione mappa per fare zoom avanti su un paese specifico.
+In questa sezione vengono visualizzati i paesi e/o le aree geografiche da cui sono arrivate le segnalazioni, con i dettagli relativi a ogni paese/area geografica. È disponibile una vista tabella dei dettagli delle trattative per ogni paese insieme a una vista mappa di tutti i paesi. È possibile selezionare un paese specifico nella tabella o selezionare la visualizzazione mappa per ingrandire un paese specifico.
 
 :::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="Immagine che mostra la distribuzione geografica delle segnalazioni.":::
 
 ## <a name="deals-by-solutions"></a>Trattative per soluzioni
 
-Questo grafico consente di vedere quali soluzioni attivano la maggior parte delle segnalazioni e generano il valore più alto di trattative. La tabella include tre pivot: Co-selling, Guidato dal partner e Privato.
+Questo grafico consente di vedere quali soluzioni attivano la maggior parte delle segnalazioni e generano il valore più alto di trattative. La tabella include tre pivot: Co-selling, Partner-led e Private.
 In base alla selezione del pivot, è possibile visualizzare le prestazioni delle trattative aggregate per soluzione.
 
 > [!NOTE]
@@ -100,7 +98,7 @@ La sezione di confronto consentirà di confrontare i dati relativi alle segnalaz
 - Mercati
 - Soluzioni
 
-Quando è selezionato il tipo di trattativa, è possibile confrontare le prestazioni delle segnalazioni rispetto alle opportunità di co-selling, alle trattative guidate dai partner e private. Per i mercati e le soluzioni, è possibile scegliere fino a tre diverse opzioni per il confronto delle prestazioni. Il primo grafico, che è un grafico a barre, presenterà i dati con una tendenza mensile in base al pivot principale, ovvero il volume o il valore delle trattative vinte. A destra del grafico a barre è inoltre presente un grafico a torta, che mostra la distribuzione per percentuale per gli stessi dati.
+Quando si seleziona il tipo di trattativa, è possibile confrontare le prestazioni delle segnalazioni rispetto alle opportunità di co-selling, alle trattative guidate dai partner e private. Per i mercati e le soluzioni, è possibile scegliere fino a tre diverse opzioni per il confronto delle prestazioni. Il primo grafico, che è un grafico a barre, presenterà i dati con una tendenza mensile in base al pivot principale, ovvero il volume o il valore delle trattative vinte. A destra del grafico a barre è inoltre presente un grafico a torta, che mostra la distribuzione per percentuale per gli stessi dati.
 
 :::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Immagine che mostra la sezione di confronto.":::
 

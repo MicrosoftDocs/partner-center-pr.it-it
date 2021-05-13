@@ -1,92 +1,87 @@
 ---
-title: Report sull'utilizzo Power BI di partner Center Insights
+title: Informazioni dettagliate sul Centro per Power BI report sull'utilizzo
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri cosa stai facendo e dove puoi migliorare l'uso di Power BI sottoscrizioni che Vendi o Gestisci per i tuoi clienti.
+description: Vedere cosa si sta facendo bene e dove è possibile migliorare l'utilizzo Power BI sottoscrizioni che si vendono o gestiscono per i clienti.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086295"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854588"
 ---
-# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a><span data-ttu-id="97cd1-103">Report sull'utilizzo di Power BI disponibile dal dashboard di partner Center Insights</span><span class="sxs-lookup"><span data-stu-id="97cd1-103">Power BI usage report available from the Partner Center Insights dashboard</span></span>
+# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a><span data-ttu-id="18d71-103">Power BI report sull'utilizzo disponibile nel dashboard di Partner Center Insights</span><span class="sxs-lookup"><span data-stu-id="18d71-103">Power BI usage report available from the Partner Center Insights dashboard</span></span>
 
-<span data-ttu-id="97cd1-104">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="97cd1-104">**Appropriate roles**</span></span>
+<span data-ttu-id="18d71-104">**Ruoli appropriati:** Amministratore globale | Agente amministratore | Visualizzatore di report | Visualizzatore di report executive</span><span class="sxs-lookup"><span data-stu-id="18d71-104">**Appropriate roles**: Global admin | Admin agent | Report viewer | Executive report viewer</span></span>
 
-- <span data-ttu-id="97cd1-105">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="97cd1-105">Global admin</span></span>
-- <span data-ttu-id="97cd1-106">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="97cd1-106">Admin agent</span></span>
-- <span data-ttu-id="97cd1-107">Visualizzatore di report</span><span class="sxs-lookup"><span data-stu-id="97cd1-107">Report viewer</span></span>
-- <span data-ttu-id="97cd1-108">Visualizzatore di report esecutivi</span><span class="sxs-lookup"><span data-stu-id="97cd1-108">Executive report viewer</span></span>
+<span data-ttu-id="18d71-105">Il Power BI di utilizzo fornisce i dati di utilizzo Power BI sottoscrizioni vendute o gestite per i clienti.</span><span class="sxs-lookup"><span data-stu-id="18d71-105">The Power BI usage report provides usage data for the Power BI subscriptions that you sold or manage for your customers.</span></span> <span data-ttu-id="18d71-106">È possibile visualizzare le sezioni seguenti dal report sull Power BI di utilizzo.</span><span class="sxs-lookup"><span data-stu-id="18d71-106">You can view the following sections from the Power BI usage report.</span></span>
 
-<span data-ttu-id="97cd1-109">Il report utilizzo Power BI fornisce i dati di utilizzo per le sottoscrizioni Power BI vendute o gestite per i clienti.</span><span class="sxs-lookup"><span data-stu-id="97cd1-109">The Power BI usage report provides usage data for the Power BI subscriptions that you sold or manage for your customers.</span></span> <span data-ttu-id="97cd1-110">È possibile visualizzare le sezioni seguenti dal report sull'utilizzo del Power BI.</span><span class="sxs-lookup"><span data-stu-id="97cd1-110">You can view the following sections from the Power BI usage report.</span></span>
-
-- <span data-ttu-id="97cd1-111">Riepilogo</span><span class="sxs-lookup"><span data-stu-id="97cd1-111">Summary</span></span>
-- <span data-ttu-id="97cd1-112">Utilizzo Power BI per geografia</span><span class="sxs-lookup"><span data-stu-id="97cd1-112">Power BI usage by geography</span></span>
-- <span data-ttu-id="97cd1-113">Utilizzo Power BI per SKU</span><span class="sxs-lookup"><span data-stu-id="97cd1-113">Power BI usage by SKU</span></span>
-- <span data-ttu-id="97cd1-114">Prestazioni delle sottoscrizioni</span><span class="sxs-lookup"><span data-stu-id="97cd1-114">Subscriptions performance</span></span>
-- <span data-ttu-id="97cd1-115">Distribuzione utilizzo Power BI</span><span class="sxs-lookup"><span data-stu-id="97cd1-115">Power BI usage distribution</span></span>
+- <span data-ttu-id="18d71-107">Riepilogo</span><span class="sxs-lookup"><span data-stu-id="18d71-107">Summary</span></span>
+- <span data-ttu-id="18d71-108">Power BI'utilizzo in base all'area geografica</span><span class="sxs-lookup"><span data-stu-id="18d71-108">Power BI usage by geography</span></span>
+- <span data-ttu-id="18d71-109">Power BI'utilizzo da parte dello SKU</span><span class="sxs-lookup"><span data-stu-id="18d71-109">Power BI usage by SKU</span></span>
+- <span data-ttu-id="18d71-110">Prestazioni delle sottoscrizioni</span><span class="sxs-lookup"><span data-stu-id="18d71-110">Subscriptions performance</span></span>
+- <span data-ttu-id="18d71-111">Power BI distribuzione dell'utilizzo</span><span class="sxs-lookup"><span data-stu-id="18d71-111">Power BI usage distribution</span></span>
 
  > [!NOTE]
- > <span data-ttu-id="97cd1-116">Questo report è disponibile nel dashboard di Insights.</span><span class="sxs-lookup"><span data-stu-id="97cd1-116">This report is available from the Insights dashboard.</span></span> <span data-ttu-id="97cd1-117">Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive.</span><span class="sxs-lookup"><span data-stu-id="97cd1-117">To view this report, you must be assigned a specific role in Partner Center, such as Global Admin, Account Admin, Report Viewer or Executive Report Viewer.</span></span> <span data-ttu-id="97cd1-118">Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. i tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.</span><span class="sxs-lookup"><span data-stu-id="97cd1-118">For more information, see your company's Global Admin. Specific types of data in this report may also be available only to users with Executive Report Viewer privileges.</span></span>
+ > <span data-ttu-id="18d71-112">Questo report è disponibile nel dashboard di Insights.</span><span class="sxs-lookup"><span data-stu-id="18d71-112">This report is available from the Insights dashboard.</span></span> <span data-ttu-id="18d71-113">Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Executive Report Viewer.</span><span class="sxs-lookup"><span data-stu-id="18d71-113">To view this report, you must be assigned a specific role in Partner Center, such as Global Admin, Account Admin, Report Viewer or Executive Report Viewer.</span></span> <span data-ttu-id="18d71-114">Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi Executive Report Viewer.</span><span class="sxs-lookup"><span data-stu-id="18d71-114">For more information, see your company's Global Admin. Specific types of data in this report may also be available only to users with Executive Report Viewer privileges.</span></span>
 
-## <a name="summary"></a><span data-ttu-id="97cd1-119">Riepilogo</span><span class="sxs-lookup"><span data-stu-id="97cd1-119">Summary</span></span>
+## <a name="summary"></a><span data-ttu-id="18d71-115">Riepilogo</span><span class="sxs-lookup"><span data-stu-id="18d71-115">Summary</span></span>
 
-<span data-ttu-id="97cd1-120">La sezione Riepilogo presenta una visualizzazione snapshot degli indicatori chiave correlati a Power BI sottoscrizioni di utilizzo vendute o gestite per i clienti.</span><span class="sxs-lookup"><span data-stu-id="97cd1-120">The summary section presents a snapshot view of the key indicators related to Power BI usage subscriptions that you sold or manage for your customers.</span></span> 
+<span data-ttu-id="18d71-116">La sezione di riepilogo presenta una visualizzazione snapshot degli indicatori chiave correlati alle sottoscrizioni Power BI di utilizzo vendute o gestite per i clienti.</span><span class="sxs-lookup"><span data-stu-id="18d71-116">The summary section presents a snapshot view of the key indicators related to Power BI usage subscriptions that you sold or manage for your customers.</span></span> 
 
-- <span data-ttu-id="97cd1-121">Postazioni disponibili: numero totale di licenze vendute durante l'intervallo di tempo selezionato.</span><span class="sxs-lookup"><span data-stu-id="97cd1-121">Available seats: Total number of licenses sold during the selected time frame.</span></span>
+- <span data-ttu-id="18d71-117">Postazioni disponibili: numero totale di licenze vendute durante l'intervallo di tempo selezionato.</span><span class="sxs-lookup"><span data-stu-id="18d71-117">Available seats: Total number of licenses sold during the selected time frame.</span></span>
 
-   <span data-ttu-id="97cd1-122">Il grafico micro presenta una tendenza di mese per mese del numero di postazioni disponibili per l'intervallo di date selezionato.</span><span class="sxs-lookup"><span data-stu-id="97cd1-122">The Micro chart presents a month-over-month trend of available seats count for your selected date range.</span></span>
+   <span data-ttu-id="18d71-118">Il grafico Micro presenta una tendenza mensile del numero di postazioni disponibili per l'intervallo di date selezionato.</span><span class="sxs-lookup"><span data-stu-id="18d71-118">The Micro chart presents a month-over-month trend of available seats count for your selected date range.</span></span>
 
-- <span data-ttu-id="97cd1-123">Postazioni assegnate: numero totale di licenze assegnate durante l'intervallo di tempo selezionato.</span><span class="sxs-lookup"><span data-stu-id="97cd1-123">Assigned seats: Total number of licenses assigned during the selected time frame.</span></span>
+- <span data-ttu-id="18d71-119">Postazioni assegnate: numero totale di licenze assegnate durante l'intervallo di tempo selezionato.</span><span class="sxs-lookup"><span data-stu-id="18d71-119">Assigned seats: Total number of licenses assigned during the selected time frame.</span></span>
 
-   <span data-ttu-id="97cd1-124">Il grafico micro presenta una tendenza mensile rispetto al numero di posti assegnati durante l'intervallo di date selezionato.</span><span class="sxs-lookup"><span data-stu-id="97cd1-124">The Micro chart presents a month-over-month trend of the assigned seats count during your selected date range.</span></span>
+   <span data-ttu-id="18d71-120">Il grafico Micro presenta una tendenza mensile del numero di postazioni assegnate durante l'intervallo di date selezionato.</span><span class="sxs-lookup"><span data-stu-id="18d71-120">The Micro chart presents a month-over-month trend of the assigned seats count during your selected date range.</span></span>
 
-- <span data-ttu-id="97cd1-125">Postazioni attive: numero totale di licenze con utilizzo durante l'intervallo di tempo selezionato.</span><span class="sxs-lookup"><span data-stu-id="97cd1-125">Active seats: Total number of licenses that had usage during the selected time frame.</span></span> 
+- <span data-ttu-id="18d71-121">Postazioni attive: numero totale di licenze utilizzate durante l'intervallo di tempo selezionato.</span><span class="sxs-lookup"><span data-stu-id="18d71-121">Active seats: Total number of licenses that had usage during the selected time frame.</span></span> 
 
-   <span data-ttu-id="97cd1-126">Il grafico micro presenta una tendenza mensile di postazioni mensili attive nel periodo di tempo selezionato.</span><span class="sxs-lookup"><span data-stu-id="97cd1-126">The Micro chart presents a monthly trend of monthly active seats over the selected time period.</span></span>
+   <span data-ttu-id="18d71-122">Il grafico Micro presenta una tendenza mensile dei posti attivi mensili nel periodo di tempo selezionato.</span><span class="sxs-lookup"><span data-stu-id="18d71-122">The Micro chart presents a monthly trend of monthly active seats over the selected time period.</span></span>
 
-- <span data-ttu-id="97cd1-127">% Utilizzo attivo: numero totale di postazioni attive espresse come percentuale delle postazioni disponibili per l'intervallo di tempo selezionato.</span><span class="sxs-lookup"><span data-stu-id="97cd1-127">Active Usage %: Total number of active seats expressed as a percentage of the available seats for the selected time frame.</span></span> 
+- <span data-ttu-id="18d71-123">%utilizzo attivo: numero totale di postazioni attive espresse come percentuale delle postazioni disponibili per l'intervallo di tempo selezionato.</span><span class="sxs-lookup"><span data-stu-id="18d71-123">Active Usage %: Total number of active seats expressed as a percentage of the available seats for the selected time frame.</span></span> 
 
-   <span data-ttu-id="97cd1-128">Il grafico micro presenta una tendenza mensile della percentuale di utilizzo attivo nel periodo di tempo selezionato.</span><span class="sxs-lookup"><span data-stu-id="97cd1-128">The Micro chart presents a monthly trend of active usage percentage over the selected time period.</span></span>
+   <span data-ttu-id="18d71-124">Il grafico Micro presenta una tendenza mensile della percentuale di utilizzo attiva nel periodo di tempo selezionato.</span><span class="sxs-lookup"><span data-stu-id="18d71-124">The Micro chart presents a monthly trend of active usage percentage over the selected time period.</span></span>
 
-:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Riepilogo utilizzo Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Power BI riepilogo dell'utilizzo":::
 
-## <a name="power-bi-usage-by-geography"></a><span data-ttu-id="97cd1-130">Utilizzo Power BI per geografia</span><span class="sxs-lookup"><span data-stu-id="97cd1-130">Power BI usage by geography</span></span>
+## <a name="power-bi-usage-by-geography"></a><span data-ttu-id="18d71-126">Power BI'utilizzo in base all'area geografica</span><span class="sxs-lookup"><span data-stu-id="18d71-126">Power BI usage by geography</span></span>
 
-<span data-ttu-id="97cd1-131">Il **Power bi l'utilizzo da parte della geografia** illustra la distribuzione delle postazioni disponibili e delle postazioni attive per paese del cliente.</span><span class="sxs-lookup"><span data-stu-id="97cd1-131">The **Power BI usage by geography** depicts the distribution of available seats and active seats by customer country.</span></span> <span data-ttu-id="97cd1-132">I colori più chiari sulla mappa rappresentano valori più bassi, mentre i colori più scuri rappresentano valori più alti.</span><span class="sxs-lookup"><span data-stu-id="97cd1-132">Lighter colors on the map represent lower values, while darker colors represent higher values.</span></span> <span data-ttu-id="97cd1-133">È possibile cercare e selezionare un paese nella griglia a cui applicare lo zoom.</span><span class="sxs-lookup"><span data-stu-id="97cd1-133">You can search and select a country in the grid to zoom to.</span></span>
+<span data-ttu-id="18d71-127">Il **Power BI per area** geografica illustra la distribuzione delle postazioni disponibili e delle postazioni attive in base al paese del cliente.</span><span class="sxs-lookup"><span data-stu-id="18d71-127">The **Power BI usage by geography** depicts the distribution of available seats and active seats by customer country.</span></span> <span data-ttu-id="18d71-128">I colori più chiari sulla mappa rappresentano valori inferiori, mentre i colori più scuri rappresentano valori più alti.</span><span class="sxs-lookup"><span data-stu-id="18d71-128">Lighter colors on the map represent lower values, while darker colors represent higher values.</span></span> <span data-ttu-id="18d71-129">È possibile cercare e selezionare un paese nella griglia in base a cui eseguire lo zoom.</span><span class="sxs-lookup"><span data-stu-id="18d71-129">You can search and select a country in the grid to zoom to.</span></span>
 
-<span data-ttu-id="97cd1-134">La tabella **numero di paesi/** aree geografiche presenta il totale dei paesi in cui vengono generati gli eventi di utilizzo di Azure.</span><span class="sxs-lookup"><span data-stu-id="97cd1-134">The **Number of countries/region** table presents the total countries/regions where Azure usage events are generated.</span></span>
+<span data-ttu-id="18d71-130">La **tabella Number of countries/region** (Numero di paesi/aree geografiche) presenta i paesi/aree geografiche totali in cui vengono generati gli eventi di utilizzo di Azure.</span><span class="sxs-lookup"><span data-stu-id="18d71-130">The **Number of countries/region** table presents the total countries/regions where Azure usage events are generated.</span></span>
 
-<span data-ttu-id="97cd1-135">È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione della mappa.</span><span class="sxs-lookup"><span data-stu-id="97cd1-135">You can search and select a country in the grid to zoom to the location in the map.</span></span> <span data-ttu-id="97cd1-136">Selezionare l'opzione **Home** sulla mappa per ripristinare la visualizzazione originale.</span><span class="sxs-lookup"><span data-stu-id="97cd1-136">Select the **Home** option on the map to revert to the original view.</span></span>
+<span data-ttu-id="18d71-131">È possibile cercare e selezionare un paese nella griglia per fare zoom avanti sulla posizione nella mappa.</span><span class="sxs-lookup"><span data-stu-id="18d71-131">You can search and select a country in the grid to zoom to the location in the map.</span></span> <span data-ttu-id="18d71-132">Selezionare **l'opzione** Home sulla mappa per ripristinare la visualizzazione originale.</span><span class="sxs-lookup"><span data-stu-id="18d71-132">Select the **Home** option on the map to revert to the original view.</span></span>
 
-:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Utilizzo Power BI per geografia":::
+:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI'utilizzo in base all'area geografica":::
 
-## <a name="power-bi-usage-by-sku"></a><span data-ttu-id="97cd1-138">Utilizzo Power BI per SKU</span><span class="sxs-lookup"><span data-stu-id="97cd1-138">Power BI usage by SKU</span></span>
+## <a name="power-bi-usage-by-sku"></a><span data-ttu-id="18d71-134">Power BI'utilizzo per SKU</span><span class="sxs-lookup"><span data-stu-id="18d71-134">Power BI usage by SKU</span></span>
 
-<span data-ttu-id="97cd1-139">Il Power BI Usage by SKU illustra la tendenza mensile di postazioni disponibili, postazioni attive e sedi assegnate da SKU.</span><span class="sxs-lookup"><span data-stu-id="97cd1-139">The Power BI usage by SKU depicts monthly trend of available seats, active seats, and assigned seats by SKUs.</span></span>
+<span data-ttu-id="18d71-135">Il Power BI per SKU illustra la tendenza mensile delle postazioni disponibili, delle postazioni attive e delle postazioni assegnate in base agli SKU.</span><span class="sxs-lookup"><span data-stu-id="18d71-135">The Power BI usage by SKU depicts monthly trend of available seats, active seats, and assigned seats by SKUs.</span></span>
 
-:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Utilizzo Power BI per SKU":::
+:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Power BI'utilizzo per SKU":::
 
-## <a name="subscriptions-performance"></a><span data-ttu-id="97cd1-141">Prestazioni delle sottoscrizioni</span><span class="sxs-lookup"><span data-stu-id="97cd1-141">Subscriptions performance</span></span>
+## <a name="subscriptions-performance"></a><span data-ttu-id="18d71-137">Prestazioni delle sottoscrizioni</span><span class="sxs-lookup"><span data-stu-id="18d71-137">Subscriptions performance</span></span>
 
-<span data-ttu-id="97cd1-142">Le prestazioni delle sottoscrizioni rappresentano la tendenza mensile dell'utilizzo attivo per ogni sottoscrizione del cliente.</span><span class="sxs-lookup"><span data-stu-id="97cd1-142">The Subscriptions performance depicts monthly trend of active usage per customer subscription.</span></span> <span data-ttu-id="97cd1-143">I dati per i primi 100 clienti fatturati ricavi sono visualizzati nella tabella ed è possibile cercare qualsiasi cliente oppure scaricare i dati non elaborati per visualizzare i dettagli di tutte le sottoscrizioni.</span><span class="sxs-lookup"><span data-stu-id="97cd1-143">Data for the top 100 customers by billed revenue is shown in the table and you can search for any customer or download the raw data to view details for all subscriptions.</span></span>
+<span data-ttu-id="18d71-138">Le prestazioni delle sottoscrizioni illustrano la tendenza mensile dell'utilizzo attivo per ogni sottoscrizione del cliente.</span><span class="sxs-lookup"><span data-stu-id="18d71-138">The Subscriptions performance depicts monthly trend of active usage per customer subscription.</span></span> <span data-ttu-id="18d71-139">I dati per i primi 100 clienti in base ai ricavi fatturati vengono visualizzati nella tabella ed è possibile cercare qualsiasi cliente o scaricare i dati non elaborati per visualizzare i dettagli di tutte le sottoscrizioni.</span><span class="sxs-lookup"><span data-stu-id="18d71-139">Data for the top 100 customers by billed revenue is shown in the table and you can search for any customer or download the raw data to view details for all subscriptions.</span></span>
 
-:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Prestazioni Power BI sottoscrizione":::
+:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI prestazioni della sottoscrizione":::
 
-## <a name="power-bi-usage-distribution"></a><span data-ttu-id="97cd1-145">Distribuzione utilizzo Power BI</span><span class="sxs-lookup"><span data-stu-id="97cd1-145">Power BI usage distribution</span></span>
+## <a name="power-bi-usage-distribution"></a><span data-ttu-id="18d71-141">Power BI distribuzione dell'utilizzo</span><span class="sxs-lookup"><span data-stu-id="18d71-141">Power BI usage distribution</span></span>
 
-<span data-ttu-id="97cd1-146">La distribuzione dell'utilizzo di Power BI illustra la suddivisione delle postazioni disponibili, delle postazioni attive e delle postazioni assegnate per SKU.</span><span class="sxs-lookup"><span data-stu-id="97cd1-146">The Power BI usage distribution depicts the breakdown of available seats, active seats, and assigned seats by SKUs.</span></span>
+<span data-ttu-id="18d71-142">La Power BI di utilizzo illustra la suddivisione delle postazioni disponibili, delle postazioni attive e delle postazioni assegnate in base agli SKU.</span><span class="sxs-lookup"><span data-stu-id="18d71-142">The Power BI usage distribution depicts the breakdown of available seats, active seats, and assigned seats by SKUs.</span></span>
 
-:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Distribuzione utilizzo Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI distribuzione dell'utilizzo":::
 
-## <a name="next-steps"></a><span data-ttu-id="97cd1-148">Passaggi successivi</span><span class="sxs-lookup"><span data-stu-id="97cd1-148">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="18d71-144">Passaggi successivi</span><span class="sxs-lookup"><span data-stu-id="18d71-144">Next steps</span></span>
 
-- <span data-ttu-id="97cd1-149">Per altri report, vedere [Partner Center Insights](partner-center-insights.md).</span><span class="sxs-lookup"><span data-stu-id="97cd1-149">For more reports, see [Partner Center Insights](partner-center-insights.md).</span></span>
+- <span data-ttu-id="18d71-145">Per altri report, vedere [Partner Center Insights](partner-center-insights.md).</span><span class="sxs-lookup"><span data-stu-id="18d71-145">For more reports, see [Partner Center Insights](partner-center-insights.md).</span></span>
 
-- <span data-ttu-id="97cd1-150">È possibile scaricare i dati non elaborati che generano questo report dalla sezione download dei report nel dashboard di Insights.</span><span class="sxs-lookup"><span data-stu-id="97cd1-150">You can download the raw data powering this report from the Download Reports section in the Insights dashboard.</span></span> [<span data-ttu-id="97cd1-151">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="97cd1-151">Learn More</span></span>](pci-download-reports.md) 
+- <span data-ttu-id="18d71-146">È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report nel dashboard di Insights.</span><span class="sxs-lookup"><span data-stu-id="18d71-146">You can download the raw data powering this report from the Download Reports section in the Insights dashboard.</span></span> [<span data-ttu-id="18d71-147">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="18d71-147">Learn More</span></span>](pci-download-reports.md) 

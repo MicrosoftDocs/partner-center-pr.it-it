@@ -1,75 +1,70 @@
 ---
-title: Report utilizzo team di Insights per partner Center
+title: Report sull'utilizzo dei team delle informazioni dettagliate del Centro per i partner
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri cosa stai facendo e dove puoi migliorare l'uso delle sottoscrizioni dei team che Vendi o Gestisci per i tuoi clienti.
+description: Scopri cosa stai facendo bene e dove puoi migliorare l'uso delle sottoscrizioni di Teams vendute o gestite per i tuoi clienti.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086720"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855183"
 ---
-# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a><span data-ttu-id="d7727-103">Report sull'utilizzo dei team disponibile nel dashboard di partner Center Insights</span><span class="sxs-lookup"><span data-stu-id="d7727-103">Teams usage report available from the Partner Center Insights dashboard</span></span>
+# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a><span data-ttu-id="0fef1-103">Report sull'utilizzo di Teams disponibile nel dashboard Partner Center Insights</span><span class="sxs-lookup"><span data-stu-id="0fef1-103">Teams usage report available from the Partner Center Insights dashboard</span></span>
 
-<span data-ttu-id="d7727-104">**Ruoli appropriati**</span><span class="sxs-lookup"><span data-stu-id="d7727-104">**Appropriate roles**</span></span>
+<span data-ttu-id="0fef1-104">**Ruoli appropriati:** amministratore globale | Agente di amministrazione | Visualizzatore report | Visualizzatore di report executive</span><span class="sxs-lookup"><span data-stu-id="0fef1-104">**Appropriate roles**: Global admin | Admin agent | Report viewer | Executive report viewer</span></span>
 
-- <span data-ttu-id="d7727-105">Amministratore globale</span><span class="sxs-lookup"><span data-stu-id="d7727-105">Global admin</span></span>
-- <span data-ttu-id="d7727-106">Agente amministratore</span><span class="sxs-lookup"><span data-stu-id="d7727-106">Admin agent</span></span>
-- <span data-ttu-id="d7727-107">Visualizzatore di report</span><span class="sxs-lookup"><span data-stu-id="d7727-107">Report viewer</span></span>
-- <span data-ttu-id="d7727-108">Visualizzatore di report esecutivi</span><span class="sxs-lookup"><span data-stu-id="d7727-108">Executive report viewer</span></span>
+<span data-ttu-id="0fef1-105">Il report Utilizzo di Teams presenta le metriche correlate ai carichi di lavoro di Teams venduti o gestiti per i clienti.</span><span class="sxs-lookup"><span data-stu-id="0fef1-105">The Teams Usage report presents metrics related to your Teams workloads that you sold or manage for your customers.</span></span> <span data-ttu-id="0fef1-106">È possibile visualizzare le sezioni seguenti dal report Utilizzo di Teams.</span><span class="sxs-lookup"><span data-stu-id="0fef1-106">You can view the following sections from the Teams Usage report.</span></span>
 
-<span data-ttu-id="d7727-109">Il report sull'utilizzo dei team presenta le metriche relative ai carichi di lavoro dei team venduti o gestiti per i clienti.</span><span class="sxs-lookup"><span data-stu-id="d7727-109">The Teams Usage report presents metrics related to your Teams workloads that you sold or manage for your customers.</span></span> <span data-ttu-id="d7727-110">È possibile visualizzare le sezioni seguenti dal report sull'utilizzo dei team.</span><span class="sxs-lookup"><span data-stu-id="d7727-110">You can view the following sections from the Teams Usage report.</span></span>
-
-- <span data-ttu-id="d7727-111">Riepilogo</span><span class="sxs-lookup"><span data-stu-id="d7727-111">Summary</span></span>
-- <span data-ttu-id="d7727-112">Tendenza conversazioni</span><span class="sxs-lookup"><span data-stu-id="d7727-112">Conversations trend</span></span>
-- <span data-ttu-id="d7727-113">Utilizzo dei team da carichi di lavoro</span><span class="sxs-lookup"><span data-stu-id="d7727-113">Teams usage by workloads</span></span>
-- <span data-ttu-id="d7727-114">Clienti principali per utilizzo</span><span class="sxs-lookup"><span data-stu-id="d7727-114">Top customers by usage</span></span>
+- <span data-ttu-id="0fef1-107">Riepilogo</span><span class="sxs-lookup"><span data-stu-id="0fef1-107">Summary</span></span>
+- <span data-ttu-id="0fef1-108">Tendenza conversazioni</span><span class="sxs-lookup"><span data-stu-id="0fef1-108">Conversations trend</span></span>
+- <span data-ttu-id="0fef1-109">Utilizzo di Teams in base ai carichi di lavoro</span><span class="sxs-lookup"><span data-stu-id="0fef1-109">Teams usage by workloads</span></span>
+- <span data-ttu-id="0fef1-110">Principali clienti in base all'utilizzo</span><span class="sxs-lookup"><span data-stu-id="0fef1-110">Top customers by usage</span></span>
 
  > [!NOTE]
- > <span data-ttu-id="d7727-115">Questo report è disponibile nel dashboard di Insights.</span><span class="sxs-lookup"><span data-stu-id="d7727-115">This report is available from the Insights dashboard.</span></span> <span data-ttu-id="d7727-116">Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive.</span><span class="sxs-lookup"><span data-stu-id="d7727-116">To view this report, you must be assigned a specific role in Partner Center, such as Global Admin, Account Admin, Report Viewer or Executive Report Viewer.</span></span> <span data-ttu-id="d7727-117">Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. i tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.</span><span class="sxs-lookup"><span data-stu-id="d7727-117">For more information, see your company's Global Admin. Specific types of data in this report may also be available only to users with Executive Report Viewer privileges.</span></span>
+ > <span data-ttu-id="0fef1-111">Questo report è disponibile nel dashboard informazioni dettagliate.</span><span class="sxs-lookup"><span data-stu-id="0fef1-111">This report is available from the Insights dashboard.</span></span> <span data-ttu-id="0fef1-112">Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Executive Report Viewer.</span><span class="sxs-lookup"><span data-stu-id="0fef1-112">To view this report, you must be assigned a specific role in Partner Center, such as Global Admin, Account Admin, Report Viewer or Executive Report Viewer.</span></span> <span data-ttu-id="0fef1-113">Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report esecutivi.</span><span class="sxs-lookup"><span data-stu-id="0fef1-113">For more information, see your company's Global Admin. Specific types of data in this report may also be available only to users with Executive Report Viewer privileges.</span></span>
 
-## <a name="summary"></a><span data-ttu-id="d7727-118">Riepilogo</span><span class="sxs-lookup"><span data-stu-id="d7727-118">Summary</span></span>
+## <a name="summary"></a><span data-ttu-id="0fef1-114">Riepilogo</span><span class="sxs-lookup"><span data-stu-id="0fef1-114">Summary</span></span>
 
-<span data-ttu-id="d7727-119">La sezione Riepilogo presenta una visualizzazione snapshot degli indicatori chiave relativi ai carichi di lavoro dei team venduti o gestiti dall'utente per i clienti.</span><span class="sxs-lookup"><span data-stu-id="d7727-119">The summary section presents a snapshot view of the key indicators related to Teams workloads sold or managed by you for your customers.</span></span>  
+<span data-ttu-id="0fef1-115">La sezione di riepilogo presenta una visualizzazione snapshot degli indicatori chiave correlati ai carichi di lavoro di Teams venduti o gestiti dall'utente per i clienti.</span><span class="sxs-lookup"><span data-stu-id="0fef1-115">The summary section presents a snapshot view of the key indicators related to Teams workloads sold or managed by you for your customers.</span></span>  
 
-- <span data-ttu-id="d7727-120">Clienti: conteggio Distinct dei clienti che usano i team come carico di lavoro per la durata selezionata.</span><span class="sxs-lookup"><span data-stu-id="d7727-120">Customers: Distinct count of customers using Teams as a workload for the selected duration.</span></span>
+- <span data-ttu-id="0fef1-116">Clienti: conteggio distinto dei clienti che usano Teams come carico di lavoro per la durata selezionata.</span><span class="sxs-lookup"><span data-stu-id="0fef1-116">Customers: Distinct count of customers using Teams as a workload for the selected duration.</span></span>
 
-- <span data-ttu-id="d7727-121">Conteggio riunioni: numero di riunioni dei team eseguite dai clienti.</span><span class="sxs-lookup"><span data-stu-id="d7727-121">Meeting count: Number of Teams meetings conducted by your customers.</span></span>
+- <span data-ttu-id="0fef1-117">Conteggio delle riunioni: numero di riunioni di Teams svolte dai clienti.</span><span class="sxs-lookup"><span data-stu-id="0fef1-117">Meeting count: Number of Teams meetings conducted by your customers.</span></span>
 
-- <span data-ttu-id="d7727-122">Conteggio giornaliero medio delle riunioni per cliente: conteggio giornaliero medio delle riunioni per cliente.</span><span class="sxs-lookup"><span data-stu-id="d7727-122">Daily average meeting count per customer: Daily average meeting count per customer.</span></span> 
+- <span data-ttu-id="0fef1-118">Numero medio giornaliero di riunioni per cliente: numero medio giornaliero di riunioni per cliente.</span><span class="sxs-lookup"><span data-stu-id="0fef1-118">Daily average meeting count per customer: Daily average meeting count per customer.</span></span> 
 
-- <span data-ttu-id="d7727-123">Durata della riunione (ore): durata totale della riunione in ore.</span><span class="sxs-lookup"><span data-stu-id="d7727-123">Meeting duration (hours): Total meeting duration in hours.</span></span> 
+- <span data-ttu-id="0fef1-119">Durata riunione (ore): durata totale della riunione in ore.</span><span class="sxs-lookup"><span data-stu-id="0fef1-119">Meeting duration (hours): Total meeting duration in hours.</span></span> 
 
-- <span data-ttu-id="d7727-124">Durata media riunioni (minuti): durata media delle riunioni in minuti.</span><span class="sxs-lookup"><span data-stu-id="d7727-124">Average meeting duration (minutes): Average meeting duration in minutes.</span></span> 
+- <span data-ttu-id="0fef1-120">Durata media riunione (minuti): durata media della riunione in minuti.</span><span class="sxs-lookup"><span data-stu-id="0fef1-120">Average meeting duration (minutes): Average meeting duration in minutes.</span></span> 
 
-:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Riepilogo utilizzo team":::
+:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Riepilogo dell'utilizzo di Teams":::
 
-## <a name="conversations-trend"></a><span data-ttu-id="d7727-126">Tendenza conversazioni</span><span class="sxs-lookup"><span data-stu-id="d7727-126">Conversations trend</span></span>
+## <a name="conversations-trend"></a><span data-ttu-id="0fef1-122">Tendenza conversazioni</span><span class="sxs-lookup"><span data-stu-id="0fef1-122">Conversations trend</span></span>
 
-<span data-ttu-id="d7727-127">Il rapporto tendenza conversazioni Mostra la tendenza mensile di riunioni, chiamate e sistemi telefonici dei team, oltre alla durata media della riunione in minuti.</span><span class="sxs-lookup"><span data-stu-id="d7727-127">The Conversations trend report shows the monthly trend of Teams meetings, calls, and phone systems along with average meeting duration in minutes.</span></span>
+<span data-ttu-id="0fef1-123">Il report Tendenza conversazioni mostra la tendenza mensile di riunioni, chiamate e sistemi telefonici di Teams insieme alla durata media delle riunioni in minuti.</span><span class="sxs-lookup"><span data-stu-id="0fef1-123">The Conversations trend report shows the monthly trend of Teams meetings, calls, and phone systems along with average meeting duration in minutes.</span></span>
 
-:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="tendenze della conversazione di utilizzo del team":::
+:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="tendenze di conversazione sull'utilizzo dei team":::
 
-## <a name="teams-usage-by-workloads"></a><span data-ttu-id="d7727-129">Utilizzo dei team da carichi di lavoro</span><span class="sxs-lookup"><span data-stu-id="d7727-129">Teams usage by workloads</span></span>
+## <a name="teams-usage-by-workloads"></a><span data-ttu-id="0fef1-125">Utilizzo dei team in base ai carichi di lavoro</span><span class="sxs-lookup"><span data-stu-id="0fef1-125">Teams usage by workloads</span></span>
 
-<span data-ttu-id="d7727-130">Il report utilizzo team per carichi di lavoro Mostra la suddivisione mensile di utenti desktop, mobili e Web dei team divisi da carichi di lavoro.</span><span class="sxs-lookup"><span data-stu-id="d7727-130">The Teams usage by workloads report shows the monthly split of desktop, mobile, and web users of Teams split by workloads.</span></span>
+<span data-ttu-id="0fef1-126">Il report Utilizzo di Teams in base ai carichi di lavoro mostra la suddivisione mensile di utenti desktop, mobili e Web di Teams suddivisi per carichi di lavoro.</span><span class="sxs-lookup"><span data-stu-id="0fef1-126">The Teams usage by workloads report shows the monthly split of desktop, mobile, and web users of Teams split by workloads.</span></span>
 
-:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Utilizzo dei team da carichi di lavoro":::
+:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Utilizzo di Teams in base ai carichi di lavoro":::
 
-## <a name="top-customers-by-usage"></a><span data-ttu-id="d7727-132">Clienti principali per utilizzo</span><span class="sxs-lookup"><span data-stu-id="d7727-132">Top customers by usage</span></span>
+## <a name="top-customers-by-usage"></a><span data-ttu-id="0fef1-128">Clienti principali in base all'utilizzo</span><span class="sxs-lookup"><span data-stu-id="0fef1-128">Top customers by usage</span></span>
 
-<span data-ttu-id="d7727-133">Il report Top Customers by Usage Mostra l'utilizzo dei clienti principali per riunioni, chiamate e sistemi telefonici dei team e app di terze parti.</span><span class="sxs-lookup"><span data-stu-id="d7727-133">The Top customers by usage report shows the usage of top customers for Teams meetings, calls, and phone systems and third-party apps.</span></span>
+<span data-ttu-id="0fef1-129">Il report Top customers by usage (Clienti principali in base all'utilizzo) mostra l'utilizzo dei clienti principali per riunioni, chiamate e sistemi telefonici di Teams e app di terze parti.</span><span class="sxs-lookup"><span data-stu-id="0fef1-129">The Top customers by usage report shows the usage of top customers for Teams meetings, calls, and phone systems and third-party apps.</span></span>
 
-:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Clienti principali per utilizzo":::
+:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Clienti principali in base all'utilizzo":::
 
-## <a name="next-steps"></a><span data-ttu-id="d7727-135">Passaggi successivi</span><span class="sxs-lookup"><span data-stu-id="d7727-135">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="0fef1-131">Passaggi successivi</span><span class="sxs-lookup"><span data-stu-id="0fef1-131">Next steps</span></span>
 
-- <span data-ttu-id="d7727-136">Per altri report, vedere [Partner Center Insights](partner-center-insights.md).</span><span class="sxs-lookup"><span data-stu-id="d7727-136">For more reports, see [Partner Center Insights](partner-center-insights.md).</span></span>
+- <span data-ttu-id="0fef1-132">Per altri report, vedere [Partner Center Insights](partner-center-insights.md).</span><span class="sxs-lookup"><span data-stu-id="0fef1-132">For more reports, see [Partner Center Insights](partner-center-insights.md).</span></span>
 
-- <span data-ttu-id="d7727-137">È possibile scaricare i dati non elaborati che generano questo report dalla sezione download dei report nel dashboard di Insights.</span><span class="sxs-lookup"><span data-stu-id="d7727-137">You can download the raw data powering this report from the Download Reports section in the Insights dashboard.</span></span> [<span data-ttu-id="d7727-138">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="d7727-138">Learn More</span></span>](pci-download-reports.md) 
+- <span data-ttu-id="0fef1-133">È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report nel dashboard di Insights.</span><span class="sxs-lookup"><span data-stu-id="0fef1-133">You can download the raw data powering this report from the Download Reports section in the Insights dashboard.</span></span> [<span data-ttu-id="0fef1-134">Altre informazioni</span><span class="sxs-lookup"><span data-stu-id="0fef1-134">Learn More</span></span>](pci-download-reports.md) 

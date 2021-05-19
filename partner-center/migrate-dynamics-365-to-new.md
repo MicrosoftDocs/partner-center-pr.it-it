@@ -4,68 +4,63 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri come eseguire la migrazione delle offerte Dynamics 365 Business Edition qualificate a versioni più recenti prima della scadenza.
+description: Informazioni su come eseguire la migrazione di offerte Dynamics 365 Business Edition qualificate a versioni più recenti prima della scadenza.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8232ab165ea68ebefdfbb30f3ac52c907e1b7278
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132639"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151526"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Eseguire la migrazione delle offerte di Dynamics 365 Business Edition a versioni più recenti
 
-**Ruoli appropriati**
+**Ruoli appropriati:** amministratore globale | Amministratore gestione utenti | Agente di amministrazione | Agente di vendita
 
-- Amministratore globale
-- Amministratore gestione utenti
-- Agente amministratore
-- Agente di vendita
+A partire dal 1° gennaio 2019, i clienti con sottoscrizioni a Dynamics 365 Business Edition non possono più rinnovare queste offerte legacy; Le sottoscrizioni esistenti non verranno rinnovate automaticamente alla scadenza. Nella pagina dei dettagli della sottoscrizione lo stato della sottoscrizione verrà modificato in "Scadenza [data]" da "Rinnovo automatico il [data]".
 
-A partire dal 1 ° gennaio 2019, i clienti con sottoscrizioni Dynamics 365 Business Edition non possono più rinnovarsi nelle offerte legacy; le sottoscrizioni esistenti non verranno rinnovate automaticamente alla scadenza. Nella pagina dei dettagli della sottoscrizione, lo stato della sottoscrizione cambierà in "scade in data [DATE]" da "auto renews on [DATE]".
+Per garantire la continuità per i clienti, è consigliabile eseguire la transizione di quelli con sottoscrizioni in scadenza a un'opzione supportata, elencata di seguito. È consigliabile spostare i clienti in nuove sottoscrizioni prima della data di fine annuale della sottoscrizione per evitare interruzioni del servizio per i clienti.
 
-Per garantire la continuità per i clienti, è necessario eseguire la transizione con le sottoscrizioni in scadenza a un'opzione supportata, elencate di seguito. È consigliabile trasferire i clienti a nuove sottoscrizioni prima della data di fine annuale della sottoscrizione, in modo da evitare eventuali interruzioni del servizio per i clienti.
+Se si usa l'API (EITHER o Partner Center), è possibile trovare le sottoscrizioni in scadenza valutando la data di fine della sottoscrizione insieme alla proprietà auto renew = False. Le sottoscrizioni in questione verranno impostate su auto renew=False il 1° gennaio 2019. È possibile spostare i clienti in un nuovo piano in qualsiasi momento. 
 
-Se si usa l'API (CREST o centro per i partner), è possibile trovare le sottoscrizioni in scadenza valutando la data di fine della sottoscrizione insieme alla proprietà auto Renew = false. Le sottoscrizioni in questione verranno impostate su rinnovo automatico = false il 1 ° gennaio 2019. È possibile spostare i clienti in un nuovo piano in qualsiasi momento. 
-
-## <a name="the-dynamics-365-business-editions-being-retired"></a>Le edizioni di Dynamics 365 business in fase di ritiro
+## <a name="the-dynamics-365-business-editions-being-retired"></a>Le edizioni di Dynamics 365 Business in fase di ritiro
 
 - Dynamics 365 for Finance and Operations, Business edition
 - Dynamics 365 for Team Members, Business Edition
 
-## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central: nuove offerte di Dynamics 365 Business Edition
+## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central : nuove offerte di Dynamics 365 Business Edition
 
-Grazie alle nuove offerte di Dynamics Business Central, i clienti possono connettere i propri finanziari, le vendite, il servizio e le operazioni per semplificare i processi aziendali, migliorare le interazioni dei clienti e prendere decisioni migliori. Dynamics 365 business Central è basato sul cloud e disponibile solo per i partner di programma Cloud Solution Provider (CSP).
-I clienti di Dynamics 365 Business Edition sono idonei a ricevere prezzi di transizione scontati per le nuove offerte business Central fino al 30 giugno 2020.
+Con le nuove offerte di Dynamics Business Central, i clienti possono connettere i dati finanziari, le vendite, il servizio e le operazioni per semplificare i processi aziendali, migliorare le interazioni dei clienti e prendere decisioni migliori. Dynamics 365 Business Central è basato sul cloud e disponibile solo tramite Cloud Solution Provider partner del programma CSP.)
+I clienti di Dynamics 365 Business Edition sono idonei a ricevere prezzi di transizione scontati per le nuove offerte business central fino al 30 giugno 2020.
 
 ## <a name="transition-customers-to-new-product-plans"></a>Transizione dei clienti ai nuovi piani per i prodotti
 
- Il trasferimento dei clienti da SKU ritirati a quelli più recenti richiede i passaggi seguenti nell'ordine indicato:
+ Per spostare i clienti da SKU ritirati a SKU più recenti, è necessario eseguire i passaggi seguenti in questo ordine:
 
 - Acquistare la nuova sottoscrizione
-- Riassegna licenze utente correnti
-- Annulla sottoscrizione precedente
+- Riassegnare le licenze utente correnti
+- Annullare la sottoscrizione precedente
 
 ## <a name="purchase-the-new-plan-for-your-customer"></a>Acquistare il nuovo piano per il cliente
 
-1. Selezionare **Customers (clienti** ) dal NAV a sinistra e quindi selezionare il cliente che si desidera spostare nella nuova sottoscrizione.
-2. Selezionare **Aggiungi sottoscrizione**.
-3. Selezionare la sottoscrizione che si vuole acquistare dal catalogo (in questo caso, una delle opzioni precedenti), immettere il numero di licenze e quindi selezionare **Submit (Invia**). 
+1. Selezionare **Clienti** nel riquadro di spostamento a sinistra e quindi selezionare il cliente da spostare nella nuova sottoscrizione.
+2. Selezionare **Aggiungi sottoscrizione.**
+3. Selezionare la sottoscrizione che si vuole acquistare dal catalogo (in questo caso, una delle opzioni precedenti), immettere il numero di licenze e quindi selezionare **Invia.** 
 
-Il cliente avrà ora la sottoscrizione precedente e quella nuova. Il passaggio successivo consiste nel riassegnare le licenze agli utenti del cliente.
+Il cliente avrà ora sia la sottoscrizione precedente che quella nuova. Il passaggio successivo consiste nel riassegnare le licenze agli utenti del cliente.
 
-1. Selezionare **Customers (clienti** ) dal NAV a sinistra e quindi selezionare il cliente da trasferire.
-2. Selezionare **utenti e licenze**.
-3. Per riassegnare una licenza a un utente, selezionare l'utente e quindi selezionare **Gestisci licenze**. 
-4. Nella pagina **Gestisci licenze** deselezionare la casella di controllo Dynamics 365 per il piano Sales/Customer Engagement dalla licenza Basic (offerta qualificata) e selezionare un nuovo piano di servizio per la sottoscrizione a cui il cliente sta migrando. 
-5. Selezionare **Submit** (Invia). Questa operazione verrà eseguita per ogni utente che richiede la nuova licenza. 
+1. Selezionare **Clienti** nel riquadro di spostamento a sinistra e quindi selezionare il cliente che si sta spostando.
+2. Selezionare **Utenti e licenze.**
+3. Per riassegnare una licenza a un utente, selezionare l'utente e quindi **selezionare Gestisci licenze.** 
+4. Nella **pagina** Gestisci licenze deselezionare la casella di controllo Dynamics 365 for Sales/Customer Engagement Plan from Basic (Qualified Offer) license (Piano Dynamics 365 for Sales/Customer Engagement dalla licenza Basic - Offerta qualificata) e selezionare un nuovo piano di servizio per la sottoscrizione a cui si sta spostando il cliente. 
+5. Selezionare **Submit** (Invia). Questa operazione verrà creata per ogni utente che necessita della nuova licenza. 
 
 Dopo aver spostato le licenze nella nuova sottoscrizione, è possibile annullare la sottoscrizione precedente. 
 
-1. Selezionare **Customers (clienti** ) dal NAV a sinistra e quindi selezionare il cliente da trasferire.
-2. Nella pagina Dettagli sottoscrizione impostare la sottoscrizione precedente su **sospesa** e selezionare **Invia**.
+1. Selezionare **Clienti** nel riquadro di spostamento a sinistra e quindi selezionare il cliente che si sta spostando.
+2. Nella pagina dei dettagli della sottoscrizione impostare la sottoscrizione precedente su **Sospeso e** selezionare **Invia.**
 
-La sottoscrizione precedente è ora sospesa e la nuova sottoscrizione è attiva. Il deprovisioning della sottoscrizione sospesa verrà effettuato automaticamente dopo 120 giorni. Il cliente non comporterà costi aggiuntivi per la sottoscrizione precedente.
+La sottoscrizione precedente è ora sospesa e la nuova sottoscrizione è attiva. Il de provisioning della sottoscrizione sospesa verrà eseguito automaticamente dopo 120 giorni. Il cliente non incorrerà in costi aggiuntivi per la sottoscrizione precedente.

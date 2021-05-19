@@ -4,23 +4,21 @@ ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Informazioni su come impostare i dipendenti con l'autenticazione a più fattori
+description: Informazioni su come configurare i dipendenti con MFA
 author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
-ms.translationtype: HT
+ms.openlocfilehash: 5173526d0f65623311d5cd3a1061e8b9e93e9bb9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182376"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151628"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Configurare gli utenti con l'autenticazione a più fattori
 
-**Ruoli appropriati**
-
-- Amministratore globale
+**Ruoli appropriati:** Amministratore globale
 
 Le misure di sicurezza e la protezione della privacy sono alcune tra le nostre priorità più importanti. Sappiamo che la migliore difesa è la prevenzione e di essere al sicuro quanto lo sono i nostri punti più deboli. Questo è il motivo per cui è necessario che tutti nell'ecosistema agiscano e si assicurino che vengano adottate le protezioni di sicurezza appropriate. È consigliabile che tutti i partner abilitino l'autenticazione a più fattori (MFA) per gli utenti nel tenant partner. 
 
@@ -41,7 +39,7 @@ Verrà abilitata l'autenticazione a più fattori per l'utente. L'opzione Abilita
 >[!NOTE]
 >Per consentire agli utenti di usare l'autenticazione a più fattori, è possibile usare l'opzione **Applica** seguendo la stessa procedura illustrata in precedenza e selezionando **Applica**. Per altre informazioni, vedere [Abilitare Azure Multi-Factor Authentication per singolo utente per proteggere gli eventi di accesso](/azure/active-directory/authentication/howto-mfa-userstates). 
 
-Lo stato iniziale di tutti gli utenti è  **Disabilitato**. Quando gli utenti vengono registrati per Azure Multi-Factor Authentication per singolo utente, il relativo stato viene modificato in  **Abilitato**. Quando gli utenti abilitati eseguono l'accesso e completano il processo di registrazione, il relativo stato viene modificato in  **Applicato**. 
+Lo stato iniziale di tutti gli utenti è  **Disabilitato**. Quando si registrano gli utenti in multi-Azure Active Directory Multi-Factor Authentication, lo stato cambia in **Abilitato.** Quando gli utenti abilitati eseguono l'accesso e completano il processo di registrazione, il relativo stato viene modificato in  **Applicato**. 
 
 ## <a name="next-steps"></a>Passaggi successivi
 

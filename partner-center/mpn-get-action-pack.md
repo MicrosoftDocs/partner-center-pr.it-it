@@ -9,25 +9,20 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b75bffcab2c51ac81e3c2f623ad74a9314339b9
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: dc7be1fdf92249c31e8b2c6aa6611015e8b9b42f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132299"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152308"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Acquistare o rinnovare un abbonamento a Microsoft Action Pack oppure competenze Silver o Gold
 
 
-**Ruoli appropriati**
-
-- Amministratore globale
-- Amministratore gestione utenti
-- Amministratore dei partner MPN
-- Agente amministratore
+**Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti | Amministratore partner MPN | Agente amministratore
 
 
-Dal [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner, i membri del Microsoft Partner Network (MPN)) possono acquistare o rinnovare le offerte di vantaggio, incluse le competenze Microsoft Action Pack Subscription e Silver e Gold.
+Dal [dashboard](https://partner.microsoft.com/dashboard)Partner Center, i membri del Microsoft Partner Network (MPN)) possono acquistare o rinnovare offerte di vantaggio, tra cui la sottoscrizione di Microsoft Action Pack e le competenze Silver e Gold.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Acquistare Microsoft Action Pack per la prima volta
 

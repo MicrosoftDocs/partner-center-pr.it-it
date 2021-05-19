@@ -2,41 +2,38 @@
 title: Visualizzare i fondi co-op disponibili
 ms.topic: article
 ms.date: 01/03/2021
-description: Informazioni su come visualizzare i fondi della co-op ottenuti, richiesti e rimanenti, visualizzare le date di scadenza e riconciliare gli importi incoerenti.
+description: Informazioni su come visualizzare i fondi co-op ottenuti, reclamati e rimanenti, visualizzare le date di scadenza e riconciliare gli importi incoerenti.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 14706e44201159213dc8fff671a8d47c52bd89c1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179429"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151900"
 ---
-# <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Visualizza i finanziamenti disponibili, richiesti e rimanenti per la co-op
+# <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Visualizzare i fondi co-op disponibili ottenuti, rivendicati e rimanenti
 
-**Ruoli appropriati**
+**Ruoli appropriati:** incentivi per l'amministratore | Utente degli incentivi
 
-- Amministratore degli incentivi
-- Utente di incentivi
+È possibile tenere traccia, monitorare e riconciliare i fondi co-op degli incentivi nel [dashboard](https://partner.microsoft.com/dashboard/) di Partner Center (è necessario l'accesso). Usare la procedura seguente per visualizzare questi fondi.
 
-È possibile tenere traccia, monitorare e riconciliare i fondi della co-op Incentive nel [Dashboard del centro](https://partner.microsoft.com/dashboard/) per i partner (accesso richiesto). Per visualizzare questi fondi, attenersi alla procedura riportata di seguito.
+## <a name="view-your-funds"></a>Visualizzare i fondi
 
-## <a name="view-your-funds"></a>Visualizza i tuoi fondi
+1. Accedere al [dashboard Partner Center con](https://partner.microsoft.com/dashboard/) l'account Azure AD (account aziendale) o l'indirizzo di posta elettronica appropriato per il ruolo di incentivo.
 
-1. Accedere al [Dashboard del centro](https://partner.microsoft.com/dashboard/) per i partner con l'account di Azure ad (account aziendale) o l'indirizzo di posta elettronica appropriato per il proprio ruolo di incentivo.
+2. Selezionare **Gestione co-op** e quindi selezionare il periodo di utilizzo da visualizzare. Verranno visualizzati gli importi per **Co-op earned,** **Co-op claimed** e **Remaining co-op** per il periodo selezionato.
 
-2. Selezionare **Gestione co-op** e quindi selezionare il periodo di utilizzo che si vuole visualizzare. Vengono visualizzati gli importi per la co **-op guadagnata**, la **co-op richiesta** e la **co-op rimanente** per il periodo selezionato.
-
-3. La data di scadenza del periodo selezionato viene visualizzata sotto la visualizzazione della **co-op rimanente** .  
+3. La data di scadenza per il periodo selezionato viene visualizzata sotto la **visualizzazione Co-op** rimanente.  
 
 4. Per visualizzare tutte le attestazioni inviate per il periodo selezionato, scorrere fino alla fine della pagina.
 
-Se si ritiene che siano presenti discrepanze negli importi visualizzati nel riepilogo, è possibile scaricare il report sulle transazioni del periodo precedente. Questo report consente di determinare la quantità di fondi co-op ottenuti per il periodo di utilizzo selezionato. Per scaricare i report delle transazioni o convalidare le attestazioni inviate per assicurarsi che l'importo della co-op rimanente sia accurato, vedere [cronologia delle transazioni](./payout-statement.md#transaction-history).
+Se si ritiene che siano presenti discrepanze negli importi visualizzati nel riepilogo, è possibile scaricare il report delle transazioni dal periodo precedente. Questo report consente di determinare la quantità di fondi co-op ottenuti per il periodo di utilizzo selezionato. Per scaricare i report delle transazioni o convalidare le attestazioni inviate per assicurarsi che l'importo co-op rimanente sia accurato, vedere [Cronologia delle transazioni](./payout-statement.md#transaction-history).
 
-Se si verificano ancora problemi di riconciliazione degli importi o se alcuni fondi co-op non sono visibili, è possibile aprire un ticket di supporto. A tale scopo, selezionare l'icona del punto interrogativo nell'angolo superiore destro della pagina, quindi selezionare **incentivi**.
+Se si verificano ancora problemi di riconciliazione degli importi o se alcuni fondi co-op non sono visibili, è possibile aprire un ticket di supporto. A tale scopo, selezionare l'icona del punto interrogativo nell'angolo superiore destro della pagina e quindi selezionare **Incentivi**.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

@@ -1,43 +1,40 @@
 ---
-title: Demo per partner MPN
+title: Demo per i partner MPN
 ms.topic: article
 ms.date: 02/05/2021
-description: Scopri come trovare le demo disponibili per i partner MPN Silver, Gold e Action Pack.
+description: Informazioni su come trovare demo disponibili per MPN Silver, Gold e Action Pack partner.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 26162b4164d3bb8f1572c460f431efab056e1a8a
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: c49b8de69d65a4417e9533a80f72c4bd2ef80b8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132588"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152410"
 ---
-# <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>Demo per partner MPN-Microsoft 365, Dynamics 365, teams e altro ancora
+# <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>Demo per i partner MPN: Microsoft 365, Dynamics 365, Teams e altro ancora
 
-**Ruoli appropriati**
+**Ruoli appropriati:** amministratore partner MPN | Amministratore account
 
-- Amministratore dei partner MPN
-- Amministratore degli account
+Microsoft Partner Network (MPN) offre un'ampia gamma di demo per i partner silver, gold e Action Pack.
 
-Microsoft Partner Network (MPN) offre un'ampia gamma di demo per partner Silver, Gold e Action Pack.
-
-## <a name="access-mpn-demos"></a>Accedi a demo MPN
+## <a name="access-mpn-demos"></a>Accedere alle demo MPN
 
 Per accedere alle demo MPN:
 
-- Accedere a [CDX.Transform.Microsoft.com](https://cdx.transform.microsoft.com/) con l'account MPN.
+- Accedere [cdx.transform.microsoft.com](https://cdx.transform.microsoft.com/) con l'account MPN.
 
 >[!NOTE]
->È possibile accedere come CSP solo se lo stesso tenant viene usato anche per l'appartenenza a MPN.
+>È possibile accedere come provider di servizi di configurazione solo se lo stesso tenant viene usato anche per l'appartenenza a MPN.
 
-Per visualizzare il contenuto esistente, vedere [esperienze](https://cdx.transform.microsoft.com/experiences).
+Per visualizzare il contenuto esistente, vedere [Esperienze.](https://cdx.transform.microsoft.com/experiences)
 
-Per creare un tenant, vedere [ambienti personali](https://cdx.transform.microsoft.com/my-tenants).
+Per creare un tenant, vedere [Ambienti.](https://cdx.transform.microsoft.com/my-tenants)
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Vedere le [domande frequenti sulle demo](https://cdx.transform.microsoft.com/help/faq)
-- Visita il [supporto demo Microsoft](https://cdx.transform.microsoft.com/submit-request) e accedi con il tuo account MPN associato
+- Esaminare le [domande frequenti sulle demo](https://cdx.transform.microsoft.com/help/faq)
+- Visitare [il supporto di Microsoft Demos](https://cdx.transform.microsoft.com/submit-request) e accedere con l'account MPN associato

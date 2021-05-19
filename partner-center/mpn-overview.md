@@ -9,23 +9,18 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 6edd8d18610947f61f88af8c3e3563508244586e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132945"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152223"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Collaborare con Microsoft e scoprire i vantaggi dell'adesione
 
-**Ruoli appropriati**
+**Ruoli appropriati:** Amministratore globale | Amministratore partner MPN | Amministratore di gestione utenti | Agente amministratore
 
-- Amministratore globale
-- Amministratore dei partner MPN
-- Amministratore gestione utenti
-- Agente amministratore
-
-Il Microsoft Partner Network (MPN) offre la gamma più ampia di prodotti nel settore e le opzioni di programma per distinguere l'azienda, passare al mercato e vendere le soluzioni. Aderisci gratuitamente e scegli come investire nella tua partnership con un Microsoft Action Pack, uno starter kit o una competenza.
+Il Microsoft Partner Network (MPN) offre la più ampia gamma di prodotti del settore e delle opzioni di programma per differenziare l'azienda, passare al mercato e vendere le soluzioni. Aderisci gratuitamente e scegli come investire nella tua partnership con un Microsoft Action Pack, uno starter kit o una competenza.
 
 Quando partecipi a un programma per partner Microsoft, diventi parte di una community globale che ti connette a relazioni, informazioni approfondite, strumenti, risorse e programmi utili per sorprendere i tuoi clienti e promuovere la crescita della tua azienda. Al conseguimento dei tuoi obiettivi aziendali, puoi partecipare al programma al livello adeguato alle tue esigenze per accedere a maggiori vantaggi e sviluppare la relazione con noi e gli altri partner della rete. 
 

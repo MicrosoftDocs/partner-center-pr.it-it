@@ -8,24 +8,22 @@ description: I partner Microsoft possono avere domande su come aiutare i clienti
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: be12ede0c725a859892985e4cfb9032d7fb2abe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172337"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150948"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Trovare un partner o un provider di soluzioni per rispondere a domande su programmi, licenze o trattative dei clienti 
 
-**Ruoli appropriati**
+**Ruoli appropriati:** tutti i partner Microsoft
 
-- Tutti i partner Microsoft
-
-Questo articolo descrive ai partner Microsoft come trovare altri partner che possano aiutare i partner e i clienti a ottenere il successo con prodotti e servizi Microsoft.
+Questo articolo descrive ai partner Microsoft come trovare altri partner che possano aiutare i partner e i loro clienti a ottenere il successo con i prodotti e i servizi Microsoft.
 
 ## <a name="different-microsoft-partners-and-solution-providers"></a>Partner Microsoft e provider di soluzioni diversi
 
-Esistono molti tipi di partner o distributori nell'ecosistema di partner Microsoft. Alcuni di quelli trattati in questo articolo includono:
+Esistono molti tipi di partner o distributori nell'ecosistema di partner Microsoft. Di seguito sono riportati alcuni di questi argomenti trattati in questo articolo:
 
 - Cloud Solution Provider rivenditori indiretti del programma Cloud Solution Provider (CSP) e i relativi provider indiretti
 - Distributori di programmi per contratti multilicenza
@@ -39,9 +37,9 @@ Vedere la tabella seguente per individuare un partner o un server di distribuzio
 
 |Per  | Leggere  |
 |:------------------|:--------------- |
-|Trovare un provider indiretto *CSP (per i rivenditori indiretti CSP* a cui non è ancora stato assegnato un provider indiretto) | [Microsoft Partner Network di ricerca del provider indiretto](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
+|Trovare un provider indiretto CSP *(per i rivenditori indiretti CSP* a cui non è ancora assegnato un provider indiretto) | [Microsoft Partner Network di ricerca del provider indiretto](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
 |Trovare un provider di soluzioni o un distributore del programma per contratti multilicenza  | [Pagina di ricerca di Microsoft Solution Provider](https://www.microsoft.com/solution-providers/home)  |
-|Trovare un distributore di canali OEM autorizzati Microsoft  | [Pagina di ricerca OEM Partner Center Microsoft Device Partner Center](https://devicepartner.microsoft.com/connect/distributor)  |
+|Trovare un distributore di canali OEM autorizzati Da Microsoft  | [Pagina di ricerca OEM Partner Center Microsoft Device Partner Center](https://devicepartner.microsoft.com/connect/distributor)  |
 
 ## <a name="next-steps"></a>Passaggi successivi
 

@@ -1,82 +1,75 @@
 ---
-title: Scopri di più su come passare al mercato con le offerte Microsoft
+title: Informazioni sul go-to-market con le offerte Microsoft
 ms.topic: article
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Scopri come passare al mercato con le offerte Microsoft per accelerare il time-to-Market, generare lead ed espandere il tuo business.
+description: Informazioni su come Go-To-Market con le offerte Microsoft consente di accelerare il time-to-market, generare lead ed espandere il business.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 1b22075c91d7a19c555223409ed9410522e010d2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475263"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152240"
 ---
-# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Esplora le offerte per il go-to-market con Microsoft
+# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Esplorare il go-to-market con le offerte Microsoft
 
-**Ruoli appropriati**
+**Ruoli appropriati:** amministratore globale | Amministratore partner MPN
 
-- Amministratore globale
-- Amministratore dei partner MPN
+Quando si diventa un membro Microsoft Partner Network, si ottiene l'accesso ai vantaggi dell'appartenenza che possono aiutare a creare e far crescere la propria azienda. Go-To-Market con risorse, offerte e programmi [](https://partner.microsoft.com/manage-your-partner-network-benefits) Microsoft sono tra i numerosi vantaggi che si ricevono come Microsoft Partner Network membri.
 
-Quando si diventa membri Microsoft Partner Network, si ottiene l'accesso ai vantaggi di appartenenza che consentono di creare e far crescere il proprio business. Il passaggio al mercato con risorse, offerte e programmi Microsoft è tra i [molti vantaggi](https://partner.microsoft.com/manage-your-partner-network-benefits) che si ricevono come membro Microsoft Partner Network.
-
-Le offerte go-to-Market ti permettono di accedere a risorse esclusive per vendite e marketing che consentono di accelerare il time-to-Market, generare lead ed espandere il tuo business.
+Le offerte Go-To-Market consentono di accedere a risorse esclusive di vendita e marketing che consentono di accelerare il time-to-market, generare lead ed espandere la propria attività.
 
 >[!NOTE]
->Se non si è già membri del Microsoft Partner Network, partecipare al [sito Microsoft Partner Network](https://partner.microsoft.com/membership).
+>Se non si è già membri del Microsoft Partner Network, partecipare [al sito Microsoft Partner Network .](https://partner.microsoft.com/membership)
 
-## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Risorse, offerte e programmi go-to-Market disponibili in base al livello di appartenenza
+## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Risorse, offerte e programmi Go-To-Market disponibili in base al livello di appartenenza
 
-Le tue offerte go-to-Market variano in base al tuo livello specifico di appartenenza a MPN, alle specializzazioni e alle tue [competenze](learn-about-competencies.md) .
+Le offerte Go-To-Market variano in base al livello specifico di appartenenza a MPN, alle specializzazioni e alle competenze che [si](learn-about-competencies.md) ottiene.
 
-Tutti i membri MPN hanno accesso a determinate risorse GTM standard. Questi includono l'accesso a risorse di marketing pronte per l'uso, una piattaforma di abilitazione delle vendite e il marketing digitale su richiesta. Sono disponibili anche altre offerte e programmi per i partner che raggiungono le competenze Silver o Gold e/o i partner ISV con un'offerta di co-selling pronta.
+Tutti i membri MPN hanno accesso a determinate risorse GTM standard. Questi includono l'accesso agli asset di marketing pronti all'utente, una piattaforma di abilitazione delle vendite e il marketing digitale on demand. Sono disponibili anche altre offerte e programmi Go-To-Market per i partner che realizzano competenze Silver o Gold e/o partner ISV con un'offerta pronta per il co-selling.
 
 >[!NOTE]
->Le risorse, le offerte e i programmi go-to-Market sono soggetti ad aggiunte e modifiche. Vai alla pagina Microsoft Partner Network [Vai al mercato](https://partner.microsoft.com/membership/go-to-market) per scoprire le più recenti risorse e offerte disponibili per i partner che raggiungono livelli di competenza e/o partner ISV diversi con un'offerta di co-selling pronta.
+>Le risorse, le offerte e i programmi go-to-market sono soggetti a aggiunte e modifiche. Passare alla pagina [go-to-market](https://partner.microsoft.com/membership/go-to-market) di Microsoft Partner Network per informazioni sulle risorse go-to-market più recenti e sulle offerte disponibili per i partner che hanno raggiunto diversi livelli di competenza e/o partner ISV con un'offerta pronta per il co-selling.
 
-Ulteriori offerte di immissione sul mercato disponibili per gli utenti con livelli di competenza **Silver** e/o partner ISV con un'offerta per incentivi di co-selling idonea:
+Offerte go-to-market aggiuntive disponibili per gli utenti con livelli di competenza **Silver** e/o partner ISV con un'offerta idonea per l'incentivo di co-selling:
 
-- Tutte le risorse di mercato standard MPN
-- Ottimizzazione del profilo di business e gestione dei riferimenti
-- Come commercializzare con Microsoft
+- Tutte le risorse Go-To-Market standard MPN
+- Ottimizzazione del profilo di business e gestione delle segnalazioni
+- Come commercializzazione con Microsoft
 
-Offerte aggiuntive per l'immissione sul mercato disponibili per i partner con livelli di competenza **Gold** e/o partner ISV con l'offerta di co-selling incentive idonea:
+Altre offerte Go-To-Market disponibili per i partner con livelli di competenza **Gold** e/o i partner ISV con offerta idonea per gli incentivi di co-selling:
 
-- Tutte le risorse di mercato standard MPN
-- Tutte le offerte di vendita di prodotti go-to-Market pronte per l'argento/ISV
-- Un cercapersone con co-branding
-- Presentazione di co-branding
-- Case study di co-branding
-- Premi la versione con le virgolette esecutive Microsoft
-- Marketing di social networking
+- Tutte le risorse Go-To-Market standard MPN
+- Tutte le offerte Go-To-Market pronte per il co-selling Silver/ISV
+- Casella degli strumenti Go-To-Market per i partner 
 
-## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Visualizza le offerte per l'appartenenza al mercato nel centro per i partner
+## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Visualizzare le offerte di appartenenza Go-To-Market in Partner Center
 
-Per visualizzare le offerte per il go-to-Market:
+Per visualizzare le offerte Go-To-Market:
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
-2. Scegliere **MPN** dal menu a sinistra. Eseguire quindi una delle operazioni seguenti:
+2. Nel menu a sinistra selezionare **MPN.** Eseguire quindi una delle operazioni seguenti:
 
-   - Selezionare la scheda di **informazioni generali**. Scorrere fino alla sezione **collegamenti rapidi** e quindi selezionare la scheda **Vai al mercato** .
+   - Selezionare la scheda di **informazioni generali**. Scorrere fino alla **sezione Collegamenti** rapidi e quindi selezionare la **scheda Go-to-market.**
 
      oppure
 
-   - Selezionare i **vantaggi** seguiti da **Vai al mercato**.
+   - Selezionare **Vantaggi** e **quindi Go-To-Market.**
 
-Verrà visualizzato un elenco di offerte di tipo go-to-Market già attive o disponibili per l'attivazione.
+Verrà visualizzato un elenco di offerte Go-To-Market già attive o disponibili per l'attivazione.
 
-## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Gestisci o attiva le offerte per il go-to-market nel centro per i partner
+## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Gestire o attivare le offerte Go-To-Market in Partner Center
 
-Per attivare o gestire le offerte per il go-to-Market, vedere [How to manage your go-to-Market offers](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Parte del processo di attivazione richiede di assegnare un responsabile marketing come contatto per i messaggi di posta elettronica di completamento e per le comunicazioni relative alle offerte di immissione sul mercato da attivare.
+Per attivare o gestire le offerte Go-To-Market, vedere come gestire le offerte [Go-To-Market.](manage-your-partner-network-benefits.md#manage-go-to-market-offers) Parte del processo di attivazione richiede l'assegnazione di un responsabile marketing come contatto per i messaggi di posta elettronica di follow-up e le comunicazioni relative alle offerte Go-To-Market attivate.
 
 >[!IMPORTANT]
->È necessario essere amministratore globale o MPN partner per attivare offerte di immissione sul mercato specifiche e assegnare un contatto marketing correlato. Se necessario, è possibile diventare un amministratore globale seguendo le istruzioni nella pagina dei [ **vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (accesso richiesto). La tua azienda potrebbe già avere un amministratore globale, pertanto verifica questo aspetto con il team.
+>È necessario essere l'amministratore globale o l'amministratore partner MPN per attivare offerte Go-To-Market specifiche e assegnare un contatto di marketing correlato. Se necessario, è possibile diventare un amministratore globale seguendo le istruzioni nella [ **pagina Vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è necessario l'accesso). La tua azienda potrebbe già avere un amministratore globale, pertanto verifica questo aspetto con il team.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
@@ -86,4 +79,4 @@ Per attivare o gestire le offerte per il go-to-Market, vedere [How to manage you
 
 - [Informazioni sulle competenze](learn-about-competencies.md)
 
-- [Vendi con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)
+- [Vendere con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)

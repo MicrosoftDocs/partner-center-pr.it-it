@@ -1,6 +1,6 @@
 ---
-title: Associazioni dei clienti incentivi
-description: Informazioni sui processi e le sequenze temporali importanti per la gestione delle associazioni clienti di CPOR (partner di record).
+title: Incentivi per le associazioni dei clienti
+description: Informazioni sui processi e le sequenze temporali importanti per la gestione delle associazioni Partner of Record (CPOR).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: how-to
@@ -8,56 +8,52 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e0c79fb70c5b439968302353c70907f37aaa09a7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179480"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151934"
 ---
-# <a name="manage-incentives-customer-associations"></a>Gestisci associazioni dei clienti incentive
+# <a name="manage-incentives-customer-associations"></a>Gestire le associazioni dei clienti degli incentivi
 
-**Ruoli appropriati**
+**Ruoli appropriati:** amministrazione della fatturazione | Amministratore globale | Amministratore degli incentivi
 
-- Amministratore fatturazione
-- Amministratore globale
-- Amministratore degli incentivi
-
-La piattaforma CPOR (partner of record) rivendicata viene usata per i partner per associarsi ai clienti finali per i quali influiscono sull'uso o sull'acquisto di prodotti Microsoft. Attualmente la piattaforma CPOR supporta i prodotti Business Applications e Microsoft 365. I partner usano questo metodo di associazione per ottenere informazioni sulle prestazioni dei clienti, ricevere incentivi tramite i programmi OSU e OSA e ottenere l'associazione di ricavi come influencer aziendale.  
+La piattaforma Partner of Record (CPOR) viene usata per i partner per associarsi ai clienti finali per i quali stanno influenzando l'uso o l'acquisto di prodotti Microsoft. Attualmente, la piattaforma CPOR supporta i Business Applications e Microsoft 365 prodotti. I partner usano questo metodo di associazione per ottenere informazioni dettagliate sulle prestazioni dei clienti, ricevere pagamenti di incentivi tramite i programmi OSU e OSA e ottenere un'associazione di ricavi come Business Influencer.  
 
 ## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>Relazione tra l'attestazione di associazione CPOR e gli incentivi
 
-Se è stata creata un'attestazione di associazione CPOR ed è stata approvata, l'utente è ora associato al cliente. Non significa che l'attestazione è stata approvata per incentivare guadagni o pagamenti. La guida del programma incentive descrive i requisiti di idoneità per gli incentivi da pagare in base alle attestazioni approvate.
+Se è stata effettuata un'attestazione di associazione CPOR ed è stata approvata, si è ora associati al cliente. Non significa che l'attestazione sia approvata per gli utili o i proventi dell'incentivo. La guida al programma di incentivi illustra i requisiti di idoneità per il pagamento degli incentivi in base alle attestazioni approvate.
 
-È possibile trovare le guide ai programmi per incentivare il [Microsoft Partner Network](https://aka.ms/partnerincentives).
+È possibile trovare le guide al programma di incentivi [nella Microsoft Partner Network](https://aka.ms/partnerincentives).
 
-Se l'attestazione di associazione CPOR è approvata e idonea per gli incentivi, è possibile convalidare la sottoscrizione o l'ID tenant nei report guadagni e pagamenti. 
+Se l'attestazione di associazione CPOR è approvata e idonea per gli incentivi, è possibile convalidare la sottoscrizione o l'ID tenant nei report sugli utili e sui proventi. 
 
 ## <a name="cpor-association-claims-timeline"></a>Sequenza temporale delle attestazioni di associazione CPOR
 
-- Inviato: lo stato verrà inviato per un massimo di cinque giorni lavorativi fino a quando Microsoft non avvia il processo di approvazione.
-- In fase di Revisione: Microsoft ha cinque giorni lavorativi per prendere una decisione in base alla prova dell'esecuzione fornita.
-- Azione del partner necessaria: se un revisore invia commenti e una richiesta di informazioni aggiuntive, è necessario rispondere a cinque giorni lavorativi. È necessario prendere una decisione in merito all'attestazione dell'associazione CPOR entro 10 giorni in base al contratto di servizi del revisore, oltre alla quantità di tempo necessaria per fornire revisori di prova di esecuzione (PoE) con ulteriori informazioni.
-- Approvato: l'attestazione di associazione CPOR è stata approvata. Una volta approvata l'associazione, viene inviata una notifica al cliente che offre la possibilità di negare l'associazione. Il cliente avrà quindi sette giorni per rifiutare esplicitamente. Una volta trascorso il periodo di consenso, l'attestazione verrà inviata per valutare l'idoneità per i programmi incentive.
+- Inviato: lo stato sarà inviato per un massimo di cinque giorni lavorativi fino all'avvio del processo di approvazione da parte di Microsoft.
+- In Revisione: Microsoft ha cinque giorni lavorativi per prendere una decisione in base alla prova di esecuzione che si fornisce.
+- Azione partner obbligatoria: se un revisore invia commenti e una richiesta di informazioni aggiuntive, sono necessari cinque giorni lavorativi per rispondere. È consigliabile prendere una decisione sulla richiesta di associazione CPOR entro 10 giorni in base al contratto di servizio del revisore, oltre al tempo necessario per fornire ai revisori della prova di esecuzione (PoE) informazioni aggiuntive.
+- Approvato: l'attestazione di associazione CPOR è stata approvata. Dopo l'approvazione dell'associazione, al cliente verrà inviata una notifica che gli dà la possibilità di negare l'associazione. Il cliente avrà quindi sette giorni per rifiutare esplicitamente. Una volta superato questo periodo di consenso, l'attestazione verrà inviata per valutare l'idoneità per i programmi di incentivi.
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>Visualizzare lo stato dell'attestazione di associazione CPOR
 
-È possibile controllare lo stato dell'attestazione dell'associazione di CPOR in qualsiasi momento usando il [Dashboard associazioni clienti](https://partner.microsoft.com/dashboard/incentives/claims/associations) (accesso richiesto).
+È possibile controllare lo stato dell'attestazione di associazione CPOR in qualsiasi momento usando [il dashboard delle associazioni dei](https://partner.microsoft.com/dashboard/incentives/claims/associations) clienti (è necessario l'accesso).
 
-Ecco gli Stati e i relativi significati:
+Ecco gli stati e i relativi significati:
 
-| Stato attestazione | Viene visualizzato quando |
+| Stato dell'attestazione | Viene visualizzato quando |
 | ------ | ----------- | 
-|  In fase di modifica  | L'attestazione di associazione CPOR è stata creata. Rimane in questo stato fino a quando non si carica il documento di prova dell'esecuzione e si invia l'attestazione per l'approvazione.   |
+|  In fase di modifica  | L'attestazione di associazione CPOR è stata creata. Rimane in questo stato fino a quando non si carica il documento di prova di esecuzione e si invia l'attestazione per l'approvazione.   |
 |  Inviata  | Il partner ha inviato correttamente la richiesta di associazione CPOR, ma Microsoft non ha ancora avviato il processo di revisione.   |
-|  In fase di revisione  | Microsoft ha iniziato a convalidare la documentazione di PoE. Per ulteriori informazioni, è possibile contattare l'utente. Il contratto di lavoro per il processo di revisione è di cinque giorni lavorativi.  |
-|  Rifiutato  | Il PoE è insufficiente o non è stato risposto entro cinque giorni lavorativi per le linee guida di revisione di PoE e l'attestazione è stata negata.   |
-|  Approved  | L'attestazione è stata approvata. Dopo l'approvazione di Microsoft, il cliente ha avuto la possibilità di negare l'associazione. Il cliente ha sette giorni per rifiutare l'approvazione a Microsoft. Anche se l'attestazione verrà visualizzata come approvata, verrà inviata per la valutazione degli incentivi solo dopo che il periodo di consenso è scaduto.   |
-|  Azione partner obbligatoria  | Microsoft ha esaminato la richiesta di associazione CPOR PoE e necessita di altre informazioni relative al PoE per i prodotti e i carichi di lavoro richiesti. Ci sono cinque giorni lavorativi per fornire le informazioni richieste e inviare nuovamente l'attestazione o verrà rifiutato. Di seguito sono riportati i possibili motivi per cui potrebbero essere necessarie informazioni aggiuntive:
+|  In fase di revisione  | Microsoft ha iniziato a convalidare la documentazione poE. Microsoft può contattare l'utente per altri dettagli. Il contratto di servizio per il processo di revisione è di cinque giorni lavorativi.  |
+|  Rifiutato  | Il poE non è stato sufficiente o non si è risposto entro cinque giorni lavorativi in base alle linee guida di revisione del PoE e l'attestazione è stata negata.   |
+|  Approved  | L'attestazione è stata approvata. Dopo l'approvazione di Microsoft, il cliente ha dato la possibilità di negare l'associazione. Il cliente ha sette giorni per rifiutare esplicitamente dopo l'approvazione di Microsoft. Anche se l'attestazione verrà mostrata come approvata, verrà inviata per la valutazione degli incentivi solo dopo il superamento del periodo di consenso.   |
+|  Azione partner obbligatoria  | Microsoft ha esaminato l'attestazione poE dell'associazione CPOR e necessita di altre informazioni correlate al PoE per i prodotti o i carichi di lavoro che sono stati dichiarati. Sono disponibili cinque giorni lavorativi per fornire le informazioni richieste e inviare di nuovo l'attestazione. In caso di rifiuto, l'attestazione verrà rifiutata. Di seguito sono riportati i possibili motivi per cui potrebbero essere necessarie informazioni aggiuntive:
 
 - Mancano tutti i PoE: i PoE sono mancanti a causa del caricamento di un file non corretto o non pertinente alla richiesta di associazione CPOR
 
-- Firma del cliente per il riconoscimento dei clienti mancante non presente in PoE
+- Manca la firma del cliente per il riconoscimento del cliente non presente nell'poE
 
 - Date mancanti oppure obsolete: le date nel PoE sono mancanti oppure obsolete rispetto all'attestazione
 
@@ -65,35 +61,35 @@ Ecco gli Stati e i relativi significati:
 
 - Prodotti mancanti: il PoE non include il prodotto o il carico di lavoro richiesto 
 
-## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Disputare lo stato di un'attestazione di associazione CPOR
+## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Contestare lo stato di un'attestazione di associazione CPOR
 
-Se l'attestazione di associazione CPOR viene rifiutata, si avranno 30 giorni per disputare il rifiuto. Il messaggio di posta elettronica ricevuto per informare l'utente del rifiuto indica anche dove è possibile visualizzare il motivo del rifiuto e come contestarlo.  
+Se la richiesta di associazione CPOR viene rifiutata, si hanno 30 giorni per contestare il rifiuto. Il messaggio di posta elettronica ricevuto per informare l'utente del rifiuto indica anche dove è possibile visualizzare il motivo del rifiuto e come contestarlo.  
 
-Se sono trascorsi 30 giorni e si vuole comunque disputare un'attestazione rifiutata, è necessario inviare una nuova associazione con la prova di esecuzione (PoE) aggiornata. 
+Se sono trascorsi 30 giorni e si vuole comunque contestare un'attestazione rifiutata, sarà necessario inviare una nuova associazione con la prova di esecuzione aggiornata. 
 
-### <a name="to-dispute-a-rejected-claim"></a>Per disputare un'attestazione rifiutata
+### <a name="to-dispute-a-rejected-claim"></a>Per contestare un'attestazione rifiutata
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
-2. Aprire l'attestazione che si desidera disputare.
-3. Nella pagina attestazione selezionare **contenzioso**.
-4. Immettere una giustificazione aziendale e/o un PoE aggiornato per spiegare il motivo per cui deve essere ripreso in considerazione il rifiuto.
-5. Al termine dell'aggiunta delle informazioni, selezionare **Contesta**. I revisori dovranno contattare l'utente con i risultati entro cinque giorni lavorativi.
+2. Aprire l'attestazione che si vuole contestare.
+3. Nella pagina dell'attestazione selezionare **Contesta**.
+4. Immettere una motivazione aziendale e/o un PoE aggiornato che spiega perché il rifiuto deve essere riconsiderato.
+5. Al termine dell'aggiunta delle informazioni, selezionare **Contesta**. I revisori devono contattare l'utente con i risultati entro cinque giorni lavorativi.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Motivi per cui un'attestazione di associazione CPOR viene rifiutata
 
-Esistono tre motivi principali per cui un'attestazione di associazione CPOR viene rifiutata.
+Esistono tre motivi principali per cui un'attestazione di associazione CPOR deve essere rifiutata.
 
-**Richiesta partner:** I partner possono richiedere che l'associazione sia stata rifiutata. Questa logica viene usata principalmente quando il partner ha creato un'attestazione di associazione CPOR per errore usando un MPN errato, ha scelto un'attività non corretta (ad esempio, è stata scelta l'associazione di ricavi anziché le vendite preliminari) o non funziona più con il cliente.
+**Richiesta partner:** I partner possono richiedere il rifiuto dell'associazione. Questa logica viene usata principalmente quando il partner ha creato un'attestazione di associazione CPOR per errore usando un MPN non corretto, ha scelto un'attività non corretta (ad esempio, si è scelto Revenue Association anziché Pre-sales) o non funziona più con il cliente.
 
-**Rifiuto del cliente:** Una volta che l'attestazione di associazione CPOR è stata eseguita correttamente, il processo di approvazione di PoE è stato modificato in approved, mentre al cliente viene offerta la possibilità di negare il consenso dell'associazione. Se il cliente nega il consenso, l'associazione verrà rifiutata.
+**Rifiuto del cliente:** Dopo che l'attestazione di associazione CPOR ha completato correttamente il processo di approvazione PoE, lo stato passa ad Approvato, mentre il cliente ha la possibilità di negare il consenso dell'associazione. Se il cliente nega il consenso, l'associazione verrà rifiutata.
 
-**Prova di esecuzione insufficiente:** La prova di esecuzione è obbligatoria per ogni associazione di CPOR. Una volta inviata l'attestazione di associazione CPOR, i revisori Microsoft richiederanno fino a cinque giorni per esaminare il PoE e richiedere eventuali informazioni aggiuntive necessarie usando la sezione dei commenti nell'attestazione. Se le informazioni non sono sufficienti, l'attestazione dell'associazione CPOR verrà rifiutata.
+**Prova di esecuzione insufficiente:** La prova di esecuzione è necessaria per ogni associazione CPOR. Dopo l'invio della richiesta di associazione CPOR, i revisori Microsoft richiederanno fino a cinque giorni per esaminare il PoE e richiedere eventuali informazioni aggiuntive necessarie usando la sezione Commenti nell'attestazione. Se le informazioni non sono sufficienti, l'attestazione di associazione CPOR verrà rifiutata.
 
 Altri possibili motivi per il rifiuto:
 
-- Manca il consenso del cliente su PoE
+- Consenso del cliente mancante in PoE
 - Prodotti mancanti
-- Nessuna risposta partner
+- Nessuna risposta del partner
 - PoE non disponibile
 
 ## <a name="edit-your-cpor-association-claim"></a>Modificare l'attestazione di associazione CPOR
@@ -107,17 +103,17 @@ Campi che è possibile modificare:
 - Informazioni di contatto del clienti e del partner
 - Aggiungere altre informazioni al PoE e commenti
 
-## <a name="customer-consent-notification"></a>Notifica di consenso del cliente
+## <a name="customer-consent-notification"></a>Notifica del consenso del cliente
 
-Una volta approvata l'attestazione di associazione CPOR, viene inviata una notifica al cliente che offre la possibilità di negare l'associazione. Il cliente avrà quindi sette giorni per rifiutare esplicitamente. Lo stato di questo periodo viene visualizzato come approvato. Se il cliente nega il consenso, l'associazione verrà rifiutata. Una volta trascorso il periodo di consenso e il cliente non ha negato il consenso, l'attestazione verrà inviata per valutare l'idoneità per i programmi incentive.
+Dopo l'approvazione dell'attestazione di associazione CPOR, al cliente verrà inviata una notifica che gli dà la possibilità di negare l'associazione. Il cliente avrà quindi sette giorni per rifiutare esplicitamente. Lo stato durante questo periodo viene visualizzato come Approvato. Se il cliente nega il consenso, l'associazione verrà rifiutata. Dopo che il periodo di consenso è scaduto e il cliente non ha negato il consenso, la richiesta verrà inviata per valutare l'idoneità per i programmi di incentivi.
 
-## <a name="how-to-communicate-with-poe-reviewers"></a>Come comunicare con i revisori PoE
+## <a name="how-to-communicate-with-poe-reviewers"></a>Come comunicare con i revisori di PoE
 
-Dopo che i revisori hanno attraversato il PoE, possono determinare che sono necessarie informazioni aggiuntive. In tal caso, verranno contattati tramite la sezione relativa ai commenti dell'attestazione. È anche possibile rispondere a questi elementi nella sezione dei commenti.
+Dopo che i revisori hanno esaminato il PoE, possono determinare che sono necessarie informazioni aggiuntive. In tal caso, l'utente verrà contattato tramite la sezione Commenti dell'attestazione. È possibile rispondere anche nella sezione Commenti.
 
-## <a name="view-claim-history"></a>Visualizza cronologia attestazioni
+## <a name="view-claim-history"></a>Visualizzare la cronologia delle attestazioni
 
-Nell'attestazione di associazione CPOR, sul lato superiore destro, è disponibile un pulsante **cronologia** che consente di visualizzare tutte le modifiche, i commenti e le azioni intraprese dall'attestazione da un partner e da una prospettiva revisore.
+Nell'attestazione di associazione CPOR, in alto **a** destra, è presente un pulsante Cronologia che consente di visualizzare tutte le modifiche, i commenti e le azioni eseguite su questa attestazione dal punto di vista di partner e revisore.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

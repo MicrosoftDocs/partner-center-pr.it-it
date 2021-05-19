@@ -8,22 +8,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: c6625e2e35cee5d410a22c4a384012a294a97b5d
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: e2bff940dc2d145a783dddad3a71aba14e1ba25a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172371"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150965"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Domande frequenti sulle Partner Center per Microsoft Cloud for US Government
 
-**Si applica a**
+**Si applica a**: Partner Center per Microsoft Cloud for US Government
 
-- Centro per i partner per Microsoft Cloud for US Government
-
-**Ruoli appropriati**
-
-- Amministratore globale
+**Ruoli appropriati:** Amministratore globale
 
 ## <a name="general-questions"></a>Domande generali
 
@@ -31,7 +27,7 @@ Usare queste domande frequenti per altre informazioni sul programma Cloud Soluti
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>Cos'è Microsoft Cloud for US Government?
 
-Progettato per il governo degli Stati Uniti fin dall'inizio, Microsoft Cloud for US Government consente ai clienti del settore pubblico nel Stati Uniti, dalle grandi agenzie federali ai piccoli enti pubblici della città, di scegliere tra una gamma di servizi cloud computing. Per soddisfare le esigenze specifiche dei clienti, Microsoft ha effettuato investimenti significativi nei data center ed è dedicata a soddisfare i criteri, i requisiti e i requisiti federali e federali degli Stati Uniti.
+Progettato per il governo degli Stati Uniti fin dall'inizio, Microsoft Cloud for US Government consente ai clienti del settore pubblico nel Stati Uniti, dalle grandi agenzie federali ai piccoli enti pubblici delle città, di scegliere tra una gamma di servizi cloud computing. Per soddisfare le esigenze specifiche dei clienti, Microsoft ha effettuato investimenti significativi nei data center ed è dedicata a soddisfare i criteri, i requisiti e i requisiti federali e federali degli Stati Uniti.
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>Chi è idoneo al programma CSP per Microsoft Cloud per il governo statunitense?
 
@@ -43,7 +39,7 @@ No. I prezzi rifletteranno i costi aggiuntivi per fornire il valore univoco di M
 
 ### <a name="is-the-partner-discounting-model-the-same"></a>Il modello di sconto per i partner è lo stesso?
 
-Sì. Il modello di sconto del partner per il programma CSP per Microsoft Cloud for US Government è uguale al modello di sconto partner per CSP Commercial.
+Sì. Il modello di sconto del partner per il programma CSP per Microsoft Cloud for US Government è lo stesso del modello di sconto partner per CSP Commercial.
 
 ### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>CSP Commercial è un programma per partner esistente. In che modo si differenzia il programma CSP per il cloud Microsoft per enti pubblici?
 
@@ -170,7 +166,7 @@ Usare i collegamenti seguenti per acquisire familiarità con il programma CSP e 
 
 ### <a name="where-should-i-go-if-i-still-have-questions"></a>A chi devo rivolgermi in caso avessi ulteriori domande?
 
-Per altre informazioni, contattare il account manager. Puoi inoltre iscriverti al gruppo Yammer specifico del programma [CSP per Azure per enti pubblici](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777).
+Per altre informazioni, account manager contattare il proprio account manager. Puoi inoltre iscriverti al gruppo Yammer specifico del programma [CSP per Azure per enti pubblici](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777).
 
 ## <a name="next-steps"></a>Passaggi successivi
 

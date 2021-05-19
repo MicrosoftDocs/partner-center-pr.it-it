@@ -1,64 +1,60 @@
 ---
-title: Cosa fare se l'unico amministratore del programma MPN ha lasciato la società?
+title: Cosa fare se l'unico amministratore del programma MPN ha lasciato l'azienda?
 ms.topic: how-to
 ms.date: 09/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sulle operazioni da eseguire per trovare un nuovo amministratore MPN o ottenere assistenza dall'amministratore globale dell'azienda. Inoltre, informazioni su come aggiungere un nuovo amministratore globale del centro per i partner.
+description: Informazioni su come trovare un nuovo amministratore MPN o ottenere assistenza dall'amministratore globale dell'azienda. Informazioni anche su come aggiungere un nuovo amministratore Partner Center globale.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5efd157078acd72ca47418aaa9559a678fc5b129
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106442000"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151169"
 ---
-# <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Cosa fare se l'unico amministratore del programma MPN ha lasciato la società?
+# <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Cosa fare se l'unico amministratore del programma MPN ha lasciato l'azienda?
 
-**Ruoli appropriati**
-
-- Amministratore dei partner MPN
-- Amministratore degli account
-- Amministratore globale
+**Ruoli appropriati:** amministratore partner MPN | Account admin | Amministratore globale
 
 L'articolo seguente illustra tre scenari tipici relativi alle operazioni da eseguire se l'amministratore MPN ha lasciato l'azienda.
 
-## <a name="scenario-1-mpn-partner-adminaccount-admin-has-left-the-company-but-there-are-still-global-admins-in-the-account"></a>Scenario 1: l'amministratore del partner MPN o l'amministratore dell'account ha lasciato la società, ma sono ancora presenti amministratori globali nell'account
+## <a name="scenario-1-mpn-partner-adminaccount-admin-has-left-the-company-but-there-are-still-global-admins-in-the-account"></a>Scenario 1: l'amministratore partner MPN/amministratore dell'account ha lasciato l'azienda, ma nell'account sono ancora presenti amministratori globali
 
-In questo caso, è possibile assegnare un altro utente della società al ruolo di amministratore partner MPN. Per essere assegnato il ruolo di amministratore dell'account/amministratore del partner MPN specifico:
+In questo caso, a un'altra persona dell'azienda può essere assegnato il ruolo di amministratore del partner MPN. Per assegnare il ruolo di amministratore partner MPN o amministratore account specifico:
 
-1. Accedere all'account del centro per i partner con l'account aziendale, ad esempio tom@contoso.com .
-1. Dal filtro della pagina **Gestione utenti** su amministratore globale per vedere chi sono gli amministratori globali dell'azienda. 
-1. Contattare uno degli amministratori globali e chiedere di assegnare il ruolo specifico di MPN necessario. 
+1. Accedere al proprio account Partner Center con l'account aziendale , ad esempio tom@contoso.com .
+1. Dalla pagina **Gestione utenti** filtrare l'amministratore globale per verificare chi sono gli amministratori globali dell'azienda. 
+1. Contattare uno degli amministratori globali e chiedere loro di assegnare il ruolo specifico mpn necessario. 
 
-## <a name="scenario-2-mpn-partner-adminaccount-admin-has-left-the-company-and-there-are-no-global-admins-in-the-account"></a>Scenario 2: l'amministratore dell'account o l'amministratore del partner MPN ha lasciato la società e non sono presenti amministratori globali nell'account 
+## <a name="scenario-2-mpn-partner-adminaccount-admin-has-left-the-company-and-there-are-no-global-admins-in-the-account"></a>Scenario 2: l'amministratore partner MPN/amministratore dell'account ha lasciato l'azienda e non sono presenti amministratori globali nell'account 
 
-Se si passa alla pagina di **gestione degli utenti** e si filtra l'amministratore globale, ma si scopre che nell'azienda non è presente alcun amministratore globale che può aiutare a ottenere il ruolo specifico di MPN, attenersi alla procedura seguente:
+Se si passa  alla pagina Gestione utenti e si filtra l'opzione Amministratore globale, ma non è presente alcun amministratore globale nell'azienda che possa aiutare a ottenere il ruolo specifico di MPN, seguire questa procedura:
 
-1. Passare a [Portal.Azure.com](https://ms.portal.azure.com/), accedere con l'account aziendale (ad esempio, tom@contoso.com ). 
-1. Selezionare l'opzione **Guida e supporto** nella barra di navigazione del menu a sinistra.
-1. Nella pagina successiva selezionare **nuovo richiesta di supporto** e tipo di **problema tecnico** nel menu a discesa, inserire eventuali dettagli aggiuntivi e fare clic su **Avanti: soluzioni.**
+1. Passare a [portal.azure.com](https://ms.portal.azure.com/), accedere con l'account aziendale , ad esempio tom@contoso.com . 
+1. Selezionare **l'opzione Guida e** supporto nella barra di spostamento dei menu a sinistra.
+1. Nella pagina successiva selezionare **Nuovo** Richiesta di supporto  e tipo di problema tecnico nel menu a discesa, inserire eventuali dettagli aggiuntivi e fare clic su **Avanti: Soluzioni.**
 
 :::image type="content" source="images/accountsettings/adminfinder.png" alt-text="Individuare l'amministratore in portale di Azure":::
 
-4. Dopo aver esaminato le soluzioni consigliate nella pagina successiva, selezionare **Avanti: dettagli** e completare i campi necessari.
+4. Dopo aver esaminato le soluzioni consigliate nella pagina successiva, selezionare **Avanti: Dettagli** e completare i campi necessari.
 1. Esaminare e creare la richiesta di supporto.
 
 
-## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>Scenario 3: l'amministratore del partner MPN/amministratore dell'account/amministratore globale ha lasciato la società e non sono presenti altri utenti che possono accedere alla Azure AD della società. Si tratta di una perdita completa di accesso.
+## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>Scenario 3: l'amministratore partner MPN,l'amministratore dell'account o l'amministratore globale ha lasciato l'azienda e non sono presenti altri utenti che possono accedere alla rete aziendale Azure AD. Si tratta di una perdita completa di accesso.
 
-Attenersi alla procedura di [acquisizione dell'amministratore](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) per acquisire la proprietà di una directory non gestita come amministratore Azure Active Directory.
+Seguire la [procedura di acquisizione amministratore](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) per assumere il controllo di una directory non gestita come Azure Active Directory amministratore.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Se non si è certi che l'azienda abbia già un account aziendale
 
-Se non si è certi che la società disponga di un account di lavoro, attenersi alla procedura seguente per verificare.
+Se non si è certi che l'azienda abbia un account aziendale, seguire questa procedura per verificare.
 
-1. Accedere al portale di [amministrazione di Azure](https://ms.portal.azure.com).
-2. Selezionare **Azure Active Directory** dal menu a sinistra e quindi selezionare **nomi di dominio**.
+1. Accedere al portale [di amministrazione di Azure.](https://ms.portal.azure.com)
+2. Selezionare **Azure Active Directory** dal menu a sinistra e quindi selezionare **Nomi di dominio**.
 Se hai già un account aziendale, il nome del tuo dominio verrà visualizzato nell'elenco.
 
 >[!Note]
->Se si dispone di una sottoscrizione attiva per Microsoft Azure o Office 365, si dispone già di un account aziendale e le credenziali di accesso devono essere identiche a quelle usate per accedere a tali servizi.
+>Se si ha una sottoscrizione attiva a Microsoft Azure o Office 365, si dispone già di un account aziendale e le credenziali di accesso devono essere uguali a quelle usate per accedere a tali servizi.

@@ -1,41 +1,36 @@
 ---
-title: Eseguire la migrazione di aziende da PMC al centro per i partner
+title: Eseguire la migrazione delle aziende da PMC a Partner Center
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Cosa sapere quando si esegue la migrazione di più società dal centro di appartenenza ai partner (PMC) al centro per i partner e consolidarle in un account globale partner.
+description: Cosa sapere quando si esegue la migrazione di più aziende da Partner Membership Center (PMC) a Partner Center e consolidarle in un account globale partner.
 author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 2c9973bf82957cd017abfc59c25b0c17173cb3f8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132656"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151594"
 ---
-# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Trasferimento di più aziende al centro per i partner da partner Membership Center (PMC)
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Spostamento di più aziende in Partner Center da Partner Membership Center (PMC)
 
-**Ruoli appropriati**
+**Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti | Agente amministratore | Agente di vendita
 
-- Amministratore globale
-- Amministratore gestione utenti
-- Agente amministratore
-- Agente di vendita
-
-Quando si sposta l'account della propria società da PMC al Centro per i partner, si potrebbero spostare vari account. Nel Centro per i partner questi account verranno consolidati in un unico account globale (PGA). Il primo account spostato verrà considerato l'account globale del partner e tutti gli account successivi verranno consolidati nel primo account come percorsi. Avviare il trasferimento con l'account di PMC per la sede centrale dell'azienda. Per altre informazioni, vedere la [Guida alla migrazione da PMC al centro per i partner](guide-to-migration.md) oppure guardare questo breve video di [account multilocation](https://vimeo.com/290335248)semplificato.
+Quando si sposta l'account della propria società da PMC al Centro per i partner, si potrebbero spostare vari account. Nel Centro per i partner questi account verranno consolidati in un unico account globale (PGA). Il primo account spostato verrà considerato l'account globale del partner e tutti gli account successivi verranno consolidati nel primo account come località. Avviare il trasferimento con l'account di PMC per la sede centrale dell'azienda. Per altre informazioni, vedere [Guide to migrating from PMC to Partner Center](guide-to-migration.md) (Guida alla migrazione da PMC a Partner Center) o guardare questo breve video Sugli account [multi-località reso più semplice.](https://vimeo.com/290335248)
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>Trasferire gli account aggiuntivi nel Centro per i partner
 
-Dato che un account aziendale è già stato spostato in centro per i partner, quando si esegue l'accesso si indica quale account è già presente nel centro per i partner.
+Poiché è già stato spostato un account aziendale in Partner Center, quando si esegue l'accesso, si verrà a sapere quale account è già presente Partner Center.
 
-Una volta eseguita la migrazione, se si rileva che l'account aziendale errato è stato designato come azienda legale, è possibile modificare la designazione.
+Dopo aver eseguito la migrazione, se si scopre che l'account aziendale errato è stato designato come attività legale, è possibile modificare tale designazione.
 
 1. Andare a **Profilo partner.**
 
-2. Assicurarsi che la località che si vuole designare come azienda legale sia nell'elenco delle località. In caso contrario, aggiungerla.
+2. Assicurarsi che la località che si vuole designare come attività legale sia nell'elenco delle località. In caso contrario, aggiungerla.
 
 3. Selezionare **Update legal business profile** (Aggiorna profilo aziendale legale).
 
@@ -65,13 +60,13 @@ Selezionare **Continua**.
 
 - Tutti gli ID MPN vengono conservati durante il consolidamento
 
-- Tutte le competenze esistenti (Gold/Silver), gli acquisti (MAPS/Gold/Silver) e i vantaggi associati vengono conservati durante il consolidamento
+- Tutte le competenze esistenti (Gold/Silver), gli acquisti (MAPS/Gold/Silver) e i vantaggi associati vengono mantenuti durante il consolidamento
 
 - L'utente che ha eseguito l'accesso con l'ID di posta elettronica aziendale verrà automaticamente aggiunto come amministratore MPN e amministratore account all'account del Centro per i partner esistente, in modo che sia possibile amministrare l'account in base alle esigenze
 
 ## <a name="review-your-company-information"></a>Verificare le informazioni aziendali
 
-Verificare le informazioni sull'azienda e modificare se necessario.  Questi dettagli verranno usati per eseguire la migrazione dell'account al Centro per i partner, quindi assicurarsi che i dettagli siano corretti.
+Verificare le informazioni sulla società e modificarle, se necessario.  Questi dettagli verranno usati per eseguire la migrazione dell'account al Centro per i partner, quindi assicurarsi che i dettagli siano corretti.
 
 I dettagli sono basati sulle informazioni in PMC e verranno verificati per garantire la legittimità dell'azienda.
 
@@ -80,7 +75,7 @@ I dettagli sono basati sulle informazioni in PMC e verranno verificati per garan
 
 Se l'account in corso di trasferimento si trova nello stesso paese o area geografica dell'account esistente, è possibile decidere se si intende usare tale indirizzo o aggiungerne un altro. Se si decide di usare un indirizzo diverso, l'indirizzo verrà verificato. Se si intende usare lo stesso indirizzo, verrà usato l'indirizzo esistente e il contatto principale.
 
-Dopo aver verificato/modificato le informazioni in questa schermata, selezionare **Invia** e gli account verranno consolidati.
+Dopo aver verificato/modificato le informazioni in questa schermata, selezionare **Invia** per consolidare gli account.
 
 ## <a name="partner-profile"></a>Profilo partner
 

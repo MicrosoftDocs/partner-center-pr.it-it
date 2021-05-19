@@ -1,136 +1,133 @@
 ---
-title: Iscriversi come partner di formazione
+title: Iscriversi come partner per l'apprendimento
 ms.topic: how-to
 ms.date: 02/05/2021
-description: Usare il centro per i partner per iscriversi al programma Learning partner. Questa operazione può essere eseguita in base al Action Pack di apprendimento o all'opzione di apprendimento per le competenze Silver o Gold.
+description: Usare Partner Center per registrarsi al Programma Learning Partner. È possibile farlo in base all'opzione Learning Action Pack o all'opzione Learning per le competenze Silver o Gold.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 5043e26b578f2d2dcaa45cd86105e4c540a82ab8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133047"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151441"
 ---
-# <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Usare il centro per i partner per iscriversi come partner Microsoft Learning
+# <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Usare Partner Center per registrarsi come partner Microsoft Learning
 
-**Ruoli appropriati**
+**Ruoli appropriati:** amministratore partner MPN | Amministratore account
 
-- Amministratore dei partner MPN
-- Amministratore degli account
+Questo articolo descrive i vari modi in cui un partner nel Microsoft Partner Network iscriversi al programma Learning Partner.
 
-Questo articolo descrive i vari modi in cui un partner del Microsoft Partner Network può iscriversi al programma Learning partner.
+Il successo nel programma Learning Partner viene misurato in base a indicatori di prestazioni chiave (KPI) progettati per premiare i partner di apprendimento quando completano determinati corsi di formazione Microsoft. Gli indicatori KPI vengono monitorati in base agli acquisti dei partner di OMLP (Official Microsoft Learning Products) idonei dal Courseware Marketplace.
 
-L'esito positivo del programma Learning partner è misurato da indicatori di prestazioni chiave (KPI) progettati per ricompensare i partner di formazione quando completano determinate formazioni Microsoft. Gli indicatori KPI vengono rilevati in base agli acquisti dei partner per i prodotti Microsoft Learning ufficiali idonei (OMLP) dal Marketplace dei corsi.
+I partner possono usare Partner Center per iscriversi al programma Learning Partner. Lo fanno tramite l'opzione di apprendimento disponibile nella sottoscrizione di Microsoft Action Pack o nell'opzione di apprendimento associata a determinate competenze Silver o Gold.
 
-I partner possono usare il centro per i partner per iscriversi al programma Learning partner. Questa operazione viene eseguita tramite l'opzione di apprendimento disponibile nell'abbonamento a Microsoft Action Pack o in base all'opzione di apprendimento associata a determinate competenze Silver o Gold.
+Questo processo è completamente automatizzato in Partner Center e non richiede più un'applicazione aziendale come in Partner Membership Center.
 
-Questo processo è completamente automatizzato nel centro per i partner e non richiede più un'applicazione aziendale, come per il partner Membership Center.
+Quando ci si iscrive al programma Learning Partner, ecco alcuni punti da tenere presenti:
 
-Quando si esegue la registrazione nel programma Learning partner, di seguito sono riportati alcuni aspetti da tenere presenti:
+- I requisiti degli indicatori KPI del programma Learning Partner sono soggetti a modifiche annuali.
 
-- I requisiti KPI del programma per i partner di formazione sono soggetti a modifiche annuali.
+- Gli indicatori KPI di apprendimento devono essere soddisfatti Partner Center a partire dal primo anno di iscrizione.
 
-- Gli indicatori KPI di formazione devono essere soddisfatti nel centro per i partner a partire dal primo anno di registrazione.
+- **Risorse per i nuovi partner:** Se si è un nuovo partner interessato a ottenere una competenza con l'opzione Learning, è possibile ottenere altre informazioni sul processo con l'opzione di apprendimento raccolta [di asset](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
 
-- **Risorse per i nuovi partner:** Se si è un nuovo partner interessato al raggiungimento di una competenza con l'opzione di apprendimento, è possibile ottenere altre informazioni sul processo con l' [opzione di apprendimento raccolta asset](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
+**COVID-19 UPDATE**
 
-**AGGIORNAMENTO DI COVID-19**
+Microsoft offre l'estensione della competenza (ad eccezione della competenza Cloud Business Applications) e l'estensione di specializzazione avanzata per i partner con date di anniversario (AD) tra il 1° gennaio 2021 e il 30 giugno 2021. Per altre informazioni, vedere il post di blog del [partner.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
 
-Microsoft offre un'estensione delle competenze (fatta eccezione per la competenza cloud Business Applications) e un'estensione di specializzazione avanzata per i partner con date di anniversario (AD) comprese tra il 1 ° gennaio 2021 e il 30 giugno 2021. Per ulteriori informazioni, consultare il [post di Blog del partner](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
+Per rimanere sempre aggiornati con gli annunci del programma di apprendimento, leggere il [blog](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) e consultare la pagina [Yammer di Learning Partner.](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all) È anche possibile trovare i documenti del programma e le registrazioni mensili delle chiamate della community nella [pagina risorse di apprendimento.](https://partner.microsoft.com/marketing/learning-resources#/)
 
-Per rimanere sempre aggiornati sugli annunci dei programmi di formazione, [leggere il Blog](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) e consultare la pagina di Yammer del [partner](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all)per la formazione. È anche possibile trovare documenti di programma e registrazioni di chiamate della community mensili nella [pagina delle risorse di formazione](https://partner.microsoft.com/marketing/learning-resources#/).
+## <a name="enroll-with-the-learning-action-pack"></a>Eseguire la registrazione con l'Action Pack
 
-## <a name="enroll-with-the-learning-action-pack"></a>Iscriversi con il Action Pack di formazione
+Learning Action Pack è la voce di livello base nel programma Learning Partner. Se non si ha esperienza con la line-of-business learning e l'organizzazione non ha mai eseguito alcuna formazione in Microsoft Courseware, Microsoft offre l'opportunità di iscriversi come partner Microsoft Learning. È sufficiente acquistare l'app di Action Pack.
 
-Learning Action Pack è la voce di livello base nel programma Learning partner. Se non si ha familiarità con la line of business di formazione e l'organizzazione non ha ancora eseguito corsi di formazione Microsoft, Microsoft offre la possibilità di iscriversi a Microsoft Learning partner. È sufficiente acquistare il Action Pack di formazione.
+Learning Action Pack supporta i partner che vogliono offrire servizi di formazione, offerte o sconti sul marketplace courseware e vantaggi per aiutare i partner a diventare esperti in diverse linee di prodotti Microsoft.
 
-Action Pack Learning supporta i partner che desiderano fornire servizi di formazione, offerte o sconti sul Marketplace per corsi di formazione e vantaggi per aiutare i partner a diventare esperti di diverse linee di prodotti Microsoft.
+I partner non di apprendimento possono acquistare courseware a prezzo intero solo per il training interno. Se si vuole distribuire il contenuto all'esterno dell'organizzazione, è necessario un Microsoft Certified Trainer (un MCT) ed è necessario iscriversi per l'Action Pack.
 
-I partner non di formazione possono acquistare corsi a prezzo pieno solo per la formazione interna. Se si vuole distribuire il contenuto all'esterno dell'organizzazione, è necessario un Microsoft Certified Trainer (un MCT) e dovrà iscriversi al Action Pack di formazione.
+Dopo aver raggiunto gli indicatori KPI necessari, è possibile completare i requisiti aggiuntivi e scegliere di eseguire l'aggiornamento a un'opzione di apprendimento Silver/Gold.
 
-Una volta raggiunti gli indicatori KPI necessari, è possibile completare i requisiti aggiuntivi e scegliere di eseguire l'aggiornamento a un'opzione di apprendimento Silver/Gold.
+- Per essere idonei Action Pack learning Partner Center, è necessario avere almeno un (1) MCT. Non è necessario soddisfare altri indicatori KPI di apprendimento.
+- Per attivare l'Action Pack learning, seguire questa procedura:
+   1. Seguire i passaggi descritti in [Acquistare o rinnovare una sottoscrizione Action Pack Microsoft](mpn-get-action-pack.md).
+   2. Contattare il team [di supporto di Frontline](https://partner.microsoft.com/support) per i partner per configurare un nuovo profilo account. In questo modo si avrà accesso alla formazione Microsoft Courseware su Courseware Marketplace.
 
-- Per qualificarsi per l'apprendimento Action Pack nel centro per i partner, è necessario disporre di almeno un (1) MCT. Non è necessario soddisfare altri indicatori KPI di formazione.
-- Per attivare il Action Pack di apprendimento, seguire questa procedura:
-   1. Seguire i passaggi descritti in [acquistare o rinnovare una sottoscrizione di Microsoft Action Pack](mpn-get-action-pack.md).
-   2. Contattare il team di [supporto di Frontline partner](https://partner.microsoft.com/support) per configurare un nuovo profilo dell'account. In questo modo sarà possibile accedere alla formazione per i corsi Microsoft sul Marketplace del software.
+## <a name="enroll-with-a-silver-competency-learning-option"></a>Iscriversi con un'opzione di apprendimento con competenze Silver
 
-## <a name="enroll-with-a-silver-competency-learning-option"></a>Registrazione con un'opzione di apprendimento per competenze Silver
-
-I partner di formazione che vogliono ottenere un livello di appartenenza Silver possono iscriversi all'opzione Silver Learning associata a una competenza specifica. A tale scopo, è necessario che soddisfino i requisiti dell'opzione di apprendimento Silver per la specifica competenza.
+I partner di apprendimento che vogliono ottenere un livello silver di appartenenza possono iscriversi all'opzione Silver Learning associata a una competenza specifica. A tale scopo, devono soddisfare i requisiti dell'opzione Silver Learning per tale competenza specifica.
 
 > [!NOTE]
-> Per altre informazioni sulle competenze che offrono un'opzione di apprendimento Silver o Gold, vedere la [pagina](https://partner.microsoft.com/membership/competencies)relativa alle competenze più recenti. 
+> Per altre informazioni sulle competenze che offrono un'opzione Silver o Gold Learning, vedere la pagina [delle competenze più recente.](https://partner.microsoft.com/membership/competencies) 
 
-Per qualificarsi e iscriversi a un'opzione di formazione specifica per la competenza Silver, esaminare i requisiti Silver della competenza per assicurarsi che siano soddisfatti. Quindi eseguire la procedura seguente:
+Per qualificarsi e iscriversi all'opzione di apprendimento di una competenza Silver specifica, esaminare i requisiti silver di tale competenza per assicurarsi di soddisfarli. Quindi eseguire la procedura seguente:
 
-- Eseguire il commit ai **requisiti di prestazioni** descritti nelle linee guida sulle prestazioni del programma di formazione. Queste linee guida sono disponibili nel [sito risorse di formazione](https://partner.microsoft.com/marketing/learning-resources#/).
+- Eseguire il commit dei **requisiti di prestazioni** descritti nelle linee guida sulle prestazioni del programma di apprendimento. Queste linee guida sono disponibili nel [sito risorse di apprendimento](https://partner.microsoft.com/marketing/learning-resources#/).
 
-- Soddisfa i **requisiti di Microsoft Certified Trainer (MCT)**
+- Soddisfare i **requisiti Microsoft Certified Trainer (MCT)**
 
-- Soddisfare i **requisiti dell'esame**
+- Soddisfare i requisiti **dell'esame**
 
-- Accedere al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner, quindi selezionare **MPN** dal menu di spostamento a sinistra, seguito dalle **offerte di appartenenza**. Quindi, attenersi alla [procedura seguente](mpn-get-action-pack.md) per sottoscrivere il livello di competenza Silver. Questo articolo può essere utile anche per il [pagamento delle spese](mpn-pay-fee-silver-gold-competency.md) per le competenze.
+- Accedere al [dashboard Partner Center,](https://partner.microsoft.com/dashboard)quindi selezionare **MPN** dal menu di spostamento a sinistra, seguito da **Offerte di appartenenza.** Seguire quindi questa [procedura per](mpn-get-action-pack.md) sottoscrivere il livello di competenza Silver. Questo articolo sul [pagamento della tariffa di](mpn-pay-fee-silver-gold-competency.md) competenza può essere utile.
 
-## <a name="enroll-with-a-gold-competency-learning-option"></a>Iscriversi con un'opzione di apprendimento per la competenza Gold
+## <a name="enroll-with-a-gold-competency-learning-option"></a>Registrarsi con un'opzione gold competency Learning
 
-Prima di poter eseguire la registrazione con l'opzione di apprendimento per la competenza in oro, è necessario assicurarsi di soddisfare i requisiti dell'opzione di apprendimento a livello di oro per le competenze specifiche.
+Prima di poter eseguire la registrazione con l'opzione gold competency Learning, è necessario assicurarsi di soddisfare i requisiti delle opzioni di apprendimento a livello gold di tale competenza specifica.
 
-La registrazione in (o il rinnovo) di un'opzione di apprendimento per la competenza in oro presenta requisiti diversi rispetto alla registrazione nell'opzione Learning Action Pack o Silver per la competenza. Per soddisfare i requisiti di un'opzione di apprendimento per le competenze in oro, è necessario soddisfare i requisiti dell'indicatore KPI di apprendimento a livello di Gold. Se non sono stati soddisfatti gli indicatori KPI o altri requisiti, è necessario registrarsi nell'Action Pack di apprendimento o nell'opzione Silver a seconda del livello di requisiti soddisfatti, se si vuole diventare partner di formazione.
+La registrazione (o il rinnovo) di un'opzione gold competency Learning presenta requisiti diversi rispetto alla registrazione all'opzione Learning Action Pack o Silver competency Learning. Per soddisfare i requisiti per un'opzione gold competency Learning, è anche necessario soddisfare i requisiti degli indicatori KPI di apprendimento a livello gold di tale competenza. Se non sono stati soddisfatti gli indicatori KPI o altri requisiti, è necessario registrarsi nell'opzione Learning Action Pack o Silver a seconda del livello di requisiti soddisfatti, se si vuole diventare partner di apprendimento.
 
 > [!NOTE]
-> È possibile che l'utente sia già iscritto a una nuova competenza e abbia già acquisito i requisiti dell'opzione di apprendimento Silver learning per tale competenza. Se quindi si vuole proseguire per ottenere l'opzione di apprendimento a livello di oro per la competenza, è comunque necessario soddisfare gli indicatori KPI di livello oro e altri requisiti di livello Gold. Una volta soddisfatti i requisiti di livello Gold, potrebbe essere possibile sfruttare l' [offerta MPN-aggiornare lo sconto Silver-to-Gold](mpn-pay-fee-silver-gold-competency.md#apply-upgrade-discount-when-moving-from-silver-to-gold).
+> È possibile che l'utente sia già registrato in una nuova competenza e abbia già ottenuto i requisiti dell'opzione silver-learning learning per tale competenza. Se si vuole quindi ottenere l'opzione di apprendimento gold level per tale competenza, è comunque necessario soddisfare gli indicatori KPI di livello gold di tale competenza e altri requisiti di livello Gold. Dopo aver soddisfatto i requisiti del livello Gold, è possibile sfruttare lo sconto [mpn Offer- upgrade silver-to-gold](mpn-pay-fee-silver-gold-competency.md#apply-upgrade-discount-when-moving-from-silver-to-gold)(Aggiornamento dell'offerta MPN da silver a gold).
 
-## <a name="frequently-asked-questions-about-learning-partner-enrollment"></a>Domande frequenti sull'iscrizione del partner di formazione
+## <a name="frequently-asked-questions-about-learning-partner-enrollment"></a>Domande frequenti sulla registrazione di Learning Partner
 
-### <a name="q-do-i-need-to-submit-a-business-application-plan-in-partner-center-to-enroll-in-a-learning-option"></a>Q. È necessario inviare un piano di applicazione aziendale nel centro per I partner per iscriversi a un'opzione di formazione?
+### <a name="q-do-i-need-to-submit-a-business-application-plan-in-partner-center-to-enroll-in-a-learning-option"></a>Q. È necessario inviare un piano di applicazione aziendale in Partner Center per registrarsi a un'opzione di apprendimento?
 
-No. Nel centro per i partner non è necessario un piano applicativo aziendale per ottenere una competenza tramite l'opzione Learning. È necessario soddisfare i KPI di apprendimento dal primo anno di iscrizione.
+No. In Partner Center, non è necessario un piano applicativo aziendale per ottenere una competenza tramite l'opzione Learning. È necessario soddisfare gli indicatori KPI di apprendimento dal primo anno di iscrizione.
 
-### <a name="q-if-i-am-a-net-new-partner-and-decide-to-buy-courseware-trainings-or-certifications-before-applying-for-the-learning-option-will-the-kpis-be-recognized-by-partner-center-automatically"></a>D: se si è un partner NET-New e si decide di acquistare corsi, corsi di formazione o certificazioni prima di applicare l'opzione Learning, gli indicatori KPI verranno riconosciuti automaticamente dal centro per i partner?
+### <a name="q-if-i-am-a-net-new-partner-and-decide-to-buy-courseware-trainings-or-certifications-before-applying-for-the-learning-option-will-the-kpis-be-recognized-by-partner-center-automatically"></a>D: Se si è un partner completamente nuovo e si decide di acquistare courseware, corsi di formazione o certificazioni prima di richiedere l'opzione di apprendimento, gli indicatori KPI verranno riconosciuti automaticamente Partner Center?
 
-Sì, gli indicatori KPI devono essere riconosciuti nel centro per i partner.
+Sì, gli indicatori KPI devono essere riconosciuti in Partner Center.
 
-### <a name="q-where-should-i-go-in-case-there-is-a-discrepancy-between-kpis-in-partner-center-under-the-learning-option-and-my-kpi-dashboard"></a>Q. Dove si può procedere in caso di discrepanza tra gli indicatori KPI nel centro per i partner sotto l'opzione Learning e il dashboard KPI?
+### <a name="q-where-should-i-go-in-case-there-is-a-discrepancy-between-kpis-in-partner-center-under-the-learning-option-and-my-kpi-dashboard"></a>Q. Dove devo andare in caso di discrepanza tra gli indicatori KPI Partner Center'opzione di apprendimento e il mio dashboard KPI?
 
-Contattare il [supporto di Frontline partner](https://partner.microsoft.com/support). È necessario fornire i dettagli seguenti (dal dashboard KPI) per consentire di tenere traccia degli indicatori KPI:
+Contattare [il supporto di Frontline per i partner.](https://partner.microsoft.com/support) Per tenere traccia degli indicatori KPI, è necessario fornire i dettagli seguenti (dal dashboard KPI):
 
 - Month
 - Year
 - Tipo OMLP
 - Unità di acquisto
 - Fattura #
-- Valore KPI
-- Valore ricavi
+- Valore DELL'indicatore KPI
+- Valore dei ricavi
 
-I report KPI vengono aggiornati una volta al mese durante la metà del mese. L'idoneità per il rinnovo del programma di formazione viene misurata per gli indicatori KPI ottenuti durante i 12 mesi precedenti dell'attività delle prestazioni, in base alla data di anniversario. Ad esempio, a partire dal 15 gennaio 2020, verranno visualizzati i dati KPI per il periodo di gennaio 2019 a dicembre 2019. Se la fattura ha avuto data di gennaio 2020, gli indicatori KPI corrispondenti sarebbero visibili a partire dal 15 febbraio 2019. **Le conferme di ordine e i report partner non verranno accettati.** Verranno accettate solo le fatture effettive.
+I report KPI vengono aggiornati una volta al mese durante la metà del mese. L'idoneità al rinnovo del programma di apprendimento viene misurata per gli indicatori KPI ottenuti durante i 12 mesi precedenti di attività delle prestazioni, in base alla data dell'anniversario. Ad esempio, a partire dal 15 gennaio 2020, i dati degli indicatori KPI verranno visualizzati per il periodo da gennaio 2019 a dicembre 2019. Se la fattura è datata gennaio 2020, gli indicatori KPI corrispondenti saranno visibili a partire dal 15 febbraio 2019. **Le conferme degli ordini e i report dei partner non verranno accettati.** Verranno accettate solo le fatture effettive.
 
 ### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>Q. Un training di un giorno equivale a un indicatore KPI?
 
-La riunione di un indicatore KPI non è correlata alla durata del training. Per altre informazioni su come misurare gli indicatori KPI, vedere gli esempi di prestazioni nella [Guida alla registrazione del partner di formazione](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
+La riunione di un indicatore KPI non è correlata alla durata del training. Per altre informazioni sulla misurazione degli indicatori KPI, vedere gli esempi di prestazioni nella Guida alla registrazione [dei partner di apprendimento](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
 
-### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>Q. Perché non viene visualizzato come partner Microsoft Learning nella directory del partner di formazione?
+### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>Q. Perché non viene visualizzato come partner Microsoft Learning nella directory learning partner?
 
-Potrebbe essere necessario aggiungere l'utente alla [directory Learning partner](/learn/certifications/partners). È quindi possibile collegarsi al sito Web dalla pagina della directory del partner di formazione.
+Potrebbe essere necessario aggiungere l'utente alla [directory learning partner](/learn/certifications/partners). È quindi possibile collegarsi al sito Web dalla pagina della directory di Learning Partner.
 
-Si tratta di un processo manuale inviato solo una volta al mese, durante la terza settimana. L'aggiornamento successivo sarà visibile entro la fine della prima settimana del mese successivo. Per risolvere il problema, contattare il [supporto di Frontline del partner](https://partner.microsoft.com/support). Essere pronti a fornire i dettagli seguenti:
+Si tratta di un processo manuale inviato una sola volta al mese, durante la terza settimana. L'aggiornamento successivo sarà visibile entro la fine della prima settimana del mese successivo. Per risolvere il problema, contattare il [supporto di Frontline partner.](https://partner.microsoft.com/support) Prepararsi a fornire i dettagli seguenti:
 
 - Nome che deve essere visualizzato nella directory
 
 - Paese associato
 
-- URL della pagina di destinazione associata con tema Microsoft
+- URL per la pagina di destinazione associata con testo a testo Microsoft
 
    > [!NOTE]
-   > L'URL deve trovarsi in un sito Web di proprietà del partner con una pagina di destinazione Microsoft. La pagina specifica di Microsoft deve anche:
-   > - Trova solo **"partner X"**
-   > - Mostra **Nessun competitor**
-   > - Essere di **Proprietà** di "partner X"
+   > L'URL deve essere relativo a un sito Web di proprietà del partner con una pagina di destinazione Microsoft. La pagina specifica di Microsoft deve anche:
+   > - Essere **solo "Partner X"**
+   > - Non **visualizzare concorrenti**
+   > - Essere **di proprietà di** "Partner X"
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-[Altre](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) informazioni sulla registrazione delle opzioni di apprendimento
+[Altre informazioni sulla](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) registrazione delle opzioni di apprendimento

@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 4a931f1d971ea3e3bc288f70e85a6600596761cc
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: b167b0e65f3339a29f0227f6135ed70931300d8e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528546"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152155"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Creare e gestire profili di pagamento e fiscali per gli incentivi in Partner Center
 
-**Ruoli appropriati**
-
-- Amministratore degli incentivi
-- Amministratore degli account
-- Amministratore globale
+**Ruoli appropriati:** amministratore degli incentivi | Account admin | Amministratore globale
 
 Prima di poter ricevere il pagamento per i programmi Incentivi per una particolare posizione MPN, è necessario completare la registrazione associando un profilo di pagamento e fiscale valido al programma e alla posizione MPN. Microsoft userà il profilo di pagamento e fiscale per emettere i pagamenti. È possibile che l'utente sia autorizzato a usare il trasferimento bancario elettronico o una nota di accredito per il pagamento, a seconda delle regole del programma Incentivi. 
 
@@ -54,31 +50,31 @@ Le sezioni seguenti illustrano il processo di creazione e gestione dei profili d
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Accedere alla sezione relativa ai pagamenti e alle imposte in Partner Center
 
-1. Accedere al [dashboard Partner Center usando](https://partner.microsoft.com/dashboard/) l'account Azure Active Directory (Azure AD) (account aziendale) o l'indirizzo di posta elettronica appropriato, se ne è stato assegnato uno.
+1. Accedere al [dashboard di Partner Center](https://partner.microsoft.com/dashboard/) usando l'account Azure Active Directory (Azure AD) o l'indirizzo di posta elettronica appropriato, se assegnato.
 
    - È possibile registrare più domini all'interno di Azure AD account. Contattare l'amministratore globale per determinare i domini associati.
-   - Se si è in grado di accedere solo con il dominio e sono necessari altri domini, contattare l'amministratore dell'account per aggiungere altri domini @onmicrosoft.com all'account Azure AD locale.
-   - Se viene richiesto di selezionare Account aziendale o dell'istituto di istruzione **o** **Account personale,** selezionare **Account aziendale o dell'istituto di istruzione.**
+   - Se si è in grado di accedere solo con il dominio e sono necessari altri domini, contattare l'amministratore dell'account per aggiungere altri domini @onmicrosoft.com all'account Azure AD dominio.
+   - Se viene richiesto di selezionare Account aziendale o dell'istituto di istruzione o **Account** **personale,** selezionare Account **aziendale o dell'istituto di istruzione.**
 
-2. Selezionare l'icona a forma di ingranaggio per aprire **il** menu Impostazioni e quindi selezionare **Impostazioni account**.
+2. Selezionare l'icona a forma di ingranaggio per **aprire il** menu Impostazioni e quindi selezionare **Impostazioni account.**
 
-3. Nel menu **Impostazioni account** selezionare Pagamento **e imposta.**
+3. Nel menu **Impostazioni account** selezionare Pagamenti **e imposte.**
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Assegnare profili di pagamento e fiscali a singoli programmi
 
 1. Accedere al [dashboard Partner Center e](https://partner.microsoft.com/dashboard/)quindi selezionare l'icona a forma di ingranaggio per aprire il menu Impostazioni.  
 
-2. Selezionare **Impostazioni account,** espandere la **sezione Pagamento** e imposta e quindi selezionare Pagamento e assegnazione profilo **fiscale**. 
+2. Selezionare **Account settings (Impostazioni account),** espandere **la sezione Payout and tax**(Pagamenti e imposte) e quindi selezionare Payout and tax profile assignment (Assegnazione profilo di pagamento e **imposta).** 
    
    Verrà visualizzato un elenco dei programmi. Selezionare la freccia accanto a un programma per visualizzare i dettagli del profilo. 
 
-3. Nel menu **a discesa Profilo** fiscale selezionare il profilo fiscale desiderato oppure selezionare l'opzione per creare un nuovo profilo. Quando si seleziona l'opzione per creare un nuovo profilo, si verrà reindirizzati in modo appropriato.  Selezionare **Continua** nella finestra popup. Di seguito è riportato il processo per la creazione di un nuovo profilo fiscale.
+3. Nel menu **a discesa Profilo** fiscale selezionare il profilo fiscale desiderato oppure selezionare l'opzione per creare un nuovo profilo. Quando si seleziona l'opzione per creare un nuovo profilo, si verrà reindirizzati in modo appropriato.  Selezionare **Continua** nella finestra popup. Il processo per la creazione di un nuovo profilo fiscale è illustrato di seguito.
 
-4. Selezionare **Metodo di pagamento**.
+4. Selezionare **Metodo di pagamento.**
 
-   - Se è stato selezionato **Trasferimento bancario elettronico** come metodo di pagamento, selezionare il profilo di pagamento desiderato oppure selezionare l'opzione per creare un nuovo profilo. Quando si seleziona l'opzione per creare un nuovo profilo, si verrà reindirizzati in modo appropriato. Selezionare Continua nella finestra popup. Il processo per la creazione di un nuovo profilo di pagamento è stato fornito di seguito.
+   - Se è stato selezionato **Il trasferimento bancario elettronico** come metodo di pagamento, selezionare il profilo di pagamento desiderato oppure selezionare l'opzione per creare un nuovo profilo. Quando si seleziona l'opzione per creare un nuovo profilo, si verrà reindirizzati in modo appropriato. Selezionare Continua nella finestra popup. Il processo per la creazione di un nuovo profilo di pagamento è stato fornito di seguito.
 
-   - Se è stata selezionata **l'opzione Nota di** credito come metodo di pagamento, completare la verifica. Ciò conferma che il numero SAP a cui si fa riferimento appartiene all'organizzazione.
+   - Se è stato selezionato **Nota di credito come** metodo di pagamento, completare la verifica. Ciò conferma che il numero SAP a cui si fa riferimento appartiene all'organizzazione.
 
     >[!NOTE]
     >Se sono elencate più entità aziendali Microsoft, è necessario selezionare un profilo di pagamento per ogni entità.
@@ -86,15 +82,15 @@ Le sezioni seguenti illustrano il processo di creazione e gestione dei profili d
     >[!NOTE]
     >La disponibilità del metodo di pagamento dipende dalle regole del programma di incentivi.
 
-    - Se l'ID MPN della posizione viene pagato da una filiale Microsoft locale per un particolare programma di incentivi e consente la nota di credito LRD (distributore a rischio limitato) come metodo di pagamento, il profilo di pagamento verrà precompilato con il metodo di pagamento LRD Credit Note. Nella riga metodo di pagamento della nota di credito LRD per il rispettivo programma di incentivi e l'ID MPN della posizione verrà visualizzato **Confermata** o Verifica necessaria come stato nella sezione del profilo di pagamento. 
+    - Se l'ID MPN della località viene pagato da una filiale Microsoft locale per un programma di incentivi specifico e consente la nota di credito LRD (distributore a rischio limitato) come metodo di pagamento, il profilo di pagamento verrà pre-popolato con il metodo di pagamento LRD Credit Note. Nella riga Metodo di pagamento della nota di credito LRD per il rispettivo  programma di incentivi e l'ID MPN della località verrà visualizzato **Confermata** o Verifica necessaria come stato nella sezione del profilo di pagamento.
     
-       Selezionare **Verifica necessaria per** confermare e verificare i dettagli dell'ID tenant CSP associati alla posizione MPN e al metodo di pagamento per ricevere il pagamento della nota di credito. Nella finestra **di dialogo Credit Note Details (Dettagli** nota di credito) esaminare e verificare che l'ID tenant CSP e i dettagli specificati siano corretti. Se viene visualizzato più di un ID tenant, selezionare con attenzione l'ID tenant CSP per cui si vogliono ricevere i pagamenti. Selezionare quindi **Conferma per** confermare che i dettagli della società sono corretti e che il pagamento dell'incentivo deve essere effettuato all'ID tenant CSP selezionato.
+       Selezionare **Verifica necessaria per** confermare e verificare i dettagli dell'ID tenant CSP associati alla località MPN e al metodo di pagamento per ricevere il pagamento della nota di credito. Nella finestra **di dialogo Dettagli nota** di credito esaminare e verificare che l'ID tenant CSP e i dettagli specificati siano corretti. Se vengono visualizzati più ID tenant, selezionare con attenzione l'ID tenant CSP in cui si vogliono ricevere i pagamenti. Selezionare quindi **Conferma per** confermare che i dettagli dell'azienda sono corretti e che il pagamento dell'incentivo deve essere effettuato all'ID tenant CSP selezionato.
  
-      Se lo stato è **Confermato**, l'assegnazione dell'ID tenant CSP è stata completata e non sono necessarie altre azioni. È comunque possibile selezionare Confermato per visualizzare i dettagli dell'assegnazione.
+      Se lo stato è **Confermato,** l'assegnazione dell'ID tenant CSP è stata completata e non sono necessarie altre azioni. È comunque possibile selezionare Confermata per visualizzare i dettagli dell'assegnazione.
    
-      Nei paesi che richiedono ai partner di richiedere in modo esplicito di applicare un'esenzione fiscale, sarà disponibile un'opzione per applicare l'esenzione fiscale accanto al profilo fiscale nella sezione relativa al profilo fiscale del programma di incentivi e alla posizione MPN. Selezionando questa casella verranno applicati i vantaggi dell'esenzione fiscale alla nota di credito dell'incentivo. 
+      Nei paesi che richiedono esplicitamente ai partner di richiedere l'applicazione di un'esenzione fiscale, sarà possibile applicare l'esenzione fiscale accanto al profilo fiscale nella sezione del profilo fiscale del programma di incentivi e della località MPN. Selezionando questa casella verranno applicati i vantaggi dell'esenzione fiscale alla nota di credito dell'incentivo. 
    
-      Attualmente, il metodo di pagamento della nota di credito LRD è disponibile solo per i partner Australia, Nuova Zelanda e Canada per il programma Microsoft Commerce Incentive. Se si è un partner di fatturazione diretta o un provider indiretto in questi tre paesi registrati per il programma MCI e la nota di credito LRD non viene visualizzata come metodo di pagamento disponibile, verificare che l'ID tenant sia associato all'account mpn partner pertinente. Per altre informazioni su questo, vedere [come aggiornare il profilo dell'organizzazione.](update-your-partner-profile.md)
+      Attualmente, il metodo di pagamento della nota di credito LRD è disponibile solo per i partner Australia, Nuova Zelanda e Canada per il programma Microsoft Commerce Incentive. Se si è un partner di fatturazione diretta o un provider indiretto in questi tre paesi registrati per il programma MCI e la nota di credito LRD non viene visualizzata come metodo di pagamento disponibile, verificare che l'ID tenant sia associato all'account mpn partner pertinente. Per altre informazioni, vedere Come [aggiornare il profilo dell'organizzazione.](update-your-partner-profile.md)
 
     
 5. Selezionare **valuta**.
@@ -111,20 +107,20 @@ Le sezioni seguenti illustrano il processo di creazione e gestione dei profili d
 
 3. Selezionare **Gestisci profili predefiniti** nella sezione Profili **di** pagamento. 
 
-4. Per creare un profilo bancario predefinito, **selezionare Aggiungi un profilo bancario predefinito.** 
+4. Per creare un profilo bancario predefinito, selezionare **Aggiungi un profilo bancario predefinito.** 
 
 5. Selezionare un profilo bancario dall'elenco dei profili bancari disponibili della società, selezionare la valuta da usare con questo profilo bancario e quindi selezionare l'elenco di località MPN per cui si vuole applicare questo profilo predefinito.
 
 6. Dopo **aver completato** le selezioni, selezionare Fine. Il pulsante Fine non sarà selezionabile fino al completamento di tutti i campi obbligatori. 
 
 >[!NOTE]
->Lo stesso abbinamento bancario e valuta può essere applicato a più posizioni. Se alla località mpn è stata assegnata una sola volta una combinazione di profilo e valuta predefinita, non verrà più visualizzata nell'elenco a discesa della località per le assegnazioni del profilo predefinite future. Se la selezione predefinita viene eliminata, il mpn della posizione verrà nuovamente visualizzato per le future assegnazioni di profilo predefinite. Ogni combinazione di profilo bancario e valuta viene aggiunta come riga univoca e modificabile.
+>Lo stesso abbinamento bancario e valuta può essere applicato a più posizioni. Se alla località MPN è stata assegnata una sola volta una combinazione di profilo e valuta predefinita, non verrà più visualizzata nell'elenco a discesa delle località per le future assegnazioni di profilo predefinite. Se la selezione predefinita viene eliminata, il mpn della posizione verrà nuovamente visualizzato per le future assegnazioni di profilo predefinite. Ogni combinazione di profilo bancario e valuta viene aggiunta come riga univoca e modificabile.
 
 7. Dopo aver aggiunto tutte le modifiche necessarie, selezionare **Salva**.  
 
 ## <a name="create-your-bank-profile"></a>Creare il profilo bancario
 
-I profili bancari vengono creati a livello aziendale. In questo modo è possibile assegnare un profilo bancario tra più programmi di incentivi e ID MPN all'interno di un'azienda. Potrebbero esserci eccezioni quando si applica il profilo bancario a paesi diversi, in quanto possono essere applicate regole bancarie e fiscali diverse.
+I profili bancari vengono creati a livello aziendale. Ciò consente di assegnare un profilo bancario tra più programmi di incentivi e ID MPN all'interno di un'azienda. Potrebbero esserci eccezioni quando si applica il profilo bancario a paesi diversi, in quanto possono essere applicate regole bancarie e fiscali diverse.
 
 >[!NOTE]
 >Nelle pagine seguenti sono necessari campi con un asterisco. Se non si conosce un campo, selezionare l'icona delle informazioni. 
@@ -147,7 +143,7 @@ Si verrà reindirizzati alla pagina **Profili di pagamento e** fiscali. Lo stato
 
 ## <a name="create-your-tax-profile"></a>Creare il profilo fiscale
 
-Usare la procedura seguente per fornire a Microsoft le informazioni fiscali necessarie per l'organizzazione. Le pagine di questa sezione sono dinamiche e variano a seconda del paese o dell'area geografica. Per informazioni sull'identificazione delle informazioni fiscali corrette, contattare le origini governative appropriate nel proprio paese.
+Usare la procedura seguente per fornire a Microsoft le informazioni fiscali necessarie per l'organizzazione. Le pagine di questa sezione sono dinamiche e variano in base al paese o all'area geografica. Per informazioni sull'identificazione delle informazioni fiscali corrette, contattare le origini governative appropriate nel proprio paese.
 
 Per le aziende partner nelle Americhe, se sono necessarie informazioni sul completamento dei moduli W8 o W9, gli indirizzi seguenti ti consereranno al sito IRS:
 
@@ -176,21 +172,21 @@ Per le aziende partner nelle Americhe, se sono necessarie informazioni sul compl
 
 8. Per salvare e continuare, selezionare **Fine.**
 
-9. Selezionare **Conferma** nel messaggio popup. Si tornerà alla pagina di configurazione **dei pagamenti e delle** imposte.
+9. Selezionare **Conferma** nel messaggio popup. Verrà visualizzata di nuovo la pagina **Di configurazione dei pagamenti e delle** imposte.
  
 ## <a name="update-expired-tax-profiles"></a>Aggiornare i profili fiscali scaduti
 
 1. Accedere al [dashboard Partner Center e](https://partner.microsoft.com/dashboard/)quindi selezionare l'icona a forma di ingranaggio per aprire il menu Impostazioni. 
 
-1. Selezionare **Account settings (Impostazioni account),** **espandere la sezione Payout and tax** (Pagamenti e imposte) e quindi selezionare **Payout and tax profile (Profilo di pagamento e imposta).**
+1. Selezionare **Impostazioni account,** espandere la **sezione Pagamento** e imposta e quindi selezionare Pagamento e profilo **fiscale.**
 
-1. Selezionare **Profilo fiscale.**
+1. Selezionare **Profilo fiscale**.
 
-1. Controllare la colonna **Expiration Date (Data** di scadenza) e passare al profilo fiscale scaduto o in scadenza.
+1. Controllare la colonna **Expiration Date** (Data di scadenza) e passare al profilo fiscale scaduto o in scadenza.
 
-1. Selezionare **Edit** (Modifica).
+1. Selezionare **Modifica**.
 
-1. Nella sezione relativa al modulo fiscale aggiornare i moduli fiscali specificando i nuovi dettagli. 
+1. Nella sezione modulo fiscale aggiornare i moduli fiscali specificando i nuovi dettagli. 
 
 ## <a name="next-steps"></a>Passaggi successivi
 

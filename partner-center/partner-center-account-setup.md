@@ -9,30 +9,27 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 6c5acad01490ca679fa0761aa015fe0142e476bd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740387"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146375"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gestire l'account del Centro per i partner: profilo della società, informazioni bancarie, ruoli, autorizzazioni e altri dati
 
-**Ruoli appropriati** 
+**Ruoli appropriati:** amministratore globale | Amministratore account
 
-- Amministratore globale
-- Amministratore degli account
-
-L'account creato nel Centro per i partner al momento dell'iscrizione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account, è necessario terminare la configurazione del profilo completo della società, inclusi i dettagli sul supporto, le eventuali esenzioni fiscali e le informazioni sul contatto principale. L'account dell'azienda includerà anche gli account utente per tutti gli utenti del team che useranno Partner Center. Il lavoro che possono eseguire include l'aggiunta o la gestione dei clienti, la vendita di sottoscrizioni, l'uso della fatturazione e della fatturazione, la creazione di profili aziendali, la gestione delle segnalazioni, l'uso di programmi di incentivi, il supporto e altro ancora.
+L'account creato nel Centro per i partner al momento dell'iscrizione è costituito dall'indirizzo e-mail di lavoro e dalle informazioni aziendali. Dopo aver creato un account, è necessario terminare la configurazione del profilo completo della società, inclusi i dettagli sul supporto, le eventuali esenzioni fiscali e le informazioni sul contatto principale. L'account aziendale includerà anche gli account utente per tutti gli utenti del team che useranno Partner Center. Il lavoro che possono eseguire include l'aggiunta o la gestione di clienti, la vendita di sottoscrizioni, l'uso della fatturazione e della fatturazione, la creazione di profili di business, la gestione delle segnalazioni, l'uso di programmi di incentivi, la fornitura di supporto e altro ancora.
 
 Vedere anche gli articoli [Invitare i dipendenti a partecipare al Centro per i partner](guide-to-migration.md) e [Aggiungere un nuovo utente](create-user-accounts-and-set-permissions.md).
 
 >[!NOTE]
->Il menu Impostazioni account cambierà a seconda dei programmi a cui si è iscritti. Ad esempio, se si è partner del programma Cloud Solution Provider (CSP), sarà possibile gestire i servizi condivisi di Azure da **Impostazioni account**.
+>Il menu Impostazioni account cambierà a seconda dei programmi a cui si è iscritti. Ad esempio, se si è partner nel programma Cloud Solution Provider (CSP), sarà possibile gestire i servizi condivisi di Azure da **Impostazioni account**.
 
 ## <a name="account-management"></a>Gestione degli account
 
-Tutti i partner commerciali e sviluppatori accedono a Gestione account **in** Partner Center accedendo al [dashboard](https://partner.microsoft.com/dashboard) di Partner Center e selezionando **Impostazioni** (icona a forma di ingranaggio) nell'angolo superiore destro della schermata e quindi **Impostazioni account**. Non è più necessario scegliere tra le impostazioni partner e sviluppatore. Tutti i profili e le impostazioni vengono ora combinati.
+Tutti i partner commerciali e per sviluppatori accedono alla gestione degli account **in** Partner Center accedendo al [dashboard](https://partner.microsoft.com/dashboard) di Partner Center e selezionando **Impostazioni** (icona a forma di ingranaggio) nell'angolo superiore destro della schermata e quindi **Impostazioni account.** Non è più necessario scegliere tra le impostazioni partner e sviluppatore. Tutti i profili e le impostazioni sono ora combinati.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="Icona Impostazioni":::
 
@@ -42,7 +39,7 @@ Questa immagine rappresenta la pagina Impostazioni account.
 
 ### <a name="locate-your-mpn-id"></a>Individuare l'ID MPN
 
-Sia i partner che gli sviluppatori possono usare l'ID MPN per operazioni come la registrazione dei ticket di supporto. L'ID MPN si trova nella **pagina Informazioni** legali. È possibile trovarlo anche nel **profilo dell'identità**.
+Sia i partner che gli sviluppatori possono usare l'ID MPN per operazioni come la registrazione dei ticket di supporto. L'ID MPN si trova nella **pagina Note** legali. È possibile trovarlo anche nel **profilo dell'identità**.
 
 ## <a name="account-settings---partners-resellers"></a>Impostazioni account: partner e rivenditori
 
@@ -50,21 +47,21 @@ Quando si seleziona l'icona **Impostazioni** e si apre il menu **Impostazioni ac
 
 :::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu con le schede per partner e rivenditori":::
 
-La scheda Partner include tutte le informazioni aziendali legali, ad esempio il nome e l'indirizzo legale registrati per l'azienda, nonché il contatto principale e le sedi aziendali. La scheda Rivenditore per i partner che operano come CSP include la pagina **Profilo del supporto clienti**.
+La scheda Partner include tutte le informazioni legali, ad esempio il nome legale registrato e l'indirizzo della società, nonché il contatto principale e le posizioni aziendali. La scheda Rivenditore per i partner che operano come CSP include la pagina **Profilo del supporto clienti**.
 
-Se l'azienda non partecipa a CSP, nella visualizzazione predefinita verrà mostrata solo la **scheda Partner,** che includerà il **profilo di supporto clienti**.
+Se l'azienda non partecipa al programma CSP, la visualizzazione predefinita mostrerà solo la scheda **Partner,** che includerà il **profilo di supporto clienti**.
 
-### <a name="when-you-are-in-more-than-one-account"></a>Se si ha più di un account
+### <a name="when-you-are-in-more-than-one-account"></a>Quando si è in più di un account
 
-Puoi far parte di più di un account. È possibile verificare se si fa parte di più account in base alla presenza del "selettore account" nel menu di spostamento a sinistra.
+Puoi far parte di più di un account. È possibile verificare se si fa parte di più account in base alla presenza della "selezione account" nel menu di spostamento a sinistra.
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identificare il selettore account":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identificare la selezione account":::
 
-Se la selezione account non è visualizzata, si fa parte di un solo account. 
+Se la selezione account non viene visualizzata, si fa parte di un solo account. 
 
-Quando si seleziona questo selettore, tutti gli account di cui si fa parte vengono visualizzati come elenco. È quindi possibile selezionare uno di essi e passare a tale account. Tutto ciò che viene dopo viene visualizzato nel contesto di tale account.  
+Quando si seleziona questo selettore, tutti gli account di cui si fa parte vengono visualizzati come elenco. È quindi possibile selezionarli e passare a tale account. Tutto ciò che viene visualizzato dopo nel contesto di tale account.  
 
-Nell'esempio seguente l'utente connesso fa parte dei tre account evidenziati. L'utente può passare da un account all'altro facendo clic su di esso.
+Nell'esempio seguente l'utente connesso fa parte dei tre account evidenziati. L'utente può passare da un account all'altro facendo clic su un account.
 
 :::image type="content" source="images/accountsettings/picker-two.png" alt-text="Account di cui si fa parte":::
 
@@ -86,7 +83,7 @@ Se l'azienda si trova in **Armeno,** **Azerbaigian,** **Kyrgyzstan,** **Uzbekist
 
 ### <a name="primary-contact-email"></a>Indirizzo di posta elettronica di contatto principale
 
-L'indirizzo di posta elettronica di contatto principale verrà utilizzato per notificare la verifica dell'account. È importante che il messaggio di posta elettronica fornito per il contatto principale sia gestito e osservato regolarmente.  
+L'indirizzo di posta elettronica di contatto principale è quello che verrà utilizzato per notificare la verifica dell'account. È importante che il messaggio di posta elettronica fornito per il contatto principale sia gestito e osservato regolarmente.  
 
 Per altre informazioni sulla verifica dei dati dell'account, vedere [questo articolo](verification-responses.md).
 

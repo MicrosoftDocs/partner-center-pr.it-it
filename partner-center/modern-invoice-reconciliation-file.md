@@ -8,19 +8,16 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 85946f44e1265ad5012faf9d782609904100c80e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702791"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146256"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campi del file di riconciliazione degli acquisti una sola volta CSP
 
-**Ruoli appropriati**
-
-- Amministratore degli account
-- Agente di fatturazione
+**Ruoli appropriati:** Account admin | Agente di fatturazione
 
 ## <a name="using-the-recon-file"></a>Uso del file di ricognizione
 La tabella seguente fornisce descrizioni e valori di esempio per i campi nel file di riconciliazione per gli acquisti una sola volta CSP.
@@ -45,25 +42,25 @@ Per altre informazioni sui file di riconciliazione, vedere [Usare i file di rico
 | SkuName | Nome dello SKU. | *Tabelle - LRS* |
 | ProductName | Nome del prodotto. | *Tabelle* |
 | ChargeType | Tipo [di addebito o](./recon-file-charge-types.md) rettifica. | *Nuovo* |
-| UnitPrice | Prezzo per licenza, come pubblicato nel listino prezzi al momento dell'acquisto. Assicurarsi che corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione. | *0.045* |
-| Quantity | Numero di licenze. Assicurarsi che corrisponda alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione. | *1* |
+| UnitPrice | Prezzo per licenza, come pubblicato nel listino prezzi al momento dell'acquisto. Assicurarsi che corrispondano alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione. | *0.045* |
+| Quantity | Numero di licenze. Assicurarsi che corrispondano alle informazioni archiviate nel sistema di fatturazione durante la riconciliazione. | *1* |
 | Subtotale | Totale al lordo delle imposte. Il subtotale deve essere uguale alla quantità fatturabile moltiplicata per il prezzo unitario effettivo. | *0* |
 | TaxTotal | Addebito dell'importo dell'imposta. In base alle regole fiscali del mercato e a circostanze specifiche. | *0* |
 | Totale | L'importo totale è uguale al subtotale più l'importo dell'imposta. | *0* |
 | Valuta | La fattura viene generata nel contesto della valuta del cliente. Questo significa che se sei un partner che opera con i clienti da valute fatturabili diverse, riceverai una fattura per ogni tipo di valuta del cliente.  | *EUR* |
-| PriceAdjustmentDescription | Motivi delle rettifiche nel prezzo unitario. Questi sono i motivi principali, ma non solo per determinare il prezzo unitario effettivo. | *["15,0% Credito ottenuto dal partner per i servizi gestiti"]* |
+| PriceAdjustmentDescription | Motivi delle rettifiche nel prezzo unitario. Questi sono i motivi principali, ma non solo per determinare il prezzo unitario effettivo. | *["15,0% credito ottenuto dal partner per i servizi gestiti"]* |
 | PublisherName | Editore del prodotto.  | *Microsoft* |
-| PublisherId | Identificatore univoco utilizzato Partner Center per identificare il server di pubblicazione. | *N/D* |
+| PublisherId | Identificatore univoco utilizzato Partner Center per identificare il server di pubblicazione. | *Na* |
 | SubscriptionDescription | Nome dell'offerta di servizio acquistata dal cliente, come definito nel listino prezzi. Questa colonna è un campo identico a OfferName. | *Piano di Azure* |
 | SubscriptionId | Identificatore univoco per una sottoscrizione nella piattaforma di fatturazione Microsoft. Non usato per la riconciliazione. Si noti che questo identificatore non corrisponde all'ID sottoscrizione nella console di amministrazione partner. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
 | ChargeStartDate | Data di inizio del periodo di fatturazione di una sottoscrizione. | *9/1/2020* |
 | ChargeEndDate | Data di fine del periodo di fatturazione di una sottoscrizione. | *30/09/2020* |
-| TermAndBillingCycle | L'impegno di durata per continuare la sottoscrizione al momento dell'acquisto. | *Dati archiviati (GB/mese)* |
-| EffectiveUnitPrice | Prezzo unitario rifisso per calcolare il costo per il ciclo di fatturazione. Gli sconti, le rettifiche nei giorni di fatturazione e altri fattori determinano il prezzo unitario effettivo. Per altre informazioni, vedere [Effective Unit Price Calculation](./effective-unit-price-calculation.md).  | *0.03825* |
-| Tipo di unità | Tipo di unità in cui viene addebitato il contatore. | *1 GB/mese* |
+| TermAndBillingCycle | Impegno di durata per continuare la sottoscrizione al momento dell'acquisto. | *Dati archiviati (GB/mese)* |
+| EffectiveUnitPrice | Prezzo unitario prorate per calcolare il costo per il ciclo di fatturazione. Sconti, rettifiche nei giorni di fatturazione e altri fattori determinano il prezzo unitario effettivo. Per altre informazioni, vedere [Calcolo del prezzo unitario effettivo](./effective-unit-price-calculation.md).  | *0.03825* |
+| UnitType | Tipo di unità in cui viene addebitato il contatore. | *1 GB/mese* |
 | AlternateId | ID alternativo della voce dell'ordine di riferimento. | *6dc5c039750a* |
 | BillableQuantity | Quantità totale fatturata.  | *0.005001* |
-| FatturazioneFrequency | Piano di fatturazione selezionato al momento dell'acquisto. | *N/D*  |
+| FatturazioneFrequency | Piano di fatturazione selezionato al momento dell'acquisto. | *Na*  |
 | PricingCurrency | La valuta usata nell'elenco prezzi. | *USD* |
 | PCToBCExchangeRate | Tasso di cambio applicato per la valuta dei prezzi alla valuta di fatturazione. | *0.846202666* |
 | PCToBCExchangeRateDate | Data in cui viene determinata la valuta dei prezzi per la valuta di fatturazione. | *30/09/2020* |
@@ -72,7 +69,7 @@ Per altre informazioni sui file di riconciliazione, vedere [Usare i file di rico
 | CreditReasonCode | Descrizione del credito. | *Credito a consumo di Azure* |
 
 >[!NOTE]
->È possibile riconciliare il consumo di Azure nel file di ricognizione di acquisto una sola volta. A tale scopo, passare al file di ricognizione sull'utilizzo giornaliero e cercare subscriptionID. Verranno visualizzati tutti i costi associati all'ID piano di Azure. L'ID sottoscrizione di Azure viene visualizzato come EntitlementID.
+>È possibile riconciliare il consumo di Azure nel file di ricognizione di acquisto una sola volta. A tale scopo, passare al file di ricognizione sull'utilizzo con valutazione giornaliera e cercare SubscriptionID. Verranno visualizzati tutti i costi associati all'ID piano di Azure. L'ID sottoscrizione di Azure viene visualizzato come EntitlementID.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

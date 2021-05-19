@@ -1,6 +1,6 @@
 ---
-title: Cenni preliminari sulle associazioni CPOR
-description: Informazioni sulle risorse per i partner che necessitano di associare i clienti a programmi specifici per gli incentivi tramite il modello claiming partner of record (CPOR).
+title: Panoramica delle associazioni CPOR
+description: Informazioni sulle risorse per i partner che devono associare i clienti a specifici programmi di incentivi tramite il modello Claiming Partner of Record (CPOR).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,39 +8,36 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 24c439d1c90663130e1676e8ceb6d503be5ea30d
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 1895f89933668e909748178dcdaf4a54e4843096
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179191"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146783"
 ---
-# <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Usare queste risorse per creare attestazioni di associazione dei clienti per programmi incentive specifici
+# <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Usare queste risorse per effettuare richieste di associazione dei clienti per programmi di incentivi specifici
 
-**Ruoli appropriati**
-
-- Amministratore degli incentivi
-- Utente di incentivi
+**Ruoli appropriati:** incentivi per l'amministratore | Utente degli incentivi
 
 Questo articolo condivide le risorse per i partner Microsoft che soddisfano i criteri seguenti:
 
-- L'utente fa parte dei seguenti programmi Microsoft incentives: Online Services Advisory (OSA) sell, Online Services Usage (OSU)-Microsoft 365 e OSU-Business incentivi per le applicazioni.
+- L'utente fa parte dei programmi di incentivi Microsoft seguenti: Online Services Advisory (OSA) Sell, Online Services Usage (OSU) -Microsoft 365 e OSU-Business Application.
 
-- Si collabora con Microsoft 365 o Dynamics 365 clienti e si desidera fare riferimento o richiedere parte di questo lavoro nei programmi di incentivazione precedenti.
+- Si lavora con Microsoft 365 o dynamics 365 e si vuole fare riferimento o richiedere parte di questo lavoro nei programmi di incentivi precedenti.
 
-Se si soddisfano i criteri, è necessario utilizzare il modello CPOR (Claiming partner of record) per creare e gestire le associazioni dei clienti per questi programmi per gli incentivi.
+Se si soddisfano i criteri, è necessario usare il modello Claiming Partner of Record (CPOR) per creare e gestire le associazioni dei clienti per questi programmi di incentivi.
  
 ## <a name="how-do-customer-associations-and-cpor-relate-to-incentives"></a>In che modo le associazioni dei clienti e CPOR sono correlate agli incentivi?
 
-Microsoft ora usa il modello claiming partner of record (CPOR) per gestire le associazioni con i clienti Microsoft 365 e Dynamics 365.
+Microsoft usa ora il modello Claiming Partner of Record (CPOR) per gestire le associazioni esistenti con i clienti Microsoft 365 e Dynamics 365.
 
-Questo modello si applica al proprio lavoro con i clienti nei seguenti incentivi: Online Services Advisory (OSA) sell, Online Services Usage (OSU)-Microsoft 365 e gli incentivi per le applicazioni OSU-Business.
+Questo modello si applica al lavoro con i clienti nei programmi di incentivi seguenti: incentivi online services advisory (OSA), online services usage (OSU) -Microsoft 365 e OSU-Business Application.
 
-Microsoft convalida tutte le attestazioni degli incentivi.
+Microsoft convalida tutte le attestazioni di incentivi.
 
-A questo punto, è possibile che vengano richieste altre informazioni. Verrà inoltre inviata una notifica al cliente della richiesta di associazione. I clienti hanno cinque giorni lavorativi per rifiutare esplicitamente. Se non si rifiutano esplicitamente, l'associazione a questo tenant e carico di lavoro specifici sarà ufficiale.
+A questo punto, è possibile richiedere altre informazioni. Verrà inoltre inviata una notifica al cliente della richiesta di associazione. I clienti hanno cinque giorni lavorativi per rifiutare esplicitamente. Se non rifiutano esplicitamente, l'associazione con questo tenant e carico di lavoro specifici sarà ufficiale.
 
-Accettando la richiesta di associazione, il cliente concede l'accesso ad alcuni dati in modo che sia possibile fornirvi i servizi di gestione. 
+Accettando la richiesta di associazione, il cliente fornisce l'accesso ad alcuni dei dati in modo da poter fornire loro servizi di gestione. 
 
 ## <a name="resources-to-help-you-create-and-manage-customer-associations"></a>Risorse che consentono di creare e gestire le associazioni dei clienti
 
@@ -48,11 +45,11 @@ Gli articoli seguenti illustrano come creare, gestire e risolvere i problemi rel
 
 |  **Per eseguire questa operazione**  |  **Leggi**  |
 |--------------|-----------|
-| Informazioni su come creare un'associazione cliente  | [Creare un'associazione cliente usando il modello CPOR](submit-osa-claim.md)  |
+| Informazioni su come creare un'associazione di clienti  | [Creare un'associazione cliente usando il modello CPOR](submit-osa-claim.md)  |
 |Informazioni su come gestire le associazioni dei clienti  | [Gestire le associazioni del cliente](incentives-manage-customer-associations.md)  |
-|Risoluzione dei problemi di associazione dei clienti  | [Problemi di associazione del cliente](incentives-customer-association-issues.md)  |
+|Risolvere eventuali problemi di associazione dei clienti  | [Problemi di associazione del cliente](incentives-customer-association-issues.md)  |
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Nuovi incentivi? Scopri cosa ti serve per [iniziare](incentives-get-started-intro.md)
-- Altre informazioni sulle [attestazioni co-op degli incentivi](claims-overview.md)
+- Non si ha di che fare con gli incentivi? Informazioni su ciò che serve [per iniziare](incentives-get-started-intro.md)
+- Altre informazioni sulle [attestazioni co-op per gli incentivi](claims-overview.md)

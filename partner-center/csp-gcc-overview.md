@@ -4,46 +4,43 @@ ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sui passaggi e sui requisiti per la vendita di sottoscrizioni a Office 365 Government GCC per CSP per i clienti qualificati Stati Uniti governativi o i terzisti.
+description: Informazioni sui passaggi e i requisiti per vendere sottoscrizioni a Office 365 Government GCC for CSP a clienti o terzisti Stati Uniti enti pubblici qualificati.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c6456b1fb1061f9b2f0a2b67a8d2285ea25474e
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: d88936845c8b7ae7e17840843896d87ceebb4b2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979431"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147803"
 ---
-# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Vendere Office 365 Government GCC per le sottoscrizioni CSP per i clienti qualificati
+# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Vendere sottoscrizioni di Office 365 Government GCC per CSP a clienti qualificati
 
-**Ruoli appropriati**
-
-- Amministratore globale
-- Agente amministratore
+**Ruoli appropriati:** amministratore globale | Agente amministratore
 
 
 ## <a name="overview"></a>Panoramica
 
-I partner Microsoft nel programma Cloud Solution Provider Program (CSP) possono vendere [Office 365 Government GCC per](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) le SOTTOscrizioni CSP per i clienti qualificati. Office 365 Government GCC per CSP è progettato per le esigenze esclusive delle organizzazioni governative degli Stati Uniti e fornisce tutte le funzionalità e le funzionalità dei servizi di Office 365 in una community Cloud per enti pubblici segmentata che consente alle organizzazioni di soddisfare gli standard di conformità e sicurezza del governo degli Stati Uniti. 
+I partner Microsoft del programma Cloud Solution Provider (CSP) possono vendere sottoscrizioni GCC di [Office 365 Government](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) per CSP a clienti qualificati. Office 365 Government GCC per CSP è progettato per le esigenze specifiche delle organizzazioni governative statunitensi e offre tutte le funzionalità e le funzionalità dei servizi di Office 365 in una community di cloud per enti pubblici segmentata che consente alle organizzazioni di soddisfare gli standard di conformità e sicurezza del governo degli Stati Uniti. 
 
 >[!IMPORTANT] 
->Prima di poter vendere Office 365 Government GCC per le sottoscrizioni CSP, l'azienda deve essere approvata per la vendita ai clienti qualificati. E, prima che i clienti possano acquistare e usare Office 365 Government GCC per le sottoscrizioni CSP, devono soddisfare i requisiti di idoneità. Per informazioni importanti, vedere [criteri di idoneità per partner e clienti](csp-gcc-validate.md) .
+>Prima di poter vendere sottoscrizioni di Office 365 Government GCC per CSP, l'azienda deve essere approvata per la vendita a clienti qualificati. Inoltre, prima di poter acquistare e usare le sottoscrizioni di Office 365 Government GCC per CSP, i clienti devono soddisfare i requisiti di idoneità. Per [informazioni importanti, vedere Criteri di idoneità per](csp-gcc-validate.md) partner e clienti.
 
 
-## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>Vendere Office 365 Government GCC per le sottoscrizioni CSP
+## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>Vendere sottoscrizioni di Office 365 Government GCC per CSP
 
-Dopo che la società è stata approvata per la vendita di Office 365 Government GCC per le offerte CSP, è possibile iniziare a vendere ai clienti usando il centro per i partner. Per informazioni su come usare il centro per i partner per vendere le sottoscrizioni, fare riferimento a queste risorse: 
+Dopo che l'azienda è stata approvata per la vendita di offerte GCC di Office 365 Government per CSP, è possibile iniziare a vendere ai clienti usando Partner Center. Fare riferimento a queste risorse per informazioni su come usare Partner Center per vendere sottoscrizioni: 
 
-- Per una guida dettagliata, vedere la [Guida alla vendita di Office 365 Government GCC per le sottoscrizioni CSP](https://go.microsoft.com/fwlink/?linkid=2007323).  
+- Per una guida dettagliata, vedere Guide to selling Office 365 Government GCC for CSP subscriptions (Guida alla vendita di sottoscrizioni di [Office 365 Government GCC per CSP).](https://go.microsoft.com/fwlink/?linkid=2007323)  
 
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-Accedere alle informazioni sull' [opportunità dei partner nel governo degli Stati Uniti](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) nel sito Microsoft 365 per i partner.
+Accedere alle informazioni [sull'opportunità dei partner nel governo degli](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) Stati Uniti nel sito Microsoft 365 per i partner.
 
-Risorse prodotto:
+Risorse del prodotto:
 
 - [Descrizione del servizio Office 365 Government](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)

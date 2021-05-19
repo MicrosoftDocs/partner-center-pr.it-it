@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 779e76d6bb3e8df679a5ca6fa8ce441e42529161
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502498"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147293"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Ottenere le autorizzazioni per gestire il servizio o l'abbonamento di un cliente
 
-**Ruoli appropriati**
-
-- Agente amministratore
-- Agente di vendita
+**Ruoli appropriati:** agente di amministrazione | Agente di vendita
 
 Per gestire un servizio o una sottoscrizione per conto di un cliente, quest'ultimo dovrà concederti le autorizzazioni di amministratore per tale servizio. Per ottenere le autorizzazioni di amministratore, invia al cliente una richiesta di relazione come rivenditore. Dopo che il cliente ha approvato la richiesta, sarà possibile accedere al portale di amministrazione del servizio e gestire il servizio per conto del cliente. 
 

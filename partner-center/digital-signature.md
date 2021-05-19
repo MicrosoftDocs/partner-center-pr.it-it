@@ -9,24 +9,18 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 4253c59a85c8353856b16f60957761f4f2245da3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284299"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147191"
 ---
 # <a name="view-digitally-signed-invoices"></a>Visualizzare le fatture firmate digitalmente
 
-**Si applica a**
+**Si applica a**: Partner Center | Partner Center India
 
-- Partner Center India
-
-**Ruoli appropriati**
-
-- Amministratore degli account
-- Agente di fatturazione
-- Agente di vendita
+**Ruoli appropriati:** Account admin | Agente di fatturazione | Agente di vendita
 
 I partner in India ora vedono che Microsoft ha firmato digitalmente le fatture. Per visualizzare una firma, è necessario usare Adobe Acrobat Reader Document Cloud (DC).
 

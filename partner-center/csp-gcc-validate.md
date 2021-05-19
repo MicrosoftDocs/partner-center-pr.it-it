@@ -4,65 +4,61 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vengono illustrati i passaggi per la fatturazione diretta dei partner (rivenditori diretti, provider indiretti) per convalidare i partner e i clienti per Office 365 Government GCC per CSP.
+description: Informazioni sui passaggi per i partner con fatturazione diretta (rivenditori diretti, provider indiretti) per convalidare partner e clienti per Office 365 Government GCC per CSP.
 author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 442ba27776786bbd153360d20cb93574a3d4d4ec
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979638"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147701"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC per il partner CSP e i criteri di idoneità dei clienti 
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Criteri di idoneità per partner e clienti di Office 365 Government GCC per CSP 
 
-**Ruoli appropriati**
-
-- Amministratore globale
-- Agente amministratore
-- Agente di vendita
+**Ruoli appropriati:** amministratore globale | Agente di amministrazione | Agente di vendita
 
 >[!NOTE]
->Il processo e i criteri di convalida descritti di seguito sono specifici per i partner Direct fattura. I partner Direct Bill includono rivenditori diretti e provider indiretti.  Se si è un rivenditore indiretto, collaborare con il provider indiretto.
+>Il processo di convalida e i criteri descritti di seguito sono specifici per i partner con fatturazione diretta. I partner con fatturazione diretta includono rivenditori diretti e provider indiretti.  I rivenditori indiretti possono collaborare con il provider indiretto.
 
-Se si desidera che la propria azienda (o la società del cliente) sia approvata per Office 365 Government GCC per CSP, esaminare i requisiti indicati di seguito.
+Se si è interessati a che l'azienda (o la società del cliente) abbia approvato Office 365 Government GCC per CSP, esaminare i requisiti seguenti.
 
-È possibile approvare se si è un partner che usa enti governativi federali, statali, locali o tribali. Per fare in modo che l'idoneità alle organizzazioni venga convalidata, completare il breve modulo disponibile [qui](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
+Si potrebbe essere approvati se si è un partner che serve enti governativi federali, statali, locali o federali degli Stati Uniti. Per convalidare l'idoneità delle organizzazioni, completare il breve modulo disponibile [qui.](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)
 
-Il cliente può essere approvato se è un'organizzazione che gestisce i dati controllati dal governo o è un ente governativo federale, stato, locale o tribale degli Stati Uniti. Per convalidare l'idoneità delle organizzazioni dei clienti, completare il breve modulo disponibile [qui](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+Il cliente potrebbe essere approvato se si tratta di un'organizzazione che gestisce dati controllati dagli enti pubblici o se è un'entità governativa federale, di stato, locale o governativa degli Stati Uniti. Per convalidare l'idoneità delle organizzazioni dei clienti, completare il breve modulo disponibile [qui.](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer) 
 
--   L'organizzazione deve essere [registrata](https://partnercenter.microsoft.com/partner/cloud-solution-provider) nel programma Cloud Solution Provider perché è un prerequisito per l'approvazione per Office 365 Government GCC per CSP.
--   Una guida dettagliata per il processo di convalida per Office 365 Government GCC per CSP è disponibile [qui](https://go.microsoft.com/fwlink/?linkid=2007323).
--   Contattare le [escalation del supporto di RSC](mailto:usgcce@microsoft.com) per ulteriori domande o problemi di convalida.
+-   L'organizzazione deve [essere](https://partnercenter.microsoft.com/partner/cloud-solution-provider) iscritta al programma Cloud Solution Provider perché è un requisito preliminare per l'approvazione di Office 365 Government GCC per CSP.
+-   Una guida dettagliata al processo di convalida per Office 365 Government GCC for CSP è disponibile [qui.](https://go.microsoft.com/fwlink/?linkid=2007323)
+-   Per altre domande o dubbi sulla convalida, contattare il supporto di [RSC](mailto:usgcce@microsoft.com) Escalations.
 
-Office 365 Government GCC per i partner CSP e i clienti verranno convalidati per l'idoneità in base a criteri specifici conformi a quanto indicato di seguito.
+Office 365 Government GCC per partner e clienti CSP verrà convalidato per l'idoneità in base ai criteri specifici descritti di seguito.
 
-**Criteri partner**
+**Criteri per i partner**
 1.  Fornisce servizi o soluzioni ai clienti del governo degli Stati Uniti tramite contratti diretti o indiretti
-2.  Serve ai clienti del governo degli Stati Uniti tramite GSA o altri veicoli del contratto
+2.  Serve i clienti del governo degli Stati Uniti tramite GSA o altri veicoli con contratto
 
 **Criteri del cliente**
-1.  Enti pubblici degli Stati Uniti nella sua capacità governativa. Ad esempio:
+1.  Entità governativa statunitense nella sua capacità governativa. Esempio:
  
-    -  Agenzia federale (ad esempio Bureau, Agenzia, dipartimento o altra entità del governo degli Stati Uniti)
+    -  Agenzia federale (ad esempio, ufficio, agenzia, reparto o altra entità del governo degli Stati Uniti)
     -   Stato/entità locale 
-    -   Entità tribale
-    -   Enti pubblici regionali o interstatici (ma nessuna entità internazionale)
-    -   Centri di ricerca e sviluppo con finanziamenti federali (FFRDC)
+    -   Entità etnie
+    -   Entità governative regionali o interstate (ma non entità internazionali)
+    -   Centri di ricerca e sviluppo (FERDC) con un'assistenza federale
 
 2.  Entità privata commerciale con dati soggetti a normative. Alcuni tipi di dati governativi accettati sono: 
-    -   Traffico internazionale in armi (ITAR)
-    -   Informazioni controllate non classificate (cui)
-    -   Dipartimento della difesa (DoD) informazioni atomiche controllate non classificate (UCNI)
-    -   Reparto di energia (DoE) UCNI
-    -   Informazioni di giustizia penale (giustizia penale)
-    -   Dati del livello di influenza del reparto difesa
+    -   International Traffic in Arms (ITAR)
+    -   Informazioni non classificate controllate
+    -   Department of Defense (DoD) Unclassified Controlled Controlled Controlled Information (UCNI)
+    -   Department of Energy (DoE) UCNI
+    -   Informazioni penali (CJI)
+    -   Dati del livello di impatto del dipartimento della difesa
     -   Altri tipi di dati che richiedono Azure per enti pubblici
 
-Un'entità commerciale internazionale può essere qualificata se soddisfano i requisiti indicati in precedenza ed è stata verificata la presenza degli Stati Uniti, ad esempio l'indirizzo postale, la posizione fisica e così via.
+Un'entità commerciale internazionale può essere qualificata se soddisfa i requisiti indicati in precedenza e ha verificato la presenza negli Stati Uniti (ad esempio indirizzo postale, posizione fisica e così via).
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Vendere Office 365 Government GCC per le sottoscrizioni CSP per i clienti qualificati](csp-gcc-overview.md)
+- [Vendere sottoscrizioni di Office 365 Government GCC per CSP a clienti qualificati](csp-gcc-overview.md)

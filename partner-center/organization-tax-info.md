@@ -4,31 +4,25 @@ ms.topic: article
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Le imposte per gli acquisti del Centro per i partner sono determinate dall'indirizzo aziendale. Le aziende in alcuni paesi possono fornire il proprio numero di partita IVA o equivalente locale.
+description: Le imposte per gli acquisti del Centro per i partner sono determinate dall'indirizzo aziendale. Le aziende di alcuni paesi possono fornire il numero di partita IVA o l'equivalente locale.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1605072e35a96d8bc8ed2e9f507b38a6837fbd35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132758"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146936"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Aggiungere un ID IVA al profilo di fatturazione
 
-**Ruoli appropriati**
+**Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti | Gestione della fatturazione | Agente amministratore | Agente di vendita
 
-- Amministratore globale
-- Amministratore gestione utenti
-- Amministratore fatturazione
-- Agente amministratore
-- Agente di vendita
+È possibile usare la procedura seguente per aggiornare il profilo di fatturazione in modo da includere la partita IVA. Si noti che questa operazione potrebbe non essere possibile nel paese o nell'area geografica.
 
-È possibile utilizzare la procedura seguente per aggiornare il profilo di fatturazione in modo da includere l'ID IVA. Si noti che questo potrebbe non essere possibile nel paese o nell'area geografica.
-
-## <a name="update-your-billing-profile-with-your-vat-id"></a>Aggiornare il profilo di fatturazione con l'ID IVA
+## <a name="update-your-billing-profile-with-your-vat-id"></a>Aggiornare il profilo di fatturazione con la partita IVA
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
 2. Nel menu **Impostazioni** (icona a forma di ingranaggio), scegliere **Impostazioni account**.

@@ -9,21 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f53661918508271901c6403e8270105c06d4246a
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 874d2e564b56acd37065c863fbf945b29c44167d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818763"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146528"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gestire i vantaggi derivanti dall'appartenenza a Microsoft Partner Network nel Centro per i partner
 
-**Ruoli appropriati**
-
-- Amministratore globale
-- Amministratore gestione utenti
-- Agente amministratore
-- Amministratore dei partner MPN
+**Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti | Agente amministratore | Amministratore partner MPN
 
 >[!IMPORTANT]
 >Questo articolo spiega come iniziare a usare i vantaggi derivanti dall'appartenenza a Microsoft Partner Network (MPN) in questo sito: il Centro per i partner. Se non hai ricevuto l'invito a spostare le informazioni relative alla tua azienda da Partner Membership Center (PMC) al Centro per i partner, devi continuare a gestire in PMC i vantaggi dell'appartenenza a MPN. [Accedi ](https://partner.microsoft.com/_login?authType=OpenIdConnect) ora a PMC.
@@ -41,7 +36,7 @@ I pacchetti di vantaggi includono allocazioni di software concesso in licenza, s
 
 Per visualizzare e gestire tutti i vantaggi dell'iscrizione, passare alla [pagina **Vantaggi**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (è richiesto l'accesso). In alternativa, puoi accedere al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner, selezionare l'[**opzione Vantaggi**] dal menu a sinistra e quindi scegliere le opzioni dei vantaggi visualizzate.  
 
-Per attivare la maggior parte dei vantaggi o scaricare le chiavi software correlate, Partner Center richiede in genere a un utente assegnato il ruolo di amministratore globale o amministratore partner MPN. Se non è possibile visualizzare alcun vantaggio o non è possibile attivare i vantaggi, rivolgersi all'amministratore globale di Partner Center per assicurarsi di avere le autorizzazioni appropriate. [Vedere altre informazioni sui ruoli del Centro per i partner](permissions-overview.md).
+Per attivare la maggior parte dei vantaggi o scaricare le chiavi software correlate, Partner Center richiede in genere a un utente assegnato il ruolo di amministratore globale o amministratore partner MPN. Se non è possibile visualizzare alcun vantaggio o non è possibile attivare i vantaggi, rivolgersi all'amministratore globale Partner Center per assicurarsi di avere le autorizzazioni appropriate. [Vedere altre informazioni sui ruoli del Centro per i partner](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Gestire i vantaggi software
 
@@ -106,7 +101,7 @@ Per attivare gli abbonamenti in base alle licenze, fare clic sul simbolo del men
 
 ## <a name="manage-technical-benefits---microsoft-product-support"></a>Gestire i vantaggi tecnici - Supporto tecnico Microsoft
 
-Questa sezione descrive come attivare e gestire i vantaggi del supporto tecnico nel [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner. Se tuttavia l'iscrizione a Microsoft Partner Network è ancora in Partner Membership Center (PMC), è necessario contattare un'altra risorsa, ad esempio Partner Frontline, per l'attivazione dei vantaggi tecnici. Vedere [Attivare i vantaggi tecnici al di fuori del Centro per i partner](https://docs.microsoft.com/partner-center/partner-membership-center-tech-benefits-activate).
+Questa sezione descrive come attivare e gestire i vantaggi del supporto tecnico nel [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner. Se tuttavia l'iscrizione a Microsoft Partner Network è ancora in Partner Membership Center (PMC), è necessario contattare un'altra risorsa, ad esempio Partner Frontline, per l'attivazione dei vantaggi tecnici. Vedere [Attivare i vantaggi tecnici al di fuori del Centro per i partner](partner-membership-center-tech-benefits-activate.md).
 
 Per visualizzare i vantaggi tecnici del Supporto tecnico Partner Center, eseguire le operazioni seguenti:
 
@@ -133,24 +128,25 @@ Per visualizzare i vantaggi tecnici del Supporto tecnico Partner Center, eseguir
    - Sia per i partner Action Pack sia per quelli con competenze Gold/Silver, usare le richieste di **supporto prodotti Microsoft** per i **prodotti locali recenti** (solo versioni correnti e precedenti).
 
      >[!NOTE]
-     > Per le richieste di supporto tecnico per prodotti locali, Azure (non CSP) e Dynamics sono necessari l'ID di accesso e l'ID di contratto. In futuro, per trovare l'ID di accesso e l'ID di contratto personali, è anche possibile leggere [Trovare i benefici](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits).
-     > 
-[Altre informazioni sul supporto tecnico per prodotti locali o cloud](https://docs.microsoft.com/partner-center/mpn-benefits-technical-support)
+     > Per le richieste di supporto tecnico per prodotti locali, Azure (non CSP) e Dynamics sono necessari l'ID di accesso e l'ID di contratto. Per altre informazioni, vedere [Vantaggi del supporto tecnico](mpn-benefits-technical-support.md).
+
+[Altre informazioni sul supporto tecnico per prodotti locali o cloud](mpn-benefits-technical-support.md)
+
   
 ## <a name="manage-technical-benefits---partner-advisory-hours"></a>Gestire i vantaggi tecnici - Ore di consulenza per i partner
-Gli orari di consulenza per i partner sono la valuta usata per i servizi di prevendita e distribuzione **(TPD)** tecnici. È sufficiente accedere per inviare una richiesta (l'attivazione o l'assegnazione di utenti non è necessaria).
+Gli orari di consulenza per i partner sono la valuta usata per i servizi di prevendita tecnica e distribuzione **( TPD),** ma è sufficiente accedere per inviare una richiesta (l'attivazione o l'assegnazione dell'utente non è necessaria).
 
-Per visualizzare i vantaggi tecnici dell'orario di consulenza Partner Center partner, seguire questa procedura:
+Per visualizzare i vantaggi tecnici dell'orario di consulenza per i Partner Center, seguire questa procedura:
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 2. Selezionare **Vantaggi** e quindi **Vantaggi tecnici per** visualizzare le ore di consulenza per i partner
 
-3. Nella parte inferiore destra della pagina fare clic **[su Submit technical preles and deployment request (Invia](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)** prevendite tecniche e richiesta di distribuzione) per inviare la richiesta.
+3. Nella parte inferiore destra della pagina fare clic **[su Invia prevendite tecniche e richiesta di distribuzione](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)** per inviare la richiesta.
      >[!NOTE]
-     > Se nella pagina dei vantaggi tecnici viene visualizzato il messaggio "Sembra che non si abbia ancora alcun vantaggio", è stato eseguito l'accesso usando un account partner che non dispone di offerte Gold, Silver o Microsoft Action Pack e non si è idonei a usare il servizio o si è usato *l'account* errato per l'accesso.
+     > Se nella pagina dei vantaggi tecnici viene visualizzato il messaggio "Sembra che non si abbia ancora alcun vantaggio" è stato eseguito l'accesso usando un account partner che non dispone di offerte Gold, Silver o Microsoft Action Pack e non si è idonei a usare il servizio o si è usato *l'account* errato per l'accesso.
      > 
-[Altre informazioni sui servizi di prevendita e distribuzione (TPD) tecnici](https://docs.microsoft.com/partner-center/technical-benefits)
+[Altre informazioni su Technical Presales and Deployment Services (TPD)](technical-benefits.md)
   
 ## <a name="manage-go-to-market-offers"></a>Gestire le offerte go-to-market
 

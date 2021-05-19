@@ -9,19 +9,16 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 47a670c97acce757270076cf0ae01067db544e2f
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502953"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148296"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Requisiti di base per le attività nel programma incentivi
 
-**Ruoli appropriati**
-
-- Amministratore degli incentivi
-- Utente di incentivi
+**Ruoli appropriati:** amministratore degli incentivi | Utente degli incentivi
 
 Ogni tipo di attività per cui si invia un'attestazione di incentivi include requisiti di base. È necessario dimostrare che sono stati soddisfatti questi requisiti nei documenti della prova di esecuzione. Alcune attività richiedono anche specifici tipi di comunicazioni e metriche.
 

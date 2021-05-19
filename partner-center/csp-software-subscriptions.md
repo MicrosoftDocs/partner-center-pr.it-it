@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: bdf6495d86da09b7d1d167c3fa1b3b5f15a35ab6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502553"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147497"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendere abbonamenti software tramite il programma Cloud Solution Provider (CSP)
 
-**Ruoli appropriati**
-
-- Agente amministratore
-- Amministratore globale
+**Ruoli appropriati:** agente di amministrazione | Amministratore globale
 
 Con le prenotazioni di Azure e gli abbonamenti server (Windows Server e SQL Server), i partner del programma CSP possono far fronte alla richiesta in rapida crescita da parte dei clienti di soluzioni più convenienti, in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. 
 
@@ -88,29 +85,29 @@ Per acquistare abbonamenti software per conto di un cliente:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Attivare e gestire abbonamenti software
 
-Una volta acquistato il software, l'utente o i clienti devono scaricarlo (partner che usano il centro per i partner; clienti che usano l'interfaccia di amministrazione di Microsoft 365). Utilizzare la procedura seguente per eseguire questa operazione. È importante comprendere i rischi associati alla copia dei collegamenti e al download del software. Per ulteriori informazioni, vedere **utilizzo del centro per i partner per ottenere i download del software e le chiavi di licenza** nel centro per i [partner New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
+Dopo aver acquistato il software, l'utente o i clienti devono scaricarlo (partner che usano Partner Center, clienti che usano l'interfaccia di amministrazione di Microsoft 365). Utilizzare la procedura seguente per eseguire questa operazione. È importante comprendere i rischi associati alla copia di collegamenti e al download del software. Per altre informazioni, vedere **Using Partner Center to obtain customer software downloads and license keys** (Uso di Partner Center per ottenere i download di software e i codici di licenza dei clienti) nella guida operativa [Partner Center New Commerce.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 >[!NOTE]
->Per ottenere il collegamento alle chiavi e ai download, è necessario essere un agente di amministrazione nel centro per i partner.
+>È necessario essere un agente amministratore in Partner Center per ottenere il collegamento alle chiavi e ai download.
 
-1. Passare alla pagina dei dettagli del cliente e selezionare **software**. Vedrai un elenco di tutto il software che hai acquistato per conto del cliente.
+1. Passare alla pagina dei dettagli del cliente e quindi selezionare **Software.** Vedrai un elenco di tutto il software che hai acquistato per conto del cliente.
 
-2. Scegliere **versione** prodotto, **lingua**, **bit** e selezionare **Ottieni chiavi e download**. 
+2. Scegliere la **versione del** prodotto, **la lingua,** **bit** e selezionare Get keys and **downloads (Ottieni chiavi e download).** 
 
-3. Scegliere **Ottieni chiave** per visualizzare il prodotto 32-digit in una finestra di dialogo popup che è possibile copiare e inviare al cliente. 
+3. Scegliere **Ottieni chiave** per visualizzare il prodotto a 32 cifre in una finestra di dialogo popup che è possibile copiare e inviare al cliente. 
 
-4. Scegliere **download** per scaricare i bit. 
+4. Scegliere **Scarica** per scaricare i bit. 
 
-5. Scegliere **copia collegamento** se si desidera inviare al cliente il collegamento al download BITS. 
+5. Scegliere **Copia collegamento** se si vuole inviare al cliente il collegamento al download dei bit. 
 
-6. È anche possibile **annullare** l'ordine software e ricevere il credito del 100% (se completato entro il periodo dei criteri di annullamento di 60 giorni).
+6. È anche possibile annullare **l'ordine** software e ricevere un credito del 100% (se eseguito entro il periodo dei criteri di annullamento di 60 giorni).
 
 >[!NOTE]
->Solo i clienti hanno accesso per visualizzare i codici "Product Key" e scaricare le informazioni nell'interfaccia di amministrazione di Microsoft 365 (il ruolo di amministratore globale è obbligatorio). Per visualizzare queste informazioni, i partner devono usare il centro per i partner.
+>Solo i clienti hanno accesso per visualizzare i codici Product Key e scaricare le informazioni nell'interfaccia di amministrazione Microsoft 365 (è necessario il ruolo di amministratore globale). I partner devono usare Partner Center per visualizzare queste informazioni.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download e codici di licenza per sottoscrizioni di server disponibili tramite l'interfaccia di amministrazione di Microsoft 365 per i clienti 
 
-I clienti potranno ottenere i codici di licenza e i download per le sottoscrizioni di server CSP dall'interfaccia di amministrazione di Microsoft 365. Per visualizzare i codici di licenza e i download delle sottoscrizioni del server CSP, il cliente deve accedere a Microsoft 365 interfaccia di amministrazione > **la fatturazione > la scheda prodotti > software**. Per ulteriori informazioni, vedere la [scheda software in fatturazione](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+I clienti potranno ottenere i codici di licenza e i download per le sottoscrizioni di server CSP dall'interfaccia di amministrazione di Microsoft 365. Per visualizzare i codici di licenza e i download della sottoscrizione del server CSP, il cliente deve passare alla scheda Microsoft 365 Admin Center > Billing > Your products > Software (Prodotti e **software).** Per altri dettagli, vedere [Scheda Software in Fatturazione.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visualizzare l'attività per l'accesso alle chiavi e ai download del software
 
@@ -141,7 +138,7 @@ Per annullare un acquisto, segui questa procedura:
 
 1. Prima di iniziare il processo di annullamento, assicurati di disporre di quanto segue:
 
-    - Il nome del cliente, il GUID del tenant o il nome di dominio
+    - Nome del cliente, GUID del tenant o nome di dominio
 
     - Nome del prodotto da annullare
     

@@ -9,25 +9,22 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f66a5c32f145be5a80de838dae2cd1926e6aebce
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964391"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148206"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Creare un profilo di business per ottenere lead di vendita da Microsoft e facilitare l'individuazione degli utenti per i clienti
 
-**Ruoli appropriati**
-
-- Amministratore del profilo di business
-- Amministratore delle segnalazioni
+**Ruoli appropriati:** amministratore del profilo di | Amministratore delle segnalazioni
 
 In qualità di partner Microsoft qualificato, puoi creare un profilo di business per presentare la tua azienda ai clienti che cercano soluzioni e competenze specifiche per soddisfare le loro esigenze in ambito professionale.
 
 Microsoft attira milioni di clienti ogni anno attraverso attività di marketing, vendita e servizi. La maggior parte di queste attività permette a Microsoft di offrire ai suoi partner delle segnalazioni in termini di lead di vendita. 
 
-La creazione di un profilo di business rappresenta il primo passo verso il recupero dei riferimenti. Microsoft mostrerà il tuo profilo ai clienti che cercano partner in grado di aiutarli a implementare le soluzioni e i prodotti Microsoft tramite:
+La creazione di un profilo di business è il primo passaggio per ottenere le segnalazioni. Microsoft mostrerà il tuo profilo ai clienti che cercano partner in grado di aiutarli a implementare le soluzioni e i prodotti Microsoft tramite:
 
 - **L'esperienza di ricerca [Trova un provider di soluzioni](https://www.microsoft.com/solution-providers/home)** . I clienti potenziali possono eseguire personalmente una ricerca negli elenchi di partner per individuare i partner che soddisfano i loro criteri di ricerca.
 
@@ -60,7 +57,7 @@ La descrizione può contenere fino a 2500 caratteri. Suggerimenti per una descri
 -  **Niente tecnicismi**. Usa il linguaggio semplice di tutti i giorni e parla dei vantaggi effettivi delle offerte: le esigenze aziendali a cui sono mirate oppure le attività o gli obiettivi per cui possono risultare utili ai clienti.
 -  **Non preoccuparti di inserire parole chiave di ricerca nella descrizione**. Gli strumenti di ricerca usati dai clienti cercano le parole chiave generate nella sezione Esperienza partner, non nella descrizione.
 -  **Aggiorna sempre il tuo profilo**. A ogni versione di software o servizio che esce, aggiorna il tuo profilo, mantenendolo sincronizzato con il sito Web della tua azienda.
--  **Non fare riferimento a un'altra società di partner Microsoft in base al nome**, a meno che non si tratti di una filiale affiliata o non sia affiliata all'azienda oppure se si dispone di un contratto con tale società partner per agire in collaborazione e/o promuovere l'altra per le opportunità di lavoro condivise.
+-  Non fare riferimento a **un'altra** società partner Microsoft in base al nome , a meno che non sia una filiale o non sia altrimenti affiliata alla società o non si abbia un contratto corrente con tale società partner per agire in collaborazione e/o promuovere reciprocmente per opportunità di lavoro condivise.
 -  **Per le aree geografiche con più lingue**, prendi in considerazione l'eventualità di includere il testo in più lingue nella descrizione.
 
 #### <a name="linkedin-company-page-more-ways-to-connect"></a> Pagina aziendale su LinkedIn: altri modi per connettersi
@@ -73,7 +70,7 @@ Se non disponi già di una pagina di LinkedIn dell'azienda, puoi [crearne una or
 
 ### <a name="partner-expertise"></a>Esperienza partner
 
-Gli strumenti di ricerca **trova un partner** cercano i tag di esperienza. Ottimizza questi tag per consentire al tuo profilo di ottenere visibilità.
+Gli **strumenti di ricerca Trova un partner** consentono di cercare tag di esperienza. Ottimizza questi tag per consentire al tuo profilo di ottenere visibilità.
 
 Inizia aggiungendo tag personalizzati nella sezione Esperienza partner. Puoi aggiungere i tag seguenti: 
 
@@ -96,7 +93,7 @@ In tal caso, avrai a disposizione più tempo da dedicare alle aziende che rappre
 
 #### <a name="locations"></a>Posizioni
 
-È possibile aggiungere fino a 5 località principali dell'azienda per ogni area. Queste posizioni vengono visualizzate quando i clienti cercano partner che si trovano nelle vicinanze.
+È possibile aggiungere fino a 5 località principali dell'azienda per area. Queste posizioni vengono visualizzate quando i clienti cercano partner che si trovano nelle vicinanze.
 
 Indica posizioni che siano ubicazioni ufficiali dell'azienda e che possano essere confermate. Seleziona posizioni centrali nei mercati che servi e che rappresentino al meglio la capacità della tua azienda di soddisfare le esigenze dei clienti.
 

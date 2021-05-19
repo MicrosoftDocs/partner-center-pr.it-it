@@ -1,34 +1,31 @@
 ---
-title: Conferma idoneità guadagni
+title: Confermare l'idoneità per gli utili
 ms.topic: how-to
 ms.date: 09/11/2020
-description: Assicurarsi di essere idonei per creare guadagni e ricevere pagamenti nel programma incentives. Controllare le regole di idoneità e ricavi per i guadagni nel centro per i partner.
+description: Assicurarsi di essere idonei per creare utili e ricevere il pagamento nel programma di incentivi. Controllare le regole di idoneità e ricavi per gli utili in Partner Center.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 2eb0fe92b5b62b56742ef06617275451e6850011
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 0d9b83f2e834400e498ad7b419daf7c8bfbde305
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179276"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146817"
 ---
-# <a name="confirm-your-incentives-earnings-eligibility"></a>Conferma l'idoneità dei guadagni per gli incentivi
+# <a name="confirm-your-incentives-earnings-eligibility"></a>Confermare l'idoneità agli incentivi per gli utili
 
-**Ruoli appropriati**
+**Ruoli appropriati:** incentivi per l'amministratore | Amministratore globale
 
-- Amministratore degli incentivi
-- Amministratore globale
-
-Prima di poter pagare il proprio lavoro nel programma incentives, è necessario prima completare tutti i requisiti di idoneità necessari.
+Prima di poter ottenere il pagamento del lavoro nel programma di incentivi, è necessario completare tutti i requisiti di idoneità necessari.
 
 ## <a name="how-do-i-check-my-earning-eligibility-and-revenue-rules"></a>Come si verificano le regole per i ricavi e l'idoneità degli utili?
 
-1. Accedi a [incentivi](https://partner.microsoft.com/membership/partner-incentives)per i partner.
+1. Accedere agli [incentivi per i partner.](https://partner.microsoft.com/membership/partner-incentives)
 2. Scorrere verso il basso per accedere ai documenti per il programma interessato e selezionare il collegamento al documento per il rispettivo programma.
-3. Nel documento, vedere le sezioni **idoneità dei partner** e **regole dei ricavi idonei**.
+3. Nel documento fare riferimento alle sezioni Regole di idoneità **per** i partner e **ricavi idonei**.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 24dd96126ab96b3e3790e9ebc00c128cac07ad24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178868"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146596"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Differenziare le attività aziendali con l'acquisizione di competenze Microsoft
 
-**Ruoli appropriati**
-
-- Amministratore globale
-- Amministratore gestione utenti
+**Ruoli appropriati:** amministratore globale | Amministratore gestione utenti
 
 Dimostra la tua comprovata esperienza nella fornitura di soluzioni di qualità in uno o più settori specifici di business. Le competenze Microsoft sono concepite per prepararti a soddisfare le esigenze dei tuoi clienti e aiutarti ad attirare nuovi clienti in cerca di provider di soluzioni Microsoft Certified. Entra nell'élite dei partner Microsoft e distinguiti dal gruppo.
 
@@ -70,7 +67,7 @@ Per altre informazioni sui requisiti necessari per acquisire le competenze Silve
 
 - Vedere le informazioni su [fatture e imposte relative alle competenze](mpn-view-print-maps-invoice.md).
 
-- Scopri come [pagare la tariffa](mpn-pay-fee-silver-gold-competency.md) associata a un'appartenenza a una competenza Silver o Gold.
+- Informazioni su come pagare [la tariffa associata](mpn-pay-fee-silver-gold-competency.md) all'appartenenza a una competenza Silver o Gold.
 
 - Visualizzare un [report delle competenze](pci-competencies-report.md) in Insights del Centro per i partner che mostra lo stato corrente delle competenze.
 

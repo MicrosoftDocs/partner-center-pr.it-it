@@ -9,19 +9,16 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
-ms.translationtype: HT
+ms.openlocfilehash: efa7251bd658558efcbab562e0c7bc8a66b8bcb8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354526"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148279"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Consolidare gli account aziendali durante la migrazione da PMC al Centro per i partner
 
-**Ruoli appropriati**
-
-- Amministratore dei partner MPN
-- Amministratore degli account
+**Ruoli appropriati:** amministratore partner MPN | Amministratore account
 
 In Partner Membership Center una società può disporre di molti account e posizioni. Ogni posizione dispone di un proprio account. Quando esegui la migrazione al Centro per i partner, tutti gli account e tutte le posizioni vengono consolidati in un unico account globale del partner con diverse posizioni. Gli elementi seguenti si spostano con il tuo account: ID MPN, competenze, acquisti, offerte, programmi e risorse di marketing. Non verrà perso alcun dato.
 

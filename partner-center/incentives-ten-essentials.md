@@ -1,6 +1,6 @@
 ---
-title: I 10 elementi di base per l'uso di incentivi
-description: Segui questi 10 suggerimenti per migliorare l'esperienza di incentivazione del programma e ricevere prima i pagamenti.
+title: I 10 elementi essenziali per lavorare con gli incentivi
+description: Seguire questi 10 suggerimenti per migliorare l'esperienza del programma di incentivi e ricevere i pagamenti prima.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,63 +8,60 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179106"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146715"
 ---
-# <a name="the-10-essentials-for-working-with-incentives"></a>I 10 elementi di base per l'uso di incentivi
+# <a name="the-10-essentials-for-working-with-incentives"></a>I 10 elementi essenziali per lavorare con gli incentivi
 
-**Ruoli appropriati**
+**Ruoli appropriati:** amministratore degli incentivi | Utente degli incentivi
 
-- Amministratore degli incentivi
-- Utente di incentivi
+Microsoft programma Incentivi è un potente strumento che premia i partner per coinvolgere i clienti con prodotti e servizi Microsoft. Più si comprende il programma, migliori sono le probabilità di successo.
 
-Il programma Microsoft incentives è uno strumento potente che premia i partner per coinvolgere i clienti con i prodotti e i servizi Microsoft. Maggiore è la comprensione del programma, migliore sarà la possibilità di successo.
+Prima di iniziare a usare il  programma incentivi, è consigliabile eseguire i 10 elementi essenziali elencati di seguito. Consentono di garantire che l'esperienza di incentivi sia ottimale e di evitare ritardi nei pagamenti degli incentivi.
 
-**Prima** di iniziare a usare il programma incentives, è consigliabile eseguire le 10 nozioni di base elencate di seguito. Assicurerà che l'esperienza degli incentivi sia una scelta ottimale e contribuisca a prevenire i ritardi nei pagamenti di incentivi.
+## <a name="1-join-the-microsoft-partner-network"></a>1. Aggiungere il Microsoft Partner Network
 
-## <a name="1-join-the-microsoft-partner-network"></a>1. partecipare al Microsoft Partner Network
+Se non si è ancora partner Microsoft, è necessario partecipare al mpn per sfruttare gli incentivi e altri vantaggi. Per altre informazioni, vedere Microsoft Partner Network [Membership](https://partner.microsoft.com/membership).
 
-Se non si è ancora un partner Microsoft, sarà necessario partecipare al MPN per sfruttare i vantaggi offerti dagli incentivi e da altri vantaggi. Per altre informazioni, vedere [Microsoft Partner Network appartenenza](https://partner.microsoft.com/membership).
+## <a name="2-read-your-incentives-program-guide"></a>2. Leggere i dati degli incentivi Guida TV
 
-## <a name="2-read-your-incentives-program-guide"></a>2. leggere la guida del programma per gli incentivi
+Ogni programma di incentivi ha una propria guida dettagliata al programma. In questa guida sono disponibili requisiti di idoneità e registrazione, opportunità di guadagno e altre informazioni specifiche per il programma. Per accedere alla guida del programma, seguire [questa procedura.](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)
 
-Ogni programma incentive ha una propria guida dettagliata al programma. In questa guida è possibile trovare i requisiti di idoneità e registrazione, guadagnare opportunità e altre informazioni esclusive per il programma. Per accedere alla guida del programma, seguire [questa procedura](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility).
+## <a name="3-set-up-your-tax-and-banking-profile"></a>3. Configurare il profilo fiscale e bancario
 
-## <a name="3-set-up-your-tax-and-banking-profile"></a>3. configurare il profilo fiscale e bancario
+Quasi tutti i ritardi dei pagamenti o altre interruzioni del processo di incentivi sono il risultato di un profilo fiscale e bancario inaccurato o incompleto. Assicurarsi che il profilo sia in buona forma prima di iniziare il programma di incentivi. Per altre informazioni, vedere [Profili di pagamento e](incentives-create-and-manage-your-payout-and-tax-profiles.md)fiscali in Partner Center .
 
-Quasi tutti i ritardi dei pagamenti o altre interruzioni nel processo di incentivi sono il risultato di un profilo fiscale e bancario impreciso o incompleto. Prima di iniziare il programma incentives, verificare che il profilo sia in una forma corretta. Per altre informazioni, vedere la pagina relativa ai [profili di pagamento e fiscali nel centro per i partner](incentives-create-and-manage-your-payout-and-tax-profiles.md).
+## <a name="4-learn-about-roles-and-permissions"></a>4. Informazioni su ruoli e autorizzazioni
 
-## <a name="4-learn-about-roles-and-permissions"></a>4. informazioni sui ruoli e le autorizzazioni
+È importante ottenere una conoscenza approfondita dei ruoli e delle autorizzazioni coinvolti nel programma di incentivi. Dopo aver eseguito questa operazione, è possibile decidere quali ruoli assegnare alle persone dell'azienda. Per altre informazioni, vedere [Quali ruoli utente sono disponibili?](incentives-faq.md#what-user-roles-are-available)
 
-È importante ottenere una conoscenza approfondita dei ruoli e delle autorizzazioni necessarie per il programma incentives. Una volta completata questa operazione, è possibile decidere quali ruoli devono essere assegnati alle persone nell'azienda. Per altre informazioni, vedere [quali ruoli utente sono disponibili?](incentives-faq.md#what-user-roles-are-available)
+## <a name="5-review-the-incentives-faq"></a>5. Esaminare le domande frequenti relative agli incentivi
 
-## <a name="5-review-the-incentives-faq"></a>5. esaminare le domande frequenti sugli incentivi
+Ottenere risposte alle domande comuni relative agli incentivi prima ancora di porle. Le domande frequenti sugli incentivi vengono aggiornate di frequente usando le informazioni Supporto tecnico Microsoft e la comunicazione diretta con i partner. È possibile visualizzare le domande frequenti [qui.](incentives-faq.md)
 
-Ottieni risposte alle domande più comuni sugli incentivi prima di chiederle. Le domande frequenti sugli incentivi vengono aggiornate di frequente usando le informazioni di supporto tecnico Microsoft e la comunicazione diretta con i partner. È possibile visualizzare le domande frequenti [qui](incentives-faq.md).
+## <a name="6-confirm-your-program-eligibility"></a>6. Confermare l'idoneità al programma
 
-## <a name="6-confirm-your-program-eligibility"></a>6. confermare l'idoneità del programma
+Questo comporta in genere di assicurarsi di aver fornito a Microsoft tutta la documentazione necessaria per il profilo aziendale e di aver ottenuto tutte le competenze necessarie. Vedere [Confermare l'idoneità del programma.](incentives-determined-your-program-eligibility.md)
 
-Ciò comporta in genere la certezza di aver fornito a Microsoft tutti i documenti richiesti per il profilo aziendale e di avere acquisito le competenze necessarie. Vedere [confermare l'idoneità del programma](incentives-determined-your-program-eligibility.md).
+## <a name="7-confirm-your-earnings-eligibility"></a>7. Confermare l'idoneità per gli utili
 
-## <a name="7-confirm-your-earnings-eligibility"></a>7. confermare l'idoneità dei guadagni
+Analogamente all'attività precedente, in genere è necessario assicurarsi di aver fornito a Microsoft tutte le informazioni necessarie. Vedere [Confermare l'idoneità degli utili.](incentives-confirm-your-earnings-eligibility.md)
 
-Analogamente all'attività precedente, ciò comporta in genere la certezza di aver fornito a Microsoft tutte le informazioni necessarie. Vedere [confermare l'idoneità per i guadagni](incentives-confirm-your-earnings-eligibility.md).
+## <a name="8-gather-the-necessary-enrollment-information"></a>8. Raccogliere le informazioni di registrazione necessarie
 
-## <a name="8-gather-the-necessary-enrollment-information"></a>8. raccogliere le informazioni di registrazione necessarie
+La registrazione al programma di incentivi richiede una certa quantità di informazioni sull'azienda. Assicurarsi di avere tutto insieme prima di iniziare. Per altre informazioni, scaricare e leggere la registrazione [incentivi in Partner Center](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) file PDF.
 
-Per la registrazione nel programma incentivi è necessaria una certa quantità di informazioni sull'azienda. Prima di iniziare, assicurarsi di averla tutti insieme. Per altre informazioni, scaricare e leggere il file di [registrazione Incentive nel](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) file PDF del centro per i partner.
+## <a name="9-learn-how-other-partners-do-it"></a>9. Informazioni su come lo fanno gli altri partner
 
-## <a name="9-learn-how-other-partners-do-it"></a>9. informazioni sull'esecuzione di altri partner
+Sono disponibili numerosi articoli validi relativi agli incentivi e Partner Center Microsoft in generale, ad esempio i cinque [attributi dei partner Microsoft di successo.](https://www.microsoft.com/en-us/us-partner-blog/2019/08/29/the-five-attributes-of-successful-microsoft-partners/)
 
-Per gli incentivi Microsoft e il centro per i partner sono disponibili numerosi articoli validi, ad esempio [i cinque attributi dei partner Microsoft](https://www.microsoft.com/en-us/us-partner-blog/2019/08/29/the-five-attributes-of-successful-microsoft-partners/).
+## <a name="10-read-the-partner-center-online-help"></a>10. Leggere la Guida Partner Center online
 
-## <a name="10-read-the-partner-center-online-help"></a>10. leggere la Guida in linea del centro per i partner
-
-Sono disponibili procedure dettagliate per eseguire tutte le attività elencate in precedenza. È possibile leggere l'intera sezione incentivi in circa un'ora e la maggior parte degli articoli può richiedere solo un minuto o due. Per iniziare a leggere la guida, vedere [Getting Started](incentives-get-started-intro.md).
+Sono disponibili procedure dettagliate per eseguire tutte le attività elencate in precedenza. È possibile leggere l'intera sezione Incentivi in circa un'ora e la maggior parte degli articoli può richiedere solo un minuto o due. Per iniziare a leggere la Guida, vedere [Introduzione](incentives-get-started-intro.md)a .
 
 ## <a name="next-steps"></a>Passaggi successivi
 

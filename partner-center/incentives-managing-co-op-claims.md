@@ -1,6 +1,6 @@
 ---
 title: Gestire le attestazioni cooperative
-description: Comprendere il processo delle attestazioni co-op, incluse le scadenze, i problemi di valuta e come disputare un'attestazione co-op rifiutata.
+description: Comprendere il processo di attestazioni co-op, incluse scadenze, problemi di valuta e come contestare un'attestazione co-op rifiutata.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -8,38 +8,36 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 952a6b327dd31b1155efe3c08bb52f9b300b0a93
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179157"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146766"
 ---
-# <a name="manage-incentives-co-op-claims"></a>Gestisci attestazioni co-op degli incentivi
+# <a name="manage-incentives-co-op-claims"></a>Gestire le attestazioni co-op per gli incentivi
 
-**Ruoli appropriati**
+**Ruoli appropriati:** Amministratore incentivi
 
-- Amministratore degli incentivi
-
-Il contenuto seguente fornisce informazioni per la gestione delle attestazioni di co-op, incluse le sequenze temporali, le regole e la modalità di controversia di un'attestazione cooperativa rifiutata.
+Il contenuto seguente fornisce informazioni per gestire le attestazioni co-op, tra cui sequenze temporali, regole e come contestare un'attestazione co-op rifiutata.
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>Scadenze per l'approvazione e il pagamento delle attestazioni cooperative
 
 ### <a name="when-will-my-co-op-claim-be-approved"></a>Quando verrà approvata l'attestazione co-op?
 
-Le attestazioni co-op vengono esaminate entro due giorni lavorativi dopo l'invio. Una volta ritenute valide, verranno impostate sullo stato approvato.  
+Le attestazioni co-op vengono esaminate entro due giorni lavorativi dall'invio. Una volta considerati validi, verranno impostati sullo stato Approvato.  
 
-Di seguito sono riportati i diversi stati possibili per le attestazioni co-op.
+Di seguito sono riportati i vari stati possibili per le attestazioni co-op.
 
 - Inviato
 - In fase di revisione
-  - Microsoft completerà la revisione entro due giorni lavorativi della richiesta di invio. Se lo stato è in fase di revisione per più di due giorni, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+  - Microsoft completerà la revisione entro due giorni lavorativi dall'invio dell'attestazione. Se lo stato è in fase di revisione per più di due giorni, contattare il [supporto tecnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 - Azione richiesta
 - In fase di modifica
 - Approved
 - Rifiutato
 
-## <a name="co-op-claim-payments"></a>Pagamenti di attestazioni co-op
+## <a name="co-op-claim-payments"></a>Pagamenti di reclami co-op
 
 ### <a name="when-will-i-get-the-payment-for-the-approved-co-op-claim"></a>Quando si riceve il pagamento per l’attestazione co-op approvata?
 
@@ -55,15 +53,15 @@ Ogni programma di incentivi è associato a un profilo bancario creato durante la
 
 ## <a name="rejected-co-op-claims"></a>Attestazioni co-op rifiutate
 
-Se il materiale fornito con l'attestazione di co-op viene ritenuto insufficiente, verrà rifiutato. È possibile visualizzare i motivi del rifiuto nel campo **Cronologia** della pagina delle attestazioni co-op. Per disputare il rifiuto, attenersi alla procedura seguente:
+Se il materiale fornito con l'attestazione di co-op viene ritenuto insufficiente, verrà rifiutato. È possibile visualizzare i motivi del rifiuto nel campo **Cronologia** della pagina delle attestazioni co-op. Per contestare il rifiuto, usare la procedura seguente:
 
 ### <a name="dispute-a-rejected-co-op-claim"></a>Disputare un'attestazione co-op rifiutata
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
 
-2. In **incentivi** selezionare **Gestione co-op**.
+2. In **Incentivi** selezionare **Co-op management (Gestione co-op).**
 
-3. Selezionare l'attestazione co-op che si vuole contestare. Si apre la pagina di attestazione co-op.
+3. Selezionare l'attestazione co-op che si vuole contestare. Verrà visualizzata la pagina dell'attestazione co-op.
 
 4. Nella parte inferiore della pagina selezionare **Contesta**.
 

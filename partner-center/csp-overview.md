@@ -9,18 +9,16 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f72a4cffaa8557e7e8f56dd2253c99449e3a696d
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
-ms.translationtype: HT
+ms.openlocfilehash: 8afa7b060d2d78c7f2dfaee7007bb13756917d13
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045405"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147565"
 ---
 # <a name="cloud-solution-provider-program"></a>Programma Cloud Solution Provider 
 
-**Si applica a**
-
-- Centro per i partner
+**Ruoli appropriati:** tutti i partner interessati a saperne di più su CSP
 
 Questo articolo fornisce una panoramica del programma Cloud Solution Provider (CSP) e illustra i diversi modelli operativi e i relativi requisiti, oltre ad altri dettagli sulla vendita tramite questo programma.  Il programma CSP consente di essere maggiormente coinvolti nelle attività dei clienti, oltre ad essere rivenditori di licenze, e può includere i vantaggi seguenti: 
 

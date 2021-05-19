@@ -9,22 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dae147c45aca27657f1e88b6943279f9771313d6
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1729c5b6668a67e35a17c74998888324ce102c09
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132996"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146239"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Passaggio da Partner Membership Center al Centro per i partner
 
-**Ruoli appropriati**
-
-- Amministratore globale
+**Ruoli appropriati:** Amministratore globale
 
 Stiamo semplificando il modo di collaborare con Microsoft, introducendo un unico sito Web (Centro per i partner) che fungerà da punto di interazione centrale. Nel dashboard del Centro per i partner potrai svolgere tutte le attività in precedenza disponibili nel Partner Membership Center (PMC) 
 
-Puoi anche ottenere molto di più senza uscire da un unico sito Web. Alcuni termini e funzionalità possono tuttavia avere un aspetto diverso. Per informazioni su dove eseguire determinate attività e sulle funzionalità disponibili, è consigliabile visitare il sito del dashboard.
+È anche possibile ottenere molto di più senza uscire da un unico sito Web. Alcuni termini e funzionalità possono tuttavia avere un aspetto diverso. Per informazioni su dove eseguire determinate attività e sulle funzionalità disponibili, è consigliabile visitare la presentazione del sito del dashboard.
 
 Questa tabella illustra alcune delle differenze tra Partner Membership Center e Centro per i partner.
 
@@ -44,14 +42,14 @@ Questa tabella illustra alcune delle differenze tra Partner Membership Center e 
 
 |**PMC**   |**Centro per i partner**|
 |----------------------|:-----------------------------|
-|Possibilità di usare le credenziali dell'account Microsoft (MSA) o personale joe@outlook.com|È necessario usare le credenziali dell'account di lavoro, ad esempio joe@joescompany.com . Per altre informazioni, vedi [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md).|
+|Possibilità di usare le credenziali dell'account Microsoft (MSA) o personale joe@outlook.com|È necessario usare le credenziali dell'account aziendale , ad esempio joe@joescompany.com . Per altre informazioni, vedi [Account aziendale e Centro per i partner](azure-active-directory-tenants-and-partner-center.md).|
 
 ## <a name="user-roles"></a>Ruoli utente
 
 |**PMC**   |**Centro per i partner**|
 |----------------------|:-----------------------------|
 |Molti ruoli in PMC non sono usati nel Centro per i partner|All'amministratore che esegue il passaggio al Centro per i partner vengono assegnati automaticamente i ruoli di amministratore MPN, amministratore account e amministratore delle segnalazioni. Può quindi assegnare altri utenti ai ruoli utente.|
-|Utenti gestiti a livello di ubicazione|Gli utenti sono gestiti a livello di società (PGA) anziché a livello di ubicazione. L'eccezione è l'amministratore degli incentivi, che funziona a livello di località.|
+|Utenti gestiti a livello di ubicazione|Gli utenti sono gestiti a livello di società (PGA) anziché a livello di ubicazione. L'eccezione è l'amministratore incentivi, che funziona a livello di posizione.|
 |   |Il Centro per i partner ha due ampi set di ruoli, ovvero i ruoli che amministrano il tenant di Azure AD e i ruoli che amministrano le attività aziendali. Organizza i ruoli nel modo più appropriato per l'azienda. Una sola persona può occuparsi di tutto oppure è possibile assegnare autorizzazioni e ruoli separati a più utenti. Per altre informazioni, vedi [Assegnare autorizzazioni e ruoli utente](permissions-overview.md). 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>Calcolo di competenze e benefit
@@ -62,7 +60,7 @@ Questa tabella illustra alcune delle differenze tra Partner Membership Center e 
 |Possibilità di avere toolkit di vantaggi aggiuntivi (ABTK) fino al ritiro, nell'ottobre 2018.|Niente ABTK, un abbonamento Microsoft Action Pack (MAPS) per società, una competenza Silver per società, una competenza Gold per società|
 ||Se non si ha già un MAPS, è possibile acquistarlo. La proprietà del MAPS non è legata alle competenze.  
 |Benefit accessibili tramite il portale di download digitale dei partner (PDD) |Accesso a tutti i benefit tramite il Centro per i partner|
-|Competenze e benefit distribuiti e divisi tra più ubicazioni|Le competenze e i benefit di tutte le ubicazioni sono consolidati a livello di società (PGA) e verranno conservati fino alla data di ricorrenza annuale. In quel momento sarà necessario acquistare o rinnovare a livello di società. Prestazioni, competenze e competenze sono aggregate a livello globale|
+|Competenze e benefit distribuiti e divisi tra più ubicazioni|Le competenze e i benefit di tutte le ubicazioni sono consolidati a livello di società (PGA) e verranno conservati fino alla data di ricorrenza annuale. In quel momento sarà necessario acquistare o rinnovare a livello di società. Le prestazioni, le competenze e le competenze vengono aggregate a livello globale|
 |Le richieste di voucher Software Assurance vengono effettuate nello strumento per la convalida e il riscatto voucher (VVR)|Ora è possibile accedere e gestire i voucher per la formazione Software Assurance e/o Deployment Planning Services (DPS) nel Centro per i partner.  Lo strumento VVR legacy verrà rimosso il 1° ottobre 2019.  |
 
 ## <a name="associating-mcp-ids-to-partner-center"></a>Associazione di ID MCP al Centro per i partner

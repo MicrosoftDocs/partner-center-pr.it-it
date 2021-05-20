@@ -2,46 +2,44 @@
 title: Visualizzare gli utili in CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Informazioni su come visualizzare le istruzioni e i guadagni degli incentivi nello strumento Channel incentives Platform (CHIP).
+description: Informazioni su come visualizzare il rendiconto degli incentivi e gli utili nello strumento Channel Incentives Platform (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354492"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149027"
 ---
-# <a name="view-earnings-using-the-chip-tool"></a>Visualizzare i guadagni usando lo strumento CHIP
+# <a name="view-earnings-using-the-chip-tool"></a>Visualizzare gli utili usando lo strumento CHIP
 
-**Ruoli appropriati**
+**Ruoli appropriati:** contatto primario o amministratore del programma
 
-- Contatto principale o amministratore del programma
+È possibile accedere all'istruzione degli incentivi tramite lo strumento Channel Incentives Platform (CHIP).
 
-È possibile accedere all'informativa sugli incentivi tramite il CHIP (Channel incentives Platform Tool).
+## <a name="view-earnings"></a>Visualizzare gli utili
 
-## <a name="view-earnings"></a>Visualizza guadagni
+1. Accedere a CHIP usando il account Microsoft (Live ID precedente).
 
-1. Accedere a CHIP usando il account Microsoft (precedente Live ID).
-
-2. Selezionare il programma per gli incentivi a cui si è interessati.
+2. Selezionare il programma di incentivi a cui si è interessati.
 
 3. In **Riepilogo programma** selezionare periodo o mese. 
-1. Selezionare i dettagli di calcolo nell'elenco a discesa.
-1.  Fare clic su **Apri** sulla barra di notifica per aprire l'istruzione.
+1. Selezionare Dettagli calcolo nell'elenco a discesa.
+1.  Fare **clic su** Apri sulla barra di notifica per aprire l'istruzione.
 
 ### <a name="explanation-of-details-tabs"></a>Spiegazione delle schede dei dettagli
 
-|**Scheda**|**Definizione**|
+|**TAB**|**Definition**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|Include i dettagli per il programma incentivi per il periodo di tempo selezionato, inclusi il nome del cliente, il contratto, i dettagli delle leve|
-|DeltaReport-pivot|Aggiornamenti dall'ultima istruzione pubblicata solo per Enterprise|
-|DetailReport-pivot|Riepilogo dei dettagli di pagamento, inclusa la valuta e l'importo del pagamento|
-|Dettagli del risultato|Valore di base, risultato e percentuale di crescita solo per SPLAR|
+|DetailReport-Flatfile|Include i dettagli per il programma di incentivi per il periodo di tempo selezionato, inclusi il nome del cliente, il contratto e i dettagli della leve|
+|DeltaReport-pivot|Aggiornamenti dell'ultima istruzione pubblicata solo per Enterprise|
+|DettagliReport-pivot|Riepilogo dei dettagli del pagamento, inclusi la valuta e l'importo del pagamento|
+|Dettagli dell'obiettivo|Valore di base, obiettivo e percentuale di crescita solo per SPLAR|
 
 ## <a name="next-steps"></a>Passaggi successivi
 

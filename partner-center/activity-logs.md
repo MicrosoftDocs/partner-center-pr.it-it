@@ -4,28 +4,21 @@ ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come visualizzare ed esportare i log attività per ottenere informazioni sulle transazioni degli account del cliente e altre attività di gestione dei partner correlate ai clienti.
+description: Informazioni su come visualizzare ed esportare i log attività per ottenere informazioni dettagliate sulle transazioni dell'account cliente e su altre attività di gestione dei partner correlate ai clienti.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 1bb98dd71c9e46914b90d5efbfe14404d08275f9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474241"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150591"
 ---
-# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Visualizzare o esportare i log attività del cliente per ottenere informazioni più dettagliate sulle transazioni dei clienti
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Visualizzare o esportare i log attività dei clienti per altre informazioni sulle transazioni dei clienti
 
-**Ruoli appropriati**
-
-- Amministratore globale
-- Amministratore fatturazione
-- Amministratore gestione utenti
-- Agente amministratore
-- Agente di vendita
-- Agente di supporto tecnico
+**Ruoli appropriati:** amministratore globale | Amministratore fatturazione | Amministratore gestione utenti | Agente di amministrazione | Agente di vendita | Agente del supporto help desk
 
 I log attività offrono informazioni sulle transazioni e le operazioni di gestione dei partner per i clienti. I log per le transazioni offrono informazioni dettagliate sulla transazione, incluse le sottoscrizioni acquistate. Puoi anche esportare i log attività in file con valori delimitati da virgole (CSV) compatibile con Excel.
 
@@ -53,4 +46,4 @@ I log attività includono record relativi alle azioni dei partner sugli account 
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Analizza le sottoscrizioni e le licenze per promuovere le decisioni aziendali](analyze-subscriptions-licenses.md)
+- [Analizzare le sottoscrizioni e le licenze per facilitare le decisioni aziendali](analyze-subscriptions-licenses.md)

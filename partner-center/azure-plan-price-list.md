@@ -9,25 +9,18 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 6d8e73e664d400e8e6d80e529326e566c5fd88a8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924974"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149571"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Listino prezzi per la nuova esperienza commerciale di Azure in CSP
 
-**Ruoli appropriati**
+**Ruoli appropriati:** amministrazione dell'agente | Amministratore della fatturazione | Amministratore globale | Supporto per l'agente | Agente di vendita | Amministratore di gestione utenti
 
-- Agente amministratore
-- Amministratore fatturazione
-- Amministratore globale
-- Agente di supporto tecnico
-- Agente di vendita
-- Amministratore gestione utenti
-
-Il listino prezzi per la nuova esperienza commerciale di Azure in CSP viene pubblicato nel Centro per i partner. Il listino prezzi viene distribuito in modo dinamico in un file dettagliato costantemente aggiornato e i prezzi sono riportati solo in USD. A partire dal 28 gennaio 2021, i partner dell'area UE/EFTA e del Regno Unito con nuovi clienti e clienti CSP esistenti che acquistano nuove offerte commerciali per la prima volta, i cui tenant sono stati creati prima dell'11 maggio 2020, verranno fatturati per tali acquisti nella valuta della località partner.  I partner situati al di fuori dell'area UE/EFTA e del Regno Unito continueranno a essere fatturati in valuta località partner, leggi [piano di fatturazione di Azure](azure-plan-billing.md).
+Il listino prezzi per la nuova esperienza commerciale di Azure in CSP viene pubblicato nel Centro per i partner. Il listino prezzi viene distribuito in modo dinamico in un file dettagliato costantemente aggiornato e i prezzi sono riportati solo in USD. A partire dal 28 gennaio 2021, i partner dell'area UE/EFTA e Regno Unito che hanno nuovi clienti e clienti CSP esistenti che acquistano nuove offerte commerciali per la prima volta i cui tenant sono stati creati prima dell'11 maggio 2020 verranno fatturati per tali acquisti nella valuta della località partner.  I partner che si trovano all'esterno dell'area UE/EFTA e Regno Unito continueranno a essere fatturati nella valuta della località partner, vedere [Piano di Azure - fatturazione.](azure-plan-billing.md)
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Visualizzare il listino prezzi per le sottoscrizioni in base ai prezzi del piano di Azure
 
@@ -96,8 +89,8 @@ Alcuni servizi di consumo del piano di Azure supportano prezzi a più livelli. I
 
 |**ProductId**   |**SkuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
 |:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
-|DDD123456ABC|01AB|0,50|100.001|9223372036854780000|
-|DDD123456ABC|01AB|0,80|101|100.000|
+|DDD123456ABC|01AB|0,50|100001|9223372036854780000|
+|DDD123456ABC|01AB|0,80|101|100000|
 |DDD123456ABC|01AB|1|1|100|
 
 In questo esempio, se si usano 101 unità, l'addebito sarà pari a 100,80. Le prime 100 unità costano 1 ognuna, mentre l'unità successiva viene addebitata a 0,80.

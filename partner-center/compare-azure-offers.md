@@ -9,22 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42732a20b4901223a9376d3221579e7cd7be3297
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
-ms.translationtype: HT
+ms.openlocfilehash: d1544333cd2251dd26223bebf20ef08723e976fb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444587"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148534"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Confronta le differenze tra le offerte di Azure nel programma CSP
 
-**Ruoli appropriati**
-
-- Agente amministratore
-- Amministratore fatturazione
-- Amministratore globale
-- Agente di supporto tecnico
-- Agente di vendita
+**Ruoli appropriati:** agente di amministrazione | Amministratore fatturazione | Amministratore globale | Agente del supporto | Agente di vendita
 
 Questo articolo descrive le principali differenze tra le offerte di Azure nel programma Cloud Solution Provider (CSP).
 
@@ -40,7 +34,7 @@ La tabella seguente offre una panoramica delle principali differenze tra le offe
 |Rinnovo automatico|Sì|Sì|No| No|Sì|
 |Più valute|Fattura in base alla posizione/valuta del cliente|Fattura in base alla posizione/valuta del cliente|Fattura in base alla posizione/valuta del cliente|Fattura in base alla posizione/valuta del cliente|In base alla valuta della posizione del partner| 
 |Fattura e file di riconciliazione|Fattura e file di riconciliazione separati per ogni valuta della posizione del cliente.  Verranno inoltre forniti file di utilizzo con tassi giornalieri (per le parti fatturate e non fatturate) |Fattura e file di riconciliazione separati per ogni valuta della posizione del cliente|Fattura e file di riconciliazione separati per ogni valuta della posizione del cliente|Fattura e file di riconciliazione separati per ogni valuta della posizione del cliente|Tutti gli ordini in una fattura e un file di riconciliazione|
-|Listino prezzi e matrice di offerte|Pubblicazione mensile con prezzi in USD*|I prezzi e le offerte del Marketplace possono essere esportati in tempo reale in un file in formato CSV|Singolo file separato in cui sono inclusi tutti i dettagli relativi ai prezzi e alle offerte. Non è disponibile un file distinto con la matrice di offerte||Singolo file separato in cui sono inclusi tutti i dettagli relativi ai prezzi e alle offerte. Non è disponibile una matrice di offerte distinta| 
+|Listino prezzi e matrice di offerte|Pubblicazione mensile con prezzi in USD*|I prezzi e le offerte del Marketplace possono essere esportati in tempo reale in un file in formato CSV|File singolo separato con tutti i prezzi e i dettagli dell'offerta inclusi. Non esiste un file matrice di offerte separato||File singolo separato con tutti i prezzi e i dettagli dell'offerta inclusi. Non esiste una matrice di offerte separata.| 
 |Resi e cambi|Non applicabile. Non si delinea alcuna transazione commerciale nell'azione di acquisto di un piano di Azure|Varia tra le offerte basate su licenza di un mese e le offerte basate su licenza di 12 mesi, nonché per le offerte in base all'utilizzo|Ai resi effettuati meno di cinque giorni dopo la data dell'ordine corrisponderà un credito del 100%. Ai resi effettuati più di cinque giorni dopo la data dell'ordine corrisponderà un credito con ripartizione proporzionale e verrà applicata una penale per risoluzione anticipata pari al 12% del suddetto credito; limite di 50.000 USD (o equivalente in valuta locale) per cliente ogni anno|Ai resi effettuati meno di 60 giorni dalla data dell'ordine corrisponderà un credito del 100% e i codici di licenza verranno disattivati. Non verranno accettati resi parziali|   Alle sospensioni o agli annullamenti effettuati dopo meno di 30 giorni corrisponderà un credito del 100%. Alle sospensioni o agli annullamenti effettuati dopo più di 30 giorni corrisponderà un credito con ripartizione proporzionale|
 |Disponibilità nelle varie aree geografiche|139 paesi; qui è disponibile un elenco completo di tali paesi|La nuova matrice di disponibilità delle offerte commerciali nelle varie aree geografiche e valute dei clienti illustra l'ambito in cui tali offerte possono essere rese disponibili in CSP dal partner|Per i dettagli completi, vedi la nuova matrice di disponibilità delle offerte commerciali nelle varie aree geografiche e valute dei clienti. Viene applicata la stessa pianificazione di implementazione per tutte le nuove offerte commerciali|Per i dettagli completi, vedi la nuova matrice di disponibilità delle offerte commerciali nelle varie aree geografiche e valute dei clienti.  Viene applicata la stessa pianificazione di implementazione per tutte le nuove offerte commerciali|247 paesi|
 |Requisiti per il supporto|Requisiti per il supporto CSP standard|La società che pubblica l'offerta ha la responsabilità di fornire il supporto tecnico.  Il partner CSP ha la responsabilità di fornire il supporto per le attività prevendita, la transazione e la fatturazione|Requisiti per il supporto CSP standard|Requisiti per il supporto CSP standard|Requisiti per il supporto CSP standard|

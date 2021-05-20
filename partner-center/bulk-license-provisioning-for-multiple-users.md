@@ -9,32 +9,26 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: b2c59bc40b5092a4a2ee6e06bcb2e49a86e0201d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 79f66e759385f6c7c7928dba58e052ea8699cf21
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570655"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149214"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Assegnare o revocare le licenze contemporaneamente a più utenti in un account cliente
 
-**Ruoli appropriati**
-
-- Agente amministratore
-- Amministratore globale
-- Agente di supporto tecnico
-- Agente di vendita
-- Amministratore gestione utenti
+**Ruoli appropriati:** Agente di amministrazione | Amministratore globale | Supporto dell'agente | Agente di vendita | Amministratore di gestione utenti
 
 Puoi assegnare licenze e servizi a un utente o a più utenti contemporaneamente nell'account di un cliente e revocare le assegnazioni di licenze per gli utenti.
 
-Il centro per i partner tiene traccia e Mostra tutti i diritti delle licenze di proprietà del cliente.
+Il Partner Center tiene traccia e mostra tutti i diritti di licenza di proprietà del cliente.
 
 ## <a name="assign-licenses-to-multiple-users"></a>Assegnare licenze a più utenti
 
-1. Dal menu **centro partner** selezionare **Customers**, quindi scegliere un cliente dall'elenco.
+1. Dal menu **Partner Center** selezionare **Clienti** e quindi scegliere un cliente dall'elenco.
 
-2. Selezionare **utenti e licenze**.
+2. Selezionare **Utenti e licenze**.
 
 3. Seleziona la casella di controllo per due o più utenti nell'elenco. (Per selezionare tutti gli utenti nella pagina corrente, seleziona la casella di controllo nella parte superiore della colonna **Utenti**.)
 
@@ -62,21 +56,21 @@ Il centro per i partner tiene traccia e Mostra tutti i diritti delle licenze di 
 
 6. In **Assegna e revoca licenze** seleziona le licenze dei prodotti per i nuovi utenti. 
 
-   Se, ad esempio, nessuno degli utenti selezionati dispone di licenze Office 365 Enterprise e si desidera aggiungerli, selezionare la casella di controllo. Ti serve un numero di licenze sufficiente per ogni prodotto selezionato.
+   Ad esempio, seleziona la casella di controllo se nessuno degli utenti selezionati ha licenze per Office 365 Enterprise e vuoi aggiungerle. Ti serve un numero di licenze sufficiente per ogni prodotto selezionato.
 
 7. Puoi selezionare più di un prodotto per gli utenti selezionando la casella di controllo per ogni prodotto.
     -   Seleziona **Visualizza piani di servizio** per qualsiasi prodotto, per visualizzare e selezionare i piani di servizio di cui hanno bisogno gli utenti.
 
-8. Selezionare **Salva**. Il centro per i partner apre una pagina di conferma **aggiornata delle licenze** in cui sono elencati gli utenti e le nuove licenze.
+8. Selezionare **Salva**. Il Partner Center apre una pagina di conferma **delle licenze aggiornata** che elenca gli utenti e le nuove licenze.
 
 >[!NOTE]
 >Alcuni prodotti Microsoft potrebbero non essere disponibili in determinate località. Altri prodotti dipendono da altri prodotti o servizi o non possono essere assegnati insieme allo stesso utente. Dopo aver salvato, la pagina di conferma elenca i risultati per tutti gli utenti per le assegnazioni di licenze corrette e gli eventuali errori d assegnazione.
 
-## <a name="revoke-users-license-assignments"></a>Revoca le assegnazioni delle licenze degli utenti
+## <a name="revoke-users-license-assignments"></a>Revocare le assegnazioni di licenza degli utenti
 
-1. Dal menu **centro partner** selezionare **Customers**, quindi scegliere un cliente dall'elenco.
+1. Dal menu **Partner Center** selezionare **Clienti** e quindi scegliere un cliente dall'elenco.
 
-2. Selezionare **utenti e licenze**.
+2. Selezionare **Utenti e licenze**.
 
 3. Seleziona la casella di controllo per due o più utenti nell'elenco. (Per selezionare tutti gli utenti nella pagina corrente, seleziona la casella di controllo nella parte superiore della colonna **Utenti**.)
 

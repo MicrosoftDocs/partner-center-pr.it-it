@@ -1,6 +1,6 @@
 ---
 title: Analizzare sottoscrizioni e licenze
-description: Informazioni su come usare le metriche nella pagina sottoscrizione e analisi licenze per identificare i successi e le aree che richiedono maggiore attenzione.
+description: Informazioni su come usare le metriche nella pagina Analisi delle sottoscrizioni e delle licenze per identificare i risultati e le aree che necessitano di maggiore attenzione.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,83 +9,78 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 45a0ebb70f6e139b1e130c3cfc1d24eb79b41a0d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103792"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150149"
 ---
-# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analizza le sottoscrizioni e le licenze per aiutarti a promuovere decisioni aziendali e nuovi obiettivi
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analizzare le sottoscrizioni e le licenze per facilitare le decisioni aziendali e i nuovi obiettivi
 
-**Ruoli appropriati**
+**Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti | Agente amministratore | Agente di vendita
 
-- Amministratore globale
-- Amministratore gestione utenti
-- Agente amministratore
-- Agente di vendita
+I dati determinano le decisioni aziendali. Usare le metriche nella pagina **Analisi delle sottoscrizioni e** delle licenze per identificare i risultati e le aree che necessitano di maggiore attenzione. Usare queste informazioni durante la pianificazione di nuovi obiettivi aziendali.
 
-I dati prendono le decisioni aziendali. Usare le metriche nella pagina **sottoscrizione e analisi licenze** per identificare i successi e le aree che richiedono maggiore attenzione. Utilizzare queste informazioni durante la pianificazione di nuovi obiettivi aziendali.
-
-**CSP TTM ricavi (USD)**: questa metrica rappresenta l'aggregato CSP fatturato ricavi (USD) per i dodici mesi finali (TTM) per gli account del percorso partner e l'account globale del partner (PGA) a cui è associato questo account CSP. Se si dispone di altri account CSP con un altro PGA, è necessario accedere a ognuno di essi per visualizzare il corrispondente ricavo TTM aggregato.  Fai clic sul collegamento Dettagli download per ottenere una ripartizione dei ricavi TTM (USD) per ID MPN.
+**Ricavi CSP TTM (USD):** questa metrica rappresenta i ricavi fatturati CSP aggregati (USD) per i dodici mesi finali (TTM) per gli account della posizione partner e l'account globale partner (PGA) a cui è associato questo account CSP. Se si hanno altri account CSP con un PGA diverso, è necessario accedere a ognuno di essi per visualizzare i ricavi TTM aggregati corrispondenti.  Fare clic sul collegamento dei dettagli del download per ottenere una suddivisione dei ricavi TTM (USD) per ID MPN.
 
 >[!NOTE]
->I prezzi di valuta locali (Legacy Commerce FX) in commerciale vengono gestiti entro +/-5% di dollari USA. Il tasso di cambio di borsa (FX) Legacy è diverso dalle tariffe FX per la fatturazione usate da Azure nell'esperienza commerciale moderna. Le tariffe FX per la fatturazione moderna di Commerce sono basate sulle tariffe di Microsoft P&L (tariffe FX Reuters del feed di tesoreria). Le tariffe FX di Commerce legacy sono riservate a Microsoft.
+>I prezzi in valuta locale (Legacy Commerce FX) in Commercial sono gestiti entro +/-5% di dollari USA. Il tasso di cambio dell'e-commerce legacy è diverso dai tassi di cambio di fatturazione usati da Azure nell'esperienza modern commerce. Le tariffe fx di fatturazione di Modern Commerce si basano sulle tariffe di Microsoft P&L (tariffe FX Reuters dal feed del tesoreria). Le tariffe fx di Commerce Legacy sono riservate a Microsoft.
 
 
-Il resto del report può essere trasformato tramite pivot in base ai prodotti seguenti:
+Il resto del report può essere pivot in base ai prodotti seguenti:
 
- - **Dynamics 365**: dati di Dynamics 365  
- - **EMS**: dati di Enterprise Management Services  
- - **Microsoft 365**: Microsoft 365 dati  
- - **Office 365**: dati di Office 365  
+ - **Dynamics 365:** dati di Dynamics 365  
+ - **EMS:** dati di Enterprise Management Services  
+ - **Microsoft 365:** Microsoft 365 dati  
+ - **Office 365:** dati di Office 365  
 
 
-## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Tipi di metriche di sottoscrizione e di licenza che è possibile visualizzare
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Tipi di metriche di sottoscrizione e licenza che è possibile visualizzare
 
-Vengono monitorate le metriche seguenti:
+Vengono verificate le metriche seguenti:
 
 **Summary**  
- - **Sottoscrizioni vendute**: numero di sottoscrizioni create per il periodo di tempo specificato  
+ - **Sottoscrizioni vendute:** numero di sottoscrizioni create per il periodo di tempo specificato  
   
- - **Licenze vendute**: numero di licenze vendute per il periodo di tempo specificato  
+ - **Licenze vendute:** numero di licenze vendute per il periodo di tempo specificato  
   
- - **Rinnovo delle sottoscrizioni in 30 giorni**: numero di sottoscrizioni in cui lo stato è attivo per il periodo di tempo specificato e dove **autorenew** è true
+ - **Sottoscrizioni rinnovate in 30 giorni:** numero di sottoscrizioni in cui lo stato è attivo per il periodo di tempo specificato e dove **Autorenuovo** è true
  
- - **Sottoscrizioni attive**: sottoscrizioni in cui lo stato è **attivo**  
+ - **Sottoscrizioni attive:** sottoscrizioni in cui lo stato è **Attivo**  
  
- - **Sottoscrizioni sospese**: numero di sottoscrizioni sospese senza filtro data  
+ - **Sottoscrizioni sospese:** numero di sottoscrizioni sospese, non è disponibile alcun filtro di data  
 
-**Suddivisione del prodotto**
+**Scomposizione del prodotto**
   
- - **Conteggio delle sottoscrizioni**: primi 5 prodotti ordinati per sottoscrizioni vendute  
+ - **Numero di sottoscrizioni:** primi 5 prodotti ordinati in base alle sottoscrizioni vendute  
  
- - **Numero di licenze**: i primi 5 prodotti ordinati per licenze
+ - **Numero di licenze:** primi 5 prodotti per licenze ordinate vendute
 
 **Conservazione della sottoscrizione**
 
- - **Sottoscrizioni rinnovate**: sottoscrizioni rinnovate negli ultimi 30 giorni  
+ - **Sottoscrizioni rinnovate:** sottoscrizioni rinnovate negli ultimi 30 giorni  
 
-**Varianza sottoscrizione**  
- - **Nuove sottoscrizioni**: numero di nuove sottoscrizioni per il periodo di tempo, escluse le offerte di valutazione  
+**Varianza della sottoscrizione**  
+ - **Nuove sottoscrizioni:** conteggio delle nuove sottoscrizioni per il periodo di tempo, escluse le offerte di valutazione  
  
- - **Sottoscrizioni con provisioning**: numero di sottoscrizioni sottoposte a provisioning o sospese per data  
+ - **Sottoscrizioni di cui è stato deprovisioning:** numero di sottoscrizioni di cui è stato deprovisioning o sospeso in base alla data  
 
 **Sottoscrizioni sospese** 
  
- - Elenco di tutte le sottoscrizioni con stato **sospeso**, escluse le offerte di valutazione  
+ - Elenco di tutte le sottoscrizioni con stato **Sospeso**, escluse le offerte di valutazione  
   
 **Sottoscrizioni attive**
 
  - Elenco di tutte le sottoscrizioni attive  
 
-**Conversioni della sottoscrizione di valutazione**  
+**Conversioni delle sottoscrizioni di valutazione**  
 
- - **Conversione della versione di valutazione**: numero di tutte le sottoscrizioni **attive** in cui la versione di valutazione è stata pagata durante il periodo di tempo  
+ - **Conversione della versione** di valutazione: conteggio di tutte **le sottoscrizioni** attive in cui la versione di valutazione ha pagato la conversione durante il periodo di tempo specificato  
 
 **Sottoscrizioni di valutazione che terminano tra 30 giorni**  
 
- - Elenco delle versioni di valutazione avviate, in cui la data di fine è entro 30 giorni e non è presente alcuna data di inizio a pagamento associata alla sottoscrizione  
+ - Elenco delle versioni di valutazione avviate, in cui la data di fine è entro 30 giorni e alla sottoscrizione non è associata alcuna data di inizio a pagamento  
 
 
 

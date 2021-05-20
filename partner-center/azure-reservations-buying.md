@@ -1,6 +1,6 @@
 ---
 title: Acquistare Microsoft Azure prenotazioni per i clienti
-description: Scopri come acquistare o acquistare prenotazioni di Azure per conto dei tuoi clienti nel centro per i partner. Elenca inoltre i mercati in cui le prenotazioni di Azure non sono disponibili.
+description: Informazioni su come acquistare o acquistare prenotazioni di Azure per conto dei clienti in Partner Center. Elenca anche i mercati in cui le prenotazioni di Azure non sono disponibili.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,47 +9,41 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: cd8a78edab25b94e678aafd61ca96e61a625fb07
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534608"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149537"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare Microsoft Azure prenotazioni per conto dei clienti nel centro per i partner
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acquistare Microsoft Azure prenotazioni per conto dei clienti in Partner Center
 
-**Ruoli appropriati**
+**Ruoli appropriati:** agente di amministrazione | Amministratore globale | Agente del supporto | Agente di vendita | Amministratore gestione utenti
 
-- Agente amministratore
-- Amministratore globale
-- Agente di supporto tecnico
-- Agente di vendita
-- Amministratore gestione utenti
-
-Questo articolo illustra come acquistare o acquistare prenotazioni di Azure per conto dei clienti nel centro per i partner. Identifica inoltre i mercati in cui le prenotazioni di Azure non sono disponibili.
+Questo articolo illustra come acquistare o acquistare prenotazioni di Azure per conto dei clienti in Partner Center. Identifica anche i mercati in cui le prenotazioni di Azure non sono disponibili.
  
 > [!NOTE]
-> Questo articolo si applica solo ai partner del programma Cloud Solution Provider (CSP). I clienti che usano altri tipi di sottoscrizioni, ad esempio con pagamento in base al consumo, singoli contratti Microsoft o sottoscrizioni di Enterprise Agreement, dovranno invece leggere [la documentazione relativa alle prenotazioni di Azure](/azure/cost-management-billing/reservations).
+> Questo articolo si applica solo ai partner del Cloud Solution Provider (CSP). I clienti che usano altri tipi di sottoscrizioni (ad esempio, sottoscrizioni con pagamento in base al go, singole, Contratto del cliente Microsoft o Contratto Enterprise) devono invece leggere la documentazione sulle prenotazioni [di Azure.](/azure/cost-management-billing/reservations)
 
 ## <a name="before-you-begin"></a>Prima di iniziare
 
-Esaminare le informazioni importanti riportate di seguito prima di acquistare prenotazioni di Azure per conto dei clienti. Si vuole che i clienti possano acquistare le proprie prenotazioni di Azure da una sottoscrizione di Azure precedente acquistata per loro? Vedere [concedere ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations).
+Prima di acquistare prenotazioni di Azure per conto dei clienti, esaminare le informazioni importanti riportate di seguito. Si vuole che i clienti siano in grado di acquistare le proprie prenotazioni di Azure da una sottoscrizione di Azure precedente acquistata per loro? Vedere [Concedere ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure.](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)
 
-- Se e quando il cliente firma il nuovo contratto per i clienti Microsoft (vedere [confermare l'accettazione del contratto del cliente Microsoft](confirm-customer-agreement.md)), è necessario acquistare prenotazioni di Azure nel piano Azure. Per altre informazioni, vedere [acquistare un piano Azure](purchase-azure-plan.md).
+- Se e quando il cliente firma il nuovo Contratto del cliente Microsoft (vedere Confermare l'accettazione del Contratto del cliente Microsoft [da](confirm-customer-agreement.md)parte del cliente), è necessario acquistare prenotazioni di Azure nel piano di Azure. Per altre informazioni, vedere [Acquistare un piano di Azure.](purchase-azure-plan.md)
 
 - I clienti devono avere già una sottoscrizione di Azure attiva prima di poter acquistare prenotazioni per loro conto
   
-- I costi di sottoscrizione software, ad esempio il database SQL o il software SUSE Linux, non sono inclusi nei prezzi di prenotazione di Azure
+- I costi delle sottoscrizioni software, ad esempio il database SQL o il software SUSE Linux, non sono inclusi nei prezzi delle prenotazioni di Azure
 
-- I prezzi commerciali di Microsoft non includono le imposte, a meno che la località non sia il Brasile. Se la località è il Brasile, il prezzo commerciale per l'utente include le imposte appropriate
+- I prezzi commerciali di Microsoft non includono le imposte, a meno che la località non sia il Brasile. Se la località è il Brasile, il prezzo commerciale include le imposte appropriate
 
-- Gli agenti di vendita e help desk necessitano di accesso esplicito alla sottoscrizione di Azure in modo che possano acquistarla o gestirla nel portale di Azure e nelle richieste di supporto file, ad esempio per gli scambi e i rimborsi, per conto del cliente  
+- Gli agenti di vendita e help desk necessitano dell'accesso esplicito alla sottoscrizione di Azure in modo che possano acquistarla o gestirla nel portale di Azure e menti le richieste di supporto, inclusi scambi e rimborsi, per conto del cliente  
 
-- Se si è un provider indiretto e si acquistano prenotazioni di Azure tramite il portale di Azure, il partner di record (rivenditore indiretto) viene ereditato dalla sottoscrizione di Azure CSP selezionata.
+- Se si è un provider indiretto e si acquistano prenotazioni di Azure tramite il portale di Azure, il Partner of Record (rivenditore indiretto) viene ereditato dalla sottoscrizione Azure CSP selezionata.
 
-- Il partner di record per le prenotazioni di Azure non può essere modificato dopo l'acquisto. È possibile annullare la prenotazione esistente e acquistarne una nuova con il nuovo partner di record.
+- Il Partner of Record per le prenotazioni di Azure non può essere modificato dopo l'acquisto. È possibile annullare la prenotazione esistente e acquistarne una nuova con il nuovo Partner of Record.
 
-- Se un cliente vuole trasferire una sottoscrizione di Azure da diretta o da EA a CSP, le prenotazioni non vengono trasferite.
+- Se un cliente vuole trasferire una sottoscrizione di Azure da Direct o EA a CSP, le prenotazioni non vengono trasferite.
 
 ## <a name="azure-reservations-unavailable-markets"></a>Mercati non disponibili per prenotazioni di Azure
 
@@ -100,58 +94,58 @@ Esaminare le informazioni importanti riportate di seguito prima di acquistare pr
 
 ## <a name="purchase-azure-reservations"></a>Acquistare prenotazioni di Azure
 
-Attenersi alla procedura seguente per acquistare Microsoft Azure prenotazioni per conto dei clienti nel centro per i partner. Si vuole che i clienti possano acquistare le proprie prenotazioni di Azure da una sottoscrizione di Azure precedente acquistata per loro? Vedere [concedere ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure](give-customers-permission.md).
+Seguire questa procedura per acquistare Microsoft Azure prenotazioni per conto dei clienti in Partner Center. Si vuole che i clienti siano in grado di acquistare le proprie prenotazioni di Azure da una sottoscrizione di Azure precedente acquistata per loro? Vedere [Concedere ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure.](give-customers-permission.md)
 
-1. Selezionare **Customers** dal menu centro per i partner.  
+1. Selezionare **Clienti** dal menu Partner Center.  
 
-2. Nella pagina **clienti** individuare il cliente che desidera acquistare le prenotazioni di Azure, quindi selezionare la freccia rivolta verso il basso per espandere la riga del cliente.  
+2. Nella pagina **Clienti** trovare il cliente che vuole acquistare prenotazioni di Azure e quindi selezionare la freccia rivolta verso il basso per espandere la riga del cliente.  
 
 3. Seleziona **Aggiungi prodotti** e quindi **Azure**. 
 
     a. Scegli il segmento di mercato del cliente dall'elenco **Segmento**.
 
-    b. Scegliere **prenotazioni** dall'elenco **tipo** di prodotto.
+    b. Scegliere **Prenotazioni dall'elenco** **Tipo di** prodotto.
 
     c. Scegli il tipo di prenotazione desiderata dal cliente dall'elenco **Tipo di prenotazione**.
 
-4. Le prenotazioni di Azure devono essere associate a una sottoscrizione di Azure attiva. Scegliere la sottoscrizione del cliente a cui si vuole aggiungere prenotazioni di Azure dall'elenco di **sottoscrizioni clienti** . 
+4. Le prenotazioni di Azure devono essere associate a una sottoscrizione di Azure attiva. Scegliere la sottoscrizione del cliente a cui si vogliono aggiungere prenotazioni di Azure **dall'elenco Sottoscrizione** cliente. 
 
    >[!IMPORTANT]
-   >Se il cliente non dispone già di una sottoscrizione di Azure attiva, selezionare **Azure** per aggiungerne una. 
+   >Se il cliente non ha già una sottoscrizione di Azure attiva, selezionare **Azure** per aggiungerne una ora. 
 
-5. Usare i filtri per trovare le prenotazioni di Azure in macchine virtuali che soddisfano i requisiti del cliente.  
+5. Usare i filtri per trovare le prenotazioni di Azure nelle macchine virtuali che soddisfano i requisiti del cliente.  
 
-6. Dopo aver individuato le prenotazioni da acquistare, immettere il numero di istanze riservate che il cliente dovrà avere in **quantità** , quindi selezionare **Aggiungi al carrello**.  
+6. Dopo aver trovato le prenotazioni da acquistare, immettere il numero di istanze riservate necessarie per il cliente in **Quantity** e quindi selezionare **Aggiungi al carrello.**  
 
 7. Ripetere i passaggi 5 e 6 fino a quando non sono stati aggiunti tutti gli elementi necessari all'ordine. Seleziona **Rivedi** per verificare che il tuo ordine sia corretto.  
 
-8. Nella pagina **verifica ordini** è possibile: 
+8. Nella **pagina Rivedi gli** ordini è possibile: 
 
     - Verificare o modificare la quantità di istanze riservate.
 
-    - Selezionare l'ambito della prenotazione. L'ambito della prenotazione può coprire una sottoscrizione o più sottoscrizioni (ambito condiviso). Se la prenotazione viene portata a una singola sottoscrizione, lo sconto per la prenotazione viene applicato solo a questa sottoscrizione. Se si seleziona condiviso, lo sconto relativo alla prenotazione viene applicato a tutte le sottoscrizioni all'interno del contesto di fatturazione del cliente. 
+    - Selezionare l'ambito della prenotazione. L'ambito della prenotazione può coprire una o più sottoscrizioni (ambito condiviso). Se si applica l'ambito della prenotazione a una singola sottoscrizione, lo sconto per la prenotazione viene applicato solo a questa sottoscrizione. Se si seleziona condiviso, lo sconto per la prenotazione viene applicato a tutte le sottoscrizioni all'interno del contesto di fatturazione del cliente. 
 
       >[!NOTE] 
-      >Se si sceglie di limitare l'ambito della prenotazione a una singola sottoscrizione di Azure, potrebbe essere necessario aumentare la quota vCPU della sottoscrizione. Per aumentare la quota vCPU della sottoscrizione, è necessario creare una richiesta di supporto nella portale di Azure. Per creare la richiesta, seguire le istruzioni riportate [in questo argomento](/azure/azure-supportability/resource-manager-core-quotas-request) . 
+      >Se si sceglie di limitare l'ambito della prenotazione a una singola sottoscrizione di Azure, potrebbe essere necessario aumentare la quota di vCPU della sottoscrizione. Per aumentare la quota di vCPU della sottoscrizione, è necessario creare una richiesta di supporto nel portale di Azure. Seguire le istruzioni [in questo argomento](/azure/azure-supportability/resource-manager-core-quotas-request) per creare la richiesta. 
 
       >[!NOTE]   
-      >Se il cliente si trova nel piano Azure, l' **ambito**  verrà impostato su **condiviso**. 
+      >Se il cliente è nell'ambito del piano di Azure, **l'ambito** verrà impostato su **Condiviso.** 
 
-    - Se si è un partner del provider, selezionare il rivenditore che si desidera associare al prodotto.
+    - Se si è un partner provider, selezionare il rivenditore da associare al prodotto.
     
-    - Se la prenotazione di Azure supporta l'opzione del piano di fatturazione, è possibile selezionare la frequenza di fatturazione come mensile dal menu a discesa. 
-    - Se la prenotazione di Azure non supporta l'opzione del piano di fatturazione, per impostazione predefinita la frequenza di fatturazione è la fatturazione. 
+    - Se la prenotazione di Azure supporta l'opzione Piano di fatturazione, è possibile selezionare la frequenza di fatturazione mensile dal menu a discesa. 
+    - Se la prenotazione di Azure non supporta l'opzione Piano di fatturazione, per impostazione predefinita la frequenza di fatturazione viene impostata sulla fatturazione una sola volta. 
 
-9. Selezionare **Acquista** per acquistare l'ordine. I dettagli dell'ordine, incluso il numero di ordine, vengono visualizzati nella pagina **conferma** . Seleziona **Fatto** per passare alla pagina **Cronologia ordini**. 
+9. Selezionare **Acquista per** acquistare l'ordine. I dettagli dell'ordine, incluso il numero di ordine, vengono visualizzati nella **pagina Conferma.** Seleziona **Fatto** per passare alla pagina **Cronologia ordini**. 
 
-10. Per gestire la prenotazione del cliente nella portale di Azure, trovare il cliente nella pagina **clienti** , quindi selezionare la freccia in giù per espandere la riga del cliente. Selezionare **portale di gestione di Microsoft Azure** per aprire il record del cliente nella portale di Azure.
+10. Per gestire la prenotazione del cliente nell'portale di Azure,  trovare il cliente nella pagina Clienti e quindi selezionare la freccia rivolta verso il basso per espandere la riga del cliente. Selezionare **portale di gestione di Microsoft Azure** per aprire il record del cliente nella portale di Azure.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
 |**Per informazioni su**   |**Leggi**    |
 |:-----------------------------|:-----------------|
-|Panoramica sulle prenotazioni di Azure in CSP  | [Vendere Microsoft Azure istanze riservate](azure-reservations.md) |
-|Gestione delle prenotazioni di Azure nel centro per i partner | [Gestione delle prenotazioni di Azure nel centro per i partner](azure-reservations-manage.md)
-|Determinare le dimensioni corrette della macchina virtuale e verificare l'utilizzo della macchina virtuale del cliente   |[Dimensionamento delle VM per l'utilizzo massimo della prenotazione di Azure](azure-usage.md)   |
-|Acquisto di prenotazioni di Azure tramite l'API del centro per i partner | [Acquistare istanze di VM riservate di Azure](/partner-center/develop/purchase-azure-reservations) nella documentazione per gli sviluppatori del centro per i partner   |
-|Concessione ai clienti dell'autorizzazione per l'acquisto di prenotazioni di Azure  | [Concedi ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure](give-customers-permission.md)  |
+|Panoramica delle prenotazioni di Azure in CSP  | [Vendere Microsoft Azure istanze riservate](azure-reservations.md) |
+|Gestione delle prenotazioni di Azure in Partner Center | [Gestione delle prenotazioni di Azure in Partner Center](azure-reservations-manage.md)
+|Determinare le dimensioni corrette della macchina virtuale e verificare l'utilizzo della macchina virtuale del cliente   |[Ridimensionamento delle macchine virtuali per l'utilizzo massimo delle prenotazioni di Azure](azure-usage.md)   |
+|Acquisto di prenotazioni di Azure tramite l'API Partner Center azure | [Acquistare istanze di macchine virtuali riservate di Azure](/partner-center/develop/purchase-azure-reservations) nella documentazione Partner Center per sviluppatori   |
+|Concedere ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure  | [Concedere ai clienti l'autorizzazione per acquistare le proprie prenotazioni di Azure](give-customers-permission.md)  |

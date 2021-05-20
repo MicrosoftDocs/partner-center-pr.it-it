@@ -9,20 +9,16 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 757383ee264e58e7b4dc8ffefafe213cb49acb79
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98925010"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149792"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nuova esperienza commerciale in CSP - Fatturazione di Azure 
 
-**Ruoli appropriati**
-
-- Agente amministratore
-- Amministratore fatturazione
-- Amministratore globale
+**Ruoli appropriati:** Agente di amministrazione | Gestione della fatturazione | Amministratore globale
 
 Questo articolo illustra come accedere e ottenere informazioni sulla struttura dei file di fatturazione e di riconciliazione correlata alla fatturazione per il piano di Azure. La fatturazione in base al piano di Azure è un'esperienza semplificata che prevede l'uso di una singola data di fatturazione allineata e di un periodo di fatturazione basato sul mese di calendario.
 
@@ -36,7 +32,7 @@ Questo articolo illustra come accedere e ottenere informazioni sulla struttura d
 
 - **Termine di pagamento della fattura**: netto a 60 giorni.
 
-- **Valuta fattura**: a partire dal 28 gennaio 2021, i partner dell'area UE/EFTA e del Regno Unito con nuovi clienti e clienti CSP esistenti che acquistano nuove offerte commerciali per la prima volta, i cui tenant sono stati creati prima dell'11 maggio 2020, verranno fatturati per tali acquisti nella valuta della località partner. I partner situati al di fuori dell'area UE/EFTA e del Regno Unito continueranno a essere fatturati in valuta località partner.
+- Valuta della **fattura:** a partire dal 28 gennaio 2021, i partner dell'area UE/EFTA e Regno Unito che hanno nuovi clienti e clienti CSP esistenti che acquistano nuove offerte commerciali per la prima volta i cui tenant sono stati creati prima dell'11 maggio 2020 verranno fatturati per gli acquisti nella valuta della località partner. I partner che si trovano al di fuori dell'area UE/EFTA e Regno Unito continueranno a essere fatturati nella valuta della località partner.
 
 - **Incentivi per i partner**: pagamento a 45 giorni dalla fine del mese della fattura.
 
@@ -140,7 +136,7 @@ Per accedere alla fattura e al file di riconciliazione:
 
 I prezzi per i servizi di Azure forniti tramite un piano di Azure verranno addebitati in USD e fatturati in base alla valuta assegnata al paese del cliente. Se la valuta di fatturazione è diversa da USD, il tasso di cambio (FX) usato verrà visualizzato nell'ultima pagina della fattura. I tassi di cambio vengono determinati mensilmente e applicati alla fattura successiva. Per un elenco completo delle valute dei paesi, vedi la [nuova matrice di disponibilità delle offerte commerciali nelle varie aree geografiche e valute dei clienti](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Microsoft segue il London Stock Exchange per la conversione. Viene usato il tasso di cambio, che è uguale al tasso di cambio acquisito nell'ultimo secondo dell'ultimo giorno lavorativo del mese per la borsa di Londra. I tassi di cambio verranno aggiornati e saranno disponibili il giorno precedente il primo giorno del mese in cui verranno applicati.
+Microsoft segue il London Stock Exchange per la conversione. Si usa il tasso di cambio, che è uguale al tasso di cambio acquisito nell'ultimo secondo dell'ultimo giorno lavorativo del mese alla Borsa di Londra. I tassi di cambio verranno aggiornati e saranno disponibili il giorno precedente il primo giorno del mese in cui verranno applicati.
 
 ## <a name="azure-reservations"></a>Prenotazioni di Azure
 

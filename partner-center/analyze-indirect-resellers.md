@@ -1,6 +1,6 @@
 ---
 title: Analizzare le prestazioni dei rivenditori indiretti
-description: Usare Analytics per apprendere il modo in cui i rivenditori indiretti eseguono, sia i successi che le aree che potrebbero richiedere maggiore attenzione.
+description: Usare l'analisi per informazioni sul funzionamento dei rivenditori indiretti, sia per i risultati che per le aree che potrebbero richiedere maggiore attenzione.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: shganesh
@@ -9,73 +9,70 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 50a527f8fd3690ff73b198e572b356706889e72b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474054"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150183"
 ---
-# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Usare Analytics per analizzare le prestazioni dei rivenditori indiretti
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Usare l'analisi per analizzare le prestazioni dei rivenditori indiretti
 
-**Ruoli appropriati**
-
-- Amministratore globale
-- Amministratore gestione utenti
+**Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti
 
 
-I dati prendono le decisioni aziendali. Usare le metriche nella pagina di **analisi dei rivenditori** per identificare i successi, i riconoscimenti indiretti dei rivenditori e le aree che richiedono maggiore attenzione. Utilizzare queste informazioni durante la pianificazione di nuovi obiettivi aziendali.
+I dati determinano le decisioni aziendali. Usare le metriche nella pagina **Analisi rivenditori** per identificare i risultati, i risultati dei rivenditori indiretti e le aree che necessitano di maggiore attenzione. Usare queste informazioni durante la pianificazione di nuovi obiettivi aziendali.
 
 > [!NOTE]
-> Indirect Reseller Analytics è disponibile solo per i provider indiretti nel programma Cloud Solution Provider.
+> L'analisi dei rivenditori indiretti è disponibile solo per i provider indiretti nel Cloud Solution Provider programma.
 
-## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Tipi di metriche di Reseller Analytics che è possibile visualizzare
+## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Tipi di metriche di analisi dei rivenditori che è possibile visualizzare
 
-Vengono monitorate le metriche seguenti:
+Vengono verificate le metriche seguenti:
 
 **Summary**  
- - **Totale rivenditori**: numero di rivenditori attivi nell'ultimo giorno della sottoscrizione  
- - **Nuovi rivenditori**: numero di nuovi rivenditori indiretti per il periodo di tempo specificato  
- - **Rivenditori attivi**: numero di rivenditori indiretti in cui MPNID è almeno 1 sottoscrizione e in cui lo stato della sottoscrizione non viene sottoposto a deprovisioning  
- - **Transoperating Resellers**: numero di rivenditori indiretti con una sottoscrizione venduta nel periodo di tempo specificato  
+ - **Totale rivenditori:** numero di rivenditori attivi nell'ultimo giorno della sottoscrizione  
+ - **Nuovi rivenditori:** numero di nuovi rivenditori indiretti per il periodo di tempo specificato  
+ - **Rivenditori attivi:** numero di rivenditori indiretti in cui MPNID è almeno 1 sottoscrizione e in cui lo stato della sottoscrizione non viene deprovisioning  
+ - **Rivenditori transazione:** numero di rivenditori indiretti con una sottoscrizione venduta nel periodo di tempo specificato  
 
 **Rivenditori per mercato**  
  - Totale rivenditori per posizione geografica  
 
-**Rivenditori principali per sottoscrizioni vendute**
+**Principali rivenditori per sottoscrizioni vendute**
  - Elenco di rivenditori, ordinati in base al numero di sottoscrizioni vendute  
 
-**Principali prodotti per numero di sottoscrizioni**  
- - **Dynamics 365**: prodotti Dynamics 365 ordinati per sottoscrizioni vendute  
- - **EMS**: numero di sottoscrizioni di Enterprise Management Services vendute  
- - **Microsoft 365**: numero di sottoscrizioni Microsoft 365 vendute  
- - **Office 365**: prodotti Office 365 ordinati per sottoscrizioni vendute  
+**Numero di prodotti principali per sottoscrizione**  
+ - **Dynamics 365:** prodotti Dynamics 365 ordinati in base alle sottoscrizioni vendute  
+ - **EMS:** numero di sottoscrizioni di Enterprise Management Services vendute  
+ - **Microsoft 365**: Numero di sottoscrizioni Microsoft 365 vendute  
+ - **Office 365:** prodotti Office 365 ordinati in base alle sottoscrizioni vendute  
 
 **Nuove sottoscrizioni**  
  - Numero di nuove sottoscrizioni aggiunte per data  
 
-**Varianza sottoscrizione**  
- - **Nuove sottoscrizioni**: numero di nuove sottoscrizioni aggiunte per data  
- - **Sottoscrizioni con provisioning**: numero di sottoscrizioni sottoposte a provisioning o sospese per data  
+**Varianza della sottoscrizione**  
+ - **Nuove sottoscrizioni:** numero di nuove sottoscrizioni aggiunte per data  
+ - **Sottoscrizioni di cui è stato deprovisioning:** numero di sottoscrizioni di cui è stato deprovisioning o sospese in base alla data  
 
-**Dettagli nuovo rivenditore**  
- - **Nome rivenditore**: nomi dei rivenditori indiretti  
- - **Località**: mercati in cui operano i rivenditori indiretti  
- - **Sottoscrizioni**: numero di sottoscrizioni vendute dal rivenditore  
- - **Licenze**: numero totale di licenze vendute dal rivenditore tra tutte le sottoscrizioni  
+**Dettagli del nuovo rivenditore**  
+ - **Nome rivenditore:** nomi dei rivenditori indiretti  
+ - **Località:** mercati in cui operano i rivenditori indiretti  
+ - **Sottoscrizioni:** numero di sottoscrizioni vendute dal rivenditore  
+ - **Licenze:** numero totale di licenze vendute dal rivenditore in tutte le sottoscrizioni  
 
-**Stato firmato MPA**
+**Stato della firma MPA**
 
-In questa sezione viene fornito lo stato firmato MPA dei rivenditori indiretti CSP.
+Questa sezione fornisce lo stato dello stato firmato MPA dei rivenditori indiretti CSP.
 
- - **Nome rivenditore**: nome del rivenditore INdiretto CSP
- - **ID MPN**: ID MPN del rivenditore indiretto
- - **Region**: area in cui opera il rivenditore indiretto
- - **Stato** di esame MPN: stato di vagliatura del rivenditore indiretto
- - **Stato firmato MPa**: stato di firma MPa per il rivenditore indiretto
+ - **Nome rivenditore:** nome del rivenditore indiretto CSP
+ - **ID MPN:** ID MPN del rivenditore indiretto
+ - **Area:** area in cui opera il rivenditore indiretto
+ - **Stato di controllo MPN:** stato di controllo del rivenditore indiretto
+ - **Stato della firma MPA:** stato di firma MPA per il rivenditore indiretto
 
-Fare clic sull'icona di download nel grafico per scaricare i dati di stato con firma MPA con dimensioni aggiuntive
+Fare clic sull'icona di download nel grafico per scaricare i dati di stato firmati MPA con dimensioni aggiuntive
   
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Analizza le sottoscrizioni e le licenze per promuovere le decisioni aziendali](analyze-subscriptions-licenses.md)
+- [Analizzare le sottoscrizioni e le licenze per facilitare le decisioni aziendali](analyze-subscriptions-licenses.md)

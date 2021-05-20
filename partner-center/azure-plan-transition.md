@@ -9,23 +9,16 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
-ms.translationtype: HT
+ms.openlocfilehash: 37b77e434d20a2efe4a298f773f0356bbb958ac2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534812"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149588"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Transizione dei clienti al piano di Azure dalle offerte esistenti di CSP per Azure
 
-**Ruoli appropriati**
-
-- Agente amministratore
-- Amministratore fatturazione
-- Amministratore globale
-- Agente di supporto tecnico
-- Agente di vendita
-- Amministratore gestione utenti
+**Ruoli appropriati:** Agente di amministrazione | Amministratore della fatturazione | Amministratore globale | Supporto per l'agente | Agente di vendita | Amministratore di gestione utenti
 
 Questo articolo descrive in che modo i partner CSP possono usare il Centro per i partner per spostare i clienti dalle offerte esistenti di CSP per Azure ai servizi di Azure nel piano di Azure. I provider indiretti e i partner di fatturazione diretti possono passare alla nuova esperienza commerciale disponibile nel programma Microsoft Cloud Solution Provider (CSP) per Azure. I rivenditori indiretti dovranno passare attraverso i loro provider indiretti. I clienti avranno una soluzione semplificata per l'acquisto di servizi cloud dai partner, dai venditori Microsoft o direttamente sul Web.
 

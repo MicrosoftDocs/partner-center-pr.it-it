@@ -9,19 +9,16 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
-ms.translationtype: HT
+ms.openlocfilehash: a06a38ef9d96b4c2a1e95328d510eb2fd71ff0e3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534795"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149843"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Creare un account aziendale per collegare l'azienda al Centro per i partner
 
-**Ruoli appropriati**
-
-- Amministratore globale
-- Amministratore gestione utenti
+**Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti
 
 ## <a name="why-you-need-a-work-account"></a>Perché è necessario un account aziendale
 

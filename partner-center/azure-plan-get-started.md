@@ -9,19 +9,16 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
-ms.translationtype: HT
+ms.openlocfilehash: 58feabdefb02660559c69f61190070310768b947
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534914"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149656"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Inizia a usare tariffe con pagamento in base al consumo con il piano di Azure
 
-**Ruoli appropriati**
-
-- Agente amministratore
-- Agente di vendita
+**Ruoli appropriati:** agente di amministrazione | Agente di vendita
 
 
 Microsoft ha introdotto una nuova esperienza commerciale nel Centro per i partner.  Con questa nuova esperienza commerciale e in base al Contratto Microsoft Partner, i partner potranno accedere ai servizi di Azure a tariffe con pagamento in base al consumo per i clienti.

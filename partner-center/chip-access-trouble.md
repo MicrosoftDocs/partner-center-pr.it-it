@@ -2,39 +2,37 @@
 title: Problemi di accesso a CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Leggere queste linee guida per risolvere i problemi relativi all'uso dello strumento Channel incentives Platform (CHIP).
+description: Leggere queste linee guida per risolvere i problemi relativi all'uso dello strumento Channel Incentives Platform (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87a39479d8a567759356e1b101fdab83a2fa0d94
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: eec04bb75a1c8b2979a6d543770fd31d21f607c2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570604"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149061"
 ---
-# <a name="troubleshoot-issues-with-accessing-chip"></a>Risolvere i problemi relativi all'accesso al CHIP
+# <a name="troubleshoot-issues-with-accessing-chip"></a>Risolvere i problemi di accesso a CHIP
 
-**Ruoli appropriati**
-
-- Contatto principale o amministratore del programma
+**Ruoli appropriati:** contatto principale o amministratore del programma
 
 >[!NOTE]
 >La piattaforma CHIP verrà ritirata alla fine del 2021.
 
-Se non si è il contatto principale o il PPA (amministratore del programma primario), contattare il contatto principale o il PPA (amministratore del programma primario) per l'accesso. Se si è la PPA corrente, assicurarsi che la società sia registrata e registrata in quanto l'accesso è associato allo stato della società.
+Se non si è il contatto principale o PPA (Primary Program Administrator), contattare il contatto principale o PPA (Primary Program Administrator) per l'accesso. Se si è il PPA corrente, assicurarsi che l'azienda sia registrata e registrata perché l'accesso è associato allo stato dell'azienda.
 
-Se si è il contatto principale o il PPA (amministratore del programma primario), è necessario avere accesso al CHIP perché tutte le notifiche per la registrazione vengono inviate al contatto principale corrente o al PPA (amministratore del programma primario). Questo accesso continua per ogni periodo dopo il periodo di registrazione iniziale.
+Se si è il contatto principale o PPA (Primary Program Administrator), è necessario avere accesso a CHIP perché tutte le notifiche per la registrazione vengono inviate al contatto principale corrente o al PPA (Primary Program Administrator). Questo accesso continua per ogni periodo dopo il periodo di registrazione iniziale.
 
-## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Procedura per la risoluzione dei problemi di accesso al CHIP se si dispone di accesso precedente
+## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Procedura di risoluzione dei problemi per l'accesso a CHIP se si aveva accesso in precedenza
 
 1. Cancellare tutti i cookie e aprire CHIP in un browser privato.
-1. Selezionare **Impostazioni visualizzazione compatibilità** nel browser. Il CHIP dovrebbe essere già elencato in Microsoft.com. in caso contrario, aggiungere il sito Web.
+1. Selezionare **Visualizzazione Compatibilità impostazioni** nel browser. CHIP dovrebbe essere già elencato in Microsoft.com, altrimenti aggiungere il sito Web.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Esplorazione della piattaforma del canale incentives (CHIP)](chip-intro.md)
-- [Supporto tecnico](report-problems-with-partner-center.md)
+- [Esplorazione di Channel Incentives Platform (CHIP)](chip-intro.md)
+- [Supporto](report-problems-with-partner-center.md)

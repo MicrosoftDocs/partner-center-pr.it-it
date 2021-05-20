@@ -9,29 +9,24 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 27bdb4aab3c8092b1ffc458e4da29250e2dbf23e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 03880b4ae9483b4b49410364eabdafdccbcabcdc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756729"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149197"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Panoramica: Principali articoli sulla fatturazione e sulle imposte nel Centro per i partner
 
-**Ruoli appropriati**
+**Ruoli appropriati:** Agente di amministrazione | Amministratore della fatturazione | Amministratore globale | Agente di vendita
 
-- Agente amministratore
-- Amministratore fatturazione
-- Amministratore globale
-- Agente di vendita
-
-Questo articolo fornisce collegamenti a informazioni sugli argomenti relativi a fatturazione e imposte nel centro per i partner, incluse le risorse di fatturazione, le fatture, la fatturazione CSP e le imposte.
+Questo articolo fornisce collegamenti a informazioni su fatturazione e argomenti fiscali in Partner Center risorse di fatturazione, fatture, fatturazione CSP e imposte.
 
 
 | Argomento | Description |
 | ----- | ----------- |
 | [Nozioni di base sulla fatturazione](billing-basics.md) | Nozioni di base sulla fatturazione nel Centro per i partner (inclusi i pagamenti, le fatture e i file di riconciliazione). |
-| [Tipi di fatturazione](billing-different-types.md) | Spiegazione dei diversi tipi di fatturazione nel Centro per i partner. |
+| [Tipi di fatturazione](./billing-basics.md) | Spiegazione dei diversi tipi di fatturazione nel Centro per i partner. |
 | [Comprendere la fattura](read-your-bill.md) | Come leggere e comprendere una fattura del Centro per i partner. |
 | [Versioni di valutazione gratuite](offer-your-customers-trials-of-microsoft-products.md) | Come offrire versioni di valutazione gratuite ai clienti e come vengono fatturate. |
 | [File di riconciliazione](use-the-reconciliation-files.md) | Come leggere e usare un file di riconciliazione per le voci. |

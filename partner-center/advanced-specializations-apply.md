@@ -1,66 +1,63 @@
 ---
-title: Applica le specializzazioni avanzate
+title: Richiedere specializzazioni avanzate
 ms.topic: how-to
 ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Potenzia il tuo profilo aziendale nella directory dei partner Microsoft. Informazioni su come usare il centro per i partner per richiedere e ottenere specializzazioni avanzate.
+description: Rafforzare il profilo di business nella directory dei partner Microsoft. Informazioni su come usare Partner Center per richiedere e ottenere specializzazioni avanzate.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 44574f49d49a8300c65432463de16841af483ca4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557784"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150506"
 ---
-# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Usare il centro per i partner per le specializzazioni avanzate e controllarne lo stato
+# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Usare Partner Center per richiedere specializzazioni avanzate e controllarne lo stato
 
-**Ruoli appropriati**
+**Ruoli appropriati:** amministratore globale | Amministratore account
 
-- Amministratore globale
-- Amministratore degli account
+Questo articolo descrive come usare il dashboard Partner Center per richiedere una specializzazione [avanzata,](advanced-specializations.md)controllare lo stato di avanzamento e completare i passaggi e le convalide necessari. Si vedranno anche esempi di uso Partner Center per ottenere determinate specializzazioni avanzate che richiedono un controllo o riferimenti ai clienti.
 
-Questo articolo descrive come usare il dashboard del centro per i partner per richiedere una [specializzazione avanzata](advanced-specializations.md), verificare lo stato di avanzamento e completare i passaggi e le convalide necessari. Vengono inoltre illustrati alcuni esempi di utilizzo del centro per i partner per ottenere specializzazioni avanzate che richiedono riferimenti a controlli o clienti.
+Per altre informazioni sui vantaggi delle specializzazioni avanzate e sui relativi requisiti specifici, [Microsoft Partner Network specializzazioni avanzate](https://partner.microsoft.com/membership/advanced-specialization).
 
-Per altre informazioni sui vantaggi delle specializzazioni avanzate e sui requisiti specifici, vedere [Microsoft Partner Network specializzazioni avanzate](https://partner.microsoft.com/membership/advanced-specialization).
+## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Usare Partner Center per richiedere specializzazioni avanzate o controllarne lo stato
 
-## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Usare il centro per i partner per le specializzazioni avanzate o per verificarne lo stato
+Per essere idonei a una specializzazione avanzata, è prima necessario soddisfare determinati prerequisiti, ad esempio una [competenza](https://partner.microsoft.com/membership/competencies) Gold in un'area correlata. È quindi necessario applicare in Partner Center completare i passaggi chiave, i requisiti e le convalide Microsoft per la specializzazione avanzata.
 
-Per qualificarsi per una specializzazione avanzata, è necessario innanzitutto soddisfare determinati prerequisiti, ad esempio una [competenza](https://partner.microsoft.com/membership/competencies) Gold in un'area correlata. Sarà quindi necessario applicare il centro per i partner e completare i passaggi chiave, i requisiti e le convalide Microsoft per la specializzazione avanzata.
+Gran parte del processo è disponibile all'interno Partner Center dashboard. Tuttavia, solo gli utenti con un determinato Partner Center [ruolo possono](permissions-overview.md) accedere a questa Partner Center area.
 
-Gran parte del processo è disponibile nel dashboard del centro per i partner. Tuttavia, solo gli utenti con un determinato [ruolo](permissions-overview.md) di centro partner possono accedere a questa area del centro per i partner.
+Per accedere a quest'area, è necessario disporre del ruolo di amministratore **dell'account MPN** o amministratore **globale** per l'account partner Microsoft dell'organizzazione.
 
-Per accedere a quest'area, è necessario disporre del ruolo di **amministratore dell'account MPN** o **amministratore globale** per l'account partner Microsoft dell'organizzazione.
-
-### <a name="follow-these-steps-to-access-this-area"></a>Per accedere all'area, seguire questa procedura:
+### <a name="follow-these-steps-to-access-this-area"></a>Per accedere a quest'area, seguire questa procedura:
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.
 
-2. Selezionare la sezione **MPN** del menu centro per i partner, seguita da **adv. specializzazioni**. Il menu si espande per mostrare tutte le specializzazioni avanzate disponibili.
+2. Selezionare la **sezione MPN** del menu Partner Center, quindi **Adv. Specializations (Specializzazioni annunci).** Il menu si espande per visualizzare tutte le specializzazioni avanzate disponibili.
 
-3. Per visualizzare i dettagli, selezionare il nome della specializzazione avanzata. Vengono visualizzati i requisiti e i passaggi specifici, lo stato corrente e i collegamenti a ulteriori passaggi o risorse.
+3. Per visualizzare i dettagli, selezionare il nome della specializzazione avanzata. Verranno visualizzati requisiti e passaggi specifici, lo stato corrente e collegamenti ad altri passaggi o risorse.
 
-   È possibile tornare a questa area del centro per i partner per visualizzare lo stato corrente verso il raggiungimento di una specializzazione avanzata.
+   È possibile tornare a questa area di Partner Center per visualizzare lo stato corrente verso il raggiungimento di qualsiasi specializzazione avanzata.
 
-4. Una volta completati tutti i requisiti per una specializzazione avanzata, controllare di nuovo quest'area del centro partner per verificare se lo stato è stato modificato in **attivo** per una specializzazione avanzata.
+4. Dopo aver completato tutti i requisiti per una specializzazione avanzata, controllare nuovamente questa  area di Partner Center per verificare se lo stato è stato modificato in Attivo per una specializzazione avanzata specifica.
 
-   Lo stato attivo Abilita automaticamente un tag di specializzazione avanzato nel **profilo di business**. Questo profilo sarà quindi visibile a tutti i clienti che tentano di [trovare un provider di soluzioni](https://www.microsoft.com/solution-providers/home).
+   Lo stato attivo abilita automaticamente un tag di specializzazione avanzata nel **profilo aziendale.** Questo profilo sarà quindi visibile a tutti i clienti che tentano di [trovare un provider di soluzioni](https://www.microsoft.com/solution-providers/home).
 
-## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Usare il centro per pianificare un controllo o includere i riferimenti dei clienti per specializzazioni avanzate
+## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Usare Partner Center per pianificare un controllo o includere i riferimenti dei clienti per le specializzazioni avanzate
 
-In generale, ogni specializzazione avanzata richiede che sia stata ottenuta una competenza Gold allineata insieme ad altri prerequisiti personalizzati che siano univoci per la specializzazione avanzata. Alcune specializzazioni avanzate possono anche richiedere:
+In generale, ogni specializzazione avanzata richiede di aver ottenuto una competenza gold allineata insieme ad altri prerequisiti personalizzati univoci per tale specializzazione avanzata. Alcune specializzazioni avanzate possono anche essere necessarie per:
 
 - Pianificare un controllo con un revisore di terze parti
-- Fornire riferimenti ai clienti
+- Fornire i riferimenti dei clienti
 
-Entrambe le attività possono essere eseguite nel centro per i partner.
+Entrambe le attività possono essere eseguite in Partner Center.
 
 Le specializzazioni avanzate che richiedono un controllo con un revisore di terze parti includono:
 
-- Analisi su Microsoft Azure
+- Analisi in Microsoft Azure
 - Migrazione del data warehouse a Microsoft Azure
 - Kubernetes in Microsoft Azure
 - Migrazione del database open source e di Linux a Microsoft Azure
@@ -78,49 +75,49 @@ Le specializzazioni avanzate che richiedono riferimenti ai clienti includono:
 - Gestione delle identità e dell'accesso
 - Threat Protection
 
-Le sezioni seguenti descrivono come pianificare un controllo o fornire riferimenti ai clienti nel centro per i partner.
+Le sezioni seguenti descrivono come pianificare un controllo o fornire riferimenti ai clienti Partner Center.
 
 ## <a name="schedule-an-audit-with-a-third-party-auditor"></a>Pianificare un controllo con un revisore di terze parti
 
-Oltre ai propri prerequisiti, alcune specializzazioni avanzate necessitano anche di passare un *controllo pianificato*. Vedere l'elenco precedente di specializzazioni avanzate che richiedono un controllo.
+Oltre ai propri prerequisiti, alcune specializzazioni avanzate devono anche superare un *controllo pianificato.* Vedere l'elenco precedente delle specializzazioni avanzate che richiedono un controllo.
 
-Quindi, attenersi alla procedura seguente per pianificare un controllo nel centro per i partner:
-
-1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.
-
-2. Selezionare la sezione **MPN** del menu centro per i partner, seguita da **adv. specializzazioni**. Il menu si espande per mostrare tutte le specializzazioni avanzate disponibili.
-
-3. Selezionare il nome della specializzazione avanzata che richiede la pianificazione di un controllo. Si consentirà, ad esempio, di selezionare la **modernizzazione delle applicazioni Web per Microsoft Azure**. Viene visualizzata la pagina Prerequisiti per questa specializzazione avanzata.
-
-   :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Pagina dei prerequisiti di esempio che mostra i requisiti per ottenere una specializzazione avanzata.":::
-
-4. Una volta soddisfatti tutti i prerequisiti per questa specializzazione avanzata, sarà possibile selezionare il pulsante **Pianifica controllo** da questa pagina.
-
-   - Fino a quando non vengono soddisfatti tutti i prerequisiti mostrati in questa pagina, lo stato rimarrà **non avviato**. Anche il pulsante **Pianifica controllo** rimarrà disabilitato. 
-   - Una volta soddisfatti tutti i prerequisiti insieme al controllo, lo stato verrà modificato in **attivo**.
-
-## <a name="provide-customer-references-in-partner-center"></a>Fornire riferimenti ai clienti nel centro per i partner
-
-Oltre ai propri prerequisiti, alcune specializzazioni avanzate necessitano anche di fornire riferimenti ai *clienti*. Vedere l'elenco precedente di specializzazioni avanzate che richiedono riferimenti ai clienti.
-
-Quindi, attenersi alla seguente procedura per fornire riferimenti ai clienti nel centro per i partner:
+Seguire quindi questa procedura per pianificare un controllo in Partner Center:
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.
 
-2. Selezionare la sezione **MPN** del menu centro per i partner, seguita da **adv. specializzazioni**. Il menu si espande per mostrare tutte le specializzazioni avanzate disponibili.
+2. Selezionare la **sezione MPN** del menu Partner Center, seguita da **Adv. Specializations**. Il menu si espande per visualizzare tutte le specializzazioni avanzate disponibili.
 
-3. Selezionare il nome della specializzazione avanzata che richiede di fornire riferimenti ai clienti. Si immagini, ad esempio, di selezionare **riunioni e sale riunioni per Microsoft teams**.
+3. Selezionare il nome della specializzazione avanzata che richiede la pianificazione di un controllo. Si supponga, ad esempio, di selezionare **Modernizzazione delle applicazioni Web per Microsoft Azure**. Viene quindi visualizzata la pagina dei prerequisiti per questa specializzazione avanzata.
 
-   Viene visualizzata la pagina Prerequisiti per questa specializzazione avanzata. Oltre alla competenza Gold, alle certificazioni e ai requisiti di prestazioni, questa specializzazione avanzata richiede anche di fornire tre riferimenti ai clienti che dimostrano la possibilità di distribuire e gestire.
+   :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Pagina dei prerequisiti di esempio che mostra i requisiti per ottenere una specializzazione avanzata specifica.":::
 
-   :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Pagina dei prerequisiti di specializzazioni avanzate di esempio che richiede riferimenti ai clienti.":::
+4. Una volta soddisfatti tutti i prerequisiti per questa specializzazione avanzata, sarà possibile selezionare il pulsante **Pianifica** controllo da questa pagina.
 
-4. Finché non si soddisfano tutti i prerequisiti mostrati in questa pagina e si forniscono riferimenti ai clienti, lo stato rimarrà **non avviato**. Una volta soddisfatti tutti i prerequisiti, lo stato verrà modificato in **attivo**.
+   - Finché non si soddisfano tutti i prerequisiti visualizzati in questa pagina, lo stato rimarrà **Non avviato**. Anche **il pulsante Pianifica** controllo rimarrà disabilitato. 
+   - Una volta soddisfatti tutti i prerequisiti insieme al controllo, lo stato verrà modificato in **Attivo.**
+
+## <a name="provide-customer-references-in-partner-center"></a>Fornire riferimenti ai clienti in Partner Center
+
+Oltre ai propri prerequisiti, alcune specializzazioni avanzate devono anche fornire i *riferimenti dei clienti.* Vedere l'elenco precedente delle specializzazioni avanzate che richiedono riferimenti ai clienti.
+
+Seguire quindi questa procedura per fornire i riferimenti dei clienti in Partner Center:
+
+1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.
+
+2. Selezionare la **sezione MPN** del menu Partner Center, quindi **Adv. Specializations (Specializzazioni annunci).** Il menu si espande per visualizzare tutte le specializzazioni avanzate disponibili.
+
+3. Selezionare il nome della specializzazione avanzata che richiede di fornire i riferimenti dei clienti. Si supponga, ad esempio, di selezionare **Riunioni e sale riunioni per Microsoft Teams.**
+
+   Viene quindi visualizzata la pagina dei prerequisiti per questa specializzazione avanzata. Oltre a competenze Gold, certificazioni e requisiti di prestazioni, questa specializzazione avanzata richiede anche di fornire tre riferimenti ai clienti che dimostrano la possibilità di distribuire e gestire.
+
+   :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Pagina dei prerequisiti delle specializzazioni avanzate di esempio che richiede riferimenti ai clienti.":::
+
+4. Finché non si soddisfano tutti i prerequisiti visualizzati in questa pagina e non si forniscono riferimenti ai clienti, lo stato rimarrà **Non avviato**. Una volta soddisfatti tutti i prerequisiti, lo stato verrà modificato in **Attivo.**
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Scopri di più sulle [specializzazioni avanzate, i vantaggi e i requisiti esclusivi](https://partner.microsoft.com/membership/advanced-specialization).
+- Altre informazioni sulle [specializzazioni avanzate, i relativi vantaggi e requisiti specifici.](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Scopri di più sul [raggiungimento delle competenze di appartenenza a Microsoft Silver o Gold](learn-about-competencies.md).
+- Informazioni su [come ottenere competenze di appartenenza Microsoft Silver o Gold.](learn-about-competencies.md)
 
-- Altre informazioni sulle [competenze Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+- Altre informazioni sulle [Microsoft Partner Network competenze.](https://partner.microsoft.com/membership/competencies)

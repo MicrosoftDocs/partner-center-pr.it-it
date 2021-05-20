@@ -9,22 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 7fe03aa2b1d30c1146b8a14b6659c82cdcc52d9d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964375"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149231"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Panoramica della fatturazione per i partner del programma CSP che lavorano nel Centro per i partner 
 
-**Ruoli appropriati**
-
-- Agente amministratore
-- Amministratore fatturazione
-- Amministratore globale
-- Agente di supporto tecnico
-- Agente di vendita
+**Ruoli appropriati:** agente di amministrazione | Amministratore fatturazione | Amministratore globale | Agente del supporto | Agente di vendita
 
 Questo articolo fornisce informazioni di base sulla fatturazione e le fatture per i partner CSP nel Centro per i partner, incluso come fatturare i clienti e come trovare e leggere la fattura.
 
@@ -53,7 +47,7 @@ I tipi di fatturazione in Partner Center includono la **fatturazione in base all
 
 **Fatturazione in base alle licenze e in base all'utilizzo**: Riceverai gli addebiti per i prodotti nella valuta del paese o dell'area geografica in cui ti trovi. L'addebito sarà lo stesso indipendentemente dalla località in cui si trova il cliente a cui hai venduto i prodotti.
 
-**Fatturazione** monouso: a partire dal 28 gennaio 2021, i partner dell'area UE/EFTA e del Regno Unito con nuovi clienti e clienti CSP esistenti che acquistano nuove offerte commerciali per la prima volta, i cui tenant sono stati creati prima dell'11 maggio 2020, verranno fatturati in base a tali acquisti nella valuta della località partner.  I partner situati al di fuori dell'area UE/EFTA e del Regno Unito continueranno a essere fatturati in valuta località partner. Scopri di più sulla fatturazione [una tantum e ricorrente](azure-plan-billing.md). 
+Fatturazione una sola **volta:** a partire dal 28 gennaio 2021, i partner dell'area UE/EFTA e Regno Unito che hanno nuovi clienti e clienti CSP esistenti che acquistano nuove offerte commerciali per la prima volta i cui tenant sono stati creati prima dell'11 maggio 2020 verranno fatturati per gli acquisti nella valuta della località partner.  I partner che si trovano al di fuori dell'area UE/EFTA e Regno Unito continueranno a essere fatturati nella valuta della località partner. Scopri di più sulla fatturazione [una tantum e ricorrente](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Fatture
 
@@ -67,7 +61,7 @@ Per la fatturazione una tantum e ricorrente, il periodo di fatturazione è allin
 
 I listini prezzi vengono aggiornati ogni mese. Un'anteprima dei listini prezzi è disponibile un (1) mese in anticipo.
 
-Per visualizzare i programmi e le offerte del provider di soluzioni cloud più recenti, dal dashboard del portale per i partner passare a **Sell > prezzi e offerte**. Troverai elenchi prezzi distinti per i diversi tipi di prodotti disponibili. Nella pagina **prezzi e offerte** sono disponibili gli elenchi prezzi seguenti:
+Per visualizzare i programmi Cloud Solution Provider e le offerte più recenti, dal dashboard del portale per i partner passare a Vendere > **prezzi e offerte.** Sono disponibili listini prezzi separati per i diversi tipi di prodotti disponibili. I listini prezzi seguenti sono disponibili nella **pagina Prezzi e** offerte:
 
 I prezzi **in base alle licenze** sono garantiti per l'intera durata dell'abbonamento, in genere 12 mesi dalla data di acquisto. 
 
@@ -83,7 +77,7 @@ Le condizioni di pagamento sono a 60 giorni dalla data della fattura. Le fatture
 
 Puoi riottenere tutte la funzionalità complete degli account sospesi dopo il pagamento dell'importo dovuto.
 
-Una volta fornite le informazioni di fatturazione corrette, il pagamento sarà visibile nella pagina di fatturazione del centro per i partner entro 5 giorni lavorativi.
+Dopo aver specificato le informazioni di fatturazione corrette, il pagamento sarà visibile nella pagina di Partner Center di fatturazione entro 5 giorni lavorativi.
 
 ### <a name="taxes-and-vat"></a>Imposte e IVA
 

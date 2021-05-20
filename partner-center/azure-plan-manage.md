@@ -9,18 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
-ms.translationtype: HT
+ms.openlocfilehash: 18cc5c62beaa76f6e3ade79f2f2069e0f2bd3c7e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534931"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149605"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gestire sottoscrizioni e risorse nel piano di Azure
 
-**Ruoli appropriati**
-
-- Agente amministratore
+**Ruoli appropriati:** agente amministratore
 
 
 Questo articolo descrive in che modo i partner CSP possono usare opzioni del controllo degli accessi in base al ruolo diverse per ottenere il controllo operativo e la gestione delle risorse di Azure di un cliente. Quando esegui la transizione di un cliente al piano di Azure, per impostazione predefinita in Azure ti vengono assegnati i diritti di amministratore con privilegi (diritti del proprietario della sottoscrizione tramite l'opzione di amministratore per conto terzi).
@@ -38,7 +36,7 @@ Questo articolo descrive in che modo i partner CSP possono usare opzioni del con
 
 Come procedura di sicurezza, Microsoft consiglia di assegnare agli utenti le autorizzazioni minime necessarie per svolgere il loro lavoro. Vedi [Risorse di Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
 
-## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Collegare l'ID Partner (ID MPN) alle credenziali per la gestione delle risorse di Azure del cliente
+## <a name="link-your-partner-id-mpn-id-to-your-credentials-for-managing-customers-azure-resources"></a>Collegare l'ID partner (ID MPN) alle credenziali per la gestione delle risorse di Azure del cliente
 
 La tabella seguente illustra i metodi usati per associare l'ID Partner alle diverse opzioni di accesso del controllo degli accessi in base al ruolo.
 
@@ -63,7 +61,7 @@ Per gestire i servizi del cliente e ricevere i crediti ottenuti devi disporre de
 
    :::image type="content" source="images/azure/azurealert1.png" alt-text="Avviso di Azure":::
 
-2. Seleziona il tipo di azione che dovrà essere eseguita dall'avviso. Se, ad esempio, scegli un messaggio di posta elettronica, riceverai un messaggio di notifica dell'eliminazione di un'assegnazione di ruolo.
+2. Selezionare il tipo di azione che deve essere eseguita dall'avviso. Ad esempio, se si specifica di voler inviare un messaggio di posta elettronica, si riceverà un messaggio di posta elettronica che informa l'utente se si verifica un'eliminazione dell'assegnazione di ruolo.
 
    :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Configurare l'avviso":::
 

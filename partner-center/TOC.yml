@@ -134,6 +134,8 @@
     - name: Passare da CSP Direct Bill Partner a CSP Indirect Reseller
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: I partner non possono più registrarsi come advisor
+      href: advisors-no-csp.md
 - name: Contratti CSP
   href: microsoft-partner-agreement.md
   items:
@@ -509,7 +511,7 @@
         - name: Acquistare le offerte del marketplace
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
-        - name: Gestire le licenze nelle offerte del marketplace
+        - name: Gestire le licenze nelle offerte del Marketplace
           href: csp-commercial-marketplace-licensing.md
           displayName: csp
         - name: Offerte esclusive per il marketplace da fornitori di software indipendenti

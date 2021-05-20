@@ -4,35 +4,32 @@ ms.topic: article
 ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Potenzia il tuo profilo aziendale nella directory dei partner Microsoft. Scopri le specializzazioni avanzate che puoi ottenere con le tue competenze in oro e argento esistenti.
+description: Rafforzare il profilo di business nella directory dei partner Microsoft. Informazioni sulle specializzazioni avanzate che è possibile ottenere insieme alle competenze Gold e Silver esistenti.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557767"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150455"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ottieni una specializzazione avanzata per presentare le tue funzionalità convalidate
+# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ottenere una specializzazione avanzata per presentare le funzionalità convalidate
 
-**Ruoli appropriati**
+**Ruoli appropriati:** amministratore globale | Amministratore account
 
-- Amministratore globale
-- Amministratore degli account
+Le specializzazioni avanzate Microsoft si basano sulle [competenze Gold](learn-about-competencies.md) correlate che un partner può ottenere. Ottenere competenze gold, insieme alle specializzazioni avanzate correlate, consente ai partner di differenziare ulteriormente le proprie capacità per i clienti.
 
-Le specializzazioni avanzate di Microsoft si basano sulle [Competenze Gold](learn-about-competencies.md) correlate che un partner può ottenere. Ottenere le competenze Gold, insieme alle specializzazioni avanzate, consente ai partner di differenziare ulteriormente le proprie funzionalità con i clienti.
+Per ottenere una specializzazione avanzata, un partner deve spesso soddisfare requisiti impegnativi, ad esempio ottenere i riferimenti dei clienti, sottoporsi a un controllo di terze parti, dimostrare il raggiungimento di un set di competenze pertinente e soddisfare determinate altre misurazioni delle prestazioni.
 
-Per ottenere una specializzazione avanzata, è spesso necessario che un partner soddisfi requisiti complessi, ad esempio il recupero di riferimenti ai clienti, l'esecuzione di un controllo di terze parti, l'ottenimento di un set di competenze pertinente e la riunione di misure di prestazioni specifiche.
+Soddisfare questi requisiti rigorosi, i partner possono quindi convalidare le proprie conoscenze approfondite, una vasta esperienza e un comprovato successo nella fornitura di soluzioni personalizzate per i clienti per aree di elevata domanda e pertinenza dei clienti.
 
-Rispettando questi rigidi requisiti, i partner possono convalidare le proprie conoscenze approfondite, l'esperienza estesa e il successo dimostrato per la realizzazione di soluzioni personalizzate per i clienti per aree di elevata richiesta e rilevanza dei clienti.
-
-I partner che guadagnano una specializzazione avanzata otterranno un'etichetta per i clienti che possono visualizzare sul proprio profilo di business in [Microsoft Solution Provider Finder](https://www.microsoft.com/solution-providers/home). Questa etichetta convalida ulteriormente le funzionalità del partner, garantendo al tempo stesso l'accesso ai vantaggi associati, alla portata del cliente ampliata e alla maggiore fiducia dei clienti.
+I partner che ottengono una specializzazione avanzata o ottengono un'etichetta rivolta ai clienti che possono visualizzare sul proprio profilo di business in [Microsoft Solution Provider Finder.](https://www.microsoft.com/solution-providers/home) Questa etichetta convalida ulteriormente le funzionalità del partner, offrendo al tempo stesso l'accesso ai vantaggi associati, la maggiore copertura dei clienti e una maggiore fiducia dei clienti.
 
 > [!NOTE]
-> Per ulteriori informazioni sulle specializzazioni avanzate, visitare la [pagina relativa alle specializzazioni Microsoft Partner Network avanzate](https://partner.microsoft.com/membership/advanced-specialization).
+> Per altre informazioni sulle specializzazioni avanzate, visitare la [pagina Microsoft Partner Network specializzazioni avanzate](https://partner.microsoft.com/membership/advanced-specialization).
 
 ## <a name="advanced-specialization-areas"></a>Aree di specializzazione avanzate
 
@@ -40,15 +37,15 @@ Ogni specializzazione avanzata corrisponde a un'area della soluzione:
 
 - Azure
 - Applicazioni aziendali
-- Lavoro moderno
+- Modern Work
 - Sicurezza
 
-Le specializzazioni avanzate di **Azure** includono:
+**Le** specializzazioni avanzate di Azure includono:
 
-- Analisi su Microsoft Azure
+- Analisi in Microsoft Azure
 - Migrazione del data warehouse a Microsoft Azure
 - Kubernetes in Microsoft Azure
-- Migrazione dei database Linux e open source a Microsoft Azure
+- Migrazione di database linux e open source a Microsoft Azure
 - Desktop virtuale Microsoft Windows
 - Modernizzazione delle applicazioni Web in Microsoft Azure
 - SAP in Microsoft Azure
@@ -56,30 +53,30 @@ Le specializzazioni avanzate di **Azure** includono:
 
 **Business Applications** specializzazioni avanzate includono:
 
-- Sviluppo di applicazioni con codice basso
-- Gestione aziendale di piccole e medie dimensioni
+- Sviluppo di applicazioni con basso codice
+- Gestione di piccole e medie imprese
 
-Le specializzazioni avanzate di **lavoro moderno** includono:
+**Le specializzazioni** avanzate di Modern Work includono:
 
 - Adozione e change management
 - Sistema telefonico per Microsoft Teams
 - Riunioni e sale riunioni per Microsoft Teams
 - Implementazione di soluzioni di collaborazione
 
-Le specializzazioni avanzate per la **sicurezza** includono:
+**Le** specializzazioni avanzate per la sicurezza includono:
 
 - Gestione delle identità e dell'accesso
 - Threat Protection
 
 > [!NOTE]
-> Per informazioni su ogni specializzazione avanzata, oltre ai prerequisiti e ai requisiti, vedere la pagina relativa alle [specializzazioni avanzate](https://partner.microsoft.com/membership/advanced-specialization). Quando si è pronti per richiedere una specializzazione avanzata, controllare lo stato di avanzamento eseguendo l'accesso al [Dashboard](https://partner.microsoft.com/dashboard)del centro per i partner. Per altre informazioni sull'accesso a questa area del centro per i partner, vedere [richiedere una specializzazione avanzata](advanced-specializations-apply.md).
+> Per informazioni su ogni specializzazione avanzata, insieme ai relativi prerequisiti e requisiti, visitare la [pagina Specializzazioni avanzate](https://partner.microsoft.com/membership/advanced-specialization). Quando si è pronti per richiedere una specializzazione avanzata, controllare lo stato di avanzamento accedendo al dashboard Partner Center [.](https://partner.microsoft.com/dashboard) Per altre informazioni sull'accesso a questa area Partner Center, vedere [Richiedere una specializzazione avanzata.](advanced-specializations-apply.md)
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Usare il centro per [i partner per richiedere e verificare lo stato delle specializzazioni avanzate](advanced-specializations-apply.md)
+- Usare Partner Center per [richiedere e controllare lo stato delle specializzazioni avanzate](advanced-specializations-apply.md)
 
-- Scopri di più sulle [specializzazioni avanzate, i vantaggi e i requisiti esclusivi](https://partner.microsoft.com/membership/advanced-specialization)
+- Altre informazioni sulle [specializzazioni avanzate, i vantaggi e i requisiti specifici](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Scopri di più sul [raggiungimento delle competenze di appartenenza a Microsoft Silver o Gold](learn-about-competencies.md)
+- Informazioni su [come ottenere competenze di iscrizione Microsoft Silver o Gold](learn-about-competencies.md)
 
-- Altre informazioni sulle [competenze Microsoft Partner Network](https://partner.microsoft.com/membership/competencies)
+- Altre informazioni sulle [Microsoft Partner Network competenze](https://partner.microsoft.com/membership/competencies)

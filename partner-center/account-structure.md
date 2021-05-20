@@ -9,26 +9,23 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a32dba704482dad34b689b21da9e41de74a6e051
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: fb2488f9a82e261997703c22bca7c3cd9e761db0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284163"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150659"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center ha due livelli di account per i partner MPN
 
-**Ruoli appropriati**
-
-- Amministratore degli account
-- Amministratore globale
+**Ruoli appropriati:** amministratore account | Amministratore globale
 
 L'azienda ha due livelli di account in Partner Center.
 
 ## <a name="the-top-level-account-is-the-partner-global-account-pga"></a>L'account di primo livello è l'account globale partner (PGA)
 
 - L'account globale partner contiene l'indirizzo aziendale legale e il contatto principale dell'azienda. 
-- Visualizzare i dettagli dell'account globale partner **in** Impostazioni  >  **Profilo organizzazione**  >  **Profilo legale.**
+- Visualizzare i dettagli dell'account globale del partner in **Impostazioni**  >  **Profilo organizzazione** Profilo  >  **legale.**
 - I dettagli conterranno anche l'ID MPN dell'account globale del partner. 
 - Il PGA è il padre dell'azienda e non viene usato per associare programmi di incentivi o Cloud Solution Provider. 
 - Le posizioni devono essere usate per tali associazioni.
@@ -46,4 +43,4 @@ L'infrastruttura PGA potrebbe includere posizioni aziendali aggiuntive. Ogni loc
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Per altre informazioni sulla gestione delle località, vedere [Gestire l'account partner: Località.](manage-locations.md)
+- Per altre informazioni sulla gestione delle località, vedere [Gestire l'account partner: Località](manage-locations.md).

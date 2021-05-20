@@ -2,54 +2,52 @@
 title: Idoneità per Solution Assessment
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Informazioni su come verificare i requisiti di idoneità per la partecipazione al programma Solution Assessment incentives.
+description: Informazioni su come controllare i requisiti per l'idoneità per la partecipazione al programma Solution Assessment Incentives programma.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: acf7e19d98b6d3a9c48277f0b3276b26816572e8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354475"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148806"
 ---
-# <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Requisiti di idoneità per il programma Solution Assessment incentives
+# <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Requisiti di idoneità per il Solution Assessment Incentives programma
 
-**Ruoli appropriati**
+**Ruoli appropriati:** contatto principale o amministratore del programma
 
-- Contatto principale o amministratore del programma
+I partner con stato attivo e registrato nel Programma di incentivi per la valutazione della soluzione nel FY20 continueranno a essere idonei per gli incentivi nel FY21 se hanno un'appartenenza MPN attiva e una competenza MPN Silver o Gold attiva. Le qualificazioni dei partner vengono esaminate annualmente per verificane l'idoneità. Se i partner stabiliti non soddisfare i requisiti di idoneità e partecipazione nell'anno corrente, verranno rimossi nella prossima revisione annuale. Tutti i nuovi partner vengono onboarded tramite la saS (Solution Assessment Special) locale nella propria area. La firma di accesso condiviso identificherà i partner di cui eseguire l'onboarded in base alla corrispondenza delle competenze e delle competenze nell'azienda partner e alle esigenze aziendali delle filiali supportate dalla firma di accesso condiviso.
 
-I partner con stato attivo e registrato nel programma Solution Assessment incentive in FY20 continueranno a essere idonei per gli incentivi in FY21 se dispongono di un abbonamento MPN attivo e di una competenza di MPN argento o Gold attiva. Le qualifiche dei partner vengono esaminate annualmente per l'idoneità. Se i partner stabiliti non ottengono i requisiti di idoneità e partecipazione nell'anno corrente, verranno rimossi nella prossima verifica annuale. Tutti i nuovi partner vengono caricati tramite lo specialista della valutazione della soluzione locale (SAS) nella propria area. La firma di accesso condiviso identificherà i partner da caricare in base alla corrispondenza di competenze e competenze nell'azienda partner e alle esigenze aziendali delle filiali supportate dalla firma di accesso condiviso.
+Prima di avviare il processo di onboarding, i partner dovranno discutere con la firma di accesso condiviso le funzionalità dell'azienda nel supporto delle valutazioni nelle rispettive località.
 
-Prima di avviare il processo di onboarding, i partner dovranno discutere con la firma di accesso condiviso le funzionalità della propria azienda per supportare le valutazioni nelle rispettive località.
-
-I partner attualmente non iscritti in un programma di incentivazione devono soddisfare i criteri di incentivo FY21 per essere idonei per l'onboarding degli incentivi della valutazione della soluzione.
+I partner attualmente non iscritti a un programma di incentivi devono soddisfare i criteri di incentivi FY21 per essere idonei per l'onboarding di Solution Assessment Incentive.
 
 ## <a name="requirements"></a>Requisiti
 
 |**Requisiti di idoneità**|**Criteri**|
 |-----------------------|------------------|
-|Appartenenza ad Active Microsoft Partner Network (MPN)|L'idoneità nel programma Solution Assessment incentive richiede l'appartenenza a MPN attivo|
-|Una competenza Silver o Gold|Può essere un pre-approvato attivo o attivo|
-|Partner di specializzazione MSP/Advanced specialistica di Azure|A partire dal 15 aprile 2021, le valutazioni della soluzione di Azure, tra cui i dati & la migrazione dell'infrastruttura, la modernizzazione delle applicazioni, le fondamenta di Azure, Azure Express e l'ottimizzazione dei costi di Azure, richiedono e la certificazione di esperti MSP/Advanced Specialist di Azure.|
+|Appartenenza Microsoft Partner Network active Microsoft Partner Network (MPN)|L'idoneità al programma Di incentivi per la valutazione della soluzione richiede l'appartenenza attiva a MPN|
+|Una competenza Silver o Gold|Può essere attivo o attivo pre-approvato|
+|Azure Expert MSP/Partner di specializzazione avanzata|A partire dal 15 aprile 2021, le valutazioni delle soluzioni di Azure, tra cui Migrazione dell'infrastruttura di Data &, Modernizzazione delle applicazioni, Azure Foundations, Azure Express e Ottimizzazione dei costi di Azure, richiederanno e Azure Expert MSP/Advanced Specialty.|
 
 |**Requisito di partecipazione**|**Criteri**|
 |-------------------------|-------------------------------------|
-|Attività incentive|I partner devono partecipare attivamente al programma Solution Assessment incentive nell'anno fiscale corrente per restare idonei a ottenere gli incentivi per la valutazione della soluzione nell'anno fiscale seguente. Questa operazione equivale almeno a una soluzione di incentivazione della valutazione della soluzione approvata.|
+|Attività di incentivi|I partner devono partecipare attivamente al programma Solution Assessment Incentive nell'anno fiscale corrente per rimanere idonei a ottenere incentivi per la valutazione della soluzione nell'anno fiscale successivo. Ciò equivale ad almeno un accordo di incentivi approvato per la valutazione della soluzione.|
 
-## <a name="work-with-solution-assessment-specialist"></a>Collaborare con lo specialista della valutazione della soluzione
+## <a name="work-with-solution-assessment-specialist"></a>Collaborare con lo specialista della valutazione delle soluzioni
 
-Una volta verificata l'idoneità di un partner per la partecipazione al programma Solution Assessment incentive, questi riceveranno un invito da parte dei rispettivi specialisti della valutazione della soluzione per partecipare al processo di onboarding mensile.
+Dopo aver verificato l'idoneità di un partner per la partecipazione al programma di incentivi per la valutazione della soluzione, riceverà un invito dal proprio esperto di valutazione della soluzione (SAS) a partecipare al processo di onboarding mensile.
 
-Per ulteriori dettagli o informazioni relative al programma Solution Assessment incentives, contattare lo specialista della valutazione della soluzione (SAS).
+Per altri dettagli o informazioni relative al programma Solution Assessment Incentives, contattare lo specialista di valutazione della soluzione.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Stato opportunità valutazione soluzione](chip-solution-assessment.md)
-- [Supporto tecnico](report-problems-with-partner-center.md)
+- [Stato opportunità valutazioni soluzioni](chip-solution-assessment.md)
+- [Supporto](report-problems-with-partner-center.md)
 
 
 

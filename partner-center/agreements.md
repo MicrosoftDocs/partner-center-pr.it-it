@@ -9,27 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 440a03a228fb809d1ef55bcd39e1c0464b24fb54
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
-ms.translationtype: HT
+ms.openlocfilehash: 4ec987f22c2e3ee0b2860d489cdaba9d1e3ff8a2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474122"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150268"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Contratti del cliente Microsoft per area geografica e lingua
 
-**Ruoli appropriati**
-
-- Amministratore globale
-- Amministratore gestione utenti
-- Agente amministratore
-- Agente di vendita
-- Agente di supporto tecnico
+**Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti | Agente amministratore | Agente di vendita | Agente del supporto
 
 Prima che tu possa effettuare un ordine per conto di un cliente, il cliente deve accettare e firmare il Contratto del cliente Microsoft.
 
 >[!IMPORTANT]
-> Dovrai confermare che un cliente ha accettato il Contratto del cliente Microsoft fornendo informazioni sulla persona che lo ha firmato. Per altre informazioni, vedi [Confermare l'accettazione del Contratto del cliente Microsoft da parte di un cliente](confirm-consent.md).
+> Dovrai confermare che un cliente ha accettato il Contratto del cliente Microsoft fornendo informazioni sulla persona che lo ha firmato. Per altre informazioni, vedi [Confermare l'accettazione del Contratto del cliente Microsoft da parte di un cliente](./confirm-customer-agreement.md).
 
 I Contratti del cliente Microsoft sono specifici dell'area geografica e disponibili in più lingue. Trova la posizione e la lingua preferita del cliente in uno degli elenchi riportati di seguito per scaricare il contratto appropriato.
 

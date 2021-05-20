@@ -1,96 +1,91 @@
 ---
-title: Report sulle competenze di partner Center Insights
+title: report Partner Center competenze di Partner Center Insights
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Scopri cosa stai facendo bene e dove puoi migliorare le competenze Microsoft, i livelli di competenza e le offerte per offrire soluzioni Microsoft.
+description: Scopri cosa stai facendo bene e dove puoi migliorare le competenze, i livelli di competenza e le offerte Microsoft per offrire soluzioni Microsoft.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086261"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152886"
 ---
-# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Report sulle competenze disponibile dal dashboard di partner Center Insights
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Report competenze disponibile nel dashboard Partner Center Insights
 
-**Ruoli appropriati**
+**Ruoli appropriati:** amministratore globale | Agente di amministrazione | Visualizzatore report | Visualizzatore di report executive
 
-- Amministratore globale
-- Agente amministratore
-- Visualizzatore di report
-- Visualizzatore di report esecutivi
+Le competenze consentono all'azienda di dimostrare la capacità tecnica di offrire soluzioni Microsoft. Le competenze Microsoft sono progettate per soddisfare le esigenze dei clienti e presentare le proprie competenze ai potenziali clienti. Offrono numerosi vantaggi da Microsoft, ad esempio quantità incluse di consumo di Azure, diritti per prodotti cloud come Office 365, supporto tecnico, offerte Go-to-Market e altro ancora. Oggi sono presenti in totale 19 competenze nelle categorie seguenti: **App** e **infrastruttura,** Applicazioni aziendali, Dati e **intelligenza** artificiale e Area di **lavoro moderna.** Le competenze, ad esempio, sono suddivise in livelli Silver o Gold. È disponibile un livello più alto per la competenza Gold e un livello superiore associato di risorse di marketing, offerte e programmi.  
 
-Le competenze consentono all'azienda di dimostrare le funzionalità tecniche per la distribuzione di soluzioni Microsoft. Le competenze Microsoft sono progettate per soddisfare le esigenze dei clienti e presentare le proprie competenze ai clienti potenziali. Sono dotati di numerosi vantaggi offerti da Microsoft, ad esempio le quantità incluse di consumo di Azure, i diritti per i prodotti cloud, ad esempio Office 365, il supporto tecnico, le offerte per l'immissione sul mercato e altri ancora. Oggi sono disponibili complessivamente 19 competenze tra le seguenti categorie: **app e infrastruttura**, **applicazioni aziendali**, **dati e intelligenza artificiale** e ambiente di **lavoro moderno**. Le competenze sono suddivise in livelli in livelli Silver o Gold, ad esempio. C'è una barra superiore per la competenza Gold e un livello superiore associato di risorse di marketing, offerte e programmi disponibili.  
-
-Per ulteriori informazioni sul ciclo di vita delle competenze, il raggiungimento delle competenze e altre informazioni sui report sulle competenze, si otterrà un maggiore utilizzo dal report sulle competenze.
+Il report sulle competenze sarà più utile se si apprenderanno altre informazioni sul ciclo di vita delle competenze, sul raggiungimento delle competenze e su altri dettagli del report sulle competenze.
 
 ## <a name="competency-life-cycle"></a>Ciclo di vita delle competenze
 
-Dal punto di vista del ciclo di vita, i partner iniziano con la creazione di indicatori di prestazioni chiave (KPI) necessari per raggiungere competenze specifiche. Una volta raggiunta la soglia impostata per una determinata competenza in tutte le metriche obbligatorie, le competenze diventano **qualificate** . I partner possono quindi pagare per l'offerta di competenze (Silver o Gold) per ottenere la competenza e diventare **attiva** in tale competenza. Lo stato **attivo** della competenza è valido per un anno dalla data di raggiungimento della competenza (questa è la data di **anniversario** per la competenza). Alla fine dell'anno di anniversario, è necessario che i partner soddisfino i requisiti di competenza. Se non soddisfano di nuovo questi requisiti, perderanno la competenza. Un oggetto **a livello di rischio** per una competenza ottenuta in precedenza significa che alcune metriche chiave vengono proiettate al di sotto della soglia alla **Data di anniversario** delle competenze.
+Dal punto di vista del ciclo di vita, i partner iniziano sulla base degli indicatori di prestazioni chiave (KPI) necessari per ottenere competenze specifiche. Quando raggiungono la soglia impostata per una determinata competenza in tutte le metriche necessarie, diventano **idonee** per una competenza. I partner possono quindi pagare per l'offerta di competenza (Silver o Gold) per ottenere la competenza e diventare **attivi** in tale competenza. Lo stato di competenza **Attivo** è valido per un anno a partire dalla  data di raggiungimento della competenza (denominata data dell'anniversario per la competenza). Alla fine dell'anno dell'anniversario, i partner devono soddisfare i requisiti di competenza. Se non soddisfano di nuovo questi requisiti, perderanno la competenza. Lo **stato At risk** per una competenza ottenuta in precedenza indica che alcune metriche chiave sono proiettate al di sotto della soglia alla data dell'anniversario delle **competenze.**
 
 ## <a name="competency-attainment"></a>Raggiungimento delle competenze
 
-Ogni competenza dispone di un set specifico di requisiti da soddisfare. I requisiti di competenze per il cloud rientrano in due categorie: competenze e prestazioni.
+Ogni competenza ha un set specifico di requisiti da soddisfare. I requisiti di competenza cloud rientrano in due categorie: competenze e prestazioni.
 
-- Competenze: i requisiti includono spesso esami, valutazioni o certificazioni che devono essere superate dagli utenti all'interno dell'azienda.
+- Competenze: i requisiti includono spesso esami, valutazioni o certificazioni che i singoli utenti dell'azienda devono superare.
 
-- Prestazioni: per essere idonei per una competenza, la società deve soddisfare determinate soglie di prestazioni allineate all'area di competenza. Ad esempio, l'azienda potrebbe dover soddisfare una quantità minima di consumo di Azure nei 12 mesi finali.
+- Prestazioni: per essere idonea per una competenza, l'azienda deve soddisfare determinate soglie di prestazioni allineate all'area di competenza. Ad esempio, l'azienda potrebbe dover soddisfare una quantità minima di consumo di Azure nei 12 mesi finali.
 
-## <a name="competencies-report-details"></a>Dettagli rapporto sulle competenze
+## <a name="competencies-report-details"></a>Dettagli del report sulle competenze
 
-È possibile vedere le sezioni seguenti del report competenze:
+È possibile visualizzare le sezioni seguenti dal report Competenze:
 
 - Riepilogo
 - Analisi delle metriche delle competenze
 - Cronologia delle competenze
 
  > [!NOTE]
- > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario disporre di un ruolo specifico nel centro per i partner, ad esempio amministratore globale, amministratore account, Visualizzatore report o Visualizzatore report Executive. Per ulteriori informazioni, vedere l'amministratore globale dell'azienda. i tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report Executive.
+ > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Executive Report Viewer. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi Executive Report Viewer.
 
 ### <a name="summary"></a>Riepilogo
 
-La visualizzazione Riepilogo presenta un conteggio delle competenze con i rispettivi nomi a ogni livello di competenza (Gold/Silver) in tutte le fasi del ciclo di vita delle competenze. Le fasi del ciclo di vita delle competenze includono: **Started**, **Qualified**, **Active** e **a Risk**. Esempio: i requisiti di competenza cloud rientrano in due categorie: competenze e prestazioni.
+La visualizzazione Riepilogo presenta un conteggio delle competenze con i relativi nomi a ogni livello di competenza (Gold/Silver) in tutte le fasi del ciclo di vita delle competenze. Le fasi del ciclo di vita delle competenze includono: **Avviato,** **Qualificato,** **Attivo** e **A rischio.** Esempio: i requisiti di competenza cloud rientrano in due categorie: competenze e prestazioni.
 
-- Avviato: numero di competenze per le quali è in corso uno o più requisiti sottostanti.
-Suddivisione dei conteggi delle competenze avviate in base al livello di competenza (Silver/Gold) con nomi di competenze.
+- Avviato: numero di competenze per cui sono in corso uno o più requisiti sottostanti.
+La suddivisione delle competenze avviate viene conteggiata per livello di competenza (Silver/Gold) con i nomi delle competenze.
 
-- Qualified: competenze per le quali sono stati soddisfatti i requisiti, ma potrebbe non avere ancora acquistato l'offerta Silver/Gold associata. Suddivisione dei conteggi delle competenze qualificate in base al livello di competenza (Silver/Gold) con nomi di competenze.
+- Qualificato: competenze per le quali sono stati soddisfatti i requisiti, ma potrebbe o meno aver ancora acquistato l'offerta Silver/Gold associata. La suddivisione delle competenze qualificate viene conteggiata per livello di competenza (Silver/Gold) con i nomi delle competenze.
 
-- Attivo: le competenze per le quali sono stati soddisfatti i requisiti ed è stata acquistata un'offerta Silver/Gold. Suddivisione del conteggio delle competenze attive per livello di competenza (Silver/Gold) con nomi di competenze.
+- Attivo: competenze per le quali sono stati soddisfatti i requisiti ed è stata acquistata un'offerta Silver/Gold. La suddivisione delle competenze attive viene conteggiata per livello di competenza (Silver/Gold) con i nomi delle competenze.
 
-- A rischio (anno successivo): numero di competenze attualmente **attive** ma anche **a rischio** di non soddisfare i requisiti per l'anno successivo.
-Suddivisione delle competenze (in base al livello di competenza, ad esempio Silver/Gold, con i nomi delle competenze), a rischio di non qualificarsi per il prossimo anno.
+- A rischio (anno successivo): numero di  competenze attualmente  attive ma anche a rischio di non soddisfare i requisiti per l'anno successivo.
+Scomposizione delle competenze (per livello di competenza, ad esempio Silver/Gold, con nomi di competenza) che rischiano di non essere idonee per l'anno successivo.
 
-:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Riepilogo delle competenze":::
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="riepilogo delle competenze":::
 
-### <a name="competency-metric-analysis"></a>Analisi della metrica delle competenze
+### <a name="competency-metric-analysis"></a>Analisi delle metriche di competenza
 
-Questa visualizzazione Mostra lo stato della metrica delle competenze rispetto alle soglie necessarie per i partner per ottenere/mantenere la competenza a livello Silver/Gold. 
+Questa visualizzazione mostra lo stato delle metriche di competenza rispetto alle soglie necessarie ai partner per ottenere/mantenere la competenza a livello Silver/Gold. 
 
-Il report può essere trasformato tramite pivot in base ai due intervalli di date seguenti:
+Il report può essere pivot in base ai due intervalli di date seguenti:
 
-1. TTM View: enumera le prestazioni del partner negli ultimi 12 mesi (TTM).
-2. Visualizzazione anno anniversario: consente di enumerare le prestazioni del partner dalla data di anniversario precedente alla data di anniversario successiva.
+1. Visualizzazione TTM: enumera le prestazioni del partner negli ultimi 12 mesi (TTM).
+2. Visualizzazione dell'anno dell'anniversario: enumera le prestazioni dei partner dalla data dell'anniversario precedente alla data dell'anniversario successiva.
 
-:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="analisi della metrica delle competenze":::
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="analisi delle metriche di competenza":::
 
 > [!NOTE]
- > Non tutte le metriche vengono analizzate. Attualmente, le metriche associate all'apprendimento e alla certificazione non sono supportate nel report delle competenze. Anche le competenze per il cloud Business Applications (CBA) non sono attualmente supportate nell'analisi delle metriche per lo stato delle competenze **attive** .
+ > Non tutte le metriche vengono trattate nell'analisi. Attualmente, le metriche associate all'apprendimento e alla certificazione non sono supportate nel report Competenze. Le competenze Business Applications cloud (CBA) non sono attualmente supportate nell'analisi delle metriche per lo **stato** di competenza Attivo.
 
 ### <a name="competency-history"></a>Cronologia delle competenze
 
-Questa visualizzazione Mostra una tabella dettagliata di tutte le competenze finora raggiunte, con il livello di competenza e la fase di competenza.
+Questa visualizzazione mostra una tabella dettagliata di tutte le competenze ottenute finora, con il livello di competenza e la fase di competenza.
 
 :::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="cronologia delle competenze":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Per altri report, vedere [Partner Center Insights](partner-center-insights.md).
+- Per altri report, vedere [Partner Center Insights.](partner-center-insights.md)
 
 >[!NOTE] 
-> È possibile scaricare i dati non elaborati che generano questo report dalla sezione download dei report nel dashboard di Insights. [Altre informazioni](pci-download-reports.md) 
+> È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report del dashboard Informazioni dettagliate. [Altre informazioni](pci-download-reports.md) 

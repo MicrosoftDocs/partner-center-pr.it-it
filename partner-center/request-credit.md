@@ -2,19 +2,19 @@
 title: Richiedere crediti del contratto di servizio a Microsoft
 ms.topic: article
 ms.date: 03/31/2021
-description: Informazioni sui vantaggi, le restrizioni e le procedure per richiedere un credito del contratto di servizio a Microsoft in caso di interruzione del servizio da parte dei clienti.
+description: Informazioni su vantaggi, restrizioni e procedure per richiedere un credito di contratto di servizio a Microsoft in caso di interruzione del servizio da parte dei clienti.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855557"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152954"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Come e quando richiedere un credito di contratto di servizio a Microsoft
 
@@ -34,7 +34,7 @@ I crediti del contratto di servizio di Microsoft vengono determinati in base ai 
 *Il partner Cloud Solution Provider (CSP) deve inviare l'attestazione e tutte le informazioni necessarie entro la fine del mese di calendario successivo al mese in cui si è verificato l'evento imprevisto.* Ad esempio, se l'evento imprevisto si è verificato il 15 febbraio, Microsoft deve ricevere l'attestazione e tutte le informazioni necessarie entro il 31 marzo. I clienti finali e i rivenditori indiretti non possono inviare richieste di credito del contratto di servizio. Il provider indiretto o il partner di fatturazione diretta deve inviare attestazioni per loro conto.
 
 >[!NOTE]
->Gli eventi imprevisti di consulenza ([Come controllare Microsoft 365 integrità del servizio](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)) non sono idonei per i crediti del contratto di servizio.
+>Gli eventi imprevisti di consulenza ([Come controllare Microsoft 365 integrità del servizio](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) non sono idonei per i crediti del contratto di servizio.
 
 ### <a name="required-information"></a>Informazioni necessarie
 
@@ -58,7 +58,7 @@ Prima di [inviare una richiesta di credito del](#submit-sla-credit-request) cont
 
 #### <a name="outage-incident-identifier"></a>Identificatore dell'evento imprevisto di interruzione
 
-È possibile trovare l'identificatore per l'evento imprevisto di interruzione **nella** pagina Integrità dei servizi nella interfaccia di amministrazione di Microsoft 365. L'ID evento **imprevisto** di interruzione è un numero preceduto da un'abbreviazione di due lettere che indica il servizio interessato, ad esempio *EX25194* per un'interruzione di Exchange Online. La tabella seguente descrive le abbreviazioni di servizi comuni:
+È possibile trovare l'identificatore per l'evento imprevisto di interruzione **nella** pagina Integrità dei servizi nel interfaccia di amministrazione di Microsoft 365. L'ID evento **imprevisto** di interruzione è un numero preceduto da un'abbreviazione di due lettere che indica il servizio interessato, ad esempio *EX25194* per un'interruzione di Exchange Online. La tabella seguente descrive le abbreviazioni di servizi comuni:
 
 | Abbreviazione di due lettere | Servizio Microsoft |
 | ----------------------- | ----------------- |

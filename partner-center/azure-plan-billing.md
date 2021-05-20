@@ -1,7 +1,7 @@
 ---
 title: 'Fatturazione dei piani di Azure: fattura e file di riconciliazione'
 ms.topic: article
-ms.date: 01/20/2021
+ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Scopri come accedere e ottieni informazioni sulla struttura dei file di fatturazione e di riconciliazione correlata alla fatturazione per il piano di Azure.
@@ -9,16 +9,16 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 757383ee264e58e7b4dc8ffefafe213cb49acb79
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 5ab086a4d15d16f094e33d19b81f1c93711916dc
+ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149792"
+ms.locfileid: "110201426"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nuova esperienza commerciale in CSP - Fatturazione di Azure 
 
-**Ruoli appropriati:** Agente di amministrazione | Gestione della fatturazione | Amministratore globale
+**Ruoli appropriati:** agente di amministrazione | Amministratore fatturazione | Amministratore globale
 
 Questo articolo illustra come accedere e ottenere informazioni sulla struttura dei file di fatturazione e di riconciliazione correlata alla fatturazione per il piano di Azure. La fatturazione in base al piano di Azure è un'esperienza semplificata che prevede l'uso di una singola data di fatturazione allineata e di un periodo di fatturazione basato sul mese di calendario.
 
@@ -114,6 +114,9 @@ Per accedere alla fattura e al file di riconciliazione:
 
 4. Se il contatore, o qualsiasi risorsa che genera tale contatore, è idoneo al **credito ottenuto dai partner per i servizi gestiti** per una parte del mese, il file di riconciliazione conterrà due righe di fatturazione. Una riga rappresenterà i giorni per i quali il contatore è idoneo e la seconda rappresenterà i giorni per i quali non lo è.
 
+>[!NOTE]
+>È possibile riconciliare il consumo di Azure nel file di riconciliazione di acquisto una sola volta. A tale scopo, passare al file di ricognizione con valutazione giornaliera e cercare subscriptionID. Verranno visualizzati tutti i costi associati all'ID piano di Azure. L'ID sottoscrizione di Azure viene visualizzato come EntitlementID.
+
 ## <a name="read-the-daily-usage-file"></a>Leggere il file sull'utilizzo giornaliero
 
 - I contatori delle sottoscrizioni in un piano di Azure vengono valutati e cumulati su base giornaliera.
@@ -136,7 +139,7 @@ Per accedere alla fattura e al file di riconciliazione:
 
 I prezzi per i servizi di Azure forniti tramite un piano di Azure verranno addebitati in USD e fatturati in base alla valuta assegnata al paese del cliente. Se la valuta di fatturazione è diversa da USD, il tasso di cambio (FX) usato verrà visualizzato nell'ultima pagina della fattura. I tassi di cambio vengono determinati mensilmente e applicati alla fattura successiva. Per un elenco completo delle valute dei paesi, vedi la [nuova matrice di disponibilità delle offerte commerciali nelle varie aree geografiche e valute dei clienti](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Microsoft segue il London Stock Exchange per la conversione. Si usa il tasso di cambio, che è uguale al tasso di cambio acquisito nell'ultimo secondo dell'ultimo giorno lavorativo del mese alla Borsa di Londra. I tassi di cambio verranno aggiornati e saranno disponibili il giorno precedente il primo giorno del mese in cui verranno applicati.
+Microsoft segue la quotazione a Londra per la conversione. Viene utilizzato il tasso di cambio, che è uguale al tasso di cambio acquisito nell'ultimo secondo dell'ultimo giorno lavorativo del mese alla Londra Stock Exchange. I tassi di cambio verranno aggiornati e saranno disponibili il giorno precedente il primo giorno del mese in cui verranno applicati.
 
 ## <a name="azure-reservations"></a>Prenotazioni di Azure
 

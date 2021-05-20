@@ -9,18 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd566a6d9ef60747eb7fd515b4d63d87d991da2a
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 511612042f7da5e43d045d2991fa7d5251612726
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624188"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150744"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guida alla migrazione da Partner Membership Center (PMC) al Centro per i partner
 
-**Ruoli appropriati**
-
-- Amministratore globale
+**Ruoli appropriati:** Amministratore globale
 
 Il sito Web dei partner Microsoft disponibile all'indirizzo partner.microsoft.com offre ai partner un'esperienza digitale unificata. Dal sito Web dei partner potrai esplorare le opportunità disponibili e lasciarti coinvolgere in esperienze guidate che aiuteranno la tua azienda a creare e vendere app e servizi con Microsoft. Tramite il collegamento Dashboard, disponibile ovunque nel sito Web dei partner, i membri di Microsoft Partner Network possono accedere al Centro per i partner per gestire il rapporto con Microsoft, iscriversi ai programmi e registrarsi per le offerte.
 
@@ -57,7 +55,7 @@ Se la tua azienda non dispone di un indirizzo e-mail aziendale e di un tenant AA
 
 Dopo aver verificato o aggiornato le informazioni, seleziona **Accetta e continua**.
 Le condizioni riportate in questa pagina sono **esattamente le stesse** contenute nel contratto firmato dalla tua azienda in PMC.  
-In questo modo verrà avviata la creazione del tuo tenant di Azure AD e ti verrà fornito l'account aziendale.
+Questo passaggio avvia la creazione del tenant Azure AD e fornisce l'account aziendale.
 
 Selezionando **Accetta e continua** vengono eseguite anche le operazioni seguenti:
 
@@ -73,10 +71,10 @@ Quando viene creato il nuovo tenant di Azure AD, puoi invitare i tuoi dipendenti
 
 :::image type="content" source="images/migration/invite.png" alt-text="Invitare i dipendenti":::
 
-Se hai eseguito l'accesso con un tenant AAD esistente, i dipendenti sono stati spostati con te. In questo caso, assegna ai dipendenti ruoli specifici per definire le operazioni che possono eseguire nel Centro per i partner. 
+Se hai eseguito l'accesso con un tenant AAD esistente, i dipendenti sono stati spostati con te. In questo caso, assegnare ai dipendenti i ruoli per gestire le operazioni che possono eseguire in Partner Center. 
 
 >[!NOTE] 
->i ruoli nel Centro per i partner sono diversi dai ruoli in PMC. Per altre informazioni, vedi [Passaggio dal Partner Membership Center al Centro per i partner](move-pmc-pc-map.md).
+>i ruoli nel Centro per i partner sono diversi dai ruoli in PMC. Per altre informazioni, vedere [Passaggio da PMC a Partner Center](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Verificare il dominio e diventare un amministratore globale  
 
@@ -100,7 +98,7 @@ Segui la presentazione del dashboard. In questo ambiente puoi gestire l'apparten
 
 ## <a name="sign-the-microsoft-partner-agreement"></a>Firmare il Contratto Microsoft Partner
 
-Un rivenditore indiretto, dopo aver configurato l'account del Centro per i partner, deve comunque iscriversi ufficialmente al programma Cloud Solution Provider. Per controllare lo stato di appartenenza, passare al [profilo legale](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) e confermare il tipo di account. Iscriversi quindi a CSP come [rivenditore indiretto](enrolling-in-the-csp-program.md).
+Un rivenditore indiretto, dopo aver configurato l'account del Centro per i partner, deve comunque iscriversi ufficialmente al programma Cloud Solution Provider. Per controllare lo stato di appartenenza, passare al profilo [Legale e](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) confermare il tipo di account. Iscriversi quindi a CSP come [rivenditore indiretto](enrolling-in-the-csp-program.md).
 
  Dopo aver effettuato l'iscrizione come rivenditore indiretto, accettare la [richiesta di relazione CSP con il provider indiretto](indirect-reseller-tasks-in-partner-center.md).
 

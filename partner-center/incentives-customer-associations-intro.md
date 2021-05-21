@@ -7,13 +7,13 @@ ms.topic: conceptual
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 1895f89933668e909748178dcdaf4a54e4843096
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 05/20/2021
+ms.openlocfilehash: 9bcdd9e99f9db5271a1ca51dab01c376c938acc9
+ms.sourcegitcommit: 75b84d0918802325019577930d368bc3df193ab2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146783"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "110236084"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Usare queste risorse per effettuare richieste di associazione dei clienti per programmi di incentivi specifici
 
@@ -26,26 +26,29 @@ Questo articolo condivide le risorse per i partner Microsoft che soddisfano i cr
 - Si lavora con Microsoft 365 o dynamics 365 e si vuole fare riferimento o richiedere parte di questo lavoro nei programmi di incentivi precedenti.
 
 Se si soddisfano i criteri, è necessario usare il modello Claiming Partner of Record (CPOR) per creare e gestire le associazioni dei clienti per questi programmi di incentivi.
- 
+
+## <a name="explaining-claiming-partner-of-record-cpor-to-customers"></a>Spiegazione di Claiming Partner of Record (CPOR) ai clienti
+
+CPOR consente a Microsoft di identificare e riconoscere i partner che aiutano i clienti a raggiungere gli obiettivi aziendali e a realizzare valore nel cloud. Una volta che un partner si associa a un carico di lavoro o a una sottoscrizione, ottiene l'accesso ai dati di utilizzo e/o vendita delle postazioni. L'accesso a tali dati consente ai partner di monitorare l'utilizzo attivo, fornendo ai clienti consigli su come ottimizzare l'utilizzo. I partner non hanno accesso ad altri dati dei clienti. Inoltre, l'associazione CPOR consente a Microsoft di comprendere l'ecosistema dei provider di servizi e aiuta anche Microsoft a determinare come perfezionare gli strumenti e i programmi necessari per supportare al meglio i clienti comuni. Non è necessaria alcuna azione per il cliente. Microsoft consente ai clienti di rifiutare esplicitamente un'associazione CPOR. I clienti riceveranno una notifica che li informa della richiesta di associazione da parte dei partner. Se un cliente nega l'associazione a un partner, il partner non verrà riconosciuto come partner di record.
+
 ## <a name="how-do-customer-associations-and-cpor-relate-to-incentives"></a>In che modo le associazioni dei clienti e CPOR sono correlate agli incentivi?
 
-Microsoft usa ora il modello Claiming Partner of Record (CPOR) per gestire le associazioni esistenti con i clienti Microsoft 365 e Dynamics 365.
+Microsoft usa ora il modello Claiming Partner of Record (CPOR) per gestire le associazioni con i clienti Microsoft 365 e Dynamics 365.
 
-Questo modello si applica al lavoro con i clienti nei programmi di incentivi seguenti: incentivi online services advisory (OSA), online services usage (OSU) -Microsoft 365 e OSU-Business Application.
+Questo modello si applica al lavoro con i clienti nei programmi di incentivi seguenti: Online Services Advisory (OSA) Sell, Online Services Usage (OSU) -Microsoft 365 e OSU-Business Application Incentives.
 
-Microsoft convalida tutte le attestazioni di incentivi.
+Microsoft convalida tutte le richieste di incentivi.
 
-A questo punto, è possibile richiedere altre informazioni. Verrà inoltre inviata una notifica al cliente della richiesta di associazione. I clienti hanno cinque giorni lavorativi per rifiutare esplicitamente. Se non rifiutano esplicitamente, l'associazione con questo tenant e carico di lavoro specifici sarà ufficiale.
+A questo punto, è possibile richiedere altre informazioni. Invieremo anche una notifica al cliente della richiesta di associazione. I clienti hanno cinque giorni lavorativi per rifiutare esplicitamente. Se non rifiutano esplicitamente, l'associazione con questo tenant e carico di lavoro specifici sarà ufficiale.
 
-Accettando la richiesta di associazione, il cliente fornisce l'accesso ad alcuni dei dati in modo da poter fornire loro servizi di gestione. 
+Accettando la richiesta di associazione, il cliente fornisce l'accesso ad alcuni dei dati in modo da poter fornire servizi di gestione. 
 
 ## <a name="resources-to-help-you-create-and-manage-customer-associations"></a>Risorse che consentono di creare e gestire le associazioni dei clienti
 
-Gli articoli seguenti illustrano come creare, gestire e risolvere i problemi relativi alle associazioni dei clienti.
 
 |  **Per eseguire questa operazione**  |  **Leggi**  |
 |--------------|-----------|
-| Informazioni su come creare un'associazione di clienti  | [Creare un'associazione cliente usando il modello CPOR](submit-osa-claim.md)  |
+| Informazioni su come creare un'associazione cliente  | [Creare un'associazione cliente usando il modello CPOR](submit-osa-claim.md)  |
 |Informazioni su come gestire le associazioni dei clienti  | [Gestire le associazioni del cliente](incentives-manage-customer-associations.md)  |
 |Risolvere eventuali problemi di associazione dei clienti  | [Problemi di associazione del cliente](incentives-customer-association-issues.md)  |
 

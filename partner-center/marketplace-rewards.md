@@ -1,7 +1,7 @@
 ---
 title: Gestione dei premi del marketplace
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 05/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: I partner che pubblicano offerte nel marketplace commerciale sono idonei per i vantaggi che offrono supporto marketing.
@@ -9,28 +9,28 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51b7bd4846826db86f5d9c6e5e087e285dd026c0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2ee643ca713da3509705560d93e15b3c7e5ab192
+ms.sourcegitcommit: 11901a72e9c9d432c324d0c5b1e0214c0eddb96f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151679"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "110687727"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gestire Marketplace Rewards in Partner Center & marketing, vendite e vantaggi tecnici
 
 **Ruoli appropriati:** amministratore partner MPN | Amministratore globale | Agente amministratore
 
-Se si pubblicano offerte software nel marketplace commerciale, Marketplace Rewards supporto mirato per tutte le offerte con vantaggi tecnici, di marketing e di vendita.
+Se si pubblicano offerte software nel marketplace commerciale, Marketplace Rewards supporto mirato per tutte le offerte con vantaggi tecnici, di marketing e di vendita. Per informazioni dettagliate sul programma e sui vantaggi, [vedere Marketplace Rewards](https://aka.ms/marketplacerewards) (PPT).
 
 Marketplace Rewards'idoneità viene calcolata in base a tutti i profili di pubblicazione collegati alla società MPN PGA. Per verificare l'idoneità per il programma Marketplace Rewards, passare alla Partner Center [Marketplace Rewards pagina](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace).
 
 ## <a name="sales-and-marketing-benefits"></a>Vantaggi di vendite e marketing
 
-1. Nel dashboard Partner Center [selezionare](https://partner.microsoft.com/dashboard)la **scheda Vantaggi** di vendite e marketing Marketplace Rewards pagina per visualizzare l'elenco dei vantaggi. 
+1. Nel dashboard Partner Center [selezionare](https://partner.microsoft.com/dashboard)la **scheda Vantaggi** di vendite e marketing Marketplace Rewards pagina per visualizzare l'elenco dei vantaggi.
 
 2. Per attivare eventuali vantaggi di marketing e vendite, è necessario innanzitutto assegnare un contatto di marketing aziendale. Questo contatto riceverà le comunicazioni di follow-up relative ai premi del Marketplace.
 
-3. Per aggiungere o aggiornare le informazioni di contatto marketing, passare alla parte superiore della scheda Vantaggi di marketing e vendite nella pagina Marketplace Rewards, quindi selezionare **Aggiungi, aggiorna o modifica**. 
+3. Per aggiungere o aggiornare le informazioni di contatto marketing, passare alla parte superiore della scheda Vantaggi di marketing e vendite nella pagina Marketplace Rewards, quindi selezionare **Aggiungi, aggiorna o modifica**.
 
    Eseguire quindi queste operazioni:
 
@@ -54,15 +54,14 @@ Le informazioni sulle ricompense del marketplace sono disponibili tramite il ten
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Per associare un tenant Azure AD al PGA dell'azienda
 
-1. Come amministratore globale o amministratore dell'account, accedere al PGA in Partner Center.
+1. Come amministratore globale o amministratore dell'account, accedere all'applicazione PGA Partner Center.
 
-2. Selezionare **Impostazioni** (in alto a destra), **Impostazioni account,** **Tenant.** 
+2. Selezionare **Impostazioni** (in alto a destra), **Impostazioni account**, **Tenant**.
 
-3. Selezionare **Associa un altro tenant Azure AD** e selezionare il tenant Azure AD che si vuole associare all'associazione PGA.
+3. Selezionare **Associa un altro tenant Azure AD** e selezionare il tenant Azure AD da associare all'associazione PGA.
 
 4. Aggiungere il nome utente e la password di qualsiasi utente nel tenant Azure AD che si vuole associare e selezionare **Invia.**
 
 5. Disconnettersi dal Partner Center quindi accedere usando il nome utente e la password per il tenant appena associato all'applicazione PGA.
 
 6. Sarà ora possibile visualizzare le informazioni sul programma Commercial Rewards Marketplace nel menu di spostamento a sinistra.
-

@@ -5,46 +5,42 @@ ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 72e886a7cfad067b40674f30a9a21810d832994a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/03/2021
+ms.openlocfilehash: 55d0716b183e9e8905e631447e547396d6f55404
+ms.sourcegitcommit: 9cb6bc9df20540f812b7932f88e520976c1aa85a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412659"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "111534185"
 ---
-# <a name="private-offers-in-azure-marketplace"></a>Offerte private in Azure Marketplace
+# <a name="private-plans-in-azure-marketplace"></a>Piani privati in Azure Marketplace
 
-Le offerte private rappresentano il modo in cui i Publisher forniscono piani personalizzati a specifici clienti. Questa opzione è attualmente supportata solo nell'esperienza di Azure Marketplace nell'portale di Azure. Le offerte private sono disponibili solo per le offerte a pagamento che possono essere acquistate e installate direttamente dalla portale di Azure. Publisher non può creare offerte private per i servizi di consulenza, qualsiasi servizio che ha **contattato** come chiamata a azione o qualsiasi servizio gratuito, indipendentemente dal fatto che sia possibile installarlo o meno dal portale.
+I piani privati sono il modo in cui gli editori forniscono piani personalizzati a clienti specifici. I piani privati sono disponibili solo per le offerte a pagamento che possono essere acquistate e installate direttamente dal portale di Azure. Gli editori non possono creare piani privati per i servizi di consulenza, qualsiasi servizio che abbia contattato **l'utente** come invito all'azione o qualsiasi servizio gratuito, indipendentemente dal fatto che possa essere installato o meno dal portale.
 
-## <a name="find-private-offers-in-the-azure-portal"></a>Trova le offerte private nella portale di Azure
+## <a name="find-private-plans-in-the-azure-portal"></a>Trovare piani privati nella portale di Azure
 
-Quando un partner pubblica un'offerta privata, è visibile solo agli utenti idonei nella sezione **Marketplace** del portale di Azure. Questi utenti sono definiti tramite ID sottoscrizione o ID tenant, a seconda del tipo di offerta. Se si è idonei per offerte private, esistono due modi per individuarli nel portale.
+Quando un partner pubblica un piano privato, è visibile solo agli utenti idonei nella sezione **Marketplace** del portale di Azure. Questi utenti sono definiti dall'ID sottoscrizione o dall'ID tenant, a seconda del tipo di offerta. Se si è idonei per i piani privati, è possibile trovarli nel portale in due modi.
 
 > [!NOTE]
-> Le offerte private non sono attualmente disponibili per la ricerca o filtrabili (per categoria) nell'portale di Azure.
+> I piani privati sono ricercabili ma non filtrabili (per categoria) nel portale di Azure.
 
-Nella portale di Azure selezionare **+ Crea una risorsa** o cercare "Marketplace" per passare alla pagina del **Marketplace** . Se si è idonei per offerte private, si noterà che l'utente dispone di un banner **disponibile** nella parte superiore della pagina. Selezionare **Visualizza offerte private** per accedere alla pagina delle offerte private.
+Nel portale di Azure selezionare + **Crea una** risorsa o cercare "marketplace" per passare alla pagina **Marketplace.** Se si è idonei per i piani privati, nella parte superiore della pagina verrà visualizzato il **banner** Sono disponibili piani privati. Selezionare **Visualizza offerte private e piani** per passare alla pagina dei piani privati.
 
-:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="Banner visualizzato quando sono disponibili offerte private.":::
-
-In alternativa, se viene visualizzato il banner delle offerte private, è anche possibile scorrere fino alla fine della pagina della raccolta di prodotti e viene visualizzato un subset delle offerte private. Selezionare il collegamento per **visualizzare altre informazioni** per passare alla pagina delle offerte private.
-
-:::image type="content" source="media/private-offers/see-more-link.png" alt-text="Mostra le offerte private nella parte inferiore della schermata, insieme al collegamento Vedi altro.":::
+:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="Il banner visualizzato quando sono disponibili piani privati.":::
 
 ## <a name="review-private-plans"></a>Esaminare i piani privati
 
-Un'offerta privata è in realtà un piano privato all'interno di un'offerta. Ogni offerta può avere più piani, sia pubblici che privati, ma i piani privati vengono visualizzati in un elenco separato dei piani pubblici.
+Un piano privato fa parte di diversi piani di un'offerta. Ogni offerta può avere più piani, pubblici e privati, ma i piani privati vengono visualizzati in un elenco separato dai piani pubblici.
 
-È possibile visualizzare i piani privati disponibili nella scheda **piani** , contrassegnati con una notifica **privata** distintiva:
+È possibile visualizzare i piani privati disponibili nella **scheda Piani,** contrassegnati con un badge **privato** distintivo:
 
-:::image type="content" source="media/private-offers/private-badge.png" alt-text="Pagina di piani contrassegnata come privata.":::
+:::image type="content" source="media/private-offers/private-badge.png" alt-text="Pagina di piani contrassegnata come Privata.":::
 
-Se si dispone di più di una sottoscrizione, vengono visualizzate tutte le offerte private disponibili per tutte le sottoscrizioni. Quando si seleziona **Crea**, si viene indirizzati alla pagina di creazione della risorsa per iniziare a configurare la risorsa.
+Se si hanno più sottoscrizioni, verranno visualizzati tutti i piani privati disponibili per tutte le sottoscrizioni. Quando si seleziona **Crea**, si viene indirizzati alla pagina di creazione della risorsa per avviare la configurazione della risorsa.
 
-Se si seleziona **Crea** e si hanno più sottoscrizioni, ma non tutte vengono aggiunte al piano privato, la sottoscrizione predefinita potrebbe non essere la sottoscrizione idonea per questa offerta privata. In questo caso, selezionare la sottoscrizione corretta.
+Se si seleziona **Crea** e si hanno più sottoscrizioni, ma non tutte vengono aggiunte al piano privato, la sottoscrizione predefinita potrebbe non essere idonea per questo piano privato. In questo caso, selezionare la sottoscrizione corretta.
 
-:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="Il collegamento che mostra la disponibilità di offerte private è maggiore.":::
+:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="Collegamento che mostra che sono disponibili più piani privati.":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 

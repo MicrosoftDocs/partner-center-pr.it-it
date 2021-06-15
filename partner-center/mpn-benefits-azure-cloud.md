@@ -9,14 +9,14 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f575a79039ae78e64e28c680a8b533d575200bc
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a873e6dcac03ae781b776204fb8801581fefdec5
+ms.sourcegitcommit: e90293bc643963fe9ce3f838bc8861fbd304b16d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146358"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "112066489"
 ---
-# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Esplorare l'area dei vantaggi dei prodotti azure e cloud in Partner Center
+# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Esplorare l'area dei vantaggi di Azure e dei prodotti cloud in Partner Center
 
 **Ruoli appropriati:** Amministratore globale | Amministratore partner MPN
 
@@ -24,12 +24,12 @@ Questo articolo descrive i vantaggi specifici di Azure e cloud disponibili per i
  
 ## <a name="overview"></a>Panoramica
 
-In quanto partner del Microsoft Partner Network, è possibile avere accesso a molti vantaggi tecnici e go-to-market per aree diverse. Se è stato assegnato uno dei ruoli precedenti in Partner Center, è possibile esplorare molti di questi vantaggi direttamente dal dashboard di Partner Center.
+In quanto partner del Microsoft Partner Network, è possibile avere accesso a molti vantaggi tecnici e [go-to-market](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) per aree diverse. Se è stato assegnato uno dei ruoli precedenti in Partner Center, è possibile esplorare molti di questi vantaggi direttamente dal dashboard di Partner Center. 
 
 > [!NOTE]
 > Per accedere all'area Partner Center Benefits, è sufficiente accedere al [dashboard](https://partner.microsoft.com/dashboard) di Partner Center e selezionare **MPN** dal menu di spostamento a sinistra. Selezionare quindi **Vantaggi dal** menu, seguito dall'opzione o dall'area di vantaggi specifici che si vuole esplorare.
 
-Una delle opzioni di vantaggi che possono essere disponibili per l'utente è **Azure & cloud.** Quando si seleziona **Azure & cloud** dal menu  vantaggi Partner Center, viene visualizzata la pagina Azure & prodotti **cloud.**
+Una delle opzioni di vantaggi che possono essere disponibili per l'utente è **Azure & cloud.** Quando si seleziona **Azure & cloud** dal menu Partner Center **Benefits,** viene visualizzata la pagina **Azure & prodotti cloud.**
 
 Questa pagina mostra i dettagli seguenti:
 
@@ -44,30 +44,30 @@ Questa pagina mostra i dettagli seguenti:
 ## <a name="usage-based-vs-license-based-subscriptions"></a>Sottoscrizioni basate sull'utilizzo e basate su licenze
 
 La **pagina Azure & prodotti cloud** elenca due tipi di vantaggi della sottoscrizione di cui viene effettuato il provisioning:
-- Sottoscrizioni basate sull'utilizzo (Microsoft Azure credito) 
+- Sottoscrizioni basate sull'utilizzo (Microsoft Azure Credito) 
 - Sottoscrizioni basate su licenza (ad esempio Office 365)
 
 ### <a name="usage-based-subscriptions-with-two-types-of-microsoft-azure-credit"></a>Sottoscrizioni basate sull'utilizzo con due tipi di Microsoft Azure credito
 
 È possibile ricevere due tipi di sottoscrizioni basate sull'utilizzo, a seconda delle offerte attive disponibili per l'Microsoft Partner Network appartenenza. Tali offerte attive possono includere Microsoft Action Pack, una competenza Silver o una competenza Gold. 
 
-I due tipi di sottoscrizioni basate sull'utilizzo di cui è possibile eseguire il provisioning per queste offerte includono il credito mensile di *Azure* e/o il credito in blocco *di Azure (annuale):*
+I due tipi di sottoscrizioni basate sull'utilizzo di cui è possibile effettuare il provisioning per queste offerte includono il credito mensile di *Azure* e/o il credito in blocco *(annuale) di Azure:*
 
-- **Provisioning per il credito mensile di Azure:** Potrebbe essere simile a $ 100/mese (o equivalente nella valuta locale)<br/>
+- **Provisioning per il credito mensile di Azure:** Potrebbe essere simile a $100/mese (o equivalente in valuta locale)<br/>
 *O*
-- **Provisioning per il credito in blocco (annuale) di Azure:** Potrebbe essere simile a $ 6000/anno, $ 12000/anno e/o $ 13000/anno (o ognuno equivalente nella valuta locale)
+- **Provisioning per il credito in blocco (annuale) di Azure:** Potrebbe essere simile a $6000/anno, $12000/anno e/o $13000/anno (o ognuno equivalente in valuta locale)
 
 Per attivare una sottoscrizione Microsoft Azure in Partner Center, è necessario assegnare l'accesso a un utente all'interno della società (o a un utente guest). L'utente deve avere già una voce utente creata nel tenant Azure Active Directory utente. Quindi eseguire la procedura seguente:
 
-1. Quando si è certi che l'utente abbia una voce utente nel tenant Azure AD, accedere al dashboard Partner Center [.](https://partner.microsoft.com/dashboard)
+1. Dopo aver avuto la certezza che l'utente abbia una voce utente nel tenant Azure AD, accedere al [dashboard Partner Center.](https://partner.microsoft.com/dashboard)
 
-1. Selezionare **MPN** dal menu di spostamento a sinistra, quindi **Vantaggi** e infine Azure **e cloud.**
+1. Selezionare **MPN** dal menu di spostamento a sinistra, seguito da **Vantaggi**, quindi Da Azure **e cloud**.
 
-1. Selezionare la freccia rivolta verso il basso a destra, **visualizza la** colonna dettagli per la sottoscrizione basata sull'utilizzo che si vuole attivare. 
+1. Selezionare la freccia rivolta verso il basso a destra nella colonna Visualizza **dettagli** per la sottoscrizione basata sull'utilizzo che si vuole attivare. 
 
-1. Individuare **l'area Assegnazione** utente nella pagina Partner Center **azure e i prodotti cloud** (di seguito). Selezionare quindi **l'opzione Assegna utente** per assegnare all'utente il vantaggio della sottoscrizione in base all'utilizzo desiderato. 
+1. Individuare **l'area Assegnazione** utente nella pagina Partner Center **prodotti Azure e cloud** (sotto). Selezionare quindi **l'opzione Assegna utente** per assegnare all'utente il vantaggio di sottoscrizione basato sull'utilizzo desiderato. 
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-2.png" alt-text="Pagina Azure and cloud products (Prodotti Azure e cloud) che mostra l'area di assegnazione degli utenti." border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-2.png" alt-text="Pagina dei prodotti Azure e cloud che mostra l'area di assegnazione degli utenti." border="false":::
 
 - Quando si assegna un credito mensile di Azure pari a $ 100 al mese (o equivalente in valuta locale), si noti che è possibile aggiungere o rimuovere utenti da questa sottoscrizione in qualsiasi momento.
 
@@ -92,6 +92,10 @@ Per attivare una sottoscrizione basata su licenza:
    - Se si vuole attivare una nuova sottoscrizione o se la sottoscrizione esistente è disabilitata/scaduta, aprire un browser privato o **in incognito,** copiare e incollare il collegamento seguente e seguire le istruzioni:
 
       [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
+
+> [!Note]
+> I vantaggi di Office 365 E3, Office 365 E5, Enterprise Mobility + Security, Microsoft Intune e Windows 10 Enterprise non fanno più parte dei pacchetti di vantaggi per le competenze. È possibile attivare Microsoft 365 vantaggi E3 o Microsoft 365 E5 che fungono da sostituzioni ai pacchetti di vantaggi autonomi non più disponibili.
+Se è necessario assistenza per l'installazione o la distribuzione dei vantaggi M365, usare i vantaggi tecnici per generare un [ticket di supporto tecnico](mpn-benefits-technical-support.md)
       
    - Se si vuole estendere la data di fine o aggiungere altre postazioni/licenze a una copia di sottoscrizione esistente, incollare il collegamento seguente in una finestra del browser privata o **in incognito** e seguire le istruzioni:
  
@@ -118,37 +122,37 @@ Seguire questa procedura per aggiungere altre licenze o estendere la data di fin
 
    - Per rinnovare la sottoscrizione esistente, selezionare **l'opzione Estendi data di fine** nell'area Licenza. L'estensione della data di fine aumenta la durata della sottoscrizione mantenendo lo stesso numero di licenze/postazioni. 
 
-   - Per aggiungere altre licenze (postazioni), a una sottoscrizione esistente, selezionare **l'opzione Aggiungi licenze** nell'area Licenza. Assicurarsi di non selezionare Aggiungi **licenze se** si vuole rinnovare anche la sottoscrizione esistente. Selezionando **Aggiungi licenze** si riduce la durata della sottoscrizione e si aumenta il numero di licenze nella sottoscrizione.
+   - Per aggiungere altre licenze (postazioni), a una sottoscrizione esistente, selezionare **l'opzione Aggiungi licenze** nell'area Licenza. Assicurarsi di non selezionare **Aggiungi** licenze se si vuole rinnovare anche la sottoscrizione esistente. Selezionando **Aggiungi licenze** si riduce la durata della sottoscrizione e si aumenta il numero di licenze nella sottoscrizione.
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-4.png" alt-text="Pagina azure e prodotti cloud che illustra come aggiungere licenze." border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-4.png" alt-text="Pagina dei prodotti Azure e cloud che illustra come aggiungere licenze." border="false":::
 
 1. Nel pannello laterale selezionare **Riscatta codice Product Key.** 
 
-1. Immettere il codice Product Key e quindi selezionare **Convalida per** verificare i dettagli della chiave. 
+1. Immettere il codice Product Key e quindi selezionare **Convalida per** verificare i dettagli del codice. 
 
 1. Selezionare **Riscatta** per completare il processo.
 
    > [!NOTE]
-   > Ogni codice Product Key fornisce agli utenti 12 mesi di servizio a partire dalla data in cui si riscatta il codice Product Key. Tuttavia, se gli utenti esistenti hanno una data di rinnovo anticipata, verrà mediata la media di due date per semplificare la gestione delle sottoscrizioni in base a una singola data di fine per tutti gli utenti. Non viene aggiunto o perso alcun tempo durante il calcolo. Il calcolo usato per la media di due date è:
+   > Ogni codice Product Key fornisce agli utenti 12 mesi di servizio dalla data di riscatto del codice Product Key. Tuttavia, se gli utenti esistenti hanno una data di rinnovo anticipato, verranno medie due date per semplificare la gestione delle sottoscrizioni in base a una singola data di fine per tutti gli utenti. Durante il calcolo non viene aggiunto o perso tempo. Il calcolo usato per la media di due date è:
    >
-   > **Calcolo:** \[ A (utenti iniziali) x B (tempo rimanente nella sottoscrizione) \+ C (nuovi utenti) x (12 mesi) ÷ numero totale di utenti = nuovo \] tempo rimanente.
+   > **Calcolo:** \[ A (utenti iniziali) x B (tempo rimanente nella sottoscrizione) \+ C (nuovi utenti) x (12 mesi) ÷ numero totale di utenti \] = nuovo tempo rimanente.
 
 ## <a name="activate-a-subscription-for-the-first-time"></a>Attivare una sottoscrizione per la prima volta
 
-Se si attiva una sottoscrizione per la prima volta, seguire questa procedura. È anche possibile usare questi passaggi se la sottoscrizione è disabilitata o scaduta:
+Se si attiva una sottoscrizione per la prima volta, seguire questa procedura. È anche possibile usare questi passaggi se la sottoscrizione si trova in uno stato disabilitato o scaduto:
 
-1. Copiare e incollare il collegamento seguente in una finestra privata o **in incognito del browser.**
+1. Copiare e incollare il collegamento seguente in una finestra del browser privata **o in incognito**.
    
    [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
-1. Assicurarsi di aver eseguito l'accesso all'account del tenant Azure Active Directory corretto. Dopo aver eseguito l'accesso, verificare i dettagli del tenant.
+1. Assicurarsi di aver eseguito l'accesso all'account Azure Active Directory tenant corretto. Dopo aver eseguito l'accesso, verificare i dettagli del tenant.
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-5.png" alt-text="Pagina dei prodotti azure e cloud che mostra dove aggiungere la chiave." border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-5.png" alt-text="Pagina dei prodotti Azure e cloud che mostra dove aggiungere la chiave." border="false":::
 
-1. Immettere la chiave di 25 cifre ottenuta Partner Center e quindi selezionare **Avanti.**
+1. Immettere la chiave di 25 cifre ottenuta da Partner Center quindi selezionare **Avanti.**
 
 2. Verificare i dettagli del prodotto visualizzati, il numero di licenze e la durata della sottoscrizione. Quando si è pronti, selezionare **Riscatta** per attivare la sottoscrizione.
 
-   La sottoscrizione appena attivata sarà disponibile nella **scheda Prodotti** dell'interfaccia di amministrazione di M365.
+   La sottoscrizione appena attivata sarà disponibile nella **scheda Prodotti dell'interfaccia** di amministrazione di M365.
 
 ## <a name="licensing-scenarios"></a>Scenari di licenza
 
@@ -179,3 +183,5 @@ Se si sta tentando di estendere la data di fine usando una chiave con più di 3 
 - Altre informazioni su [Microsoft 365 Business Voice](/microsoftteams/business-voice/whats-business-voice)
   
 - Informazioni sulla [disponibilità del paese e dell'area geografica per Business Voice](/microsoftteams/business-voice/country-region-availability)
+
+- Informazioni sulla [distribuzione di Windows 10 con Microsoft 365](/windows/deployment/deploy-m365)

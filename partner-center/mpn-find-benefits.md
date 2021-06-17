@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e48e137de3fc9b3084729e5095223229b87c289
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 85a6a43a1e28a7a6917361dc1fc74cc3d5e8d502
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152393"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276570"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Individuare i vantaggi di Microsoft Partner Network 
 
@@ -27,7 +27,7 @@ Questo articolo descrive ai membri del Microsoft Partner Network (MPN) come trov
 
 ## <a name="find-your-mpn-benefits-in-partner-center"></a>Trovare i vantaggi MPN in Partner Center
 
-Come membro Microsoft Partner Network, l'azienda ha accesso a molti vantaggi che possono essere utili per la crescita dell'azienda. Per scoprire quali sono questi vantaggi:
+In quanto Microsoft Partner Network, l'azienda ha accesso a molti vantaggi che possono essere utili per la crescita dell'azienda. Per scoprire quali sono questi vantaggi:
 
 1. Accedere al [dashboard Partner Center,](https://partner.microsoft.com/dashboard/home)selezionare **MPN** e quindi Selezionare **Vantaggi.**
 
@@ -36,30 +36,30 @@ Come membro Microsoft Partner Network, l'azienda ha accesso a molti vantaggi che
    - [Prodotti Azure & Cloud](mpn-benefits-azure-cloud.md)
    - [Prodotti software](mpn-benefits-software.md)
    - [Sottoscrizioni di Visual Studio](mpn-benefits-visual-studio.md)
-   - Vantaggi tecnici: [vantaggi del supporto tecnico (ID di accesso](mpn-benefits-technical-support.md) e ID contratto) o servizi di prevendita e distribuzione tecnici [(TPD)](technical-benefits.md)
+   - Vantaggi tecnici : [vantaggi del supporto tecnico (ID di accesso](mpn-benefits-technical-support.md) e ID contratto) o servizi di prevendita e distribuzione tecnici [(TPD)](technical-benefits.md)
    - [Go-to-market](mpn-learn-about-go-to-market-benefits.md)
    - [Marketplace Rewards](marketplace-rewards.md)
    - [Generatore di logo](mpn-logo-builder.md)
 
 3. Espandendo ( + ) un vantaggio, sono disponibili informazioni aggiuntive che consentono di attivare il vantaggio specifico.
 
-   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Vantaggi espansi":::
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Vantaggi espansi.":::
 
    > [!NOTE]
-   > Per attivare i vantaggi, è necessario avere il ruolo di amministratore globale o amministratore partner MPN in Partner Center. Tutti gli altri utenti di un'azienda, tuttavia, devono essere in grado di visualizzare i dettagli dei Partner Center, ad esempio gli ID di supporto del prodotto. Per altre informazioni sui ruoli Partner Center, vedere [Assegnare ruoli](permissions-overview.md)utente e autorizzazioni in Partner Center .
+   > Per attivare i vantaggi, è necessario avere il ruolo di amministratore globale o amministratore partner MPN in Partner Center. Tutti gli altri utenti di un'azienda, tuttavia, devono essere in grado di visualizzare i dettagli dei vantaggi in Partner Center, ad esempio gli ID del supporto tecnico. Per altre informazioni sui ruoli Partner Center, vedere [Assegnare ruoli](permissions-overview.md)utente e autorizzazioni in Partner Center .
 
-## <a name="specific-benefit-offers"></a>Offerte di vantaggio specifiche
+## <a name="specific-benefit-offers"></a>Offerte di vantaggi specifici
 
 Per scoprire quali vantaggi sono disponibili con le competenze Microsoft Action Pack, Silver e/o Gold, vedere le risorse seguenti:
 
 - [Tabella delle licenze per i partner Action Pack Microsoft](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
-- [Tabella delle licenze per i partner di competenza](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
+- [Tabella delle licenze per i partner con competenze](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
 Per informazioni su come usare questi vantaggi, vedere la Guida [all'utilizzo del prodotto](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf).
 
 ## <a name="next-steps"></a>Passaggi successivi
 
 - [Associare account Microsoft Learn dipendenti](ms-learn-associate.md)
-- [Gestire i Microsoft Partner Network e le offerte](manage-your-partner-network-benefits.md)
+- [Gestire i vantaggi Microsoft Partner Network e le offerte](manage-your-partner-network-benefits.md)
 - [Attivare i vantaggi tecnici per i Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)

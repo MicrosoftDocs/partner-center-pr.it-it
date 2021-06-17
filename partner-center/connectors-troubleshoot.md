@@ -8,12 +8,12 @@ description: Risposte alle domande comuni sull'uso dei connettori di co-selling.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 49a2b6e5461dacbe87c34b36805a5c240c2e5fd1
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bb7a227624c548a29046b80d3bd5fa363a4aee2f
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148347"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276932"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Risoluzione dei problemi relativi ai connettori di co-selling
 
@@ -41,41 +41,41 @@ Ai venditori partner deve essere assegnato il ruolo "Amministratore delle segnal
 
 5. Quali prerequisiti sono necessari per la creazione Power Automate'ambiente?
 
-Per usare l'Power Automate, è necessario:
+Per usare l'Power Automate virtuale, è necessario:
 
-- È Power Automate necessaria una licenza.
-- È necessaria almeno 1 GB di archiviazione.
+- È Power Automate una licenza.
+- È necessario almeno 1 GB di spazio di archiviazione.
 
-6.  È necessaria una sottoscrizione di Dynamics 365 per usare la soluzione Salesforce Connectors?
+6.  È necessaria una sottoscrizione di Dynamics 365 per usare la soluzione connettori Salesforce?
 
 La soluzione Salesforce Connector è di tipo "Dynamics Flow" che supporta la sincronizzazione con altri sistemi CRM. La soluzione non richiede un'istanza di Dynamics 365 o una sottoscrizione. Durante l'installazione della soluzione Salesforce, potrebbe essere visualizzato un elenco a discesa con l'ambiente CDS esistente nell'azienda. È necessario selezionare l'ambiente. Inoltre, se viene visualizzato l'errore "Non è stato possibile trovare un'organizzazione dynamics 365 connessa all'utente connesso", sarà necessario creare un nuovo ambiente per il connettore.
 
 ## <a name="questions-and-answers-about-configuration"></a>Domande e risposte sulla configurazione
 
-1. Cosa fare se si verifica l'errore seguente durante l'attivazione dei flussi in Power Automate Piattaforma?
+1. Cosa è necessario fare se si verifica l'errore seguente durante l'attivazione dei flussi in Power Automate piattaforma?
 
-Errore: Richiesta di Azure Resource Manager non riuscita con errore: '{"error":{"code":"workflowTriggerNotFound","message":"Il flusso di lavoro 'e14d00f1-1fdf-4b1b-aaac-54a5064093d3' trigger 'manual' non è stato trovato."}}'. 
+Errore: Richiesta a Azure Resource Manager non riuscita con errore: '{"error":{"code":"WorkflowTriggerNotFound","message":"Impossibile trovare il trigger 'e14d00f1-1fdf-4b1b-aaac-54a5064093d3' trigger 'manual'."}}'. 
 
-Seguire questa procedura di risoluzione dei problemi:
+Seguire questa procedura per la risoluzione dei problemi:
 
 - Eliminare la connessione CDS e quindi ricreare le connessioni CDS.
 - Attivare e disattivare il flusso figlio 
 - Eliminare la soluzione e reinstallarla. 
 
-2.  Cosa fare se si verifica l'errore "Accedi" durante l'aggiunta di un connettore Partner Center in Power Automate Platform?
+2.  Cosa è necessario fare se si verifica l'errore "Accesso" durante l'aggiunta di un connettore Partner Center in Power Automate Platform?
 
-:::image type="content" source="images/cosellconnectors/failure.png" alt-text="Messaggio di errore che richiede l'accesso":::
+:::image type="content" source="images/cosellconnectors/failure.png" alt-text="Messaggio di errore che richiede l'accesso.":::
 
 Seguire questo passaggio per la risoluzione dei problemi:
 
 - Usare le credenziali Partner Center per accedere all'ambiente di flusso una sola volta (flow.microsoft.com).
 
 
-3. Cosa è necessario fare se viene visualizzato l'errore seguente durante l'attivazione del Partner Center al flusso CRM in Power Automate Piattaforma?
+3. Cosa è necessario fare se viene visualizzato l'errore seguente durante l'attivazione del Partner Center al flusso CRM in Power Automate Platform?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Messaggio di errore che richiede aggiornamenti":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Messaggio di errore che richiede aggiornamenti.":::
 
-Seguire questi passaggi per la risoluzione dei problemi:
+Seguire questa procedura per la risoluzione dei problemi:
 
 - Attivare i due flussi figlio seguenti prima di attivare il flusso Partner Center al flusso CRM.
       - Partner Center a CRM - Helper (Insider Preview)
@@ -88,14 +88,14 @@ Si aggiungono connessioni al flusso mentre il flusso è in esecuzione e si aggiu
 - Selezionare ogni flusso e modificarlo singolarmente.
 - Espandere tutti i passaggi nel flusso 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Passaggi che necessitano di connessioni":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Passaggi che necessitano di connessioni.":::
 
 - Selezionare i passaggi in cui viene visualizzata un'icona di avviso che chiede di associare le connessioni e aggiungere le connessioni. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Modificare il flusso passo per passo":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Modificare il flusso passo per passo.":::
 
 
-5. Cosa è necessario fare se i flussi della soluzione Connettori di segnalazioni di co-selling non si attivano?
+5. Cosa è necessario fare se i flussi della soluzione connettori di segnalazioni di co-selling non si attivano?
 
 A. In Power Automate, è necessario modificare i flussi nell'ordine seguente e aggiornarli per usare le connessioni corrette:
 
@@ -109,7 +109,7 @@ A. In Power Automate, è necessario modificare i flussi nell'ordine seguente e a
 
  B. Per ogni flusso selezionare **l'opzione Esegui solo utenti.** Selezionare **Usa connessione** anziché Fornito **dall'utente di sola esecuzione.**  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Per attivare un flusso":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Per attivare un flusso.":::
 
 
 C. Attivare i flussi indicati di seguito:
@@ -133,7 +133,7 @@ Per assicurarsi che i flussi Power Automate siano eseguiti come previsto e per r
  
 Per determinare lo stato della sincronizzazione dei riferimenti, selezionare **Controlla**. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Come sincronizzare le segnalazioni":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Come sincronizzare le segnalazioni.":::
 
 Assicurarsi che siano soddisfatte le condizioni seguenti:
 
@@ -143,23 +143,23 @@ Assicurarsi che siano soddisfatte le condizioni seguenti:
 
 - Quando si seleziona l'assistenza di Microsoft per l'opportunità, sono necessarie le informazioni di contatto del cliente.
 
-3. Come assicurarsi che una segnalazione verrà sincronizzata bidirezionale?
+3. Come garantire la sincronizzazione bidirezionale di una segnalazione?
 
 Eseguire i passaggi seguenti:
 
-- I venditori partner devono assicurarsi di aver abilitato l'opzione **Sincronizza con** Partner Center nella sezione CRM.
+- I venditori partner devono assicurarsi di aver abilitato l'opzione **Sincronizza con Partner Center** nella sezione CRM.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Assicurarsi di aver abilitato Synch":::
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Assicurarsi di aver abilitato Synch.":::
 
-- I venditori devono fornire ricavi e data di chiusura quando qualificano un lead.
+- I venditori devono fornire i ricavi e la data di chiusura quando qualificano un lead.
 
-- Se l'ID CRM  viene  specificato nella fase di creazione o aggiornamento dell'opportunità di co-selling, ma un'opportunità lead con tale ID non viene trovata in CRM, l'aggiornamento o la creazione verranno ignorati.
+- Se l'ID CRM  viene  specificato nella fase di creazione o aggiornamento dell'opportunità di co-selling, ma in CRM non viene trovata un'opportunità lead con tale ID, l'aggiornamento o la creazione verranno ignorati.
 
 - Assicurarsi che il campo della valuta di riferimento sia configurato nell'ambiente Salesforce. 
 
-4. Cosa fare se il connettore viene disconnesso e si perde una sincronizzazione delle segnalazioni?
+4. Cosa è necessario fare se il connettore viene disconnesso e si perde una sincronizzazione dei riferimenti?
 
-Di seguito sono riportate alcune opzioni che è possibile provare:
+Di seguito sono riportate alcune delle opzioni che è possibile provare:
 
 - Controllare se il nome utente o la password sono scaduti per l Partner Center utente con ruoli di amministratore di riferimento.
 

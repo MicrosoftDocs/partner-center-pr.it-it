@@ -4,44 +4,44 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Controllare questo report sulle licenze dei prodotti e scoprire come migliorare i prodotti cloud basati su licenza venduti o gestiti per i clienti.
+description: Controllare questo report sulle licenze del prodotto e informazioni su come migliorare i prodotti cloud basati su licenza che si vendono o gestiscono per i clienti.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15658abdbf23c1181fb411fd66673fc9699250ae
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 8ab1ec5001e3b21d9661d0db0e7b8e51f12acda2
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855166"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277471"
 ---
-# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Report Licenze prodotto nel dashboard Partner Center Insights
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Report Licenze prodotto nel dashboard di Partner Center Insights
 
-**Ruoli appropriati:** amministratore globale | Agente di amministrazione | Visualizzatore report | Visualizzatore di report executive
+**Ruoli appropriati:** Amministratore globale | Agente amministratore | Visualizzatore di report | Visualizzatore di report executive
 
 Il report Licenze prodotto presenta l'analisi delle licenze per i prodotti cloud basati su licenza, ad esempio Office 365, Dynamics, Microsoft 365, Power BI e altri. L'analisi presentata qui è associata all'utilizzo delle licenze vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report Licenze prodotto.
 
 - Riepilogo
 - Distribuzione geografica delle licenze
-- Aggiunta di licenze
+- Aggiunta della licenza
 - Distribuzione delle licenze per località partner, canale di vendita, SKU, tipo di collegamento partner, segmento
 
  > [!NOTE]
- > Questo report è disponibile nel dashboard informazioni dettagliate. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Executive Report Viewer. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report esecutivi.
+ > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Executive Report Viewer. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi Executive Report Viewer.
 
 ## <a name="summary"></a>Riepilogo
 
-La sezione di riepilogo offre una visualizzazione snapshot degli indicatori di prestazioni chiave (KPI) associati alle licenze di prodotti cloud vendute, distribuite e usate. Ciò consente di tenere traccia dell'utilizzo attivo rispetto alle licenze vendute ai clienti.
+La sezione di riepilogo offre una visualizzazione snapshot degli indicatori di prestazioni chiave (KPI) associati alle licenze dei prodotti cloud vendute, distribuite e usate. Ciò consente di tenere traccia dell'utilizzo attivo rispetto alle licenze vendute ai clienti.
 
-:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="riepilogo del report sulle licenze":::
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Riepilogo del report sulle licenze.":::
 
 Per altre informazioni su ogni sezione del riepilogo, vedere di seguito:
 
 - Licenses: 
-  - Conteggio corrente di tutte le licenze vendute o gestite dall'utente per i prodotti cloud basati su licenza, ad esempio Office 365, Dynamics, Microsoft 365, Power BI e altri.
-  - Percentuale di crescita o calo di queste licenze nell'intervallo di date selezionato.
-  - Grafico micro tendenza licenze: il micro chart presenta la tendenza mensile dei conteggi delle licenze durante l'intervallo di date selezionato
+  - Conteggio corrente di tutte le licenze vendute o gestite dall'utente per prodotti cloud basati su licenza, ad esempio Office 365, Dynamics, Microsoft 365, Power BI e altri.
+  - Percentuale di crescita o riduzione di queste licenze nell'intervallo di date selezionato.
+  - Micro chart di tendenza delle licenze: il micro chart presenta la tendenza mensile dei conteggi delle licenze durante l'intervallo di date selezionato
 
 - Licenze distribuite:
   - Conteggio corrente di tutte le licenze assegnate del cliente.
@@ -61,7 +61,7 @@ La **visualizzazione Distribuzione geografica licenze** mostra la distribuzione 
 
 È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione nella mappa. Premere **l'opzione** Home sulla mappa per ripristinare la visualizzazione predefinita. Passare il mouse sulla mappa per visualizzare le licenze correnti e le licenze attive in base al paese del cliente. Entrambi i campi nella griglia sono ordinabili.
 
-:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="distribuzione geografica delle licenze":::
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="distribuzione geografica delle licenze.":::
 
 ## <a name="license-adds"></a>Aggiunta della licenza
 
@@ -71,17 +71,17 @@ Per presentare la tendenza in base a prodotto e servizio/carico di lavoro, selez
 
 L'asse X rappresenta i mesi dell'intervallo di date selezionato. L'asse Y rappresenta il numero di licenze aggiunte. Per ingrandire un periodo specifico, usare il dispositivo di scorrimento nella parte superiore del grafico.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="aggiunta di licenze":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="aggiunta della licenza.":::
 
 ## <a name="license-distribution"></a>Distribuzione delle licenze
 
-Questa visualizzazione mostra una suddivisione delle licenze dei clienti per prodotto e paese/area geografica del cliente. Quando si seleziona un prodotto nel grafico a torta **Licenza** per prodotto, il grafico adiacente mostra una suddivisione delle licenze in base all'area del cliente.
+Questa visualizzazione mostra una suddivisione delle licenze dei clienti in base al prodotto e al paese/area geografica del cliente. Quando si seleziona un prodotto nel grafico a torta **Licenza** per prodotto, il grafico adiacente mostra una suddivisione delle licenze in base all'area del cliente.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="distribuzione delle licenze":::
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="distribuzione delle licenze.":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-Per altri report, vedere [Partner Center Insights.](partner-center-insights.md)
+Per altri report, vedere [Partner Center Insights](partner-center-insights.md).
 
 >[!NOTE] 
-> È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report del dashboard informazioni dettagliate. [Altre informazioni](pci-download-reports.md)
+> È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report nel dashboard di Insights. [Altre informazioni](pci-download-reports.md)

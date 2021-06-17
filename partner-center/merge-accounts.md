@@ -1,6 +1,6 @@
 ---
 title: Unire l'account partner con un altro account partner
-description: Informazioni su come unire l'account partner con un altro account partner in Partner Center, per le aziende che sono partner Microsoft attivi in Partner Center.
+description: Informazioni su come unire l'account partner a un altro account partner in Partner Center, per le aziende che sono partner Microsoft attivi in Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -8,44 +8,44 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bcef4c771d748b0e2fbeae8cf1daaf41d7f53b43
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146511"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276638"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unire l'account partner con un altro account partner
 
 **Ruoli appropriati:** Amministratore account
 
-Due o più aziende che sono partner Microsoft attivi e hanno account Partner Center scegliere di unire i propri account.
+Due o più aziende che sono partner Microsoft attivi e hanno account in Partner Center possibile scegliere di unire i propri account.
 
 ## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>Cosa accade quando due partner sceglie di unire i propri account Partner Center partner
 
-- L'organizzazione partner che avvia l'unione sarà l'account globale partner (PGA).
+- L'organizzazione partner che avvia l'unione sarà l'account globale del partner.
 
-- La PGA dell'organizzazione invitata diventa una località dell'azienda che inizia.
+- Il PGA dell'organizzazione invitata diventa la posizione dell'azienda che ha iniziato.
 
-- Tutte le posizioni dell'account di unione diventano posizioni sotto il PGA.
+- Tutte le posizioni dell'account di unione diventano posizioni nel PGA.
 
-- Al termine della fusione dell'account, verranno visualizzati i dettagli dell'account, ad esempio località e utenti, all'interno del profilo PGA. Non è possibile invertire questo processo.
+- Al termine della fusione dell'account, verranno visualizzati i dettagli dell'account, ad esempio le posizioni e gli utenti all'interno del profilo PGA. Non è possibile invertire questo processo.
 
 - Tutti gli ID MPN per le località vengono mantenuti durante questo consolidamento.
 
-- I ruoli dell'utente vengono assegnati. Ad esempio, se un utente fosse stato l'amministratore degli incentivi per una località specifica, avrebbe comunque questo ruolo dopo la fusione e sarebbe in grado di visualizzare gli incentivi visualizzati prima della fusione.
+- Vengono assegnati i ruoli dell'utente. Ad esempio, se un utente fosse stato l'amministratore di incentivi per una località specifica, avrebbe ancora quel ruolo dopo la fusione e sarebbe in grado di visualizzare gli incentivi visti prima della fusione.
 
 - Azure AD tenant e gli account CSP non vengono uniti e non hanno alcun effetto.
 
-- Le offerte pubblicate e i dati della pipeline di co-selling associati a entrambe le aziende vengono mantenuti
+- Le offerte pubblicate e i dati della pipeline di co-selling associati a entrambe le aziende vengono conservati
 
 ### <a name="view-of-merged-accounts"></a>Visualizzazione degli account uniti
 
-:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Fusione di account":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Fusione di account.":::
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Cosa aspettarsi se si è stati invitati a unire l'account Partner Center con un altro account Partner Center
 
-Se si decide di accettare l'invito a unire gli account: · Gli ID MPN e le località verranno uniti nella PGA dell'account partner che ha invitato l'utente.
+Se si decide di accettare l'invito a unire gli account: · Gli ID MPN e le località verranno uniti nell'account PGA dell'account partner che ha invitato l'utente.
 
 - Gli utenti verranno portati nell'account unito con i relativi ruoli intatti.
 
@@ -53,23 +53,23 @@ Se si decide di accettare l'invito a unire gli account: · Gli ID MPN e le local
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>Comprendere l'impatto sui programmi e sui vantaggi quando i partner decidono di unire gli account
 
-- Tutte le competenze esistenti (Gold/Silver), gli acquisti (ad esempio Microsoft Action Pack) e i vantaggi associati vengono mantenuti durante il consolidamento. Se entrambe le aziende hanno la stessa competenza, ma una è gold e l'altra silver, la competenza con il livello di competenza più alto verrà assegnata e i partner avranno un set di vantaggi silver e un set di vantaggi gold per tale competenza fino al successivo rinnovo. 
+- Tutte le competenze esistenti (Gold/Silver), gli acquisti (ad esempio Microsoft Action Pack) e i vantaggi associati vengono mantenuti durante il consolidamento. Se entrambe le aziende hanno la stessa competenza, ma una è gold e l'altra silver, la competenza con il livello di competenza più elevato verrà assegnata e i partner avranno un set di vantaggi Silver e un set di vantaggi Gold per tale competenza fino al successivo rinnovo. 
 
-- La data dell'anniversario più Action Pack Microsoft verrà mantenuta dopo la fusione. Ad esempio, se la data dell'anniversario per la società 1 è giugno 2020 per il rinnovo del Action Pack e la data dell'anniversario per il rinnovo del Action Pack per la società 2 è ottobre 2020, Microsoft userà la data di ottobre 2020 come nuova data di anniversario per la società unita.
+- La data di ricorrenza più elevata Action Pack Microsoft verrà mantenuta dopo la fusione. Ad esempio, se la data dell'anniversario per la società 1 è giugno 2020 per il rinnovo del Action Pack e la data dell'anniversario per il rinnovo della società Action Pack 2 è ottobre 2020, Microsoft userà la data di ottobre 2020 come nuova data di anniversario per la società unita.
 
-- Durante la fusione dell'account e fino al successivo rinnovo, ogni account manterrà i Action Pack e/o i vantaggi di competenza. Al momento del rinnovo, vengono applicate Action Pack standard e di rinnovo delle competenze.
+- Durante la fusione dell'account e fino al successivo rinnovo, ogni account manterrà i Action Pack e/o i vantaggi di competenza. Al momento del rinnovo, si applicano le Action Pack standard e di rinnovo delle competenze.
 
-- Al momento del rinnovo, i vantaggi inclusi con il raggiungimento delle competenze e Action Pack vengono implementati per l'account globale partner dell'azienda partner:
+- Al momento del rinnovo, i vantaggi inclusi con il conseguimento delle competenze e Action Pack vengono implementati per l'account globale partner della società partner:
 
-  - Microsoft Action Pack: l'azienda partner sarà in grado di acquistare una Action Pack per ogni account globale partner.
+  - Microsoft Action Pack: la società partner sarà in grado di acquistare una Action Pack per ogni account globale partner.
 
-  - Competenza: l'azienda partner riceverà un pacchetto di vantaggi principali, associati ai risultati più elevati, oltre ai vantaggi specifici delle competenze per cui il partner è idoneo per ogni account globale del partner.
+  - Competenza: la società partner riceverà un pacchetto di vantaggi di base, associati al massimo livello di competenza, oltre ai vantaggi specifici delle competenze per cui il partner è idoneo per ogni account globale del partner.
 
-- Tutti i vantaggi sono soggetti alla guida [all Microsoft Partner Network di utilizzo dei vantaggi.](https://aka.ms/partner-benefits-use-guide) Ad esempio, un token di O365 E3 attivato funziona per 12 mesi dopo l'attivazione. Dopo aver attivato un token per le licenze in un tenant, tali licenze potrebbero non essere spostate in un altro tenant.
+- Tutti i vantaggi sono soggetti alla guida [all Microsoft Partner Network sull'utilizzo dei vantaggi.](https://aka.ms/partner-benefits-use-guide) Ad esempio: un token di O365 E3 attivato funziona per 12 mesi dopo l'attivazione. Dopo che un token è stato attivato per le licenze in un tenant, tali licenze potrebbero non essere spostate in un altro tenant.
 
-- Le associazioni DI ID MCP per entrambe le società verranno mantenute e associate all'ID MPN PGA.
+- Le associazioni ID MCP per entrambe le società verranno mantenute e associate all'ID MPN PGA.
 
-- I vantaggi tecnici e di go-to-market vengono offerti come vantaggio principale per le competenze. Dopo la unione, è consigliabile controllare le informazioni bancarie e fiscali per garantire l'accuratezza.
+- I vantaggi tecnici e go-to-market vengono offerti come vantaggio principale per le competenze. Dopo la unione, è consigliabile controllare le informazioni bancarie e fiscali per garantire l'accuratezza.
 
 - Se la società è in programma Azure Expert MSP, i vantaggi vengono mantenuti fino al rinnovo.
 
@@ -96,31 +96,31 @@ Se si decide di accettare l'invito a unire gli account: · Gli ID MPN e le local
 
 1. Contoso, Ltd. ha 
 
-    a. un [ID MPN globale di 1111111 e](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) un ID MPN di posizione subordinata di [2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+    a. un [ID MPN globale 1111111 e](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) un ID MPN di posizione subordinata di [2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
   
     b. un tenant Azure AD = @contoso.com
  
-    c. una competenza gold che scade il 1° ottobre 2020
+    c. una competenza Gold che scade il 1° ottobre 2020
 2. Fabrikam, Inc. ha
  
-    a.  un ID MPN globale 3333333 e due ID MPN di posizione subordinata 4444444 e 5555555
+    a.  un ID MPN globale di 3333333 e due ID MPN della posizione subordinata 4444444 e 5555555
 
     b.  un tenant Azure AD = @fabrikam.com
 
-    c.  due competenze gold che scadono il 1° dicembre 2020
-3.  Contoso acquista Fabrikam e viene qui [per](https://partner.microsoft.com/dashboard/account/merger) avviare una richiesta di unione.
+    c.  due competenze Gold che scadono il 1° dicembre 2020
+3.  Contoso acquista Fabrikam e viene qui [per](https://partner.microsoft.com/dashboard/account/merger) avviare una richiesta di merge.
 4.  Fabrikam accede Partner Center e passa alla stessa pagina di Contoso nel passaggio #3, per approvare la richiesta di Contoso.
 5.  Contoso esamina i dettagli dell'unione nella stessa pagina e fornisce una conferma per procedere con la fusione dell'account.
 6.  Dopo la fusione, l'account aziendale verrà visualizzato come:
 
-    a.  Una società denominata Contoso con ID MPN globale 1111111 e 4 ID MPN di posizione subordinata 222222, 3333333, 4444444 e 5555555
+    a.  Una società denominata Contoso con ID MPN globale 1111111 e 4 ID MPN di posizione subordinata 2222222, 33333333, 44444444 e 5555555
     
-    b.  Avrà due tenant Azure AD ( @contoso.com + @fabrikam.com ) che hanno accesso allo stesso account Partner Center account
+    b.  Avrà due tenant Azure AD ( + ) che hanno @contoso.com accesso allo stesso account @fabrikam.com Partner Center
     
-    c.  Avrà due pacchetti di vantaggi per le competenze, uno che scade il 1° ottobre 2020 e l'altro il 1° dicembre 2020. Il 1° dicembre 2020 sarà possibile rinnovare come singolo pacchetto di vantaggi per le competenze. Al momento del rinnovo, Contoso manterrà tutte e tre le competenze anche se può gestire un solo pacchetto di vantaggi.
+    c.  Avrà due pacchetti di vantaggi per le competenze, uno con scadenza il 1° ottobre 2020 e l'altro con scadenza il 1° dicembre 2020. Il 1° dicembre 2020 sarà possibile eseguire il rinnovo come singolo pacchetto di vantaggi per le competenze. Al momento del rinnovo, Contoso manterrà tutte e tre le competenze anche se può gestire un solo pacchetto di vantaggi.
     
-7.  Gli amministratori di Contoso continueranno a gestire i Partner Center per gli @contoso.com utenti di . Gli amministratori di Fabrikam continueranno a gestire i Partner Center per @fabrikam.com gli utenti di . Gli amministratori di Contoso possono amministrare gli utenti di Fabrikam solo se vengono invitati come guest nel tenant di Fabrikam.
-8.  Contoso potrebbe decidere di ignorare il tenant e riemettere ai dipendenti di Fabrikam nuove credenziali @fabrikam.com con nuovi ruoli e @contoso.com autorizzazioni.
+7.  Gli amministratori di Contoso continueranno a gestire i Partner Center per @contoso.com gli utenti di . Gli amministratori di Fabrikam continueranno a gestire i Partner Center per @fabrikam.com gli utenti di . Gli amministratori di Contoso possono amministrare gli utenti di Fabrikam solo se vengono invitati come guest nel tenant di Fabrikam.
+8.  Contoso potrebbe decidere di ignorare il tenant e riemettere le nuove credenziali ai dipendenti @fabrikam.com fabrikam con nuovi ruoli e @contoso.com autorizzazioni.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

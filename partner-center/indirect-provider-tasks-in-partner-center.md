@@ -1,6 +1,6 @@
 ---
 title: Collaborare con rivenditori indiretti in CSP
-description: In quanto provider indiretto o distributore, informazioni su come espandersi collaborando con rivenditori indiretti. Sono incluse le attività che è possibile eseguire in Partner Center.
+description: Come provider indiretto o distributore, informazioni su come espandersi collaborando con rivenditori indiretti. Sono incluse le attività che è possibile eseguire in Partner Center.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: bd11b65fb1f11839cba50d8bc1da94668009c56c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ec673f7dcf620f055be58dc3a333575addcd6cd1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146681"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277845"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Collaborare con i rivenditori indiretti nel programma Cloud Solution Provider
 
@@ -42,7 +42,7 @@ Per informazioni su ciò che è necessario per partecipare al programma CSP come
 
 Completare i passaggi seguenti per stabilire e gestire la partnership con rivenditori e clienti indiretti. I passaggi 2 e 3 sono descritti più dettagliatamente di seguito.
 
-1. Esaminare il profilo della società [nell'elenco dei provider](https://partnercenter.microsoft.com/partner/find-a-provider)indiretti ufficiali di Microsoft.
+1. Esaminare il profilo dell'azienda [nell'elenco dei](https://partnercenter.microsoft.com/partner/find-a-provider)provider indiretti ufficiali di Microsoft.
 
    - Per apportare modifiche al profilo dei provider indiretti dell'azienda, contattare il rappresentante Microsoft.
 
@@ -56,26 +56,26 @@ Completare i passaggi seguenti per stabilire e gestire la partnership con rivend
 
    - Stabilire relazioni con i rivenditori con i clienti esistenti
 
-Dopo aver completato questi passaggi, è possibile gestire le partnership come rivenditori nella pagina **Rivenditori** indiretti **dal** menu Partner Center rivenditore.
+Dopo aver completato questi passaggi, è possibile  gestire le partnership con i rivenditori nella pagina Rivenditori indiretti **dal** menu Partner Center rivenditore.
 
 > [!IMPORTANT]
-> Prima di iniziare a lavorare con i rivenditori, è necessario che siano registrati come rivenditori indiretti nel programma CSP e che Partner Center account. Impostare i rivenditori come [partner con provider indiretti in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) per informazioni sulla registrazione in CSP.
+> Prima di iniziare a lavorare con i rivenditori, è necessario registrarli come rivenditori indiretti nel programma CSP e avere Partner Center account. Per informazioni sulla registrazione in [CSP, puntare](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) i rivenditori a Partner con provider indiretti in CSP.
 
 ## <a name="connect-with-indirect-resellers"></a>Connettersi con rivenditori indiretti
 
-Per interagire ed eseguire transazioni con rivenditori indiretti nel Partner Center, è necessario stabilire una partnership con i rivenditori. La collaborazione con un rivenditore indiretto consente a te e al rivenditore di servire entrambi i clienti comuni.
+Per interagire ed eseguire transazioni con rivenditori indiretti nel Partner Center, è necessario stabilire una partnership con essi. La collaborazione con un rivenditore indiretto consente all'utente e al rivenditore di servire entrambi i clienti comuni.
 
-Per stabilire una relazione, inviare una richiesta di partnership tramite posta elettronica al rivenditore. Assicurarsi di avere a disposizione l'indirizzo di posta elettronica del rivenditore prima di iniziare.
+Per stabilire una partnership, inviare una richiesta di partnership tramite posta elettronica al rivenditore. Assicurarsi di avere a disposizione l'indirizzo di posta elettronica del rivenditore prima di iniziare.
 
-Nel campo Reseller (MPN ID) della pagina dei dettagli della sottoscrizione aggiungere il rivenditore con cui si vuole lavorare. Assicurarsi di usare l'ID MPN associato all'account della posizione partner del rivenditore usato per eseguire l'onboard Partner Center. In questo modo, il rivenditore riceverà gli incentivi appropriati e avrà una Contratto Microsoft Partner attiva per partecipare alla transazione.
+Nel campo Reseller (MPN ID) della pagina dei dettagli della sottoscrizione aggiungere il rivenditore che si vuole usare. Assicurarsi di usare l'ID MPN associato all'account della posizione partner del rivenditore usato per eseguire l'onboard Partner Center. In questo modo il rivenditore riceverà gli incentivi appropriati e avrà un Contratto Microsoft Partner attivo per partecipare alla transazione.
 
-1. Selezionare **Rivenditori indiretti** dal menu **Partner Center** risorse.
+1. Selezionare **Rivenditori indiretti** dal menu **Partner Center.**
 
-2. Nella pagina **Rivenditori indiretti** selezionare **Richiedi una relazione.** Viene visualizzato un messaggio di posta elettronica bozza.
+2. Nella pagina **Rivenditori indiretti** selezionare **Richiedi una partnership.** Viene visualizzato un messaggio di posta elettronica bozza.
 
-3. Selezionare **Apri nel messaggio di posta** elettronica per  aprire il messaggio nell'applicazione di posta elettronica predefinita oppure selezionare Copia negli Appunti per copiare e incollare il messaggio in un messaggio di posta elettronica. Al **termine, selezionare** Fine.
+3. Selezionare **Apri nel messaggio di posta** elettronica per  aprire il messaggio nell'applicazione di posta elettronica predefinita oppure selezionare Copia negli Appunti da copiare e quindi incollare il messaggio in un messaggio di posta elettronica. Al **termine, selezionare** Fine.
     > [!IMPORTANT]  
-    >  È possibile modificare il testo nel messaggio di posta elettronica, ma assicurarsi di includere il collegamento personalizzato per l'account Partner Center personale.
+    >  È possibile modificare il testo nel messaggio di posta elettronica, ma assicurarsi di includere il collegamento così come viene personalizzato per l'account Partner Center personale.
 
 4. Dopo che il rivenditore ha accettato la richiesta di partnership, verrà visualizzato nell'elenco dei rivenditori indiretti, quindi è possibile:
 
@@ -87,17 +87,17 @@ Nel campo Reseller (MPN ID) della pagina dei dettagli della sottoscrizione aggiu
 
    - Designarli come contatto di supporto del cliente per sottoscrizioni specifiche
 
-A seconda del livello di accesso e di coinvolgimento che si vuole che il rivenditore abbia, è possibile eseguire una o più delle azioni descritte di seguito.
+A seconda del livello di accesso e coinvolgimento che si vuole ottenere dal rivenditore, è possibile eseguire una o più delle azioni descritte di seguito.
 
-Per le sottoscrizioni esistenti, se si decide di collaborare con un rivenditore indiretto, è possibile aggiornare i dettagli della sottoscrizione per includere il rivenditore indiretto.
+Per le sottoscrizioni esistenti, se si decide di usare un rivenditore indiretto, è possibile aggiornare i dettagli della sottoscrizione per includere il rivenditore indiretto.
 
-- Nel campo Reseller **(MPN ID) della** pagina dei dettagli della sottoscrizione aggiungere il rivenditore con cui si vuole lavorare. In questo modo il rivenditore riceverà gli incentivi appropriati.
+- Nel campo Reseller **(MPN ID)** della pagina dei dettagli della sottoscrizione aggiungere il rivenditore che si vuole usare. In questo modo il rivenditore riceverà gli incentivi appropriati.
 
 | **A tale scopo** | **Procedere nel modo seguente** | **Where** |
 |   ------------------   |   -------   |   -----   |
-| Consentire al rivenditore di gestire l'account di un cliente e avere le autorizzazioni di amministratore per gestire le sottoscrizioni | Associare un rivenditore a un account cliente quando si aggiunge un nuovo cliente | Nella pagina **Nuovo** cliente |
-| Consentire al rivenditore di gestire l'account di un cliente di Azure|Associare un rivenditore a un account cliente di Azure quando si aggiunge un nuovo cliente|Nel portale **dei servizi di Azure** selezionare Impostazioni utente [per](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) assegnare le autorizzazioni di proprietario del tenant del **rivenditore indiretto**|
-| Assegnare al rivenditore il credito per gli incentivi | Associare il rivenditore alla sottoscrizione (nuova o esistente) | Nella pagina **Nuova sottoscrizione** |
+| Abilitare il rivenditore per gestire l'account di un cliente e avere le autorizzazioni di amministratore per gestire le sottoscrizioni | Associare un rivenditore a un account cliente quando si aggiunge un nuovo cliente | Nella pagina **Nuovo** cliente |
+| Abilitare il rivenditore per gestire l'account di un cliente di Azure|Associare un rivenditore a un account cliente di Azure quando si aggiunge un nuovo cliente|Nel portale **del servizio di Azure** selezionare Impostazioni utente [per](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) concedere le autorizzazioni di proprietario del **tenant rivenditore** indiretto|
+| Concedere al rivenditore il credito per gli incentivi | Associare il rivenditore alla sottoscrizione (nuova o esistente) | Nella pagina **Nuova sottoscrizione** |
 | Delegare il supporto clienti per sottoscrizioni specifiche al rivenditore | Selezionare il rivenditore **nell'elenco Contatto del supporto designato** | Nella pagina dei dettagli della sottoscrizione: selezionare il cliente nella **pagina Clienti** e quindi selezionare la sottoscrizione dalla pagina **Sottoscrizioni del** cliente |
 
 ## <a name="remove-partnership-with-indirect-resellers"></a>Rimuovere la collaborazione con rivenditori indiretti
@@ -108,7 +108,7 @@ Per rimuovere la relazione con un rivenditore indiretto esistente, seguire quest
 
 2. Nella pagina **Rivenditori indiretti** selezionare **Rimuovi partnership.** Verrà visualizzato un messaggio che richiede conferma. Per continuare, selezionare **Sì.**
 
-:::image type="content" source="images/ip-ir-relationship.png" alt-text="Rimuovere la relazione":::
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="Rimuovere la relazione.":::
 
 >[!IMPORTANT]
 >I clienti associati al rivenditore indiretto non verranno rimossi. Tutti i privilegi di amministratore delegato concessi rimarranno invariati.
@@ -116,7 +116,7 @@ Per rimuovere la relazione con un rivenditore indiretto esistente, seguire quest
 >Se il contratto lo prevede, è necessario fornire al cliente o al partner comunicazione ufficiale relativa all'interruzione della relazione. Questo strumento non consente di generare comunicazioni da inviare al cliente o al partner.
 
 3. Il rivenditore indiretto di cui è stata rimossa la partnership non verrà visualizzato nell'elenco.
-A seconda del livello di accesso e coinvolgimento, è possibile comunicare al rivenditore indiretto e al cliente finale di questa modifica.
+A seconda del livello di accesso e coinvolgimento, è possibile comunicare al rivenditore indiretto e al cliente finale la modifica.
 
 
 ## <a name="connect-with-customers"></a>Entra in contatto con i clienti
@@ -140,17 +140,17 @@ Quando si associa un rivenditore a un nuovo account cliente, si delega la gestio
 6. Dopo aver inviato l'ordine, viene **visualizzata la pagina** Conferma. In **Informazioni di configurazione** vengono visualizzati il nome dell'account utente amministratore e la password temporanea. Copiare le informazioni sul nome e sulla password dell'account utente in modo da poterlo inviare al nuovo cliente.
 
     > [!IMPORTANT]  
-    > Assicurarsi di prendere nota del nome e della password dell'account utente perché non è possibile accedere di nuovo a queste informazioni dopo la chiusura di questa pagina.
+    > Assicurarsi di prendere nota del nome dell'account utente e della password perché non è possibile accedere di nuovo a queste informazioni dopo aver chiuso questa pagina.
 
 7. Selezionare **Fine**. Il nuovo cliente viene visualizzato nell'elenco dei clienti, associato al rivenditore indiretto. Il rivenditore ha ora accesso amministrativo alle informazioni e alle sottoscrizioni dell'account del cliente e può gestire le sottoscrizioni per conto del cliente.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Aggiungere nuove sottoscrizioni agli account dei clienti
 
-Quando i clienti vogliono acquistare nuove sottoscrizioni, aggiornare quelle esistenti o acquistare licenze aggiuntive, queste modifiche vengono apportate nell'account del cliente tramite il portale Microsoft 365. Non è possibile eseguire questa operazione nel portale di Azure.
+Quando i clienti vogliono acquistare nuove sottoscrizioni, aggiornare quelle esistenti o acquistare licenze aggiuntive, è possibile apportare queste modifiche nell'account del cliente tramite il portale Microsoft 365. Non è possibile eseguire questa operazione nel portale di Azure.
 
-1. Selezionare **Customers** (Clienti) **Partner Center** menu.
+1. Selezionare **Clienti** dal menu **Partner Center.**
 
-2. Trovare il cliente di cui si vuole modificare l'account. È possibile filtrare l'elenco in base al rivenditore indiretto per limitare le scelte. Espandere il record del cliente selezionando la freccia giù e quindi **aggiungi sottoscrizione.**
+2. Trovare il cliente di cui si vuole modificare l'account. È possibile filtrare l'elenco in base al rivenditore indiretto per limitare le scelte. Espandere il record del cliente selezionando la freccia rivolta verso il basso e quindi aggiungi **sottoscrizione.**
 
 3. Nella **pagina Nuova sottoscrizione** selezionare le sottoscrizioni e immettere il numero di licenze che il cliente vuole acquistare.
 
@@ -164,7 +164,7 @@ Quando i clienti vogliono acquistare nuove sottoscrizioni, aggiornare quelle esi
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-Trovare le risposte alle domande sul Contratto Microsoft Partner
+Trovare le risposte alle domande sull'Contratto Microsoft Partner
 
 - [Come i provider indiretti possono aiutare i rivenditori ad adottare il Contratto Microsoft Partner - Domande frequenti](mpa-indirect-provider-faq.md)
 

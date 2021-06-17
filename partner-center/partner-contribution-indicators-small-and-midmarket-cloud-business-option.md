@@ -4,30 +4,30 @@ ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sugli indicatori pci (Partner Contribution Indicators) che i partner devono soddisfare prima di poter ottenere la competenza small e midmarket cloud solutions.
+description: Informazioni sugli indicatori di contributo dei partner (PCI) che i partner devono soddisfare prima di poter ottenere la competenza Small and Midmarket Cloud Solutions.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 389a20cb8447852758c284368d52b504e8438b07
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6fdc5687379d7bca08802f2301fdb8587f38da20
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110145899"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277641"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Usare gli indicatori di contributo dei partner per ottenere la competenza Soluzioni cloud per le piccole e medie imprese
 
-**Ruoli appropriati:** amministratore globale | Amministratore partner MPN | Amministratore account
+**Ruoli appropriati:** Amministratore globale | Amministratore partner MPN | Amministratore dell'account
 
-Questo articolo descrive sei indicatori di contributo chiave per i partner (PCI) usati per valutare i progressi di un partner verso il raggiungimento o la conservazione di una competenza Silver o Gold small and Midmarket Cloud Solutions tramite l'opzione Cloud Business Applications SMB.
+Questo articolo descrive sei indicatori di contributo partner chiave (PCI) usati per valutare i progressi di un partner verso il raggiungimento o la conservazione di una competenza Silver o Gold Small e Midmarket Cloud Solutions tramite l'opzione Cloud Business Applications SMB.
 
 > [!NOTE]
-> Informazioni su come i partner usano un set diverso di metriche dell'indicatore di contributo ai partner per ottenere la competenza Silver o Gold Cloud Business Applications. Per altre informazioni, vedere [Use Partner Contribution Indicators for the Cloud Business Applications competency](partner-contribution-indicators.md)(Usare gli indicatori di contributo dei partner per la competenza cloud). È anche possibile [leggere altre](https://partner.microsoft.com/membership/competencies) informazioni sulle diverse competenze disponibili e sui relativi requisiti.
+> Informazioni su come i partner usano un set diverso di metriche dell'indicatore di contributo ai partner per ottenere la competenza silver o gold cloud Business Applications. Per altre informazioni, vedere [Use Partner Contribution Indicators for the Cloud Business Applications competency](partner-contribution-indicators.md). È anche possibile [leggere altre](https://partner.microsoft.com/membership/competencies) informazioni sulle diverse competenze disponibili e sui relativi requisiti.
 
 Questo articolo include informazioni su:
 
-- [Come viene ottenuto un punteggio per ogni indicatore PCI](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)
+- [Come viene ottenuto il punteggio di ogni indicatore PCI](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)
 
 - [Soglie per ogni indicatore PCI](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#thresholds-for-each-pci-metric-for-this-competency)
 
@@ -37,18 +37,18 @@ Questo articolo include informazioni su:
 
 ## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Panoramica degli indicatori di contributo dei partner per questa competenza
 
-Gli indicatori di contributo dei partner offrono una misura olistica dell'impatto di un partner nella riuscita dei risultati dei clienti e quindi una maggiore differenziazione sul mercato quando un partner raggiunge o mantiene la competenza Small and Midmarket Cloud Solutions tramite l'opzione Cloud Business Applications SMB.
+Gli indicatori di contributo ai partner forniscono una misura olistica dell'impatto di un partner nella gestione dei risultati dei clienti e quindi una maggiore differenziazione sul mercato quando un partner raggiunge o mantiene la competenza Small and Midmarket Cloud Solutions tramite l'opzione Cloud Business Applications SMB.
 
-Con PCI, i partner ricevono il credito per le misure chiave di successo dei clienti, ad esempio distribuzioni riuscite e aumento dell'utilizzo. Sono ricompensati per continuare a investire in capacità tecniche e ad aumentare il numero di risorse.
+Con PCI, i partner ricevono il credito per le misure chiave del successo dei clienti, ad esempio distribuzioni riuscite e aumento dell'utilizzo. Sono ricompensati per aver continuamente investito e ridimensionato le proprie capacità tecniche.
 
-Quando un partner raggiunge determinati livelli di impatto negli indicatori chiave, ad esempio, può ottenere (o mantenere) la competenza Small and Midmarket Cloud Solutions tramite l'opzione Cloud Business Applications SMB.
+Quando un partner raggiunge determinati livelli di impatto negli indicatori chiave, ad esempio, il partner può ottenere (o mantenere) la competenza Small and Midmarket Cloud Solutions tramite l'opzione Cloud Business Applications SMB.
 
 > [!NOTE]
-> Per altre informazioni sui vantaggi del raggiungimento delle competenze, vedere [Competenze dei partner Microsoft.](https://partner.microsoft.com/membership/competencies)
+> Per altre informazioni sui vantaggi del raggiungimento delle competenze, vedere [Competenze dei partner Microsoft](https://partner.microsoft.com/membership/competencies).
 
 ## <a name="pci-scoring-based-on-six-key-indicators"></a>Punteggio PCI basato su sei indicatori chiave
 
-PCI offre una visualizzazione sofisticata delle funzionalità tecniche di un partner, la capacità di guidare il successo dei clienti e le prestazioni di vendita. Per aiutare i partner a ottenere la competenza Silver or Gold Small and Midmarket Cloud Solutions tramite l'opzione Cloud Business Applications SMB, PCI misura le prestazioni dell'azienda rispetto all'anno precedente in sei indicatori chiave:
+PCI offre una visualizzazione sofisticata delle funzionalità tecniche di un partner, la capacità di guidare il successo dei clienti e le prestazioni di vendita. Per aiutare i partner a ottenere la competenza Silver or Gold Small and Midmarket Cloud Solutions tramite l'opzione Cloud Business Applications SMB, PCI misura le prestazioni dell'azienda nel corso dell'anno precedente in sei indicatori chiave:
 
 *Indicatori di prestazioni:*
 
@@ -60,7 +60,7 @@ PCI offre una visualizzazione sofisticata delle funzionalità tecniche di un par
 
 3. **Consulenti funzionali:** numero di persone in possesso di una certificazione Consulente funzionale Associate per Dynamics 365. Per informazioni dettagliate su questa metrica, vedere [Definizioni per consulenti funzionali.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)
 
-4. **Sviluppatori:** numero di utenti che detendono una certificazione Developer Associate attualmente attiva per Dynamics 365. Per informazioni dettagliate su questa metrica, vedere [Definizioni per gli sviluppatori.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers)
+4. **Sviluppatori:** numero di utenti che deteneno una certificazione Developer Associate attualmente attiva per Dynamics 365. Per informazioni dettagliate su questa metrica, vedere [Definizioni per gli sviluppatori.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers)
 
 *Indicatori di successo dei clienti:*
 
@@ -92,7 +92,7 @@ Ogni indicatore porta un punteggio che viene aggiunto al totale. Ecco i punteggi
 |Prestazioni : il cliente net aggiunge  | 10 punti  |
 |Funzionalità - Consulenti funzionali  | 30 punti  |
 |Funzionalità - Sviluppatori  | 5 punti |
-|Successo del cliente - nuove distribuzioni  | 20 punti  |
+|Successo dei clienti - nuove distribuzioni  | 20 punti  |
 |Customer success - Monthly active user growth  | 25 punti |
 
 ## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>Soglie per ogni metrica PCI per questa competenza
@@ -107,14 +107,14 @@ Ad esempio, un partner di mercato con $15.000 in Net New Revenue guadagnerà la 
 
 La tabella seguente descrive le soglie specifiche dell'indicatore di contributo ai partner che è possibile raggiungere per ottenere i punti massimi per ottenere la competenza Silver o Gold Small and Midmarket Cloud Solutions tramite l'opzione Cloud Business Applications SMB.
 
-| Metrica PCI | Indicatore delle prestazioni: ricavi netti nuovi | Indicatore delle prestazioni: aggiunta del cliente netto | Indicatore di funzionalità: consulenti funzionali | Indicatore di funzionalità: Sviluppatori | Indicatore di successo dei clienti: nuove distribuzioni | Indicatore di successo dei clienti: crescita mensile degli utenti attivi |
+| Metrica PCI | Indicatore di prestazioni: ricavi netti nuovi | Indicatore delle prestazioni: il cliente net aggiunge | Indicatore di funzionalità: consulenti funzionali | Indicatore di funzionalità: Sviluppatori | Indicatore di successo del cliente: nuove distribuzioni | Indicatore di successo del cliente: crescita mensile degli utenti attivi |
 |---|:---:|:---:|:------:|:---:|:---:|:----:|
 | **Numero massimo di punti** | 10 punti | 10 punti | 30 punti | 5 punti | 20 punti | 25 punti |
 | **Criteri**       | $ 30.000  | 10  | 5    | 2  | 10  | 35% |
 
-## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>Prerequisiti per ricevere il credito PCI per un cliente
+## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>Prerequisiti per ricevere credito PCI per un cliente
 
-Alcuni indicatori di contributo ai partner consentono di ricevere il credito per un determinato cliente solo se si dispone di una specifica associazione partner-cliente con loro. Gli indicatori, o metriche PCI, influenzati da questi prerequisiti sono:
+Alcuni indicatori di contributo ai partner consentono di ricevere credito per un determinato cliente solo se si ha una specifica associazione tra partner e cliente. Gli indicatori, o metriche PCI, influenzati da questi prerequisiti sono:
 
 - Nuovi ricavi netti
 - Aggiunte nuovi clienti
@@ -131,7 +131,7 @@ Un partner diventa il CPOR se ha stabilito l'associazione con un cliente a livel
 Un partner diventa DPOR se ha stabilito l'associazione con un cliente a livello di sottoscrizione nel prodotto.
 
 > [!NOTE]
-> Quando sono presenti sia CPOR che DPOR per una determinata sottoscrizione del cliente, il CPOR riceverà il credito per le metriche PCI pertinenti associate a tale sottoscrizione. Se l'associazione è stata tramite OSA, il CPOR riceve il credito per Net new revenue e Net customer adds. Se l'associazione è stata tramite OSU, il CPOR riceve il credito per Nuove distribuzioni e Crescita mensile degli utenti attivi.
+> Quando esistono sia CPOR che DPOR per una determinata sottoscrizione del cliente, il CPOR riceverà il credito per le metriche PCI pertinenti associate a tale sottoscrizione. Se l'associazione è stata tramite OSA, il CPOR riceve il credito per net new revenue e Net customer adds. Se l'associazione è stata tramite OSU, il CPOR riceve il credito per Nuove distribuzioni e Crescita mensile degli utenti attivi.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Definizioni dettagliate delle metriche PCI per questa competenza
 
@@ -155,34 +155,34 @@ I nuovi ricavi netti sono un [indicatore di prestazioni.](partner-contribution-i
 - I punti per i nuovi ricavi netti vengono calcolati come fatturazione meno crediti e aggregati in 12 mesi.
 - I nuovi ricavi netti vengono calcolati in base a qualsiasi combinazione dei prodotti idonei seguenti:
   - I prodotti idonei per Dynamics 365 Customer Engagement includono: Sales, Marketing, Customer Service, Field Service, Project server, Plan 1, Automation, Marketing, Microsoft Relationship Sales
-  - I prodotti idonei per finanza e operazioni includono: Dynamics 365 Business Central, capacità e archiviazione, finanza e operazioni (tra cui protezione delle frodi, operazioni, vendita al dettaglio, risorse umane, piano 2), realtà mista, membro del team
+  - I prodotti idonei per Finanza e operazioni includono: Dynamics 365 Business Central, capacità e archiviazione, finanza e operazioni (tra cui protezione delle frodi, operazioni, vendita al dettaglio, risorse umane, piano 2), realtà mista, membro del team
   
 - I canali di vendita includono Contratto Enterprise (EA), Cloud Solution Provider (CSP) e Web Direct.
 - Per Contratto Enterprise solo ricavi: questi ricavi includono i ricavi del primo anno del contratto. I ricavi ricorrenti del secondo e del terzo anno non sono inclusi.
 
-### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definizioni per la metrica PCI #2 - Net customer adds
+### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definizioni per la metrica PCI #2 - Aggiunta del cliente Net
 
-Net customer adds è un indicatore [di prestazioni](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). I punti di questo indicatore vengono calcolati per questa competenza nel modo seguente:
+Net customer adds è un indicatore [delle prestazioni.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) I punti di questo indicatore vengono calcolati per questa competenza nel modo seguente:
 
-- Le aggiunte del cliente netto vengono sommate in un periodo finale di 12 mesi. 
+- Le aggiunte nette dei clienti vengono sommate in un periodo di 12 mesi finale. 
 
-- È possibile aggiungere un totale di 10 clienti netti, con un massimo di 10 punti (un punto per ogni aggiunta al cliente netto).
+- È possibile aggiungere un totale di 10 utili netti al cliente, con un massimo di 10 punti (un punto per ogni aggiunta di cliente netto).
 
 - I clienti netti vengono aggiunti in tutti i canali di vendita.
 
-- I punti per l'aggiunta di clienti netti vengono calcolati mensilmente quando i clienti vengono aggiunti meno i clienti persi e vengono aggregati in 12 mesi.
+- I punti per le aggiunte nette dei clienti vengono calcolati mensilmente quando i clienti vengono aggiunti meno i clienti persi e vengono aggregati in 12 mesi.
 
-- **L'aggiunta** di un cliente viene definita in queste condizioni: quando un cliente non ha postazioni a pagamento in tutte le sottoscrizioni in un mese precedente, ma ha almeno un posto a pagamento nel mese corrente.
+- **L'aggiunta di** un cliente viene definita in queste condizioni: quando un cliente non ha postazioni a pagamento in tutte le sottoscrizioni in un mese precedente, ma ha almeno una postazione a pagamento nel mese corrente.
 
-- Un **cliente** perso viene definito in queste condizioni: quando un cliente ha almeno un  posto a pagamento in tutte le sottoscrizioni in un mese precedente e non ha postazioni a pagamento nel mese corrente.
+- Un **cliente** perso viene definito in queste condizioni: quando un cliente ha almeno una  postazione a pagamento in tutte le sottoscrizioni in un mese precedente e non ha postazioni a pagamento nel mese corrente.
 
-- I punti massimi e parziali possono essere ottenuti per le aggiunte nette del cliente.
+- I punti massimi e parziali possono essere ottenuti per le aggiunte nette dei clienti.
 
 - I canali di vendita includono Contratto Enterprise (EA), Cloud Solution Provider (CSP) e Web Direct.
 
-- Per più partner/stesso cliente o cliente che lavorano direttamente  con  Microsoft: sono disponibili calcoli diversi per l'aggiunta e la perdita di clienti per i casi in cui più partner sono associati allo stesso cliente tramite sottoscrizioni diverse o per i casi in cui il cliente potrebbe già lavorare direttamente con Microsoft. Questi calcoli sono riportati di seguito.
+- Per più partner/stesso cliente o cliente che lavorano direttamente  con  Microsoft: sono disponibili calcoli diversi per i clienti aggiunti e persi nei casi in cui più partner sono associati allo stesso cliente tramite sottoscrizioni diverse o per i casi in cui il cliente potrebbe già lavorare direttamente con Microsoft. Questi calcoli sono riportati di seguito.
 
-  **Per più partner, stesso cliente, sottoscrizioni diverse:**
+  **Per più partner, lo stesso cliente, sottoscrizioni diverse:**
 
   - Tutti i partner associati al cliente otterrà il credito per un nuovo cliente aggiunto nel mese in cui viene aggiunto il cliente.
   
@@ -194,15 +194,15 @@ Net customer adds è un indicatore [di prestazioni](partner-contribution-indicat
   
   **Quando il cliente sta già collaborando direttamente con Microsoft:**
 
-   - Se un cliente sta già collaborando direttamente con Microsoft e ha soddisfatto i criteri di aggiunta del nuovo cliente, i partner che si associano allo stesso cliente successivamente, tramite sottoscrizioni nuove o nuove, non otterrà il credito aggiuntivo del nuovo cliente per tale cliente.
+   - Se un cliente sta già collaborando direttamente con Microsoft e ha soddisfatto i criteri di aggiunta del nuovo cliente, i partner che si associano allo stesso cliente successivamente, tramite sottoscrizioni nuove o nuove, non otterrà credito aggiuntivo per tale cliente.
 
 ### <a name="definitions-for-pci-metric-3---functional-consultants"></a>Definizioni per la metrica PCI #3 - Consulenti funzionali
 
-I consulenti funzionali sono un [indicatore di funzionalità](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). I punti di questo indicatore vengono calcolati per questa competenza nel modo seguente:
+Consulenti funzionali è un [indicatore di funzionalità](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). I punti di questo indicatore vengono calcolati per questa competenza nel modo seguente:
 
 - I punti indicatori del consulente funzionale si basano sullo snapshot del mese corrente con un massimo di 30 punti di utili possibili.
 
-- I consulenti funzionali sono definiti come il numero di persone che hanno una certificazione Consulente funzionale Associate attualmente attiva, ad esempio una certificazione customer engagement Consulente funzionale o una certificazione finance and operations Consulente funzionale.
+- I consulenti funzionali sono definiti come il numero di persone che hanno una certificazione Consulente funzionale Associate attualmente attiva, ad esempio una certificazione di Customer Engagement Consulente funzionale o una certificazione finance and operations Consulente funzionale.
 
 Per ottenere il massimo di **30 punti** di consulenza funzionale per il raggiungimento di questa competenza, i partner devono avere **5** consulenti con:
 - Certificazione dell'Consulente funzionale Customer Engagement
@@ -229,11 +229,11 @@ Per ottenere la certificazione Business Central Consulente funzionale Associate,
 
 Gli sviluppatori sono un [indicatore di funzionalità](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). I punti di questo indicatore vengono calcolati per questa competenza nel modo seguente:
 
-- Gli sviluppatori sono definiti come il numero di persone che deteneno una certificazione Customer Engagement Developer Associate attualmente attiva o una certificazione Finance and Operations Developer Associate.
+- Gli sviluppatori sono definiti come il numero di persone che hanno una certificazione Developer Associate di Customer Engagement attualmente attiva o una certificazione Finance and Operations Developer Associate.
 
-- I punti per l'indicatore Developers sono basati sullo snapshot del mese corrente con un massimo di 5 punti disponibili.
+- I punti per l'indicatore Sviluppatori si basano sullo snapshot del mese corrente con un massimo di 5 punti disponibili.
 
-- Per raggiungere cinque consulenti, i partner possono combinare e abbinare i consulenti che deteneno uno dei due tipi di certificazione, come indicato di seguito:
+- Per raggiungere cinque consulenti, i partner possono combinare e associare i consulenti che hanno uno dei due tipi di certificazione, come indicato di seguito:
 
   Per ottenere la certificazione Customer Engagement Developer Associate, un utente deve superare l'esame seguente:
   - PL-400
@@ -254,7 +254,7 @@ Le nuove distribuzioni sono un indicatore [di successo dei clienti.](partner-con
 - Si considera che un tenant abbia superata la soglia utente attiva mensile se il tenant era:
 
   - Al di sotto della soglia specificata (un determinato numero di istanze di produzione in un tenant) 12 mesi fa,<br/> *and*
-  - Questa soglia è stata superata almeno una volta nei successivi 11 mesi.
+  - Questa soglia è stata superata almeno una volta negli 11 mesi successivi.
 
 - Gli utenti attivi mensili vengono conteggiati a livello di tenant e sommati solo nelle sottoscrizioni a pagamento nel tenant.
 
@@ -300,7 +300,7 @@ Per visualizzare la tabella Partner Contribution Indicators (Indicatori di contr
 
 4. Nella sezione Riepilogo visualizzare lo stato di avanzamento, gli obiettivi e il punteggio correlato fino alla data corrente.
 
-   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Come leggere la tabella Partner Contribution Indicators (Indicatori di contributo partner)":::
+   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Come leggere la tabella Partner Contribution Indicators (Indicatori di contributo partner).":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 

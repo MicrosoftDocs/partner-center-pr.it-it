@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
+ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150455"
+ms.lasthandoff: 06/16/2021
+ms.locfileid: "112125923"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ottenere una specializzazione avanzata per presentare le funzionalità convalidate
 
@@ -38,7 +38,7 @@ Ogni specializzazione avanzata corrisponde a un'area della soluzione:
 - Azure
 - Applicazioni aziendali
 - Modern Work
-- Sicurezza
+- Security
 
 **Le** specializzazioni avanzate di Azure includono:
 
@@ -50,10 +50,14 @@ Ogni specializzazione avanzata corrisponde a un'area della soluzione:
 - Modernizzazione delle applicazioni Web in Microsoft Azure
 - SAP in Microsoft Azure
 - Migrazione di Windows Server e SQL Server a Microsoft Azure
+- Intelligenza artificiale e Machine Learning in Microsoft Azure
+- Infrastruttura cloud ibrida con Microsoft Azure Stack HCI
+- Operazioni e gestione ibride con Microsoft Azure Arc
+- Microsoft Azure soluzione VMware
 
 **Business Applications** specializzazioni avanzate includono:
 
-- Sviluppo di applicazioni con basso codice
+- Sviluppo di applicazioni con codice ridotto
 - Gestione di piccole e medie imprese
 
 **Le specializzazioni** avanzate di Modern Work includono:
@@ -67,15 +71,17 @@ Ogni specializzazione avanzata corrisponde a un'area della soluzione:
 
 - Gestione delle identità e dell'accesso
 - Threat Protection
+- Information Protection e governance
+- Sicurezza del cloud
 
 > [!NOTE]
 > Per informazioni su ogni specializzazione avanzata, insieme ai relativi prerequisiti e requisiti, visitare la [pagina Specializzazioni avanzate](https://partner.microsoft.com/membership/advanced-specialization). Quando si è pronti per richiedere una specializzazione avanzata, controllare lo stato di avanzamento accedendo al dashboard Partner Center [.](https://partner.microsoft.com/dashboard) Per altre informazioni sull'accesso a questa area Partner Center, vedere [Richiedere una specializzazione avanzata.](advanced-specializations-apply.md)
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Usare Partner Center per [richiedere e controllare lo stato delle specializzazioni avanzate](advanced-specializations-apply.md)
+- Usare Partner Center [per richiedere e controllare lo stato delle specializzazioni avanzate](advanced-specializations-apply.md)
 
-- Altre informazioni sulle [specializzazioni avanzate, i vantaggi e i requisiti specifici](https://partner.microsoft.com/membership/advanced-specialization)
+- Altre informazioni sulle [specializzazioni avanzate, i relativi vantaggi e requisiti univoci](https://partner.microsoft.com/membership/advanced-specialization)
 
 - Informazioni su [come ottenere competenze di iscrizione Microsoft Silver o Gold](learn-about-competencies.md)
 

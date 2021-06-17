@@ -9,16 +9,16 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f65de1bb115ba8108720429974622bf1a6afcc7b
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110153056"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276349"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verificare o aggiornare le informazioni del profilo aziendale 
 
-**Ruoli appropriati:** amministratore globale | Amministratore dell'account MPN
+**Ruoli appropriati:** Amministratore globale | Amministratore dell'account MPN
 
 Al primo accesso al Centro per i partner come amministratore globale, devi verificare che tutti i dettagli aziendali siano corretti. Tra cui, contatto principale, indirizzo, ragione sociale e informazioni sul programma. Se la società ha più di una località, verificare l'accuratezza dei dati della località. Come amministratore globale, amministratore fatturazione o agente di amministrazione, sarà possibile visualizzare e aggiornare le informazioni di fatturazione e fiscali.
 
@@ -37,7 +37,7 @@ Se le altre società sono state unite nell'azienda legale, è possibile verifica
 
 ## <a name="update-your-legal-business-profile"></a>Aggiornare il profilo aziendale legale 
 
-Aggiornare il nome o l'indirizzo della società legale Partner Center.
+Aggiornare il nome o l'indirizzo dell'azienda legale Partner Center.
 
 >[!Important]
 >- Per gli account MPN, la ragione sociale può essere aggiornata sia dall'amministratore globale sia dall'amministratore degli account.
@@ -48,23 +48,23 @@ Aggiornare il nome o l'indirizzo della società legale Partner Center.
 
 1. Passare a **Impostazioni**, **Impostazioni account e** selezionare Profilo **organizzazione**.
 
-2. Selezionare **Legale**  e quindi selezionare il profilo di business legale (partner o rivenditore) che si vuole aggiornare.
+2. Selezionare **Legale**  e quindi selezionare il profilo aziendale legale (partner o rivenditore) da aggiornare.
 
 1. Fare clic **su Aggiorna**  accanto a nome/indirizzo della società e modificare i dettagli.
  
-1. Quando si seleziona **Invia,** l'identità legale verrà valutata nuovamente. Viene nuovamente rieffezionato solo ciò che è stato modificato.
+1. Quando si seleziona **Invia**, l'identità legale verrà nuovamente valutata. Viene nuovamente riassato solo ciò che è stato modificato.
 
-1. Se la verifica non riesce, vedere come [risolvere il problema](verification-responses.md).
+1. Se la verifica non riesce, informazioni su come [risolvere il problema.](verification-responses.md)
 
 >[!Important]
->Se si è un partner Cloud Solution Provider (CSP), non è possibile modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è associato al tenant e ai servizi, nonché alla valuta con cui si è commerciali. Per informazioni sugli aggiornamenti dei paesi MPN, vedere [Aggiornamenti dei paesi MPN.](manage-locations.md#change-country-of-partner-global-account)
+>Se si è un partner Cloud Solution Provider (CSP), non è possibile modificare il paese associato all'indirizzo legale. Il paese dell'indirizzo legale è associato al tenant e ai servizi, nonché alla valuta con cui si fanno affari. Per informazioni sugli aggiornamenti del paese MPN, vedere  [Aggiornamenti del paese MPN](manage-locations.md#change-country-of-partner-global-account).
 
 
 ### <a name="who-can-update-legal-business-name-and-when"></a>Chi può aggiornare il nome dell'azienda legale e quando
 
 |**Programma**|**Chi può aggiornare il nome della società**|**Quando (stato) può essere aggiornato**|**È consentito**|
 |---------------------|:-------------------------------|:------------|:-----------------|
-MPN|Amministratore globale; Amministratore account|Autorizzato; in sospeso; Rifiutato| Consentito|
+MPN|Amministratore globale; Amministratore dell'account|Autorizzato; in sospeso; Rifiutato| Consentito|
 |CSP: rivenditore indiretto|Amministratore globale|Autorizzato; in sospeso; Rifiutato| Consentito|
 
 
@@ -90,16 +90,16 @@ Per aggiornare l'ID MPN associato all'account CSP:
 
 Gli amministratori globali, gli amministratori di fatturazione o gli agenti di amministrazione possono modificare l'indirizzo visualizzato nella fattura in **Profili di pagamento e fiscali**. Tuttavia, non è possibile modificare il nome della società nella fattura a causa di una limitazione del sistema di fatturazione.
 
-:::image type="content" source="images/billing-profile.png" alt-text="Acquisizione dello schermo dell'area in cui vengono aggiunte le informazioni di fatturazione":::
+:::image type="content" source="images/billing-profile.png" alt-text="Acquisizione dello schermo dell'area in cui vengono aggiunte le informazioni di fatturazione.":::
 
 |**Campo**  |**Descrizione**|  
 |---------------------|:------------------|
-|Nome della società di fatturazione|Nome della società visualizzato nel Bill-To informazioni sulla fattura CSP.  Non è modificabile nel Centro per i partner.  Per eseguire l'aggiornamento, creare un ticket di supporto.|
+|Fatturare a Nome società|Nome della società visualizzato nel Bill-To informazioni sulla fattura CSP.  Non è modificabile nel Centro per i partner.  Per eseguire l'aggiornamento, creare un ticket di supporto.|
 |Indirizzo di fatturazione|Indirizzo di fatturazione visualizzato nella fattura CSP. Possibilità di aggiornamento dal [profilo di fatturazione](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Contatto di fatturazione|I dettagli di contatto della fatturazione (nome, cognome, numero primario) per l'account CSP.  Possibilità di aggiornamento dal [profilo di fatturazione](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Numero dell'ordine fornitore|Numero dell'ordine di acquisto visualizzato nella fattura del partner.  Possibilità di aggiornamento dal [profilo di fatturazione](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |ID imposta società|Le aziende in alcuni paesi possono fornire il proprio numero di imposta sul valore aggiunto [(IVA) o equivalente locale.](./organization-tax-info.md) Per aggiornare l'ID fiscale o la partita IVA, è necessario essere amministratore globale, amministratore di fatturazione o un agente di amministrazione.|
-|Valuta di fatturazione|La valuta di fatturazione per l'account CSP è determinata dal paese legale dell'account CSP.  Questa operazione non può essere modificata dopo la creazione dell'account CSP.|
+|Valuta di fatturazione|La valuta di fatturazione per l'account CSP è determinata dal paese legale dell'account CSP.  Non è possibile modificare questa impostazione dopo la creazione dell'account CSP.|
 
 ## <a name="next-steps"></a>Passaggi successivi
 

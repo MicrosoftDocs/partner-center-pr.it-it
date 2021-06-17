@@ -1,50 +1,50 @@
 ---
 title: Integrazioni per i partner di Azure Marketplace
-description: Scopri le soluzioni di Azure Marketplace che si integrano con l'ambiente Azure e Ottieni il collegamento alle guide di distribuzione dei partner Microsoft.
+description: Informazioni sulle Azure Marketplace che si integrano con l'ambiente Azure e ottenere un collegamento alle guide alla distribuzione dai partner Microsoft.
 ms.service: partner-services
 ms.topic: conceptual
 author: JasonWHowell
 ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 56e72af367cdcb264cc444446c5fcbedcd880451
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006906"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276485"
 ---
 # <a name="azure-marketplace-partner-integrations"></a>Integrazioni per i partner di Azure Marketplace
 
-Informazioni su come integrare soluzioni partner nell'ambiente Azure. Questo articolo fornisce una panoramica di ogni soluzione e i collegamenti alle guide dettagliate per la distribuzione. Le soluzioni sono elencate in ordine alfabetico. 
+Informazioni su come integrare soluzioni partner nell'ambiente Azure. Questo articolo offre una panoramica di ogni soluzione e collegamenti a guide dettagliate sulla distribuzione. Le soluzioni sono elencate in ordine alfabetico. 
 
-## <a name="apache-kafka-on-confluent-cloud"></a>Apache Kafka nel cloud Confluent
+## <a name="apache-kafka-on-confluent-cloud"></a>Apache Kafka in Confluent Cloud
 
-![Cloud Confluent](./media/partners/confluent-cloud.png)
+![Cloud confluente.](./media/partners/confluent-cloud.png)
 
-Azure ti permette di eseguire l'integrazione con il cloud Confluent, oltre alle applicazioni cloud. I clienti più Fluent passano spesso tra il portale di Azure e il cloud Confluent. Ad esempio, quando un utente acquista un'offerta cloud Confluent in Azure Marketplace, è previsto che configurano un account con il cloud Confluent. Questo processo aggiunge complessità e tempo e richiede agli utenti di gestire la configurazione e le risorse tra i due portali. Per ridurre il carico di gestione tra le diverse piattaforme, Microsoft, in collaborazione con il cloud Confluent, ha creato un livello di provisioning integrato da Azure al cloud Confluent. La soluzione è disponibile in Azure Marketplace e offre un'esperienza uniforme per l'uso dell'offerta cloud Confluent in Azure
+Azure consente di eseguire l'integrazione con Confluent Cloud oltre alle applicazioni cloud. I clienti confluenti spesso passano tra portale di Azure e Confluent Cloud. Ad esempio, dopo che un utente ha acquistato un'offerta Confluent Cloud Azure Marketplace, è previsto che configura un account con Confluent Cloud. Questo processo aggiunge complessità e tempo e richiede agli utenti di gestire la configurazione e le risorse tra i due portali. Per ridurre il carico di gestione su più piattaforme, Microsoft, in collaborazione con Confluent Cloud, ha creato un livello di provisioning integrato da Azure a Confluent Cloud. La soluzione è disponibile in Azure Marketplace e offre un'esperienza facile per l'uso dell'offerta Confluent Cloud in Azure
 
-La soluzione USA un provider di risorse abilitato in Azure per effettuare il provisioning di risorse cloud confluenti. Questo consente agli utenti di accedere a flussi di eventi in tempo reale tramite l'portale di Azure, l'interfaccia della riga di comando di Azure e Azure SDK. Il cloud Confluent è proprietario ed esegue l'applicazione SaaS, che include gli ambienti, i cluster, gli argomenti, le chiavi API e i connettori gestiti.
+La soluzione usa un provider di risorse abilitato in Azure per il provisioning delle risorse cloud confluenti. In questo modo gli utenti possono accedere allo streaming di eventi in tempo reale tramite portale di Azure, l'interfaccia della riga di comando di Azure e gli SDK di Azure. Confluent Cloud è proprietario ed esegue l'applicazione SaaS, che include ambienti, cluster, argomenti, chiavi API e connettori gestiti.
 
-L'integrazione completa con il cloud Confluent offre le funzionalità seguenti:
+La profonda integrazione con Confluent Cloud consente le funzionalità seguenti:
 
-- Effettuare il provisioning di una nuova risorsa dell'organizzazione cloud Confluent dalla portale di Azure con l'infrastruttura completamente gestita.
-- Semplifica la Single Sign-On da Azure al cloud confluenti con Azure Active Directory; non è necessaria alcuna autenticazione separata dal portale cloud Confluent.
-- Ottieni la fatturazione unificata dei costi di consumo cloud confluenti tramite la fatturazione della sottoscrizione di Azure.
-- Gestire le risorse cloud Confluent dalla portale di Azure e tenerne traccia nella pagina **tutte le risorse** , insieme alle risorse di Azure.
+- Effettuare il provisioning di una nuova risorsa dell'organizzazione Confluent Cloud dal portale di Azure con un'infrastruttura completamente gestita.
+- Semplificare l'accesso Single Sign-On da Azure a Confluent Cloud con Azure Active Directory; non è necessaria alcuna autenticazione separata dal portale di Confluent Cloud.
+- Ottenere la fatturazione unificata degli addebiti per l'utilizzo del cloud confluent tramite la fatturazione della sottoscrizione di Azure.
+- Gestire le risorse di Confluent Cloud dal portale di Azure e tenerle traccia nella pagina **Tutte** le risorse, insieme alle risorse di Azure.
 
-[Guide alla distribuzione cloud Confluent](https://docs.confluent.io/current/cloud/marketplace/index.html)
+[Guide alla distribuzione di Confluent Cloud](https://docs.confluent.io/current/cloud/marketplace/index.html)
 
-Per i problemi relativi a Confluent in Azure, vedere [https://support.confluent.io](https://support.confluent.io) . Se si è un utente per la prima volta, reimpostare la password prima di accedere al portale di supporto di Confluent. Se non si dispone di un account con Confluent, inviare un messaggio di posta elettronica a [cloud-support@confluent.io](mailto:cloud-support@confluent.io) .
+Per i problemi relativi a Confluent in Azure, vedere [https://support.confluent.io](https://support.confluent.io) . Se si è un utente per la prima volta, reimpostare la password prima di accedere al portale di supporto di Confluent. Se non si ha un account con Confluent, inviare un messaggio di posta elettronica a [cloud-support@confluent.io](mailto:cloud-support@confluent.io) .
 
 ## <a name="datadog"></a>Datadog
 
-![Logo di DataDog](./media/partners/datadog.png)
+![Logo datadog.](./media/partners/datadog.png)
 
-Datadog offre strumenti di osservazione e sicurezza per gli utenti di Azure per comprendere l'integrità e le prestazioni delle applicazioni in ambienti ibridi e cloud diversi. Tuttavia, la configurazione delle integrazioni necessarie spesso richiede lo spostamento tra il portale di Azure e Datadog. Per semplificare la gestione della configurazione e delle risorse tra i portali, Microsoft ha collaborato con Datadog per creare una soluzione Datadog integrata in Azure. Disponibile tramite Azure Marketplace, questa soluzione offre un'esperienza uniforme per i clienti di Azure per l'uso della soluzione di monitoraggio cloud di Datadog.
+Datadog offre strumenti di osservabilità e sicurezza per consentire agli utenti di Azure di comprendere l'integrità e le prestazioni delle applicazioni in ambienti ibridi e multi-cloud. Tuttavia, la configurazione delle integrazioni necessarie spesso richiede la navigazione tra il portale di Azure e Datadog. Per semplificare la configurazione e la gestione delle risorse nei portali, Microsoft ha collaborato con Datadog per creare una soluzione Datadog integrata in Azure. Disponibile tramite il Azure Marketplace, questa soluzione offre ai clienti di Azure un'esperienza facile per usare la soluzione di monitoraggio cloud di Datadog.
 
-Per ulteriori informazioni su questa soluzione e per iscriversi all'anteprima pubblica, vedere la [documentazione di monitoraggio di Azure](/azure/azure-monitor/platform/partners#datadog) .
+Vedere la [documentazione Monitoraggio di Azure per](/azure/azure-monitor/platform/partners#datadog) altre informazioni su questa soluzione e iscriversi all'anteprima pubblica.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Archivio online di Azure Marketplace](https://azure.microsoft.com/marketplace/)
-- [Microsoft Learn: creare un account Azure](/learn/modules/create-an-azure-account/)
+- [Azure Marketplace negozio online](https://azure.microsoft.com/marketplace/)
+- [Microsoft Learn: Creare un account Azure](/learn/modules/create-an-azure-account/)

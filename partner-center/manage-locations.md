@@ -9,17 +9,17 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3d30f250d6635758f3bef8e06c6f57ba0a0be744
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151781"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276825"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gestire le posizioni dell'account MPN e aggiungere (eliminare) una località
 
 
-**Ruoli appropriati:** amministratore globale | Amministratore account
+**Ruoli appropriati:** Amministratore globale | Amministratore dell'account
 
 L'ID MPN di sede identifica ogni specifica sede della società. L'ID MPN di sede viene usato per l'iscrizione a programmi di incentivi, per transazioni CSP e per altre transazioni aziendali. L'ID MPN globale viene usato per attività non transazionali, ad esempio richieste di supporto.
 
@@ -30,61 +30,61 @@ Contoso ha registrato il proprio account globale partner nel Regno Unito. Il PGA
 >[!NOTE]
 >Tra un tenant CSP e un ID MPN di sede esiste una relazione 1 a 1.
 
-:::image type="content" source="images/locations/locations1.png" alt-text="Struttura delle sedi MPN":::
+:::image type="content" source="images/locations/locations1.png" alt-text="Struttura delle posizioni MPN.":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Prerequisiti per aggiungere un nuovo account per un'azienda CSP
 
-Per aggiungere un nuovo account aziendale CSP, iniziare verificando di aver soddisfatto i prerequisiti.
+Per aggiungere un nuovo account aziendale CSP, assicurarsi di aver soddisfatto i prerequisiti.
 
-1. È necessario avere un ID MPN della posizione nel paese in cui si vuole eseguire l'attività CSP. Per creare una nuova posizione MPN, leggere "Aggiungere una posizione MPN" di seguito.
+1. È necessario avere un ID MPN della località nel paese in cui si vuole eseguire l'attività CSP. Per creare una nuova posizione MPN, vedere "Aggiungere una posizione MPN" di seguito.
   
-1. Per creare una nuova registrazione CSP Indirect Reseller, vedere [Usare i provider indiretti](indirect-reseller-tasks-in-partner-center.md#get-started) 
+1. Per creare una nuova CSP Indirect Reseller, vedere [Usare i provider indiretti](indirect-reseller-tasks-in-partner-center.md#get-started) 
 
 >[!NOTE] 
  >Ricordarsi di accedere con le **nuove** credenziali per il **nuovo** account CSP. Non usare le credenziali esistenti perché il Centro per i partner riconoscerà l'utente che ha già un account.
 
 2. Accettare il Contratto Microsoft Partner e attivare l'account.
 
-1. Per registrarsi come partner con fatturazione diretta, vedere [Requisiti per i partner con fatturazione diretta](direct-partner-new-requirements.md)
+1. Se si vuole eseguire la registrazione come partner direct bill, leggere [Requisiti per i partner direct bill](direct-partner-new-requirements.md)
 
-## <a name="view-and-update-your-mpn-locations"></a>Visualizzare e aggiornare le località MPN
+## <a name="view-and-update-your-mpn-locations"></a>Visualizzare e aggiornare le posizioni MPN
 
 1. Accedere al dashboard Partner Center [con](https://partner.microsoft.com/dashboard/home) le credenziali dell'account MPN. Le credenziali MPN potrebbero essere diverse dalle credenziali CSP. 
  
-1. **Dall'icona Impostazioni** selezionare **Impostazioni account,** **Profilo organizzazione,** **Legale.** 
+1. **Dall'icona Impostazioni** selezionare **Impostazioni account**, **Profilo organizzazione**, **Legale**. 
 
-1. Nella scheda **Partner verificare** che non sia presente un messaggio di errore banner che richiede di correggere le posizioni migrate da PMC.  Se le posizioni non sono state configurate correttamente in PMC e non sono ancora state aggiornate al PC, è necessario aggiornare tali posizioni.
+1. Nella scheda **Partner** verificare che non sia presente un messaggio di errore banner in cui viene chiesto di correggere i percorsi migrati da PMC.  Se le località non sono state configurate correttamente in PMC e non sono ancora state transizione al PC, è necessario aggiornare tali posizioni.
 
 :::image type="content" source="images/locations/location-two.png" alt-text="Screencap mostra come aggiornare la posizione.":::
  
-4.  Nella schermata **Review PMC locations (Verifica posizioni PMC)** selezionare Update **(Aggiorna).**
+4.  Nella schermata **Rivedi posizioni PMC** selezionare **Aggiorna**.
 Aggiornare i campi seguenti:
 
-- **Campo Nome:** assicurarsi che il nome della località della società sia corretto. Se viene visualizzato un errore duplicato, provare a cambiare, ad esempio, da Contoso a Contoso, Inc.
+- **Campo Nome:** assicurarsi che il nome della sede aziendale sia corretto. Se viene visualizzato un errore duplicato, provare a cambiare, ad esempio, da Contoso a Contoso, Inc.
 
-- **Campo Legal Entity**(Entità legale): assicurarsi di aver scelto la persona legale a cui è associata la posizione
+- **Campo Persona giuridica:** assicurarsi di aver scelto la persona giuridica a cui è associata la località
 
-- **Riga indirizzo 1 & 2 campi**: Assicurarsi che l'indirizzo sia corretto
+- **Riga dell'indirizzo 1 & 2 campi**: assicurarsi che l'indirizzo sia corretto
 
-- **City & State/Province (Stato/Provincia):** assicurarsi che la combinazione tra la città e lo stato/provincia sia corretta. In alcuni paesi verrà applicato il menu a discesa per la scelta dello stato/provincia e in altri paesi il campo dovrà essere inserito manualmente.
+- **City & State/Province :** assicurarsi che la combinazione tra la città e lo stato/provincia sia corretta. In alcuni paesi verrà applicato il menu a discesa per la scelta dello stato/provincia e in altri paesi il campo dovrà essere inserito manualmente.
 
-- **Campo CAP:** assicurarsi che il campo CAP sia corrispondente al paese, all'area geografica, alla città o all'indirizzo indicati.
+- **Campo CAP:** assicurarsi che il campo CAP sia corrispondente al paese, all'area geografica, alla città o all'indirizzo indicato.
 
-- **Campi** delle informazioni di contatto principali: assicurarsi che i campi nome e cognome siano compilati e che l'indirizzo di posta elettronica indicato sia un indirizzo di posta elettronica dell'lavoro e non uno personale (ad esempio, , e così @outlook.com @live.com via).
+- **Campi** relativi alle informazioni di contatto primarie: assicurarsi che i campi nome e cognome siano compilati e che l'indirizzo di posta elettronica indicato sia un indirizzo di posta elettronica dell'lavoro e non personale (ad esempio, , e così @outlook.com @live.com via).
 
 - **Campo Numero di telefono:** assicurarsi che il numero di telefono NON includa caratteri speciali, spazi o codice paese. Il valore immesso nel campo Numero di telefono conterrà sempre un massimo di 10 caratteri.
 
-5. Se non è presente un messaggio di errore, in  **Impostazioni** selezionare  **Impostazioni account**, **Profilo organizzazione**, **Identificatori**.
+5. Se non viene visualizzato un messaggio di errore, in  **Impostazioni** selezionare  **Impostazioni account**, **Profilo organizzazione**, **Identificatori**.
 
 6. Trovare l'ID MPN con tipo "Location" corrispondente al paese di questo account CSP e usarlo per completare l'associazione.
 
-7. Se non è possibile trovare l'ID MPN della posizione corrispondente all'account CSP che si vuole usare, è possibile aggiungere una nuova posizione, che creerà un nuovo ID MPN. Vedere **Aggiungere una località MPN più** avanti.
+7. Se non è possibile trovare l'ID MPN della posizione corrispondente all'account CSP che si vuole usare, è possibile aggiungere una nuova posizione, che creerà un nuovo ID MPN. Vedere **Aggiungere un percorso MPN di** seguito.
 
 ## <a name="add-an-mpn-location"></a>Aggiungere una sede MPN
 
-1. Accedere con l'account MPN Partner Center. Le credenziali MPN potrebbero essere diverse dalle credenziali CSP. L'account MPN deve avere privilegi di amministratore globale o amministratore account. 
+1. Accedere usando l'account MPN in Partner Center. Le credenziali MPN potrebbero essere diverse dalle credenziali CSP. L'account MPN deve avere privilegi di amministratore globale o amministratore account. 
 
-1. **Dall'icona Impostazioni** selezionare Impostazioni **account e** quindi profilo **organizzazione.**
+1. **Dall'icona Impostazioni** selezionare Impostazioni **account e** quindi Profilo **organizzazione.**
 
 2. Selezionare **Legale** e quindi nella **scheda Partner** selezionare Località aziendali **e** quindi Aggiungi **una località.**
 
@@ -92,7 +92,7 @@ Aggiornare i campi seguenti:
  
 1. Selezionare **Aggiungi percorso**. Verrà creato un nuovo ID MPN per la nuova posizione che è possibile usare per le transazioni e gli incentivi CSP.
 
-:::image type="content" source="images/legal-biz.png" alt-text="Aggiungere una nuova attività legale":::
+:::image type="content" source="images/legal-biz.png" alt-text="Aggiungere una nuova attività legale.":::
 
 > [!NOTE]
 > Dopo aver aggiunto una posizione in Partner Center, non è possibile rimuoverla. Se l'accesso è stato effettuato con l'account corretto, verrà visualizzato **MPN** nel menu a sinistra del Centro per i partner.
@@ -143,7 +143,7 @@ Per eliminare una località dall'account, è necessario contattare il [supporto 
  
 1. Selezionare **Cambia paese accanto** all'elenco a discesa **Paese/area** geografica e seguire questa procedura. 
 
-:::image type="content" source="images/lbp.png" alt-text="Volano i dati del profilo aziendale legale":::
+:::image type="content" source="images/lbp.png" alt-text="I dati del profilo aziendale legale sono in uscita.":::
 
 5. Selezionare **Salva**.
 

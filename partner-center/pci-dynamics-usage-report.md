@@ -8,12 +8,12 @@ description: Scopri cosa stai facendo bene e dove puoi migliorare l'uso delle so
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152801"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277505"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Dynamics disponibile nel dashboard Partner Center Insights
 
@@ -48,40 +48,40 @@ La sezione di riepilogo presenta una visualizzazione snapshot degli indicatori c
 
 - %utilizzo attivo: numero totale di postazioni attive espresse come percentuale delle postazioni disponibili per l'intervallo di tempo selezionato. 
 
-   Il grafico Micro presenta una tendenza mensile della percentuale di utilizzo attivo nel periodo di tempo selezionato.
+   Il grafico Micro presenta una tendenza mensile della percentuale di utilizzo attiva nel periodo di tempo selezionato.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Riepilogo dell'utilizzo di Dynamics":::
+:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Riepilogo dell'utilizzo di Dynamics.":::
 
-## <a name="dynamics-usage-by-geography"></a>Utilizzo delle dinamiche in base all'area geografica
+## <a name="dynamics-usage-by-geography"></a>Utilizzo di Dynamics per area geografica
 
-**L'utilizzo di Dynamics in base alla** geografia illustra la distribuzione delle postazioni disponibili e dei posti attivi in base al paese del cliente. I colori più chiari sulla mappa rappresentano valori inferiori, mentre i colori più scuri rappresentano valori più alti. È possibile cercare e selezionare un paese nella griglia. È anche possibile eseguire lo zoom avanti per un'occhiata più da vicino.
+**L'utilizzo di Dynamics per area geografica** illustra la distribuzione delle postazioni disponibili e delle postazioni attive in base al paese del cliente. I colori più chiari sulla mappa rappresentano valori inferiori, mentre i colori più scuri rappresentano valori più alti. È possibile cercare e selezionare un paese nella griglia. È anche possibile fare zoom avanti per un'occhiata più da vicino.
 
-La **tabella Number of countries/region** (Numero di paesi/aree geografiche) presenta il totale dei paesi/aree geografiche in cui vengono generati gli eventi di utilizzo di Azure.
+La **tabella Number of countries/region** (Numero di paesi/aree geografiche) presenta i paesi/aree geografiche totali in cui vengono generati gli eventi di utilizzo di Azure.
 
-È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione nella mappa. Selezionare **l'opzione** Home sulla mappa per ripristinare la visualizzazione originale.
+È possibile cercare e selezionare un paese nella griglia per fare zoom avanti sulla posizione nella mappa. Selezionare **l'opzione** Home sulla mappa per ripristinare la visualizzazione originale.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Utilizzo delle dinamiche in base all'area geografica":::
+:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Utilizzo di Dynamics in base all'area geografica.":::
 
 ## <a name="dynamics-usage-by-sku"></a>Utilizzo di Dynamics per SKU
 
-L'utilizzo di Dynamics per SKU illustra la tendenza mensile delle postazioni disponibili, dei posti attivi e dei posti assegnati in base agli SKU.
+L'utilizzo di Dynamics per SKU illustra la tendenza mensile delle postazioni disponibili, delle postazioni attive e delle postazioni assegnate in base agli SKU.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Utilizzo di Dynamics per SKU":::
+:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Utilizzo di Dynamics per SKU.":::
 
 ## <a name="subscriptions-performance"></a>Prestazioni delle sottoscrizioni
 
-Le prestazioni sottoscrizioni illustrano la tendenza mensile dell'utilizzo attivo per sottoscrizione del cliente. I dati per i primi 100 clienti in base ai ricavi fatturati vengono visualizzati nella tabella ed è possibile cercare qualsiasi cliente o scaricare i dati non elaborati per visualizzare i dettagli per tutte le sottoscrizioni.
+Le prestazioni delle sottoscrizioni illustrano la tendenza mensile dell'utilizzo attivo per ogni sottoscrizione del cliente. I dati per i primi 100 clienti in base ai ricavi fatturati vengono visualizzati nella tabella ed è possibile cercare qualsiasi cliente o scaricare i dati non elaborati per visualizzare i dettagli di tutte le sottoscrizioni.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Prestazioni della sottoscrizione Dynamics":::
+:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Prestazioni delle sottoscrizioni di Dynamics.":::
 
 ## <a name="dynamics-usage-distribution"></a>Distribuzione dell'utilizzo di Dynamics
 
-La distribuzione dell'utilizzo di Dynamics illustra la suddivisione delle postazioni disponibili, dei posti attivi e dei posti assegnati in base agli SKU.
+La distribuzione dell'utilizzo di Dynamics illustra la suddivisione delle postazioni disponibili, delle postazioni attive e delle postazioni assegnate in base agli SKU.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Distribuzione dell'utilizzo di Dynamics":::
+:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Distribuzione dell'utilizzo di Dynamics.":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Per altri report, vedere Partner Center [Insights](partner-center-insights.md).
+- Per altri report, vedere [Partner Center Insights.](partner-center-insights.md)
 
-- È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report nel dashboard di Insights. [Altre informazioni](pci-download-reports.md) 
+- È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report del dashboard informazioni dettagliate. [Altre informazioni](pci-download-reports.md) 

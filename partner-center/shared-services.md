@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 929907c7c6f238fb84a13622227534797f0ac949
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ffec50d53b50bdb6aa2690f1dfcc1bc7312cc3cb
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855336"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277301"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Aggiungere Servizi condivisi per partner di Azure in modo che i partner possano acquistare sottoscrizioni di Azure per uso personale
 
@@ -30,11 +30,11 @@ Azure - Servizi condivisi/Carico di lavoro interno è un nuovo tipo di offerta p
 
 2. Se non si dispone già di un tenant di servizi condivisi, fare clic **su Crea servizi condivisi**.
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Creare servizi condivisi":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Creare servizi condivisi.":::
 
-3. Viene creato un tenant di servizi condivisi e viene acquistata la Azure CSP di Servizi condivisi da usare per le risorse condivise e il carico di lavoro interno.
+3. Verrà creato un tenant di servizi condivisi e verrà acquistata Azure CSP di servizi condivisi da usare per le risorse condivise e il carico di lavoro interno.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Creare il tenant e acquistare la sottoscrizione":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Creare il tenant e acquistare la sottoscrizione.":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Informazioni sull'Azure - Servizi condivisi/Carico di lavoro interno offerta
 
@@ -60,16 +60,16 @@ Per visualizzare il nuovo file di prezzi Servizi condivisi per partner di Azure,
 
 A partire dal 1° marzo 2019, Servizi condivisi per partner di Azure (APSS) non supporta più le offerte del Marketplace.
 
-|**Supporto del Marketplace**   |**APSS supportato prima del 1° marzo 2019**|**Dopo il 1° marzo 2019**|
+|**Supporto di Marketplace**   |**APSS supportato prima del 1° marzo 2019**|**Dopo il 1° marzo 2019**|
 |---------------------------|:----------------------------|:-------------------|
 |Bring Your Own License (BYOL) e servizi gratuiti   | Sì   | No|
 |Altre offerte del marketplace di terze parti   | No   |No|
 
-I partner con BYOL o i servizi gratuiti distribuiti tramite APSS non saranno influenzati; tuttavia dopo il 1° marzo 2019 non potranno acquistare nuovi servizi BYOL o gratuiti.
+I partner che hanno BYOL o servizi gratuiti distribuiti tramite APSS non saranno influenzati; tuttavia dopo il 1° marzo 2019 non potranno acquistare nuovi servizi BYOL o gratuiti.
 
 Per sfruttare il catalogo completo delle offerte del Marketplace disponibili (non solo BYOL e servizi gratuiti), è consigliabile che i partner CSP distribuiscono servizi condivisi usando sottoscrizioni web direct di Azure.  I partner CSP che hanno distribuito in precedenza risorse di servizi GRATUITI e BYOL di terze parti dal Marketplace e che vogliono continuare a usarle e distribuire altre offerte di terze parti sono invitati a eseguire la migrazione della sottoscrizione APSS alla migrazione diretta web delle sottoscrizioni di [Azure esistenti.](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)
 
-I partner, che pianificano di continuare a usare la sottoscrizione APSS dopo il 1° marzo 2019 e vogliono distribuire nuovi servizi [BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) o servizi gratuiti di terze parti, possono seguire le istruzioni degli ISV per distribuirlo nelle sottoscrizioni APSS.
+I partner, che in programma di continuare a usare la sottoscrizione APSS dopo il 1° marzo 2019 e vogliono distribuire nuovi servizi [BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) di terze parti o servizi gratuiti, possono seguire le istruzioni degli ISV per distribuirlo nelle sottoscrizioni APSS.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

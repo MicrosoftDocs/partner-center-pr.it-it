@@ -1,7 +1,7 @@
 ---
 title: Come aggiungere un nuovo record cliente
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 04/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informazioni su come aggiungere un nuovo record cliente in Partner Center. È quindi possibile vendere le sottoscrizioni dei clienti, gestire la fatturazione o fornire supporto tecnico.
@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 76e15992355eff88e3a9391ea4af327c3ad969e0
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150557"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373359"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Come aggiungere un nuovo record cliente nel Centro per i partner
 
@@ -52,11 +52,11 @@ Questo articolo descrive come aggiungere un nuovo cliente all'elenco di clienti 
 6. Nella pagina **Verifica** verificare l'accuratezza delle voci e quindi selezionare **Invia** se le informazioni sono corrette.
 
    >[!NOTE]
-   >Se è necessario modificare i dettagli del cliente, selezionare **Aggiorna** nella **sezione Informazioni account.** Se è necessario modificare le offerte selezionate, selezionare **Aggiorna** nella **sezione** Sottoscrizioni.
+   >Se è necessario modificare i dettagli del cliente, selezionare **Aggiorna** nella **sezione Informazioni sull'account.** Se è necessario modificare le offerte selezionate, selezionare **Aggiorna** nella **sezione** Sottoscrizioni.
 
-7. Selezionare **Fine** dopo aver aggiunto le informazioni sul cliente e aver acquistato le sottoscrizioni necessarie.
+7. Al **termine dell'aggiunta** delle informazioni sul cliente e dell'acquisto delle sottoscrizioni necessarie, selezionare Fine.
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Per altre informazioni su ciò che è possibile vendere ai clienti tramite il programma Cloud Solution Provider, vedere Offerte partner nel programma [Cloud Solution Provider clienti](csp-offers.md)
+- Per altre informazioni su ciò che è possibile vendere ai clienti tramite il programma Cloud Solution Provider, vedere [Offerte dei partner nel programma Cloud Solution Provider](csp-offers.md)
 

@@ -2,25 +2,25 @@
 title: Usare i file di riconciliazione
 ms.topic: article
 ms.date: 03/26/2021
-description: Informazioni sui file di riconciliazione Partner Center e su come interpretare le visualizzazioni dettagliate degli addebiti per un determinato ciclo di fatturazione.
+description: Informazioni sui file di riconciliazione Partner Center e su come interpretare le visualizzazioni dettagliate degli addebiti per voci per un determinato ciclo di fatturazione.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 1a7d5f3169c4b338a07475a7e246e87841b8dcfb
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794956"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431563"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Informazioni su come leggere le voci nei file di Partner Center di riconciliazione
 
 **Ruoli appropriati:** Amministratore fatturazione | Amministratore globale
 
-È possibile scaricare i file di riconciliazione da Partner Center per una visualizzazione dettagliata degli elementi di riga di ogni addebito in un ciclo di fatturazione. I dettagli delle voci includono gli addebiti per le sottoscrizioni di ogni cliente e gli eventi dettagliati, ad esempio un'aggiunta a medio termine di licenze a una sottoscrizione.
+È possibile scaricare i file di riconciliazione Partner Center per una visualizzazione dettagliata delle voci di ogni addebito in un ciclo di fatturazione. I dettagli delle voci includono gli addebiti per le sottoscrizioni di ogni cliente e gli eventi dettagliati, ad esempio l'aggiunta di licenze a medio termine a una sottoscrizione.
 
 Per informazioni su come leggere la **fattura,** vedere [Leggere la fattura.](read-your-bill.md)
 
@@ -31,19 +31,19 @@ Per informazioni su come leggere la **fattura,** vedere [Leggere la fattura.](re
 - [Campi del file di riconciliazione per l'uso quotidiano](daily-rated-usage-recon-files.md)
 - [Campi del file di riconciliazione CSP per l'acquisto una sola volta](modern-invoice-reconciliation-file.md)
 
-## <a name="understand-charge-types-in-reconciliation-files"></a>Informazioni sul tipo di addebito nei file di riconciliazione
+## <a name="understand-charge-types-in-reconciliation-files"></a>Comprendere i tipi di addebito nei file di riconciliazione
 
-Per comprendere i tipi di addebiti nei file di riconciliazione (colonna **ChargeType),** vedere [Tipi di addebito file di riconciliazione](recon-file-charge-types.md).
+Per comprendere i tipi di addebiti nei file di riconciliazione (colonna **ChargeType),** vedere [Tipi di addebiti per i file di riconciliazione.](recon-file-charge-types.md)
 
 ## <a name="fix-formatting-issues"></a>Risolvere i problemi di formattazione
 
-In alcuni casi, un file di riconciliazione potrebbe contenere problemi di formattazione. Ad esempio, questo problema potrebbe verificarsi se non vengono usate le impostazioni locali en-US.
+In alcuni casi, un file di riconciliazione potrebbe contenere problemi di formattazione. Ad esempio, questo problema può verificarsi se non vengono usate le impostazioni locali en-US.
 
-Seguire questa procedura per risolvere eventuali problemi di formattazione nei file di riconciliazione:
+Per risolvere eventuali problemi di formattazione nei file di riconciliazione, seguire questa procedura:
 
-1. Aprire il file di riconciliazione (in formato CSV) in Microsoft Excel.
+1. Aprire il file di riconciliazione (in .csv) in Microsoft Excel.
 2. Selezionare la prima colonna nel file.
-3. Aprire la **Conversione guidata testo in colonne**. Sulla barra multifunzione selezionare **Dati** e quindi Selezionare **Testo in colonne**.
+3. Aprire la **Conversione guidata testo in colonne**. Sulla barra multifunzione selezionare **Dati** e quindi selezionare **Da testo a colonne.**
 4. Nella procedura guidata selezionare **Tipo di file delimitato**. Quindi selezionare **Avanti**.
 5. Nel campo **Delimitatori** selezionare **Virgola.** Se **l'opzione Scheda** è già selezionata, è possibile lasciare selezionata questa opzione. Selezionare quindi **Avanti.**
 6. Nel campo **Formato dati colonna** selezionare **Date:MDY**. Quindi selezionare **Avanti**.
@@ -60,7 +60,7 @@ Se è possibile scaricare un file di riconciliazione ma non aprirlo in Microsoft
 ### <a name="open-a-recon-file-in-power-bi"></a>Aprire un file di ricognizione in Power BI
 
 1. Scaricare il file di riconciliazione come di consueto.
-2. Scaricare, installare e aprire un'istanza di Power BI.
+2. Scaricare, installare e aprire un'istanza di Microsoft Power BI.
 3. Nella scheda Power BI **Home** selezionare **Ottieni dati.**
 4. Nell'elenco Origini **dati comuni** selezionare **Testo/CSV.**
 5. Quando richiesto, aprire il file di ricognizione.
@@ -69,39 +69,39 @@ Se è possibile scaricare un file di riconciliazione ma non aprirlo in Microsoft
 
 1. Scaricare il file di riconciliazione come di consueto.
 2. Aprire un nuovo file in Microsoft Excel.
-3. Nella scheda **Dati** selezionare Ottieni **dati,** selezionare **Da file** e quindi selezionare **Testo/CSV.**
+3. Nella scheda **Dati** **selezionare Ottieni** dati, selezionare Da **file** e quindi selezionare **Testo/CSV.**
 4. Quando richiesto, aprire il file di ricognizione. Verranno visualizzati i dati.
-5. Nel menu a discesa **Carica** selezionare **Carica in** e quindi **OK.**
+5. Nel menu **a** discesa Carica selezionare **Carica in** e quindi selezionare **OK.**
 6. Nella finestra **di dialogo Importa** dati selezionare Rapporto di tabella **pivot** per aprire il file.
 
 ## <a name="negative-amount-displayed"></a>Importo negativo visualizzato
 
-È possibile che nel file di riconciliazione venga visualizzato un importo negativo. Questo problema è probabilmente dovuto a una delle cause seguenti:
+È possibile che venga visualizzato un importo negativo nel file di riconciliazione. Questo problema è probabilmente dovuto a una delle cause seguenti:
 
 - Il numero di licenze è stato annullato o ridotto di recente
-- È stato ricevuto il credito per un contratto di licenza del servizio o per l'utilizzo di Azure
+- Si è ricevuto il credito per un contratto di licenza del servizio o per l'utilizzo di Azure
 
 Per ottenere altre informazioni su questa transazione, verificare il rispettivo attributo relativo al tipo di addebito nel file di riconciliazione.
 
 ## <a name="map-taxes-or-vat"></a>Mappare le imposte o l'IVA
 
-Per eseguire il mapping delle imposte o dell'imposta sul valore aggiunto (IVA) alla fattura:
+Per eseguire il mapping delle imposte o delle imposte sul valore aggiunto (IVA) alla fattura:
 
 - Sommare **la colonna** Tax dal file basato su licenza.
 - Sommare **la colonna TaxAmount** dal file basato sull'utilizzo.
 
-## <a name="itemize-reconciliation-files-by-partner"></a>Visualizzare in modo specifico i file di riconciliazione in base al partner
+## <a name="itemize-reconciliation-files-by-partner"></a>Visualizzare i file di riconciliazione in base al partner
 
-I partner nel modello **indiretto** possono usare questi campi aggiuntivi nei file di riconciliazione basati su licenza e basati sull'utilizzo per visualizzare in dettaglio i file in base al rivenditore.
+I partner nel **modello indiretto possono** usare questi campi aggiuntivi sia nei file di riconciliazione basati su licenza che in base all'utilizzo per specificare i file in base al rivenditore.
 
 | ID MPN | Descrizione |
 | ------ | ----------- |
 | ID MPN | Identificatore Microsoft Partner Network (MPN) del partner Cloud Solution Provider (CSP) (diretto o indiretto). |
-| [ID MPN rivenditore](#reseller-mpn-id) | Identificatore [MPN del rivenditore di record per la sottoscrizione](#reseller-mpn-id). Questo campo corrisponde all'ID rivenditore elencato per la sottoscrizione specifica in Partner Center. Viene visualizzato solo nei file di riconciliazione per i partner nel modello indiretto. |
+| [ID MPN rivenditore](#reseller-mpn-id) | Identificatore [MPN del rivenditore del record per la sottoscrizione](#reseller-mpn-id). Questo campo corrisponde all'ID rivenditore elencato per la sottoscrizione specifica in Partner Center. Viene visualizzato solo nei file di riconciliazione per i partner nel modello indiretto. |
 
 ### <a name="reseller-mpn-id"></a>ID MPN rivenditore
 
-Se un partner CSP ha venduto la sottoscrizione direttamente al cliente, il relativo **ID MPN** viene elencato due volte come **ID MPN** e ID **MPN rivenditore**.
+Se un partner CSP ha venduto la sottoscrizione direttamente al cliente, il relativo **ID MPN** viene elencato due volte, sia come **ID MPN** che come **ID MPN rivenditore.**
 
 Se un partner CSP ha un rivenditore senza **ID MPN,** questo valore viene impostato sull'ID **MPN del** partner.
 
@@ -118,4 +118,4 @@ Per visualizzare o aggiornare **l'ID MPN del rivenditore:**
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Come leggere il file di & fattura](read-your-bill.md) 
+- [Come leggere il file di ricognizione & fattura](read-your-bill.md) 

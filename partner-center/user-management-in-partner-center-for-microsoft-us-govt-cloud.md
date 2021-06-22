@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4951d6abde3ea445ec588458af9f33f3ccd56092
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 26cdd01597b1cea49b36bb06c6d7b4d38c1b7879
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146834"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431465"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gestione di utenti e licenze nel Centro per i partner per Microsoft Cloud for US Government
 
@@ -32,14 +32,14 @@ Dopo aver eseguito l'accesso al portale di Azure per Microsoft Cloud for US Gove
 > [!NOTE]  
 > Selezionando i collegamenti seguenti verrà visualizzato un sito Web diverso. 
 
--  [**Aggiungere nuovi utenti a Azure Active Directory**](/azure/active-directory/active-directory-users-create-azure-portal)
+- [Aggiungere nuovi utenti a Azure Active Directory](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Assegnare un utente ai ruoli di amministratore in Azure Active Directory**](/azure/active-directory/active-directory-users-assign-role-azure-portal)
+- [Assegnare un utente ai ruoli di amministratore in Azure Active Directory](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**Reimpostare la password per un utente in Azure Active Directory**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
+- [Reimpostare la password per un utente in Azure Active Directory](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 ## <a name="next-steps"></a>Passaggi successivi
 
--  [**Centro per i partner per Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
+- [Centro per i partner per Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**Iscriversi al programma Cloud Solution Provider per Microsoft Cloud for US Government**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+- [Iscriversi al programma Cloud Solution Provider per Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md)

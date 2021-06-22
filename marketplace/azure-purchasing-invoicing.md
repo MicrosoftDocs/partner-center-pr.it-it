@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276502"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431558"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace acquisto
 
@@ -19,17 +19,20 @@ Azure Marketplace offre numerosi strumenti e funzionalità che semplificano e se
 
 ## <a name="simplified-procurement"></a>Approvvigionamento semplificato
 
-Azure Marketplace semplifica di processo di approvvigionamento offrendo varie opzioni di acquisto. Se si acquistano prodotti usando una carta di credito associata all'account Azure, tutti gli acquisti verranno consolidati in una singola fattura e fatturati sulla carta di credito scelta. Se si è un cliente di grandi dimensioni, è possibile acquistare usando un Contratto Enterprise. Con un contratto EA, eventuali acquisti di software vengono inclusi automaticamente nella fattura di Azure. che indicherà prima gli addebiti per l'utilizzo di Azure e quindi gli addebiti di Azure Marketplace.
+Azure Marketplace semplifica di processo di approvvigionamento offrendo varie opzioni di acquisto. Se si acquistano prodotti usando una carta di credito associata all'account Azure, tutti gli acquisti verranno consolidati in una singola fattura e fatturati sulla carta di credito scelta. I clienti di grandi dimensioni possono acquistare usando un Contratto Enterprise. Con un contratto EA, eventuali acquisti di software vengono inclusi automaticamente nella fattura di Azure. che indicherà prima gli addebiti per l'utilizzo di Azure e quindi gli addebiti di Azure Marketplace.
 
 Quando si acquista tramite Azure Marketplace, si elimina la complessità di gestione delle relazioni e delle fatture dei singoli fornitori. Si ottiene una singola fattura mensile consolidata da Microsoft che include sia gli acquisti Azure Marketplace e gli addebiti di Azure.
 
 ## <a name="permission-to-purchase"></a>Autorizzazione per l'acquisto
 
-Dopo aver trovato l'applicazione software giusta, completare l'acquisto è semplice. Saranno tuttavia necessarie autorizzazioni appropriate all'interno della sottoscrizione di Azure. Poiché Azure opera su un modello di controllo degli [accessi](/azure/role-based-access-control/overview) in  base al ruolo, l'account deve avere le autorizzazioni di proprietario della sottoscrizione o collaboratore per effettuare un acquisto. 
+Dopo aver trovato l'applicazione software giusta, completare l'acquisto è semplice. Saranno tuttavia necessarie autorizzazioni appropriate all'interno della sottoscrizione di Azure. Poiché Azure opera su un modello di controllo degli [accessi](/azure/role-based-access-control/overview) in base al ruolo, l'account deve avere le autorizzazioni di proprietario o **collaboratore** della sottoscrizione per effettuare un acquisto. 
 
 Prima di completare un acquisto, assicurarsi che l'utente abbia la configurazione corretta nel tenant di Azure. Ciò consente di evitare errori durante l'acquisto.
 
 Nell'Azure Marketplace nella portale di Azure trovare l'applicazione che si vuole acquistare e  selezionare Crea o **Configura e sottoscrivi.** Verrà richiesto di completare alcune informazioni prima di poter usare la nuova soluzione.
+
+> [!CAUTION]
+> L'approvazione nel Marketplace privato non indica l'approvvigionamento di una soluzione.
 
 :::image type="content" source="media/overview/offer-create-screen.png" alt-text="Pulsante Crea dell'offerta.":::
 
@@ -67,7 +70,7 @@ L'acquisto di un'offerta tramite Azure Marketplace può avere esito negativo per
 
 1. La sottoscrizione appartiene a un Contratto Enterprise (EA) e l'amministratore EA ha disabilitato Azure Marketplace acquisti.
 1. L'amministratore EA ha abilitato gli acquisti solo per le offerte gratuite e l'offerta è un'offerta a pagamento.
-1. L'offerta non è stata trovata nel marketplace.
+1. L'offerta non è disponibile nel marketplace.
 1. Il fornitore di software indipendente (ISV) ha smesso di vendere l'offerta, almeno nella propria area.
 1. La sottoscrizione in uso appartiene a un account di fatturazione in un'area in cui l'offerta non è disponibile.
 1. L'account di sottoscrizione/fatturazione non è associato a uno strumento di pagamento valido, ad esempio una carta di credito valida.

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni sui requisiti dei partner con fatturazione diretta CSP e su cosa fare per evitare che le funzionalità vengano limitate. Verificare se le funzionalità sono state limitate.
+description: Informazioni sui Cloud Solution Provider dei partner con fatturazione diretta (CSP) e su cosa fare per evitare che le funzionalità vengano limitate. Verificare se le funzionalità sono state limitate.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e5bc33101809a805ba591be5a9b51d8dfff2397b
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855489"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551419"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Funzionalità di fatturazione diretta con restrizioni e requisiti necessari per i partner con fatturazione diretta CSP
 
@@ -22,7 +22,7 @@ ms.locfileid: "109855489"
 
 ## <a name="overview"></a>Panoramica
 
-I partner con fatturazione diretta devono soddisfare i [nuovi requisiti](direct-partner-new-requirements.md) per rimanere nel programma CSP per i partner con fatturazione diretta. In caso contrario, l'accesso alle funzionalità di fatturazione diretta verrà limitato e non sarà più possibile eseguire attività specifiche, ad esempio effettuare nuovi acquisti per i clienti.
+I partner con fatturazione diretta devono [soddisfare](direct-partner-new-requirements.md) i nuovi requisiti per rimanere nel programma Cloud Solution Provider (CSP) per i partner con fatturazione diretta. In caso contrario, l'accesso alle funzionalità di fatturazione diretta verrà limitato e non sarà più possibile eseguire attività specifiche, ad esempio effettuare nuovi acquisti per i clienti.
 
 > [!Note]
 > I partner con fatturazione diretta che non soddisfano i nuovi requisiti per il programma CSP per i partner con fatturazione diretta verranno informati da Microsoft quando le funzionalità di fatturazione diretta saranno limitate. Questo vale per tutti i partner con fatturazione diretta, indipendentemente dal fatto che abbia scelto o meno la transizione da partner con fatturazione diretta [a rivenditori](transition-direct-to-indirect.md) indiretti.  
@@ -33,7 +33,7 @@ Per verificare se l'accesso dal tenant partner con fatturazione diretta alle fun
 
 1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard).
 
-2. Passare a **Impostazioni account**  ->  **Profilo legale.**
+2. Passare a **Impostazioni account**  >  **Profilo legale.**
 
 3. In **Program info (Informazioni** programma) **cercare Microsoft Cloud Solution Provider stato .**
 
@@ -53,7 +53,7 @@ Se le funzionalità di fatturazione diretta sono state limitate, non è più pos
 
 Non è inoltre possibile usare [l'offerta di servizi condivisi dei partner di Azure](shared-services.md) nel programma CSP per acquistare nuove sottoscrizioni di Azure per uso personale.
 
-Le sottoscrizioni con fatturazione diretta esistenti non sono interessate. Rimangono validi e vengono rinnovati automaticamente. Si continuerà a essere fatturati direttamente da Microsoft fino a quando non vengono annullati. È comunque possibile gestire le sottoscrizioni esistenti nei modi seguenti:
+Le sottoscrizioni con fatturazione diretta esistenti non sono interessate. Rimangono validi e vengono rinuovati. L'addebito continuerà a essere addebitato direttamente da Microsoft fino a quando non vengono annullati. È comunque possibile gestire le sottoscrizioni esistenti nei modi seguenti:
 
 - Sospendere le sottoscrizioni esistenti
 
@@ -62,20 +62,20 @@ Le sottoscrizioni con fatturazione diretta esistenti non sono interessate. Riman
 - Modificare il numero di licenze dei componenti aggiuntivi esistenti in una sottoscrizione. 
 
     >[!Note]
-    >Non è possibile aggiungere nuovi componenti aggiuntivi alle sottoscrizioni esistenti perché viene considerato come nuovo acquisto.
+    >Non è possibile aggiungere nuovi componenti aggiuntivi alle sottoscrizioni esistenti perché vengono considerati come nuovi acquisti.
 
-- Distribuire nuove risorse di Azure e gestire le risorse di Azure esistenti in sottoscrizioni di Azure esistenti. Sono incluse le risorse, disponibili tramite Azure Marketplace e Visual Studio sottoscrizioni.
+- Distribuire nuove risorse di Azure e gestire le risorse di Azure esistenti nelle sottoscrizioni di Azure esistenti. Sono incluse le risorse disponibili tramite sottoscrizioni Azure Marketplace e Visual Studio sottoscrizione.
 
 Oltre ai nuovi acquisti, non è possibile accedere alle funzionalità di fatturazione diretta seguenti in Partner Center:
 
-- Non è possibile creare nuovi tenant del cliente. **L'opzione** Crea cliente **nella pagina** Clienti Partner Center non sarà disponibile.
+- Non è possibile creare nuovi tenant del cliente. **L'opzione Crea** cliente **nella pagina** Clienti Partner Center non sarà disponibile.
 
-- Non è possibile generare l'invito al cliente che richiede una relazione con rivenditore diretto. **L'opzione Richiedi una relazione rivenditore** nella pagina **Clienti** Partner Center non sarà disponibile.
+- Non è possibile generare l'invito al cliente che richiede una relazione come rivenditore diretto. **L'opzione Richiedi una relazione come** rivenditore nella **pagina** Clienti Partner Center non sarà disponibile.
 
     >[!NOTE]
-    >Come parte della transizione dal partner di fatturazione diretta al rivenditore indiretto, se il tenant del partner di fatturazione diretta è già stato registrato come rivenditore indiretto, è possibile generare l'invito al cliente che richiede la relazione di rivenditore indiretto.
+    >Nell'ambito della transizione dal partner con fatturazione diretta al rivenditore indiretto, se è già stato registrato il tenant del partner con fatturazione diretta come rivenditore indiretto, è possibile generare l'invito al cliente che richiede una relazione come rivenditore indiretto.
 
-- Non è possibile creare un nuovo tenant sandbox. Ogni tenant partner con fatturazione diretta può creare un tenant sandbox per l'integrazione dell'API di fatturazione diretta. Se non ne è stato creato uno in precedenza, non è possibile farlo dopo che la funzionalità del partner per la fatturazione diretta è stata limitata.  
+- Non è possibile creare un nuovo tenant sandbox. Ogni tenant partner con fatturazione diretta può creare un tenant sandbox per l'integrazione dell'API di fatturazione diretta. Se non è stato creato in precedenza, non è consentito farlo dopo che la funzionalità del partner con fatturazione diretta è stata limitata.  
 
 ## <a name="next-steps"></a>Passaggi successivi
 

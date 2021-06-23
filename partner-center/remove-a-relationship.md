@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come i partner diretti Microsoft possono rimuovere i clienti dall'elenco, rimuovere i privilegi di amministratore con delega e interrompere il supporto o l'acquisto per un cliente.
+description: Informazioni su come i partner diretti Microsoft possono rimuovere i clienti dall'elenco, rimuovere i privilegi di amministratore delegato e interrompere il supporto o l'acquisto per un cliente.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 735a8b2c2436df61216ceb476be4a55b18785325
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83259f2f895be9ef34c55db5613ccfe6891a4424
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855693"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551470"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Come rimuovere una relazione di rivenditore con un cliente nel Centro per i partner
 
@@ -33,7 +33,7 @@ La rimozione di una relazione comporta le conseguenze seguenti:
 
 ## <a name="how-to-remove-a-relationship"></a>Come rimuovere una relazione
 
-Per rimuovere la relazione, è necessario annullare prima le prenotazioni di istanze di Istanze di Istanze di Azure, annullare gli acquisti di software e sospendere le sottoscrizioni attive rimanenti.
+Per rimuovere la relazione, è necessario annullare prima le prenotazioni di istanze riservate di Azure, annullare gli acquisti di software e sospendere le sottoscrizioni attive rimanenti.
 
 1. **Sospendere tutte le sottoscrizioni attive.**
 
@@ -47,7 +47,7 @@ Per rimuovere la relazione, è necessario annullare prima le prenotazioni di ist
 
 2. **Rimuovere la relazione in Partner Center:**
 
-   a. Nell'Partner Center passare a **Clienti** e selezionare un cliente.
+   a. Nell'Partner Center passare a **Clienti e** selezionare un cliente.
 
    b. Selezionare **Account**.
 

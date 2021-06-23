@@ -1,5 +1,5 @@
 ---
-title: Richiedere una relazione con un cliente
+title: Richiedere una relazione come rivenditore con un cliente
 ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
@@ -8,12 +8,12 @@ description: Richiedere una relazione con un cliente per scenari multicanale mul
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83f615e69a9285365e68305fa909104e0da52992
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856118"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551640"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Come richiedere una relazione di rivenditore da un cliente nel Centro per i partner
 
@@ -24,7 +24,7 @@ Se si vuole gestire il servizio o la sottoscrizione di un cliente per loro conto
 Se si vuole stabilire una relazione come rivenditore con un cliente e gestire solo le sottoscrizioni di Azure di cui si effettua il provisioning, non è necessario ottenere le autorizzazioni di amministratore.
 
 >[!NOTE] 
->L'opzione per non richiedere autorizzazioni non è disponibile per i partner che operano in Microsoft Cloud for US Government o Microsoft Cloud Germania. Per altre informazioni, vedere i clienti [delegano i privilegi di amministrazione ai partner.](customers-revoke-admin-privileges.md)
+>L'opzione per non richiedere autorizzazioni non è disponibile per i partner che operano in Microsoft Cloud for US Government o Microsoft Cloud Germania. Per altre informazioni, vedere [Delegare i privilegi di amministrazione ai partner.](customers-revoke-admin-privileges.md)
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitare un cliente a stabilire con l'utente una relazione come rivenditore
 
@@ -48,13 +48,13 @@ Se si vuole stabilire una relazione come rivenditore con un cliente e gestire so
 6. Per gestire l'account, i servizi, gli utenti e le licenze del cliente, espandi il record del cliente selezionando la freccia verso il basso accanto al nome.
 
 > [!IMPORTANT]  
-> I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, a meno che e fino a quando non si rinegozia il contratto con il cliente, l'utente continuerà a essere responsabile dell'assistenza clienti e dell'aderenza alle condizioni del Contratto Microsoft Partner, anche dopo la riassegnazione o la rimozione delle autorizzazioni di amministratore da parte di un cliente. In questo caso, se il cliente richiede assistenza, è possibile chiamare il supporto tecnico Microsoft per aprire una richiesta di servizio per conto del cliente.
+> I clienti possono riassegnare o rimuovere le autorizzazioni di amministratore nel portale di amministrazione del servizio. Tuttavia, a meno che e fino a quando non si rinegozia il contratto con il cliente, l'utente continuerà a essere responsabile dell'assistenza clienti e dell'aderenza alle condizioni del Contratto Microsoft Partner, anche dopo che un cliente ha riassegnare o rimuovere le autorizzazioni di amministratore. In questo caso, se il cliente richiede assistenza, è possibile chiamare il supporto tecnico Microsoft per aprire una richiesta di servizio per conto del cliente.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Modifiche all'esperienza di invito del cliente
 
-L'esperienza del cliente per l'accettazione di un invito alla relazione di rivenditore da un partner Cloud Solution Provider è ospitata da diversi portali per i clienti. La posizione del portale dipende dal fatto che un cliente si trova in un cloud pubblico Microsoft o in un cloud nazionale:
+L'esperienza del cliente per accettare un invito alla relazione come rivenditore da un partner Cloud Solution Provider (CSP) è ospitata da portali diversi per i clienti. La posizione del portale dipende dal fatto che un cliente si trova in un cloud pubblico Microsoft o in un cloud nazionale:
 
-|Tipi di clienti cloud  | Dove un cliente accetta un invito a una relazione con rivenditore? |
+|Tipi di clienti cloud  | Dove un cliente accetta un invito alla relazione come rivenditore? |
 |---------|---------
 | Clienti nel cloud pubblico | Interfaccia di amministrazione di Microsoft 365 |
 | Clienti in Partner Center per Microsoft Cloud Germania | Microsoft Office di amministrazione |

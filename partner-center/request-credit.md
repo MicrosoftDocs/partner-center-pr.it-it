@@ -2,19 +2,19 @@
 title: Richiedere crediti del contratto di servizio a Microsoft
 ms.topic: article
 ms.date: 03/31/2021
-description: Informazioni su vantaggi, restrizioni e procedure per richiedere un credito di contratto di servizio a Microsoft in caso di interruzione del servizio da parte dei clienti.
+description: Informazioni sui vantaggi, le restrizioni e le procedure per richiedere un credito del contratto di servizio a Microsoft in caso di interruzione del servizio da parte dei clienti.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4a8e785de051aa6f722a1bfddc4ad83d6502bbb3
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152954"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551657"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Come e quando richiedere un credito di contratto di servizio a Microsoft
 
@@ -26,12 +26,12 @@ ms.locfileid: "110152954"
 
 I crediti del contratto di servizio di Microsoft vengono determinati in base ai servizi che sono stati influenzati. Ad esempio, se il cliente ha una famiglia di prodotti Office 365 ma si è verificata solo un'interruzione di SharePoint, il credito del contratto di servizio viene approvato solo per SharePoint e non per l'intero piano del cliente.
 
-*I crediti vengono valutati in base al servizio interessato e alla durata dell'interruzione.* Per visualizzare i tipi di scenari idonei per i crediti del contratto di servizio, vedere il documento Contratto di servizio consolidato [di Servizi online](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Queste informazioni si applicano anche ai servizi venduti Cloud Solution Provider programma.
+*I crediti vengono valutati in base al servizio interessato e alla durata dell'interruzione.* Per visualizzare i tipi di scenari idonei per i crediti del contratto di servizio, vedere il documento Contratto di servizio consolidato [di Servizi online](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Queste informazioni si applicano anche ai servizi venduti tramite il programma Cloud Solution Provider (CSP).
 
 
 ## <a name="request-an-sla-credit"></a>Richiedere un credito del contratto di servizio
 
-*Il partner Cloud Solution Provider (CSP) deve inviare l'attestazione e tutte le informazioni necessarie entro la fine del mese di calendario successivo al mese in cui si è verificato l'evento imprevisto.* Ad esempio, se l'evento imprevisto si è verificato il 15 febbraio, Microsoft deve ricevere l'attestazione e tutte le informazioni necessarie entro il 31 marzo. I clienti finali e i rivenditori indiretti non possono inviare richieste di credito del contratto di servizio. Il provider indiretto o il partner di fatturazione diretta deve inviare attestazioni per loro conto.
+*Il partner CSP deve inviare l'attestazione e tutte le informazioni necessarie entro la fine del mese di calendario successivo al mese in cui si è verificato l'evento imprevisto.* Ad esempio, se l'evento imprevisto si è verificato il 15 febbraio, Microsoft deve ricevere l'attestazione e tutte le informazioni necessarie entro il 31 marzo. I clienti finali e i rivenditori indiretti non possono inviare richieste di credito del contratto di servizio. Il provider indiretto o il partner di fatturazione diretta deve inviare attestazioni per loro conto.
 
 >[!NOTE]
 >Gli eventi imprevisti di consulenza ([Come controllare Microsoft 365 integrità del servizio](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) non sono idonei per i crediti del contratto di servizio.
@@ -44,10 +44,10 @@ Prima di [inviare una richiesta di credito del](#submit-sla-credit-request) cont
 
 - GUID del tenant del cliente
 - Identificatore [dell'evento imprevisto di interruzione?](#outage-incident-identifier)
-- Prova che il cliente è stato in impatto dall'interruzione del servizio e ha richiesto un credito del contratto di servizio.
-- Le sottoscrizioni ermesse sono state acquistate tramite CSP? (*sì* o *no*)
+- Prova che il cliente è stato invaso dall'interruzione e ha richiesto un credito del contratto di servizio.
+- Le sottoscrizioni influenzate sono state acquistate tramite CSP? (*sì* o *no*)
 
-#### <a name="evidence-that-proves-customer-impact"></a>Evidenza che dimostra l'impatto dei clienti
+#### <a name="evidence-that-proves-customer-impact"></a>Prova che dimostra l'impatto del cliente
 
 - Informazioni relative al tempo e alla durata del tempo di inattività
 - Numero e località degli utenti interessati (se applicabile)
@@ -58,7 +58,7 @@ Prima di [inviare una richiesta di credito del](#submit-sla-credit-request) cont
 
 #### <a name="outage-incident-identifier"></a>Identificatore dell'evento imprevisto di interruzione
 
-È possibile trovare l'identificatore per l'evento imprevisto di interruzione **nella** pagina Integrità dei servizi nel interfaccia di amministrazione di Microsoft 365. L'ID evento **imprevisto** di interruzione è un numero preceduto da un'abbreviazione di due lettere che indica il servizio interessato, ad esempio *EX25194* per un'interruzione di Exchange Online. La tabella seguente descrive le abbreviazioni di servizi comuni:
+È possibile trovare l'identificatore per l'evento imprevisto di interruzione nella pagina **Integrità** dei servizi nel interfaccia di amministrazione di Microsoft 365. L'ID evento **imprevisto** di interruzione è un numero preceduto da un'abbreviazione di due lettere che indica il servizio interessato, ad esempio *EX25194* per un'interruzione di Exchange Online. La tabella seguente descrive le abbreviazioni di servizio comuni:
 
 | Abbreviazione di due lettere | Servizio Microsoft |
 | ----------------------- | ----------------- |

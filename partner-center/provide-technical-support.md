@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f25dda14ff056918ef29ab5cfeaa72894b4d4fea
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5ea1fcd80f6ada97e5c0b840f11e0eb7668ee265
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854996"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551232"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Fornire supporto tecnico per aiutare i clienti a configurare, gestire e usare le sottoscrizioni
 
 
 **Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti | Supporto dell'agente | Agente amministratore
 
-Come partner Cloud Solution Provider, si hanno privilegi di amministratore delegati che forniscono l'accesso agli ambienti dei clienti. Questi privilegi consentono di supportare, configurare e gestire direttamente le sottoscrizioni dei clienti.
+I partner Cloud Solution Provider (CSP) hanno privilegi di amministratore delegati che forniscono l'accesso agli ambienti dei clienti. Questi privilegi consentono di supportare, configurare e gestire direttamente le sottoscrizioni dei clienti.
 
 Nel Centro per i partner puoi:
 
@@ -42,21 +42,21 @@ I partner che ese legale nel modello CSP sono l'advisor attendibile per i client
 
 Per soddisfare il requisito di supporto, il partner può rivendere il supporto da un'altra entità, può esternalizzare tutta o parte della struttura di supporto e/o può configurare una struttura per fornire supporto direttamente.  Il partner può addebitare tutto o parte del supporto fornito ai clienti. Il partner deve articolare ai clienti il supporto che fornirà, le ore di servizio e il metodo di contatto e i prezzi (in caso di addebito per il supporto). 
 
-I partner devono ricevere richieste di supporto in ingresso dai clienti, diagnosticare i problemi al meglio delle capacità del partner e quindi risolvere i problemi all'interno dell'ambito dei limiti di supporto di base. Se il partner non è in grado di risolvere un problema, può inoltrare i problemi a Microsoft tramite i veicoli di supporto seguenti:
+I partner devono ricevere richieste di supporto in ingresso dai clienti, diagnosticare i problemi al meglio delle capacità del partner e quindi risolvere i problemi che sono nell'ambito dei limiti di supporto di base. Se il partner non è in grado di risolvere un problema, può inoltrare i problemi a Microsoft tramite i veicoli di supporto seguenti:
 
 - **Il supporto** per i problemi commerciali è disponibile per tutti i partner nel programma CSP
 
 - **Il supporto** tecnico per i problemi è disponibile tramite:
 
   - supporto tecnico Premier per i partner (a pagamento)
-  - Supporto avanzato per i partner (basato su tariffa)
-  - Signature Cloud Support (inclusa con la competenza Gold/Silver)
+  - Supporto avanzato per i partner (a pagamento)
+  - Signature Cloud Support (incluso nella competenza Gold/Silver)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Fornire fatturazione, gestione delle sottoscrizioni e supporto tecnico 
 
 Ogni servizio online ha requisiti specifici e dettagliati per fornire fatturazione, gestione delle sottoscrizioni e supporto tecnico ai clienti. Per altre informazioni, vedere:
 
-- [Sottoscrizioni di Dynamics 365 vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+- [Sottoscrizioni dynamics 365 vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
 - [Sottoscrizioni di Azure vendute tramite CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
@@ -64,4 +64,4 @@ Ogni servizio online ha requisiti specifici e dettagliati per fornire fatturazio
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Segnalare un problema del servizio per conto di un cliente, inclusi quando e come eseguire questa operazione](report-problems-on-behalf-of-a-customer.md)
+- [Segnalare un problema di servizio per conto di un cliente, incluso quando e come eseguire questa operazione](report-problems-on-behalf-of-a-customer.md)

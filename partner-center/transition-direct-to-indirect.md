@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come un partner del programma CSP può usare Partner Center per la transizione da partner con fatturazione diretta a rivenditore indiretto.
+description: Informazioni su come un partner Cloud Solution Provider (CSP) può usare Partner Center per la transizione da partner con fatturazione diretta a rivenditore indiretto.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e57c4a5d0a02079e887b38fa9754d276062d20cc
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 205451a1c42c6538936df49ba8a4314372a94082
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276417"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490054"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transizione da partner CSP (Cloud Solution Provider) con fatturazione diretta a rivenditore CSP indiretto
 
@@ -22,13 +22,13 @@ ms.locfileid: "112276417"
 
 >[!Note]
 >Questo articolo è destinato ai partner con fatturazione diretta che hanno deciso di passare a rivenditori indiretti. Tuttavia, anche se non si è ancora deciso esplicitamente di registrarsi come rivenditore [](direct-partner-new-requirements.md) indiretto, i partner con fatturazione diretta che non soddisfano i nuovi requisiti per il programma CSP per i partner con fatturazione diretta verranno informati da Microsoft quando le funzionalità di fatturazione diretta saranno [limitate.](restricted-direct-bill-capabilities.md)
-<br>A partire da gennaio 2021 verrà aggiunto un nuovo requisito di ricavi. I partner registrati come partner con fatturazione diretta dovranno avere registrato una transazione di almeno 300.000 USD nei ricavi del programma Cloud Solution Provider a livello di account globale del partner nei 12 mesi precedenti.
+<br>A partire da gennaio 2021 verrà aggiunto un nuovo requisito di ricavi. I partner registrati come partner con fatturazione diretta dovranno aver registrato ricavi del programma CSP di almeno 300.000 USD a livello di account globale del partner nei 12 mesi precedenti.
 
 Sarà possibile registrarsi al programma per rivenditori indiretti usando il tenant con fatturazione diretta esistente.
 
 ## <a name="get-started"></a>Introduzione
 
-1. Assicurarsi che il profilo partner in Partner Center e l'ID MPN siano correnti.
+1. Assicurarsi che il profilo partner in Partner Center e Microsoft Partner Network (MPN) sia corrente.
 
 2. Accedere a Partner Center come amministratore globale per il tenant con fatturazione diretta di cui si sta effettuando la transizione al rivenditore indiretto.
 
@@ -38,7 +38,7 @@ Sarà possibile registrarsi al programma per rivenditori indiretti usando il ten
 
    :::image type="content" source="images/direct/direct2a.png" alt-text="Registrarsi ora.":::
 
-4. Selezionare Registrati ora. L'azienda rivenditore indiretto userà lo stesso tenant di AAD che si usa per l'azienda diretta.
+4. Selezionare Registrati ora. L'azienda rivenditore indiretto userà lo stesso tenant Microsoft Azure Active Directory (Azure AD) che si usa per l'azienda diretta.
 
     > [!NOTE]
     > Inizialmente, questa nuova funzionalità di transizione sarà disponibile per i partner la cui data dell'anniversario ricorre da settembre a dicembre. Se non si ha una data di anniversario tra settembre e dicembre, la funzionalità non verrà visualizzata al momento. I partner la cui data dell'anniversario è successiva a dicembre 2018 riceveranno una notifica in un secondo momento, quando la funzionalità sarà abilitata anche per loro.
@@ -46,7 +46,7 @@ Sarà possibile registrarsi al programma per rivenditori indiretti usando il ten
 5. Dopo l'approvazione della registrazione, accedere di nuovo Partner Center registrazione.
 
     > [!NOTE]
-    > Anche se l'approvazione è in genere immediata, può richiedere fino a cinque giorni lavorativi. Dopo l'approvazione, si riceverà una notifica all'indirizzo di posta elettronica specificato nel contatto principale nel modulo di registrazione. È anche possibile controllare lo stato della registrazione in **Impostazioni** Impostazioni Profilo partner >  >    >   programma.
+    > Anche se l'approvazione è in genere immediata, può richiedere fino a cinque giorni lavorativi. Dopo l'approvazione, si riceverà una notifica all'indirizzo di posta elettronica specificato nel contatto principale nel modulo di registrazione. È anche possibile controllare lo stato della registrazione in **Impostazioni**  >  **Impostazioni Account** Profilo  >  **partner** > programma.
 
 6. Nella pagina **Panoramica** verrà visualizzato il contratto per rivenditori indiretti. Seleziona **Accetta e continua**. Questa azione abilita le funzionalità dei rivenditori indiretti.
 
@@ -163,21 +163,21 @@ Il provider indiretto non può inviare ordini o trasferimenti di sottoscrizioni 
 - Dopo aver stabilito la relazione con il rivenditore, il provider indiretto verrà visualizzato come partner CSP per il cliente nella pagina Relazioni con i partner [in Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/partners) e [Microsoft Store per le aziende](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
-    > Per evitare confusione e malintesi, l'utente è contrattualmente obbligato dal contratto partner a informare e ottenere il consenso dal cliente con fatturazione diretta prima di usare la funzionalità di estensione della relazione per stabilire la relazione tra un cliente con fatturazione diretta esistente e un provider indiretto.
+    > Per evitare confusione e malintesi, l'utente è contrattualmente obbligato dal contratto partner a informare e ottenere il consenso del cliente con fatturazione diretta prima di usare la funzionalità di estensione della relazione per stabilire la relazione tra un cliente con fatturazione diretta esistente e un provider indiretto.
 
 Per usare questa funzionalità in un tenant del cliente esistente:
 
 1. Accedere a Partner Center come **agente amministratore.**
 
-2. Nella pagina **Clienti selezionare** un cliente esistente e fare clic sull'icona Collegamenti **rapidi** per espandere la visualizzazione di riepilogo del cliente.
+2. Nella pagina **Clienti selezionare** un cliente esistente e selezionare **l'icona** Collegamenti rapidi per espandere la visualizzazione riepilogo del cliente.
 
-3. In **Provider indiretti fare clic** su **Trasferisci cliente in un provider indiretto**.
+3. In **Provider indiretti selezionare** **Trasferisci cliente in un provider indiretto.**
 
     :::image type="content" source="images/direct/direct5-1.png" alt-text="Trasferire il cliente a un provider indiretto.":::
 
 4. Nella finestra di dialogo popup selezionare il **provider indiretto** che si vuole avere come rivenditore con il cliente.
 
-5. Fare clic su **Salva e continua**.
+5. Fai clic su **Salva e continua**.
 
 6. Verificare che il provider indiretto selezionato sia visualizzato **in Provider indiretti.**
 
@@ -231,7 +231,7 @@ Nel modello indiretto CSP i rivenditori indiretti non hanno relazioni di fattura
 
 ### <a name="how-to-transition-to-indirect-reseller-status"></a>Come eseguire la transizione allo stato del rivenditore indiretto
 
-La funzionalità è un processo in 4 passaggi, in cui:
+La funzionalità è un processo in quattro passaggi, in cui:
 
 - Il partner di transizione crea una richiesta di trasferimento della sottoscrizione. La richiesta contiene una o più sottoscrizioni esistenti associate allo stesso cliente e viene indirizzata a un provider indiretto.
 
@@ -260,15 +260,15 @@ Per creare una richiesta di trasferimento come partner di transizione:
 
 1. Accedere a Partner Center come **agente amministratore.**
 
-2. Nella pagina **Clienti** selezionare il cliente desiderato e fare clic sull'icona Collegamenti rapidi per espandere la visualizzazione di riepilogo del cliente.
+2. Nella pagina **Clienti** selezionare il cliente desiderato e selezionare l'icona Collegamenti rapidi per espandere la visualizzazione di riepilogo del cliente.
 
 3. In **Provider indiretti** verificare che sia elencato il provider indiretto desiderato.
 
-4. Fare clic **su Visualizza sottoscrizioni**.
+4. Selezionare **Visualizza sottoscrizioni**.
 
 5. Nella pagina **Sottoscrizioni** cercare Trasferimento **sottoscrizioni**.
 
-6. In **Trasferimento sottoscrizione** fare clic su Richiedi trasferimento **sottoscrizione**.
+6. In **Trasferimento sottoscrizione** selezionare Richiedi trasferimento **sottoscrizione**.
 
     :::image type="content" source="images/direct/direct8.png" alt-text="Richiedere il trasferimento della sottoscrizione.":::
 
@@ -276,7 +276,7 @@ Per creare una richiesta di trasferimento come partner di transizione:
 
     :::image type="content" source="images/direct/direct9.png" alt-text="Creare una richiesta di trasferimento.":::
 
-8. Fare clic su **Crea**.
+8. Selezionare **Crea**.
 
 9. In Trasferimento sottoscrizione verrà visualizzata una richiesta di trasferimento **della sottoscrizione attiva.**
 
@@ -288,21 +288,21 @@ Per creare una richiesta di trasferimento come partner di transizione:
 
 Per esaminare e accettare una richiesta di trasferimento come provider indiretto:
 
-1. Accedere a Partner Center come agente **di** amministrazione o **agente di vendita.**
+1. Accedere a Partner Center come agente **amministratore** o **agente di vendita.**
 
-2. Nella pagina **Clienti** selezionare il cliente desiderato e fare clic sull'icona Collegamenti rapidi per espandere la visualizzazione di riepilogo del cliente.
+2. Nella pagina **Clienti** selezionare il cliente desiderato e selezionare l'icona Collegamenti rapidi per espandere la visualizzazione di riepilogo del cliente.
 
 3. In **Rivenditori indiretti** verificare che sia elencato il partner di transizione.
 
-4. Fare clic **su Visualizza sottoscrizioni**.
+4. Selezionare **Visualizza sottoscrizioni**.
 
 5. Nella pagina **Sottoscrizioni** cercare Trasferimento **sottoscrizioni**.
 
     :::image type="content" source="images/direct/direct11.png" alt-text="Visualizzare la richiesta di trasferimento.":::
 
-6. In **Trasferimento sottoscrizione** fare clic sulla richiesta di trasferimento da esaminare.
+6. In **Trasferimento sottoscrizione** selezionare la richiesta di trasferimento da esaminare.
 
-7. Fare **clic su** Accetta **(o Rifiuta)** in base alle esigenze.
+7. Selezionare **Accetta** (o **Rifiuta)** in base alle esigenze.
 
     :::image type="content" source="images/direct/direct12.png" alt-text="Accettare la richiesta di trasferimento.":::
 
@@ -318,21 +318,21 @@ Per esaminare e accettare una richiesta di trasferimento come provider indiretto
 
 Il partner di transizione deve eseguire le operazioni seguenti:
 
-1. Accedere a Partner Center come agente **di amministrazione o** agente di **vendita.**
+1. Accedere a Partner Center come agente **amministratore o** agente **di vendita.**
 
-2. Nella pagina **Clienti** selezionare il cliente desiderato e fare clic sull'icona **Collegamenti** rapidi per espandere la visualizzazione di riepilogo del cliente.
+2. Nella pagina **Clienti** selezionare il cliente desiderato e selezionare **l'icona** Collegamenti rapidi per espandere la visualizzazione di riepilogo del cliente.
 
-3. Fare clic **su Visualizza sottoscrizioni**.
+3. Selezionare **Visualizza sottoscrizioni**.
 
 4. Nella pagina **Sottoscrizioni** cercare Trasferimento **sottoscrizioni**.
 
 5. Verificare che la richiesta di trasferimento sia contrassegnata come **Completa.**
 
-6. Verificare che le sottoscrizioni non vengano più visualizzate come attive nella **pagina Sottoscrizioni:**
+6. Verificare che le sottoscrizioni non siano più visualizzate come attive nella **pagina** Sottoscrizioni:
 
    1. Se si tratta di una sottoscrizione di Azure (MS-AZR-0145P), non verrà più elencata.
 
-   2. Se si tratta di una sottoscrizione basata su licenza (Office 365, Dynamics, Intune), verrà elencata con lo stato **Sospeso**.
+   2. Se si tratta di una sottoscrizione basata su licenza (Office 365, Dynamics, Intune), verrà elencata con lo stato **Sospeso.**
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Sottoscrizione sospesa.":::
 
@@ -340,21 +340,21 @@ Il partner di transizione deve eseguire le operazioni seguenti:
 
 - **L'ID sottoscrizione sarà diverso dopo il trasferimento.** Se si tratta di una sottoscrizione di Azure (MS-AZR-0145P), avrà anche un ID sottoscrizione di Azure, che viene mantenuto dal proprietario precedente e verrà visualizzato nel portale di gestione di Azure.
 
-- **La stessa sottoscrizione non può fare riferimento a più richieste di trasferimento.** Dopo aver creato una richiesta di trasferimento, che include una sottoscrizione esistente, non è possibile creare richieste di trasferimento aggiuntive, inclusa la stessa sottoscrizione, fino a quando la prima richiesta di trasferimento non viene annullata.
+- **Non è possibile fare riferimento alla stessa sottoscrizione da più richieste di trasferimento.** Dopo aver creato una richiesta di trasferimento, che include una sottoscrizione esistente, non è possibile creare richieste di trasferimento aggiuntive, inclusa la stessa sottoscrizione, fino a quando la prima richiesta di trasferimento non viene annullata.
 
 - **I componenti aggiuntivi per le sottoscrizioni basate su licenza devono essere trasferiti insieme alla sottoscrizione di base.** Quando si crea una richiesta di trasferimento, se si seleziona una sottoscrizione esistente con uno o più componenti aggiuntivi, i componenti aggiuntivi verranno inclusi automaticamente nella richiesta di trasferimento.
 
-- **Le modifiche del numero di licenze a una sottoscrizione non verranno riflesse nella richiesta di trasferimento esistente.** Dopo aver creato una richiesta di trasferimento che include una sottoscrizione esistente, è consigliabile evitare di aggiornare la quantità di licenza della sottoscrizione (o dei componenti aggiuntivi associati). In questo caso, la nuova quantità non verrà riflessa nella richiesta di trasferimento. Dopo che il provider indiretto ha accettato la richiesta di trasferimento, la sottoscrizione risultante avrà la quantità precedente. Se si desidera trasferire la nuova quantità al provider indiretto, è necessario annullare la richiesta di trasferimento esistente e ricrearla.
+- **Le modifiche del numero di licenze a una sottoscrizione non verranno riflesse nella richiesta di trasferimento esistente.** Dopo aver creato una richiesta di trasferimento che include una sottoscrizione esistente, è consigliabile evitare di aggiornare la quantità di licenze della sottoscrizione (o dei componenti aggiuntivi associati). In questo caso, la nuova quantità non verrà riflessa nella richiesta di trasferimento. Dopo che il provider indiretto ha accettato la richiesta di trasferimento, la sottoscrizione risultante avrà la quantità precedente. Se si desidera che la nuova quantità sia trasferita al provider indiretto, è necessario annullare la richiesta di trasferimento esistente e ricrearla.
 
-- **Non tutti gli acquisti possono essere trasferiti usando il trasferimento di sottoscrizioni self-service.** Attualmente è possibile trasferire solo sottoscrizioni di O365 e sottoscrizioni con pagamento in base al pagamento di Azure (MS-AZR-0145P) usando questa funzionalità. Altri acquisti, tra cui piani di Azure, istanze riservate di Azure, sottoscrizioni basate su termini e sottoscrizioni SaaS per Azure Marketplace non sono supportati. Verrà visualizzato un motivo per cui non è possibile trasferire una sottoscrizione nella pagina invia richiesta di trasferimento. Per trasferire queste sottoscrizioni, è necessario annullare la sottoscrizione [esistente](create-a-new-subscription.md#suspend-or-cancel-a-subscription) e acquistare una nuova offerta per il cliente tramite il provider indiretto.
+- **Non tutti gli acquisti possono essere trasferiti usando il trasferimento di sottoscrizioni self-service.** Attualmente, è possibile trasferire solo sottoscrizioni di O365 e sottoscrizioni con pagamento in base al prezzo di Azure (MS-AZR-0145P) usando questa funzionalità. Altri acquisti, tra cui piani di Azure, istanze riservate di Azure, sottoscrizioni basate su termini e sottoscrizioni SaaS Azure Marketplace non sono supportati. Verrà visualizzato un motivo per cui non è possibile trasferire una sottoscrizione nella pagina di invio della richiesta di trasferimento. Per trasferire queste sottoscrizioni, è necessario annullare la sottoscrizione esistente e [acquistare](create-a-new-subscription.md#suspend-or-cancel-a-subscription) una nuova offerta per il cliente tramite il provider indiretto.
 
 - **Non può essere testato usando l'ambiente sandbox.**
 
-## <a name="enroll-for-indirect-reseller-incentives"></a>Iscriversi per incentivi per rivenditori indiretti
+## <a name="enroll-for-indirect-reseller-incentives"></a>Iscriversi per gli incentivi per rivenditori indiretti
 
-Dopo aver completato la registrazione come rivenditore indiretto nel tenant partner di fatturazione diretta esistente, si riceverà un invito a registrarsi per l'incentivo per rivenditori indiretti entro 30 giorni. L'invito è basato sull'account MPN partner attualmente associato al tenant del partner CSP. L'invito verrà inviato all'indirizzo di posta elettronica associato all'account MPN del partner.
+Dopo aver completato la registrazione come rivenditore indiretto nel tenant del partner con fatturazione diretta esistente, si riceverà un invito a registrarsi per l'incentivo per rivenditori indiretti entro 30 giorni. L'invito si basa sull'account MPN partner attualmente associato al tenant del partner CSP. L'invito verrà inviato all'indirizzo di posta elettronica associato all'account MPN del partner.
 
-Si è anche idonei per la registrazione per i programmi di incentivi alle fatture dirette con lo stesso tenant partner. È necessario gestire i programmi separatamente.
+È anche possibile registrarsi per i programmi di incentivi con fatturazione diretta con lo stesso tenant partner. È necessario gestire i programmi separatamente.
 
 ## <a name="next-steps"></a>Passaggi successivi
 

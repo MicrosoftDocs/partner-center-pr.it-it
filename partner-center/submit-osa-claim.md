@@ -4,43 +4,43 @@ ms.topic: article
 ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Creare associazioni dei clienti con il modello Claiming Partner of Record (CPOR). Consente di gestire vendite, utilizzo e incentivi per Microsoft 365 & clienti di Dynamics 365.
+description: Creare associazioni di clienti con il modello Claiming Partner of Record (CPOR). Consente di gestire vendite, utilizzo e incentivi per Microsoft 365 & dynamics 365.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9526a47d0b6d734bde48f403c11fa84d734511c1
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 196009d9271324377be02d0b2d12ba8a4d7a993c
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856101"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489952"
 ---
-# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Associazioni dei clienti tramite il modello Partner of Record richiesto (CPOR) per Microsoft 365 e Dynamics 365
+# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Associazioni dei clienti tramite il modello Partner of Record (CPOR) per Microsoft 365 e Dynamics 365
 
 
 **Ruoli appropriati:** Amministratore incentivi
 
-Il 1° ottobre 2019 Microsoft ha iniziato a usare il modello Claiming Partner of Record (CPOR) per gestire le associazioni con i clienti di Microsoft 365 e Dynamics 365 in relazione agli incentivi online services advisory (OSA) Sell, Online Services Usage (OSU) -Microsoft 365 e OSU-Business Application.
+Il 1° ottobre 2019 Microsoft ha iniziato a usare il modello Claiming Partner of Record (CPOR) per gestire le associazioni esistenti con i clienti Microsoft 365 e Dynamics 365 per quanto riguarda gli incentivi online services advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 e OSU-Business Application.
 
 >[!Important]
-> Le attestazioni CPOR (Customer Association) si applicano solo ai programmi di incentivi Online Services Advisory (OSA) Sell, Online Services Usage (OSU) -Microsoft 365 e OSU-Business Application. Se si invia un'attestazione co-op per un altro programma, ad esempio Cloud Solution Provider, Managed Reseller, Hosting o Surface, fare riferimento al processo di attestazioni co-op descritto qui. <br><br>Quando si invia l'attestazione, Microsoft la convalida. A questo punto è possibile richiedere altre informazioni. Invieremo anche una notifica al cliente della richiesta di associazione. I clienti hanno cinque giorni lavorativi per rifiutare esplicitamente. Se non rifiutano esplicitamente, l'associazione con questo tenant e carico di lavoro specifici sarà ufficiale. A questo punto si ha accesso ai dati di utilizzo del cliente. 
+> Le attestazioni CPOR (Customer Association) si applicano solo ai programmi di incentivazione Online Services Advisory (OSA), Online Services Usage (OSU) -Microsoft 365 e OSU-Business Application. Se si invia un'attestazione co-op per un altro programma, ad esempio Cloud Solution Provider (CSP), Managed Reseller, Hosting o Surface, vedere il processo di attestazioni co-op descritto qui. <br><br>Quando si invia l'attestazione, Microsoft la convalida. A questo punto è possibile richiedere altre informazioni. Verrà anche inviata una notifica al cliente della richiesta di associazione. I clienti hanno cinque giorni lavorativi per rifiutare esplicitamente. Se non rifiutano esplicitamente, l'associazione con questo tenant e carico di lavoro specifici sarà ufficiale. A questo punto sarà possibile accedere ai dati di utilizzo del cliente. 
 
 Per completare un'attestazione, sono necessarie le informazioni seguenti:
 
-- ID **MPN per** l'entità che effettua l'attestazione
+- ID **MPN (id** Microsoft Partner Network) per l'entità che effettua l'attestazione
 
-- Nome di dominio **del cliente Trovare** [questo](find-ids-and-domain-names.md)
+- Nome di dominio **del cliente** (per altre informazioni, vedere Trovare l'ID tenant, il nome di dominio e l'ID [oggetto utente)](find-ids-and-domain-names.md)
 
-- ID directory o **ID** **tenant del cliente** Trovare [questo](find-ids-and-domain-names.md)
+- ID directory del cliente **o ID** **tenant** (per altre informazioni, vedere Trovare l'ID tenant, il nome di dominio, l'ID [oggetto utente)](find-ids-and-domain-names.md)
 
-- Area **della soluzione**, ad esempio Business Applications o Microsoft 365
+- **L'area soluzione**, ad esempio Business Applications o Microsoft 365
 
-- Attività **eseguita** e tipo di attestazione da effettuare, ad esempio associazione pre-vendita, utilizzo o ricavi
+- Attività **eseguita** e tipo di attestazione da effettuare, ad esempio pre-vendita, utilizzo o associazione di ricavi
 
-- Nome, titolo e indirizzo di **posta elettronica** del contatto del cliente
+- Nome, titolo e indirizzo di **posta** elettronica del contatto del cliente
 
-- Per Dynamics 365, è anche necessario  specificare il nome, il titolo e l'indirizzo di posta elettronica del contatto tecnico del cliente
+- Per Dynamics 365, è anche necessario  specificare il nome del contatto tecnico, il titolo e l'indirizzo di posta elettronica del cliente
 
 - Nome e indirizzo di posta elettronica del **contatto dell'azienda**
 
@@ -54,7 +54,7 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
 
 È anche necessario comprendere i punti seguenti:
 
-- Se sono già Microsoft 365 clienti, è necessario riassumere l'associazione con quelli che si vogliono continuare a ottenere incentivi OSU usando questo processo.
+- Se sono già Microsoft 365 clienti, è necessario riassociare con quelli che si vogliono continuare a ottenere incentivi OSU usando questo processo.
 
 - Se sono esistenti associazioni con i clienti dynamics 365 o Power BI, queste associazioni rimarranno valide fino alla scadenza delle sottoscrizioni.
 
@@ -88,7 +88,7 @@ Per completare un'attestazione, sono necessarie le informazioni seguenti:
    >[!NOTE]
    >Se il prodotto è Dynamics 365 e il prodotto scelto ha più sottoscrizioni per questo particolare cliente, è anche necessario immettere l'ID sottoscrizione.
 
-10. Fornire la prova di esecuzione (PoE). È possibile trascinarla nella casella, passare alla propria documentazione di supporto o usare un modello selezionando **Scarica modello**. 
+10. Specificare il poe. È possibile trascinarla nella casella, passare alla propria documentazione di supporto o usare un modello selezionando **Scarica modello**. 
 
 11. Aggiungere e salvare i commenti se lo si desidera, quindi selezionare **Invia attestazione**. Invieremo un messaggio di posta elettronica al cliente per richiedere l'approvazione dell'associazione del cliente.
 

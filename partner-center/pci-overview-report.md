@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vedere uno snapshot delle attività di vendita e distribuzione, crescita dei clienti e crescita dei ricavi con licenze, sottoscrizioni e consumo di Azure.
+description: Visualizzare uno snapshot delle attività di vendita e distribuzione, crescita dei clienti e crescita dei ricavi con licenze, sottoscrizioni e consumo di Azure.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aea78f2a9b60f5d8adcc7962d15749479424c9f1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cca136670fa2891eea32e4561b97692ca98a77a9
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277488"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565407"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Report del dashboard di panoramica disponibili in Insights del Centro per i partner
  
 **Ruoli appropriati:** Amministratore globale | Agente amministratore | Visualizzatore di report | Visualizzatore di report executive
 
-Il dashboard Panoramica di Insights offre una visualizzazione snapshot degli indicatori di prestazioni chiave, ad esempio clienti, sottoscrizioni, ricavi a consumo di Azure e licenze. È possibile visualizzare i grafici seguenti nel report Panoramica.
+Il dashboard Panoramica di Insights offre una visualizzazione snapshot degli indicatori di prestazioni chiave (KPI), ad esempio clienti, sottoscrizioni, ricavi a consumo di Azure e licenze. È possibile visualizzare i grafici seguenti nel report Panoramica.
 
 - Riepilogo  
 - Distribuzione geografica di clienti, sottoscrizioni e licenze  
@@ -49,12 +49,12 @@ Di seguito sono riportate altre informazioni su ogni sezione del riepilogo.
 
 **L'area ricavi per l'utilizzo di Azure (ACR)** nel riepilogo include:
 
-- Totale dei ricavi per l'utilizzo di Azure (in US $) attribuiti all'utente nell'intervallo di date selezionato.
-- Percentuale di crescita o diminuzione dell'ACR attribuita (in US $) durante l'intervallo di date selezionato.
-- Il micro chart presenta una tendenza mensile di ACR US$ attribuita all'utente nell'intervallo di date selezionato 
+- Totale del record di controllo di accesso (in dollari STATUNITENSI) attribuiti all'utente nell'intervallo di date selezionato.
+- Percentuale di crescita o diminuzione dell'ACR attribuita (in dollari USA) durante l'intervallo di date selezionato.
+- Il micro chart presenta una tendenza mensile di ACR in dollari USA attribuita all'utente nell'intervallo di date selezionato 
 
 > [!NOTE]
-> ricavi per l'utilizzo di Azure (ACR) sono disponibili per gli utenti a cui è stato assegnato il ruolo Executive Report Viewer 
+> I dati ACR sono disponibili per gli utenti a cui è stato assegnato il ruolo visualizzatore di report Executive.
  
 ### <a name="subscriptions-sold"></a>Sottoscrizioni vendute
 
@@ -68,7 +68,7 @@ Di seguito sono riportate altre informazioni su ogni sezione del riepilogo.
 
 **L'area** Sottoscrizioni attive nel riepilogo include:
 
-- Numero corrente di sottoscrizioni di prodotti cloud con utilizzo attivo misurato in base ai dati di telemetria del prodotto. In questo modo vengono escluse tutte le sottoscrizioni di valutazione nel caso di sottoscrizioni di Azure.  
+- Numero corrente di sottoscrizioni di prodotti cloud con utilizzo attivo misurato in base ai dati di telemetria del prodotto. In questo modo vengono escluse tutte le sottoscrizioni di Azure di valutazione.  
 - Crescita percentuale delle sottoscrizioni attive nell'intervallo di date selezionato.
 - Il micro chart presenta la tendenza mensile delle sottoscrizioni attive nell'intervallo di date selezionato.
  
@@ -78,7 +78,7 @@ Di seguito sono riportate altre informazioni su ogni sezione del riepilogo.
  
 - Numero di tutte le licenze del prodotto cloud distribuite nelle sottoscrizioni dei clienti nel periodo di tempo selezionato. 
 - Percentuale di crescita o riduzione di queste licenze durante l'intervallo di date selezionato. 
-- Il micro chart mostra la tendenza mensile del conteggio delle licenze assegnate nell'intervallo di date selezionato.
+- Il micro grafico mostra la tendenza mensile del conteggio delle licenze assegnate nell'intervallo di date selezionato.
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Distribuzione geografica di clienti, sottoscrizioni e licenze
 
@@ -100,10 +100,10 @@ Indica la tendenza del conteggio delle sottoscrizioni dei clienti per l'interval
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>ricavi per l'utilizzo di Azure tendenza di crescita
 
-Tendenza mensile dei ricavi consumati di Azure US$ attribuiti all'utente nell'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta il totale dei ricavi consumati di Azure attribuiti all'utente durante il mese.
+Tendenza mensile dei ricavi consumati da Azure in dollari USA attribuiti all'utente nell'intervallo di date selezionato. L'asse X rappresenta i mesi dell'intervallo di date selezionato e l'asse Y rappresenta i ricavi totali utilizzati da Azure in dollari statunitensi attribuiti durante il mese.
 
 > [!NOTE]
-> ricavi per l'utilizzo di Azure (ACR) sarà visibile solo agli utenti a cui è stato assegnato il ruolo Executive Report Viewer. 
+> Il registro di controllo di accesso sarà visibile solo agli utenti a cui è stato assegnato il ruolo visualizzatore di report Executive. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Utilizzo di Azure.":::
 

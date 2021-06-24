@@ -1,5 +1,5 @@
 ---
-title: Report sull'utilizzo delle informazioni dettagliate sul Centro per i partner
+title: Report sull'utilizzo delle informazioni dettagliate sulle dinamiche del Centro per i partner
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
@@ -8,18 +8,18 @@ description: Scopri cosa stai facendo bene e dove puoi migliorare l'uso delle so
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 76a589037817707378e39f4301313eee7284422a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277505"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565458"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Report sull'utilizzo di Dynamics disponibile nel dashboard Partner Center Insights
 
 **Ruoli appropriati:** amministratore globale | Agente di amministrazione | Visualizzatore report | Visualizzatore di report executive
 
-Il report sull'utilizzo di Dynamics fornisce i dati di utilizzo per le sottoscrizioni di Dynamics 365 vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report sull'utilizzo di Dynamics.
+Il report sull'utilizzo di Dynamics fornisce i dati di utilizzo per le sottoscrizioni di Microsoft Dynamics 365 vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report sull'utilizzo di Dynamics.
 
 - Riepilogo
 - Utilizzo di Dynamics per area geografica
@@ -28,7 +28,7 @@ Il report sull'utilizzo di Dynamics fornisce i dati di utilizzo per le sottoscri
 - Distribuzione dell'utilizzo di Dynamics
 
  > [!NOTE]
- > Questo report è disponibile nel dashboard informazioni dettagliate. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Executive Report Viewer. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report esecutivi.
+ > Questo report è disponibile nel dashboard informazioni dettagliate. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Visualizzatore di report dirigenti. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono anche essere disponibili solo per gli utenti con privilegi di visualizzatore di report executive.
 
 ## <a name="summary"></a>Riepilogo
 
@@ -84,4 +84,4 @@ La distribuzione dell'utilizzo di Dynamics illustra la suddivisione delle postaz
 
 - Per altri report, vedere [Partner Center Insights.](partner-center-insights.md)
 
-- È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report del dashboard informazioni dettagliate. [Altre informazioni](pci-download-reports.md) 
+- È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report del dashboard Informazioni dettagliate. [Altre informazioni](pci-download-reports.md) 

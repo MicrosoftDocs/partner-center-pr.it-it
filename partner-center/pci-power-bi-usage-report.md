@@ -8,18 +8,18 @@ description: Vedere cosa si sta facendo bene e dove è possibile migliorare l'ut
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 36993633ab2e2be0a726c70bf930f842bfaf890f
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 75aa86ebc768b9d6d252a29eb84aef97ab99ab0c
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276298"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565339"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI report sull'utilizzo disponibile nel dashboard Partner Center Insights
 
 **Ruoli appropriati:** amministratore globale | Agente di amministrazione | Visualizzatore report | Visualizzatore di report executive
 
-Il report Power BI sull'utilizzo fornisce i dati di utilizzo per Power BI sottoscrizioni vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report Power BI utilizzo.
+Il report Power BI sull'utilizzo fornisce i dati di utilizzo per le sottoscrizioni di Microsoft Power BI vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report Power BI utilizzo.
 
 - Riepilogo
 - Power BI'utilizzo in base all'area geografica
@@ -28,7 +28,7 @@ Il report Power BI sull'utilizzo fornisce i dati di utilizzo per Power BI sottos
 - Power BI distribuzione dell'utilizzo
 
  > [!NOTE]
- > Questo report è disponibile nel dashboard informazioni dettagliate. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Executive Report Viewer. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di Visualizzatore di report esecutivi.
+ > Questo report è disponibile nel dashboard informazioni dettagliate. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Visualizzatore di report dirigenti. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono anche essere disponibili solo per gli utenti con privilegi di visualizzatore di report executive.
 
 ## <a name="summary"></a>Riepilogo
 
@@ -84,4 +84,4 @@ La Power BI di utilizzo illustra la suddivisione delle postazioni disponibili, d
 
 - Per altri report, vedere [Partner Center Insights.](partner-center-insights.md)
 
-- È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report del dashboard informazioni dettagliate. [Altre informazioni](pci-download-reports.md) 
+- È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report del dashboard Informazioni dettagliate. [Altre informazioni](pci-download-reports.md) 

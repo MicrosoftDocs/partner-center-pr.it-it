@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ab1ec5001e3b21d9661d0db0e7b8e51f12acda2
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: e5500e975f5fa8baea91a0db55896426983d19a8
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277471"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565356"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Report Licenze prodotto nel dashboard di Partner Center Insights
 
 **Ruoli appropriati:** Amministratore globale | Agente amministratore | Visualizzatore di report | Visualizzatore di report executive
 
-Il report Licenze prodotto presenta l'analisi delle licenze per i prodotti cloud basati su licenza, ad esempio Office 365, Dynamics, Microsoft 365, Power BI e altri. L'analisi presentata qui è associata all'utilizzo delle licenze vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report Licenze prodotto.
+Il report Licenze prodotto presenta l'analisi delle licenze per i prodotti cloud basati su licenza, ad esempio Office 365, Dynamics, Microsoft 365, Microsoft Power BI e altri. L'analisi presentata qui è associata all'utilizzo delle licenze vendute o gestite per i clienti. È possibile visualizzare le sezioni seguenti dal report Licenze prodotto.
 
 - Riepilogo
 - Distribuzione geografica delle licenze
@@ -28,7 +28,7 @@ Il report Licenze prodotto presenta l'analisi delle licenze per i prodotti cloud
 - Distribuzione delle licenze per località partner, canale di vendita, SKU, tipo di collegamento partner, segmento
 
  > [!NOTE]
- > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Executive Report Viewer. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi Executive Report Viewer.
+ > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Visualizzatore report executive. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono anche essere disponibili solo per gli utenti con privilegi di gestione dei report executive.
 
 ## <a name="summary"></a>Riepilogo
 
@@ -39,7 +39,7 @@ La sezione di riepilogo offre una visualizzazione snapshot degli indicatori di p
 Per altre informazioni su ogni sezione del riepilogo, vedere di seguito:
 
 - Licenses: 
-  - Conteggio corrente di tutte le licenze vendute o gestite dall'utente per prodotti cloud basati su licenza, ad esempio Office 365, Dynamics, Microsoft 365, Power BI e altri.
+  - Conteggio corrente di tutte le licenze vendute o gestite dall'utente per prodotti cloud basati su licenza, ad esempio Office 365, Dynamics, Microsoft 365, Microsoft Power BI e altri.
   - Percentuale di crescita o riduzione di queste licenze nell'intervallo di date selezionato.
   - Micro chart di tendenza delle licenze: il micro chart presenta la tendenza mensile dei conteggi delle licenze durante l'intervallo di date selezionato
 
@@ -67,7 +67,7 @@ La **visualizzazione Distribuzione geografica licenze** mostra la distribuzione 
 
 Questa visualizzazione mostra la tendenza delle licenze aggiunte durante l'intervallo di date selezionato. 
 
-Per presentare la tendenza in base a prodotto e servizio/carico di lavoro, selezionare un prodotto nella parte superiore della schermata e un servizio/carico di lavoro dall'elenco a discesa SKU.
+Per presentare la tendenza in base a prodotto e servizio/carico di lavoro, selezionare un prodotto nella parte superiore della schermata e un servizio/carico di lavoro dall'elenco a discesa **SKU.**
 
 L'asse X rappresenta i mesi dell'intervallo di date selezionato. L'asse Y rappresenta il numero di licenze aggiunte. Per ingrandire un periodo specifico, usare il dispositivo di scorrimento nella parte superiore del grafico.
 

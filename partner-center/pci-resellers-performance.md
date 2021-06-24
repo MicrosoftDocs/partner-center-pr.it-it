@@ -4,38 +4,38 @@ ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Il dashboard delle prestazioni del rivenditore in Partner Center Insights offre una panoramica delle prestazioni di vari rivenditori indiretti di un CSP Indirect Provider.
+description: Il dashboard delle prestazioni del rivenditore in Partner Center Insights offre una panoramica delle prestazioni di vari rivenditori indiretti di un provider indiretto Cloud Solution Provider (CSP).
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc0fb8a56d397cebeb5a40fa1a1c8d6eae77fe25
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 65fddcc47105cf329bb8f5d3e1aa342deee556b4
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277369"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565169"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Dashboard delle prestazioni del rivenditore in Partner Center Insights
 
 **Ruoli appropriati:** Amministratore globale | Agente amministratore | Visualizzatore di report | Visualizzatore di report executive
 
-Il dashboard delle prestazioni del rivenditore in Partner Center Insights offre una panoramica delle prestazioni di vari rivenditori indiretti di un CSP Indirect Provider. Il dashboard fornisce dati sui rivenditori attivi, sulla quantità di ricavi generati e sui prodotti che generano ricavi. I provider indiretti potranno cercare un rivenditore specifico in base al nome e cercare i dettagli per il rivenditore nel dashboard delle prestazioni del rivenditore.
+Il dashboard delle prestazioni del rivenditore in Partner Center Insights offre una panoramica delle prestazioni di vari rivenditori indiretti di un provider indiretto Cloud Solution Provider (CSP). Il dashboard fornisce dati sui rivenditori attivi, sul fatturato generato e sui prodotti che generano ricavi. I provider indiretti potranno cercare un rivenditore specifico in base al nome e cercare i dettagli per il rivenditore nel dashboard delle prestazioni del rivenditore.
 
 È possibile visualizzare le sezioni seguenti dal dashboard Reseller Performance (Prestazioni rivenditore).
 
 - Riepilogo
-- Distribuzione geografica dei rivenditori
+- Diffusione geografica dei rivenditori
 - Aggiunta/varianza dei rivenditori 
 - Tendenza dei ricavi dei rivenditori 
 - Prestazioni dei rivenditori in base ai prodotti
 - Rivenditori attivi per località partner
 - Tendenza di distribuzione geografica dei ricavi
 - Prestazioni dei rivenditori per segmento di clienti
-- Stato della firma MPA rivenditore
+- Stato della firma Contratto Microsoft Partner rivenditore (MPA)
 
  > [!NOTE]
- > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Executive Report Viewer. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi Executive Report Viewer.
+ > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Visualizzatore report executive. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di visualizzatore di report executive.
 
 ## <a name="summary"></a>Riepilogo
 
@@ -61,9 +61,9 @@ Il grafico Micro presenta la tendenza mensile dei ricavi durante l'intervallo di
 
 :::image type="content" source="images/pci/pci-res-perf-summary-1.png" alt-text="Riepilogo delle prestazioni dei rivenditori.":::
 
-## <a name="geographical-spread-of-resellers"></a>Distribuzione geografica dei rivenditori
+## <a name="geographical-spread-of-resellers"></a>Diffusione geografica dei rivenditori
 
-La vista **Resellers by geography fornisce la distribuzione geografica dei rivenditori. Usando questo widget, i partner possono visualizzare il totale di **Resellers,** **New resellers** e **Billed Revenue (USD)**, suddivisi in base a diverse aree geografiche.
+La vista **Resellers by geography fornisce la distribuzione geografica dei rivenditori. Usando questo widget, i partner possono visualizzare il totale dei rivenditori, dei nuovi rivenditori e dei ricavi fatturati **(USD),** suddivisi in base a diverse aree geografiche.
 
 È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione nella mappa. Premere **l'opzione** Home sulla mappa per ripristinare la visualizzazione originale. Passare il mouse sulla mappa per visualizzare **i ricavi fatturati (USD) in base** al paese. Il campo Ricavi fatturati (USD) nella griglia è ordinabile.
 
@@ -81,13 +81,13 @@ Questa visualizzazione offre una suddivisione mensile del numero di nuovi rivend
 
 ## <a name="resellers-revenue-trend"></a>Tendenza dei ricavi dei rivenditori 
 
-Questa visualizzazione fornisce una tendenza mensile dei ricavi fatturati (USD) suddivisi per prodotti, ovvero O365, D365, EMS, Power BI e Azure. Le metriche complessive vengono aggregate tra i vari prodotti per ogni mese. Il partner può cercare un rivenditore specifico in base al nome e cercare i dati per tale rivenditore specifico. Il campo Ricavi fatturati (USD) nella griglia è ordinabile.
+Questa visualizzazione offre una tendenza mensile dei ricavi fatturati suddivisi per prodotti, ovvero Office 365, Dynamics 365, Enterprise Mobility and Security (EMS), Microsoft Power BI e Azure. Le metriche complessive vengono aggregate tra i vari prodotti per ogni mese. Il partner può cercare un rivenditore specifico in base al nome e cercare i dati per tale rivenditore specifico. Il campo Ricavi fatturati (USD) nella griglia è ordinabile.
 
 :::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Tendenza dei ricavi dei rivenditori.":::
 
 ## <a name="reseller-performance-by-products"></a>Prestazioni dei rivenditori in base ai prodotti
 
-Questa visualizzazione offre una suddivisione delle metriche chiave, ad esempio i ricavi fatturati, il conteggio delle sottoscrizioni e il conteggio delle licenze per vari prodotti su base mensile. Il grafico a torta a destra indica la suddivisione complessiva delle metriche per vari prodotti, in modo che il partner oscichi rapidamente la separazione da parte dei vari prodotti venduti dal rivenditore.
+Questa visualizzazione offre una suddivisione delle metriche principali, ad esempio i ricavi fatturati, il conteggio delle sottoscrizioni e il numero di licenze per vari prodotti su base mensile. Il grafico a torta a destra indica la suddivisione complessiva delle metriche per vari prodotti, in modo che il partner oscichi rapidamente la separazione da parte dei vari prodotti venduti dal rivenditore.
 
 :::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Prestazioni dei rivenditori in base ai prodotti.":::
 
@@ -111,13 +111,13 @@ Questa visualizzazione consente a un partner di comprendere la tendenza mensile 
 
 ## <a name="reseller-mpa-signing-status"></a>Stato della firma MPA rivenditore
 
-Questa visualizzazione fornisce lo stato di firma MPA per i rivenditori insieme ai metadati aggiuntivi, ad esempio lo stato di controllo MPN, lo stato di migrazione da PMC a PC e così via.
+Questa visualizzazione fornisce lo stato di firma MPA per i rivenditori insieme a metadati aggiuntivi, ad esempio lo stato di controllo di Microsoft Partner Network (MPN) e Partner Membership Center (PMC) per Partner Center stato della migrazione.
 
 :::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="Stato della firma MPA del rivenditore.":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- Per altri report, vedere [Partner Center Insights](partner-center-insights.md).
+- Per altri report, vedere Partner Center [Insights](partner-center-insights.md).
 
 >[!NOTE] 
 > È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report nel dashboard di Insights. [Altre informazioni](pci-download-reports.md) 

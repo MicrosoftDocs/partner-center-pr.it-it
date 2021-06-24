@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2663122ca95e8d610c8be792a26682ae1718bf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cd226122f8e69e0667006f274d2ef080bbe47b9b
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276315"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565424"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Report Sottoscrizioni prodotto disponibile nel dashboard di Partner Center Insights
 
@@ -32,7 +32,7 @@ Il report Sottoscrizioni prodotto presenta l'analisi delle sottoscrizioni cloud 
 - Tendenza dei prodotti
 
  > [!NOTE]
- > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Executive Report Viewer. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi Executive Report Viewer.
+ > Questo report è disponibile nel dashboard di Insights. Per visualizzare questo report, è necessario avere un ruolo specifico in Partner Center, ad esempio Amministratore globale, Amministratore account, Visualizzatore report o Visualizzatore report executive. Per altre informazioni, vedere l'amministratore globale dell'azienda. Tipi specifici di dati in questo report possono essere disponibili solo per gli utenti con privilegi di visualizzatore di report executive.
 
 ## <a name="summary"></a>Riepilogo
 
@@ -48,7 +48,7 @@ Per altre informazioni su ogni sezione del riepilogo, vedere di seguito:
   - Il grafico Micro presenta una tendenza mensile del conteggio delle sottoscrizioni durante l'intervallo di date selezionato.
 
 - Sottoscrizioni attive:
-  - Numero corrente di sottoscrizioni di prodotti cloud con utilizzo attivo misurato in base ai dati di telemetria del prodotto. In questo modo vengono escluse tutte le sottoscrizioni di valutazione nel caso di sottoscrizioni di Azure.
+  - Numero corrente di sottoscrizioni di prodotti cloud con utilizzo attivo misurato in base alla telemetria del prodotto. In questo modo vengono escluse tutte le sottoscrizioni di valutazione per le sottoscrizioni di Azure.
   - Percentuale di crescita o riduzione delle sottoscrizioni attive nel periodo di tempo selezionato.
   - Il grafico Micro presenta una tendenza mensile delle sottoscrizioni attive durante l'intervallo di date selezionato.
 
@@ -58,7 +58,7 @@ Per altre informazioni su ogni sezione del riepilogo, vedere di seguito:
   - Il grafico Micro presenta una tendenza mensile delle sottoscrizioni aggiunte durante l'intervallo di date selezionato.
 
 - Sottoscrizioni variate:
-  - Totale sottoscrizioni dei clienti variate durante l'intervallo di date selezionato. Le sottoscrizioni con **stato Deprovisioning** o **Sospeso** in tale mese vengono conteggiate come sottoscrizione varianza.  
+  - Totale sottoscrizioni dei clienti variate durante l'intervallo di date selezionato. Le sottoscrizioni con **stato Deprovisioning** o **Sospeso** in tale mese vengono conteggiate come sottoscrizione variate.  
   - Percentuale di sottoscrizioni variate durante l'intervallo di date selezionato.
   - Il grafico Micro presenta una tendenza mensile delle sottoscrizioni variate rispetto all'intervallo di date selezionato.
 
@@ -68,7 +68,7 @@ Per altre informazioni su ogni sezione del riepilogo, vedere di seguito:
 
 La **visualizzazione Sottoscrizioni per area geografica** mostra la distribuzione geografica delle sottoscrizioni totali in base ai mercati dei clienti. L'importo totale della sottoscrizione include sia le sottoscrizioni vendute che le sottoscrizioni attive.
 
-La **tabella Number of countries/region** (Numero di paesi/aree geografiche) presenta il totale dei paesi/aree geografiche in cui si hanno sottoscrizioni e l'importo per paese delle sottoscrizioni totali e attive.
+La **tabella Number of countries/region** (Numero di paesi/aree geografiche) presenta il totale dei paesi/aree geografiche in cui sono presenti sottoscrizioni e l'importo per paese delle sottoscrizioni totali e attive.
 
 È possibile cercare e selezionare un paese nella griglia per ingrandire la posizione nella mappa. Premere **l'opzione** Home sulla mappa per ripristinare la visualizzazione originale. Passare il mouse sulla mappa per visualizzare tutte le sottoscrizioni e le sottoscrizioni attive in base al paese. Entrambi i campi nella griglia sono ordinabili.
 
@@ -84,7 +84,7 @@ L'istogramma in pila presenta una suddivisione delle sottoscrizioni nuove, esist
 
 ## <a name="subscription-distribution"></a>Distribuzione della sottoscrizione
 
-Questa visualizzazione presenta una suddivisione delle sottoscrizioni correnti in base a località MPN, segmenti di clienti, canale di vendita/modello tariffario di Azure e al tipo di attribuzione ,ad esempio DPOR, DAP e altri. Selezionare le rispettive schede per visualizzare la suddivisione in base a queste categorie. Per creare il grafico a torta con una suddivisione di categorie di elementi specifiche, selezionare tali categorie di elementi nella legenda.
+Questa visualizzazione presenta una suddivisione delle sottoscrizioni correnti in base alle località di Microsoft Partner Network (MPN), ai segmenti di clienti, al canale di vendita o al modello tariffario di Azure e al tipo di attribuzione. Selezionare le rispettive schede per visualizzare la suddivisione in base a queste categorie. Per creare il grafico a torta con una suddivisione di categorie di elementi specifiche, selezionare tali categorie di elementi nella legenda.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribuzione della sottoscrizione.":::
 
@@ -96,7 +96,7 @@ Questa visualizzazione mostra la distribuzione delle sottoscrizioni dei clienti 
 
 ## <a name="products-trend"></a>Tendenza dei prodotti
 
-Questa visualizzazione mostra un grafico a barre e due grafici a torta. Il grafico a barre presenta una tendenza mensile delle sottoscrizioni suddivise per prodotti commerciali, ad esempio Azure, Office, Dynamics e così via.
+Questa visualizzazione mostra un grafico a barre e due grafici a torta. Il grafico a barre presenta una tendenza mensile delle sottoscrizioni suddivise per prodotti commerciali, ad esempio Azure, Office e Dynamics.
 
 I due grafici a torta mostrano una suddivisione delle sottoscrizioni dei clienti correnti. Il primo grafico a torta suddivide le sottoscrizioni in base ai prodotti. Il secondo grafico a torta suddivide le sottoscrizioni in base a SKU o piani. Quando si seleziona un  prodotto nel grafico a torta scomposizione per prodotti, il grafico a torta adiacente mostra una suddivisione delle sottoscrizioni del prodotto in base a SKU.
 

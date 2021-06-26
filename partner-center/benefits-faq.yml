@@ -1,0 +1,100 @@
+### YamlMime:FAQ
+metadata:
+  title: 'Microsoft Partner Network vantaggi : domande frequenti'
+  ms.topic: article
+  ms.date: 12/15/2020
+  description: Risposte a domande su scadenza, rinnovo e attivazione delle licenze per Azure, cloud, Visual Studio e vantaggi tecnici e di supporto
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-mpn
+  author: arpithakanuganti
+  ms.author: v-arkanu
+  ms.localizationpriority: medium
+  ms.custom: SEOJUNE20
+  ms.openlocfilehash: 72db9073e071581e1f8b7eb685da1d1d7db56294
+  ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "112916719"
+title: 'Microsoft Partner Network vantaggi : domande frequenti'
+summary: >
+  **Ruoli appropriati:** amministratore partner MPN
+
+
+  In questo articolo vengono Microsoft Partner Network domande frequenti sui vantaggi di Microsoft Partner Network (MPN).
+sections:
+- name: Domande generali
+  questions:
+  - question: >
+      Che cosa significa "Data di scadenza del vantaggio"
+    answer: "La data di scadenza del vantaggio indica l'ultima data per attivare i vantaggi.\n\nÈ disponibile fino alla data di rinnovo per riscattare i vantaggi disponibili durante il periodo di registrazione di un anno. È possibile trovare la data di inizio del rinnovo dalla pagina [Offerte di](https://partner.microsoft.com/dashboard/mpn/offers) appartenenza nel dashboard MPN.\n\nTuttavia, è possibile usare i codici Product Key per un anno dal giorno in cui si riscattano le chiavi nei rispettivi portali cloud.\n\nAd esempio, se la data di scadenza del vantaggio è il 31 gennaio 2021, è necessario riscattare le chiavi nel portale cloud appropriato prima del 31 gennaio 2021. Se si riscatta il codice Product Key il 1° dicembre 2020, è possibile usarlo fino al 1° dicembre 2021, anche se la data di scadenza del vantaggio è il 31 gennaio.\n\n> [!NOTE]  \n> Se si hanno vantaggi che richiedono un'assegnazione utente (ad esempio sottoscrizioni Visual Studio), è possibile attivare e usare tali vantaggi per altri 30 giorni dopo la data di rinnovo della registrazione.\n"
+  - question: >
+      Ricerca per categorie rinnovare i vantaggi
+    answer: >
+      Usare la procedura seguente per rinnovare i vantaggi:
+
+
+      1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
+
+
+      2. Nel riquadro di spostamento a sinistra selezionare **MPN.**
+
+
+      3. Nella scheda **MPN** selezionare **l'opzione Vantaggi.**
+
+
+      4. Attivare il vantaggio desiderato.
+
+
+      Se il vantaggio desiderato non è disponibile, è necessario rinnovare l'Partner Center e ripetere il processo precedente.
+  - question: >
+      Ho ricevuto una notifica che informa che la sottoscrizione scadrà a breve: cosa devo fare
+    answer: >
+      Accedere al portale cloud che ha generato la notifica, esaminare la data di scadenza delle sottoscrizioni esistenti e quindi aggiungere licenze alla sottoscrizione in scadenza o estendere la sottoscrizione esistente per il successivo anno di registrazione.
+  - question: >
+      Quando è possibile rinnovare l'appartenenza
+    answer: >
+      L'iscrizione esistente può essere rinnovata in qualsiasi momento a partire dalla data di inizio del rinnovo.
+- name: Vantaggi dell'attivazione di Azure e cloud
+  questions:
+  - question: >
+      Funzionamento dell'aggiunta, dell'estensione/rinnovo delle licenze in Azure
+    answer: "Quando si aggiungono licenze, si aumenta il numero di licenze totali per la sottoscrizione esistente.\n\nQuando si rinnovano o si estendono le sottoscrizioni, il numero di licenze rimane invariato, ma si estende la quantità di tempo per queste sottoscrizioni.\n\n> [!IMPORTANT]  \n> Se si sceglie di aggiungere licenze in una sottoscrizione esistente, la sottoscrizione scadrà tra meno di 12 mesi, a seconda del numero di licenze esistenti e aggiunte. Dopo aver riscattato una chiave, non è possibile riscattarla di nuovo. Prima di riscattare la chiave, assicurarsi di comprendere se è necessario aggiungere licenze o rinnovare/estendere la sottoscrizione.\n"
+  - question: >
+      È possibile attivare la licenza nell'account del cliente
+    answer: >
+      No. Le licenze del prodotto vengono rilasciate a scopo dimostrativo. I dipendenti delle vendite e del marketing possono usare questo software per presentare i prodotti ai clienti, ma i prodotti dimostrativi non possono essere installati nell'hardware o nell'infrastruttura del cliente e devono essere usati con la supervisione dei partner.
+  - question: >
+      Si verificano problemi durante l'assegnazione di utenti in Credito in blocco di Azure. Cosa dovrei fare
+    answer: >
+      Non è possibile combinare le offerte di credito bulk di Azure con altre offerte. Se un'assegnazione utente non funziona, probabilmente significa che l'utente che si vuole assegnare sta già usando altre offerte di licenza, prepagata o di credito, ad esempio Microsoft Contratto Enterprise, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack e così via. Se l'utente non è sottoscritto a uno di questi contratti o piani e non è ancora possibile assegnarli, contattare Supporto tecnico Microsoft.
+- name: Visual Studio vantaggi
+  questions:
+  - question: >
+      Come funziona Visual Studio'attivazione in Partner Center
+    answer: "È possibile assegnare sottoscrizioni a chiunque nell'elenco Gestione utenti in Partner Center o nel tenant di Azure Active Directory (AAD), seguendo questa procedura:\n\n1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).\n\n2. Nel menu Partner Center selezionare **MPN.**\n\n3. Selezionare **Vantaggi** e quindi **selezionare** Visual Studio .\n\n4. Assegnare gli utenti desiderati alle sottoscrizioni Visual Studio disponibili.\n\nDopo aver assegnato la sottoscrizione, l'utente deve accedere Visual Studio per gestirla.\n\n> [!Note]  \n> Visual Studio sottoscrizioni possono essere riassegnate da un sottoscrittore a un altro se sono trascorsi 90 giorni dal momento dell'assegnazione originale.\n"
+- name: Vantaggi tecnici e supporto
+  questions:
+  - question: >
+      Non è possibile installare il software scaricato da Partner Center. Ricerca per categorie assistenza
+    answer: >
+      L'installazione, l'attivazione e altre informazioni relative al prodotto vengono fornite tramite Supporto tecnico Microsoft. Per ottenere assistenza, seguire questa procedura:
+
+
+      1. Accedere al [dashboard Centro per i partner](https://partner.microsoft.com/dashboard/).
+
+
+      2. Nel menu Partner Center selezionare **MPN.**
+
+
+      3. Selezionare **Vantaggi** e quindi **Vantaggi tecnici**.
+
+
+      4. Usare la sezione Vantaggi tecnici per attivare e ricevere un ID di accesso o un ID contratto.
+
+
+      5. Accedere a [Supporto tecnico Microsoft](https://support.microsoft.com/supportforbusiness/productselection).
+
+
+      6. Selezionare il prodotto che si sta tentando di installare e quindi creare un ticket di supporto tecnico.
+additionalContent: "\n## <a name=\"next-steps\"></a>Passaggi successivi\n\n- [Ottenere una specializzazione avanzata per presentare le proprie competenze](advanced-specializations.md)"

@@ -1,0 +1,162 @@
+### YamlMime:FAQ
+metadata:
+  title: Microsoft Partner Network domande frequenti sui vantaggi
+  ms.topic: article
+  ms.date: 02/04/2021
+  description: Risposte alle domande sui criteri relativi Microsoft Partner Network vantaggi.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-mpn
+  author: keramp88
+  ms.author: keramp
+  ms.localizationpriority: medium
+  ms.custom: 
+  ms.openlocfilehash: 11cafe111d35a4540a018dcaa2534cf1ed33874f
+  ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 06/28/2021
+  ms.locfileid: "112989833"
+title: Microsoft Partner Network domande frequenti sui vantaggi
+summary: >
+  **Ruoli appropriati:** amministratore partner MPN
+
+
+  L'articolo seguente Microsoft Partner Network risponde ad alcune delle domande principali dei partner MPN sui vantaggi dell'appartenenza MPN, sulle competenze e sulle licenze del prodotto.
+sections:
+- name: Risposta a COVID-19
+  questions:
+  - question: >
+      La data dell'anniversario delle competenze è in arrivo e non è possibile soddisfare i requisiti di competenza a causa degli effetti correlati a COVID-19. Cosa è necessario fare?
+    answer: >
+      Se la data dell'anniversario delle competenze è compresa tra il 1° gennaio e il 30 giugno 2021, verranno estese le competenze esistenti (ad eccezione della competenza Cloud Business Applications) fino alla data dell'anniversario successivo nel 2022. Non è necessario soddisfare i requisiti di esame o prestazioni, ma si paga comunque la tariffa per le competenze. Per altre informazioni, vedere il post [di blog](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
+- name: Appartenenze
+  questions:
+  - question: >
+      Qual è il processo e i tempi per il rinnovo delle competenze?
+    answer: >
+      L'azienda può rinnovare una competenza in Partner Center.È necessario soddisfare i requisiti di prestazioni delle competenze, convalidare gli esami e le competenze necessari ogni anno e pagare la tariffa annuale entro la finestra di rinnovo per mantenere lo stato delle competenze e l'accesso ai vantaggi associati.
+
+
+      Prima di rinnovare la competenza, l'amministratore globale o l'amministratore account dell'azienda deve esaminare e aggiornare le informazioni aziendali. Possono accedere al profilo aziendale in Partner Center per visualizzare lo stato ed esaminare le informazioni da aggiornare.Potrebbe essere necessaria una documentazione aggiuntiva per verificare le informazioni.  
+
+
+      Il tuo periodo di rinnovo inizia in corrispondenza dell'anniversario della data di acquisto più un giorno. Ad esempio, se è stato acquistato Microsoft Action Pack il 1° settembre 2020, il periodo di rinnovo di 30 giorni inizia il 2 settembre 2021. I ruoli di amministratore globale e amministratore MPN dell'azienda ricevono la comunicazione di rinnovo prima della data dell'anniversario e 30 giorni dopo. L'utente continuerà ad avere accesso ai vantaggi associati durante l'intervallo di rinnovo.
+
+
+      Per altre informazioni, vedere [Rinnovare l'offerta MPN.](renew-mpn-offers.md)
+  - question: >
+      Quando è possibile rinnovare microsoft Action Pack?
+    answer: >
+      L'azienda può rinnovare l'Action Pack Microsoft Partner Center durante l'intervallo di rinnovo.
+
+
+      Prima di rinnovare il Action Pack, l'amministratore globale o l'amministratore dell'account dell'azienda dovrà esaminare e aggiornare le informazioni aziendali aziendali. Possono accedere al profilo dell'azienda in Partner Center visualizzare il proprio stato e comprendere quali informazioni devono essere aggiornate.Potrebbe essere necessaria una documentazione aggiuntiva per verificare le informazioni.  
+
+
+      Il tuo periodo di rinnovo inizia in corrispondenza dell'anniversario della data di acquisto più un giorno. Ad esempio, se è stato acquistato Microsoft Action Pack il 1° settembre 2020, il periodo di rinnovo di 30 giorni inizia il 2 settembre 2021. L'utente continuerà ad avere accesso ai vantaggi associati durante la finestra di rinnovo.
+
+
+      Per altre informazioni, vedere [Rinnovare l'offerta MPN](renew-mpn-offers.md)
+  - question: >
+      Qual è la differenza tra Microsoft Action Pack e Learning Action Pack?
+    answer: >
+      Microsoft Action Pack è un portfolio di risorse per aiutare i partner a acquisire familiarità con le tecnologie Microsoft e a creare la soluzione o il servizio. È possibile acquistare un'Action Pack Microsoft indipendentemente dal fatto che si abbia o meno una competenza.
+
+
+      L'Action Pack learning è il livello di ingresso nel programma Learning Partner. Il programma Di apprendimento fornisce risorse per le aziende che offrono formazione tecnica e/o hanno una pratica di apprendimento. Learning [Action Pack](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) offre sconti su Courseware, Marketplace e vantaggi per aiutare i partner a diventare esperti in varie linee di prodotti Microsoft. Fare riferimento alla tabella [delle licenze per](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) Microsoft Action Pack e learning Action Pack.
+  - question: >
+      Cosa accade alle competenze o ai Action Pack durante il periodo di rinnovo di 30 giorni?
+    answer: >
+      In base al contratto MPN, si continuerà ad avere accesso ai vantaggi del programma purché l'appartenenza sia attiva. Alla scadenza di un'appartenenza, l'accesso ai vantaggi andrà perso.
+
+
+      Per altre informazioni, vedere [Rinnovare l'offerta MPN](renew-mpn-offers.md)
+- name: Licenze di prodotto
+  questions:
+  - question: >
+      Quali sono le offerte correnti per i partner nel Microsoft Partner Network sulle licenze del prodotto?
+    answer: >
+      Le licenze del prodotto (definite anche licenze per uso interno o diritti di utilizzo interno) sono incluse nei vantaggi per i partner che concrecono una competenza o acquistano un'istanza di Microsoft Action Pack. Ottenere un elenco delle offerte correnti di licenze del prodotto [dalla guida Microsoft Partner Network programmi.](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      È possibile usare un singolo token per sbloccare più sottoscrizioni?
+    answer: >
+      No, non è possibile dividere i token per sbloccare più sottoscrizioni. I token devono essere usati nel formato fornito. Ad esempio, un token da 25 postazioni non può essere suddiviso in 5 diversi token da 5 postazioni.
+
+
+      Per altre informazioni, vedere la Guida ai programmi per i partner Microsoft  [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Se è stato attivato il token per i servizi cloud in un tenant errato o se sono state aggiunte postazioni anziché estenderlo, è possibile ottenere un token sostitutivo?
+    answer: >
+      I token sostitutivi per le attivazioni del servizio cloud nel tenant errato e per le postazioni aggiunte per errore nelle sottoscrizioni esistenti possono essere rilasciati una sola volta, entro 30 giorni dall'attivazione del token originale.
+
+
+      Per altre informazioni, vedere la Guida ai programmi per i partner Microsoft [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Per le licenze del prodotto software locale, è necessario avere un codice Product Key per l'installazione?
+    answer: >
+      Non tutti i prodotti richiedono un codice Product Key. L'attivazione del prodotto è necessaria per i sistemi operativi server e client Windows e per Microsoft Office applicazioni client.
+
+
+      Per altre informazioni, vedere la Guida ai programmi per i partner Microsoft  [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      È possibile acquisire più codici Product Key se sono stati utilizzati tutti gli impianti e le attivazioni?
+    answer: >
+      Alcuni codici Product Key emessi sono chiavi di attivazione multiple (MAK). Questi prodotti hanno un numero finito di installazioni, attivazioni o postazioni. Un codice Product Key smette di funzionare quando vengono utilizzate tutte le installazioni e le attivazioni. Le attivazioni aggiuntive per questi codici Product Key non verranno concesse.
+
+
+      Per altre informazioni, visitare la Guida ai programmi partner Microsoft  [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Cosa succede se si decide di non rinnovare la competenza o Microsoft Action Pack, è comunque possibile usare le licenze del prodotto software locale?
+    answer: >
+      No. Le licenze del prodotto software locale incluse nel livello di competenza e microsoft Action Pack non sono perpetue. L'utente ha diritto e ha il diritto di usare queste licenze solo durante l'appartenenza. È necessario ottenere i diritti di licenza tramite licenze commerciali o disinstallare qualsiasi software locale ottenuto tramite il Microsoft Partner Network se si sceglie di non rinnovare la propria competenza o Action Pack.
+
+
+      Per altre informazioni, visitare la Guida ai programmi partner Microsoft [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Microsoft Action Pack include una Visual Studio Enterprise sottoscrizione?
+    answer: >
+      No, Microsoft Action Pack solo Visual Studio Professional sottoscrizioni.
+
+
+      Per altre informazioni, visitare la Guida ai programmi partner Microsoft [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      È possibile condividere le Visual Studio incluse con il raggiungimento delle competenze o con Microsoft Action Pack?
+    answer: >
+      No, le Visual Studio vengono concesse in licenza per utente e devono essere assegnate e attivate per essere valide. La condivisione delle credenziali di accesso non è consentita.
+
+
+      Per altre informazioni, visitare la Guida ai programmi partner Microsoft [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Come è possibile sapere quante licenze di prodotto ha l'azienda?
+    answer: >
+      È possibile visualizzare e gestire le licenze del prodotto e altri vantaggi inclusi nel raggiungimento delle competenze o Action Pack in Partner Center. Per altre informazioni, [vedere Gestire i vantaggi della rete partner.](manage-your-partner-network-benefits.md)
+  - question: >
+      In che modo l'azienda può usare le licenze del prodotto disponibili tramite il raggiungimento delle competenze o Action Pack?
+    answer: >
+      Microsoft include licenze di prodotto per i partner del Microsoft Partner Network che possono acquisire una o più competenze o acquistare un Action Pack Microsoft per aiutarli a creare soluzioni innovative e acquisire familiarità con i prodotti e le tecnologie Microsoft. Le condizioni per l'utilizzo per le licenze del prodotto incluse con il raggiungimento delle competenze e Action Pack sono illustrate nella guida [Microsoft Partner Network Programmi](https://aka.ms/partner-benefits-use-guide).
+  - question: >
+      Esistono limitazioni al modo in cui l'azienda può usare le licenze del prodotto disponibili tramite il raggiungimento delle competenze o Action Pack?
+    answer: >
+      Sì, esistono limitazioni. Le condizioni per l'utilizzo delle licenze del prodotto sono diverse rispetto alle licenze commerciali acquisite tramite i programmi di licenza Microsoft. Per altre informazioni, vedere [Condizioni per l'utilizzo delle licenze del prodotto.](https://www.microsoft.com/licensing) Le licenze del prodotto non includono Software Assurance e sono presenti alcune restrizioni sulle licenze del prodotto. È possibile esaminare le condizioni per l'utilizzo per le licenze del prodotto [nella guida Microsoft Partner Network programmi.](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Come si aggiungono altre licenze di prodotto agli elementi elencati in Partner Center in modo che la società sia coperta?
+    answer: >
+      Le licenze del prodotto incluse con il livello di competenza e Action Pack hanno condizioni d'uso diverse rispetto alle licenze commerciali acquisite tramite i programmi di licenza Microsoft. È consigliabile esaminare le opzioni per soddisfare le esigenze di licenza dell'azienda in [Licenze Microsoft.](https://www.microsoft.com/licensing)
+  - question: >
+      Di recente è stata unita/acquisita un'altra società nel Microsoft Partner Network che ha una competenza. È possibile mantenere tutte le licenze del prodotto correnti quando si usa la funzionalità di unione degli account Partner Center?
+    answer: >
+      Il raggiungimento delle competenze e Action Pack'acquisto viene completato in Partner Center tramite l'account globale partner. Quando si usa la funzionalità di unione degli account in Partner Center, i vantaggi esistenti di ogni account rimangono invariati fino al successivo rinnovo. Al momento del rinnovo, i vantaggi inclusi con il raggiungimento delle competenze e Action Pack vengono implementati per l'account globale Partner della società partner.
+
+
+      -   Microsoft Action Pack: l'azienda partner può acquistare una Action Pack per ogni account globale partner.
+
+
+      -   Competenza: l'azienda partner riceverà un pacchetto di vantaggi principali, associati ai risultati più elevati, oltre ai vantaggi specifici delle competenze per cui il partner è idoneo per l'account globale del partner.
+
+
+      Esaminare le informazioni [sull'unione](merge-accounts.md) degli account per altre informazioni sul funzionamento della funzionalità e su come decidere se è più consono alle esigenze dell'azienda.
+  - question: >
+      Sono disponibili domande sulle licenze dei prodotti dell'azienda in Partner Center. Dove è possibile ottenere assistenza?
+    answer: >
+      È possibile passare alla sezione Supporto di [Partner Center](https://partner.microsoft.com/support) per collegamenti a risorse che potrebbero essere utili o per aprire un ticket con il team di supporto partner, se necessario.
+additionalContent: "\n## <a name=\"next-steps\"></a>Passaggi successivi\n   - [Individuare i vantaggi di Microsoft Partner Network](mpn-find-benefits.md)\n   - [Rinnovare l'offerta MPN](renew-mpn-offers.md)"

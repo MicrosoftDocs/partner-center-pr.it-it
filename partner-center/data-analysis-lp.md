@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ae31e7d917e96763e107212a78f28bfa10acf2f4
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276859"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013319"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Usare l'analisi per altre informazioni sui ricavi delle sottoscrizioni
 
@@ -22,7 +22,7 @@ ms.locfileid: "112276859"
 
 La pianificazione di modi per sviluppare il lavoro di CSP implica la definizione del numero di clienti che usa i prodotti Microsoft. Sono disponibili diverse opzioni per raccogliere dati in Partner Center ed è possibile raccogliere dati sia sull'azienda che su se e come i clienti usano le licenze acquistate. Se si usa il modello diretto CSP, è anche possibile installare e usare il app Analisi del Centro per i Partner per Power BI per raccogliere dati aggiuntivi.
 
-## <a name="access-to-the-subscription-analytics"></a>Accesso all'analisi delle sottoscrizioni
+## <a name="access-to-the-subscription-analytics"></a>Accesso a Subscription Analytics
 
 1. Accedi al [dashboard](https://partner.microsoft.com/dashboard/home) Centro per i partner.
 1. Da CSP nel menu Partner Center, selezionare **Analizza** e quindi Selezionare **Analisi delle sottoscrizioni.**
@@ -31,9 +31,9 @@ La pianificazione di modi per sviluppare il lavoro di CSP implica la definizione
 
 :::image type="content" source="images/analytics/subscription1.png" alt-text="Schermata Sottoscrizione.":::
 
-## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Ricavi CSP Twelve-Month finale (TTM)
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Ricavi CSP Twelve-Month (TTM)
 
-I ricavi CSP finali di 12 mesi rappresentano i ricavi finali Cloud Solution Provider programma in USD a livello di account globale del partner. I dati vengono aggiornati l'ottavo di ogni mese, per visualizzare i ricavi finali di dodici mesi fino al mese precedente. Ad esempio, il 9 settembre 2020 dovrebbe essere possibile visualizzare il TTM per il periodo fisso da settembre 2019 ad agosto 2020.
+I ricavi CSP finali di 12 mesi rappresentano i ricavi finali Cloud Solution Provider programma in USD a livello di account globale del partner. I dati vengono aggiornati l'ottavo di ogni mese, per visualizzare i ricavi finali di dodici mesi fino al mese precedente. Ad esempio, il 9 settembre 2020 dovrebbe essere possibile visualizzare il TTM per il periodo fisso da settembre 2019 ad agosto 2020. Le sottoscrizioni software sono escluse. I ricavi TTM rifletteranno solo i ricavi idonei per i quali le fatture sono già state pagate. 
 
 I ricavi visualizzati in Partner Center vengono calcolati per un intervallo di tempo fisso di 12 mesi e non possono essere modificati in un intervallo di tempo più breve.
 
@@ -42,11 +42,11 @@ Per visualizzare una suddivisione dei ricavi a livello di account della posizion
 - Selezionare il collegamento "Download Details" (Dettagli download) e scaricare un file con estensione tsv che visualizza i ricavi TTM in tutte le località.
 
 >[!NOTE] 
->Sommando i singoli numeri di ricavi TTM tra gli ID MPN nel file con estensione tsv potrebbe sembrare superiore ai ricavi TTM complessivi visualizzati in Partner Center. Ciò è dovuto al fatto che i ricavi possono essere conteggiati due volte per le sottoscrizioni con più attribuzioni di partner nel file scaricato.
+>Sommando i singoli numeri di ricavi TTM tra gli ID MPN nel file TSV potrebbe sembrare maggiore dei ricavi TTM complessivi visualizzati in Partner Center. Ciò è dovuto al fatto che i ricavi possono essere conteggiati due volte per le sottoscrizioni con più attribuzioni di partner nel file scaricato.
 
 ## <a name="subscription-summary"></a>Riepilogo della sottoscrizione
 
-Nella metà inferiore della schermata viene visualizzato un riepilogo delle sottoscrizioni. Usare i filtri seguenti per visualizzare i dettagli della sottoscrizione necessari:  
+Nella parte inferiore della schermata viene visualizzato un riepilogo delle sottoscrizioni. Usare i filtri seguenti per visualizzare i dettagli della sottoscrizione necessari:  
 
 1. **Durata:** è possibile scegliere di visualizzare il riepilogo della sottoscrizione per 
 

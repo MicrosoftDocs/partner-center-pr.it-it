@@ -8,12 +8,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: e656f728789bf5b13dd09732b0b2f5ef30de760a
-ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
+ms.openlocfilehash: 87083c8124762f0952b0c98cbc209164151dcb0c
+ms.sourcegitcommit: 6a6e8f9af0a58b32770c7fce9f567dd4795b9797
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/21/2021
-ms.locfileid: "112425086"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113029193"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Panoramica del connettore di co-selling per Dynamics 365 CRM
 
@@ -46,7 +46,7 @@ Prima di installare la soluzione, assicurarsi di soddisfare i prerequisiti segue
 
 1. Selezionare il **collegamento Apri AppSource** nel menu in alto.
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Screenshot che mostra Open AppSource.":::
+   :::image type="content" source="images/cosellconnectors/open-appsource.png" alt-text="Screenshot che mostra Open AppSource.":::
 
 1. Cercare Partner Center **Referrals Connectors per Dynamics 365** nella schermata popup.  
 
@@ -189,7 +189,7 @@ Per aggiornare il valore di una variabile di ambiente:
 
 1. Aggiornare **il valore** corrente (non aggiornare il valore **predefinito)** usando l'opzione Nuovo **valore** e specificando il valore . Il valore deve corrispondere al tipo di dati della variabile. Ad esempio, il tipo di dati Sì o No accetterà il valore Sì o No.
 
-   :::image type="content" source="images/environment-variables-video.gif" alt-text="Screenshot che mostra Aggiornare le variabili di ambiente.":::
+   :::image type="content" source="images/cosellconnectors/environment-variables-video.gif" alt-text="Screenshot che mostra Aggiornare le variabili di ambiente.":::
 
 ## <a name="end-to-end-bidirectional-co-sell-referral-synchronization"></a>Sincronizzazione delle segnalazioni di co-selling bidirezionale end-to-end
 
@@ -241,27 +241,27 @@ I campi personalizzati seguenti devono far parte della sezione CRM:
 
       - **Contatto del cliente:** per creare una segnalazione di co-selling, aggiungere un contatto del cliente all'opportunità.
       - **Sincronizza con Partner Center**: Sì.
-      - **Soluzioni Microsoft:** per condividere una segnalazione con Microsoft, aggiungere una soluzione Microsoft o pronta per il co-selling valida all'opportunità.
+      - **Soluzioni Microsoft:** per condividere una segnalazione con Microsoft, aggiungere all'opportunità una soluzione Valida pronta per il co-selling o Microsoft.
 
         :::image type="content" source="images/cosellconnectors/dynamics-solution-4.png" alt-text="Screenshot che mostra l'ID soluzione.":::
 
-   1. Dopo aver creato l'opportunità in Dynamics 365 con l'opzione **Sincronizza** con Partner Center impostata su Sì, attendere 10 minuti. Accedere quindi all'account Partner Center locale. Le segnalazioni verranno sincronizzate con Dynamics 365 e **l'identificatore di riferimento**. **Il collegamento di** riferimento verrà popolato. Se si verifica un errore, il **campo Controllo** verrà popolato con le informazioni sull'errore.
+   1. Dopo aver creato l'opportunità in Dynamics  365 con l'opzione Sincronizza con Partner Center impostata su Sì, attendere 10 minuti. Accedere quindi all'account Partner Center utente. Le segnalazioni verranno sincronizzate con Dynamics 365 e con **l'identificatore di segnalazione**. **Il collegamento alla** segnalazione verrà popolato. Se si verifica un errore, il **campo Controllo** verrà popolato con le informazioni sull'errore.
 
-      1. Analogamente, per un'opportunità con l'opzione Sincronizza con **Partner Center** impostata su Sì, se si aggiorna l'opportunità in Dynamics 365 CRM, le modifiche verranno sincronizzate nell'account Partner Center dati.
+      1. Analogamente, per un'opportunità in cui l'opzione Sincronizza con **Partner Center** è impostata su Sì, se si aggiorna l'opportunità in Dynamics 365 CRM, le modifiche verranno sincronizzate nell'account Partner Center.
 
       1. Le opportunità sincronizzate correttamente con Partner Center verranno identificate con ✔icon in Dynamics 365.
 
-1. Sincronizzazione delle segnalazioni quando la segnalazione viene creata o aggiornata Partner Center e sincronizzata nell'ambiente Dynamics 365:
+1. Sincronizzazione dei riferimenti quando la segnalazione viene creata o aggiornata in Partner Center e sincronizzata nell'ambiente Dynamics 365:
 
-   1. Accedere al dashboard [Partner Center.](https://partner.microsoft.com/dashboard/home)
+   1. Accedere al [dashboard Partner Center.](https://partner.microsoft.com/dashboard/home)
 
-   1. Selezionare **Referrals (Riferimenti)** dal menu a sinistra.
+   1. Selezionare **Segnalazioni** dal menu a sinistra.
 
-   1. Creare una nuova segnalazione di co-selling da Partner Center selezionando **l'opzione New deal (Nuovo** accordo).
+   1. Creare una nuova segnalazione di co-selling da Partner Center selezionando **l'opzione Nuova** trattativa.
 
    1. Accedere all'ambiente Dynamics 365 CRM.
 
-   1. Passare a **Apri opportunità**. La segnalazione creata in Partner Center è ora sincronizzata in Dynamics 365 CRM.
+   1. Passare a **Open Opportunities (Opportunità aperte).** La segnalazione creata in Partner Center è ora sincronizzata in Dynamics 365 CRM.
 
    1. Quando si seleziona una segnalazione sincronizzata, i dettagli della visualizzazione scheda vengono popolati.
 
@@ -269,5 +269,5 @@ I campi personalizzati seguenti devono far parte della sezione CRM:
 
 - [Gestire lead](manage-leads.md)
 - [Gestire opportunità di co-selling](manage-co-sell-opportunities.md)
-- [Altre informazioni sulla piattaforma microsoft Power Automate](/power-automate/)
+- [Altre informazioni sulla piattaforma Power Automate Microsoft](/power-automate/)
 - [Webhook del Centro per i partner](/partner-center/develop/partner-center-webhooks)

@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 4a8e785de051aa6f722a1bfddc4ad83d6502bbb3
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: f521e55869d60987fb46cd5d570bf206939e0782
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551657"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080640"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Come e quando richiedere un credito di contratto di servizio a Microsoft
 
@@ -33,8 +33,8 @@ I crediti del contratto di servizio di Microsoft vengono determinati in base ai 
 
 *Il partner CSP deve inviare l'attestazione e tutte le informazioni necessarie entro la fine del mese di calendario successivo al mese in cui si è verificato l'evento imprevisto.* Ad esempio, se l'evento imprevisto si è verificato il 15 febbraio, Microsoft deve ricevere l'attestazione e tutte le informazioni necessarie entro il 31 marzo. I clienti finali e i rivenditori indiretti non possono inviare richieste di credito del contratto di servizio. Il provider indiretto o il partner di fatturazione diretta deve inviare attestazioni per loro conto.
 
->[!NOTE]
->Gli eventi imprevisti di consulenza ([Come controllare Microsoft 365 integrità del servizio](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) non sono idonei per i crediti del contratto di servizio.
+> [!NOTE]
+> Gli eventi imprevisti di consulenza non sono idonei per i crediti del contratto di servizio. Un evento imprevisto pubblicato nel dashboard di integrità dei servizi indica che un *tenant* può essere inciso e rappresenta le informazioni migliori di Microsoft al momento della pubblicazione. I dati della pagina integrità rappresentano la disponibilità generale di un servizio. L'impatto, la mitigazione e la risoluzione dei singoli servizi possono variare. Per altri dettagli, è possibile esaminare il post e la revisione degli eventi imprevisti finali. Per [altre informazioni, vedere Come Microsoft 365'integrità](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) del servizio.
 
 ### <a name="required-information"></a>Informazioni necessarie
 

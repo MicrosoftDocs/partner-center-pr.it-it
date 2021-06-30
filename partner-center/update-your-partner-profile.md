@@ -9,18 +9,21 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 49f5e30df241c8a29c3282c1958b39ebd9add36e
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 9f9a055ce3bfbff568287267b74b04e8f9d03ad1
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431729"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080623"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verificare o aggiornare le informazioni del profilo aziendale 
 
 **Ruoli appropriati:** amministratore globale | Amministratore dell'account MPN
 
 La prima volta che si accede Partner Center come amministratore globale, è necessario verificare che tutti i dettagli aziendali siano corretti. Tra cui, contatto principale, indirizzo, ragione sociale e informazioni sul programma. Se la società ha più di una località, verificare l'accuratezza dei dati della località. In quanto amministratore globale, amministratore fatturazione o agente amministratore, sarà anche possibile visualizzare e aggiornare le informazioni di fatturazione e fiscali.
+
+> [!NOTE]
+> Per aggiornare l'indirizzo di fatturazione, è necessario essere l'amministratore globale.
 
 Il profilo partner è costituito dalle informazioni aziendali legali, dal nome del contatto principale e dall'indirizzo di posta elettronica, dai programmi a cui la società partecipa e, se pertinente, dalle altre società fuse con l'azienda legale. Assicurarsi che il nome e l'indirizzo della società nel profilo di business legale non siano presenti errori di ortografia e abbreviazioni e che corrispondano esattamente ai record di registrazione aziendale formali dell'azienda. Se si opera come impresa individuale, è necessario usare come ragione sociale il nome della società.
 
@@ -88,18 +91,18 @@ Per aggiornare l'ID MPN associato all'account CSP:
 
 ## <a name="update-your-csp-legal-billing-address"></a>Aggiornare l'indirizzo di fatturazione legale CSP
 
-Gli amministratori globali, gli amministratori di fatturazione o gli agenti di amministrazione possono modificare l'indirizzo visualizzato nella fattura in **Profili di pagamento e fiscali**. Tuttavia, non è possibile modificare il nome della società nella fattura a causa di una limitazione del sistema di fatturazione.
+Se si è l'amministratore globale, è possibile modificare l'indirizzo visualizzato nella fattura nel profilo **di pagamento e fiscale.** Attualmente non è possibile modificare il nome della società nella fattura a causa di una limitazione del sistema di fatturazione.
 
 :::image type="content" source="images/billing-profile.png" alt-text="Acquisizione dello schermo dell'area in cui vengono aggiunte le informazioni di fatturazione.":::
 
 |**Campo**  |**Descrizione**|  
 |---------------------|:------------------|
-|Nome società di fatturazione|Nome della società visualizzato nel Bill-To informazioni sulla fattura CSP.  Non è modificabile nel Centro per i partner.  Per eseguire l'aggiornamento, creare un ticket di supporto.|
+|Nome società di fatturazione|Nome della società visualizzato nel Bill-To informazioni sulla fattura CSP.  Queste informazioni non sono modificabili nel Centro per i partner.  Per eseguire l'aggiornamento, creare un ticket di supporto.|
 |Indirizzo di fatturazione|Indirizzo di fatturazione visualizzato nella fattura CSP. Può essere aggiornato da [Profilo di fatturazione.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
 |Contatto di fatturazione|I dettagli di contatto di fatturazione (nome, cognome, numero primario) per l'account CSP.  Può essere aggiornato da [Profilo di fatturazione.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
 |Numero ordine di acquisto|Numero dell'ordine di acquisto visualizzato nella fattura del partner. Può essere aggiornato da [Profilo di fatturazione.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
 |ID imposta società|Le aziende in alcuni paesi possono fornire il proprio numero di imposta sul valore [aggiunto (IVA) o equivalente locale.](./organization-tax-info.md) Per aggiornare l'ID fiscale o la partita IVA, è necessario essere amministratore globale, amministratore di fatturazione o un agente di amministrazione.|
-|Valuta di fatturazione|La valuta di fatturazione per l'account CSP è determinata dal paese legale dell'account CSP.  Non è possibile modificare questa impostazione dopo aver creato l'account CSP.|
+|Valuta di fatturazione|La valuta di fatturazione per l'account CSP è determinata dal paese legale dell'account CSP.  Queste informazioni non possono essere modificate dopo la creazione dell'account CSP.|
 
 ## <a name="next-steps"></a>Passaggi successivi
 

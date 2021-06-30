@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 0052f4dd352789245eadf157823119cd5f05f2a8
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
+ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373307"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113105040"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Supporto tecnico per prodotti locali o cloud
 
@@ -52,7 +52,7 @@ Come visualizzare o attivare i vantaggi tecnici in Partner Center:
    > [!NOTE]
    > Se l'account è associato solo a CSP e non è associato a MPN, verrà visualizzato il messaggio di errore "Non si è autorizzati per questa azione". È necessario avere un account MPN associato.
 
-2. Espandere **Vantaggi** nel menu di spostamento a sinistra e **selezionare Vantaggi tecnici.** Nella pagina Vantaggi tecnici verranno visualizzate le offerte di appartenenza attive alle organizzazioni Gold, Silver o Microsoft Action Pack di appartenenza.
+2. Espandere **Vantaggi** nel menu di spostamento a sinistra e [**selezionare Vantaggi tecnici.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) Nella pagina Vantaggi tecnici verranno visualizzate le offerte di appartenenza attive alle organizzazioni Gold, Silver o Microsoft Action Pack di appartenenza.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Vantaggi tecnici espandere quindi Vantaggi" :::
 
@@ -74,7 +74,7 @@ Come visualizzare o attivare i vantaggi tecnici in Partner Center:
 
 ## <a name="technical-support-entitlement-and-supported-products"></a>Diritti del supporto tecnico e prodotti supportati
 
-Il supporto tecnico fornisce la risoluzione di un problema, un messaggio di errore o una funzionalità specifica che non funziona come previsto. Il supporto tecnico e il Signature Cloud Support mpn possono essere usati per prodotti e versioni Microsoft specifici (non tutti i prodotti e le versioni sono supportati).
+Il supporto tecnico fornisce la risoluzione di un problema specifico, un messaggio di errore o una funzionalità che non funziona come previsto. Il supporto tecnico e il Signature Cloud Support mpn possono essere usati per prodotti e versioni Microsoft specifici (non tutti i prodotti e le versioni sono supportati).
 
 > [!NOTE]
 > I vantaggi del supporto tecnico devono essere attivati prima di poterli usare.
@@ -123,7 +123,7 @@ Saranno necessari l'ID di accesso e l'ID contratto la prima volta che si usa il 
 
 I partner CSP che creano richieste di Azure possono usare il piano di supporto "Cloud Solution Provider" senza aggiungere un contratto di supporto.
 
-Gli utenti **con ruolo Agente** amministratore possono selezionare [Clienti](https://partner.microsoft.com/commerce/customers/list) in CSP nel menu di spostamento a sinistra, selezionare **Gestione** dei servizi e selezionare **Nuova richiesta.**  Quando si seleziona il carico di lavoro pertinente, viene aperto il portale specifico del carico di lavoro e si aggiunge un contratto di supporto e si crea una richiesta.
+Gli utenti **con ruolo Agente** amministratore possono selezionare [Clienti](https://partner.microsoft.com/commerce/customers/list) in CSP nel menu di spostamento a sinistra, selezionare **Gestione** servizi e selezionare **Nuova richiesta.**  Quando si seleziona il carico di lavoro pertinente, viene aperto il portale specifico del carico di lavoro e si aggiunge un contratto di supporto e si crea una richiesta.
 
 ### <a name="azure-portal-error-access-id-is-already-associated-"></a>portale di Azure errore "L'ID di accesso è già associato..."
 

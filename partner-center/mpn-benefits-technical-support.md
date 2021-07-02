@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
-ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
+ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113105040"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173654"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Supporto tecnico per prodotti locali o cloud
 
@@ -54,20 +54,20 @@ Come visualizzare o attivare i vantaggi tecnici in Partner Center:
 
 2. Espandere **Vantaggi** nel menu di spostamento a sinistra e [**selezionare Vantaggi tecnici.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) Nella pagina Vantaggi tecnici verranno visualizzate le offerte di appartenenza attive alle organizzazioni Gold, Silver o Microsoft Action Pack di appartenenza.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Vantaggi tecnici espandere quindi Vantaggi" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Vantaggi tecnici espandere quindi Vantaggi." :::
 
    > [!NOTE]
    > Se non si dispone di offerte di appartenenza attive, verrà visualizzato il messaggio "Sembra che non ci siano ancora vantaggi". Se l'azienda ha offerte di appartenenza attive ma non è possibile vederle, è stato eseguito l'accesso usando l'account errato. Per controllare l'account, selezionare l'icona **Account** in alto a destra nella pagina e selezionare Accedi con un altro **account** (se necessario).
 
 3. Per usare il Supporto tecnico Microsoft o il supporto tecnico firma, è necessario attivare il vantaggio. Per attivare il vantaggio, selezionare il **pulsante Attiva.** L'account utente usato per l'attivazione richiede i ruoli Amministratore globale o Amministratore partner MPN.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Vantaggi tecnici selezionare Attiva" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Vantaggi tecnici selezionare Attiva." :::
 
 4. L'ID di accesso e l'ID contratto verranno visualizzati a tutti gli utenti dopo l'attivazione. Quando vengono visualizzati l'ID di accesso e l'ID contratto, è possibile usare il supporto tecnico microsoft e il supporto tecnico del prodotto firma (membri Gold e Silver).
 
    Se il pulsante Attiva è in grigio, l'account non ha il ruolo di sicurezza Amministratore globale o Amministratore partner MPN. Usare  [Gestione utenti e](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) filtrare l'amministratore globale o l'amministratore partner MPN per trovare un utente per attivare i vantaggi.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="I vantaggi tecnici attivati mostrano l'ID di accesso e l'ID contratto" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="I vantaggi tecnici attivati mostrano l'ID di accesso e l'ID contratto." :::
 
    > [!NOTE]
    > Saranno necessari l'ID di accesso e l'ID contratto la prima volta che si usa il Supporto tecnico Microsoft o il Supporto tecnico firma per ogni account. Dopo aver associato i vantaggi all'account, non è necessario usare nuovamente l'ID di accesso e l'ID contratto.  
@@ -86,7 +86,7 @@ Come parte dell'appartenenza Microsoft Partner Network, i partner sono idonei pe
 | Supporto tecnico Microsoft<br>Per le versioni recenti in locale <br>solo prodotti | 10 eventi imprevisti | 15 eventi imprevisti | 20 eventi imprevisti |
 | Signature Cloud Support<br>Solo per i prodotti cloud | | Competenze cloud:<br>Nessuna limitazione<br><br>Altre competenze:<br>5 Eventi imprevisti | Competenze cloud:<br>Nessuna limitazione<br>          <br>Altre competenze:<br>10 eventi imprevisti   | 
 
-Le competenze cloud includono: competenza di sicurezza, cloud Business Applications, piattaforma cloud, produttività cloud, gestione della mobilità aziendale, soluzioni cloud di piccole e medie dimensioni.
+Le competenze cloud includono: competenza di sicurezza, cloud Business Applications, piattaforma cloud, produttività cloud, Enterprise Mobility Management, soluzioni cloud di piccole e medie dimensioni.
 
 ## <a name="microsoft-product-support-on-premises"></a>Supporto tecnico Microsoft (locale)
 
@@ -123,36 +123,36 @@ Saranno necessari l'ID di accesso e l'ID contratto la prima volta che si usa il 
 
 I partner CSP che creano richieste di Azure possono usare il piano di supporto "Cloud Solution Provider" senza aggiungere un contratto di supporto.
 
-Gli utenti **con ruolo Agente** amministratore possono selezionare [Clienti](https://partner.microsoft.com/commerce/customers/list) in CSP nel menu di spostamento a sinistra, selezionare **Gestione** servizi e selezionare **Nuova richiesta.**  Quando si seleziona il carico di lavoro pertinente, viene aperto il portale specifico del carico di lavoro e si aggiunge un contratto di supporto e si crea una richiesta.
+Gli utenti **con ruolo Agente** amministratore possono selezionare [Clienti](https://partner.microsoft.com/commerce/customers/list) in CSP nel menu di spostamento a sinistra, selezionare **Gestione** dei servizi e selezionare **Nuova richiesta.**  Quando si seleziona il carico di lavoro pertinente, viene aperto il portale specifico del carico di lavoro e si aggiunge un contratto di supporto e si crea una richiesta.
 
 ### <a name="azure-portal-error-access-id-is-already-associated-"></a>portale di Azure errore "L'ID di accesso è già associato..."
 
-Quando si usa il portale di Azure, si usa Signature Cloud Support selezionando Guida e supporto tecnico, Piani di supporto, quindi "Collega vantaggi di supporto" e immettere l'ID di accesso e l'ID contratto.
+Quando si usa il portale di Azure, si usa Signature Cloud Support selezionando Guida e supporto tecnico, Piani di supporto, quindi "Collegare i vantaggi del supporto" e immettere l'ID di accesso e l'ID contratto.
 
 > [!NOTE]
-> Se si dispone di Microsoft Action Pack non si ottiene il supporto cloud perché non include Signature Cloud Support , ma solo il supporto tecnico Microsoft (locale)
+> Se si dispone di microsoft Action Pack non si ottiene il supporto cloud perché non include Signature Cloud Support, ma solo il supporto tecnico Microsoft (locale)
 
 È possibile che venga visualizzato il messaggio di errore `This Access ID is already associated to an account. Please contact your Technical Account Manager to obtain a new Access ID` . Questo messaggio di errore non è valido e deve essere ignorato. È stato richiesto che l'errore sia disabilitato e sostituito con un messaggio di errore di diagnostica utile.
 
-L'errore precedente viene visualizzato se si associa più volte un contratto di supporto a un account quando si usa il `Access ID is already associated …` portale di Azure. Vedere gli scenari seguenti:
+L'errore precedente verrà visualizzato se si associa un contratto di supporto a un account più di una volta quando si usa il `Access ID is already associated …` portale di Azure. Vedere gli scenari seguenti:
 
-1. Se si hanno vantaggi tecnici gold o silver e in precedenza è stato aggiunto il contratto per il supporto locale, usare il portale di Azure e aggiungere il contratto una seconda volta allo stesso account. È necessario associare il contratto di supporto a un account una sola volta e pertanto non è necessario collegare i vantaggi del supporto in Azure. Se si usano i vantaggi del supporto collegamento quando il contratto è già associato all'account, verrà visualizzato l'errore e verrà ignorato. Usare + Nuovo Richiesta di supporto e creare un evento imprevisto di supporto come di consueto e verrà visualizzato il piano di supporto.
+1. Se si hanno vantaggi tecnici Gold o Silver e in precedenza è stato aggiunto il contratto per il supporto locale, usare il portale di Azure e aggiungere il contratto una seconda volta allo stesso account. È necessario associare il contratto di supporto a un account una sola volta e quindi non è necessario collegare i vantaggi del supporto in Azure. Se si usano i vantaggi del supporto collegamento quando il contratto è già associato all'account, verrà visualizzato l'errore e verrà ignorato. Usare + Nuovo Richiesta di supporto e creare un evento imprevisto per il supporto come di consueto. Verrà visualizzato il piano di supporto.
 
-2. Se il contratto di supporto è scaduto o il pacchetto Signature 10 (competenza ibrida Gold) o signature 5-pack (competenza ibrida Silver) non ha altri eventi imprevisti, il contratto di supporto verrà nascosto perché non è valido. Se si collegano nuovamente i vantaggi del supporto, verrà visualizzato l'errore perché il contratto è già associato. È possibile acquistare un nuovo piano di supporto per supporto tecnico di Azure eventi imprevisti.
+2. Se il contratto di supporto è scaduto o il pacchetto Signature 10 (competenza ibrida Gold) o signature 5-pack (competenza ibrida Silver) non ha altri eventi imprevisti, il contratto di supporto verrà nascosto perché non è valido. Se si collegano nuovamente i vantaggi del supporto tecnico, verrà visualizzato l'errore perché il contratto è già associato. È possibile acquistare un nuovo piano di supporto per supporto tecnico di Azure eventi imprevisti.
 
-Vedere i piani di supporto per i partner di seguito per le offerte di supporto a pagamento dei partner
+Vedere Piani di supporto per i partner di seguito per le offerte di supporto a pagamento dei partner
 
 ## <a name="partner-support-plans"></a>Piani di supporto per i partner
 
-È possibile ottenere supporto a pagamento da Microsoft che include il supporto tecnico e una gamma di opzioni di servizio aggiuntive.
+È possibile ottenere supporto a pagamento da Microsoft che include supporto tecnico e una gamma di opzioni di servizio aggiuntive.
 
-È possibile [confrontare i piani di supporto dei partner](https://partner.microsoft.com/support/partnersupport) o vedere quanto segue per i piani specifici dei partner:
+È possibile confrontare [i piani di supporto dei partner](https://partner.microsoft.com/support/partnersupport) o vedere quanto segue per i piani specifici del partner:
 
-- [supporto tecnico Premier per i partner:](https://partner.microsoft.com/support/microsoft-services-premier-support) il livello principale di supporto tecnico di Microsoft
+- [supporto tecnico Premier per i partner:](https://partner.microsoft.com/support/microsoft-services-premier-support) il primo livello di supporto tecnico di Microsoft
 - [Supporto avanzato per i partner](https://partner.microsoft.com/support/advanced-cloud-support) - Solo prodotti cloud
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Gestire i Microsoft Partner Network e le offerte](manage-your-partner-network-benefits.md)
+- [Gestire i vantaggi Microsoft Partner Network e le offerte](manage-your-partner-network-benefits.md)
 - [Attivare i vantaggi tecnici per i Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
-- [Prevendite tecniche e servizi di distribuzione (TPD)](technical-benefits.md)
+- [Servizi di prevendita e distribuzione (TPD) tecnici](technical-benefits.md)

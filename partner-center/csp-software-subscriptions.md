@@ -9,22 +9,22 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bdf6495d86da09b7d1d167c3fa1b3b5f15a35ab6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 309a3578edcd06770c818722f2164a4d10a945da
+ms.sourcegitcommit: 32ef8d43902357a85df420b48b0ec1d63ad073e4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147497"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "110754478"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendere abbonamenti software tramite il programma Cloud Solution Provider (CSP)
 
-**Ruoli appropriati:** agente di amministrazione | Amministratore globale
+**Ruoli appropriati:** amministrazione dell'agente | Amministratore globale
 
 Con le prenotazioni di Azure e gli abbonamenti server (Windows Server e SQL Server), i partner del programma CSP possono far fronte alla richiesta in rapida crescita da parte dei clienti di soluzioni più convenienti, in grado di supportare carichi di lavoro nel cloud altamente prevedibili e persistenti. 
 
 Adesso puoi effettuare l'acquisizione, il provisioning e la gestione di prenotazioni di Azure e abbonamenti server per conto di clienti commerciali tramite il Centro per i partner e il portale di Azure sfruttando Vantaggio Azure Hybrid.
 
-Vantaggio Azure Hybrid ti consente di ottenere un valore aggiunto dalle licenze di Windows Server e di risparmiare fino al 40% sulle macchine virtuali. Puoi usare il vantaggio con le licenze per le edizioni Windows Server Datacenter e Standard con copertura Software Assurance. A seconda dell'edizione, è possibile convertire o riutilizzare le licenze per eseguire macchine virtuali Windows Server in Azure e pagare una tariffa di calcolo di base inferiore (ad esempio, le tariffe delle macchine virtuali Linux).
+Vantaggio Azure Hybrid ti consente di ottenere un valore aggiunto dalle licenze di Windows Server e di risparmiare fino al 40% sulle macchine virtuali. Puoi usare il vantaggio con le licenze per le edizioni Windows Server Datacenter e Standard con copertura Software Assurance. A seconda dell'edizione, è possibile convertire o riutilizzare le licenze per eseguire macchine virtuali Windows Server in Azure e pagare una frequenza di calcolo di base inferiore (ad esempio, le tariffe delle macchine virtuali Linux).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Mercati non disponibili per prenotazioni di Azure
 
@@ -81,18 +81,18 @@ Per acquistare abbonamenti software per conto di un cliente:
 
 2. Dal menu Centro per i partner scegli **Clienti** e quindi seleziona un cliente dall'elenco.
 
-3. Nella pagina dei dettagli del cliente seleziona **Add products** (Aggiungi prodotti) e quindi segui le istruzioni visualizzate per creare e pagare un ordine. Tutti i prezzi commerciali sono al netto delle imposte a eccezione dell'Australia e del Brasile. Per l'Australia e il Brasile, il prezzo include le imposte.
+3. Nella pagina dei dettagli del cliente seleziona **Add products** (Aggiungi prodotti) e quindi segui le istruzioni visualizzate per creare e pagare un ordine. Tutti i prezzi commerciali escludono le imposte ad eccezione di Australia e Brasile. Per l'Australia e il Brasile, il prezzo include le imposte.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Attivare e gestire abbonamenti software
 
-Dopo aver acquistato il software, l'utente o i clienti devono scaricarlo (partner che usano Partner Center, clienti che usano l'interfaccia di amministrazione di Microsoft 365). Utilizzare la procedura seguente per eseguire questa operazione. È importante comprendere i rischi associati alla copia di collegamenti e al download del software. Per altre informazioni, vedere **Using Partner Center to obtain customer software downloads and license keys** (Uso di Partner Center per ottenere i download di software e i codici di licenza dei clienti) nella guida operativa [Partner Center New Commerce.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+Dopo aver acquistato il software, l'utente o i clienti devono scaricarlo (partner che usano Partner Center; clienti che usano Amministrazione Microsoft 365 Center). Utilizzare la procedura seguente per eseguire questa operazione. È importante comprendere i rischi associati alla copia di collegamenti e al download di software. Per altre informazioni, vedere **Using Partner Center to obtain customer software downloads and license keys** (Uso di Partner Center per ottenere i download del software e le chiavi di licenza dei [clienti) nella Guida](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)operativa Partner Center New Commerce Operations Guide .
 
 >[!NOTE]
 >È necessario essere un agente amministratore in Partner Center per ottenere il collegamento alle chiavi e ai download.
 
-1. Passare alla pagina dei dettagli del cliente e quindi selezionare **Software.** Vedrai un elenco di tutto il software che hai acquistato per conto del cliente.
+1. Passare alla pagina dei dettagli del cliente e quindi selezionare **Software**. Vedrai un elenco di tutto il software che hai acquistato per conto del cliente.
 
-2. Scegliere la **versione del** prodotto, **la lingua,** **bit** e selezionare Get keys and **downloads (Ottieni chiavi e download).** 
+2. Scegliere versione **del prodotto**, **lingua**, **bit** e selezionare Ottieni chiavi **e download**. 
 
 3. Scegliere **Ottieni chiave** per visualizzare il prodotto a 32 cifre in una finestra di dialogo popup che è possibile copiare e inviare al cliente. 
 
@@ -100,14 +100,14 @@ Dopo aver acquistato il software, l'utente o i clienti devono scaricarlo (partne
 
 5. Scegliere **Copia collegamento** se si vuole inviare al cliente il collegamento al download dei bit. 
 
-6. È anche possibile annullare **l'ordine** software e ricevere un credito del 100% (se eseguito entro il periodo dei criteri di annullamento di 60 giorni).
+6. È anche possibile **annullare l'ordine** software e ricevere il credito 100% (se eseguito entro il periodo dei criteri di annullamento di 30 giorni).
 
 >[!NOTE]
->Solo i clienti hanno accesso per visualizzare i codici Product Key e scaricare le informazioni nell'interfaccia di amministrazione Microsoft 365 (è necessario il ruolo di amministratore globale). I partner devono usare Partner Center per visualizzare queste informazioni.
+>Solo i clienti hanno accesso per visualizzare i codici Product Key e scaricare le informazioni nel Amministrazione Microsoft 365 Center (ruolo amministratore globale obbligatorio). I partner devono usare Partner Center per visualizzare queste informazioni.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download e codici di licenza per sottoscrizioni di server disponibili tramite l'interfaccia di amministrazione di Microsoft 365 per i clienti 
 
-I clienti potranno ottenere i codici di licenza e i download per le sottoscrizioni di server CSP dall'interfaccia di amministrazione di Microsoft 365. Per visualizzare i codici di licenza e i download della sottoscrizione del server CSP, il cliente deve passare alla scheda Microsoft 365 Admin Center > Billing > Your products > Software (Prodotti e **software).** Per altri dettagli, vedere [Scheda Software in Fatturazione.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
+I clienti potranno ottenere i codici di licenza e i download per le sottoscrizioni di server CSP dall'interfaccia di amministrazione di Microsoft 365. Per visualizzare i codici di licenza e i download della sottoscrizione del server CSP, il cliente deve passare alla scheda Amministrazione Microsoft 365 Center > **Billing > Your products > Software**. Per altre informazioni, vedere [Scheda Software in Fatturazione](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visualizzare l'attività per l'accesso alle chiavi e ai download del software
 
@@ -126,22 +126,20 @@ A scopo di controllo o di conformità, potrebbe essere necessario controllare un
 
 ## <a name="cancel-a-purchase"></a>Annullare un acquisto
 
-Puoi annullare un acquisto di software entro 60 giorni dalla data dell'acquisto. Se esegui l'annullamento entro questo periodo di 60 giorni, non verrà addebitato alcun costo per la risoluzione anticipata. Dopo 60 giorni, non è più possibile annullare un acquisto. Vedi la nota per le restrizioni principali applicate a questa regola di annullamento. Per informazioni su quanto accade dopo aver annullato un acquisto di software, vedi anche la nota Importante riportata dopo questa procedura. 
+È possibile annullare un acquisto di software entro 30 giorni dalla data di acquisto. Se si annulla entro questo primo periodo di 30 giorni, non verrà addebitata una tariffa di terminazione anticipata. Dopo 30 giorni non è più possibile annullare un acquisto. Vedi la nota per le restrizioni principali applicate a questa regola di annullamento. Per informazioni su quanto accade dopo aver annullato un acquisto di software, vedi anche la nota Importante riportata dopo questa procedura. 
 
 >[!NOTE]
->I passaggi seguenti per l'annullamento di un acquisto si applicano solo al software idoneo all'annullamento entro una finestra di tempo specifica, ad esempio entro i primi 60 giorni successivi all'acquisto. Questi passaggi non si applicano inoltre a un piano software SUSE Linux o RedHat in Azure. Al momento non è possibile annullare o scambiare un piano software SUSE o RedHat. [Ottieni altre informazioni](/azure/virtual-machines/linux/prepay-suse-software-charges) sull'uso dei piani SUSE Linux o RedHat.
+>I passaggi seguenti per annullare un acquisto si applicano solo al software che si qualifica per l'annullamento entro una finestra di annullamento specifica, ad esempio entro i primi 30 giorni dall'acquisto. Questi passaggi non si applicano inoltre a un piano software SUSE Linux o RedHat in Azure. Al momento non è possibile annullare o scambiare un piano software SUSE o RedHat. [Ottieni altre informazioni](/azure/virtual-machines/linux/prepay-suse-software-charges) sull'uso dei piani SUSE Linux o RedHat.
 
 Per annullare un acquisto, segui questa procedura:
 
 >[!NOTE]
 >Gli acquisti possono essere annullati solo dagli agenti amministratori. Nei passaggi seguenti viene descritto come annullare un acquisto nel dashboard Centro per i partner. Per eseguire questa operazione, puoi anche usare l'[API del Centro per i partner](/partner-center/develop/cancel-software-purchases).
 
-1. Prima di iniziare il processo di annullamento, assicurati di disporre di quanto segue:
+1. Prima di avviare il processo di annullamento, assicurarsi di avere le informazioni seguenti:
 
     - Nome del cliente, GUID del tenant o nome di dominio
-
     - Nome del prodotto da annullare
-    
     - ID ordine
 
 2. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
@@ -173,7 +171,7 @@ Quando tenti di annullare un ordine, il Centro per i partner può anche fornire 
 
 Dopo l'annullamento di un acquisto:
 
-- Verranno revocate tutte le chiavi del software e i collegamenti per il download correlati. Ciò significa che né tu né il cliente potrete più usare le chiavi del software e i collegamenti per il download correlati all'acquisto. Tu e il cliente siete tenuti a sospendere l'uso del software annullato. Sei inoltre tenuto a disinstallare il software annullato e a rimuovere i collegamenti e i download del software correlati.
+- Verranno revocate tutte le chiavi del software e i collegamenti per il download correlati. Questa revoca significa che l'utente e il cliente non possono più usare le chiavi software e scaricare i collegamenti correlati all'acquisto. Tu e il cliente siete tenuti a sospendere l'uso del software annullato. Sei inoltre tenuto a disinstallare il software annullato e a rimuovere i collegamenti e i download del software correlati.
 
 - L'elemento annullato continuerà comunque a essere visualizzato nella pagina dei dettagli del software del cliente, ma la chiave di attivazione non sarà disponibile.
 
@@ -189,14 +187,11 @@ Se hai tentato di annullare un acquisto di software tramite il Centro per i part
 
 3. Compila i campi relativi all'impatto e al titolo.
 
-4. Nel campo della descrizione specifica quanto segue:
+4. Nel campo Descrizione specificare le informazioni seguenti:
 
     - GUID del tenant o nome di dominio del cliente
-    
     - ID ordine o ID abbonamento
-    
     - Motivo del rimborso
-
     - Importo richiesto
 
 5. Nel campo relativo al contatto immetti il tuo nome, l'indirizzo e-mail e il numero di telefono.

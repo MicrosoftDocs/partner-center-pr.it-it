@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c5acad01490ca679fa0761aa015fe0142e476bd
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 19b9378e3e2de0742ea6bc7d6fb96cf58bd5c3de
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146375"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277709"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gestire l'account del Centro per i partner: profilo della società, informazioni bancarie, ruoli, autorizzazioni e altri dati
 
@@ -29,9 +29,9 @@ Vedere anche gli articoli [Invitare i dipendenti a partecipare al Centro per i p
 
 ## <a name="account-management"></a>Gestione degli account
 
-Tutti i partner commerciali e per sviluppatori accedono alla gestione degli account **in** Partner Center accedendo al [dashboard](https://partner.microsoft.com/dashboard) di Partner Center e selezionando **Impostazioni** (icona a forma di ingranaggio) nell'angolo superiore destro della schermata e quindi **Impostazioni account.** Non è più necessario scegliere tra le impostazioni partner e sviluppatore. Tutti i profili e le impostazioni sono ora combinati.
+Tutti i partner commerciali e per sviluppatori accedono alla gestione degli account **in** Partner Center accedendo al [dashboard](https://partner.microsoft.com/dashboard) di Partner Center e selezionando Impostazioni (icona **a** forma di ingranaggio) nell'angolo superiore destro della schermata e quindi **Impostazioni account.** Non è più necessario scegliere tra le impostazioni partner e sviluppatore. Tutti i profili e le impostazioni sono ora combinati.
 
-:::image type="content" source="images/accountsettings/opening.png" alt-text="Icona Impostazioni":::
+:::image type="content" source="images/accountsettings/opening.png" alt-text="icona delle impostazioni.":::
 
 Questa immagine rappresenta la pagina Impostazioni account.
 
@@ -45,7 +45,7 @@ Sia i partner che gli sviluppatori possono usare l'ID MPN per operazioni come la
 
 Quando si seleziona l'icona **Impostazioni** e si apre il menu **Impostazioni account**, la visualizzazione predefinita, se l'azienda aderisce al programma Cloud Solution Provider, è costituita dalla pagina **Informazioni legali** contenente due schede, **Partner** e **Rivenditore**. Ogni scheda include alcuni aspetti dell'azienda.
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu con le schede per partner e rivenditori":::
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Il menu mostra le schede partner e rivenditori.":::
 
 La scheda Partner include tutte le informazioni legali, ad esempio il nome legale registrato e l'indirizzo della società, nonché il contatto principale e le posizioni aziendali. La scheda Rivenditore per i partner che operano come CSP include la pagina **Profilo del supporto clienti**.
 
@@ -55,7 +55,7 @@ Se l'azienda non partecipa al programma CSP, la visualizzazione predefinita most
 
 Puoi far parte di più di un account. È possibile verificare se si fa parte di più account in base alla presenza della "selezione account" nel menu di spostamento a sinistra.
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identificare la selezione account":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identificare la selezione account.":::
 
 Se la selezione account non viene visualizzata, si fa parte di un solo account. 
 
@@ -63,7 +63,7 @@ Quando si seleziona questo selettore, tutti gli account di cui si fa parte vengo
 
 Nell'esempio seguente l'utente connesso fa parte dei tre account evidenziati. L'utente può passare da un account all'altro facendo clic su un account.
 
-:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Account di cui si fa parte":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Account di cui si fa parte.":::
 
 ## <a name="organization-profile"></a>Profilo dell'organizzazione
 
@@ -83,7 +83,7 @@ Se l'azienda si trova in **Armeno,** **Azerbaigian,** **Kyrgyzstan,** **Uzbekist
 
 ### <a name="primary-contact-email"></a>Indirizzo di posta elettronica di contatto principale
 
-L'indirizzo di posta elettronica di contatto principale è quello che verrà utilizzato per notificare la verifica dell'account. È importante che il messaggio di posta elettronica fornito per il contatto principale sia gestito e osservato regolarmente.  
+L'indirizzo di posta elettronica di contatto principale verrà utilizzato per notificare la verifica dell'account. È importante che il messaggio di posta elettronica fornito per il contatto principale sia gestito e osservato regolarmente.  
 
 Per altre informazioni sulla verifica dei dati dell'account, vedere [questo articolo](verification-responses.md).
 

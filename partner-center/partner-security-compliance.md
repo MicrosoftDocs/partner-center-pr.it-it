@@ -9,20 +9,20 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c9bba02744d466741d7625b1624995084c0a3492
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a429706848a469aace2704d4eaf3d57898ae578f
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152563"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915627"
 ---
 # <a name="security-requirements-status-report"></a>Report di stato dei requisiti di sicurezza
 
 **Ruoli appropriati:** amministratore CPV | Amministratore globale
 
-Questo articolo descrive il report di stato dei requisiti di sicurezza disponibile nel Centro per i partner. Questo report fornisce metriche sulla conformità ai requisiti [di sicurezza](partner-security-requirements.md) dei partner per l'autenticazione a più fattori (MFA) per gli utenti nel tenant partner.
+Questo articolo descrive il report di stato dei requisiti di sicurezza disponibile nel Centro per i partner. Questo report fornisce metriche sulla conformità ai requisiti [di sicurezza dei partner](partner-security-requirements.md) per l'autenticazione a più fattori (MFA) per gli utenti nel tenant partner.
 
-Per accedere a questo report in [Partner Center](https://partner.microsoft.com/dashboard), passare **a** Impostazioni Impostazioni  >  **Account** Stato  >  **requisiti di sicurezza**. Il report viene aggiornato quotidianamente e riflette i dati di accesso degli ultimi sette giorni.
+Per accedere a questo report in [Partner Center](https://partner.microsoft.com/dashboard), passare **a** Impostazioni Impostazioni  >  **account** Stato  >  **dei requisiti di sicurezza**. Il report viene aggiornato ogni giorno e riflette i dati di accesso degli ultimi sette giorni.
 
 >[!NOTE]
 >Il report di stato dei requisiti di sicurezza è supportato solo nel Centro per i partner. Non è disponibile in Microsoft Cloud for US Government o Microsoft Cloud Germania. È consigliabile che tutti i partner che effettuano transazioni attraverso un cloud sovrano (US Government e Germania) adottino immediatamente questi nuovi requisiti di sicurezza. Tuttavia, non è necessario che questi partner soddisfino ora i nuovi requisiti di sicurezza. Microsoft fornirà altri dettagli sull'applicazione di questi requisiti di sicurezza per i cloud sovrani in futuro.
@@ -51,7 +51,7 @@ La metrica **Through Partner Center portal** (Tramite il portale del Centro per 
 - Il secondo giorno John ha eseguito l'accesso al dashboard Partner Center senza verifica MFA e ha effettuato cinque operazioni.
 - Il terzo giorno Jane ha eseguito l'accesso al dashboard Partner Center con verifica MFA e ha effettuato due operazioni.
 - Nei restanti quattro giorni non è stata effettuata alcuna operazione dagli agenti.
-- Delle 10 operazioni eseguite nella finestra di sette giorni, due sono state eseguite dall'utente con verifica MFA. Di conseguenza, la metrica indica il 20%.
+- Delle 10 operazioni eseguite nella finestra di sette giorni, due sono state effettuate dall'utente con verifica MFA. Di conseguenza, la metrica indica il 20%.
 
 Usa il file **Richieste portale senza MFA** per sapere quale utente ha eseguito l'accesso al dashboard Partner Center senza avere la verifica MFA e l'ora dell'ultima visita durante la finestra di reporting.
 
@@ -80,7 +80,7 @@ Se vuoi sapere quali sono le attività app+utente che determinano il non 100% di
 
 ### <a name="implemented-mfa-for-your-partner-tenant"></a>Autenticazione a più fattori implementata per il tenant partner
 
-Per raggiungere la conformità, è necessario implementare l'autenticazione a più fattori per il tenant partner. Per informazioni dettagliate su come implementare l'autenticazione a più fattori, vedere [Requisiti di sicurezza per l'uso del Centro per i partner o delle API del Centro per i partner](partner-security-requirements.md).
+È necessario implementare MFA perché il tenant partner raggiunga la conformità. Per informazioni dettagliate su come implementare l'autenticazione a più fattori, vedere [Requisiti di sicurezza per l'uso del Centro per i partner o delle API del Centro per i partner](partner-security-requirements.md).
 
 >[!NOTE]
 > Le metriche dell'autenticazione a più fattori vengono calcolate su base giornaliera e prendono in considerazione le operazioni eseguite negli ultimi sette giorni. Se l'implementazione dell'autenticazione a più fattori per il tenant partner è stata completata solo di recente, è possibile che le metriche non indichino ancora un valore pari al 100%.
@@ -112,4 +112,4 @@ Può essere utile identificare gli utenti che accedono al Centro per i partner s
 
 - [Community del gruppo di linee guida per la sicurezza del Centro per i partner](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [Requisiti di sicurezza del Centro per i partner](partner-security-requirements.md)
-- [Domande frequenti sui requisiti di sicurezza del Centro per i partner](partner-security-requirements-faq.md)
+- [Domande frequenti sui requisiti di sicurezza del Centro per i partner](partner-security-requirements-faq.yml)

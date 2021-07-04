@@ -1,93 +1,137 @@
 ---
 title: Ripristinare i privilegi di amministratore per Azure CSP
 ms.topic: how-to
-ms.date: 04/08/2021
+ms.date: 05/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come aiutare i clienti a ripristinare i privilegi di amministratore di un partner in modo che il partner possa contribuire alla gestione delle sottoscrizioni di Azure CSP di un cliente.
+description: Informazioni su come aiutare i clienti a ripristinare i privilegi di amministratore di un partner in modo che il partner possa gestire le sottoscrizioni di Azure Cloud Solution Provider (CSP) di un cliente.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ad29283001ec542944da4f0cac835c6a5d339251
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5d784aef33cce2a722583a77e73c35d5fc8136b1
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855421"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551589"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Ripristinare i privilegi di amministratore per le sottoscrizioni di Azure CSP di un cliente  
 
-**Ruoli appropriati:** amministratore globale | Agente amministratore
+**Ruoli appropriati:** Amministratore globale | Agente amministratore
 
-Da un partner CSP come te, i clienti si aspettano in genere che tu gestisca l'utilizzo di Azure e i sistemi per loro conto. A tale scopo, è necessario disporre dei privilegi di amministratore. Alcuni privilegi vengono concessi quando viene stabilita la relazione come rivenditore con il cliente. mentre altri ti vengono concessi dal cliente.
+In quanto partner Cloud Solution Provider (CSP), i clienti spesso si aspettano di gestire l'utilizzo di Azure e i relativi sistemi. A tale scopo, è necessario disporre dei privilegi di amministratore. Alcuni privilegi vengono concessi quando viene stabilita la relazione del rivenditore con il cliente. mentre altri ti vengono concessi dal cliente.
 
 ## <a name="admin-privileges-for-azure-in-csp"></a>Privilegi di amministratore per Azure in CSP
 
 Esistono due livelli di privilegi di amministratore per Azure in CSP.
 
-**Privilegi di amministratore a livello di tenant** (**privilegi di amministratore con delega**): i partner CSP ottengono questi privilegi quando stabiliscono la relazione di rivenditore CSP con i clienti. I privilegi di amministratore con delega consentono ai partner CSP di accedere ai tenant dei clienti, che consentono loro di eseguire funzioni amministrative come l'aggiunta/gestione di utenti, la reimpostazione delle password e la gestione delle licenze utente.
+- **Privilegi di amministratore a livello di** tenant (privilegi di amministratore delegato): i partner CSP ottengono questi privilegi stabilendo al tempo stesso una relazione di rivenditore CSP con i clienti. I privilegi di amministratore delegato offrono ai partner CSP l'accesso ai tenant dei clienti. Questo accesso consente loro di eseguire funzioni amministrative come l'aggiunta/gestione di utenti, la reimpostazione delle password e la gestione delle licenze utente.
+- **Privilegi di amministratore a livello di sottoscrizione:** i partner CSP ottengono questi privilegi durante la creazione Azure CSP sottoscrizioni per i clienti. Con questi privilegi, i partner CSP possono accedere a queste sottoscrizioni ed effettuare il provisioning e la gestione delle risorse di Azure.
 
-**Privilegi di amministratore a livello di sottoscrizione**: i partner CSP ottengono questi privilegi durante la creazione delle sottoscrizioni di Azure CSP per i clienti. Con questi privilegi, i partner CSP possono accedere a queste sottoscrizioni ed effettuare il provisioning e la gestione delle risorse di Azure.
+## <a name="reinstate-csp-a-partners-admin-privileges"></a>Ripristinare i privilegi di amministratore di un partner CSP
 
-## <a name="reinstate-csp-partners-admin-privileges"></a>Ripristinare i privilegi di amministratore dei partner CSP
+Il cliente può creare nuovamente l'assegnazione di ruolo CSP se si specifica il del gruppo `object ID` AdminAgents al cliente. Per ottenere nuovamente i privilegi di amministratore delegato, è necessario collaborare con il cliente seguendo questa procedura.
 
-Il cliente può creare nuovamente l'assegnazione di ruolo CSP, purché si fornisse l'ID oggetto del gruppo AdminAgents al cliente. Per ottenere nuovamente i privilegi amministrativi delegati, devi collaborare con il cliente.
+1. Accedere al dashboard Partner Center dati.
 
-1. Accedere al dashboard Partner Center e dal menu Partner Center selezionare **Clienti.**
+2. Nel menu Partner Center selezionare **Clienti**.
 
-2. Seleziona il cliente con cui stai collaborando e **richiedi una relazione di rivenditore**. Questa azione genera un collegamento al cliente che dispone dei diritti di amministratore del tenant.
+3. Selezionare il cliente con cui si sta lavorando e **richiedere una relazione di rivenditore.** Questa azione genera un collegamento al cliente con diritti di amministratore tenant.
 
-3. Il cliente deve selezionare il collegamento e approvare la richiesta di relazione come rivenditore.
+4. Il cliente deve selezionare il collegamento e approvare la richiesta di relazione con il rivenditore.
 
-   :::image type="content" source="images/azure/revoke4.png" alt-text="Esempio di messaggio di posta elettronica di creazione della relazione come rivenditore":::
+   :::image type="content" source="images/azure/revoke4.png" alt-text="Esempio di posta elettronica di creazione della relazione rivenditore.":::
 
-4. Il partner deve connettersi al tenant partner per ottenere l'ID oggetto del gruppo AdminAgents.
-
+5. Il partner deve connettersi al tenant partner per ottenere l'ID oggetto del gruppo AdminAgents.
   
-    ```powershell
+   ```powershell
+   Connect-AzAccount -Tenant "Partner tenant"
+   # Get Object ID of AdminAgents group
+   Get-AzADGroup -DisplayName AdminAgents
+   ```
 
-    PS C:\WINDOWS\system32> Connect-AzAccount -Tenant "Partner tenant"
-      Get Object ID of AdminAgents group
-   
+6. Il cliente deve quindi eseguire la procedura seguente usando PowerShell o l'interfaccia della riga di comando di Azure. Il cliente deve avere:
+
+- Ruolo del proprietario **o dell'amministratore** **dell'accesso utente** 
+- Autorizzazioni per creare assegnazioni di ruolo a livello di sottoscrizione
+
+   a. Solo per PowerShell, il cliente deve aggiornare il `Az.Resources` modulo.
+   ```powershell
+   Update-Module Az.Resources
+   ```
+
+   b. Il cliente si connette al tenant in cui è presente la sottoscrizione CSP.
+   ```powershell
+   Connect-AzAccount -TenantID "<Customer tenant>"
+   ```
+   ```azurecli
+   az login --tenant <Customer tenant>
+   ```
+
+   c. Il cliente si connette alla sottoscrizione. Questa opzione *è applicabile* solo se l'utente dispone di autorizzazioni di assegnazione di ruolo su più sottoscrizioni nel tenant.
+
+   ```powershell
+   Set-AzContext -SubscriptionID <"CSP Subscription ID">
+   ```
+   ```azurecli
+   az account set --subscription <CSP Subscription ID>
+   ```
+
+   d. Il cliente crea quindi l'assegnazione di ruolo.
     
+   ```powershell
+   New-AzRoleAssignment -ObjectID "<Object ID of the Admin Agents group provided by partner>" -RoleDefinitionName "Owner" -Scope "/subscriptions/'<CSP subscription ID>'"
+   ```
+   ```azurecli
+   az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>"
+   ```
 
-   S C:\WINDOWS\system32> Get-AzADGroup -DisplayName AdminAgents
-    ```
+Anziché concedere autorizzazioni di proprietario nell'ambito della sottoscrizione, è possibile concedere a livello di gruppo di risorse o di risorsa. 
 
+- A livello di gruppo di risorse
 
-5. Il cliente che ha il ruolo di proprietario o amministratore **accesso utenti** e ha l'autorizzazione per creare un'assegnazione di ruolo a livello di sottoscrizione esegue le operazioni seguenti:
+   ```powershell
+   New-AzRoleAssignment -ObjectID "<Object ID from step 3>" -RoleDefinitionName Owner -Scope "/subscriptions/'SubscriptionID of CSP subscription'/resourceGroups/'Resource group name'"
+   ```
+   ```azurecli
+   az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>//resourceGroups/<Resource group name>"
+   ```
 
+- A livello di risorsa
 
-    1. Si connette al tenant in cui è presente la sottoscrizione CSP.
-      ```powershell
-        PS C:\WINDOWS\system32> Connect-AzAccount -TenantID "Customer tenant"
-      ```
+   ```powershell
+   New-AzRoleAssignment -ObjectID "<Object ID from step 3>" -RoleDefinitionName Owner -Scope "<Resource URI>"
+   ```
+   ```azurecli
+   az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "<Resource URI>"
+   ```
 
-    2. Si connette alla sottoscrizione (applicabile solo se l'utente ha autorizzazioni di assegnazione di ruolo per più sottoscrizioni nel tenant).
-   
-         PS C:\WINDOWS\system32> Set-AzContext -SubscriptionID "CSP Subscription ID"'
-
-
-    3. Crea l'assegnazione di ruolo
-    
-    ```powershell
-      PS C:\WINDOWS\system32> New-AzRoleAssignment -ObjectID "Object ID of the Admin Agents group- needs to be provided by partner" -RoleDefinitionName "Owner" -Scope "/subscriptions/CSP subscription ID"
-    ```
-
-
-Se si vuole concedere l'autorizzazione del ruolo proprietario a livello di gruppo di risorse o di risorsa anziché a livello di sottoscrizione, è possibile usare i comandi seguenti:
-
+Se i passaggi precedenti non funzionano o si verificano errori durante il tentativo, provare la procedura "catch-all" seguente per ripristinare i diritti di amministratore per il cliente.
 
 ```powershell
-Grant owner role at resource group level
-
-   New-AzRoleAssignment -ObjectID "Object ID that you got from step 3" -RoleDefinitionName Owner -Scope "/subscriptions/"SubscriptionID of CSP subscription"/resourceGroups/"Resource group name"
-
-Grant owner role at resource level
-
-   New-AzRoleAssignment -ObjectID <Object ID that you got from step 3> -RoleDefinitionName Owner -Scope "Resource URI"
+Install-Module -Name Az.Resources -Force -Verbose
+Import-Module -Name Az.Resources -Verbose -MinimumVersion 4.1.1
+Connect-AzAccount -Tenant <customer tenant>
+Set-AzContext -SubscriptionId <customer subscriptions>
+New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<customer subscription>" -ObjectType "ForeignGroup"
 ```
+
+### <a name="troubleshooting"></a>Risoluzione dei problemi
+
+Se il cliente non è in grado di completare il passaggio 6 precedente, fare in modo che il cliente eserciti il comando seguente:
+
+```powershell
+New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<costumer subscription>" -ObjectType "ForeignGroup" -Debug > newRoleAssignment.log
+```
+
+Fornire il `newRoleAssignment.log` file risultante a Microsoft per un'ulteriore analisi.
+
+Se la procedura "catch-all" ha esito negativo durante `Import-Module` , provare a seguire questa procedura:
+- Se l'importazione non riesce perché il modulo è in uso, riavviare la sessione di PowerShell chiudendo e riaprendo tutte le finestre.
+- Controllare la versione `Az.Resources` di con `Get-Module Az.Resources -ListAvailable` .
+- Se la versione 4.1.1 non è in elenco disponibile, è necessario usare `Update-Module Az.Resources -Force` .
+- Se l'errore indica che deve essere una versione specifica, aggiornare anche il `Az.Accounts` modulo, sostituendo con `Az.Resources` `Az.Accounts` . È quindi necessario riavviare la sessione di PowerShell.
 
 
 ## <a name="next-steps"></a>Passaggi successivi

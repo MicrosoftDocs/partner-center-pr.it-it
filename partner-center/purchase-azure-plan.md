@@ -9,18 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e0a5626c4c1efd5eb07a8e948694b84d48b66f3b
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854962"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013336"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Acquistare il piano di Azure per i clienti e accedere ai servizi di Azure più recenti con pagamento in base al consumo
 
-**Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti | Agente di vendita
+**Si applica a**: Partner Center 
 
-Quando acquisti un piano di Azure per i clienti in base al contratto del cliente Microsoft, puoi accedere al catalogo completo dei servizi di Azure più recenti a tariffe con pagamento in base al consumo. I partner CSP potranno ora accedere a qualsiasi servizio di Azure quando diventa disponibile a livello generale. In un piano di Azure un partner può avere più sottoscrizioni di Azure. 
+**Ruoli appropriati:** amministratore globale | Amministratore gestione utenti | Agente di vendita
+
+Quando acquisti un piano di Azure per i clienti in base al contratto del cliente Microsoft, puoi accedere al catalogo completo dei servizi di Azure più recenti a tariffe con pagamento in base al consumo. Cloud Solution Provider partner (CSP) saranno ora in grado di accedere a qualsiasi servizio di Azure quando diventa disponibile a livello generale. In un piano di Azure un partner può avere più sottoscrizioni di Azure. 
 
 ## <a name="countryregion-availability"></a>Disponibilità per Paese/area geografica
 
@@ -31,9 +33,9 @@ Si prevede che la nuova esperienza commerciale in CSP per Azure sia disponibile 
 La modalità di acquisto del piano di Azure è simile all'acquisto di qualsiasi altra sottoscrizione. La differenza principale consiste nel fatto che, prima di inviare effettivamente l'ordine, devi verificare che il cliente abbia firmato il contratto del cliente Microsoft.
 
 1. Seleziona **Segmento: Commerciale** e digita **Microsoft Azure**. 
-2. In Piano di Azure seleziona **Aggiungi al carrello**.
+2. In Piano di Azure selezionare **Aggiungi al carrello**
 
-:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Acquisto":::
+:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="acquista.":::
 
 Il partner deve verificare che il cliente abbia esaminato e accettato le condizioni del contratto del cliente Microsoft. Per altre informazioni su come eseguire questa operazione, leggi [Verificare l'accettazione da parte del cliente del contratto del cliente Microsoft](confirm-customer-agreement.md). Altre risorse sono disponibili nella [raccolta delle risorse](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
@@ -76,9 +78,9 @@ Le prenotazioni di Azure devono essere associate a un piano di Azure attivo. Sce
 >Se il cliente non ha ancora un piano di Azure attivo, seleziona Azure per aggiungerne uno ora. Per altre istruzioni, leggi [Acquista prenotazioni di Azure](azure-reservations-buying.md#purchase-azure-reservations).
 
 >[!Note]
->Attualmente, nel Centro per i partner l'ambito di una prenotazione può essere impostato solo su **Condiviso**. Per selezionare l'ambito di sottoscrizione singola o l'aggiornamento dall'ambito condiviso a quello di sottoscrizione **singola, passare Microsoft Azure portale** di gestione seguendo le istruzioni seguenti. 
+>Attualmente, nel Centro per i partner l'ambito di una prenotazione può essere impostato solo su **Condiviso**. Per selezionare l'ambito di una singola sottoscrizione o eseguire l'aggiornamento dall'ambito condiviso a quello di sottoscrizione **singola, passare Microsoft Azure portale** di gestione seguendo queste istruzioni. 
 
-:::image type="content" source="images/azure/addprods1.png" alt-text="Impostazione ambito condiviso delle prenotazioni":::
+:::image type="content" source="images/azure/addprods1.png" alt-text="Impostazione delle prenotazioni con ambito condiviso.":::
 
 Per gestire la prenotazione del cliente nel portale di Azure: 
 
@@ -90,12 +92,12 @@ Per gestire la prenotazione del cliente nel portale di Azure:
 
 Nella sezione Basato sull'utilizzo della pagina **Sottoscrizioni** espandi **Piano di Azure** per visualizzare le sottoscrizioni di Azure associate nel piano di Azure.
 
-:::image type="content" source="images/azure/addprods2.png" alt-text="Visualizzazione dell'elenco delle sottoscrizioni di Azure"::: 
+:::image type="content" source="images/azure/addprods2.png" alt-text="Visualizzare l'elenco delle sottoscrizioni di Azure."::: 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Aggiungere sottoscrizioni e configurare risorse
 
-Nel portale di Azure potrai aggiungere sottoscrizioni e configurare risorse per il cliente. Potrai anche separare l'ambiente del cliente in base al carico di lavoro o al progetto. È possibile gestire le sottoscrizioni tramite [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) e tramite il portale di Azure. 
+Nel portale di Azure potrai aggiungere sottoscrizioni e configurare risorse per il cliente. Potrai anche separare l'ambiente del cliente in base al carico di lavoro o al progetto. È possibile gestire le sottoscrizioni [tramite](https://azure.microsoft.com/services/azure-lighthouse/) Azure Lighthouse e il portale di Azure. 
 
 Per gestire le risorse e le sottoscrizioni del cliente, devi avere i privilegi di **Amministratore per conto terzi** (AOBO, Admin on Behalf Of). Per informazioni sulla gestione dell'accesso, leggi [Gestire sottoscrizioni e risorse nel piano di Azure](azure-plan-manage.md).
 

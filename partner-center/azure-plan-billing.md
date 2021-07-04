@@ -9,16 +9,16 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ab086a4d15d16f094e33d19b81f1c93711916dc
-ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
+ms.openlocfilehash: c7c06f5ed7b147625afb5020f63ead411ef58fa8
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110201426"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551521"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nuova esperienza commerciale in CSP - Fatturazione di Azure 
 
-**Ruoli appropriati:** agente di amministrazione | Amministratore fatturazione | Amministratore globale
+**Ruoli appropriati:** Agente di amministrazione | Gestione della fatturazione | Amministratore globale
 
 Questo articolo illustra come accedere e ottenere informazioni sulla struttura dei file di fatturazione e di riconciliazione correlata alla fatturazione per il piano di Azure. La fatturazione in base al piano di Azure è un'esperienza semplificata che prevede l'uso di una singola data di fatturazione allineata e di un periodo di fatturazione basato sul mese di calendario.
 
@@ -48,7 +48,7 @@ Per accedere alla fattura e al file di riconciliazione:
 
 3. Seleziona la scheda per **Ricorrente** e **Occasionale** e la valuta di tuo interesse.
 
-   :::image type="content" source="images/azure/billing3.png" alt-text="fatturazione":::
+   :::image type="content" source="images/azure/billing3.png" alt-text="Fatturazione.":::
 
 4. Seleziona **Fattura** o il file **Reconciliation** (Riconciliazione).  
 
@@ -102,7 +102,7 @@ Per accedere alla fattura e al file di riconciliazione:
 
 5. Per altri dettagli sulla fatturazione, esamina il file di riconciliazione della fattura e il file sull'utilizzo valutato su base giornaliera.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="fattura":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="Fattura.":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Leggere il file di riconciliazione della fattura
 
@@ -115,7 +115,7 @@ Per accedere alla fattura e al file di riconciliazione:
 4. Se il contatore, o qualsiasi risorsa che genera tale contatore, è idoneo al **credito ottenuto dai partner per i servizi gestiti** per una parte del mese, il file di riconciliazione conterrà due righe di fatturazione. Una riga rappresenterà i giorni per i quali il contatore è idoneo e la seconda rappresenterà i giorni per i quali non lo è.
 
 >[!NOTE]
->È possibile riconciliare il consumo di Azure nel file di riconciliazione di acquisto una sola volta. A tale scopo, passare al file di ricognizione con valutazione giornaliera e cercare subscriptionID. Verranno visualizzati tutti i costi associati all'ID piano di Azure. L'ID sottoscrizione di Azure viene visualizzato come EntitlementID.
+>È possibile riconciliare il consumo di Azure nel file di ricognizione di acquisto una sola volta. A tale scopo, passare al file di ricognizione sull'utilizzo con valutazione giornaliera e cercare SubscriptionID. Verranno visualizzati tutti i costi associati all'ID piano di Azure. L'ID sottoscrizione di Azure viene visualizzato come EntitlementID.
 
 ## <a name="read-the-daily-usage-file"></a>Leggere il file sull'utilizzo giornaliero
 
@@ -133,13 +133,15 @@ Per accedere alla fattura e al file di riconciliazione:
 
   - Il contatore è idoneo al **credito ottenuto dai partner per i servizi gestiti** nel periodo 08/07-31/07. Si noti che il prezzo unitario effettivo equivale al prezzo al dettaglio meno il credito ottenuto dai partner.
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="riconciliazione2":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2.":::
 
 ## <a name="invoice-in-customer-currency"></a>Fattura nella valuta del cliente
 
 I prezzi per i servizi di Azure forniti tramite un piano di Azure verranno addebitati in USD e fatturati in base alla valuta assegnata al paese del cliente. Se la valuta di fatturazione è diversa da USD, il tasso di cambio (FX) usato verrà visualizzato nell'ultima pagina della fattura. I tassi di cambio vengono determinati mensilmente e applicati alla fattura successiva. Per un elenco completo delle valute dei paesi, vedi la [nuova matrice di disponibilità delle offerte commerciali nelle varie aree geografiche e valute dei clienti](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Microsoft segue la quotazione a Londra per la conversione. Viene utilizzato il tasso di cambio, che è uguale al tasso di cambio acquisito nell'ultimo secondo dell'ultimo giorno lavorativo del mese alla Londra Stock Exchange. I tassi di cambio verranno aggiornati e saranno disponibili il giorno precedente il primo giorno del mese in cui verranno applicati.
+Microsoft applica un tasso di cambio predeterminato ai prezzi usd di base per arrivare agli addebiti totali sostenuti per i servizi di Azure acquistati o utilizzati ogni mese di calendario. Il tasso di cambio mensile è il tasso medio pubblicato da Thomson Reuters (in genere) due giorni lavorativi prima della fine del mese precedente alle 16:00 GMT. 
+
+**Ad esempio,** Il tasso di cambio di dicembre di Microsoft sarà il tasso medio di Thomson Reuters il 29 novembre o circa per una determinata valuta. Tale tasso verrà applicato a tutti gli acquisti in tale valuta dal 1° dicembre al 31 dicembre. 
 
 ## <a name="azure-reservations"></a>Prenotazioni di Azure
 
@@ -157,7 +159,7 @@ L'esperienza di spesa di Azure è stata aggiornata per supportare la nuova fattu
 
 Poiché il modello di fatturazione per i servizi di Azure tramite un piano di Azure riguarda un tipo di utilizzo con pagamento posticipato, per evitare di ricevere una fattura di importo maggiore del previsto, i partner possono definire un budget mensile e tenere traccia della percentuale di utilizzo. Un budget può essere applicato a un solo cliente o contemporaneamente a più clienti. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="Spese di Azure":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Spesa di Azure.":::
 
 ## <a name="next-steps"></a>Passaggi successivi
 

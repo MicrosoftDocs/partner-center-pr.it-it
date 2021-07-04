@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5173526d0f65623311d5cd3a1061e8b9e93e9bb9
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9cdb83c8b58b75606275c9773cba79eba75d5d0d
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151628"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450807"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Configurare gli utenti con l'autenticazione a più fattori
 
@@ -34,12 +34,12 @@ Per completare questa attività, è necessario essere l'amministratore globale d
 
 Verrà abilitata l'autenticazione a più fattori per l'utente. L'opzione Abilitato indica che all'utente verrà chiesto di impostare la verifica dell'autenticazione a più fattori al primo accesso. Successivamente, al momento dell'accesso, verrà chiesto di fornire un codice ricevuto tramite posta elettronica o SMS, a seconda dell'impostazione fornita.  
 
-:::image type="content" source="images/MFA/securityverification.png" alt-text="Specificare i dati per la verifica":::
+:::image type="content" source="images/multi-factor-authentication/security-verification.png" alt-text="Specificare la modalità di verifica.":::
 
 >[!NOTE]
 >Per consentire agli utenti di usare l'autenticazione a più fattori, è possibile usare l'opzione **Applica** seguendo la stessa procedura illustrata in precedenza e selezionando **Applica**. Per altre informazioni, vedere [Abilitare Azure Multi-Factor Authentication per singolo utente per proteggere gli eventi di accesso](/azure/active-directory/authentication/howto-mfa-userstates). 
 
-Lo stato iniziale di tutti gli utenti è  **Disabilitato**. Quando si registrano gli utenti in multi-Azure Active Directory Multi-Factor Authentication, lo stato cambia in **Abilitato.** Quando gli utenti abilitati eseguono l'accesso e completano il processo di registrazione, il relativo stato viene modificato in  **Applicato**. 
+Lo stato iniziale di tutti gli utenti è  **Disabilitato**. Quando si registrano utenti in Azure Active Directory Multi-Factor Authentication, il relativo stato viene modificato in **Abilitato**. Quando gli utenti abilitati eseguono l'accesso e completano il processo di registrazione, il relativo stato viene modificato in  **Applicato**. 
 
 ## <a name="next-steps"></a>Passaggi successivi
 

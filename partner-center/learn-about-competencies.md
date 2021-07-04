@@ -9,16 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24dd96126ab96b3e3790e9ebc00c128cac07ad24
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
+ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146596"
+ms.lasthandoff: 06/28/2021
+ms.locfileid: "112989343"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Differenziare le attività aziendali con l'acquisizione di competenze Microsoft
 
-**Ruoli appropriati:** amministratore globale | Amministratore gestione utenti
+**Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti
 
 Dimostra la tua comprovata esperienza nella fornitura di soluzioni di qualità in uno o più settori specifici di business. Le competenze Microsoft sono concepite per prepararti a soddisfare le esigenze dei tuoi clienti e aiutarti ad attirare nuovi clienti in cerca di provider di soluzioni Microsoft Certified. Entra nell'élite dei partner Microsoft e distinguiti dal gruppo.
 
@@ -67,8 +67,8 @@ Per altre informazioni sui requisiti necessari per acquisire le competenze Silve
 
 - Vedere le informazioni su [fatture e imposte relative alle competenze](mpn-view-print-maps-invoice.md).
 
-- Informazioni su come pagare [la tariffa associata](mpn-pay-fee-silver-gold-competency.md) all'appartenenza a una competenza Silver o Gold.
+- Informazioni su come [pagare la tariffa associata](mpn-pay-fee-silver-gold-competency.md) a un'appartenenza a competenze silver o gold.
 
 - Visualizzare un [report delle competenze](pci-competencies-report.md) in Insights del Centro per i partner che mostra lo stato corrente delle competenze.
 
-- Consultare le risposte alle [domande frequenti](competencies-faq.md) relative alle competenze.
+- Consultare le risposte alle [domande frequenti](competencies-faq.yml) relative alle competenze.

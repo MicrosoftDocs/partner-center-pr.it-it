@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: 9d34a8e7674d178dc3217e36cee25b2d9ad6c36a
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 06/18/2021
+ms.openlocfilehash: 101d67e42970e0aab4b2ea8bf0bc230cf57109d1
+ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740353"
+ms.lasthandoff: 06/21/2021
+ms.locfileid: "112424993"
 ---
 # <a name="december-2020-announcements"></a>Annunci di dicembre 2020
 
@@ -113,7 +113,7 @@ Tenere presente che tutti gli altri file di listino prezzi sono pianificati per 
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-In breve, i file dei prezzi seguenti saranno disponibili come di consueto il 31 dicembre 2020 alle 18.00 (ora solare Pacifico):
+In breve, i file dei prezzi seguenti saranno disponibili come di consueto il 31 dicembre 2020, alle 18:00 PST circa:
 
 - File di listino prezzi e matrice dell'elenco offerte basati su licenza
 - File dei prezzi basati sull'utilizzo, ma solo con aggiornamenti fino al 21 dicembre 2020
@@ -226,7 +226,7 @@ Microsoft si impegna a fornire un metodo di convalida dei clienti conforme e sic
 
 I partner che soddisfano i criteri doranno inviare l'ID registrazione aziendale di un cliente (noto anche come INN dell'organizzazione del cliente) e il numero di telefono al successivo aggiornamento o creazione di una sottoscrizione per tale cliente. I partner possono anche immettere un secondo nome facoltativo per il cliente.
 
-Si noti che quando si aggiunge l'ID registrazione aziendale, è necessario usare l'ID imposta aziendale e non l'ID personale del cliente.
+Si noti che quando si aggiunge l'ID registrazione aziendale, è necessario usare l'ID fiscale aziendale e non l'ID personale del cliente.
 
 I partner che svolgono attività con clienti nuovi o esistenti nei paesi seguenti hanno già eseguito l'onboarding di una versione precedente a novembre 2020.
 
@@ -242,7 +242,7 @@ I partner che svolgono attività con clienti nuovi o esistenti nei paesi seguent
 - Ucraina
 - Uzbekistan
 
-I partner con clienti nel resto del mondo avranno la possibilità di immettere l'ID di registrazione della società, il numero di telefono e il secondo nome per i clienti come dettagli facoltativi.
+I partner con clienti nel resto del mondo avranno la possibilità a fine marzo 2021 di immettere l'ID di registrazione della società, il numero di telefono e il secondo nome per i clienti come dettagli facoltativi.
 
 ### <a name="next-steps"></a>Passaggi successivi
 
@@ -295,7 +295,7 @@ Nella stessa data, si verificherà anche quanto segue:
 
 - Il listino prezzi del software con licenza perpetua CSP verrà ripubblicato nel Centro per i partner. È disponibile nella sezione **Software** della pagina [Vendi > Prezzi e offerte](https://partnercenter.microsoft.com/pcv/sales), che contiene altri prodotti e aree geografiche. Per i dettagli completi, vedere [qui](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- La funzionalità Partner Center di adempimento del software [](./2020-september.md#17) e della chiave di licenza di Partner Center verrà ritirata - vedere l'annuncio - e i partner includono i clienti a usare l'interfaccia di amministrazione di Microsoft 365 esclusivamente a questo scopo in futuro. Ciò garantisce un'esperienza più sicura ed efficiente per i clienti stessi. Altre informazioni sul software dell'interfaccia di amministrazione di Microsoft 365 sono disponibili nelle sezioni relative a [informazioni generali](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [attività comuni](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) e [funzionalità di evasione dei codici di licenza](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- La Partner Center di adempimento del software e della chiave di licenza di Partner Center verrà ritirata - vedere l'annuncio [-](./2020-september.md#17) e i partner instranno i clienti a usare il centro di Amministrazione Microsoft 365 esclusivamente a questo scopo in futuro. Ciò garantisce un'esperienza più sicura ed efficiente per i clienti stessi. Altre informazioni sul software dell'interfaccia di amministrazione di Microsoft 365 sono disponibili nelle sezioni relative a [informazioni generali](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [attività comuni](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) e [funzionalità di evasione dei codici di licenza](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Software con licenza perpetua in CSP
 
@@ -321,7 +321,7 @@ Per altre domande su queste offerte, vedere le community Yammer pertinenti.
 
 - 17 dicembre 2020: pubblicazione originale 
 
-- 5 marzo 2021: aggiunta una nota nella parte superiore relativa al ripristino della funzionalità di adempimento del software Partner Center e della chiave di licenza.
+- 5 marzo 2021: aggiunta una nota nella parte superiore relativa alla reintegrazione della funzionalità di adempimento del codice Partner Center software e della chiave di licenza.
 
 ______________
 
@@ -368,7 +368,7 @@ L'offerta promozionale di Power Apps, pianificata inizialmente per il 1° dicemb
 - L'offerta sarà disponibile per l'acquisto fino al 30 giugno 2021.
 - L'offerta ha una durata di 12 mesi a un prezzo ridotto, come altre offerte CSP.
 - Questa offerta non verrà rinnovata automaticamente e scadrà alla fine del periodo di 12 mesi. Inizialmente, la proprietà di rinnovo automatico verrà impostata su **True** ma verrà modificata, in modo che l'offerta scada alla fine del periodo di 12 mesi.
-- I partner dovranno acquistare l'offerta al prezzo non promozionale (ID offerta: 5e1087b6-246B-4503-b88a-b60bdf0b3840) prima della scadenza del periodo di 12 mesi, se vogliono continuare a usare i servizi forniti dall'offerta promozionale iniziale.
+- I partner dovranno acquistare l'offerta senza prezzo promozionale (ID offerta: 5e1087b6-246b-4503-b88a-b60bdf0b3840) prima della scadenza di 12 mesi se vogliono continuare a usare i servizi forniti dall'offerta promo iniziale.
 
 **Dettagli sui prezzi**
 
@@ -397,8 +397,7 @@ I dettagli dell'offerta indicati di seguito saranno disponibili nella matrice de
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-- L'offerta promozionale sarà disponibile nella matrice dell'elenco di offerte e nel listino prezzi basato su licenza CSP ufficiale del Centro per i partner il 1° gennaio 2021. 
-- Le domande relative a questa promozione possono essere pubblicate nell'[annuncio della community Microsoft](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
+- L'offerta promozionale sarà disponibile il 1° gennaio 2021, il listino prezzi ufficiale del Centro per i partner CSP e la matrice del listino di offerte.
 
 ______________
 

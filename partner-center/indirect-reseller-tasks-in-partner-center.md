@@ -1,21 +1,20 @@
 ---
 title: Usare provider indiretti nel programma CSP
+description: Informazioni su come i rivenditori indiretti possono collaborare con i provider indiretti (o distributori) Microsoft per ottenere assistenza su supporto tecnico e fatturazione dei clienti.
 ms.topic: how-to
-ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informazioni su come i rivenditori indiretti possono collaborare con i provider indiretti (o distributori) Microsoft per ottenere assistenza su supporto tecnico e fatturazione dei clienti.
-ms.prod: ''
 ms.custom: contperf-fy21q2
+ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
-ms.localizationpriority: high
-ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.date: 01/27/2021
+ms.openlocfilehash: f460ab4a692c9e8b515e361f3a18c4c240177b62
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880787"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450841"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informazioni per collaborare con provider indiretti nel programma Cloud Solution Provider
 
@@ -67,7 +66,6 @@ Da ottobre 2020 tutti i partner Microsoft nuovi per CSP effettueranno l'iscrizio
 2. Rivedi la **pagina iniziale** per assicurarti di avere le informazioni necessarie per l'iscrizione e quindi seleziona **Successiva**.
 
 3. Eseguire l'accesso con l'account aziendale, ovvero con il nome utente e la password usati per accedere come amministratore globale per Office 365, Microsoft Azure o Microsoft Dynamics CRM. Se non si dispone di un account aziendale, selezionare **Crearne uno** per configurarne uno adesso. Dopo aver creato un account aziendale, accedere usando le credenziali di amministratore globale per il nuovo account.
-  
 
 4. Fornire o aggiornare il profilo legale aziendale della società, le informazioni del contatto principale e quelle dell'assistenza clienti. Per trovare le informazioni aziendali legali, selezionare **Profilo dell'organizzazione** e quindi **Informazioni legali**. Selezionare **Registrati ora**.
 
@@ -76,32 +74,28 @@ Da ottobre 2020 tutti i partner Microsoft nuovi per CSP effettueranno l'iscrizio
    > [!IMPORTANT]  
    > Per garantire la sicurezza e la privacy della tua azienda, invieremo un'e-mail al contatto principale per verificare che (1) abbia effettuato la registrazione per ottenere un account del Centro per i partner e che (2) l'indirizzo e-mail appartenga all'azienda. Dopo la verifica dell'indirizzo di posta elettronica del contatto principale, continueranno le verifiche delle informazioni fornite. Gli aggiornamenti sullo stato della registrazione verranno inviati tramite posta elettronica al contatto principale.
 
-5. Associare l'ID MPN all'account CSP. L'account CSP e l'ID MPN associato devono trovarsi nello stesso paese e l'ID MPN deve trovarsi nel centro per i partner.
+5. Associare l'ID MPN all'account CSP. L'account CSP e l'ID MPN associato devono trovarsi nello stesso paese e l'ID MPN deve trovarsi nello stesso Partner Center.
   
+   1. Accedere Partner Center con le credenziali dell'account "MPN". Le credenziali MPN potrebbero essere diverse dalle credenziali CSP.
 
-   a. Accedere al centro per i partner con le credenziali dell'account "MPN" (le credenziali MPN potrebbero essere diverse da quelle del provider di credenziali).
-   
-   b. Passare a **Impostazioni** impostazioni  ->  **account**  ->    ->  **identificatori** profilo organizzazione.
- 
-    c. Trovare l'ID MPN con il tipo "location" corrispondente al paese di questo account CSP. 
+   2. Passare **a** Impostazioni  ->  **Account Impostazioni** Organization  ->  Profile Identifiers (Identificatori **dei profili dell'organizzazione).**  ->  
 
-    d. Se non è possibile trovare l'ID MPN della località che corrisponde all'account CSP da usare, è possibile aggiungere un nuovo percorso che creerà un nuovo ID MPN. Altre informazioni, [gestire i percorsi](manage-locations.md).
+   3. Trovare l'ID MPN con il tipo "Location" corrispondente al paese di questo account CSP.
 
-    e. È possibile posticipare questo passaggio per il momento, tuttavia, non sarà possibile firmare Microsoft Partner Agreement (MPA) o Transact in CSP, fino a quando non si completa l'associazione dell'ID MPN all'account CSP.
+   4. Se non è possibile trovare l'ID MPN della posizione corrispondente all'account CSP che si vuole usare, è possibile aggiungere una nuova posizione che creerà un nuovo ID MPN. Per altre informazioni, [vedere Gestire le posizioni.](manage-locations.md)
 
- > [!IMPORTANT]  
- > Selezionare l'ID MPN disponibile nel centro per i partner e nello stesso paese dell'account CSP e assicurarsi che l'ID MPN si trovi nel centro per i partner.
+   5. È possibile rimandare questo passaggio per il momento, ma non sarà possibile accedere Contratto Microsoft Partner (MPA) o eseguire transazioni in CSP, fino a quando non si completa l'associazione dell'ID MPN all'account CSP.
 
-6. Dopo che Microsoft ha completato la verifica della registrazione che richiede 3-5 giorni lavorativi, firmare il contratto per i partner Microsoft nella [Panoramica del dashboard del centro](https://partner.microsoft.com/pcv/dashboard/overview) per i partner usando le credenziali di amministratore globale. Per visualizzare e scaricare il **contratto per i partner Microsoft** prima di firmarlo, fare clic sul collegamento Microsoft Partner Agreement come illustrato di seguito.  Se il tuo account è bloccato nella verifica dopo 5 giorni lavorativi, leggi [il processo di verifica dell'account](verification-responses.md).
+   > [!IMPORTANT]
+   > Selezionare l'ID MPN disponibile in Partner Center e nello stesso paese dell'account CSP e assicurarsi che l'ID MPN sia in Partner Center.
 
+6. Dopo che Microsoft ha completato la verifica della registrazione, che richiede 3-5 giorni lavorativi, firmare il Contratto Microsoft Partner nella panoramica del [dashboard Partner Center](https://partner.microsoft.com/pcv/dashboard/overview) usando le credenziali di amministratore globale. Per visualizzare e scaricare **il** Contratto Microsoft Partner prima di firmarlo, fare clic sul collegamento Contratto Microsoft Partner come illustrato di seguito.  Se l'account è bloccato nella verifica dopo 5 giorni lavorativi, leggere [Processo di verifica dell'account.](verification-responses.md)
 
-:::image type="content" source="images/agreement-three.png" alt-text="Nuova posizione dell'accordo MPA":::
+   :::image type="content" source="images/agreement-three.png" alt-text="Nuova posizione del contratto MPA.":::
 
- 
-7. Confermare di aver firmato il Contratto Microsoft Partner nella sezione **Info sul programma** del profilo partner. Verrà anche visualizzata una notifica banner di conferma nella pagina Panoramica di CSP. 
+7. Verificare di aver firmato l'Contratto Microsoft Partner nella sezione **Informazioni programma** del profilo partner. Verrà anche visualizzata una notifica banner di conferma nella pagina Panoramica di CSP.
 
-:::image type="content" source="images/mpagreen.png" alt-text="Banner verde di accettazione":::
-
+   :::image type="content" source="images/microsoft-partner-agreement-green.png" alt-text="Banner verde accettato.":::
 
 8. Quando l'account del Centro per i partner sarà pronto per l'uso, verifica di essere stato aggiunto al gruppo Agente amministratore. Per completare la configurazione dell'account, inclusa l'aggiunta di altri utenti, è necessario disporre delle autorizzazioni di Agente amministratore. Per visualizzare o aggiornare le autorizzazioni, attenersi alla procedura seguente:
 
@@ -139,10 +133,9 @@ Qualora un provider indiretto intenda entrare in contatto con te nel Centro per 
 
 La sede aziendale legale come rivenditore indiretto CSP determina i provider indiretti con i quali è possibile collaborare e le aree geografiche in cui è possibile operare come CSP. Per altre informazioni, vedere [Mercati e valute delle aree geografiche del programma Cloud Solution Provider in cui è possibile vendere le offerte CSP](regional-authorization-overview.md).
 
-
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Come i provider indiretti possono aiutare i rivenditori ad adottare il contratto per i partner Microsoft-domande frequenti](mpa-indirect-provider-faq.md)
+- [Come i provider indiretti possono aiutare i rivenditori ad adottare il Contratto Microsoft Partner - Domande frequenti](mpa-indirect-provider-faq.md)
 
 - [Contratto Microsoft Partner](microsoft-partner-agreement.md)
 
@@ -157,4 +150,3 @@ La sede aziendale legale come rivenditore indiretto CSP determina i provider ind
 - [Vedere le informazioni sul processo di verifica](verification-responses.md)
 
 - [Vedere i requisiti del partner con fatturazione diretta](direct-partner-new-requirements.md)
-

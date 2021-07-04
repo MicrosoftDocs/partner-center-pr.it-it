@@ -8,17 +8,17 @@ author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.date: 11/25/2019
-ms.openlocfilehash: a06a38ef9d96b4c2a1e95328d510eb2fd71ff0e3
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 6/17/2021
+ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149843"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112318062"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Creare un account aziendale per collegare l'azienda al Centro per i partner
 
-**Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti
+**Ruoli appropriati:** amministratore globale | Amministratore gestione utenti
 
 ## <a name="why-you-need-a-work-account"></a>Perché è necessario un account aziendale
 
@@ -31,7 +31,7 @@ L'indirizzo e-mail aziendale o quello dell'account aziendale è l'indirizzo e-ma
 Se hai più indirizzi e-mail aziendali validi, usa quello associato alla sede centrale dell'azienda anziché al reparto regionale, ad esempio usa `contoso.com` anziché `contoso.uk`.
 
 > [!NOTE]  
-> Prima di decidere di usare un account aziendale esistente, valuta il numero di utenti dell'account che dovranno usare il Centro per i partner. Se nell'account sono presenti utenti che non dovranno lavorare nel Centro per i partner, valuta la possibilità di creare un nuovo account solo per gli utenti che dovranno usare il Centro per i partner.
+> Prima di usare un account aziendale esistente, è necessario riflettere sul numero di utenti nell'account aziendale che dovranno accedere Partner Center. Se nell'account aziendale sono presenti utenti che non dovranno accedere a Partner Center, è consigliabile creare un nuovo account solo per gli utenti che dovranno accedere Partner Center lavoro.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Se non si è certi che l'azienda abbia già un account aziendale
 
@@ -39,7 +39,7 @@ Se non sei certo che l'azienda abbia un account aziendale, verifica questo aspet
 
 1. Accedi al [portale di Azure](https://portal.azure.com).
 
-2. Seleziona Azure Active Directory dal menu e quindi seleziona Nomi di dominio.
+2. Selezionare Azure Active Directory dal menu di spostamento e selezionare Custom Domain **nomi.**
 
 3. Se hai già un account aziendale, il nome del tuo dominio verrà visualizzato nell'elenco.
 

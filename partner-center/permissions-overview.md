@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: b1ac34bbb92d600805465ca5f6d1b28af54cd5e1
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 582fdc98617be7d82c0bc61a0bf46ceb662954d3
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855132"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565084"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Assegnare ruoli utente e autorizzazioni per gli utenti di un'azienda che devono usare il Centro per i partner
 
@@ -24,10 +24,10 @@ Ormai hai configurato il tuo profilo di partner, inclusi la ragione sociale e l'
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Configurare i dipendenti in modo che possano lavorare nel Centro per i partner
 
-Puoi determinare i tipi di accesso al Centro per i partner di cui dispongono gli utenti assegnando loro ruoli e autorizzazioni specifici. I ruoli sono correlati ai programmi in cui è coinvolta la tua azienda. Ad esempio, se si tratta di un'azienda CSP (Cloud Solution Provider), non solo si avranno i ruoli di gestione del tenant di Azure Active Directory standard (tra cui il ruolo di amministratore globale), ma saranno necessari anche ruoli specifici del programma CSP. Ogni programma prevede ruoli specifici.
+Puoi determinare i tipi di accesso al Centro per i partner di cui dispongono gli utenti assegnando loro ruoli e autorizzazioni specifici. I ruoli sono correlati ai programmi in cui è coinvolta la tua azienda. Ad esempio, se l'azienda è un'azienda Cloud Solution Provider (CSP), non solo si avranno i ruoli di gestione tenant standard Azure Active Directory (Azure AD), ad esempio l'amministratore globale, ma saranno necessari ruoli specifici per il programma CSP. Ogni programma prevede ruoli specifici.
 
 >[!Note]
-> I ruoli relativi al tenant di Azure Active Directory includono l'amministratore globale, l'amministratore utenti e i ruoli CSP. I ruoli non Azure Active Directory sono i ruoli che non gestiscono il tenant e includono l'amministratore MPN, l'amministratore del profilo di business, l'amministratore delle segnalazioni, l'amministratore degli incentivi e l'utente di incentivi. 
+> Azure AD ruoli del tenant includono amministratore globale, amministratore utenti e ruoli CSP. I ruoli non Azure AD sono i ruoli che non gestiscono il tenant e includono l'amministratore partner MPN (Microsoft Partner Network), l'amministratore del profilo di business, l'amministratore delle segnalazioni, l'amministratore degli incentivi e l'utente incentivo. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gestire le transazioni commerciali nel Centro per i partner (ruoli Azure AD e CSP)
 
@@ -81,14 +81,14 @@ Puoi determinare i tipi di accesso al Centro per i partner di cui dispongono gli
 
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Fornitore del pannello di controllo (CPV) (ruolo CSP e ruolo non Azure Active Directory)
 
-I CPV sviluppano app destinate ai partner CSP (Cloud Solution Provider) affinché possano integrare i loro sistemi con le API del Centro per i partner. 
+I CSP sviluppano app per l'uso da parte dei partner CSP per consentire loro di integrare i propri sistemi con Partner Center API. 
 
 |**Ruolo**   |**Operazioni consentite**|**Altre informazioni**|
 |------------------------------|:----------------------------|----|
-|Amministratore globale| Visualizzazione e gestione del profilo dei fornitori di pannelli di controllo|[Iscriversi come fornitore del pannello di controllo per integrare i sistemi di partner CSP con le API del Centro per i partner](enroll-as-cpv.md)
+|Amministratore globale| Visualizzare e gestire il profilo Pannello di controllo vendor (CPV)|[Iscriversi come fornitore del pannello di controllo per integrare i sistemi di partner CSP con le API del Centro per i partner](enroll-as-cpv.md)
 ||Visualizzazione e gestione degli utenti che devono accedere alle funzionalità dei fornitori di pannelli di controllo|
 
-### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>Utente Guest (deve essere aggiunto al tenant Azure Active Directory)
+### <a name="guest-user-must-be-added-to-the-azure-ad-tenant"></a>Utente guest (deve essere aggiunto al tenant Azure AD)
 
 |**Utente guest**   | **Ruoli**|
 |---------------------------|:--------------------|
@@ -99,7 +99,7 @@ I CPV sviluppano app destinate ai partner CSP (Cloud Solution Provider) affinch�
 
 ## <a name="manage-mpn-membership-and-your-company"></a>Gestione dell'appartenenza a MPN e dell'azienda 
 
-Questi non sono ruoli Azure Active Directory. Questi ruoli gestiscono l'attività aziendale anziché il tenant.
+Questi ruoli non sono Azure AD ruoli. Questi ruoli gestiscono l'attività aziendale anziché il tenant.
 
 |**Ruolo** | **Operazioni consentite**|**Altre informazioni**|
 |----------------------------|:----------------------------|-----|
@@ -118,7 +118,7 @@ Questi non sono ruoli Azure Active Directory. Questi ruoli gestiscono l'attivit�
 ||*    Visualizzazione dei ticket di supporto per i partner creati
 |Amministratore degli account| Aggiunta di posizioni|[Gestire le sedi](manage-locations.md)
 || Gestione di profili relativi agli account amministrati 
-||*    Assegnazione di ruoli per gli utenti nel tenant a ruoli non Azure Active Directory 
+||* Assegnare ruoli per gli utenti nel tenant a ruoli non Azure-AD 
 ||*    Registrazione di posizioni nei programmi
 ||*    Creazione di ticket di supporto per il Centro per i partner
 ||*    Visualizzazione dei ticket di supporto per i partner creati

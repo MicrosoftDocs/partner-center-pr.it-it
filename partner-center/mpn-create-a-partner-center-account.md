@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 087ac3439d1eb96321fe8d084f62fcb5fe0a0717
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 7ee6f0cb6019dc68e4303a95bfa4f89727338b64
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276553"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353738"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Creare un account MPN in Partner Center gestire i vantaggi e le competenze di rete
 
@@ -36,8 +36,8 @@ Quando si è pronti per creare un account Partner Center, è necessario disporre
 
 - Per informazioni sul processo di verifica, vedere [Verifica dell'account.](verification-responses.md)
 
->[!NOTE]
->Se l'Microsoft Partner Network è ancora in Partner Membership Center (PMC), è necessario eseguire immediatamente la migrazione dell'account Partner Center. Scaricare la [guida dettagliata per eseguire la migrazione di](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
+> [!NOTE]
+> Se si aveva un account nel Partner Membership Center (PMC), ne è stata eseguita la migrazione Partner Center. Fare clic per altre informazioni sul [Partner Membership Center ritiro.](partner-membership-center-retirement-faq.md)
 
 ## <a name="get-started"></a>Introduzione
 
@@ -93,13 +93,13 @@ La tabella seguente contiene esempi dei numeri di registrazione raccolti per ogn
 | **Sud Africa** | TRN: numero di registrazione del traffico |
 | **Sud Sudan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) - Numero di identificazione fiscale |
 | **Tagikistan**  | INN : numero di identificazione fiscale<br>EIN : numero di identificazione del datore di lavoro<br>KPP: si tratta di un codice che riflette il motivo della registrazione dell'organizzazione. |
-| **Thailandia** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) - Numero di identificazione fiscale |
+| **Thailandia** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) : numero di identificazione fiscale |
 | **Turchia** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) : numero di identificazione fiscale<br>Nin |
 | **Ucraina**  | EGRPOU<br>EDRPOU - ID locale |
-| **Emirati Arabi Uniti** | ID imposta<br>[Numero di partita IVA:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) noto anche come numero di partita IVA. Numero univoco che identifica una persona imponibile (business) o una persona giuridica non imponibile registrata per l'IVA. |
+| **Emirati Arabi Uniti** | ID imposta<br>[Numero di partita IVA:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) noto anche come numero di partita IVA. Si tratta del numero univoco che identifica una persona imponibile (business) o una persona giuridica non imponibile registrata per l'IVA. |
 | **Stati Uniti** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) - Numero di identificazione del datore di lavoro |
 | **Uzbekistan**  | INN - Numero di identificazione fiscale |
-| **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) - Numero di identificazione fiscale |
+| **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) : numero di identificazione fiscale |
 | **Venezuela** | RIF: è un numero di imposta ("Registro de Identificación Fiscal") |
 
 

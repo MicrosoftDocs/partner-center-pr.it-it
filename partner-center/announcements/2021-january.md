@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: bd081c190b3bccb151c2c0cd5e470ad869eb78dd
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 07/02/2021
+ms.openlocfilehash: d0cf7815a38f5f98349cc67aecd2567cef906d43
+ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740302"
+ms.lasthandoff: 07/05/2021
+ms.locfileid: "113297687"
 ---
 # <a name="january-2021-announcements"></a>Annunci di gennaio 2021
 
@@ -35,11 +35,11 @@ _____________
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
-- Tutti i partner che ese Cloud Solution Provider il programma di transazione nell'unione europea/EFTA & Regno Unito
+- Tutti i partner che ese Cloud Solution Provider il programma & Regno Unito
 
 ### <a name="details"></a>Dettagli
 
-Nell'Unione Europea (UE)/European Free Trade Association (EFTA) e nel Regno Unito (Regno Unito), tutte le nuove offerte commerciali nel programma Cloud Solution Provider useranno la località di fatturazione dei partner anziché la località di fatturazione del cliente. Pertanto, i partner riceveranno fattura da Microsoft in base alla valuta della loro sede, non alla valuta della sede dei clienti. Queste modifiche verranno apportate in due fasi:
+Nell'Unione Europea (EU)/European Free Trade Association (EFTA) e nel Regno Unito (Regno Unito), tutte le nuove offerte commerciali nel programma Cloud Solution Provider useranno la località di fatturazione dei partner anziché la località di fatturazione del cliente. Pertanto, i partner riceveranno fattura da Microsoft in base alla valuta della loro sede, non alla valuta della sede dei clienti. Queste modifiche verranno apportate in due fasi:
 
 **Fase 1:**
 
@@ -58,7 +58,7 @@ Durante questa fase, i partner con clienti esistenti che hanno già acquistato n
 
 Dopo la Fase 1 e durante l'anno 2021, Microsoft eseguirà la transizione della fatturazione delle nuove offerte commerciali dalla valuta della sede del cliente alla valuta della sede del partner per i partner con clienti esistenti che hanno acquistato una nuova offerta commerciale in CSP prima della Fase 1, nonché per quelli con clienti i cui tenant sono stati creati l'11 maggio 2020 o successivamente. I partner riceveranno una notifica ben prima dell'implementazione di questa modifica.
 
-Dopo la fase 2, i partner dell'unione europea/EFTA & Regno Unito verranno fatturati nella valuta della località partner per tutti i clienti e tutti gli acquisti CSP.
+Dopo la fase 2, i partner dell'unione europea/EFTA & Regno Unito verranno fatturati nella valuta della località partner per tutti i clienti e per tutti gli acquisti CSP.
 
 >[!NOTE]
 >Questa modifica influirà solo sulla valuta di fatturazione dei partner e non sui prezzi delle nuove offerte commerciali in CSP. Le nuove offerte commerciali interessate da questa modifica sono: sottoscrizioni di Azure che fanno parte di un piano di Azure, prenotazioni di Azure, sottoscrizioni server, software con licenza perpetua e acquisti del marketplace commerciale Microsoft nel programma Cloud Solution Provider.
@@ -89,7 +89,7 @@ Per eventuali domande relative a questa notifica, contattare il [supporto tecnic
     -    Chiarimenti, anche se il Regno Unito non è incluso nell'UE/EFTA, fanno parte dell'area e del mercato [Microsoft Europa](../regional-authorization-overview.md) e saranno interessati
 
 ________________
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Modifiche ai requisiti di onboarding dei clienti Cloud Solution Provider (CSP)
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a>Modifiche ai requisiti di onboarding dei clienti Cloud Solution Provider (CSP)
 
 ### <a name="categories"></a>Categorie
 
@@ -155,7 +155,7 @@ I partner con i clienti del resto del mondo avranno la possibilità a fine marzo
 
 ### <a name="questions"></a>Domande?
 
-Contattare l'assistente fiscale o l'ufficio fiscale locale per eventuali domande relative all'ID di registrazione della società (detto anche INN o TIN). Microsoft non è in grado di fornire indicazioni sulle imposte.
+Contattare l'assistente fiscale o l'ufficio fiscale locale per eventuali domande relative all'ID di registrazione dell'azienda (detto anche INN o TIN). Microsoft non è in grado di fornire indicazioni sulle imposte.
 
 Se è necessario supporto per le operazioni con Microsoft, aprire una richiesta [di servizio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
@@ -165,44 +165,44 @@ Se è necessario supporto per le operazioni con Microsoft, aprire una richiesta 
 
 28 gennaio 2021: Repubblica; nessuna modifica.
 
-2 aprile 2021: gli aggiornamenti includono quanto segue:
+2 aprile 2021: Gli aggiornamenti includono quanto segue:
 
 - Data di avvio specificata
 - Il titolo dell'INN dell'organizzazione è stato aggiornato all'ID registrazione aziendale
-- Aggiunta di una nota per fornire chiarimenti per l'ID registrazione aziendale
+- Nota aggiunta per fornire chiarimenti per l'ID registrazione aziendale
 
 ________________
-## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Contratto Microsoft Partner (MPA): aggiornamento dei rivenditori indiretti & nuove domande frequenti 
+## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Contratto Microsoft Partner (MPA): aggiornamento indiretto dei rivenditori & nuove domande frequenti 
 
 ### <a name="categories"></a>Categorie
 
-- Data: 27/01/2021
+- Data: 2021-01-27
 - Funzionalità
  
 ### <a name="impacted-audience"></a>Destinatari interessati
 
-Tutti i rivenditori indiretti & provider indiretti che eseere transazioni tramite il programma Cloud Solution Provider (CSP).
+Tutti i rivenditori indiretti & provider indiretti che esere transazione tramite il programma Cloud Solution Provider (CSP).
 
 ### <a name="details"></a>Dettagli
 
-L'implementazione del Contratto Microsoft Partner (MPA) per i rivenditori indiretti è attualmente in corso. Per supportare ulteriormente i provider e i rivenditori, abbiamo ricevuto commenti e suggerimenti e ora abbiamo consolidato le query comuni su come accettare il Contratto Microsoft In una nuova pagina di domande [frequenti.](../mpa-indirect-provider-faq.md)
+L'implementazione del Contratto Microsoft Partner (MPA) per i rivenditori indiretti è attualmente in corso. Per supportare ulteriormente i provider e i rivenditori, sono stati ricevuti commenti e suggerimenti e ora sono state consolidate query comuni su come accettare l'MPA in una nuova [pagina delle domande frequenti.](../mpa-indirect-provider-faq.md)
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-**Rivenditori indiretti:** Se non è stato accettato il [](../mpa-indirect-provider-faq.md) Contratto Microsoft, esaminare le domande frequenti sul [](../microsoft-partner-agreement.md) Contratto Microsoft Microsoft e seguire le istruzioni dettagliate disponibili qui per accettare il Contratto Microsoft.
+**Rivenditori indiretti:** Se l'MPA non è stato accettato, esaminare le domande frequenti sull'MPA e seguire le istruzioni dettagliate disponibili qui per accettare l'MPA. [](../mpa-indirect-provider-faq.md) [](../microsoft-partner-agreement.md)
 
-**Provider indiretti:** Interagire con i rivenditori indiretti e supportarli usando le domande frequenti sul programma [MPA](../mpa-indirect-provider-faq.md) e le istruzioni dettagliate disponibili [qui.](../microsoft-partner-agreement.md)
+**Provider indiretti:** Interagire con i rivenditori indiretti e supportarli usando le domande frequenti [su MPA](../mpa-indirect-provider-faq.md) e le istruzioni dettagliate disponibili [qui.](../microsoft-partner-agreement.md)
 
 ### <a name="questions"></a>Domande?
 
-Per eventuali domande relative a questo contatto per le [notifiche, Partner Center supporto](https://partner.microsoft.com/support/v2/?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4)
+Per eventuali domande relative a questo contatto di notifica, [contattare Partner Center supporto](https://partner.microsoft.com/support/v2/?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4)
 
 ________________
 ## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> Partner Center log di controllo per includere due nuovi tipi di operazione per DAP
 
 ### <a name="categories"></a>Categorie
 
-- Data: 25/01/2021
+- Data: 2021-01-25
 - Funzionalità
 
 ### <a name="impacted-audience"></a>Destinatari interessati
@@ -211,7 +211,7 @@ Tutti i partner CSP
 
 ### <a name="details"></a>Dettagli
 
-Come annunciato oggi, microsoft è molto contenta di informare l'utente che sono stati esposti due nuovi tipi di operazioni nei log attività di Partner Center per offrire visibilità ai partner quando il cliente ha approvato o rimosso le relazioni di amministrazione delegate.
+Come annunciato oggi, siamo entusiasti di informarvi che sono stati esposti due nuovi tipi di operazioni nei log attività di Partner Center per offrire visibilità ai partner quando il cliente ha approvato o rimosso le relazioni di amministrazione delegate.
 
 Di seguito sono riportati i nuovi tipi di operazione:
 
@@ -221,13 +221,13 @@ Di seguito sono riportati i nuovi tipi di operazione:
 
 ### <a name="next-steps"></a>Passaggi successivi
 
-- Sfruttare i nuovi tipi di operazione per tenere traccia degli eventi quando il DAP è stato approvato dal cliente e terminato dal cliente.  
+- Sfruttare i nuovi tipi di operazione per tenere traccia degli eventi in cui il dap è stato approvato dal cliente e terminato dal cliente.  
 - [Ottenere un record dell'attività Partner Center- Partner Center per sviluppatori di app | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
 - [Controllo delle risorse: Partner Center per sviluppatori di app | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>Domande?
 
-Per altre domande, vedere le community CSP Yammer pertinenti.
+Per altre domande, controllare le community Yammer CSP pertinenti.
 
 ________________
 ## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="11"></a> Modifiche alla disponibilità dell'offerta di Azure in CSP correlate alla nuova esperienza commerciale in CSP per Azure
@@ -247,27 +247,27 @@ Tutti i partner che eseguono transazioni tramite il programma Cloud Solution Pro
 
 La nuova esperienza commerciale Microsoft creerà un'esperienza di acquisto coerente e semplificata per i clienti e consentirà loro di trasformare digitalmente, con maggiore flessibilità in come e dove acquistano. I partner svolgono un ruolo fondamentale nel percorso cloud del cliente, indipendentemente dai canali che i clienti decidono di eseguire transazioni con Microsoft. Dopo il lancio completo, la piattaforma e il modello di e-commerce aggiornati consentiranno ai partner di partecipare tramite movimenti di vendita per i clienti aziendali più grandi, nonché per le piccole e medie imprese, e offriranno ai partner la possibilità di espandere la loro partecipazione per guidare il successo dei clienti.
 
-La nuova esperienza commerciale per Azure nel programma Cloud Solution Provider amplia le opportunità dei partner di creare e distribuire servizi gestiti, estendere ulteriormente la base di clienti e aiutare i clienti nella trasformazione digitale.
+La nuova esperienza commerciale per Azure nel programma Cloud Solution Provider amplia le opportunità dei partner di creare e distribuire servizi gestiti, estendere ulteriormente la propria base di clienti e aiutare i clienti nella trasformazione digitale.
 
 La nuova esperienza commerciale offre i vantaggi seguenti:
 
 - Semplifica il processo di acquisto di Azure con Piano di Azure.
-- Crea un migliore allineamento dei prezzi tra i canali. In base al feedback di clienti e partner, la nuova esperienza di Azure nel programma Cloud Solution Provider userà un unico listino prezzi, in USD, offrendo a clienti e partner prezzi coerenti su scala globale.
-- Riduce gli ostacoli all'acquisizione dei clienti offrendo strumenti che incorporano la governance, l'esperienza del cliente e i criteri appropriati per spostarli nella nuova esperienza di Azure nel Cloud Solution Provider aziendale.
+- Crea un migliore allineamento dei prezzi tra i canali. In base al feedback di clienti e partner, la nuova esperienza di Azure nel programma Cloud Solution Provider userà un singolo listino prezzi, in USD, offrendo a clienti e partner prezzi coerenti su scala globale.
+- Riduce gli ostacoli all'acquisizione dei clienti fornendo strumenti che incorporano la governance, l'esperienza del cliente e i criteri appropriati per spostarli nella nuova esperienza di Azure nel programma Cloud Solution Provider clienti.
 - Consente ai partner di gestire i clienti in modo più efficiente sfruttando funzionalità come Azure Lighthouse e Gestione costi di Azure. 
-- Espande l'accesso Azure Marketplace.
+- Espande l'accesso a Azure Marketplace.
 
-Espandendo la nuova esperienza commerciale per Azure, sono stati abilitati strumenti di transizione per migliorare la flessibilità di gestione di Azure in modi che si adattano alle esigenze aziendali in continua evoluzione dei clienti e per facilitare il passaggio dei clienti alla nuova offerta di Azure nel programma Cloud Solution Provider. Visualizzare la panoramica degli strumenti esistenti per supportare la transizione delle sottoscrizioni di Azure dei clienti nel Cloud Solution Provider programma.
+Grazie alla nuova esperienza commerciale per Azure, sono stati abilitati strumenti di transizione per migliorare la flessibilità di gestione di Azure in modi che si adattano alle esigenze aziendali in evoluzione dei clienti e facilitano l'accesso dei clienti alla nuova offerta di Azure nel programma Cloud Solution Provider. Visualizzare la panoramica degli strumenti esistenti per supportare la transizione delle sottoscrizioni di Azure dei clienti nel Cloud Solution Provider programma.
 
-#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Nuova offerta di azure Cloud Solution Provider programma (piano di Azure)
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Nuova offerta di Cloud Solution Provider Azure in Azure (piano di Azure)
 
-Con la nuova esperienza commerciale, i partner ottengono l'accesso ai servizi di Azure alla tariffa con pagamento in base al Contratto del cliente Microsoft, tramite un piano di Azure. Questo piano semplifica l'esperienza di acquisto consentendo la creazione di più sottoscrizioni di Azure all'interno di un piano di Azure. Non è più necessario inviare un ordine separato per ogni sottoscrizione di Azure in Partner Center.
+Con la nuova esperienza commerciale, i partner ottengono l'accesso ai servizi di Azure con pagamento in base al fisso per i clienti con Contratto del cliente Microsoft, tramite un piano di Azure. Questo piano semplifica l'esperienza di acquisto abilitando la creazione di più sottoscrizioni di Azure all'interno di un piano di Azure. Non è più necessario inviare un ordine separato per ogni sottoscrizione di Azure Partner Center.
 
-#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>Modifiche alla disponibilità dell'offerta di Azure precedente nel Cloud Solution Provider servizio
+#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>Modifiche alla disponibilità dell'offerta di Azure precedente nel programma Cloud Solution Provider azure
 
-Quando è stata annunciata la nuova offerta di Azure nel programma Cloud Solution Provider (piano di Azure), è stato comunicato ai partner che l'offerta e la piattaforma Azure precedenti continueranno a essere disponibili, insieme alla nuova esperienza di Azure, per un certo periodo di tempo e che si informare i partner sei mesi prima di apportare eventuali modifiche all'offerta di Azure precedente.
+Quando è stata annunciata la nuova offerta di Azure nel programma Cloud Solution Provider (piano di Azure), i partner hanno informato i partner che l'offerta e la piattaforma Di Azure precedenti continueranno a essere disponibili, insieme alla nuova esperienza di Azure, per un certo periodo di tempo e che i partner verranno informati con sei mesi di anticipo prima di apportare modifiche all'offerta di Azure precedente.
 
-Anche se la nuova offerta di Azure nel programma Cloud Solution Provider (piano di Azure) offre ai partner un'esperienza migliorata, microsoft vuole concedere ai partner il tempo necessario per incorporare le nuove funzionalità di Azure con i propri servizi ed eseguire la transizione dei clienti alla nuova esperienza.
+Anche se la nuova offerta di Azure nel programma Cloud Solution Provider (piano di Azure) offre ai partner un'esperienza migliorata, microsoft vuole offrire ai partner il tempo di incorporare le nuove funzionalità di Azure con i propri servizi e di passare i clienti alla nuova esperienza.
 
 Saranno presenti tre fasi di modifica all'offerta di Azure precedente. Attualmente vengono fornite altre informazioni su queste tre fasi.
 
@@ -275,7 +275,7 @@ Saranno presenti tre fasi di modifica all'offerta di Azure precedente. Attualmen
 
 **Fase 1 : inizio 21 luglio 2021**
 
-Nella fase 1, tutti i nuovi Azure Cloud Solution Provider business del programma saranno disponibili nella nuova offerta Piano di Azure. Verranno applicate le linee guida seguenti:
+Nella fase 1, tutte le nuove attività Cloud Solution Provider del programma Azure Cloud Solution Provider saranno disponibili nella nuova offerta Piano di Azure. Verranno applicate le linee guida seguenti:
 
 - Per tutte le relazioni di rivenditore esistenti tra partner e clienti nel programma Cloud Solution Provider, se il cliente ha già acquistato l'offerta di Azure precedente, il partner può continuare a eseguire transazioni e il cliente può continuare ad acquistare l'offerta di Azure precedente da tale partner.
 - L'offerta di Azure precedente non sarà più disponibile per i partner net-new che esereranno transazioni in CSP
@@ -289,20 +289,20 @@ Nella fase 2, che inizierà a volte durante l'anno di calendario 2022, gli incen
 
 **Fase 3: data TBD**
 
-Nella fase 3, tutti i clienti rimanenti nell'offerta di Azure precedente verranno migrati alla nuova offerta di Azure nel programma Cloud Solution Provider (piano di Azure). Come per le fasi precedenti, la data di inizio della fase 3 verrà comunicata ai partner con 6 mesi di anticipo.
+Nella fase 3 verrà eseguita la migrazione di tutti i clienti rimanenti nell'offerta di Azure precedente alla nuova offerta di Azure nel programma Cloud Solution Provider (piano di Azure). Come per le fasi precedenti, la data di inizio della fase 3 verrà comunicata ai partner con 6 mesi di anticipo.
 
 #### <a name="partner-earned-credit-pec"></a>Credito ottenuto dal partner (PEC)
 
-Con la nuova esperienza commerciale, i partner vengono riconosciuti per servizi a valore aggiunto differenziati su base continuativa tramite il modello di credito ottenuto dai partner. Partner di premi di credito ottenuti dai partner che si concentrano sul successo dei clienti tramite servizi a valore aggiunto che generano redditività sostenibile.
+Con la nuova esperienza commerciale, i partner vengono riconosciuti per servizi a valore aggiunto differenziati su base continuativa tramite il modello di credito ottenuto dai partner. I partner che hanno ottenuto il credito premiano i partner che si concentrano sul successo dei clienti tramite servizi a valore aggiunto che generano una redditività sostenibile.
 
 ### <a name="next-steps"></a>Passaggi successivi:
 
-I partner sono vivamente invitati a acquisire familiarità con le risorse seguenti:
+I partner sono altamente invitati a acquisire familiarità con le risorse seguenti:
 
 #### <a name="partner-earned-credit-pec"></a>Credito ottenuto dal partner (PEC)
 
 - [Informazioni sul credito ottenuto dal partner (guida) (microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [Credito ottenuto dal partner - Panoramica - Partner Center | Microsoft Docs](../partner-earned-credit.md?branch=main)
+- [Credito ottenuto dal partner - panoramica - Partner Center | Microsoft Docs](../partner-earned-credit.md?branch=main)
 - [Credito ottenuto dal partner per i servizi gestiti - Partner Center | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
 - [Ruoli, autorizzazioni per il credito ottenuto dal partner - Partner Center | Microsoft Docs](../azure-roles-perms-pec.md)
 - [Modulo di training on demand sul credito ottenuto dai partner nei moduli Azure in CSP (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
@@ -316,11 +316,11 @@ I partner sono vivamente invitati a acquisire familiarità con le risorse seguen
 Per eventuali domande relative a questa notifica, contattare il [supporto tecnico del Centro per i partner](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ________________
-## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a> Software perpetuo ora disponibile a livello generale per Cloud Solution Provider programma
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a>Software perpetuo ora disponibile a livello generale per il Cloud Solution Provider software
 
 ### <a name="categories"></a>Categorie
 
-- Data: 19/01/2021
+- Data: 2021-01-19
 - Crescita aziendale
 
 ### <a name="impacted-audience"></a>Destinatari interessati
@@ -334,47 +334,47 @@ Tutti i partner CSP
 
 Come [annunciato](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) oggi, siamo molto contenti di informare l'utente che le licenze software perpetue commerciali sono ora disponibili a livello generale per la vendita da parte di tutti i partner CSP. Il Partner Center prezzi perpetuo del software CSP è stato ripubblicato e ora include prodotti e aree geografiche aggiuntivi.
 
-Si noti anche che attualmente la funzionalità di adempimento del software Partner Center e della chiave di licenza è stata ritirata e che i partner in futuro devono puntare i clienti all'interfaccia di amministrazione di Microsoft 365 a questo scopo. Per altri dettagli e passaggi successivi, vedere di seguito.
+Si noti anche che a oggi la funzionalità di adempimento del software Partner Center e della chiave di licenza è stata ritirata e che i partner in futuro devono puntare i clienti al Centro Amministrazione Microsoft 365 a questo scopo. Per altri dettagli e passaggi successivi, vedere di seguito.
 
 ### <a name="next-steps"></a>Passaggi successivi
 
 - Scaricare il **listino prezzi perpetuo** del software CSP nella **sezione Software** della pagina Partner Center prezzi [& offerte.](https://partnercenter.microsoft.com/pcv/sales) Un elenco dei prodotti e delle aree geografiche appena aggiunti è disponibile [qui.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
-- Vedere l'articolo Microsoft 365 procedura per scaricare il [software perpetuo](/microsoft-365/admin/setup/download-software-licenses-csp) e i codici di licenza del prodotto dell'interfaccia di amministrazione e condividerli con i clienti quando sono pronti per scaricare il software e le chiavi di licenza.
-- Esaminare il [software perpetuo nei Cloud Solution Provider di preparazione](https://partner.microsoft.com/resources/collection/software-in-csp#/) del programma. Usare questa [mappa di preparazione](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) per individuare rapidamente le informazioni adatte per il proprio ruolo.
+- Vedere l'articolo di procedura per scaricare e condividere con i clienti il [software perpetuo](/microsoft-365/admin/setup/download-software-licenses-csp) e i codici di licenza del prodotto di Amministrazione Microsoft 365 Center quando sono pronti a scaricare il software e i codici di licenza.
+- Esaminare il [software perpetuo nel materiale Cloud Solution Provider conformità](https://partner.microsoft.com/resources/collection/software-in-csp#/) al programma. Usare questa [mappa di preparazione](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) per individuare rapidamente le informazioni adatte per il proprio ruolo.
 
 ### <a name="questions"></a>Domande?
 
-Per altre domande, vedere le community CSP Yammer pertinenti.
+Per altre domande, controllare le community di Yammer CSP pertinenti.
 
 ### <a name="change-log"></a>Registro delle modifiche:
 
 - 19 gennaio 2021: pubblicazione originale 
 
-- 5 marzo 2021: aggiunta nota nella parte superiore relativa al ripristino della funzionalità di adempimento del software Partner Center e della chiave di licenza
+- 5 marzo 2021: aggiunta una nota nella parte superiore relativa alla reintegrazione della funzionalità di adempimento del codice Partner Center software e della chiave di licenza
 
 _____________
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Promemoria: Introduzione della limitazione delle API ai partner che Partner Center API 
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Promemoria: Introduzione della limitazione delle API ai partner che chiamano Partner Center API 
 
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-01-19
+- Data: 19/01/2021
 - Crescita aziendale
 
 ### <a name="summary"></a>Riepilogo
 
-Microsoft implementa la limitazione delle API per consentire prestazioni più coerenti entro un intervallo di tempo per i partner che chiamano le API Partner Center api.
+Microsoft sta implementando la limitazione delle API per consentire prestazioni più coerenti in un intervallo di tempo per i partner che chiamano le API Partner Center servizio.
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
-Tutti i partner che esitono tramite il programma Cloud Solution Provider (CSP)  
+Tutti i partner che eseere transazioni tramite Cloud Solution Provider (CSP)  
 
 ### <a name="details"></a>Dettagli
 
-A partire da febbraio 2021, Microsoft implementa la limitazione delle API per consentire prestazioni più coerenti entro un intervallo di tempo per i partner che chiamano le API Partner Center servizio.La limitazione limita il numero di richieste a un servizio in un intervallo di tempo per evitare un uso eccessivo delle risorse.Quando viene superata una soglia di limitazione, Partner Center le eventuali ulteriori richieste dal client per un periodo di tempo.
+A partire da febbraio 2021, Microsoft implementa la limitazione delle API per consentire prestazioni più coerenti in un intervallo di tempo per i partner che chiamano le API Partner Center servizio.La limitazione limita il numero di richieste a un servizio in un intervallo di tempo per evitare un uso eccessivo delle risorse.Quando viene superata una soglia di limitazione, Partner Center limita eventuali ulteriori richieste da tale client per un periodo di tempo.
   
 **Vantaggi per i partner:**
 
-Partner Center è progettato per gestire un volume elevato di richieste, ma se un numero eccessivo di richieste viene effettuato da pochi partner, la limitazione consente di mantenere prestazioni e affidabilità ottimali per tutti i partner.  
+Partner Center è progettato per gestire un volume elevato di richieste, ma se un numero eccessivo di richieste viene effettuato da alcuni partner, la limitazione consente di mantenere prestazioni e affidabilità ottimali per tutti i partner.  
 
 - La limitazione garantisce tempi di inattività minimi.
 - La limitazione riduce il numero di richieste con volumi elevati, assicurando prestazioni coerenti per tutti i partner.
@@ -413,7 +413,7 @@ _____________
 
 ### <a name="summary"></a>Riepilogo
 
-Diversi Microsoft 365 lancio saranno inclusi nell'anteprima del listino prezzi di gennaio e saranno disponibili a partire dal 1° febbraio 2021.
+Diversi Microsoft 365 saranno inclusi nell'anteprima del listino prezzi di gennaio e saranno disponibili a partire dal 1° febbraio 2021.
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
@@ -427,32 +427,32 @@ Verranno lanciate tre nuove offerte di componenti per i clienti Government Commu
 
    |**Nome offerta**|**ID offerta**|**ID materiale**|
    |-------------------|:------|:------|
-   |Microsoft 365 E5 Information Protection governance per GCC|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
+   |Microsoft 365 E5 Information Protection e governance per GCC|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
    |Microsoft 365 E5 eDiscovery and Audit for GCC|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
-   |Microsoft 365 E5 Insider Risk Management per GCC|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
-   |Microsoft 365 E5 Information Protection dlp (componente aggiuntivo) per GCC|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
+   |Microsoft 365 E5 Insider Risk Management for GCC|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
+   |Microsoft 365 E5 Information Protection e DLP (componente aggiuntivo) per GCC|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
 
-#### <a name="10-year-audit-log-retention-add-on"></a>[Componente aggiuntivo Conservazione log di controllo di 10 anni](/microsoft-365/compliance/)
+#### <a name="10-year-audit-log-retention-add-on"></a>[Componente aggiuntivo conservazione log di controllo per 10 anni](/microsoft-365/compliance/)
 
-Un componente aggiuntivo disponibile con un prerequisito di Microsoft 365 E5 consentirà ai clienti di contenere i dati per 10 anni. 
+Un componente aggiuntivo disponibile con un prerequisito di Microsoft 365 E5 consentirà ai clienti di mantenere i dati per 10 anni. 
 
    |**Nome offerta**|**ID offerta**|**ID materiale**|
    |-------------------|:------|:------|
-   |10 anni- Aggiunta conservazione log di controllo per EDU|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
-   |Aggiunta conservazione log di controllo di 10 anni|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
+   |10-Year Audit Log Retention Add On for EDU|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |10-Year Audit Log Retention Add On|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
    
-#### <a name="frontline-worker-add-ons"></a>Componenti aggiuntivi Frontline Worker
+#### <a name="frontline-worker-add-ons"></a>Componenti aggiuntivi del ruolo di lavoro frontline
 
-Dal 1° febbraio 2021 i clienti possono acquistare tre nuove offerte programmatiche di sicurezza e conformità per i ruoli di lavoro in prima linea come componenti aggiuntivi per gli [SKU F1 e F3 di Microsoft 365 F1 e F3.](https://www.microsoft.com/microsoft-365/firstline-workers)
+Dal 1° febbraio 2021 i clienti possono acquistare tre nuove offerte programmatiche di sicurezza e conformità per i ruoli di lavoro in prima linea come componenti aggiuntivi per gli [SKU Microsoft 365 F1 e F3.](https://www.microsoft.com/microsoft-365/firstline-workers)
 
-Queste offerte a livello [](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) di codice sostituiranno l'attuale promozione sicurezza e conformità in scadenza il **28 febbraio 2021.** A differenza della promozione corrente, i componenti aggiuntivi F5 offrono ai clienti maggiore prevedibilità per le previsioni man mano che aumenta la forza lavoro in prima linea.
+Queste offerte a livello [](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) di codice sostituiranno l'attuale promozione di sicurezza e conformità che scadrà **il 28 febbraio 2021.** A differenza della promozione corrente, i componenti aggiuntivi F5 offrono ai clienti maggiore prevedibilità per le previsioni man mano che la forza lavoro di prima linea cresce.
 
    
    |**Nome offerta**|**ID offerta**|**ID materiale**|
    |-------------------|:------|:------|
-   |Microsoft 365 sicurezza F5|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
-   |Microsoft 365 conformità F5|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
-   |Microsoft 365 conformità & sicurezza F5|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
+   |Microsoft 365 Sicurezza F5|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
+   |Microsoft 365 Conformità F5|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
+   |Microsoft 365 Conformità & sicurezza F5|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
    
 ### <a name="next-steps"></a>Passaggi successivi
 
@@ -477,7 +477,7 @@ Microsoft esegue la transizione di tutta l'elaborazione elettronica delle firme 
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
-Partner CSP (Direct Cloud Solution Provider) esistenti in MPA. I partner in Russia, Russia e Asiacostan doranno firmare di nuovo fisicamente o elettronicamente l'Antar annualmente.
+Partner CSP (Direct Cloud Solution Provider) esistenti nell'ambito del programma MPA. I partner in Russia, Russia e Asiacostan doranno firmare di nuovo fisicamente o elettronicamente l'affondo annuale.
 
 ### <a name="details"></a>Dettagli
 
@@ -496,7 +496,7 @@ Si prevede una transizione priva di problemi. Al momento della migrazione, si ri
 
 Adobe Sign è la soluzione Microsoft preferita per la firma elettronica. La transizione ad Adobe Sign assicurerà un'esperienza di firma elettronica sicura ed efficiente che offrirà maggiore valore ai clienti e ai partner.
 
-Per altre informazioni su come firmare elettronicamente documenti e delega della firma elettronica, vedere le **esercitazioni seguenti:** 
+Per altre informazioni su come firmare elettronicamente i documenti e la delega elettronica delle firme, vedere le **esercitazioni seguenti:** 
 - [Firmare elettronicamente un documento | Esercitazioni su Adobe Sign](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
 - [Delegare a un altro utente di firmare un documento | Esercitazioni su Adobe Sign](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
 
@@ -506,24 +506,24 @@ Condividere queste informazioni con le parti interessate appropriate nella propr
 
 ### <a name="questions"></a>Domande?
 
-In caso di domande, contattare il centro operativo di area usando call [logging tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) o [esplora MS](https://www.explore.ms/). Seguire attentamente il processo CLT standard, in modo che la richiesta possa essere gestita il più rapidamente possibile.
+In caso di domande, contattare il centro operativo di area usando lo strumento di registrazione delle chiamate [(CLT)](https://clt.partners.extranet.microsoft.com/CLT) o in [Esplorare MS.](https://www.explore.ms/) Seguire attentamente il processo CLT standard, in modo che la richiesta possa essere gestita il più rapidamente possibile.
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="6"></a>Aggiornamento dei prezzi commerciali per la corone norvegese 
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="6"></a>Aggiornamento dei prezzi commerciali per la krone norvegese 
 
 ### <a name="categories"></a>Categorie
 
-- Data: 2021-01-14
+- Data: 14/01/2021
 - Offerte/mercati
 
 ### <a name="impacted-audience"></a>Destinatari interessati
 
-Cloud Solution Provider partner che usano la corone norvegese.
+Cloud Solution Provider partner che usano la krone norvegese.
 
 ### <a name="details"></a>Dettagli
 
-A partire dal 1° marzo 2021, i prezzi delle corone norvegesi per il software locale commerciale e Servizi online cambieranno per riallineare con i livelli di prezzo prevalenti nell'area.
+A partire dal 1° marzo 2021, i prezzi delle krone norvegesi per il software locale commerciale e il Servizi online cambieranno per riallineare con i livelli di prezzo più elevati nell'area.
 L'annuncio completo è disponibile solo per i partner Microsoft. [Accedere per consultare l'annuncio completo](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf).
 
 _____________ 
@@ -541,13 +541,11 @@ Partner CSP che operano in India.
 
 ### <a name="details"></a>Dettagli 
 
-Microsoft sta apportando modifiche al listino prezzi in rupie indiane per allineare i prezzi del software commerciale e dei servizi online in India e all'interno dell'area asiatica.
-
-L'annuncio completo è disponibile solo per i partner Microsoft. [Accedere per consultare l'annuncio completo](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf).
+Microsoft sta apportando modifiche al listino prezzi in rupie indiane per allineare i prezzi del software commerciale e dei servizi online in India e all'interno dell'area asiatica. Verranno pubblicati altri dettagli non appena saranno disponibili. Se nel frattempo è necessaria assistenza, contattare [Partner Center supporto tecnico](https://partner.microsoft.com/support/?stage=1).
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>Aggiornamenti del piano di chiamata e del sistema telefonico per il 1° febbraio 2021
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>Piano per chiamate Sistema telefonico aggiornamenti per il 1° febbraio 2021
 
 ### <a name="categories"></a>Categorie
 
@@ -613,8 +611,8 @@ I listini prezzi basati su licenza per gennaio 2021 e febbraio 2021 includevano 
 
 Valute interessate: 
 
-- Microsoft 365 problemi di prezzo E3 erano limitati solo a queste valute: JpY (JpY), Great British Pound (GBP), European Union (EUR), Australian Dollar (AUD). 
-- Microsoft 365 problemi di Business Basic erano limitati solo Stati Uniti dollari (USD). 
+- Microsoft 365 E3 i problemi relativi ai prezzi erano limitati solo a queste valute: Japanese JpY (JPY), Great British Pound (GBP), European Union (EUR), Australian Dollar (AUD). 
+- Microsoft 365 Business Basic problemi erano limitati solo Stati Uniti dollari (USD). 
 
 Per i prezzi corretti, i partner devono fare riferimento ai listini prezzi di anteprima di gennaio e febbraio attualmente disponibili. 
 

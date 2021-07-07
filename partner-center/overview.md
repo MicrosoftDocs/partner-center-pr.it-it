@@ -5,21 +5,21 @@ ms.date: 12/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Usare il Centro per i partner per eseguire transazioni commerciali con Microsoft e con i clienti
-author: laurabrenner
-ms.author: labrenne
+author: jasongroce
+ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: dc34044753b540545086113e356e194c3c99138a
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cd9400915861667378ccf5545a6a8827a699d465
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277658"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353721"
 ---
 # <a name="what-is-partner-center"></a>Informazioni sul Centro per i partner
 
 **Ruoli appropriati:** tutti i partner interessati a Partner Center
 
-Il [Centro per i partner](https://partner.microsoft.com/dashboard/home) ottimizza alcuni processi aziendali per facilitare la gestione delle relazioni dei partner Microsoft con Microsoft e con i clienti. Il Centro per i partner consente di accedere facilmente agli strumenti necessari per svolgere varie attività. Usare il Centro per i partner per:
+Il [Centro per i partner](https://partner.microsoft.com/dashboard/home) ottimizza alcuni processi aziendali per facilitare la gestione delle relazioni dei partner Microsoft con Microsoft e con i clienti. Partner Center consente di accedere agli strumenti necessari per eseguire il lavoro. Usare il Centro per i partner per:
 
 - Gestire l'account Microsoft e gli utenti
 - Entrare in contatto con i clienti
@@ -29,13 +29,13 @@ Il [Centro per i partner](https://partner.microsoft.com/dashboard/home) ottimizz
 - Gestire le sottoscrizioni dei clienti
 - Emettere fatture e ricevere pagamenti
 - Contattare il supporto tecnico
-- Pubblicare o esplorare le offerte nel Marketplace commerciale [Microsoft,](/azure/marketplace)un catalogo di migliaia di applicazioni e servizi transazionali per i clienti compilati e recapitati dai partner isv (Independent Software Vendor).
+- Pubblicare o esplorare le offerte nel marketplace commerciale [Microsoft,](/azure/marketplace)un catalogo di migliaia di applicazioni e servizi transazionali per i clienti creati e consegnati dai partner isv (Independent Software Vendor).
 
 :::image type="content" source="images/home.png" alt-text="Partner Center panoramica.":::
 
 ## <a name="manage-your-account"></a>Gestire l'account
 
-Indipendentemente dal fatto che si sia un partner del programma Cloud Solution Provider o un partner per sviluppatori che venda le app, è possibile gestire l'account Partner Center da un'unica posizione delle impostazioni dell'account: il [dashboard Partner Center.](https://partner.microsoft.com/dashboard/home) Da qui è possibile modificare informazioni legali, dettagli fiscali, tenant, sedi aziendali, utenti e autorizzazioni e programmi specifici in cui l'azienda è registrato.
+Se sei un partner del programma Cloud Solution Provider o un partner per sviluppatori che vende le tue app, gestisci l'account Partner Center da una posizione delle impostazioni dell'account: il [dashboard](https://partner.microsoft.com/dashboard/home)di Partner Center. Da qui è possibile modificare le informazioni legali, i dettagli fiscali, i tenant, le sedi aziendali, gli utenti e le autorizzazioni e programmi specifici in cui l'azienda è iscritta.
 
 Ciò che è possibile visualizzare e gestire in Partner Center dipende dal ruolo e dalle autorizzazioni. Per altre informazioni, [vedere Ruoli e autorizzazioni.](permissions-overview.md)
 
@@ -43,19 +43,19 @@ Ciò che è possibile visualizzare e gestire in Partner Center dipende dal ruolo
 
 ## <a name="membership-programs"></a>Programmi di adesione
 
-In Partner Center, è possibile acquistare un Action Pack Microsoft che fornisce software e strumenti Microsoft per sviluppare competenze, ad esempio lo sviluppo di competenze per ottenere competenze e ottenere specializzazioni avanzate. I vantaggi inclusi in questi programmi consentono di creare soluzioni e di passare al mercato; esaminarli e gestirli all'interno Partner Center. [Confrontare i Microsoft Partner Network di appartenenza.](https://partner.microsoft.com/membership/compare-offers)
+In Partner Center, è possibile acquistare un microsoft Action Pack che fornisce software e strumenti Microsoft per sviluppare competenze, ad esempio sviluppare competenze per ottenere competenze e ottenere specializzazioni avanzate. I vantaggi inclusi in questi programmi consentono di creare soluzioni e di passare al mercato; esaminarli e gestirli all'interno Partner Center. [Confrontare i Microsoft Partner Network di appartenenza.](https://partner.microsoft.com/membership/compare-offers)
 
 ## <a name="connect-with-customers"></a>Entra in contatto con i clienti
 
-È possibile creare un profilo di business per visualizzare le aree di competenza aziendali. È possibile evidenziare l'esperienza maturata a livello tecnico e nella creazione di soluzioni, presentare la vasta gamma delle competenze possedute e offrire nuove opportunità di mercato. Tramite il Centro per i partner, i partner possono accedere più spesso alle risorse di marketing per accelerare il time-to-market, generare clienti potenziali ed espandere le attività nel cloud. Il catalogo di prodotti del marketplace commerciale, che include Microsoft AppSource e Azure Marketplace, consente di offrire informazioni ed esperienze di acquisto nel prodotto. Le soluzioni sono elencate nei nostri negozi online accanto alle proprie soluzioni Microsoft, connettendo l'utente a aziende, organizzazioni e agenzie governative in tutto il mondo. Per altre informazioni sulle segnalazioni, vedere Gestire lead diversi, ad esempio richieste dei clienti, lead qualificati per il marketing e lead qualificati [per le vendite.](manage-leads.md) Per altre informazioni sul profilo business, vedere [Creare un profilo business](create-a-marketing-profile.md).
+È possibile creare un profilo di business per visualizzare le aree di competenza aziendali. È possibile evidenziare l'esperienza maturata a livello tecnico e nella creazione di soluzioni, presentare la vasta gamma delle competenze possedute e offrire nuove opportunità di mercato. Tramite il Centro per i partner, i partner possono accedere più spesso alle risorse di marketing per accelerare il time-to-market, generare clienti potenziali ed espandere le attività nel cloud. Il catalogo prodotti del marketplace commerciale, che include Microsoft AppSource e Azure Marketplace, consente di offrire informazioni ed esperienze di acquisto all'esterno del prodotto. Le soluzioni sono elencate negli store online accanto alle proprie soluzioni Microsoft, che connettono aziende, organizzazioni ed enti pubblici in tutto il mondo. Per altre informazioni sulle segnalazioni, vedere Gestire lead diversi, ad esempio richieste dei clienti, lead qualificati per il marketing e [lead qualificati per le vendite.](manage-leads.md) Per altre informazioni sul profilo business, vedere [Creare un profilo business](create-a-marketing-profile.md).
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Co-selling con Microsoft e altri partner
 
-Il co-selling è il percorso per cui i partner vendono insieme a Microsoft e ad altri partner per risultati collaborativi, di vendita migliore e positivi per i clienti. Il co-selling consente di usare il marchio globale Microsoft, i team di vendita, le funzionalità di generazione della domanda e il marketplace commerciale per raggiungere nuovi clienti in tutto il mondo. Vendere sia con altri partner che con microsoft. Per altre informazioni, [vedere Gestire le opportunità di co-selling.](manage-co-sell-opportunities.md)
+Il co-selling è il percorso per cui i partner possono vendere in collaborazione con Microsoft e altri partner per la collaborazione, la vendita migliore e i risultati positivi dei clienti. Il co-selling consente di usare il marchio globale Microsoft, i team di vendita, le funzionalità di generazione della domanda e il marketplace commerciale per raggiungere nuovi clienti in tutto il mondo. Vendere con altri partner e con microsoft. Per altre informazioni, [vedere Gestire le opportunità di co-selling.](manage-co-sell-opportunities.md)
 
 ## <a name="manage-customer-software-needs"></a>Gestire le esigenze software dei clienti
 
-I partner attendibili svolgono un ruolo fondamentale in tutte le fasi del ciclo di vita dei clienti, indipendentemente dal modo in cui questi ultimi scelgono di acquistare software e servizi Microsoft. Se il cliente concede privilegi amministrativi, sarà possibile distribuire e gestire le sottoscrizioni, mantenere le prestazioni, configurare gli utenti e persino creare ticket di supporto. Partner Center fornisce un accesso rapido e semplice al supporto tecnico Microsoft su richiesta per risolvere meglio le sfide e soddisfare le esigenze dei clienti. Per altre informazioni, [vedere Offrire supporto clienti.](customer-support.md)
+I partner attendibili svolgono un ruolo fondamentale in tutte le fasi del ciclo di vita dei clienti, indipendentemente dal modo in cui questi ultimi scelgono di acquistare software e servizi Microsoft. Se il cliente concede privilegi amministrativi, sarà possibile distribuire e gestire le sottoscrizioni, mantenere le prestazioni, configurare gli utenti e persino creare ticket di supporto. Partner Center offre accesso rapido e semplice al supporto tecnico Microsoft su richiesta per aiutare a risolvere meglio le sfide e soddisfare le esigenze dei clienti. Per altre informazioni, vedere [l'offerta di assistenza clienti.](customer-support.md)
 
 ## <a name="maintain-a-secure-environment"></a>Mantenere un ambiente sicuro
 
@@ -66,7 +66,7 @@ Con Azure Active Directory come elemento principale dell'account Partner Center,
 Accedere a diversi tipi di report di dati dal dashboard Partner Center dati:
 
 - Gli indicatori di contributo dei partner (PCI) mostrano l'impatto dei partner su sette misure chiave relative al successo dei clienti.
-- I Insights report sui dati dei partner identificano la posizione in cui le vendite sono elevate, consentono di individuare i clienti che hanno distribuito le sottoscrizioni o hanno bisogno di supporto e mostrano il livello di vendita dei prodotti.
+- I report Insights sui dati dei partner identificano i punti in cui le vendite sono elevate, consentono di individuare i clienti che hanno distribuito le proprie sottoscrizioni o necessitano di supporto e mostrano l'andarti a vendere i tuoi prodotti.
 
 :::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Determinare la posizione delle licenze.":::
 

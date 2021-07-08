@@ -1,7 +1,7 @@
 ---
 title: Richiedere specializzazioni avanzate
 ms.topic: how-to
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Rafforzare il profilo di business nella directory dei partner Microsoft. Informazioni su come usare Partner Center per richiedere e ottenere specializzazioni avanzate.
@@ -9,20 +9,20 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c617d3bde3bbfe17896631b3c761c01fe2f299a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 76500ebf1b594e6097040ee810a94635cbb65eb7
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125974"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489827"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Usare Partner Center per richiedere specializzazioni avanzate e controllarne lo stato
 
 **Ruoli appropriati:** amministratore globale | Amministratore account
 
-Questo articolo descrive come usare il dashboard Partner Center per richiedere una specializzazione [avanzata,](advanced-specializations.md)controllare lo stato di avanzamento e completare i passaggi e le convalide necessari. Si vedranno anche esempi di uso Partner Center per ottenere determinate specializzazioni avanzate che richiedono un controllo o riferimenti ai clienti.
+Questo articolo descrive come usare il dashboard Partner Center per richiedere una specializzazione [avanzata,](advanced-specializations.md)controllare lo stato di avanzamento e completare i passaggi e le convalide necessari. Verranno inoltre visualizzati esempi dell'uso Partner Center per ottenere determinate specializzazioni avanzate che richiedono un controllo o riferimenti ai clienti.
 
-Per altre informazioni sui vantaggi delle specializzazioni avanzate e sui relativi requisiti specifici, [Microsoft Partner Network specializzazioni avanzate](https://partner.microsoft.com/membership/advanced-specialization).
+Per altre informazioni sui vantaggi delle specializzazioni avanzate e sui relativi requisiti specifici, [Microsoft Partner Network specializzazioni avanzate.](https://partner.microsoft.com/membership/advanced-specialization)
 
 ## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Usare Partner Center per richiedere specializzazioni avanzate o controllarne lo stato
 
@@ -30,7 +30,7 @@ Per essere idonei a una specializzazione avanzata, è prima necessario soddisfar
 
 Gran parte del processo è disponibile all'interno Partner Center dashboard. Tuttavia, solo gli utenti con un determinato Partner Center [ruolo possono](permissions-overview.md) accedere a questa Partner Center area.
 
-Per accedere a quest'area, è necessario disporre  del ruolo di amministratore account **MPN** o amministratore globale per l'account partner Microsoft dell'organizzazione.
+Per accedere a quest'area, è necessario disporre del ruolo di amministratore **dell'account MPN** o amministratore **globale** per l'account partner Microsoft dell'organizzazione.
 
 ### <a name="follow-these-steps-to-access-this-area"></a>Per accedere a quest'area, seguire questa procedura:
 
@@ -40,11 +40,11 @@ Per accedere a quest'area, è necessario disporre  del ruolo di amministratore a
 
 3. Per visualizzare i dettagli, selezionare il nome della specializzazione avanzata. Verranno visualizzati requisiti e passaggi specifici, lo stato corrente e collegamenti ad altri passaggi o risorse.
 
-   È possibile tornare a questa area di Partner Center per visualizzare lo stato corrente verso il raggiungimento di qualsiasi specializzazione avanzata.
+   È possibile tornare a quest'area di Partner Center per visualizzare lo stato corrente verso il raggiungimento di qualsiasi specializzazione avanzata.
 
 4. Dopo aver completato tutti i requisiti per una specializzazione avanzata, controllare di nuovo quest'area di Partner Center per verificare se lo stato è cambiato in **Attivo** per una specializzazione avanzata specifica.
 
-   Lo stato Attivo abilita automaticamente un tag di specializzazione avanzato nel **profilo di business.** Questo profilo sarà quindi visibile a tutti i clienti che tentano [di trovare un provider di soluzioni](https://www.microsoft.com/solution-providers/home).
+   Lo stato Attivo abilita automaticamente un tag di specializzazione avanzata nel **profilo di business.** Questo profilo sarà quindi visibile a tutti i clienti che tentano di [trovare un provider di soluzioni](https://www.microsoft.com/solution-providers/home).
 
 ## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Usare Partner Center pianificare un controllo o includere i riferimenti dei clienti per specializzazioni avanzate
 
@@ -67,7 +67,9 @@ Le specializzazioni avanzate che richiedono un controllo con un revisore di terz
 - Intelligenza artificiale e Machine Learning in Microsoft Azure
 - Infrastruttura cloud ibrida con Microsoft Azure Stack HCI
 - Operazioni e gestione ibride con Microsoft Azure Arc
-- Microsoft Azure soluzione VMware
+- Microsoft Azure Soluzione VMware
+- DevOps con GitHub in Microsoft Azure
+- Servizi di rete in Microsoft Azure
 
 Le specializzazioni avanzate che richiedono riferimenti dei clienti includono:
 
@@ -83,7 +85,7 @@ Le specializzazioni avanzate che richiedono riferimenti dei clienti includono:
 
 Le specializzazioni avanzate che non richiedono un controllo o un riferimento al cliente includono:
 
-- Sviluppo di applicazioni con codice ridotto
+- Sviluppo di applicazioni con basso codice
 - Gestione di piccole e medie imprese
 
 Le sezioni seguenti descrivono come pianificare un controllo o fornire riferimenti ai clienti in Partner Center.
@@ -117,7 +119,7 @@ Seguire quindi questa procedura per fornire i riferimenti dei clienti in Partner
 
 2. Selezionare la **sezione MPN** del menu Partner Center, quindi **Adv. Specializations (Specializzazioni annunci).** Il menu si espande per visualizzare tutte le specializzazioni avanzate disponibili.
 
-3. Selezionare il nome della specializzazione avanzata che richiede di fornire i riferimenti dei clienti. Si supponga, ad esempio, di selezionare **Riunioni e sale riunioni per Microsoft Teams.**
+3. Selezionare il nome della specializzazione avanzata che richiede di fornire i riferimenti dei clienti. Si supponga, ad esempio, di selezionare **Riunioni e Sale riunioni** per Microsoft Teams .
 
    Viene quindi visualizzata la pagina dei prerequisiti per questa specializzazione avanzata. Oltre a competenze Gold, certificazioni e requisiti di prestazioni, questa specializzazione avanzata richiede anche di fornire tre riferimenti ai clienti che dimostrano la possibilità di distribuire e gestire.
 
@@ -147,13 +149,20 @@ Seguire quindi questa procedura per fornire i riferimenti dei clienti in Partner
 **Filtri per i ricavi a consumo di Azure per la specializzazione avanzata**
 
 - Migrazione del data warehouse a Microsoft Azure
-    - ACR SQL DW: livello di servizio 1 = database e livello di servizio 2 = sql Data Warehouse
+    - Azure Synapse Analytics ACR: Gruppo di servizi 3 = SQL DW
 - Kubernetes in Microsoft Azure
     - servizio Azure Kubernetes ACR : Service Influencer = AKS , AKS-Engine
-- Desktop virtuale Microsoft Windows
-    - Registro Windows Virtual Desktop ACR: Service Influencer = NATIVE WVD
+    - Azure RedHat OpenShift ACR: Gruppo di servizi 3 = ARO, Livello di servizio 2 = Tutti tranne "Sconosciuto"
+- Desktop virtuale Windows Microsoft
+    - Windows Virtual Desktop ACR: Service Influencer = NATIVE WVD
 - Modernizzazione delle applicazioni Web in Microsoft Azure
     - Servizio app di Azure ACR: Livello di servizio 1 = Calcolo e Livello di servizio 2 = Servizio app di Azure
+    - Azure Spring Cloud ACR:
+        - Tipo di regolazione ACR = N/D
+        - Gruppo di servizi 2 = Sviluppo di app
+        - Gruppo di servizi 3 = Spring Cloud 
+        - Livello di servizio 2 = Tutti tranne "Sconosciuto"
+
 - Analisi in Microsoft Azure
     - Azure Synapse Analytics ACR: Gruppo di servizi 3 = SQL DW
     - Data Lake ACR: Gruppo di servizi 3 = Azure Data Lake
@@ -161,7 +170,7 @@ Seguire quindi questa procedura per fornire i riferimenti dei clienti in Partner
     - Azure Data Factory ACR: Service Group3 = Data Factory  
 - Infrastruttura cloud ibrida con Microsoft Azure Stack HCI
     - Azure Stack HCI ACR: Livello di servizio 2 = Azure Stack HCI
-- Microsoft Azure soluzione VMware
+- Microsoft Azure Soluzione VMware
     - Azure VMware Solutions (AVS) ACR: Livello di servizio 4 = soluzione Azure VMware, Soluzione Azure VMware di CloudSimple, soluzione Azure VMware di Virtustream, Specialized Compute soluzione Azure VMware
 - Operazioni e gestione ibride con Microsoft Azure Arc 
     - ACR del server abilitato per Arc: livello di servizio 4 = Criteri di Azure
@@ -171,28 +180,28 @@ Seguire quindi questa procedura per fornire i riferimenti dei clienti in Partner
 
 
 - Migrazione di Windows Server e SQL Server a Microsoft Azure
-    - Registro Windows Registro Windows: 
+    - Windows Acr: 
         - ACR Adjustment Type = N/D, Compute Core SW = Core,
         - Sistema operativo di calcolo = WINDOWS THEN Attributo del sistema operativo di calcolo = WINDOWS, UNKNOWN o Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
         - Livello di servizio 2= servizi cloud, istanze di contenitore, registro contenitori, calcolo specializzato, macchine virtuali, licenze di macchine virtuali
-    - Registro Controllo di accesso del database SQL : Gruppo di servizi 3 = SQLDB
-    - Sql Istanza gestita (MI) ACR: Service Group 3 = SQL DB MI
-    - SQL VM ACR: Service Group 3 = SQL on IaaS, SQL on IaaS VM
-- Migrazione del database Open-Source Linux e del database Microsoft Azure
+    - database SQL registro di controllo di accesso (DB): Gruppo di servizi 3 = SQLDB
+    - SQL Istanza gestita(MI) ACR: Service Group 3 = SQL DB MI
+    - SQL Vm ACR: Gruppo di servizi 3 = SQL in IaaS, SQL nella macchina virtuale IaaS
+- Migrazione di database linux e Open-Source a Microsoft Azure
     - macchine virtuali Linux (VM)ACR:
         - Opzione 1:
-            - ACR Adjustment Type= N/A, Service Level 2 = Virtual Machines, Compute OS= Linux, Compute OS Attribute = Non-Windows, UNKNOWN , Windows
-            - Livello di servizio 4= Tutti tranne i servizi cloud serie MS, macchine virtuali serie MS, macchine virtuali serie MS Windows, macchine virtuali serie MSv2, macchine virtuali MSv2 serie Windows, host dedicato serie MS, host dedicato serie MSv2
+            - ACR Adjustment Type= N/A, Service Level 2 = Virtual Machines, Compute OS= Linux, Compute OS Attribute = Non-Windows , UNKNOWN , Windows
+            - Livello di servizio 4 = Tutte le serie MS di servizi cloud, macchine virtuali serie MS, macchine virtuali serie MS Windows, macchine virtuali serie MSv2, macchine virtuali serie MSv2 Windows, host dedicato serie MS, host dedicato della serie MSv2
         - Opzione 2: è necessario applicare filtri solo al livello di servizio 4. Altri campi come Gli attributi del sistema operativo di calcolo/del sistema operativo di calcolo non sono obbligatori
-            - Livello di servizio 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux con ha, SUSE Linux Enterprise Server - Basic, SUSE Linux Enterprise Server per HPC - Priority, SUSE Linux Enterprise Server per HPC - Standard, SUSE Linux Enterprise Server - Priority, SUSE Linux Enterprise Server - Standard
+            - Livello di servizio 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux con ha, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server per HPC Priority, SUSE Linux Enterprise Server per HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
     - Database di Azure (DB) per MariaDB ACR: Livello di servizio 1 = Database e Livello di servizio 2 = Database di Azure per MariaDB
     - ACR di Database di Azure per MySql: livello di servizio 1 = database e livello di servizio 2 = Database di Azure per MySQL e Database MySQL su Azure
-    - Azure DB for Postgre SQL ACR: Livello di servizio 1 = Database e Livello di servizio 2 = PostgreSQL
+    - Azure DB per Postgre SQL ACR: Livello di servizio 1 = Database e Livello di servizio 2 = PostgreSQL
     - Registro Azure Cosmos DB ACR: Livello di servizio 1 = Database e Livello di servizio 2 = CosmosDB
 - Threat Protection
     - Azure Sentinel ACR: Livello di servizio 4 = Sentinel
 - Sicurezza del cloud
-    - Ambiente ibrido XDR e Registro Azure Container per la sicurezza di rete: livello di servizio 4 = Azure Defender per SQL, Azure Defender per registri contenitori, Azure Defender per Kubernetes, Azure Defender per l'archiviazione, WAF del gateway applicazione v2, gateway applicazione WAF, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory per identità esterne, Azure Bastion, Protezione DDOS di Azure, Firewall di Azure , Gestione firewall di Azure, servizio Frontdoor di Azure, Azure Defender per IoT, HSM dedicato di Azure, Key Vault, Network Watcher, Azure Defender per il servizio app, Azure Defender per server, Sentinel
+    - Hybrid Environment XDR and Network Security ACR: Livello di servizio 4 = Azure Defender per SQL, Azure Defender per registri contenitori, Azure Defender per Kubernetes, Azure Defender per Archiviazione, waf del gateway applicazione v2, gateway applicazione WAF, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory per identità esterne, Azure Bastion, Protezione DDOS di Azure, Firewall di Azure, Gestione firewall di Azure, servizio Frontdoor di Azure, Azure Defender per IoT, HSM dedicato di Azure, Key Vault, Network Watcher, Azure Defender per il servizio app, Azure Defender per server, Sentinel
 
 ## <a name="next-steps"></a>Passaggi successivi
 

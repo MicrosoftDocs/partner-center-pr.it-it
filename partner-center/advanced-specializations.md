@@ -1,7 +1,7 @@
 ---
 title: Informazioni sulle specializzazioni avanzate
 ms.topic: article
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Rafforzare il profilo di business nella directory dei partner Microsoft. Informazioni sulle specializzazioni avanzate che è possibile ottenere insieme alle competenze Gold e Silver esistenti.
@@ -9,18 +9,18 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 779e6d344d9fc75a45a4d89a65ebff3ace8ce8cb
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125923"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489810"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ottenere una specializzazione avanzata per presentare le funzionalità convalidate
 
 **Ruoli appropriati:** amministratore globale | Amministratore account
 
-Le specializzazioni avanzate Microsoft si basano sulle [competenze Gold](learn-about-competencies.md) correlate che un partner può ottenere. Ottenere competenze gold, insieme alle specializzazioni avanzate correlate, consente ai partner di differenziare ulteriormente le proprie capacità per i clienti.
+Le specializzazioni avanzate Microsoft si basano sulle [competenze Gold](learn-about-competencies.md) correlate che un partner può ottenere. Ottenere competenze Gold, insieme alle specializzazioni avanzate correlate, consente ai partner di differenziare ulteriormente le proprie funzionalità per i clienti.
 
 Per ottenere una specializzazione avanzata, un partner deve spesso soddisfare requisiti impegnativi, ad esempio ottenere i riferimenti dei clienti, sottoporsi a un controllo di terze parti, dimostrare il raggiungimento di un set di competenze pertinente e soddisfare determinate altre misurazioni delle prestazioni.
 
@@ -53,11 +53,14 @@ Ogni specializzazione avanzata corrisponde a un'area della soluzione:
 - Intelligenza artificiale e Machine Learning in Microsoft Azure
 - Infrastruttura cloud ibrida con Microsoft Azure Stack HCI
 - Operazioni e gestione ibride con Microsoft Azure Arc
-- Microsoft Azure soluzione VMware
+- Microsoft Azure Soluzione VMware
+- DevOps con GitHub in Microsoft Azure
+- Servizi di rete in Microsoft Azure
+
 
 **Business Applications** specializzazioni avanzate includono:
 
-- Sviluppo di applicazioni con codice ridotto
+- Sviluppo di applicazioni con basso codice
 - Gestione di piccole e medie imprese
 
 **Le specializzazioni** avanzate di Modern Work includono:
@@ -81,7 +84,7 @@ Ogni specializzazione avanzata corrisponde a un'area della soluzione:
 
 - Usare Partner Center [per richiedere e controllare lo stato delle specializzazioni avanzate](advanced-specializations-apply.md)
 
-- Altre informazioni sulle [specializzazioni avanzate, i relativi vantaggi e requisiti univoci](https://partner.microsoft.com/membership/advanced-specialization)
+- Altre informazioni sulle [specializzazioni avanzate, i vantaggi e i requisiti specifici](https://partner.microsoft.com/membership/advanced-specialization)
 
 - Informazioni su [come ottenere competenze di iscrizione Microsoft Silver o Gold](learn-about-competencies.md)
 

@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: dc0c720544f4a8a3c95e5b91ec656e65dbce7c80
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 4dac00e420b8787d2c8f67072a45bc29cbe7a645
+ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276111"
+ms.lasthandoff: 07/11/2021
+ms.locfileid: "113599790"
 ---
 # <a name="payout-statements"></a>Estratti conto
 
@@ -48,18 +48,18 @@ Accedere a [Partner Center](https://partner.microsoft.com/dashboard/home) e sele
 
 :::image type="content" source="images/payouts/payout-overview.png" alt-text="Illustra l'icona Proventi nell'angolo superiore destro del portale del Centro per i partner.":::
 
-È anche possibile usare [l'API Partner Payout](https://apidocs.microsoft.com/services/partnerpayouts) per connettersi e ottenere direttamente i dati di transazione e pagamento dei pagamenti.
+È anche possibile usare [l'API Partner Payout](/rest/api/partner-center/partner-payouts) per connettersi e ottenere direttamente i dati di transazione e pagamento dei pagamenti. Per altre [informazioni, vedere Gestire i pagamenti usando l'API del servizio di pagamento.](/partner-center/develop/manage-payouts)
 
 
 ## <a name="transaction-history"></a>Cronologia delle transazioni
 
-La **pagina Cronologia transazioni** mostra il riepilogo degli utili, il pagamento successivo stimato e la tendenza degli utili e dei pagamenti negli ultimi 36 mesi. È anche possibile scaricare i dettagli delle transazioni da questa sezione.<br><br>Questo report mostra tutti gli utili idonei per i proventi, inclusi i pagamenti non ancora inviati. Gli utili sono idonei per il pagamento quando un ISV ha completato tutte le informazioni bancarie e fiscali in Partner Center, ha ottenuto >$ 50, l'account ISV è attivo e il cliente è stato fatturato (per le transazioni EA) o il pagamento è stato ricevuto (per le transazioni non EA).
+La **pagina Cronologia** transazioni mostra il riepilogo degli utili, il pagamento successivo stimato e la tendenza degli utili e dei pagamenti negli ultimi 36 mesi. È anche possibile scaricare i dettagli delle transazioni da questa sezione.<br><br>Questo report mostra tutti gli utili idonei per i proventi, inclusi i pagamenti non ancora inviati. Gli utili sono idonei per il pagamento quando un ISV ha completato tutte le informazioni bancarie e fiscali in Partner Center, ha ottenuto >$ 50, l'account ISV è attivo e il cliente è stato fatturato (per le transazioni EA) o il pagamento è stato ricevuto (per le transazioni non EA).
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Panoramica delle transazioni.":::
 
 - **Utili inviati quest'anno:** utili totali e scomposizione degli utili che sono stati pagati e che verranno pagati nel mese successivo.
-- **Mese di pagamento stimato:** gli utili totali previsti nei prossimi mesi.
-- **Andamento degli utili e dei** pagamenti: utili mensili e importi dei pagamenti per gli ultimi 36 mesi.
+- **Mese di pagamento stimato:** utili totali previsti nei prossimi mesi.
+- **Utili e tendenza di pagamento:** utili mensili e importi dei pagamenti per gli ultimi 36 mesi.
 - **Download:** scaricare i dettagli della transazione .csv o TSV.
 
 Usare la selezione dell'intervallo di date nell'angolo superiore destro della pagina per filtrare l'output della pagina in modo da visualizzare gli ultimi 3, 6, 12 o 36 mesi. In caso contrario, selezionare un intervallo di date personalizzato fino a 36 mesi. L'intervallo di date predefinito è 12 mesi. È anche possibile filtrare in base a ID registrazione, programma, ID pagamento, tipo di reddito, leve e stato. I dati sono disponibili per l'anno fiscale corrente (1 luglio - 30 giugno) e per i due anni fiscali precedenti.
@@ -76,54 +76,54 @@ Questa visualizzazione mostra i dettagli relativi ai ricavi, tra cui l'origine d
 
 - **Data di acquisto:** data di acquisto.
 - **Tipo di reddito:** tipo di reddito, ad esempio Sell, Rebate o Co-op.
-- **Importo totale:** importo netto del guadagno. Nel marketplace commerciale ciò significa che dopo aver detratto la tariffa del marketplace standard.
-- **Stato:** ha tre opzioni:
-    - **Imminente:** gli utili sono nel periodo di raffreddamento in sospeso.
+- **Importo totale:** importo netto del reddito. Nel marketplace commerciale questo significa dopo aver detratto la tariffa standard del marketplace.
+- **Stato:** include tre opzioni:
+    - **Upcoming:** gli utili sono in attesa di raffreddamento.
     - **Elaborato:** gli utili vengono preparati per il pagamento successivo.
     - **Inviato:** gli utili sono stati pagati.
-- **Mese di pagamento stimato:** mese previsto per il pagamento degli utili. Per altre [informazioni, vedere](#estimated-payment-month) la sezione successiva.
+- **Mese di pagamento** stimato: mese previsto per il pagamento degli utili. Per altre [informazioni, vedere](#estimated-payment-month) la sezione successiva.
 
-Le transazioni di guadagno vengono visualizzate quando la transazione soddisfa l'idoneità per i pagamenti. Per comprendere perché si potrebbero avere utili mancanti o imprevisti, vedere Domande comuni sui proventi del [marketplace commerciale.](payout-faq.md#why-are-my-earnings-missing)
+Le transazioni di reddito vengono visualizzate quando la transazione soddisfa l'idoneità ai pagamenti. Per comprendere il motivo per cui potrebbero essere presenti utili mancanti o imprevisti, vedere Domande comuni sui proventi [del marketplace commerciale.](payout-faq.md#why-are-my-earnings-missing)
 
 #### <a name="estimated-payment-month"></a>Mese di pagamento stimato
 
-La pagina Cronologia transazioni include ora una tabella che mostra gli importi di pagamento stimati per i prossimi mesi. È anche possibile visualizzare e scaricare queste informazioni nelle esportazioni del report Cronologia transazioni e Riepilogo. Queste informazioni semplificano le riconciliazione e le proiezioni di pagamento.
+La pagina Cronologia transazioni include ora una tabella che mostra gli importi dei pagamenti stimati per i prossimi mesi. È anche possibile visualizzare e scaricare queste informazioni nelle esportazioni del report Cronologia transazioni e Riepilogo. Queste informazioni semplificano le riconciliazione e le proiezioni di pagamento.
 
-Il mese di pagamento stimato viene calcolato in base alle regole di configurazione del programma e alle sequenze temporali e viene elaborato nel ciclo di pagamento successivo/successivo.
+Il mese di pagamento stimato viene calcolato in base alle regole e alle sequenze temporali di configurazione del programma e viene elaborato nel ciclo di pagamento successivo/successivo.
 
-Il mese di pagamento stimato è attualmente disponibile per tutti i tipi di guadagno, ad eccezione della co-op, che verrà visualizzato **come Non applicabile.** Per gli utili prima del 1° luglio 2020, il mese di pagamento stimato verrà visualizzato **come Non disponibile.**
+Il mese di pagamento stimato è attualmente disponibile per tutti i tipi di reddito, ad eccezione della co-op, che verrà visualizzato **come Non applicabile.** Per gli utili prima del 1° luglio 2020, il mese di pagamento stimato verrà visualizzato **come Non disponibile.**
 
-La tabella seguente illustra un esempio di mese di pagamento stimato.
+La tabella seguente mostra un esempio di mese di pagamento stimato.
 
 | Month | Amount |
 | ------ | :-----------: |
-|  Settembre 2020 |  $7.273,99   |
-|  Ottobre 2020 | $8.692,30  |
-|  Novembre 2020 | $107,89  |
+|  Settembre 2020 |  $ 7.273,99   |
+|  Ottobre 2020 | $ 8.692,30  |
+|  Novembre 2020 | $ 107,89  |
 
-L'importo stimato può variare dall'importo effettivo per diversi motivi:
+L'importo stimato può variare rispetto all'importo effettivo per diversi motivi:
 
-- Riestatement dei ricavi: se gli utili vengono ricalcolati, l'importo effettivo sarà diverso
-- Rettifiche: l'importo effettivo varia a seconda delle rettifiche che si sono verificate o sono state inviate.
-- Modifica delle regole: una modifica delle regole può riflettere il ricalcolo dell'importo effettivo pagato
-- Da pagare: se si verifica un errore di pagamento, l'importo effettivo potrebbe essere diverso
+- Rieserzione degli utili: se gli utili vengono ricalcolati, l'importo effettivo sarà diverso
+- Rettifiche: l'importo effettivo varia a seconda delle rettifiche apportate o inviate.
+- Modifica delle regole: una modifica nelle regole può riflettere il ricalcolo dell'importo effettivo pagato
+- Pagamento a pagamento: se si verifica un errore di pagamento, l'importo effettivo potrebbe essere diverso
 
-Si noti che il pagamento viene rilasciato solo nel mese proiettato se vengono soddisfatte le regole di soglia e di idoneità al pagamento del programma. Queste regole includono ma non sono limitate all'elenco seguente:
+Si noti che il pagamento viene rilasciato solo nel mese proiettato se vengono soddisfatte le regole di soglia e di idoneità al pagamento del programma. Queste regole includono, ad esempio, l'elenco seguente:
 
 - Il profilo fiscale deve essere aggiornato
 - Gli utili devono soddisfare o superare la soglia minima di guadagno definita nella guida al programma.
-- Pagamento in attesa: se si seleziona l'opzione "Mantieni pagamento" nella pagina di assegnazione dei profili.
-- Strumento di pagamento non disponibile: il pagamento o/e il profilo fiscale non sono stati completati.
+- Pagamento in sospeso: se si seleziona l'opzione "Hold my Payment" (Mantieni pagamento) nella pagina di assegnazione dei profili.
+- Strumento di pagamento non disponibile: il profilo di pagamento o/e fiscale non è stato completato.
 
 ### <a name="transaction-history-download"></a>Download della cronologia delle transazioni
 
-Per visualizzare altri dettagli su un guadagno, selezionare **Scarica** nella parte superiore della pagina. Nella tabella seguente viene illustrata ogni colonna del report.
+Per visualizzare altri dettagli su un reddito, selezionare **Scarica** nella parte superiore della pagina. Nella tabella seguente viene illustrata ogni colonna del report.
 
 >[!NOTE]
 >L'esportazione del download della cronologia delle transazioni include due nuovi campi a partire da agosto 2020:
 >
 >- **lastPaymentCurrency**  Valuta in cui è stato ricevuto il pagamento più recente, in tutti i mpn a cui il partner attualmente connesso ha accesso. Se non viene ricevuto alcun pagamento, l'ultima valuta di pagamento sarà in dollari STATUNITENSI.
->- **earningAmountInLastPaymentCurrency**  Importo di guadagno nell'ultima valuta di pagamento.
+>- **earningAmountInLastPaymentCurrency**  Importo del reddito nell'ultima valuta di pagamento.
 
 | Nome colonna | Descrizione | Applicabilità per programmi di incentivi/marketplace |
 | --- | --- | --- |
@@ -134,7 +134,7 @@ Per visualizzare altri dettagli su un guadagno, selezionare **Scarica** nella pa
 | claimId | Identificatore univoco per l'attestazione | Incentivi: solo alcuni programmi |
 | customerCountry | Paese/Area geografica del cliente | marketplaces |
 | customerEmail |  |  |
-| customerName | Può essere vuoto | Solo programmi di incentivi (eccezione: OEM) e marketplace. Per le transazioni CSP, nei marketplace verrà visualizzato il nome del provider di servizi condivisi |
+| customerName | Può essere vuoto | Solo programmi di incentivi (eccezione: OEM) e marketplace. Per le transazioni CSP, i marketplace mostreranno il nome del CSP |
 | customerTenantId |  |  |
 | distributorId | Identificatore del distributore | Incentivi: solo alcuni programmi |
 | distributorName | Nome del distributore | Incentivi: solo alcuni programmi |
@@ -144,7 +144,7 @@ Per visualizzare altri dettagli su un guadagno, selezionare **Scarica** nella pa
 | earningDate | Data del reddito | Tutti |
 | earningExchangeRate | Tasso di cambio usato per visualizzare l'importo corrispondente in dollari statunitensi | Tutti |
 | earningId | Identificatore univoco per ogni reddito | Tutti |
-| earningRate | Tasso di incentivi applicato all'importo della transazione per generare un guadagno | Tutti |
+| earningRate | Tasso di incentivi applicato all'importo della transazione per generare un reddito | Tutti |
 | earningType | Indica se si tratta di corrispettivi, sconti, co-op, vendite e così via | Tutti |
 | exchangeRateDate | Data del tasso di cambio usata per calcolare il valore in dollari statunitensi di EarningAmount | Tutti |
 | externalReferenceId | Identificatore univoco per il programma | Programmi a pagamento diretto (incentivi e marketplace) |
@@ -227,7 +227,7 @@ Nella tabella seguente sono elencati i codici motivo per le rettifiche e le rela
 La **pagina** Pagamenti dettaglia il denaro ottenuto con Microsoft. Mostra anche quando e quanto verrà pagato.
 
 >[!Note]
-> Per poter beneficiare del pagamento, gli introiti devono raggiungere la [soglia di pagamento](payment-thresholds-methods-timeframes.md) di 50 dollari statunitensi. Per altre informazioni, vedere il [Contratto di Microsoft Publisher.](/legal/marketplace/msft-publisher-agreement)
+> Per poter beneficiare del pagamento, gli introiti devono raggiungere la [soglia di pagamento](payment-thresholds-methods-timeframes.md) di 50 dollari statunitensi. Per altre informazioni, vedere il [contratto Microsoft Publisher.](/legal/marketplace/msft-publisher-agreement)
 
 :::image type="content" source="images/payouts/payments-overview.png" alt-text="Schermata panoramica dei pagamenti.":::
 
@@ -238,11 +238,11 @@ La **pagina** Pagamenti dettaglia il denaro ottenuto con Microsoft. Mostra anche
 
 ### <a name="payments-list"></a>Elenco pagamenti
 
-La **tabella Elenco dei pagamenti** mostra i pagamenti a pagamento e in sospeso. È possibile scaricare le informazioni fiscali relative alle spese di servizio in formato PDF e visualizzare i dettagli di guadagno per un determinato pagamento.
+La **tabella Elenco dei pagamenti** mostra i pagamenti a pagamento e in sospeso. È possibile scaricare le informazioni sulla tariffa del servizio in formato PDF e visualizzare i dettagli di guadagno per un determinato pagamento.
 
 :::image type="content" source="images/payouts/list-of-payments.png" alt-text="Esportare la cronologia delle transazioni.":::
 
-- **Pagamento:** tutti i pagamenti inviati correttamente. Scegliere l'anno nel menu a discesa per filtrare i pagamenti rilasciati in tale anno.
+- **A pagamento:** tutti i pagamenti inviati correttamente. Scegliere l'anno nel menu a discesa per filtrare i pagamenti rilasciati in tale anno.
 - **In sospeso:** pagamenti imminenti.
 - **Imposta sulla tariffa del servizio (modulo PDF):** disponibile per i pagamenti soggetti all'imposta sulla tariffa del servizio. Le imposte sulle spese di servizio sono visualizzate in **Altre imposte**.
 - **Visualizza:** reindirizza alla cronologia delle transazioni con un elenco di utili inclusi nel pagamento.
@@ -313,8 +313,8 @@ Il **riepilogo esporta dati** fornisce anche l'accesso alle istruzioni cronologi
 
 :::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Esportare le istruzioni cronologiche.":::
 
-- La cronologia delle transazioni precedente al 1° luglio 2019 viene gestita separatamente e usa campi diversi dei report di cronologia successivi.
-- La cronologia delle transazioni legacy include una colonna denominata "Reserved" che corrisponde alla colonna "Earnings" nella cronologia moderna, ad eccezione del fatto che esclude tutti gli utili con stato "Payment Sent".
+- La cronologia delle transazioni precedenti al 1° luglio 2019 viene gestita separatamente e usa campi diversi dai report di cronologia successivi.
+- La cronologia delle transazioni legacy include una colonna denominata "Reserved" che corrisponde alla colonna "Earnings" nella cronologia moderna, con la differenza che esclude tutti gli utili con stato "Payment Sent".
 - Filtri come 3M, 6M o 12M, non si applicano alla sezione dei rendiconti cronologici.
 
 ### <a name="historical-statement-downloads"></a>Download di istruzioni cronologiche
@@ -324,7 +324,7 @@ Nella tabella seguente viene illustrata ogni colonna in un'istruzione cronologic
 | Nome campo | Descrizione |
 | --- | --- |
 | Origine dei ricavi | Origine dei ricavi in base a dove si è verificata la transazione, ad esempio Microsoft Store, Windows Phone Store, Windows 8 Store o Microsoft Advertising |
-| ID dell'ordine | Identificatore univoco dell'ordine. Questo ID consente di identificare le transazioni di acquisto con le rispettive transazioni non di acquisto, ad esempio rimborsi o chargeback. Entrambe avranno lo stesso ID ordine. Inoltre, se è presente un addebito suddiviso in cui sono stati usati più metodi di pagamento per un singolo acquisto, è possibile collegare le transazioni di acquisto. |
+| ID dell'ordine | Identificatore univoco dell'ordine. Questo ID consente di identificare le transazioni di acquisto con le rispettive transazioni non di acquisto, ad esempio rimborsi o chargeback. Entrambe avranno lo stesso ID ordine. Inoltre, se è presente un addebito suddiviso in cui sono stati usati più metodi di pagamento per un singolo acquisto, consente di collegare le transazioni di acquisto. |
 | TransactionID | Identificatore univoco della transazione. |
 | Data/ora della transazione | Data e ora in cui si è verificata la transazione (UTC). |
 | ID prodotto padre | Identificatore univoco del prodotto padre. Se non è presente un prodotto padre per la transazione, l'ID del prodotto padre coincide con l'ID del prodotto. |

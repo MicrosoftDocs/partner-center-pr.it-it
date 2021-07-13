@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: 4dac00e420b8787d2c8f67072a45bc29cbe7a645
-ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
+ms.openlocfilehash: b905d422b10e0b82225966fa5379283ea0b83a69
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/11/2021
-ms.locfileid: "113599790"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684016"
 ---
 # <a name="payout-statements"></a>Estratti conto
 
@@ -83,7 +83,7 @@ Questa visualizzazione mostra i dettagli relativi ai ricavi, tra cui l'origine d
     - **Inviato:** gli utili sono stati pagati.
 - **Mese di pagamento** stimato: mese previsto per il pagamento degli utili. Per altre [informazioni, vedere](#estimated-payment-month) la sezione successiva.
 
-Le transazioni di reddito vengono visualizzate quando la transazione soddisfa l'idoneità ai pagamenti. Per comprendere il motivo per cui potrebbero essere presenti utili mancanti o imprevisti, vedere Domande comuni sui proventi [del marketplace commerciale.](payout-faq.md#why-are-my-earnings-missing)
+Le transazioni di reddito vengono visualizzate quando la transazione soddisfa l'idoneità ai pagamenti. Per comprendere il motivo per cui potrebbero essere presenti utili mancanti o imprevisti, vedere Domande comuni sui proventi [del marketplace commerciale.](payout-faq.yml#why-are-my-earnings-missing-)
 
 #### <a name="estimated-payment-month"></a>Mese di pagamento stimato
 
@@ -194,7 +194,7 @@ Per visualizzare altri dettagli su un reddito, selezionare **Scarica** nella par
 | taxRemitted | Importo delle imposte versate (vendite, utilizzo o IVA/GST) | marketplaces |
 | taxState | Stato/Provincia del cliente |  |
 | taxZipCode | CAP/Codice postale del cliente |  |
-| tpan | Indica la rete pubblicitaria di terze parti | Marketplaces Solo annunci |
+| tpan | Indica la rete pubblicitaria di terze parti | Marketplaces Ads only (Solo annunci di marketplace) |
 | transactionAmount | Importo della transazione nella valuta della transazione originale in base a cui vengono generati gli utili | Tutti |
 | transactionAmountUSD | Importo della transazione in dollari statunitensi (USD) | Tutti |
 | transactionCountryCode | Codice paese/area geografica in cui è avvenuta la transazione |  |
@@ -213,41 +213,41 @@ Nella tabella seguente sono elencati i codici motivo per le rettifiche e le rela
 
 |**Codice motivo**   |**Descrizione**   |
 |------------------|:-------------------------------------|
-| Conformità ar | Rettifica che riduce gli utili quando le fatture Microsoft non vengono pagate in tempo dal partner. |
-| Rollover co-op | Rettifica che trasferisce gli utili co-op in un altro periodo o converte gli utili co-op in sconti. |
-| Regolazione delle operazioni | Rettifica che corregge gli errori di calcolo del sistema Microsoft. |
-| Ops Adjustment Microsoft incorrect calc | Rettifica che corregge i calcoli erri. |
-| Registrazione non corretta di Ops Adjustment Microsoft | Rettifica per i calcoli erri correlati alla registrazione. |
+| Conformità AR | Rettifica che riduce gli utili quando le fatture Microsoft non vengono pagate in tempo dal partner. |
+| Rollover co-op | Rettifica che trasferisce gli utili co-op in un altro periodo o converte gli utili co-op in uno sconto. |
+| Rettifica delle operazioni | Rettifica che corregge gli errori di calcolo del sistema Microsoft. |
+| Ops Adjustment Microsoft incorrect calc | Rettifica che corregge i calcoli non corretti. |
+| Ops Adjustment Microsoft incorrect enrollment (Registrazione non corretta di Microsoft per la rettifica delle operazioni) | Rettifica per i calcoli erre correlati alla registrazione. |
 | Mapping partner (sottoscrizione) MCI/CSP | Rettifica che corregge il disallineamento della sottoscrizione. |
 | Eccezione dei criteri | Regolazione che esegue l'override di una regola del programma.  |
-| Utili del periodo precedente | Rettifica per gli utili al di fuori del periodo di guadagno corrente. |
+| Utili del periodo precedente | Rettifica per gli utili al di fuori del periodo di reddito corrente. |
 
 ## <a name="payments"></a>Pagamenti
 
-La **pagina** Pagamenti dettaglia il denaro ottenuto con Microsoft. Mostra anche quando e quanto verrà pagato.
+La **pagina** Pagamenti visualizza in dettaglio il denaro ottenuto con Microsoft. Mostra anche quando e quanto verrà pagato.
 
 >[!Note]
-> Per poter beneficiare del pagamento, gli introiti devono raggiungere la [soglia di pagamento](payment-thresholds-methods-timeframes.md) di 50 dollari statunitensi. Per altre informazioni, vedere il [contratto Microsoft Publisher.](/legal/marketplace/msft-publisher-agreement)
+> Per poter beneficiare del pagamento, gli introiti devono raggiungere la [soglia di pagamento](payment-thresholds-methods-timeframes.md) di 50 dollari statunitensi. Per altre informazioni, vedere [l'Microsoft Publisher contratto .](/legal/marketplace/msft-publisher-agreement)
 
-:::image type="content" source="images/payouts/payments-overview.png" alt-text="Schermata panoramica dei pagamenti.":::
+:::image type="content" source="images/payouts/payments-overview.png" alt-text="Schermata di panoramica dei pagamenti.":::
 
-- **Totale pagato quest'anno:** il totale pagato quest'anno, in dollari statunitensi, per tutti i programmi.
-- **Pagamento successivo stimato:** il singolo pagamento successivo in arrivo (anche se ce ne saranno altri in arrivo), in dollari statunitensi.
-- **Ultimo pagamento:** importo (in dollari STATUNITENSI), nome del programma e programma del pagamento più recente.
-- **Pagamento per origine:** importo dei pagamenti (in dollari STATUNITENSI), per programma, negli ultimi 12 mesi.
+- **Totale pagato quest'anno:** il totale combinato pagato quest'anno, in dollari statunitensi, per tutti i programmi.
+- **Pagamento stimato successivo:** il singolo pagamento successivo in arrivo (anche se ne saranno presto disponibili altri), in dollari statunitensi.
+- **Ultimo pagamento:** importo (in dollari statunitensi), nome del programma e programma del pagamento più recente.
+- **Pagamento per origine:** importo dei pagamenti (in dollari statunitensi), per programma, negli ultimi 12 mesi.
 
 ### <a name="payments-list"></a>Elenco pagamenti
 
-La **tabella Elenco dei pagamenti** mostra i pagamenti a pagamento e in sospeso. È possibile scaricare le informazioni sulla tariffa del servizio in formato PDF e visualizzare i dettagli di guadagno per un determinato pagamento.
+La **tabella Elenco dei pagamenti** mostra i pagamenti a pagamento e in sospeso. È possibile scaricare le informazioni fiscali relative alle spese di servizio in formato PDF e visualizzare i dettagli degli utili per un determinato pagamento.
 
 :::image type="content" source="images/payouts/list-of-payments.png" alt-text="Esportare la cronologia delle transazioni.":::
 
-- **A pagamento:** tutti i pagamenti inviati correttamente. Scegliere l'anno nel menu a discesa per filtrare i pagamenti rilasciati in tale anno.
+- **Pagato:** tutti i pagamenti inviati correttamente. Scegliere l'anno nel menu a discesa per filtrare in base ai pagamenti rilasciati in quell'anno.
 - **In sospeso:** pagamenti imminenti.
 - **Imposta sulla tariffa del servizio (modulo PDF):** disponibile per i pagamenti soggetti all'imposta sulla tariffa del servizio. Le imposte sulle spese di servizio sono visualizzate in **Altre imposte**.
 - **Visualizza:** reindirizza alla cronologia delle transazioni con un elenco di utili inclusi nel pagamento.
 
-Per comprendere perché si potrebbero avere utili mancanti o imprevisti, vedere Domande comuni sui proventi del [marketplace commerciale.](payout-faq.md#why-are-my-earnings-missing)
+Per comprendere perché si potrebbero avere utili mancanti o imprevisti, vedere Domande comuni sui proventi del [marketplace commerciale.](payout-faq.yml#why-are-my-earnings-missing-)
 
 ### <a name="payment-status"></a>Stato dei pagamenti
 
@@ -309,7 +309,7 @@ Ecco un esempio di esportazione dei pagamenti:
 Il **riepilogo esporta dati** fornisce anche l'accesso alle istruzioni cronologiche.
 
 > [!NOTE]
-> Un'istruzione cronologica è uno snapshot e non viene aggiornata. Se [necessario, contattare](https://partner.microsoft.com/support/v2/?stage=1) il supporto tecnico e richiedere i dati più recenti.
+> Un'istruzione cronologica è uno snapshot e non viene aggiornata. Contattare il [supporto](https://partner.microsoft.com/support/v2/?stage=1) tecnico e richiedere i dati più recenti, se necessario.
 
 :::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Esportare le istruzioni cronologiche.":::
 

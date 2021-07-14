@@ -57,13 +57,13 @@
         - name: Visual Studio vantaggi
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
-        - name: Prevendite tecniche e servizi di distribuzione
+        - name: Servizi tecnici di prevendita e distribuzione
           href: technical-benefits.md
           displayname: 'TPD, presales, deployment, technical'
         - name: Vantaggi tecnici
           href: mpn-benefits-technical-support.md
           displayname: 'support, incidents, technical'
-        - name: Creare un logo usando Logo Builder
+        - name: Creare un logo con Logo Builder
           href: mpn-logo-builder.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
@@ -83,13 +83,13 @@
         - name: Informazioni sulle competenze
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Registrarsi come Learning partner
+        - name: Registrarsi come partner Learning
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Domande frequenti sulle competenze
           href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Pagare le spese di competenza
+        - name: Pagare le tariffe di competenza
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Esenzione dalle competenze per lo sviluppo di app
@@ -106,7 +106,7 @@
           displayName: 'mpn, Advanced specializations'
     - name: Diventare un partner Azure Expert MSP
       href: azure-expert-msp.md
-- name: Cloud Solution Provider programma (CSP)
+- name: Cloud Solution Provider (CSP)
   href: csp-overview.md
   displayName: csp
   items:
@@ -126,7 +126,7 @@
 - name: Contratti CSP
   href: microsoft-partner-agreement.md
   items:
-    - name: In che modo i provider indiretti possono aiutare i rivenditori ad adottare l'MPA
+    - name: In che modo i provider indiretti possono aiutare i rivenditori ad adottare il programma MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
     - name: 'Contratti, listini prezzi e offerte del programma CSP'
@@ -191,7 +191,7 @@
         - name: Aggiornare il profilo del partner
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Certificazione dell'inserzione di Partner Finder
+        - name: Certificazione dell'inserzione del Finder per i partner
           href: partner-finder-certification.md
         - name: Informazioni sul numero ID registrazione
           href: reg-number-id.md
@@ -273,7 +273,7 @@
     - name: Introduzione agli incentivi
       items:
         - name: Domande frequenti sugli incentivi
-          href: incentives-faq.md
+          href: incentives-faq.yml
           displayName: mpn
         - name: Introduzione agli incentivi
           href: incentives-get-started-intro.md
@@ -433,7 +433,7 @@
           displayName: 'region, regio'
         - name: Richiedere crediti del contratto di servizio a Microsoft
           href: request-credit.md
-        - name: Effetti dei criteri fiscali sui pagamenti
+        - name: Impatto dei criteri fiscali sui pagamenti
           href: tax-policies-affect-payout.md
     - name: Impostare un budget di spesa di Azure per i clienti
       href: set-an-azure-spending-budget-for-your-customers.md

@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fc263c617a6a26872604970a42eb100708062fed
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 31c09817530e78620663f3b625db0e55f8924b91
+ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276621"
+ms.lasthandoff: 07/15/2021
+ms.locfileid: "114224735"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informazioni sul Contratto Microsoft Partner per i partner del programma CSP
 
@@ -68,10 +68,10 @@ Per continuare a partecipare al programma CSP, devi firmare il Contratto Microso
 
 Ricordarsi di accettare la richiesta di relazione CSP con il provider indiretto.
 
-## <a name="sign-the-mpa"></a>Firmare l'MPA
+## <a name="sign-the-mpa"></a>Firmare il MPA
 
-1. Accedere Partner Center con l'account CSP Indirect Reseller utente. È necessario essere l'amministratore globale.
-1. Passare alla pagina **[panoramica di CSP.](https://partner.microsoft.com/pcv/dashboard/overview)**  Se non viene visualizzato Accept **and continue** (Accetta e continua) o il banner verde indica che mpa è firmato, non si ha il ruolo giusto per firmare MPA. Contattare l'amministratore globale per firmare il MPA.
+1. Accedere al Centro per i partner con l'account CSP Indirect Reseller. È necessario essere l'amministratore globale.
+1. Passare alla pagina **[panoramica di CSP.](https://partner.microsoft.com/pcv/dashboard/overview)**  Se non viene visualizzato Accept **and continue** (Accetta e continua) o il banner verde indica che mpa è firmato, non si ha il ruolo giusto per firmare MPA. Contattare l'amministratore globale per firmare il Contratto Microsoft Partner.
 
 1. Per visualizzare e scaricare il **Contratto Microsoft Partner** prima di firmarlo, selezionare il collegamento Contratto Microsoft Partner come illustrato di seguito.
 
@@ -86,7 +86,7 @@ Ricordarsi di accettare la richiesta di relazione CSP con il provider indiretto.
 
 Per verificare se hai firmato il Contratto Microsoft Partner:
 
- In quanto amministratore globale dell'azienda, passare a Panoramica del programma [CSP](https://partner.microsoft.com/pcv/dashboard/overview) e verificare che il banner verde in cui viene notificato l'accettazione del MPA sia stato accettato.
+ In quanto amministratore globale dell'azienda, passare alla panoramica del programma [CSP](https://partner.microsoft.com/pcv/dashboard/overview) e verificare che il banner verde in cui viene notificato che è stato accettato il programma MPA.
 
  
 :::image type="content" source="images/banner-boxed.png" alt-text="Banner verde che mostra l'accettazione del MPA.":::
@@ -96,10 +96,10 @@ Per verificare se hai firmato il Contratto Microsoft Partner:
 
 È anche possibile verificare se il contratto è stato firmato selezionando **Contratti** in **Impostazioni account**.
 
-:::image type="content" source="images/agreement-new.png" alt-text="Indicazione della firma del Contratto Microsoft Microsoft.":::
+:::image type="content" source="images/agreement-new.png" alt-text="Indicazione che il Contratto Microsoft Per il Contratto Microsoft è firmato.":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Scaricare la guida dettagliata per la posizione in cui ci si trova nel processo di firma MPA
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Scaricare la guida dettagliata per il processo di firma MPA
 
 1. Se si esegue la migrazione dell'account MPN da PMC al Centro per i partner: [Eseguire la migrazione da PMC al Centro per i partner e accettare il Contratto Microsoft Partner](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
@@ -109,6 +109,6 @@ Per verificare se hai firmato il Contratto Microsoft Partner:
  
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Come i provider indiretti possono aiutare i rivenditori ad adottare il Contratto Microsoft Partner - Domande frequenti](mpa-indirect-provider-faq.md)
+- [Come i provider indiretti possono aiutare i rivenditori ad adottare il Contratto Microsoft Partner - Domande frequenti](mpa-indirect-provider-faq.yml)
 
 - [Iscriversi al programma Cloud Solution Provider](indirect-reseller-tasks-in-partner-center.md)

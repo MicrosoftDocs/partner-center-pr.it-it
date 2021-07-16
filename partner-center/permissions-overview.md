@@ -9,16 +9,16 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 582fdc98617be7d82c0bc61a0bf46ceb662954d3
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: a9cca322d7a37dce099c5bec44530b2006da7758
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112565084"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373670"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Assegnare ruoli utente e autorizzazioni per gli utenti di un'azienda che devono usare il Centro per i partner
 
-**Ruoli appropriati:** amministratore globale | Amministratore gestione utenti | Amministratore partner MPN
+**Ruoli appropriati:** Amministratore globale | Amministratore di gestione utenti | Amministratore partner MPN
 
 Ormai hai configurato il tuo profilo di partner, inclusi la ragione sociale e l'indirizzo, i dettagli per il supporto, le esenzioni fiscali, le coordinate bancarie e il contatto principale della tua azienda. Passaggio successivo: configurare gli utenti assegnando loro password e ruoli in modo che possano iniziare a lavorare con te nel Centro per i partner.
 
@@ -27,7 +27,7 @@ Ormai hai configurato il tuo profilo di partner, inclusi la ragione sociale e l'
 Puoi determinare i tipi di accesso al Centro per i partner di cui dispongono gli utenti assegnando loro ruoli e autorizzazioni specifici. I ruoli sono correlati ai programmi in cui è coinvolta la tua azienda. Ad esempio, se l'azienda è un'azienda Cloud Solution Provider (CSP), non solo si avranno i ruoli di gestione tenant standard Azure Active Directory (Azure AD), ad esempio l'amministratore globale, ma saranno necessari ruoli specifici per il programma CSP. Ogni programma prevede ruoli specifici.
 
 >[!Note]
-> Azure AD ruoli del tenant includono amministratore globale, amministratore utenti e ruoli CSP. I ruoli non Azure AD sono i ruoli che non gestiscono il tenant e includono l'amministratore partner MPN (Microsoft Partner Network), l'amministratore del profilo di business, l'amministratore delle segnalazioni, l'amministratore degli incentivi e l'utente incentivo. 
+> Azure AD ruoli tenant includono ruoli di amministratore globale, amministratore utente e CSP. I ruoli non Azure-AD sono i ruoli che non gestiscono il tenant e includono l'amministratore del partner MPN (Microsoft Partner Network), l'amministratore del profilo aziendale, l'amministratore delle segnalazioni, l'amministratore degli incentivi e l'utente incentivo. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gestire le transazioni commerciali nel Centro per i partner (ruoli Azure AD e CSP)
 
@@ -81,14 +81,14 @@ Puoi determinare i tipi di accesso al Centro per i partner di cui dispongono gli
 
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Fornitore del pannello di controllo (CPV) (ruolo CSP e ruolo non Azure Active Directory)
 
-I CSP sviluppano app per l'uso da parte dei partner CSP per consentire loro di integrare i propri sistemi con Partner Center API. 
+I CPV sviluppano app per l'uso da parte dei partner CSP per consentire loro di integrare i sistemi con Partner Center API. 
 
 |**Ruolo**   |**Operazioni consentite**|**Altre informazioni**|
 |------------------------------|:----------------------------|----|
 |Amministratore globale| Visualizzare e gestire il profilo Pannello di controllo vendor (CPV)|[Iscriversi come fornitore del pannello di controllo per integrare i sistemi di partner CSP con le API del Centro per i partner](enroll-as-cpv.md)
 ||Visualizzazione e gestione degli utenti che devono accedere alle funzionalità dei fornitori di pannelli di controllo|
 
-### <a name="guest-user-must-be-added-to-the-azure-ad-tenant"></a>Utente guest (deve essere aggiunto al tenant Azure AD)
+### <a name="guest-user-must-be-added-to-the-azure-ad-tenant"></a>Utente guest (deve essere aggiunto al tenant Azure AD guest)
 
 |**Utente guest**   | **Ruoli**|
 |---------------------------|:--------------------|
@@ -171,7 +171,7 @@ Insieme al nuovo ruolo utente Segnalazioni, viene introdotto anche l'ambito dell
 
 |**Ruolo** | **Operazioni consentite**|**Altre informazioni**|
 |------------------------------|:-------------------------|---|
-|Visualizzatore di report esecutivi|Accesso a tutti i set di dati di reporting, creazione di ticket di supporto per i partner, visualizzazione dei ticket di supporto per i partner creati|[Report del dashboard di panoramica disponibili in Insights del Centro per i partner](pci-overview-report.md)
+|Visualizzatore di report esecutivi|Accesso a tutti i set di dati di reporting, creazione di ticket di supporto per i partner, visualizzazione dei ticket di supporto per i partner creati|[Report del dashboard di panoramica disponibili in Insights del Centro per i partner](insights-overview-report.md)
 |Visualizzatore di report|Accesso ai report di dati tranne quelli relativi ai ricavi e ai dati personali di clienti e dipendenti, creazione di ticket di supporto per i partner, visualizzazione dei ticket di supporto per i partner creati|
 
 ## <a name="next-steps"></a>Passaggi successivi

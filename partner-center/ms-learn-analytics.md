@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5d73582d3cfe0aa19483526d9b77e55a4c7e0a0
-ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
+ms.openlocfilehash: d9f9ce631fe667030638e1a9167809e3dae69830
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2021
-ms.locfileid: "113989758"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373863"
 ---
 # <a name="use-microsoft-learn-analytics-reports"></a>Usare i Microsoft Learn di analisi dei dati
 
@@ -140,4 +140,4 @@ Per ottenere i dettagli di uno strumento di apprendimento usando l'ID oggetto ut
 Per altri report, vedere [Partner Center Insights](partner-center-insights.md).
 
 >[!NOTE] 
-> È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report nel dashboard Insights dati. [Altre informazioni](pci-download-reports.md) 
+> È possibile scaricare i dati non elaborati che generano questo report dalla sezione Scarica report nel dashboard Insights dati. [Altre informazioni](insights-download-reports.md) 

@@ -9,12 +9,12 @@ ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
 ms.date: 01/27/2021
-ms.openlocfilehash: f460ab4a692c9e8b515e361f3a18c4c240177b62
-ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
+ms.openlocfilehash: f17384d128cfad041e5dcfdc68f04df48228be94
+ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112450841"
+ms.lasthandoff: 07/15/2021
+ms.locfileid: "114224667"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informazioni per collaborare con provider indiretti nel programma Cloud Solution Provider
 
@@ -84,7 +84,7 @@ Da ottobre 2020 tutti i partner Microsoft nuovi per CSP effettueranno l'iscrizio
 
    4. Se non è possibile trovare l'ID MPN della posizione corrispondente all'account CSP che si vuole usare, è possibile aggiungere una nuova posizione che creerà un nuovo ID MPN. Per altre informazioni, [vedere Gestire le posizioni.](manage-locations.md)
 
-   5. È possibile rimandare questo passaggio per il momento, ma non sarà possibile accedere Contratto Microsoft Partner (MPA) o eseguire transazioni in CSP, fino a quando non si completa l'associazione dell'ID MPN all'account CSP.
+   5. È possibile posticipare questo passaggio per il momento, ma non sarà possibile accedere Contratto Microsoft Partner (MPA) o eseguire transazioni in CSP, fino a quando non si completa l'associazione dell'ID MPN all'account CSP.
 
    > [!IMPORTANT]
    > Selezionare l'ID MPN disponibile in Partner Center e nello stesso paese dell'account CSP e assicurarsi che l'ID MPN sia in Partner Center.
@@ -135,7 +135,7 @@ La sede aziendale legale come rivenditore indiretto CSP determina i provider ind
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-- [Come i provider indiretti possono aiutare i rivenditori ad adottare il Contratto Microsoft Partner - Domande frequenti](mpa-indirect-provider-faq.md)
+- [Come i provider indiretti possono aiutare i rivenditori ad adottare il Contratto Microsoft Partner - Domande frequenti](mpa-indirect-provider-faq.yml)
 
 - [Contratto Microsoft Partner](microsoft-partner-agreement.md)
 

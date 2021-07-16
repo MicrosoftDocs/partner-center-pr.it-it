@@ -1,21 +1,21 @@
 ### YamlMime:FAQ
 metadata:
-  title: Competenze - Domande frequenti
+  title: 'Competenze : domande frequenti'
   ms.topic: article
   ms.date: 11/23/2020
-  description: Risposte sulle competenze MPN Gold o Silver, sulla scadenza del vantaggio, sul rinnovo o sull'attivazione delle licenze per i vantaggi di azure, cloud, Visual Studio, tecnici e di supporto.
+  description: Risposte sulle competenze Gold o Silver di MPN, scadenza dei vantaggi, rinnovo o attivazione delle licenze per i vantaggi di azure, cloud, Visual Studio, tecnici e di supporto.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-mpn
   author: keramp88
   ms.author: keramp
   ms.localizationpriority: medium
-  ms.openlocfilehash: 18db609908e924ba2d968b0fec977163be88d9bc
-  ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+  ms.openlocfilehash: 72a71aa5202738b6912d1c54330bb674b2f2e8ae
+  ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 06/28/2021
-  ms.locfileid: "112989828"
-title: Competenze - Domande frequenti
+  ms.lasthandoff: 07/16/2021
+  ms.locfileid: "114373933"
+title: 'Competenze : domande frequenti'
 summary: >
   **Ruoli appropriati:** amministratore partner MPN
 
@@ -36,64 +36,64 @@ sections:
   - question: >
       Quando è possibile rinnovare l'appartenenza?
     answer: >
-      L'appartenenza esistente può essere rinnovata qualsiasi giorno dopo l'inizio della finestra di rinnovo. Il tuo periodo di rinnovo inizia in corrispondenza dell'anniversario della data di acquisto più un giorno. Ad esempio, se hai acquistato Microsoft Action Pack il 1° settembre 2018, il periodo di rinnovo inizia il 2 settembre 2019.
+      L'appartenenza esistente può essere rinnovata in qualsiasi giorno dopo l'inizio dell'intervallo di rinnovo. Il tuo periodo di rinnovo inizia in corrispondenza dell'anniversario della data di acquisto più un giorno. Ad esempio, se hai acquistato Microsoft Action Pack il 1° settembre 2018, il periodo di rinnovo inizia il 2 settembre 2019.
   - question: >
-      Come è possibile verificare gli esami e le certificazioni degli utenti dell'organizzazione?
+      Come è possibile verificare gli esami e le certificazioni adottate dagli utenti dell'organizzazione?
     answer: >
       Durante il processo di raggiungimento di una competenza, l'amministratore globale o l'amministratore partner MPN può analizzare quali utenti hanno completato un esame, una certificazione o una valutazione. L'amministratore può anche verificare lo stato di avanzamento rispetto ai requisiti di una competenza.
 
 
-      Possono eseguire questa operazione da Partner Center, come indicato di seguito:
+      È possibile farlo da Partner Center, come indicato di seguito:
 
 
       1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 
-      1. Selezionare **MPN** seguito da **Competenze**.
+      1. Selezionare **MPN** e quindi **Competenze.**
 
 
       1. Nella parte superiore della pagina Competenze individuare e selezionare **l'opzione Scarica report competenze.**
 
 
-      Altri report sulle competenze dell'organizzazione sono disponibili anche nell'area [Partner Center Insights](partner-center-insights.md) in Partner Center. Per visualizzare questi report, potrebbe essere necessario avere un ruolo specifico di Insights di **Visualizzatore** report o **Visualizzatore report executive**. Potrebbe essere necessario chiedere all'amministratore del partner MPN di concedere l'accesso a uno di questi ruoli.
+      Altri report sulle competenze dell'organizzazione sono disponibili anche [nell'area](partner-center-insights.md) Partner Center Insights in Partner Center. Per visualizzare questi report, potrebbe essere necessario assegnare un  ruolo specifico Insights di Visualizzatore report o **Executive Report Viewer**. Potrebbe essere necessario chiedere all'amministratore partner MPN di concedere l'accesso a uno di questi ruoli.
 
 
-      Visualizzare i report di Insights come indicato di seguito:
+      Visualizzare i Insights seguenti:
 
 
       1. Accedi al [dashboard](https://partner.microsoft.com/dashboard) Centro per i partner.
 
 
-      1. Selezionare **Informazioni dettagliate** dal menu Partner Center e quindi **Competenze dell'organizzazione.** Viene visualizzato un menu più piccolo.
+      1. Selezionare **Insights** dal menu Partner Center, quindi Competenze **dell'organizzazione.** Viene visualizzato un menu più piccolo.
 
 
       1. Selezionare **Training** o **Microsoft Learn** dal menu.
 
-         - Selezionare **Training** (Training) per visualizzare un riepilogo delle certificazioni, delle valutazioni e degli esami dell'organizzazione in un intervallo di tempo specifico. Per altre informazioni su questo report, vedere [Training](pci-training-dashboard.md).
+         - Selezionare **Training** per visualizzare un riepilogo delle certificazioni, delle valutazioni e degli esami dell'organizzazione in un intervallo di tempo specifico. Per altre informazioni su questo report, vedere [Training.](insights-training-dashboard.md)
 
-         - Selezionare **Microsoft Learn** per visualizzare un riepilogo dei moduli e dei percorsi di apprendimento completati dell'organizzazione in un intervallo di tempo specifico. Per altre informazioni su questo report, vedere Microsoft Learn [di analisi.](ms-learn-analytics.md)
+         - Selezionare **Microsoft Learn** per visualizzare un riepilogo dei moduli completati dell'organizzazione e dei percorsi Learning in un intervallo di tempo specifico. Per altre informazioni su questo report, vedere report [Microsoft Learn analytics .](ms-learn-analytics.md)
   - question: >
       Quanto tempo è necessario per visualizzare le valutazioni utente più recenti nel report Partner Center competenze utente?
     answer: >
-      L'account dell'università partner verrà associato all'account Partner Center utente. Le valutazioni dell'utente verranno visualizzate nel report Partner Center competenze utente entro **72 ore.**
+      L'account Partner University verrà associato all'account Partner Center'account utente. Le valutazioni dell'utente verranno visualizzate nel report Partner Center competenze utente entro **72 ore.**
 
 
-      In questo report verranno visualizzate solo le competenze rilevanti per le competenze Partner Center programmi. Alcune competenze ritirate possono essere visualizzate anche per 12 mesi o più dopo il ritiro.
+      Solo le competenze rilevanti per le competenze e i programmi in Partner Center verranno visualizzate in questo report. Alcune competenze ritirate possono essere visualizzate anche per 12 mesi o più dopo il ritiro.
 
 
-      Assicurarsi di controllare i requisiti per competenze specifiche. Per verificarsi,  usare l'opzione di menu Competenze nel [dashboard](https://partner.microsoft.com/dashboard) Partner Center o nella pagina Microsoft Partner Network [competenze .](https://partner.microsoft.com/membership/competencies)
+      Assicurarsi di controllare i requisiti per competenze specifiche. Per verifica, usare **l'opzione** di menu Competenze nel [dashboard](https://partner.microsoft.com/dashboard) Partner Center o la pagina Microsoft Partner Network [competenze .](https://partner.microsoft.com/membership/competencies)
 
 
       > [!NOTE]
 
-      > A meno che un esame, una valutazione o una certificazione non sia specificatamente indicato come requisito in una determinata competenza, non verrà considerato per soddisfare tale competenza.
+      > A meno che un esame, una valutazione o una certificazione non sia specificatamente menzionato come requisito di una particolare competenza, non verrà considerato per soddisfare tale competenza.
   - question: >
-      Quali sono i vantaggi software (ad esempio, i diritti di utilizzo delle licenze) a cui si ha diritto quando si ottiene una competenza Gold o Silver o si acquista una sottoscrizione Microsoft Action Pack (MAPS)?
+      Quali sono i vantaggi software (ad esempio, i diritti di utilizzo della licenza) a cui ho diritto quando si ottiene una competenza Gold o Silver o si acquista una sottoscrizione Microsoft Action Pack (MAPS)?
     answer: >
       Vedere le risorse seguenti:
 
 
-      - [Scaricare](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) le tabelle delle licenze per i partner di competenza.
+      - [Scaricare le](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) tabelle delle licenze per i partner con competenze.
 
 
       - [Scaricare](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) la tabella delle licenze per i partner Action Pack Microsoft.
@@ -104,7 +104,7 @@ sections:
   - question: >
       Perché i dati sulle prestazioni non vengono visualizzati nel report degli indicatori KPI delle competenze?
     answer: >
-      Controllare i requisiti nella competenza desiderata nel [dashboard](https://partner.microsoft.com/dashboard) Partner Center o nella pagina Microsoft Partner Network [competenze .](https://partner.microsoft.com/membership/competencies) In questo modo sarà possibile comprendere i requisiti per ottenere ogni competenza( ad esempio, tipo di associazione partner, tipo di offerta, TTM).
+      Controllare i requisiti nella competenza desiderata nel [dashboard](https://partner.microsoft.com/dashboard) Partner Center o nella pagina Microsoft Partner Network [competenze.](https://partner.microsoft.com/membership/competencies) In questo modo sarà possibile comprendere i requisiti per ottenere ogni competenza( ad esempio, tipo di associazione partner, tipo di offerta, TTM).
 
 
       > [!NOTE]
@@ -114,4 +114,4 @@ sections:
       >
 
       > Verranno considerati solo i dati degli ultimi 12 mesi per il calcolo delle prestazioni, delle competenze o di altri requisiti correlati a una competenza. Per altre informazioni sui calcoli delle prestazioni per competenze come cloud Business Applications, vedere Indicatori di contributo [dei partner.](partner-contribution-indicators.md)
-additionalContent: "\n## <a name=\"next-steps\"></a>Passaggi successivi\n   - Informazioni sulle [competenze MPN](learn-about-competencies.md)\n   - Informazioni sui [report Partner Center Insights](partner-center-insights.md)"
+additionalContent: "\n## <a name=\"next-steps\"></a>Passaggi successivi\n   - Informazioni sulle [competenze MPN](learn-about-competencies.md)\n   - Informazioni sui [Partner Center Insights report](partner-center-insights.md)"

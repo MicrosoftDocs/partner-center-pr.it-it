@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: b8f6f565e92ca4ac95d0787dff99893208722f02
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 506afac0d5efd11d85429a3289b22ca35c83af9f
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712512"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373959"
 ---
 # <a name="september-2020-announcements"></a>Annunci di settembre 2020
 
@@ -37,9 +37,9 @@ Tutti i partner CSP (Cloud Solution Provider) che si occupano della vendita di o
 ### <a name="details"></a>Dettagli
 
 >[!NOTE]
->A causa del feedback dei partner, la funzionalità di evasione del centro per i partner è stata ripristinare per ottenere il software e i codici di licenza per gli ordini di software di abbonamento perpetui e server. Verrà ripristinato lo stato precedente prima di essere rimosso il 19 gennaio 2021. Per ulteriori informazioni, vedere l' [annuncio di marzo 2021](./2021-march.md#4).
+>Grazie ai commenti e suggerimenti dei partner, viene ripristinata la Partner Center di adempimento per ottenere codici software e di licenza per gli ordini software di sottoscrizione perpetui e server. Verrà ripristinato allo stato precedente prima di essere rimosso il 19 gennaio 2021. Per altre informazioni, vedere [l'annuncio di marzo 2021.](./2021-march.md#4)
 
-I partner attualmente possono usare il Centro per i partner o l'interfaccia di amministrazione di Microsoft 365 per evadere download e codici di licenza del software per gli ordini di software CSP. A partire dal **19 gennaio 2021**, la funzionalità di evasione del software e del codice di licenza del centro per i partner verrà ritirata e i partner punteranno i clienti a usare l'interfaccia di **amministrazione di Microsoft 365** esclusivamente a questo scopo. La pagina software del cliente all'interno del centro per i partner conterrà un "collegamento approfondito" all'interfaccia di amministrazione di Microsoft 365, in cui è possibile puntare i clienti per ottenere le licenze dei clienti e i download del software. Ciò consente di garantire un'esperienza più sicura ed efficiente per i clienti stessi.
+I partner attualmente possono usare il Centro per i partner o l'interfaccia di amministrazione di Microsoft 365 per evadere download e codici di licenza del software per gli ordini di software CSP. A partire dal **19 gennaio 2021,** la funzionalità di adempimento del software Partner Center e della chiave di licenza verrà ritirata e i partner puntino i clienti **a usare il centro Amministrazione Microsoft 365** esclusivamente a questo scopo. La pagina Software del cliente Partner Center conterrà un "collegamento diretto" al centro Amministrazione Microsoft 365 in cui è possibile puntare i clienti per ottenere le licenze dei clienti e i download software. Ciò consente di garantire un'esperienza più sicura ed efficiente per i clienti stessi.
 
 I codici di licenza e i collegamenti per il download del software sono risorse di proprietà intellettuale preziose e molto ambite. Se utenti malintenzionati ne entrassero in possesso, i limiti di attivazione previsti potrebbero venire raggiunti rapidamente, con conseguenti ripercussioni negative sull'esperienza di utilizzo per clienti e partner. È pertanto fondamentale che i partner usino la tecnologia e le procedure consigliate più sicure per contribuire alla salvaguardia di queste importanti risorse e alla protezione dei clienti.
 
@@ -61,7 +61,7 @@ Per eventuali domande relative a questa notifica, contattare il [supporto tecnic
 
 - 30 settembre 2020: pubblicazione originale 
 
-- 5 marzo 2021: aggiunta di una nota nella parte superiore per quanto riguarda il ripristino della funzionalità di evasione delle chiavi di licenza e del software del centro partner.
+- 5 marzo 2021: aggiunta una nota nella parte superiore relativa al ripristino della funzionalità di adempimento del software Partner Center e della chiave di licenza.
 
 ________________
 ## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>Evoluzione del programma Cloud Solution Provider (CSP) e novità relative al programma Open License: verso una migliore esperienza per partner e clienti
@@ -78,7 +78,7 @@ Tutti i partner dei programmi CSP e Open License
 ### <a name="details"></a>Dettagli
 
 >[!NOTE]
->A causa del feedback dei partner, la funzionalità di evasione del centro per i partner è stata ripristinare per ottenere il software e i codici di licenza per gli ordini di software di abbonamento perpetui e server. Verrà ripristinato lo stato precedente prima di essere rimosso il 19 gennaio 2021. Per ulteriori informazioni, vedere l' [annuncio di marzo 2021](./2021-march.md#4).
+>Grazie ai commenti e suggerimenti dei partner, viene ripristinata la Partner Center di adempimento per ottenere codici software e di licenza per gli ordini software di sottoscrizione perpetui e server. Verrà ripristinato allo stato precedente prima di essere rimosso il 19 gennaio 2021. Per altre informazioni, vedere [l'annuncio di marzo 2021.](./2021-march.md#4)
 
 Il programma Microsoft CSP è cresciuto in modo esponenziale, con più di 90.000 società coinvolte. Si tratta della principale iniziativa Microsoft destinata ai partner per la vendita ad aziende di piccole e medie dimensioni e per clienti aziendali più piccoli all'interno della nuova esperienza commerciale. Sfruttando questa tendenza favorevole, Microsoft oggi ha annunciato l'intenzione di espandere le opportunità per i partner del programma CSP. I dettagli sono disponibili nel relativo [post del blog per i partner](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 
@@ -96,7 +96,7 @@ Per domande relative a questa notifica, contattare il [supporto tecnico del Cent
 
 - 30 settembre 2020: pubblicazione originale.
 
-- 5 marzo 2021: aggiunta di una nota nella parte superiore per quanto riguarda il ripristino della funzionalità di evasione delle chiavi di licenza e del software del centro partner.
+- 5 marzo 2021: aggiunta una nota nella parte superiore relativa al ripristino della funzionalità di adempimento del software Partner Center e della chiave di licenza.
 
 ________________
 ## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Disponibilità di un nuovo strumento per il trasferimento di sottoscrizioni tra partner per il piano di Azure 
@@ -277,13 +277,13 @@ Partner Center Insights presto sostituirà lo strumento per la creazione di repo
 
 ### <a name="what-is-insights"></a>Cos'è Insights?
 
-Il dashboard di Insights nel Centro per i partner offre una visualizzazione unificata e completa degli indicatori KPI essenziali dell'organizzazione partner in prodotti cloud quali Office 365, Azure, Dynamics 365 e in modelli di gestione delle licenze quali Cloud Solution Provider (CSP) e Contratto Enterprise (Enterprise Agreement, EA). Vengono aggiunte continuamente nuove funzionalità e tutti i report supportano l'[esportazione dei dati non elaborati](../pci-download-reports.md), consentendo di eseguire un'analisi dei dati ad hoc in base alle esigenze aziendali. Due ruoli per la creazione di report del Centro per i partner, [Visualizzatore report Executive e Visualizzatore report](../pci-roles.md), consentono di gestire meglio l'accesso e l'utilizzo di informazioni dettagliate all'interno dell'organizzazione.
+Il dashboard di Insights nel Centro per i partner offre una visualizzazione unificata e completa degli indicatori KPI essenziali dell'organizzazione partner in prodotti cloud quali Office 365, Azure, Dynamics 365 e in modelli di gestione delle licenze quali Cloud Solution Provider (CSP) e Contratto Enterprise (Enterprise Agreement, EA). Vengono aggiunte continuamente nuove funzionalità e tutti i report supportano l'[esportazione dei dati non elaborati](../insights-download-reports.md), consentendo di eseguire un'analisi dei dati ad hoc in base alle esigenze aziendali. Due ruoli per la creazione di report del Centro per i partner, [Visualizzatore report Executive e Visualizzatore report](../pci-roles.md), consentono di gestire meglio l'accesso e l'utilizzo di informazioni dettagliate all'interno dell'organizzazione.
 
 Report aggiunti di recente:
 
-- [Report sulle prestazioni del rivenditore ed esportazione dei dati](../pci-resellers-performance.md): viene fornita per i provider indiretti CSP una panoramica delle prestazioni dei diversi rivenditori indiretti.
+- [Report sulle prestazioni del rivenditore ed esportazione dei dati](../insights-resellers-performance.md): viene fornita per i provider indiretti CSP una panoramica delle prestazioni dei diversi rivenditori indiretti.
 
-- [Report sulle opportunità relative ai clienti ed esportazione dei dati](../pci-customer-opportunities.md): viene fornita una panoramica della propensione dei clienti all'acquisto di prodotti Microsoft.
+- [Report sulle opportunità relative ai clienti ed esportazione dei dati](../insights-customer-opportunities.md): viene fornita una panoramica della propensione dei clienti all'acquisto di prodotti Microsoft.
 
 Per un elenco completo dei report disponibili in Insights, vedere [qui](../partner-center-insights.md).
 

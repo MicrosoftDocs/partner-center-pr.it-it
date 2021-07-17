@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: d44ea9cd6c39954a1299344634d22fd1d31ec773
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 12684ee4949102ebbae5ce3e98ea38decfd34bb7
+ms.sourcegitcommit: b347181a7dd577395b47ef2c0fc680e9cfb3711f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684271"
+ms.lasthandoff: 07/17/2021
+ms.locfileid: "114394282"
 ---
 # <a name="partner-center-announcements"></a>Annunci del Centro per i partner
 
@@ -22,37 +22,38 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 
 |**Categoria**|**Annunci di luglio 2021**|**Annunciato**|
 |---------|:---------|:---------|
+|Offerte/mercati|[Correzioni all'anteprima del listino prezzi dei servizi basati su licenza di agosto Enterprise Mobility & Security (EMS) E3](2021-july.md#10)| 16 luglio |
 |Funzionalità|[Modifica del software in Microsoft China Corporation Limited (MCCL) Cloud Solution Provider (CSP) e Open License](2021-july.md#9)| 13 luglio |
-|Preparazione|[Modifiche all'API Cloud Solution Provider (CSP) per la convalida dell'indirizzo del cliente per il 13 luglio 2021](2021-july.md#8)| 12 luglio |
+|Preparazione|[Le modifiche apportate all'API di convalida dell'indirizzo del cliente Cloud Solution Provider (CSP) verranno salvate il 13 luglio 2021](2021-july.md#8)| 12 luglio |
 |Funzionalità|[Aggiornamento e promemoria della community di Cloud Solution Provider (CSP) di luglio](2021-july.md#7)| 12 luglio |
 |Funzionalità|[Mantenere attive le certificazioni Microsoft con l'aiuto di Partner Center](2021-july.md#6)| 9 luglio |
 |Funzionalità|[Versione dell'SDK .NET Standard (v2.0.1)](2021-july.md#5)| 7 luglio |
-|Funzionalità|[Annuncio della trasparenza degli sconti dei clienti](2021-july.md#4)| 7 luglio |
-|Funzionalità|[Windows risolto il problema del codice Product Key 7 Extended Security Updates (ESU) Year 2 (2021)](2021-july.md#3)|2 luglio |
-|Funzionalità|[Visualizzare i lanci e le offerte del prodotto di questo mese](2021-july.md#2)|1 luglio|
-|Funzionalità|[Dynamics 365 Migrazione cloud e ritiro delle offerte scontate](2021-july.md#1)|1 luglio|
+|Funzionalità|[Annuncio della trasparenza dello sconto per i clienti](2021-july.md#4)| 7 luglio |
+|Funzionalità|[Windows 7 Extended Security Updates (ESU) Year 2 (2021) product key issue resolved](2021-july.md#3)|2 luglio |
+|Funzionalità|[Visualizzare le offerte e i lanci di prodotti di questo mese](2021-july.md#2)|1 luglio|
+|Funzionalità|[Dynamics 365 Migrazione cloud promozione e ritiro di offerte scontate](2021-july.md#1)|1 luglio|
 |**Categoria**|**Annunci di giugno 2021**|**Annunciato**|
 |Funzionalità|[Aggiornamento della fase 2: modifica ue/EFTA e Regno Unito della valuta di fatturazione dei partner per le nuove offerte commerciali](2021-june.md#9)|24 giugno|
 |Funzionalità|[Visualizzare le promozioni e le offerte più recenti](2021-june.md#8)|22 giugno|
-|Funzionalità|[Fase 1: modifiche alla disponibilità dell'offerta di Azure nel Cloud Solution Provider (CSP) correlate alla nuova esperienza commerciale in arrivo](2021-june.md#7)|21 giugno|
-|Far crescere l'azienda|[Aggiornamento e promemoria della community di Cloud Solution Provider (CSP) di giugno](2021-june.md#6)|11 giugno|
-|Offerte e mercati|[Cloud Solution Provider (CSP) promo extensions for Microsoft 365 Audio Conferencing and Microsoft 365 Business Voice](2021-june.md#5)|11 giugno|
+|Funzionalità|[Fase 1: Le modifiche alla disponibilità delle offerte di Azure nel Cloud Solution Provider (CSP) correlate alla nuova esperienza commerciale saranno presto disponibili](2021-june.md#7)|21 giugno|
+|Far crescere il business|[Aggiornamento e promemoria della community di Cloud Solution Provider (CSP) di giugno](2021-june.md#6)|11 giugno|
+|Offerte e mercati|[Cloud Solution Provider promo (CSP) per audioconferenza Microsoft 365 e Microsoft 365 Business Voice](2021-june.md#5)|11 giugno|
 |Funzionalità|[Listino prezzi software perpetuo corretto e ripubblicato](2021-june.md#4)|4 giugno|
 |Funzionalità|[Correzioni all'anteprima del listino prezzi dei servizi basati su licenza di luglio](2021-june.md#3)|4 giugno|
 |Funzionalità|[Colonne aggiuntive per informazioni più dettagliate nei report sull'utilizzo di Azure](2021-june.md#2)|June 2|
-|Funzionalità|[Visualizzare i lanci e le offerte del prodotto di questo mese](2021-june.md#1)|June 1|
+|Funzionalità|[Visualizzare le offerte e i lanci di prodotti di questo mese](2021-june.md#1)|June 1|
 |**Categoria**|**Annunci di maggio 2021**|**Annunciato**|
-|Funzionalità|[Supporto sandbox per il modello indiretto per abilitare il test delle API end-to-end](2021-may.md#15)|25 maggio|
-|Funzionalità, migliora la sicurezza e & conformità |[Aggiornamenti di giugno per Online Services (OLS) e guida all'autorizzazione del canale software](2021-may.md#14)|25 maggio|
+|Funzionalità|[Supporto sandbox per il modello indiretto per abilitare il test dell'API end-to-end](2021-may.md#15)|25 maggio|
+|Funzionalità, miglioramento della sicurezza & conformità |[Aggiornamenti di giugno ai Servizi online (OLS) e alla Guida all'autorizzazione del canale software](2021-may.md#14)|25 maggio|
 |Funzionalità|[Aggiornamenti sulla transazione di software perpetuo in CSP e modifiche al programma Open License](2021-may.md#13)|17 mag|
-|Funzionalità|[Fase 2 presto disponibile: Cambio della valuta di fatturazione partner ue/EFTA e Regno Unito per le nuove offerte commerciali](2021-may.md#12)|17 mag|
+|Funzionalità|[Fase 2 presto disponibile: modifica ue/EFTA e Regno Unito della valuta di fatturazione dei partner per le nuove offerte commerciali](2021-may.md#12)|17 mag|
 |Funzionalità|[Deprecazione della Microsoft 365 Business Voice Attività iniziali guidata (GSW)](2021-may.md#11)|14 maggio|
 |Funzionalità|[Aggiornamento e promemoria della community di Cloud Solution Provider (CSP)](2021-may.md#10)|13 maggio|
-|Funzionalità|[Analisi per le offerte di co-selling guidate dai partner](2021-may.md#9)|10 maggio|
-|Funzionalità|[Hosting e programmi spLA Reseller Incentive estesi fino al 30 settembre 2021](2021-may.md#8)|7 maggio|
-|Funzionalità|[La funzionalità del profilo bancario predefinito è disponibile Partner Center per la registrazione di incentivi](2021-may.md#7)|7 maggio|
-|Funzionalità|[Aggiornamento: l'avvio del prodotto dell'utilità di pianificazione è stato ritardato](2021-may.md#6)|5 maggio|
-|Funzionalità|[Il software perpetuo CSP sarà presto disponibile in Cina](2021-may.md#5)|5 maggio|
+|Funzionalità|[Analisi per le trattative di co-selling guidate dai partner](2021-may.md#9)|10 maggio|
+|Funzionalità|[Hosting e programmi SPLA Reseller Incentive estesi fino al 30 settembre 2021](2021-may.md#8)|7 maggio|
+|Funzionalità|[La funzionalità del profilo bancario predefinito è disponibile in Partner Center per la registrazione di incentivi](2021-may.md#7)|7 maggio|
+|Funzionalità|[Aggiornamento: l'avvio del prodotto dell'Utilità di pianificazione è stato ritardato](2021-may.md#6)|5 maggio|
+|Funzionalità|[CSP Perpetual software coming soon to China](2021-may.md#5)|5 maggio|
 |Funzionalità|[Promemoria finale: Deprecazione della qualificazione GET il 6 maggio 2021](2021-may.md#4)|4 maggio|
 |Offerte/mercati|[Correzioni al listino prezzi dei servizi basati su licenza del 1° maggio 2021](2021-may.md#3)|4 maggio|
 |Funzionalità|[Annuncio della qualificazione dell'entità di proprietà dello stato](2021-may.md#2)|4 maggio|
@@ -95,7 +96,7 @@ Informazioni sugli aggiornamenti importanti del Centro per i partner. Queste inf
 |Funzionalità|[Modifiche all'onboarding del cliente Cloud Solution Provider (CSP)](2021-february.md#10)|25 febbraio|
 |Funzionalità|[Now Live: Migrazione di DocuSign ad Adobe Sign per i partner ai sensi dei contratti Microsoft Partner (MPA)](2021-february.md#9)|16 febbraio|
 |Far crescere il business|[Promemoria: introduzione alla limitazione delle API per i partner che chiamano le API del Centro per i partner](2021-february.md#8)|16 febbraio|
-|Funzionalità|[Introduzione agli argomenti di Microsoft Viva](2021-february.md#7)|12 febbraio|
+|Funzionalità|[Introduzione agli Microsoft Viva seguenti](2021-february.md#7)|12 febbraio|
 |Offerte/mercati|[Microsoft 365 E3 prezzi delle modifiche apportate a marzo 2021](2021-february.md#6)|11 febbraio|
 |Offerte/mercati|[Listino prezzi dell'anteprima basata su licenza aggiornato per la krone norvegese](2021-february.md#5)|10 febbraio|
 |Funzionalità|[Premium, un componente aggiuntivo per Compliance Manager, sarà disponibile il 1° marzo 2021](2021-february.md#4)|5 febbraio|

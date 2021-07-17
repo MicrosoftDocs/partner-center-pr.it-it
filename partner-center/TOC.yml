@@ -433,7 +433,7 @@
           displayName: 'region, regio'
         - name: Richiedere crediti del contratto di servizio a Microsoft
           href: request-credit.md
-        - name: Impatto dei criteri fiscali sui pagamenti
+        - name: Effetti dei criteri fiscali sui pagamenti
           href: tax-policies-affect-payout.md
     - name: Impostare un budget di spesa di Azure per i clienti
       href: set-an-azure-spending-budget-for-your-customers.md
@@ -647,90 +647,48 @@
           href: partner-center-insights.md
           displayName: data
         - name: Accessi a in base al ruolo a Insights
-          href: insights-roles.md
+          href: pci-roles.md
         - name: Report di Insights
           items:
             - name: Panoramica
-              href: insights-overview-report.md
+              href: pci-overview-report.md
             - name: Customer
-              href: insights-customer-report.md
+              href: pci-customer-report.md
             - name: Prestazioni dei rivenditori
-              href: insights-resellers-performance.md
+              href: pci-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: Sottoscrizioni prodotto
-              href: insights-product-subscriptions-report.md
+              href: pci-product-subscriptions-report.md
             - name: Utilizzo di Azure
-              href: insights-azure-usage-report.md
+              href: pci-azure-usage-report.md
             - name: Utilizzo di Teams
-              href: insights-teams-usage-report.md
+              href: pci-teams-usage-report.md
             - name: Utilizzo di Office 365
-              href: insights-office-365-usage-report.md
+              href: pci-office-365-usage-report.md
             - name: Utilizzo di Dynamics
-              href: insights-dynamics-usage-report.md
+              href: pci-dynamics-usage-report.md
             - name: Utilizzo di Enterprise Mobility + Security
-              href: insights-enterprise-mobility-security-usage-report.md
+              href: pci-enterprise-mobility-security-usage-report.md
             - name: Utilizzo di Power BI
-              href: insights-power-bi-usage-report.md
+              href: pci-power-bi-usage-report.md
             - name: Formazione
-              href: insights-training-dashboard.md
+              href: pci-training-dashboard.md
             - name: Analisi di Microsoft Learn
               href: ms-learn-analytics.md
             - name: Competenze
-              href: insights-competencies-report.md
+              href: pci-competencies-report.md
             - name: Vantaggi
-              href: insights-benefits-report.md
+              href: pci-benefits-report.md
             - name: Propensione di CloudAscent
-              href: insights-customer-opportunities.md
+              href: pci-customer-opportunities.md
             - name: Licenze di prodotto
-              href: insights-product-licenses-report.md
+              href: pci-product-licenses-report.md
         - name: Domande frequenti su Insights
-          href: insights-known-issues.md
+          href: pci-known-issues.md
         - name: Scaricare i report di Insights
-          href: insights-download-reports.md
-        - name: Accesso a livello di codice all'analisi
-          items:
-            - name: Introduzione
-              href: insights-programmatic-get-started.md
-            - name: Prerequisiti per l'accesso a livello di codice
-              href: insights-programmatic-prerequisites.md
-            - name: Paradigma di accesso a livello di codice
-              href: insights-programmatic-access-paradigm.md
-            - name: Effettuare la prima chiamata API a livello di codice
-              href: insights-programmatic-first-api-call.md
-            - name: Elenco di query di sistema
-              href: insights-programmatic-system-queries.md
-            - name: Query di esempio
-              href: insights-programmatic-sample-queries.md
-            - name: Specifica di query personalizzate
-              href: insights-programmatic-custom-query.md
-            - name: Applicazione di esempio
-              href: insights-programmatic-sample-application.md
-            - name: Domande frequenti
-              href: insights-programmatic-faq.md
-            - name: Informazioni di riferimento sulle API
-              items:
-                - name: API disponibili
-                  href: insights-programmatic-analytics-available-api.md
-                - name: Ottenere tutti i set di dati
-                  href: insights-programmatic-analytics-api-get-dataset.md
-                - name: Ottenere query di report
-                  href: insights-programmatic-analytics-api-get-report-queries.md
-                - name: Eliminare query di report
-                  href: insights-programmatic-analytics-api-delete-report-queries.md
-                - name: Provare le query del report
-                  href: insights-programmatic-analytics-api-try-report-queries.md
-                - name: Scarica il report
-                  href: insights-programmatic-analytics-api-get-report.md
-                - name: Aggiornare il report
-                  href: insights-programmatic-analytics-api-update-report.md
-                - name: Elimina report
-                  href: insights-programmatic-analytics-api-delete-report.md
-                - name: Sospendere le esecuzioni di report
-                  href: insights-programmatic-analytics-api-pause-report-executions.md
-                - name: Riprendere le esecuzioni dei report
-                  href: insights-programmatic-analytics-api-resume-report-executions.md
+          href: pci-download-reports.md
         - name: Definizioni dei dati di Insights
-          href: insights-data-definitions.md
+          href: pci-data-definitions.md
     - name: Indicatori di contributi dei partner
       items:
         - name: Per competenza di applicazioni aziendali cloud
